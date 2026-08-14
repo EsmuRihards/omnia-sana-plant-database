@@ -109,6 +109,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flower heads with the flowering herb once the flat-topped corymbs have opened to full bloom, before they turn brown."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole plant, stems, leaves and flowers, collected in the wild state, in August, when in flower.",
+     "reference_ids": [
+      "REF-0371",
+      "REF-3184"
+     ],
+     "independent_confirmation": "King's American Dispensatory (REF-3184) independently gives the same flowering-stage collection: 'It flowers from May to October, during which time it should be gathered'.",
+     "species_confirmed": true,
+     "status": "verified"
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaf together with the flowering herb, as the flat-topped flower heads open to full bloom; yarrow leaf is taken with the stems and flowers at flowering, not separately."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole plant, stems, leaves and flowers, collected in the wild state, in August, when in flower.",
+     "reference_ids": [
+      "REF-0371",
+      "REF-3184"
+     ],
+     "independent_confirmation": "King's American Dispensatory (REF-3184) independently gives the same flowering-stage collection: 'It flowers from May to October, during which time it should be gathered'.",
+     "species_confirmed": true,
+     "status": "verified"
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Cut the flowering stems with the leaf and flower as the corymbs open to full bloom; the coarser stems are rejected after gathering."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole plant, stems, leaves and flowers, collected in the wild state, in August, when in flower.",
+     "reference_ids": [
+      "REF-0371",
+      "REF-3184"
+     ],
+     "independent_confirmation": "King's American Dispensatory (REF-3184) independently gives the same flowering-stage collection: 'It flowers from May to October, during which time it should be gathered (preferably during July), and after rejecting the coarser stems, should be carefully dried'.",
+     "species_confirmed": true,
+     "status": "verified"
+    }
+   ],
    "traditional_uses": {
     "text": "Yarrow has an ancient reputation as a wound herb (its old name 'staunchweed' and its association with Achilles reflect traditional use to stop bleeding and heal wounds) and as a bitter digestive and diaphoretic remedy for feverish colds, spasmodic gastrointestinal complaints, hepatobiliary disorders and gynaecological complaints. The flowering herb is classically taken as a hot infusion at the onset of a cold or fever to promote sweating, and used as a bitter tonic to stimulate appetite and digestion.",
     "reference_ids": [
@@ -641,7 +688,7 @@
    ],
    "provenance": "book+website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "yarrow"
   },
   {
@@ -721,6 +768,24 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the rhizome in the dormant season — from late autumn once the top has died back, through to early spring before the new leaves emerge — lifting it while still firm, before it turns hollow.",
+      "Confirm identity before digging: the wet-ground rhizome and sword-like leaves are confusable with the toxic, NON-aromatic yellow flag iris (Iris pseudacorus); true Acorus calamus is strongly sweet-aromatic when cut. See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The rhizome should be gathered in early spring or in October and November, freed from dirt and its bitter rootlets, and dried quickly in a gently warmed room.",
+     "reference_ids": [
+      "REF-3185",
+      "REF-3186"
+     ],
+     "independent_confirmation": "Grieve (REF-3186) independently gives the same dormant-season window — 'Late autumn or early spring is the time chosen for collection' — and adds the readiness cue that the rhizomes are lifted 'before they lose their firmness and become hollow'.",
+     "species_confirmed": true,
+     "status": "verified"
+    }
+   ],
    "traditional_uses": {
     "text": "Sweet flag rhizome is a classic aromatic bitter and nervine of Ayurvedic and East Asian traditional medicine, used for indigestion, bloating, flatulence and poor appetite, and as a nervine tonic for memory, concentration and mild nervous complaints.",
     "reference_ids": [
@@ -997,7 +1062,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "sweet-flag"
   },
   {
@@ -1076,6 +1141,41 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the whole rootstock (rhizome with its fibrous roots) in autumn, after the plant has flowered and set seed and the foliage is dying back, when the roots are at their peak weight; dry in the shade.",
+      "Confirm identity of the woodland plant before digging — the rhizome is confusable with toxic baneberry (Actaea pachypoda). See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "both",
+     "constituent_note": "NC State Extension (REF-3188) ties the autumn timing to a constituent peak: 'Most black cohosh is harvested in the fall, primarily because that is when the roots are at their peak in weight and bioactive constituents.'",
+     "source_quote": "The part used in medicine is the rhizome, gathered in the autumn and carefully dried in the shade.",
+     "reference_ids": [
+      "REF-3187",
+      "REF-3188"
+     ],
+     "independent_confirmation": "NC State Extension (REF-3188) independently confirms the autumn harvest of the entire rootstock: 'The entire root, including rhizome and fibrous roots, is harvested.'",
+     "species_confirmed": true,
+     "status": "verified"
+    },
+    {
+     "part": "root",
+     "signals": [
+      "Lift the fibrous roots with the rhizome in autumn, as the top dies back, when the whole rootstock is at peak weight; dry in the shade.",
+      "Confirm identity of the woodland plant before digging — the rhizome is confusable with toxic baneberry (Actaea pachypoda). See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "both",
+     "source_quote": "Most black cohosh is harvested in the fall, primarily because that is when the roots are at their peak in weight and bioactive constituents.",
+     "reference_ids": [
+      "REF-3187",
+      "REF-3188"
+     ],
+     "independent_confirmation": "King's American Dispensatory (REF-3187) independently gives the autumn rootstock collection: 'The part used in medicine is the rhizome, gathered in the autumn and carefully dried in the shade.'",
+     "species_confirmed": true,
+     "status": "verified"
+    }
+   ],
    "traditional_uses": {
     "text": "Black cohosh root was used by Native American peoples for gynaecological complaints, rheumatism and general malaise, and entered nineteenth-century Eclectic medicine as a remedy for menstrual and menopausal disorders. It remains best known today as a standardised extract for menopausal hot flashes, night sweats and mood disturbance.",
     "reference_ids": [
@@ -1299,7 +1399,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "black-cohosh"
   },
   {
@@ -1357,6 +1457,45 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather young leaves in spring, before the plant comes into flower, while they are still bright green, glossy and not fully unfurled; leaves gathered after flowering toughen and lose quality.",
+      "SAFETY: the young spring foliage is exactly the stage confused with the FATAL poison hemlock (Conium maculatum), hemlock water-dropwort (Oenanthe crocata) and fool's parsley (Aethusa cynapium). Confirm identification before gathering — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are best harvested before the plant comes into flower.",
+     "reference_ids": [
+      "REF-3190"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF also gives a divergent MEDICINAL-herb window — 'The plant is harvested when it is in flower in late spring to mid-summer' — recorded here, not merged: the tender-leaf harvest (before flowering) and the flowering-herb medicinal harvest differ by intended use. Single source -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the tender leaf-stalks in spring together with the young leaves, before the plant comes into flower.",
+      "SAFETY: confirm identification before gathering — the young spring plant is confused with FATAL Apiaceae lookalikes (poison hemlock and relatives). See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are best harvested before the plant comes into flower.",
+     "reference_ids": [
+      "REF-3190"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "'Stem' here is the tender leaf-stalk (petiole), gathered with the young pre-flowering leaves; PFAF's leaf statement is the source. Single source -> provisional."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "No reliable phenological source found for the ROOT of Aegopodium podagraria after searching: Grieve's A Modern Herbal (lists 'Parts Used: Herb, root' but gives NO collection stage), King's American Dispensatory (no Aegopodium entry), PFAF (only unsourced reader comments about 'early spring' underground stems, not an authoritative statement) and a peer-reviewed goutweed review (OUCI/dntb aggregator; botanical + chemical, no harvest timing). The root is a minor part and its harvest stage is undocumented in these seams. Revisit with a European flora or ethnobotanical monograph. SAFETY: the root is confused with the FATAL Oenanthe crocata (mistaken for parsnip) — see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Ground elder has long been used in European folk medicine as a remedy for gout and rheumatic and arthritic joint pain (reflected in the name 'podagraria', from podagra, gout), typically applied as a poultice or taken as a decoction. The young leaves have also been eaten as a spring pot-herb, valued for their nutrient content as well as their medicinal reputation.",
     "reference_ids": [
@@ -1676,7 +1815,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "ground-elder"
   },
   {
@@ -1760,6 +1899,24 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the ripe seed (conker) in autumn, when the spiny green husk splits into three valves and the shining brown nut falls to the ground — the freed, fallen nut is the mature, ready seed.",
+      "SAFETY: the raw seed contains toxic esculin and is used only as a standardised, processed extract — never eaten raw."
+     ],
+     "basis": "traditional",
+     "source_quote": "a large green husk, protected with short spines, which splits into three valves when it falls to the ground and frees the nut.",
+     "reference_ids": [
+      "REF-3189"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Grieve also notes 'the nuts, which are collected in the autumn.' Single authoritative source for the ripeness cue -> provisional; a pharmacopoeial 'ripe, dried seed' definition (Ph. Eur. Hippocastani semen) would upgrade to verified. The toxicity note reflects the plant's existing contraindications."
+    }
+   ],
    "traditional_uses": {
     "text": "Horse chestnut seed has a long folk history as a remedy for varicose veins, haemorrhoids and 'heavy legs', and was also used topically for rheumatic pain and bruising. Modern use is almost exclusively as a standardised seed extract for chronic venous insufficiency, confirming this traditional venous-support reputation.",
     "reference_ids": [
@@ -1993,7 +2150,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "horse-chestnut"
   },
   {

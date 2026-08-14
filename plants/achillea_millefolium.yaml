@@ -86,6 +86,40 @@ harvesting:
   reference_ids:
   - REF-0369
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flower heads with the flowering herb once the flat-topped corymbs have opened to full bloom, before they turn brown."
+  basis: traditional
+  source_quote: "The whole plant, stems, leaves and flowers, collected in the wild state, in August, when in flower."
+  reference_ids:
+  - REF-0371
+  - REF-3184
+  independent_confirmation: "King's American Dispensatory (REF-3184) independently gives the same flowering-stage collection: 'It flowers from May to October, during which time it should be gathered'."
+  species_confirmed: true
+  status: verified
+- part: leaf
+  signals:
+  - "Gather the leaf together with the flowering herb, as the flat-topped flower heads open to full bloom; yarrow leaf is taken with the stems and flowers at flowering, not separately."
+  basis: traditional
+  source_quote: "The whole plant, stems, leaves and flowers, collected in the wild state, in August, when in flower."
+  reference_ids:
+  - REF-0371
+  - REF-3184
+  independent_confirmation: "King's American Dispensatory (REF-3184) independently gives the same flowering-stage collection: 'It flowers from May to October, during which time it should be gathered'."
+  species_confirmed: true
+  status: verified
+- part: stem
+  signals:
+  - "Cut the flowering stems with the leaf and flower as the corymbs open to full bloom; the coarser stems are rejected after gathering."
+  basis: traditional
+  source_quote: "The whole plant, stems, leaves and flowers, collected in the wild state, in August, when in flower."
+  reference_ids:
+  - REF-0371
+  - REF-3184
+  independent_confirmation: "King's American Dispensatory (REF-3184) independently gives the same flowering-stage collection: 'It flowers from May to October, during which time it should be gathered (preferably during July), and after rejecting the coarser stems, should be carefully dried'."
+  species_confirmed: true
+  status: verified
 traditional_uses:
   text: Yarrow has an ancient reputation as a wound herb (its old name 'staunchweed' and its association
     with Achilles reflect traditional use to stop bleeding and heal wounds) and as a bitter digestive
@@ -476,7 +510,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+website+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -497,4 +531,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the ratio label and the 1 mL lower bound were dropped. REF-0373 (Herbal Reality) retained as a secondary
   traditional-use reference. status -> verified. Preparation sourced 2026-07-20 to a monograph already
   on the record, verified quote-by-quote against the monograph''s stored posology and adversarially re-checked;
-  text rewritten to the source rather than having a reference stapled onto the previous wording.'
+  text rewritten to the source rather than having a reference stapled onto the previous wording. | 2026-08-14
+  (harvest-calendar campaign, Batch 1): added harvest_readiness for flower/leaf/stem (verified) — the
+  flowering herb is gathered as the flat-topped corymbs open to full bloom, sourced to Grieve (REF-0371,
+  whose URL was repointed to the Part Used page yarrow02) and King''s American Dispensatory (REF-3184, new).
+  Existing harvesting.season not inherited; signal re-derived per the campaign.'

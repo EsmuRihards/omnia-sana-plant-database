@@ -68,6 +68,19 @@ harvesting:
   - REF-0470
   - REF-2402
   status: verified
+harvest_readiness:
+- part: seed
+  signals:
+  - "Collect the ripe seed (conker) in autumn, when the spiny green husk splits into three valves and the shining brown nut falls to the ground — the freed, fallen nut is the mature, ready seed."
+  - "SAFETY: the raw seed contains toxic esculin and is used only as a standardised, processed extract — never eaten raw."
+  basis: traditional
+  source_quote: "a large green husk, protected with short spines, which splits into three valves when it falls to the ground and frees the nut."
+  reference_ids:
+  - REF-3189
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Grieve also notes 'the nuts, which are collected in the autumn.' Single authoritative source for the ripeness cue -> provisional; a pharmacopoeial 'ripe, dried seed' definition (Ph. Eur. Hippocastani semen) would upgrade to verified. The toxicity note reflects the plant's existing contraindications."
 traditional_uses:
   text: Horse chestnut seed has a long folk history as a remedy for varicose veins, haemorrhoids and 'heavy
     legs', and was also used topically for rheumatic pain and bruising. Modern use is almost exclusively
@@ -239,7 +252,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed extract for CVI;
   Cancer Letters review of escin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained and now
@@ -263,4 +276,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review
   well-established-use posology is expressed as 21 mg triterpene glycosides calculated as PROTOAESCIGENIN
   twice daily, whereas the entry states 100-150 mg ESCIN daily - different analytical bases, not directly
   comparable, and converting between them here would be guesswork. TODO: reconcile the two bases properly,
-  or state both side by side with their sources.'
+  or state both side by side with their sources. | 2026-08-14 (harvest-calendar campaign, Batch 1): added
+  harvest_readiness for the seed (provisional) — the ripe conker is collected in autumn as the spiny green
+  husk splits and the nut falls, sourced to Grieve Horse Chestnut (REF-3189, new). A pharmacopoeial "ripe,
+  dried seed" definition would upgrade it to verified. Existing harvesting.season not inherited; raw-seed
+  esculin toxicity noted in the signal.'

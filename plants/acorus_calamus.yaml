@@ -66,6 +66,19 @@ harvesting:
   reference_ids:
   - REF-0516
   status: verified
+harvest_readiness:
+- part: rhizome
+  signals:
+  - "Dig the rhizome in the dormant season — from late autumn once the top has died back, through to early spring before the new leaves emerge — lifting it while still firm, before it turns hollow."
+  - "Confirm identity before digging: the wet-ground rhizome and sword-like leaves are confusable with the toxic, NON-aromatic yellow flag iris (Iris pseudacorus); true Acorus calamus is strongly sweet-aromatic when cut. See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The rhizome should be gathered in early spring or in October and November, freed from dirt and its bitter rootlets, and dried quickly in a gently warmed room."
+  reference_ids:
+  - REF-3185
+  - REF-3186
+  independent_confirmation: "Grieve (REF-3186) independently gives the same dormant-season window — 'Late autumn or early spring is the time chosen for collection' — and adds the readiness cue that the rhizomes are lifted 'before they lose their firmness and become hollow'."
+  species_confirmed: true
+  status: verified
 traditional_uses:
   text: Sweet flag rhizome is a classic aromatic bitter and nervine of Ayurvedic and East Asian traditional
     medicine, used for indigestion, bloating, flatulence and poor appetite, and as a nervine tonic for
@@ -285,7 +298,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Applied Toxicology asarone
   toxicology review; Phytochemistry systematic review). Record status set to needs-review because beta-asarone
   carries documented carcinogenicity and regulatory restrictions. Originally a skeleton imported from
@@ -301,4 +314,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Appl
   habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
   anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
-  plant''s cited literature, as part of the cancer-condition campaign.'
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-14 (harvest-calendar
+  campaign, Batch 1): added harvest_readiness for the rhizome (verified) — dormant-season dig from late
+  autumn to early spring, lifted before it turns hollow, sourced to King''s American Dispensatory (REF-3185,
+  new) and Grieve Sweet Sedge (REF-3186, new). Existing harvesting.season not inherited; signal re-derived.
+  Safety cross-link to the non-aromatic Iris pseudacorus lookalike.'

@@ -61,6 +61,32 @@ harvesting:
   reference_ids:
   - REF-2398
   status: verified
+harvest_readiness:
+- part: rhizome
+  signals:
+  - "Dig the whole rootstock (rhizome with its fibrous roots) in autumn, after the plant has flowered and set seed and the foliage is dying back, when the roots are at their peak weight; dry in the shade."
+  - "Confirm identity of the woodland plant before digging — the rhizome is confusable with toxic baneberry (Actaea pachypoda). See this plant's Dangerous Lookalikes."
+  basis: both
+  constituent_note: "NC State Extension (REF-3188) ties the autumn timing to a constituent peak: 'Most black cohosh is harvested in the fall, primarily because that is when the roots are at their peak in weight and bioactive constituents.'"
+  source_quote: "The part used in medicine is the rhizome, gathered in the autumn and carefully dried in the shade."
+  reference_ids:
+  - REF-3187
+  - REF-3188
+  independent_confirmation: "NC State Extension (REF-3188) independently confirms the autumn harvest of the entire rootstock: 'The entire root, including rhizome and fibrous roots, is harvested.'"
+  species_confirmed: true
+  status: verified
+- part: root
+  signals:
+  - "Lift the fibrous roots with the rhizome in autumn, as the top dies back, when the whole rootstock is at peak weight; dry in the shade."
+  - "Confirm identity of the woodland plant before digging — the rhizome is confusable with toxic baneberry (Actaea pachypoda). See this plant's Dangerous Lookalikes."
+  basis: both
+  source_quote: "Most black cohosh is harvested in the fall, primarily because that is when the roots are at their peak in weight and bioactive constituents."
+  reference_ids:
+  - REF-3187
+  - REF-3188
+  independent_confirmation: "King's American Dispensatory (REF-3187) independently gives the autumn rootstock collection: 'The part used in medicine is the rhizome, gathered in the autumn and carefully dried in the shade.'"
+  species_confirmed: true
+  status: verified
 traditional_uses:
   text: Black cohosh root was used by Native American peoples for gynaecological complaints, rheumatism
     and general malaise, and entered nineteenth-century Eclectic medicine as a remedy for menstrual and
@@ -250,7 +276,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative
   Cancer Therapies systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations
@@ -299,4 +325,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Tincture'':
   Both summaries state outright that no tincture posology is given - WHO covers 40-60% isopropyl/ethanol
   extracts corresponding to 40 mg drug, the EU monograph covers dry extracts only. Neither supports a
-  1:10 tincture.'
+  1:10 tincture. | 2026-08-14 (harvest-calendar campaign, Batch 1): added harvest_readiness for rhizome
+  and root (verified, basis both) — the whole rootstock is dug in autumn after fruiting as the foliage dies
+  back, when roots are at peak weight and constituents, sourced to King''s American Dispensatory (REF-3187,
+  new) and NC State Extension (REF-3188, new). Existing harvesting.season not inherited; signal re-derived.
+  Safety cross-link to the toxic baneberry (Actaea pachypoda) lookalike.'

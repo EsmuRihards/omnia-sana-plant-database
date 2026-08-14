@@ -50,6 +50,34 @@ harvesting:
   reference_ids:
   - REF-0719
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather young leaves in spring, before the plant comes into flower, while they are still bright green, glossy and not fully unfurled; leaves gathered after flowering toughen and lose quality."
+  - "SAFETY: the young spring foliage is exactly the stage confused with the FATAL poison hemlock (Conium maculatum), hemlock water-dropwort (Oenanthe crocata) and fool's parsley (Aethusa cynapium). Confirm identification before gathering — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The leaves are best harvested before the plant comes into flower."
+  reference_ids:
+  - REF-3190
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF also gives a divergent MEDICINAL-herb window — 'The plant is harvested when it is in flower in late spring to mid-summer' — recorded here, not merged: the tender-leaf harvest (before flowering) and the flowering-herb medicinal harvest differ by intended use. Single source -> provisional."
+- part: stem
+  signals:
+  - "Gather the tender leaf-stalks in spring together with the young leaves, before the plant comes into flower."
+  - "SAFETY: confirm identification before gathering — the young spring plant is confused with FATAL Apiaceae lookalikes (poison hemlock and relatives). See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The leaves are best harvested before the plant comes into flower."
+  reference_ids:
+  - REF-3190
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "'Stem' here is the tender leaf-stalk (petiole), gathered with the young pre-flowering leaves; PFAF's leaf statement is the source. Single source -> provisional."
+- part: root
+  status: gap
+  notes: "No reliable phenological source found for the ROOT of Aegopodium podagraria after searching: Grieve's A Modern Herbal (lists 'Parts Used: Herb, root' but gives NO collection stage), King's American Dispensatory (no Aegopodium entry), PFAF (only unsourced reader comments about 'early spring' underground stems, not an authoritative statement) and a peer-reviewed goutweed review (OUCI/dntb aggregator; botanical + chemical, no harvest timing). The root is a minor part and its harvest stage is undocumented in these seams. Revisit with a European flora or ethnobotanical monograph. SAFETY: the root is confused with the FATAL Oenanthe crocata (mistaken for parsnip) — see Dangerous Lookalikes."
 traditional_uses:
   text: Ground elder has long been used in European folk medicine as a remedy for gout and rheumatic and
     arthritic joint pain (reflected in the name 'podagraria', from podagra, gout), typically applied as
@@ -298,7 +326,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -318,4 +346,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   row; (2) WHO monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each
   monograph''s Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own
   reference bucket, mined for human studies that state an administered dose. Per the campaign''s integrity
-  bar the entry is left unsourced at status draft rather than attached to a tangentially-related paper.'
+  bar the entry is left unsourced at status draft rather than attached to a tangentially-related paper. |
+  2026-08-14 (harvest-calendar campaign, Batch 1): added harvest_readiness — leaf and stem provisional
+  (young spring foliage/leaf-stalks before flowering, PFAF REF-3190, new; a divergent medicinal in-flower
+  harvest is logged, not merged); root = gap (no phenological source found after searching Grieve, King''s,
+  PFAF and a goutweed review — search-log stored in the entry). Existing harvesting.season not inherited.
+  Safety cross-links to the FATAL Apiaceae lookalikes, whose confusable stage is this same young foliage.'

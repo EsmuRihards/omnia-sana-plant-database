@@ -10740,6 +10740,69 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowers with the leafy aerial parts through summer, as the plant comes into flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in late spring and the summer as the plant comes into flower.",
+     "reference_ids": [
+      "REF-3216"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3216); leaf and flower gathered together as the plant comes into flower. Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in late spring and summer, as the plant comes into flower, while still fresh and tender.",
+      "SAFETY: borage leaves (grey-green, bristly, in a rosette) can be confused with the FATAL foxglove (Digitalis purpurea) rosette; confirm identity before gathering — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in late spring and the summer as the plant comes into flower.",
+     "reference_ids": [
+      "REF-3216"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3216). Single source -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Cut the leafy stems with the herb as the plant comes into flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in late spring and the summer as the plant comes into flower.",
+     "reference_ids": [
+      "REF-3216"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "The stem is gathered with the leafy flowering herb (Useful Temperate Plants, REF-3216). Single source -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Gather the seed as it ripens in late summer; the seed ripens intermittently and drops when ripe, so collect ripe seed promptly."
+     ],
+     "basis": "traditional",
+     "source_quote": "Unfortunately, the seed ripens intermittently over a period of time and falls from the plant when it is ripe, this makes harvesting the seeds in quantity very difficult.",
+     "reference_ids": [
+      "REF-3216"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3216); the seed's ripeness cue is that it falls when ripe. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Borage has a long folk reputation, reflected in the old saying 'borage for courage', as a mood-lifting, cooling herb for feverish colds and respiratory complaints, and as a digestive and anti-inflammatory remedy; the fresh leaves and flowers have also been used culinarily. Modern use is centred on the seed oil, rich in gamma-linolenic acid (GLA), for inflammatory and skin conditions.",
     "reference_ids": [
@@ -11101,7 +11164,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "borage"
   },
   {
@@ -11179,6 +11242,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "sap",
+     "signals": [
+      "Tap the bark (shallow incisions) in the dry season; leave the exuded oleo-gum-resin to accumulate and harden over several days, then collect the hardened resin and sun-dry it."
+     ],
+     "basis": "traditional",
+     "source_quote": "After tapping a tree in one spot and allowing the secretion of resin to continue for a couple days, they collect the accumulated resin and take it to the common collection center for sun-drying.",
+     "reference_ids": [
+      "REF-3220"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Banyan Botanicals (REF-3220) for Boswellia serrata; the resin is wild-harvested through the dry season (stated as October to March in India). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Boswellia resin (salai guggul) is a mainstay of Ayurvedic medicine for inflammatory joint and respiratory conditions, and has been burned as incense across many cultures. Modern standardised extracts, rich in boswellic acids, are used for osteoarthritis, inflammatory bowel disease and other inflammatory conditions, directly building on this traditional anti-inflammatory reputation.",
     "reference_ids": [
@@ -11392,7 +11472,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "boswellia"
   },
   {
@@ -11447,6 +11527,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Pick the flower heads (from which the petals are stripped) when fully open, through the flowering season; dry quickly in the shade."
+     ],
+     "basis": "traditional",
+     "source_quote": "The flowers are also used fresh or dried, for drying they are harvested when fully open and need to be dried quickly in the shade",
+     "reference_ids": [
+      "REF-3217"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3217) for Calendula officinalis. Both parts_used labels (Flower and Petals) resolve to the flower head, picked when fully open. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Calendula flower is one of the most widely used topical wound-healing and skin-soothing herbs in Western herbal medicine, applied to cuts, grazes, minor burns and skin inflammation, and used internally as a gentle anti-inflammatory and antimicrobial remedy and as a gargle for mouth and throat irritation.",
     "reference_ids": [
@@ -11748,7 +11845,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "pot-marigold"
   },
   {
@@ -11804,6 +11901,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Pluck only the very young leaves and leaf buds during active flush, through the growing season, from established bushes (over three years old); dry for use."
+     ],
+     "basis": "traditional",
+     "source_quote": "Only the very young leaves and leaf buds are used for medicinal purposes, these can be harvested throughout the growing season from plants over three years old and are dried for later use",
+     "reference_ids": [
+      "REF-3218"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3218) for Camellia sinensis. Single source -> provisional."
+    },
+    {
+     "part": "shoot",
+     "signals": [
+      "Hand-pluck the terminal sprouts — the bud with the top 2-3 young leaves — during each flush, roughly every 7-15 days as the tender shoots develop."
+     ],
+     "basis": "traditional",
+     "source_quote": "Terminal sprouts with 2-3 leaves are usually hand-plucked, 10 kg of green shoots (75-80% water) produce about 2.5 kg dried tea",
+     "reference_ids": [
+      "REF-3218"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3218); the bush is 'plucked every 7-15 days, depending on the development of the tender shoots.' 'Young sprouts' = the terminal flush. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Tea has an ancient East Asian tradition as both a beverage and a medicinal tonic, used for alertness, digestion and general wellbeing; green tea in particular has a long-standing reputation, now widely studied, as an antioxidant, cardiometabolic and cognitive-support beverage.",
     "reference_ids": [
@@ -12101,7 +12230,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "tea"
   },
   {
@@ -12161,6 +12290,33 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the young shoots in spring when they are about 10-15 cm long (with plenty of underground stem), while tender."
+     ],
+     "basis": "traditional",
+     "source_quote": "Harvest the shoots when they are about 10 - 15cm long with plenty of underground stem.",
+     "reference_ids": [
+      "REF-3219"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3219) for Campanula persicifolia; the young shoots (leaf) are gathered at 10-15 cm. Single source -> provisional."
+    },
+    {
+     "part": "flower",
+     "status": "gap",
+     "notes": "No phenological harvest signal found for the FLOWER of Campanula persicifolia in the seams searched (Useful Temperate Plants gives only 'Flowers - raw', no stage). The flower would be picked when open, but no source states a readiness stage. Recorded as a documented dead end; revisit with a flora."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "No phenological harvest signal found for the ROOT of Campanula persicifolia (Useful Temperate Plants gives only 'Root - raw', no stage). Recorded as a documented dead end; revisit with a flora or ethnobotanical source."
+    }
+   ],
    "traditional_uses": {
     "text": "Peach-leaved bellflower is primarily an edible and ornamental plant rather than a classical medicinal herb: its young leaves and roots have long been eaten as a wild salad green or pot-herb, in the same way as its relative rampion (Campanula rapunculus). Folk use of bellflowers (Campanula) includes a leaf or flower infusion as a gentle gargle and wash for sore throat and mouth inflammation, and topical use of the crushed herb on inflamed skin. More broadly, the genus Campanula has traditional records of use for inflammatory, respiratory and cardiovascular complaints, backed by its phenolic, flavonoid and triterpene chemistry.",
     "reference_ids": [
@@ -12368,7 +12524,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20"
+   "last_updated": "2026-08-14"
   },
   {
    "id": "cannabis-sativa",

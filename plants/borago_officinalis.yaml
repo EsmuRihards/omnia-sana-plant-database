@@ -52,6 +52,52 @@ harvesting:
   reference_ids:
   - REF-0749
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flowers with the leafy aerial parts through summer, as the plant comes into flower."
+  basis: traditional
+  source_quote: "The leaves are harvested in late spring and the summer as the plant comes into flower."
+  reference_ids:
+  - REF-3216
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3216); leaf and flower gathered together as the plant comes into flower. Single source -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves in late spring and summer, as the plant comes into flower, while still fresh and tender."
+  - "SAFETY: borage leaves (grey-green, bristly, in a rosette) can be confused with the FATAL foxglove (Digitalis purpurea) rosette; confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The leaves are harvested in late spring and the summer as the plant comes into flower."
+  reference_ids:
+  - REF-3216
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3216). Single source -> provisional."
+- part: stem
+  signals:
+  - "Cut the leafy stems with the herb as the plant comes into flower."
+  basis: traditional
+  source_quote: "The leaves are harvested in late spring and the summer as the plant comes into flower."
+  reference_ids:
+  - REF-3216
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "The stem is gathered with the leafy flowering herb (Useful Temperate Plants, REF-3216). Single source -> provisional."
+- part: seed
+  signals:
+  - "Gather the seed as it ripens in late summer; the seed ripens intermittently and drops when ripe, so collect ripe seed promptly."
+  basis: traditional
+  source_quote: "Unfortunately, the seed ripens intermittently over a period of time and falls from the plant when it is ripe, this makes harvesting the seeds in quantity very difficult."
+  reference_ids:
+  - REF-3216
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3216); the seed's ripeness cue is that it falls when ripe. Single source -> provisional."
 traditional_uses:
   text: Borage has a long folk reputation, reflected in the old saying 'borage for courage', as a mood-lifting,
     cooling herb for feverish colds and respiratory complaints, and as a digestive and anti-inflammatory
@@ -325,7 +371,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -361,4 +407,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Fresh
   leaf/flower (culinary)'': REF-3070 is a pyrrolizidine-alkaloid safety public statement, not a monograph.
   It sets PA intake limits for medicinal products; it does not state that borage leaves and flowers are
-  eaten in salads or as a garnish. A PA safety statement cannot source a culinary claim.'
+  eaten in salads or as a garnish. A PA safety statement cannot source a culinary claim. | 2026-08-14
+  (harvest-calendar campaign, Batch 6): added harvest_readiness for flower/leaf/stem/seed (provisional) —
+  aerial parts gathered as the plant comes into flower; seed collected as it ripens (it drops when ripe);
+  sourced to Useful Temperate Plants (REF-3216). Safety cross-link to the FATAL foxglove (Digitalis
+  purpurea) leaf/rosette confusion. Existing harvesting.season not inherited.'

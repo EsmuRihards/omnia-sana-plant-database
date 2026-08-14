@@ -43,6 +43,18 @@ harvesting:
   reference_ids:
   - REF-0752
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Pick the flower heads (from which the petals are stripped) when fully open, through the flowering season; dry quickly in the shade."
+  basis: traditional
+  source_quote: "The flowers are also used fresh or dried, for drying they are harvested when fully open and need to be dried quickly in the shade"
+  reference_ids:
+  - REF-3217
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3217) for Calendula officinalis. Both parts_used labels (Flower and Petals) resolve to the flower head, picked when fully open. Single source -> provisional."
 traditional_uses:
   text: Calendula flower is one of the most widely used topical wound-healing and skin-soothing herbs
     in Western herbal medicine, applied to cuts, grazes, minor burns and skin inflammation, and used internally
@@ -263,7 +275,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -283,4 +295,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   oral-tea posology, and the text now says so explicitly. status -> verified. Preparations sourced 2026-07-20
   to monographs already on this record. Each supporting quote was checked to appear verbatim in the stored
   monograph posology, the reference confirmed present on the plant, and the dose form / plant part / route
-  checked for mismatch; text rewritten to the source rather than having a reference stapled on.'
+  checked for mismatch; text rewritten to the source rather than having a reference stapled on. | 2026-08-14
+  (harvest-calendar campaign, Batch 6): added harvest_readiness for the flower (provisional) — pick the
+  flower heads when fully open (both parts_used labels, Flower and Petals, resolve to the flower head);
+  sourced to Useful Temperate Plants (REF-3217). Existing harvesting.season not inherited.'

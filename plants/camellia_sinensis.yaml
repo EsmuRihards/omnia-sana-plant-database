@@ -47,6 +47,29 @@ harvesting:
   reference_ids:
   - REF-0045
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Pluck only the very young leaves and leaf buds during active flush, through the growing season, from established bushes (over three years old); dry for use."
+  basis: traditional
+  source_quote: "Only the very young leaves and leaf buds are used for medicinal purposes, these can be harvested throughout the growing season from plants over three years old and are dried for later use"
+  reference_ids:
+  - REF-3218
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3218) for Camellia sinensis. Single source -> provisional."
+- part: shoot
+  signals:
+  - "Hand-pluck the terminal sprouts — the bud with the top 2-3 young leaves — during each flush, roughly every 7-15 days as the tender shoots develop."
+  basis: traditional
+  source_quote: "Terminal sprouts with 2-3 leaves are usually hand-plucked, 10 kg of green shoots (75-80% water) produce about 2.5 kg dried tea"
+  reference_ids:
+  - REF-3218
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3218); the bush is 'plucked every 7-15 days, depending on the development of the tender shoots.' 'Young sprouts' = the terminal flush. Single source -> provisional."
 traditional_uses:
   text: Tea has an ancient East Asian tradition as both a beverage and a medicinal tonic, used for alertness,
     digestion and general wellbeing; green tea in particular has a long-standing reputation, now widely
@@ -260,7 +283,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -289,4 +312,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   fall outside this herbal substance. Wrong preparation, not merely a thin one. D6 (entity gap) 2026-07-20:
   this plant named a defining constituent that had NO entity in compounds/, so it resolved to nothing
   and would have emitted no practice recommendation. Entity created and the constituent wired to it. Only
-  the molecules the entry already names were wired - no constituent was reinterpreted.'
+  the molecules the entry already names were wired - no constituent was reinterpreted. | 2026-08-14
+  (harvest-calendar campaign, Batch 6): added harvest_readiness for leaf + shoot (provisional) — pluck the
+  very young leaves and buds, and the terminal 2-3-leaf sprouts, during flush from bushes over three years
+  old; sourced to Useful Temperate Plants (REF-3218). Existing harvesting.season not inherited.'

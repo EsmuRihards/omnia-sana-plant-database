@@ -52,6 +52,24 @@ harvesting:
   reference_ids:
   - REF-2820
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the young shoots in spring when they are about 10-15 cm long (with plenty of underground stem), while tender."
+  basis: traditional
+  source_quote: "Harvest the shoots when they are about 10 - 15cm long with plenty of underground stem."
+  reference_ids:
+  - REF-3219
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3219) for Campanula persicifolia; the young shoots (leaf) are gathered at 10-15 cm. Single source -> provisional."
+- part: flower
+  status: gap
+  notes: "No phenological harvest signal found for the FLOWER of Campanula persicifolia in the seams searched (Useful Temperate Plants gives only 'Flowers - raw', no stage). The flower would be picked when open, but no source states a readiness stage. Recorded as a documented dead end; revisit with a flora."
+- part: root
+  status: gap
+  notes: "No phenological harvest signal found for the ROOT of Campanula persicifolia (Useful Temperate Plants gives only 'Root - raw', no stage). Recorded as a documented dead end; revisit with a flora or ethnobotanical source."
 traditional_uses:
   text: 'Peach-leaved bellflower is primarily an edible and ornamental plant rather than a classical medicinal
     herb: its young leaves and roots have long been eaten as a wild salad green or pot-herb, in the same
@@ -197,7 +215,7 @@ lookalikes_review:
   - REF-2816
 provenance: pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent failed on the session
   limit). SETTLED-INCOMPLETE: there is essentially NO Campanula persicifolia-specific medicinal/phytochemical
   literature on PubMed (the 447 ''Campanula'' hits are other Campanulaceae genera - Platycodon, Codonopsis,
@@ -224,4 +242,7 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   be the more harmful error - but ''verified'' asserts a source was checked against, and none exists.
   Demoted to ''needs-review'', which is what the data actually merits. Sourcing an absence is possible
   (cf. the euphrasia precedent, where an EMA public statement was cited as the authority for there being
-  no established posology) and is the proper fix if a seam opens.'
+  no established posology) and is the proper fix if a seam opens. | 2026-08-14 (harvest-calendar campaign,
+  Batch 6): added harvest_readiness — leaf provisional (young shoots gathered at 10-15 cm; Useful Temperate
+  Plants REF-3219); flower + root = gap (no harvest-stage source found). Existing harvesting.season not
+  inherited.'

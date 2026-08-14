@@ -66,6 +66,18 @@ harvesting:
   reference_ids:
   - REF-0394
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Cut the aerial parts (leaves and herb) at the flowering stage, when most plants are in bloom, leaving 10-15 cm of stem at the base for regrowth."
+  basis: traditional
+  source_quote: "The plants at flowering stage (90-120 days after sowing) is cut at the base leaving 10-15 cm stem for plant regeneration."
+  reference_ids:
+  - REF-3199
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Purdue NewCROP fact sheet (REF-3199). The parenthetical day-count is a cultivation guide, not a latitude-invariant signal; the observable stage is flowering. Single source -> provisional."
 traditional_uses:
   text: Andrographis, the 'king of bitters', is a cornerstone bitter tonic of Ayurvedic and traditional
     Chinese medicine (Chuan xin lian), used for fevers, colds, sore throat, infections and liver complaints.
@@ -263,7 +275,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy
   Research and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations
@@ -286,4 +298,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLo
   judged from their stored posology summaries and not from the full monograph PDFs - a later pass with
   the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Tincture'':
   WHO lists crude drug, decoction, capsules, tablets and pills as the dosage forms. No tincture or alcoholic
-  extract appears anywhere in the posology.'
+  extract appears anywhere in the posology. | 2026-08-14 (harvest-calendar campaign, Batch 3): added
+  harvest_readiness for the aerial parts (provisional) — cut at the flowering stage when most plants are
+  in bloom, leaving 10-15 cm of stem to regrow, sourced to Purdue NewCROP (REF-3199, new). Existing
+  harvesting.season not inherited; signal re-derived.'

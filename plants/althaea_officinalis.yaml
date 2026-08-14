@@ -68,6 +68,18 @@ harvesting:
   reference_ids:
   - REF-0481
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root in autumn (or early spring) from two-year-old plants, keeping only the fleshy young roots and discarding the older woody ones; the non-lignified second-year root is the part used."
+  basis: traditional
+  source_quote: "The root should be gathered in the early spring or autumn of the second (not later than the third) year's growth, and only the fleshy portions retained, the older, woody roots being valueless."
+  reference_ids:
+  - REF-3197
+  - REF-3198
+  independent_confirmation: "Useful Temperate Plants (REF-3198) independently gives the same stage: 'The root is best harvested in the autumn, preferably from 2 year old plants', using the 'Nonlignified roots of the second year's growth'."
+  species_confirmed: true
+  status: verified
 traditional_uses:
   text: 'Marshmallow root has an ancient reputation, reflected in its Greek name ''Althaea'' (to heal),
     as a soothing demulcent for irritated mucous membranes: dry cough and sore throat, and mild inflammation
@@ -212,7 +224,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Althaeae radix; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, acid-reflux, skin-irritation); associations retained and
@@ -227,4 +239,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
   draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
   + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
-  part of the cancer-condition campaign.'
+  part of the cancer-condition campaign. | 2026-08-14 (harvest-calendar campaign, Batch 3): added
+  harvest_readiness for the root (verified) — dig the fleshy, non-woody roots of two-year-old plants in
+  autumn (or early spring), sourced to King''s American Dispensatory (REF-3197, new) and Useful Temperate
+  Plants (REF-3198, new). Existing harvesting.season not inherited; signal re-derived.'

@@ -43,6 +43,42 @@ harvesting:
   - Stem
   season: Leaf through summer; seed in late summer to early autumn
   status: draft
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves (dill weed) while the plant is growing, best just before it comes into flower, when the foliage is most tender and aromatic."
+  - "SAFETY: dill is an Apiaceae confusable with poison hemlock (Conium maculatum); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The leaves can be harvested at any time the plant is growing, but are best just before the plant flowers"
+  reference_ids:
+  - REF-3200
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3200). Single source -> provisional."
+- part: stem
+  signals:
+  - "Gather the tender young stems with the leaves (dill weed), best just before the plant comes into flower."
+  - "SAFETY: confirm identity before gathering — dill is confusable with poison hemlock (Conium maculatum). See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The leaves can be harvested at any time the plant is growing, but are best just before the plant flowers"
+  reference_ids:
+  - REF-3200
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "The small tender stems are gathered as 'dill weed' with the leaves before flowering (Useful Temperate Plants, REF-3200). Single source -> provisional."
+- part: seed
+  signals:
+  - "Cut the seed umbels when the seeds are fully developed but before they turn brown — fully ripe seeds shatter and drop; dry the cut heads to finish ripening."
+  basis: traditional
+  source_quote: "The seed heads can be cut from the stalks when the seeds are fully developed but before they have turned brown."
+  reference_ids:
+  - REF-3201
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "University of Wisconsin Extension (REF-3201). Single source -> provisional."
 traditional_uses:
   text: Dill seed and leaf have a long culinary-medicinal history as a carminative digestive remedy for
     colic, dyspepsia and flatulence, and as a traditional lactagogue (galactagogue) to support breastfeeding;
@@ -340,7 +376,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -374,4 +410,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   posology summaries and not from the full monograph PDFs - a later pass with the PDFs, or a new seam
   (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Infusion (seed)'': The summary
   gives only an average daily dose of 3 g of the fruit and an essential-oil dose. It does not describe
-  an infusion, a hot-water preparation, or a carminative digestive indication for the seed.'
+  an infusion, a hot-water preparation, or a carminative digestive indication for the seed. | 2026-08-14
+  (harvest-calendar campaign, Batch 3): added harvest_readiness — leaf + stem provisional (dill weed, best
+  just before flowering; Useful Temperate Plants REF-3200); seed provisional (cut the umbels when the seeds
+  are full but before they brown and shatter; Wisconsin Extension REF-3201). Safety cross-link to the
+  poison-hemlock (Conium maculatum) lookalike. Existing harvesting.season not inherited.'

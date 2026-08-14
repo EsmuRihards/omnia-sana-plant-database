@@ -81,6 +81,42 @@ harvesting:
   reference_ids:
   - REF-0396
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root in the autumn of the first year, before the plant runs up to flower in its second year — the first-year root is then least liable to become mouldy or worm-eaten."
+  - "SAFETY: angelica is a large Apiaceae confusable with the FATAL poison hemlock (Conium maculatum), cowbane (Cicuta virosa) and hemlock water-dropwort (Oenanthe crocata), and with giant hogweed (Heracleum mantegazzianum). Confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The root should be dug up in the autumn of the first year, as it is then least liable to become mouldy and worm-eaten"
+  reference_ids:
+  - REF-3202
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Grieve, A Modern Herbal (REF-3202), for Angelica archangelica. Single source -> provisional."
+- part: leaf
+  signals:
+  - "Cut the whole herb for medicinal use in early summer (about June), shortly above the root; leaves may be cut from the summer after transplanting."
+  - "SAFETY: confirm identity before gathering — angelica is confusable with the FATAL hemlock/cowbane/hemlock-water-dropwort Apiaceae. See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The whole herb, if for medicinal use, should be collected in June and cut shortly above the root."
+  reference_ids:
+  - REF-3202
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Grieve, A Modern Herbal (REF-3202). Single source -> provisional."
+- part: seed
+  signals:
+  - "Gather the seeds (the ripe fruit) when ripe, in late summer after flowering, and dry."
+  basis: traditional
+  source_quote: "If the seeds are required, they should be gathered when ripe and dried."
+  reference_ids:
+  - REF-3202
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Grieve, A Modern Herbal (REF-3202). parts_used lists 'Fruit and seed'; angelica's fruit is the ripe schizocarp (the seed). Single source -> provisional."
 traditional_uses:
   text: Angelica root has a long Northern European tradition as an aromatic bitter and carminative digestive
     remedy for indigestion, bloating and flatulence, as a diaphoretic and expectorant support during colds,
@@ -477,7 +513,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Research review of A. archangelica;
   review of its coumarin columbianetin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (indigestion, bloating, anxiety, cold); associations retained and now part-mapped and cited.
@@ -507,4 +543,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   Latin drug title with each monograph''s Definition read to confirm the species - 177 monographs indexed;
   (3) this plant''s own reference bucket, mined for human studies that state an administered dose. Per
   the campaign''s integrity bar the entry is left unsourced at status draft rather than attached to a
-  tangentially-related paper.'
+  tangentially-related paper. | 2026-08-14 (harvest-calendar campaign, Batch 3): added harvest_readiness
+  for root/leaf/seed (provisional) — first-year root dug in autumn, whole herb cut in early summer (June),
+  seed gathered when ripe; all sourced to Grieve, A Modern Herbal (REF-3202, new; Angelica archangelica
+  confirmed). Strong safety cross-links to the FATAL Apiaceae lookalikes (poison hemlock, cowbane, hemlock
+  water-dropwort) and giant hogweed. Existing harvesting.season not inherited; signals re-derived.'

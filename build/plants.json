@@ -4560,6 +4560,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in autumn (or early spring) from two-year-old plants, keeping only the fleshy young roots and discarding the older woody ones; the non-lignified second-year root is the part used."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root should be gathered in the early spring or autumn of the second (not later than the third) year's growth, and only the fleshy portions retained, the older, woody roots being valueless.",
+     "reference_ids": [
+      "REF-3197",
+      "REF-3198"
+     ],
+     "independent_confirmation": "Useful Temperate Plants (REF-3198) independently gives the same stage: 'The root is best harvested in the autumn, preferably from 2 year old plants', using the 'Nonlignified roots of the second year's growth'.",
+     "species_confirmed": true,
+     "status": "verified"
+    }
+   ],
    "traditional_uses": {
     "text": "Marshmallow root has an ancient reputation, reflected in its Greek name 'Althaea' (to heal), as a soothing demulcent for irritated mucous membranes: dry cough and sore throat, and mild inflammation and discomfort of the stomach and gut. It has also been applied topically as a soothing poultice for irritated skin.",
     "reference_ids": [
@@ -4755,7 +4772,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "marshmallow-root"
   },
   {
@@ -4842,6 +4859,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the aerial parts (leaves and herb) at the flowering stage, when most plants are in bloom, leaving 10-15 cm of stem at the base for regrowth."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plants at flowering stage (90-120 days after sowing) is cut at the base leaving 10-15 cm stem for plant regeneration.",
+     "reference_ids": [
+      "REF-3199"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Purdue NewCROP fact sheet (REF-3199). The parenthetical day-count is a cultivation guide, not a latitude-invariant signal; the observable stage is flowering. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Andrographis, the 'king of bitters', is a cornerstone bitter tonic of Ayurvedic and traditional Chinese medicine (Chuan xin lian), used for fevers, colds, sore throat, infections and liver complaints. This traditional reputation for treating the common cold and upper respiratory infections is now supported by clinical trials of standardised extracts.",
     "reference_ids": [
@@ -5113,7 +5147,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "andrographis"
   },
   {
@@ -5166,6 +5200,55 @@
     "season": "Leaf through summer; seed in late summer to early autumn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves (dill weed) while the plant is growing, best just before it comes into flower, when the foliage is most tender and aromatic.",
+      "SAFETY: dill is an Apiaceae confusable with poison hemlock (Conium maculatum); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves can be harvested at any time the plant is growing, but are best just before the plant flowers",
+     "reference_ids": [
+      "REF-3200"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3200). Single source -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the tender young stems with the leaves (dill weed), best just before the plant comes into flower.",
+      "SAFETY: confirm identity before gathering — dill is confusable with poison hemlock (Conium maculatum). See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves can be harvested at any time the plant is growing, but are best just before the plant flowers",
+     "reference_ids": [
+      "REF-3200"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "The small tender stems are gathered as 'dill weed' with the leaves before flowering (Useful Temperate Plants, REF-3200). Single source -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Cut the seed umbels when the seeds are fully developed but before they turn brown — fully ripe seeds shatter and drop; dry the cut heads to finish ripening."
+     ],
+     "basis": "traditional",
+     "source_quote": "The seed heads can be cut from the stalks when the seeds are fully developed but before they have turned brown.",
+     "reference_ids": [
+      "REF-3201"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "University of Wisconsin Extension (REF-3201). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Dill seed and leaf have a long culinary-medicinal history as a carminative digestive remedy for colic, dyspepsia and flatulence, and as a traditional lactagogue (galactagogue) to support breastfeeding; dill water ('gripe water') is a classic infant remedy for colic.",
     "reference_ids": [
@@ -5549,7 +5632,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "dill"
   },
   {
@@ -5648,6 +5731,55 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in the autumn of the first year, before the plant runs up to flower in its second year — the first-year root is then least liable to become mouldy or worm-eaten.",
+      "SAFETY: angelica is a large Apiaceae confusable with the FATAL poison hemlock (Conium maculatum), cowbane (Cicuta virosa) and hemlock water-dropwort (Oenanthe crocata), and with giant hogweed (Heracleum mantegazzianum). Confirm identity before gathering — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root should be dug up in the autumn of the first year, as it is then least liable to become mouldy and worm-eaten",
+     "reference_ids": [
+      "REF-3202"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Grieve, A Modern Herbal (REF-3202), for Angelica archangelica. Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Cut the whole herb for medicinal use in early summer (about June), shortly above the root; leaves may be cut from the summer after transplanting.",
+      "SAFETY: confirm identity before gathering — angelica is confusable with the FATAL hemlock/cowbane/hemlock-water-dropwort Apiaceae. See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole herb, if for medicinal use, should be collected in June and cut shortly above the root.",
+     "reference_ids": [
+      "REF-3202"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Grieve, A Modern Herbal (REF-3202). Single source -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Gather the seeds (the ripe fruit) when ripe, in late summer after flowering, and dry."
+     ],
+     "basis": "traditional",
+     "source_quote": "If the seeds are required, they should be gathered when ripe and dried.",
+     "reference_ids": [
+      "REF-3202"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Grieve, A Modern Herbal (REF-3202). parts_used lists 'Fruit and seed'; angelica's fruit is the ripe schizocarp (the seed). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Angelica root has a long Northern European tradition as an aromatic bitter and carminative digestive remedy for indigestion, bloating and flatulence, as a diaphoretic and expectorant support during colds, and the seed/fruit as a calming, anxiolytic nervine. It has also been candied and used as a flavouring.",
     "reference_ids": [
@@ -6199,7 +6331,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "angelica"
   },
   {
@@ -6279,6 +6411,44 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root from first-year plants (the basal leaf-rosette stage, before the plant bolts and flowers in its second year), in mid-summer; the first-year root is the part used.",
+      "SAFETY: burdock root is confusable with the root of deadly nightshade (Atropa belladonna), a fatal confusion. Confirm identity before digging — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The roots of one-year old plants are harvested in mid-summer and dried.",
+     "reference_ids": [
+      "REF-3203",
+      "REF-3204"
+     ],
+     "independent_confirmation": "Grieve (REF-3204) independently gives the same stage: 'The roots are dug in July,' and 'The dried root from plants of the first year's growth forms the official drug.'",
+     "species_confirmed": true,
+     "status": "verified"
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Gather the ripe seed (the burs/fruits) in summer, after the second-year plant has flowered and the burs have matured; dry for use."
+     ],
+     "basis": "traditional",
+     "source_quote": "The seed is harvested in the summer and dried for later use.",
+     "reference_ids": [
+      "REF-3203"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3203). The seed/fruit (bur) matures on the second-year plant. Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "status": "gap",
+     "notes": "No reliable phenological harvest signal found for the burdock LEAF: theferns notes only that young leaves are edible (no timing); Grieve and King's give the root and seed stages but not a leaf-harvest stage. The leaf is a minor part and its harvest stage is undocumented in the seams searched (theferns REF-3203, Grieve REF-3204). Revisit with a materia medica that treats the leaf. Recorded as a documented dead end."
+    }
+   ],
    "traditional_uses": {
     "text": "Burdock root is a classic 'alterative' or blood-purifying herb of European and East Asian (gobo) traditional medicine, used for chronic skin conditions, as a mild diuretic supporting elimination, and as a digestive bitter; the root is also eaten as a root vegetable (gobo) in Japanese cuisine.",
     "reference_ids": [
@@ -6569,7 +6739,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "greater-burdock"
   },
   {

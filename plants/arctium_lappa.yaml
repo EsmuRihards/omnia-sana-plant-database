@@ -69,6 +69,33 @@ harvesting:
   reference_ids:
   - REF-0706
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root from first-year plants (the basal leaf-rosette stage, before the plant bolts and flowers in its second year), in mid-summer; the first-year root is the part used."
+  - "SAFETY: burdock root is confusable with the root of deadly nightshade (Atropa belladonna), a fatal confusion. Confirm identity before digging — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The roots of one-year old plants are harvested in mid-summer and dried."
+  reference_ids:
+  - REF-3203
+  - REF-3204
+  independent_confirmation: "Grieve (REF-3204) independently gives the same stage: 'The roots are dug in July,' and 'The dried root from plants of the first year's growth forms the official drug.'"
+  species_confirmed: true
+  status: verified
+- part: seed
+  signals:
+  - "Gather the ripe seed (the burs/fruits) in summer, after the second-year plant has flowered and the burs have matured; dry for use."
+  basis: traditional
+  source_quote: "The seed is harvested in the summer and dried for later use."
+  reference_ids:
+  - REF-3203
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3203). The seed/fruit (bur) matures on the second-year plant. Single source -> provisional."
+- part: leaf
+  status: gap
+  notes: "No reliable phenological harvest signal found for the burdock LEAF: theferns notes only that young leaves are edible (no timing); Grieve and King's give the root and seed stages but not a leaf-harvest stage. The leaf is a minor part and its harvest stage is undocumented in the seams searched (theferns REF-3203, Grieve REF-3204). Revisit with a materia medica that treats the leaf. Recorded as a documented dead end."
 traditional_uses:
   text: Burdock root is a classic 'alterative' or blood-purifying herb of European and East Asian (gobo)
     traditional medicine, used for chronic skin conditions, as a mild diuretic supporting elimination,
@@ -315,7 +342,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -341,4 +368,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   trigger. Preparations sourced 2026-07-20 to monographs already on this record. Each supporting quote
   was checked to appear verbatim in the stored monograph posology, the reference confirmed present on
   the plant, and the dose form / plant part / route checked for mismatch; text rewritten to the source
-  rather than having a reference stapled on.'
+  rather than having a reference stapled on. | 2026-08-14 (harvest-calendar campaign, Batch 3): added
+  harvest_readiness — root verified (first-year root dug in mid-summer, at the basal-rosette stage before
+  it bolts; Useful Temperate Plants REF-3203 + Grieve REF-3204); seed provisional (ripe burs in summer,
+  REF-3203); leaf gap (no harvest-timing source found). Safety cross-link to the FATAL deadly-nightshade
+  (Atropa belladonna) root confusion. Existing harvesting.season not inherited; signals re-derived.'

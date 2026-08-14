@@ -43,6 +43,19 @@ harvesting:
   - Whole Plant
   season: Autumn (wild); at maturity under cultivation
   status: draft
+harvest_readiness:
+- part: fruiting-body
+  signals:
+  - "Harvest the orange club-shaped fruiting bodies (stromata) once they reach full height and are firm and upright, before the tips begin to darken or shed a fine orange spore powder — spore release marks over-maturity and rapid decline."
+  - "SAFETY: wild Cordyceps must not be confused with the FATAL poison fire coral (Podostroma cornu-damae), which has a similar orange club shape. Confirm identity — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "Harvest when Cordyceps militaris stromata are 1.5-3 inches tall with firm, upright club shapes and slightly enlarged heads, before the tips begin to darken or show visible spore powder on the jar walls."
+  reference_ids:
+  - REF-3236
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Out-Grow cultivation guide (REF-3236) for Cordyceps militaris. The parts_used label 'Whole Plant' resolves to the fungal fruiting body. Single source -> provisional."
 traditional_uses:
   text: Cordyceps has a centuries-long reputation in Chinese and Tibetan traditional medicine as a tonic
     ('Dong Chong Xia Cao' - winter worm, summer grass) for vitality, stamina, respiratory and kidney support,
@@ -239,7 +252,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -262,4 +275,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
   status draft rather than attached to a tangentially-related paper. No EMA or WHO monograph. The one human
   study touching this genus (PMID 38873567) used Cordyceps SINENSIS inside an undifferentiated
-  multi-mushroom blend - wrong species and no per-ingredient dose.'
+  multi-mushroom blend - wrong species and no per-ingredient dose. | 2026-08-14 (harvest-calendar campaign,
+  Batch 9): added harvest_readiness for the fruiting body (provisional; ''Whole Plant'' -> fruiting-body) —
+  harvest the orange club-shaped stromata at full height, firm and upright, before the tips darken or shed
+  spore powder (over-maturity); sourced to Out-Grow (REF-3236). Safety cross-link to the FATAL poison fire
+  coral (Podostroma cornu-damae) for wild harvest. Existing harvesting.season not inherited.'

@@ -46,6 +46,40 @@ harvesting:
   reference_ids:
   - REF-0782
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flowering tops (the creamy-white flower clusters with the young leaves) in spring, as the clusters open."
+  basis: traditional
+  source_quote: "Creamy-white, and sometimes pink or red flowers, which appear in clusters from mid-April."
+  reference_ids:
+  - REF-3234
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Woodland Trust (REF-3234) for Crataegus laevigata; the flowers appear in spring (from mid-April) and are gathered with the young leaf (folium cum flore). Single source -> provisional."
+- part: leaf
+  signals:
+  - "Gather the young leaves with the flowers in spring, as the flower clusters open."
+  basis: traditional
+  source_quote: "Creamy-white, and sometimes pink or red flowers, which appear in clusters from mid-April."
+  reference_ids:
+  - REF-3234
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Woodland Trust (REF-3234); the leaf is gathered with the spring flowers (folium cum flore). Single source -> provisional."
+- part: fruit
+  signals:
+  - "Gather the haws in autumn when they ripen to red; the red oval berries follow the flowers."
+  basis: traditional
+  source_quote: "Flower clusters are followed in autumn by red, oval berries called haws."
+  reference_ids:
+  - REF-3234
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Woodland Trust (REF-3234); the haws ripen red in autumn. Single source -> provisional."
 traditional_uses:
   text: Hawthorn flower, leaf and berry have a long European tradition, and substantial modern clinical
     study, as a cardiovascular tonic - supporting heart function, mild circulatory complaints and calming
@@ -250,7 +284,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -266,4 +300,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0082, the EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC/159075/2014), which
   explicitly covers C. laevigata among the listed species. Same corrections as C. monogyna: the unsupported
   ''160-900 mg daily'' and ''4-8 weeks to emerge'' claims were replaced with the monograph''s actual
-  dry-extract ranges, and a herbal-tea entry was added. status -> verified.'
+  dry-extract ranges, and a herbal-tea entry was added. status -> verified. | 2026-08-14 (harvest-calendar
+  campaign, Batch 9): added harvest_readiness for flower/leaf/fruit (provisional) — flowers with young
+  leaves gathered in spring as the clusters open (folium cum flore); haws gathered in autumn when ripe red;
+  sourced to Woodland Trust (REF-3234). Existing harvesting.season not inherited; signals re-derived.'

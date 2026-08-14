@@ -48,6 +48,45 @@ harvesting:
   - Stem
   season: Leaf before flowering; seed in late summer
   status: draft
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves (cilantro) while young, before the plant runs up to flower — once it blooms, gather and store the remaining foliage, as flowering spoils the leaf."
+  - "SAFETY: coriander is an Apiaceae confusable with the FATAL poison hemlock (Conium maculatum) and fool's parsley (Aethusa cynapium); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "Once coriander's first bloom unfolds, harvest and store all remaining foliage."
+  reference_ids:
+  - REF-3233
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Plantura (REF-3233) for Coriandrum sativum; the leaf is gathered before/at flowering (flowering spoils the leaf). Single source -> provisional."
+- part: stem
+  signals:
+  - "Gather the tender stems with the young leaves (cilantro), before the plant comes into flower."
+  - "SAFETY: confirm identity before gathering — coriander is confusable with FATAL Apiaceae (poison hemlock, fool's parsley). See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "Once coriander's first bloom unfolds, harvest and store all remaining foliage."
+  reference_ids:
+  - REF-3233
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Plantura (REF-3233); the tender stems are gathered with the cilantro foliage before flowering. Single source -> provisional."
+- part: seed
+  signals:
+  - "Cut the seed heads as soon as they turn light brown (ripe), a couple of weeks after flowering, before the seed shatters; dry to finish."
+  basis: traditional
+  source_quote: "As soon as the seed heads take on a light brown colour, they are ready for harvest."
+  reference_ids:
+  - REF-3233
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Plantura (REF-3233). Single source -> provisional."
+- part: root
+  status: gap
+  notes: "No phenological harvest signal found for the coriander ROOT in the seams searched (theferns gives only day-counts from sowing; Plantura covers leaf and seed, not root). The root is dug with the mature plant, but no source states a readiness stage. Recorded as a documented dead end. SAFETY: confirm ID against poison hemlock before digging."
 traditional_uses:
   text: Coriander seed and leaf have a very long culinary and medicinal history across the Mediterranean,
     Middle East and Asia as a digestive carminative for indigestion, bloating and cramping, and, more
@@ -321,7 +360,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -342,4 +381,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  status draft rather than attached to a tangentially-related paper. | 2026-08-14 (harvest-calendar campaign,
+  Batch 9): added harvest_readiness — leaf + stem provisional (gather before/at flowering; flowering spoils
+  the leaf); seed provisional (cut seed heads when light brown/ripe); root gap. Sourced to Plantura
+  (REF-3233, Coriandrum sativum). Safety cross-links to the FATAL poison-hemlock / fool''s-parsley Apiaceae
+  lookalikes. Existing harvesting.season not inherited.'

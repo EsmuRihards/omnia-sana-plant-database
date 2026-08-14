@@ -35,6 +35,18 @@ harvesting:
   parts:
   - Seed
   status: draft
+harvest_readiness:
+- part: seed
+  signals:
+  - "Pick the coffee cherries when fully ripe — when the drupe has turned completely bright red (or yellow in some varieties); the two seeds (beans) are inside the ripe cherry."
+  basis: traditional
+  source_quote: "the plant becomes completely red or yellow depending on the variety of C. arabica. At this point, they are called \"cherries\", which fruit they then resemble, and are ready for picking."
+  reference_ids:
+  - REF-3235
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Wikipedia, Coffea arabica (REF-3235); the ripe drupe matures 'bright red to purple' and is then ready for picking, the seed being the coffee bean inside. Single source -> provisional."
 traditional_uses:
   text: Coffee has a centuries-long tradition, originating in Ethiopia and spreading through the Arab
     world and beyond, as a stimulant beverage taken for alertness and to counter fatigue; its seed and
@@ -221,7 +233,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -241,4 +253,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   D6 (entity gap) 2026-07-20: this plant named a defining constituent that had NO entity in compounds/,
   so it resolved to nothing and would have emitted no practice recommendation. Entity created and the
   constituent wired to it. Only the molecules the entry already names were wired - no constituent was
-  reinterpreted.'
+  reinterpreted. | 2026-08-14 (harvest-calendar campaign, Batch 9): added harvest_readiness for the seed
+  (provisional) — pick the cherries when fully ripe (the drupe turns bright red or yellow); the two beans
+  are the seeds inside; sourced to Wikipedia, Coffea arabica (REF-3235). No prior harvesting.season existed.'

@@ -65,6 +65,18 @@ harvesting:
   reference_ids:
   - REF-0419
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the flowering herb (leaf, flower and leafy stem) in summer as the plant comes into flower; dry for use."
+  basis: traditional
+  source_quote: "The plant is harvested in the summer as it comes into flower and is dried for later use"
+  reference_ids:
+  - REF-3232
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3232) for Cnicus benedictus. Single source -> provisional."
 traditional_uses:
   text: Blessed thistle has a long European folk reputation as a bitter digestive tonic for loss of appetite
     and dyspepsia (an approved use under German Commission E) and, more anecdotally, as a traditional
@@ -222,7 +234,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Planta Medica review; Drugs.com
   and LactMed monographs). Cnicus benedictus = Centaurea benedicta. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, appetite-loss, lactation-support); associations
@@ -235,4 +247,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pla
   habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
   anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
-  plant''s cited literature, as part of the cancer-condition campaign.'
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-14 (harvest-calendar
+  campaign, Batch 9): added harvest_readiness for the aerial parts (provisional) — gather the flowering herb
+  in summer as it comes into flower; sourced to Useful Temperate Plants (REF-3232). Existing
+  harvesting.season not inherited.'

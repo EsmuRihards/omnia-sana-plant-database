@@ -67,6 +67,27 @@
         "status": {"$ref": "#/$defs/status"}
       }
     },
+    "harvest_readiness": {
+      "type": "array",
+      "description": "Phenological harvest-readiness signals — the observable biological stage that says a given part of THIS species is ready to gather. Latitude-invariant (a botanical stage, NOT a month or region). One entry per canonical harvestable part. Powers the future Harvest Calendar tool; the monograph renderer is field-agnostic and ignores it when absent (the other ~187 records). Additive; never inherits harvesting.season as fact.",
+      "items": {
+        "type": "object",
+        "required": ["part", "status"],
+        "additionalProperties": false,
+        "properties": {
+          "part": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Canonical harvestable-organ id -> vocabularies/harvest_parts.yaml. A messy parts_used label (incl. preparation artefacts) resolves to the organ it is gathered from."},
+          "signals": {"type": "array", "items": {"type": "string"}, "description": "Observable biological readiness stage(s) in plain language, e.g. 'dig after the aerial parts have died back in autumn', 'gather as the heads open to full bloom, before they brown'. No months, no geography. Required for verified/provisional; absent/empty for a gap."},
+          "basis": {"$ref": "#/$defs/harvest_basis"},
+          "constituent_note": {"type": "string", "description": "When basis includes 'constituent': the sourced statement of when the target constituent peaks. Kept SEPARATE from the traditional-collection signal — never merged, because a merged statement fabricates a pharmacological timing claim."},
+          "source_quote": {"type": "string", "description": "Verbatim sentence(s) from the cited source stating the readiness stage for this part of this species. The audit trail: a paraphrase here hides drift. Required (non-empty) for verified/provisional."},
+          "reference_ids": {"$ref": "#/$defs/reference_ids", "description": "All sources cited for this entry — the primary quote source AND the independent-confirmation source."},
+          "independent_confirmation": {"type": ["string", "null"], "description": "The second, independent botanical prism: a short note on the confirming source and whether it agrees (its REF also sits in reference_ids). null when only one source was found (-> status provisional). Disagreements are logged here, never averaged into the signal."},
+          "species_confirmed": {"type": "boolean", "description": "The cited source names the accepted binomial of THIS species (not a congener) as the material whose harvest stage is described. Congener timing errors are invisible without this check (reuse scripts/audit_species.py)."},
+          "status": {"$ref": "#/$defs/harvest_status"},
+          "notes": {"type": "string", "description": "Editorial notes. For status 'gap' this is the REQUIRED search-log: which seams were searched and why each failed, so the next session does not repeat the dead search."}
+        }
+      }
+    },
     "traditional_uses": {
       "type": "object",
       "additionalProperties": false,
@@ -244,6 +265,8 @@
   },
   "$defs": {
     "status": {"type": "string", "enum": ["verified", "draft", "needs-review"]},
+    "harvest_status": {"type": "string", "enum": ["verified", "provisional", "gap"], "description": "harvest_readiness lifecycle. 'verified' = observable signal + verbatim source_quote + species_confirmed + an independent second-source confirmation; 'provisional' = a single sourced quote, not yet independently confirmed; 'gap' = a documented dead end (no reliable phenological source after a real search) with the search-log in notes. Deliberately distinct from the content `status` enum — a phenophase is not a clinical claim."},
+    "harvest_basis": {"type": "string", "enum": ["traditional", "constituent", "both"], "description": "What the readiness signal rests on: 'traditional' = documented collection practice; 'constituent' = the stage at which a target constituent peaks; 'both' = both prisms are present (kept as SEPARATE statements — signals for tradition, constituent_note for chemistry — never blended)."},
     "safety_status": {"type": "string", "enum": ["draft", "approved"], "description": "Safety-record lifecycle. 'draft' = Claude-drafted / under review, NEVER served publicly. 'approved' = human medical sign-off, served by public tools. Deliberately distinct from the content `status` enum."},
     "severity": {"type": "string", "enum": ["avoid", "caution", "likely-safe", "insufficient"], "description": "Herb-drug severity tier: avoid | caution (use with caution) | likely-safe | insufficient (insufficient evidence)."},
     "pairing_type": {"type": "string", "enum": ["synergy", "neutral", "caution", "avoid"], "description": "Herb-herb pairing verdict."},

@@ -36,6 +36,8 @@ SEVERITIES = {"avoid", "caution", "likely-safe", "insufficient"}
 PAIR_TYPES = {"synergy", "neutral", "caution", "avoid"}
 LOOKALIKE_SEVERITIES = {"fatal", "dangerous", "irritant", "caution"}
 LOOKALIKE_OUTCOMES = {"none-known", "has-lookalikes"}
+HARVEST_STATUSES = {"verified", "provisional", "gap"}
+HARVEST_BASES = {"traditional", "constituent", "both"}
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 PRACTICEDIR = os.path.join(ROOT, "practice")
 
@@ -789,6 +791,16 @@ def main():
     LANG_CODES = {x["code"] for x in LANGS}
     LANG_ENABLED = {x["code"] for x in LANGS if x.get("enabled")}
 
+    # Harvest-part vocabulary (Harvest Calendar campaign). Canonical harvestable
+    # organs that harvest_readiness[].part must resolve to, plus the reverse map of
+    # every messy parts_used/harvesting.parts label onto its organ(s). Loaded
+    # unconditionally like the vocabularies above — a missing file must fail loudly,
+    # not silently skip the check. HPARTS = id set; HPART_LABELS = raw label -> True
+    # (only the presence matters, for the unmapped-label warning).
+    HPART_RECS = yaml.safe_load(open(os.path.join(VOCAB, "harvest_parts.yaml"), encoding="utf-8"))
+    HPARTS = {x["id"] for x in HPART_RECS}
+    HPART_LABELS = {lbl for x in HPART_RECS for lbl in (x.get("raw_labels") or [])}
+
     # D6: the compound-level extraction_class[] + resolution disambiguator. build.py
     # defaults absent/invalid to resolution 'unresolvable' -> no recommendation, so a
     # typo'd class would silently vanish as "no rec" — the exact failure the
@@ -891,6 +903,56 @@ def main():
                 errors.append(f"{name}: lookalikes_review outcome '{lr.get('outcome')}' invalid (want {sorted(LOOKALIKE_OUTCOMES)})")
             if lr.get("outcome") == "has-lookalikes" and not d.get("dangerous_lookalikes"):
                 errors.append(f"{name}: lookalikes_review outcome 'has-lookalikes' but no dangerous_lookalikes[]")
+
+        # ---- harvest_readiness (Harvest Calendar campaign) ----------------------
+        # Phenophase-only harvest-readiness signals. Absent on ~187 records; this
+        # block runs only when present, so its integrity rules are safe as hard
+        # errors. `part` resolution is WARNING-level (campaign directive): a bad
+        # organ id is a prompt to fix the vocab/entry, not a gate failure. The
+        # integrity rules ARE errors: an entry asserting a stage with no verbatim
+        # quote is exactly the illusory-sourcing this campaign exists to kill, and a
+        # documented gap must carry its search-log or the dead end is not recorded.
+        hr = d.get("harvest_readiness")
+        if hr is not None:
+            if not isinstance(hr, list):
+                errors.append(f"{name}: harvest_readiness must be a list")
+                hr = []
+            seen_hr_parts = set()
+            for e in hr:
+                if not isinstance(e, dict):
+                    errors.append(f"{name}: harvest_readiness entry is not a mapping")
+                    continue
+                part = e.get("part")
+                if not part:
+                    errors.append(f"{name}: harvest_readiness entry missing 'part'")
+                elif part not in HPARTS:
+                    warnings.append(f"{name}: harvest_readiness part '{part}' not in harvest_parts vocab")
+                if part in seen_hr_parts:
+                    errors.append(f"{name}: harvest_readiness duplicate part '{part}'")
+                seen_hr_parts.add(part)
+                st = e.get("status")
+                if st not in HARVEST_STATUSES:
+                    errors.append(f"{name}: harvest_readiness part '{part}' bad status '{st}' (want {sorted(HARVEST_STATUSES)})")
+                bs = e.get("basis")
+                if bs is not None and bs not in HARVEST_BASES:
+                    errors.append(f"{name}: harvest_readiness part '{part}' bad basis '{bs}' (want {sorted(HARVEST_BASES)})")
+                if st == "gap":
+                    if not _s(e.get("notes")):
+                        errors.append(f"{name}: harvest_readiness gap for part '{part}' needs a notes search-log")
+                elif st in ("verified", "provisional"):
+                    if not _s(e.get("source_quote")):
+                        errors.append(f"{name}: harvest_readiness part '{part}' ({st}) needs a non-empty source_quote")
+                    if not (e.get("reference_ids") or []):
+                        errors.append(f"{name}: harvest_readiness part '{part}' ({st}) needs reference_ids")
+                    if not (e.get("signals") or []):
+                        errors.append(f"{name}: harvest_readiness part '{part}' ({st}) needs >=1 signals")
+        # New-label guard (all plants): a parts_used label the harvest-parts vocab
+        # has never seen means harvest_parts.yaml needs a raw_labels entry (or the
+        # label is a typo). Warning only — it must never block an unrelated edit.
+        for lbl in (d.get("parts_used") or []):
+            if lbl not in HPART_LABELS:
+                warnings.append(f"{name}: parts_used label '{lbl}' not mapped in harvest_parts.yaml")
+
         cited.update(find_refs(d))
 
     for (nm, pid) in pair_refs:

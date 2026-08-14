@@ -1,0 +1,221 @@
+# Omnia Sana — controlled vocabulary: HARVEST PARTS (canonical harvestable organs)
+# Schema: ../schema/plant.schema.json  (the `harvest_readiness[].part` field)
+#
+# WHY THIS FILE EXISTS
+# The free-text `parts_used` / `harvesting.parts` labels across plants/*.yaml are
+# messy (65 distinct strings, many of them PREPARATION ARTEFACTS — "Seed oil",
+# "Root (standardised extract EPs 7630)", "distilled witch-hazel water"). A harvest
+# signal ("how do I know this part is ready to gather?") applies to the underlying
+# HARVESTABLE ORGAN, not to the downstream extract. This vocabulary collapses every
+# raw label onto ~16 canonical organs so `harvest_readiness[].part` is a controlled
+# id, and an artefact resolves to the organ it is made from.
+#
+# HOW IT IS USED
+#   * scripts/validate.py loads this file and checks every harvest_readiness[].part
+#     resolves to an id below (warning-level), and that a plant's parts_used labels
+#     are all mapped (warning: an unmapped label means this file needs a new entry).
+#   * `raw_labels` mirrors the `synonyms` convention in actions.yaml: it lists the
+#     messy strings that collapse onto each organ. A raw label that names MORE THAN
+#     ONE organ (e.g. "Root and rhizome", "Fruit and seed") is listed under EACH of
+#     its organs — it expands to one harvest_readiness entry per organ.
+#
+# NOT A CLAIM STORE. This file carries no timing/phenophase text. The observable
+# readiness signal is per-plant, per-species and SOURCED — it lives in the plant's
+# `harvest_readiness[].signals`, never here. `description` states only what the
+# organ IS, botanically.
+#
+# CONTEXT-DEPENDENT LABELS. "Whole Plant" means the fungal fruiting body on a
+# mushroom record but the entire herb on a vascular plant; it is listed under both
+# `whole-plant` and `fruiting-body`. The authoritative resolution is the `part`
+# value the editor writes per plant, validated against the id set below.
+
+# ---------------------------------------------------------------- underground organs
+- id: root
+  label: Root
+  group: underground
+  description: Absorbing/storage roots (taproot, lateral or fibrous roots).
+  raw_labels:
+  - Root
+  - Root (standardised extract EPs 7630)
+  - Root (and aerial parts)
+  - Root (and bark, wood)
+  - Root (and leaf)
+  - Root and rhizome
+  - Root/rhizome
+  - Rhizome and root
+  - Rhizome (root) and aerial parts
+  - Root, rhizome and leaf (standardised PA-free extract)
+  - Leaf, root and seed
+
+- id: rhizome
+  label: Rhizome
+  group: underground
+  description: Horizontal underground stem, often knotty and jointed.
+  raw_labels:
+  - Rhizome
+  - Rhizome (underground parts)
+  - Rhizome (root) and aerial parts
+  - Root and rhizome
+  - Root/rhizome
+  - Rhizome and root
+  - Root, rhizome and leaf (standardised PA-free extract)
+
+- id: tuber
+  label: Tuber
+  group: underground
+  description: Swollen underground storage organ (root or stem tuber).
+  raw_labels:
+  - Secondary root tuber
+
+- id: bulb
+  label: Bulb
+  group: underground
+  description: Underground bud of fleshy scale leaves (e.g. Allium). Reserved for
+    bulb-forming species; no current record maps here yet.
+  raw_labels: []
+
+# ---------------------------------------------------------------- woody / exudate
+- id: bark
+  label: Bark
+  group: woody
+  description: The outer and inner bark peeled from stems, branches or roots.
+  raw_labels:
+  - Bark
+  - Bark (dried)
+  - Bark (stem bark)
+  - Bark, leaf and distilled witch-hazel water
+  - Root (and bark, wood)
+
+- id: sap
+  label: Sap / exudate
+  group: exudate
+  description: Fluid or hardened exudates — rising sap, latex, oleo-gum-resin —
+    collected by tapping or wounding.
+  raw_labels:
+  - Sap
+  - Gum resin (oleo-gum-resin)
+  - Aerial parts (and fresh orange latex)
+  - Aerial parts and dried latex (lactucarium)
+
+# ---------------------------------------------------------------- foliage / aerial
+- id: leaf
+  label: Leaf
+  group: aerial
+  description: Foliage leaves (incl. needles) gathered as the medicinal part.
+  raw_labels:
+  - Leaf
+  - Leaf (aerial parts)
+  - Leaf (and aerial parts)
+  - Leaf (needles)
+  - Leaf (standardised dry extract)
+  - Leaf (standardised extract)
+  - Leaf and flower
+  - Flower and leaf (aerial parts)
+  - Bark, leaf and distilled witch-hazel water
+  - Root (and leaf)
+  - Leaf, root and seed
+  - Root, rhizome and leaf (standardised PA-free extract)
+
+- id: shoot
+  label: Young shoot / sprout
+  group: aerial
+  description: Tender new-season growth — young shoots, sprouts, spring tips —
+    gathered before it hardens.
+  raw_labels:
+  - Young sprouts
+
+- id: stem
+  label: Stem
+  group: aerial
+  description: Stems / stalks harvested as a distinct part (usually with the herb).
+  raw_labels:
+  - Stem
+
+- id: aerial-parts
+  label: Aerial parts (herb)
+  group: aerial
+  description: The above-ground herb — leaf, stem and often flower gathered together,
+    typically as it comes into flower.
+  raw_labels:
+  - Aerial parts
+  - Aerial parts (flowering herb)
+  - Aerial parts (herb)
+  - Aerial parts (herb) and essential oil
+  - Aerial parts (leaf and herb)
+  - Aerial parts (leaf, herb)
+  - Aerial parts (leaf, herb) and essential oil
+  - Aerial parts (leaves and herb)
+  - Aerial parts (and root)
+  - Aerial parts (and fresh orange latex)
+  - Aerial parts and dried latex (lactucarium)
+  - Flowering tops
+  - Flower and leaf (aerial parts)
+  - Rhizome (root) and aerial parts
+  - Root (and aerial parts)
+
+- id: whole-plant
+  label: Whole plant
+  group: aerial
+  description: The entire vascular plant, roots and top together.
+  raw_labels:
+  - Whole plant
+  - Whole Plant
+
+# ---------------------------------------------------------------- reproductive
+- id: flower
+  label: Flower
+  group: reproductive
+  description: Flowers, flower heads, petals or floral parts (incl. calyx).
+  raw_labels:
+  - Flower
+  - Flower (lime, linden flower)
+  - Flower (Verbasci flos)
+  - Flower head (topical preparations)
+  - Flower heads
+  - Petals
+  - Calyx (dried flower calyces)
+  - Leaf and flower
+  - Flower and leaf (aerial parts)
+
+- id: stigma
+  label: Stigma / style
+  group: reproductive
+  description: Detached stigmas and styles (saffron threads, maize corn silk).
+  raw_labels:
+  - Stigma
+  - Stigmas and styles (corn silk)
+
+- id: fruit
+  label: Fruit
+  group: reproductive
+  description: Fleshy or dry fruits — berries, hips, capsules — ripe or unripe.
+  raw_labels:
+  - Fruit
+  - Fruit (berry)
+  - Fruit (hip)
+  - Fruit (unripe)
+  - Fruit and seed
+
+- id: seed
+  label: Seed
+  group: reproductive
+  description: Mature seeds (and seed harvested as the source of a fixed oil).
+  raw_labels:
+  - Seed
+  - Seed (fruit)
+  - Seed (standardised extract)
+  - Seed oil
+  - Fruit and seed
+  - Leaf, root and seed
+
+# ---------------------------------------------------------------- fungal
+- id: fruiting-body
+  label: Fruiting body
+  group: fungal
+  description: The fungal fruiting body (mushroom cap/stipe or bracket conk) and the
+    cultured mycelium that mushroom records list as their harvestable part.
+  raw_labels:
+  - Fruiting body
+  - Fruiting body (mycelium/whole mushroom)
+  - Mycelium
+  - Whole Plant

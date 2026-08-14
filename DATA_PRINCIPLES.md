@@ -1,5 +1,5 @@
-<!-- structure-fingerprint: e75f00f7d2ed -->
-<!-- doc-version: 1.1  ·  last-updated: 2026-08-05 -->
+<!-- structure-fingerprint: 62ee1523ac4c -->
+<!-- doc-version: 1.2  ·  last-updated: 2026-08-14 -->
 
 # Omnia Sana — Data Principles (canonical, model-agnostic)
 
@@ -107,7 +107,8 @@ record here.
 ```
 plants/ compounds/ practice/ names/     ← canonical YAML (the human/AI editing unit)
 bibliography.bibtex                      ← every scientific source, one entry each
-vocabularies/*.yaml                      ← controlled ids (actions, conditions, …)
+vocabularies/*.yaml                      ← controlled ids (actions, conditions,
+                                            harvest_parts, …)
         │
         ▼  scripts/validate.py  (hard gate: refs+ids resolve, records well-formed)
         ▼  scripts/build.py     (computes scores, applies publish gates)
@@ -298,6 +299,18 @@ Name these plainly so no one mistakes green checks for safety:
 
 ## 10. Changelog
 
+- **v1.2 — 2026-08-14.** Harvest Calendar campaign, Batch 0. Added the additive plant
+  field **`harvest_readiness[]`** (phenophase-only harvest-readiness signals: observable
+  biological stage per part of a species, latitude-invariant — no months, no geography)
+  and a new controlled vocabulary **`vocabularies/harvest_parts.yaml`** (~16 canonical
+  harvestable organs; every messy `parts_used` label, preparation artefacts included,
+  resolves onto an organ). Traditional-collection basis and constituent-peak basis are
+  kept as separate typed fields (`signals`/`basis` vs `constituent_note`) — never merged.
+  `validate.py` gains: `part` resolves to the vocab (warning), an unmapped `parts_used`
+  label warns, and each entry needs a sourced `source_quote`+`reference_ids`+`signals`
+  (verified/provisional) or a `notes` search-log (gap). `build.py` passes the field
+  through into `plants.json` unchanged; the field-agnostic monograph renderer ignores it
+  when absent (the other ~187 records). Structural change → fingerprint reconciled.
 - **v1.1 — 2026-08-05.** Built the §6 species-diff audit (`scripts/audit_species.py`) —
   the wrong-species guard moved from planned to shipped (non-blocking, precision-first).
   No structural change, so the fingerprint is unchanged.

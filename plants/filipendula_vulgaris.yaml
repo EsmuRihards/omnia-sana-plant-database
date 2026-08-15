@@ -57,6 +57,32 @@ harvesting:
   reference_ids:
   - REF-2726
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flower clusters in summer while in flower."
+  basis: traditional
+  source_quote: "It is in flower from May to August, and the seeds ripen from July to September."
+  reference_ids:
+  - REF-3257
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3257); the flowers are gathered while in flower (in flower May-August). Single lineage -> provisional."
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts (herb) in summer while in flower."
+  basis: traditional
+  source_quote: "It is in flower from May to August, and the seeds ripen from July to September."
+  reference_ids:
+  - REF-3257
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3257); the flowering herb is gathered while in flower (May-August). Single lineage -> provisional."
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Filipendula vulgaris; the DB harvesting.text claims 'roots and tubers in autumn' (citing REF-2726) but that source was not verified for root timing in this pass, so no autumn stage is asserted here. SAFETY CRITICAL: the small root tubers of dropwort are name-confused with the FATAL Oenanthe crocata (hemlock water dropwort) - never dig dropwort roots without certain identification; see Dangerous Lookalikes."
 traditional_uses:
   text: Dropwort shares much of the European folk-medicine history of its sibling meadowsweet. The salicylate-
     and tannin-rich herb has been used as an astringent and anti-inflammatory remedy for diarrhoea and
@@ -422,7 +448,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-10'
 provenance: pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Created 2026-07-10. 16 PubMed-verified @article refs REF-2725..REF-2740, each self-verified
   as genuine Filipendula vulgaris (note: Filipendula hexapetala Gilib. is a taxonomic SYNONYM of F. vulgaris,
   so hexapetala papers are genuine; the Russian nootropic papers call F. vulgaris ''meadowsweet'' but
@@ -447,4 +473,8 @@ internal_notes: 'Created 2026-07-10. 16 PubMed-verified @article refs REF-2725..
   a safety warning would be the more harmful error - but ''verified'' asserts a source was checked against,
   and none exists. Demoted to ''needs-review'', which is what the data actually merits. Sourcing an absence
   is possible (cf. the euphrasia precedent, where an EMA public statement was cited as the authority for
-  there being no established posology) and is the proper fix if a seam opens.'
+  there being no established posology) and is the proper fix if a seam opens. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for flower + aerial-parts (provisional: PFAF REF-3257, gathered
+  while in flower May-August); root = GAP (no sourced root timing; the DB autumn claim citing REF-2726 was
+  not verified this pass). SAFETY: dropwort root tubers are name-confused with the fatal Oenanthe crocata.
+  Binomial confirmed.'

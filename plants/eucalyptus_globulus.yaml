@@ -38,6 +38,18 @@ harvesting:
   parts:
   - Leaf
   status: draft
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the mature adult foliage (the narrow sickle-shaped leaves), not the juvenile rounded leaves; picked from established trees, used fresh or dried/distilled. Evergreen - no seasonal window; the readiness is developmental."
+  basis: traditional
+  source_quote: "The adult leaves, without their petioles, are antiperiodic, antiseptic, aromatic, deodorant, expectorant, febrifuge, hypoglycaemic and stimulant."
+  reference_ids:
+  - REF-3258
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3258); the medicinal material is the ADULT foliage (Eucalyptus has distinct juvenile rounded leaves vs adult sickle-shaped leaves). For this evergreen there is no seasonal harvest window - the readiness signal is developmental (leaves matured to the adult form). Single lineage -> provisional."
 traditional_uses:
   text: Eucalyptus leaf has a long Australian Aboriginal and, after global spread, worldwide tradition
     as a respiratory remedy - inhaled as steam or applied as chest rubs for colds, coughs, bronchitis
@@ -245,7 +257,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -268,4 +280,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   30 months, not recommended under 12 years. Preparations sourced 2026-07-20 to monographs already on
   this record. Each supporting quote was checked to appear verbatim in the stored monograph posology,
   the reference confirmed present on the plant, and the dose form / plant part / route checked for mismatch;
-  text rewritten to the source rather than having a reference stapled on.'
+  text rewritten to the source rather than having a reference stapled on. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for leaf (provisional: PFAF REF-3258; the adult sickle-shaped
+  foliage, not the juvenile rounded leaves - evergreen, so the readiness is developmental not seasonal).
+  Single lineage. Binomial confirmed.'

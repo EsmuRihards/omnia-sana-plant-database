@@ -66,6 +66,18 @@ harvesting:
   reference_ids:
   - REF-0449
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the flowering herb when in flower, in mid-to-late summer."
+  basis: traditional
+  source_quote: "Eyebright should be harvested when in flower and can be dried for later use."
+  reference_ids:
+  - REF-3255
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3255); the flowering herb is gathered when in flower (in flower July-September). Euphrasia officinalis is a hemiparasitic annual and an aggregate species. Single lineage -> provisional."
 traditional_uses:
   text: Eyebright has a centuries-old European folk reputation, reflected in its common name, as a soothing
     remedy for irritated, red or watery eyes and conjunctivitis, traditionally applied as a cooled compress
@@ -229,7 +241,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-vitro corneal-cell study;
   Herbal Reality monograph). Euphrasia is now placed in Orobanchaceae (formerly Scrophulariaceae). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eye-strain, allergy, infection);
@@ -262,4 +274,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-
   Commission E), may still resolve these. ''Infusion (internal)'': REF-3084 is a negative public statement,
   not a monograph. It concludes that no monograph could be established, that efficacy is undocumented,
   and it states no dose or preparation. It is a source for the ABSENCE of a posology, not for an internal
-  infusion.'
+  infusion. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts
+  (provisional: PFAF REF-3255, flowering herb gathered when in flower, mid-to-late summer). Single lineage.
+  Binomial confirmed.'

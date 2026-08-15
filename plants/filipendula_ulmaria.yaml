@@ -44,6 +44,40 @@ harvesting:
   reference_ids:
   - REF-0815
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the creamy flower clusters in summer as they open, when the salicylate content is highest."
+  basis: traditional
+  source_quote: "The plant is harvested in July when it is in flower and can be dried for later use."
+  reference_ids:
+  - REF-3256
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3256); the flowering tops are gathered in summer as the flowers open (in flower June-August). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowering tops in summer, while in flower."
+  basis: traditional
+  source_quote: "The plant is harvested in July when it is in flower and can be dried for later use."
+  reference_ids:
+  - REF-3256
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3256); the leaf is gathered with the flowering tops in summer. Single lineage -> provisional."
+- part: stem
+  signals:
+  - "Gather the stems with the flowering tops in summer, while in flower."
+  basis: traditional
+  source_quote: "The plant is harvested in July when it is in flower and can be dried for later use."
+  reference_ids:
+  - REF-3256
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3256); the stem is gathered with the flowering tops in summer. Single lineage -> provisional."
 traditional_uses:
   text: Meadowsweet is historically significant as the plant from which salicylic acid derivatives (the
     chemical basis of aspirin) were first isolated, and has long been used in European folk medicine as
@@ -318,7 +352,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -340,4 +374,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   both safety-relevant and previously absent. status -> verified. Preparations sourced 2026-07-20 to monographs
   already on this record. Each supporting quote was checked to appear verbatim in the stored monograph
   posology, the reference confirmed present on the plant, and the dose form / plant part / route checked
-  for mismatch; text rewritten to the source rather than having a reference stapled on.'
+  for mismatch; text rewritten to the source rather than having a reference stapled on. | 2026-08-15:
+  Harvest Calendar (phenological) - added harvest_readiness for flower + leaf + stem (all provisional: PFAF
+  REF-3256, flowering tops cut in summer as the flowers open). Single lineage. Binomial confirmed.'

@@ -55,6 +55,18 @@ harvesting:
   reference_ids:
   - REF-0427
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Harvest the whole flowering herb when in flower, in summer."
+  basis: traditional
+  source_quote: "The whole plant is harvested when in flower and dried for use in tinctures and infusions."
+  reference_ids:
+  - REF-3254
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3254); the whole plant is gathered when in flower (in flower July-September). Single lineage -> provisional."
 traditional_uses:
   text: California poppy has a Native American traditional reputation as a mild calming and pain-relieving
     remedy, used for insomnia, nervous tension and mild pain; unlike the related opium poppy it is non-addictive
@@ -203,7 +215,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor pharmacology study; CYP/P-gp/PXR
   herb-drug-interaction study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (insomnia, anxiety, nervous-tension, pain); associations retained and now part-mapped and
@@ -237,4 +249,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor
   the 2026-07-18/19 dosage campaign never opened (it worked the EMA register and all four WHO volumes).
   NNHPD explicitly lists Infusion, Decoction and Tincture among accepted methods of preparation, which
   is exactly the gap that campaign recorded as unreachable. Species confirmed from the monograph''s own
-  title, not from the slug.'
+  title, not from the slug. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
+  aerial-parts (provisional: PFAF REF-3254, whole flowering herb gathered when in flower, summer). Single
+  Ken Fern lineage. Binomial confirmed.'

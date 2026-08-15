@@ -23300,6 +23300,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Harvest the whole flowering herb when in flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole plant is harvested when in flower and dried for use in tinctures and infusions.",
+     "reference_ids": [
+      "REF-3254"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3254); the whole plant is gathered when in flower (in flower July-September). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "California poppy has a Native American traditional reputation as a mild calming and pain-relieving remedy, used for insomnia, nervous tension and mild pain; unlike the related opium poppy it is non-addictive and its calming effects are now attributed to GABA-A receptor modulation, supporting its traditional anxiolytic and sedative use.",
     "reference_ids": [
@@ -23508,7 +23525,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "california-poppy"
   },
   {
@@ -23554,6 +23571,23 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the mature adult foliage (the narrow sickle-shaped leaves), not the juvenile rounded leaves; picked from established trees, used fresh or dried/distilled. Evergreen - no seasonal window; the readiness is developmental."
+     ],
+     "basis": "traditional",
+     "source_quote": "The adult leaves, without their petioles, are antiperiodic, antiseptic, aromatic, deodorant, expectorant, febrifuge, hypoglycaemic and stimulant.",
+     "reference_ids": [
+      "REF-3258"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3258); the medicinal material is the ADULT foliage (Eucalyptus has distinct juvenile rounded leaves vs adult sickle-shaped leaves). For this evergreen there is no seasonal harvest window - the readiness signal is developmental (leaves matured to the adult form). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Eucalyptus leaf has a long Australian Aboriginal and, after global spread, worldwide tradition as a respiratory remedy - inhaled as steam or applied as chest rubs for colds, coughs, bronchitis and catarrh - and as a topical antiseptic and rubefacient for minor wounds and muscular aches.",
     "reference_ids": [
@@ -23831,7 +23865,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "blue-gum-eucalyptus"
   },
   {
@@ -23921,6 +23955,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering herb when in flower, in mid-to-late summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "Eyebright should be harvested when in flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3255"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3255); the flowering herb is gathered when in flower (in flower July-September). Euphrasia officinalis is a hemiparasitic annual and an aggregate species. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Eyebright has a centuries-old European folk reputation, reflected in its common name, as a soothing remedy for irritated, red or watery eyes and conjunctivitis, traditionally applied as a cooled compress or eyewash, and taken internally as an astringent for catarrh and mild digestive upset.",
     "reference_ids": [
@@ -24155,7 +24206,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "eyebright"
   },
   {
@@ -24211,6 +24262,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the creamy flower clusters in summer as they open, when the salicylate content is highest."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested in July when it is in flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3256"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3256); the flowering tops are gathered in summer as the flowers open (in flower June-August). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering tops in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested in July when it is in flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3256"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3256); the leaf is gathered with the flowering tops in summer. Single lineage -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the stems with the flowering tops in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested in July when it is in flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3256"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3256); the stem is gathered with the flowering tops in summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Meadowsweet is historically significant as the plant from which salicylic acid derivatives (the chemical basis of aspirin) were first isolated, and has long been used in European folk medicine as an anti-inflammatory, analgesic and gastroprotective remedy for feverish colds, rheumatic and joint pain, and digestive complaints such as acid reflux and indigestion - notably, its natural mucilage is thought to buffer the gastric irritation associated with isolated salicylates.",
     "reference_ids": [
@@ -24609,7 +24707,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "meadowsweet"
   },
   {
@@ -24673,6 +24771,43 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flower clusters in summer while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from May to August, and the seeds ripen from July to September.",
+     "reference_ids": [
+      "REF-3257"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3257); the flowers are gathered while in flower (in flower May-August). Single lineage -> provisional."
+    },
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts (herb) in summer while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from May to August, and the seeds ripen from July to September.",
+     "reference_ids": [
+      "REF-3257"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3257); the flowering herb is gathered while in flower (May-August). Single lineage -> provisional."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Filipendula vulgaris; the DB harvesting.text claims 'roots and tubers in autumn' (citing REF-2726) but that source was not verified for root timing in this pass, so no autumn stage is asserted here. SAFETY CRITICAL: the small root tubers of dropwort are name-confused with the FATAL Oenanthe crocata (hemlock water dropwort) - never dig dropwort roots without certain identification; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Dropwort shares much of the European folk-medicine history of its sibling meadowsweet. The salicylate- and tannin-rich herb has been used as an astringent and anti-inflammatory remedy for diarrhoea and other gastrointestinal complaints, for rheumatic and arthritic pain, for kidney and bladder 'gravel' and urinary complaints, and as a wound and mouth wash. In Serbian and Balkan ethnomedicine the flowers and roots are used; Russian traditional medicine uses dropwort extracts as a nootropic and calming remedy for the nervous system.",
     "reference_ids": [
@@ -25167,7 +25302,7 @@
    ],
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20"
+   "last_updated": "2026-08-15"
   },
   {
    "id": "foeniculum-vulgare",

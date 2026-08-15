@@ -37,6 +37,29 @@ harvesting:
   - Leaf
   season: Summer, at start of flowering
   status: draft
+harvest_readiness:
+- part: flower
+  signals:
+  - "Cut the flowering tops as the plant comes into flower, in summer."
+  basis: traditional
+  source_quote: "can be harvested as it comes into flower and either be distilled for the oil or dried for later use"
+  reference_ids:
+  - REF-3349
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3349); the flowering tops are cut as the plant comes into flower (in flower July-August). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves just before the flowers open (early and late summer), when the aromatic oil is highest."
+  basis: traditional
+  source_quote: "If the leaves are to be dried, the plants should be harvested in early and late summer just before the flowers open"
+  reference_ids:
+  - REF-3349
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3349); the leaves are gathered just before the flowers open (early and late summer), when the oil is highest. Single lineage -> provisional."
 traditional_uses:
   text: Wild thyme has a long European folk tradition, closely paralleling its relative garden thyme,
     as an antimicrobial and expectorant remedy for coughs and respiratory infections, a digestive/gastroprotective
@@ -226,7 +249,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -252,4 +275,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   status draft rather than attached to a tangentially-related paper. SPECIFIC FINDING - WRONG SPECIES: the
   EMA monographs in this area cover Thymus vulgaris and T. zygis (Thymi herba, REF-0071/REF-0519), not T.
   serpyllum (wild thyme). A binomial search of the WHO volumes also produced a false positive here, matching
-  Folium Melissae on genus letters alone.'
+  Folium Melissae on genus letters alone. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for flower + leaf (both provisional: PFAF REF-3349, gathered just before the flowers
+  open / as it comes into flower). Single lineage. Binomial confirmed.'

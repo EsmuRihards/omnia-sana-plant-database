@@ -60484,6 +60484,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering herb, as the plant comes into flower in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is gathered as it comes into flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3347"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3347); the leaf/flowering herb is gathered as the plant comes into flower (in flower July-August). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Feverfew has a long European folk tradition, its name derived from 'febrifuge' (fever-reducer), as a remedy for fevers, headaches and joint pain. Modern use and clinical research focus on migraine prevention, with parthenolide identified as the key active compound responsible for inhibiting the inflammatory pathways implicated in migraine.",
     "reference_ids": [
@@ -60677,7 +60694,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "feverfew"
   },
   {
@@ -60733,6 +60750,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the flowering tops as the plant comes into flower, in late summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested as it is coming into flower and is dried for later use.",
+     "reference_ids": [
+      "REF-3348"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3348); the flowering tops are cut as the plant comes into flower (in flower August-September). Single lineage -> provisional. SAFETY: tansy is toxic (thujone) and can be confused with the PA-toxic ragwort (Jacobaea vulgaris) - confirm identity; see Dangerous Lookalikes."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering tops, as the plant comes into flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested as it is coming into flower and is dried for later use.",
+     "reference_ids": [
+      "REF-3348"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3348); the leaf is gathered with the flowering tops. Single lineage -> provisional. SAFETY: as above - toxic (thujone), Jacobaea vulgaris lookalike."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the stems with the flowering tops, as the plant comes into flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested as it is coming into flower and is dried for later use.",
+     "reference_ids": [
+      "REF-3348"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3348); the stem is gathered with the flowering tops. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Tansy has a long European history as a strewing herb, insect repellent and, historically, an internal vermifuge and emmenagogue, but its thujone and camphor content make internal medicinal use unsafe by modern standards. Today it is used, with caution, mainly as an external insect repellent; the traditional internal uses are recorded here for historical reference only, not as a recommendation.",
     "reference_ids": [
@@ -61036,7 +61100,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "tansy"
   },
   {
@@ -61157,6 +61221,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in autumn, from two-year-old plants."
+     ],
+     "basis": "traditional",
+     "source_quote": "The roots of 2 year old plants are harvested in the autumn, dried and roasted to make a very good coffee substitute",
+     "reference_ids": [
+      "REF-3346"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3346); the root is dug in autumn from 2-year-old plants. This properly time-sources the record: the audit found taraxacum marked verified while its references carried no timing language - REF-3346 is a genuine collection-timing source. Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in spring, when the plant is in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in the spring when the plant is in flower and can be dried for later use",
+     "reference_ids": [
+      "REF-3346"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3346); the leaves are gathered in spring, when the plant is in flower. Single lineage -> provisional."
+    },
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flower heads in spring, as they open."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in the spring when the plant is in flower and can be dried for later use",
+     "reference_ids": [
+      "REF-3346"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3346); the flowers open in spring (gathered with the spring leaves). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Dandelion is one of the most widely used bitter tonic herbs worldwide, traditionally taken as a digestive bitter and mild diuretic - the French name 'pissenlit' (wet-the-bed) reflects this - and the root specifically as a liver and gallbladder tonic. Every part is also used as food: spring greens, roasted-root coffee substitute, and flower wine.",
     "reference_ids": [
@@ -61681,7 +61792,7 @@
    },
    "provenance": "website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18",
+   "last_updated": "2026-08-15",
    "common_slug": "dandelion"
   },
   {
@@ -61736,6 +61847,13 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "status": "gap",
+     "notes": "GAP (documented dead end). Useful Tropical Plants gives no pod-ripeness or harvest stage for Theobroma cacao (only that the seed loses viability 5-7 days after separation from the pulp). The pods are cut from the trunk when ripe - they change colour (green to yellow, or red to orange) about 5-6 months after flowering - but no source stating that observable stage was found this pass. The seed (cocoa bean) is extracted from the same harvested pods. Next seams: a cocoa-agronomy or ICCO harvest source."
+    }
+   ],
    "traditional_uses": {
     "text": "Cacao has an ancient Mesoamerican tradition (Maya and Aztec) as a ceremonial, medicinal and nutritive beverage, valued as a stimulant tonic and considered sacred - 'food of the gods', reflected in the genus name Theobroma. Modern research on its polyphenol (flavanol) content supports cardiovascular, antioxidant, anti-inflammatory and neuroprotective/cognitive benefits, particularly from minimally processed, high-flavanol cocoa.",
     "reference_ids": [
@@ -62000,7 +62118,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "cacao"
   },
   {
@@ -62046,6 +62164,38 @@
     "season": "Summer, at start of flowering",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the flowering tops as the plant comes into flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "can be harvested as it comes into flower and either be distilled for the oil or dried for later use",
+     "reference_ids": [
+      "REF-3349"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3349); the flowering tops are cut as the plant comes into flower (in flower July-August). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves just before the flowers open (early and late summer), when the aromatic oil is highest."
+     ],
+     "basis": "traditional",
+     "source_quote": "If the leaves are to be dried, the plants should be harvested in early and late summer just before the flowers open",
+     "reference_ids": [
+      "REF-3349"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3349); the leaves are gathered just before the flowers open (early and late summer), when the oil is highest. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Wild thyme has a long European folk tradition, closely paralleling its relative garden thyme, as an antimicrobial and expectorant remedy for coughs and respiratory infections, a digestive/gastroprotective herb, and a topical antiseptic.",
     "reference_ids": [
@@ -62306,7 +62456,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "breckland-thyme"
   },
   {

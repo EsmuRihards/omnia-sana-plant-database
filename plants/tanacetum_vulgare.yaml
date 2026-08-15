@@ -45,6 +45,40 @@ harvesting:
   reference_ids:
   - REF-0098
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Cut the flowering tops as the plant comes into flower, in late summer."
+  basis: traditional
+  source_quote: "The plant is harvested as it is coming into flower and is dried for later use."
+  reference_ids:
+  - REF-3348
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3348); the flowering tops are cut as the plant comes into flower (in flower August-September). Single lineage -> provisional. SAFETY: tansy is toxic (thujone) and can be confused with the PA-toxic ragwort (Jacobaea vulgaris) - confirm identity; see Dangerous Lookalikes."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowering tops, as the plant comes into flower."
+  basis: traditional
+  source_quote: "The plant is harvested as it is coming into flower and is dried for later use."
+  reference_ids:
+  - REF-3348
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3348); the leaf is gathered with the flowering tops. Single lineage -> provisional. SAFETY: as above - toxic (thujone), Jacobaea vulgaris lookalike."
+- part: stem
+  signals:
+  - "Gather the stems with the flowering tops, as the plant comes into flower."
+  basis: traditional
+  source_quote: "The plant is harvested as it is coming into flower and is dried for later use."
+  reference_ids:
+  - REF-3348
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3348); the stem is gathered with the flowering tops. Single lineage -> provisional."
 traditional_uses:
   text: Tansy has a long European history as a strewing herb, insect repellent and, historically, an internal
     vermifuge and emmenagogue, but its thujone and camphor content make internal medicinal use unsafe
@@ -275,7 +309,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -286,4 +320,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields; preparations/dosage deliberately do NOT describe any internal preparation, consistent
   with this record''s existing safety-first contraindications. Sourced from A Modern Herbal (REF-0098)
-  and the essential-oil composition study (REF-1293).'
+  and the essential-oil composition study (REF-1293). | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for flower + leaf + stem (all provisional: PFAF REF-3348, harvested as it comes into
+  flower). SAFETY: toxic (thujone) + PA-toxic ragwort (Jacobaea vulgaris) lookalike. Binomial confirmed.'

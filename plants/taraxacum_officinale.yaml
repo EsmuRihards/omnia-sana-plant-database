@@ -95,6 +95,40 @@ harvesting:
   - REF-0326
   - REF-0329
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root in autumn, from two-year-old plants."
+  basis: traditional
+  source_quote: "The roots of 2 year old plants are harvested in the autumn, dried and roasted to make a very good coffee substitute"
+  reference_ids:
+  - REF-3346
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3346); the root is dug in autumn from 2-year-old plants. This properly time-sources the record: the audit found taraxacum marked verified while its references carried no timing language - REF-3346 is a genuine collection-timing source. Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves in spring, when the plant is in flower."
+  basis: traditional
+  source_quote: "The leaves are harvested in the spring when the plant is in flower and can be dried for later use"
+  reference_ids:
+  - REF-3346
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3346); the leaves are gathered in spring, when the plant is in flower. Single lineage -> provisional."
+- part: flower
+  signals:
+  - "Gather the flower heads in spring, as they open."
+  basis: traditional
+  source_quote: "The leaves are harvested in the spring when the plant is in flower and can be dried for later use"
+  reference_ids:
+  - REF-3346
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3346); the flowers open in spring (gathered with the spring leaves). Single lineage -> provisional."
 traditional_uses:
   text: 'Dandelion is one of the most widely used bitter tonic herbs worldwide, traditionally taken as
     a digestive bitter and mild diuretic - the French name ''pissenlit'' (wet-the-bed) reflects this -
@@ -459,7 +493,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed
 status: verified
-last_updated: '2026-07-18'
+last_updated: '2026-08-15'
 internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica post (https://omniasana.bio/dandelion-taraxacum-officinale/).
   Unlike the bulk book-ingested records, actions are mapped to specific parts and references per the source
   post. The Kew Plants of the World Online entry is shared with the book ingestion (REF-0248). | 2026-06-15:
@@ -474,4 +508,8 @@ internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica p
   sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18:
   added 24 new OpenAlex-sourced scientific references (REF-2945..REF-2968) covering anticancer / immunity
   / cardiovascular / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed
-  database). | 2026-07-19 (orphan sweep): REF-0070 (EMA community herbal monograph, Taraxacum officinale radix cum herba) and REF-0264 (Schutz 2006 phytochemical/pharmacological review) were declared in the bibliography but cited nowhere, so they were publicly visible with nothing pointing at them. Both are genuine sources for this species and are now in the plant-level references bucket. They are NOT wired to a claim: that needs the monograph and the review read for what they actually state, which is a sourcing pass, not a cleanup.'
+  database). | 2026-07-19 (orphan sweep): REF-0070 (EMA community herbal monograph, Taraxacum officinale radix cum herba) and REF-0264 (Schutz 2006 phytochemical/pharmacological review) were declared in the bibliography but cited nowhere, so they were publicly visible with nothing pointing at them. Both are genuine sources for this species and are now in the plant-level references bucket. They are NOT wired to a claim: that needs the monograph and the review read for what they actually state, which is a sourcing pass, not a cleanup. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for root (autumn, 2yr plants) + leaf + flower (spring, in flower), all provisional: PFAF
+  REF-3346. This is the plant the audit used as its example (verified content status, but the cited refs
+  carried no timing language); REF-3346 is a genuine collection-timing source. Single lineage. Binomial
+  confirmed.'

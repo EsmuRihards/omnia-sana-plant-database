@@ -42,6 +42,29 @@ harvesting:
   reference_ids:
   - REF-0112
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root and rhizome in autumn, from two-year-old plants, once the leaves have died down; fresh roots are more potent."
+  basis: traditional
+  source_quote: "The roots of 2 year old plants are harvested in the autumn once the leaves have died down and are used fresh or dried."
+  reference_ids:
+  - REF-3360
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3360); the root is dug in autumn from 2-year-old plants after the foliage dies back. Single lineage -> provisional. SAFETY: valerian is confusable with the fatal Conium maculatum (poison hemlock) - confirm identity; see Dangerous Lookalikes."
+- part: rhizome
+  signals:
+  - "Dig the rhizome with the roots in autumn, from two-year-old plants, once the leaves have died down."
+  basis: traditional
+  source_quote: "The roots of 2 year old plants are harvested in the autumn once the leaves have died down and are used fresh or dried."
+  reference_ids:
+  - REF-3360
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3360); the rhizome is dug with the roots in autumn from mature 2-year plants. Single lineage -> provisional. SAFETY: as above - confusable with Conium maculatum."
 traditional_uses:
   text: Valerian root has a long European tradition, formalised in Commission E approval, as a sedative
     and mild anxiolytic for restlessness and sleep disorders, and as an antispasmodic for menstrual cramps
@@ -287,7 +310,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -297,4 +320,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1353, REF-1354, REF-1355, REF-1356, REF-1357) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
   harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
-  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-19 (orphan sweep): REF-0092 (Garges 1998, cardiac complications and delirium associated with valerian root withdrawal) was orphaned. It is a genuine safety signal for this species and is now in the references bucket. CANDIDATE for a withdrawal/discontinuation contraindication - deliberately not written as one here, because a single case report needs reading in full before it becomes a published safety claim.'
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-19 (orphan sweep): REF-0092 (Garges 1998, cardiac complications and delirium associated with valerian root withdrawal) was orphaned. It is a genuine safety signal for this species and is now in the references bucket. CANDIDATE for a withdrawal/discontinuation contraindication - deliberately not written as one here, because a single case report needs reading in full before it becomes a published safety claim. | 2026-08-15:
+  Harvest Calendar (phenological) - added harvest_readiness for root + rhizome (both provisional: PFAF
+  REF-3360, dug in autumn from 2-year plants after die-down). SAFETY: fatal Conium maculatum lookalike.
+  Binomial confirmed.'

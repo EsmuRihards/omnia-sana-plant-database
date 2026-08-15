@@ -66345,6 +66345,23 @@
     "season": "Mid-to-late summer",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Pick the berries when ripe and blue-black, in late summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from July to September",
+     "reference_ids": [
+      "REF-3361"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3361); the berries ripen to blue-black in late summer (July-September). Single lineage -> provisional. SAFETY: do not confuse bilberries with the mildly toxic berries of privet (Ligustrum vulgare); see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Bilberry has a long European folk tradition as a food and remedy for diarrhoea, eye strain and circulatory complaints, with dried berry and standardized anthocyanin extracts studied for cardiovascular and metabolic support; claims of improved night vision in people with normal eyesight are not supported by rigorous clinical trials.",
     "reference_ids": [
@@ -66574,7 +66591,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "bilberry"
   },
   {
@@ -66628,6 +66645,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root and rhizome in autumn, from two-year-old plants, once the leaves have died down; fresh roots are more potent."
+     ],
+     "basis": "traditional",
+     "source_quote": "The roots of 2 year old plants are harvested in the autumn once the leaves have died down and are used fresh or dried.",
+     "reference_ids": [
+      "REF-3360"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3360); the root is dug in autumn from 2-year-old plants after the foliage dies back. Single lineage -> provisional. SAFETY: valerian is confusable with the fatal Conium maculatum (poison hemlock) - confirm identity; see Dangerous Lookalikes."
+    },
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the rhizome with the roots in autumn, from two-year-old plants, once the leaves have died down."
+     ],
+     "basis": "traditional",
+     "source_quote": "The roots of 2 year old plants are harvested in the autumn once the leaves have died down and are used fresh or dried.",
+     "reference_ids": [
+      "REF-3360"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3360); the rhizome is dug with the roots in autumn from mature 2-year plants. Single lineage -> provisional. SAFETY: as above - confusable with Conium maculatum."
+    }
+   ],
    "traditional_uses": {
     "text": "Valerian root has a long European tradition, formalised in Commission E approval, as a sedative and mild anxiolytic for restlessness and sleep disorders, and as an antispasmodic for menstrual cramps and muscle spasm; modern systematic reviews support a modest benefit for sleep quality.",
     "reference_ids": [
@@ -66932,7 +66981,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "valerian"
   },
   {
@@ -67028,6 +67077,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Pick the flowers when in flower (in summer), gathering the newly-opened blooms up the spike, and dry them quickly to keep the colour and potency."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested when in flower and should be dried quickly and with care or it will lose its medicinal qualities.",
+     "reference_ids": [
+      "REF-3364"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3364, as Verbascum densiflorum/thapsiforme); the flowers are gathered when in flower (July-August) and dried quickly. Single lineage -> provisional. SAFETY: the first-year mullein rosette resembles the FATAL foxglove (Digitalis purpurea) rosette - confirm identity before gathering; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Together with great mullein and V. phlomoides, dense-flowered mullein flower is officially recognised in the EU herbal monograph and ESCOP monograph as a traditional demulcent and mild expectorant for cough and cold with sore throat, used to soothe irritated mucous membranes of the upper respiratory tract.",
     "reference_ids": [
@@ -67239,7 +67305,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "dense-flowered-mullein"
   },
   {
@@ -67295,6 +67361,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Pick the flowers when in flower, in summer - they open a few at a time up the tall spike, so gather the fresh blooms repeatedly and dry quickly."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested when in flower and is dried for later use.",
+     "reference_ids": [
+      "REF-3362"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3362); the flowers are gathered when in flower (June-August), opening a few at a time up the spike. Single lineage -> provisional. SAFETY: the first-year mullein rosette resembles the FATAL foxglove (Digitalis purpurea) rosette - confirm identity; see Dangerous Lookalikes."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering plant in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested when in flower and is dried for later use.",
+     "reference_ids": [
+      "REF-3362"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3362); the leaf is gathered with the flowering plant in summer. Single lineage -> provisional. SAFETY: as above - the rosette is confusable with the fatal Digitalis purpurea."
+    }
+   ],
    "traditional_uses": {
     "text": "Great mullein has a long European and Native American tradition as a soothing demulcent and expectorant remedy for cough, bronchitis and irritated airways, and the flower has also been infused in oil as a traditional remedy for earache; the soft, woolly leaf gave rise to old names like 'flannel leaf' and 'velvet plant'.",
     "reference_ids": [
@@ -67562,7 +67660,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "great-mullein"
   },
   {
@@ -67651,6 +67749,23 @@
     "season": "Summer, at flowering",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the flowering aerial parts as flowering begins, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested as flowering begins in the summer and dried for later use",
+     "reference_ids": [
+      "REF-3363"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3363); the flowering herb is cut as flowering begins in summer (in flower July-September). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Vervain has an ancient European reputation, reflected in its old names 'holy herb' and 'herb of the cross', as a calming nervine for nervous tension, anxiety and sleeplessness, and as a bitter digestive tonic; it has also traditionally been used topically and internally for aches, pains and mild inflammation.",
     "reference_ids": [
@@ -67913,7 +68028,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "vervain"
   },
   {

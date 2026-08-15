@@ -70,6 +70,18 @@ harvesting:
   reference_ids:
   - REF-0441
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Pick the flowers when in flower (in summer), gathering the newly-opened blooms up the spike, and dry them quickly to keep the colour and potency."
+  basis: traditional
+  source_quote: "The plant is harvested when in flower and should be dried quickly and with care or it will lose its medicinal qualities."
+  reference_ids:
+  - REF-3364
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3364, as Verbascum densiflorum/thapsiforme); the flowers are gathered when in flower (July-August) and dried quickly. Single lineage -> provisional. SAFETY: the first-year mullein rosette resembles the FATAL foxglove (Digitalis purpurea) rosette - confirm identity before gathering; see Dangerous Lookalikes."
 traditional_uses:
   text: Together with great mullein and V. phlomoides, dense-flowered mullein flower is officially recognised
     in the EU herbal monograph and ESCOP monograph as a traditional demulcent and mild expectorant for
@@ -234,7 +246,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph and
   ESCOP monograph, which cover V. densiflorum together with V. thapsus and V. phlomoides). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, earache,
@@ -248,4 +260,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
   existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
-  policy.'
+  policy. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower (provisional:
+  PFAF REF-3364, gathered when in flower, dried quickly). SAFETY: fatal Digitalis purpurea rosette
+  confusion. Binomial confirmed.'

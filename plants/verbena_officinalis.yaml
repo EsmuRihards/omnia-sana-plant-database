@@ -65,6 +65,18 @@ harvesting:
   - Aerial parts (flowering herb)
   season: Summer, at flowering
   status: draft
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Cut the flowering aerial parts as flowering begins, in summer."
+  basis: traditional
+  source_quote: "The plant is harvested as flowering begins in the summer and dried for later use"
+  reference_ids:
+  - REF-3363
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3363); the flowering herb is cut as flowering begins in summer (in flower July-September). Single lineage -> provisional."
 traditional_uses:
   text: Vervain has an ancient European reputation, reflected in its old names 'holy herb' and 'herb of
     the cross', as a calming nervine for nervous tension, anxiety and sleeplessness, and as a bitter digestive
@@ -245,7 +257,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Verbenae herba; Planta
   Medica review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (anxiety, insomnia, nervous-tension, inflammation, depression); associations retained and now part-mapped
@@ -292,4 +304,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition
   read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for
   human studies that state an administered dose. Per the campaign''s integrity bar the entry is left
-  unsourced at status draft rather than attached to a tangentially-related paper.'
+  unsourced at status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF REF-3363, flowering
+  herb cut as flowering begins in summer). Single lineage. Binomial confirmed.'

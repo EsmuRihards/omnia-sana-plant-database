@@ -60,6 +60,18 @@ harvesting:
   - Fruit (berry)
   season: Mid-to-late summer
   status: draft
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Pick the berries when ripe and blue-black, in late summer."
+  basis: traditional
+  source_quote: "the seeds ripen from July to September"
+  reference_ids:
+  - REF-3361
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3361); the berries ripen to blue-black in late summer (July-September). Single lineage -> provisional. SAFETY: do not confuse bilberries with the mildly toxic berries of privet (Ligustrum vulgare); see Dangerous Lookalikes."
 traditional_uses:
   text: Bilberry has a long European folk tradition as a food and remedy for diarrhoea, eye strain and
     circulatory complaints, with dried berry and standardized anthocyanin extracts studied for cardiovascular
@@ -234,7 +246,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Survey of Ophthalmology systematic review;
   Molecules review of metabolic/cardiovascular effects). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (eye-strain, varicose-veins, high-cholesterol, inflammation); associations
@@ -246,4 +258,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Survey of Ophth
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+  sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit
+  (provisional: PFAF REF-3361, berries ripe blue-black in late summer). SAFETY: privet (Ligustrum vulgare)
+  berry lookalike. Binomial confirmed.'

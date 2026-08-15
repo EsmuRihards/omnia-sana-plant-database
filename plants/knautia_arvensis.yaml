@@ -54,6 +54,32 @@ harvesting:
   reference_ids:
   - REF-2808
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flower heads in summer, while in flower."
+  basis: traditional
+  source_quote: "It is in flower from July to September."
+  reference_ids:
+  - REF-3280
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3280); the flower heads are gathered while in flower (July-September). PFAF gives the flowering stage rather than an explicit harvest sentence. Single lineage -> provisional."
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts in summer, while in flower."
+  basis: traditional
+  source_quote: "It is in flower from July to September."
+  reference_ids:
+  - REF-3280
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3280); the flowering herb is gathered while in flower (July-September). Single lineage -> provisional."
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Knautia arvensis (only the flowering period). No sourced stage for the root, so none is asserted. Next seams: a folk-medicine flora for field scabious root."
 traditional_uses:
   text: Field scabious has a European folk-medicine reputation chiefly as a remedy for skin complaints
     - eczema, itching, scabies (the name 'scabious' comes from its use against 'the scab'), cuts and sores
@@ -201,7 +227,7 @@ lookalikes_review:
   - REF-2808
 provenance: pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent failed on the session
   limit). SETTLED-INCOMPLETE: genuine Knautia arvensis medicinal/phytochemical literature is only 3 papers
   (REF-2808 phenolic profile, REF-2809 phenolic/flavone constituents, REF-2810 knautioside/saponosides).
@@ -228,4 +254,6 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   a source was checked against, and none exists. Demoted to ''needs-review'', which is what the data actually
   merits. Sourcing an absence is possible (cf. the euphrasia precedent, where an EMA public statement
   was cited as the authority for there being no established posology) and is the proper fix if a seam
-  opens.'
+  opens. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower + aerial-parts
+  (provisional: PFAF REF-3280, gathered while in flower July-Sept); root = GAP (no sourced timing). Binomial
+  confirmed.'

@@ -32604,6 +32604,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root and rhizome in autumn, from plants two to three years old."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is best harvested in the autumn from plants that are two years old",
+     "reference_ids": [
+      "REF-3277"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3277); the root/rhizome is dug in autumn from 2-year-old plants (another report says at least 3 years). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Elecampane root has a long European tradition, reflected in the old name 'elf dock', as a warming expectorant remedy for productive cough, bronchitis and chronic respiratory catarrh, and topically and internally as an antimicrobial for skin and wound infections.",
     "reference_ids": [
@@ -32801,7 +32818,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "elecampane"
   },
   {
@@ -32853,6 +32870,23 @@
     "season": "Fruit in autumn, when fully ripe (blue-black)",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Gather the ripe fleshy cones (berries) in autumn, when fully ripe and blue-black; because green (unripe) and ripe cones sit together on the same bush, pick only the dark ripe ones."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is usually harvested in the autumn when fully ripe and then dried for later use.",
+     "reference_ids": [
+      "REF-3278"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3278); the fleshy cones ('berries') are gathered in autumn when fully ripe (seeds ripen in October). The cones take 2-3 years to ripen, so green and ripe blue-black cones occur together - pick only the ripe dark ones. Single lineage -> provisional. SAFETY: do not confuse with the toxic savin (Juniperus sabina); see Dangerous Lookalikes. (Leaf and stem, also listed parts, were not separately timing-sourced this pass.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Juniper berry has a long European tradition as a diuretic and urinary antiseptic for minor urinary complaints, a warming digestive carminative for indigestion and bloating, and a flavouring for gin and other spirits; the leaf and wood have also been burned or used topically for their antimicrobial properties.",
     "reference_ids": [
@@ -33147,7 +33181,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "common-juniper"
   },
   {
@@ -33209,6 +33243,43 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flower heads in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from July to September.",
+     "reference_ids": [
+      "REF-3280"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3280); the flower heads are gathered while in flower (July-September). PFAF gives the flowering stage rather than an explicit harvest sentence. Single lineage -> provisional."
+    },
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from July to September.",
+     "reference_ids": [
+      "REF-3280"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3280); the flowering herb is gathered while in flower (July-September). Single lineage -> provisional."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Knautia arvensis (only the flowering period). No sourced stage for the root, so none is asserted. Next seams: a folk-medicine flora for field scabious root."
+    }
+   ],
    "traditional_uses": {
     "text": "Field scabious has a European folk-medicine reputation chiefly as a remedy for skin complaints - eczema, itching, scabies (the name 'scabious' comes from its use against 'the scab'), cuts and sores - taken internally as a 'blood purifier' (alterative/depurative) and applied externally as a wash or poultice. It has also been used for coughs and sore throats. The plant is rich in phenolic acids, flavonoids and saponins; the closely related genera Knautia, Scabiosa and Dipsacus in the honeysuckle family share this chemistry and a tradition of use in skin disease and inflammation.",
     "reference_ids": [
@@ -33423,7 +33494,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20"
+   "last_updated": "2026-08-15"
   },
   {
    "id": "lactuca-virosa",
@@ -33494,6 +33565,24 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the aerial parts (and collect the milky latex, lactucarium) as the plant comes into flower in summer, when the constituent peaks."
+     ],
+     "basis": "constituent",
+     "constituent_note": "Lactucarium (the sedative latex) is low in young plants and most concentrated when the plant comes into flower.",
+     "source_quote": "Concentrations of lactucarium are low in young plants and most concentrated when the plant comes into flower.",
+     "reference_ids": [
+      "REF-3279"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3279); the readiness rests on the constituent peak - lactucarium is most concentrated as the plant comes into flower (in flower July-September). basis:constituent (the sourced statement is the constituent peak; no separate traditional-collection source, so not basis:both). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Wild lettuce has a long folk history, reflected in the name 'opium lettuce', as a mild sedative and analgesic remedy for insomnia, nervous tension and pain, and as an antitussive for irritable dry cough, its dried latex (lactucarium) once used as a milder, non-addictive alternative to opium.",
     "reference_ids": [
@@ -33712,7 +33801,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "wild-lettuce"
   },
   {
@@ -33806,6 +33895,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the white flowers in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested in the summer and can be dried for later use.",
+     "reference_ids": [
+      "REF-3281"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3281); the plant is harvested in summer while in flower (long flowering period May-December). Single lineage -> provisional."
+    },
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts (herb) in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested in the summer and can be dried for later use.",
+     "reference_ids": [
+      "REF-3281"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3281); the flowering herb is gathered in summer. Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering tops in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested in the summer and can be dried for later use.",
+     "reference_ids": [
+      "REF-3281"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3281); the leaf is gathered with the summer flowering tops. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "White dead-nettle flower has a long European folk history as an astringent remedy for catarrh and excessive menstrual or vaginal discharge, and topically as a vulnerary wash for minor wounds; the young leaves and shoots have also traditionally been eaten as a cooked spring pot-herb.",
     "status": "draft"
@@ -34053,7 +34189,7 @@
    },
    "provenance": "book+website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "white-dead-nettle"
   },
   {

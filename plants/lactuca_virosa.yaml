@@ -57,6 +57,19 @@ harvesting:
   reference_ids:
   - REF-0526
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Cut the aerial parts (and collect the milky latex, lactucarium) as the plant comes into flower in summer, when the constituent peaks."
+  basis: constituent
+  constituent_note: "Lactucarium (the sedative latex) is low in young plants and most concentrated when the plant comes into flower."
+  source_quote: "Concentrations of lactucarium are low in young plants and most concentrated when the plant comes into flower."
+  reference_ids:
+  - REF-3279
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3279); the readiness rests on the constituent peak - lactucarium is most concentrated as the plant comes into flower (in flower July-September). basis:constituent (the sourced statement is the constituent peak; no separate traditional-collection source, so not basis:both). Single lineage -> provisional."
 traditional_uses:
   text: Wild lettuce has a long folk history, reflected in the name 'opium lettuce', as a mild sedative
     and analgesic remedy for insomnia, nervous tension and pain, and as an antitussive for irritable dry
@@ -213,7 +226,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from general literature (Herbal Reality and RxList monographs). Record
   status set to needs-review because of the overdose toxicity risk and limited modern evidence. Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (insomnia, pain, nervous-tension,
@@ -227,4 +240,6 @@ internal_notes: 'Enriched 2026-06-12 from general literature (Herbal Reality and
   REF-2063, REF-2064) — woven into relevant actions/indications and the plant-level references bucket.
   | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy.'
+  draft per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for aerial-parts (provisional, basis:constituent: PFAF REF-3279 - lactucarium peaks as
+  the plant comes into flower). Single lineage. Binomial confirmed.'

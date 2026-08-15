@@ -45,6 +45,18 @@ harvesting:
   - Stem
   season: Fruit in autumn, when fully ripe (blue-black)
   status: draft
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Gather the ripe fleshy cones (berries) in autumn, when fully ripe and blue-black; because green (unripe) and ripe cones sit together on the same bush, pick only the dark ripe ones."
+  basis: traditional
+  source_quote: "It is usually harvested in the autumn when fully ripe and then dried for later use."
+  reference_ids:
+  - REF-3278
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3278); the fleshy cones ('berries') are gathered in autumn when fully ripe (seeds ripen in October). The cones take 2-3 years to ripen, so green and ripe blue-black cones occur together - pick only the ripe dark ones. Single lineage -> provisional. SAFETY: do not confuse with the toxic savin (Juniperus sabina); see Dangerous Lookalikes. (Leaf and stem, also listed parts, were not separately timing-sourced this pass.)"
 traditional_uses:
   text: Juniper berry has a long European tradition as a diuretic and urinary antiseptic for minor urinary
     complaints, a warming digestive carminative for indigestion and bloating, and a flavouring for gin
@@ -287,7 +299,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -315,4 +327,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   use as a food spice or as the flavouring for gin. Preparations sourced 2026-07-20 to monographs already
   on this record. Each supporting quote was checked to appear verbatim in the stored monograph posology,
   the reference confirmed present on the plant, and the dose form / plant part / route checked for mismatch;
-  text rewritten to the source rather than having a reference stapled on.'
+  text rewritten to the source rather than having a reference stapled on. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for fruit (provisional: PFAF REF-3278, ripe blue-black cones in
+  autumn; green + ripe on the same bush). SAFETY: toxic savin (Juniperus sabina) lookalike. Binomial
+  confirmed.'

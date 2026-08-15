@@ -71,6 +71,40 @@ harvesting:
   reference_ids:
   - REF-0349
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the white flowers in summer, while in flower."
+  basis: traditional
+  source_quote: "The plant is harvested in the summer and can be dried for later use."
+  reference_ids:
+  - REF-3281
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3281); the plant is harvested in summer while in flower (long flowering period May-December). Single lineage -> provisional."
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts (herb) in summer, while in flower."
+  basis: traditional
+  source_quote: "The plant is harvested in the summer and can be dried for later use."
+  reference_ids:
+  - REF-3281
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3281); the flowering herb is gathered in summer. Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowering tops in summer."
+  basis: traditional
+  source_quote: "The plant is harvested in the summer and can be dried for later use."
+  reference_ids:
+  - REF-3281
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3281); the leaf is gathered with the summer flowering tops. Single lineage -> provisional."
 traditional_uses:
   text: White dead-nettle flower has a long European folk history as an astringent remedy for catarrh
     and excessive menstrual or vaginal discharge, and topically as a vulnerary wash for minor wounds;
@@ -254,7 +288,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+website+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://omniasana.bio/white-dead-nettle-lamium-album/).
   New species not in the book manuscript. Identification, distribution and collection notes from the source
   are retained in the bibliography (some references are cited at plant level). | 2026-06-15: migrated to
@@ -283,4 +317,6 @@ internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://om
   drug title with each monograph''s Definition read to confirm the species - 177 monographs indexed; (3)
   this plant''s own reference bucket, mined for human studies that state an administered dose. Per the
   campaign''s integrity bar the entry is left unsourced at status draft rather than attached to a
-  tangentially-related paper.'
+  tangentially-related paper. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
+  flower + aerial-parts + leaf (all provisional: PFAF REF-3281, harvested in summer while in flower). Single
+  lineage. Binomial confirmed.'

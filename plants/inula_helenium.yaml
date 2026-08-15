@@ -67,6 +67,18 @@ harvesting:
   reference_ids:
   - REF-0445
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root and rhizome in autumn, from plants two to three years old."
+  basis: traditional
+  source_quote: "It is best harvested in the autumn from plants that are two years old"
+  reference_ids:
+  - REF-3277
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3277); the root/rhizome is dug in autumn from 2-year-old plants (another report says at least 3 years). Single lineage -> provisional."
 traditional_uses:
   text: Elecampane root has a long European tradition, reflected in the old name 'elf dock', as a warming
     expectorant remedy for productive cough, bronchitis and chronic respiratory catarrh, and topically
@@ -211,7 +223,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antimicrobial/ethnobotanical study). Further
   enriched 2026-06-13 with three PubMed studies - a total-sesquiterpene-lactone
   anti-inflammatory/anti-arthritic study (REF-0538), an antistaphylococcal essential-oil study (REF-0539)
@@ -235,4 +247,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antim
   drug title with each monograph''s Definition read to confirm the species - 177 monographs indexed; (3)
   this plant''s own reference bucket, mined for human studies that state an administered dose. Per the
   campaign''s integrity bar the entry is left unsourced at status draft rather than attached to a
-  tangentially-related paper.'
+  tangentially-related paper. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
+  root (provisional: PFAF REF-3277, dug in autumn from 2-3 year old plants). Single lineage. Binomial
+  confirmed.'

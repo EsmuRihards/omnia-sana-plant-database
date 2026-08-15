@@ -47,6 +47,29 @@ harvesting:
   reference_ids:
   - REF-2317
   status: verified
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Harvest the berries when ripe from autumn (late September on), before frost degrades them - the fruit hangs on through winter but frosted berries deteriorate quickly."
+  basis: traditional
+  source_quote: "The fruit is ripe from late September and usually hangs on the plants all winter if not eaten by the birds."
+  reference_ids:
+  - REF-3268
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3268); the berries ripen from late September and persist over winter, but are best gathered before frost ('the taste and quality of frosted berries quickly deteriorates'). Single lineage -> provisional."
+- part: seed
+  signals:
+  - "Collect the seeds when the fruit ripens in autumn."
+  basis: traditional
+  source_quote: "The seeds ripen from September to October."
+  reference_ids:
+  - REF-3268
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3268); the seeds ripen in autumn (September-October). Single lineage -> provisional. (The leaf, also a listed part, was not separately timing-sourced this pass.)"
 traditional_uses:
   text: Sea buckthorn has a long Tibetan, Mongolian and traditional Chinese medicine history as a nutritive
     and healing tonic for respiratory, digestive and skin complaints, and the berries are exceptionally
@@ -272,7 +295,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -299,4 +322,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   surface one apparently ideal source - a randomised controlled trial of seabuckthorn seed oil at 0.75 mL
   daily for 30 days in hypertensive subjects (Clin Nutr 2016, PMID 27522605). It was NOT used because PubMed
   flags it as a RETRACTED PUBLICATION. Retracted work must not be cited as a dose source. No other human
-  trial stating a sea-buckthorn oil dose was found.'
+  trial stating a sea-buckthorn oil dose was found. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for fruit + seed (provisional: PFAF REF-3268; berries ripe from late September, gathered
+  before frost; seeds ripen Sept-Oct). Leaf (also a listed part) not separately timing-sourced this pass.
+  Binomial confirmed.'

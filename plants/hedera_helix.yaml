@@ -57,6 +57,18 @@ harvesting:
   parts:
   - Leaf (standardised dry extract)
   status: draft
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves in spring to early summer, used fresh or dried."
+  basis: traditional
+  source_quote: "The leaves are harvested in spring and early summer, they are used fresh and can also be dried."
+  reference_ids:
+  - REF-3269
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3269); the leaves are gathered in spring and early summer. Single lineage -> provisional."
 traditional_uses:
   text: Ivy leaf has a long European folk history as an expectorant remedy for coughs and chest complaints,
     and modern standardised leaf extracts are among the best-studied herbal treatments for acute bronchitis
@@ -179,7 +191,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical effectiveness studies of
   standardised ivy-leaf extract in acute bronchitis / productive cough). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis); associations retained and now
@@ -193,4 +205,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical ef
   REF-2314, REF-2315) — woven into relevant actions/indications and the plant-level references bucket.
   | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy.'
+  draft per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for leaf (provisional: PFAF REF-3269, gathered spring to early summer). Single lineage.
+  Binomial confirmed.'

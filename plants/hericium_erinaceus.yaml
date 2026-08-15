@@ -54,6 +54,18 @@ harvesting:
   - Fruit
   - Mycelium
   status: draft
+harvest_readiness:
+- part: fruiting-body
+  signals:
+  - "Harvest when the fruiting body has stopped growing and the spines are long and still white - before they turn yellow or brown."
+  basis: traditional
+  source_quote: "Lion's mane mushrooms are done growing when they stop increasing in size and the spines grow longer and thicker."
+  reference_ids:
+  - REF-3270
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "GroCycle (REF-3270) for Hericium erinaceus; harvest when growth stops and the spines are long, before they yellow/brown ('harvest them before they turn yellow or brown for the best flavor and texture'). Single source -> provisional."
 traditional_uses:
   text: Lion's mane has a long East Asian culinary and medicinal tradition, valued in Chinese and Japanese
     medicine as a digestive tonic and, more recently, intensively studied for its unique ability to stimulate
@@ -240,7 +252,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -267,4 +279,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   its dosage entry already says "dried fruiting body extract". The old string also collided with the
   botanical ''Fruit'' bucket shared by hawthorn, rosehip and other berries (17 plants), which would silently
   join a mushroom to berry-extraction records in any part-keyed join. No source is cited because no new
-  factual assertion is made; this aligns the field with what the record already states elsewhere.'
+  factual assertion is made; this aligns the field with what the record already states elsewhere. |
+  2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruiting-body (provisional:
+  GroCycle REF-3270; harvest when growth stops and the spines are long and still white, before yellowing).
+  Binomial confirmed.'

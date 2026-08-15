@@ -29003,6 +29003,13 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "tuber",
+     "status": "gap",
+     "notes": "GAP (documented dead end). No reliable phenological source stating the harvest-readiness stage of the secondary storage tubers of Harpagophytum procumbens was found. Useful Tropical Plants (Ken Fern) and Wikipedia both describe the harvested organ and sustainability concerns but give no seasonal or observable harvest stage. (Devil's claw tubers are conventionally dug in the dry season after the rains, but no source states this.) Next seams: a southern-African sustainable-harvest / CITES or Namibian devil's-claw management guideline."
+    }
+   ],
    "traditional_uses": {
     "text": "Devil's claw has a long southern African traditional-medicine history as a remedy for fever, pain and digestive complaints, and is now one of the most clinically studied herbal analgesics for osteoarthritis and chronic low back pain, with standardised extracts showing efficacy comparable to some conventional analgesics in trials.",
     "reference_ids": [
@@ -29184,7 +29191,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "devil-s-claw"
   },
   {
@@ -29259,6 +29266,23 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in spring to early summer, used fresh or dried."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in spring and early summer, they are used fresh and can also be dried.",
+     "reference_ids": [
+      "REF-3269"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3269); the leaves are gathered in spring and early summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Ivy leaf has a long European folk history as an expectorant remedy for coughs and chest complaints, and modern standardised leaf extracts are among the best-studied herbal treatments for acute bronchitis and productive cough, shown in clinical trials to reduce cough severity and ease breathing.",
     "reference_ids": [
@@ -29427,7 +29451,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "ivy-leaf"
   },
   {
@@ -29493,6 +29517,23 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruiting-body",
+     "signals": [
+      "Harvest when the fruiting body has stopped growing and the spines are long and still white - before they turn yellow or brown."
+     ],
+     "basis": "traditional",
+     "source_quote": "Lion's mane mushrooms are done growing when they stop increasing in size and the spines grow longer and thicker.",
+     "reference_ids": [
+      "REF-3270"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "GroCycle (REF-3270) for Hericium erinaceus; harvest when growth stops and the spines are long, before they yellow/brown ('harvest them before they turn yellow or brown for the best flavor and texture'). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Lion's mane has a long East Asian culinary and medicinal tradition, valued in Chinese and Japanese medicine as a digestive tonic and, more recently, intensively studied for its unique ability to stimulate nerve growth factor, giving it a modern reputation as a neurotrophic and cognitive-support mushroom.",
     "reference_ids": [
@@ -29752,7 +29793,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "lions-mane"
   },
   {
@@ -29827,6 +29868,23 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Harvest the calyces once they have enlarged, turned fleshy and deep crimson red (as the seed capsule matures inside), before they dry and become woody."
+     ],
+     "basis": "traditional",
+     "source_quote": "becoming fleshy and a deep crimson red as the fruit matures",
+     "reference_ids": [
+      "REF-3271"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Wikipedia Roselle (REF-3271) for Hibiscus sabdariffa; the harvested organ is the persistent calyx, ready when it has enlarged and become fleshy and deep crimson as the fruit (seed capsule) matures inside - picked before it dries and turns woody. Mapped to the canonical 'flower' organ (the fleshy calyx is the floral structure gathered). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Hibiscus calyx (known as roselle, sorrel or karkade in different regions) has a long traditional use across Africa, the Middle East and the Caribbean as a tart, cooling beverage and folk remedy for fevers and mild hypertension; this traditional blood-pressure-lowering reputation is now well supported by clinical trials of hibiscus tea/extract.",
     "reference_ids": [
@@ -30048,7 +30106,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "hibiscus"
   },
   {
@@ -30105,6 +30163,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Harvest the berries when ripe from autumn (late September on), before frost degrades them - the fruit hangs on through winter but frosted berries deteriorate quickly."
+     ],
+     "basis": "traditional",
+     "source_quote": "The fruit is ripe from late September and usually hangs on the plants all winter if not eaten by the birds.",
+     "reference_ids": [
+      "REF-3268"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3268); the berries ripen from late September and persist over winter, but are best gathered before frost ('the taste and quality of frosted berries quickly deteriorates'). Single lineage -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds when the fruit ripens in autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The seeds ripen from September to October.",
+     "reference_ids": [
+      "REF-3268"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3268); the seeds ripen in autumn (September-October). Single lineage -> provisional. (The leaf, also a listed part, was not separately timing-sourced this pass.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Sea buckthorn has a long Tibetan, Mongolian and traditional Chinese medicine history as a nutritive and healing tonic for respiratory, digestive and skin complaints, and the berries are exceptionally rich in vitamin C and carotenoids; the oil, from both fruit and seed, has a particular traditional and modern reputation for soothing and healing irritated or damaged skin and mucous membranes.",
     "reference_ids": [
@@ -30417,7 +30507,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "sea-buckthorn"
   },
   {

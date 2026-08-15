@@ -43,6 +43,18 @@ harvesting:
   reference_ids:
   - REF-0947
   status: verified
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Pick the berries when ripe and red, from autumn; they persist on the plant through winter without rotting, so can also be gathered over winter."
+  basis: traditional
+  source_quote: "The fruit often persists on the plant all winter without rotting."
+  reference_ids:
+  - REF-3303
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3303) for Vaccinium oxycoccos (syn. Oxycoccus palustris); the ripe berries persist on the plant all winter without rotting, so are gathered from autumn through winter (flowering June-August). Single lineage -> provisional."
 traditional_uses:
   text: Cranberry has a long northern-European and Native American tradition as a food and folk remedy
     for urinary complaints, valued for its tart, astringent, vitamin-C-rich fruit. Modern research on
@@ -213,7 +225,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -242,4 +254,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   bar the entry is left unsourced at status draft rather than attached to a tangentially-related paper. See
   also the batch-7 note above: WHO''s Fructus Macrocarponii is Vaccinium macrocarpon (American cranberry), a
   different species from this European cranberry, and cranberry dosing data should not be presented as this
-  plant''s.'
+  plant''s. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit (provisional:
+  PFAF REF-3303 for Vaccinium oxycoccos = Oxycoccus palustris; ripe berries from autumn, persisting on the
+  plant through winter). Single lineage. Binomial confirmed.'

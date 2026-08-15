@@ -43,6 +43,29 @@ harvesting:
   reference_ids:
   - REF-1231
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Cut the flowering tops as flowering begins, in summer."
+  basis: traditional
+  source_quote: "The plant is harvested as flowering begins and can be used fresh or dried."
+  reference_ids:
+  - REF-3304
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3304); the plant is cut as flowering begins (in flower June-September). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves just before the plant begins to flower (late spring to summer), or through the first year."
+  basis: traditional
+  source_quote: "Harvest leaves from the first year all year, but they are best in late spring to summer, just before the plant begins to flower."
+  reference_ids:
+  - REF-3304
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3304); the leaves are best gathered just before flowering (late spring to summer). Single lineage -> provisional."
 traditional_uses:
   text: Marjoram has a long Mediterranean culinary-medicinal tradition as a digestive carminative and
     mild sedative for indigestion, cramping and poor sleep, and as an antiseptic for minor wounds and
@@ -285,7 +308,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -295,4 +318,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1228, REF-1229, REF-1230, REF-1231, REF-1232) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing traditional-use/phytochemistry review (REF-1228) and
-  ethnopharmacology review (REF-1230) plus the essential-oil composition study (REF-1231).'
+  ethnopharmacology review (REF-1230) plus the essential-oil composition study (REF-1231). | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for flower + leaf (provisional: PFAF REF-3304, cut as flowering begins / leaf just
+  before flowering). Single lineage. Binomial confirmed.'

@@ -42929,6 +42929,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the flowering tops as flowering begins, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested as flowering begins and can be used fresh or dried.",
+     "reference_ids": [
+      "REF-3304"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3304); the plant is cut as flowering begins (in flower June-September). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves just before the plant begins to flower (late spring to summer), or through the first year."
+     ],
+     "basis": "traditional",
+     "source_quote": "Harvest leaves from the first year all year, but they are best in late spring to summer, just before the plant begins to flower.",
+     "reference_ids": [
+      "REF-3304"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3304); the leaves are best gathered just before flowering (late spring to summer). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Marjoram has a long Mediterranean culinary-medicinal tradition as a digestive carminative and mild sedative for indigestion, cramping and poor sleep, and as an antiseptic for minor wounds and infections. Modern research confirms antispasmodic, antimicrobial, antioxidant and anti-inflammatory activity from its essential oil and phenolic constituents.",
     "reference_ids": [
@@ -43260,7 +43292,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "marjoram"
   },
   {
@@ -43345,6 +43377,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the whole herb (not the roots) in late summer, or just before the plant begins to flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "harvest the whole plant (but not the roots) in late summer to dry and store for winter use",
+     "reference_ids": [
+      "REF-3301"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3301); the whole flowering herb (not roots) is cut in late summer, or just before flowering (in flower July-September). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Oregano has a long Mediterranean culinary-medicinal tradition as an aromatic digestive bitter and antiseptic remedy for coughs, colds and infections. Modern research on its carvacrol- and thymol-rich essential oil strongly supports broad antibacterial, antifungal and antioxidant activity, consistent with these traditional uses.",
     "reference_ids": [
@@ -43592,7 +43641,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "oregano"
   },
   {
@@ -43654,6 +43703,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the fresh aerial parts through the growing season, while in leaf and flower (summer to autumn)."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from July to October.",
+     "reference_ids": [
+      "REF-3305"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3305) gives the flowering period (July-October) as the seasonal marker; the fresh aerial parts are gathered through the growing season while in leaf and flower. PFAF gives no explicit harvest sentence. Single lineage -> provisional."
+    },
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the small yellow flowers while in flower (summer to autumn)."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from July to October.",
+     "reference_ids": [
+      "REF-3305"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3305); the flowers are gathered while in flower (July-October). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the fresh trifoliate leaves through the growing season."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from July to October.",
+     "reference_ids": [
+      "REF-3305"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3305); the fresh leaves are gathered through the growing season (flowering July-October as the seasonal marker). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Yellow woodsorrel (Oxalis stricta and its near-identical relative O. corniculata) has a long folk-medicine history, deepest in South and East Asian traditions. The cooling, sour whole plant has been used as a refrigerant and thirst-quencher, as a sour leafy vegetable/condiment, and as a source of vitamin C against scurvy. Traditional medicinal uses (chiefly documented for O. corniculata) include dysentery and diarrhoea and other digestive complaints, fever, liver complaints, and topical application of the crushed leaves or juice to wounds, insect bites, warts, corns, mouth sores and inflamed skin, as well as use as a mild diuretic. O. stricta shares these uses where the two woodsorrels are not distinguished.",
     "reference_ids": [
@@ -44005,7 +44101,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20"
+   "last_updated": "2026-08-15"
   },
   {
    "id": "oxycoccus-palustris",
@@ -44057,6 +44153,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Pick the berries when ripe and red, from autumn; they persist on the plant through winter without rotting, so can also be gathered over winter."
+     ],
+     "basis": "traditional",
+     "source_quote": "The fruit often persists on the plant all winter without rotting.",
+     "reference_ids": [
+      "REF-3303"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3303) for Vaccinium oxycoccos (syn. Oxycoccus palustris); the ripe berries persist on the plant all winter without rotting, so are gathered from autumn through winter (flowering June-August). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Cranberry has a long northern-European and Native American tradition as a food and folk remedy for urinary complaints, valued for its tart, astringent, vitamin-C-rich fruit. Modern research on its proanthocyanidins supports a role in reducing bacterial adhesion in the urinary tract, consistent with the traditional use for cystitis and recurrent urinary tract infections.",
     "reference_ids": [
@@ -44287,7 +44400,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "cranberry"
   },
   {
@@ -44340,6 +44453,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in autumn, from mature plants six to seven years old."
+     ],
+     "basis": "traditional",
+     "source_quote": "The roots are harvested in the autumn, preferably from plants 6 - 7 years old, and can be used fresh or dried",
+     "reference_ids": [
+      "REF-3302"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3302); the root is dug in autumn from mature 6-7 year old plants. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Ginseng is one of the most celebrated tonic herbs of East Asian traditional medicine, used for millennia as a general adaptogen to restore vitality, support recovery from illness and improve stamina and cognitive performance. Modern clinical research supports adaptogenic, immunomodulatory, antioxidant, neuroprotective and mild antidiabetic effects consistent with this traditional use.",
     "reference_ids": [
@@ -44733,7 +44863,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "panax-ginseng"
   },
   {

@@ -57,6 +57,40 @@ harvesting:
   reference_ids:
   - REF-2780
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the fresh aerial parts through the growing season, while in leaf and flower (summer to autumn)."
+  basis: traditional
+  source_quote: "It is in flower from July to October."
+  reference_ids:
+  - REF-3305
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3305) gives the flowering period (July-October) as the seasonal marker; the fresh aerial parts are gathered through the growing season while in leaf and flower. PFAF gives no explicit harvest sentence. Single lineage -> provisional."
+- part: flower
+  signals:
+  - "Gather the small yellow flowers while in flower (summer to autumn)."
+  basis: traditional
+  source_quote: "It is in flower from July to October."
+  reference_ids:
+  - REF-3305
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3305); the flowers are gathered while in flower (July-October). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the fresh trifoliate leaves through the growing season."
+  basis: traditional
+  source_quote: "It is in flower from July to October."
+  reference_ids:
+  - REF-3305
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3305); the fresh leaves are gathered through the growing season (flowering July-October as the seasonal marker). Single lineage -> provisional."
 traditional_uses:
   text: Yellow woodsorrel (Oxalis stricta and its near-identical relative O. corniculata) has a long folk-medicine
     history, deepest in South and East Asian traditions. The cooling, sour whole plant has been used as
@@ -304,7 +338,7 @@ lookalikes_review:
   - REF-2778
 provenance: pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Created 2026-07-10. SPARSE species: genuine Oxalis stricta-specific medicinal literature
   is only 2 papers (REF-2778 oxalate/ascorbate metabolism; REF-2779 O. stricta-extract ZnO nanoparticle
   anticancer). The rest of PubMed for O. stricta is genomics/invasion-ecology/floristics/entomology (rejected).
@@ -334,4 +368,6 @@ internal_notes: 'Created 2026-07-10. SPARSE species: genuine Oxalis stricta-spec
   error - but ''verified'' asserts a source was checked against, and none exists. Demoted to ''needs-review'',
   which is what the data actually merits. Sourcing an absence is possible (cf. the euphrasia precedent,
   where an EMA public statement was cited as the authority for there being no established posology) and
-  is the proper fix if a seam opens.'
+  is the proper fix if a seam opens. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
+  for aerial-parts + flower + leaf (all provisional: PFAF REF-3305, flowering period July-October as the
+  seasonal marker; fresh herb gathered through the growing season). Single lineage. Binomial confirmed.'

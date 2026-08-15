@@ -64,6 +64,18 @@ harvesting:
   - REF-1450
   - REF-1455
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Cut the whole herb (not the roots) in late summer, or just before the plant begins to flower."
+  basis: traditional
+  source_quote: "harvest the whole plant (but not the roots) in late summer to dry and store for winter use"
+  reference_ids:
+  - REF-3301
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3301); the whole flowering herb (not roots) is cut in late summer, or just before flowering (in flower July-September). Single lineage -> provisional."
 traditional_uses:
   text: Oregano has a long Mediterranean culinary-medicinal tradition as an aromatic digestive bitter
     and antiseptic remedy for coughs, colds and infections. Modern research on its carvacrol- and thymol-rich
@@ -240,7 +252,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal of Pharmaceutical Research
   phytochemistry/antimicrobial review; Phytotherapy Research carvacrol review). Note: this is Origanum
   vulgare (wild marjoram), distinct from the book''s Origanum majorana (sweet marjoram). Originally a
@@ -253,4 +265,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal
   REF-1449, REF-1450, REF-1451, REF-1452, REF-1453, REF-1454, REF-1455, REF-1456) — woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing phytochemistry review (REF-0485) and carvacrol review
-  (REF-0486).'
+  (REF-0486). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts
+  (provisional: PFAF REF-3301, whole herb cut in late summer / just before flowering). Single lineage.
+  Binomial confirmed.'

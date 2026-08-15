@@ -27014,6 +27014,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the aromatic rootstock in spring (when it is most fragrant) or in autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root is best harvested in the spring, since at this time it is most fragrant.",
+     "reference_ids": [
+      "REF-3267"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3267); the clove-scented rootstock (root/rhizome) is best dug in spring when most fragrant, or in autumn ('best harvested in the spring or autumn'). Single lineage -> provisional."
+    },
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from May to September, and the seeds ripen from June to October.",
+     "reference_ids": [
+      "REF-3267"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3267); the aerial parts are gathered while in flower (in flower May-September). Single lineage -> provisional."
+    },
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the nodding flowers as they open, from late spring through summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from May to September, and the seeds ripen from June to October.",
+     "reference_ids": [
+      "REF-3267"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3267); the flowers open from late spring through summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Water avens shares the astringent, tannin-based traditional medicine of the avens (Geum) genus. The clove-scented root has been used as an astringent for diarrhoea, dysentery and other bowel complaints, as a gargle and mouth wash for sore throat, mouth ulcers and spongy gums, and as a wash for wounds and skin inflammation. It was also valued as an aromatic bitter tonic and, historically, a febrifuge, and the fragrant root was used to flavour ale and as a coffee/chocolate substitute (hence 'chocolate root').",
     "reference_ids": [
@@ -27426,7 +27473,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20"
+   "last_updated": "2026-08-15"
   },
   {
    "id": "ginkgo-biloba",
@@ -27474,6 +27521,38 @@
     "season": "Leaf in late summer/autumn; seed in autumn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in late summer to early autumn, just before they begin to turn yellow."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are best harvested in the late summer or early autumn just before they begin to change colour.",
+     "reference_ids": [
+      "REF-3264"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3264); the leaves are gathered in late summer/early autumn, just before they yellow. Single lineage -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds (ginkgo nuts) when they ripen in autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from April to May, and the seeds ripen from October to November.",
+     "reference_ids": [
+      "REF-3264"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3264); the seeds ripen in autumn (October-November). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Ginkgo leaf and seed have a long East Asian tradition: the seed used in traditional Chinese medicine (in small, cooked amounts) for respiratory complaints, and the leaf, though a more recent addition to Western herbalism, now one of the most extensively studied botanicals for cognitive and peripheral circulatory support, reflecting decades of standardised-extract clinical research.",
     "reference_ids": [
@@ -27790,7 +27869,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "ginko"
   },
   {
@@ -27842,6 +27921,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root and stolons in autumn, from plants 3 to 4 years old."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root is harvested in the autumn when 3 - 4 years old and is dried for later use.",
+     "reference_ids": [
+      "REF-3265"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3265); the root is dug in autumn from 3-4 year old plants. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Licorice root is one of the oldest and most widely used herbs in the world, with a documented history across Chinese, Ayurvedic, Greek and European traditional medicine as a soothing demulcent and expectorant for coughs and sore throat, a gastroprotective remedy for stomach discomfort and ulcers, and a harmonising, sweetening addition to herbal formulas.",
     "reference_ids": [
@@ -28200,7 +28296,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "constituents": [
     {
      "name": "Triterpenoid saponins (glycyrrhizin/glycyrrhizic acid)",
@@ -28299,6 +28395,13 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "status": "gap",
+     "notes": "GAP (documented dead end). No reliable phenological source stating the leaf harvest-readiness stage for Gymnema sylvestre was found. Useful Tropical Plants (Ken Fern) gives no leaf-harvest timing; as an evergreen tropical climber it has no seasonal window and mature leaves are picked through the growing season, but no source states an observable readiness stage. Next seams: the Ayurvedic Pharmacopoeia of India (API) or a gurmar cultivation/agronomy source. (The DB harvesting.text 'picked through the growing season' is an unsourced generalisation, not inherited here.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Gymnema leaf (gurmar) has a long Ayurvedic tradition as a remedy for 'madhumeha' (sweet urine, diabetes), chewed or taken as a decoction to reduce sugar cravings and support healthy blood sugar; this traditional antidiabetic reputation is now supported by clinical trials of standardised leaf extracts in type 2 diabetes.",
     "reference_ids": [
@@ -28479,7 +28582,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18",
+   "last_updated": "2026-08-15",
    "common_slug": "gymnema"
   },
   {
@@ -28559,6 +28662,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "bark",
+     "signals": [
+      "Harvest the branches and twigs for their bark in spring, as the sap rises and the bark slips."
+     ],
+     "basis": "traditional",
+     "source_quote": "Branches and twigs are harvested for the bark in the spring",
+     "reference_ids": [
+      "REF-3266"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3266); the bark is taken from branches and twigs in spring (as the sap rises and the bark slips). The distilled witch-hazel water is produced from these dormant/spring twigs. Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in the summer and can be dried for later use",
+     "reference_ids": [
+      "REF-3266"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3266); the leaves are gathered in summer (the shrub itself flowers in autumn - a separate event, not the harvest signal). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Witch hazel has a long Native American and, after adoption by European settlers, worldwide reputation as a topical astringent and anti-inflammatory remedy for skin irritation, minor wounds, bruises, insect bites and haemorrhoids, and as a soothing wash for irritated skin and mucous membranes.",
     "reference_ids": [
@@ -28792,7 +28927,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "witch-hazel"
   },
   {

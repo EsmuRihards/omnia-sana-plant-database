@@ -59,6 +59,40 @@ harvesting:
   - REF-2765
   - REF-2769
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the aromatic rootstock in spring (when it is most fragrant) or in autumn."
+  basis: traditional
+  source_quote: "The root is best harvested in the spring, since at this time it is most fragrant."
+  reference_ids:
+  - REF-3267
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3267); the clove-scented rootstock (root/rhizome) is best dug in spring when most fragrant, or in autumn ('best harvested in the spring or autumn'). Single lineage -> provisional."
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts in summer, while in flower."
+  basis: traditional
+  source_quote: "It is in flower from May to September, and the seeds ripen from June to October."
+  reference_ids:
+  - REF-3267
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3267); the aerial parts are gathered while in flower (in flower May-September). Single lineage -> provisional."
+- part: flower
+  signals:
+  - "Gather the nodding flowers as they open, from late spring through summer."
+  basis: traditional
+  source_quote: "It is in flower from May to September, and the seeds ripen from June to October."
+  reference_ids:
+  - REF-3267
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3267); the flowers open from late spring through summer. Single lineage -> provisional."
 traditional_uses:
   text: Water avens shares the astringent, tannin-based traditional medicine of the avens (Geum) genus.
     The clove-scented root has been used as an astringent for diarrhoea, dysentery and other bowel complaints,
@@ -356,7 +390,7 @@ lookalikes_review:
   - REF-2769
 provenance: pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum rivale (its species-specific
   literature is thin - phytochem-heavy) + 8 clearly-labelled Geum urbanum (wood avens) congener refs supplying
   the antimicrobial/anticancer/antiviral/antidiabetic pharmacology. >=15 total met via genuine + labelled
@@ -381,4 +415,7 @@ internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum 
   be the more harmful error - but ''verified'' asserts a source was checked against, and none exists.
   Demoted to ''needs-review'', which is what the data actually merits. Sourcing an absence is possible
   (cf. the euphrasia precedent, where an EMA public statement was cited as the authority for there being
-  no established posology) and is the proper fix if a seam opens.'
+  no established posology) and is the proper fix if a seam opens. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for root + aerial-parts + flower (all provisional: PFAF REF-3267;
+  aromatic rootstock dug in spring when most fragrant or autumn, herb/flower gathered in flower May-Sept).
+  Single lineage. Binomial confirmed.'

@@ -53,6 +53,10 @@ harvesting:
   parts:
   - Leaf
   status: draft
+harvest_readiness:
+- part: leaf
+  status: gap
+  notes: "GAP (documented dead end). No reliable phenological source stating the leaf harvest-readiness stage for Gymnema sylvestre was found. Useful Tropical Plants (Ken Fern) gives no leaf-harvest timing; as an evergreen tropical climber it has no seasonal window and mature leaves are picked through the growing season, but no source states an observable readiness stage. Next seams: the Ayurvedic Pharmacopoeia of India (API) or a gurmar cultivation/agronomy source. (The DB harvesting.text 'picked through the growing season' is an unsourced generalisation, not inherited here.)"
 traditional_uses:
   text: Gymnema leaf (gurmar) has a long Ayurvedic tradition as a remedy for 'madhumeha' (sweet urine,
     diabetes), chewed or taken as a decoction to reduce sugar cravings and support healthy blood sugar;
@@ -201,7 +205,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: pubmed
 status: verified
-last_updated: '2026-07-18'
+last_updated: '2026-08-15'
 internal_notes: '2026-07-03: new record created for the safety-data campaign (gymnema was previously absent,
   blocking antidiabetic herb-drug/herb-herb records). Built from PubMed-verified sources: Baskaran 1990
   GS4 clinical trial (REF-2465), Kumar 2010 open-label trial (REF-2466), Alam 2018 enzyme-inhibitor review
@@ -214,4 +218,7 @@ internal_notes: '2026-07-03: new record created for the safety-data campaign (gy
   action and high-cholesterol indication) and REF-3060 (Leach 2007 systematic review - wired to the antidiabetic
   action and blood-sugar indication). Both PubMed-verified as Gymnema sylvestre specifically, not a congener.
   A third candidate (Devangan 2021 meta-analysis) was already cited as REF-2540. Unique reference count
-  now 11; campaign target met.'
+  now 11; campaign target met. | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for leaf
+  recorded as GAP: no species-specific phenological source for Gymnema sylvestre leaf-harvest timing
+  (Useful Tropical Plants has none; evergreen tropical climber, no seasonal window). DB harvesting.text
+  generalisation not inherited. Binomial confirmed.'

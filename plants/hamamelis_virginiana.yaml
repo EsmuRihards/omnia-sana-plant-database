@@ -61,6 +61,29 @@ harvesting:
   reference_ids:
   - REF-0531
   status: verified
+harvest_readiness:
+- part: bark
+  signals:
+  - "Harvest the branches and twigs for their bark in spring, as the sap rises and the bark slips."
+  basis: traditional
+  source_quote: "Branches and twigs are harvested for the bark in the spring"
+  reference_ids:
+  - REF-3266
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3266); the bark is taken from branches and twigs in spring (as the sap rises and the bark slips). The distilled witch-hazel water is produced from these dormant/spring twigs. Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves in summer."
+  basis: traditional
+  source_quote: "The leaves are harvested in the summer and can be dried for later use"
+  reference_ids:
+  - REF-3266
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3266); the leaves are gathered in summer (the shrub itself flowers in autumn - a separate event, not the harvest signal). Single lineage -> provisional."
 traditional_uses:
   text: Witch hazel has a long Native American and, after adoption by European settlers, worldwide reputation
     as a topical astringent and anti-inflammatory remedy for skin irritation, minor wounds, bruises, insect
@@ -227,7 +250,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Hamamelidis cortex;
   Molecules skin-care review; Herbal Reality monograph). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (skin-irritation, inflammation, hemorrhoids, wounds);
@@ -247,4 +270,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   needed, several times daily'' was replaced with the monograph''s actual strengths - tincture 5-10% in
   semi-solid preparations and dry extract (5-7.7:1, ethanol 30% m/m) at 1.3% as an ointment, several times
   daily, plus the anorectal decoction 5-10 g/250 mL up to 3x daily. No new reference needed. status ->
-  verified.'
+  verified. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for bark (provisional:
+  PFAF REF-3266, branches/twigs taken in spring as sap rises) and leaf (provisional: PFAF REF-3266, gathered
+  in summer). Two distinct phenophases; the shrub''s autumn flowering is NOT the harvest signal. Single
+  lineage. Binomial confirmed.'

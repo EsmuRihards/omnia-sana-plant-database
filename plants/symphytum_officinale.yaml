@@ -46,6 +46,29 @@ harvesting:
   reference_ids:
   - REF-0074
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves in early summer, before the plant flowers, while young and tender."
+  basis: traditional
+  source_quote: "The leaves are harvested in early summer before the plant flowers"
+  reference_ids:
+  - REF-3341
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3341); the leaves are gathered in early summer before flowering, young and tender. Single lineage -> provisional. SAFETY: the comfrey leaf rosette resembles the FATAL foxglove (Digitalis purpurea) rosette - comfrey leaves are untoothed, foxglove toothed; confirm identity, see Dangerous Lookalikes."
+- part: root
+  signals:
+  - "Dig the root in autumn."
+  basis: traditional
+  source_quote: "The roots are harvested in the autumn."
+  reference_ids:
+  - REF-3341
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3341); the root is dug in autumn. Single lineage -> provisional. SAFETY: as above - the vegetative rosette is confusable with the fatal Digitalis purpurea."
 traditional_uses:
   text: Comfrey has one of the strongest traditional reputations of any European herb for wound healing
     and bone/tissue repair - the folk names 'knitbone' and 'boneset' reflect this - owing to its high
@@ -292,7 +315,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -302,4 +325,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1069, REF-1070, REF-1071, REF-1072, REF-1073) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing EMA HMPC root monograph (REF-0074) and the PA-detoxification/hepatoprotective
-  study (REF-1064) plus the skin-microbiota metabolism study (REF-1065).'
+  study (REF-1064) plus the skin-microbiota metabolism study (REF-1065). | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for leaf (early summer, before flowering) + root (autumn), both
+  provisional: PFAF REF-3341. SAFETY: fatal Digitalis purpurea rosette confusion (comfrey untoothed vs
+  foxglove toothed). Binomial confirmed.'

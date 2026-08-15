@@ -46,6 +46,40 @@ harvesting:
   reference_ids:
   - REF-0900
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the fresh trailing herb through the growing season, best from May to July (it is in leaf and flower nearly all year)."
+  basis: traditional
+  source_quote: "Chickweed is best harvested between May and July, it can be used fresh or be dried and stored for later use"
+  reference_ids:
+  - REF-3344
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3344); the fresh herb is gathered through the growing season, best May-July. Single lineage -> provisional. SAFETY: chickweed can be confused with the irritant petty spurge (Euphorbia peplus), which exudes a milky latex chickweed lacks - confirm identity; see Dangerous Lookalikes."
+- part: stem
+  signals:
+  - "Gather the fresh stems with the herb through the growing season, best from May to July."
+  basis: traditional
+  source_quote: "Chickweed is best harvested between May and July, it can be used fresh or be dried and stored for later use"
+  reference_ids:
+  - REF-3344
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3344); the stems are gathered with the fresh herb, best May-July. Single lineage -> provisional. SAFETY: see the Euphorbia peplus caution above."
+- part: flower
+  signals:
+  - "Gather the tiny white flowers with the fresh herb through the growing season."
+  basis: traditional
+  source_quote: "Chickweed is best harvested between May and July, it can be used fresh or be dried and stored for later use"
+  reference_ids:
+  - REF-3344
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3344); the flowers are gathered with the fresh herb (in flower nearly all year), best May-July. Single lineage -> provisional."
 traditional_uses:
   text: Chickweed has a long European and North American folk-medicine tradition as a cooling, soothing
     emollient for itchy, inflamed skin conditions such as eczema, and as a nutritious wild spring green.
@@ -261,7 +295,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -271,4 +305,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0905, REF-0906, REF-0907, REF-0908, REF-0909) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing phytochemistry/pharmacology review (REF-0900) and the
-  Encyclopedia of Medicinal Plants (REF-0048).'
+  Encyclopedia of Medicinal Plants (REF-0048). | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for leaf + stem + flower (all provisional: PFAF REF-3344, fresh herb best May-July).
+  SAFETY: irritant Euphorbia peplus lookalike (milky latex tell). Binomial confirmed.'

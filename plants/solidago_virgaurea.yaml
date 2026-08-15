@@ -47,6 +47,40 @@ harvesting:
   reference_ids:
   - REF-0069
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Cut the golden flowering tops in summer, as the plant comes into flower."
+  basis: traditional
+  source_quote: "The plant is gathered in the summer and dried for later use"
+  reference_ids:
+  - REF-3342
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3342); the flowering tops are gathered in summer as it comes into flower (in flower July-October). Single lineage -> provisional. SAFETY: goldenrod can be confused with the PA-toxic ragwort (Jacobaea vulgaris) - confirm identity; see Dangerous Lookalikes."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowering tops in summer."
+  basis: traditional
+  source_quote: "The plant is gathered in the summer and dried for later use"
+  reference_ids:
+  - REF-3342
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3342); the leaf is gathered with the flowering tops in summer. Single lineage -> provisional."
+- part: stem
+  signals:
+  - "Gather the stems with the flowering tops in summer."
+  basis: traditional
+  source_quote: "The plant is gathered in the summer and dried for later use"
+  reference_ids:
+  - REF-3342
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3342); the stem is gathered with the flowering tops in summer. Single lineage -> provisional."
 traditional_uses:
   text: Goldenrod has a long European folk-medicine tradition as a mild 'aquaretic' diuretic and anti-inflammatory
     remedy for the urinary tract, used traditionally for urinary-tract irrigation therapy alongside adequate
@@ -251,7 +285,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -270,4 +304,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   had let the plant-page os_pp_studies() renderer cross-link this species'' studies onto the canadensis page
   (and vice versa) via a common-name fallback; that renderer was fixed to require scientific-name match. This
   record''s citations were audited and are all S. virgaurea-specific or generic (Duke handbook, Kew/POWO,
-  shared ragwort/foraging refs) — no wrong-species citations.'
+  shared ragwort/foraging refs) — no wrong-species citations. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
+  flower + leaf + stem (all provisional: PFAF REF-3342, flowering tops gathered in summer). SAFETY: PA-toxic
+  ragwort (Jacobaea vulgaris) lookalike. Binomial confirmed.'

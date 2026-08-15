@@ -58612,6 +58612,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the golden flowering tops in summer, as the plant comes into flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is gathered in the summer and dried for later use",
+     "reference_ids": [
+      "REF-3342"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3342); the flowering tops are gathered in summer as it comes into flower (in flower July-October). Single lineage -> provisional. SAFETY: goldenrod can be confused with the PA-toxic ragwort (Jacobaea vulgaris) - confirm identity; see Dangerous Lookalikes."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering tops in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is gathered in the summer and dried for later use",
+     "reference_ids": [
+      "REF-3342"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3342); the leaf is gathered with the flowering tops in summer. Single lineage -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the stems with the flowering tops in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is gathered in the summer and dried for later use",
+     "reference_ids": [
+      "REF-3342"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3342); the stem is gathered with the flowering tops in summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Goldenrod has a long European folk-medicine tradition as a mild 'aquaretic' diuretic and anti-inflammatory remedy for the urinary tract, used traditionally for urinary-tract irrigation therapy alongside adequate fluid intake, and topically as a wound herb (one common name is 'woundwort'). Modern phytochemical work confirms saponin- and flavonoid-driven anti-inflammatory, antioxidant and diuretic activity.",
     "reference_ids": [
@@ -58873,7 +58920,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13"
+   "last_updated": "2026-08-15"
   },
   {
    "id": "stachys-officinalis",
@@ -58972,6 +59019,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Collect the whole flowering herb when in flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole plant is collected when in flower in the summer and can be dried for later use.",
+     "reference_ids": [
+      "REF-3343"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3343); the whole flowering herb is collected when in flower in summer (in flower June-September). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Wood betony has an ancient European reputation - praised in Anglo-Saxon and medieval herbals as a cure-all, giving rise to the saying 'sell your coat and buy betony' - as a gentle nervine for headache, anxiety and nervous tension, and as a digestive bitter. Modern phytochemical studies confirm it is among the strongest antioxidants of the Lamiaceae family, alongside anti-inflammatory and antispasmodic constituents.",
     "reference_ids": [
@@ -59204,7 +59268,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "wood-betony"
   },
   {
@@ -59261,6 +59325,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the fresh trailing herb through the growing season, best from May to July (it is in leaf and flower nearly all year)."
+     ],
+     "basis": "traditional",
+     "source_quote": "Chickweed is best harvested between May and July, it can be used fresh or be dried and stored for later use",
+     "reference_ids": [
+      "REF-3344"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3344); the fresh herb is gathered through the growing season, best May-July. Single lineage -> provisional. SAFETY: chickweed can be confused with the irritant petty spurge (Euphorbia peplus), which exudes a milky latex chickweed lacks - confirm identity; see Dangerous Lookalikes."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the fresh stems with the herb through the growing season, best from May to July."
+     ],
+     "basis": "traditional",
+     "source_quote": "Chickweed is best harvested between May and July, it can be used fresh or be dried and stored for later use",
+     "reference_ids": [
+      "REF-3344"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3344); the stems are gathered with the fresh herb, best May-July. Single lineage -> provisional. SAFETY: see the Euphorbia peplus caution above."
+    },
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the tiny white flowers with the fresh herb through the growing season."
+     ],
+     "basis": "traditional",
+     "source_quote": "Chickweed is best harvested between May and July, it can be used fresh or be dried and stored for later use",
+     "reference_ids": [
+      "REF-3344"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3344); the flowers are gathered with the fresh herb (in flower nearly all year), best May-July. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Chickweed has a long European and North American folk-medicine tradition as a cooling, soothing emollient for itchy, inflamed skin conditions such as eczema, and as a nutritious wild spring green. Modern phytochemical review confirms broad anti-inflammatory and antioxidant activity, though clinical trial evidence remains limited.",
     "reference_ids": [
@@ -59495,7 +59606,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "chickweed"
   },
   {
@@ -59551,6 +59662,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in early summer, before the plant flowers, while young and tender."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in early summer before the plant flowers",
+     "reference_ids": [
+      "REF-3341"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3341); the leaves are gathered in early summer before flowering, young and tender. Single lineage -> provisional. SAFETY: the comfrey leaf rosette resembles the FATAL foxglove (Digitalis purpurea) rosette - comfrey leaves are untoothed, foxglove toothed; confirm identity, see Dangerous Lookalikes."
+    },
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The roots are harvested in the autumn.",
+     "reference_ids": [
+      "REF-3341"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3341); the root is dug in autumn. Single lineage -> provisional. SAFETY: as above - the vegetative rosette is confusable with the fatal Digitalis purpurea."
+    }
+   ],
    "traditional_uses": {
     "text": "Comfrey has one of the strongest traditional reputations of any European herb for wound healing and bone/tissue repair - the folk names 'knitbone' and 'boneset' reflect this - owing to its high allantoin content, which stimulates cell proliferation. Because the plant also contains hepatotoxic pyrrolizidine alkaloids, modern regulatory use is restricted to topical preparations only, for minor bruises and sprains, and internal use (teas, tinctures) is no longer recommended.",
     "reference_ids": [
@@ -59859,7 +60002,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "common-comfrey"
   },
   {
@@ -59913,6 +60056,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Pick the unopened young flower buds, before they open into flowers - the buds are dried to make cloves."
+     ],
+     "basis": "traditional",
+     "source_quote": "Young flowers, which are dried to make cloves",
+     "reference_ids": [
+      "REF-3345"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3345); the clove is the immature (unopened) flower bud, picked before it opens. Single source -> provisional. (Leaf and stem, also listed parts, yield clove oils but were not separately timing-sourced this pass.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Clove has an ancient trade history and a long traditional use across Asian, African and European medicine as a dental analgesic (chewed or applied as oil for toothache), a digestive carminative, and an antiseptic. Modern research on its principal constituent eugenol supports strong analgesic, antimicrobial, antioxidant and anti-inflammatory activity, with clove oil remaining a recognised topical dental-pain remedy.",
     "reference_ids": [
@@ -60242,7 +60402,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "clove"
   },
   {

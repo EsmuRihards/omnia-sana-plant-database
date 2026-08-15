@@ -44,6 +44,18 @@ harvesting:
   reference_ids:
   - REF-1075
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Pick the unopened young flower buds, before they open into flowers - the buds are dried to make cloves."
+  basis: traditional
+  source_quote: "Young flowers, which are dried to make cloves"
+  reference_ids:
+  - REF-3345
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3345); the clove is the immature (unopened) flower bud, picked before it opens. Single source -> provisional. (Leaf and stem, also listed parts, yield clove oils but were not separately timing-sourced this pass.)"
 traditional_uses:
   text: Clove has an ancient trade history and a long traditional use across Asian, African and European
     medicine as a dental analgesic (chewed or applied as oil for toothache), a digestive carminative,
@@ -280,7 +292,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -292,4 +304,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing traditional-uses/pharmacology/toxicology review (REF-1075)
   and essential-oil composition review (REF-1074). | 2026-07-13: added anticancer action (where absent)
   + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
-  part of the cancer-condition campaign.'
+  part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for flower (provisional: Useful Tropical Plants REF-3345; the clove is the unopened
+  young flower bud, picked before it opens). Single lineage. Binomial confirmed.'

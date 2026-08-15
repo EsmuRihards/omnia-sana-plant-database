@@ -30558,6 +30558,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Pick the female cones (strobiles) in late summer to early autumn, when ripe - still greenish, aromatic and springy."
+     ],
+     "basis": "traditional",
+     "source_quote": "The female flowering heads are harvested in the autumn and can be used fresh or dried.",
+     "reference_ids": [
+      "REF-3272"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3272); the female flowering heads (strobiles) are picked in late summer to early autumn while greenish and aromatic. Single lineage -> provisional. SAFETY: the climbing habit can be confused with the dangerous white bryony (Bryonia dioica) - confirm identity; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Hop cones have a long European tradition as a calming, sedative herb for nervous tension, restlessness and insomnia, and as a bitter digestive tonic; the sedative reputation, historically noted among hop-pickers who became drowsy from handling the cones, is now linked to GABA-A receptor-active bitter resins.",
     "reference_ids": [
@@ -30851,7 +30868,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "hop"
   },
   {
@@ -30920,6 +30937,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the rhizome and root in autumn, after the top growth has died down."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root is the active part of the plant, it is harvested in the autumn after the plant has died down and is dried for later use.",
+     "reference_ids": [
+      "REF-3273"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3273); the rhizome and root are dug in autumn after the plant dies down (one canonical rhizome entry covers the co-harvested root). Single lineage -> provisional. SAFETY: goldenseal root can be confused with mayapple (Podophyllum peltatum) - confirm identity; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Goldenseal root has a Native American and, after adoption by Eclectic physicians, wider North American tradition as a bitter tonic and antimicrobial remedy for mucous-membrane infections, sore throat, digestive upset and topical skin infections, directly reflecting its high berberine content.",
     "reference_ids": [
@@ -31206,7 +31240,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "goldenseal"
   },
   {
@@ -31262,6 +31296,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the flowering tops in mid-summer, when the flowers are in full bloom."
+     ],
+     "basis": "traditional",
+     "source_quote": "The flowering tops are harvested in mid-summer when the flowers are in full bloom.",
+     "reference_ids": [
+      "REF-3274"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3274); the flowering tops are cut at full bloom in mid-summer (in flower May-August). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering tops in mid-summer, at full bloom."
+     ],
+     "basis": "traditional",
+     "source_quote": "The flowering tops are harvested in mid-summer when the flowers are in full bloom.",
+     "reference_ids": [
+      "REF-3274"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3274); the leaf is gathered with the flowering tops at full bloom. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "St John's wort has a centuries-long European folk reputation as a wound-healing and nerve tonic herb, traditionally used for mild wounds, burns and nerve pain and to lift low mood; this traditional mood-supporting use is now one of the most extensively clinically studied applications of any herbal medicine, with standardised extracts shown comparable to conventional antidepressants for mild-to-moderate depression.",
     "reference_ids": [
@@ -31696,7 +31762,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "perforate-st-john-s-wort"
   },
   {
@@ -31751,6 +31817,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the flowering tops in summer, when the flowers are in full bloom."
+     ],
+     "basis": "traditional",
+     "source_quote": "Hyssop is typically harvested in the summer when the flowers are in full bloom.",
+     "reference_ids": [
+      "REF-3275"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3275); the flowering tops are cut at full bloom in summer (in flower July-September). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering tops in summer; leaves may be taken any time once the plant is established."
+     ],
+     "basis": "traditional",
+     "source_quote": "Leaves at any time after the plant is established.",
+     "reference_ids": [
+      "REF-3275"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3275); the leaf may be gathered any time once established, and with the flowering tops at full bloom. Single lineage -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the stems with the flowering tops in summer, at full bloom."
+     ],
+     "basis": "traditional",
+     "source_quote": "Hyssop is typically harvested in the summer when the flowers are in full bloom.",
+     "reference_ids": [
+      "REF-3275"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3275); the stem is gathered with the flowering tops at full bloom in summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Hyssop has an ancient Mediterranean and biblical reputation as a cleansing, aromatic herb, traditionally used as an expectorant and antimicrobial remedy for coughs, bronchitis and respiratory catarrh, and as a digestive bitter and mild antiviral herb, notably for cold sores (herpes simplex).",
     "reference_ids": [
@@ -31964,7 +32077,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "hyssop"
   },
   {
@@ -32015,6 +32128,23 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruiting-body",
+     "signals": [
+      "Harvest the sterile conk (sclerotium) from living birch in late autumn through winter, while the birch is dormant and sap flow has stopped; take only large masses (bigger than a grapefruit) and leave a third to a half on the tree."
+     ],
+     "basis": "traditional",
+     "source_quote": "Look for this marvelous fungus in late fall and all throughout the winter, until spring's warmth causes the birch sap to flow.",
+     "reference_ids": [
+      "REF-3276"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Grow Forage Cook Ferment (REF-3276) for Inonotus obliquus (chaga); harvested in late autumn through winter while the birch is dormant ('there is more energy stored in the chaga'), only from masses 'larger than a grapefruit', leaving a third to a half behind. Single source -> provisional. Chaga takes 3-20 years to mature, so sustainable harvest is essential."
+    }
+   ],
    "traditional_uses": {
     "text": "Chaga has a long traditional use in Russian, Siberian, Baltic and Scandinavian folk medicine as a tonic remedy for digestive complaints, immune support and general vitality, traditionally taken as a dark, tea-like decoction; this traditional tonic reputation is now studied for its antioxidant, immunomodulatory and anti-inflammatory properties.",
     "reference_ids": [
@@ -32384,7 +32514,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18",
+   "last_updated": "2026-08-15",
    "common_slug": "chaga"
   },
   {

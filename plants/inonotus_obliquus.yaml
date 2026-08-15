@@ -44,6 +44,18 @@ harvesting:
   - Mycelium
   - Whole Plant
   status: draft
+harvest_readiness:
+- part: fruiting-body
+  signals:
+  - "Harvest the sterile conk (sclerotium) from living birch in late autumn through winter, while the birch is dormant and sap flow has stopped; take only large masses (bigger than a grapefruit) and leave a third to a half on the tree."
+  basis: traditional
+  source_quote: "Look for this marvelous fungus in late fall and all throughout the winter, until spring's warmth causes the birch sap to flow."
+  reference_ids:
+  - REF-3276
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Grow Forage Cook Ferment (REF-3276) for Inonotus obliquus (chaga); harvested in late autumn through winter while the birch is dormant ('there is more energy stored in the chaga'), only from masses 'larger than a grapefruit', leaving a third to a half behind. Single source -> provisional. Chaga takes 3-20 years to mature, so sustainable harvest is essential."
 traditional_uses:
   text: Chaga has a long traditional use in Russian, Siberian, Baltic and Scandinavian folk medicine as
     a tonic remedy for digestive complaints, immune support and general vitality, traditionally taken
@@ -312,7 +324,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-18'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -340,4 +352,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   unsourced at status draft rather than attached to a tangentially-related paper. SPECIFIC FINDING: the only
   human study located (PMID 38873567) administered Inonotus obliquus inside a 2.5 g multi-mushroom blend
   alongside Cordyceps sinensis, within a mixed beet-based supplement, and reports no per-mushroom dose. A
-  blend total cannot be attributed to one ingredient. Chaga has no EMA or WHO monograph.'
+  blend total cannot be attributed to one ingredient. Chaga has no EMA or WHO monograph. | 2026-08-15:
+  Harvest Calendar (phenological) - added harvest_readiness for fruiting-body/sclerotium (provisional: Grow
+  Forage Cook Ferment REF-3276; chaga conk harvested late autumn through winter while the birch is dormant,
+  only large masses, leaving a third to a half on the tree). Binomial confirmed.'

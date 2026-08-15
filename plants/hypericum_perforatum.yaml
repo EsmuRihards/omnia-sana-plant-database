@@ -48,6 +48,29 @@ harvesting:
   reference_ids:
   - REF-1789
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Cut the flowering tops in mid-summer, when the flowers are in full bloom."
+  basis: traditional
+  source_quote: "The flowering tops are harvested in mid-summer when the flowers are in full bloom."
+  reference_ids:
+  - REF-3274
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3274); the flowering tops are cut at full bloom in mid-summer (in flower May-August). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowering tops in mid-summer, at full bloom."
+  basis: traditional
+  source_quote: "The flowering tops are harvested in mid-summer when the flowers are in full bloom."
+  reference_ids:
+  - REF-3274
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3274); the leaf is gathered with the flowering tops at full bloom. Single lineage -> provisional."
 traditional_uses:
   text: St John's wort has a centuries-long European folk reputation as a wound-healing and nerve tonic
     herb, traditionally used for mild wounds, burns and nerve pain and to lift low mood; this traditional
@@ -394,7 +417,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -406,4 +429,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1798, REF-1799) — woven into relevant actions/indications and the plant-level references bucket.
   | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage + constituents) sourced from the existing references bucket; general/undated claims
-  marked status: draft per the integrity-first sourcing policy.'
+  marked status: draft per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for flower + leaf (provisional: PFAF REF-3274, flowering tops cut
+  at full bloom in mid-summer). Single lineage. Binomial confirmed.'

@@ -56,6 +56,18 @@ harvesting:
   reference_ids:
   - REF-0455
   status: verified
+harvest_readiness:
+- part: rhizome
+  signals:
+  - "Dig the rhizome and root in autumn, after the top growth has died down."
+  basis: traditional
+  source_quote: "The root is the active part of the plant, it is harvested in the autumn after the plant has died down and is dried for later use."
+  reference_ids:
+  - REF-3273
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3273); the rhizome and root are dug in autumn after the plant dies down (one canonical rhizome entry covers the co-harvested root). Single lineage -> provisional. SAFETY: goldenseal root can be confused with mayapple (Podophyllum peltatum) - confirm identity; see Dangerous Lookalikes."
 traditional_uses:
   text: Goldenseal root has a Native American and, after adoption by Eclectic physicians, wider North
     American tradition as a bitter tonic and antimicrobial remedy for mucous-membrane infections, sore
@@ -289,7 +301,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Pharmacological Research critical review;
   European Journal of Medicinal Chemistry berberine review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (infection, sore-throat, indigestion, skin-irritation); associations retained
@@ -312,4 +324,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pharmacological
   2026-07-20 to monographs already on this record. Each supporting quote was checked to appear verbatim
   in the stored monograph posology, the reference confirmed present on the plant, and the dose form /
   plant part / route checked for mismatch; text rewritten to the source rather than having a reference
-  stapled on.'
+  stapled on. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for rhizome
+  (provisional: PFAF REF-3273, dug in autumn after the top dies down). SAFETY: Podophyllum peltatum
+  (mayapple) root confusion. Binomial confirmed.'

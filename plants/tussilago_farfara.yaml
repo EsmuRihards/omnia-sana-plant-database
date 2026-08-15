@@ -48,6 +48,29 @@ harvesting:
   reference_ids:
   - REF-0911
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the yellow flowers in very early spring, when fully open - they appear before the leaves."
+  basis: traditional
+  source_quote: "the flowers are harvested when fully open"
+  reference_ids:
+  - REF-3357
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3357); the flowers are gathered when fully open in very early spring (in flower February-April, appearing before the leaves). Single lineage -> provisional. SAFETY: coltsfoot contains hepatotoxic pyrrolizidine alkaloids (use PA-free/cautiously), and the leaf can be confused with Adenostyles alliariae and Petasites - see Dangerous Lookalikes."
+- part: leaf
+  signals:
+  - "Gather the leaves in early summer (June to early July), after the flowers have gone over."
+  basis: traditional
+  source_quote: "The leaves are harvested in June and early July, the flowers are harvested when fully open and the root is harvested in the autumn."
+  reference_ids:
+  - REF-3357
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3357); the leaves are gathered in June and early July (after flowering). Single lineage -> provisional. SAFETY: as above - PA-toxic, and confusable with Adenostyles alliariae."
 traditional_uses:
   text: Coltsfoot has an ancient European and Chinese tradition, reflected in its Latin name (tussis =
     cough), as an expectorant and demulcent remedy for coughs, bronchitis and irritated airways; because
@@ -277,7 +300,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -324,4 +347,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ''2020'', ''Liu et al'', ''2020)'' - a citation string that an earlier ingest comma-split into list items.
   These surface publicly on the plant page, in the plant-name dictionary and in search. Repaired to the two
   real names, ''Kuan Dong Hua'' and ''Farfarae Flos''. Worth grepping other plants for the same
-  split-citation pattern.'
+  split-citation pattern. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower
+  (very early spring, fully open, before the leaves) + leaf (June-early July), both provisional: PFAF
+  REF-3357. SAFETY: PA-toxic + Adenostyles alliariae lookalike. Binomial confirmed.'

@@ -64394,6 +64394,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the white flowerheads while in flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in leaf all year, in flower from June to September, and the seeds ripen from July to October.",
+     "reference_ids": [
+      "REF-3359"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3359); the flowering heads are gathered while in flower (June-September). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowerheads in summer (the plant is in leaf all year)."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in leaf all year, in flower from June to September, and the seeds ripen from July to October.",
+     "reference_ids": [
+      "REF-3359"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3359); the leaf is gathered with the flowerheads in summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "White clover has a folk tradition, similar to but lighter than its relative red clover, as an anti-inflammatory and wound-healing remedy and mild expectorant, and modern research on its isoflavones and phenolics has additionally investigated antioxidant, kidney-protective and liver-protective activity.",
     "reference_ids": [
@@ -64807,7 +64839,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18",
+   "last_updated": "2026-08-15",
    "common_slug": "white-clover"
   },
   {
@@ -64865,6 +64897,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Harvest the seed when fully ripe, in late summer - the pods ripen intermittently over some weeks."
+     ],
+     "basis": "traditional",
+     "source_quote": "The seeds are harvested when fully ripe and dried for later use.",
+     "reference_ids": [
+      "REF-3356"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3356); the seed is harvested when fully ripe (seeds ripen August-September, intermittently). Single lineage -> provisional. (Leaf and young sprouts, also listed parts, are a fresh-herb/sprouting use rather than a distinct field harvest stage.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Fenugreek seed has an ancient tradition across the Mediterranean, Middle East and South Asia as a digestive and appetite-stimulant remedy and lactation aid, and modern clinical research strongly supports its traditional use for blood sugar and cholesterol management, formalised in Commission E approval as an appetite stimulant.",
     "reference_ids": [
@@ -65172,7 +65221,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "fenugreek"
   },
   {
@@ -65230,6 +65279,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the yellow flowers in very early spring, when fully open - they appear before the leaves."
+     ],
+     "basis": "traditional",
+     "source_quote": "the flowers are harvested when fully open",
+     "reference_ids": [
+      "REF-3357"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3357); the flowers are gathered when fully open in very early spring (in flower February-April, appearing before the leaves). Single lineage -> provisional. SAFETY: coltsfoot contains hepatotoxic pyrrolizidine alkaloids (use PA-free/cautiously), and the leaf can be confused with Adenostyles alliariae and Petasites - see Dangerous Lookalikes."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in early summer (June to early July), after the flowers have gone over."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in June and early July, the flowers are harvested when fully open and the root is harvested in the autumn.",
+     "reference_ids": [
+      "REF-3357"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3357); the leaves are gathered in June and early July (after flowering). Single lineage -> provisional. SAFETY: as above - PA-toxic, and confusable with Adenostyles alliariae."
+    }
+   ],
    "traditional_uses": {
     "text": "Coltsfoot has an ancient European and Chinese tradition, reflected in its Latin name (tussis = cough), as an expectorant and demulcent remedy for coughs, bronchitis and irritated airways; because of its pyrrolizidine alkaloid content, contemporary use is restricted to short courses of PA-controlled preparations under regulatory limits (see contraindications).",
     "reference_ids": [
@@ -65504,7 +65585,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "common-coltsfoot"
   },
   {
@@ -65560,6 +65641,43 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the young leaves and shoots in spring, before the plant flowers - once it flowers the leaves are gritty and best avoided."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves and young shoots are typically harvested in spring, before flowering, from early spring to late spring.",
+     "reference_ids": [
+      "REF-3355"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3355); the young leaves and shoots are gathered in spring, before flowering (in flower May-October). Single lineage -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds when they ripen, from summer into autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from June to October",
+     "reference_ids": [
+      "REF-3355"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3355); the seeds ripen from summer into autumn (June-October). Single lineage -> provisional."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Urtica dioica (nettle root is conventionally dug in autumn, but no source stating that stage was found this pass), so none is asserted."
+    }
+   ],
    "traditional_uses": {
     "text": "Nettle leaf has a long tradition as a nutritive spring tonic, diuretic and anti-inflammatory remedy for joint pain and rheumatism, while the root has a well-documented traditional and modern use for the irritative urinary symptoms of benign prostatic hyperplasia; the seed has a lighter tradition as a kidney tonic.",
     "reference_ids": [
@@ -65875,7 +65993,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "stinging-nettle"
   },
   {
@@ -65960,6 +66078,23 @@
     "season": "Autumn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Pick the berries when ripe and deep red, in autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from August to October",
+     "reference_ids": [
+      "REF-3358"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3358); the berries ripen to deep red in autumn (seeds ripen August-October; flowering June-August). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Cranberry has a long Native American and North American folk tradition as a food and remedy for urinary complaints, an association now well supported by modern research showing its A-type proanthocyanidins prevent E. coli from adhering to the urinary tract lining, making it most useful for prevention of recurrent UTIs rather than treatment of an active infection.",
     "reference_ids": [
@@ -66126,7 +66261,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "american-cranberry"
   },
   {

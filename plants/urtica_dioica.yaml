@@ -45,6 +45,32 @@ harvesting:
   reference_ids:
   - REF-0098
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the young leaves and shoots in spring, before the plant flowers - once it flowers the leaves are gritty and best avoided."
+  basis: traditional
+  source_quote: "The leaves and young shoots are typically harvested in spring, before flowering, from early spring to late spring."
+  reference_ids:
+  - REF-3355
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3355); the young leaves and shoots are gathered in spring, before flowering (in flower May-October). Single lineage -> provisional."
+- part: seed
+  signals:
+  - "Collect the seeds when they ripen, from summer into autumn."
+  basis: traditional
+  source_quote: "the seeds ripen from June to October"
+  reference_ids:
+  - REF-3355
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3355); the seeds ripen from summer into autumn (June-October). Single lineage -> provisional."
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Urtica dioica (nettle root is conventionally dug in autumn, but no source stating that stage was found this pass), so none is asserted."
 traditional_uses:
   text: Nettle leaf has a long tradition as a nutritive spring tonic, diuretic and anti-inflammatory remedy
     for joint pain and rheumatism, while the root has a well-documented traditional and modern use for
@@ -268,7 +294,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -291,4 +317,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
   ESCOP, Commission E), may still resolve these. ''Freeze-dried leaf (capsule)'': The monograph lists
   herbal tea, liquid extract (1:5) and three dry extracts. Freeze-dried leaf in capsules is none of these,
-  and the monograph says nothing about avoiding the sting or retaining nutrients.'
+  and the monograph says nothing about avoiding the sting or retaining nutrients. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for leaf (spring, before flowering) + seed (June-Oct),
+  both provisional: PFAF REF-3355; root = GAP. Single lineage. Binomial confirmed.'

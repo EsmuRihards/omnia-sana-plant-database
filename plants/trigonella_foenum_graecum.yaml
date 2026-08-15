@@ -46,6 +46,18 @@ harvesting:
   reference_ids:
   - REF-0308
   status: verified
+harvest_readiness:
+- part: seed
+  signals:
+  - "Harvest the seed when fully ripe, in late summer - the pods ripen intermittently over some weeks."
+  basis: traditional
+  source_quote: "The seeds are harvested when fully ripe and dried for later use."
+  reference_ids:
+  - REF-3356
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3356); the seed is harvested when fully ripe (seeds ripen August-September, intermittently). Single lineage -> provisional. (Leaf and young sprouts, also listed parts, are a fresh-herb/sprouting use rather than a distinct field harvest stage.)"
 traditional_uses:
   text: Fenugreek seed has an ancient tradition across the Mediterranean, Middle East and South Asia as
     a digestive and appetite-stimulant remedy and lactation aid, and modern clinical research strongly
@@ -276,7 +288,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -288,4 +300,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
   bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13:
   added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced
-  from the plant''s cited literature, as part of the cancer-condition campaign.'
+  from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for seed (provisional: PFAF REF-3356, harvested when
+  fully ripe in late summer). Single lineage. Binomial confirmed.'

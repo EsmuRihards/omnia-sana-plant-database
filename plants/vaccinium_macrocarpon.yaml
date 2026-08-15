@@ -59,6 +59,18 @@ harvesting:
   - Fruit (berry)
   season: Autumn
   status: draft
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Pick the berries when ripe and deep red, in autumn."
+  basis: traditional
+  source_quote: "the seeds ripen from August to October"
+  reference_ids:
+  - REF-3358
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3358); the berries ripen to deep red in autumn (seeds ripen August-October; flowering June-August). Single lineage -> provisional."
 traditional_uses:
   text: Cranberry has a long Native American and North American folk tradition as a food and remedy for
     urinary complaints, an association now well supported by modern research showing its A-type proanthocyanidins
@@ -186,7 +198,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (systematic review/network
   meta-analysis, mechanistic review, NCCIH). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (uti); the association is retained and now cited. | 2026-06-15: migrated to entity schema
@@ -195,4 +207,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (sys
   REF-1341, REF-1342, REF-1343, REF-1344, REF-1345, REF-1346, REF-1347) — woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy.'
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for fruit (provisional: PFAF REF-3358, berries ripe and
+  deep red in autumn). Single lineage. Binomial confirmed.'

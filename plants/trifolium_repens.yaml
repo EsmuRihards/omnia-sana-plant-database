@@ -42,6 +42,29 @@ harvesting:
   reference_ids:
   - REF-0027
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the white flowerheads while in flower, in summer."
+  basis: traditional
+  source_quote: "It is in leaf all year, in flower from June to September, and the seeds ripen from July to October."
+  reference_ids:
+  - REF-3359
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3359); the flowering heads are gathered while in flower (June-September). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowerheads in summer (the plant is in leaf all year)."
+  basis: traditional
+  source_quote: "It is in leaf all year, in flower from June to September, and the seeds ripen from July to October."
+  reference_ids:
+  - REF-3359
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3359); the leaf is gathered with the flowerheads in summer. Single lineage -> provisional."
 traditional_uses:
   text: White clover has a folk tradition, similar to but lighter than its relative red clover, as an
     anti-inflammatory and wound-healing remedy and mild expectorant, and modern research on its isoflavones
@@ -329,7 +352,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-18'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -376,4 +399,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for flower + leaf (both provisional: PFAF REF-3359, gathered
+  while in flower in summer). Single lineage. Binomial confirmed.'

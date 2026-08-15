@@ -46,6 +46,29 @@ harvesting:
   reference_ids:
   - REF-1006
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flowers and petals in summer, as they open (flowering late spring to early autumn)."
+  basis: traditional
+  source_quote: "Roses usually flower from late spring to early autumn, typically between May and September."
+  reference_ids:
+  - REF-3325
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3325); the flowers/petals are gathered in summer while in flower (May-September). Single lineage -> provisional."
+- part: fruit
+  signals:
+  - "Gather the large hips in autumn (late summer to October), when ripe."
+  basis: traditional
+  source_quote: "Rose hips are typically harvested in late summer to early autumn, usually from August to October."
+  reference_ids:
+  - REF-3325
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3325); the hips are gathered in autumn (August-October). Single lineage -> provisional."
 traditional_uses:
   text: Rosa rugosa has a long East Asian tradition - particularly in Traditional Chinese Medicine, where
     the flower is known as 'Mei Gui Hua' - as a mood-regulating, digestive and menstrual-cycle-supporting
@@ -222,7 +245,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -233,4 +256,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing flavonoid review (REF-1006) and polysaccharide review
   (REF-1005). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
+  2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower/petals (summer) + fruit
+  (hips autumn), both provisional: PFAF REF-3325. Single lineage. Binomial confirmed.'

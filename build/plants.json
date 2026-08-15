@@ -51948,6 +51948,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the young flowering shoots at flowering, in spring to early summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from April to June.",
+     "reference_ids": [
+      "REF-3326"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3326, as Ledum palustre); the medicinal part is 'the leaves and young flowering shoots', gathered at the flowering stage (in flower April-June). Single lineage -> provisional. SAFETY: marsh Labrador tea is TOXIC (ledol/grayanotoxins) and can be confused with the poisonous bog rosemary (Andromeda polifolia) in the same bog habitat - confirm identity; see Dangerous Lookalikes."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the young flowering shoots (leafy stems) at flowering, in spring to early summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from April to June.",
+     "reference_ids": [
+      "REF-3326"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3326, as Ledum palustre); the young flowering shoots (leafy stems) are the part, gathered at flowering. Single lineage -> provisional. SAFETY: as above - toxic, and confusable with Andromeda polifolia."
+    }
+   ],
    "traditional_uses": {
     "text": "Labrador tea has a long Indigenous North American and Scandinavian folk-medicine tradition as a mild diuretic and respiratory remedy, and as an aromatic tea and spice, always used in small, cautious amounts given its narcotic/toxic potential at higher doses. Modern phytochemical work confirms anti-inflammatory and antioxidant activity of its essential oil.",
     "reference_ids": [
@@ -52204,7 +52236,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "labrador-tea"
   },
   {
@@ -52252,6 +52284,53 @@
     "season": "Berries mid-late summer; leaf late spring-early summer",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Pick the berries when ripe and black, in mid-to-late summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "Currants are usually harvested in mid to late summer, from June to August.",
+     "reference_ids": [
+      "REF-3323"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3323); the berries ripen in mid-to-late summer. Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves through the growing season, used fresh or dried."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested during the growing season and can be used fresh or dried.",
+     "reference_ids": [
+      "REF-3323"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3323); the leaves are gathered through the growing season. Single lineage -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds from the ripe berries in mid-to-late summer (source of blackcurrant seed oil)."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from July to August",
+     "reference_ids": [
+      "REF-3323"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3323); the seeds ripen in the summer berries (July-August). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Blackcurrant has a long northern-European food-medicine tradition: the vitamin-C- and anthocyanin-rich berries have traditionally been used for colds, flu and general vitality, while the leaf has an official EU traditional-use registration for minor joint pain and as a urinary-tract flush, and the seed oil is valued as a source of gamma-linolenic acid (GLA). Modern research confirms broad antioxidant, anti-inflammatory, immunomodulatory and vasoprotective activity across the fruit, leaf and seed oil.",
     "reference_ids": [
@@ -52557,7 +52636,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "blackcurrant"
   },
   {
@@ -52614,6 +52693,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Gather the hips in autumn (late summer to October), when ripe red and softened by the first frosts."
+     ],
+     "basis": "traditional",
+     "source_quote": "Rose hips are typically harvested in late summer to early autumn, usually from August to October",
+     "reference_ids": [
+      "REF-3322"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3322); the hips are gathered in autumn, softened and sweetened by frost. Single lineage -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds (achenes) from the ripe hips in autumn to early winter."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from October to December",
+     "reference_ids": [
+      "REF-3322"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3322); the seeds ripen in the autumn/early-winter hips (October-December). Single lineage -> provisional. (The petals, also a listed part, were not separately timing-sourced this pass - gathered in early summer while in flower.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Rosehip has a long European folk tradition as a vitamin-C-rich tonic for colds and general immunity, and as a mild diuretic and astringent for urinary and digestive complaints. Modern clinical trials on standardised rosehip powder show a modest, reproducible benefit for osteoarthritis pain and stiffness.",
     "reference_ids": [
@@ -52848,7 +52959,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-19",
+   "last_updated": "2026-08-15",
    "common_slug": "dog-rose"
   },
   {
@@ -52904,6 +53015,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowers and petals in summer, as they open (flowering late spring to early autumn)."
+     ],
+     "basis": "traditional",
+     "source_quote": "Roses usually flower from late spring to early autumn, typically between May and September.",
+     "reference_ids": [
+      "REF-3325"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3325); the flowers/petals are gathered in summer while in flower (May-September). Single lineage -> provisional."
+    },
+    {
+     "part": "fruit",
+     "signals": [
+      "Gather the large hips in autumn (late summer to October), when ripe."
+     ],
+     "basis": "traditional",
+     "source_quote": "Rose hips are typically harvested in late summer to early autumn, usually from August to October.",
+     "reference_ids": [
+      "REF-3325"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3325); the hips are gathered in autumn (August-October). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Rosa rugosa has a long East Asian tradition - particularly in Traditional Chinese Medicine, where the flower is known as 'Mei Gui Hua' - as a mood-regulating, digestive and menstrual-cycle-supporting remedy, and the vitamin-C-rich hips are used as a food tonic. Modern research on its flavonoid- and polysaccharide-rich extracts supports broad antioxidant, anti-inflammatory, hepatoprotective and immunomodulatory activity.",
     "reference_ids": [
@@ -53156,7 +53299,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "japanese-rose"
   },
   {
@@ -53240,6 +53383,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the young leaves in spring, as they emerge - the young leaves are best for tea."
+     ],
+     "basis": "traditional",
+     "source_quote": "A tea is made from the dried leaves - the young leaves are best",
+     "reference_ids": [
+      "REF-3324"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3324); the young leaves (best for tea) are gathered in spring as the shoots emerge. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Blackberry leaf has a long European folk-medicine tradition as an astringent gargle for sore throat and mouth ulcers, and as a remedy for mild diarrhoea, reflecting its high tannin content; the berries themselves are valued as a nutritious, antioxidant-rich food.",
     "reference_ids": [
@@ -53463,7 +53623,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "blackberry-leaf"
   },
   {

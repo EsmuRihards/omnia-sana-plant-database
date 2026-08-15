@@ -41,6 +41,40 @@ harvesting:
   - Seed
   season: Berries mid-late summer; leaf late spring-early summer
   status: draft
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Pick the berries when ripe and black, in mid-to-late summer."
+  basis: traditional
+  source_quote: "Currants are usually harvested in mid to late summer, from June to August."
+  reference_ids:
+  - REF-3323
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3323); the berries ripen in mid-to-late summer. Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves through the growing season, used fresh or dried."
+  basis: traditional
+  source_quote: "The leaves are harvested during the growing season and can be used fresh or dried."
+  reference_ids:
+  - REF-3323
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3323); the leaves are gathered through the growing season. Single lineage -> provisional."
+- part: seed
+  signals:
+  - "Collect the seeds from the ripe berries in mid-to-late summer (source of blackcurrant seed oil)."
+  basis: traditional
+  source_quote: "the seeds ripen from July to August"
+  reference_ids:
+  - REF-3323
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3323); the seeds ripen in the summer berries (July-August). Single lineage -> provisional."
 traditional_uses:
   text: 'Blackcurrant has a long northern-European food-medicine tradition: the vitamin-C- and anthocyanin-rich
     berries have traditionally been used for colds, flu and general vitality, while the leaf has an official
@@ -266,7 +300,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -278,4 +312,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields; botanical_description/habitat/harvesting are status:draft (well-known general
   facts, no dedicated botanical review in the largely-preclinical bucket), traditional_uses/preparations/dosage
   reuse the existing EMA-referenced book refs, constituents cite the preclinical phytochemistry studies
-  (REF-1243, REF-1245, REF-1251).'
+  (REF-1243, REF-1245, REF-1251). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
+  for fruit (mid-late summer) + leaf (growing season) + seed (summer berries), all provisional: PFAF
+  REF-3323. Single lineage. Binomial confirmed.'

@@ -46,6 +46,29 @@ harvesting:
   reference_ids:
   - REF-0993
   status: verified
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Gather the hips in autumn (late summer to October), when ripe red and softened by the first frosts."
+  basis: traditional
+  source_quote: "Rose hips are typically harvested in late summer to early autumn, usually from August to October"
+  reference_ids:
+  - REF-3322
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3322); the hips are gathered in autumn, softened and sweetened by frost. Single lineage -> provisional."
+- part: seed
+  signals:
+  - "Collect the seeds (achenes) from the ripe hips in autumn to early winter."
+  basis: traditional
+  source_quote: "the seeds ripen from October to December"
+  reference_ids:
+  - REF-3322
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3322); the seeds ripen in the autumn/early-winter hips (October-December). Single lineage -> provisional. (The petals, also a listed part, were not separately timing-sourced this pass - gathered in early summer while in flower.)"
 traditional_uses:
   text: Rosehip has a long European folk tradition as a vitamin-C-rich tonic for colds and general immunity,
     and as a mild diuretic and astringent for urinary and digestive complaints. Modern clinical trials
@@ -233,7 +256,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-19'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -280,4 +303,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   36290672 (laying-hen feed), 38684952 (horticultural genotype screening), 12003323 (oil-extraction
   engineering), 35335128 (gamma-irradiation processing) and 37110582 (mayonnaise shelf-life) state no
   medicinal claim. Also confirmed ALREADY PRESENT and not duplicated: Chrubasik 2008 SR = REF-0051,
-  Christensen 2008 meta-analysis = REF-0989, plus the Gruenwald 2019 SR and the antiobesity mouse study.'
+  Christensen 2008 meta-analysis = REF-0989, plus the Gruenwald 2019 SR and the antiobesity mouse study. |
+  2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit (hips in autumn, softened
+  by frost) + seed (Oct-Dec), both provisional: PFAF REF-3322; petals deferred. Single lineage. Binomial
+  confirmed.'

@@ -62,6 +62,18 @@ harvesting:
   reference_ids:
   - REF-0417
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the young leaves in spring, as they emerge - the young leaves are best for tea."
+  basis: traditional
+  source_quote: "A tea is made from the dried leaves - the young leaves are best"
+  reference_ids:
+  - REF-3324
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3324); the young leaves (best for tea) are gathered in spring as the shoots emerge. Single lineage -> provisional."
 traditional_uses:
   text: Blackberry leaf has a long European folk-medicine tradition as an astringent gargle for sore throat
     and mouth ulcers, and as a remedy for mild diarrhoea, reflecting its high tannin content; the berries
@@ -206,7 +218,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pharmacognosy Reviews herbal-medicine
   review; Molecules antioxidant/antibacterial study). Note: Rubus fruticosus is an aggregate of many microspecies.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat,
@@ -216,4 +228,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pha
   REF-0714, REF-0715. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing herbal-medicine review (REF-0417). | 2026-07-13: added
   anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
-  plant''s cited literature, as part of the cancer-condition campaign.'
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for leaf (provisional: PFAF REF-3324, young leaves gathered in
+  spring). Single lineage. Binomial confirmed.'

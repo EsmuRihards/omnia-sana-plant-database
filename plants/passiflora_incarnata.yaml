@@ -57,6 +57,18 @@ harvesting:
   reference_ids:
   - REF-0491
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts once some of the fruit (maypops) has set and begun to mature, in late summer to early autumn."
+  basis: traditional
+  source_quote: "The plant is harvested after some of the berries have matured and is then dried for later use."
+  reference_ids:
+  - REF-3306
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3306); the aerial parts are gathered after some berries have matured (flowering June-July, fruit maturing late summer to early autumn). Single lineage -> provisional."
 traditional_uses:
   text: Passionflower has a traditional use, recognised by European regulatory herbal monographs, as a
     mild sedative and anxiolytic for nervous tension, mild anxiety and difficulty sleeping. Modern clinical
@@ -186,7 +198,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Nutrients systematic review;
   EMA HMPC monograph for Passiflorae herba). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (anxiety, insomnia, stress, nervous-tension); associations retained and now part-mapped
@@ -199,4 +211,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   REF-1910, REF-1911, REF-1912, REF-0563, REF-1913) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0491) and systematic review
-  (REF-0490).'
+  (REF-0490). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts
+  (provisional: PFAF REF-3306, gathered after some fruit has matured, late summer to early autumn). Single
+  lineage. Binomial confirmed.'

@@ -62,6 +62,29 @@ harvesting:
   reference_ids:
   - REF-0426
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root and rhizome in late summer to autumn."
+  basis: traditional
+  source_quote: "The leaves are harvested in early summer, the root in late summer to autumn."
+  reference_ids:
+  - REF-3308
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3308); the root and rhizome are dug in late summer to autumn. Single lineage -> provisional. SAFETY: butterbur itself contains hepatotoxic pyrrolizidine alkaloids (only PA-free extracts are used medicinally), and the plant can be confused with Adenostyles alliariae - see Dangerous Lookalikes."
+- part: leaf
+  signals:
+  - "Gather the large leaves in early summer."
+  basis: traditional
+  source_quote: "The leaves are harvested in early summer, the root in late summer to autumn."
+  reference_ids:
+  - REF-3308
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3308); the leaves are gathered in early summer. Single lineage -> provisional. SAFETY: as above - PA-toxic, and confusable with Adenostyles alliariae."
 traditional_uses:
   text: Butterbur has a long European folk-medicine history as a fever remedy - the name 'pestilence wort'
     reflects its historic use during plague outbreaks - and for asthma, cough and migraine-type headache.
@@ -239,7 +262,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in Review integrative-medicine
   review). Further enriched 2026-06-13 with two PubMed sources: a randomised placebo-controlled migraine-prophylaxis
   trial (REF-0543, Grossmann & Schmidramsl 2000) and a systematic review of herbal medicines for allergic
@@ -253,4 +276,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in R
   monograph-base fields, sourced from the existing medicinal-herb portrait review (REF-1477) and the migraine/allergic-rhinitis
   RCTs (REF-1479, REF-1478); dosage/preparations reinforce the existing PA-free-only safety guidance.
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
-  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for root (late summer-autumn) + leaf (early summer),
+  both provisional: PFAF REF-3308. SAFETY: PA-toxic (PA-free extracts only) + Adenostyles alliariae
+  lookalike. Binomial confirmed.'

@@ -36,6 +36,18 @@ harvesting:
   - Seed
   season: As fruit capsules ripen and split
   status: draft
+harvest_readiness:
+- part: seed
+  signals:
+  - "Harvest the seed as the ripe red capsules mature and dehisce (split open), exposing the black seed in its white aril - about 75 days after flowering."
+  basis: traditional
+  source_quote: "Fruits are mature and dehisce the seeds in about 75 days"
+  reference_ids:
+  - REF-3309
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3309); the fruit ripens and dehisces (splits) about 75 days after flowering - the seed is gathered as the capsules split. Single lineage -> provisional."
 traditional_uses:
   text: Guarana seed has a long Amazonian Indigenous tradition as a stimulant tonic for fatigue and stamina
     and as a ceremonial and social beverage. Its very high caffeine content (greater by weight than coffee
@@ -208,7 +220,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -222,4 +234,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   narrative health review (REF-0954) and trial reviews. D6 (entity gap) 2026-07-20: this plant named a
   defining constituent that had NO entity in compounds/, so it resolved to nothing and would have emitted
   no practice recommendation. Entity created and the constituent wired to it. Only the molecules the entry
-  already names were wired - no constituent was reinterpreted.'
+  already names were wired - no constituent was reinterpreted. | 2026-08-15: Harvest Calendar (phenological)
+  - added harvest_readiness for seed (provisional: Useful Tropical Plants REF-3309, capsules mature and
+  dehisce ~75 days after flowering). Single lineage. Binomial confirmed.'

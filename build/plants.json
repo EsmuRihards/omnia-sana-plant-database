@@ -44938,6 +44938,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts once some of the fruit (maypops) has set and begun to mature, in late summer to early autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested after some of the berries have matured and is then dried for later use.",
+     "reference_ids": [
+      "REF-3306"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3306); the aerial parts are gathered after some berries have matured (flowering June-July, fruit maturing late summer to early autumn). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Passionflower has a traditional use, recognised by European regulatory herbal monographs, as a mild sedative and anxiolytic for nervous tension, mild anxiety and difficulty sleeping. Modern clinical trials support anxiolytic and sleep-supporting effects, including reduced preoperative anxiety without sedation or psychomotor impairment.",
     "reference_ids": [
@@ -45107,7 +45124,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "passionflower"
   },
   {
@@ -45150,6 +45167,23 @@
     "season": "As fruit capsules ripen and split",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Harvest the seed as the ripe red capsules mature and dehisce (split open), exposing the black seed in its white aril - about 75 days after flowering."
+     ],
+     "basis": "traditional",
+     "source_quote": "Fruits are mature and dehisce the seeds in about 75 days",
+     "reference_ids": [
+      "REF-3309"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3309); the fruit ripens and dehisces (splits) about 75 days after flowering - the seed is gathered as the capsules split. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Guarana seed has a long Amazonian Indigenous tradition as a stimulant tonic for fatigue and stamina and as a ceremonial and social beverage. Its very high caffeine content (greater by weight than coffee beans) underlies its modern use for cognitive performance, physical endurance and metabolic support, supported by clinical trials.",
     "reference_ids": [
@@ -45379,7 +45413,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "guarana"
   },
   {
@@ -45447,6 +45481,13 @@
     "season": "Harvested from mature plants; specific season not standardised in the bucket",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). No reliable phenological source stating the root-harvest stage for Pelargonium sidoides was found: Useful Tropical Plants has no record for the species, and Wikipedia gives no harvest timing. The commercial umckaloabo root (EPs 7630) is dug from mature plants, but no source states a season or observable stage. Next seams: a South African medicinal-plant cultivation/sustainability guideline or a Pelargonium sidoides agronomy paper."
+    }
+   ],
    "traditional_uses": {
     "text": "Known locally as 'Umckaloabo', Pelargonium sidoides root has a long history of traditional use by South African indigenous peoples for respiratory and gastrointestinal complaints, and was popularised in Europe in the early 20th century as a tuberculosis remedy. Its modern use, now well supported by clinical trials, is as a standardised extract (EPs 7630) for acute bronchitis, the common cold and other upper respiratory tract infections.",
     "reference_ids": [
@@ -45610,7 +45651,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "pelargonium"
   },
   {
@@ -45691,6 +45732,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root and rhizome in late summer to autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in early summer, the root in late summer to autumn.",
+     "reference_ids": [
+      "REF-3308"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3308); the root and rhizome are dug in late summer to autumn. Single lineage -> provisional. SAFETY: butterbur itself contains hepatotoxic pyrrolizidine alkaloids (only PA-free extracts are used medicinally), and the plant can be confused with Adenostyles alliariae - see Dangerous Lookalikes."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the large leaves in early summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in early summer, the root in late summer to autumn.",
+     "reference_ids": [
+      "REF-3308"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3308); the leaves are gathered in early summer. Single lineage -> provisional. SAFETY: as above - PA-toxic, and confusable with Adenostyles alliariae."
+    }
+   ],
    "traditional_uses": {
     "text": "Butterbur has a long European folk-medicine history as a fever remedy - the name 'pestilence wort' reflects its historic use during plague outbreaks - and for asthma, cough and migraine-type headache. Modern clinical trials of standardised, pyrrolizidine-alkaloid-free extracts support its use for migraine prevention and allergic rhinitis.",
     "reference_ids": [
@@ -45921,7 +45994,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "butterbur"
   },
   {
@@ -46021,6 +46094,43 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Pick the leaves regularly through the growing season, to encourage fresh growth."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves should be harvested regularly in order to encourage fresh growth and get maximum yields",
+     "reference_ids": [
+      "REF-3307"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3307); the leaves are picked regularly through the growing season. Single lineage -> provisional. SAFETY: parsley foliage resembles the fatal Conium maculatum (poison hemlock) - confirm identity before wild-gathering; see Dangerous Lookalikes."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds when they ripen on the second-year umbels, in mid-to-late summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from July to September",
+     "reference_ids": [
+      "REF-3307"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3307); the seeds ripen July-September on the second-year plant. Single lineage -> provisional."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Petroselinum crispum (the taproot of turnip-rooted/Hamburg parsley is dug in autumn, but no source stating that stage was found this pass), so none is asserted. SAFETY: Conium maculatum is a fatal lookalike."
+    }
+   ],
    "traditional_uses": {
     "text": "Parsley has a long Mediterranean culinary-medicinal tradition as a carminative digestive tonic, breath freshener and mild diuretic traditionally used for urinary complaints and fluid retention. Modern research supports antioxidant, hepatoprotective, nephroprotective and diuretic activity.",
     "reference_ids": [
@@ -46305,7 +46415,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "parsley"
   },
   {

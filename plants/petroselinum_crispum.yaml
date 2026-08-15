@@ -74,6 +74,32 @@ harvesting:
   reference_ids:
   - REF-0489
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Pick the leaves regularly through the growing season, to encourage fresh growth."
+  basis: traditional
+  source_quote: "The leaves should be harvested regularly in order to encourage fresh growth and get maximum yields"
+  reference_ids:
+  - REF-3307
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3307); the leaves are picked regularly through the growing season. Single lineage -> provisional. SAFETY: parsley foliage resembles the fatal Conium maculatum (poison hemlock) - confirm identity before wild-gathering; see Dangerous Lookalikes."
+- part: seed
+  signals:
+  - "Collect the seeds when they ripen on the second-year umbels, in mid-to-late summer."
+  basis: traditional
+  source_quote: "the seeds ripen from July to September"
+  reference_ids:
+  - REF-3307
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3307); the seeds ripen July-September on the second-year plant. Single lineage -> provisional."
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Petroselinum crispum (the taproot of turnip-rooted/Hamburg parsley is dug in autumn, but no source stating that stage was found this pass), so none is asserted. SAFETY: Conium maculatum is a fatal lookalike."
 traditional_uses:
   text: Parsley has a long Mediterranean culinary-medicinal tradition as a carminative digestive tonic,
     breath freshener and mild diuretic traditionally used for urinary complaints and fluid retention.
@@ -290,7 +316,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Chem updated review of parsley).
   Further enriched 2026-06-13 with two PubMed studies - a diuretic mechanism-of-action study (REF-0545,
   Kreydiyyeh & Usta 2002) and a constituents/medicinal review (REF-0546, Mahmood et al. 2014); a furanocoumarins
@@ -302,4 +328,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Ch
   REF-1495) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
   added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
   sourced from the existing updated traditional-uses/phytochemistry review (REF-0489) and constituents
-  review (REF-0546).'
+  review (REF-0546). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for leaf
+  (picked regularly) + seed (ripen Jul-Sep), both provisional: PFAF REF-3307; root = GAP. SAFETY: fatal
+  Conium maculatum (poison hemlock) lookalike. Binomial confirmed.'

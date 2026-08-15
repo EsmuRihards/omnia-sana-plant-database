@@ -40,6 +40,18 @@ harvesting:
   reference_ids:
   - REF-2205
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Cut the flower spikes in mid-to-late summer, when the flowers are in full bloom (for the essential oil, cut as the flowers just begin to fade)."
+  basis: traditional
+  source_quote: "Lavender is typically harvested in mid to late summer when the flowers are in full bloom."
+  reference_ids:
+  - REF-3283
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3283); the flower spikes are cut at full bloom in mid-to-late summer (in flower July-September). For essential-oil yield PFAF notes harvesting 'as soon as the flowers have faded'. Single lineage -> provisional."
 traditional_uses:
   text: Lavender flower has a long Mediterranean and European tradition as a calming, sedative herb for
     nervous tension, anxiety and insomnia, and as a mild digestive carminative and antiseptic for minor
@@ -300,7 +312,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -325,4 +337,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these.
   ''Standardised oral oil preparation'': Wrong herbal substance. REF-3071 is the lavender FLOWER monograph
   (tea and tincture); the standardised oral oil preparation belongs to Lavandulae aetheroleum, a separate
-  monograph. The flower monograph contains no oil posology and no mention of Silexan.'
+  monograph. The flower monograph contains no oil posology and no mention of Silexan. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for flower (provisional: PFAF REF-3283, spikes cut at
+  full bloom in mid-to-late summer). Single lineage. Binomial confirmed.'

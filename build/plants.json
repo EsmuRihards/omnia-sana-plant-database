@@ -34244,6 +34244,28 @@
     "season": "Leaf year-round; fruit/seed in autumn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the mature leaves at any time (evergreen); they are typically picked in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "Leaves can be harvested year-round, but they are typically picked in summer.",
+     "reference_ids": [
+      "REF-3282"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3282); as an evergreen, the leaves are gathered year-round, typically in summer. Single lineage -> provisional. SAFETY: true bay (Laurus nobilis) is confused with the toxic cherry laurel (Prunus laurocerasus), whose leaves are cyanogenic - never substitute; confirm identity, see Dangerous Lookalikes."
+    },
+    {
+     "part": "fruit",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no fruit-harvest timing for Laurus nobilis (the black berries ripen in autumn, but no source stating that stage was found this pass), so none is asserted. SAFETY: cherry laurel (Prunus laurocerasus) berries are toxic - see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Bay leaf has an ancient Mediterranean culinary and medicinal history, used as a digestive carminative for indigestion and bloating, and topically and traditionally for muscle and joint pain and minor wounds; it remains one of the most widely used culinary herbs worldwide.",
     "reference_ids": [
@@ -34663,7 +34685,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "bay-leaf"
   },
   {
@@ -34715,6 +34737,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the flower spikes in mid-to-late summer, when the flowers are in full bloom (for the essential oil, cut as the flowers just begin to fade)."
+     ],
+     "basis": "traditional",
+     "source_quote": "Lavender is typically harvested in mid to late summer when the flowers are in full bloom.",
+     "reference_ids": [
+      "REF-3283"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3283); the flower spikes are cut at full bloom in mid-to-late summer (in flower July-September). For essential-oil yield PFAF notes harvesting 'as soon as the flowers have faded'. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Lavender flower has a long Mediterranean and European tradition as a calming, sedative herb for nervous tension, anxiety and insomnia, and as a mild digestive carminative and antiseptic for minor wounds and skin irritation; the essential oil in particular has an extensive modern clinical evidence base for anxiety and sleep support.",
     "reference_ids": [
@@ -35064,7 +35103,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "lavender"
   },
   {
@@ -35109,6 +35148,23 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruiting-body",
+     "signals": [
+      "Harvest when the caps are mostly open (about 80-90%) and 2-4 inches wide, while the cap edges are still curled under, before the cap flattens."
+     ],
+     "basis": "traditional",
+     "source_quote": "Cut mushrooms at the base when caps are 80-90% open.",
+     "reference_ids": [
+      "REF-3286"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "The Spore Depot (REF-3286) for Lentinula edodes; harvest when the caps are 80-90% open and 2-4 inches wide, while the edges are still curled under (before the cap flattens). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Shiitake has a very long East Asian culinary and medicinal tradition, used in Chinese and Japanese medicine as a tonic for vitality and longevity and to support healthy qi and blood; its polysaccharide lentinan, isolated from the fruiting body, has been used clinically in Japan as an adjunct immunotherapy, directly building on this traditional immune-tonic reputation.",
     "reference_ids": [
@@ -35345,7 +35401,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "shiitake-mushroom"
   },
   {
@@ -35401,6 +35457,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the flowering tops in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole herb is harvested in August when in flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3284"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3284); the whole flowering herb is cut in summer while in flower (in flower July-September). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering tops in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole herb is harvested in August when in flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3284"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3284); the leaf is gathered with the flowering herb in summer. Single lineage -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the stems with the flowering tops in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole herb is harvested in August when in flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3284"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3284); the stem is gathered with the flowering herb in summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Motherwort has a long European and Asian herbal tradition, reflected in its name, as a gynaecological and cardiac tonic, traditionally used for heart palpitations and nervous cardiac complaints, menstrual irregularities and cramps, and as a calming nervine for anxiety and to ease childbirth and postpartum recovery.",
     "reference_ids": [
@@ -35666,7 +35769,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "motherwort"
   },
   {
@@ -35720,6 +35823,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds when the capsules ripen in late summer, after flowering."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from August to September",
+     "reference_ids": [
+      "REF-3285"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3285); the seeds ripen in late summer (August-September), the plant being harvested just after it flowers. Single lineage -> provisional. (Young sprouts, also a listed part, are a sprouting preparation rather than a field harvest stage.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Flaxseed has a long history of traditional use as a bulk-forming laxative and demulcent for constipation and irritated gut mucosa, and as a poultice for boils and inflamed skin. Modern interest centres on its lignan (secoisolariciresinol diglucoside) and alpha-linolenic acid content, studied for cardiovascular, metabolic and hormone-related outcomes.",
     "reference_ids": [
@@ -36053,7 +36173,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "flaxseed"
   },
   {

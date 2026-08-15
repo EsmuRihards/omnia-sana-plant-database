@@ -38,6 +38,18 @@ harvesting:
   - Mycelium
   - Whole Plant
   status: draft
+harvest_readiness:
+- part: fruiting-body
+  signals:
+  - "Harvest when the caps are mostly open (about 80-90%) and 2-4 inches wide, while the cap edges are still curled under, before the cap flattens."
+  basis: traditional
+  source_quote: "Cut mushrooms at the base when caps are 80-90% open."
+  reference_ids:
+  - REF-3286
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "The Spore Depot (REF-3286) for Lentinula edodes; harvest when the caps are 80-90% open and 2-4 inches wide, while the edges are still curled under (before the cap flattens). Single source -> provisional."
 traditional_uses:
   text: Shiitake has a very long East Asian culinary and medicinal tradition, used in Chinese and Japanese
     medicine as a tonic for vitality and longevity and to support healthy qi and blood; its polysaccharide
@@ -214,7 +226,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -237,4 +249,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
   left unsourced at status draft rather than attached to a tangentially-related paper. No EMA or WHO
   monograph covers shiitake. Human lentinan studies use an injectable purified beta-glucan at oncology
-  doses, which cannot be read across to an oral dried-mushroom extract.'
+  doses, which cannot be read across to an oral dried-mushroom extract. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for fruiting-body (provisional: The Spore Depot REF-3286; caps
+  80-90% open and 2-4 in wide, edges still curled under, before flattening). Binomial confirmed.'

@@ -44,6 +44,21 @@ harvesting:
   - Seed
   season: Leaf year-round; fruit/seed in autumn
   status: draft
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the mature leaves at any time (evergreen); they are typically picked in summer."
+  basis: traditional
+  source_quote: "Leaves can be harvested year-round, but they are typically picked in summer."
+  reference_ids:
+  - REF-3282
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3282); as an evergreen, the leaves are gathered year-round, typically in summer. Single lineage -> provisional. SAFETY: true bay (Laurus nobilis) is confused with the toxic cherry laurel (Prunus laurocerasus), whose leaves are cyanogenic - never substitute; confirm identity, see Dangerous Lookalikes."
+- part: fruit
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no fruit-harvest timing for Laurus nobilis (the black berries ripen in autumn, but no source stating that stage was found this pass), so none is asserted. SAFETY: cherry laurel (Prunus laurocerasus) berries are toxic - see Dangerous Lookalikes."
 traditional_uses:
   text: Bay leaf has an ancient Mediterranean culinary and medicinal history, used as a digestive carminative
     for indigestion and bloating, and topically and traditionally for muscle and joint pain and minor
@@ -367,7 +382,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -385,4 +400,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   prepared from 5 g of dried Laurus nobilis leaves in 100 mL of boiled water once daily for 10 days in
   healthy volunteers. That is a genuine administered dose for this species in the same preparation as the
   entry. No EMA or WHO monograph exists for bay leaf. The traditional 1-3 g per cup figure was retained
-  alongside the trial dose rather than replaced, since the two describe different things.'
+  alongside the trial dose rather than replaced, since the two describe different things. | 2026-08-15:
+  Harvest Calendar (phenological) - added harvest_readiness for leaf (provisional: PFAF REF-3282, evergreen,
+  gathered year-round/summer); fruit = GAP (no sourced timing). SAFETY: toxic cherry laurel (Prunus
+  laurocerasus) lookalike. Binomial confirmed.'

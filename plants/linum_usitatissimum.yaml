@@ -48,6 +48,18 @@ harvesting:
   reference_ids:
   - REF-2217
   status: verified
+harvest_readiness:
+- part: seed
+  signals:
+  - "Collect the seeds when the capsules ripen in late summer, after flowering."
+  basis: traditional
+  source_quote: "the seeds ripen from August to September"
+  reference_ids:
+  - REF-3285
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3285); the seeds ripen in late summer (August-September), the plant being harvested just after it flowers. Single lineage -> provisional. (Young sprouts, also a listed part, are a sprouting preparation rather than a field harvest stage.)"
 traditional_uses:
   text: Flaxseed has a long history of traditional use as a bulk-forming laxative and demulcent for constipation
     and irritated gut mucosa, and as a poultice for boils and inflamed skin. Modern interest centres on
@@ -314,7 +326,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -325,4 +337,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing reference bucket (REF-2216..2225) plus prior book refs.
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
-  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-19 (orphan sweep): REF-0288 (Thompson 2005, dietary flaxseed alters tumor biological markers in postmenopausal breast cancer) was orphaned. Human study on this species; now in the references bucket. CANDIDATE for the existing cancer indication, but not wired there yet - the direction of effect must be confirmed from the paper before it can be cited as support.'
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-19 (orphan sweep): REF-0288 (Thompson 2005, dietary flaxseed alters tumor biological markers in postmenopausal breast cancer) was orphaned. Human study on this species; now in the references bucket. CANDIDATE for the existing cancer indication, but not wired there yet - the direction of effect must be confirmed from the paper before it can be cited as support. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for seed (provisional: PFAF REF-3285, capsules ripen August-September, after flowering). Single lineage. Binomial confirmed.'

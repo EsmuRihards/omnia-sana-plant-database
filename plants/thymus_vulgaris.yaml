@@ -62,6 +62,18 @@ harvesting:
   reference_ids:
   - REF-0519
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Cut the aerial parts (herb) just before the flowers open, in early to late summer, when the aromatic oil is highest."
+  basis: traditional
+  source_quote: "If the leaves are to be dried, the plants should be harvested in early and late summer just before the flowers open and the leaves should be dried quickly."
+  reference_ids:
+  - REF-3351
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3351); the aerial parts are cut just before the flowers open (early to late summer), when the oil is highest. Single lineage -> provisional."
 traditional_uses:
   text: Thyme has a long Mediterranean and European tradition as an antimicrobial and expectorant remedy
     for coughs, bronchitis and sore throat, formalised in EU herbal monograph recognition, with a fixed
@@ -228,7 +240,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Thymi herba; Phytotherapy Research carvacrol review). Note: this is Thymus vulgaris (garden thyme),
   distinct from the book''s Thymus serpyllum (Breckland thyme). Originally a skeleton imported from the
@@ -243,4 +255,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
   existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
   policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
+  2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF
+  REF-3351, cut just before the flowers open). Single lineage. Binomial confirmed.'

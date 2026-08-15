@@ -38,6 +38,18 @@ harvesting:
   - Whole Plant
   season: Year-round, most abundant in autumn
   status: draft
+harvest_readiness:
+- part: fruiting-body
+  signals:
+  - "Harvest the fresh, pliable brackets - flexible flesh with a white growing edge, colour fully developed - before they toughen, dry and fade with age (most abundant in autumn)."
+  basis: traditional
+  source_quote: "Turkey tails may persist on wood for 2-3 years, but when the mushroom is fresh it will have white spores and flexible flesh."
+  reference_ids:
+  - REF-3354
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Eat The Planet (REF-3354) for Trametes versicolor; harvest the fresh brackets - flexible flesh and a white growing edge - before they toughen and fade. Single source -> provisional. SAFETY: the inedible false turkey tail (Stereum hirsutum) is a lookalike - true turkey tail has visible pores on the underside, Stereum has a smooth underside; see Dangerous Lookalikes."
 traditional_uses:
   text: Turkey tail has a long history of use in traditional Chinese medicine (as yun zhi) and is one
     of the most researched medicinal mushrooms, with standardized polysaccharide-K (PSK) and polysaccharopeptide
@@ -276,7 +288,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -288,4 +300,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
   bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13:
   added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced
-  from the plant''s cited literature, as part of the cancer-condition campaign.'
+  from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for fruiting-body (provisional: Eat The Planet REF-3354;
+  fresh, pliable brackets with a white growing edge, before they toughen/fade). SAFETY: false turkey tail
+  (Stereum hirsutum) lookalike (pores vs smooth underside). Binomial confirmed.'

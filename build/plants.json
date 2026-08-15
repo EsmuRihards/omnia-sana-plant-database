@@ -62539,6 +62539,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the aerial parts (herb) just before the flowers open, in early to late summer, when the aromatic oil is highest."
+     ],
+     "basis": "traditional",
+     "source_quote": "If the leaves are to be dried, the plants should be harvested in early and late summer just before the flowers open and the leaves should be dried quickly.",
+     "reference_ids": [
+      "REF-3351"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3351); the aerial parts are cut just before the flowers open (early to late summer), when the oil is highest. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Thyme has a long Mediterranean and European tradition as an antimicrobial and expectorant remedy for coughs, bronchitis and sore throat, formalised in EU herbal monograph recognition, with a fixed thyme-ivy extract combination shown superior to placebo for acute bronchitis with productive cough in clinical trial.",
     "reference_ids": [
@@ -62780,7 +62797,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "thyme"
   },
   {
@@ -62876,6 +62893,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowers only when freshly opened, in early summer - older flowers develop narcotic properties, so do not gather ageing ones."
+     ],
+     "basis": "traditional",
+     "source_quote": "Lime flowers are said to develop narcotic properties as they age and so they should only be harvested when freshly opened.",
+     "reference_ids": [
+      "REF-3350"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3350); the flowers are gathered only when freshly opened (in flower June-July) - they develop narcotic properties as they age. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Linden flower has a long European tradition, recognised in the EU herbal monograph, as a gentle calming and sleep-supportive herb and as a diaphoretic remedy for feverish colds and flu, with modern research on its flavonoid fraction (notably tiliroside) supporting a mechanistic basis for the traditional calming action.",
     "reference_ids": [
@@ -63118,7 +63152,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "linden"
   },
   {
@@ -63174,6 +63208,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Harvest the seed (fruit) when fully ripe, in summer, then dry or distil for the oil."
+     ],
+     "basis": "traditional",
+     "source_quote": "The seed is harvested when fully ripe and either distilled for the essential oil or dried for later use.",
+     "reference_ids": [
+      "REF-3352"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3352); the seed is harvested when fully ripe (seeds ripen July-August). Single lineage -> provisional. (Leaf and root, also listed parts, were not separately timing-sourced this pass.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Ajwain seed has a long South Asian and Middle Eastern culinary and Ayurvedic tradition as a warming digestive carminative for bloating and indigestion, an antispasmodic for menstrual cramps, an oral-health antiseptic, and a respiratory-supportive remedy, with its high thymol content underlying much of its antimicrobial and antispasmodic activity.",
     "reference_ids": [
@@ -63369,7 +63420,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "ajwain"
   },
   {
@@ -63415,6 +63466,23 @@
     "season": "Year-round, most abundant in autumn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruiting-body",
+     "signals": [
+      "Harvest the fresh, pliable brackets - flexible flesh with a white growing edge, colour fully developed - before they toughen, dry and fade with age (most abundant in autumn)."
+     ],
+     "basis": "traditional",
+     "source_quote": "Turkey tails may persist on wood for 2-3 years, but when the mushroom is fresh it will have white spores and flexible flesh.",
+     "reference_ids": [
+      "REF-3354"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Eat The Planet (REF-3354) for Trametes versicolor; harvest the fresh brackets - flexible flesh and a white growing edge - before they toughen and fade. Single source -> provisional. SAFETY: the inedible false turkey tail (Stereum hirsutum) is a lookalike - true turkey tail has visible pores on the underside, Stereum has a smooth underside; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Turkey tail has a long history of use in traditional Chinese medicine (as yun zhi) and is one of the most researched medicinal mushrooms, with standardized polysaccharide-K (PSK) and polysaccharopeptide (PSP) extracts used clinically in Japan and China alongside conventional cancer treatment to support immune function.",
     "reference_ids": [
@@ -63725,7 +63793,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "turkey-tail"
   },
   {
@@ -63779,6 +63847,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the pink flowerheads as the plant comes into flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is normally harvested for use as it comes into flower.",
+     "reference_ids": [
+      "REF-3353"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3353); the flowerheads are gathered as the plant comes into flower (in flower May-September). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowerheads, as the plant comes into flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is normally harvested for use as it comes into flower.",
+     "reference_ids": [
+      "REF-3353"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3353); the leaf is gathered with the flowerheads as the plant comes into flower. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Red clover flower has a long folk tradition as a blood-purifying and expectorant remedy for coughs and skin complaints, and more recently has become one of the most studied herbal sources of isoflavone phytoestrogens, researched for menopausal symptom relief and cardiovascular and bone support.",
     "reference_ids": [
@@ -64240,7 +64340,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18",
+   "last_updated": "2026-08-15",
    "common_slug": "red-clover"
   },
   {

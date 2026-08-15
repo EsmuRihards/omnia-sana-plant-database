@@ -42,6 +42,29 @@ harvesting:
   reference_ids:
   - REF-1283
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves through the year (evergreen), best in spring or early summer when the plant is actively growing."
+  basis: traditional
+  source_quote: "Leaves are harvested year-round but are best harvested in spring or early summer when the plant is actively growing."
+  reference_ids:
+  - REF-3334
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3334, as Rosmarinus officinalis); the evergreen leaves are gathered year-round, best in spring/early summer. Single lineage -> provisional."
+- part: flower
+  signals:
+  - "Gather the flowers in spring to early summer, while in flower."
+  basis: traditional
+  source_quote: "in flower from March to October"
+  reference_ids:
+  - REF-3334
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3334); the flowers are gathered while in flower (mainly spring to early summer). Single lineage -> provisional."
 traditional_uses:
   text: Rosemary has an ancient Mediterranean reputation as a memory and circulation tonic ('rosemary
     for remembrance'), a digestive carminative, and an antiseptic for minor wounds. Commission E approves
@@ -288,7 +311,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -300,4 +323,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing therapeutic/prophylactic review (REF-1283) and the
   dedicated rosmarinic-acid reference (REF-0194). | 2026-07-13: added anticancer action (where absent)
   + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
-  part of the cancer-condition campaign.'
+  part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for leaf (evergreen, year-round/spring) + flower (spring), both provisional: PFAF
+  REF-3334 (as Rosmarinus officinalis). Single lineage. Binomial confirmed.'

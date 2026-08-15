@@ -56,6 +56,18 @@ harvesting:
   reference_ids:
   - REF-0505
   status: verified
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Gather the red berries in autumn, after the first frosts, then sun-dry."
+  basis: traditional
+  source_quote: "The fruit is harvested after the first frosts and sun-dried for later use"
+  reference_ids:
+  - REF-3336
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3336); the berries are gathered in autumn after the first frosts (seeds ripen August-October), then sun-dried. Single lineage -> provisional."
 traditional_uses:
   text: Schisandra berry ('Wu Wei Zi') has a centuries-old place in Traditional Chinese Medicine as a
     premier adaptogen and 'astringent' tonic, used to boost energy, sharpen mental focus, and support
@@ -260,7 +272,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Antioxidants review of Schisandra; Nutrients
   adaptogens review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (fatigue, stress, liver-support, cognitive-function); associations retained and now part-mapped
@@ -272,4 +284,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Antioxidants re
   REF-0505, REF-1879, REF-1880, REF-1881, REF-1882, REF-1883, REF-1884, REF-1885, REF-1886) — woven into
   relevant actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing antioxidant-constituents study (REF-0505) and adaptogens
-  history/future review (REF-0506).'
+  history/future review (REF-0506). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
+  for fruit (provisional: PFAF REF-3336, red berries gathered in autumn after the first frosts, sun-dried).
+  Single lineage. Binomial confirmed.'

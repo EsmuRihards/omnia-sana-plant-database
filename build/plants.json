@@ -55228,6 +55228,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves before the plant comes into flower (spring to early summer), when the flavour and oil are best."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are best harvested before the plant comes into flower and are dried for later use.",
+     "reference_ids": [
+      "REF-3333"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3333); the leaves are best gathered just before flowering (spring to early summer). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Sage has an ancient reputation - its Latin name 'salvia' derives from 'salvere', to be saved or healed - as a digestive, antiseptic and cognitive tonic. It has official European herbal-monograph use for dyspeptic complaints and excessive sweating, and as a gargle for inflammation of the mouth and throat; modern clinical trials support cognitive-enhancing effects in both healthy adults and people with dementia.",
     "reference_ids": [
@@ -55420,7 +55437,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "sage"
   },
   {
@@ -55473,6 +55490,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves through the year (evergreen), best in spring or early summer when the plant is actively growing."
+     ],
+     "basis": "traditional",
+     "source_quote": "Leaves are harvested year-round but are best harvested in spring or early summer when the plant is actively growing.",
+     "reference_ids": [
+      "REF-3334"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3334, as Rosmarinus officinalis); the evergreen leaves are gathered year-round, best in spring/early summer. Single lineage -> provisional."
+    },
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowers in spring to early summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "in flower from March to October",
+     "reference_ids": [
+      "REF-3334"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3334); the flowers are gathered while in flower (mainly spring to early summer). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Rosemary has an ancient Mediterranean reputation as a memory and circulation tonic ('rosemary for remembrance'), a digestive carminative, and an antiseptic for minor wounds. Commission E approves it for dyspeptic complaints internally and for rheumatic conditions and circulatory problems externally; modern research on rosmarinic acid and carnosic acid supports antioxidant, anti-inflammatory, antimicrobial and cognitive-supportive activity.",
     "reference_ids": [
@@ -55820,7 +55869,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "rosemary"
   },
   {
@@ -55877,6 +55926,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the creamy flower umbels in early summer, in full bloom, before they set fruit."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from June to July, and the seeds ripen from August to September.",
+     "reference_ids": [
+      "REF-3332"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3332); the flowers are gathered in early summer, in full bloom (in flower June-July). Single lineage -> provisional. SAFETY: do not confuse with the toxic dwarf elder (Sambucus ebulus); the raw flowers are fine, but see Dangerous Lookalikes."
+    },
+    {
+     "part": "fruit",
+     "signals": [
+      "Gather the berries in autumn, when fully ripe and black (the clusters hang down) - and always cook them, as raw elderberries are cyanogenic."
+     ],
+     "basis": "traditional",
+     "source_quote": "Elderberries are usually harvested in late summer to early autumn, around August to September, when the berries are fully ripe.",
+     "reference_ids": [
+      "REF-3332"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3332); the berries are gathered in autumn when fully ripe (August-September). Single lineage -> provisional. SAFETY: raw elderberries and the leaves are cyanogenic (cook before use); and the toxic dwarf elder (Sambucus ebulus) is a lookalike - S. ebulus berries stand upright whereas S. nigra clusters droop; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Elder has one of the most celebrated European folk-medicine reputations, described as a 'medicine chest' of the countryside. The flowers have official European herbal-monograph use for symptoms of the common cold, and the berries - cooked, or as a standardised extract - are widely used and clinically studied for upper respiratory and flu-like symptoms.",
     "reference_ids": [
@@ -56141,7 +56222,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "elder"
   },
   {
@@ -56219,6 +56300,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in spring."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root is harvested in the spring and can be dried for later use",
+     "reference_ids": [
+      "REF-3335"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3335); the root is dug in spring. PFAF gives no harvest timing for the aerial parts (also a listed part). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Soapwort takes its name from its traditional use as a natural, gentle soap - the root, crushed and agitated in water, produces a lathering saponin solution historically used for washing delicate fabrics and, topically, for skin conditions like eczema. Internal use as an expectorant for cough is an older tradition now considered outdated given the irritant, haemolytic risk of concentrated saponins.",
     "reference_ids": [
@@ -56372,7 +56470,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "soapwort"
   },
   {
@@ -56448,6 +56546,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Gather the red berries in autumn, after the first frosts, then sun-dry."
+     ],
+     "basis": "traditional",
+     "source_quote": "The fruit is harvested after the first frosts and sun-dried for later use",
+     "reference_ids": [
+      "REF-3336"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3336); the berries are gathered in autumn after the first frosts (seeds ripen August-October), then sun-dried. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Schisandra berry ('Wu Wei Zi') has a centuries-old place in Traditional Chinese Medicine as a premier adaptogen and 'astringent' tonic, used to boost energy, sharpen mental focus, and support liver and kidney function. It is one of the classically defined adaptogen herbs, and modern research on its dibenzocyclooctadiene lignans supports antioxidant, hepatoprotective and stress-resistance activity.",
     "reference_ids": [
@@ -56730,7 +56845,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "schisandra"
   },
   {

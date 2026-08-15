@@ -60,6 +60,18 @@ harvesting:
   reference_ids:
   - REF-0512
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root in spring."
+  basis: traditional
+  source_quote: "The root is harvested in the spring and can be dried for later use"
+  reference_ids:
+  - REF-3335
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3335); the root is dug in spring. PFAF gives no harvest timing for the aerial parts (also a listed part). Single lineage -> provisional."
 traditional_uses:
   text: Soapwort takes its name from its traditional use as a natural, gentle soap - the root, crushed
     and agitated in water, produces a lathering saponin solution historically used for washing delicate
@@ -177,7 +189,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-07-12'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from general literature (Drugs.com and MedicineNet monographs). Record
   status set to needs-review because the saponins carry a real haemolysis/irritation risk and the internal
   use is largely outdated. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
@@ -189,4 +201,6 @@ internal_notes: 'Enriched 2026-06-12 from general literature (Drugs.com and Medi
   sources (REF-1025, REF-1026, REF-1027, REF-1028, REF-1029, REF-1030, REF-1031, REF-1032, REF-1033, REF-1034)
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-12: added
   botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
-  sourced from the existing general soapwort monographs (REF-0511, REF-0512).'
+  sourced from the existing general soapwort monographs (REF-0511, REF-0512). | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for root (provisional: PFAF REF-3335, dug in spring); aerial parts
+  not separately timing-sourced. Single lineage. Binomial confirmed.'

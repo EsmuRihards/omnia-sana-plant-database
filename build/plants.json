@@ -25406,6 +25406,43 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds (fruits) when ripe in autumn, as they mature on the umbels."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from August to October, and the seeds ripen from September to October.",
+     "reference_ids": [
+      "REF-3259"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3259); the seeds ripen in autumn (September-October). Single lineage -> provisional. SAFETY: fennel foliage and umbels resemble the fatal Conium maculatum (poison hemlock) - confirm identity before wild-gathering; see Dangerous Lookalikes."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the fresh leaves through the growing season, while the plant is in active growth."
+     ],
+     "basis": "traditional",
+     "source_quote": "can often be harvested all year round, especially if the plants are in a warm, sheltered position",
+     "reference_ids": [
+      "REF-3259"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3259); the leaves are gathered through the growing season (all year in mild spots). Single lineage -> provisional. SAFETY: see the Conium maculatum caution above."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Foeniculum vulgare (only leaf, seed and bulb stages). The taproot would conventionally be dug in autumn, but no source stating that stage for this species was found, so no season is asserted. SAFETY: Conium maculatum (poison hemlock) is a fatal lookalike."
+    }
+   ],
    "traditional_uses": {
     "text": "Fennel seed has an ancient Mediterranean and Asian tradition as a carminative digestive remedy for indigestion, bloating and colic (including infant colic, historically), a mild expectorant for respiratory catarrh, and a traditional lactagogue and emmenagogue owing to its mild estrogen-like activity.",
     "reference_ids": [
@@ -25706,7 +25743,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "fennel"
   },
   {
@@ -25799,6 +25836,38 @@
     "season": "Summer, at flowering",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowering tops in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from June to September, and the seeds ripen from August to September.",
+     "reference_ids": [
+      "REF-3262"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3262) for Galium mollugo, the accepted synonym of Galium album; in flower June-September. Species confirmed via the G. album = G. mollugo synonymy. Single lineage -> provisional. (PFAF's Galium album query returns only a genus table and theferns/Wikipedia gave no flowering months - the synonym page was the working seam.)"
+    },
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts (herb) in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from June to September, and the seeds ripen from August to September.",
+     "reference_ids": [
+      "REF-3262"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3262) for Galium mollugo (syn. Galium album); the flowering herb is gathered while in flower (June-September). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "White bedstraw shares the broader bedstraw genus's folk reputation as a mild diuretic and topical remedy for minor skin and wound complaints, though species-specific clinical or traditional-use documentation is sparse; most available research on this species is phytochemical and antioxidant in nature rather than confirming a specific traditional-use record.",
     "status": "draft"
@@ -25844,7 +25913,7 @@
    },
    "provenance": "pubmed",
    "status": "draft",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "white-bedstraw"
   },
   {
@@ -25900,6 +25969,53 @@
     "season": "Spring to early summer",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the herb (leaf and stem) as it comes into flower, in late spring to early summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is harvested in May and June as it comes into flower and can be used fresh or dried for later use.",
+     "reference_ids": [
+      "REF-3260"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3260); the cleavers herb is gathered as it comes into flower (May-June). Single lineage -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the straggling stems with the leaf as the herb comes into flower, in late spring to early summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is harvested in May and June as it comes into flower and can be used fresh or dried for later use.",
+     "reference_ids": [
+      "REF-3260"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3260); the stems are gathered with the herb as it comes into flower. Single lineage -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds (clinging burrs) when ripe in late summer to early autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from June to August, and the seeds ripen from August to September.",
+     "reference_ids": [
+      "REF-3260"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3260); the seeds (roasted as a coffee substitute) ripen in late summer to early autumn. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Cleavers has a long European folk history as a lymphatic and diuretic 'spring tonic' herb, traditionally used to support the urinary system and lymphatic drainage, and topically as a soothing, emollient wash or poultice for skin irritation, wounds and minor swellings.",
     "reference_ids": [
@@ -26159,7 +26275,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "cleavers"
   },
   {
@@ -26207,6 +26323,23 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruiting-body",
+     "signals": [
+      "Harvest the conk when the pale growing margin dulls from white/orange to matte red, growth has stopped and the surface is fully lacquered - before the heavy reddish-brown spore drop."
+     ],
+     "basis": "traditional",
+     "source_quote": "The margin of reishi (where it's growing from) will dull from white or orange to a more matte red in maturity.",
+     "reference_ids": [
+      "REF-3263"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": false,
+     "status": "provisional",
+     "notes": "North Spore (REF-3263) describes reishi harvest maturity at the genus level (Ganoderma), not naming Ganoderma lingzhi specifically -> species_confirmed false. The fruiting body is ready when the white/orange growing margin turns matte red and growth stops ('Harvest them when growth has stopped and their color has darkened a bit'), before the heavy spore drop. Single source -> provisional. SAFETY: the fatal Podostroma cornu-damae can be confused with reishi - confirm identity; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Reishi/lingzhi, the 'mushroom of immortality', is one of the most revered tonic fungi in traditional Chinese medicine, used for centuries to support vitality, calm the spirit, strengthen immunity and promote longevity; this traditional tonic reputation is now studied for immunomodulatory, anticancer-adjunct and metabolic effects.",
     "reference_ids": [
@@ -26545,7 +26678,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "lingzhi"
   },
   {
@@ -26635,6 +26768,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the deep root in autumn, from mature plants several years old."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root, which can be as thick as a person's arm and has few branches, is harvested in the autumn and dried for later use.",
+     "reference_ids": [
+      "REF-3261"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3261); the thick root is dug in autumn from mature (several-year-old) plants. Single lineage -> provisional. SAFETY CRITICAL: non-flowering gentian rosettes are confused with the FATAL Veratrum album (white hellebore), which grows in the same alpine meadows and has caused fatal root poisonings - confirm identity before digging; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Gentian root is one of the classic bitter digestive herbs of European tradition, used to stimulate appetite and digestive secretions for temporary loss of appetite and mild dyspeptic complaints, and has long been a base ingredient of bitter tonics, aperitifs and digestifs.",
     "reference_ids": [
@@ -26799,7 +26949,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "gentian"
   },
   {

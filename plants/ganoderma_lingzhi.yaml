@@ -40,6 +40,18 @@ harvesting:
   - Mycelium
   - Whole Plant
   status: draft
+harvest_readiness:
+- part: fruiting-body
+  signals:
+  - "Harvest the conk when the pale growing margin dulls from white/orange to matte red, growth has stopped and the surface is fully lacquered - before the heavy reddish-brown spore drop."
+  basis: traditional
+  source_quote: "The margin of reishi (where it's growing from) will dull from white or orange to a more matte red in maturity."
+  reference_ids:
+  - REF-3263
+  independent_confirmation: null
+  species_confirmed: false
+  status: provisional
+  notes: "North Spore (REF-3263) describes reishi harvest maturity at the genus level (Ganoderma), not naming Ganoderma lingzhi specifically -> species_confirmed false. The fruiting body is ready when the white/orange growing margin turns matte red and growth stops ('Harvest them when growth has stopped and their color has darkened a bit'), before the heavy spore drop. Single source -> provisional. SAFETY: the fatal Podostroma cornu-damae can be confused with reishi - confirm identity; see Dangerous Lookalikes."
 traditional_uses:
   text: Reishi/lingzhi, the 'mushroom of immortality', is one of the most revered tonic fungi in traditional
     Chinese medicine, used for centuries to support vitality, calm the spirit, strengthen immunity and
@@ -308,7 +320,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -333,4 +345,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
   status draft rather than attached to a tangentially-related paper. No EMA or WHO monograph covers reishi.
   A targeted PubMed search for a dose-stating randomised trial returned nothing usable; the plant''s own
-  bibliography is preclinical or polysaccharide-chemistry work.'
+  bibliography is preclinical or polysaccharide-chemistry work. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for fruiting-body (provisional: North Spore REF-3263; conk mature
+  when the growing margin turns white/orange to matte red and growth stops, before spore drop).
+  species_confirmed FALSE - the source is genus-level reishi, not Ganoderma lingzhi. SAFETY: fatal
+  Podostroma cornu-damae lookalike.'

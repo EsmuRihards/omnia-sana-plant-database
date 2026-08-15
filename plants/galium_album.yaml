@@ -66,6 +66,29 @@ harvesting:
   - Aerial parts
   season: Summer, at flowering
   status: draft
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flowering tops in summer, while in flower."
+  basis: traditional
+  source_quote: "It is in flower from June to September, and the seeds ripen from August to September."
+  reference_ids:
+  - REF-3262
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3262) for Galium mollugo, the accepted synonym of Galium album; in flower June-September. Species confirmed via the G. album = G. mollugo synonymy. Single lineage -> provisional. (PFAF's Galium album query returns only a genus table and theferns/Wikipedia gave no flowering months - the synonym page was the working seam.)"
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts (herb) in summer, while in flower."
+  basis: traditional
+  source_quote: "It is in flower from June to September, and the seeds ripen from August to September."
+  reference_ids:
+  - REF-3262
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3262) for Galium mollugo (syn. Galium album); the flowering herb is gathered while in flower (June-September). Single lineage -> provisional."
 traditional_uses:
   text: White bedstraw shares the broader bedstraw genus's folk reputation as a mild diuretic and topical
     remedy for minor skin and wound complaints, though species-specific clinical or traditional-use documentation
@@ -120,7 +143,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: pubmed
 status: draft
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify White Bedstraw" blog post).
   SETTLED-INCOMPLETE at 9 @article sources: Galium album / G. mollugo is a sparse-literature species —
   PubMed is dominated by grassland ecology, phyllosphere microbiology, phytoremediation and population
@@ -143,4 +166,8 @@ internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
   status draft rather than attached to a tangentially-related paper. Settled as sparse-literature incomplete
-  in the earlier campaign; no monograph or dose-reporting trial exists for this species.'
+  in the earlier campaign; no monograph or dose-reporting trial exists for this species. | 2026-08-15:
+  Harvest Calendar (phenological) - added harvest_readiness for flower + aerial-parts (provisional: PFAF
+  REF-3262 via the Galium album = Galium mollugo synonym; in flower June-September). PFAF''s album query
+  returns only a genus table, and theferns/Wikipedia gave no months - the synonym page was the seam.
+  Binomial confirmed via synonymy.'

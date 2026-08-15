@@ -71,6 +71,18 @@ harvesting:
   reference_ids:
   - REF-0453
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the deep root in autumn, from mature plants several years old."
+  basis: traditional
+  source_quote: "The root, which can be as thick as a person's arm and has few branches, is harvested in the autumn and dried for later use."
+  reference_ids:
+  - REF-3261
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3261); the thick root is dug in autumn from mature (several-year-old) plants. Single lineage -> provisional. SAFETY CRITICAL: non-flowering gentian rosettes are confused with the FATAL Veratrum album (white hellebore), which grows in the same alpine meadows and has caused fatal root poisonings - confirm identity before digging; see Dangerous Lookalikes."
 traditional_uses:
   text: Gentian root is one of the classic bitter digestive herbs of European tradition, used to stimulate
     appetite and digestive secretions for temporary loss of appetite and mild dyspeptic complaints, and
@@ -208,7 +220,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Gentianae radix;
   Molecules study of gentian iridoids and gastric stimulation). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss, nausea); associations
@@ -226,4 +238,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   bibliography. CORRECTION: lower bound 0.5 g -> 0.6 g per the monograph; daily dose 0.6-6 g and tincture 1
   mL 1-3x daily added; the vague ''shortly before meals'' replaced with the monograph''s ''half an hour
   before a meal'' for liquid preparations. Adults and elderly only. No new reference needed. status ->
-  verified.'
+  verified. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for root (provisional:
+  PFAF REF-3261; deep root dug in autumn from mature, several-year-old plants). SAFETY CRITICAL: fatal
+  Veratrum album (white hellebore) rosette/root confusion. Binomial confirmed.'

@@ -79,6 +79,32 @@ harvesting:
   reference_ids:
   - REF-0537
   status: verified
+harvest_readiness:
+- part: seed
+  signals:
+  - "Collect the seeds (fruits) when ripe in autumn, as they mature on the umbels."
+  basis: traditional
+  source_quote: "It is in flower from August to October, and the seeds ripen from September to October."
+  reference_ids:
+  - REF-3259
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3259); the seeds ripen in autumn (September-October). Single lineage -> provisional. SAFETY: fennel foliage and umbels resemble the fatal Conium maculatum (poison hemlock) - confirm identity before wild-gathering; see Dangerous Lookalikes."
+- part: leaf
+  signals:
+  - "Gather the fresh leaves through the growing season, while the plant is in active growth."
+  basis: traditional
+  source_quote: "can often be harvested all year round, especially if the plants are in a warm, sheltered position"
+  reference_ids:
+  - REF-3259
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3259); the leaves are gathered through the growing season (all year in mild spots). Single lineage -> provisional. SAFETY: see the Conium maculatum caution above."
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Foeniculum vulgare (only leaf, seed and bulb stages). The taproot would conventionally be dug in autumn, but no source stating that stage for this species was found, so no season is asserted. SAFETY: Conium maculatum (poison hemlock) is a fatal lookalike."
 traditional_uses:
   text: Fennel seed has an ancient Mediterranean and Asian tradition as a carminative digestive remedy
     for indigestion, bloating and colic (including infant colic, historically), a mild expectorant for
@@ -333,7 +359,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. Enriched
@@ -360,4 +386,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Culinary use'':
   The monograph covers the bitter fennel FRUIT as a herbal tea and in fact limits exposure because of
   estragole. It says nothing about leaf or bulb, and nothing about culinary use - a case where the source
-  arguably cuts against the claim.'
+  arguably cuts against the claim. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
+  for seed (provisional REF-3259, ripe in autumn) and leaf (provisional REF-3259, through the growing
+  season); root = GAP (no sourced timing). SAFETY: Conium maculatum (poison hemlock) fatal lookalike.
+  Binomial confirmed.'

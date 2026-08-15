@@ -46,6 +46,40 @@ harvesting:
   - Stem
   season: Spring to early summer
   status: draft
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the herb (leaf and stem) as it comes into flower, in late spring to early summer."
+  basis: traditional
+  source_quote: "It is harvested in May and June as it comes into flower and can be used fresh or dried for later use."
+  reference_ids:
+  - REF-3260
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3260); the cleavers herb is gathered as it comes into flower (May-June). Single lineage -> provisional."
+- part: stem
+  signals:
+  - "Gather the straggling stems with the leaf as the herb comes into flower, in late spring to early summer."
+  basis: traditional
+  source_quote: "It is harvested in May and June as it comes into flower and can be used fresh or dried for later use."
+  reference_ids:
+  - REF-3260
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3260); the stems are gathered with the herb as it comes into flower. Single lineage -> provisional."
+- part: seed
+  signals:
+  - "Collect the seeds (clinging burrs) when ripe in late summer to early autumn."
+  basis: traditional
+  source_quote: "It is in flower from June to August, and the seeds ripen from August to September."
+  reference_ids:
+  - REF-3260
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3260); the seeds (roasted as a coffee substitute) ripen in late summer to early autumn. Single lineage -> provisional."
 traditional_uses:
   text: Cleavers has a long European folk history as a lymphatic and diuretic 'spring tonic' herb, traditionally
     used to support the urinary system and lymphatic drainage, and topically as a soothing, emollient
@@ -230,7 +264,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -252,4 +286,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s
   Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket,
   mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
-  left unsourced at status draft rather than attached to a tangentially-related paper.'
+  left unsourced at status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for leaf + stem + seed (all provisional: PFAF REF-3260;
+  herb gathered as it comes into flower May-June, seeds ripen Aug-Sept). Binomial confirmed.'

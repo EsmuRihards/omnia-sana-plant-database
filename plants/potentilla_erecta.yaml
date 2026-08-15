@@ -59,6 +59,10 @@ harvesting:
   reference_ids:
   - REF-0520
   status: verified
+harvest_readiness:
+- part: rhizome
+  status: gap
+  notes: "GAP (documented dead end). No phenological source stating the rhizome-harvest stage for Potentilla erecta was found: both PFAF and Useful Temperate Plants (Ken Fern) give the flowering period (June-September) and use the rhizome medicinally but state no harvest season. (Tormentil rhizome is conventionally dug in autumn or early spring, but no source states that stage.) Next seams: Grieve's A Modern Herbal, or the EMA HMPC Potentilla erecta rhizoma monograph checked for a collection statement."
 traditional_uses:
   text: Tormentil rhizome has an official European herbal-monograph tradition for mild diarrhoea and inflammation
     of the mouth and throat, reflecting its long folk use as a powerful astringent for gut and mucous-membrane
@@ -217,7 +221,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs
   for Tormentillae rhizoma). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (diarrhea, sore-throat, ibd); associations retained and now part-mapped and cited. Further enriched
@@ -229,4 +233,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
   sourced from the existing EMA HMPC (REF-0520) and ESCOP (REF-0521) monographs plus the paediatric diarrhoea
-  RCT (REF-0602).'
+  RCT (REF-0602). | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for rhizome recorded as
+  GAP: neither PFAF nor Useful Temperate Plants gives a rhizome-harvest season for Potentilla erecta (only
+  the flowering period). Binomial confirmed (no timing to attach).'

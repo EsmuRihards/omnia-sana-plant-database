@@ -55,6 +55,18 @@ harvesting:
   - Bark
   season: Not standardised; sustainable/rotational harvesting recommended
   status: draft
+harvest_readiness:
+- part: bark
+  signals:
+  - "Strip the bark from mature trees on a sustainable rotation: take only two of the four quarters of the trunk circumference (opposite sides), from about 35 cm above ground to the first branch, leaving the cambium intact; the same tree can be re-harvested only every 4-5 years."
+  basis: traditional
+  source_quote: "the bark can be harvested sustainably every 4 - 5 years, harvesting from alternate pairs of quarters each time"
+  reference_ids:
+  - REF-3317
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3317); pygeum bark has no seasonal window - the readiness is tree maturity plus a 4-5 year recovery rotation, stripping only two opposite quarters at a time without damaging the cambium. Single lineage -> provisional. (Prunus africana is CITES-listed; over-harvest kills the tree.)"
 traditional_uses:
   text: Prunus africana bark has a traditional use in East and Central African ethnomedicine for urinary
     complaints, and its extract (marketed as Pygeum) became one of the most widely used European phytotherapy
@@ -171,7 +183,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journal of Urology review of
   phytotherapy for BPH). Further enriched 2026-06-13 with two PubMed systematic reviews - the Cochrane
   review of Pygeum africanum for BPH (REF-0547, Wilt et al. 2002) and a J Urol phytotherapy review (REF-0548,
@@ -185,4 +197,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journa
   references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields; botanical_description/habitat/harvesting are status:draft (well-known general
   facts, no dedicated botanical review in the largely-clinical BPH bucket), traditional_uses/preparations/dosage
-  cite the existing BPH phytotherapy review (REF-0496).'
+  cite the existing BPH phytotherapy review (REF-0496). | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for bark (provisional: Useful Tropical Plants REF-3317). No seasonal window; readiness =
+  tree maturity + a 4-5 year sustainable rotation (only 2 opposite quarters stripped, cambium intact).
+  CITES-listed. Binomial confirmed.'

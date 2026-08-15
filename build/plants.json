@@ -48670,6 +48670,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruiting-body",
+     "signals": [
+      "Harvest before the cap edges flatten out completely or flip up - while they still have a slight roll curled under, before heavy spore release."
+     ],
+     "basis": "traditional",
+     "source_quote": "The oyster mushrooms should be harvested before the edges of the caps flatten out completely or even flip up.",
+     "reference_ids": [
+      "REF-3318"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Fungi Ally (REF-3318) for Pleurotus ostreatus; harvest while the cap edges still have a slight roll (before they flatten or flip up), which also limits spore release. Single source -> provisional. SAFETY: the fatal angel wings (Pleurocybella porrigens) can be mistaken for oyster mushrooms - confirm identity; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Oyster mushroom is a widely eaten culinary mushroom with a growing modern reputation as a medicinal fungus, valued for immune support and general wellbeing. Contemporary research on its beta-glucan polysaccharides supports immunomodulatory, antioxidant, anticancer and cardiometabolic activity.",
     "reference_ids": [
@@ -48963,7 +48980,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "oyster-mushroom"
   },
   {
@@ -49041,6 +49058,13 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "status": "gap",
+     "notes": "GAP (documented dead end). No phenological source stating the rhizome-harvest stage for Potentilla erecta was found: both PFAF and Useful Temperate Plants (Ken Fern) give the flowering period (June-September) and use the rhizome medicinally but state no harvest season. (Tormentil rhizome is conventionally dug in autumn or early spring, but no source states that stage.) Next seams: Grieve's A Modern Herbal, or the EMA HMPC Potentilla erecta rhizoma monograph checked for a collection statement."
+    }
+   ],
    "traditional_uses": {
     "text": "Tormentil rhizome has an official European herbal-monograph tradition for mild diarrhoea and inflammation of the mouth and throat, reflecting its long folk use as a powerful astringent for gut and mucous-membrane complaints. Modern trials confirm its ellagitannin-rich rhizome shortens the duration of infectious (rotavirus) diarrhoea.",
     "reference_ids": [
@@ -49260,7 +49284,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "tormentil"
   },
   {
@@ -49314,6 +49338,68 @@
     "season": "Flower in spring; root/rhizome in autumn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowers in spring, as they open."
+     ],
+     "basis": "traditional",
+     "source_quote": "They are harvested in the spring and can be used fresh or dried.",
+     "reference_ids": [
+      "REF-3315"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3315); the flowers are gathered in spring (in flower April-May). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in spring, with the flowers."
+     ],
+     "basis": "traditional",
+     "source_quote": "They are harvested in the spring and can be used fresh or dried.",
+     "reference_ids": [
+      "REF-3315"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3315); the leaf is gathered in spring with the flowers. Single lineage -> provisional."
+    },
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in spring or autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root can be harvested in the spring or autumn and is dried for later use.",
+     "reference_ids": [
+      "REF-3315"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3315); the root is dug in spring or autumn. Single lineage -> provisional."
+    },
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the rhizome with the root in spring or autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root can be harvested in the spring or autumn and is dried for later use.",
+     "reference_ids": [
+      "REF-3315"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3315); the rhizome is dug with the root in spring or autumn. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Cowslip has a long European folk tradition as an expectorant remedy for coughs and bronchial catarrh, and the flowers have traditionally been used as a mild sedative and for headache. Modern research on its saponin-rich root supports secretolytic (mucus-thinning) expectorant activity, and its flowers are rich in antioxidant phenolics.",
     "reference_ids": [
@@ -49532,7 +49618,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "cowslip"
   },
   {
@@ -49619,6 +49705,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the flower spikes in mid-summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "For drying it is best harvested in mid-summer.",
+     "reference_ids": [
+      "REF-3316"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3316); best harvested in mid-summer while in flower (in flower July-September). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering tops in mid-summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "For drying it is best harvested in mid-summer.",
+     "reference_ids": [
+      "REF-3316"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3316); the leaf is gathered with the flowering tops in mid-summer. Single lineage -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the stems with the flowering tops in mid-summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "For drying it is best harvested in mid-summer.",
+     "reference_ids": [
+      "REF-3316"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3316); the stem is gathered with the flowering tops in mid-summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Selfheal has an extremely broad folk-medicine reputation across European, North American and Traditional Chinese Medicine traditions - as its name suggests, used as an all-purpose wound herb, gargle for sore throat, and internal remedy for fevers and inflammation. Modern research on its triterpenoid, phenolic and polysaccharide constituents supports wide-ranging antioxidant, anti-inflammatory, antimicrobial and antiviral activity.",
     "reference_ids": [
@@ -50009,7 +50142,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18",
+   "last_updated": "2026-08-15",
    "common_slug": "selfheal"
   },
   {
@@ -50079,6 +50212,23 @@
     "season": "Not standardised; sustainable/rotational harvesting recommended",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "bark",
+     "signals": [
+      "Strip the bark from mature trees on a sustainable rotation: take only two of the four quarters of the trunk circumference (opposite sides), from about 35 cm above ground to the first branch, leaving the cambium intact; the same tree can be re-harvested only every 4-5 years."
+     ],
+     "basis": "traditional",
+     "source_quote": "the bark can be harvested sustainably every 4 - 5 years, harvesting from alternate pairs of quarters each time",
+     "reference_ids": [
+      "REF-3317"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3317); pygeum bark has no seasonal window - the readiness is tree maturity plus a 4-5 year recovery rotation, stripping only two opposite quarters at a time without damaging the cambium. Single lineage -> provisional. (Prunus africana is CITES-listed; over-harvest kills the tree.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Prunus africana bark has a traditional use in East and Central African ethnomedicine for urinary complaints, and its extract (marketed as Pygeum) became one of the most widely used European phytotherapy remedies for benign prostatic hyperplasia (BPH) symptoms in the 20th century. Clinical evidence for symptom benefit is moderate but drawn from small, methodologically weak trials.",
     "reference_ids": [
@@ -50233,7 +50383,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "pygeum"
   },
   {

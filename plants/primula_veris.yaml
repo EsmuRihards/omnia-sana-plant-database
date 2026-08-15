@@ -44,6 +44,51 @@ harvesting:
   - Root/rhizome
   season: Flower in spring; root/rhizome in autumn
   status: draft
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flowers in spring, as they open."
+  basis: traditional
+  source_quote: "They are harvested in the spring and can be used fresh or dried."
+  reference_ids:
+  - REF-3315
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3315); the flowers are gathered in spring (in flower April-May). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves in spring, with the flowers."
+  basis: traditional
+  source_quote: "They are harvested in the spring and can be used fresh or dried."
+  reference_ids:
+  - REF-3315
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3315); the leaf is gathered in spring with the flowers. Single lineage -> provisional."
+- part: root
+  signals:
+  - "Dig the root in spring or autumn."
+  basis: traditional
+  source_quote: "The root can be harvested in the spring or autumn and is dried for later use."
+  reference_ids:
+  - REF-3315
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3315); the root is dug in spring or autumn. Single lineage -> provisional."
+- part: rhizome
+  signals:
+  - "Dig the rhizome with the root in spring or autumn."
+  basis: traditional
+  source_quote: "The root can be harvested in the spring or autumn and is dried for later use."
+  reference_ids:
+  - REF-3315
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3315); the rhizome is dug with the root in spring or autumn. Single lineage -> provisional."
 traditional_uses:
   text: Cowslip has a long European folk tradition as an expectorant remedy for coughs and bronchial catarrh,
     and the flowers have traditionally been used as a mild sedative and for headache. Modern research
@@ -211,7 +256,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -222,4 +267,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing phytochemistry papers (REF-0875, REF-0879, REF-0878,
   REF-0871, REF-0873) and the respiratory-infection mechanistic review (REF-0870) plus the Duke-sourced
-  dosage already cited in contraindications.'
+  dosage already cited in contraindications. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for flower + leaf (spring) and root + rhizome (spring or autumn), all provisional: PFAF
+  REF-3315. Single lineage. Binomial confirmed.'

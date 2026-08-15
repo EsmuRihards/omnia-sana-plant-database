@@ -42,6 +42,18 @@ harvesting:
   reference_ids:
   - REF-2627
   status: verified
+harvest_readiness:
+- part: fruiting-body
+  signals:
+  - "Harvest before the cap edges flatten out completely or flip up - while they still have a slight roll curled under, before heavy spore release."
+  basis: traditional
+  source_quote: "The oyster mushrooms should be harvested before the edges of the caps flatten out completely or even flip up."
+  reference_ids:
+  - REF-3318
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Fungi Ally (REF-3318) for Pleurotus ostreatus; harvest while the cap edges still have a slight roll (before they flatten or flip up), which also limits spore release. Single source -> provisional. SAFETY: the fatal angel wings (Pleurocybella porrigens) can be mistaken for oyster mushrooms - confirm identity; see Dangerous Lookalikes."
 traditional_uses:
   text: Oyster mushroom is a widely eaten culinary mushroom with a growing modern reputation as a medicinal
     fungus, valued for immune support and general wellbeing. Contemporary research on its beta-glucan
@@ -261,7 +273,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -275,4 +287,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   fungal-field pattern from an earlier batch), other fields cite the existing immunity/polysaccharide
   reviews (REF-1496, REF-1500, REF-1502, REF-1504, REF-1505). | 2026-07-13: added anticancer action (where
   absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature,
-  as part of the cancer-condition campaign.'
+  as part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for fruiting-body (provisional: Fungi Ally REF-3318; harvest before cap edges flatten or
+  flip up). SAFETY: fatal angel wings (Pleurocybella porrigens) lookalike. Binomial confirmed.'

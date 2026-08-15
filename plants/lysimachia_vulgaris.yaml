@@ -54,6 +54,43 @@ harvesting:
   reference_ids:
   - REF-2796
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts (herb) in summer, while in flower."
+  basis: traditional
+  source_quote: "It is harvested when in flower in July and dried for later use."
+  reference_ids:
+  - REF-3290
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3290); the flowering herb is gathered while in flower (in flower April-September). Single lineage -> provisional."
+- part: flower
+  signals:
+  - "Gather the yellow flowers in summer, while in flower."
+  basis: traditional
+  source_quote: "It is harvested when in flower in July and dried for later use."
+  reference_ids:
+  - REF-3290
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3290); the flowers are gathered with the flowering herb in summer. Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowering herb in summer."
+  basis: traditional
+  source_quote: "It is harvested when in flower in July and dried for later use."
+  reference_ids:
+  - REF-3290
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3290); the leaf is gathered with the flowering herb in summer. Single lineage -> provisional."
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Lysimachia vulgaris (only the flowering-herb stage). No sourced stage for the root, so none is asserted."
 traditional_uses:
   text: 'Yellow loosestrife has a European folk-medicine reputation as an astringent and styptic: the
     flavonoid- and tannin-rich herb was used to stop bleeding (nosebleeds, wounds), for diarrhoea and
@@ -306,7 +343,7 @@ lookalikes_review:
   - REF-2796
 provenance: pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent for this plant failed
   on the session limit). 15 refs REF-2793..REF-2807: 9 genuine Lysimachia vulgaris (incl. var. davurica,
   a variety of the species - PCSK9/lipid-lowering, liver-fibrosis/NASH, IBS-D, antibacterial/antitumor/antioxidant,
@@ -332,4 +369,6 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   asserts a source was checked against, and none exists. Demoted to ''needs-review'', which is what the
   data actually merits. Sourcing an absence is possible (cf. the euphrasia precedent, where an EMA public
   statement was cited as the authority for there being no established posology) and is the proper fix
-  if a seam opens.'
+  if a seam opens. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts +
+  flower + leaf (all provisional: PFAF REF-3290, gathered while in flower in summer); root = GAP (no sourced
+  timing). Binomial confirmed.'

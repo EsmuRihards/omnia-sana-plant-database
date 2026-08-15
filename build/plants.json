@@ -36235,6 +36235,58 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts (herb) in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is harvested when in flower in July and dried for later use.",
+     "reference_ids": [
+      "REF-3290"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3290); the flowering herb is gathered while in flower (in flower April-September). Single lineage -> provisional."
+    },
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the yellow flowers in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is harvested when in flower in July and dried for later use.",
+     "reference_ids": [
+      "REF-3290"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3290); the flowers are gathered with the flowering herb in summer. Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering herb in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is harvested when in flower in July and dried for later use.",
+     "reference_ids": [
+      "REF-3290"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3290); the leaf is gathered with the flowering herb in summer. Single lineage -> provisional."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Lysimachia vulgaris (only the flowering-herb stage). No sourced stage for the root, so none is asserted."
+    }
+   ],
    "traditional_uses": {
     "text": "Yellow loosestrife has a European folk-medicine reputation as an astringent and styptic: the flavonoid- and tannin-rich herb was used to stop bleeding (nosebleeds, wounds), for diarrhoea and dysentery, as a gargle and wash for mouth ulcers and sore throat, and to soothe inflammation. The dried herb was also burned to repel insects. More broadly, the genus Lysimachia is important in East Asian medicine - the closely related L. vulgaris var. davurica is used for liver and digestive complaints, while other congeners such as L. christinae (jin qian cao) are classic remedies for urinary and gallstones - reflecting a shared saponin and flavonoid chemistry.",
     "reference_ids": [
@@ -36584,7 +36636,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20"
+   "last_updated": "2026-08-15"
   },
   {
    "id": "mahonia-aquifolium",
@@ -36643,6 +36695,23 @@
     "season": "Autumn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root and root bark in autumn (or in early spring); the golden-yellow inner bark and wood carry the berberine."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root and root bark are best harvested in the autumn.",
+     "reference_ids": [
+      "REF-3291"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3291); the root and root bark are best dug in autumn (also given as 'late autumn or early spring'). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Oregon grape root has a traditional Native American and Eclectic-medicine history as a bitter tonic and alterative (blood-purifying) remedy and for skin conditions. Its main modern use, supported by clinical trials, is topical application of a standardised bark extract for mild-to-moderate psoriasis and atopic dermatitis (eczema), where its berberine-type alkaloids give anti-inflammatory and antiproliferative effects on skin cells.",
     "reference_ids": [
@@ -36836,7 +36905,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "oregon-grape"
   },
   {
@@ -36938,6 +37007,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowers in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The flowers are harvested in the summer and can be dried for later use.",
+     "reference_ids": [
+      "REF-3287"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3287); the flowers are gathered in summer (in flower June-September). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in spring, or fresh through the season while available."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves can be used fresh whenever they are available or can be harvested in the spring and dried for later use.",
+     "reference_ids": [
+      "REF-3287"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3287); the leaves are gathered in spring, or fresh through the season. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Mallow leaf and flower have a long ethnobotanical history across Europe as a demulcent for irritated mucous membranes - soothing coughs, sore throat and mouth irritation - and for occasional constipation and skin irritation, reflecting the mucilage-rich leaf and flower. Modern phytochemical and pharmacological work confirms antioxidant, anti-inflammatory, antimicrobial and wound-healing activity of its extracts.",
     "reference_ids": [
@@ -37240,7 +37341,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "mallow"
   },
   {
@@ -37331,6 +37432,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the flowering aerial parts (herb) as the plant comes into flower, from early summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested as it comes into flower and can be used fresh or dried.",
+     "reference_ids": [
+      "REF-3288"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3288); the flowering herb is cut as it comes into flower (long flowering June-November). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "White horehound has a long European and Mediterranean folk-medicine history as a bitter expectorant for coughs, bronchitis and catarrh, and as a digestive bitter for poor appetite and dyspepsia. It is one of the classic ingredients of traditional cough syrups and horehound candy. A modern critical review found reasonable, though not conclusive, scientific support for these traditional respiratory and digestive uses.",
     "reference_ids": [
@@ -37565,7 +37683,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "horehound"
   },
   {
@@ -37621,6 +37739,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Pick the flowerheads when fully open, in early-to-mid summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The flowers are harvested when fully open and are dried for later use.",
+     "reference_ids": [
+      "REF-3289"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3289); the flowerheads are picked when fully open (in flower June-July). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Chamomile is one of the most widely used medicinal herbs in the world, with a long traditional history as a mild digestive, calming and anti-inflammatory remedy - taken as a tea for indigestion, cramping, and restlessness or poor sleep, and applied topically for skin and mucous-membrane inflammation and wound healing. Modern reviews confirm anti-inflammatory, antispasmodic, sedative/anxiolytic and antimicrobial pharmacological activity supporting these traditional uses.",
     "reference_ids": [
@@ -38247,7 +38382,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "chamomile"
   },
   {

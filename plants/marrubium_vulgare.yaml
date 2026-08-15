@@ -71,6 +71,18 @@ harvesting:
   - REF-0468
   - REF-0927
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Cut the flowering aerial parts (herb) as the plant comes into flower, from early summer."
+  basis: traditional
+  source_quote: "The plant is harvested as it comes into flower and can be used fresh or dried."
+  reference_ids:
+  - REF-3288
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3288); the flowering herb is cut as it comes into flower (long flowering June-November). Single lineage -> provisional."
 traditional_uses:
   text: White horehound has a long European and Mediterranean folk-medicine history as a bitter expectorant
     for coughs, bronchitis and catarrh, and as a digestive bitter for poor appetite and dyspepsia. It
@@ -228,7 +240,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Marrubii herba; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, bloating); associations retained and now part-mapped and
@@ -242,4 +254,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   monograph-base fields, sourced from the existing EMA HMPC (REF-0468) and ESCOP (REF-0469) monographs
   plus the phytomedicine review REF-0921/REF-0927. | 2026-07-13: added anticancer action (where absent)
   + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
-  part of the cancer-condition campaign.'
+  part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for aerial-parts (provisional: PFAF REF-3288, flowering herb cut as it comes into
+  flower). Single lineage. Binomial confirmed.'

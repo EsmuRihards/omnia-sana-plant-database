@@ -78,6 +78,29 @@ harvesting:
   reference_ids:
   - REF-0480
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flowers in summer, while in flower."
+  basis: traditional
+  source_quote: "The flowers are harvested in the summer and can be dried for later use."
+  reference_ids:
+  - REF-3287
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3287); the flowers are gathered in summer (in flower June-September). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves in spring, or fresh through the season while available."
+  basis: traditional
+  source_quote: "The leaves can be used fresh whenever they are available or can be harvested in the spring and dried for later use."
+  reference_ids:
+  - REF-3287
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3287); the leaves are gathered in spring, or fresh through the season. Single lineage -> provisional."
 traditional_uses:
   text: Mallow leaf and flower have a long ethnobotanical history across Europe as a demulcent for irritated
     mucous membranes - soothing coughs, sore throat and mouth irritation - and for occasional constipation
@@ -278,7 +301,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Malvae folium
   / flos). Further enriched 2026-06-13 with two PubMed phytochemistry/pharmacology reviews (REF-0541,
   Paul et al. 2024; REF-0542, Batiha et al. 2022) that added antioxidant, antibacterial and anti-inflammatory/analgesic
@@ -291,4 +314,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monogr
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0480) and ethnobotanical review
   (REF-1184). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
+  2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower (summer) + leaf (spring)
+  (both provisional: PFAF REF-3287). Single lineage. Binomial confirmed.'

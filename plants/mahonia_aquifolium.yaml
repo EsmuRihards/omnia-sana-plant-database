@@ -51,6 +51,18 @@ harvesting:
   - Bark
   season: Autumn
   status: draft
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root and root bark in autumn (or in early spring); the golden-yellow inner bark and wood carry the berberine."
+  basis: traditional
+  source_quote: "The root and root bark are best harvested in the autumn."
+  reference_ids:
+  - REF-3291
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3291); the root and root bark are best dug in autumn (also given as 'late autumn or early spring'). Single lineage -> provisional."
 traditional_uses:
   text: Oregon grape root has a traditional Native American and Eclectic-medicine history as a bitter
     tonic and alterative (blood-purifying) remedy and for skin conditions. Its main modern use, supported
@@ -189,7 +201,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Clin Aesthet Dermatol review
   of topical Mahonia for psoriasis/eczema; Herbal Reality monograph). Mahonia aquifolium = Berberis aquifolium.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (psoriasis, eczema,
@@ -204,4 +216,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J C
   so botanical_description/habitat/harvesting are status:draft general botanical facts with no fabricated
   citation, while traditional_uses/preparations/dosage cite the existing psoriasis/eczema clinical sources.
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
-  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15:
+  Harvest Calendar (phenological) - added harvest_readiness for root (provisional: PFAF REF-3291, root and
+  root bark best dug in autumn, or early spring). Single lineage. Binomial confirmed.'

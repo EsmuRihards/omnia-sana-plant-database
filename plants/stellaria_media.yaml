@@ -189,9 +189,9 @@ indications:
   status: needs-review
 contraindications:
 - note: 'Don’t overdo it as food: some wild-edible-plant research flags chickweed among plants checked
-    for oxalic acid / nitrates—fine in normal amounts, but “huge daily servings” aren’t a smart idea for
+    for oxalic acid / nitrates-fine in normal amounts, but “huge daily servings” aren’t a smart idea for
     everyone. (Guil et al., 1997). Kidney stones / high-oxalate diets: if you’re prone to calcium-oxalate
-    stones, treat chickweed like other higher-oxalate greens—moderation. (Guil et al., 1997). Possible
+    stones, treat chickweed like other higher-oxalate greens-moderation. (Guil et al., 1997). Possible
     stomach upset in large amounts (nausea/diarrhea reported anecdotally; some sources link this to saponins
     and “too much fresh herb”). (Singh et al., 2022). Pregnancy / breastfeeding: because good human data
     is limited, many herbal references advise sticking to food amounts or avoiding medicinal dosing unless
@@ -203,7 +203,7 @@ contraindications:
   - REF-0245
   status: verified
 - note: Duke (2002) notes that chickweed has primarily folkloric (score f) activity as a demulcent, emollient,
-    and depurative. Its main medicinal applications are external — including soothing inflamed skin, eczema,
+    and depurative. Its main medicinal applications are external - including soothing inflamed skin, eczema,
     and itching. No strong clinical evidence supports specific internal medicinal uses. The plant contains
     flavonoids and coumarins. It is considered generally safe as a dietary green and in topical preparations,
     though no standardized dosages are established (Duke, 2002).
@@ -299,10 +299,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0900, REF-0901, REF-0902, REF-0903, REF-0904,
-  REF-0905, REF-0906, REF-0907, REF-0908, REF-0909) — woven into relevant actions/indications and the
+  REF-0905, REF-0906, REF-0907, REF-0908, REF-0909) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing phytochemistry/pharmacology review (REF-0900) and the
   Encyclopedia of Medicinal Plants (REF-0048). | 2026-08-15: Harvest Calendar (phenological) - added

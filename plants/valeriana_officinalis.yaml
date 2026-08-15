@@ -314,10 +314,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1348, REF-1349, REF-1350, REF-1351, REF-1352,
-  REF-1353, REF-1354, REF-1355, REF-1356, REF-1357) — woven into relevant actions/indications and the
+  REF-1353, REF-1354, REF-1355, REF-1356, REF-1357) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
   harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
   bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-19 (orphan sweep): REF-0092 (Garges 1998, cardiac complications and delirium associated with valerian root withdrawal) was orphaned. It is a genuine safety signal for this species and is now in the references bucket. CANDIDATE for a withdrawal/discontinuation contraindication - deliberately not written as one here, because a single case report needs reading in full before it becomes a published safety claim. | 2026-08-15:

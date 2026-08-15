@@ -223,7 +223,7 @@ indications:
   - REF-0172
   status: needs-review
 contraindications:
-- note: Culinary use is entirely safe. At very high doses (5g+), saffron can be toxic — but such doses
+- note: Culinary use is entirely safe. At very high doses (5g+), saffron can be toxic - but such doses
     far exceed culinary or therapeutic amounts. Avoid medicinal doses during pregnancy (uterine stimulant).
     May interact with antidepressants. High quality saffron is often adulterated; verify source.
   severity: caution
@@ -233,7 +233,7 @@ contraindications:
   - REF-0172
   status: verified
 - note: 'Duke (2002) rates saffron as ++ and provides a critical safety warning: abortifacient activity
-    has clinical support (score 2), meaning that medicinal doses can induce abortion — saffron is strictly
+    has clinical support (score 2), meaning that medicinal doses can induce abortion - saffron is strictly
     contraindicated in pregnancy at doses above culinary amounts. The plant also shows antidepressant,
     antioxidant, and antitumor activities at the experimental level (score 1). Dose (culinary): 0.5 g
     stigmas as flavoring; medicinal doses above 5 g are considered potentially toxic. Duke notes that
@@ -338,12 +338,12 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
   references to the plant-level references bucket (least-cited enrichment): REF-0788, REF-0789, REF-0790.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0789,
-  REF-2001, REF-2002, REF-2003, REF-2004, REF-2005, REF-2006, REF-2007, REF-2008, REF-2009, REF-2010)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  REF-2001, REF-2002, REF-2003, REF-2004, REF-2005, REF-2006, REF-2007, REF-2008, REF-2009, REF-2010) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
@@ -354,7 +354,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ("derived exclusively from dried stigmas"); Bukhari et al. 2018 Biomed Pharmacother 98:733-745 doi:10.1016/j.biopha.2017.12.090
   ("saffron of commercial importance comprises of dried stigmas"); Xing et al. 2021 J Ethnopharmacol 281:114555
   doi:10.1016/j.jep.2021.114555 ("the dried red stigma of the perennial herb Crocus sativus L."). Not
-  wired as reference_ids because parts_used carries no reference_ids field in plant.schema.json — recorded
+  wired as reference_ids because parts_used carries no reference_ids field in plant.schema.json - recorded
   here instead so the correction is auditable. Adding these as bibliography entries with nothing to cite
   them from would create orphans, which osdb-verify-integrity would then instruct a later session to delete.
   D6 (entity gap) 2026-07-20: this plant named a defining constituent that had NO entity in compounds/,

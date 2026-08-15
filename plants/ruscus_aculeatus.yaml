@@ -213,7 +213,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica p
   migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
   Unmapped uses kept for reference: Supports orthostatic (postural) hypotension (traditional). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1553, REF-1554,
-  REF-1555, REF-1556, REF-0424, REF-1557, REF-1558, REF-1559, REF-1560, REF-1561) — woven into relevant
+  REF-1555, REF-1556, REF-0424, REF-1557, REF-1558, REF-1559, REF-1560, REF-1561) - woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing steroidal-saponin review (REF-0424) and venous-insufficiency
   review (REF-0425). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for rhizome

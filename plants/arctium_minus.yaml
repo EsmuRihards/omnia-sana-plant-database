@@ -72,7 +72,7 @@ harvest_readiness:
 - part: root
   signals:
   - "Dig the root from first-year plants (the basal leaf-rosette stage, before the plant bolts and flowers in its second year); the best, official root comes from young first-year plants."
-  - "SAFETY: burdock root is confusable with the root of deadly nightshade (Atropa belladonna), a fatal confusion. Confirm identity before digging — see this plant's Dangerous Lookalikes."
+  - "SAFETY: burdock root is confusable with the root of deadly nightshade (Atropa belladonna), a fatal confusion. Confirm identity before digging - see this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "The dried root of one year old plants is the official herb, but the leaves and fruits can also be used"
   reference_ids:
@@ -84,7 +84,7 @@ harvest_readiness:
 - part: leaf
   signals:
   - "Gather the leaves young, in the first-year rosette, while tender."
-  - "SAFETY: confirm identity before gathering — burdock is confusable with deadly nightshade (Atropa belladonna). See this plant's Dangerous Lookalikes."
+  - "SAFETY: confirm identity before gathering - burdock is confusable with deadly nightshade (Atropa belladonna). See this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "Young leaves and leaf stems - raw or cooked"
   reference_ids:
@@ -319,7 +319,7 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket
   (least-cited enrichment): REF-0723, REF-0722, REF-0724. | 2026-06-20: enriched to >=10 scientific
   publications: added 11 PubMed-verified @article sources (REF-1924, REF-1925, REF-1926, REF-1927, REF-1928,
-  REF-1929, REF-1930, REF-1931, REF-1932, REF-1933, REF-1934) — woven into relevant actions/indications and
+  REF-1929, REF-1930, REF-1931, REF-1932, REF-1933, REF-1934) - woven into relevant actions/indications and
   the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
@@ -337,6 +337,6 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   WRONG SPECIES: the EMA monograph Arctii radix covers Arctium LAPPA (greater burdock), sourced separately
   on that record at REF-3088. A. minus (lesser burdock) is a different species and the posology does not
   transfer. | 2026-08-14 (harvest-calendar campaign, Batch 4): added harvest_readiness for root + leaf
-  (provisional) — first-year root (basal-rosette stage, before bolting) and young first-year leaf, sourced
+  (provisional) - first-year root (basal-rosette stage, before bolting) and young first-year leaf, sourced
   to Useful Temperate Plants (REF-3205, Arctium minus). Safety cross-link to the FATAL deadly-nightshade
   (Atropa belladonna) root confusion. Existing harvesting.season not inherited.'

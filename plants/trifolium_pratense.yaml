@@ -317,7 +317,7 @@ indications:
   - REF-2890
   status: needs-review
 contraindications:
-- note: Generally safe in normal dietary amounts. Isoflavones are phytoestrogens — exercise caution in
+- note: Generally safe in normal dietary amounts. Isoflavones are phytoestrogens - exercise caution in
     oestrogen-receptor-positive breast cancer patients or those taking hormone therapies. May interact
     with warfarin (antiplatelet activity). Avoid in pregnancy and breastfeeding. Well tolerated in most
     adults.
@@ -327,8 +327,8 @@ contraindications:
   - REF-0036
   - REF-0112
   status: verified
-- note: 'Duke (2002) rates red clover as +++ and provides clinical evidence (score 2) for estrogenic activity
-    — the plant is one of the richest plant sources of isoflavones (formononetin, biochanin A, daidzein,
+- note: 'Duke (2002) rates red clover as +++ and provides clinical evidence (score 2) for estrogenic activity -
+    the plant is one of the richest plant sources of isoflavones (formononetin, biochanin A, daidzein,
     genistein). Clinical applications include menopausal symptom relief, osteoporosis prevention, and
     cardiovascular protection in peri-menopausal women. Dose: standardized extract providing 40–160 mg
     isoflavones daily. Duke cautions that due to strong estrogenic activity, red clover is not recommended
@@ -404,12 +404,12 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1104, REF-1105, REF-1106, REF-1107, REF-1108,
-  REF-1109, REF-1110, REF-1111, REF-1112, REF-1113) — woven into relevant actions/indications and the
+  REF-1109, REF-1110, REF-1111, REF-1112, REF-1113) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-06-27: enriched to >=15 scientific publications: added 4 PubMed-verified
-  @article sources (REF-1104, REF-2344, REF-2345, REF-2346) — woven into relevant actions/indications
+  @article sources (REF-1104, REF-2344, REF-2345, REF-2346) - woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-12: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
   references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-17: enriched with 12 PubMed-verified @article sources (REF-2889..REF-2900) spanning anticancer (glioblastoma C6, breast MDA-MB-231/MCF-7 sprouts, 4T1 TNBC + doxorubicin synergy, B-ALL leukemia, plus a pharmacological/anti-cancer overview), neuroprotective/cognitive (isoflavone neurodegeneration review), antidiabetic (hypoglycemic polysaccharides, exosome STZ-diabetic rats), antimicrobial/antiparasitic (anticoccidial phytogenic; combined T. pratense+basil antibacterial/wound review), cardiovascular (ferroptosis/iron-homeostasis) and phytochemistry (DESIGNER minor bioactives); added anticancer/neuroprotective/antidiabetic/antimicrobial/vulnerary actions + cancer/blood-sugar/cognitive-function/wounds indications and wove refs into existing claims + references bucket. | 2026-07-18: added 12 more sources (REF-2923..2934) via OpenAlex (not PubMed) for database diversity, spanning cognitive/neuroprotective (formononetin PGC-1a cognition + neuroprotection review; biochanin A anti-beta-amyloid), cardiovascular (biochanin A myocardial I/R), anti-inflammatory/immune (red-clover anthocyanins in LPS macrophages; biochanin A arthritis resolution), anticancer (red clover+doxorubicin synergy in 4T1 TNBC and brain/lung metastasis; antiproliferative in MCF-7/MDA-MB-231), antidiabetic (pancreatic beta-cell protection vs streptozotocin), antioxidant phytochemistry and wound-healing hydrogel. Several are studies of red clover''s signature isoflavones (formononetin, biochanin A) that cite T. pratense as source. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower + leaf (both provisional: PFAF REF-3353, gathered as the plant comes into flower). Single lineage. Binomial confirmed.'

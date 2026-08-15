@@ -51,8 +51,8 @@ harvesting:
 harvest_readiness:
 - part: leaf
   signals:
-  - "Gather the leaves (cilantro) while young, before the plant runs up to flower — once it blooms, gather and store the remaining foliage, as flowering spoils the leaf."
-  - "SAFETY: coriander is an Apiaceae confusable with the FATAL poison hemlock (Conium maculatum) and fool's parsley (Aethusa cynapium); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  - "Gather the leaves (cilantro) while young, before the plant runs up to flower - once it blooms, gather and store the remaining foliage, as flowering spoils the leaf."
+  - "SAFETY: coriander is an Apiaceae confusable with the FATAL poison hemlock (Conium maculatum) and fool's parsley (Aethusa cynapium); confirm identity before gathering - see this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "Once coriander's first bloom unfolds, harvest and store all remaining foliage."
   reference_ids:
@@ -64,7 +64,7 @@ harvest_readiness:
 - part: stem
   signals:
   - "Gather the tender stems with the young leaves (cilantro), before the plant comes into flower."
-  - "SAFETY: confirm identity before gathering — coriander is confusable with FATAL Apiaceae (poison hemlock, fool's parsley). See this plant's Dangerous Lookalikes."
+  - "SAFETY: confirm identity before gathering - coriander is confusable with FATAL Apiaceae (poison hemlock, fool's parsley). See this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "Once coriander's first bloom unfolds, harvest and store all remaining foliage."
   reference_ids:
@@ -262,7 +262,7 @@ contraindications:
     seed powder has shown blood-sugar improvements in a small human trial, so it may add to the effect
     of glucose-lowering meds (Zamany et al., 2025). • Essential oil is not the same as the spice. Coriander
     essential oil is highly concentrated and should not be taken internally in “DIY doses.” It can be
-    irritating, and safety data are discussed mainly for food-flavouring levels—not self-prescribed medicinal
+    irritating, and safety data are discussed mainly for food-flavouring levels-not self-prescribed medicinal
     dosing (Burdock & Carabin, 2009). • Pregnancy / breastfeeding: normal culinary amounts are generally
     considered fine; “medicinal-dose” supplements or essential oil are best avoided unless guided by a
     qualified professional because safety data at higher doses is limited (Burdock & Carabin, 2009).'
@@ -276,7 +276,7 @@ contraindications:
     stimulant) and digestive tonic, consistent with Commission E approval. It demonstrates antispasmodic,
     carminative, and antifungal activities at the experimental level. Dose: 1–3 g crushed fruits (seeds)
     three times daily, or equivalent preparations. Duke notes mild hypoglycemic activity and a potential
-    antiimplantation effect in high doses — use with caution in women attempting pregnancy (Duke, 2002).'
+    antiimplantation effect in high doses - use with caution in women attempting pregnancy (Duke, 2002).'
   severity: caution
   reference_ids:
   - REF-0151
@@ -363,12 +363,12 @@ status: verified
 last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  for this plant is attached to each action rather than split per action. constituents not yet extracted -
   manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
   out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
   references bucket (least-cited enrichment): REF-0779, REF-0780, REF-0781. | 2026-06-20: enriched to >=10
   scientific publications: added 11 PubMed-verified @article sources (REF-1700, REF-1701, REF-1702,
-  REF-0780, REF-1703, REF-1704, REF-0781, REF-1705, REF-1706, REF-1707, REF-1708) — woven into relevant
+  REF-0780, REF-1703, REF-1704, REF-0781, REF-1705, REF-1706, REF-1707, REF-1708) - woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
   sourced from the existing references bucket; general/undated claims marked status: draft per the
@@ -382,7 +382,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
   status draft rather than attached to a tangentially-related paper. | 2026-08-14 (harvest-calendar campaign,
-  Batch 9): added harvest_readiness — leaf + stem provisional (gather before/at flowering; flowering spoils
+  Batch 9): added harvest_readiness - leaf + stem provisional (gather before/at flowering; flowering spoils
   the leaf); seed provisional (cut seed heads when light brown/ripe); root gap. Sourced to Plantura
   (REF-3233, Coriandrum sativum). Safety cross-links to the FATAL poison-hemlock / fool''s-parsley Apiaceae
   lookalikes. Existing harvesting.season not inherited.'

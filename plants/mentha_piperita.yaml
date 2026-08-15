@@ -337,8 +337,8 @@ indications:
   - REF-3050
   status: needs-review
 contraindications:
-- note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children
-    — menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing
+- note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children -
+    menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing
     drugs. May worsen GERD by relaxing the lower oesophageal sphincter. Avoid in bile duct obstruction
     and gallstones.
   severity: caution
@@ -404,10 +404,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1203, REF-1204, REF-1205, REF-1206, REF-1207,
-  REF-1208, REF-1209, REF-1210, REF-1211, REF-1212) — woven into relevant actions/indications and the
+  REF-1208, REF-1209, REF-1210, REF-1211, REF-1212) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing ethnomedicinal/phytochemical reviews (REF-1203, REF-1204,
   REF-1205, REF-1206) plus the Duke-sourced dosage already cited in contraindications. | 2026-07-18: added

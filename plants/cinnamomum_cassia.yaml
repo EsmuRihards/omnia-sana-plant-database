@@ -222,10 +222,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Famil
   lipid profile and BMI). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
   out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added
   10 PubMed-verified @article sources (REF-1819, REF-1820, REF-1821, REF-1822, REF-1823, REF-1824, REF-1825,
-  REF-1826, REF-1827, REF-1828) — woven into relevant actions/indications and the plant-level references
+  REF-1826, REF-1827, REF-1828) - woven into relevant actions/indications and the plant-level references
   bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
   draft per the integrity-first sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 8): added
-  harvest_readiness for the bark (provisional) — cut coppiced stems and peel the inner bark in the rainy
+  harvest_readiness for the bark (provisional) - cut coppiced stems and peel the inner bark in the rainy
   season, when the bark is most pliable; sourced to RawSpiceBar (REF-3230, which names Cinnamomum cassia).
   No prior harvesting.season existed.'

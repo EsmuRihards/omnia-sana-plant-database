@@ -277,7 +277,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Fro
   cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
   @article sources (REF-1213, REF-1214, REF-1215, REF-1216, REF-1217, REF-1218, REF-1219, REF-1220, REF-1221,
-  REF-1222) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  REF-1222) - woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
   added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields;
   botanical_description is status:draft (well-known general morphology, no dedicated botanical review
   in the largely-clinical bucket), other fields cite the existing REF-0412 phytochemistry/safety review

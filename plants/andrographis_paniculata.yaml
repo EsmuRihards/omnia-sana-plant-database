@@ -282,7 +282,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLo
   retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 9 PubMed-verified @article sources (REF-1615, REF-1616, REF-1617, REF-1618, REF-1619,
-  REF-1620, REF-1621, REF-1622, REF-1623) — woven into relevant actions/indications and the plant-level
+  REF-1620, REF-1621, REF-1622, REF-1623) - woven into relevant actions/indications and the plant-level
   references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
   traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
   claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign,
@@ -299,6 +299,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLo
   the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Tincture'':
   WHO lists crude drug, decoction, capsules, tablets and pills as the dosage forms. No tincture or alcoholic
   extract appears anywhere in the posology. | 2026-08-14 (harvest-calendar campaign, Batch 3): added
-  harvest_readiness for the aerial parts (provisional) — cut at the flowering stage when most plants are
+  harvest_readiness for the aerial parts (provisional) - cut at the flowering stage when most plants are
   in bloom, leaving 10-15 cm of stem to regrow, sourced to Purdue NewCROP (REF-3199, new). Existing
   harvesting.season not inherited; signal re-derived.'

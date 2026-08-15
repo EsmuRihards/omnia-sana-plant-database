@@ -78,7 +78,7 @@ harvest_readiness:
 - part: leaf
   signals:
   - "Gather the leathery evergreen leaves in early autumn, selecting only the green (living) leaves, and dry in gentle heat."
-  - "Confirm identity before gathering: bearberry is an evergreen sometimes confused with box (Buxus sempervirens) — see this plant's Dangerous Lookalikes."
+  - "Confirm identity before gathering: bearberry is an evergreen sometimes confused with box (Buxus sempervirens) - see this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "These leaves should be harvested in early autumn, only green leaves being selected, and then dried in gentle heat"
   reference_ids:
@@ -295,11 +295,11 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   and two studies characterise arbutin anti-inflammatory and antioxidant pharmacology (REF-0703, REF-0704).
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
-  sources (REF-2370, REF-2371, REF-2372, REF-2373, REF-2374, REF-2375, REF-0406, REF-2376, REF-2377, REF-2378)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  sources (REF-2370, REF-2371, REF-2372, REF-2373, REF-2374, REF-2375, REF-0406, REF-2376, REF-2377, REF-2378) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 4): added harvest_readiness for the leaf
-  (provisional) — gather only the green evergreen leaves in early autumn and dry gently, sourced to Useful
+  (provisional) - gather only the green evergreen leaves in early autumn and dry gently, sourced to Useful
   Temperate Plants (REF-3206). Safety cross-link to the box (Buxus sempervirens) lookalike. Existing
   harvesting.season not inherited.'

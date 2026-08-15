@@ -80,7 +80,7 @@ harvest_readiness:
   notes: "Useful Temperate Plants (REF-3214) for Bistorta officinalis (syn. Persicaria bistorta / Polygonum bistorta). Single source -> provisional."
 - part: aerial-parts
   signals:
-  - "Gather the leaves/aerial parts young, from spring to early summer, while still tender — they become much tougher as the season advances."
+  - "Gather the leaves/aerial parts young, from spring to early summer, while still tender - they become much tougher as the season advances."
   basis: traditional
   source_quote: "The leaves are available from late winter in most years and can be eaten until the early autumn though they become much tougher as the season progresses"
   reference_ids:
@@ -276,7 +276,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Jou
   compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket
   (least-cited enrichment): REF-0746, REF-0747, REF-0748. | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-2116, REF-2117, REF-2118, REF-2119, REF-0747,
-  REF-2120, REF-2121, REF-2122, REF-2123, REF-0627) — woven into relevant actions/indications and the
+  REF-2120, REF-2121, REF-2122, REF-2123, REF-0627) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
   harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
@@ -291,6 +291,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Jou
   Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket,
   mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
   left unsourced at status draft rather than attached to a tangentially-related paper. | 2026-08-14
-  (harvest-calendar campaign, Batch 5): added harvest_readiness for rhizome + aerial parts (provisional) —
+  (harvest-calendar campaign, Batch 5): added harvest_readiness for rhizome + aerial parts (provisional) -
   dig the rhizome in early spring as the new leaves shoot; gather the aerial parts young, before they
   toughen; sourced to Useful Temperate Plants (REF-3214). Existing harvesting.season not inherited.'

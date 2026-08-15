@@ -202,7 +202,7 @@ internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (H
   (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3
   PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0761, REF-0762,
   REF-0763. | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources
-  (REF-1971, REF-1972, REF-1973, REF-0761, REF-0763, REF-1974, REF-0762, REF-1975, REF-1976) — woven into
+  (REF-1971, REF-1972, REF-1973, REF-0761, REF-0763, REF-1974, REF-0762, REF-1975, REF-1976) - woven into
   relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
   fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
   from the existing references bucket; general/undated claims marked status: draft per the integrity-first
@@ -220,7 +220,7 @@ internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (H
   No tincture, no ethanol strength, no 1:5 ratio. | ''Poultice'': The monograph''s posology is oral only
   (tea and liquid extract) and its indication is menstrual. It contains no cutaneous route, no poultice,
   and no wound or haemostatic application. | 2026-08-14 (harvest-calendar campaign, Batch 7): added
-  harvest_readiness for the aerial parts (provisional) — gather the whole flowering/podding plant in active
+  harvest_readiness for the aerial parts (provisional) - gather the whole flowering/podding plant in active
   growth (theferns gives summer for a drying harvest; shepherd''s purse flowers nearly year-round, so no
   single flowering stage); sourced to Useful Temperate Plants (REF-3223). Grieve and Herbal Reality confirm
   the whole-plant use but state no phenological stage. Existing harvesting.season not inherited.'

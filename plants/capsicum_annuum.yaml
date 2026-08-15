@@ -47,9 +47,9 @@ harvesting:
 harvest_readiness:
 - part: fruit
   signals:
-  - "For medicinal use, pick the fruit when fully ripe and bright red — the ripe red stage carries peak potency (capsaicin); fruit may be picked green for milder use."
+  - "For medicinal use, pick the fruit when fully ripe and bright red - the ripe red stage carries peak potency (capsaicin); fruit may be picked green for milder use."
   basis: both
-  constituent_note: "Ripeness is tied to potency: 'Fruits can be harvested green or red, depending on the desired potency and flavour' — the fully ripe red fruit carries peak capsaicin."
+  constituent_note: "Ripeness is tied to potency: 'Fruits can be harvested green or red, depending on the desired potency and flavour' - the fully ripe red fruit carries peak capsaicin."
   source_quote: "For medicinal use, fully ripened red fruits are preferred."
   reference_ids:
   - REF-3224
@@ -59,7 +59,7 @@ harvest_readiness:
   notes: "The Herbal Medic (REF-3224) for Capsicum annuum. Single source -> provisional."
 - part: seed
   signals:
-  - "Take the seed from fully ripe, red fruit — the seed is gathered with the ripe (dried) fruit."
+  - "Take the seed from fully ripe, red fruit - the seed is gathered with the ripe (dried) fruit."
   basis: traditional
   source_quote: "For medicinal use, fully ripened red fruits are preferred."
   reference_ids:
@@ -250,7 +250,7 @@ contraindications:
 - note: Capsaicin causes intense burning sensation; avoid contact with eyes and mucous membranes. High
     oral doses can cause gastrointestinal irritation, nausea, and diarrhoea. Topical preparations may
     cause skin irritation and should be used diluted. Not recommended for individuals with active peptic
-    ulcers. Caution with anticoagulants — capsaicin may enhance bleeding risk. During pregnancy, culinary
+    ulcers. Caution with anticoagulants - capsaicin may enhance bleeding risk. During pregnancy, culinary
     amounts are considered safe, but high-dose supplements should be avoided. Repeated topical application
     leads to desensitisation (TRPV1 depletion), which is the basis for its analgesic use. Children under
     2 should not be given capsaicin-containing topical products (Basu and Bhattacharyya, 2023).
@@ -302,10 +302,10 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 11 PubMed-verified @article sources (REF-2142, REF-2143, REF-2144, REF-2145, REF-2146,
-  REF-2147, REF-2148, REF-2149, REF-2150, REF-2151, REF-2152) — woven into relevant actions/indications
+  REF-2147, REF-2148, REF-2149, REF-2150, REF-2151, REF-2152) - woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
   references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.
@@ -334,7 +334,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and medicated plasters. It gives no internal posology at all, so it cannot support an infusion or tincture
   taken as a digestive stimulant. | ''Culinary use'': A cutaneous capsaicinoid monograph says nothing
   about food use of the fruit as a spice. | 2026-08-14 (harvest-calendar campaign, Batch 7): added
-  harvest_readiness for fruit + seed (provisional; fruit basis both) — pick the fruit when fully ripe and
+  harvest_readiness for fruit + seed (provisional; fruit basis both) - pick the fruit when fully ripe and
   bright red (peak capsaicin/potency); seed taken from the ripe fruit; sourced to The Herbal Medic (REF-3224,
   Capsicum annuum). Grieve''s cayenne is the congener Capsicum minimum, so it was not used. Existing
   harvesting.season not inherited.'

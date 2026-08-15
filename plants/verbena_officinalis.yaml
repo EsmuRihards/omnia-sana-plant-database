@@ -266,11 +266,11 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   nervine action mechanistically. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 10 PubMed-verified @article sources (REF-1358, REF-1359, REF-1360, REF-1361, REF-1362, REF-1363,
-  REF-1364, REF-1365, REF-1366, REF-1367) — woven into relevant actions/indications and the plant-level
+  REF-1364, REF-1365, REF-1366, REF-1367) - woven into relevant actions/indications and the plant-level
   references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
   traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
   claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing
-  campaign, batch 2): DEAD END, dosage left unsourced — AND A CITATION-INTEGRITY FLAG. REF-0522 is recorded
+  campaign, batch 2): DEAD END, dosage left unsourced - AND A CITATION-INTEGRITY FLAG. REF-0522 is recorded
   in the bibliography as "European Union herbal monograph on Verbena officinalis L., herba (Verbenae herba)"
   (EMA HMPC), but no such monograph exists: the cited EMA medicine-page URL
   (/medicines/herbal/verbenae-herba) 404s, as do the standard final-community- and final-european-union-

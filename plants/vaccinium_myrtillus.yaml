@@ -254,8 +254,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Survey of Ophth
   bilberry anthocyanins in the prevention and treatment of dyslipidemia (REF-0594), supporting the blood-lipid
   action. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified
-  @article sources (REF-0408, REF-1592, REF-1593, REF-1594, REF-1595, REF-1596, REF-1597, REF-1598, REF-1599)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  @article sources (REF-0408, REF-1592, REF-1593, REF-1594, REF-1595, REF-1596, REF-1597, REF-1598, REF-1599) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit

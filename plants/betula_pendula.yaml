@@ -340,7 +340,7 @@ contraindications:
   - REF-0203
   status: verified
 - note: Duke (2002) provides clinical evidence (score 2) for birch leaf's diuretic activity, as well as
-    for its use in urinary gravel, kidney stones, and rheumatic conditions — consistent with Commission
+    for its use in urinary gravel, kidney stones, and rheumatic conditions - consistent with Commission
     E (KOM) and German Phytotherapy (PIP) approvals. It acts as an aquaretic, increasing urine volume
     without electrolyte loss. Antimelanomic activity has been demonstrated in experimental studies. The
     plant has a good safety profile and is classified as non-toxic at usual therapeutic doses (Duke, 2002).
@@ -373,11 +373,11 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
   references to the plant-level references bucket (least-cited enrichment): REF-0743, REF-0744, REF-0745.
   | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0743,
-  REF-1692, REF-0744, REF-1693, REF-1694, REF-1695, REF-1696, REF-1697, REF-1698, REF-1699) — woven into
+  REF-1692, REF-0744, REF-1693, REF-1694, REF-1695, REF-1696, REF-1697, REF-1698, REF-1699) - woven into
   relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
   fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
@@ -394,6 +394,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Fresh sap'': Wrong plant part.
   The monograph is on birch LEAF (folium) and its posology is entirely leaf preparations. It says nothing
   about spring sap, birch wine or vinegar. | 2026-08-14 (harvest-calendar campaign, Batch 5): added
-  harvest_readiness for sap/leaf/bark (provisional) — sap tapped in early spring before the leaves unfurl;
+  harvest_readiness for sap/leaf/bark (provisional) - sap tapped in early spring before the leaves unfurl;
   young leaves and buds in spring; bark from felled timber (peels most easily late spring to early summer);
   sourced to Useful Temperate Plants (REF-3213). Existing harvesting.season not inherited; signals re-derived.'

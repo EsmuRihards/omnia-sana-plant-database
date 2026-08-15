@@ -276,7 +276,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pha
   | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment):
   REF-0739, REF-0736, REF-0737. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
   @article sources (REF-0736, REF-2256, REF-0402, REF-2257, REF-2258, REF-2259, REF-2260, REF-2261, REF-0401,
-  REF-2262, REF-2263) — woven into relevant actions/indications and the plant-level references bucket.
+  REF-2262, REF-2263) - woven into relevant actions/indications and the plant-level references bucket.
   | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
   draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
@@ -294,6 +294,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pha
   later pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve
   these. ''Tincture'': WHO gives only a crude-drug dose of 3-9 g/day. No tincture, alcoholic extract or
   ethanol strength appears in the summary. | 2026-08-14 (harvest-calendar campaign, Batch 5): added
-  harvest_readiness for the root (provisional) — dig in autumn from four-year-old (or older) plants,
+  harvest_readiness for the root (provisional) - dig in autumn from four-year-old (or older) plants,
   sourced to Useful Temperate Plants (REF-3212, filed under the accepted name Astragalus mongholicus).
   Existing harvesting.season not inherited; signal re-derived.'

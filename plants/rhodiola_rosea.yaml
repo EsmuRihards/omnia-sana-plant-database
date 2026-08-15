@@ -232,8 +232,8 @@ indications:
   - REF-0191
   status: needs-review
 contraindications:
-- note: Generally well tolerated. May cause agitation, insomnia, or vivid dreams in sensitive individuals
-    — take in the morning. Avoid in manic episodes or severe anxiety. Theoretical interactions with MAOIs,
+- note: Generally well tolerated. May cause agitation, insomnia, or vivid dreams in sensitive individuals -
+    take in the morning. Avoid in manic episodes or severe anxiety. Theoretical interactions with MAOIs,
     SSRIs, and CNS stimulants. Avoid during pregnancy and breastfeeding.
   severity: caution
   reference_ids:
@@ -306,10 +306,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1526, REF-1527, REF-1528, REF-1529, REF-1530,
-  REF-1531, REF-1532, REF-1533, REF-1534, REF-1535) — woven into relevant actions/indications and the
+  REF-1531, REF-1532, REF-1533, REF-1534, REF-1535) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing traditional-use/chemical-composition review (REF-1528),
   the stress-symptom clinical review (REF-1526), the anti-inflammatory review (REF-1527) and the SHR-5

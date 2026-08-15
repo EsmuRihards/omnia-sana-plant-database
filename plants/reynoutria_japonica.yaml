@@ -194,7 +194,7 @@ contraindications:
   status: verified
 - note: Duke (2002) rates Japanese knotweed (listed as Hu-Zhang, Fallopia japonica) as +++ and highlights
     its rich content of resveratrol and emodin. Experimental evidence (score 1) supports COX-2 inhibitory,
-    antioxidant, anti-inflammatory, hepatoprotective, and lipid-lowering activities — largely attributed
+    antioxidant, anti-inflammatory, hepatoprotective, and lipid-lowering activities - largely attributed
     to resveratrol. Duke notes its use in traditional Chinese medicine for fractures, burns, abscesses,
     and gynecological conditions. No significant clinical trials were available at time of publication,
     but resveratrol's biological activity is well-documented in vitro (Duke, 2002).
@@ -226,10 +226,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0979, REF-0980, REF-0981, REF-0982, REF-0983,
-  REF-0984, REF-0985, REF-0986, REF-0987, REF-0988) — woven into relevant actions/indications and the
+  REF-0984, REF-0985, REF-0986, REF-0987, REF-0988) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing botany/phytochemistry/pharmacology review (REF-0984),
   the emodin pharmacology review (REF-0979) and the acute-respiratory-infection systematic review (REF-0980).

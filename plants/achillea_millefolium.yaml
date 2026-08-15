@@ -410,7 +410,7 @@ contraindications:
 - note: 'Duke (2002) rates yarrow as ++ with clinical evidence (score 2) for antibacterial, antiseptic,
     antispasmodic, choleretic, aperitif, and astringent activities, consistent with Commission E (KOM)
     approval for loss of appetite and dyspeptic ailments. Yarrow contains achillin, achilleic acid, and
-    apigenin — compounds with anti-inflammatory and hemostatic properties. Traditional use for wound healing,
+    apigenin - compounds with anti-inflammatory and hemostatic properties. Traditional use for wound healing,
     fever management, and digestive complaints is well-supported. Dose: 2–4 g dried herb as tea three
     times daily. Caution: yarrow belongs to the Asteraceae family and can cause allergic reactions in
     sensitive individuals; rare contact dermatitis from sesquiterpene lactones has been reported. Contraindicated
@@ -514,13 +514,13 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | Enriched 2026-06-12 from the omniasana.bio ''Yarrow''
+  not yet extracted - manual enrichment pending. | Enriched 2026-06-12 from the omniasana.bio ''Yarrow''
   Materia Medica page (https://omniasana.bio/yarrow-achillea-millefolium/): added constituents, web-sourced
   actions and cautions. | 2026-06-15: corrected family from Unknown to Asteraceae (Achillea millefolium
   is in the Asteraceae family). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 11 PubMed-verified @article sources (REF-2076, REF-2077, REF-2078, REF-2079, REF-2080, REF-2081,
-  REF-2082, REF-2083, REF-2084, REF-2085, REF-2086) — woven into relevant actions/indications and the
+  REF-2082, REF-2083, REF-2084, REF-2085, REF-2086) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
   harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
   claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign,
@@ -532,7 +532,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   traditional-use reference. status -> verified. Preparation sourced 2026-07-20 to a monograph already
   on the record, verified quote-by-quote against the monograph''s stored posology and adversarially re-checked;
   text rewritten to the source rather than having a reference stapled onto the previous wording. | 2026-08-14
-  (harvest-calendar campaign, Batch 1): added harvest_readiness for flower/leaf/stem (verified) — the
+  (harvest-calendar campaign, Batch 1): added harvest_readiness for flower/leaf/stem (verified) - the
   flowering herb is gathered as the flat-topped corymbs open to full bloom, sourced to Grieve (REF-0371,
   whose URL was repointed to the Part Used page yarrow02) and King''s American Dispensatory (REF-3184, new).
   Existing harvesting.season not inherited; signal re-derived per the campaign.'

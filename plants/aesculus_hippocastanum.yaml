@@ -71,8 +71,8 @@ harvesting:
 harvest_readiness:
 - part: seed
   signals:
-  - "Collect the ripe seed (conker) in autumn, when the spiny green husk splits into three valves and the shining brown nut falls to the ground — the freed, fallen nut is the mature, ready seed."
-  - "SAFETY: the raw seed contains toxic esculin and is used only as a standardised, processed extract — never eaten raw."
+  - "Collect the ripe seed (conker) in autumn, when the spiny green husk splits into three valves and the shining brown nut falls to the ground - the freed, fallen nut is the mature, ready seed."
+  - "SAFETY: the raw seed contains toxic esculin and is used only as a standardised, processed extract - never eaten raw."
   basis: traditional
   source_quote: "a large green husk, protected with short spines, which splits into three valves when it falls to the ground and frees the nut."
   reference_ids:
@@ -264,7 +264,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review
   that include horse chestnut seed extract (REF-0678, REF-0679). | 2026-06-15: migrated to entity schema
   (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to
   >=10 scientific publications: added 5 PubMed-verified @article sources (REF-2402, REF-2403, REF-2404,
-  REF-2405, REF-2406) — woven into relevant actions/indications and the plant-level references bucket. |
+  REF-2405, REF-2406) - woven into relevant actions/indications and the plant-level references bucket. |
   2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
   draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) +
@@ -277,7 +277,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review
   twice daily, whereas the entry states 100-150 mg ESCIN daily - different analytical bases, not directly
   comparable, and converting between them here would be guesswork. TODO: reconcile the two bases properly,
   or state both side by side with their sources. | 2026-08-14 (harvest-calendar campaign, Batch 1): added
-  harvest_readiness for the seed (provisional) — the ripe conker is collected in autumn as the spiny green
+  harvest_readiness for the seed (provisional) - the ripe conker is collected in autumn as the spiny green
   husk splits and the nut falls, sourced to Grieve Horse Chestnut (REF-3189, new). A pharmacopoeial "ripe,
   dried seed" definition would upgrade it to verified. Existing harvesting.season not inherited; raw-seed
   esculin toxicity noted in the signal.'

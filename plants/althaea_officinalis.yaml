@@ -234,12 +234,12 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   remain limited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
   constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
   PubMed-verified @article sources (REF-1368, REF-1369, REF-1370, REF-1371, REF-1372, REF-1373, REF-1374,
-  REF-1375, REF-1376, REF-1377) — woven into relevant actions/indications and the plant-level references
+  REF-1375, REF-1376, REF-1377) - woven into relevant actions/indications and the plant-level references
   bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
   draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
   + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
   part of the cancer-condition campaign. | 2026-08-14 (harvest-calendar campaign, Batch 3): added
-  harvest_readiness for the root (verified) — dig the fleshy, non-woody roots of two-year-old plants in
+  harvest_readiness for the root (verified) - dig the fleshy, non-woody roots of two-year-old plants in
   autumn (or early spring), sourced to King''s American Dispensatory (REF-3197, new) and Useful Temperate
   Plants (REF-3198, new). Existing harvesting.season not inherited; signal re-derived.'

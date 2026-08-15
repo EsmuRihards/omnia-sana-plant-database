@@ -498,10 +498,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 11 PubMed-verified @article sources (REF-2065, REF-2066, REF-2067, REF-2068, REF-2069,
-  REF-2070, REF-2071, REF-2072, REF-2073, REF-2074, REF-2075) — woven into relevant actions/indications
+  REF-2070, REF-2071, REF-2072, REF-2073, REF-2074, REF-2075) - woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing comprehensive phytochemistry/pharmacology reviews (REF-2065,
   REF-2066, REF-2067, REF-2073). | 2026-07-13: added anticancer action (where absent) + cancer indication

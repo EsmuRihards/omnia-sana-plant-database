@@ -67,7 +67,7 @@ harvesting:
 harvest_readiness:
 - part: aerial-parts
   signals:
-  - "Gather the flowering aerial parts in spring as the plant comes into flower; use fresh — the bright orange latex flows from the cut stems."
+  - "Gather the flowering aerial parts in spring as the plant comes into flower; use fresh - the bright orange latex flows from the cut stems."
   basis: traditional
   source_quote: "The plant is harvested in the spring as it comes into flower, it is best used fresh"
   reference_ids:
@@ -274,12 +274,12 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepat
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
   references to the plant-level references bucket (least-cited enrichment): REF-0770, REF-0771, REF-0772.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0770,
-  REF-0460, REF-2264, REF-2265, REF-0772, REF-2266, REF-2267, REF-2268, REF-2269, REF-2270, REF-2271)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  REF-0460, REF-2264, REF-2265, REF-0772, REF-2266, REF-2267, REF-2268, REF-2269, REF-2270, REF-2271) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-14
-  (harvest-calendar campaign, Batch 8): added harvest_readiness for the aerial parts (provisional) — gather
+  (harvest-calendar campaign, Batch 8): added harvest_readiness for the aerial parts (provisional) - gather
   in spring as it comes into flower, used fresh (the orange latex flows from cut stems); sourced to Useful
   Temperate Plants (REF-3228). Existing harvesting.season not inherited.'

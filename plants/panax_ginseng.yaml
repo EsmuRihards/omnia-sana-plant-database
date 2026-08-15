@@ -267,8 +267,8 @@ contraindications:
 - note: 'Duke (2002) rates Korean/Oriental ginseng (Panax ginseng) as highly active with clinical support
     for adaptogenic, immunostimulant, and performance-enhancing effects. Commission E approves standardized
     ginseng root extract (4–7% ginsenosides) as a tonic for fatigue and during convalescence. Dose: 200–600
-    mg standardized extract daily. Duke cautions about ''Ginseng Abuse Syndrome'' (GAS) with overdose
-    — symptoms include hypertension, insomnia, edema, and nervousness. Drug interactions are notable:
+    mg standardized extract daily. Duke cautions about ''Ginseng Abuse Syndrome'' (GAS) with overdose -
+    symptoms include hypertension, insomnia, edema, and nervousness. Drug interactions are notable:
     ginseng potentiates MAOIs and may interact with warfarin, digoxin, and stimulants. Cycle use (2–3
     weeks on, 2 weeks off) is recommended (Duke, 2002).'
   severity: caution
@@ -324,7 +324,7 @@ pairings:
 - partner_id: tanacetum-parthenium
   type: caution
   note: Ginseng and feverfew both reduce blood clotting/platelet stickiness, so taking them together may
-    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    add up and raise the risk of bruising or bleeding - use caution, especially before surgery or alongside
     blood-thinning drugs.
   reference_ids:
   - REF-2457
@@ -335,7 +335,7 @@ pairings:
 - partner_id: zingiber-officinale
   type: caution
   note: Ginseng and ginger both reduce blood clotting/platelet stickiness, so taking them together may
-    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    add up and raise the risk of bruising or bleeding - use caution, especially before surgery or alongside
     blood-thinning drugs.
   reference_ids:
   - REF-2457
@@ -353,10 +353,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1466, REF-1467, REF-1468, REF-1469, REF-1470,
-  REF-1471, REF-1472, REF-1473, REF-1474, REF-1475) — woven into relevant actions/indications and the
+  REF-1471, REF-1472, REF-1473, REF-1474, REF-1475) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing chemical-constituents review (REF-1468) and the pharmacology/toxicology
   review (REF-1466, REF-1472) plus the Duke-sourced dosage already cited in contraindications. | 2026-08-15:

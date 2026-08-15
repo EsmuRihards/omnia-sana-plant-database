@@ -246,7 +246,7 @@ contraindications:
   status: verified
 - note: Duke (2002) rates sorrel as ++ and notes diuretic, antiscorbutic (high vitamin C), and depurative
     activities at experimental and folkloric levels. The plant is traditionally used for anemia, fever,
-    and scurvy prevention. High oxalic acid content is an important consideration — excessive consumption
+    and scurvy prevention. High oxalic acid content is an important consideration - excessive consumption
     can promote kidney stone formation (oxalate stones) and may be harmful in individuals with gout or
     existing kidney disease. Duke advises limiting medicinal use and avoiding in those with a history
     of calcium oxalate kidney stones (Duke, 2002).
@@ -310,10 +310,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0890, REF-0891, REF-0892, REF-0893, REF-0894,
-  REF-0895, REF-0896, REF-0897, REF-0898, REF-0899) — woven into relevant actions/indications and the
+  REF-0895, REF-0896, REF-0897, REF-0898, REF-0899) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing Encyclopedia of Medicinal Plants (REF-0048) plus the
   H. pylori compound-isolation study (REF-0892) and antioxidant study (REF-0896). | 2026-08-15: Harvest

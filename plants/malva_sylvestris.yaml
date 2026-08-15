@@ -310,7 +310,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monogr
   retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1183, REF-1184, REF-1185, REF-1186, REF-1187,
-  REF-1188, REF-1189, REF-1190, REF-1191, REF-1192) — woven into relevant actions/indications and the
+  REF-1188, REF-1189, REF-1190, REF-1191, REF-1192) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0480) and ethnobotanical review
   (REF-1184). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour

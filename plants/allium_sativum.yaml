@@ -20,7 +20,7 @@ constituents:
   - organosulfur
   note: Allicin (diallyl thiosulfinate), formed enzymatically when raw garlic is crushed, together with
     ajoene and the aged-garlic compound S-allyl-cysteine, are the principal bioactives behind garlic's
-    antimicrobial and cardiovascular effects — acting partly by raising nitric oxide and by targeting
+    antimicrobial and cardiovascular effects - acting partly by raising nitric oxide and by targeting
     microbial thiol-containing enzymes.
   reference_ids:
   - REF-0647
@@ -360,10 +360,10 @@ indications:
 contraindications:
 - note: 'Garlic is generally very safe at culinary and supplemental doses for most healthy adults. Raw
     garlic contains allicin (formed when crushed) at concentrations that can irritate the gastrointestinal
-    tract — nausea, heartburn, flatulence, and diarrhoea are the most common side effects, especially
+    tract - nausea, heartburn, flatulence, and diarrhoea are the most common side effects, especially
     with large amounts of raw garlic on an empty stomach. Garlic may inhibit platelet aggregation and
-    enhance anticoagulant effects of warfarin — use caution with blood-thinning medications, especially
-    before surgery (stop 7–10 days prior). May lower blood pressure and blood sugar — caution when combined
+    enhance anticoagulant effects of warfarin - use caution with blood-thinning medications, especially
+    before surgery (stop 7–10 days prior). May lower blood pressure and blood sugar - caution when combined
     with antihypertensive or antidiabetic medications. Topical raw garlic can cause chemical burns (contact
     dermatitis) and should not be applied undiluted to skin for prolonged periods. Odour (from allicin
     metabolites) affects breath and perspiration. Pregnancy: culinary amounts safe; avoid medicinal-dose
@@ -380,7 +380,7 @@ contraindications:
   status: verified
 - note: 'Duke (2002) rates garlic as +++ with exceptional clinical evidence (score 3) for antiseptic activity,
     and score 2 for anti-aggregant (antiplatelet), antiatherosclerotic, antiatherogenic, antibacterial,
-    and antimycotic effects — among the most clinically validated herbal medicines. Commission E approves
+    and antimycotic effects - among the most clinically validated herbal medicines. Commission E approves
     garlic for arteriosclerosis prevention and elevated blood lipids. Dose: 4 g (1 clove) fresh garlic
     daily, or 300 mg standardized dry powder extract (1.3% allicin) three times daily. Important interaction:
     garlic significantly potentiates anticoagulant medications (warfarin, aspirin) due to its anti-aggregant
@@ -446,7 +446,7 @@ pairings:
 - partner_id: zingiber-officinale
   type: caution
   note: Garlic and ginger both reduce blood clotting/platelet stickiness, so taking them together may
-    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    add up and raise the risk of bruising or bleeding - use caution, especially before surgery or alongside
     blood-thinning drugs.
   reference_ids:
   - REF-2457
@@ -457,7 +457,7 @@ pairings:
 - partner_id: panax-ginseng
   type: caution
   note: Garlic and ginseng both reduce blood clotting/platelet stickiness, so taking them together may
-    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    add up and raise the risk of bruising or bleeding - use caution, especially before surgery or alongside
     blood-thinning drugs.
   reference_ids:
   - REF-2457
@@ -467,7 +467,7 @@ pairings:
 - partner_id: tanacetum-parthenium
   type: caution
   note: Garlic and feverfew both reduce blood clotting/platelet stickiness, so taking them together may
-    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    add up and raise the risk of bruising or bleeding - use caution, especially before surgery or alongside
     blood-thinning drugs.
   reference_ids:
   - REF-2457
@@ -477,8 +477,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: nigella-sativa
   type: caution
-  note: Garlic and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together
-    — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected.
+  note: Garlic and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together -
+    especially alongside blood-pressure medicines - may add up and lower blood pressure more than expected.
     Monitor your blood pressure.
   reference_ids:
   - REF-2491
@@ -494,8 +494,8 @@ dangerous_lookalikes:
 - dangerous_plant: colchicum-autumnale
   severity: fatal
   confused_part: Spring leaves, when foraging wild garlic (ramsons) foliage before flowering.
-  confusion_context: When people gather wild garlic (ramsons) leaves in spring, autumn crocus leaves —
-    which emerge at the same time in the same damp meadows and woodland edges — are the deadliest thing
+  confusion_context: When people gather wild garlic (ramsons) leaves in spring, autumn crocus leaves -
+    which emerge at the same time in the same damp meadows and woodland edges - are the deadliest thing
     they can pick by mistake. Autumn crocus contains colchicine, a cell poison with no reliable antidote;
     a few leaves can kill, and poisoning is repeatedly documented from 'wild garlic' that was actually
     autumn crocus, progressing from stomach upset to multi-organ failure.
@@ -531,7 +531,7 @@ dangerous_lookalikes:
     leaves wrapped together around a single common stalk, often purplish at the base.
   - Lily-of-the-valley leaves are stiffer and glossier, and there is no garlic bulb underneath.
   key_test: 'Crush one leaf with clean hands and smell: strong garlic or onion = wild garlic (safe); no
-    garlic smell = discard. Then check the leaves — one leaf per separate stalk (wild garlic) versus a
+    garlic smell = discard. Then check the leaves - one leaf per separate stalk (wild garlic) versus a
     pair of leaves sheathed around one common stalk (lily-of-the-valley).'
   reference_ids:
   - REF-2621
@@ -546,7 +546,7 @@ dangerous_lookalikes:
   confusion_context: 'Lords-and-ladies pushes up its young leaves at the same time and in the very same
     damp woods as wild garlic, often mixed in with it. Every part contains needle-like calcium-oxalate
     crystals: biting a leaf drives them into the mouth and throat, causing immediate intense burning,
-    blistering and swelling — occasionally enough to threaten the airway.'
+    blistering and swelling - occasionally enough to threaten the airway.'
   distinguishing_features:
   - Crushed wild-garlic leaves smell strongly of garlic or onion; lords-and-ladies leaves have NO garlic
     smell.
@@ -556,7 +556,7 @@ dangerous_lookalikes:
     base, often glossy and sometimes dark-spotted; wild-garlic leaves are smooth ovals with no basal lobes.
   key_test: 'Crush one leaf with clean hands and smell: garlic or onion = wild garlic (safe); no smell
     = discard. Reject any leaf that is arrow-shaped with basal ''tail'' lobes or has net-like (not parallel)
-    veins — that is lords-and-ladies.'
+    veins - that is lords-and-ladies.'
   reference_ids:
   - REF-2623
   status: approved
@@ -568,14 +568,14 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
+  not yet extracted - manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
   (REF-0646..REF-0651): blood-pressure/cholesterol/immunity and cardiovascular meta-analyses and reviews
   (REF-0646, REF-0647, REF-0648), an aged-garlic RCT in treated hypertensives (REF-0649), and allicin
   antimicrobial studies including activity against multidrug-resistant lung pathogens (REF-0650, REF-0651);
   allicin/organosulfur constituents added. | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 5 PubMed-verified @article sources (REF-2426, REF-2427, REF-2428, REF-2429, REF-2430)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  publications: added 5 PubMed-verified @article sources (REF-2426, REF-2427, REF-2428, REF-2429, REF-2430) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
@@ -599,7 +599,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ESCOP, Commission E), may still resolve these. ''Tincture'': REF-3087 covers powdered substance, liquid
   extract and dry extract, not a tincture, and explicitly gives no posology for fresh cloves. REF-3101
   lists fresh garlic, dried powder, oil and extract - no alcoholic tincture of the fresh bulb. | 2026-08-14
-  (harvest-calendar campaign, Batch 2): added harvest_readiness and ADDED the Bulb to parts_used — the
+  (harvest-calendar campaign, Batch 2): added harvest_readiness and ADDED the Bulb to parts_used - the
   bulb is the primary medicinal part per the WHO monograph but was missing from parts_used. Bulb signal
   provisional (lift in summer as the lower leaves yellow bottom-up while upper leaves stay green; cloves
   plump, skins papery), sourced to Cornell Cooperative Extension (REF-3193, new). Leaf and young sprouts

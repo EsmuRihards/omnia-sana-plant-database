@@ -67,7 +67,7 @@ harvest_readiness:
 - part: leaf
   signals:
   - "Gather the leaves in late spring and summer, as the plant comes into flower, while still fresh and tender."
-  - "SAFETY: borage leaves (grey-green, bristly, in a rosette) can be confused with the FATAL foxglove (Digitalis purpurea) rosette; confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  - "SAFETY: borage leaves (grey-green, bristly, in a rosette) can be confused with the FATAL foxglove (Digitalis purpurea) rosette; confirm identity before gathering - see this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "The leaves are harvested in late spring and the summer as the plant comes into flower."
   reference_ids:
@@ -351,7 +351,7 @@ dangerous_lookalikes:
   severity: fatal
   confused_part: Pre-flowering rosette leaves gathered for cooking (salads, savoury pies, pasta fillings).
   confusion_context: Foxglove's soft, wrinkled first-year leaves closely resemble borage leaves gathered
-    for food, and the mix-up is repeatedly documented — including people who developed high digitoxin
+    for food, and the mix-up is repeatedly documented - including people who developed high digitoxin
     levels and heart block after eating a few 'borage' leaves, one batch bought from a nursery mislabelled
     as borage. Foxglove leaves contain cardiac glycosides and can be fatal.
   distinguishing_features:
@@ -362,7 +362,7 @@ dangerous_lookalikes:
     cone; foxglove has tall one-sided spikes of pendulous tubular thimble flowers. Do not identify from
     leaves alone if you can wait for flowers.'
   key_test: 'Rub and crush a leaf: borage feels coarse and bristly and smells of cucumber; a soft, velvety
-    leaf with no cucumber smell should be treated as foxglove — do not eat it.'
+    leaf with no cucumber smell should be treated as foxglove - do not eat it.'
   reference_ids:
   - REF-2605
   - REF-2607
@@ -375,12 +375,12 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
   references to the plant-level references bucket (least-cited enrichment): REF-0749, REF-0750, REF-0751.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0749,
-  REF-1950, REF-1951, REF-1952, REF-1953, REF-1954, REF-1955, REF-1956, REF-1957, REF-1958, REF-1959)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  REF-1950, REF-1951, REF-1952, REF-1953, REF-1954, REF-1955, REF-1956, REF-1957, REF-1958, REF-1959) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
@@ -408,7 +408,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   leaf/flower (culinary)'': REF-3070 is a pyrrolizidine-alkaloid safety public statement, not a monograph.
   It sets PA intake limits for medicinal products; it does not state that borage leaves and flowers are
   eaten in salads or as a garnish. A PA safety statement cannot source a culinary claim. | 2026-08-14
-  (harvest-calendar campaign, Batch 6): added harvest_readiness for flower/leaf/stem/seed (provisional) —
+  (harvest-calendar campaign, Batch 6): added harvest_readiness for flower/leaf/stem/seed (provisional) -
   aerial parts gathered as the plant comes into flower; seed collected as it ripens (it drops when ripe);
   sourced to Useful Temperate Plants (REF-3216). Safety cross-link to the FATAL foxglove (Digitalis
   purpurea) leaf/rosette confusion. Existing harvesting.season not inherited.'

@@ -72,7 +72,7 @@ harvest_readiness:
   independent_confirmation: null
   species_confirmed: true
   status: provisional
-  notes: "Grieve, A Modern Herbal (REF-3192), for Alchemilla vulgaris — the whole herb (leaf + flower) is gathered together in flower. Single source -> provisional."
+  notes: "Grieve, A Modern Herbal (REF-3192), for Alchemilla vulgaris - the whole herb (leaf + flower) is gathered together in flower. Single source -> provisional."
 - part: leaf
   signals:
   - "Gather the leaves when they are at their best, as the plant comes into flower; lady's mantle leaf is taken with the flowering herb."
@@ -251,7 +251,7 @@ status: verified
 last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  for this plant is attached to each action rather than split per action. constituents not yet extracted -
   manual enrichment pending. Further enriched 2026-06-15 with five PubMed sources (REF-0685..REF-0689): a
   cardioprotective study confirming antioxidant and anti-inflammatory activity (REF-0685) and two
   phytochemical/antioxidant studies (REF-0686, REF-0687); the ethanolic extract also showed preclinical
@@ -259,7 +259,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and tannin constituents added. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 11 PubMed-verified @article sources (REF-2226, REF-2227, REF-0686, REF-0685, REF-2228, REF-0687,
-  REF-2229, REF-2230, REF-2231, REF-2232, REF-2233) — woven into relevant actions/indications and the
+  REF-2229, REF-2230, REF-2231, REF-2232, REF-2233) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
   harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
@@ -274,6 +274,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket,
   mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
   left unsourced at status draft rather than attached to a tangentially-related paper. | 2026-08-14
-  (harvest-calendar campaign, Batch 2): added harvest_readiness for flower + leaf (provisional) — gather
+  (harvest-calendar campaign, Batch 2): added harvest_readiness for flower + leaf (provisional) - gather
   the whole herb when in flower and the leaves are at their best, sourced to Grieve, A Modern Herbal
   (REF-3192, new). Existing harvesting.season not inherited; signal re-derived.'

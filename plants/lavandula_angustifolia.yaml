@@ -276,8 +276,8 @@ pairings:
 - partner_id: valeriana-officinalis
   type: synergy
   note: Lavender and valerian are both calming herbs used to aid relaxation and sleep; taken together
-    their sedative effects can add up, so while they may help relaxation they can also increase drowsiness
-    — avoid combining with sedative medicines or before driving.
+    their sedative effects can add up, so while they may help relaxation they can also increase drowsiness -
+    avoid combining with sedative medicines or before driving.
   reference_ids:
   - REF-2531
   - REF-2533
@@ -287,8 +287,8 @@ pairings:
 - partner_id: melissa-officinalis
   type: synergy
   note: Lavender and lemon balm are both calming herbs used to ease anxiety and aid sleep; taken together
-    their sedative effects can add up, so while they may help relaxation they can also increase drowsiness
-    — avoid combining with sedative medicines or before driving.
+    their sedative effects can add up, so while they may help relaxation they can also increase drowsiness -
+    avoid combining with sedative medicines or before driving.
   reference_ids:
   - REF-2531
   - REF-2539
@@ -298,8 +298,8 @@ pairings:
 - partner_id: matricaria-chamomilla
   type: synergy
   note: Lavender and chamomile are both calming herbs used to ease anxiety and aid sleep; taken together
-    their sedative effects can add up, so while they may help relaxation they can also increase drowsiness
-    — avoid combining with sedative medicines or before driving.
+    their sedative effects can add up, so while they may help relaxation they can also increase drowsiness -
+    avoid combining with sedative medicines or before driving.
   reference_ids:
   - REF-2531
   - REF-2532
@@ -316,12 +316,12 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
   references to the plant-level references bucket (least-cited enrichment): REF-0857, REF-0858, REF-0859.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2205,
-  REF-2206, REF-2207, REF-2208, REF-2209, REF-2210, REF-2211, REF-2212, REF-2213, REF-2214, REF-2215)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  REF-2206, REF-2207, REF-2208, REF-2209, REF-2210, REF-2211, REF-2212, REF-2213, REF-2214, REF-2215) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer

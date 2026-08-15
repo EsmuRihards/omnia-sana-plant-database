@@ -241,12 +241,12 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   among the few with a large short-term effect on pain (REF-0574). | 2026-06-15: migrated to entity schema
   (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
   to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-1809, REF-0573, REF-1810,
-  REF-1811, REF-1812, REF-1813, REF-1814, REF-1815, REF-1816, REF-1817, REF-1818) — woven into relevant
+  REF-1811, REF-1812, REF-1813, REF-1814, REF-1815, REF-1816, REF-1817, REF-1818) - woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
   existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
   policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
   2026-08-14 (harvest-calendar campaign, Batch 6): added harvest_readiness for the gum resin (mapped to
-  sap; provisional) — tap the bark in the dry season, let the oleo-gum-resin harden over several days, then
+  sap; provisional) - tap the bark in the dry season, let the oleo-gum-resin harden over several days, then
   collect and sun-dry; sourced to Banyan Botanicals (REF-3220). Existing harvesting.season not inherited.'

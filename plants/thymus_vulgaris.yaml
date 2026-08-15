@@ -250,7 +250,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   cough (REF-0593; faster and greater reduction in coughing fits than placebo). | 2026-06-15: migrated
   to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1303, REF-1304,
-  REF-1305, REF-1306, REF-1307, REF-1308, REF-1309, REF-1310, REF-1311, REF-1312) — woven into relevant
+  REF-1305, REF-1306, REF-1307, REF-1308, REF-1309, REF-1310, REF-1311, REF-1312) - woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-12: added monograph-base fields
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
   existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing

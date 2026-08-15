@@ -398,7 +398,7 @@ indications:
 contraindications:
 - note: 'Generally considered very safe when used as tea or topical preparations.Allergy risk: People
     allergic to ragweed, daisies, or other Asteraceae plants may react (itching, rash).Blood thinners:
-    Chamomile may slightly enhance effects of anticoagulants—use large amounts cautiously.Pregnancy: Normal
+    Chamomile may slightly enhance effects of anticoagulants-use large amounts cautiously.Pregnancy: Normal
     tea amounts are usually considered safe, but concentrated extracts should be used with caution.Topical
     use: Rare skin irritation in sensitive individuals.'
   severity: caution
@@ -536,12 +536,12 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1153, REF-1154, REF-1155, REF-1156, REF-1157,
-  REF-1158, REF-1159, REF-1160, REF-1161, REF-1162) — woven into relevant actions/indications and the
+  REF-1158, REF-1159, REF-1160, REF-1161, REF-1162) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-06-27: enriched to >=15 scientific publications: added 4 PubMed-verified
-  @article sources (REF-1155, REF-1160, REF-2348, REF-2349) — woven into relevant actions/indications
+  @article sources (REF-1155, REF-1160, REF-2348, REF-2349) - woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing ethnomedicinal/phytochemical reviews (REF-1153, REF-1158,
   REF-1162) and book refs. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower

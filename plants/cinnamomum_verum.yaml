@@ -231,8 +231,8 @@ indications:
   status: needs-review
 contraindications:
 - note: True cinnamon (C. verum) is safe in culinary and moderate medicinal doses. Cassia (C. cassia)
-    contains high coumarin — excessive intake may be hepatotoxic and should not be confused with true
-    cinnamon. May lower blood sugar — use caution with antidiabetic medications. Avoid high doses during
+    contains high coumarin - excessive intake may be hepatotoxic and should not be confused with true
+    cinnamon. May lower blood sugar - use caution with antidiabetic medications. Avoid high doses during
     pregnancy.
   severity: serious
   reference_ids:
@@ -243,7 +243,7 @@ contraindications:
 - note: 'Duke (2002) rates Ceylon cinnamon as +++ and provides clinical evidence (score 2) for antibacterial
     activity, consistent with Commission E and WHO recognition. Key activities include antifungal (anti-Candida),
     antispasmodic, and carminative effects. Cinnamon contains cinnamaldehyde, eugenol, and coumarin. Important
-    safety concern: Duke''s entry aggregates true cinnamon (C. verum) and cassia (C. cassia) — cassia
+    safety concern: Duke''s entry aggregates true cinnamon (C. verum) and cassia (C. cassia) - cassia
     contains significantly higher coumarin levels (potentially hepatotoxic) than true Ceylon cinnamon.
     True cinnamon (C. verum) has very low coumarin content and is safe at normal culinary doses. Medicinal
     dose: 0.5–1 g bark powder three times daily. Caution: cinnamon bark oil is highly irritating to mucous
@@ -276,8 +276,8 @@ drug_class_interactions:
 pairings:
 - partner_id: trigonella-foenum-graecum
   type: caution
-  note: Cinnamon and fenugreek can each lower blood sugar, so taking them together — especially alongside
-    diabetes medicines — may add up and increase the risk of blood sugar dropping too low (hypoglycaemia).
+  note: Cinnamon and fenugreek can each lower blood sugar, so taking them together - especially alongside
+    diabetes medicines - may add up and increase the risk of blood sugar dropping too low (hypoglycaemia).
     Monitor your blood glucose.
   reference_ids:
   - REF-2514
@@ -287,8 +287,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: momordica-charantia
   type: caution
-  note: Cinnamon and bitter melon can each lower blood sugar, so taking them together — especially alongside
-    diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.
+  note: Cinnamon and bitter melon can each lower blood sugar, so taking them together - especially alongside
+    diabetes medicines - may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.
   reference_ids:
   - REF-2514
   - REF-2528
@@ -305,14 +305,14 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
+  not yet extracted - manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
   (REF-0664..REF-0669): type-2-diabetes glycaemic meta-analyses (REF-0664, REF-0665), lipid and cardiovascular-risk
   meta-analyses (REF-0666, REF-0667), and cinnamaldehyde antifungal/anti-tumour mechanism studies (REF-0668,
   REF-0669); cinnamaldehyde and coumarin (species-caution) constituents added. Note: several pooled meta-analyses
   and the C. cassia antifungal study (REF-0668) do not isolate C. verum specifically. | 2026-06-15: migrated
   to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 5 PubMed-verified @article sources (REF-2413, REF-2414,
-  REF-2415, REF-2416, REF-2417) — woven into relevant actions/indications and the plant-level references
+  REF-2415, REF-2416, REF-2417) - woven into relevant actions/indications and the plant-level references
   bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
   draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
@@ -331,6 +331,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   record. Each supporting quote was checked to appear verbatim in the stored monograph posology, the reference
   confirmed present on the plant, and the dose form / plant part / route checked for mismatch; text rewritten
   to the source rather than having a reference stapled on. | 2026-08-14 (harvest-calendar campaign, Batch 8):
-  added harvest_readiness for the bark (provisional) — cut the coppiced straight shoots in the rainy season,
+  added harvest_readiness for the bark (provisional) - cut the coppiced straight shoots in the rainy season,
   when the bark peels easily, and strip for quills; sourced to Useful Temperate Plants (REF-3229). No prior
   harvesting.season existed.'

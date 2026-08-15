@@ -259,7 +259,7 @@ indications:
   status: needs-review
 contraindications:
 - note: 'CAUTION: Contains thujone, which is neurotoxic in significant amounts. Internal use should be
-    limited in duration and dose — short-term use only (under 4 weeks). Contraindicated in pregnancy (powerful
+    limited in duration and dose - short-term use only (under 4 weeks). Contraindicated in pregnancy (powerful
     uterine stimulant). Avoid in epilepsy, renal disease, and in children. The small amounts present in
     properly prepared bitter tinctures and vermouth are generally considered safe. The thujone content
     of absinthe was historically exaggerated.'
@@ -271,7 +271,7 @@ contraindications:
 - note: Duke (2002) rates wormwood as + (use with caution) and provides clinical evidence (score 2) for
     use as an aperitif and bitter digestive tonic, consistent with Commission E approval for dyspeptic
     complaints and loss of appetite. The plant contains absinthin and artabsin (bitter sesquiterpene lactones)
-    responsible for digestive stimulation, and also thujone — a neurotoxic ketone that is the active agent
+    responsible for digestive stimulation, and also thujone - a neurotoxic ketone that is the active agent
     responsible for 'absinthism' (historical neurological syndrome linked to absinthe consumption). Duke
     strongly cautions that thujone content limits safe long-term use, and wormwood should not be taken
     internally for more than 4 weeks at a time. Strictly contraindicated in pregnancy (abortifacient,
@@ -305,15 +305,15 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
   references to the plant-level references bucket (least-cited enrichment): REF-0728, REF-0729, REF-0730.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0728,
-  REF-1770, REF-1771, REF-1772, REF-1773, REF-1774, REF-1775, REF-1776, REF-1777, REF-1778, REF-0730)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  REF-1770, REF-1771, REF-1772, REF-1773, REF-1774, REF-1775, REF-1776, REF-1777, REF-1778, REF-0730) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 4): added
-  harvest_readiness for flower/leaf/stem (provisional) — gather the flowering herb as it comes into flower,
+  harvest_readiness for flower/leaf/stem (provisional) - gather the flowering herb as it comes into flower,
   sourced to Useful Temperate Plants (REF-3208, Artemisia absinthium). Existing harvesting.season not
   inherited; signal re-derived.'

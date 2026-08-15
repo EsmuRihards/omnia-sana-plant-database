@@ -84,8 +84,8 @@ harvesting:
 harvest_readiness:
 - part: root
   signals:
-  - "Dig the root in the autumn of the first year, before the plant runs up to flower in its second year — the first-year root is then least liable to become mouldy or worm-eaten."
-  - "SAFETY: angelica is a large Apiaceae confusable with the FATAL poison hemlock (Conium maculatum), cowbane (Cicuta virosa) and hemlock water-dropwort (Oenanthe crocata), and with giant hogweed (Heracleum mantegazzianum). Confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  - "Dig the root in the autumn of the first year, before the plant runs up to flower in its second year - the first-year root is then least liable to become mouldy or worm-eaten."
+  - "SAFETY: angelica is a large Apiaceae confusable with the FATAL poison hemlock (Conium maculatum), cowbane (Cicuta virosa) and hemlock water-dropwort (Oenanthe crocata), and with giant hogweed (Heracleum mantegazzianum). Confirm identity before gathering - see this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "The root should be dug up in the autumn of the first year, as it is then least liable to become mouldy and worm-eaten"
   reference_ids:
@@ -97,7 +97,7 @@ harvest_readiness:
 - part: leaf
   signals:
   - "Cut the whole herb for medicinal use in early summer (about June), shortly above the root; leaves may be cut from the summer after transplanting."
-  - "SAFETY: confirm identity before gathering — angelica is confusable with the FATAL hemlock/cowbane/hemlock-water-dropwort Apiaceae. See this plant's Dangerous Lookalikes."
+  - "SAFETY: confirm identity before gathering - angelica is confusable with the FATAL hemlock/cowbane/hemlock-water-dropwort Apiaceae. See this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "The whole herb, if for medicinal use, should be collected in June and cut shortly above the root."
   reference_ids:
@@ -431,10 +431,10 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: conium-maculatum
   severity: fatal
-  confused_part: The tall hollow stems, ferny leaves and white umbels — the parts cut for candied or cooked
+  confused_part: The tall hollow stems, ferny leaves and white umbels - the parts cut for candied or cooked
     stem or leaf.
   confusion_context: Poison hemlock is the classic deadly umbellifer confused with edible ones. It shares
-    angelica's tall hollow stem and white umbels, and both can show purple on the stem — but hemlock's
+    angelica's tall hollow stem and white umbels, and both can show purple on the stem - but hemlock's
     is discrete spots and blotches while angelica's is an even flush. Coniine causes a paralysis that
     stops breathing; a mouthful can be lethal.
   distinguishing_features:
@@ -445,7 +445,7 @@ dangerous_lookalikes:
   - 'Leaf cut: hemlock leaves are finely divided and fern-like; angelica leaflets are broad, large, bright
     green and coarsely toothed.'
   key_test: 'Inspect the lower stem in good light: discrete purple-red spots or blotches on a smooth,
-    hairless stem = poison hemlock — do not eat. Angelica''s purple, if any, is an even flush, and it
+    hairless stem = poison hemlock - do not eat. Angelica''s purple, if any, is an even flush, and it
     smells sweetly aromatic, never mousy.'
   reference_ids:
   - REF-2610
@@ -466,7 +466,7 @@ dangerous_lookalikes:
   - Water hemlock's lateral leaf-veins run to the notches between the marginal teeth ('vein to the cut');
     angelica's veins run to the tips of the teeth.
   key_test: 'Slice the rootstock lengthwise: a hollow, horizontally chambered root with a yellowish oily
-    juice = water hemlock — do not eat. Angelica''s root is solid.'
+    juice = water hemlock - do not eat. Angelica''s root is solid.'
   reference_ids:
   - REF-2615
   status: approved
@@ -481,10 +481,10 @@ dangerous_lookalikes:
   distinguishing_features:
   - Hemlock water-dropwort has a cluster of pale, fleshy, finger-like root tubers ('dead man's fingers');
     angelica has a single solid taproot, not a bunch of tubers.
-  - Its roots can smell pleasant and sweetish, so never use smell to clear it — go by the root form and
+  - Its roots can smell pleasant and sweetish, so never use smell to clear it - go by the root form and
     the wet habitat.
   key_test: 'Examine the roots: a cluster of pale, fleshy, finger-like tubers in wet ground = hemlock
-    water-dropwort — do not eat. Angelica has one solid taproot. Because its roots can smell pleasant,
+    water-dropwort - do not eat. Angelica has one solid taproot. Because its roots can smell pleasant,
     never rely on smell here.'
   reference_ids:
   - REF-2612
@@ -499,12 +499,12 @@ dangerous_lookalikes:
     not eating: its sap contains furanocoumarins that make skin blister and burn severely in sunlight
     (phytophotodermatitis), leaving long-lasting scars.'
   distinguishing_features:
-  - 'Size: giant hogweed is enormous — 2 to 5 m tall, with leaves up to 1 to 1.5 m and umbels up to about
-    50 cm across — dwarfing angelica.'
+  - 'Size: giant hogweed is enormous - 2 to 5 m tall, with leaves up to 1 to 1.5 m and umbels up to about
+    50 cm across - dwarfing angelica.'
   - 'Stem surface: hogweed stems are green with purple blotches AND covered in coarse, stiff white bristles;
     angelica''s stem is smooth and hairless.'
   key_test: A massive (over about 2 m) stem with purple blotches AND coarse white bristly hairs = giant
-    hogweed — do not cut or handle it with bare skin, because its sap causes severe sunlight burns. Angelica's
+    hogweed - do not cut or handle it with bare skin, because its sap causes severe sunlight burns. Angelica's
     stem is smooth and hairless.
   reference_ids:
   - REF-2616
@@ -525,7 +525,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   (REF-0697), a terpene-synthase/volatile-oil study (REF-0698) and an antioxidant study (REF-0699). |
   2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 5 PubMed-verified @article
-  sources (REF-0695, REF-0696, REF-2410, REF-2411, REF-2412) — woven into relevant actions/indications
+  sources (REF-0695, REF-0696, REF-2410, REF-2411, REF-2412) - woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing
@@ -544,7 +544,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   (3) this plant''s own reference bucket, mined for human studies that state an administered dose. Per
   the campaign''s integrity bar the entry is left unsourced at status draft rather than attached to a
   tangentially-related paper. | 2026-08-14 (harvest-calendar campaign, Batch 3): added harvest_readiness
-  for root/leaf/seed (provisional) — first-year root dug in autumn, whole herb cut in early summer (June),
+  for root/leaf/seed (provisional) - first-year root dug in autumn, whole herb cut in early summer (June),
   seed gathered when ripe; all sourced to Grieve, A Modern Herbal (REF-3202, new; Angelica archangelica
   confirmed). Strong safety cross-links to the FATAL Apiaceae lookalikes (poison hemlock, cowbane, hemlock
   water-dropwort) and giant hogweed. Existing harvesting.season not inherited; signals re-derived.'

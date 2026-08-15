@@ -59,7 +59,7 @@ harvest_readiness:
 - part: aerial-parts
   signals:
   - "Gather the leafy aerial parts (the creeping leaf-and-stolon mats) at any time during active growth in the warm season; use fresh or dried."
-  - "SAFETY: gotu kola's rounded leaves can be confused with creeping buttercup (Ranunculus repens); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  - "SAFETY: gotu kola's rounded leaves can be confused with creeping buttercup (Ranunculus repens); confirm identity before gathering - see this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "The plant can be harvested at any time of the year and is used fresh or dried"
   reference_ids:
@@ -338,7 +338,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med 
   cognitive-domain benefit (added as a needs-review qualifier). | 2026-06-15: migrated to entity schema
   (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
   to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2087, REF-2088, REF-2089,
-  REF-2090, REF-2091, REF-2092, REF-2093, REF-2094, REF-2095, REF-2096, REF-2097) — woven into relevant
+  REF-2090, REF-2091, REF-2092, REF-2093, REF-2094, REF-2095, REF-2096, REF-2097) - woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
   existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
@@ -353,6 +353,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med 
   later pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve
   these. ''Infusion'': The summary states CUTANEOUS USE ONLY and that the monograph gives no oral posology.
   The infusion it describes is applied as an impregnated dressing, not drunk. Wrong route. | 2026-08-14
-  (harvest-calendar campaign, Batch 8): added harvest_readiness for the aerial parts (provisional) — gather
+  (harvest-calendar campaign, Batch 8): added harvest_readiness for the aerial parts (provisional) - gather
   the leafy mats at any time during active growth; sourced to Useful Temperate Plants (REF-3227). Safety
   cross-link to the creeping-buttercup (Ranunculus repens) lookalike. Existing harvesting.season not inherited.'

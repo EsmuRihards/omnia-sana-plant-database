@@ -300,7 +300,7 @@ indications:
   - REF-0303
   status: needs-review
 contraindications:
-- note: Generally safe in moderate amounts. High potassium content — use caution in renal disease. Rare
+- note: Generally safe in moderate amounts. High potassium content - use caution in renal disease. Rare
     cases of hepatotoxicity reported with excessive consumption. May interact with warfarin (due to vitamin
     K content). Avoid during pregnancy.
   severity: serious
@@ -343,10 +343,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1417, REF-1418, REF-1419, REF-1420, REF-1421,
-  REF-1422, REF-1423, REF-1424, REF-1425, REF-1426) — woven into relevant actions/indications and the
+  REF-1422, REF-1423, REF-1424, REF-1425, REF-1426) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing phytochemistry/safety review (REF-1417) and applications
   review (REF-1422). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour

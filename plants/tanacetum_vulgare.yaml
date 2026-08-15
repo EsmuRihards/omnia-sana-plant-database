@@ -243,7 +243,7 @@ contraindications:
 - note: 'CAUTION: Tansy is considered toxic in medicinal doses and is NOT recommended for internal use.
     Thujone can cause convulsions, liver and kidney damage. Contraindicated in pregnancy (uterotonic and
     abortifacient). External use (as insect repellent) is generally safe. For information and historical
-    reference only — do not use internally.'
+    reference only - do not use internally.'
   severity: caution
   reference_ids:
   - REF-0098
@@ -313,10 +313,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1293, REF-1294, REF-1295, REF-1296, REF-1297,
-  REF-1298, REF-1299, REF-1300, REF-1301, REF-1302) — woven into relevant actions/indications and the
+  REF-1298, REF-1299, REF-1300, REF-1301, REF-1302) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields; preparations/dosage deliberately do NOT describe any internal preparation, consistent
   with this record''s existing safety-first contraindications. Sourced from A Modern Herbal (REF-0098)

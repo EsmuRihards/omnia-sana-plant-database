@@ -266,7 +266,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA
   indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references
   to the plant-level references bucket (least-cited enrichment): REF-0767, REF-0768, REF-0769. | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0619, REF-1988,
-  REF-0767, REF-1989, REF-1990, REF-1991, REF-0768, REF-1992, REF-1993, REF-1994) — woven into relevant
+  REF-0767, REF-1989, REF-1990, REF-1991, REF-0768, REF-1992, REF-1993, REF-1994) - woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
   existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
@@ -281,5 +281,5 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA
   to appear verbatim in the stored monograph posology, the reference confirmed present on the plant, and
   the dose form / plant part / route checked for mismatch; text rewritten to the source rather than having
   a reference stapled on. | 2026-08-14 (harvest-calendar campaign, Batch 7): added harvest_readiness for the
-  aerial parts (provisional) — gather the whole herb when in flower; sourced to Useful Temperate Plants
+  aerial parts (provisional) - gather the whole herb when in flower; sourced to Useful Temperate Plants
   (REF-3226). Existing harvesting.season not inherited; signal re-derived.'

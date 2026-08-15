@@ -258,11 +258,11 @@ indications:
   - REF-2988
   status: needs-review
 contraindications:
-- note: 'Autoimmune conditions: Chaga can stimulate parts of the immune system—people with autoimmune
-    diseases should be cautious.Blood thinners: Chaga contains compounds that may affect clotting—avoid
-    large doses if on anticoagulants.Blood sugar meds: May slightly lower glucose—monitor if taking diabetes
-    medication.Pregnancy & breastfeeding: Limited safety data—best avoided unless guided by a professional.Quality
-    matters: Wild-harvested Chaga can accumulate heavy metals from trees and soil—source from reputable
+- note: 'Autoimmune conditions: Chaga can stimulate parts of the immune system-people with autoimmune
+    diseases should be cautious.Blood thinners: Chaga contains compounds that may affect clotting-avoid
+    large doses if on anticoagulants.Blood sugar meds: May slightly lower glucose-monitor if taking diabetes
+    medication.Pregnancy & breastfeeding: Limited safety data-best avoided unless guided by a professional.Quality
+    matters: Wild-harvested Chaga can accumulate heavy metals from trees and soil-source from reputable
     suppliers.'
   severity: caution
   reference_ids:
@@ -327,12 +327,12 @@ status: verified
 last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  for this plant is attached to each action rather than split per action. constituents not yet extracted -
   manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
   out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
   references bucket (least-cited enrichment): REF-0848, REF-0849, REF-0850. | 2026-06-20: enriched to >=10
   scientific publications: added 11 PubMed-verified @article sources (REF-2195, REF-2196, REF-2197,
-  REF-2198, REF-0849, REF-2199, REF-2200, REF-2201, REF-2202, REF-2203, REF-2204) — woven into relevant
+  REF-2198, REF-0849, REF-2199, REF-2200, REF-2201, REF-2202, REF-2203, REF-2204) - woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
   sourced from the existing references bucket; general/undated claims marked status: draft per the

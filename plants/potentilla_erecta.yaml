@@ -229,8 +229,8 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   tormentil root extract shortened rotavirus diarrhoea and lowered rehydration requirements (REF-0602).
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
-  sources (REF-0970, REF-0971, REF-0972, REF-0973, REF-0974, REF-0975, REF-0976, REF-0602, REF-0977, REF-0978)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  sources (REF-0970, REF-0971, REF-0972, REF-0973, REF-0974, REF-0975, REF-0976, REF-0602, REF-0977, REF-0978) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
   sourced from the existing EMA HMPC (REF-0520) and ESCOP (REF-0521) monographs plus the paediatric diarrhoea
   RCT (REF-0602). | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for rhizome recorded as

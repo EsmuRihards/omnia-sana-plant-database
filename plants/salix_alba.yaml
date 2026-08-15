@@ -224,7 +224,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   salicin/day, 39% pain-free vs 6% placebo, effect within one week). | 2026-06-15: migrated to entity
   schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1253, REF-1254,
-  REF-1255, REF-1256, REF-1257, REF-1258, REF-1259, REF-1260, REF-1261, REF-1262) — woven into relevant
+  REF-1255, REF-1256, REF-1257, REF-1258, REF-1259, REF-1260, REF-1261, REF-1262) - woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0530) and systematic review
   (REF-0529). D6 (entity gap) 2026-07-20: this plant named a defining constituent that had NO entity in

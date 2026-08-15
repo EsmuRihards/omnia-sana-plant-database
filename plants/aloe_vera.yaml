@@ -49,7 +49,7 @@ harvesting:
 harvest_readiness:
 - part: leaf
   signals:
-  - "Harvest the thick, fleshy, mature leaves from the outside/base of the plant — the oldest, most gel-filled leaves — taking only a few outer leaves at a time. Not seasonal: outer leaves are cut as they reach full size on an established (roughly 2-3 year old) plant."
+  - "Harvest the thick, fleshy, mature leaves from the outside/base of the plant - the oldest, most gel-filled leaves - taking only a few outer leaves at a time. Not seasonal: outer leaves are cut as they reach full size on an established (roughly 2-3 year old) plant."
   - "Confirm identity before cutting: Aloe vera leaves are soft and gel-filled with fine soft marginal teeth; do not confuse with Agave americana, whose leaves are stiff and fibrous with a sharp terminal spine and no gel. See this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "Look for thick and fleshy leaves that are growing on the outside of the plant. These are typically the most mature leaves and will provide the best yield."
@@ -433,10 +433,10 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 11 PubMed-verified @article sources (REF-2234, REF-2235, REF-2236, REF-2237, REF-2238,
-  REF-2239, REF-2240, REF-2241, REF-2242, REF-2243, REF-2244) — woven into relevant actions/indications
+  REF-2239, REF-2240, REF-2241, REF-2242, REF-2243, REF-2244) - woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
   references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.
@@ -463,7 +463,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph and its own summary warns that the latex/dried leaf juice is a separate WHO monograph with
   a different action and doses differing by orders of magnitude. Citing the gel monograph for the anthraquinone
   latex is exactly the conflation the summary forbids. | 2026-08-14 (harvest-calendar campaign, Batch 2):
-  added harvest_readiness for the leaf (provisional) — cut the thick, fleshy, mature outer/lowest leaves
+  added harvest_readiness for the leaf (provisional) - cut the thick, fleshy, mature outer/lowest leaves
   as they reach full size on an established plant (maturity-based, not seasonal), sourced to Gardener''s
   Path (REF-3195, new). Safety cross-link to the Agave americana lookalike. Existing harvesting.season
   not inherited.'

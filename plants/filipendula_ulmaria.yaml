@@ -321,7 +321,7 @@ contraindications:
   status: verified
 - note: Duke (2002) rates meadowsweet as ++ and notes analgesic, antiulcer, antirheumatic, astringent,
     and anti-aggregant activities at the experimental level (score 1). The plant is historically significant
-    as a precursor to aspirin — salicylate compounds in meadowsweet were originally used to derive acetylsalicylic
+    as a precursor to aspirin - salicylate compounds in meadowsweet were originally used to derive acetylsalicylic
     acid. Unlike aspirin, meadowsweet's salicylates are combined with protective mucilaginous compounds
     that may reduce gastric irritation. Duke notes that individuals with aspirin (salicylate) sensitivity
     should avoid meadowsweet; the plant also has anticoagulant properties that may interact with blood-thinning
@@ -356,12 +356,12 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
   references to the plant-level references bucket (least-cited enrichment): REF-0815, REF-0816, REF-0817.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2030,
-  REF-2031, REF-0815, REF-0817, REF-2032, REF-2033, REF-2034, REF-2035, REF-2036, REF-2037, REF-2038)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  REF-2031, REF-0815, REF-0817, REF-2032, REF-2033, REF-2034, REF-2035, REF-2036, REF-2037, REF-2038) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer

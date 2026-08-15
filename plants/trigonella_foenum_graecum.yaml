@@ -225,7 +225,7 @@ contraindications:
   - REF-0308
   status: verified
 - note: 'Duke (2002) provides strong clinical evidence (score 2) for fenugreek''s hypoglycemic and hypocholesterolemic
-    activities — among the best-evidenced herbal treatments for blood sugar and lipid management. Anti-inflammatory
+    activities - among the best-evidenced herbal treatments for blood sugar and lipid management. Anti-inflammatory
     and demulcent activities also have clinical support. The seed is Commission E approved as an appetite
     stimulant. Dose: 6–50 g of ground seeds daily for blood sugar management; 1–4 g seeds in tea for digestive
     use. The plant has lactagogue effects and can cause maple syrup-like body odor due to sotolon content.
@@ -263,8 +263,8 @@ drug_class_interactions:
 pairings:
 - partner_id: momordica-charantia
   type: caution
-  note: Fenugreek and bitter melon can each lower blood sugar, so taking them together — especially alongside
-    diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.
+  note: Fenugreek and bitter melon can each lower blood sugar, so taking them together - especially alongside
+    diabetes medicines - may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.
   reference_ids:
   - REF-2515
   - REF-2528
@@ -273,8 +273,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: nigella-sativa
   type: caution
-  note: Fenugreek and black seed (Nigella sativa) can each lower blood sugar, so taking them together
-    — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor
+  note: Fenugreek and black seed (Nigella sativa) can each lower blood sugar, so taking them together -
+    especially alongside diabetes medicines - may add up and increase the risk of hypoglycaemia. Monitor
     your blood glucose.
   reference_ids:
   - REF-2515
@@ -292,10 +292,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1114, REF-1115, REF-1116, REF-1117, REF-0182,
-  REF-1118, REF-1119, REF-1120, REF-1121, REF-1122) — woven into relevant actions/indications and the
+  REF-1118, REF-1119, REF-1120, REF-1121, REF-1122) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-12: added monograph-base fields (botanical_description, habitat,
   harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
   bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13:

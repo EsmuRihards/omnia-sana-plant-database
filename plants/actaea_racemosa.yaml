@@ -65,7 +65,7 @@ harvest_readiness:
 - part: rhizome
   signals:
   - "Dig the whole rootstock (rhizome with its fibrous roots) in autumn, after the plant has flowered and set seed and the foliage is dying back, when the roots are at their peak weight; dry in the shade."
-  - "Confirm identity of the woodland plant before digging — the rhizome is confusable with toxic baneberry (Actaea pachypoda). See this plant's Dangerous Lookalikes."
+  - "Confirm identity of the woodland plant before digging - the rhizome is confusable with toxic baneberry (Actaea pachypoda). See this plant's Dangerous Lookalikes."
   basis: both
   constituent_note: "NC State Extension (REF-3188) ties the autumn timing to a constituent peak: 'Most black cohosh is harvested in the fall, primarily because that is when the roots are at their peak in weight and bioactive constituents.'"
   source_quote: "The part used in medicine is the rhizome, gathered in the autumn and carefully dried in the shade."
@@ -78,7 +78,7 @@ harvest_readiness:
 - part: root
   signals:
   - "Lift the fibrous roots with the rhizome in autumn, as the top dies back, when the whole rootstock is at peak weight; dry in the shade."
-  - "Confirm identity of the woodland plant before digging — the rhizome is confusable with toxic baneberry (Actaea pachypoda). See this plant's Dangerous Lookalikes."
+  - "Confirm identity of the woodland plant before digging - the rhizome is confusable with toxic baneberry (Actaea pachypoda). See this plant's Dangerous Lookalikes."
   basis: both
   source_quote: "Most black cohosh is harvested in the fall, primarily because that is when the roots are at their peak in weight and bioactive constituents."
   reference_ids:
@@ -287,8 +287,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   combination RCT (REF-0671), two null RCTs including an oncology Phase III trial (REF-0672, REF-0673)
   and an anxiety/depression meta-analysis (REF-0674). | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 5 PubMed-verified @article sources (REF-2397, REF-2398, REF-2399, REF-2400, REF-2401)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  publications: added 5 PubMed-verified @article sources (REF-2397, REF-2398, REF-2399, REF-2400, REF-2401) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 7): the ''Standardised extract'' entry
@@ -326,7 +326,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   Both summaries state outright that no tincture posology is given - WHO covers 40-60% isopropyl/ethanol
   extracts corresponding to 40 mg drug, the EU monograph covers dry extracts only. Neither supports a
   1:10 tincture. | 2026-08-14 (harvest-calendar campaign, Batch 1): added harvest_readiness for rhizome
-  and root (verified, basis both) — the whole rootstock is dug in autumn after fruiting as the foliage dies
+  and root (verified, basis both) - the whole rootstock is dug in autumn after fruiting as the foliage dies
   back, when roots are at peak weight and constituents, sourced to King''s American Dispensatory (REF-3187,
   new) and NC State Extension (REF-3188, new). Existing harvesting.season not inherited; signal re-derived.
   Safety cross-link to the toxic baneberry (Actaea pachypoda) lookalike.'

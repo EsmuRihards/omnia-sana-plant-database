@@ -408,7 +408,7 @@ internal_notes: 'New record created 2026-08-04 (Canadian goldenrod campaign). Sp
   | 2026-08-04: dropped bare "Goldenrod" from common_names (kept Canadian/Canada goldenrod). It was a shared
   alias with solidago-virgaurea and, via the plant-page os_pp_studies() common-name fallback, pulled two
   S. virgaurea studies (REF-1045 review, REF-1047 Candida RCT) onto this page''s "Selected studies" section.
-  Root cause was renderer-side only — this record''s citations are all S. canadensis-specific or generic; the
+  Root cause was renderer-side only - this record''s citations are all S. canadensis-specific or generic; the
   DB was never wrong. Renderer fixed to require a scientific-name match (common-name fallback now fires only
   when a citation names no binomial). Audited clean 2026-08-04. | 2026-08-15: Harvest Calendar (phenological)
   - added harvest_readiness for flower + leaf + stem (all provisional: PFAF REF-3340, flowering tops gathered

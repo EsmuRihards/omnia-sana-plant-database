@@ -54,7 +54,7 @@ harvest_readiness:
 - part: leaf
   signals:
   - "Gather young leaves in spring, before the plant comes into flower, while they are still bright green, glossy and not fully unfurled; leaves gathered after flowering toughen and lose quality."
-  - "SAFETY: the young spring foliage is exactly the stage confused with the FATAL poison hemlock (Conium maculatum), hemlock water-dropwort (Oenanthe crocata) and fool's parsley (Aethusa cynapium). Confirm identification before gathering — see this plant's Dangerous Lookalikes."
+  - "SAFETY: the young spring foliage is exactly the stage confused with the FATAL poison hemlock (Conium maculatum), hemlock water-dropwort (Oenanthe crocata) and fool's parsley (Aethusa cynapium). Confirm identification before gathering - see this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "The leaves are best harvested before the plant comes into flower."
   reference_ids:
@@ -62,11 +62,11 @@ harvest_readiness:
   independent_confirmation: null
   species_confirmed: true
   status: provisional
-  notes: "PFAF also gives a divergent MEDICINAL-herb window — 'The plant is harvested when it is in flower in late spring to mid-summer' — recorded here, not merged: the tender-leaf harvest (before flowering) and the flowering-herb medicinal harvest differ by intended use. Single source -> provisional."
+  notes: "PFAF also gives a divergent MEDICINAL-herb window - 'The plant is harvested when it is in flower in late spring to mid-summer' - recorded here, not merged: the tender-leaf harvest (before flowering) and the flowering-herb medicinal harvest differ by intended use. Single source -> provisional."
 - part: stem
   signals:
   - "Gather the tender leaf-stalks in spring together with the young leaves, before the plant comes into flower."
-  - "SAFETY: confirm identification before gathering — the young spring plant is confused with FATAL Apiaceae lookalikes (poison hemlock and relatives). See this plant's Dangerous Lookalikes."
+  - "SAFETY: confirm identification before gathering - the young spring plant is confused with FATAL Apiaceae lookalikes (poison hemlock and relatives). See this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "The leaves are best harvested before the plant comes into flower."
   reference_ids:
@@ -77,7 +77,7 @@ harvest_readiness:
   notes: "'Stem' here is the tender leaf-stalk (petiole), gathered with the young pre-flowering leaves; PFAF's leaf statement is the source. Single source -> provisional."
 - part: root
   status: gap
-  notes: "No reliable phenological source found for the ROOT of Aegopodium podagraria after searching: Grieve's A Modern Herbal (lists 'Parts Used: Herb, root' but gives NO collection stage), King's American Dispensatory (no Aegopodium entry), PFAF (only unsourced reader comments about 'early spring' underground stems, not an authoritative statement) and a peer-reviewed goutweed review (OUCI/dntb aggregator; botanical + chemical, no harvest timing). The root is a minor part and its harvest stage is undocumented in these seams. Revisit with a European flora or ethnobotanical monograph. SAFETY: the root is confused with the FATAL Oenanthe crocata (mistaken for parsnip) — see Dangerous Lookalikes."
+  notes: "No reliable phenological source found for the ROOT of Aegopodium podagraria after searching: Grieve's A Modern Herbal (lists 'Parts Used: Herb, root' but gives NO collection stage), King's American Dispensatory (no Aegopodium entry), PFAF (only unsourced reader comments about 'early spring' underground stems, not an authoritative statement) and a peer-reviewed goutweed review (OUCI/dntb aggregator; botanical + chemical, no harvest timing). The root is a minor part and its harvest stage is undocumented in these seams. Revisit with a European flora or ethnobotanical monograph. SAFETY: the root is confused with the FATAL Oenanthe crocata (mistaken for parsnip) - see Dangerous Lookalikes."
 traditional_uses:
   text: Ground elder has long been used in European folk medicine as a remedy for gout and rheumatic and
     arthritic joint pain (reflected in the name 'podagraria', from podagra, gout), typically applied as
@@ -226,7 +226,7 @@ indications:
   status: needs-review
 contraindications:
 - note: Generally safe as a food plant when young leaves are harvested. Contains furocoumarins (photosensitising
-    compounds) — handling large quantities in bright sunlight may cause skin irritation. Individuals with
+    compounds) - handling large quantities in bright sunlight may cause skin irritation. Individuals with
     Apiaceae allergies should exercise caution. Not recommended in therapeutic doses during pregnancy.
   severity: caution
   reference_ids:
@@ -269,12 +269,12 @@ dangerous_lookalikes:
     as ground elder.
   distinguishing_features:
   - Ground elder leaves are in neat groups of three (twice-ternate) with broad, oval, sharply toothed
-    leaflets. Poison hemlock leaves are finely divided, feathery and fern-like — not in groups of three.
+    leaflets. Poison hemlock leaves are finely divided, feathery and fern-like - not in groups of three.
   - Poison hemlock has a hairless stem blotched and streaked with purple; ground elder's stem is plain
     green and grooved, never purple-spotted.
   - Crushed ground elder smells mildly of parsley or carrot; crushed poison hemlock smells foul and musty
     ('mousy').
-  key_test: 'Check the stem: purple blotches or streaks on a smooth, hairless stem = poison hemlock —
+  key_test: 'Check the stem: purple blotches or streaks on a smooth, hairless stem = poison hemlock -
     do not eat. Ground elder has a plain green grooved stem, broad toothed leaflets in threes, and a mild
     parsley smell (never mousy).'
   reference_ids:
@@ -296,7 +296,7 @@ dangerous_lookalikes:
   - Hemlock water-dropwort has a cluster of pale, swollen, finger-like root tubers ('dead man's fingers');
     ground elder spreads by thin white creeping rhizomes, not fleshy tubers.
   key_test: If the plant is growing in or at the edge of water and has a cluster of swollen finger-like
-    root tubers, treat it as hemlock water-dropwort — do not touch the roots. Ground elder grows in dry
+    root tubers, treat it as hemlock water-dropwort - do not touch the roots. Ground elder grows in dry
     ground from thin creeping rhizomes.
   reference_ids:
   - REF-2612
@@ -306,17 +306,17 @@ dangerous_lookalikes:
 - dangerous_plant: aethusa-cynapium
   severity: dangerous
   confused_part: Young leaves and foliage in spring.
-  confusion_context: Fool's parsley is a common carrot-family weed of gardens and disturbed ground — named
-    for being mistaken for parsley — that contains toxic polyacetylenes and can cause burning of the mouth,
+  confusion_context: Fool's parsley is a common carrot-family weed of gardens and disturbed ground - named
+    for being mistaken for parsley - that contains toxic polyacetylenes and can cause burning of the mouth,
     vomiting and neurological effects, especially in children.
   distinguishing_features:
   - Fool's parsley leaves are finely dissected, thin, dark green and fern-like; ground elder leaves are
-    broad, oval, toothed leaflets in neat groups of three — a coarser, very different leaf.
+    broad, oval, toothed leaflets in neat groups of three - a coarser, very different leaf.
   - In flower, fool's parsley shows three long, narrow bracteoles hanging down beneath each small flower
     cluster (a 'beard'); ground elder umbels have no such drooping beard.
   - Crushed fool's parsley smells foul and acrid ('mousy'); ground elder smells mildly of parsley or carrot.
-  key_test: Finely dissected fern-like leaves with a foul mousy smell — and, if flowering, a drooping
-    three-part 'beard' under each little umbel — mean fool's parsley, not ground elder (which has broad
+  key_test: Finely dissected fern-like leaves with a foul mousy smell - and, if flowering, a drooping
+    three-part 'beard' under each little umbel - mean fool's parsley, not ground elder (which has broad
     toothed leaflets in threes and a mild parsley scent).
   reference_ids:
   - REF-2613
@@ -329,12 +329,12 @@ status: verified
 last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  for this plant is attached to each action rather than split per action. constituents not yet extracted -
   manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
   out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
   references bucket (least-cited enrichment): REF-0719, REF-0720, REF-0721. | 2026-06-20: enriched to >=10
   scientific publications: added 7 PubMed-verified @article sources (REF-0719, REF-0721, REF-0720, REF-1688,
-  REF-1689, REF-1690, REF-1691) — woven into relevant actions/indications and the plant-level references
+  REF-1689, REF-1690, REF-1691) - woven into relevant actions/indications and the plant-level references
   bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
   traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-19
@@ -347,8 +347,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph''s Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own
   reference bucket, mined for human studies that state an administered dose. Per the campaign''s integrity
   bar the entry is left unsourced at status draft rather than attached to a tangentially-related paper. |
-  2026-08-14 (harvest-calendar campaign, Batch 1): added harvest_readiness — leaf and stem provisional
+  2026-08-14 (harvest-calendar campaign, Batch 1): added harvest_readiness - leaf and stem provisional
   (young spring foliage/leaf-stalks before flowering, PFAF REF-3190, new; a divergent medicinal in-flower
   harvest is logged, not merged); root = gap (no phenological source found after searching Grieve, King''s,
-  PFAF and a goutweed review — search-log stored in the entry). Existing harvesting.season not inherited.
+  PFAF and a goutweed review - search-log stored in the entry). Existing harvesting.season not inherited.
   Safety cross-links to the FATAL Apiaceae lookalikes, whose confusable stage is this same young foliage.'

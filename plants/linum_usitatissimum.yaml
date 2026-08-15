@@ -249,7 +249,7 @@ indications:
   status: needs-review
 contraindications:
 - note: Flaxseeds are safe for most people at recommended food amounts (1–2 tablespoons ground/day). They
-    must be ground or milled to be bioavailable — whole seeds largely pass through the gut undigested.
+    must be ground or milled to be bioavailable - whole seeds largely pass through the gut undigested.
     High fibre content may cause bloating, flatulence, and loose stools, especially if fibre intake is
     increased rapidly without adequate hydration. Flaxseeds contain cyanogenic glycosides (linamarin,
     linustatin); cooking or roasting reduces these to negligible levels in normal food amounts. Raw seeds
@@ -264,8 +264,8 @@ contraindications:
   - REF-0190
   - REF-0230
   status: verified
-- note: 'Medication interactions: Flaxseed may reduce absorption of oral medications if taken simultaneously
-    — space flaxseed supplementation 1–2 hours from medications. Omega-3 ALA and lignans may mildly enhance
+- note: 'Medication interactions: Flaxseed may reduce absorption of oral medications if taken simultaneously -
+    space flaxseed supplementation 1–2 hours from medications. Omega-3 ALA and lignans may mildly enhance
     anticoagulant/antiplatelet effects; use caution with blood thinners. Some sources suggest caution
     with hormone-sensitive conditions due to phytoestrogen (lignan) content, though dietary amounts are
     unlikely to pose risk (Adolphe et al., 2010).'
@@ -330,10 +330,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-2216, REF-2217, REF-2218, REF-2219, REF-2220,
-  REF-2221, REF-2222, REF-2223, REF-2224, REF-2225) — woven into relevant actions/indications and the
+  REF-2221, REF-2222, REF-2223, REF-2224, REF-2225) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing reference bucket (REF-2216..2225) plus prior book refs.
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)

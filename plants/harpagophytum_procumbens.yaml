@@ -213,7 +213,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standar
   dose standardisation (REF-0562). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 11 PubMed-verified @article sources (REF-1829, REF-1830, REF-1831, REF-1832, REF-1833, REF-1834,
-  REF-1835, REF-1836, REF-1837, REF-1838, REF-1839) — woven into relevant actions/indications and the
+  REF-1835, REF-1836, REF-1837, REF-1838, REF-1839) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
   harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
   claims marked status: draft per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar

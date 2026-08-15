@@ -337,10 +337,10 @@ last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1233, REF-1234, REF-1235, REF-1236, REF-1237,
-  REF-1238, REF-1239, REF-1240, REF-1241, REF-1242) — woven into relevant actions/indications and the
+  REF-1238, REF-1239, REF-1240, REF-1241, REF-1242) - woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing classic herbal reference (REF-0098, A Modern Herbal)
   and essential-oil review (REF-0018) plus phytochemistry studies (REF-1235, REF-1236, REF-1242); did

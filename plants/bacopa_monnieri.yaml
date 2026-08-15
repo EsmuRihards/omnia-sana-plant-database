@@ -197,8 +197,8 @@ indications:
   - REF-0309
   status: needs-review
 contraindications:
-- note: Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal
-    — nausea, stomach cramps, and increased bowel movements — which can be reduced by taking with food.
+- note: Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal -
+    nausea, stomach cramps, and increased bowel movements - which can be reduced by taking with food.
     Not recommended during pregnancy. May interact with medications that increase acetylcholine levels
     (e.g. Alzheimer's medications). Use with caution in thyroid conditions, as bacopa may increase thyroid
     hormone levels.
@@ -252,16 +252,16 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  not yet extracted - manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
   references to the plant-level references bucket (least-cited enrichment): REF-0740, REF-0741, REF-0742.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0742,
-  REF-2107, REF-0740, REF-2108, REF-2109, REF-2110, REF-2111, REF-2112, REF-2113, REF-2114, REF-2115)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  REF-2107, REF-0740, REF-2108, REF-2109, REF-2110, REF-2111, REF-2112, REF-2113, REF-2114, REF-2115) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 5): added
-  harvest_readiness for whole-plant + leaf (provisional, basis constituent) — harvest during active
+  harvest_readiness for whole-plant + leaf (provisional, basis constituent) - harvest during active
   warm-season growth at the mature/flowering stage when bacoside content peaks, sourced to a growth-stage
   study (Thai J. Agric. Sci., REF-3215; week 12 = peak actives, coinciding with flowering). No
   traditional-collection source located. Existing harvesting.season not inherited.'

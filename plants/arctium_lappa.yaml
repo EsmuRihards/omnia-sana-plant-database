@@ -73,7 +73,7 @@ harvest_readiness:
 - part: root
   signals:
   - "Dig the root from first-year plants (the basal leaf-rosette stage, before the plant bolts and flowers in its second year), in mid-summer; the first-year root is the part used."
-  - "SAFETY: burdock root is confusable with the root of deadly nightshade (Atropa belladonna), a fatal confusion. Confirm identity before digging — see this plant's Dangerous Lookalikes."
+  - "SAFETY: burdock root is confusable with the root of deadly nightshade (Atropa belladonna), a fatal confusion. Confirm identity before digging - see this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "The roots of one-year old plants are harvested in mid-summer and dried."
   reference_ids:
@@ -346,14 +346,14 @@ last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. Further enriched 2026-06-15 with five PubMed sources
+  not yet extracted - manual enrichment pending. Further enriched 2026-06-15 with five PubMed sources
   (REF-0705..REF-0709): two phytochemistry/pharmacology reviews (REF-0705, REF-0709), a review of root
   inulin-type fructans and gastric-protective activity (REF-0706), a diabetes-mechanism review (REF-0707)
   and a hepatoprotective antioxidant study (REF-0708); inulin and caffeoylquinic-acid constituents added.
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article
   sources (REF-0709, REF-0705, REF-2338, REF-0707, REF-2339, REF-0722, REF-2340, REF-2341, REF-2342, REF-2343,
-  REF-0706) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  REF-0706) - woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
   added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
   dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
   the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
@@ -369,7 +369,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   was checked to appear verbatim in the stored monograph posology, the reference confirmed present on
   the plant, and the dose form / plant part / route checked for mismatch; text rewritten to the source
   rather than having a reference stapled on. | 2026-08-14 (harvest-calendar campaign, Batch 3): added
-  harvest_readiness — root verified (first-year root dug in mid-summer, at the basal-rosette stage before
+  harvest_readiness - root verified (first-year root dug in mid-summer, at the basal-rosette stage before
   it bolts; Useful Temperate Plants REF-3203 + Grieve REF-3204); seed provisional (ripe burs in summer,
   REF-3203); leaf gap (no harvest-timing source found). Safety cross-link to the FATAL deadly-nightshade
   (Atropa belladonna) root confusion. Existing harvesting.season not inherited; signals re-derived.'

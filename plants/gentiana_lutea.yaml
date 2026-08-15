@@ -189,7 +189,7 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: veratrum-album
   severity: fatal
-  confused_part: Non-flowering basal leaf rosette and root — the parts dug to make gentian wine, bitters,
+  confused_part: Non-flowering basal leaf rosette and root - the parts dug to make gentian wine, bitters,
     schnapps or tea, before either plant flowers.
   confusion_context: One of the best-documented lethal foraging mix-ups in Europe. White hellebore (Veratrum
     album) and yellow gentian grow side by side in the same subalpine meadows, and before flowering their
@@ -198,8 +198,8 @@ dangerous_lookalikes:
     poisoning begins within 30 minutes to a few hours with vomiting, then a dangerously slow heartbeat
     and a collapse in blood pressure. Documented in multiple European case reports.
   distinguishing_features:
-  - 'Leaf arrangement is decisive and works even before flowering: yellow gentian has OPPOSITE leaves
-    — a matching pair growing directly across from each other at each stem node. Veratrum album has ALTERNATE
+  - 'Leaf arrangement is decisive and works even before flowering: yellow gentian has OPPOSITE leaves -
+    a matching pair growing directly across from each other at each stem node. Veratrum album has ALTERNATE
     leaves, attached singly and spiralling up the stem, each clasping/sheathing it.'
   - Yellow gentian leaves are smooth and hairless with a few (about 5–7) bold arching parallel veins.
     Veratrum album leaves are strongly pleated and corrugated, with many prominent parallel veins and
@@ -209,7 +209,7 @@ dangerous_lookalikes:
     rosette or root.'
   key_test: Check how the leaves attach to the stem. A matching PAIR directly opposite each other at each
     node = yellow gentian. Leaves attached one at a time, spiralling and sheathing the stem = Veratrum
-    album — do not harvest. If you cannot confirm opposite leaf pairs, do not forage.
+    album - do not harvest. If you cannot confirm opposite leaf pairs, do not forage.
   reference_ids:
   - REF-2599
   - REF-2600
@@ -229,7 +229,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   species), cited here for constituent characterisation and the digestive-secretion action. | 2026-06-15:
   migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). |
   2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1647,
-  REF-1648, REF-0580, REF-1649, REF-1650, REF-1651, REF-1652, REF-1653, REF-1654, REF-1655) — woven into
+  REF-1648, REF-0580, REF-1649, REF-1650, REF-1651, REF-1652, REF-1653, REF-1654, REF-1655) - woven into
   relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
   fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from
   the existing references bucket; general/undated claims marked status: draft per the integrity-first

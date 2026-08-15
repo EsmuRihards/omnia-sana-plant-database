@@ -219,7 +219,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study
   officinalis and demonstrating its antioxidant (peroxynitrite-scavenging) activity (REF-0629). | 2026-06-15:
   migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
   | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources (REF-1544,
-  REF-1545, REF-1546, REF-1547, REF-1548, REF-1549, REF-1550, REF-1551, REF-1552) — woven into relevant
+  REF-1545, REF-1546, REF-1547, REF-1548, REF-1549, REF-1550, REF-1551, REF-1552) - woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing antioxidant/COX-2 study (REF-0479) and the spring/autumn
   phenolic-profiling study (REF-0549). | 2026-08-15: Harvest Calendar (phenological) - added

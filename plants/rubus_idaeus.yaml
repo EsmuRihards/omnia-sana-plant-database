@@ -203,8 +203,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   deliveries, no effect on first stage, no adverse effects) - the action remains needs-review given the
   single small trial. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
   constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified
-  @article sources (REF-0497, REF-1536, REF-1537, REF-1538, REF-1539, REF-1540, REF-1541, REF-1542, REF-1543)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  @article sources (REF-0497, REF-1536, REF-1537, REF-1538, REF-1539, REF-1540, REF-1541, REF-1542, REF-1543) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
   sourced from the existing pregnancy observational study (REF-0497), pregnancy survey (REF-0498) and
   phenolic-composition study (REF-1536). | 2026-08-15: Harvest Calendar (phenological) - added

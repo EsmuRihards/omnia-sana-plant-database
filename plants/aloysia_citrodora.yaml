@@ -69,7 +69,7 @@ harvesting:
 harvest_readiness:
 - part: leaf
   signals:
-  - "Harvest the leaves as the plant approaches flowering — just before the tiny white flowers open — when the leaf aromatic oil is at its peak; oil (citral) content falls once flowering is under way."
+  - "Harvest the leaves as the plant approaches flowering - just before the tiny white flowers open - when the leaf aromatic oil is at its peak; oil (citral) content falls once flowering is under way."
   basis: both
   constituent_note: "The same source ties the timing to leaf-oil content: 'Once flowering begins in earnest, the plant redirects its energy away from leaf oil production,' and 'Harvest a week after full bloom, and you are getting a mere fraction of the medicinal load.'"
   source_quote: "just before its tiny white flowers open, its leaves reach a medicinal peak"
@@ -300,8 +300,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   antioxidant/anti-inflammatory study (REF-0692), an antioxidant/antiproliferation study (REF-0693) and
   an immune/antioxidant study (REF-0694). | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 5 PubMed-verified @article sources (REF-0474, REF-0693, REF-2407, REF-2408, REF-2409)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  publications: added 5 PubMed-verified @article sources (REF-0474, REF-0693, REF-2407, REF-2408, REF-2409) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
@@ -328,6 +328,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Tincture'':
   The summary states ''Herbal tea preparations only - the monograph lists no tincture or extract''. Classic
   tincture dead end. | 2026-08-14 (harvest-calendar campaign, Batch 2): added harvest_readiness for the
-  leaf (provisional, basis both) — harvest just before the tiny white flowers open, when leaf oil/citral
+  leaf (provisional, basis both) - harvest just before the tiny white flowers open, when leaf oil/citral
   peaks and before it falls at flowering, sourced to Nature and Garden (REF-3196, new). Existing
   harvesting.season not inherited; signal re-derived.'

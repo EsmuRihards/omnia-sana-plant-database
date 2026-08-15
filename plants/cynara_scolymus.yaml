@@ -227,7 +227,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   cholesterol (REF-0585). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
   out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added
   8 PubMed-verified @article sources (REF-1634, REF-1635, REF-0461, REF-1636, REF-1637, REF-1638, REF-1639,
-  REF-1640) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  REF-1640) - woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
   added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
   dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
   the integrity-first sourcing policy. | 2026-08-14: Harvest Calendar (phenological) - added

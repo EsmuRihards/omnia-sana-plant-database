@@ -61,7 +61,7 @@ harvest_readiness:
 - part: root
   signals:
   - "Dig the root in autumn, after the aerial parts die back; it can be used fresh or dried."
-  - "SAFETY: pleurisy-root is confusable with the toxic hemp dogbane (Apocynum cannabinum), especially at the root. Confirm identity before digging — see this plant's Dangerous Lookalikes."
+  - "SAFETY: pleurisy-root is confusable with the toxic hemp dogbane (Apocynum cannabinum), especially at the root. Confirm identity before digging - see this plant's Dangerous Lookalikes."
   basis: traditional
   source_quote: "The root is harvested in the autumn and can be used fresh or dried."
   reference_ids:
@@ -239,11 +239,11 @@ internal_notes: 'Enriched 2026-06-12 from general herbal literature (traditional
   to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0734,
   REF-0738, REF-0735. | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified
-  @article sources (REF-0734, REF-1944, REF-1945, REF-1946, REF-0738, REF-1947, REF-0626, REF-1948, REF-1949)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  @article sources (REF-0734, REF-1944, REF-1945, REF-1946, REF-0738, REF-1947, REF-0626, REF-1948, REF-1949) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 5): added harvest_readiness for the root
-  (provisional) — dig in autumn after the aerial parts die back, sourced to Useful Temperate Plants
+  (provisional) - dig in autumn after the aerial parts die back, sourced to Useful Temperate Plants
   (REF-3211). Safety cross-link to the toxic hemp-dogbane (Apocynum cannabinum) root confusion. Existing
   harvesting.season not inherited.'

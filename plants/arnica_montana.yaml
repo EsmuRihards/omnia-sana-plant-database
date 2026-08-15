@@ -299,7 +299,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0725,
   REF-0726, REF-0727. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
   @article sources (REF-0726, REF-0398, REF-2098, REF-2099, REF-2100, REF-2101, REF-2102, REF-2103, REF-2104,
-  REF-2105, REF-2106) — woven into relevant actions/indications and the plant-level references bucket.
+  REF-2105, REF-2106) - woven into relevant actions/indications and the plant-level references bucket.
   | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
   draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
@@ -316,6 +316,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   ESCOP, Commission E), may still resolve these. ''Infused oil'': The monograph''s cutaneous forms are
   tincture-based and liquid-extract-based semi-solid preparations and impregnated dressings. An oil infusion
   of flower heads in a carrier oil is a different preparation and is not covered. | 2026-08-14
-  (harvest-calendar campaign, Batch 4): added harvest_readiness for the flower head (provisional) — pick
+  (harvest-calendar campaign, Batch 4): added harvest_readiness for the flower head (provisional) - pick
   the heads when fully open, before insect damage, sourced to Useful Temperate Plants (REF-3207). Existing
   harvesting.season not inherited; signal re-derived.'

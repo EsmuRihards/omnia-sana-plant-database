@@ -186,7 +186,7 @@ indications:
   status: needs-review
 contraindications:
 - note: Generally very safe as a food. Raw or undercooked shiitake can cause a rare skin rash (shiitake
-    dermatitis / flagellate dermatitis) in sensitive individuals — fully cooking eliminates this risk.
+    dermatitis / flagellate dermatitis) in sensitive individuals - fully cooking eliminates this risk.
     May have mild anticoagulant effects. Rarely causes digestive upset. Well tolerated in normal culinary
     quantities.
   severity: caution
@@ -201,7 +201,7 @@ contraindications:
     clinical applications of shiitake preparations for immune support, cancer adjuvant therapy, and cholesterol
     management. Dose: 1–3 (606 mg) capsules up to three times daily for standardized preparations. Shiitake
     dermatitis (flagellate erythema) is a rare but recognized adverse effect from eating raw or undercooked
-    shiitake — cooking prevents this (Duke, 2002).'
+    shiitake - cooking prevents this (Duke, 2002).'
   severity: info
   reference_ids:
   - REF-0293
@@ -229,11 +229,11 @@ status: verified
 last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  for this plant is attached to each action rather than split per action. constituents not yet extracted -
   manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
   out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
   PubMed-verified @article sources (REF-1163, REF-1164, REF-1165, REF-1166, REF-1167, REF-1168, REF-1169,
-  REF-1170, REF-1171, REF-1172) — woven into relevant actions/indications and the plant-level references
+  REF-1170, REF-1171, REF-1172) - woven into relevant actions/indications and the plant-level references
   bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
   traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added

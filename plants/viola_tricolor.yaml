@@ -267,8 +267,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   T-cell proliferation and macrophage cytokine secretion in vitro (REF-0617), reinforcing the immunomodulatory
   action. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified
-  @article sources (REF-0617, REF-1600, REF-1601, REF-1602, REF-1603, REF-1604, REF-1605, REF-1606, REF-0463)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  @article sources (REF-0617, REF-1600, REF-1601, REF-1602, REF-1603, REF-1604, REF-1605, REF-1606, REF-0463) -
+  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour

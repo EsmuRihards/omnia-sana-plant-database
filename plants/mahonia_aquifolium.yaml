@@ -210,7 +210,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J C
   significant PASI and quality-of-life improvement in mild-to-moderate psoriasis (REF-0591). | 2026-06-15:
   migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
   | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1173,
-  REF-1174, REF-1175, REF-1176, REF-1177, REF-1178, REF-1179, REF-1180, REF-1181, REF-1182) — woven into
+  REF-1174, REF-1175, REF-1176, REF-1177, REF-1178, REF-1179, REF-1180, REF-1181, REF-1182) - woven into
   relevant actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields; no dedicated botanical review in the bucket (clinical/dermatology-focused sources),
   so botanical_description/habitat/harvesting are status:draft general botanical facts with no fabricated

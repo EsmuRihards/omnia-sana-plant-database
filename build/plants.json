@@ -50471,6 +50471,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "bark",
+     "signals": [
+      "Strip the bark in autumn; use it within a year, as it quickly loses potency."
+     ],
+     "basis": "traditional",
+     "source_quote": "The bark is harvested in the autumn and should not be stored for longer than one year since it quickly loses its medicinal properties.",
+     "reference_ids": [
+      "REF-3319"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3319); the bark is stripped in autumn and used within a year (it quickly loses potency). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Wild cherry bark has a long Native American and European settler tradition as a cough remedy, valued specifically for its unusual cough-suppressant action - from the cyanogenic glycoside prunasin, which releases a trace, sedating amount of cyanide that calms the cough reflex. It remains a classic ingredient of traditional cough syrups.",
     "reference_ids": [
@@ -50642,7 +50659,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "wild-cherry-bark"
   },
   {
@@ -50696,6 +50713,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruiting-body",
+     "signals": [
+      "Harvest as the partial veil under the cap tears (ragged and still hanging), before it fully detaches and the gills blacken with dropping spores - an intact veil means not ready."
+     ],
+     "basis": "traditional",
+     "source_quote": "Intact = not ready. Torn but still hanging in ragged fragments = harvest window open.",
+     "reference_ids": [
+      "REF-3321"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Azarius (REF-3321) for Psilocybe cubensis; the partial veil under the cap is the readiness signal - harvest as it tears, before it detaches and spores drop. Single source -> provisional. SAFETY: the deadly Galerina marginata (autumn skullcap) can resemble small brown Psilocybe - confirm identity; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Psilocybe mushrooms have a documented history of ceremonial and shamanic use in Mesoamerican indigenous traditions, later popularised globally from the mid-20th century onward. Contemporary clinical research on purified psilocybin, the principal active compound, supports use under professional supervision in psilocybin-assisted therapy for depression and anxiety, distinct from unsupervised recreational use.",
     "reference_ids": [
@@ -50881,7 +50915,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "psilocybin-mushrooms"
   },
   {
@@ -50963,6 +50997,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts in spring, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "They are harvested in the spring and dried for later use",
+     "reference_ids": [
+      "REF-3320"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3320); the flowering herb is gathered in spring (in flower March-May). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Lungwort's spotted leaves inspired its traditional use, under the Doctrine of Signatures, as a remedy for lung and respiratory complaints - coughs, bronchitis, catarrh and sore throat - valued for its soothing mucilage and astringent tannins. Modern research confirms antioxidant and anti-inflammatory (COX-2-inhibiting) activity of its phenolic-rich extract, though clinical trial evidence in humans remains limited.",
     "reference_ids": [
@@ -51141,7 +51192,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "lungwort"
   },
   {
@@ -51196,6 +51247,13 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). No species-specific phenological source for Reynoutria japonica (Japanese knotweed) harvest timing was found: the PFAF pages for all three synonyms (Reynoutria japonica, Fallopia japonica, Polygonum cuspidatum) are empty templates, and Useful Temperate Plants returns 'No Record' for Fallopia japonica. (The resveratrol-rich rhizome is conventionally dug in autumn or early spring, and the young shoots gathered in spring, but no source stating those stages was found.) The leaf and stem likewise lack a species-specific harvest source here. Next seams: a foraging flora, a resveratrol/knotweed monograph, or Grieve."
+    }
+   ],
    "traditional_uses": {
     "text": "Known as Hu Zhang in Traditional Chinese Medicine, Japanese knotweed root has a centuries-old use for inflammation, infections, jaundice and menstrual complaints. Modern interest centres on its resveratrol and emodin content, now studied (as Polygonum cuspidatum extract) for antioxidant, anti-inflammatory, cardioprotective and hepatoprotective activity, and more recently for supportive use in acute respiratory infections.",
     "reference_ids": [
@@ -51423,7 +51481,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "japanese-knotweed"
   },
   {
@@ -51479,6 +51537,18 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "status": "gap",
+     "notes": "GAP (documented dead end). No phenological source stating the rhizome-harvest stage for Rhodiola rosea was found: both PFAF and Useful Temperate Plants (Ken Fern) give the flowering period (May-August) and a propagation-division window (August to early autumn) but no medicinal-harvest season. (Roseroot is conventionally dug in autumn from mature plants, but no source states that stage.) Next seams: a Scandinavian/alpine adaptogen cultivation source, or Grieve."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). As for the rhizome: no source stating the root-harvest stage for Rhodiola rosea was found (PFAF and Useful Temperate Plants give only flowering and propagation-division timing). The root is dug with the rhizome; no season sourced."
+    }
+   ],
    "traditional_uses": {
     "text": "Rhodiola has a long tradition of use across Scandinavian, Russian and Central Asian folk medicine as a tonic for cold-climate hardiness, physical endurance and mental stamina. It is classified as a modern 'adaptogen', and clinical trials support benefits for stress-related fatigue, mood and cognitive performance.",
     "reference_ids": [
@@ -51821,7 +51891,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "rhodiola-rosea"
   },
   {

@@ -66,6 +66,18 @@ harvesting:
   reference_ids:
   - REF-0525
   status: verified
+harvest_readiness:
+- part: bark
+  signals:
+  - "Strip the bark in autumn; use it within a year, as it quickly loses potency."
+  basis: traditional
+  source_quote: "The bark is harvested in the autumn and should not be stored for longer than one year since it quickly loses its medicinal properties."
+  reference_ids:
+  - REF-3319
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3319); the bark is stripped in autumn and used within a year (it quickly loses potency). Single lineage -> provisional."
 traditional_uses:
   text: Wild cherry bark has a long Native American and European settler tradition as a cough remedy,
     valued specifically for its unusual cough-suppressant action - from the cyanogenic glycoside prunasin,
@@ -185,7 +197,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and The Herbal
   Medic monographs). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited. Further enriched
@@ -198,4 +210,6 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base
   fields, sourced from the existing general herbal reviews (REF-0524, REF-0525). | 2026-07-13: added anticancer
   action (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s
-  cited literature, as part of the cancer-condition campaign.'
+  cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) -
+  added harvest_readiness for bark (provisional: PFAF REF-3319, stripped in autumn, used within a year).
+  Single lineage. Binomial confirmed.'

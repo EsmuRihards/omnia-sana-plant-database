@@ -46,6 +46,18 @@ harvesting:
   reference_ids:
   - REF-1525
   status: verified
+harvest_readiness:
+- part: fruiting-body
+  signals:
+  - "Harvest as the partial veil under the cap tears (ragged and still hanging), before it fully detaches and the gills blacken with dropping spores - an intact veil means not ready."
+  basis: traditional
+  source_quote: "Intact = not ready. Torn but still hanging in ragged fragments = harvest window open."
+  reference_ids:
+  - REF-3321
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Azarius (REF-3321) for Psilocybe cubensis; the partial veil under the cap is the readiness signal - harvest as it tears, before it detaches and spores drop. Single source -> provisional. SAFETY: the deadly Galerina marginata (autumn skullcap) can resemble small brown Psilocybe - confirm identity; see Dangerous Lookalikes."
 traditional_uses:
   text: Psilocybe mushrooms have a documented history of ceremonial and shamanic use in Mesoamerican indigenous
     traditions, later popularised globally from the mid-20th century onward. Contemporary clinical research
@@ -212,7 +224,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -224,4 +236,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing ethnobotany review (REF-1524), cultivation review (REF-1525)
   and pharmacokinetics studies (REF-1516, REF-1517, REF-1518, REF-1519, REF-1521); mirrors the fungal-field
   pattern used for ganoderma-lingzhi/pleurotus-ostreatus. | 2026-07-11 (fix): added the constituents field
-  that was missed in the earlier batch-25 edit (caught by the worklist re-check gotcha).'
+  that was missed in the earlier batch-25 edit (caught by the worklist re-check gotcha). | 2026-08-15:
+  Harvest Calendar (phenological) - added harvest_readiness for fruiting-body (provisional: Azarius REF-3321;
+  harvest as the partial veil under the cap tears, before spores drop). SAFETY: deadly Galerina marginata
+  lookalike. Binomial confirmed.'

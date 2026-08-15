@@ -47,6 +47,13 @@ harvesting:
   reference_ids:
   - REF-1528
   status: verified
+harvest_readiness:
+- part: rhizome
+  status: gap
+  notes: "GAP (documented dead end). No phenological source stating the rhizome-harvest stage for Rhodiola rosea was found: both PFAF and Useful Temperate Plants (Ken Fern) give the flowering period (May-August) and a propagation-division window (August to early autumn) but no medicinal-harvest season. (Roseroot is conventionally dug in autumn from mature plants, but no source states that stage.) Next seams: a Scandinavian/alpine adaptogen cultivation source, or Grieve."
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). As for the rhizome: no source stating the root-harvest stage for Rhodiola rosea was found (PFAF and Useful Temperate Plants give only flowering and propagation-division timing). The root is dug with the rhizome; no season sourced."
 traditional_uses:
   text: Rhodiola has a long tradition of use across Scandinavian, Russian and Central Asian folk medicine
     as a tonic for cold-climate hardiness, physical endurance and mental stamina. It is classified as
@@ -295,7 +302,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -306,4 +313,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing traditional-use/chemical-composition review (REF-1528),
   the stress-symptom clinical review (REF-1526), the anti-inflammatory review (REF-1527) and the SHR-5
-  extract trials (REF-1532, REF-1533).'
+  extract trials (REF-1532, REF-1533). | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for
+  rhizome + root recorded as GAP: neither PFAF nor Useful Temperate Plants gives a medicinal-harvest season
+  for Rhodiola rosea (only flowering + propagation-division timing). Binomial confirmed.'

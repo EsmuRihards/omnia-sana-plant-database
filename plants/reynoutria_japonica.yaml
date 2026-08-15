@@ -46,6 +46,10 @@ harvesting:
   reference_ids:
   - REF-0984
   status: verified
+harvest_readiness:
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). No species-specific phenological source for Reynoutria japonica (Japanese knotweed) harvest timing was found: the PFAF pages for all three synonyms (Reynoutria japonica, Fallopia japonica, Polygonum cuspidatum) are empty templates, and Useful Temperate Plants returns 'No Record' for Fallopia japonica. (The resveratrol-rich rhizome is conventionally dug in autumn or early spring, and the young shoots gathered in spring, but no source stating those stages was found.) The leaf and stem likewise lack a species-specific harvest source here. Next seams: a foraging flora, a resveratrol/knotweed monograph, or Grieve."
 traditional_uses:
   text: Known as Hu Zhang in Traditional Chinese Medicine, Japanese knotweed root has a centuries-old
     use for inflammation, infections, jaundice and menstrual complaints. Modern interest centres on its
@@ -218,7 +222,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -230,4 +234,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing botany/phytochemistry/pharmacology review (REF-0984),
   the emodin pharmacology review (REF-0979) and the acute-respiratory-infection systematic review (REF-0980).
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
-  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
+  Calendar (phenological) - harvest_readiness for root recorded as GAP: all three PFAF synonym pages
+  (Reynoutria/Fallopia/Polygonum) are empty templates and Useful Temperate Plants returns No Record, so no
+  species-specific harvest stage exists (leaf and stem likewise unsourced). Binomial confirmed.'

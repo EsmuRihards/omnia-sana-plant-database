@@ -66,6 +66,18 @@ harvesting:
   reference_ids:
   - REF-0549
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts in spring, while in flower."
+  basis: traditional
+  source_quote: "They are harvested in the spring and dried for later use"
+  reference_ids:
+  - REF-3320
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3320); the flowering herb is gathered in spring (in flower March-May). Single lineage -> provisional."
 traditional_uses:
   text: Lungwort's spotted leaves inspired its traditional use, under the Doctrine of Signatures, as a
     remedy for lung and respiratory complaints - coughs, bronchitis, catarrh and sore throat - valued
@@ -197,7 +209,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study of Pulmonaria antioxidant
   and COX-2-inhibitory activity). Further enriched 2026-06-13 with a PubMed LC-MS/MS phenolic-constituents
   profiling study (REF-0549, Krzyzanowska-Kowalczyk et al. 2018). Lungwort is poorly covered by clinical
@@ -210,4 +222,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study
   REF-1545, REF-1546, REF-1547, REF-1548, REF-1549, REF-1550, REF-1551, REF-1552) — woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing antioxidant/COX-2 study (REF-0479) and the spring/autumn
-  phenolic-profiling study (REF-0549).'
+  phenolic-profiling study (REF-0549). | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for aerial-parts (provisional: PFAF REF-3320, flowering herb gathered in spring). Single
+  lineage. Binomial confirmed.'

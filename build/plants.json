@@ -56939,6 +56939,28 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the flowering aerial parts as the plant comes into flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is harvested as the plant comes into flower in the summer and can be dried for later use.",
+     "reference_ids": [
+      "REF-3338"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3338); the flowering herb is cut as it comes into flower in summer. Single lineage -> provisional. SAFETY: figwort can be confused with the FATAL deadly nightshade (Atropa belladonna) - confirm identity; see Dangerous Lookalikes."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Scrophularia nodosa (the knotty rhizome would conventionally be dug in autumn, but no source stating that stage was found this pass). SAFETY: Atropa belladonna is a fatal lookalike - see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Figwort takes one common name, 'scrofula plant', from its historic traditional use for scrofula (tuberculous lymph-node swelling) under the Doctrine of Signatures, its knotty root resembling swollen glands. It has a long folk-medicine reputation as an 'alterative' (blood-purifying) herb for chronic skin conditions such as eczema and psoriasis, applied as a poultice, salve or tea.",
     "reference_ids": [
@@ -57206,7 +57228,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "figwort"
   },
   {
@@ -57283,6 +57305,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the flowering herb in early summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "They are harvested in early summer and dried for later use",
+     "reference_ids": [
+      "REF-3339"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3339); the flowering aerial parts are cut in early summer (in flower June-August). Single lineage -> provisional. SAFETY: skullcap is adulterated with the hepatotoxic wall germander (Teucrium chamaedrys) - confirm identity/source; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "American skullcap has a Native American and 19th-century Eclectic-medicine tradition as a calming nervine for anxiety and nervous tension - the old name 'mad-dog skullcap' reflects a folk remedy explored for rabies. Modern research on its flavonoids baicalin and baicalein, which bind the benzodiazepine site of the GABA-A receptor, supports its calming, anxiolytic and sleep-supporting reputation.",
     "reference_ids": [
@@ -57461,7 +57500,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "skullcap"
   },
   {
@@ -57608,7 +57647,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "botanical_description": {
     "text": "Low, clump-forming fan-palm shrub (Arecaceae), usually with a creeping or short, often prostrate trunk. Leaves are fan-shaped (palmate) on long, spiny-edged stalks. Small, creamy-white flowers are borne in branched clusters among the leaves, followed by large, dark blue-black, olive-sized berries - the part used.",
     "height": "Low, spreading; trunk often prostrate or short",
@@ -57642,6 +57681,13 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no fruit-harvest timing for Serenoa repens. (Saw palmetto berries ripen in autumn to early winter, turning from green through orange-brown to blue-black, and are the medicinal part, but no source stating that observable ripe stage was found this pass.) Next seams: a Florida agricultural-extension or a saw-palmetto harvest/sustainability source."
+    }
+   ],
    "traditional_uses": {
     "text": "Saw palmetto berries have a long Native American food and medicinal tradition, and were adopted into 19th- and 20th-century American and European phytotherapy as a tonic for the urinary and reproductive systems. The modern, most-studied use is for lower urinary tract symptoms of benign prostatic hyperplasia (BPH), though high-quality Cochrane evidence for pooled mixed extracts shows no benefit over placebo, while some meta-analyses of a specific standardised hexanic extract report symptom benefit.",
     "reference_ids": [
@@ -57747,6 +57793,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seed in late summer to autumn, as the flower heads ripen, dry and open to release the pappus-borne seed."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from August to October",
+     "reference_ids": [
+      "REF-3337"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3337); the seeds ripen in late summer to autumn (August-October), harvested as the heads dry. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Milk thistle has a very long European folk-medicine tradition, documented since antiquity, as a liver tonic, and its seed extract, standardised to the flavonolignan complex silymarin, is one of the most extensively studied herbal hepatoprotectants. Modern research supports antioxidant, anti-inflammatory and liver-protective activity, with growing interest in metabolic/blood-sugar effects.",
     "reference_ids": [
@@ -58013,7 +58076,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "milk-thistle"
   },
   {
@@ -58073,6 +58136,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the golden flowering tops in summer, as the plant comes into flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is gathered in the summer and dried for later use.",
+     "reference_ids": [
+      "REF-3340"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3340); the flowering tops are gathered in summer as the plant comes into flower (in flower August-October). Single lineage -> provisional. SAFETY: goldenrod can be confused with the PA-toxic ragwort (Jacobaea vulgaris) - confirm identity; see Dangerous Lookalikes."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering tops in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is gathered in the summer and dried for later use.",
+     "reference_ids": [
+      "REF-3340"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3340); the leaf is gathered with the flowering tops in summer. Single lineage -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Gather the stems with the flowering tops in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is gathered in the summer and dried for later use.",
+     "reference_ids": [
+      "REF-3340"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3340); the stem is gathered with the flowering tops in summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "In its native North America, Solidago canadensis was used by Indigenous peoples - including the Haudenosaunee (Iroquois) - as a traditional medicine, and its extracts show antibacterial activity. In European phytotherapy the dried flowering herb has long been used, as a tea, tincture or decoction, as a urological and anti-inflammatory ('antiphlogistic') remedy - a mild aquaretic diuretic and antispasmodic for irrigation of the urinary tract - and it is documented in traditional use for kidney, urinary-tract and liver complaints and for inflammation-related conditions. The European Pharmacopoeia accepts S. canadensis, together with S. gigantea, as a source of goldenrod herb ('Solidaginis herba'). Note that the formal EU (EMA/HMPC) herbal monograph for medicinal goldenrod covers the related species Solidago virgaurea, not S. canadensis.",
     "reference_ids": [
@@ -58444,7 +58554,7 @@
    ],
    "provenance": "pubmed+web",
    "status": "verified",
-   "last_updated": "2026-08-04",
+   "last_updated": "2026-08-15",
    "common_slug": "canadian-goldenrod"
   },
   {

@@ -55,6 +55,18 @@ harvesting:
   reference_ids:
   - REF-0483
   status: verified
+harvest_readiness:
+- part: seed
+  signals:
+  - "Collect the seed in late summer to autumn, as the flower heads ripen, dry and open to release the pappus-borne seed."
+  basis: traditional
+  source_quote: "the seeds ripen from August to October"
+  reference_ids:
+  - REF-3337
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3337); the seeds ripen in late summer to autumn (August-October), harvested as the heads dry. Single lineage -> provisional."
 traditional_uses:
   text: Milk thistle has a very long European folk-medicine tradition, documented since antiquity, as
     a liver tonic, and its seed extract, standardised to the flavonolignan complex silymarin, is one of
@@ -247,7 +259,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Research safety/toxicity
   review; Biomedicine & Pharmacotherapy review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (liver-support, detox, indigestion, inflammation); associations retained
@@ -262,4 +274,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   monograph-base fields, sourced from the existing safety/toxicity review (REF-0483) and gastrointestinal-cancer
   therapeutic review (REF-0484). | 2026-07-13: added anticancer action (where absent) + cancer indication
   (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
-  campaign.'
+  campaign. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for seed (provisional:
+  PFAF REF-3337, seeds ripen Aug-Oct as the heads dry). Single lineage. Binomial confirmed.'

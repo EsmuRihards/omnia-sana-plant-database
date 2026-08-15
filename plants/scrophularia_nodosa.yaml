@@ -68,6 +68,21 @@ harvesting:
   reference_ids:
   - REF-0452
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Cut the flowering aerial parts as the plant comes into flower, in summer."
+  basis: traditional
+  source_quote: "It is harvested as the plant comes into flower in the summer and can be dried for later use."
+  reference_ids:
+  - REF-3338
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3338); the flowering herb is cut as it comes into flower in summer. Single lineage -> provisional. SAFETY: figwort can be confused with the FATAL deadly nightshade (Atropa belladonna) - confirm identity; see Dangerous Lookalikes."
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Scrophularia nodosa (the knotty rhizome would conventionally be dug in autumn, but no source stating that stage was found this pass). SAFETY: Atropa belladonna is a fatal lookalike - see Dangerous Lookalikes."
 traditional_uses:
   text: Figwort takes one common name, 'scrofula plant', from its historic traditional use for scrofula
     (tuberculous lymph-node swelling) under the Doctrine of Signatures, its knotty root resembling swollen
@@ -262,7 +277,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from general literature (WebMD and herbal monographs); Scrophularia
   nodosa is not covered by clinical trials, so efficacy actions are needs-review. Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, psoriasis, skin-irritation); associations
@@ -273,4 +288,7 @@ internal_notes: 'Enriched 2026-06-12 from general literature (WebMD and herbal m
   publications: added 10 PubMed-verified @article sources (REF-1035, REF-1036, REF-1037, REF-1038, REF-1039,
   REF-1040, REF-1041, REF-1042, REF-1043, REF-1044) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
-  monograph-base fields, sourced from the existing general figwort monographs (REF-0451, REF-0452).'
+  monograph-base fields, sourced from the existing general figwort monographs (REF-0451, REF-0452). |
+  2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF
+  REF-3338, cut as it comes into flower in summer); root = GAP. SAFETY: fatal Atropa belladonna lookalike.
+  Binomial confirmed.'

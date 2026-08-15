@@ -56,6 +56,40 @@ harvesting:
   - REF-3160
   - REF-3166
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Cut the golden flowering tops in summer, as the plant comes into flower."
+  basis: traditional
+  source_quote: "The plant is gathered in the summer and dried for later use."
+  reference_ids:
+  - REF-3340
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3340); the flowering tops are gathered in summer as the plant comes into flower (in flower August-October). Single lineage -> provisional. SAFETY: goldenrod can be confused with the PA-toxic ragwort (Jacobaea vulgaris) - confirm identity; see Dangerous Lookalikes."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowering tops in summer."
+  basis: traditional
+  source_quote: "The plant is gathered in the summer and dried for later use."
+  reference_ids:
+  - REF-3340
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3340); the leaf is gathered with the flowering tops in summer. Single lineage -> provisional."
+- part: stem
+  signals:
+  - "Gather the stems with the flowering tops in summer."
+  basis: traditional
+  source_quote: "The plant is gathered in the summer and dried for later use."
+  reference_ids:
+  - REF-3340
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3340); the stem is gathered with the flowering tops in summer. Single lineage -> provisional."
 traditional_uses:
   text: In its native North America, Solidago canadensis was used by Indigenous peoples - including the Haudenosaunee
     (Iroquois) - as a traditional medicine, and its extracts show antibacterial activity. In European phytotherapy
@@ -346,7 +380,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-08-04'
 provenance: pubmed+web
 status: verified
-last_updated: '2026-08-04'
+last_updated: '2026-08-15'
 internal_notes: 'New record created 2026-08-04 (Canadian goldenrod campaign). Species deliberately kept distinct
   from the existing solidago-virgaurea record: S. canadensis and S. virgaurea are routinely conflated and
   most pharmacopoeial "goldenrod" therapeutic literature (EMA/HMPC monograph, Commission E) is virgaurea-specific.
@@ -376,4 +410,7 @@ internal_notes: 'New record created 2026-08-04 (Canadian goldenrod campaign). Sp
   S. virgaurea studies (REF-1045 review, REF-1047 Candida RCT) onto this page''s "Selected studies" section.
   Root cause was renderer-side only — this record''s citations are all S. canadensis-specific or generic; the
   DB was never wrong. Renderer fixed to require a scientific-name match (common-name fallback now fires only
-  when a citation names no binomial). Audited clean 2026-08-04.'
+  when a citation names no binomial). Audited clean 2026-08-04. | 2026-08-15: Harvest Calendar (phenological)
+  - added harvest_readiness for flower + leaf + stem (all provisional: PFAF REF-3340, flowering tops gathered
+  in summer as it comes into flower). SAFETY: PA-toxic ragwort (Jacobaea vulgaris) lookalike. Binomial
+  confirmed.'

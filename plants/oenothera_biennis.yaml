@@ -61,6 +61,18 @@ harvesting:
   reference_ids:
   - REF-2700
   status: verified
+harvest_readiness:
+- part: seed
+  signals:
+  - "Collect the seeds when the capsules ripen and dry on the second-year flowering stem, in late summer to autumn."
+  basis: traditional
+  source_quote: "the seeds ripen from August to October"
+  reference_ids:
+  - REF-3298
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3298); the seeds (source of the seed oil) ripen from August to October on the second-year flowering stem. Single lineage -> provisional. SAFETY: the first-year leaf rosette resembles the FATAL foxglove (Digitalis purpurea) rosette - relevant if leaves rather than seed are gathered; see Dangerous Lookalikes."
 traditional_uses:
   text: Evening primrose has a Native American tradition as a food and poultice plant, but its modern
     use is almost entirely as a dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid marketed
@@ -203,7 +215,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   systematic review; Cochrane review of EPO/borage oil for eczema). Evidence for most symptom claims is
   weak or negative, reflected in needs-review action statuses. Originally a skeleton imported from the
@@ -219,4 +231,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   relevant actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields; botanical_description/habitat are status:draft (well-known general morphology,
   no dedicated botanical review in the largely-clinical bucket), harvesting/traditional_uses/preparations/dosage
-  cite the existing clinical-trial and Cochrane reviews.'
+  cite the existing clinical-trial and Cochrane reviews. | 2026-08-15: Harvest Calendar (phenological) -
+  added harvest_readiness for seed (provisional: PFAF REF-3298, capsules ripen Aug-Oct on the 2nd-year
+  stem). SAFETY note: 1st-year rosette resembles the fatal Digitalis purpurea rosette. Binomial confirmed.'

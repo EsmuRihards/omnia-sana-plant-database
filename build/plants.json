@@ -40670,6 +40670,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds when the inflated capsules ripen and dry, in autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower in July, and the seeds ripen in September.",
+     "reference_ids": [
+      "REF-3297"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3297); the seeds ripen in autumn (September). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "One of the most celebrated medicinal seeds in Middle Eastern and Islamic traditional medicine - known as 'Habbatul Barakah' (the blessed seed) - black seed has traditionally been used for digestive complaints, respiratory conditions (asthma, cough), pain, inflammation, skin conditions and as a general tonic. Modern research on its principal constituent thymoquinone supports broad anti-inflammatory, antioxidant, antimicrobial, antidiabetic and immunomodulatory activity.",
     "reference_ids": [
@@ -41240,7 +41257,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "black-cumin"
   },
   {
@@ -41316,6 +41333,23 @@
     "season": "Year-round in warm climates",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Pick the leaves through the growing season (repeatedly, every couple of weeks); ideally before or as it comes into flower, when the aromatic oil is highest."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves can be harvested during the growing season and used fresh or dried for later use.",
+     "reference_ids": [
+      "REF-3300"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3300); the leaves are picked repeatedly during the growing season (twigs cut every ~2 weeks). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Tulsi is one of the most revered plants in Ayurvedic medicine, traditionally used as an adaptogen for stress, a remedy for respiratory complaints (colds, cough, asthma), and a general immune tonic. Modern clinical trials support adaptogenic/anti-stress, blood-sugar-lowering and immunomodulatory effects consistent with these traditional uses.",
     "reference_ids": [
@@ -41608,7 +41642,7 @@
    },
    "provenance": "website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "holy-basil"
   },
   {
@@ -41682,6 +41716,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds when the capsules ripen and dry on the second-year flowering stem, in late summer to autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from August to October",
+     "reference_ids": [
+      "REF-3298"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3298); the seeds (source of the seed oil) ripen from August to October on the second-year flowering stem. Single lineage -> provisional. SAFETY: the first-year leaf rosette resembles the FATAL foxglove (Digitalis purpurea) rosette - relevant if leaves rather than seed are gathered; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Evening primrose has a Native American tradition as a food and poultice plant, but its modern use is almost entirely as a dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid marketed for skin, hormonal and inflammatory complaints. Clinical trial evidence for these specific uses (eczema, PMS, menopause) is mixed to weak, and a Cochrane review found oral evening primrose oil is not effective for eczema.",
     "reference_ids": [
@@ -41859,7 +41910,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "evening-primrose"
   },
   {
@@ -41914,6 +41965,28 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Harvest the olives in autumn (from late September), when ripe - green olives picked earlier, black when fully ripe."
+     ],
+     "basis": "traditional",
+     "source_quote": "Harvesting: autumn.",
+     "reference_ids": [
+      "REF-3299"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3299); the fruit is harvested in autumn (late September to November) - green when picked early, black when fully ripe. Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no leaf-harvest timing for Olea europaea (an evergreen; olive leaves are conventionally gathered year-round or at winter pruning, but no source stating a stage was found this pass), so none is asserted."
+    }
+   ],
    "traditional_uses": {
     "text": "Olive leaf and fruit have a long Mediterranean tradition as a tonic, antipyretic and mild antihypertensive remedy, and olive oil is the foundation fat of the traditional Mediterranean diet, long associated with cardiovascular health. Modern research on oleuropein and other leaf polyphenols supports antioxidant, anti-inflammatory, antimicrobial, blood-pressure-lowering and insulin-sensitising effects consistent with these traditional and dietary uses.",
     "reference_ids": [
@@ -42251,7 +42324,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "olive"
   },
   {
@@ -42312,6 +42385,13 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "GAP (documented dead end). No species-specific phenological source for Ononis arvensis harvest timing was found: the PFAF page for Ononis arvensis is an empty template (it lists only the congeners Ononis repens and Ononis spinosa). The medicinal restharrow of the pharmacopoeias is Ononis spinosa - its root timing must NOT be inherited for O. arvensis per the campaign's no-cross-species rule. The flowering aerial parts and flower likewise lack a species-specific harvest source here. Next seams: a central/eastern-European flora that treats O. arvensis specifically."
+    }
+   ],
    "traditional_uses": {
     "text": "Restharrow root has a long place in European herbal medicine as a gentle aquaretic diuretic used for 'irrigation therapy' of the urinary tract - to increase urine flow in cystitis, urinary gravel and stones, and to flush the bladder. Field restharrow (Ononis arvensis) is used interchangeably with the officinal spiny restharrow (O. spinosa, Ononidis radix). The root and flowering herb have also been used as a mild anti-inflammatory, for skin complaints and eczema, for rheumatic conditions, and (as a decoction or gargle) for the mouth and throat. The isoflavone-rich root is a folk remedy in central and eastern European traditions.",
     "reference_ids": [
@@ -42796,7 +42876,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18"
+   "last_updated": "2026-08-15"
   },
   {
    "id": "origanum-majorana",

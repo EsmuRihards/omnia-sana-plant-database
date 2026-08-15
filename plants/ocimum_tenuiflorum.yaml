@@ -58,6 +58,18 @@ harvesting:
   - Flowering tops
   season: Year-round in warm climates
   status: draft
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Pick the leaves through the growing season (repeatedly, every couple of weeks); ideally before or as it comes into flower, when the aromatic oil is highest."
+  basis: traditional
+  source_quote: "The leaves can be harvested during the growing season and used fresh or dried for later use."
+  reference_ids:
+  - REF-3300
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3300); the leaves are picked repeatedly during the growing season (twigs cut every ~2 weeks). Single lineage -> provisional."
 traditional_uses:
   text: Tulsi is one of the most revered plants in Ayurvedic medicine, traditionally used as an adaptogen
     for stress, a remedy for respiratory complaints (colds, cough, asthma), and a general immune tonic.
@@ -259,7 +271,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative
   Medicine systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum
   = Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress,
@@ -295,4 +307,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   ESCOP, Commission E), may still resolve these. ''Fresh leaf'': WHO gives a single posology: 6-12 g of
   crude drug as a decoction. It says nothing about chewing a few fresh leaves daily or adding them to
   food. | ''Essential oil'': The monograph covers the leaf as a decoction only. No essential oil, no distillation,
-  no topical or aromatic use is stated.'
+  no topical or aromatic use is stated. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for leaf (provisional: PFAF REF-3300, picked repeatedly during the growing season).
+  Single lineage. Binomial confirmed.'

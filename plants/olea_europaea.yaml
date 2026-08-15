@@ -46,6 +46,21 @@ harvesting:
   reference_ids:
   - REF-1446
   status: verified
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Harvest the olives in autumn (from late September), when ripe - green olives picked earlier, black when fully ripe."
+  basis: traditional
+  source_quote: "Harvesting: autumn."
+  reference_ids:
+  - REF-3299
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3299); the fruit is harvested in autumn (late September to November) - green when picked early, black when fully ripe. Single lineage -> provisional."
+- part: leaf
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no leaf-harvest timing for Olea europaea (an evergreen; olive leaves are conventionally gathered year-round or at winter pruning, but no source stating a stage was found this pass), so none is asserted."
 traditional_uses:
   text: Olive leaf and fruit have a long Mediterranean tradition as a tonic, antipyretic and mild antihypertensive
     remedy, and olive oil is the foundation fat of the traditional Mediterranean diet, long associated
@@ -297,7 +312,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -309,4 +324,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing leaf-polyphenol reviews (REF-1437, REF-1438, REF-1446)
   and clinical trials (REF-1443, REF-2537). | 2026-07-13: added anticancer action (where absent) + cancer
   indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign.'
+  cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
+  fruit (provisional: PFAF REF-3299, olives harvested in autumn); leaf = GAP (evergreen, no sourced leaf
+  timing). Binomial confirmed.'

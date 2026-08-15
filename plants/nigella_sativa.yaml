@@ -46,6 +46,18 @@ harvesting:
   reference_ids:
   - REF-2065
   status: verified
+harvest_readiness:
+- part: seed
+  signals:
+  - "Collect the seeds when the inflated capsules ripen and dry, in autumn."
+  basis: traditional
+  source_quote: "It is in flower in July, and the seeds ripen in September."
+  reference_ids:
+  - REF-3297
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3297); the seeds ripen in autumn (September). Single lineage -> provisional."
 traditional_uses:
   text: One of the most celebrated medicinal seeds in Middle Eastern and Islamic traditional medicine
     - known as 'Habbatul Barakah' (the blessed seed) - black seed has traditionally been used for digestive
@@ -482,7 +494,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -494,4 +506,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing comprehensive phytochemistry/pharmacology reviews (REF-2065,
   REF-2066, REF-2067, REF-2073). | 2026-07-13: added anticancer action (where absent) + cancer indication
   (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
-  campaign.'
+  campaign. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for seed (provisional:
+  PFAF REF-3297, capsules ripen in autumn/September). Single lineage. Binomial confirmed.'

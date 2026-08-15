@@ -54,6 +54,10 @@ harvesting:
   reference_ids:
   - REF-2748
   status: verified
+harvest_readiness:
+- part: root
+  status: gap
+  notes: "GAP (documented dead end). No species-specific phenological source for Ononis arvensis harvest timing was found: the PFAF page for Ononis arvensis is an empty template (it lists only the congeners Ononis repens and Ononis spinosa). The medicinal restharrow of the pharmacopoeias is Ononis spinosa - its root timing must NOT be inherited for O. arvensis per the campaign's no-cross-species rule. The flowering aerial parts and flower likewise lack a species-specific harvest source here. Next seams: a central/eastern-European flora that treats O. arvensis specifically."
 traditional_uses:
   text: Restharrow root has a long place in European herbal medicine as a gentle aquaretic diuretic used
     for 'irrigation therapy' of the urinary tract - to increase urine flow in cystitis, urinary gravel
@@ -410,7 +414,7 @@ lookalikes_review:
   - REF-2748
 provenance: pubmed
 status: verified
-last_updated: '2026-07-18'
+last_updated: '2026-08-15'
 internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Ononis arvensis (chiefly phytochemistry - the
   species'' own literature is analytical-heavy) + 8 clearly-labelled Ononis spinosa congener refs supplying
   the pharmacology of Ononidis radix (the officinal diuretic; O. arvensis is used interchangeably). >=15
@@ -437,4 +441,7 @@ internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Onon
   restharrow), not O. arvensis. This plant''s own bibliography likewise contains an O. spinosa pharmacology
   paper (REF-2754), and its other dose-bearing candidate (REF-3022) is a multi-herb phyto-complex trial with
   no per-herb dose. Consistent with the earlier precision pass on this record, which removed wrong-species
-  Ononis papers.'
+  Ononis papers. | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for root recorded as GAP:
+  the PFAF Ononis arvensis page is an empty template (lists only congeners O. repens and O. spinosa), so no
+  species-specific harvest stage exists; the pharmacopoeial O. spinosa timing must NOT be inherited. Aerial
+  parts and flower likewise unsourced this pass. Binomial confirmed (no timing to attach).'

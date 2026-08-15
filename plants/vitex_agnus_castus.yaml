@@ -61,6 +61,10 @@ harvesting:
   - Fruit (berry)
   season: Autumn, when fruit is ripe
   status: draft
+harvest_readiness:
+- part: fruit
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no fruit-harvest timing for Vitex agnus-castus (it flowers late, September-October, and notes the seed is unlikely to ripen in cool climates). The medicinal chasteberries are harvested in autumn when ripe and dark brown-to-black in Mediterranean climates, but no source stating that observable stage was found this pass. Next seams: a Mediterranean cultivation/agronomy source, or an EMA/ESCOP Agni casti fructus monograph checked for a collection statement."
 traditional_uses:
   text: Chasteberry has a long Mediterranean tradition, reflected in its 'chaste tree' name, historically
     used to reduce libido in monastic settings, and, more centrally to its modern use, as a traditional
@@ -178,7 +182,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-19'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica efficacy review; Drug Safety
   adverse-events review; Frontiers in Endocrinology prolactin review). Vitex is now placed in Lamiaceae
   (formerly Verbenaceae). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
@@ -211,4 +215,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica e
   is also references-bucket only: one isolated-tissue result is not grounds for a cardiovascular
   indication. DOCUMENTED REJECTION: PMID 28243425 (Rafieian-Kopaei 2017, Electronic Physician) claims
   benefit in infertility "in both men and women" on a loose review method; not cited — the claim
-  outruns the evidence and there is no fertility support here worth publishing.'
+  outruns the evidence and there is no fertility support here worth publishing. | 2026-08-15: Harvest
+  Calendar (phenological) - harvest_readiness for fruit recorded as GAP: PFAF gives no chasteberry harvest
+  stage (flowers late Sept-Oct, seed unlikely to ripen in cool climates). Binomial confirmed (no timing to
+  attach).'

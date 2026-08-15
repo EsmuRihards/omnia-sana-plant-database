@@ -62,6 +62,18 @@ harvesting:
   - Bark (stem bark)
   season: Spring or autumn
   status: draft
+harvest_readiness:
+- part: bark
+  signals:
+  - "Strip the stem bark in autumn (before the leaves change colour) or in spring (before the leaf buds open)."
+  basis: traditional
+  source_quote: "The bark is harvested in the autumn before the leaves change colour, or in the spring before the leaf buds open."
+  reference_ids:
+  - REF-3365
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3365); the stem bark is stripped in autumn (before leaf-fall) or spring (before the buds open). Single lineage -> provisional. SAFETY: the raw berries are toxic and the plant can be confused with the poisonous woody nightshade (Solanum dulcamara); see Dangerous Lookalikes."
 traditional_uses:
   text: Cramp bark has a long European and North American folk reputation, reflected in its common name,
     as an antispasmodic remedy for muscle cramps, menstrual cramps and general smooth-muscle spasm, acting
@@ -203,7 +215,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect overview).
   Viburnum opulus is poorly covered by clinical trials, so some actions remain needs-review. Originally a
   skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps, muscle-spasm,
@@ -240,4 +252,7 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for bark (provisional: PFAF REF-3365, stripped in autumn before
+  leaf-fall or spring before bud-break). SAFETY: toxic raw berries + Solanum dulcamara lookalike. Binomial
+  confirmed.'

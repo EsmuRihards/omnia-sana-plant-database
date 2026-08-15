@@ -59,6 +59,18 @@ harvesting:
   reference_ids:
   - REF-0513
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts in summer, while in flower."
+  basis: traditional
+  source_quote: "The leaves are harvested in the summer and dried for later use."
+  reference_ids:
+  - REF-3366
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3366); the flowering herb is gathered in summer while in flower (in flower May-August). Single lineage -> provisional."
 traditional_uses:
   text: Speedwell has a long European folk history as a mild digestive tonic and traditional expectorant
     for cough and respiratory complaints, and has also been used topically as a soothing wash for irritated
@@ -188,7 +200,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-19'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   authentication/phytochemistry study; HerbaZest monograph). Speedwell is poorly covered by clinical trials,
   so most actions are needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
@@ -245,4 +257,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Fro
   the same paper - Crisan et al. 2007, A comparative study of some Veronica species, PMID 17595882 -
   entered twice under two ids. Both are cited only by this record, so the de-duplication is self-contained,
   but choosing which id dies and removing a live bibliography entry is a separate decision with Knowledge
-  Finder consequences. Neither entry carries the PMID.'
+  Finder consequences. Neither entry carries the PMID. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for aerial-parts (provisional: PFAF REF-3366, flowering herb gathered in summer). Single
+  lineage. Binomial confirmed.'

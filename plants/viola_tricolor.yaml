@@ -63,6 +63,18 @@ harvesting:
   reference_ids:
   - REF-0463
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Cut the flowering aerial parts in summer, while in flower (harvested June to August)."
+  basis: traditional
+  source_quote: "The plant is harvested from June to August and dried for later use."
+  reference_ids:
+  - REF-3368
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3368); the flowering herb is cut from June to August while in flower (in flower April-September). Single lineage -> provisional."
 traditional_uses:
   text: Heartsease has a long European folk history as a soothing remedy for skin conditions such as eczema
     and itching, and as a traditional demulcent and expectorant for coughs and chest complaints; this
@@ -245,7 +257,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology study identifying
   immunosuppressive cyclotides). Further enriched 2026-06-13 with a PubMed study isolating cytotoxic cyclotides
   (vitri A, varv A, varv E) from V. tricolor (REF-0556, Svangard et al. 2004); a new in-vitro cytotoxic
@@ -273,4 +285,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   dressing and a bath additive. No cream or ointment, and no semi-solid dosage form, appears in the monograph;
   it also contraindicates cutaneous use on damaged skin, which sits awkwardly with an eczema cream. |
   ''Tincture'': The monograph covers a herbal tea, a wet-dressing infusion and a bath additive. No tincture,
-  extract, ethanol strength or ratio is given.'
+  extract, ethanol strength or ratio is given. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for aerial-parts (provisional: PFAF REF-3368, flowering herb cut June-August). Single
+  lineage. Binomial confirmed.'

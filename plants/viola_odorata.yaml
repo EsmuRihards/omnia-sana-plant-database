@@ -64,6 +64,29 @@ harvesting:
   reference_ids:
   - REF-0517
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the sweet-scented flowers in early spring, as they open."
+  basis: traditional
+  source_quote: "It is in flower from February to April, and the seeds ripen from April to June."
+  reference_ids:
+  - REF-3367
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3367); the flowers open in early spring (February-April). Single lineage -> provisional. SAFETY: sweet violet can be confused with the irritant lesser celandine (Ficaria verna) before flowering; see Dangerous Lookalikes."
+- part: leaf
+  signals:
+  - "Gather the leaves through the growing season - the young leaves are available even in winter in mild weather."
+  basis: traditional
+  source_quote: "Usually available all through the winter."
+  reference_ids:
+  - REF-3367
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3367); the leaves are gathered through the growing season, young leaves available into winter. Single lineage -> provisional. SAFETY: as above - confusable with Ficaria verna."
 traditional_uses:
   text: Sweet violet flower and leaf have a long European folk history as a soothing demulcent and expectorant
     remedy for cough, bronchitis and catarrh, and as a mild sedative for sleeplessness and headache; the
@@ -276,7 +299,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and RxList monographs). Note:
   distinct from the book''s Viola tricolor (heartsease). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (cough, insomnia, sore-throat, headache); associations retained
@@ -295,4 +318,6 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   administered 5 mL of Viola odorata syrup every 12 hours for 4 weeks. WRONG-SPECIES GUARD ADDED to the
   entry text: the EU monograph Violae herba cum flore covers Viola TRICOLOR (heartsease, sourced separately
   at REF-3074 in batch 3), not V. odorata, and its posology must not be transferred here - the synonym-aware
-  register match flagged exactly this near-miss.'
+  register match flagged exactly this near-miss. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for flower (early spring) + leaf (growing season), both provisional: PFAF REF-3367.
+  SAFETY: irritant lesser celandine (Ficaria verna) lookalike. Binomial confirmed.'

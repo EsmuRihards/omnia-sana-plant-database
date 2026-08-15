@@ -68107,6 +68107,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in the summer and dried for later use.",
+     "reference_ids": [
+      "REF-3366"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3366); the flowering herb is gathered in summer while in flower (in flower May-August). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Speedwell has a long European folk history as a mild digestive tonic and traditional expectorant for cough and respiratory complaints, and has also been used topically as a soothing wash for irritated skin; modern research on its iridoid glycosides supports a molecular basis for the traditional respiratory use.",
     "status": "draft"
@@ -68279,7 +68296,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-19",
+   "last_updated": "2026-08-15",
    "common_slug": "speedwell"
   },
   {
@@ -68361,6 +68378,23 @@
     "season": "Spring or autumn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "bark",
+     "signals": [
+      "Strip the stem bark in autumn (before the leaves change colour) or in spring (before the leaf buds open)."
+     ],
+     "basis": "traditional",
+     "source_quote": "The bark is harvested in the autumn before the leaves change colour, or in the spring before the leaf buds open.",
+     "reference_ids": [
+      "REF-3365"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3365); the stem bark is stripped in autumn (before leaf-fall) or spring (before the buds open). Single lineage -> provisional. SAFETY: the raw berries are toxic and the plant can be confused with the poisonous woody nightshade (Solanum dulcamara); see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Cramp bark has a long European and North American folk reputation, reflected in its common name, as an antispasmodic remedy for muscle cramps, menstrual cramps and general smooth-muscle spasm, acting as a relaxant on both skeletal and uterine muscle.",
     "reference_ids": [
@@ -68540,7 +68574,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "cramp-bark"
   },
   {
@@ -68628,6 +68662,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the sweet-scented flowers in early spring, as they open."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from February to April, and the seeds ripen from April to June.",
+     "reference_ids": [
+      "REF-3367"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3367); the flowers open in early spring (February-April). Single lineage -> provisional. SAFETY: sweet violet can be confused with the irritant lesser celandine (Ficaria verna) before flowering; see Dangerous Lookalikes."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves through the growing season - the young leaves are available even in winter in mild weather."
+     ],
+     "basis": "traditional",
+     "source_quote": "Usually available all through the winter.",
+     "reference_ids": [
+      "REF-3367"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3367); the leaves are gathered through the growing season, young leaves available into winter. Single lineage -> provisional. SAFETY: as above - confusable with Ficaria verna."
+    }
+   ],
    "traditional_uses": {
     "text": "Sweet violet flower and leaf have a long European folk history as a soothing demulcent and expectorant remedy for cough, bronchitis and catarrh, and as a mild sedative for sleeplessness and headache; the flower syrup in particular has a long tradition as a children's cough remedy.",
     "reference_ids": [
@@ -68908,7 +68974,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "sweet-violet"
   },
   {
@@ -68986,6 +69052,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the flowering aerial parts in summer, while in flower (harvested June to August)."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested from June to August and dried for later use.",
+     "reference_ids": [
+      "REF-3368"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3368); the flowering herb is cut from June to August while in flower (in flower April-September). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Heartsease has a long European folk history as a soothing remedy for skin conditions such as eczema and itching, and as a traditional demulcent and expectorant for coughs and chest complaints; this traditional skin-supportive use is now linked to immunomodulatory cyclic peptides (cyclotides) unique to the Viola genus.",
     "reference_ids": [
@@ -69240,7 +69323,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "heartsease"
   },
   {
@@ -69325,6 +69408,13 @@
     "season": "Autumn, when fruit is ripe",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no fruit-harvest timing for Vitex agnus-castus (it flowers late, September-October, and notes the seed is unlikely to ripen in cool climates). The medicinal chasteberries are harvested in autumn when ripe and dark brown-to-black in Mediterranean climates, but no source stating that observable stage was found this pass. Next seams: a Mediterranean cultivation/agronomy source, or an EMA/ESCOP Agni casti fructus monograph checked for a collection statement."
+    }
+   ],
    "traditional_uses": {
     "text": "Chasteberry has a long Mediterranean tradition, reflected in its 'chaste tree' name, historically used to reduce libido in monastic settings, and, more centrally to its modern use, as a traditional women's tonic for menstrual irregularities, premenstrual complaints and cyclical breast tenderness; standardised extracts are now among the best-clinically-studied herbal remedies for premenstrual syndrome, acting via dopaminergic modulation of prolactin.",
     "reference_ids": [
@@ -69470,7 +69560,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-19",
+   "last_updated": "2026-08-15",
    "common_slug": "chasteberry"
   },
   {

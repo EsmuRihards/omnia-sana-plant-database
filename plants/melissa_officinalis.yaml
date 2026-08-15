@@ -45,6 +45,29 @@ harvesting:
   reference_ids:
   - REF-1198
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves from late spring to early autumn, ideally just before flowering for the best flavour and oil."
+  basis: traditional
+  source_quote: "Leaves can be harvested from late spring to early autumn, ideally just before flowering for the best flavor."
+  reference_ids:
+  - REF-3292
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3292); the leaves are gathered just before flowering (late spring to early autumn), when the aromatic oil is best. Single lineage -> provisional."
+- part: flower
+  signals:
+  - "Gather the flowering tops just before or as the plant comes into flower, in summer."
+  basis: traditional
+  source_quote: "harvested just before or just after flowering"
+  reference_ids:
+  - REF-3292
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3292); for drying, the plant is gathered just before or just after flowering (in flower June-October). Single lineage -> provisional."
 traditional_uses:
   text: Lemon balm has a long European tradition as a calming, 'cheering' herb for nervous tension, poor
     sleep and mild anxiety, and as a carminative for indigestion, bloating and cramping; topically it
@@ -313,7 +336,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -333,4 +356,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and is untouched. status -> verified. Preparations sourced 2026-07-20 to monographs already on this
   record. Each supporting quote was checked to appear verbatim in the stored monograph posology, the reference
   confirmed present on the plant, and the dose form / plant part / route checked for mismatch; text rewritten
-  to the source rather than having a reference stapled on.'
+  to the source rather than having a reference stapled on. | 2026-08-15: Harvest Calendar (phenological) -
+  added harvest_readiness for leaf + flower (provisional: PFAF REF-3292, gathered just before flowering).
+  Single lineage. Binomial confirmed.'

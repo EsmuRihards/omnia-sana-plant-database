@@ -48,6 +48,40 @@ harvesting:
   - REF-0938
   - REF-0931
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Cut the flowering stems when the plant is in full flower, in summer."
+  basis: traditional
+  source_quote: "The flowering stems are harvested in August when the plant is in full flower, they are dried and stored for use as required."
+  reference_ids:
+  - REF-3294
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3294); the flowering stems are cut at full flower in summer (in flower July-November). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowering stems at full flower, in summer."
+  basis: traditional
+  source_quote: "The flowering stems are harvested in August when the plant is in full flower, they are dried and stored for use as required."
+  reference_ids:
+  - REF-3294
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3294); the leaf is gathered with the flowering stems at full flower. Single lineage -> provisional."
+- part: stem
+  signals:
+  - "Cut the flowering stems at full flower, in summer."
+  basis: traditional
+  source_quote: "The flowering stems are harvested in August when the plant is in full flower, they are dried and stored for use as required."
+  reference_ids:
+  - REF-3294
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3294); the stem is cut with the flowering tops at full flower. Single lineage -> provisional."
 traditional_uses:
   text: Catnip has a long North American and European folk-medicine history as a mild sedative/nervine,
     diaphoretic (fever-reducing, sweat-promoting) remedy, carminative digestive and traditional emmenagogue;
@@ -256,7 +290,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -279,4 +313,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the Health Canada NNHPD monograph seam, which the 2026-07-18/19 dosage campaign never opened (it worked
   the EMA register and all four WHO volumes). NNHPD explicitly lists Infusion, Decoction and Tincture
   among accepted methods of preparation, which is exactly the gap that campaign recorded as unreachable.
-  Species confirmed from the monograph''s own title, not from the slug.'
+  Species confirmed from the monograph''s own title, not from the slug. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for flower + leaf + stem (all provisional: PFAF REF-3294,
+  flowering stems cut at full flower in summer). Single lineage. Binomial confirmed.'

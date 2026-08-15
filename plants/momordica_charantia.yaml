@@ -66,6 +66,18 @@ harvesting:
   reference_ids:
   - REF-0412
   status: verified
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Pick the fruit young and green, while still immature - before it ripens to orange and splits open."
+  basis: traditional
+  source_quote: "The fruit is harvested when young and used fresh as a pulp or juice."
+  reference_ids:
+  - REF-3295
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3295); the fruit is picked young and green (the immature stage), before it ripens orange and splits. Single lineage -> provisional."
 traditional_uses:
   text: Bitter melon has a long history in Asian, African and Caribbean traditional medicine as a bitter
     digestive tonic and mild laxative, and most notably as a remedy for diabetes and its complications;
@@ -258,7 +270,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   and Int J Mol Sci reviews; WebMD safety monograph). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (blood-sugar, indigestion); associations retained and now part-mapped and
@@ -271,4 +283,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Fro
   in the largely-clinical bucket), other fields cite the existing REF-0412 phytochemistry/safety review
   and antidiabetic trial reviews. | 2026-07-13: added anticancer action (where absent) + cancer indication
   (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
-  campaign.'
+  campaign. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit (provisional:
+  Useful Tropical Plants REF-3295, picked young and green before ripening). Single lineage. Binomial
+  confirmed.'

@@ -38436,6 +38436,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves from late spring to early autumn, ideally just before flowering for the best flavour and oil."
+     ],
+     "basis": "traditional",
+     "source_quote": "Leaves can be harvested from late spring to early autumn, ideally just before flowering for the best flavor.",
+     "reference_ids": [
+      "REF-3292"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3292); the leaves are gathered just before flowering (late spring to early autumn), when the aromatic oil is best. Single lineage -> provisional."
+    },
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowering tops just before or as the plant comes into flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "harvested just before or just after flowering",
+     "reference_ids": [
+      "REF-3292"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3292); for drying, the plant is gathered just before or just after flowering (in flower June-October). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Lemon balm has a long European tradition as a calming, 'cheering' herb for nervous tension, poor sleep and mild anxiety, and as a carminative for indigestion, bloating and cramping; topically it has traditionally been applied to cold sores. Modern clinical trials support anxiolytic and mood-related benefits and antiviral activity against herpes simplex virus, consistent with these traditional uses.",
     "reference_ids": [
@@ -38809,7 +38841,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "lemon-balm"
   },
   {
@@ -38863,6 +38895,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Cut the leaves as the plant comes into flower, when the aromatic oil peaks."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested as the plant comes into flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3293"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3293); the leaves are harvested as the plant comes into flower (in flower August-October). Single lineage -> provisional."
+    },
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowering tops as the plant comes into flower, in late summer to autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested as the plant comes into flower and can be dried for later use.",
+     "reference_ids": [
+      "REF-3293"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3293); the flowering tops are gathered as the plant comes into flower. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Peppermint has one of the best-documented traditional uses of any herb - as a carminative and antispasmodic for indigestion, bloating and colic. Enteric-coated peppermint oil capsules are among the most clinically validated herbal treatments for irritable bowel syndrome, and topical or inhaled peppermint oil is traditionally and clinically used for tension-type headache and muscular aches.",
     "reference_ids": [
@@ -39323,7 +39387,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18",
+   "last_updated": "2026-08-15",
    "common_slug": "peppermint"
   },
   {
@@ -39411,6 +39475,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Pick the fruit young and green, while still immature - before it ripens to orange and splits open."
+     ],
+     "basis": "traditional",
+     "source_quote": "The fruit is harvested when young and used fresh as a pulp or juice.",
+     "reference_ids": [
+      "REF-3295"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3295); the fruit is picked young and green (the immature stage), before it ripens orange and splits. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Bitter melon has a long history in Asian, African and Caribbean traditional medicine as a bitter digestive tonic and mild laxative, and most notably as a remedy for diabetes and its complications; this traditional antidiabetic use is now the most scientifically supported of its properties, with numerous studies on its blood-glucose- and lipid-lowering effects.",
     "reference_ids": [
@@ -39689,7 +39770,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "bitter-melon"
   },
   {
@@ -39746,6 +39827,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Harvest the fruit ripe (soft, translucent-white and strongly smelling) or unripe (mature green), depending on the preparation."
+     ],
+     "basis": "traditional",
+     "source_quote": "The fruits can be harvested ripe or unripe and are sometimes charred and mixed with salt for medicinal use.",
+     "reference_ids": [
+      "REF-3296"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3296); the fruit is taken ripe (soft, strong-smelling) or unripe (mature green). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves as required through the growing season (evergreen - no distinct seasonal window)."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested as required during the growing season.",
+     "reference_ids": [
+      "REF-3296"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3296); the leaves are gathered as required during the growing season (evergreen tropical, no seasonal window). Single lineage -> provisional."
+    },
+    {
+     "part": "root",
+     "signals": [
+      "Dig the roots as required (evergreen tropical - no distinct seasonal window)."
+     ],
+     "basis": "traditional",
+     "source_quote": "The roots are harvested as required and used in decoctions.",
+     "reference_ids": [
+      "REF-3296"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3296); the roots are dug as required (no distinct seasonal stage on this evergreen). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Noni has an extensive Polynesian, South Asian and Southeast Asian traditional-medicine history, used as a broad-spectrum tonic for pain, inflammation, infection and immune support, and traditionally for diabetes and skin complaints. The fermented fruit juice is the most widely used modern preparation, now studied for antioxidant, anti-inflammatory, immunomodulatory and metabolic effects supporting several of these traditional uses.",
     "reference_ids": [
@@ -40103,7 +40231,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "noni"
   },
   {
@@ -40161,6 +40289,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Cut the flowering stems when the plant is in full flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The flowering stems are harvested in August when the plant is in full flower, they are dried and stored for use as required.",
+     "reference_ids": [
+      "REF-3294"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3294); the flowering stems are cut at full flower in summer (in flower July-November). Single lineage -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering stems at full flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The flowering stems are harvested in August when the plant is in full flower, they are dried and stored for use as required.",
+     "reference_ids": [
+      "REF-3294"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3294); the leaf is gathered with the flowering stems at full flower. Single lineage -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Cut the flowering stems at full flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The flowering stems are harvested in August when the plant is in full flower, they are dried and stored for use as required.",
+     "reference_ids": [
+      "REF-3294"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3294); the stem is cut with the flowering tops at full flower. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Catnip has a long North American and European folk-medicine history as a mild sedative/nervine, diaphoretic (fever-reducing, sweat-promoting) remedy, carminative digestive and traditional emmenagogue; it was also given as a children's tea for colic and restlessness, though large amounts are not advised for young children and it is traditionally avoided in pregnancy.",
     "reference_ids": [
@@ -40440,7 +40615,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "catnip"
   },
   {

@@ -49,6 +49,40 @@ harvesting:
   reference_ids:
   - REF-1422
   status: verified
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Harvest the fruit ripe (soft, translucent-white and strongly smelling) or unripe (mature green), depending on the preparation."
+  basis: traditional
+  source_quote: "The fruits can be harvested ripe or unripe and are sometimes charred and mixed with salt for medicinal use."
+  reference_ids:
+  - REF-3296
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3296); the fruit is taken ripe (soft, strong-smelling) or unripe (mature green). Single lineage -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves as required through the growing season (evergreen - no distinct seasonal window)."
+  basis: traditional
+  source_quote: "The leaves are harvested as required during the growing season."
+  reference_ids:
+  - REF-3296
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3296); the leaves are gathered as required during the growing season (evergreen tropical, no seasonal window). Single lineage -> provisional."
+- part: root
+  signals:
+  - "Dig the roots as required (evergreen tropical - no distinct seasonal window)."
+  basis: traditional
+  source_quote: "The roots are harvested as required and used in decoctions."
+  reference_ids:
+  - REF-3296
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3296); the roots are dug as required (no distinct seasonal stage on this evergreen). Single lineage -> provisional."
 traditional_uses:
   text: Noni has an extensive Polynesian, South Asian and Southeast Asian traditional-medicine history,
     used as a broad-spectrum tonic for pain, inflammation, infection and immune support, and traditionally
@@ -305,7 +339,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -316,4 +350,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing phytochemistry/safety review (REF-1417) and applications
   review (REF-1422). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
+  2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit + leaf + root (all
+  provisional: Useful Tropical Plants REF-3296; fruit ripe or unripe, leaf/root gathered as required on
+  this evergreen). Single lineage. Binomial confirmed.'

@@ -62,6 +62,18 @@ harvesting:
   reference_ids:
   - REF-0530
   status: verified
+harvest_readiness:
+- part: bark
+  signals:
+  - "Strip the bark in spring, as the sap rises and the bark slips, or in early autumn - from 3 to 6 year old branches."
+  basis: traditional
+  source_quote: "The bark is harvested in the spring or early autumn from 3 - 6 year old branches and is dried for later use."
+  reference_ids:
+  - REF-3327
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3327); the bark is stripped in spring (sap rising, bark slips) or early autumn, from 3-6 year old branches. Single lineage -> provisional."
 traditional_uses:
   text: Willow bark has one of the longest documented histories of any medicinal plant, used since antiquity
     (recorded by Hippocrates) as a remedy for pain and fever. Its salicin content, chemically related
@@ -203,7 +215,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Phytotherapy Research
   systematic review; EMA HMPC monograph for Salicis cortex). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (pain, headache, inflammation, arthritis, fever, back-pain); associations
@@ -218,4 +230,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   (REF-0529). D6 (entity gap) 2026-07-20: this plant named a defining constituent that had NO entity in
   compounds/, so it resolved to nothing and would have emitted no practice recommendation. Entity created
   and the constituent wired to it. Only the molecules the entry already names were wired - no constituent
-  was reinterpreted.'
+  was reinterpreted. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for bark
+  (provisional: PFAF REF-3327, stripped in spring as the sap rises or in early autumn, from 3-6 year
+  branches). Single lineage. Binomial confirmed.'

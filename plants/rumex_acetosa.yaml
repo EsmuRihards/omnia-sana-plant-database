@@ -45,6 +45,18 @@ harvesting:
   reference_ids:
   - REF-0048
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the young leaves before flowering, when least bitter; available through the growing season and into winter in mild weather."
+  basis: traditional
+  source_quote: "The leaves can be available all through the winter, especially in mild weather or if a little protection is given to the plants."
+  reference_ids:
+  - REF-3331
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3331); the young leaves are gathered through the growing season (available into winter in mild weather), best before flowering (May-June) when least bitter. Single lineage -> provisional. SAFETY: young sorrel leaves can be confused with the poisonous cuckoo pint (Arum maculatum) - confirm identity; see Dangerous Lookalikes."
 traditional_uses:
   text: Common sorrel has a long European culinary-medicinal tradition as a refreshing, vitamin-C-rich
     spring green and digestive bitter, and folk-medicinally as a diuretic and mild antiscorbutic (anti-scurvy)
@@ -294,7 +306,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -304,4 +316,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0895, REF-0896, REF-0897, REF-0898, REF-0899) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing Encyclopedia of Medicinal Plants (REF-0048) plus the
-  H. pylori compound-isolation study (REF-0892) and antioxidant study (REF-0896).'
+  H. pylori compound-isolation study (REF-0892) and antioxidant study (REF-0896). | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for leaf (provisional: PFAF REF-3331, young leaves
+  through the growing season, best before flowering). SAFETY: Arum maculatum lookalike. Binomial
+  confirmed.'

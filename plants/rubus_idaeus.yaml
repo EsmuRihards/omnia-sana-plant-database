@@ -61,6 +61,18 @@ harvesting:
   reference_ids:
   - REF-1536
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves in summer, for drying as raspberry-leaf tea."
+  basis: traditional
+  source_quote: "The leaves are harvested in the summer and dried for later use."
+  reference_ids:
+  - REF-3328
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3328); the leaves are gathered in summer. Single lineage -> provisional."
 traditional_uses:
   text: Raspberry leaf has a long, very widely known folk tradition as a 'pregnancy tea', taken in the
     final weeks of pregnancy as a uterine tonic to prepare for labour. Observational studies and a small
@@ -181,7 +193,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   observational study; ANZJOG survey). Evidence is weak/observational, reflected in needs-review action
   statuses. Note: distinct from the book''s Rubus fruticosus (blackberry leaf). Originally a skeleton
@@ -195,4 +207,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
   sourced from the existing pregnancy observational study (REF-0497), pregnancy survey (REF-0498) and
-  phenolic-composition study (REF-1536).'
+  phenolic-composition study (REF-1536). | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for leaf (provisional: PFAF REF-3328, gathered in summer). Single lineage. Binomial
+  confirmed.'

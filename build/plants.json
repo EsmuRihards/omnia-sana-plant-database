@@ -53707,6 +53707,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves in summer, for drying as raspberry-leaf tea."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are harvested in the summer and dried for later use.",
+     "reference_ids": [
+      "REF-3328"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3328); the leaves are gathered in summer. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Raspberry leaf has a long, very widely known folk tradition as a 'pregnancy tea', taken in the final weeks of pregnancy as a uterine tonic to prepare for labour. Observational studies and a small randomised controlled trial suggest a possible modest effect on labour duration, though robust proof is still lacking.",
     "reference_ids": [
@@ -53875,7 +53892,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "raspberry-leaf"
   },
   {
@@ -53930,6 +53947,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the young leaves before flowering, when least bitter; available through the growing season and into winter in mild weather."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves can be available all through the winter, especially in mild weather or if a little protection is given to the plants.",
+     "reference_ids": [
+      "REF-3331"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3331); the young leaves are gathered through the growing season (available into winter in mild weather), best before flowering (May-June) when least bitter. Single lineage -> provisional. SAFETY: young sorrel leaves can be confused with the poisonous cuckoo pint (Arum maculatum) - confirm identity; see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Common sorrel has a long European culinary-medicinal tradition as a refreshing, vitamin-C-rich spring green and digestive bitter, and folk-medicinally as a diuretic and mild antiscorbutic (anti-scurvy) remedy. Modern research confirms antioxidant, anti-inflammatory and antimicrobial activity of its leaf extracts.",
     "reference_ids": [
@@ -54247,7 +54281,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "common-sorrel"
   },
   {
@@ -54325,6 +54359,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the rhizome and root in autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root is harvested in the autumn and dried for later use",
+     "reference_ids": [
+      "REF-3329"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3329); the rhizome and root are dug in autumn. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Butcher's broom takes its name from the traditional use of its stiff, bristly stems bundled together as a broom by butchers. Medicinally its rhizome has a long European tradition, and modern use, supported by clinical trials, is for chronic venous insufficiency (heavy, tired, swollen legs, varicose veins) and haemorrhoids, reflecting its steroidal-saponin-driven venotonic and vasoconstrictive activity.",
     "reference_ids": [
@@ -54496,7 +54547,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "butcher-s-broom"
   },
   {
@@ -54577,6 +54628,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "bark",
+     "signals": [
+      "Strip the bark in spring, as the sap rises and the bark slips, or in early autumn - from 3 to 6 year old branches."
+     ],
+     "basis": "traditional",
+     "source_quote": "The bark is harvested in the spring or early autumn from 3 - 6 year old branches and is dried for later use.",
+     "reference_ids": [
+      "REF-3327"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3327); the bark is stripped in spring (sap rising, bark slips) or early autumn, from 3-6 year old branches. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Willow bark has one of the longest documented histories of any medicinal plant, used since antiquity (recorded by Hippocrates) as a remedy for pain and fever. Its salicin content, chemically related to aspirin, gives it official European herbal-monograph recognition for mild joint pain, headache and feverish colds, with modern clinical trials supporting benefit for low back pain.",
     "reference_ids": [
@@ -54769,7 +54837,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "willow-bark"
   },
   {
@@ -54822,6 +54890,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Harvest the seed after flowering, once the flower heads dry, in late summer to autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from July to August.",
+     "reference_ids": [
+      "REF-3330"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3330); the seed follows flowering (July-August) and is collected once the flower heads dry (seed maturation depends on a warm enough summer). PFAF gives the flowering stage rather than an explicit seed-harvest sentence. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Chia seed has an ancient Mesoamerican food-medicine tradition as an energy-sustaining staple food for Aztec warriors and runners. Its modern popularity centres on its dense nutrient profile - fibre, omega-3 (alpha-linolenic acid) fatty acids, protein and antioxidants - studied for metabolic, cardiovascular and digestive support.",
     "reference_ids": [
@@ -55050,7 +55135,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-08-15",
    "common_slug": "chia"
   },
   {

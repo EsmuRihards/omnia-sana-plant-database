@@ -57,6 +57,18 @@ harvesting:
   reference_ids:
   - REF-0424
   status: verified
+harvest_readiness:
+- part: rhizome
+  signals:
+  - "Dig the rhizome and root in autumn."
+  basis: traditional
+  source_quote: "The root is harvested in the autumn and dried for later use"
+  reference_ids:
+  - REF-3329
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3329); the rhizome and root are dug in autumn. Single lineage -> provisional."
 traditional_uses:
   text: Butcher's broom takes its name from the traditional use of its stiff, bristly stems bundled together
     as a broom by butchers. Medicinally its rhizome has a long European tradition, and modern use, supported
@@ -191,7 +203,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica phytochemical review; Polski
   Merkuriusz Lekarski venous-insufficiency review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids); associations retained and now
@@ -204,4 +216,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica p
   REF-1555, REF-1556, REF-0424, REF-1557, REF-1558, REF-1559, REF-1560, REF-1561) — woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing steroidal-saponin review (REF-0424) and venous-insufficiency
-  review (REF-0425).'
+  review (REF-0425). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for rhizome
+  (provisional: PFAF REF-3329, dug in autumn). Single lineage. Binomial confirmed.'

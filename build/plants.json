@@ -69619,6 +69619,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root is harvested in the autumn and dried for later use.",
+     "reference_ids": [
+      "REF-3369"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3369); the root is dug in autumn. Single lineage -> provisional. (Leaf, also a listed part, is gathered through the growing season but was not separately timing-sourced this pass.)"
+    }
+   ],
    "traditional_uses": {
     "text": "Ashwagandha root is one of the most important rasayana (rejuvenative) tonics of Ayurvedic medicine, traditionally used to build strength and vitality, support healthy stress response, and promote restful sleep; this traditional adaptogenic reputation is now supported by clinical trials of standardised root extract for stress, sleep and physical performance.",
     "reference_ids": [
@@ -70156,7 +70173,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "ashwagandha"
   },
   {
@@ -70247,6 +70264,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "stigma",
+     "signals": [
+      "Gather the corn silk (the fresh stigmas and styles) before pollination, while soft and pale, and use it fresh - dried silk loses its diuretic effect and becomes purgative."
+     ],
+     "basis": "traditional",
+     "source_quote": "The silks are harvested before pollination occurs and are best used when fresh because they tend to lose their diuretic effect when stored and also become purgative.",
+     "reference_ids": [
+      "REF-3370"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3370); the corn silk (stigmas and styles) is gathered fresh, before pollination, while soft and pale. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Corn silk has a long traditional use across Chinese, Native American and European folk medicine as a gentle diuretic and soothing demulcent for urinary tract complaints, mild fluid retention and kidney support.",
     "reference_ids": [
@@ -70465,7 +70499,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "corn-silk"
   },
   {
@@ -70527,6 +70561,38 @@
     "season": "8-10 months after planting for mature rhizome; earlier for young ginger",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "signals": [
+      "Lift the mature rhizome when the stalks begin to wither, about ten months after planting (young green ginger is lifted earlier)."
+     ],
+     "basis": "traditional",
+     "source_quote": "Commercially, plants are given a ten month growing season from planting out a root, being harvested when the stalks begin to wither.",
+     "reference_ids": [
+      "REF-3371"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3371); the rhizome is lifted when the stalks begin to wither (~10 months after planting) for mature/dried ginger; young green ginger is lifted earlier. Single lineage -> provisional."
+    },
+    {
+     "part": "root",
+     "signals": [
+      "Lift the root with the rhizome when the stalks begin to wither, about ten months after planting."
+     ],
+     "basis": "traditional",
+     "source_quote": "Commercially, plants are given a ten month growing season from planting out a root, being harvested when the stalks begin to wither.",
+     "reference_ids": [
+      "REF-3371"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3371); the root is lifted with the rhizome when the stalks wither. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Ginger rhizome has one of the longest and most widespread medicinal histories of any spice, used across Chinese, Ayurvedic and Western herbal traditions as a warming digestive carminative, an antiemetic for nausea and motion sickness, and an anti-inflammatory remedy for joint pain; this traditional reputation is now supported by an extensive clinical evidence base, particularly for nausea (including pregnancy and chemotherapy-related) and osteoarthritis.",
     "reference_ids": [
@@ -70928,7 +70994,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "ginger"
   }
  ]

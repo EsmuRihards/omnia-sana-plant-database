@@ -3,9 +3,9 @@
  "artifacts": {
   "citations.json": {
    "schema": "omnia-sana/knowledge-finder@2",
-   "count": 3355,
-   "bytes": 8018482,
-   "sha256": "eca5dfd17d9a6ee9c294ad1b67e36cb3abb991b3a6fa97491a11dec14df9f5a5"
+   "count": 3358,
+   "bytes": 8020749,
+   "sha256": "42c912bbea86a02765652ca072a36d50dd998400013e79b96e05b08e4e75f5c7"
   },
   "symptoms.json": {
    "schema": "omnia-sana/symptom-lookup@1",
@@ -16,8 +16,8 @@
   "plants.json": {
    "schema": "omnia-sana/plants@1",
    "count": 188,
-   "bytes": 2253682,
-   "sha256": "1b0fd8db7af47ec4341c3828acce8db88317192a4872e5e2a8e9545fbe7fc578"
+   "bytes": 2256536,
+   "sha256": "732932f52e122a46876fd7099cb2fa8bf83c7ede140a3e343422b2c3fcf59997"
   },
   "vocab.json": {
    "schema": "omnia-sana/vocab@1",

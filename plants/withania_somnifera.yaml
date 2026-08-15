@@ -48,6 +48,18 @@ harvesting:
   reference_ids:
   - REF-2249
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root in autumn."
+  basis: traditional
+  source_quote: "The root is harvested in the autumn and dried for later use."
+  reference_ids:
+  - REF-3369
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3369); the root is dug in autumn. Single lineage -> provisional. (Leaf, also a listed part, is gathered through the growing season but was not separately timing-sourced this pass.)"
 traditional_uses:
   text: Ashwagandha root is one of the most important rasayana (rejuvenative) tonics of Ayurvedic medicine,
     traditionally used to build strength and vitality, support healthy stress response, and promote restful
@@ -470,7 +482,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -482,4 +494,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
   references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
-  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for root (provisional: PFAF REF-3369, dug in autumn).
+  Single lineage. Binomial confirmed.'

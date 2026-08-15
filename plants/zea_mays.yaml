@@ -71,6 +71,18 @@ harvesting:
   reference_ids:
   - REF-0436
   status: verified
+harvest_readiness:
+- part: stigma
+  signals:
+  - "Gather the corn silk (the fresh stigmas and styles) before pollination, while soft and pale, and use it fresh - dried silk loses its diuretic effect and becomes purgative."
+  basis: traditional
+  source_quote: "The silks are harvested before pollination occurs and are best used when fresh because they tend to lose their diuretic effect when stored and also become purgative."
+  reference_ids:
+  - REF-3370
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3370); the corn silk (stigmas and styles) is gathered fresh, before pollination, while soft and pale. Single lineage -> provisional."
 traditional_uses:
   text: Corn silk has a long traditional use across Chinese, Native American and European folk medicine
     as a gentle diuretic and soothing demulcent for urinary tract complaints, mild fluid retention and
@@ -225,7 +237,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological review). Further
   enriched 2026-06-13 with two PubMed studies - a renal diuretic mechanism study in conscious rats
   (REF-0557, Velazquez et al. 2005) and a gestational toxicology study confirming maysin as the predominant
@@ -257,4 +269,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules phyto
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for stigma/corn silk (provisional: PFAF REF-3370, gathered fresh
+  before pollination). Single lineage. Binomial confirmed.'

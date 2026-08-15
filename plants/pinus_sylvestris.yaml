@@ -50,6 +50,35 @@ harvesting:
   reference_ids:
   - REF-0098
   status: verified
+harvest_readiness:
+- part: shoot
+  signals:
+  - "Gather the young shoots and buds in spring, as the new growth emerges."
+  basis: traditional
+  source_quote: "They are harvested in the spring and dried for later use"
+  reference_ids:
+  - REF-3311
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3311); the young shoots and buds are gathered in spring. Single lineage -> provisional. SAFETY: pine needles/shoots must not be confused with the fatal yew (Taxus baccata); see Dangerous Lookalikes."
+- part: leaf
+  signals:
+  - "Gather the needles with the young spring growth (evergreen - available year-round, best from the fresh spring shoots)."
+  basis: traditional
+  source_quote: "They are harvested in the spring and dried for later use"
+  reference_ids:
+  - REF-3311
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3311); the needles are gathered with the spring young growth (evergreen). Single lineage -> provisional. SAFETY: do not confuse pine needles (in bundles of two) with fatal yew (Taxus baccata) needles (flat, single); see Dangerous Lookalikes."
+- part: bark
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no harvest timing for the inner bark of Pinus sylvestris. Bark generally slips in spring as the sap rises, but no source stating that stage for this species was found this pass."
+- part: sap
+  status: gap
+  notes: "GAP (documented dead end). PFAF gives no harvest timing for the resin/sap of Pinus sylvestris (obtained by tapping the trunk), so none is asserted."
 traditional_uses:
   text: Scots pine has a long northern European tradition as a source of resinous, aromatic preparations
     for respiratory complaints (coughs, bronchitis, catarrh) and topical rheumatic/muscular remedies,
@@ -304,7 +333,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -317,4 +346,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and essential-oil review (REF-0018) plus phytochemistry studies (REF-1235, REF-1236, REF-1242); did
   NOT reuse REF-0279 (Pinus pinaster bark proanthocyanidins - a different species) for constituents to
   avoid species conflation. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
+  2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for shoot + leaf (provisional: PFAF
+  REF-3311, young shoots/needles in spring); bark + sap = GAP. SAFETY: fatal yew (Taxus baccata) needle
+  confusion. Binomial confirmed.'

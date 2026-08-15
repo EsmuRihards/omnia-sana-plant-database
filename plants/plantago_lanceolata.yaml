@@ -66,6 +66,29 @@ harvesting:
   reference_ids:
   - REF-0499
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves young through the growing season - the very young leaves are best (less fibrous)."
+  basis: traditional
+  source_quote: "The very young leaves are somewhat better and are less fibrous."
+  reference_ids:
+  - REF-3312
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3312); the young leaves are gathered through the growing season (flowering April-August). Single lineage -> provisional."
+- part: aerial-parts
+  signals:
+  - "Gather the aerial parts while in flower, in summer."
+  basis: traditional
+  source_quote: "It is in flower from April to August, and the seeds ripen from June to September."
+  reference_ids:
+  - REF-3312
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3312); the aerial parts are gathered while in flower (April-August). Single lineage -> provisional."
 traditional_uses:
   text: Ribwort plantain has an official European herbal-monograph tradition for the temporary relief
     of dry cough and irritation of the mouth and throat, and for minor skin wounds, reflecting its long
@@ -254,7 +277,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs).
   Note: distinct from the book''s Plantago major (greater plantain). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, wounds, inflammation, bronchitis);
@@ -266,4 +289,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   @article sources (REF-0960, REF-0961, REF-0962, REF-0963, REF-0964, REF-0965, REF-0966, REF-0967, REF-0968,
   REF-0969) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
   added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
-  sourced from the existing EMA HMPC (REF-0499) and ESCOP (REF-0500) monographs.'
+  sourced from the existing EMA HMPC (REF-0499) and ESCOP (REF-0500) monographs. | 2026-08-15: Harvest
+  Calendar (phenological) - added harvest_readiness for leaf (young, growing season) + aerial-parts (in
+  flower), both provisional: PFAF REF-3312. Single lineage. Binomial confirmed.'

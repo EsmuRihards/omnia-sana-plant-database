@@ -37,6 +37,18 @@ harvesting:
   - Seed
   season: Late summer, once umbels have dried
   status: draft
+harvest_readiness:
+- part: seed
+  signals:
+  - "Cut the whole plant when the seed is ripe (late summer), then dry and thresh out the seeds."
+  basis: traditional
+  source_quote: "The seed is harvested by cutting the whole plant when the seed is ripe."
+  reference_ids:
+  - REF-3310
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3310); the whole plant is cut when the seed is ripe (seeds ripen August-September), then threshed. Single lineage -> provisional. SAFETY: anise is an Apiaceae - confirm identity against the fatal Conium maculatum (poison hemlock); see Dangerous Lookalikes."
 traditional_uses:
   text: Anise has a long Mediterranean and Middle Eastern tradition as a carminative digestive remedy
     for bloating and indigestion, an expectorant for coughs and catarrh, and a traditional galactagogue
@@ -337,7 +349,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -351,4 +363,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   reuse the existing Duke/Commission-E-sourced book refs, constituents cite the newer PubMed phytochemistry
   studies (REF-1409, REF-1411, REF-1414, REF-1416). | 2026-07-13: added anticancer action (where absent)
   + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
-  part of the cancer-condition campaign.'
+  part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for seed (provisional: PFAF REF-3310, whole plant cut when seed ripe in late summer).
+  SAFETY: fatal Conium maculatum (poison hemlock) lookalike. Binomial confirmed.'

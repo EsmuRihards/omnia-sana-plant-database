@@ -83,6 +83,29 @@ harvesting:
   reference_ids:
   - REF-0364
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves through the growing season, best from spring to early summer while young."
+  basis: traditional
+  source_quote: "The leaves can be harvested throughout the growing season, but the best time is from spring to early summer."
+  reference_ids:
+  - REF-3314
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3314); the leaves are best gathered from spring to early summer (through the growing season). Single lineage -> provisional."
+- part: seed
+  signals:
+  - "Collect the seeds when they ripen on the spikes, from mid-summer to autumn."
+  basis: traditional
+  source_quote: "the seeds ripen from July to October"
+  reference_ids:
+  - REF-3314
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3314); the seeds ripen July-October. Single lineage -> provisional."
 traditional_uses:
   text: Greater plantain is one of the most widely used wound herbs across world folk-medicine traditions,
     applied fresh as a poultice to cuts, stings and insect bites, and taken as a tea for cough, digestive
@@ -426,7 +449,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+website+pubmed
 status: verified
-last_updated: '2026-07-18'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -440,4 +463,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing traditional-uses/chemical-constituents reviews (REF-0364,
   REF-0354) and the Duke-sourced dosage already cited in contraindications. | 2026-07-18: added 22 new
   OpenAlex-sourced scientific references (REF-2993..REF-3014) covering anticancer / immunity / cardiovascular
-  / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed database).'
+  / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed database). |
+  2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for leaf (spring-early summer) +
+  seed (ripen Jul-Oct), both provisional: PFAF REF-3314. Single lineage. Binomial confirmed.'

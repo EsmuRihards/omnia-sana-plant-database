@@ -46460,6 +46460,23 @@
     "season": "Late summer, once umbels have dried",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Cut the whole plant when the seed is ripe (late summer), then dry and thresh out the seeds."
+     ],
+     "basis": "traditional",
+     "source_quote": "The seed is harvested by cutting the whole plant when the seed is ripe.",
+     "reference_ids": [
+      "REF-3310"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3310); the whole plant is cut when the seed is ripe (seeds ripen August-September), then threshed. Single lineage -> provisional. SAFETY: anise is an Apiaceae - confirm identity against the fatal Conium maculatum (poison hemlock); see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Anise has a long Mediterranean and Middle Eastern tradition as a carminative digestive remedy for bloating and indigestion, an expectorant for coughs and catarrh, and a traditional galactagogue (milk-promoting) herb for nursing mothers. Commission E and WHO both approve its traditional use for catarrh of the upper respiratory tract and gastrointestinal spasms.",
     "reference_ids": [
@@ -46850,7 +46867,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "anise"
   },
   {
@@ -46908,6 +46925,48 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "shoot",
+     "signals": [
+      "Gather the young shoots and buds in spring, as the new growth emerges."
+     ],
+     "basis": "traditional",
+     "source_quote": "They are harvested in the spring and dried for later use",
+     "reference_ids": [
+      "REF-3311"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3311); the young shoots and buds are gathered in spring. Single lineage -> provisional. SAFETY: pine needles/shoots must not be confused with the fatal yew (Taxus baccata); see Dangerous Lookalikes."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the needles with the young spring growth (evergreen - available year-round, best from the fresh spring shoots)."
+     ],
+     "basis": "traditional",
+     "source_quote": "They are harvested in the spring and dried for later use",
+     "reference_ids": [
+      "REF-3311"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3311); the needles are gathered with the spring young growth (evergreen). Single lineage -> provisional. SAFETY: do not confuse pine needles (in bundles of two) with fatal yew (Taxus baccata) needles (flat, single); see Dangerous Lookalikes."
+    },
+    {
+     "part": "bark",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no harvest timing for the inner bark of Pinus sylvestris. Bark generally slips in spring as the sap rises, but no source stating that stage for this species was found this pass."
+    },
+    {
+     "part": "sap",
+     "status": "gap",
+     "notes": "GAP (documented dead end). PFAF gives no harvest timing for the resin/sap of Pinus sylvestris (obtained by tapping the trunk), so none is asserted."
+    }
+   ],
    "traditional_uses": {
     "text": "Scots pine has a long northern European tradition as a source of resinous, aromatic preparations for respiratory complaints (coughs, bronchitis, catarrh) and topical rheumatic/muscular remedies, and pine-needle tea has traditionally been valued as a vitamin-C-rich winter tonic. Modern research on the needle essential oil supports antimicrobial, anti-inflammatory and expectorant activity.",
     "reference_ids": [
@@ -47247,7 +47306,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "scots-pine"
   },
   {
@@ -47317,6 +47376,38 @@
     "season": "From mature (3-5+ year) plants",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root from mature plants at least three to four years old (no seasonal window on this tropical perennial)."
+     ],
+     "basis": "traditional",
+     "source_quote": "The crop is potentially profitable when harvested after 3 - 4 years.",
+     "reference_ids": [
+      "REF-3313"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3313); the root and rhizome are dug from mature plants (3-4+ years old); no seasonal window. Single lineage -> provisional."
+    },
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the rhizome (rootstock) with the roots from mature plants at least three to four years old."
+     ],
+     "basis": "traditional",
+     "source_quote": "The crop is potentially profitable when harvested after 3 - 4 years.",
+     "reference_ids": [
+      "REF-3313"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3313); the rhizome (the primary kava part) is dug with the roots from mature 3-4+ year plants. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Kava root has a centuries-long ceremonial and social tradition across Pacific Island cultures, prepared as a communal beverage for its calming, sociable and relaxing effects; this traditional anxiolytic reputation is now supported by clinical trials of standardised water-based extracts for anxiety.",
     "reference_ids": [
@@ -47516,7 +47607,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18",
+   "last_updated": "2026-08-15",
    "common_slug": "kava"
   },
   {
@@ -47606,6 +47697,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves young through the growing season - the very young leaves are best (less fibrous)."
+     ],
+     "basis": "traditional",
+     "source_quote": "The very young leaves are somewhat better and are less fibrous.",
+     "reference_ids": [
+      "REF-3312"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3312); the young leaves are gathered through the growing season (flowering April-August). Single lineage -> provisional."
+    },
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the aerial parts while in flower, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from April to August, and the seeds ripen from June to September.",
+     "reference_ids": [
+      "REF-3312"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3312); the aerial parts are gathered while in flower (April-August). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Ribwort plantain has an official European herbal-monograph tradition for the temporary relief of dry cough and irritation of the mouth and throat, and for minor skin wounds, reflecting its long folk use as a demulcent respiratory remedy and wound herb. Modern research confirms mucilage-driven demulcent action alongside antimicrobial and anti-inflammatory activity.",
     "reference_ids": [
@@ -47877,7 +48000,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "ribwort-plantain"
   },
   {
@@ -47992,6 +48115,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves through the growing season, best from spring to early summer while young."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves can be harvested throughout the growing season, but the best time is from spring to early summer.",
+     "reference_ids": [
+      "REF-3314"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3314); the leaves are best gathered from spring to early summer (through the growing season). Single lineage -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the seeds when they ripen on the spikes, from mid-summer to autumn."
+     ],
+     "basis": "traditional",
+     "source_quote": "the seeds ripen from July to October",
+     "reference_ids": [
+      "REF-3314"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3314); the seeds ripen July-October. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Greater plantain is one of the most widely used wound herbs across world folk-medicine traditions, applied fresh as a poultice to cuts, stings and insect bites, and taken as a tea for cough, digestive upset and mild diarrhoea. Modern reviews confirm broad anti-inflammatory, antimicrobial, antioxidant and wound-healing activity supporting these traditional uses.",
     "reference_ids": [
@@ -48469,7 +48624,7 @@
    },
    "provenance": "book+website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-18",
+   "last_updated": "2026-08-15",
    "common_slug": "greater-plantain"
   },
   {

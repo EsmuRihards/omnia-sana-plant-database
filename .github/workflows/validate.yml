@@ -8,19 +8,35 @@ on:
   push:
   pull_request:
 
+# Least privilege. This job only reads the tree, and it runs on pull_request,
+# which executes code from the PR itself. Without this block the workflow
+# inherits the repository default token scope.
+permissions:
+  contents: read
+
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # Actions are pinned to full commit SHAs, not tags. A tag is mutable: if
+      # actions/checkout were compromised, repointing v4 would execute attacker
+      # code in this job. The trailing comment records the human-readable
+      # version so the pin can still be reviewed and bumped deliberately.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          # This job never pushes, so the token has no reason to stay in the
+          # runner's git config where later steps could read it.
+          persist-credentials: false
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install pyyaml
+        # Pinned exactly: an unpinned install resolves at run time, so a
+        # compromised release would land here automatically.
+        run: pip install pyyaml==6.0.3
 
       - name: Validate database
         run: python scripts/validate.py

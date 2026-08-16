@@ -82,7 +82,7 @@ harvest_readiness:
   notes: "PFAF (REF-3338); the flowering herb is cut as it comes into flower in summer. Single lineage -> provisional. SAFETY: figwort can be confused with the FATAL deadly nightshade (Atropa belladonna) - confirm identity; see Dangerous Lookalikes."
 - part: root
   status: gap
-  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Scrophularia nodosa (the knotty rhizome would conventionally be dug in autumn, but no source stating that stage was found this pass). SAFETY: Atropa belladonna is a fatal lookalike - see Dangerous Lookalikes."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a ROOT-harvest stage for Scrophularia nodosa. Grieve (Knotted Figwort) lists 'Part Used: Herb' and 'The whole herb is used, collected in June and July and dried'; King's American Dispensatory names 'The leaves, tops, and roots' and says 'the root is generally employed' but gives no season; Cook's Physio-Medical Dispensatory gives none; Madaus gives 'Sammelzeit: Juni bis September' without stating which organ that window applies to, and it was not stretched to cover the root. PFAF gives no root timing. The knotty rhizome would conventionally be dug in autumn, but nothing states it. SAFETY: Atropa belladonna is a fatal lookalike - see Dangerous Lookalikes."
 traditional_uses:
   text: Figwort takes one common name, 'scrofula plant', from its historic traditional use for scrofula
     (tuberculous lymph-node swelling) under the Doctrine of Signatures, its knotty root resembling swollen
@@ -291,4 +291,4 @@ internal_notes: 'Enriched 2026-06-12 from general literature (WebMD and herbal m
   monograph-base fields, sourced from the existing general figwort monographs (REF-0451, REF-0452). |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF
   REF-3338, cut as it comes into flower in summer); root = GAP. SAFETY: fatal Atropa belladonna lookalike.
-  Binomial confirmed.'
+  Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Grieve gives ''Part Used: Herb'' collected June-July, King''s says the root is generally employed but gives no season, Cook gives none, and the Madaus Sammelzeit (June-September) does not say which organ it covers, so it was not stretched to the root.'

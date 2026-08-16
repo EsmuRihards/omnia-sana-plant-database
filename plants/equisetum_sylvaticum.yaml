@@ -52,8 +52,16 @@ harvesting:
   status: draft
 harvest_readiness:
 - part: stem
-  status: gap
-  notes: "GAP (documented dead end). The medicinal material is the summer sterile (barren) stems, but no reliable phenological source stating the harvest-readiness STAGE for Equisetum sylvaticum specifically was found. PFAF (Equisetum sylvaticum) gives only 'The barren stems are used, they are most active when fresh' (a which-part/freshness note, not a phenophase) and spore-ripening 'from April to May'. Congener timing (E. arvense summer stems) must NOT be inherited. Next seams to try: a species-specific flora/monograph for E. sylvaticum. SAFETY: E. palustre (marsh horsetail) is a toxic lookalike - see Dangerous Lookalikes."
+  signals:
+  - "Cut the green, fully branched sterile stems once the whorls of slender branches have expanded - that is, after the cone-bearing stems have shed their spores and themselves greened up and branched."
+  basis: traditional
+  source_quote: "both types produced at the same time, but those bearing cones remaining non-green and unbranched until after spore dispersal, and only later becoming green and branching so as to resemble the sterile stems vegetatively"
+  reference_ids:
+  - REF-3375
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Horsetails of Britain and Ireland (DELTA/Intkey) species account for Equisetum sylvaticum L. (REF-3375) - a species-specific flora, so no congener timing is inherited from Equisetum arvense. PFAF had given only 'The barren stems are used, they are most active when fresh' (a freshness note, not a stage) plus spore dates. Single lineage -> provisional. SAFETY: marsh horsetail (Equisetum palustre) is a toxic lookalike - see Dangerous Lookalikes."
 traditional_uses:
   text: Wood horsetail shares the broader horsetail genus's traditional folk reputation as a diuretic,
     astringent and wound-healing herb, though the species itself is very little studied and has no dedicated
@@ -162,4 +170,4 @@ internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify
   sylvaticum is a different species. | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for
   stem recorded as GAP: no species-specific phenological source for E. sylvaticum sterile-stem timing (PFAF
   gives only a barren-stems-used-fresh note plus April-May spores); congener timing NOT inherited. E.
-  palustre lookalike flagged. Binomial confirmed.'
+  palustre lookalike flagged. Binomial confirmed. | 2026-08-15: stem harvest_readiness filled (was gap) from the DELTA/Intkey Horsetails of Britain and Ireland species account (REF-3375) - species-specific, so no Equisetum arvense timing is inherited.'

@@ -74,11 +74,19 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3311); the needles are gathered with the spring young growth (evergreen). Single lineage -> provisional. SAFETY: do not confuse pine needles (in bundles of two) with fatal yew (Taxus baccata) needles (flat, single); see Dangerous Lookalikes."
 - part: bark
-  status: gap
-  notes: "GAP (documented dead end). PFAF gives no harvest timing for the inner bark of Pinus sylvestris. Bark generally slips in spring as the sap rises, but no source stating that stage for this species was found this pass."
+  signals:
+  - "Take the inner bark in spring, lifting it in large sheets or vertical strips from a living tree."
+  basis: traditional
+  source_quote: "Large sheets of bark were taken from trees in the spring, prepared and stored as a staple food resource."
+  reference_ids:
+  - REF-3382
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Zackrisson, Ostlund, Korhonen & Bergman, Vegetation History and Archaeobotany 2000 (REF-3382) - a dendroecological and ethnobotanical study of Sami inner-bark use of Pinus sylvestris L. across 313 bark-peeled-tree sites in northern Sweden, documenting continuous use from A.D. 1450 to 1890. NOTE: the source states the SEASON only. The common assertion that pine bark is taken 'when the sap rises and the bark slips' is NOT claimed here, because no source found states that mechanism for this species. Single lineage -> provisional."
 - part: sap
   status: gap
-  notes: "GAP (documented dead end). PFAF gives no harvest timing for the resin/sap of Pinus sylvestris (obtained by tapping the trunk), so none is asserted."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a resin/sap collection stage for Pinus sylvestris specifically. PFAF gives no timing. Resin-tapping literature that does tie tapping to the growing season concerns other pines (Pinus pinaster, P. pinea, P. merkusii, P. elliottii), and that timing must not be inherited across species. The inner bark of this species IS now sourced (spring, REF-3382), but that is a different organ. Next seam: a Nordic or Baltic naval-stores / oleoresin-tapping source that names Pinus sylvestris."
 traditional_uses:
   text: Scots pine has a long northern European tradition as a source of resinous, aromatic preparations
     for respiratory complaints (coughs, bronchitis, catarrh) and topical rheumatic/muscular remedies,
@@ -349,4 +357,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for shoot + leaf (provisional: PFAF
   REF-3311, young shoots/needles in spring); bark + sap = GAP. SAFETY: fatal yew (Taxus baccata) needle
-  confusion. Binomial confirmed.'
+  confusion. Binomial confirmed. | 2026-08-15: bark harvest_readiness filled (was gap) from Zackrisson et al., Veg Hist Archaeobot 2000 (REF-3382) - inner bark taken in spring in large sheets. The sap/resin entry stays a documented gap: all tapping-season literature found concerns other Pinus species and was not inherited.'

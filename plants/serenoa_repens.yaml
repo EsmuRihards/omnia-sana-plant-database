@@ -128,7 +128,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   fields, sourced from the existing BPH phytotherapy review (REF-0496) and Cochrane review (REF-0504). | 2026-08-15:
   Harvest Calendar (phenological) - harvest_readiness for fruit recorded as GAP: PFAF gives no fruit-harvest
   timing for Serenoa repens (berries ripen autumn/early winter turning blue-black, but unsourced this pass).
-  Binomial confirmed (no timing to attach).'
+  Binomial confirmed (no timing to attach). | 2026-08-15: fruit harvest_readiness filled and raised to VERIFIED (was gap): UF/IFAS EDIS FPS-547 (REF-3386) and Wikipedia (REF-3387) independently give the same ripe-fruit stage (deep shiny blue-black / reddish-black drupe). Florida''s harvest-permit regime noted in-entry.'
 botanical_description:
   text: Low, clump-forming fan-palm shrub (Arecaceae), usually with a creeping or short, often prostrate
     trunk. Leaves are fan-shaped (palmate) on long, spiny-edged stalks. Small, creamy-white flowers are
@@ -162,8 +162,17 @@ harvesting:
   status: verified
 harvest_readiness:
 - part: fruit
-  status: gap
-  notes: "GAP (documented dead end). PFAF gives no fruit-harvest timing for Serenoa repens. (Saw palmetto berries ripen in autumn to early winter, turning from green through orange-brown to blue-black, and are the medicinal part, but no source stating that observable ripe stage was found this pass.) Next seams: a Florida agricultural-extension or a saw-palmetto harvest/sustainability source."
+  signals:
+  - "Pick the olive-sized drupes once they have darkened to the ripe colour: deep, shiny blue-black to reddish-black."
+  basis: traditional
+  source_quote: "Fruit color: deep, shiny blue-black"
+  reference_ids:
+  - REF-3386
+  - REF-3387
+  independent_confirmation: "Wikipedia (REF-3387) independently gives the same ripe-fruit stage for Serenoa repens - 'The fruit is a large reddish-black drupe and is an important food source for wildlife and historically for humans' - agreeing with the UF/IFAS factsheet that ripeness is read from the darkened fruit colour."
+  species_confirmed: true
+  status: verified
+  notes: "UF/IFAS Extension EDIS factsheet FPS-547 (REF-3386) plus Wikipedia (REF-3387) as a genuinely independent second prism; both give the ripe fruit colour as the observable stage, on a plant that flowers in spring. Supersedes the earlier dead end (PFAF gave no fruit timing). NOTE for gatherers: wild harvest of saw palmetto berries is legally regulated in Florida - a permit and the landowner's written permission are required, and harvest on public land is prohibited."
 traditional_uses:
   text: Saw palmetto berries have a long Native American food and medicinal tradition, and were adopted
     into 19th- and 20th-century American and European phytotherapy as a tonic for the urinary and reproductive

@@ -57,8 +57,16 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3282); as an evergreen, the leaves are gathered year-round, typically in summer. Single lineage -> provisional. SAFETY: true bay (Laurus nobilis) is confused with the toxic cherry laurel (Prunus laurocerasus), whose leaves are cyanogenic - never substitute; confirm identity, see Dangerous Lookalikes."
 - part: fruit
-  status: gap
-  notes: "GAP (documented dead end). PFAF gives no fruit-harvest timing for Laurus nobilis (the black berries ripen in autumn, but no source stating that stage was found this pass), so none is asserted. SAFETY: cherry laurel (Prunus laurocerasus) berries are toxic - see Dangerous Lookalikes."
+  signals:
+  - "Pick the drupes once they have coloured right through, from dark violet to glossy black - that colour IS maturity; they are usually taken at the same time as the leaves."
+  basis: traditional
+  source_quote: "Fruit a globular to ellipsoidal drupe, 1-2 cm long, dark violet to glossy black at maturity."
+  reference_ids:
+  - REF-3379
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PROSEA monograph on Laurus nobilis, hosted on Pl@ntUse (REF-3379). The same page gives the gathering practice: 'When berries are harvested they are mostly picked at the same time as the leaves.' Supersedes the earlier dead end (PFAF gave no fruit timing). Single lineage -> provisional. SAFETY CRITICAL: cherry laurel (Prunus laurocerasus) berries are toxic and the two are confused - confirm identity before gathering any 'laurel' fruit, see Dangerous Lookalikes."
 traditional_uses:
   text: Bay leaf has an ancient Mediterranean culinary and medicinal history, used as a digestive carminative
     for indigestion and bloating, and topically and traditionally for muscle and joint pain and minor
@@ -403,4 +411,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   alongside the trial dose rather than replaced, since the two describe different things. | 2026-08-15:
   Harvest Calendar (phenological) - added harvest_readiness for leaf (provisional: PFAF REF-3282, evergreen,
   gathered year-round/summer); fruit = GAP (no sourced timing). SAFETY: toxic cherry laurel (Prunus
-  laurocerasus) lookalike. Binomial confirmed.'
+  laurocerasus) lookalike. Binomial confirmed. | 2026-08-15: fruit harvest_readiness filled (was gap) from the PROSEA monograph on Pl@ntUse (REF-3379): the drupe is ripe when coloured dark violet to glossy black. Cherry-laurel safety clause carried.'

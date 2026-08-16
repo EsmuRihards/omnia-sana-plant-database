@@ -77,7 +77,7 @@ harvest_readiness:
   notes: "'Stem' here is the tender leaf-stalk (petiole), gathered with the young pre-flowering leaves; PFAF's leaf statement is the source. Single source -> provisional."
 - part: root
   status: gap
-  notes: "No reliable phenological source found for the ROOT of Aegopodium podagraria after searching: Grieve's A Modern Herbal (lists 'Parts Used: Herb, root' but gives NO collection stage), King's American Dispensatory (no Aegopodium entry), PFAF (only unsourced reader comments about 'early spring' underground stems, not an authoritative statement) and a peer-reviewed goutweed review (OUCI/dntb aggregator; botanical + chemical, no harvest timing). The root is a minor part and its harvest stage is undocumented in these seams. Revisit with a European flora or ethnobotanical monograph. SAFETY: the root is confused with the FATAL Oenanthe crocata (mistaken for parsnip) - see Dangerous Lookalikes."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No reliable phenological source for the ROOT of Aegopodium podagraria. Seams searched and why each failed: Grieve lists 'Parts Used: Herb, root' with no collection stage; King's American Dispensatory has no Aegopodium entry; PFAF carries only unsourced reader comments; a peer-reviewed goutweed review is botanical/chemical with no timing; Madaus gives a collection time for the HERB only ('Die guenstigste Sammelzeit duerfte Juni bis Juli sein') and records that only Gerard-Johnson recommend the root at all; Eat The Weeds states the rhizomes are NOT eaten. Two foraging blogs do give a root season, but their wording is duplicated verbatim from an AI-generated encyclopedia page and they were rejected as unreliable. Next seam: a European flora or a peer-reviewed ethnobotanical survey. SAFETY: the root is confused with the FATAL Oenanthe crocata (mistaken for parsnip) - see Dangerous Lookalikes."
 traditional_uses:
   text: Ground elder has long been used in European folk medicine as a remedy for gout and rheumatic and
     arthritic joint pain (reflected in the name 'podagraria', from podagra, gout), typically applied as
@@ -326,7 +326,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-08-14'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted -
@@ -351,4 +351,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (young spring foliage/leaf-stalks before flowering, PFAF REF-3190, new; a divergent medicinal in-flower
   harvest is logged, not merged); root = gap (no phenological source found after searching Grieve, King''s,
   PFAF and a goutweed review - search-log stored in the entry). Existing harvesting.season not inherited.
-  Safety cross-links to the FATAL Apiaceae lookalikes, whose confusable stage is this same young foliage.'
+  Safety cross-links to the FATAL Apiaceae lookalikes, whose confusable stage is this same young foliage. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; the search log now records the Madaus herb-only Sammelzeit, Eat The Weeds (rhizomes not eaten) and the rejection of two foraging blogs whose root season is duplicated verbatim from an AI-generated encyclopedia page.'

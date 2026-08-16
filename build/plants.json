@@ -1493,7 +1493,7 @@
     {
      "part": "root",
      "status": "gap",
-     "notes": "No reliable phenological source found for the ROOT of Aegopodium podagraria after searching: Grieve's A Modern Herbal (lists 'Parts Used: Herb, root' but gives NO collection stage), King's American Dispensatory (no Aegopodium entry), PFAF (only unsourced reader comments about 'early spring' underground stems, not an authoritative statement) and a peer-reviewed goutweed review (OUCI/dntb aggregator; botanical + chemical, no harvest timing). The root is a minor part and its harvest stage is undocumented in these seams. Revisit with a European flora or ethnobotanical monograph. SAFETY: the root is confused with the FATAL Oenanthe crocata (mistaken for parsnip) - see Dangerous Lookalikes."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). No reliable phenological source for the ROOT of Aegopodium podagraria. Seams searched and why each failed: Grieve lists 'Parts Used: Herb, root' with no collection stage; King's American Dispensatory has no Aegopodium entry; PFAF carries only unsourced reader comments; a peer-reviewed goutweed review is botanical/chemical with no timing; Madaus gives a collection time for the HERB only ('Die guenstigste Sammelzeit duerfte Juni bis Juli sein') and records that only Gerard-Johnson recommend the root at all; Eat The Weeds states the rhizomes are NOT eaten. Two foraging blogs do give a root season, but their wording is duplicated verbatim from an AI-generated encyclopedia page and they were rejected as unreliable. Next seam: a European flora or a peer-reviewed ethnobotanical survey. SAFETY: the root is confused with the FATAL Oenanthe crocata (mistaken for parsnip) - see Dangerous Lookalikes."
     }
    ],
    "traditional_uses": {
@@ -1815,7 +1815,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-08-14",
+   "last_updated": "2026-08-15",
    "common_slug": "ground-elder"
   },
   {
@@ -3029,8 +3029,18 @@
     },
     {
      "part": "root",
-     "status": "gap",
-     "notes": "No phenological harvest signal for the garlic ROOT: the roots are trimmed off when the bulb is lifted (see the bulb entry) and are not gathered on their own schedule. Cornell Extension and Garden Betty describe trimming the roots after harvest, not a separate root-harvest stage. Recorded as a documented dead end."
+     "signals": [
+      "The root is not gathered on a schedule of its own: it is lifted with the bulb, when about half the leaves have turned brown, and trimmed off close to the base of the bulb."
+     ],
+     "basis": "traditional",
+     "source_quote": "In general, garlic is ready to harvest when half of the leaves have turned brown. Dig the bulbs with the shoots still attached. Loosen the soil underneath the bulb and carefully pull up the entire plant by the shoot.",
+     "reference_ids": [
+      "REF-3372"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Wisconsin Horticulture / UW-Madison Extension (REF-3372) gives the leaf-browning signal for lifting the whole plant, and the same page directs 'trim roots close to the base of the bulb' - so the readiness of the root IS the readiness of the bulb. Recorded as a real (if dependent) signal rather than a gap. Single lineage -> provisional."
     }
    ],
    "traditional_uses": {
@@ -3565,7 +3575,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-08-14",
+   "last_updated": "2026-08-15",
    "common_slug": "garlic"
   },
   {
@@ -6445,8 +6455,18 @@
     },
     {
      "part": "leaf",
-     "status": "gap",
-     "notes": "No reliable phenological harvest signal found for the burdock LEAF: theferns notes only that young leaves are edible (no timing); Grieve and King's give the root and seed stages but not a leaf-harvest stage. The leaf is a minor part and its harvest stage is undocumented in the seams searched (theferns REF-3203, Grieve REF-3204). Revisit with a materia medica that treats the leaf. Recorded as a documented dead end."
+     "signals": [
+      "Take the leaf at the same midsummer gathering as the root; burdock leaf is a secondary part collected alongside the root rather than at a stage of its own."
+     ],
+     "basis": "traditional",
+     "source_quote": "Burdock leaves, which are less used than the root, are collected in July.",
+     "reference_ids": [
+      "REF-3204"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Grieve, A Modern Herbal, Burdock entry (REF-3204), which places the leaf gathering in the same month as 'The roots are dug in July'. CAVEAT, stated plainly: this source gives a calendar month, not a phenophase, and no biological readiness stage specific to the leaf was found in any seam searched (King's American Dispensatory and Felter give root and seed only; Herbal Reality gives no timing; the NordGen Nordic/Baltic cultivation manual covers only the seed). Single lineage -> provisional. SAFETY: confirm identity before gathering - burdock is confused with belladonna at the root stage; see Dangerous Lookalikes."
     }
    ],
    "traditional_uses": {
@@ -6739,7 +6759,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-08-14",
+   "last_updated": "2026-08-15",
    "common_slug": "greater-burdock"
   },
   {
@@ -12309,12 +12329,12 @@
     {
      "part": "flower",
      "status": "gap",
-     "notes": "No phenological harvest signal found for the FLOWER of Campanula persicifolia in the seams searched (Useful Temperate Plants gives only 'Flowers - raw', no stage). The flower would be picked when open, but no source states a readiness stage. Recorded as a documented dead end; revisit with a flora."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). PFAF's full Edible Uses text for Campanula persicifolia gives only 'Flowers - raw. A pleasant sweetness, and a very ornamental addition to mixed salads' - a use, not a readiness stage - and Useful Temperate Plants (the same Ken Fern lineage) adds nothing. No independent flora or ethnobotanical source giving a flower-harvest stage for this species was found. The flower would obviously be picked open, but no source states it, so nothing is asserted."
     },
     {
      "part": "root",
      "status": "gap",
-     "notes": "No phenological harvest signal found for the ROOT of Campanula persicifolia (Useful Temperate Plants gives only 'Root - raw', no stage). Recorded as a documented dead end; revisit with a flora or ethnobotanical source."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). PFAF's full Edible Uses text gives only 'Root - raw' for Campanula persicifolia, with no season, size or condition; Useful Temperate Plants is the same Ken Fern lineage. Statements found elsewhere about bellflower roots being 'white, firm and crisp from October through winter' belong to other Campanula species and were NOT inherited. Next seam: a central-European flora or a historical kitchen-garden source, since the species was once grown as a salad vegetable."
     }
    ],
    "traditional_uses": {
@@ -12524,7 +12544,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-08-14"
+   "last_updated": "2026-08-15"
   },
   {
    "id": "cannabis-sativa",
@@ -12614,7 +12634,7 @@
     {
      "part": "leaf",
      "status": "gap",
-     "notes": "No phenological harvest signal found for the cannabis LEAF: the sources give the female flower (trichome maturity) and the seed (falls when ripe), plus the fibre/male-plant harvest, but no distinct leaf-harvest stage - the fan leaves are taken with the flowering tops, not on their own schedule. Recorded as a documented dead end."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). No source states a readiness stage for the cannabis LEAF as a part in its own right. The sourced signals are for the female flower (trichome maturity), the seed (falls when ripe) and the fibre/male-plant harvest; the fan leaves are taken with the flowering tops. A peer-reviewed morphological characterisation of the complete Cannabis sativa life cycle (Hesami et al., Plants 2023) tracks the life cycle but does not address fan-leaf senescence at harvest. Recorded as a dead end rather than asserting the leaf inherits the flowering-top stage."
     }
    ],
    "traditional_uses": {
@@ -12885,7 +12905,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-08-14",
+   "last_updated": "2026-08-15",
    "common_slug": "hemp"
   },
   {
@@ -13595,13 +13615,33 @@
     },
     {
      "part": "leaf",
-     "status": "gap",
-     "notes": "No phenological harvest signal found for the caraway LEAF in the seams searched (Useful Temperate Plants gives the seed stage but no leaf-harvest stage; the young first-year leaves are edible but no source states a readiness stage). Recorded as a documented dead end. SAFETY: caraway is an Apiaceae confusable with poison hemlock - confirm ID before gathering."
+     "signals": [
+      "Pick the fresh leaves as needed through the growing season; caraway leaf has no discrete readiness window, and the plant is biennial - it only runs up to flower and seed in its second season."
+     ],
+     "basis": "traditional",
+     "source_quote": "Fresh leaves can be harvested as needed and used in salads, soups, and stews or eaten like spinach.",
+     "reference_ids": [
+      "REF-3373"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "University of Illinois Extension herb guide (REF-3373). The source gives no discrete stage for the leaf - it is picked as required - and confirms the biennial habit under which seed forms 'the second season after planting'. A weak but sourced phenophase, recorded rather than guessed. Single lineage -> provisional. SAFETY: caraway is an Apiaceae confusable with poison hemlock (Conium maculatum) - confirm identity before gathering, see Dangerous Lookalikes."
     },
     {
      "part": "root",
-     "status": "gap",
-     "notes": "No phenological harvest signal found for the caraway ROOT (Useful Temperate Plants notes only that the root can be cooked like parsnips, no harvest stage). Recorded as a documented dead end. SAFETY: confirm ID against poison hemlock before digging."
+     "signals": [
+      "Dig the fleshy taproot while the plants are still young, before the biennial runs up to flower and set seed in its second season."
+     ],
+     "basis": "traditional",
+     "source_quote": "Roots can be dug when plants are young.",
+     "reference_ids": [
+      "REF-3373"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "University of Illinois Extension herb guide (REF-3373) gives youth of the plant as the root-readiness stage, and the same page places seed in 'the second season after planting'. Single lineage -> provisional. SAFETY: confirm identity against poison hemlock (Conium maculatum) before digging any Apiaceae root - see Dangerous Lookalikes."
     }
    ],
    "traditional_uses": {
@@ -13837,7 +13877,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-08-14",
+   "last_updated": "2026-08-15",
    "common_slug": "caraway"
   },
   {
@@ -14720,8 +14760,18 @@
     },
     {
      "part": "flower",
-     "status": "gap",
-     "notes": "No phenological harvest signal found for the fireweed FLOWER in the seams searched (Edible Wild Food gives only the young leaves/shoots; theferns had no record; US Forest Service and Gardenia returned 403; PFAF was empty). The flowers would be gathered when open, but no source states a readiness stage. Recorded as a documented dead end."
+     "signals": [
+      "Pick the young, freshly opened flowers from the lower part of the spike: the raceme opens progressively from the bottom upwards, so open flowers, unopened buds and forming seed pods all sit on one stem at once."
+     ],
+     "basis": "traditional",
+     "source_quote": "The inflorescence is a symmetrical terminal raceme that blooms progressively from bottom to top, producing a gracefully tapered shape.",
+     "reference_ids": [
+      "REF-3374"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Wikipedia (REF-3374) under the accepted name Chamaenerion angustifolium (syn. Chamerion angustifolium); the same page names the material used - 'The young flowers are also edible (being made into jelly in the Yukon)' - and the bottom-to-top flowering sequence gives the stage. Seams that failed earlier: theferns (no record), PFAF (empty), US Forest Service and Gardenia (403), Edible Wild Food (young leaves/shoots only). Single lineage -> provisional."
     }
    ],
    "traditional_uses": {
@@ -15035,7 +15085,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-08-14",
+   "last_updated": "2026-08-15",
    "common_slug": "fireweed"
   },
   {
@@ -17159,7 +17209,7 @@
     {
      "part": "root",
      "status": "gap",
-     "notes": "No phenological harvest signal found for the coriander ROOT in the seams searched (theferns gives only day-counts from sowing; Plantura covers leaf and seed, not root). The root is dug with the mature plant, but no source states a readiness stage. Recorded as a documented dead end. SAFETY: confirm ID against poison hemlock before digging."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). No source found states a readiness stage for the coriander ROOT. Seams searched: Useful Temperate Plants gives only day-counts from sowing; Plantura covers leaf and seed; Wikipedia describes the root's culinary use ('Coriander roots have a deeper, more intense flavour than the leaves') with no harvest stage; Thaifoodmaster names the root as an ingredient without timing; a Thai-cookery growing guide that does give the stage (lift the whole plant before it bolts) returned HTTP 500 on every attempt and could not be quoted. Next seam: retry that guide, or a South-East Asian horticultural extension. SAFETY: confirm identity against poison hemlock (Conium maculatum) before digging."
     }
    ],
    "traditional_uses": {
@@ -17483,7 +17533,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-08-14",
+   "last_updated": "2026-08-15",
    "common_slug": "coriander"
   },
   {
@@ -23008,8 +23058,18 @@
    "harvest_readiness": [
     {
      "part": "stem",
-     "status": "gap",
-     "notes": "GAP (documented dead end). The medicinal material is the summer sterile stems, but no reliable phenological source stating the harvest-readiness STAGE for Equisetum pratense specifically was found. PFAF (Equisetum pratense) gives only spore-ripening ('The seeds ripen in April') and edible-root notes - no sterile-stem harvest stage. Congener timing (Equisetum arvense, cut in summer) must NOT be inherited per the campaign's no-cross-species rule. Next seams to try: a species-specific flora or monograph for E. pratense. SAFETY: E. palustre (marsh horsetail) is a toxic lookalike - see Dangerous Lookalikes."
+     "signals": [
+      "Cut the green, fully branched sterile stems once the whorls of slender branches have expanded - that is, after the cone-bearing stems have shed their spores and themselves greened up and branched."
+     ],
+     "basis": "traditional",
+     "source_quote": "both types produced at the same time, but those bearing cones remaining non-green and unbranched until after spore dispersal, and only later becoming green and branching so as to resemble the sterile stems vegetatively",
+     "reference_ids": [
+      "REF-3376"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Horsetails of Britain and Ireland (DELTA/Intkey) species account for Equisetum pratense Ehrh. (REF-3376) - a species-specific flora, so no congener timing is inherited from Equisetum arvense. PFAF had given only spore-ripening dates for this species. Single lineage -> provisional. SAFETY: marsh horsetail (Equisetum palustre) is a toxic lookalike - see Dangerous Lookalikes."
     }
    ],
    "traditional_uses": {
@@ -23164,8 +23224,18 @@
    "harvest_readiness": [
     {
      "part": "stem",
-     "status": "gap",
-     "notes": "GAP (documented dead end). The medicinal material is the summer sterile (barren) stems, but no reliable phenological source stating the harvest-readiness STAGE for Equisetum sylvaticum specifically was found. PFAF (Equisetum sylvaticum) gives only 'The barren stems are used, they are most active when fresh' (a which-part/freshness note, not a phenophase) and spore-ripening 'from April to May'. Congener timing (E. arvense summer stems) must NOT be inherited. Next seams to try: a species-specific flora/monograph for E. sylvaticum. SAFETY: E. palustre (marsh horsetail) is a toxic lookalike - see Dangerous Lookalikes."
+     "signals": [
+      "Cut the green, fully branched sterile stems once the whorls of slender branches have expanded - that is, after the cone-bearing stems have shed their spores and themselves greened up and branched."
+     ],
+     "basis": "traditional",
+     "source_quote": "both types produced at the same time, but those bearing cones remaining non-green and unbranched until after spore dispersal, and only later becoming green and branching so as to resemble the sterile stems vegetatively",
+     "reference_ids": [
+      "REF-3375"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Horsetails of Britain and Ireland (DELTA/Intkey) species account for Equisetum sylvaticum L. (REF-3375) - a species-specific flora, so no congener timing is inherited from Equisetum arvense. PFAF had given only 'The barren stems are used, they are most active when fresh' (a freshness note, not a stage) plus spore dates. Single lineage -> provisional. SAFETY: marsh horsetail (Equisetum palustre) is a toxic lookalike - see Dangerous Lookalikes."
     }
    ],
    "traditional_uses": {
@@ -24805,7 +24875,7 @@
     {
      "part": "root",
      "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Filipendula vulgaris; the DB harvesting.text claims 'roots and tubers in autumn' (citing REF-2726) but that source was not verified for root timing in this pass, so no autumn stage is asserted here. SAFETY CRITICAL: the small root tubers of dropwort are name-confused with the FATAL Oenanthe crocata (hemlock water dropwort) - never dig dropwort roots without certain identification; see Dangerous Lookalikes."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Filipendula vulgaris. Grieve's entry (filed under Meadowsweet, as Spiraea Filipendula) describes the tubers and quotes Culpepper on their use but gives no digging season; PFAF likewise gives none. The DB harvesting.text claims 'roots and tubers in autumn' citing REF-2726, but that source was not verified for root timing, so no autumn stage is asserted here. Next seam: a Baltic or central-European ethnobotanical survey, or the dropwort-into-cultivation literature. SAFETY CRITICAL: the small root tubers of dropwort are name-confused with the FATAL Oenanthe crocata (hemlock water dropwort) - never dig dropwort roots without certain identification; see Dangerous Lookalikes."
     }
    ],
    "traditional_uses": {
@@ -25440,7 +25510,7 @@
     {
      "part": "root",
      "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Foeniculum vulgare (only leaf, seed and bulb stages). The taproot would conventionally be dug in autumn, but no source stating that stage for this species was found, so no season is asserted. SAFETY: Conium maculatum (poison hemlock) is a fatal lookalike."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Foeniculum vulgare. PFAF gives leaf, seed and bulb stages only; Wikipedia has nothing on the taproot; Madaus records only the fruit ('Erntezeit: September des zweiten Jahres') and notes that Radix foeniculi is rarely used and was officinal in France. The taproot would conventionally be dug in autumn, but no source stating that for this species was found, so no season is asserted. SAFETY: poison hemlock (Conium maculatum) is a fatal lookalike."
     }
    ],
    "traditional_uses": {
@@ -28398,8 +28468,18 @@
    "harvest_readiness": [
     {
      "part": "leaf",
-     "status": "gap",
-     "notes": "GAP (documented dead end). No reliable phenological source stating the leaf harvest-readiness stage for Gymnema sylvestre was found. Useful Tropical Plants (Ken Fern) gives no leaf-harvest timing; as an evergreen tropical climber it has no seasonal window and mature leaves are picked through the growing season, but no source states an observable readiness stage. Next seams: the Ayurvedic Pharmacopoeia of India (API) or a gurmar cultivation/agronomy source. (The DB harvesting.text 'picked through the growing season' is an unsourced generalisation, not inherited here.)"
+     "signals": [
+      "Hand-pluck only the MATURE leaves, leaving the immature ones on the vine to mature for the following picking; as an evergreen tropical climber gurmar has no seasonal window, and two non-destructive pickings a year are taken from the same plants."
+     ],
+     "basis": "traditional",
+     "source_quote": "Only mature leaves (60%) were hand plucked in the month of October. Second harvest was done in the month of June.",
+     "reference_ids": [
+      "REF-3377"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Pandey & Yadav, Pharmacognosy Research 2010 (REF-3377), an open-access study that standardised non-destructive harvesting of Gymnema sylvestre R. Br. The readiness stage is LEAF MATURITY, not a date: the same paper reports that 'the leaves left at the time of 1(st) harvest during October matured in June at the time of 2(nd) harvest', and that the practice 'did not have any negative impact on overall development of the plant'. Supersedes the earlier dead end (Useful Tropical Plants gave no leaf-harvest timing). Single lineage -> provisional."
     }
    ],
    "traditional_uses": {
@@ -29006,8 +29086,19 @@
    "harvest_readiness": [
     {
      "part": "tuber",
-     "status": "gap",
-     "notes": "GAP (documented dead end). No reliable phenological source stating the harvest-readiness stage of the secondary storage tubers of Harpagophytum procumbens was found. Useful Tropical Plants (Ken Fern) and Wikipedia both describe the harvested organ and sustainability concerns but give no seasonal or observable harvest stage. (Devil's claw tubers are conventionally dug in the dry season after the rains, but no source states this.) Next seams: a southern-African sustainable-harvest / CITES or Namibian devil's-claw management guideline."
+     "signals": [
+      "Dig only the secondary storage tubers, which hang at the ends of the fleshy roots, and leave the persistent primary tuber in the ground so the plant regenerates.",
+      "A plant can only be found and dug while its above-ground stems are still traceable: those stems emerge after the first rains and die back in drought or after frost."
+     ],
+     "basis": "traditional",
+     "source_quote": "The stems grow from a persistent primary tuber and several secondary tubers (the harvested organs) grow from the primary tuber at the end of fleshy roots. The above-ground stems emerge after the first rains and die back during droughts or after frosts.",
+     "reference_ids": [
+      "REF-3378"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Wikipedia (REF-3378) gives the harvested organ and the rain-driven growth cycle that bounds when a plant can be located. NO source found states a harvest month or a dormancy-stage rule, so none is asserted: the FAO/CRIAA certification study on Namibian devil's claw covers trade and certification only, Useful Tropical Plants has no harvest stage, SANBI PlantZAfrica gives dormancy but not harvest, and the Herbal Reality Kalahari account describes technique ('leave the thick root and primary tuber intact') without a season. Devil's claw is CITES Appendix II and permits are required in Namibia, Botswana and South Africa. Single lineage -> provisional."
     }
    ],
    "traditional_uses": {
@@ -33276,8 +33367,18 @@
     },
     {
      "part": "root",
-     "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Knautia arvensis (only the flowering period). No sourced stage for the root, so none is asserted. Next seams: a folk-medicine flora for field scabious root."
+     "signals": [
+      "The root is not taken on a stage of its own: it is lifted together with the fresh flowering plant, while that plant is in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The fresh or dried flowering plant can be used, with or without the roots.",
+     "reference_ids": [
+      "REF-3280"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Plants For A Future, Knautia arvensis (REF-3280) - the same page already cited for the flower and flowering aerial parts. Re-read this pass: PFAF does tie the root to the flowering plant ('with or without the roots'), which is a readiness signal for the root even though no separate root season is given. Supersedes the earlier dead end. Single lineage -> provisional."
     }
    ],
    "traditional_uses": {
@@ -34262,8 +34363,18 @@
     },
     {
      "part": "fruit",
-     "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no fruit-harvest timing for Laurus nobilis (the black berries ripen in autumn, but no source stating that stage was found this pass), so none is asserted. SAFETY: cherry laurel (Prunus laurocerasus) berries are toxic - see Dangerous Lookalikes."
+     "signals": [
+      "Pick the drupes once they have coloured right through, from dark violet to glossy black - that colour IS maturity; they are usually taken at the same time as the leaves."
+     ],
+     "basis": "traditional",
+     "source_quote": "Fruit a globular to ellipsoidal drupe, 1-2 cm long, dark violet to glossy black at maturity.",
+     "reference_ids": [
+      "REF-3379"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PROSEA monograph on Laurus nobilis, hosted on Pl@ntUse (REF-3379). The same page gives the gathering practice: 'When berries are harvested they are mostly picked at the same time as the leaves.' Supersedes the earlier dead end (PFAF gave no fruit timing). Single lineage -> provisional. SAFETY CRITICAL: cherry laurel (Prunus laurocerasus) berries are toxic and the two are confused - confirm identity before gathering any 'laurel' fruit, see Dangerous Lookalikes."
     }
    ],
    "traditional_uses": {
@@ -36284,7 +36395,7 @@
     {
      "part": "root",
      "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Lysimachia vulgaris (only the flowering-herb stage). No sourced stage for the root, so none is asserted."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). PFAF gives a harvest stage for the flowering HERB of Lysimachia vulgaris ('It is harvested when in flower in July and dried for later use') but says nothing about the root; the Madaus entry filed under this genus covers Lysimachia nummularia, a different species, and specifies 'the fresh, flowering plant WITHOUT root'. No root stage is asserted. Next seam: a central or eastern-European flora treating L. vulgaris root specifically."
     }
    ],
    "traditional_uses": {
@@ -41983,8 +42094,20 @@
     },
     {
      "part": "leaf",
-     "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no leaf-harvest timing for Olea europaea (an evergreen; olive leaves are conventionally gathered year-round or at winter pruning, but no source stating a stage was found this pass), so none is asserted."
+     "signals": [
+      "The olive is evergreen, so the leaf has no seasonal window and can be stripped at any time - typically at pruning.",
+      "Leaves taken in autumn carry the highest phenolic content and antioxidant activity, followed by summer, then spring, then winter."
+     ],
+     "basis": "constituent",
+     "constituent_note": "Phenolic composition and antioxidant/antiproliferative capacity of olive-leaf extracts were highest in leaves harvested in autumn, then summer, spring and winter (Losada-Echeberria et al. 2022, REF-3380).",
+     "source_quote": "Increased phenolic composition and antioxidant and antiproliferative capacity are noted in the extracts obtained from leaves harvested in autumn, followed by summer, spring and winter.",
+     "reference_ids": [
+      "REF-3380"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Losada-Echeberria et al., Int J Mol Sci 2022 (REF-3380), open access, sampling Olea europaea leaves across all four seasons. BASIS IS CONSTITUENT, NOT TRADITIONAL: the only sourced stage found is a phenolic-content peak, not a traditional collection rule, and the two are deliberately kept apart. PFAF had given fruit timing only. Single lineage -> provisional."
     }
    ],
    "traditional_uses": {
@@ -42388,8 +42511,18 @@
    "harvest_readiness": [
     {
      "part": "root",
-     "status": "gap",
-     "notes": "GAP (documented dead end). No species-specific phenological source for Ononis arvensis harvest timing was found: the PFAF page for Ononis arvensis is an empty template (it lists only the congeners Ononis repens and Ononis spinosa). The medicinal restharrow of the pharmacopoeias is Ononis spinosa - its root timing must NOT be inherited for O. arvensis per the campaign's no-cross-species rule. The flowering aerial parts and flower likewise lack a species-specific harvest source here. Next seams: a central/eastern-European flora that treats O. arvensis specifically."
+     "signals": [
+      "Dig the strong taproot from late summer into autumn and hang it up to dry."
+     ],
+     "basis": "traditional",
+     "source_quote": "The valuable taproot can be dug up from late summer to autumn and then hung up to dry.",
+     "reference_ids": [
+      "REF-3391"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": false,
+     "status": "provisional",
+     "notes": "Plantura restharrow overview (REF-3391). TAXONOMIC CAVEAT, and the reason species_confirmed is FALSE: the harvest sentence sits in the source's treatment of spiny restharrow (Ononis spinosa), and the same page treats our plant as a subspecies of it - 'Also known as Ononis arvensis, this is another subspecies of the spiny restharrow' (i.e. Ononis spinosa subsp. hircina). The source therefore never names Ononis arvensis as the plant whose taproot it describes. Recorded as provisional with the caveat visible, rather than silently inheriting the pharmacopoeial congener's timing; the PFAF page for O. arvensis remains an empty template listing only O. repens and O. spinosa. Single lineage -> provisional."
     }
    ],
    "traditional_uses": {
@@ -45485,7 +45618,7 @@
     {
      "part": "root",
      "status": "gap",
-     "notes": "GAP (documented dead end). No reliable phenological source stating the root-harvest stage for Pelargonium sidoides was found: Useful Tropical Plants has no record for the species, and Wikipedia gives no harvest timing. The commercial umckaloabo root (EPs 7630) is dug from mature plants, but no source states a season or observable stage. Next seams: a South African medicinal-plant cultivation/sustainability guideline or a Pelargonium sidoides agronomy paper."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Pelargonium sidoides. Useful Tropical Plants has no record; Wikipedia gives no harvest timing; SANBI PlantZAfrica gives the growth cycle only - 'In its natural habitat this plant is able to withstand the winter dry, cold season by going dormant and shooting again from the roots when the rains come' - which is a dormancy statement, not a harvest rule, and was not converted into one. Cultivation research indicates tubers need roughly 8-9 years to regain unharvested wild biomass, but that is a sustainability finding rather than a readiness stage. Next seam: a South African cultivation or sustainable-harvest guideline that states a digging season."
     }
    ],
    "traditional_uses": {
@@ -46127,8 +46260,18 @@
     },
     {
      "part": "root",
-     "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Petroselinum crispum (the taproot of turnip-rooted/Hamburg parsley is dug in autumn, but no source stating that stage was found this pass), so none is asserted. SAFETY: Conium maculatum is a fatal lookalike."
+     "signals": [
+      "Lift the taproot at the end of the first season's growth, once it has swollen to roughly 12-15 cm and comes up easily on a fork."
+     ],
+     "basis": "traditional",
+     "source_quote": "Harvest the roots when they are 12 - 15cm long and can be easily lifted with a fork.",
+     "reference_ids": [
+      "REF-3381"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Plantura growing guide for turnip-rooted (Hamburg) parsley, Petroselinum crispum var. tuberosum (REF-3381) - a variety of this species, so the binomial holds. The same page places readiness 'from late autumn through winter, depending on when the seeds were sown', which is why the sourced signal here is root size and liftability rather than a date. Supersedes the earlier dead end (PFAF gave no root timing). Single lineage -> provisional. SAFETY: poison hemlock (Conium maculatum) is a fatal lookalike - confirm identity before digging, see Dangerous Lookalikes."
     }
    ],
    "traditional_uses": {
@@ -46958,13 +47101,23 @@
     },
     {
      "part": "bark",
-     "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no harvest timing for the inner bark of Pinus sylvestris. Bark generally slips in spring as the sap rises, but no source stating that stage for this species was found this pass."
+     "signals": [
+      "Take the inner bark in spring, lifting it in large sheets or vertical strips from a living tree."
+     ],
+     "basis": "traditional",
+     "source_quote": "Large sheets of bark were taken from trees in the spring, prepared and stored as a staple food resource.",
+     "reference_ids": [
+      "REF-3382"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Zackrisson, Ostlund, Korhonen & Bergman, Vegetation History and Archaeobotany 2000 (REF-3382) - a dendroecological and ethnobotanical study of Sami inner-bark use of Pinus sylvestris L. across 313 bark-peeled-tree sites in northern Sweden, documenting continuous use from A.D. 1450 to 1890. NOTE: the source states the SEASON only. The common assertion that pine bark is taken 'when the sap rises and the bark slips' is NOT claimed here, because no source found states that mechanism for this species. Single lineage -> provisional."
     },
     {
      "part": "sap",
      "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no harvest timing for the resin/sap of Pinus sylvestris (obtained by tapping the trunk), so none is asserted."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). No source states a resin/sap collection stage for Pinus sylvestris specifically. PFAF gives no timing. Resin-tapping literature that does tie tapping to the growing season concerns other pines (Pinus pinaster, P. pinea, P. merkusii, P. elliottii), and that timing must not be inherited across species. The inner bark of this species IS now sourced (spring, REF-3382), but that is a different organ. Next seam: a Nordic or Baltic naval-stores / oleoresin-tapping source that names Pinus sylvestris."
     }
    ],
    "traditional_uses": {
@@ -49061,8 +49214,19 @@
    "harvest_readiness": [
     {
      "part": "rhizome",
-     "status": "gap",
-     "notes": "GAP (documented dead end). No phenological source stating the rhizome-harvest stage for Potentilla erecta was found: both PFAF and Useful Temperate Plants (Ken Fern) give the flowering period (June-September) and use the rhizome medicinally but state no harvest season. (Tormentil rhizome is conventionally dug in autumn or early spring, but no source states that stage.) Next seams: Grieve's A Modern Herbal, or the EMA HMPC Potentilla erecta rhizoma monograph checked for a collection statement."
+     "signals": [
+      "Dig the knobbly, woody rhizome in spring; the fresh underground parts gathered then are the drug (Tormentillae rhizoma).",
+      "Lift sustainably: replant the small remaining pieces of the rhizome after taking what is needed."
+     ],
+     "basis": "traditional",
+     "source_quote": "Medizinisch genutzt werden die frischen, im Fruehling gesammelten unterirdischen Teile der Pflanze (Tormentillae rhizoma) oder der alkoholische Auszug des getrockneten Wurzelstockes.",
+     "reference_ids": [
+      "REF-3383"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Bochumer Botanischer Verein plant portrait of Potentilla erecta, Medicinal Plant of the Year (REF-3383). Translation of the quote: 'Medicinally used are the fresh underground parts of the plant collected in spring (Tormentillae rhizoma), or the alcoholic extract of the dried rootstock.' The same portrait records the sustainable practice of harvesting the rhizome and replanting the small remaining pieces. Supersedes the earlier dead end: Grieve's Tormentil entry gives no collection stage, and PFAF and Useful Temperate Plants give only the flowering period. Single lineage -> provisional."
     }
    ],
    "traditional_uses": {
@@ -51251,7 +51415,7 @@
     {
      "part": "root",
      "status": "gap",
-     "notes": "GAP (documented dead end). No species-specific phenological source for Reynoutria japonica (Japanese knotweed) harvest timing was found: the PFAF pages for all three synonyms (Reynoutria japonica, Fallopia japonica, Polygonum cuspidatum) are empty templates, and Useful Temperate Plants returns 'No Record' for Fallopia japonica. (The resveratrol-rich rhizome is conventionally dug in autumn or early spring, and the young shoots gathered in spring, but no source stating those stages was found.) The leaf and stem likewise lack a species-specific harvest source here. Next seams: a foraging flora, a resveratrol/knotweed monograph, or Grieve."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). Still no species-specific source for the ROOT/rhizome stage of Reynoutria japonica. PFAF pages for all three synonyms (Reynoutria japonica, Fallopia japonica, Polygonum cuspidatum) are empty templates and Useful Temperate Plants returns 'No Record'. This pass added: Herbal Reality (names the root as the part used in TCM but gives no timing), a clinical foraging guide on tincturing knotweed (describes digging and processing, no season), and Galloway Wild Foods - which DOES give a stage, but for the SHOOT ('The young (and rapidly growing) shoots are best harvested when they are less than 50cm long'), not the root. The resveratrol-rich rhizome is conventionally dug in autumn or early spring, but no source states it. Next seam: a Chinese materia medica entry for Hu Zhang, or an agronomy paper on seasonal resveratrol in the rhizome."
     }
    ],
    "traditional_uses": {
@@ -51540,13 +51704,39 @@
    "harvest_readiness": [
     {
      "part": "rhizome",
-     "status": "gap",
-     "notes": "GAP (documented dead end). No phenological source stating the rhizome-harvest stage for Rhodiola rosea was found: both PFAF and Useful Temperate Plants (Ken Fern) give the flowering period (May-August) and a propagation-division window (August to early autumn) but no medicinal-harvest season. (Roseroot is conventionally dug in autumn from mature plants, but no source states that stage.) Next seams: a Scandinavian/alpine adaptogen cultivation source, or Grieve."
+     "signals": [
+      "Lift only from mature plants: the underground parts are dug once, at the end of the fourth or fifth year of growth.",
+      "Within a season the rosavin content of the dried rhizome is at its highest at flowering."
+     ],
+     "basis": "both",
+     "constituent_note": "Total rosavins in the dried rhizome peak at flowering, and root dry weight falls to a minimum at budding/full flowering before rising again towards a harvest taken after wilting (ISHS Acta Horticulturae, REF-3385).",
+     "source_quote": "Rhodiola rosea is grown as a perennial, but the roots are harvested once at the end of four or five years.",
+     "reference_ids": [
+      "REF-3384",
+      "REF-3385"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Two complementary sources, not one confirming the other, which is why this stays provisional. Alberta Agriculture Agdex 188/20-2 (REF-3384) gives the maturity rule (fourth or fifth year); the ISHS harvest-time study (REF-3385) gives the within-season phenophase - 'The content of total rosavins in the dry rhizomes was the highest at flowering on both sites'. They address different aspects of readiness and so do not constitute an independent confirmation of the same stage. Supersedes the earlier dead end (PFAF and Useful Temperate Plants gave only flowering and propagation-division timing)."
     },
     {
      "part": "root",
-     "status": "gap",
-     "notes": "GAP (documented dead end). As for the rhizome: no source stating the root-harvest stage for Rhodiola rosea was found (PFAF and Useful Temperate Plants give only flowering and propagation-division timing). The root is dug with the rhizome; no season sourced."
+     "signals": [
+      "The root is dug with the rhizome, from mature plants only, at the end of the fourth or fifth year of growth.",
+      "Root dry weight falls to a minimum around budding and full flowering, then rises again towards a harvest taken after the tops have wilted."
+     ],
+     "basis": "both",
+     "constituent_note": "Rhizomes of R. rosea contain more phenylpropenoids than the roots, and root dry weight is lowest at budding/full flowering, recovering towards the post-wilting harvest (ISHS Acta Horticulturae, REF-3385).",
+     "source_quote": "the dry weight of the root decreased until budding/full flowering, followed by an increase towards the last harvest after wilting",
+     "reference_ids": [
+      "REF-3384",
+      "REF-3385"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "ISHS harvest-time study of cultivated Rhodiola rosea at Finnish and Norwegian sites (REF-3385) for the within-season phenophase, plus Alberta Agriculture Agdex 188/20-2 (REF-3384) for the maturity rule, 'the roots are harvested once at the end of four or five years'. The two sources are complementary rather than confirmatory, so this stays provisional. Supersedes the earlier dead end."
     }
    ],
    "traditional_uses": {
@@ -56958,7 +57148,7 @@
     {
      "part": "root",
      "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Scrophularia nodosa (the knotty rhizome would conventionally be dug in autumn, but no source stating that stage was found this pass). SAFETY: Atropa belladonna is a fatal lookalike - see Dangerous Lookalikes."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). No source states a ROOT-harvest stage for Scrophularia nodosa. Grieve (Knotted Figwort) lists 'Part Used: Herb' and 'The whole herb is used, collected in June and July and dried'; King's American Dispensatory names 'The leaves, tops, and roots' and says 'the root is generally employed' but gives no season; Cook's Physio-Medical Dispensatory gives none; Madaus gives 'Sammelzeit: Juni bis September' without stating which organ that window applies to, and it was not stretched to cover the root. PFAF gives no root timing. The knotty rhizome would conventionally be dug in autumn, but nothing states it. SAFETY: Atropa belladonna is a fatal lookalike - see Dangerous Lookalikes."
     }
    ],
    "traditional_uses": {
@@ -57684,8 +57874,19 @@
    "harvest_readiness": [
     {
      "part": "fruit",
-     "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no fruit-harvest timing for Serenoa repens. (Saw palmetto berries ripen in autumn to early winter, turning from green through orange-brown to blue-black, and are the medicinal part, but no source stating that observable ripe stage was found this pass.) Next seams: a Florida agricultural-extension or a saw-palmetto harvest/sustainability source."
+     "signals": [
+      "Pick the olive-sized drupes once they have darkened to the ripe colour: deep, shiny blue-black to reddish-black."
+     ],
+     "basis": "traditional",
+     "source_quote": "Fruit color: deep, shiny blue-black",
+     "reference_ids": [
+      "REF-3386",
+      "REF-3387"
+     ],
+     "independent_confirmation": "Wikipedia (REF-3387) independently gives the same ripe-fruit stage for Serenoa repens - 'The fruit is a large reddish-black drupe and is an important food source for wildlife and historically for humans' - agreeing with the UF/IFAS factsheet that ripeness is read from the darkened fruit colour.",
+     "species_confirmed": true,
+     "status": "verified",
+     "notes": "UF/IFAS Extension EDIS factsheet FPS-547 (REF-3386) plus Wikipedia (REF-3387) as a genuinely independent second prism; both give the ripe fruit colour as the observable stage, on a plant that flowers in spring. Supersedes the earlier dead end (PFAF gave no fruit timing). NOTE for gatherers: wild harvest of saw palmetto berries is legally regulated in Florida - a permit and the landowner's written permission are required, and harvest on public land is prohibited."
     }
    ],
    "traditional_uses": {
@@ -61850,8 +62051,19 @@
    "harvest_readiness": [
     {
      "part": "fruit",
-     "status": "gap",
-     "notes": "GAP (documented dead end). Useful Tropical Plants gives no pod-ripeness or harvest stage for Theobroma cacao (only that the seed loses viability 5-7 days after separation from the pulp). The pods are cut from the trunk when ripe - they change colour (green to yellow, or red to orange) about 5-6 months after flowering - but no source stating that observable stage was found this pass. The seed (cocoa bean) is extracted from the same harvested pods. Next seams: a cocoa-agronomy or ICCO harvest source."
+     "signals": [
+      "Cut the pod from the trunk once it has passed physiological maturity and the husk has changed colour.",
+      "Read ripeness from the PROPORTION of the pod and its grooves that has turned, not from one fixed colour: the ripe colour is clone-specific (for example purple to reddish with yellow grooves), and some clones show little colour change at all."
+     ],
+     "basis": "traditional",
+     "source_quote": "ripeness states (RS) were established based on days since flowering to ensure that all fruits had exceeded the state of physiological maturity",
+     "reference_ids": [
+      "REF-3388"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Rojas et al., Heliyon 2020 (REF-3388), open access, tracking husk colour, firmness, weight, soluble solids and pH against ripeness state in three Theobroma cacao clones (ICS95, CCN51, TSH565). The paper's colour descriptors run from 'Purple to reddish color with 20% yellow grooves' to 'Reddish to yellow color with 60% yellow grooves' depending on clone, and it concludes that each clone carries its own set of ripeness parameters - which is why the signal here is the proportion turned rather than a single colour. Supersedes the earlier dead end (Useful Tropical Plants gave no pod-ripeness stage). The seed (cocoa bean) is extracted from these same harvested pods. Single lineage -> provisional."
     }
    ],
    "traditional_uses": {
@@ -65675,7 +65887,7 @@
     {
      "part": "root",
      "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no root-harvest timing for Urtica dioica (nettle root is conventionally dug in autumn, but no source stating that stage was found this pass), so none is asserted."
+     "notes": "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Urtica dioica. Grieve's Nettles entry gives the herb only ('The whole herb, collected in May and June, just before coming into flower'); Herbal Reality gives the leaf only; the Arzneipflanzen-Lexikon entry has no root collection time; and Madaus is explicit that under the HAB it is the FRESH HERB, root excluded, that is the collection material for this species, noting root use only as a historical recommendation. Wikipedia supplies the aerial phenology ('dying down to the ground in winter') but no harvest rule, and it was not converted into one. German herbal websites do assert a spring/autumn root window but none could be retrieved to quote verbatim. Next seam: the EMA HMPC Urticae radix monograph checked for a collection statement, or a nettle-root agronomy paper."
     }
    ],
    "traditional_uses": {
@@ -69411,8 +69623,20 @@
    "harvest_readiness": [
     {
      "part": "fruit",
-     "status": "gap",
-     "notes": "GAP (documented dead end). PFAF gives no fruit-harvest timing for Vitex agnus-castus (it flowers late, September-October, and notes the seed is unlikely to ripen in cool climates). The medicinal chasteberries are harvested in autumn when ripe and dark brown-to-black in Mediterranean climates, but no source stating that observable stage was found this pass. Next seams: a Mediterranean cultivation/agronomy source, or an EMA/ESCOP Agni casti fructus monograph checked for a collection statement."
+     "signals": [
+      "Gather the peppercorn-sized globose drupes from the spike in autumn, once they have coloured on the tree.",
+      "Take them slightly BEFORE full ripeness: ripe fruits drop and are lost in the soil, and early picking does not reduce quality."
+     ],
+     "basis": "traditional",
+     "source_quote": "The fruit is 3-4 mm, globose, and purple with a pungent flavor.",
+     "reference_ids": [
+      "REF-3389",
+      "REF-3390"
+     ],
+     "independent_confirmation": "Wikipedia (REF-3390) independently confirms the autumn ripening stage and adds the practical consequence for gathering: 'The fruits tend to fall from the plant as they ripen, getting lost in the soil,' and 'Consequently, to avoid yield loss, unripe fruits need to be harvested. This early harvesting has no effect on quality.'",
+     "species_confirmed": true,
+     "status": "verified",
+     "notes": "NC State Extension Gardener Plant Toolbox (REF-3389), which gives the fruit and a fruiting season of autumn - 'small, purple, globose drupes are present in the fall' - confirmed by Wikipedia (REF-3390) from an independent prism. Supersedes the earlier dead end (PFAF gave no fruit timing and noted seed may not ripen in cool climates). The chaste tree flowers late, so in cool-summer regions the fruit may never colour; where it does not, there is nothing to gather."
     }
    ],
    "traditional_uses": {

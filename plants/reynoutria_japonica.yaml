@@ -49,7 +49,7 @@ harvesting:
 harvest_readiness:
 - part: root
   status: gap
-  notes: "GAP (documented dead end). No species-specific phenological source for Reynoutria japonica (Japanese knotweed) harvest timing was found: the PFAF pages for all three synonyms (Reynoutria japonica, Fallopia japonica, Polygonum cuspidatum) are empty templates, and Useful Temperate Plants returns 'No Record' for Fallopia japonica. (The resveratrol-rich rhizome is conventionally dug in autumn or early spring, and the young shoots gathered in spring, but no source stating those stages was found.) The leaf and stem likewise lack a species-specific harvest source here. Next seams: a foraging flora, a resveratrol/knotweed monograph, or Grieve."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). Still no species-specific source for the ROOT/rhizome stage of Reynoutria japonica. PFAF pages for all three synonyms (Reynoutria japonica, Fallopia japonica, Polygonum cuspidatum) are empty templates and Useful Temperate Plants returns 'No Record'. This pass added: Herbal Reality (names the root as the part used in TCM but gives no timing), a clinical foraging guide on tincturing knotweed (describes digging and processing, no season), and Galloway Wild Foods - which DOES give a stage, but for the SHOOT ('The young (and rapidly growing) shoots are best harvested when they are less than 50cm long'), not the root. The resveratrol-rich rhizome is conventionally dug in autumn or early spring, but no source states it. Next seam: a Chinese materia medica entry for Hu Zhang, or an agronomy paper on seasonal resveratrol in the rhizome."
 traditional_uses:
   text: Known as Hu Zhang in Traditional Chinese Medicine, Japanese knotweed root has a centuries-old
     use for inflammation, infections, jaundice and menstrual complaints. Modern interest centres on its
@@ -237,4 +237,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
   Calendar (phenological) - harvest_readiness for root recorded as GAP: all three PFAF synonym pages
   (Reynoutria/Fallopia/Polygonum) are empty templates and Useful Temperate Plants returns No Record, so no
-  species-specific harvest stage exists (leaf and stem likewise unsourced). Binomial confirmed.'
+  species-specific harvest stage exists (leaf and stem likewise unsourced). Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Herbal Reality and a tincturing guide give no season, and Galloway Wild Foods gives a stage for the SHOOT (under 50 cm) rather than the root.'

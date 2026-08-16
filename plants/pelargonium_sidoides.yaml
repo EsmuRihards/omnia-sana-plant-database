@@ -55,7 +55,7 @@ harvesting:
 harvest_readiness:
 - part: root
   status: gap
-  notes: "GAP (documented dead end). No reliable phenological source stating the root-harvest stage for Pelargonium sidoides was found: Useful Tropical Plants has no record for the species, and Wikipedia gives no harvest timing. The commercial umckaloabo root (EPs 7630) is dug from mature plants, but no source states a season or observable stage. Next seams: a South African medicinal-plant cultivation/sustainability guideline or a Pelargonium sidoides agronomy paper."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Pelargonium sidoides. Useful Tropical Plants has no record; Wikipedia gives no harvest timing; SANBI PlantZAfrica gives the growth cycle only - 'In its natural habitat this plant is able to withstand the winter dry, cold season by going dormant and shooting again from the roots when the rains come' - which is a dormancy statement, not a harvest rule, and was not converted into one. Cultivation research indicates tubers need roughly 8-9 years to regain unharvested wild biomass, but that is a sustainability finding rather than a readiness stage. Next seam: a South African cultivation or sustainable-harvest guideline that states a digging season."
 traditional_uses:
   text: Known locally as 'Umckaloabo', Pelargonium sidoides root has a long history of traditional use
     by South African indigenous peoples for respiratory and gastrointestinal complaints, and was popularised
@@ -192,4 +192,4 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Int J Gen Med a
   cite the existing EPs 7630 clinical-efficacy reviews (REF-0492, REF-0493). | 2026-08-15: Harvest Calendar
   (phenological) - harvest_readiness for root recorded as GAP: no phenological source for Pelargonium
   sidoides root-harvest timing (Useful Tropical Plants has no record; Wikipedia no timing). Binomial
-  confirmed (no timing to attach).'
+  confirmed (no timing to attach). | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; SANBI PlantZAfrica gives a dormancy statement, not a harvest rule, and it was deliberately not converted into one.'

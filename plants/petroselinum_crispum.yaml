@@ -98,8 +98,16 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3307); the seeds ripen July-September on the second-year plant. Single lineage -> provisional."
 - part: root
-  status: gap
-  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Petroselinum crispum (the taproot of turnip-rooted/Hamburg parsley is dug in autumn, but no source stating that stage was found this pass), so none is asserted. SAFETY: Conium maculatum is a fatal lookalike."
+  signals:
+  - "Lift the taproot at the end of the first season's growth, once it has swollen to roughly 12-15 cm and comes up easily on a fork."
+  basis: traditional
+  source_quote: "Harvest the roots when they are 12 - 15cm long and can be easily lifted with a fork."
+  reference_ids:
+  - REF-3381
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Plantura growing guide for turnip-rooted (Hamburg) parsley, Petroselinum crispum var. tuberosum (REF-3381) - a variety of this species, so the binomial holds. The same page places readiness 'from late autumn through winter, depending on when the seeds were sown', which is why the sourced signal here is root size and liftability rather than a date. Supersedes the earlier dead end (PFAF gave no root timing). Single lineage -> provisional. SAFETY: poison hemlock (Conium maculatum) is a fatal lookalike - confirm identity before digging, see Dangerous Lookalikes."
 traditional_uses:
   text: Parsley has a long Mediterranean culinary-medicinal tradition as a carminative digestive tonic,
     breath freshener and mild diuretic traditionally used for urinary complaints and fluid retention.
@@ -330,4 +338,4 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Ch
   sourced from the existing updated traditional-uses/phytochemistry review (REF-0489) and constituents
   review (REF-0546). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for leaf
   (picked regularly) + seed (ripen Jul-Sep), both provisional: PFAF REF-3307; root = GAP. SAFETY: fatal
-  Conium maculatum (poison hemlock) lookalike. Binomial confirmed.'
+  Conium maculatum (poison hemlock) lookalike. Binomial confirmed. | 2026-08-15: root harvest_readiness filled (was gap) from Plantura (REF-3381): lift at the end of the first season once the taproot is about 12-15 cm and comes up easily. Hemlock safety clause carried.'

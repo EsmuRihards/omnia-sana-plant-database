@@ -63,8 +63,18 @@ harvesting:
   status: draft
 harvest_readiness:
 - part: fruit
-  status: gap
-  notes: "GAP (documented dead end). PFAF gives no fruit-harvest timing for Vitex agnus-castus (it flowers late, September-October, and notes the seed is unlikely to ripen in cool climates). The medicinal chasteberries are harvested in autumn when ripe and dark brown-to-black in Mediterranean climates, but no source stating that observable stage was found this pass. Next seams: a Mediterranean cultivation/agronomy source, or an EMA/ESCOP Agni casti fructus monograph checked for a collection statement."
+  signals:
+  - "Gather the peppercorn-sized globose drupes from the spike in autumn, once they have coloured on the tree."
+  - "Take them slightly BEFORE full ripeness: ripe fruits drop and are lost in the soil, and early picking does not reduce quality."
+  basis: traditional
+  source_quote: "The fruit is 3-4 mm, globose, and purple with a pungent flavor."
+  reference_ids:
+  - REF-3389
+  - REF-3390
+  independent_confirmation: "Wikipedia (REF-3390) independently confirms the autumn ripening stage and adds the practical consequence for gathering: 'The fruits tend to fall from the plant as they ripen, getting lost in the soil,' and 'Consequently, to avoid yield loss, unripe fruits need to be harvested. This early harvesting has no effect on quality.'"
+  species_confirmed: true
+  status: verified
+  notes: "NC State Extension Gardener Plant Toolbox (REF-3389), which gives the fruit and a fruiting season of autumn - 'small, purple, globose drupes are present in the fall' - confirmed by Wikipedia (REF-3390) from an independent prism. Supersedes the earlier dead end (PFAF gave no fruit timing and noted seed may not ripen in cool climates). The chaste tree flowers late, so in cool-summer regions the fruit may never colour; where it does not, there is nothing to gather."
 traditional_uses:
   text: Chasteberry has a long Mediterranean tradition, reflected in its 'chaste tree' name, historically
     used to reduce libido in monastic settings, and, more centrally to its modern use, as a traditional
@@ -218,4 +228,4 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica e
   outruns the evidence and there is no fertility support here worth publishing. | 2026-08-15: Harvest
   Calendar (phenological) - harvest_readiness for fruit recorded as GAP: PFAF gives no chasteberry harvest
   stage (flowers late Sept-Oct, seed unlikely to ripen in cool climates). Binomial confirmed (no timing to
-  attach).'
+  attach). | 2026-08-15: fruit harvest_readiness filled and raised to VERIFIED (was gap): NC State Extension (REF-3389) gives the autumn purple globose drupe, and Wikipedia (REF-3390) independently confirms the ripening stage and adds that ripe fruits shed, so they are taken slightly early with no loss of quality.'

@@ -86,7 +86,7 @@ harvest_readiness:
   notes: "Plantura (REF-3233). Single source -> provisional."
 - part: root
   status: gap
-  notes: "No phenological harvest signal found for the coriander ROOT in the seams searched (theferns gives only day-counts from sowing; Plantura covers leaf and seed, not root). The root is dug with the mature plant, but no source states a readiness stage. Recorded as a documented dead end. SAFETY: confirm ID against poison hemlock before digging."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No source found states a readiness stage for the coriander ROOT. Seams searched: Useful Temperate Plants gives only day-counts from sowing; Plantura covers leaf and seed; Wikipedia describes the root's culinary use ('Coriander roots have a deeper, more intense flavour than the leaves') with no harvest stage; Thaifoodmaster names the root as an ingredient without timing; a Thai-cookery growing guide that does give the stage (lift the whole plant before it bolts) returned HTTP 500 on every attempt and could not be quoted. Next seam: retry that guide, or a South-East Asian horticultural extension. SAFETY: confirm identity against poison hemlock (Conium maculatum) before digging."
 traditional_uses:
   text: Coriander seed and leaf have a very long culinary and medicinal history across the Mediterranean,
     Middle East and Asia as a digestive carminative for indigestion, bloating and cramping, and, more
@@ -360,7 +360,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-08-14'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted -
@@ -385,4 +385,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Batch 9): added harvest_readiness - leaf + stem provisional (gather before/at flowering; flowering spoils
   the leaf); seed provisional (cut seed heads when light brown/ripe); root gap. Sourced to Plantura
   (REF-3233, Coriandrum sativum). Safety cross-links to the FATAL poison-hemlock / fool''s-parsley Apiaceae
-  lookalikes. Existing harvesting.season not inherited.'
+  lookalikes. Existing harvesting.season not inherited. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Wikipedia and Thaifoodmaster name the root as an ingredient without timing, and the one growing guide that does give the stage (lift before bolting) returned HTTP 500 on every attempt and could not be quoted.'

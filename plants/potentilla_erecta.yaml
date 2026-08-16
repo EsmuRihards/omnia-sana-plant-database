@@ -61,8 +61,17 @@ harvesting:
   status: verified
 harvest_readiness:
 - part: rhizome
-  status: gap
-  notes: "GAP (documented dead end). No phenological source stating the rhizome-harvest stage for Potentilla erecta was found: both PFAF and Useful Temperate Plants (Ken Fern) give the flowering period (June-September) and use the rhizome medicinally but state no harvest season. (Tormentil rhizome is conventionally dug in autumn or early spring, but no source states that stage.) Next seams: Grieve's A Modern Herbal, or the EMA HMPC Potentilla erecta rhizoma monograph checked for a collection statement."
+  signals:
+  - "Dig the knobbly, woody rhizome in spring; the fresh underground parts gathered then are the drug (Tormentillae rhizoma)."
+  - "Lift sustainably: replant the small remaining pieces of the rhizome after taking what is needed."
+  basis: traditional
+  source_quote: "Medizinisch genutzt werden die frischen, im Fruehling gesammelten unterirdischen Teile der Pflanze (Tormentillae rhizoma) oder der alkoholische Auszug des getrockneten Wurzelstockes."
+  reference_ids:
+  - REF-3383
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Bochumer Botanischer Verein plant portrait of Potentilla erecta, Medicinal Plant of the Year (REF-3383). Translation of the quote: 'Medicinally used are the fresh underground parts of the plant collected in spring (Tormentillae rhizoma), or the alcoholic extract of the dried rootstock.' The same portrait records the sustainable practice of harvesting the rhizome and replanting the small remaining pieces. Supersedes the earlier dead end: Grieve's Tormentil entry gives no collection stage, and PFAF and Useful Temperate Plants give only the flowering period. Single lineage -> provisional."
 traditional_uses:
   text: Tormentil rhizome has an official European herbal-monograph tradition for mild diarrhoea and inflammation
     of the mouth and throat, reflecting its long folk use as a powerful astringent for gut and mucous-membrane
@@ -235,4 +244,4 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   sourced from the existing EMA HMPC (REF-0520) and ESCOP (REF-0521) monographs plus the paediatric diarrhoea
   RCT (REF-0602). | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for rhizome recorded as
   GAP: neither PFAF nor Useful Temperate Plants gives a rhizome-harvest season for Potentilla erecta (only
-  the flowering period). Binomial confirmed (no timing to attach).'
+  the flowering period). Binomial confirmed (no timing to attach). | 2026-08-15: rhizome harvest_readiness filled (was gap) from the Bochumer Botanischer Verein plant portrait (REF-3383): the fresh underground parts collected in spring are the drug, with replanting of the remaining rhizome pieces. Grieve and PFAF had both given no collection stage.'

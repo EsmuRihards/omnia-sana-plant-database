@@ -55,8 +55,16 @@ harvesting:
   status: draft
 harvest_readiness:
 - part: leaf
-  status: gap
-  notes: "GAP (documented dead end). No reliable phenological source stating the leaf harvest-readiness stage for Gymnema sylvestre was found. Useful Tropical Plants (Ken Fern) gives no leaf-harvest timing; as an evergreen tropical climber it has no seasonal window and mature leaves are picked through the growing season, but no source states an observable readiness stage. Next seams: the Ayurvedic Pharmacopoeia of India (API) or a gurmar cultivation/agronomy source. (The DB harvesting.text 'picked through the growing season' is an unsourced generalisation, not inherited here.)"
+  signals:
+  - "Hand-pluck only the MATURE leaves, leaving the immature ones on the vine to mature for the following picking; as an evergreen tropical climber gurmar has no seasonal window, and two non-destructive pickings a year are taken from the same plants."
+  basis: traditional
+  source_quote: "Only mature leaves (60%) were hand plucked in the month of October. Second harvest was done in the month of June."
+  reference_ids:
+  - REF-3377
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Pandey & Yadav, Pharmacognosy Research 2010 (REF-3377), an open-access study that standardised non-destructive harvesting of Gymnema sylvestre R. Br. The readiness stage is LEAF MATURITY, not a date: the same paper reports that 'the leaves left at the time of 1(st) harvest during October matured in June at the time of 2(nd) harvest', and that the practice 'did not have any negative impact on overall development of the plant'. Supersedes the earlier dead end (Useful Tropical Plants gave no leaf-harvest timing). Single lineage -> provisional."
 traditional_uses:
   text: Gymnema leaf (gurmar) has a long Ayurvedic tradition as a remedy for 'madhumeha' (sweet urine,
     diabetes), chewed or taken as a decoction to reduce sugar cravings and support healthy blood sugar;
@@ -221,4 +229,4 @@ internal_notes: '2026-07-03: new record created for the safety-data campaign (gy
   now 11; campaign target met. | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for leaf
   recorded as GAP: no species-specific phenological source for Gymnema sylvestre leaf-harvest timing
   (Useful Tropical Plants has none; evergreen tropical climber, no seasonal window). DB harvesting.text
-  generalisation not inherited. Binomial confirmed.'
+  generalisation not inherited. Binomial confirmed. | 2026-08-15: leaf harvest_readiness filled (was gap) from Pandey & Yadav, Pharmacognosy Research 2010 (REF-3377): the readiness stage is LEAF MATURITY, not a season - only mature leaves are plucked and the immature ones left to mature for the next picking.'

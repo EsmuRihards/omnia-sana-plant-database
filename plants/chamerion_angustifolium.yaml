@@ -76,8 +76,16 @@ harvest_readiness:
   status: provisional
   notes: "Edible Wild Food (REF-3231). Single source -> provisional."
 - part: flower
-  status: gap
-  notes: "No phenological harvest signal found for the fireweed FLOWER in the seams searched (Edible Wild Food gives only the young leaves/shoots; theferns had no record; US Forest Service and Gardenia returned 403; PFAF was empty). The flowers would be gathered when open, but no source states a readiness stage. Recorded as a documented dead end."
+  signals:
+  - "Pick the young, freshly opened flowers from the lower part of the spike: the raceme opens progressively from the bottom upwards, so open flowers, unopened buds and forming seed pods all sit on one stem at once."
+  basis: traditional
+  source_quote: "The inflorescence is a symmetrical terminal raceme that blooms progressively from bottom to top, producing a gracefully tapered shape."
+  reference_ids:
+  - REF-3374
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Wikipedia (REF-3374) under the accepted name Chamaenerion angustifolium (syn. Chamerion angustifolium); the same page names the material used - 'The young flowers are also edible (being made into jelly in the Yukon)' - and the bottom-to-top flowering sequence gives the stage. Seams that failed earlier: theferns (no record), PFAF (empty), US Forest Service and Gardenia (403), Edible Wild Food (young leaves/shoots only). Single lineage -> provisional."
 traditional_uses:
   text: Fireweed has a long circumpolar tradition as a food plant (young shoots as a spring vegetable,
     fermented leaf as 'Ivan-chai' tea) and as a folk remedy for digestive complaints and topically as
@@ -332,7 +340,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-08-14'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -359,4 +367,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (gathered young; Edible Wild Food REF-3231; a clean seasonal/phenophase statement could not be retrieved -
   theferns had no record, US Forest Service and Gardenia 403, PFAF empty); flower gap. Strong safety
   cross-link to the FATAL false-hellebore (Veratrum album) young-shoot confusion. Existing harvesting.season
-  not inherited.'
+  not inherited. | 2026-08-15: flower harvest_readiness filled (was gap) from Wikipedia under the accepted name Chamaenerion angustifolium (REF-3374): the raceme opens bottom to top and the YOUNG flowers are the material used.'

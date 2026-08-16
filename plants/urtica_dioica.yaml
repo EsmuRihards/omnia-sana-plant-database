@@ -70,7 +70,7 @@ harvest_readiness:
   notes: "PFAF (REF-3355); the seeds ripen from summer into autumn (June-October). Single lineage -> provisional."
 - part: root
   status: gap
-  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Urtica dioica (nettle root is conventionally dug in autumn, but no source stating that stage was found this pass), so none is asserted."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Urtica dioica. Grieve's Nettles entry gives the herb only ('The whole herb, collected in May and June, just before coming into flower'); Herbal Reality gives the leaf only; the Arzneipflanzen-Lexikon entry has no root collection time; and Madaus is explicit that under the HAB it is the FRESH HERB, root excluded, that is the collection material for this species, noting root use only as a historical recommendation. Wikipedia supplies the aerial phenology ('dying down to the ground in winter') but no harvest rule, and it was not converted into one. German herbal websites do assert a spring/autumn root window but none could be retrieved to quote verbatim. Next seam: the EMA HMPC Urticae radix monograph checked for a collection statement, or a nettle-root agronomy paper."
 traditional_uses:
   text: Nettle leaf has a long tradition as a nutritive spring tonic, diuretic and anti-inflammatory remedy
     for joint pain and rheumatism, while the root has a well-documented traditional and modern use for
@@ -319,4 +319,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   herbal tea, liquid extract (1:5) and three dry extracts. Freeze-dried leaf in capsules is none of these,
   and the monograph says nothing about avoiding the sting or retaining nutrients. | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for leaf (spring, before flowering) + seed (June-Oct),
-  both provisional: PFAF REF-3355; root = GAP. Single lineage. Binomial confirmed.'
+  both provisional: PFAF REF-3355; root = GAP. Single lineage. Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Madaus is explicit that under the HAB the collection material for this species is the fresh herb WITHOUT root, and Grieve, Herbal Reality and the Arzneipflanzen-Lexikon give no root stage.'

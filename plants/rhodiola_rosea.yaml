@@ -49,11 +49,33 @@ harvesting:
   status: verified
 harvest_readiness:
 - part: rhizome
-  status: gap
-  notes: "GAP (documented dead end). No phenological source stating the rhizome-harvest stage for Rhodiola rosea was found: both PFAF and Useful Temperate Plants (Ken Fern) give the flowering period (May-August) and a propagation-division window (August to early autumn) but no medicinal-harvest season. (Roseroot is conventionally dug in autumn from mature plants, but no source states that stage.) Next seams: a Scandinavian/alpine adaptogen cultivation source, or Grieve."
+  signals:
+  - "Lift only from mature plants: the underground parts are dug once, at the end of the fourth or fifth year of growth."
+  - "Within a season the rosavin content of the dried rhizome is at its highest at flowering."
+  basis: both
+  constituent_note: "Total rosavins in the dried rhizome peak at flowering, and root dry weight falls to a minimum at budding/full flowering before rising again towards a harvest taken after wilting (ISHS Acta Horticulturae, REF-3385)."
+  source_quote: "Rhodiola rosea is grown as a perennial, but the roots are harvested once at the end of four or five years."
+  reference_ids:
+  - REF-3384
+  - REF-3385
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Two complementary sources, not one confirming the other, which is why this stays provisional. Alberta Agriculture Agdex 188/20-2 (REF-3384) gives the maturity rule (fourth or fifth year); the ISHS harvest-time study (REF-3385) gives the within-season phenophase - 'The content of total rosavins in the dry rhizomes was the highest at flowering on both sites'. They address different aspects of readiness and so do not constitute an independent confirmation of the same stage. Supersedes the earlier dead end (PFAF and Useful Temperate Plants gave only flowering and propagation-division timing)."
 - part: root
-  status: gap
-  notes: "GAP (documented dead end). As for the rhizome: no source stating the root-harvest stage for Rhodiola rosea was found (PFAF and Useful Temperate Plants give only flowering and propagation-division timing). The root is dug with the rhizome; no season sourced."
+  signals:
+  - "The root is dug with the rhizome, from mature plants only, at the end of the fourth or fifth year of growth."
+  - "Root dry weight falls to a minimum around budding and full flowering, then rises again towards a harvest taken after the tops have wilted."
+  basis: both
+  constituent_note: "Rhizomes of R. rosea contain more phenylpropenoids than the roots, and root dry weight is lowest at budding/full flowering, recovering towards the post-wilting harvest (ISHS Acta Horticulturae, REF-3385)."
+  source_quote: "the dry weight of the root decreased until budding/full flowering, followed by an increase towards the last harvest after wilting"
+  reference_ids:
+  - REF-3384
+  - REF-3385
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "ISHS harvest-time study of cultivated Rhodiola rosea at Finnish and Norwegian sites (REF-3385) for the within-season phenophase, plus Alberta Agriculture Agdex 188/20-2 (REF-3384) for the maturity rule, 'the roots are harvested once at the end of four or five years'. The two sources are complementary rather than confirmatory, so this stays provisional. Supersedes the earlier dead end."
 traditional_uses:
   text: Rhodiola has a long tradition of use across Scandinavian, Russian and Central Asian folk medicine
     as a tonic for cold-climate hardiness, physical endurance and mental stamina. It is classified as
@@ -315,4 +337,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the stress-symptom clinical review (REF-1526), the anti-inflammatory review (REF-1527) and the SHR-5
   extract trials (REF-1532, REF-1533). | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for
   rhizome + root recorded as GAP: neither PFAF nor Useful Temperate Plants gives a medicinal-harvest season
-  for Rhodiola rosea (only flowering + propagation-division timing). Binomial confirmed.'
+  for Rhodiola rosea (only flowering + propagation-division timing). Binomial confirmed. | 2026-08-15: rhizome and root harvest_readiness filled (were gaps) from Alberta Agdex 188/20-2 (REF-3384, maturity: lifted once at the end of the fourth or fifth year) and ISHS Acta Hort (REF-3385, within-season phenophase: rosavins peak at flowering, root dry weight recovers towards a post-wilting harvest). Kept provisional - the two sources are complementary, not confirmatory.'

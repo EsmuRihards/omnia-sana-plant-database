@@ -59,8 +59,18 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3299); the fruit is harvested in autumn (late September to November) - green when picked early, black when fully ripe. Single lineage -> provisional."
 - part: leaf
-  status: gap
-  notes: "GAP (documented dead end). PFAF gives no leaf-harvest timing for Olea europaea (an evergreen; olive leaves are conventionally gathered year-round or at winter pruning, but no source stating a stage was found this pass), so none is asserted."
+  signals:
+  - "The olive is evergreen, so the leaf has no seasonal window and can be stripped at any time - typically at pruning."
+  - "Leaves taken in autumn carry the highest phenolic content and antioxidant activity, followed by summer, then spring, then winter."
+  basis: constituent
+  constituent_note: "Phenolic composition and antioxidant/antiproliferative capacity of olive-leaf extracts were highest in leaves harvested in autumn, then summer, spring and winter (Losada-Echeberria et al. 2022, REF-3380)."
+  source_quote: "Increased phenolic composition and antioxidant and antiproliferative capacity are noted in the extracts obtained from leaves harvested in autumn, followed by summer, spring and winter."
+  reference_ids:
+  - REF-3380
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Losada-Echeberria et al., Int J Mol Sci 2022 (REF-3380), open access, sampling Olea europaea leaves across all four seasons. BASIS IS CONSTITUENT, NOT TRADITIONAL: the only sourced stage found is a phenolic-content peak, not a traditional collection rule, and the two are deliberately kept apart. PFAF had given fruit timing only. Single lineage -> provisional."
 traditional_uses:
   text: Olive leaf and fruit have a long Mediterranean tradition as a tonic, antipyretic and mild antihypertensive
     remedy, and olive oil is the foundation fat of the traditional Mediterranean diet, long associated
@@ -326,4 +336,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
   cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
   fruit (provisional: PFAF REF-3299, olives harvested in autumn); leaf = GAP (evergreen, no sourced leaf
-  timing). Binomial confirmed.'
+  timing). Binomial confirmed. | 2026-08-15: leaf harvest_readiness filled (was gap) from Losada-Echeberria et al., Int J Mol Sci 2022 (REF-3380). basis is CONSTITUENT, not traditional - the only sourced stage is an autumn phenolic peak on an evergreen with no traditional collection window.'

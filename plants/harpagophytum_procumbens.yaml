@@ -62,8 +62,17 @@ harvesting:
   status: draft
 harvest_readiness:
 - part: tuber
-  status: gap
-  notes: "GAP (documented dead end). No reliable phenological source stating the harvest-readiness stage of the secondary storage tubers of Harpagophytum procumbens was found. Useful Tropical Plants (Ken Fern) and Wikipedia both describe the harvested organ and sustainability concerns but give no seasonal or observable harvest stage. (Devil's claw tubers are conventionally dug in the dry season after the rains, but no source states this.) Next seams: a southern-African sustainable-harvest / CITES or Namibian devil's-claw management guideline."
+  signals:
+  - "Dig only the secondary storage tubers, which hang at the ends of the fleshy roots, and leave the persistent primary tuber in the ground so the plant regenerates."
+  - "A plant can only be found and dug while its above-ground stems are still traceable: those stems emerge after the first rains and die back in drought or after frost."
+  basis: traditional
+  source_quote: "The stems grow from a persistent primary tuber and several secondary tubers (the harvested organs) grow from the primary tuber at the end of fleshy roots. The above-ground stems emerge after the first rains and die back during droughts or after frosts."
+  reference_ids:
+  - REF-3378
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Wikipedia (REF-3378) gives the harvested organ and the rain-driven growth cycle that bounds when a plant can be located. NO source found states a harvest month or a dormancy-stage rule, so none is asserted: the FAO/CRIAA certification study on Namibian devil's claw covers trade and certification only, Useful Tropical Plants has no harvest stage, SANBI PlantZAfrica gives dormancy but not harvest, and the Herbal Reality Kalahari account describes technique ('leave the thick root and primary tuber intact') without a season. Devil's claw is CITES Appendix II and permits are required in Namibia, Botswana and South Africa. Single lineage -> provisional."
 traditional_uses:
   text: Devil's claw has a long southern African traditional-medicine history as a remedy for fever, pain
     and digestive complaints, and is now one of the most clinically studied herbal analgesics for osteoarthritis
@@ -218,4 +227,4 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standar
   harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
   claims marked status: draft per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar
   (phenological) - harvest_readiness for tuber recorded as GAP: no phenological source for devil''s-claw
-  secondary-tuber harvest timing (Useful Tropical Plants + Wikipedia both silent). Binomial confirmed.'
+  secondary-tuber harvest timing (Useful Tropical Plants + Wikipedia both silent). Binomial confirmed. | 2026-08-15: tuber harvest_readiness filled (was gap) from Wikipedia (REF-3378): secondary storage tubers only, primary tuber left in the ground, and the rain-driven stem cycle that bounds when a plant can be found. No source states a harvest month; FAO/CRIAA, SANBI and Herbal Reality were all checked and gave none.'

@@ -90,7 +90,7 @@ harvest_readiness:
   notes: "PFAF (REF-3290); the leaf is gathered with the flowering herb in summer. Single lineage -> provisional."
 - part: root
   status: gap
-  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Lysimachia vulgaris (only the flowering-herb stage). No sourced stage for the root, so none is asserted."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). PFAF gives a harvest stage for the flowering HERB of Lysimachia vulgaris ('It is harvested when in flower in July and dried for later use') but says nothing about the root; the Madaus entry filed under this genus covers Lysimachia nummularia, a different species, and specifies 'the fresh, flowering plant WITHOUT root'. No root stage is asserted. Next seam: a central or eastern-European flora treating L. vulgaris root specifically."
 traditional_uses:
   text: 'Yellow loosestrife has a European folk-medicine reputation as an astringent and styptic: the
     flavonoid- and tannin-rich herb was used to stop bleeding (nosebleeds, wounds), for diarrhoea and
@@ -371,4 +371,4 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   statement was cited as the authority for there being no established posology) and is the proper fix
   if a seam opens. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts +
   flower + leaf (all provisional: PFAF REF-3290, gathered while in flower in summer); root = GAP (no sourced
-  timing). Binomial confirmed.'
+  timing). Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; PFAF gives the flowering-herb stage only, and the Madaus entry filed under this genus is Lysimachia nummularia (a different species) and specifies the flowering plant WITHOUT root.'

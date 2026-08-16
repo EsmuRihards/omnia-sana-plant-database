@@ -73,7 +73,7 @@ harvest_readiness:
   notes: "Useful Temperate Plants (REF-3221) for Cannabis sativa. Single source -> provisional."
 - part: leaf
   status: gap
-  notes: "No phenological harvest signal found for the cannabis LEAF: the sources give the female flower (trichome maturity) and the seed (falls when ripe), plus the fibre/male-plant harvest, but no distinct leaf-harvest stage - the fan leaves are taken with the flowering tops, not on their own schedule. Recorded as a documented dead end."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a readiness stage for the cannabis LEAF as a part in its own right. The sourced signals are for the female flower (trichome maturity), the seed (falls when ripe) and the fibre/male-plant harvest; the fan leaves are taken with the flowering tops. A peer-reviewed morphological characterisation of the complete Cannabis sativa life cycle (Hesami et al., Plants 2023) tracks the life cycle but does not address fan-leaf senescence at harvest. Recorded as a dead end rather than asserting the leaf inherits the flowering-top stage."
 traditional_uses:
   text: Cannabis/hemp has a long multi-cultural history as a fibre, food and medicinal plant, traditionally
     used for pain, muscle spasm, sleep and appetite, alongside industrial use of the fibre and seed. Modern
@@ -283,7 +283,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-08-14'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted -
@@ -319,4 +319,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Batch 7): added harvest_readiness - flower provisional (female tops at trichome maturity: mostly
   milky/cloudy with a little amber = cannabinoid peak; Ed Rosenthal REF-3222; species_confirmed false as the
   source says "cannabis", not the binomial); seed provisional (falls when ripe/shaken; theferns REF-3221);
-  leaf gap. Existing harvesting.season not inherited.'
+  leaf gap. Existing harvesting.season not inherited. | 2026-08-15: leaf harvest_readiness re-searched and kept a documented gap; the peer-reviewed life-cycle characterisation (Hesami et al., Plants 2023) does not address fan-leaf senescence at harvest, and the leaf was not given the flowering-top stage by inheritance.'

@@ -48,8 +48,17 @@ harvesting:
   status: verified
 harvest_readiness:
 - part: fruit
-  status: gap
-  notes: "GAP (documented dead end). Useful Tropical Plants gives no pod-ripeness or harvest stage for Theobroma cacao (only that the seed loses viability 5-7 days after separation from the pulp). The pods are cut from the trunk when ripe - they change colour (green to yellow, or red to orange) about 5-6 months after flowering - but no source stating that observable stage was found this pass. The seed (cocoa bean) is extracted from the same harvested pods. Next seams: a cocoa-agronomy or ICCO harvest source."
+  signals:
+  - "Cut the pod from the trunk once it has passed physiological maturity and the husk has changed colour."
+  - "Read ripeness from the PROPORTION of the pod and its grooves that has turned, not from one fixed colour: the ripe colour is clone-specific (for example purple to reddish with yellow grooves), and some clones show little colour change at all."
+  basis: traditional
+  source_quote: "ripeness states (RS) were established based on days since flowering to ensure that all fruits had exceeded the state of physiological maturity"
+  reference_ids:
+  - REF-3388
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Rojas et al., Heliyon 2020 (REF-3388), open access, tracking husk colour, firmness, weight, soluble solids and pH against ripeness state in three Theobroma cacao clones (ICS95, CCN51, TSH565). The paper's colour descriptors run from 'Purple to reddish color with 20% yellow grooves' to 'Reddish to yellow color with 60% yellow grooves' depending on clone, and it concludes that each clone carries its own set of ripeness parameters - which is why the signal here is the proportion turned rather than a single colour. Supersedes the earlier dead end (Useful Tropical Plants gave no pod-ripeness stage). The seed (cocoa bean) is extracted from these same harvested pods. Single lineage -> provisional."
 traditional_uses:
   text: Cacao has an ancient Mesoamerican tradition (Maya and Aztec) as a ceremonial, medicinal and nutritive
     beverage, valued as a stimulant tonic and considered sacred - 'food of the gods', reflected in the
@@ -269,4 +278,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing systematic health-effects review (REF-1084) and the
   COSMOS cocoa-flavanol RCT (REF-1085). | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness
   for fruit recorded as GAP: Useful Tropical Plants gives no pod-ripeness/harvest stage (only seed-viability
-  after separation); the seed shares the pod harvest. Binomial confirmed (no timing to attach).'
+  after separation); the seed shares the pod harvest. Binomial confirmed (no timing to attach). | 2026-08-15: fruit harvest_readiness filled (was gap) from Rojas et al., Heliyon 2020 (REF-3388): ripeness is read from the proportion of the pod and grooves that has changed colour, and the ripe colour is clone-specific rather than fixed.'

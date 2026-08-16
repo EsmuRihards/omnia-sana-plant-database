@@ -97,8 +97,16 @@ harvest_readiness:
   status: provisional
   notes: "Garden Betty, green garlic (REF-3194). 'Young sprouts' = the immature spring shoots, pulled before the bulb divides. Single source -> provisional."
 - part: root
-  status: gap
-  notes: "No phenological harvest signal for the garlic ROOT: the roots are trimmed off when the bulb is lifted (see the bulb entry) and are not gathered on their own schedule. Cornell Extension and Garden Betty describe trimming the roots after harvest, not a separate root-harvest stage. Recorded as a documented dead end."
+  signals:
+  - "The root is not gathered on a schedule of its own: it is lifted with the bulb, when about half the leaves have turned brown, and trimmed off close to the base of the bulb."
+  basis: traditional
+  source_quote: "In general, garlic is ready to harvest when half of the leaves have turned brown. Dig the bulbs with the shoots still attached. Loosen the soil underneath the bulb and carefully pull up the entire plant by the shoot."
+  reference_ids:
+  - REF-3372
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Wisconsin Horticulture / UW-Madison Extension (REF-3372) gives the leaf-browning signal for lifting the whole plant, and the same page directs 'trim roots close to the base of the bulb' - so the readiness of the root IS the readiness of the bulb. Recorded as a real (if dependent) signal rather than a gap. Single lineage -> provisional."
 traditional_uses:
   text: Garlic has one of the longest continuous medicinal histories of any plant, used across many traditional
     systems (Ayurvedic, Chinese, Egyptian, Greco-Roman and European folk medicine) as an antimicrobial,
@@ -564,7 +572,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-08-14'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -605,4 +613,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plump, skins papery), sourced to Cornell Cooperative Extension (REF-3193, new). Leaf and young sprouts
   (mapped to shoot) provisional at the green-garlic spring stage, sourced to Garden Betty (REF-3194, new).
   Root = gap (roots are trimmed off when the bulb is lifted; no separate harvest schedule). Existing
-  harvesting.season not inherited; signals re-derived.'
+  harvesting.season not inherited; signals re-derived. | 2026-08-15: root harvest_readiness filled (was gap): the root is lifted with the bulb when about half the leaves have browned, per UW-Madison Extension (REF-3372); no separate root phenophase exists.'

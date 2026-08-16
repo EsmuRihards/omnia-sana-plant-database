@@ -82,7 +82,7 @@ harvest_readiness:
   notes: "PFAF (REF-3257); the flowering herb is gathered while in flower (May-August). Single lineage -> provisional."
 - part: root
   status: gap
-  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Filipendula vulgaris; the DB harvesting.text claims 'roots and tubers in autumn' (citing REF-2726) but that source was not verified for root timing in this pass, so no autumn stage is asserted here. SAFETY CRITICAL: the small root tubers of dropwort are name-confused with the FATAL Oenanthe crocata (hemlock water dropwort) - never dig dropwort roots without certain identification; see Dangerous Lookalikes."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Filipendula vulgaris. Grieve's entry (filed under Meadowsweet, as Spiraea Filipendula) describes the tubers and quotes Culpepper on their use but gives no digging season; PFAF likewise gives none. The DB harvesting.text claims 'roots and tubers in autumn' citing REF-2726, but that source was not verified for root timing, so no autumn stage is asserted here. Next seam: a Baltic or central-European ethnobotanical survey, or the dropwort-into-cultivation literature. SAFETY CRITICAL: the small root tubers of dropwort are name-confused with the FATAL Oenanthe crocata (hemlock water dropwort) - never dig dropwort roots without certain identification; see Dangerous Lookalikes."
 traditional_uses:
   text: Dropwort shares much of the European folk-medicine history of its sibling meadowsweet. The salicylate-
     and tannin-rich herb has been used as an astringent and anti-inflammatory remedy for diarrhoea and
@@ -477,4 +477,4 @@ internal_notes: 'Created 2026-07-10. 16 PubMed-verified @article refs REF-2725..
   (phenological) - added harvest_readiness for flower + aerial-parts (provisional: PFAF REF-3257, gathered
   while in flower May-August); root = GAP (no sourced root timing; the DB autumn claim citing REF-2726 was
   not verified this pass). SAFETY: dropwort root tubers are name-confused with the fatal Oenanthe crocata.
-  Binomial confirmed.'
+  Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Grieve''s entry (under Meadowsweet, as Spiraea Filipendula) describes the tubers but gives no digging season. Fatal Oenanthe crocata name-confusion clause retained.'

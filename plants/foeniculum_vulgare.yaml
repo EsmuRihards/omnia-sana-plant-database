@@ -104,7 +104,7 @@ harvest_readiness:
   notes: "PFAF (REF-3259); the leaves are gathered through the growing season (all year in mild spots). Single lineage -> provisional. SAFETY: see the Conium maculatum caution above."
 - part: root
   status: gap
-  notes: "GAP (documented dead end). PFAF gives no root-harvest timing for Foeniculum vulgare (only leaf, seed and bulb stages). The taproot would conventionally be dug in autumn, but no source stating that stage for this species was found, so no season is asserted. SAFETY: Conium maculatum (poison hemlock) is a fatal lookalike."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Foeniculum vulgare. PFAF gives leaf, seed and bulb stages only; Wikipedia has nothing on the taproot; Madaus records only the fruit ('Erntezeit: September des zweiten Jahres') and notes that Radix foeniculi is rarely used and was officinal in France. The taproot would conventionally be dug in autumn, but no source stating that for this species was found, so no season is asserted. SAFETY: poison hemlock (Conium maculatum) is a fatal lookalike."
 traditional_uses:
   text: Fennel seed has an ancient Mediterranean and Asian tradition as a carminative digestive remedy
     for indigestion, bloating and colic (including infant colic, historically), a mild expectorant for
@@ -389,4 +389,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   arguably cuts against the claim. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
   for seed (provisional REF-3259, ripe in autumn) and leaf (provisional REF-3259, through the growing
   season); root = GAP (no sourced timing). SAFETY: Conium maculatum (poison hemlock) fatal lookalike.
-  Binomial confirmed.'
+  Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Madaus gives the fruit only (''Erntezeit: September des zweiten Jahres'') and notes Radix foeniculi is rarely used, and Wikipedia has nothing on the taproot.'

@@ -110,13 +110,13 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - gbif:world-register-of-marine-species
-  - name: Thousand Seal
+  - name: thousand seal
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - gbif:world-register-of-marine-species
-  - name: Western Yarrow
+  - name: western yarrow
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -131,81 +131,107 @@ names:
   - name: eerie
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: soldier
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: gordaldo
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: knyghten
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: arrowroot
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: dog daisy
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: field hop
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: dog fennel
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: plumajillo
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: staunchweed
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: death flower
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: white yarrow
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: snake's grass
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: thousand-leaf
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: thousand-seal
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: devil's nettle
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: northern yarrow
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: nosebleed plant
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: knight's milfoil
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: old man's pepper
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: devil's plaything
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: old man's mustard
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: seven-year's love
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: bad man's plaything
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: soldier's woundwort
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: hundred leaved grass
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Milenrama
     sources:
     - gbif:checklist-of-vermont-species
@@ -213,13 +239,11 @@ names:
     - gbif:martha-s-vineyard-species-checklist
   - name: Nose Bleed
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - gbif:world-register-of-marine-species
   - name: Yarrow, Milfoil
     sources:
     - gbif:belgian-species-list
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
   et:
   - name: Harilik raudrohi
@@ -696,5 +720,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

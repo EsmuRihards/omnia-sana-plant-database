@@ -52,18 +52,20 @@ names:
   - name: California-poppy
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - wikidata:Q158795
   - name: California golden poppy
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+  - name: California goldenpoppy
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
   - name: California sunlight
     sources:
     - wikidata:Q158795
-    status: needs-review
-  - name: California goldenpoppy
-    sources:
-    - gbif:integrated-taxonomic-information-system-
     status: needs-review
   et:
   - name: kalifornia läänemagun
@@ -304,5 +306,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

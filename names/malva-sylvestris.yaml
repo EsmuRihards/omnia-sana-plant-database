@@ -106,22 +106,20 @@ names:
   - name: High Malva
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Large flowered mallow
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: garden mallow
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:integrated-taxonomic-information-system-
-  - name: Common Mallow, Mallow Flowers, Tree Mallow
+  - name: Common mallow, Mallow flowers, Tree mallow
     sources:
     - gbif:checklist-of-vascular-plants-in-korea
     - gbif:checklist-of-vermont-species
-  - name: High Cheeseweed
-    sources:
-    - gbif:checklist-of-vermont-species
-    status: needs-review
   et:
   - name: mets-kassinaeris
     preferred: true
@@ -725,5 +723,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

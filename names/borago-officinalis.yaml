@@ -73,13 +73,13 @@ names:
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
     - wikidata:Q147075
-  - name: Beebread
+  - name: beebread
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: Beeplant
+  - name: beeplant
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -94,10 +94,11 @@ names:
   - name: Boražina
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Bee Plant
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   et:
   - name: Harilik kurgirohi
     preferred: true
@@ -438,5 +439,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

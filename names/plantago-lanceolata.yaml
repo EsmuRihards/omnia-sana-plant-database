@@ -80,6 +80,7 @@ names:
   - name: Lamb's tongue
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: ribgrass
     sources:
     - col:catalogue-of-life
@@ -114,13 +115,13 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: Lance-leaved Plantain
+  - name: lance-leaved plantain
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Narrow-leaved Plantain
+  - name: narrow-leaved plantain
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -134,31 +135,40 @@ names:
   - name: ribleaf
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: rib-grass
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Wild Sago
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Small Plantain
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: German Psyllium
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: narrow leaf plantain
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Narrow-Leaved Ribwort
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Narrow -Eaved Plantain
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: narrow leaved plantain
     sources:
     - col:catalogue-of-life
-  - name: English Plantai
+    - gbif:checklist-of-vermont-species
+  - name: English plantai
     sources:
     - gbif:checklist-of-vascular-plants-in-korea
     - gbif:checklist-of-vermont-species
@@ -175,8 +185,8 @@ names:
     - gbif:martha-s-vineyard-species-checklist
   - name: Black Plantain
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   et:
   - name: Süstlehine teeleht
     preferred: true
@@ -522,5 +532,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

@@ -33,6 +33,7 @@ names:
     preferred: true
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - wikidata:Q158332
   - name: upright yellow-sorrel
     sources:
@@ -87,13 +88,13 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: European Wood-sorrel
+  - name: European wood-sorrel
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Upright Yellow Oxalis
+  - name: upright yellow oxalis
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -108,17 +109,18 @@ names:
   - name: slender yellow woodsorrel
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Toad Sorrel
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Sheep Sorrel
+  - name: sheep sorrel
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Erect Woodsorrel
+  - name: erect woodsorrel
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
@@ -126,7 +128,7 @@ names:
   - name: Yellow wood sorrel
     sources:
     - gbif:checklist-of-vascular-plants-in-korea
-    status: needs-review
+    - gbif:checklist-of-vermont-species
   et:
   - name: sirge jänesekapsas
     preferred: true
@@ -374,5 +376,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

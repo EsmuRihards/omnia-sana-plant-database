@@ -26,6 +26,7 @@ names:
     preferred: true
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Winter Cherry
     sources:
     - col:catalogue-of-life
@@ -34,18 +35,21 @@ names:
   - name: Poison Gooseberry
     sources:
     - col:catalogue-of-life
-  - name: Rennet
-    sources:
-    - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
   - name: winter-cherry
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
+  - name: Rennet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Poisonous Gooseberry
     sources:
     - col:catalogue-of-life
-  - name: Withania
+    - gbif:checklist-of-vermont-species
+  - name: withania
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:global-register-of-introduced-and-invasi
@@ -199,5 +203,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

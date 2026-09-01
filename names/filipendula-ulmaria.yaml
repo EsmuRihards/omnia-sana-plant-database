@@ -64,6 +64,7 @@ names:
   - name: queen-of-the-meadow
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:grin-taxonomy
     - gbif:the-iucn-red-list-of-threatened-species
@@ -81,6 +82,7 @@ names:
   - name: European Meadowsweet
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   et:
   - name: Harilik angervaks
     preferred: true
@@ -422,5 +424,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

@@ -62,7 +62,7 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - wikidata:Q161511
-  - name: English Hawthorn
+  - name: English hawthorn
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -76,13 +76,13 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: One-seeded Hawthorn
+  - name: one-seeded hawthorn
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Single-seed Hawthorn
+  - name: single-seed hawthorn
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -91,10 +91,12 @@ names:
   - name: may
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Neapolitan medlar
     sources:
     - col:catalogue-of-life
-  - name: Oneseed Hawthorn
+    - gbif:checklist-of-vermont-species
+  - name: Oneseed hawthorn
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:global-register-of-introduced-and-invasi
@@ -107,12 +109,12 @@ names:
     - gbif:martha-s-vineyard-species-checklist
   - name: May Thorn
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   - name: White Thorn
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   et:
   - name: üheemakane viirpuu
     preferred: true
@@ -374,5 +376,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

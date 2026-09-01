@@ -72,6 +72,7 @@ names:
   - name: Oregon-grape
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - gbif:daisie-inventory-of-alien-invasive-speci
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:taxref
@@ -101,15 +102,19 @@ names:
   - name: blue barberry
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: holly mahonia
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: holly barberry
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: mountain-grape
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: hollyleaved barberry
     sources:
     - gbif:checklist-of-vermont-species
@@ -371,5 +376,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

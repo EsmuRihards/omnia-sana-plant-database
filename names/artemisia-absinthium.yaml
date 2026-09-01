@@ -95,7 +95,7 @@ names:
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: Absinthe Sagewort
+  - name: absinthe sagewort
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -104,28 +104,19 @@ names:
   - name: common-wormwood
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: Old Man
-    sources:
-    - gbif:checklist-of-vermont-species
-    - gbif:martha-s-vineyard-species-checklist
-    - gbif:world-register-of-marine-species
-  - name: Lad's Love
-    sources:
-    - gbif:checklist-of-vermont-species
-    - gbif:martha-s-vineyard-species-checklist
-    - gbif:world-register-of-marine-species
   - name: Common Sagewort
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Absinth Sagewort
+  - name: absinth sagewort
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Absinth Wormwood
+  - name: absinth wormwood
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
@@ -135,6 +126,14 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - gbif:taxref
+  - name: Old Man
+    sources:
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Lad's Love
+    sources:
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
   et:
   - name: Koirohi
     sources:
@@ -497,5 +496,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

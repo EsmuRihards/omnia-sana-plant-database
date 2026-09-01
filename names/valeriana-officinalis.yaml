@@ -91,13 +91,13 @@ names:
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Allheal
+  - name: allheal
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: European Valerian
+  - name: European valerian
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -106,13 +106,16 @@ names:
   - name: garden-heliotrope
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
   - name: Garðabrúða
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: cat's valerian
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   et:
   - name: Harilik palderjan
     preferred: true
@@ -504,5 +507,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

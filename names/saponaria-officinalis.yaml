@@ -86,7 +86,7 @@ names:
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
     - wikidata:Q156841
-  - name: Bouncingbet
+  - name: bouncingbet
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -97,38 +97,47 @@ names:
   - name: bouncing-bet
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:grin-taxonomy
   - name: Glond
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Cow Foot
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Cow Herb
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Cow Basil
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: China Cockle
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Cow Soapwort
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: spring cockle
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Bladder Soapwort
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Sweet Betty
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Bouncingbet Soapweed
+  - name: bouncingbet soapweed
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
@@ -555,5 +564,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

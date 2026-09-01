@@ -66,12 +66,12 @@ names:
     - gbif:martha-s-vineyard-species-checklist
     - gbif:united-kingdom-species-inventory-uksi
     - wikidata:Q26354
-  - name: European Ivy
+  - name: European ivy
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - gbif:world-register-of-marine-species
-  - name: English Ivy, Common Ivy, European Ivy, Ivy, Needlepoint Ivy, Ripple Ivy
+  - name: English ivy, Common ivy, European ivy, Ivy, Needlepoint ivy, Ripple ivy
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
@@ -299,5 +299,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

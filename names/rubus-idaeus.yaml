@@ -63,13 +63,13 @@ names:
     - gbif:taxref
     - gbif:united-kingdom-species-inventory-uksi
     - wikidata:Q12252383
-  - name: Wild Red Raspberry
+  - name: wild red raspberry
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Common Red Raspberry
+  - name: common red raspberry
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
@@ -79,20 +79,20 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: American Red Raspberry
+  - name: American red raspberry
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Raspberry, Red Raspberry
+  - name: Raspberry, Red raspberry
     sources:
     - gbif:checklist-of-vascular-plants-in-korea
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
   - name: European Raspberry
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   et:
   - name: Vaarikas
     preferred: true
@@ -386,5 +386,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

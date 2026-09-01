@@ -110,19 +110,19 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - gbif:united-kingdom-species-inventory-uksi
-  - name: Broad-leaved Plantain
+  - name: broad-leaved plantain
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Great Plantain
+  - name: great plantain
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
     - gbif:world-register-of-marine-species
-  - name: Buckhorn Plantain
+  - name: buckhorn plantain
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
@@ -134,23 +134,23 @@ names:
     - gbif:martha-s-vineyard-species-checklist
   - name: Grand Plantain
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   - name: Whiteman's-foot
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
-  - name: Nipple-seed Plantain
-    sources:
-    - gbif:checklist-of-vermont-species
-    - gbif:martha-s-vineyard-species-checklist
-  - name: Ripple-seed Plantain
-    sources:
-    - gbif:checklist-of-vermont-species
-    - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   - name: white man's foot
     sources:
     - wikidata:Q157154
+    status: needs-review
+  - name: Nipple-seed Plantain
+    sources:
+    - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
+  - name: Ripple-seed Plantain
+    sources:
+    - gbif:martha-s-vineyard-species-checklist
     status: needs-review
   et:
   - name: Suur teeleht
@@ -725,5 +725,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

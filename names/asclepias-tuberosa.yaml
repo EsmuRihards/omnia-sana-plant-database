@@ -24,6 +24,7 @@ names:
     preferred: true
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
   - name: Butterfly milkweed
     sources:
@@ -40,25 +41,25 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Butterflyweed
+  - name: butterflyweed
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Pleurisy-root
+  - name: pleurisy-root
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: Butterfly-weed
+  - name: butterfly-weed
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: Chieger-flower
+  - name: chieger-flower
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -67,48 +68,63 @@ names:
   - name: fluxroot
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: windroot
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: tuber root
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: white-root
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Canada root
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Indian posy
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: orange root
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: butterflybush
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: chiggerflower
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: butterfly love
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: chieger flower
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: yellow milkweed
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: silky swallow-wort
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: orange glory flower
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: orange swallow-wort
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Butterfly weed
     sources:
     - wikidata:Q311131
@@ -224,5 +240,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

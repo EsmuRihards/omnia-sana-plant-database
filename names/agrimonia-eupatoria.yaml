@@ -55,7 +55,7 @@ names:
     - gbif:taxref
     - gbif:united-kingdom-species-inventory-uksi
     - wikidata:Q156865
-  - name: Medicinal Agrimony
+  - name: medicinal agrimony
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -76,7 +76,7 @@ names:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
-  - name: Churchsteeples
+  - name: churchsteeples
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:global-register-of-introduced-and-invasi
@@ -342,5 +342,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

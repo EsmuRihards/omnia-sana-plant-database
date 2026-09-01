@@ -120,12 +120,13 @@ names:
   - name: Lion's tooth
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Blowball
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Eurasian Dandelion
+  - name: Eurasian dandelion
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -134,15 +135,17 @@ names:
   - name: lion's-tooth
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Wandering Dandelion
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Faceclock
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Common Dandelion, Blow Ball, Faceclock
+  - name: Common dandelion, Blow ball, Faceclock
     sources:
     - gbif:checklist-of-vascular-plants-in-korea
     - gbif:checklist-of-vermont-species
@@ -674,5 +677,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

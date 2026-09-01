@@ -75,6 +75,7 @@ names:
   - name: Bear's grape
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: mealberry
     sources:
     - col:catalogue-of-life
@@ -90,7 +91,7 @@ names:
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: Bear-grape
+  - name: bear-grape
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -117,44 +118,52 @@ names:
   - name: bear-berry
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: mountain box
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: barren myrtle
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: burren myrtle
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: hog crawberry
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: kinnickinnick
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: rapper dandies
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: pinemat manzanita
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: bear's whortleberry
     sources:
     - col:catalogue-of-life
-  - name: Red Bearberry
-    sources:
     - gbif:checklist-of-vermont-species
-    - gbif:martha-s-vineyard-species-checklist
-    - wikidata:Q208032
-  - name: Bearberry Manzanita
+  - name: bearberry manzanita
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
+  - name: Red Bearberry
+    sources:
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q208032
   - name: Common Bearberry
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   et:
   - name: Harilik Leesikas
     preferred: true
@@ -474,5 +483,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

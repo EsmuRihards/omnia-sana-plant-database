@@ -38,7 +38,6 @@ names:
     - gbif:taxref
     - gbif:world-register-of-marine-species
     - wikidata:Q37083
-    - wikipedia:en
   - name: oliveleaf
     sources:
     - col:catalogue-of-life
@@ -258,5 +257,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

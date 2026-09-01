@@ -30,7 +30,7 @@ names:
     - wikipedia:da
     status: needs-review
   en:
-  - name: Laurels
+  - name: laurels
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -43,12 +43,12 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Laurel
+  - name: laurel
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - gbif:the-paleobiology-database
-  - name: Bay Family
+  - name: bay family
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
@@ -255,5 +255,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

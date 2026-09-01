@@ -53,17 +53,13 @@ names:
     - gbif:united-kingdom-species-inventory-uksi
     - gbif:world-register-of-marine-species
     - wikidata:Q26663
-  - name: common mugwort
-    sources:
-    - gbif:checklist-of-vermont-species
-    - gbif:martha-s-vineyard-species-checklist
   - name: Felonherb
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: Felon-herb
+  - name: felon-herb
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -75,13 +71,13 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
-  - name: Lobed Wormwood
+  - name: lobed wormwood
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Eurasian Wormwood
+  - name: Eurasian wormwood
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -94,21 +90,24 @@ names:
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
     - wikidata:Q26663
-  - name: Artemisia
+  - name: artemisia
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Hierba De San Juan
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
   - name: Mother Of Herbs
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - gbif:world-register-of-marine-species
-  - name: Hierba De San Juan
+  - name: common mugwort
     sources:
-    - gbif:checklist-of-vermont-species
-    - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   et:
   - name: Harilik puju
     sources:
@@ -411,5 +410,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

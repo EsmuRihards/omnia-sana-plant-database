@@ -73,25 +73,25 @@ names:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
-  - name: Common Elderberry
+  - name: common elderberry
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
-  - name: West Indian Elder
-    sources:
-    - gbif:checklist-of-vermont-species
-    - gbif:world-register-of-marine-species
-  - name: European Black Elder
+  - name: European black elder
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
-  - name: European Black Elderberry
+  - name: European black elderberry
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
   - name: Black Elder
     sources:
     - gbif:checklist-of-vermont-species
+    status: needs-review
+  - name: West Indian elder
+    sources:
+    - gbif:world-register-of-marine-species
     status: needs-review
   et:
   - name: Must leeder
@@ -342,5 +342,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

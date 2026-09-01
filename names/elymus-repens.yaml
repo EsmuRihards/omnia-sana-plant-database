@@ -35,6 +35,7 @@ names:
     preferred: true
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Quack grass
     sources:
     - gbif:checklist-of-vascular-plants-in-korea
@@ -43,7 +44,8 @@ names:
   - name: Dog grass
     sources:
     - col:catalogue-of-life
-  - name: Quackgrass
+    - gbif:checklist-of-vermont-species
+  - name: quackgrass
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -53,13 +55,13 @@ names:
     - gbif:world-register-of-marine-species
     - gbif:wrims
     - wikidata:Q276262
-  - name: Couchgrass
+  - name: couchgrass
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Creeping Wildrye
+  - name: creeping wildrye
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -68,27 +70,35 @@ names:
   - name: Couch
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Quitch
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Twitch
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Wheat Grass
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Common Couch
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Quitch Grass
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Couch Wheat Grass
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: English Couch Grass
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   et:
   - name: Harilik orashein
     preferred: true
@@ -330,5 +340,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

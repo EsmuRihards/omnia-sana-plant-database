@@ -72,6 +72,7 @@ names:
   - name: woundwort
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Self-heal
     sources:
     - col:catalogue-of-life
@@ -81,49 +82,53 @@ names:
     - gbif:martha-s-vineyard-species-checklist
     - gbif:the-iucn-red-list-of-threatened-species
     - wikidata:Q158469
-  - name: Carpenter Weed
+  - name: carpenter weed
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Common Heal-all
+  - name: common heal-all
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
-    - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: Common Self-heal
+  - name: common self-heal
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
-    - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
   - name: brownwort
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: blue curls
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: lawn prunella
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: carpenter's herb
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Common Self Heal
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: heart-of-the-earth
     sources:
     - col:catalogue-of-life
-  - name: Common Selfheal
+    - gbif:checklist-of-vermont-species
+  - name: common selfheal
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:global-register-of-introduced-and-invasi
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Alpine Self-heal
+  - name: Alpine self-heal
     sources:
     - gbif:checklist-of-vascular-plants-in-korea
     - gbif:checklist-of-vermont-species
@@ -543,5 +548,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

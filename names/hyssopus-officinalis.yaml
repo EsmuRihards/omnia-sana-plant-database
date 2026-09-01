@@ -40,7 +40,6 @@ names:
   - name: Hyssop
     preferred: true
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:daisie-inventory-of-alien-invasive-speci
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - gbif:global-register-of-introduced-and-invasi
@@ -49,14 +48,6 @@ names:
     - gbif:taxref
     - gbif:united-kingdom-species-inventory-uksi
     - wikidata:Q137931
-  - name: common hyssop
-    sources:
-    - gbif:checklist-of-vermont-species
-    status: needs-review
-  - name: Garden Hyssop
-    sources:
-    - gbif:checklist-of-vermont-species
-    status: needs-review
   et:
   - name: Harilik iisop
     preferred: true
@@ -282,5 +273,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

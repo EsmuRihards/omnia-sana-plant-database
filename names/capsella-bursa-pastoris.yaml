@@ -66,6 +66,7 @@ names:
     preferred: true
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
     - gbif:global-register-of-introduced-and-invasi
     - gbif:united-kingdom-species-inventory-uksi
     - wikidata:Q27264
@@ -83,21 +84,27 @@ names:
   - name: Case Weed
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Pepper Plant
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Shepher's Tree
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: shepherds purse
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: shepherd’s-purse
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Common Shepherd's-purse
     sources:
     - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
   - name: Shepherdspurse
     sources:
     - gbif:checklist-of-vermont-species
@@ -110,12 +117,12 @@ names:
     - gbif:martha-s-vineyard-species-checklist
   - name: Pickpocket
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   - name: Common Shepherd's Purse
     sources:
-    - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+    status: needs-review
   et:
   - name: Harilik hiirekõrv
     preferred: true
@@ -481,5 +488,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

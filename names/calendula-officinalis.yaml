@@ -73,6 +73,12 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:world-register-of-marine-species
+  - name: garden marigold
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:united-kingdom-species-inventory-uksi
   - name: Scotch-marigold
     sources:
     - col:catalogue-of-life
@@ -84,41 +90,26 @@ names:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
-  - name: garden marigold
+  - name: pot-marigold
     sources:
     - col:catalogue-of-life
-    - gbif:database-of-vascular-plants-of-canada-va
-    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
   - name: garden-marigold
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
+  - name: Scotch marigold
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
   - name: Scottish-marigold
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
-  - name: pot-marigold
-    sources:
-    - col:catalogue-of-life
-    - gbif:grin-taxonomy
-  - name: Scotch marigold
-    sources:
-    - col:catalogue-of-life
-    - gbif:database-of-vascular-plants-of-canada-va
-  - name: English Marigold
-    sources:
-    - gbif:checklist-of-vermont-species
-    status: needs-review
-  - name: Common Pot Marigold
-    sources:
-    - gbif:checklist-of-vermont-species
-    status: needs-review
-  - name: Garden-pot Marigold
-    sources:
-    - gbif:checklist-of-vermont-species
-    status: needs-review
   et:
   - name: harilik saialill
     preferred: true
@@ -460,5 +451,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-08-01'
-last_verified: '2026-08-01'
+  last_run: '2026-09-01'
+last_verified: '2026-09-01'

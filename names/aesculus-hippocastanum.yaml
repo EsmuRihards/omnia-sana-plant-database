@@ -90,12 +90,6 @@ names:
     - gbif:grin-taxonomy
     - gbif:united-kingdom-species-inventory-uksi
     - wikidata:Q26899
-  - name: conker-tree
-    sources:
-    - col:catalogue-of-life
-    - gbif:checklist-of-vermont-species
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-    - gbif:martha-s-vineyard-species-checklist
   - name: Spanish chestnut
     sources:
     - col:catalogue-of-life
@@ -121,6 +115,11 @@ names:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
+  - name: conker-tree
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:martha-s-vineyard-species-checklist
   - name: Horse-chestnut [tree]
     sources:
     - gbif:checklist-of-vermont-species
@@ -180,14 +179,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:database-of-vascular-plants-of-canada-va
-  - name: marronnier-commun
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: mmarronnier-d'inde
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Marronier commun
     sources:
     - col:catalogue-of-life
@@ -198,6 +189,14 @@ names:
   - name: marronnier dinde
     sources:
     - gbif:belgian-species-list
+    status: needs-review
+  - name: marronnier-commun
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: mmarronnier-d'inde
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   - name: Marronnier d'Inde, Marronnier commun
     sources:
@@ -296,20 +295,20 @@ names:
     - gbif:daisie-inventory-of-alien-invasive-speci
     status: needs-review
   pt:
-  - name: castanheiro-da-índia
+  - name: Castanheiro-da-índia
     preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - wikipedia:pt
-  - name: castanha-da-índia
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Castanheiro da Índia
     sources:
     - col:catalogue-of-life
     - gbif:the-iucn-red-list-of-threatened-species
+  - name: castanha-da-índia
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Castan sălbatic
     preferred: true
@@ -333,22 +332,22 @@ names:
     - wikidata:Q26899
     - wikipedia:sl
   es:
-  - name: castaño-loco
+  - name: castaño de Indias
     preferred: true
     sources:
     - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: castaño de Indias
-    sources:
-    - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: castaño-de-indias
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Castaño de la India
     sources:
     - col:catalogue-of-life
+  - name: castaño-loco
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: castaño-de-indias
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   sv:
   - name: hästkastanj
     preferred: true
@@ -496,5 +495,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

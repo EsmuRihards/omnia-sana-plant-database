@@ -55,12 +55,12 @@ names:
   - name: Blackcurrant
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - wikipedia:en
   - name: Black currant
     sources:
+    - col:catalogue-of-life
     - gbif:belgian-species-list
     - gbif:checklist-of-vermont-species
     - gbif:daisie-inventory-of-alien-invasive-speci
@@ -234,10 +234,6 @@ names:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - gbif:grin-taxonomy
-  - name: groselha-preta
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: groselheira-negra
     sources:
     - col:catalogue-of-life
@@ -245,6 +241,10 @@ names:
   - name: Cassis
     sources:
     - wikipedia:pt
+    status: needs-review
+  - name: groselha-preta
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   ro:
   - name: Coacăz negru
@@ -274,14 +274,14 @@ names:
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - gbif:grin-taxonomy
     - wikidata:Q146604
-  - name: grosella-negra
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: grosellero negro
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
+  - name: grosella-negra
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   sv:
   - name: svarta vinbär
     preferred: true
@@ -419,5 +419,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

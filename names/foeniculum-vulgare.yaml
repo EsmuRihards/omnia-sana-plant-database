@@ -181,20 +181,20 @@ names:
     - wikipedia:pt
   - name: erva-doce
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: funcho-doce
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: funcho-amargo
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: funcho-de-cabeça
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Fenicul
     sources:
@@ -327,5 +327,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

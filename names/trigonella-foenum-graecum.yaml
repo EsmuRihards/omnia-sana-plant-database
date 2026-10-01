@@ -11,10 +11,19 @@ names:
     sources:
     - wikipedia:bg
     status: needs-review
-  cs:
-  - name: Pískavice řecké seno
+  hr:
+  - name: Piskavica
     preferred: true
     sources:
+    - col:catalogue-of-life
+  - name: Grčka djetelina
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: pískavice řecké seno
+    preferred: true
+    sources:
+    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - wikipedia:cs
   - name: pískavice
@@ -71,6 +80,9 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q133205
+  - name: Classical Fenugreek
+    sources:
+    - col:catalogue-of-life
   et:
   - name: Põld-lambalääts
     sources:
@@ -99,6 +111,9 @@ names:
     - gbif:daisie-inventory-of-alien-invasive-speci
     - gbif:info-flora-schweiz-fabaceae
     - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Sénégrain
+    sources:
+    - col:catalogue-of-life
   - name: Trigonelle fenugrec, Fenugrec, Sénégrain
     sources:
     - gbif:taxref
@@ -174,6 +189,9 @@ names:
     - col:catalogue-of-life
     - wikidata:Q133205
     - wikipedia:pt
+  - name: Alforvas
+    sources:
+    - col:catalogue-of-life
   ro:
   - name: Schinduf
     preferred: true
@@ -199,6 +217,9 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
+  - name: fenogreco
+    sources:
+    - col:catalogue-of-life
   sv:
   - name: bockhornsklöver
     preferred: true
@@ -237,9 +258,10 @@ names:
     - gbif:backbone
   sr:
   - name: Пискавица
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:sr
-    status: needs-review
   is:
   - name: Grikkjasmári
     sources:
@@ -298,5 +320,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

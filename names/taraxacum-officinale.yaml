@@ -372,12 +372,12 @@ names:
     - wikidata:Q131219
   - name: amargosa
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: dente-de-leão-dos-jardins
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Păpădie
     preferred: true
@@ -677,5 +677,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

@@ -2,6 +2,10 @@ id: olea-europaea
 scientific_name: Olea europaea
 names:
   bg:
+  - name: Маслина
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   - name: Европейска маслина
     sources:
     - wikipedia:bg
@@ -13,9 +17,10 @@ names:
     status: needs-review
   cs:
   - name: Olivovník evropský
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:cs
-    status: needs-review
   da:
   - name: Oliven
     sources:
@@ -23,9 +28,13 @@ names:
     status: needs-review
   nl:
   - name: Olijf
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:nl
-    status: needs-review
+  - name: Olijfboom
+    sources:
+    - col:catalogue-of-life
   en:
   - name: Olive
     preferred: true
@@ -38,6 +47,9 @@ names:
     - gbif:taxref
     - gbif:world-register-of-marine-species
     - wikidata:Q37083
+  - name: European olive
+    sources:
+    - col:catalogue-of-life
   - name: oliveleaf
     sources:
     - col:catalogue-of-life
@@ -46,16 +58,33 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
+  - name: Wild Olive
+    sources:
+    - col:catalogue-of-life
+  - name: African Olive
+    sources:
+    - col:catalogue-of-life
   - name: olive tree
     sources:
     - wikidata:Q37083
     status: needs-review
   et:
   - name: Harilik õlipuu
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:et
-    status: needs-review
+  - name: Õlipuu
+    sources:
+    - col:catalogue-of-life
   fi:
+  - name: Öljypuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: öljyoliivipuu
+    sources:
+    - col:catalogue-of-life
   - name: Oliivi
     sources:
     - wikipedia:fi
@@ -69,6 +98,12 @@ names:
     - gbif:flora-helvetica-oleaceae
     - gbif:grin-taxonomy
     - gbif:info-flora-schweiz-oleaceae
+  - name: Oliviers
+    sources:
+    - col:catalogue-of-life
+  - name: Olivier européen
+    sources:
+    - col:catalogue-of-life
   - name: Olivier d'Europe
     sources:
     - gbif:iucn-red-list-vascular-plants-2018-metro
@@ -88,14 +123,19 @@ names:
     - gbif:info-flora-schweiz-oleaceae
   el:
   - name: Ελιά
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:el
-    status: needs-review
   hu:
   - name: Olajfa
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:hu
-    status: needs-review
+  - name: Európai olajfa
+    sources:
+    - col:catalogue-of-life
   ga:
   - name: Ológ
     sources:
@@ -108,21 +148,35 @@ names:
     - col:catalogue-of-life
     - gbif:flora-helvetica-oleaceae
     - gbif:info-flora-schweiz-oleaceae
+  - name: Ulivo
+    sources:
+    - col:catalogue-of-life
+  - name: Olivo (pianta coltivata) ovv. Oleastro (pianta selvatica)
+    sources:
+    - col:catalogue-of-life
   lv:
   - name: Olīvkoks
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:lv
-    status: needs-review
   lt:
   - name: Europinis alyvmedis
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:lt
-    status: needs-review
+  mt:
+  - name: Żebbuġ
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   pl:
   - name: Oliwka europejska
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:pl
-    status: needs-review
   pt:
   - name: oliveira
     preferred: true
@@ -131,32 +185,43 @@ names:
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - gbif:grin-taxonomy
     - wikipedia:pt
-  - name: oliva
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: azeitona
     sources:
     - col:catalogue-of-life
+  - name: Zambujeiro
+    sources:
+    - col:catalogue-of-life
+  - name: oliva
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Măslin
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:ro
-    status: needs-review
   sk:
   - name: Oliva európska
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:sk
-    status: needs-review
   sl:
   - name: Oljka
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:sl
-    status: needs-review
   - name: divja oljka
     sources:
+    - col:catalogue-of-life
     - wikidata:Q37083
-    status: needs-review
+  es:
+  - name: acebuche
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   sv:
   - name: olivträd
     preferred: true
@@ -167,14 +232,28 @@ names:
     - wikipedia:sv
   ru:
   - name: Олива европейская
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:ru
-    status: needs-review
+  - name: Олива культурная
+    sources:
+    - col:catalogue-of-life
+  - name: Оливковое дерево
+    sources:
+    - col:catalogue-of-life
+  - name: Маслина европейская
+    sources:
+    - col:catalogue-of-life
   uk:
   - name: Маслина європейська
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:uk
-    status: needs-review
+  - name: Оливкове дерево європейське
+    sources:
+    - col:catalogue-of-life
   'no':
   - name: oliven
     preferred: true
@@ -194,9 +273,10 @@ names:
     status: needs-review
   sq:
   - name: Ulliri
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:sq
-    status: needs-review
   is:
   - name: Ólífa
     sources:
@@ -204,19 +284,25 @@ names:
     status: needs-review
   ca:
   - name: Olivera
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:ca
-    status: needs-review
   be:
   - name: Масліна еўрапейская
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:be
-    status: needs-review
+  - name: Масліна культурная
+    sources:
+    - col:catalogue-of-life
   tr:
   - name: Zeytin
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:tr
-    status: needs-review
 verification:
   checked_languages:
   - bg
@@ -257,5 +343,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

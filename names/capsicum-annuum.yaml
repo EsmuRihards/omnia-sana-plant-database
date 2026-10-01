@@ -69,10 +69,6 @@ names:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - wikidata:Q1380
-  - name: chili
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Chilli
     sources:
     - col:catalogue-of-life
@@ -93,10 +89,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: sweet-pepper
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Seasoning Pepper
     sources:
     - col:catalogue-of-life
@@ -116,6 +108,10 @@ names:
   - name: sweet bell pepper
     sources:
     - col:catalogue-of-life
+  - name: chili
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: paprika
     sources:
     - gbif:flora-e-funga-do-brasil-lista-oficial
@@ -123,6 +119,10 @@ names:
   - name: Pimiento
     sources:
     - gbif:the-iucn-red-list-of-threatened-species
+    status: needs-review
+  - name: sweet-pepper
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   - name: Capsicum, Chili, Green capsicum, Hot pepper, Paprika, Sweet pepper
     sources:
@@ -260,7 +260,7 @@ names:
     - col:catalogue-of-life
     - wikipedia:pl
   pt:
-  - name: pimentão
+  - name: Pimentão
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -268,55 +268,55 @@ names:
     - wikidata:Q1380
   - name: pimenta
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: chili-chili
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: pimentão-doce
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: pimentão-miúdo
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: pimenta-pintada
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: pimenta-do-diabo
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: pimenta-de-cheiro
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: pimenta-jalapenho
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: pimentão-quadrado
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: pimenta-ornamental
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: pimenta-urariquena
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: pimenteiro-doce
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
     status: needs-review
+  - name: pimenta-do-diabo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: pimenteiro-comum
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: pimenta-de-cheiro
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pimenta-jalapenho
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pimentão-quadrado
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pimenta-ornamental
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pimenta-urariquena
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   - name: pimenteiro-cornicabra
     sources:
@@ -340,17 +340,13 @@ names:
     - wikipedia:sl
     status: needs-review
   es:
-  - name: jalapeño
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Ají
+    preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:listado-de-plantas-de-uso-y-aprovechamie
     - wikidata:Q1380
-  - name: chile
+  - name: Chile
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
@@ -359,10 +355,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:the-iucn-red-list-of-threatened-species
-  - name: chile-dulce
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Pimiento Morrón
     sources:
     - col:catalogue-of-life
@@ -391,6 +383,10 @@ names:
   - name: Chili Pepper
     sources:
     - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: jalapeño
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   - name: Tun
     sources:
@@ -459,6 +455,10 @@ names:
   - name: Ají rocoto
     sources:
     - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: chile-dulce
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   - name: Chimidu diu
     sources:
@@ -569,9 +569,10 @@ names:
     - wikipedia:be
   tr:
   - name: Biber
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
-    status: needs-review
 verification:
   checked_languages:
   - bg
@@ -612,5 +613,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

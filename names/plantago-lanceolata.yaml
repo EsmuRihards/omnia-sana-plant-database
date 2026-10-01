@@ -317,12 +317,8 @@ names:
     - wikidata:Q157408
     - wikipedia:pl
   pt:
-  - name: plantagem
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: tanchagem-menor
+    preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
@@ -333,6 +329,10 @@ names:
   - name: Tanchagem
     sources:
     - col:catalogue-of-life
+  - name: plantagem
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Patlagină îngustă
     preferred: true
@@ -532,5 +532,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

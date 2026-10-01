@@ -115,6 +115,11 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
+  - name: red bearberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q208032
   - name: bear-berry
     sources:
     - col:catalogue-of-life
@@ -156,10 +161,6 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Red Bearberry
-    sources:
-    - gbif:martha-s-vineyard-species-checklist
-    - wikidata:Q208032
   - name: Common Bearberry
     sources:
     - gbif:martha-s-vineyard-species-checklist
@@ -325,8 +326,8 @@ names:
     - wikipedia:sl
   - name: zimzeleni gornik
     sources:
+    - col:catalogue-of-life
     - wikidata:Q208032
-    status: needs-review
   es:
   - name: gayuba
     preferred: true
@@ -483,5 +484,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

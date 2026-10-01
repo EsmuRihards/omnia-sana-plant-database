@@ -26,14 +26,13 @@ names:
     status: needs-review
   pt:
   - name: unha-do-diabo
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: garra-do-diabo
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   sv:
   - name: Djävulsklo
     sources:
@@ -79,5 +78,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

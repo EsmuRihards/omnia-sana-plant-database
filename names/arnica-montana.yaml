@@ -1,6 +1,11 @@
 id: arnica-montana
 scientific_name: Arnica montana
 names:
+  bg:
+  - name: Планинска арника
+    sources:
+    - wikipedia:bg
+    status: needs-review
   hr:
   - name: Gorska moravka
     sources:
@@ -312,5 +317,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

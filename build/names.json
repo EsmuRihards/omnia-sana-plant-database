@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/names@1",
- "count": 185,
+ "count": 186,
  "languages": [
   {
    "code": "bg",
@@ -277,39 +277,39 @@
  ],
  "coverage": {
   "bg": 64,
-  "hr": 66,
-  "cs": 157,
+  "hr": 67,
+  "cs": 159,
   "da": 142,
-  "nl": 150,
-  "en": 182,
-  "et": 124,
-  "fi": 166,
+  "nl": 151,
+  "en": 183,
+  "et": 125,
+  "fi": 167,
   "fr": 168,
   "de": 167,
   "el": 58,
-  "hu": 120,
+  "hu": 121,
   "ga": 40,
   "it": 133,
-  "lv": 77,
+  "lv": 78,
   "lt": 121,
-  "mt": 4,
-  "pl": 147,
-  "pt": 133,
-  "ro": 69,
-  "sk": 136,
+  "mt": 5,
+  "pl": 148,
+  "pt": 120,
+  "ro": 70,
+  "sk": 137,
   "sl": 122,
-  "es": 130,
+  "es": 131,
   "sv": 172,
-  "ru": 145,
-  "uk": 114,
+  "ru": 146,
+  "uk": 115,
   "no": 147,
-  "sr": 62,
+  "sr": 63,
   "bs": 17,
-  "sq": 17,
+  "sq": 18,
   "is": 36,
-  "ca": 93,
-  "be": 74,
-  "tr": 95
+  "ca": 96,
+  "be": 75,
+  "tr": 102
  },
  "plants": [
   {
@@ -1014,7 +1014,7 @@
     ],
     "pt": [
      {
-      "name": "milefólio",
+      "name": "Milefólio",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -1022,126 +1022,6 @@
        "gbif:grin-taxonomy",
        "gbif:the-iucn-red-list-of-threatened-species",
        "wikipedia:pt"
-      ]
-     },
-     {
-      "name": "erva-de-cortaduras",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-do-bom-deus",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-dos-carpinteiros",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-dos-carreteiros",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-dos-golpes",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-dos-militares",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-dos-soldados",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "feiteirinha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "mil-folhas",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "milefólio-em-rama",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "nariz-sangrento",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "novalgina",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "prazer-das-damas",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pronto-alívio",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "sanguinária",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -2708,24 +2588,6 @@
       ]
      }
     ],
-    "pt": [
-     {
-      "name": "salsa-rasteira",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pequena-angélica",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     }
-    ],
     "sk": [
      {
       "name": "Kozonoha hostcová",
@@ -2985,7 +2847,6 @@
       "name": "conker-tree",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:martha-s-vineyard-species-checklist"
@@ -3118,22 +2979,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:database-of-vascular-plants-of-canada-va"
-      ]
-     },
-     {
-      "name": "marronnier-commun",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "mmarronnier-d'inde",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -3283,20 +3128,12 @@
     ],
     "pt": [
      {
-      "name": "castanheiro-da-índia",
+      "name": "Castanheiro-da-índia",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikipedia:pt"
-      ]
-     },
-     {
-      "name": "castanha-da-índia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -3348,16 +3185,8 @@
     ],
     "es": [
      {
-      "name": "castaño-loco",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "castaño de Indias",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
@@ -3368,14 +3197,6 @@
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "castaño-de-indias",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -5282,6 +5103,15 @@
        "wikipedia:ca"
       ]
      }
+    ],
+    "tr": [
+     {
+      "name": "Hatmi Çiçeği",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
     ]
    }
   },
@@ -5673,30 +5503,6 @@
       ]
      },
      {
-      "name": "aneto",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "endio",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "endão",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "Funcho-bastardo",
       "preferred": false,
       "sources": [
@@ -5737,7 +5543,7 @@
     ],
     "es": [
      {
-      "name": "eneldo",
+      "name": "aneto",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -5753,6 +5559,14 @@
      },
      {
       "name": "anís alemán",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "eneldo",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -5904,8 +5718,24 @@
     ],
     "en": [
      {
-      "name": "Garden angelica",
+      "name": "Angelica",
       "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "angelique",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "Garden angelica",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:belgian-species-list",
@@ -5915,14 +5745,6 @@
        "gbif:taxref",
        "gbif:united-kingdom-species-inventory-uksi",
        "wikidata:Q207745"
-      ]
-     },
-     {
-      "name": "angelique",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:grin-taxonomy"
       ]
      },
      {
@@ -6122,16 +5944,8 @@
     ],
     "pt": [
      {
-      "name": "Angelica",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "erva-do-espírito-santo",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life"
       ]
@@ -6618,46 +6432,6 @@
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy"
       ]
-     },
-     {
-      "name": "bardana",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "gobô",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "labaça",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "orelha-de-gigante",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pega-pega",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
      }
     ],
     "es": [
@@ -6674,24 +6448,9 @@
       "name": "bardana",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "gobó",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "lampazo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -6700,14 +6459,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "lampazo-mayor",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -7147,16 +6898,6 @@
       ]
      }
     ],
-    "pt": [
-     {
-      "name": "baldrame",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     }
-    ],
     "sk": [
      {
       "name": "Lopúch menší",
@@ -7179,7 +6920,7 @@
     ],
     "es": [
      {
-      "name": "bardana",
+      "name": "lampazo",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -7192,14 +6933,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "lampazo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -7528,9 +7261,10 @@
       ]
      },
      {
-      "name": "Red Bearberry",
+      "name": "red bearberry",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:martha-s-vineyard-species-checklist",
        "wikidata:Q208032"
       ]
@@ -7831,6 +7565,14 @@
        "col:catalogue-of-life",
        "wikidata:Q208032",
        "wikipedia:sl"
+      ]
+     },
+     {
+      "name": "zimzeleni gornik",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q208032"
       ]
      }
     ],
@@ -8399,7 +8141,6 @@
       "name": "absinthe",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:database-of-vascular-plants-of-canada-va",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
@@ -8465,7 +8206,6 @@
       "name": "common-wormwood",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
@@ -8512,6 +8252,7 @@
       "name": "Absinthe",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:database-of-vascular-plants-of-canada-va",
        "wikipedia:fr"
@@ -8621,108 +8362,12 @@
       ]
      },
      {
-      "name": "acinto",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "alenjo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "aluína",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "alvina",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "alvínia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemísia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-de-santa-margarida",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-dos-velhos",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-santa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "losma",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "losna",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "losna-maior",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "sintro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -9063,134 +8708,6 @@
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "absinto-selvagem",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "anador",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemigem",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemígem",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemígio",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemísia-comum",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemísia-verdadeira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemísia-vulgar",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "camomila-do-campo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-de-fogo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-de-são-joão",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "estragão",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "flor-de-são-joão",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "losna",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "losna-brava",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "rainha-das-ervas",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -11118,7 +10635,7 @@
     ],
     "pt": [
      {
-      "name": "borragem",
+      "name": "Borragem",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -11132,30 +10649,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "borracha-chimarrona",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "foligem",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "perpétua",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -11793,78 +11286,6 @@
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
-     },
-     {
-      "name": "bonina",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "flor-de-todos-os-males",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malmequer",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malmequer-do-jardim",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malmequer-pequeno",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "maravilha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "maravilha-dos-jardins",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "margarida-dourada",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "verrucária",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
      }
     ],
     "ro": [
@@ -12088,14 +11509,6 @@
       ]
      },
      {
-      "name": "chai",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "common tea",
       "preferred": false,
       "sources": [
@@ -12247,7 +11660,7 @@
     ],
     "pt": [
      {
-      "name": "chá-da-índia",
+      "name": "chá-da-Índia",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -13177,7 +12590,7 @@
     ],
     "pt": [
      {
-      "name": "cânhamo",
+      "name": "Cânhamo",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -13185,15 +12598,7 @@
       ]
      },
      {
-      "name": "cânhamo-verdadeiro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "maconha",
+      "name": "Maconha",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -14111,14 +13516,6 @@
       ]
      },
      {
-      "name": "chili",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "chilipiquin",
       "preferred": false,
       "sources": [
@@ -14196,14 +13593,6 @@
        "gbif:grin-taxonomy",
        "gbif:taxref",
        "gbif:united-kingdom-species-inventory-uksi"
-      ]
-     },
-     {
-      "name": "sweet-pepper",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -14379,100 +13768,12 @@
     ],
     "pt": [
      {
-      "name": "pimentão",
+      "name": "Pimentão",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikidata:Q1380"
-      ]
-     },
-     {
-      "name": "chili-chili",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimenta",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimenta-de-cheiro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimenta-do-diabo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimenta-jalapenho",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimenta-ornamental",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimenta-pintada",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimenta-urariquena",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimentão-doce",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimentão-miúdo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pimentão-quadrado",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -14498,11 +13799,12 @@
     ],
     "es": [
      {
-      "name": "jalapeño",
+      "name": "Ají",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
+       "gbif:listado-de-plantas-de-uso-y-aprovechamie",
+       "wikidata:Q1380"
       ]
      },
      {
@@ -14510,15 +13812,6 @@
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Ají",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:listado-de-plantas-de-uso-y-aprovechamie",
-       "wikidata:Q1380"
       ]
      },
      {
@@ -14550,20 +13843,12 @@
       ]
      },
      {
-      "name": "chile",
+      "name": "Chile",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikidata:Q1380"
-      ]
-     },
-     {
-      "name": "chile-dulce",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -14696,6 +13981,16 @@
       "sources": [
        "col:catalogue-of-life",
        "wikipedia:be"
+      ]
+     }
+    ],
+    "tr": [
+     {
+      "name": "Biber",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci"
       ]
      }
     ]
@@ -15057,11 +14352,11 @@
     ],
     "pt": [
      {
-      "name": "cáriz",
+      "name": "alcarávia",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
+       "gbif:grin-taxonomy"
       ]
      },
      {
@@ -15069,46 +14364,6 @@
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "alcarávia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "cominho",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "cominho-armênio",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "cuminho",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "cúmel",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -17121,7 +16376,7 @@
     ],
     "tr": [
      {
-      "name": "Kırlangıç otu",
+      "name": "Kırlangıç Otu",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -17575,63 +16830,23 @@
     ],
     "pt": [
      {
-      "name": "canela",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "canela-da-índia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "canela-de-tubo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "canela-do-ceilão",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "canela-verdadeira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "caneleira-da-índia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "caneleiro",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
       ]
      },
      {
-      "name": "cinamomo",
+      "name": "canela-da-Índia",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:flora-e-funga-do-brasil-lista-oficial"
+      ]
+     },
+     {
+      "name": "Canela-verdadeira",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -17661,8 +16876,16 @@
     ],
     "es": [
      {
-      "name": "canelero de Ceilán",
+      "name": "canela",
       "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "canelero de Ceilán",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
@@ -17784,6 +17007,16 @@
     "wikidata": "Q47685"
    },
    "names": {
+    "cs": [
+     {
+      "name": "Kávovník arabský",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:cs"
+      ]
+     }
+    ],
     "da": [
      {
       "name": "Arabicakaffe",
@@ -17847,14 +17080,6 @@
        "col:catalogue-of-life",
        "gbif:grin-taxonomy",
        "gbif:the-iucn-red-list-of-threatened-species"
-      ]
-     },
-     {
-      "name": "coffee-tree",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -18000,34 +17225,10 @@
       ]
      },
      {
-      "name": "arabian-coffee",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "cafeeiro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "cafeiro",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "café-arábica",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -18036,16 +17237,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     }
-    ],
-    "sk": [
-     {
-      "name": "Kávovník arabský",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:sk"
       ]
      }
     ],
@@ -18135,8 +17326,15 @@
     ],
     "tr": [
      {
-      "name": "Arap Kahvesi",
+      "name": "Kahve",
       "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Arap Kahvesi",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life"
       ]
@@ -18294,6 +17492,15 @@
       "sources": [
        "col:catalogue-of-life",
        "wikipedia:pl"
+      ]
+     }
+    ],
+    "sk": [
+     {
+      "name": "žezlovka hmyzová",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -18627,22 +17834,6 @@
       ]
      },
      {
-      "name": "coendro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "coentro-das-hortas",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "coriandro",
       "preferred": false,
       "sources": [
@@ -18650,14 +17841,6 @@
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "cuentro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -19088,14 +18271,6 @@
        "col:catalogue-of-life",
        "wikidata:Q159553"
       ]
-     },
-     {
-      "name": "pirliteiro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
      }
     ],
     "sk": [
@@ -19232,6 +18407,15 @@
     "ca": [
      {
       "name": "espinalb centreeuropeu",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "tr": [
+     {
+      "name": "Bahçe Alıcı",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life"
@@ -20219,14 +19403,6 @@
        "wikidata:Q132624",
        "wikipedia:pt"
       ]
-     },
-     {
-      "name": "cuminho",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
      }
     ],
     "ro": [
@@ -20342,6 +19518,7 @@
       "name": "Kimyon",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q132624",
        "wikipedia:tr"
       ]
@@ -21119,7 +20296,7 @@
     ],
     "pt": [
      {
-      "name": "cenoura",
+      "name": "Cenoura",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -21724,40 +20901,6 @@
       "sources": [
        "col:catalogue-of-life",
        "wikipedia:pl"
-      ]
-     }
-    ],
-    "pt": [
-     {
-      "name": "equinácea",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "cometa-roxo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "equinácea-púrpura",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "flor-roxa-cônica",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -24513,16 +23656,8 @@
     ],
     "pt": [
      {
-      "name": "globo-do-sol",
+      "name": "Papoula-da-Califórnia",
       "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "papoula-da-califórnia",
-      "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
@@ -25133,6 +24268,15 @@
        "wikipedia:ca"
       ]
      }
+    ],
+    "tr": [
+     {
+      "name": "Mavi Okaliptus",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
     ]
    }
   },
@@ -25368,6 +24512,15 @@
     "sr": [
      {
       "name": "Видац",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "ca": [
+     {
+      "name": "Eufràsia",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life"
@@ -25785,6 +24938,13 @@
      },
      {
       "name": "altarreina",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "reina de los prados",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
@@ -26396,38 +25556,6 @@
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy",
        "wikipedia:pt"
-      ]
-     },
-     {
-      "name": "erva-doce",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "funcho-amargo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "funcho-de-cabeça",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "funcho-doce",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -28345,6 +27473,15 @@
        "wikipedia:be"
       ]
      }
+    ],
+    "tr": [
+     {
+      "name": "Mübarekotu",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
     ]
    }
   },
@@ -29343,6 +28480,60 @@
    }
   },
   {
+   "id": "gymnema-sylvestre",
+   "scientific_name": "Gymnema sylvestre",
+   "common_slug": "gymnema",
+   "family": "Apocynaceae",
+   "wp_post_id": null,
+   "english": "Gymnema",
+   "external_ids": {
+    "gbif": 8040540,
+    "powo": "urn:lsid:ipni.org:names:60454719-2",
+    "wikidata": "Q2725835"
+   },
+   "names": {
+    "en": [
+     {
+      "name": "Gymnema",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "cowplant",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q2725835"
+      ]
+     },
+     {
+      "name": "miracle fruit",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q2725835"
+      ]
+     },
+     {
+      "name": "miracle-fruit",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "ram's-horn",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ]
+   }
+  },
+  {
    "id": "hamamelis-virginiana",
    "scientific_name": "Hamamelis virginiana",
    "common_slug": "witch-hazel",
@@ -29660,6 +28851,16 @@
       ]
      }
     ],
+    "uk": [
+     {
+      "name": "Гамамеліс віргінський",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:uk"
+      ]
+     }
+    ],
     "no": [
      {
       "name": "virginiatrollhassel",
@@ -29704,24 +28905,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     }
-    ],
-    "pt": [
-     {
-      "name": "unha-do-diabo",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "garra-do-diabo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ]
@@ -29914,32 +29097,6 @@
        "col:catalogue-of-life",
        "gbif:flora-helvetica-araliaceae",
        "gbif:info-flora-schweiz-araliaceae"
-      ]
-     }
-    ],
-    "pt": [
-     {
-      "name": "hera",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "hedera-variegata",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "hera-inglesa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -30998,7 +30155,6 @@
       "name": "Hops",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:integrated-taxonomic-information-system-",
@@ -31131,14 +30287,6 @@
        "gbif:grin-taxonomy",
        "wikidata:Q104212",
        "wikipedia:pt"
-      ]
-     },
-     {
-      "name": "vinha-do-norte",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -32009,7 +31157,7 @@
     ],
     "pt": [
      {
-      "name": "erva-de-são-joão",
+      "name": "Erva-de-são-joão",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -32032,14 +31180,6 @@
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "mil-furada",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -32668,6 +31808,15 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:the-iucn-red-list-of-threatened-species"
+      ]
+     }
+    ],
+    "sk": [
+     {
+      "name": "ryšavec šikmý",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -34430,30 +33579,6 @@
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikidata:Q157626"
       ]
-     },
-     {
-      "name": "lamium",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "lâmio-branco",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "urtiga-de-abelha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
      }
     ],
     "ro": [
@@ -34889,7 +34014,7 @@
     ],
     "pt": [
      {
-      "name": "loureiro",
+      "name": "Loureiro",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -34900,15 +34025,7 @@
       ]
      },
      {
-      "name": "dafre",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "louro",
+      "name": "Louro",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -35123,7 +34240,6 @@
       "name": "English Lavendar",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "wikidata:Q42081"
       ]
@@ -35217,24 +34333,6 @@
        "col:catalogue-of-life",
        "gbif:flora-helvetica-lamiaceae",
        "gbif:info-flora-schweiz-lamiaceae"
-      ]
-     }
-    ],
-    "pt": [
-     {
-      "name": "lavanda",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "alfazema",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -36188,14 +35286,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "linho-galego",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -37303,14 +36393,6 @@
        "col:catalogue-of-life",
        "wikidata:Q156835"
       ]
-     },
-     {
-      "name": "mauve-verte",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
      }
     ],
     "de": [
@@ -37417,128 +36499,8 @@
     ],
     "pt": [
      {
-      "name": "malva",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-alta",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-das-boticas",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-das-hortas",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-de-banho",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-de-botica",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-de-casa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-grande",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "malva-maior",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-rosa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-selvagem",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-silvestre",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-verde",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malva-vulgar",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "rosa-chinesa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "rosa-marinha",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
@@ -37584,8 +36546,15 @@
     ],
     "es": [
      {
-      "name": "Malva de campo",
+      "name": "malva",
       "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Malva de campo",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life"
       ]
@@ -38043,71 +37012,7 @@
       ]
      },
      {
-      "name": "bom-homem",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "erva-virgem",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "hortelã-de-folha-grossa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "hortelã-do-maranhão",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "hortelã-grande",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "malvão",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "marroio-branco",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "marroio-comum",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "marrolo",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -38640,10 +37545,9 @@
     ],
     "pt": [
      {
-      "name": "camomila-vulgar",
+      "name": "Camomila-vulgar",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikipedia:pt"
       ]
@@ -38652,73 +37556,9 @@
       "name": "camomila",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy",
        "wikidata:Q28437"
-      ]
-     },
-     {
-      "name": "camomila-comum",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "camomila-dos-alemães",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "camomila-legitima",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "camomila-legítima",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "camomila-romana",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "camomila-verdadeira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "matricária",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "maçanilha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -38759,6 +37599,14 @@
        "col:catalogue-of-life",
        "gbif:grin-taxonomy",
        "wikidata:Q28437"
+      ]
+     },
+     {
+      "name": "camomila",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
       ]
      }
     ],
@@ -38894,11 +37742,10 @@
     ],
     "tr": [
      {
-      "name": "Mayıs papatyası",
+      "name": "mayıs papatyası",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:tr"
+       "col:catalogue-of-life"
       ]
      }
     ]
@@ -39028,10 +37875,9 @@
       ]
      },
      {
-      "name": "bee herb",
+      "name": "Bee Herb",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:martha-s-vineyard-species-checklist"
       ]
@@ -39082,6 +37928,7 @@
       "name": "Melissa",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:grin-taxonomy",
        "gbif:martha-s-vineyard-species-checklist"
@@ -39149,14 +37996,6 @@
        "gbif:iucn-red-list-vascular-plants-2018-metro",
        "gbif:red-list-vascular-plants-2016-switzerlan",
        "wikipedia:fr"
-      ]
-     },
-     {
-      "name": "melisse",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -39281,86 +38120,6 @@
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy",
        "wikipedia:pt"
-      ]
-     },
-     {
-      "name": "chá-da-frança",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "chá-de-tabuleiro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "cidreira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "cidreira-verdadeira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "cidrilha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-cidreira-verdadeira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-luísa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "melissa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "melissa-romana",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "melitéia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -39918,13 +38677,6 @@
       ]
      },
      {
-      "name": "Cerasee",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
       "name": "Lizzard Food",
       "preferred": false,
       "sources": [
@@ -40091,14 +38843,6 @@
        "col:catalogue-of-life",
        "wikipedia:pt"
       ]
-     },
-     {
-      "name": "melão-são-caetano",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
      }
     ],
     "sk": [
@@ -40140,6 +38884,13 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "Cundeamor.",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      },
      {
@@ -40224,14 +38975,11 @@
     ],
     "en": [
      {
-      "name": "Indian mulberry",
+      "name": "Noni",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:global-register-of-introduced-and-invasi",
-       "gbif:integrated-taxonomic-information-system-",
-       "gbif:taxref",
-       "wikidata:Q234238"
+       "gbif:checklist-dutch-caribbean-species-regist"
       ]
      },
      {
@@ -40266,20 +39014,23 @@
       ]
      },
      {
-      "name": "indian-mulberry",
+      "name": "Indian mulberry",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:global-register-of-introduced-and-invasi",
+       "gbif:integrated-taxonomic-information-system-",
+       "gbif:taxref",
+       "wikidata:Q234238"
+      ]
+     },
+     {
+      "name": "Indian-mulberry",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "noni-tree",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -40294,7 +39045,7 @@
     ],
     "fr": [
      {
-      "name": "nono",
+      "name": "Nono",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -40338,7 +39089,6 @@
       "name": "Noni",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikipedia:pt"
       ]
@@ -40828,26 +39578,10 @@
       ]
      },
      {
-      "name": "catária",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "Erva-de-gato",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "erva-dos-gatos",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -41581,7 +40315,8 @@
       "name": "Базилик священный",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life"
+       "col:catalogue-of-life",
+       "wikidata:Q960124"
       ]
      }
     ]
@@ -42177,6 +40912,42 @@
     "wikidata": "Q37083"
    },
    "names": {
+    "bg": [
+     {
+      "name": "Маслина",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "cs": [
+     {
+      "name": "Olivovník evropský",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:cs"
+      ]
+     }
+    ],
+    "nl": [
+     {
+      "name": "Olijf",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:nl"
+      ]
+     },
+     {
+      "name": "Olijfboom",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
     "en": [
      {
       "name": "Olive",
@@ -42193,6 +40964,20 @@
       ]
      },
      {
+      "name": "African Olive",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "European olive",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
       "name": "oliveleaf",
       "preferred": false,
       "sources": [
@@ -42206,6 +40991,46 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "Wild Olive",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "et": [
+     {
+      "name": "Harilik õlipuu",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:et"
+      ]
+     },
+     {
+      "name": "Õlipuu",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "fi": [
+     {
+      "name": "Öljypuu",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "öljyoliivipuu",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -42227,6 +41052,20 @@
       "sources": [
        "gbif:iucn-red-list-vascular-plants-2018-metro",
        "gbif:taxref"
+      ]
+     },
+     {
+      "name": "Olivier européen",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Oliviers",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -42251,6 +41090,33 @@
       ]
      }
     ],
+    "el": [
+     {
+      "name": "Ελιά",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:el"
+      ]
+     }
+    ],
+    "hu": [
+     {
+      "name": "Olajfa",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:hu"
+      ]
+     },
+     {
+      "name": "Európai olajfa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
     "it": [
      {
       "name": "Olivo",
@@ -42259,6 +41125,59 @@
        "col:catalogue-of-life",
        "gbif:flora-helvetica-oleaceae",
        "gbif:info-flora-schweiz-oleaceae"
+      ]
+     },
+     {
+      "name": "Olivo (pianta coltivata) ovv. Oleastro (pianta selvatica)",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Ulivo",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "lv": [
+     {
+      "name": "Olīvkoks",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:lv"
+      ]
+     }
+    ],
+    "lt": [
+     {
+      "name": "Europinis alyvmedis",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:lt"
+      ]
+     }
+    ],
+    "mt": [
+     {
+      "name": "Żebbuġ",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "pl": [
+     {
+      "name": "Oliwka europejska",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:pl"
       ]
      }
     ],
@@ -42281,11 +41200,57 @@
       ]
      },
      {
-      "name": "oliva",
+      "name": "Zambujeiro",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "ro": [
+     {
+      "name": "Măslin",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:ro"
+      ]
+     }
+    ],
+    "sk": [
+     {
+      "name": "Oliva európska",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:sk"
+      ]
+     }
+    ],
+    "sl": [
+     {
+      "name": "Oljka",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:sl"
+      ]
+     },
+     {
+      "name": "divja oljka",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
+       "wikidata:Q37083"
+      ]
+     }
+    ],
+    "es": [
+     {
+      "name": "acebuche",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -42301,6 +41266,54 @@
       ]
      }
     ],
+    "ru": [
+     {
+      "name": "Олива европейская",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:ru"
+      ]
+     },
+     {
+      "name": "Маслина европейская",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Олива культурная",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Оливковое дерево",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "uk": [
+     {
+      "name": "Маслина європейська",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:uk"
+      ]
+     },
+     {
+      "name": "Оливкове дерево європейське",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
     "no": [
      {
       "name": "oliven",
@@ -42309,6 +41322,53 @@
        "col:catalogue-of-life",
        "gbif:backbone",
        "wikipedia:no"
+      ]
+     }
+    ],
+    "sq": [
+     {
+      "name": "Ulliri",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:sq"
+      ]
+     }
+    ],
+    "ca": [
+     {
+      "name": "Olivera",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:ca"
+      ]
+     }
+    ],
+    "be": [
+     {
+      "name": "Масліна еўрапейская",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:be"
+      ]
+     },
+     {
+      "name": "Масліна культурная",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "tr": [
+     {
+      "name": "Zeytin",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:tr"
       ]
      }
     ]
@@ -42739,14 +41799,6 @@
        "gbif:grin-taxonomy",
        "wikipedia:pt"
       ]
-     },
-     {
-      "name": "manjerona-verdadeira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
      }
     ],
     "sk": [
@@ -42761,16 +41813,8 @@
     ],
     "es": [
      {
-      "name": "amaraco",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "mejorana",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
@@ -42823,6 +41867,16 @@
        "gbif:backbone",
        "gbif:red-list-vascular-plants-2021-norway-r-d",
        "wikipedia:no"
+      ]
+     }
+    ],
+    "ca": [
+     {
+      "name": "Marduix",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:ca"
       ]
      }
     ],
@@ -43028,14 +42082,6 @@
       ]
      },
      {
-      "name": "majorlaine-sauvage",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "Marjolaine",
       "preferred": false,
       "sources": [
@@ -43215,18 +42261,9 @@
       "name": "orégano",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikidata:Q134283",
        "wikipedia:pt"
-      ]
-     },
-     {
-      "name": "manjerona-selvagem",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -44310,16 +43347,6 @@
       ]
      }
     ],
-    "pt": [
-     {
-      "name": "flor-da-paixão",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     }
-    ],
     "sl": [
      {
       "name": "Zdravilna pasijonka",
@@ -45138,7 +44165,6 @@
       "name": "salsa",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikidata:Q25284",
@@ -45146,34 +44172,9 @@
       ]
      },
      {
-      "name": "cheiro-verde",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "salsa-comum",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "salsa-hortense",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "salsinha",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikidata:Q25284"
       ]
@@ -45364,7 +44365,7 @@
     ],
     "pt": [
      {
-      "name": "anis",
+      "name": "erva-doce",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -45374,18 +44375,9 @@
       ]
      },
      {
-      "name": "aniz",
+      "name": "anis",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-doce",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy"
@@ -45408,6 +44400,7 @@
       "name": "anis",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:dyntaxa-svensk-taxonomisk-databas",
        "gbif:grin-taxonomy",
        "wikipedia:sv"
@@ -46567,11 +45560,11 @@
     ],
     "pt": [
      {
-      "name": "plantagem",
+      "name": "tanchagem-menor",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
+       "gbif:grin-taxonomy"
       ]
      },
      {
@@ -46587,14 +45580,6 @@
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "tanchagem-menor",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:grin-taxonomy"
       ]
      }
     ],
@@ -47144,18 +46129,9 @@
       ]
      },
      {
-      "name": "plantagem",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "tanchagem",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikidata:Q157154"
       ]
@@ -48315,16 +47291,6 @@
       ]
      }
     ],
-    "pt": [
-     {
-      "name": "prímula",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     }
-    ],
     "ro": [
      {
       "name": "Ciuboțica cucului",
@@ -48490,6 +47456,15 @@
        "wikipedia:be"
       ]
      }
+    ],
+    "tr": [
+     {
+      "name": "Tutya",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
     ]
    }
   },
@@ -48627,10 +47602,9 @@
       ]
      },
      {
-      "name": "common heal-all",
+      "name": "Common Heal-all",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:martha-s-vineyard-species-checklist"
       ]
@@ -48644,10 +47618,9 @@
       ]
      },
      {
-      "name": "common self-heal",
+      "name": "Common Self-heal",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:martha-s-vineyard-species-checklist"
       ]
@@ -51412,7 +50385,6 @@
       "name": "Blackcurrant",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikipedia:en"
@@ -51422,6 +50394,7 @@
       "name": "Black currant",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:belgian-species-list",
        "gbif:checklist-of-vermont-species",
        "gbif:daisie-inventory-of-alien-invasive-speci",
@@ -51670,14 +50643,6 @@
       ]
      },
      {
-      "name": "groselha-preta",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "groselheira-negra",
       "preferred": false,
       "sources": [
@@ -51727,14 +50692,6 @@
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy",
        "wikidata:Q146604"
-      ]
-     },
-     {
-      "name": "grosella-negra",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -51900,7 +50857,6 @@
       "name": "Pasja ruža",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q146066",
        "wikipedia:hr"
       ]
@@ -52312,27 +51268,18 @@
     ],
     "pt": [
      {
-      "name": "rosa-canina",
+      "name": "Roseira brava",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Rosa-canina",
+      "preferred": false,
+      "sources": [
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikidata:Q146066"
-      ]
-     },
-     {
-      "name": "rosa-mosqueta",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "Roseira brava",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -53854,35 +52801,11 @@
     ],
     "pt": [
      {
-      "name": "azedinha",
+      "name": "azeda-brava",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "azeda-brava",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "azeda-miúda",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "lingua-de-vaca",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -54567,6 +53490,7 @@
       "name": "Chia",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:checklist-dutch-species-register-nederla",
        "wikipedia:nl"
       ]
@@ -54603,16 +53527,6 @@
        "col:catalogue-of-life",
        "gbif:the-finbif-checklist-of-finnish-species",
        "wikipedia:fi"
-      ]
-     }
-    ],
-    "pt": [
-     {
-      "name": "Chia",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -54998,30 +53912,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "Chá-da-Grécia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "Sálvia-comum",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "Sálvia-das-boticas",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -55639,16 +54529,6 @@
       ]
      }
     ],
-    "pt": [
-     {
-      "name": "sabugueiro",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     }
-    ],
     "sl": [
      {
       "name": "Črni bezeg",
@@ -55671,7 +54551,7 @@
       ]
      },
      {
-      "name": "Hyll",
+      "name": "hyll",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -55679,7 +54559,7 @@
       ]
      },
      {
-      "name": "Vanlig fläder",
+      "name": "vanlig fläder",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -55687,7 +54567,7 @@
       ]
      },
      {
-      "name": "Äkta fläder",
+      "name": "äkta fläder",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -56167,16 +55047,8 @@
     ],
     "pt": [
      {
-      "name": "saboeira",
+      "name": "Erva-saboeira",
       "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-saboeira",
-      "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
@@ -56187,22 +55059,6 @@
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "saboneira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "saponária",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -57874,16 +56730,8 @@
     ],
     "pt": [
      {
-      "name": "silibina",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "Cardo leiteiro",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:the-iucn-red-list-of-threatened-species"
@@ -57905,19 +56753,10 @@
       ]
      },
      {
-      "name": "cardo-santo",
+      "name": "cardo-mariano",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "silimarina",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -57953,11 +56792,11 @@
     ],
     "es": [
      {
-      "name": "cardo-asnal",
+      "name": "cardo lechero",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
+       "gbif:grin-taxonomy"
       ]
      },
      {
@@ -57976,27 +56815,11 @@
       ]
      },
      {
-      "name": "cardo lechero",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:grin-taxonomy"
-      ]
-     },
-     {
       "name": "cardo mariano",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "cardo-mariano",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -58340,24 +57163,6 @@
        "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:pl"
-      ]
-     }
-    ],
-    "pt": [
-     {
-      "name": "tango",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "vara-dourada",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -59148,35 +57953,11 @@
       ]
      },
      {
-      "name": "erva-de-passarinho",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "esparguta",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "wikidata:Q158711"
-      ]
-     },
-     {
-      "name": "esperguta",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "hortelã",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -59195,14 +57976,6 @@
       ]
      },
      {
-      "name": "mirurje",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "morrião-branco",
       "preferred": false,
       "sources": [
@@ -59212,14 +57985,6 @@
      },
      {
       "name": "morrião-de-inverno",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "morrião-de-passarinho",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -60671,91 +59436,11 @@
       ]
      },
      {
-      "name": "capim-roxo-da-rússia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "confrei-russo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "consolda-maior",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "consólida-do-cáucaso",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "consólida-maior",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-do-cardeal",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "leite-vegetal",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "leite-vegetal-da-rússia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "língua-de-vaca",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "orelha-de-burro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "orelha-de-vaca",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -61224,21 +59909,11 @@
     "wikidata": "Q818481"
    },
    "names": {
-    "bg": [
-     {
-      "name": "Моминска вратига",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
     "cs": [
      {
-      "name": "řimbaba obecná",
+      "name": "Řimbaba obecná",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:cs"
       ]
@@ -61321,19 +59996,11 @@
     ],
     "et": [
      {
-      "name": "lõhnav neitsikummel",
+      "name": "Lõhnav neitsikummel",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:et"
-      ]
-     },
-     {
-      "name": "lõhnav püreeter",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -61437,22 +60104,6 @@
        "gbif:flora-helvetica-asteraceae",
        "gbif:info-flora-schweiz-asteraceae"
       ]
-     },
-     {
-      "name": "Mutterkraut-Wucherblume",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "el": [
-     {
-      "name": "Βάλσαμο",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
      }
     ],
     "hu": [
@@ -61462,13 +60113,6 @@
       "sources": [
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:hu"
-      ]
-     },
-     {
-      "name": "őszi varádics",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -61490,23 +60134,6 @@
        "gbif:flora-helvetica-asteraceae",
        "gbif:info-flora-schweiz-asteraceae"
       ]
-     },
-     {
-      "name": "Partenio",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "lt": [
-     {
-      "name": "Vaistinis skaistenis",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:daisie-inventory-of-alien-invasive-speci"
-      ]
      }
     ],
     "pl": [
@@ -61514,16 +60141,8 @@
       "name": "Wrotycz maruna",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:pl"
-      ]
-     },
-     {
-      "name": "Złocień maruna",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -61532,115 +60151,8 @@
       "name": "rainha-das-ervas",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemeija",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "Artemigem-dos-jardins",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "artemijo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemisia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "artemiza",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "macela-da-serra",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "margaridinha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "margaridinha-branca",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "matricária-cheirosa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "olguinha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "Samambainha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "sk": [
-     {
-      "name": "Rimbaba obyčajná",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:sk"
-      ]
-     }
-    ],
-    "sl": [
-     {
-      "name": "beli vratič",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q818481"
       ]
      }
     ],
@@ -61651,20 +60163,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "Artemisa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Santa María",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -61699,24 +60197,7 @@
     ],
     "ru": [
      {
-      "name": "Пижма девичья",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ru"
-      ]
-     },
-     {
       "name": "piretrum devičij",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "uk": [
-     {
-      "name": "Пижмо дівоче",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life"
@@ -61739,22 +60220,6 @@
        "gbif:backbone",
        "gbif:nordic-crop-wild-relative-cwr-checklist",
        "gbif:red-list-vascular-plants-2021-norway-r-d"
-      ]
-     }
-    ],
-    "tr": [
-     {
-      "name": "Gümüşdüğme",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "beyaz papatya",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ]
@@ -61913,7 +60378,6 @@
       "name": "Tasny",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:martha-s-vineyard-species-checklist"
@@ -62110,25 +60574,8 @@
     ],
     "pt": [
      {
-      "name": "erva-dos-vermes",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:daisie-inventory-of-alien-invasive-speci",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "anil-bravo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "atanásia",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
@@ -62138,96 +60585,15 @@
       "name": "atanásia-das-boticas",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
-      "name": "botão-amarelo",
+      "name": "erva-dos-vermes",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "catinga-de-mulata",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-contra-vermes",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-lombrigueira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "palma",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "palma-de-santa-rita",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pluma",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "pluminha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "tanaceto-comum",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "tanásia",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "tasneira",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
@@ -62354,6 +60720,16 @@
       "preferred": true,
       "sources": [
        "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "tr": [
+     {
+      "name": "Solucan Otu",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:tr"
       ]
      }
     ]
@@ -62866,22 +61242,6 @@
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikidata:Q131219"
       ]
-     },
-     {
-      "name": "amargosa",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "dente-de-leão-dos-jardins",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
      }
     ],
     "ro": [
@@ -63317,14 +61677,6 @@
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "cacau-da-mata",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -63989,14 +62341,6 @@
       ]
      },
      {
-      "name": "common-thyme",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "English Thyme",
       "preferred": false,
       "sources": [
@@ -64019,14 +62363,6 @@
        "gbif:the-iucn-red-list-of-threatened-species",
        "gbif:united-kingdom-species-inventory-uksi",
        "wikidata:Q148668"
-      ]
-     },
-     {
-      "name": "garden-thyme",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -64091,14 +62427,6 @@
        "gbif:grin-taxonomy",
        "gbif:the-iucn-red-list-of-threatened-species",
        "wikidata:Q148668"
-      ]
-     },
-     {
-      "name": "thym",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -64254,14 +62582,6 @@
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:grin-taxonomy",
        "wikidata:Q148668"
-      ]
-     },
-     {
-      "name": "poejo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -67144,11 +65464,28 @@
       ]
      }
     ],
-    "cs": [
+    "hr": [
      {
-      "name": "Pískavice řecké seno",
+      "name": "Piskavica",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Grčka djetelina",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "cs": [
+     {
+      "name": "pískavice řecké seno",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:cs"
       ]
@@ -67203,6 +65540,13 @@
        "gbif:taxref",
        "gbif:united-kingdom-species-inventory-uksi",
        "wikipedia:en"
+      ]
+     },
+     {
+      "name": "Classical Fenugreek",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      },
      {
@@ -67262,6 +65606,13 @@
        "gbif:grin-taxonomy",
        "wikidata:Q133205",
        "wikipedia:fr"
+      ]
+     },
+     {
+      "name": "Sénégrain",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      },
      {
@@ -67340,6 +65691,13 @@
        "wikidata:Q133205",
        "wikipedia:pt"
       ]
+     },
+     {
+      "name": "Alforvas",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
      }
     ],
     "ro": [
@@ -67371,6 +65729,13 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "fenogreco",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -67427,6 +65792,16 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:backbone"
+      ]
+     }
+    ],
+    "sr": [
+     {
+      "name": "Пискавица",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:sr"
       ]
      }
     ],
@@ -69023,14 +67398,6 @@
       ]
      },
      {
-      "name": "common-blueberry",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "dwarf bilberry",
       "preferred": false,
       "sources": [
@@ -69188,16 +67555,8 @@
     ],
     "pt": [
      {
-      "name": "arando",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "mirtilo",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
@@ -69238,14 +67597,6 @@
       "sources": [
        "col:catalogue-of-life",
        "wikidata:Q5413585"
-      ]
-     },
-     {
-      "name": "mirtillo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],
@@ -69728,24 +68079,8 @@
     ],
     "pt": [
      {
-      "name": "valeriana",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "erva-de-gato",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "VALERIANA-DAS-BOTICAS",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:lista-vermelha-da-flora-vascular-de-port"
@@ -69792,6 +68127,13 @@
       "sources": [
        "col:catalogue-of-life",
        "wikidata:Q157819"
+      ]
+     },
+     {
+      "name": "Valeriana",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -73102,24 +71444,6 @@
       ]
      }
     ],
-    "pt": [
-     {
-      "name": "violeta",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "violeta-de-cheiro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     }
-    ],
     "sk": [
      {
       "name": "Fialka voňavá",
@@ -73508,16 +71832,6 @@
       ]
      }
     ],
-    "pt": [
-     {
-      "name": "amor-perfeito",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     }
-    ],
     "sv": [
      {
       "name": "styvmorsviol",
@@ -73806,16 +72120,8 @@
     ],
     "pt": [
      {
-      "name": "angola",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
       "name": "Agno-casto",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life"
       ]
@@ -74012,34 +72318,10 @@
     ],
     "pt": [
      {
-      "name": "Ashwagandha",
+      "name": "Jimsém-indiano",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "ginseng-indiano",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "Jimsém-indiano",
-      "preferred": false,
-      "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "whitania",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      }
     ],

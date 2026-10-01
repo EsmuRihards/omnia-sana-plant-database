@@ -256,20 +256,8 @@ names:
     - col:catalogue-of-life
     - wikipedia:pl
   pt:
-  - name: silibina
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: silimarina
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: cardo-santo
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Cardo leiteiro
+    preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:the-iucn-red-list-of-threatened-species
@@ -277,9 +265,24 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
+  - name: cardo-mariano
+    sources:
+    - col:catalogue-of-life
   - name: cardo-de-santa-maria
     sources:
     - col:catalogue-of-life
+  - name: silibina
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: silimarina
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: cardo-santo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Armurariu
     preferred: true
@@ -303,12 +306,8 @@ names:
     - wikidata:Q193798
     - wikipedia:sl
   es:
-  - name: cardo-asnal
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: cardo lechero
+    preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
@@ -316,10 +315,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: cardo-mariano
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: cardo de María
     sources:
     - col:catalogue-of-life
@@ -327,6 +322,14 @@ names:
   - name: cardo asnal
     sources:
     - col:catalogue-of-life
+  - name: cardo-asnal
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: cardo-mariano
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   sv:
   - name: mariatistel
     preferred: true
@@ -433,5 +436,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

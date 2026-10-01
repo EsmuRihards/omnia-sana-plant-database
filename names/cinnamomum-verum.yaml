@@ -123,39 +123,39 @@ names:
     - col:catalogue-of-life
     - wikipedia:pl
   pt:
-  - name: canela
+  - name: caneleiro
     preferred: true
     sources:
     - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: canela-da-Índia
+    sources:
+    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Canela-verdadeira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: canela
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: cinamomo
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: caneleiro
-    sources:
-    - col:catalogue-of-life
-    - gbif:grin-taxonomy
+    status: needs-review
   - name: canela-de-tubo
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: canela-da-índia
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: canela-do-ceilão
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: canela-verdadeira
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: caneleira-da-índia
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   sk:
   - name: Škoricovník cejlónsky
     preferred: true
@@ -173,15 +173,15 @@ names:
     - wikipedia:sl
     status: needs-review
   es:
-  - name: canelero de Ceilán
+  - name: canela
     preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: canela
+  - name: canelero de Ceilán
     sources:
+    - col:catalogue-of-life
     - gbif:grin-taxonomy
-    status: needs-review
   sv:
   - name: äkta kanel
     preferred: true
@@ -276,5 +276,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

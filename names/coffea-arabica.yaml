@@ -8,9 +8,10 @@ names:
     status: needs-review
   cs:
   - name: Kávovník arabský
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:cs
-    status: needs-review
   da:
   - name: Arabicakaffe
     preferred: true
@@ -47,10 +48,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: coffee-tree
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Kona Coffee
     sources:
     - col:catalogue-of-life
@@ -60,6 +57,10 @@ names:
     - gbif:integrated-taxonomic-information-system-
     - gbif:the-iucn-red-list-of-threatened-species
     - wikidata:Q47685
+  - name: coffee-tree
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: Arabica coffee, Arabian coffee, Coffee tree, Coffee,
     sources:
     - gbif:taxref
@@ -156,31 +157,30 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: cafeeiro
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: caféeiro
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: café-arábica
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: arabian-coffee
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: cafeiro
     sources:
     - col:catalogue-of-life
+  - name: cafeeiro
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: café-arábica
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: arabian-coffee
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   sk:
   - name: Kávovník arabský
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:sk
+    status: needs-review
   sl:
   - name: Arabski kavovec
     sources:
@@ -231,8 +231,11 @@ names:
     sources:
     - col:catalogue-of-life
   tr:
-  - name: Arap Kahvesi
+  - name: Kahve
     preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Arap Kahvesi
     sources:
     - col:catalogue-of-life
 verification:
@@ -275,5 +278,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

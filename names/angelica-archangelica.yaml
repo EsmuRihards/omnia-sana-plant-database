@@ -41,8 +41,12 @@ names:
     - wikidata:Q207745
     - wikipedia:nl
   en:
-  - name: Garden angelica
+  - name: Angelica
     preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Garden angelica
     sources:
     - col:catalogue-of-life
     - gbif:belgian-species-list
@@ -69,10 +73,6 @@ names:
   - name: Ætihvönn
     sources:
     - col:catalogue-of-life
-  - name: Angelica
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
   et:
   - name: Harilik kikkaputk
     preferred: true
@@ -188,14 +188,14 @@ names:
     sources:
     - col:catalogue-of-life
   pt:
-  - name: Angelica
+  - name: erva-do-espírito-santo
     preferred: true
     sources:
     - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: erva-do-espírito-santo
+  - name: Angelica
     sources:
-    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Angelică
     sources:
@@ -364,5 +364,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

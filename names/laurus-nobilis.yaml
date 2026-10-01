@@ -225,7 +225,7 @@ names:
     - col:catalogue-of-life
     - wikipedia:pl
   pt:
-  - name: loureiro
+  - name: Loureiro
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -233,16 +233,12 @@ names:
     - gbif:grin-taxonomy
     - gbif:the-iucn-red-list-of-threatened-species
     - wikipedia:pt
-  - name: louro
+  - name: Louro
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - gbif:grin-taxonomy
     - gbif:the-iucn-red-list-of-threatened-species
-  - name: dafre
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: louro-comum
     sources:
     - col:catalogue-of-life
@@ -252,6 +248,10 @@ names:
   - name: louro-de-apolônio
     sources:
     - col:catalogue-of-life
+  - name: dafre
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Dafin
     sources:
@@ -384,5 +384,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

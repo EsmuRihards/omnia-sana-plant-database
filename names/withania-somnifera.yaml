@@ -106,22 +106,22 @@ names:
     - col:catalogue-of-life
     - wikipedia:pl
   pt:
-  - name: Ashwagandha
+  - name: Jimsém-indiano
     preferred: true
     sources:
     - col:catalogue-of-life
+  - name: Ashwagandha
+    sources:
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: whitania
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: ginseng-indiano
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: Jimsém-indiano
-    sources:
-    - col:catalogue-of-life
+    status: needs-review
   sk:
   - name: vitánia opojná
     preferred: true
@@ -203,5 +203,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

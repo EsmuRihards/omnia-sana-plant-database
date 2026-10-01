@@ -161,10 +161,6 @@ names:
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:grin-taxonomy
     - wikidata:Q156835
-  - name: mauve-verte
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Mauve sylvestre
     sources:
     - col:catalogue-of-life
@@ -172,6 +168,10 @@ names:
   - name: mauve d’Alger
     sources:
     - col:catalogue-of-life
+  - name: mauve-verte
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: Mauve sylvestre, Grande mauve, Mauve sauvage
     sources:
     - gbif:taxref
@@ -264,71 +264,71 @@ names:
     - wikidata:Q156835
     - wikipedia:pl
   pt:
-  - name: malva
+  - name: malva-maior
     preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-alta
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-rosa
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: malva-maior
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-verde
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-grande
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-vulgar
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: rosa-chinesa
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: rosa-marinha
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-de-casa
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-de-banho
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-selvagem
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-de-botica
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-silvestre
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-das-hortas
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malva-das-boticas
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Nalbă
     preferred: true
@@ -351,8 +351,11 @@ names:
     - wikidata:Q156835
     - wikipedia:sl
   es:
-  - name: Malva de campo
+  - name: malva
     preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Malva de campo
     sources:
     - col:catalogue-of-life
   - name: malmá
@@ -723,5 +726,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

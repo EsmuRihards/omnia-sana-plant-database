@@ -109,18 +109,17 @@ names:
     - gbif:grin-taxonomy
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
-  - name: Tasny
-    sources:
-    - col:catalogue-of-life
-    - gbif:checklist-of-vermont-species
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-    - gbif:martha-s-vineyard-species-checklist
   - name: golden buttons
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:world-register-of-marine-species
+  - name: Tasny
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:martha-s-vineyard-species-checklist
   et:
   - name: Harilik soolikarohi
     preferred: true
@@ -279,76 +278,74 @@ names:
     - col:catalogue-of-life
     - wikipedia:pl
   pt:
-  - name: erva-dos-vermes
+  - name: atanásia
     preferred: true
     sources:
     - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: erva-dos-vermes
+    sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
     - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: atanásia-das-boticas
     sources:
-    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: palma
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: pluma
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: tanásia
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: atanásia
-    sources:
-    - col:catalogue-of-life
-    - gbif:grin-taxonomy
+    status: needs-review
   - name: pluminha
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: tasneira
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: anil-bravo
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: botão-amarelo
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: tanaceto-comum
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: catinga-de-mulata
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: erva-lombrigueira
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: erva-contra-vermes
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: palma-de-santa-rita
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: tanaceto
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
     status: needs-review
+  - name: tasneira
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: anil-bravo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: botão-amarelo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: tanaceto-comum
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: catinga-de-mulata
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: erva-lombrigueira
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: erva-contra-vermes
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: erva-de-são-marcos
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: palma-de-santa-rita
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   ro:
   - name: Vetrice
@@ -504,10 +501,11 @@ names:
     - wikipedia:ca
     status: needs-review
   tr:
-  - name: Solucan otu
+  - name: Solucan Otu
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:tr
-    status: needs-review
 verification:
   checked_languages:
   - bg
@@ -548,5 +546,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

@@ -116,6 +116,11 @@ names:
     sources:
     - wikipedia:uk
     status: needs-review
+  be:
+  - name: Ажгон
+    sources:
+    - wikipedia:be
+    status: needs-review
   tr:
   - name: trakispermum
     preferred: true
@@ -161,5 +166,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

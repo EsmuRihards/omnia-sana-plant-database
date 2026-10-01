@@ -30,8 +30,12 @@ names:
     - wikipedia:nl
     status: needs-review
   en:
-  - name: Indian mulberry
+  - name: Noni
     preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+  - name: Indian mulberry
     sources:
     - col:catalogue-of-life
     - gbif:global-register-of-introduced-and-invasi
@@ -42,7 +46,7 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: indian-mulberry
+  - name: Indian-mulberry
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
@@ -52,10 +56,6 @@ names:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
     - wikidata:Q234238
-  - name: noni-tree
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: canary-wood
     sources:
     - col:catalogue-of-life
@@ -67,9 +67,9 @@ names:
   - name: French mulberry
     sources:
     - col:catalogue-of-life
-  - name: Noni
+  - name: noni-tree
     sources:
-    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   - name: cheese fruit
     sources:
@@ -86,7 +86,7 @@ names:
     - wikipedia:fi
     status: needs-review
   fr:
-  - name: nono
+  - name: Nono
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -155,7 +155,6 @@ names:
   - name: Noni
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - wikipedia:pt
   - name: pau-azeitona
@@ -262,5 +261,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

@@ -404,7 +404,7 @@ names:
     - wikidata:Q158289
     status: needs-review
   pt:
-  - name: erva-de-são-joão
+  - name: Erva-de-são-joão
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -416,16 +416,16 @@ names:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - wikidata:Q158289
-  - name: mil-furada
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Hipericão-de-S.João
     sources:
     - col:catalogue-of-life
   - name: hipérico
     sources:
     - wikidata:Q158289
+    status: needs-review
+  - name: mil-furada
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   - name: erva de São João
     sources:
@@ -834,5 +834,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

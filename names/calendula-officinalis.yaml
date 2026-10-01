@@ -249,43 +249,23 @@ names:
     - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: bonina
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: malmequer
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: maravilha
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: verrucária
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: malmequer-pequeno
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: margarida-dourada
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: malmequer-do-jardim
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: maravilha-dos-jardins
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: flor-de-todos-os-males
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: maravilhas
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: verrucária
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   - name: boas-noites
     sources:
@@ -294,6 +274,26 @@ names:
   - name: belas-noites
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: malmequer-pequeno
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: margarida-dourada
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: malmequer-do-jardim
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: maravilha-dos-jardins
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: flor-de-todos-os-males
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   ro:
   - name: Gălbenele
@@ -451,5 +451,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

@@ -278,19 +278,19 @@ names:
     - wikidata:Q157819
     - wikipedia:pl
   pt:
-  - name: valeriana
+  - name: VALERIANA-DAS-BOTICAS
     preferred: true
     sources:
     - col:catalogue-of-life
+    - gbif:lista-vermelha-da-flora-vascular-de-port
+  - name: valeriana
+    sources:
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: erva-de-gato
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: VALERIANA-DAS-BOTICAS
-    sources:
-    - col:catalogue-of-life
-    - gbif:lista-vermelha-da-flora-vascular-de-port
+    status: needs-review
   ro:
   - name: Valeriană
     preferred: true
@@ -318,6 +318,9 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q157819
+  - name: Valeriana
+    sources:
+    - col:catalogue-of-life
   sv:
   - name: läkevänderot
     preferred: true
@@ -507,5 +510,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

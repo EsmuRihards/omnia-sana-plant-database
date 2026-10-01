@@ -177,8 +177,8 @@ names:
     - gbif:database-of-vascular-plants-of-canada-va
   - name: majorlaine-sauvage
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: Marjolaine sauvage
     sources:
     - wikidata:Q134283
@@ -300,7 +300,6 @@ names:
   - name: orégano
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - wikidata:Q134283
     - wikipedia:pt
@@ -308,10 +307,6 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q134283
-  - name: manjerona-selvagem
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: Oregano
     sources:
     - wikidata:Q134283
@@ -323,6 +318,10 @@ names:
   - name: orégãos
     sources:
     - wikidata:Q134283
+    status: needs-review
+  - name: manjerona-selvagem
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   ro:
   - name: Oregano
@@ -647,5 +646,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

@@ -246,7 +246,7 @@ names:
     - col:catalogue-of-life
     - wikipedia:pl
   pt:
-  - name: borragem
+  - name: Borragem
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -258,16 +258,16 @@ names:
     - gbif:grin-taxonomy
   - name: foligem
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: perpétua
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: borracha-chimarrona
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Limba mielului
     preferred: true
@@ -439,5 +439,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

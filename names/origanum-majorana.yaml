@@ -193,8 +193,8 @@ names:
     - wikipedia:pt
   - name: manjerona-verdadeira
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Maghiran
     sources:
@@ -212,15 +212,15 @@ names:
     - wikipedia:sl
     status: needs-review
   es:
-  - name: amaraco
+  - name: mejorana
     preferred: true
     sources:
     - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: mejorana
-    sources:
-    - col:catalogue-of-life
     - gbif:grin-taxonomy
+  - name: amaraco
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   sv:
   - name: mejram
     preferred: true
@@ -267,9 +267,10 @@ names:
     status: needs-review
   ca:
   - name: Marduix
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:ca
-    status: needs-review
   be:
   - name: Маяран
     preferred: true
@@ -322,5 +323,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

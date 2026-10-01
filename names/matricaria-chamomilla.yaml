@@ -258,52 +258,47 @@ names:
     - wikidata:Q28437
     status: needs-review
   pt:
-  - name: camomila-vulgar
+  - name: Camomila-vulgar
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - wikipedia:pt
   - name: camomila
     sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
     - gbif:grin-taxonomy
     - wikidata:Q28437
-  - name: maçanilha
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: matricária
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: camomila-comum
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: camomila-romana
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: camomila-legítima
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: camomila-verdadeira
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: camomila-dos-alemães
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: camomila-legitima
-    sources:
-    - col:catalogue-of-life
   - name: camomilha
     sources:
     - wikidata:Q28437
+    status: needs-review
+  - name: maçanilha
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: matricária
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: camomila-comum
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: camomila-romana
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: camomila-legítima
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: camomila-verdadeira
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: camomila-dos-alemães
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
     status: needs-review
   ro:
   - name: Mușețel
@@ -335,8 +330,8 @@ names:
     - wikidata:Q28437
   - name: camomila
     sources:
+    - col:catalogue-of-life
     - gbif:grin-taxonomy
-    status: needs-review
   sv:
   - name: kamomill
     preferred: true
@@ -416,11 +411,10 @@ names:
     - col:catalogue-of-life
     - wikipedia:be
   tr:
-  - name: Mayıs papatyası
+  - name: mayıs papatyası
     preferred: true
     sources:
     - col:catalogue-of-life
-    - wikipedia:tr
 verification:
   checked_languages:
   - bg
@@ -461,5 +455,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

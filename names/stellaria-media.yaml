@@ -290,26 +290,14 @@ names:
     - gbif:grin-taxonomy
     - wikidata:Q158711
     - wikipedia:pt
-  - name: hortelã
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: merugem
     sources:
     - col:catalogue-of-life
     - wikidata:Q158711
-  - name: mirurje
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: esparguta
     sources:
     - col:catalogue-of-life
     - wikidata:Q158711
-  - name: esperguta
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: morrião-branco
     sources:
     - col:catalogue-of-life
@@ -322,10 +310,6 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q158711
-  - name: erva-de-passarinho
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: morrião-de-inverno
     sources:
     - col:catalogue-of-life
@@ -334,10 +318,6 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q158711
-  - name: morrião-de-passarinho
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: alsine
     sources:
     - col:catalogue-of-life
@@ -347,6 +327,26 @@ names:
   - name: morrião-dos-passarinhos
     sources:
     - col:catalogue-of-life
+  - name: hortelã
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: mirurje
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: esperguta
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: erva-de-passarinho
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: morrião-de-passarinho
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   ro:
   - name: Răcovină
     preferred: true
@@ -909,5 +909,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

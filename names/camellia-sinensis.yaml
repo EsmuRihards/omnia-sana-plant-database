@@ -50,10 +50,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: chai
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-e-funga-do-brasil-lista-oficial
   - name: teabush
     sources:
     - col:catalogue-of-life
@@ -70,6 +66,10 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
+  - name: chai
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
   - name: Tea plant
     sources:
     - wikidata:Q101815
@@ -162,7 +162,7 @@ names:
     - col:catalogue-of-life
     - wikipedia:pl
   pt:
-  - name: chá-da-índia
+  - name: chá-da-Índia
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -280,6 +280,11 @@ names:
     sources:
     - wikidata:Q101815
     status: needs-review
+  be:
+  - name: Гарбата кітайская
+    sources:
+    - wikipedia:be
+    status: needs-review
   tr:
   - name: Çay
     preferred: true
@@ -327,5 +332,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-09-01'
-last_verified: '2026-09-01'
+  last_run: '2026-10-01'
+last_verified: '2026-10-01'

@@ -153,6 +153,9 @@ indications:
   reference_ids:
   - REF-0505
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1884
+  - REF-1885
 - condition: cognitive-function
   note: Cognitive-function support (concentration and mental performance)
   reference_ids:
@@ -171,6 +174,8 @@ indications:
   - REF-0505
   - REF-0506
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1883
 - condition: hot-flashes
   note: Relieves menopausal symptoms - hot flushes, sweating and palpitations (RCT)
   reference_ids:
@@ -198,11 +203,17 @@ indications:
   - REF-0505
   - REF-0506
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1883
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0505
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1882
+  - REF-1884
+  - REF-1885
 - condition: stress
   note: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
   reference_ids:

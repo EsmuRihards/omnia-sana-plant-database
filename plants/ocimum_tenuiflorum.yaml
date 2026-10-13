@@ -169,9 +169,10 @@ indications:
   status: verified
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0467
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0467
 - condition: blood-sugar
   note: Supports blood-sugar control (lowers fasting and post-meal glucose)
   reference_ids:
@@ -195,8 +196,10 @@ indications:
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0466
-  - REF-0467
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0467
+  - REF-1435
 - condition: fatigue
   note: inferred from adaptogen action
   reference_ids:
@@ -206,13 +209,15 @@ indications:
   note: Immunomodulatory / immune support
   reference_ids:
   - REF-0466
-  - REF-0467
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0467
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0467
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0467
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
@@ -220,9 +225,10 @@ indications:
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0467
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0467
 - condition: stress
   note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
   reference_ids:
@@ -260,7 +266,7 @@ drug_class_interactions:
   mechanism: Holy basil (tulsi) can lower fasting and after-meal blood glucose in people with type 2 diabetes;
     combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.
   reference_ids:
-  - REF-2499
+  - REF-0466
   - REF-2498
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)

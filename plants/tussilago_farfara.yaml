@@ -141,7 +141,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0252
   - REF-0304
   - REF-0910
   - REF-0911
@@ -150,7 +149,6 @@ actions:
 - action: sedative
   reference_ids:
   - REF-0911
-  - REF-0252
   - REF-0304
   status: needs-review
 indications:
@@ -158,31 +156,31 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0911
-  - REF-0252
-  - REF-0304
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0304
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0911
-  - REF-0252
-  - REF-0304
   - REF-0919
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0304
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
   - REF-0911
-  - REF-0252
-  - REF-0304
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0304
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0911
-  - REF-0252
-  - REF-0304
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0304
 contraindications:
 - note: 'Safety notes (contraindications, interactions, pregnancy/lactation notes, adverse effects, dose-duration
     cautions) Important: Coltsfoot naturally contains pyrrolizidine alkaloids (PAs)-plant chemicals that

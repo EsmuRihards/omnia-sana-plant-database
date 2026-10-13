@@ -180,35 +180,37 @@ indications:
   note: Antimicrobial (thymol and carvacrol) - supports respiratory infection
   reference_ids:
   - REF-0486
-  - REF-0519
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0519
+  - REF-1310
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0519
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0519
 - condition: muscle-spasm
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0519
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0519
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
   - REF-0519
   - REF-0593
   status: needs-review
-- condition: sore-throat
-  note: Sore throat relief (antiseptic gargle)
-  reference_ids:
-  - REF-0519
-  status: verified
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0486
-  - REF-0519
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0519
+  - REF-1310
+  - REF-1312
 contraindications:
 - note: Culinary amounts are safe. Thyme essential oil is a strong irritant - dilute well before any topical
     use and do not take the undiluted oil internally.

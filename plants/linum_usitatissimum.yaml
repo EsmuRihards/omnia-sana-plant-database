@@ -143,10 +143,8 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0001
-  - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0230
   - REF-2217
   - REF-2219
   - REF-2220
@@ -160,10 +158,8 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0001
-  - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0230
   - REF-2218
   - REF-2220
   - REF-2222
@@ -171,32 +167,28 @@ actions:
 - action: digestive
   reference_ids:
   - REF-0001
-  - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0230
   - REF-2217
   - REF-2219
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0001
-  - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0230
-  status: needs-review
 - condition: bloating
   note: inferred from digestive action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0001
-  - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0230
-  status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -206,47 +198,36 @@ indications:
   reference_ids:
   - REF-0001
   - REF-0039
-  - REF-0084
-  - REF-0105
-  - REF-0152
-  - REF-0230
   status: verified
 - condition: indigestion
   note: inferred from digestive action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0001
-  - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0230
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0001
-  - REF-0084
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0105
   - REF-0152
-  - REF-0230
-  status: needs-review
 - condition: metabolic-support
   reference_ids:
   - REF-0001
-  - REF-0084
-  - REF-0105
-  - REF-0152
   - REF-0190
-  - REF-0230
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0001
-  - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0230
-  status: needs-review
 contraindications:
 - note: Flaxseeds are safe for most people at recommended food amounts (1–2 tablespoons ground/day). They
     must be ground or milled to be bioavailable - whole seeds largely pass through the gut undigested.

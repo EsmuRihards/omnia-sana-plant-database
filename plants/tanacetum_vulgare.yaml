@@ -138,14 +138,12 @@ actions:
   reference_ids:
   - REF-0098
   - REF-0139
-  - REF-0187
   - REF-1294
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0098
   - REF-0139
-  - REF-0187
   - REF-1293
   - REF-1296
   - REF-1297
@@ -156,7 +154,6 @@ actions:
   reference_ids:
   - REF-0098
   - REF-0139
-  - REF-0187
   - REF-1294
   - REF-1296
   - REF-1299
@@ -166,79 +163,79 @@ actions:
   reference_ids:
   - REF-0098
   - REF-0139
-  - REF-0187
   status: verified
 - action: digestive
   reference_ids:
   - REF-0098
   - REF-0139
-  - REF-0187
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
-  - REF-0139
-  - REF-0187
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0139
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0098
-  - REF-0139
-  - REF-0187
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0139
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0098
-  - REF-0139
-  - REF-0187
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0139
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0098
-  - REF-0139
-  - REF-0187
   - REF-1298
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0139
+  - REF-1297
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
-  - REF-0139
-  - REF-0187
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0139
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0098
-  - REF-0139
-  - REF-0187
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0139
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0098
-  - REF-0139
-  - REF-0187
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0139
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
-  - REF-0139
-  - REF-0187
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0139
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0098
-  - REF-0139
-  - REF-0187
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0139
+  - REF-1297
 contraindications:
 - note: 'CAUTION: Tansy is considered toxic in medicinal doses and is NOT recommended for internal use.
     Thujone can cause convulsions, liver and kidney damage. Contraindicated in pregnancy (uterotonic and

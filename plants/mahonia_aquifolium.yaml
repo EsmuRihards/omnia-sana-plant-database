@@ -124,14 +124,17 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0487
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0487
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1175
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0487
 - condition: eczema
   note: Topical for atopic dermatitis (eczema) and skin irritation
   reference_ids:
@@ -170,6 +173,8 @@ indications:
   reference_ids:
   - REF-0488
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1180
 contraindications:
 - note: 'Avoid internal use in pregnancy and breastfeeding: like goldenseal, the berberine it contains
     can cross the placenta and into milk and worsen newborn jaundice (kernicterus risk).'

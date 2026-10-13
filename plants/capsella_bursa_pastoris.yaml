@@ -132,6 +132,8 @@ indications:
   reference_ids:
   - REF-0507
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1972
 - condition: heavy-bleeding
   note: Haemostatic / styptic - reduces heavy menstrual bleeding (menorrhagia); also used for nosebleeds
     and postpartum bleeding. In a randomized clinical trial, Capsella bursa-pastoris added to mefenamic
@@ -141,8 +143,9 @@ indications:
   - REF-0508
   - REF-0608
   - REF-1971
-  - REF-1972
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1972
 - condition: menstrual-cramps
   note: Tones the uterus and eases menstrual flow and cramps (traditional)
   reference_ids:
@@ -163,6 +166,8 @@ indications:
   reference_ids:
   - REF-0507
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1972
 contraindications:
 - note: Avoid during pregnancy (it stimulates the uterus). Any heavy or abnormal bleeding needs medical
     evaluation to identify the cause - do not self-treat without assessment.

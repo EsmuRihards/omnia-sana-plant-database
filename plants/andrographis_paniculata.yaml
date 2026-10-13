@@ -178,6 +178,9 @@ indications:
   - REF-0393
   - REF-0394
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1621
+  - REF-1623
 - condition: cancer
   note: Andrographolide (from Andrographis paniculata) acts as a chemopreventive and antitumour agent
     against breast, lung, colorectal, cervical, prostate and hepatocellular cancers and leukaemia, inducing
@@ -221,12 +224,17 @@ indications:
   - REF-0393
   - REF-0394
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1621
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0393
   - REF-0394
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1621
+  - REF-1623
 - condition: sore-throat
   reference_ids:
   - REF-0392
@@ -238,6 +246,9 @@ indications:
   - REF-0393
   - REF-0394
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1615
+  - REF-1622
 contraindications:
 - note: 'Avoid in pregnancy and when trying to conceive: high doses have shown reproductive toxicity in
     animals and the herb has a traditional reputation as an abortifacient.'

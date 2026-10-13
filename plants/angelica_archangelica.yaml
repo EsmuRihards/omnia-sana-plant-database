@@ -20,9 +20,8 @@ constituents:
   - coumarin
   note: Including columbianetin, angelicin, imperatorin and xanthotoxin.
   reference_ids:
-  - REF-0396
-  - REF-0397
   - REF-0695
+  - REF-0397
   - REF-0696
 - name: Essential (volatile) oil
   compounds:
@@ -31,7 +30,7 @@ constituents:
   note: Rich in monoterpenes such as alpha-pinene and beta-phellandrene; gives the aromatic, carminative
     character.
   reference_ids:
-  - REF-0396
+  - REF-0695
   - REF-0698
   - REF-2411
   - REF-2412
@@ -41,7 +40,7 @@ constituents:
   - flavonoid
   note: Antioxidant constituents.
   reference_ids:
-  - REF-0396
+  - REF-0695
   - REF-0699
 botanical_description:
   text: Tall, robust biennial or short-lived perennial herb with a stout, hollow, ridged stem, often tinged
@@ -58,14 +57,14 @@ botanical_description:
   fruit: Pale, ribbed, winged fruit (mericarp)
   flowering_period: June-August
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 habitat:
   text: Native to northern and eastern Europe and parts of Asia, growing in damp meadows, riverbanks,
     ditches and woodland margins on moist, rich soils; also widely cultivated as a culinary and medicinal
     herb.
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 harvesting:
   text: The root is dug in autumn of the first year (or spring of the second, before flowering), when
@@ -79,7 +78,7 @@ harvesting:
   - Leaf (standardised extract)
   season: Root in autumn/early spring; fruit and seed in late summer; leaf through the growing season
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 harvest_readiness:
 - part: root
@@ -122,18 +121,18 @@ traditional_uses:
     remedy for indigestion, bloating and flatulence, as a diaphoretic and expectorant support during colds,
     and the seed/fruit as a calming, anxiolytic nervine. It has also been candied and used as a flavouring.
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 preparations:
 - name: Decoction/infusion (root)
   text: Dried root decocted or infused in hot water as a bitter digestive and carminative tea.
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - name: Infusion (seed)
   text: Crushed fruit/seed infused as a calming, carminative tea.
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: draft
 - name: Tincture
   text: Alcoholic extract of the dried root, typically around 1:5.
@@ -164,9 +163,8 @@ actions:
   - Root
   note: Anti-inflammatory and gastroprotective
   reference_ids:
-  - REF-0396
-  - REF-0397
   - REF-0695
+  - REF-0397
   - REF-0696
   - REF-2411
   status: verified
@@ -182,7 +180,6 @@ actions:
   - Fruit and seed
   note: Anticonvulsant and cognition-supporting (preclinical)
   reference_ids:
-  - REF-0396
   - REF-0695
   - REF-0696
   - REF-0697
@@ -192,7 +189,6 @@ actions:
   - Fruit and seed
   note: Anxiolytic / sedative (anxiety, nervous tension)
   reference_ids:
-  - REF-0396
   - REF-0695
   - REF-2410
   status: verified
@@ -201,44 +197,43 @@ actions:
   - Root
   note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - action: carminative
   parts:
   - Root
   note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - action: diaphoretic
   parts:
   - Root
   note: Diaphoretic / expectorant support during colds
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - action: digestive
   parts:
   - Root
   note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - action: expectorant
   parts:
   - Root
   note: Diaphoretic / expectorant support during colds
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - action: gastroprotective
   parts:
   - Root
   note: Anti-inflammatory and gastroprotective
   reference_ids:
-  - REF-0396
-  - REF-0397
   - REF-0695
+  - REF-0397
   - REF-0696
   status: verified
 - action: neuroprotective
@@ -246,7 +241,6 @@ actions:
   - Fruit and seed
   note: Anticonvulsant and cognition-supporting (preclinical)
   reference_ids:
-  - REF-0396
   - REF-0695
   - REF-0696
   - REF-0697
@@ -256,7 +250,6 @@ actions:
   - Fruit and seed
   note: Anxiolytic / sedative (anxiety, nervous tension)
   reference_ids:
-  - REF-0396
   - REF-0695
   - REF-2410
   status: verified
@@ -264,39 +257,37 @@ indications:
 - condition: acid-reflux
   note: inferred from gastroprotective action
   reference_ids:
-  - REF-0396
-  - REF-0397
   - REF-0695
-  - REF-0696
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0397
+  - REF-0696
 - condition: anxiety
   note: Anxiolytic / sedative (anxiety, nervous tension)
   reference_ids:
-  - REF-0396
   - REF-0695
   status: verified
 - condition: appetite-loss
   note: inferred from bitter-tonic action
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: needs-review
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0396
-  - REF-0397
   - REF-0695
+  - REF-0397
   - REF-0696
   status: needs-review
 - condition: bloating
   note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: needs-review
 - condition: cancer
   note: Angelica archangelica fruit tincture is antiproliferative against PANC-1 pancreatic cancer cells;
@@ -309,76 +300,75 @@ indications:
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0396
   - REF-0695
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0696
   - REF-0697
-  status: needs-review
 - condition: cold
   note: Diaphoretic / expectorant support during colds
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - condition: cough
   note: inferred from expectorant action
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: needs-review
 - condition: fever
   note: inferred from diaphoretic action
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: needs-review
 - condition: indigestion
   note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0397
+  - REF-0696
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0396
-  - REF-0397
   - REF-0695
+  - REF-0397
   - REF-0696
   status: needs-review
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0396
   - REF-0695
   status: needs-review
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0396
   - REF-0695
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0696
   - REF-0697
-  status: needs-review
 - condition: nervous-tension
   note: Anxiolytic / sedative (anxiety, nervous tension)
   reference_ids:
-  - REF-0396
   - REF-0695
   status: verified
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0396
-  - REF-0397
   - REF-0695
-  - REF-0696
+  - REF-0397
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0696
 - condition: stress
   note: inferred from anxiolytic action
   reference_ids:
-  - REF-0396
   - REF-0695
   status: needs-review
 - condition: urinary-support
@@ -392,19 +382,19 @@ contraindications:
     while using the herb medicinally.
   severity: caution
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - note: Medicinal doses should be avoided during pregnancy and breastfeeding.
   severity: caution
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 - note: Coumarin constituents may interact with anticoagulant medicines, and furanocoumarins with photosensitising
     drugs; when wild-harvesting, take great care to distinguish garden angelica from poisonous Apiaceae
     look-alikes such as hemlock.
   severity: caution
   reference_ids:
-  - REF-0396
+  - REF-0695
   status: verified
 references:
 - REF-0695

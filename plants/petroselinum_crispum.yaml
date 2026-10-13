@@ -200,6 +200,8 @@ indications:
   reference_ids:
   - REF-0489
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1492
 - condition: detox
   note: inferred from hepatoprotective action
   reference_ids:
@@ -216,8 +218,9 @@ indications:
   reference_ids:
   - REF-0489
   - REF-0546
-  - REF-1494
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1494
 - condition: liver-support
   note: inferred from hepatoprotective action
   reference_ids:

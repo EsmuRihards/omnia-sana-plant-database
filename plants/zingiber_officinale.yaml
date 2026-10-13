@@ -111,13 +111,11 @@ actions:
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
-  - REF-0162
+  - REF-0639
   - REF-0164
-  - REF-0255
   - REF-0269
   - REF-0295
-  - REF-0636
+  - REF-0605
   - REF-0637
   - REF-0638
   status: verified
@@ -125,10 +123,8 @@ actions:
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
-  - REF-0162
+  - REF-0639
   - REF-0164
-  - REF-0255
   - REF-0269
   - REF-0295
   - REF-0637
@@ -138,10 +134,8 @@ actions:
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
-  - REF-0162
+  - REF-0639
   - REF-0164
-  - REF-0255
   - REF-0269
   - REF-0295
   status: verified
@@ -150,22 +144,18 @@ actions:
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
-  - REF-0162
+  - REF-0639
   - REF-0164
-  - REF-0255
   - REF-0269
   - REF-0295
-  - REF-0636
+  - REF-0605
   status: verified
 - action: digestive
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
-  - REF-0162
+  - REF-0639
   - REF-0164
-  - REF-0255
   - REF-0269
   - REF-0295
   - REF-0634
@@ -176,165 +166,149 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0120
-  - REF-0162
   - REF-0164
-  - REF-0255
-  - REF-0269
-  - REF-0295
   - REF-0637
   - REF-0638
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0077
+  - REF-0269
+  - REF-0295
+  - REF-0639
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0120
-  - REF-0162
   - REF-0164
-  - REF-0255
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0077
   - REF-0269
   - REF-0295
-  - REF-0636
+  - REF-0605
   - REF-0637
   - REF-0638
-  status: needs-review
+  - REF-0639
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
-  - REF-0162
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0164
-  - REF-0255
   - REF-0269
   - REF-0295
   - REF-0634
   - REF-0635
-  status: needs-review
+  - REF-0639
 - condition: cardiovascular-support
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0120
-  - REF-0162
-  - REF-0164
-  - REF-0255
-  - REF-0269
-  - REF-0295
-  - REF-0639
   status: verified
 - condition: headache
   note: inferred from analgesic action
   reference_ids:
   - REF-0007
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0077
-  - REF-0120
-  - REF-0162
   - REF-0164
-  - REF-0255
   - REF-0269
   - REF-0295
-  - REF-0636
+  - REF-0605
   - REF-0637
   - REF-0638
-  status: needs-review
+  - REF-0639
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
-  - REF-0162
-  - REF-0164
-  - REF-0255
-  - REF-0269
   - REF-0295
   - REF-0634
   - REF-0635
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0164
+  - REF-0269
+  - REF-0639
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0120
-  - REF-0162
   - REF-0164
-  - REF-0255
-  - REF-0269
-  - REF-0295
   - REF-0637
   - REF-0638
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0077
+  - REF-0269
+  - REF-0295
+  - REF-0639
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0007
+  - REF-0605
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0077
-  - REF-0120
-  - REF-0162
   - REF-0164
-  - REF-0255
   - REF-0269
   - REF-0295
-  - REF-0636
-  status: needs-review
+  - REF-0639
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0007
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0077
-  - REF-0120
-  - REF-0162
   - REF-0164
-  - REF-0255
   - REF-0269
   - REF-0295
-  - REF-0636
-  status: needs-review
+  - REF-0605
+  - REF-0639
 - condition: pain
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0120
-  - REF-0162
   - REF-0164
-  - REF-0255
-  - REF-0269
-  - REF-0295
-  - REF-0636
+  - REF-0605
   - REF-0637
   - REF-0638
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0077
+  - REF-0269
+  - REF-0295
+  - REF-0639
 - condition: respiratory-support
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0120
-  - REF-0162
-  - REF-0164
-  - REF-0255
-  - REF-0269
-  - REF-0295
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0120
-  - REF-0162
   - REF-0164
-  - REF-0255
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0077
   - REF-0269
   - REF-0295
   - REF-0637
   - REF-0638
-  status: needs-review
+  - REF-0639
+- condition: nausea
+  note: Meta-analyses report that ginger relieves nausea in pregnancy compared with placebo, with no significant
+    effect on vomiting episodes. The EU herbal monograph covers prevention of nausea and vomiting in motion
+    sickness.
+  reference_ids:
+  - REF-0295
+  - REF-0635
+  - REF-0077
+  status: verified
 contraindications:
 - note: Ginger is widely considered safe at culinary and conventional supplemental doses. At high doses
     (>5 g/day), ginger may cause heartburn, acid reflux, mouth irritation, and mild gastrointestinal discomfort.
@@ -346,7 +320,7 @@ contraindications:
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
+  - REF-0639
   - REF-0162
   - REF-0164
   - REF-0255
@@ -362,7 +336,7 @@ contraindications:
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
+  - REF-0639
   - REF-0162
   - REF-0164
   - REF-0255
@@ -379,7 +353,7 @@ contraindications:
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0120
+  - REF-0639
   - REF-0162
   - REF-0164
   - REF-0255

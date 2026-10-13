@@ -109,7 +109,6 @@ actions:
   - REF-0041
   - REF-0083
   - REF-0117
-  - REF-0223
   - REF-0262
   - REF-0727
   - REF-1399
@@ -120,7 +119,6 @@ actions:
   - REF-0041
   - REF-0083
   - REF-0117
-  - REF-0223
   - REF-0262
   - REF-0727
   status: verified
@@ -133,7 +131,6 @@ actions:
   - REF-0041
   - REF-0083
   - REF-0117
-  - REF-0223
   - REF-0262
   status: verified
 - action: diuretic
@@ -141,7 +138,6 @@ actions:
   - REF-0041
   - REF-0083
   - REF-0117
-  - REF-0223
   - REF-0262
   status: verified
 - action: vulnerary
@@ -149,38 +145,38 @@ actions:
   - REF-0041
   - REF-0083
   - REF-0117
-  - REF-0223
   - REF-0262
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0041
-  - REF-0083
-  - REF-0117
-  - REF-0223
   - REF-0262
   - REF-0727
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0041
+  - REF-0083
+  - REF-0117
+  - REF-1401
 - condition: back-pain
   note: inferred from anti-rheumatic action
   reference_ids:
+  - REF-0262
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0041
   - REF-0083
   - REF-0117
-  - REF-0223
-  - REF-0262
-  status: needs-review
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
+  - REF-0262
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0041
   - REF-0083
   - REF-0117
-  - REF-0223
-  - REF-0262
-  status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -189,67 +185,68 @@ indications:
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
+  - REF-0262
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0041
   - REF-0083
   - REF-0117
-  - REF-0223
-  - REF-0262
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0041
-  - REF-0083
-  - REF-0117
-  - REF-0223
   - REF-0262
   - REF-1399
   status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0041
   - REF-0083
   - REF-0117
-  - REF-0223
+- condition: skin-irritation
+  note: inferred from anti-inflammatory action
+  reference_ids:
   - REF-0262
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0041
+  - REF-0083
+  - REF-0117
+  - REF-0727
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
   - REF-0041
   - REF-0083
-  - REF-0117
-  - REF-0223
   - REF-0262
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0117
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
   - REF-0041
   - REF-0083
-  - REF-0117
-  - REF-0223
   - REF-0262
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0117
 - condition: uti
   note: inferred from diuretic action
   reference_ids:
   - REF-0041
   - REF-0083
-  - REF-0117
-  - REF-0223
   - REF-0262
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0117
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0041
   - REF-0083
-  - REF-0117
-  - REF-0223
   - REF-0262
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0041
+  - REF-0117
 contraindications:
 - note: Field horsetail contains thiaminase, an enzyme that degrades thiamine (vitamin B1); prolonged
     or excessive use can cause thiamine deficiency - symptoms include neurological problems and weight

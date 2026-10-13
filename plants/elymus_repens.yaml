@@ -121,29 +121,13 @@ actions:
   - REF-2563
   status: verified
 indications:
-- condition: cough
-  note: inferred from demulcent action
-  reference_ids:
-  - REF-0438
-  status: needs-review
-- condition: kidney-support
-  reference_ids: []
-  status: needs-review
-- condition: skin-irritation
-  note: inferred from demulcent action
-  reference_ids:
-  - REF-0438
-  status: needs-review
-- condition: sore-throat
-  note: inferred from demulcent action
-  reference_ids:
-  - REF-0438
-  status: needs-review
 - condition: swelling
   note: Supports mild fluid retention / swelling
   reference_ids:
   - REF-0437
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2563
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
@@ -156,8 +140,9 @@ indications:
   reference_ids:
   - REF-0437
   - REF-0438
-  - REF-2563
   status: verified
+  mechanistic_exclude_ids:
+  - REF-2563
 contraindications:
 - note: Drink plenty of fluids during use. Irrigation therapy must NOT be used if there is oedema (swelling)
     due to impaired heart or kidney function.

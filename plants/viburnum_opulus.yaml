@@ -127,6 +127,8 @@ indications:
   reference_ids:
   - REF-0439
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1139
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -137,6 +139,8 @@ indications:
   reference_ids:
   - REF-0439
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1139
 - condition: menstrual-cramps
   note: Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)
   reference_ids:

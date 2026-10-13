@@ -150,76 +150,89 @@ indications:
 - condition: acid-reflux
   note: inferred from gastroprotective action
   reference_ids:
-  - REF-0002
-  - REF-0273
   - REF-0305
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0002
+  - REF-0273
 - condition: arthritis
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0305
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0273
+  - REF-2165
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0305
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0273
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-0002
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0273
 - condition: cardiovascular-support
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0305
   status: verified
 - condition: indigestion
   note: inferred from gastroprotective action
   reference_ids:
-  - REF-0002
-  - REF-0273
   - REF-0305
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0002
+  - REF-0273
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0305
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0273
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0305
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0273
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0305
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0273
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0305
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0273
+  - REF-0791
+  - REF-0792
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0305
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0273
 contraindications:
 - note: Generally very safe in culinary quantities. High-dose curcumin supplements may cause gastrointestinal
     upset. May interact with anticoagulants (warfarin), antidiabetic drugs, and acid-suppressing medications.

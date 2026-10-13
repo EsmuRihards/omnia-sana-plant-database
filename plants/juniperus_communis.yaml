@@ -119,7 +119,6 @@ actions:
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   - REF-1734
   - REF-1735
   - REF-1737
@@ -131,7 +130,6 @@ actions:
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   - REF-1734
   - REF-1736
   - REF-1740
@@ -141,14 +139,12 @@ actions:
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   - REF-1736
   status: verified
 - action: diuretic
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   - REF-1735
   - REF-1741
   status: verified
@@ -156,7 +152,6 @@ actions:
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   status: verified
 indications:
 - condition: bloating
@@ -164,7 +159,6 @@ indications:
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   status: needs-review
 - condition: cancer
   note: inferred from anticancer action
@@ -179,43 +173,45 @@ indications:
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0035
-  - REF-0073
-  - REF-0229
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0073
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1741
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   status: needs-review
 - condition: uti
   note: inferred from diuretic action
   reference_ids:
   - REF-0035
   - REF-0073
-  - REF-0229
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1741
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0035
-  - REF-0073
-  - REF-0229
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0073
+  - REF-1737
+  - REF-1738
 contraindications:
 - note: 'Avoid in pregnancy. Juniper is not recommended during pregnancy (EMA/HMPC, 2023; Health Canada,
     2025).Avoid with kidney disorders / serious kidney disease. It’s not recommended if you have kidney

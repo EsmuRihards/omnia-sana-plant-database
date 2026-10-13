@@ -128,9 +128,11 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0409
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0409
+  - REF-1594
 - condition: cardiovascular-support
   note: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
   reference_ids:
@@ -146,11 +148,6 @@ indications:
   reference_ids:
   - REF-0408
   status: verified
-- condition: hemorrhoids
-  note: inferred from venotonic action
-  reference_ids:
-  - REF-0409
-  status: needs-review
 - condition: high-cholesterol
   note: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
   reference_ids:
@@ -165,20 +162,11 @@ indications:
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0409
+  reference_ids: []
   status: needs-review
-- condition: swelling
-  note: inferred from venotonic action
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0409
-  status: needs-review
-- condition: varicose-veins
-  note: Supports capillary integrity and venous tone (traditional use for varicose veins / chronic venous
-    insufficiency)
-  reference_ids:
-  - REF-0409
-  status: needs-review
+  - REF-1594
 contraindications:
 - note: The berry is a food and generally very safe; long-term safety of concentrated high-dose extracts
     is less well characterised.

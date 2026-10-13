@@ -132,10 +132,8 @@ actions:
   - Aerial parts
   note: Astringent and anti-inflammatory infusion or tincture (flowering tops)
   reference_ids:
-  - REF-0343
   - REF-0347
   - REF-0348
-  - REF-0349
   - REF-1746
   - REF-1747
   - REF-1751
@@ -145,7 +143,6 @@ actions:
   - Flower
   reference_ids:
   - REF-0342
-  - REF-0343
   - REF-1749
   status: verified
 - action: astringent
@@ -157,7 +154,6 @@ actions:
   reference_ids:
   - REF-0347
   - REF-0348
-  - REF-0349
   - REF-1752
   status: verified
 - action: expectorant
@@ -181,11 +177,11 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0343
   - REF-0347
   - REF-0348
-  - REF-0349
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1751
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
@@ -198,6 +194,8 @@ indications:
   - REF-0347
   - REF-0348
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1756
 - condition: cough
   note: Astringent (catarrh, excessive menstrual or vaginal discharge)
   reference_ids:
@@ -209,15 +207,14 @@ indications:
   reference_ids:
   - REF-0347
   - REF-0348
-  - REF-0349
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1752
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0343
   - REF-0347
   - REF-0348
-  - REF-0349
   status: needs-review
 - condition: respiratory-support
   note: inferred from expectorant action
@@ -230,8 +227,9 @@ indications:
   reference_ids:
   - REF-0347
   - REF-0348
-  - REF-0349
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1751
 - condition: wounds
   note: Vulnerary (minor wounds), applied topically
   reference_ids:

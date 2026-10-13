@@ -120,13 +120,14 @@ indications:
 - condition: arthritis
   note: Traditional use for fever and for joint pain / arthritis
   reference_ids:
-  - REF-0450
   - REF-1574
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0450
+  - REF-0552
 - condition: fever
   note: Traditional use for fever and for joint pain / arthritis
   reference_ids:
-  - REF-0450
   - REF-1574
   status: needs-review
 - condition: headache
@@ -139,10 +140,11 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0450
-  - REF-0552
   - REF-1578
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0450
+  - REF-0552
 - condition: migraine
   note: Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised preparations,
     though mixed); parthenolide is identified as the component responsible for the antimigraine effect
@@ -165,10 +167,11 @@ indications:
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0450
   - REF-0552
-  status: needs-review
 contraindications:
 - note: As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive
     to ragweed and related plants. Chewing fresh leaves commonly causes mouth ulcers and oral soreness.

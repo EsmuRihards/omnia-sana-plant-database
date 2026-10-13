@@ -141,13 +141,11 @@ actions:
   reference_ids:
   - REF-0035
   - REF-0095
-  - REF-0232
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0035
   - REF-0095
-  - REF-0232
   - REF-0932
   - REF-0934
   - REF-0936
@@ -156,29 +154,26 @@ actions:
   reference_ids:
   - REF-0035
   - REF-0095
-  - REF-0232
   - REF-0938
   status: verified
 - action: sedative
   reference_ids:
   - REF-0035
   - REF-0095
-  - REF-0232
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0035
-  - REF-0095
-  - REF-0232
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0095
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0035
   - REF-0095
-  - REF-0232
   - REF-0938
   status: needs-review
 - condition: indigestion
@@ -186,52 +181,50 @@ indications:
   reference_ids:
   - REF-0035
   - REF-0095
-  - REF-0232
   - REF-0938
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0035
-  - REF-0095
-  - REF-0232
   - REF-0932
   - REF-0934
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0095
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0035
-  - REF-0095
-  - REF-0232
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0095
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
   - REF-0035
-  - REF-0095
-  - REF-0232
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0095
 - condition: respiratory-support
   reference_ids:
   - REF-0035
   - REF-0095
-  - REF-0232
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0035
-  - REF-0095
-  - REF-0232
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0095
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0035
-  - REF-0095
-  - REF-0232
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0095
 contraindications:
 - note: 'Pregnancy: Do not use (traditional concern around stimulating menstruation/uterus) (Health Canada,
     n.d.). Breastfeeding: Health Canada advises talk to a healthcare professional first (Health Canada,

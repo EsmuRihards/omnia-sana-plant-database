@@ -124,7 +124,6 @@ actions:
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
   - REF-0880
   - REF-0881
   - REF-0882
@@ -134,14 +133,12 @@ actions:
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
   - REF-0882
   status: verified
 - action: diuretic
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
   status: verified
 indications:
 - condition: arthritis
@@ -149,37 +146,35 @@ indications:
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
   - REF-0880
   - REF-0889
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0881
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
   status: needs-review
 - condition: respiratory-support
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
-  - REF-0884
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0881
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
   - REF-0881
   - REF-0889
   status: needs-review
@@ -188,14 +183,12 @@ indications:
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
   status: needs-review
 - condition: uti
   note: inferred from diuretic action
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0237
   status: needs-review
 contraindications:
 - note: Labrador tea contains ledol, a toxic sesquiterpene alcohol, particularly concentrated in fresh

@@ -165,6 +165,8 @@ indications:
   reference_ids:
   - REF-0517
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1146
 - condition: asthma
   note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
     - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
@@ -205,6 +207,8 @@ indications:
   reference_ids:
   - REF-0517
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1146
 - condition: insomnia
   note: Mild sedative for sleeplessness and to ease headache (traditional)
   reference_ids:
@@ -212,6 +216,8 @@ indications:
   - REF-1150
   - REF-1151
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1149
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
@@ -223,9 +229,10 @@ indications:
   note: inferred from demulcent action
   reference_ids:
   - REF-0517
-  - REF-0609
-  - REF-1147
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0609
+  - REF-1146
 - condition: sore-throat
   reference_ids:
   - REF-0517

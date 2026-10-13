@@ -128,8 +128,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
   - REF-1123
   - REF-1124
   - REF-1130
@@ -142,8 +140,6 @@ actions:
 - action: expectorant
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
   - REF-1123
   - REF-1124
   - REF-1125
@@ -151,23 +147,22 @@ actions:
 - action: sedative
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
+  - REF-1123
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
+  - REF-1123
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1131
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
+  - REF-1123
   status: needs-review
 - condition: cancer
   note: inferred from anticancer action
@@ -178,39 +173,33 @@ indications:
   note: inferred from expectorant action
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
   - REF-1123
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
+  - REF-1123
   status: needs-review
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
+  - REF-1123
   status: needs-review
 - condition: respiratory-support
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
   - REF-1123
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0186
-  - REF-0254
-  - REF-0289
-  - REF-1131
+  - REF-1123
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1131
 contraindications:
 - note: Generally considered safe for short-term use. The tiny hairs on the leaves can cause irritation
     if tea is not properly filtered. No significant drug interactions documented. Not recommended during
@@ -219,7 +208,7 @@ contraindications:
   reference_ids:
   - REF-0186
   - REF-0254
-  - REF-0289
+  - REF-1123
   status: verified
 - note: 'Duke (2002) rates mullein as ++ with clinical evidence (score 2) for its expectorant activity,
     consistent with Commission E approval for catarrh and inflammation of the respiratory tract. It functions
@@ -231,7 +220,7 @@ contraindications:
   reference_ids:
   - REF-0186
   - REF-0254
-  - REF-0289
+  - REF-1123
   - REF-0063
   status: verified
 references:

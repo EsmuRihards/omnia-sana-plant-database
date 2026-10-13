@@ -137,47 +137,38 @@ actions:
   reference_ids:
   - REF-2816
   - REF-2817
-  - REF-2818
-  - REF-2819
   status: verified
 - action: anti-inflammatory
   note: Bellflower extracts downregulate inflammatory cytokines (TNF-alpha, IL-1beta).
   reference_ids:
   - REF-2816
-  - REF-2818
   status: verified
 - action: antimicrobial
   note: Antibacterial activity of bellflower extracts/hydrolysates (genus Campanula).
   reference_ids:
   - REF-2816
-  - REF-2819
   status: verified
 - action: vulnerary
   note: Campanula macrostachya extract promoted fibroblast wound closure in vitro (genus congener).
-  reference_ids:
-  - REF-2818
+  reference_ids: []
   status: verified
 indications:
 - condition: inflammation
   reference_ids:
   - REF-2816
-  - REF-2818
   status: verified
 - condition: wounds
   note: Bellflower extract promoted fibroblast wound healing in vitro (genus congener).
-  reference_ids:
-  - REF-2818
+  reference_ids: []
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory / traditional topical skin use
   reference_ids:
-  - REF-2818
   - REF-2816
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-2819
+  reference_ids: []
   status: needs-review
 - condition: sore-throat
   note: inferred from traditional gargle use for throat/mouth inflammation
@@ -204,8 +195,6 @@ contraindications:
 references:
 - REF-2816
 - REF-2817
-- REF-2818
-- REF-2819
 - REF-2820
 lookalikes_review:
   outcome: none-known

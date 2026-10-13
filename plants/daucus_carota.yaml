@@ -309,11 +309,15 @@ indications:
   reference_ids:
   - REF-2708
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2712
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
   - REF-2708
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2712
 - condition: liver-support
   note: Hepatoprotective in animal models.
   reference_ids:

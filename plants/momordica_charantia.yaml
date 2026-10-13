@@ -162,22 +162,14 @@ actions:
   - REF-0412
   status: verified
 indications:
-- condition: appetite-loss
-  note: inferred from bitter-tonic action
-  reference_ids:
-  - REF-0412
-  status: needs-review
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0412
   - REF-1218
   status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0412
-  status: needs-review
+  - REF-1222
 - condition: blood-sugar
   note: Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)
   reference_ids:
@@ -194,31 +186,17 @@ indications:
   - REF-1215
   - REF-1222
   status: needs-review
-- condition: constipation
-  note: inferred from laxative action
-  reference_ids:
-  - REF-0412
-  status: needs-review
-- condition: indigestion
-  note: inferred from bitter-tonic action
-  reference_ids:
-  - REF-0412
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0412
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0412
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0412
   - REF-0413
-  status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0412
   status: needs-review
 contraindications:
 - note: 'Avoid in pregnancy: bitter melon can stimulate the uterus and has been associated with miscarriage;
@@ -259,7 +237,7 @@ drug_class_interactions:
     2 diabetes found reduced fasting glucose and HbA1c), so combining it with diabetes medicines may increase
     the risk of hypoglycaemia; monitor blood glucose.
   reference_ids:
-  - REF-2450
+  - REF-1213
   - REF-2528
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)

@@ -159,7 +159,6 @@ actions:
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
   - REF-0312
   - REF-0648
   - REF-2427
@@ -183,7 +182,6 @@ actions:
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
   - REF-0312
   - REF-0648
   - REF-2426
@@ -195,7 +193,6 @@ actions:
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
   - REF-0312
   - REF-0650
   status: verified
@@ -205,7 +202,6 @@ actions:
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
   - REF-0312
   - REF-0650
   - REF-0651
@@ -219,7 +215,6 @@ actions:
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
   - REF-0312
   - REF-0649
   - REF-2426
@@ -231,9 +226,7 @@ actions:
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
   - REF-0312
-  - REF-0646
   - REF-2427
   - REF-2428
   status: verified
@@ -241,26 +234,26 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0127
   - REF-0166
   - REF-0177
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0127
   - REF-0204
-  - REF-0209
   - REF-0312
   - REF-0648
-  status: needs-review
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0127
   - REF-0166
   - REF-0177
-  - REF-0204
-  - REF-0209
-  - REF-0312
   - REF-0648
   - REF-2428
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0127
+  - REF-0204
+  - REF-0312
 - condition: cancer
   note: Garlic and its organosulfur compounds show broad preclinical anticancer/chemopreventive activity
     (apoptosis, cell-cycle arrest, anti-invasion); in the randomized Shandong Intervention Trial, 7 years
@@ -276,13 +269,9 @@ indications:
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0127
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
-  - REF-0312
-  - REF-0646
   - REF-0647
   - REF-0648
   - REF-0649
@@ -295,20 +284,19 @@ indications:
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
-  - REF-0312
-  - REF-0646
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0312
+  - REF-2428
 - condition: immune-support
   reference_ids:
   - REF-0127
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
-  - REF-0312
-  - REF-0646
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0312
 - condition: infection
   note: inferred from antifungal action
   reference_ids:
@@ -316,55 +304,55 @@ indications:
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
-  - REF-0312
   - REF-0650
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0312
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0127
   - REF-0166
   - REF-0177
-  - REF-0204
-  - REF-0209
-  - REF-0312
   - REF-0648
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0127
+  - REF-0204
+  - REF-0312
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0127
   - REF-0166
   - REF-0177
   - REF-0204
-  - REF-0209
-  - REF-0312
   - REF-0648
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0127
+  - REF-0312
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0127
   - REF-0166
   - REF-0177
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0127
   - REF-0204
-  - REF-0209
   - REF-0312
   - REF-0648
-  status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0127
   - REF-0166
   - REF-0177
-  - REF-0204
-  - REF-0209
-  - REF-0312
   - REF-0650
   - REF-0651
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0127
+  - REF-0204
+  - REF-0312
 contraindications:
 - note: 'Garlic is generally very safe at culinary and supplemental doses for most healthy adults. Raw
     garlic contains allicin (formed when crushed) at concentrations that can irritate the gastrointestinal
@@ -446,7 +434,7 @@ drug_class_interactions:
     high blood pressure); combined with blood-pressure medicines it may add to their effect, so monitor
     blood pressure.
   reference_ids:
-  - REF-2491
+  - REF-0204
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -489,7 +477,7 @@ pairings:
     especially alongside blood-pressure medicines - may add up and lower blood pressure more than expected.
     Monitor your blood pressure.
   reference_ids:
-  - REF-2491
+  - REF-0204
   - REF-2512
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)

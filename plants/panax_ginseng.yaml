@@ -247,6 +247,8 @@ indications:
   - REF-0137
   - REF-0192
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1471
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:

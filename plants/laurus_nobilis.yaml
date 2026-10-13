@@ -311,6 +311,8 @@ indications:
   - REF-0277
   - REF-0291
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1686
 contraindications:
 - note: Generally safe when used in food amounts. Not toxic to people and safe to cook with. Leaves are
     very rigid and leathery - should be removed before eating as they don't soften with cooking and edges

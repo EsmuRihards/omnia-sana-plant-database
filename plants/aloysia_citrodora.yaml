@@ -150,7 +150,6 @@ actions:
     polystachya
   reference_ids:
   - REF-0474
-  - REF-0475
   status: verified
 - action: carminative
   note: Carminative digestive aid (indigestion, flatulence)
@@ -176,7 +175,6 @@ indications:
     polystachya
   reference_ids:
   - REF-0474
-  - REF-0475
   status: verified
 - condition: arthritis
   note: inferred from anti-inflammatory action
@@ -224,15 +222,11 @@ indications:
   reference_ids:
   - REF-0474
   - REF-0620
-  - REF-0692
-  - REF-0693
-  - REF-0694
   status: verified
 - condition: nervous-tension
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0474
-  - REF-0475
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -246,10 +240,6 @@ indications:
     less soreness after exhaustive exercise
   reference_ids:
   - REF-0474
-  - REF-0620
-  - REF-0692
-  - REF-0693
-  - REF-0694
   status: verified
 contraindications:
 - note: Generally well tolerated; human safety and efficacy are not fully established. Its sedative effect

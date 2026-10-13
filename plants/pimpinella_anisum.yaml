@@ -179,6 +179,9 @@ indications:
   - REF-0274
   - REF-0278
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1408
+  - REF-1415
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
@@ -197,6 +200,8 @@ indications:
   - REF-0274
   - REF-0278
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1412
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -220,6 +225,8 @@ indications:
   - REF-0274
   - REF-0278
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1412
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -265,6 +272,8 @@ indications:
   - REF-0278
   - REF-1408
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1415
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
@@ -275,6 +284,8 @@ indications:
   - REF-0278
   - REF-1408
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1414
 contraindications:
 - note: Generally safe when consumed in food amounts. Doses up to 20g daily considered safe for adults.
     May cause allergic reactions in some people. Caution advised during pregnancy and breastfeeding -

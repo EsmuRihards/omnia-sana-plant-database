@@ -175,6 +175,8 @@ indications:
   - REF-0119
   - REF-0537
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1656
 - condition: menstrual-cramps
   note: Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of RCTs find fennel reduces pain
     intensity versus placebo, comparable to mefenamic acid
@@ -208,6 +210,8 @@ indications:
   - REF-0119
   - REF-0537
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1656
 contraindications:
 - note: 'When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used as medicine
     at appropriate doses for a short period of time. There isn''t enough reliable information to know

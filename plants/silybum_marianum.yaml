@@ -150,15 +150,11 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0483
   - REF-0484
-  status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0483
-  status: needs-review
 - condition: blood-sugar
   note: Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c
   reference_ids:
@@ -175,17 +171,13 @@ indications:
   reference_ids:
   - REF-0483
   status: needs-review
-- condition: indigestion
-  note: Digestive support / mild dyspepsia (traditional)
-  reference_ids:
-  - REF-0483
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0483
   - REF-0484
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0483
 - condition: liver-support
   note: Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic); May improve
     liver enzymes and hepatic fat in non-alcoholic fatty liver disease (NAFLD)
@@ -198,12 +190,6 @@ indications:
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0559
-  status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0483
-  - REF-0484
   status: needs-review
 contraindications:
 - note: Very well tolerated, even at high doses; the main effects are mild gastrointestinal upset (nausea,

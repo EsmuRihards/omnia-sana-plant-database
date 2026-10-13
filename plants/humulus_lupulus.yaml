@@ -110,76 +110,51 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0024
   - REF-0141
-  - REF-0226
   - REF-1729
   - REF-1730
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0024
   - REF-0141
-  - REF-0226
   - REF-1726
   - REF-1729
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0024
   - REF-0141
-  - REF-0226
   status: verified
 - action: sedative
   reference_ids:
-  - REF-0024
   - REF-0141
-  - REF-0226
   - REF-1732
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0024
-  - REF-0141
-  - REF-0226
+  reference_ids: []
   status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0024
+  mechanistic_exclude_ids:
   - REF-0141
-  - REF-0226
-  status: needs-review
-- condition: indigestion
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0024
-  - REF-0141
-  - REF-0226
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0024
-  - REF-0141
-  - REF-0226
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0141
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0024
   - REF-0141
-  - REF-0226
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1732
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0024
-  - REF-0141
-  - REF-0226
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0141
 contraindications:
 - note: Generally safe at therapeutic doses for short-term use. Hop preparations may enhance the sedative
     effects of alcohol, benzodiazepines, and other CNS depressants - avoid combination. Not recommended
@@ -236,7 +211,7 @@ pairings:
     together they may enhance relaxation and additive drowsiness.
   reference_ids:
   - REF-2452
-  - REF-2453
+  - REF-0565
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

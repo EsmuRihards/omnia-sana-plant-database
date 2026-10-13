@@ -104,7 +104,6 @@ actions:
   - REF-0135
   - REF-0178
   - REF-0205
-  - REF-0217
   - REF-2379
   - REF-2381
   - REF-2383
@@ -120,7 +119,6 @@ actions:
   - REF-0135
   - REF-0178
   - REF-0205
-  - REF-0217
   - REF-2380
   status: verified
 indications:
@@ -128,52 +126,41 @@ indications:
   reference_ids:
   - REF-0059
   - REF-0081
-  - REF-0096
   - REF-0109
-  - REF-0121
-  - REF-0135
   - REF-0178
-  - REF-0205
-  - REF-0217
   - REF-2384
   status: verified
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0059
-  - REF-0081
   - REF-0096
   - REF-0109
-  - REF-0121
-  - REF-0135
   - REF-0178
   - REF-0205
-  - REF-0217
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0121
+  - REF-0135
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
+  - REF-0109
+  - REF-0178
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0059
   - REF-0081
   - REF-0096
-  - REF-0109
   - REF-0121
   - REF-0135
-  - REF-0178
   - REF-0205
-  - REF-0217
-  status: needs-review
 - condition: metabolic-support
   reference_ids:
   - REF-0059
-  - REF-0081
-  - REF-0096
   - REF-0109
-  - REF-0121
-  - REF-0135
   - REF-0178
-  - REF-0205
-  - REF-0217
   - REF-2379
   status: verified
 contraindications:

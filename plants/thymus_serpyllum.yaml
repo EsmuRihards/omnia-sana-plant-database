@@ -110,9 +110,7 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0071
   - REF-0133
-  - REF-0250
   - REF-1094
   - REF-1099
   status: verified
@@ -122,9 +120,7 @@ actions:
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-0071
   - REF-0133
-  - REF-0250
   - REF-1094
   - REF-1097
   - REF-1098
@@ -132,9 +128,7 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0071
   - REF-0133
-  - REF-0250
   - REF-1094
   - REF-1095
   - REF-1096
@@ -143,71 +137,46 @@ actions:
   status: verified
 - action: gastroprotective
   reference_ids:
-  - REF-0071
   - REF-0133
-  - REF-0250
   status: verified
 indications:
-- condition: acid-reflux
-  note: inferred from gastroprotective action
-  reference_ids:
-  - REF-0071
-  - REF-0133
-  - REF-0250
-  status: needs-review
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0071
-  - REF-0133
-  - REF-0250
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0133
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1102
   status: needs-review
-- condition: indigestion
-  note: inferred from gastroprotective action
-  reference_ids:
-  - REF-0071
-  - REF-0133
-  - REF-0250
-  status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0071
   - REF-0133
-  - REF-0250
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1098
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0071
-  - REF-0133
-  - REF-0250
+  reference_ids: []
   status: needs-review
-- condition: respiratory-support
-  reference_ids:
-  - REF-0071
+  mechanistic_exclude_ids:
   - REF-0133
-  - REF-0250
-  status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0071
-  - REF-0133
-  - REF-0250
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0133
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0071
-  - REF-0133
-  - REF-0250
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0133
+  - REF-1098
 contraindications:
 - note: Generally safe at culinary doses. Essential oil is highly concentrated and must be diluted before
     topical use; undiluted application can cause skin sensitisation. Not recommended internally during

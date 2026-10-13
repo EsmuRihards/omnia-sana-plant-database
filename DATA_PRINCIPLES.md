@@ -1,4 +1,4 @@
-<!-- structure-fingerprint: 62ee1523ac4c -->
+<!-- structure-fingerprint: 171e6f9468fb -->
 <!-- doc-version: 1.2  ·  last-updated: 2026-08-14 -->
 
 # Omnia Sana — Data Principles (canonical, model-agnostic)
@@ -155,7 +155,14 @@ design — honor them and the redesign is safe; break one and it isn't:
    those inputs, not just re-shaping the formula — a prettier number on unaudited tags
    reproduces the [SSR-twin inflation](../) that once hit 54% of live labels. **Any
    grading redesign must ship a tag-audit, not only a new formula.**
-5. **Don't cross the two ladders.** The clinical 1–10 score ("does it work in a body?")
+5. **What the Symptom tool shows must match the claim, not just the plant.** A symptom's
+   "View Sources" page lists its own `reference_ids` plus a "Mechanistic basis": every
+   reference of the plant's actions that the condition's `related_actions` name. That
+   second list leaks (a colitis model is real anti-inflammatory evidence, not arthritis
+   evidence), so an indication may carry `mechanistic_exclude_ids` to hide action refs that
+   do not bear on that symptom. Removing a ref from `reference_ids` without excluding it
+   there just moves the card into the mechanistic section.
+6. **Don't cross the two ladders.** The clinical 1–10 score ("does it work in a body?")
    and the practice bands ("does this extraction reproduce on a bench?") **invert** and
    must never share a scale or a renderer. The practice feed deliberately never emits a
    key named `evidence`.
@@ -298,6 +305,18 @@ Name these plainly so no one mistakes green checks for safety:
 ---
 
 ## 10. Changelog
+
+- **v1.3 - 2026-10-13.** Symptom-source audit (all 188 plants, every symptom x source card).
+  Added the additive indication field **`mechanistic_exclude_ids`** (action-level refs hidden
+  from that condition's "Mechanistic basis" on the Symptom-tool sources page; absent = no
+  exclusions, so the other records are unaffected). `validate.py` gains: an excluded id may not
+  also be cited directly (error) and must be cited by one of the condition's related actions
+  (warning, stale exclusion). `build.py` passes it through into `plants.json`; the consumer is
+  `os-symptom-sources.php` (sandbox), which skips excluded ids. Data side: 1,711 misfiled refs
+  removed from indications, 1,400 mechanistic exclusions, 98 unsupported indications dropped,
+  4 well-sourced ones added (ginger nausea; St John's wort, saffron, lemon balm depression),
+  47 duplicate records merged, 82 orphaned bibliography entries removed. Findings are in
+  `docs/audits/2026-10-13-symptom-source-audit.tsv`. Structural change -> fingerprint reconciled.
 
 - **v1.2 — 2026-08-14.** Harvest Calendar campaign, Batch 0. Added the additive plant
   field **`harvest_readiness[]`** (phenophase-only harvest-readiness signals: observable

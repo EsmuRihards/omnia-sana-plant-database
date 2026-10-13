@@ -146,9 +146,13 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0448
   - REF-0449
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0448
+  - REF-2173
+  - REF-2174
+  - REF-2581
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -162,9 +166,10 @@ indications:
 - condition: diarrhea
   note: inferred from astringent action
   reference_ids:
-  - REF-0448
   - REF-0449
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0448
 - condition: eye-strain
   note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
     as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported
@@ -201,15 +206,19 @@ indications:
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0448
   - REF-0449
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0448
+  - REF-2173
+  - REF-2581
 - condition: wounds
   note: inferred from astringent action
   reference_ids:
-  - REF-0448
   - REF-0449
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0448
 contraindications:
 - note: 'CRITICAL: do not put non-sterile, homemade eyebright preparations directly into the eye - this
     risks serious eye infection. Use only commercially prepared sterile products in the eye, or apply

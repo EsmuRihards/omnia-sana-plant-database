@@ -126,7 +126,6 @@ actions:
     acid, enzyme and bile secretion)
   reference_ids:
   - REF-0453
-  - REF-0454
   - REF-0580
   - REF-1647
   - REF-1648
@@ -142,7 +141,6 @@ indications:
     acid, enzyme and bile secretion)
   reference_ids:
   - REF-0453
-  - REF-0454
   - REF-0580
   status: verified
 - condition: indigestion
@@ -150,14 +148,8 @@ indications:
     acid, enzyme and bile secretion)
   reference_ids:
   - REF-0453
-  - REF-0454
   - REF-0580
   status: verified
-- condition: nausea
-  note: Eases nausea linked to sluggish digestion (traditional)
-  reference_ids:
-  - REF-0454
-  status: needs-review
 contraindications:
 - note: Because bitters increase stomach-acid secretion, gentian is contraindicated in peptic (stomach
     or duodenal) ulcer disease and hyperacidity.

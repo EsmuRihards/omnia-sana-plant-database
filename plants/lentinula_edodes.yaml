@@ -132,58 +132,59 @@ actions:
   - REF-1171
   status: verified
 indications:
-- condition: blood-sugar
-  note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0293
-  - REF-0300
-  - REF-0315
-  status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1166
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0300
+  - REF-0315
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0293
-  - REF-0300
   - REF-0315
   status: verified
 - condition: cold
   note: inferred from antiviral action
   reference_ids:
   - REF-0293
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0300
   - REF-0315
-  status: needs-review
+  - REF-1170
 - condition: immune-support
   reference_ids:
   - REF-0293
+  status: verified
+  mechanistic_exclude_ids:
   - REF-0300
   - REF-0315
-  status: verified
+  - REF-1170
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0293
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0300
   - REF-0315
-  status: needs-review
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0293
-  - REF-0300
   - REF-0315
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0293
+  - REF-0300
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0293
   - REF-0300
   - REF-0315
-  status: needs-review
 contraindications:
 - note: Generally very safe as a food. Raw or undercooked shiitake can cause a rare skin rash (shiitake
     dermatitis / flagellate dermatitis) in sensitive individuals - fully cooking eliminates this risk.

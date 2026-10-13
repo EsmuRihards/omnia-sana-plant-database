@@ -160,9 +160,10 @@ indications:
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-2462
   - REF-2460
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2462
 contraindications:
 - note: Rare but serious drug-induced liver injury (hepatitis, cirrhosis, liver failure) has been reported
     with kava; it is contraindicated in people with liver disease and should not be combined with alcohol
@@ -199,7 +200,6 @@ drug_class_interactions:
   reference_ids:
   - REF-2460
   - REF-2462
-  - REF-2530
   - REF-3062
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)

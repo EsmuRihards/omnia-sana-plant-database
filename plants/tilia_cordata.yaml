@@ -114,7 +114,6 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-1314
-  - REF-1318
   status: needs-review
 - action: antioxidant
   note: Antioxidant and acetylcholinesterase-inhibitory (linden-flower extract scavenges free radicals
@@ -122,7 +121,6 @@ actions:
   reference_ids:
   - REF-0554
   - REF-1314
-  - REF-1321
   status: verified
 - action: antispasmodic
   note: Antispasmodic (traditional)
@@ -135,9 +133,6 @@ actions:
     systems (mechanistic evidence from the related species T. americana)
   reference_ids:
   - REF-0478
-  - REF-0555
-  - REF-1321
-  - REF-1322
   status: verified
 - action: demulcent
   note: Demulcent for cough and catarrh (soothing mucilage)
@@ -154,13 +149,11 @@ indications:
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0478
-  - REF-0555
   status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1314
-  - REF-1318
   status: needs-review
 - condition: cold
   note: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
@@ -177,32 +170,8 @@ indications:
   reference_ids:
   - REF-0478
   status: verified
-- condition: insomnia
-  reference_ids: []
-  status: needs-review
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0478
-  status: needs-review
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0478
-  status: needs-review
 - condition: nervous-tension
   note: inferred from anxiolytic action
-  reference_ids:
-  - REF-0478
-  - REF-0555
-  status: needs-review
-- condition: skin-irritation
-  note: inferred from demulcent action
-  reference_ids:
-  - REF-0478
-  status: needs-review
-- condition: sore-throat
-  note: inferred from demulcent action
   reference_ids:
   - REF-0478
   status: needs-review
@@ -212,7 +181,6 @@ indications:
     systems (mechanistic evidence from the related species T. americana)
   reference_ids:
   - REF-0478
-  - REF-0555
   status: verified
 contraindications:
 - note: Generally very well tolerated, including (per the EU herbal monograph) in children. A feverish
@@ -232,11 +200,8 @@ references:
 - REF-1315
 - REF-1316
 - REF-1317
-- REF-1318
 - REF-1319
 - REF-1320
-- REF-1321
-- REF-1322
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)

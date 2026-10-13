@@ -131,7 +131,6 @@ actions:
   reference_ids:
   - REF-0044
   - REF-0058
-  - REF-0213
   - REF-0758
   - REF-2135
   - REF-2137
@@ -141,7 +140,6 @@ actions:
   reference_ids:
   - REF-0044
   - REF-0058
-  - REF-0213
   - REF-2134
   - REF-2136
   - REF-2138
@@ -151,70 +149,60 @@ actions:
   reference_ids:
   - REF-0044
   - REF-0058
-  - REF-0213
   - REF-2133
   status: verified
 - action: sedative
   reference_ids:
   - REF-0044
   - REF-0058
-  - REF-0213
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0044
   - REF-0058
-  - REF-0213
-  status: needs-review
+  - REF-2138
 - condition: back-pain
   note: inferred from analgesic action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0044
   - REF-0058
-  - REF-0213
-  status: needs-review
 - condition: cardiovascular-support
   reference_ids:
   - REF-0044
-  - REF-0058
-  - REF-0213
   status: verified
 - condition: headache
   note: inferred from analgesic action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0044
   - REF-0058
-  - REF-0213
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0044
-  - REF-0058
-  - REF-0213
   status: needs-review
-- condition: insomnia
-  note: inferred from sedative action
-  reference_ids:
-  - REF-0044
+  mechanistic_exclude_ids:
   - REF-0058
-  - REF-0213
-  status: needs-review
 - condition: pain
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0044
   - REF-0058
-  - REF-0213
-  status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0044
-  - REF-0058
-  - REF-0213
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0058
 contraindications:
 - note: Industrial hemp (low-THC cannabis) seed oil and seeds are generally safe as food. CBD products
     derived from hemp may interact with medications metabolised by cytochrome P450 liver enzymes, including

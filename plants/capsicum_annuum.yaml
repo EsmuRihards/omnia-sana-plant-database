@@ -132,7 +132,6 @@ actions:
   - REF-0010
   - REF-0021
   - REF-0057
-  - REF-0214
   - REF-2144
   - REF-2147
   - REF-2149
@@ -142,7 +141,6 @@ actions:
   - REF-0010
   - REF-0021
   - REF-0057
-  - REF-0214
   - REF-2142
   - REF-2143
   - REF-2146
@@ -152,13 +150,11 @@ actions:
   reference_ids:
   - REF-0021
   - REF-0169
-  - REF-0214
   - REF-2148
   status: verified
 - action: digestive
   reference_ids:
   - REF-0021
-  - REF-0214
   - REF-2144
   - REF-2145
   - REF-2150
@@ -169,82 +165,73 @@ indications:
   reference_ids:
   - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0169
-  - REF-0214
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0057
+  - REF-2146
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
   - REF-0010
   - REF-0021
   - REF-0057
-  - REF-0169
-  - REF-0214
   status: needs-review
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0021
-  - REF-0169
-  - REF-0214
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
   - REF-0021
   - REF-0161
-  - REF-0169
-  - REF-0214
   status: verified
 - condition: headache
   note: inferred from analgesic action
   reference_ids:
   - REF-0021
-  - REF-0169
-  - REF-0214
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0010
+  - REF-0057
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0021
-  - REF-0169
-  - REF-0214
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0021
   - REF-0169
-  - REF-0214
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0021
-  - REF-0169
-  - REF-0214
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0057
 - condition: pain
   reference_ids:
   - REF-0010
   - REF-0021
   - REF-0057
-  - REF-0169
-  - REF-0214
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0021
-  - REF-0169
-  - REF-0214
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0010
+  - REF-0057
+  - REF-2146
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0021
   - REF-0169
-  - REF-0214
   status: needs-review
 contraindications:
 - note: Capsaicin causes intense burning sensation; avoid contact with eyes and mucous membranes. High

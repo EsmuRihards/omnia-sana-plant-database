@@ -150,7 +150,6 @@ dosage:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0705
@@ -176,7 +175,6 @@ actions:
     colon lesions in vivo (preclinical).
 - action: antioxidant
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0705
@@ -188,7 +186,6 @@ actions:
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0706
@@ -196,7 +193,6 @@ actions:
   status: verified
 - action: emollient
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0705
@@ -206,22 +202,23 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0705
-  - REF-0706
   - REF-0709
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0706
+  - REF-2343
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0706
-  - REF-0707
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0707
 - condition: cancer
   note: Arctium lappa root reduces diet-induced preneoplastic colon lesions and suppresses melanoma progression;
     its lignan arctigenin induces apoptosis in colon (HT-29), breast (in vitro/in vivo), lung and gastric
@@ -237,7 +234,6 @@ indications:
 - condition: eczema
   note: inferred from emollient action
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0705
@@ -246,32 +242,33 @@ indications:
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0706
-  - REF-0707
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0707
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0705
-  - REF-0706
   - REF-0709
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0706
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0211
   - REF-0309
   - REF-0313
   - REF-0705
-  - REF-0706
   - REF-0709
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0706
+  - REF-2343
 contraindications:
 - note: Generally safe as a food plant. Allergic reactions are possible in those sensitive to Asteraceae.
     Avoid in pregnancy due to uterine-stimulating effects reported in animal studies. The burs (seed heads)

@@ -240,95 +240,104 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0004
   - REF-0100
   - REF-0163
-  status: needs-review
 - condition: back-pain
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
+  reference_ids: []
   status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
-  status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0004
   - REF-0100
   - REF-0163
   - REF-1207
+- condition: bloating
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0100
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0004
+  - REF-0163
+- condition: headache
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-1207
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0004
+  - REF-0100
+  - REF-0163
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0004
   - REF-0100
-  - REF-0163
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0004
+  - REF-0163
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
   - REF-3039
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0004
+  - REF-0100
+  - REF-0163
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0004
   - REF-0100
   - REF-0163
-  status: needs-review
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0004
   - REF-0100
   - REF-0163
-  status: needs-review
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0004
   - REF-0100
-  - REF-0163
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0004
+  - REF-0163
 - condition: pain
   reference_ids:
-  - REF-0004
   - REF-0100
-  - REF-0163
   status: verified
-- condition: respiratory-support
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0004
-  - REF-0100
   - REF-0163
-  status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0004
   - REF-0100
   - REF-0163
-  status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0004
   - REF-0100
   - REF-0163
-  status: needs-review
+  - REF-1210
+  - REF-3041
 - condition: cognitive-function
   note: Peppermint/Mentha showed acetylcholinesterase inhibition (cognition-relevant, preclinical).
   reference_ids:
@@ -336,6 +345,8 @@ indications:
   - REF-3049
   - REF-3050
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-3046
 contraindications:
 - note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children -
     menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing

@@ -154,32 +154,27 @@ actions:
   note: Traditional 'blood purifier' (depurative) for skin complaints; the classic use of field scabious.
   reference_ids:
   - REF-2811
-  - REF-2810
   status: verified
 - action: anti-inflammatory
   note: Knautia and related Caprifoliaceae extracts inhibit inflammatory mediators (COX/LOX).
   reference_ids:
   - REF-2811
-  - REF-2813
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-2811
   - REF-2814
-  - REF-2813
   status: verified
 - action: antimicrobial
   note: Antibacterial (anti-acne) activity of Knautia extracts; antimicrobial activity across the family.
   reference_ids:
   - REF-2811
-  - REF-2815
   status: verified
 indications:
 - condition: skin-irritation
   note: Traditional remedy for eczema, itching and skin complaints; anti-acne activity of Knautia extracts.
   reference_ids:
   - REF-2811
-  - REF-2810
   status: verified
 - condition: eczema
   note: inferred from traditional skin/depurative use
@@ -194,7 +189,6 @@ indications:
 - condition: inflammation
   reference_ids:
   - REF-2811
-  - REF-2813
   status: verified
 - condition: wounds
   note: inferred from traditional external use on cuts and sores
@@ -205,7 +199,6 @@ indications:
   note: inferred from antimicrobial action
   reference_ids:
   - REF-2811
-  - REF-2815
   status: needs-review
 contraindications:
 - note: Very little is known about the safety of field scabious and there are no clinical data; avoid
@@ -224,9 +217,7 @@ references:
 - REF-2810
 - REF-2811
 - REF-2812
-- REF-2813
 - REF-2814
-- REF-2815
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)

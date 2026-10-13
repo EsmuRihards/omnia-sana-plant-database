@@ -175,6 +175,8 @@ indications:
   - REF-0452
   - REF-1041
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1036
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
@@ -201,6 +203,8 @@ indications:
   - REF-1035
   - REF-1040
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1036
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:

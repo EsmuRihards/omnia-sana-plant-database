@@ -139,14 +139,12 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0300
+  reference_ids: []
   status: needs-review
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0102
-  - REF-0300
   status: needs-review
 - condition: cancer
   note: inferred from anticancer action
@@ -156,38 +154,39 @@ indications:
   - REF-2596
   - REF-2598
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0300
 - condition: cardiovascular-support
   reference_ids:
   - REF-0102
-  - REF-0300
   status: verified
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
-  - REF-0300
   - REF-2597
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0300
+  - REF-1497
 - condition: immune-support
   reference_ids:
-  - REF-0300
   - REF-2596
   - REF-2597
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0300
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0300
+  reference_ids: []
   status: needs-review
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0102
-  - REF-0300
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0300
+  reference_ids: []
   status: needs-review
 contraindications:
 - note: Generally very safe as a food. Rare cases of occupational asthma and allergy reported among people

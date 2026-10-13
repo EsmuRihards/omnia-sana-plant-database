@@ -172,6 +172,8 @@ indications:
   - REF-0431
   - REF-0432
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1992
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -204,6 +206,8 @@ indications:
   - REF-0432
   - REF-0619
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1992
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:

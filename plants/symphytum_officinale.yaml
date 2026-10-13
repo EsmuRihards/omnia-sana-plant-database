@@ -135,7 +135,6 @@ actions:
 - action: analgesic
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   - REF-1070
   - REF-1071
@@ -143,7 +142,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   - REF-1064
   - REF-1066
@@ -153,13 +151,11 @@ actions:
 - action: anti-oedematous
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   status: verified
 - action: vulnerary
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   - REF-1072
   status: verified
@@ -168,76 +164,60 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   status: needs-review
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1071
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   - REF-1070
   status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0074
-  - REF-0246
-  - REF-0281
-  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1072
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   - REF-1066
   status: needs-review
 - condition: pain
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   - REF-1070
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1071
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0074
-  - REF-0246
-  - REF-0281
-  - REF-1065
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0074
+  - REF-0281
 - condition: swelling
   reference_ids:
   - REF-0074
-  - REF-0246
   - REF-0281
   status: verified
-- condition: varicose-veins
-  note: inferred from anti-oedematous action
-  reference_ids:
-  - REF-0074
-  - REF-0246
-  - REF-0281
-  status: needs-review
 - condition: wounds
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0074
-  - REF-0246
   - REF-0281
-  - REF-1065
-  - REF-1072
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0074
+  - REF-1072
 contraindications:
 - note: 'Big headline: Comfrey naturally contains pyrrolizidine alkaloids (PAs), which can seriously harm
     the liver if taken internally (Staiger, 2012; EMA, 2015). • Do not ingest comfrey (no teas, no internal

@@ -147,9 +147,10 @@ indications:
   reference_ids:
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2179
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0128
   - REF-0308
   status: verified
 - condition: cognitive-function
@@ -176,6 +177,8 @@ indications:
   reference_ids:
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2179
 contraindications:
 - note: Generally well tolerated at standard doses but notable interactions exist. Ginkgo has antiplatelet
     and anticoagulant effects and should not be combined with warfarin, aspirin, or other blood-thinning
@@ -251,7 +254,7 @@ drug_class_interactions:
     blocker), raising its levels and side effects such as dizziness; combined use with blood-pressure
     medicines warrants monitoring.
   reference_ids:
-  - REF-2500
+  - REF-0825
   - REF-2436
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
@@ -263,7 +266,7 @@ drug_class_interactions:
     antidiabetic medicines.
   reference_ids:
   - REF-2436
-  - REF-2500
+  - REF-0825
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

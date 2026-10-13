@@ -144,7 +144,6 @@ actions:
   - REF-0022
   - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   - REF-1658
   - REF-1662
@@ -156,7 +155,6 @@ actions:
   - REF-0022
   - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   - REF-1662
   - REF-1663
@@ -167,7 +165,6 @@ actions:
   - REF-0022
   - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   - REF-1661
   - REF-1663
@@ -180,7 +177,6 @@ actions:
   - REF-0022
   - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   status: verified
 - action: vulnerary
@@ -188,7 +184,6 @@ actions:
   - REF-0022
   - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   - REF-1658
   status: verified
@@ -196,75 +191,79 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0022
-  - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0022
+  - REF-0118
+  - REF-1658
+  - REF-1662
+  - REF-1666
+  - REF-1667
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0022
-  - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0022
+  - REF-0118
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0022
-  - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0022
+  - REF-0118
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0022
-  - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0022
+  - REF-0118
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0022
-  - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0118
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0022
-  - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0022
+  - REF-0118
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0022
-  - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0022
+  - REF-0118
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0022
-  - REF-0118
   - REF-0146
-  - REF-0216
   - REF-0317
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0118
 contraindications:
 - note: Generally considered safe at culinary and traditional tea-preparation doses. No major contraindications
     established for healthy adults in normal use. The young shoots and leaves are widely eaten as a spring

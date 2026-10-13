@@ -123,9 +123,10 @@ actions:
 indications:
 - condition: asthma
   note: inferred from bronchodilator action
-  reference_ids:
-  - REF-0472
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0472
 - condition: bronchitis
   note: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
     mucus)
@@ -144,14 +145,16 @@ indications:
   status: verified
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0472
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0472
 - condition: muscle-spasm
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0472
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0472
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:

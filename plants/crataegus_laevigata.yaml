@@ -136,13 +136,13 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0108
-  - REF-0196
+  - REF-2442
   - REF-1784
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0108
-  - REF-0196
+  - REF-2442
   - REF-0783
   - REF-1780
   - REF-1781
@@ -154,7 +154,7 @@ actions:
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0108
-  - REF-0196
+  - REF-2442
   - REF-0783
   - REF-1785
   - REF-1786
@@ -162,7 +162,7 @@ actions:
 - action: sedative
   reference_ids:
   - REF-0108
-  - REF-0196
+  - REF-2442
   - REF-1787
   status: verified
 indications:
@@ -170,43 +170,58 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0108
-  - REF-0196
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1784
+  - REF-2442
 - condition: cardiovascular-support
   reference_ids:
   - REF-0108
-  - REF-0196
+  - REF-2442
   status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0108
-  - REF-0196
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1784
+  - REF-2442
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
   - REF-0108
-  - REF-0196
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2442
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0108
-  - REF-0196
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0783
+  - REF-1785
+  - REF-1786
+  - REF-2442
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0108
-  - REF-0196
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0783
+  - REF-1785
+  - REF-1786
+  - REF-2442
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0108
-  - REF-0196
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1784
+  - REF-2442
 contraindications:
 - note: Generally safe and well tolerated. High doses may cause low blood pressure and sedation. May interact
     with cardiac glycosides (digoxin) and antihypertensive drugs. Consult a physician before using with
@@ -214,7 +229,7 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0108
-  - REF-0196
+  - REF-2442
   status: verified
 - note: Duke (2002) rates hawthorn (Crataegus spp., including C. laevigata) as a triple-plus herb (+++)
     with Commission E approval (score 2-3) for decreasing cardiac output in functional Stage II heart
@@ -225,7 +240,7 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0108
-  - REF-0196
+  - REF-2442
   - REF-0063
   status: verified
 references:
@@ -252,7 +267,6 @@ drug_class_interactions:
   reference_ids:
   - REF-2441
   - REF-2442
-  - REF-2526
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -263,7 +277,6 @@ drug_class_interactions:
     medicines.
   reference_ids:
   - REF-2442
-  - REF-2526
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

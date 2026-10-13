@@ -139,14 +139,13 @@ dosage:
     conditions. Educational reference only, not a prescription.'
   reference_ids:
   - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   status: verified
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   - REF-1763
   - REF-1764
@@ -163,8 +162,7 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   - REF-0354
   - REF-1767
@@ -190,8 +188,7 @@ actions:
 - action: expectorant
   note: Demulcent / expectorant (coughs, catarrh, irritated airways)
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   - REF-0357
   - REF-0358
@@ -208,11 +205,9 @@ actions:
 - action: vulnerary
   note: Vulnerary (wound healing) - fresh leaf poultice
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   - REF-0358
-  - REF-0364
   - REF-0368
   - REF-1759
   - REF-1760
@@ -220,7 +215,6 @@ actions:
   - REF-3004
   - REF-3005
   - REF-3006
-  - REF-3007
   status: verified
 - action: immunomodulator
   reference_ids:
@@ -253,15 +247,16 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1763
+  - REF-3010
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   - REF-0357
   - REF-0358
@@ -269,11 +264,9 @@ indications:
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   - REF-0358
-  - REF-0364
   - REF-0368
   status: needs-review
 - condition: constipation
@@ -281,12 +274,17 @@ indications:
   reference_ids:
   - REF-0358
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1769
 - condition: cough
   note: Demulcent / expectorant (coughs, catarrh, irritated airways)
   reference_ids:
   - REF-0357
   - REF-0358
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1762
+  - REF-1769
 - condition: diarrhea
   note: Astringent (diarrhoea)
   reference_ids:
@@ -301,15 +299,13 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   status: needs-review
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   - REF-0357
   - REF-0358
@@ -317,24 +313,25 @@ indications:
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1769
 - condition: sore-throat
   note: inferred from demulcent action
   reference_ids:
   - REF-0357
   - REF-0358
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1769
 - condition: wounds
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   - REF-0358
-  - REF-0364
   - REF-0368
   - REF-3004
   status: needs-review
@@ -362,7 +359,7 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   status: verified
 - note: 'Duke (2002) rates plantain as ++ and notes anti-inflammatory, antitussive, antiatherosclerotic,
@@ -374,7 +371,7 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0234
-  - REF-0260
+  - REF-0364
   - REF-0309
   - REF-0063
   status: verified

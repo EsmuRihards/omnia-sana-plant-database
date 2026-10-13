@@ -16,7 +16,7 @@ constituents:
   - tannin
   note: The astringent principles of the leaf.
   reference_ids:
-  - REF-0417
+  - REF-2549
   - REF-0418
 - name: Flavonoids and phenolic acids (including gallic acid)
   compounds:
@@ -29,7 +29,7 @@ constituents:
 - name: Vitamin C and minerals (iron)
   note: Minor nutritive constituents of the leaf.
   reference_ids:
-  - REF-0417
+  - REF-2549
 botanical_description:
   text: Scrambling, thorny deciduous shrub (Rosaceae) forming dense thickets, with arching prickly stems
     that root at the tip. Leaves are palmately compound, usually with 3-5 toothed leaflets. White to pale
@@ -44,14 +44,14 @@ botanical_description:
   fruit: Cluster of drupelets, ripening red to glossy black
   flowering_period: June-August
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 habitat:
   text: Native throughout Europe and widely naturalised elsewhere, an aggressive coloniser of hedgerows,
     woodland edges, scrub and waste ground. 'Rubus fruticosus' is a taxonomically complex aggregate comprising
     hundreds of closely related microspecies.
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 harvesting:
   text: Leaves are picked fresh throughout the growing season and dried for tea; berries are picked in
@@ -60,7 +60,7 @@ harvesting:
   - Leaf
   season: Leaf throughout the growing season
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 harvest_readiness:
 - part: leaf
@@ -79,18 +79,18 @@ traditional_uses:
     and mouth ulcers, and as a remedy for mild diarrhoea, reflecting its high tannin content; the berries
     themselves are valued as a nutritious, antioxidant-rich food.
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 preparations:
 - name: Infusion (tea)
   text: Dried leaf steeped in hot water, taken internally or used as a gargle/mouthwash.
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 - name: Gargle/mouthwash
   text: A stronger leaf infusion used topically for sore throat and mouth irritation.
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 - name: Fresh or dried berries
   text: Eaten as food, a rich source of antioxidants.
@@ -100,13 +100,13 @@ dosage:
   text: Traditional guidance suggests roughly 2-4 g dried leaf per cup as an infusion, up to three times
     daily, or used as a gargle at similar strength. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
   reference_ids:
-  - REF-0417
+  - REF-2549
   - REF-2548
   - REF-2550
   - REF-2551
@@ -118,9 +118,8 @@ actions:
 - action: antidiarrheal
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
-  - REF-0417
-  - REF-0418
   - REF-2549
+  - REF-0418
   status: verified
 - action: antimicrobial
   reference_ids:
@@ -138,15 +137,17 @@ actions:
 - action: astringent
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
-  - REF-0417
+  - REF-2549
   - REF-0418
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2548
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -155,9 +156,10 @@ indications:
 - condition: diarrhea
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
-  - REF-0417
-  - REF-0418
+  - REF-2549
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0418
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -166,28 +168,30 @@ indications:
 - condition: inflammation
   note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 - condition: oral-health
   note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 - condition: skin-irritation
   note: inferred from astringent action
   reference_ids:
-  - REF-0417
-  - REF-0418
+  - REF-2549
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0418
+  - REF-2548
 - condition: sore-throat
   note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 - condition: wounds
   note: inferred from astringent action
   reference_ids:
-  - REF-0417
+  - REF-2549
   - REF-0418
   - REF-2551
   status: needs-review
@@ -196,13 +200,13 @@ contraindications:
     the absorption of iron and some medicines taken at the same time.'
   severity: info
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 - note: Traditional use only; diarrhoea that persists (especially in children) needs medical assessment
     and attention to rehydration.
   severity: info
   reference_ids:
-  - REF-0417
+  - REF-2549
   status: verified
 references:
 - REF-0713

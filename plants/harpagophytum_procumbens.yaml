@@ -138,6 +138,8 @@ indications:
   - REF-0443
   - REF-0444
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1836
 - condition: back-pain
   note: Effective at standardised doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior
     to rofecoxib for short-term chronic low back pain; Relief of chronic non-specific low back pain
@@ -147,12 +149,22 @@ indications:
   - REF-0561
   - REF-0562
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1830
+  - REF-1834
+  - REF-1835
+  - REF-1838
 - condition: headache
   note: inferred from analgesic action
   reference_ids:
   - REF-0443
-  - REF-0444
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0444
+  - REF-1830
+  - REF-1834
+  - REF-1835
+  - REF-1838
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -174,8 +186,12 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0443
-  - REF-0444
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0444
+  - REF-1831
+  - REF-1834
+  - REF-1836
 contraindications:
 - note: Because it is a bitter that increases stomach-acid and bile secretion, it is contraindicated in
     active peptic ulcer, gastritis and (without medical supervision) gallstones.

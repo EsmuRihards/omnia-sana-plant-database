@@ -116,9 +116,8 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0028
-  - REF-0122
+  - REF-1669
   - REF-0144
-  - REF-0222
   - REF-0292
   - REF-1668
   - REF-1670
@@ -128,9 +127,8 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-0028
-  - REF-0122
+  - REF-1669
   - REF-0144
-  - REF-0222
   - REF-0292
   - REF-1668
   - REF-1674
@@ -138,9 +136,8 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0028
-  - REF-0122
+  - REF-1669
   - REF-0144
-  - REF-0222
   - REF-0292
   - REF-1668
   - REF-1672
@@ -149,93 +146,87 @@ actions:
 - action: digestive
   reference_ids:
   - REF-0028
-  - REF-0122
+  - REF-1669
   - REF-0144
-  - REF-0222
   - REF-0292
   - REF-1668
-  - REF-1669
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0028
-  - REF-0122
   - REF-0144
-  - REF-0222
-  - REF-0292
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0028
+  - REF-0292
+  - REF-1669
+  - REF-1670
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0028
-  - REF-0122
+  - REF-1669
   - REF-0144
-  - REF-0222
-  - REF-0292
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0028
+  - REF-0292
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0028
-  - REF-0122
   - REF-0144
-  - REF-0222
   - REF-0292
   status: verified
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0028
-  - REF-0122
+  - REF-1669
   - REF-0144
-  - REF-0222
-  - REF-0292
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0028
+  - REF-0292
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0028
-  - REF-0122
   - REF-0144
-  - REF-0222
-  - REF-0292
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0292
+  - REF-1669
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0028
-  - REF-0122
   - REF-0144
-  - REF-0222
   - REF-0292
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0028
+  - REF-1669
 - condition: respiratory-support
   reference_ids:
-  - REF-0028
-  - REF-0122
   - REF-0144
-  - REF-0222
-  - REF-0292
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0028
-  - REF-0122
   - REF-0144
-  - REF-0222
-  - REF-0292
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0028
+  - REF-0292
+  - REF-1669
+  - REF-1670
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0028
-  - REF-0122
   - REF-0144
-  - REF-0222
-  - REF-0292
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0292
+  - REF-1669
+  - REF-1674
 contraindications:
 - note: Cardamom is generally considered safe for most people when used in culinary amounts. At medicinal
     doses (supplement form), rare side effects include mild gastrointestinal discomfort and allergic reactions.
@@ -248,7 +239,7 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0028
-  - REF-0122
+  - REF-1669
   - REF-0144
   - REF-0222
   - REF-0292
@@ -261,7 +252,7 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0028
-  - REF-0122
+  - REF-1669
   - REF-0144
   - REF-0222
   - REF-0292

@@ -262,6 +262,8 @@ indications:
   - REF-0142
   - REF-0285
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2072
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
@@ -407,6 +409,8 @@ indications:
   - REF-0142
   - REF-0285
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2072
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
@@ -418,6 +422,8 @@ indications:
   - REF-0142
   - REF-0285
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2075
 contraindications:
 - note: Generally well-tolerated in clinical trials at doses up to 200 mg/day of oil for 90 days. Potential
     side effects may include mild gastrointestinal discomfort. Contraindicated during pregnancy due to

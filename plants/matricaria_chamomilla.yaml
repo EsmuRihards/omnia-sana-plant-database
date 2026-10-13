@@ -148,7 +148,6 @@ actions:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   - REF-2349
   - REF-2351
@@ -158,7 +157,6 @@ actions:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   - REF-1153
   - REF-1157
@@ -172,7 +170,6 @@ actions:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   - REF-1153
   status: verified
@@ -182,7 +179,6 @@ actions:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   - REF-1153
   - REF-1157
@@ -194,7 +190,6 @@ actions:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   - REF-1153
   - REF-1157
@@ -205,7 +200,6 @@ actions:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: verified
 - action: sedative
@@ -213,7 +207,6 @@ actions:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   - REF-1153
   - REF-1154
@@ -228,7 +221,6 @@ actions:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: verified
 - action: anxiolytic
@@ -248,65 +240,66 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   - REF-2349
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0079
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
-  - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0079
+  - REF-2349
+  - REF-2351
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0079
 - condition: eczema
   note: inferred from emollient action
   reference_ids:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
 - condition: headache
   note: inferred from analgesic action
   reference_ids:
-  - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0079
+  - REF-2349
+  - REF-2351
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
 - condition: infection
@@ -315,7 +308,6 @@ indications:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
 - condition: inflammation
@@ -324,62 +316,63 @@ indications:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   - REF-1154
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0079
+  - REF-1155
+  - REF-1156
+  - REF-1160
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   - REF-2351
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0079
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
 - condition: pain
   reference_ids:
-  - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0079
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2349
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0079
   - REF-0112
   - REF-0189
-  - REF-0231
   - REF-0280
   status: needs-review
 - condition: anxiety
@@ -483,7 +476,7 @@ drug_class_interactions:
   reference_ids:
   - REF-2452
   - REF-2460
-  - REF-2532
+  - REF-1160
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -493,7 +486,7 @@ drug_class_interactions:
     type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood
     sugar.
   reference_ids:
-  - REF-2501
+  - REF-2350
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

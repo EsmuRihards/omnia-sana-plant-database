@@ -141,6 +141,9 @@ indications:
   - REF-0529
   - REF-0530
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0592
+  - REF-1256
 - condition: back-pain
   note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
     mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks
@@ -160,6 +163,11 @@ indications:
   reference_ids:
   - REF-0530
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0529
+  - REF-0592
+  - REF-1260
+  - REF-1261
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -167,6 +175,8 @@ indications:
   - REF-0530
   - REF-0592
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1256
 - condition: pain
   note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
     mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks;
@@ -179,11 +189,13 @@ indications:
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0529
   - REF-0530
   - REF-0592
-  status: needs-review
+  - REF-1256
 contraindications:
 - note: Because it works like aspirin, avoid willow bark if you are allergic to aspirin or salicylates,
     and do NOT give it to children or teenagers with a viral illness (risk of Reye's syndrome). Use caution

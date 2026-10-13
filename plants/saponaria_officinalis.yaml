@@ -136,14 +136,12 @@ indications:
     for eczema)
   reference_ids:
   - REF-0512
-  - REF-1029
   status: needs-review
 - condition: eczema
   note: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
     for eczema)
   reference_ids:
   - REF-0512
-  - REF-1025
   status: needs-review
 - condition: respiratory-support
   note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
@@ -151,11 +149,6 @@ indications:
   reference_ids:
   - REF-0511
   - REF-0512
-  status: needs-review
-- condition: skin-irritation
-  reference_ids:
-  - REF-1027
-  - REF-1029
   status: needs-review
 contraindications:
 - note: 'SERIOUS: the saponins are irritant and can cause haemolysis (destruction of red blood cells).

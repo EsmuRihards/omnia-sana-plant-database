@@ -119,26 +119,22 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0025
-  - REF-0091
   - REF-0112
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0025
-  - REF-0091
   - REF-0112
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0025
-  - REF-0091
   - REF-0112
   status: verified
 - action: sedative
   reference_ids:
   - REF-0025
-  - REF-0091
   - REF-0112
   - REF-1348
   - REF-1349
@@ -153,22 +149,21 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0025
-  - REF-0091
   - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0025
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0025
-  - REF-0091
   - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0025
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
   - REF-0025
-  - REF-0091
   - REF-0112
   - REF-1348
   - REF-1349
@@ -179,24 +174,24 @@ indications:
   status: needs-review
 - condition: menstrual-cramps
   reference_ids:
-  - REF-0025
-  - REF-0091
   - REF-0112
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0025
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0025
-  - REF-0091
   - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0025
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0025
-  - REF-0091
   - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0025
 contraindications:
 - note: Generally well tolerated for short-to-medium term use. May cause vivid dreams, morning grogginess,
     or headache in some individuals. Avoid combining with alcohol, sedatives, or anaesthetics. Do not
@@ -239,7 +234,7 @@ drug_class_interactions:
     improving sleep quality).
   reference_ids:
   - REF-2440
-  - REF-2533
+  - REF-0025
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -261,7 +256,7 @@ pairings:
     formulas; combined use may enhance relaxation but also additive drowsiness.
   reference_ids:
   - REF-2452
-  - REF-2453
+  - REF-0565
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

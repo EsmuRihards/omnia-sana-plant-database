@@ -21,14 +21,14 @@ constituents:
   note: Very high tannin content is the basis of the strong astringency.
   reference_ids:
   - REF-0411
-  - REF-0410
+  - REF-0746
 - name: Phenolic acids and flavonoids
   compounds:
   - phenolic-acid
   - flavonoid
   note: Contribute to antioxidant and antibacterial activity.
   reference_ids:
-  - REF-0410
+  - REF-0746
 - name: Starch and oxalic acid
   compounds:
   - starch
@@ -49,13 +49,13 @@ botanical_description:
   fruit: Small, glossy, three-angled achene
   flowering_period: May-August
   reference_ids:
-  - REF-0410
+  - REF-0746
   status: verified
 habitat:
   text: Grows in damp meadows, pastures, streamsides and mountain grassland on moist, often calcareous
     soils; native to Europe and temperate Asia, favouring cooler upland regions.
   reference_ids:
-  - REF-0410
+  - REF-0746
   status: verified
 harvesting:
   text: The rhizome is dug in autumn or early spring, when tannin content is highest, cleaned and dried;
@@ -64,7 +64,7 @@ harvesting:
   - Rhizome (root) and aerial parts
   season: Rhizome in autumn or early spring; aerial parts in summer flowering
   reference_ids:
-  - REF-0410
+  - REF-0746
   status: verified
 harvest_readiness:
 - part: rhizome
@@ -95,7 +95,7 @@ traditional_uses:
     topically as a vulnerary and styptic for minor wounds and bleeding; young leaves have also traditionally
     been eaten as a spring pot-herb ('Easter-ledge pudding').
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: verified
 preparations:
@@ -103,7 +103,7 @@ preparations:
   text: Dried rhizome simmered in water as a strongly astringent traditional remedy for diarrhoea, or
     used as a gargle/mouthwash for sore throat.
   reference_ids:
-  - REF-0410
+  - REF-0746
   status: verified
 - name: Tincture
   text: Alcoholic extract of the dried rhizome.
@@ -122,7 +122,7 @@ actions:
 - action: anti-inflammatory
   note: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   - REF-2116
   status: verified
@@ -136,47 +136,48 @@ actions:
 - action: antidiarrheal
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   - REF-2116
   status: verified
 - action: antimicrobial
   note: Antibacterial (topical) - GC-MS-characterised extracts showed antibacterial activity
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0627
   - REF-0747
   status: verified
 - action: astringent
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
-  - REF-2119
   status: verified
 - action: styptic
   note: Vulnerary and styptic for minor wounds (topical)
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: verified
 - action: vulnerary
   note: Vulnerary and styptic for minor wounds (topical)
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2116
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: needs-review
 - condition: cancer
@@ -190,43 +191,46 @@ indications:
 - condition: diarrhea
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: verified
 - condition: heavy-bleeding
   note: inferred from styptic action
   reference_ids:
-  - REF-0410
   - REF-0411
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0746
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0627
   status: needs-review
 - condition: inflammation
   note: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: verified
 - condition: skin-irritation
   note: inferred from astringent action
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2116
 - condition: sore-throat
   note: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: verified
 - condition: wounds
   note: Vulnerary and styptic for minor wounds (topical)
   reference_ids:
-  - REF-0410
+  - REF-0746
   - REF-0411
   status: verified
 contraindications:

@@ -184,6 +184,8 @@ indications:
   reference_ids:
   - REF-0516
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2274
 - condition: cancer
   note: Acorus calamus extract inhibits gastric cancer (AGS) growth and angiogenesis; its constituent
     beta-asarone induces apoptosis and suppresses invasion/EMT in gastric, esophageal and bladder cancer

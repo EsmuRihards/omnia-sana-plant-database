@@ -151,19 +151,22 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0148
-  - REF-0182
   - REF-0308
   - REF-1114
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0148
+  - REF-0182
+  - REF-1121
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0148
   - REF-0182
   - REF-0308
   - REF-1117
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0148
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -172,13 +175,10 @@ indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-0148
-  - REF-0182
   - REF-0308
   status: verified
 - condition: fertility
   reference_ids:
-  - REF-0148
-  - REF-0182
   - REF-0308
   - REF-1116
   status: verified
@@ -186,24 +186,29 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0148
-  - REF-0182
   - REF-0308
   - REF-1121
   - REF-1122
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0182
 - condition: metabolic-support
   reference_ids:
-  - REF-0148
   - REF-0182
   - REF-0308
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0148
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0148
-  - REF-0182
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0148
+  - REF-0182
+  - REF-1114
+  - REF-1121
 contraindications:
 - note: Fenugreek appears https://www.nccih.nih.gov/health/fenugreek for most people.
   severity: info

@@ -119,11 +119,9 @@ actions:
   - REF-0618
   - REF-2298
   - REF-2302
-  - REF-0805
   status: verified
 - action: anticancer
-  reference_ids:
-  - REF-0805
+  reference_ids: []
   status: needs-review
 - action: antimicrobial
   note: Antibacterial, including against Escherichia coli (urinary support)
@@ -145,11 +143,6 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0403
-  status: needs-review
-- condition: cancer
-  note: inferred from anticancer action
-  reference_ids:
-  - REF-0805
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
@@ -190,14 +183,8 @@ indications:
     is not yet conclusive
   reference_ids:
   - REF-0403
-  - REF-0404
   - REF-0618
   status: verified
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0403
-  status: needs-review
 contraindications:
 - note: Lower urinary tract / prostate symptoms must be medically assessed first to exclude prostate cancer;
     willowherb is a supportive measure, not a substitute for diagnosis and treatment.
@@ -213,7 +200,6 @@ contraindications:
 references:
 - REF-0803
 - REF-0804
-- REF-0805
 - REF-0618
 - REF-2297
 - REF-2298

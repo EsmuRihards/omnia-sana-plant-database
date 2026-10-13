@@ -224,6 +224,9 @@ indications:
   reference_ids:
   - REF-0045
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1964
+  - REF-1968
 contraindications:
 - note: Generally safe in moderate consumption. High caffeine intake may cause insomnia, anxiety, palpitations,
     or dependence. Large amounts of green tea extract supplements may be hepatotoxic (rare). May reduce

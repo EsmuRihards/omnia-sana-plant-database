@@ -278,23 +278,27 @@ indications:
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0369
   - REF-0373
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2084
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   - REF-0369
   - REF-0372
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: cancer
   note: Antiproliferative activity of Achillea millefolium extracts and constituents (centaureidin, casticin)
     against HeLa, MCF-7 and A431 cancer cell lines (preclinical).
@@ -328,6 +332,8 @@ indications:
   - REF-0373
   - REF-0381
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2085
 - condition: indigestion
   note: inferred from bitter-tonic action
   reference_ids:
@@ -339,56 +345,64 @@ indications:
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: menstrual-cramps
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: uti
   note: inferred from diuretic action
   reference_ids:
   - REF-0011
   - REF-0098
-  - REF-0296
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0296
 - condition: wounds
   note: Styptic / haemostatic (slows bleeding from minor cuts)
   reference_ids:
@@ -396,6 +410,8 @@ indications:
   - REF-0373
   - REF-0381
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0296
 contraindications:
 - note: Generally very safe. Rarely causes contact dermatitis in sensitive individuals (sesquiterpene
     lactones, same Asteraceae family). Avoid high doses during pregnancy (emmenagogue at large doses).

@@ -131,7 +131,6 @@ actions:
   reference_ids:
   - REF-0476
   - REF-0477
-  - REF-0625
   status: verified
 - action: anti-inflammatory
   note: Anti-inflammatory and antioxidant
@@ -170,7 +169,6 @@ indications:
   reference_ids:
   - REF-0476
   - REF-0477
-  - REF-0625
   status: needs-review
 - condition: arthritis
   note: inferred from anti-inflammatory action
@@ -192,7 +190,6 @@ indications:
   reference_ids:
   - REF-0476
   - REF-0477
-  - REF-0625
   status: needs-review
 - condition: eczema
   note: Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and
@@ -200,7 +197,6 @@ indications:
   reference_ids:
   - REF-0476
   - REF-0477
-  - REF-0625
   status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -213,7 +209,6 @@ indications:
   reference_ids:
   - REF-0476
   - REF-0477
-  - REF-0625
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action

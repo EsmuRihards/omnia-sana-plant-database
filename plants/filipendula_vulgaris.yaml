@@ -55,7 +55,7 @@ harvesting:
   - Leaf
   season: Aerial parts and flowers in summer (May-August); roots and tubers in autumn
   reference_ids:
-  - REF-2726
+  - REF-0815
   status: verified
 harvest_readiness:
 - part: flower
@@ -82,7 +82,7 @@ harvest_readiness:
   notes: "PFAF (REF-3257); the flowering herb is gathered while in flower (May-August). Single lineage -> provisional."
 - part: root
   status: gap
-  notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Filipendula vulgaris. Grieve's entry (filed under Meadowsweet, as Spiraea Filipendula) describes the tubers and quotes Culpepper on their use but gives no digging season; PFAF likewise gives none. The DB harvesting.text claims 'roots and tubers in autumn' citing REF-2726, but that source was not verified for root timing, so no autumn stage is asserted here. Next seam: a Baltic or central-European ethnobotanical survey, or the dropwort-into-cultivation literature. SAFETY CRITICAL: the small root tubers of dropwort are name-confused with the FATAL Oenanthe crocata (hemlock water dropwort) - never dig dropwort roots without certain identification; see Dangerous Lookalikes."
+  notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Filipendula vulgaris. Grieve's entry (filed under Meadowsweet, as Spiraea Filipendula) describes the tubers and quotes Culpepper on their use but gives no digging season; PFAF likewise gives none. The DB harvesting.text claims 'roots and tubers in autumn' citing REF-0815, but that source was not verified for root timing, so no autumn stage is asserted here. Next seam: a Baltic or central-European ethnobotanical survey, or the dropwort-into-cultivation literature. SAFETY CRITICAL: the small root tubers of dropwort are name-confused with the FATAL Oenanthe crocata (hemlock water dropwort) - never dig dropwort roots without certain identification; see Dangerous Lookalikes."
 traditional_uses:
   text: Dropwort shares much of the European folk-medicine history of its sibling meadowsweet. The salicylate-
     and tannin-rich herb has been used as an astringent and anti-inflammatory remedy for diarrhoea and
@@ -91,7 +91,7 @@ traditional_uses:
     and roots are used; Russian traditional medicine uses dropwort extracts as a nootropic and calming
     remedy for the nervous system.
   reference_ids:
-  - REF-2726
+  - REF-0815
   - REF-2736
   - REF-2739
   status: verified
@@ -100,12 +100,12 @@ preparations:
   text: Dried flowering tops or leaves infused as an astringent, anti-inflammatory tea for digestive and
     rheumatic complaints.
   reference_ids:
-  - REF-2726
+  - REF-0815
   status: verified
 - name: Decoction
   text: The root and root-tubers decocted; used traditionally for diarrhoea and urinary 'gravel'.
   reference_ids:
-  - REF-2726
+  - REF-0815
   status: draft
 - name: Aromatic distillate / essential oil
   text: The flowers yield an aromatic oil dominated by salicylaldehyde with antimicrobial activity (as
@@ -148,7 +148,7 @@ constituents:
     action.
   reference_ids:
   - REF-2725
-  - REF-2731
+  - REF-2034
 - name: Phenolic acids
   compounds:
   - phenolic-acid
@@ -176,38 +176,38 @@ constituents:
     shared with meadowsweet and willow, underlying the anti-inflammatory/analgesic and antimicrobial effects.
   reference_ids:
   - REF-2734
-  - REF-2727
+  - REF-2031
 actions:
 - action: antioxidant
   reference_ids:
   - REF-2728
   - REF-2730
   - REF-2725
-  - REF-2731
+  - REF-2034
   - REF-2733
   - REF-2740
   status: verified
 - action: anti-inflammatory
   reference_ids:
   - REF-2725
-  - REF-2726
-  - REF-2727
+  - REF-0815
+  - REF-2031
   status: verified
 - action: analgesic
   note: Antihyperalgesic in a rat inflammatory-pain model (salicylate-mediated).
   reference_ids:
-  - REF-2727
+  - REF-2031
   status: verified
 - action: anti-rheumatic
   note: Traditional use for rheumatic/arthritic pain, consistent with salicylate content and analgesic/anti-inflammatory
     activity.
   reference_ids:
-  - REF-2727
-  - REF-2726
+  - REF-2031
+  - REF-0815
   status: verified
 - action: gastroprotective
   reference_ids:
-  - REF-2726
+  - REF-0815
   status: verified
 - action: antimicrobial
   reference_ids:
@@ -224,7 +224,7 @@ actions:
   note: Hydrolysable-tannin astringency underlying traditional antidiarrhoeal and wound/gargle use.
   reference_ids:
   - REF-2725
-  - REF-2731
+  - REF-2034
   status: verified
 - action: neuroprotective
   note: Nootropic and brain-bioenergetic effects in animal models (Russian traditional nervous-system
@@ -253,28 +253,28 @@ indications:
 - condition: inflammation
   reference_ids:
   - REF-2725
-  - REF-2726
+  - REF-0815
   status: verified
 - condition: pain
   note: Antihyperalgesic activity.
   reference_ids:
-  - REF-2727
+  - REF-2031
   status: verified
 - condition: arthritis
   note: inferred from anti-rheumatic / analgesic action (salicylates)
   reference_ids:
-  - REF-2727
+  - REF-2031
   status: needs-review
 - condition: diarrhea
   note: inferred from astringent (tannin) action and traditional use
-  reference_ids:
-  - REF-2726
-  - REF-2731
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2034
 - condition: indigestion
   note: inferred from gastroprotective action
   reference_ids:
-  - REF-2726
+  - REF-0815
   status: needs-review
 - condition: liver-support
   note: Hepatoprotective in animal models.
@@ -287,6 +287,8 @@ indications:
   - REF-2730
   - REF-2734
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2034
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -310,16 +312,6 @@ indications:
   reference_ids:
   - REF-2739
   status: verified
-- condition: urinary-support
-  note: inferred from traditional kidney/bladder 'gravel' use
-  reference_ids:
-  - REF-2726
-  status: needs-review
-- condition: kidney-support
-  note: inferred from traditional urinary/gravel use
-  reference_ids:
-  - REF-2726
-  status: needs-review
 contraindications:
 - note: Dropwort contains salicylate compounds (salicylaldehyde, methyl salicylate), as in meadowsweet
     and willow. Avoid in salicylate or aspirin sensitivity, and use caution alongside anticoagulant or
@@ -328,7 +320,7 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-2734
-  - REF-2727
+  - REF-2031
   status: verified
 - note: Safety in pregnancy and breastfeeding has not been established; avoid medicinal doses during pregnancy
     and lactation.
@@ -338,17 +330,17 @@ contraindications:
     them non-genotoxic and antigenotoxic (DNA-protective) at the doses studied.
   severity: info
   reference_ids:
-  - REF-2731
+  - REF-2034
   - REF-2740
   status: verified
 references:
 - REF-2725
-- REF-2726
-- REF-2727
+- REF-0815
+- REF-2031
 - REF-2728
 - REF-2729
 - REF-2730
-- REF-2731
+- REF-2034
 - REF-2732
 - REF-2733
 - REF-2734
@@ -374,7 +366,7 @@ drug_class_interactions:
     and bleeding effects.
   reference_ids:
   - REF-2734
-  - REF-2727
+  - REF-2031
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-10'
@@ -394,8 +386,8 @@ pairings:
     analgesic, astringent and gastroprotective uses (dropwort of dry grassland, meadowsweet of wet meadows);
     studied together in the same trials.'
   reference_ids:
-  - REF-2726
-  - REF-2727
+  - REF-0815
+  - REF-2031
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-10'

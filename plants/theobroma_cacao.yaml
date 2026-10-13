@@ -124,7 +124,6 @@ actions:
   reference_ids:
   - REF-0131
   - REF-0167
-  - REF-0249
   - REF-1084
   - REF-1088
   - REF-1091
@@ -133,7 +132,6 @@ actions:
   reference_ids:
   - REF-0131
   - REF-0167
-  - REF-0249
   - REF-1084
   - REF-1086
   - REF-1088
@@ -144,34 +142,16 @@ actions:
   reference_ids:
   - REF-0131
   - REF-0167
-  - REF-0249
   status: verified
 - action: neuroprotective
   reference_ids:
   - REF-0131
   - REF-0167
-  - REF-0249
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0131
-  - REF-0167
-  - REF-0249
-  status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0131
-  - REF-0167
-  - REF-0249
-  status: needs-review
 - condition: cardiovascular-support
   reference_ids:
   - REF-0131
-  - REF-0167
-  - REF-0249
   - REF-1084
   - REF-1085
   - REF-1086
@@ -184,38 +164,33 @@ indications:
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0131
-  - REF-0167
-  - REF-0249
   status: needs-review
-- condition: indigestion
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0131
+  mechanistic_exclude_ids:
   - REF-0167
-  - REF-0249
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0131
-  - REF-0167
-  - REF-0249
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0167
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0131
-  - REF-0167
-  - REF-0249
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0167
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0131
-  - REF-0167
-  - REF-0249
   - REF-1091
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0131
+  - REF-0167
+  - REF-1084
+  - REF-1088
 contraindications:
 - note: '• Stimulant effect (most common issue): cacao naturally contains theobromine (and some caffeine).
     In larger amounts it can feel like a “gentle coffee”: faster heartbeat, restlessness, trouble sleeping.

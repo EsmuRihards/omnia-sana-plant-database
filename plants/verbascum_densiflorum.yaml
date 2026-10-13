@@ -120,7 +120,6 @@ actions:
   reference_ids:
   - REF-0441
   - REF-0442
-  - REF-1123
   - REF-1130
   status: verified
 - action: expectorant
@@ -128,7 +127,6 @@ actions:
   reference_ids:
   - REF-0441
   - REF-0442
-  - REF-1123
   status: verified
 indications:
 - condition: bronchitis
@@ -158,8 +156,6 @@ indications:
     (combination products, not mullein alone)
   reference_ids:
   - REF-0442
-  - REF-0611
-  - REF-0612
   status: needs-review
 - condition: pain
   note: Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear drop
@@ -167,8 +163,6 @@ indications:
     (combination products, not mullein alone)
   reference_ids:
   - REF-0442
-  - REF-0611
-  - REF-0612
   status: needs-review
 - condition: respiratory-support
   note: inferred from expectorant action
@@ -212,7 +206,6 @@ references:
 - REF-1386
 - REF-0332
 - REF-1387
-- REF-1123
 - REF-1130
 lookalikes_review:
   outcome: has-lookalikes

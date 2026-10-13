@@ -188,7 +188,6 @@ actions:
   - REF-0033
   - REF-0062
   - REF-0098
-  - REF-2035
   - REF-2037
   status: verified
 - action: gastroprotective
@@ -203,9 +202,10 @@ indications:
   note: inferred from gastroprotective action
   reference_ids:
   - REF-0033
-  - REF-0062
   - REF-0098
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0062
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -237,16 +237,18 @@ indications:
   note: inferred from gastroprotective action
   reference_ids:
   - REF-0033
-  - REF-0062
   - REF-0098
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0062
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0033
-  - REF-0062
   - REF-0098
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0062
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -258,16 +260,18 @@ indications:
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0033
-  - REF-0062
   - REF-0098
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0062
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0033
-  - REF-0062
   - REF-0098
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0062
 - condition: pain
   reference_ids:
   - REF-0033
@@ -285,30 +289,37 @@ indications:
   note: inferred from diuretic action
   reference_ids:
   - REF-0033
-  - REF-0062
   - REF-0098
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0062
+  - REF-2037
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
   - REF-0033
-  - REF-0062
   - REF-0098
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0062
+  - REF-2037
 - condition: uti
   note: inferred from diuretic action
   reference_ids:
   - REF-0033
-  - REF-0062
   - REF-0098
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0062
+  - REF-2037
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0033
-  - REF-0062
   - REF-0098
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0062
 contraindications:
 - note: Generally safe in normal culinary and medicinal doses. Avoid in salicylate sensitivity or aspirin
     allergy. Not recommended for children with viral illnesses (Reye's syndrome risk, as with other salicylate-containing

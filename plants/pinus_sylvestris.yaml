@@ -147,7 +147,6 @@ actions:
   reference_ids:
   - REF-0018
   - REF-0098
-  - REF-0279
   - REF-1234
   - REF-1242
   status: verified
@@ -159,7 +158,6 @@ actions:
   reference_ids:
   - REF-0018
   - REF-0098
-  - REF-0279
   - REF-1233
   - REF-1240
   - REF-1241
@@ -168,36 +166,34 @@ actions:
   reference_ids:
   - REF-0018
   - REF-0098
-  - REF-0279
   - REF-1237
   status: verified
 - action: diuretic
   reference_ids:
   - REF-0018
   - REF-0098
-  - REF-0279
   status: verified
 - action: expectorant
   reference_ids:
   - REF-0018
   - REF-0098
-  - REF-0279
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0018
   - REF-0098
-  - REF-0279
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0018
+  - REF-1234
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
-  - REF-0018
   - REF-0098
-  - REF-0279
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0018
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -206,68 +202,71 @@ indications:
 - condition: cough
   note: inferred from expectorant action
   reference_ids:
-  - REF-0018
   - REF-0098
-  - REF-0279
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0018
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0018
   - REF-0098
-  - REF-0279
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1240
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0018
   - REF-0098
-  - REF-0279
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0018
 - condition: respiratory-support
   reference_ids:
-  - REF-0018
   - REF-0098
-  - REF-0279
   - REF-1234
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0018
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0018
   - REF-0098
-  - REF-0279
   - REF-1242
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0018
+  - REF-1234
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
-  - REF-0018
   - REF-0098
-  - REF-0279
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0018
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
-  - REF-0018
   - REF-0098
-  - REF-0279
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0018
 - condition: uti
   note: inferred from diuretic action
   reference_ids:
-  - REF-0018
   - REF-0098
-  - REF-0279
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0018
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0018
   - REF-0098
-  - REF-0279
   - REF-1242
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1240
 contraindications:
 - note: Generally safe in normal amounts. Pine essential oil should not be ingested; topical use only
     in diluted form. May irritate airways in high concentrations. Allergic reactions to pine pollen and

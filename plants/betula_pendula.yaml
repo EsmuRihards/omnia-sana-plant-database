@@ -221,85 +221,101 @@ indications:
 - condition: acid-reflux
   note: inferred from gastroprotective action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
+  - REF-1697
 - condition: back-pain
   note: inferred from anti-rheumatic action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1696
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 - condition: cold
   note: inferred from antiviral action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 - condition: eczema
   note: inferred from emollient action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 - condition: indigestion
   note: inferred from gastroprotective action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
+  - REF-1697
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
+  - REF-1697
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
@@ -324,10 +340,11 @@ indications:
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0080
   - REF-0188
   - REF-0203
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0080
 contraindications:
 - note: Generally considered safe when used appropriately. Side effects may include diarrhea, nausea,
     and allergic reactions (itching, rash, stuffy nose). Not recommended for individuals with edema caused

@@ -18,7 +18,7 @@ constituents:
   note: Responsible for the characteristic astringency.
   reference_ids:
   - REF-0386
-  - REF-0388
+  - REF-0681
   - REF-2331
   - REF-2334
 - name: Flavonoids (luteolin, apigenin, quercetin and their glycosides)
@@ -30,7 +30,7 @@ constituents:
   - luteolin
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
-  - REF-0388
+  - REF-0681
   - REF-0387
   - REF-2334
 - name: Phenolic acids
@@ -38,7 +38,7 @@ constituents:
   - phenolic-acid
   note: Contribute to antioxidant activity.
   reference_ids:
-  - REF-0388
+  - REF-0681
   - REF-2335
 - name: Triterpenes, volatile oil and silica
   compounds:
@@ -48,7 +48,7 @@ constituents:
   note: Minor constituents of the herb.
   reference_ids:
   - REF-0387
-  - REF-0388
+  - REF-0681
 botanical_description:
   text: Slender, downy perennial herb with a basal rosette of pinnately compound leaves and a single,
     unbranched, upright flowering stem. The leaflets are toothed, alternating large and small, and silvery-downy
@@ -65,14 +65,14 @@ botanical_description:
   flowering_period: June-September
   reference_ids:
   - REF-0386
-  - REF-0388
+  - REF-0681
   status: verified
 habitat:
   text: Grows in dry grassland, hedgerows, field margins, roadsides and open woodland edges on well-drained,
     often calcareous soils; native and common throughout Europe, temperate Asia and North Africa.
   reference_ids:
   - REF-0386
-  - REF-0388
+  - REF-0681
   status: verified
 harvesting:
   text: The flowering aerial parts are cut in summer, at the start of flowering, and dried promptly in
@@ -103,7 +103,7 @@ traditional_uses:
     throat.
   reference_ids:
   - REF-0386
-  - REF-0388
+  - REF-0681
   status: verified
 preparations:
 - name: Infusion
@@ -159,11 +159,10 @@ actions:
   reference_ids:
   - REF-0386
   - REF-0387
-  - REF-0388
+  - REF-0681
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0388
   - REF-0681
   - REF-0683
   - REF-0684
@@ -178,27 +177,27 @@ actions:
   reference_ids:
   - REF-0386
   - REF-0387
-  - REF-0388
+  - REF-0681
   status: verified
 - action: bitter-tonic
   note: Mild bitter digestive tonic (indigestion)
   reference_ids:
   - REF-0387
-  - REF-0388
+  - REF-0681
   - REF-0684
   status: verified
 - action: digestive
   note: Mild bitter digestive tonic (indigestion)
   reference_ids:
   - REF-0387
-  - REF-0388
+  - REF-0681
   - REF-0684
   status: verified
 - action: vulnerary
   note: Vulnerary (minor skin inflammation and small superficial wounds, topical)
   reference_ids:
   - REF-0386
-  - REF-0388
+  - REF-0681
   - REF-0682
   - REF-0683
   status: verified
@@ -207,9 +206,10 @@ indications:
   note: inferred from bitter-tonic action
   reference_ids:
   - REF-0387
-  - REF-0388
-  - REF-0684
+  - REF-0681
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0684
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -223,14 +223,15 @@ indications:
   note: inferred from digestive action
   reference_ids:
   - REF-0387
-  - REF-0388
-  - REF-0684
+  - REF-0681
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0684
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
   - REF-0386
-  - REF-0388
+  - REF-0681
   - REF-0682
   - REF-0683
   status: needs-review
@@ -246,13 +247,13 @@ indications:
   reference_ids:
   - REF-0386
   - REF-0387
-  - REF-0388
+  - REF-0681
   status: verified
 - condition: indigestion
   note: Mild bitter digestive tonic (indigestion)
   reference_ids:
   - REF-0387
-  - REF-0388
+  - REF-0681
   - REF-0684
   status: verified
 - condition: inflammation
@@ -261,9 +262,8 @@ indications:
   reference_ids:
   - REF-0386
   - REF-0387
-  - REF-0388
-  - REF-0680
   - REF-0681
+  - REF-0680
   - REF-0682
   - REF-0683
   status: verified
@@ -272,14 +272,15 @@ indications:
   reference_ids:
   - REF-0386
   - REF-0387
-  - REF-0388
+  - REF-0681
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0680
 - condition: sore-throat
   note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)
   reference_ids:
   - REF-0386
   - REF-0387
-  - REF-0680
   - REF-0681
   - REF-0683
   status: verified
@@ -287,7 +288,7 @@ indications:
   note: Vulnerary (minor skin inflammation and small superficial wounds, topical)
   reference_ids:
   - REF-0386
-  - REF-0388
+  - REF-0681
   - REF-0682
   - REF-0683
   status: verified

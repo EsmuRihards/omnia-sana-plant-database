@@ -111,7 +111,6 @@ actions:
   - REF-0015
   - REF-0017
   - REF-0031
-  - REF-0251
   - REF-0275
   - REF-1914
   status: verified
@@ -122,34 +121,31 @@ indications:
   - REF-0015
   - REF-0017
   - REF-0031
-  - REF-0251
-  - REF-0275
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0275
+  - REF-1914
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0015
   - REF-0017
   - REF-0031
-  - REF-0251
-  - REF-0275
   - REF-1914
-  - REF-1918
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0275
 - condition: menstrual-cramps
   reference_ids:
   - REF-0015
   - REF-0017
   - REF-0031
-  - REF-0251
-  - REF-0275
   status: verified
 - condition: oral-health
   reference_ids:
   - REF-0015
   - REF-0017
   - REF-0031
-  - REF-0251
   - REF-0275
   - REF-1922
   status: verified
@@ -158,8 +154,6 @@ indications:
   - REF-0015
   - REF-0017
   - REF-0031
-  - REF-0251
-  - REF-0275
   status: verified
 contraindications:
 - note: Generally safe at culinary amounts used in Indian and Middle Eastern cooking. Ajwain essential

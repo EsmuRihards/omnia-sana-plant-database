@@ -179,8 +179,14 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0457
-  - REF-0458
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0458
+  - REF-2088
+  - REF-2089
+  - REF-2092
+  - REF-2093
+  - REF-2097
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
@@ -197,7 +203,6 @@ indications:
   note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
   reference_ids:
   - REF-0457
-  - REF-0458
   status: verified
 - condition: hemorrhoids
   note: inferred from venotonic action
@@ -212,6 +217,8 @@ indications:
   - REF-0457
   - REF-0458
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2097
 - condition: memory
   note: Cognitive and memory support; neuroprotective
   reference_ids:
@@ -226,7 +233,6 @@ indications:
   note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
   reference_ids:
   - REF-0457
-  - REF-0458
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -234,6 +240,8 @@ indications:
   - REF-0457
   - REF-0458
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2097
 - condition: stress
   note: inferred from anxiolytic action
   reference_ids:

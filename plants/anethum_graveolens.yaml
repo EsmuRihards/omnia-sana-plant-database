@@ -135,7 +135,6 @@ actions:
   - REF-0064
   - REF-0103
   - REF-0174
-  - REF-0210
   - REF-0310
   - REF-1392
   status: verified
@@ -151,7 +150,6 @@ actions:
   - REF-0064
   - REF-0103
   - REF-0174
-  - REF-0210
   - REF-0310
   - REF-1394
   - REF-1396
@@ -162,7 +160,6 @@ actions:
   - REF-0064
   - REF-0103
   - REF-0174
-  - REF-0210
   - REF-0310
   - REF-1388
   - REF-1391
@@ -174,7 +171,6 @@ actions:
   - REF-0064
   - REF-0103
   - REF-0174
-  - REF-0210
   - REF-0310
   status: verified
 - action: diuretic
@@ -182,7 +178,6 @@ actions:
   - REF-0064
   - REF-0103
   - REF-0174
-  - REF-0210
   - REF-0310
   status: verified
 indications:
@@ -190,20 +185,20 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0064
-  - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0103
+  - REF-0174
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0064
-  - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0103
+  - REF-0174
 - condition: cancer
   note: Anethum graveolens (dill) extract induces ROS-mediated apoptosis in HT-144 melanoma cells, and
     its essential oil is selectively cytotoxic and pro-apoptotic against A549 lung adenocarcinoma cells
@@ -217,42 +212,42 @@ indications:
   - REF-0064
   - REF-0103
   - REF-0174
-  - REF-0210
   - REF-0310
   status: verified
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0064
-  - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0103
+  - REF-0174
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0064
-  - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0103
+  - REF-0174
+  - REF-1396
+  - REF-1397
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0064
   - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0174
 - condition: metabolic-support
   reference_ids:
   - REF-0064
   - REF-0103
   - REF-0174
-  - REF-0210
   - REF-0310
   - REF-1391
   status: verified
@@ -260,47 +255,49 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0064
-  - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0103
+  - REF-0174
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
   - REF-0064
-  - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0103
+  - REF-0174
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
   - REF-0064
-  - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0103
+  - REF-0174
 - condition: uti
   note: inferred from diuretic action
   reference_ids:
   - REF-0064
-  - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0103
+  - REF-0174
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0064
-  - REF-0103
-  - REF-0174
-  - REF-0210
   - REF-0310
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0103
+  - REF-0174
+  - REF-1396
+  - REF-1397
 contraindications:
 - note: Widely used as a food herb/spice; WHO monograph notes a “generally regarded as safe” status as
     a flavouring agent (World Health Organization, 2007). Allergic reactions (including oral itching,

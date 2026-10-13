@@ -163,6 +163,9 @@ indications:
   - REF-0526
   - REF-0622
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2061
+  - REF-2062
 - condition: nervous-tension
   note: Calming for nervous tension and restlessness
   reference_ids:

@@ -188,7 +188,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-2795
-  - REF-2806
   status: verified
 - action: antimicrobial
   note: Antibacterial activity of the phenolic-rich extract.
@@ -200,8 +199,6 @@ actions:
     show anticancer activity.
   reference_ids:
   - REF-2796
-  - REF-2803
-  - REF-2807
   status: verified
 - action: hepatoprotective
   note: Ameliorates liver fibrosis and NASH in mice (L. vulgaris var. davurica).
@@ -224,7 +221,6 @@ actions:
 - action: astringent
   note: Flavonoid- and tannin-rich herb; the basis of the traditional styptic and antidiarrhoeal use.
   reference_ids:
-  - REF-2798
   - REF-2796
   status: verified
 indications:
@@ -232,8 +228,6 @@ indications:
   note: inferred from anticancer action
   reference_ids:
   - REF-2796
-  - REF-2803
-  - REF-2807
   status: needs-review
 - condition: liver-support
   note: Ameliorates liver fibrosis/NASH in animal models.
@@ -266,7 +260,6 @@ indications:
 - condition: inflammation
   reference_ids:
   - REF-2795
-  - REF-2806
   status: verified
 - condition: infection
   note: inferred from antibacterial action
@@ -275,8 +268,7 @@ indications:
   status: needs-review
 - condition: wounds
   note: inferred from astringent/styptic traditional use
-  reference_ids:
-  - REF-2798
+  reference_ids: []
   status: needs-review
 contraindications:
 - note: Safety data are limited and there are no human clinical trials; avoid medicinal doses in pregnancy
@@ -308,11 +300,8 @@ references:
 - REF-2800
 - REF-2801
 - REF-2802
-- REF-2803
 - REF-2804
 - REF-2805
-- REF-2806
-- REF-2807
 drug_class_interactions:
 - drug_class: statins
   severity: caution

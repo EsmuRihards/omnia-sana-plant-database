@@ -176,6 +176,9 @@ indications:
   - REF-0198
   - REF-0270
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0866
+  - REF-0867
 - condition: cardiovascular-support
   reference_ids:
   - REF-0145
@@ -183,7 +186,6 @@ indications:
   - REF-0270
   - REF-0860
   - REF-0861
-  - REF-0863
   - REF-0866
   - REF-0867
   status: verified
@@ -222,6 +224,9 @@ indications:
   - REF-0198
   - REF-0270
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0866
+  - REF-0867
 contraindications:
 - note: Contraindicated in pregnancy (uterine stimulant). Avoid in heavy menstrual bleeding. May enhance
     anticoagulant and antihypertensive drug effects. Avoid in thyroid disorders. Generally well tolerated

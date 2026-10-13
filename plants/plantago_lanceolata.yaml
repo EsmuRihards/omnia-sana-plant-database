@@ -174,9 +174,10 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0499
   - REF-0633
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0499
 - condition: bronchitis
   note: Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage
     soothes and protects irritated airways)
@@ -187,9 +188,10 @@ indications:
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0499
   - REF-0500
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0499
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
@@ -206,32 +208,36 @@ indications:
 - condition: immune-support
   note: inferred from immunomodulator action
   reference_ids:
-  - REF-0499
   - REF-0500
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0499
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0499
   - REF-0500
   - REF-0960
   - REF-0965
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0499
 - condition: inflammation
   note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
     the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional
     respiratory anti-inflammatory use
   reference_ids:
-  - REF-0499
   - REF-0633
   - REF-0968
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0499
 - condition: skin-irritation
   note: inferred from demulcent action
   reference_ids:
-  - REF-0499
   - REF-0500
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0499
 - condition: sore-throat
   note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
     the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional
@@ -243,11 +249,13 @@ indications:
 - condition: wounds
   note: Vulnerary for minor wounds and insect bites (topical)
   reference_ids:
-  - REF-0499
   - REF-0500
   - REF-0966
   - REF-0967
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0499
+  - REF-0960
 contraindications:
 - note: Generally very well tolerated. A cough or throat irritation that persists beyond about a week,
     or is accompanied by fever or breathlessness, needs medical assessment.

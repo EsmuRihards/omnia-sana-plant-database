@@ -142,15 +142,12 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0075
-  - REF-0235
   - REF-0306
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0075
-  - REF-0235
   - REF-0306
-  - REF-0871
   - REF-0872
   - REF-0873
   - REF-0876
@@ -159,48 +156,15 @@ actions:
 - action: sedative
   reference_ids:
   - REF-0075
-  - REF-0235
   - REF-0306
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0075
-  - REF-0235
-  - REF-0306
-  status: needs-review
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0075
-  - REF-0235
-  - REF-0306
-  status: needs-review
-- condition: insomnia
-  note: inferred from sedative action
-  reference_ids:
-  - REF-0075
-  - REF-0235
-  - REF-0306
-  status: needs-review
 - condition: respiratory-support
   reference_ids:
   - REF-0075
-  - REF-0235
   - REF-0306
   - REF-0870
-  - REF-0871
-  - REF-0874
-  - REF-0878
   status: verified
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0075
-  - REF-0235
-  - REF-0306
-  status: needs-review
 contraindications:
 - note: 'Allergy risk: avoid if you’re allergic to cowslip/other Primula species (European Medicines Agency,
     2012). Stomach sensitivity: use caution if you have gastritis or a stomach ulcer-cowslip can upset

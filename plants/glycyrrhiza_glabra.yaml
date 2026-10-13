@@ -236,6 +236,8 @@ indications:
   - REF-0089
   - REF-0305
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2191
 contraindications:
 - note: Avoid prolonged use of whole licorice root in large doses. May cause pseudoaldosteronism (hypertension,
     oedema, hypokalaemia). Contraindicated in hypertension, renal failure, liver disease, hypokalaemia,

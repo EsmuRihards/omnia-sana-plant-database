@@ -111,7 +111,6 @@ actions:
   reference_ids:
   - REF-0009
   - REF-0106
-  - REF-0233
   - REF-0952
   - REF-0953
   - REF-0954
@@ -122,7 +121,6 @@ actions:
   reference_ids:
   - REF-0009
   - REF-0106
-  - REF-0233
   - REF-0955
   - REF-0957
   status: verified
@@ -130,55 +128,43 @@ actions:
   reference_ids:
   - REF-0009
   - REF-0106
-  - REF-0233
   - REF-0958
   status: verified
 indications:
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0009
   - REF-0106
-  - REF-0233
   - REF-0950
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0009
 - condition: fatigue
   note: inferred from ergogenic action
   reference_ids:
-  - REF-0009
   - REF-0106
-  - REF-0233
   - REF-0951
   - REF-0955
-  - REF-0957
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0009
+  - REF-0957
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0009
   - REF-0106
-  - REF-0233
   - REF-0950
   - REF-0958
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0009
 - condition: metabolic-support
   reference_ids:
-  - REF-0009
-  - REF-0106
-  - REF-0233
   - REF-0954
   - REF-0956
   - REF-0957
   - REF-0959
   status: verified
-- condition: muscle-soreness
-  note: inferred from ergogenic action
-  reference_ids:
-  - REF-0009
-  - REF-0106
-  - REF-0233
-  - REF-0955
-  status: needs-review
 contraindications:
 - note: Guarana contains very high levels of caffeine (2–4 times that of coffee by weight). All the cautions
     of caffeine apply - avoid in cardiac arrhythmia, hypertension, anxiety disorders, insomnia, and during

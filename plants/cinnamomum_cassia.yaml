@@ -132,9 +132,13 @@ actions:
 indications:
 - condition: bloating
   note: inferred from carminative action
-  reference_ids:
-  - REF-0430
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0430
+  - REF-1822
+  - REF-1825
+  - REF-1826
 - condition: blood-sugar
   note: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
     - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR
@@ -157,11 +161,6 @@ indications:
   - REF-0429
   - REF-0430
   - REF-0599
-  status: needs-review
-- condition: indigestion
-  note: Warming carminative for indigestion (traditional)
-  reference_ids:
-  - REF-0430
   status: needs-review
 - condition: metabolic-support
   note: inferred from antidiabetic action
@@ -202,7 +201,7 @@ drug_class_interactions:
   mechanism: Cinnamon can lower blood sugar, so combining it with diabetes medicines such as insulin,
     metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.
   reference_ids:
-  - REF-2448
+  - REF-0429
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

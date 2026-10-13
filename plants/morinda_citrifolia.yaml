@@ -27,7 +27,7 @@ botanical_description:
     odour
   flowering_period: Year-round in tropical climates, with peak flushes seasonally
   reference_ids:
-  - REF-1417
+  - REF-0197
   status: verified
 habitat:
   text: Native to Southeast Asia and Australasia, and dispersed across the Pacific islands and into India
@@ -35,7 +35,7 @@ habitat:
     open and disturbed forest, and even on bare lava flows, tolerating poor, saline and drought-prone
     soils.
   reference_ids:
-  - REF-1417
+  - REF-0197
   - REF-1422
   status: verified
 harvesting:
@@ -90,7 +90,7 @@ traditional_uses:
     now studied for antioxidant, anti-inflammatory, immunomodulatory and metabolic effects supporting
     several of these traditional uses.
   reference_ids:
-  - REF-1417
+  - REF-0197
   - REF-1422
   status: verified
 preparations:
@@ -127,7 +127,7 @@ constituents:
   note: A major phytochemical class of noni fruit and leaf, studied for antioxidant and anti-inflammatory
     activity.
   reference_ids:
-  - REF-1417
+  - REF-0197
   - REF-1422
 - name: Anthraquinones (damnacanthal and related compounds)
   compounds:
@@ -135,7 +135,7 @@ constituents:
   note: Found mainly in the root and, at lower levels, the fruit; studied for anticancer and antimicrobial
     activity.
   reference_ids:
-  - REF-1417
+  - REF-0197
   - REF-1418
 - name: Polysaccharides
   compounds:
@@ -149,7 +149,7 @@ constituents:
   - coumarin
   note: A phenolic coumarin found in the fruit, studied for anti-inflammatory and vascular effects.
   reference_ids:
-  - REF-1417
+  - REF-0197
 actions:
 - action: analgesic
   reference_ids:
@@ -162,7 +162,6 @@ actions:
   - REF-0110
   - REF-0197
   - REF-0303
-  - REF-1417
   - REF-1422
   - REF-1423
   - REF-1424
@@ -192,7 +191,6 @@ actions:
   - REF-0110
   - REF-0197
   - REF-0303
-  - REF-1417
   - REF-1422
   status: verified
 - action: antiviral
@@ -206,30 +204,34 @@ actions:
   - REF-0110
   - REF-0197
   - REF-0303
-  - REF-1417
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0110
   - REF-0197
-  - REF-0303
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0110
+  - REF-0303
+  - REF-1423
+  - REF-1424
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
-  - REF-0110
   - REF-0197
-  - REF-0303
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0110
+  - REF-0303
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0110
   - REF-0197
-  - REF-0303
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0110
+  - REF-0303
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -241,64 +243,74 @@ indications:
   reference_ids:
   - REF-0110
   - REF-0197
-  - REF-0303
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0303
 - condition: headache
   note: inferred from analgesic action
   reference_ids:
-  - REF-0110
   - REF-0197
-  - REF-0303
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0110
+  - REF-0303
 - condition: immune-support
   reference_ids:
   - REF-0110
   - REF-0197
-  - REF-0303
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0303
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0110
   - REF-0197
-  - REF-0303
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0303
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0110
   - REF-0197
-  - REF-0303
   - REF-1424
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0110
+  - REF-0303
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0110
   - REF-0197
-  - REF-0303
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0110
+  - REF-0303
 - condition: pain
   reference_ids:
-  - REF-0110
   - REF-0197
-  - REF-0303
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0110
+  - REF-0303
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0110
   - REF-0197
-  - REF-0303
   - REF-1423
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0110
+  - REF-0303
+  - REF-1424
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0110
   - REF-0197
-  - REF-0303
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0110
+  - REF-0303
 contraindications:
 - note: Generally safe in moderate amounts. High potassium content - use caution in renal disease. Rare
     cases of hepatotoxicity reported with excessive consumption. May interact with warfarin (due to vitamin
@@ -323,7 +335,7 @@ contraindications:
   - REF-0063
   status: verified
 references:
-- REF-1417
+- REF-0197
 - REF-1418
 - REF-1419
 - REF-1420

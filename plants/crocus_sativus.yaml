@@ -157,71 +157,96 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0005
+  - REF-0172
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0005
+  - REF-0172
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-2007
   - REF-2008
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0005
+  - REF-0172
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0005
+  - REF-0172
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0005
+  - REF-0172
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0005
+  - REF-0172
+  - REF-0789
+  - REF-2001
+  - REF-2002
+  - REF-2003
+  - REF-2010
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0005
+  - REF-0172
 - condition: menstrual-cramps
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: verified
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0005
+  - REF-0172
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0005
+  - REF-0172
+- condition: depression
+  note: RCTs and a meta-analysis report that saffron (stigma, and petal in one trial) improves symptoms
+    of mild-to-moderate depression compared with placebo, and performed similarly to imipramine in a pilot
+    trial. Trials are small and mostly from Iran.
+  reference_ids:
+  - REF-0005
+  - REF-0172
+  - REF-0789
+  - REF-2001
+  - REF-2002
+  status: verified
 contraindications:
 - note: Culinary use is entirely safe. At very high doses (5g+), saffron can be toxic - but such doses
     far exceed culinary or therapeutic amounts. Avoid medicinal doses during pregnancy (uterine stimulant).
@@ -325,8 +350,8 @@ dangerous_lookalikes:
     threads) = true saffron crocus. SIX stamens (pale styles, yellow anthers, no red threads) = autumn
     crocus (Colchicum) - do NOT eat or use as saffron; it can be fatal. If in any doubt, do not harvest.'
   reference_ids:
-  - REF-2649
-  - REF-2650
+  - REF-2618
+  - REF-2619
   - REF-2651
   - REF-2652
   status: approved

@@ -178,9 +178,11 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0183
   - REF-0199
-  status: needs-review
+  - REF-2128
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
@@ -203,15 +205,17 @@ indications:
   reference_ids:
   - REF-0112
   - REF-0183
-  - REF-0199
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0199
 - condition: infection
   note: inferred from antifungal action
   reference_ids:
   - REF-0112
   - REF-0183
-  - REF-0199
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0199
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -226,6 +230,8 @@ indications:
   - REF-0183
   - REF-0199
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2128
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
@@ -233,6 +239,8 @@ indications:
   - REF-0183
   - REF-0199
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2127
 contraindications:
 - note: Generally very safe for topical use. May cause contact dermatitis in rare cases (Asteraceae family
     allergy). Internal use is safe in normal doses. Avoid during pregnancy at therapeutic doses (uterine

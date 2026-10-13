@@ -162,53 +162,35 @@ actions:
   note: Aquaretic diuretic; the classic irrigation-therapy action of restharrow root (Ononidis radix),
     used interchangeably for O. arvensis and O. spinosa.
   reference_ids:
-  - REF-2753
   - REF-2748
-  - REF-3022
-  - REF-3024
-  - REF-3036
   status: verified
 - action: urinary-antiseptic
   note: Aqueous root extract reduced adhesion of uropathogenic E. coli to bladder cells (anti-adhesive).
-  reference_ids:
-  - REF-2755
+  reference_ids: []
   status: verified
 - action: anti-inflammatory
   note: Inhibits IL-8 release via TLR4/LPS and cytosolic phospholipase A2alpha (restharrow root).
-  reference_ids:
-  - REF-2754
-  - REF-2757
-  - REF-2756
-  - REF-3033
+  reference_ids: []
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-2742
-  - REF-2753
-  - REF-3015
-  - REF-3035
   status: verified
 - action: vulnerary
   note: Isoflavonoids from restharrow root promote wound healing in vivo.
-  reference_ids:
-  - REF-2756
-  - REF-2760
+  reference_ids: []
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-2745
   - REF-2746
-  - REF-2753
-  - REF-3015
   - REF-3025
   - REF-3028
   - REF-3034
   status: verified
 - action: analgesic
   note: Analgesic activity of Ononis extract in animals (congener O. spinosa).
-  reference_ids:
-  - REF-2758
-  - REF-3027
+  reference_ids: []
   status: verified
 - action: gastroprotective
   note: Protective against ethanol-induced gastric mucosal injury (congener O. spinosa).
@@ -223,12 +205,10 @@ actions:
   - REF-3021
   status: verified
 - action: antifungal
-  reference_ids:
-  - REF-3016
+  reference_ids: []
   status: verified
 - action: lipid-lowering
   reference_ids:
-  - REF-3018
   - REF-3029
   status: verified
 - action: antiplatelet
@@ -245,27 +225,20 @@ indications:
 - condition: urinary-support
   note: Aquaretic diuretic for irrigation therapy of the urinary tract.
   reference_ids:
-  - REF-2753
   - REF-2748
-  - REF-2755
-  - REF-3022
-  - REF-3024
   status: verified
 - condition: uti
   note: Anti-adhesive activity against uropathogenic E. coli.
-  reference_ids:
-  - REF-2755
-  status: verified
+  reference_ids: []
+  status: needs-review
 - condition: kidney-support
   note: inferred from diuretic / urinary 'gravel' traditional use
   reference_ids:
   - REF-2748
-  - REF-2753
   status: needs-review
 - condition: swelling
   note: inferred from diuretic (aquaretic) action
-  reference_ids:
-  - REF-2753
+  reference_ids: []
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
@@ -274,30 +247,17 @@ indications:
   status: needs-review
 - condition: wounds
   note: Isoflavonoid wound-healing agents from restharrow root.
-  reference_ids:
-  - REF-2756
-  status: verified
+  reference_ids: []
+  status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory and traditional skin/eczema use
   reference_ids:
-  - REF-2757
   - REF-2748
-  status: needs-review
-- condition: inflammation
-  reference_ids:
-  - REF-2754
-  - REF-2757
-  status: verified
-- condition: pain
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-2758
   status: needs-review
 - condition: cardiovascular-support
   note: Ononis isoflavonoids (maackiain, ononin) showed anti-adipogenic activity via PPAR-gamma inhibition
     (preclinical).
   reference_ids:
-  - REF-3018
   - REF-3020
   - REF-3029
   status: needs-review
@@ -336,36 +296,20 @@ references:
 - REF-2750
 - REF-2751
 - REF-2752
-- REF-2753
-- REF-2754
-- REF-2755
-- REF-2756
-- REF-2757
-- REF-2758
 - REF-2759
-- REF-2760
-- REF-3015
-- REF-3016
 - REF-3017
-- REF-3018
 - REF-3019
 - REF-3020
 - REF-3021
-- REF-3022
 - REF-3023
-- REF-3024
 - REF-3025
 - REF-3026
-- REF-3027
 - REF-3028
 - REF-3029
 - REF-3030
 - REF-3031
 - REF-3032
-- REF-3033
 - REF-3034
-- REF-3035
-- REF-3036
 drug_class_interactions:
 - drug_class: diuretics
   severity: caution

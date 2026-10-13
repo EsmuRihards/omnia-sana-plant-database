@@ -111,7 +111,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0242
   - REF-0297
   - REF-1264
   - REF-1271
@@ -119,7 +118,6 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0242
   - REF-0297
   - REF-1263
   - REF-1264
@@ -129,57 +127,42 @@ actions:
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0242
   - REF-0297
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0242
-  - REF-0297
+  reference_ids: []
   status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0242
+  mechanistic_exclude_ids:
   - REF-0297
-  status: needs-review
+  - REF-1271
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0046
-  - REF-0242
   - REF-0297
   - REF-1265
   - REF-1267
   - REF-1268
   - REF-1271
   status: verified
-- condition: indigestion
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0242
-  - REF-0297
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0242
-  - REF-0297
   - REF-1271
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0297
 - condition: metabolic-support
   reference_ids:
-  - REF-0046
-  - REF-0242
   - REF-0297
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0242
-  - REF-0297
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0297
+  - REF-1271
 contraindications:
 - note: 'Never swallow a spoon of dry chia seeds and “chase” with water. They can swell fast and (rarely)
     cause a blockage, especially if someone already has swallowing problems (American College of Gastroenterology,

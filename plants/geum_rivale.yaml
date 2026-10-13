@@ -199,7 +199,6 @@ actions:
   reference_ids:
   - REF-2761
   - REF-2768
-  - REF-2766
   status: verified
 - action: antidiarrheal
   note: Astringent hydrolysable tannins; traditional remedy for diarrhoea and dysentery.
@@ -210,15 +209,11 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-2761
-  - REF-2775
   - REF-2770
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-2763
-  - REF-2771
-  - REF-2774
-  - REF-2775
   status: verified
 - action: anti-inflammatory
   note: Inhibits prostaglandin biosynthesis; ellagitannin-derived urolithins are anti-inflammatory.
@@ -228,14 +223,11 @@ actions:
   status: verified
 - action: anticancer
   note: Geum (avens) extracts show antineoplastic and skin antineoplastic activity in vitro (preclinical).
-  reference_ids:
-  - REF-2773
-  - REF-2774
+  reference_ids: []
   status: verified
 - action: antiviral
   note: Antiviral activity of avens (Geum) extract in vitro (congener).
-  reference_ids:
-  - REF-2773
+  reference_ids: []
   status: verified
 - action: neuroprotective
   note: Neuroprotective activity of water avens polyphenol fractions.
@@ -244,40 +236,24 @@ actions:
   status: verified
 - action: antidiabetic
   note: Avens root extract showed antidiabetic (glucose-lowering) activity in vivo (congener G. urbanum).
-  reference_ids:
-  - REF-2772
+  reference_ids: []
   status: verified
 - action: vulnerary
   note: Astringent/antimicrobial root traditionally applied to wounds and inflamed skin; skin antineoplastic
     activity shown for avens.
   reference_ids:
-  - REF-2774
   - REF-2769
   status: verified
 indications:
-- condition: cancer
-  note: inferred from anticancer action
-  reference_ids:
-  - REF-2773
-  - REF-2774
-  status: needs-review
 - condition: diarrhea
   note: Astringent (tannin) antidiarrhoeal; traditional remedy for diarrhoea and dysentery.
   reference_ids:
   - REF-2768
-  - REF-2769
   status: verified
-- condition: oral-health
-  note: Root decoction used traditionally as a gargle/mouthwash for mouth ulcers and spongy gums; antimicrobial.
-  reference_ids:
-  - REF-2771
-  - REF-2769
-  status: needs-review
 - condition: sore-throat
   note: inferred from astringent/antimicrobial gargle use
   reference_ids:
   - REF-2763
-  - REF-2769
   status: needs-review
 - condition: inflammation
   reference_ids:
@@ -288,23 +264,16 @@ indications:
   note: inferred from antimicrobial action
   reference_ids:
   - REF-2763
-  - REF-2771
   status: needs-review
 - condition: wounds
   note: inferred from astringent/antimicrobial action and traditional wound-wash use
-  reference_ids:
-  - REF-2774
-  - REF-2769
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2769
 - condition: skin-irritation
   note: inferred from anti-inflammatory/antimicrobial skin activity
-  reference_ids:
-  - REF-2774
-  status: needs-review
-- condition: blood-sugar
-  note: Avens root showed antidiabetic activity in vivo (congener).
-  reference_ids:
-  - REF-2772
+  reference_ids: []
   status: needs-review
 contraindications:
 - note: The root and herb are rich in tannins; large or prolonged doses may cause digestive upset or constipation
@@ -336,11 +305,6 @@ references:
 - REF-2768
 - REF-2769
 - REF-2770
-- REF-2771
-- REF-2772
-- REF-2773
-- REF-2774
-- REF-2775
 - REF-2776
 - REF-2777
 drug_class_interactions:

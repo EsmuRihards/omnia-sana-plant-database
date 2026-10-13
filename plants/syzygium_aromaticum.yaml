@@ -120,14 +120,12 @@ actions:
 - action: analgesic
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   - REF-1075
   status: verified
 - action: anti-inflammatory
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   - REF-1075
   - REF-1076
@@ -140,7 +138,6 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   - REF-1074
   - REF-1075
@@ -151,7 +148,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   - REF-1074
   - REF-1075
@@ -162,7 +158,6 @@ actions:
 - action: digestive
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   - REF-1082
   status: verified
@@ -171,24 +166,25 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   - REF-1081
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1076
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   status: needs-review
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1082
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -198,21 +194,20 @@ indications:
   note: inferred from analgesic action
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   status: needs-review
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1082
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   - REF-1078
   status: needs-review
@@ -220,35 +215,35 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   status: needs-review
 - condition: oral-health
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   status: verified
 - condition: pain
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1076
+  - REF-1081
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0029
-  - REF-0247
   - REF-0309
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1078
 contraindications:
 - note: 'Strong and concentrated: Clove oil is very potent and should always be diluted before skin or
     mouth use.Dental use: Undiluted clove oil can burn gums or skin.Blood thinning: Clove may increase

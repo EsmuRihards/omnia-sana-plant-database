@@ -136,7 +136,6 @@ actions:
   - REF-0520
   - REF-0521
   - REF-0602
-  - REF-0971
   - REF-0973
   - REF-0976
   - REF-2594
@@ -144,10 +143,15 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0520
   - REF-0521
-  status: needs-review
+  - REF-0970
+  - REF-0975
+  - REF-0977
+  - REF-0978
 - condition: diarrhea
   note: Astringent for mild diarrhoea (ellagitannins tighten the gut lining) - in a paediatric RCT, tormentil
     root extract shortened rotavirus diarrhoea (3 vs 5 days) and reduced rehydration needs
@@ -158,6 +162,9 @@ indications:
   - REF-0970
   - REF-0973
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0976
+  - REF-2594
 - condition: ibd
   note: Supportive in inflammatory bowel disease / ulcerative colitis (limited trial evidence)
   reference_ids:
@@ -176,12 +183,17 @@ indications:
 - condition: skin-irritation
   note: inferred from astringent action
   reference_ids:
-  - REF-0520
   - REF-0521
-  - REF-0602
   - REF-0975
   - REF-0978
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0520
+  - REF-0602
+  - REF-0970
+  - REF-0976
+  - REF-0977
+  - REF-2594
 - condition: sore-throat
   note: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
   reference_ids:
@@ -193,10 +205,13 @@ indications:
 - condition: wounds
   note: inferred from astringent action
   reference_ids:
-  - REF-0520
   - REF-0521
-  - REF-0602
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0520
+  - REF-0602
+  - REF-0976
+  - REF-2594
 contraindications:
 - note: 'Tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce
     the absorption of iron and some medicines taken at the same time.'

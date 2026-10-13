@@ -132,7 +132,6 @@ actions:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   - REF-1225
   - REF-1228
   - REF-1230
@@ -141,7 +140,6 @@ actions:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   - REF-1226
   - REF-1228
   - REF-1230
@@ -151,7 +149,6 @@ actions:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   - REF-1224
   - REF-1228
   - REF-1230
@@ -162,7 +159,6 @@ actions:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   - REF-1223
   - REF-1228
   - REF-1232
@@ -171,7 +167,6 @@ actions:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   - REF-1228
   - REF-1229
   status: verified
@@ -179,83 +174,84 @@ actions:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   - REF-1228
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
+  - REF-1225
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
   - REF-1226
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
-  - REF-1225
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
+  - REF-1225
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
   - REF-1223
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
+  - REF-1225
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0020
   - REF-0112
-  - REF-0266
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0020
 contraindications:
 - note: Generally very safe as a culinary herb. Essential oil should not be ingested in large amounts
     and avoided in pregnancy. Theoretically may interact with anticoagulants. Avoid medicinal doses during

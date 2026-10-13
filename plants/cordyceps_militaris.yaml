@@ -97,27 +97,19 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0218
-  - REF-0318
   - REF-2161
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0218
-  - REF-0318
   - REF-2153
   - REF-2156
   status: verified
 - action: ergogenic
   note: Physical performance / strength improvement
-  reference_ids:
-  - REF-0218
-  - REF-0318
+  reference_ids: []
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0218
-  - REF-0318
   - REF-2153
   - REF-2155
   - REF-2156
@@ -128,52 +120,40 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0218
-  - REF-0318
+  reference_ids: []
   status: needs-review
 - condition: cold
   note: inferred from immunomodulator action
-  reference_ids:
-  - REF-0218
-  - REF-0318
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2153
 - condition: fatigue
   note: inferred from ergogenic action
   reference_ids:
   - REF-0111
-  - REF-0218
-  - REF-0318
   status: needs-review
 - condition: immune-support
-  reference_ids:
-  - REF-0218
-  - REF-0318
-  status: verified
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2153
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0218
-  - REF-0318
+  reference_ids: []
   status: needs-review
 - condition: muscle-soreness
   note: inferred from ergogenic action
   reference_ids:
   - REF-0111
-  - REF-0218
-  - REF-0318
   status: needs-review
 - condition: respiratory-support
   reference_ids:
   - REF-0111
-  - REF-0218
-  - REF-0318
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0218
-  - REF-0318
+  reference_ids: []
   status: needs-review
 contraindications:
 - note: 'Generally well tolerated short-term in human studies, but research is still limited (Ontawong

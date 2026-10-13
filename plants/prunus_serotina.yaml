@@ -146,24 +146,25 @@ indications:
   reference_ids:
   - REF-0524
   - REF-0525
-  - REF-2557
   status: needs-review
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0525
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1000
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0525
-  - REF-1000
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1000
 - condition: sore-throat
   note: Soothes sore throat and respiratory irritation (traditional)
   reference_ids:
   - REF-0524
-  - REF-2558
   status: needs-review
 contraindications:
 - note: 'Contains cyanogenic compounds: use only properly dried, prepared bark and avoid large or prolonged

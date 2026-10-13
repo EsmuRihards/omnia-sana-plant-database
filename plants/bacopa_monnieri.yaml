@@ -158,6 +158,8 @@ indications:
   reference_ids:
   - REF-0309
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2112
 - condition: cancer
   note: Bacopaside II from Bacopa monnieri inhibits colon cancer cell growth via cell-cycle arrest and
     apoptosis (aquaporin-1 blockade), and its bacopasaponins are cytotoxic to lung (PC9) and colon (SW620)
@@ -184,6 +186,8 @@ indications:
   reference_ids:
   - REF-0309
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0740
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
@@ -196,6 +200,8 @@ indications:
   reference_ids:
   - REF-0309
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2112
 contraindications:
 - note: Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal -
     nausea, stomach cramps, and increased bowel movements - which can be reduced by taking with food.

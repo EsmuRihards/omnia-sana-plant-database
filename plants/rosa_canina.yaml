@@ -138,7 +138,6 @@ actions:
     and 5-LOX-mediated leukotriene B4 formation; the aqueous and methanol extracts were inactive.
   reference_ids:
   - REF-0051
-  - REF-0239
   - REF-0989
   - REF-0990
   - REF-3110
@@ -150,7 +149,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0051
-  - REF-0239
   - REF-0990
   - REF-0992
   - REF-0993
@@ -168,7 +166,6 @@ indications:
     meta-analysis.
   reference_ids:
   - REF-0051
-  - REF-0239
   - REF-0989
   - REF-0990
   - REF-3106
@@ -191,13 +188,11 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0051
-  - REF-0239
   - REF-0990
   status: needs-review
 - condition: metabolic-support
   reference_ids:
   - REF-0051
-  - REF-0239
   - REF-0991
   - REF-0994
   - REF-3111
@@ -206,9 +201,10 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0051
-  - REF-0239
-  - REF-0996
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0989
+  - REF-0990
 - condition: uti
   note: One triple-blind placebo-controlled RCT (n=400) found that 500 mg R. canina fruit capsules twice
     daily for 20 days after caesarean section reduced the incidence of urinary tract infection. The

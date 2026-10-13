@@ -769,6 +769,7 @@ def main():
     declared = declared_refs()
     A = vocab_ids(os.path.join(VOCAB, "actions.yaml"))
     C = vocab_ids(os.path.join(VOCAB, "conditions.yaml"))
+    CM = vocab_map(os.path.join(VOCAB, "conditions.yaml"))
     # The whole compound record is kept, not just the id: toxicity_flag is read off
     # it by _check_toxicity(). K stays exactly what it was, so every existing use
     # is unaffected.
@@ -861,6 +862,24 @@ def main():
             ov = i.get("evidence_override")
             if ov is not None and not (isinstance(ov, int) and 1 <= ov <= 10):
                 errors.append(f"{name}: indication '{i.get('condition')}' bad evidence_override {ov} (want int 1-10)")
+            # mechanistic_exclude_ids hides action-level refs from this condition's
+            # "Mechanistic basis" (Symptom-tool sources page). An id that is also cited
+            # directly contradicts itself; one that no related action cites is stale.
+            mx = i.get("mechanistic_exclude_ids") or []
+            if mx:
+                cond = i.get("condition")
+                rel = set((CM.get(cond) or {}).get("related_actions") or [])
+                act_refs = {r for a in d.get("actions", []) if a.get("action") in rel
+                            for r in (a.get("reference_ids") or [])}
+                if len(set(mx)) != len(mx):
+                    errors.append(f"{name}: indication '{cond}' mechanistic_exclude_ids has duplicates")
+                for r in mx:
+                    if r in (i.get("reference_ids") or []):
+                        errors.append(f"{name}: indication '{cond}' excludes {r} from its mechanistic basis "
+                                      f"but also cites it in reference_ids")
+                    elif r not in act_refs:
+                        warnings.append(f"{name}: indication '{cond}' mechanistic_exclude_ids lists {r}, "
+                                        f"which none of its related actions cite - stale exclusion, remove it")
         for c in d.get("constituents", []):
             for cm in c.get("compounds", []):
                 if cm not in K:

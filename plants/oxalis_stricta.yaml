@@ -173,116 +173,50 @@ constituents:
 actions:
 - action: antioxidant
   reference_ids:
-  - REF-2780
-  - REF-2786
   - REF-2787
   status: verified
 - action: anti-inflammatory
-  reference_ids:
-  - REF-2780
-  - REF-2781
+  reference_ids: []
   status: verified
 - action: antimicrobial
   note: Antibacterial and antiparasitic (amoebicidal/giardicidal) activity of woodsorrel extracts/constituents.
-  reference_ids:
-  - REF-2786
-  - REF-2788
-  - REF-2789
+  reference_ids: []
   status: verified
 - action: hepatoprotective
   note: Protective against paracetamol-induced liver injury (congener O. corniculata).
-  reference_ids:
-  - REF-2782
+  reference_ids: []
   status: verified
 - action: gastroprotective
   note: Protective against experimental gastric ulceration (congener O. corniculata).
-  reference_ids:
-  - REF-2783
+  reference_ids: []
   status: verified
 - action: anticancer
   note: Woodsorrel phytoconstituents (and a green-synthesised nanoparticle made with O. stricta extract)
     induced apoptosis in breast, colon and Hep2 cancer cells (preclinical).
   reference_ids:
-  - REF-2784
-  - REF-2792
   - REF-2779
   status: verified
 - action: antidiabetic
   note: Alpha-glucosidase and alpha-amylase inhibition by woodsorrel extract (congener O. corniculata).
-  reference_ids:
-  - REF-2791
-  - REF-2780
+  reference_ids: []
   status: verified
 - action: neuroprotective
   note: Anti-Alzheimer's activity of woodsorrel extract in rats (congener O. corniculata).
-  reference_ids:
-  - REF-2790
+  reference_ids: []
   status: verified
 - action: vulnerary
   note: Promotes wound and fracture healing; traditional topical use for wounds and skin (congener O.
     corniculata).
-  reference_ids:
-  - REF-2785
-  - REF-2780
+  reference_ids: []
   status: verified
 - action: astringent
   note: Sour, tannin-containing herb; the basis of traditional antidiarrhoeal use.
-  reference_ids:
-  - REF-2781
+  reference_ids: []
   status: verified
 - action: antidiarrheal
   note: Traditional astringent remedy for diarrhoea and dysentery (congener O. corniculata).
-  reference_ids:
-  - REF-2781
+  reference_ids: []
   status: verified
-indications:
-- condition: cancer
-  note: inferred from anticancer action
-  reference_ids:
-  - REF-2784
-  - REF-2792
-  status: needs-review
-- condition: liver-support
-  note: Hepatoprotective in animal models (congener).
-  reference_ids:
-  - REF-2782
-  status: verified
-- condition: diarrhea
-  note: Traditional astringent remedy for diarrhoea and dysentery.
-  reference_ids:
-  - REF-2781
-  status: needs-review
-- condition: infection
-  note: inferred from antimicrobial/antiparasitic action
-  reference_ids:
-  - REF-2788
-  - REF-2789
-  status: needs-review
-- condition: inflammation
-  reference_ids:
-  - REF-2780
-  - REF-2781
-  status: verified
-- condition: wounds
-  note: Promotes wound/fracture healing; traditional topical use.
-  reference_ids:
-  - REF-2785
-  status: verified
-- condition: blood-sugar
-  note: Alpha-glucosidase/amylase inhibition (congener).
-  reference_ids:
-  - REF-2791
-  status: needs-review
-- condition: indigestion
-  note: inferred from gastroprotective action
-  reference_ids:
-  - REF-2783
-  status: needs-review
-- condition: cognitive-function
-  note: inferred from anti-Alzheimer's / neuroprotective action (congener)
-  reference_ids:
-  - REF-2790
-  status: needs-review
 contraindications:
 - note: Yellow woodsorrel is RICH IN OXALIC ACID and soluble oxalates (the source of its sour taste).
     Avoid large or frequent quantities, and especially avoid it if you are prone to calcium-oxalate kidney
@@ -307,19 +241,7 @@ contraindications:
 references:
 - REF-2778
 - REF-2779
-- REF-2780
-- REF-2781
-- REF-2782
-- REF-2783
-- REF-2784
-- REF-2785
-- REF-2786
 - REF-2787
-- REF-2788
-- REF-2789
-- REF-2790
-- REF-2791
-- REF-2792
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution

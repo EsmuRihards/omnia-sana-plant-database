@@ -196,17 +196,22 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-2929
-  - REF-0013
   - REF-0036
   - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0013
+  - REF-1107
+  - REF-2895
+  - REF-2928
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
-  - REF-0013
   - REF-0036
   - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0013
 - condition: cardiovascular-support
   reference_ids:
   - REF-2928
@@ -221,48 +226,57 @@ indications:
 - condition: cough
   note: inferred from expectorant action
   reference_ids:
-  - REF-0013
   - REF-0036
   - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0013
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-2923
-  - REF-0013
   - REF-0036
   - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0013
 - condition: menstrual-cramps
   reference_ids:
-  - REF-0013
   - REF-0036
   - REF-0112
-  - REF-1111
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0013
+  - REF-1111
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0013
   - REF-0036
   - REF-0112
-  - REF-1111
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0013
+  - REF-1111
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
-  - REF-0013
   - REF-0036
   - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0013
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0013
   - REF-0036
   - REF-0112
-  - REF-1110
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0013
+  - REF-1107
+  - REF-2895
+  - REF-2928
+  - REF-2929
 - condition: menopause
   reference_ids:
   - REF-1104
@@ -316,6 +330,8 @@ indications:
   - REF-2934
   - REF-2890
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2900
 contraindications:
 - note: Generally safe in normal dietary amounts. Isoflavones are phytoestrogens - exercise caution in
     oestrogen-receptor-positive breast cancer patients or those taking hormone therapies. May interact
@@ -389,7 +405,7 @@ drug_class_interactions:
     or in hormone-sensitive conditions is not established, so combined use warrants caution and medical
     advice.
   reference_ids:
-  - REF-2494
+  - REF-1108
   - REF-2495
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)

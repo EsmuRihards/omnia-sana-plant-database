@@ -148,16 +148,14 @@ indications:
   - REF-0573
   - REF-0574
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1811
+  - REF-1813
 - condition: asthma
   note: Supportive in bronchial asthma
   reference_ids:
   - REF-0423
   status: verified
-- condition: back-pain
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0422
-  status: needs-review
 - condition: cancer
   note: Boswellia serrata resin and its triterpenoid AKBA arrest the cell cycle and induce apoptosis in
     non-small-cell lung cancer, suppress colitis-associated colorectal cancer (NF-kB, gut microbiota)
@@ -168,11 +166,6 @@ indications:
   - REF-2874
   - REF-2875
   - REF-2876
-  status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0422
   status: needs-review
 - condition: ibd
   note: Supportive in inflammatory bowel disease (ulcerative colitis, Crohn's disease)
@@ -197,8 +190,14 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0423
-  - REF-0573
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0573
+  - REF-1810
+  - REF-1811
+  - REF-1813
+  - REF-1816
+  - REF-1817
 contraindications:
 - note: Generally well tolerated; the most commonly reported side effects are mild gastrointestinal symptoms,
     and allergic reactions are rare.

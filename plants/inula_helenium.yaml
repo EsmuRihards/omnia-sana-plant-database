@@ -144,6 +144,10 @@ indications:
   reference_ids:
   - REF-0538
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1858
+  - REF-1859
+  - REF-1860
 - condition: bronchitis
   note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy)
   reference_ids:
@@ -159,9 +163,10 @@ indications:
 - condition: cough
   note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy); Soothes irritated
     airways / chronic catarrh (traditional)
-  reference_ids:
-  - REF-0445
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0445
 - condition: infection
   note: Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active
     against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection
@@ -177,21 +182,25 @@ indications:
   status: needs-review
 - condition: respiratory-support
   note: inferred from expectorant action
-  reference_ids:
-  - REF-0445
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0445
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0538
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0538
+  - REF-1858
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0445
   - REF-0539
-  - REF-0540
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0540
 contraindications:
 - note: The sesquiterpene lactones (especially alantolactone) are known skin sensitisers and can cause
     allergic contact dermatitis; people sensitive to the daisy family (Asteraceae) should be cautious.

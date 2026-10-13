@@ -157,8 +157,9 @@ indications:
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0265
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -169,22 +170,25 @@ indications:
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0265
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0265
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0265
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
@@ -192,34 +196,43 @@ indications:
   - REF-0155
   - REF-0265
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2208
+  - REF-2210
+  - REF-2212
+  - REF-2215
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0265
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0265
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0265
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0265
 contraindications:
 - note: Generally very safe. Essential oil should not be ingested in large amounts. Rarely, contact dermatitis
     may occur. May potentiate the effect of sedative medications. Avoid therapeutic doses during pregnancy.
@@ -246,7 +259,7 @@ contraindications:
 references:
 - REF-0857
 - REF-0858
-- REF-0859
+- REF-0173
 - REF-2205
 - REF-2206
 - REF-2207
@@ -280,7 +293,7 @@ pairings:
     avoid combining with sedative medicines or before driving.
   reference_ids:
   - REF-2531
-  - REF-2533
+  - REF-0025
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -302,7 +315,7 @@ pairings:
     avoid combining with sedative medicines or before driving.
   reference_ids:
   - REF-2531
-  - REF-2532
+  - REF-1160
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

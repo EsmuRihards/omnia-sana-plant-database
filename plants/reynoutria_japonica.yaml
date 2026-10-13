@@ -116,7 +116,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0037
-  - REF-0236
   - REF-0311
   - REF-0979
   - REF-0980
@@ -128,7 +127,6 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-0037
-  - REF-0236
   - REF-0311
   - REF-0979
   - REF-0981
@@ -138,7 +136,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0037
-  - REF-0236
   - REF-0311
   - REF-0979
   - REF-0981
@@ -149,38 +146,41 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0037
-  - REF-0236
   - REF-0311
   - REF-0987
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0037
+  - REF-0980
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-0985
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0037
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0037
-  - REF-0236
   - REF-0311
   - REF-0984
   status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0037
-  - REF-0236
   - REF-0311
-  - REF-0980
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0037
+  - REF-0980
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0037
-  - REF-0236
   - REF-0311
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0037
+  - REF-0980
+  - REF-0987
 contraindications:
 - note: Japanese knotweed root contains resveratrol and emodin; high doses of emodin may cause GI discomfort
     and have laxative effects. Not recommended during pregnancy (emodin has potential teratogenic effects

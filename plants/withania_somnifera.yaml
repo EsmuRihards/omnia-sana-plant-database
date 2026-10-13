@@ -256,6 +256,8 @@ indications:
   - REF-0259
   - REF-0276
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2246
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
@@ -326,6 +328,9 @@ indications:
   - REF-0259
   - REF-0276
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2247
+  - REF-2248
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
@@ -338,6 +343,8 @@ indications:
   - REF-0259
   - REF-0276
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2246
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
@@ -442,7 +449,6 @@ drug_class_interactions:
   reference_ids:
   - REF-2245
   - REF-2474
-  - REF-2524
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

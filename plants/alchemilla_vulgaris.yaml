@@ -116,12 +116,9 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0113
-  - REF-0193
-  - REF-0208
   - REF-0685
   - REF-2227
   - REF-2228
-  - REF-2229
   status: verified
 - action: anticancer
   reference_ids:
@@ -135,8 +132,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0113
-  - REF-0193
-  - REF-0208
   - REF-0685
   - REF-0686
   - REF-0687
@@ -147,24 +142,20 @@ actions:
 - action: vulnerary
   reference_ids:
   - REF-0113
-  - REF-0193
-  - REF-0208
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0113
-  - REF-0193
-  - REF-0208
-  - REF-0685
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0685
+  - REF-2228
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
   - REF-0113
-  - REF-0193
-  - REF-0208
   status: needs-review
 - condition: cancer
   note: Alchemilla vulgaris extracts suppress the growth of MCF-7, A375, A549, HCT116 (aerial parts) and
@@ -180,30 +171,26 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0113
-  - REF-0193
-  - REF-0208
   - REF-0685
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2228
 - condition: menstrual-cramps
   reference_ids:
   - REF-0113
-  - REF-0193
-  - REF-0208
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0113
-  - REF-0193
-  - REF-0208
-  - REF-0685
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0685
+  - REF-2228
 - condition: wounds
   note: inferred from vulnerary action
   reference_ids:
   - REF-0113
-  - REF-0193
-  - REF-0208
   status: needs-review
 contraindications:
 - note: Generally considered very safe. One of the gentlest astringent herbs in European herbalism. No
@@ -237,7 +224,6 @@ references:
 - REF-0685
 - REF-2228
 - REF-0687
-- REF-2229
 - REF-2230
 - REF-2231
 - REF-2232

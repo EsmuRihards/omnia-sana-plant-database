@@ -127,7 +127,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0227
   - REF-1804
   status: verified
 - action: anticancer
@@ -136,14 +135,12 @@ actions:
   status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0227
   - REF-1801
   - REF-1806
   - REF-1808
   status: verified
 - action: expectorant
   reference_ids:
-  - REF-0227
   - REF-1803
   - REF-1804
   status: verified
@@ -152,14 +149,14 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0845
-  - REF-0227
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1804
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
   - REF-0845
   - REF-1804
-  - REF-0227
   status: needs-review
 - condition: cancer
   note: inferred from anticancer action
@@ -171,27 +168,25 @@ indications:
   reference_ids:
   - REF-0845
   - REF-1804
-  - REF-0227
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0845
   - REF-1804
-  - REF-0227
   status: needs-review
 - condition: respiratory-support
   reference_ids:
   - REF-0845
   - REF-1804
-  - REF-0227
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0845
-  - REF-0227
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1804
 contraindications:
 - note: Generally safe at therapeutic doses. Hyssop essential oil is neurotoxic in high doses (contains
     pinocamphone and isopinocamphone) - internal use of the essential oil is contraindicated, especially

@@ -16,19 +16,19 @@ constituents:
   - phytosterol
   note: The lipid/sterol fraction proposed to act on the prostate.
   reference_ids:
-  - REF-0496
+  - REF-1508
 - name: Flavonoids
   compounds:
   - flavonoid
   note: Antioxidant constituents of the berry.
   reference_ids:
-  - REF-0496
+  - REF-1508
 indications:
 - condition: prostate-support
   note: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
     Cochrane evidence shows it is NOT better than placebo, even at double and triple doses
   reference_ids:
-  - REF-0496
+  - REF-1508
   - REF-0504
   - REF-1887
   - REF-0571
@@ -47,7 +47,7 @@ indications:
     (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even
     at double and triple doses
   reference_ids:
-  - REF-0496
+  - REF-1508
   - REF-0504
   - REF-1887
   - REF-0571
@@ -58,13 +58,6 @@ indications:
   - REF-1894
   - REF-1895
   status: needs-review
-- condition: uti
-  note: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
-    Cochrane evidence shows it is NOT better than placebo, even at double and triple doses
-  reference_ids:
-  - REF-0496
-  - REF-0504
-  status: needs-review
 contraindications:
 - note: Generally well tolerated; mild gastrointestinal upset is the most common effect. BPH must be medically
     diagnosed (to exclude prostate cancer), and because the best evidence does not show benefit, saw palmetto
@@ -72,13 +65,13 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0504
-  - REF-0496
+  - REF-1508
   status: verified
 - note: Has mild anti-androgen and antiplatelet effects, so use caution with anticoagulant medicines and
     before surgery; avoid in pregnancy (hormonal activity).
   severity: caution
   reference_ids:
-  - REF-0496
+  - REF-1508
   status: needs-review
 references:
 - REF-0571
@@ -143,13 +136,13 @@ botanical_description:
   fruit: Large, dark blue-black, olive-sized berries
   flowering_period: Spring (April-June); berries ripen late summer to autumn
   reference_ids:
-  - REF-0496
+  - REF-1508
   status: verified
 habitat:
   text: Native to the south-eastern United States (particularly Florida and the Gulf Coast), a dominant
     understorey palm of coastal pine flatwoods, scrub and sandy coastal habitats.
   reference_ids:
-  - REF-0496
+  - REF-1508
   status: verified
 harvesting:
   text: Ripe berries are hand-harvested in late summer/autumn once they turn dark blue-black, then dried.
@@ -158,7 +151,7 @@ harvesting:
   - Fruit (berry)
   season: Late summer to autumn
   reference_ids:
-  - REF-0496
+  - REF-1508
   status: verified
 harvest_readiness:
 - part: fruit
@@ -180,7 +173,7 @@ traditional_uses:
     (BPH), though high-quality Cochrane evidence for pooled mixed extracts shows no benefit over placebo,
     while some meta-analyses of a specific standardised hexanic extract report symptom benefit.
   reference_ids:
-  - REF-0496
+  - REF-1508
   - REF-0504
   status: verified
 preparations:
@@ -203,6 +196,6 @@ dosage:
     medically assessed first, and saw palmetto should not replace proven treatment given uncertain efficacy
     evidence.
   reference_ids:
-  - REF-0496
+  - REF-1508
   - REF-0504
   status: verified

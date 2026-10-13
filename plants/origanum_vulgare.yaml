@@ -169,29 +169,22 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0485
   - REF-0486
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0485
 - condition: bloating
   note: inferred from carminative action
-  reference_ids:
-  - REF-0485
+  reference_ids: []
   status: needs-review
-- condition: cold
-  note: Aromatic support for coughs and colds (traditional)
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0485
-  status: needs-review
-- condition: cough
-  note: Aromatic support for coughs and colds (traditional)
-  reference_ids:
-  - REF-0485
-  status: needs-review
 - condition: indigestion
   note: Carminative digestive for indigestion (traditional bitter aromatic)
-  reference_ids:
-  - REF-0485
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0485
 - condition: infection
   note: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory and
     gastrointestinal infections; a small clinical study found emulsified oregano oil cleared enteric parasites
@@ -201,26 +194,35 @@ indications:
   - REF-0486
   - REF-0597
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1451
+  - REF-1452
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0485
   - REF-0486
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0485
 - condition: skin-irritation
   note: inferred from antifungal action
   reference_ids:
   - REF-0485
   - REF-0486
-  - REF-0597
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0597
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0485
   - REF-0486
-  - REF-0597
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0597
+  - REF-1448
+  - REF-1451
+  - REF-1452
 contraindications:
 - note: Culinary amounts are safe. Concentrated oregano essential oil is a strong irritant - dilute well
     before any topical use and do not take undiluted oil internally.

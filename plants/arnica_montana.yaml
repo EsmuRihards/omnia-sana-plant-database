@@ -174,14 +174,18 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0398
-  - REF-0399
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0399
+  - REF-2101
+  - REF-2105
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
   - REF-0398
-  - REF-0399
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0399
 - condition: bruising
   note: Antiecchymotic / vulnerary (helps disperse bruises); Topical anti-inflammatory for bruising, swelling
     and sprains
@@ -202,8 +206,9 @@ indications:
   note: inferred from analgesic action
   reference_ids:
   - REF-0398
-  - REF-0399
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0399
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -215,11 +220,12 @@ indications:
   - REF-0398
   - REF-0399
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2105
 - condition: muscle-soreness
   note: Topical analgesic for muscle soreness and pain
   reference_ids:
   - REF-0398
-  - REF-0399
   status: verified
 - condition: pain
   note: Topical analgesic for muscle soreness and pain
@@ -231,8 +237,10 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0398
-  - REF-0399
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0399
+  - REF-2105
 - condition: swelling
   note: Topical anti-inflammatory for bruising, swelling and sprains
   reference_ids:

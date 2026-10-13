@@ -308,8 +308,14 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0326
-  - REF-0333
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0333
+  - REF-2395
+  - REF-2946
+  - REF-2951
+  - REF-2964
+  - REF-2965
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
@@ -352,8 +358,9 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0326
-  - REF-0333
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0333
 - condition: liver-support
   note: inferred from choleretic action
   reference_ids:
@@ -364,8 +371,14 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0326
-  - REF-0333
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0333
+  - REF-2395
+  - REF-2946
+  - REF-2951
+  - REF-2964
+  - REF-2965
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
@@ -392,6 +405,8 @@ indications:
   reference_ids:
   - REF-0333
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2953
 - condition: cardiovascular-support
   note: Dandelion root and leaf lowered serum lipids and oxidative stress (preclinical).
   reference_ids:

@@ -188,6 +188,8 @@ indications:
   reference_ids:
   - REF-0401
   status: verified
+  mechanistic_exclude_ids:
+  - REF-2263
 - condition: fatigue
   note: Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)
   reference_ids:
@@ -227,6 +229,8 @@ indications:
   reference_ids:
   - REF-0402
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2261
 contraindications:
 - note: Astragalus stimulates immune activity; on theoretical grounds it should be used cautiously in
     autoimmune disease and with immunosuppressant medicines (for example after organ transplant) - discuss

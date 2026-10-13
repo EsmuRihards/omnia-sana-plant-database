@@ -164,8 +164,9 @@ indications:
   - REF-0468
   - REF-0469
   - REF-0921
-  - REF-0926
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0926
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -179,23 +180,14 @@ indications:
   - REF-0469
   - REF-0921
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0926
 - condition: indigestion
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
   reference_ids:
   - REF-0468
   - REF-0921
   status: verified
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0469
-  status: needs-review
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0469
-  - REF-0925
-  status: needs-review
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
@@ -204,12 +196,6 @@ indications:
   - REF-0921
   - REF-0926
   status: needs-review
-- condition: sore-throat
-  note: Soothes sore throat (traditional)
-  reference_ids:
-  - REF-0468
-  - REF-0469
-  status: verified
 contraindications:
 - note: As a strong bitter it may aggravate hyperacidity; theoretical caution in peptic ulcer. Large amounts
     have shown effects on heart rhythm and blood pressure in studies, so avoid excessive intake.

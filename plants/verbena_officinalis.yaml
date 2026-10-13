@@ -155,6 +155,8 @@ indications:
   reference_ids:
   - REF-0523
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1363
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
@@ -193,6 +195,8 @@ indications:
   - REF-0523
   - REF-0616
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1367
 - condition: nervous-tension
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
     extract showed anxiolytic, sedative and anticonvulsant activity in animal models
@@ -210,6 +214,8 @@ indications:
   reference_ids:
   - REF-0523
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1363
 - condition: stress
   note: Digestive bitter and relief of mild mental stress
   reference_ids:

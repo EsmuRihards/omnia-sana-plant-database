@@ -171,57 +171,86 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0154
   - REF-0181
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0154
+  - REF-1790
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0154
   - REF-0181
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0154
 - condition: cold
   note: inferred from antiviral action
   reference_ids:
-  - REF-0154
   - REF-0181
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0154
 - condition: eczema
   note: inferred from emollient action
   reference_ids:
-  - REF-0154
   - REF-0181
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0154
 - condition: infection
   note: inferred from antiviral action
   reference_ids:
-  - REF-0154
   - REF-0181
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0154
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0154
   - REF-0181
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0154
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0154
   - REF-0181
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0154
+  - REF-0842
+  - REF-0843
+  - REF-1790
+  - REF-1794
+  - REF-1796
+  - REF-1797
+  - REF-1798
+  - REF-1799
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0154
   - REF-0181
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0154
+  - REF-1790
 - condition: wounds
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0154
   - REF-0181
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0154
+- condition: depression
+  note: 'Cochrane review and meta-analysis: hypericum extracts are superior to placebo and comparable
+    to standard antidepressants (including SSRIs) in mild-to-moderate major depression, with fewer side
+    effects. Evidence for severe depression is lacking.'
+  reference_ids:
+  - REF-0154
+  - REF-0842
+  - REF-1797
+  - REF-1798
+  status: verified
 contraindications:
 - note: 'Significant drug interactions: strongly induces CYP3A4 and P-glycoprotein, reducing plasma levels
     of many drugs including oral contraceptives, antiretrovirals, cyclosporine, warfarin, and digoxin.
@@ -292,7 +321,6 @@ drug_class_interactions:
   reference_ids:
   - REF-2435
   - REF-2434
-  - REF-2520
   - REF-2521
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)

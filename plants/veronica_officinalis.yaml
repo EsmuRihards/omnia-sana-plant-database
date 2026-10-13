@@ -119,32 +119,31 @@ actions:
   - REF-0632
   status: needs-review
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0513
-  status: needs-review
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0514
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2552
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
-  - REF-0513
   - REF-0514
   - REF-0632
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0513
 - condition: cough
   note: Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung
     inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human
     lung epithelial cells
   reference_ids:
-  - REF-0513
   - REF-0514
   - REF-0632
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0513
 - condition: indigestion
   note: Mild digestive / stomach tonic (indigestion)
   reference_ids:
@@ -156,22 +155,26 @@ indications:
     inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human
     lung epithelial cells
   reference_ids:
-  - REF-0513
   - REF-0514
   - REF-0632
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0513
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
-  - REF-0513
   - REF-0514
   - REF-0632
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0513
 - condition: skin-irritation
   note: Soothing for skin irritation (topical)
   reference_ids:
   - REF-0514
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0513
 contraindications:
 - note: Traditional use only; clinical evidence is limited, so a persistent cough or digestive complaint
     needs medical assessment. Safety in pregnancy and breastfeeding is not established.

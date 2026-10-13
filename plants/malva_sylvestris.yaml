@@ -200,27 +200,32 @@ indications:
   - REF-0541
   - REF-0542
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1185
+  - REF-1188
+  - REF-1189
+  - REF-1191
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1190
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1190
+  - REF-1191
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1183
-  status: needs-review
-- condition: constipation
-  note: Mild laxative for occasional constipation (mucilage; traditional)
-  reference_ids:
-  - REF-0480
   status: needs-review
 - condition: cough
   note: Demulcent for irritation of the mouth or throat and associated dry cough (soothing mucilage)
@@ -233,6 +238,8 @@ indications:
   - REF-0541
   - REF-0542
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1190
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -261,6 +268,10 @@ indications:
   - REF-0480
   - REF-1189
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1185
+  - REF-1188
+  - REF-1191
 - condition: sore-throat
   reference_ids:
   - REF-0480
@@ -272,6 +283,8 @@ indications:
   - REF-0542
   - REF-1190
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1191
 contraindications:
 - note: Generally very well tolerated. Irritation of the mouth/throat or a cough that persists beyond
     about a week, or is accompanied by fever or breathlessness, needs medical assessment.

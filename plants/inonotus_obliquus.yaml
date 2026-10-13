@@ -104,7 +104,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0093
-  - REF-0228
   - REF-0272
   - REF-2195
   - REF-2196
@@ -129,13 +128,11 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-0093
-  - REF-0228
   - REF-0272
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0093
-  - REF-0228
   - REF-0272
   - REF-2199
   - REF-2201
@@ -146,7 +143,6 @@ actions:
 - action: immunomodulator
   reference_ids:
   - REF-0093
-  - REF-0228
   - REF-0272
   - REF-2195
   - REF-2198
@@ -187,10 +183,16 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0093
-  - REF-0228
   - REF-0272
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0093
+  - REF-2196
+  - REF-2200
+  - REF-2204
+  - REF-2970
+  - REF-2974
+  - REF-2982
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -201,57 +203,66 @@ indications:
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
-  - REF-0093
-  - REF-0228
   - REF-0272
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0093
+  - REF-2969
+  - REF-2974
+  - REF-2987
 - condition: immune-support
   reference_ids:
-  - REF-0093
-  - REF-0228
   - REF-0272
   - REF-2969
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0093
+  - REF-2974
+  - REF-2987
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0093
-  - REF-0228
   - REF-0272
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0093
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0093
-  - REF-0228
   - REF-0272
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0093
 - condition: metabolic-support
   reference_ids:
-  - REF-0093
-  - REF-0228
   - REF-0272
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0093
-  - REF-0228
   - REF-0272
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0093
+  - REF-2200
+  - REF-2204
+  - REF-2970
+  - REF-2974
+  - REF-2982
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0093
-  - REF-0228
   - REF-0272
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0093
 - condition: cognitive-function
   note: Chaga-derived 3,4-DHBA protected against Parkinson's-related neurotoxicity (preclinical).
   reference_ids:
-  - REF-2979
   - REF-2990
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2979
 - condition: cardiovascular-support
   note: Chaga polysaccharide lowered lipids in vivo and in vitro.
   reference_ids:

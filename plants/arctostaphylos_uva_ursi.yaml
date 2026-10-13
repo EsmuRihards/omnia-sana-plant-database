@@ -136,7 +136,6 @@ actions:
   - REF-0406
   - REF-0700
   - REF-0701
-  - REF-0702
   - REF-2370
   - REF-2378
   status: verified
@@ -155,7 +154,6 @@ actions:
   - REF-0406
   - REF-0700
   - REF-0701
-  - REF-0702
   status: verified
 indications:
 - condition: cancer
@@ -176,10 +174,12 @@ indications:
   note: Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)
   reference_ids:
   - REF-0405
-  - REF-0406
   - REF-0700
   - REF-0701
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0406
+  - REF-2378
 - condition: skin-irritation
   note: inferred from astringent action
   reference_ids:
@@ -190,32 +190,31 @@ indications:
   note: inferred from urinary-antiseptic action
   reference_ids:
   - REF-0405
-  - REF-0406
   - REF-0700
   - REF-0701
-  - REF-0702
   - REF-2376
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0406
 - condition: uti
   note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
     by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis
     (short-term)
   reference_ids:
   - REF-0405
-  - REF-0406
   - REF-0700
   - REF-0701
-  - REF-0702
   status: verified
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0405
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0406
   - REF-0700
   - REF-0701
-  - REF-0702
-  status: needs-review
+  - REF-2378
 contraindications:
 - note: 'Short-term use only: not for more than 1 week at a time and not more than about 5 times per year.
     If symptoms persist beyond ~4 days, worsen, or are accompanied by fever, blood in the urine or pain,

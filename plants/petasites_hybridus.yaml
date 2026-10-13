@@ -177,7 +177,6 @@ indications:
     allergic rhinitis)
   reference_ids:
   - REF-0426
-  - REF-0544
   status: verified
 - condition: headache
   reference_ids:
@@ -190,6 +189,8 @@ indications:
   reference_ids:
   - REF-0426
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1481
 - condition: migraine
   note: Migraine prophylaxis (reduces attack frequency; up to ~60% reduction vs placebo in a randomised
     controlled trial of a standardised CO2 root extract)
@@ -203,6 +204,8 @@ indications:
   reference_ids:
   - REF-0426
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1481
 contraindications:
 - note: Use ONLY certified pyrrolizidine-alkaloid (PA)-free, standardised extracts. Raw or unprocessed
     butterbur contains PAs that are toxic to the liver and potentially carcinogenic.

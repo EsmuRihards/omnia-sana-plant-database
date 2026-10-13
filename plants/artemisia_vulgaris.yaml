@@ -198,17 +198,19 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0023
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0023
 - condition: cancer
   note: Artemisia vulgaris (mugwort) extracts inhibit BCR/ABL and induce apoptosis in chronic myeloid
     leukaemia cells (including imatinib-resistant), and trigger tumour-selective ferroptosis/necroptosis
@@ -222,58 +224,67 @@ indications:
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0023
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0023
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0023
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0023
 - condition: menstrual-cramps
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0023
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0023
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0023
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0023
   - REF-0098
   - REF-0149
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0023
+  - REF-1937
 contraindications:
 - note: Contains thujone; avoid high doses or prolonged use. Contraindicated in pregnancy (uterine stimulant
     and abortifacient). May cause allergic reactions in individuals sensitive to the Asteraceae family.

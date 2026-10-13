@@ -177,8 +177,6 @@ indications:
     (berberine) - supports skin, mucosal and gastrointestinal infections and sore throat
   reference_ids:
   - REF-0455
-  - REF-0456
-  - REF-0588
   status: verified
 - condition: wounds
   note: inferred from antimicrobial action
@@ -187,6 +185,8 @@ indications:
   - REF-0456
   - REF-0588
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1851
 contraindications:
 - note: 'Contraindicated in pregnancy and breastfeeding: berberine crosses the placenta and into milk
     and can cause or worsen newborn jaundice (risk of kernicterus); do not give to infants.'

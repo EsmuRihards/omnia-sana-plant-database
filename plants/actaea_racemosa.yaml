@@ -20,7 +20,7 @@ constituents:
   note: The compounds to which standardised extracts are normalised; act without measurable systemic oestrogenic
     effect.
   reference_ids:
-  - REF-0415
+  - REF-0670
   - REF-0416
   - REF-2398
 - name: Phenolic acids (fukinolic and cimicifugic acids)
@@ -28,7 +28,7 @@ constituents:
   - phenolic-acid
   note: Antioxidant constituents of the root.
   reference_ids:
-  - REF-0415
+  - REF-0670
 botanical_description:
   text: Tall, woodland perennial herb rising from a thick, knotty, dark rhizome with wiry black roots.
     The leaves are large and compound (2-3-ternately divided), with sharply toothed, oval to lance-shaped
@@ -101,7 +101,7 @@ preparations:
   text: Isopropanolic or ethanolic extracts of the dried root and rhizome, standardised to triterpene
     glycoside content, are the best-studied clinical form.
   reference_ids:
-  - REF-0415
+  - REF-0670
   - REF-2398
   status: verified
 - name: Tincture
@@ -120,7 +120,7 @@ dosage:
   reference_ids:
   - REF-3100
   - REF-3098
-  - REF-0415
+  - REF-0670
   status: verified
 - name: Tincture (1:10)
   text: Health Canada's NNHPD monograph accepts a tincture among the methods of preparation for black
@@ -145,7 +145,6 @@ indications:
 - condition: anxiety
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
   reference_ids:
-  - REF-0415
   - REF-0670
   - REF-0674
   status: verified
@@ -162,7 +161,6 @@ indications:
 - condition: depression
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
   reference_ids:
-  - REF-0415
   - REF-0670
   - REF-0674
   status: verified
@@ -170,9 +168,8 @@ indications:
   note: Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis
     supports benefit, though an earlier systematic review judged the evidence inconsistent)
   reference_ids:
-  - REF-0415
-  - REF-0623
   - REF-0670
+  - REF-0623
   - REF-0671
   - REF-0672
   - REF-0673
@@ -186,9 +183,8 @@ indications:
     Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis
     supports benefit, though an earlier systematic review judged the evidence inconsistent)
   reference_ids:
-  - REF-0415
-  - REF-0623
   - REF-0670
+  - REF-0623
   - REF-0671
   - REF-0672
   - REF-0673
@@ -200,23 +196,12 @@ indications:
   - REF-2401
   - REF-2589
   status: verified
-- condition: menstrual-cramps
-  note: Premenstrual and menstrual complaints (traditional use)
-  reference_ids:
-  - REF-0415
-  status: needs-review
-- condition: pms
-  note: Premenstrual and menstrual complaints (traditional use)
-  reference_ids:
-  - REF-0415
-  status: needs-review
 contraindications:
 - note: Rare reports of liver injury have prompted a precaution; large meta-analytic data found no evidence
     of hepatotoxicity, but stop use and seek advice if signs of liver problems occur (jaundice, dark urine,
     upper-abdominal pain).
   severity: serious
   reference_ids:
-  - REF-0415
   - REF-0670
   status: verified
 - note: Current evidence does not show an increased risk of breast cancer or proliferation of oestrogen-sensitive
@@ -228,7 +213,7 @@ contraindications:
 - note: Not recommended during pregnancy or breastfeeding.
   severity: caution
   reference_ids:
-  - REF-0415
+  - REF-0670
   status: verified
 references:
 - REF-2397

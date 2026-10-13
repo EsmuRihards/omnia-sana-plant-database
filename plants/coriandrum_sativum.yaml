@@ -142,7 +142,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   - REF-1700
   - REF-1701
@@ -152,7 +151,6 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   - REF-1701
   - REF-1705
@@ -160,7 +158,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   - REF-1701
   - REF-1702
@@ -173,13 +170,11 @@ actions:
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: verified
 - action: digestive
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   - REF-1701
   status: verified
@@ -188,69 +183,65 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1706
+  - REF-1708
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: needs-review
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: needs-review
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: needs-review
 - condition: metabolic-support
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: verified
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1706
+  - REF-1708
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0151
-  - REF-0219
   - REF-0308
   status: needs-review
 contraindications:

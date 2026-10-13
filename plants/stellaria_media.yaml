@@ -135,7 +135,6 @@ actions:
   reference_ids:
   - REF-0048
   - REF-0098
-  - REF-0245
   - REF-0900
   - REF-0903
   - REF-0904
@@ -145,7 +144,6 @@ actions:
   reference_ids:
   - REF-0048
   - REF-0098
-  - REF-0245
   - REF-0900
   - REF-0904
   - REF-0905
@@ -154,7 +152,6 @@ actions:
   reference_ids:
   - REF-0048
   - REF-0098
-  - REF-0245
   status: verified
 indications:
 - condition: arthritis
@@ -162,22 +159,21 @@ indications:
   reference_ids:
   - REF-0048
   - REF-0098
-  - REF-0245
   - REF-0906
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0903
 - condition: eczema
   note: inferred from emollient action
   reference_ids:
   - REF-0048
   - REF-0098
-  - REF-0245
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0048
   - REF-0098
-  - REF-0245
   - REF-0906
   status: needs-review
 - condition: skin-irritation
@@ -185,8 +181,9 @@ indications:
   reference_ids:
   - REF-0048
   - REF-0098
-  - REF-0245
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0903
 contraindications:
 - note: 'Don’t overdo it as food: some wild-edible-plant research flags chickweed among plants checked
     for oxalic acid / nitrates-fine in normal amounts, but “huge daily servings” aren’t a smart idea for

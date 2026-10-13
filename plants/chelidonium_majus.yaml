@@ -152,6 +152,8 @@ indications:
   reference_ids:
   - REF-0460
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2267
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids:
@@ -216,6 +218,8 @@ indications:
   reference_ids:
   - REF-0460
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2267
 - condition: warts
   note: Fresh orange latex traditionally dabbed on warts
   reference_ids:
@@ -226,6 +230,8 @@ indications:
   reference_ids:
   - REF-0460
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2269
 contraindications:
 - note: 'SERIOUS: oral greater celandine can cause acute idiosyncratic liver injury (hepatocellular hepatotoxicity
     with jaundice). Multiple reported cases - dozens of herb-induced liver injury reports in the literature,

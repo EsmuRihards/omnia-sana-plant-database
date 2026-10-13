@@ -130,7 +130,6 @@ actions:
   reference_ids:
   - REF-0078
   - REF-0126
-  - REF-0215
   - REF-1978
   - REF-1980
   - REF-1984
@@ -141,13 +140,11 @@ actions:
   reference_ids:
   - REF-0078
   - REF-0126
-  - REF-0215
   status: verified
 - action: digestive
   reference_ids:
   - REF-0078
   - REF-0126
-  - REF-0215
   - REF-1977
   - REF-1982
   status: verified
@@ -157,15 +154,16 @@ indications:
   reference_ids:
   - REF-0078
   - REF-0126
-  - REF-0215
   status: needs-review
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0078
   - REF-0126
-  - REF-0215
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1977
+  - REF-1982
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -176,22 +174,26 @@ indications:
   reference_ids:
   - REF-0078
   - REF-0126
-  - REF-0215
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1977
+  - REF-1982
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0078
   - REF-0126
-  - REF-0215
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1984
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0078
   - REF-0126
-  - REF-0215
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1984
 contraindications:
 - note: 'Generally very safe as a food spice (normal culinary amounts).Tea (traditional use): The EU herbal
     monograph describes caraway fruit tea for bloating/flatulence and gives a typical adult infusion dose

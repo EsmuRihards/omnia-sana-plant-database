@@ -153,10 +153,12 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0153
+  - REF-0271
+  - REF-2018
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
@@ -164,6 +166,8 @@ indications:
   - REF-0271
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2016
 - condition: immune-support
   reference_ids:
   - REF-0153
@@ -180,24 +184,30 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0153
   - REF-0271
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0153
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0153
+  - REF-0271
+  - REF-2018
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0153
+  - REF-0271
+  - REF-2014
+  - REF-2017
 contraindications:
 - note: Generally considered safe, but caution advised for those with autoimmune conditions. Not recommended
     for long-term use (more than 8 weeks continuously).

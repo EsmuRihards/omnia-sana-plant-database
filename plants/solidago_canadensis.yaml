@@ -214,7 +214,6 @@ actions:
   - REF-3161
   - REF-3162
   - REF-3160
-  - REF-3157
   status: verified
 - action: antioxidant
   reference_ids:
@@ -237,11 +236,10 @@ actions:
   - REF-3182
   status: verified
 - action: diuretic
-  note: Described as an aquaretic diuretic; ethanol extract and its ethyl acetate fraction showed the highest
-    aquaretic activity in an animal model.
+  note: Described as an aquaretic diuretic; ethanol extract and its ethyl acetate fraction showed the
+    highest aquaretic activity in an animal model.
   reference_ids:
   - REF-3158
-  - REF-3157
   status: verified
 - action: hepatoprotective
   reference_ids:
@@ -265,8 +263,7 @@ actions:
   status: needs-review
 - action: antispasmodic
   note: Listed among the herb's characteristic spasmolytic properties in European phytotherapy.
-  reference_ids:
-  - REF-3157
+  reference_ids: []
   status: needs-review
 indications:
 - condition: urinary-support
@@ -274,7 +271,6 @@ indications:
     extract in an animal model.
   reference_ids:
   - REF-3158
-  - REF-3157
   - REF-3160
   status: verified
 - condition: inflammation
@@ -282,7 +278,6 @@ indications:
   - REF-3161
   - REF-3162
   - REF-3160
-  - REF-3157
   status: verified
 - condition: infection
   note: From antimicrobial/antibacterial activity of extracts and essential oil.
@@ -292,6 +287,8 @@ indications:
   - REF-3180
   - REF-3160
   status: verified
+  mechanistic_exclude_ids:
+  - REF-3182
 - condition: liver-support
   reference_ids:
   - REF-3159
@@ -302,12 +299,10 @@ indications:
   note: inferred from diuretic action
   reference_ids:
   - REF-3158
-  - REF-3157
   status: needs-review
 - condition: uti
   note: inferred from diuretic and antimicrobial actions
   reference_ids:
-  - REF-3157
   - REF-3160
   - REF-3180
   status: needs-review
@@ -324,8 +319,9 @@ indications:
   reference_ids:
   - REF-3161
   - REF-3160
-  - REF-3157
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-3162
 contraindications:
 - note: Generally well tolerated; toxicity testing classified the herb extract as practically non-toxic (toxicity
     class V, LD50 > 5000 mg/kg). May cause allergic reactions in individuals sensitive to Asteraceae/Compositae

@@ -184,16 +184,19 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
-  - REF-0173
   - REF-0194
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0173
+  - REF-1285
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0112
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0173
   - REF-0194
-  status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -202,76 +205,87 @@ indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-0112
-  - REF-0173
-  - REF-0194
   status: verified
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0112
   - REF-0173
-  - REF-0194
   - REF-1290
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0194
+  - REF-1287
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0112
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0173
   - REF-0194
-  status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0112
-  - REF-0173
   - REF-0194
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0173
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
-  - REF-0173
   - REF-0194
   - REF-1285
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0173
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0112
   - REF-0173
-  - REF-0194
   - REF-1290
   - REF-1291
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0194
+  - REF-1287
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0112
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0173
   - REF-0194
-  status: needs-review
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0112
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0173
   - REF-0194
-  status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
-  - REF-0173
   - REF-0194
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0173
+  - REF-1285
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0112
-  - REF-0173
   - REF-0194
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0173
+  - REF-1286
 contraindications:
 - note: Culinary use is entirely safe. Essential oil should not be ingested in large amounts; avoid during
     pregnancy in medicinal doses. May trigger epileptic seizures in predisposed individuals at high doses.

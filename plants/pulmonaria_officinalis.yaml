@@ -141,20 +141,9 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0479
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0629
-  status: needs-review
-- condition: bronchitis
-  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
-    (mucilage and saponins)
-  reference_ids:
-  - REF-0479
-  status: needs-review
-- condition: cough
-  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
-    (mucilage and saponins)
-  reference_ids:
-  - REF-0479
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -165,21 +154,17 @@ indications:
   note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
     (mucilage and saponins)
   reference_ids:
-  - REF-0479
   - REF-1546
-  - REF-1550
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0479
 - condition: skin-irritation
   note: inferred from demulcent action
   reference_ids:
   - REF-0479
   status: needs-review
-- condition: sore-throat
-  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
-    (mucilage and saponins)
-  reference_ids:
-  - REF-0479
-  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0629
 contraindications:
 - note: As a member of the borage family (Boraginaceae), which can contain hepatotoxic pyrrolizidine alkaloids,
     prolonged or high-dose internal use is best avoided; use in pregnancy and breastfeeding is not recommended.

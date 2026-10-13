@@ -17,7 +17,7 @@ constituents:
   - phytosterol
   note: Sterols associated with the prostate-supporting activity.
   reference_ids:
-  - REF-0496
+  - REF-1508
   - REF-0548
   - REF-1506
   - REF-1515
@@ -27,7 +27,7 @@ constituents:
   - terpene
   note: Anti-inflammatory supporting constituents of the bark.
   reference_ids:
-  - REF-0496
+  - REF-1508
 botanical_description:
   text: Evergreen tree (Rosaceae), 10-30 m tall, with dark, fissured, red-brown bark (the source of the
     common name 'red stinkwood', from its unpleasant smell when cut). Leaves are glossy dark green, leathery,
@@ -73,13 +73,13 @@ traditional_uses:
     remedies for benign prostatic hyperplasia (BPH) symptoms in the 20th century. Clinical evidence for
     symptom benefit is moderate but drawn from small, methodologically weak trials.
   reference_ids:
-  - REF-0496
+  - REF-1508
   status: verified
 preparations:
 - name: Standardised lipophilic bark extract (capsule)
   text: The clinically studied commercial form, standardised for phytosterol content.
   reference_ids:
-  - REF-0496
+  - REF-1508
   status: verified
 - name: Traditional bark decoction
   text: Dried bark simmered in water, a traditional East/Central African preparation.
@@ -90,13 +90,13 @@ dosage:
     divided into two doses. Educational reference only, not a prescription; any prostate or urinary symptom
     should be medically assessed first.
   reference_ids:
-  - REF-0496
+  - REF-1508
   status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory (prostate)
   reference_ids:
-  - REF-0496
+  - REF-1508
   - REF-1511
   - REF-1513
   - REF-1515
@@ -104,53 +104,49 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0496
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1508
+  - REF-1511
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-1513
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1511
 - condition: prostate-support
   note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
     of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but
     the trials were small, short and methodologically weak, so the evidence remains uncertain
   reference_ids:
-  - REF-0496
+  - REF-1508
   - REF-0547
   - REF-0548
   - REF-1507
-  - REF-1508
   - REF-1509
   - REF-1510
   - REF-1512
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0496
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1508
+  - REF-1511
 - condition: urinary-support
   note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
     of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but
     the trials were small, short and methodologically weak, so the evidence remains uncertain
   reference_ids:
-  - REF-0496
+  - REF-1508
   - REF-0547
   - REF-0548
   - REF-1507
   - REF-1509
   - REF-1510
-  status: needs-review
-- condition: uti
-  note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
-    of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but
-    the trials were small, short and methodologically weak, so the evidence remains uncertain
-  reference_ids:
-  - REF-0496
-  - REF-0547
-  - REF-0548
   status: needs-review
 contraindications:
 - note: Lower urinary tract / prostate symptoms must be medically assessed first to exclude prostate cancer.
@@ -158,13 +154,13 @@ contraindications:
     or severe BPH should not rely on it instead of proven treatment.
   severity: caution
   reference_ids:
-  - REF-0496
+  - REF-1508
   - REF-0547
   status: verified
 - note: Generally well tolerated, with mild gastrointestinal effects the most common report.
   severity: info
   reference_ids:
-  - REF-0496
+  - REF-1508
   status: verified
 references:
 - REF-1506

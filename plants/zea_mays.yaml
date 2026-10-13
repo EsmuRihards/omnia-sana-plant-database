@@ -169,14 +169,13 @@ indications:
   reference_ids:
   - REF-0436
   status: needs-review
-- condition: kidney-support
-  reference_ids: []
-  status: needs-review
 - condition: skin-irritation
   note: inferred from demulcent action
   reference_ids:
   - REF-0436
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1625
 - condition: sore-throat
   note: inferred from demulcent action
   reference_ids:

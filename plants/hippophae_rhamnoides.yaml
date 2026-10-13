@@ -173,23 +173,26 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0206
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0206
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0206
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -199,7 +202,6 @@ indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   - REF-2319
   status: verified
@@ -207,50 +209,58 @@ indications:
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0206
 - condition: eczema
   note: inferred from emollient action
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0206
 - condition: immune-support
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0206
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0206
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0206
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0206
+  - REF-2320
 - condition: wounds
   note: inferred from vulnerary action
   reference_ids:
   - REF-0049
-  - REF-0206
   - REF-0319
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0206
 contraindications:
 - note: Berries and juice are safe as food. Seed oil is safe topically and orally in moderate amounts.
     May have mild anticoagulant effects. May lower blood pressure and blood sugar - use caution with medications.

@@ -132,7 +132,6 @@ actions:
   - Aerial parts
   note: Astringent and anti-inflammatory infusion or tincture (flowering tops)
   reference_ids:
-  - REF-0347
   - REF-0348
   - REF-1746
   - REF-1747
@@ -152,7 +151,6 @@ actions:
   note: Astringent (catarrh, excessive menstrual or vaginal discharge); Astringent and anti-inflammatory
     infusion or tincture (flowering tops)
   reference_ids:
-  - REF-0347
   - REF-0348
   - REF-1752
   status: verified
@@ -161,7 +159,6 @@ actions:
   - Flower
   reference_ids:
   - REF-0339
-  - REF-0347
   - REF-1753
   status: verified
 - action: vulnerary
@@ -169,7 +166,6 @@ actions:
   - Leaf
   note: Vulnerary (minor wounds), applied topically
   reference_ids:
-  - REF-0347
   - REF-0348
   - REF-1756
   status: verified
@@ -177,7 +173,6 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0347
   - REF-0348
   status: needs-review
   mechanistic_exclude_ids:
@@ -186,12 +181,10 @@ indications:
   note: inferred from expectorant action
   reference_ids:
   - REF-0339
-  - REF-0347
   status: needs-review
 - condition: bruising
   note: inferred from vulnerary action
   reference_ids:
-  - REF-0347
   - REF-0348
   status: needs-review
   mechanistic_exclude_ids:
@@ -199,13 +192,11 @@ indications:
 - condition: cough
   note: Astringent (catarrh, excessive menstrual or vaginal discharge)
   reference_ids:
-  - REF-0347
   - REF-0348
   status: verified
 - condition: diarrhea
   note: inferred from astringent action
   reference_ids:
-  - REF-0347
   - REF-0348
   status: needs-review
   mechanistic_exclude_ids:
@@ -213,19 +204,16 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0347
   - REF-0348
   status: needs-review
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
   - REF-0339
-  - REF-0347
   status: needs-review
 - condition: skin-irritation
   note: inferred from astringent action
   reference_ids:
-  - REF-0347
   - REF-0348
   status: needs-review
   mechanistic_exclude_ids:
@@ -233,7 +221,6 @@ indications:
 - condition: wounds
   note: Vulnerary (minor wounds), applied topically
   reference_ids:
-  - REF-0347
   - REF-0348
   status: verified
 contraindications:
@@ -247,7 +234,6 @@ contraindications:
     astringent.
   severity: caution
   reference_ids:
-  - REF-0347
   - REF-0345
   status: verified
 - note: Identify correctly before foraging (resembles stinging nettle before flowering and red dead-nettle);

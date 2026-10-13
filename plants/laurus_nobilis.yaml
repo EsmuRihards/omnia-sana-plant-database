@@ -26,14 +26,12 @@ botanical_description:
   root: Woody root system
   fruit: Small, dark purple-black berry (female trees)
   flowering_period: Spring
-  reference_ids:
-  - REF-0065
+  reference_ids: []
   status: verified
 habitat:
   text: Native to the Mediterranean region; widely cultivated as a culinary herb and ornamental tree in
     warm-temperate and Mediterranean climates worldwide.
-  reference_ids:
-  - REF-0065
+  reference_ids: []
   status: verified
 harvesting:
   text: Leaves are picked year-round from established plants and used fresh or dried; berries/seed are
@@ -71,15 +69,13 @@ traditional_uses:
   text: Bay leaf has an ancient Mediterranean culinary and medicinal history, used as a digestive carminative
     for indigestion and bloating, and topically and traditionally for muscle and joint pain and minor
     wounds; it remains one of the most widely used culinary herbs worldwide.
-  reference_ids:
-  - REF-0065
+  reference_ids: []
   status: verified
 preparations:
 - name: Infusion (leaf)
   text: Dried leaf infused in hot water as a traditional digestive tea.
-  reference_ids:
-  - REF-0065
-  status: verified
+  reference_ids: []
+  status: needs-review
 - name: Culinary use
   text: Whole dried or fresh leaves used to flavour soups, stews and sauces, removed before eating since
     they remain rigid; the most common form of use.
@@ -105,211 +101,62 @@ constituents:
   - eugenol
   note: Leaf essential oil dominated by 1,8-cineole and eugenol, giving the characteristic aroma and much
     of the antimicrobial and anti-inflammatory activity.
-  reference_ids:
-  - REF-0065
+  reference_ids: []
 - name: Sesquiterpene lactones and flavonoids
   compounds:
   - sesquiterpene-lactone
   - flavonoid
   note: Contribute to the plant's anti-inflammatory and antioxidant activity.
-  reference_ids:
-  - REF-0065
+  reference_ids: []
 actions:
 - action: analgesic
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: anti-inflammatory
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: anticancer
   reference_ids:
   - REF-1687
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
   - REF-1679
   - REF-1686
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
   - REF-1679
   - REF-1680
   - REF-1681
   status: verified
 - action: digestive
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: neuroprotective
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: vulnerary
   reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
   - REF-1678
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: needs-review
-- condition: back-pain
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: needs-review
 - condition: bruising
   note: inferred from vulnerary action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
+  reference_ids: []
   status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1687
   status: needs-review
-- condition: cognitive-function
-  note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: needs-review
-- condition: indigestion
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: needs-review
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: needs-review
-- condition: memory
-  note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: needs-review
-- condition: pain
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: verified
-- condition: respiratory-support
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: verified
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
+  reference_ids: []
   status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1686
@@ -321,13 +168,8 @@ contraindications:
     (sedative properties). In high doses, bay laurel has cytotoxic activity. Some people may experience
     allergic contact dermatitis from bay laurel oil.
   severity: caution
-  reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
-  status: verified
+  reference_ids: []
+  status: needs-review
 - note: Duke (2002) notes antibacterial, anti-inflammatory, and antioxidant activities for bay laurel,
     primarily at the experimental level. The essential oil contains eugenol and 1,8-cineole as principal
     bioactive components. Traditional dosages in European phytotherapy include 1–3 g of dried leaf as
@@ -335,11 +177,6 @@ contraindications:
     should not be confused with the less toxic leaves (Duke, 2002).
   severity: caution
   reference_ids:
-  - REF-0065
-  - REF-0088
-  - REF-0202
-  - REF-0277
-  - REF-0291
   - REF-0063
   status: verified
 references:

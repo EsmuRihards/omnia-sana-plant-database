@@ -114,100 +114,36 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
   - REF-2249
   status: verified
 - action: anticancer
   reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
   - REF-2255
   status: verified
 - action: antidiabetic
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
   - REF-2250
   status: verified
 - action: ergogenic
   note: Physical performance / strength improvement
   reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
   - REF-2252
   - REF-2254
   status: verified
 - action: immunomodulator
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: neuroprotective
   reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
   - REF-2246
   - REF-2250
   - REF-2253
   status: verified
 - action: sedative
   reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
   - REF-2245
   - REF-2246
   - REF-2247
@@ -217,27 +153,7 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
-  status: needs-review
-- condition: blood-sugar
-  note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
+  reference_ids: []
   status: needs-review
 - condition: cancer
   note: inferred from anticancer action
@@ -246,140 +162,38 @@ indications:
   status: needs-review
 - condition: cognitive-function
   note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2246
-- condition: cold
-  note: inferred from immunomodulator action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
-  status: needs-review
 - condition: fatigue
   note: inferred from ergogenic action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
+  reference_ids: []
   status: needs-review
-- condition: fertility
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
-  status: verified
-- condition: immune-support
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
-  status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
+  reference_ids: []
   status: needs-review
 - condition: insomnia
   note: inferred from sedative action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2247
   - REF-2248
 - condition: memory
   note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2246
-- condition: metabolic-support
-  note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
-  status: needs-review
 - condition: muscle-soreness
   note: inferred from ergogenic action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
+  reference_ids: []
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
+  reference_ids: []
   status: needs-review
 contraindications:
 - note: Generally well-tolerated in clinical trials at doses up to 600 mg/day for up to 12 weeks. Common
@@ -389,16 +203,8 @@ contraindications:
     or scheduled for surgery should consult healthcare providers before use. May cause allergic reactions
     in sensitive individuals. Not recommended for children without medical supervision.
   severity: caution
-  reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
-  status: verified
+  reference_ids: []
+  status: needs-review
 - note: Duke (2002) classifies ashwagandha activities primarily at the experimental level (score 1), with
     adaptogenic, sedative, immunostimulant, and anti-inflammatory actions demonstrated in animal and in
     vitro models. Root preparations are used at 2–3 g powdered root three times daily, or 150–300 mg of
@@ -407,14 +213,6 @@ contraindications:
     barbiturates and sedatives (Duke, 2002).
   severity: caution
   reference_ids:
-  - REF-0030
-  - REF-0047
-  - REF-0060
-  - REF-0159
-  - REF-0160
-  - REF-0180
-  - REF-0259
-  - REF-0276
   - REF-0063
   status: verified
 references:

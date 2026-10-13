@@ -136,7 +136,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   - REF-0860
@@ -146,7 +145,6 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   - REF-0861
@@ -156,13 +154,11 @@ actions:
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   status: verified
 - action: sedative
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   - REF-0861
@@ -172,7 +168,6 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   status: needs-review
@@ -181,7 +176,6 @@ indications:
   - REF-0867
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   - REF-0860
@@ -192,35 +186,30 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   status: needs-review
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   - REF-0864
   status: needs-review
 - condition: menstrual-cramps
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   status: verified
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   status: needs-review
@@ -233,7 +222,6 @@ contraindications:
     in normal doses for short-term use.
   severity: caution
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   status: verified
@@ -245,7 +233,6 @@ contraindications:
     (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0145
   - REF-0198
   - REF-0270
   - REF-0063

@@ -29,5 +29,9 @@ Applied in the same commit:
   completed from PubMed.
 - 82 bibliography entries that were left cited by nothing were deleted.
 
-Not addressed: 46 refs with broken titles (e.g. ";13(13):2155.") whose content could not be judged.
-They remain linked and need metadata repair.
+Follow-up (same day, owner decision): the 46 refs with broken titles (e.g. ";13(13):2155.") were deleted
+rather than repaired. 45 were removed from every plant field and from the bibliography. REF-0154 was kept,
+because it had been repaired above. As a result, 34 indications lost all evidence and were dropped (mainly
+bay laurel, anise, black seed and ashwagandha). 14 contraindications, 10 actions and 2 constituents are now
+unsourced and set to needs-review; they stay visible pending re-sourcing. 5 dosage/preparation records are
+now withheld by the build. Deleted: REF-0003, REF-0030, REF-0034, REF-0042, REF-0047, REF-0054, REF-0060, REF-0064, REF-0065, REF-0087, REF-0088, REF-0090, REF-0094, REF-0104, REF-0107, REF-0119, REF-0123, REF-0142, REF-0145, REF-0150, REF-0159, REF-0160, REF-0165, REF-0176, REF-0177, REF-0180, REF-0188, REF-0201, REF-0202, REF-0203, REF-0257, REF-0259, REF-0261, REF-0268, REF-0274, REF-0276, REF-0277, REF-0278, REF-0284, REF-0285, REF-0290, REF-0291, REF-0294, REF-0347, REF-0357.

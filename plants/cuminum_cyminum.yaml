@@ -80,42 +80,34 @@ actions:
   reference_ids:
   - REF-0008
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0654
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0008
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0654
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0657
   status: verified
@@ -123,21 +115,17 @@ actions:
   reference_ids:
   - REF-0008
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0654
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0657
   status: verified
@@ -146,21 +134,17 @@ actions:
   reference_ids:
   - REF-0008
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0654
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0656
   status: verified
@@ -168,21 +152,17 @@ actions:
   reference_ids:
   - REF-0008
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0654
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0656
   status: verified
@@ -194,20 +174,16 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0654
 - condition: bloating
@@ -218,20 +194,16 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0654
 - condition: indigestion
@@ -242,20 +214,16 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0654
 - condition: infection
@@ -265,20 +233,16 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0654
   - REF-0657
@@ -289,20 +253,16 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0654
 - condition: menstrual-cramps
@@ -312,20 +272,16 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0654
   - REF-0656
@@ -346,20 +302,16 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0654
   - REF-0656
@@ -370,20 +322,16 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0654
 - condition: wounds
@@ -393,20 +341,16 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
-  - REF-0201
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0654
   - REF-0657
@@ -417,23 +361,19 @@ contraindications:
   reference_ids:
   - REF-0008
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0654
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
   - REF-0185
-  - REF-0201
   - REF-0221
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   status: verified
 - note: 'Allergy risk: cumin can trigger allergic reactions in sensitive people; cross-reactivity is reported
@@ -443,51 +383,43 @@ contraindications:
   reference_ids:
   - REF-0008
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0654
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
   - REF-0185
-  - REF-0201
   - REF-0221
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   status: verified
 - note: Duke (2002) rates cumin as +++ and notes carminative, digestive, and aperitif activities at experimental
     levels (score 1). The plant demonstrates estrogenic activity in animal studies and has antifungal
-    and antioxidant properties. Photodermatitic potential (phototoxicity) of the essential oil is noted -
-    users should avoid sun exposure after topical application. Duke advises caution in pregnancy due
+    and antioxidant properties. Photodermatitic potential (phototoxicity) of the essential oil is noted
+    - users should avoid sun exposure after topical application. Duke advises caution in pregnancy due
     to potential emmenagogue and antifertility effects at high medicinal doses (Duke, 2002).
   severity: caution
   reference_ids:
   - REF-0008
   - REF-0026
-  - REF-0034
   - REF-0066
   - REF-0067
   - REF-0116
   - REF-0654
   - REF-0147
-  - REF-0150
   - REF-0156
   - REF-0158
   - REF-0171
   - REF-0175
   - REF-0185
-  - REF-0201
   - REF-0221
   - REF-0267
   - REF-0286
-  - REF-0294
   - REF-0307
   - REF-0063
   status: verified

@@ -3082,7 +3082,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0312",
       "REF-0648",
@@ -3108,7 +3107,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0312",
       "REF-0648",
@@ -3122,7 +3120,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0312",
       "REF-0650"
@@ -3134,7 +3131,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0312",
       "REF-0650",
@@ -3150,7 +3146,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0312",
       "REF-0649",
@@ -3164,7 +3159,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0312",
       "REF-2427",
@@ -3178,8 +3172,7 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0166",
-      "REF-0177"
+      "REF-0166"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -3196,7 +3189,6 @@
      "note": "inferred from antidiabetic action",
      "reference_ids": [
       "REF-0166",
-      "REF-0177",
       "REF-0648",
       "REF-2428"
      ],
@@ -3228,7 +3220,6 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0647",
       "REF-0648",
@@ -3245,7 +3236,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204"
      ],
      "status": "needs-review",
@@ -3261,7 +3251,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204"
      ],
      "status": "verified",
@@ -3277,7 +3266,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0650"
      ],
@@ -3293,7 +3281,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0166",
-      "REF-0177",
       "REF-0648"
      ],
      "status": "needs-review",
@@ -3310,7 +3297,6 @@
      "note": "inferred from antidiabetic action",
      "reference_ids": [
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0648"
      ],
@@ -3326,8 +3312,7 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0166",
-      "REF-0177"
+      "REF-0166"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -3344,7 +3329,6 @@
      "note": "inferred from antimicrobial action",
      "reference_ids": [
       "REF-0166",
-      "REF-0177",
       "REF-0650",
       "REF-0651"
      ],
@@ -3365,7 +3349,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0209",
       "REF-0312"
@@ -3378,7 +3361,6 @@
      "reference_ids": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0209",
       "REF-0312",
@@ -3677,7 +3659,6 @@
      ],
      "note": "Acemannan and other glucomannans are the principal gel polysaccharides, underlying the emollient and wound-healing effects.",
      "reference_ids": [
-      "REF-0087",
       "REF-2234"
      ]
     },
@@ -3702,29 +3683,12 @@
    "actions": [
     {
      "action": "analgesic",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290",
       "REF-2234",
       "REF-2235",
       "REF-2240",
@@ -3749,14 +3713,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290",
       "REF-2234",
       "REF-2236",
       "REF-2242",
@@ -3767,14 +3723,6 @@
     {
      "action": "emollient",
      "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290",
       "REF-2237"
      ],
      "status": "verified"
@@ -3782,14 +3730,6 @@
     {
      "action": "vulnerary",
      "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290",
       "REF-2237",
       "REF-2238",
       "REF-2241",
@@ -3802,16 +3742,7 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2240"
@@ -3820,35 +3751,9 @@
      "label": "Arthritis / joint pain"
     },
     {
-     "condition": "back-pain",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Back pain"
-    },
-    {
      "condition": "bruising",
      "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
@@ -3871,50 +3776,15 @@
     {
      "condition": "eczema",
      "note": "inferred from emollient action",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Eczema"
     },
     {
-     "condition": "headache",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Headache"
-    },
-    {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Infection (general)"
@@ -3922,49 +3792,15 @@
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "pain",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Pain (general)"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2240"
@@ -3975,16 +3811,7 @@
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Wounds"
@@ -3994,30 +3821,13 @@
     {
      "note": "Topical use of aloe gel is generally safe for most people. Oral use of aloe latex as a laxative is potentially unsafe with prolonged use due to risk of dehydration, electrolyte imbalance, and potential kidney damage. Aloe latex contains anthraquinone glycosides which may cause abdominal cramping and diarrhea. Not recommended during pregnancy or breastfeeding. May interact with diabetes medications, diuretics, and laxatives. Oral aloe gel at typical doses appears safe short-term but long-term safety is unclear. Allergic reactions possible in sensitive individuals.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Duke (2002) reports clinical evidence (score 2/3) supporting aloe gel's use in psoriasis, constipation (in adults), and as a vulnerary. Gel preparations have been clinically validated for peptic ulcers (excluding stress-induced), radiation burns, and skin ulcers. Dose: 1 tablespoon gel three times daily or 50–200 mg dried juice equivalent per day as a laxative. An important safety distinction is made: the gel (inner leaf mucilage) is AHPA Class 1 (safe), while the inner leaf juice or dried latex is Class 2b due to anthraquinone content and is contraindicated in intestinal inflammation, colitis, Crohn's disease, appendicitis, and during menstruation (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290",
       "REF-0063"
      ],
      "status": "verified"
@@ -5317,7 +5127,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0310",
@@ -5337,7 +5146,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0310",
@@ -5350,7 +5158,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0310",
@@ -5364,7 +5171,6 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0310"
@@ -5374,7 +5180,6 @@
     {
      "action": "diuretic",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0310"
@@ -5387,7 +5192,6 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0064",
       "REF-0310"
      ],
      "status": "needs-review",
@@ -5402,7 +5206,6 @@
      "condition": "bloating",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0064",
       "REF-0310"
      ],
      "status": "needs-review",
@@ -5427,7 +5230,6 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0310"
@@ -5440,7 +5242,6 @@
      "condition": "indigestion",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0064",
       "REF-0310"
      ],
      "status": "needs-review",
@@ -5455,7 +5256,6 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0064",
       "REF-0310"
      ],
      "status": "needs-review",
@@ -5472,7 +5272,6 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0310"
      ],
@@ -5486,7 +5285,6 @@
     {
      "condition": "metabolic-support",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0310",
@@ -5500,7 +5298,6 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0064",
       "REF-0310"
      ],
      "status": "needs-review",
@@ -5515,7 +5312,6 @@
      "condition": "swelling",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0064",
       "REF-0310"
      ],
      "status": "needs-review",
@@ -5530,7 +5326,6 @@
      "condition": "urinary-support",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0064",
       "REF-0310"
      ],
      "status": "needs-review",
@@ -5545,7 +5340,6 @@
      "condition": "uti",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0064",
       "REF-0310"
      ],
      "status": "needs-review",
@@ -5560,7 +5354,6 @@
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0064",
       "REF-0310"
      ],
      "status": "needs-review",
@@ -5579,7 +5372,6 @@
      "note": "Widely used as a food herb/spice; WHO monograph notes a “generally regarded as safe” status as a flavouring agent (World Health Organization, 2007). Allergic reactions (including oral itching, swelling, urticaria, vomiting/diarrhoea) are reported; avoid if you react to Apiaceae-family plants (World Health Organization, 2007; Egyptian Drug Authority, n.d.).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0210",
@@ -5591,7 +5383,6 @@
      "note": "Duke (2002) provides clinical evidence (score 2) for dill's antibacterial and antispasmodic activities, consistent with Commission E and PhEur approvals. Traditional uses include management of colic, dyspepsia, and flatulence. The plant is a well-documented lactagogue (promotes milk production) and has a mild hypotensive effect. Dose: 1–3 g seeds as tea three times daily. Dill is generally safe (++) with no known significant contraindications at culinary and medicinal doses (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0210",
@@ -10025,8 +9816,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0080",
-      "REF-0188",
-      "REF-0203",
       "REF-0743",
       "REF-1692",
       "REF-1695",
@@ -10038,8 +9827,6 @@
      "action": "anti-rheumatic",
      "reference_ids": [
       "REF-0080",
-      "REF-0188",
-      "REF-0203",
       "REF-1692"
      ],
      "status": "verified"
@@ -10048,8 +9835,6 @@
      "action": "anticancer",
      "reference_ids": [
       "REF-0080",
-      "REF-0188",
-      "REF-0203",
       "REF-1695",
       "REF-1696",
       "REF-1697"
@@ -10060,8 +9845,6 @@
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0080",
-      "REF-0188",
-      "REF-0203",
       "REF-1694"
      ],
      "status": "verified"
@@ -10070,8 +9853,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0080",
-      "REF-0188",
-      "REF-0203",
       "REF-0743"
      ],
      "status": "verified"
@@ -10080,8 +9861,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0080",
-      "REF-0188",
-      "REF-0203",
       "REF-0743",
       "REF-0744",
       "REF-1693",
@@ -10093,62 +9872,37 @@
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ],
      "status": "verified"
     },
     {
      "action": "diuretic",
      "reference_ids": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ],
      "status": "verified"
     },
     {
      "action": "emollient",
      "reference_ids": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ],
      "status": "verified"
     },
     {
      "action": "gastroprotective",
      "reference_ids": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ],
      "status": "verified"
     }
    ],
    "indications": [
     {
-     "condition": "acid-reflux",
-     "note": "inferred from gastroprotective action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
-     "evidence": 1,
-     "label": "Acid reflux"
-    },
-    {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0080",
@@ -10160,10 +9914,7 @@
     {
      "condition": "back-pain",
      "note": "inferred from anti-rheumatic action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0080"
@@ -10174,10 +9925,7 @@
     {
      "condition": "blood-sugar",
      "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0080"
@@ -10199,54 +9947,9 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "cold",
-     "note": "inferred from antiviral action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
-     "evidence": 1,
-     "label": "Cold & flu"
-    },
-    {
-     "condition": "eczema",
-     "note": "inferred from emollient action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
-     "evidence": 1,
-     "label": "Eczema"
-    },
-    {
-     "condition": "indigestion",
-     "note": "inferred from gastroprotective action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
-     "evidence": 1,
-     "label": "Indigestion"
-    },
-    {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0080"
@@ -10257,10 +9960,7 @@
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0080",
@@ -10272,10 +9972,7 @@
     {
      "condition": "metabolic-support",
      "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0080"
@@ -10286,10 +9983,7 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0080",
@@ -10302,9 +9996,7 @@
      "condition": "swelling",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -10314,9 +10006,7 @@
      "condition": "urinary-support",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -10326,9 +10016,7 @@
      "condition": "uti",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -10337,10 +10025,7 @@
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0188",
-      "REF-0203"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0080"
@@ -10354,9 +10039,7 @@
      "note": "Generally considered safe when used appropriately. Side effects may include diarrhea, nausea, and allergic reactions (itching, rash, stuffy nose). Not recommended for individuals with edema caused by heart or kidney dysfunction. Ensure adequate fluid intake when using as a diuretic. Frequency of side effects is unknown.",
      "severity": "info",
      "reference_ids": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ],
      "status": "verified"
     },
@@ -10365,8 +10048,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0080",
-      "REF-0188",
-      "REF-0203",
       "REF-0063"
      ],
      "status": "verified"
@@ -18864,21 +18545,17 @@
      "reference_ids": [
       "REF-0008",
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0654",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307"
      ],
      "status": "verified"
@@ -18888,21 +18565,17 @@
      "reference_ids": [
       "REF-0008",
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0654",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0657"
      ],
@@ -18913,21 +18586,17 @@
      "reference_ids": [
       "REF-0008",
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0654",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0657"
      ],
@@ -18939,21 +18608,17 @@
      "reference_ids": [
       "REF-0008",
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0654",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0656"
      ],
@@ -18964,21 +18629,17 @@
      "reference_ids": [
       "REF-0008",
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0654",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0656"
      ],
@@ -18995,20 +18656,16 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0654"
      ],
@@ -19025,20 +18682,16 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0654"
      ],
@@ -19055,20 +18708,16 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0654"
      ],
@@ -19084,20 +18733,16 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0654",
       "REF-0657"
@@ -19114,20 +18759,16 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0654"
      ],
@@ -19143,20 +18784,16 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0654",
       "REF-0656"
@@ -19188,20 +18825,16 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0654",
       "REF-0656"
@@ -19218,20 +18851,16 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0654"
      ],
@@ -19247,20 +18876,16 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
-      "REF-0201",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0654",
       "REF-0657"
@@ -19276,23 +18901,19 @@
      "reference_ids": [
       "REF-0008",
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0654",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
       "REF-0185",
-      "REF-0201",
       "REF-0221",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307"
      ],
      "status": "verified"
@@ -19303,23 +18924,19 @@
      "reference_ids": [
       "REF-0008",
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0654",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
       "REF-0185",
-      "REF-0201",
       "REF-0221",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307"
      ],
      "status": "verified"
@@ -19330,23 +18947,19 @@
      "reference_ids": [
       "REF-0008",
       "REF-0026",
-      "REF-0034",
       "REF-0066",
       "REF-0067",
       "REF-0116",
       "REF-0654",
       "REF-0147",
-      "REF-0150",
       "REF-0156",
       "REF-0158",
       "REF-0171",
       "REF-0175",
       "REF-0185",
-      "REF-0201",
       "REF-0221",
       "REF-0267",
       "REF-0286",
-      "REF-0294",
       "REF-0307",
       "REF-0063"
      ],
@@ -25604,7 +25217,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0119",
       "REF-0537",
       "REF-1641",
       "REF-1656"
@@ -25615,7 +25227,6 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0119",
       "REF-0537"
      ],
      "status": "verified"
@@ -25623,7 +25234,6 @@
     {
      "action": "expectorant",
      "reference_ids": [
-      "REF-0119",
       "REF-0537"
      ],
      "status": "verified"
@@ -25634,7 +25244,6 @@
      "condition": "bronchitis",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0119",
       "REF-0537"
      ],
      "status": "needs-review",
@@ -25645,7 +25254,6 @@
      "condition": "cough",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0119",
       "REF-0537"
      ],
      "status": "needs-review",
@@ -25656,7 +25264,6 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0119",
       "REF-0537"
      ],
      "status": "needs-review",
@@ -25682,7 +25289,6 @@
      "condition": "muscle-spasm",
      "note": "inferred from antispasmodic action",
      "reference_ids": [
-      "REF-0119",
       "REF-0537"
      ],
      "status": "needs-review",
@@ -25704,7 +25310,6 @@
      "condition": "respiratory-support",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0119",
       "REF-0537"
      ],
      "status": "needs-review",
@@ -25715,7 +25320,6 @@
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0119",
       "REF-0537"
      ],
      "status": "needs-review",
@@ -25730,80 +25334,61 @@
     {
      "note": "When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used as medicine at appropriate doses for a short period of time. There isn't enough reliable information to know whether fennel is safe when used long-term. Although rare, side effects might include stomach upset and seizures.",
      "severity": "info",
-     "reference_ids": [
-      "REF-0119"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "When applied to the skin: Fennel is possibly safe. Fennel can make skin extra sensitive to the sun and make it easier to get a sunburn. Wear sunblock if you are light-skinned. Special Precautions and Warnings When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used as medicine at appropriate doses for a short period of time. There isn't enough reliable information to know whether fennel is safe when used long-term. Although rare, side effects might include stomach upset and seizures.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0119"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "When applied to the skin: Fennel is possibly safe. Fennel can make skin extra sensitive to the sun and make it easier to get a sunburn. Wear sunblock if you are light-skinned.",
      "severity": "info",
-     "reference_ids": [
-      "REF-0119"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Pregnancy: Fennel is possibly unsafe to use when pregnant. Regularly using fennel has been linked to preterm birth.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0119"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Breast-feeding: Fennel is possibly unsafe. There are some reports of breast-feeding infants with damage to their nervous systems after they were exposed to herbal tea containing fennel through breastmilk.",
      "severity": "info",
-     "reference_ids": [
-      "REF-0119"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Children: Fennel is possibly safe when used at appropriate doses for up to one week in young infants with colic.",
      "severity": "info",
-     "reference_ids": [
-      "REF-0119"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Allergy to celery, carrot or mugwort: Fennel might cause an allergic reaction in people who are sensitive to these plants.",
      "severity": "info",
-     "reference_ids": [
-      "REF-0119"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Bleeding disorders: Fennel might slow blood clotting. Taking fennel might increase the risk of bleeding or bruising in people with bleeding disorders.",
      "severity": "info",
-     "reference_ids": [
-      "REF-0119"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Hormone-sensitive condition such as breast cancer, uterine cancer, ovarian cancer, endometriosis, or uterine fibroids: Fennel might act like estrogen. If you have any condition that might be made worse by estrogen, do not use fennel. (WebMD, n.d.b)",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0119"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Duke (2002) rates fennel as ++ and notes antispasmodic, carminative, and digestive activities at experimental levels (score 1). Its estrogenic activity is well-documented, and it is traditionally used as a lactagogue. Commission E approves fennel for dyspeptic complaints and upper respiratory tract catarrh. Dose: 1.5–7.5 g seed or equivalent daily. Duke cautions that fennel essential oil in large amounts may be neurotoxic (estrole content), and prolonged use of concentrated extracts should be avoided during pregnancy (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0119",
       "REF-0063"
      ],
      "status": "verified"
@@ -34165,7 +33750,6 @@
      ],
      "note": "Astringent and anti-inflammatory infusion or tincture (flowering tops)",
      "reference_ids": [
-      "REF-0347",
       "REF-0348",
       "REF-1746",
       "REF-1747",
@@ -34192,7 +33776,6 @@
      ],
      "note": "Astringent (catarrh, excessive menstrual or vaginal discharge); Astringent and anti-inflammatory infusion or tincture (flowering tops)",
      "reference_ids": [
-      "REF-0347",
       "REF-0348",
       "REF-1752"
      ],
@@ -34205,7 +33788,6 @@
      ],
      "reference_ids": [
       "REF-0339",
-      "REF-0347",
       "REF-1753"
      ],
      "status": "verified"
@@ -34217,7 +33799,6 @@
      ],
      "note": "Vulnerary (minor wounds), applied topically",
      "reference_ids": [
-      "REF-0347",
       "REF-0348",
       "REF-1756"
      ],
@@ -34229,7 +33810,6 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0347",
       "REF-0348"
      ],
      "status": "needs-review",
@@ -34243,8 +33823,7 @@
      "condition": "bronchitis",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0339",
-      "REF-0347"
+      "REF-0339"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -34254,7 +33833,6 @@
      "condition": "bruising",
      "note": "inferred from vulnerary action",
      "reference_ids": [
-      "REF-0347",
       "REF-0348"
      ],
      "status": "needs-review",
@@ -34268,7 +33846,6 @@
      "condition": "cough",
      "note": "Astringent (catarrh, excessive menstrual or vaginal discharge)",
      "reference_ids": [
-      "REF-0347",
       "REF-0348"
      ],
      "status": "verified",
@@ -34279,7 +33856,6 @@
      "condition": "diarrhea",
      "note": "inferred from astringent action",
      "reference_ids": [
-      "REF-0347",
       "REF-0348"
      ],
      "status": "needs-review",
@@ -34293,7 +33869,6 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0347",
       "REF-0348"
      ],
      "status": "needs-review",
@@ -34304,8 +33879,7 @@
      "condition": "respiratory-support",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0339",
-      "REF-0347"
+      "REF-0339"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -34315,7 +33889,6 @@
      "condition": "skin-irritation",
      "note": "inferred from astringent action",
      "reference_ids": [
-      "REF-0347",
       "REF-0348"
      ],
      "status": "needs-review",
@@ -34329,7 +33902,6 @@
      "condition": "wounds",
      "note": "Vulnerary (minor wounds), applied topically",
      "reference_ids": [
-      "REF-0347",
       "REF-0348"
      ],
      "status": "verified",
@@ -34350,7 +33922,6 @@
      "note": "Medicinal use during pregnancy or breastfeeding should be approached cautiously, as for any traditional astringent.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0347",
       "REF-0345"
      ],
      "status": "verified"
@@ -34432,16 +34003,12 @@
     "root": "Woody root system",
     "fruit": "Small, dark purple-black berry (female trees)",
     "flowering_period": "Spring",
-    "reference_ids": [
-     "REF-0065"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "habitat": {
     "text": "Native to the Mediterranean region; widely cultivated as a culinary herb and ornamental tree in warm-temperate and Mediterranean climates worldwide.",
-    "reference_ids": [
-     "REF-0065"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvesting": {
@@ -34488,21 +34055,10 @@
    ],
    "traditional_uses": {
     "text": "Bay leaf has an ancient Mediterranean culinary and medicinal history, used as a digestive carminative for indigestion and bloating, and topically and traditionally for muscle and joint pain and minor wounds; it remains one of the most widely used culinary herbs worldwide.",
-    "reference_ids": [
-     "REF-0065"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
-   "preparations": [
-    {
-     "name": "Infusion (leaf)",
-     "text": "Dried leaf infused in hot water as a traditional digestive tea.",
-     "reference_ids": [
-      "REF-0065"
-     ],
-     "status": "verified"
-    }
-   ],
+   "preparations": [],
    "dosage": [
     {
      "name": "Infusion",
@@ -34523,9 +34079,7 @@
       "eugenol"
      ],
      "note": "Leaf essential oil dominated by 1,8-cineole and eugenol, giving the characteristic aroma and much of the antimicrobial and anti-inflammatory activity.",
-     "reference_ids": [
-      "REF-0065"
-     ]
+     "reference_ids": []
     },
     {
      "name": "Sesquiterpene lactones and flavonoids",
@@ -34534,33 +34088,19 @@
       "flavonoid"
      ],
      "note": "Contribute to the plant's anti-inflammatory and antioxidant activity.",
-     "reference_ids": [
-      "REF-0065"
-     ]
+     "reference_ids": []
     }
    ],
    "actions": [
     {
      "action": "analgesic",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "anti-inflammatory",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "anticancer",
@@ -34572,11 +34112,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291",
       "REF-1679",
       "REF-1686"
      ],
@@ -34585,11 +34120,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291",
       "REF-1679",
       "REF-1680",
       "REF-1681"
@@ -34598,34 +34128,17 @@
     },
     {
      "action": "digestive",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "neuroprotective",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "vulnerary",
      "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291",
       "REF-1678"
      ],
      "status": "verified"
@@ -34633,57 +34146,9 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "back-pain",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Back pain"
-    },
-    {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bloating"
-    },
-    {
      "condition": "bruising",
      "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
@@ -34699,139 +34164,17 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Cognitive function"
-    },
-    {
-     "condition": "headache",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Headache"
-    },
-    {
-     "condition": "indigestion",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Indigestion"
-    },
-    {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Infection (general)"
     },
     {
-     "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Inflammation (general)"
-    },
-    {
-     "condition": "memory",
-     "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Memory"
-    },
-    {
-     "condition": "pain",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Pain (general)"
-    },
-    {
-     "condition": "respiratory-support",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Respiratory support"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Skin irritation"
-    },
-    {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1686"
@@ -34844,24 +34187,13 @@
     {
      "note": "Generally safe when used in food amounts. Not toxic to people and safe to cook with. Leaves are very rigid and leathery - should be removed before eating as they don't soften with cooking and edges can be sharp. Insufficient reliable information about safety during pregnancy or breastfeeding - stick to food amounts. Large amounts of bay leaf tea may cause vomiting (emetic properties) and drowsiness (sedative properties). In high doses, bay laurel has cytotoxic activity. Some people may experience allergic contact dermatitis from bay laurel oil.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Duke (2002) notes antibacterial, anti-inflammatory, and antioxidant activities for bay laurel, primarily at the experimental level. The essential oil contains eugenol and 1,8-cineole as principal bioactive components. Traditional dosages in European phytotherapy include 1–3 g of dried leaf as a tea. Caution is advised as the essential oil may cause allergic contact dermatitis, and bay berries should not be confused with the less toxic leaves (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291",
       "REF-0063"
      ],
      "status": "verified"
@@ -35825,7 +35157,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270",
       "REF-0860",
@@ -35838,7 +35169,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270",
       "REF-0861",
@@ -35851,7 +35181,6 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ],
@@ -35860,7 +35189,6 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270",
       "REF-0861",
@@ -35874,7 +35202,6 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ],
@@ -35889,7 +35216,6 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270",
       "REF-0860",
@@ -35905,7 +35231,6 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ],
@@ -35917,7 +35242,6 @@
      "condition": "insomnia",
      "note": "inferred from sedative action",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270",
       "REF-0864"
@@ -35929,7 +35253,6 @@
     {
      "condition": "menstrual-cramps",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ],
@@ -35941,7 +35264,6 @@
      "condition": "muscle-spasm",
      "note": "inferred from antispasmodic action",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ],
@@ -35953,7 +35275,6 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ],
@@ -35971,7 +35292,6 @@
      "note": "Contraindicated in pregnancy (uterine stimulant). Avoid in heavy menstrual bleeding. May enhance anticoagulant and antihypertensive drug effects. Avoid in thyroid disorders. Generally well tolerated in normal doses for short-term use.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ],
@@ -35981,7 +35301,6 @@
      "note": "Duke (2002) rates motherwort as ++ and notes hypotensive, cardiotonic (negative chronotropic), anti-aggregant, and sedative activities at the experimental level (score 1). The plant is traditionally used for heart palpitations, hypertension, and menstrual regulation in European herbalism. Duke emphasizes strong safety caution: motherwort has documented oxytocic (uterine-stimulating) activity and is strictly contraindicated in pregnancy. It may also enhance the effects of cardiac medications and sedatives (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0145",
       "REF-0198",
       "REF-0270",
       "REF-0063"
@@ -40955,22 +40274,7 @@
      "status": "verified"
     }
    ],
-   "dosage": [
-    {
-     "name": "Seed oil",
-     "text": "Clinical trials have generally been well tolerated at doses up to about 200 mg/day of oil taken for up to 90 days. Educational reference only, not a prescription; avoid medicinal doses in pregnancy.",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
-     "status": "verified"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Thymoquinone",
@@ -41024,13 +40328,6 @@
     {
      "action": "analgesic",
      "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285",
       "REF-2070"
      ],
      "status": "verified"
@@ -41038,13 +40335,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285",
       "REF-2065",
       "REF-2066",
       "REF-2068",
@@ -41057,13 +40347,6 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285",
       "REF-2071"
      ],
      "status": "verified"
@@ -41071,13 +40354,6 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285",
       "REF-2069"
      ],
      "status": "verified"
@@ -41085,13 +40361,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285",
       "REF-2067",
       "REF-2075"
      ],
@@ -41100,13 +40369,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285",
       "REF-2065",
       "REF-2067",
       "REF-2072"
@@ -41115,40 +40377,17 @@
     },
     {
      "action": "digestive",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "gastroprotective",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285",
       "REF-2068"
      ],
      "status": "verified"
@@ -41156,86 +40395,30 @@
    ],
    "indications": [
     {
-     "condition": "acid-reflux",
-     "note": "inferred from gastroprotective action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
-     "status": "needs-review",
-     "evidence": 5,
-     "label": "Acid reflux"
-    },
-    {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2072"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "back-pain",
      "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Back pain"
-    },
-    {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
-     "status": "needs-review",
-     "evidence": 5,
-     "label": "Bloating"
     },
     {
      "condition": "blood-sugar",
      "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Blood sugar / diabetes support"
     },
     {
@@ -41251,180 +40434,77 @@
     {
      "condition": "cold",
      "note": "inferred from immunomodulator action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Cold & flu"
     },
     {
      "condition": "headache",
      "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Headache"
     },
     {
      "condition": "immune-support",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
-     "status": "verified",
-     "evidence": 5,
-     "label": "Immune support"
-    },
-    {
-     "condition": "indigestion",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 5,
-     "label": "Indigestion"
+     "evidence": 1,
+     "label": "Immune support"
     },
     {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "metabolic-support",
      "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Metabolic support"
     },
     {
      "condition": "pain",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
-     "status": "verified",
-     "evidence": 5,
+     "reference_ids": [],
+     "status": "needs-review",
+     "evidence": 1,
      "label": "Pain (general)"
-    },
-    {
-     "condition": "respiratory-support",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
-     "status": "verified",
-     "evidence": 5,
-     "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2072"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2075"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Wounds"
     }
    ],
@@ -41432,28 +40512,13 @@
     {
      "note": "Generally well-tolerated in clinical trials at doses up to 200 mg/day of oil for 90 days. Potential side effects may include mild gastrointestinal discomfort. Contraindicated during pregnancy due to potential uterine stimulant effects. May interact with immunosuppressants and antidiabetic medications. Allergic reactions possible in sensitive individuals. Consult healthcare provider before use, especially with concurrent medications.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Duke (2002) describes black cumin (Nigella sativa) as one of the most multi-active medicinal spices, with experimental evidence for bronchodilation, immunostimulation, hepatoprotection, and antihistaminic activity. The prophet Muhammad reportedly described it as 'a cure for all things except death.' Key bioactive compounds include thymoquinone and nigellone. Antihistaminic and bronchodilatory activity supports its traditional use in asthma and allergic conditions. Duke notes it is generally safe at culinary amounts but recommends caution with medicinal doses in pregnancy due to potential uterotonic effects (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285",
       "REF-0063"
      ],
      "status": "verified"
@@ -46548,55 +45613,11 @@
    ],
    "traditional_uses": {
     "text": "Anise has a long Mediterranean and Middle Eastern tradition as a carminative digestive remedy for bloating and indigestion, an expectorant for coughs and catarrh, and a traditional galactagogue (milk-promoting) herb for nursing mothers. Commission E and WHO both approve its traditional use for catarrh of the upper respiratory tract and gastrointestinal spasms.",
-    "reference_ids": [
-     "REF-0123",
-     "REF-0165",
-     "REF-0268",
-     "REF-0274",
-     "REF-0278"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
-   "preparations": [
-    {
-     "name": "Crushed seed infusion (tea)",
-     "text": "The classic carminative preparation: crushed seed steeped in hot water.",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "verified"
-    },
-    {
-     "name": "Essential oil",
-     "text": "Concentrated aromatic fruit oil, used in small measured amounts in traditional formulations.",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "verified"
-    }
-   ],
-   "dosage": [
-    {
-     "name": "Crushed seed / essential oil",
-     "text": "Duke (2002): about 0.5-1 g crushed seed three times daily in tea, or 0.05-0.2 mL of the fruit essential oil. Food amounts up to about 20 g/day are generally considered safe for adults. Avoid medicinal doses in pregnancy and in children given limited safety data. Educational reference only, not a prescription.",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "verified"
-    }
-   ],
+   "preparations": [],
+   "dosage": [],
    "constituents": [
     {
      "name": "Essential oil (trans-anethole)",
@@ -46631,23 +45652,12 @@
    "actions": [
     {
      "action": "analgesic",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1408",
       "REF-1415"
      ],
@@ -46663,11 +45673,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1413",
       "REF-1414"
      ],
@@ -46676,11 +45681,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1409",
       "REF-1410",
       "REF-1411",
@@ -46691,66 +45691,12 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1412"
      ],
      "status": "verified"
     }
    ],
    "indications": [
-    {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1408",
-      "REF-1415"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "back-pain",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Back pain"
-    },
-    {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1412"
-     ],
-     "evidence": 1,
-     "label": "Bloating"
-    },
     {
      "condition": "cancer",
      "note": "inferred from anticancer action",
@@ -46762,45 +45708,9 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "headache",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Headache"
-    },
-    {
-     "condition": "indigestion",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1412"
-     ],
-     "evidence": 1,
-     "label": "Indigestion"
-    },
-    {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1414"
      ],
      "status": "needs-review",
@@ -46810,52 +45720,15 @@
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "pain",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Pain (general)"
-    },
-    {
-     "condition": "respiratory-support",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Respiratory support"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1408"
      ],
      "status": "needs-review",
@@ -46869,11 +45742,6 @@
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1408"
      ],
      "status": "needs-review",
@@ -46888,24 +45756,13 @@
     {
      "note": "Generally safe when consumed in food amounts. Doses up to 20g daily considered safe for adults. May cause allergic reactions in some people. Caution advised during pregnancy and breastfeeding - stick to food amounts. Anethole can be toxic at high concentrations, particularly to the nervous system. Not enough safety data for medicinal use in children.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Duke (2002) provides clinical evidence (score 2) for anise as an antibacterial, antiseptic, antispasmodic, and expectorant. It has demonstrated estrogenic activity and is used as a clinically supported lactagogue to promote milk production. Commission E and WHO have both approved its use for catarrh and gastrointestinal spasms. Typical dosages are 0.5–1 g crushed seed three times per day in tea, or 0.05–0.2 ml of the fruit essential oil (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-0063"
      ],
      "status": "verified"
@@ -48289,7 +47146,6 @@
      "name": "Infusion (tea)",
      "text": "Dried leaf steeped in hot water for cough, digestive complaints and mild diarrhoea.",
      "reference_ids": [
-      "REF-0357",
       "REF-0358"
      ],
      "status": "verified"
@@ -48357,7 +47213,6 @@
      "action": "astringent",
      "note": "Astringent (diarrhoea)",
      "reference_ids": [
-      "REF-0357",
       "REF-0358"
      ],
      "status": "verified"
@@ -48366,7 +47221,6 @@
      "action": "demulcent",
      "note": "Demulcent / expectorant (coughs, catarrh, irritated airways)",
      "reference_ids": [
-      "REF-0357",
       "REF-0358",
       "REF-1762",
       "REF-1769"
@@ -48379,7 +47233,6 @@
      "reference_ids": [
       "REF-0364",
       "REF-0309",
-      "REF-0357",
       "REF-0358",
       "REF-1758",
       "REF-1766"
@@ -48478,7 +47331,6 @@
      "reference_ids": [
       "REF-0364",
       "REF-0309",
-      "REF-0357",
       "REF-0358"
      ],
      "status": "needs-review",
@@ -48515,7 +47367,6 @@
      "condition": "cough",
      "note": "Demulcent / expectorant (coughs, catarrh, irritated airways)",
      "reference_ids": [
-      "REF-0357",
       "REF-0358"
      ],
      "status": "verified",
@@ -48530,7 +47381,6 @@
      "condition": "diarrhea",
      "note": "Astringent (diarrhoea)",
      "reference_ids": [
-      "REF-0357",
       "REF-0358"
      ],
      "status": "verified",
@@ -48564,7 +47414,6 @@
      "reference_ids": [
       "REF-0364",
       "REF-0309",
-      "REF-0357",
       "REF-0358"
      ],
      "status": "needs-review",
@@ -48589,7 +47438,6 @@
      "condition": "sore-throat",
      "note": "inferred from demulcent action",
      "reference_ids": [
-      "REF-0357",
       "REF-0358"
      ],
      "status": "needs-review",
@@ -69656,14 +68504,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276",
       "REF-2249"
      ],
      "status": "verified"
@@ -69671,43 +68511,18 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276",
       "REF-2255"
      ],
      "status": "verified"
     },
     {
      "action": "antidiabetic",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276",
       "REF-2250"
      ],
      "status": "verified"
@@ -69716,14 +68531,6 @@
      "action": "ergogenic",
      "note": "Physical performance / strength improvement",
      "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276",
       "REF-2252",
       "REF-2254"
      ],
@@ -69731,29 +68538,12 @@
     },
     {
      "action": "immunomodulator",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276",
       "REF-2246",
       "REF-2250",
       "REF-2253"
@@ -69763,14 +68553,6 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276",
       "REF-2245",
       "REF-2246",
       "REF-2247",
@@ -69784,36 +68566,10 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
@@ -69828,16 +68584,7 @@
     {
      "condition": "cognitive-function",
      "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2246"
@@ -69846,84 +68593,17 @@
      "label": "Cognitive function"
     },
     {
-     "condition": "cold",
-     "note": "inferred from immunomodulator action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Cold & flu"
-    },
-    {
      "condition": "fatigue",
      "note": "inferred from ergogenic action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Fatigue / low energy"
     },
     {
-     "condition": "fertility",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Fertility"
-    },
-    {
-     "condition": "immune-support",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Immune support"
-    },
-    {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Inflammation (general)"
@@ -69931,16 +68611,7 @@
     {
      "condition": "insomnia",
      "note": "inferred from sedative action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2247",
@@ -69952,16 +68623,7 @@
     {
      "condition": "memory",
      "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2246"
@@ -69970,35 +68632,9 @@
      "label": "Memory"
     },
     {
-     "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Metabolic support"
-    },
-    {
      "condition": "muscle-soreness",
      "note": "inferred from ergogenic action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Muscle soreness"
@@ -70006,16 +68642,7 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Skin irritation"
@@ -70025,30 +68652,13 @@
     {
      "note": "Generally well-tolerated in clinical trials at doses up to 600 mg/day for up to 12 weeks. Common side effects may include mild drowsiness, gastrointestinal upset, and diarrhea at higher doses. Contraindicated during pregnancy due to potential abortifacient effects. May interact with sedatives, immunosuppressants, thyroid medications, and blood sugar medications. People with autoimmune diseases, hyperthyroidism, or scheduled for surgery should consult healthcare providers before use. May cause allergic reactions in sensitive individuals. Not recommended for children without medical supervision.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "note": "Duke (2002) classifies ashwagandha activities primarily at the experimental level (score 1), with adaptogenic, sedative, immunostimulant, and anti-inflammatory actions demonstrated in animal and in vitro models. Root preparations are used at 2–3 g powdered root three times daily, or 150–300 mg of standardized extract. Importantly, the plant has documented abortifacient and antifertility properties in animal studies, and its use should be avoided during pregnancy. It may potentiate the effects of barbiturates and sedatives (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276",
       "REF-0063"
      ],
      "status": "verified"

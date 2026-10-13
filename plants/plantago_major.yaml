@@ -125,7 +125,6 @@ preparations:
 - name: Infusion (tea)
   text: Dried leaf steeped in hot water for cough, digestive complaints and mild diarrhoea.
   reference_ids:
-  - REF-0357
   - REF-0358
   status: verified
 - name: Seed (bulk fibre)
@@ -174,13 +173,11 @@ actions:
 - action: astringent
   note: Astringent (diarrhoea)
   reference_ids:
-  - REF-0357
   - REF-0358
   status: verified
 - action: demulcent
   note: Demulcent / expectorant (coughs, catarrh, irritated airways)
   reference_ids:
-  - REF-0357
   - REF-0358
   - REF-1762
   - REF-1769
@@ -190,7 +187,6 @@ actions:
   reference_ids:
   - REF-0364
   - REF-0309
-  - REF-0357
   - REF-0358
   - REF-1758
   - REF-1766
@@ -258,7 +254,6 @@ indications:
   reference_ids:
   - REF-0364
   - REF-0309
-  - REF-0357
   - REF-0358
   status: needs-review
 - condition: bruising
@@ -279,7 +274,6 @@ indications:
 - condition: cough
   note: Demulcent / expectorant (coughs, catarrh, irritated airways)
   reference_ids:
-  - REF-0357
   - REF-0358
   status: verified
   mechanistic_exclude_ids:
@@ -288,7 +282,6 @@ indications:
 - condition: diarrhea
   note: Astringent (diarrhoea)
   reference_ids:
-  - REF-0357
   - REF-0358
   status: verified
 - condition: infection
@@ -307,7 +300,6 @@ indications:
   reference_ids:
   - REF-0364
   - REF-0309
-  - REF-0357
   - REF-0358
   status: needs-review
 - condition: skin-irritation
@@ -321,7 +313,6 @@ indications:
 - condition: sore-throat
   note: inferred from demulcent action
   reference_ids:
-  - REF-0357
   - REF-0358
   status: needs-review
   mechanistic_exclude_ids:

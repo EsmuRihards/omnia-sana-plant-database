@@ -105,7 +105,6 @@ constituents:
   note: Acemannan and other glucomannans are the principal gel polysaccharides, underlying the emollient
     and wound-healing effects.
   reference_ids:
-  - REF-0087
   - REF-2234
 - name: Anthraquinones (aloin, aloe-emodin)
   compounds:
@@ -121,26 +120,10 @@ constituents:
   - REF-2234
 actions:
 - action: analgesic
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: anti-inflammatory
   reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
   - REF-2234
   - REF-2235
   - REF-2240
@@ -160,14 +143,6 @@ actions:
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
   - REF-2234
   - REF-2236
   - REF-2242
@@ -175,26 +150,10 @@ actions:
   status: verified
 - action: emollient
   reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
   - REF-2237
   status: verified
 - action: vulnerary
   reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
   - REF-2237
   - REF-2238
   - REF-2241
@@ -203,41 +162,13 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2240
-- condition: back-pain
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
-  status: needs-review
 - condition: bruising
   note: inferred from vulnerary action
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
+  reference_ids: []
   status: needs-review
 - condition: cancer
   note: Aloe-emodin, an Aloe vera anthraquinone, induces apoptosis and inhibits growth of gastric, oral
@@ -253,88 +184,25 @@ indications:
   status: needs-review
 - condition: eczema
   note: inferred from emollient action
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
-  status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
+  reference_ids: []
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
+  reference_ids: []
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
+  reference_ids: []
   status: needs-review
-- condition: pain
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
-  status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2240
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
+  reference_ids: []
   status: needs-review
 contraindications:
 - note: Topical use of aloe gel is generally safe for most people. Oral use of aloe latex as a laxative
@@ -344,16 +212,8 @@ contraindications:
     diuretics, and laxatives. Oral aloe gel at typical doses appears safe short-term but long-term safety
     is unclear. Allergic reactions possible in sensitive individuals.
   severity: caution
-  reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
-  status: verified
+  reference_ids: []
+  status: needs-review
 - note: 'Duke (2002) reports clinical evidence (score 2/3) supporting aloe gel''s use in psoriasis, constipation
     (in adults), and as a vulnerary. Gel preparations have been clinically validated for peptic ulcers
     (excluding stress-induced), radiation burns, and skin ulcers. Dose: 1 tablespoon gel three times daily
@@ -363,14 +223,6 @@ contraindications:
     Crohn''s disease, appendicitis, and during menstruation (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0042
-  - REF-0087
-  - REF-0107
-  - REF-0176
-  - REF-0257
-  - REF-0261
-  - REF-0284
-  - REF-0290
   - REF-0063
   status: verified
 references:

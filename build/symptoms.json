@@ -1109,33 +1109,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
-    },
-    {
-     "condition": "back-pain",
-     "label": "Back pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
+     "references": []
     },
     {
      "condition": "bruising",
@@ -1143,16 +1117,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
+     "references": []
     },
     {
      "condition": "eczema",
@@ -1160,33 +1125,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
-    },
-    {
-     "condition": "headache",
-     "label": "Headache",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
+     "references": []
     },
     {
      "condition": "infection",
@@ -1194,16 +1133,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
+     "references": []
     },
     {
      "condition": "inflammation",
@@ -1211,33 +1141,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
-    },
-    {
-     "condition": "pain",
-     "label": "Pain (general)",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
+     "references": []
     },
     {
      "condition": "skin-irritation",
@@ -1245,16 +1149,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
+     "references": []
     },
     {
      "condition": "wounds",
@@ -1262,16 +1157,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0042",
-      "REF-0087",
-      "REF-0107",
-      "REF-0176",
-      "REF-0257",
-      "REF-0261",
-      "REF-0284",
-      "REF-0290"
-     ]
+     "references": []
     }
    ]
   },
@@ -1693,11 +1579,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1414"
      ]
     },
@@ -1708,11 +1589,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1408"
      ]
     },
@@ -1723,82 +1599,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278",
       "REF-1408"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
-    },
-    {
-     "condition": "back-pain",
-     "label": "Back pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
-    },
-    {
-     "condition": "bloating",
-     "label": "Bloating",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
-    },
-    {
-     "condition": "headache",
-     "label": "Headache",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
      ]
     },
     {
@@ -1807,41 +1608,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
-    },
-    {
-     "condition": "pain",
-     "label": "Pain (general)",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
+     "references": []
     }
    ]
   },
@@ -2092,33 +1859,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
-    },
-    {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
+     "references": []
     },
     {
      "condition": "cognitive-function",
@@ -2126,33 +1867,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
-    },
-    {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
+     "references": []
     },
     {
      "condition": "fatigue",
@@ -2160,50 +1875,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
-    },
-    {
-     "condition": "fertility",
-     "label": "Fertility",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
+     "references": []
     },
     {
      "condition": "inflammation",
@@ -2211,16 +1883,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
+     "references": []
     },
     {
      "condition": "insomnia",
@@ -2228,16 +1891,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
+     "references": []
     },
     {
      "condition": "memory",
@@ -2245,33 +1899,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
+     "references": []
     },
     {
      "condition": "muscle-soreness",
@@ -2279,16 +1907,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
+     "references": []
     },
     {
      "condition": "skin-irritation",
@@ -2296,16 +1915,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0030",
-      "REF-0047",
-      "REF-0060",
-      "REF-0159",
-      "REF-0160",
-      "REF-0180",
-      "REF-0259",
-      "REF-0276"
-     ]
+     "references": []
     }
    ]
   },
@@ -2443,102 +2053,12 @@
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "back-pain",
-     "label": "Back pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "bloating",
-     "label": "Bloating",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
      "condition": "bruising",
      "label": "Bruising",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "headache",
-     "label": "Headache",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
+     "references": []
     },
     {
      "condition": "infection",
@@ -2546,83 +2066,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "memory",
-     "label": "Memory",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "pain",
-     "label": "Pain (general)",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
+     "references": []
     },
     {
      "condition": "wounds",
@@ -2630,13 +2074,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0065",
-      "REF-0088",
-      "REF-0202",
-      "REF-0277",
-      "REF-0291"
-     ]
+     "references": []
     }
    ]
   },
@@ -2902,26 +2340,12 @@
      ]
     },
     {
-     "condition": "acid-reflux",
-     "label": "Acid reflux",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
-    },
-    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
+     "references": []
     },
     {
      "condition": "back-pain",
@@ -2929,10 +2353,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
+     "references": []
     },
     {
      "condition": "blood-sugar",
@@ -2940,43 +2361,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
-    },
-    {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
-    },
-    {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
+     "references": []
     },
     {
      "condition": "infection",
@@ -2984,10 +2369,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
+     "references": []
     },
     {
      "condition": "inflammation",
@@ -2995,10 +2377,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
+     "references": []
     },
     {
      "condition": "metabolic-support",
@@ -3006,10 +2385,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
+     "references": []
     },
     {
      "condition": "skin-irritation",
@@ -3017,10 +2393,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
+     "references": []
     },
     {
      "condition": "swelling",
@@ -3029,9 +2402,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ]
     },
     {
@@ -3041,9 +2412,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ]
     },
     {
@@ -3053,9 +2422,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0080",
-      "REF-0188",
-      "REF-0203"
+      "REF-0080"
      ]
     },
     {
@@ -3064,10 +2431,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0188",
-      "REF-0203"
-     ]
+     "references": []
     }
    ]
   },
@@ -3354,260 +2718,100 @@
      ]
     },
     {
-     "condition": "acid-reflux",
-     "label": "Acid reflux",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
-    },
-    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "back-pain",
      "label": "Back pain",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
-    },
-    {
-     "condition": "bloating",
-     "label": "Bloating",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "cold",
      "label": "Cold & flu",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "headache",
      "label": "Headache",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "immune-support",
      "label": "Immune support",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "metabolic-support",
      "label": "Metabolic support",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "pain",
      "label": "Pain (general)",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
     },
     {
      "condition": "skin-irritation",
      "label": "Skin irritation",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     },
     {
      "condition": "wounds",
      "label": "Wounds",
-     "evidence": 5,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0003",
-      "REF-0054",
-      "REF-0090",
-      "REF-0094",
-      "REF-0104",
-      "REF-0142",
-      "REF-0285"
-     ]
+     "references": []
     }
    ]
   },
@@ -7559,7 +6763,6 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0310",
@@ -7573,7 +6776,6 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0064",
       "REF-0103",
       "REF-0174",
       "REF-0310"
@@ -7586,7 +6788,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0103",
       "REF-0310"
      ]
@@ -7609,7 +6810,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0310"
      ]
     },
@@ -7620,7 +6820,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0310"
      ]
     },
@@ -7631,7 +6830,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0310"
      ]
     },
@@ -7642,7 +6840,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0310"
      ]
     },
@@ -7653,7 +6850,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0310"
      ]
     },
@@ -7664,7 +6860,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0310"
      ]
     },
@@ -7675,7 +6870,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0310"
      ]
     },
@@ -7686,7 +6880,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0310"
      ]
     },
@@ -7697,7 +6890,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0064",
       "REF-0310"
      ]
     }
@@ -8424,7 +7616,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0119",
       "REF-0537"
      ]
     },
@@ -8435,7 +7626,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0119",
       "REF-0537"
      ]
     },
@@ -8446,7 +7636,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0119",
       "REF-0537"
      ]
     },
@@ -8457,7 +7646,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0119",
       "REF-0537"
      ]
     },
@@ -8468,7 +7656,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0119",
       "REF-0537"
      ]
     },
@@ -8479,7 +7666,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0119",
       "REF-0537"
      ]
     }
@@ -9296,7 +8482,6 @@
      "inferred": false,
      "references": [
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0647",
       "REF-0648",
@@ -9312,7 +8497,6 @@
      "inferred": true,
      "references": [
       "REF-0166",
-      "REF-0177",
       "REF-0648",
       "REF-2428"
      ]
@@ -9326,7 +8510,6 @@
      "references": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204"
      ]
     },
@@ -9339,7 +8522,6 @@
      "references": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204"
      ]
     },
@@ -9352,7 +8534,6 @@
      "references": [
       "REF-0127",
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0650"
      ]
@@ -9365,7 +8546,6 @@
      "inferred": true,
      "references": [
       "REF-0166",
-      "REF-0177",
       "REF-0204",
       "REF-0648"
      ]
@@ -9378,7 +8558,6 @@
      "inferred": true,
      "references": [
       "REF-0166",
-      "REF-0177",
       "REF-0648"
      ]
     },
@@ -9405,7 +8584,6 @@
      "inferred": true,
      "references": [
       "REF-0166",
-      "REF-0177",
       "REF-0650",
       "REF-0651"
      ]
@@ -9417,8 +8595,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0166",
-      "REF-0177"
+      "REF-0166"
      ]
     },
     {
@@ -9428,8 +8605,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0166",
-      "REF-0177"
+      "REF-0166"
      ]
     }
    ]
@@ -10408,7 +9584,6 @@
      "references": [
       "REF-0364",
       "REF-0309",
-      "REF-0357",
       "REF-0358"
      ]
     },
@@ -10442,7 +9617,6 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0357",
       "REF-0358"
      ]
     },
@@ -10453,7 +9627,6 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0357",
       "REF-0358"
      ]
     },
@@ -10487,7 +9660,6 @@
      "references": [
       "REF-0364",
       "REF-0309",
-      "REF-0357",
       "REF-0358"
      ]
     },
@@ -10509,7 +9681,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0357",
       "REF-0358"
      ]
     }
@@ -13664,7 +12835,6 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0145",
       "REF-0198",
       "REF-0270",
       "REF-0860",
@@ -13680,7 +12850,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0145",
       "REF-0198",
       "REF-0270",
       "REF-0864"
@@ -13693,7 +12862,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ]
@@ -13705,7 +12873,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ]
@@ -13717,7 +12884,6 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ]
@@ -13729,7 +12895,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ]
@@ -13741,7 +12906,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0145",
       "REF-0198",
       "REF-0270"
      ]
@@ -19129,7 +18293,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0347",
       "REF-0348"
      ]
     },
@@ -19140,8 +18303,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0339",
-      "REF-0347"
+      "REF-0339"
      ]
     },
     {
@@ -19151,7 +18313,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0347",
       "REF-0348"
      ]
     },
@@ -19162,7 +18323,6 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0347",
       "REF-0348"
      ]
     },
@@ -19173,7 +18333,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0347",
       "REF-0348"
      ]
     },
@@ -19184,7 +18343,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0347",
       "REF-0348"
      ]
     },
@@ -19195,8 +18353,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0339",
-      "REF-0347"
+      "REF-0339"
      ]
     },
     {
@@ -19206,7 +18363,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0347",
       "REF-0348"
      ]
     },
@@ -19217,7 +18373,6 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0347",
       "REF-0348"
      ]
     }

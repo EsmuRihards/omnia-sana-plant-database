@@ -92,15 +92,8 @@ dosage:
 - name: Seed oil
   text: Clinical trials have generally been well tolerated at doses up to about 200 mg/day of oil taken
     for up to 90 days. Educational reference only, not a prescription; avoid medicinal doses in pregnancy.
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
-  status: verified
+  reference_ids: []
+  status: needs-review
 constituents:
 - name: Thymoquinone
   note: The principal bioactive constituent of the seed oil, responsible for much of its anti-inflammatory,
@@ -136,24 +129,10 @@ constituents:
 actions:
 - action: analgesic
   reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
   - REF-2070
   status: verified
 - action: anti-inflammatory
   reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
   - REF-2065
   - REF-2066
   - REF-2068
@@ -163,139 +142,47 @@ actions:
   status: verified
 - action: anticancer
   reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
   - REF-2071
   status: verified
 - action: antidiabetic
   reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
   - REF-2069
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
   - REF-2067
   - REF-2075
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
   - REF-2065
   - REF-2067
   - REF-2072
   status: verified
 - action: digestive
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: gastroprotective
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: immunomodulator
   reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
   - REF-2068
   status: verified
 indications:
-- condition: acid-reflux
-  note: inferred from gastroprotective action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
-  status: needs-review
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2072
 - condition: back-pain
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
-  status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
 - condition: blood-sugar
   note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
 - condition: cancer
   note: inferred from anticancer action
@@ -304,123 +191,39 @@ indications:
   status: needs-review
 - condition: cold
   note: inferred from immunomodulator action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
 - condition: headache
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
 - condition: immune-support
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
-  status: verified
-- condition: indigestion
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
 - condition: metabolic-support
   note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
 - condition: pain
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
-  status: verified
-- condition: respiratory-support
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
-  status: verified
+  reference_ids: []
+  status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2072
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2075
@@ -431,15 +234,8 @@ contraindications:
     Allergic reactions possible in sensitive individuals. Consult healthcare provider before use, especially
     with concurrent medications.
   severity: caution
-  reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
-  status: verified
+  reference_ids: []
+  status: needs-review
 - note: Duke (2002) describes black cumin (Nigella sativa) as one of the most multi-active medicinal spices,
     with experimental evidence for bronchodilation, immunostimulation, hepatoprotection, and antihistaminic
     activity. The prophet Muhammad reportedly described it as 'a cure for all things except death.' Key
@@ -449,13 +245,6 @@ contraindications:
     effects (Duke, 2002).
   severity: caution
   reference_ids:
-  - REF-0003
-  - REF-0054
-  - REF-0090
-  - REF-0094
-  - REF-0104
-  - REF-0142
-  - REF-0285
   - REF-0063
   status: verified
 references:

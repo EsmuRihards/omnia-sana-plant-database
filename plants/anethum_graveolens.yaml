@@ -132,7 +132,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0174
   - REF-0310
@@ -147,7 +146,6 @@ actions:
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0174
   - REF-0310
@@ -157,7 +155,6 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0174
   - REF-0310
@@ -168,14 +165,12 @@ actions:
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0174
   - REF-0310
   status: verified
 - action: diuretic
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0174
   - REF-0310
@@ -184,7 +179,6 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0064
   - REF-0310
   status: needs-review
   mechanistic_exclude_ids:
@@ -193,7 +187,6 @@ indications:
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0064
   - REF-0310
   status: needs-review
   mechanistic_exclude_ids:
@@ -209,7 +202,6 @@ indications:
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0174
   - REF-0310
@@ -217,7 +209,6 @@ indications:
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0064
   - REF-0310
   status: needs-review
   mechanistic_exclude_ids:
@@ -226,7 +217,6 @@ indications:
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0064
   - REF-0310
   status: needs-review
   mechanistic_exclude_ids:
@@ -237,7 +227,6 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0310
   status: needs-review
@@ -245,7 +234,6 @@ indications:
   - REF-0174
 - condition: metabolic-support
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0174
   - REF-0310
@@ -254,7 +242,6 @@ indications:
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0064
   - REF-0310
   status: needs-review
   mechanistic_exclude_ids:
@@ -263,7 +250,6 @@ indications:
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
-  - REF-0064
   - REF-0310
   status: needs-review
   mechanistic_exclude_ids:
@@ -272,7 +258,6 @@ indications:
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
-  - REF-0064
   - REF-0310
   status: needs-review
   mechanistic_exclude_ids:
@@ -281,7 +266,6 @@ indications:
 - condition: uti
   note: inferred from diuretic action
   reference_ids:
-  - REF-0064
   - REF-0310
   status: needs-review
   mechanistic_exclude_ids:
@@ -290,7 +274,6 @@ indications:
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0064
   - REF-0310
   status: needs-review
   mechanistic_exclude_ids:
@@ -305,7 +288,6 @@ contraindications:
     (World Health Organization, 2007; Egyptian Drug Authority, n.d.).
   severity: caution
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0174
   - REF-0210
@@ -318,7 +300,6 @@ contraindications:
     (++) with no known significant contraindications at culinary and medicinal doses (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0064
   - REF-0103
   - REF-0174
   - REF-0210

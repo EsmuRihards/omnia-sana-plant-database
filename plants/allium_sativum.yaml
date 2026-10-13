@@ -157,7 +157,6 @@ actions:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0312
   - REF-0648
@@ -180,7 +179,6 @@ actions:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0312
   - REF-0648
@@ -191,7 +189,6 @@ actions:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0312
   - REF-0650
@@ -200,7 +197,6 @@ actions:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0312
   - REF-0650
@@ -213,7 +209,6 @@ actions:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0312
   - REF-0649
@@ -224,7 +219,6 @@ actions:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0312
   - REF-2427
@@ -235,7 +229,6 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0166
-  - REF-0177
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
@@ -246,7 +239,6 @@ indications:
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0166
-  - REF-0177
   - REF-0648
   - REF-2428
   status: needs-review
@@ -270,7 +262,6 @@ indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0647
   - REF-0648
@@ -282,7 +273,6 @@ indications:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   status: needs-review
   mechanistic_exclude_ids:
@@ -292,7 +282,6 @@ indications:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   status: verified
   mechanistic_exclude_ids:
@@ -302,7 +291,6 @@ indications:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0650
   status: needs-review
@@ -312,7 +300,6 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0166
-  - REF-0177
   - REF-0648
   status: needs-review
   mechanistic_exclude_ids:
@@ -323,7 +310,6 @@ indications:
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0648
   status: needs-review
@@ -334,7 +320,6 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0166
-  - REF-0177
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
@@ -345,7 +330,6 @@ indications:
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0166
-  - REF-0177
   - REF-0650
   - REF-0651
   status: needs-review
@@ -369,7 +353,6 @@ contraindications:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0209
   - REF-0312
@@ -385,7 +368,6 @@ contraindications:
   reference_ids:
   - REF-0127
   - REF-0166
-  - REF-0177
   - REF-0204
   - REF-0209
   - REF-0312

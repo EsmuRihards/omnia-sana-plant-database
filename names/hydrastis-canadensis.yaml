@@ -139,11 +139,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:backbone
-  ca:
-  - name: Hidrastis
-    sources:
-    - wikipedia:ca
-    status: needs-review
   tr:
   - name: Altınmühür
     sources:
@@ -189,5 +184,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-10-01'
-last_verified: '2026-10-01'
+  last_run: '2026-11-01'
+last_verified: '2026-11-01'

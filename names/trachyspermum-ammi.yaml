@@ -1,20 +1,10 @@
 id: trachyspermum-ammi
 scientific_name: Trachyspermum ammi
 names:
-  bg:
-  - name: Ажгон
-    sources:
-    - wikipedia:bg
-    status: needs-review
   da:
   - name: Vortefrugt
     sources:
     - gbif:red-list-vascular-plants-denmark-r-dlist
-    status: needs-review
-  nl:
-  - name: Ajowan
-    sources:
-    - wikipedia:nl
     status: needs-review
   en:
   - name: Ajowan
@@ -31,44 +21,26 @@ names:
   - name: Ethiopian-caraway
     sources:
     - col:catalogue-of-life
-  - name: Ajwain
-    sources:
-    - wikipedia:en
-    status: needs-review
-  - name: Ajowan caraway
-    sources:
-    - wikidata:Q413254
-    status: needs-review
   fi:
-  - name: Intiankumina
+  - name: intiankumina
     preferred: true
     sources:
     - col:catalogue-of-life
-    - wikipedia:fi
   fr:
   - name: ammi de l'Inde
     preferred: true
     sources:
     - col:catalogue-of-life
-  - name: Ajowan
-    sources:
-    - wikipedia:fr
-    status: needs-review
   de:
   - name: indischer Kümmel
     preferred: true
     sources:
     - col:catalogue-of-life
-  - name: Ajowan
-    sources:
-    - wikipedia:de
-    status: needs-review
   hu:
   - name: Ajovan
     preferred: true
     sources:
     - col:catalogue-of-life
-    - wikipedia:hu
   it:
   - name: Erba del vescovo
     preferred: true
@@ -79,10 +51,6 @@ names:
     preferred: true
     sources:
     - col:catalogue-of-life
-  - name: Chropawiec wonny
-    sources:
-    - wikipedia:pl
-    status: needs-review
   sk:
   - name: drsnoplodka parascová
     preferred: true
@@ -98,29 +66,14 @@ names:
     sources:
     - gbif:dyntaxa-svensk-taxonomisk-databas
     status: needs-review
-  - name: Ajovan
-    sources:
-    - wikipedia:sv
-    status: needs-review
   ru:
   - name: Ажгон
     preferred: true
     sources:
     - col:catalogue-of-life
-    - wikipedia:ru
   - name: Айован обыкновенный
     sources:
     - col:catalogue-of-life
-  uk:
-  - name: Ажгон
-    sources:
-    - wikipedia:uk
-    status: needs-review
-  be:
-  - name: Ажгон
-    sources:
-    - wikipedia:be
-    status: needs-review
   tr:
   - name: trakispermum
     preferred: true
@@ -164,7 +117,5 @@ verification:
   - tr
   sources_queried:
   - gbif
-  - wikidata
-  - wikipedia
-  last_run: '2026-10-01'
-last_verified: '2026-10-01'
+  last_run: '2026-11-01'
+last_verified: '2026-11-01'

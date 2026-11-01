@@ -21421,8 +21421,8 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:checklist-dutch-species-register-nederla",
+       "gbif:world-register-of-introduced-marine-spec",
        "gbif:world-register-of-marine-species",
-       "gbif:wrims",
        "wikipedia:nl"
       ]
      },
@@ -21522,8 +21522,8 @@
        "gbif:database-of-vascular-plants-of-canada-va",
        "gbif:global-register-of-introduced-and-invasi",
        "gbif:martha-s-vineyard-species-checklist",
+       "gbif:world-register-of-introduced-marine-spec",
        "gbif:world-register-of-marine-species",
-       "gbif:wrims",
        "wikidata:Q276262"
       ]
      },
@@ -63186,11 +63186,10 @@
     ],
     "fi": [
      {
-      "name": "Intiankumina",
+      "name": "intiankumina",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:fi"
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -63217,8 +63216,7 @@
       "name": "Ajovan",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:hu"
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -63263,8 +63261,7 @@
       "name": "Ажгон",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ru"
+       "col:catalogue-of-life"
       ]
      },
      {

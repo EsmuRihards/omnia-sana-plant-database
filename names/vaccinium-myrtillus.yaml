@@ -302,11 +302,6 @@ names:
     sources:
     - wikipedia:bs
     status: needs-review
-  sq:
-  - name: Boronica
-    sources:
-    - wikipedia:sq
-    status: needs-review
   is:
   - name: Aðalbláber
     sources:
@@ -366,5 +361,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-10-01'
-last_verified: '2026-10-01'
+  last_run: '2026-11-01'
+last_verified: '2026-11-01'

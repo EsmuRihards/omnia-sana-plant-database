@@ -1,0 +1,150 @@
+plant	condition	ref	op
+asclepias_tuberosa	arthritis	REF-0495	rm
+asclepias_tuberosa	bronchitis	REF-0495	rm
+asclepias_tuberosa	cold	REF-0495	rm
+asclepias_tuberosa	cough	REF-0495	rm
+asclepias_tuberosa	fever	REF-0495	rm
+asclepias_tuberosa	inflammation	REF-0495	rm
+asclepias_tuberosa	respiratory-support	REF-0495	rm
+asclepias_tuberosa	skin-irritation	REF-0495	rm
+asclepias_tuberosa	bronchitis	REF-1948	rm
+asclepias_tuberosa	respiratory-support	REF-1948	rm
+asclepias_tuberosa	cold	REF-1948	mexcl
+asclepias_tuberosa	cough	REF-1948	mexcl
+asclepias_tuberosa	fever	REF-1948	mexcl
+asclepias_tuberosa	cough	REF-0494	rm
+asclepias_tuberosa	fever	REF-0494	rm
+asclepias_tuberosa	skin-irritation	REF-1947	rm
+asclepias_tuberosa	arthritis	-	drop(no evidence left)
+asclepias_tuberosa	cough	-	drop(no evidence left)
+asclepias_tuberosa	fever	-	drop(no evidence left)
+asclepias_tuberosa	inflammation	-	drop(no evidence left)
+asclepias_tuberosa	skin-irritation	-	drop(no evidence left)
+astragalus_membranaceus	arthritis	REF-0402	rm
+astragalus_membranaceus	fatigue	REF-0402	rm
+astragalus_membranaceus	kidney-support	REF-0402	rm
+astragalus_membranaceus	skin-irritation	REF-0402	rm
+astragalus_membranaceus	stress	REF-0402	rm
+astragalus_membranaceus	cold	REF-0401	rm
+astragalus_membranaceus	kidney-support	REF-0586	null
+astragalus_membranaceus	fatigue	REF-2261	add
+astragalus_membranaceus	cold	-	needs-review(mechanistic only)
+astragalus_membranaceus	kidney-support	-	drop(no evidence left)
+astragalus_membranaceus	stress	-	drop(no evidence left)
+bacopa_monnieri	*	REF-0038->REF-0740	merge
+bacopa_monnieri	arthritis	REF-0309	rm
+bacopa_monnieri	cognitive-function	REF-0309	rm
+bacopa_monnieri	inflammation	REF-0309	rm
+bacopa_monnieri	insomnia	REF-0309	rm
+bacopa_monnieri	memory	REF-0309	rm
+bacopa_monnieri	skin-irritation	REF-0309	rm
+bacopa_monnieri	arthritis	-	drop(no evidence left)
+bacopa_monnieri	insomnia	-	drop(no evidence left)
+bacopa_monnieri	skin-irritation	-	drop(no evidence left)
+betula_pendula	swelling	REF-0080	rm
+betula_pendula	uti	REF-0080	rm
+betula_pendula	swelling	-	drop(no evidence left)
+betula_pendula	uti	-	drop(no evidence left)
+bistorta_officinalis	arthritis	REF-0411	rm
+bistorta_officinalis	bruising	REF-0411	rm
+bistorta_officinalis	diarrhea	REF-0411	rm
+bistorta_officinalis	heavy-bleeding	REF-0411	rm
+bistorta_officinalis	inflammation	REF-0411	rm
+bistorta_officinalis	skin-irritation	REF-0411	rm
+bistorta_officinalis	sore-throat	REF-0411	rm
+bistorta_officinalis	wounds	REF-0411	rm
+bistorta_officinalis	arthritis	REF-0746	rm
+bistorta_officinalis	bruising	REF-0746	rm
+bistorta_officinalis	sore-throat	REF-0746	rm
+bistorta_officinalis	wounds	REF-0746	rm
+bistorta_officinalis	infection	REF-0627	rm
+bistorta_officinalis	arthritis	-	drop(no evidence left)
+bistorta_officinalis	bruising	-	drop(no evidence left)
+bistorta_officinalis	heavy-bleeding	-	drop(no evidence left)
+bistorta_officinalis	sore-throat	-	drop(no evidence left)
+bistorta_officinalis	wounds	-	needs-review(mechanistic only)
+borago_officinalis	*	REF-0129	purge
+borago_officinalis	arthritis	REF-0309	rm
+borago_officinalis	back-pain	REF-0309	rm
+borago_officinalis	bloating	REF-0309	rm
+borago_officinalis	cold	REF-0309	rm
+borago_officinalis	eczema	REF-0309	rm
+borago_officinalis	headache	REF-0309	rm
+borago_officinalis	immune-support	REF-0309	rm
+borago_officinalis	indigestion	REF-0309	rm
+borago_officinalis	inflammation	REF-0309	rm
+borago_officinalis	pain	REF-0309	rm
+borago_officinalis	respiratory-support	REF-0309	rm
+borago_officinalis	skin-irritation	REF-0309	rm
+borago_officinalis	cold	REF-0749	add
+borago_officinalis	respiratory-support	REF-0749	add
+borago_officinalis	inflammation	REF-0749	add
+borago_officinalis	back-pain	-	drop(no evidence left)
+borago_officinalis	bloating	-	drop(no evidence left)
+borago_officinalis	headache	-	drop(no evidence left)
+borago_officinalis	immune-support	-	needs-review(mechanistic only)
+borago_officinalis	pain	-	drop(no evidence left)
+boswellia_serrata	*	REF-0423	purge
+boswellia_serrata	*	REF-1817	purge
+boswellia_serrata	*	REF-2874	purge
+boswellia_serrata	*	REF-2875	purge
+boswellia_serrata	asthma	-	drop(no evidence left)
+boswellia_serrata	ibd	-	drop(no evidence left)
+calendula_officinalis	*	REF-0183	purge
+calendula_officinalis	arthritis	REF-0112	rm
+calendula_officinalis	bruising	REF-0112	rm
+calendula_officinalis	eczema	REF-0112	rm
+calendula_officinalis	infection	REF-0112	rm
+calendula_officinalis	inflammation	REF-0112	rm
+calendula_officinalis	skin-irritation	REF-0112	rm
+calendula_officinalis	wounds	REF-0112	rm
+calendula_officinalis	bruising	REF-0199	rm
+calendula_officinalis	inflammation	REF-0199	rm
+calendula_officinalis	skin-irritation	REF-0199	rm
+calendula_officinalis	wounds	REF-0752	add
+calendula_officinalis	wounds	REF-2125	add
+calendula_officinalis	bruising	REF-0752	mexcl
+calendula_officinalis	bruising	REF-2125	mexcl
+calendula_officinalis	bruising	REF-2129	mexcl
+calendula_officinalis	bruising	-	drop(no evidence left)
+calendula_officinalis	eczema	-	drop(no evidence left)
+camellia_sinensis	cancer	REF-1961	null
+camellia_sinensis	memory	REF-0184	rm
+camellia_sinensis	arthritis	REF-0045	rm
+camellia_sinensis	cognitive-function	REF-0045	rm
+camellia_sinensis	infection	REF-0045	rm
+camellia_sinensis	inflammation	REF-0045	rm
+camellia_sinensis	memory	REF-0045	rm
+camellia_sinensis	skin-irritation	REF-0045	rm
+camellia_sinensis	wounds	REF-0045	rm
+camellia_sinensis	blood-sugar	REF-0061	rm
+camellia_sinensis	cardiovascular-support	REF-0061	rm
+camellia_sinensis	metabolic-support	REF-0061	rm
+camellia_sinensis	arthritis	-	drop(no evidence left)
+camellia_sinensis	inflammation	-	drop(no evidence left)
+camellia_sinensis	skin-irritation	-	drop(no evidence left)
+campanula_persicifolia	inflammation	REF-2816	rm
+campanula_persicifolia	skin-irritation	REF-2816	rm
+campanula_persicifolia	sore-throat	REF-2816	rm
+campanula_persicifolia	respiratory-support	REF-2816	rm
+campanula_persicifolia	wounds	REF-2816	mexcl
+campanula_persicifolia	infection	REF-2816	mexcl
+campanula_persicifolia	inflammation	-	drop(no evidence left)
+campanula_persicifolia	wounds	-	drop(no evidence left)
+campanula_persicifolia	skin-irritation	-	drop(no evidence left)
+campanula_persicifolia	infection	-	drop(no evidence left)
+campanula_persicifolia	sore-throat	-	drop(no evidence left)
+campanula_persicifolia	respiratory-support	-	drop(no evidence left)
+campanula_persicifolia	action:vulnerary	-	needs-review(unsourced)
+epilobium_parviflorum	prostate-support	REF-0404	rm
+epilobium_parviflorum	urinary-support	REF-0404	rm
+hibiscus_sabdariffa	high-blood-pressure	REF-1844	nulladd
+hibiscus_sabdariffa	cardiovascular-support	REF-1844	nulladd
+lavandula_angustifolia	insomnia	REF-0858	nulladd
+oenothera_biennis	*	REF-2588	purge
+oenothera_biennis	menopause	-	drop(no evidence left)
+rhododendron_tomentosum	*	REF-0881	purge
+serenoa_repens	prostate-support	REF-1895	null
+serenoa_repens	urinary-support	REF-1895	null
+tanacetum_parthenium	*	REF-1577	purge
+thymus_vulgaris	*	REF-0593	purge

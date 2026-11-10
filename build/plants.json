@@ -8033,24 +8033,16 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0495"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
      "condition": "bronchitis",
      "note": "Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy",
      "reference_ids": [
-      "REF-0494",
+      "REF-0494"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0495",
       "REF-1948"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Bronchitis"
     },
@@ -8058,67 +8050,29 @@
      "condition": "cold",
      "note": "inferred from diaphoretic action",
      "reference_ids": [
-      "REF-0494",
-      "REF-0495"
+      "REF-0494"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0495",
+      "REF-1948"
+     ],
      "evidence": 1,
      "label": "Cold & flu"
-    },
-    {
-     "condition": "cough",
-     "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0494",
-      "REF-0495"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Cough"
-    },
-    {
-     "condition": "fever",
-     "note": "inferred from diaphoretic action",
-     "reference_ids": [
-      "REF-0494",
-      "REF-0495"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Fever"
-    },
-    {
-     "condition": "inflammation",
-     "note": "Anti-inflammatory for lung inflammation (traditional)",
-     "reference_ids": [
-      "REF-0495"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Inflammation (general)"
     },
     {
      "condition": "respiratory-support",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0494",
+      "REF-0494"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0495",
       "REF-1948"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Respiratory support"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0495",
-      "REF-1947"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Skin irritation"
     }
    ],
    "contraindications": [
@@ -8399,10 +8353,11 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0402"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
@@ -8424,24 +8379,26 @@
     {
      "condition": "cold",
      "note": "Supports resistance to colds and respiratory infection (immune)",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-2263",
       "REF-0401"
      ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-2263"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Cold & flu"
     },
     {
      "condition": "fatigue",
      "note": "Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)",
      "reference_ids": [
-      "REF-0402"
+      "REF-2261"
      ],
      "status": "verified",
-     "evidence": 1,
+     "mechanistic_exclude_ids": [
+      "REF-0402"
+     ],
+     "evidence": 7,
      "label": "Fatigue / low energy"
     },
     {
@@ -8472,42 +8429,19 @@
       "REF-0402"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
-    },
-    {
-     "condition": "kidney-support",
-     "note": "Renoprotective (kidney support) - as an adjunct in chronic kidney disease, reduced proteinuria and raised haemoglobin and serum albumin across trials (Cochrane review; study quality low)",
-     "reference_ids": [
-      "REF-0402",
-      "REF-0586"
-     ],
-     "status": "verified",
-     "evidence": 7,
-     "label": "Kidney support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0402"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Skin irritation"
-    },
-    {
-     "condition": "stress",
-     "note": "inferred from adaptogen action",
-     "reference_ids": [
-      "REF-0402"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2261"
+      "REF-0402"
      ],
      "evidence": 1,
-     "label": "Stress"
+     "label": "Skin irritation"
     }
    ],
    "contraindications": [
@@ -8730,12 +8664,11 @@
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0038",
+      "REF-0740",
       "REF-0283",
       "REF-0309",
       "REF-0742",
       "REF-2107",
-      "REF-0740",
       "REF-2108",
       "REF-2109",
       "REF-2110",
@@ -8754,19 +8687,6 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0309"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2112"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
      "condition": "cancer",
      "note": "Bacopaside II from Bacopa monnieri inhibits colon cancer cell growth via cell-cycle arrest and apoptosis (aquaporin-1 blockade), and its bacopasaponins are cytotoxic to lung (PC9) and colon (SW620) cancer cells (preclinical).",
      "reference_ids": [
@@ -8782,61 +8702,40 @@
      "condition": "cognitive-function",
      "note": "inferred from neuroprotective action",
      "reference_ids": [
-      "REF-0038",
-      "REF-0283",
-      "REF-0309"
+      "REF-0740",
+      "REF-0283"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0309"
+     ],
      "evidence": 6,
      "label": "Cognitive function"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0309"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Inflammation (general)"
-    },
-    {
-     "condition": "insomnia",
-     "note": "inferred from sedative action",
-     "reference_ids": [
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0740"
+      "REF-0309"
      ],
      "evidence": 1,
-     "label": "Insomnia / sleeplessness"
+     "label": "Inflammation (general)"
     },
     {
      "condition": "memory",
      "note": "inferred from neuroprotective action",
      "reference_ids": [
-      "REF-0038",
-      "REF-0283",
-      "REF-0309"
-     ],
-     "status": "needs-review",
-     "evidence": 6,
-     "label": "Memory"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0309"
+      "REF-0740",
+      "REF-0283"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2112"
+      "REF-0309"
      ],
-     "evidence": 1,
-     "label": "Skin irritation"
+     "evidence": 6,
+     "label": "Memory"
     }
    ],
    "contraindications": [
@@ -8844,7 +8743,7 @@
      "note": "Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal - nausea, stomach cramps, and increased bowel movements - which can be reduced by taking with food. Not recommended during pregnancy. May interact with medications that increase acetylcholine levels (e.g. Alzheimer's medications). Use with caution in thyroid conditions, as bacopa may increase thyroid hormone levels.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0038",
+      "REF-0740",
       "REF-0283",
       "REF-0309"
      ],
@@ -8854,7 +8753,7 @@
      "note": "Duke (2002) does not include a dedicated entry for Bacopa monnieri (water hyssop/brahmi) in the Handbook of Medicinal Herbs, Second Edition.",
      "severity": "info",
      "reference_ids": [
-      "REF-0038",
+      "REF-0740",
       "REF-0283",
       "REF-0309",
       "REF-0063"
@@ -9256,16 +9155,6 @@
      "label": "Skin irritation"
     },
     {
-     "condition": "swelling",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0080"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Swelling / fluid retention"
-    },
-    {
      "condition": "urinary-support",
      "note": "inferred from diuretic action",
      "reference_ids": [
@@ -9274,16 +9163,6 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0080"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
     },
     {
      "condition": "wounds",
@@ -9555,31 +9434,6 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0746",
-      "REF-0411"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2116"
-     ],
-     "evidence": 2,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0746",
-      "REF-0411"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Bruising"
-    },
-    {
      "condition": "cancer",
      "note": "Polygonum bistorta (Bistorta officinalis) methanol-water and aqueous extracts inhibit hepatocellular carcinoma cells via ROS-induced ER stress and apoptosis (delaying xenograft tumour growth), with phenolic constituents driving the cytotoxicity (preclinical).",
      "reference_ids": [
@@ -9594,34 +9448,25 @@
      "condition": "diarrhea",
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
-      "REF-0746",
-      "REF-0411"
-     ],
-     "status": "verified",
-     "evidence": 2,
-     "label": "Diarrhoea"
-    },
-    {
-     "condition": "heavy-bleeding",
-     "note": "inferred from styptic action",
-     "reference_ids": [
-      "REF-0411"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
       "REF-0746"
      ],
-     "evidence": 1,
-     "label": "Heavy menstrual bleeding"
+     "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0411"
+     ],
+     "evidence": 2,
+     "label": "Diarrhoea"
     },
     {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0746",
-      "REF-0627"
+      "REF-0746"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0627"
+     ],
      "evidence": 2,
      "label": "Infection (general)"
     },
@@ -9629,10 +9474,12 @@
      "condition": "inflammation",
      "note": "Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)",
      "reference_ids": [
-      "REF-0746",
-      "REF-0411"
+      "REF-0746"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0411"
+     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -9640,36 +9487,26 @@
      "condition": "skin-irritation",
      "note": "inferred from astringent action",
      "reference_ids": [
-      "REF-0746",
-      "REF-0411"
+      "REF-0746"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2116"
+      "REF-2116",
+      "REF-0411"
      ],
      "evidence": 2,
      "label": "Skin irritation"
     },
     {
-     "condition": "sore-throat",
-     "note": "Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)",
-     "reference_ids": [
-      "REF-0746",
-      "REF-0411"
-     ],
-     "status": "verified",
-     "evidence": 2,
-     "label": "Sore throat"
-    },
-    {
      "condition": "wounds",
      "note": "Vulnerary and styptic for minor wounds (topical)",
-     "reference_ids": [
-      "REF-0746",
-      "REF-0411"
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0411",
+      "REF-0746"
      ],
-     "status": "verified",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Wounds"
     }
    ],
@@ -9917,7 +9754,6 @@
     {
      "action": "analgesic",
      "reference_ids": [
-      "REF-0129",
       "REF-0309"
      ],
      "status": "verified"
@@ -9925,7 +9761,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0129",
       "REF-0309",
       "REF-0749",
       "REF-1952",
@@ -9943,7 +9778,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0129",
       "REF-0309",
       "REF-0749",
       "REF-1951",
@@ -9955,7 +9789,6 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0129",
       "REF-0309",
       "REF-1950"
      ],
@@ -9964,7 +9797,6 @@
     {
      "action": "emollient",
      "reference_ids": [
-      "REF-0129",
       "REF-0309",
       "REF-1951"
      ],
@@ -9973,7 +9805,6 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0129",
       "REF-0309",
       "REF-1958"
      ],
@@ -9984,44 +9815,15 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0129",
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1952",
-      "REF-1958"
+      "REF-1958",
+      "REF-0309"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "back-pain",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0309"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0129"
-     ],
-     "evidence": 1,
-     "label": "Back pain"
-    },
-    {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0309"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0129",
-      "REF-1950"
-     ],
-     "evidence": 1,
-     "label": "Bloating"
     },
     {
      "condition": "cancer",
@@ -10037,48 +9839,33 @@
      "condition": "cold",
      "note": "inferred from immunomodulator action",
      "reference_ids": [
-      "REF-0309"
+      "REF-0749"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0129",
-      "REF-1958"
+      "REF-1958",
+      "REF-0309"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cold & flu"
     },
     {
      "condition": "eczema",
      "note": "inferred from emollient action",
-     "reference_ids": [
-      "REF-0129",
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0309"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Eczema"
     },
     {
-     "condition": "headache",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0309"
-     ],
+     "condition": "immune-support",
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0129"
-     ],
-     "evidence": 1,
-     "label": "Headache"
-    },
-    {
-     "condition": "immune-support",
-     "reference_ids": [
       "REF-0309"
-     ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0129"
      ],
      "evidence": 1,
      "label": "Immune support"
@@ -10086,12 +9873,10 @@
     {
      "condition": "indigestion",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0129"
+      "REF-0309"
      ],
      "evidence": 1,
      "label": "Indigestion"
@@ -10100,43 +9885,33 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0129",
-      "REF-0309"
+      "REF-0749"
      ],
      "status": "needs-review",
-     "evidence": 1,
-     "label": "Inflammation (general)"
-    },
-    {
-     "condition": "pain",
-     "reference_ids": [
-      "REF-0129",
+     "mechanistic_exclude_ids": [
       "REF-0309"
      ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Pain (general)"
+     "evidence": 2,
+     "label": "Inflammation (general)"
     },
     {
      "condition": "respiratory-support",
      "reference_ids": [
-      "REF-0309"
+      "REF-0749"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0129",
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1952",
-      "REF-1958"
+      "REF-1958",
+      "REF-0309"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -10147,7 +9922,6 @@
      "note": "Pyrrolizidine alkaloids (PAs): Many Boraginaceae can produce PAs; unsaturated PAs are hepatotoxic and genotoxic (risk increases with cumulative exposure). Borage as food/tea: PA presence in borage consumed as herb/tea has been specifically studied; EU has set PA maximum levels for certain foods including borage (context for why sourcing/limits matter). Pregnancy/breastfeeding: avoid internal use of borage herb products due to PA-related concerns and risk uncertainty. Liver disease / long-term use: avoid (PA risk + cumulative exposure logic). Seed oil vs herb: refined/quality-controlled seed oil is generally the preferred form when borage is used medicinally, because the main target compound is GLA; however, product quality and contamination control still matter. Drug interactions (caution): GLA oils have been discussed with anticoagulants (bleeding risk caution is better established for evening primrose oil; borage oil is often grouped in the same “GLA oil” category). Use caution if on anticoagulants/antiplatelets.",
      "severity": "serious",
      "reference_ids": [
-      "REF-0129",
       "REF-0212",
       "REF-0309"
      ],
@@ -10157,7 +9931,6 @@
      "note": "Duke (2002) rates borage as a single-plus herb (+) with predominantly folklore-level evidence. Borage seed oil is rich in gamma-linolenic acid (GLA) and has been used for inflammatory conditions such as arthritis and PMS, and for cardiovascular support; typical dose is one 300 mg softgel containing 24% GLA or 2-4 ml liquid leaf extract. Commission E does not approve borage for any indication, and the herb contains hepatotoxic and carcinogenic pyrrolizidine alkaloids, making long-term use inadvisable (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0129",
       "REF-0212",
       "REF-0309",
       "REF-0063"
@@ -10237,9 +10010,7 @@
       "terpene"
      ],
      "note": "The principal anti-inflammatory compounds; AKBA inhibits 5-lipoxygenase. Absorption improves when taken with a high-fat meal.",
-     "reference_ids": [
-      "REF-0423"
-     ]
+     "reference_ids": []
     },
     {
      "name": "Other triterpenes and essential oil of the resin",
@@ -10248,9 +10019,7 @@
       "terpene"
      ],
      "note": "Additional constituents of the oleo-gum-resin.",
-     "reference_ids": [
-      "REF-0423"
-     ]
+     "reference_ids": []
     }
    ],
    "botanical_description": {
@@ -10263,16 +10032,12 @@
     "root": "Woody root system",
     "fruit": "Small, three-valved capsule",
     "flowering_period": "Varies with climate; typically before or with new leaves",
-    "reference_ids": [
-     "REF-0423"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "habitat": {
     "text": "Native to dry, rocky, hilly terrain of India and parts of the Middle East and North Africa, where it is tapped for its resin much like frankincense (Boswellia sacra).",
-    "reference_ids": [
-     "REF-0423"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvesting": {
@@ -10281,9 +10046,7 @@
      "Gum resin (oleo-gum-resin)"
     ],
     "season": "Tapped through the dry season",
-    "reference_ids": [
-     "REF-0423"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvest_readiness": [
@@ -10305,31 +10068,11 @@
    ],
    "traditional_uses": {
     "text": "Boswellia resin (salai guggul) is a mainstay of Ayurvedic medicine for inflammatory joint and respiratory conditions, and has been burned as incense across many cultures. Modern standardised extracts, rich in boswellic acids, are used for osteoarthritis, inflammatory bowel disease and other inflammatory conditions, directly building on this traditional anti-inflammatory reputation.",
-    "reference_ids": [
-     "REF-0423"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
-   "preparations": [
-    {
-     "name": "Standardised extract",
-     "text": "Resin extract standardised to boswellic acid (often AKBA) content, taken as capsules or tablets, ideally with a fat-containing meal to aid absorption.",
-     "reference_ids": [
-      "REF-0423"
-     ],
-     "status": "verified"
-    }
-   ],
-   "dosage": [
-    {
-     "name": "Standardised extract",
-     "text": "Clinical trials in osteoarthritis commonly use extracts providing around 100-250 mg of boswellic acids (or several hundred mg of standardised extract) daily, in divided doses, taken with food. Educational reference only, not a prescription.",
-     "reference_ids": [
-      "REF-0423"
-     ],
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
+   "dosage": [],
    "actions": [
     {
      "action": "analgesic",
@@ -10338,8 +10081,7 @@
       "REF-0422",
       "REF-0573",
       "REF-1810",
-      "REF-1816",
-      "REF-1817"
+      "REF-1816"
      ],
      "status": "verified"
     },
@@ -10347,7 +10089,6 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory (inhibits 5-lipoxygenase / leukotriene synthesis and NF-kB signalling); Reduces inflammatory markers (e.g. hs-CRP) and, in one RCT, improved knee joint-space and reduced osteophytes on radiograph",
      "reference_ids": [
-      "REF-0423",
       "REF-0573",
       "REF-1809",
       "REF-1810",
@@ -10356,7 +10097,6 @@
       "REF-1813",
       "REF-1815",
       "REF-1816",
-      "REF-1817",
       "REF-1818"
      ],
      "status": "needs-review"
@@ -10366,8 +10106,6 @@
      "reference_ids": [
       "REF-1814",
       "REF-2873",
-      "REF-2874",
-      "REF-2875",
       "REF-2876"
      ],
      "status": "needs-review",
@@ -10380,7 +10118,6 @@
      "note": "Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks); Supports inflammatory arthritis including rheumatoid arthritis",
      "reference_ids": [
       "REF-0422",
-      "REF-0423",
       "REF-0573",
       "REF-0574"
      ],
@@ -10393,23 +10130,11 @@
      "label": "Arthritis / joint pain"
     },
     {
-     "condition": "asthma",
-     "note": "Supportive in bronchial asthma",
-     "reference_ids": [
-      "REF-0423"
-     ],
-     "status": "verified",
-     "evidence": 2,
-     "label": "Asthma"
-    },
-    {
      "condition": "cancer",
      "note": "Boswellia serrata resin and its triterpenoid AKBA arrest the cell cycle and induce apoptosis in non-small-cell lung cancer, suppress colitis-associated colorectal cancer (NF-kB, gut microbiota) and inhibit prostate cancer (IL-17 pathway) in vitro and in vivo (preclinical).",
      "reference_ids": [
       "REF-1814",
       "REF-2873",
-      "REF-2874",
-      "REF-2875",
       "REF-2876"
      ],
      "status": "needs-review",
@@ -10417,20 +10142,9 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "ibd",
-     "note": "Supportive in inflammatory bowel disease (ulcerative colitis, Crohn's disease)",
-     "reference_ids": [
-      "REF-0423"
-     ],
-     "status": "verified",
-     "evidence": 2,
-     "label": "Inflammatory bowel disease (IBD)"
-    },
-    {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0423",
       "REF-0573"
      ],
      "status": "needs-review",
@@ -10452,19 +10166,16 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0423"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0573",
       "REF-1810",
       "REF-1811",
       "REF-1813",
-      "REF-1816",
-      "REF-1817"
+      "REF-1816"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
     }
    ],
@@ -10473,7 +10184,6 @@
      "note": "Generally well tolerated; the most commonly reported side effects are mild gastrointestinal symptoms, and allergic reactions are rare.",
      "severity": "info",
      "reference_ids": [
-      "REF-0423",
       "REF-0422"
      ],
      "status": "verified"
@@ -10481,9 +10191,7 @@
     {
      "note": "Boswellic acids can affect drug-metabolising enzymes, so caution is advised when taking other medicines; safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0423"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     }
    ],
@@ -10497,7 +10205,6 @@
     "REF-1814",
     "REF-1815",
     "REF-1816",
-    "REF-1817",
     "REF-1818"
    ],
    "lookalikes_review": {
@@ -10669,7 +10376,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0112",
-      "REF-0183",
       "REF-0199",
       "REF-0753",
       "REF-2126",
@@ -10691,7 +10397,6 @@
      "action": "antifungal",
      "reference_ids": [
       "REF-0112",
-      "REF-0183",
       "REF-0199"
      ],
      "status": "verified"
@@ -10700,7 +10405,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0112",
-      "REF-0183",
       "REF-0199",
       "REF-2127"
      ],
@@ -10710,7 +10414,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0112",
-      "REF-0183",
       "REF-0199",
       "REF-2124",
       "REF-2130"
@@ -10721,7 +10424,6 @@
      "action": "emollient",
      "reference_ids": [
       "REF-0112",
-      "REF-0183",
       "REF-0199"
      ],
      "status": "verified"
@@ -10730,7 +10432,6 @@
      "action": "vulnerary",
      "reference_ids": [
       "REF-0112",
-      "REF-0183",
       "REF-0199",
       "REF-0752",
       "REF-2125",
@@ -10743,29 +10444,15 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0112"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0183",
       "REF-0199",
-      "REF-2128"
+      "REF-2128",
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0112",
-      "REF-0183",
-      "REF-0199"
-     ],
-     "status": "needs-review",
-     "evidence": 5,
-     "label": "Bruising"
     },
     {
      "condition": "cancer",
@@ -10780,73 +10467,56 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "eczema",
-     "note": "inferred from emollient action",
-     "reference_ids": [
-      "REF-0112",
-      "REF-0183"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0199"
-     ],
-     "evidence": 5,
-     "label": "Eczema"
-    },
-    {
      "condition": "infection",
      "note": "inferred from antifungal action",
-     "reference_ids": [
-      "REF-0112",
-      "REF-0183"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0199"
+      "REF-0199",
+      "REF-0112"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0112",
-      "REF-0183",
       "REF-0199"
      ],
-     "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0112",
-      "REF-0183",
-      "REF-0199"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2128"
+      "REF-2128",
+      "REF-0112",
+      "REF-0199"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0112",
-      "REF-0183",
-      "REF-0199"
+      "REF-0199",
+      "REF-0752",
+      "REF-2125"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2127"
+      "REF-2127",
+      "REF-0112"
      ],
-     "evidence": 5,
+     "evidence": 8,
      "label": "Wounds"
     }
    ],
@@ -10856,7 +10526,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0112",
-      "REF-0183",
       "REF-0199"
      ],
      "status": "verified"
@@ -10866,7 +10535,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0112",
-      "REF-0183",
       "REF-0199",
       "REF-0063"
      ],
@@ -11104,119 +10772,90 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "condition": "blood-sugar",
+     "note": "inferred from antidiabetic action",
      "reference_ids": [
       "REF-0045"
      ],
      "status": "needs-review",
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0045",
-      "REF-0061"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
      "note": "inferred from anticancer action",
      "reference_ids": [
-      "REF-1961",
       "REF-1965"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-1961"
+     ],
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061"
+      "REF-0045"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cognitive-function",
      "note": "inferred from neuroprotective action",
      "reference_ids": [
-      "REF-0045",
       "REF-0184"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "mechanistic_exclude_ids": [
+      "REF-0045"
+     ],
+     "evidence": 5,
      "label": "Cognitive function"
     },
     {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0045"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Infection (general)"
     },
     {
-     "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0045"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Inflammation (general)"
-    },
-    {
      "condition": "memory",
      "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0045",
-      "REF-0184"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0045"
+     ],
      "evidence": 1,
      "label": "Memory"
     },
     {
      "condition": "metabolic-support",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Metabolic support"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
       "REF-0045"
      ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Skin irritation"
+     "status": "verified",
+     "evidence": 2,
+     "label": "Metabolic support"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0045"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1964",
-      "REF-1968"
+      "REF-1968",
+      "REF-0045"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -11472,66 +11111,10 @@
      "action": "vulnerary",
      "note": "Campanula macrostachya extract promoted fibroblast wound closure in vitro (genus congener).",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     }
    ],
-   "indications": [
-    {
-     "condition": "inflammation",
-     "reference_ids": [
-      "REF-2816"
-     ],
-     "status": "verified",
-     "evidence": 2,
-     "label": "Inflammation (general)"
-    },
-    {
-     "condition": "wounds",
-     "note": "Bellflower extract promoted fibroblast wound healing in vitro (genus congener).",
-     "reference_ids": [],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Wounds"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory / traditional topical skin use",
-     "reference_ids": [
-      "REF-2816"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Skin irritation"
-    },
-    {
-     "condition": "infection",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Infection (general)"
-    },
-    {
-     "condition": "sore-throat",
-     "note": "inferred from traditional gargle use for throat/mouth inflammation",
-     "reference_ids": [
-      "REF-2816"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Sore throat"
-    },
-    {
-     "condition": "respiratory-support",
-     "note": "inferred from genus Campanula traditional use for respiratory complaints",
-     "reference_ids": [
-      "REF-2816"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Respiratory support"
-    }
-   ],
+   "indications": [],
    "contraindications": [
     {
      "note": "Peach-leaved bellflower is chiefly an edible and ornamental plant, and very little is known about medicinal use or safety of the species specifically; there are no clinical data. Use culinary amounts, and avoid medicinal doses in pregnancy and breastfeeding.",
@@ -21429,11 +21012,10 @@
      "note": "Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive",
      "reference_ids": [
       "REF-0403",
-      "REF-0404",
       "REF-0618"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Prostate support"
     },
     {
@@ -21451,11 +21033,10 @@
      "note": "Antibacterial, including against Escherichia coli (urinary support); Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive",
      "reference_ids": [
       "REF-0403",
-      "REF-0404",
       "REF-0618"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Urinary support"
     },
     {
@@ -28986,6 +28567,9 @@
       "REF-0567"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-1844"
+     ],
      "evidence": 9,
      "label": "Cardiovascular / heart health"
     },
@@ -28999,6 +28583,9 @@
       "REF-0567"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-1844"
+     ],
      "evidence": 9,
      "label": "High blood pressure"
     },
@@ -33783,6 +33370,9 @@
       "REF-2210",
       "REF-2212",
       "REF-2215"
+     ],
+     "null_result_ids": [
+      "REF-0858"
      ],
      "evidence": 5,
      "label": "Insomnia / sleeplessness"
@@ -40378,21 +39968,11 @@
      "condition": "hot-flashes",
      "note": "Menopausal hot flushes - some trial benefit reported",
      "reference_ids": [
-      "REF-0446",
-      "REF-2588"
+      "REF-0446"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Hot flashes"
-    },
-    {
-     "condition": "menopause",
-     "reference_ids": [
-      "REF-2588"
-     ],
-     "status": "needs-review",
-     "evidence": 5,
-     "label": "Menopause"
     },
     {
      "condition": "pain",
@@ -40457,8 +40037,7 @@
     "REF-1463",
     "REF-1464",
     "REF-1465",
-    "REF-2587",
-    "REF-2588"
+    "REF-2587"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -50323,7 +49902,6 @@
       "REF-0053",
       "REF-0098",
       "REF-0880",
-      "REF-0881",
       "REF-0882",
       "REF-0889"
      ],
@@ -50358,9 +49936,6 @@
       "REF-0889"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0881"
-     ],
      "evidence": 2,
      "label": "Arthritis / joint pain"
     },
@@ -50393,9 +49968,6 @@
       "REF-0098"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0881"
-     ],
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -50405,11 +49977,10 @@
      "reference_ids": [
       "REF-0053",
       "REF-0098",
-      "REF-0881",
       "REF-0889"
      ],
      "status": "needs-review",
-     "evidence": 3,
+     "evidence": 2,
      "label": "Swelling / fluid retention"
     },
     {
@@ -50461,7 +50032,6 @@
    "references": [
     "REF-0053",
     "REF-0880",
-    "REF-0881",
     "REF-0882",
     "REF-0883",
     "REF-0884",
@@ -55765,10 +55335,12 @@
       "REF-1892",
       "REF-1893",
       "REF-0572",
-      "REF-1894",
-      "REF-1895"
+      "REF-1894"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-1895"
+     ],
      "evidence": 10,
      "label": "Prostate support"
     },
@@ -55784,10 +55356,12 @@
       "REF-1889",
       "REF-1890",
       "REF-0572",
-      "REF-1894",
-      "REF-1895"
+      "REF-1894"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-1895"
+     ],
      "evidence": 10,
      "label": "Urinary support"
     }
@@ -58728,11 +58302,10 @@
      "note": "Headache prevention and relief",
      "reference_ids": [
       "REF-0450",
-      "REF-1572",
-      "REF-1577"
+      "REF-1572"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Headache"
     },
     {
@@ -58760,7 +58333,6 @@
       "REF-1574",
       "REF-1575",
       "REF-1576",
-      "REF-1577",
       "REF-1581"
      ],
      "status": "verified",
@@ -58814,7 +58386,6 @@
     "REF-1574",
     "REF-1575",
     "REF-1576",
-    "REF-1577",
     "REF-1578",
     "REF-1579",
     "REF-1580",
@@ -60675,8 +60246,7 @@
    "traditional_uses": {
     "text": "Thyme has a long Mediterranean and European tradition as an antimicrobial and expectorant remedy for coughs, bronchitis and sore throat, formalised in EU herbal monograph recognition, with a fixed thyme-ivy extract combination shown superior to placebo for acute bronchitis with productive cough in clinical trial.",
     "reference_ids": [
-     "REF-0519",
-     "REF-0593"
+     "REF-0519"
     ],
     "status": "verified"
    },
@@ -60694,14 +60264,6 @@
      "text": "Infusion used as a gargle for sore throat, drawing on the antiseptic essential oil constituents.",
      "reference_ids": [
       "REF-0519"
-     ],
-     "status": "verified"
-    },
-    {
-     "name": "Standardized fluid extract (thyme-ivy combination)",
-     "text": "Standardized fluid extract, often combined with ivy leaf, the form studied in clinical trials for acute bronchitis.",
-     "reference_ids": [
-      "REF-0593"
      ],
      "status": "verified"
     }
@@ -60762,8 +60324,7 @@
      "action": "expectorant",
      "note": "Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing fits)",
      "reference_ids": [
-      "REF-0519",
-      "REF-0593"
+      "REF-0519"
      ],
      "status": "verified"
     }
@@ -60773,11 +60334,10 @@
      "condition": "bronchitis",
      "note": "Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing fits)",
      "reference_ids": [
-      "REF-0519",
-      "REF-0593"
+      "REF-0519"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Bronchitis"
     },
     {
@@ -60794,22 +60354,20 @@
      "condition": "cold",
      "note": "Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing fits)",
      "reference_ids": [
-      "REF-0519",
-      "REF-0593"
+      "REF-0519"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Cold & flu"
     },
     {
      "condition": "cough",
      "note": "Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing fits)",
      "reference_ids": [
-      "REF-0519",
-      "REF-0593"
+      "REF-0519"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Cough"
     },
     {
@@ -60852,11 +60410,10 @@
      "condition": "respiratory-support",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0519",
-      "REF-0593"
+      "REF-0519"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Respiratory support"
     },
     {

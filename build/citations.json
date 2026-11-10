@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3226,
+ "count": 3215,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -843,41 +843,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-2874",
-   "key": "xu2025akba",
-   "type": "article",
-   "title": "3-O-Acetyl-11-Keto-beta-Boswellic Acid Suppresses Colitis-Associated Colorectal Cancer by Inhibiting the NF-kB Signaling Pathway and Remodeling Gut Microbiota",
-   "authors": "Xu, F. and Li, W. and Zheng, X.-J. and Hao, Y. and Yang, Y.-H. and Yang, H. and Zhang, S. and Cao, W.-X. and Li, X.-X. and Zhang, X. and Du, G.-H. and Ji, T.-F. and Wang, J.-H.",
-   "journal": "Oncology Research",
-   "year": "2025",
-   "doi": "10.32604/or.2025.062386",
-   "url": "",
-   "link": "https://doi.org/10.32604/or.2025.062386",
-   "link_type": "doi",
-   "citation": "Xu, F. and Li, W. and Zheng, X.-J. and Hao, Y. and Yang, Y.-H. and Yang, H. and Zhang, S. and Cao, W.-X. and Li, X.-X. and Zhang, X. and Du, G.-H. and Ji, T.-F. and Wang, J.-H (2025) '3-O-Acetyl-11-Keto-beta-Boswellic Acid Suppresses Colitis-Associated Colorectal Cancer by Inhibiting the NF-kB Signaling Pathway and Remodeling Gut Microbiota', Oncology Research, 33(8), pp. 1969-1989. doi:10.32604/or.2025.062386",
-   "abstract": "Objectives Colorectal cancer (CRC) is one of the most common cancers all over the world. The progression of CRC is associated with inflammation and disruptions in intestinal flora. 3-O-Acetyl-11-keto-β-boswellic acid (AKBA) has been noted for its potent anti-inflammatory properties. However, the effect of AKBA on colon cancer caused by inflammation and its mechanism are not unclear. The study is to explore the effect of AKBA on CRC and its mechanism. Materials and methods Cell proliferation, (5-ethynyl-2 ' -deoxyuridine, EdU)-DNA synthesis assay and colony formation were used to assess the effect of AKBA on the proliferation of CRC cells. Flow cytometry was employed to analyze the cell cycle and apoptosis rate of cells treated with AKBA. RNA sequencing was done to explore the underlying mechanisms of AKBA. Western blot was used to assess the expression of key proteins in the nuclear factor kappa-B (NF-κB) signaling pathway after the treatment of AKBA. Real-time quantitative PCR (RT-qPCR), enzyme-linked immunosorbent assay (ELISA), and Meso Scale Discovery (MSD) assays were employed to check the anti-inflammation effects of AKBA on Lipopolysaccharide (LPS)-induced RAW264.7 cells and LPS-induced mouse model. Additionally, the Azoxymethane/Dextran sulfate sodium (AOM/DSS)-induced colitis-associated CRC model was used to evaluate the anti-CRC effect of AKBA. Gut microbiota profiling of fecal samples from CRC mice, both with and without AKBA treatment, was conducted through metagenomic sequencing analysis. Results Our results showed that AKBA reduced the proliferation of HCT116 and SW620 cells, increased apoptosis of cells, and arrested the cell cycle at the G2/M phase. Results from RNA-seq showed that AKBA inhibited CRC by inhibiting the NF-κB signaling pathway and reducing cellular inflammation. Furthermore, AKBA reduced the levels of inflammatory cytokines, including tumor necrosis factor-α (TNF-α), Interferon-γ (IFN-γ), Interleukin-IL-12p70 (IL-12p70), Interleukin-1β (IL-1β), and tumor necrosis factor-α (TNF-α) in both the spleen and serum of LPS-induced acute inflammation mice. Additionally, AKBA inhibited the development of AOM/DSS-induced colitis-associated colon cancer in mice and positively influenced gut microbiota. Conclusion This study highlights the inhibitory effect of AKBA on colitis-associated CRC and reveals a novel aspect of its role in the remodeling of gut microbiota. These findings suggest that AKBA may be used as a potential therapeutic agent for CRC.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "3-O-Acetyl-11-Keto-beta-Boswellic Acid Suppresses Colitis-Associated Colorectal Cancer by Inhibiting the NF-kB Signaling Pathway and Remodeling Gut Microbiota",
-   "plants": [
-    "Boswellia",
-    "Indian frankincense",
-    "Salai guggul",
-    "Shallaki"
-   ],
-   "scientific": [
-    "Boswellia serrata"
-   ],
-   "actions": [
-    "Anticancer (preclinical)"
-   ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
-  },
-  {
    "ref_id": "REF-2067",
    "key": "chatterjee2025nigella",
    "type": "article",
@@ -1149,12 +1114,7 @@
     "Antimicrobial",
     "Antioxidant"
    ],
-   "conditions": [
-    "Inflammation (general)",
-    "Respiratory support",
-    "Skin irritation",
-    "Sore throat"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2779",
@@ -2483,41 +2443,6 @@
     "Antifungal"
    ],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-2875",
-   "key": "zou2025akba",
-   "type": "article",
-   "title": "Network Pharmacology Combined with Proteomics Reveals That 3-Acetyl-11-keto-beta-boswellic Acid Inhibits the Progression of Prostate Cancer by Regulating the IL-17 Signaling Pathway",
-   "authors": "Zou, B. and Liu, Q. and Long, Y. and Dai, X. and Tian, X. and Zhou, Q.",
-   "journal": "ACS Omega",
-   "year": "2025",
-   "doi": "10.1021/acsomega.5c01683",
-   "url": "",
-   "link": "https://doi.org/10.1021/acsomega.5c01683",
-   "link_type": "doi",
-   "citation": "Zou, B. and Liu, Q. and Long, Y. and Dai, X. and Tian, X. and Zhou, Q (2025) 'Network Pharmacology Combined with Proteomics Reveals That 3-Acetyl-11-keto-beta-boswellic Acid Inhibits the Progression of Prostate Cancer by Regulating the IL-17 Signaling Pathway', ACS Omega, 10(21), pp. 21813-21822. doi:10.1021/acsomega.5c01683",
-   "abstract": "Background 3-acetyl-11-keto-beta-boswellic acid (AKBA) is a monomer extracted from the traditional Chinese herbs of Boswellia that has antitumor effects. However, the therapeutic effects and mechanisms of AKBA in prostate cancer (PCa) are unclear. Objective To predict the target of AKBA treatment of PCa using network pharmacology methods and validate the predicted targets through CCK-8, flow cytometry, cell scratch test, Transwell chamber assay, and proteomics. Methods The protein-protein interaction (PPI) network was established. Further analysis was performed by gene ontology (GO) and the Kyoto Encyclopedia of Genes and Genomes for biological functionality and pathway enrichment. CCK-8 assay, flow cytometry, wound healing assay, and Transwell chamber assay were used to detect cell proliferation, apoptosis, invasion, and metastasis, respectively. Transcriptomics was used to detect the effects of AKBA on protein levels in PCa cells. Results 120 potential targets for the AKBA treatment of PCa were obtained. GO enrichment analysis revealed that the biological processes of AKBA treatment of PCa include the steroid metabolic process, drug response, and fatty acid metabolic process. The results of KEGG enrichment revealed that the IL-17 signaling pathway is the key pathway for the AKBA treatment of PCa. In addition, experimental results demonstrate that AKBA inhibits the proliferation of PCa cells, induces cell apoptosis, and suppresses cell invasion and metastasis. Proteomics identified 119 differentially expressed proteins, which were primarily enriched in pathways closely related to the phogosome, pathways in cancer, IL-17 signaling pathway, spliceosome, PPAR signaling pathway, and HIF-1 signaling pathway. Conclusion Through the methodologies of network pharmacology and transcriptomics, AKBA may exert its therapeutic effects on PCa by modulating the expression of the IL-17 signaling pathway.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Network Pharmacology Combined with Proteomics Reveals That 3-Acetyl-11-keto-beta-boswellic Acid Inhibits the Progression of Prostate Cancer by Regulating the IL-17 Signaling Pathway",
-   "plants": [
-    "Boswellia",
-    "Indian frankincense",
-    "Salai guggul",
-    "Shallaki"
-   ],
-   "scientific": [
-    "Boswellia serrata"
-   ],
-   "actions": [
-    "Anticancer (preclinical)"
-   ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
   },
   {
    "ref_id": "REF-2654",
@@ -5046,7 +4971,7 @@
    "link_type": "doi",
    "citation": "Slama, M., Slougui, N., Benaissa, A., Nekkaa, A. et al (2024) 'Borago officinalis L.: A Review on Extraction, Phytochemical, and Pharmacological Activities', Chemistry & Biodiversity, 21(5), pp. e202301822. doi:10.1002/cbdv.202301822",
    "abstract": "Borago officinalis L., an annual herb belonging to the Boraginaceae family, is used in the traditional medical practices of various countries and for multiple treatments, including respiratory disorders, colds, influenza, diarrhea, cramps, inflammation, palpitation, hypertension menopause, and post-menopausal symptoms. Its pharmacological properties and biological activities - among them antioxidant, antimicrobial, anticancer, anti-inflammatory, insecticidal, antigenotoxic, and anti-obesity activity - were demonstrated in vitro and in vivo and are related to its rich content of bioactive compounds (mainly phenolic acids, flavonoids, anthocyanins, alkaloids, and terpenes) extracted from various parts of B. officinalis including leaves, flowers, seeds, and roots. This review summarizes all updated information on applied extraction processes, phytochemistry, pharmacology, and toxicity of B. officinalis.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -5065,7 +4990,11 @@
     "Anti-inflammatory",
     "Antioxidant"
    ],
-   "conditions": []
+   "conditions": [
+    "Cold & flu",
+    "Inflammation (general)",
+    "Respiratory support"
+   ]
   },
   {
    "ref_id": "REF-0338",
@@ -10852,7 +10781,7 @@
    "link_type": "doi",
    "citation": "Shahane, K., Kshirsagar, M., Tambe, S., Jain, D. et al (2023) 'An Updated Review on the Multifaceted Therapeutic Potential of Calendula officinalis L', Pharmaceuticals (Basel), 16(4), pp. 611. doi:10.3390/ph16040611",
    "abstract": "Calendula officinalis Linn. (CO) is a popular medicinal plant from the plant kingdom's Asteraceae family that has been used for millennia. This plant contains flavonoids, triterpenoids, glycosides, saponins, carotenoids, volatile oil, amino acids, steroids, sterols, and quinines. These chemical constituents confer multifaceted biological effects such as anti-inflammatory, anti-cancer, antihelminthic, antidiabetes, wound healing, hepatoprotective, and antioxidant activities. Additionally, it is employed in cases of certain burns and gastrointestinal, gynecological, ocular, and skin conditions. In this review, we have discussed recent research from the last five years on the therapeutic applications of CO and emphasized its myriad capabilities as a traditional medicine. We have also elucidated CO's molecular mechanisms and recent clinical studies. Overall, this review intends to summarize, fill in the gaps in the existing research, and provide a wealth of possibilities for researchers working to validate traditional claims and advance the safe and effective use of CO in treating various ailments.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -13644,7 +13573,9 @@
    "actions": [
     "Vulnerary (wound healing)"
    ],
-   "conditions": []
+   "conditions": [
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-0465",
@@ -14459,7 +14390,7 @@
    "link_type": "doi",
    "citation": "Khan, S., Arshad, S., Masood, I., Arif, A., Abbas, S., Qureshi, A.W., Parveen, A. and Seemab Ameen, Z (2023) 'GC-MS Analysis of Persicaria bistorta: Uncovering the Molecular Basis of Its Traditional Medicinal Use', Applied Biochemistry and Biotechnology, 196(4), pp. 2270--2288. doi:10.1007/s12010-023-04580-0",
    "abstract": "Persicaria bistorta is a perennial herb used traditionally in treating various ailments, including diarrhea, abdominal pain, and bleeding. In this study, we used gas chromatography-mass spectrometry (GC-MS) analysis to identify the chemical composition of Persicaria bistorta. The GC-MS analysis revealed the presence of several compounds, including flavonoids, tannins, saponins, and alkaloids. Among those, the most important from medicinal points of view are ethyl oleate (3%), cyclotetradecane (4.74%), dodecanoic acid (4.69%), hexadecanoic acid (5.61%), tetradecane (5.25%), cis-13-octadecenoic acid (10.91%), and bis(2-ethylhexyl) phthalate (32%). The GC-MS analysis of ethanolic fraction of Persicaria bistorta involved in antibacterial activity showed about 18 compounds. Among those, the most important from a medicinal and nutritional point of view are bis(2-ethylhexyl) phthalate (42.20%), 6-octadecenoic acid methyl ester, (Z)- (10.37%), ethyl oleate (6.84%), hexadecanoic acid methyl ester (6.67%), and methyl ester and oleic acid (5.27%). Reported biological antibacterial activity has shown that the main compound determined in both extracts was bis(2-ethylhexyl) phthalate, which has higher peak area percentage in ethanolic extract than in ethyl acetate fraction. Some oily compounds important for health because of their cis-conformation were also revealed in the given study like ethyl oleate and oleic acid. Overall, results suggest that Persicaria bistorta may have therapeutic potential and warrant further investigation. Further research is needed to confirm the efficacy and safety of Persicaria bistorta as a natural medicine and determine its active compounds' mechanisms of action.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -14477,9 +14408,7 @@
    "actions": [
     "Antimicrobial"
    ],
-   "conditions": [
-    "Infection (general)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2081",
@@ -17447,7 +17376,7 @@
    "link_type": "doi",
    "citation": "Ragab, E.A. and Abd El-Wahab, M.F. and Doghish, A.S. and Salama, R.M. and Eissa, N. and Darwish, S.F (2023) 'The journey of boswellic acids from synthesis to pharmacological activities', Naunyn-Schmiedeberg's Archives of Pharmacology, 397(3), pp. 1477-1504. doi:10.1007/s00210-023-02725-w",
    "abstract": "There has been a lot of interest in using naturally occurring substances to treat a wide variety of chronic disorders in recent years. From the gum resin of Boswellia serrata and Boswellia carteri, the pentacyclic triterpene molecules known as boswellic acid (BA) are extracted. We aimed to provide a detailed overview of the origins, chemistry, synthetic derivatives, pharmacokinetic, and biological activity of numerous Boswellia species and their derivatives. The literature searched for reports of B. serrata and isolated BAs having anti-cancer, anti-microbial, anti-inflammatory, anti-arthritic, hypolipidemic, immunomodulatory, anti-diabetic, hepatoprotective, anti-asthmatic, and clastogenic activities. Our results revealed that the cytotoxic and anticancer effects of B. serrata refer to its triterpenoid component, including BAs. Three-O-acetyl-11-keto-BA was the most promising cytotoxic molecule among tested substances. Activation of caspases, upregulation of Bax expression, downregulation of nuclear factor-kappa B (NF-kB), and stimulation of poly (ADP)-ribose polymerase (PARP) cleavage are the primary mechanisms responsible for cytotoxic and antitumor effects. Evidence suggests that BAs have shown promise in combating a wide range of debilitating disease conditions, including cancer, hepatic, inflammatory, and neurological disorders.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -19333,7 +19262,7 @@
    "link_type": "doi",
    "citation": "Li, C.X., Liu, Y., Zhang, Y.Z., Li, J.C. and Lai, J (2022) 'Astragalus polysaccharide: a review of its immunomodulatory effect', Archives of Pharmacal Research. doi:10.1007/s12272-022-01393-3",
    "abstract": "The Astragalus polysaccharide is an important bioactive component derived from the dry root of Astragalus membranaceus. This review aims to provide a comprehensive overview of the research progress on the immunomodulatory effect of Astragalus polysaccharide and provide valuable reference information. We review the immunomodulatory effect of Astragalus polysaccharide on central and peripheral immune organs, including bone marrow, thymus, lymph nodes, spleen, and mucosal tissues. Furthermore, the immunomodulatory effect of Astragalus polysaccharide on a variety of immune cells is summarized. Studies have shown that Astragalus polysaccharide can promote the activities of macrophages, natural killer cells, dendritic cells, T lymphocytes, B lymphocytes and microglia and induce the expression of a variety of cytokines and chemokines. The immunomodulatory effect of Astragalus polysaccharide makes it promising for the treatment of many diseases, including cancer, infection, type 1 diabetes, asthma, and autoimmune disease. Among them, the anticancer effect is the most prominent. In short, Astragalus polysaccharide is a valuable immunomodulatory medicine, but further high-quality studies are warranted to corroborate its clinical efficacy.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -19353,7 +19282,6 @@
    ],
    "conditions": [
     "Cancer (anticancer research)",
-    "Cold & flu",
     "Immune support",
     "Infection (general)"
    ]
@@ -20226,40 +20154,6 @@
    ],
    "actions": [
     "Antioxidant"
-   ],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-1817",
-   "key": "henrotin2022boswellia",
-   "type": "article",
-   "title": "Curcuma and Boswellia serrata extract combination for hand osteoarthritis: an open-label pre-post trial",
-   "authors": "Henrotin, Y., Dierckxsens, Y., Delisse, G., Maes, N. and Albert, A.",
-   "journal": "Pharmaceutical Biology",
-   "year": "2022",
-   "doi": "10.1080/13880209.2022.2147550",
-   "url": "",
-   "link": "https://doi.org/10.1080/13880209.2022.2147550",
-   "link_type": "doi",
-   "citation": "Henrotin, Y., Dierckxsens, Y., Delisse, G., Maes, N. and Albert, A (2022) 'Curcuma and Boswellia serrata extract combination for hand osteoarthritis: an open-label pre-post trial', Pharmaceutical Biology, 60(1), pp. 2295-2299. doi:10.1080/13880209.2022.2147550",
-   "abstract": "Context Osteoarthritis (OA) of the hand is a common painful musculoskeletal disorder with no cure. There is a need for an efficient and safe treatment to relieve OA pain. Objective To investigate the effects of a Curcuma longa and Boswellia serrata food supplement in addition to standard care on hand pain. Materials and methods This open-label, non-controlled, post-observational study was based on 232 patients suffering from hand pain with or without joint deformity. Patients received a medical prescription for a three-month treatment with a food supplement containing 89 mg of C. longa dry extract, 120 mg of B. serrata resin, and 1.8 µg vitamin D. Pain was evaluated on a 10-point visual analog scale (VAS). The number of painful hand joints, patient satisfaction, nonsteroidal anti-inflammatory drugs intake, and side effects were also recorded. Results Baseline pain intensity (regression coefficient ± SE : -0.19 ± 0.01, p < 0.0001) and the number of painful joints (regression coefficient ± SE : -0.022 ± 0.0029, p < 0.0001) decreased significantly throughout the 3 months treatment period. NSAIDs intake and topical drug application were significantly decreased by 64% ( p < 0.0001) and 79% ( p < 0.0001) after 12 weeks, respectively. Only 3/239 (1.3%) patients reported side effects probably related to the product. 80.3% were satisfied with the treatment and 75.5% wished to continue treatment. Conclusion This is the first clinical trial showing that C. longa and B. serrata resin can relieve symptoms in patients with hand osteoarthritis. The study provides useful information for the design of a clinical trial including a broader population.",
-   "tier": "clinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Curcuma and Boswellia serrata extract combination for hand osteoarthritis: an open-label pre-post trial",
-   "plants": [
-    "Boswellia",
-    "Indian frankincense",
-    "Salai guggul",
-    "Shallaki"
-   ],
-   "scientific": [
-    "Boswellia serrata"
-   ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -23136,7 +23030,7 @@
    "link_type": "doi",
    "citation": "Fatima, U., Roy, S., Ahmad, S., Ali, S. et al (2022) 'Pharmacological attributes of Bacopa monnieri extract: Current updates and clinical manifestation', Frontiers in Nutrition, 9, pp. 972379. doi:10.3389/fnut.2022.972379",
    "abstract": "Bacopa monnieri has been used for centuries in Ayurvedic medicine, alone or in combination with other herbs, as a memory and learning enhancer, sedative, and anti-epileptic. This review aimed to highlight the health benefits of B. monnieri extracts (BME), focusing on anti-cancer and neurodegenerative diseases. We examined the clinical studies on phytochemistry and pharmacological application of BME. We further highlighted the mechanism of action of these extracts in varying types of cancer and their therapeutic implications. In addition, we investigated the underlying molecular mechanism in therapeutic interventions, toxicities, safety concerns and synergistic potential in cognition and neuroprotection. Overall, this review provides deeper insights into the therapeutic implications of Brahmi as a lead formulation for treating neurological disorders and exerting cognitive-enhancing effects.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -35049,14 +34943,10 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Bruising",
     "Diarrhoea",
     "Infection (general)",
     "Inflammation (general)",
-    "Skin irritation",
-    "Sore throat",
-    "Wounds"
+    "Skin irritation"
    ]
   },
   {
@@ -37222,40 +37112,6 @@
    ]
   },
   {
-   "ref_id": "REF-2588",
-   "key": "rattanatantikul2020menopause",
-   "type": "article",
-   "title": "Efficacy and Safety of Nutraceutical on Menopausal Symptoms in Post-Menopausal Women: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial",
-   "authors": "Rattanatantikul, T., Maiprasert, M., Sugkraroek, P. and Bumrungpert, A.",
-   "journal": "Journal of Dietary Supplements",
-   "year": "2020",
-   "doi": "10.1080/19390211.2020.1853648",
-   "url": "",
-   "link": "https://doi.org/10.1080/19390211.2020.1853648",
-   "link_type": "doi",
-   "citation": "Rattanatantikul, T., Maiprasert, M., Sugkraroek, P. and Bumrungpert, A (2020) 'Efficacy and Safety of Nutraceutical on Menopausal Symptoms in Post-Menopausal Women: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial', Journal of Dietary Supplements, 19(2), pp. 168-183. doi:10.1080/19390211.2020.1853648",
-   "abstract": "Background Menopausal symptoms severely reduce the quality of life of post-menopausal women worldwide. Nutraceuticals are widely prescribed as a viable and safer alternative and complementary approach to standard therapies. The aim of this study was to evaluate the clinical efficacy and safety of a nutraceutical in post-menopausal women. Methods The study was designed as a randomized, double-blinded, placebo-controlled clinical trial. Post-menopausal women aged 45-60 years old were enrolled and randomly assigned to either treatment ( n = 50) or placebo group ( n = 51). The intervention, a proprietary combination of soy isoflavone, black cohosh, chasteberry and evening primrose oil extracts, and the placebo, were administered to each group for total of 12 weeks. Menopausal symptoms, endocrine profiles, and blood chemistry were evaluated at baseline, 6 weeks, and 12 weeks of the study. Results Nutraceutical supplementation demonstrated a statistically significant reduction in hot flushes and sweating ( p < 0.0001), sleep problems ( p < 0.0005), depressed mood ( p = 0.0004) and irritability symptoms ( p < 0.0003) compared with the placebo group. There were no significant differences in hormonal levels between the test and placebo groups, however levels of C-reactive protein were significantly decreased. Moreover, serum LDL-C and triglyceride levels were significantly lower than baseline levels in the treatment group at 6- and 12-week timepoints. No adverse effects were reported during the treatment. Conclusion These data indicate that a nutraceutical containing a combination of four medicinal herbs effectively and safely improved menopausal symptoms, as well as general health indicators, in post-menopausal women.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Efficacy and Safety of Nutraceutical on Menopausal Symptoms in Post-Menopausal Women: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial",
-   "plants": [
-    "Evening Primrose",
-    "Evening star",
-    "Fever plant",
-    "Sundrop"
-   ],
-   "scientific": [
-    "Oenothera biennis"
-   ],
-   "actions": [],
-   "conditions": [
-    "Hot flashes",
-    "Menopause"
-   ]
-  },
-  {
    "ref_id": "REF-0605",
    "key": "xu2020dysmenorrhea",
    "type": "article",
@@ -37776,9 +37632,7 @@
    "actions": [
     "Anticancer (preclinical)"
    ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0958",
@@ -42112,7 +41966,9 @@
    "actions": [
     "Vulnerary (wound healing)"
    ],
-   "conditions": []
+   "conditions": [
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-1867",
@@ -42221,7 +42077,9 @@
    "actions": [
     "Adaptogen"
    ],
-   "conditions": []
+   "conditions": [
+    "Fatigue / low energy"
+   ]
   },
   {
    "ref_id": "REF-2160",
@@ -42675,7 +42533,7 @@
    "link_type": "doi",
    "citation": "Zhang, J., Wu, C., Gao, L., Du, G. and Qin, X (2019) 'Astragaloside IV derived from Astragalus membranaceus: A research review on the pharmacological effects', Advances in Pharmacology. doi:10.1016/bs.apha.2019.08.002",
    "abstract": "Decoctions prepared from the roots of Astragali Radix are known as \"Huangqi\" and are widely used in traditional Chinese medicine for treatment of viral and bacterial infections, inflammation, as well as cancer. Astragaloside IV (AS-IV), one of the major compounds from the aqueous extract of Astragalus membranaceus, is a cycloartane-type triterpene glycoside chemical. To date, many studies in cellular and animal models have demonstrated that AS-IV possesses potent protective effects in cardiovascular, lung, kidney and brain. Based on studies over the past several decades, this review systematically summarizes the pharmacological effects, pharmacokinetics and the toxicity of AS-IV. We analyze in detail the pharmacological effects of AS-IV on neuroprotection, liver protection, anti-cancer and anti-diabetes, attributable to its antioxidant, anti-inflammatory, anti-apoptotic properties, and the roles in enhancement of immunity, attenuation of the migration and invasion of cancer cells and improvement of chemosensitivity of chemotherapy drugs. In addition, the latest developments in the combination of AS-IV and other active ingredients of traditional Chinese medicine or chemical drugs are detailed. These pharmacological effects are associated with multiple signaling pathways, including the Raf-MEK-ERK pathway, EGFR-Nrf2 signaling pathway, Akt/PDE3B signaling pathway, AMPK signaling pathway, NF-κB signaling pathway, Nrf2 antioxidant signaling pathways, PI3K/Akt/mTOR signaling pathway, PKC-α-ERK1/2-NF-κB pathway, IL-11/STAT3 signaling pathway, Akt/GSK-3β/β-catenin pathway, JNK/c-Jun/AP-1 signaling pathway, PI3K/Akt/NF-κB pathway, miRNA-34a/LDHA pathway, Nox4/Smad2 pathway, JNK pathway and NF-kB/PPARγ pathway. This review will provide an overall understanding of the pharmacological functions of astragaloside IV on neuroprotection, liver protection, anti-cancer and anti-diabetes. In light of this, AS-IV will be a potent alternative therapeutic agent for treatment of the above mentioned diseases.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -42698,14 +42556,9 @@
     "Nephroprotective (kidney support)"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Cancer (anticancer research)",
-    "Fatigue / low energy",
     "Immune support",
-    "Inflammation (general)",
-    "Kidney support",
-    "Skin irritation",
-    "Stress"
+    "Inflammation (general)"
    ]
   },
   {
@@ -51499,50 +51352,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0183",
-   "key": "nicolaus2017double",
-   "type": "article",
-   "title": "A double-blind, randomized controlled trial to investigate the efficacy and safety of a monograph-based Calendula cream versus a comparator cream",
-   "authors": "Nicolaus, C. et al",
-   "journal": "",
-   "year": "2017",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=A%20double-blind%2C%20randomized%20controlled%20trial%20to%20investigate%20the%20efficacy%20and%20safety%20of%20a%20monograph-based%20Calendula%20cream%20versus%20a%20comparator%20cream",
-   "link_type": "search",
-   "citation": "Nicolaus, C. et al (2017) 'A double-blind, randomized controlled trial to investigate the efficacy and safety of a monograph-based Calendula cream versus a comparator cream', 35(1), pp. 81--89.",
-   "abstract": "",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "A double-blind, randomized controlled trial to investigate the efficacy and safety of a monograph-based Calendula cream versus a comparator cream",
-   "plants": [
-    "Calendula",
-    "Pot marigold",
-    "common marigold"
-   ],
-   "scientific": [
-    "Calendula officinalis"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antifungal",
-    "Antimicrobial",
-    "Antioxidant",
-    "Emollient / skin-soothing",
-    "Vulnerary (wound healing)"
-   ],
-   "conditions": [
-    "Bruising",
-    "Eczema",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Wounds"
-   ]
-  },
-  {
    "ref_id": "REF-2158",
    "key": "sun2017cordyceps",
    "type": "article",
@@ -52427,42 +52236,6 @@
    "conditions": [
     "Infection (general)",
     "Inflammation (general)"
-   ]
-  },
-  {
-   "ref_id": "REF-0881",
-   "key": "kang2017rhododendron",
-   "type": "article",
-   "title": "Assessing the Effectiveness of Arnica montana and Rhododendron tomentosum (Ledum palustre) in the Reduction of Ecchymosis and Edema After Oculofacial Surgery: Preliminary Results",
-   "authors": "Kang, J.Y., Tran, K.D., Seiff, S.R., Mack, W.P. and Lee, W.W.",
-   "journal": "Ophthalmic Plastic and Reconstructive Surgery",
-   "year": "2017",
-   "doi": "10.1097/IOP.0000000000000645",
-   "url": "",
-   "link": "https://doi.org/10.1097/IOP.0000000000000645",
-   "link_type": "doi",
-   "citation": "Kang, J.Y., Tran, K.D., Seiff, S.R., Mack, W.P. and Lee, W.W (2017) 'Assessing the Effectiveness of Arnica montana and Rhododendron tomentosum (Ledum palustre) in the Reduction of Ecchymosis and Edema After Oculofacial Surgery: Preliminary Results', Ophthalmic Plastic and Reconstructive Surgery, 33(1), pp. 47-52. doi:10.1097/IOP.0000000000000645",
-   "abstract": "Purpose The purpose of this study was to provide preliminary data on the potential effectiveness of the combination of topical Arnica montana and Rhododendron tomentosum (Ledum palustre) in reducing postoperative ecchymosis and edema in a select population of healthy volunteers after oculofacial surgery. Methods This retrospective review examined the postoperative course of healthy volunteers using topical Arnica and Ledum after undergoing common oculofacial procedures, including blepharoplasty, browpexy, and rhinoplasty, in the hands of 4 surgeons at tertiary referral centers from July 1, 2012 to December 31, 2012 using medical records review. Each patient included had used topical hydrogel pads (OcuMend, Cearna Inc., Chicago, IL) containing Arnica 50 M (10) 50% and Ledum 50 M (10). The pads were applied bilaterally after surgery through postoperative day 6. At each postoperative visit, the patients were evaluated by their respective surgeons and assigned a subjective physician-patient rating score comparing each patient's observed healing compared with expected healing if not using Arnica/Ledum. Photographs of patients undergoing equivalent procedures, but not using Arnica/Ledum were used as controls for comparison. Physician-patient rating scores were categorical: markedly accelerated healing defined as approximately 7 days ahead of expected, accelerated healing, defined as <7 days ahead of expected, and no appreciable difference from expected. The proportion of patients with each physician-patient rating score was calculated for postoperative days 1 to 2, 3 to 5, 6 to 8, and overall. Difference of proportions was calculated with 95% confidence intervals using Newcombe unpaired difference comparison of proportions. Photographs documenting the clinical progression of selected patients are provided. Results A total of 27 patients (16 females, 11 males) were included in the study. Age range was 18 to 70 years. The majority of patients were white (52.9%), and underwent blepharoplasty (78.9%). The median duration of follow-up was 7 days, range 1 to 14 days. The proportions of patients with markedly accelerated healing were 38.5% (5 of 13), 85.7% (6 of 7), 60.0% (12 of 20), and 51.9% (14 of 27) at POD 1 to 2, 3 to 5, 6 to 8, and overall, respectively. The proportions of patients with accelerated healing at the same time points were 15.4% (2 of 13), 14.3% (1 of 7), 30.0% (6 of 20), and 37.0% (10 of 27), respectively. The proportions of patients with no appreciable difference at the same time points were 46.2% (6 of 13), 0% (0 of 7), 10.0% (2 of 20), and 11.1% (3 of 27) of patients, respectively. The proportion of patients using Arnica/Ledum with markedly accelerated healing was significantly more than the proportion of those demonstrating no appreciable difference from expected at POD 3 to 5 (85.7% vs. 0%, p = 0.05), POD 6 to 8 (60.0% vs. 10.0%), and overall (51.9% vs. 11.1%, p = 0.05). No adverse effects were reported. Conclusions The preliminary results from this study demonstrate that the combination of topical Arnica montana and Rhododendron tomentosum (Ledum palustre) may be effective in reducing postoperative ecchymosis and edema after oculofacial surgery.",
-   "tier": "clinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Assessing the Effectiveness of Arnica montana and Rhododendron tomentosum (Ledum palustre) in the Reduction of Ecchymosis and Edema After Oculofacial Surgery: Preliminary Results",
-   "plants": [
-    "Hudson's Bay tea",
-    "Labrador tea",
-    "Labrador-tea",
-    "bog tea",
-    "marsh tea"
-   ],
-   "scientific": [
-    "Rhododendron tomentosum"
-   ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": [
-    "Swelling / fluid retention"
    ]
   },
   {
@@ -56806,7 +56579,7 @@
    "link_type": "doi",
    "citation": "Auyeung, K.K., Han, Q.B. and Ko, J.K (2016) 'Astragalus membranaceus: A Review of its Protection Against Inflammation and Gastrointestinal Cancers', The American Journal of Chinese Medicine, 44(1), pp. 1-22. doi:10.1142/S0192415X16500014",
    "abstract": "Astragalus membranaceus is a major medicinal herb commonly used in many herbal formulations in the practice of traditional Chinese medicine (TCM) to treat a wide variety of diseases and body disorders. Among its diversified clinical applications, the potential use of this herb and its chemical constituents in treatments of inflammatory diseases and cancers has been actively investigated in recent years. Astragalus-based treatments have demonstrated significant amelioration of the toxicity induced by other concurrently administered orthodox drugs (e.g., immunosuppressants and cancer chemotherapeutics). The major components of Astragalus membranaceus are polysaccharides, flavonoids, and saponins. Contemporary use of Astragalus membranaceus mainly focuses on its immunomodulating, anti-oxidant, and anti-inflammatory, as well as anticancer effects. In this paper, we summarize the properties of Astragalus membranaceus and its major constituents in the biological system based on experimental and clinical studies. The antitumorigenic mechanisms of a novel Astragalus saponins extract called AST in treating various gastrointestinal cancers are highlighted. We discuss in detail how the Astragalus herb and AST influence the immune system, modulate various cancer signaling pathways, and interact with specific transcription molecules during protection against gastrointestinal inflammation and cancers. This information could help clinicians and scientists develop novel target-specific and effective therapeutic agents that are deprived of major systemic side effects, so as to establish a better treatment regimen in the battle against inflammatory diseases and cancers of the gut.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -56910,45 +56683,6 @@
     "Metabolic support",
     "Skin irritation",
     "Wounds"
-   ]
-  },
-  {
-   "ref_id": "REF-0423",
-   "key": "ammon2016boswellic",
-   "type": "article",
-   "title": "Boswellic Acids and Their Role in Chronic Inflammatory Diseases",
-   "authors": "Ammon, H.P.T.",
-   "journal": "Advances in Experimental Medicine and Biology",
-   "year": "2016",
-   "doi": "10.1007/978-3-319-41334-1_13",
-   "url": "",
-   "link": "https://doi.org/10.1007/978-3-319-41334-1_13",
-   "link_type": "doi",
-   "citation": "Ammon, H.P.T (2016) 'Boswellic Acids and Their Role in Chronic Inflammatory Diseases', Advances in Experimental Medicine and Biology. doi:10.1007/978-3-319-41334-1_13",
-   "abstract": "Boswellic acids, which are pentacyclic triterpenes belong to the active pharmacological compounds of the oleogum resin of different Boswellia species. In the resin, more than 12 different boswellic acids have been identified but only KBA and AKBA received significant pharmacological interest. Biological Activity: In an extract of the resin of Boswellia species multiple factors are responsible for the final outcome of a therapeutic effect, be it synergistic or antagonistic. Moreover, the anti-inflammatory actions of BAs are caused by different mechanisms of action. They include inhibition of leukotriene synthesis and to a less extend prostaglandin synthesis. Furthermore inhibition of the complement system at the level of conversion of C3 into C3 a and C3 b . A major target of BAs is the immune system. Here, BEs as well as BAs including KBA and AKBA, have been shown to decrease production of proinflammatory cytokines including IL-1, IL-2, IL-6, IFN-γ and TNF-α which finally are directed to destroy tissues such as cartilage, insulin producing cells, bronchial, intestinal and other tissues. NFĸB is considered to be the target of AKBA. The complex actions of BEs and BAs in inflamed areas may be completed by some effects that are localized behind the inflammatory process as such tissue destruction. In this case, in vitro- and animal studies have shown that BAs and BEs suppress proteolytic activity of cathepsin G, human leucocyte elastase, formation of oxygen radicals and lysosomal enzymes. Pharmacokinetics Whereas KBA is absorbed reaching blood levels being close to in vitro IC 50, AKBA which is more active in in vitro studies than KBA, but undergoes much less absorption than KBA. However, absorption of both is increased more than twice when taken together with a high-fat meal.Clinical Studies There are a variety of chronic inflammatory diseases which respond to treatment with extracts from the resin of Boswellia species. Though, the number of cases is small in related clinical studies, their results are convincing and supported by the preclinical data. These studies include rheumatoid arthritis, osteoarthritis, chronic colitis, ulcerative colitis, collagenous colitis, Crohn's disease and bronchial asthma. It can not be expected that there is cure from these diseases but at least improvement of symptoms in about 60-70 % of the cases. Side Effects The number and severity of side effects is extremely low. The most reported complaints are gastrointestinal symptoms. Allergic reactions are rare. And most authors report, that treatment with BEs is well tolerated and the registered side effects in BE- and placebo groups are similar.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Boswellic Acids and Their Role in Chronic Inflammatory Diseases",
-   "plants": [
-    "Boswellia",
-    "Indian frankincense",
-    "Salai guggul",
-    "Shallaki"
-   ],
-   "scientific": [
-    "Boswellia serrata"
-   ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Asthma",
-    "Inflammation (general)",
-    "Inflammatory bowel disease (IBD)",
-    "Skin irritation"
    ]
   },
   {
@@ -61148,9 +60882,7 @@
     "Gastroprotective"
    ],
    "conditions": [
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Urinary support"
    ]
   },
   {
@@ -64112,11 +63844,7 @@
     "Camellia sinensis"
    ],
    "actions": [],
-   "conditions": [
-    "Blood sugar / diabetes support",
-    "Cardiovascular / heart health",
-    "Metabolic support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1756",
@@ -65025,9 +64753,7 @@
    "actions": [
     "Nephroprotective (kidney support)"
    ],
-   "conditions": [
-    "Kidney support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1970",
@@ -66558,7 +66284,7 @@
    "link_type": "doi",
    "citation": "Rastogi, S., Pandey, M.M. and Kumar Singh Rawat, A (2014) 'Medicinal plants of the genus Betula — traditional uses and a phytochemical-pharmacological review', Journal of Ethnopharmacology, 159, pp. 62-83. doi:10.1016/j.jep.2014.11.010",
    "abstract": "Ethnopharmacological relevance Trees and shrubs of the genus Betula (Betulaceae) inhabit various ecosystems in temperate and boreal climate zones of the northern hemisphere. The healing properties of Betula bark and bark extracts have been known for a long time in traditional medicine in different parts of the world. Several species of Betula have traditionally been used for the treatment of various inflammatory diseases including arthritis. The purpose of this review is to provide updated, comprehensive and categorized information on the botany, traditional uses, phytochemistry and pharmacological and toxicological research of Betula species in order to explore their therapeutic potential and evaluate future research opportunities. Materials and methods All the available information on various species belonging to the genus Betula was collected via electronic search (using Pubmed, SciFinder, Scirus, Google Scholar, JCCC@INSTIRC and Web of Science) and a library search for articles published in peer-reviewed journals. Results Although over a hundred Betula species are found distributed globally, about 7 different species of Betula have been documented for their traditional uses. Phytochemical research on Betula species has led to the isolation of triterpenoids, diarylheptanoids, phenylbutanoids, lignans, phenolics and flavonoids. Crude extracts, fractions and phytochemical constituents isolated from Betula showed a wide spectrum of in vitro and in vivo pharmacological activities like immunomodulatory, anti-inflammatory, antimicrobial, antiviral, antioxidant, antidiabetic, dermatological, gastroprotective and hepatoprotective. Antiarthritic and anticancer are the two major areas of research conducted on these species. The anti-carcinogenic effects of Betula bark, betulin as well as betulinic acid have been extensively studied. Conclusions Several species belonging to the genus Betula are widely used in traditional medicine. Betula platyphylla and Betula pendula have specifically been found to be potentially useful in the treatment of degenerative joint disease. There is convincing evidence in experimental animal models in support of their anti-carcinogenic effects. However, it would be worthwhile to investigate the biochemical and physiological mechanisms as well as detailed preclinical toxicity, bioavailability, pharmacokinetics and pharmacodynamics of the different biologically active extracts as well as molecules in sufficient detail. An integrated and holistic approach is required for tapping the full potentials of this important genus.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -67863,10 +67589,7 @@
     "Epilobium parviflorum"
    ],
    "actions": [],
-   "conditions": [
-    "Prostate support",
-    "Urinary support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2066",
@@ -73523,9 +73246,7 @@
     "Asclepias tuberosa"
    ],
    "actions": [],
-   "conditions": [
-    "Skin irritation"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0565",
@@ -75926,13 +75647,13 @@
    "authors": "Chacko, S.M. et al",
    "journal": "",
    "year": "2010",
-   "doi": "",
+   "doi": "10.1186/1749-8546-5-13",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Beneficial%20effects%20of%20green%20tea%3A%20a%20literature%20review",
-   "link_type": "search",
-   "citation": "Chacko, S.M. et al (2010) 'Beneficial effects of green tea: a literature review'.",
-   "abstract": "",
-   "tier": "traditional",
+   "link": "https://doi.org/10.1186/1749-8546-5-13",
+   "link_type": "doi",
+   "citation": "Chacko, S.M. et al (2010) 'Beneficial effects of green tea: a literature review'. doi:10.1186/1749-8546-5-13",
+   "abstract": "The health benefits of green tea for a wide variety of ailments, including different types of cancer, heart disease, and liver disease, were reported. Many of these beneficial effects of green tea are related to its catechin, particularly (-)-epigallocatechin-3-gallate, content. There is evidence from in vitro and animal studies on the underlying mechanisms of green tea catechins and their biological actions. There are also human studies on using green tea catechins to treat metabolic syndrome, such as obesity, type II diabetes, and cardiovascular risk factors.Long-term consumption of tea catechins could be beneficial against high-fat diet-induced obesity and type II diabetes and could reduce the risk of coronary disease. Further research that conforms to international standards should be performed to monitor the pharmacological and clinical effects of green tea and to elucidate its mechanisms of action.",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -75956,16 +75677,9 @@
     "Neuroprotective / cognition support"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Blood sugar / diabetes support",
     "Cardiovascular / heart health",
-    "Cognitive function",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Memory",
-    "Metabolic support",
-    "Skin irritation",
-    "Wounds"
+    "Metabolic support"
    ]
   },
   {
@@ -79356,9 +79070,6 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Bruising",
-    "Inflammation (general)",
-    "Skin irritation",
     "Wounds"
    ]
   },
@@ -80192,42 +79903,6 @@
    ]
   },
   {
-   "ref_id": "REF-0038",
-   "key": "calabrese2008standardized",
-   "type": "article",
-   "title": "Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly",
-   "authors": "Calabrese, C., Gregory, W.L., Leo, M., Kraemer, D., Bone, K. and Oken, B",
-   "journal": "",
-   "year": "2008",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Effects%20of%20a%20standardized%20Bacopa%20monnieri%20extract%20on%20cognitive%20performance%2C%20anxiety%2C%20and%20depression%20in%20the%20elderly",
-   "link_type": "search",
-   "citation": "Calabrese, C., Gregory, W.L., Leo, M., Kraemer, D., Bone, K. and Oken, B (2008) 'Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly', 14(6), pp. 707--713.",
-   "abstract": "Objectives Study aims were to evaluate effects of Bacopa monnieri whole plant standardized dry extract on cognitive function and affect and its safety and tolerability in healthy elderly study participants. Design The study was a randomized, double-blind, placebo-controlled clinical trial with a placebo run-in of 6 weeks and a treatment period of 12 weeks. Setting/location Volunteers were recruited from the community to a clinic in Portland, Oregon by public notification. Subjects Fifty-four (54) participants, 65 or older (mean 73.5 years), without clinical signs of dementia, were recruited and randomized to Bacopa or placebo. Forty-eight (48) completed the study with 24 in each group. Interventions Standardized B. monnieri extract 300 mg/day or a similar placebo tablet orally for 12 weeks. Outcome measures The primary outcome variable was the delayed recall score from the Rey Auditory Verbal Learning Test (AVLT). Other cognitive measures were the Stroop Task assessing the ability to ignore irrelevant information, the Divided Attention Task (DAT), and the Wechsler Adult Intelligence Scale (WAIS) letter-digit test of immediate working memory. Affective measures were the State-Trait Anxiety Inventory, Center for Epidemiologic Studies Depression scale (CESD)-10 depression scale, and the Profile of Mood States. Vital signs were also monitored. Results Controlling for baseline cognitive deficit using the Blessed Orientation-Memory-Concentration test, Bacopa participants had enhanced AVLT delayed word recall memory scores relative to placebo. Stroop results were similarly significant, with the Bacopa group improving and the placebo group unchanged. CESD-10 depression scores, combined state plus trait anxiety scores, and heart rate decreased over time for the Bacopa group but increased for the placebo group. No effects were found on the DAT, WAIS digit task, mood, or blood pressure. The dose was well tolerated with few adverse events (Bacopa n = 9, placebo n = 10), primarily stomach upset. Conclusions This study provides further evidence that B. monnieri has potential for safely enhancing cognitive performance in the aging.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly",
-   "plants": [
-    "Bacopa",
-    "Water Hyssop",
-    "brahmi",
-    "herb of grace"
-   ],
-   "scientific": [
-    "Bacopa monnieri"
-   ],
-   "actions": [
-    "Neuroprotective / cognition support"
-   ],
-   "conditions": [
-    "Cognitive function",
-    "Memory"
-   ]
-  },
-  {
    "ref_id": "REF-0740",
    "key": "calabrese2008bacopa",
    "type": "article",
@@ -80259,7 +79934,10 @@
     "Neuroprotective / cognition support",
     "Sedative / sleep support"
    ],
-   "conditions": []
+   "conditions": [
+    "Cognitive function",
+    "Memory"
+   ]
   },
   {
    "ref_id": "REF-1925",
@@ -80456,8 +80134,8 @@
    "link": "https://scholar.google.com/scholar?q=L-theanine%2C%20a%20natural%20constituent%20in%20tea%2C%20and%20its%20effect%20on%20mental%20state",
    "link_type": "search",
    "citation": "Nobre, A.C., Rao, A. and Owen, G.N (2008) 'L-theanine, a natural constituent in tea, and its effect on mental state', pp. 167--168.",
-   "abstract": "",
-   "tier": "traditional",
+   "abstract": "Tea is the most widely consumed beverage in the world after water. Tea is known to be a rich source of flavonoid antioxidants. However tea also contains a unique amino acid, L-theanine that may modulate aspects of brain function in humans. Evidence from human electroencephalograph (EEG) studies show that it has a direct effect on the brain (Juneja et al. Trends in Food Science & Tech 1999;10;199-204). L-theanine significantly increases activity in the alpha frequency band which indicates that it relaxes the mind without inducing drowsiness. However, this effect has only been established at higher doses than that typically found in a cup of black tea (approximately 20mg). The aim of the current research was to establish this effect at more realistic dietary levels. EEG was measured in healthy, young participants at baseline and 45, 60, 75, 90 and 105 minutes after ingestion of 50mg L-theanine (n=16) or placebo (n=19). Participants were resting with their eyes closed during EEG recording. There was a greater increase in alpha activity across time in the L-theanine condition (relative to placebo (p+0.05). A second study replicated this effect in participants engaged in passive activity. These data indicate that L-theanine, at realistic dietary levels, has a significant effect on the general state of mental alertness or arousal. Furthermore, alpha activity is known to play an important role in critical aspects of attention, and further research is therefore focussed on understanding the effect of L-theanine on attentional processes.",
+   "tier": "rct",
    "corpus": [
     "clinical"
    ],
@@ -80474,8 +80152,7 @@
    ],
    "actions": [],
    "conditions": [
-    "Cognitive function",
-    "Memory"
+    "Cognitive function"
    ]
   },
   {
@@ -83918,43 +83595,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0593",
-   "key": "kemmerich2006thyme",
-   "type": "article",
-   "title": "Efficacy and tolerability of a fluid extract combination of thyme herb and ivy leaves and matched placebo in adults suffering from acute bronchitis with productive cough",
-   "authors": "Kemmerich, B., Eberhardt, R. and Stammer, H.",
-   "journal": "Arzneimittel-Forschung",
-   "year": "2006",
-   "doi": "10.1055/s-0031-1296767",
-   "url": "",
-   "link": "https://doi.org/10.1055/s-0031-1296767",
-   "link_type": "doi",
-   "citation": "Kemmerich, B., Eberhardt, R. and Stammer, H (2006) 'Efficacy and tolerability of a fluid extract combination of thyme herb and ivy leaves and matched placebo in adults suffering from acute bronchitis with productive cough', Arzneimittel-Forschung, 56(9), pp. 652--660. doi:10.1055/s-0031-1296767",
-   "abstract": "Study objective To assess the efficacy and tolerability of a fixed fluid extract combination of thyme and ivy leaves (thyme-ivy combination) and matched placebo in patients suffering from acute bronchitis with productive cough. Methods In a double-blind, placebo-controlled, multicentre Phase IV study 361 outpatients with acute bronchitis and > or =10 coughing fits during the day, onset of bronchial mucus production with impaired ability to cough up at a maximum of 2 days prior to recruitment, and a Bronchitis Severity Score (BSS) > or =5 score points were randomly assigned to an 11-day treatment (5.4 ml three times daily) with either thyme-ivy combination syrup (Bronchipret Saft; N=182) or placebo syrup (N=179). After the baseline examination (Visit 1 = Day 0), 2 control examinations were scheduled (Visit 2 = Day 4; Visit 3 = Day 10/end of treatment). The efficacy of study treatment on acute bronchitis was evaluated by the patient's daily counting of coughing fits during the daytime (manual counter), assessment of acute bronchitis related symptoms and by the investigator's assessment of the most important symptoms of acute bronchitis using the BSS. Evaluation of tolerability was based upon adverse event (AE) monitoring, measurement of vital signs as well as the Primary outcome was the change in frequency of coughing fits during daytime on days 7-9 according to patient's accurate daily recording with a manual counter and documentation in the diary. Treatment effects were analysed by analysis of variance (ANOVA) adjusted for centre effects. Due to significant deviation from the \"preconditions\" of the ANOVA, the Wilcoxon test (stratified by centre) was carried out additionally. Results The mean reduction in coughing fits on days 7 to 9 relative to baseline was 68.7% under thyme-ivy combination compared to 47.6 % under placebo (p < 0.0001). In the thyme-ivy combination group, a 50% reduction in coughing fits from baseline was reached 2 days earlier compared to the placebo group. The symptoms of acute bronchitis (BSS) improved rapidly in both groups, but regression of symptoms was faster and the responder rates (p < 0.0001) compared to placebo were higher at Visit 2 (83.0% vs 53.9%) and Visit 3 (96.2% vs. 74.7%) under the treatment of thyme-ivy combination. Treatment was well tolerated with no difference in the frequency or severity of AEs between thyme-ivy combination and placebo groups. Severe or serious AEs were not reported. Conclusion Oral treatment of acute bronchitis with thyme-ivy combination for about 11 days was superior to pla-",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Efficacy and tolerability of a fluid extract combination of thyme herb and ivy leaves and matched placebo in adults suffering from acute bronchitis with productive cough",
-   "plants": [
-    "Common thyme",
-    "Garden thyme",
-    "Thyme"
-   ],
-   "scientific": [
-    "Thymus vulgaris"
-   ],
-   "actions": [
-    "Expectorant"
-   ],
-   "conditions": [
-    "Bronchitis",
-    "Cold & flu",
-    "Cough",
-    "Respiratory support"
-   ]
-  },
-  {
    "ref_id": "REF-0187",
    "key": "orav2006essential",
    "type": "article",
@@ -84017,51 +83657,6 @@
    ],
    "conditions": [
     "Cancer (anticancer research)"
-   ]
-  },
-  {
-   "ref_id": "REF-0129",
-   "key": "kapoor2006gamma",
-   "type": "article",
-   "title": "Gamma linolenic acid: an antiinflammatory omega-6 fatty acid",
-   "authors": "Kapoor, R. and Huang, Y.S",
-   "journal": "",
-   "year": "2006",
-   "doi": "10.2174/138920106779116874",
-   "url": "",
-   "link": "https://doi.org/10.2174/138920106779116874",
-   "link_type": "doi",
-   "citation": "Kapoor, R. and Huang, Y.S (2006) 'Gamma linolenic acid: an antiinflammatory omega-6 fatty acid', 7(6), pp. 531--534. doi:10.2174/138920106779116874",
-   "abstract": "Inflammation plays an important role in health and disease. Most of the chronic diseases of modern society, including cancer, diabetes, heart disease, arthritis, Alzheimer's disease, etc. have inflammatory component. At the same time, the link between diet and disease is also being recognized. Amongst dietary constituents, fat has gained most recognition in affecting health. Saturated and trans fatty acids have been implicated in obesity, heart disease, diabetes and cancer while polyunsaturated fatty acids (PUFAs) generally have a positive effect on health. The PUFAs of omega-3 and omega-6 series play a significant role in health and disease by generating potent modulatory molecules for inflammatory responses, including eicosanoids (prostaglandins, and leukotrienes), and cytokines (interleukins) and affecting the gene expression of various bioactive molecules. Gamma linolenic acid (GLA, all cis 6, 9, 12-Octadecatrienoic acid, C18:3, n-6), is produced in the body from linoleic acid (all cis 6,9-octadecadienoic acid), an essential fatty acid of omega-6 series by the enzyme delta-6-desaturase. Preformed GLA is present in trace amounts in green leafy vegetables and in nuts. The most significant source of GLA for infants is breast milk. GLA is further metabolized to dihomogamma linlenic acid (DGLA) which undergoes oxidative metabolism by cyclooxygenases and lipoxygenases to produce anti-inflammatory eicosanoids (prostaglandins of series 1 and leukotrienes of series 3). GLA and its metabolites also affect expression of various genes where by regulating the levels of gene products including matrix proteins. These gene products play a significant role in immune functions and also in cell death (apoptosis). The present review will emphasize the role of GLA in modulating inflammatory response, and hence its potential applications as an anti-inflammatory nutrient or adjuvant.",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Gamma linolenic acid: an antiinflammatory omega-6 fatty acid",
-   "plants": [
-    "Bee bread",
-    "Bee bush",
-    "Borage",
-    "Common borage",
-    "Starflower"
-   ],
-   "scientific": [
-    "Borago officinalis"
-   ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Digestive aid",
-    "Emollient / skin-soothing",
-    "Immunomodulator / immune support"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Eczema",
-    "Inflammation (general)",
-    "Pain (general)",
-    "Skin irritation"
    ]
   },
   {
@@ -84425,40 +84020,6 @@
    "conditions": [
     "Cardiovascular / heart health",
     "High cholesterol"
-   ]
-  },
-  {
-   "ref_id": "REF-1577",
-   "key": "shrivastava2006feverfew",
-   "type": "article",
-   "title": "Tanacetum parthenium and Salix alba (Mig-RL) combination in migraine prophylaxis: a prospective, open-label study",
-   "authors": "Shrivastava, R., Pechadre, J.C. and John, G.W.",
-   "journal": "Clinical Drug Investigation",
-   "year": "2006",
-   "doi": "10.2165/00044011-200626050-00006",
-   "url": "",
-   "link": "https://doi.org/10.2165/00044011-200626050-00006",
-   "link_type": "doi",
-   "citation": "Shrivastava, R., Pechadre, J.C. and John, G.W (2006) 'Tanacetum parthenium and Salix alba (Mig-RL) combination in migraine prophylaxis: a prospective, open-label study', Clinical Drug Investigation, 26(5), pp. 287-296. doi:10.2165/00044011-200626050-00006",
-   "abstract": "Background Tanacetum parthenium (feverfew) has been used traditionally to treat migraine, and although its mechanism of action is not fully understood, serotonin 5-HT receptor blocking effects have been suggested. T. parthenium and Salix alba (white willow) either alone or in combination (Mig-RL) were recently shown to inhibit binding to 5-HT(2A/2C) receptors; T. parthenium failed to recognise 5-HT(1D) receptors, whereas S. alba or the combination did. It was hypothesised that S. alba in combination with T. parthenium may provide superior migraine prophylactic activity compared with T. parthenium alone. Methods A prospective, open-label study was performed in 12 patients diagnosed with migraine without aura. Twelve weeks' treatment with T. parthenium 300 mg plus S. alba 300 mg (Mig-RL) twice daily was administered to determine the effects of therapy on migraine attack frequency (primary efficacy criterion), intensity and duration (secondary efficacy criteria), and quality of life, together with tolerability for patients. Results Attack frequency was reduced by 57.2% at 6 weeks (p < 0.029) and by 61.7% at 12 weeks (p < 0.025) in nine of ten patients, with 70% patients having a reduction of at least 50%. Attack intensity was reduced by 38.7% at 6 weeks (p < 0.005) and by 62.6% at 12 weeks (p < 0.004) in ten of ten patients, with 70% of patients having a reduction of at least 50%. Attack duration decreased by 67.2% at 6 weeks (p < 0.001) and by 76.2% at 12 weeks (p < 0.001) in ten of ten patients. Two patients were excluded for reasons unrelated to treatment. Self-assessed general health, physical performance, memory and anxiety also improved by the end of the study. Mig-RL treatment was well tolerated and no adverse events occurred. Conclusion The remarkable efficacy of Mig-RL in not only reducing the frequency of migraine attacks but also their pain intensity and duration in this trial warrants further investigation of this therapy in a double-blind, randomised, placebo-controlled investigation involving a larger patient population.",
-   "tier": "clinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Tanacetum parthenium and Salix alba (Mig-RL) combination in migraine prophylaxis: a prospective, open-label study",
-   "plants": [
-    "Bachelor's buttons",
-    "Featherfew",
-    "Feverfew",
-    "Midsummer daisy"
-   ],
-   "scientific": [
-    "Tanacetum parthenium"
-   ],
-   "actions": [],
-   "conditions": [
-    "Headache",
-    "Migraine"
    ]
   },
   {
@@ -88793,10 +88354,7 @@
     "Serenoa repens"
    ],
    "actions": [],
-   "conditions": [
-    "Prostate support",
-    "Urinary support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1477",
@@ -90609,16 +90167,12 @@
     "Bloating",
     "Bronchitis",
     "Bruising",
-    "Cognitive function",
     "Cold & flu",
-    "Eczema",
     "Headache",
     "Immune support",
     "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Memory",
     "Oral & throat health",
     "Pain (general)",
     "Respiratory support",
@@ -96525,10 +96079,7 @@
     "Diaphoretic",
     "Expectorant"
    ],
-   "conditions": [
-    "Bronchitis",
-    "Respiratory support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0735",
@@ -97293,8 +96844,6 @@
    "conditions": [
     "Bronchitis",
     "Cold & flu",
-    "Cough",
-    "Fever",
     "Respiratory support"
    ]
   },
@@ -97501,16 +97050,7 @@
     "Styptic / haemostatic",
     "Vulnerary (wound healing)"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bruising",
-    "Diarrhoea",
-    "Heavy menstrual bleeding",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Sore throat",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-3214",
@@ -102717,16 +102257,7 @@
     "Diaphoretic",
     "Expectorant"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bronchitis",
-    "Cold & flu",
-    "Cough",
-    "Fever",
-    "Inflammation (general)",
-    "Respiratory support",
-    "Skin irritation"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2642",

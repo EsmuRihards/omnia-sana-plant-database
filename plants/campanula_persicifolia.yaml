@@ -151,35 +151,8 @@ actions:
 - action: vulnerary
   note: Campanula macrostachya extract promoted fibroblast wound closure in vitro (genus congener).
   reference_ids: []
-  status: verified
-indications:
-- condition: inflammation
-  reference_ids:
-  - REF-2816
-  status: verified
-- condition: wounds
-  note: Bellflower extract promoted fibroblast wound healing in vitro (genus congener).
-  reference_ids: []
   status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory / traditional topical skin use
-  reference_ids:
-  - REF-2816
-  status: needs-review
-- condition: infection
-  note: inferred from antimicrobial action
-  reference_ids: []
-  status: needs-review
-- condition: sore-throat
-  note: inferred from traditional gargle use for throat/mouth inflammation
-  reference_ids:
-  - REF-2816
-  status: needs-review
-- condition: respiratory-support
-  note: inferred from genus Campanula traditional use for respiratory complaints
-  reference_ids:
-  - REF-2816
-  status: needs-review
+indications: []
 contraindications:
 - note: Peach-leaved bellflower is chiefly an edible and ornamental plant, and very little is known about
     medicinal use or safety of the species specifically; there are no clinical data. Use culinary amounts,
@@ -234,4 +207,7 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   no established posology) and is the proper fix if a seam opens. | 2026-08-14 (harvest-calendar campaign,
   Batch 6): added harvest_readiness - leaf provisional (young shoots gathered at 10-15 cm; Useful Temperate
   Plants REF-3219); flower + root = gap (no harvest-stage source found). Existing harvesting.season not
-  inherited. | 2026-08-15: flower and root harvest_readiness re-searched and kept documented gaps; PFAF''s full Edible Uses text gives uses (''Root - raw'', ''Flowers - raw'') but no stage, and bellflower-root condition statements found elsewhere belong to other Campanula species and were not inherited.'
+  inherited. | 2026-08-15: flower and root harvest_readiness re-searched and kept documented gaps; PFAF''s full Edible Uses text gives uses (''Root - raw'', ''Flowers - raw'') but no stage, and bellflower-root condition statements found elsewhere belong to other Campanula species and were not inherited.
+  | 2026-11-10: symptom-source audit batch 3 - REF-2816 is a genus-level Campanula review that
+  never names C. persicifolia (prose-only attribution) - removed from every symptom; no
+  species-level evidence remains.'

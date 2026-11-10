@@ -135,7 +135,6 @@ indications:
   reference_ids:
   - REF-0450
   - REF-1572
-  - REF-1577
   status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -157,7 +156,6 @@ indications:
   - REF-1574
   - REF-1575
   - REF-1576
-  - REF-1577
   - REF-1581
   status: verified
 - condition: pain
@@ -192,7 +190,6 @@ references:
 - REF-1574
 - REF-1575
 - REF-1576
-- REF-1577
 - REF-1578
 - REF-1579
 - REF-1580
@@ -240,4 +237,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   sourced from the existing Cochrane migraine-prevention review (REF-0450) and parthenolide biosynthesis/localisation
   study (REF-0553). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for leaf
   (provisional: PFAF REF-3347, gathered as the plant comes into flower). Single lineage. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-10: symptom-source audit batch 3 - REF-1577 purged: feverfew + white willow
+  combination (Mig-RL), not feverfew alone.'

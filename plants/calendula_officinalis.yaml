@@ -123,7 +123,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0112
-  - REF-0183
   - REF-0199
   - REF-0753
   - REF-2126
@@ -140,20 +139,17 @@ actions:
 - action: antifungal
   reference_ids:
   - REF-0112
-  - REF-0183
   - REF-0199
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0112
-  - REF-0183
   - REF-0199
   - REF-2127
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0112
-  - REF-0183
   - REF-0199
   - REF-2124
   - REF-2130
@@ -161,13 +157,11 @@ actions:
 - action: emollient
   reference_ids:
   - REF-0112
-  - REF-0183
   - REF-0199
   status: verified
 - action: vulnerary
   reference_ids:
   - REF-0112
-  - REF-0183
   - REF-0199
   - REF-0752
   - REF-2125
@@ -176,20 +170,12 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0183
   - REF-0199
   - REF-2128
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
   - REF-0112
-  - REF-0183
-  - REF-0199
-  status: needs-review
 - condition: cancer
   note: A Calendula officinalis (LACE) aqueous extract inhibits proliferation (70-100%) of leukemia, melanoma,
     breast, prostate, lung and colon cancer cell lines via G0/G1 arrest and caspase-3 apoptosis and inhibits
@@ -200,47 +186,38 @@ indications:
   - REF-0753
   - REF-2877
   status: needs-review
-- condition: eczema
-  note: inferred from emollient action
-  reference_ids:
-  - REF-0112
-  - REF-0183
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0199
 - condition: infection
   note: inferred from antifungal action
-  reference_ids:
-  - REF-0112
-  - REF-0183
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0199
+  - REF-0112
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
-  - REF-0183
-  - REF-0199
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
+  - REF-0199
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
-  - REF-0183
-  - REF-0199
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2128
+  - REF-0112
+  - REF-0199
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0112
-  - REF-0183
   - REF-0199
+  - REF-0752
+  - REF-2125
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2127
+  - REF-0112
 contraindications:
 - note: Generally very safe for topical use. May cause contact dermatitis in rare cases (Asteraceae family
     allergy). Internal use is safe in normal doses. Avoid during pregnancy at therapeutic doses (uterine
@@ -248,7 +225,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0112
-  - REF-0183
   - REF-0199
   status: verified
 - note: 'Duke (2002) rates calendula (Calendula officinalis) and notes anti-inflammatory, wound-healing
@@ -261,7 +237,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0112
-  - REF-0183
   - REF-0199
   - REF-0063
   status: verified
@@ -306,4 +281,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   checked for mismatch; text rewritten to the source rather than having a reference stapled on. | 2026-08-14
   (harvest-calendar campaign, Batch 6): added harvest_readiness for the flower (provisional) - pick the
   flower heads when fully open (both parts_used labels, Flower and Petals, resolve to the flower head);
-  sourced to Useful Temperate Plants (REF-3217). Existing harvesting.season not inherited.'
+  sourced to Useful Temperate Plants (REF-3217). Existing harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 3 - REF-0183 purged as a phantom: the "double-blind RCT
+  of a monograph-based Calendula cream" (Nicolaus 2017) is not in PubMed and had no DOI or
+  journal; it had lifted 6 pairs to 5/10. REF-0112 (Hoffmann) removed from every symptom as
+  unverifiable. REF-0199 (rat excision wounds) kept for wounds only. Added REF-0752 (SR: some
+  evidence for wound healing) and REF-2125 (RCT, burn wounds, positive) to wounds.'

@@ -136,12 +136,11 @@ actions:
   status: verified
 - action: neuroprotective
   reference_ids:
-  - REF-0038
+  - REF-0740
   - REF-0283
   - REF-0309
   - REF-0742
   - REF-2107
-  - REF-0740
   - REF-2108
   - REF-2109
   - REF-2110
@@ -153,13 +152,6 @@ actions:
   - REF-0740
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0309
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2112
 - condition: cancer
   note: Bacopaside II from Bacopa monnieri inhibits colon cancer cell growth via cell-cycle arrest and
     apoptosis (aquaporin-1 blockade), and its bacopasaponins are cytotoxic to lung (PC9) and colon (SW620)
@@ -172,45 +164,34 @@ indications:
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0038
+  - REF-0740
   - REF-0283
-  - REF-0309
-  status: needs-review
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0309
-  status: needs-review
-- condition: insomnia
-  note: inferred from sedative action
-  reference_ids:
-  - REF-0309
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0740
+  - REF-0309
+- condition: inflammation
+  note: inferred from anti-inflammatory action
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0309
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0038
+  - REF-0740
   - REF-0283
-  - REF-0309
-  status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0309
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-2112
+  - REF-0309
 contraindications:
-- note: Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal -
-    nausea, stomach cramps, and increased bowel movements - which can be reduced by taking with food.
+- note: Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal
+    - nausea, stomach cramps, and increased bowel movements - which can be reduced by taking with food.
     Not recommended during pregnancy. May interact with medications that increase acetylcholine levels
     (e.g. Alzheimer's medications). Use with caution in thyroid conditions, as bacopa may increase thyroid
     hormone levels.
   severity: caution
   reference_ids:
-  - REF-0038
+  - REF-0740
   - REF-0283
   - REF-0309
   status: verified
@@ -218,7 +199,7 @@ contraindications:
     Handbook of Medicinal Herbs, Second Edition.
   severity: info
   reference_ids:
-  - REF-0038
+  - REF-0740
   - REF-0283
   - REF-0309
   - REF-0063
@@ -270,4 +251,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   harvest_readiness for whole-plant + leaf (provisional, basis constituent) - harvest during active
   warm-season growth at the mature/flowering stage when bacoside content peaks, sourced to a growth-stage
   study (Thai J. Agric. Sci., REF-3215; week 12 = peak actives, coinciding with flowering). No
-  traditional-collection source located. Existing harvesting.season not inherited.'
+  traditional-collection source located. Existing harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 3 - Merged duplicate REF-0038 -> REF-0740 (same
+  Calabrese 2008 RCT). REF-0309 (generic "WHO Monographs" 2002; no Bacopa monograph found) removed
+  from every symptom as unverifiable.'

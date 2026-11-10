@@ -125,7 +125,6 @@ actions:
   - REF-0053
   - REF-0098
   - REF-0880
-  - REF-0881
   - REF-0882
   - REF-0889
   status: verified
@@ -149,8 +148,6 @@ indications:
   - REF-0880
   - REF-0889
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0881
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -168,14 +165,11 @@ indications:
   - REF-0053
   - REF-0098
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0881
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
   - REF-0053
   - REF-0098
-  - REF-0881
   - REF-0889
   status: needs-review
 - condition: urinary-support
@@ -217,7 +211,6 @@ contraindications:
 references:
 - REF-0053
 - REF-0880
-- REF-0881
 - REF-0882
 - REF-0883
 - REF-0884
@@ -275,4 +268,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   review (REF-0882) and the Labrador-tea processing/safety review (REF-0884). | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for leaf + stem (provisional: PFAF REF-3326 as Ledum palustre;
   young flowering shoots gathered at flowering, April-June). SAFETY: TOXIC (ledol/grayanotoxin) + Andromeda
-  polifolia lookalike. Binomial confirmed via synonymy.'
+  polifolia lookalike. Binomial confirmed via synonymy.
+  | 2026-11-10: symptom-source audit batch 3 - REF-0881 purged: homeopathic (Arnica 50M / Ledum
+  50M pads) - not evidence for the plant (owner rule 2026-11-10).'

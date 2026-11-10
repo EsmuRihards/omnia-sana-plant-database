@@ -165,68 +165,53 @@ actions:
   - REF-1962
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0045
-  status: needs-review
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0045
-  - REF-0061
   status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
-  - REF-1961
   - REF-1965
   status: needs-review
+  null_result_ids:
+  - REF-1961
 - condition: cardiovascular-support
   reference_ids:
   - REF-0045
-  - REF-0061
   status: verified
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0045
   - REF-0184
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0045
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0045
+  reference_ids: []
   status: needs-review
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0045
-  status: needs-review
 - condition: memory
   note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0045
-  - REF-0184
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0045
 - condition: metabolic-support
   reference_ids:
   - REF-0045
-  - REF-0061
   status: verified
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0045
-  status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0045
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1964
   - REF-1968
+  - REF-0045
 contraindications:
 - note: Generally safe in moderate consumption. High caffeine intake may cause insomnia, anxiety, palpitations,
     or dependence. Large amounts of green tea extract supplements may be hepatotoxic (rare). May reduce
@@ -318,4 +303,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the molecules the entry already names were wired - no constituent was reinterpreted. | 2026-08-14
   (harvest-calendar campaign, Batch 6): added harvest_readiness for leaf + shoot (provisional) - pluck the
   very young leaves and buds, and the terminal 2-3-leaf sprouts, during flush from bushes over three years
-  old; sourced to Useful Temperate Plants (REF-3218). Existing harvesting.season not inherited.'
+  old; sourced to Useful Temperate Plants (REF-3218). Existing harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 3 - REF-1961 (Cochrane 2020: no conclusive evidence for
+  green tea and cancer) moved to null_result_ids. REF-0045 abstract (PubMed 20370896) names
+  cancer, heart/liver disease, obesity, type 2 diabetes, CV risk only. REF-0061 (Drake 2015) could
+  not be located - removed from every symptom as unverifiable. REF-0184 (L-theanine EEG RCT:
+  alertness/attention) kept for cognitive-function only.'

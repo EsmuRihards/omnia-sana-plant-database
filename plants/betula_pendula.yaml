@@ -250,17 +250,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0080
   - REF-1697
-- condition: swelling
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0080
-  status: needs-review
 - condition: urinary-support
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0080
-  status: needs-review
-- condition: uti
   note: inferred from diuretic action
   reference_ids:
   - REF-0080
@@ -335,4 +325,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   about spring sap, birch wine or vinegar. | 2026-08-14 (harvest-calendar campaign, Batch 5): added
   harvest_readiness for sap/leaf/bark (provisional) - sap tapped in early spring before the leaves unfurl;
   young leaves and buds in spring; bark from felled timber (peels most easily late spring to early summer);
-  sourced to Useful Temperate Plants (REF-3213). Existing harvesting.season not inherited; signals re-derived.'
+  sourced to Useful Temperate Plants (REF-3213). Existing harvesting.season not inherited; signals re-derived.
+  | 2026-11-10: symptom-source audit batch 3 - EMA birch-leaf summary (REF-0080) covers flushing
+  of the urinary tract in minor urinary complaints only - removed from swelling and uti.'

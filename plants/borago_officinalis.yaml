@@ -162,12 +162,10 @@ constituents:
 actions:
 - action: analgesic
   reference_ids:
-  - REF-0129
   - REF-0309
   status: verified
 - action: anti-inflammatory
   reference_ids:
-  - REF-0129
   - REF-0309
   - REF-0749
   - REF-1952
@@ -179,7 +177,6 @@ actions:
   status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0129
   - REF-0309
   - REF-0749
   - REF-1951
@@ -188,47 +185,28 @@ actions:
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0129
   - REF-0309
   - REF-1950
   status: verified
 - action: emollient
   reference_ids:
-  - REF-0129
   - REF-0309
   - REF-1951
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0129
   - REF-0309
   - REF-1958
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0129
-  - REF-0309
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1952
   - REF-1958
-- condition: back-pain
-  note: inferred from analgesic action
-  reference_ids:
   - REF-0309
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0129
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0309
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0129
-  - REF-1950
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -237,61 +215,47 @@ indications:
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
-  - REF-0309
+  - REF-0749
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0129
   - REF-1958
+  - REF-0309
 - condition: eczema
   note: inferred from emollient action
-  reference_ids:
-  - REF-0129
-  - REF-0309
-  status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0309
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0129
+  - REF-0309
 - condition: immune-support
-  reference_ids:
-  - REF-0309
-  status: verified
+  reference_ids: []
+  status: needs-review
   mechanistic_exclude_ids:
-  - REF-0129
+  - REF-0309
 - condition: indigestion
   note: inferred from digestive action
-  reference_ids:
-  - REF-0309
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0129
+  - REF-0309
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0129
-  - REF-0309
+  - REF-0749
   status: needs-review
-- condition: pain
-  reference_ids:
-  - REF-0129
+  mechanistic_exclude_ids:
   - REF-0309
-  status: verified
 - condition: respiratory-support
   reference_ids:
-  - REF-0309
+  - REF-0749
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0129
-  - REF-0309
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1952
   - REF-1958
+  - REF-0309
 contraindications:
 - note: 'Pyrrolizidine alkaloids (PAs): Many Boraginaceae can produce PAs; unsaturated PAs are hepatotoxic
     and genotoxic (risk increases with cumulative exposure). Borage as food/tea: PA presence in borage
@@ -306,7 +270,6 @@ contraindications:
     on anticoagulants/antiplatelets.'
   severity: serious
   reference_ids:
-  - REF-0129
   - REF-0212
   - REF-0309
   status: verified
@@ -318,7 +281,6 @@ contraindications:
     (Duke, 2002).
   severity: info
   reference_ids:
-  - REF-0129
   - REF-0212
   - REF-0309
   - REF-0063
@@ -406,4 +368,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (harvest-calendar campaign, Batch 6): added harvest_readiness for flower/leaf/stem/seed (provisional) -
   aerial parts gathered as the plant comes into flower; seed collected as it ripens (it drops when ripe);
   sourced to Useful Temperate Plants (REF-3216). Safety cross-link to the FATAL foxglove (Digitalis
-  purpurea) leaf/rosette confusion. Existing harvesting.season not inherited.'
+  purpurea) leaf/rosette confusion. Existing harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 3 - REF-0129 purged (GLA review never names borage).
+  REF-0309 (generic WHO 2002, no borage monograph) removed from every symptom as unverifiable.
+  REF-0749 review names colds, influenza, respiratory disorders and inflammation - wired as direct
+  source there.'

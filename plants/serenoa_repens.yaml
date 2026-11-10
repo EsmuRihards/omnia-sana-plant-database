@@ -40,8 +40,9 @@ indications:
   - REF-1893
   - REF-0572
   - REF-1894
-  - REF-1895
   status: needs-review
+  null_result_ids:
+  - REF-1895
 - condition: urinary-support
   note: General urinary support (traditional); Lower urinary tract symptoms of benign prostatic hyperplasia
     (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even
@@ -56,8 +57,9 @@ indications:
   - REF-1890
   - REF-0572
   - REF-1894
-  - REF-1895
   status: needs-review
+  null_result_ids:
+  - REF-1895
 contraindications:
 - note: Generally well tolerated; mild gastrointestinal upset is the most common effect. BPH must be medically
     diagnosed (to exclude prostate cancer), and because the best evidence does not show benefit, saw palmetto
@@ -121,7 +123,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   fields, sourced from the existing BPH phytotherapy review (REF-0496) and Cochrane review (REF-0504). | 2026-08-15:
   Harvest Calendar (phenological) - harvest_readiness for fruit recorded as GAP: PFAF gives no fruit-harvest
   timing for Serenoa repens (berries ripen autumn/early winter turning blue-black, but unsourced this pass).
-  Binomial confirmed (no timing to attach). | 2026-08-15: fruit harvest_readiness filled and raised to VERIFIED (was gap): UF/IFAS EDIS FPS-547 (REF-3386) and Wikipedia (REF-3387) independently give the same ripe-fruit stage (deep shiny blue-black / reddish-black drupe). Florida''s harvest-permit regime noted in-entry.'
+  Binomial confirmed (no timing to attach). | 2026-08-15: fruit harvest_readiness filled and raised to VERIFIED (was gap): UF/IFAS EDIS FPS-547 (REF-3386) and Wikipedia (REF-3387) independently give the same ripe-fruit stage (deep shiny blue-black / reddish-black drupe). Florida''s harvest-permit regime noted in-entry.
+  | 2026-11-10: symptom-source audit batch 3 - REF-1895 (12-week RCT: no significant benefit over
+  placebo) moved to null_result_ids for prostate-support and urinary-support.'
 botanical_description:
   text: Low, clump-forming fan-palm shrub (Arecaceae), usually with a creeping or short, often prostrate
     trunk. Leaves are fan-shaped (palmate) on long, spiny-edged stalks. Small, creamy-white flowers are

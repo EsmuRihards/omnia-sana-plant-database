@@ -98,6 +98,11 @@ def run(stem, ops, log, note, label):
                 elif kind == 'rm' and r in action_refs(d, cond):
                     mx = i.setdefault('mechanistic_exclude_ids', [])
                     if r not in mx: mx.append(r)
+            elif kind == 'nulladd':  # record a no-effect study that is not cited as support
+                if r in i['reference_ids']:
+                    raise SystemExit(f'{stem}/{cond}: {r} is cited as support - use null')
+                nr = i.setdefault('null_result_ids', [])
+                if r not in nr: nr.append(r)
             elif kind == 'add':
                 if r not in i['reference_ids']: i['reference_ids'].append(r)
                 if r in (i.get('mechanistic_exclude_ids') or []): i['mechanistic_exclude_ids'].remove(r)

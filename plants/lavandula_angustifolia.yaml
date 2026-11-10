@@ -201,6 +201,8 @@ indications:
   - REF-2210
   - REF-2212
   - REF-2215
+  null_result_ids:
+  - REF-0858
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
@@ -352,4 +354,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (tea and tincture); the standardised oral oil preparation belongs to Lavandulae aetheroleum, a separate
   monograph. The flower monograph contains no oil posology and no mention of Silexan. | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for flower (provisional: PFAF REF-3283, spikes cut at
-  full bloom in mid-to-late summer). Single lineage. Binomial confirmed.'
+  full bloom in mid-to-late summer). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 3 - REF-0858 (RCT, lavender oil inhalation,
+  postmenopausal insomnia: no significant difference on the primary outcome) recorded in
+  null_result_ids for insomnia.'

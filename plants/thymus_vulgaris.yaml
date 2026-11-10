@@ -81,7 +81,6 @@ traditional_uses:
     in clinical trial.
   reference_ids:
   - REF-0519
-  - REF-0593
   status: verified
 preparations:
 - name: Infusion
@@ -97,8 +96,7 @@ preparations:
 - name: Standardized fluid extract (thyme-ivy combination)
   text: Standardized fluid extract, often combined with ivy leaf, the form studied in clinical trials
     for acute bronchitis.
-  reference_ids:
-  - REF-0593
+  reference_ids: []
   status: verified
 dosage:
 - name: Infusion
@@ -144,7 +142,6 @@ actions:
     fits)
   reference_ids:
   - REF-0519
-  - REF-0593
   status: verified
 indications:
 - condition: bronchitis
@@ -153,7 +150,6 @@ indications:
     fits)
   reference_ids:
   - REF-0519
-  - REF-0593
   status: verified
 - condition: cancer
   note: inferred from anticancer action
@@ -166,7 +162,6 @@ indications:
     fits)
   reference_ids:
   - REF-0519
-  - REF-0593
   status: verified
 - condition: cough
   note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
@@ -174,7 +169,6 @@ indications:
     fits)
   reference_ids:
   - REF-0519
-  - REF-0593
   status: verified
 - condition: infection
   note: Antimicrobial (thymol and carvacrol) - supports respiratory infection
@@ -200,7 +194,6 @@ indications:
   note: inferred from expectorant action
   reference_ids:
   - REF-0519
-  - REF-0593
   status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
@@ -259,4 +252,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF
-  REF-3351, cut just before the flowers open). Single lineage. Binomial confirmed.'
+  REF-3351, cut just before the flowers open). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 3 - REF-0593 purged: thyme + ivy combination product,
+  not thyme alone.'

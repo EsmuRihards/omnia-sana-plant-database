@@ -146,6 +146,8 @@ indications:
   - REF-0566
   - REF-0567
   status: needs-review
+  null_result_ids:
+  - REF-1844
 - condition: high-blood-pressure
   note: Lowers blood pressure, with the greatest effect in people with raised blood pressure
   reference_ids:
@@ -154,6 +156,8 @@ indications:
   - REF-0566
   - REF-0567
   status: verified
+  null_result_ids:
+  - REF-1844
 - condition: high-cholesterol
   note: inferred from lipid-lowering action
   reference_ids:
@@ -249,4 +253,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Revie
   draft per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for the calyx (mapped to the canonical flower organ; provisional: Wikipedia Roselle
   REF-3271; harvest when the calyx is fleshy and deep crimson as the fruit matures, before it turns woody).
-  Binomial confirmed.'
+  Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 3 - REF-1844 (SR: trials do not provide reliable
+  evidence to recommend H. sabdariffa for hypertension) moved to null_result_ids for
+  high-blood-pressure and cardiovascular-support.'

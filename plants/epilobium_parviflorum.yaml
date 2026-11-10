@@ -160,7 +160,6 @@ indications:
     is not yet conclusive
   reference_ids:
   - REF-0403
-  - REF-0404
   - REF-0618
   status: verified
 - condition: skin-irritation
@@ -174,7 +173,6 @@ indications:
     BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive
   reference_ids:
   - REF-0403
-  - REF-0404
   - REF-0618
   status: verified
 - condition: uti
@@ -242,4 +240,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   ESCOP, Commission E), may still resolve these. ''Tincture'': The willowherb monograph gives a herbal
   tea only. No tincture, extract, ethanol strength or ratio appears. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF REF-3252, flowering herb cut
-  in summer while in flower). Single lineage. Binomial confirmed.'
+  in summer while in flower). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 3 - REF-0404 (ProstateEZE Max, multi-herb product)
+  removed from prostate-support and urinary-support (kept for its safety notes).'

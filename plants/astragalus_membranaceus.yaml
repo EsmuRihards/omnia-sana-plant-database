@@ -167,9 +167,10 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0402
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0402
 - condition: cancer
   note: Astragalus membranaceus protects against gastrointestinal cancers; astragaloside IV inhibits lung
     cancer metastasis via macrophage repolarization, cycloastragenol boosts CD8+ T-cell antitumour immunity
@@ -185,16 +186,18 @@ indications:
   status: needs-review
 - condition: cold
   note: Supports resistance to colds and respiratory infection (immune)
-  reference_ids:
-  - REF-0401
-  status: verified
+  reference_ids: []
+  status: needs-review
   mechanistic_exclude_ids:
   - REF-2263
+  - REF-0401
 - condition: fatigue
   note: Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)
   reference_ids:
-  - REF-0402
+  - REF-2261
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0402
 - condition: immune-support
   note: Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes); Supports
     resistance to colds and respiratory infection (immune)
@@ -212,25 +215,12 @@ indications:
   reference_ids:
   - REF-0402
   status: needs-review
-- condition: kidney-support
-  note: Renoprotective (kidney support) - as an adjunct in chronic kidney disease, reduced proteinuria
-    and raised haemoglobin and serum albumin across trials (Cochrane review; study quality low)
-  reference_ids:
-  - REF-0402
-  - REF-0586
-  status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0402
-  status: needs-review
-- condition: stress
-  note: inferred from adaptogen action
-  reference_ids:
-  - REF-0402
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-2261
+  - REF-0402
 contraindications:
 - note: Astragalus stimulates immune activity; on theoretical grounds it should be used cautiously in
     autoimmune disease and with immunosuppressant medicines (for example after organ transplant) - discuss
@@ -300,4 +290,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pha
   ethanol strength appears in the summary. | 2026-08-14 (harvest-calendar campaign, Batch 5): added
   harvest_readiness for the root (provisional) - dig in autumn from four-year-old (or older) plants,
   sourced to Useful Temperate Plants (REF-3212, filed under the accepted name Astragalus mongholicus).
-  Existing harvesting.season not inherited; signal re-derived.'
+  Existing harvesting.season not inherited; signal re-derived.
+  | 2026-11-10: symptom-source audit batch 3 - REF-0586 (Cochrane CKD: definitive conclusions
+  could not be made) moved to null_result_ids. REF-0402 (AS-IV review) kept only for
+  infection/inflammation/cancer/immune uses it names; REF-0401 removed from cold. REF-2261 (SR,
+  post-stroke fatigue, "may benefit") added to fatigue per owner rule 2026-11-10 (may-help reviews
+  count as written).'

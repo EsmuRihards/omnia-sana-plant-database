@@ -880,6 +880,18 @@ def main():
                     elif r not in act_refs:
                         warnings.append(f"{name}: indication '{cond}' mechanistic_exclude_ids lists {r}, "
                                         f"which none of its related actions cite - stale exclusion, remove it")
+            # null_result_ids: studies of this plant for this condition that found no
+            # effect. Never evidence (owner rule, 2026-11-10), so a ref may not be both
+            # a no-effect study and a supporting reference for the same condition.
+            nr = i.get("null_result_ids") or []
+            if nr:
+                cond = i.get("condition")
+                if len(set(nr)) != len(nr):
+                    errors.append(f"{name}: indication '{cond}' null_result_ids has duplicates")
+                for r in nr:
+                    if r in (i.get("reference_ids") or []):
+                        errors.append(f"{name}: indication '{cond}' lists {r} as a no-effect study "
+                                      f"(null_result_ids) but also cites it as support in reference_ids")
         for c in d.get("constituents", []):
             for cm in c.get("compounds", []):
                 if cm not in K:

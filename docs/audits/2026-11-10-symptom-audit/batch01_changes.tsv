@@ -1,0 +1,158 @@
+plant	condition	ref	op
+achillea_millefolium	*	REF-2822	purge
+achillea_millefolium	appetite-loss	REF-0369	rm
+achillea_millefolium	arthritis	REF-0011	rm
+achillea_millefolium	bloating	REF-0369	rm
+achillea_millefolium	bruising	REF-0011	rm
+achillea_millefolium	bruising	REF-0098	rm
+achillea_millefolium	bruising	REF-0369	rm
+achillea_millefolium	bruising	REF-0372	rm
+achillea_millefolium	cold	REF-0369	rm
+achillea_millefolium	cold	REF-0098	add
+achillea_millefolium	diarrhea	REF-0369	rm
+achillea_millefolium	diarrhea	REF-0373	rm
+achillea_millefolium	fever	REF-0369	rm
+achillea_millefolium	fever	REF-0098	add
+achillea_millefolium	heavy-bleeding	REF-0369	rm
+achillea_millefolium	heavy-bleeding	REF-0381	rm
+achillea_millefolium	heavy-bleeding	REF-0098	add
+achillea_millefolium	indigestion	REF-0369	rm
+achillea_millefolium	infection	REF-0098	rm
+achillea_millefolium	inflammation	REF-0011	rm
+achillea_millefolium	inflammation	REF-0098	rm
+achillea_millefolium	inflammation	REF-0369	add
+achillea_millefolium	menstrual-cramps	REF-0011	rm
+achillea_millefolium	menstrual-cramps	REF-0098	rm
+achillea_millefolium	muscle-spasm	REF-0011	rm
+achillea_millefolium	muscle-spasm	REF-0098	rm
+achillea_millefolium	skin-irritation	REF-0098	rm
+achillea_millefolium	swelling	REF-0011	rm
+achillea_millefolium	swelling	REF-0098	rm
+achillea_millefolium	urinary-support	REF-0011	rm
+achillea_millefolium	urinary-support	REF-0098	rm
+achillea_millefolium	uti	REF-0011	rm
+achillea_millefolium	uti	REF-0098	rm
+achillea_millefolium	bruising	-	drop(no evidence left)
+achillea_millefolium	diarrhea	-	drop(no evidence left)
+achillea_millefolium	menstrual-cramps	-	needs-review(mechanistic only)
+achillea_millefolium	swelling	-	drop(no evidence left)
+achillea_millefolium	urinary-support	-	drop(no evidence left)
+achillea_millefolium	uti	-	drop(no evidence left)
+acorus_calamus	*	REF-0516	purge
+acorus_calamus	*	REF-2825	purge
+acorus_calamus	*	REF-2827	purge
+acorus_calamus	*	REF-2824	purge
+acorus_calamus	anxiety	REF-0624	rm
+acorus_calamus	cognitive-function	REF-0624	rm
+acorus_calamus	cognitive-function	REF-0716	add
+acorus_calamus	memory	REF-0624	rm
+acorus_calamus	memory	REF-0716	add
+acorus_calamus	nervous-tension	REF-0624	rm
+acorus_calamus	stress	REF-0624	rm
+acorus_calamus	appetite-loss	-	drop(no evidence left)
+acorus_calamus	bloating	-	drop(no evidence left)
+acorus_calamus	indigestion	-	drop(no evidence left)
+actaea_racemosa	*	REF-0671	purge
+actaea_racemosa	anxiety	-	drop
+actaea_racemosa	depression	-	drop
+actaea_racemosa	hot-flashes	REF-0623	null
+actaea_racemosa	hot-flashes	REF-0672	null
+actaea_racemosa	hot-flashes	REF-0673	null
+actaea_racemosa	menopause	REF-0623	null
+actaea_racemosa	menopause	REF-0672	null
+actaea_racemosa	menopause	REF-0673	null
+actaea_racemosa	hot-flashes	REF-2400	rm
+actaea_racemosa	hot-flashes	REF-2589	rm
+actaea_racemosa	menopause	REF-2400	rm
+actaea_racemosa	cancer	REF-2830	rm
+actaea_racemosa	cancer	REF-2831	rm
+aegopodium_podagraria	*	REF-0168	purge
+aegopodium_podagraria	headache	REF-0098	rm
+aegopodium_podagraria	skin-irritation	REF-0098	rm
+aegopodium_podagraria	urinary-support	REF-0098	rm
+aegopodium_podagraria	uti	REF-0098	rm
+aegopodium_podagraria	headache	-	drop(no evidence left)
+aesculus_hippocastanum	*	REF-0678	purge
+aesculus_hippocastanum	*	REF-2832	purge
+aesculus_hippocastanum	*	REF-2833	purge
+aesculus_hippocastanum	*	REF-2834	purge
+aesculus_hippocastanum	arthritis	REF-0590	rm
+aesculus_hippocastanum	arthritis	REF-0676	rm
+aesculus_hippocastanum	hemorrhoids	REF-0590	rm
+aesculus_hippocastanum	skin-irritation	REF-0590	rm
+aesculus_hippocastanum	skin-irritation	REF-2405	mexcl
+agrimonia_eupatoria	appetite-loss	REF-0387	rm
+agrimonia_eupatoria	appetite-loss	REF-0681	rm
+agrimonia_eupatoria	arthritis	REF-0386	rm
+agrimonia_eupatoria	arthritis	REF-0387	rm
+agrimonia_eupatoria	arthritis	REF-0680	rm
+agrimonia_eupatoria	arthritis	REF-0681	rm
+agrimonia_eupatoria	arthritis	REF-0683	rm
+agrimonia_eupatoria	bloating	REF-0387	rm
+agrimonia_eupatoria	bloating	REF-0681	rm
+agrimonia_eupatoria	bruising	REF-0386	rm
+agrimonia_eupatoria	bruising	REF-0681	rm
+agrimonia_eupatoria	bruising	REF-0682	rm
+agrimonia_eupatoria	bruising	REF-0683	rm
+agrimonia_eupatoria	diarrhea	REF-0681	rm
+agrimonia_eupatoria	indigestion	REF-0387	rm
+agrimonia_eupatoria	indigestion	REF-0681	rm
+agrimonia_eupatoria	indigestion	REF-0684	rmk
+agrimonia_eupatoria	inflammation	REF-0680	rm
+agrimonia_eupatoria	inflammation	REF-0682	rm
+agrimonia_eupatoria	inflammation	REF-0683	rm
+agrimonia_eupatoria	skin-irritation	REF-0681	rm
+agrimonia_eupatoria	sore-throat	REF-0681	rm
+agrimonia_eupatoria	sore-throat	REF-0683	rm
+agrimonia_eupatoria	wounds	REF-0681	rm
+agrimonia_eupatoria	appetite-loss	-	drop(no evidence left)
+agrimonia_eupatoria	bloating	-	drop(no evidence left)
+agrimonia_eupatoria	bruising	-	drop(no evidence left)
+agrimonia_eupatoria	indigestion	-	needs-review(mechanistic only)
+alchemilla_vulgaris	arthritis	REF-0113	rm
+alchemilla_vulgaris	bruising	REF-0113	rm
+alchemilla_vulgaris	inflammation	REF-0113	rm
+alchemilla_vulgaris	menstrual-cramps	REF-0113	rm
+alchemilla_vulgaris	skin-irritation	REF-0113	rm
+alchemilla_vulgaris	wounds	REF-0113	rm
+alchemilla_vulgaris	arthritis	REF-2227	mexcl
+alchemilla_vulgaris	inflammation	REF-2227	mexcl
+alchemilla_vulgaris	skin-irritation	REF-2227	mexcl
+alchemilla_vulgaris	arthritis	-	drop(no evidence left)
+alchemilla_vulgaris	bruising	-	drop(no evidence left)
+alchemilla_vulgaris	menstrual-cramps	-	drop(no evidence left)
+alchemilla_vulgaris	skin-irritation	-	drop(no evidence left)
+alchemilla_vulgaris	wounds	-	drop(no evidence left)
+allium_sativum	arthritis	REF-0166	rm
+allium_sativum	blood-sugar	REF-0166	rm
+allium_sativum	cardiovascular-support	REF-0166	rm
+allium_sativum	cold	REF-0166	rm
+allium_sativum	immune-support	REF-0166	rm
+allium_sativum	infection	REF-0166	rm
+allium_sativum	inflammation	REF-0166	rm
+allium_sativum	metabolic-support	REF-0166	rm
+allium_sativum	skin-irritation	REF-0166	rm
+allium_sativum	wounds	REF-0166	rm
+allium_sativum	metabolic-support	REF-0204	rm
+allium_sativum	wounds	REF-0650	rmk
+allium_sativum	wounds	REF-0651	rm
+aloe_vera	*	REF-2845	purge
+aloe_vera	*	REF-2847	purge
+aloe_vera	*	REF-2846	purge
+aloe_vera	*	REF-2848	purge
+aloe_vera	wounds	REF-2241	add
+aloe_vera	wounds	REF-2238	add
+aloe_vera	wounds	REF-2243	add
+aloe_vera	eczema	REF-2234	add
+aloe_vera	skin-irritation	REF-2234	add
+aloe_vera	skin-irritation	REF-2243	add
+aloe_vera	bruising	-	drop
+aloysia_citrodora	indigestion	REF-0474	rm
+aloysia_citrodora	inflammation	REF-0474	rm
+aloysia_citrodora	muscle-soreness	REF-0474	rm
+aloysia_citrodora	stress	REF-0474	rm
+aloysia_citrodora	skin-irritation	REF-0474	rm
+aloysia_citrodora	skin-irritation	REF-0692	rmk
+aloysia_citrodora	arthritis	REF-0692	rmk
+aloysia_citrodora	indigestion	-	drop(no evidence left)
+aloysia_citrodora	stress	-	drop(no evidence left)

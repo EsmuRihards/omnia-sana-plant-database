@@ -136,9 +136,6 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-0471
-  - REF-2832
-  - REF-2833
-  - REF-2834
   - REF-2835
   status: needs-review
   note: Escin, the triterpene saponin of Aesculus hippocastanum, induces apoptosis and cell-cycle arrest
@@ -155,28 +152,25 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0590
-  - REF-0676
   - REF-2405
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2403
+  - REF-0590
 - condition: cancer
   note: Escin shows antiproliferative and pro-apoptotic activity and enhances chemotherapy/immunotherapy
     efficacy in breast (MCF-7), hepatocellular, lung and pancreatic cancer models; it modulates NF-kappaB,
     p53, p38 MAPK/ERK and PD-L1 (preclinical).
   reference_ids:
   - REF-0471
-  - REF-2832
-  - REF-2833
-  - REF-2834
   - REF-2835
   status: needs-review
 - condition: hemorrhoids
   note: Relief of haemorrhoid symptoms (venotonic)
-  reference_ids:
-  - REF-0590
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0590
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -189,22 +183,21 @@ indications:
     varicose veins
   reference_ids:
   - REF-0470
-  - REF-0678
   - REF-0679
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0590
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2403
+  - REF-0590
+  - REF-2405
 - condition: swelling
   note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
     varicose veins
   reference_ids:
   - REF-0470
-  - REF-0678
   - REF-0679
   status: verified
 - condition: varicose-veins
@@ -212,7 +205,6 @@ indications:
     varicose veins
   reference_ids:
   - REF-0470
-  - REF-0678
   - REF-0679
   - REF-2406
   status: verified
@@ -279,4 +271,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review
   harvest_readiness for the seed (provisional) - the ripe conker is collected in autumn as the spiny green
   husk splits and the nut falls, sourced to Grieve Horse Chestnut (REF-3189, new). A pharmacopoeial "ripe,
   dried seed" definition would upgrade it to verified. Existing harvesting.season not inherited; raw-seed
-  esculin toxicity noted in the signal.'
+  esculin toxicity noted in the signal.
+  | 2026-11-10: symptom-source audit batch 1 - REF-0678 purged (venoactive-drug review never names
+  horse chestnut). REF-2832/2833/2834 purged (escin papers, no source species named).
+  REF-0590/REF-0676 removed from arthritis/hemorrhoids/skin-irritation (abstracts do not name
+  them).'

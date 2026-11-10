@@ -134,12 +134,10 @@ actions:
 - action: analgesic
   reference_ids:
   - REF-0098
-  - REF-0168
   status: verified
 - action: anti-inflammatory
   reference_ids:
   - REF-0098
-  - REF-0168
   - REF-0719
   - REF-0721
   - REF-1690
@@ -147,13 +145,11 @@ actions:
 - action: anti-rheumatic
   reference_ids:
   - REF-0098
-  - REF-0168
   - REF-0719
   status: verified
 - action: diuretic
   reference_ids:
   - REF-0098
-  - REF-0168
   - REF-0719
   status: verified
 indications:
@@ -161,55 +157,44 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
-  - REF-0168
   status: needs-review
 - condition: back-pain
   note: inferred from anti-rheumatic action
   reference_ids:
   - REF-0098
-  - REF-0168
-  status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0098
-  - REF-0168
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
-  - REF-0168
   status: needs-review
 - condition: pain
   reference_ids:
   - REF-0098
-  - REF-0168
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0098
-  - REF-0168
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0098
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
   - REF-0098
-  - REF-0168
   status: needs-review
 - condition: urinary-support
   note: inferred from diuretic action
-  reference_ids:
-  - REF-0098
-  - REF-0168
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0098
 - condition: uti
   note: inferred from diuretic action
-  reference_ids:
-  - REF-0098
-  - REF-0168
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0098
 contraindications:
 - note: Generally safe as a food plant when young leaves are harvested. Contains furocoumarins (photosensitising
     compounds) - handling large quantities in bright sunlight may cause skin irritation. Individuals with
@@ -217,7 +202,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0098
-  - REF-0168
   - REF-0207
   - REF-2561
   status: verified
@@ -226,7 +210,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0098
-  - REF-0168
   - REF-0207
   - REF-0063
   status: verified
@@ -337,4 +320,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (young spring foliage/leaf-stalks before flowering, PFAF REF-3190, new; a divergent medicinal in-flower
   harvest is logged, not merged); root = gap (no phenological source found after searching Grieve, King''s,
   PFAF and a goutweed review - search-log stored in the entry). Existing harvesting.season not inherited.
-  Safety cross-links to the FATAL Apiaceae lookalikes, whose confusable stage is this same young foliage. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; the search log now records the Madaus herb-only Sammelzeit, Eat The Weeds (rhizomes not eaten) and the rejection of two foraging blogs whose root season is duplicated verbatim from an AI-generated encyclopedia page.'
+  Safety cross-links to the FATAL Apiaceae lookalikes, whose confusable stage is this same young foliage. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; the search log now records the Madaus herb-only Sammelzeit, Eat The Weeds (rhizomes not eaten) and the rejection of two foraging blogs whose root season is duplicated verbatim from an AI-generated encyclopedia page.
+  | 2026-11-10: symptom-source audit batch 1 - REF-0168 (Moerman, Native American Ethnobotany)
+  purged: the NAEB database has no Aegopodium record (searched naeb.brit.org 2026-11-10). Grieve
+  supports joint/gout/sciatic pain, ''swelling and inflammation'' (Gerard) only - removed from
+  headache, skin-irritation, urinary-support, uti.'

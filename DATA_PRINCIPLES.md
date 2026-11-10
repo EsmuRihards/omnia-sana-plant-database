@@ -1,5 +1,5 @@
-<!-- structure-fingerprint: 171e6f9468fb -->
-<!-- doc-version: 1.2  ·  last-updated: 2026-08-14 -->
+<!-- structure-fingerprint: 29bef9c48c68 -->
+<!-- doc-version: 1.4  ·  last-updated: 2026-11-10 -->
 
 # Omnia Sana — Data Principles (canonical, model-agnostic)
 
@@ -166,6 +166,24 @@ design — honor them and the redesign is safe; break one and it isn't:
    and the practice bands ("does this extraction reproduce on a bench?") **invert** and
    must never share a scale or a renderer. The practice feed deliberately never emits a
    key named `evidence`.
+7. **A study that finds no effect is never evidence.** If a trial or review of *this plant*
+   for *this condition* reports no effect, a non-significant result, or concludes efficacy is
+   uncertain / not demonstrated, it goes in the indication's `null_result_ids`, never in
+   `reference_ids`. It is never scored, never tagged with the condition, never shown as
+   support or as mechanistic evidence; the sources page lists it under "Studies that found
+   no effect". `validate.py` rejects a ref that is in both lists. Owner rule, 2026-11-10.
+8. **Only systematic reviews score as reviews.** `systematic-review` / `meta-analysis` mean a
+   reproducible search + inclusion method (PRISMA, Cochrane, pooled analysis). Anything else
+   is `narrative-review`: base 2, like preclinical, and never counted as human evidence.
+9. **A source must name the symptom it is shown under.** A general review, monograph or
+   herbal counts for a condition only where its text (abstract, or verifiable full text)
+   names that condition, a listed synonym, or a close pharmacological equivalent
+   (anxiolytic → anxiety/nervous tension, sedative/hypnotic → insomnia, antidepressant →
+   depression, antipyretic/diaphoretic → fever, carminative/flatulence → bloating,
+   analgesic/antinociceptive → pain). Vague phrases ("gastrointestinal disorders",
+   "oxidative stress", "neuroprotective") never count. An unverifiable source is dropped from
+   the pair. A pair left with no direct source keeps only valid mechanistic cards
+   (`needs-review`) or is removed.
 
 A precise "8/10" shown to a consumer implies more rigor than AI-assigned tags carry —
 treat the number as a claim that itself must be earned (see §10).
@@ -305,6 +323,17 @@ Name these plainly so no one mistakes green checks for safety:
 ---
 
 ## 10. Changelog
+
+- **v1.4 - 2026-11-10.** Symptom-tool re-audit (batches of 10 plants). Added the additive
+  indication field **`null_result_ids`** (no-effect studies; never scored, never condition-
+  tagged, excluded from the Mechanistic basis; absent = none) and the `study_type` value
+  **`narrative-review`** (tier `narrative`, base 2, not human evidence). 407 entries retagged
+  from systematic-review/meta-analysis/review to narrative-review (`docs/audits/2026-11-10-
+  symptom-audit/review_classes.tsv` + `narrative_reviews.txt`). `validate.py` rejects a ref in
+  both null_result_ids and reference_ids. `build.py` adds a `safety` cue (first sentence of a
+  `serious` contraindication) to each symptoms.json plant. Invariants 7-9 added. Consumers:
+  os-symptom-sources.php (no-effect section), os-monograph.php / os-cards.php / os-plant-pages.php
+  (narrative tier), os-sym.js (safety badge). Structural change -> fingerprint reconciled.
 
 - **v1.3 - 2026-10-13.** Symptom-source audit (all 188 plants, every symptom x source card).
   Added the additive indication field **`mechanistic_exclude_ids`** (action-level refs hidden

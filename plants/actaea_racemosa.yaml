@@ -142,12 +142,6 @@ actions:
   - REF-2831
   status: needs-review
 indications:
-- condition: anxiety
-  note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
-  reference_ids:
-  - REF-0670
-  - REF-0674
-  status: verified
 - condition: cancer
   note: Ethanolic black cohosh extract inhibits growth of MCF-7 and MDA-MB-231 breast cancer cells; actein
     induces apoptosis/G1 arrest, inhibits breast, colon and HepG2 liver cancer cell growth and synergizes
@@ -155,52 +149,44 @@ indications:
   reference_ids:
   - REF-2828
   - REF-2829
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-2830
   - REF-2831
-  status: needs-review
-- condition: depression
-  note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
-  reference_ids:
-  - REF-0670
-  - REF-0674
-  status: verified
 - condition: hot-flashes
   note: Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis
     supports benefit, though an earlier systematic review judged the evidence inconsistent)
   reference_ids:
   - REF-0670
-  - REF-0623
-  - REF-0671
-  - REF-0672
-  - REF-0673
   - REF-2397
   - REF-2399
-  - REF-2400
-  - REF-2589
   status: verified
+  null_result_ids:
+  - REF-0623
+  - REF-0672
+  - REF-0673
 - condition: menopause
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood);
     Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis
     supports benefit, though an earlier systematic review judged the evidence inconsistent)
   reference_ids:
   - REF-0670
-  - REF-0623
-  - REF-0671
-  - REF-0672
-  - REF-0673
   - REF-0674
   - REF-2397
   - REF-2398
   - REF-2399
-  - REF-2400
   - REF-2401
   - REF-2589
   status: verified
+  null_result_ids:
+  - REF-0623
+  - REF-0672
+  - REF-0673
 contraindications:
 - note: Rare reports of liver injury have prompted a precaution; large meta-analytic data found no evidence
     of hepatotoxicity, but stop use and seek advice if signs of liver problems occur (jaundice, dark urine,
     upper-abdominal pain).
-  severity: serious
+  severity: caution
   reference_ids:
   - REF-0670
   status: verified
@@ -314,4 +300,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   and root (verified, basis both) - the whole rootstock is dug in autumn after fruiting as the foliage dies
   back, when roots are at peak weight and constituents, sourced to King''s American Dispensatory (REF-3187,
   new) and NC State Extension (REF-3188, new). Existing harvesting.season not inherited; signal re-derived.
-  Safety cross-link to the toxic baneberry (Actaea pachypoda) lookalike.'
+  Safety cross-link to the toxic baneberry (Actaea pachypoda) lookalike.
+  | 2026-11-10: symptom-source audit batch 1 - anxiety + depression dropped: REF-0674 found NO
+  significant effect of black cohosh on anxiety; REF-0670 covers only psychological menopausal
+  symptoms (menopause indication keeps both). Null RCT/SR REF-0623, REF-0672, REF-0673 moved to
+  null_result_ids (never evidence). REF-0671 purged (3-ingredient product). REF-2400 removed
+  (reporting-quality review, not efficacy). REF-2830/2831 removed from cancer (rat liver
+  transcriptomics, not cancer studies).'

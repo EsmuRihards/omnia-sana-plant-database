@@ -194,14 +194,19 @@ def display_title(f, key):
 # un-annotated entry can never crash the build (the backfill assigns study_type to
 # every entry). Used by the website to label + order source cards by strength and
 # by the evidence scorer below. Ordered strongest -> weakest:
-#   review > rct > clinical > preclinical > traditional.
-TIER_RANK = {"review": 0, "rct": 1, "clinical": 2, "preclinical": 3, "traditional": 4}
+#   review > rct > clinical > narrative > preclinical > traditional.
+# `review` means a SYSTEMATIC review or meta-analysis only. A narrative
+# (non-systematic) review is its own tier, `narrative`: it summarises other work
+# without a reproducible method, so it scores like preclinical evidence (2) and is
+# never counted as human evidence. Owner decision, 2026-11-10.
+TIER_RANK = {"review": 0, "rct": 1, "clinical": 2, "narrative": 3, "preclinical": 4, "traditional": 5}
 
 # Canonical study_type values stored in bibliography.bibtex -> tier.
 STUDY_TYPE_TIER = {
     "systematic-review": "review",
     "meta-analysis": "review",
     "review": "review",
+    "narrative-review": "narrative",
     "rct": "rct",
     "clinical": "clinical",
     "preclinical": "preclinical",
@@ -252,11 +257,12 @@ def classify_tier(f, etype):
 #   review        7      |     >=5 -> +3
 #   rct           5      |     3-4 -> +2
 #   clinical      3      |       2 -> +1
-#   preclinical   2      |      <2 -> +0
+#   narrative     2      |      <2 -> +0
+#   preclinical   2      |
 #   traditional   1      |
 # e.g. 1 RCT = 5; 3 RCTs = 7; a meta-analysis backed by >=5 human trials = 10;
 #      any number of preclinical-only sources = 2; traditional-only = 1.
-TIER_BASE = {"review": 7, "rct": 5, "clinical": 3, "preclinical": 2, "traditional": 1}
+TIER_BASE = {"review": 7, "rct": 5, "clinical": 3, "narrative": 2, "preclinical": 2, "traditional": 1}
 HUMAN_TIERS = {"review", "rct", "clinical"}
 
 
@@ -517,6 +523,10 @@ def main():
             lbl = conditions.get(i["condition"], {}).get("label", i["condition"])
             for r in i.get("reference_ids", []):
                 add(r, p, "condition", lbl)
+            # A no-effect study is linked to the plant but never tagged with the
+            # condition: the Knowledge Finder must not present it as evidence FOR it.
+            for r in i.get("null_result_ids", []):
+                add(r, p, "other")
         for c in p.get("constituents", []):
             for r in c.get("reference_ids", []):
                 add(r, p, "other")
@@ -618,7 +628,23 @@ def main():
             continue
         keep.sort(key=lambda t: (-t[1],
                                  conditions.get(t[0]["condition"], {}).get("label", t[0]["condition"]).lower()))
+        # Safety cue for the Symptom tool (owner decision 2026-11-10): a plant whose
+        # record carries a `serious` contraindication gets a warning badge on its
+        # result card. Ranking is unchanged. Absent key = no serious warning.
+        _serious = [c for c in p.get("contraindications", [])
+                    if (c.get("severity") or "").lower() == "serious" and c.get("note")]
+        _safety = {}
+        if _serious:
+            # Drop editorial preambles ("SERIOUS:", "Big headline:", "Safety notes (...)
+            # Important:"), then take the first sentence. A period after a lone capital
+            # ("C. verum") is an abbreviation, not a sentence end.
+            _n = re.sub(r"^Safety notes \([^)]*\)\s*", "", _serious[0]["note"].strip())
+            _n = re.sub(r"^(SERIOUS|Big headline|Important)\s*:\s*", "", _n, flags=re.I)
+            _m = re.match(r"(.+?[a-z0-9)\]][.!?])(\s|$)", _n)
+            _s = _m.group(1) if _m else _n
+            _safety = {"safety": {"severity": "serious", "note": _s[:1].upper() + _s[1:]}}
         sym_plants.append({
+            **_safety,
             "name": (p.get("common_names") or [p["scientific_name"]])[0],
             "scientific": p["scientific_name"],
             "id": p.get("id"),

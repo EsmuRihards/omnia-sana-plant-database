@@ -202,39 +202,16 @@ actions:
   - REF-0683
   status: verified
 indications:
-- condition: appetite-loss
-  note: inferred from bitter-tonic action
-  reference_ids:
-  - REF-0387
-  - REF-0681
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0684
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0386
   - REF-0387
   - REF-0680
   - REF-0681
   - REF-0683
-  status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0387
-  - REF-0681
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0684
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-0386
-  - REF-0681
-  - REF-0682
-  - REF-0683
-  status: needs-review
 - condition: cancer
   note: Agrimonia eupatoria ethanolic extract shows dose-dependent cytotoxicity against MCF-7 (breast),
     HT-29 (colon), A549 (lung) and HeLa (cervical) cancer cells and inhibits the PI3K/Akt/mTOR/COX-2/MMP-2
@@ -247,15 +224,16 @@ indications:
   reference_ids:
   - REF-0386
   - REF-0387
-  - REF-0681
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0681
 - condition: indigestion
   note: Mild bitter digestive tonic (indigestion)
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0387
   - REF-0681
-  - REF-0684
-  status: verified
 - condition: inflammation
   note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat); Vulnerary
     (minor skin inflammation and small superficial wounds, topical)
@@ -263,35 +241,34 @@ indications:
   - REF-0386
   - REF-0387
   - REF-0681
-  - REF-0680
-  - REF-0682
-  - REF-0683
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0680
+  - REF-0683
 - condition: skin-irritation
   note: inferred from astringent action
   reference_ids:
   - REF-0386
   - REF-0387
-  - REF-0681
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0680
+  - REF-0681
 - condition: sore-throat
   note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)
   reference_ids:
   - REF-0386
   - REF-0387
-  - REF-0681
-  - REF-0683
   status: verified
 - condition: wounds
   note: Vulnerary (minor skin inflammation and small superficial wounds, topical)
   reference_ids:
   - REF-0386
-  - REF-0681
   - REF-0682
   - REF-0683
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0681
 contraindications:
 - note: 'Traditional-use indication only: if diarrhoea persists longer than 3-4 days, or symptoms of mouth/throat
     inflammation persist beyond about a week, a doctor should be consulted.'
@@ -352,4 +329,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (EMA
   campaign, Batch 2): added harvest_readiness for the aerial parts (provisional) - gather the flowering
   herb (the tall yellow flower-spikes with leaves) as it comes into flower, sourced to Ken Fern / Useful
   Temperate Plants (REF-3191, new). King''s and Grieve give the part but no harvest stage. Existing
-  harvesting.season not inherited; signal re-derived.'
+  harvesting.season not inherited; signal re-derived.
+  | 2026-11-10: symptom-source audit batch 1 - EU monograph REF-0386 covers mild diarrhoea,
+  mouth/throat inflammation, minor skin inflammation and superficial wounds only - removed from
+  arthritis/bruising. REF-0680 (neuropathic pain model) removed from arthritis/inflammation.
+  General refs that do not name the symptom removed; REF-0684 (gastric ulcer) kept as mechanistic
+  only.'

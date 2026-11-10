@@ -31,7 +31,7 @@
     "monograph_title": {"type": "string", "description": "e.g. 'Tinctures'. Note display_title() needs >=6 alphabetic characters in `title` or it falls back to the url host, so `title` should read e.g. 'Tinctures (Ph. Eur. monograph 1559)'."},
     "study_type": {
       "type": "string",
-      "enum": ["systematic-review", "meta-analysis", "review", "rct", "clinical", "preclinical", "traditional"],
+      "enum": ["systematic-review", "meta-analysis", "review", "narrative-review", "rct", "clinical", "preclinical", "traditional"],
       "description": "Evidence tier for CLINICAL claims, hand-set on every entry. THIS enum is the one scripts/build.py actually reads (STUDY_TYPE_TIER) and the one README.md documents. It replaces the former `evidence_type`, which was declared here, written to 0 of 3110 entries, and read by no script — the schema was wrong, not the code. A pharmacopoeial standard is correctly `traditional` here: it is authoritative about PRACTICE, not evidence that a plant treats a condition. Its normative weight is carried by the practice record's method_type: pharmacopoeial, NOT by a new value in this enum. Do not introduce a third source-typing vocabulary."
     },
     "corpus": {

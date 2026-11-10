@@ -144,19 +144,6 @@ actions:
   - REF-0113
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0113
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0685
-  - REF-2228
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-0113
-  status: needs-review
 - condition: cancer
   note: Alchemilla vulgaris extracts suppress the growth of MCF-7, A375, A549, HCT116 (aerial parts) and
     PC-3, MCF-7, Caco-2 (root) cancer cells via caspase-dependent apoptosis and autophagy, while protecting
@@ -170,28 +157,12 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0113
   - REF-0685
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2228
-- condition: menstrual-cramps
-  reference_ids:
   - REF-0113
-  status: verified
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0113
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0685
-  - REF-2228
-- condition: wounds
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-0113
-  status: needs-review
+  - REF-2227
 contraindications:
 - note: Generally considered very safe. One of the gentlest astringent herbs in European herbalism. No
     significant drug interactions. Tannin content means very high doses should be avoided in sensitive
@@ -262,4 +233,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   left unsourced at status draft rather than attached to a tangentially-related paper. | 2026-08-14
   (harvest-calendar campaign, Batch 2): added harvest_readiness for flower + leaf (provisional) - gather
   the whole herb when in flower and the leaves are at their best, sourced to Grieve, A Modern Herbal
-  (REF-3192, new). Existing harvesting.season not inherited; signal re-derived.'
+  (REF-3192, new). Existing harvesting.season not inherited; signal re-derived.
+  | 2026-11-10: symptom-source audit batch 1 - REF-0113 (Hoffmann, Medical Herbalism) removed from
+  every symptom: its text could not be verified (owner rule: unverifiable general source = drop).
+  Re-sourcing candidate: ESCOP monograph Alchemillae herba. REF-2227 (genus review, prose-only
+  attribution) excluded from Mechanistic basis.'

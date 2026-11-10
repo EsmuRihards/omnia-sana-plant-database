@@ -136,10 +136,6 @@ actions:
   reference_ids:
   - REF-2843
   - REF-2844
-  - REF-2845
-  - REF-2846
-  - REF-2847
-  - REF-2848
   status: needs-review
 - action: antimicrobial
   reference_ids:
@@ -166,10 +162,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2240
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids: []
-  status: needs-review
 - condition: cancer
   note: Aloe-emodin, an Aloe vera anthraquinone, induces apoptosis and inhibits growth of gastric, oral
     squamous, hepatocellular, lung (incl. xenograft) and glioblastoma cancer cells, modulating caspases,
@@ -177,14 +169,11 @@ indications:
   reference_ids:
   - REF-2843
   - REF-2844
-  - REF-2845
-  - REF-2846
-  - REF-2847
-  - REF-2848
   status: needs-review
 - condition: eczema
   note: inferred from emollient action
-  reference_ids: []
+  reference_ids:
+  - REF-2234
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
@@ -196,13 +185,18 @@ indications:
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids: []
+  reference_ids:
+  - REF-2234
+  - REF-2243
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2240
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids: []
+  reference_ids:
+  - REF-2241
+  - REF-2238
+  - REF-2243
   status: needs-review
 contraindications:
 - note: Topical use of aloe gel is generally safe for most people. Oral use of aloe latex as a laxative
@@ -321,4 +315,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   added harvest_readiness for the leaf (provisional) - cut the thick, fleshy, mature outer/lowest leaves
   as they reach full size on an established plant (maturity-based, not seasonal), sourced to Gardener''s
   Path (REF-3195, new). Safety cross-link to the Agave americana lookalike. Existing harvesting.season
-  not inherited.'
+  not inherited.
+  | 2026-11-10: symptom-source audit batch 1 - REF-2845/REF-2847 purged (aloe-emodin from Rheum),
+  REF-2846/REF-2848 purged (aloe-emodin, source species not named). Wound evidence moved to
+  direct: REF-2241 (SR of clinical trials), REF-2238, REF-2243; REF-2234 to eczema +
+  skin-irritation, REF-2243 to skin-irritation. bruising dropped (wound papers only).'

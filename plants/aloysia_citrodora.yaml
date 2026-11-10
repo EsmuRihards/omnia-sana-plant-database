@@ -180,7 +180,6 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0474
-  - REF-0692
   status: needs-review
 - condition: bloating
   note: Carminative digestive aid (indigestion, flatulence)
@@ -197,17 +196,13 @@ indications:
   - REF-2849
   - REF-2850
   status: needs-review
-- condition: indigestion
-  note: Carminative digestive aid (indigestion, flatulence)
-  reference_ids:
-  - REF-0474
-  status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0474
   - REF-0692
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0474
 - condition: insomnia
   note: Sedative / sleep support (insomnia)
   reference_ids:
@@ -220,7 +215,6 @@ indications:
     stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
     less soreness after exhaustive exercise
   reference_ids:
-  - REF-0474
   - REF-0620
   status: verified
 - condition: nervous-tension
@@ -230,17 +224,10 @@ indications:
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0474
-  - REF-0692
+  reference_ids: []
   status: needs-review
-- condition: stress
-  note: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
-    stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
-    less soreness after exhaustive exercise
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0474
-  status: verified
 contraindications:
 - note: Generally well tolerated; human safety and efficacy are not fully established. Its sedative effect
     can add to that of alcohol, sedatives and sleep medicines.
@@ -320,4 +307,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   tincture dead end. | 2026-08-14 (harvest-calendar campaign, Batch 2): added harvest_readiness for the
   leaf (provisional, basis both) - harvest just before the tiny white flowers open, when leaf oil/citral
   peaks and before it falls at flowering, sourced to Nature and Garden (REF-3196, new). Existing
-  harvesting.season not inherited; signal re-derived.'
+  harvesting.season not inherited; signal re-derived.
+  | 2026-11-10: symptom-source audit batch 1 - REF-0474 (narrative review) kept only where its
+  abstract names the use (anxiolytic, rheumatism, flatulence, insomnia/sedative, anticancer);
+  removed from indigestion, inflammation, muscle-soreness, skin-irritation, stress. REF-0692 (in
+  vitro) kept as mechanistic only for arthritis/skin-irritation.'

@@ -241,8 +241,7 @@
      "note": "Preclinical antiproliferative activity of yarrow flavonoids and sesquiterpenoids (e.g. centaureidin, casticin) against human tumour cell lines.",
      "reference_ids": [
       "REF-0369",
-      "REF-2821",
-      "REF-2822"
+      "REF-2821"
      ],
      "status": "needs-review"
     },
@@ -353,10 +352,12 @@
      "condition": "appetite-loss",
      "note": "inferred from bitter-tonic action",
      "reference_ids": [
-      "REF-0369",
       "REF-0373"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0369"
+     ],
      "evidence": 1,
      "label": "Loss of appetite"
     },
@@ -364,12 +365,12 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0011",
       "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0296"
+      "REF-0296",
+      "REF-0011"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -378,39 +379,22 @@
      "condition": "bloating",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0369",
       "REF-0373"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2084"
+      "REF-2084",
+      "REF-0369"
      ],
      "evidence": 1,
      "label": "Bloating"
-    },
-    {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0011",
-      "REF-0098",
-      "REF-0369",
-      "REF-0372"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0296"
-     ],
-     "evidence": 1,
-     "label": "Bruising"
     },
     {
      "condition": "cancer",
      "note": "Antiproliferative activity of Achillea millefolium extracts and constituents (centaureidin, casticin) against HeLa, MCF-7 and A431 cancer cell lines (preclinical).",
      "reference_ids": [
       "REF-0369",
-      "REF-2821",
-      "REF-2822"
+      "REF-2821"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -420,32 +404,27 @@
      "condition": "cold",
      "note": "Diaphoretic (supports the body during colds and fevers)",
      "reference_ids": [
-      "REF-0369",
-      "REF-0373"
+      "REF-0373",
+      "REF-0098"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0369"
+     ],
      "evidence": 1,
      "label": "Cold & flu"
-    },
-    {
-     "condition": "diarrhea",
-     "note": "inferred from astringent action",
-     "reference_ids": [
-      "REF-0369",
-      "REF-0373"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Diarrhoea"
     },
     {
      "condition": "fever",
      "note": "Diaphoretic (supports the body during colds and fevers)",
      "reference_ids": [
-      "REF-0369",
-      "REF-0373"
+      "REF-0373",
+      "REF-0098"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0369"
+     ],
      "evidence": 1,
      "label": "Fever"
     },
@@ -453,13 +432,14 @@
      "condition": "heavy-bleeding",
      "note": "inferred from styptic action",
      "reference_ids": [
-      "REF-0369",
       "REF-0373",
-      "REF-0381"
+      "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2085"
+      "REF-2085",
+      "REF-0369",
+      "REF-0381"
      ],
      "evidence": 1,
      "label": "Heavy menstrual bleeding"
@@ -468,10 +448,12 @@
      "condition": "indigestion",
      "note": "inferred from bitter-tonic action",
      "reference_ids": [
-      "REF-0369",
       "REF-0373"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0369"
+     ],
      "evidence": 1,
      "label": "Indigestion"
     },
@@ -479,39 +461,39 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0011",
-      "REF-0098"
+      "REF-0011"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0296"
+      "REF-0296",
+      "REF-0098"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0011",
-      "REF-0098"
+      "REF-0369"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0296"
+      "REF-0296",
+      "REF-0011",
+      "REF-0098"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "menstrual-cramps",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0296",
       "REF-0011",
       "REF-0098"
-     ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0296"
      ],
      "evidence": 1,
      "label": "Menstrual cramps"
@@ -519,13 +501,12 @@
     {
      "condition": "muscle-spasm",
      "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0011",
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0296"
+      "REF-0296",
+      "REF-0011",
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Muscle spasm"
@@ -534,57 +515,15 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0011",
-      "REF-0098"
+      "REF-0011"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0296"
+      "REF-0296",
+      "REF-0098"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Skin irritation"
-    },
-    {
-     "condition": "swelling",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0011",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0296"
-     ],
-     "evidence": 1,
-     "label": "Swelling / fluid retention"
-    },
-    {
-     "condition": "urinary-support",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0011",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0296"
-     ],
-     "evidence": 1,
-     "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0011",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0296"
-     ],
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
     },
     {
      "condition": "wounds",
@@ -598,7 +537,7 @@
      "mechanistic_exclude_ids": [
       "REF-0296"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Wounds"
     }
    ],
@@ -747,7 +686,6 @@
      "note": "Characteristic aromatic constituents - but beta-asarone is the toxic, safety-limiting compound.",
      "reference_ids": [
       "REF-0515",
-      "REF-0516",
       "REF-2278"
      ]
     },
@@ -759,7 +697,6 @@
      ],
      "note": "Other aromatic and bioactive constituents of the rhizome.",
      "reference_ids": [
-      "REF-0516",
       "REF-2275"
      ]
     }
@@ -774,16 +711,12 @@
     "root": "Thick, branching, aromatic creeping rhizome",
     "fruit": "Rarely sets viable seed in temperate climates; propagates mainly by rhizome division",
     "flowering_period": "Late spring to summer",
-    "reference_ids": [
-     "REF-0516"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "habitat": {
     "text": "Grows in shallow water and wet mud at the margins of ponds, lakes, slow-moving rivers and marshes. Native to Asia and North America and long naturalised across Europe, where it was historically cultivated and traded for its aromatic rhizome.",
-    "reference_ids": [
-     "REF-0516"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvesting": {
@@ -792,9 +725,7 @@
      "Rhizome"
     ],
     "season": "Autumn to early spring",
-    "reference_ids": [
-     "REF-0516"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvest_readiness": [
@@ -817,28 +748,16 @@
    ],
    "traditional_uses": {
     "text": "Sweet flag rhizome is a classic aromatic bitter and nervine of Ayurvedic and East Asian traditional medicine, used for indigestion, bloating, flatulence and poor appetite, and as a nervine tonic for memory, concentration and mild nervous complaints.",
-    "reference_ids": [
-     "REF-0516"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
-   "preparations": [
-    {
-     "name": "Decoction",
-     "text": "Dried, peeled rhizome simmered in water as a bitter digestive and nervine decoction.",
-     "reference_ids": [
-      "REF-0516"
-     ],
-     "status": "verified"
-    }
-   ],
+   "preparations": [],
    "dosage": [
     {
      "name": "All preparations",
      "text": "Because beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies and its content varies widely between varieties, no general dose is given here; internal use should be restricted to properly characterised, beta-asarone-free preparations under professional guidance. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0515",
-      "REF-0516"
+      "REF-0515"
      ],
      "status": "draft"
     }
@@ -849,10 +768,7 @@
      "reference_ids": [
       "REF-2280",
       "REF-2823",
-      "REF-2824",
-      "REF-2825",
-      "REF-2826",
-      "REF-2827"
+      "REF-2826"
      ],
      "status": "needs-review",
      "note": "Rhizome extracts and the constituent beta-asarone show antiproliferative, pro-apoptotic, anti-invasive and chemosensitizing/chemopreventive activity across gastric, bladder and esophageal cancer models (preclinical)."
@@ -861,7 +777,6 @@
      "action": "anticonvulsant",
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
-      "REF-0516",
       "REF-0624",
       "REF-2278"
      ],
@@ -871,7 +786,6 @@
      "action": "antidepressant",
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
-      "REF-0516",
       "REF-0624",
       "REF-2277"
      ],
@@ -881,7 +795,6 @@
      "action": "anxiolytic",
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
-      "REF-0516",
       "REF-0624",
       "REF-2277"
      ],
@@ -890,16 +803,13 @@
     {
      "action": "bitter-tonic",
      "note": "Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)",
-     "reference_ids": [
-      "REF-0516"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     },
     {
      "action": "carminative",
      "note": "Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)",
      "reference_ids": [
-      "REF-0516",
       "REF-2274"
      ],
      "status": "needs-review"
@@ -908,7 +818,6 @@
      "action": "neuroprotective",
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
-      "REF-0516",
       "REF-0624",
       "REF-0716",
       "REF-2273",
@@ -921,36 +830,13 @@
     {
      "condition": "anxiety",
      "note": "inferred from anxiolytic action",
-     "reference_ids": [
-      "REF-0516",
-      "REF-0624"
-     ],
-     "status": "needs-review",
-     "evidence": 7,
-     "label": "Anxiety"
-    },
-    {
-     "condition": "appetite-loss",
-     "note": "Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)",
-     "reference_ids": [
-      "REF-0516"
-     ],
-     "status": "needs-review",
-     "evidence": 7,
-     "label": "Loss of appetite"
-    },
-    {
-     "condition": "bloating",
-     "note": "Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)",
-     "reference_ids": [
-      "REF-0516"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2274"
+      "REF-0624"
      ],
-     "evidence": 7,
-     "label": "Bloating"
+     "evidence": 1,
+     "label": "Anxiety"
     },
     {
      "condition": "cancer",
@@ -958,78 +844,68 @@
      "reference_ids": [
       "REF-2280",
       "REF-2823",
-      "REF-2824",
-      "REF-2825",
-      "REF-2826",
-      "REF-2827"
+      "REF-2826"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cognitive-function",
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
-      "REF-0516",
-      "REF-0624"
+      "REF-0716"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "mechanistic_exclude_ids": [
+      "REF-0624"
+     ],
+     "evidence": 2,
      "label": "Cognitive function"
     },
     {
      "condition": "depression",
      "note": "inferred from antidepressant action",
      "reference_ids": [
-      "REF-0516",
       "REF-0624"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Low mood / depression"
-    },
-    {
-     "condition": "indigestion",
-     "note": "Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)",
-     "reference_ids": [
-      "REF-0516"
-     ],
-     "status": "needs-review",
-     "evidence": 7,
-     "label": "Indigestion"
     },
     {
      "condition": "memory",
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
-      "REF-0516",
-      "REF-0624"
+      "REF-0716"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "mechanistic_exclude_ids": [
+      "REF-0624"
+     ],
+     "evidence": 2,
      "label": "Memory"
     },
     {
      "condition": "nervous-tension",
      "note": "inferred from anxiolytic action",
-     "reference_ids": [
-      "REF-0516",
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0624"
      ],
-     "status": "needs-review",
-     "evidence": 7,
+     "evidence": 1,
      "label": "Nervous tension"
     },
     {
      "condition": "stress",
      "note": "inferred from anxiolytic action",
-     "reference_ids": [
-      "REF-0516",
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0624"
      ],
-     "status": "needs-review",
-     "evidence": 7,
+     "evidence": 1,
      "label": "Stress"
     }
    ],
@@ -1038,8 +914,7 @@
      "note": "SERIOUS: beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies. Regulators have restricted internal use of asarone-containing Acorus calamus (the Asian high-beta-asarone varieties), and it is banned as a food additive in the USA. Avoid internal use except properly characterised beta-asarone-free preparations.",
      "severity": "serious",
      "reference_ids": [
-      "REF-0515",
-      "REF-0516"
+      "REF-0515"
      ],
      "status": "verified"
     },
@@ -1270,56 +1145,35 @@
    ],
    "indications": [
     {
-     "condition": "anxiety",
-     "note": "Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)",
-     "reference_ids": [
-      "REF-0670",
-      "REF-0674"
-     ],
-     "status": "verified",
-     "evidence": 8,
-     "label": "Anxiety"
-    },
-    {
      "condition": "cancer",
      "note": "Ethanolic black cohosh extract inhibits growth of MCF-7 and MDA-MB-231 breast cancer cells; actein induces apoptosis/G1 arrest, inhibits breast, colon and HepG2 liver cancer cell growth and synergizes with doxorubicin, 5-FU, paclitaxel and simvastatin (preclinical).",
      "reference_ids": [
       "REF-2828",
-      "REF-2829",
+      "REF-2829"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-2830",
       "REF-2831"
      ],
-     "status": "needs-review",
      "evidence": 2,
      "label": "Cancer (anticancer research)"
-    },
-    {
-     "condition": "depression",
-     "note": "Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)",
-     "reference_ids": [
-      "REF-0670",
-      "REF-0674"
-     ],
-     "status": "verified",
-     "evidence": 8,
-     "label": "Low mood / depression"
     },
     {
      "condition": "hot-flashes",
      "note": "Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis supports benefit, though an earlier systematic review judged the evidence inconsistent)",
      "reference_ids": [
       "REF-0670",
-      "REF-0623",
-      "REF-0671",
-      "REF-0672",
-      "REF-0673",
       "REF-2397",
-      "REF-2399",
-      "REF-2400",
-      "REF-2589"
+      "REF-2399"
      ],
      "status": "verified",
-     "evidence": 10,
+     "null_result_ids": [
+      "REF-0623",
+      "REF-0672",
+      "REF-0673"
+     ],
+     "evidence": 7,
      "label": "Hot flashes"
     },
     {
@@ -1327,27 +1181,27 @@
      "note": "Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood); Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis supports benefit, though an earlier systematic review judged the evidence inconsistent)",
      "reference_ids": [
       "REF-0670",
-      "REF-0623",
-      "REF-0671",
-      "REF-0672",
-      "REF-0673",
       "REF-0674",
       "REF-2397",
       "REF-2398",
       "REF-2399",
-      "REF-2400",
       "REF-2401",
       "REF-2589"
      ],
      "status": "verified",
-     "evidence": 10,
+     "null_result_ids": [
+      "REF-0623",
+      "REF-0672",
+      "REF-0673"
+     ],
+     "evidence": 9,
      "label": "Menopause"
     }
    ],
    "contraindications": [
     {
      "note": "Rare reports of liver injury have prompted a precaution; large meta-analytic data found no evidence of hepatotoxicity, but stop use and seek advice if signs of liver problems occur (jaundice, dark urine, upper-abdominal pain).",
-     "severity": "serious",
+     "severity": "caution",
      "reference_ids": [
       "REF-0670"
      ],
@@ -1573,8 +1427,7 @@
     {
      "action": "analgesic",
      "reference_ids": [
-      "REF-0098",
-      "REF-0168"
+      "REF-0098"
      ],
      "status": "verified"
     },
@@ -1582,7 +1435,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0098",
-      "REF-0168",
       "REF-0719",
       "REF-0721",
       "REF-1690"
@@ -1593,7 +1445,6 @@
      "action": "anti-rheumatic",
      "reference_ids": [
       "REF-0098",
-      "REF-0168",
       "REF-0719"
      ],
      "status": "verified"
@@ -1602,7 +1453,6 @@
      "action": "diuretic",
      "reference_ids": [
       "REF-0098",
-      "REF-0168",
       "REF-0719"
      ],
      "status": "verified"
@@ -1613,8 +1463,7 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0168"
+      "REF-0098"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -1624,30 +1473,17 @@
      "condition": "back-pain",
      "note": "inferred from anti-rheumatic action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0168"
+      "REF-0098"
      ],
      "status": "needs-review",
      "evidence": 1,
      "label": "Back pain"
     },
     {
-     "condition": "headache",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0168"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Headache"
-    },
-    {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0168"
+      "REF-0098"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -1656,8 +1492,7 @@
     {
      "condition": "pain",
      "reference_ids": [
-      "REF-0098",
-      "REF-0168"
+      "REF-0098"
      ],
      "status": "verified",
      "evidence": 1,
@@ -1666,11 +1501,11 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0168"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0098"
+     ],
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -1678,8 +1513,7 @@
      "condition": "swelling",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0168"
+      "REF-0098"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -1688,22 +1522,22 @@
     {
      "condition": "urinary-support",
      "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0168"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0098"
+     ],
      "evidence": 1,
      "label": "Urinary support"
     },
     {
      "condition": "uti",
      "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0168"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0098"
+     ],
      "evidence": 1,
      "label": "Urinary tract infection (UTI)"
     }
@@ -1714,7 +1548,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0098",
-      "REF-0168",
       "REF-0207",
       "REF-2561"
      ],
@@ -1725,7 +1558,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0098",
-      "REF-0168",
       "REF-0207",
       "REF-0063"
      ],
@@ -1978,9 +1810,6 @@
      "action": "anticancer",
      "reference_ids": [
       "REF-0471",
-      "REF-2832",
-      "REF-2833",
-      "REF-2834",
       "REF-2835"
      ],
      "status": "needs-review",
@@ -2001,13 +1830,12 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0590",
-      "REF-0676",
       "REF-2405"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2403"
+      "REF-2403",
+      "REF-0590"
      ],
      "evidence": 2,
      "label": "Arthritis / joint pain"
@@ -2017,9 +1845,6 @@
      "note": "Escin shows antiproliferative and pro-apoptotic activity and enhances chemotherapy/immunotherapy efficacy in breast (MCF-7), hepatocellular, lung and pancreatic cancer models; it modulates NF-kappaB, p53, p38 MAPK/ERK and PD-L1 (preclinical).",
      "reference_ids": [
       "REF-0471",
-      "REF-2832",
-      "REF-2833",
-      "REF-2834",
       "REF-2835"
      ],
      "status": "needs-review",
@@ -2029,11 +1854,12 @@
     {
      "condition": "hemorrhoids",
      "note": "Relief of haemorrhoid symptoms (venotonic)",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0590"
      ],
-     "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Haemorrhoids"
     },
     {
@@ -2053,7 +1879,6 @@
      "note": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins",
      "reference_ids": [
       "REF-0470",
-      "REF-0678",
       "REF-0679"
      ],
      "status": "verified",
@@ -2063,14 +1888,14 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0590"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2403"
+      "REF-2403",
+      "REF-0590",
+      "REF-2405"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
@@ -2078,7 +1903,6 @@
      "note": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins",
      "reference_ids": [
       "REF-0470",
-      "REF-0678",
       "REF-0679"
      ],
      "status": "verified",
@@ -2090,7 +1914,6 @@
      "note": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins",
      "reference_ids": [
       "REF-0470",
-      "REF-0678",
       "REF-0679",
       "REF-2406"
      ],
@@ -2407,59 +2230,19 @@
    ],
    "indications": [
     {
-     "condition": "appetite-loss",
-     "note": "inferred from bitter-tonic action",
-     "reference_ids": [
-      "REF-0387",
-      "REF-0681"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0684"
-     ],
-     "evidence": 2,
-     "label": "Loss of appetite"
-    },
-    {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0386",
       "REF-0387",
       "REF-0680",
       "REF-0681",
       "REF-0683"
      ],
-     "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0387",
-      "REF-0681"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0684"
-     ],
-     "evidence": 2,
-     "label": "Bloating"
-    },
-    {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0386",
-      "REF-0681",
-      "REF-0682",
-      "REF-0683"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Bruising"
     },
     {
      "condition": "cancer",
@@ -2476,23 +2259,25 @@
      "note": "Astringent (relief of mild diarrhoea)",
      "reference_ids": [
       "REF-0386",
-      "REF-0387",
-      "REF-0681"
+      "REF-0387"
      ],
      "status": "verified",
-     "evidence": 2,
+     "mechanistic_exclude_ids": [
+      "REF-0681"
+     ],
+     "evidence": 1,
      "label": "Diarrhoea"
     },
     {
      "condition": "indigestion",
      "note": "Mild bitter digestive tonic (indigestion)",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0387",
-      "REF-0681",
-      "REF-0684"
+      "REF-0681"
      ],
-     "status": "verified",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Indigestion"
     },
     {
@@ -2501,12 +2286,13 @@
      "reference_ids": [
       "REF-0386",
       "REF-0387",
-      "REF-0681",
-      "REF-0680",
-      "REF-0682",
-      "REF-0683"
+      "REF-0681"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0680",
+      "REF-0683"
+     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -2515,14 +2301,14 @@
      "note": "inferred from astringent action",
      "reference_ids": [
       "REF-0386",
-      "REF-0387",
-      "REF-0681"
+      "REF-0387"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0680"
+      "REF-0680",
+      "REF-0681"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
@@ -2530,12 +2316,10 @@
      "note": "Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)",
      "reference_ids": [
       "REF-0386",
-      "REF-0387",
-      "REF-0681",
-      "REF-0683"
+      "REF-0387"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Sore throat"
     },
     {
@@ -2543,11 +2327,13 @@
      "note": "Vulnerary (minor skin inflammation and small superficial wounds, topical)",
      "reference_ids": [
       "REF-0386",
-      "REF-0681",
       "REF-0682",
       "REF-0683"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0681"
+     ],
      "evidence": 2,
      "label": "Wounds"
     }
@@ -2769,30 +2555,6 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0685",
-      "REF-2228"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bruising"
-    },
-    {
      "condition": "cancer",
      "note": "Alchemilla vulgaris extracts suppress the growth of MCF-7, A375, A549, HCT116 (aerial parts) and PC-3, MCF-7, Caco-2 (root) cancer cells via caspase-dependent apoptosis and autophagy, while protecting normal cells (preclinical).",
      "reference_ids": [
@@ -2809,48 +2571,16 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0113",
       "REF-0685"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2228"
+      "REF-2228",
+      "REF-0113",
+      "REF-2227"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
-    },
-    {
-     "condition": "menstrual-cramps",
-     "reference_ids": [
-      "REF-0113"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0685",
-      "REF-2228"
-     ],
-     "evidence": 1,
-     "label": "Skin irritation"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -3171,15 +2901,14 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0166"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0127",
       "REF-0204",
       "REF-0312",
-      "REF-0648"
+      "REF-0648",
+      "REF-0166"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -3188,7 +2917,6 @@
      "condition": "blood-sugar",
      "note": "inferred from antidiabetic action",
      "reference_ids": [
-      "REF-0166",
       "REF-0648",
       "REF-2428"
      ],
@@ -3196,9 +2924,10 @@
      "mechanistic_exclude_ids": [
       "REF-0127",
       "REF-0204",
-      "REF-0312"
+      "REF-0312",
+      "REF-0166"
      ],
-     "evidence": 8,
+     "evidence": 7,
      "label": "Blood sugar / diabetes support"
     },
     {
@@ -3219,7 +2948,6 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0166",
       "REF-0204",
       "REF-0647",
       "REF-0648",
@@ -3235,13 +2963,13 @@
      "note": "inferred from immunomodulator action",
      "reference_ids": [
       "REF-0127",
-      "REF-0166",
       "REF-0204"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0312",
-      "REF-2428"
+      "REF-2428",
+      "REF-0166"
      ],
      "evidence": 8,
      "label": "Cold & flu"
@@ -3250,12 +2978,12 @@
      "condition": "immune-support",
      "reference_ids": [
       "REF-0127",
-      "REF-0166",
       "REF-0204"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0312"
+      "REF-0312",
+      "REF-0166"
      ],
      "evidence": 8,
      "label": "Immune support"
@@ -3265,13 +2993,13 @@
      "note": "inferred from antifungal action",
      "reference_ids": [
       "REF-0127",
-      "REF-0166",
       "REF-0204",
       "REF-0650"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0312"
+      "REF-0312",
+      "REF-0166"
      ],
      "evidence": 8,
      "label": "Infection (general)"
@@ -3280,14 +3008,14 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0166",
       "REF-0648"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0127",
       "REF-0204",
-      "REF-0312"
+      "REF-0312",
+      "REF-0166"
      ],
      "evidence": 7,
      "label": "Inflammation (general)"
@@ -3296,30 +3024,29 @@
      "condition": "metabolic-support",
      "note": "inferred from antidiabetic action",
      "reference_ids": [
-      "REF-0166",
-      "REF-0204",
       "REF-0648"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0127",
-      "REF-0312"
+      "REF-0312",
+      "REF-0166",
+      "REF-0204"
      ],
-     "evidence": 8,
+     "evidence": 7,
      "label": "Metabolic support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0166"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0127",
       "REF-0204",
       "REF-0312",
-      "REF-0648"
+      "REF-0648",
+      "REF-0166"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -3327,18 +3054,16 @@
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0166",
-      "REF-0650",
-      "REF-0651"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0127",
       "REF-0204",
-      "REF-0312"
+      "REF-0312",
+      "REF-0166",
+      "REF-0651"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Wounds"
     }
    ],
@@ -3702,11 +3427,7 @@
      "note": "Aloe vera and its anthraquinone aloe-emodin show dose-dependent antiproliferative and pro-apoptotic activity against multiple cancer types in vitro and in vivo (preclinical).",
      "reference_ids": [
       "REF-2843",
-      "REF-2844",
-      "REF-2845",
-      "REF-2846",
-      "REF-2847",
-      "REF-2848"
+      "REF-2844"
      ],
      "status": "needs-review"
     },
@@ -3751,23 +3472,11 @@
      "label": "Arthritis / joint pain"
     },
     {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bruising"
-    },
-    {
      "condition": "cancer",
      "note": "Aloe-emodin, an Aloe vera anthraquinone, induces apoptosis and inhibits growth of gastric, oral squamous, hepatocellular, lung (incl. xenograft) and glioblastoma cancer cells, modulating caspases, Bcl-2/Bax, PI3K/Akt and MEK/ERK signalling (preclinical).",
      "reference_ids": [
       "REF-2843",
-      "REF-2844",
-      "REF-2845",
-      "REF-2846",
-      "REF-2847",
-      "REF-2848"
+      "REF-2844"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -3776,9 +3485,11 @@
     {
      "condition": "eczema",
      "note": "inferred from emollient action",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-2234"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Eczema"
     },
     {
@@ -3800,20 +3511,27 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-2234",
+      "REF-2243"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2240"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-2241",
+      "REF-2238",
+      "REF-2243"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 8,
      "label": "Wounds"
     }
    ],
@@ -4109,18 +3827,17 @@
       "REF-0474"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Anxiety"
     },
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0474",
-      "REF-0692"
+      "REF-0474"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Arthritis / joint pain"
     },
     {
@@ -4130,7 +3847,7 @@
       "REF-0474"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Bloating"
     },
     {
@@ -4143,28 +3860,20 @@
       "REF-2850"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
-    },
-    {
-     "condition": "indigestion",
-     "note": "Carminative digestive aid (indigestion, flatulence)",
-     "reference_ids": [
-      "REF-0474"
-     ],
-     "status": "verified",
-     "evidence": 7,
-     "label": "Indigestion"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0474",
       "REF-0692"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "mechanistic_exclude_ids": [
+      "REF-0474"
+     ],
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -4176,18 +3885,17 @@
       "REF-0691"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 6,
      "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "muscle-soreness",
      "note": "Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and less soreness after exhaustive exercise",
      "reference_ids": [
-      "REF-0474",
       "REF-0620"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 5,
      "label": "Muscle soreness"
     },
     {
@@ -4197,29 +3905,19 @@
       "REF-0474"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Nervous tension"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0474",
-      "REF-0692"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 7,
-     "label": "Skin irritation"
-    },
-    {
-     "condition": "stress",
-     "note": "Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and less soreness after exhaustive exercise",
-     "reference_ids": [
+     "mechanistic_exclude_ids": [
       "REF-0474"
      ],
-     "status": "verified",
-     "evidence": 7,
-     "label": "Stress"
+     "evidence": 1,
+     "label": "Skin irritation"
     }
    ],
    "contraindications": [
@@ -4473,7 +4171,7 @@
       "REF-1369"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -4487,7 +4185,7 @@
       "REF-1368"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cough"
     },
     {
@@ -6496,7 +6194,7 @@
     },
     {
      "note": "Duke (2002) rates burdock as +++ and notes antibacterial, antimutagenic, antitumor, choleretic, diuretic, and prebiotic (bifidogenic) activities at the experimental level (score 1). The root is rich in inulin (a prebiotic fructooligosaccharide), which promotes growth of beneficial intestinal bacteria. Dose: 1–2 g dried root in tea three times daily, or 2–4 ml of tincture. Duke notes burdock's general safety, though it belongs to the Asteraceae family and can trigger reactions in sensitive individuals. It should be distinguished from belladonna and similar plants, which resemble it in early growth (Duke, 2002).",
-     "severity": "serious",
+     "severity": "info",
      "reference_ids": [
       "REF-0211",
       "REF-0309",
@@ -7240,7 +6938,7 @@
     },
     {
      "note": "Works best when the urine is alkaline; avoid taking with substances that acidify the urine. The hydroquinone released can be irritant/potentially hepatotoxic, so prolonged or repeated use must be avoided.",
-     "severity": "serious",
+     "severity": "caution",
      "reference_ids": [
       "REF-0405",
       "REF-0406",
@@ -10892,7 +10590,7 @@
     },
     {
      "note": "Duke (2002) rates borage as a single-plus herb (+) with predominantly folklore-level evidence. Borage seed oil is rich in gamma-linolenic acid (GLA) and has been used for inflammatory conditions such as arthritis and PMS, and for cardiovascular support; typical dose is one 300 mg softgel containing 24% GLA or 2-4 ml liquid leaf extract. Commission E does not approve borage for any indication, and the herb contains hepatotoxic and carcinogenic pyrrolizidine alkaloids, making long-term use inadvisable (Duke, 2002).",
-     "severity": "serious",
+     "severity": "info",
      "reference_ids": [
       "REF-0129",
       "REF-0212",
@@ -11150,7 +10848,7 @@
       "REF-2876"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -11869,7 +11567,7 @@
       "REF-1965"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -11962,7 +11660,7 @@
    "contraindications": [
     {
      "note": "Generally safe in moderate consumption. High caffeine intake may cause insomnia, anxiety, palpitations, or dependence. Large amounts of green tea extract supplements may be hepatotoxic (rare). May reduce iron absorption if consumed with meals. Avoid very high supplement doses during pregnancy.",
-     "severity": "serious",
+     "severity": "caution",
      "reference_ids": [
       "REF-0045",
       "REF-0061",
@@ -12219,7 +11917,7 @@
       "REF-2816"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -12237,7 +11935,7 @@
       "REF-2816"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Skin irritation"
     },
     {
@@ -12255,7 +11953,7 @@
       "REF-2816"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Sore throat"
     },
     {
@@ -12265,7 +11963,7 @@
       "REF-2816"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Respiratory support"
     }
    ],
@@ -12829,7 +12527,7 @@
      "mechanistic_exclude_ids": [
       "REF-1972"
      ],
-     "evidence": 8,
+     "evidence": 5,
      "label": "Heavy menstrual bleeding"
     },
     {
@@ -15857,7 +15555,7 @@
    "contraindications": [
     {
      "note": "True cinnamon (C. verum) is safe in culinary and moderate medicinal doses. Cassia (C. cassia) contains high coumarin - excessive intake may be hepatotoxic and should not be confused with true cinnamon. May lower blood sugar - use caution with antidiabetic medications. Avoid high doses during pregnancy.",
-     "severity": "serious",
+     "severity": "caution",
      "reference_ids": [
       "REF-0006",
       "REF-0101",
@@ -15867,7 +15565,7 @@
     },
     {
      "note": "Duke (2002) rates Ceylon cinnamon as +++ and provides clinical evidence (score 2) for antibacterial activity, consistent with Commission E and WHO recognition. Key activities include antifungal (anti-Candida), antispasmodic, and carminative effects. Cinnamon contains cinnamaldehyde, eugenol, and coumarin. Important safety concern: Duke's entry aggregates true cinnamon (C. verum) and cassia (C. cassia) - cassia contains significantly higher coumarin levels (potentially hepatotoxic) than true Ceylon cinnamon. True cinnamon (C. verum) has very low coumarin content and is safe at normal culinary doses. Medicinal dose: 0.5–1 g bark powder three times daily. Caution: cinnamon bark oil is highly irritating to mucous membranes (Duke, 2002).",
-     "severity": "serious",
+     "severity": "info",
      "reference_ids": [
       "REF-0006",
       "REF-0101",
@@ -18238,7 +17936,7 @@
       "REF-0005",
       "REF-0172"
      ],
-     "evidence": 8,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -20035,7 +19733,7 @@
       "REF-2711"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -20058,7 +19756,7 @@
       "REF-2712"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Urinary support"
     },
     {
@@ -20071,7 +19769,7 @@
      "mechanistic_exclude_ids": [
       "REF-2712"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Urinary tract infection (UTI)"
     },
     {
@@ -20084,7 +19782,7 @@
      "mechanistic_exclude_ids": [
       "REF-2712"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Swelling / fluid retention"
     },
     {
@@ -20104,7 +19802,7 @@
       "REF-2708"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Indigestion"
     },
     {
@@ -20114,7 +19812,7 @@
       "REF-2708"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Bloating"
     },
     {
@@ -20135,7 +19833,7 @@
       "REF-2710"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -21576,7 +21274,7 @@
       "REF-0506"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cognitive function"
     },
     {
@@ -21588,7 +21286,7 @@
       "REF-0587"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cold & flu"
     },
     {
@@ -21600,7 +21298,7 @@
       "REF-0587"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Fatigue / low energy"
     },
     {
@@ -21612,7 +21310,7 @@
       "REF-0587"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Immune support"
     },
     {
@@ -21644,7 +21342,7 @@
       "REF-0587"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Muscle soreness"
     },
     {
@@ -21656,7 +21354,7 @@
       "REF-0587"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Stress"
     }
    ],
@@ -26206,7 +25904,7 @@
       "REF-2045"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -26978,7 +26676,7 @@
       "REF-2768"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Diarrhoea"
     },
     {
@@ -28176,7 +27874,7 @@
       "REF-3059"
      ],
      "status": "needs-review",
-     "evidence": 9,
+     "evidence": 8,
      "label": "High cholesterol"
     }
    ],
@@ -30113,7 +29811,7 @@
       "REF-2319"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cardiovascular / heart health"
     },
     {
@@ -31308,7 +31006,7 @@
       "REF-1798"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Low mood / depression"
     }
    ],
@@ -35584,7 +35282,7 @@
       "REF-2222"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -36762,7 +36460,7 @@
       "REF-1183"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -38253,7 +37951,7 @@
      "mechanistic_exclude_ids": [
       "REF-0134"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
@@ -38776,7 +38474,7 @@
       "REF-0100",
       "REF-0163"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Headache"
     },
     {
@@ -39208,7 +38906,7 @@
       "REF-1221"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 6,
      "label": "Blood sugar / diabetes support"
     },
     {
@@ -39220,7 +38918,7 @@
       "REF-1222"
      ],
      "status": "needs-review",
-     "evidence": 9,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -39618,7 +39316,7 @@
       "REF-1426"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -39752,7 +39450,7 @@
    "contraindications": [
     {
      "note": "Generally safe in moderate amounts. High potassium content - use caution in renal disease. Rare cases of hepatotoxicity reported with excessive consumption. May interact with warfarin (due to vitamin K content). Avoid during pregnancy.",
-     "severity": "serious",
+     "severity": "caution",
      "reference_ids": [
       "REF-0110",
       "REF-0197",
@@ -40428,7 +40126,7 @@
       "REF-2071"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -40818,7 +40516,7 @@
       "REF-1436"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -41108,7 +40806,7 @@
       "REF-2587"
      ],
      "status": "needs-review",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Eczema"
     },
     {
@@ -41140,7 +40838,7 @@
       "REF-1463"
      ],
      "status": "needs-review",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Pain (general)"
     },
     {
@@ -43785,7 +43483,7 @@
       "REF-1475"
      ],
      "status": "needs-review",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Cognitive function"
     },
     {
@@ -43846,7 +43544,7 @@
       "REF-1474"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 5,
      "label": "Memory"
     },
     {
@@ -44498,7 +44196,7 @@
     },
     {
      "note": "Duke (2002) rates guarana as ++ and notes CNS-stimulant, anti-aggregant, diuretic, and thermogenic activities, primarily due to its high caffeine content (3–5%). It has positive chronotropic and inotropic effects on the heart. Duke flags guarana as genotoxic and mutagenic at the experimental level (score 1), which warrants caution with high-dose supplementation. Contraindicated in cardiovascular disease, anxiety disorders, peptic ulcers, and during pregnancy. Interactions include potentiation of other stimulants and anticoagulants (Duke, 2002).",
-     "severity": "serious",
+     "severity": "info",
      "reference_ids": [
       "REF-0009",
       "REF-0106",
@@ -44671,7 +44369,7 @@
       "REF-0576"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Bronchitis"
     },
     {
@@ -44681,7 +44379,7 @@
       "REF-0492"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cold & flu"
     },
     {
@@ -44701,7 +44399,7 @@
       "REF-0492"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
@@ -44712,7 +44410,7 @@
       "REF-0577"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Sinusitis"
     },
     {
@@ -44722,7 +44420,7 @@
       "REF-0492"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Sore throat"
     }
    ],
@@ -44962,7 +44660,7 @@
       "REF-1478"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Allergy / hay fever"
     },
     {
@@ -46484,7 +46182,7 @@
      "mechanistic_exclude_ids": [
       "REF-2462"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Insomnia / sleeplessness"
     }
    ],
@@ -47799,7 +47497,7 @@
      "mechanistic_exclude_ids": [
       "REF-0300"
      ],
-     "evidence": 8,
+     "evidence": 3,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -48501,7 +48199,7 @@
       "REF-0870"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Respiratory support"
     }
    ],
@@ -49029,7 +48727,7 @@
      "mechanistic_exclude_ids": [
       "REF-2878"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -49289,7 +48987,7 @@
       "REF-1512"
      ],
      "status": "needs-review",
-     "evidence": 10,
+     "evidence": 9,
      "label": "Prostate support"
     },
     {
@@ -49316,7 +49014,7 @@
       "REF-1510"
      ],
      "status": "needs-review",
-     "evidence": 10,
+     "evidence": 9,
      "label": "Urinary support"
     }
    ],
@@ -50723,7 +50421,7 @@
       "REF-1533"
      ],
      "status": "needs-review",
-     "evidence": 10,
+     "evidence": 9,
      "label": "Fatigue / low energy"
     },
     {
@@ -50752,7 +50450,7 @@
      "mechanistic_exclude_ids": [
       "REF-0055"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -50795,7 +50493,7 @@
      "mechanistic_exclude_ids": [
       "REF-0055"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Muscle soreness"
     },
     {
@@ -54249,7 +53947,7 @@
       "REF-1279"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Cognitive function"
     },
     {
@@ -54293,7 +53991,7 @@
       "REF-1279"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Memory"
     },
     {
@@ -54621,7 +54319,7 @@
       "REF-1289"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -54689,7 +54387,7 @@
      "mechanistic_exclude_ids": [
       "REF-0173"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -55604,7 +55302,7 @@
       "REF-0506"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cognitive function"
     },
     {
@@ -55629,7 +55327,7 @@
      "mechanistic_exclude_ids": [
       "REF-1883"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Fatigue / low energy"
     },
     {
@@ -55684,7 +55382,7 @@
      "mechanistic_exclude_ids": [
       "REF-1883"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Muscle soreness"
     },
     {
@@ -55710,7 +55408,7 @@
       "REF-0506"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Stress"
     }
    ],
@@ -56383,7 +56081,7 @@
     },
     {
      "note": "Buy from a reputable source: skullcap products have historically been adulterated with hepatotoxic germander (Teucrium), and the flavonoid content of commercial tinctures varies widely. Safety in pregnancy and breastfeeding is not established.",
-     "severity": "serious",
+     "severity": "caution",
      "reference_ids": [
       "REF-0510",
       "REF-0550"
@@ -56881,7 +56579,7 @@
       "REF-1900"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -57760,7 +57458,7 @@
       "REF-1048"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Urinary support"
     },
     {
@@ -58834,7 +58532,7 @@
    "contraindications": [
     {
      "note": "Big headline: Comfrey naturally contains pyrrolizidine alkaloids (PAs), which can seriously harm the liver if taken internally (Staiger, 2012; EMA, 2015). • Do not ingest comfrey (no teas, no internal tinctures, no capsules), because PA exposure from internal use is the main safety problem (Staiger, 2012; Bach et al., 1990). • Topical use only, short-term: EU herbal guidance describes comfrey root preparations for minor bruises and sprains in adults, and recommends limited duration (commonly up to about 10 days) (EMA, 2015; EMA/HMPC, 2024). • Do not apply to broken skin (open wounds, damaged/irritated skin) and avoid eyes/mucous membranes (EMA/HMPC, 2024). • Pregnancy & breastfeeding: best avoided (not enough safety margin for medicinal use) (EMA/HMPC, 2024). • Children/adolescents: not recommended for medicinal topical use in EU monograph context (EMA/HMPC, 2024). • If you have liver disease or take medicines that stress the liver, skip comfrey completely (risk management logic based on PA concern) (Staiger, 2012; EMA, 2015). • Skin reactions: mild rash/irritation can occur; stop if it irritates (Smith and Jacobson, 2011).",
-     "severity": "caution",
+     "severity": "serious",
      "reference_ids": [
       "REF-0074",
       "REF-0246",
@@ -58844,7 +58542,7 @@
     },
     {
      "note": "Duke (2002) classifies common comfrey (Symphytum officinale) with anti-inflammatory and wound-healing properties, supported by allantoin content (promotes cell proliferation). However, comfrey also contains hepatotoxic pyrrolizidine alkaloids. Internal use is no longer recommended, and Commission E approved only external use. Duke emphasizes that pyrrolizidine alkaloids are cumulative hepatotoxins associated with veno-occlusive disease, and prolonged or internal use is contraindicated (Duke, 2002).",
-     "severity": "serious",
+     "severity": "info",
      "reference_ids": [
       "REF-0074",
       "REF-0246",
@@ -60915,7 +60613,7 @@
       "REF-1092"
      ],
      "status": "verified",
-     "evidence": 10,
+     "evidence": 9,
      "label": "Cardiovascular / heart health"
     },
     {
@@ -62977,7 +62675,7 @@
       "REF-1108"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 5,
      "label": "High cholesterol"
     },
     {
@@ -63018,7 +62716,7 @@
       "REF-2896"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 2,
      "label": "Cognitive function"
     },
     {
@@ -63032,7 +62730,7 @@
      "mechanistic_exclude_ids": [
       "REF-2900"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Wounds"
     }
    ],
@@ -63529,7 +63227,7 @@
       "REF-2909",
       "REF-2943"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Wounds"
     },
     {
@@ -63881,7 +63579,7 @@
       "REF-1120"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -64292,7 +63990,7 @@
    "contraindications": [
     {
      "note": "Safety notes (contraindications, interactions, pregnancy/lactation notes, adverse effects, dose-duration cautions) Important: Coltsfoot naturally contains pyrrolizidine alkaloids (PAs)-plant chemicals that can damage the liver and may increase cancer risk with enough exposure (EMA, 2021; Kopp et al., 2020).",
-     "severity": "caution",
+     "severity": "serious",
      "reference_ids": [
       "REF-3070",
       "REF-0914",
@@ -64358,7 +64056,7 @@
     },
     {
      "note": "Duke (2002) provides clinical support (score 2) for coltsfoot's anti-inflammatory and expectorant effects, explaining its traditional use in bronchitis and coughs. However, the plant contains hepatotoxic pyrrolizidine alkaloids (PAs), and Duke notes a carcinogenic score (1) - a critical safety concern. Commission E has placed restrictions on coltsfoot use, recommending maximum internal use of 4–6 weeks per year and avoiding use in pregnancy, lactation, and in children under 12. Duke rates its overall safety as low (+) and emphasizes that preparations free of PAs are preferred (Duke, 2002).",
-     "severity": "serious",
+     "severity": "info",
      "reference_ids": [
       "REF-3070",
       "REF-0914",
@@ -64691,7 +64389,7 @@
       "REF-1330"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -64778,7 +64476,7 @@
      "mechanistic_exclude_ids": [
       "REF-0050"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Urinary support"
     },
     {
@@ -65021,7 +64719,7 @@
       "REF-1344"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Urinary support"
     },
     {
@@ -68265,7 +67963,7 @@
       "REF-2580"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Menopause"
     },
     {

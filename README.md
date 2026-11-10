@@ -156,8 +156,15 @@ score = clamp(base + bonus, 1, 10)
 | systematic-review     | 7    | ≥ 5                | +3    |
 | rct                   | 5    | 3–4                | +2    |
 | clinical (other human)| 3    | 2                  | +1    |
-| preclinical           | 2    | < 2                | +0    |
+| narrative-review      | 2    | < 2                | +0    |
+| preclinical           | 2    |                    |       |
 | traditional           | 1    |                    |       |
+
+`systematic-review`/`meta-analysis` require a reproducible method (PRISMA, Cochrane, pooled
+analysis); every other review is `narrative-review` (base 2, not human evidence). A study that
+found **no effect** for the plant and condition is never in `reference_ids`: it goes in the
+indication's `null_result_ids`, is never scored, and is listed on the sources page under
+"Studies that found no effect" (owner rule, 2026-11-10).
 
 Worked examples: one RCT = **5**; three RCTs = **7**; a meta-analysis backed by
 ≥5 human trials = **10**; any number of in-vitro/animal sources only = **2**;

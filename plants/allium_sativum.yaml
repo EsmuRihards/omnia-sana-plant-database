@@ -227,18 +227,17 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0166
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
   - REF-0204
   - REF-0312
   - REF-0648
+  - REF-0166
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0166
   - REF-0648
   - REF-2428
   status: needs-review
@@ -246,6 +245,7 @@ indications:
   - REF-0127
   - REF-0204
   - REF-0312
+  - REF-0166
 - condition: cancer
   note: Garlic and its organosulfur compounds show broad preclinical anticancer/chemopreventive activity
     (apoptosis, cell-cycle arrest, anti-invasion); in the randomized Shandong Intervention Trial, 7 years
@@ -261,7 +261,6 @@ indications:
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0166
   - REF-0204
   - REF-0647
   - REF-0648
@@ -272,71 +271,70 @@ indications:
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0127
-  - REF-0166
   - REF-0204
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0312
   - REF-2428
+  - REF-0166
 - condition: immune-support
   reference_ids:
   - REF-0127
-  - REF-0166
   - REF-0204
   status: verified
   mechanistic_exclude_ids:
   - REF-0312
+  - REF-0166
 - condition: infection
   note: inferred from antifungal action
   reference_ids:
   - REF-0127
-  - REF-0166
   - REF-0204
   - REF-0650
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0312
+  - REF-0166
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0166
   - REF-0648
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
   - REF-0204
   - REF-0312
+  - REF-0166
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0166
-  - REF-0204
   - REF-0648
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
   - REF-0312
+  - REF-0166
+  - REF-0204
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0166
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
   - REF-0204
   - REF-0312
   - REF-0648
+  - REF-0166
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0166
-  - REF-0650
-  - REF-0651
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
   - REF-0204
   - REF-0312
+  - REF-0166
+  - REF-0651
 contraindications:
 - note: 'Garlic is generally very safe at culinary and supplemental doses for most healthy adults. Raw
     garlic contains allicin (formed when crushed) at concentrations that can irritate the gastrointestinal
@@ -583,4 +581,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plump, skins papery), sourced to Cornell Cooperative Extension (REF-3193, new). Leaf and young sprouts
   (mapped to shoot) provisional at the green-garlic spring stage, sourced to Garden Betty (REF-3194, new).
   Root = gap (roots are trimmed off when the bulb is lifted; no separate harvest schedule). Existing
-  harvesting.season not inherited; signals re-derived. | 2026-08-15: root harvest_readiness filled (was gap): the root is lifted with the bulb when about half the leaves have browned, per UW-Madison Extension (REF-3372); no separate root phenophase exists.'
+  harvesting.season not inherited; signals re-derived. | 2026-08-15: root harvest_readiness filled (was gap): the root is lifted with the bulb when about half the leaves have browned, per UW-Madison Extension (REF-3372); no separate root phenophase exists.
+  | 2026-11-10: symptom-source audit batch 1 - REF-0166 (garlic + shallot review, abstract names
+  no condition) removed from all symptoms. REF-0204 removed from metabolic-support
+  (BP/cholesterol/immunity only). REF-0651 (allicin vapour vs lung pathogens) removed from wounds;
+  REF-0650 kept as mechanistic only.'

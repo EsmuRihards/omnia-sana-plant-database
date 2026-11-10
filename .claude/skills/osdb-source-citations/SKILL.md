@@ -49,7 +49,13 @@ For every candidate reference, in order. Stop at the first failure.
    action, this condition, this dose, this constituent? A paper that mentions the
    plant while studying something else is not a source for your claim.
 4. **Direction.** Does it *support* the claim, or did you skim an abstract that
-   reports a null result? Read the conclusion, not the title.
+   reports a null result? Read the conclusion, not the title. A study of this plant for
+   this condition that found no effect (or calls efficacy uncertain) is **never** evidence:
+   put it in the indication's `null_result_ids`, not `reference_ids` (owner rule 2026-11-10).
+   A review is `systematic-review`/`meta-analysis` only with a reproducible method (PRISMA,
+   Cochrane, pooled analysis); otherwise tag it `narrative-review`. A general source counts
+   for a symptom only where its text names that symptom, a synonym, or a close
+   pharmacological equivalent - see DATA_PRINCIPLES.md section 4, invariant 9.
 5. **Identity.** Capture DOI or PMID. An entry you cannot re-find is an entry
    nobody can audit.
 

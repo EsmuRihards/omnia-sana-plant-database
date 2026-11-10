@@ -254,41 +254,19 @@ actions:
   - REF-2410
   status: verified
 indications:
-- condition: acid-reflux
-  note: inferred from gastroprotective action
-  reference_ids:
-  - REF-0695
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0397
-  - REF-0696
 - condition: anxiety
   note: Anxiolytic / sedative (anxiety, nervous tension)
   reference_ids:
   - REF-0695
   status: verified
-- condition: appetite-loss
-  note: inferred from bitter-tonic action
-  reference_ids:
-  - REF-0695
-  status: needs-review
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0695
   - REF-0397
   - REF-0696
-  status: needs-review
-- condition: bloating
-  note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
-  reference_ids:
-  - REF-0695
-  status: verified
-- condition: bronchitis
-  note: inferred from expectorant action
-  reference_ids:
-  - REF-0695
-  status: needs-review
 - condition: cancer
   note: Angelica archangelica fruit tincture is antiproliferative against PANC-1 pancreatic cancer cells;
     its furanocoumarins imperatorin and xanthotoxin drive this activity and inhibit larynx cancer and
@@ -305,29 +283,6 @@ indications:
   mechanistic_exclude_ids:
   - REF-0696
   - REF-0697
-- condition: cold
-  note: Diaphoretic / expectorant support during colds
-  reference_ids:
-  - REF-0695
-  status: verified
-- condition: cough
-  note: inferred from expectorant action
-  reference_ids:
-  - REF-0695
-  status: needs-review
-- condition: fever
-  note: inferred from diaphoretic action
-  reference_ids:
-  - REF-0695
-  status: needs-review
-- condition: indigestion
-  note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
-  reference_ids:
-  - REF-0695
-  status: verified
-  mechanistic_exclude_ids:
-  - REF-0397
-  - REF-0696
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -337,40 +292,29 @@ indications:
   status: needs-review
 - condition: insomnia
   note: inferred from sedative action
-  reference_ids:
-  - REF-0695
-  status: needs-review
-- condition: memory
-  note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0695
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0696
-  - REF-0697
+  - REF-0695
 - condition: nervous-tension
   note: Anxiolytic / sedative (anxiety, nervous tension)
   reference_ids:
   - REF-0695
   status: verified
-- condition: respiratory-support
-  note: inferred from expectorant action
-  reference_ids:
-  - REF-0695
-  status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0695
-  - REF-0397
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0696
+  - REF-0695
+  - REF-0397
 - condition: stress
   note: inferred from anxiolytic action
-  reference_ids:
-  - REF-0695
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0695
 - condition: urinary-support
   note: Overactive bladder - a pilot RCT of an Angelica archangelica leaf extract reduced daytime voids
     and storage symptoms and improved quality of life, with near-significant benefit for nocturia
@@ -537,4 +481,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   for root/leaf/seed (provisional) - first-year root dug in autumn, whole herb cut in early summer (June),
   seed gathered when ripe; all sourced to Grieve, A Modern Herbal (REF-3202, new; Angelica archangelica
   confirmed). Strong safety cross-links to the FATAL Apiaceae lookalikes (poison hemlock, cowbane, hemlock
-  water-dropwort) and giant hogweed. Existing harvesting.season not inherited; signals re-derived.'
+  water-dropwort) and giant hogweed. Existing harvesting.season not inherited; signals re-derived.
+  | 2026-11-10: symptom-source audit batch 2 - REF-0695 (narrative review) names anti-anxiety,
+  cognition enhancer, antiviral, anti-inflammatory, gastroprotective activities only - kept for
+  anxiety, nervous-tension, cognitive-function, inflammation; removed from 14 other pairs.
+  REF-0397 (columbianetin) and REF-0696 (fibromyalgia model) removed from arthritis/skin.'

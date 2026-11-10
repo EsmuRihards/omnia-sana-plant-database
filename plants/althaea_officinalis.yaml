@@ -146,12 +146,6 @@ actions:
   - REF-1373
   status: needs-review
 indications:
-- condition: acid-reflux
-  note: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
-    mucilage)
-  reference_ids:
-  - REF-0481
-  status: verified
 - condition: cancer
   note: Althaea officinalis extract is chemoprotective against N-diethylnitrosamine-induced liver carcinogenesis,
     and marshmallow polysaccharides show documented anticancer activity (preclinical/chemopreventive).
@@ -173,25 +167,29 @@ indications:
 - condition: eczema
   note: inferred from emollient action
   reference_ids:
-  - REF-0482
   - REF-1373
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0482
 - condition: indigestion
   note: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
     mucilage)
   reference_ids:
   - REF-0481
+  - REF-0482
   status: verified
 - condition: skin-irritation
   note: Topical soothing for irritated skin
   reference_ids:
-  - REF-0482
-  - REF-1370
   - REF-1373
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0482
+  - REF-1370
 - condition: sore-throat
   reference_ids:
   - REF-0481
+  - REF-0482
   status: verified
 contraindications:
 - note: Very well tolerated. The mucilage can slow the absorption of other medicines, so take other drugs
@@ -242,4 +240,8 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   part of the cancer-condition campaign. | 2026-08-14 (harvest-calendar campaign, Batch 3): added
   harvest_readiness for the root (verified) - dig the fleshy, non-woody roots of two-year-old plants in
   autumn (or early spring), sourced to King''s American Dispensatory (REF-3197, new) and Useful Temperate
-  Plants (REF-3198, new). Existing harvesting.season not inherited; signal re-derived.'
+  Plants (REF-3198, new). Existing harvesting.season not inherited; signal re-derived.
+  | 2026-11-10: symptom-source audit batch 2 - EU (HMPC) + ESCOP monographs cover dry cough,
+  oral/pharyngeal irritation and mild gastric discomfort only: REF-0481 removed from acid-reflux,
+  REF-0482 (ESCOP) removed from eczema/skin-irritation and wired to sore-throat + indigestion.
+  REF-1370 (rat wound healing) removed from skin-irritation.'

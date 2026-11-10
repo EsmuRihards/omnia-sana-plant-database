@@ -1,4 +1,4 @@
-# Symptom-tool audit - batch 1 of 19 (2026-11-10)
+# Symptom-tool audit - batch 1 of 19 (2026-11-10) - FIXED & LIVE (osdb 6384c2a)
 
 Plants 1-10 by id: achillea-millefolium, acorus-calamus, actaea-racemosa, aegopodium-podagraria,
 aesculus-hippocastanum, agrimonia-eupatoria, alchemilla-vulgaris, allium-sativum, aloe-vera,

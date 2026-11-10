@@ -165,9 +165,7 @@ actions:
   reference_ids:
   - REF-0708
   - REF-2342
-  - REF-2858
   - REF-2859
-  - REF-2860
   - REF-2861
   status: needs-review
   note: Burdock (Arctium lappa) extracts and the lignan arctigenin inhibit proliferation and induce apoptosis
@@ -201,24 +199,23 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0309
-  - REF-0313
-  - REF-0705
-  - REF-0709
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0706
   - REF-2343
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
   - REF-0309
   - REF-0313
-  - REF-0706
+  - REF-0705
+  - REF-0709
+- condition: bloating
+  note: inferred from digestive action
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0707
+  - REF-0309
+  - REF-0313
 - condition: cancer
   note: Arctium lappa root reduces diet-induced preneoplastic colon lesions and suppresses melanoma progression;
     its lignan arctigenin induces apoptosis in colon (HT-29), breast (in vitro/in vivo), lung and gastric
@@ -226,49 +223,38 @@ indications:
   reference_ids:
   - REF-0708
   - REF-2342
-  - REF-2858
   - REF-2859
-  - REF-2860
   - REF-2861
-  status: needs-review
-- condition: eczema
-  note: inferred from emollient action
-  reference_ids:
-  - REF-0309
-  - REF-0313
-  - REF-0705
-  - REF-0709
   status: needs-review
 - condition: indigestion
   note: inferred from digestive action
-  reference_ids:
-  - REF-0309
-  - REF-0313
-  - REF-0706
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0707
+  - REF-0309
+  - REF-0313
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0309
-  - REF-0313
   - REF-0705
   - REF-0709
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0706
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
   - REF-0309
   - REF-0313
-  - REF-0705
-  - REF-0709
+- condition: skin-irritation
+  note: inferred from anti-inflammatory action
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0706
   - REF-2343
+  - REF-0309
+  - REF-0313
+  - REF-0705
+  - REF-0709
 contraindications:
 - note: Generally safe as a food plant. Allergic reactions are possible in those sensitive to Asteraceae.
     Avoid in pregnancy due to uterine-stimulating effects reported in animal studies. The burs (seed heads)
@@ -377,4 +363,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   harvest_readiness - root verified (first-year root dug in mid-summer, at the basal-rosette stage before
   it bolts; Useful Temperate Plants REF-3203 + Grieve REF-3204); seed provisional (ripe burs in summer,
   REF-3203); leaf gap (no harvest-timing source found). Safety cross-link to the FATAL deadly-nightshade
-  (Atropa belladonna) root confusion. Existing harvesting.season not inherited; signals re-derived. | 2026-08-15: leaf harvest_readiness filled (was gap) from Grieve REF-3204, with the caveat recorded in-entry that the source gives a month (July), not a phenophase; King''s, Felter, Herbal Reality and the NordGen manual gave no leaf stage.'
+  (Atropa belladonna) root confusion. Existing harvesting.season not inherited; signals re-derived. | 2026-08-15: leaf harvest_readiness filled (was gap) from Grieve REF-3204, with the caveat recorded in-entry that the source gives a month (July), not a phenophase; King''s, Felter, Herbal Reality and the NordGen manual gave no leaf stage.
+  | 2026-11-10: symptom-source audit batch 2 - REF-0309 (WHO monographs 2002: no burdock monograph
+  found in WHO vols 1-4) and REF-0313 (Xu 2008, could not be located) removed from every symptom
+  as unverifiable. REF-0705/REF-0709 kept only for inflammation (REF-0709 names contact dermatitis
+  as a SIDE EFFECT, not a use). REF-2858/2860 purged (arctigenin, species not named).'

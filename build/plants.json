@@ -4154,16 +4154,6 @@
    ],
    "indications": [
     {
-     "condition": "acid-reflux",
-     "note": "Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective mucilage)",
-     "reference_ids": [
-      "REF-0481"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Acid reflux"
-    },
-    {
      "condition": "cancer",
      "note": "Althaea officinalis extract is chemoprotective against N-diethylnitrosamine-induced liver carcinogenesis, and marshmallow polysaccharides show documented anticancer activity (preclinical/chemopreventive).",
      "reference_ids": [
@@ -4192,10 +4182,12 @@
      "condition": "eczema",
      "note": "inferred from emollient action",
      "reference_ids": [
-      "REF-0482",
       "REF-1373"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0482"
+     ],
      "evidence": 5,
      "label": "Eczema"
     },
@@ -4203,7 +4195,8 @@
      "condition": "indigestion",
      "note": "Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective mucilage)",
      "reference_ids": [
-      "REF-0481"
+      "REF-0481",
+      "REF-0482"
      ],
      "status": "verified",
      "evidence": 1,
@@ -4213,18 +4206,21 @@
      "condition": "skin-irritation",
      "note": "Topical soothing for irritated skin",
      "reference_ids": [
-      "REF-0482",
-      "REF-1370",
       "REF-1373"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0482",
+      "REF-1370"
+     ],
      "evidence": 5,
      "label": "Skin irritation"
     },
     {
      "condition": "sore-throat",
      "reference_ids": [
-      "REF-0481"
+      "REF-0481",
+      "REF-0482"
      ],
      "status": "verified",
      "evidence": 1,
@@ -4488,16 +4484,15 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0393",
-      "REF-0394"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1621",
-      "REF-1623"
+      "REF-1623",
+      "REF-0393",
+      "REF-0394"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
@@ -4521,29 +4516,31 @@
       "REF-0395"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Cold & flu"
     },
     {
      "condition": "fever",
      "note": "Antipyretic (fever)",
      "reference_ids": [
-      "REF-0394",
       "REF-0395"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Fever"
     },
     {
      "condition": "immune-support",
      "note": "Immunostimulant / immune support",
      "reference_ids": [
+      "REF-0395"
+     ],
+     "status": "verified",
+     "mechanistic_exclude_ids": [
       "REF-0393",
       "REF-0394"
      ],
-     "status": "verified",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Immune support"
     },
     {
@@ -4555,7 +4552,7 @@
       "REF-0395"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Infection (general)"
     },
     {
@@ -4563,53 +4560,52 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0393",
-      "REF-0394"
+      "REF-0395"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1621"
+      "REF-1621",
+      "REF-0394"
      ],
-     "evidence": 5,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0393",
-      "REF-0394"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1621",
-      "REF-1623"
+      "REF-1623",
+      "REF-0393",
+      "REF-0394"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "sore-throat",
      "reference_ids": [
       "REF-0392",
-      "REF-0395"
+      "REF-1615"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Sore throat"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0393",
-      "REF-0394"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1615",
-      "REF-1622"
+      "REF-1622",
+      "REF-0393",
+      "REF-0394"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Wounds"
     }
    ],
@@ -4825,9 +4821,9 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174",
-      "REF-0310",
+      "REF-3094",
       "REF-1392"
      ],
      "status": "verified"
@@ -4844,9 +4840,9 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174",
-      "REF-0310",
+      "REF-3094",
       "REF-1394",
       "REF-1396",
       "REF-1397"
@@ -4856,11 +4852,10 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0103",
-      "REF-0174",
-      "REF-0310",
-      "REF-1388",
       "REF-1391",
+      "REF-0174",
+      "REF-3094",
+      "REF-1388",
       "REF-1392",
       "REF-1395"
      ],
@@ -4869,18 +4864,18 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174",
-      "REF-0310"
+      "REF-3094"
      ],
      "status": "verified"
     },
     {
      "action": "diuretic",
      "reference_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174",
-      "REF-0310"
+      "REF-3094"
      ],
      "status": "verified"
     }
@@ -4889,13 +4884,12 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0310"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0103",
-      "REF-0174"
+      "REF-1391",
+      "REF-0174",
+      "REF-3094"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -4904,11 +4898,11 @@
      "condition": "bloating",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0310"
+      "REF-3094"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174"
      ],
      "evidence": 1,
@@ -4928,9 +4922,8 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0103",
-      "REF-0174",
-      "REF-0310"
+      "REF-1391",
+      "REF-0174"
      ],
      "status": "verified",
      "evidence": 8,
@@ -4940,11 +4933,11 @@
      "condition": "indigestion",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0310"
+      "REF-3094"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174"
      ],
      "evidence": 1,
@@ -4953,15 +4946,14 @@
     {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0310"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174",
       "REF-1396",
-      "REF-1397"
+      "REF-1397",
+      "REF-3094"
      ],
      "evidence": 1,
      "label": "Infection (general)"
@@ -4970,96 +4962,66 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0103",
-      "REF-0310"
+      "REF-3094"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0174"
      ],
-     "evidence": 5,
+     "null_result_ids": [
+      "REF-1391"
+     ],
+     "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "metabolic-support",
      "reference_ids": [
-      "REF-0103",
-      "REF-0174",
-      "REF-0310",
-      "REF-1391"
+      "REF-1391",
+      "REF-0174"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Metabolic support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0310"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0103",
-      "REF-0174"
+      "REF-1391",
+      "REF-0174",
+      "REF-3094"
      ],
      "evidence": 1,
      "label": "Skin irritation"
     },
     {
-     "condition": "swelling",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0310"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0103",
-      "REF-0174"
-     ],
-     "evidence": 1,
-     "label": "Swelling / fluid retention"
-    },
-    {
      "condition": "urinary-support",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0310"
+      "REF-3094"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174"
      ],
      "evidence": 1,
      "label": "Urinary support"
     },
     {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0310"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0103",
-      "REF-0174"
-     ],
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
-    },
-    {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0310"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174",
       "REF-1396",
-      "REF-1397"
+      "REF-1397",
+      "REF-3094"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -5070,10 +5032,10 @@
      "note": "Widely used as a food herb/spice; WHO monograph notes a “generally regarded as safe” status as a flavouring agent (World Health Organization, 2007). Allergic reactions (including oral itching, swelling, urticaria, vomiting/diarrhoea) are reported; avoid if you react to Apiaceae-family plants (World Health Organization, 2007; Egyptian Drug Authority, n.d.).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174",
       "REF-0210",
-      "REF-0310"
+      "REF-3094"
      ],
      "status": "verified"
     },
@@ -5081,10 +5043,10 @@
      "note": "Duke (2002) provides clinical evidence (score 2) for dill's antibacterial and antispasmodic activities, consistent with Commission E and PhEur approvals. Traditional uses include management of colic, dyspepsia, and flatulence. The plant is a well-documented lactagogue (promotes milk production) and has a mild hypotensive effect. Dose: 1–3 g seeds as tea three times daily. Dill is generally safe (++) with no known significant contraindications at culinary and medicinal doses (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0103",
+      "REF-1391",
       "REF-0174",
       "REF-0210",
-      "REF-0310",
+      "REF-3094",
       "REF-0063"
      ],
      "status": "verified"
@@ -5475,20 +5437,6 @@
    ],
    "indications": [
     {
-     "condition": "acid-reflux",
-     "note": "inferred from gastroprotective action",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0397",
-      "REF-0696"
-     ],
-     "evidence": 2,
-     "label": "Acid reflux"
-    },
-    {
      "condition": "anxiety",
      "note": "Anxiolytic / sedative (anxiety, nervous tension)",
      "reference_ids": [
@@ -5499,46 +5447,17 @@
      "label": "Anxiety"
     },
     {
-     "condition": "appetite-loss",
-     "note": "inferred from bitter-tonic action",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Loss of appetite"
-    },
-    {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0695",
       "REF-0397",
       "REF-0696"
      ],
-     "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "bloating",
-     "note": "Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "verified",
-     "evidence": 2,
-     "label": "Bloating"
-    },
-    {
-     "condition": "bronchitis",
-     "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Bronchitis"
     },
     {
      "condition": "cancer",
@@ -5566,50 +5485,6 @@
      "label": "Cognitive function"
     },
     {
-     "condition": "cold",
-     "note": "Diaphoretic / expectorant support during colds",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "verified",
-     "evidence": 2,
-     "label": "Cold & flu"
-    },
-    {
-     "condition": "cough",
-     "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Cough"
-    },
-    {
-     "condition": "fever",
-     "note": "inferred from diaphoretic action",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Fever"
-    },
-    {
-     "condition": "indigestion",
-     "note": "Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0397",
-      "REF-0696"
-     ],
-     "evidence": 2,
-     "label": "Indigestion"
-    },
-    {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
@@ -5624,26 +5499,13 @@
     {
      "condition": "insomnia",
      "note": "inferred from sedative action",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Insomnia / sleeplessness"
-    },
-    {
-     "condition": "memory",
-     "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0695"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0696",
-      "REF-0697"
+      "REF-0695"
      ],
-     "evidence": 2,
-     "label": "Memory"
+     "evidence": 1,
+     "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "nervous-tension",
@@ -5656,37 +5518,27 @@
      "label": "Nervous tension"
     },
     {
-     "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0695"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Respiratory support"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0696",
       "REF-0695",
       "REF-0397"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0696"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "stress",
      "note": "inferred from anxiolytic action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0695"
      ],
-     "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Stress"
     },
     {
@@ -6028,9 +5880,7 @@
      "reference_ids": [
       "REF-0708",
       "REF-2342",
-      "REF-2858",
       "REF-2859",
-      "REF-2860",
       "REF-2861"
      ],
      "status": "needs-review",
@@ -6075,33 +5925,30 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0706",
+      "REF-2343",
       "REF-0309",
       "REF-0313",
       "REF-0705",
       "REF-0709"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0706",
-      "REF-2343"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "bloating",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0309",
-      "REF-0313",
-      "REF-0706"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0707"
+      "REF-0707",
+      "REF-0309",
+      "REF-0313"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Bloating"
     },
     {
@@ -6110,9 +5957,7 @@
      "reference_ids": [
       "REF-0708",
       "REF-2342",
-      "REF-2858",
       "REF-2859",
-      "REF-2860",
       "REF-2861"
      ],
      "status": "needs-review",
@@ -6120,45 +5965,30 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "eczema",
-     "note": "inferred from emollient action",
-     "reference_ids": [
-      "REF-0309",
-      "REF-0313",
-      "REF-0705",
-      "REF-0709"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Eczema"
-    },
-    {
      "condition": "indigestion",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0309",
-      "REF-0313",
-      "REF-0706"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0707"
+      "REF-0707",
+      "REF-0309",
+      "REF-0313"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Indigestion"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0309",
-      "REF-0313",
       "REF-0705",
       "REF-0709"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0706"
+      "REF-0706",
+      "REF-0309",
+      "REF-0313"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -6166,18 +5996,17 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0706",
+      "REF-2343",
       "REF-0309",
       "REF-0313",
       "REF-0705",
       "REF-0709"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0706",
-      "REF-2343"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
     }
    ],
@@ -6273,10 +6102,7 @@
       "inulin"
      ],
      "note": "The major storage carbohydrate; a prebiotic fibre.",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ]
+     "reference_ids": []
     },
     {
      "name": "Lignans (arctigenin, arctiin)",
@@ -6285,9 +6111,7 @@
       "lignan"
      ],
      "note": "Anti-inflammatory and antioxidant constituents.",
-     "reference_ids": [
-      "REF-0476"
-     ]
+     "reference_ids": []
     },
     {
      "name": "Polyphenolic acids (caffeic, chlorogenic), polyacetylenes and tannins",
@@ -6297,9 +6121,7 @@
       "tannin"
      ],
      "note": "Antimicrobial and antioxidant constituents.",
-     "reference_ids": [
-      "REF-0477"
-     ]
+     "reference_ids": []
     }
    ],
    "botanical_description": {
@@ -6312,16 +6134,12 @@
     "root": "Long, fleshy first-year taproot ('wild rhubarb')",
     "fruit": "Bristly, hooked burr enclosing small achenes",
     "flowering_period": "July-September (second year)",
-    "reference_ids": [
-     "REF-0476"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "habitat": {
     "text": "A common weed of waste ground, roadsides, hedgerows and disturbed soil; native to Europe and widely naturalised in North America, where it is often the most common wild burdock species.",
-    "reference_ids": [
-     "REF-0476"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvesting": {
@@ -6330,9 +6148,7 @@
      "Root (and leaf)"
     ],
     "season": "End of year one or start of year two, before flowering",
-    "reference_ids": [
-     "REF-0476"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvest_readiness": [
@@ -6371,46 +6187,22 @@
    ],
    "traditional_uses": {
     "text": "Lesser burdock is used interchangeably with the better-studied Arctium lappa in Western herbal medicine, as a traditional alterative/depurative for chronic skin conditions such as eczema, psoriasis and acne, and as a mild diuretic supporting elimination.",
-    "reference_ids": [
-     "REF-0476",
-     "REF-0477"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
-   "preparations": [
-    {
-     "name": "Decoction (root)",
-     "text": "Dried or fresh root simmered in water as a traditional alterative and skin-support decoction.",
-     "reference_ids": [
-      "REF-0476"
-     ],
-     "status": "verified"
-    },
-    {
-     "name": "Topical wash",
-     "text": "Cooled decoction used as a topical wash for eczema, acne and other skin irritation, reflecting the traditional external alterative use.",
-     "reference_ids": [
-      "REF-0476"
-     ],
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
    "dosage": [],
    "actions": [
     {
      "action": "alterative",
      "note": "Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and boils (internally and topically)",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory and antioxidant",
      "reference_ids": [
-      "REF-0476",
       "REF-1924",
       "REF-1925"
      ],
@@ -6430,7 +6222,6 @@
      "action": "antioxidant",
      "note": "Anti-inflammatory and antioxidant",
      "reference_ids": [
-      "REF-0476",
       "REF-1925",
       "REF-1926",
       "REF-1930"
@@ -6440,31 +6231,15 @@
     {
      "action": "diuretic",
      "note": "Mild diuretic supporting elimination ('detox', traditional)",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     }
    ],
    "indications": [
     {
-     "condition": "acne",
-     "note": "Sebaceous-gland regulator - helps balance skin oil (acne); Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and boils (internally and topically)",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Acne"
-    },
-    {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0476"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -6482,107 +6257,33 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "detox",
-     "note": "Mild diuretic supporting elimination ('detox', traditional); Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and boils (internally and topically)",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Detox / cleansing"
-    },
-    {
-     "condition": "eczema",
-     "note": "Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and boils (internally and topically)",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Eczema"
-    },
-    {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0476"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "psoriasis",
-     "note": "Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and boils (internally and topically)",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Psoriasis"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0476"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Skin irritation"
-    },
-    {
-     "condition": "swelling",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Swelling / fluid retention"
-    },
-    {
-     "condition": "urinary-support",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0476",
-      "REF-0477"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
     }
    ],
    "contraindications": [
     {
      "note": "As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive to ragweed and related plants. The high inulin content can cause temporary bloating or gas.",
      "severity": "info",
-     "reference_ids": [
-      "REF-0477"
-     ],
+     "reference_ids": [],
      "status": "verified"
     },
     {
      "note": "May lower blood sugar (caution with antidiabetic medicines) and add to diuretics; avoid medicinal doses in pregnancy.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0477"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     }
    ],
@@ -6785,7 +6486,6 @@
      "action": "anticancer",
      "note": "Arbutin, the hydroquinone glucoside characteristic of bearberry (Arctostaphylos uva-ursi), shows antiproliferative and pro-apoptotic activity across multiple cancer types (preclinical).",
      "reference_ids": [
-      "REF-2862",
       "REF-2863"
      ],
      "status": "needs-review"
@@ -6829,7 +6529,6 @@
      "condition": "cancer",
      "note": "The bearberry constituent arbutin suppresses osteosarcoma proliferation, migration and invasion via miR-338-3p/MTHFD1L and AKT/mTOR inactivation, and has documented anticancer potential against bladder, breast, colon, liver and other cancers (preclinical).",
      "reference_ids": [
-      "REF-2862",
       "REF-2863"
      ],
      "status": "needs-review",
@@ -6837,57 +6536,39 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "diarrhea",
-     "note": "inferred from astringent action",
-     "reference_ids": [
-      "REF-0405",
-      "REF-0407"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Diarrhoea"
-    },
-    {
      "condition": "infection",
      "note": "Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)",
      "reference_ids": [
       "REF-0405",
-      "REF-0700",
-      "REF-0701"
+      "REF-0407"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0406",
       "REF-2378"
      ],
-     "evidence": 6,
-     "label": "Infection (general)"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from astringent action",
-     "reference_ids": [
-      "REF-0405",
-      "REF-0407"
+     "null_result_ids": [
+      "REF-0700",
+      "REF-0701"
      ],
-     "status": "needs-review",
      "evidence": 1,
-     "label": "Skin irritation"
+     "label": "Infection (general)"
     },
     {
      "condition": "urinary-support",
      "note": "inferred from urinary-antiseptic action",
      "reference_ids": [
-      "REF-0405",
-      "REF-0700",
-      "REF-0701",
-      "REF-2376"
+      "REF-0405"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0406"
      ],
-     "evidence": 6,
+     "null_result_ids": [
+      "REF-0700",
+      "REF-0701"
+     ],
+     "evidence": 1,
      "label": "Urinary support"
     },
     {
@@ -6895,25 +6576,27 @@
      "note": "Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)",
      "reference_ids": [
       "REF-0405",
+      "REF-0407"
+     ],
+     "status": "verified",
+     "null_result_ids": [
       "REF-0700",
       "REF-0701"
      ],
-     "status": "verified",
-     "evidence": 6,
+     "evidence": 1,
      "label": "Urinary tract infection (UTI)"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0405"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0406",
       "REF-0700",
       "REF-0701",
-      "REF-2378"
+      "REF-2378",
+      "REF-0405"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -7143,9 +6826,7 @@
      "action": "analgesic",
      "note": "Topical analgesic for muscle soreness and pain",
      "reference_ids": [
-      "REF-0398",
-      "REF-0399",
-      "REF-2098"
+      "REF-0398"
      ],
      "status": "verified"
     },
@@ -7154,9 +6835,7 @@
      "note": "Topical anti-inflammatory for bruising, swelling and sprains",
      "reference_ids": [
       "REF-0398",
-      "REF-0399",
       "REF-0726",
-      "REF-2098",
       "REF-2099",
       "REF-2100",
       "REF-2101",
@@ -7198,8 +6877,7 @@
      "note": "Antiecchymotic / vulnerary (helps disperse bruises)",
      "reference_ids": [
       "REF-0398",
-      "REF-2102",
-      "REF-2103"
+      "REF-2102"
      ],
      "status": "verified"
     }
@@ -7209,39 +6887,28 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0398"
+      "REF-0726"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0399",
       "REF-2101",
-      "REF-2105"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "back-pain",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
+      "REF-2105",
       "REF-0398"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0399"
-     ],
-     "evidence": 1,
-     "label": "Back pain"
+     "evidence": 2,
+     "label": "Arthritis / joint pain"
     },
     {
      "condition": "bruising",
      "note": "Antiecchymotic / vulnerary (helps disperse bruises); Topical anti-inflammatory for bruising, swelling and sprains",
      "reference_ids": [
-      "REF-0398",
-      "REF-0399"
+      "REF-0726"
      ],
      "status": "verified",
-     "evidence": 7,
+     "mechanistic_exclude_ids": [
+      "REF-0398"
+     ],
+     "evidence": 2,
      "label": "Bruising"
     },
     {
@@ -7257,26 +6924,13 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "headache",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0398"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0399"
-     ],
-     "evidence": 1,
-     "label": "Headache"
-    },
-    {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
       "REF-0398"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
@@ -7284,68 +6938,35 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0398",
-      "REF-0399"
+      "REF-0726"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2105"
      ],
-     "evidence": 7,
+     "evidence": 2,
      "label": "Inflammation (general)"
-    },
-    {
-     "condition": "muscle-soreness",
-     "note": "Topical analgesic for muscle soreness and pain",
-     "reference_ids": [
-      "REF-0398"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Muscle soreness"
-    },
-    {
-     "condition": "pain",
-     "note": "Topical analgesic for muscle soreness and pain",
-     "reference_ids": [
-      "REF-0398",
-      "REF-0399"
-     ],
-     "status": "verified",
-     "evidence": 7,
-     "label": "Pain (general)"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0398"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0399",
-      "REF-2105"
+      "REF-2105",
+      "REF-0398"
      ],
      "evidence": 1,
      "label": "Skin irritation"
     },
     {
-     "condition": "swelling",
-     "note": "Topical anti-inflammatory for bruising, swelling and sprains",
-     "reference_ids": [
-      "REF-0398",
-      "REF-0399"
-     ],
-     "status": "verified",
-     "evidence": 7,
-     "label": "Swelling / fluid retention"
-    },
-    {
      "condition": "wounds",
      "note": "inferred from vulnerary action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0398"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Wounds"
     }
@@ -7380,8 +7001,7 @@
      "note": "Avoid medicinal use during pregnancy and breastfeeding.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0400",
-      "REF-0399"
+      "REF-0400"
      ],
      "status": "verified"
     }
@@ -7391,12 +7011,10 @@
     "REF-0726",
     "REF-0727",
     "REF-0398",
-    "REF-2098",
     "REF-2099",
     "REF-2100",
     "REF-2101",
     "REF-2102",
-    "REF-2103",
     "REF-2104",
     "REF-2105",
     "REF-2106"
@@ -7653,11 +7271,12 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0112"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0112",
+      "REF-0098"
+     ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
@@ -7665,21 +7284,24 @@
      "condition": "bloating",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0112"
+      "REF-0098"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0112"
+     ],
      "evidence": 1,
      "label": "Bloating"
     },
     {
      "condition": "blood-sugar",
      "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0112"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0112",
+      "REF-0098"
+     ],
      "evidence": 1,
      "label": "Blood sugar / diabetes support"
     },
@@ -7688,10 +7310,12 @@
      "note": "Artemisia absinthium (wormwood) total flavonoids (cynaroside, astragalin) inhibit HeLa cervical cancer cells via ROS-mediated apoptosis, and its terpenoid alpha,beta-thujone induces caspase-dependent apoptosis in choriocarcinoma cells and sensitizes them to paclitaxel (preclinical).",
      "reference_ids": [
       "REF-2866",
-      "REF-2867",
-      "REF-0728"
+      "REF-2867"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0728"
+     ],
      "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
@@ -7699,10 +7323,12 @@
      "condition": "indigestion",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0112"
+      "REF-0098"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0112"
+     ],
      "evidence": 1,
      "label": "Indigestion"
     },
@@ -7710,76 +7336,60 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0112"
+      "REF-0098"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0112"
+     ],
      "evidence": 1,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0112"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0112",
+      "REF-0098"
+     ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0112"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
      "condition": "metabolic-support",
      "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0112"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0112",
+      "REF-0098"
+     ],
      "evidence": 1,
      "label": "Metabolic support"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0112"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0112"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0112",
+      "REF-0098"
+     ],
      "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0112"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0112",
+      "REF-0098"
+     ],
      "evidence": 1,
      "label": "Wounds"
     }
@@ -8085,12 +7695,12 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0149"
+      "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0023"
+      "REF-0023",
+      "REF-0149"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -8098,13 +7708,12 @@
     {
      "condition": "bloating",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0149"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0023"
+      "REF-0023",
+      "REF-0149",
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Bloating"
@@ -8126,12 +7735,12 @@
      "condition": "indigestion",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0149"
+      "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0023"
+      "REF-0023",
+      "REF-0149"
      ],
      "evidence": 1,
      "label": "Indigestion"
@@ -8139,13 +7748,12 @@
     {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0149"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0023"
+      "REF-0023",
+      "REF-0149",
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Infection (general)"
@@ -8154,67 +7762,25 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0098",
-      "REF-0149"
+      "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0023"
+      "REF-0023",
+      "REF-0149"
      ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "insomnia",
-     "note": "inferred from sedative action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0149"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0023"
-     ],
-     "evidence": 1,
-     "label": "Insomnia / sleeplessness"
-    },
-    {
-     "condition": "menstrual-cramps",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0149"
-     ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0023"
-     ],
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0149"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0023"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0149"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0023"
+      "REF-0023",
+      "REF-0149",
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -8222,14 +7788,13 @@
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0149"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0023",
-      "REF-1937"
+      "REF-1937",
+      "REF-0149",
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Wounds"

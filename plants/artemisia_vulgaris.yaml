@@ -199,18 +199,18 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
-  - REF-0149
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0023
+  - REF-0149
 - condition: bloating
   note: inferred from digestive action
-  reference_ids:
-  - REF-0098
-  - REF-0149
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0023
+  - REF-0149
+  - REF-0098
 - condition: cancer
   note: Artemisia vulgaris (mugwort) extracts inhibit BCR/ABL and induce apoptosis in chronic myeloid
     leukaemia cells (including imatinib-resistant), and trigger tumour-selective ferroptosis/necroptosis
@@ -225,66 +225,43 @@ indications:
   note: inferred from digestive action
   reference_ids:
   - REF-0098
-  - REF-0149
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0023
+  - REF-0149
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0098
-  - REF-0149
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0023
+  - REF-0149
+  - REF-0098
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
-  - REF-0149
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0023
-- condition: insomnia
-  note: inferred from sedative action
-  reference_ids:
-  - REF-0098
   - REF-0149
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0023
-- condition: menstrual-cramps
-  reference_ids:
-  - REF-0098
-  - REF-0149
-  status: verified
-  mechanistic_exclude_ids:
-  - REF-0023
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0098
-  - REF-0149
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0023
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0098
-  - REF-0149
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0023
+  - REF-0149
+  - REF-0098
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0098
-  - REF-0149
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0023
   - REF-1937
+  - REF-0149
+  - REF-0098
 contraindications:
 - note: Contains thujone; avoid high doses or prolonged use. Contraindicated in pregnancy (uterine stimulant
     and abortifacient). May cause allergic reactions in individuals sensitive to the Asteraceae family.
@@ -397,4 +374,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   leaf/stem/root (verified) - the aerial parts are gathered when in flower (late summer) and the root dug
   in autumn as the top dies back, sourced to Grieve (REF-3210) and Useful Temperate Plants (REF-3209).
   Strong safety cross-link to the FATAL monkshood (Aconitum napellus) confusion. Existing harvesting.season
-  not inherited; signals re-derived.'
+  not inherited; signals re-derived.
+  | 2026-11-10: symptom-source audit batch 2 - REF-0149 (Kung & Ko 2002) could not be located -
+  removed as unverifiable. Grieve (Mugwort) supports stomach disorders, rheumatism (moxa) and
+  ''swellings of the tonsils''; emmenagogue/nervine are not menstrual cramps or insomnia - removed
+  from 7 pairs.'

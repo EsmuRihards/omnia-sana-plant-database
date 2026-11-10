@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3236,
+ "count": 3226,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -10918,7 +10918,7 @@
    "link_type": "doi",
    "citation": "Gonde, D.P., Bhole, B.K. and Kakad, K.S (2023) 'Andrographolide, diterpenoid constituent of Andrographis paniculata: Review on botany, phytochemistry, molecular docking analysis, and pharmacology', Annales Pharmaceutiques Francaises. doi:10.1016/j.pharma.2023.10.001",
    "abstract": "Andrographispaniculata (kalmegh) is also known as \"king of bitters\", is an herbaceous plant belongs to family Acanthaceae. The therapeutic effect is due to presence of diterpenoid lactone derivatives of A. paniculata mainly andrographolide. The main purpose of this review includes detailed (past and present) study of A. paniculata and its most important component andrographolide a diterpenoid lactone with respect to its botany, phytochemistry, molecular docking analysis and pharmacological effects i.e., therapeutic benefits. In reference to the search, we also compiled variety of dosage forms available, which are made up of A. paniculata extract and Andrographolide such as tablets and capsules. This review also discusses reported methods of extraction of phytoconstituents, pharmacokinetics of main components, their molecular docking analysis data and main therapeutic applications with their proposed mechanism of actions in various diseases. According to data collected, A. paniculata is becoming more and more valuable as a therapeutic herb.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -10940,14 +10940,7 @@
     "Antiviral",
     "Immunomodulator / immune support"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Fever",
-    "Immune support",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2851",
@@ -10963,7 +10956,7 @@
    "link_type": "doi",
    "citation": "Tundis, R. and Patra, J.K. and Bonesi, M. and Das, S. and Nath, R. and Das Talukdar, A. and Das, G. and Loizzo, M.R (2023) 'Anti-Cancer Agent: The Labdane Diterpenoid-Andrographolide', Plants, 12(10), pp. 1969. doi:10.3390/plants12101969",
    "abstract": "In spite of the progress in treatment strategies, cancer remains a major cause of death worldwide. Therefore, the main challenge should be the early diagnosis of cancer and the design of an optimal therapeutic strategy to increase the patient's life expectancy as well as the continuation of the search for increasingly active and selective molecules for the treatment of different forms of cancer. In the recent decades, research in the field of natural compounds has increasingly shifted towards advanced and molecular level understandings, thus leading to the development of potent anti-cancer agents. Among them is the diterpene lactone andrographolide, isolated from Andrographis paniculata (Burm.f.) Wall. ex Nees that showed shows a plethora of biological activities, including not only anti-cancer activity, but also anti-inflammatory, anti-viral, anti-bacterial, neuroprotective, hepatoprotective, hypoglycemic, and immunomodulatory properties. Andrographolide has been shown to act as an anti-tumor drug by affecting specific molecular targets that play a part in the development and progression of several cancer types including breast, lung, colon, renal, and cervical cancer, as well as leukemia and hepatocarcinoma. This review comprehensively and systematically summarized the current research on the potential anti-cancer properties of andrographolide highlighting its mechanisms of action, pharmacokinetics, and potential side effects and discussing the future perspectives, challenges, and limitations of use.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -11800,7 +11793,7 @@
    "link_type": "doi",
    "citation": "Schmidt, T.J (2023) 'Arnica montana L.: Doesn't Origin Matter?', Plants (Basel), 12(20), pp. 3532. doi:10.3390/plants12203532",
    "abstract": "Arnica montana L. (Asteraceae) has a long and successful tradition in Europe as herbal medicine. Arnica flowers (i.e., the flowerheads of Arnica montana ) are monographed in the European Pharmacopoeia (Ph. Eur.), and a European Union herbal monograph exists, in which its use as traditional herbal medicine is recommended. According to this monograph, Arnica flowers (Arnicae flos Ph. Eur.) and preparations thereof may be used topically to treat blunt injuries and traumas, inflammations and rheumatic muscle and joint complaints. The main bioactive constituents are sesquiterpene lactones (STLs) of the helenanolide type. Among these, a variety of esters of helenalin and 11α,13-dihydrohelenalin with low-molecular-weight carboxylic acids, namely, acetic, isobutyric, methacrylic, methylbutyric as well as tiglic acid, represent the main constituents, in addition to small amounts of the unesterified parent STLs. A plethora of reports exist on the pharmacological activities of these STLs, and it appears unquestioned that they represent the main active principles responsible for the herbal drug's efficacy. It has been known for a long time, however, that considerable differences in the STL pattern occur between A. montana flowers from plants growing in middle or Eastern Europe with some originating from the Iberic peninsula. In the former, Helenalin esters usually predominate, whereas the latter contains almost exclusively 11α,13-Dihydrohelenalin derivatives. Differences in pharmacological potency, on the other hand, have been reported for the two subtypes of Arnica-STLs in various instances. At the same time, it has been previously proposed that one should distinguish between two subspecies of A. montana , subsp. montana occurring mainly in Central and Eastern Europe and subsp. atlantica in the southwestern range of the species distribution, i.e., on the Iberian Peninsula. The question hence arises whether or not the geographic origin of Arnica montana flowers is of any relevance for the medicinal use of the herbal drug and the pharmaceutical quality, efficacy and safety of its products and whether the chemical/pharmacological differences should not be recognized in pharmacopoeia monographs. The present review attempts to answer these questions based on a summary of the current state of botanical, phytochemical and pharmacological evidence.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -11818,7 +11811,11 @@
    "actions": [
     "Anti-inflammatory"
    ],
-   "conditions": []
+   "conditions": [
+    "Arthritis / joint pain",
+    "Bruising",
+    "Inflammation (general)"
+   ]
   },
   {
    "ref_id": "REF-0730",
@@ -12138,7 +12135,7 @@
    "link_type": "doi",
    "citation": "Patel, D.K. and Patel, K (2023) 'Biological Potential and Pharmacological Activity of Columbianetin in Chronic Diseases', Drug Metabolism and Bioanalysis Letters. doi:10.2174/1872312815666230124154630",
    "abstract": "Background Herbal medicine is widely used in different systems of traditional and complementary medicine including. People believe that herbal medicines are safe and more cost-effective than other synthetic medicines. Herbal medicines are also used as a promising source of new drug discovery molecules in modern medicines. Coumarins are polyphenols class phytochemical that naturally occurs in higher plants and are used in medicine for the treatment of human disorders and associated secondary complications. Columbianetin is a coumarin class phytochemical found in Angelica archangelica L. Methods The aim of the present work is to review the medicinal importance and pharmacological activities of columbianetin and to provide a summary of the medicinal importance and pharmacological activities of columbianetin in medicine. Further scientific progress of columbianetin in the fields of Ethnopharmacology, Phytochemistry and Pharmacology has been analyzed and discussed in the present work. However, possible future research on columbianetin has been also discussed in the present work. Scientific information on columbianetin was collected from PubMed, Elsevier, Google, Google Scholar, and Europe PMC using herbal medicine, columbianetin and coumarin as important keywords. Other published books and journal data have also been included in the present work to know the therapeutic potential of columbianetin in medicine. Results Scientific data analysis of columbianetin signified the biological importance of phytochemicals belonging to the coumarins. Biological effectiveness of coumarins for their antioxidative, cytotoxic, and anti-inflammatory potential has been discussed in the research fields. Columbianetin has analgesic, antioxidative, anti-inflammatory, anti-proliferative, and anti-allergic activities in medicine. However, its biological effectiveness on neuroprotection, keratinocyte damage and platelet aggregation has also been discussed in the present work. Further tissue distribution of columbianetin in different biological tissue has been estimated through different analytical methods and scientific data are also presented in the present work. Conclusion The present work summarized the biological importance and pharmacological activities of columbianetin in medicine. Analytical methods developed for the quantitative and qualitative estimation of columbianetin have also been reviewed.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -12158,9 +12155,7 @@
     "Gastroprotective"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Inflammation (general)",
-    "Skin irritation"
+    "Inflammation (general)"
    ]
   },
   {
@@ -13789,7 +13784,9 @@
     "Antimicrobial",
     "Antiviral"
    ],
-   "conditions": []
+   "conditions": [
+    "Sore throat"
+   ]
   },
   {
    "ref_id": "REF-2531",
@@ -19151,75 +19148,6 @@
    ]
   },
   {
-   "ref_id": "REF-2862",
-   "key": "nahar2022arbutin",
-   "type": "article",
-   "title": "Arbutin: Occurrence in Plants, and Its Potential as an Anticancer Agent",
-   "authors": "Nahar, L. and Al-Groshi, A. and Kumar, A. and Sarker, S.D.",
-   "journal": "Molecules",
-   "year": "2022",
-   "doi": "10.3390/molecules27248786",
-   "url": "",
-   "link": "https://doi.org/10.3390/molecules27248786",
-   "link_type": "doi",
-   "citation": "Nahar, L. and Al-Groshi, A. and Kumar, A. and Sarker, S.D (2022) 'Arbutin: Occurrence in Plants, and Its Potential as an Anticancer Agent', Molecules, 27(24), pp. 8786. doi:10.3390/molecules27248786",
-   "abstract": "Arbutin, a hydroquinone glucoside, has been detected in ca. 50 plant families, especially in the plants of the Asteraceae, Ericaceae, Proteaceae and Rosaceae families. It is one of the most widely used natural skin-whitening agents. In addition to its skin whitening property, arbutin possesses other therapeutically relevant biological properties, e.g., antioxidant, antimicrobial and anti-inflammatory, as well as anticancer potential. This review presents, for the first time, a comprehensive overview of the distribution of arbutin in the plant kingdom and critically appraises its therapeutic potential as an anticancer agent based on the literature published until the end of August 2022, accessed via several databases, e.g., Web of Science, Science Direct, Dictionary of Natural Products, PubMed and Google Scholar. The keywords used in the search were arbutin, cancer, anticancer, distribution and hydroquinone. Published outputs suggest that arbutin has potential anticancer properties against bladder, bone, brain, breast, cervix, colon, liver, prostate and skin cancers and a low level of acute or chronic toxicity.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Arbutin: Occurrence in Plants, and Its Potential as an Anticancer Agent",
-   "plants": [
-    "Bear's grape",
-    "Bearberry",
-    "Kinnikinnick",
-    "Uva-ursi"
-   ],
-   "scientific": [
-    "Arctostaphylos uva-ursi"
-   ],
-   "actions": [
-    "Anticancer (preclinical)"
-   ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
-  },
-  {
-   "ref_id": "REF-2858",
-   "key": "chen2022arctigenin",
-   "type": "article",
-   "title": "Arctigenin impairs UBC12 enzyme activity and cullin neddylation to attenuate cancer cells",
-   "authors": "Chen, Y.-F. and Liu, R.-Z. and Ying, W.-W. and Yang, Y.-N. and Xiang, S.-F. and Shao, X.-J. and Cao, J. and Zhang, Y.-Q. and Yang, B. and He, Q.-J. and Ying, M.-D.",
-   "journal": "Acta Pharmacologica Sinica",
-   "year": "2022",
-   "doi": "10.1038/s41401-022-00992-6",
-   "url": "",
-   "link": "https://doi.org/10.1038/s41401-022-00992-6",
-   "link_type": "doi",
-   "citation": "Chen, Y.-F. and Liu, R.-Z. and Ying, W.-W. and Yang, Y.-N. and Xiang, S.-F. and Shao, X.-J. and Cao, J. and Zhang, Y.-Q. and Yang, B. and He, Q.-J. and Ying, M.-D (2022) 'Arctigenin impairs UBC12 enzyme activity and cullin neddylation to attenuate cancer cells', Acta Pharmacologica Sinica, 44(3), pp. 661-669. doi:10.1038/s41401-022-00992-6",
-   "abstract": "Neddylation is a type of posttranslational protein modification that has been observed to be overactivated in various cancers. UBC12 is one of two key E2 enzymes in the neddylation pathway. Reports indicate that UBC12 deficiency may suppress lung cancer cells, such that UBC12 could play an important role in tumor progression. However, systematic studies regarding the expression profile of UBC12 in cancers and its relationship to cancer prognosis are lacking. In this study, we comprehensively analyzed UBC12 expression in diverse cancer types and found that UBC12 is markedly overexpressed in most cancers (17/21), a symptom that negatively correlates with the survival rates of cancer patients, including gastric cancer. These results demonstrate the suitability of UBC12 as a potential target for cancer treatment. Currently, no effective inhibitor targeting UBC12 has been discovered. We screened a natural product library and found, for the first time, that arctigenin has been shown to significantly inhibit UBC12 enzyme activity and cullin neddylation. The inhibition of UBC12 enzyme activity was newly found to contribute to the effects of arctigenin on suppressing the malignant phenotypes of cancer cells. Furthermore, we performed proteomics analysis and found that arctigenin intervened with cullin downstream signaling pathways and substrates, such as the tumor suppressor PDCD4. In summary, these results demonstrate the importance of UBC12 as a potential therapeutic target for cancer treatment, and, for the first time, the suitability of arctigenin as a potential compound targeting UBC12 enzyme activity. Thus, these findings provide a new strategy for inhibiting neddylation-overactivated cancers.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Arctigenin impairs UBC12 enzyme activity and cullin neddylation to attenuate cancer cells",
-   "plants": [
-    "Greater Burdock",
-    "burdock",
-    "gobo"
-   ],
-   "scientific": [
-    "Arctium lappa"
-   ],
-   "actions": [
-    "Anticancer (preclinical)"
-   ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
-  },
-  {
    "ref_id": "REF-2372",
    "key": "kravchenko2022uvaursi",
    "type": "article",
@@ -23604,7 +23532,7 @@
    "link_type": "doi",
    "citation": "de Souza, A.R.C., de Oliveira, T.L., Fontana, P.D., Carneiro, M.C., Corazza, M.L., de Messias Reason, I.J. and Bavia, L (2022) 'Phytochemicals and Biological Activities of Burdock (Arctium lappa L.) Extracts: A Review', Chemistry and Biodiversity, 19(11). doi:10.1002/cbdv.202200615",
    "abstract": "Arctium lappa L., also known as burdock, is an edible wild plant which has the ability to grow in distinct environments and is considered a weed in several parts of the world. This species has great value in the biological and medical fields with its major secondary components being phenolic compounds and terpenes, substances rich in desired biological activities as antioxidant, antimicrobial, antitumor and anti-inflammatory. In addition, burdock leaves extracts have shown a modulatory effect on the complement system, which plays an important role in the development of inflammatory diseases, with an inhibitory effect on all complement pathways. Thus, natural products with those relevant activities are promising agents for healthcare applications. Therefore, the species A. lappa may represent an interesting asset for researching and developing new therapies for inflammatory afflictions.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -23623,10 +23551,7 @@
     "Emollient / skin-soothing"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Eczema",
-    "Inflammation (general)",
-    "Skin irritation"
+    "Inflammation (general)"
    ]
   },
   {
@@ -26825,7 +26750,7 @@
    "link_type": "doi",
    "citation": "Zeng, B., Wei, A., Zhou, Q., Yuan, M., Lei, K., Liu, Y., Song, J., Guo, L. and Ye, Q (2021) 'Andrographolide: A review of its pharmacology, pharmacokinetics, toxicity and clinical trials and pharmaceutical researches', Phytotherapy Research. doi:10.1002/ptr.7324",
    "abstract": "Andrographis paniculata (Burm. f.) Wall. ex Nees, a renowned herb medicine in China, is broadly utilized in traditional Chinese medicine (TCM) for the treatment of cold and fever, sore throat, sore tongue, snake bite with its excellent functions of clearing heat and toxin, cooling blood and detumescence from times immemorial. Modern pharmacological research corroborates that andrographolide, the major ingredient in this traditional herb, is the fundamental material basis for its efficacy. As the main component of Andrographis paniculata (Burm. f.) Wall. ex Nees, andrographolide reveals numerous therapeutic actions, such as antiinflammatory, antioxidant, anticancer, antimicrobial, antihyperglycemic and so on. However, there are scarcely systematic summaries on the specific mechanism of disease treatment and pharmacokinetics. Moreover, it is also found that it possesses easily ignored security issues in clinical application, such as nephrotoxicity and reproductive toxicity. Thereby it should be kept a lookout over in clinical. Besides, the relationship between the efficacy and security issues of andrographolide should be investigated and evaluated scientifically. In this review, special emphasis is given to andrographolide, a multifunctional natural terpenoids, including its pharmacology, pharmacokinetics, toxicity and pharmaceutical researches. A brief overview of its clinical trials is also presented. This review intends to systematically and comprehensively summarize the current researches of andrographolide, which is of great significance for the development of andrographolide clinical products. Noteworthy, those un-cracked issues such as specific pharmacological mechanisms, security issues, as well as the bottleneck in clinical transformation, which detailed exploration and excavation are still not to be ignored before achieving integration into clinical practice. In addition, given that current extensive clinical data do not have sufficient rigor and documented details, more high-quality investigations in this field are needed to validate the efficacy and/or safety of many herbal products.",
-   "tier": "rct",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -26847,13 +26772,9 @@
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Cold & flu",
-    "Immune support",
     "Infection (general)",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Wounds"
+    "Inflammation (general)"
    ]
   },
   {
@@ -30052,11 +29973,7 @@
     "Antimicrobial",
     "Urinary antiseptic"
    ],
-   "conditions": [
-    "Infection (general)",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1343",
@@ -30619,46 +30536,6 @@
    ],
    "conditions": [
     "Arthritis / joint pain"
-   ]
-  },
-  {
-   "ref_id": "REF-0399",
-   "key": "gaertner2021homeopathic",
-   "type": "article",
-   "title": "Is Homeopathic Arnica Effective for Postoperative Recovery? A Meta-analysis of Placebo-Controlled and Active Comparator Trials",
-   "authors": "Gaertner, K., Baumgartner, S. and Walach, H.",
-   "journal": "Frontiers in Surgery",
-   "year": "2021",
-   "doi": "10.3389/fsurg.2021.680930",
-   "url": "",
-   "link": "https://doi.org/10.3389/fsurg.2021.680930",
-   "link_type": "doi",
-   "citation": "Gaertner, K., Baumgartner, S. and Walach, H (2021) 'Is Homeopathic Arnica Effective for Postoperative Recovery? A Meta-analysis of Placebo-Controlled and Active Comparator Trials', Frontiers in Surgery. doi:10.3389/fsurg.2021.680930",
-   "abstract": "Background: Homeopathic Arnica montana is used in surgery as prevention or treatment for the reduction of pain and other sequelae of surgery. Our aim was to perform a metaanalysis of clinical trials to assess efficacy of Arnica montana to reduce the inflammatory response after surgery. Method: We conducted a systematic review and metaanalysis, following a predefined protocol, of all studies on the use of homeopathic Arnica montana in surgery. We included all randomized and nonrandomized studies comparing homeopathic Arnica to a placebo or to another active comparator and calculated two quantitative metaanalyses and appropriate sensitivity analyses. We used \"Hegde's g,\" an effect size estimator which is equivalent to a standardized mean difference corrected for small sample bias. The PROSPERO registration number is CRD42020131300. Results: Twenty-three publications reported on 29 different comparisons. One study had to be excluded because no data could be extracted, leaving 28 comparisons. Eighteen comparisons used placebo, nine comparisons an active control, and in one case Arnica was compared to no treatment. The metaanalysis of the placebo-controlled trials yielded an overall effect size of Hedge's g = 0.18 (95% confidence interval -0.007/0.373; p = 0.059). Active comparator trials yielded a highly heterogeneous significant effect size of g = 0.26. This is mainly due to the large effect size of nonrandomized studies, which converges against zero in the randomized trials. Conclusion: Homeopathic Arnica has a small effect size over and against placebo in preventing excessive hematoma and other sequelae of surgeries. The effect is comparable to that of anti-inflammatory substances.",
-   "tier": "review",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Is Homeopathic Arnica Effective for Postoperative Recovery? A Meta-analysis of Placebo-Controlled and Active Comparator Trials",
-   "plants": [
-    "Arnica",
-    "Leopard's bane",
-    "Mountain arnica",
-    "Mountain tobacco",
-    "Wolf's bane"
-   ],
-   "scientific": [
-    "Arnica montana"
-   ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory"
-   ],
-   "conditions": [
-    "Bruising",
-    "Inflammation (general)",
-    "Pain (general)",
-    "Swelling / fluid retention"
    ]
   },
   {
@@ -33419,7 +33296,7 @@
    "link_type": "doi",
    "citation": "Paul, S. and Roy, D. and Pati, S. and Sa, G (2021) 'The Adroitness of Andrographolide as a Natural Weapon Against Colorectal Cancer', Frontiers in Pharmacology, 12, pp. 731492. doi:10.3389/fphar.2021.731492",
    "abstract": "The conventional carcinoma treatment generally encompasses the employment of radiotherapy, chemotherapy, surgery or use of cytotoxic drugs. However, recent advances in pharmacological research have divulged the importance of traditional treatments in cancer. The aim of the present review is to provide an overview of the importance of one such medicinal herb of Chinese and Indian origin: Andrographis paniculate on colorectal cancer with special emphasis on its principal bioactive component andrographolide (AGP) and its underlying mechanisms of action. AGP has long been known to possess medicinal properties. Studies led by numerous groups of researchers shed light on its molecular mechanism of action. AGP has been shown to act in a multi-faceted manner in context of colorectal cancer by targeting matrix metalloproteinase-9, Toll-like receptor or NFκB signaling pathways. In this review, we highlighted the recent studies that show that AGP can act as an effective immunomodulator by harnessing effective anti-tumor immune response. Recent studies strongly recommend further research on this compound and its analogues, especially under in-vivo condition to assess its actual potential as a prospective and efficient candidate against colorectal cancer. The current review deals with the roles of this phytomedicine in context of colorectal cancer and briefly describes its perspectives to emerge as an essential anti-cancer drug candidate. Finally, we also point out the drawbacks and difficulties in administration of AGP and indicate the use of nano-formulations of this phytomedicine for better therapeutic efficacy.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -34392,7 +34269,7 @@
    "link_type": "doi",
    "citation": "Kaur, A. and Bhatti, R (2021) 'Understanding the phytochemistry and molecular insights to the pharmacology of Angelica archangelica L. (garden angelica) and its bioactive components', Phytotherapy Research, 35(11), pp. 5961--5979. doi:10.1002/ptr.7206",
    "abstract": "Plant-derived molecules have enduring usefulness in treating diseases, and herbal drugs have emerged as a vital component of global therapeutic demand. Angelica archangelica L. (A. archangelica), commonly known as garden angelica, is an aromatic food plant used in culinary procedures as a flavoring agent. In the traditional medicine system, it is regarded as an \"Angel plant\" due to its miraculous curative power. This review aims to provide a comprehensive summary of the plant's taxonomic profile, ethnopharmacology, Phytochemistry, and pharmacological activities. Various in vivo and in vitro experiments have validated that the plant possesses broad pharmacological potential. The biological activities attributed to the plant include anti-anxiety activity, anti-convulsant activity, cognition enhancer, antiviral activity, cholinesterase inhibitory potential, antiinflammatory activity, gastroprotective activity, and radioprotective activity. The beneficial effects of the plant are credited to its bioactive components, that is, coumarins and volatile oils. The review summarizes the pharmacological activities of crude extract and its bioactive fractions and has also explored their target-oriented effects. This review will be of value in undertaking further investigations on the plant with regard to exploring mechanism-based pharmacological approaches on A. archangelica.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -34421,24 +34298,10 @@
     "Sedative / sleep support"
    ],
    "conditions": [
-    "Acid reflux",
     "Anxiety",
-    "Arthritis / joint pain",
-    "Bloating",
-    "Bronchitis",
     "Cognitive function",
-    "Cold & flu",
-    "Cough",
-    "Fever",
-    "Indigestion",
     "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Loss of appetite",
-    "Memory",
-    "Nervous tension",
-    "Respiratory support",
-    "Skin irritation",
-    "Stress"
+    "Nervous tension"
    ]
   },
   {
@@ -34916,9 +34779,7 @@
    "actions": [
     "Emollient / skin-soothing"
    ],
-   "conditions": [
-    "Skin irritation"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1816",
@@ -35647,7 +35508,7 @@
    "link_type": "doi",
    "citation": "Batiha, G.E.S., Olatunde, A., El-Mleeh, A., Hetta, H.F., Al-Rejaie, S. et al (2020) 'Bioactive Compounds, Pharmacological Actions, and Pharmacokinetics of Wormwood (Artemisia absinthium)', Antibiotics (Basel), 9(6), pp. 353. doi:10.3390/antibiotics9060353",
    "abstract": "Plants have been used since ancient times to cure certain infectious diseases, and some of them are now standard treatments for several diseases. Due to the side effects and resistance of pathogenic microorganisms to antibiotics and most drugs on the market, a great deal of attention has been paid to extracts and biologically active compounds isolated from plant species used in herbal medicine. Artemisia absinthium is an important perennial shrubby plant that has been widely used for the treatment of several ailments. Traditionally, A. absinthium has always been of pharmaceutical and botanical importance and used to manage several disorders including hepatocyte enlargement, hepatitis, gastritis, jaundice, wound healing, splenomegaly, dyspepsia, indigestion, flatulence, gastric pain, anemia, and anorexia. It has also been documented to possess antioxidant, antifungal, antimicrobial, anthelmintic, anti-ulcer, anticarcinogenic, hepatoprotective, neuroprotective, antidepressant, analgesic, immunomodulatory, and cytotoxic activity. Long-term use of A. absinthium essential oil may cause toxic and mental disorders in humans with clinical manifestations including convulsions, sleeplessness, and hallucinations. Combination chemotherapies of artemisia extract or its isolated active constituents with the currently available antibabesial or anti-malarial drugs are now documented to relieve malaria and piroplasmosis infections. The current review examines the phytoconstituents, toxic and biological activities of A. absinthium.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -35665,9 +35526,7 @@
     "Antimicrobial",
     "Antioxidant"
    ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2971",
@@ -35808,7 +35667,7 @@
    "link_type": "doi",
    "citation": "Moro, T.M.A. and Clerici, M.T.P.S (2020) 'Burdock (Arctium lappa L) roots as a source of inulin-type fructans and other bioactive compounds: Current knowledge and future perspectives for food and non-food applications', Food Research International. doi:10.1016/j.foodres.2020.109889",
    "abstract": "The roots and tubers of the Asteraceae family are known as a source of various oligosaccharides, and chicory roots and Jerusalem artichoke have stood out for its commercial viability. However burdock root (Arctium lappa L.), which is adapted to temperate climate, moist, and sandy soil, is still unknown as health food in the western world. This review showed the potential of burdock roots as a source of prebiotic fibers, chlorogenic acids, cinnarine, lignans, and quercetin. The extraction methods of burdock functional compounds are made with water, temperature and time variations only. Biological assays showed antioxidant activity, anti-inflammatory, and hypolipidemic properties, and gastric mucosal defense mechanisms, among others. Therefore, the use of burdock roots as functional food should be encouraged in countries that have imported products derived from other roots of the same family for health benefits.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -35826,10 +35685,7 @@
     "Antioxidant",
     "Digestive aid"
    ],
-   "conditions": [
-    "Bloating",
-    "Indigestion"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1476",
@@ -39203,7 +39059,6 @@
     "Neuroprotective / cognition support"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Inflammation (general)"
    ]
   },
@@ -40027,7 +39882,7 @@
    "link_type": "doi",
    "citation": "Kriplani, P. and Guarve, K (2020) 'Recent Patents on Anti-Cancer Potential of Helenalin', Recent Patents on Anti-Cancer Drug Discovery, 15(2), pp. 132-142. doi:10.2174/1574892815666200702142601",
    "abstract": "Background Arnica montana, containing helenalin as its principal active constituent, is the most widely used plant to treat various ailments. Recent studies indicate that Arnica and helenalin provide significant health benefits, including anti-inflammatory, neuroprotective, antioxidant, cholesterol-lowering, immunomodulatory, and most important, anti-cancer properties. Objective The objective of the present study is to overview the recent patents of Arnica and its principal constituent helenalin, including new methods of isolation, and their use in the prevention of cancer and other ailments. Methods Current prose and patents emphasizing the anti-cancer potential of helenalin and Arnica, incorporated as anti-inflammary agents in anti-cancer preparations, have been identified and reviewed with particular emphasis on their scientific impact and novelty. Results Helenalin has shown its anti-cancer potential to treat multiple types of tumors, both in vitro and in vivo. It has also portrayed synergistic effects when given in combination with other anti- cancer drugs or natural compounds. New purification/isolation techniques are also developing with novel helenalin formulations and its synthetic derivatives have been developed to increase its solubility and bioavailability. Conclusion The promising anti-cancer potential of helenalin in various preclinical studies may open new avenues for therapeutic interventions in different tumors. Thus clinical trials validating its tumor suppressing and chemopreventive activities, particularly in conjunction with standard therapies, are immediately required.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -41156,46 +41011,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0103",
-   "key": "haidari2020anethum",
-   "type": "article",
-   "title": "The effects of anethum graveolens (dill) powder supplementation on clinical and metabolic status in patients with type 2 diabetes",
-   "authors": "Haidari, F., Mohammadshahi, M., Zarei, M., Gorji, Z., Asghari-Jafarabadi, M. and Alizadeh, M",
-   "journal": "",
-   "year": "2020",
-   "doi": "10.1016/j.ctim.2020.102367",
-   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7275438/http://latvijasdaba.lv/",
-   "link": "https://doi.org/10.1016/j.ctim.2020.102367",
-   "link_type": "doi",
-   "citation": "Haidari, F., Mohammadshahi, M., Zarei, M., Gorji, Z., Asghari-Jafarabadi, M. and Alizadeh, M (2020) 'The effects of anethum graveolens (dill) powder supplementation on clinical and metabolic status in patients with type 2 diabetes'. doi:10.1016/j.ctim.2020.102367",
-   "abstract": "Background The objective of this study was to investigate the effects of Anethum graveolens (dill) powder supplementation on glycemic control, lipid profile, some antioxidants and inflammatory markers, and gastrointestinal symptoms in patients with type 2 diabetes. Materials and methods In this study, 42 patients with type 2 diabetes were randomly allocated to intervention and control groups and received either 3 g/day dill powder or placebo (3 capsules/day, 1 g each). Fasting blood sugar, insulin, homeostatic model assessment of insulin resistance, lipid profile, high-sensitivity C-reactive protein, total antioxidant capacity, malondialdehyde and gastrointestinal symptoms were measured in all of the subjects at baseline and postintervention. Results The dill powder supplementation significantly decreased the mean serum levels of insulin, homeostatic model assessment of insulin resistance, low-density lipoprotein cholesterol, total cholesterol and malondialdehyde in the intervention group in comparison with the baseline measurements (P Conclusion Dill powder supplementation can be effective in controlling the glycemic, lipid, stress oxidative and gastrointestinal symptoms in patients with type 2 diabetes. Trial registration Iran Clinical Trials Registry: IRCT20120704010181N12. Registered on 12 May 2018.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "The effects of anethum graveolens (dill) powder supplementation on clinical and metabolic status in patients with type 2 diabetes",
-   "plants": [
-    "Dill",
-    "European dill",
-    "garden dill"
-   ],
-   "scientific": [
-    "Anethum graveolens"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Digestive aid",
-    "Diuretic"
-   ],
-   "conditions": [
-    "Cardiovascular / heart health",
-    "Inflammation (general)",
-    "Metabolic support"
-   ]
-  },
-  {
    "ref_id": "REF-1391",
    "key": "haidari2020dill",
    "type": "article",
@@ -41223,9 +41038,14 @@
     "Anethum graveolens"
    ],
    "actions": [
-    "Antioxidant"
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antioxidant",
+    "Digestive aid",
+    "Diuretic"
    ],
    "conditions": [
+    "Cardiovascular / heart health",
     "Metabolic support"
    ]
   },
@@ -44563,7 +44383,7 @@
    "link_type": "doi",
    "citation": "Drogosz, J. and Janecka, A (2019) 'Helenalin - A Sesquiterpene Lactone with Multidirectional Activity', Current Drug Targets, 20(4), pp. 444-452. doi:10.2174/1389450119666181012125230",
    "abstract": "Sesquiterpene lactones, secondary metabolites of plants, present in a large number of species mostly from the Asteracea family, are used in the traditional medicine of many countries for the treatment of various pathological conditions. They exert a broad range of activities, including antiinflammatory, anti-bacterial and anti-cancer properties. The best-known sesquiterpene lactones which are already used as drugs or are used in clinical trials are artemisinin, thapsigargin and parthenolide. Yet another sesquiterpene lactone, helenalin, an active component of Arnica montana, known for its strong anti-inflammatory activity, has been used for centuries in folk medicine to treat minor injuries. Unfortunately, helenalin's ability to cause allergic reactions and its toxicity to healthy tissues prevented so far the development of this sesquiterpene lactone as an anticancer or anti-inflammatory drug. Recently, the new interest in the biological properties, as well as in the synthesis of helenalin analogs has been observed. This review describes helenalin's major biological activities, molecular mechanisms of action, its toxicity and potential for further research.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -47022,11 +46842,7 @@
     "Antimicrobial",
     "Urinary antiseptic"
    ],
-   "conditions": [
-    "Infection (general)",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-3136",
@@ -49167,12 +48983,9 @@
     "Urinary antiseptic"
    ],
    "conditions": [
-    "Diarrhoea",
     "Infection (general)",
-    "Skin irritation",
     "Urinary support",
-    "Urinary tract infection (UTI)",
-    "Wounds"
+    "Urinary tract infection (UTI)"
    ]
   },
   {
@@ -50335,7 +50148,7 @@
    "link_type": "doi",
    "citation": "Gao, Q., Yang, M. and Zuo, Z (2018) 'Overview of the anti-inflammatory effects, pharmacokinetic properties and clinical efficacies of arctigenin and arctiin from Arctium lappa L', Acta Pharmacologica Sinica, 39(5), pp. 787-801. doi:10.1038/aps.2018.32",
    "abstract": "Arctigenin (AR) and its glycoside, arctiin, are two major active ingredients of Arctium lappa L (A lappa), a popular medicinal herb and health supplement frequently used in Asia. In the past several decades, bioactive components from A lappa have attracted the attention of researchers due to their promising therapeutic effects. In the current article, we aimed to provide an overview of the pharmacology of AR and arctiin, focusing on their anti-inflammatory effects, pharmacokinetics properties and clinical efficacies. Compared to acrtiin, AR was reported as the most potent bioactive component of A lappa in the majority of studies. AR exhibits potent anti-inflammatory activities by inhibiting inducible nitric oxide synthase (iNOS) via modulation of several cytokines. Due to its potent anti-inflammatory effects, AR may serve as a potential therapeutic compound against both acute inflammation and various chronic diseases. However, pharmacokinetic studies demonstrated the extensive glucuronidation and hydrolysis of AR in liver, intestine and plasma, which might hinder its in vivo and clinical efficacy after oral administration. Based on the reviewed pharmacological and pharmacokinetic characteristics of AR, further pharmacokinetic and pharmacodynamic studies of AR via alternative administration routes are suggested to promote its ability to serve as a therapeutic agent as well as an ideal bioactive marker for A lappa.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -51434,7 +51247,7 @@
    "link_type": "doi",
    "citation": "Abiri, R., Silva, A.L.M., de Mesquita, L.S.S., de Mesquita, J.W.C., Atabaki, N. et al (2018) 'Towards a better understanding of Artemisia vulgaris: Botany, phytochemistry, pharmacological and biotechnological potential', Food Research International, 109, pp. 403-415. doi:10.1016/j.foodres.2018.03.072",
    "abstract": "Artemisia vulgaris is one of the important medicinal plant species of the genus Artemisia, which is usually known for its volatile oils. The genus Artemisia has become the subject of great interest due to its chemical and biological diversity as well as the discovery and isolation of promising anti-malarial drug artemisinin. A. vulgaris has a long history in treatment of human ailments by medicinal plants in various parts of the world. This medicinal plant possesses a broad spectrum of therapeutic properties including: anti-malarial, anti-inflammatory, anti-hypertensive, anti-oxidant, anti-tumoral, immunomodulatory, hepatoprotective, anti-spasmodic and anti-septic. These activities are mainly attributed to the presence of various classes of secondary metabolites, including flavonoids, sesquiterpene lactones, coumarins, acetylenes, phenolic acids, organic acids, mono- and sesquiterpenes. Studies related to A. vulgaris morphology, anatomy and phytochemistry has gained a significant interest for better understanding of production and accumulation of therapeutic compounds in this species. Recently, phytochemical and pharmacological investigations have corroborated the therapeutic potential of bioactive compounds of A. vulgaris. These findings provided further evidence for gaining deeper insight into the identification and isolation of novel compounds, which act as alternative sources of anti-malarial drugs in a cost-effective manner. Considering the rising demand and various medical applications of A. vulgaris, this review highlights the recent reports on the chemistry, biological activities and biotechnological interventions for controlled and continuous production of bioactive compounds from this plant species.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -52589,7 +52402,7 @@
    "link_type": "doi",
    "citation": "Kriplani, P., Guarve, K. and Baghael, U.S (2017) 'Arnica montana L. - a plant of healing: review', Journal of Pharmacy and Pharmacology, pp. 12724. doi:10.1111/jphp.12724",
    "abstract": "Objectives Arnica montana is a widely used therapeutic plant used traditionally to treat various ailments. The objective of this study was to evaluate the botany, phytochemistry and ethnopharmacology along with special emphasis given on pharmacological activity of plant A. montana. Key findings The plant extracts have been reported to possess antibacterial, antitumor, antioxidant, anti-inflammatory, antifungal and immunomodulatory activity. A wide range of chemical compounds including sesquiterpene lactones and their short-chain carbonic acid esters, flavonoids, carotenoids, essential oils, diterpenes, arnidiol, pyrrolizidine alkaloids, coumarins, phenolic acids, lignans and oligosaccharides, etc., are found in different parts of the plant. Summary It has been scrutinized that extensive research has been carried out to explore the therapeutic potential of flowers of the plant. Therefore, investigations should be carried out to explore the therapeutic potential of other parts of the plant for better therapeutic utilization.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -52612,17 +52425,8 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Back pain",
-    "Bruising",
-    "Headache",
     "Infection (general)",
-    "Inflammation (general)",
-    "Muscle soreness",
-    "Pain (general)",
-    "Skin irritation",
-    "Swelling / fluid retention",
-    "Wounds"
+    "Inflammation (general)"
    ]
   },
   {
@@ -56958,40 +56762,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-2860",
-   "key": "li2016arctigenin",
-   "type": "article",
-   "title": "Arctigenin induces apoptosis in colon cancer cells through ROS/p38MAPK pathway",
-   "authors": "Li, Q.-C. and Liang, Y. and Tian, Y. and Hu, G.-R.",
-   "journal": "Journal of BUON",
-   "year": "2016",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Arctigenin%20induces%20apoptosis%20in%20colon%20cancer%20cells%20through%20ROS/p38MAPK%20pathway",
-   "link_type": "search",
-   "citation": "Li, Q.-C. and Liang, Y. and Tian, Y. and Hu, G.-R (2016) 'Arctigenin induces apoptosis in colon cancer cells through ROS/p38MAPK pathway', Journal of BUON, 21(1), pp. 87-94.",
-   "abstract": "Purpose In the current study the antiproliferative effect of arctigenin, plant lignin, was evaluated on human colon cancer cell line HT-29. Furthermore, attempts were made to explore the signaling mechanism which may be responsible for its effect. Methods Cell growth inhibition was assessed by MTT and LDH assays. Flow cytometric analysis was performed to determine cell arrest in the cell cycle phase and apoptosis. Furthermore, to confirm the apoptotic activity of arctigenin, caspase-9 and -3 activities analysis was performed. The levels of reactive oxygen species (ROS) and p38 mitogen activated protein kinase (MAPK) were investigated to determine their role in inducing apoptosis in arctigenin-treated HT-29 colon cancer cell line. Results MTT and LDH results demonstrated significant cell growth inhibitory effect of arctigenin on HT-29 cells in a dose-dependent manner. Furthermore, increase in cell number arrested at G2/M phase was observed in flow cytometric analysis upon arctigenin treatment. In addition, arctigenin increased the apoptotic ratio in a dose-dependent manner. The involvement of intrinsic apoptotic pathway was indicated by the activation of caspase-9 and -3. Moreover, increased ROS production, activation of p38 MAPK and changes in mitochondrial membrane potential (ΔΨm) also revealed the role of intrinsic apoptotic signaling pathway in cell growth inhibition after arctigenin exposure. Conclusion Arctigenin induces apoptosis in HT-29 colon cancer cells by regulating ROS and p38 MAPK pathways.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Arctigenin induces apoptosis in colon cancer cells through ROS/p38MAPK pathway",
-   "plants": [
-    "Greater Burdock",
-    "burdock",
-    "gobo"
-   ],
-   "scientific": [
-    "Arctium lappa"
-   ],
-   "actions": [
-    "Anticancer (preclinical)"
-   ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
-  },
-  {
    "ref_id": "REF-1172",
    "key": "money2016mushrooms",
    "type": "article",
@@ -57862,41 +57632,6 @@
    "actions": [
     "Antioxidant",
     "Nephroprotective (kidney support)"
-   ],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-2098",
-   "key": "iannitti2016arnica",
-   "type": "article",
-   "title": "Effectiveness and safety of Arnica montana in post-surgical setting, pain and inflammation",
-   "authors": "Iannitti, T., Morales-Medina, J.C., Bellavite, P., Rottigni, V. and Palmieri, B.",
-   "journal": "American Journal of Therapeutics",
-   "year": "2016",
-   "doi": "10.1097/MJT.0000000000000036",
-   "url": "",
-   "link": "https://doi.org/10.1097/MJT.0000000000000036",
-   "link_type": "doi",
-   "citation": "Iannitti, T., Morales-Medina, J.C., Bellavite, P., Rottigni, V. and Palmieri, B (2016) 'Effectiveness and safety of Arnica montana in post-surgical setting, pain and inflammation', American Journal of Therapeutics, 23(1), pp. e184-e197. doi:10.1097/MJT.0000000000000036",
-   "abstract": "Arnica montana has been widely used as a homeopathic remedy for the treatment of several inflammatory conditions in pain management and postoperative settings. This review gives an overview of the therapeutic use of Arnica montana in the above-mentioned fields also focusing on its mechanisms of action learned from animal models and in vitro studies. Arnica montana is more effective than placebo when used for the treatment of several conditions including post-traumatic and postoperative pain, edema, and ecchymosis. However, its dosages and preparations used have produced substantial differences in the clinical outcome. Cumulative evidence suggests that Arnica montana may represent a valid alternative to non-steroidal anti-inflammatory drugs, at least when treating some specific conditions.",
-   "tier": "narrative",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Effectiveness and safety of Arnica montana in post-surgical setting, pain and inflammation",
-   "plants": [
-    "Arnica",
-    "Leopard's bane",
-    "Mountain arnica",
-    "Mountain tobacco",
-    "Wolf's bane"
-   ],
-   "scientific": [
-    "Arnica montana"
-   ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -59093,40 +58828,6 @@
    "conditions": [
     "Headache"
    ]
-  },
-  {
-   "ref_id": "REF-2103",
-   "key": "chaiet2016arnica",
-   "type": "article",
-   "title": "Perioperative Arnica montana for reduction of ecchymosis in rhinoplasty surgery",
-   "authors": "Chaiet, S.R. and Marcus, B.C.",
-   "journal": "Annals of Plastic Surgery",
-   "year": "2016",
-   "doi": "10.1097/SAP.0000000000000312",
-   "url": "",
-   "link": "https://doi.org/10.1097/SAP.0000000000000312",
-   "link_type": "doi",
-   "citation": "Chaiet, S.R. and Marcus, B.C (2016) 'Perioperative Arnica montana for reduction of ecchymosis in rhinoplasty surgery', Annals of Plastic Surgery, 76(5), pp. 477-482. doi:10.1097/SAP.0000000000000312",
-   "abstract": "Background Studies of homeopathic therapies to decrease postrhinoplasty ecchymosis have previously used subjective measurements, limiting their clinical significance. Recently, Arnica montana was shown to decrease postoperative ecchymosis after rhytidectomy, using an objective measuring tool. We believe that oral A. montana, given perioperatively, can be objectively shown to reduce extent and intensity of postoperative ecchymosis in rhinoplasty surgery. Methods Subjects scheduled for rhinoplasty surgery with nasal bone osteotomies by a single surgeon were prospectively randomized to receive either oral perioperative A. montana (Alpine Pharmaceuticals, San Rafael, Calif) or placebo in a double-blinded fashion. Ecchymosis was measured in digital \"three-quarter\"-view photographs at 3 postoperative time points. Each bruise was outlined with Adobe Photoshop (Adobe Systems Incorporated, San Jose, Calif), and the extent was scaled to a standardized reference card. Cyan, magenta, yellow, black, and luminosity were analyzed in the bruised and control areas to calculate change in intensity. P value of Results Compared with 13 subjects receiving placebo, 9 taking A. montana had 16.2%, 32.9%, and 20.4% less extent on postoperative days 2/3, 7, and 9/10, a statistically significant difference on day 7 (P = 0.097). Color change initially showed 13.1% increase in intensity with A. montana but 10.9% and 36.3% decreases on days 7 and 9/10, a statistically significant difference on day 9/10 (P = 0.074). One subject experienced mild itching and rash with the study drug that resolved during the study period. Conclusions Arnica montana seems to accelerate postoperative healing, with quicker resolution of the extent and the intensity of ecchymosis after osteotomies in rhinoplasty surgery, which may dramatically affect patient satisfaction.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Perioperative Arnica montana for reduction of ecchymosis in rhinoplasty surgery",
-   "plants": [
-    "Arnica",
-    "Leopard's bane",
-    "Mountain arnica",
-    "Mountain tobacco",
-    "Wolf's bane"
-   ],
-   "scientific": [
-    "Arnica montana"
-   ],
-   "actions": [
-    "Vulnerary (wound healing)"
-   ],
-   "conditions": []
   },
   {
    "ref_id": "REF-1407",
@@ -60985,7 +60686,7 @@
    "link_type": "doi",
    "citation": "Mishra, S.K. and Tripathi, S. and Shukla, A. and Oh, S.H. and Kim, H.M (2015) 'Andrographolide and analogues in cancer prevention', Frontiers in Bioscience (Elite Edition), 7(2), pp. 255-266. doi:10.2741/E732",
    "abstract": "Andrographis paniculata is a medicinal plant traditionally used for treatment of cough and cold, fever, laryngitis, and several infectious diseases. Extracts of A. paniculata have shown versatile potency against various diseases including cancer. The active biomolecules of A. paniculata mainly are lactone and diterpene. Andrographolide and analogues have been widely used for prevention of different diseases. Andrographolides have shown potent antiinflammatory and anticancer activities. It showed potentials as chemopreventive agents by suppressing growth of cancer cells by inhibiting NF-kappaB, PI3K/AKT and other kinase pathways and by inducing apoptosis. Andrographolide induced both intrinsic and extrinsic apoptosis pathway in different cancer cells via expression of different anti-apoptotic protein like Bax, p53, and activated caspases. Andrographolide was successfully used as an antineoplastic drug in cancer chemotherapy. Andrographolide inhibited the growth of human breast, prostate, and hepatoma tumors. Andrographolide and analogues need to be subjected to further clinical and biomedical studies in cancer chemoprevention. Andrographolide could be potent anticancer agent when used in combination with other chemotherapeutic agents.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -75838,7 +75539,7 @@
    "link_type": "doi",
    "citation": "Chan, Y.S., Cheng, L.N., Wu, J.H., Chan, E., Kwan, Y.W., Lee, S.M.Y., Leung, G.P.H., Yu, P.H.F. and Chan, S.W (2010) 'A review of the pharmacological effects of Arctium lappa (burdock)', Inflammopharmacology, 19(5), pp. 245--254. doi:10.1007/s10787-010-0062-4",
    "abstract": "Arctium lappa, commonly known as burdock, is being promoted/recommended as a healthy and nutritive food in Chinese societies. Burdock has been used therapeutically in Europe, North America and Asia for hundreds of years. The roots, seeds and leaves of burdock have been investigated in view of its popular uses in traditional Chinese medicine (TCM). In this review, the reported therapeutic effects of the active compounds present in the different botanical parts of burdock are summarized. In the root, the active ingredients have been found to \"detoxify\" blood in terms of TCM and promote blood circulation to the skin surface, improving the skin quality/texture and curing skin diseases like eczema. Antioxidants and antidiabetic compounds have also been found in the root. In the seeds, some active compounds possess anti-inflammatory effects and potent inhibitory effects on the growth of tumors such as pancreatic carcinoma. In the leaf extract, the active compounds isolated can inhibit the growth of micro-organisms in the oral cavity. The medicinal uses of burdock in treating chronic diseases such as cancers, diabetes and AIDS have been reported. However, it is also essential to be aware of the side effects of burdock including contact dermatitis and other allergic/inflammatory responses that might be evoked by burdock.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -75857,10 +75558,7 @@
     "Emollient / skin-soothing"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Eczema",
-    "Inflammation (general)",
-    "Skin irritation"
+    "Inflammation (general)"
    ]
   },
   {
@@ -80087,14 +79785,7 @@
     "Digestive aid",
     "Emollient / skin-soothing"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bloating",
-    "Eczema",
-    "Indigestion",
-    "Inflammation (general)",
-    "Skin irritation"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0020",
@@ -82423,10 +82114,27 @@
     "clinical"
    ],
    "display": "Fructus Anethi",
-   "plants": [],
-   "scientific": [],
-   "actions": [],
-   "conditions": []
+   "plants": [
+    "Dill",
+    "European dill",
+    "garden dill"
+   ],
+   "scientific": [
+    "Anethum graveolens"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antioxidant",
+    "Digestive aid",
+    "Diuretic"
+   ],
+   "conditions": [
+    "Bloating",
+    "Indigestion",
+    "Inflammation (general)",
+    "Urinary support"
+   ]
   },
   {
    "ref_id": "REF-2048",
@@ -83144,55 +82852,6 @@
     "Cardiovascular / heart health",
     "Inflammation (general)",
     "Skin irritation"
-   ]
-  },
-  {
-   "ref_id": "REF-0310",
-   "key": "world2007fructus",
-   "type": "misc",
-   "title": "WHO monographs on selected medicinal plants, Volume 3: ‘Fructus Anethi",
-   "authors": "World Health Organization",
-   "journal": "",
-   "year": "2007",
-   "doi": "",
-   "url": "https://e-lactancia.org/media/papers/Fitoterapia-Plantas-WHO-03_2007.pdf",
-   "link": "https://e-lactancia.org/media/papers/Fitoterapia-Plantas-WHO-03_2007.pdf",
-   "link_type": "url",
-   "citation": "World Health Organization (2007) 'WHO monographs on selected medicinal plants, Volume 3: ‘Fructus Anethi'. Available at: https://e-lactancia.org/media/papers/Fitoterapia-Plantas-WHO-03_2007.pdf",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "WHO monographs on selected medicinal plants, Volume 3: ‘Fructus Anethi",
-   "plants": [
-    "Dill",
-    "European dill",
-    "garden dill"
-   ],
-   "scientific": [
-    "Anethum graveolens"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Digestive aid",
-    "Diuretic"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bloating",
-    "Cardiovascular / heart health",
-    "Indigestion",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Metabolic support",
-    "Skin irritation",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)",
-    "Wounds"
    ]
   },
   {
@@ -88728,7 +88387,6 @@
     "Arthritis / joint pain",
     "Back pain",
     "Bloating",
-    "Blood sugar / diabetes support",
     "Bronchitis",
     "Bruising",
     "Cardiovascular / heart health",
@@ -88743,7 +88401,6 @@
     "Insomnia / sleeplessness",
     "Memory",
     "Menstrual cramps",
-    "Metabolic support",
     "Muscle spasm",
     "Pain (general)",
     "Respiratory support",
@@ -90591,18 +90248,7 @@
     "Digestive aid",
     "Sedative / sleep support"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bloating",
-    "Indigestion",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Menstrual cramps",
-    "Muscle spasm",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0037",
@@ -93016,9 +92662,7 @@
     "Arctostaphylos uva-ursi"
    ],
    "actions": [],
-   "conditions": [
-    "Urinary support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0014",
@@ -96489,7 +96133,6 @@
     "Arthritis / joint pain",
     "Back pain",
     "Bloating",
-    "Blood sugar / diabetes support",
     "Bronchitis",
     "Bruising",
     "Cardiovascular / heart health",
@@ -96503,9 +96146,7 @@
     "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
-    "Insomnia / sleeplessness",
     "Menstrual cramps",
-    "Metabolic support",
     "Muscle spasm",
     "Pain (general)",
     "Respiratory support",
@@ -97333,8 +96974,8 @@
    ],
    "conditions": [
     "Cough",
-    "Eczema",
-    "Skin irritation"
+    "Indigestion",
+    "Sore throat"
    ]
   },
   {
@@ -97372,8 +97013,9 @@
    "conditions": [
     "Cold & flu",
     "Fever",
+    "Immune support",
     "Infection (general)",
-    "Sore throat"
+    "Inflammation (general)"
    ]
   },
   {
@@ -98044,93 +97686,6 @@
    ],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0476",
-   "key": "herbalndburdock",
-   "type": "misc",
-   "title": "Burdock (Arctium): Benefits, Medicinal Uses, Safety",
-   "authors": "Herbal Reality",
-   "journal": "",
-   "year": "n.d.",
-   "doi": "",
-   "url": "https://www.herbalreality.com/herb/burdock/",
-   "link": "https://www.herbalreality.com/herb/burdock/",
-   "link_type": "url",
-   "citation": "Herbal Reality (n.d.) 'Burdock (Arctium): Benefits, Medicinal Uses, Safety'. Available at: https://www.herbalreality.com/herb/burdock/",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Burdock (Arctium): Benefits, Medicinal Uses, Safety",
-   "plants": [
-    "Common burdock",
-    "Lesser Burdock",
-    "Wild rhubarb"
-   ],
-   "scientific": [
-    "Arctium minus"
-   ],
-   "actions": [
-    "Alterative / depurative ('detox')",
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Diuretic"
-   ],
-   "conditions": [
-    "Acne",
-    "Arthritis / joint pain",
-    "Detox / cleansing",
-    "Eczema",
-    "Inflammation (general)",
-    "Psoriasis",
-    "Skin irritation",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
-   ]
-  },
-  {
-   "ref_id": "REF-0477",
-   "key": "drugsndburdock",
-   "type": "misc",
-   "title": "Burdock Uses, Benefits & Dosage",
-   "authors": "Drugs.com",
-   "journal": "",
-   "year": "n.d.",
-   "doi": "",
-   "url": "https://www.drugs.com/npp/burdock.html",
-   "link": "https://www.drugs.com/npp/burdock.html",
-   "link_type": "url",
-   "citation": "Drugs.com (n.d.) 'Burdock Uses, Benefits & Dosage'. Available at: https://www.drugs.com/npp/burdock.html",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Burdock Uses, Benefits & Dosage",
-   "plants": [
-    "Common burdock",
-    "Lesser Burdock",
-    "Wild rhubarb"
-   ],
-   "scientific": [
-    "Arctium minus"
-   ],
-   "actions": [
-    "Alterative / depurative ('detox')",
-    "Diuretic"
-   ],
-   "conditions": [
-    "Acne",
-    "Detox / cleansing",
-    "Eczema",
-    "Psoriasis",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
-   ]
   },
   {
    "ref_id": "REF-2699",
@@ -99648,7 +99203,6 @@
     "Demulcent (soothing mucilage)"
    ],
    "conditions": [
-    "Acid reflux",
     "Cough",
     "Indigestion",
     "Sore throat"
@@ -106308,8 +105862,8 @@
     "Astringent"
    ],
    "conditions": [
-    "Diarrhoea",
-    "Skin irritation"
+    "Infection (general)",
+    "Urinary tract infection (UTI)"
    ]
   },
   {

@@ -1,0 +1,174 @@
+plant	condition	ref	op
+althaea_officinalis	acid-reflux	REF-0481	rm
+althaea_officinalis	eczema	REF-0482	rm
+althaea_officinalis	skin-irritation	REF-0482	rm
+althaea_officinalis	skin-irritation	REF-1370	rm
+althaea_officinalis	sore-throat	REF-0482	add
+althaea_officinalis	indigestion	REF-0482	add
+althaea_officinalis	acid-reflux	-	drop(no evidence left)
+andrographis_paniculata	arthritis	REF-0393	rm
+andrographis_paniculata	arthritis	REF-0394	rm
+andrographis_paniculata	fever	REF-0394	rm
+andrographis_paniculata	immune-support	REF-0393	rm
+andrographis_paniculata	immune-support	REF-0394	rm
+andrographis_paniculata	immune-support	REF-0395	add
+andrographis_paniculata	inflammation	REF-0394	rm
+andrographis_paniculata	inflammation	REF-0395	add
+andrographis_paniculata	skin-irritation	REF-0393	rm
+andrographis_paniculata	skin-irritation	REF-0394	rm
+andrographis_paniculata	sore-throat	REF-0395	rm
+andrographis_paniculata	sore-throat	REF-1615	add
+andrographis_paniculata	wounds	REF-0393	rm
+andrographis_paniculata	wounds	REF-0394	rm
+anethum_graveolens	*	REF-0103->REF-1391	merge
+anethum_graveolens	*	REF-0310->REF-3094	merge
+anethum_graveolens	inflammation	REF-1391	null
+anethum_graveolens	arthritis	REF-3094	rm
+anethum_graveolens	cardiovascular-support	REF-3094	rm
+anethum_graveolens	infection	REF-3094	rm
+anethum_graveolens	metabolic-support	REF-3094	rm
+anethum_graveolens	skin-irritation	REF-3094	rm
+anethum_graveolens	swelling	REF-3094	rm
+anethum_graveolens	uti	REF-3094	rm
+anethum_graveolens	wounds	REF-3094	rm
+anethum_graveolens	swelling	-	drop(no evidence left)
+anethum_graveolens	uti	-	drop(no evidence left)
+angelica_archangelica	acid-reflux	REF-0695	rm
+angelica_archangelica	appetite-loss	REF-0695	rm
+angelica_archangelica	arthritis	REF-0695	rm
+angelica_archangelica	bloating	REF-0695	rm
+angelica_archangelica	bronchitis	REF-0695	rm
+angelica_archangelica	cold	REF-0695	rm
+angelica_archangelica	cough	REF-0695	rm
+angelica_archangelica	fever	REF-0695	rm
+angelica_archangelica	indigestion	REF-0695	rm
+angelica_archangelica	insomnia	REF-0695	rm
+angelica_archangelica	memory	REF-0695	rm
+angelica_archangelica	respiratory-support	REF-0695	rm
+angelica_archangelica	skin-irritation	REF-0695	rm
+angelica_archangelica	stress	REF-0695	rm
+angelica_archangelica	arthritis	REF-0397	rm
+angelica_archangelica	arthritis	REF-0696	rm
+angelica_archangelica	skin-irritation	REF-0397	rm
+angelica_archangelica	acid-reflux	-	drop(no evidence left)
+angelica_archangelica	appetite-loss	-	drop(no evidence left)
+angelica_archangelica	bloating	-	drop(no evidence left)
+angelica_archangelica	bronchitis	-	drop(no evidence left)
+angelica_archangelica	cold	-	drop(no evidence left)
+angelica_archangelica	cough	-	drop(no evidence left)
+angelica_archangelica	fever	-	drop(no evidence left)
+angelica_archangelica	indigestion	-	drop(no evidence left)
+angelica_archangelica	memory	-	drop(no evidence left)
+angelica_archangelica	respiratory-support	-	drop(no evidence left)
+arctium_lappa	*	REF-2858	purge
+arctium_lappa	*	REF-2860	purge
+arctium_lappa	arthritis	REF-0309	rm
+arctium_lappa	arthritis	REF-0313	rm
+arctium_lappa	bloating	REF-0309	rm
+arctium_lappa	bloating	REF-0313	rm
+arctium_lappa	eczema	REF-0309	rm
+arctium_lappa	eczema	REF-0313	rm
+arctium_lappa	indigestion	REF-0309	rm
+arctium_lappa	indigestion	REF-0313	rm
+arctium_lappa	inflammation	REF-0309	rm
+arctium_lappa	inflammation	REF-0313	rm
+arctium_lappa	skin-irritation	REF-0309	rm
+arctium_lappa	skin-irritation	REF-0313	rm
+arctium_lappa	arthritis	REF-0705	rm
+arctium_lappa	arthritis	REF-0709	rm
+arctium_lappa	eczema	REF-0705	rm
+arctium_lappa	eczema	REF-0709	rm
+arctium_lappa	skin-irritation	REF-0705	rm
+arctium_lappa	skin-irritation	REF-0709	rm
+arctium_lappa	bloating	REF-0706	rmk
+arctium_lappa	indigestion	REF-0706	rmk
+arctium_lappa	eczema	-	drop(no evidence left)
+arctium_minus	*	REF-0476	purge
+arctium_minus	*	REF-0477	purge
+arctium_minus	acne	-	drop(no evidence left)
+arctium_minus	detox	-	drop(no evidence left)
+arctium_minus	eczema	-	drop(no evidence left)
+arctium_minus	psoriasis	-	drop(no evidence left)
+arctium_minus	swelling	-	drop(no evidence left)
+arctium_minus	urinary-support	-	drop(no evidence left)
+arctium_minus	uti	-	drop(no evidence left)
+arctium_minus	action:alterative	-	needs-review(unsourced)
+arctostaphylos_uva_ursi	*	REF-2862	purge
+arctostaphylos_uva_ursi	uti	REF-0700	null
+arctostaphylos_uva_ursi	uti	REF-0701	null
+arctostaphylos_uva_ursi	infection	REF-0700	null
+arctostaphylos_uva_ursi	infection	REF-0701	null
+arctostaphylos_uva_ursi	urinary-support	REF-0700	null
+arctostaphylos_uva_ursi	urinary-support	REF-0701	null
+arctostaphylos_uva_ursi	diarrhea	REF-0405	rm
+arctostaphylos_uva_ursi	diarrhea	REF-0407	rm
+arctostaphylos_uva_ursi	skin-irritation	REF-0405	rm
+arctostaphylos_uva_ursi	skin-irritation	REF-0407	rm
+arctostaphylos_uva_ursi	wounds	REF-0405	rm
+arctostaphylos_uva_ursi	urinary-support	REF-2376	rmk
+arctostaphylos_uva_ursi	uti	REF-0407	add
+arctostaphylos_uva_ursi	infection	REF-0407	add
+arctostaphylos_uva_ursi	diarrhea	-	drop(no evidence left)
+arctostaphylos_uva_ursi	skin-irritation	-	drop(no evidence left)
+arnica_montana	*	REF-0399	purge
+arnica_montana	*	REF-2098	purge
+arnica_montana	*	REF-2103	purge
+arnica_montana	arthritis	REF-0398	rm
+arnica_montana	back-pain	REF-0398	rm
+arnica_montana	bruising	REF-0398	rm
+arnica_montana	headache	REF-0398	rm
+arnica_montana	muscle-soreness	REF-0398	rm
+arnica_montana	pain	REF-0398	rm
+arnica_montana	skin-irritation	REF-0398	rm
+arnica_montana	swelling	REF-0398	rm
+arnica_montana	wounds	REF-0398	rm
+arnica_montana	arthritis	REF-0726	add
+arnica_montana	bruising	REF-0726	add
+arnica_montana	inflammation	REF-0726	add
+arnica_montana	back-pain	-	drop(no evidence left)
+arnica_montana	headache	-	drop(no evidence left)
+arnica_montana	muscle-soreness	-	drop(no evidence left)
+arnica_montana	pain	-	drop(no evidence left)
+arnica_montana	swelling	-	drop(no evidence left)
+artemisia_absinthium	arthritis	REF-0112	rm
+artemisia_absinthium	bloating	REF-0112	rm
+artemisia_absinthium	blood-sugar	REF-0112	rm
+artemisia_absinthium	indigestion	REF-0112	rm
+artemisia_absinthium	infection	REF-0112	rm
+artemisia_absinthium	inflammation	REF-0112	rm
+artemisia_absinthium	menstrual-cramps	REF-0112	rm
+artemisia_absinthium	metabolic-support	REF-0112	rm
+artemisia_absinthium	muscle-spasm	REF-0112	rm
+artemisia_absinthium	skin-irritation	REF-0112	rm
+artemisia_absinthium	wounds	REF-0112	rm
+artemisia_absinthium	arthritis	REF-0098	rm
+artemisia_absinthium	blood-sugar	REF-0098	rm
+artemisia_absinthium	inflammation	REF-0098	rm
+artemisia_absinthium	menstrual-cramps	REF-0098	rm
+artemisia_absinthium	metabolic-support	REF-0098	rm
+artemisia_absinthium	muscle-spasm	REF-0098	rm
+artemisia_absinthium	skin-irritation	REF-0098	rm
+artemisia_absinthium	wounds	REF-0098	rm
+artemisia_absinthium	cancer	REF-0728	rm
+artemisia_absinthium	menstrual-cramps	-	drop(no evidence left)
+artemisia_absinthium	muscle-spasm	-	drop(no evidence left)
+artemisia_vulgaris	arthritis	REF-0149	rm
+artemisia_vulgaris	bloating	REF-0149	rm
+artemisia_vulgaris	indigestion	REF-0149	rm
+artemisia_vulgaris	infection	REF-0149	rm
+artemisia_vulgaris	inflammation	REF-0149	rm
+artemisia_vulgaris	insomnia	REF-0149	rm
+artemisia_vulgaris	menstrual-cramps	REF-0149	rm
+artemisia_vulgaris	muscle-spasm	REF-0149	rm
+artemisia_vulgaris	skin-irritation	REF-0149	rm
+artemisia_vulgaris	wounds	REF-0149	rm
+artemisia_vulgaris	bloating	REF-0098	rm
+artemisia_vulgaris	infection	REF-0098	rm
+artemisia_vulgaris	insomnia	REF-0098	rm
+artemisia_vulgaris	menstrual-cramps	REF-0098	rm
+artemisia_vulgaris	muscle-spasm	REF-0098	rm
+artemisia_vulgaris	skin-irritation	REF-0098	rm
+artemisia_vulgaris	wounds	REF-0098	rm
+artemisia_vulgaris	insomnia	-	drop(no evidence left)
+artemisia_vulgaris	menstrual-cramps	-	drop(no evidence left)
+artemisia_vulgaris	muscle-spasm	-	drop(no evidence left)

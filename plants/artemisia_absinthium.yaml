@@ -184,22 +184,25 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0098
-  - REF-0112
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
+  - REF-0098
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0098
-  - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
 - condition: blood-sugar
   note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0098
-  - REF-0112
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
+  - REF-0098
 - condition: cancer
   note: Artemisia absinthium (wormwood) total flavonoids (cynaroside, astragalin) inhibit HeLa cervical
     cancer cells via ROS-mediated apoptosis, and its terpenoid alpha,beta-thujone induces caspase-dependent
@@ -207,56 +210,51 @@ indications:
   reference_ids:
   - REF-2866
   - REF-2867
-  - REF-0728
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0728
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0098
-  - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0098
-  - REF-0112
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0098
-  - REF-0112
+  reference_ids: []
   status: needs-review
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0098
+  mechanistic_exclude_ids:
   - REF-0112
-  status: needs-review
+  - REF-0098
 - condition: metabolic-support
   note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0098
-  - REF-0112
+  reference_ids: []
   status: needs-review
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0098
+  mechanistic_exclude_ids:
   - REF-0112
-  status: needs-review
+  - REF-0098
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0098
-  - REF-0112
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
+  - REF-0098
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0098
-  - REF-0112
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
+  - REF-0098
 contraindications:
 - note: 'CAUTION: Contains thujone, which is neurotoxic in significant amounts. Internal use should be
     limited in duration and dose - short-term use only (under 4 weeks). Contraindicated in pregnancy (powerful
@@ -316,4 +314,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   per the integrity-first sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 4): added
   harvest_readiness for flower/leaf/stem (provisional) - gather the flowering herb as it comes into flower,
   sourced to Useful Temperate Plants (REF-3208, Artemisia absinthium). Existing harvesting.season not
-  inherited; signal re-derived.'
+  inherited; signal re-derived.
+  | 2026-11-10: symptom-source audit batch 2 - REF-0112 (Hoffmann, Medical Herbalism) unverifiable
+  - removed. Grieve (A Modern Herbal, Common Wormwood) supports flatulence, enfeebled digestion
+  and antiseptic use; its gout line is about Roman wormwood - removed from the other 8 pairs.
+  REF-0728 abstract names no cancer use.'

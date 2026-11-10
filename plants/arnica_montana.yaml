@@ -125,16 +125,12 @@ actions:
   note: Topical analgesic for muscle soreness and pain
   reference_ids:
   - REF-0398
-  - REF-0399
-  - REF-2098
   status: verified
 - action: anti-inflammatory
   note: Topical anti-inflammatory for bruising, swelling and sprains
   reference_ids:
   - REF-0398
-  - REF-0399
   - REF-0726
-  - REF-2098
   - REF-2099
   - REF-2100
   - REF-2101
@@ -167,32 +163,25 @@ actions:
   reference_ids:
   - REF-0398
   - REF-2102
-  - REF-2103
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0398
+  - REF-0726
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0399
   - REF-2101
   - REF-2105
-- condition: back-pain
-  note: inferred from analgesic action
-  reference_ids:
   - REF-0398
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0399
 - condition: bruising
   note: Antiecchymotic / vulnerary (helps disperse bruises); Topical anti-inflammatory for bruising, swelling
     and sprains
   reference_ids:
-  - REF-0398
-  - REF-0399
+  - REF-0726
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0398
 - condition: cancer
   note: Arnica montana and its constituent helenalin exert anticancer activity against several tumour
     types in vitro and in vivo, inhibiting NF-kappaB (p65) signalling, inducing apoptosis and synergizing
@@ -202,13 +191,6 @@ indications:
   - REF-2864
   - REF-2865
   status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0398
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0399
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -218,40 +200,23 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0398
-  - REF-0399
+  - REF-0726
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2105
-- condition: muscle-soreness
-  note: Topical analgesic for muscle soreness and pain
-  reference_ids:
-  - REF-0398
-  status: verified
-- condition: pain
-  note: Topical analgesic for muscle soreness and pain
-  reference_ids:
-  - REF-0398
-  - REF-0399
-  status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0398
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0399
   - REF-2105
-- condition: swelling
-  note: Topical anti-inflammatory for bruising, swelling and sprains
-  reference_ids:
   - REF-0398
-  - REF-0399
-  status: verified
 - condition: wounds
   note: inferred from vulnerary action
-  reference_ids:
-  - REF-0398
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0398
 contraindications:
 - note: EXTERNAL USE ONLY on unbroken skin. Arnica is toxic if swallowed and can cause stomach pain, vomiting,
     diarrhoea, breathing difficulty, irregular heartbeat and, in serious cases, cardiac arrest; the only
@@ -276,19 +241,16 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0400
-  - REF-0399
   status: verified
 references:
 - REF-0725
 - REF-0726
 - REF-0727
 - REF-0398
-- REF-2098
 - REF-2099
 - REF-2100
 - REF-2101
 - REF-2102
-- REF-2103
 - REF-2104
 - REF-2105
 - REF-2106
@@ -326,4 +288,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   of flower heads in a carrier oil is a different preparation and is not covered. | 2026-08-14
   (harvest-calendar campaign, Batch 4): added harvest_readiness for the flower head (provisional) - pick
   the heads when fully open, before insect damage, sourced to Useful Temperate Plants (REF-3207). Existing
-  harvesting.season not inherited; signal re-derived.'
+  harvesting.season not inherited; signal re-derived.
+  | 2026-11-10: symptom-source audit batch 2 - Homeopathic studies purged (owner decision
+  2026-11-10: not evidence for the plant): REF-0399 (also non-significant vs placebo, p=0.059),
+  REF-2098, REF-2103 (Alpine/Boiron pellets; p=0.097/0.074). REF-0398 abstract names only
+  antibacterial/anti-inflammatory/antitumour activity. REF-0726 quotes the EU monograph (blunt
+  injuries, inflammations, rheumatic muscle and joint complaints) - wired to bruising,
+  inflammation, arthritis.'

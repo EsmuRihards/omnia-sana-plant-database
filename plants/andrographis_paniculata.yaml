@@ -174,13 +174,13 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0393
-  - REF-0394
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1621
   - REF-1623
+  - REF-0393
+  - REF-0394
 - condition: cancer
   note: Andrographolide (from Andrographis paniculata) acts as a chemopreventive and antitumour agent
     against breast, lung, colorectal, cervical, prostate and hepatocellular cancers and leukaemia, inducing
@@ -201,15 +201,16 @@ indications:
 - condition: fever
   note: Antipyretic (fever)
   reference_ids:
-  - REF-0394
   - REF-0395
   status: verified
 - condition: immune-support
   note: Immunostimulant / immune support
   reference_ids:
+  - REF-0395
+  status: verified
+  mechanistic_exclude_ids:
   - REF-0393
   - REF-0394
-  status: verified
 - condition: infection
   note: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom
     severity and duration)
@@ -222,33 +223,34 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0393
-  - REF-0394
+  - REF-0395
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1621
+  - REF-0394
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0393
-  - REF-0394
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1621
   - REF-1623
+  - REF-0393
+  - REF-0394
 - condition: sore-throat
   reference_ids:
   - REF-0392
-  - REF-0395
+  - REF-1615
   status: verified
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0393
-  - REF-0394
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1615
   - REF-1622
+  - REF-0393
+  - REF-0394
 contraindications:
 - note: 'Avoid in pregnancy and when trying to conceive: high doses have shown reproductive toxicity in
     animals and the herb has a traditional reputation as an abortifacient.'
@@ -312,4 +314,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLo
   extract appears anywhere in the posology. | 2026-08-14 (harvest-calendar campaign, Batch 3): added
   harvest_readiness for the aerial parts (provisional) - cut at the flowering stage when most plants are
   in bloom, leaving 10-15 cm of stem to regrow, sourced to Purdue NewCROP (REF-3199, new). Existing
-  harvesting.season not inherited; signal re-derived.'
+  harvesting.season not inherited; signal re-derived.
+  | 2026-11-10: symptom-source audit batch 2 - REF-0393 (review, was mis-tagged rct) and REF-0394
+  kept only where their abstracts name the use. MSKCC About Herbs (REF-0395) names colds/flu,
+  URIs, fevers, infectious disease, immunostimulation, inflammation - not sore throat; wired
+  accordingly. REF-1615 (RCT, A. paniculata spray in acute pharyngitis, positive) added to
+  sore-throat.'

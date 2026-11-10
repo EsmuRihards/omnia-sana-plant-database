@@ -124,7 +124,6 @@ actions:
   note: Arbutin, the hydroquinone glucoside characteristic of bearberry (Arctostaphylos uva-ursi), shows
     antiproliferative and pro-apoptotic activity across multiple cancer types (preclinical).
   reference_ids:
-  - REF-2862
   - REF-2863
   status: needs-review
 - action: antimicrobial
@@ -161,60 +160,51 @@ indications:
     via miR-338-3p/MTHFD1L and AKT/mTOR inactivation, and has documented anticancer potential against
     bladder, breast, colon, liver and other cancers (preclinical).
   reference_ids:
-  - REF-2862
   - REF-2863
-  status: needs-review
-- condition: diarrhea
-  note: inferred from astringent action
-  reference_ids:
-  - REF-0405
-  - REF-0407
   status: needs-review
 - condition: infection
   note: Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)
   reference_ids:
   - REF-0405
-  - REF-0700
-  - REF-0701
+  - REF-0407
   status: verified
   mechanistic_exclude_ids:
   - REF-0406
   - REF-2378
-- condition: skin-irritation
-  note: inferred from astringent action
-  reference_ids:
-  - REF-0405
-  - REF-0407
-  status: needs-review
+  null_result_ids:
+  - REF-0700
+  - REF-0701
 - condition: urinary-support
   note: inferred from urinary-antiseptic action
   reference_ids:
   - REF-0405
-  - REF-0700
-  - REF-0701
-  - REF-2376
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0406
+  null_result_ids:
+  - REF-0700
+  - REF-0701
 - condition: uti
   note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
     by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis
     (short-term)
   reference_ids:
   - REF-0405
+  - REF-0407
+  status: verified
+  null_result_ids:
   - REF-0700
   - REF-0701
-  status: verified
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0405
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0406
   - REF-0700
   - REF-0701
   - REF-2378
+  - REF-0405
 contraindications:
 - note: 'Short-term use only: not for more than 1 week at a time and not more than about 5 times per year.
     If symptoms persist beyond ~4 days, worsen, or are accompanied by fever, blood in the urine or pain,
@@ -301,4 +291,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 4): added harvest_readiness for the leaf
   (provisional) - gather only the green evergreen leaves in early autumn and dry gently, sourced to Useful
   Temperate Plants (REF-3206). Safety cross-link to the box (Buxus sempervirens) lookalike. Existing
-  harvesting.season not inherited.'
+  harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 2 - REF-0701 (ATAFUTI: no effect on symptom severity)
+  and REF-0700 (more symptom burden than fosfomycin) moved to null_result_ids. EU + ESCOP
+  monographs cover lower UTI only - removed from diarrhea, skin-irritation, wounds; ESCOP REF-0407
+  wired to uti + infection. REF-2862 purged (arbutin, no species).'

@@ -1,4 +1,4 @@
-<!-- structure-fingerprint: 29bef9c48c68 -->
+<!-- structure-fingerprint: a02b20af597b -->
 <!-- doc-version: 1.4  ·  last-updated: 2026-11-10 -->
 
 # Omnia Sana — Data Principles (canonical, model-agnostic)

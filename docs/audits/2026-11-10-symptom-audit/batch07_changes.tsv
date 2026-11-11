@@ -1,0 +1,133 @@
+plant	condition	ref	op
+eschscholzia_californica	*	REF-0606	purge
+eschscholzia_californica	back-pain	REF-0427	rm
+eschscholzia_californica	headache	REF-0427	rm
+eschscholzia_californica	stress	REF-0427	rm
+eschscholzia_californica	stress	REF-3099	add
+eschscholzia_californica	insomnia	REF-3099	add
+eucalyptus_globulus	arthritis	REF-0309	rm
+eucalyptus_globulus	immune-support	REF-0309	rm
+eucalyptus_globulus	infection	REF-0309	rm
+eucalyptus_globulus	inflammation	REF-0309	rm
+eucalyptus_globulus	skin-irritation	REF-0309	rm
+eucalyptus_globulus	wounds	REF-0309	rm
+eucalyptus_globulus	cold	REF-0256	rm
+eucalyptus_globulus	wounds	REF-0256	rm
+eucalyptus_globulus	cold	REF-3083	add
+eucalyptus_globulus	respiratory-support	REF-3083	add
+euphrasia_officinalis	*	REF-2173	purge
+euphrasia_officinalis	*	REF-0613	purge
+euphrasia_officinalis	arthritis	REF-0449	rm
+euphrasia_officinalis	cough	REF-0449	rm
+euphrasia_officinalis	diarrhea	REF-0449	rm
+euphrasia_officinalis	fever	REF-0449	rm
+euphrasia_officinalis	skin-irritation	REF-0449	rm
+euphrasia_officinalis	wounds	REF-0449	rm
+euphrasia_officinalis	inflammation	REF-2581	rm
+euphrasia_officinalis	eye-strain	REF-3084	nulladd
+euphrasia_officinalis	arthritis	-	drop(no evidence left)
+euphrasia_officinalis	cough	-	drop(no evidence left)
+euphrasia_officinalis	diarrhea	-	drop(no evidence left)
+euphrasia_officinalis	fever	-	drop(no evidence left)
+euphrasia_officinalis	wounds	-	drop(no evidence left)
+filipendula_ulmaria	acid-reflux	REF-0033	rm
+filipendula_ulmaria	arthritis	REF-0033	rm
+filipendula_ulmaria	back-pain	REF-0033	rm
+filipendula_ulmaria	headache	REF-0033	rm
+filipendula_ulmaria	indigestion	REF-0033	rm
+filipendula_ulmaria	infection	REF-0033	rm
+filipendula_ulmaria	inflammation	REF-0033	rm
+filipendula_ulmaria	menstrual-cramps	REF-0033	rm
+filipendula_ulmaria	muscle-spasm	REF-0033	rm
+filipendula_ulmaria	pain	REF-0033	rm
+filipendula_ulmaria	skin-irritation	REF-0033	rm
+filipendula_ulmaria	swelling	REF-0033	rm
+filipendula_ulmaria	urinary-support	REF-0033	rm
+filipendula_ulmaria	uti	REF-0033	rm
+filipendula_ulmaria	wounds	REF-0033	rm
+filipendula_ulmaria	acid-reflux	REF-0098	rm
+filipendula_ulmaria	arthritis	REF-0098	rm
+filipendula_ulmaria	back-pain	REF-0098	rm
+filipendula_ulmaria	headache	REF-0098	rm
+filipendula_ulmaria	indigestion	REF-0098	rm
+filipendula_ulmaria	infection	REF-0098	rm
+filipendula_ulmaria	inflammation	REF-0098	rm
+filipendula_ulmaria	menstrual-cramps	REF-0098	rm
+filipendula_ulmaria	muscle-spasm	REF-0098	rm
+filipendula_ulmaria	pain	REF-0098	rm
+filipendula_ulmaria	skin-irritation	REF-0098	rm
+filipendula_ulmaria	uti	REF-0098	rm
+filipendula_ulmaria	wounds	REF-0098	rm
+filipendula_ulmaria	arthritis	REF-0062	rm
+filipendula_ulmaria	back-pain	REF-0062	rm
+filipendula_ulmaria	headache	REF-0062	rm
+filipendula_ulmaria	pain	REF-0062	rm
+filipendula_ulmaria	skin-irritation	REF-0062	rm
+filipendula_ulmaria	arthritis	REF-3072	add
+filipendula_ulmaria	pain	REF-3072	add
+filipendula_ulmaria	infection	-	drop(no evidence left)
+filipendula_ulmaria	menstrual-cramps	-	drop(no evidence left)
+filipendula_ulmaria	muscle-spasm	-	drop(no evidence left)
+filipendula_ulmaria	uti	-	drop(no evidence left)
+filipendula_ulmaria	wounds	-	drop(no evidence left)
+filipendula_vulgaris	arthritis	REF-2031	rm
+filipendula_vulgaris	indigestion	REF-0815	rm
+filipendula_vulgaris	wounds	REF-2730	rm
+filipendula_vulgaris	wounds	REF-2734	rm
+filipendula_vulgaris	cognitive-function	REF-2738	rm
+filipendula_vulgaris	indigestion	-	drop(no evidence left)
+foeniculum_vulgare	bronchitis	REF-0537	rm
+foeniculum_vulgare	cough	REF-0537	rm
+foeniculum_vulgare	wounds	REF-0537	rm
+foeniculum_vulgare	menstrual-cramps	REF-2586	null
+foeniculum_vulgare	menstrual-cramps	REF-3080	add
+foeniculum_vulgare	cough	REF-3080	add
+foeniculum_vulgare	respiratory-support	REF-3080	add
+foeniculum_vulgare	bronchitis	-	drop(no evidence left)
+galium_aparine	bruising	REF-0035	rm
+galium_aparine	bruising	REF-0113	rm
+galium_aparine	eczema	REF-0035	rm
+galium_aparine	eczema	REF-0113	rm
+galium_aparine	infection	REF-0035	rm
+galium_aparine	infection	REF-0113	rm
+galium_aparine	skin-irritation	REF-0035	rm
+galium_aparine	skin-irritation	REF-0113	rm
+galium_aparine	swelling	REF-0035	rm
+galium_aparine	swelling	REF-0113	rm
+galium_aparine	urinary-support	REF-0035	rm
+galium_aparine	urinary-support	REF-0113	rm
+galium_aparine	uti	REF-0035	rm
+galium_aparine	uti	REF-0113	rm
+galium_aparine	wounds	REF-0035	rm
+galium_aparine	wounds	REF-0113	rm
+galium_aparine	wounds	REF-1720	add
+galium_aparine	wounds	REF-1725	add
+galium_aparine	infection	REF-1720	add
+galium_aparine	bruising	REF-1720	mexcl
+galium_aparine	bruising	REF-1725	mexcl
+galium_aparine	bruising	-	drop(no evidence left)
+galium_aparine	eczema	-	drop(no evidence left)
+galium_aparine	skin-irritation	-	drop(no evidence left)
+galium_aparine	swelling	-	drop(no evidence left)
+galium_aparine	urinary-support	-	drop(no evidence left)
+galium_aparine	uti	-	drop(no evidence left)
+ganoderma_lingzhi	*	REF-0125	purge
+ganoderma_lingzhi	arthritis	REF-0298	rm
+ganoderma_lingzhi	cardiovascular-support	REF-0298	rm
+ganoderma_lingzhi	cold	REF-0298	rm
+ganoderma_lingzhi	inflammation	REF-0298	rm
+ganoderma_lingzhi	insomnia	REF-0298	rm
+ganoderma_lingzhi	metabolic-support	REF-0298	rm
+ganoderma_lingzhi	skin-irritation	REF-0298	rm
+ganoderma_lingzhi	cold	REF-0019	rm
+ganoderma_lingzhi	infection	REF-0019	rm
+ganoderma_lingzhi	cancer	REF-3394	add
+ganoderma_lingzhi	immune-support	REF-3394	add
+ganoderma_lingzhi	arthritis	-	drop(no evidence left)
+ganoderma_lingzhi	cardiovascular-support	-	drop(no evidence left)
+ganoderma_lingzhi	insomnia	-	drop(no evidence left)
+ganoderma_lingzhi	skin-irritation	-	drop(no evidence left)
+gentiana_lutea	bloating	REF-0453	rm
+gentiana_lutea	bloating	REF-0580	rm
+gentiana_lutea	indigestion	REF-0580	rm
+gentiana_lutea	bloating	-	needs-review(mechanistic only)

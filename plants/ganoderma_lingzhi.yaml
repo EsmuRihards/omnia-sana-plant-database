@@ -101,7 +101,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0019
-  - REF-0125
   - REF-0298
   - REF-0822
   - REF-2041
@@ -109,7 +108,6 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-0019
-  - REF-0125
   - REF-0298
   - REF-2039
   - REF-2044
@@ -119,7 +117,6 @@ actions:
 - action: antidiabetic
   reference_ids:
   - REF-0019
-  - REF-0125
   - REF-0298
   - REF-2040
   - REF-2044
@@ -127,7 +124,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0019
-  - REF-0125
   - REF-0298
   - REF-2040
   - REF-2042
@@ -135,14 +131,12 @@ actions:
 - action: antiviral
   reference_ids:
   - REF-0019
-  - REF-0125
   - REF-0298
   - REF-2041
   status: verified
 - action: immunomodulator
   reference_ids:
   - REF-0019
-  - REF-0125
   - REF-0298
   - REF-2039
   - REF-2040
@@ -153,20 +147,9 @@ actions:
 - action: sedative
   reference_ids:
   - REF-0019
-  - REF-0125
   - REF-0298
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0298
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0019
-  - REF-0125
-  - REF-0822
-  - REF-2041
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
@@ -174,79 +157,51 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0019
-  - REF-0125
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
-  - REF-0125
   - REF-0821
   - REF-2039
   - REF-2045
+  - REF-3394
   status: needs-review
-- condition: cardiovascular-support
-  reference_ids:
-  - REF-0298
-  status: verified
 - condition: cold
   note: inferred from antiviral action
-  reference_ids:
-  - REF-0019
-  - REF-0298
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0125
   - REF-2041
   - REF-2043
+  - REF-0298
+  - REF-0019
 - condition: immune-support
   reference_ids:
   - REF-0019
   - REF-0298
+  - REF-3394
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0125
 - condition: infection
   note: inferred from antiviral action
   reference_ids:
-  - REF-0019
   - REF-0298
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0125
   - REF-2041
+  - REF-0019
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0298
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0019
-  - REF-0125
-- condition: insomnia
-  note: inferred from sedative action
-  reference_ids:
   - REF-0298
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0019
-  - REF-0125
 - condition: metabolic-support
   note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0298
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0019
-  - REF-0125
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
   - REF-0298
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0019
-  - REF-0125
-  - REF-0822
-  - REF-2041
 contraindications:
 - note: Generally well tolerated at standard doses. May cause mild digestive upset, dry mouth, or dizziness
     in some individuals. May enhance the effects of anticoagulant and antihypertensive medications. Avoid
@@ -254,7 +209,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0019
-  - REF-0125
   - REF-0298
   status: verified
 - note: Duke (2002) rates reishi (Ganoderma lucidum) as + and notes immunostimulant, hepatoprotective,
@@ -266,7 +220,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0019
-  - REF-0125
   - REF-0298
   - REF-0063
   status: verified
@@ -363,4 +316,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (phenological) - added harvest_readiness for fruiting-body (provisional: North Spore REF-3263; conk mature
   when the growing margin turns white/orange to matte red and growth stops, before spore drop).
   species_confirmed FALSE - the source is genus-level reishi, not Ganoderma lingzhi. SAFETY: fatal
-  Podostroma cornu-damae lookalike.'
+  Podostroma cornu-damae lookalike.
+  | 2026-11-10: symptom-source audit batch 7 - Owner decision 2026-11-11: "Ganoderma lucidum" in
+  reishi/lingzhi literature is the name long misapplied to East Asian G. lingzhi, so it counts for
+  this record. REF-0125 (Cochrane 2012) purged - superseded by the 2016 update REF-3394 (PubMed
+  27045603; "could be administered as an alternative adjunct ... enhancing tumour response and
+  stimulating host immunity"), added to cancer and immune-support. REF-0298 (Wachtel-Galor 2011
+  chapter; full text behind a reCAPTCHA, abstract read) names blood glucose control, immune
+  modulation, hepatoprotection and bacteriostasis - kept for blood-sugar, immune-support,
+  infection; removed from 7 pairs. REF-0019 metadata corrected to Bao 2002 Phytochemistry (PubMed
+  11809453; in vitro/mouse immune stimulation) - kept for immune-support only.'

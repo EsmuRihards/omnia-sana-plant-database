@@ -139,17 +139,19 @@ indications:
 - condition: bloating
   note: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric
     acid, enzyme and bile secretion)
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0453
   - REF-0580
-  status: verified
 - condition: indigestion
   note: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric
     acid, enzyme and bile secretion)
   reference_ids:
   - REF-0453
-  - REF-0580
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0580
 contraindications:
 - note: Because bitters increase stomach-acid secretion, gentian is contraindicated in peptic (stomach
     or duodenal) ulcer disease and hyperacidity.
@@ -232,4 +234,9 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   before a meal'' for liquid preparations. Adults and elderly only. No new reference needed. status ->
   verified. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for root (provisional:
   PFAF REF-3261; deep root dug in autumn from mature, several-year-old plants). SAFETY CRITICAL: fatal
-  Veratrum album (white hellebore) rosette/root confusion. Binomial confirmed.'
+  Veratrum album (white hellebore) rosette/root confusion. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 7 - EU monograph REF-0453 (known indications: temporary
+  loss of appetite; mild dyspeptic/gastrointestinal disorders - EMA page 429, flagged for owner
+  spot-check) kept for appetite-loss and indigestion, removed from bloating. REF-0580 is a
+  genus-level Gentiana review (Chinese species, prose-only attribution) - removed from bloating
+  and indigestion; retagged narrative-review.'

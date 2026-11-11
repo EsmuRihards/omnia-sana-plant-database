@@ -166,60 +166,29 @@ actions:
   - REF-1725
   status: verified
 indications:
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-0035
-  - REF-0113
-  status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1722
   - REF-1724
   status: needs-review
-- condition: eczema
-  note: inferred from emollient action
-  reference_ids:
-  - REF-0035
-  - REF-0113
-  status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
+  - REF-1720
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0035
   - REF-0113
-  status: needs-review
-- condition: skin-irritation
-  note: inferred from emollient action
-  reference_ids:
-  - REF-0035
-  - REF-0113
-  status: needs-review
-- condition: swelling
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0035
-  - REF-0113
-  status: needs-review
-- condition: urinary-support
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0035
-  - REF-0113
-  status: needs-review
-- condition: uti
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0035
-  - REF-0113
-  status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
+  - REF-1720
+  - REF-1725
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0035
   - REF-0113
-  status: needs-review
 contraindications:
 - note: Duke (2002) describes cleavers as a diuretic, lymph tonic, and depurative with experimental support
     (score 1). The plant has been used in traditional medicine for swollen lymph nodes, urinary complaints,
@@ -275,4 +244,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
   left unsourced at status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for leaf + stem + seed (all provisional: PFAF REF-3260;
-  herb gathered as it comes into flower May-June, seeds ripen Aug-Sept). Binomial confirmed.'
+  herb gathered as it comes into flower May-June, seeds ripen Aug-Sept). Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 7 - REF-0035 (British Herbal Pharmacopoeia 1983, not
+  available online) and REF-0113 (Hoffmann, Medical Herbalism; unverifiable per batches 2-3)
+  removed from every symptom as unverifiable. REF-1720 (in vitro wound healing + antimicrobial)
+  and REF-1725 (Quinlan 1883 BMJ, chronic ulcers) wired directly to wounds; REF-1720 to infection.
+  Wound/ulcer papers are not bruise evidence (mechanistic cards hidden).'

@@ -21171,14 +21171,6 @@
       "REF-0428"
      ],
      "status": "draft"
-    },
-    {
-     "name": "Standardised extract",
-     "text": "Concentrated extract, sometimes combined with hawthorn and magnesium, studied in a clinical trial for mild-to-moderate anxiety.",
-     "reference_ids": [
-      "REF-0606"
-     ],
-     "status": "verified"
     }
    ],
    "dosage": [
@@ -21214,7 +21206,6 @@
      "note": "Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety",
      "reference_ids": [
       "REF-0427",
-      "REF-0606",
       "REF-0807",
       "REF-0806",
       "REF-2305"
@@ -21237,38 +21228,40 @@
      "condition": "anxiety",
      "note": "Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety",
      "reference_ids": [
-      "REF-0427",
-      "REF-0606"
+      "REF-0427"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 2,
      "label": "Anxiety"
     },
     {
      "condition": "back-pain",
      "note": "inferred from analgesic action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0427"
      ],
-     "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Back pain"
     },
     {
      "condition": "headache",
      "note": "inferred from analgesic action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0427"
      ],
-     "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Headache"
     },
     {
      "condition": "insomnia",
      "note": "Mild sedative / sleep support for insomnia (positive allosteric modulation of GABA-A receptors)",
      "reference_ids": [
-      "REF-0427"
+      "REF-0427",
+      "REF-3099"
      ],
      "status": "verified",
      "evidence": 2,
@@ -21278,11 +21271,10 @@
      "condition": "nervous-tension",
      "note": "Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety",
      "reference_ids": [
-      "REF-0427",
-      "REF-0606"
+      "REF-0427"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 2,
      "label": "Nervous tension"
     },
     {
@@ -21299,11 +21291,13 @@
      "condition": "stress",
      "note": "inferred from anxiolytic action",
      "reference_ids": [
-      "REF-0427",
-      "REF-0606"
+      "REF-3099"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "mechanistic_exclude_ids": [
+      "REF-0427"
+     ],
+     "evidence": 1,
      "label": "Stress"
     }
    ],
@@ -21555,12 +21549,11 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0256"
+      "REF-0256",
+      "REF-0309"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -21569,20 +21562,25 @@
      "condition": "cold",
      "note": "inferred from immunomodulator action",
      "reference_ids": [
-      "REF-0256",
-      "REF-0309"
+      "REF-0309",
+      "REF-3083"
      ],
      "status": "needs-review",
-     "evidence": 2,
+     "mechanistic_exclude_ids": [
+      "REF-0256"
+     ],
+     "evidence": 1,
      "label": "Cold & flu"
     },
     {
      "condition": "immune-support",
      "reference_ids": [
-      "REF-0256",
-      "REF-0309"
+      "REF-0256"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0309"
+     ],
      "evidence": 2,
      "label": "Immune support"
     },
@@ -21590,10 +21588,12 @@
      "condition": "infection",
      "note": "inferred from antifungal action",
      "reference_ids": [
-      "REF-0256",
-      "REF-0309"
+      "REF-0256"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0309"
+     ],
      "evidence": 2,
      "label": "Infection (general)"
     },
@@ -21601,10 +21601,12 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0256",
-      "REF-0309"
+      "REF-0256"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0309"
+     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -21612,7 +21614,8 @@
      "condition": "respiratory-support",
      "reference_ids": [
       "REF-0256",
-      "REF-0309"
+      "REF-0309",
+      "REF-3083"
      ],
      "status": "verified",
      "evidence": 2,
@@ -21621,12 +21624,11 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0256"
+      "REF-0256",
+      "REF-0309"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -21634,12 +21636,13 @@
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0256",
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 2,
+     "mechanistic_exclude_ids": [
+      "REF-0309",
+      "REF-0256"
+     ],
+     "evidence": 1,
      "label": "Wounds"
     }
    ],
@@ -21809,14 +21812,6 @@
       "REF-0449"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Sterile eye drops",
-     "text": "Commercially prepared, sterile Euphrasia eye drops used for conjunctivitis; a prospective clinical cohort found improvement in most users.",
-     "reference_ids": [
-      "REF-0613"
-     ],
-     "status": "verified"
     }
    ],
    "dosage": [
@@ -21836,7 +21831,6 @@
      "reference_ids": [
       "REF-0448",
       "REF-0449",
-      "REF-2173",
       "REF-2174",
       "REF-2581"
      ],
@@ -21871,22 +21865,6 @@
      "label": "Allergy / hay fever"
     },
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0449"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0448",
-      "REF-2173",
-      "REF-2174",
-      "REF-2581"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
      "condition": "cancer",
      "note": "inferred from anticancer action",
      "reference_ids": [
@@ -21897,49 +21875,18 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "cough",
-     "note": "Soothes upper-respiratory catarrh and mild infection (traditional)",
-     "reference_ids": [
-      "REF-0449"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Cough"
-    },
-    {
-     "condition": "diarrhea",
-     "note": "inferred from astringent action",
-     "reference_ids": [
-      "REF-0449"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0448"
-     ],
-     "evidence": 1,
-     "label": "Diarrhoea"
-    },
-    {
      "condition": "eye-strain",
      "note": "Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional, as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported recovery or clear improvement in most patients with conjunctivitis; Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)",
      "reference_ids": [
       "REF-0448",
-      "REF-0449",
-      "REF-0613"
-     ],
-     "status": "needs-review",
-     "evidence": 3,
-     "label": "Eye strain / eye health"
-    },
-    {
-     "condition": "fever",
-     "note": "Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)",
-     "reference_ids": [
       "REF-0449"
      ],
      "status": "needs-review",
-     "evidence": 1,
-     "label": "Fever"
+     "null_result_ids": [
+      "REF-3084"
+     ],
+     "evidence": 2,
+     "label": "Eye strain / eye health"
     },
     {
      "condition": "infection",
@@ -21957,10 +21904,12 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0448",
-      "REF-0449",
-      "REF-2581"
+      "REF-0449"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-2581"
+     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -21977,30 +21926,15 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0449"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0448",
-      "REF-2173",
-      "REF-2581"
+      "REF-2581",
+      "REF-0449"
      ],
      "evidence": 1,
      "label": "Skin irritation"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from astringent action",
-     "reference_ids": [
-      "REF-0449"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0448"
-     ],
-     "evidence": 1,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -22025,7 +21959,6 @@
     "REF-0812",
     "REF-0813",
     "REF-0814",
-    "REF-2173",
     "REF-2174",
     "REF-2175",
     "REF-2176",
@@ -22308,13 +22241,12 @@
     {
      "condition": "acid-reflux",
      "note": "inferred from gastroprotective action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0062"
+      "REF-0062",
+      "REF-0033",
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Acid reflux"
@@ -22323,23 +22255,27 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0033",
-      "REF-0062",
-      "REF-0098"
+      "REF-3072"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0033",
+      "REF-0098",
+      "REF-0062"
+     ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "back-pain",
      "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0062",
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0033",
+      "REF-0098",
+      "REF-0062"
+     ],
      "evidence": 1,
      "label": "Back pain"
     },
@@ -22357,103 +22293,67 @@
     {
      "condition": "headache",
      "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0062",
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0033",
+      "REF-0098",
+      "REF-0062"
+     ],
      "evidence": 1,
      "label": "Headache"
     },
     {
      "condition": "indigestion",
      "note": "inferred from gastroprotective action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0062"
+      "REF-0062",
+      "REF-0033",
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Indigestion"
     },
     {
-     "condition": "infection",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0062"
-     ],
-     "evidence": 1,
-     "label": "Infection (general)"
-    },
-    {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0033",
-      "REF-0062",
-      "REF-0098"
+      "REF-0062"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "mechanistic_exclude_ids": [
+      "REF-0033",
+      "REF-0098"
+     ],
+     "evidence": 2,
      "label": "Inflammation (general)"
-    },
-    {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0062"
-     ],
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0062"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
     },
     {
      "condition": "pain",
      "reference_ids": [
-      "REF-0033",
-      "REF-0062",
-      "REF-0098"
+      "REF-3072"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0033",
+      "REF-0098",
+      "REF-0062"
+     ],
      "evidence": 1,
      "label": "Pain (general)"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0062",
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0033",
+      "REF-0098",
+      "REF-0062"
+     ],
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -22461,13 +22361,13 @@
      "condition": "swelling",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0033",
       "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0062",
-      "REF-2037"
+      "REF-2037",
+      "REF-0033"
      ],
      "evidence": 1,
      "label": "Swelling / fluid retention"
@@ -22476,45 +22376,16 @@
      "condition": "urinary-support",
      "note": "inferred from diuretic action",
      "reference_ids": [
-      "REF-0033",
       "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0062",
-      "REF-2037"
+      "REF-2037",
+      "REF-0033"
      ],
      "evidence": 1,
      "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0062",
-      "REF-2037"
-     ],
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0033",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0062"
-     ],
-     "evidence": 1,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -22901,11 +22772,12 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-rheumatic / analgesic action (salicylates)",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-2031"
      ],
-     "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
@@ -22920,16 +22792,6 @@
      "label": "Diarrhoea"
     },
     {
-     "condition": "indigestion",
-     "note": "inferred from gastroprotective action",
-     "reference_ids": [
-      "REF-0815"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Indigestion"
-    },
-    {
      "condition": "liver-support",
      "note": "Hepatoprotective in animal models.",
      "reference_ids": [
@@ -22942,15 +22804,14 @@
     {
      "condition": "wounds",
      "note": "inferred from astringent/antimicrobial action and traditional wound-wash use",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-2034",
       "REF-2730",
       "REF-2734"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2034"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Wounds"
     },
     {
@@ -22979,10 +22840,12 @@
      "condition": "cognitive-function",
      "note": "inferred from nootropic/neuroprotective action",
      "reference_ids": [
-      "REF-2736",
-      "REF-2738"
+      "REF-2736"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-2738"
+     ],
      "evidence": 2,
      "label": "Cognitive function"
     },
@@ -23343,22 +23206,15 @@
    ],
    "indications": [
     {
-     "condition": "bronchitis",
-     "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0537"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bronchitis"
-    },
-    {
      "condition": "cough",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0537"
+      "REF-3080"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0537"
+     ],
      "evidence": 1,
      "label": "Cough"
     },
@@ -23372,7 +23228,7 @@
      "mechanistic_exclude_ids": [
       "REF-1656"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
@@ -23381,10 +23237,13 @@
      "reference_ids": [
       "REF-0604",
       "REF-0605",
-      "REF-2586"
+      "REF-3080"
      ],
      "status": "verified",
-     "evidence": 9,
+     "null_result_ids": [
+      "REF-2586"
+     ],
+     "evidence": 8,
      "label": "Menstrual cramps"
     },
     {
@@ -23394,7 +23253,7 @@
       "REF-0537"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Muscle spasm"
     },
     {
@@ -23412,21 +23271,21 @@
      "condition": "respiratory-support",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0537"
+      "REF-0537",
+      "REF-3080"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Respiratory support"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0537"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1656"
+      "REF-1656",
+      "REF-0537"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -23945,17 +23804,6 @@
    ],
    "indications": [
     {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0035",
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bruising"
-    },
-    {
      "condition": "cancer",
      "note": "inferred from anticancer action",
      "reference_ids": [
@@ -23967,80 +23815,32 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "eczema",
-     "note": "inferred from emollient action",
-     "reference_ids": [
-      "REF-0035",
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Eczema"
-    },
-    {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
+      "REF-1720"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0035",
       "REF-0113"
      ],
-     "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from emollient action",
-     "reference_ids": [
-      "REF-0035",
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Skin irritation"
-    },
-    {
-     "condition": "swelling",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0035",
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Swelling / fluid retention"
-    },
-    {
-     "condition": "urinary-support",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0035",
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0035",
-      "REF-0113"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
+      "REF-1720",
+      "REF-1725"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0035",
       "REF-0113"
      ],
-     "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Wounds"
     }
    ],
@@ -24191,7 +23991,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0019",
-      "REF-0125",
       "REF-0298",
       "REF-0822",
       "REF-2041"
@@ -24202,7 +24001,6 @@
      "action": "anticancer",
      "reference_ids": [
       "REF-0019",
-      "REF-0125",
       "REF-0298",
       "REF-2039",
       "REF-2044",
@@ -24215,7 +24013,6 @@
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0019",
-      "REF-0125",
       "REF-0298",
       "REF-2040",
       "REF-2044"
@@ -24226,7 +24023,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0019",
-      "REF-0125",
       "REF-0298",
       "REF-2040",
       "REF-2042"
@@ -24237,7 +24033,6 @@
      "action": "antiviral",
      "reference_ids": [
       "REF-0019",
-      "REF-0125",
       "REF-0298",
       "REF-2041"
      ],
@@ -24247,7 +24042,6 @@
      "action": "immunomodulator",
      "reference_ids": [
       "REF-0019",
-      "REF-0125",
       "REF-0298",
       "REF-2039",
       "REF-2040",
@@ -24261,29 +24055,12 @@
      "action": "sedative",
      "reference_ids": [
       "REF-0019",
-      "REF-0125",
       "REF-0298"
      ],
      "status": "verified"
     }
    ],
    "indications": [
-    {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0298"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0019",
-      "REF-0125",
-      "REF-0822",
-      "REF-2041"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
     {
      "condition": "blood-sugar",
      "note": "inferred from antidiabetic action",
@@ -24292,46 +24069,34 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0019",
-      "REF-0125"
+      "REF-0019"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
      "note": "inferred from anticancer action",
      "reference_ids": [
-      "REF-0125",
       "REF-0821",
       "REF-2039",
-      "REF-2045"
+      "REF-2045",
+      "REF-3394"
      ],
      "status": "needs-review",
-     "evidence": 2,
+     "evidence": 7,
      "label": "Cancer (anticancer research)"
-    },
-    {
-     "condition": "cardiovascular-support",
-     "reference_ids": [
-      "REF-0298"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cold",
      "note": "inferred from antiviral action",
-     "reference_ids": [
-      "REF-0019",
-      "REF-0298"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0125",
       "REF-2041",
-      "REF-2043"
+      "REF-2043",
+      "REF-0298",
+      "REF-0019"
      ],
      "evidence": 1,
      "label": "Cold & flu"
@@ -24340,87 +24105,50 @@
      "condition": "immune-support",
      "reference_ids": [
       "REF-0019",
-      "REF-0298"
+      "REF-0298",
+      "REF-3394"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0125"
-     ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Immune support"
     },
     {
      "condition": "infection",
      "note": "inferred from antiviral action",
      "reference_ids": [
-      "REF-0019",
       "REF-0298"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0125",
-      "REF-2041"
+      "REF-2041",
+      "REF-0019"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0298"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0019",
-      "REF-0125"
+      "REF-0298"
      ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "insomnia",
-     "note": "inferred from sedative action",
-     "reference_ids": [
-      "REF-0298"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0019",
-      "REF-0125"
-     ],
-     "evidence": 1,
-     "label": "Insomnia / sleeplessness"
-    },
-    {
      "condition": "metabolic-support",
      "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0298"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0019",
-      "REF-0125"
+      "REF-0298"
      ],
      "evidence": 1,
      "label": "Metabolic support"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0298"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0019",
-      "REF-0125",
-      "REF-0822",
-      "REF-2041"
-     ],
-     "evidence": 1,
-     "label": "Skin irritation"
     }
    ],
    "contraindications": [
@@ -24429,7 +24157,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0019",
-      "REF-0125",
       "REF-0298"
      ],
      "status": "verified"
@@ -24439,7 +24166,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0019",
-      "REF-0125",
       "REF-0298",
       "REF-0063"
      ],
@@ -24681,11 +24407,12 @@
     {
      "condition": "bloating",
      "note": "Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric acid, enzyme and bile secretion)",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0453",
       "REF-0580"
      ],
-     "status": "verified",
      "evidence": 1,
      "label": "Bloating"
     },
@@ -24693,10 +24420,12 @@
      "condition": "indigestion",
      "note": "Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric acid, enzyme and bile secretion)",
      "reference_ids": [
-      "REF-0453",
-      "REF-0580"
+      "REF-0453"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0580"
+     ],
      "evidence": 1,
      "label": "Indigestion"
     }

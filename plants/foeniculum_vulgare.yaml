@@ -154,16 +154,13 @@ actions:
   - REF-0537
   status: verified
 indications:
-- condition: bronchitis
-  note: inferred from expectorant action
-  reference_ids:
-  - REF-0537
-  status: needs-review
 - condition: cough
   note: inferred from expectorant action
   reference_ids:
-  - REF-0537
+  - REF-3080
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0537
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -177,8 +174,10 @@ indications:
   reference_ids:
   - REF-0604
   - REF-0605
-  - REF-2586
+  - REF-3080
   status: verified
+  null_result_ids:
+  - REF-2586
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
@@ -195,14 +194,15 @@ indications:
   note: inferred from expectorant action
   reference_ids:
   - REF-0537
+  - REF-3080
   status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0537
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1656
+  - REF-0537
 contraindications:
 - note: 'When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used as medicine
     at appropriate doses for a short period of time. There isn''t enough reliable information to know
@@ -374,4 +374,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   arguably cuts against the claim. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
   for seed (provisional REF-3259, ripe in autumn) and leaf (provisional REF-3259, through the growing
   season); root = GAP (no sourced timing). SAFETY: Conium maculatum (poison hemlock) fatal lookalike.
-  Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Madaus gives the fruit only (''Erntezeit: September des zweiten Jahres'') and notes Radix foeniculi is rarely used, and Wikipedia has nothing on the taproot.'
+  Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Madaus gives the fruit only (''Erntezeit: September des zweiten Jahres'') and notes Radix foeniculi is rarely used, and Wikipedia has nothing on the taproot.
+  | 2026-11-10: symptom-source audit batch 7 - REF-2586 (Cochrane 2016 dietary supplements for
+  dysmenorrhoea): "no consistent evidence of effectiveness" for fennel vs placebo (MD -0.34, 95%
+  CI -0.74 to 0.06) and no difference vs NSAIDs - moved to null_result_ids for menstrual-cramps.
+  REF-0605 reports a fennel-specific positive estimate and stays. REF-0537 (Badgujar review;
+  retagged narrative-review) names respiratory ailments, antimicrobial and antispasmodic activity
+  - removed from bronchitis, cough, wounds. EU monograph REF-3080 (bitter fennel fruit: minor
+  spasm with menstrual periods; expectorant in cough associated with cold - EMA page 429, flagged)
+  added to menstrual-cramps, cough, respiratory-support.'

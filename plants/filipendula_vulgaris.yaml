@@ -262,20 +262,16 @@ indications:
   status: verified
 - condition: arthritis
   note: inferred from anti-rheumatic / analgesic action (salicylates)
-  reference_ids:
-  - REF-2031
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2031
 - condition: diarrhea
   note: inferred from astringent (tannin) action and traditional use
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2034
-- condition: indigestion
-  note: inferred from gastroprotective action
-  reference_ids:
-  - REF-0815
-  status: needs-review
 - condition: liver-support
   note: Hepatoprotective in animal models.
   reference_ids:
@@ -283,12 +279,12 @@ indications:
   status: verified
 - condition: wounds
   note: inferred from astringent/antimicrobial action and traditional wound-wash use
-  reference_ids:
-  - REF-2730
-  - REF-2734
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2034
+  - REF-2730
+  - REF-2734
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -305,8 +301,9 @@ indications:
   note: inferred from nootropic/neuroprotective action
   reference_ids:
   - REF-2736
-  - REF-2738
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2738
 - condition: anxiety
   note: Anxiolytic in experimental models.
   reference_ids:
@@ -469,4 +466,9 @@ internal_notes: 'Created 2026-07-10. 16 PubMed-verified @article refs REF-2725..
   (phenological) - added harvest_readiness for flower + aerial-parts (provisional: PFAF REF-3257, gathered
   while in flower May-August); root = GAP (no sourced root timing; the DB autumn claim citing REF-2726 was
   not verified this pass). SAFETY: dropwort root tubers are name-confused with the fatal Oenanthe crocata.
-  Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Grieve''s entry (under Meadowsweet, as Spiraea Filipendula) describes the tubers but gives no digging season. Fatal Oenanthe crocata name-confusion clause retained.'
+  Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Grieve''s entry (under Meadowsweet, as Spiraea Filipendula) describes the tubers but gives no digging season. Fatal Oenanthe crocata name-confusion clause retained.
+  | 2026-11-10: symptom-source audit batch 7 - F. hexapetala Gilib. = F. vulgaris (POWO synonym).
+  REF-2031 (rat hyperalgesia) names pain only - removed from arthritis. REF-0815
+  (gastric-ulcer/anti-inflammatory models) is not indigestion evidence. REF-2730/REF-2734
+  (antimicrobial) removed from wounds. REF-2738 (brain mitochondria after hypoxia) removed from
+  cognitive-function; REF-2736 (nootropic) remains.'

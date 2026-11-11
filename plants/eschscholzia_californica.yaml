@@ -90,8 +90,7 @@ preparations:
 - name: Standardised extract
   text: Concentrated extract, sometimes combined with hawthorn and magnesium, studied in a clinical trial
     for mild-to-moderate anxiety.
-  reference_ids:
-  - REF-0606
+  reference_ids: []
   status: verified
 dosage:
 - name: Powdered herbal substance
@@ -122,7 +121,6 @@ actions:
     poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety
   reference_ids:
   - REF-0427
-  - REF-0606
   - REF-0807
   - REF-0806
   - REF-2305
@@ -140,29 +138,30 @@ indications:
     poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety
   reference_ids:
   - REF-0427
-  - REF-0606
   status: verified
 - condition: back-pain
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0427
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0427
 - condition: headache
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0427
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0427
 - condition: insomnia
   note: Mild sedative / sleep support for insomnia (positive allosteric modulation of GABA-A receptors)
   reference_ids:
   - REF-0427
+  - REF-3099
   status: verified
 - condition: nervous-tension
   note: Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California
     poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety
   reference_ids:
   - REF-0427
-  - REF-0606
   status: verified
 - condition: pain
   note: Mild analgesic (traditional use for pain)
@@ -172,9 +171,10 @@ indications:
 - condition: stress
   note: inferred from anxiolytic action
   reference_ids:
-  - REF-0427
-  - REF-0606
+  - REF-3099
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0427
 contraindications:
 - note: 'Has sedative activity: it can add to the effects of alcohol, sedatives and sleep medicines, so
     avoid combining and do not use before driving.'
@@ -251,4 +251,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor
   is exactly the gap that campaign recorded as unreachable. Species confirmed from the monograph''s own
   title, not from the slug. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
   aerial-parts (provisional: PFAF REF-3254, whole flowering herb gathered when in flower, summer). Single
-  Ken Fern lineage. Binomial confirmed.'
+  Ken Fern lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 7 - REF-0606 purged: the RCT tested a fixed combination
+  (Crataegus + Eschscholzia + magnesium), not California poppy alone. REF-0427 (in vitro GABA-A)
+  names sedative, anxiolytic and analgesic effects - removed from back-pain, headache, stress. EU
+  monograph REF-3099 (relief of mild symptoms of mental stress and to aid sleep; EMA page 429 -
+  flagged for owner spot-check) added to stress and insomnia.'

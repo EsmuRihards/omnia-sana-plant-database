@@ -200,26 +200,29 @@ actions:
 indications:
 - condition: acid-reflux
   note: inferred from gastroprotective action
-  reference_ids:
-  - REF-0033
-  - REF-0098
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0062
+  - REF-0033
+  - REF-0098
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0033
-  - REF-0062
-  - REF-0098
+  - REF-3072
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0033
+  - REF-0098
+  - REF-0062
 - condition: back-pain
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0033
-  - REF-0062
-  - REF-0098
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0033
+  - REF-0098
+  - REF-0062
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -228,98 +231,62 @@ indications:
   status: needs-review
 - condition: headache
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0033
-  - REF-0062
-  - REF-0098
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0033
+  - REF-0098
+  - REF-0062
 - condition: indigestion
   note: inferred from gastroprotective action
-  reference_ids:
-  - REF-0033
-  - REF-0098
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0062
-- condition: infection
-  note: inferred from antimicrobial action
-  reference_ids:
   - REF-0033
   - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0062
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0033
   - REF-0062
-  - REF-0098
-  status: needs-review
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0033
-  - REF-0098
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0062
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
   - REF-0033
   - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0062
 - condition: pain
   reference_ids:
-  - REF-0033
-  - REF-0062
-  - REF-0098
+  - REF-3072
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0033
+  - REF-0098
+  - REF-0062
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0033
-  - REF-0062
-  - REF-0098
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0033
+  - REF-0098
+  - REF-0062
 - condition: swelling
   note: inferred from diuretic action
   reference_ids:
-  - REF-0033
   - REF-0098
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0062
   - REF-2037
+  - REF-0033
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
-  - REF-0033
   - REF-0098
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0062
   - REF-2037
-- condition: uti
-  note: inferred from diuretic action
-  reference_ids:
   - REF-0033
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0062
-  - REF-2037
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0033
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0062
 contraindications:
 - note: Generally safe in normal culinary and medicinal doses. Avoid in salicylate sensitivity or aspirin
     allergy. Not recommended for children with viral illnesses (Reye's syndrome risk, as with other salicylate-containing
@@ -387,4 +354,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   posology, the reference confirmed present on the plant, and the dose form / plant part / route checked
   for mismatch; text rewritten to the source rather than having a reference stapled on. | 2026-08-15:
   Harvest Calendar (phenological) - added harvest_readiness for flower + leaf + stem (all provisional: PFAF
-  REF-3256, flowering tops cut in summer as the flowers open). Single lineage. Binomial confirmed.'
+  REF-3256, flowering tops cut in summer as the flowers open). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 7 - REF-0033 (Bridge 2008, The Herbal Remedy Handbook)
+  removed from every symptom as unverifiable. Grieve (REF-0098, page read) names diarrhoea,
+  stomach, strangury and dropsy, fevers - kept for urinary-support (strangury) and swelling
+  (dropsy) only. REF-0062 (Drummond, PubMed 22711544, THP1 macrophages) names inflammation only;
+  retagged preclinical, abstract and DOI added. EU monograph REF-3072 (supportive treatment of
+  common cold; relief of minor articular pain - EMA page 429, flagged for owner spot-check) added
+  to arthritis and pain.'

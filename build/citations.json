@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3211,
+ "count": 3208,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -5069,7 +5069,10 @@
     "Antioxidant",
     "Vulnerary (wound healing)"
    ],
-   "conditions": []
+   "conditions": [
+    "Infection (general)",
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-1223",
@@ -9132,8 +9135,7 @@
    ],
    "conditions": [
     "Cancer (anticancer research)",
-    "Infection (general)",
-    "Inflammation (general)"
+    "Infection (general)"
    ]
   },
   {
@@ -37003,38 +37005,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-2173",
-   "key": "meiergirard2020euphrasia",
-   "type": "article",
-   "title": "Euphrasia eye drops in preterm neonates with ocular discharge: a randomized double-blind placebo-controlled trial",
-   "authors": "Meier-Girard, D., Gerstenberg, G., Stoffel, L., Kohler, T., Klein, S.D., Eschenmoser, M., Mitter, V.R., Nelle, M. and Wolf, U.",
-   "journal": "Frontiers in Pediatrics",
-   "year": "2020",
-   "doi": "10.3389/fped.2020.00449",
-   "url": "",
-   "link": "https://doi.org/10.3389/fped.2020.00449",
-   "link_type": "doi",
-   "citation": "Meier-Girard, D., Gerstenberg, G., Stoffel, L., Kohler, T., Klein, S.D., Eschenmoser, M., Mitter, V.R., Nelle, M. and Wolf, U (2020) 'Euphrasia eye drops in preterm neonates with ocular discharge: a randomized double-blind placebo-controlled trial', Frontiers in Pediatrics, 8, pp. 449. doi:10.3389/fped.2020.00449",
-   "abstract": "Aim: To investigate whether the early administration of Euphrasia eye drops® in preterm neonates presenting with ocular discharge fosters the resolution of the ocular discharge and reduces the need for topical antibiotic therapy, as compared to placebo. Methods: We conducted a randomized double-blind placebo-controlled trial at the University Children's Hospital Bern, Switzerland. Preterm neonates with white, yellow, or green ocular discharge were included. Infants were randomly assigned (1:1) to the Euphrasia arm (Euphrasia eye drops®, Weleda AG, Arlesheim) or the placebo arm (NaCl 0.9%). Euphrasia or placebo was administrated at a dose of one drop in each eye four times a day over a period of 96 h. The primary outcome was the treatment success, defined as no ocular discharge at 96 h and no use of topical antibiotic therapy during the 96-h intervention. Results: A total of 114 neonates were screened and 84 were randomized. Among neonates in the Euphrasia arm, 22 (55.0%) achieved our primary outcome compared to 21 (51.2%) in the placebo arm ( p = 0.85). In the Euphrasia arm, time to resolution of reddening tended to fall within the shorter bracket of 24 to 48 h (24 (92.3%) vs. 12 (80.0%) in the placebo arm, p = 0.34) and relapse or first signs of reddening during the 96-h intervention tended to be lower [3 (7.9%) eyes vs. 8 (18.2%) eyes in the placebo arm, p = 0.17]. Tearing at 96 h tended to be lower in the Euphrasia arm [5 (12.8%) eyes in the Euphrasia arm vs. 12 (27.3%) eyes in the placebo arm, p = 0.10]. Discussion: Euphrasia did not significantly improve treatment success, defined as no ocular discharge at 96 h and no use of topical antibiotic therapy during the 96-h intervention. However, results suggest that Euphrasia may be of benefit for symptoms such as reddening and tearing, and thus improve the comfort of patients. Trial Registration: The trial is registered at the US National Institutes of Health (ClinicalTrials.gov) NCT04122300 and at the portal for human research in Switzerland SNCTP000003490.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Euphrasia eye drops in preterm neonates with ocular discharge: a randomized double-blind placebo-controlled trial",
-   "plants": [
-    "Euphrasy",
-    "Eyebright",
-    "Red eyebright"
-   ],
-   "scientific": [
-    "Euphrasia officinalis"
-   ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-3146",
    "key": "emahmpc2020achillea",
    "type": "standard",
@@ -37347,7 +37317,7 @@
    "link_type": "doi",
    "citation": "Jiang, M., Cui, B.W., Wu, Y.L., Nan, J.X. and Lian, L.H (2020) 'Genus Gentiana: A review on phytochemistry, pharmacology and molecular mechanism', Journal of Ethnopharmacology, pp. 2020. doi:10.1016/j.jep.2020.113391",
    "abstract": "Ethnopharmacological relevance As the largest genus of Gentianaceae family, the Gentiana genus harbors over 400 species, widely distributed in the alpine areas of temperate regions worldwide. Plants from Gentiana genus are traditionally used to treat a wide variety of diseases including easing pain dispelling rheumatism, and treating liver jaundice, chronic pharyngitis and arthritis in China since ancient times. In this review, a systematic and constructive overview of the traditional uses, phytochemistry, molecular mechanisms, toxicology and pharmacological activities of the researched species of genus Gentiana is provided. Materials and methods The used information in this review is based on various databases (PubMed, Science Direct, Wiley online library, Wanfang Data, Web of Science) through a search using the keyword \"Gentiana\" in the period of 1981-2019. Besides, other ethnopharmacological information was acquired from Chinese herbal classic books and Chinese pharmacopoeia 2015 edition. Results The plants from Gentiana genus have a long tradition of various medicinal uses in Europe and Asia. Phytochemical studies showed that the main bioactive components isolated from this genus includes iridoids xanthones and flavonoids. These compounds and extracts isolated from this genus show a wide range of protective activities including hepatic protection, gastrointestinal protection, cardiovascular protection, immunomodulation, joint protection, pulmonary protection, bone protection and reproductive protection. Molecular mechanism studies also indicated several potential therapeutic targets in the treatment of certain diseases by plants from this genus. Besides, natural products from this plant show no significant animal toxicity, cytotoxicity or genotoxicity. Conclusion This review summarized the traditional medicinal uses, phytochemistry, pharmacology, toxicology and molecular mechanism of genus Gentiana, providing references and research tendency for plant-based drug development and further clinical studies.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -37364,10 +37334,7 @@
    "actions": [
     "Digestive aid"
    ],
-   "conditions": [
-    "Bloating",
-    "Indigestion"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0455",
@@ -48773,10 +48740,20 @@
     "clinical"
    ],
    "display": "European Union herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus, Revision 1",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Common Fennel",
+    "Fennel",
+    "Florence Fennel"
+   ],
+   "scientific": [
+    "Foeniculum vulgare"
+   ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Cough",
+    "Menstrual cramps",
+    "Respiratory support"
+   ]
   },
   {
    "ref_id": "REF-0085",
@@ -51905,7 +51882,6 @@
     "Gastroprotective"
    ],
    "conditions": [
-    "Indigestion",
     "Inflammation (general)"
    ]
   },
@@ -56178,7 +56154,6 @@
     "Anti-rheumatic / anti-arthritic"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Pain (general)"
    ]
   },
@@ -56961,9 +56936,7 @@
     "Foeniculum vulgare"
    ],
    "actions": [],
-   "conditions": [
-    "Menstrual cramps"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2014",
@@ -57659,6 +57632,40 @@
     "Antioxidant"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3394",
+   "key": "jin2016ganoderma",
+   "type": "article",
+   "title": "Ganoderma lucidum (Reishi mushroom) for cancer treatment",
+   "authors": "Jin, X., Ruiz Beguerie, J., Sze, D.M. and Chan, G.C.",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2016",
+   "doi": "10.1002/14651858.CD007731.pub3",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD007731.pub3",
+   "link_type": "doi",
+   "citation": "Jin, X., Ruiz Beguerie, J., Sze, D.M. and Chan, G.C (2016) 'Ganoderma lucidum (Reishi mushroom) for cancer treatment', Cochrane Database of Systematic Reviews, 4, pp. CD007731. doi:10.1002/14651858.CD007731.pub3",
+   "abstract": "Ganoderma lucidum is a natural medicine that is widely used and recommended by Asian physicians and naturopaths for its supporting effects on immune system. Laboratory research and a handful of preclinical trials have suggested that G. lucidum carries promising anticancer and immunomodulatory properties. The popularity of taking G. lucidum as an alternative medicine has been increasing in cancer patients. However, there is no systematic review that has been conducted to evaluate the actual benefits of G. lucidum in cancer treatment. To evaluate the clinical effects of G. lucidum on long-term survival, tumour response, host immune functions and quality of life in cancer patients, as well as adverse events associated with its use. We searched an extensive set of databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, NIH, AMED, CBM, CNKI, CMCC and VIP Information/Chinese Scientific Journals Database was searched for randomised controlled trials (RCTs) in October 2011. Other strategies used were scanning the references of articles retrieved, handsearching of the International Journal of Medicinal Mushrooms and contact with herbal medicine experts and manufacturers of G. lucidum. For this update we updated the searches in February 2016. To be eligible for being included in this review, studies had to be RCTs comparing the efficacy of G. lucidum medications to active or placebo control in patients with cancer that had been diagnosed by pathology. All types and stages of cancer were eligible for inclusion. Trials were not restricted on the basis of language. Five RCTs met the inclusion criteria and were included in this review. Two independent review authors assessed the methodological quality of individual trials. Common primary outcomes were tumour response evaluated according to the World Health Organization (WHO) criteria, immune function parameters such as natural killer (NK)-cell activity and T-lymphocyte co-receptor subsets, and quality of life measured by the Karnofsky scale score. No trial had recorded long-term survival rates. Associated adverse events were reported in one study. A meta-analysis was performed to pool available data from the primary trials. Results were gauged using relative risks (RR) and standard mean differences (SMD) for dichotomous and continuous data respectively, with a 95% confidence interval (CI). The methodological quality of primary studies was generally unsatisfying and the results were reported inadequately in many aspects. Additional information was not available from primary trialists. The meta-analysis results showed that patients who had been given G. lucidum alongside with chemo/radiotherapy were more likely to respond positively compared to chemo/radiotherapy alone (RR 1.50; 95% CI 0.90 to 2.51, P = 0.02). G. lucidum treatment alone did not demonstrate the same regression rate as that seen in combined therapy. The results for host immune function indicators suggested that G. lucidum simultaneously increases the percentage of CD3, CD4 and CD8 by 3.91% (95% CI 1.92% to 5.90%, P < 0.01), 3.05% (95% CI 1.00% to 5.11%, P < 0.01) and 2.02% (95% CI 0.21% to 3.84%, P = 0.03), respectively. In addition, leukocyte, NK-cell activity and CD4/CD8 ratio were marginally elevated. Four studies showed that patients in the G. lucidum group had relatively improved quality of life in comparison to controls. One study recorded minimal side effects, including nausea and insomnia. No significant haematological or hepatological toxicity was reported. Our review did not find sufficient evidence to justify the use of G. lucidum as a first-line treatment for cancer. It remains uncertain whether G. lucidum helps prolong long-term cancer survival. However, G. lucidum could be administered as an alternative adjunct to conventional treatment in consideration of its potential of enhancing tumour response and stimulating host immunity. G. lucidum was generally well tolerated by most participants with only a scattered number of minor adverse events. No major toxicity was observed across the studies. Although there were few reports of harmful effect of G. lucidum, the use of its extract should be judicious, especially after thorough consideration of cost-benefit and patient preference. Future studies should put emphasis on the improvement in methodological quality and further clinical research on the effect of G. lucidum on cancer long-term survival are needed. An update to this review will be performed every two years.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Ganoderma lucidum (Reishi mushroom) for cancer treatment",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cancer (anticancer research)",
+    "Immune support"
+   ]
   },
   {
    "ref_id": "REF-0204",
@@ -61147,9 +61154,7 @@
     "Antimicrobial",
     "Antioxidant"
    ],
-   "conditions": [
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2011",
@@ -61673,10 +61678,19 @@
     "clinical"
    ],
    "display": "European Union herbal monograph on Eschscholzia californica Cham., herba",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "California Poppy",
+    "Cup of gold",
+    "Golden poppy"
+   ],
+   "scientific": [
+    "Eschscholzia californica"
+   ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Insomnia / sleeplessness",
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-0079",
@@ -62455,12 +62469,9 @@
    ],
    "conditions": [
     "Anxiety",
-    "Back pain",
-    "Headache",
     "Insomnia / sleeplessness",
     "Nervous tension",
-    "Pain (general)",
-    "Stress"
+    "Pain (general)"
    ]
   },
   {
@@ -64417,7 +64428,7 @@
    "link_type": "doi",
    "citation": "Paduch, R. and colleagues (2014) 'Assessment of Eyebright (Euphrasia officinalis L.) Extract Activity in Relation to Human Corneal Cells Using In Vitro Tests'. doi:10.5152/balkanmedj.2014.8377",
    "abstract": "Background Euphrasia officinalis L. is an herb traditionally used in folk medicine, mainly in the treatment of eye disorders. Aims The present study analyzed the activity of three extracts of E. officinalis L. (ethanol, ethyl acetate and heptane) on cultured human corneal epithelial cells (10.014 pRSV-T). Study design In vitro study. Methods Toxicity, free radical scavenging activity and the immunomodulatory effects of the extracts were tested using the thiazolyl blue tetrazolium bromide (MTT) or Neutral Red, 2,2-Diphenyl-1-picrylhydrazyl (DPPH) and ELISA tests, respectively. Moreover, nitric oxide levels and cytoskeleton architecture were analyzed after corneal cell incubation with the plant extracts. Results We show that the biological effect depended on both the concentration and the extraction solvent used. Heptane extracts, distinct from those in ethanol and ethyl acetate, were toxic to 10.014 pRSV-T cells at low concentrations (25 μg/mL) and did not demonstrate free radical scavenging effects. All tested extracts decreased pro-inflammatory cytokine expression (IL-1β, IL-6 and TNF-α) and also anti-inflammatory IL-10 expression by human corneal cells when the extracts were added to the cell culture medium for 24 h. Conclusion In conclusion, we show that the promising effects of the application of E. officinalis L. preparations as a supplementary therapy for eye disorders are associated with the ethanol and ethyl acetate extracts, not the heptane extract.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -65499,7 +65510,7 @@
    "link_type": "doi",
    "citation": "Badgujar, S.B. and Patel, V.V. and Bandivdekar, A.H (2014) 'Foeniculum vulgare Mill: a review of its botany, phytochemistry, pharmacology, contemporary application, and toxicology', BioMed Research International. doi:10.1155/2014/842674",
    "abstract": "Foeniculum vulgare Mill commonly called fennel has been used in traditional medicine for a wide range of ailments related to digestive, endocrine, reproductive, and respiratory systems. Additionally, it is also used as a galactagogue agent for lactating mothers. The review aims to gather the fragmented information available in the literature regarding morphology, ethnomedicinal applications, phytochemistry, pharmacology, and toxicology of Foeniculum vulgare. It also compiles available scientific evidence for the ethnobotanical claims and to identify gaps required to be filled by future research. Findings based on their traditional uses and scientific evaluation indicates that Foeniculum vulgare remains to be the most widely used herbal plant. It has been used for more than forty types of disorders. Phytochemical studies have shown the presence of numerous valuable compounds, such as volatile compounds, flavonoids, phenolic compounds, fatty acids, and amino acids. Compiled data indicate their efficacy in several in vitro and in vivo pharmacological properties such as antimicrobial, antiviral, anti-inflammatory, antimutagenic, antinociceptive, antipyretic, antispasmodic, antithrombotic, apoptotic, cardiovascular, chemomodulatory, antitumor, hepatoprotective, hypoglycemic, hypolipidemic, and memory enhancing property. Foeniculum vulgare has emerged as a good source of traditional medicine and it provides a noteworthy basis in pharmaceutical biology for the development/formulation of new drugs and future clinical uses.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -65518,12 +65529,9 @@
     "Expectorant"
    ],
    "conditions": [
-    "Bronchitis",
-    "Cough",
     "Infection (general)",
     "Muscle spasm",
-    "Respiratory support",
-    "Wounds"
+    "Respiratory support"
    ]
   },
   {
@@ -68157,10 +68165,20 @@
     "clinical"
    ],
    "display": "Community herbal monograph on Eucalyptus globulus Labill., folium",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Cold & flu",
+    "Respiratory support"
+   ]
   },
   {
    "ref_id": "REF-3081",
@@ -69059,15 +69077,15 @@
    "type": "article",
    "title": "Inhibition of pro-inflammatory biomarkers in THP1 macrophages by polyphenols derived from chamomile, meadowsweet and willow bark",
    "authors": "Drummond, E.M., Harbourne, N., Marete, E., Jacquier, J.C., O'Riordan, D. and Gibney, E.R",
-   "journal": "",
+   "journal": "Phytotherapy Research",
    "year": "2013",
-   "doi": "",
+   "doi": "10.1002/ptr.4753",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Inhibition%20of%20pro-inflammatory%20biomarkers%20in%20THP1%20macrophages%20by%20polyphenols%20derived%20from%20chamomile%2C%20meadowsweet%20and%20willow%20bark",
-   "link_type": "search",
-   "citation": "Drummond, E.M., Harbourne, N., Marete, E., Jacquier, J.C., O'Riordan, D. and Gibney, E.R (2013) 'Inhibition of pro-inflammatory biomarkers in THP1 macrophages by polyphenols derived from chamomile, meadowsweet and willow bark', 27(4), pp. 588--594.",
-   "abstract": "",
-   "tier": "traditional",
+   "link": "https://doi.org/10.1002/ptr.4753",
+   "link_type": "doi",
+   "citation": "Drummond, E.M., Harbourne, N., Marete, E., Jacquier, J.C., O'Riordan, D. and Gibney, E.R (2013) 'Inhibition of pro-inflammatory biomarkers in THP1 macrophages by polyphenols derived from chamomile, meadowsweet and willow bark', Phytotherapy Research, 27(4), pp. 588--594. doi:10.1002/ptr.4753",
+   "abstract": "Antiinflammatory compounds in the diet can alleviate excessive inflammation, a factor in the pathogenesis of common diseases such as rheumatoid arthritis, atherosclerosis and diabetes. This study examined three European herbs, chamomile (Matricaria chamomilla), meadowsweet (Filipendula ulmaria L.) and willow bark (Salix alba L.), which have been traditionally used to treat inflammation and their potential for use as antiinflammatory agents. Aqueous herbal extracts and isolated polyphenolic compounds (apigenin, quercetin and salicylic acid, 0-100 μM) were incubated with THP1 macrophages, and interleukin (IL)-1β, IL-6 and tumour necrosis factor-alpha (TNF-α) were measured. At concentrations of 10 μM, both apigenin and quercetin reduced IL-6 significantly (p < 0.05). Apigenin at 10 μM and quercetin at 25 μM reduced TNF-α significantly (p < 0.05). Amongst the herbal extracts, willow bark had the greatest antiinflammatory activity at reducing IL-6 and TNF-α production. This was followed by meadowsweet and then chamomile. The lowest effective antiinflammatory concentrations were noncytotoxic (MTT mitochondrial activity assay). The Comet assay, which was used to study the protective effect of the isolated phenols against oxidative damage, showed positive results for all three polyphenols. These are the first findings that demonstrate the antiinflammatory capacity of these herbal extracts.",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -69090,12 +69108,7 @@
     "Gastroprotective"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Back pain",
-    "Headache",
-    "Inflammation (general)",
-    "Pain (general)",
-    "Skin irritation"
+    "Inflammation (general)"
    ]
   },
   {
@@ -71738,47 +71751,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0125",
-   "key": "jin2012ganoderma",
-   "type": "misc",
-   "title": "Ganoderma lucidum (Reishi mushroom) for cancer treatment",
-   "authors": "Jin, X. et al",
-   "journal": "",
-   "year": "2012",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Ganoderma%20lucidum%20%28Reishi%20mushroom%29%20for%20cancer%20treatment",
-   "link_type": "search",
-   "citation": "Jin, X. et al (2012) 'Ganoderma lucidum (Reishi mushroom) for cancer treatment'.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Ganoderma lucidum (Reishi mushroom) for cancer treatment",
-   "plants": [
-    "Lingzhi",
-    "Reishi",
-    "mushroom of immortality",
-    "varnished conk"
-   ],
-   "scientific": [
-    "Ganoderma lingzhi"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Anticancer (preclinical)",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antioxidant",
-    "Antiviral",
-    "Immunomodulator / immune support",
-    "Sedative / sleep support"
-   ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
-  },
-  {
    "ref_id": "REF-0459",
    "key": "teschke2012greater",
    "type": "article",
@@ -73826,10 +73798,19 @@
     "clinical"
    ],
    "display": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Arthritis / joint pain",
+    "Pain (general)"
+   ]
   },
   {
    "ref_id": "REF-0677",
@@ -74006,9 +73987,7 @@
    "actions": [
     "Neuroprotective / cognition support"
    ],
-   "conditions": [
-    "Cognitive function"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0992",
@@ -74199,12 +74178,12 @@
    "journal": "",
    "year": "2011",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Ganoderma%20lucidum%20%28Lingzhi%20or%20Reishi%29%3A%20A%20Medicinal%20Mushroom",
-   "link_type": "search",
-   "citation": "Wachtel-Galor, S., Yuen, J., Buswell, J.A. and Benzie, I.F.F (2011) 'Ganoderma lucidum (Lingzhi or Reishi): A Medicinal Mushroom'.",
-   "abstract": "",
-   "tier": "traditional",
+   "url": "https://www.ncbi.nlm.nih.gov/books/NBK92757/",
+   "link": "https://www.ncbi.nlm.nih.gov/books/NBK92757/",
+   "link_type": "url",
+   "citation": "Wachtel-Galor, S., Yuen, J., Buswell, J.A. and Benzie, I.F.F (2011) 'Ganoderma lucidum (Lingzhi or Reishi): A Medicinal Mushroom'. Available at: https://www.ncbi.nlm.nih.gov/books/NBK92757/",
+   "abstract": "In Chinese, the name lingzhi represents a combination of spiritual potency and essence of immortality, and is regarded as the “herb of spiritual potency,” symbolizing success, well-being, divine power, and longevity. Among cultivated mushrooms, G. lucidum is unique in that its pharmaceutical rather than nutritional value is paramount. A variety of commercial G. lucidum products are available in various forms, such as powders, dietary supplements, and tea. These are produced from different parts of the mushroom, including mycelia, spores, and fruit body. The specific applications and attributed health benefits of lingzhi include control of blood glucose levels, modulation of the immune system, hepatoprotection, bacteriostasis, and more. The various beliefs regarding the health benefits of G. lucidum (Figure 9.2) are based largely on anecdotal evidence, traditional use, and cultural mores. However, recent reports provide scientific support to some of the ancient claims of the health benefits of lingzhi.",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -74228,16 +74207,9 @@
     "Sedative / sleep support"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Blood sugar / diabetes support",
-    "Cardiovascular / heart health",
-    "Cold & flu",
     "Immune support",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Metabolic support",
-    "Skin irritation"
+    "Infection (general)"
    ]
   },
   {
@@ -76115,7 +76087,7 @@
    "link_type": "search",
    "citation": "Sadlon, A.E. and Lamson, D.W (2010) 'Immune-modifying and antimicrobial effects of Eucalyptus oil and simple inhalation devices', 15(1), pp. 33--47.",
    "abstract": "Eucalyptus oil (EO) and its major component, 1,8-cineole, have antimicrobial effects against many bacteria, including Mycobacterium tuberculosis and methicillin-resistant Staphylococcus aureus (MRSA), viruses, and fungi (including Candida). Surprisingly for an antimicrobial substance, there are also immune-stimulatory, anti-inflammatory, antioxidant, analgesic, and spasmolytic effects. Of the white blood cells, monocytes and macrophages are most affected, especially with increased phagocytic activity. Application by either vapor inhalation or oral route provides benefit for both purulent and non-purulent respiratory problems, such as bronchitis, asthma, and chronic obstructive pulmonary disease (COPD). There is a long history of folk usage with a good safety record. More recently, the biochemical details behind these effects have been clarified. Although other plant oils may be more microbiologically active, the safety of moderate doses of EO and its broad-spectrum antimicrobial action make it an attractive alternative to pharmaceuticals. EO has also been shown to offset the myelotoxicity of one chemotherapy agent. Whether this is a general attribute that does not decrease the benefit of chemotherapy remains to be determined. This article also provides instruction on how to assemble inexpensive devices for vapor inhalation.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -76138,12 +76110,10 @@
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Cold & flu",
     "Immune support",
     "Infection (general)",
     "Inflammation (general)",
-    "Respiratory support",
-    "Wounds"
+    "Respiratory support"
    ]
   },
   {
@@ -76473,8 +76443,14 @@
     "clinical"
    ],
    "display": "Public statement on Euphrasia officinalis L. and Euphrasia rostkoviana Hayne, herba",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
+   ],
    "actions": [],
    "conditions": []
   },
@@ -80401,23 +80377,7 @@
     "Diuretic",
     "Gastroprotective"
    ],
-   "conditions": [
-    "Acid reflux",
-    "Arthritis / joint pain",
-    "Back pain",
-    "Headache",
-    "Indigestion",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Menstrual cramps",
-    "Muscle spasm",
-    "Pain (general)",
-    "Skin irritation",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0282",
@@ -80838,8 +80798,7 @@
     "Antimicrobial"
    ],
    "conditions": [
-    "Infection (general)",
-    "Wounds"
+    "Infection (general)"
    ]
   },
   {
@@ -85512,42 +85471,6 @@
    ]
   },
   {
-   "ref_id": "REF-0606",
-   "key": "hanus2004eschscholzia",
-   "type": "article",
-   "title": "Double-blind, randomised, placebo-controlled study to evaluate the efficacy and safety of a fixed combination containing two plant extracts (Crataegus oxyacantha and Eschscholtzia californica) and magnesium in mild-to-moderate anxiety disorders",
-   "authors": "Hanus, M., Lafon, J. and Mathieu, M.",
-   "journal": "Current Medical Research and Opinion",
-   "year": "2004",
-   "doi": "10.1185/030079903125002603",
-   "url": "",
-   "link": "https://doi.org/10.1185/030079903125002603",
-   "link_type": "doi",
-   "citation": "Hanus, M., Lafon, J. and Mathieu, M (2004) 'Double-blind, randomised, placebo-controlled study to evaluate the efficacy and safety of a fixed combination containing two plant extracts (Crataegus oxyacantha and Eschscholtzia californica) and magnesium in mild-to-moderate anxiety disorders', Current Medical Research and Opinion, 20(1), pp. 63--71. doi:10.1185/030079903125002603",
-   "abstract": "Objective To assess the clinical efficacy of a neurotonic component containing fixed quantities of two plant extracts (Crataegus oxyacantha and Eschscholtzia californica) and magnesium versus placebo in mild-to-moderate anxiety disorders with associated functional disturbances, under usual general practice prescription conditions. Research design and methods A total of 264 patients (81% female; mean age: 44.6 years) presenting with generalised anxiety (DSM-III-R) of mild-to-moderate intensity (total Hamilton anxiety scale score between 16 and 28) were included in a double-blind, randomised, placebo-controlled trial. Patients were randomly assigned to two groups: 130 received the study drug (Sympathyl), and 134 a placebo (two tablets twice daily for 3 months). Efficacy and safety data were recorded before first administration and 7, 14, 30, 60 and 90 days after start of treatment. Main outcome measures Efficacy was assessed by (a) change in Hamilton anxiety scale total and somatic scores; (b) change in patient self-assessment; (c) number and percentage of responsive subjects (reduction of at least 50% in Hamilton or self-assessment score); and (d) the physician's clinical global impression. Tolerance was assessed by undesirable events spontaneously reported by the patients over the study period. Results Total and somatic Hamilton scale scores and subjective patient-rated anxiety fell during treatment, indicating clinical improvement. The decrease was greater in the study drug than in the placebo group. End of treatment clinical improvement, as measured by the mean difference between final and pre-treatment scores, was, for the study drug and placebo groups respectively: -10.6 and -8.9 on the total anxiety score (p = 0.005); -6.5 and -5.7 on the somatic score (p = 0.054); and -38.5 and -29.2 for subjectively assessed anxiety (p = 0.005). The risk/benefit ratio as judged by the investigating physicians was also significantly greater in the study drug than in the placebo group. In all, 15 patients (11.5%) in the study drug group and 13 patients (9.7%) in the placebo group experienced 22 and 15 adverse events, respectively. Undesirable events were mainly mild or moderate digestive or psychopathological disorders. Conclusions The preparation containing fixed quantities of Crataegus oxyacantha, Eschscholtzia californica, and magnesium proved safe and more effective than placebo in treating mild-to-moderate anxiety disorders. Sympathyl is produced and marketed by Laboratoire Innotech International, Arcueil, France.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Double-blind, randomised, placebo-controlled study to evaluate the efficacy and safety of a fixed combination containing two plant extracts (Crataegus oxyacantha and Eschscholtzia californica) and magnesium in mild-to-moderate anxiety disorders",
-   "plants": [
-    "California Poppy",
-    "Cup of gold",
-    "Golden poppy"
-   ],
-   "scientific": [
-    "Eschscholzia californica"
-   ],
-   "actions": [
-    "Anxiolytic / calming"
-   ],
-   "conditions": [
-    "Anxiety",
-    "Nervous tension",
-    "Stress"
-   ]
-  },
-  {
    "ref_id": "REF-2461",
    "key": "izzo2004sjw",
    "type": "article",
@@ -87665,16 +87588,7 @@
     "Emollient / skin-soothing",
     "Vulnerary (wound healing)"
    ],
-   "conditions": [
-    "Bruising",
-    "Eczema",
-    "Infection (general)",
-    "Skin irritation",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0595",
@@ -89612,6 +89526,47 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0019",
+   "key": "bao2002structural",
+   "type": "article",
+   "title": "Structural features of immunologically active polysaccharides from Ganoderma lucidum",
+   "authors": "Bao, X.F., Wang, X.S., Dong, Q., Fang, J.N. and Li, X.Y.",
+   "journal": "Phytochemistry",
+   "year": "2002",
+   "doi": "10.1016/s0031-9422(01)00450-2",
+   "url": "",
+   "link": "https://doi.org/10.1016/s0031-9422(01)00450-2",
+   "link_type": "doi",
+   "citation": "Bao, X.F., Wang, X.S., Dong, Q., Fang, J.N. and Li, X.Y (2002) 'Structural features of immunologically active polysaccharides from Ganoderma lucidum', Phytochemistry, 59(2), pp. 175--181. doi:10.1016/s0031-9422(01)00450-2",
+   "abstract": "Three polysaccharides, two heteroglycans (PL-1 and PL-4) and one glucan (PL-3), were solubilized from the fruit bodies of Ganoderma lucidum and isolated by anion-exchange and gel-filtration chromatography. Their structural features were elucidated by glycosyl residue and glycosyl linkage composition analyses, partial acid hydrolysis, acetolysis, periodate oxidation, 1D and 2D NMR spectroscopy, and ESI-MS experiments. The data obtained indicated that PL-1 had a backbone consisting of 1,4-linked alpha-D-glucopyranosyl residues and 1,6-linked beta-D-galactopyranosyl residues with branches at O-6 of glucose residues and O-2 of galactose residues, composed of terminal glucose, 1,6-linked glucosyl residues and terminal rhamnose. PL-3 was a highly branched glucan composed of 1,3-linked beta-D-glucopyranosyl residues substituted at O-6 with 1,6-linked glucosyl residues. PL-4 was comprised of 1,3-, 1,4-, 1,6-linked beta-D-glucopyranosyl residues and 1,6-linked beta-D-mannopyranosyl residues. These polysaccharides enhanced the proliferation of T- and B-lymphocytes in vitro to varying contents and PL-1 exhibited an immune-stimulating activity in mice.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Structural features of immunologically active polysaccharides from Ganoderma lucidum",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anticancer (preclinical)",
+    "Antidiabetic (blood-sugar lowering)",
+    "Antioxidant",
+    "Antiviral",
+    "Immunomodulator / immune support",
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Immune support"
+   ]
+  },
+  {
    "ref_id": "REF-2437",
    "key": "piscitelli2001garlic",
    "type": "article",
@@ -89813,7 +89768,6 @@
     "Bruising",
     "Cold & flu",
     "Headache",
-    "Immune support",
     "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
@@ -90593,49 +90547,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0019",
-   "key": "bao2002structural",
-   "type": "article",
-   "title": "Structural requirements for the immunological activities of polysaccharides from Ganoderma lucidum",
-   "authors": "Bao, X. et al",
-   "journal": "",
-   "year": "2001",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Structural%20requirements%20for%20the%20immunological%20activities%20of%20polysaccharides%20from%20Ganoderma%20lucidum",
-   "link_type": "search",
-   "citation": "Bao, X. et al (2001) 'Structural requirements for the immunological activities of polysaccharides from Ganoderma lucidum', 41(9), pp. 2603--2611.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Structural requirements for the immunological activities of polysaccharides from Ganoderma lucidum",
-   "plants": [
-    "Lingzhi",
-    "Reishi",
-    "mushroom of immortality",
-    "varnished conk"
-   ],
-   "scientific": [
-    "Ganoderma lingzhi"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Anticancer (preclinical)",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antioxidant",
-    "Antiviral",
-    "Immunomodulator / immune support",
-    "Sedative / sleep support"
-   ],
-   "conditions": [
-    "Cold & flu",
-    "Immune support",
-    "Infection (general)"
-   ]
-  },
-  {
    "ref_id": "REF-0283",
    "key": "stough2001chronic",
    "type": "article",
@@ -91320,38 +91231,6 @@
    ],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0613",
-   "key": "stoss2000euphrasia",
-   "type": "article",
-   "title": "Prospective cohort trial of Euphrasia single-dose eye drops in conjunctivitis",
-   "authors": "Stoss, M., Michels, C., Peter, E., Beutke, R. and Gorter, R.W.",
-   "journal": "Journal of Alternative and Complementary Medicine",
-   "year": "2000",
-   "doi": "10.1089/acm.2000.6.499",
-   "url": "",
-   "link": "https://doi.org/10.1089/acm.2000.6.499",
-   "link_type": "doi",
-   "citation": "Stoss, M., Michels, C., Peter, E., Beutke, R. and Gorter, R.W (2000) 'Prospective cohort trial of Euphrasia single-dose eye drops in conjunctivitis', Journal of Alternative and Complementary Medicine, 6(6), pp. 499--508. doi:10.1089/acm.2000.6.499",
-   "abstract": "Introduction Eye drops made from Euphrasia rostkoviana Hayne have been used in anthroposophical medicine for more than 70 years for the structuring of the fluid organism in the eye, especially in inflammatory and catarrhal conjunctivitis. The aim of this prospective cohort trial was to describe the efficacy and tolerability of these eye drops in a community-based setting. To evaluate these questions, prospective cohort studies are the best method. This enables the investigator to attain real insights as to which treatment administered related to specific results in a specific group of patients. Design Prospective, open label, one-armed, multicentered, multinational cohort trial. Setting The trial was carried out in the clinics of 12 experienced anthroposophical general practitioners and ophthalmologists in Germany and Switzerland. Patients Patients with inflammatory or catarrhal conjunctivitis, treated with Euphrasia single-dose eye drops were included in the trial. Intervention One drop of Euphrasia single-dose eye drops 1-5 times a day was prescribed. The prescription was determined solely by medical therapeutic needs. Outcome measures Efficacy variables were: redness, swelling, secretion, burning of the conjunctiva, and foreign body sensation. Tolerability variables were: conjunctival reddening, burning of the conjunctiva, foreign body sensation, and veiled vision. All symptoms were given for the right or left eye separately, with degree of severity in relation to baseline after approximately 7 days (+/-3 days; first follow-up examination) and after approximately 14 days (+/-3 days; second follow-up examination). If, after the first follow-up, all symptoms had disappeared, no second follow-up was done. Results Sixty-five (65) patients fulfilled the inclusion criteria for the protocol evaluation. A complete recovery was seen in 53 patients (81.5%) and a clear improvement in 11 patients (17.0%). A slight worsening could only be determined in 1 patient in the second week of treatment (1.5%). No serious adverse events were observed during the entire trial. The efficacy and tolerability were evaluated by the patients and doctors as \"good\" to \"very good\" in more than 85%. Conclusion Euphrasia single-dose eye drops can effectively and safely be used for various conjunctival conditions by general practitioners and ophthalmologists. A dosage of one drop three times a day seems to be the general prescribed dosage.",
-   "tier": "clinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Prospective cohort trial of Euphrasia single-dose eye drops in conjunctivitis",
-   "plants": [
-    "Euphrasy",
-    "Eyebright",
-    "Red eyebright"
-   ],
-   "scientific": [
-    "Euphrasia officinalis"
-   ],
-   "actions": [],
-   "conditions": [
-    "Eye strain / eye health"
-   ]
   },
   {
    "ref_id": "REF-0055",
@@ -94280,8 +94159,6 @@
    "conditions": [
     "Arthritis / joint pain",
     "Bloating",
-    "Bruising",
-    "Eczema",
     "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
@@ -95315,7 +95192,6 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Acid reflux",
     "Arthritis / joint pain",
     "Back pain",
     "Bloating",
@@ -95326,7 +95202,6 @@
     "Cough",
     "Eczema",
     "Fever",
-    "Headache",
     "Heavy menstrual bleeding",
     "Immune support",
     "Indigestion",
@@ -95677,7 +95552,9 @@
    "actions": [
     "Vulnerary (wound healing)"
    ],
-   "conditions": []
+   "conditions": [
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-1948",
@@ -98437,7 +98314,6 @@
     "Digestive aid"
    ],
    "conditions": [
-    "Bloating",
     "Indigestion",
     "Loss of appetite"
    ]
@@ -98861,16 +98737,10 @@
    ],
    "conditions": [
     "Allergy / hay fever",
-    "Arthritis / joint pain",
-    "Cough",
-    "Diarrhoea",
     "Eye strain / eye health",
-    "Fever",
     "Infection (general)",
     "Inflammation (general)",
-    "Respiratory support",
-    "Skin irritation",
-    "Wounds"
+    "Respiratory support"
    ]
   },
   {

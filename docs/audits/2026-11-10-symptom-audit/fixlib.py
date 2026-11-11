@@ -11,7 +11,7 @@ the first, self-contained version). Ops:
 After the ops an indication with no direct ref keeps only valid mechanistic cards
 (status needs-review) or is dropped. All files are written all-or-nothing.
 """
-import copy, os, sys, textwrap, yaml
+import copy, os, re, sys, textwrap, yaml
 sys.path.insert(0, os.path.dirname(__file__))
 import yamlsplice as Y
 
@@ -148,3 +148,70 @@ def main(plan, notes, label, out_tsv):
         raise
     open(out_tsv, 'w', encoding='utf-8').write('plant\tcondition\tref\top\n' + '\n'.join(log) + '\n')
     print(len(log), 'changes')
+
+
+# ---------------------------------------------------------------- bibliography edits (batch 7+)
+BIB = 'bibliography.bibtex'
+
+
+def _bib_span(lines, ref):
+    """(start, end) line indexes of the entry whose note is `ref` (end = its closing '}' line)."""
+    hit = [i for i, ln in enumerate(lines) if re.match(r'\s*note\s*=\s*\{' + ref + r'\}', ln)]
+    assert len(hit) == 1, (ref, hit)
+    s = hit[0]
+    while not lines[s].startswith('@'):
+        s -= 1
+    e = hit[0]
+    while lines[e] != '}':
+        e += 1
+    return s, e
+
+
+def _bib_line(k, v):
+    return f'  {k:<8} = {{{v}}},' if len(k) <= 8 else f'  {k} = {{{v}}},'
+
+
+def bib_edit(retag=None, sets=None, delete=(), new=None):
+    """retag {ref: study_type}; sets {ref: {field: value}} (replace or insert before note);
+    delete [ref] (whole entry); new {key: (ref, [(field, value), ...])} inserted in key order.
+    Values must already be single-line with no braces."""
+    lines = open(BIB, encoding='utf-8', newline='').read().split('\n')
+    for ref, st in (retag or {}).items():
+        (sets := sets or {}).setdefault(ref, {})['study_type'] = st
+    for ref, fields in (sets or {}).items():
+        for k, v in fields.items():
+            assert '{' not in v and '}' not in v and '\n' not in v, (ref, k)
+            s, e = _bib_span(lines, ref)
+            idx = [i for i in range(s, e) if re.match(r'\s*' + k + r'\s*=', lines[i])]
+            if idx:
+                comma = ',' if lines[idx[0]].rstrip().endswith(',') else ''
+                lines[idx[0]] = _bib_line(k, v)[:-1] + comma
+            else:
+                note = [i for i in range(s, e) if re.match(r'\s*note\s*=', lines[i])][0]
+                lines.insert(note, _bib_line(k, v))
+    for ref in delete:
+        s, e = _bib_span(lines, ref)
+        if e + 1 < len(lines) and lines[e + 1] == '':
+            e += 1
+        del lines[s:e + 1]
+    for key, (ref, fields) in (new or {}).items():
+        assert not any(re.match(r'\s*note\s*=\s*\{' + ref + r'\}', ln) for ln in lines), ref
+        body = [f'@article{{{key},'] + [_bib_line(k, v) for k, v in fields]
+        body[-1] = body[-1][:-1]
+        body += ['}', '']
+        starts = [i for i, ln in enumerate(lines) if ln.startswith('@')]
+        keys = [re.match(r'@\w+\{([^,]+),', lines[i]).group(1) for i in starts]
+        pos = next((starts[j] for j, k in enumerate(keys) if k.lower() > key), len(lines))
+        lines[pos:pos] = body
+    open(BIB, 'w', encoding='utf-8', newline='').write('\n'.join(lines))
+
+
+def main_with_bib(plan, notes, label, out_tsv, **bib):
+    """bib_edit + main, all-or-nothing across the bibliography and the plant files."""
+    snap = open(BIB, 'rb').read()
+    try:
+        bib_edit(**bib)
+        main(plan, notes, label, out_tsv)
+    except BaseException:
+        open(BIB, 'wb').write(snap)
+        raise

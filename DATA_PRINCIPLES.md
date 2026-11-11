@@ -198,6 +198,9 @@ design — honor them and the redesign is safe; break one and it isn't:
    written, and record it in `null_result_ids` when it finds no benefit (echinacea / cold:
    Cochrane 2006 removed, the 2014 update recorded as no-effect). A landmark trial found missing
    during an audit may be added as a new source, whether its result is positive or null.
+   A species name long misapplied in a literature counts for the species it was applied to,
+   noted on the record: "Ganoderma lucidum" in East Asian reishi/lingzhi research counts for
+   Ganoderma lingzhi.
 
 A precise "8/10" shown to a consumer implies more rigor than AI-assigned tags carry —
 treat the number as a claim that itself must be earned (see §10).

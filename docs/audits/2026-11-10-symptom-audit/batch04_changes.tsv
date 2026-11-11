@@ -1,0 +1,114 @@
+plant	condition	ref	op
+cannabis_sativa	cardiovascular-support	REF-0044	rm
+cannabis_sativa	inflammation	REF-0044	rm
+cannabis_sativa	skin-irritation	REF-0044	rm
+cannabis_sativa	cardiovascular-support	-	drop(no evidence left)
+capsella_bursa_pastoris	skin-irritation	REF-0507	rm
+capsicum_annuum	*	REF-0021	purge
+capsicum_annuum	arthritis	REF-0010	rm
+capsicum_annuum	back-pain	REF-0010	rm
+capsicum_annuum	back-pain	REF-0057	rm
+capsicum_annuum	cardiovascular-support	REF-0161	rm
+capsicum_annuum	wounds	REF-0169	rm
+capsicum_annuum	pain	-	note
+capsicum_annuum	cardiovascular-support	-	drop(no evidence left)
+carum_carvi	appetite-loss	REF-0078	rm
+carum_carvi	indigestion	REF-0078	rm
+carum_carvi	infection	REF-0078	rm
+carum_carvi	wounds	REF-0078	rm
+carum_carvi	appetite-loss	REF-0126	rm
+carum_carvi	bloating	REF-0126	rm
+carum_carvi	indigestion	REF-0126	rm
+carum_carvi	infection	REF-0126	rm
+carum_carvi	wounds	REF-0126	rm
+carum_carvi	appetite-loss	-	drop(no evidence left)
+carum_carvi	indigestion	-	drop(no evidence left)
+centaurium_erythraea	acid-reflux	REF-0431	rm
+centaurium_erythraea	arthritis	REF-0431	rm
+centaurium_erythraea	bloating	REF-0431	rm
+centaurium_erythraea	detox	REF-0431	rm
+centaurium_erythraea	inflammation	REF-0431	rm
+centaurium_erythraea	liver-support	REF-0431	rm
+centaurium_erythraea	skin-irritation	REF-0431	rm
+centaurium_erythraea	acid-reflux	REF-0619	rm
+centaurium_erythraea	arthritis	REF-0619	rm
+centaurium_erythraea	bloating	REF-0619	rm
+centaurium_erythraea	detox	REF-0619	rm
+centaurium_erythraea	skin-irritation	REF-0619	rm
+centaurium_erythraea	appetite-loss	REF-0619	add
+centella_asiatica	bruising	REF-0457	rm
+centella_asiatica	bruising	REF-0458	rm
+centella_asiatica	eczema	REF-0457	rm
+centella_asiatica	stress	REF-0457	rm
+centella_asiatica	hemorrhoids	REF-0458	rm
+centella_asiatica	hemorrhoids	REF-0569	rm
+centella_asiatica	hemorrhoids	REF-0570	rm
+centella_asiatica	swelling	REF-0570	rm
+centella_asiatica	varicose-veins	REF-0570	rm
+centella_asiatica	cognitive-function	REF-0568	null
+centella_asiatica	cognitive-function	REF-0457	add
+centella_asiatica	bruising	REF-2087	mexcl
+centella_asiatica	bruising	REF-2088	mexcl
+centella_asiatica	bruising	REF-2090	mexcl
+centella_asiatica	bruising	REF-2091	mexcl
+centella_asiatica	bruising	-	drop(no evidence left)
+centella_asiatica	eczema	-	drop(no evidence left)
+centella_asiatica	stress	-	drop(no evidence left)
+chamerion_angustifolium	*	REF-0146	purge
+chamerion_angustifolium	*	REF-0317	purge
+chamerion_angustifolium	wounds	REF-0022	rmk
+chamerion_angustifolium	arthritis	-	drop(no evidence left)
+chamerion_angustifolium	bloating	-	drop(no evidence left)
+chamerion_angustifolium	indigestion	-	drop(no evidence left)
+chelidonium_majus	liver-support	-	drop
+chelidonium_majus	arthritis	REF-0460	rm
+chelidonium_majus	back-pain	REF-0460	rm
+chelidonium_majus	bloating	REF-0460	rm
+chelidonium_majus	headache	REF-0460	rm
+chelidonium_majus	indigestion	REF-0460	rm
+chelidonium_majus	menstrual-cramps	REF-0460	rm
+chelidonium_majus	muscle-spasm	REF-0460	rm
+chelidonium_majus	skin-irritation	REF-0460	rm
+chelidonium_majus	warts	REF-0460	rm
+chelidonium_majus	wounds	REF-0460	rm
+chelidonium_majus	warts	REF-2269	add
+chelidonium_majus	back-pain	-	drop(no evidence left)
+chelidonium_majus	bloating	-	drop(no evidence left)
+chelidonium_majus	headache	-	drop(no evidence left)
+chelidonium_majus	indigestion	-	drop(no evidence left)
+chelidonium_majus	menstrual-cramps	-	drop(no evidence left)
+chelidonium_majus	muscle-spasm	-	drop(no evidence left)
+cinnamomum_cassia	blood-sugar	REF-0006	add
+cinnamomum_cassia	blood-sugar	REF-0136	add
+cinnamomum_cassia	blood-sugar	REF-0667	add
+cinnamomum_cassia	cardiovascular-support	REF-0006	add
+cinnamomum_cassia	cardiovascular-support	REF-0136	add
+cinnamomum_cassia	cardiovascular-support	REF-0666	add
+cinnamomum_cassia	cardiovascular-support	REF-0667	add
+cinnamomum_cassia	high-cholesterol	REF-0136	add
+cinnamomum_cassia	high-cholesterol	REF-0666	add
+cinnamomum_cassia	high-cholesterol	REF-0667	add
+cinnamomum_cassia	metabolic-support	REF-0006	add
+cinnamomum_cassia	metabolic-support	REF-0136	add
+cinnamomum_cassia	metabolic-support	REF-0667	add
+cinnamomum_verum	*	REF-0006	purge
+cinnamomum_verum	*	REF-0136	purge
+cinnamomum_verum	*	REF-0598	purge
+cinnamomum_verum	*	REF-0599	purge
+cinnamomum_verum	*	REF-0666	purge
+cinnamomum_verum	*	REF-0667	purge
+cinnamomum_verum	*	REF-0429	purge
+cinnamomum_verum	arthritis	REF-0101	rm
+cinnamomum_verum	bloating	REF-0101	rm
+cinnamomum_verum	blood-sugar	REF-0101	rm
+cinnamomum_verum	cardiovascular-support	REF-0101	rm
+cinnamomum_verum	indigestion	REF-0101	rm
+cinnamomum_verum	infection	REF-0101	rm
+cinnamomum_verum	inflammation	REF-0101	rm
+cinnamomum_verum	metabolic-support	REF-0101	rm
+cinnamomum_verum	skin-irritation	REF-0101	rm
+cinnamomum_verum	wounds	REF-0101	rm
+cinnamomum_verum	cardiovascular-support	REF-2413	null
+cinnamomum_verum	bloating	-	drop(no evidence left)
+cinnamomum_verum	cardiovascular-support	-	drop(no evidence left)
+cinnamomum_verum	indigestion	-	drop(no evidence left)

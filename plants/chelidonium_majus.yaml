@@ -149,39 +149,17 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0460
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2267
-- condition: back-pain
-  note: inferred from analgesic action
-  reference_ids:
   - REF-0460
-  status: needs-review
-- condition: bloating
-  note: Antispasmodic / choleretic bitter for upper-abdominal and biliary dyspepsia (indigestion, bloating,
-    cramping) - oral use now restricted for safety
-  reference_ids:
-  - REF-0460
-  status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-2265
   - REF-2266
   - REF-2271
-  status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0460
-  status: needs-review
-- condition: indigestion
-  note: Antispasmodic / choleretic bitter for upper-abdominal and biliary dyspepsia (indigestion, bloating,
-    cramping) - oral use now restricted for safety
-  reference_ids:
-  - REF-0460
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
@@ -193,21 +171,6 @@ indications:
   reference_ids:
   - REF-0460
   status: needs-review
-- condition: liver-support
-  note: inferred from choleretic action
-  reference_ids:
-  - REF-0460
-  status: needs-review
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0460
-  status: needs-review
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0460
-  status: needs-review
 - condition: pain
   note: inferred from analgesic action
   reference_ids:
@@ -215,23 +178,23 @@ indications:
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0460
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2267
+  - REF-0460
 - condition: warts
   note: Fresh orange latex traditionally dabbed on warts
   reference_ids:
-  - REF-0460
+  - REF-2269
   status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0460
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2269
+  - REF-0460
 contraindications:
 - note: 'SERIOUS: oral greater celandine can cause acute idiosyncratic liver injury (hepatocellular hepatotoxicity
     with jaundice). Multiple reported cases - dozens of herb-induced liver injury reports in the literature,
@@ -288,4 +251,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepat
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-14
   (harvest-calendar campaign, Batch 8): added harvest_readiness for the aerial parts (provisional) - gather
   in spring as it comes into flower, used fresh (the orange latex flows from cut stems); sourced to Useful
-  Temperate Plants (REF-3228). Existing harvesting.season not inherited.'
+  Temperate Plants (REF-3228). Existing harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 4 - liver-support dropped (owner rule 2026-11-11: never
+  list a plant for the organ its own serious warning is about - oral celandine causes liver
+  injury). REF-0460 kept for anti-inflammatory, antimicrobial and analgesic uses it names;
+  REF-2269 (latex vs HPV, folk use against warts) added to warts.'

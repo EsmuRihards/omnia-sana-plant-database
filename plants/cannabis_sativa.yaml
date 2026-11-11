@@ -172,10 +172,6 @@ indications:
   mechanistic_exclude_ids:
   - REF-0044
   - REF-0058
-- condition: cardiovascular-support
-  reference_ids:
-  - REF-0044
-  status: verified
 - condition: headache
   note: inferred from analgesic action
   reference_ids: []
@@ -185,11 +181,11 @@ indications:
   - REF-0058
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0044
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0058
+  - REF-0044
 - condition: pain
   reference_ids: []
   status: needs-review
@@ -198,11 +194,11 @@ indications:
   - REF-0058
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0044
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0058
+  - REF-0044
 contraindications:
 - note: Industrial hemp (low-THC cannabis) seed oil and seeds are generally safe as food. CBD products
     derived from hemp may interact with medications metabolised by cytochrome P450 liver enzymes, including
@@ -307,4 +303,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Batch 7): added harvest_readiness - flower provisional (female tops at trichome maturity: mostly
   milky/cloudy with a little amber = cannabinoid peak; Ed Rosenthal REF-3222; species_confirmed false as the
   source says "cannabis", not the binomial); seed provisional (falls when ripe/shaken; theferns REF-3221);
-  leaf gap. Existing harvesting.season not inherited. | 2026-08-15: leaf harvest_readiness re-searched and kept a documented gap; the peer-reviewed life-cycle characterisation (Hesami et al., Plants 2023) does not address fan-leaf senescence at harvest, and the leaf was not given the flowering-top stage by inheritance.'
+  leaf gap. Existing harvesting.season not inherited. | 2026-08-15: leaf harvest_readiness re-searched and kept a documented gap; the peer-reviewed life-cycle characterisation (Hesami et al., Plants 2023) does not address fan-leaf senescence at harvest, and the leaf was not given the flowering-top stage by inheritance.
+  | 2026-11-10: symptom-source audit batch 4 - REF-0044 (hemp-as-food review) names none of
+  cardiovascular, inflammation or skin - removed from those pairs.'

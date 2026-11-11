@@ -143,8 +143,6 @@ actions:
   reference_ids:
   - REF-0022
   - REF-0118
-  - REF-0146
-  - REF-0317
   - REF-1658
   - REF-1662
   - REF-1666
@@ -154,8 +152,6 @@ actions:
   reference_ids:
   - REF-0022
   - REF-0118
-  - REF-0146
-  - REF-0317
   - REF-1662
   - REF-1663
   - REF-1665
@@ -164,8 +160,6 @@ actions:
   reference_ids:
   - REF-0022
   - REF-0118
-  - REF-0146
-  - REF-0317
   - REF-1661
   - REF-1663
   - REF-1664
@@ -176,54 +170,17 @@ actions:
   reference_ids:
   - REF-0022
   - REF-0118
-  - REF-0146
-  - REF-0317
   status: verified
 - action: vulnerary
   reference_ids:
   - REF-0022
   - REF-0118
-  - REF-0146
-  - REF-0317
   - REF-1658
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0146
-  - REF-0317
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0022
-  - REF-0118
-  - REF-1658
-  - REF-1662
-  - REF-1666
-  - REF-1667
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0146
-  - REF-0317
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0022
-  - REF-0118
 - condition: bruising
   note: inferred from vulnerary action
-  reference_ids:
-  - REF-0146
-  - REF-0317
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0022
-  - REF-0118
-- condition: indigestion
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0146
-  - REF-0317
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0022
@@ -232,35 +189,26 @@ indications:
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0022
-  - REF-0146
-  - REF-0317
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0118
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0146
-  - REF-0317
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0022
   - REF-0118
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0146
-  - REF-0317
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0022
   - REF-0118
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0022
-  - REF-0146
-  - REF-0317
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0118
@@ -276,9 +224,7 @@ contraindications:
   reference_ids:
   - REF-0022
   - REF-0118
-  - REF-0146
   - REF-0216
-  - REF-0317
   status: verified
 - note: Duke (2002) includes fireweed (Epilobium angustifolium) as ++ with primarily experimental (score
     1) evidence. It is used in European phytomedicine as an anti-inflammatory and astringent for gastrointestinal
@@ -289,9 +235,7 @@ contraindications:
   reference_ids:
   - REF-0022
   - REF-0118
-  - REF-0146
   - REF-0216
-  - REF-0317
   - REF-0063
   status: verified
 references:
@@ -366,4 +310,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (gathered young; Edible Wild Food REF-3231; a clean seasonal/phenophase statement could not be retrieved -
   theferns had no record, US Forest Service and Gardenia 403, PFAF empty); flower gap. Strong safety
   cross-link to the FATAL false-hellebore (Veratrum album) young-shoot confusion. Existing harvesting.season
-  not inherited. | 2026-08-15: flower harvest_readiness filled (was gap) from Wikipedia under the accepted name Chamaenerion angustifolium (REF-3374): the raceme opens bottom to top and the YOUNG flowers are the material used.'
+  not inherited. | 2026-08-15: flower harvest_readiness filled (was gap) from Wikipedia under the accepted name Chamaenerion angustifolium (REF-3374): the raceme opens bottom to top and the YOUNG flowers are the material used.
+  | 2026-11-10: symptom-source audit batch 4 - REF-0146 ("Phytochemical and Pharmacological Review
+  of Chamerion angustifolium", DOI resolves to a tomato-virus paper) and REF-0317 ("Ivan-chai
+  ...", DOI resolves to a yeast-media paper) purged as phantoms: neither title exists in OpenAlex.
+  Only Epilobium angustifolium-specific studies remain.'

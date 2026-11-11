@@ -158,9 +158,10 @@ indications:
   status: needs-review
 - condition: skin-irritation
   note: inferred from astringent action
-  reference_ids:
-  - REF-0507
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0507
 - condition: wounds
   note: Astringent / styptic for minor wounds (helps stop bleeding, topical)
   reference_ids:
@@ -228,4 +229,7 @@ internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (H
   harvest_readiness for the aerial parts (provisional) - gather the whole flowering/podding plant in active
   growth (theferns gives summer for a drying harvest; shepherd''s purse flowers nearly year-round, so no
   single flowering stage); sourced to Useful Temperate Plants (REF-3223). Grieve and Herbal Reality confirm
-  the whole-plant use but state no phenological stage. Existing harvesting.season not inherited.'
+  the whole-plant use but state no phenological stage. Existing harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 4 - Herbal Reality (REF-0507) names diarrhoea, heavy
+  menstrual bleeding, period pain, PMS and wounds/bleeding, not skin irritation - removed from
+  skin-irritation.'

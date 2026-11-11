@@ -130,7 +130,6 @@ actions:
 - action: analgesic
   reference_ids:
   - REF-0010
-  - REF-0021
   - REF-0057
   - REF-2144
   - REF-2147
@@ -139,7 +138,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0010
-  - REF-0021
   - REF-0057
   - REF-2142
   - REF-2143
@@ -148,13 +146,11 @@ actions:
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0021
   - REF-0169
   - REF-2148
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0021
   - REF-2144
   - REF-2145
   - REF-2150
@@ -162,66 +158,55 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0010
-  - REF-0021
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0057
   - REF-2146
+  - REF-0010
 - condition: back-pain
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0010
-  - REF-0021
-  - REF-0057
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0010
+  - REF-0057
 - condition: bloating
   note: inferred from digestive action
-  reference_ids:
-  - REF-0021
+  reference_ids: []
   status: needs-review
-- condition: cardiovascular-support
-  reference_ids:
-  - REF-0021
-  - REF-0161
-  status: verified
 - condition: headache
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0021
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0010
   - REF-0057
 - condition: indigestion
   note: inferred from digestive action
-  reference_ids:
-  - REF-0021
+  reference_ids: []
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0021
   - REF-0169
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0021
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0057
 - condition: pain
   reference_ids:
   - REF-0010
-  - REF-0021
   - REF-0057
   status: verified
+  note: Evidence is for capsaicin, chili's signature pungent compound (topical high-concentration capsaicin
+    for neuropathic pain), not for eating chili.
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0021
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0010
@@ -229,10 +214,10 @@ indications:
   - REF-2146
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0021
-  - REF-0169
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0169
 contraindications:
 - note: Capsaicin causes intense burning sensation; avoid contact with eyes and mucous membranes. High
     oral doses can cause gastrointestinal irritation, nausea, and diarrhoea. Topical preparations may
@@ -244,7 +229,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0010
-  - REF-0021
   - REF-0057
   - REF-0161
   - REF-0169
@@ -260,7 +244,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0010
-  - REF-0021
   - REF-0057
   - REF-0161
   - REF-0169
@@ -324,4 +307,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   harvest_readiness for fruit + seed (provisional; fruit basis both) - pick the fruit when fully ripe and
   bright red (peak capsaicin/potency); seed taken from the ripe fruit; sourced to The Herbal Medic (REF-3224,
   Capsicum annuum). Grieve''s cayenne is the congener Capsicum minimum, so it was not used. Existing
-  harvesting.season not inherited.'
+  harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 4 - REF-0021 purged as a phantom (DOI
+  10.1007/s11101-023-09875-8 does not resolve; title not found). Capsaicin (signature compound)
+  counts per owner rule 2026-11-11, labelled in the pain note; REF-0010/REF-0057 cover neuropathic
+  pain only - removed from arthritis/back-pain. REF-0161 ("spicy foods" cohort) names no plant -
+  removed from cardiovascular. REF-0169 (capsaicin vs microbes) kept for infection only.'

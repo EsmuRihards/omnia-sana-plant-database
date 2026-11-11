@@ -147,6 +147,9 @@ indications:
   - REF-0430
   - REF-0598
   - REF-0599
+  - REF-0006
+  - REF-0136
+  - REF-0667
   status: verified
 - condition: cardiovascular-support
   note: inferred from lipid-lowering action
@@ -154,6 +157,10 @@ indications:
   - REF-0429
   - REF-0430
   - REF-0599
+  - REF-0006
+  - REF-0136
+  - REF-0666
+  - REF-0667
   status: needs-review
 - condition: high-cholesterol
   note: inferred from lipid-lowering action
@@ -161,6 +168,9 @@ indications:
   - REF-0429
   - REF-0430
   - REF-0599
+  - REF-0136
+  - REF-0666
+  - REF-0667
   status: needs-review
 - condition: metabolic-support
   note: inferred from antidiabetic action
@@ -169,6 +179,9 @@ indications:
   - REF-0430
   - REF-0598
   - REF-0599
+  - REF-0006
+  - REF-0136
+  - REF-0667
   status: needs-review
 contraindications:
 - note: 'Cassia is high in coumarin: regular high intake of cassia bark or supplements can stress or damage
@@ -227,4 +240,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Famil
   draft per the integrity-first sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 8): added
   harvest_readiness for the bark (provisional) - cut coppiced stems and peel the inner bark in the rainy
   season, when the bark is most pliable; sourced to RawSpiceBar (REF-3230, which names Cinnamomum cassia).
-  No prior harvesting.season existed.'
+  No prior harvesting.season existed.
+  | 2026-11-10: symptom-source audit batch 4 - Owner rule 2026-11-11: clinical evidence on unnamed
+  "cinnamon" goes to Cassia (the species most trials used, e.g. Khan 2003, Akilen 2010). Added
+  REF-0006, REF-0136, REF-0666, REF-0667 here (moved from True cinnamon).'

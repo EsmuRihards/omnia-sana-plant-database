@@ -162,41 +162,46 @@ indications:
 - condition: acid-reflux
   note: inferred from gastroprotective action
   reference_ids:
-  - REF-0431
   - REF-0432
-  - REF-0619
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0431
+  - REF-0619
 - condition: appetite-loss
   note: Aromatic bitter tonic for temporary loss of appetite
   reference_ids:
   - REF-0431
   - REF-0432
+  - REF-0619
   status: verified
   mechanistic_exclude_ids:
   - REF-1992
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0431
   - REF-0432
-  - REF-0619
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0431
+  - REF-0619
 - condition: bloating
   note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
     and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
     anti-inflammatory activity
   reference_ids:
-  - REF-0431
   - REF-0432
-  - REF-0619
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0431
+  - REF-0619
 - condition: detox
   note: inferred from hepatoprotective action
   reference_ids:
-  - REF-0431
   - REF-0432
-  - REF-0619
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0431
+  - REF-0619
 - condition: indigestion
   note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
     and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
@@ -211,24 +216,27 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0431
   - REF-0432
   - REF-0619
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0431
 - condition: liver-support
   note: inferred from hepatoprotective action
   reference_ids:
-  - REF-0431
   - REF-0432
   - REF-0619
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0431
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0431
   - REF-0432
-  - REF-0619
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0431
+  - REF-0619
 contraindications:
 - note: Because bitters increase stomach-acid secretion, centaury is contraindicated in peptic (stomach
     or duodenal) ulcer disease and hyperacidity.
@@ -286,4 +294,9 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA
   the dose form / plant part / route checked for mismatch; text rewritten to the source rather than having
   a reference stapled on. | 2026-08-14 (harvest-calendar campaign, Batch 7): added harvest_readiness for the
   aerial parts (provisional) - gather the whole herb when in flower; sourced to Useful Temperate Plants
-  (REF-3226). Existing harvesting.season not inherited; signal re-derived.'
+  (REF-3226). Existing harvesting.season not inherited; signal re-derived.
+  | 2026-11-10: symptom-source audit batch 4 - EU monograph (REF-0431): mild indigestion / stomach
+  and gut disorders and temporary loss of appetite only - removed from 7 pairs. Herbal Reality
+  (REF-0432) names all 9 uses. REF-0619 names dyspeptic complaints, loss of appetite,
+  anti-inflammatory and hepatoprotective activity - wired to appetite-loss, removed from
+  acid-reflux, arthritis, bloating, detox, skin.'

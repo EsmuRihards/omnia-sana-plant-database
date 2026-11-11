@@ -149,51 +149,36 @@ actions:
   - REF-1982
   status: verified
 indications:
-- condition: appetite-loss
-  note: inferred from appetite-stimulant action
-  reference_ids:
-  - REF-0078
-  - REF-0126
-  status: needs-review
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0078
-  - REF-0126
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1977
   - REF-1982
+  - REF-0126
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1983
   status: needs-review
-- condition: indigestion
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0078
-  - REF-0126
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1977
-  - REF-1982
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0078
-  - REF-0126
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1984
+  - REF-0078
+  - REF-0126
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0078
-  - REF-0126
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1984
+  - REF-0078
+  - REF-0126
 contraindications:
 - note: 'Generally very safe as a food spice (normal culinary amounts).Tea (traditional use): The EU herbal
     monograph describes caraway fruit tea for bloating/flatulence and gives a typical adult infusion dose
@@ -298,4 +283,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   reference needed. status -> verified. | 2026-08-14 (harvest-calendar campaign, Batch 7): added
   harvest_readiness - seed provisional (cut the heads when the seed is fully ripe, in the second year;
   theferns REF-3225); leaf + root gap (no harvest-stage source). Safety cross-link to the poison-hemlock
-  (Conium maculatum) lookalike. Existing harvesting.season not inherited. | 2026-08-15: leaf and root harvest_readiness filled (were gaps) from University of Illinois Extension (REF-3373): roots dug while the plants are young, leaves picked as needed; hemlock safety clause carried on both.'
+  (Conium maculatum) lookalike. Existing harvesting.season not inherited. | 2026-08-15: leaf and root harvest_readiness filled (were gaps) from University of Illinois Extension (REF-3373): roots dug while the plants are young, leaves picked as needed; hemlock safety clause carried on both.
+  | 2026-11-10: symptom-source audit batch 4 - EU monograph REF-0078: "problems of the digestive
+  system such as bloating and flatulence" - kept for bloating only. REF-0126 (cumin + caraway
+  update) names none of the paired symptoms.'

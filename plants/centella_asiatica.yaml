@@ -187,30 +187,22 @@ indications:
   - REF-2092
   - REF-2093
   - REF-2097
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-0457
-  - REF-0458
-  status: needs-review
 - condition: cognitive-function
   note: Improves alertness and mood (raises alertness, reduces anger); a meta-analysis found no significant
     improvement in specific cognitive-function domains versus placebo
   reference_ids:
-  - REF-0568
-  status: needs-review
-- condition: eczema
-  note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
-  reference_ids:
   - REF-0457
-  status: verified
+  status: needs-review
+  null_result_ids:
+  - REF-0568
 - condition: hemorrhoids
   note: inferred from venotonic action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0458
   - REF-0569
   - REF-0570
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -242,27 +234,24 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2097
-- condition: stress
-  note: inferred from anxiolytic action
-  reference_ids:
-  - REF-0457
-  status: needs-review
 - condition: swelling
   note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
     and reduces leg swelling
   reference_ids:
   - REF-0458
   - REF-0569
-  - REF-0570
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0570
 - condition: varicose-veins
   note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
     and reduces leg swelling
   reference_ids:
   - REF-0458
   - REF-0569
-  - REF-0570
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0570
 - condition: wounds
   note: inferred from vulnerary action
   reference_ids:
@@ -363,4 +352,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med 
   The infusion it describes is applied as an impregnated dressing, not drunk. Wrong route. | 2026-08-14
   (harvest-calendar campaign, Batch 8): added harvest_readiness for the aerial parts (provisional) - gather
   the leafy mats at any time during active growth; sourced to Useful Temperate Plants (REF-3227). Safety
-  cross-link to the creeping-buttercup (Ranunculus repens) lookalike. Existing harvesting.season not inherited.'
+  cross-link to the creeping-buttercup (Ranunculus repens) lookalike. Existing harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 4 - REF-0568 (SR: "not strong evidence to support ...
+  cognitive function") moved to null_result_ids; REF-0457 (names preventing cognitive deficits)
+  added. REF-0570 (Cochrane, 10 phlebotonics pooled) is class-level - removed. Bruising had only
+  wound/scar papers - dropped.'

@@ -84,6 +84,8 @@ def run(stem, ops, log, note, label):
         if cond not in ind:
             raise SystemExit(f'{stem}: no indication {cond}')
         i = ind[cond]
+        if kind == 'note':  # ('note', cond, text): replace the indication note
+            i['note'] = op[2]; log.append(f'{stem}\t{cond}\t-\tnote'); continue
         if kind == 'drop':
             d['indications'] = [x for x in d['indications'] if x['condition'] != cond]
             del ind[cond]; log.append(f'{stem}\t{cond}\t-\tdrop'); continue

@@ -184,6 +184,15 @@ design — honor them and the redesign is safe; break one and it isn't:
    "oxidative stress", "neuroprotective") never count. An unverifiable source is dropped from
    the pair. A pair left with no direct source keeps only valid mechanistic cards
    (`needs-review`) or is removed.
+10. **Species and safety rules for sources (owner decisions, 2026-11-10/11).** A source counts
+   for a species only when it names that species (POWO-accepted). Homeopathic dilutions,
+   multi-herb products, genus-level reviews with prose-only attribution and compound papers that
+   name no species are not sources. Two exceptions: a plant's signature compound (capsaicin for
+   chili) counts, labelled as compound evidence in the note; and clinical evidence on an unnamed
+   common name that covers several species ("cinnamon") goes only to the species the trials
+   mostly used (Cassia). Reviews that conclude "may be effective / may benefit" count as support
+   as written. A plant is never listed for the organ or system its own `serious` warning is about
+   (e.g. greater celandine and liver support).
 
 A precise "8/10" shown to a consumer implies more rigor than AI-assigned tags carry —
 treat the number as a claim that itself must be earned (see §10).

@@ -1756,7 +1756,7 @@
    "link_type": "doi",
    "citation": "Kos, G., Czarnek, K., Sadok, I., Krzyszczak-Turczyn, A., Kubica, P. and others (2025) 'Eleutherococcus senticosus: An Important Adaptogenic Plant', Molecules, 30(12). doi:10.3390/molecules30122512",
    "abstract": "This comprehensive review focuses on Eleutherococcus senticosus (ES), examining the phytochemical composition, traditional medicinal roles, ecological traits, and pharmacological effects. Native to Northeast Asia, ES is used in traditional Chinese, Korean, and Japanese medicine. The rhizomes and bark are utilized medicinally and valued for their adaptogenic properties that enhance stress resistance, boost mental and physical endurance, and exhibit immunostimulatory effects that strengthen the immune system. Its pharmacological potential stems from a variety of bioactive compounds, including eleutherosides, lignans, saponins, flavonoids, and polysaccharides, which contribute to health benefits such as neuroprotective, antidiabetic, anticancer, and antioxidative activities. Neuroprotective properties may aid in the management of neurodegenerative conditions, such as Alzheimer's and Parkinson's disease, while antidiabetic effects support glucose regulation and insulin sensitivity. With increasing demands and conservation concerns, sustainable cultivation practices are essential, as ES is endangered in some areas. Plant biotechnology techniques offer solutions to enhance secondary metabolite yields while ensuring genetic stability and minimizing environmental impacts. ES is a promising natural resource for various industries because of its extensive benefits. Still, its conservation and sustainable production are critical and require ongoing research and innovative cultivation strategies.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -1779,12 +1779,11 @@
    ],
    "conditions": [
     "Blood sugar / diabetes support",
-    "Cold & flu",
+    "Cognitive function",
     "Fatigue / low energy",
     "Immune support",
     "Memory",
     "Metabolic support",
-    "Muscle soreness",
     "Stress"
    ]
   },
@@ -17488,9 +17487,7 @@
    ],
    "conditions": [
     "Bloating",
-    "Indigestion",
     "Inflammation (general)",
-    "Swelling / fluid retention",
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
@@ -20889,9 +20886,7 @@
     "Diuretic"
    ],
    "conditions": [
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Urinary support"
    ]
   },
   {
@@ -22990,7 +22985,7 @@
    "link_type": "doi",
    "citation": "Li, X.T., Zhou, J.C., Zhou, Y., Ren, Y.S. et al (2022) 'Pharmacological effects of Eleutherococcus senticosus on the neurological disorders', Phytotherapy Research, 36(9), pp. 3490-3504. doi:10.1002/ptr.7555",
    "abstract": "Eleutherococcus senticosus is a medicinal plant widely used in traditional medicine and edible remedies with effects on anti-fatigue, sleep improvement, and memory enhancement. Recently, the application of E. senticosus to neurological disorders has been a focus. However, its overall pharmacological effect on neural diseases and relevant mechanisms are needed in an in-depth summary. In this review, the traditional uses and the therapeutic effect of E. senticosus on the treatment of fatigue, depression, Alzheimer's disease, Parkinson's disease, and cerebral ischemia were summarized. In addition, the underlying mechanisms involved in the anti-oxidative damage, anti-inflammation, neurotransmitter modulation, improvement of neuronal growth, and anti-apoptosis were discussed. This review will accelerate the understanding of the neuroprotective effects brought from the E. senticosus, and impetus its development as a phytotherapy agent against neurological disorders.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -26334,7 +26329,7 @@
    "link_type": "doi",
    "citation": "Li, X., Chen, C., Leng, A. and Qu, J (2021) 'Advances in the Extraction, Purification, Structural Characteristics and Biological Activities of Eleutherococcus senticosus Polysaccharides', Frontiers in Pharmacology, 12, pp. 753007. doi:10.3389/fphar.2021.753007",
    "abstract": "In recent years, natural polysaccharides have received growing attention and interest in view of their values in food, medical, cosmetics and other fields. Eleutherococcus senticosus ( E. senticosus ) is a medicine and food homologous plant that possess anti-tumor, anti-inflammatory, central nervous system and cardiovascular protection, anti-radiation, enhancement of human microcirculation, improvement of physical fatigue effects, mainly based on lignans, flavonoids and coumarin types. E. senticosus polysaccharides (ESPS), act as a kind of polysaccharide extracted and isolated from the root and rhizome of E. senticosus , have been found in many applications of medicine and food for their unique biological activity. Nevertheless, the existing studies are mostly concerned with small molecules of E. senticosus , less attention is paid to polysaccharides. Moreover, the types and structural characterization of ESPS reported in existing literature were also not summarized. In this paper, the research progress of ESPS is reviewed from the aspects of extraction, separation, structural characterization and biological activity, future perspectives from points of efficient extraction, resource utilization and quality control standards were also proposed, which provide reference for the further development and utilization of ESPS.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -29429,7 +29424,12 @@
    "actions": [
     "Adaptogen"
    ],
-   "conditions": []
+   "conditions": [
+    "Cognitive function",
+    "Cold & flu",
+    "Fatigue / low energy",
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-0345",
@@ -31716,7 +31716,6 @@
    ],
    "conditions": [
     "Cognitive function",
-    "Cold & flu",
     "Fatigue / low energy",
     "Immune support",
     "Muscle soreness",
@@ -42707,7 +42706,11 @@
     "Antioxidant",
     "Digestive aid"
    ],
-   "conditions": []
+   "conditions": [
+    "Cardiovascular / heart health",
+    "Infection (general)",
+    "Respiratory support"
+   ]
   },
   {
    "ref_id": "REF-2113",
@@ -48491,7 +48494,7 @@
    "link_type": "doi",
    "citation": "Vitalone, A. and Allkanjari, O (2018) 'Epilobium spp: Pharmacology and Phytochemistry', Phytotherapy Research, 32(7), pp. 1229-1240. doi:10.1002/ptr.6072",
    "abstract": "The Epilobium species and their extracts are very popular in folk medicine, for a wide range of applications. The purpose of this review is the analysis of the pharmacological properties of Epilobium spp, considering whether their effects (e.g., anti-inflammatory, antioxidant, antitumor, antimicrobial, analgesic, and antiandrogenic) could rationally justify the use of Epilobium as a treatment of numerous diseases. Even if numerous preclinical studies have been reported, randomized controlled clinical trials (for the evaluation of safety and efficacy), and eventually cost-effectiveness studies (to estimate the long-term cumulative costs), are still needed to confirm the usefulness of these medicinal plants in human diseases.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -54264,7 +54267,7 @@
    "link_type": "doi",
    "citation": "Dragos, D., Gilca, M., Gaman, L., Vlad, A., Iosif, L. et al (2017) 'Phytomedicine in Joint Disorders', Nutrients, 9(1), pp. 70. doi:10.3390/nu9010070",
    "abstract": "Chronic joint inflammatory disorders such as osteoarthritis and rheumatoid arthritis have in common an upsurge of inflammation, and oxidative stress, resulting in progressive histological alterations and disabling symptoms. Currently used conventional medication (ranging from pain-killers to biological agents) is potent, but frequently associated with serious, even life-threatening side effects. Used for millennia in traditional herbalism, medicinal plants are a promising alternative, with lower rate of adverse events and efficiency frequently comparable with that of conventional drugs. Nevertheless, their mechanism of action is in many cases elusive and/or uncertain. Even though many of them have been proven effective in studies done in vitro or on animal models, there is a scarcity of human clinical evidence. The purpose of this review is to summarize the available scientific information on the following joint-friendly medicinal plants, which have been tested in human studies: Arnica montana, Boswellia spp., Curcuma spp., Equisetum arvense, Harpagophytum procumbens , Salix spp., Sesamum indicum , Symphytum officinalis , Zingiber officinalis , Panax notoginseng , and Whitania somnifera .",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -57474,9 +57477,7 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Swelling / fluid retention",
     "Urinary support",
-    "Urinary tract infection (UTI)",
     "Wounds"
    ]
   },
@@ -58926,48 +58927,6 @@
    ],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0041",
-   "key": "carneiro2016double",
-   "type": "article",
-   "title": "Randomized, double-blind clinical trial to assess the acute diuretic effect of Equisetum arvense (Field Horsetail) in healthy volunteers",
-   "authors": "Carneiro, D.M., Marques, L.C., Velasques, L.O. et al",
-   "journal": "",
-   "year": "2016",
-   "doi": "10.1155/2014/760683",
-   "url": "",
-   "link": "https://doi.org/10.1155/2014/760683",
-   "link_type": "doi",
-   "citation": "Carneiro, D.M., Marques, L.C., Velasques, L.O. et al (2016) 'Randomized, double-blind clinical trial to assess the acute diuretic effect of Equisetum arvense (Field Horsetail) in healthy volunteers'. doi:10.1155/2014/760683",
-   "abstract": "In this double-blind, randomized clinical trial, 36 healthy male volunteers were randomly distributed into three groups (n = 12) that underwent a three-step treatment. For four consecutive days, we alternately administered a standardized dried extract of Equisetum arvense (EADE, 900 mg/day), placebo (corn starch, 900 mg/day), or hydrochlorothiazide (25 mg/day), separated by a 10-day washout period. Each volunteer served as his own control, and the groups' results were compared. We repeated the same evaluation after each stage of treatment to evaluate the safety of the drug. The diuretic effect of EADE was assessed by monitoring the volunteers' water balance over a 24 h period. The E. arvense extract produced a diuretic effect that was stronger than that of the negative control and was equivalent to that of hydrochlorothiazide without causing significant changes in the elimination of electrolytes. There was no significant increase in the urinary elimination of catabolites. Rare minor adverse events were reported. The clinical examinations and laboratory tests showed no changes before or after the experiment, suggesting that the drug is safe for acute use. Further research is needed to better clarify the mechanism of diuretic action and the other possible pharmacological actions of this phytomedicine.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Randomized, double-blind clinical trial to assess the acute diuretic effect of Equisetum arvense (Field Horsetail) in healthy volunteers",
-   "plants": [
-    "Field Horsetail",
-    "common horsetail",
-    "horse pipes",
-    "mare's tail",
-    "scouring rush"
-   ],
-   "scientific": [
-    "Equisetum arvense"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Anti-rheumatic / anti-arthritic",
-    "Antimicrobial",
-    "Diuretic",
-    "Vulnerary (wound healing)"
-   ],
-   "conditions": [
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
-   ]
   },
   {
    "ref_id": "REF-1903",
@@ -61681,10 +61640,19 @@
     "clinical"
    ],
    "display": "European Union herbal monograph on Epilobium angustifolium L. and/or Epilobium parviflorum Schreb., herba",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Prostate support",
+    "Urinary support"
+   ]
   },
   {
    "ref_id": "REF-3099",
@@ -66255,7 +66223,7 @@
    "link_type": "doi",
    "citation": "Granica, S., Piwowarski, J.P., Czerwinska, M.E. and Kiss, A.K (2014) 'Phytochemistry, pharmacology and traditional uses of different Epilobium species (Onagraceae): a review', Journal of Ethnopharmacology, pp. 316--346. doi:10.1016/j.jep.2014.08.036",
    "abstract": "Ethnopharmacological relevance The Epilobium genus (willowherb) comprises of ca. 200 species of herbaceous plants distributed around the world. Infusions prepared form willowherbs have been traditionally used externally in skin and mucosa infections and in the treatment of benign prostate hyperplasia. Nowadays extracts from different Epilobium species are widely used by patients, however the lack of clinical studies does not allow to fully establish their efficacy. The present review summarizes published data on phytochemistry, ethnopharmacological use and pharmacological studies concerning willowherb species investigated throughout past few decades. Materials and methods Literature survey was performed using Scopus, PubMed, Web of Science and Reaxys databases looking for papers and patents focused on chemical composition and bioactivity of Epilobium species. Systematic research in ethnopharmacological literature in digitalized sources of academic libraries was also carried out. Result The chemical composition of different Epilobium species and their bioactivities are described. The detailed information on constituents isolated and detected by chromatographic methods is given. The studies show that polyphenols are main compounds occurring in Epilobium herb among which flavonoids, phenolic acids and tannins (oenothein B and oenothein A) are dominating constituents. The extracts and some isolated compounds from Epilobium sp. were shown to possess antimicrobial, anti-proliferative, anti-inflammatory, analgesic and antioxidative activities. Because many studies suggest that oenothein B as dominating constituent may be responsible for Epilobium sp. pharmacological effects, its documented bioactivities were also described. Conclusions The pharmacological studies performed on Epilobium justify the traditional use of this species in external and in gastrointestinal inflammations. As far as the treatment of benign prostate hyperplasia (BPH) is considered, in the literature, there are some reports indicating that Epilobium extracts have a beneficial effect for this disorder, but the number of in vitro studies is not sufficient and the in vivo studies are not conclusive or too preliminary to draw a final conclusion about the efficacy of Epilobium preparations. More in vitro, in vivo and clinical studies to confirm this mode of action are strongly needed. Epilobium's extracts have also documented antioxidative and potential anti-inflammatory properties. Oenothein B can be considered as responsible for some of Epilobium pharmacological properties. Because of the lack of clinical data further studies are needed to provide an evidence base for traditional uses of plant materials belonging to the Epilobium genus.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -66271,11 +66239,7 @@
    "actions": [
     "Anti-inflammatory"
    ],
-   "conditions": [
-    "Prostate support",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0962",
@@ -66439,6 +66403,46 @@
     "Antispasmodic"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0041",
+   "key": "carneiro2016double",
+   "type": "article",
+   "title": "Randomized, double-blind clinical trial to assess the acute diuretic effect of Equisetum arvense (Field Horsetail) in healthy volunteers",
+   "authors": "Carneiro, D.M., Marques, L.C., Velasques, L.O. et al",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2014",
+   "doi": "10.1155/2014/760683",
+   "url": "",
+   "link": "https://doi.org/10.1155/2014/760683",
+   "link_type": "doi",
+   "citation": "Carneiro, D.M., Marques, L.C., Velasques, L.O. et al (2014) 'Randomized, double-blind clinical trial to assess the acute diuretic effect of Equisetum arvense (Field Horsetail) in healthy volunteers', Evidence-Based Complementary and Alternative Medicine, 2014, pp. 760683. doi:10.1155/2014/760683",
+   "abstract": "In this double-blind, randomized clinical trial, 36 healthy male volunteers were randomly distributed into three groups (n = 12) that underwent a three-step treatment. For four consecutive days, we alternately administered a standardized dried extract of Equisetum arvense (EADE, 900 mg/day), placebo (corn starch, 900 mg/day), or hydrochlorothiazide (25 mg/day), separated by a 10-day washout period. Each volunteer served as his own control, and the groups' results were compared. We repeated the same evaluation after each stage of treatment to evaluate the safety of the drug. The diuretic effect of EADE was assessed by monitoring the volunteers' water balance over a 24 h period. The E. arvense extract produced a diuretic effect that was stronger than that of the negative control and was equivalent to that of hydrochlorothiazide without causing significant changes in the elimination of electrolytes. There was no significant increase in the urinary elimination of catabolites. Rare minor adverse events were reported. The clinical examinations and laboratory tests showed no changes before or after the experiment, suggesting that the drug is safe for acute use. Further research is needed to better clarify the mechanism of diuretic action and the other possible pharmacological actions of this phytomedicine.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Randomized, double-blind clinical trial to assess the acute diuretic effect of Equisetum arvense (Field Horsetail) in healthy volunteers",
+   "plants": [
+    "Field Horsetail",
+    "common horsetail",
+    "horse pipes",
+    "mare's tail",
+    "scouring rush"
+   ],
+   "scientific": [
+    "Equisetum arvense"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anti-rheumatic / anti-arthritic",
+    "Antimicrobial",
+    "Diuretic",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": [
+    "Urinary support"
+   ]
   },
   {
    "ref_id": "REF-2622",
@@ -67784,11 +67788,8 @@
    ],
    "conditions": [
     "Arthritis / joint pain",
-    "Back pain",
-    "Headache",
     "Inflammation (general)",
-    "Pain (general)",
-    "Skin irritation"
+    "Pain (general)"
    ]
   },
   {
@@ -68649,7 +68650,7 @@
    "link_type": "search",
    "citation": "Bhilave, M.P., Bhosale, S.V. and Nadaf, S.B (2013) 'Evaluation of antibacterial activity of cardamom seeds of Elettaria cardamomum', 4(1), pp. 66--69.",
    "abstract": "",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -68670,10 +68671,7 @@
     "Antioxidant",
     "Digestive aid"
    ],
-   "conditions": [
-    "Infection (general)",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1716",
@@ -69298,6 +69296,37 @@
     "Anti-inflammatory",
     "Digestive aid"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3393",
+   "key": "schaffler2013eleutherococcus",
+   "type": "article",
+   "title": "No benefit adding Eleutherococcus senticosus to stress management training in stress-related fatigue/weakness, impaired work or concentration, a randomized controlled study",
+   "authors": "Schaffler, K., Wolf, O.T. and Burkart, M.",
+   "journal": "Pharmacopsychiatry",
+   "year": "2013",
+   "doi": "10.1055/s-0033-1347178",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-0033-1347178",
+   "link_type": "doi",
+   "citation": "Schaffler, K., Wolf, O.T. and Burkart, M (2013) 'No benefit adding Eleutherococcus senticosus to stress management training in stress-related fatigue/weakness, impaired work or concentration, a randomized controlled study', Pharmacopsychiatry, 46(5), pp. 181--190. doi:10.1055/s-0033-1347178",
+   "abstract": "Plant adaptogens are traditionally used for stress-related symptoms, but clinical evidence is inconsistent. This trial explored the effects of 120 mg/day Eleutherococcus senticosus root extract (ES), 2-day professional stress management training (SMT) and a combination of both (COM). 144 participants suffering from asthenia and reduced working capacity related to chronic stress were randomized to the treatments. Validated scales and tests were used to investigate cognitive performance; feeling stressed; fatigue and exhaustion; alertness, restlessness and mood; quality of life and sleep; physical complaints and activities; and physiological stress parameters including cortisol awakening response (CAR), at baseline, after 2 and 8 weeks of treatment (German Clinical Trials Register DRKS00000692). Almost all parameters improved significantly over time without group differences. Significant differences were found in mental fatigue and restlessness, both in favor of COM vs. ES. COM was not superior to SMT in any parameter at week 8. An attenuation of the CAR was seen at week 2 without group differences. All treatments were well tolerated. Effects of adding ES to SMT are, if any, negligible.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "No benefit adding Eleutherococcus senticosus to stress management training in stress-related fatigue/weakness, impaired work or concentration, a randomized controlled study",
+   "plants": [
+    "Devil's bush",
+    "Eleuthero",
+    "Siberian Ginseng",
+    "Touch-me-not"
+   ],
+   "scientific": [
+    "Eleutherococcus senticosus"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -72372,6 +72401,38 @@
    "actions": [],
    "conditions": [
     "Fatigue / low energy"
+   ]
+  },
+  {
+   "ref_id": "REF-3392",
+   "key": "jawad2012echinacea",
+   "type": "article",
+   "title": "Safety and Efficacy Profile of Echinacea purpurea to Prevent Common Cold Episodes: A Randomized, Double-Blind, Placebo-Controlled Trial",
+   "authors": "Jawad, M., Schoop, R., Suter, A., Klein, P. and Eccles, R.",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2012",
+   "doi": "10.1155/2012/841315",
+   "url": "",
+   "link": "https://doi.org/10.1155/2012/841315",
+   "link_type": "doi",
+   "citation": "Jawad, M., Schoop, R., Suter, A., Klein, P. and Eccles, R (2012) 'Safety and Efficacy Profile of Echinacea purpurea to Prevent Common Cold Episodes: A Randomized, Double-Blind, Placebo-Controlled Trial', Evidence-Based Complementary and Alternative Medicine, 2012, pp. 841315. doi:10.1155/2012/841315",
+   "abstract": "Objective. To investigate the safety (risk) and efficacy (benefit) of Echinacea purpurea extract in the prevention of common cold episodes in a large population over a 4-month period. Methods. 755 healthy subjects were allocated to receive either an alcohol extract from freshly harvested E. purpurea (95% herba and 5% root) or placebo. Participants were required to record adverse events and to rate cold-related issues in a diary throughout the investigation period. Nasal secretions were sampled at acute colds and screened for viruses. Results. A total of 293 adverse events occurred with Echinacea and 306 with placebo treatment. Nine and 10% of participants experienced adverse events, which were at least possibly related to the study drug (adverse drug reactions). Thus, the safety of Echinacea was noninferior to placebo. Echinacea reduced the total number of cold episodes, cumulated episode days within the group, and pain-killer medicated episodes. Echinacea inhibited virally confirmed colds and especially prevented enveloped virus infections (P < 0.05). Echinacea showed maximal effects on recurrent infections, and preventive effects increased with therapy compliance and adherence to the protocol. Conclusions. Compliant prophylactic intake of E. purpurea over a 4-month period appeared to provide a positive risk to benefit ratio.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Safety and Efficacy Profile of Echinacea purpurea to Prevent Common Cold Episodes: A Randomized, Double-Blind, Placebo-Controlled Trial",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cold & flu"
    ]
   },
   {
@@ -75788,7 +75849,7 @@
    "link_type": "search",
    "citation": "Sandhu, N.S., Kaur, S. and Chopra, D (2010) 'Equisetum arvense: pharmacology and phytochemistry — a review', 3(3), pp. 146--150.",
    "abstract": "",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -75810,18 +75871,7 @@
     "Diuretic",
     "Vulnerary (wound healing)"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Back pain",
-    "Bruising",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0073",
@@ -76692,45 +76742,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0271",
-   "key": "sharma2010possibility",
-   "type": "article",
-   "title": "The possibility of prophylactic treatment of streptococcal pharyngotonsillitis with a standardized Echinacea preparation",
-   "authors": "Sharma, M., Schoop, R., Suter, A. and Schoop, W",
-   "journal": "",
-   "year": "2010",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=The%20possibility%20of%20prophylactic%20treatment%20of%20streptococcal%20pharyngotonsillitis%20with%20a%20standardized%20Echinacea%20preparation",
-   "link_type": "search",
-   "citation": "Sharma, M., Schoop, R., Suter, A. and Schoop, W (2010) 'The possibility of prophylactic treatment of streptococcal pharyngotonsillitis with a standardized Echinacea preparation', 29(8), pp. 1025--1035.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "The possibility of prophylactic treatment of streptococcal pharyngotonsillitis with a standardized Echinacea preparation",
-   "plants": [
-    "Black Sampson",
-    "Purple coneflower",
-    "Snakeroot"
-   ],
-   "scientific": [
-    "Echinacea purpurea"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Immunomodulator / immune support"
-   ],
-   "conditions": [
-    "Cold & flu",
-    "Immune support",
-    "Infection (general)",
-    "Inflammation (general)"
-   ]
-  },
-  {
    "ref_id": "REF-1090",
    "key": "rusconi2009cacao",
    "type": "article",
@@ -77405,15 +77416,15 @@
    "type": "article",
    "title": "Blood pressure lowering, fibrinolysis enhancing and antioxidant activities of cardamom (Elettaria cardamomum)",
    "authors": "Verma, S.K., Jain, V. and Katewa, S.S",
-   "journal": "",
+   "journal": "Indian Journal of Biochemistry and Biophysics",
    "year": "2009",
    "doi": "",
    "url": "",
    "link": "https://scholar.google.com/scholar?q=Blood%20pressure%20lowering%2C%20fibrinolysis%20enhancing%20and%20antioxidant%20activities%20of%20cardamom%20%28Elettaria%20cardamomum%29",
    "link_type": "search",
-   "citation": "Verma, S.K., Jain, V. and Katewa, S.S (2009) 'Blood pressure lowering, fibrinolysis enhancing and antioxidant activities of cardamom (Elettaria cardamomum)', 46(6), pp. 503--506.",
+   "citation": "Verma, S.K., Jain, V. and Katewa, S.S (2009) 'Blood pressure lowering, fibrinolysis enhancing and antioxidant activities of cardamom (Elettaria cardamomum)', Indian Journal of Biochemistry and Biophysics, 46(6), pp. 503--506.",
    "abstract": "Elettaria cardamomum (L.) Maton. (Small cardamom) fruit powder was evaluated for its antihypertensive potential and its effect on some of the cardiovascular risk factors in individuals with stage 1 hypertension. Twenty, newly diagnosed individuals with primary hypertension of stage 1 were administered 3 g of cardamom powder in two divided doses for 12 weeks. Blood pressure was recorded initially and at 4 weeks interval for 3 months. Blood samples were also collected initially and at 4 weeks interval for estimation of lipid profile, fibrinogen and fibrinolysis. Total antioxidant status, however, was assessed initially and at the end of the study. Administration of 3 g cardamom powder significantly (p<0.001) decreased systolic, diastolic and mean blood pressure and significantly (p<0.05) increased fibrinolytic activity at the end of 12th week. Total antioxidant status was also significantly (p<0.05) increased by 90% at the end of 3 months. However, fibrinogen and lipid levels were not significantly altered. All study subjects experienced a feeling of well being without any side-effects. Thus, the present study demonstrates that small cardamom effectively reduces blood pressure, enhances fibrinolysis and improves antioxidant status, without significantly altering blood lipids and fibrinogen levels in stage 1 hypertensive individuals.",
-   "tier": "traditional",
+   "tier": "clinical",
    "corpus": [
     "clinical"
    ],
@@ -77435,8 +77446,7 @@
     "Digestive aid"
    ],
    "conditions": [
-    "Cardiovascular / heart health",
-    "Inflammation (general)"
+    "Cardiovascular / heart health"
    ]
   },
   {
@@ -79504,7 +79514,7 @@
    "link_type": "doi",
    "citation": "Bleakney, T.L (2008) 'Deconstructing an adaptogen: Eleutherococcus senticosus', Holistic Nursing Practice. doi:10.1097/01.HNP.0000326005.65310.7c",
    "abstract": "The dried roots and rhizomes of Eleutherococcus senticosus (Araliacaea) plant are used in various preparations, primarily for its \"adaptogenic\" properties. An adaptogen supports health and prevents disease in both sick and healthy individuals through nonspecific effects, which neutralize various environmental and physical stressors while remaining relatively safe and free of side effects. The term \"adaptogen,\" which has not been well defined scientifically, undermines the need for increased inquiry and research into the many promising effects of this herb. The primary clinical applications, pharmacology, evidence of efficacy, contraindications, drug interactions, and current clinical and scientific research are also reported.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -79524,10 +79534,6 @@
     "Physical performance / ergogenic"
    ],
    "conditions": [
-    "Cold & flu",
-    "Fatigue / low energy",
-    "Immune support",
-    "Muscle soreness",
     "Stress"
    ]
   },
@@ -83187,44 +83193,6 @@
    ]
   },
   {
-   "ref_id": "REF-0153",
-   "key": "linde2006echinacea",
-   "type": "misc",
-   "title": "Echinacea for preventing and treating the common cold",
-   "authors": "Linde, K., Barrett, B., Wölkart, K., Bauer, R. and Melchart, D",
-   "journal": "",
-   "year": "2006",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Echinacea%20for%20preventing%20and%20treating%20the%20common%20cold",
-   "link_type": "search",
-   "citation": "Linde, K., Barrett, B., Wölkart, K., Bauer, R. and Melchart, D (2006) 'Echinacea for preventing and treating the common cold'.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Echinacea for preventing and treating the common cold",
-   "plants": [
-    "Black Sampson",
-    "Purple coneflower",
-    "Snakeroot"
-   ],
-   "scientific": [
-    "Echinacea purpurea"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Immunomodulator / immune support"
-   ],
-   "conditions": [
-    "Cold & flu",
-    "Immune support",
-    "Infection (general)"
-   ]
-  },
-  {
    "ref_id": "REF-1110",
    "key": "circosta2006clover",
    "type": "article",
@@ -83387,10 +83355,7 @@
     "Antioxidant",
     "Digestive aid"
    ],
-   "conditions": [
-    "Bloating",
-    "Indigestion"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1260",
@@ -84164,7 +84129,7 @@
    "link_type": "doi",
    "citation": "Goulet, E.D.B. and Dionne, I.J (2005) 'Assessment of the effects of Eleutherococcus senticosus on endurance performance', International Journal of Sport Nutrition and Exercise Metabolism, 15(1), pp. 75-83. doi:10.1123/ijsnem.15.1.75",
    "abstract": "The use of nutritional ergogenic aids containing Eleutherococcus senticosus (ES), a plant which is also known as ciwujia or Siberian ginseng, is relatively common among endurance athletes. Eleutherococcus senticosus has been suggested to improve cardiorespiratory fitness (CF) and fat metabolism (FAM) and, therefore, endurance performance (EP). This article reviews the studies that evaluated the effects of ES during endurance exercise, three of which suggest that ES substantially improves CF, FAM, and EP. However, each of these reports contains severe methodological flaws, which seriously threaten their internal validity, thereby rendering hazardous the generalization of the results. On the other hand, 5 studies that used rigorous research protocols show no benefit of ES on CF, FAM, and EP. It is therefore concluded that ES supplementation (up to 1000 to 1200 mg/d for 1 to 6 wk) offers no advantage during exercise ranging in duration from 6 to 120 min.",
-   "tier": "clinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -84793,7 +84758,7 @@
    "link_type": "doi",
    "citation": "Steenkamp, V., Gouws, M.C., Gulumian, M., Elgorashi, E.E. and van Staden, J (2005) 'Studies on antibacterial, anti-inflammatory and antioxidant activity of herbal remedies used in the treatment of benign prostatic hyperplasia and prostatitis', Journal of Ethnopharmacology, pp. 2005. doi:10.1016/j.jep.2005.07.007",
    "abstract": "Crude water and ethanolic extracts of five herbal remedies reported in the literature for traditional treatment of benign prostatic hyperplasia (BPH) and/or prostatitis were investigated for their effect on hydroxyl scavenging activity, antibacterial activity and their ability to inhibit cyclooxygenase-1 and -2 (COX-1 and COX-2) catalysed prostaglandin biosynthesis. Both the water and ethanol extracts of Hypoxis hemerocallidea and Epilobium parviflorum inhibited the growth of Escherichia coli. All 10 extracts scavenged the hydroxyl radical but with various potencies (32-93%). Ethanolic extracts were the most active in inhibiting COX-1 catalysed prostaglandin biosynthesis. The ethanolic extract of Epilobium parviflorum showed inhibitory effects on both the COX-1 and -2 catalysed prostaglandin biosynthesis, inhibited growth of Escherichia coli and exerted antioxidant activity. Although these results support the traditional use of Epilobium parviflorum for treatment of prostatitis and BPH, further investigation is required, for this promising plant.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -84812,13 +84777,9 @@
     "Antioxidant"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Infection (general)",
     "Inflammation (general)",
-    "Prostate support",
-    "Skin irritation",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Prostate support"
    ]
   },
   {
@@ -88336,17 +88297,7 @@
     "Antioxidant",
     "Digestive aid"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bloating",
-    "Cardiovascular / heart health",
-    "Indigestion",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Respiratory support",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0052",
@@ -90187,9 +90138,7 @@
     "Dioscorea villosa"
    ],
    "actions": [],
-   "conditions": [
-    "Menopause"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1333",
@@ -99546,8 +99495,7 @@
     "Diuretic"
    ],
    "conditions": [
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Urinary support"
    ]
   },
   {

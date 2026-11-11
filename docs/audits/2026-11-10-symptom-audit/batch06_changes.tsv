@@ -1,0 +1,88 @@
+plant	condition	ref	op
+daucus_carota	swelling	REF-2708	rm
+daucus_carota	indigestion	REF-2708	rm
+daucus_carota	swelling	-	drop(no evidence left)
+dioscorea_villosa	back-pain	REF-0528	rm
+dioscorea_villosa	headache	REF-0528	rm
+dioscorea_villosa	skin-irritation	REF-0528	rm
+dioscorea_villosa	menopause	REF-0614	null
+dioscorea_villosa	back-pain	-	drop(no evidence left)
+dioscorea_villosa	headache	-	drop(no evidence left)
+dioscorea_villosa	menopause	-	drop(no evidence left)
+dioscorea_villosa	skin-irritation	-	drop(no evidence left)
+echinacea_purpurea	*	REF-0153	purge
+echinacea_purpurea	*	REF-0271	purge
+echinacea_purpurea	arthritis	REF-0308	rm
+echinacea_purpurea	inflammation	REF-0308	rm
+echinacea_purpurea	cold	REF-3392	add
+echinacea_purpurea	cold	REF-0797	nulladd
+elettaria_cardamomum	arthritis	REF-0144	rm
+elettaria_cardamomum	bloating	REF-0144	rm
+elettaria_cardamomum	cardiovascular-support	REF-0144	rm
+elettaria_cardamomum	indigestion	REF-0144	rm
+elettaria_cardamomum	infection	REF-0144	rm
+elettaria_cardamomum	inflammation	REF-0144	rm
+elettaria_cardamomum	respiratory-support	REF-0144	rm
+elettaria_cardamomum	skin-irritation	REF-0144	rm
+elettaria_cardamomum	wounds	REF-0144	rm
+elettaria_cardamomum	infection	REF-0028	rm
+elettaria_cardamomum	wounds	REF-0028	rm
+elettaria_cardamomum	bloating	REF-1669	rm
+elettaria_cardamomum	indigestion	REF-1669	rm
+elettaria_cardamomum	inflammation	REF-0292	rm
+elettaria_cardamomum	respiratory-support	REF-1668	add
+elettaria_cardamomum	infection	REF-1668	add
+elettaria_cardamomum	cardiovascular-support	REF-1668	add
+eleutherococcus_senticosus	cold	REF-0506	rm
+eleutherococcus_senticosus	cold	REF-0509	rm
+eleutherococcus_senticosus	cold	REF-0587	rm
+eleutherococcus_senticosus	cold	REF-2295	add
+eleutherococcus_senticosus	fatigue	REF-0509	rm
+eleutherococcus_senticosus	fatigue	REF-2295	add
+eleutherococcus_senticosus	fatigue	REF-3393	nulladd
+eleutherococcus_senticosus	fatigue	REF-2291	mexcl
+eleutherococcus_senticosus	immune-support	REF-0509	rm
+eleutherococcus_senticosus	muscle-soreness	REF-0506	rm
+eleutherococcus_senticosus	muscle-soreness	REF-0509	rm
+eleutherococcus_senticosus	muscle-soreness	REF-0587	rm
+eleutherococcus_senticosus	muscle-soreness	REF-2291	mexcl
+eleutherococcus_senticosus	muscle-soreness	REF-2296	mexcl
+eleutherococcus_senticosus	stress	REF-2295	add
+eleutherococcus_senticosus	stress	REF-3393	nulladd
+eleutherococcus_senticosus	cognitive-function	REF-0587	add
+eleutherococcus_senticosus	cognitive-function	REF-2295	add
+eleutherococcus_senticosus	muscle-soreness	-	drop(no evidence left)
+elymus_repens	swelling	REF-0437	rm
+elymus_repens	uti	REF-0437	rm
+elymus_repens	uti	REF-0438	rm
+elymus_repens	urinary-support	REF-2563	mexcl
+elymus_repens	urinary-support	REF-2563	nulladd
+elymus_repens	uti	-	drop(no evidence left)
+epilobium_parviflorum	arthritis	REF-0403	rm
+epilobium_parviflorum	skin-irritation	REF-0403	rm
+epilobium_parviflorum	urinary-support	REF-0403	rm
+epilobium_parviflorum	uti	REF-0403	rm
+epilobium_parviflorum	urinary-support	REF-0618	rm
+epilobium_parviflorum	uti	REF-0618	rm
+epilobium_parviflorum	prostate-support	REF-0618	null
+epilobium_parviflorum	prostate-support	REF-3075	add
+epilobium_parviflorum	urinary-support	REF-3075	add
+epilobium_parviflorum	uti	-	drop(no evidence left)
+equisetum_arvense	arthritis	REF-0262	rm
+equisetum_arvense	back-pain	REF-0262	rm
+equisetum_arvense	bruising	REF-0262	rm
+equisetum_arvense	infection	REF-0262	rm
+equisetum_arvense	inflammation	REF-0262	rm
+equisetum_arvense	skin-irritation	REF-0262	rm
+equisetum_arvense	swelling	REF-0262	rm
+equisetum_arvense	urinary-support	REF-0262	rm
+equisetum_arvense	uti	REF-0262	rm
+equisetum_arvense	wounds	REF-0262	rm
+equisetum_arvense	swelling	REF-0041	rm
+equisetum_arvense	swelling	REF-0083	rm
+equisetum_arvense	uti	REF-0041	rm
+equisetum_arvense	uti	REF-0083	rm
+equisetum_arvense	bruising	-	drop(no evidence left)
+equisetum_arvense	infection	-	drop(no evidence left)
+equisetum_arvense	swelling	-	drop(no evidence left)
+equisetum_arvense	uti	-	drop(no evidence left)

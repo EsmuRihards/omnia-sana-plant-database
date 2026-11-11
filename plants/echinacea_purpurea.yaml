@@ -123,16 +123,12 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   - REF-2011
   - REF-2018
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   - REF-2014
   - REF-2015
@@ -140,8 +136,6 @@ actions:
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   - REF-2011
   - REF-2012
@@ -152,51 +146,42 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0308
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0153
-  - REF-0271
   - REF-2018
+  - REF-0308
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
+  - REF-3392
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2016
+  null_result_ids:
+  - REF-0797
 - condition: immune-support
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   status: verified
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0271
-  - REF-0308
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0153
+  - REF-0308
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0153
-  - REF-0271
   - REF-2018
 - condition: wounds
   note: inferred from antimicrobial action
@@ -204,8 +189,6 @@ indications:
   - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0153
-  - REF-0271
   - REF-2014
   - REF-2017
 contraindications:
@@ -213,8 +196,6 @@ contraindications:
     for long-term use (more than 8 weeks continuously).
   severity: caution
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   status: verified
 - note: 'Duke (2002) rates echinacea as +++ - among the most thoroughly documented herbal immunostimulants.
@@ -226,8 +207,6 @@ contraindications:
     (MS, lupus, HIV/AIDS), tuberculosis, and with immunosuppressive drugs (cyclosporine) (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0153
-  - REF-0271
   - REF-0308
   - REF-0063
   status: verified
@@ -277,4 +256,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for flower (verified: PFAF REF-3247 + Wikipedia REF-3248, summer heads) and root
-  (provisional: PFAF REF-3247, dug in late autumn from mature 2-3 year plants). Binomial confirmed.'
+  (provisional: PFAF REF-3247, dug in late autumn from mature 2-3 year plants). Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 6 - REF-0153 (Cochrane 2006) purged: superseded by the
+  2014 update REF-0797 (owner decision 2026-11-11), which pools all Echinacea species and finds
+  products "have not here been shown to provide benefits for treating colds" - recorded in
+  null_result_ids for cold. REF-0271 purged as a phantom (title, volume and pages match no paper
+  by Sharma/Schoop/Suter in PubMed, Crossref or OpenAlex). Jawad 2012 RCT (REF-3392, PubMed
+  23024696, 755 people, E. purpurea reduced cold episodes vs placebo) added to cold. REF-0308 (WHO
+  vol. 1, Herba Echinaceae Purpureae) kept for cold, infection, immune-support, wounds,
+  skin-irritation per its known Medicinal uses text (colds and respiratory/urinary infections via
+  immune stimulation; externally wound healing and inflammatory skin conditions); removed from
+  arthritis and inflammation. WHO PDF blocks automated reading - flagged for owner spot-check.'

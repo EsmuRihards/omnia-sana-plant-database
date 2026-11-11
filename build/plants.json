@@ -18333,19 +18333,6 @@
      "label": "Urinary tract infection (UTI)"
     },
     {
-     "condition": "swelling",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-2708"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2712"
-     ],
-     "evidence": 2,
-     "label": "Swelling / fluid retention"
-    },
-    {
      "condition": "liver-support",
      "note": "Hepatoprotective in animal models.",
      "reference_ids": [
@@ -18358,11 +18345,9 @@
     {
      "condition": "indigestion",
      "note": "inferred from carminative action",
-     "reference_ids": [
-      "REF-2708"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Indigestion"
     },
     {
@@ -18806,16 +18791,6 @@
      "label": "Arthritis / joint pain"
     },
     {
-     "condition": "back-pain",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0528"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Back pain"
-    },
-    {
      "condition": "cancer",
      "note": "inferred from anticancer action",
      "reference_ids": [
@@ -18824,16 +18799,6 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Cancer (anticancer research)"
-    },
-    {
-     "condition": "headache",
-     "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0528"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Headache"
     },
     {
      "condition": "inflammation",
@@ -18846,16 +18811,6 @@
      "label": "Inflammation (general)"
     },
     {
-     "condition": "menopause",
-     "note": "Traditional support for menopausal symptoms (see safety note - it does NOT act as a natural progesterone) - a placebo-controlled crossover RCT of topical wild yam cream found little effect on menopausal symptoms, lipids or hormones",
-     "reference_ids": [
-      "REF-0614"
-     ],
-     "status": "needs-review",
-     "evidence": 5,
-     "label": "Menopause"
-    },
-    {
      "condition": "pain",
      "note": "Anti-inflammatory for joint and inflammatory pain",
      "reference_ids": [
@@ -18864,16 +18819,6 @@
      "status": "verified",
      "evidence": 2,
      "label": "Pain (general)"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0528"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Skin irritation"
     }
    ],
    "contraindications": [
@@ -19068,8 +19013,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0153",
-      "REF-0271",
       "REF-0308",
       "REF-2011",
       "REF-2018"
@@ -19079,8 +19022,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0153",
-      "REF-0271",
       "REF-0308",
       "REF-2014",
       "REF-2015",
@@ -19091,8 +19032,6 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0153",
-      "REF-0271",
       "REF-0308",
       "REF-2011",
       "REF-2012",
@@ -19107,14 +19046,11 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0308"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0153",
-      "REF-0271",
-      "REF-2018"
+      "REF-2018",
+      "REF-0308"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -19123,22 +19059,22 @@
      "condition": "cold",
      "note": "inferred from immunomodulator action",
      "reference_ids": [
-      "REF-0153",
-      "REF-0271",
-      "REF-0308"
+      "REF-0308",
+      "REF-3392"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2016"
      ],
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-0797"
+     ],
+     "evidence": 5,
      "label": "Cold & flu"
     },
     {
      "condition": "immune-support",
      "reference_ids": [
-      "REF-0153",
-      "REF-0271",
       "REF-0308"
      ],
      "status": "verified",
@@ -19149,8 +19085,6 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0153",
-      "REF-0271",
       "REF-0308"
      ],
      "status": "needs-review",
@@ -19160,13 +19094,10 @@
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0271",
-      "REF-0308"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0153"
+      "REF-0308"
      ],
      "evidence": 1,
      "label": "Inflammation (general)"
@@ -19179,8 +19110,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0153",
-      "REF-0271",
       "REF-2018"
      ],
      "evidence": 1,
@@ -19194,8 +19123,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0153",
-      "REF-0271",
       "REF-2014",
       "REF-2017"
      ],
@@ -19208,8 +19135,6 @@
      "note": "Generally considered safe, but caution advised for those with autoimmune conditions. Not recommended for long-term use (more than 8 weeks continuously).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0153",
-      "REF-0271",
       "REF-0308"
      ],
      "status": "verified"
@@ -19218,8 +19143,6 @@
      "note": "Duke (2002) rates echinacea as +++ - among the most thoroughly documented herbal immunostimulants. It notes experimental and clinical evidence for immunostimulant, antiviral, and anti-inflammatory activities. Multiple species have been studied (E. purpurea, E. angustifolia, E. pallida), and Duke emphasizes that species identification in commercial products is often unreliable. Commission E approves E. purpurea for supporting immune function during colds and flu. Dose: 900 mg standardized extract daily in acute use; use should be limited to 8 weeks continuous. Contraindicated in autoimmune diseases (MS, lupus, HIV/AIDS), tuberculosis, and with immunosuppressive drugs (cyclosporine) (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0153",
-      "REF-0271",
       "REF-0308",
       "REF-0063"
      ],
@@ -19454,15 +19377,14 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0144"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
       "REF-0292",
       "REF-1669",
-      "REF-1670"
+      "REF-1670",
+      "REF-0144"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -19470,69 +19392,67 @@
     {
      "condition": "bloating",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-1669",
-      "REF-0144"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
-      "REF-0292"
+      "REF-0292",
+      "REF-0144",
+      "REF-1669"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Bloating"
     },
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0144",
-      "REF-0292"
+      "REF-0292",
+      "REF-1668"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 3,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "indigestion",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-1669",
-      "REF-0144"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
-      "REF-0292"
+      "REF-0292",
+      "REF-0144",
+      "REF-1669"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Indigestion"
     },
     {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0028",
-      "REF-0144"
+      "REF-1668"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0292",
-      "REF-1669"
+      "REF-1669",
+      "REF-0144",
+      "REF-0028"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0144",
-      "REF-0292"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
-      "REF-1669"
+      "REF-1669",
+      "REF-0144",
+      "REF-0292"
      ],
      "evidence": 1,
      "label": "Inflammation (general)"
@@ -19540,24 +19460,23 @@
     {
      "condition": "respiratory-support",
      "reference_ids": [
-      "REF-0144"
+      "REF-1668"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0144"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
       "REF-0292",
       "REF-1669",
-      "REF-1670"
+      "REF-1670",
+      "REF-0144"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -19565,15 +19484,14 @@
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0028",
-      "REF-0144"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0292",
       "REF-1669",
-      "REF-1674"
+      "REF-1674",
+      "REF-0144",
+      "REF-0028"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -19824,14 +19742,16 @@
       "REF-0587"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cognitive-function",
      "note": "Cognitive-function and mental-performance support",
      "reference_ids": [
-      "REF-0506"
+      "REF-0506",
+      "REF-0587",
+      "REF-2295"
      ],
      "status": "verified",
      "evidence": 2,
@@ -19841,11 +19761,14 @@
      "condition": "cold",
      "note": "inferred from immunomodulator action",
      "reference_ids": [
+      "REF-2295"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0506",
       "REF-0509",
       "REF-0587"
      ],
-     "status": "needs-review",
      "evidence": 2,
      "label": "Cold & flu"
     },
@@ -19854,10 +19777,17 @@
      "note": "Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)",
      "reference_ids": [
       "REF-0506",
-      "REF-0509",
-      "REF-0587"
+      "REF-0587",
+      "REF-2295"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0509",
+      "REF-2291"
+     ],
+     "null_result_ids": [
+      "REF-3393"
+     ],
      "evidence": 2,
      "label": "Fatigue / low energy"
     },
@@ -19866,10 +19796,12 @@
      "note": "Immune support (immunomodulatory)",
      "reference_ids": [
       "REF-0506",
-      "REF-0509",
       "REF-0587"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0509"
+     ],
      "evidence": 2,
      "label": "Immune support"
     },
@@ -19880,7 +19812,7 @@
       "REF-0587"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Memory"
     },
     {
@@ -19890,20 +19822,8 @@
       "REF-0587"
      ],
      "status": "needs-review",
-     "evidence": 1,
-     "label": "Metabolic support"
-    },
-    {
-     "condition": "muscle-soreness",
-     "note": "inferred from ergogenic action",
-     "reference_ids": [
-      "REF-0506",
-      "REF-0509",
-      "REF-0587"
-     ],
-     "status": "needs-review",
      "evidence": 2,
-     "label": "Muscle soreness"
+     "label": "Metabolic support"
     },
     {
      "condition": "stress",
@@ -19911,9 +19831,13 @@
      "reference_ids": [
       "REF-0506",
       "REF-0509",
-      "REF-0587"
+      "REF-0587",
+      "REF-2295"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3393"
+     ],
      "evidence": 2,
      "label": "Stress"
     }
@@ -20142,12 +20066,11 @@
     {
      "condition": "swelling",
      "note": "Supports mild fluid retention / swelling",
-     "reference_ids": [
-      "REF-0437"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2563"
+      "REF-2563",
+      "REF-0437"
      ],
      "evidence": 1,
      "label": "Swelling / fluid retention"
@@ -20160,22 +20083,14 @@
       "REF-0438"
      ],
      "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with plenty of fluids)",
-     "reference_ids": [
-      "REF-0437",
-      "REF-0438"
-     ],
-     "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-2563"
      ],
+     "null_result_ids": [
+      "REF-2563"
+     ],
      "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
+     "label": "Urinary support"
     }
    ],
    "contraindications": [
@@ -20392,10 +20307,11 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0403"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
@@ -20406,7 +20322,7 @@
       "REF-0403"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
@@ -20416,7 +20332,7 @@
       "REF-0403"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -20424,19 +20340,23 @@
      "note": "Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive",
      "reference_ids": [
       "REF-0403",
-      "REF-0618"
+      "REF-3075"
      ],
      "status": "verified",
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-0618"
+     ],
+     "evidence": 2,
      "label": "Prostate support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0403"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -20444,23 +20364,11 @@
      "condition": "urinary-support",
      "note": "Antibacterial, including against Escherichia coli (urinary support); Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive",
      "reference_ids": [
-      "REF-0403",
-      "REF-0618"
+      "REF-3075"
      ],
      "status": "verified",
      "evidence": 1,
      "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive",
-     "reference_ids": [
-      "REF-0403",
-      "REF-0618"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
     }
    ],
    "contraindications": [
@@ -20689,7 +20597,6 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0262",
       "REF-0727"
      ],
      "status": "needs-review",
@@ -20697,40 +20604,25 @@
       "REF-0041",
       "REF-0083",
       "REF-0117",
-      "REF-1401"
+      "REF-1401",
+      "REF-0262"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "back-pain",
      "note": "inferred from anti-rheumatic action",
-     "reference_ids": [
-      "REF-0262"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0041",
       "REF-0083",
-      "REF-0117"
+      "REF-0117",
+      "REF-0262"
      ],
      "evidence": 1,
      "label": "Back pain"
-    },
-    {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0262"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0041",
-      "REF-0083",
-      "REF-0117"
-     ],
-     "evidence": 1,
-     "label": "Bruising"
     },
     {
      "condition": "cancer",
@@ -20743,32 +20635,17 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "infection",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0262"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0041",
-      "REF-0083",
-      "REF-0117"
-     ],
-     "evidence": 1,
-     "label": "Infection (general)"
-    },
-    {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0262",
       "REF-1399"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0041",
       "REF-0083",
-      "REF-0117"
+      "REF-0117",
+      "REF-0262"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -20776,75 +20653,44 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0262"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0041",
       "REF-0083",
       "REF-0117",
-      "REF-0727"
+      "REF-0727",
+      "REF-0262"
      ],
      "evidence": 1,
      "label": "Skin irritation"
-    },
-    {
-     "condition": "swelling",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0041",
-      "REF-0083",
-      "REF-0262"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0117"
-     ],
-     "evidence": 5,
-     "label": "Swelling / fluid retention"
     },
     {
      "condition": "urinary-support",
      "note": "inferred from diuretic action",
      "reference_ids": [
       "REF-0041",
-      "REF-0083",
-      "REF-0262"
+      "REF-0083"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0117"
+      "REF-0117",
+      "REF-0262"
      ],
      "evidence": 5,
      "label": "Urinary support"
     },
     {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0041",
-      "REF-0083",
-      "REF-0262"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0117"
-     ],
-     "evidence": 5,
-     "label": "Urinary tract infection (UTI)"
-    },
-    {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0083",
-      "REF-0262"
+      "REF-0083"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0041",
-      "REF-0117"
+      "REF-0117",
+      "REF-0262"
      ],
      "evidence": 1,
      "label": "Wounds"

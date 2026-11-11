@@ -154,79 +154,80 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0144
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0028
   - REF-0292
   - REF-1669
   - REF-1670
+  - REF-0144
 - condition: bloating
   note: inferred from digestive action
-  reference_ids:
-  - REF-1669
-  - REF-0144
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0028
   - REF-0292
+  - REF-0144
+  - REF-1669
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0144
   - REF-0292
+  - REF-1668
   status: verified
 - condition: indigestion
   note: inferred from digestive action
-  reference_ids:
-  - REF-1669
-  - REF-0144
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0028
   - REF-0292
+  - REF-0144
+  - REF-1669
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0028
-  - REF-0144
+  - REF-1668
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0292
   - REF-1669
+  - REF-0144
+  - REF-0028
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0144
-  - REF-0292
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0028
   - REF-1669
+  - REF-0144
+  - REF-0292
 - condition: respiratory-support
   reference_ids:
-  - REF-0144
+  - REF-1668
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0144
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0028
   - REF-0292
   - REF-1669
   - REF-1670
+  - REF-0144
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0028
-  - REF-0144
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0292
   - REF-1669
   - REF-1674
+  - REF-0144
+  - REF-0028
 contraindications:
 - note: Cardamom is generally considered safe for most people when used in culinary amounts. At medicinal
     doses (supplement form), rare side effects include mild gastrointestinal discomfort and allergic reactions.
@@ -299,4 +300,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   as a food spice. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit + seed
   (provisional: Useful Tropical Plants REF-3249, pods picked green in the dry season before full ripeness;
   seeds removed after drying). No independent ripeness-stage source found (Gernot Katzer gives a green-pod
-  quality note only, no timing). Binomial confirmed.'
+  quality note only, no timing). Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 6 - REF-0144 (Korikanthimath & Hiremath 2002, book
+  chapter, likely agronomic) and REF-0028 (Bhilave 2013, no journal) could not be located (PubMed,
+  Crossref, OpenAlex) - removed from every symptom as unverifiable. REF-1669 (rat gastric-ulcer
+  models) names no bloating or indigestion. REF-0292 (Verma 2009, PubMed 20361714, stage-1
+  hypertension, 20 people, single arm) kept for cardiovascular only - it names no inflammation;
+  retagged clinical. REF-1668 (Ashokkumar critical review) names asthma, teeth and gum infections
+  and cardiac disorders as traditional uses - added to respiratory-support, infection,
+  cardiovascular-support.'

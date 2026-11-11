@@ -123,25 +123,20 @@ actions:
 indications:
 - condition: swelling
   note: Supports mild fluid retention / swelling
-  reference_ids:
-  - REF-0437
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2563
+  - REF-0437
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
   - REF-0437
   - REF-0438
   status: needs-review
-- condition: uti
-  note: Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with plenty
-    of fluids)
-  reference_ids:
-  - REF-0437
-  - REF-0438
-  status: verified
   mechanistic_exclude_ids:
+  - REF-2563
+  null_result_ids:
   - REF-2563
 contraindications:
 - note: Drink plenty of fluids during use. Irrigation therapy must NOT be used if there is oedema (swelling)
@@ -180,4 +175,10 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
   the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for rhizome (provisional: PFAF REF-3251, dug in spring or autumn while top growth is
-  low). Single Ken Fern lineage. Binomial confirmed.'
+  low). Single Ken Fern lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 6 - EU monograph REF-0437 (EMA page 429 - known
+  indication text: flushing of the urinary tract as an adjuvant in minor urinary complaints;
+  flagged for owner spot-check) and ESCOP REF-0438 (page verified: "irritable bladder and other
+  urinary tract disorders") kept for urinary-support only; removed from swelling and UTI (birch
+  precedent). REF-2563 (rat study: A. repens infusion had no positive effect on urolithiasis risk
+  factors) recorded in null_result_ids for urinary-support and hidden from its mechanistic cards.'

@@ -151,7 +151,6 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0262
   - REF-0727
   status: needs-review
   mechanistic_exclude_ids:
@@ -159,94 +158,59 @@ indications:
   - REF-0083
   - REF-0117
   - REF-1401
+  - REF-0262
 - condition: back-pain
   note: inferred from anti-rheumatic action
-  reference_ids:
-  - REF-0262
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0041
   - REF-0083
   - REF-0117
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
   - REF-0262
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0041
-  - REF-0083
-  - REF-0117
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1400
   status: needs-review
-- condition: infection
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0262
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0041
-  - REF-0083
-  - REF-0117
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0262
   - REF-1399
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0041
   - REF-0083
   - REF-0117
+  - REF-0262
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0262
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0041
   - REF-0083
   - REF-0117
   - REF-0727
-- condition: swelling
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0041
-  - REF-0083
   - REF-0262
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0117
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
   - REF-0041
   - REF-0083
-  - REF-0262
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0117
-- condition: uti
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0041
-  - REF-0083
   - REF-0262
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0117
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0083
-  - REF-0262
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0041
   - REF-0117
+  - REF-0262
 contraindications:
 - note: Field horsetail contains thiaminase, an enzyme that degrades thiamine (vitamin B1); prolonged
     or excessive use can cause thiamine deficiency - symptoms include neurological problems and weight
@@ -350,4 +314,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   cutaneous decoction (10 g/L). No new reference needed. status -> verified. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for stem (provisional: PFAF REF-3253, green sterile stems cut in
   summer, NOT the spring fertile shoots). SAFETY clause cross-links Dangerous Lookalikes (Equisetum
-  palustre, marsh horsetail, toxic). Binomial confirmed.'
+  palustre, marsh horsetail, toxic). Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 6 - REF-0262 (Sandhu 2010, Asian J Pharm Clin Res) - no
+  abstract or text retrievable, removed from every symptom as unverifiable. REF-0041 (Carneiro
+  2014 RCT, PubMed 24723963; year corrected from 2016) shows a diuretic effect in healthy men -
+  kept for urinary-support, removed from swelling and UTI. EU monograph REF-0083 (EMA page 429 -
+  known indications: flushing of the urinary tract in minor urinary complaints; minor wounds) kept
+  for urinary-support and wounds, removed from swelling and UTI; flagged for owner spot-check.
+  REF-0727 (joint-disorders review naming E. arvense among plants tested in humans) kept for
+  arthritis.'

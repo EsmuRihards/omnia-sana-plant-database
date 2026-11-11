@@ -32,16 +32,16 @@ KW = {
     'sore-throat': 'throat|pharyn|tonsil|gargle', 'eczema': 'eczema|atopic', 'cough': 'cough|antituss|expector',
     'bronchitis': 'bronch', 'respiratory-support': 'respirat|bronch|airway|lung|cough|expector', 'nausea': 'nause|vomit|emesis|antiemet',
     'acid-reflux': 'reflux|heartburn|gerd|gastroesoph', 'constipation': 'constipat|laxat|purgat', 'ibs': 'irritable bowel|\\bibs\\b',
-    'liver-support': 'liver|hepat', 'detox': 'detox|depurat|alterative', 'high-cholesterol': 'cholesterol|lipid|hyperlipid',
+    'liver-support': 'liver|hepat', 'kidney-support': 'kidney|renal|nephr|urolith', 'detox': 'detox|depurat|alterative', 'high-cholesterol': 'cholesterol|lipid|hyperlipid',
     'oral-health': 'oral|mouth|gingiv|dental|periodont|stomatit', 'psoriasis': 'psoria', 'acne': 'acne', 'allergy': 'allerg|hay fever|rhinit',
     'asthma': 'asthma', 'fatigue': 'fatigue|tired|energy|exhaust', 'eye-strain': 'eye|vision|retin|ocular', 'parasites': 'parasit|anthelmin|worm|helminth',
 }
 
 for p in P:
-    for i in p['indications']:
+    for i in p.get('indications', []):
         c = i['condition']
         words = KW.get(c, re.escape(c))
-        syn = '|'.join(re.escape(s) for s in V.get(c, {}).get('consumer_synonyms', []))
+        syn = '|'.join(r'\b' + re.escape(s) + r'\b' for s in V.get(c, {}).get('consumer_synonyms', []))  # \b: 'gas' must not match 'gastric'
         kw = re.compile(words + ('|' + syn if syn else ''), re.I)
         for r in i['reference_ids']:
             f = E.get(r, {})

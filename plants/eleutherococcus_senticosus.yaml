@@ -163,28 +163,38 @@ indications:
   note: Cognitive-function and mental-performance support
   reference_ids:
   - REF-0506
+  - REF-0587
+  - REF-2295
   status: verified
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
+  - REF-2295
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0506
   - REF-0509
   - REF-0587
-  status: needs-review
 - condition: fatigue
   note: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
   reference_ids:
   - REF-0506
-  - REF-0509
   - REF-0587
+  - REF-2295
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0509
+  - REF-2291
+  null_result_ids:
+  - REF-3393
 - condition: immune-support
   note: Immune support (immunomodulatory)
   reference_ids:
   - REF-0506
-  - REF-0509
   - REF-0587
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0509
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
@@ -195,20 +205,16 @@ indications:
   reference_ids:
   - REF-0587
   status: needs-review
-- condition: muscle-soreness
-  note: inferred from ergogenic action
-  reference_ids:
-  - REF-0506
-  - REF-0509
-  - REF-0587
-  status: needs-review
 - condition: stress
   note: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
   reference_ids:
   - REF-0506
   - REF-0509
   - REF-0587
+  - REF-2295
   status: verified
+  null_result_ids:
+  - REF-3393
 contraindications:
 - note: Generally safe with few side effects; taken late in the day it may cause mild insomnia or irritability.
     Use caution in uncontrolled high blood pressure.
@@ -293,4 +299,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursin
   liquid extract is a different dose form from a tincture and its ref must not be transferred to this
   entry. Left unsourced deliberately. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
   for root (provisional: PFAF REF-3250, root and rhizome dug in autumn from mature 3-4 year plants). Single
-  canonical root entry covers the co-harvested rhizome (radix et rhizoma). Binomial confirmed.'
+  canonical root entry covers the co-harvested rhizome (radix et rhizoma). Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 6 - Full texts read (PMC): Todorova 2021 (REF-0506)
+  names immune stimulation, memory, cognition, fatigue, stress; Kos 2025 (REF-0587) names stress
+  resistance, fatigue, immunostimulation, antidiabetic, memory and cognitive function; Bleakney
+  2008 (REF-0509, abstract) names stressors only. None names colds or muscle soreness - removed
+  there. REF-2295 (Russian clinical literature review) names fatigue (EMA asthenia), cognitive
+  function, anti-stress effects and cold/influenza prophylaxis ("promising") - added to cold,
+  fatigue, stress, cognitive-function. Schaffler 2013 RCT (REF-3393, PubMed 23740477: adding E.
+  senticosus to stress training "negligible") recorded in null_result_ids for fatigue and stress.
+  REF-2291 (Goulet 2005: rigorous studies show no endurance benefit) and REF-2296 (adipocyte
+  lipolysis) hidden from muscle-soreness/fatigue mechanistic cards; muscle-soreness dropped.'

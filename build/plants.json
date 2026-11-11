@@ -14704,36 +14704,15 @@
    ],
    "indications": [
     {
-     "condition": "appetite-loss",
-     "note": "Appetite stimulant for loss of appetite (approved use under German Commission E)",
-     "reference_ids": [
-      "REF-0419",
-      "REF-0420"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Loss of appetite"
-    },
-    {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0419"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0419",
-      "REF-0420"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bloating"
     },
     {
      "condition": "cancer",
@@ -14746,33 +14725,24 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "indigestion",
-     "note": "Bitter digestive / stomachic for indigestion and dyspepsia (stimulates saliva and gastric secretion)",
-     "reference_ids": [
-      "REF-0419",
-      "REF-0420"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Indigestion"
-    },
-    {
      "condition": "infection",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0419"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0419"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Inflammation (general)"
     },
@@ -14780,7 +14750,6 @@
      "condition": "lactation-support",
      "note": "Galactagogue to support breast-milk supply (traditional; no valid clinical-trial evidence)",
      "reference_ids": [
-      "REF-0420",
       "REF-0421"
      ],
      "status": "needs-review",
@@ -14790,20 +14759,22 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0419"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0419"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Wounds"
     }
@@ -15009,41 +14980,36 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0059",
-      "REF-0081",
       "REF-0109",
-      "REF-0178",
       "REF-2384"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cognitive-function",
      "note": "inferred from neuroprotective action",
      "reference_ids": [
-      "REF-0096",
-      "REF-0109",
-      "REF-0178",
-      "REF-0205"
+      "REF-0178"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0059",
       "REF-0081",
       "REF-0121",
-      "REF-0135"
+      "REF-0135",
+      "REF-0096",
+      "REF-0109",
+      "REF-0205"
      ],
-     "evidence": 4,
+     "evidence": 1,
      "label": "Cognitive function"
     },
     {
      "condition": "memory",
      "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0109",
-      "REF-0178"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0059",
@@ -15051,21 +15017,21 @@
       "REF-0096",
       "REF-0121",
       "REF-0135",
-      "REF-0205"
+      "REF-0205",
+      "REF-0109",
+      "REF-0178"
      ],
-     "evidence": 3,
+     "evidence": 1,
      "label": "Memory"
     },
     {
      "condition": "metabolic-support",
      "reference_ids": [
-      "REF-0059",
       "REF-0109",
-      "REF-0178",
       "REF-2379"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 2,
      "label": "Metabolic support"
     }
    ],
@@ -15252,7 +15218,7 @@
      "action": "ergogenic",
      "note": "Physical performance / strength improvement",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "immunomodulator",
@@ -15288,16 +15254,6 @@
      "label": "Cold & flu"
     },
     {
-     "condition": "fatigue",
-     "note": "inferred from ergogenic action",
-     "reference_ids": [
-      "REF-0111"
-     ],
-     "status": "needs-review",
-     "evidence": 5,
-     "label": "Fatigue / low energy"
-    },
-    {
      "condition": "immune-support",
      "reference_ids": [],
      "status": "needs-review",
@@ -15316,25 +15272,6 @@
      "label": "Inflammation (general)"
     },
     {
-     "condition": "muscle-soreness",
-     "note": "inferred from ergogenic action",
-     "reference_ids": [
-      "REF-0111"
-     ],
-     "status": "needs-review",
-     "evidence": 5,
-     "label": "Muscle soreness"
-    },
-    {
-     "condition": "respiratory-support",
-     "reference_ids": [
-      "REF-0111"
-     ],
-     "status": "verified",
-     "evidence": 5,
-     "label": "Respiratory support"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
@@ -15348,7 +15285,6 @@
      "note": "Generally well tolerated short-term in human studies, but research is still limited (Ontawong et al., 2024; Hirsch et al., 2016). Possible side effects: stomach upset, nausea, diarrhea, headache (reported broadly for “Cordyceps” supplements; not everyone gets this) (Jędrejko, Lazur and Muszyńska, 2021). Avoid / use medical guidance if you have: autoimmune disease, you’re on immunosuppressants, you have a bleeding disorder, or you take blood thinners/antiplatelet drugs (theoretical interaction + caution used in reviews) (Jędrejko, Lazur and Muszyńska, 2021). Pregnancy/lactation: not enough safety data → best to avoid (Jędrejko, Lazur and Muszyńska, 2021). Quality matters: choose reputable brands with testing for contaminants and clear labeling (fruiting body vs mycelium; extract ratio) (Jędrejko et al., 2022).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],
@@ -15358,7 +15294,6 @@
      "note": "Duke (2002) does not include a dedicated entry for Cordyceps (Cordyceps militaris) in the Handbook of Medicinal Herbs, Second Edition.",
      "severity": "info",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318",
       "REF-0063"
@@ -15635,14 +15570,13 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0151",
-      "REF-0308"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1706",
-      "REF-1708"
+      "REF-1708",
+      "REF-0308",
+      "REF-0151"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -15650,22 +15584,24 @@
     {
      "condition": "bloating",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0151",
-      "REF-0308"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0308",
+      "REF-0151"
+     ],
      "evidence": 1,
      "label": "Bloating"
     },
     {
      "condition": "indigestion",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0151",
-      "REF-0308"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0308",
+      "REF-0151"
+     ],
      "evidence": 1,
      "label": "Indigestion"
     },
@@ -15673,67 +15609,47 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0151",
-      "REF-0308"
+      "REF-0151"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "mechanistic_exclude_ids": [
+      "REF-0308"
+     ],
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0151",
-      "REF-0308"
+      "REF-0151"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "mechanistic_exclude_ids": [
+      "REF-0308"
+     ],
+     "evidence": 2,
      "label": "Inflammation (general)"
-    },
-    {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0151",
-      "REF-0308"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Menstrual cramps"
     },
     {
      "condition": "metabolic-support",
      "reference_ids": [
-      "REF-0151",
-      "REF-0308"
+      "REF-0151"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Metabolic support"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0151",
-      "REF-0308"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Muscle spasm"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0151",
-      "REF-0308"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1706",
-      "REF-1708"
+      "REF-1708",
+      "REF-0308",
+      "REF-0151"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -15741,11 +15657,12 @@
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0151",
-      "REF-0308"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0308",
+      "REF-0151"
+     ],
      "evidence": 1,
      "label": "Wounds"
     }
@@ -16044,101 +15961,28 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0108"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1784",
-      "REF-2442"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0108",
-      "REF-2442"
+      "REF-2442",
+      "REF-0082"
      ],
      "status": "verified",
      "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
-     "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0108"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1784",
-      "REF-2442"
-     ],
-     "evidence": 1,
-     "label": "Inflammation (general)"
-    },
-    {
      "condition": "insomnia",
      "note": "inferred from sedative action",
      "reference_ids": [
-      "REF-0108"
+      "REF-0082"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2442"
+      "REF-2442",
+      "REF-0108"
      ],
      "evidence": 1,
      "label": "Insomnia / sleeplessness"
-    },
-    {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0108"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0783",
-      "REF-1785",
-      "REF-1786",
-      "REF-2442"
-     ],
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0108"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0783",
-      "REF-1785",
-      "REF-1786",
-      "REF-2442"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0108"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1784",
-      "REF-2442"
-     ],
-     "evidence": 1,
-     "label": "Skin irritation"
     }
    ],
    "contraindications": [
@@ -16772,30 +16616,15 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0115"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0005",
-      "REF-0172"
+      "REF-0172",
+      "REF-0115"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0115"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0005",
-      "REF-0172"
-     ],
-     "evidence": 1,
-     "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
@@ -16815,13 +16644,12 @@
     {
      "condition": "cognitive-function",
      "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0115"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0005",
-      "REF-0172"
+      "REF-0172",
+      "REF-0115"
      ],
      "evidence": 1,
      "label": "Cognitive function"
@@ -16837,7 +16665,7 @@
       "REF-0005",
       "REF-0172"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -16856,56 +16684,31 @@
       "REF-2003",
       "REF-2010"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "memory",
      "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0115"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0005",
-      "REF-0172"
+      "REF-0172",
+      "REF-0115"
      ],
      "evidence": 1,
      "label": "Memory"
     },
     {
-     "condition": "menstrual-cramps",
-     "reference_ids": [
-      "REF-0115"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0115"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0005",
-      "REF-0172"
-     ],
-     "evidence": 1,
-     "label": "Metabolic support"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0115"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0005",
-      "REF-0172"
+      "REF-0172",
+      "REF-0115"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -17219,8 +17022,8 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "condition": "bloating",
+     "note": "inferred from digestive action",
      "reference_ids": [
       "REF-0008"
      ],
@@ -17238,43 +17041,17 @@
       "REF-0267",
       "REF-0286",
       "REF-0307",
-      "REF-0654"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0008",
+      "REF-0654",
       "REF-0656"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
-      "REF-0654"
-     ],
-     "evidence": 5,
+     "evidence": 2,
      "label": "Bloating"
     },
     {
      "condition": "indigestion",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0008",
-      "REF-0656"
+      "REF-0008"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -17290,9 +17067,10 @@
       "REF-0267",
       "REF-0286",
       "REF-0307",
-      "REF-0654"
+      "REF-0654",
+      "REF-0656"
      ],
-     "evidence": 5,
+     "evidence": 2,
      "label": "Indigestion"
     },
     {
@@ -17318,7 +17096,7 @@
       "REF-0654",
       "REF-0657"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
@@ -17343,48 +17121,22 @@
       "REF-0307",
       "REF-0654"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
-    },
-    {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0008"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
-      "REF-0654",
-      "REF-0656"
-     ],
-     "evidence": 1,
-     "label": "Menstrual cramps"
     },
     {
      "condition": "metabolic-support",
      "reference_ids": [
       "REF-0008",
-      "REF-0654",
       "REF-0158",
-      "REF-0286",
-      "REF-0652",
-      "REF-0653",
-      "REF-0655"
+      "REF-0653"
      ],
      "status": "verified",
-     "evidence": 10,
+     "null_result_ids": [
+      "REF-0654",
+      "REF-0655"
+     ],
+     "evidence": 8,
      "label": "Metabolic support"
     },
     {
@@ -17410,59 +17162,8 @@
       "REF-0654",
       "REF-0656"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Muscle spasm"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0008"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
-      "REF-0654"
-     ],
-     "evidence": 1,
-     "label": "Skin irritation"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0008"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
-      "REF-0654",
-      "REF-0657"
-     ],
-     "evidence": 1,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -17545,6 +17246,9 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "references": [
+    "REF-0652"
+   ],
    "common_slug": "cumin"
   },
   {
@@ -17742,30 +17446,18 @@
     {
      "condition": "arthritis",
      "reference_ids": [
-      "REF-0002",
-      "REF-0305"
+      "REF-0305",
+      "REF-0791",
+      "REF-0792"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0273",
-      "REF-2165"
+      "REF-2165",
+      "REF-0002"
      ],
-     "evidence": 1,
+     "evidence": 8,
      "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
-     "reference_ids": [
-      "REF-0002",
-      "REF-0305"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0273"
-     ],
-     "evidence": 1,
-     "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
@@ -17777,17 +17469,16 @@
      "mechanistic_exclude_ids": [
       "REF-0273"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0002",
-      "REF-0305"
+      "REF-0002"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cardiovascular / heart health"
     },
     {
@@ -17808,12 +17499,12 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0002",
       "REF-0305"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0273"
+      "REF-0273",
+      "REF-0002"
      ],
      "evidence": 1,
      "label": "Infection (general)"
@@ -17829,49 +17520,50 @@
      "mechanistic_exclude_ids": [
       "REF-0273"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "metabolic-support",
      "note": "inferred from antidiabetic action",
      "reference_ids": [
-      "REF-0002",
-      "REF-0305"
+      "REF-0002"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0273"
+      "REF-0273",
+      "REF-0305"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Metabolic support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0002",
-      "REF-0305"
+      "REF-0305",
+      "REF-2165"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0273",
       "REF-0791",
-      "REF-0792"
+      "REF-0792",
+      "REF-0002"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0002",
       "REF-0305"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0273"
+      "REF-0273",
+      "REF-0002"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -18130,11 +17822,13 @@
      "condition": "bloating",
      "note": "Digestive aid for dyspeptic complaints - indigestion, bloating and fullness",
      "reference_ids": [
-      "REF-0461",
       "REF-0462"
      ],
      "status": "verified",
-     "evidence": 3,
+     "mechanistic_exclude_ids": [
+      "REF-0461"
+     ],
+     "evidence": 1,
      "label": "Bloating"
     },
     {
@@ -18146,17 +17840,18 @@
       "REF-0585"
      ],
      "status": "needs-review",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "detox",
      "note": "inferred from hepatoprotective action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0461"
      ],
-     "status": "needs-review",
-     "evidence": 3,
+     "evidence": 1,
      "label": "Detox / cleansing"
     },
     {
@@ -18171,28 +17866,20 @@
       "REF-2569"
      ],
      "status": "needs-review",
-     "evidence": 10,
+     "evidence": 9,
      "label": "High cholesterol"
-    },
-    {
-     "condition": "ibs",
-     "note": "Supports irritable bowel syndrome (IBS) symptoms",
-     "reference_ids": [
-      "REF-0461"
-     ],
-     "status": "needs-review",
-     "evidence": 3,
-     "label": "Irritable bowel syndrome (IBS)"
     },
     {
      "condition": "indigestion",
      "note": "Digestive aid for dyspeptic complaints - indigestion, bloating and fullness",
      "reference_ids": [
-      "REF-0461",
       "REF-0462"
      ],
      "status": "verified",
-     "evidence": 3,
+     "mechanistic_exclude_ids": [
+      "REF-0461"
+     ],
+     "evidence": 1,
      "label": "Indigestion"
     },
     {
@@ -18203,7 +17890,7 @@
       "REF-2568"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 7,
      "label": "Liver support"
     }
    ],

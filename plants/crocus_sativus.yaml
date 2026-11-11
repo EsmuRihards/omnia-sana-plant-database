@@ -156,20 +156,12 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0115
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0005
   - REF-0172
-- condition: blood-sugar
-  note: inferred from antidiabetic action
-  reference_ids:
   - REF-0115
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0005
-  - REF-0172
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -181,12 +173,12 @@ indications:
   - REF-0172
 - condition: cognitive-function
   note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0115
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0005
   - REF-0172
+  - REF-0115
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -210,32 +202,20 @@ indications:
   - REF-2010
 - condition: memory
   note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0115
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0005
   - REF-0172
-- condition: menstrual-cramps
-  reference_ids:
   - REF-0115
-  status: verified
-- condition: metabolic-support
-  note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0115
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0005
-  - REF-0172
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0115
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0005
   - REF-0172
+  - REF-0115
 - condition: depression
   note: RCTs and a meta-analysis report that saffron (stigma, and petal in one trial) improves symptoms
     of mild-to-moderate depression compared with placebo, and performed similarly to imipramine in a pilot
@@ -389,4 +369,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (verified: PFAF REF-3239 + independent Wikipedia REF-3240; autumn flowering, stigmas gathered at dawn as
   the flowers open). Safety clause cross-links Dangerous Lookalikes (Colchicum autumnale, fatal): the
   autumn-flowering harvest stage is itself the fatal-confusion window, so the signal names the decisive
-  3-vs-6 stamen test. Binomial confirmed.'
+  3-vs-6 stamen test. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 5 - REF-0115 is Hosseinzadeh & Nassiri-Asl 2013
+  (Avicenna Canon of Medicine and saffron, PubMed 22815242): names antidepressant, hypnotic,
+  anti-inflammatory, hepatoprotective, bronchodilatory, emmenagogue uses - kept for insomnia and
+  inflammation, removed from 7 pairs.'

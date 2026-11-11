@@ -1,0 +1,104 @@
+plant	condition	ref	op
+cnicus_benedictus	appetite-loss	REF-0419	rm
+cnicus_benedictus	arthritis	REF-0419	rm
+cnicus_benedictus	bloating	REF-0419	rm
+cnicus_benedictus	indigestion	REF-0419	rm
+cnicus_benedictus	infection	REF-0419	rm
+cnicus_benedictus	inflammation	REF-0419	rm
+cnicus_benedictus	skin-irritation	REF-0419	rm
+cnicus_benedictus	wounds	REF-0419	rm
+cnicus_benedictus	appetite-loss	REF-0420	rm
+cnicus_benedictus	bloating	REF-0420	rm
+cnicus_benedictus	indigestion	REF-0420	rm
+cnicus_benedictus	lactation-support	REF-0420	rm
+cnicus_benedictus	appetite-loss	-	drop(no evidence left)
+cnicus_benedictus	bloating	-	drop(no evidence left)
+cnicus_benedictus	indigestion	-	drop(no evidence left)
+coffea_arabica	cardiovascular-support	REF-0081	rm
+coffea_arabica	cardiovascular-support	REF-0178	rm
+coffea_arabica	cognitive-function	REF-0096	rm
+coffea_arabica	cognitive-function	REF-0109	rm
+coffea_arabica	cognitive-function	REF-0205	rm
+coffea_arabica	memory	REF-0109	rm
+coffea_arabica	memory	REF-0178	rm
+coffea_arabica	metabolic-support	REF-0059	rm
+coffea_arabica	metabolic-support	REF-0178	rm
+cordyceps_militaris	*	REF-0111	purge
+cordyceps_militaris	fatigue	-	drop(no evidence left)
+cordyceps_militaris	muscle-soreness	-	drop(no evidence left)
+cordyceps_militaris	respiratory-support	-	drop(no evidence left)
+cordyceps_militaris	action:ergogenic	-	needs-review(unsourced)
+coriandrum_sativum	arthritis	REF-0308	rm
+coriandrum_sativum	bloating	REF-0308	rm
+coriandrum_sativum	indigestion	REF-0308	rm
+coriandrum_sativum	infection	REF-0308	rm
+coriandrum_sativum	inflammation	REF-0308	rm
+coriandrum_sativum	menstrual-cramps	REF-0308	rm
+coriandrum_sativum	metabolic-support	REF-0308	rm
+coriandrum_sativum	muscle-spasm	REF-0308	rm
+coriandrum_sativum	skin-irritation	REF-0308	rm
+coriandrum_sativum	wounds	REF-0308	rm
+coriandrum_sativum	arthritis	REF-0151	rm
+coriandrum_sativum	bloating	REF-0151	rm
+coriandrum_sativum	indigestion	REF-0151	rm
+coriandrum_sativum	menstrual-cramps	REF-0151	rm
+coriandrum_sativum	muscle-spasm	REF-0151	rm
+coriandrum_sativum	skin-irritation	REF-0151	rm
+coriandrum_sativum	wounds	REF-0151	rm
+coriandrum_sativum	menstrual-cramps	-	drop(no evidence left)
+coriandrum_sativum	muscle-spasm	-	drop(no evidence left)
+crataegus_laevigata	arthritis	REF-0108	rm
+crataegus_laevigata	cardiovascular-support	REF-0108	rm
+crataegus_laevigata	inflammation	REF-0108	rm
+crataegus_laevigata	insomnia	REF-0108	rm
+crataegus_laevigata	menstrual-cramps	REF-0108	rm
+crataegus_laevigata	muscle-spasm	REF-0108	rm
+crataegus_laevigata	skin-irritation	REF-0108	rm
+crataegus_laevigata	cardiovascular-support	REF-0082	add
+crataegus_laevigata	insomnia	REF-0082	add
+crataegus_laevigata	arthritis	-	drop(no evidence left)
+crataegus_laevigata	inflammation	-	drop(no evidence left)
+crataegus_laevigata	menstrual-cramps	-	drop(no evidence left)
+crataegus_laevigata	muscle-spasm	-	drop(no evidence left)
+crataegus_laevigata	skin-irritation	-	drop(no evidence left)
+crocus_sativus	arthritis	REF-0115	rm
+crocus_sativus	blood-sugar	REF-0115	rm
+crocus_sativus	cognitive-function	REF-0115	rm
+crocus_sativus	memory	REF-0115	rm
+crocus_sativus	menstrual-cramps	REF-0115	rm
+crocus_sativus	metabolic-support	REF-0115	rm
+crocus_sativus	skin-irritation	REF-0115	rm
+crocus_sativus	blood-sugar	-	drop(no evidence left)
+crocus_sativus	menstrual-cramps	-	drop(no evidence left)
+crocus_sativus	metabolic-support	-	drop(no evidence left)
+cuminum_cyminum	arthritis	REF-0008	rm
+cuminum_cyminum	menstrual-cramps	REF-0008	rm
+cuminum_cyminum	skin-irritation	REF-0008	rm
+cuminum_cyminum	wounds	REF-0008	rm
+cuminum_cyminum	bloating	REF-0656	rm
+cuminum_cyminum	indigestion	REF-0656	rm
+cuminum_cyminum	metabolic-support	REF-0654	null
+cuminum_cyminum	metabolic-support	REF-0655	null
+cuminum_cyminum	metabolic-support	REF-0286	rm
+cuminum_cyminum	metabolic-support	REF-0652	rm
+cuminum_cyminum	arthritis	-	drop(no evidence left)
+cuminum_cyminum	menstrual-cramps	-	drop(no evidence left)
+cuminum_cyminum	skin-irritation	-	drop(no evidence left)
+cuminum_cyminum	wounds	-	drop(no evidence left)
+curcuma_longa	blood-sugar	REF-0305	rm
+curcuma_longa	cardiovascular-support	REF-0305	rm
+curcuma_longa	metabolic-support	REF-0305	rm
+curcuma_longa	arthritis	REF-0002	rm
+curcuma_longa	blood-sugar	REF-0002	rm
+curcuma_longa	infection	REF-0002	rm
+curcuma_longa	skin-irritation	REF-0002	rm
+curcuma_longa	wounds	REF-0002	rm
+curcuma_longa	arthritis	REF-0791	add
+curcuma_longa	arthritis	REF-0792	add
+curcuma_longa	skin-irritation	REF-2165	add
+curcuma_longa	blood-sugar	-	drop(no evidence left)
+cynara_scolymus	bloating	REF-0461	rm
+cynara_scolymus	detox	REF-0461	rm
+cynara_scolymus	ibs	REF-0461	rm
+cynara_scolymus	indigestion	REF-0461	rm
+cynara_scolymus	ibs	-	drop(no evidence left)

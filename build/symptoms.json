@@ -1522,7 +1522,7 @@
     {
      "condition": "high-cholesterol",
      "label": "High cholesterol",
-     "evidence": 10,
+     "evidence": 9,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -1537,7 +1537,7 @@
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 9,
+     "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -1549,7 +1549,7 @@
     {
      "condition": "liver-support",
      "label": "Liver support",
-     "evidence": 8,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
@@ -1560,43 +1560,29 @@
     {
      "condition": "bloating",
      "label": "Bloating",
-     "evidence": 3,
+     "evidence": 1,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0461",
       "REF-0462"
      ]
     },
     {
      "condition": "detox",
      "label": "Detox / cleansing",
-     "evidence": 3,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0461"
-     ]
+     "references": []
     },
     {
      "condition": "indigestion",
      "label": "Indigestion",
-     "evidence": 3,
+     "evidence": 1,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0461",
       "REF-0462"
-     ]
-    },
-    {
-     "condition": "ibs",
-     "label": "Irritable bowel syndrome (IBS)",
-     "evidence": 3,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0461"
      ]
     }
    ]
@@ -2664,31 +2650,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0419"
-     ]
-    },
-    {
-     "condition": "bloating",
-     "label": "Bloating",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0419",
-      "REF-0420"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0419",
-      "REF-0420"
-     ]
+     "references": []
     },
     {
      "condition": "infection",
@@ -2696,9 +2658,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0419"
-     ]
+     "references": []
     },
     {
      "condition": "inflammation",
@@ -2706,9 +2666,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0419"
-     ]
+     "references": []
     },
     {
      "condition": "lactation-support",
@@ -2717,19 +2675,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0420",
       "REF-0421"
-     ]
-    },
-    {
-     "condition": "appetite-loss",
-     "label": "Loss of appetite",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0419",
-      "REF-0420"
      ]
     },
     {
@@ -2738,9 +2684,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0419"
-     ]
+     "references": []
     },
     {
      "condition": "wounds",
@@ -2748,9 +2692,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0419"
-     ]
+     "references": []
     }
    ]
   },
@@ -4821,53 +4763,43 @@
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 8,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0059",
-      "REF-0081",
       "REF-0109",
-      "REF-0178",
       "REF-2384"
      ]
     },
     {
      "condition": "metabolic-support",
      "label": "Metabolic support",
-     "evidence": 8,
+     "evidence": 2,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0059",
       "REF-0109",
-      "REF-0178",
       "REF-2379"
      ]
     },
     {
      "condition": "cognitive-function",
      "label": "Cognitive function",
-     "evidence": 4,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0096",
-      "REF-0109",
-      "REF-0178",
-      "REF-0205"
+      "REF-0178"
      ]
     },
     {
      "condition": "memory",
      "label": "Memory",
-     "evidence": 3,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0109",
-      "REF-0178"
-     ]
+     "references": []
     }
    ]
   },
@@ -5252,36 +5184,6 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "fatigue",
-     "label": "Fatigue / low energy",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0111"
-     ]
-    },
-    {
-     "condition": "muscle-soreness",
-     "label": "Muscle soreness",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0111"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0111"
-     ]
-    },
-    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -5331,15 +5233,42 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0151"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0151"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0151"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
+     "references": []
     },
     {
      "condition": "bloating",
@@ -5347,10 +5276,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
+     "references": []
     },
     {
      "condition": "indigestion",
@@ -5358,65 +5284,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
-    },
-    {
-     "condition": "menstrual-cramps",
-     "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
-    },
-    {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
+     "references": []
     },
     {
      "condition": "skin-irritation",
@@ -5424,10 +5292,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
+     "references": []
     },
     {
      "condition": "wounds",
@@ -5435,10 +5300,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0151",
-      "REF-0308"
-     ]
+     "references": []
     }
    ]
   },
@@ -5748,45 +5610,29 @@
     {
      "condition": "metabolic-support",
      "label": "Metabolic support",
-     "evidence": 10,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0008",
-      "REF-0654",
       "REF-0158",
-      "REF-0286",
-      "REF-0652",
-      "REF-0653",
-      "REF-0655"
+      "REF-0653"
      ]
     },
     {
      "condition": "bloating",
      "label": "Bloating",
-     "evidence": 5,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0008",
-      "REF-0656"
+      "REF-0008"
      ]
     },
     {
      "condition": "indigestion",
      "label": "Indigestion",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0008",
-      "REF-0656"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -5796,7 +5642,7 @@
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -5806,17 +5652,7 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0008"
-     ]
-    },
-    {
-     "condition": "menstrual-cramps",
-     "label": "Menstrual cramps",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -5826,27 +5662,7 @@
     {
      "condition": "muscle-spasm",
      "label": "Muscle spasm",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0008"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0008"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -11683,28 +11499,8 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0108",
-      "REF-2442"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0108"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0108"
+      "REF-2442",
+      "REF-0082"
      ]
     },
     {
@@ -11714,37 +11510,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0108"
-     ]
-    },
-    {
-     "condition": "menstrual-cramps",
-     "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0108"
-     ]
-    },
-    {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0108"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0108"
+      "REF-0082"
      ]
     }
    ]
@@ -14155,39 +13921,9 @@
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0115"
-     ]
-    },
-    {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0115"
-     ]
-    },
-    {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0115"
-     ]
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -14197,12 +13933,28 @@
     {
      "condition": "insomnia",
      "label": "Insomnia / sleeplessness",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0115"
      ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
     },
     {
      "condition": "memory",
@@ -14210,29 +13962,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0115"
-     ]
-    },
-    {
-     "condition": "menstrual-cramps",
-     "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0115"
-     ]
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0115"
-     ]
+     "references": []
     },
     {
      "condition": "skin-irritation",
@@ -14240,9 +13970,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0115"
-     ]
+     "references": []
     }
    ]
   },
@@ -16263,41 +15991,32 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "acid-reflux",
-     "label": "Acid reflux",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0305"
-     ]
-    },
-    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0002",
-      "REF-0305"
+      "REF-0305",
+      "REF-0791",
+      "REF-0792"
      ]
     },
     {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
-     "evidence": 1,
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0002",
-      "REF-0305"
+      "REF-0305",
+      "REF-2165"
      ]
     },
     {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -16307,11 +16026,41 @@
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 1,
+     "evidence": 2,
      "status": "verified",
      "inferred": false,
      "references": [
+      "REF-0002"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
       "REF-0002",
+      "REF-0305"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0002"
+     ]
+    },
+    {
+     "condition": "acid-reflux",
+     "label": "Acid reflux",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
       "REF-0305"
      ]
     },
@@ -16332,40 +16081,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0002",
-      "REF-0305"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0002",
-      "REF-0305"
-     ]
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0002",
-      "REF-0305"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0002",
       "REF-0305"
      ]
     },
@@ -16376,7 +16091,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0002",
       "REF-0305"
      ]
     }

@@ -145,60 +145,46 @@ actions:
   - REF-0421
   status: needs-review
 indications:
-- condition: appetite-loss
-  note: Appetite stimulant for loss of appetite (approved use under German Commission E)
-  reference_ids:
-  - REF-0419
-  - REF-0420
-  status: verified
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0419
+  reference_ids: []
   status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0419
-  - REF-0420
-  status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1995
   status: needs-review
-- condition: indigestion
-  note: Bitter digestive / stomachic for indigestion and dyspepsia (stimulates saliva and gastric secretion)
-  reference_ids:
-  - REF-0419
-  - REF-0420
-  status: verified
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0419
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0419
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0419
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0419
 - condition: lactation-support
   note: Galactagogue to support breast-milk supply (traditional; no valid clinical-trial evidence)
   reference_ids:
-  - REF-0420
   - REF-0421
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0419
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0419
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0419
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0419
 contraindications:
 - note: As a member of the daisy family (Asteraceae/ragweed), it can cause allergic reactions in sensitive
     people; high doses reportedly cause stomach cramps, nausea and vomiting.
@@ -250,4 +236,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pla
   plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-14 (harvest-calendar
   campaign, Batch 9): added harvest_readiness for the aerial parts (provisional) - gather the flowering herb
   in summer as it comes into flower; sourced to Useful Temperate Plants (REF-3232). Existing
-  harvesting.season not inherited.'
+  harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 5 - REF-0419 (folk-uses review) names no specific use -
+  removed from 8 pairs. REF-0420 (Drugs.com, 403) removed from every symptom as unverifiable.
+  REF-0421 (NIH LactMed) kept for lactation-support; page blocks automated reading - flagged for
+  owner spot-check. Re-sourcing candidate: EU monograph Cnici benedicti herba (loss of appetite,
+  dyspeptic complaints).'

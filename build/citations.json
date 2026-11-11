@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3212,
+ "count": 3211,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -5440,7 +5440,7 @@
    "link_type": "doi",
    "citation": "Zietal, K., Mirowska-Guzel, D., Nowaczyk, A. and Blecharz-Klin, K (2024) 'Cnicus benedictus: Folk Medicinal Uses, Biological Activities, and In Silico Screening of Main Phytochemical Constituents', Planta Medica. doi:10.1055/a-2401-6049",
    "abstract": "Traditional medicine has long recognized the therapeutic potential of Cnicus benedictus , and recent scientific research has shed light on the pharmacological properties of this plant. The bioactive compounds that can be extracted from it, such as the sesquiterpene lactones arctigenin, arctiin, and cnicin, are very interesting to researchers.In this article, based on available data from pre-clinical in vitro and in vivo studies, we delve into the pharmacology of the active constituents of this plant to explore its potential therapeutic applications and underlying mechanisms of action. In addition, we present a computer analysis designed to reveal the pharmacokinetic and toxicological properties of the main phytochemicals that are active in C. benedictus through new in silico techniques and predictive tools such as SwissADME and PubChem.The data from the in silico study presented here support the traditional use of C. benedictus , as well as its promise as a source of new therapeutic chemical compounds.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -5461,16 +5461,7 @@
     "Bitter digestive tonic / stomachic",
     "Digestive aid"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bloating",
-    "Indigestion",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Loss of appetite",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2542",
@@ -9686,10 +9677,7 @@
     "Antispasmodic",
     "Digestive aid"
    ],
-   "conditions": [
-    "Bloating",
-    "Indigestion"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0446",
@@ -12206,10 +12194,7 @@
     "Neuroprotective / cognition support"
    ],
    "conditions": [
-    "Cardiovascular / heart health",
-    "Cognitive function",
-    "Memory",
-    "Metabolic support"
+    "Cognitive function"
    ]
   },
   {
@@ -20616,7 +20601,9 @@
    "actions": [
     "Anti-inflammatory"
    ],
-   "conditions": []
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
   },
   {
    "ref_id": "REF-2471",
@@ -24920,9 +24907,7 @@
     "Antispasmodic",
     "Digestive aid"
    ],
-   "conditions": [
-    "Metabolic support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2541",
@@ -33280,9 +33265,7 @@
     "Antispasmodic",
     "Digestive aid"
    ],
-   "conditions": [
-    "Metabolic support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1670",
@@ -33679,7 +33662,9 @@
    "actions": [
     "Anti-inflammatory"
    ],
-   "conditions": []
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
   },
   {
    "ref_id": "REF-0560",
@@ -36186,7 +36171,7 @@
    "link_type": "url",
    "citation": "Allaq, A.A. and Sidik, N.J (2020) 'Cumin (Cuminum cyminum L.): A review of its ethnopharmacology, phytochemistry and biological activities'. Available at: https://bmrat.org/index.php/BMRAT/article/view/634",
    "abstract": "",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -36208,16 +36193,12 @@
     "Digestive aid"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Bloating",
     "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
-    "Menstrual cramps",
     "Metabolic support",
-    "Muscle spasm",
-    "Skin irritation",
-    "Wounds"
+    "Muscle spasm"
    ]
   },
   {
@@ -43460,9 +43441,7 @@
     "Cuminum cyminum"
    ],
    "actions": [],
-   "conditions": [
-    "Metabolic support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2838",
@@ -47983,9 +47962,7 @@
     "Cuminum cyminum"
    ],
    "actions": [],
-   "conditions": [
-    "Metabolic support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1697",
@@ -52530,42 +52507,6 @@
    ],
    "conditions": [
     "Low mood / depression"
-   ]
-  },
-  {
-   "ref_id": "REF-0111",
-   "key": "hirsch2017cordyceps",
-   "type": "article",
-   "title": "Cordyceps militaris improves tolerance to high-intensity exercise after acute and chronic supplementation",
-   "authors": "Hirsch, K.R., Smith-Ryan, A.E., Roelofs, E.J., Trexler, E.T. and Mock, M.G",
-   "journal": "",
-   "year": "2017",
-   "doi": "10.1080/19390211.2016.1203386",
-   "url": "",
-   "link": "https://doi.org/10.1080/19390211.2016.1203386",
-   "link_type": "doi",
-   "citation": "Hirsch, K.R., Smith-Ryan, A.E., Roelofs, E.J., Trexler, E.T. and Mock, M.G (2017) 'Cordyceps militaris improves tolerance to high-intensity exercise after acute and chronic supplementation', 14(1), pp. 42--53. doi:10.1080/19390211.2016.1203386",
-   "abstract": "To determine the effects of a mushroom blend containing Cordyceps militaris on high-intensity exercise after 1 and 3 weeks of supplementation. Twenty-eight individuals (Mean ± standard deviation [SD]; Age = 22.7 ± 4.1 yrs; Height = 175.4 ± 8.7 cm; Weight = 71.6 ± 12.0 kg) participated in this randomized, repeated measures, double-blind, placebo-controlled design. Maximal oxygen consumption (VO 2 max), time to exhaustion (TTE), and ventilatory threshold (VT) were measured during a maximal graded exercise test on a cycle ergometer. Relative peak power output (RPP), average power output (AvgP), and percent drop (%drop) were recorded during a 3 minute maximal cycle test with resistance at 4.5% body weight. Subjects consumed 4 g·d -1 mushroom blend (MR) or maltodextrin (PL) for 1 week. Ten volunteers supplemented for an additional 2 weeks. Exercise tests were separated by at least 48 hours and repeated following supplementation periods. One week of supplementation elicited no significant time × treatment interaction for VO 2 max (p = 0.364), VT (p = 0.514), TTE (p = 0.540), RPP (p = 0.134), AvgP (p = 0.398), or %drop (p = 0.823). After 3 weeks, VO 2 max significantly improved (p = 0.042) in MR (+4.8 ml·kg -1 ·min -1 ), but not PL (+0.9 ml·kg -1 ·min -1 ). Analysis of 95% confidence intervals revealed significant improvements in TTE after 1- (+28.1 s) and 3 weeks (+69.8 s) in MR, but not PL, with additional improvements in VO 2 max (+4.8 ml·kg -1 ·min -1 ) and VT (+0.7 l·min -1 ) after 3 weeks. Acute supplementation with a Cordyceps militaris containing mushroom blend may improve tolerance to high-intensity exercise; greater benefits may be elicited with consistent chronic supplementation.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Cordyceps militaris improves tolerance to high-intensity exercise after acute and chronic supplementation",
-   "plants": [
-    "Cordyceps",
-    "Dong Chong Xia Cao (冬蟲夏草)",
-    "Yartsa gunbu",
-    "Ziemas tārps – vasaras zāle",
-    "caterpillar fungus"
-   ],
-   "scientific": [
-    "Cordyceps militaris"
-   ],
-   "actions": [],
-   "conditions": [
-    "Fatigue / low energy",
-    "Muscle soreness",
-    "Respiratory support"
    ]
   },
   {
@@ -57256,7 +57197,9 @@
    "actions": [
     "Anti-inflammatory"
    ],
-   "conditions": []
+   "conditions": [
+    "Skin irritation"
+   ]
   },
   {
    "ref_id": "REF-0572",
@@ -57443,11 +57386,14 @@
    "display": "European Union herbal monograph on Crataegus spp., folium cum flore",
    "plants": [
     "Hawthorn",
+    "Midland Hawthorn",
     "common hawthorn",
     "may tree",
-    "whitethorn"
+    "whitethorn",
+    "woodland hawthorn"
    ],
    "scientific": [
+    "Crataegus laevigata",
     "Crataegus monogyna"
    ],
    "actions": [
@@ -60941,15 +60887,15 @@
    "type": "misc",
    "title": "Coriander (Coriandrum sativum L.) and its bioactive constituents",
    "authors": "Laribi, B., Kouki, K., M'Hamdi, M. and Bettaieb, T",
-   "journal": "",
+   "journal": "Fitoterapia",
    "year": "2015",
-   "doi": "",
+   "doi": "10.1016/j.fitote.2015.03.012",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Coriander%20%28Coriandrum%20sativum%20L.%29%20and%20its%20bioactive%20constituents",
-   "link_type": "search",
-   "citation": "Laribi, B., Kouki, K., M'Hamdi, M. and Bettaieb, T (2015) 'Coriander (Coriandrum sativum L.) and its bioactive constituents', pp. 9--26.",
-   "abstract": "",
-   "tier": "traditional",
+   "link": "https://doi.org/10.1016/j.fitote.2015.03.012",
+   "link_type": "doi",
+   "citation": "Laribi, B., Kouki, K., M'Hamdi, M. and Bettaieb, T (2015) 'Coriander (Coriandrum sativum L.) and its bioactive constituents', Fitoterapia, pp. 9--26. doi:10.1016/j.fitote.2015.03.012",
+   "abstract": "Coriander (Coriandrum sativum L.), a member of the Apiaceae family, is among most widely used medicinal plant, possessing nutritional as well as medicinal properties. Thus, the aim of this updated review is to highlight the importance of coriander as a potential source of bioactive constituents and to summarize their biological activities as well as their different applications from data obtained in recent literature, with critical analysis on the gaps and potential for future investigations. A literature review was carried out by searching on the electronic databases including PubMed, Scopus, ScienceDirect, and Google Scholar for studies focusing on the biological and pharmacological activities of coriander seed and herb bioactive constituents. All recent English-language articles published between 2000 and 2014 were searched using the terms 'C. sativum', 'medicinal plant', 'bioactive constituents', and 'biological activities'. Subsequently, coriander seed and herb essential oils have been actively investigated for their chemical composition and biological activities including antimicrobial, antioxidant, hypoglycemic, hypolipidemic, anxiolytic, analgesic, anti-inflammatory, anti-convulsant and anti-cancer activities, among others. Although coriander has been reported to possess a wide range of traditional medicinal uses, no report is available in its effectiveness use in reactive airway diseases such as asthma and bronchiolitis. In brief, the information presented herein will be helpful to create more interest towards this medicinal species by defining novel pharmacological and clinical applications and hence, may be useful in developing new drug formulations in the future or by employing coriander bioactive constituents in combination with conventional drugs to enhance the treatment of diseases such as Alzheimer and cancer.",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -60972,16 +60918,9 @@
     "Digestive aid"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Bloating",
-    "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
-    "Menstrual cramps",
-    "Metabolic support",
-    "Muscle spasm",
-    "Skin irritation",
-    "Wounds"
+    "Metabolic support"
    ]
   },
   {
@@ -62939,7 +62878,7 @@
    "link_type": "doi",
    "citation": "Ben Salem, M., Affes, H., Ksouda, K., Dhouibi, R., Sahnoun, Z., Hammami, S. and Zeghal, K.M (2015) 'Pharmacological Studies of Artichoke Leaf Extract and Their Health Benefits', Plant Foods for Human Nutrition. doi:10.1007/s11130-015-0503-8",
    "abstract": "Artichoke (Cynara scolymus) leaf extract was one of the few herbal remedies which the clinical and experimental trials have complemented each other. Both experimental and clinical effects have been verified through extensive biomedical herbal remedy research. Specifically, antioxidant, choleretic, hepatoprotective, bile-enhancing and lipid-lowering effects have been demonstrated, which corresponded with its historical use. Ongoing research seems to indicate that artichoke indeed have medicinal qualities. Most significant appears to be its beneficial effect on the liver. In animal studies, liquid extracts of the roots and leaves of artichoke have demonstrated an ability to protect the liver, with possibly even to help liver cells regenerate. Although research is not yet conclusive, scientists were optimistic that its long-standing use in humans for digestive and bowel problems was indeed justified. It may also play a role in lowering cholesterol and thus help to prevent heart disease. Boiled wild artichoke reduced postprandial glycemic and insulinemic responses in normal subjects but has no effect on metabolic syndrome patients. This article intended to review the wide ranging pharmacological effects of artichoke leaf extract.",
-   "tier": "clinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -62959,12 +62898,8 @@
     "Lipid-lowering"
    ],
    "conditions": [
-    "Bloating",
     "Cardiovascular / heart health",
-    "Detox / cleansing",
     "High cholesterol",
-    "Indigestion",
-    "Irritable bowel syndrome (IBS)",
     "Liver support"
    ]
   },
@@ -63451,9 +63386,7 @@
     "Antioxidant",
     "Neuroprotective / cognition support"
    ],
-   "conditions": [
-    "Cardiovascular / heart health"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1239",
@@ -65741,15 +65674,7 @@
     "Antispasmodic",
     "Sedative / sleep support"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Cardiovascular / heart health",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Menstrual cramps",
-    "Muscle spasm",
-    "Skin irritation"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1261",
@@ -66043,8 +65968,7 @@
     "Neuroprotective / cognition support"
    ],
    "conditions": [
-    "Cardiovascular / heart health",
-    "Metabolic support"
+    "Cardiovascular / heart health"
    ]
   },
   {
@@ -67789,21 +67713,21 @@
    "ref_id": "REF-0115",
    "key": "hosseinzadeh2013avicenna",
    "type": "article",
-   "title": "Avicenna",
+   "title": "Avicenna's (Ibn Sina) the Canon of Medicine and saffron (Crocus sativus): a review",
    "authors": "Hosseinzadeh, H. and Nassiri-Asl, M",
-   "journal": "",
+   "journal": "Phytotherapy Research",
    "year": "2013",
-   "doi": "",
+   "doi": "10.1002/ptr.4784",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Avicenna",
-   "link_type": "search",
-   "citation": "Hosseinzadeh, H. and Nassiri-Asl, M (2013) 'Avicenna', 27(4), pp. 475--483.",
-   "abstract": "",
-   "tier": "traditional",
+   "link": "https://doi.org/10.1002/ptr.4784",
+   "link_type": "doi",
+   "citation": "Hosseinzadeh, H. and Nassiri-Asl, M (2013) 'Avicenna's (Ibn Sina) the Canon of Medicine and saffron (Crocus sativus): a review', Phytotherapy Research, 27(4), pp. 475--483. doi:10.1002/ptr.4784",
+   "abstract": "In this review, we introduce the traditional uses of saffron and its pharmacological activities as described by either Avicenna in Book II, Canon of Medicine (al-Qanun fi al-tib) or from recent scientific studies. Modern pharmacological findings on saffron are compared with those mentioned in Avicenna's monograph. A computerized search of published articles was performed using MEDLINE, Scopus and Web of Science databases as well as local references. The search terms used were saffron, Crocus sativus, crocin, crocetin, safranal, picrocrocin, Avicenna and 'Ibn Sina'. Avicenna described various uses of saffron, including its use as an antidepressant, hypnotic, anti-inflammatory, hepatoprotective, bronchodilatory, aphrodisiac, inducer of labour, emmenagogue and others. Most of these effects have been studied in modern pharmacology and are well documented. The pharmacological data on saffron and its constituents, including crocin, crocetin and safranal, are similar to those found in Avicenna's monograph. This review indicates that the evaluation of plants based on ethnobotanical information and ancient books may be a valuable approach to finding new biological activities and compounds.",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
-   "display": "Avicenna",
+   "display": "Avicenna's (Ibn Sina) the Canon of Medicine and saffron (Crocus sativus): a review",
    "plants": [
     "Saffron",
     "autumn crocus",
@@ -67821,15 +67745,8 @@
     "Sedative / sleep support"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Blood sugar / diabetes support",
-    "Cognitive function",
     "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Memory",
-    "Menstrual cramps",
-    "Metabolic support",
-    "Skin irritation"
+    "Insomnia / sleeplessness"
    ]
   },
   {
@@ -76209,9 +76126,7 @@
     "Antioxidant",
     "Neuroprotective / cognition support"
    ],
-   "conditions": [
-    "Cognitive function"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1111",
@@ -78395,7 +78310,7 @@
    "link_type": "doi",
    "citation": "Aggarwal, B.B. and Harikumar, K.B (2009) 'Potential therapeutic effects of curcumin, the anti-inflammatory agent, against neurodegenerative, cardiovascular, pulmonary, metabolic, autoimmune and neoplastic diseases', 41(1), pp. 40--59. doi:10.1016/j.biocel.2008.06.010",
    "abstract": "Although safe in most cases, ancient treatments are ignored because neither their active component nor their molecular targets are well defined. This is not the case, however, with curcumin, a yellow-pigment substance and component of turmeric (Curcuma longa), which was identified more than a century ago. For centuries it has been known that turmeric exhibits anti-inflammatory activity, but extensive research performed within the past two decades has shown that this activity of turmeric is due to curcumin (diferuloylmethane). This agent has been shown to regulate numerous transcription factors, cytokines, protein kinases, adhesion molecules, redox status and enzymes that have been linked to inflammation. The process of inflammation has been shown to play a major role in most chronic illnesses, including neurodegenerative, cardiovascular, pulmonary, metabolic, autoimmune and neoplastic diseases. In the current review, we provide evidence for the potential role of curcumin in the prevention and treatment of various proinflammatory chronic diseases. These features, combined with the pharmacological safety and negligible cost, render curcumin an attractive agent to explore further.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -78418,15 +78333,10 @@
     "Gastroprotective"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Blood sugar / diabetes support",
     "Cancer (anticancer research)",
     "Cardiovascular / heart health",
-    "Infection (general)",
     "Inflammation (general)",
-    "Metabolic support",
-    "Skin irritation",
-    "Wounds"
+    "Metabolic support"
    ]
   },
   {
@@ -82984,7 +82894,7 @@
    "link_type": "doi",
    "citation": "Higdon, J.V. and Frei, B (2006) 'Coffee and health: a review of recent human research', 46(2), pp. 101--123. doi:10.1080/10408390500400009",
    "abstract": "Coffee is a complex mixture of chemicals that provides significant amounts of chlorogenic acid and caffeine. Unfiltered coffee is a significant source of cafestol and kahweol, which are diterpenes that have been implicated in the cholesterol-raising effects of coffee. The results of epidemiological research suggest that coffee consumption may help prevent several chronic diseases, including type 2 diabetes mellitus, Parkinson's disease and liver disease (cirrhosis and hepatocellular carcinoma). Most prospective cohort studies have not found coffee consumption to be associated with significantly increased cardiovascular disease risk. However, coffee consumption is associated with increases in several cardiovascular disease risk factors, including blood pressure and plasma homocysteine. At present, there is little evidence that coffee consumption increases the risk of cancer. For adults consuming moderate amounts of coffee (3-4 cups/d providing 300-400 mg/d of caffeine), there is little evidence of health risks and some evidence of health benefits. However, some groups, including people with hypertension, children, adolescents, and the elderly, may be more vulnerable to the adverse effects of caffeine. In addition, currently available evidence suggests that it may be prudent for pregnant women to limit coffee consumption to 3 cups/d providing no more than 300 mg/d of caffeine to exclude any increased probability of spontaneous abortion or impaired fetal growth.",
-   "tier": "clinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -83002,8 +82912,6 @@
    ],
    "conditions": [
     "Cardiovascular / heart health",
-    "Cognitive function",
-    "Memory",
     "Metabolic support"
    ]
   },
@@ -90970,9 +90878,7 @@
     "Antioxidant",
     "Neuroprotective / cognition support"
    ],
-   "conditions": [
-    "Cognitive function"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0046",
@@ -92247,9 +92153,7 @@
    "conditions": [
     "Acid reflux",
     "Arthritis / joint pain",
-    "Blood sugar / diabetes support",
     "Bronchitis",
-    "Cardiovascular / heart health",
     "Cold & flu",
     "Cough",
     "Immune support",
@@ -92257,7 +92161,6 @@
     "Infection (general)",
     "Inflammation (general)",
     "Menstrual cramps",
-    "Metabolic support",
     "Muscle spasm",
     "Respiratory support",
     "Skin irritation",
@@ -92321,20 +92224,16 @@
    ],
    "conditions": [
     "Arthritis / joint pain",
-    "Bloating",
     "Blood sugar / diabetes support",
     "Cardiovascular / heart health",
     "Cognitive function",
     "Cold & flu",
     "Fertility",
     "Immune support",
-    "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
     "Memory",
-    "Menstrual cramps",
     "Metabolic support",
-    "Muscle spasm",
     "Skin irritation",
     "Wounds"
    ]
@@ -96942,12 +96841,7 @@
     "Digestive aid",
     "Galactagogue (supports lactation)"
    ],
-   "conditions": [
-    "Bloating",
-    "Indigestion",
-    "Lactation support",
-    "Loss of appetite"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-3216",

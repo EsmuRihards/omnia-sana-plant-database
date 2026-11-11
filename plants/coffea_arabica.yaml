@@ -125,29 +125,25 @@ indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-0059
-  - REF-0081
   - REF-0109
-  - REF-0178
   - REF-2384
   status: verified
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0096
-  - REF-0109
   - REF-0178
-  - REF-0205
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0059
   - REF-0081
   - REF-0121
   - REF-0135
+  - REF-0096
+  - REF-0109
+  - REF-0205
 - condition: memory
   note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0109
-  - REF-0178
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0059
@@ -156,11 +152,11 @@ indications:
   - REF-0121
   - REF-0135
   - REF-0205
-- condition: metabolic-support
-  reference_ids:
-  - REF-0059
   - REF-0109
   - REF-0178
+- condition: metabolic-support
+  reference_ids:
+  - REF-0109
   - REF-2379
   status: verified
 contraindications:
@@ -242,4 +238,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   constituent wired to it. Only the molecules the entry already names were wired - no constituent was
   reinterpreted. | 2026-08-14 (harvest-calendar campaign, Batch 9): added harvest_readiness for the seed
   (provisional) - pick the cherries when fully ripe (the drupe turns bright red or yellow); the two beans
-  are the seeds inside; sourced to Wikipedia, Coffea arabica (REF-3235). No prior harvesting.season existed.'
+  are the seeds inside; sourced to Wikipedia, Coffea arabica (REF-3235). No prior harvesting.season existed.
+  | 2026-11-10: symptom-source audit batch 5 - REF-0081 (EFSA caffeine SAFETY opinion) is not
+  cardiovascular-benefit evidence. MedlinePlus caffeine (REF-0178; caffeine = signature compound)
+  supports alertness only (it lists raised blood pressure as an effect) - kept for
+  cognitive-function. REF-0096 (sport performance), REF-0109 and REF-0205 (Parkinson risk) removed
+  from cognitive/memory; REF-0059 (CVD cohort SR) removed from metabolic.'

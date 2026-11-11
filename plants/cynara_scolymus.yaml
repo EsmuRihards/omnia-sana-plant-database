@@ -143,9 +143,10 @@ indications:
 - condition: bloating
   note: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
   reference_ids:
-  - REF-0461
   - REF-0462
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0461
 - condition: cardiovascular-support
   note: inferred from lipid-lowering action
   reference_ids:
@@ -155,9 +156,10 @@ indications:
   status: needs-review
 - condition: detox
   note: inferred from hepatoprotective action
-  reference_ids:
-  - REF-0461
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0461
 - condition: high-cholesterol
   note: inferred from lipid-lowering action
   reference_ids:
@@ -168,17 +170,13 @@ indications:
   - REF-2567
   - REF-2569
   status: needs-review
-- condition: ibs
-  note: Supports irritable bowel syndrome (IBS) symptoms
-  reference_ids:
-  - REF-0461
-  status: needs-review
 - condition: indigestion
   note: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
   reference_ids:
-  - REF-0461
   - REF-0462
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0461
 - condition: liver-support
   note: Hepatoprotective / liver support (protects liver cells and may aid their regeneration)
   reference_ids:
@@ -235,4 +233,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   Cynara cardunculus; leaves gathered just before flowering). The harvesting.text cynarin-peak timing is
   NOT supported by REF-0461 (a pharmacology review), so basis is kept traditional, not constituent -
   consistent with the audit finding that harvesting.status=verified does not mean the timing is sourced.
-  Binomial confirmed via accepted-name synonymy.'
+  Binomial confirmed via accepted-name synonymy.
+  | 2026-11-10: symptom-source audit batch 5 - REF-0461 (review) names choleretic,
+  hepatoprotective and lipid-lowering effects only - removed from bloating, detox, IBS,
+  indigestion (the EU monograph REF-0462 still supports bloating/indigestion).'

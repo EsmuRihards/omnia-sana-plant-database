@@ -20,7 +20,7 @@ KW = {
     'infection': 'infect|antimicrob|antibacter|antifung|antivir|bacteri|pathogen', 'urinary-support': 'urin|bladder|lower urinary',
     'uti': 'urinary tract infection|\\buti\\b|cystitis|bladder infect', 'menstrual-cramps': 'menstru|dysmenor|period pain',
     'muscle-spasm': 'spasm|cramp', 'swelling': 'swell|oedem|edem|fluid retention', 'cold': 'common cold|\\bcolds?\\b|influenza|\\bflu\\b|respiratory infection',
-    'fever': 'fever|febri|antipyr|diaphor', 'diarrhea': 'diarrh|dysenter', 'indigestion': 'indigest|dyspeps|upset stomach',
+    'fever': 'fever|febri|antipyr|diaphor', 'diarrhea': 'diarrh|dysenter', 'indigestion': 'indigest|dyspep|upset stomach',
     'bloating': 'bloat|flatul|carminat', 'appetite-loss': 'appetite|anorex', 'heavy-bleeding': 'menorrhag|heavy menstrua|nosebleed|epistaxis',
     'anxiety': 'anxi', 'depression': 'depress', 'stress': 'stress(?! response)|adaptogen', 'nervous-tension': 'nervous|tension|anxiolyt|restless',
     'cognitive-function': 'cogni|alzheim|dementia|learning', 'memory': 'memory|amnes|alzheim|dementia', 'insomnia': 'insomn|sleep|sedat|hypnot',

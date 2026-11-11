@@ -107,7 +107,7 @@ actions:
 - action: ergogenic
   note: Physical performance / strength improvement
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: immunomodulator
   reference_ids:
   - REF-2153
@@ -128,11 +128,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2153
-- condition: fatigue
-  note: inferred from ergogenic action
-  reference_ids:
-  - REF-0111
-  status: needs-review
 - condition: immune-support
   reference_ids: []
   status: needs-review
@@ -142,15 +137,6 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-- condition: muscle-soreness
-  note: inferred from ergogenic action
-  reference_ids:
-  - REF-0111
-  status: needs-review
-- condition: respiratory-support
-  reference_ids:
-  - REF-0111
-  status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -167,7 +153,6 @@ contraindications:
     (Jędrejko et al., 2022).'
   severity: caution
   reference_ids:
-  - REF-0111
   - REF-0218
   - REF-0318
   status: verified
@@ -175,7 +160,6 @@ contraindications:
     of Medicinal Herbs, Second Edition.
   severity: info
   reference_ids:
-  - REF-0111
   - REF-0218
   - REF-0318
   - REF-0063
@@ -259,4 +243,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Batch 9): added harvest_readiness for the fruiting body (provisional; ''Whole Plant'' -> fruiting-body) -
   harvest the orange club-shaped stromata at full height, firm and upright, before the tips darken or shed
   spore powder (over-maturity); sourced to Out-Grow (REF-3236). Safety cross-link to the FATAL poison fire
-  coral (Podostroma cornu-damae) for wild harvest. Existing harvesting.season not inherited.'
+  coral (Podostroma cornu-damae) for wild harvest. Existing harvesting.season not inherited.
+  | 2026-11-10: symptom-source audit batch 5 - REF-0111 purged: the RCT tested a 6-mushroom blend
+  containing C. militaris, not C. militaris alone.'

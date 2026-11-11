@@ -181,69 +181,61 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0151
-  - REF-0308
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1706
   - REF-1708
+  - REF-0308
+  - REF-0151
 - condition: bloating
   note: inferred from digestive action
-  reference_ids:
-  - REF-0151
-  - REF-0308
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0308
+  - REF-0151
 - condition: indigestion
   note: inferred from digestive action
-  reference_ids:
-  - REF-0151
-  - REF-0308
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0308
+  - REF-0151
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0151
-  - REF-0308
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0308
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0151
-  - REF-0308
   status: needs-review
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0151
+  mechanistic_exclude_ids:
   - REF-0308
-  status: needs-review
 - condition: metabolic-support
   reference_ids:
   - REF-0151
-  - REF-0308
   status: verified
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0151
-  - REF-0308
-  status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0151
-  - REF-0308
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1706
   - REF-1708
+  - REF-0308
+  - REF-0151
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0151
-  - REF-0308
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0308
+  - REF-0151
 contraindications:
 - note: '• Food use is generally safe for most people (leaf in salads, seed as spice) (Burdock & Carabin,
     2009). • Allergy is the main “big warning.” Coriander can trigger reactions ranging from mild oral
@@ -376,4 +368,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Batch 9): added harvest_readiness - leaf + stem provisional (gather before/at flowering; flowering spoils
   the leaf); seed provisional (cut seed heads when light brown/ripe); root gap. Sourced to Plantura
   (REF-3233, Coriandrum sativum). Safety cross-links to the FATAL poison-hemlock / fool''s-parsley Apiaceae
-  lookalikes. Existing harvesting.season not inherited. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Wikipedia and Thaifoodmaster name the root as an ingredient without timing, and the one growing guide that does give the stage (lift before bolting) returned HTTP 500 on every attempt and could not be quoted.'
+  lookalikes. Existing harvesting.season not inherited. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Wikipedia and Thaifoodmaster name the root as an ingredient without timing, and the one growing guide that does give the stage (lift before bolting) returned HTTP 500 on every attempt and could not be quoted.
+  | 2026-11-10: symptom-source audit batch 5 - REF-0308 ("WHO Monographs" 1999 = vol. 1, which has
+  no coriander monograph) removed from every symptom as unverifiable. REF-0151 (Laribi 2015,
+  PubMed 25776008) names antimicrobial, hypoglycemic, anti-inflammatory and other activities -
+  kept for infection, inflammation, metabolic-support only.'

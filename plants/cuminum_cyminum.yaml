@@ -167,30 +167,10 @@ actions:
   - REF-0656
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0008
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
-  - REF-0654
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0008
-  - REF-0656
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
@@ -206,11 +186,11 @@ indications:
   - REF-0286
   - REF-0307
   - REF-0654
+  - REF-0656
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0008
-  - REF-0656
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0026
@@ -226,6 +206,7 @@ indications:
   - REF-0286
   - REF-0307
   - REF-0654
+  - REF-0656
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -265,36 +246,15 @@ indications:
   - REF-0286
   - REF-0307
   - REF-0654
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0008
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
-  - REF-0654
-  - REF-0656
 - condition: metabolic-support
   reference_ids:
   - REF-0008
-  - REF-0654
   - REF-0158
-  - REF-0286
-  - REF-0652
   - REF-0653
-  - REF-0655
   status: verified
+  null_result_ids:
+  - REF-0654
+  - REF-0655
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
@@ -315,45 +275,6 @@ indications:
   - REF-0307
   - REF-0654
   - REF-0656
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0008
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
-  - REF-0654
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0008
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
-  - REF-0654
-  - REF-0657
 contraindications:
 - note: Food amounts are generally considered safe; in the US it’s listed as GRAS as a spice/flavoring
     (LactMed, 2025).
@@ -454,4 +375,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (phenological) - added harvest_readiness for seed (provisional: PFAF REF-3241; seed heads cut when the
   fruit is fully ripe in late summer). Independent phenophase confirmation not found - Wikipedia (Cumin)
   gave harvest MONTHS only, Gernot Katzer gave no harvest stage, Gardenia 403 - all logged. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-10: symptom-source audit batch 5 - REF-0654 (MA: results "do not support" cumin for
+  glycemic markers) and REF-0655 (RCT: no effect on MetS components except DBP) moved to
+  null_result_ids for metabolic-support. REF-0286/REF-0652 (lipid-only meta-analyses) removed from
+  metabolic-support. REF-0656 (bowel motility after surgery) is not bloating/indigestion evidence.
+  REF-0008 (Allaq 2020) full text names flatulence, dyspepsia, antispasmodic, antimicrobial,
+  anti-inflammatory, antidiabetic - removed from arthritis, menstrual-cramps, skin, wounds.'
+references:
+- REF-0652

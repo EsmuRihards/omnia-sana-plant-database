@@ -166,62 +166,19 @@ actions:
   - REF-1787
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0108
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1784
-  - REF-2442
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0108
   - REF-2442
+  - REF-0082
   status: verified
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0108
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1784
-  - REF-2442
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0108
+  - REF-0082
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2442
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
   - REF-0108
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0783
-  - REF-1785
-  - REF-1786
-  - REF-2442
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0108
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0783
-  - REF-1785
-  - REF-1786
-  - REF-2442
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0108
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1784
-  - REF-2442
 contraindications:
 - note: Generally safe and well tolerated. High doses may cause low blood pressure and sedation. May interact
     with cardiac glycosides (digoxin) and antihypertensive drugs. Consult a physician before using with
@@ -316,4 +273,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   dry-extract ranges, and a herbal-tea entry was added. status -> verified. | 2026-08-14 (harvest-calendar
   campaign, Batch 9): added harvest_readiness for flower/leaf/fruit (provisional) - flowers with young
   leaves gathered in spring as the clusters open (folium cum flore); haws gathered in autumn when ripe red;
-  sourced to Woodland Trust (REF-3234). Existing harvesting.season not inherited; signals re-derived.'
+  sourced to Woodland Trust (REF-3234). Existing harvesting.season not inherited; signals re-derived.
+  | 2026-11-10: symptom-source audit batch 5 - REF-0108 (Hedgerow Medicine, book) removed from
+  every symptom as unverifiable. The EU monograph Crataegus spp. folium cum flore (REF-0082)
+  covers C. laevigata explicitly (nervous cardiac complaints, mild mental stress, aid sleep) -
+  added to cardiovascular-support and insomnia.'

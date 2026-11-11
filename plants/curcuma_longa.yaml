@@ -157,20 +157,14 @@ indications:
   - REF-0273
 - condition: arthritis
   reference_ids:
-  - REF-0002
   - REF-0305
+  - REF-0791
+  - REF-0792
   status: verified
   mechanistic_exclude_ids:
   - REF-0273
   - REF-2165
-- condition: blood-sugar
-  note: inferred from antidiabetic action
-  reference_ids:
   - REF-0002
-  - REF-0305
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0273
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -181,7 +175,6 @@ indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-0002
-  - REF-0305
   status: verified
 - condition: indigestion
   note: inferred from gastroprotective action
@@ -194,11 +187,11 @@ indications:
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0002
   - REF-0305
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0273
+  - REF-0002
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -211,28 +204,29 @@ indications:
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0002
-  - REF-0305
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0273
+  - REF-0305
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0002
   - REF-0305
+  - REF-2165
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0273
   - REF-0791
   - REF-0792
+  - REF-0002
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0002
   - REF-0305
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0273
+  - REF-0002
 contraindications:
 - note: Generally very safe in culinary quantities. High-dose curcumin supplements may cause gastrointestinal
     upset. May interact with anticoagulants (warfarin), antidiabetic drugs, and acid-suppressing medications.
@@ -316,4 +310,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   cancer-condition campaign. | 2026-08-14: Harvest Calendar (phenological) - added harvest_readiness for
   rhizome (provisional: Useful Tropical Plants REF-3242; lift at the end of the season once the foliage
   withers). Independent confirmation not found - Wikipedia (Turmeric) gave no readiness signal, Britannica
-  and Gardening Know How returned 403/404 - logged. Binomial confirmed.'
+  and Gardening Know How returned 403/404 - logged. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 5 - REF-0305 (WHO vol. 1, Rhizoma Curcumae Longae) kept
+  on dyspepsia/acid dyspepsia, rheumatic pain and inflammation, skin diseases, ringworm and
+  slow-healing wounds per its known Medicinal uses text; the WHO PDF blocks automated reading -
+  flagged for owner spot-check. Removed from blood-sugar, cardiovascular, metabolic. REF-0002
+  (curcumin review; signature compound) kept for cardiovascular, metabolic, inflammation, cancer.
+  Arthritis SR/MAs REF-0791/REF-0792 and skin SR REF-2165 moved from mechanistic-only to direct.'

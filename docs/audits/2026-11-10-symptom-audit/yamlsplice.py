@@ -41,6 +41,8 @@ def save(path, text, data, changed_keys):
             parts.append(chunk)
     for key in changed_keys:
         if key not in seen and key in data:
+            if parts and not parts[-1].endswith('\n'):
+                parts[-1] += '\n'  # last section had no trailing newline
             parts.append(dump_section(key, data[key]))
     new = ''.join(parts)
     assert yaml.safe_load(new) == data, 'splice changed data outside the edited sections'

@@ -132,41 +132,62 @@ actions:
   status: verified
 indications:
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Hibiscus lowered fasting blood sugar in meta-analyses of randomized trials
   reference_ids:
   - REF-0567
+  - REF-3583
+  - REF-3582
   status: needs-review
 - condition: cardiovascular-support
-  note: inferred from antihypertensive action
+  note: Hibiscus lowered blood pressure and improved some blood lipid and sugar markers in meta-analyses;
+    a Cochrane review judged the blood pressure evidence vs placebo insufficient (very low certainty)
   reference_ids:
   - REF-0464
   - REF-0566
   - REF-0567
+  - REF-3582
   status: needs-review
   null_result_ids:
   - REF-1844
+  - REF-3581
 - condition: high-blood-pressure
-  note: Lowers blood pressure, with the greatest effect in people with raised blood pressure
+  note: Hibiscus lowered blood pressure in meta-analyses, most in people with raised blood pressure, and
+    matched captopril in one trial; a Cochrane review judged the evidence vs placebo insufficient (very
+    low certainty)
   reference_ids:
   - REF-0464
   - REF-0566
   - REF-0567
+  - REF-1846
+  - REF-1847
+  - REF-3582
   status: verified
   null_result_ids:
   - REF-1844
+  - REF-3581
 - condition: high-cholesterol
-  note: inferred from lipid-lowering action
+  note: 'Meta-analyses disagree: some found hibiscus lowered total and LDL cholesterol, others found no
+    significant effect on blood lipids'
   reference_ids:
   - REF-0464
+  - REF-3584
+  - REF-3583
+  - REF-3582
   status: needs-review
   null_result_ids:
   - REF-1843
+  - REF-0567
 - condition: metabolic-support
-  note: inferred from antidiabetic action
-  reference_ids: []
+  note: Hibiscus improved blood pressure, cholesterol and blood sugar markers in meta-analyses; it did
+    not reduce body weight in a 2024 meta-analysis
+  reference_ids:
+  - REF-3582
+  - REF-3584
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0567
+  null_result_ids:
+  - REF-3585
 contraindications:
 - note: Its blood-pressure-lowering effect can add to that of antihypertensive medicines; monitor blood
     pressure if you take them. Note that it is not superior to standard antihypertensive drugs and did
@@ -258,4 +279,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Revie
   | 2026-11-10: symptom-source audit batch 8 - REF-0465 purged: the meta-analysis pooled Hibiscus
   COMBINED with other plant extracts. REF-0567 names glycaemic status and blood pressure, not
   metabolic syndrome - removed from metabolic-support. REF-1843 (2013 MA: "does not support the
-  efficacy" for lowering serum lipids) recorded in null_result_ids for high-cholesterol.'
+  efficacy" for lowering serum lipids) recorded in null_result_ids for high-cholesterol.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. Cochrane 2021 REF-3581
+  (evidence vs placebo insufficient, very low certainty) recorded as no-effect for
+  high-blood-pressure and cardiovascular-support; held trials REF-1846/REF-1847 wired directly to
+  high-blood-pressure. Overview of reviews REF-3582, glycaemic/lipid MA REF-3583 and MetS lipid MA
+  REF-3584 added; REF-0567 (no significant lipid effect) recorded as no-effect for
+  high-cholesterol; obesity MA REF-3585 (no benefit) as no-effect for metabolic-support (weight).'

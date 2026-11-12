@@ -119,9 +119,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0049
-  - REF-0206
-  - REF-0319
   - REF-2317
   - REF-2320
   status: verified
@@ -131,16 +128,10 @@ actions:
   - REF-2326
   status: needs-review
 - action: antidiabetic
-  reference_ids:
-  - REF-0049
-  - REF-0206
-  - REF-0319
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0049
-  - REF-0206
-  - REF-0319
   - REF-2317
   - REF-2323
   - REF-2324
@@ -148,24 +139,15 @@ actions:
   status: verified
 - action: emollient
   reference_ids:
-  - REF-0049
-  - REF-0206
-  - REF-0319
   - REF-2318
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0049
-  - REF-0206
-  - REF-0319
   - REF-2322
   - REF-2327
   status: verified
 - action: vulnerary
   reference_ids:
-  - REF-0049
-  - REF-0206
-  - REF-0319
   - REF-2318
   status: verified
 indications:
@@ -173,21 +155,17 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0206
-  - REF-0049
-  - REF-0319
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Reviewed for blood-sugar benefits (review); a meta-analysis of trials found no effect on blood
+    sugar
   reference_ids:
   - REF-2319
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0206
-  - REF-0049
-  - REF-0319
+  null_result_ids:
+  - REF-3586
 - condition: cancer
-  note: inferred from anticancer action
+  note: Sea buckthorn compounds and fruit-peel extract reduced tumour promotion and breast tumours in
+    animal models (preclinical)
   reference_ids:
   - REF-2321
   - REF-2326
@@ -196,69 +174,76 @@ indications:
   reference_ids:
   - REF-2319
   - REF-2317
+  - REF-3586
   status: verified
-- condition: cold
-  note: inferred from immunomodulator action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0206
-  - REF-0049
-  - REF-0319
+  note: Reviewed for cardiovascular protection (reviews); improved blood lipids in a meta-analysis of
+    trials
 - condition: eczema
-  note: inferred from emollient action
+  note: Traditional skin remedy with dermatological effects reviewed (review); oral seed and pulp oils
+    did no better than placebo for atopic eczema in a controlled trial
   reference_ids:
   - REF-2318
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0206
-  - REF-0049
-  - REF-0319
+  null_result_ids:
+  - REF-3593
 - condition: immune-support
   reference_ids:
   - REF-2317
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0206
-  - REF-0049
-  - REF-0319
+  null_result_ids:
+  - REF-3587
+  note: Sea buckthorn polysaccharides stimulated immune cells in lab studies (reviews); the berries did
+    not prevent colds or digestive infections in a randomized trial
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Sea buckthorn berries lowered CRP, an inflammation marker, in a randomized trial; oil capsules
+    did not change inflammation markers in haemodialysis patients
   reference_ids:
   - REF-2318
+  - REF-3587
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0206
-  - REF-0049
-  - REF-0319
+  null_result_ids:
+  - REF-3588
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditional skin remedy with anti-inflammatory and skin-healing effects reviewed (review)
   reference_ids:
   - REF-2318
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0206
   - REF-2320
-  - REF-0049
-  - REF-0319
 - condition: wounds
-  note: inferred from vulnerary action
+  note: Sea buckthorn cream healed second-degree burns faster than silver sulfadiazine in a randomized
+    trial; traditional wound remedy (review)
   reference_ids:
   - REF-2318
+  - REF-3592
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0206
-  - REF-0049
-  - REF-0319
+- condition: high-cholesterol
+  note: Sea buckthorn lowered triglycerides and total and LDL cholesterol in a meta-analysis of 15 trials,
+    mainly in people with abnormal blood lipids; a trial in healthy adults found no effect
+  reference_ids:
+  - REF-3586
+  status: verified
+  null_result_ids:
+  - REF-3589
+- condition: constipation
+  note: A sea buckthorn fruit extract increased complete bowel movements and normalised stools vs placebo
+    in chronic constipation in a randomized trial
+  reference_ids:
+  - REF-3590
+  status: verified
+- condition: menopause
+  note: Sea buckthorn oil capsules improved vaginal atrophy (dryness) in postmenopausal women vs placebo
+    in a randomized trial
+  reference_ids:
+  - REF-3591
+  status: verified
 contraindications:
 - note: Berries and juice are safe as food. Seed oil is safe topically and orally in moderate amounts.
     May have mild anticoagulant effects. May lower blood pressure and blood sugar - use caution with medications.
     Allergic reactions are rare.
   severity: caution
   reference_ids:
-  - REF-0049
   - REF-0206
-  - REF-0319
   status: verified
 - note: Duke (2002) rates sea buckthorn as +++ and notes antioxidant, hepatoprotective, antiulcer, and
     vulnerary activities at the experimental level (score 1). The berries are exceptionally rich in vitamins
@@ -268,9 +253,7 @@ contraindications:
     strong clinical validation. No significant safety concerns at food doses (Duke, 2002).
   severity: info
   reference_ids:
-  - REF-0049
   - REF-0206
-  - REF-0319
   - REF-0063
   status: verified
 references:
@@ -288,6 +271,7 @@ references:
 - REF-2325
 - REF-2326
 - REF-2327
+- REF-0206
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -333,4 +317,15 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   cardiovascular-support; REF-2319 (clinical lipid, blood pressure and blood glucose effects) ->
   blood-sugar.
   | 2026-11-10: symptom-source audit batch 8 - REF-2318 (wounds, burns) hidden from the bruising
-  mechanistic cards; bruising dropped.'
+  mechanistic cards; bruising dropped.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. REF-0206 (1971
+  taxonomic study) removed from all six actions (kept in references). REF-0049 and REF-0319 (no
+  identifiers, unlocatable) purged and deleted. Cold dropped: immunomodulator-inferred and
+  contradicted by the RCT REF-3587 (berries did not prevent colds); REF-3587 also no-effect for
+  immune-support and support for inflammation (CRP lowered); haemodialysis RCT REF-3588 no-effect
+  for inflammation. MetS MA REF-3586: no-effect for blood-sugar, support for
+  cardiovascular-support; new pairs (owner rule): high-cholesterol (REF-3586; healthy-adult RCT
+  REF-3589 no-effect), constipation (RCT REF-3590), menopause (vaginal atrophy RCT REF-3591). Burn
+  RCT REF-3592 added to wounds. Oral-oil atopic dermatitis trial REF-3593 (no better than placebo)
+  no-effect for eczema. Gaps: psoriasis trial 30679968 (single-blind, randomisation not stated);
+  bloating (secondary outcome of REF-3590 only).'

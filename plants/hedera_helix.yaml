@@ -101,7 +101,6 @@ actions:
   - REF-0472
   - REF-2309
   - REF-2311
-  - REF-2314
   status: verified
 - action: bronchodilator
   note: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
@@ -118,18 +117,22 @@ actions:
   - REF-0575
   - REF-0834
   - REF-0833
-  - REF-0835
   status: verified
 indications:
 - condition: asthma
-  note: inferred from bronchodilator action
-  reference_ids: []
+  note: A review of randomized trials found ivy leaf extract improved lung function in children with chronic
+    asthma (small evidence base, one placebo-controlled trial); an add-on trial found no effect on its
+    main lung-function outcomes
+  reference_ids:
+  - REF-3577
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0472
+  null_result_ids:
+  - REF-3578
 - condition: bronchitis
-  note: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
-    mucus)
+  note: Ivy leaf extract eased productive cough and acute bronchitis in trials, including vs placebo;
+    an updated systematic review found the effects minimal at best
   reference_ids:
   - REF-0472
   - REF-0473
@@ -138,8 +141,8 @@ indications:
   null_result_ids:
   - REF-0833
 - condition: cough
-  note: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
-    mucus)
+  note: Ivy leaf extract eased acute productive cough vs placebo in a randomized trial; an updated systematic
+    review found the effects minimal at best
   reference_ids:
   - REF-0472
   - REF-0473
@@ -153,14 +156,9 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0472
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0472
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Ivy leaf extract eased productive cough in acute respiratory infections in trials; an updated
+    systematic review found the effects minimal at best
   reference_ids:
   - REF-0472
   - REF-0473
@@ -185,7 +183,6 @@ contraindications:
 references:
 - REF-0833
 - REF-0834
-- REF-0835
 - REF-2308
 - REF-2309
 - REF-2310
@@ -220,4 +217,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical ef
   | 2026-11-10: symptom-source audit batch 8 - REF-0833 (Sierocinski 2021 updated SR): ivy leaf is
   safe but "effects are minimal at best and of uncertain clinical importance" - recorded in
   null_result_ids for cough, bronchitis and respiratory-support (owner rule: not convincing = no
-  effect). REF-0473 (Hedussin post-authorisation study, non-randomised) retagged clinical.'
+  effect). REF-0473 (Hedussin post-authorisation study, non-randomised) retagged clinical.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. Muscle-spasm dropped
+  (airway/gut smooth-muscle work; off-target, inv. 11). REF-2314 removed from antispasmodic (the
+  extract contracted stomach strips; kept in references). REF-0835 (ivy + Coptis two-herb mixture,
+  animals) purged and deleted. Asthma: review of RCTs REF-3577 added as support, add-on RCT
+  REF-3578 (primary outcomes null) as no-effect. REF-0834 retagged narrative-review. Notes now
+  state the updated SR REF-0833 finding (effects minimal at best).'

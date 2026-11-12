@@ -201,10 +201,8 @@ actions:
   status: verified
 - action: antidiarrheal
   note: Astringent hydrolysable tannins; traditional remedy for diarrhoea and dysentery.
-  reference_ids:
-  - REF-2768
-  - REF-2769
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: antioxidant
   reference_ids:
   - REF-2761
@@ -239,9 +237,8 @@ actions:
 - action: vulnerary
   note: Astringent/antimicrobial root traditionally applied to wounds and inflamed skin; skin antineoplastic
     activity shown for avens.
-  reference_ids:
-  - REF-2769
-  status: verified
+  reference_ids: []
+  status: needs-review
 indications:
 - condition: diarrhea
   note: inferred from astringent (tannin) action
@@ -253,20 +250,20 @@ indications:
   reference_ids:
   - REF-2767
   status: verified
+  note: Water avens extract strongly inhibited an inflammatory pathway (PAF-induced exocytosis) in lab
+    tests (preclinical)
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Extracts and their triterpenes were antibacterial and antifungal in lab tests (preclinical)
   reference_ids:
   - REF-2763
   - REF-2761
   status: needs-review
 - condition: wounds
-  note: inferred from astringent/antimicrobial action and traditional wound-wash use
+  note: inferred from antimicrobial and astringent action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2769
 - condition: skin-irritation
-  note: inferred from anti-inflammatory/antimicrobial skin activity
+  note: inferred from anti-inflammatory and astringent action
   reference_ids: []
   status: needs-review
 contraindications:
@@ -380,4 +377,8 @@ internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum 
   urbanum (and other plants), not G. rivale. REF-2768 (Rosaceae tannin/elastase screen) names no
   diarrhoea - removed; retagged preclinical. REF-2769 (1954 tannin anatomy) hidden from diarrhoea
   cards. REF-2763 (in vitro antimicrobial) removed from sore-throat. REF-2761 (antibacterial vs E.
-  coli and S. aureus) added to infection.'
+  coli and S. aureus) added to infection.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. REF-2769 (1954 tannin
+  anatomy, no abstract) removed from antidiarrheal and vulnerary actions (kept in references);
+  REF-2768 (Rosaceae elastase/tannin screen) removed from antidiarrheal. Notes rewritten to their
+  lab sources. No trials on PubMed.'

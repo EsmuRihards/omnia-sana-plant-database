@@ -132,11 +132,13 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain; General joint pain and
-    arthritis support
+  note: Devil's claw powder matched the drug diacerhein for hip and knee osteoarthritis pain in a randomized
+    trial, with fewer side effects; systematic reviews found limited to moderate evidence, and one judged
+    trial quality too poor for a definitive answer
   reference_ids:
   - REF-0444
   - REF-0561
+  - REF-3576
   status: verified
   mechanistic_exclude_ids:
   - REF-1836
@@ -144,12 +146,13 @@ indications:
   null_result_ids:
   - REF-1834
 - condition: back-pain
-  note: Effective at standardised doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior
-    to rofecoxib for short-term chronic low back pain; Relief of chronic non-specific low back pain
+  note: 'Extracts with 50-100 mg harpagoside daily relieved chronic low back pain vs placebo, and one
+    matched rofecoxib (Cochrane review: moderate-quality evidence at best; systematic review)'
   reference_ids:
   - REF-0444
   - REF-0561
   - REF-0562
+  - REF-1261
   status: verified
   mechanistic_exclude_ids:
   - REF-1830
@@ -176,14 +179,13 @@ indications:
   - REF-0443
   - REF-0444
 - condition: pain
-  note: Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain; Effective at standardised
-    doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior to rofecoxib for short-term
-    chronic low back pain; General joint pain and arthritis support; Relief of chronic non-specific low
-    back pain
+  note: Devil's claw eased low back and osteoarthritis pain in trials (Cochrane review; systematic reviews;
+    moderate-quality evidence at best)
   reference_ids:
   - REF-0444
   - REF-0561
   - REF-0562
+  - REF-1261
   status: verified
   mechanistic_exclude_ids:
   - REF-0443
@@ -254,4 +256,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standar
   review, retagged) names arthrotic and low back pain only - removed from inflammation. SR
   REF-0561 (OA and low back pain) added to arthritis. REF-1834 (2006 OA review: the evidence
   "cannot provide a definitive answer" to whether it works) recorded in null_result_ids for
-  arthritis.'
+  arthritis.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. Cochrane LBP 2014
+  REF-1261 ("seem to reduce pain more than placebo", moderate quality at best) added to back-pain
+  and pain. OA RCT vs diacerhein REF-3576 added to arthritis (11143915 is the same trial in
+  another journal - not added twice). Notes simplified.'

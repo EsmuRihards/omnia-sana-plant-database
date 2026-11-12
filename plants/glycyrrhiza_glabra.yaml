@@ -140,16 +140,19 @@ actions:
   status: verified
 indications:
 - condition: acid-reflux
-  note: inferred from gastroprotective action
+  note: A deglycyrrhizinated licorice extract (GutGard) relieved heartburn and regurgitation vs placebo
+    in a randomized trial; traditional use for burning sensation and indigestion (EU herbal monograph)
   reference_ids:
   - REF-3081
+  - REF-3572
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
   - REF-0308
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditional anti-inflammatory for rheumatism and arthritis (WHO monograph); anti-inflammatory
+    compounds reported in lab studies (reviews)
   reference_ids:
   - REF-0308
   status: needs-review
@@ -157,7 +160,7 @@ indications:
   - REF-0012
   - REF-0089
 - condition: bronchitis
-  note: inferred from expectorant action
+  note: Traditional expectorant for coughs and bronchial catarrh (WHO monograph)
   reference_ids:
   - REF-0308
   status: needs-review
@@ -165,7 +168,7 @@ indications:
   - REF-0012
   - REF-0089
 - condition: cold
-  note: inferred from antiviral action
+  note: Traditional expectorant for cough associated with colds (EU herbal monograph)
   reference_ids:
   - REF-3081
   status: needs-review
@@ -174,7 +177,7 @@ indications:
   - REF-0089
   - REF-0308
 - condition: cough
-  note: inferred from expectorant action
+  note: Traditional expectorant for cough (EU herbal monograph; WHO monograph)
   reference_ids:
   - REF-0308
   - REF-3081
@@ -183,16 +186,19 @@ indications:
   - REF-0012
   - REF-0089
 - condition: indigestion
-  note: inferred from gastroprotective action
+  note: A licorice extract (GutGard) relieved functional dyspepsia vs placebo in a randomized trial; traditional
+    use for dyspepsia (EU herbal monograph; WHO monograph)
   reference_ids:
   - REF-0308
   - REF-3081
+  - REF-3573
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Traditional antiviral use (WHO monograph); glycyrrhetinic acid was active against tuberculosis
+    bacteria in the lab (preclinical)
   reference_ids:
   - REF-0308
   status: needs-review
@@ -200,7 +206,8 @@ indications:
   - REF-0012
   - REF-0089
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Traditional anti-inflammatory for allergic reactions and arthritis (WHO monograph); licorice flavonoids
+    reduced inflammatory markers in lab studies (preclinical)
   reference_ids:
   - REF-0308
   status: needs-review
@@ -208,7 +215,7 @@ indications:
   - REF-0012
   - REF-0089
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Traditional expectorant for cough and bronchial catarrh (EU herbal monograph; WHO monograph)
   reference_ids:
   - REF-0308
   - REF-3081
@@ -224,6 +231,25 @@ indications:
   - REF-0012
   - REF-0089
   - REF-0308
+- condition: sore-throat
+  note: Gargling or applying licorice before surgery prevented postoperative sore throat (meta-analysis;
+    randomized trial); a traditional soothing remedy for sore throats (WHO monograph)
+  reference_ids:
+  - REF-3569
+  - REF-3570
+  - REF-0308
+  status: verified
+- condition: oral-health
+  note: Topical licorice (paste, patch or mouthwash) helped recurrent mouth ulcers heal in clinical trials
+    (systematic review)
+  reference_ids:
+  - REF-3571
+  status: verified
+- condition: wounds
+  note: A licorice root extract sped healing of second-degree burns in a randomized trial
+  reference_ids:
+  - REF-3574
+  status: verified
 contraindications:
 - note: Avoid prolonged use of whole licorice root in large doses. May cause pseudoaldosteronism (hypertension,
     oedema, hypokalaemia). Contraindicated in hypertension, renal failure, liver disease, hypokalaemia,
@@ -348,7 +374,15 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Medicinal uses text - WHO PDF bot-blocked, flagged; removed from 7 pairs. EU monograph REF-3081
   (digestive symptoms incl. burning sensation and dyspepsia; expectorant in cough associated with
   cold - EMA page 429, flagged) added to acid-reflux, indigestion, cough, cold,
-  respiratory-support.'
+  respiratory-support.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. New pairs (owner
+  rule): sore-throat (MA REF-3569 + RCT REF-3570 + WHO demulcent use), oral-health (aphthous-ulcer
+  SR REF-3571), wounds (burn RCT REF-3574). GutGard (G. glabra, deglycyrrhizinated) RCTs added:
+  reflux REF-3572, functional dyspepsia REF-3573. Inferred notes rewritten to the WHO/EU
+  monographs. REF-0826/REF-0828 retagged narrative-review. OWNER DECISION, not added:
+  liver-support - two NAFLD RCTs (22308054, 35785498) lowered liver enzymes, but the record''s own
+  contraindication lists liver disease. Gap: atopic-dermatitis gel trial 14522625 reports 2% vs 1%
+  only, not vs base gel - no eczema pair.'
 constituents:
 - name: Triterpenoid saponins (glycyrrhizin/glycyrrhizic acid)
   compounds:

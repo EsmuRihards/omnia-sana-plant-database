@@ -95,34 +95,26 @@ dosage:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0157
-  - REF-0170
   - REF-0642
   - REF-0643
   - REF-2418
   - REF-2421
   status: verified
 - action: anticancer
-  reference_ids:
-  - REF-0157
+  reference_ids: []
   status: needs-review
 - action: digestive
   reference_ids:
-  - REF-0157
-  - REF-0170
   - REF-0643
   - REF-0645
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0157
-  - REF-0170
   - REF-0644
   - REF-2420
   status: verified
 - action: neuroprotective
   reference_ids:
-  - REF-0157
   - REF-0170
   - REF-0640
   - REF-0641
@@ -136,26 +128,25 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0157
-  - REF-0170
   - REF-0642
   - REF-0643
 - condition: cancer
-  note: inferred from anticancer action
+  note: Lion's mane compounds slowed gastric cancer cells in lab studies (review; preclinical)
   reference_ids:
   - REF-0645
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0157
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Lion's mane improved cognitive scores in mild cognitive impairment and early Alzheimer's disease
+    in small placebo-controlled trials (systematic review); acute effects in healthy young adults were
+    mixed
   reference_ids:
   - REF-0170
   - REF-0640
   - REF-2419
+  - REF-3579
+  - REF-3580
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0157
   - REF-0642
   null_result_ids:
   - REF-0641
@@ -164,44 +155,38 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0157
-  - REF-0170
   - REF-0644
 - condition: immune-support
   reference_ids:
   - REF-0644
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0157
-  - REF-0170
+  note: Lion's mane polysaccharides stimulated immune cells in the lab (preclinical)
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Lion's mane polysaccharides eased colitis in mice, and anti-inflammatory effects are reported
+    in lab studies (review; preclinical)
   reference_ids:
   - REF-0642
   - REF-0643
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0157
-  - REF-0170
 - condition: memory
-  note: inferred from neuroprotective action
+  note: Lion's mane improved cognitive scores in mild cognitive impairment and early Alzheimer's disease
+    in small placebo-controlled trials, but memory-specific tests and an acute trial in young adults showed
+    no clear effect
   reference_ids:
   - REF-0170
   - REF-2419
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0157
   - REF-0640
   - REF-0642
   null_result_ids:
   - REF-0641
+  - REF-3579
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0157
-  - REF-0170
   - REF-0642
   - REF-0643
 contraindications:
@@ -211,14 +196,12 @@ contraindications:
     or anticoagulant medications.
   severity: caution
   reference_ids:
-  - REF-0157
   - REF-0170
   status: verified
 - note: Duke (2002) does not include a dedicated entry for Lion's mane mushroom (Hericium erinaceus) in
     the Handbook of Medicinal Herbs, Second Edition.
   severity: info
   reference_ids:
-  - REF-0157
   - REF-0170
   - REF-0063
   status: verified
@@ -274,4 +257,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0640 (pilot RCT: speed of performance, stress) kept for cognitive-function only. REF-0642
   (review, retagged) names neuroprotection, not cognition or memory. Pilot RCT REF-2419 (erinacine
   A mycelia in mild AD: better CASI, MMSE, IADL) moved to direct for cognitive-function and
-  memory. REF-0644 (macrophage immunostimulation) removed from cold.'
+  memory. REF-0644 (macrophage immunostimulation) removed from cold.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. REF-0157 (no abstract
+  or identifier, not on Crossref/PubMed) purged and deleted. MCI trial REF-0170 removed from
+  anti-inflammatory, digestive and immunomodulator actions. RCT REF-3579 (MMSE improved; memory
+  tests did not) added to cognitive-function and recorded as no-effect for memory; SR REF-3580
+  added to cognitive-function. Gaps (not added): stress - REF-0640 only a trend (p=0.051);
+  depression/anxiety - RCT 20834180 shows within-group change only, and the SR''s mood claim rests
+  on animal data.'

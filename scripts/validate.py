@@ -836,6 +836,7 @@ def main():
                           f"'unresolvable'")
 
     cited, seen_ids, pair_refs = set(), {}, []
+    former_slugs_all, current_slugs = {}, {}
     files = sorted(glob.glob(os.path.join(PLANTS, "*.yaml")))
     for path in files:
         name = os.path.basename(path)
@@ -898,6 +899,22 @@ def main():
                     errors.append(f"{name}: compound '{cm}' has no entity in compounds/")
         if "common_slug" in d and not SLUG.match(str(d.get("common_slug", ""))):
             errors.append(f"{name}: bad common_slug '{d.get('common_slug')}'")
+        # former_slugs: retired public URL slugs (e.g. after a misspelt primary common
+        # name is corrected). The site 301s every route that carries a former slug to
+        # the current one. Cross-plant uniqueness is checked after the loop.
+        _fs = d.get("former_slugs")
+        if _fs is not None:
+            if not isinstance(_fs, list):
+                errors.append(f"{name}: former_slugs must be a list of slugs")
+            else:
+                for _fsl in _fs:
+                    if not SLUG.match(str(_fsl)):
+                        errors.append(f"{name}: bad former_slugs entry '{_fsl}'")
+                    former_slugs_all.setdefault(str(_fsl), []).append(name)
+        _cur = d.get("common_slug") or re.sub(r"[^a-z0-9]+", "-", str((d.get("common_names") or [d.get("scientific_name", "")])[0]).strip().lower()).strip("-")
+        current_slugs[_cur] = name
+        if d.get("id"):
+            current_slugs[d["id"]] = name
         for it in d.get("drug_class_interactions", []):
             if it.get("drug_class") not in D:
                 errors.append(f"{name}: drug_class '{it.get('drug_class')}' not in drug_classes vocab")
@@ -985,6 +1002,14 @@ def main():
                 warnings.append(f"{name}: parts_used label '{lbl}' not mapped in harvest_parts.yaml")
 
         cited.update(find_refs(d))
+
+    # A retired slug must never shadow a live one (the redirect would hijack another
+    # plant's URL) and must belong to exactly one plant.
+    for _fsl, _owners in former_slugs_all.items():
+        if len(_owners) > 1:
+            errors.append(f"former_slugs '{_fsl}' claimed by several plants: {_owners}")
+        if _fsl in current_slugs:
+            errors.append(f"{_owners[0]}: former_slugs '{_fsl}' is a live slug/id of {current_slugs[_fsl]}")
 
     for (nm, pid) in pair_refs:
         if pid not in seen_ids:

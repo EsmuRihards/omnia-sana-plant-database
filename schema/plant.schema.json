@@ -12,6 +12,7 @@
     "common_names": {"type": "array", "items": {"type": "string"}, "minItems": 1},
     "common_slug": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Public URL slug for /plants/<common_slug>/. Optional OVERRIDE: when omitted, scripts/build.py derives it from the primary common name (collisions fall back to the Latin id). Set explicitly to pin a stable SEO URL and a redirect from the Latin-binomial form."},
     "family": {"type": "string", "description": "Botanical family; must be a real family (never 'Unknown')."},
+    "former_slugs": {"type": "array", "items": {"type": "string", "pattern": "^[a-z0-9-]+$"}, "description": "Retired public URL slugs (e.g. after a misspelt primary common name was corrected). The site 301-redirects every plant route carrying a former slug (/plants/, symptom sources, lookalikes, name dictionary, tincture, compare) to the current slug. Absent = no redirects. validate.py rejects a former slug that is any plant's live slug or id, or is claimed twice."},
     "synonyms": {"type": "array", "items": {"type": "string"}, "description": "Botanical (taxonomic) synonyms."},
     "external_ids": {
       "type": "object",

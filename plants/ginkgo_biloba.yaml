@@ -1,10 +1,11 @@
 id: ginkgo-biloba
 scientific_name: Ginkgo biloba
 common_names:
-- Ginko
 - Ginkgo
 - maidenhair tree
 - ginkgo biloba
+former_slugs:
+- ginko
 family: Ginkgoaceae
 external_ids:
   gbif: 2687885
@@ -129,7 +130,6 @@ actions:
   status: verified
 - action: neuroprotective
   reference_ids:
-  - REF-0056
   - REF-0128
   - REF-0308
   - REF-0824
@@ -146,32 +146,58 @@ indications:
   reference_ids:
   - REF-0308
   status: verified
+  null_result_ids:
+  - REF-3564
+  note: Used for peripheral arterial disease (intermittent claudication) (WHO monograph); a Cochrane review
+    found no clinically significant benefit
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Ginkgo extract EGb 761 improved cognition in people with dementia in trials and meta-analyses;
+    a 2026 Cochrane review found small to moderate benefits in dementia but probably little or no effect
+    in mild cognitive impairment, and a large prevention trial found it did not reduce dementia
   reference_ids:
   - REF-0128
   - REF-0308
   - REF-2186
   - REF-2185
+  - REF-3563
+  - REF-3565
   status: needs-review
   null_result_ids:
   - REF-0056
 - condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Ginkgo leaf extract lowered the inflammation markers CRP, IL-6 and TNF-alpha vs placebo in a meta-analysis
+    of trials
+  reference_ids:
+  - REF-3568
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0308
 - condition: memory
-  note: inferred from neuroprotective action
+  note: Ginkgo extract EGb 761 improved cognition in people with dementia in trials and meta-analyses;
+    a 2026 Cochrane review found probably little or no effect in mild cognitive impairment, and a large
+    prevention trial found it did not reduce dementia
   reference_ids:
   - REF-0128
   - REF-0308
   - REF-2186
   - REF-2185
+  - REF-3563
+  - REF-3565
   status: needs-review
   null_result_ids:
   - REF-0056
+- condition: anxiety
+  note: Ginkgo extract EGb 761 reduced anxiety vs placebo in a randomized trial in generalized anxiety
+    and adjustment disorder; a network meta-analysis also found it effective (small trials)
+  reference_ids:
+  - REF-3566
+  - REF-2546
+  status: verified
+- condition: depression
+  note: A meta-analysis of 21 trials found ginkgo lowered depression scores compared with control groups
+  reference_ids:
+  - REF-3567
+  status: verified
 contraindications:
 - note: Generally well tolerated at standard doses but notable interactions exist. Ginkgo has antiplatelet
     and anticoagulant effects and should not be combined with warfarin, aspirin, or other blood-thinning
@@ -335,4 +361,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (cerebrovascular insufficiency with memory deficit; peripheral arterial occlusive disease) - WHO
   PDF bot-blocked, flagged for owner spot-check; removed from arthritis, inflammation, skin.
   Positive meta-analyses REF-2186 (EGb 761 in dementia) and REF-2185 (early AD, "might improve")
-  moved from mechanistic to direct.'
+  moved from mechanistic to direct.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. Primary common name
+  fixed: "Ginko" was a misspelling -> "Ginkgo" (owner decision 2026-11-12); former_slugs [ginko]
+  so every /ginko/ URL 301s to /ginkgo/. GEM prevention trial REF-0056 removed from the
+  neuroprotective action (null trial). Added 2026 Cochrane review REF-3563 (small-moderate benefit
+  in dementia, little or no effect in MCI) + EGb 761 mild-dementia MA REF-3565 to
+  cognitive-function/memory; superseded Cochrane 2009 (19160216) not added. Cochrane claudication
+  REF-3564 recorded as no-effect on cardiovascular-support. Inflammatory-marker MA REF-3568 added.
+  New pairs (owner rule): anxiety (RCT REF-3566 + held NMA REF-2546), depression (MA REF-3567).
+  REF-0824/REF-0825 retagged narrative-review. Not added (gaps): hyperlipidemia MA 42102021 (HDL
+  vs Western medicine only; a T2DM MA 38264278 found no lipid or glucose effect).'

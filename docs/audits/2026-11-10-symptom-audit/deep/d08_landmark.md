@@ -1,0 +1,434 @@
+# Landmark search batch 8
+
+## geum-rivale (Geum rivale; Water avens) - 0 (+CT) hits; query: ("Geum rivale"[tiab] OR "Water avens"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## ginkgo-biloba (Ginkgo biloba; Ginko) - 474 hits; query: ("Ginkgo biloba"[tiab] OR "Ginko"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41641880 | SR/MA | Ginkgo biloba for cognitive impairment and dementia.
+- new | 2026 | 40747816 | RCT | Comparative Analysis of Therapeutic Methods for Sudden Sensorineural Hearing Loss.
+- new | 2026 | 42394931 | SR | Ginkgo biloba extract for dizziness-related symptoms in central neurological disorders: a systematic review and meta-analysis.
+- new | 2026 | 42377658 | SR | Ginkgo biloba extract as a retinal protective agent: a systematic review of preclinical experiments.
+- new | 2026 | 41678913 | SR | Comparative effects of Bacopa monnieri and Ginkgo biloba on cognitive functions: A systematic review and network meta-analysis.
+- new | 2026 | 42277690 | SR | Efficacy of plant extracts in heart failure patients: a systematic review and network meta-analysis.
+- new | 2026 | 42051256 | SR | Efficacy and safety of Ginkgo biloba leaf extract injection for vascular cognitive impairment: a systematic review and meta-analysis.
+- new | 2026 | 42102021 | MA | Effects and Safety of Ginkgo biloba Extract on Hyperlipidemia: A Meta-Analysis of Randomized Controlled Trial.
+- new | 2026 | 41365395 | SR | Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.
+- new | 2026 | 41830490 | RCT | Tinnitus outcomes after ginkgo biloba extract in sudden sensorineural hearing loss: a dose-comparative and prognostic study.
+- new | 2026 | 42081645 | SR | Ginkgo biloba as a Promising Candidate for Traumatic Brain Injury: Insights From Preclinical and Clinical Studies.
+- new | 2026 | 41101984 | SR | Nutritional Supplements and Cosmetic Formulations: A Review of Emerging Allergens.
+- new | 2026 | 42687999 | SR | Targeting cellular senescence with Traditional Chinese Medicine: advances in neurodegenerative disorder treatment.
+- new | 2026 | 42715390 | RCT | A study on the differences in recovery effects of different types of nutritional supplements on competitive performance of esports athletes under mental fatigue.
+- new | 2025 | 39895346 | MA | Ginkgo biloba extract EGb 761 is safe and effective in the treatment of mild dementia - a meta-analysis of patient subgroups in randomised controlled trials.
+- new | 2025 | 40362791 | SR | Efficiency of Different Supplements in Alleviating Symptoms of ADHD with or Without the Use of Stimulants: A Systematic Review.
+- new | 2025 | 41198594 | SR/MA | Therapeutic strategies in vascular cognitive impairment: A systematic review and meta-analysis.
+- new | 2025 | 40332573 | SR | Pentoxifylline uses in inner ear diseases.
+- new | 2025 | 41601988 | SR | Preclinical evidence of ginkgo biloba extract on diabetic nephropathy: a systematic review and meta-analysis.
+- new | 2025 | 40019748 | SR/MA | Neuroprotective effect and possible mechanisms of the extract of ginkgo biloba for spinal cord injury in experimental animal: a meta-analysis and systematic review.
+- new | 2025 | 39951447 | SR | Efficacy of Ginkgo biloba on parameters in glaucoma: A systematic review.
+- new | 2025 | 40083108 | SR | Systematic Review and Network Meta-Analysis of the Effects of Plant Extracts on Cognitive Function and Quality of Life in Stroke Patients.
+- new | 2025 | 40441764 | SR | Pharmacotherapy options for the management of subjective tinnitus: a systematic review and network meta-analysis.
+- new | 2025 | 41404461 | SR | Network meta-analysis of the efficacy of pharmacological treatments for post-stroke cognitive impairment and vascular cognitive impairment.
+- new | 2025 | 40049636 | RCT | [Prospective randomised controlled observation of tympanic chamber injection of gangliosides in the treatment of refractory sudden deafness].
+- new | 2025 | 41127289 | SR | Pharmacological treatment options for cognitive dysfunction induced by multiple sclerosis: a network meta-analysis.
+- new | 2025 | 41226670 | SR | Natural Products in Alzheimer's Disease: A Systematic Review of Clinical Trials and Underlying Molecular Mechanisms.
+- new | 2025 | 41053896 | RCT | Clinical efficacy of vitamin D combined with conventional therapy for sudden sensorineural hearing loss in patients with vitamin D deficiency: a randomized controlled tri
+- new | 2024 | 38718890 | SR | Efficacy and safety of Ginkgo biloba extract in the treatment of unstable angina pectoris: A systematic review and network meta-analysis.
+- new | 2024 | 39312316 | SR | Effect of long-term pharmacological treatments on Alzheimer disease: A systematic review and network meta-analysis.
+- new | 2024 | 38547138 | SR | Safety and efficacy of antioxidant therapy in children and adolescents with attention deficit hyperactivity disorder: A systematic review and network meta-analysis.
+- new | 2024 | 38562465 | SR | Effects and safety of Ginkgo biloba on depression: a systematic review and meta-analysis.
+- new | 2024 | 39830333 | SR | The efficacy and safety of Ginkgo biloba L. leaves extract combined with ACEI/ARB on diabetic kidney disease: a systematic review and meta-analysis of 41 randomized contr
+- new | 2024 | 38867626 | RCT | [Tongdu Tiaoshen acupuncture for subjective tinnitus:a randomized controlled trial].
+- new | 2024 | 38875437 | RCT | Comparative study of choline alfoscerate as a combination therapy with donepezil: A mixed double-blind randomized controlled and open-label observation trial.
+- new | 2024 | 38701296 | SR | Comparative efficacy and safety of ginkgo-based Chinese patent medicines in patients with hypertension: A systematic review and network meta-analysis of randomized clinic
+- new | 2024 | 39021830 | SR | Efficacy and safety of ginkgo biloba extract combined with donepezil hydrochloride in the treatment of Chinese patients with vascular dementia: A systematic review meta-a
+- new | 2024 | 38706368 | SR | A Systematic Review of Herbal Interventions for the Management of Cardiovascular Diseases.
+- new | 2024 | 39340861 | RCT | Clinical efficacy and mechanism of Ginkgo biloba extract in the treatment of elderly ischemic cerebrovascular disease.
+- new | 2024 | 37844377 | SR | New insight into the mechanisms of Ginkgo biloba leaves in the treatment of cancer.
+- new | 2024 | 38097097 | MA/SR | Clinical effectiveness of pharmacological and non-pharmacological treatments for the management of anxiety in community dwelling people living with dementia: A systematic
+- new | 2024 | 37832809 | Review | Traditional Chinese medicine for neonatal hypoxic-ischemic encephalopathy: A Bayesian network meta-analysis.
+- new | 2024 | 38919004 | RCT | Ginkgo biloba for Tardive Dyskinesia and Plasma MnSOD Activity: Association with MnSOD Ala-9Val Variant: A Randomized, Double-blind Trial.
+- new | 2024 | 38430820 | RCT | Efficacy and safety evaluation of Ginkgo biloba dropping pill (GBDP) on stable angina pectoris complicated with depression: A placebo-controlled, randomized, double-blind
+- new | 2024 | 38904550 | SR | Comprehensive Exploration of the Neuroprotective Mechanisms of Ginkgo biloba Leaves in Treating Neurological Disorders.
+- HELD REF-0741 | 2023 | 34978226 | SR | Plant-derived nootropics and human cognition: A systematic review.
+- new | 2023 | 36880363 | SR | A systematic review of cognitive interventions for adult patients with brain tumours.
+- new | 2023 | 36728740 | SR | Efficacy and safety of herbal medicine on dementia and cognitive function: An umbrella review of systematic reviews and meta-analysis.
+- new | 2023 | 37573807 | SR | Neurovascular glial unit: A target of phytotherapy for cognitive impairments.
+- new | 2023 | 38264278 | MA/SR | Effects and safety of Ginkgo biloba on blood metabolism in type 2 diabetes mellitus: a systematic review and meta-analysis.
+- new | 2023 | 36960422 | SR | Effectiveness and safety of ginkgo biloba preparations in the treatment of Alzheimer's disease: A systematic review and meta-analysis.
+- new | 2023 | 37592293 | SR | A systematic review of the safety and efficacy on cognitive function of herbal and nutritional medicines in older adults with and without subjective cognitive impairment.
+- new | 2023 | 36610136 | SR | Antioxidative hypoglycemic herbal medicines with in vivo and in vitro activity against C-reactive protein; a systematic review.
+- HELD REF-2546 | 2022 | 35378276 | SR | Medicinal herbs for the treatment of anxiety: A systematic review and network meta-analysis.
+- HELD REF-2183 | 2022 | 36383762 | SR | Ginkgo biloba for tinnitus.
+- new | 2022 | 35861710 | SR | Traditional Chinese Medicine Injections for Diabetic Retinopathy: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.
+- new | 2022 | 35781715 | MA/SR | Beneficial effects of Ginkgo biloba leaf extract on inflammatory markers: A systematic review and meta-analysis of the clinical trials.
+- new | 2022 | 34474140 | MA/SR | Efficacy and safety of standardized Ginkgo biloba L. leaves extract as an adjuvant therapy for sudden sensorineural hearing loss: A systematic review and meta-analysis.
+- new | 2022 | 34924395 | MA/SR | The Efficacy and Safety of Alzheimer's Disease Therapies: An Updated Umbrella Review.
+- new | 2022 | 35294126 | RCT | Effectiveness and safety of Ginkgo biloba extract (GBE50) in the treatment of dizziness caused by cerebral arteriosclerosis: a multi-center, double-blind, randomized cont
+- HELD REF-2185 | 2022 | 35159288 | MA/Review | Can We Use Ginkgo biloba Extract to Treat Alzheimer's Disease? Lessons from Preclinical and Clinical Studies.
+- new | 2022 | 35592415 | SR | Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis.
+- new | 2022 | 35935837 | SR | The Efficacy and Safety of Ischemic Stroke Therapies: An Umbrella Review.
+- new | 2022 | 36199780 | RCT/Retracted Publication | Efficacy of Ginkgo biloba Extract Combined with Hormones in the Treatment of Sudden Deafness and Its Effect on the Reactivity of Peripheral Blood T Cell Subsets.
+- new | 2022 | 36380973 | SR | Platelet Aggregation Inhibition: An Evidence-Based Systematic Review on the Role of Herbs for Primary Prevention Based on Randomized Controlled Trials.
+- new | 2022 | 35410753 | RCT | Efficacy and Safety of SID142 in Patients With Peripheral Arterial Disease: A Multicenter, Randomized, Double-Blind, Active-Controlled, Parallel-Group, Phase III Clinical
+- new | 2022 | 36501109 | RCT | Investigating the Effects of a Multinutrient Supplement on Cognition, Mood and Biochemical Markers in Middle-Aged Adults with 'Optimal' and 'Sub-Optimal' Diets: A Randomi
+- new | 2022 | 36762332 | RCT | Investigating the efficacy of Ginkgo biloba on the cognitive function of patients undergoing treatment with electric shock: a double-blind clinical trial.
+- new | 2021 | 32478963 | SR | Warfarin and food, herbal or dietary supplement interactions: A systematic review.
+- new | 2021 | 34504643 | MA/SR | EGb in the Treatment for Patients with VCI: A Systematic Review and Meta-Analysis.
+- new | 2021 | 34951189 | MA/SR | [Systematic review of efficacy and safety of Ginkgo biloba extract 50 in treatment of ischemic stroke].
+- new | 2021 | 35155509 | SR | The Effect of Polyphenols on Working and Episodic Memory in Non-pathological and Pathological Aging: A Systematic Review and Meta-Analysis.
+- new | 2021 | 33966619 | SR | Bioactive Compounds Effective Against Type 2 Diabetes Mellitus: A Systematic Review.
+- new | 2020 | 32385655 | SR | Taste disorder's management: a systematic review.
+- new | 2020 | 32658034 | MA/SR | Meta-analysis of Ginkgo biloba Preparation for the Treatment of Alzheimer's Disease.
+- new | 2020 | 32349519 | MA/SR | Efficacy and Safety of Ginkgo biloba in Patients with Acute Ischemic Stroke: A Systematic Review and Meta-Analysis.
+- new | 2020 | 32520732 | SR | Therapeutic Interventions for Adjustment Disorder: A Systematic Review.
+- new | 2020 | 31914035 | MA/SR | Ginkgol Biloba extract as an adjunctive treatment for ischemic stroke: A systematic review and meta-analysis of randomized clinical trials.
+- new | 2020 | 31746018 | SR | Comparative effectiveness of Ginkgo injections for treating vertebrobasilar insufficiency: A systematic review and network meta-analysis.
+- new | 2019 | 30699444 | MA/SR | Systematic Review and Meta-Analysis of Randomised, Other-than-Placebo Controlled, Trials of Non-Individualised Homeopathic Treatment.
+- new | 2019 | 30341543 | SR | [Antipsychotic-induced motor symptoms in schizophrenic psychoses-Part 3 : Tardive dyskinesia].
+- new | 2019 | 31407622 | RCT | Effect of Pushen capsule for treating vascular mild cognitive impairment: a pilot observational study.
+- new | 2019 | 30296451 | SR | Nutritional supplementation in the treatment of glaucoma: A systematic review.
+- new | 2019 | 31681006 | SR | Ginkgolide B for Myocardial Ischemia/Reperfusion Injury: A Preclinical Systematic Review and Meta-Analysis.
+- new | 2019 | 30729756 | SR | A systematic review of research investigating the physiological and psychological effects of combining Ginkgo biloba and Panax ginseng into a single treatment in humans: 
+- HELD REF-2547 | 2018 | 29575228 | SR | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review.
+- new | 2018 | 29454493 | SR | Updating the recommendations for treatment of tardive syndromes: A systematic review of new evidence and practical treatment algorithm.
+- new | 2018 | 29168225 | SR | GABA-modulating phytomedicines for anxiety: A systematic review of preclinical and clinical evidence.
+- new | 2018 | 29552749 | MA/SR | Miscellaneous treatments for antipsychotic-induced tardive dyskinesia.
+- new | 2018 | 29289576 | SR | Botanicals and phytochemicals active on cognitive decline: The clinical evidence.
+- new | 2018 | 29373456 | SR | Natural Medicines for Psychotic Disorders: A Systematic Review.
+- new | 2018 | 30121603 | MA/SR | Ginkgo biloba extract for prevention of acute mountain sickness: a systematic review and meta-analysis of randomised controlled trials.
+- new | 2018 | 29942120 | MA/Review | Ginkgo biloba extract EGb 761(®) alleviates neurosensory symptoms in patients with dementia: a meta-analysis of treatment effects on tinnitus and dizziness in randomized,
+- new | 2018 | 28931444 | MA/Review | Treatment effects of Ginkgo biloba extract EGb 761® on the spectrum of behavioral and psychological symptoms of dementia: meta-analysis of randomized controlled trials.
+- new | 2018 | 32185946 | SR | Injections of ginkgo in the treatment of cerebral infarction: a systematic review and network Meta-analysis.
+- new | 2018 | 28772005 | RCT | The effects of antioxidants on ocular blood flow in patients with glaucoma.
+- new | 2018 | 29732913 | MA/SR | Augmentation strategies for clozapine refractory schizophrenia: A systematic review and meta-analysis.
+- new | 2018 | 29341310 | MA/SR | Critical appraisal of the oxidative stress pathway in vitiligo: a systematic review and meta-analysis.
+- new | 2018 | 29670330 | RCT | The efficacy and safety of Ginkgo biloba extract as an adjuvant in type 2 diabetes mellitus patients ineffectively managed with metformin: a double-blind, randomized, pla
+- new | 2018 | 29255909 | SR | Over-the-Counter Supplement Interventions to Prevent Cognitive Decline, Mild Cognitive Impairment, and Clinical Alzheimer-Type Dementia: A Systematic Review.
+- new | 2018 | 29306777 | SR | The alveolar bone protective effects of natural products: A systematic review.
+- new | 2017 | 27940086 | SR | Effects of Ginkgo biloba on dementia: An overview of systematic reviews.
+- new | 2017 | 29196903 | SR | Concurrent Use of Prescription Drugs and Herbal Medicinal Products in Older Adults: A Systematic Review.
+- new | 2017 | 27899689 | MA/SR | Herbal medicine for management of the behavioural and psychological symptoms of dementia (BPSD): A systematic review and meta-analysis.
+- new | 2016 | 26848926 | MA/SR | Antioxidant treatments for schizophrenia.
+- new | 2016 | 26547700 | RCT | Antioxidant therapy in the elderly with tinnitus.
+- new | 2016 | 26979525 | MA/Review | Extract of Ginkgo biloba for Tardive Dyskinesia: Meta-analysis of Randomized Controlled Trials.
+- new | 2016 | 26268332 | MA/SR | Ginkgo Biloba for Mild Cognitive Impairment and Alzheimer's Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2016 | 27121704 | SR | Interventions to delay functional decline in people with dementia: a systematic review of systematic reviews.
+- new | 2016 | 26887532 | MA/SR | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies.
+- new | 2016 | 29771066 | RCT | [Intratympatic budesonide injection for treatment of refractorysudden sensorineural hearing loss].
+- new | 2016 | 26879592 | SR | Pharmacologic treatment for postviral olfactory dysfunction: a systematic review.
+- new | 2016 | 26559533 | RCT | The efficacy and safety of systemic injection of Ginkgo biloba extract, EGb761, in idiopathic sudden sensorineural hearing loss: a randomized placebo-controlled clinical 
+- new | 2016 | 27147264 | RCT | Effects of Ginkgo biloba extract EGb 761® on cognitive control functions, mental activity of the prefrontal cortex and stress reactivity in elderly adults with subjective
+- HELD REF-0829 | 2015 | 25114079 | MA/SR | Efficacy and adverse effects of ginkgo biloba for cognitive impairment and dementia: a systematic review and meta-analysis.
+- new | 2015 | 25710794 | MA/SR | Interventions for vitiligo.
+- new | 2015 | 26058281 | MA/SR | Ginkgo biloba for prevention of dementia: a systematic review and meta-analysis.
+- new | 2015 | 25749902 | MA/SR | Ginkgo Biloba extract for angina pectoris: a systematic review.
+- new | 2015 | 25980333 | MA/SR | Efficacy and safety of extract of Ginkgo biloba as an adjunct therapy in chronic schizophrenia: A systematic review of randomized, double-blind, placebo-controlled studie
+- new | 2015 | 26563011 | RCT | Efficacy of medical therapy in the prevention of residual dizziness after successful repositioning maneuvers for Benign Paroxysmal Positional Vertigo (BPPV).
+- new | 2015 | 26601726 | MA/SR | Drug and Exercise Treatment of Alzheimer Disease and Mild Cognitive Impairment: A Systematic Review and Meta-Analysis of Effects on Cognition in Randomized Controlled Tri
+- new | 2015 | 25623439 | SR | Systematic review of pharmacologic and non-pharmacologic interventions to manage cognitive alterations after chemotherapy for breast cancer.
+- new | 2015 | 26189203 | RCT | Cognitive Impairment and Community Integration Outcomes in Individuals Living With Multiple Sclerosis.
+- new | 2015 | 26361790 | SR | Individually modifiable risk factors to ameliorate cognitive aging: a systematic review and meta-analysis.
+- new | 2015 | 25925875 | RCT | Ginkgo biloba in the treatment of attention-deficit/hyperactivity disorder in children and adolescents. A randomized, placebo-controlled, trial.
+- new | 2015 | 26541843 | MA | [System evaluation on Ginkgo Biloba extract in the treatment of acute cerebral infarction].
+- new | 2015 | 25597699 | RCT | Effect of single-dose Ginkgo biloba and Panax ginseng on driving performance.
+- new | 2015 | 26286700 | SR | Over-the-counter anti-oxidant therapies for use in multiple sclerosis: A systematic review.
+- new | 2014 | 25328113 | SR | Tinnitus.
+- new | 2014 | 25004874 | MA/SR | Ginkgo biloba on focal cerebral ischemia: a systematic review and meta-analysis.
+- new | 2014 | 24877716 | SR | Ginkgo biloba extract for essential hypertension: a systemic review.
+- new | 2014 | 25506211 | MA/SR | Efficacy and tolerability of Ginkgo biloba extract EGb 761® in dementia: a systematic review and meta-analysis of randomized placebo-controlled trials.
+- new | 2014 | 25121994 | MA/Review | Non-glutamatergic clozapine augmentation strategies: a review and meta-analysis.
+- new | 2014 | 25098260 | RCT | Effects of Ginkgo biloba extract on periodontal pathogens and its clinical efficacy as adjuvant treatment.
+- new | 2014 | 25031533 | RCT | Adjunctive treatment with oral AKL1, a botanical nutraceutical, in chronic obstructive pulmonary disease.
+- new | 2013 | 23543524 | MA/SR | Ginkgo biloba for tinnitus.
+- new | 2013 | 23744597 | MA/SR | Ginkgo biloba for intermittent claudication.
+- new | 2013 | 23596051 | RCT | In vivo assessment of amyloid-β deposition in nondemented very elderly subjects.
+- new | 2013 | 24016561 | RCT | [Multi-center study on the treatment of sudden total deafness].
+- new | 2013 | 23440785 | SR | Ginkgo biloba extract for age-related macular degeneration.
+- new | 2013 | 23950642 | RCT | Effect of Memo®, a natural formula combination, on Mini-Mental State Examination scores in patients with mild cognitive impairment.
+- new | 2013 | 22588577 | RCT | Relationship satisfaction as a predictor of treatment response during cognitive behavioral sex therapy.
+- new | 2013 | 23292640 | MA | Ginkgo biloba extract EGb 761 in the treatment of dementia: a pharmacoeconomic analysis of the Austrian setting.
+- new | 2012 | 23870856 | SR | Dementia.
+- new | 2012 | 22331367 | SR | Tinnitus.
+- new | 2012 | 22275325 | SR | Do dietary supplements have beneficial health effects in industrialized nations: what is the evidence?
+- new | 2012 | 23001963 | MA/Review | Is Ginkgo biloba a cognitive enhancer in healthy individuals? A meta-analysis.
+- new | 2012 | 23213757 | RCT | [Epley's manoeuvre versus Epley's manoeuvre plus labyrinthine sedative in the management of benign paroxysmal positional vertigo: prospective, randomised study].
+- new | 2011 | 21975787 | MA/SR | Pharmacologic treatment for memory disorder in multiple sclerosis.
+- new | 2011 | 21923430 | MA/SR | Is there a risk of bleeding associated with standardized Ginkgo biloba extract therapy? A systematic review and meta-analysis.
+- new | 2011 | 21647656 | RCT | Acute effects of Ginkgo biloba extract on vascular function and blood pressure.
+- new | 2011 | 21601431 | SR | Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence.
+- new | 2010 | 21726471 | SR | Dementia.
+- new | 2010 | 20236541 | MA/SR | Effects of Ginkgo biloba in dementia: systematic review and meta-analysis.
+- new | 2010 | 21170694 | SR | Ginkgo biloba in Alzheimer's disease: a systematic review.
+- new | 2010 | 20464671 | MA | From the Cochrane library: Ginkgo biloba for intermittent claudication.
+- HELD REF-2436 | 2009 | 19719333 | SR | Interactions between herbal medicines and prescribed drugs: an updated systematic review.
+- new | 2009 | 21726476 | SR | Tinnitus.
+- new | 2009 | 19370657 | MA/SR | Ginkgo biloba for intermittent claudication.
+- new | 2009 | 19160216 | MA/SR | Ginkgo biloba for cognitive impairment and dementia.
+- new | 2009 | 19086008 | MA/SR | Herbal medicine for dementia: a systematic review.
+- new | 2009 | 19621278 | MA/Review | [Ginkgo biloba extract EGb 761 in the treatment of dementia: evidence of efficacy and tolerability].
+- new | 2009 | 19364166 | RCT | Ginkgo biloba does--and does not--prevent acute mountain sickness.
+- HELD REF-0056 | 2008 | 19017911 | RCT | Ginkgo biloba for prevention of dementia: a randomized controlled trial.
+- new | 2008 | 18498646 | SR | A systematic review of natural health product treatment for vitiligo.
+- new | 2007 | 19454115 | SR | Tinnitus.
+- new | 2007 | 17443523 | MA/SR | Ginkgo biloba for cognitive impairment and dementia.
+- new | 2007 | 17463317 | MA/SR | Meta-analysis of traditional Chinese patent medicine for ischemic stroke.
+- new | 2007 | 17125579 | SR | 'Complementary ENT': a systematic review of commonly used supplements.
+- new | 2006 | 17050802 | RCT | Investigation of the effects of herbal medicines on warfarin response in healthy subjects: a population pharmacokinetic-pharmacodynamic modeling approach.
+- new | 2006 | 16688997 | RCT | [Effects of Ginaton on the markers of myocardial injury during cardiopulmonary bypass].
+- new | 2005 | 16235335 | MA/SR | Ginkgo biloba for acute ischaemic stroke.
+- new | 2005 | 16114087 | Clinical Trial/RCT | Effects of Ginkgo biloba on haemostatic factors and inflammation in chronic peritoneal dialysis patients.
+- new | 2005 | 15939048 | SR | Complementary therapies for peripheral arterial disease: systematic review.
+- new | 2005 | 15710792 | Clinical Trial/RCT | Ginkgo biloba and acetazolamide prophylaxis for acute mountain sickness: a randomized, placebo-controlled trial.
+- new | 2004 | 15228642 | SR | Evidence-based pharmacotherapy of Alzheimer's disease.
+- new | 2004 | 15106224 | SR | Ginkgo biloba for tinnitus.
+- new | 2004 | 15142066 | Clinical Trial/MA/RCT | Ginkgo biloba does not benefit patients with tinnitus: a randomized placebo-controlled double-blind trial and meta-analysis of randomized trials.
+- new | 2003 | 13130386 | Clinical Trial/RCT | Pharmacokinetics of Ginkgo biloba extracts.
+- new | 2003 | 12628617 | Clinical Trial/RCT | A pilot trial of piracetam and ginkgo biloba for the treatment of cocaine dependence.
+- new | 2002 | 12235448 | Clinical Trial/RCT | Cytochrome P450 phenotypic ratios for predicting herb-drug interactions in humans.
+- new | 2002 | 12002672 | Clinical Trial/RCT | Pharmacokinetics and bioavailability of a Ginkgo biloba extract.
+- new | 2002 | 12519586 | MA/SR | Ginkgo biloba for cognitive impairment and dementia.
+- new | 2001 | 11122556 | SR | Herbal-drug therapy interactions: a focus on dementia.
+- new | 2001 | 11772128 | SR | Interactions between herbal medicines and prescribed drugs: a systematic review.
+- new | 2001 | 11495672 | Clinical Trial/RCT | The effect of Ginkgo biloba on memory in healthy male volunteers.
+- new | 2001 | 11154618 | Clinical Trial/RCT | Effectiveness of Ginkgo biloba in treating tinnitus: double blind, placebo controlled trial.
+- new | 2001 | 11407240 | MA | [Rational therapy of Alzheimer dementia based on current clinical studies].
+- new | 2001 | 11466162 | Clinical Trial/RCT | Neuropsychological changes after 30-day Ginkgo biloba administration in healthy participants.
+- new | 2000 | 10796819 | SR | Ginkgo biloba extract for age-related macular degeneration.
+- new | 2000 | 11014719 | MA | Ginkgo biloba extract for the treatment of intermittent claudication: a meta-analysis of randomized trials.
+- new | 2000 | 10852639 | MA | Pharmacological management of intermittent claudication: a meta-analysis of randomised trials.
+- new | 2000 | 10915127 | SR | Efficacy and harm of pharmacological prevention of acute mountain sickness: quantitative systematic review.
+- new | 1999 | 10534086 | SR | Diagnosis and management of Alzheimer disease.
+- new | 1999 | 10641953 | MA | Herbal medications for common ailments in the elderly.
+- new | 1999 | 10384838 | Clinical Trial/RCT/Review | Ginkgo biloba for tinnitus: a review.
+- new | 1999 | 10385132 | Clinical Trial/RCT | Ginkgo biloba extract increases ocular blood flow velocity.
+- new | 1994 | 8179518 | Clinical Trial/RCT | Ginkgo biloba extract for the treatment of tinnitus.
+- new | 1994 | 8203766 | Clinical Trial/RCT | Study of the antiischemic action of EGb 761 in the treatment of peripheral arterial occlusive disease by TcPo2 determination.
+- new | 1990 | 2383302 | Clinical Trial/RCT | Effect of Ginkgo biloba on fluidity of blood and peripheral microcirculation in volunteers.
+
+## glycyrrhiza-glabra (Glycyrrhiza glabra; Licorice root) - 41 hits; query: ("Glycyrrhiza glabra"[tiab] OR "Licorice root"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2027 | 42480877 | SR | Herb-drug interactions with clinical impact: A systematic review of global clinical evidence on medicinal plants widely used in Ecuador.
+- new | 2026 | 41863469 | SR | From Mechanism to Therapy: Isoliquiritigenin as a Novel Anti-Inflammatory Agent for Inflammatory Disease Management.
+- new | 2026 | 41177239 | SR | A comprehensive review of Glycyrrhiza glabra in the management of rheumatoid arthritis: ethnopharmacology, pharmacological mechanisms and synergistic therapeutic strategi
+- new | 2026 | 41616684 | RCT | Efficacy and immunomodulatory effects of licorice nasal spray in allergic rhinitis: A clinical study comparing with conventional steroid treatment.
+- new | 2025 | 39929150 | RCT | Efficacy and Safety of GutGard® in Managing Gastroesophageal Reflux-Related Symptoms: A Phase III, Single-Centre, Double-Blind, Randomized Placebo-Controlled Trial.
+- new | 2025 | 40665717 | RCT | A Comparative evaluation of locally delivered licorice gel and tetracycline gel as an adjunct to non-surgical therapy in the treatment of controlled type -2 diabetic pati
+- new | 2024 | 39110055 | SR | Medicinal Plants Cultivated in Egypt with Antiviral Potential: A Systematic Review.
+- new | 2024 | 38464716 | SR | The additive effect of herbal medicines on lifestyle modification in the treatment of non-alcoholic fatty liver disease: a systematic review and meta-analysis.
+- new | 2023 | 37786470 | SR | Topical Licorice for Aphthous: A Systematic Review of Clinical Trials.
+- new | 2023 | 37847472 | RCT | Efficacy and safety of licorice (Glycyrrhiza glabra) in moderately ill patients with COVID-19: a randomized controlled trial.
+- new | 2023 | 38283346 | RCT | Nebulized glycyrrhizin/enoxolone drug modulates IL-17A in COVID-19 patients: a randomized clinical trial.
+- new | 2023 | 36870516 | RCT | Impact of licorice root on the burn healing process: A double-blinded randomized controlled clinical trial.
+- new | 2022 | 36120351 | SR | Herbal medicine for amyotrophic lateral sclerosis: A systematic review and meta-analysis.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2022 | 35785498 | RCT | Effects of licorice root supplementation on liver enzymes, hepatic steatosis, metabolic and oxidative stress parameters in women with nonalcoholic fatty liver disease: A 
+- new | 2021 | 34602412 | RCT | Analysis of Unani coded formulation on the hormonal parameters of patients with polycystic ovarian syndrome.
+- new | 2021 | 32525777 | SR | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review.
+- new | 2020 | 33402612 | SR | Effectiveness of licorice in preventing dental caries in children: A systematic review.
+- new | 2020 | 31574343 | RCT | Efficacy of oral administration of licorice as an adjunct therapy on improving the symptoms of patients with Parkinson's disease, A randomized double blinded clinical tri
+- new | 2020 | 32444056 | RCT | The effects of licorice containing diphenhydramine solution on recurrent aphthous stomatitis: A double-blind, randomized clinical trial.
+- new | 2020 | 32147070 | RCT | The effectiveness of a traditional Persian medicine preparation in the treatment of chronic cough: A randomized, double-blinded, placebo-controlled clinical trial.
+- new | 2019 | 30391446 | MA/SR | Topical application of licorice for prevention of postoperative sore throat in adults: A systematic review and meta-analysis.
+- new | 2019 | 30690691 | RCT | Anti-Inflammatory Effect of a Novel Topical Herbal Composition (VEL-091604) Consisting of Gentian Root, Licorice Root and Willow Bark Extract.
+- new | 2019 | 31287184 | RCT | Impact of educational (sign language/video modeling) and therapeutic (Glycyrrhiza glabra--liquorice mouth wash) interventions on oral health pertaining to children with h
+- new | 2019 | 31464895 | RCT | Fermented milk containing Lactobacillus paracasei and Glycyrrhiza glabra has a beneficial effect in patients with Helicobacter pylori infection: A randomized, double-blin
+- new | 2018 | 29433679 | MA/SR | Metabolic changes after licorice consumption: A systematic review with meta-analysis and trial sequential analysis of clinical trials.
+- new | 2017 | 28685911 | RCT | Combined Lifestyle and Herbal Medicine in Overweight Women with Polycystic Ovary Syndrome (PCOS): A Randomized Controlled Trial.
+- new | 2016 | 27268043 | SR | Medicinal plants--prophylactic and therapeutic options for gastrointestinal and respiratory diseases in calves and piglets? A systematic review.
+- new | 2016 | 27564395 | SR | The efficacy of herbal medicines against Toxoplasma gondii during the last 3 decades: a systematic review.
+- new | 2016 | 26902403 | RCT | Bone health nutraceuticals alter microarray mRNA gene expression: A randomized, parallel, open-label clinical study.
+- new | 2015 | 25251944 | SR | Adverse effects of plant food supplements and botanical preparations: a systematic review with critical evaluation of causality.
+- new | 2015 | 25627817 | RCT | Effects of inclusion of licorice (Glycyrrhiza glabra L.) leaves, a tannin-containing plant, in a low-protein diet on feedlot performance and carcass characteristics of fa
+- new | 2013 | 23724529 | RCT | Ankaferd blood stopper in episiotomy repair.
+- new | 2012 | 22308054 | RCT | The efficacy of licorice root extract in decreasing transaminase activities in non-alcoholic fatty liver disease: a randomized controlled clinical trial.
+- new | 2010 | 20858178 | SR | The efficacy and safety of herbal medicines used in the treatment of hyperlipidemia; a systematic review.
+- new | 2010 | 21139557 | RCT | Adjuvant role of a new emollient cream in patients with palmar and/or plantar psoriasis: a pilot randomized open-label study.
+- new | 2007 | 17661330 | RCT | The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD25 expression in humans: a pilot study.
+- new | 2007 | 17634165 | RCT | Clinical safety of licorice flavonoid oil (LFO) and pharmacokinetics of glabridin in healthy humans.
+- new | 2004 | 15123365 | SR | Complementary and alternative therapies in the treatment of chronic hepatitis C: a systematic review.
+- new | 2003 | 14522625 | Clinical Trial/RCT | The treatment of atopic dermatitis with licorice gel.
+- new | 2003 | 12809357 | Clinical Trial/RCT | Double-blind, placebo-controlled, randomized, pilot clinical trial of ImmunoGuard--a standardized fixed combination of Andrographis paniculata Nees, with Eleutherococcus 
+
+## gymnema-sylvestre (Gymnema sylvestre; Gymnema) - 28 (+CT) hits; query: ("Gymnema sylvestre"[tiab] OR "Asclepias geminata"[tiab] OR "Periploca sylvestris"[tiab] OR "Gymnema"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40944109 | RCT | The Effect of Gymnema Sylvestre on Motivation to Consume Sweet Foods-A Qualitative Investigation.
+- new | 2025 | 39855349 | RCT | The effect of a 14-day Gymnema sylvestre intervention to reduce sugar intake in people self-identifying with a sweet tooth.
+- HELD REF-2542 | 2024 | 39064727 | RCT | Comparative Effects of Gymnema sylvestre and Berberine on Adipokines, Body Composition, and Metabolic Parameters in Obese Patients: A Randomized Study.
+- new | 2024 | 39125340 | RCT | Efficacy and Tolerability of a Food Supplement Based on Zea mays L., Gymnema sylvestre (Retz.) R.br.ex Sm, Zinc and Chromium for the Maintenance of Normal Carbohydrate Me
+- HELD REF-2541 | 2023 | 36580574 | MA/SR | The effects of Gymnema Sylvestre supplementation on lipid profile, glycemic control, blood pressure, and anthropometric indices in adults: A systematic review and meta-an
+- HELD REF-2543 | 2022 | 36558446 | RCT | The Effect of a 14-Day gymnema sylvestre Intervention to Reduce Sugar Cravings in Adults.
+- new | 2022 | 35647942 | RCT | Plant Extracts as Add-On Therapeutics in Homeopathy: An Open-Label, Randomized Trial Using Mother Tinctures in Prediabetes.
+- HELD REF-2540 | 2021 | 34467577 | MA/SR | The effect of Gymnema sylvestre supplementation on glycemic control in type 2 diabetes patients: A systematic review and meta-analysis.
+- new | 2021 | 33475054 | SR | Ethnomedicinal Plants for the Management of Diabetes Worldwide: A Systematic Review.
+- new | 2021 | 32460589 | RCT | Effect of Gymnema sylvestre Administration on Glycemic Control, Insulin Secretion, and Insulin Sensitivity in Patients with Impaired Glucose Tolerance.
+- new | 2020 | 32353974 | RCT | Suppression of Oral Sweet Sensations during Consumption of Sweet Food in Humans: Effects on Gastric Emptying Rate, Glycemic Response, Appetite, Food Satisfaction and Desi
+- new | 2019 | 31421394 | RCT | Suppression of sweet sensing with glucose, but not aspartame, delays gastric emptying and glycemic response.
+- new | 2017 | 28606563 | RCT | Participants with pharmacologically impaired taste function seek out more intense, higher calorie stimuli.
+- new | 2017 | 28459647 | RCT | Effect of Gymnema sylvestre Administration on Metabolic Syndrome, Insulin Sensitivity, and Insulin Secretion.
+- new | 2014 | 24166097 | SR | A systematic review of Gymnema sylvestre in obesity and diabetes management.
+- new | 2014 | 24976431 | RCT | Short-term effect of G-400, polyherbal formulation in the management of hyperglycemia and hyperlipidemia conditions in patients with type 2 diabetes mellitus.
+- new | 2013 | 23876572 | SR | Plant extracts with appetite suppressing properties for body weight control: a systematic review of double blind randomized controlled clinical trials.
+- new | 2011 | 22432729 | SR | An evidence-based systematic review of gymnema (Gymnema sylvestre R. Br.) by the Natural Standard Research Collaboration.
+- new | 2010 | 20812281 | Clinical Trial | A novel Gymnema sylvestre extract stimulates insulin secretion from human islets in vivo and in vitro.
+- HELD REF-2466 | 2010 | 22432517 |  | An open label study on the supplementation of Gymnema sylvestre in type 2 diabetics.
+- HELD REF-3060 | 2007 | 18047444 | SR | Gymnema sylvestre for diabetes mellitus: a systematic review.
+- new | 2005 | 16366421 | RCT | Efficacy of a novel calcium/potassium salt of (-)-hydroxycitric acid in weight control.
+- new | 2004 | 15056124 | Clinical Trial/RCT | Effects of a natural extract of (-)-hydroxycitric acid (HCA-SX) and a combination of HCA-SX plus niacin-bound chromium and Gymnema sylvestre extract on weight loss.
+- new | 2003 | 12663610 | SR | Systematic review of herbs and dietary supplements for glycemic control in diabetes.
+- new | 2002 | 12006375 | Clinical Trial | Taste suppression following lingual capsaicin pre-treatment in humans.
+- new | 1990 | 2259216 | Clinical Trial | Use of Gymnema sylvestre leaf extract in the control of blood glucose in insulin-dependent diabetes mellitus.
+- HELD REF-2465 | 1990 | 2259217 | Clinical Trial | Antidiabetic effect of a leaf extract from Gymnema sylvestre in non-insulin-dependent diabetes mellitus patients.
+- new | 1969 | 5792442 | Clinical Trial | Inhibition of the sweet taste by Gymnema sylvestre.
+
+## hamamelis-virginiana (Hamamelis virginiana; Witch Hazel) - 6 (+CT) hits; query: ("Hamamelis virginiana"[tiab] OR "Witch Hazel"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41468068 | RCT | Comparison of the Effects of Breast Milk and Hamamelis virginiana (Witch Hazel) on the Healing of Diaper Dermatitis in Infants: A Randomized Trial.
+- new | 2018 | 30052192 | RCT | Understanding Solar Skin Elastosis-Cause and Treatment.
+- new | 2017 | 28091974 | Clinical Trial | Clinical trial shows lasting function of a new moisturizing cream against vaginal dryness.
+- new | 2015 | 26423504 | RCT | Effectiveness of Oral Antiseptics on Tooth Biofilm: A Study in vivo.
+- HELD REF-3527 | 2013 | 23337964 | RCT | [Antiinflammatory potential of seven plant extracts in the ultraviolet erythema test. A randomized, placebo-controlled study].
+- new | 1998 | 9621139 | Clinical Trial/RCT | Anti-inflammatory effect of hamamelis lotion in a UVB erythema test.
+
+## harpagophytum-procumbens (Harpagophytum procumbens; Devil's Claw) - 21 (+CT) hits; query: ("Harpagophytum procumbens"[tiab] OR "Devil's Claw"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2024 | 39446666 | RCT | Investigating the Additive Effects of Loxacon(®) Food Supplement Capsules in Patients with Knee Osteoarthritis. A Multicenter, Randomized, Double-Blind, Controlled, Cross
+- new | 2021 | 34067240 | RCT | Analysis of Effectiveness of a Supplement Combining Harpagophytum procumbens, Zingiber officinale and Bixa orellana in Healthy Recreational Runners with Self-Reported Kne
+- new | 2017 | 28872719 | MA/SR | Oral herbal medicines marketed in Brazil for the treatment of osteoarthritis: A systematic review and meta-analysis.
+- new | 2017 | 28614869 | RCT | A Rosa canina - Urtica dioica - Harpagophytum procumbens/zeyheri Combination Significantly Reduces Gonarthritis Symptoms in a Randomized, Placebo-Controlled Double-Blind 
+- new | 2016 | 26630428 | SR | Herbal Medicine for Low Back Pain: A Cochrane Review.
+- HELD REF-1261 | 2014 | 25536022 | MA/SR | Herbal medicine for low-back pain.
+- new | 2013 | 23391017 | SR | Plant food supplements with anti-inflammatory properties: a systematic review (II).
+- new | 2013 | 24600731 | RCT | Devil's claw root: ulcers and gastrointestinal bleeding?
+- new | 2008 | 17964131 | MA | Impact of herbal medicines on physical impairment.
+- new | 2008 | 18236448 | SR | Systematic review on the safety of Harpagophytum preparations for osteoarthritic and low back pain.
+- new | 2007 | 17886223 | Clinical Trial | Effectiveness and safety of Devil's Claw tablets in patients with general rheumatic disorders.
+- new | 2007 | 17202897 | SR | Herbal medicine for low back pain: a Cochrane review.
+- new | 2006 | 17135164 | SR | Devil's Claw (Harpagophytum procumbens DC): an evidence-based systematic review by the Natural Standard Research Collaboration.
+- HELD REF-1260 | 2006 | 16625605 | MA/SR | Herbal medicine for low back pain.
+- new | 2006 | 16859534 | SR | Osteoarthritis and nutrition. From nutraceuticals to functional foods: a systematic review of the scientific evidence.
+- HELD REF-0561 | 2004 | 15369596 | SR | Harpgophytum procumbens for osteoarthritis and low back pain: a systematic review.
+- new | 2003 | 14669250 | Clinical Trial | Treatment of patients with arthrosis of hip or knee with an aqueous extract of devil's claw (Harpagophytum procumbens DC.).
+- new | 2001 | 11810324 | Clinical Trial/RCT | [Effects of Harpagophytum procumbens LI 174 (devil's claw) on sensory, motor und vascular muscle reagibility in the treatment of unspecific back pain].
+- new | 2000 | 11185727 | Clinical Trial/RCT | Efficacy and tolerance of Harpagophytum procumbens versus diacerhein in treatment of osteoarthritis.
+- new | 2000 | 11143915 | Clinical Trial/RCT | Harpagophytum procumbens in the treatment of knee and hip osteoarthritis. Four-month results of a prospective, multicenter, double-blind trial versus diacerhein.
+- new | 1992 | 1409765 | Clinical Trial | A drug used in traditional medicine, harpagophytum procumbens: no evidence for NSAID-like effect on whole blood eicosanoid production in human.
+
+## hedera-helix (Hedera helix; Ivy Leaf) - 14 (+CT) hits; query: ("Hedera helix"[tiab] OR "Ivy Leaf"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41807028 | RCT | Randomized, Double-Blind, Multicenter, Phase 3 Study of AG NPP709 Compared With Ivy Leaf Extract in Patients With Acute or Chronic Respiratory Symptoms.
+- HELD REF-0798 | 2025 | 40376625 | SR | Phytotherapy for acute respiratory tract infections in children: a systematically conducted, comprehensive review.
+- new | 2024 | 38323572 | RCT | Efficacy and tolerability of SEDIFLÙ in treating dry or productive cough in the pediatric population (SEPEDIA): A pilot, randomized, double-blind, placebo-controlled, mul
+- new | 2024 | 38889376 | RCT | Efficacy and safety of mixture of ivy leaf extract and coptidis rhizome in the treatment of acute bronchitis: multicenter, randomized, double-blinded, active-controlled, 
+- new | 2023 | 36749235 | Clinical Trial | The clinical efficacy of a mixture of ivy leaf extract and coptidis rhizome in patients with idiopathic pulmonary fibrosis.
+- HELD REF-0833 | 2021 | 33523253 | SR | Ivy leaf (Hedera helix) for acute upper respiratory tract infections: an updated systematic review.
+- new | 2019 | 30829213 |  | Chewable cough tablets with improved palatability: A comparative phase II clinical trial.
+- new | 2019 | 30017873 | RCT | The influence of standardized dry ivy leaf extract on the proportion of nasal secretion after post-septoplasty nasal packing removal.
+- new | 2009 | 16860549 | Clinical Trial | Tolerance, safety and efficacy of Hedera helix extract in inflammatory bronchial diseases under clinical practice conditions: a prospective, open, multicentre postmarketi
+- new | 2009 | 20109380 |  | [Multicentric study on a topical compound with lymph-draining action in the treatment of the phlebostatic ulcer of the inferior limbs].
+- new | 2008 | 18315739 | Clinical Trial | Occupational asthma to ivy (Hedera helix).
+- new | 2006 | 16880367 | SR | Herbal medicines for the treatment of COPD: a systematic review.
+- new | 2003 | 12725580 | MA/SR | Efficacy of dry extract of ivy leaves in children with bronchial asthma--a review of randomized controlled trials.
+- new | 2002 | 12006725 | Clinical Trial | [Treatment of chronic bronchitis with ivy leaf special extract--multicenter post-marketing surveillance study in 1,350 patients].
+
+## hericium-erinaceus (Hericium erinaceus; Lions mane) - 12 (+CT) hits; query: ("Hericium erinaceus"[tiab] OR "Lions mane"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41562932 | SR | Application of Medicinal Mushrooms for the Treatment of Peripheral Nerve Injury: A Systematic Review.
+- new | 2026 | 42978868 | Clinical Trial | The effects of four-week supplementation of Lion's mane and a Lion's mane and Reishi blend on prioritised mood and wellbeing measures in young women.
+- new | 2025 | 40959699 | SR | Benefits, side effects, and uses of Hericium erinaceus as a supplement: a systematic review.
+- new | 2025 | 40289452 | SR | Edible and Medicinal Fungi as Candidate Natural Antidepressants: Mechanisms and Nutritional Implications.
+- HELD REF-0640 | 2023 | 38004235 | RCT | The Acute and Chronic Effects of Lion's Mane Mushroom Supplementation on Cognitive Function, Stress and Mood in Young Adults: A Double-Blind, Parallel Groups, Pilot Study
+- new | 2023 | 38140277 | RCT | Acute Effects of Naturally Occurring Guayusa Tea and Nordic Lion's Mane Extracts on Cognitive Performance.
+- new | 2023 | 35686376 | SR | Effect of nutritional supports on malnutrition, cognition, function and biomarkers of Alzheimer's disease: a systematic review.
+- new | 2020 | 32570735 | Clinical Trial | Effects of Rich in Β-Glucans Edible Mushrooms on Aging Gut Microbiota Characteristics: An In Vitro Study.
+- new | 2019 | 31413233 | RCT | Improvement of cognitive functions by oral intake of Hericium erinaceus.
+- new | 2010 | 20834180 | RCT | Reduction of depression and anxiety by 4 weeks Hericium erinaceus intake.
+- HELD REF-0170 | 2009 | 18844328 | RCT | Improving effects of the mushroom Yamabushitake (Hericium erinaceus) on mild cognitive impairment: a double-blind placebo-controlled clinical trial.
+- new | 1985 | 3932005 | Clinical Trial | A double-blind study of effectiveness of hericium erinaceus pers therapy on chronic atrophic gastritis. A preliminary report.
+
+## hibiscus-sabdariffa (Hibiscus sabdariffa; Hibiscus) - 57 hits; query: ("Hibiscus sabdariffa"[tiab] OR "Hibiscus"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41500088 | RCT | Lactobacillus, vitamin C, cranberry and hibiscus versus placebo for prolonging the latency period of premature rupture of membranes: a double-blind randomized clinical tr
+- new | 2026 | 42191680 | SR/MA | The effect of Lippia Citriodora (LC) extract on cardiometabolic risk factors: a systematic review and meta-analysis.
+- new | 2026 | 42993332 | RCT | Acute effects of hibiscus tea versus coffee consumption before prolonged sitting on blood pressure and heart rate variability in adults: a randomized crossover trial.
+- new | 2025 | 40009760 | RCT | Acute effects of Hibiscus sabdariffa on blood pressure and cognitive function.
+- new | 2025 | 40806423 | RCT | Hibiscus Collagen Alternative (VC-H1) as an Oral Skin Rejuvenating Agent: A 12-Week Pilot Study.
+- new | 2025 | 41305605 | RCT | Standardized Hibiscus-Inulin Shot Lowers Lipid-Glucose Indices in Adults with Overweight and Obesity: 8-Week Randomized Trial.
+- new | 2025 | 39870328 | MA/SR | Efficacy and safety of Hibiscus sabdariffa in cardiometabolic health: An overview of reviews and updated dose-response meta-analysis.
+- new | 2025 | 40334927 | RCT | Efficacy of Hibiscus sabdariffa L. extract on metabolic parameters in participants with abdominal obesity and mild metabolic syndrome in Bangkok, Thailand: A double-blind
+- new | 2024 | 38878905 | SR/MA | Clinical effects of Hibiscus sabdariffa Linn. on obesity treatment: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2024 | 38881876 | SR | Safety classification of herbal medicine use among hypertensive patients: a systematic review and meta-analysis.
+- new | 2023 | 36436183 | MA/Review | Hibiscus sabdariffa (Roselle) calyx: a systematic and meta-analytic review of memory-enhancing, anti-neuroinflammatory and antioxidative activities.
+- HELD REF-0464 | 2022 | 34927694 | MA/SR | A systematic review and meta-analysis of the effects of Hibiscus sabdariffa on blood pressure and cardiometabolic markers.
+- HELD REF-0566 | 2022 | 34694241 | MA/SR | Efficacy of Hibiscus sabdariffa on Reducing Blood Pressure in Patients With Mild-to-Moderate Hypertension: A Systematic Review and Meta-Analysis of Published Randomized C
+- new | 2022 | 35820316 | SR | Medicinal plants with anti-colorectal cancer bioactive compounds: Potential game-changers in colorectal cancer management.
+- new | 2022 | 34591168 | RCT | Effectiveness of a polyphenolic extract (Lippia citriodora and Hibiscus sabdariffa) on appetite regulation in overweight and obese grade I population: an 8-week randomize
+- new | 2022 | 35758855 | RCT | Improvement on blood pressure and skin using roselle drink: A clinical trial.
+- new | 2022 | 34798036 | RCT | Etrolizumab versus adalimumab or placebo as induction therapy for moderately to severely active ulcerative colitis (HIBISCUS): two phase 3 randomised, controlled trials.
+- new | 2022 | 34370964 | RCT | Hibiscus sabdariffa tea affects diet-induced thermogenesis and subjective satiety responses in healthy men but not in women: a randomized crossover trial.
+- new | 2021 | 34837382 | SR | Roselle for hypertension in adults.
+- new | 2021 | 34040600 | MA/SR | Immunomodulatory and Mechanistic Considerations of Hibiscus sabdariffa (HS) in Dysfunctional Immune Responses: A Systematic Review.
+- new | 2021 | 33810049 | RCT | A Randomized, Double-Blind, Placebo-Controlled Trial to Determine the Effectiveness of a Polyphenolic Extract (Hibiscus sabdariffa and Lippia citriodora) for Reducing Blo
+- new | 2021 | 33724587 | SR | Phytonutrient supplements and metabolic biomarkers of cardiovascular disease: An umbrella review of meta-analyses of clinical trials.
+- new | 2020 | 32156406 | MA/SR | The antidiabetic and antilipidemic effects of Hibiscus sabdariffa: A systematic review and meta-analysis of randomized clinical trials.
+- HELD REF-0567 | 2020 | 31943427 | MA/SR | The efficacy of sour tea (Hibiscus sabdariffa L.) on selected cardiovascular disease risk factors: A systematic review and meta-analysis of randomized clinical trials.
+- new | 2020 | 31833112 | MA/SR | Effect of Hibiscus sabdariffa (Roselle) supplementation in regulating blood lipids among patients with metabolic syndrome and related disorders: A systematic review and m
+- new | 2020 | 32614361 | RCT | The Efficacy of a Dietary Supplement with Carnosine and Hibiscus Sabdariffa L. (AqualiefTM) in Patients with Xerostomia: a Randomized, Placebo-Controlled, Double-Blind Tr
+- new | 2020 | 32725873 | RCT | Antihypertensive efficacy and safety of a standardized herbal medicinal product of Hibiscus sabdariffa and Olea europaea extracts (NW Roselle): A phase-II, randomized, do
+- new | 2019 | 30816148 | RCT | Differential effects of a combination of Hibiscus sabdariffa and Lippia citriodora polyphenols in overweight/obese subjects: A randomized controlled trial.
+- new | 2019 | 30764582 | RCT | Acute Effects of Hibiscus Sabdariffa Calyces on Postprandial Blood Pressure, Vascular Function, Blood Lipids, Biomarkers of Insulin Resistance and Inflammation in Humans.
+- new | 2019 | 30951501 | RCT | In vitro modulation of cytochrome P450 isozymes and pharmacokinetics of caffeine by extracts of Hibiscus sabdariffa Linn calyx.
+- new | 2018 | 29974725 | RCT | L-Methionine associated with Hibiscus sabdariffa and Boswellia serrata extracts are not inferior to antibiotic treatment for symptoms relief in patients affected by recur
+- new | 2018 | 29862395 | RCT | Hibiscus and lemon verbena polyphenols modulate appetite-related biomarkers in overweight subjects: a randomized controlled trial.
+- new | 2017 | 29311704 | RCT | Clinical efficacy of African traditional medicines in hypertension: A randomized controlled trial with Combretum micranthum and Hibiscus sabdariffa.
+- new | 2017 | 28925046 | RCT | In vivo pharmacodynamic and pharmacokinetic interactions of Hibiscus sabdariffa calyces extracts with simvastatin.
+- new | 2017 | 27221151 | RCT | Does consumption of an aqueous extract of Hibscus sabdariffa affect renal function in subjects with mild to moderate hypertension?
+- new | 2017 | 28244718 | RCT | APOE and CETP TaqIB polymorphisms influence metabolic responses to Hibiscus sabdariffa L. and Gynostemma pentaphyllum Makino tea consumption in hypercholesterolemic subje
+- new | 2017 | 28755971 | RCT | Efficacy of standardized extract of Hibiscus sabdariffa L. (Malvaceae) in improving iron status of adults in malaria endemic area: A randomized controlled trial.
+- new | 2017 | 27736246 | RCT | The Effect of Green Tea and Sour Tea (Hibiscus sabdariffa L.) Supplementation on Oxidative Stress and Muscle Damage in Athletes.
+- new | 2016 | 26982618 | RCT | Evaluation of the effects of roselle (Hibiscus sabdariffa L.) on oxidative stress and serum levels of lipids, insulin and hs-CRP in adult patients with metabolic syndrome
+- HELD REF-2527 | 2015 | 25875025 | MA/SR | Effect of sour tea (Hibiscus sabdariffa L.) on arterial hypertension: a systematic review and meta-analysis of randomized controlled trials.
+- new | 2015 | 26520790 | SR | A systematic review of medicinal plants used for weight loss in Brazil: Is there potential for obesity treatment?
+- new | 2015 | 26600645 | RCT | Effects of aqueous extract of Hibiscus sabdariffa on the renin-angiotensin-aldosterone system of Nigerians with mild to moderate essential hypertension: A comparative stu
+- new | 2015 | 26289514 | RCT | Effect of Hibiscus sabdariffaon blood pressure and electrolyte profile of mild to moderate hypertensive Nigerians: A comparative study with hydrochlorothiazide.
+- new | 2014 | 24549255 | RCT | Hibiscus sabdariffa extract inhibits obesity and fat accumulation, and improves liver steatosis in humans.
+- HELD REF-1843 | 2013 | 24120746 | SR | Effects of Hibiscus sabdariffa L. on serum lipids: a systematic review and meta-analysis.
+- new | 2012 | 22331521 | RCT | Consumption of Hibiscus sabdariffa L. aqueous extract and its impact on systemic antioxidant potential in healthy subjects.
+- new | 2011 | 22185846 | RCT | [Therapeutic use Hibiscus sabadariffa extract in the treatment of hypercholesterolemia. A randomized clinical trial].
+- HELD REF-1844 | 2010 | 19801187 | SR | The effectiveness of Hibiscus sabdariffa in the treatment of hypertension: a systematic review.
+- new | 2010 | 20018807 | RCT | Hibiscus sabdariffa L. tea (tisane) lowers blood pressure in prehypertensive and mildly hypertensive adults.
+- new | 2010 | 19962289 | RCT | Effects of Hibiscus sabdariffa extract powder and preventive treatment (diet) on the lipid profiles of patients with metabolic syndrome (MeSy).
+- new | 2010 | 20553629 | RCT | An evaluation of the hypolipidemic effect of an extract of Hibiscus Sabdariffa leaves in hyperlipidemic Indians: a double blind, placebo controlled trial.
+- new | 2009 | 19678781 | RCT | Effects of sour tea (Hibiscus sabdariffa) on lipid profile and lipoproteins in patients with type II diabetes.
+- new | 2009 | 18685605 | RCT | The effects of sour tea (Hibiscus sabdariffa) on hypertension in patients with type II diabetes.
+- new | 2007 | 17094172 | RCT | Effects of water extract of Hibiscus sabdariffa, Linn (Malvaceae) 'Roselle' on excretion of a diclofenac formulation.
+- new | 2007 | 17315307 | RCT | Clinical effects produced by a standardized herbal medicinal product of Hibiscus sabdariffa on patients with hypertension. A randomized, double-blind, lisinopril-controll
+- new | 2004 | 15330492 | Clinical Trial/RCT | Effectiveness and tolerability of a standardized extract from Hibiscus sabdariffa in patients with mild to moderate hypertension: a controlled and randomized clinical tri
+- new | 1999 | 10404421 | Clinical Trial/RCT | The effect of sour tea (Hibiscus sabdariffa) on essential hypertension.
+
+## hippophae-rhamnoides (Hippophae rhamnoides; Sea buckthorn) - 34 (+CT) hits; query: ("Hippophae rhamnoides"[tiab] OR "Sea buckthorn"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42075548 | SR | Rosacea and Hippophae rhamnoides: A Phytonutrient Approach to Skin Repair (The Systematic Review).
+- new | 2026 | 41829976 | RCT | Hippophae rhamnoides L. Fruit Extract Relieves Chronic Idiopathic Constipation and Improves Bowel Function: A Monocentric, Randomized, Double-Blind, Placebo-Controlled, C
+- new | 2026 | 42973966 | MA | From water deficit to growth suppression: meta-analytic evidence for a functional hierarchy of drought adaptation in Hippophae rhamnoides.
+- new | 2025 | 40133564 | RCT | A prospective study of vaginal topical pretreatment of compound sea-buckthorn oil suppository in postmenopausal women prior to colposcopy.
+- new | 2024 | 39273592 | SR | Peptides Evaluated In Silico, In Vitro, and In Vivo as Therapeutic Tools for Obesity: A Systematic Review.
+- new | 2024 | 39045282 | SR | Research progress on antitumor effects of sea buckthorn, a traditional Chinese medicine homologous to food and medicine.
+- new | 2022 | 36043374 | MA/SR | Effects of sea buckthorn (Hippophae rhamnoides L.) on factors related to metabolic syndrome: A systematic review and meta-analysis of randomized controlled trial.
+- new | 2021 | 33787128 | SR | [Application and modern research progress of sea buckthorn leaves].
+- new | 2021 | 33792111 | RCT | To compare the effect of sea buckthorn and silver sulfadiazine dressing on period of wound healing in patients with second-degree burns: A randomized triple-blind clinica
+- new | 2021 | 33832645 | RCT | Efficacy and safety of a new vaginal gel for the treatment of symptoms associated with vulvovaginal atrophy in postmenopausal women: A double-blind randomized placebo-con
+- new | 2020 | 32452118 | RCT | Protective effects of isorhamnetin on pulmonary arterial hypertension: in vivo and in vitro studies.
+- new | 2019 | 30787601 | RCT | Rapid and selective mobilization of specific stem cell types after consumption of a polyphenol-rich extract from sea buckthorn berries (Hippophae) in healthy human subjec
+- new | 2019 | 30497904 | RCT | Effects of a sea buckthorn oil spray emulsion on dry eye.
+- new | 2018 | 29022100 | RCT | Sea buckthorn decreases and delays insulin response and improves glycaemic profile following a sucrose-containing berry meal: a randomised, controlled, crossover study of
+- new | 2014 | 25104582 | RCT | Effects of sea buckthorn oil intake on vaginal atrophy in postmenopausal women: a randomized, double-blind, placebo-controlled study.
+- new | 2014 | 25316430 | RCT | Management of cognitive determinants in senile dementia of Alzheimer's type: therapeutic potential of a novel polyherbal drug product.
+- new | 2013 | 24597120 | RCT | Pathology of ochratoxin A-induced nephrotoxicity in Japanese quail and its protection by sea buckthorn (Hippophae rhamnoides L.).
+- new | 2013 | 23945716 | RCT | Effects of sea buckthorn and bilberry on serum metabolites differ according to baseline metabolic profiles in overweight women: a randomized crossover trial.
+- new | 2013 | 23472020 | RCT | The hepatoprotective effect of sea buckthorn (Hippophae rhamnoides) berries on induced aflatoxin B1 poisoning in chickens 1.
+- new | 2013 | 24640205 | RCT | Immunomodulating and antiproteinuric effect of Hippophae rhamnoides (Badriphal) in idiopathic nephrotic syndrome.
+- new | 2013 | 23131570 | RCT | The effect of sea buckthorn supplement on oral health, inflammation, and DNA damage in hemodialysis patients: a double-blinded, randomized crossover study.
+- new | 2013 | 23529392 | RCT | Influence of hippophae rhamnoides on two appetite factors, gastric emptying and metabolic parameters, in children with functional dyspepsia.
+- new | 2012 | 22098442 |  | The fibres and polyphenols in sea buckthorn (Hippophaë rhamnoides) extraction residues delay postprandial lipemia.
+- new | 2012 | 22845737 | RCT | Effect of sea buckthorn berries and pulp in a liquid emulsion on gastric ulcer scores and gastric juice pH in horses.
+- new | 2011 | 21832964 | RCT | Effects of oral sea buckthorn oil on tear film Fatty acids in individuals with dry eye.
+- new | 2010 | 20554904 | RCT | Oral sea buckthorn oil attenuates tear film osmolarity and symptoms in individuals with dry eye.
+- new | 2009 | 19288149 | RCT | Effect of a low dose of sea buckthorn berries on circulating concentrations of cholesterol, triacylglycerols, and flavonols in healthy adults.
+- new | 2008 | 17593932 | RCT | Effects of sea buckthorn berries on infections and inflammation: a double-blind, randomized, placebo-controlled trial.
+- new | 2008 | 19009913 | Clinical Trial | Effect of a dietary supplement containing blueberry and sea buckthorn concentrate on antioxidant capacity in type 1 diabetic children.
+- new | 2006 | 16968106 | RCT | Absorption of flavonols derived from sea buckthorn (Hippophaë rhamnoides L.) and their effect on emerging risk factors for cardiovascular disease in humans.
+- new | 2003 | 12854177 | Clinical Trial/RCT | Effect of sea buckthorn on liver fibrosis: a clinical study.
+- new | 2001 | 12528545 | Clinical Trial/RCT | [Effect of total flavones of Hippophae rhamnoides L. on sympathetic activity in hypertension].
+- new | 1999 | 15539258 | Clinical Trial | Effects of dietary supplementation with sea buckthorn (Hippophaë rhamnoides) seed and pulp oils on atopic dermatitis.
+- new | 1987 | 3304921 | Clinical Trial | [A control trial of flavonoids of Hippophae rhamnoides L. in treating ischemic heart disease].

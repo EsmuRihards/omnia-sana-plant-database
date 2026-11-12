@@ -153,7 +153,6 @@ actions:
   reference_ids:
   - REF-0531
   - REF-0533
-  - REF-2052
   status: verified
 indications:
 - condition: arthritis
@@ -175,12 +174,12 @@ indications:
   mechanistic_exclude_ids:
   - REF-0531
 - condition: cancer
-  note: inferred from anticancer action
+  note: Hamamelitannin slowed colon cancer cells in the lab without harming normal cells (preclinical)
   reference_ids:
   - REF-2056
   status: needs-review
 - condition: diarrhea
-  note: inferred from astringent action
+  note: Traditional astringent for diarrhoea (Herbal Reality)
   reference_ids:
   - REF-0533
   status: needs-review
@@ -195,25 +194,32 @@ indications:
   - REF-0533
   status: verified
 - condition: inflammation
-  note: Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied
-    topically
+  note: Astringent for minor inflammation of the skin and mouth (EU herbal monograph); a 10% witch hazel
+    lotion reduced sunburn redness in one randomized trial, but an extract was no better than its base
+    cream in another
   reference_ids:
   - REF-0531
   - REF-0532
+  - REF-3575
   status: verified
+  null_result_ids:
+  - REF-3527
 - condition: oral-health
-  note: Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied
-    topically
+  note: Astringent for minor inflammation of the mouth lining (EU herbal monograph)
   reference_ids:
   - REF-0531
   status: verified
 - condition: skin-irritation
-  note: Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied
-    topically
+  note: Astringent for minor skin inflammation, applied topically (EU herbal monograph); a 10% witch hazel
+    lotion reduced sunburn redness in one randomized trial, but an extract was no better than its base
+    cream in another
   reference_ids:
   - REF-0531
   - REF-0532
+  - REF-3575
   status: verified
+  null_result_ids:
+  - REF-3527
 - condition: wounds
   note: Vulnerary for minor wounds, bruises and insect bites
   reference_ids:
@@ -287,4 +293,10 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   REF-0532 is a 2025 review, not an RCT (retagged): names antimicrobial, anti-inflammatory,
   wound-healing and skin effects - removed from oral-health, added to wounds. Herbal Reality
   REF-0533 (page read) names bruises, wounds, diarrhoea, haemorrhoids, varicose veins, skin -
-  removed from arthritis.'
+  removed from arthritis.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. REF-2052 retagged
+  preclinical (fibroblast gene expression with volunteers'' plasma metabolites) and removed from
+  the vulnerary action (kept in references). Hamamelis 10% lotion UVB-erythema RCT REF-3575 (beat
+  vehicle) added to skin-irritation/inflammation; UV-erythema RCT REF-3527 (not significant vs
+  vehicle) recorded as no-effect. Diaper-dermatitis RCT 41468068 not used (comparator was breast
+  milk, no placebo).'

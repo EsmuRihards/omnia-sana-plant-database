@@ -1,4 +1,4 @@
-<!-- structure-fingerprint: a02b20af597b -->
+<!-- structure-fingerprint: d2b572b87214 -->
 <!-- doc-version: 1.4  ·  last-updated: 2026-11-10 -->
 
 # Omnia Sana — Data Principles (canonical, model-agnostic)
@@ -349,6 +349,15 @@ Name these plainly so no one mistakes green checks for safety:
 ---
 
 ## 10. Changelog
+
+- **v1.5 - 2026-11-12.** Symptom deep re-sweep (batches 1-12). Added the additive plant field
+  **`former_slugs[]`** (retired public URL slugs, e.g. after a misspelt primary common name is
+  corrected: Ginkgo was "Ginko"). `validate.py` rejects a bad slug, a former slug claimed by two
+  plants, or one that is any plant's live slug/id. `build.py` passes it through into
+  `plants.json` unchanged. Consumer: `os-slug-redirects.php` 301s every plant route carrying a
+  former slug (/plants/, symptom sources, lookalikes, name dictionary, tincture, compare) to the
+  current slug. Absent = no redirects (the other 187 records). Structural change -> fingerprint
+  reconciled.
 
 - **v1.4 - 2026-11-10.** Symptom-tool re-audit (batches of 10 plants). Added the additive
   indication field **`null_result_ids`** (no-effect studies; never scored, never condition-

@@ -3,21 +3,21 @@
  "artifacts": {
   "citations.json": {
    "schema": "omnia-sana/knowledge-finder@2",
-   "count": 3344,
-   "bytes": 8065201,
-   "sha256": "831a82e8409da05860ef0fa40f8333d6585af6bb27f6f8985a920a3c592c20c8"
+   "count": 3371,
+   "bytes": 8157300,
+   "sha256": "83d756ab4caed78bf17da723b9a65da0562570ab35104f61bc3355e9c22d4cc9"
   },
   "symptoms.json": {
    "schema": "omnia-sana/symptom-lookup@1",
    "count": 183,
-   "bytes": 333918,
-   "sha256": "fbb0fef7a401e599bff5c884384f1842c4100533faa2aa68b3589a4256a073da"
+   "bytes": 335751,
+   "sha256": "dc121a797a2990dc1f45768c952a7bc44229d6eb4803da28a3f830313eda026b"
   },
   "plants.json": {
    "schema": "omnia-sana/plants@1",
    "count": 188,
-   "bytes": 2201163,
-   "sha256": "4151c8d8fe716e43185b2fd8e484e20ff6b4dc2609b58546a352ff2200ac9617"
+   "bytes": 2207199,
+   "sha256": "86746be7cc2c1098a09a14e7231f3a4053eb2b779bd6f8c472e4ab509668ff3d"
   },
   "vocab.json": {
    "schema": "omnia-sana/vocab@1",
@@ -28,26 +28,26 @@
   "names.json": {
    "schema": "omnia-sana/names@1",
    "count": 186,
-   "bytes": 1563265,
-   "sha256": "188af19c0cfddc0ed9e67df50eeb38523478b381ce0820b9975f211bde70746f"
+   "bytes": 1563267,
+   "sha256": "c4e59e2c76d9ba16b54022c2df2f26c8d23cd6137f34bf4ff4cf378cd00f3620"
   },
   "interactions.v1.json": {
    "schema": "omnia-sana/interactions@1",
    "count": 102,
-   "bytes": 66291,
-   "sha256": "f63ed0968d594ede9f82e3dc66acb1c6c3fd918299cc56c2031fc3bb80895e1b"
+   "bytes": 66301,
+   "sha256": "c5a243ae46e04b0a205b9372a52fd8b06ce7fc5bc510939c55a258642fceb70a"
   },
   "pairings.v1.json": {
    "schema": "omnia-sana/pairings@1",
    "count": 114,
-   "bytes": 56860,
-   "sha256": "712400ab767b104e5538431654fffe52f857d71354363900f00cc69ec9bd844e"
+   "bytes": 56876,
+   "sha256": "690f34a942e56ade044d64df90b64abeba65ecb2c64e8be509377ab590b01dc1"
   },
   "lookalikes.v1.json": {
    "schema": "omnia-sana/lookalikes@1",
    "count": 73,
-   "bytes": 232910,
-   "sha256": "bfc63312893769d0ee24bbe08479793cd3fb6a791e9af36aff25b9eec0b65205"
+   "bytes": 232912,
+   "sha256": "8245fb2e26f875fae2f4818acbba52f4084d7f1bbd761c26b0fd7b4ee0c1380c"
   },
   "practice.v1.json": {
    "schema": "omnia-sana/practice@1",

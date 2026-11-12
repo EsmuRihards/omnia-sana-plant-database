@@ -24864,11 +24864,8 @@
     {
      "action": "antidiarrheal",
      "note": "Astringent hydrolysable tannins; traditional remedy for diarrhoea and dysentery.",
-     "reference_ids": [
-      "REF-2768",
-      "REF-2769"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "antioxidant",
@@ -24922,10 +24919,8 @@
     {
      "action": "vulnerary",
      "note": "Astringent/antimicrobial root traditionally applied to wounds and inflamed skin; skin antineoplastic activity shown for avens.",
-     "reference_ids": [
-      "REF-2769"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     }
    ],
    "indications": [
@@ -24946,12 +24941,13 @@
       "REF-2767"
      ],
      "status": "verified",
+     "note": "Water avens extract strongly inhibited an inflammatory pathway (PAF-induced exocytosis) in lab tests (preclinical)",
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Extracts and their triterpenes were antibacterial and antifungal in lab tests (preclinical)",
      "reference_ids": [
       "REF-2763",
       "REF-2761"
@@ -24962,18 +24958,15 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from astringent/antimicrobial action and traditional wound-wash use",
+     "note": "inferred from antimicrobial and astringent action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2769"
-     ],
      "evidence": 1,
      "label": "Wounds"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory/antimicrobial skin activity",
+     "note": "inferred from anti-inflammatory and astringent action",
      "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
@@ -25082,10 +25075,12 @@
    "id": "ginkgo-biloba",
    "scientific_name": "Ginkgo biloba",
    "common_names": [
-    "Ginko",
     "Ginkgo",
     "maidenhair tree",
     "ginkgo biloba"
+   ],
+   "former_slugs": [
+    "ginko"
    ],
    "family": "Ginkgoaceae",
    "external_ids": {
@@ -25238,7 +25233,6 @@
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0056",
       "REF-0128",
       "REF-0308",
       "REF-0824",
@@ -25260,51 +25254,82 @@
       "REF-0308"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3564"
+     ],
+     "note": "Used for peripheral arterial disease (intermittent claudication) (WHO monograph); a Cochrane review found no clinically significant benefit",
      "evidence": 1,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Ginkgo extract EGb 761 improved cognition in people with dementia in trials and meta-analyses; a 2026 Cochrane review found small to moderate benefits in dementia but probably little or no effect in mild cognitive impairment, and a large prevention trial found it did not reduce dementia",
      "reference_ids": [
       "REF-0128",
       "REF-0308",
       "REF-2186",
-      "REF-2185"
+      "REF-2185",
+      "REF-3563",
+      "REF-3565"
      ],
      "status": "needs-review",
      "null_result_ids": [
       "REF-0056"
      ],
-     "evidence": 9,
+     "evidence": 10,
      "label": "Cognitive function"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Ginkgo leaf extract lowered the inflammation markers CRP, IL-6 and TNF-alpha vs placebo in a meta-analysis of trials",
+     "reference_ids": [
+      "REF-3568"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0308"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Inflammation (general)"
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
+     "note": "Ginkgo extract EGb 761 improved cognition in people with dementia in trials and meta-analyses; a 2026 Cochrane review found probably little or no effect in mild cognitive impairment, and a large prevention trial found it did not reduce dementia",
      "reference_ids": [
       "REF-0128",
       "REF-0308",
       "REF-2186",
-      "REF-2185"
+      "REF-2185",
+      "REF-3563",
+      "REF-3565"
      ],
      "status": "needs-review",
      "null_result_ids": [
       "REF-0056"
      ],
-     "evidence": 9,
+     "evidence": 10,
      "label": "Memory"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Ginkgo extract EGb 761 reduced anxiety vs placebo in a randomized trial in generalized anxiety and adjustment disorder; a network meta-analysis also found it effective (small trials)",
+     "reference_ids": [
+      "REF-3566",
+      "REF-2546"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "depression",
+     "note": "A meta-analysis of 21 trials found ginkgo lowered depression scores compared with control groups",
+     "reference_ids": [
+      "REF-3567"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Low mood / depression"
     }
    ],
    "contraindications": [
@@ -25461,7 +25486,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
-   "common_slug": "ginko"
+   "common_slug": "ginkgo"
   },
   {
    "id": "glycyrrhiza-glabra",
@@ -25639,9 +25664,10 @@
    "indications": [
     {
      "condition": "acid-reflux",
-     "note": "inferred from gastroprotective action",
+     "note": "A deglycyrrhizinated licorice extract (GutGard) relieved heartburn and regurgitation vs placebo in a randomized trial; traditional use for burning sensation and indigestion (EU herbal monograph)",
      "reference_ids": [
-      "REF-3081"
+      "REF-3081",
+      "REF-3572"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -25649,12 +25675,12 @@
       "REF-0089",
       "REF-0308"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Acid reflux"
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional anti-inflammatory for rheumatism and arthritis (WHO monograph); anti-inflammatory compounds reported in lab studies (reviews)",
      "reference_ids": [
       "REF-0308"
      ],
@@ -25668,7 +25694,7 @@
     },
     {
      "condition": "bronchitis",
-     "note": "inferred from expectorant action",
+     "note": "Traditional expectorant for coughs and bronchial catarrh (WHO monograph)",
      "reference_ids": [
       "REF-0308"
      ],
@@ -25682,7 +25708,7 @@
     },
     {
      "condition": "cold",
-     "note": "inferred from antiviral action",
+     "note": "Traditional expectorant for cough associated with colds (EU herbal monograph)",
      "reference_ids": [
       "REF-3081"
      ],
@@ -25697,7 +25723,7 @@
     },
     {
      "condition": "cough",
-     "note": "inferred from expectorant action",
+     "note": "Traditional expectorant for cough (EU herbal monograph; WHO monograph)",
      "reference_ids": [
       "REF-0308",
       "REF-3081"
@@ -25712,22 +25738,23 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from gastroprotective action",
+     "note": "A licorice extract (GutGard) relieved functional dyspepsia vs placebo in a randomized trial; traditional use for dyspepsia (EU herbal monograph; WHO monograph)",
      "reference_ids": [
       "REF-0308",
-      "REF-3081"
+      "REF-3081",
+      "REF-3573"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0012",
       "REF-0089"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Indigestion"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditional antiviral use (WHO monograph); glycyrrhetinic acid was active against tuberculosis bacteria in the lab (preclinical)",
      "reference_ids": [
       "REF-0308"
      ],
@@ -25741,7 +25768,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional anti-inflammatory for allergic reactions and arthritis (WHO monograph); licorice flavonoids reduced inflammatory markers in lab studies (preclinical)",
      "reference_ids": [
       "REF-0308"
      ],
@@ -25755,7 +25782,7 @@
     },
     {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Traditional expectorant for cough and bronchial catarrh (EU herbal monograph; WHO monograph)",
      "reference_ids": [
       "REF-0308",
       "REF-3081"
@@ -25780,6 +25807,38 @@
      ],
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "sore-throat",
+     "note": "Gargling or applying licorice before surgery prevented postoperative sore throat (meta-analysis; randomized trial); a traditional soothing remedy for sore throats (WHO monograph)",
+     "reference_ids": [
+      "REF-3569",
+      "REF-3570",
+      "REF-0308"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Sore throat"
+    },
+    {
+     "condition": "oral-health",
+     "note": "Topical licorice (paste, patch or mouthwash) helped recurrent mouth ulcers heal in clinical trials (systematic review)",
+     "reference_ids": [
+      "REF-3571"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Oral & throat health"
+    },
+    {
+     "condition": "wounds",
+     "note": "A licorice root extract sped healing of second-degree burns in a randomized trial",
+     "reference_ids": [
+      "REF-3574"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -26059,31 +26118,34 @@
      "mechanistic_exclude_ids": [
       "REF-2543"
      ],
+     "note": "Gymnema lowered fasting and post-meal blood sugar and HbA1c in type 2 diabetes in meta-analyses of mostly small, low-quality trials",
      "evidence": 10,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
+     "note": "In meta-analyses gymnema lowered blood sugar, blood lipids and diastolic blood pressure (low-quality trials)",
      "reference_ids": [
       "REF-2465",
       "REF-2466",
-      "REF-2542"
+      "REF-2542",
+      "REF-2541"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 9,
      "label": "Metabolic support"
     },
     {
      "condition": "high-cholesterol",
-     "note": "inferred from lipid-lowering action",
+     "note": "Gymnema lowered triglycerides and total and LDL cholesterol in meta-analyses (low-quality trials)",
      "reference_ids": [
       "REF-2466",
       "REF-2541",
-      "REF-3059"
+      "REF-3059",
+      "REF-2540"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 9,
      "label": "High cholesterol"
     }
    ],
@@ -26356,8 +26418,7 @@
      "note": "Vulnerary for minor wounds, bruises and insect bites",
      "reference_ids": [
       "REF-0531",
-      "REF-0533",
-      "REF-2052"
+      "REF-0533"
      ],
      "status": "verified"
     }
@@ -26394,7 +26455,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Hamamelitannin slowed colon cancer cells in the lab without harming normal cells (preclinical)",
      "reference_ids": [
       "REF-2056"
      ],
@@ -26404,7 +26465,7 @@
     },
     {
      "condition": "diarrhea",
-     "note": "inferred from astringent action",
+     "note": "Traditional astringent for diarrhoea (Herbal Reality)",
      "reference_ids": [
       "REF-0533"
      ],
@@ -26430,18 +26491,22 @@
     },
     {
      "condition": "inflammation",
-     "note": "Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied topically",
+     "note": "Astringent for minor inflammation of the skin and mouth (EU herbal monograph); a 10% witch hazel lotion reduced sunburn redness in one randomized trial, but an extract was no better than its base cream in another",
      "reference_ids": [
       "REF-0531",
-      "REF-0532"
+      "REF-0532",
+      "REF-3575"
      ],
      "status": "verified",
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-3527"
+     ],
+     "evidence": 5,
      "label": "Inflammation (general)"
     },
     {
      "condition": "oral-health",
-     "note": "Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied topically",
+     "note": "Astringent for minor inflammation of the mouth lining (EU herbal monograph)",
      "reference_ids": [
       "REF-0531"
      ],
@@ -26451,13 +26516,17 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied topically",
+     "note": "Astringent for minor skin inflammation, applied topically (EU herbal monograph); a 10% witch hazel lotion reduced sunburn redness in one randomized trial, but an extract was no better than its base cream in another",
      "reference_ids": [
       "REF-0531",
-      "REF-0532"
+      "REF-0532",
+      "REF-3575"
      ],
      "status": "verified",
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-3527"
+     ],
+     "evidence": 5,
      "label": "Skin irritation"
     },
     {
@@ -26677,10 +26746,11 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain; General joint pain and arthritis support",
+     "note": "Devil's claw powder matched the drug diacerhein for hip and knee osteoarthritis pain in a randomized trial, with fewer side effects; systematic reviews found limited to moderate evidence, and one judged trial quality too poor for a definitive answer",
      "reference_ids": [
       "REF-0444",
-      "REF-0561"
+      "REF-0561",
+      "REF-3576"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
@@ -26690,16 +26760,17 @@
      "null_result_ids": [
       "REF-1834"
      ],
-     "evidence": 7,
+     "evidence": 8,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "back-pain",
-     "note": "Effective at standardised doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior to rofecoxib for short-term chronic low back pain; Relief of chronic non-specific low back pain",
+     "note": "Extracts with 50-100 mg harpagoside daily relieved chronic low back pain vs placebo, and one matched rofecoxib (Cochrane review: moderate-quality evidence at best; systematic review)",
      "reference_ids": [
       "REF-0444",
       "REF-0561",
-      "REF-0562"
+      "REF-0562",
+      "REF-1261"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
@@ -26709,7 +26780,7 @@
       "REF-1838",
       "REF-0443"
      ],
-     "evidence": 7,
+     "evidence": 8,
      "label": "Back pain"
     },
     {
@@ -26742,17 +26813,18 @@
     },
     {
      "condition": "pain",
-     "note": "Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain; Effective at standardised doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior to rofecoxib for short-term chronic low back pain; General joint pain and arthritis support; Relief of chronic non-specific low back pain",
+     "note": "Devil's claw eased low back and osteoarthritis pain in trials (Cochrane review; systematic reviews; moderate-quality evidence at best)",
      "reference_ids": [
       "REF-0444",
       "REF-0561",
-      "REF-0562"
+      "REF-0562",
+      "REF-1261"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0443"
      ],
-     "evidence": 7,
+     "evidence": 8,
      "label": "Pain (general)"
     },
     {
@@ -26943,8 +27015,7 @@
      "reference_ids": [
       "REF-0472",
       "REF-2309",
-      "REF-2311",
-      "REF-2314"
+      "REF-2311"
      ],
      "status": "verified"
     },
@@ -26965,8 +27036,7 @@
       "REF-0473",
       "REF-0575",
       "REF-0834",
-      "REF-0833",
-      "REF-0835"
+      "REF-0833"
      ],
      "status": "verified"
     }
@@ -26974,18 +27044,23 @@
    "indications": [
     {
      "condition": "asthma",
-     "note": "inferred from bronchodilator action",
-     "reference_ids": [],
+     "note": "A review of randomized trials found ivy leaf extract improved lung function in children with chronic asthma (small evidence base, one placebo-controlled trial); an add-on trial found no effect on its main lung-function outcomes",
+     "reference_ids": [
+      "REF-3577"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0472"
      ],
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-3578"
+     ],
+     "evidence": 7,
      "label": "Asthma"
     },
     {
      "condition": "bronchitis",
-     "note": "Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear mucus)",
+     "note": "Ivy leaf extract eased productive cough and acute bronchitis in trials, including vs placebo; an updated systematic review found the effects minimal at best",
      "reference_ids": [
       "REF-0472",
       "REF-0473",
@@ -27000,7 +27075,7 @@
     },
     {
      "condition": "cough",
-     "note": "Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear mucus)",
+     "note": "Ivy leaf extract eased acute productive cough vs placebo in a randomized trial; an updated systematic review found the effects minimal at best",
      "reference_ids": [
       "REF-0472",
       "REF-0473",
@@ -27025,19 +27100,8 @@
      "label": "Menstrual cramps"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0472"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Ivy leaf extract eased productive cough in acute respiratory infections in trials; an updated systematic review found the effects minimal at best",
      "reference_ids": [
       "REF-0472",
       "REF-0473",
@@ -27072,7 +27136,6 @@
    "references": [
     "REF-0833",
     "REF-0834",
-    "REF-0835",
     "REF-2308",
     "REF-2309",
     "REF-2310",
@@ -27203,8 +27266,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0157",
-      "REF-0170",
       "REF-0642",
       "REF-0643",
       "REF-2418",
@@ -27214,16 +27275,12 @@
     },
     {
      "action": "anticancer",
-     "reference_ids": [
-      "REF-0157"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     },
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0157",
-      "REF-0170",
       "REF-0643",
       "REF-0645"
      ],
@@ -27232,8 +27289,6 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0157",
-      "REF-0170",
       "REF-0644",
       "REF-2420"
      ],
@@ -27242,7 +27297,6 @@
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0157",
       "REF-0170",
       "REF-0640",
       "REF-0641",
@@ -27260,8 +27314,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0157",
-      "REF-0170",
       "REF-0642",
       "REF-0643"
      ],
@@ -27270,34 +27322,32 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Lion's mane compounds slowed gastric cancer cells in lab studies (review; preclinical)",
      "reference_ids": [
       "REF-0645"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0157"
-     ],
      "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Lion's mane improved cognitive scores in mild cognitive impairment and early Alzheimer's disease in small placebo-controlled trials (systematic review); acute effects in healthy young adults were mixed",
      "reference_ids": [
       "REF-0170",
       "REF-0640",
-      "REF-2419"
+      "REF-2419",
+      "REF-3579",
+      "REF-3580"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0157",
       "REF-0642"
      ],
      "null_result_ids": [
       "REF-0641"
      ],
-     "evidence": 7,
+     "evidence": 10,
      "label": "Cognitive function"
     },
     {
@@ -27306,8 +27356,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0157",
-      "REF-0170",
       "REF-0644"
      ],
      "evidence": 1,
@@ -27319,43 +27367,36 @@
       "REF-0644"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0157",
-      "REF-0170"
-     ],
+     "note": "Lion's mane polysaccharides stimulated immune cells in the lab (preclinical)",
      "evidence": 2,
      "label": "Immune support"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Lion's mane polysaccharides eased colitis in mice, and anti-inflammatory effects are reported in lab studies (review; preclinical)",
      "reference_ids": [
       "REF-0642",
       "REF-0643"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0157",
-      "REF-0170"
-     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
+     "note": "Lion's mane improved cognitive scores in mild cognitive impairment and early Alzheimer's disease in small placebo-controlled trials, but memory-specific tests and an acute trial in young adults showed no clear effect",
      "reference_ids": [
       "REF-0170",
       "REF-2419"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0157",
       "REF-0640",
       "REF-0642"
      ],
      "null_result_ids": [
-      "REF-0641"
+      "REF-0641",
+      "REF-3579"
      ],
      "evidence": 6,
      "label": "Memory"
@@ -27366,8 +27407,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0157",
-      "REF-0170",
       "REF-0642",
       "REF-0643"
      ],
@@ -27380,7 +27419,6 @@
      "note": "Mild gastrointestinal upset (nausea, bloating, diarrhoea) is the most common side effect. Rare allergic reactions can occur, particularly in individuals sensitive to mushrooms, and it may slightly lower blood sugar or have mild blood-thinning effects, so caution is advised for people on diabetes or anticoagulant medications.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0157",
       "REF-0170"
      ],
      "status": "verified"
@@ -27389,7 +27427,6 @@
      "note": "Duke (2002) does not include a dedicated entry for Lion's mane mushroom (Hericium erinaceus) in the Handbook of Medicinal Herbs, Second Edition.",
      "severity": "info",
      "reference_ids": [
-      "REF-0157",
       "REF-0170",
       "REF-0063"
      ],
@@ -27586,66 +27623,84 @@
    "indications": [
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Hibiscus lowered fasting blood sugar in meta-analyses of randomized trials",
      "reference_ids": [
-      "REF-0567"
+      "REF-0567",
+      "REF-3583",
+      "REF-3582"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 9,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cardiovascular-support",
-     "note": "inferred from antihypertensive action",
+     "note": "Hibiscus lowered blood pressure and improved some blood lipid and sugar markers in meta-analyses; a Cochrane review judged the blood pressure evidence vs placebo insufficient (very low certainty)",
      "reference_ids": [
       "REF-0464",
       "REF-0566",
-      "REF-0567"
+      "REF-0567",
+      "REF-3582"
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-1844"
+      "REF-1844",
+      "REF-3581"
      ],
      "evidence": 9,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "high-blood-pressure",
-     "note": "Lowers blood pressure, with the greatest effect in people with raised blood pressure",
+     "note": "Hibiscus lowered blood pressure in meta-analyses, most in people with raised blood pressure, and matched captopril in one trial; a Cochrane review judged the evidence vs placebo insufficient (very low certainty)",
      "reference_ids": [
       "REF-0464",
       "REF-0566",
-      "REF-0567"
+      "REF-0567",
+      "REF-1846",
+      "REF-1847",
+      "REF-3582"
      ],
      "status": "verified",
      "null_result_ids": [
-      "REF-1844"
+      "REF-1844",
+      "REF-3581"
      ],
-     "evidence": 9,
+     "evidence": 10,
      "label": "High blood pressure"
     },
     {
      "condition": "high-cholesterol",
-     "note": "inferred from lipid-lowering action",
+     "note": "Meta-analyses disagree: some found hibiscus lowered total and LDL cholesterol, others found no significant effect on blood lipids",
      "reference_ids": [
-      "REF-0464"
+      "REF-0464",
+      "REF-3584",
+      "REF-3583",
+      "REF-3582"
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-1843"
+      "REF-1843",
+      "REF-0567"
      ],
-     "evidence": 7,
+     "evidence": 9,
      "label": "High cholesterol"
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
-     "reference_ids": [],
+     "note": "Hibiscus improved blood pressure, cholesterol and blood sugar markers in meta-analyses; it did not reduce body weight in a 2024 meta-analysis",
+     "reference_ids": [
+      "REF-3582",
+      "REF-3584"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0567"
      ],
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-3585"
+     ],
+     "evidence": 8,
      "label": "Metabolic support"
     }
    ],
@@ -27869,9 +27924,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0049",
-      "REF-0206",
-      "REF-0319",
       "REF-2317",
       "REF-2320"
      ],
@@ -27887,19 +27939,12 @@
     },
     {
      "action": "antidiabetic",
-     "reference_ids": [
-      "REF-0049",
-      "REF-0206",
-      "REF-0319"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0049",
-      "REF-0206",
-      "REF-0319",
       "REF-2317",
       "REF-2323",
       "REF-2324",
@@ -27910,9 +27955,6 @@
     {
      "action": "emollient",
      "reference_ids": [
-      "REF-0049",
-      "REF-0206",
-      "REF-0319",
       "REF-2318"
      ],
      "status": "verified"
@@ -27920,9 +27962,6 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0049",
-      "REF-0206",
-      "REF-0319",
       "REF-2322",
       "REF-2327"
      ],
@@ -27931,9 +27970,6 @@
     {
      "action": "vulnerary",
      "reference_ids": [
-      "REF-0049",
-      "REF-0206",
-      "REF-0319",
       "REF-2318"
      ],
      "status": "verified"
@@ -27945,32 +27981,25 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0206",
-      "REF-0049",
-      "REF-0319"
-     ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Reviewed for blood-sugar benefits (review); a meta-analysis of trials found no effect on blood sugar",
      "reference_ids": [
       "REF-2319"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0206",
-      "REF-0049",
-      "REF-0319"
+     "null_result_ids": [
+      "REF-3586"
      ],
      "evidence": 2,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Sea buckthorn compounds and fruit-peel extract reduced tumour promotion and breast tumours in animal models (preclinical)",
      "reference_ids": [
       "REF-2321",
       "REF-2326"
@@ -27983,36 +28012,23 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-2319",
-      "REF-2317"
+      "REF-2317",
+      "REF-3586"
      ],
      "status": "verified",
-     "evidence": 2,
+     "note": "Reviewed for cardiovascular protection (reviews); improved blood lipids in a meta-analysis of trials",
+     "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
-     "condition": "cold",
-     "note": "inferred from immunomodulator action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0206",
-      "REF-0049",
-      "REF-0319"
-     ],
-     "evidence": 1,
-     "label": "Cold & flu"
-    },
-    {
      "condition": "eczema",
-     "note": "inferred from emollient action",
+     "note": "Traditional skin remedy with dermatological effects reviewed (review); oral seed and pulp oils did no better than placebo for atopic eczema in a controlled trial",
      "reference_ids": [
       "REF-2318"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0206",
-      "REF-0049",
-      "REF-0319"
+     "null_result_ids": [
+      "REF-3593"
      ],
      "evidence": 2,
      "label": "Eczema"
@@ -28023,59 +28039,83 @@
       "REF-2317"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0206",
-      "REF-0049",
-      "REF-0319"
+     "null_result_ids": [
+      "REF-3587"
      ],
+     "note": "Sea buckthorn polysaccharides stimulated immune cells in lab studies (reviews); the berries did not prevent colds or digestive infections in a randomized trial",
      "evidence": 2,
      "label": "Immune support"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Sea buckthorn berries lowered CRP, an inflammation marker, in a randomized trial; oil capsules did not change inflammation markers in haemodialysis patients",
      "reference_ids": [
-      "REF-2318"
+      "REF-2318",
+      "REF-3587"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0206",
-      "REF-0049",
-      "REF-0319"
+     "null_result_ids": [
+      "REF-3588"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional skin remedy with anti-inflammatory and skin-healing effects reviewed (review)",
      "reference_ids": [
       "REF-2318"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0206",
-      "REF-2320",
-      "REF-0049",
-      "REF-0319"
+      "REF-2320"
      ],
      "evidence": 2,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
-     "note": "inferred from vulnerary action",
+     "note": "Sea buckthorn cream healed second-degree burns faster than silver sulfadiazine in a randomized trial; traditional wound remedy (review)",
      "reference_ids": [
-      "REF-2318"
+      "REF-2318",
+      "REF-3592"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0206",
-      "REF-0049",
-      "REF-0319"
-     ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Wounds"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Sea buckthorn lowered triglycerides and total and LDL cholesterol in a meta-analysis of 15 trials, mainly in people with abnormal blood lipids; a trial in healthy adults found no effect",
+     "reference_ids": [
+      "REF-3586"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3589"
+     ],
+     "evidence": 7,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "constipation",
+     "note": "A sea buckthorn fruit extract increased complete bowel movements and normalised stools vs placebo in chronic constipation in a randomized trial",
+     "reference_ids": [
+      "REF-3590"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Constipation"
+    },
+    {
+     "condition": "menopause",
+     "note": "Sea buckthorn oil capsules improved vaginal atrophy (dryness) in postmenopausal women vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3591"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Menopause"
     }
    ],
    "contraindications": [
@@ -28083,9 +28123,7 @@
      "note": "Berries and juice are safe as food. Seed oil is safe topically and orally in moderate amounts. May have mild anticoagulant effects. May lower blood pressure and blood sugar - use caution with medications. Allergic reactions are rare.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0049",
-      "REF-0206",
-      "REF-0319"
+      "REF-0206"
      ],
      "status": "verified"
     },
@@ -28093,9 +28131,7 @@
      "note": "Duke (2002) rates sea buckthorn as +++ and notes antioxidant, hepatoprotective, antiulcer, and vulnerary activities at the experimental level (score 1). The berries are exceptionally rich in vitamins C (one of the highest natural sources) and E, carotenoids, flavonoids, and omega-7 fatty acids (palmitoleic acid). Duke recommends sea buckthorn as a 'food farmacy' - consumed as part of the regular diet for its nutritional-medicinal benefits. Its radioprotective properties have been studied, though without strong clinical validation. No significant safety concerns at food doses (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0049",
       "REF-0206",
-      "REF-0319",
       "REF-0063"
      ],
      "status": "verified"
@@ -28115,7 +28151,8 @@
     "REF-2324",
     "REF-2325",
     "REF-2326",
-    "REF-2327"
+    "REF-2327",
+    "REF-0206"
    ],
    "lookalikes_review": {
     "outcome": "none-known",

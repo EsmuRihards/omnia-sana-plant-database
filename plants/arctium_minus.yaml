@@ -147,8 +147,9 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Seed extract reduced pain in a mouse model of acute gout (preclinical)
+  reference_ids:
+  - REF-1924
   status: needs-review
 - condition: cancer
   note: Arctium minus extracts show dose-dependent cytotoxicity against MCF-7 and MDA-MB-231 breast cancer
@@ -160,8 +161,9 @@ indications:
   - REF-1927
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Anti-inflammatory and pain-relieving activity in animal tests (preclinical)
+  reference_ids:
+  - REF-1925
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -269,4 +271,7 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   (Atropa belladonna) root confusion. Existing harvesting.season not inherited.
   | 2026-11-10: symptom-source audit batch 2 - REF-0476 (Herbal Reality) and REF-0477 (Drugs.com)
   purged: both describe Arctium lappa and only list A. minus as an alternate name (owner decision
-  2026-11-10: wrong species). Only A. minus-specific studies remain.'
+  2026-11-10: wrong species). Only A. minus-specific studies remain.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. A. minus studies moved
+  from mechanistic to direct where they name the symptom: REF-1924 (acute gout model) for
+  arthritis, REF-1925 (anti-inflammatory in vivo) for inflammation. No trials on PubMed.'

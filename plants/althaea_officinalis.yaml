@@ -165,21 +165,22 @@ indications:
   - REF-1368
   status: verified
 - condition: eczema
-  note: inferred from emollient action
+  note: A 1% marshmallow ointment reduced atopic dermatitis severity more than 1% hydrocortisone in a
+    small double-blind trial in children
   reference_ids:
   - REF-1373
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0482
 - condition: indigestion
-  note: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
-    mucilage)
+  note: Mucilage eases mild stomach discomfort (EU herbal monograph; ESCOP)
   reference_ids:
   - REF-0481
   - REF-0482
   status: verified
 - condition: skin-irritation
-  note: Topical soothing for irritated skin
+  note: Soothing (emollient) for irritated skin; a marshmallow ointment eased atopic dermatitis in a small
+    trial in children
   reference_ids:
   - REF-1373
   status: needs-review
@@ -190,6 +191,13 @@ indications:
   reference_ids:
   - REF-0481
   - REF-0482
+  status: verified
+  note: Demulcent for irritation of the mouth and throat (EU herbal monograph; ESCOP)
+- condition: infection
+  note: Adding marshmallow extract to clotrimazole vaginal cream improved thrush symptoms more than clotrimazole
+    alone in a randomized trial
+  reference_ids:
+  - REF-1376
   status: verified
 contraindications:
 - note: Very well tolerated. The mucilage can slow the absorption of other medicines, so take other drugs
@@ -244,4 +252,10 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   | 2026-11-10: symptom-source audit batch 2 - EU (HMPC) + ESCOP monographs cover dry cough,
   oral/pharyngeal irritation and mild gastric discomfort only: REF-0481 removed from acid-reflux,
   REF-0482 (ESCOP) removed from eczema/skin-irritation and wired to sore-throat + indigestion.
-  REF-1370 (rat wound healing) removed from skin-irritation.'
+  REF-1370 (rat wound healing) removed from skin-irritation.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. Held add-on RCT
+  REF-1376 (marshmallow + clotrimazole vs clotrimazole in vulvovaginal candidiasis; better symptom
+  relief) wired as a new infection pair (owner rule). Eczema/skin notes now describe REF-1373 (1%
+  ointment beat 1% hydrocortisone, pilot trial in children). Indigestion note no longer claims
+  heartburn/reflux (EU monograph: mild gastric discomfort only). BNO 1030 (Imupret) trial not
+  added (multi-herb).'

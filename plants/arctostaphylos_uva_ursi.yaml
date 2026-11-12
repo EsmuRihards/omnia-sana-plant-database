@@ -132,7 +132,6 @@ actions:
     (short-term)
   reference_ids:
   - REF-0405
-  - REF-0406
   - REF-0700
   - REF-0701
   - REF-2370
@@ -150,7 +149,6 @@ actions:
     (short-term)
   reference_ids:
   - REF-0405
-  - REF-0406
   - REF-0700
   - REF-0701
   status: verified
@@ -163,31 +161,29 @@ indications:
   - REF-2863
   status: needs-review
 - condition: infection
-  note: Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)
+  note: Urinary antiseptic for mild cystitis (EU herbal monograph; ESCOP); two randomized trials found
+    no symptom benefit
   reference_ids:
   - REF-0405
   - REF-0407
   status: verified
   mechanistic_exclude_ids:
-  - REF-0406
   - REF-2378
   null_result_ids:
   - REF-0700
   - REF-0701
 - condition: urinary-support
-  note: inferred from urinary-antiseptic action
+  note: Used short-term for mild lower urinary tract infection symptoms (EU herbal monograph); two randomized
+    trials found no symptom benefit
   reference_ids:
   - REF-0405
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0406
   null_result_ids:
   - REF-0700
   - REF-0701
 - condition: uti
-  note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
-    by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis
-    (short-term)
+  note: Urinary antiseptic for mild cystitis (EU herbal monograph; ESCOP); in two randomized trials in
+    women with UTI, uva-ursi did not ease symptoms and led to more symptom burden than an antibiotic
   reference_ids:
   - REF-0405
   - REF-0407
@@ -195,16 +191,6 @@ indications:
   null_result_ids:
   - REF-0700
   - REF-0701
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0406
-  - REF-0700
-  - REF-0701
-  - REF-2378
-  - REF-0405
 contraindications:
 - note: 'Short-term use only: not for more than 1 week at a time and not more than about 5 times per year.
     If symptoms persist beyond ~4 days, worsen, or are accompanied by fever, blood in the urine or pain,
@@ -295,4 +281,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   | 2026-11-10: symptom-source audit batch 2 - REF-0701 (ATAFUTI: no effect on symptom severity)
   and REF-0700 (more symptom burden than fosfomycin) moved to null_result_ids. EU + ESCOP
   monographs cover lower UTI only - removed from diarrhea, skin-irritation, wounds; ESCOP REF-0407
-  wired to uti + infection. REF-2862 purged (arbutin, no species).'
+  wired to uti + infection. REF-2862 purged (arbutin, no species).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. REF-0406 (hydroquinone
+  changed bladder-cell proteins: "may exhibit negative properties") removed from the antimicrobial
+  and urinary-antiseptic actions (kept in references), retagged preclinical. Wounds dropped:
+  off-target cards (C. acnes acne study; ESCOP limited to urinary use). Notes now state the two
+  null trials.'

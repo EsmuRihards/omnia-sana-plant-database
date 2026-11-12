@@ -150,8 +150,6 @@ dosage:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0309
-  - REF-0313
   - REF-0705
   - REF-0706
   - REF-0709
@@ -173,8 +171,6 @@ actions:
     colon lesions in vivo (preclinical).
 - action: antioxidant
   reference_ids:
-  - REF-0309
-  - REF-0313
   - REF-0705
   - REF-0706
   - REF-0708
@@ -184,28 +180,25 @@ actions:
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0309
-  - REF-0313
   - REF-0706
   - REF-0707
   status: verified
 - action: emollient
   reference_ids:
-  - REF-0309
-  - REF-0313
   - REF-0705
   - REF-0709
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Burdock root tea lowered inflammatory markers (not pain) in a randomized trial in knee osteoarthritis;
+    anti-rheumatic activity reported for the root (review)
+  reference_ids:
+  - REF-2339
+  - REF-3440
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0706
   - REF-2343
-  - REF-0309
-  - REF-0313
   - REF-0705
   - REF-0709
 - condition: bloating
@@ -214,8 +207,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0707
-  - REF-0309
-  - REF-0313
 - condition: cancer
   note: Arctium lappa root reduces diet-induced preneoplastic colon lesions and suppresses melanoma progression;
     its lignan arctigenin induces apoptosis in colon (HT-29), breast (in vitro/in vivo), lung and gastric
@@ -232,18 +223,17 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0707
-  - REF-0309
-  - REF-0313
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Burdock root lowered inflammatory markers in randomized trials (knee osteoarthritis; polycystic
+    ovary syndrome); anti-inflammatory activity in lab studies (reviews)
   reference_ids:
   - REF-0705
   - REF-0709
+  - REF-3440
+  - REF-3441
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0706
-  - REF-0309
-  - REF-0313
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -251,8 +241,6 @@ indications:
   mechanistic_exclude_ids:
   - REF-0706
   - REF-2343
-  - REF-0309
-  - REF-0313
   - REF-0705
   - REF-0709
 contraindications:
@@ -262,8 +250,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0211
-  - REF-0309
-  - REF-0313
   status: verified
 - note: 'Duke (2002) rates burdock as +++ and notes antibacterial, antimutagenic, antitumor, choleretic,
     diuretic, and prebiotic (bifidogenic) activities at the experimental level (score 1). The root is
@@ -275,8 +261,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0211
-  - REF-0309
-  - REF-0313
   - REF-0063
   status: verified
 references:
@@ -367,4 +351,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 2 - REF-0309 (WHO monographs 2002: no burdock monograph
   found in WHO vols 1-4) and REF-0313 (Xu 2008, could not be located) removed from every symptom
   as unverifiable. REF-0705/REF-0709 kept only for inflammation (REF-0709 names contact dermatitis
-  as a SIDE EFFECT, not a use). REF-2858/2860 purged (arctigenin, species not named).'
+  as a SIDE EFFECT, not a use). REF-2858/2860 purged (arctigenin, species not named).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. REF-0309 (WHO 2002
+  vol. 2: no burdock monograph) and REF-0313 (unlocatable; deleted) purged from the actions too.
+  Held review REF-2339 (anti-rheumatic) moved to direct for arthritis. Knee-OA RCT REF-3440 (root
+  tea lowered CRP/IL-6; no pain outcome) added to arthritis and inflammation; PCOS RCT REF-3441 to
+  inflammation. REF-0707 retagged narrative-review.'

@@ -196,7 +196,7 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Burned as moxa for rheumatism in traditional practice (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
@@ -222,7 +222,7 @@ indications:
   - REF-0733
   status: needs-review
 - condition: indigestion
-  note: inferred from digestive action
+  note: Traditional remedy for stomach disorders (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
@@ -238,7 +238,7 @@ indications:
   - REF-0149
   - REF-0098
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for swollen tonsils (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
@@ -378,4 +378,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 2 - REF-0149 (Kung & Ko 2002) could not be located -
   removed as unverifiable. Grieve (Mugwort) supports stomach disorders, rheumatism (moxa) and
   ''swellings of the tonsils''; emmenagogue/nervine are not menstrual cramps or insomnia - removed
-  from 7 pairs.'
+  from 7 pairs.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. Notes rewritten to
+  Grieve (moxa for rheumatism; stomach disorders; swollen tonsils). Moxibustion trials not used (a
+  heat technique, not the plant''s pharmacology).'

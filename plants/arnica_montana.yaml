@@ -166,22 +166,30 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: An arnica gel was as effective as ibuprofen gel for hand osteoarthritis in a randomized trial;
+    applied for rheumatic muscle and joint complaints (EU herbal monograph)
   reference_ids:
   - REF-0726
+  - REF-3446
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2101
   - REF-2105
   - REF-0398
 - condition: bruising
-  note: Antiecchymotic / vulnerary (helps disperse bruises); Topical anti-inflammatory for bruising, swelling
-    and sprains
+  note: Traditional topical remedy for bruises (EU herbal monograph, summarised in a review); a 20% arnica
+    ointment sped bruise healing in one randomized trial, but arnica gel, a 10% ointment and a systematic
+    review found no clear benefit
   reference_ids:
   - REF-0726
+  - REF-3442
   status: verified
   mechanistic_exclude_ids:
   - REF-0398
+  null_result_ids:
+  - REF-3443
+  - REF-3444
+  - REF-3445
 - condition: cancer
   note: Arnica montana and its constituent helenalin exert anticancer activity against several tumour
     types in vitro and in vivo, inhibiting NF-kappaB (p65) signalling, inducing apoptosis and synergizing
@@ -192,31 +200,19 @@ indications:
   - REF-2865
   status: needs-review
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Antibacterial activity reported in lab studies (narrative review)
   reference_ids:
   - REF-0398
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Applied for inflammation after blunt injuries (EU herbal monograph, summarised in a review); anti-inflammatory
+    activity in lab and animal studies
   reference_ids:
   - REF-0398
   - REF-0726
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2105
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2105
-  - REF-0398
-- condition: wounds
-  note: inferred from vulnerary action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0398
 contraindications:
 - note: EXTERNAL USE ONLY on unbroken skin. Arnica is toxic if swallowed and can cause stomach pain, vomiting,
     diarrhoea, breathing difficulty, irregular heartbeat and, in serious cases, cardiac arrest; the only
@@ -294,4 +290,12 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   REF-2098, REF-2103 (Alpine/Boiron pellets; p=0.097/0.074). REF-0398 abstract names only
   antibacterial/anti-inflammatory/antitumour activity. REF-0726 quotes the EU monograph (blunt
   injuries, inflammations, rheumatic muscle and joint complaints) - wired to bruising,
-  inflammation, arthritis.'
+  inflammation, arthritis.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. Wounds and
+  skin-irritation dropped: contradicted by the record''s own safety notes ("do not apply to broken
+  or damaged skin, open wounds"; "prolonged topical use can also irritate the skin"; inv. 11).
+  Bruising: 20% ointment RCT REF-3442 added; topical arnica gel RCT REF-3443, 10% ointment
+  blepharoplasty RCT REF-3444 and the arnica/bromelain SR REF-3445 ("insufficient data") recorded
+  as no-effect. Hand-OA RCT REF-3446 (arnica gel non-inferior to ibuprofen gel) added to
+  arthritis. Homeopathic arnica trials not used (owner rule). Gap: topical arnica increased muscle
+  pain after eccentric exercise (20807867) - no muscle pair exists.'

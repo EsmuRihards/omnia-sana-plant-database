@@ -21,7 +21,6 @@ constituents:
   note: Including columbianetin, angelicin, imperatorin and xanthotoxin.
   reference_ids:
   - REF-0695
-  - REF-0397
   - REF-0696
 - name: Essential (volatile) oil
   compounds:
@@ -164,7 +163,6 @@ actions:
   note: Anti-inflammatory and gastroprotective
   reference_ids:
   - REF-0695
-  - REF-0397
   - REF-0696
   - REF-2411
   status: verified
@@ -233,7 +231,6 @@ actions:
   note: Anti-inflammatory and gastroprotective
   reference_ids:
   - REF-0695
-  - REF-0397
   - REF-0696
   status: verified
 - action: neuroprotective
@@ -251,11 +248,10 @@ actions:
   note: Anxiolytic / sedative (anxiety, nervous tension)
   reference_ids:
   - REF-0695
-  - REF-2410
   status: verified
 indications:
 - condition: anxiety
-  note: Anxiolytic / sedative (anxiety, nervous tension)
+  note: Anti-anxiety activity in animal studies (narrative review; preclinical)
   reference_ids:
   - REF-0695
   status: verified
@@ -265,7 +261,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0695
-  - REF-0397
   - REF-0696
 - condition: cancer
   note: Angelica archangelica fruit tincture is antiproliferative against PANC-1 pancreatic cancer cells;
@@ -276,7 +271,7 @@ indications:
   - REF-2857
   status: needs-review
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Cognition-enhancing activity reported in animal studies (narrative review)
   reference_ids:
   - REF-0695
   status: needs-review
@@ -284,20 +279,14 @@ indications:
   - REF-0696
   - REF-0697
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Extracts reduced inflammation in lab and animal models, including a fibromyalgia model (narrative
+    review; preclinical)
   reference_ids:
   - REF-0695
-  - REF-0397
   - REF-0696
   status: needs-review
-- condition: insomnia
-  note: inferred from sedative action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0695
 - condition: nervous-tension
-  note: Anxiolytic / sedative (anxiety, nervous tension)
+  note: Anti-anxiety activity in animal studies (narrative review; preclinical)
   reference_ids:
   - REF-0695
   status: verified
@@ -308,7 +297,6 @@ indications:
   mechanistic_exclude_ids:
   - REF-0696
   - REF-0695
-  - REF-0397
 - condition: stress
   note: inferred from anxiolytic action
   reference_ids: []
@@ -316,11 +304,14 @@ indications:
   mechanistic_exclude_ids:
   - REF-0695
 - condition: urinary-support
-  note: Overactive bladder - a pilot RCT of an Angelica archangelica leaf extract reduced daytime voids
-    and storage symptoms and improved quality of life, with near-significant benefit for nocturia
+  note: A leaf extract reduced daytime urination and bladder-storage symptoms in a pilot trial in overactive
+    bladder; a larger placebo-controlled trial of a leaf extract found no overall benefit for night-time
+    urination
   reference_ids:
   - REF-0615
   status: needs-review
+  null_result_ids:
+  - REF-3439
 contraindications:
 - note: Contains furanocoumarins, which can cause photosensitivity; avoid excessive sun or UV exposure
     while using the herb medicinally.
@@ -485,4 +476,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   | 2026-11-10: symptom-source audit batch 2 - REF-0695 (narrative review) names anti-anxiety,
   cognition enhancer, antiviral, anti-inflammatory, gastroprotective activities only - kept for
   anxiety, nervous-tension, cognitive-function, inflammation; removed from 14 other pairs.
-  REF-0397 (columbianetin) and REF-0696 (fibromyalgia model) removed from arthritis/skin.'
+  REF-0397 (columbianetin) and REF-0696 (fibromyalgia model) removed from arthritis/skin.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. REF-0397
+  (columbianetin review; never names A. archangelica) purged and deleted. REF-2410
+  (elevated-plus-maze anxiety test) removed from the sedative action - insomnia, inferred only
+  from it, dropped. SagaPro RCT REF-3439 (A. archangelica leaf extract; no overall benefit for
+  nocturia vs placebo) recorded as no-effect for urinary-support. Notes rewritten.'

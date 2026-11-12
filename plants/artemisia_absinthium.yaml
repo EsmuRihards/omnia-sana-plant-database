@@ -190,7 +190,7 @@ indications:
   - REF-0112
   - REF-0098
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditional bitter for flatulence (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
@@ -214,14 +214,14 @@ indications:
   mechanistic_exclude_ids:
   - REF-0728
 - condition: indigestion
-  note: inferred from digestive action
+  note: Traditional bitter for weak digestion (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Traditional antiseptic use (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
@@ -255,6 +255,13 @@ indications:
   mechanistic_exclude_ids:
   - REF-0112
   - REF-0098
+- condition: ibd
+  note: In two small placebo-controlled trials in Crohn's disease, wormwood allowed steroid tapering and
+    improved symptoms and mood
+  reference_ids:
+  - REF-3447
+  - REF-3448
+  status: verified
 contraindications:
 - note: 'CAUTION: Contains thujone, which is neurotoxic in significant amounts. Internal use should be
     limited in duration and dose - short-term use only (under 4 weeks). Contraindicated in pregnancy (powerful
@@ -318,4 +325,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 2 - REF-0112 (Hoffmann, Medical Herbalism) unverifiable
   - removed. Grieve (A Modern Herbal, Common Wormwood) supports flatulence, enfeebled digestion
   and antiseptic use; its gout line is about Roman wormwood - removed from the other 8 pairs.
-  REF-0728 abstract names no cancer use.'
+  REF-0728 abstract names no cancer use.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. New ibd pair from two
+  placebo-controlled Crohn''s disease RCTs (REF-3447 steroid-sparing; REF-3448 TNF-alpha,
+  remission) under the owner rule. Notes rewritten to Grieve. Gap for owner: Commission E/EMA
+  appetite-loss and dyspepsia uses have no appetite-loss pair (no SR/RCT).'

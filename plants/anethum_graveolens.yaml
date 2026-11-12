@@ -184,7 +184,7 @@ indications:
   - REF-0174
   - REF-3094
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditional remedy for flatulence (WHO monograph)
   reference_ids:
   - REF-3094
   status: needs-review
@@ -203,9 +203,14 @@ indications:
   reference_ids:
   - REF-1391
   - REF-0174
+  - REF-3435
   status: verified
+  null_result_ids:
+  - REF-3436
+  note: Dill lowered LDL cholesterol and insulin resistance in meta-analyses of trials; one trial in people
+    with high lipids found no effect on lipids
 - condition: indigestion
-  note: inferred from digestive action
+  note: Traditional remedy for dyspepsia and stomach ache (WHO monograph)
   reference_ids:
   - REF-3094
   status: needs-review
@@ -213,8 +218,10 @@ indications:
   - REF-1391
   - REF-0174
 - condition: infection
-  note: inferred from antimicrobial action
-  reference_ids: []
+  note: A 2% dill vaginal suppository was as effective as clotrimazole for vaginal thrush in a randomized
+    trial
+  reference_ids:
+  - REF-3437
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1391
@@ -223,7 +230,8 @@ indications:
   - REF-1397
   - REF-3094
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory activity in experimental studies (WHO monograph); in a trial in type 2 diabetes,
+    dill powder did not lower the inflammatory marker hs-CRP
   reference_ids:
   - REF-3094
   status: needs-review
@@ -236,6 +244,8 @@ indications:
   - REF-1391
   - REF-0174
   status: verified
+  note: Dill improved insulin resistance and LDL cholesterol in a meta-analysis of randomized trials,
+    and glycaemic control in a trial in type 2 diabetes
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -245,23 +255,27 @@ indications:
   - REF-0174
   - REF-3094
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Traditionally used for painful urination (WHO monograph)
   reference_ids:
   - REF-3094
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1391
   - REF-0174
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1391
+- condition: high-cholesterol
+  note: Dill lowered LDL cholesterol (and triglycerides in some analyses) in systematic reviews of trials;
+    one trial in people with high lipids found no effect
+  reference_ids:
   - REF-0174
-  - REF-1396
-  - REF-1397
-  - REF-3094
+  - REF-3435
+  status: verified
+  null_result_ids:
+  - REF-3436
+- condition: anxiety
+  note: Boiled dill seed reduced anxiety during labour in a randomized trial
+  reference_ids:
+  - REF-3438
+  status: verified
 contraindications:
 - note: Widely used as a food herb/spice; WHO monograph notes a “generally regarded as safe” status as
     a flavouring agent (World Health Organization, 2007). Allergic reactions (including oral itching,
@@ -379,4 +393,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph). WHO text (vol. 3): dyspepsia, gastritis, flatulence, stomach ache; traditional
   dysuria, diarrhoea, dysmenorrhoea, insomnia; experimental anti-inflammatory/analgesic - so
   removed from arthritis, cardiovascular, infection, metabolic, skin, swelling, uti, wounds.
-  REF-1391 measured hs-CRP with no significant change -> null_result_ids for inflammation.'
+  REF-1391 measured hs-CRP with no significant change -> null_result_ids for inflammation.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. Lipid evidence:
+  updated SR REF-3435 (LDL, TG, TC improved) added; Kojuri 2007 RCT REF-3436 ("no significant
+  effect on lipid profile") recorded as no-effect; new high-cholesterol pair (owner rule; REF-0174
+  + REF-3435). Candidiasis RCT REF-3437 (2% suppository = clotrimazole) wired to infection. New
+  anxiety pair from labour-anxiety RCT REF-3438. Wounds dropped: its only card was an
+  antimycobacterial lab screen (off-target, inv. 11). Notes rewritten to the WHO monograph
+  wording. Not added: Apiaceae dysmenorrhoea MA 41653970 (no dill-specific result in the
+  abstract).'

@@ -328,6 +328,7 @@ indications:
   - REF-2536
   - REF-3418
   - REF-0648
+  - REF-3436
   status: verified
 - condition: high-blood-pressure
   note: Garlic lowered blood pressure in people with hypertension in meta-analyses of randomized trials
@@ -597,4 +598,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and high-blood-pressure. Skin-irritation and wounds dropped: contradicted by the record''s own
   safety note (topical raw garlic causes chemical burns; SR of garlic burn injuries 33571752) -
   inv. 11. WCRF report REF-0312 removed from six non-cancer actions. REF-2839 retagged
-  narrative-review (editorial/review).'
+  narrative-review (editorial/review).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep (batch 2 follow-up).
+  Kojuri 2007 RCT REF-3436 (garlic tablets improved cholesterol, LDL and HDL) added to
+  high-cholesterol.'

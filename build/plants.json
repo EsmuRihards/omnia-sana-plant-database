@@ -3063,10 +3063,11 @@
       "REF-0204",
       "REF-2536",
       "REF-3418",
-      "REF-0648"
+      "REF-0648",
+      "REF-3436"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 10,
      "label": "High cholesterol"
     },
     {
@@ -4235,7 +4236,7 @@
     },
     {
      "condition": "eczema",
-     "note": "inferred from emollient action",
+     "note": "A 1% marshmallow ointment reduced atopic dermatitis severity more than 1% hydrocortisone in a small double-blind trial in children",
      "reference_ids": [
       "REF-1373"
      ],
@@ -4248,7 +4249,7 @@
     },
     {
      "condition": "indigestion",
-     "note": "Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective mucilage)",
+     "note": "Mucilage eases mild stomach discomfort (EU herbal monograph; ESCOP)",
      "reference_ids": [
       "REF-0481",
       "REF-0482"
@@ -4259,7 +4260,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "Topical soothing for irritated skin",
+     "note": "Soothing (emollient) for irritated skin; a marshmallow ointment eased atopic dermatitis in a small trial in children",
      "reference_ids": [
       "REF-1373"
      ],
@@ -4278,8 +4279,19 @@
       "REF-0482"
      ],
      "status": "verified",
+     "note": "Demulcent for irritation of the mouth and throat (EU herbal monograph; ESCOP)",
      "evidence": 1,
      "label": "Sore throat"
+    },
+    {
+     "condition": "infection",
+     "note": "Adding marshmallow extract to clotrimazole vaginal cream improved thrush symptoms more than clotrimazole alone in a randomized trial",
+     "reference_ids": [
+      "REF-1376"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Infection (general)"
     }
    ],
    "contraindications": [
@@ -4538,8 +4550,10 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "A standardised Andrographis extract reduced knee osteoarthritis pain vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3426"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1621",
@@ -4547,7 +4561,7 @@
       "REF-0393",
       "REF-0394"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
@@ -4564,24 +4578,30 @@
     },
     {
      "condition": "cold",
-     "note": "Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom severity and duration)",
+     "note": "Reduced symptoms of colds and acute respiratory infections in systematic reviews and placebo-controlled trials; a recent phase III trial found only a short-lived early benefit",
      "reference_ids": [
       "REF-0392",
       "REF-0393",
-      "REF-0395"
+      "REF-0395",
+      "REF-1622",
+      "REF-3429"
      ],
      "status": "verified",
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-3430"
+     ],
+     "evidence": 9,
      "label": "Cold & flu"
     },
     {
      "condition": "fever",
-     "note": "Antipyretic (fever)",
+     "note": "Antipyretic; in a randomized trial a high dose relieved fever and sore throat as well as paracetamol",
      "reference_ids": [
-      "REF-0395"
+      "REF-0395",
+      "REF-3433"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Fever"
     },
     {
@@ -4604,15 +4624,16 @@
      "reference_ids": [
       "REF-0392",
       "REF-0393",
-      "REF-0395"
+      "REF-0395",
+      "REF-1622"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Andrographolide reduced inflammation in lab and animal studies (review); listed for inflammation by MSKCC About Herbs",
      "reference_ids": [
       "REF-0393",
       "REF-0395"
@@ -4643,10 +4664,12 @@
      "condition": "sore-throat",
      "reference_ids": [
       "REF-0392",
-      "REF-1615"
+      "REF-1615",
+      "REF-3433"
      ],
      "status": "verified",
-     "evidence": 8,
+     "note": "An Andrographis spray relieved acute viral sore throat faster than a comparator spray, and the oral herb matched paracetamol for sore throat in an older trial (randomized trials)",
+     "evidence": 9,
      "label": "Sore throat"
     },
     {
@@ -4662,6 +4685,47 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "ibd",
+     "note": "An Andrographis extract (HMPL-004) gave more clinical responses than placebo in mild-to-moderate ulcerative colitis and was comparable to mesalazine in a second trial",
+     "reference_ids": [
+      "REF-3427",
+      "REF-3428"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Inflammatory bowel disease (IBD)"
+    },
+    {
+     "condition": "fatigue",
+     "note": "Reduced fatigue vs placebo in a 12-month pilot trial in people with relapsing-remitting multiple sclerosis",
+     "reference_ids": [
+      "REF-3431"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Fatigue / low energy"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Lowered triglycerides about as much as gemfibrozil in a randomized trial in people with raised triglycerides",
+     "reference_ids": [
+      "REF-3432"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "cough",
+     "note": "Reduced cough frequency and severity vs placebo in acute respiratory infections (meta-analysis of randomized trials)",
+     "reference_ids": [
+      "REF-3434"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Cough"
     }
    ],
    "contraindications": [
@@ -4951,7 +5015,7 @@
     },
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditional remedy for flatulence (WHO monograph)",
      "reference_ids": [
       "REF-3094"
      ],
@@ -4978,15 +5042,20 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-1391",
-      "REF-0174"
+      "REF-0174",
+      "REF-3435"
      ],
      "status": "verified",
-     "evidence": 8,
+     "null_result_ids": [
+      "REF-3436"
+     ],
+     "note": "Dill lowered LDL cholesterol and insulin resistance in meta-analyses of trials; one trial in people with high lipids found no effect on lipids",
+     "evidence": 9,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditional remedy for dyspepsia and stomach ache (WHO monograph)",
      "reference_ids": [
       "REF-3094"
      ],
@@ -5000,8 +5069,10 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
+     "note": "A 2% dill vaginal suppository was as effective as clotrimazole for vaginal thrush in a randomized trial",
+     "reference_ids": [
+      "REF-3437"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1391",
@@ -5010,12 +5081,12 @@
       "REF-1397",
       "REF-3094"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory activity in experimental studies (WHO monograph); in a trial in type 2 diabetes, dill powder did not lower the inflammatory marker hs-CRP",
      "reference_ids": [
       "REF-3094"
      ],
@@ -5036,6 +5107,7 @@
       "REF-0174"
      ],
      "status": "verified",
+     "note": "Dill improved insulin resistance and LDL cholesterol in a meta-analysis of randomized trials, and glycaemic control in a trial in type 2 diabetes",
      "evidence": 8,
      "label": "Metabolic support"
     },
@@ -5054,7 +5126,7 @@
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Traditionally used for painful urination (WHO monograph)",
      "reference_ids": [
       "REF-3094"
      ],
@@ -5067,19 +5139,28 @@
      "label": "Urinary support"
     },
     {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1391",
+     "condition": "high-cholesterol",
+     "note": "Dill lowered LDL cholesterol (and triglycerides in some analyses) in systematic reviews of trials; one trial in people with high lipids found no effect",
+     "reference_ids": [
       "REF-0174",
-      "REF-1396",
-      "REF-1397",
-      "REF-3094"
+      "REF-3435"
      ],
-     "evidence": 1,
-     "label": "Wounds"
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3436"
+     ],
+     "evidence": 8,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Boiled dill seed reduced anxiety during labour in a randomized trial",
+     "reference_ids": [
+      "REF-3438"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Anxiety"
     }
    ],
    "contraindications": [
@@ -5181,7 +5262,6 @@
      "note": "Including columbianetin, angelicin, imperatorin and xanthotoxin.",
      "reference_ids": [
       "REF-0695",
-      "REF-0397",
       "REF-0696"
      ]
     },
@@ -5356,7 +5436,6 @@
      "note": "Anti-inflammatory and gastroprotective",
      "reference_ids": [
       "REF-0695",
-      "REF-0397",
       "REF-0696",
       "REF-2411"
      ],
@@ -5459,7 +5538,6 @@
      "note": "Anti-inflammatory and gastroprotective",
      "reference_ids": [
       "REF-0695",
-      "REF-0397",
       "REF-0696"
      ],
      "status": "verified"
@@ -5484,8 +5562,7 @@
      ],
      "note": "Anxiolytic / sedative (anxiety, nervous tension)",
      "reference_ids": [
-      "REF-0695",
-      "REF-2410"
+      "REF-0695"
      ],
      "status": "verified"
     }
@@ -5493,7 +5570,7 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "Anxiolytic / sedative (anxiety, nervous tension)",
+     "note": "Anti-anxiety activity in animal studies (narrative review; preclinical)",
      "reference_ids": [
       "REF-0695"
      ],
@@ -5508,7 +5585,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0695",
-      "REF-0397",
       "REF-0696"
      ],
      "evidence": 1,
@@ -5527,7 +5603,7 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Cognition-enhancing activity reported in animal studies (narrative review)",
      "reference_ids": [
       "REF-0695"
      ],
@@ -5541,10 +5617,9 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Extracts reduced inflammation in lab and animal models, including a fibromyalgia model (narrative review; preclinical)",
      "reference_ids": [
       "REF-0695",
-      "REF-0397",
       "REF-0696"
      ],
      "status": "needs-review",
@@ -5552,19 +5627,8 @@
      "label": "Inflammation (general)"
     },
     {
-     "condition": "insomnia",
-     "note": "inferred from sedative action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0695"
-     ],
-     "evidence": 1,
-     "label": "Insomnia / sleeplessness"
-    },
-    {
      "condition": "nervous-tension",
-     "note": "Anxiolytic / sedative (anxiety, nervous tension)",
+     "note": "Anti-anxiety activity in animal studies (narrative review; preclinical)",
      "reference_ids": [
       "REF-0695"
      ],
@@ -5579,8 +5643,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0696",
-      "REF-0695",
-      "REF-0397"
+      "REF-0695"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -5598,11 +5661,14 @@
     },
     {
      "condition": "urinary-support",
-     "note": "Overactive bladder - a pilot RCT of an Angelica archangelica leaf extract reduced daytime voids and storage symptoms and improved quality of life, with near-significant benefit for nocturia",
+     "note": "A leaf extract reduced daytime urination and bladder-storage symptoms in a pilot trial in overactive bladder; a larger placebo-controlled trial of a leaf extract found no overall benefit for night-time urination",
      "reference_ids": [
       "REF-0615"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-3439"
+     ],
      "evidence": 5,
      "label": "Urinary support"
     }
@@ -5917,8 +5983,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0309",
-      "REF-0313",
       "REF-0705",
       "REF-0706",
       "REF-0709",
@@ -5944,8 +6008,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0309",
-      "REF-0313",
       "REF-0705",
       "REF-0706",
       "REF-0708",
@@ -5958,8 +6020,6 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0309",
-      "REF-0313",
       "REF-0706",
       "REF-0707"
      ],
@@ -5968,8 +6028,6 @@
     {
      "action": "emollient",
      "reference_ids": [
-      "REF-0309",
-      "REF-0313",
       "REF-0705",
       "REF-0709"
      ],
@@ -5979,18 +6037,19 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Burdock root tea lowered inflammatory markers (not pain) in a randomized trial in knee osteoarthritis; anti-rheumatic activity reported for the root (review)",
+     "reference_ids": [
+      "REF-2339",
+      "REF-3440"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0706",
       "REF-2343",
-      "REF-0309",
-      "REF-0313",
       "REF-0705",
       "REF-0709"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
@@ -5999,9 +6058,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0707",
-      "REF-0309",
-      "REF-0313"
+      "REF-0707"
      ],
      "evidence": 1,
      "label": "Bloating"
@@ -6025,27 +6082,25 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0707",
-      "REF-0309",
-      "REF-0313"
+      "REF-0707"
      ],
      "evidence": 1,
      "label": "Indigestion"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Burdock root lowered inflammatory markers in randomized trials (knee osteoarthritis; polycystic ovary syndrome); anti-inflammatory activity in lab studies (reviews)",
      "reference_ids": [
       "REF-0705",
-      "REF-0709"
+      "REF-0709",
+      "REF-3440",
+      "REF-3441"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0706",
-      "REF-0309",
-      "REF-0313"
+      "REF-0706"
      ],
-     "evidence": 2,
+     "evidence": 6,
      "label": "Inflammation (general)"
     },
     {
@@ -6056,8 +6111,6 @@
      "mechanistic_exclude_ids": [
       "REF-0706",
       "REF-2343",
-      "REF-0309",
-      "REF-0313",
       "REF-0705",
       "REF-0709"
      ],
@@ -6070,9 +6123,7 @@
      "note": "Generally safe as a food plant. Allergic reactions are possible in those sensitive to Asteraceae. Avoid in pregnancy due to uterine-stimulating effects reported in animal studies. The burs (seed heads) can cause mechanical irritation of skin and eyes on contact. Not recommended in biliary obstruction.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0211",
-      "REF-0309",
-      "REF-0313"
+      "REF-0211"
      ],
      "status": "verified"
     },
@@ -6081,8 +6132,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0211",
-      "REF-0309",
-      "REF-0313",
       "REF-0063"
      ],
      "status": "verified"
@@ -6293,10 +6342,12 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Seed extract reduced pain in a mouse model of acute gout (preclinical)",
+     "reference_ids": [
+      "REF-1924"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Arthritis / joint pain"
     },
     {
@@ -6313,10 +6364,12 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Anti-inflammatory and pain-relieving activity in animal tests (preclinical)",
+     "reference_ids": [
+      "REF-1925"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -6550,7 +6603,6 @@
      "note": "Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)",
      "reference_ids": [
       "REF-0405",
-      "REF-0406",
       "REF-0700",
       "REF-0701",
       "REF-2370",
@@ -6572,7 +6624,6 @@
      "note": "Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)",
      "reference_ids": [
       "REF-0405",
-      "REF-0406",
       "REF-0700",
       "REF-0701"
      ],
@@ -6592,14 +6643,13 @@
     },
     {
      "condition": "infection",
-     "note": "Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)",
+     "note": "Urinary antiseptic for mild cystitis (EU herbal monograph; ESCOP); two randomized trials found no symptom benefit",
      "reference_ids": [
       "REF-0405",
       "REF-0407"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0406",
       "REF-2378"
      ],
      "null_result_ids": [
@@ -6611,14 +6661,11 @@
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from urinary-antiseptic action",
+     "note": "Used short-term for mild lower urinary tract infection symptoms (EU herbal monograph); two randomized trials found no symptom benefit",
      "reference_ids": [
       "REF-0405"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0406"
-     ],
      "null_result_ids": [
       "REF-0700",
       "REF-0701"
@@ -6628,7 +6675,7 @@
     },
     {
      "condition": "uti",
-     "note": "Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)",
+     "note": "Urinary antiseptic for mild cystitis (EU herbal monograph; ESCOP); in two randomized trials in women with UTI, uva-ursi did not ease symptoms and led to more symptom burden than an antibiotic",
      "reference_ids": [
       "REF-0405",
       "REF-0407"
@@ -6640,21 +6687,6 @@
      ],
      "evidence": 1,
      "label": "Urinary tract infection (UTI)"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0406",
-      "REF-0700",
-      "REF-0701",
-      "REF-2378",
-      "REF-0405"
-     ],
-     "evidence": 1,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -6940,9 +6972,10 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "An arnica gel was as effective as ibuprofen gel for hand osteoarthritis in a randomized trial; applied for rheumatic muscle and joint complaints (EU herbal monograph)",
      "reference_ids": [
-      "REF-0726"
+      "REF-0726",
+      "REF-3446"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -6950,20 +6983,26 @@
       "REF-2105",
       "REF-0398"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "bruising",
-     "note": "Antiecchymotic / vulnerary (helps disperse bruises); Topical anti-inflammatory for bruising, swelling and sprains",
+     "note": "Traditional topical remedy for bruises (EU herbal monograph, summarised in a review); a 20% arnica ointment sped bruise healing in one randomized trial, but arnica gel, a 10% ointment and a systematic review found no clear benefit",
      "reference_ids": [
-      "REF-0726"
+      "REF-0726",
+      "REF-3442"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0398"
      ],
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-3443",
+      "REF-3444",
+      "REF-3445"
+     ],
+     "evidence": 5,
      "label": "Bruising"
     },
     {
@@ -6980,7 +7019,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Antibacterial activity reported in lab studies (narrative review)",
      "reference_ids": [
       "REF-0398"
      ],
@@ -6990,7 +7029,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Applied for inflammation after blunt injuries (EU herbal monograph, summarised in a review); anti-inflammatory activity in lab and animal studies",
      "reference_ids": [
       "REF-0398",
       "REF-0726"
@@ -7001,29 +7040,6 @@
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2105",
-      "REF-0398"
-     ],
-     "evidence": 1,
-     "label": "Skin irritation"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0398"
-     ],
-     "evidence": 1,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -7337,7 +7353,7 @@
     },
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditional bitter for flatulence (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
@@ -7376,7 +7392,7 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditional bitter for weak digestion (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
@@ -7389,7 +7405,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditional antiseptic use (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
@@ -7447,6 +7463,17 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "ibd",
+     "note": "In two small placebo-controlled trials in Crohn's disease, wormwood allowed steroid tapering and improved symptoms and mood",
+     "reference_ids": [
+      "REF-3447",
+      "REF-3448"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Inflammatory bowel disease (IBD)"
     }
    ],
    "contraindications": [
@@ -7748,7 +7775,7 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Burned as moxa for rheumatism in traditional practice (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
@@ -7788,7 +7815,7 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditional remedy for stomach disorders (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
@@ -7815,7 +7842,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for swollen tonsils (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],

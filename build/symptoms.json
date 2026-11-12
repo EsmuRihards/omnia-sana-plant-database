@@ -1212,38 +1212,104 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "sore-throat",
-     "label": "Sore throat",
-     "evidence": 8,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0392",
-      "REF-1615"
-     ]
-    },
-    {
      "condition": "cold",
      "label": "Cold & flu",
-     "evidence": 7,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0392",
       "REF-0393",
-      "REF-0395"
+      "REF-0395",
+      "REF-1622",
+      "REF-3429"
+     ]
+    },
+    {
+     "condition": "sore-throat",
+     "label": "Sore throat",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0392",
+      "REF-1615",
+      "REF-3433"
      ]
     },
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 7,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0392",
       "REF-0393",
-      "REF-0395"
+      "REF-0395",
+      "REF-1622"
+     ]
+    },
+    {
+     "condition": "cough",
+     "label": "Cough",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3434"
+     ]
+    },
+    {
+     "condition": "ibd",
+     "label": "Inflammatory bowel disease (IBD)",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3427",
+      "REF-3428"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3426"
+     ]
+    },
+    {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3431"
+     ]
+    },
+    {
+     "condition": "fever",
+     "label": "Fever",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0395",
+      "REF-3433"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3432"
      ]
     },
     {
@@ -1266,24 +1332,6 @@
      "inferred": true,
      "references": [
       "REF-0393",
-      "REF-0395"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "fever",
-     "label": "Fever",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
       "REF-0395"
      ]
     },
@@ -1371,7 +1419,6 @@
      "inferred": true,
      "references": [
       "REF-0695",
-      "REF-0397",
       "REF-0696"
      ]
     },
@@ -1388,14 +1435,6 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -1476,21 +1515,23 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 2,
+     "evidence": 5,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0726"
+      "REF-0726",
+      "REF-3446"
      ]
     },
     {
      "condition": "bruising",
      "label": "Bruising",
-     "evidence": 2,
+     "evidence": 5,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0726"
+      "REF-0726",
+      "REF-3442"
      ]
     },
     {
@@ -1525,22 +1566,6 @@
       "REF-0398",
       "REF-0726"
      ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     }
    ]
   },
@@ -1948,14 +1973,6 @@
       "REF-0405",
       "REF-0407"
      ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     }
    ]
   },
@@ -5756,12 +5773,24 @@
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-1391",
-      "REF-0174"
+      "REF-0174",
+      "REF-3435"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0174",
+      "REF-3435"
      ]
     },
     {
@@ -5773,6 +5802,26 @@
      "references": [
       "REF-1391",
       "REF-0174"
+     ]
+    },
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3438"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3437"
      ]
     },
     {
@@ -5815,14 +5864,6 @@
      ]
     },
     {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
      "evidence": 1,
@@ -5849,14 +5890,6 @@
      "references": [
       "REF-3094"
      ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     }
    ]
   },
@@ -7121,6 +7154,20 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 10,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0204",
+      "REF-2536",
+      "REF-3418",
+      "REF-0648",
+      "REF-3436"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 9,
@@ -7158,19 +7205,6 @@
       "REF-0204",
       "REF-3418",
       "REF-0649",
-      "REF-0648"
-     ]
-    },
-    {
-     "condition": "high-cholesterol",
-     "label": "High cholesterol",
-     "evidence": 9,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0204",
-      "REF-2536",
-      "REF-3418",
       "REF-0648"
      ]
     },
@@ -7808,6 +7842,30 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0705",
+      "REF-0709",
+      "REF-3440",
+      "REF-3441"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2339",
+      "REF-3440"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -7819,25 +7877,6 @@
       "REF-2859",
       "REF-2861"
      ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0705",
-      "REF-0709"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     },
     {
      "condition": "bloating",
@@ -9599,6 +9638,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1924"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -9611,20 +9660,14 @@
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
-     "references": []
+     "references": [
+      "REF-1925"
+     ]
     },
     {
      "condition": "skin-irritation",
@@ -10256,6 +10299,16 @@
      "inferred": true,
      "references": [
       "REF-1373"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1376"
      ]
     },
     {
@@ -15772,6 +15825,17 @@
    "common_slug": "wormwood",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "ibd",
+     "label": "Inflammatory bowel disease (IBD)",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3447",
+      "REF-3448"
+     ]
+    },
     {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",

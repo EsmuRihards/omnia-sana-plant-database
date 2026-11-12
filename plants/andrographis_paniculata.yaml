@@ -173,8 +173,10 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: A standardised Andrographis extract reduced knee osteoarthritis pain vs placebo in a randomized
+    trial
+  reference_ids:
+  - REF-3426
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1621
@@ -191,17 +193,22 @@ indications:
   - REF-2853
   status: needs-review
 - condition: cold
-  note: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom
-    severity and duration)
+  note: Reduced symptoms of colds and acute respiratory infections in systematic reviews and placebo-controlled
+    trials; a recent phase III trial found only a short-lived early benefit
   reference_ids:
   - REF-0392
   - REF-0393
   - REF-0395
+  - REF-1622
+  - REF-3429
   status: verified
+  null_result_ids:
+  - REF-3430
 - condition: fever
-  note: Antipyretic (fever)
+  note: Antipyretic; in a randomized trial a high dose relieved fever and sore throat as well as paracetamol
   reference_ids:
   - REF-0395
+  - REF-3433
   status: verified
 - condition: immune-support
   note: Immunostimulant / immune support
@@ -218,9 +225,11 @@ indications:
   - REF-0392
   - REF-0393
   - REF-0395
+  - REF-1622
   status: verified
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Andrographolide reduced inflammation in lab and animal studies (review); listed for inflammation
+    by MSKCC About Herbs
   reference_ids:
   - REF-0393
   - REF-0395
@@ -241,7 +250,10 @@ indications:
   reference_ids:
   - REF-0392
   - REF-1615
+  - REF-3433
   status: verified
+  note: An Andrographis spray relieved acute viral sore throat faster than a comparator spray, and the
+    oral herb matched paracetamol for sore throat in an older trial (randomized trials)
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
@@ -251,6 +263,31 @@ indications:
   - REF-1622
   - REF-0393
   - REF-0394
+- condition: ibd
+  note: An Andrographis extract (HMPL-004) gave more clinical responses than placebo in mild-to-moderate
+    ulcerative colitis and was comparable to mesalazine in a second trial
+  reference_ids:
+  - REF-3427
+  - REF-3428
+  status: verified
+- condition: fatigue
+  note: Reduced fatigue vs placebo in a 12-month pilot trial in people with relapsing-remitting multiple
+    sclerosis
+  reference_ids:
+  - REF-3431
+  status: verified
+- condition: high-cholesterol
+  note: Lowered triglycerides about as much as gemfibrozil in a randomized trial in people with raised
+    triglycerides
+  reference_ids:
+  - REF-3432
+  status: verified
+- condition: cough
+  note: Reduced cough frequency and severity vs placebo in acute respiratory infections (meta-analysis
+    of randomized trials)
+  reference_ids:
+  - REF-3434
+  status: verified
 contraindications:
 - note: 'Avoid in pregnancy and when trying to conceive: high doses have shown reproductive toxicity in
     animals and the herb has a traditional reputation as an abortifacient.'
@@ -319,4 +356,13 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLo
   kept only where their abstracts name the use. MSKCC About Herbs (REF-0395) names colds/flu,
   URIs, fevers, infectious disease, immunostimulation, inflammation - not sore throat; wired
   accordingly. REF-1615 (RCT, A. paniculata spray in acute pharyngitis, positive) added to
-  sore-throat.'
+  sore-throat.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. SR REF-1622 (Coon &
+  Ernst 2004) moved from mechanistic to direct for cold/infection. Landmark trials added: ParActin
+  knee-OA RCT REF-3426 (arthritis), HMPL-004 UC RCTs REF-3427/3428 (new ibd pair), KalmCold RCT
+  2010 REF-3429 (cold) and its 2023 phase III REF-3430 (benefit on day 3 only - recorded as
+  no-effect), MS fatigue RCT REF-3431 (new fatigue pair), hypertriglyceridaemia RCT REF-3432 (new
+  high-cholesterol pair), 1991 pharyngotonsillitis RCT REF-3433 (sore-throat, fever), Wagner 2015
+  herbal-cough MA REF-3434 (new cough pair; "strong evidence for A. paniculata"). Not added: Kan
+  Jang/ImmunoGuard trials (fixed combination with Eleutherococcus), 2009 RA trial 19408036
+  (within-group changes only).'

@@ -13526,7 +13526,8 @@
       "REF-1663",
       "REF-1664",
       "REF-1666",
-      "REF-1667"
+      "REF-1667",
+      "REF-2301"
      ],
      "status": "verified"
     },
@@ -18353,7 +18354,7 @@
    "indications": [
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Carrot compounds slowed cancer cells in lab studies (review)",
      "reference_ids": [
       "REF-2711"
      ],
@@ -18386,7 +18387,7 @@
     },
     {
      "condition": "uti",
-     "note": "inferred from diuretic / urinary-antiseptic traditional use",
+     "note": "Traditionally used for cystitis (review of wild-carrot uses)",
      "reference_ids": [
       "REF-2708"
      ],
@@ -18409,7 +18410,7 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from carminative action",
+     "note": "inferred from gastroprotective action: extracts reduced stomach acid and ulcers in rats (preclinical)",
      "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
@@ -18417,7 +18418,7 @@
     },
     {
      "condition": "bloating",
-     "note": "inferred from carminative action",
+     "note": "Traditional carminative for flatulence (review of wild-carrot uses)",
      "reference_ids": [
       "REF-2708"
      ],
@@ -18437,7 +18438,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory activity of wild carrot and of carrot polyacetylenes in lab studies (reviews)",
      "reference_ids": [
       "REF-2708",
       "REF-2710"
@@ -18448,7 +18449,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Wild-carrot essential oil inhibited bacteria and fungi in lab tests (preclinical)",
      "reference_ids": [
       "REF-2722"
      ],
@@ -18458,7 +18459,7 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action (insoluble dietary fibre)",
+     "note": "Insoluble fibre from carrots improved glucose tolerance in mice (preclinical)",
      "reference_ids": [
       "REF-2720"
      ],
@@ -18468,7 +18469,7 @@
     },
     {
      "condition": "high-cholesterol",
-     "note": "inferred from lipid-lowering action (insoluble dietary fibre)",
+     "note": "Insoluble fibre from carrots limited the rise in blood lipids after a fatty meal in mice (preclinical)",
      "reference_ids": [
       "REF-2720"
      ],
@@ -18838,16 +18839,14 @@
     {
      "action": "antispasmodic",
      "note": "Antispasmodic / analgesic for menstrual cramps and muscle spasm (antinociceptive in animal models)",
-     "reference_ids": [
-      "REF-0528"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     }
    ],
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Extract reduced pain and inflammation in rodent models (preclinical)",
      "reference_ids": [
       "REF-0528"
      ],
@@ -18857,7 +18856,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Wild yam extract had cytostatic effects on triple-negative breast cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-2284"
      ],
@@ -18867,7 +18866,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Extract reduced inflammation in rodent models (preclinical)",
      "reference_ids": [
       "REF-0528"
      ],
@@ -18877,7 +18876,7 @@
     },
     {
      "condition": "pain",
-     "note": "Anti-inflammatory for joint and inflammatory pain",
+     "note": "Extract reduced pain in rodent models (preclinical)",
      "reference_ids": [
       "REF-0528"
      ],
@@ -19088,9 +19087,7 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0308",
-      "REF-2014",
-      "REF-2015",
-      "REF-2017"
+      "REF-2015"
      ],
      "status": "verified"
     },
@@ -19122,38 +19119,50 @@
     },
     {
      "condition": "cold",
-     "note": "inferred from immunomodulator action",
+     "note": "Results are mixed: E. purpurea reduced colds or their symptoms in some randomized trials and in a meta-analysis in children, but other trials and a Cochrane review found no clear benefit for treating colds",
      "reference_ids": [
       "REF-0308",
-      "REF-3392"
+      "REF-3392",
+      "REF-3536",
+      "REF-3537",
+      "REF-3538",
+      "REF-2014"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2016"
      ],
      "null_result_ids": [
-      "REF-0797"
+      "REF-0797",
+      "REF-3539",
+      "REF-3540",
+      "REF-3541",
+      "REF-3542"
      ],
-     "evidence": 5,
+     "evidence": 9,
      "label": "Cold & flu"
     },
     {
      "condition": "immune-support",
      "reference_ids": [
-      "REF-0308"
+      "REF-0308",
+      "REF-3543",
+      "REF-2013"
      ],
      "status": "verified",
-     "evidence": 1,
+     "note": "Improved immune markers vs placebo in randomized trials (healthy adults; athletes); traditional immunostimulant (WHO monograph)",
+     "evidence": 6,
      "label": "Immune support"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Reduced respiratory infections and antibiotic use in children in a randomized trial; supportive use for respiratory and urinary infections (WHO monograph)",
      "reference_ids": [
-      "REF-0308"
+      "REF-0308",
+      "REF-3538"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Infection (general)"
     },
     {
@@ -19169,7 +19178,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Applied externally for inflammatory skin conditions (WHO monograph)",
      "reference_ids": [
       "REF-0308"
      ],
@@ -19182,17 +19191,23 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Applied externally to aid wound healing (WHO monograph)",
      "reference_ids": [
       "REF-0308"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2014",
-      "REF-2017"
-     ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "eczema",
+     "note": "A cream with Echinacea purpurea alkylamides eased atopic eczema symptoms and restored the skin barrier in a randomized trial",
+     "reference_ids": [
+      "REF-3544"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Eczema"
     }
    ],
    "contraindications": [
@@ -19393,7 +19408,6 @@
       "REF-0028",
       "REF-1669",
       "REF-0144",
-      "REF-0292",
       "REF-1668",
       "REF-1670",
       "REF-1671",
@@ -19405,9 +19419,7 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0028",
-      "REF-1669",
       "REF-0144",
-      "REF-0292",
       "REF-1668",
       "REF-1674"
      ],
@@ -19432,7 +19444,6 @@
       "REF-0028",
       "REF-1669",
       "REF-0144",
-      "REF-0292",
       "REF-1668"
      ],
      "status": "verified"
@@ -19446,7 +19457,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
-      "REF-0292",
       "REF-1669",
       "REF-1670",
       "REF-0144"
@@ -19461,7 +19471,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
-      "REF-0292",
       "REF-0144",
       "REF-1669"
      ],
@@ -19472,10 +19481,12 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0292",
-      "REF-1668"
+      "REF-1668",
+      "REF-3545"
      ],
      "status": "verified",
-     "evidence": 3,
+     "note": "Cardamom improved some cardiometabolic markers in a meta-analysis of randomized trials and lowered blood pressure in a small uncontrolled study; traditionally used for heart disorders (review)",
+     "evidence": 8,
      "label": "Cardiovascular / heart health"
     },
     {
@@ -19485,7 +19496,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
-      "REF-0292",
       "REF-0144",
       "REF-1669"
      ],
@@ -19494,14 +19504,12 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditionally used for tooth and gum infections (review)",
      "reference_ids": [
       "REF-1668"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0292",
-      "REF-1669",
       "REF-0144",
       "REF-0028"
      ],
@@ -19510,16 +19518,18 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Cardamom lowered inflammatory markers in a meta-analysis and in a randomized trial in pre-diabetic women",
+     "reference_ids": [
+      "REF-3546",
+      "REF-3550"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
       "REF-1669",
-      "REF-0144",
-      "REF-0292"
+      "REF-0144"
      ],
-     "evidence": 1,
+     "evidence": 8,
      "label": "Inflammation (general)"
     },
     {
@@ -19528,6 +19538,7 @@
       "REF-1668"
      ],
      "status": "verified",
+     "note": "Traditionally used for asthma and other respiratory complaints (review)",
      "evidence": 2,
      "label": "Respiratory support"
     },
@@ -19538,7 +19549,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0028",
-      "REF-0292",
       "REF-1669",
       "REF-1670",
       "REF-0144"
@@ -19552,14 +19562,43 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0292",
-      "REF-1669",
       "REF-1674",
       "REF-0144",
       "REF-0028"
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Green cardamom lowered blood pressure in a meta-analysis of small randomized trials in metabolic syndrome",
+     "reference_ids": [
+      "REF-3546"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High blood pressure"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Cardamom lowered triglycerides (but not cholesterol) in meta-analyses of randomized trials",
+     "reference_ids": [
+      "REF-3547",
+      "REF-3548"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "nausea",
+     "note": "Inhaling cardamom aroma reduced nausea and retching during and after caesarean section in a randomized trial",
+     "reference_ids": [
+      "REF-3549"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Nausea"
     }
    ],
    "contraindications": [
@@ -19771,7 +19810,6 @@
       "REF-0506",
       "REF-0509",
       "REF-0587",
-      "REF-2291",
       "REF-2296"
      ],
      "status": "verified"
@@ -19802,7 +19840,7 @@
    "indications": [
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Antidiabetic activity reported in lab and animal studies (review)",
      "reference_ids": [
       "REF-0587"
      ],
@@ -19812,7 +19850,7 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "Cognitive-function and mental-performance support",
+     "note": "Improved mental performance in Russian clinical studies (narrative reviews)",
      "reference_ids": [
       "REF-0506",
       "REF-0587",
@@ -19824,7 +19862,7 @@
     },
     {
      "condition": "cold",
-     "note": "inferred from immunomodulator action",
+     "note": "Russian clinical studies suggest it may help prevent respiratory infections (narrative review)",
      "reference_ids": [
       "REF-2295"
      ],
@@ -19839,7 +19877,7 @@
     },
     {
      "condition": "fatigue",
-     "note": "Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)",
+     "note": "Traditional adaptogen for fatigue (reviews); a randomized trial in chronic fatigue, a stress-management trial and a review of endurance studies found no overall benefit",
      "reference_ids": [
       "REF-0506",
       "REF-0587",
@@ -19847,18 +19885,19 @@
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0509",
-      "REF-2291"
+      "REF-0509"
      ],
      "null_result_ids": [
-      "REF-3393"
+      "REF-3393",
+      "REF-3551",
+      "REF-2291"
      ],
      "evidence": 2,
      "label": "Fatigue / low energy"
     },
     {
      "condition": "immune-support",
-     "note": "Immune support (immunomodulatory)",
+     "note": "Immunostimulant effects reported (reviews)",
      "reference_ids": [
       "REF-0506",
       "REF-0587"
@@ -19872,7 +19911,7 @@
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
+     "note": "Memory-supporting activity reported in lab and animal studies (review)",
      "reference_ids": [
       "REF-0587"
      ],
@@ -19882,7 +19921,7 @@
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
+     "note": "Antidiabetic and metabolic activity reported in lab and animal studies (review)",
      "reference_ids": [
       "REF-0587"
      ],
@@ -19892,7 +19931,7 @@
     },
     {
      "condition": "stress",
-     "note": "Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)",
+     "note": "Traditional adaptogen to improve resistance to stress (reviews); a randomized trial adding it to stress-management training found no benefit",
      "reference_ids": [
       "REF-0506",
       "REF-0509",
@@ -20142,7 +20181,7 @@
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Used to flush the urinary tract in minor urinary complaints and irritable bladder (EU herbal monograph; ESCOP); a rat study found no effect on kidney-stone risk factors",
      "reference_ids": [
       "REF-0437",
       "REF-0438"
@@ -20361,7 +20400,6 @@
       "REF-0403",
       "REF-0803",
       "REF-2298",
-      "REF-2301",
       "REF-2302",
       "REF-2303"
      ],
@@ -20375,14 +20413,16 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0403"
+      "REF-0403",
+      "REF-0803",
+      "REF-0618"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Extract inhibited E. coli growth in the lab (preclinical)",
      "reference_ids": [
       "REF-0403"
      ],
@@ -20392,11 +20432,15 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Extract inhibited inflammatory COX enzymes in the lab (preclinical)",
      "reference_ids": [
       "REF-0403"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0803",
+      "REF-0618"
+     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -20420,7 +20464,9 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0403"
+      "REF-0403",
+      "REF-0803",
+      "REF-0618"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -20462,7 +20508,6 @@
     "REF-2298",
     "REF-2299",
     "REF-2300",
-    "REF-2301",
     "REF-2302",
     "REF-2303",
     "REF-2304"
@@ -20598,8 +20643,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0041",
-      "REF-0083",
       "REF-0117",
       "REF-0262",
       "REF-0727",
@@ -20611,8 +20654,6 @@
     {
      "action": "anti-rheumatic",
      "reference_ids": [
-      "REF-0041",
-      "REF-0083",
       "REF-0117",
       "REF-0262",
       "REF-0727"
@@ -20629,8 +20670,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0041",
-      "REF-0083",
       "REF-0117",
       "REF-0262"
      ],
@@ -20649,7 +20688,6 @@
     {
      "action": "vulnerary",
      "reference_ids": [
-      "REF-0041",
       "REF-0083",
       "REF-0117",
       "REF-0262"
@@ -20660,14 +20698,12 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Among plants studied in humans for joint disorders (review)",
      "reference_ids": [
       "REF-0727"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0041",
-      "REF-0083",
       "REF-0117",
       "REF-1401",
       "REF-0262"
@@ -20681,8 +20717,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0041",
-      "REF-0083",
       "REF-0117",
       "REF-0262"
      ],
@@ -20691,7 +20725,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Extract was toxic to colon cancer cells but not to normal cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1400"
      ],
@@ -20701,14 +20735,12 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Extract modulated inflammatory immune cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1399"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0041",
-      "REF-0083",
       "REF-0117",
       "REF-0262"
      ],
@@ -20721,8 +20753,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0041",
-      "REF-0083",
       "REF-0117",
       "REF-0727",
       "REF-0262"
@@ -20732,7 +20762,7 @@
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Increased urine output like hydrochlorothiazide in a randomized trial in healthy men; used to flush the urinary tract in minor urinary complaints (EU herbal monograph)",
      "reference_ids": [
       "REF-0041",
       "REF-0083"
@@ -20747,13 +20777,12 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditionally used for minor wounds (EU herbal monograph)",
      "reference_ids": [
       "REF-0083"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0041",
       "REF-0117",
       "REF-0262"
      ],
@@ -20909,8 +20938,7 @@
      "action": "antioxidant",
      "note": "Ethanolic extracts of the sterile stems of Equisetum pratense show free-radical-scavenging activity attributed to their polyphenolic and flavonoid content.",
      "reference_ids": [
-      "REF-2360",
-      "REF-2361"
+      "REF-2360"
      ],
      "status": "verified"
     },
@@ -21076,7 +21104,6 @@
      "note": "Ethanolic extracts and isolated pectins of the sterile stems of Equisetum sylvaticum scavenge DPPH and hydroxyl radicals, an activity linked to their phenolic and polysaccharide constituents.",
      "reference_ids": [
       "REF-2360",
-      "REF-2361",
       "REF-2364"
      ],
      "status": "verified"
@@ -21127,6 +21154,7 @@
    "provenance": "pubmed",
    "status": "draft",
    "last_updated": "2026-08-15",
+   "indications": [],
    "common_slug": "wood-horsetail"
   },
   {

@@ -3616,12 +3616,55 @@
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 3,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0292",
-      "REF-1668"
+      "REF-1668",
+      "REF-3545"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3547",
+      "REF-3548"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3546",
+      "REF-3550"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3546"
+     ]
+    },
+    {
+     "condition": "nausea",
+     "label": "Nausea",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3549"
      ]
     },
     {
@@ -3663,14 +3706,6 @@
     {
      "condition": "indigestion",
      "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -11955,12 +11990,49 @@
     {
      "condition": "cold",
      "label": "Cold & flu",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0308",
+      "REF-3392",
+      "REF-3536",
+      "REF-3537",
+      "REF-3538",
+      "REF-2014"
+     ]
+    },
+    {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0308",
+      "REF-3543",
+      "REF-2013"
+     ]
+    },
+    {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3544"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0308",
-      "REF-3392"
+      "REF-3538"
      ]
     },
     {
@@ -11970,26 +12042,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": []
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0308"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0308"
-     ]
     },
     {
      "condition": "inflammation",

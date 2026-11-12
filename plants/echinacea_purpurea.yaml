@@ -130,9 +130,7 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-0308
-  - REF-2014
   - REF-2015
-  - REF-2017
   status: verified
 - action: immunomodulator
   reference_ids:
@@ -152,23 +150,39 @@ indications:
   - REF-2018
   - REF-0308
 - condition: cold
-  note: inferred from immunomodulator action
+  note: 'Results are mixed: E. purpurea reduced colds or their symptoms in some randomized trials and
+    in a meta-analysis in children, but other trials and a Cochrane review found no clear benefit for
+    treating colds'
   reference_ids:
   - REF-0308
   - REF-3392
+  - REF-3536
+  - REF-3537
+  - REF-3538
+  - REF-2014
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2016
   null_result_ids:
   - REF-0797
+  - REF-3539
+  - REF-3540
+  - REF-3541
+  - REF-3542
 - condition: immune-support
   reference_ids:
   - REF-0308
+  - REF-3543
+  - REF-2013
   status: verified
+  note: Improved immune markers vs placebo in randomized trials (healthy adults; athletes); traditional
+    immunostimulant (WHO monograph)
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Reduced respiratory infections and antibiotic use in children in a randomized trial; supportive
+    use for respiratory and urinary infections (WHO monograph)
   reference_ids:
   - REF-0308
+  - REF-3538
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -177,20 +191,23 @@ indications:
   mechanistic_exclude_ids:
   - REF-0308
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Applied externally for inflammatory skin conditions (WHO monograph)
   reference_ids:
   - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2018
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Applied externally to aid wound healing (WHO monograph)
   reference_ids:
   - REF-0308
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2014
-  - REF-2017
+- condition: eczema
+  note: A cream with Echinacea purpurea alkylamides eased atopic eczema symptoms and restored the skin
+    barrier in a randomized trial
+  reference_ids:
+  - REF-3544
+  status: verified
 contraindications:
 - note: Generally considered safe, but caution advised for those with autoimmune conditions. Not recommended
     for long-term use (more than 8 weeks continuously).
@@ -266,4 +283,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   vol. 1, Herba Echinaceae Purpureae) kept for cold, infection, immune-support, wounds,
   skin-irritation per its known Medicinal uses text (colds and respiratory/urinary infections via
   immune stimulation; externally wound healing and inflammatory skin conditions); removed from
-  arthritis and inflammation. WHO PDF blocks automated reading - flagged for owner spot-check.'
+  arthritis and inflammation. WHO PDF blocks automated reading - flagged for owner spot-check.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. Cold now shows both
+  sides: added MA in children REF-3536, Goel 2004 REF-3537, Ogal 2021 REF-3538 and the narrative
+  REF-2014; Yale 2004 REF-3539, Taylor 2003 (JAMA, children) REF-3540, Sperber 2004 REF-3541 and
+  O''Neil 2008 REF-3542 recorded as no-effect (all E. purpurea). REF-2017 (pilot: "effectiveness
+  could not be accurately assessed") and REF-2014 removed from the antimicrobial action. Immune
+  RCT REF-3543 and held RCT REF-2013 to immune-support. New eczema pair from alkylamide cream RCT
+  REF-3544 (owner rule).'

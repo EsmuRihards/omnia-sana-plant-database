@@ -129,7 +129,8 @@ indications:
   - REF-2563
   - REF-0437
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Used to flush the urinary tract in minor urinary complaints and irritable bladder (EU herbal monograph;
+    ESCOP); a rat study found no effect on kidney-stone risk factors
   reference_ids:
   - REF-0437
   - REF-0438
@@ -183,4 +184,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   precedent). REF-2563 (rat study: A. repens infusion had no positive effect on urolithiasis risk
   factors) recorded in null_result_ids for urinary-support and hidden from its mechanistic cards.
   | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
-  only the sources still cited (batch 6-7 follow-up).'
+  only the sources still cited (batch 6-7 follow-up).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. Urinary-support note
+  rewritten. No trials on PubMed.'

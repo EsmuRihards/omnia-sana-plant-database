@@ -165,6 +165,7 @@ actions:
   - REF-1664
   - REF-1666
   - REF-1667
+  - REF-2301
   status: verified
 - action: digestive
   reference_ids:
@@ -310,4 +311,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Only Epilobium angustifolium-specific studies remain.
   | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. REF-0022 corrected:
   Battinelli et al., Farmaco 2001;56:345-8 (PMID 11482755; old DOI dead, year was 2014). Bruising
-  dropped: its only card was a wound-healing enzyme study (batch-1 rule: a wound is not a bruise).'
+  dropped: its only card was a wound-healing enzyme study (batch-1 rule: a wound is not a bruise).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep (batch 6). REF-2301
+  (polyphenols of Epilobium angustifolium = fireweed) moved here from E. parviflorum, antioxidant
+  action.'

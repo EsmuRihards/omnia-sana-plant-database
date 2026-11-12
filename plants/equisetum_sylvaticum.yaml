@@ -86,7 +86,6 @@ actions:
     DPPH and hydroxyl radicals, an activity linked to their phenolic and polysaccharide constituents.
   reference_ids:
   - REF-2360
-  - REF-2361
   - REF-2364
   status: verified
 contraindications:
@@ -170,4 +169,7 @@ internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify
   sylvaticum is a different species. | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for
   stem recorded as GAP: no species-specific phenological source for E. sylvaticum sterile-stem timing (PFAF
   gives only a barren-stems-used-fresh note plus April-May spores); congener timing NOT inherited. E.
-  palustre lookalike flagged. Binomial confirmed. | 2026-08-15: stem harvest_readiness filled (was gap) from the DELTA/Intkey Horsetails of Britain and Ireland species account (REF-3375) - species-specific, so no Equisetum arvense timing is inherited.'
+  palustre lookalike flagged. Binomial confirmed. | 2026-08-15: stem harvest_readiness filled (was gap) from the DELTA/Intkey Horsetails of Britain and Ireland species account (REF-3375) - species-specific, so no Equisetum arvense timing is inherited.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. REF-2361 (silver
+  nanoparticles) removed from the antioxidant action, kept in references.'
+indications: []

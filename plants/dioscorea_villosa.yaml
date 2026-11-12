@@ -119,27 +119,26 @@ actions:
   status: needs-review
 - action: antispasmodic
   note: Antispasmodic / analgesic for menstrual cramps and muscle spasm (antinociceptive in animal models)
-  reference_ids:
-  - REF-0528
+  reference_ids: []
   status: needs-review
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Extract reduced pain and inflammation in rodent models (preclinical)
   reference_ids:
   - REF-0528
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Wild yam extract had cytostatic effects on triple-negative breast cancer cells in the lab (preclinical)
   reference_ids:
   - REF-2284
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Extract reduced inflammation in rodent models (preclinical)
   reference_ids:
   - REF-0528
   status: needs-review
 - condition: pain
-  note: Anti-inflammatory for joint and inflammatory pain
+  note: Extract reduced pain in rodent models (preclinical)
   reference_ids:
   - REF-0528
   status: verified
@@ -214,4 +213,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   wild yam cream showed no statistical difference from placebo and "little effect on menopausal
   symptoms" - moved to null_result_ids; menopause pair dropped. REF-0528 (rodent
   writhing/formalin/leukocyte models; background names joint pain and rheumatoid arthritis) kept
-  for arthritis, pain, inflammation; removed from back-pain, headache, skin-irritation.'
+  for arthritis, pain, inflammation; removed from back-pain, headache, skin-irritation.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. REF-0528 removed from
+  the antispasmodic action (measured pain and inflammation only). Notes rewritten.'

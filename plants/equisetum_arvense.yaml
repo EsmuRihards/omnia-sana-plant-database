@@ -106,8 +106,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0041
-  - REF-0083
   - REF-0117
   - REF-0262
   - REF-0727
@@ -116,8 +114,6 @@ actions:
   status: verified
 - action: anti-rheumatic
   reference_ids:
-  - REF-0041
-  - REF-0083
   - REF-0117
   - REF-0262
   - REF-0727
@@ -128,8 +124,6 @@ actions:
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-0041
-  - REF-0083
   - REF-0117
   - REF-0262
   status: verified
@@ -142,20 +136,17 @@ actions:
   status: verified
 - action: vulnerary
   reference_ids:
-  - REF-0041
   - REF-0083
   - REF-0117
   - REF-0262
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Among plants studied in humans for joint disorders (review)
   reference_ids:
   - REF-0727
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0041
-  - REF-0083
   - REF-0117
   - REF-1401
   - REF-0262
@@ -164,23 +155,19 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0041
-  - REF-0083
   - REF-0117
   - REF-0262
 - condition: cancer
-  note: inferred from anticancer action
+  note: Extract was toxic to colon cancer cells but not to normal cells in the lab (preclinical)
   reference_ids:
   - REF-1400
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Extract modulated inflammatory immune cells in the lab (preclinical)
   reference_ids:
   - REF-1399
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0041
-  - REF-0083
   - REF-0117
   - REF-0262
 - condition: skin-irritation
@@ -188,13 +175,12 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0041
-  - REF-0083
   - REF-0117
   - REF-0727
   - REF-0262
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Increased urine output like hydrochlorothiazide in a randomized trial in healthy men; used to
+    flush the urinary tract in minor urinary complaints (EU herbal monograph)
   reference_ids:
   - REF-0041
   - REF-0083
@@ -203,12 +189,11 @@ indications:
   - REF-0117
   - REF-0262
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Traditionally used for minor wounds (EU herbal monograph)
   reference_ids:
   - REF-0083
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0041
   - REF-0117
   - REF-0262
 contraindications:
@@ -322,4 +307,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   known indications: flushing of the urinary tract in minor urinary complaints; minor wounds) kept
   for urinary-support and wounds, removed from swelling and UTI; flagged for owner spot-check.
   REF-0727 (joint-disorders review naming E. arvense among plants tested in humans) kept for
-  arthritis.'
+  arthritis.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. Diuretic RCT REF-0041
+  and EU monograph REF-0083 removed from actions they do not support (anti-inflammatory,
+  anti-rheumatic, antimicrobial; REF-0041 also vulnerary). Notes rewritten.'

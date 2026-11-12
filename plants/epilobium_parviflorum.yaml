@@ -134,7 +134,6 @@ actions:
   - REF-0403
   - REF-0803
   - REF-2298
-  - REF-2301
   - REF-2302
   - REF-2303
   status: verified
@@ -145,16 +144,21 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0403
+  - REF-0803
+  - REF-0618
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Extract inhibited E. coli growth in the lab (preclinical)
   reference_ids:
   - REF-0403
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Extract inhibited inflammatory COX enzymes in the lab (preclinical)
   reference_ids:
   - REF-0403
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0803
+  - REF-0618
 - condition: prostate-support
   note: EU traditional use for lower urinary tract symptoms of benign prostatic hyperplasia, once serious
     conditions are excluded by a doctor; a review judged the clinical evidence not yet conclusive
@@ -170,6 +174,8 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0403
+  - REF-0803
+  - REF-0618
 - condition: urinary-support
   note: EU traditional use for lower urinary tract symptoms related to benign prostatic hyperplasia
   reference_ids:
@@ -195,7 +201,6 @@ references:
 - REF-2298
 - REF-2299
 - REF-2300
-- REF-2301
 - REF-2302
 - REF-2303
 - REF-2304
@@ -243,4 +248,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   tract symptoms related to BPH - EMA page 429, flagged for owner spot-check) added to
   prostate-support and urinary-support.
   | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
-  only the sources still cited (batch 6-7 follow-up).'
+  only the sources still cited (batch 6-7 follow-up).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. REF-2301 (fireweed, E.
+  angustifolium) moved to Chamerion angustifolium. Genus reviews REF-0803/REF-0618 hidden from
+  arthritis, inflammation and skin-irritation mechanistic cards (prose-only genus attribution);
+  REF-2302/REF-2298 (name E. parviflorum) remain.'

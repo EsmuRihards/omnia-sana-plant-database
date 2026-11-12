@@ -287,7 +287,7 @@ actions:
   status: verified
 indications:
 - condition: cancer
-  note: inferred from anticancer action
+  note: Carrot compounds slowed cancer cells in lab studies (review)
   reference_ids:
   - REF-2711
   status: needs-review
@@ -305,7 +305,7 @@ indications:
   - REF-2712
   status: verified
 - condition: uti
-  note: inferred from diuretic / urinary-antiseptic traditional use
+  note: Traditionally used for cystitis (review of wild-carrot uses)
   reference_ids:
   - REF-2708
   status: needs-review
@@ -317,11 +317,11 @@ indications:
   - REF-2715
   status: verified
 - condition: indigestion
-  note: inferred from carminative action
+  note: 'inferred from gastroprotective action: extracts reduced stomach acid and ulcers in rats (preclinical)'
   reference_ids: []
   status: needs-review
 - condition: bloating
-  note: inferred from carminative action
+  note: Traditional carminative for flatulence (review of wild-carrot uses)
   reference_ids:
   - REF-2708
   status: needs-review
@@ -331,23 +331,23 @@ indications:
   - REF-2718
   status: verified
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory activity of wild carrot and of carrot polyacetylenes in lab studies (reviews)
   reference_ids:
   - REF-2708
   - REF-2710
   status: needs-review
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Wild-carrot essential oil inhibited bacteria and fungi in lab tests (preclinical)
   reference_ids:
   - REF-2722
   status: needs-review
 - condition: blood-sugar
-  note: inferred from antidiabetic action (insoluble dietary fibre)
+  note: Insoluble fibre from carrots improved glucose tolerance in mice (preclinical)
   reference_ids:
   - REF-2720
   status: needs-review
 - condition: high-cholesterol
-  note: inferred from lipid-lowering action (insoluble dietary fibre)
+  note: Insoluble fibre from carrots limited the rise in blood lipids after a fatty meal in mice (preclinical)
   reference_ids:
   - REF-2720
   status: needs-review
@@ -593,4 +593,8 @@ internal_notes: 'Created 2026-07-10 as a new medicinal-plant record (wild carrot
   | 2026-11-10: symptom-source audit batch 6 - REF-2708 (wild-carrot review) names antilithic,
   diuretic, carminative, antiseptic, anti-inflammatory uses and urinary calculus, cystitis, gout,
   prostatitis, cancer - removed from swelling (a diuretic is not swelling evidence) and
-  indigestion (carminative = bloating; gastroprotective = ulcer models).'
+  indigestion (carminative = bloating; gastroprotective = ulcer models).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. Notes rewritten to
+  their sources. Not added (owner to decide): fertility pair from a carrot-seed RCT in hypoactive
+  sexual desire disorder (33183662) - the record''s own evidence REF-2724 reports estrogenic,
+  pregnancy-interceptory effects of the seeds, so a "fertility" listing could mislead.'

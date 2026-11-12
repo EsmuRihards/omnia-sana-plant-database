@@ -134,7 +134,6 @@ actions:
   - REF-0506
   - REF-0509
   - REF-0587
-  - REF-2291
   - REF-2296
   status: verified
 - action: immunomodulator
@@ -155,19 +154,19 @@ actions:
   status: needs-review
 indications:
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Antidiabetic activity reported in lab and animal studies (review)
   reference_ids:
   - REF-0587
   status: needs-review
 - condition: cognitive-function
-  note: Cognitive-function and mental-performance support
+  note: Improved mental performance in Russian clinical studies (narrative reviews)
   reference_ids:
   - REF-0506
   - REF-0587
   - REF-2295
   status: verified
 - condition: cold
-  note: inferred from immunomodulator action
+  note: Russian clinical studies suggest it may help prevent respiratory infections (narrative review)
   reference_ids:
   - REF-2295
   status: needs-review
@@ -176,7 +175,8 @@ indications:
   - REF-0509
   - REF-0587
 - condition: fatigue
-  note: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
+  note: Traditional adaptogen for fatigue (reviews); a randomized trial in chronic fatigue, a stress-management
+    trial and a review of endurance studies found no overall benefit
   reference_ids:
   - REF-0506
   - REF-0587
@@ -184,11 +184,12 @@ indications:
   status: verified
   mechanistic_exclude_ids:
   - REF-0509
-  - REF-2291
   null_result_ids:
   - REF-3393
+  - REF-3551
+  - REF-2291
 - condition: immune-support
-  note: Immune support (immunomodulatory)
+  note: Immunostimulant effects reported (reviews)
   reference_ids:
   - REF-0506
   - REF-0587
@@ -196,17 +197,18 @@ indications:
   mechanistic_exclude_ids:
   - REF-0509
 - condition: memory
-  note: inferred from neuroprotective action
+  note: Memory-supporting activity reported in lab and animal studies (review)
   reference_ids:
   - REF-0587
   status: needs-review
 - condition: metabolic-support
-  note: inferred from antidiabetic action
+  note: Antidiabetic and metabolic activity reported in lab and animal studies (review)
   reference_ids:
   - REF-0587
   status: needs-review
 - condition: stress
-  note: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
+  note: Traditional adaptogen to improve resistance to stress (reviews); a randomized trial adding it
+    to stress-management training found no benefit
   reference_ids:
   - REF-0506
   - REF-0509
@@ -309,4 +311,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursin
   fatigue, stress, cognitive-function. Schaffler 2013 RCT (REF-3393, PubMed 23740477: adding E.
   senticosus to stress training "negligible") recorded in null_result_ids for fatigue and stress.
   REF-2291 (Goulet 2005: rigorous studies show no endurance benefit) and REF-2296 (adipocyte
-  lipolysis) hidden from muscle-soreness/fatigue mechanistic cards; muscle-soreness dropped.'
+  lipolysis) hidden from muscle-soreness/fatigue mechanistic cards; muscle-soreness dropped.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. Goulet 2005 REF-2291
+  (no endurance benefit) removed from the ergogenic action and recorded as no-effect for fatigue,
+  with Hartz 2004 RCT REF-3551 ("overall efficacy was not demonstrated" in chronic fatigue). Notes
+  rewritten; fatigue and stress notes state the null trials. REF-0506 kept as narrative-review
+  (PubMed tags it MA, but it is a history/perspectives review).'

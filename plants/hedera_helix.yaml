@@ -135,6 +135,8 @@ indications:
   - REF-0473
   - REF-0575
   status: verified
+  null_result_ids:
+  - REF-0833
 - condition: cough
   note: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
     mucus)
@@ -143,6 +145,8 @@ indications:
   - REF-0473
   - REF-0575
   status: verified
+  null_result_ids:
+  - REF-0833
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids: []
@@ -162,6 +166,8 @@ indications:
   - REF-0473
   - REF-0575
   status: needs-review
+  null_result_ids:
+  - REF-0833
 contraindications:
 - note: Generally well tolerated; occasional gastrointestinal upset or, rarely, allergic reaction. Use
     only standardised extract products - the fresh raw plant contains irritant saponins and falcarinol
@@ -210,4 +216,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical ef
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
   draft per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for leaf (provisional: PFAF REF-3269, gathered spring to early summer). Single lineage.
-  Binomial confirmed.'
+  Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 8 - REF-0833 (Sierocinski 2021 updated SR): ivy leaf is
+  safe but "effects are minimal at best and of uncertain clinical importance" - recorded in
+  null_result_ids for cough, bronchitis and respiratory-support (owner rule: not convincing = no
+  effect). REF-0473 (Hedussin post-authorisation study, non-randomised) retagged clinical.'

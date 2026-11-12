@@ -158,8 +158,7 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0533
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0531
@@ -167,12 +166,14 @@ indications:
   - REF-0831
   - REF-2049
   - REF-2050
+  - REF-0533
 - condition: bruising
   note: Vulnerary for minor wounds, bruises and insect bites
   reference_ids:
-  - REF-0531
   - REF-0533
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0531
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -205,7 +206,6 @@ indications:
     topically
   reference_ids:
   - REF-0531
-  - REF-0532
   status: verified
 - condition: skin-irritation
   note: Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied
@@ -217,11 +217,12 @@ indications:
 - condition: wounds
   note: Vulnerary for minor wounds, bruises and insect bites
   reference_ids:
-  - REF-0531
   - REF-0533
+  - REF-0532
   status: verified
   mechanistic_exclude_ids:
   - REF-2051
+  - REF-0531
 contraindications:
 - note: For topical use. Do not apply to deep wounds, serious burns or severe rectal bleeding - these
     need medical care.
@@ -279,4 +280,11 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   verified. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for bark (provisional:
   PFAF REF-3266, branches/twigs taken in spring as sap rises) and leaf (provisional: PFAF REF-3266, gathered
   in summer). Two distinct phenophases; the shrub''s autumn flowering is NOT the harvest signal. Single
-  lineage. Binomial confirmed.'
+  lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 8 - EU monograph REF-0531 (known indications: minor
+  skin inflammation and dryness, minor inflammation of the oral mucosa, itching and burning of
+  haemorrhoids - EMA page 429, flagged for owner spot-check) removed from bruising and wounds.
+  REF-0532 is a 2025 review, not an RCT (retagged): names antimicrobial, anti-inflammatory,
+  wound-healing and skin effects - removed from oral-health, added to wounds. Herbal Reality
+  REF-0533 (page read) names bruises, wounds, diarrhoea, haemorrhoids, varicose veins, skin -
+  removed from arthritis.'

@@ -93,7 +93,7 @@ actions:
   reference_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
+  - REF-0308
   - REF-2187
   - REF-0826
   - REF-0828
@@ -104,7 +104,7 @@ actions:
   reference_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
+  - REF-0308
   - REF-2191
   status: verified
 - action: antispasmodic
@@ -112,132 +112,118 @@ actions:
   reference_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
+  - REF-0308
   status: verified
 - action: antiviral
   reference_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
+  - REF-0308
   status: verified
 - action: expectorant
   reference_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
+  - REF-0308
   status: verified
 - action: gastroprotective
   reference_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
+  - REF-0308
   status: verified
 - action: immunomodulator
   reference_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
+  - REF-0308
   status: verified
 indications:
 - condition: acid-reflux
   note: inferred from gastroprotective action
   reference_ids:
+  - REF-3081
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
-  status: needs-review
+  - REF-0308
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
+  - REF-0308
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
-  status: needs-review
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
+  - REF-0308
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
-  status: needs-review
 - condition: cold
   note: inferred from antiviral action
   reference_ids:
+  - REF-3081
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
-  status: needs-review
+  - REF-0308
 - condition: cough
   note: inferred from expectorant action
   reference_ids:
-  - REF-0012
-  - REF-0089
-  - REF-0305
+  - REF-0308
+  - REF-3081
   status: needs-review
-- condition: immune-support
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
-  status: verified
 - condition: indigestion
   note: inferred from gastroprotective action
   reference_ids:
+  - REF-0308
+  - REF-3081
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
-  status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
+  - REF-0308
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
-  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
+  - REF-0308
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
-  status: needs-review
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0012
-  - REF-0089
-  - REF-0305
-  status: needs-review
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0012
-  - REF-0089
-  - REF-0305
-  status: needs-review
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
-  - REF-0012
-  - REF-0089
-  - REF-0305
-  status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0012
-  - REF-0089
-  - REF-0305
-  status: needs-review
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0012
-  - REF-0089
-  - REF-0305
+  - REF-0308
+  - REF-3081
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-2191
+  - REF-0012
+  - REF-0089
+- condition: skin-irritation
+  note: inferred from anti-inflammatory action
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0012
+  - REF-0089
+  - REF-0308
 contraindications:
 - note: Avoid prolonged use of whole licorice root in large doses. May cause pseudoaldosteronism (hypertension,
     oedema, hypokalaemia). Contraindicated in hypertension, renal failure, liver disease, hypokalaemia,
@@ -247,7 +233,7 @@ contraindications:
   reference_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
+  - REF-0308
   status: verified
 - note: 'Duke (2002) rates licorice as ++ and documents extensive activities. Glycyrrhizin (the key compound)
     has anti-inflammatory, antiulcer, antiviral, and adrenal-stimulant properties. Duke highlights an
@@ -261,7 +247,7 @@ contraindications:
   reference_ids:
   - REF-0012
   - REF-0089
-  - REF-0305
+  - REF-0308
   - REF-0063
   status: verified
 references:
@@ -352,7 +338,17 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   to 4 weeks. Deglycyrrhizinated licorice is not mentioned, and the monograph offers no support for prolonged
   use without the glycyrrhizin risk. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
   for root (provisional: PFAF REF-3265, dug in autumn from 3-4 year old plants). Single lineage. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-10: symptom-source audit batch 8 - REF-0012 (Asl & Hosseinzadeh 2008, "Glycyrrhiza
+  sp.") is a genus-level review with prose-only attribution - removed from all pairs; metadata and
+  abstract added. REF-0089 (Fiore 2005; year corrected) abstract names no condition - removed from
+  all pairs. REF-0305 merged into REF-0308 (WHO vol. 1, Radix Glycyrrhizae): kept for cough,
+  bronchitis, respiratory-support, indigestion (dyspepsia, ulcers), arthritis and inflammation
+  (anti-inflammatory use in rheumatism and arthritis) and infection (tuberculosis) per its known
+  Medicinal uses text - WHO PDF bot-blocked, flagged; removed from 7 pairs. EU monograph REF-3081
+  (digestive symptoms incl. burning sensation and dyspepsia; expectorant in cough associated with
+  cold - EMA page 429, flagged) added to acid-reflux, indigestion, cough, cold,
+  respiratory-support.'
 constituents:
 - name: Triterpenoid saponins (glycyrrhizin/glycyrrhizic acid)
   compounds:

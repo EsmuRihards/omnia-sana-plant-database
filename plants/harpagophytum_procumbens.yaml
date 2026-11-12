@@ -135,16 +135,18 @@ indications:
   note: Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain; General joint pain and
     arthritis support
   reference_ids:
-  - REF-0443
   - REF-0444
+  - REF-0561
   status: verified
   mechanistic_exclude_ids:
   - REF-1836
+  - REF-0443
+  null_result_ids:
+  - REF-1834
 - condition: back-pain
   note: Effective at standardised doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior
     to rofecoxib for short-term chronic low back pain; Relief of chronic non-specific low back pain
   reference_ids:
-  - REF-0443
   - REF-0444
   - REF-0561
   - REF-0562
@@ -154,10 +156,10 @@ indications:
   - REF-1834
   - REF-1835
   - REF-1838
+  - REF-0443
 - condition: headache
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0443
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0444
@@ -165,33 +167,36 @@ indications:
   - REF-1834
   - REF-1835
   - REF-1838
+  - REF-0443
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0443
   - REF-0444
-  status: needs-review
 - condition: pain
   note: Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain; Effective at standardised
     doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior to rofecoxib for short-term
     chronic low back pain; General joint pain and arthritis support; Relief of chronic non-specific low
     back pain
   reference_ids:
-  - REF-0443
   - REF-0444
   - REF-0561
   - REF-0562
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0443
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0443
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0444
   - REF-1831
   - REF-1834
   - REF-1836
+  - REF-0443
 contraindications:
 - note: Because it is a bitter that increases stomach-acid and bile secretion, it is contraindicated in
     active peptic ulcer, gastritis and (without medical supervision) gallstones.
@@ -243,4 +248,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standar
   harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
   claims marked status: draft per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar
   (phenological) - harvest_readiness for tuber recorded as GAP: no phenological source for devil''s-claw
-  secondary-tuber harvest timing (Useful Tropical Plants + Wikipedia both silent). Binomial confirmed. | 2026-08-15: tuber harvest_readiness filled (was gap) from Wikipedia (REF-3378): secondary storage tubers only, primary tuber left in the ground, and the rain-driven stem cycle that bounds when a plant can be found. No source states a harvest month; FAO/CRIAA, SANBI and Herbal Reality were all checked and gave none.'
+  secondary-tuber harvest timing (Useful Tropical Plants + Wikipedia both silent). Binomial confirmed. | 2026-08-15: tuber harvest_readiness filled (was gap) from Wikipedia (REF-3378): secondary storage tubers only, primary tuber left in the ground, and the rain-driven stem cycle that bounds when a plant can be found. No source states a harvest month; FAO/CRIAA, SANBI and Herbal Reality were all checked and gave none.
+  | 2026-11-10: symptom-source audit batch 8 - REF-0443 (Natural Standard SR) abstract names no
+  condition and its text is not retrievable - removed from all pairs. REF-0444 (Chrubasik 2004
+  review, retagged) names arthrotic and low back pain only - removed from inflammation. SR
+  REF-0561 (OA and low back pain) added to arthritis. REF-1834 (2006 OA review: the evidence
+  "cannot provide a definitive answer" to whether it works) recorded in null_result_ids for
+  arthritis.'

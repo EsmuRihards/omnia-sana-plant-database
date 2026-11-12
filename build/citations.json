@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3208,
+ "count": 3204,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -938,10 +938,7 @@
    "actions": [
     "Neuroprotective / cognition support"
    ],
-   "conditions": [
-    "Cognitive function",
-    "Memory"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0684",
@@ -2055,7 +2052,7 @@
    "link_type": "doi",
    "citation": "(2025) 'Hamamelis virginiana L. in Skin Care: A Review of Its Pharmacological Properties and Cosmetological Applications', Molecules. doi:10.3390/molecules30132744",
    "abstract": "Hamamelis virginiana L. (witch hazel) is a traditionally used medicinal plant, well-known for its dermatological applications. The plant's bark and leaves contain a rich array of bioactive compounds, including phenolic acids, flavonoids, catechins, proanthocyanidins, and tannins, many of which exhibit antimicrobial, anti-inflammatory, antioxidant, and wound-healing properties. These activities have been verified by numerous in vitro and in vivo studies, as well as limited clinical trials. The H. virginiana extracts have demonstrated effectiveness against bacteria, fungi, and some viruses. Moreover, the extracts exert anti-inflammatory effects by modulating cytokine expression and NF-κB signaling, improve skin regeneration, and protect against UV-induced damage and pollution. This review highlights H. virginiana as a complex botanical resource to be used in dermatology and cosmetology and shows that current research offers encouraging results for its future therapeutic use, especially in skin treatment.",
-   "tier": "rct",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -2076,8 +2073,8 @@
    ],
    "conditions": [
     "Inflammation (general)",
-    "Oral & throat health",
-    "Skin irritation"
+    "Skin irritation",
+    "Wounds"
    ]
   },
   {
@@ -2739,7 +2736,7 @@
    "link_type": "doi",
    "citation": "Pellegrino, R. and Gravina, A.G (2025) 'Potential of traditional Chinese medicine in gastrointestinal disorders: Hericium erinaceus in chronic atrophic gastritis', World Journal of Gastroenterology, 31(20). doi:10.3748/wjg.v31.i20.106615",
    "abstract": "Traditional Chinese medicine (TCM) has been extensively explored with various naturally derived compounds as a potential therapeutic agent for chronic atrophic gastritis (CAG). In addition to the aspects discussed in the reviewed article, this invited commentary explores the initial available evidence on a fungus from TCM, Hericium erinaceus , in the context of CAG. Initial clinical data suggest the potential of this fungus in inducing clinical and histological improvements in patients with CAG, as well as a marked antimicrobial activity against Helicobacter pylori infection. Preclinical cellular evidence also indicates an antineoplastic role in gastric carcinogenesis, mediated by two components: Erinacine A and S. Further evidence is needed to propose this fungus as a potential complementary therapeutic approach for CAG.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -2755,8 +2752,7 @@
     "Digestive aid"
    ],
    "conditions": [
-    "Bloating",
-    "Indigestion"
+    "Cancer (anticancer research)"
    ]
   },
   {
@@ -8702,7 +8698,6 @@
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Cold & flu",
     "Immune support"
    ]
   },
@@ -9099,6 +9094,7 @@
    ],
    "actions": [],
    "conditions": [
+    "Blood sugar / diabetes support",
     "Cardiovascular / heart health"
    ]
   },
@@ -13507,44 +13503,6 @@
    ]
   },
   {
-   "ref_id": "REF-0465",
-   "key": "garcia2023effect",
-   "type": "article",
-   "title": "Effect of the Combination of Hibiscus sabdariffa with Other Plant Extracts in the Prevention of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
-   "authors": "Garcia-Munoz, A.M., Garcia-Guillen, A.I., Victoria-Montesinos, D., Abellan-Ruiz, M.S., Alburquerque-Gonzalez, B. and Canovas, F.",
-   "journal": "Foods",
-   "year": "2023",
-   "doi": "10.3390/foods12112269",
-   "url": "",
-   "link": "https://doi.org/10.3390/foods12112269",
-   "link_type": "doi",
-   "citation": "Garcia-Munoz, A.M., Garcia-Guillen, A.I., Victoria-Montesinos, D., Abellan-Ruiz, M.S., Alburquerque-Gonzalez, B. and Canovas, F (2023) 'Effect of the Combination of Hibiscus sabdariffa with Other Plant Extracts in the Prevention of Metabolic Syndrome: A Systematic Review and Meta-Analysis', Foods. doi:10.3390/foods12112269",
-   "abstract": "Metabolic syndrome is a complex and multifactorial disorder associated with increased risk of cardiovascular disease and type 2 diabetes, exacerbated by a sedentary lifestyle and situations such as the COVID-19 pandemic. Recent studies have shown that consumption of fruits and vegetables high in polyphenols has a protective effect, reducing cardiovascular risk. Hibiscus sabdariffa (HS) in combination with other plant extracts has recently attracted scientists' attention due to its potential use in the treatment of metabolic syndrome. This systematic review and meta-analysis examines the effects of HS in combination with other plant extracts on the prevention of metabolic syndrome, exploring their synergistic effects and potential as therapeutic agents. For this purpose, a systematic search of randomized clinical trials (RCTs) was conducted in four different databases and the data obtained were then used for a meta-analysis. Initially, the titles and abstracts of 1368 studies were read. From these, 16 studies were examined closely for their eligibility, and finally, seven RCTs with 332 participants were included in both the meta-analysis and the qualitative analysis. Our results show that HS in combination with other plant extracts improved anthropometric parameters, blood pressure, and lipid profile (low density lipoprotein cholesterol and total cholesterol) compared to a placebo control group. It is important to note that although this meta-analysis suggests that HS in combination with other plant extracts may have a beneficial effect on cardiovascular parameters, further research is needed to determine the optimal dose and intake duration.",
-   "tier": "review",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Effect of the Combination of Hibiscus sabdariffa with Other Plant Extracts in the Prevention of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
-   "plants": [
-    "Hibiscus",
-    "Karkade",
-    "Roselle",
-    "Sorrel"
-   ],
-   "scientific": [
-    "Hibiscus sabdariffa"
-   ],
-   "actions": [
-    "Antihypertensive",
-    "Lipid-lowering"
-   ],
-   "conditions": [
-    "Cardiovascular / heart health",
-    "High blood pressure",
-    "High cholesterol"
-   ]
-  },
-  {
    "ref_id": "REF-1387",
    "key": "symoniuk2023mullein",
    "type": "article",
@@ -14567,50 +14525,6 @@
    ]
   },
   {
-   "ref_id": "REF-0179",
-   "key": "national2023hericium",
-   "type": "misc",
-   "title": "Hericium erinaceus",
-   "authors": "National Institutes of Health",
-   "journal": "",
-   "year": "2023",
-   "doi": "",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hericium+erinaceus",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/?term=hericium+erinaceus",
-   "link_type": "url",
-   "citation": "National Institutes of Health (2023) 'Hericium erinaceus'. Available at: https://pubmed.ncbi.nlm.nih.gov/?term=hericium+erinaceus",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Hericium erinaceus",
-   "plants": [
-    "Lauvas krēpes",
-    "Lions mane"
-   ],
-   "scientific": [
-    "Hericium erinaceus"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Digestive aid",
-    "Immunomodulator / immune support",
-    "Neuroprotective / cognition support"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bloating",
-    "Cognitive function",
-    "Cold & flu",
-    "Immune support",
-    "Indigestion",
-    "Inflammation (general)",
-    "Memory",
-    "Skin irritation"
-   ]
-  },
-  {
    "ref_id": "REF-0773",
    "key": "rezig2023cnicus",
    "type": "article",
@@ -15450,7 +15364,7 @@
    "link_type": "doi",
    "citation": "Szucko-Kociuba, I., Trzeciak-Ryczek, A., Kupnicka, P. and Chlubek, D (2023) 'Neurotrophic and Neuroprotective Effects of Hericium erinaceus', International Journal of Molecular Sciences, 24(21). doi:10.3390/ijms242115960",
    "abstract": "Hericium erinaceus is a valuable mushroom known for its strong bioactive properties. It shows promising potential as an excellent neuroprotective agent, capable of stimulating nerve growth factor release, regulating inflammatory processes, reducing oxidative stress, and safeguarding nerve cells from apoptosis. The active compounds in the mushroom, such as erinacines and hericenones, have been the subject of research, providing evidence of their neuroprotective effects. Further research and standardization processes for dietary supplements focused on H. erinaceus are essential to ensuring effectiveness and safety in protecting the nervous system. Advancements in isolation and characterization techniques, along with improved access to pure analytical standards, will play a critical role in achieving standardized, high-quality dietary supplements based on H. erinaceus . The aim of this study is to analyze the protective and nourishing effects of H. erinaceus on the nervous system and present the most up-to-date research findings related to this topic.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -15467,9 +15381,7 @@
     "Neuroprotective / cognition support"
    ],
    "conditions": [
-    "Cognitive function",
-    "Inflammation (general)",
-    "Memory"
+    "Inflammation (general)"
    ]
   },
   {
@@ -17072,8 +16984,7 @@
     "Neuroprotective / cognition support"
    ],
    "conditions": [
-    "Cognitive function",
-    "Memory"
+    "Cognitive function"
    ]
   },
   {
@@ -19505,7 +19416,10 @@
    "actions": [
     "Neuroprotective / cognition support"
    ],
-   "conditions": []
+   "conditions": [
+    "Cognitive function",
+    "Memory"
+   ]
   },
   {
    "ref_id": "REF-0760",
@@ -23196,7 +23110,9 @@
     "Astringent",
     "Neuroprotective / cognition support"
    ],
-   "conditions": []
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-2837",
@@ -24660,9 +24576,7 @@
    "actions": [
     "Antidiabetic (blood-sugar lowering)"
    ],
-   "conditions": [
-    "Blood sugar / diabetes support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2486",
@@ -29095,7 +29009,12 @@
     "Emollient / skin-soothing",
     "Vulnerary (wound healing)"
    ],
-   "conditions": []
+   "conditions": [
+    "Eczema",
+    "Inflammation (general)",
+    "Skin irritation",
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-3149",
@@ -32678,19 +32597,7 @@
     "Immunomodulator / immune support",
     "Vulnerary (wound healing)"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Blood sugar / diabetes support",
-    "Bruising",
-    "Cardiovascular / heart health",
-    "Cold & flu",
-    "Eczema",
-    "Immune support",
-    "Inflammation (general)",
-    "Metabolic support",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1130",
@@ -39361,7 +39268,10 @@
    "actions": [
     "Neuroprotective / cognition support"
    ],
-   "conditions": []
+   "conditions": [
+    "Cognitive function",
+    "Memory"
+   ]
   },
   {
    "ref_id": "REF-1706",
@@ -40750,8 +40660,7 @@
    "conditions": [
     "Blood sugar / diabetes support",
     "Cardiovascular / heart health",
-    "High blood pressure",
-    "Metabolic support"
+    "High blood pressure"
    ]
   },
   {
@@ -52968,7 +52877,7 @@
    "link_type": "search",
    "citation": "Schonknecht, K., Fal, A.M., Mastalerz-Migas, A., Joachimiak, M. and Doniec, Z (2017) 'Efficacy of dry extract of ivy leaves in the treatment of productive cough', Wiadomosci Lekarskie.",
    "abstract": "Objective Introduction: Coughing is a physiological, spontaneous defense mechanism against irritants that stimulate respiratory mucosa. Productive cough should be not suppressed; instead, mucus-dissolving agents are recommended. One of the expectorants, which increases the excretion volume, is the herbal medicine derived from ivy leaves. The ivy extract contains triterpene saponins, which have secretory properties. The aim of this study was to determine the effectiveness and safety of the treatment with the medicinal product Hedussin®, containing dry ivy extract, in the therapy of productive cough in the course of the respiratory tract infection. Patients and methods Material and methods:This was a non-randomized, non-interventional, multicenter, open-label, post-authorization effectiveness study (PAES). The study group consisted of 464 patients aged 2-12 years with productive cough. The study was supported by a questionnaire that included: the type of cough etiological factor, Bronchitis Severity Score (BSS), temperature, and prescription of antibiotic therapy. Effectiveness and safety of the therapy with Hedussin® was assessed at the follow-up visit. Results Results and conclusion: Improvement in cough was reported in 93.3% subjects; improvement in chest pain on coughing was reported in 84.7%, in wheezing - in 90.0%, in dyspnoea - in 88.7%, and in auscultation changes - in 94.8%. In addition, decline or normalization of body temperature was found in 96.0% of subjects. No adverse drug reactions were reported in the study population. The non-antibiotic treated group showed similar proportions. The results of this study support the efficacy of Hedussin® prescribed for the treatment of productive cough in the course of respiratory tract infections. Hedussin® was well tolerated by sick children aged 2-12 years.",
-   "tier": "rct",
+   "tier": "clinical",
    "corpus": [
     "clinical"
    ],
@@ -55905,9 +55814,7 @@
     "Immunomodulator / immune support",
     "Neuroprotective / cognition support"
    ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0921",
@@ -61448,7 +61355,10 @@
    "actions": [
     "Neuroprotective / cognition support"
    ],
-   "conditions": []
+   "conditions": [
+    "Cognitive function",
+    "Memory"
+   ]
   },
   {
    "ref_id": "REF-3154",
@@ -66542,41 +66452,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-2777",
-   "key": "piwowarski2014geum",
-   "type": "article",
-   "title": "Role of human gut microbiota metabolism in the anti-inflammatory effect of traditionally used ellagitannin-rich plant materials",
-   "authors": "Piwowarski, J.P. and Granica, S. and Zwierzynska, M. and Stefanska, J. and Schopohl, P. and Melzig, M.F. and Kiss, A.K.",
-   "journal": "Journal of Ethnopharmacology",
-   "year": "2014",
-   "doi": "10.1016/j.jep.2014.06.032",
-   "url": "",
-   "link": "https://doi.org/10.1016/j.jep.2014.06.032",
-   "link_type": "doi",
-   "citation": "Piwowarski, J.P. and Granica, S. and Zwierzynska, M. and Stefanska, J. and Schopohl, P. and Melzig, M.F. and Kiss, A.K (2014) 'Role of human gut microbiota metabolism in the anti-inflammatory effect of traditionally used ellagitannin-rich plant materials', Journal of Ethnopharmacology, 155(1), pp. 801-809. doi:10.1016/j.jep.2014.06.032",
-   "abstract": "Ethnopharmacological relevance Ellagitannin-rich plant materials are widely used in traditional medicine as effective, internally used anti-inflammatory agents. Due to the not well-established bioavailability of ellagitannins, the mechanisms of observed therapeutic effects following oral administration still remain unclear. The aim of the study was to evaluate if selected ellagitannin-rich plant materials could be the source of bioavailable gut microbiota metabolites, i.e. urolithins, together with determination of the anti-inflammatory activity of the metabolites produced on the THP-1 cell line derived macrophages model. Materials and methods The formation of urolithins was determined by ex vivo incubation of human fecal samples with aqueous extracts from selected plant materials. The anti-inflammatory activity study of metabolites was determined on PMA differentiated, IFN-γ and LPS stimulated, human THP-1 cell line-derived macrophages. Results The formation of urolithin A, B and C by human gut microbiota was established for aqueous extracts from Filipendula ulmaria (L.) Maxim. herb (Ph. Eur.), Geranium pratense L. herb, Geranium robertianum L. herb, Geum urbanum L. root and rhizome, Lythrum salicaria L. herb (Ph. Eur.), Potentilla anserina L. herb, Potentilla erecta (L.) Raeusch rhizome (Ph. Eur.), Quercus robur L. bark (Ph. Eur.), Rubus idaeus L. leaf, Rubus fruticosus L. and pure ellagitannin vescalagin. Significant inhibition of TNF-α production was determined for all urolithins, while for the most potent urolithin A inhibition was observed at nanomolar concentrations (at 0.625 μM 29.2±6.4% of inhibition). Urolithin C was the only compound inhibiting IL-6 production (at 0.625 μM 13.9±2.2% of inhibition). Conclusions The data obtained clearly indicate that in the case of peroral use of the examined ellagitannin-rich plant materials the bioactivity of gut microbiota metabolites, i.e. urolithins, has to be taken under consideration.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Role of human gut microbiota metabolism in the anti-inflammatory effect of traditionally used ellagitannin-rich plant materials",
-   "plants": [
-    "Water avens",
-    "chocolate root",
-    "nodding avens",
-    "purple avens"
-   ],
-   "scientific": [
-    "Geum rivale"
-   ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": [
-    "Inflammation (general)"
-   ]
-  },
-  {
    "ref_id": "REF-2549",
    "key": "verma2014blackberry",
    "type": "article",
@@ -66749,19 +66624,7 @@
     "Immunomodulator / immune support",
     "Vulnerary (wound healing)"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Blood sugar / diabetes support",
-    "Bruising",
-    "Cardiovascular / heart health",
-    "Cold & flu",
-    "Eczema",
-    "Immune support",
-    "Inflammation (general)",
-    "Metabolic support",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2557",
@@ -68199,10 +68062,22 @@
     "clinical"
    ],
    "display": "Community herbal monograph on Glycyrrhiza glabra L. and/or Glycyrrhiza inflata Bat. and/or Glycyrrhiza uralensis Fisch., radix",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Acid reflux",
+    "Cold & flu",
+    "Cough",
+    "Indigestion",
+    "Respiratory support"
+   ]
   },
   {
    "ref_id": "REF-3078",
@@ -74379,7 +74254,10 @@
     "Anti-inflammatory",
     "Antioxidant"
    ],
-   "conditions": []
+   "conditions": [
+    "Cardiovascular / heart health",
+    "Immune support"
+   ]
   },
   {
    "ref_id": "REF-1384",
@@ -78755,59 +78633,6 @@
    ]
   },
   {
-   "ref_id": "REF-0089",
-   "key": "fiore2008history",
-   "type": "article",
-   "title": "A history of the therapeutic use of liquorice in Europe",
-   "authors": "Fiore, C. et al",
-   "journal": "",
-   "year": "2008",
-   "doi": "10.1016/j.jep.2005.04.015",
-   "url": "",
-   "link": "https://doi.org/10.1016/j.jep.2005.04.015",
-   "link_type": "doi",
-   "citation": "Fiore, C. et al (2008) 'A history of the therapeutic use of liquorice in Europe', 99(3), pp. 317--324. doi:10.1016/j.jep.2005.04.015",
-   "abstract": "Liquorice root has been used in Europe since prehistoric times, and is well documented in written form starting with the ancient Greeks. In this review we compare the independent development of medical uses of this botanical drug in several ancient cultures, attempting to show the rationality of specific indications across different ethnic groups with different cultural backgrounds. Identical specific indications in different cultures highlight universally reproducible therapeutic effects that are beyond those of a mere placebo. In the first part of the review, historical sources dealing with liquorice (Scythian, Greek, Roman, and from the Middle Ages in Germany, Italy, Spain, England) have been considered. In the second part, the historical records of diseases treated with liquorice have been presented. Finally, a comparison between traditional use in and outside Europe, with the most important recent scientific studies concerning its use, is presented.",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "A history of the therapeutic use of liquorice in Europe",
-   "plants": [
-    "Licorice root",
-    "liquorice",
-    "sweet root"
-   ],
-   "scientific": [
-    "Glycyrrhiza glabra"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antispasmodic",
-    "Antiviral",
-    "Expectorant",
-    "Gastroprotective",
-    "Immunomodulator / immune support"
-   ],
-   "conditions": [
-    "Acid reflux",
-    "Arthritis / joint pain",
-    "Bronchitis",
-    "Cold & flu",
-    "Cough",
-    "Immune support",
-    "Indigestion",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Menstrual cramps",
-    "Muscle spasm",
-    "Respiratory support",
-    "Skin irritation",
-    "Wounds"
-   ]
-  },
-  {
    "ref_id": "REF-3163",
    "key": "bradettehebert2008labdane",
    "type": "article",
@@ -79752,10 +79577,7 @@
    "actions": [
     "Neuroprotective / cognition support"
    ],
-   "conditions": [
-    "Cognitive function",
-    "Memory"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2442",
@@ -80143,15 +79965,15 @@
    "type": "article",
    "title": "Review of pharmacological effects of Glycyrrhiza sp.",
    "authors": "Asl, M.N. and Hosseinzadeh, H",
-   "journal": "",
+   "journal": "Phytotherapy Research",
    "year": "2008",
-   "doi": "",
+   "doi": "10.1002/ptr.2362",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Review%20of%20pharmacological%20effects%20of%20Glycyrrhiza%20sp.",
-   "link_type": "search",
-   "citation": "Asl, M.N. and Hosseinzadeh, H (2008) 'Review of pharmacological effects of Glycyrrhiza sp', 22(6), pp. 709--724.",
-   "abstract": "",
-   "tier": "traditional",
+   "link": "https://doi.org/10.1002/ptr.2362",
+   "link_type": "doi",
+   "citation": "Asl, M.N. and Hosseinzadeh, H (2008) 'Review of pharmacological effects of Glycyrrhiza sp', Phytotherapy Research, 22(6), pp. 709--724. doi:10.1002/ptr.2362",
+   "abstract": "The roots and rhizomes of licorice (Glycyrrhiza) species have long been used worldwide as a herbal medicine and natural sweetener. Licorice root is a traditional medicine used mainly for the treatment of peptic ulcer, hepatitis C, and pulmonary and skin diseases, although clinical and experimental studies suggest that it has several other useful pharmacological properties such as antiinflammatory, antiviral, antimicrobial, antioxidative, anticancer activities, immunomodulatory, hepatoprotective and cardioprotective effects. A large number of components have been isolated from licorice, including triterpene saponins, flavonoids, isoflavonoids and chalcones, with glycyrrhizic acid normally being considered to be the main biologically active component. This review summarizes the phytochemical, pharmacological and pharmacokinetics data, together with the clinical and adverse effects of licorice and its bioactive components.",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -80173,22 +79995,7 @@
     "Gastroprotective",
     "Immunomodulator / immune support"
    ],
-   "conditions": [
-    "Acid reflux",
-    "Arthritis / joint pain",
-    "Bronchitis",
-    "Cold & flu",
-    "Cough",
-    "Immune support",
-    "Indigestion",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Menstrual cramps",
-    "Muscle spasm",
-    "Respiratory support",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-3118",
@@ -83044,14 +82851,7 @@
     "Analgesic (pain relief)",
     "Anti-inflammatory"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Back pain",
-    "Headache",
-    "Inflammation (general)",
-    "Pain (general)",
-    "Skin irritation"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1834",
@@ -83811,6 +83611,44 @@
     "Matricaria chamomilla"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0089",
+   "key": "fiore2008history",
+   "type": "article",
+   "title": "A history of the therapeutic use of liquorice in Europe",
+   "authors": "Fiore, C. et al",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2005",
+   "doi": "10.1016/j.jep.2005.04.015",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2005.04.015",
+   "link_type": "doi",
+   "citation": "Fiore, C. et al (2005) 'A history of the therapeutic use of liquorice in Europe', Journal of Ethnopharmacology, 99(3), pp. 317--324. doi:10.1016/j.jep.2005.04.015",
+   "abstract": "Liquorice root has been used in Europe since prehistoric times, and is well documented in written form starting with the ancient Greeks. In this review we compare the independent development of medical uses of this botanical drug in several ancient cultures, attempting to show the rationality of specific indications across different ethnic groups with different cultural backgrounds. Identical specific indications in different cultures highlight universally reproducible therapeutic effects that are beyond those of a mere placebo. In the first part of the review, historical sources dealing with liquorice (Scythian, Greek, Roman, and from the Middle Ages in Germany, Italy, Spain, England) have been considered. In the second part, the historical records of diseases treated with liquorice have been presented. Finally, a comparison between traditional use in and outside Europe, with the most important recent scientific studies concerning its use, is presented.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A history of the therapeutic use of liquorice in Europe",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antispasmodic",
+    "Antiviral",
+    "Expectorant",
+    "Gastroprotective",
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -85446,7 +85284,7 @@
    "link_type": "doi",
    "citation": "Chrubasik, S (2004) 'Devil's claw extract as an example of the effectiveness of herbal analgesics', Der Orthopade. doi:10.1007/s00132-004-0675-7",
    "abstract": "Preparations from devil's claw differ in their content of active ingredients as assessed by the quantity of harpagoside present. The harpagoside content in the daily dose of Doloteffin (extraction solvent water) is double that of preparations extracted with 60% ethanol. Only preparations with proven effectiveness for painful lower back or arthrotic pain are an attractive alternative to synthetic analgesics, and are of substantial benefit in the treatment of chronic pain. From an evidence based view, extract with at least 50 mg harpagoside in the daily dose should be recommended for the treatment of pain. Treatment with devil's claw extract is associated with a lower risk of adverse events than treatment with synthetic analgesics, and may contribute in the majority of patients to the relief of pain.",
-   "tier": "clinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -85466,7 +85304,6 @@
    "conditions": [
     "Arthritis / joint pain",
     "Back pain",
-    "Inflammation (general)",
     "Pain (general)"
    ]
   },
@@ -85515,7 +85352,7 @@
    "link_type": "doi",
    "citation": "Chrubasik, S., Conradt, C. and Roufogalis, B.D (2004) 'Effectiveness of Harpagophytum extracts and clinical efficacy', Phytotherapy Research, 18(2), pp. 187--189. doi:10.1002/ptr.1416",
    "abstract": "Various preparations from Harpagophytum procumbens are used for the treatment of pain in the joints and lower back. Studies published in peer reviewed journals were examined for their clinical evidence. The studies offering preparations with 50-60 mg harpagoside in the daily dosage are of better quality and provide more reliable evidence on efficacy than a proprietary ethanol extract with half the amount of harpagoside per day. However, confirmatory studies are required for all extracts before they can gain a place in treatment guidelines.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -85667,6 +85504,7 @@
    ],
    "actions": [],
    "conditions": [
+    "Arthritis / joint pain",
     "Back pain",
     "Pain (general)"
    ]
@@ -91131,8 +90969,7 @@
     "Antimicrobial"
    ],
    "conditions": [
-    "Infection (general)",
-    "Sore throat"
+    "Infection (general)"
    ]
   },
   {
@@ -91935,85 +91772,24 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0305",
-   "key": "who1999monographs",
-   "type": "misc",
-   "title": "WHO Monographs on Selected Medicinal Plants",
-   "authors": "WHO",
-   "journal": "",
-   "year": "1999",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=WHO%20Monographs%20on%20Selected%20Medicinal%20Plants",
-   "link_type": "search",
-   "citation": "WHO (1999) 'WHO Monographs on Selected Medicinal Plants'.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "WHO Monographs on Selected Medicinal Plants",
-   "plants": [
-    "Indian saffron",
-    "Licorice root",
-    "Tumeric",
-    "Turmeric",
-    "common turmeric",
-    "liquorice",
-    "sweet root"
-   ],
-   "scientific": [
-    "Curcuma longa",
-    "Glycyrrhiza glabra"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Anticancer (preclinical)",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antispasmodic",
-    "Antiviral",
-    "Expectorant",
-    "Gastroprotective",
-    "Immunomodulator / immune support"
-   ],
-   "conditions": [
-    "Acid reflux",
-    "Arthritis / joint pain",
-    "Bronchitis",
-    "Cold & flu",
-    "Cough",
-    "Immune support",
-    "Indigestion",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Menstrual cramps",
-    "Muscle spasm",
-    "Respiratory support",
-    "Skin irritation",
-    "Wounds"
-   ]
-  },
-  {
    "ref_id": "REF-0308",
    "key": "world1999monographs",
    "type": "book",
-   "title": "WHO Monographs on Selected Medicinal Plants",
+   "title": "WHO Monographs on Selected Medicinal Plants, Volume 1",
    "authors": "World Health Organization",
    "journal": "",
    "year": "1999",
    "doi": "",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=WHO%20Monographs%20on%20Selected%20Medicinal%20Plants",
+   "link": "https://scholar.google.com/scholar?q=WHO%20Monographs%20on%20Selected%20Medicinal%20Plants%2C%20Volume%201",
    "link_type": "search",
-   "citation": "World Health Organization (1999) 'WHO Monographs on Selected Medicinal Plants'.",
+   "citation": "World Health Organization (1999) 'WHO Monographs on Selected Medicinal Plants, Volume 1'.",
    "abstract": "",
    "tier": "traditional",
    "corpus": [
     "clinical"
    ],
-   "display": "WHO Monographs on Selected Medicinal Plants",
+   "display": "WHO Monographs on Selected Medicinal Plants, Volume 1",
    "plants": [
     "Bird’s foot",
     "Black Sampson",
@@ -92023,45 +91799,63 @@
     "Ginkgo",
     "Ginko",
     "Greek clover",
+    "Indian saffron",
+    "Licorice root",
     "Purple coneflower",
     "Snakeroot",
+    "Tumeric",
+    "Turmeric",
     "and alholva",
     "cilantro",
+    "common turmeric",
     "dhania/dhanya",
     "ginkgo biloba",
     "goat’s horn",
+    "liquorice",
     "maidenhair tree",
-    "pak chee"
+    "pak chee",
+    "sweet root"
    ],
    "scientific": [
     "Coriandrum sativum",
+    "Curcuma longa",
     "Echinacea purpurea",
     "Ginkgo biloba",
+    "Glycyrrhiza glabra",
     "Trigonella foenum-graecum"
    ],
    "actions": [
     "Anti-inflammatory",
+    "Anticancer (preclinical)",
     "Antidiabetic (blood-sugar lowering)",
     "Antimicrobial",
     "Antioxidant",
     "Antispasmodic",
+    "Antiviral",
     "Aphrodisiac",
     "Digestive aid",
+    "Expectorant",
+    "Gastroprotective",
     "Immunomodulator / immune support",
     "Neuroprotective / cognition support"
    ],
    "conditions": [
+    "Acid reflux",
     "Arthritis / joint pain",
     "Blood sugar / diabetes support",
+    "Bronchitis",
     "Cardiovascular / heart health",
     "Cognitive function",
     "Cold & flu",
+    "Cough",
     "Fertility",
     "Immune support",
+    "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
     "Memory",
     "Metabolic support",
+    "Respiratory support",
     "Skin irritation",
     "Wounds"
    ]
@@ -93590,7 +93384,7 @@
    "link_type": "search",
    "citation": "Lamaison, J.L. and Carnat, A. and Petitjean-Freytet, C (1990) 'Tannin content and inhibiting activity of elastase in Rosaceae', Annales Pharmaceutiques Francaises, 48(6), pp. 335-340.",
    "abstract": "From 42 Rosaceae species, only the Rosoideae species exhibit high tannin content and elastase inhibiting activity such as Filipendula ulmaria, Geum montanum, G. rivale, Alchemilla xanthochlora and Sanguisorba minor. Other studied species from Spiraeoideae, Maloideae and Prunoideae subfamilies are less rich in tannin and also less active.",
-   "tier": "narrative",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -93608,9 +93402,7 @@
     "Antidiarrhoeal",
     "Astringent"
    ],
-   "conditions": [
-    "Diarrhoea"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0016",
@@ -98352,12 +98144,10 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Bruising",
     "Haemorrhoids",
     "Inflammation (general)",
     "Oral & throat health",
-    "Skin irritation",
-    "Wounds"
+    "Skin irritation"
    ]
   },
   {
@@ -105684,7 +105474,6 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Bruising",
     "Diarrhoea",
     "Haemorrhoids",

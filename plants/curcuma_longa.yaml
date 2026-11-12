@@ -103,7 +103,7 @@ actions:
   reference_ids:
   - REF-0002
   - REF-0273
-  - REF-0305
+  - REF-0308
   - REF-0791
   - REF-2164
   - REF-0792
@@ -117,26 +117,26 @@ actions:
   reference_ids:
   - REF-0002
   - REF-0273
-  - REF-0305
+  - REF-0308
   status: verified
 - action: antidiabetic
   reference_ids:
   - REF-0002
   - REF-0273
-  - REF-0305
+  - REF-0308
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0002
   - REF-0273
-  - REF-0305
+  - REF-0308
   - REF-2172
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0002
   - REF-0273
-  - REF-0305
+  - REF-0308
   - REF-2169
   - REF-2171
   status: verified
@@ -144,20 +144,20 @@ actions:
   reference_ids:
   - REF-0002
   - REF-0273
-  - REF-0305
+  - REF-0308
   status: verified
 indications:
 - condition: acid-reflux
   note: inferred from gastroprotective action
   reference_ids:
-  - REF-0305
+  - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0002
   - REF-0273
 - condition: arthritis
   reference_ids:
-  - REF-0305
+  - REF-0308
   - REF-0791
   - REF-0792
   status: verified
@@ -179,7 +179,7 @@ indications:
 - condition: indigestion
   note: inferred from gastroprotective action
   reference_ids:
-  - REF-0305
+  - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0002
@@ -187,7 +187,7 @@ indications:
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0305
+  - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0273
@@ -196,7 +196,7 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0002
-  - REF-0305
+  - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0273
@@ -207,11 +207,11 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0273
-  - REF-0305
+  - REF-0308
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0305
+  - REF-0308
   - REF-2165
   status: needs-review
   mechanistic_exclude_ids:
@@ -222,7 +222,7 @@ indications:
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0305
+  - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0273
@@ -235,7 +235,7 @@ contraindications:
   reference_ids:
   - REF-0002
   - REF-0273
-  - REF-0305
+  - REF-0308
   status: verified
 - note: 'Duke (2002) rates turmeric as +++ with clinical evidence (score 2) for anti-inflammatory activity,
     consistent with Commission E and WHO approvals. Curcumin is the primary bioactive compound with well-documented
@@ -248,7 +248,7 @@ contraindications:
   reference_ids:
   - REF-0002
   - REF-0273
-  - REF-0305
+  - REF-0308
   - REF-0063
   status: verified
 references:
@@ -316,4 +316,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   slow-healing wounds per its known Medicinal uses text; the WHO PDF blocks automated reading -
   flagged for owner spot-check. Removed from blood-sugar, cardiovascular, metabolic. REF-0002
   (curcumin review; signature compound) kept for cardiovascular, metabolic, inflammation, cancer.
-  Arthritis SR/MAs REF-0791/REF-0792 and skin SR REF-2165 moved from mechanistic-only to direct.'
+  Arthritis SR/MAs REF-0791/REF-0792 and skin SR REF-2165 moved from mechanistic-only to direct.
+  | 2026-11-10: symptom-source audit batch 8 - REF-0305 merged into REF-0308 (both were WHO
+  Monographs on Selected Medicinal Plants vol. 1, 1999).'

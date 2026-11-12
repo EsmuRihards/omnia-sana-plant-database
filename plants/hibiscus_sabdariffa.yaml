@@ -109,7 +109,6 @@ actions:
   note: Lowers blood pressure, with the greatest effect in people with raised blood pressure
   reference_ids:
   - REF-0464
-  - REF-0465
   - REF-0566
   - REF-0567
   - REF-1844
@@ -127,7 +126,6 @@ actions:
   note: Improves the lipid profile - lowers LDL and total cholesterol
   reference_ids:
   - REF-0464
-  - REF-0465
   - REF-1843
   - REF-1845
   - REF-1848
@@ -142,7 +140,6 @@ indications:
   note: inferred from antihypertensive action
   reference_ids:
   - REF-0464
-  - REF-0465
   - REF-0566
   - REF-0567
   status: needs-review
@@ -152,7 +149,6 @@ indications:
   note: Lowers blood pressure, with the greatest effect in people with raised blood pressure
   reference_ids:
   - REF-0464
-  - REF-0465
   - REF-0566
   - REF-0567
   status: verified
@@ -162,13 +158,15 @@ indications:
   note: inferred from lipid-lowering action
   reference_ids:
   - REF-0464
-  - REF-0465
   status: needs-review
+  null_result_ids:
+  - REF-1843
 - condition: metabolic-support
   note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0567
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0567
 contraindications:
 - note: Its blood-pressure-lowering effect can add to that of antihypertensive medicines; monitor blood
     pressure if you take them. Note that it is not superior to standard antihypertensive drugs and did
@@ -256,4 +254,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Revie
   Binomial confirmed.
   | 2026-11-10: symptom-source audit batch 3 - REF-1844 (SR: trials do not provide reliable
   evidence to recommend H. sabdariffa for hypertension) moved to null_result_ids for
-  high-blood-pressure and cardiovascular-support.'
+  high-blood-pressure and cardiovascular-support.
+  | 2026-11-10: symptom-source audit batch 8 - REF-0465 purged: the meta-analysis pooled Hibiscus
+  COMBINED with other plant extracts. REF-0567 names glycaemic status and blood pressure, not
+  metabolic syndrome - removed from metabolic-support. REF-1843 (2013 MA: "does not support the
+  efficacy" for lowering serum lipids) recorded in null_result_ids for high-cholesterol.'

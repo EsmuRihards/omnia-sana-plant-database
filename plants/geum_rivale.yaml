@@ -160,7 +160,6 @@ constituents:
     in the gut).
   reference_ids:
   - REF-2761
-  - REF-2777
 - name: Gallic acid and derivatives
   compounds:
   - gallic-acid
@@ -219,16 +218,15 @@ actions:
   note: Inhibits prostaglandin biosynthesis; ellagitannin-derived urolithins are anti-inflammatory.
   reference_ids:
   - REF-2767
-  - REF-2777
   status: verified
 - action: anticancer
   note: Geum (avens) extracts show antineoplastic and skin antineoplastic activity in vitro (preclinical).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: antiviral
   note: Antiviral activity of avens (Geum) extract in vitro (congener).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: neuroprotective
   note: Neuroprotective activity of water avens polyphenol fractions.
   reference_ids:
@@ -237,7 +235,7 @@ actions:
 - action: antidiabetic
   note: Avens root extract showed antidiabetic (glucose-lowering) activity in vivo (congener G. urbanum).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: vulnerary
   note: Astringent/antimicrobial root traditionally applied to wounds and inflamed skin; skin antineoplastic
     activity shown for avens.
@@ -246,24 +244,20 @@ actions:
   status: verified
 indications:
 - condition: diarrhea
-  note: Astringent (tannin) antidiarrhoeal; traditional remedy for diarrhoea and dysentery.
-  reference_ids:
-  - REF-2768
-  status: verified
-- condition: sore-throat
-  note: inferred from astringent/antimicrobial gargle use
-  reference_ids:
-  - REF-2763
+  note: inferred from astringent (tannin) action
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-2768
 - condition: inflammation
   reference_ids:
   - REF-2767
-  - REF-2777
   status: verified
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-2763
+  - REF-2761
   status: needs-review
 - condition: wounds
   note: inferred from astringent/antimicrobial action and traditional wound-wash use
@@ -306,7 +300,6 @@ references:
 - REF-2769
 - REF-2770
 - REF-2776
-- REF-2777
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
@@ -382,4 +375,9 @@ internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum 
   no established posology) and is the proper fix if a seam opens. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for root + aerial-parts + flower (all provisional: PFAF REF-3267;
   aromatic rootstock dug in spring when most fragrant or autumn, herb/flower gathered in flower May-Sept).
-  Single lineage. Binomial confirmed.'
+  Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 8 - REF-2777 purged: its urolithin study tested Geum
+  urbanum (and other plants), not G. rivale. REF-2768 (Rosaceae tannin/elastase screen) names no
+  diarrhoea - removed; retagged preclinical. REF-2769 (1954 tannin anatomy) hidden from diarrhoea
+  cards. REF-2763 (in vitro antimicrobial) removed from sore-throat. REF-2761 (antibacterial vs E.
+  coli and S. aureus) added to infection.'

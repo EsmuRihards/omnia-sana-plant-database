@@ -142,13 +142,6 @@ actions:
   - REF-2186
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0308
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2179
 - condition: cardiovascular-support
   reference_ids:
   - REF-0308
@@ -156,29 +149,29 @@ indications:
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0056
   - REF-0128
   - REF-0308
+  - REF-2186
+  - REF-2185
   status: needs-review
+  null_result_ids:
+  - REF-0056
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0308
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0308
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0056
   - REF-0128
   - REF-0308
+  - REF-2186
+  - REF-2185
   status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0308
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2179
+  null_result_ids:
+  - REF-0056
 contraindications:
 - note: Generally well tolerated at standard doses but notable interactions exist. Ginkgo has antiplatelet
     and anticoagulant effects and should not be combined with warfarin, aspirin, or other blood-thinning
@@ -334,4 +327,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for leaf (provisional: PFAF REF-3264, gathered late summer/early autumn just before
-  yellowing) and seed (provisional: PFAF REF-3264, ripe in autumn). Single lineage. Binomial confirmed.'
+  yellowing) and seed (provisional: PFAF REF-3264, ripe in autumn). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 8 - REF-0056 (GEM trial, DeKosky 2008, 3,069 people):
+  G. biloba "was not effective in reducing either the overall incidence rate of dementia or AD
+  incidence" - moved to null_result_ids for cognitive-function and memory. REF-0308 (WHO vol. 1,
+  Folium Ginkgo) kept for cognitive-function, memory and cardiovascular-support per its known uses
+  (cerebrovascular insufficiency with memory deficit; peripheral arterial occlusive disease) - WHO
+  PDF bot-blocked, flagged for owner spot-check; removed from arthritis, inflammation, skin.
+  Positive meta-analyses REF-2186 (EGb 761 in dementia) and REF-2185 (early AD, "might improve")
+  moved from mechanistic to direct.'

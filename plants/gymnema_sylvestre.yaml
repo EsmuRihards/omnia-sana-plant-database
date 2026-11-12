@@ -133,9 +133,10 @@ indications:
   - REF-2540
   - REF-2541
   - REF-2542
-  - REF-2543
   - REF-3060
   status: verified
+  mechanistic_exclude_ids:
+  - REF-2543
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
@@ -229,4 +230,6 @@ internal_notes: '2026-07-03: new record created for the safety-data campaign (gy
   now 11; campaign target met. | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for leaf
   recorded as GAP: no species-specific phenological source for Gymnema sylvestre leaf-harvest timing
   (Useful Tropical Plants has none; evergreen tropical climber, no seasonal window). DB harvesting.text
-  generalisation not inherited. Binomial confirmed. | 2026-08-15: leaf harvest_readiness filled (was gap) from Pandey & Yadav, Pharmacognosy Research 2010 (REF-3377): the readiness stage is LEAF MATURITY, not a season - only mature leaves are plucked and the immature ones left to mature for the next picking.'
+  generalisation not inherited. Binomial confirmed. | 2026-08-15: leaf harvest_readiness filled (was gap) from Pandey & Yadav, Pharmacognosy Research 2010 (REF-3377): the readiness stage is LEAF MATURITY, not a season - only mature leaves are plucked and the immature ones left to mature for the next picking.
+  | 2026-11-10: symptom-source audit batch 8 - REF-2543 (14-day RCT on sugar cravings and
+  chocolate intake) measured no blood glucose - removed from blood-sugar.'

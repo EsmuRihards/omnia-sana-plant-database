@@ -162,7 +162,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0537
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Antimicrobial activity reported in lab studies (review)
   reference_ids:
   - REF-0537
   status: needs-review
@@ -176,23 +176,21 @@ indications:
   - REF-0604
   - REF-0605
   - REF-3080
+  - REF-3558
   status: verified
   null_result_ids:
   - REF-2586
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0537
-  status: needs-review
 - condition: pain
   note: Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of RCTs find fennel reduces pain
     intensity versus placebo, comparable to mefenamic acid
   reference_ids:
   - REF-0604
   - REF-0605
+  - REF-3558
   status: verified
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Expectorant for cough associated with colds (EU herbal monograph); expectorant activity reported
+    (review)
   reference_ids:
   - REF-0537
   - REF-3080
@@ -204,6 +202,28 @@ indications:
   mechanistic_exclude_ids:
   - REF-1656
   - REF-0537
+- condition: menopause
+  note: Fennel improved menopausal symptoms vs placebo in a meta-analysis and a randomized trial
+  reference_ids:
+  - REF-1642
+  - REF-3556
+  status: verified
+- condition: anxiety
+  note: Fennel reduced anxiety in postmenopausal women in a randomized trial; a meta-analysis found effects
+    on psychological health unclear
+  reference_ids:
+  - REF-3557
+  status: verified
+  null_result_ids:
+  - REF-1642
+- condition: depression
+  note: Fennel reduced depression symptoms in postmenopausal women in a randomized trial; a meta-analysis
+    found effects on psychological health unclear
+  reference_ids:
+  - REF-3557
+  status: verified
+  null_result_ids:
+  - REF-1642
 contraindications:
 - note: 'When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used as medicine
     at appropriate doses for a short period of time. There isn''t enough reliable information to know
@@ -385,4 +405,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   spasm with menstrual periods; expectorant in cough associated with cold - EMA page 429, flagged)
   added to menstrual-cramps, cough, respiratory-support.
   | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
-  only the sources still cited (batch 6-7 follow-up).'
+  only the sources still cited (batch 6-7 follow-up).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 7 - Deep re-sweep. Muscle-spasm dropped
+  (REF-0537 antispasmodic = smooth muscle; off-target). New pairs (owner rule): menopause (held MA
+  REF-1642 + RCT REF-3556); anxiety and depression (RCT REF-3557), each with REF-1642 recorded as
+  no-effect (it found effects on psychological health unclear). Dysmenorrhoea MA REF-3558 added to
+  menstrual-cramps and pain. Gap: EU monograph bloating/flatulence use has no pair (no SR/RCT;
+  infantile colic RCT 12868253 is not bloating).'

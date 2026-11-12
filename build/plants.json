@@ -21372,7 +21372,7 @@
     },
     {
      "condition": "pain",
-     "note": "Mild analgesic (traditional use for pain)",
+     "note": "Its alkaloids act on calming GABA-A receptors, and an extract eased pain in mice (preclinical)",
      "reference_ids": [
       "REF-0427"
      ],
@@ -21653,7 +21653,7 @@
     },
     {
      "condition": "cold",
-     "note": "inferred from immunomodulator action",
+     "note": "Used for cough associated with colds (EU herbal monograph; WHO monograph)",
      "reference_ids": [
       "REF-0309",
       "REF-3083"
@@ -21674,12 +21674,13 @@
      "mechanistic_exclude_ids": [
       "REF-0309"
      ],
+     "note": "Eucalyptus oil stimulated innate immune cells in lab studies (review)",
      "evidence": 2,
      "label": "Immune support"
     },
     {
      "condition": "infection",
-     "note": "inferred from antifungal action",
+     "note": "Eucalyptus oil is antibacterial, antifungal and antiviral in lab studies (review)",
      "reference_ids": [
       "REF-0256"
      ],
@@ -21692,7 +21693,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Eucalyptus oil reduced inflammation in lab and animal studies (review)",
      "reference_ids": [
       "REF-0256"
      ],
@@ -21708,10 +21709,12 @@
      "reference_ids": [
       "REF-0256",
       "REF-0309",
-      "REF-3083"
+      "REF-3083",
+      "REF-3555"
      ],
      "status": "verified",
-     "evidence": 2,
+     "note": "Used for catarrh and cough of the upper airways (EU herbal monograph; WHO monograph); cineole, its main compound, reduced COPD flare-ups vs placebo in a randomized trial",
+     "evidence": 5,
      "label": "Respiratory support"
     },
     {
@@ -21737,6 +21740,27 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "asthma",
+     "note": "Added to usual treatment, 1,8-cineole allowed steroid reduction and improved lung function in placebo-controlled asthma trials (compound evidence: 1,8-cineole (eucalyptol) is eucalyptus oil's main active compound)",
+     "reference_ids": [
+      "REF-3552",
+      "REF-3553"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Asthma"
+    },
+    {
+     "condition": "sinusitis",
+     "note": "Cineole relieved acute non-purulent sinusitis vs placebo in a randomized trial (compound evidence: 1,8-cineole (eucalyptol) is eucalyptus oil's main active compound)",
+     "reference_ids": [
+      "REF-3554"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Sinusitis"
     }
    ],
    "contraindications": [
@@ -21949,7 +21973,7 @@
    "indications": [
     {
      "condition": "allergy",
-     "note": "Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)",
+     "note": "Traditionally used for hay fever and allergic eye symptoms (Herbal Reality)",
      "reference_ids": [
       "REF-0449"
      ],
@@ -21959,7 +21983,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Eyebright extracts slowed colon cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-2581"
      ],
@@ -21983,7 +22007,7 @@
     },
     {
      "condition": "infection",
-     "note": "Soothes upper-respiratory catarrh and mild infection (traditional)",
+     "note": "Traditionally used for eye and nasal infections (Herbal Reality); extracts were antibacterial in lab tests (preclinical)",
      "reference_ids": [
       "REF-0449",
       "REF-2581"
@@ -21994,7 +22018,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Extracts reduced inflammatory markers in human corneal cells in the lab (preclinical); traditional use (Herbal Reality)",
      "reference_ids": [
       "REF-0448",
       "REF-0449"
@@ -22008,7 +22032,7 @@
     },
     {
      "condition": "respiratory-support",
-     "note": "Soothes upper-respiratory catarrh and mild infection (traditional)",
+     "note": "Traditionally used for catarrh and sinus congestion (Herbal Reality)",
      "reference_ids": [
       "REF-0449"
      ],
@@ -22251,7 +22275,6 @@
      "action": "analgesic",
      "reference_ids": [
       "REF-0033",
-      "REF-0062",
       "REF-0098",
       "REF-2031"
      ],
@@ -22282,7 +22305,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0033",
-      "REF-0062",
       "REF-0098"
      ],
      "status": "verified"
@@ -22304,7 +22326,6 @@
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
       "REF-0033",
-      "REF-0062",
       "REF-0098"
      ],
      "status": "verified"
@@ -22313,7 +22334,6 @@
      "action": "diuretic",
      "reference_ids": [
       "REF-0033",
-      "REF-0062",
       "REF-0098",
       "REF-2037"
      ],
@@ -22323,7 +22343,6 @@
      "action": "gastroprotective",
      "reference_ids": [
       "REF-0033",
-      "REF-0062",
       "REF-0098",
       "REF-0815"
      ],
@@ -22337,7 +22356,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0062",
       "REF-0033",
       "REF-0098"
      ],
@@ -22366,15 +22384,14 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0033",
-      "REF-0098",
-      "REF-0062"
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Back pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Meadowsweet tincture protected DNA and slowed liver cancer cells in the lab, and an extract reduced radiation-induced tumours in rats (preclinical)",
      "reference_ids": [
       "REF-0816",
       "REF-2038"
@@ -22390,8 +22407,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0033",
-      "REF-0098",
-      "REF-0062"
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Headache"
@@ -22402,7 +22418,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0062",
       "REF-0033",
       "REF-0098"
      ],
@@ -22411,7 +22426,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Meadowsweet polyphenols reduced inflammatory markers in immune cells, and extracts reduced inflammation in rats (preclinical)",
      "reference_ids": [
       "REF-0062"
      ],
@@ -22431,8 +22446,7 @@
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0033",
-      "REF-0098",
-      "REF-0062"
+      "REF-0098"
      ],
      "note": "EU traditional use for minor joint (articular) pain",
      "evidence": 1,
@@ -22453,13 +22467,12 @@
     },
     {
      "condition": "swelling",
-     "note": "inferred from diuretic action",
+     "note": "Traditional remedy for dropsy (fluid retention) (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0062",
       "REF-2037",
       "REF-0033"
      ],
@@ -22468,13 +22481,12 @@
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Traditional diuretic for urinary complaints (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0062",
       "REF-2037",
       "REF-0033"
      ],
@@ -22800,8 +22812,7 @@
      "action": "astringent",
      "note": "Hydrolysable-tannin astringency underlying traditional antidiarrhoeal and wound/gargle use.",
      "reference_ids": [
-      "REF-2725",
-      "REF-2034"
+      "REF-2725"
      ],
      "status": "verified"
     },
@@ -22835,7 +22846,7 @@
    "indications": [
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Dropwort extract restrained mesothelioma cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-2735"
      ],
@@ -22850,6 +22861,7 @@
       "REF-0815"
      ],
      "status": "verified",
+     "note": "Extracts reduced inflammation in animal models (preclinical)",
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -22865,7 +22877,7 @@
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-rheumatic / analgesic action (salicylates)",
+     "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -22876,12 +22888,9 @@
     },
     {
      "condition": "diarrhea",
-     "note": "inferred from astringent (tannin) action and traditional use",
+     "note": "inferred from astringent action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2034"
-     ],
      "evidence": 1,
      "label": "Diarrhoea"
     },
@@ -22897,11 +22906,10 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from astringent/antimicrobial action and traditional wound-wash use",
+     "note": "inferred from antimicrobial and astringent action",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2034",
       "REF-2730",
       "REF-2734"
      ],
@@ -22910,7 +22918,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Extracts and essential oil were antimicrobial in lab tests (preclinical)",
      "reference_ids": [
       "REF-2733",
       "REF-2734"
@@ -22932,7 +22940,7 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from nootropic/neuroprotective action",
+     "note": "Extracts had nootropic (memory-supporting) effects in rats, comparable to piracetam (preclinical)",
      "reference_ids": [
       "REF-2736"
      ],
@@ -23314,7 +23322,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Antimicrobial activity reported in lab studies (review)",
      "reference_ids": [
       "REF-0537"
      ],
@@ -23331,39 +23339,31 @@
      "reference_ids": [
       "REF-0604",
       "REF-0605",
-      "REF-3080"
+      "REF-3080",
+      "REF-3558"
      ],
      "status": "verified",
      "null_result_ids": [
       "REF-2586"
      ],
-     "evidence": 8,
+     "evidence": 9,
      "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0537"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Muscle spasm"
     },
     {
      "condition": "pain",
      "note": "Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of RCTs find fennel reduces pain intensity versus placebo, comparable to mefenamic acid",
      "reference_ids": [
       "REF-0604",
-      "REF-0605"
+      "REF-0605",
+      "REF-3558"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 9,
      "label": "Pain (general)"
     },
     {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Expectorant for cough associated with colds (EU herbal monograph); expectorant activity reported (review)",
      "reference_ids": [
       "REF-0537",
       "REF-3080"
@@ -23383,6 +23383,43 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "menopause",
+     "note": "Fennel improved menopausal symptoms vs placebo in a meta-analysis and a randomized trial",
+     "reference_ids": [
+      "REF-1642",
+      "REF-3556"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Menopause"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Fennel reduced anxiety in postmenopausal women in a randomized trial; a meta-analysis found effects on psychological health unclear",
+     "reference_ids": [
+      "REF-3557"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-1642"
+     ],
+     "evidence": 5,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "depression",
+     "note": "Fennel reduced depression symptoms in postmenopausal women in a randomized trial; a meta-analysis found effects on psychological health unclear",
+     "reference_ids": [
+      "REF-3557"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-1642"
+     ],
+     "evidence": 5,
+     "label": "Low mood / depression"
     }
    ],
    "contraindications": [
@@ -23540,16 +23577,12 @@
     {
      "name": "Iridoid glycosides (asperuloside, asperulosidic acid)",
      "reference_ids": [
-      "REF-0818",
       "REF-2354"
      ]
     },
     {
      "name": "Flavonoids (including quercetin and luteolin derivatives)",
      "reference_ids": [
-      "REF-0818",
-      "REF-2352",
-      "REF-2353",
       "REF-2354"
      ]
     },
@@ -23565,17 +23598,13 @@
     {
      "name": "Polyphenolic acids (including chlorogenic acid)",
      "reference_ids": [
-      "REF-0818",
-      "REF-2352",
       "REF-2354",
       "REF-2357"
      ]
     },
     {
      "name": "Dioxatricyclodecenone compounds (mollugosides A and B)",
-     "reference_ids": [
-      "REF-2353"
-     ]
+     "reference_ids": []
     }
    ],
    "botanical_description": {
@@ -23647,9 +23676,6 @@
      "action": "antioxidant",
      "note": "Aerial-part and flower extracts of Galium album / G. mollugo show free-radical-scavenging and reactive-oxygen-species-reducing activity attributed to their polyphenol, flavonoid and iridoid content.",
      "reference_ids": [
-      "REF-0818",
-      "REF-2352",
-      "REF-2353",
       "REF-2354"
      ],
      "status": "verified"
@@ -23664,9 +23690,6 @@
     }
    ],
    "references": [
-    "REF-0818",
-    "REF-2352",
-    "REF-2353",
     "REF-2354",
     "REF-2355",
     "REF-2356",
@@ -23682,6 +23705,7 @@
    "provenance": "pubmed",
    "status": "draft",
    "last_updated": "2026-08-15",
+   "indications": [],
    "common_slug": "white-bedstraw"
   },
   {
@@ -23899,7 +23923,7 @@
    "indications": [
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Cleavers extracts slowed breast cancer and leukaemia cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1722",
       "REF-1724"
@@ -23910,7 +23934,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Extract was antimicrobial in lab tests (preclinical)",
      "reference_ids": [
       "REF-1720"
      ],
@@ -23924,7 +23948,7 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Extract aided wound closure and was antimicrobial in lab tests; an 1883 medical report described its use on chronic ulcers",
      "reference_ids": [
       "REF-1720",
       "REF-1725"
@@ -24084,7 +24108,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0019",
       "REF-0298",
       "REF-0822",
       "REF-2041"
@@ -24094,7 +24117,6 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0019",
       "REF-0298",
       "REF-2039",
       "REF-2044",
@@ -24106,7 +24128,6 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0019",
       "REF-0298",
       "REF-2040",
       "REF-2044"
@@ -24116,7 +24137,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0019",
       "REF-0298",
       "REF-2040",
       "REF-2042"
@@ -24126,7 +24146,6 @@
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0019",
       "REF-0298",
       "REF-2041"
      ],
@@ -24148,7 +24167,6 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0019",
       "REF-0298"
      ],
      "status": "verified"
@@ -24157,20 +24175,20 @@
    "indications": [
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Antidiabetic effects reported, mostly in lab and animal studies (review); a Cochrane review found the trials do not support reishi for blood sugar or other cardiovascular risk factors in type 2 diabetes",
      "reference_ids": [
       "REF-0298"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0019"
+     "null_result_ids": [
+      "REF-3559"
      ],
      "evidence": 2,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Reishi polysaccharides slowed tumours in lab and animal studies; a Cochrane review found it may improve tumour response and immune markers as an add-on to cancer treatment (low-quality evidence; no proven survival benefit)",
      "reference_ids": [
       "REF-0821",
       "REF-2039",
@@ -24183,7 +24201,7 @@
     },
     {
      "condition": "cold",
-     "note": "inferred from antiviral action",
+     "note": "inferred from immunomodulator action",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -24203,19 +24221,19 @@
       "REF-3394"
      ],
      "status": "verified",
+     "note": "Reishi polysaccharides stimulated immune cells in lab studies; as an add-on in cancer patients it may raise immune markers (Cochrane review; low-quality evidence)",
      "evidence": 7,
      "label": "Immune support"
     },
     {
      "condition": "infection",
-     "note": "inferred from antiviral action",
+     "note": "Antiviral and antimicrobial activities reported (review)",
      "reference_ids": [
       "REF-0298"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2041",
-      "REF-0019"
+      "REF-2041"
      ],
      "evidence": 2,
      "label": "Infection (general)"
@@ -24226,7 +24244,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0019",
       "REF-0298"
      ],
      "evidence": 1,
@@ -24238,11 +24255,34 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0019",
       "REF-0298"
+     ],
+     "null_result_ids": [
+      "REF-3559"
      ],
      "evidence": 1,
      "label": "Metabolic support"
+    },
+    {
+     "condition": "fatigue",
+     "note": "A reishi polysaccharide extract improved neurasthenia (fatigue-dominant) symptoms vs placebo, and spore powder eased cancer-related fatigue in a pilot trial (randomized trials)",
+     "reference_ids": [
+      "REF-3560",
+      "REF-3561"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Fatigue / low energy"
+    },
+    {
+     "condition": "stress",
+     "note": "Reishi supplementation reduced psychological stress and improved anxiety, mood and vitality scores in a randomized trial",
+     "reference_ids": [
+      "REF-3562"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Stress"
     }
    ],
    "contraindications": [
@@ -24480,7 +24520,6 @@
      "note": "Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric acid, enzyme and bile secretion)",
      "reference_ids": [
       "REF-0453",
-      "REF-0580",
       "REF-1647",
       "REF-1648"
      ],
@@ -24504,8 +24543,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0453",
-      "REF-0580"
+      "REF-0453"
      ],
      "evidence": 1,
      "label": "Bloating"
@@ -24517,9 +24555,6 @@
       "REF-0453"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0580"
-     ],
      "evidence": 1,
      "label": "Indigestion"
     }

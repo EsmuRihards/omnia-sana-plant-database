@@ -2773,6 +2773,40 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "asthma",
+     "label": "Asthma",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3552",
+      "REF-3553"
+     ]
+    },
+    {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0256",
+      "REF-0309",
+      "REF-3083",
+      "REF-3555"
+     ]
+    },
+    {
+     "condition": "sinusitis",
+     "label": "Sinusitis",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3554"
+     ]
+    },
+    {
      "condition": "immune-support",
      "label": "Immune support",
      "evidence": 2,
@@ -2800,18 +2834,6 @@
      "inferred": true,
      "references": [
       "REF-0256"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0256",
-      "REF-0309",
-      "REF-3083"
      ]
     },
     {
@@ -6680,39 +6702,62 @@
     {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0604",
       "REF-0605",
-      "REF-3080"
+      "REF-3080",
+      "REF-3558"
      ]
     },
     {
      "condition": "pain",
      "label": "Pain (general)",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0604",
-      "REF-0605"
+      "REF-0605",
+      "REF-3558"
+     ]
+    },
+    {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1642",
+      "REF-3556"
+     ]
+    },
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3557"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3557"
      ]
     },
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0537"
-     ]
-    },
-    {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
      "evidence": 2,
      "status": "needs-review",
      "inferred": true,
@@ -10078,6 +10123,27 @@
       "REF-0019",
       "REF-0298",
       "REF-3394"
+     ]
+    },
+    {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3560",
+      "REF-3561"
+     ]
+    },
+    {
+     "condition": "stress",
+     "label": "Stress",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3562"
      ]
     },
     {

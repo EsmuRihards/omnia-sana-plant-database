@@ -126,7 +126,6 @@ actions:
     acid, enzyme and bile secretion)
   reference_ids:
   - REF-0453
-  - REF-0580
   - REF-1647
   - REF-1648
   status: verified
@@ -142,15 +141,12 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0453
-  - REF-0580
 - condition: indigestion
   note: Bitter digestive aid for mild dyspeptic complaints such as indigestion and fullness (EU traditional
     use)
   reference_ids:
   - REF-0453
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0580
 contraindications:
 - note: Because bitters increase stomach-acid secretion, gentian is contraindicated in peptic (stomach
     or duodenal) ulcer disease and hyperacidity.
@@ -240,4 +236,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   genus-level Gentiana review (Chinese species, prose-only attribution) - removed from bloating
   and indigestion; retagged narrative-review.
   | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
-  only the sources still cited (batch 6-7 follow-up).'
+  only the sources still cited (batch 6-7 follow-up).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 7 - Deep re-sweep. Genus review REF-0580
+  removed from the digestive action (kept in references). PubMed "gentian" trials are gentian
+  violet (a synthetic dye) - not relevant.'

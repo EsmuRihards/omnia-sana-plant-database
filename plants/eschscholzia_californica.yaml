@@ -164,7 +164,7 @@ indications:
   - REF-0427
   status: verified
 - condition: pain
-  note: Mild analgesic (traditional use for pain)
+  note: Its alkaloids act on calming GABA-A receptors, and an extract eased pain in mice (preclinical)
   reference_ids:
   - REF-0427
   status: needs-review
@@ -258,4 +258,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor
   monograph REF-3099 (relief of mild symptoms of mental stress and to aid sleep; EMA page 429 -
   flagged for owner spot-check) added to stress and insomnia.
   | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
-  only the sources still cited (batch 6-7 follow-up).'
+  only the sources still cited (batch 6-7 follow-up).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 7 - Deep re-sweep. Pain note rewritten to
+  its lab sources. No single-herb trials on PubMed (only the excluded combination product).'

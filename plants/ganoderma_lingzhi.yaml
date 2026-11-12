@@ -100,14 +100,12 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0019
   - REF-0298
   - REF-0822
   - REF-2041
   status: verified
 - action: anticancer
   reference_ids:
-  - REF-0019
   - REF-0298
   - REF-2039
   - REF-2044
@@ -116,21 +114,18 @@ actions:
   status: verified
 - action: antidiabetic
   reference_ids:
-  - REF-0019
   - REF-0298
   - REF-2040
   - REF-2044
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0019
   - REF-0298
   - REF-2040
   - REF-2042
   status: verified
 - action: antiviral
   reference_ids:
-  - REF-0019
   - REF-0298
   - REF-2041
   status: verified
@@ -146,19 +141,21 @@ actions:
   status: verified
 - action: sedative
   reference_ids:
-  - REF-0019
   - REF-0298
   status: verified
 indications:
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Antidiabetic effects reported, mostly in lab and animal studies (review); a Cochrane review found
+    the trials do not support reishi for blood sugar or other cardiovascular risk factors in type 2 diabetes
   reference_ids:
   - REF-0298
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0019
+  null_result_ids:
+  - REF-3559
 - condition: cancer
-  note: inferred from anticancer action
+  note: Reishi polysaccharides slowed tumours in lab and animal studies; a Cochrane review found it may
+    improve tumour response and immune markers as an add-on to cancer treatment (low-quality evidence;
+    no proven survival benefit)
   reference_ids:
   - REF-0821
   - REF-2039
@@ -166,7 +163,7 @@ indications:
   - REF-3394
   status: needs-review
 - condition: cold
-  note: inferred from antiviral action
+  note: inferred from immunomodulator action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
@@ -180,28 +177,42 @@ indications:
   - REF-0298
   - REF-3394
   status: verified
+  note: Reishi polysaccharides stimulated immune cells in lab studies; as an add-on in cancer patients
+    it may raise immune markers (Cochrane review; low-quality evidence)
 - condition: infection
-  note: inferred from antiviral action
+  note: Antiviral and antimicrobial activities reported (review)
   reference_ids:
   - REF-0298
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2041
-  - REF-0019
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0019
   - REF-0298
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0019
   - REF-0298
+  null_result_ids:
+  - REF-3559
+- condition: fatigue
+  note: A reishi polysaccharide extract improved neurasthenia (fatigue-dominant) symptoms vs placebo,
+    and spore powder eased cancer-related fatigue in a pilot trial (randomized trials)
+  reference_ids:
+  - REF-3560
+  - REF-3561
+  status: verified
+- condition: stress
+  note: Reishi supplementation reduced psychological stress and improved anxiety, mood and vitality scores
+    in a randomized trial
+  reference_ids:
+  - REF-3562
+  status: verified
 contraindications:
 - note: Generally well tolerated at standard doses. May cause mild digestive upset, dry mouth, or dizziness
     in some individuals. May enhance the effects of anticoagulant and antihypertensive medications. Avoid
@@ -325,4 +336,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   chapter; full text behind a reCAPTCHA, abstract read) names blood glucose control, immune
   modulation, hepatoprotection and bacteriostasis - kept for blood-sugar, immune-support,
   infection; removed from 7 pairs. REF-0019 metadata corrected to Bao 2002 Phytochemistry (PubMed
-  11809453; in vitro/mouse immune stimulation) - kept for immune-support only.'
+  11809453; in vitro/mouse immune stimulation) - kept for immune-support only.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 7 - Deep re-sweep.
+  Polysaccharide-structure study REF-0019 removed from six actions (kept for immunomodulator).
+  Cochrane 2015 REF-3559 (does not support G. lucidum for cardiovascular risk factors in type 2
+  diabetes) recorded as no-effect for blood-sugar and metabolic-support. New pairs (owner rule):
+  fatigue (Ganopoly neurasthenia RCT REF-3560; cancer-fatigue pilot REF-3561), stress (RCT
+  REF-3562). "Ganoderma lucidum" literature counts for G. lingzhi (inv. 11).'

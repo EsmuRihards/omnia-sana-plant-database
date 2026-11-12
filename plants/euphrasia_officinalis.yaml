@@ -137,12 +137,12 @@ actions:
   status: verified
 indications:
 - condition: allergy
-  note: Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)
+  note: Traditionally used for hay fever and allergic eye symptoms (Herbal Reality)
   reference_ids:
   - REF-0449
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Eyebright extracts slowed colon cancer cells in the lab (preclinical)
   reference_ids:
   - REF-2581
   status: needs-review
@@ -157,13 +157,15 @@ indications:
   null_result_ids:
   - REF-3084
 - condition: infection
-  note: Soothes upper-respiratory catarrh and mild infection (traditional)
+  note: Traditionally used for eye and nasal infections (Herbal Reality); extracts were antibacterial
+    in lab tests (preclinical)
   reference_ids:
   - REF-0449
   - REF-2581
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Extracts reduced inflammatory markers in human corneal cells in the lab (preclinical); traditional
+    use (Herbal Reality)
   reference_ids:
   - REF-0448
   - REF-0449
@@ -171,7 +173,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-2581
 - condition: respiratory-support
-  note: Soothes upper-respiratory catarrh and mild infection (traditional)
+  note: Traditionally used for catarrh and sinus congestion (Herbal Reality)
   reference_ids:
   - REF-0449
   status: needs-review
@@ -259,4 +261,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-
   removed from arthritis, cough, diarrhea, fever, skin, wounds. REF-2581 (E. officinalis subsp.
   pratensis) names antimicrobial and antiproliferative activity only - removed from inflammation.
   | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
-  only the sources still cited (batch 6-7 follow-up).'
+  only the sources still cited (batch 6-7 follow-up).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 7 - Deep re-sweep. Notes rewritten to
+  their sources (Herbal Reality; lab studies). No trials on PubMed beyond the purged homeopathic
+  eye drops.'

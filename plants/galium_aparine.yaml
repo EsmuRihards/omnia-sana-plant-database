@@ -167,13 +167,13 @@ actions:
   status: verified
 indications:
 - condition: cancer
-  note: inferred from anticancer action
+  note: Cleavers extracts slowed breast cancer and leukaemia cells in the lab (preclinical)
   reference_ids:
   - REF-1722
   - REF-1724
   status: needs-review
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Extract was antimicrobial in lab tests (preclinical)
   reference_ids:
   - REF-1720
   status: needs-review
@@ -181,7 +181,8 @@ indications:
   - REF-0035
   - REF-0113
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Extract aided wound closure and was antimicrobial in lab tests; an 1883 medical report described
+    its use on chronic ulcers
   reference_ids:
   - REF-1720
   - REF-1725
@@ -249,4 +250,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   available online) and REF-0113 (Hoffmann, Medical Herbalism; unverifiable per batches 2-3)
   removed from every symptom as unverifiable. REF-1720 (in vitro wound healing + antimicrobial)
   and REF-1725 (Quinlan 1883 BMJ, chronic ulcers) wired directly to wounds; REF-1720 to infection.
-  Wound/ulcer papers are not bruise evidence (mechanistic cards hidden).'
+  Wound/ulcer papers are not bruise evidence (mechanistic cards hidden).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 7 - Deep re-sweep. Notes rewritten. No
+  trials on PubMed.'

@@ -161,12 +161,6 @@ actions:
   - REF-0596
   status: needs-review
 indications:
-- condition: anxiety
-  note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
-  reference_ids:
-  - REF-0466
-  - REF-1427
-  status: verified
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -194,17 +188,18 @@ indications:
   status: needs-review
 - condition: cold
   note: inferred from immunomodulator action
-  reference_ids:
-  - REF-0466
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0467
   - REF-1435
+  - REF-0466
 - condition: fatigue
   note: inferred from adaptogen action
-  reference_ids:
-  - REF-0466
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0466
 - condition: immune-support
   note: Immunomodulatory / immune support
   reference_ids:
@@ -218,11 +213,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0467
-- condition: memory
-  note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0596
-  status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -230,7 +220,8 @@ indications:
   mechanistic_exclude_ids:
   - REF-0467
 - condition: stress
-  note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
+  note: Adaptogen for stress - a systematic review of human studies and an 8-week RCT (lower stress scores,
+    better sleep quality)
   reference_ids:
   - REF-0466
   - REF-1427
@@ -315,4 +306,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   food. | ''Essential oil'': The monograph covers the leaf as a decoction only. No essential oil, no distillation,
   no topical or aromatic use is stated. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for leaf (provisional: PFAF REF-3300, picked repeatedly during the growing season).
-  Single lineage. Binomial confirmed.'
+  Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 11 - REF-0466 (Jamshidi 2017 SR) names metabolic,
+  cardiovascular, immunity, neurocognition and psychological stress - removed from anxiety, cold
+  and fatigue. REF-1427 (Holixer RCT) measured stress, mood and sleep, not anxiety - removed from
+  anxiety. REF-0596 (cognition RCT) names no memory outcome - removed from memory.'

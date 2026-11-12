@@ -113,39 +113,40 @@ actions:
   status: needs-review
 indications:
 - condition: eczema
-  note: Eczema / atopic dermatitis - popularly used, but a Cochrane review found oral EPO is NOT effective
-  reference_ids:
+  note: inferred from emollient action; oral evening primrose oil showed no benefit for eczema in trials
+    (see the no-effect studies)
+  reference_ids: []
+  status: needs-review
+  null_result_ids:
   - REF-0447
   - REF-1458
   - REF-2587
-  status: needs-review
 - condition: hot-flashes
   note: Menopausal hot flushes - some trial benefit reported
   reference_ids:
   - REF-0446
   status: needs-review
 - condition: pain
-  note: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
-    (a recent RCT found evening primrose oil reduced cyclical breast-pain severity versus placebo, with
-    a combination of EPO and vitamin E most effective)
+  note: Cyclical breast pain (mastalgia) - evening primrose oil reduced pain severity versus placebo in
+    a trial; a 2024 review reports some benefit
   reference_ids:
   - REF-0446
   - REF-0600
-  - REF-1463
   status: needs-review
 - condition: pms
-  note: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
-    (a recent RCT found evening primrose oil reduced cyclical breast-pain severity versus placebo, with
-    a combination of EPO and vitamin E most effective)
+  note: Cyclical breast pain (mastalgia) improved versus placebo in a trial; a 2024 review found no effect
+    on premenstrual syndrome itself
   reference_ids:
-  - REF-0446
   - REF-0600
   status: needs-review
+  null_result_ids:
+  - REF-0446
 - condition: skin-irritation
   note: inferred from emollient action
-  reference_ids:
-  - REF-0446
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0446
 contraindications:
 - note: 'Evidence is weak and largely negative: a Cochrane review concluded that oral evening primrose
     oil is not an effective treatment for eczema, and the broader trial literature is heterogeneous. Adverse
@@ -226,4 +227,13 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   added harvest_readiness for seed (provisional: PFAF REF-3298, capsules ripen Aug-Oct on the 2nd-year
   stem). SAFETY note: 1st-year rosette resembles the fatal Digitalis purpurea rosette. Binomial confirmed.
   | 2026-11-10: symptom-source audit batch 3 - REF-2588 purged: a 4-herb nutraceutical, not
-  evening primrose alone.'
+  evening primrose alone.
+  | 2026-11-10: symptom-source audit batch 11 - Eczema: Cochrane REF-0447 ("further studies on EPO
+  ... for eczema would be hard to justify"), Williams 2003 BMJ editorial REF-1458 and EAACI MA
+  REF-2587 (evidence "remains limited") were cited AS SUPPORT - all moved to null_result_ids; pair
+  dropped. REF-0446 (2024 SR) found EPO did not demonstrate effectiveness in premenstrual syndrome
+  - moved to null for pms; it reports some results for mastalgia and hot flushes (kept). REF-1463
+  (EPO and borage oil, essential fatty acids in rheumatology) removed from pain. Claim notes
+  rewritten.
+  | 2026-11-10: symptom-source audit batch 11 - unverifiable source hidden from remaining
+  mechanistic cards / claim note reset.'

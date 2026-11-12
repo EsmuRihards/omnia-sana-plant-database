@@ -140,6 +140,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0300
   - REF-0315
+  - REF-0293
 - condition: cold
   note: inferred from antiviral action
   reference_ids: []
@@ -244,4 +245,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 10 - REF-0293 (Vethanayagam 1996, "Lentinan - a novel
   immunomodulator") and REF-0315 (Yokota 1989, eritadenine observatory trial) could not be located
   in PubMed - removed from every symptom as unverifiable. REF-0300 (multi-mushroom review)
-  retagged narrative-review.'
+  retagged narrative-review.
+  | 2026-11-10: symptom-source audit batch 11 - unverifiable source hidden from remaining
+  mechanistic cards / claim note reset.'

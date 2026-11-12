@@ -208,109 +208,63 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0197
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0110
   - REF-0303
   - REF-1423
   - REF-1424
-- condition: back-pain
-  note: inferred from analgesic action
-  reference_ids:
   - REF-0197
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0110
-  - REF-0303
-- condition: blood-sugar
-  note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0197
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0110
-  - REF-0303
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1418
   - REF-1426
-  status: needs-review
-- condition: cold
-  note: inferred from antiviral action
-  reference_ids:
   - REF-0110
-  - REF-0197
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0303
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0197
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0110
-  - REF-0303
 - condition: immune-support
   reference_ids:
   - REF-0110
-  - REF-0197
   status: verified
   mechanistic_exclude_ids:
   - REF-0303
+  - REF-0197
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0110
-  - REF-0197
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0303
+  - REF-0197
+  - REF-0110
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0197
   - REF-1424
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0110
   - REF-0303
-- condition: metabolic-support
-  note: inferred from antidiabetic action
-  reference_ids:
   - REF-0197
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0110
-  - REF-0303
-- condition: pain
-  reference_ids:
-  - REF-0197
-  status: verified
-  mechanistic_exclude_ids:
-  - REF-0110
-  - REF-0303
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0197
   - REF-1423
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0110
   - REF-0303
   - REF-1424
+  - REF-0197
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0197
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0110
   - REF-0303
+  - REF-0197
 contraindications:
 - note: Generally safe in moderate amounts. High potassium content - use caution in renal disease. Rare
     cases of hepatotoxicity reported with excessive consumption. May interact with warfarin (due to vitamin
@@ -365,4 +319,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit + leaf + root (all
   provisional: Useful Tropical Plants REF-3296; fruit ripe or unripe, leaf/root gathered as required on
-  this evergreen). Single lineage. Binomial confirmed.'
+  this evergreen). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 11 - REF-0197 (Potterat 2007 Noni review; retagged)
+  names no specific condition ("clinical data are essentially lacking") - removed from all 12
+  pairs. REF-0110 (noni polysaccharide, immunomodulatory antitumour activity in mice) removed from
+  cold and infection, added to cancer.'

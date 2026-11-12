@@ -1,0 +1,105 @@
+plant	condition	ref	op
+melissa_officinalis	arthritis	REF-0112	rm
+melissa_officinalis	bloating	REF-0112	rm
+melissa_officinalis	cold	REF-0112	rm
+melissa_officinalis	indigestion	REF-0112	rm
+melissa_officinalis	infection	REF-0112	rm
+melissa_officinalis	inflammation	REF-0112	rm
+melissa_officinalis	insomnia	REF-0112	rm
+melissa_officinalis	menstrual-cramps	REF-0112	rm
+melissa_officinalis	muscle-spasm	REF-0112	rm
+melissa_officinalis	skin-irritation	REF-0112	rm
+melissa_officinalis	arthritis	REF-0194	rm
+melissa_officinalis	cold	REF-0194	rm
+melissa_officinalis	infection	REF-0194	rm
+melissa_officinalis	inflammation	REF-0194	rm
+melissa_officinalis	skin-irritation	REF-0194	rm
+melissa_officinalis	insomnia	REF-0134	rm
+melissa_officinalis	insomnia	REF-3078	add
+melissa_officinalis	bloating	REF-3078	add
+melissa_officinalis	indigestion	REF-3078	add
+mentha_piperita	bloating	REF-0100	rm
+mentha_piperita	indigestion	REF-0100	rm
+mentha_piperita	muscle-spasm	REF-0100	rm
+mentha_piperita	cognitive-function	REF-3047	rm
+mentha_piperita	cognitive-function	REF-3050	rm
+mentha_piperita	pain	-	note
+mentha_piperita	cognitive-function	-	note
+momordica_charantia	blood-sugar	REF-3396	nulladd
+momordica_charantia	metabolic-support	REF-3396	nulladd
+morinda_citrifolia	arthritis	REF-0197	rm
+morinda_citrifolia	back-pain	REF-0197	rm
+morinda_citrifolia	blood-sugar	REF-0197	rm
+morinda_citrifolia	cold	REF-0197	rm
+morinda_citrifolia	headache	REF-0197	rm
+morinda_citrifolia	immune-support	REF-0197	rm
+morinda_citrifolia	infection	REF-0197	rm
+morinda_citrifolia	inflammation	REF-0197	rm
+morinda_citrifolia	metabolic-support	REF-0197	rm
+morinda_citrifolia	pain	REF-0197	rm
+morinda_citrifolia	skin-irritation	REF-0197	rm
+morinda_citrifolia	wounds	REF-0197	rm
+morinda_citrifolia	cold	REF-0110	rm
+morinda_citrifolia	infection	REF-0110	rm
+morinda_citrifolia	cancer	REF-0110	add
+morinda_citrifolia	back-pain	-	drop(no evidence left)
+morinda_citrifolia	blood-sugar	-	drop(no evidence left)
+morinda_citrifolia	cold	-	drop(no evidence left)
+morinda_citrifolia	headache	-	drop(no evidence left)
+morinda_citrifolia	metabolic-support	-	drop(no evidence left)
+morinda_citrifolia	pain	-	drop(no evidence left)
+nepeta_cataria	arthritis	REF-0035	rm
+nepeta_cataria	bloating	REF-0035	rm
+nepeta_cataria	indigestion	REF-0035	rm
+nepeta_cataria	infection	REF-0035	rm
+nepeta_cataria	inflammation	REF-0035	rm
+nepeta_cataria	insomnia	REF-0035	rm
+nepeta_cataria	respiratory-support	REF-0035	rm
+nepeta_cataria	skin-irritation	REF-0035	rm
+nepeta_cataria	wounds	REF-0035	rm
+nepeta_cataria	bloating	REF-0095	rm
+nepeta_cataria	indigestion	REF-0095	rm
+nepeta_cataria	indigestion	REF-0938	rm
+nepeta_cataria	arthritis	-	drop(no evidence left)
+nepeta_cataria	indigestion	-	drop(no evidence left)
+nepeta_cataria	inflammation	-	drop(no evidence left)
+nepeta_cataria	insomnia	-	drop(no evidence left)
+nepeta_cataria	skin-irritation	-	drop(no evidence left)
+ocimum_tenuiflorum	anxiety	REF-0466	rm
+ocimum_tenuiflorum	anxiety	REF-1427	rm
+ocimum_tenuiflorum	cold	REF-0466	rm
+ocimum_tenuiflorum	fatigue	REF-0466	rm
+ocimum_tenuiflorum	memory	REF-0596	rm
+ocimum_tenuiflorum	stress	-	note
+ocimum_tenuiflorum	anxiety	-	drop(no evidence left)
+ocimum_tenuiflorum	memory	-	drop(no evidence left)
+oenothera_biennis	eczema	REF-0447	null
+oenothera_biennis	eczema	REF-1458	null
+oenothera_biennis	eczema	REF-2587	null
+oenothera_biennis	pms	REF-0446	null
+oenothera_biennis	pain	REF-1463	rm
+oenothera_biennis	skin-irritation	REF-0446	rm
+oenothera_biennis	pain	-	note
+oenothera_biennis	pms	-	note
+olea_europaea	cardiovascular-support	REF-0032	rm
+olea_europaea	skin-irritation	REF-0032	rm
+olea_europaea	cardiovascular-support	REF-0299	rm
+olea_europaea	arthritis	REF-0301	rm
+olea_europaea	blood-sugar	REF-0301	rm
+olea_europaea	inflammation	REF-0301	rm
+olea_europaea	metabolic-support	REF-0301	rm
+olea_europaea	skin-irritation	REF-0301	rm
+olea_europaea	wounds	REF-0301	rm
+olea_europaea	metabolic-support	REF-1443	add
+ononis_arvensis	urinary-support	REF-2748	rm
+ononis_arvensis	kidney-support	REF-2748	rm
+ononis_arvensis	skin-irritation	REF-2748	rm
+ononis_arvensis	cardiovascular-support	-	note
+ononis_arvensis	urinary-support	-	drop(no evidence left)
+ononis_arvensis	kidney-support	-	drop(no evidence left)
+ononis_arvensis	skin-irritation	-	drop(no evidence left)
+ononis_arvensis	action:urinary-antiseptic	-	needs-review(unsourced)
+ononis_arvensis	action:anti-inflammatory	-	needs-review(unsourced)
+ononis_arvensis	action:vulnerary	-	needs-review(unsourced)
+ononis_arvensis	action:analgesic	-	needs-review(unsourced)
+ononis_arvensis	action:antifungal	-	needs-review(unsourced)

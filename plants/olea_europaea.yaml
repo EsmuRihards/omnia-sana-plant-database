@@ -184,21 +184,21 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0032
-  - REF-0301
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0299
   - REF-1437
   - REF-1442
+  - REF-0301
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0299
-  - REF-0301
   - REF-1443
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0032
+  - REF-0301
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -206,8 +206,6 @@ indications:
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0032
-  - REF-0299
   - REF-0301
   status: verified
 - condition: cold
@@ -230,38 +228,39 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0032
-  - REF-0301
   - REF-1440
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0299
   - REF-1437
+  - REF-0301
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0299
-  - REF-0301
+  - REF-1443
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0032
+  - REF-0301
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0032
-  - REF-0301
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0299
   - REF-1437
   - REF-1442
+  - REF-0032
+  - REF-0301
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0301
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0032
   - REF-0299
+  - REF-0301
 contraindications:
 - note: Olive leaf extract may lower blood pressure; use caution if already on antihypertensive medication.
     May have mild hypoglycaemic effects. Olive oil is safe for dietary use. Rare olive pollen allergy.
@@ -349,4 +348,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
   cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
   fruit (provisional: PFAF REF-3299, olives harvested in autumn); leaf = GAP (evergreen, no sourced leaf
-  timing). Binomial confirmed. | 2026-08-15: leaf harvest_readiness filled (was gap) from Losada-Echeberria et al., Int J Mol Sci 2022 (REF-3380). basis is CONSTITUENT, not traditional - the only sourced stage is an autumn phenolic peak on an evergreen with no traditional collection window.'
+  timing). Binomial confirmed. | 2026-08-15: leaf harvest_readiness filled (was gap) from Losada-Echeberria et al., Int J Mol Sci 2022 (REF-3380). basis is CONSTITUENT, not traditional - the only sourced stage is an autumn phenolic peak on an evergreen with no traditional collection window.
+  | 2026-11-10: symptom-source audit batch 11 - REF-0032 (oleocanthal, olive-specific phenolic;
+  compound evidence) kept for arthritis and inflammation only. REF-0299 (olive leaf RCT in T2D)
+  names no cardiovascular outcome. REF-0301 (Waterman 2007 review) names blood pressure, LDL and
+  antimicrobial activity against intestinal/respiratory pathogens - kept for cardiovascular,
+  infection, cold; removed from 6 pairs. REF-1443 (RCT: insulin sensitivity in men at risk of
+  metabolic syndrome) added to metabolic-support.'

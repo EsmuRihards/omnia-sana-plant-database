@@ -179,6 +179,8 @@ indications:
   - REF-1220
   - REF-1221
   status: verified
+  null_result_ids:
+  - REF-3396
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -198,6 +200,8 @@ indications:
   - REF-0412
   - REF-0413
   status: needs-review
+  null_result_ids:
+  - REF-3396
 contraindications:
 - note: 'Avoid in pregnancy: bitter melon can stimulate the uterus and has been associated with miscarriage;
     also avoid during breastfeeding.'
@@ -263,4 +267,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Fro
   (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
   campaign. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit (provisional:
   Useful Tropical Plants REF-3295, picked young and green before ripening). Single lineage. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-10: symptom-source audit batch 11 - Cochrane review REF-3396 (Ooi 2012, PubMed
+  22895968: no significant difference in glycaemic control vs placebo; "insufficient evidence")
+  added and recorded in null_result_ids for blood-sugar and metabolic-support (landmark null
+  review, invariant 11). REF-0413 (multi-plant diabetes review) is not an RCT - retagged.'

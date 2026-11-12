@@ -257,12 +257,12 @@ indications:
   - REF-1207
 - condition: bloating
   note: inferred from digestive action
-  reference_ids:
-  - REF-0100
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0004
   - REF-0163
+  - REF-0100
 - condition: headache
   note: inferred from analgesic action
   reference_ids:
@@ -274,12 +274,12 @@ indications:
   - REF-0163
 - condition: indigestion
   note: inferred from digestive action
-  reference_ids:
-  - REF-0100
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0004
   - REF-0163
+  - REF-0100
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -307,12 +307,12 @@ indications:
   - REF-0163
 - condition: muscle-spasm
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0100
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0004
   - REF-0163
+  - REF-0100
 - condition: pain
   reference_ids:
   - REF-0100
@@ -320,6 +320,8 @@ indications:
   mechanistic_exclude_ids:
   - REF-0004
   - REF-0163
+  note: Enteric-coated peppermint oil relieved abdominal pain in irritable bowel syndrome and recurrent
+    abdominal pain (review of 16 trials)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -339,14 +341,14 @@ indications:
   - REF-1210
   - REF-3041
 - condition: cognitive-function
-  note: Peppermint/Mentha showed acetylcholinesterase inhibition (cognition-relevant, preclinical).
+  note: Peppermint extract inhibited acetylcholinesterase in vitro, a target in Alzheimer's disease (preclinical)
   reference_ids:
-  - REF-3047
   - REF-3049
-  - REF-3050
   status: needs-review
   mechanistic_exclude_ids:
   - REF-3046
+  - REF-3047
+  - REF-3050
 contraindications:
 - note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children -
     menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing
@@ -426,4 +428,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   cardiovascular / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed
   database). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for leaf + flower
   (provisional: PFAF REF-3293, harvested as the plant comes into flower). Single lineage. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-10: symptom-source audit batch 11 - REF-0100 (Grigoleit 2005, review of 16 IBS trials;
+  retagged systematic-review) names IBS and recurrent abdominal pain only - removed from bloating,
+  indigestion, muscle-spasm; kept for pain. REF-3047 (six Algerian Mentha species; M. arvensis the
+  active one) and REF-3050 (CNS assays, no cognition named) removed from cognitive-function;
+  REF-3049 (names Alzheimer''s) kept. Note: no IBS pair exists for peppermint although IBS is its
+  best-evidenced use (follow-up for the owner).'

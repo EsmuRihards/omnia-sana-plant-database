@@ -207,88 +207,91 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
-  - REF-0194
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0134
+  - REF-0112
+  - REF-0194
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0112
+  - REF-3078
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0134
   - REF-0194
+  - REF-0112
 - condition: cold
   note: inferred from antiviral action
-  reference_ids:
-  - REF-0112
-  - REF-0194
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0134
   - REF-1200
+  - REF-0112
+  - REF-0194
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0112
+  - REF-3078
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0134
   - REF-0194
+  - REF-0112
 - condition: infection
   note: inferred from antiviral action
   reference_ids:
-  - REF-0112
-  - REF-0194
   - REF-1200
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0134
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
   - REF-0112
   - REF-0194
+- condition: inflammation
+  note: inferred from anti-inflammatory action
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0134
+  - REF-0112
+  - REF-0194
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0112
-  - REF-0134
+  - REF-3078
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0194
   - REF-1194
   - REF-1202
+  - REF-0112
+  - REF-0134
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0134
   - REF-0194
+  - REF-0112
 - condition: muscle-spasm
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0134
   - REF-0194
+  - REF-0112
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
-  - REF-0194
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0134
+  - REF-0112
+  - REF-0194
 - condition: depression
   note: 'Meta-analysis of clinical trials: lemon balm may improve depressive and anxiety symptoms, particularly
     in the acute setting; trials are few and heterogeneous.'
@@ -376,4 +379,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   confirmed present on the plant, and the dose form / plant part / route checked for mismatch; text rewritten
   to the source rather than having a reference stapled on. | 2026-08-15: Harvest Calendar (phenological) -
   added harvest_readiness for leaf + flower (provisional: PFAF REF-3292, gathered just before flowering).
-  Single lineage. Binomial confirmed.'
+  Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 11 - REF-0112 (Hoffmann; unverifiable since batch 2)
+  removed from 10 pairs. REF-0194 (Petersen 2003, "Rosmarinic acid" - a compound found across many
+  Lamiaceae, not a lemon balm source) removed from 5 pairs. REF-0134 (Kennedy 2002 RCT) measured
+  mood and cognition, not sleep - removed from insomnia (an RCT is cited only for what it
+  measured). EU leaf monograph REF-3078 (mild symptoms of mental stress and to aid sleep; mild GI
+  complaints including bloating and flatulence - EMA page 429, flagged for owner spot-check) added
+  to insomnia, bloating, indigestion.'

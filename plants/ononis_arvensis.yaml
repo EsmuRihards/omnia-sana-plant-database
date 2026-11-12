@@ -167,11 +167,11 @@ actions:
 - action: urinary-antiseptic
   note: Aqueous root extract reduced adhesion of uropathogenic E. coli to bladder cells (anti-adhesive).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: anti-inflammatory
   note: Inhibits IL-8 release via TLR4/LPS and cytosolic phospholipase A2alpha (restharrow root).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: antimicrobial
   reference_ids:
   - REF-2742
@@ -179,7 +179,7 @@ actions:
 - action: vulnerary
   note: Isoflavonoids from restharrow root promote wound healing in vivo.
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: antioxidant
   reference_ids:
   - REF-2745
@@ -191,7 +191,7 @@ actions:
 - action: analgesic
   note: Analgesic activity of Ononis extract in animals (congener O. spinosa).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: gastroprotective
   note: Protective against ethanol-induced gastric mucosal injury (congener O. spinosa).
   reference_ids:
@@ -206,7 +206,7 @@ actions:
   status: verified
 - action: antifungal
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: lipid-lowering
   reference_ids:
   - REF-3029
@@ -222,41 +222,18 @@ indications:
   - REF-2745
   - REF-3021
   status: needs-review
-- condition: urinary-support
-  note: Aquaretic diuretic for irrigation therapy of the urinary tract.
-  reference_ids:
-  - REF-2748
-  status: verified
-- condition: uti
-  note: Anti-adhesive activity against uropathogenic E. coli.
-  reference_ids: []
-  status: needs-review
-- condition: kidney-support
-  note: inferred from diuretic / urinary 'gravel' traditional use
-  reference_ids:
-  - REF-2748
-  status: needs-review
-- condition: swelling
-  note: inferred from diuretic (aquaretic) action
-  reference_ids: []
-  status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-2742
   status: needs-review
 - condition: wounds
-  note: Isoflavonoid wound-healing agents from restharrow root.
+  note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory and traditional skin/eczema use
-  reference_ids:
-  - REF-2748
-  status: needs-review
 - condition: cardiovascular-support
-  note: Ononis isoflavonoids (maackiain, ononin) showed anti-adipogenic activity via PPAR-gamma inhibition
-    (preclinical).
+  note: An Ononis arvensis isoflavone glucoside inhibited platelet activation in vitro; its flavonoids
+    were predicted to lower lipids in silico (preclinical)
   reference_ids:
   - REF-3020
   - REF-3029
@@ -396,4 +373,9 @@ internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Onon
   Ononis papers. | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for root recorded as GAP:
   the PFAF Ononis arvensis page is an empty template (lists only congeners O. repens and O. spinosa), so no
   species-specific harvest stage exists; the pharmacopoeial O. spinosa timing must NOT be inherited. Aerial
-  parts and flower likewise unsourced this pass. Binomial confirmed (no timing to attach). | 2026-08-15: root harvest_readiness filled (was gap) from Plantura (REF-3391) with species_confirmed FALSE and the taxonomic caveat spelled out in-entry: the source describes the taproot of spiny restharrow and treats O. arvensis as a subspecies of it, so this is not a silent congener inheritance.'
+  parts and flower likewise unsourced this pass. Binomial confirmed (no timing to attach). | 2026-08-15: root harvest_readiness filled (was gap) from Plantura (REF-3391) with species_confirmed FALSE and the taxonomic caveat spelled out in-entry: the source describes the taproot of spiny restharrow and treats O. arvensis as a subspecies of it, so this is not a silent congener inheritance.
+  | 2026-11-10: symptom-source audit batch 11 - REF-2748 (Rezacova 1978, Czech pharmacognostic
+  study; no abstract or text) removed from every symptom as unverifiable. Cardiovascular note
+  corrected: it described PPAR-gamma anti-adipogenic work that neither cited study reports.
+  | 2026-11-10: symptom-source audit batch 11 - unverifiable source hidden from remaining
+  mechanistic cards / claim note reset.'

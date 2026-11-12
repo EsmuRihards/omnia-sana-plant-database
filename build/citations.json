@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3201,
+ "count": 3199,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -7068,9 +7068,7 @@
    "actions": [
     "Physical performance / ergogenic"
    ],
-   "conditions": [
-    "Fatigue / low energy"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1007",
@@ -8223,7 +8221,7 @@
    "link_type": "doi",
    "citation": "Bahramsoltani, R., Ahmadian, R., Daglia, M. and Rahimi, R (2024) 'Petroselinum crispum (Mill.) Fuss (Parsley): An Updated Review of the Traditional Uses, Phytochemistry, and Pharmacology', Journal of Agricultural and Food Chemistry. doi:10.1021/acs.jafc.3c06429",
    "abstract": "Petroselinum crispum (Mill.) Fuss (parsley) is a popular medicinal plant widely used in different traditional medicines all over the world. This paper provides an updated review on the traditional use, phytochemistry, and pharmacological activities of parsley. Parsley contains volatile compounds such as terpenes and terpenoids in the essential oil, as well as phenolic compounds in the plant extract. Parsley is traditionally used as a diuretic, liver and stomach tonic, and for urolithiasis and indigestion. Pharmacological investigations also confirm several biological activities of parsley including hepatoprotective, nephroprotective, antiurolithiatic, neuroprotective, cardioprotective, and antineoplastic effects in animal and cell-based studies. Parsley has currently demonstrated several pharmacological activities in preclinical studies; however, there is a big lack in clinical evidence. Considering parsley as a possible valuable medicinal food, future clinical trials are recommended to evaluate the clinical efficacy and safety of the plant in different health conditions.",
-   "tier": "rct",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -8245,15 +8243,10 @@
     "Nephroprotective (kidney support)"
    ],
    "conditions": [
-    "Bad breath",
-    "Bloating",
-    "Detox / cleansing",
     "Indigestion",
     "Kidney support",
     "Liver support",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Urinary support"
    ]
   },
   {
@@ -13450,8 +13443,7 @@
    ],
    "actions": [],
    "conditions": [
-    "Cognitive function",
-    "Memory"
+    "Cognitive function"
    ]
   },
   {
@@ -20355,7 +20347,7 @@
    "link_type": "doi",
    "citation": "Torres, E.A.F.S., Pinaffi-Langley, A.C.D.C., Figueira, M.S., Cordeiro, K.S. and others (2022) 'Effects of the consumption of guarana on human health: A narrative review', Comprehensive Reviews in Food Science and Food Safety, 21(1), pp. 272-295. doi:10.1111/1541-4337.12862",
    "abstract": "Guarana (Paullinia cupana) is a plant from the Amazon region with cultural importance. Despite its early ancestral use by indigenous tribes, the first reports regarding the benefits of guarana consumption for human health were published in the 19th century. Since then, the use of guarana seed in powder and extract forms has been studied for its diverse effects on human health, such as stimulating, anti-inflammatory, antioxidant, anticancer, hypocholesterolemic, and anti-obesity effects. These effects are attributed to the high content of bioactive compounds found in guarana seeds, especially methylxanthines and flavonoids. In fact, the Brazilian Food Supplement Law has officially acknowledged guarana as a source of bioactive compounds. The number and diversity of studies focused on guarana and human health are increasing; thus, organizing and describing the available evidence on guarana and its applications is necessary to provide a framework for future studies. In this narrative review, we have organized the available information regarding guarana and its potential effects on human health. Guarana produces unique fruits with great potential for human health applications. However, the available evidence lacks human studies and mechanistic investigations. Future studies should be designed considering its applicability to human health, including intake levels and toxicity studies.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -26050,7 +26042,7 @@
    "link_type": "doi",
    "citation": "Soltani, S., Shakeri, A., Iranshahi, M. and Boozari, M (2021) 'A Review of the Phytochemistry and Antimicrobial Properties of Origanum vulgare L. and Subspecies', Iranian Journal of Pharmaceutical Research. doi:10.22037/ijpr.2020.113874.14539",
    "abstract": "Origanum vulgare L. ( O. vulgare ) is an important medicinal herb of the family Lamiaceae. In the current study, we explained the critical evaluation of traditional uses, the phytochemistry and the antimicrobial properties of O. vulgare and its subspecies, with a focus on the mechanisms of actions of the most important phytochemicals from O. vulgare subspecies. The most important phytochemicals of O. vulgare are volatile (essential oil) and non-volatile phenolic compounds (phenolic acids & flavonoids). The constituents of the O. vulgare essential oil (EO) include high percentages of thymol and carvacrol with excellent antimicrobial activity alone or in combination with other antibiotics. Interesting results have been reported the remarkable antimicrobial activities of infusion or tea products of O. vulgare with a high amount of EO against multidrug-resistant bacterial and fungal microorganism (such as Escherichia coli, Staphylococcus aureus, Candida albicans and Pseudomonas aeruginosa ). The most important antibacterial mechanisms of O. vulgare are enzyme inhibition, efflux pump inhibition, ATP depletion, biofilm formation inhibition and cytoplasmic membrane damage. The antimicrobial activity of the hirtum subspecies has been confirmed in different in-vitro and in-vivo studies. The present review confirms the clinical and preclinical research showing the O. vulgare and its subspecies antimicrobial effects.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -26072,9 +26064,7 @@
     "Digestive aid"
    ],
    "conditions": [
-    "Infection (general)",
-    "Skin irritation",
-    "Wounds"
+    "Infection (general)"
    ]
   },
   {
@@ -33684,9 +33674,7 @@
     "Paullinia cupana"
    ],
    "actions": [],
-   "conditions": [
-    "Fatigue / low energy"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1441",
@@ -38578,8 +38566,6 @@
    ],
    "conditions": [
     "Anxiety",
-    "Insomnia / sleeplessness",
-    "Nervous tension",
     "Stress"
    ]
   },
@@ -47041,7 +47027,7 @@
    "link_type": "doi",
    "citation": "Jurikova, T., Skrovankova, S., Mlcek, J., Balla, S. and Snopek, L (2018) 'Bioactive Compounds, Antioxidant Activity, and Biological Effects of European Cranberry (Vaccinium oxycoccos)', Molecules, 24(1), pp. 24. doi:10.3390/molecules24010024",
    "abstract": "Lesser known fruits or underutilized fruit species are recently of great research interest due to the presence of phytochemicals that manifest many biological effects. European cranberry, Vaccinium oxycoccos fruit, as an important representative of this group, is a valuable source of antioxidants and other biologically active substances, similar to American cranberry ( V. macrocarpon ) which is well known and studied. European cranberry fruit is rich especially in polyphenolic compounds anthocyanins (12.4⁻207.3 mg/100 g fw), proanthocyanins (1.5⁻5.3 mg/100 g fw), and flavonols, especially quercetin (0.52⁻15.4 mg/100 g fw), which mostly contribute to the antioxidant activity of the fruit. Small cranberry is also important due to its various biological effects such as urinary tract protection (proanthocyanidins), antibacterial and antifungal properties (quercetin, proanthocyanidins, anthocyanins), cardioprotective (proanthocyanidins) and anticancer activities (proanthocyanidins), and utilization in food (juice drinks, jams, jellies, sauces, additive to meat products) and pharmacological industries, and in folk medicine.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -47320,7 +47306,7 @@
    "link_type": "doi",
    "citation": "Sharifi-Rad, M., Varoni, E.M., Iriti, M., Martorell, M., Setzer, W.N., del Mar Contreras, M., Salehi, B., Soltani-Nejad, A., Rajabi, S., Tajbakhsh, M. and Sharifi-Rad, J (2018) 'Carvacrol and human health: A comprehensive review', Phytotherapy Research. doi:10.1002/ptr.6103",
    "abstract": "Carvacrol (CV) is a phenolic monoterpenoid found in essential oils of oregano (Origanum vulgare), thyme (Thymus vulgaris), pepperwort (Lepidium flavum), wild bergamot (Citrus aurantium bergamia), and other plants. Carvacrol possesses a wide range of bioactivities putatively useful for clinical applications such antimicrobial, antioxidant, and anticancer activities. Carvacrol antimicrobial activity is higher than that of other volatile compounds present in essential oils due to the presence of the free hydroxyl group, hydrophobicity, and the phenol moiety. The present review illustrates the state-of-the-art studies on the antimicrobial, antioxidant, and anticancer properties of CV. It is particularly effective against food-borne pathogens, including Escherichia coli, Salmonella, and Bacillus cereus. Carvacrol has high antioxidant activity and has been successfully used, mainly associated with thymol, as dietary phytoadditive to improve animal antioxidant status. The anticancer properties of CV have been reported in preclinical models of breast, liver, and lung carcinomas, acting on proapoptotic processes. Besides the interesting properties of CV and the toxicological profile becoming definite, to date, human trials on CV are still lacking, and this largely impedes any conclusions of clinical relevance.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -47344,10 +47330,7 @@
     "Antioxidant"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Infection (general)",
-    "Inflammation (general)",
-    "Skin irritation",
     "Wounds"
    ]
   },
@@ -49659,9 +49642,7 @@
    ],
    "conditions": [
     "Bronchitis",
-    "Cold & flu",
     "Infection (general)",
-    "Sinusitis",
     "Sore throat"
    ]
   },
@@ -64821,7 +64802,7 @@
    "link_type": "search",
    "citation": "Mahmood, S. and Hussain, S. and Malik, F (2014) 'Critique of medicinal conspicuousness of Parsley (Petroselinum crispum): a culinary herb of Mediterranean region', Pakistan Journal of Pharmaceutical Sciences, 27(1), pp. 193--202.",
    "abstract": "WHO estimates, around 80% of the especially developing world is indigent on complementary and alternative medicines which are prodigiously derived from herbal material. Parsley (Petroselinum crispum) is an important culinary herb originated from the Mediterranean region. It possesses small and dark seeds with volatile oil content. Petroselinum crispum is now planted throughout the world due to its usage in food industry, perfume manufacturing, soaps, and creams. Its main constituents subsume coumarins, furanocoumarins (bergapten, imperatori), ascorbic acid, carotenoids, flavonoids, apiole, various terpenoic compounds, phenyl propanoids, phathalides, and tocopherol. Due to these constituents, it has been annunciated to possess a number of possible medicinal emblematics including, antimicrobial, antianemic, menorrhagic, anticoagulant, antihyperlipidemic, antihepatotoxic, antihypertensive, diuretic effects, hypoglycaemic, hypouricemic, anti oxidative and estrogenic activities. In Morocco, Parsley is mostly used as an elixir to treat arterial hypertension, diabetes, cardiac and renal diseases. Antioxidant and antibacterial activities of parsley, made it propitious in food systems. Its ELI17 gene has been corroborated as a particularly fast-responding gene. There is a requisite for extensive research to avail the maximal benefits of this significant medicinal plant. The aim of this review paper is to divulge the chemical constituents of parsley that are explicitly related to substantial medicinal facets.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -64841,12 +64822,9 @@
     "Nephroprotective (kidney support)"
    ],
    "conditions": [
-    "Detox / cleansing",
     "Kidney support",
     "Liver support",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Urinary support"
    ]
   },
   {
@@ -65354,57 +65332,6 @@
     "Infection (general)",
     "Muscle spasm",
     "Respiratory support"
-   ]
-  },
-  {
-   "ref_id": "REF-0192",
-   "key": "park2014ginseng",
-   "type": "article",
-   "title": "Ginseng in traditional herbal prescriptions",
-   "authors": "Park, H.J., Kim, D.H. and Park, S.J",
-   "journal": "",
-   "year": "2014",
-   "doi": "10.5142/jgr.2012.36.3.225",
-   "url": "",
-   "link": "https://doi.org/10.5142/jgr.2012.36.3.225",
-   "link_type": "doi",
-   "citation": "Park, H.J., Kim, D.H. and Park, S.J (2014) 'Ginseng in traditional herbal prescriptions', 38(1), pp. 1--7. doi:10.5142/jgr.2012.36.3.225",
-   "abstract": "Panax ginseng Meyer has been widely used as a tonic in traditional Korean, Chinese, and Japanese herbal medicines and in Western herbal preparations for thousands of years. In the past, ginseng was very rare and was considered to have mysterious powers. Today, the efficacy of drugs must be tested through well-designed clinical trials or meta-analyses, and ginseng is no exception. In the present review, we discuss the functions of ginseng described in historical documents and describe how these functions are taken into account in herbal prescriptions. We also discuss the findings of experimental pharmacological research on the functions of ginseng in ginseng-containing prescriptions and how these prescriptions have been applied in modern therapeutic interventions. The present review on the functions of ginseng in traditional prescriptions helps to demystify ginseng and, as a result, may contribute to expanding the use of ginseng or ginseng-containing prescriptions.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Ginseng in traditional herbal prescriptions",
-   "plants": [
-    "Asian ginseng",
-    "Chinese ginseng",
-    "Korean ginseng",
-    "Panax Ginseng"
-   ],
-   "scientific": [
-    "Panax ginseng"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antioxidant",
-    "Immunomodulator / immune support",
-    "Neuroprotective / cognition support",
-    "Physical performance / ergogenic"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Blood sugar / diabetes support",
-    "Cardiovascular / heart health",
-    "Cognitive function",
-    "Cold & flu",
-    "Fatigue / low energy",
-    "Immune support",
-    "Inflammation (general)",
-    "Memory",
-    "Metabolic support",
-    "Muscle soreness",
-    "Skin irritation"
    ]
   },
   {
@@ -69352,7 +69279,11 @@
    "actions": [
     "Antiviral"
    ],
-   "conditions": []
+   "conditions": [
+    "Bronchitis",
+    "Cold & flu",
+    "Sinusitis"
+   ]
   },
   {
    "ref_id": "REF-2233",
@@ -71113,45 +71044,6 @@
    ]
   },
   {
-   "ref_id": "REF-0124",
-   "key": "jepson2012cranberries",
-   "type": "misc",
-   "title": "Cranberries for preventing urinary tract infections",
-   "authors": "Jepson, R.G., Williams, G. and Craig, J.C",
-   "journal": "",
-   "year": "2012",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Cranberries%20for%20preventing%20urinary%20tract%20infections",
-   "link_type": "search",
-   "citation": "Jepson, R.G., Williams, G. and Craig, J.C (2012) 'Cranberries for preventing urinary tract infections'.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Cranberries for preventing urinary tract infections",
-   "plants": [
-    "Cranberry",
-    "European cranberry",
-    "bog cranberry",
-    "marshberry",
-    "swamp cranberry"
-   ],
-   "scientific": [
-    "Oxycoccus palustris"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant"
-   ],
-   "conditions": [
-    "Infection (general)",
-    "Urinary support"
-   ]
-  },
-  {
    "ref_id": "REF-1711",
    "key": "jalali2012hawthorn",
    "type": "article",
@@ -71565,6 +71457,44 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0192",
+   "key": "park2014ginseng",
+   "type": "article",
+   "title": "Ginseng in traditional herbal prescriptions",
+   "authors": "Park, H.J., Kim, D.H. and Park, S.J",
+   "journal": "Journal of Ginseng Research",
+   "year": "2012",
+   "doi": "10.5142/jgr.2012.36.3.225",
+   "url": "",
+   "link": "https://doi.org/10.5142/jgr.2012.36.3.225",
+   "link_type": "doi",
+   "citation": "Park, H.J., Kim, D.H. and Park, S.J (2012) 'Ginseng in traditional herbal prescriptions', Journal of Ginseng Research, 38(1), pp. 1--7. doi:10.5142/jgr.2012.36.3.225",
+   "abstract": "Panax ginseng Meyer has been widely used as a tonic in traditional Korean, Chinese, and Japanese herbal medicines and in Western herbal preparations for thousands of years. In the past, ginseng was very rare and was considered to have mysterious powers. Today, the efficacy of drugs must be tested through well-designed clinical trials or meta-analyses, and ginseng is no exception. In the present review, we discuss the functions of ginseng described in historical documents and describe how these functions are taken into account in herbal prescriptions. We also discuss the findings of experimental pharmacological research on the functions of ginseng in ginseng-containing prescriptions and how these prescriptions have been applied in modern therapeutic interventions. The present review on the functions of ginseng in traditional prescriptions helps to demystify ginseng and, as a result, may contribute to expanding the use of ginseng or ginseng-containing prescriptions.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Ginseng in traditional herbal prescriptions",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antidiabetic (blood-sugar lowering)",
+    "Antioxidant",
+    "Immunomodulator / immune support",
+    "Neuroprotective / cognition support",
+    "Physical performance / ergogenic"
    ],
    "conditions": []
   },
@@ -75715,9 +75645,7 @@
    "actions": [
     "Neuroprotective / cognition support"
    ],
-   "conditions": [
-    "Cognitive function"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0006",
@@ -79565,39 +79493,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-1869",
-   "key": "timmer2008pelargonium",
-   "type": "article",
-   "title": "Pelargonium sidoides extract for acute respiratory tract infections",
-   "authors": "Timmer, A., Gunther, J., Rucker, G., Motschall, E., Antes, G. and Kern, W.V.",
-   "journal": "Cochrane Database of Systematic Reviews",
-   "year": "2008",
-   "doi": "10.1002/14651858.CD006323.pub2",
-   "url": "",
-   "link": "https://doi.org/10.1002/14651858.CD006323.pub2",
-   "link_type": "doi",
-   "citation": "Timmer, A., Gunther, J., Rucker, G., Motschall, E., Antes, G. and Kern, W.V (2008) 'Pelargonium sidoides extract for acute respiratory tract infections', Cochrane Database of Systematic Reviews, (3), pp. CD006323. doi:10.1002/14651858.CD006323.pub2",
-   "abstract": "Background Pelargonium sidoides (P. sidoides), also known as Umckaloabo, is a herbal remedy thought to be effective in the treatment of acute respiratory infections (ARIs). Objectives To assess the efficacy and safety of P. sidoides for the treatment of ARIs in children and adults. Search strategy We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2007, issue 4) which includes the Cochrane Acute Respiratory Infections Group's Specialised Register; MEDLINE (1966 to November 2007); EMBASE (1974 to December 2007); and other electronic databases. Selection criteria Randomized controlled trials (RCTs) examining the efficacy of P. sidoides preparations in ARIs compared to placebo, no treatment or any other treatment. Complete resolution of all symptoms was defined as a primary outcome. Data collection and analysis Three review authors (AT, JG, WK) independently extracted and quality scored the data. Separate analyses were performed by age group and disease entity. Heterogeneity was examined using the I-square (I(2)) statistic. Pooled relative risks (RR) were calculated using a fixed-effect model if heterogeneity was absent (I(2) < 5%; P > 0.1), or a random-effects model in the presence of heterogeneity. If heterogeneity was substantial (I(2) > 50%; P < 0.10), a pooled effect was not calculated. Main results Three trials (746 patients) of efficacy in acute bronchitis in adults showed substantial heterogeneity for all relevant outcomes. and three trials (819 children) were similarly inconsistent for acute bronchitis in children. Type of preparation was a potential cause of heterogeneity (not effective in tablet form). One unpublished study in patients with sinusitis (n = 103 adults) showed significant treatment effects (complete resolution at day 21; RR 0.43, 95% CI 0.30, 0.62). One study in the common cold demonstrating efficacy after 10 days, but not five days. Four trials were excluded because of excessive risk of bias. There were no valid data for the treatment of other acute respiratory tract infections. Adverse events were more common with P. sidoides, but none were serious. Authors' conclusions P. sidoides may be effective in alleviating symptoms of acute rhinosinusitis and the common cold in adults, but doubt exists. It may be effective in relieving symptoms in acute bronchitis in adults and children, and sinusitis in adults. Reliable data on treatment for other ARIs were not identified.",
-   "tier": "review",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Pelargonium sidoides extract for acute respiratory tract infections",
-   "plants": [
-    "Black geranium",
-    "Pelargonium",
-    "South African geranium",
-    "Umckaloabo"
-   ],
-   "scientific": [
-    "Pelargonium sidoides"
-   ],
-   "actions": [
-    "Antiviral"
-   ],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-0576",
    "key": "agbabiaka2008pelargonium",
    "type": "article",
@@ -80227,7 +80122,6 @@
    ],
    "conditions": [
     "Cognitive function",
-    "Fatigue / low energy",
     "Memory"
    ]
   },
@@ -80629,7 +80523,7 @@
    "link_type": "doi",
    "citation": "Sadler, C., Vanderjagt, L. and Vohra, S (2007) 'Complementary, holistic, and integrative medicine: butterbur', Pediatrics in Review. doi:10.1542/pir.28-6-235",
    "abstract": "",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -80648,16 +80542,7 @@
     "Antispasmodic",
     "Bronchodilator / anti-asthmatic"
    ],
-   "conditions": [
-    "Allergy / hay fever",
-    "Asthma",
-    "Cough",
-    "Fever",
-    "Headache",
-    "Menstrual cramps",
-    "Migraine",
-    "Muscle spasm"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2289",
@@ -81336,7 +81221,7 @@
    "link_type": "doi",
    "citation": "Conrad, A., Kolodziej, H. and Schulz, V (2007) 'Pelargonium sidoides-extract (EPs 7630): registration confirms efficacy and safety', Wiener Medizinische Wochenschrift. doi:10.1007/s10354-007-0434-6",
    "abstract": "For centuries the roots of Pelargonium sidoides DC have been used in South African ethno-medicine for the treatment of respiratory diseases. In Germany, a medicinal product containing a special extract of this substance is among the group of self-medication products most widely bought at chemist's shops. In December 2005, the Federal Institute for Drugs and Medical Devices (BfArM, Bonn) approved a new license for its use as a drug. The following review focuses on the current pharmacological, toxicological and clinical data covering the efficacy and innocuousness of this drug when administered for the treatment of acute bronchitis.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -81355,8 +81240,7 @@
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Bronchitis",
-    "Immune support"
+    "Bronchitis"
    ]
   },
   {
@@ -87313,15 +87197,15 @@
    "type": "article",
    "title": "Panax ginseng",
    "authors": "Kiefer, D. and Pantuso, T",
-   "journal": "",
+   "journal": "American Family Physician",
    "year": "2003",
    "doi": "",
    "url": "",
    "link": "https://scholar.google.com/scholar?q=Panax%20ginseng",
    "link_type": "search",
-   "citation": "Kiefer, D. and Pantuso, T (2003) 'Panax ginseng', 68(8), pp. 1539--1542.",
-   "abstract": "",
-   "tier": "traditional",
+   "citation": "Kiefer, D. and Pantuso, T (2003) 'Panax ginseng', American Family Physician, 68(8), pp. 1539--1542.",
+   "abstract": "The herbal remedies referred to as \"ginseng\" are derived from the roots of several plants. One of the most commonly used and researched of the ginsengs is Panax ginseng, also called Asian or Korean ginseng. The main active components of Panax ginseng are ginsenosides, which have been shown to have a variety of beneficial effects, including anti-inflammatory, antioxidant, and anticancer effects. Results of clinical research studies demonstrate that Panax ginseng may improve psychologic function, immune function, and conditions associated with diabetes. Overall, Panax ginseng appears to be well tolerated, although caution is advised about concomitant use with some pharmaceuticals, such as warfarin, oral hypoglycemic agents, insulin, and phenelzine. Panax ginseng does not appear to enhance physical performance. Products with a standardized ginsenoside concentration are available.",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -87344,18 +87228,10 @@
     "Physical performance / ergogenic"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Blood sugar / diabetes support",
-    "Cardiovascular / heart health",
-    "Cognitive function",
-    "Cold & flu",
-    "Fatigue / low energy",
     "Immune support",
     "Inflammation (general)",
-    "Memory",
-    "Metabolic support",
-    "Muscle soreness",
-    "Skin irritation"
+    "Metabolic support"
    ]
   },
   {
@@ -87908,7 +87784,7 @@
    "link_type": "doi",
    "citation": "Kreydiyyeh, S.I. and Usta, J (2002) 'Diuretic effect and mechanism of action of parsley', Journal of Ethnopharmacology, 79(3), pp. 353--357. doi:10.1016/s0378-8741(01)00408-1",
    "abstract": "This work provides substantial evidence for the advocated diuretic effect of parsley in folk medicine and determines the mechanism of action of the herb. Rats offered an aqueous parsley seed extract to drink, eliminated a significantly larger volume of urine per 24 h as compared to when they were drinking water. These findings were supported by the results of other experiments using an in situ kidney perfusion technique which demonstrated also a significant increase in urine flow rate with parsley seed extract. This effect was still apparent in presence of amiloride, furosemide and in the absence of sodium, but not in the absence of potassium, suggesting that the diuretic effect of the herb is mediated through an increase in K+ retention in the lumen. Parsley extract, was shown on the other hand, to reduce the activity of the Na+-K+ ATPase in both cortex and medulla homogenates. Such an inhibition would decrease apical cellular Na+ reabsorption, lower K+ secretion, increase K+ concentration in the intercellular space and consequently would inhibit passive K+ influx across the tight junctions. The mechanism of action of parsley seems to be mediated through an inhibition of the Na+-K+ pump that would lead to a reduction in Na+ and K+ reabsorption leading thus to an osmotic water flow into the lumen, and diuresis.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -87925,9 +87801,7 @@
     "Diuretic"
    ],
    "conditions": [
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Urinary support"
    ]
   },
   {
@@ -91373,7 +91247,7 @@
    "link_type": "doi",
    "citation": "Attele, A.S., Wu, J.A. and Yuan, C.S (1999) 'Ginseng pharmacology: multiple constituents and multiple actions', 58(11), pp. 1685--1693. doi:10.1016/s0006-2952(99)00212-9",
    "abstract": "Ginseng is a highly valued herb in the Far East and has gained popularity in the West during the last decade. There is extensive literature on the beneficial effects of ginseng and its constituents. The major active components of ginseng are ginsenosides, a diverse group of steroidal saponins, which demonstrate the ability to target a myriad of tissues, producing an array of pharmacological responses. However, many mechanisms of ginsenoside activity still remain unknown. Since ginsenosides and other constituents of ginseng produce effects that are different from one another, and a single ginsenoside initiates multiple actions in the same tissue, the overall pharmacology of ginseng is complex. The ability of ginsenosides to independently target multireceptor systems at the plasma membrane, as well as to activate intracellular steroid receptors, may explain some pharmacological effects. This commentary aims to review selected effects of ginseng and ginsenosides and describe their possible modes of action. Structural variability of ginsenosides, structural and functional relationship to steroids, and potential targets of action are discussed.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -91395,20 +91269,7 @@
     "Neuroprotective / cognition support",
     "Physical performance / ergogenic"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Blood sugar / diabetes support",
-    "Cardiovascular / heart health",
-    "Cognitive function",
-    "Cold & flu",
-    "Fatigue / low energy",
-    "Immune support",
-    "Inflammation (general)",
-    "Memory",
-    "Metabolic support",
-    "Muscle soreness",
-    "Skin irritation"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2433",
@@ -97981,9 +97842,7 @@
     "Sedative / sleep support"
    ],
    "conditions": [
-    "Anxiety",
     "Insomnia / sleeplessness",
-    "Nervous tension",
     "Stress"
    ]
   },

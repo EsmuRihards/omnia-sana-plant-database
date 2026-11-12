@@ -91,7 +91,6 @@ actions:
   reference_ids:
   - REF-0493
   - REF-0492
-  - REF-1869
   - REF-1870
   - REF-0576
   - REF-1873
@@ -115,17 +114,21 @@ indications:
   - REF-0492
   - REF-0493
   - REF-0576
+  - REF-1870
   status: verified
 - condition: cold
   note: Common cold and acute respiratory tract infection
   reference_ids:
-  - REF-0492
+  - REF-1870
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0492
 - condition: immune-support
   note: inferred from immunomodulator action
-  reference_ids:
-  - REF-0493
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0493
 - condition: infection
   note: Common cold and acute respiratory tract infection
   reference_ids:
@@ -134,8 +137,8 @@ indications:
 - condition: sinusitis
   note: Rhinosinusitis (sinusitis) support
   reference_ids:
-  - REF-0492
   - REF-0577
+  - REF-1870
   status: verified
 - condition: sore-throat
   note: Sore throat / acute tonsillopharyngitis
@@ -160,7 +163,6 @@ contraindications:
 references:
 - REF-1868
 - REF-0492
-- REF-1869
 - REF-1870
 - REF-0576
 - REF-1871
@@ -192,4 +194,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Int J Gen Med a
   cite the existing EPs 7630 clinical-efficacy reviews (REF-0492, REF-0493). | 2026-08-15: Harvest Calendar
   (phenological) - harvest_readiness for root recorded as GAP: no phenological source for Pelargonium
   sidoides root-harvest timing (Useful Tropical Plants has no record; Wikipedia no timing). Binomial
-  confirmed (no timing to attach). | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; SANBI PlantZAfrica gives a dormancy statement, not a harvest rule, and it was deliberately not converted into one.'
+  confirmed (no timing to attach). | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; SANBI PlantZAfrica gives a dormancy statement, not a harvest rule, and it was deliberately not converted into one.
+  | 2026-11-10: symptom-source audit batch 12 - Cochrane 2008 REF-1869 merged into its 2013 update
+  REF-1870 (invariant 11); the 2013 review ("may be effective" for acute bronchitis,
+  rhinosinusitis and the common cold; low-quality evidence) wired as support per the owner''s
+  may-be-effective rule. REF-0492 (paediatric aRTI review) kept for infection, bronchitis, sore
+  throat; removed from cold and sinusitis. REF-0493 (registration review; retagged) names
+  bronchitis only.'

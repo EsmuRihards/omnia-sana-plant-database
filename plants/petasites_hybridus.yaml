@@ -151,16 +151,16 @@ indications:
     review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
     allergic rhinitis)
   reference_ids:
-  - REF-0426
   - REF-0544
   - REF-1478
   status: verified
 - condition: asthma
   note: Antispasmodic support in bronchial asthma
   reference_ids:
-  - REF-0426
   - REF-1481
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0426
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -168,44 +168,36 @@ indications:
   status: needs-review
 - condition: cough
   note: inferred from bronchodilator action
-  reference_ids:
-  - REF-0426
+  reference_ids: []
   status: needs-review
-- condition: fever
-  note: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
-    review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
-    allergic rhinitis)
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0426
-  status: verified
 - condition: headache
   reference_ids:
-  - REF-0426
   - REF-0543
   - REF-1479
   status: verified
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0426
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1481
+  - REF-0426
 - condition: migraine
   note: Migraine prophylaxis (reduces attack frequency; up to ~60% reduction vs placebo in a randomised
     controlled trial of a standardised CO2 root extract)
   reference_ids:
-  - REF-0426
   - REF-0543
   - REF-1479
   status: verified
 - condition: muscle-spasm
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0426
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1481
+  - REF-0426
 contraindications:
 - note: Use ONLY certified pyrrolizidine-alkaloid (PA)-free, standardised extracts. Raw or unprocessed
     butterbur contains PAs that are toxic to the liver and potentially carcinogenic.
@@ -282,4 +274,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in R
   sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for root (late summer-autumn) + leaf (early summer),
   both provisional: PFAF REF-3308. SAFETY: PA-toxic (PA-free extracts only) + Adenostyles alliariae
-  lookalike. Binomial confirmed.'
+  lookalike. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 12 - REF-0426 (Sadler 2007 Pediatrics in Review column;
+  no abstract, text not retrievable) removed from every symptom as unverifiable. Fever pair (its
+  note described HAY fever) dropped. Allergy (SR + Ze 339), migraine/headache (two RCTs) and
+  asthma (open trial) keep their sources.'

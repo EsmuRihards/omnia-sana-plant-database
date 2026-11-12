@@ -190,26 +190,22 @@ actions:
   - REF-1494
   status: verified
 indications:
-- condition: bad-breath
-  note: Breath freshener (chlorophyll-rich; traditional for bad breath)
-  reference_ids:
-  - REF-0489
-  status: needs-review
 - condition: bloating
-  note: Carminative digestive and stomach tonic (bloating, indigestion)
-  reference_ids:
-  - REF-0489
-  status: verified
+  note: inferred from digestive action
+  reference_ids: []
+  status: needs-review
   mechanistic_exclude_ids:
   - REF-1492
+  - REF-0489
 - condition: detox
   note: inferred from hepatoprotective action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0489
   - REF-0546
-  status: needs-review
 - condition: indigestion
-  note: Carminative digestive and stomach tonic (bloating, indigestion)
+  note: Traditional stomach tonic for indigestion (review of traditional uses)
   reference_ids:
   - REF-0489
   status: verified
@@ -228,23 +224,7 @@ indications:
   - REF-0546
   - REF-1488
   status: needs-review
-- condition: swelling
-  note: Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally
-    used for urinary stones); animal studies attribute the effect to inhibition of the renal Na+/K+ pump,
-    raising urine flow
-  reference_ids:
-  - REF-0489
-  - REF-0545
-  - REF-0546
-  status: verified
 - condition: urinary-support
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0489
-  - REF-0545
-  - REF-0546
-  status: needs-review
-- condition: uti
   note: inferred from diuretic action
   reference_ids:
   - REF-0489
@@ -341,4 +321,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Ch
   sourced from the existing updated traditional-uses/phytochemistry review (REF-0489) and constituents
   review (REF-0546). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for leaf
   (picked regularly) + seed (ripen Jul-Sep), both provisional: PFAF REF-3307; root = GAP. SAFETY: fatal
-  Conium maculatum (poison hemlock) lookalike. Binomial confirmed. | 2026-08-15: root harvest_readiness filled (was gap) from Plantura (REF-3381): lift at the end of the first season once the taproot is about 12-15 cm and comes up easily. Hemlock safety clause carried.'
+  Conium maculatum (poison hemlock) lookalike. Binomial confirmed. | 2026-08-15: root harvest_readiness filled (was gap) from Plantura (REF-3381): lift at the end of the first season once the taproot is about 12-15 cm and comes up easily. Hemlock safety clause carried.
+  | 2026-11-10: symptom-source audit batch 12 - REF-0489 (2024 review of traditional uses; was
+  tagged rct) names diuretic, liver and stomach tonic, urolithiasis, indigestion, hepato- and
+  nephroprotection - removed from bad breath, bloating, detox, swelling, UTI. REF-0545 (rat
+  diuretic) and REF-0546 (review) removed from swelling/UTI/detox (diuresis is not swelling or
+  infection evidence - birch precedent).'

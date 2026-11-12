@@ -166,13 +166,6 @@ actions:
   - REF-1448
   status: needs-review
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0486
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0485
 - condition: bloating
   note: inferred from carminative action
   reference_ids: []
@@ -180,7 +173,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0485
 - condition: indigestion
-  note: Carminative digestive for indigestion (traditional bitter aromatic)
+  note: inferred from digestive action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
@@ -197,32 +190,25 @@ indications:
   mechanistic_exclude_ids:
   - REF-1451
   - REF-1452
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0486
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0485
 - condition: skin-irritation
   note: inferred from antifungal action
-  reference_ids:
-  - REF-0485
-  - REF-0486
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0597
+  - REF-0486
+  - REF-0485
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0485
-  - REF-0486
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0597
   - REF-1448
   - REF-1451
   - REF-1452
+  - REF-0486
+  - REF-0485
 contraindications:
 - note: Culinary amounts are safe. Concentrated oregano essential oil is a strong irritant - dilute well
     before any topical use and do not take undiluted oil internally.
@@ -269,4 +255,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal
   monograph-base fields, sourced from the existing phytochemistry review (REF-0485) and carvacrol review
   (REF-0486). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts
   (provisional: PFAF REF-3301, whole herb cut in late summer / just before flowering). Single lineage.
-  Binomial confirmed.'
+  Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 12 - REF-0486 (carvacrol review; carvacrol is
+  oregano''s signature phenol - compound evidence) names antimicrobial, antioxidant and anticancer
+  activity only - kept for infection, removed from 4 pairs. REF-0485 (O. vulgare antimicrobial
+  review; retagged) removed from skin and wounds.'

@@ -179,79 +179,79 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
   - REF-1225
+  - REF-0112
 - condition: bloating
   note: inferred from digestive action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
+  - REF-0112
 - condition: indigestion
   note: inferred from digestive action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
+  - REF-0112
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0112
   - REF-1226
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
+  - REF-0112
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
   - REF-1225
+  - REF-0112
 - condition: insomnia
   note: inferred from sedative action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
+  - REF-0112
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
+  - REF-0112
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0112
   - REF-1223
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
+  - REF-0112
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
   - REF-1225
+  - REF-0112
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0020
+  - REF-0112
 contraindications:
 - note: Generally very safe as a culinary herb. Essential oil should not be ingested in large amounts
     and avoided in pregnancy. Theoretically may interact with anticoagulants. Avoid medicinal doses during
@@ -316,4 +316,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing traditional-use/phytochemistry review (REF-1228) and
   ethnopharmacology review (REF-1230) plus the essential-oil composition study (REF-1231). | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for flower + leaf (provisional: PFAF REF-3304, cut as flowering begins / leaf just
-  before flowering). Single lineage. Binomial confirmed.'
+  before flowering). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 12 - REF-0112 (Hoffmann; unverifiable since batch 2)
+  removed from all 10 pairs; infection (antifungal rat study) and muscle-spasm (gut antispasmodic
+  study) keep their direct sources.'

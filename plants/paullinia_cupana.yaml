@@ -139,21 +139,10 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0009
-- condition: fatigue
-  note: inferred from ergogenic action
-  reference_ids:
-  - REF-0106
-  - REF-0951
-  - REF-0955
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0009
-  - REF-0957
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0106
-  - REF-0950
   - REF-0958
   status: needs-review
   mechanistic_exclude_ids:
@@ -222,4 +211,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   no practice recommendation. Entity created and the constituent wired to it. Only the molecules the entry
   already names were wired - no constituent was reinterpreted. | 2026-08-15: Harvest Calendar (phenological)
   - added harvest_readiness for seed (provisional: Useful Tropical Plants REF-3309, capsules mature and
-  dehisce ~75 days after flowering). Single lineage. Binomial confirmed.'
+  dehisce ~75 days after flowering). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 12 - REF-0951 (MA: guarana "did not reduce
+  cancer-related fatigue", p=0.98) was cited as SUPPORT - moved to null_result_ids. REF-0106
+  (acute RCT: memory and alertness) and REF-0955 (cycling time-trial) measured no fatigue -
+  removed. REF-0950 (MA: faster response time) names no memory outcome - removed from memory.'

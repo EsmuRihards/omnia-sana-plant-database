@@ -171,91 +171,87 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0014
-  - REF-0137
-  - REF-0192
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0014
+  - REF-0192
+  - REF-0137
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
-  - REF-0014
   - REF-0137
-  - REF-0192
   status: needs-review
-- condition: cardiovascular-support
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0014
-  - REF-0137
   - REF-0192
-  status: verified
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0014
-  - REF-0137
-  - REF-0192
   - REF-1474
-  - REF-1475
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0014
+  - REF-0192
+  - REF-0137
+  null_result_ids:
+  - REF-1475
 - condition: cold
   note: inferred from immunomodulator action
-  reference_ids:
-  - REF-0014
-  - REF-0137
-  - REF-0192
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0014
+  - REF-0192
+  - REF-0137
 - condition: fatigue
   note: inferred from ergogenic action
   reference_ids:
-  - REF-0014
-  - REF-0137
-  - REF-0192
   - REF-1471
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0014
+  - REF-0192
+  - REF-0137
 - condition: immune-support
   reference_ids:
-  - REF-0014
   - REF-0137
-  - REF-0192
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0014
+  - REF-0192
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0014
   - REF-0137
-  - REF-0192
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0014
+  - REF-0192
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
-  - REF-0014
-  - REF-0137
-  - REF-0192
   - REF-1474
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0014
+  - REF-0192
+  - REF-0137
 - condition: metabolic-support
   reference_ids:
-  - REF-0014
   - REF-0137
-  - REF-0192
   status: verified
-- condition: muscle-soreness
-  note: inferred from ergogenic action
-  reference_ids:
-  - REF-0014
-  - REF-0137
-  - REF-0192
-  status: needs-review
   mechanistic_exclude_ids:
-  - REF-1471
+  - REF-0014
+  - REF-0192
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0014
-  - REF-0137
-  - REF-0192
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0014
+  - REF-0192
+  - REF-0137
 contraindications:
 - note: Generally well tolerated in short-term use (up to 3 months). May cause insomnia, headache, or
     gastrointestinal upset at high doses. Avoid during pregnancy and breastfeeding. May interact with
@@ -363,4 +359,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing chemical-constituents review (REF-1468) and the pharmacology/toxicology
   review (REF-1466, REF-1472) plus the Duke-sourced dosage already cited in contraindications. | 2026-08-15:
   Harvest Calendar (phenological) - added harvest_readiness for root (provisional: PFAF REF-3302, dug in
-  autumn from mature 6-7 year old plants). Single lineage. Binomial confirmed.'
+  autumn from mature 6-7 year old plants). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 12 - Cochrane REF-1475 ("Ginseng for cognition": "a
+  lack of convincing evidence") was cited as SUPPORT - moved to null_result_ids. REF-0014 (Attele
+  1999 commentary) and REF-0192 (traditional prescriptions; year corrected to 2012, not an RCT)
+  name no condition - removed from all 12 pairs. REF-0137 (Kiefer 2003 AFP, PubMed 14596440: may
+  improve psychologic function, immune function and diabetes-related conditions;
+  anti-inflammatory; "does not appear to enhance physical performance") kept for immune-support,
+  blood-sugar, metabolic-support, inflammation only.'

@@ -120,19 +120,16 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0124
   - REF-0940
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0124
   - REF-0941
   - REF-0945
   - REF-0949
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0124
   - REF-0940
   - REF-0941
   - REF-0944
@@ -141,7 +138,6 @@ indications:
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0124
   - REF-0941
   - REF-0945
   status: needs-review
@@ -152,11 +148,8 @@ indications:
   reference_ids:
   - REF-0940
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0124
 - condition: urinary-support
   reference_ids:
-  - REF-0124
   - REF-0941
   status: verified
 - condition: wounds
@@ -164,7 +157,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0124
   - REF-0945
   - REF-0949
 contraindications:
@@ -173,7 +165,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0114
-  - REF-0124
   - REF-0253
   status: verified
 - note: Duke (2002) includes cranberry primarily at the experimental level for its astringent, diuretic,
@@ -185,7 +176,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0114
-  - REF-0124
   - REF-0253
   - REF-0063
   status: verified
@@ -237,4 +227,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   different species from this European cranberry, and cranberry dosing data should not be presented as this
   plant''s. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit (provisional:
   PFAF REF-3303 for Vaccinium oxycoccos = Oxycoccus palustris; ripe berries from autumn, persisting on the
-  plant through winter). Single lineage. Binomial confirmed.'
+  plant through winter). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 12 - REF-0124 purged (wrong species): the Cochrane
+  review on cranberries for UTI covers trials of American cranberry (Vaccinium macrocarpon)
+  products, not the European small cranberry. REF-0941 (V. oxycoccos review: urinary-tract
+  protection, antibacterial) remains; retagged.'

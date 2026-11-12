@@ -1,0 +1,98 @@
+plant	condition	ref	op
+origanum_majorana	arthritis	REF-0112	rm
+origanum_majorana	bloating	REF-0112	rm
+origanum_majorana	indigestion	REF-0112	rm
+origanum_majorana	infection	REF-0112	rm
+origanum_majorana	inflammation	REF-0112	rm
+origanum_majorana	insomnia	REF-0112	rm
+origanum_majorana	menstrual-cramps	REF-0112	rm
+origanum_majorana	muscle-spasm	REF-0112	rm
+origanum_majorana	skin-irritation	REF-0112	rm
+origanum_majorana	wounds	REF-0112	rm
+origanum_vulgare	arthritis	REF-0486	rm
+origanum_vulgare	inflammation	REF-0486	rm
+origanum_vulgare	skin-irritation	REF-0486	rm
+origanum_vulgare	wounds	REF-0486	rm
+origanum_vulgare	skin-irritation	REF-0485	rm
+origanum_vulgare	wounds	REF-0485	rm
+origanum_vulgare	indigestion	-	note
+origanum_vulgare	arthritis	-	drop(no evidence left)
+origanum_vulgare	inflammation	-	drop(no evidence left)
+oxycoccus_palustris	*	REF-0124	purge
+panax_ginseng	arthritis	REF-0014	rm
+panax_ginseng	arthritis	REF-0192	rm
+panax_ginseng	blood-sugar	REF-0014	rm
+panax_ginseng	blood-sugar	REF-0192	rm
+panax_ginseng	cardiovascular-support	REF-0014	rm
+panax_ginseng	cardiovascular-support	REF-0192	rm
+panax_ginseng	cognitive-function	REF-0014	rm
+panax_ginseng	cognitive-function	REF-0192	rm
+panax_ginseng	cold	REF-0014	rm
+panax_ginseng	cold	REF-0192	rm
+panax_ginseng	fatigue	REF-0014	rm
+panax_ginseng	fatigue	REF-0192	rm
+panax_ginseng	immune-support	REF-0014	rm
+panax_ginseng	immune-support	REF-0192	rm
+panax_ginseng	inflammation	REF-0014	rm
+panax_ginseng	inflammation	REF-0192	rm
+panax_ginseng	memory	REF-0014	rm
+panax_ginseng	memory	REF-0192	rm
+panax_ginseng	metabolic-support	REF-0014	rm
+panax_ginseng	metabolic-support	REF-0192	rm
+panax_ginseng	muscle-soreness	REF-0014	rm
+panax_ginseng	muscle-soreness	REF-0192	rm
+panax_ginseng	skin-irritation	REF-0014	rm
+panax_ginseng	skin-irritation	REF-0192	rm
+panax_ginseng	arthritis	REF-0137	rm
+panax_ginseng	cardiovascular-support	REF-0137	rm
+panax_ginseng	cognitive-function	REF-0137	rm
+panax_ginseng	cold	REF-0137	rm
+panax_ginseng	fatigue	REF-0137	rm
+panax_ginseng	memory	REF-0137	rm
+panax_ginseng	muscle-soreness	REF-0137	rm
+panax_ginseng	skin-irritation	REF-0137	rm
+panax_ginseng	cognitive-function	REF-1475	null
+panax_ginseng	cardiovascular-support	-	drop(no evidence left)
+panax_ginseng	muscle-soreness	-	drop(no evidence left)
+passiflora_incarnata	insomnia	REF-0490	rm
+passiflora_incarnata	nervous-tension	REF-0490	rm
+passiflora_incarnata	nervous-tension	REF-0491	rm
+passiflora_incarnata	anxiety	REF-0491	rm
+passiflora_incarnata	nervous-tension	-	needs-review(mechanistic only)
+paullinia_cupana	fatigue	REF-0106	rm
+paullinia_cupana	fatigue	REF-0955	rm
+paullinia_cupana	fatigue	REF-0951	null
+paullinia_cupana	memory	REF-0950	rm
+paullinia_cupana	fatigue	-	drop(no evidence left)
+pelargonium_sidoides	*	REF-1869->REF-1870	merge
+pelargonium_sidoides	cold	REF-0492	rm
+pelargonium_sidoides	sinusitis	REF-0492	rm
+pelargonium_sidoides	immune-support	REF-0493	rm
+pelargonium_sidoides	bronchitis	REF-1870	add
+pelargonium_sidoides	cold	REF-1870	add
+pelargonium_sidoides	sinusitis	REF-1870	add
+petasites_hybridus	allergy	REF-0426	rm
+petasites_hybridus	asthma	REF-0426	rm
+petasites_hybridus	cough	REF-0426	rm
+petasites_hybridus	fever	REF-0426	rm
+petasites_hybridus	headache	REF-0426	rm
+petasites_hybridus	menstrual-cramps	REF-0426	rm
+petasites_hybridus	migraine	REF-0426	rm
+petasites_hybridus	muscle-spasm	REF-0426	rm
+petasites_hybridus	fever	-	drop(no evidence left)
+petroselinum_crispum	bad-breath	REF-0489	rm
+petroselinum_crispum	bloating	REF-0489	rm
+petroselinum_crispum	detox	REF-0489	rm
+petroselinum_crispum	swelling	REF-0489	rm
+petroselinum_crispum	uti	REF-0489	rm
+petroselinum_crispum	swelling	REF-0545	rm
+petroselinum_crispum	uti	REF-0545	rm
+petroselinum_crispum	detox	REF-0546	rm
+petroselinum_crispum	swelling	REF-0546	rm
+petroselinum_crispum	uti	REF-0546	rm
+petroselinum_crispum	bloating	-	note
+petroselinum_crispum	indigestion	-	note
+petroselinum_crispum	bad-breath	-	drop(no evidence left)
+petroselinum_crispum	bloating	-	needs-review(mechanistic only)
+petroselinum_crispum	swelling	-	drop(no evidence left)
+petroselinum_crispum	uti	-	drop(no evidence left)

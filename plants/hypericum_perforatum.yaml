@@ -127,24 +127,20 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0154
   - REF-0181
   - REF-1790
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0154
   - REF-0181
   - REF-1791
   status: verified
 - action: antiviral
   reference_ids:
-  - REF-0154
   - REF-0181
   status: verified
 - action: emollient
   reference_ids:
-  - REF-0154
   - REF-0181
   status: verified
 - action: sedative
@@ -163,7 +159,6 @@ actions:
   status: verified
 - action: vulnerary
   reference_ids:
-  - REF-0154
   - REF-0181
   - REF-1789
   status: verified
@@ -173,46 +168,74 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0154
   - REF-0181
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0154
-  - REF-0181
-- condition: insomnia
-  note: inferred from sedative action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0154
-  - REF-0842
-  - REF-0843
-  - REF-1790
-  - REF-1794
-  - REF-1796
-  - REF-1797
-  - REF-1798
-  - REF-1799
   - REF-0181
 - condition: wounds
-  note: inferred from vulnerary action
-  reference_ids: []
+  note: St John's wort ointments aided healing of episiotomy and caesarean wounds in randomized trials;
+    the oil did no better than saline for early pressure injuries
+  reference_ids:
+  - REF-3409
+  - REF-3601
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0154
   - REF-0181
+  null_result_ids:
+  - REF-3602
 - condition: depression
-  note: 'Cochrane review and meta-analysis: hypericum extracts are superior to placebo and comparable
-    to standard antidepressants (including SSRIs) in mild-to-moderate major depression, with fewer side
-    effects. Evidence for severe depression is lacking.'
+  note: Hypericum extracts beat placebo in major depression and matched standard antidepressants with
+    fewer side effects (Cochrane review; meta-analysis in mild-to-moderate depression); two large US trials
+    in moderately severe major depression found no benefit over placebo
   reference_ids:
   - REF-0154
   - REF-0842
   - REF-1797
   - REF-1798
+  status: verified
+  null_result_ids:
+  - REF-3596
+  - REF-3597
+- condition: menopause
+  note: St John's wort improved menopausal symptoms vs placebo in a meta-analysis and randomized trials
+  reference_ids:
+  - REF-1795
+  - REF-3598
+  - REF-3599
+  status: verified
+- condition: hot-flashes
+  note: St John's wort reduced hot flashes in a randomized trial; a pilot trial found no significant effect
+    on hot flash frequency
+  reference_ids:
+  - REF-3598
+  status: verified
+  null_result_ids:
+  - REF-3599
+- condition: pms
+  note: St John's wort eased the common physical and behavioural premenstrual symptoms vs placebo in a
+    randomized trial; mood and pain symptoms did not clearly improve
+  reference_ids:
+  - REF-3600
+  status: verified
+- condition: eczema
+  note: A St John's wort cream outperformed its base cream in mild to moderate atopic eczema in a randomized
+    half-side trial
+  reference_ids:
+  - REF-3603
+  status: verified
+- condition: psoriasis
+  note: A St John's wort ointment lowered psoriasis severity scores vs its base in a small single-blind
+    half-side randomized trial
+  reference_ids:
+  - REF-3604
+  status: verified
+- condition: arthritis
+  note: St John's wort oil eased knee osteoarthritis pain vs control in a randomized trial
+  reference_ids:
+  - REF-3605
   status: verified
 contraindications:
 - note: 'Significant drug interactions: strongly induces CYP3A4 and P-glycoprotein, reducing plasma levels
@@ -424,4 +447,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (phenological) - added harvest_readiness for flower + leaf (provisional: PFAF REF-3274, flowering tops cut
   at full bloom in mid-summer). Single lineage. Binomial confirmed.
   | 2026-11-10: symptom-source audit batch 9 - REF-0181 (Natural Standard 2013; truncated title,
-  no URL, paywalled) removed from every symptom as unverifiable.'
+  no URL, paywalled) removed from every symptom as unverifiable.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. Cochrane depression
+  review REF-0154 removed from five non-depression actions. Insomnia dropped: inferred from the
+  sedative action, whose refs are antidepressant literature (off-target, inv. 11); the
+  polysomnogram RCT 9784087 showed only longer REM latency. Landmark null RCTs HDTSG 2002 REF-3596
+  and Shelton 2001 REF-3597 recorded as no-effect for depression. Wounds: episiotomy RCT REF-3409
+  and caesarean RCT REF-3601 added, pressure-injury RCT REF-3602 no-effect. New pairs (owner
+  rule): menopause (held MA REF-1795 + RCTs REF-3598, REF-3599), hot-flashes (REF-3598; pilot
+  REF-3599 no-effect on frequency), pms (RCT REF-3600), eczema (REF-3603; 12634994 is the same
+  trial in German), psoriasis (REF-3604), arthritis (knee OA RCT REF-3605). Homeopathic Hypericum
+  trials (HYPOS 35171041, LBP 39951699) excluded.'

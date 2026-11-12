@@ -154,14 +154,14 @@ actions:
   status: verified
 indications:
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditional use for digestive complaints such as bloating and flatulence (EU herbal monograph)
   reference_ids:
   - REF-3066
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0035
 - condition: cancer
-  note: inferred from anticancer action
+  note: Juniper extracts slowed melanoma, liver and colorectal cancers in lab and animal studies (preclinical)
   reference_ids:
   - REF-0853
   - REF-1742
@@ -169,9 +169,11 @@ indications:
   - REF-1744
   status: needs-review
 - condition: indigestion
-  note: inferred from digestive action
+  note: A juniper preparation relieved functional dyspepsia vs placebo in a randomized trial; traditional
+    use for digestive complaints (EU herbal monograph)
   reference_ids:
   - REF-3066
+  - REF-3606
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0035
@@ -191,7 +193,8 @@ indications:
   - REF-0035
   - REF-3066
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Traditional use to increase urine flow and flush the urinary tract in minor urinary complaints
+    (EU herbal monograph)
   reference_ids:
   - REF-3066
   status: needs-review
@@ -214,6 +217,11 @@ indications:
   - REF-1737
   - REF-1738
   - REF-0035
+- condition: menstrual-cramps
+  note: Juniper reduced menstrual cramp pain in primary dysmenorrhoea in a randomized trial
+  reference_ids:
+  - REF-3607
+  status: verified
 contraindications:
 - note: 'Avoid in pregnancy. Juniper is not recommended during pregnancy (EMA/HMPC, 2023; Health Canada,
     2025).Avoid with kidney disorders / serious kidney disease. It’s not recommended if you have kidney
@@ -334,4 +342,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   available online) removed from every symptom as unverifiable. REF-3066 (known indications:
   urinary flushing in minor urinary complaints; dyspeptic complaints such as bloating and
   flatulence - EMA page 429, flagged for owner spot-check) kept for urinary-support, bloating and
-  indigestion; removed from swelling and UTI (birch precedent).'
+  indigestion; removed from swelling and UTI (birch precedent).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. Functional dyspepsia
+  RCT REF-3606 (Roleca juniper, J. communis) added to indigestion. New pair (owner rule):
+  menstrual-cramps (abhal = J. communis RCT REF-3607). Notes rewritten to the EU monograph
+  REF-3066.'

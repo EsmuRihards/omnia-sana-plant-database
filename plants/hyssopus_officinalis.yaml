@@ -141,18 +141,15 @@ actions:
   status: verified
 - action: expectorant
   reference_ids:
-  - REF-1803
-  - REF-1804
+  - REF-3608
   status: verified
 indications:
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1804
 - condition: cancer
-  note: inferred from anticancer action
+  note: Hyssop extract reduced brain tumour (glioblastoma) growth in rats (preclinical)
   reference_ids:
   - REF-1802
   status: needs-review
@@ -160,17 +157,18 @@ indications:
   note: inferred from expectorant action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1804
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Hyssop extract reduced airway inflammation in asthmatic mice (preclinical)
   reference_ids:
   - REF-1804
   status: needs-review
 - condition: respiratory-support
   reference_ids:
   - REF-1804
+  - REF-3608
   status: verified
+  note: Traditional expectorant for chronic catarrh and lung complaints (Grieve, A Modern Herbal); extract
+    reduced airway inflammation in asthmatic mice (preclinical)
 contraindications:
 - note: Generally safe at therapeutic doses. Hyssop essential oil is neurotoxic in high doses (contains
     pinocamphone and isopinocamphone) - internal use of the essential oil is contraindicated, especially
@@ -269,4 +267,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 9 - REF-0845 is a genus-level Hyssopus review (7
   species, prose-only attribution) - removed from all pairs; retagged narrative-review. REF-1804
   (asthmatic mouse model) names airway inflammation and asthma only - removed from bronchitis and
-  cough.'
+  cough.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. The expectorant action
+  rested on a TLR/interferon cell study (REF-1803) and an asthmatic-mouse study (REF-1804),
+  neither of which tests expectoration - both removed from it (REF-1803 kept in references).
+  Grieve REF-3608 (Hyssop: expectorant, promotes expectoration, chronic catarrh, pulmonary
+  complaints) added to expectorant and respiratory-support. Gaps (traditional only): Grieve also
+  names asthma and bruises - no pairs. No trials on PubMed.'

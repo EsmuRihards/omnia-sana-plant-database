@@ -194,7 +194,7 @@ indications:
   - REF-2982
   - REF-0272
 - condition: cancer
-  note: inferred from anticancer action
+  note: Chaga extracts and polysaccharides slowed tumours in lab and animal studies (preclinical)
   reference_ids:
   - REF-0093
   - REF-2970
@@ -219,6 +219,7 @@ indications:
   - REF-2974
   - REF-2987
   - REF-0272
+  note: Chaga polysaccharides activated immune cells in lab studies (preclinical)
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -229,6 +230,8 @@ indications:
 - condition: metabolic-support
   reference_ids: []
   status: needs-review
+  note: Chaga polysaccharides and extracts lowered blood sugar and improved insulin sensitivity in diabetic
+    mice (preclinical)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -249,7 +252,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-2979
 - condition: cardiovascular-support
-  note: Chaga polysaccharide lowered lipids in vivo and in vitro.
+  note: A chaga polysaccharide lowered blood lipids in mice and cells (preclinical)
   reference_ids:
   - REF-2988
   status: needs-review
@@ -355,4 +358,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 9 - REF-0272 (Shashkina 2006, Pharm Chem J; DOI and
   Springer abstract added) - its abstract names no condition, only chemistry, pharmacology and
   melanin - removed from all 8 pairs. Cognitive-function note corrected: it described a Parkinson
-  model, but the cited study (REF-2990) is scopolamine amnesia.'
+  model, but the cited study (REF-2990) is scopolamine amnesia.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. Notes rewritten to
+  their lab sources. REF-0849 retagged narrative-review. No human trials on PubMed. REF-2981 DOI
+  10.5897/jmpr.9000346 does not resolve (left; preclinical action ref only).'

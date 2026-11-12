@@ -131,20 +131,55 @@ indications:
   reference_ids: []
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: A 1% hop extract cream reduced UV-induced skin inflammation as much as 1% hydrocortisone in a
+    randomized placebo-controlled trial; extracts reduced inflammatory markers in immune cells (preclinical)
+  reference_ids:
+  - REF-1729
   status: needs-review
 - condition: insomnia
-  note: EU traditional use to aid sleep
+  note: Traditional use to aid sleep (EU herbal monograph)
   reference_ids:
   - REF-3077
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1732
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: A 1% hop extract cream reduced UV-induced skin redness as much as 1% hydrocortisone in a randomized
+    placebo-controlled trial (in one cream base only)
+  reference_ids:
+  - REF-1729
   status: needs-review
+- condition: anxiety
+  note: A hop dry extract lowered anxiety scores vs placebo in a randomized crossover trial in young adults
+    with mild symptoms
+  reference_ids:
+  - REF-1732
+  status: verified
+- condition: depression
+  note: A hop dry extract lowered depression scores vs placebo in a randomized crossover trial in young
+    adults with mild symptoms
+  reference_ids:
+  - REF-1732
+  status: verified
+- condition: stress
+  note: A hop dry extract lowered stress scores vs placebo in a randomized crossover trial; traditional
+    use for mild symptoms of mental stress (EU herbal monograph)
+  reference_ids:
+  - REF-1732
+  - REF-3077
+  status: verified
+- condition: menopause
+  note: Hop extracts reduced menopausal symptoms vs placebo in two randomized trials
+  reference_ids:
+  - REF-3594
+  - REF-3595
+  status: verified
+- condition: hot-flashes
+  note: Hop extracts reduced hot flashes vs placebo in two randomized trials
+  reference_ids:
+  - REF-3594
+  - REF-3595
+  status: verified
 contraindications:
 - note: Generally safe at therapeutic doses for short-term use. Hop preparations may enhance the sedative
     effects of alcohol, benzodiazepines, and other CNS depressants - avoid combination. Not recommended
@@ -271,4 +306,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   lookalike. Binomial confirmed.
   | 2026-11-10: symptom-source audit batch 9 - REF-0141 purged: an overview of the valerian + hops
   COMBINATION (multi-herb product). EU monograph REF-3077 (relief of mild symptoms of mental
-  stress and to aid sleep - EMA page 429, flagged for owner spot-check) added to insomnia.'
+  stress and to aid sleep - EMA page 429, flagged for owner spot-check) added to insomnia.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. REF-1729 retagged rct
+  (randomized placebo-controlled UVB-erythema trial, 40 volunteers) and wired to
+  skin-irritation/inflammation. New pairs (owner rule): anxiety, depression, stress (RCT REF-1732;
+  stress also EU monograph REF-3077), menopause and hot-flashes (RCTs REF-3594, REF-3595). Not
+  used: Lactium/Zizyphus and sleep-supplement combinations, non-alcoholic beer study, xanthohumol
+  Crohn trials (compound, safety endpoint).'

@@ -4938,6 +4938,27 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3066",
+      "REF-3606"
+     ]
+    },
+    {
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3607"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -4953,16 +4974,6 @@
     {
      "condition": "bloating",
      "label": "Bloating",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-3066"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -6432,6 +6443,16 @@
      ]
     },
     {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0445"
+     ]
+    },
+    {
      "condition": "bronchitis",
      "label": "Bronchitis",
      "evidence": 1,
@@ -6442,14 +6463,6 @@
     {
      "condition": "cough",
      "label": "Cough",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -8974,16 +8987,81 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
+     "condition": "hot-flashes",
+     "label": "Hot flashes",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3594",
+      "REF-3595"
+     ]
+    },
+    {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3594",
+      "REF-3595"
+     ]
+    },
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1732"
+     ]
     },
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1729"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1732"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1729"
+     ]
+    },
+    {
+     "condition": "stress",
+     "label": "Stress",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1732",
+      "REF-3077"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -8998,14 +9076,6 @@
      "references": [
       "REF-3077"
      ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     }
    ]
   },
@@ -9220,7 +9290,8 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-1804"
+      "REF-1804",
+      "REF-3608"
      ]
     },
     {
@@ -11929,6 +12000,18 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1795",
+      "REF-3598",
+      "REF-3599"
+     ]
+    },
+    {
      "condition": "depression",
      "label": "Low mood / depression",
      "evidence": 8,
@@ -11942,6 +12025,67 @@
      ]
     },
     {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3409",
+      "REF-3601"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3605"
+     ]
+    },
+    {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3603"
+     ]
+    },
+    {
+     "condition": "hot-flashes",
+     "label": "Hot flashes",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3598"
+     ]
+    },
+    {
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3600"
+     ]
+    },
+    {
+     "condition": "psoriasis",
+     "label": "Psoriasis",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3604"
+     ]
+    },
+    {
      "condition": "bruising",
      "label": "Bruising",
      "evidence": 1,
@@ -11952,22 +12096,6 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -15987,7 +16115,8 @@
      "inferred": true,
      "references": [
       "REF-0526",
-      "REF-0527"
+      "REF-0527",
+      "REF-2059"
      ]
     },
     {

@@ -28342,15 +28342,17 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "A 1% hop extract cream reduced UV-induced skin inflammation as much as 1% hydrocortisone in a randomized placebo-controlled trial; extracts reduced inflammatory markers in immune cells (preclinical)",
+     "reference_ids": [
+      "REF-1729"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Inflammation (general)"
     },
     {
      "condition": "insomnia",
-     "note": "EU traditional use to aid sleep",
+     "note": "Traditional use to aid sleep (EU herbal monograph)",
      "reference_ids": [
       "REF-3077"
      ],
@@ -28363,11 +28365,66 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "A 1% hop extract cream reduced UV-induced skin redness as much as 1% hydrocortisone in a randomized placebo-controlled trial (in one cream base only)",
+     "reference_ids": [
+      "REF-1729"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "anxiety",
+     "note": "A hop dry extract lowered anxiety scores vs placebo in a randomized crossover trial in young adults with mild symptoms",
+     "reference_ids": [
+      "REF-1732"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "depression",
+     "note": "A hop dry extract lowered depression scores vs placebo in a randomized crossover trial in young adults with mild symptoms",
+     "reference_ids": [
+      "REF-1732"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low mood / depression"
+    },
+    {
+     "condition": "stress",
+     "note": "A hop dry extract lowered stress scores vs placebo in a randomized crossover trial; traditional use for mild symptoms of mental stress (EU herbal monograph)",
+     "reference_ids": [
+      "REF-1732",
+      "REF-3077"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Stress"
+    },
+    {
+     "condition": "menopause",
+     "note": "Hop extracts reduced menopausal symptoms vs placebo in two randomized trials",
+     "reference_ids": [
+      "REF-3594",
+      "REF-3595"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Menopause"
+    },
+    {
+     "condition": "hot-flashes",
+     "note": "Hop extracts reduced hot flashes vs placebo in two randomized trials",
+     "reference_ids": [
+      "REF-3594",
+      "REF-3595"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Hot flashes"
     }
    ],
    "contraindications": [
@@ -28665,7 +28722,7 @@
     },
     {
      "condition": "infection",
-     "note": "Antimicrobial (berberine) - supports skin, mucosal and gastrointestinal infections and sore throat; Topical for skin infections and irritation - whole-leaf extract is active in vitro against methicillin-resistant Staphylococcus aureus (MRSA)",
+     "note": "Traditionally used for skin and eye infections (review); leaf extracts were active against MRSA in the lab (preclinical)",
      "reference_ids": [
       "REF-0455",
       "REF-0588"
@@ -28676,7 +28733,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional remedy whose anti-inflammatory activity is reviewed (review)",
      "reference_ids": [
       "REF-0455"
      ],
@@ -28686,7 +28743,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for skin ailments (review)",
      "reference_ids": [
       "REF-0455"
      ],
@@ -28696,7 +28753,7 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditionally used for wounds (review); extracts were antibacterial in the lab (preclinical)",
      "reference_ids": [
       "REF-0455"
      ],
@@ -28964,7 +29021,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0154",
       "REF-0181",
       "REF-1790"
      ],
@@ -28973,7 +29029,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0154",
       "REF-0181",
       "REF-1791"
      ],
@@ -28982,7 +29037,6 @@
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0154",
       "REF-0181"
      ],
      "status": "verified"
@@ -28990,7 +29044,6 @@
     {
      "action": "emollient",
      "reference_ids": [
-      "REF-0154",
       "REF-0181"
      ],
      "status": "verified"
@@ -29015,7 +29068,6 @@
     {
      "action": "vulnerary",
      "reference_ids": [
-      "REF-0154",
       "REF-0181",
       "REF-1789"
      ],
@@ -29029,7 +29081,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0154",
       "REF-0181"
      ],
      "evidence": 1,
@@ -29041,47 +29092,31 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0154",
       "REF-0181"
      ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "insomnia",
-     "note": "inferred from sedative action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0154",
-      "REF-0842",
-      "REF-0843",
-      "REF-1790",
-      "REF-1794",
-      "REF-1796",
-      "REF-1797",
-      "REF-1798",
-      "REF-1799",
-      "REF-0181"
-     ],
-     "evidence": 1,
-     "label": "Insomnia / sleeplessness"
-    },
-    {
      "condition": "wounds",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [],
+     "note": "St John's wort ointments aided healing of episiotomy and caesarean wounds in randomized trials; the oil did no better than saline for early pressure injuries",
+     "reference_ids": [
+      "REF-3409",
+      "REF-3601"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0154",
       "REF-0181"
      ],
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-3602"
+     ],
+     "evidence": 6,
      "label": "Wounds"
     },
     {
      "condition": "depression",
-     "note": "Cochrane review and meta-analysis: hypericum extracts are superior to placebo and comparable to standard antidepressants (including SSRIs) in mild-to-moderate major depression, with fewer side effects. Evidence for severe depression is lacking.",
+     "note": "Hypericum extracts beat placebo in major depression and matched standard antidepressants with fewer side effects (Cochrane review; meta-analysis in mild-to-moderate depression); two large US trials in moderately severe major depression found no benefit over placebo",
      "reference_ids": [
       "REF-0154",
       "REF-0842",
@@ -29089,8 +29124,77 @@
       "REF-1798"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3596",
+      "REF-3597"
+     ],
      "evidence": 8,
      "label": "Low mood / depression"
+    },
+    {
+     "condition": "menopause",
+     "note": "St John's wort improved menopausal symptoms vs placebo in a meta-analysis and randomized trials",
+     "reference_ids": [
+      "REF-1795",
+      "REF-3598",
+      "REF-3599"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "Menopause"
+    },
+    {
+     "condition": "hot-flashes",
+     "note": "St John's wort reduced hot flashes in a randomized trial; a pilot trial found no significant effect on hot flash frequency",
+     "reference_ids": [
+      "REF-3598"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3599"
+     ],
+     "evidence": 5,
+     "label": "Hot flashes"
+    },
+    {
+     "condition": "pms",
+     "note": "St John's wort eased the common physical and behavioural premenstrual symptoms vs placebo in a randomized trial; mood and pain symptoms did not clearly improve",
+     "reference_ids": [
+      "REF-3600"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
+    },
+    {
+     "condition": "eczema",
+     "note": "A St John's wort cream outperformed its base cream in mild to moderate atopic eczema in a randomized half-side trial",
+     "reference_ids": [
+      "REF-3603"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Eczema"
+    },
+    {
+     "condition": "psoriasis",
+     "note": "A St John's wort ointment lowered psoriasis severity scores vs its base in a small single-blind half-side randomized trial",
+     "reference_ids": [
+      "REF-3604"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Psoriasis"
+    },
+    {
+     "condition": "arthritis",
+     "note": "St John's wort oil eased knee osteoarthritis pain vs control in a randomized trial",
+     "reference_ids": [
+      "REF-3605"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Arthritis / joint pain"
     }
    ],
    "contraindications": [
@@ -29485,8 +29589,7 @@
     {
      "action": "expectorant",
      "reference_ids": [
-      "REF-1803",
-      "REF-1804"
+      "REF-3608"
      ],
      "status": "verified"
     }
@@ -29497,15 +29600,12 @@
      "note": "inferred from expectorant action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1804"
-     ],
      "evidence": 1,
      "label": "Bronchitis"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Hyssop extract reduced brain tumour (glioblastoma) growth in rats (preclinical)",
      "reference_ids": [
       "REF-1802"
      ],
@@ -29518,15 +29618,12 @@
      "note": "inferred from expectorant action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1804"
-     ],
      "evidence": 1,
      "label": "Cough"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Hyssop extract reduced airway inflammation in asthmatic mice (preclinical)",
      "reference_ids": [
       "REF-1804"
      ],
@@ -29537,9 +29634,11 @@
     {
      "condition": "respiratory-support",
      "reference_ids": [
-      "REF-1804"
+      "REF-1804",
+      "REF-3608"
      ],
      "status": "verified",
+     "note": "Traditional expectorant for chronic catarrh and lung complaints (Grieve, A Modern Herbal); extract reduced airway inflammation in asthmatic mice (preclinical)",
      "evidence": 2,
      "label": "Respiratory support"
     }
@@ -29843,7 +29942,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Chaga extracts and polysaccharides slowed tumours in lab and animal studies (preclinical)",
      "reference_ids": [
       "REF-0093",
       "REF-2970",
@@ -29880,6 +29979,7 @@
       "REF-2987",
       "REF-0272"
      ],
+     "note": "Chaga polysaccharides activated immune cells in lab studies (preclinical)",
      "evidence": 2,
      "label": "Immune support"
     },
@@ -29899,6 +29999,7 @@
      "condition": "metabolic-support",
      "reference_ids": [],
      "status": "needs-review",
+     "note": "Chaga polysaccharides and extracts lowered blood sugar and improved insulin sensitivity in diabetic mice (preclinical)",
      "evidence": 1,
      "label": "Metabolic support"
     },
@@ -29934,7 +30035,7 @@
     },
     {
      "condition": "cardiovascular-support",
-     "note": "Chaga polysaccharide lowered lipids in vivo and in vitro.",
+     "note": "A chaga polysaccharide lowered blood lipids in mice and cells (preclinical)",
      "reference_ids": [
       "REF-2988"
      ],
@@ -30183,7 +30284,7 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "Anti-inflammatory - sesquiterpene lactones (alantolactone, isoalantolactone) inhibit NF-kB and MAPK signalling and pro-inflammatory cytokines; total sesquiterpene lactones eased arthritis in animal models (potential in rheumatoid arthritis)",
+     "note": "Elecampane sesquiterpene lactones eased arthritis in animal models (preclinical)",
      "reference_ids": [
       "REF-0538"
      ],
@@ -30209,7 +30310,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Elecampane sesquiterpene lactones slowed breast and pancreatic cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1865",
       "REF-1866",
@@ -30232,7 +30333,7 @@
     },
     {
      "condition": "infection",
-     "note": "Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection",
+     "note": "Elecampane root oil and its compounds were active against staphylococci and tuberculosis bacteria in the lab (preclinical)",
      "reference_ids": [
       "REF-0445",
       "REF-0539",
@@ -30244,7 +30345,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Elecampane sesquiterpene lactones reduced inflammation in arthritis models and human immune cells (preclinical)",
      "reference_ids": [
       "REF-0538"
      ],
@@ -30254,13 +30355,12 @@
     },
     {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
+     "note": "Traditionally used for respiratory ailments in Irish folk medicine (as stated in a lab study); its root compounds were antibacterial in the lab (preclinical)",
+     "reference_ids": [
       "REF-0445"
      ],
-     "evidence": 1,
+     "status": "needs-review",
+     "evidence": 2,
      "label": "Respiratory support"
     },
     {
@@ -30520,7 +30620,7 @@
    "indications": [
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditional use for digestive complaints such as bloating and flatulence (EU herbal monograph)",
      "reference_ids": [
       "REF-3066"
      ],
@@ -30533,7 +30633,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Juniper extracts slowed melanoma, liver and colorectal cancers in lab and animal studies (preclinical)",
      "reference_ids": [
       "REF-0853",
       "REF-1742",
@@ -30546,15 +30646,16 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "A juniper preparation relieved functional dyspepsia vs placebo in a randomized trial; traditional use for digestive complaints (EU herbal monograph)",
      "reference_ids": [
-      "REF-3066"
+      "REF-3066",
+      "REF-3606"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0035"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Indigestion"
     },
     {
@@ -30584,7 +30685,7 @@
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Traditional use to increase urine flow and flush the urinary tract in minor urinary complaints (EU herbal monograph)",
      "reference_ids": [
       "REF-3066"
      ],
@@ -30621,6 +30722,16 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "menstrual-cramps",
+     "note": "Juniper reduced menstrual cramp pain in primary dysmenorrhoea in a randomized trial",
+     "reference_ids": [
+      "REF-3607"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Menstrual cramps"
     }
    ],
    "contraindications": [
@@ -30883,10 +30994,8 @@
     },
     {
      "action": "antioxidant",
-     "reference_ids": [
-      "REF-2814"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "antimicrobial",
@@ -30915,8 +31024,7 @@
     "REF-2808",
     "REF-2809",
     "REF-2810",
-    "REF-2812",
-    "REF-2814"
+    "REF-2812"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -31087,9 +31195,7 @@
      "reference_ids": [
       "REF-0526",
       "REF-0622",
-      "REF-2060",
-      "REF-2061",
-      "REF-2062"
+      "REF-2060"
      ],
      "status": "needs-review"
     }
@@ -31097,7 +31203,7 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "inferred from anxiolytic action",
+     "note": "Traditionally used for anxiety (Herbal Reality)",
      "reference_ids": [
       "REF-0526"
      ],
@@ -31120,10 +31226,11 @@
     },
     {
      "condition": "cough",
-     "note": "Antitussive for an irritable, dry cough (traditional)",
+     "note": "Traditionally used for persistent and whooping cough (Herbal Reality; RxList; 1815 medical report)",
      "reference_ids": [
       "REF-0526",
-      "REF-0527"
+      "REF-0527",
+      "REF-2059"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -31144,23 +31251,19 @@
     },
     {
      "condition": "insomnia",
-     "note": "Sedative for sleeplessness / insomnia - lactucin and lactucopicrin showed sedative activity in animal models",
+     "note": "Traditionally used for insomnia and restlessness (Herbal Reality; RxList); lactucin and lactucopicrin were sedative in mice (preclinical)",
      "reference_ids": [
       "REF-0526",
       "REF-0622",
       "REF-0527"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2061",
-      "REF-2062"
-     ],
      "evidence": 2,
      "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "nervous-tension",
-     "note": "Calming for nervous tension and restlessness",
+     "note": "Traditionally used for restlessness and tension (Herbal Reality)",
      "reference_ids": [
       "REF-0526"
      ],
@@ -31170,7 +31273,7 @@
     },
     {
      "condition": "pain",
-     "note": "Mild analgesic / anodyne for pain (lactucin and lactucopicrin act on the central nervous system) - in mice these compounds produced analgesia comparable to ibuprofen",
+     "note": "Historically used as a painkiller (Herbal Reality; RxList, which rates the evidence insufficient); lactucin and lactucopicrin relieved pain in mice (preclinical)",
      "reference_ids": [
       "REF-0526",
       "REF-0527",
@@ -31402,7 +31505,6 @@
       "Flower"
      ],
      "reference_ids": [
-      "REF-0342",
       "REF-1749"
      ],
      "status": "verified"
@@ -31426,7 +31528,7 @@
       "Flower"
      ],
      "reference_ids": [
-      "REF-1753"
+      "REF-1746"
      ],
      "status": "verified"
     },
@@ -31446,7 +31548,7 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Historically used for gout, sciatica and joint aches (Herbal Reality)",
      "reference_ids": [
       "REF-0348"
      ],
@@ -31459,7 +31561,7 @@
     },
     {
      "condition": "bronchitis",
-     "note": "inferred from expectorant action",
+     "note": "Traditionally used for chronic bronchitis and pharyngitis (as stated in a lab study); extracts calmed human immune cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1746"
      ],
@@ -31469,7 +31571,7 @@
     },
     {
      "condition": "bruising",
-     "note": "inferred from vulnerary action",
+     "note": "Historically used for bruises (Herbal Reality)",
      "reference_ids": [
       "REF-0348"
      ],
@@ -31490,7 +31592,7 @@
     },
     {
      "condition": "diarrhea",
-     "note": "inferred from astringent action",
+     "note": "Traditionally used for diarrhoea (Herbal Reality)",
      "reference_ids": [
       "REF-0348"
      ],
@@ -31503,7 +31605,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional anti-inflammatory (Herbal Reality); extracts reduced inflammatory responses of human immune cells in the lab (preclinical)",
      "reference_ids": [
       "REF-0348",
       "REF-1746"
@@ -31514,7 +31616,7 @@
     },
     {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Traditionally used for catarrh of the upper airways (Herbal Reality)",
      "reference_ids": [
       "REF-0348"
      ],
@@ -31524,7 +31626,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from astringent action",
+     "note": "Traditionally used for skin inflammation (as stated in a lab study); extracts calmed human immune cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1746"
      ],
@@ -31599,7 +31701,8 @@
     "REF-1754",
     "REF-1755",
     "REF-1756",
-    "REF-1757"
+    "REF-1757",
+    "REF-0342"
    ],
    "lookalikes_review": {
     "outcome": "none-known",

@@ -157,9 +157,8 @@ actions:
   reference_ids: []
   status: needs-review
 - action: antioxidant
-  reference_ids:
-  - REF-2814
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: antimicrobial
   note: Antibacterial (anti-acne) activity of Knautia extracts; antimicrobial activity across the family.
   reference_ids: []
@@ -181,7 +180,6 @@ references:
 - REF-2809
 - REF-2810
 - REF-2812
-- REF-2814
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -222,4 +220,7 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   confirmed. | 2026-08-15: root harvest_readiness filled (was gap) on a re-read of PFAF REF-3280, which ties the root to the flowering plant (''with or without the roots'').
   | 2026-11-10: symptom-source audit batch 9 - REF-2811 purged: it tested Knautia drymeia and K.
   macedonica, not K. arvensis (its only link to field scabious is genus-level prose). All 6 pairs
-  dropped; plant leaves the Symptom tool.'
+  dropped; plant leaves the Symptom tool.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. REF-2814 studies
+  Turkish Scabiosa species (S. columbaria, S. triniifolia), not Knautia arvensis - purged and
+  deleted. No sourced activity remains.'

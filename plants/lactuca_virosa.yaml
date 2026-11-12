@@ -128,12 +128,10 @@ actions:
   - REF-0526
   - REF-0622
   - REF-2060
-  - REF-2061
-  - REF-2062
   status: needs-review
 indications:
 - condition: anxiety
-  note: inferred from anxiolytic action
+  note: Traditionally used for anxiety (Herbal Reality)
   reference_ids:
   - REF-0526
   status: needs-review
@@ -146,10 +144,11 @@ indications:
   - REF-0527
   - REF-0622
 - condition: cough
-  note: Antitussive for an irritable, dry cough (traditional)
+  note: Traditionally used for persistent and whooping cough (Herbal Reality; RxList; 1815 medical report)
   reference_ids:
   - REF-0526
   - REF-0527
+  - REF-2059
   status: needs-review
 - condition: headache
   note: inferred from analgesic action
@@ -160,24 +159,21 @@ indications:
   - REF-0527
   - REF-0622
 - condition: insomnia
-  note: Sedative for sleeplessness / insomnia - lactucin and lactucopicrin showed sedative activity in
-    animal models
+  note: Traditionally used for insomnia and restlessness (Herbal Reality; RxList); lactucin and lactucopicrin
+    were sedative in mice (preclinical)
   reference_ids:
   - REF-0526
   - REF-0622
   - REF-0527
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2061
-  - REF-2062
 - condition: nervous-tension
-  note: Calming for nervous tension and restlessness
+  note: Traditionally used for restlessness and tension (Herbal Reality)
   reference_ids:
   - REF-0526
   status: needs-review
 - condition: pain
-  note: Mild analgesic / anodyne for pain (lactucin and lactucopicrin act on the central nervous system)
-    - in mice these compounds produced analgesia comparable to ibuprofen
+  note: Historically used as a painkiller (Herbal Reality; RxList, which rates the evidence insufficient);
+    lactucin and lactucopicrin relieved pain in mice (preclinical)
   reference_ids:
   - REF-0526
   - REF-0527
@@ -250,4 +246,10 @@ internal_notes: 'Enriched 2026-06-12 from general literature (Herbal Reality and
   (page read) names pain, insomnia, cough, restlessness - added to insomnia and cough, removed
   from headache and back-pain. REF-0622 (lactucin and lactucopicrin, compounds characteristic of
   L. virosa; mouse analgesia and sedation) kept for pain and insomnia as compound evidence,
-  removed from headache and back-pain.'
+  removed from headache and back-pain.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. Web sources checked
+  2026-11-12: Herbal Reality names anxiety, restlessness/tension, insomnia, cough and historical
+  painkiller use; RxList lists cough, insomnia, restlessness and muscle/joint pain (insufficient
+  evidence; references are five reference books). 1815 whooping-cough report REF-2059 added to
+  cough. Abuse report REF-2061 and NPS review REF-2062 removed from the sedative action (kept in
+  references).'

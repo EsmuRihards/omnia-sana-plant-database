@@ -138,9 +138,7 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: Anti-inflammatory - sesquiterpene lactones (alantolactone, isoalantolactone) inhibit NF-kB and
-    MAPK signalling and pro-inflammatory cytokines; total sesquiterpene lactones eased arthritis in animal
-    models (potential in rheumatoid arthritis)
+  note: Elecampane sesquiterpene lactones eased arthritis in animal models (preclinical)
   reference_ids:
   - REF-0538
   status: verified
@@ -155,7 +153,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0445
 - condition: cancer
-  note: inferred from anticancer action
+  note: Elecampane sesquiterpene lactones slowed breast and pancreatic cancer cells in the lab (preclinical)
   reference_ids:
   - REF-1865
   - REF-1866
@@ -168,24 +166,25 @@ indications:
   mechanistic_exclude_ids:
   - REF-0445
 - condition: infection
-  note: Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active
-    against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection
+  note: Elecampane root oil and its compounds were active against staphylococci and tuberculosis bacteria
+    in the lab (preclinical)
   reference_ids:
   - REF-0445
   - REF-0539
   - REF-0540
   status: verified
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Elecampane sesquiterpene lactones reduced inflammation in arthritis models and human immune cells
+    (preclinical)
   reference_ids:
   - REF-0538
   status: needs-review
 - condition: respiratory-support
-  note: inferred from expectorant action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
+  note: Traditionally used for respiratory ailments in Irish folk medicine (as stated in a lab study);
+    its root compounds were antibacterial in the lab (preclinical)
+  reference_ids:
   - REF-0445
+  status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -263,4 +262,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antim
   "respiratory and dermal ailments" in Irish ethnomedicine) removed from bronchitis and wounds;
   retagged preclinical. REF-0539 (anti-staphylococcal essential oil) removed from wounds.
   | 2026-11-10: symptom-source audit batch 9 - notes of pairs left mechanistic-only reset to
-  "inferred from ... action".'
+  "inferred from ... action".
+  | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. REF-0445 (states Irish
+  ethnomedical use for respiratory ailments) wired to respiratory-support. Notes rewritten. Grieve
+  elecampane page URL tried 2026-11-12 returned 404 - bronchitis/cough stay inferred from
+  expectorant. Only PubMed trial is a multi-herb syrup (excluded).'

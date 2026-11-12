@@ -141,7 +141,6 @@ actions:
   parts:
   - Flower
   reference_ids:
-  - REF-0342
   - REF-1749
   status: verified
 - action: astringent
@@ -158,7 +157,7 @@ actions:
   parts:
   - Flower
   reference_ids:
-  - REF-1753
+  - REF-1746
   status: verified
 - action: vulnerary
   parts:
@@ -170,19 +169,20 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Historically used for gout, sciatica and joint aches (Herbal Reality)
   reference_ids:
   - REF-0348
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1751
 - condition: bronchitis
-  note: inferred from expectorant action
+  note: Traditionally used for chronic bronchitis and pharyngitis (as stated in a lab study); extracts
+    calmed human immune cells in the lab (preclinical)
   reference_ids:
   - REF-1746
   status: needs-review
 - condition: bruising
-  note: inferred from vulnerary action
+  note: Historically used for bruises (Herbal Reality)
   reference_ids:
   - REF-0348
   status: needs-review
@@ -193,25 +193,27 @@ indications:
   reference_ids: []
   status: needs-review
 - condition: diarrhea
-  note: inferred from astringent action
+  note: Traditionally used for diarrhoea (Herbal Reality)
   reference_ids:
   - REF-0348
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1752
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Traditional anti-inflammatory (Herbal Reality); extracts reduced inflammatory responses of human
+    immune cells in the lab (preclinical)
   reference_ids:
   - REF-0348
   - REF-1746
   status: needs-review
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Traditionally used for catarrh of the upper airways (Herbal Reality)
   reference_ids:
   - REF-0348
   status: needs-review
 - condition: skin-irritation
-  note: inferred from astringent action
+  note: Traditionally used for skin inflammation (as stated in a lab study); extracts calmed human immune
+    cells in the lab (preclinical)
   reference_ids:
   - REF-1746
   status: needs-review
@@ -266,6 +268,7 @@ references:
 - REF-1755
 - REF-1756
 - REF-1757
+- REF-0342
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -311,4 +314,10 @@ internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://om
   (Planta Med 2017; traditional use in chronic bronchitis, pharyngitis and skin inflammation,
   anti-inflammatory in neutrophils) added to bronchitis, inflammation, skin-irritation.
   | 2026-11-10: symptom-source audit batch 9 - notes of pairs left mechanistic-only reset to
-  "inferred from ... action".'
+  "inferred from ... action".
+  | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. Herbal Reality page
+  checked 2026-11-12: names respiratory catarrh, diarrhoea, inflammation, wounds, menorrhagia and
+  historical use for bruises and joint aches. REF-0342 (phytochemistry, no activity) removed from
+  antioxidant; REF-1753 (tracheal smooth-muscle relaxation) removed from expectorant; REF-1746
+  (states traditional mucolytic use for chronic bronchitis) added to expectorant. Gap: heavy
+  menstrual bleeding (Herbal Reality) - traditional only, no pair.'

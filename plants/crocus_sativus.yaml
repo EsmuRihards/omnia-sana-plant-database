@@ -106,115 +106,88 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   - REF-2004
   - REF-2006
   status: verified
 - action: anticancer
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   - REF-2007
   - REF-2008
   status: verified
 - action: antidiabetic
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   - REF-2005
   - REF-2006
   status: verified
 - action: neuroprotective
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
   - REF-2005
   - REF-2009
   status: verified
 - action: sedative
   reference_ids:
-  - REF-0005
   - REF-0115
-  - REF-0172
-  - REF-0789
-  - REF-2001
-  - REF-2002
-  - REF-2003
   - REF-2010
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Saffron reduced osteoarthritis symptoms, inflammation and painkiller use in a small randomized
+    trial
+  reference_ids:
+  - REF-3519
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0005
-  - REF-0172
   - REF-0115
 - condition: cancer
-  note: inferred from anticancer action
+  note: Saffron and its compounds slowed tumours in lab and animal studies (reviews)
   reference_ids:
   - REF-2007
   - REF-2008
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0005
-  - REF-0172
 - condition: cognitive-function
-  note: inferred from neuroprotective action
-  reference_ids: []
+  note: Saffron improved cognition vs placebo over 16 weeks in mild-to-moderate Alzheimer's disease (randomized
+    trial)
+  reference_ids:
+  - REF-3523
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0005
-  - REF-0172
   - REF-0115
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Described as anti-inflammatory in Avicenna's Canon; saffron compounds reduced inflammation in
+    lab and animal studies (historical review)
   reference_ids:
   - REF-0115
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0005
-  - REF-0172
 - condition: insomnia
-  note: inferred from sedative action
+  note: A standardised saffron extract improved subjective and objective sleep quality in older adults
+    with sleep complaints (randomized trial); described as hypnotic in Avicenna's Canon (historical review)
   reference_ids:
   - REF-0115
+  - REF-3518
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0005
-  - REF-0172
-  - REF-0789
-  - REF-2001
-  - REF-2002
-  - REF-2003
   - REF-2010
 - condition: memory
-  note: inferred from neuroprotective action
-  reference_ids: []
+  note: Saffron improved cognition, including memory tests, vs placebo in mild-to-moderate Alzheimer's
+    disease (randomized trial)
+  reference_ids:
+  - REF-3523
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0005
-  - REF-0172
   - REF-0115
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0005
-  - REF-0172
   - REF-0115
 - condition: depression
   note: RCTs and a meta-analysis report that saffron (stigma, and petal in one trial) improves symptoms
@@ -226,6 +199,38 @@ indications:
   - REF-0789
   - REF-2001
   - REF-2002
+  - REF-3517
+  status: verified
+- condition: anxiety
+  note: Saffron reduced self-rated anxiety in a GRADE-assessed meta-analysis of randomized trials and
+    in a trial in healthy adults; clinician-rated scores did not change significantly
+  reference_ids:
+  - REF-3517
+  - REF-2002
+  status: verified
+- condition: pms
+  note: Saffron eased premenstrual syndrome symptoms vs placebo in a randomized trial and a meta-analysis
+  reference_ids:
+  - REF-3520
+  - REF-3521
+  status: verified
+- condition: menstrual-cramps
+  note: Saffron reduced period pain (dysmenorrhoea) in a meta-analysis of randomized trials
+  reference_ids:
+  - REF-3521
+  status: verified
+- condition: metabolic-support
+  note: Saffron improved fasting glucose, HbA1c, cholesterol and blood pressure in metabolic syndrome
+    (meta-analysis of randomized trials)
+  reference_ids:
+  - REF-3522
+  status: verified
+- condition: blood-sugar
+  note: Saffron lowered fasting glucose and HbA1c vs placebo in diabetes (meta-analyses of randomized
+    trials)
+  reference_ids:
+  - REF-2502
+  - REF-3522
   status: verified
 contraindications:
 - note: Culinary use is entirely safe. At very high doses (5g+), saffron can be toxic - but such doses
@@ -373,4 +378,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 5 - REF-0115 is Hosseinzadeh & Nassiri-Asl 2013
   (Avicenna Canon of Medicine and saffron, PubMed 22815242): names antidepressant, hypnotic,
   anti-inflammatory, hepatoprotective, bronchodilatory, emmenagogue uses - kept for insomnia and
-  inflammation, removed from 7 pairs.'
+  inflammation, removed from 7 pairs.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. Depression RCTs
+  REF-0005/REF-0172 were filed under six unrelated actions, and depression reviews/RCTs
+  REF-0789/2001/2002 plus the ADHD trial REF-2003 under "sedative" - removed (still cited for
+  depression / in references). Added: GRADE MA REF-3517 (depression; new anxiety pair with
+  REF-2002), sleep RCT REF-3518 (insomnia), OA RCT REF-3519 (arthritis), AD RCT REF-3523
+  (cognition, memory). New pairs (owner rule): pms (REF-3520 RCT, REF-3521 MA), menstrual-cramps
+  (REF-3521), metabolic-support (REF-3522), blood-sugar (held MA REF-2502 + REF-3522).'

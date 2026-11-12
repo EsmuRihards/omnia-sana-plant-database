@@ -129,10 +129,13 @@ indications:
   mechanistic_exclude_ids:
   - REF-2153
 - condition: immune-support
-  reference_ids: []
+  reference_ids:
+  - REF-3525
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2153
+  note: C. militaris increased natural killer cell activity and lymphocyte proliferation vs placebo in
+    healthy men (randomized trial)
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -245,4 +248,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   spore powder (over-maturity); sourced to Out-Grow (REF-3236). Safety cross-link to the FATAL poison fire
   coral (Podostroma cornu-damae) for wild harvest. Existing harvesting.season not inherited.
   | 2026-11-10: symptom-source audit batch 5 - REF-0111 purged: the RCT tested a 6-mushroom blend
-  containing C. militaris, not C. militaris alone.'
+  containing C. militaris, not C. militaris alone.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. Kang 2015 RCT REF-3525
+  (NK activity, lymphocyte proliferation) added to immune-support. Cordyceps sinensis
+  (Ophiocordyceps) trials not used - other species. 2024 beverage RCT 38580687 not added
+  (within-group changes only).'

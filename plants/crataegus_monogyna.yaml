@@ -140,8 +140,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0082
-  - REF-2442
   - REF-1709
   status: verified
 - action: anticancer
@@ -150,8 +148,6 @@ actions:
   status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0082
-  - REF-2442
   - REF-1709
   - REF-1710
   - REF-1711
@@ -163,18 +159,14 @@ actions:
 - action: sedative
   reference_ids:
   - REF-0082
-  - REF-2442
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0082
-  - REF-2442
 - condition: cancer
-  note: inferred from anticancer action
+  note: Hawthorn extract showed anti-leukaemia activity in lab studies (preclinical)
   reference_ids:
   - REF-0785
   status: needs-review
@@ -183,27 +175,25 @@ indications:
   - REF-0082
   - REF-2442
   status: verified
+  null_result_ids:
+  - REF-3514
+  - REF-3515
+  note: Hawthorn extract improved symptoms and exercise capacity as add-on treatment for chronic heart
+    failure (Cochrane review); two large trials (SPICE, HERB CHF) found no benefit on their main outcomes;
+    traditionally used for nervous heart complaints (EU herbal monograph)
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0082
-  - REF-2442
 - condition: insomnia
-  note: inferred from sedative action
+  note: Traditionally used to aid sleep (EU herbal monograph)
   reference_ids:
   - REF-0082
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2442
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0082
-  - REF-2442
 contraindications:
 - note: Generally well tolerated. Hawthorn should not replace prescribed cardiac medications without medical
     supervision. May potentiate the effects of cardiac glycosides (digoxin), antihypertensive drugs, and
@@ -307,4 +297,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   added harvest_readiness for flower (verified: Woodland Trust REF-3237 + PFAF REF-3238, spring blossom),
   leaf (provisional, REF-3237, young leaves first in spring, folium cum flore), fruit (provisional, PFAF
   REF-3238, haws ripen in autumn). No harvesting.season inherited as fact; each signal re-derived from a
-  fetched verbatim quote with the binomial confirmed. No dangerous_lookalikes on this plant.'
+  fetched verbatim quote with the binomial confirmed. No dangerous_lookalikes on this plant.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. SPICE REF-3514 and
+  HERB CHF REF-3515 recorded as no-effect for cardiovascular-support. Cochrane REF-2442 and EU
+  monograph REF-0082 removed from actions they do not support (anti-inflammatory, antioxidant;
+  REF-2442 also sedative).'

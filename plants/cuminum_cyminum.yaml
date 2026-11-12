@@ -79,202 +79,74 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0008
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0654
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0008
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0654
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
   - REF-0657
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0008
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0654
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
   - REF-0657
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0008
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0654
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
   - REF-0656
   status: verified
 - action: digestive
   reference_ids:
   - REF-0008
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0654
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
   - REF-0656
   status: verified
 indications:
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditionally used for flatulence (review of ethnopharmacology)
   reference_ids:
   - REF-0008
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
-  - REF-0654
   - REF-0656
 - condition: indigestion
-  note: inferred from digestive action
+  note: Traditionally used for dyspepsia (review of ethnopharmacology)
   reference_ids:
   - REF-0008
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
-  - REF-0654
   - REF-0656
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Antimicrobial activity reported in lab studies (review)
   reference_ids:
   - REF-0008
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
-  - REF-0654
   - REF-0657
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory activity reported in lab and animal studies (review)
   reference_ids:
   - REF-0008
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
-  - REF-0286
-  - REF-0307
-  - REF-0654
 - condition: metabolic-support
   reference_ids:
   - REF-0008
   - REF-0158
   - REF-0653
+  - REF-3528
   status: verified
   null_result_ids:
   - REF-0654
   - REF-0655
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
+  note: Cumin improved blood glucose, triglycerides and waist size in some meta-analyses of trials and
+    helped weight loss as much as orlistat in one trial; another meta-analysis and a trial of cumin oil
+    found no effect on glycaemic markers or most metabolic-syndrome components
+- condition: high-cholesterol
+  note: Cumin lowered total cholesterol and some other blood lipids in meta-analyses of randomized trials
   reference_ids:
-  - REF-0008
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0026
-  - REF-0066
-  - REF-0067
-  - REF-0116
-  - REF-0147
-  - REF-0156
-  - REF-0158
-  - REF-0171
-  - REF-0175
-  - REF-0267
+  - REF-0652
   - REF-0286
-  - REF-0307
-  - REF-0654
-  - REF-0656
+  status: verified
 contraindications:
 - note: Food amounts are generally considered safe; in the US it’s listed as GRAS as a spice/flavoring
     (LactMed, 2025).
@@ -381,6 +253,26 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   null_result_ids for metabolic-support. REF-0286/REF-0652 (lipid-only meta-analyses) removed from
   metabolic-support. REF-0656 (bowel motility after surgery) is not bloating/indigestion evidence.
   REF-0008 (Allaq 2020) full text names flatulence, dyspepsia, antispasmodic, antimicrobial,
-  anti-inflammatory, antidiabetic - removed from arthritis, menstrual-cramps, skin, wounds.'
+  anti-inflammatory, antidiabetic - removed from arthritis, menstrual-cramps, skin, wounds.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. All five actions
+  carried the same ~15-ref bucket: allergy reviews (REF-0026, REF-0156), EU Official Journal texts
+  (REF-0066/0067), a Latvian dictionary (REF-0116), history/blog pieces (REF-0147/0175/0267/0307),
+  an alpha-synuclein study (REF-0171), the null glycaemic MA REF-0654 and clinical MAs
+  REF-0286/REF-0158 - removed (kept in references or still cited for their pairs). REF-0286
+  repaired (its url pointed to an unrelated variational-autoencoder paper; it is
+  Tavakoli-Rouzbehani 2022, PMID 34825421); REF-0158 and REF-0026 DOIs fixed (trailing "/full").
+  New high-cholesterol pair (owner rule; REF-0652, REF-0286). Weight-loss RCT REF-3528 added to
+  metabolic-support. Muscle-spasm dropped: REF-0008''s "antispasmodic" is gut smooth muscle
+  (off-target, inv. 11).'
 references:
 - REF-0652
+- REF-0026
+- REF-0066
+- REF-0067
+- REF-0116
+- REF-0147
+- REF-0156
+- REF-0175
+- REF-0267
+- REF-0307
+- REF-0171

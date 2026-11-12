@@ -152,7 +152,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0419
 - condition: cancer
-  note: inferred from anticancer action
+  note: Leaf extract slowed cervical cancer cells in the lab (preclinical)
   reference_ids:
   - REF-1995
   status: needs-review
@@ -241,4 +241,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pla
   removed from 8 pairs. REF-0420 (Drugs.com, 403) removed from every symptom as unverifiable.
   REF-0421 (NIH LactMed) kept for lactation-support; page blocks automated reading - flagged for
   owner spot-check. Re-sourcing candidate: EU monograph Cnici benedicti herba (loss of appetite,
-  dyspeptic complaints).'
+  dyspeptic complaints).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. Cancer note rewritten.
+  No trials on PubMed. Gap: EU monograph uses (loss of appetite, dyspepsia) have no source held.'

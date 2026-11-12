@@ -1,0 +1,552 @@
+# Landmark search batch 5
+
+## cnicus-benedictus (Cnicus benedictus; Blessed Thistle) - 0 (+CT) hits; query: ("Cnicus benedictus"[tiab] OR "Blessed Thistle"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## coffea-arabica (Coffea arabica; Coffee (Arabica & Robusta)) - 15 (+CT) hits; query: ("Coffea arabica"[tiab] OR "Coffee (Arabica & Robusta)"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41909045 | Clinical Trial | Potential lipid-lowering effects of Coffea arabica pulp extract product in hyperlipidemia-obese subjects: a randomized double-blind placebo-controlled trial.
+- new | 2026 | 42234539 | RCT | An extract from whole Coffea arabica coffee cherry improves time trial performance, but not muscle glycogen resynthesis, in trained cyclists.
+- new | 2026 | 41250572 | SR | Volatilome of fermented and roasted Coffea arabica in Brazil: a systematic review of the influence of microbiota and fermentative processes.
+- new | 2025 | 40077768 | SR | Exploring Antioxidant Properties of Standardized Extracts from Medicinal Plants Approved by the Thai FDA for Dietary Supplementation.
+- new | 2025 | 40058902 | SR | Omics approaches to explore the coffee fermentation microecosystem and its effects on cup quality.
+- new | 2023 | 34553656 | SR/MA | Acids in coffee: A review of sensory measurements and meta-analysis of chemical composition.
+- new | 2022 | 36275513 | SR | Somatic embryogenesis of Arabica coffee in temporary immersion culture: Advances, limitations, and perspectives for mass propagation of selected genotypes.
+- new | 2022 | 35220641 | RCT | Modulation of autophagy by an innovative phytocosmetic preparation (Myrothamnus flabelifolia and Coffea arabica) in human fibroblasts and its effects in a clinical random
+- new | 2021 | 34691093 | SR | Climate Change and Coffee Quality: Systematic Review on the Effects of Environmental and Management Variation on Secondary Metabolites and Sensory Attributes of Coffea ar
+- new | 2019 | 31290518 | RCT | Antioxidant dietary fiber isolated from spent coffee (Coffea arabica L.) grounds improves chronotype and circadian locomotor activity in young adults.
+- new | 2017 | 28226316 |  | Clinical Evidence of Increase in Hair Growth and Decrease in Hair Loss without Adverse Reactions Promoted by the Commercial Lotion ECOHAIR®.
+- new | 2014 | 24797657 | RCT | IQP-GC-101 reduces body weight and body fat mass: a randomized, double-blind, placebo-controlled study.
+- new | 2010 | 21120255 | RCT | A double-blind, randomized, controlled clinical trial evaluating the efficacy and tolerance of a novel phenolic antioxidant skin care system containing Coffea arabica and
+- new | 1996 | 9035968 | Clinical Trial/RCT | [Use of a Coffea arabica tosta extract for the prevention and therapy of polyfactorial infectious diseases in newborn calves].
+- new | 1995 | 7782725 | Clinical Trial/RCT | Diterpene composition of oils from Arabica and Robusta coffee beans and their effects on serum lipids in man.
+
+## cordyceps-militaris (Cordyceps militaris; Cordyceps) - 37 (+CT) hits; query: ("Cordyceps militaris"[tiab] OR "Cordyceps"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42455764 | RCT | Acute Cordyceps militaris supplementation and elevated resting oxygen uptake with faster reaction times: A randomized crossover trial.
+- new | 2025 | 40590148 | RCT | Effect of a New Skin-Lightening Cosmetic Containing Cordyceps Extract in the Treatment of Melasma: A Clinical Trial.
+- new | 2025 | 40289452 | SR | Edible and Medicinal Fungi as Candidate Natural Antidepressants: Mechanisms and Nutritional Implications.
+- new | 2024 | 38501161 | RCT | Cordyceps sinensis accelerates stem cell recruitment to human skeletal muscle after exercise.
+- new | 2024 | 38484953 | MA/SR | Adjuvant treatment with Cordyceps sinensis for lung cancer: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2024 | 38580687 | RCT | A randomized controlled clinical trial examining the effects of Cordyceps militaris beverage on the immune response in healthy adults.
+- new | 2024 | 39510481 | SR | A systematic review on polysaccharides from fermented Cordyceps sinensis: Advances in the preparation, structural characterization, bioactivities, structure-activity rela
+- new | 2024 | 38931190 | RCT | Effect of the Administration of Cordyceps militaris Mycelium Extract on Blood Markers for Anemia in Long-Distance Runners.
+- new | 2024 | 39839641 | SR | Efficacy of traditional Chinese medicine Cordyceps sinensis as an adjunctive treatment in patients with renal dysfunction: a systematic-review and meta-analysis.
+- new | 2022 | 36500262 | SR | Effect of Cordyceps spp. and Cordycepin on Functions of Bones and Teeth and Related Processes: A Review.
+- new | 2022 | 36374982 | RCT | Efficacy of Cordyceps cicadae (Ascomycota) Mycelium Supplementation for Amelioration of Dry Eye Symptoms: A Randomized, Double-Blind Clinical Pilot Study.
+- new | 2021 | 32702252 | RCT | Safety Assessment of HEA-Enriched Cordyceps cicadae Mycelium: A Randomized Clinical Trial.
+- new | 2021 | 33078636 | RCT | Effects of Concurrent Training and a Multi-Ingredient Performance Supplement Containing Rhodiola rosea and Cordyceps sinensis on Body Composition, Performance, and Health
+- new | 2021 | 34914281 | RCT | [Cordyceps sinensis combined with Jujing Pills for male infertility].
+- new | 2019 | 32186018 | MA/SR | Efficacy of Cordyceps sinensis as an adjunctive treatment in hemodialysis patients: a systematic review and Meta-analysis.
+- new | 2019 | 31623349 | RCT | Rhodiola/Cordyceps-Based Herbal Supplement Promotes Endurance Training-Improved Body Composition But Not Oxidative Stress and Metabolic Biomarkers: A Preliminary Randomiz
+- new | 2019 | 31049139 | Clinical Trial | Cordyceps militaris Improves Chronic Kidney Disease by Affecting TLR4/NF-κB Redox Signaling Pathway.
+- new | 2019 | 30925876 | RCT | Immunomodulatory effects of a mycelium extract of Cordyceps (Paecilomyces hepiali; CBG-CS-2): a randomized and double-blind clinical trial.
+- new | 2017 | 28137532 | MA/SR | Efficacy of Cordyceps sinensis as an adjunctive treatment in kidney transplant patients: A systematic-review and meta-analysis.
+- new | 2015 | 26457607 | MA/SR | Cordyceps sinensis (a traditional Chinese medicine) for kidney transplant recipients.
+- new | 2015 | 26427112 | RCT | Effect of Dongchongxiacao (Cordyceps) therapy on contrast-induced nephropathy in patients with type 2 diabetes and renal insufficiency undergoing coronary angiography.
+- new | 2015 | 25682973 | MA | Use of Ophiocordyceps sinensis (syn. Cordyceps sinensis) combined with angiotensin-converting enzyme inhibitors (ACEI)/angiotensin receptor blockers (ARB) versus ACEI/ARB
+- new | 2015 | 26284906 | RCT | Cordyceps militaris Enhances Cell-Mediated Immunity in Healthy Korean Men.
+- new | 2014 | 25519252 | MA/SR | Cordyceps sinensis (a traditional Chinese medicine) for treating chronic kidney disease.
+- new | 2014 | 25251930 |  | Rhodiola crenulata- and Cordyceps sinensis-based supplement boosts aerobic exercise performance after short-term high altitude training.
+- new | 2013 | 24024319 | RCT | Role of dongchongxiacao (Cordyceps) in prevention of contrast-induced nephropathy in patients with stable angina pectoris.
+- new | 2011 | 21196310 | Clinical Trial | Efficacy of Cordyceps sinensis in long term treatment of renal transplant patients.
+- new | 2010 | 20804368 | RCT | Effect of Cs-4 (Cordyceps sinensis) on exercise performance in healthy older subjects: a double-blind, placebo-controlled trial.
+- new | 2009 | 19545680 | RCT | Clinical application of Cordyceps sinensis on immunosuppressive therapy in renal transplantation.
+- new | 2009 | 20329604 |  | [Clinical application and exploration on mechanism of action of Cordyceps sinensis mycelia preparation for renal transplantation recipients].
+- new | 2008 | 18655556 | RCT | [Effect of combined therapy with hypha Cordyceps and ginkgo leaf tablet on micro-inflammation in patients undergoing maintenance hemodialysis].
+- new | 2005 | 15903375 | Clinical Trial/RCT | Cordyceps sinensis- and Rhodiola rosea-based supplementation in male cyclists and its effect on muscle tissue oxygen saturation.
+- new | 2004 | 15118196 | Clinical Trial/RCT | Cordyceps Sinensis (CordyMax Cs-4) supplementation does not improve endurance exercise performance.
+- new | 2002 | 12585097 | Clinical Trial/RCT | [Study on effect of Cordyceps sinensis and artemisinin in preventing recurrence of lupus nephritis].
+- new | 1995 | 7724020 | Clinical Trial/RCT | Amelioration of cyclosporin nephrotoxicity by Cordyceps sinensis in kidney-transplanted recipients.
+- new | 1994 | 7950209 | Clinical Trial/RCT | [Amelioration of aminoglycoside nephrotoxicity by Cordyceps sinensis in old patients].
+- new | 1985 | 2938807 | Clinical Trial/RCT | [Treatment of hyperlipidemia with cultivated Cordyceps--a double-blind, randomized placebo control trial].
+
+## coriandrum-sativum (Coriandrum sativum; Coriander) - 18 (+CT) hits; query: ("Coriandrum sativum"[tiab] OR "Coriander"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42828686 | RCT | Salivary microbiome responses to chlorhexidine and Coriandrum sativum essential oil mouthwashes in patients with periodontitis in a randomized 2-week clinical trial.
+- new | 2025 | 41124411 | SR | Antibacterial potential of Coriandrum sativum essential oil against foodborne pathogens: A systematic review.
+- new | 2025 | 39951927 | RCT | Efficacy of an Iranian herbal medicine formula for postoperative constipation in trauma patients with hip and lower limb fractures: A triple-blind, placebo-controlled ran
+- new | 2024 | 38981452 | RCT | The Efficacy of the Herbal Formula of Bunium persicum and Coriandrum sativum on Clinical Symptoms of Patients with Functional Dyspepsia: A Double-Blind Randomized Control
+- new | 2023 | 37432178 | SR | Mexican Plants Involved in Glucose Homeostasis and Body Weight Control: Systematic Review.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2022 | 35554788 | SR | Systematic review of preclinical studies about effects of Coriandrum sativum L. on inflammatory mediators.
+- new | 2022 | 34359086 | SR | Medicinal Plants for Prophylaxis and Therapy of Common Infectious Diseases In Poultry-A Systematic Review of In Vivo Studies.
+- new | 2021 | 33486683 | MA/SR | Accumulation of potentially harmful elements (PHEs) in lettuce (Lactuca sativa L.) and coriander (Coriandrum sativum L.) irrigated with wastewater: a systematic review an
+- new | 2020 | 32388299 | MA | Cadmium uptake from soil and transport by leafy vegetables: A meta-analysis.
+- new | 2018 | 30150192 | RCT | Supplementation of garlic and coriander seed powder: Impact on body mass index, lipid profile and blood pressure of hyperlipidemic patients.
+- new | 2017 | 27678135 |  | Effects of dietary mixture of garlic (Allium sativum), coriander (Coriandrum sativum) and probiotics on immune responses and caecal counts in young laying hens.
+- new | 2015 | 25911964 | SR | Antibacterial Activity of Essential Oils and Their Isolated Constituents against Cariogenic Bacteria: A Systematic Review.
+- new | 2013 | 23466353 | RCT | Topical treatment of tinea pedis using 6% coriander oil in unguentum leniens: a randomized, controlled, comparative pilot study.
+- new | 2013 | 23337964 | RCT | [Antiinflammatory potential of seven plant extracts in the ultraviolet erythema test. A randomized, placebo-controlled study].
+- new | 2012 | 21815228 | RCT | Antimicrobial activity against bacteria with dermatological relevance and skin tolerance of the essential oil from Coriandrum sativum L. fruits.
+- new | 2008 | 18371049 | RCT | Anti-inflammatory potential of a lipolotion containing coriander oil in the ultraviolet erythema test.
+- new | 2006 | 16868824 | RCT | The efficacy of an herbal medicine, Carmint, on the relief of abdominal pain and bloating in patients with irritable bowel syndrome: a pilot study.
+
+## crataegus-laevigata (Crataegus laevigata; Midland Hawthorn) - 4 (+CT) hits; query: ("Crataegus laevigata"[tiab] OR "Midland Hawthorn"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 41194549 | RCT | Effects of a Scutellaria baicalensis/Crataegus laevigata, magnesium and chromium supplement on stressed individuals: A randomised, double-blind, placebo-controlled, cross
+- new | 2011 | 21737127 | RCT | Effects of hawthorn (Crataegus laevigata) on platelet aggregation in healthy volunteers.
+- new | 2011 | 21242072 | RCT | Crataegus laevigata decreases neutrophil elastase and has hypolipidemic effect: a randomized, double-blind, placebo-controlled trial.
+- new | 2006 | 16762125 | RCT | Hypotensive effects of hawthorn for patients with diabetes taking prescription drugs: a randomised controlled trial.
+
+## crataegus-monogyna (Crataegus monogyna; Hawthorn) - 17 (+CT) hits; query: ("Crataegus monogyna"[tiab] OR "Hawthorn"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42694165 | Clinical Trial | The effect of hawthorn vinegar, black mulberry syrup, and green tea on oral mucositis and oral health-related quality of life in individuals with diabetes: a single-blind
+- new | 2025 | 40573097 | RCT | Effects of Hawthorn Fruit Supplementation on Facial Skin Phenotypes and Leukocyte Telomere Length Stratified by TERT Polymorphisms.
+- new | 2024 | 39209360 | RCT | Effect of vitamin C and hawthorn beverage formula on blood pressure and oxidative stress in heat-exposed workers: a cluster-randomized controlled trial.
+- new | 2019 | 31255877 | MA/SR | The combination of hawthorn extract and camphor significantly increases blood pressure: A meta-analysis and systematic review.
+- new | 2018 | 29672935 | RCT | Electrocardiographic effects of hawthorn (Crataegus oxyacantha) in healthy volunteers: A randomized controlled trial.
+- new | 2012 | 22458601 | RCT | Effect of hawthorn standardized extract on flow mediated dilation in prehypertensive and mildly hypertensive adults: a randomized, controlled cross-over trial.
+- new | 2011 | 21737127 | RCT | Effects of hawthorn (Crataegus laevigata) on platelet aggregation in healthy volunteers.
+- new | 2010 | 21591320 | RCT | [Hawthorn extract WS 1442 in the treatment of patients with heart failure and LVEF of 25%-35%].
+- new | 2009 | 18769933 | Clinical Trial | Radioprotective effects of Hawthorn against genotoxicity induced by gamma irradiation in human blood lymphocytes.
+- new | 2009 | 19789403 | RCT | Hawthorn Extract Randomized Blinded Chronic Heart Failure (HERB CHF) trial.
+- HELD REF-2442 | 2008 | 18254076 | MA/SR | Hawthorn extract for treating chronic heart failure.
+- new | 2006 | 16762125 | RCT | Hypotensive effects of hawthorn for patients with diabetes taking prescription drugs: a randomised controlled trial.
+- new | 2005 | 15700798 | MA | [Meta-analysis of randomized clinical studies. Hawthorn extract for treatment of chronic cardiac insufficiency].
+- new | 2003 | 12798455 | MA | Hawthorn extract for treating chronic heart failure: meta-analysis of randomized trials.
+- new | 2003 | 12817526 | Clinical Trial/RCT | Interaction study between digoxin and a preparation of hawthorn (Crataegus oxyacantha).
+- new | 2002 | 11807965 | Clinical Trial/RCT | Promising hypotensive effect of hawthorn extract: a randomized double-blind pilot study of mild, essential hypertension.
+- new | 1965 | 5331286 | Clinical Trial | [The therapeutic effect of hawthorn extract in myocardial hypoxia].
+
+## crocus-sativus (Crocus sativus; Saffron) - 171 hits; query: ("Crocus sativus"[tiab] OR "Saffron"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41693488 | SR/MA | Effect of saffron on depression, anxiety and mood disorder: a GRADE assessed systematic review and meta-analysis of 34 randomized controlled trials.
+- new | 2026 | 41439298 | RCT | The effect of saffron supplementation on indices of oxidative stress, inflammation, mental health, and quality of life in patients with Parkinson's disease: a randomized,
+- new | 2026 | 42594967 | SR | Does Crocus sativus (Saffron) Have an Influence or Effect on Ocular Health: A Systematic Literature Review.
+- new | 2026 | 42858054 | SR | Efficacy and Safety of Saffron and Ashwagandha for Stress-Related Mental Health Outcomes: A Systematic Review of Randomized Controlled Trials.
+- new | 2026 | 40792566 | SR | Combating saffron fraud: a systematic review of adulteration practices, detection technologies, recommendations and challenges.
+- new | 2026 | 42895808 | RCT | Efficacy of Saffron as an Adjunct to Methylphenidate in Treating ADHD in Children Aged 6-12: A Randomized Clinical Trial.
+- new | 2026 | 40965059 | RCT | Potential Anti-Inflammatory and Analgesic Effects of Saffron in Patients with Osteoarthritis: A Randomized Controlled Trial.
+- HELD REF-0788 | 2025 | 38913392 | MA | Effect of Saffron Versus Selective Serotonin Reuptake Inhibitors (SSRIs) in Treatment of Depression and Anxiety: A Meta-analysis of Randomized Controlled Trials.
+- new | 2025 | 40414301 | RCT | An Examination into the Effects of a Saffron Extract (Affron) on Mood and General Wellbeing in Adults Experiencing Low Mood: A Randomized, Double-Blind, Placebo-Controlle
+- new | 2025 | 39661337 | RCT | Crocus sativus (saffron) adjunct to risperidone for negative symptoms of schizophrenia: a randomized, double-blind, placebo-controlled trial.
+- new | 2025 | 40083108 | SR | Systematic Review and Network Meta-Analysis of the Effects of Plant Extracts on Cognitive Function and Quality of Life in Stroke Patients.
+- new | 2025 | 39632602 | MA/SR | Crocin Supplementation on Inflammation and Oxidative Stress: A Systematic Review and Meta-Analysis.
+- new | 2025 | 39818282 | MA/SR | The effect of saffron supplementation on liver and kidney function, blood glucose and pressure in patients with diabetes and prediabetes: A grade assessed systematic revi
+- new | 2025 | 39931766 | SR/MA | Effects of Saffron Supplementation on Glycolipid Metabolism and Blood Pressure in Patients With Metabolic Syndrome and Related Disorders: A Systematic Review and Meta-Ana
+- new | 2025 | 40077679 | RCT | The Effects of Combined Scutellaria and Saffron Supplementation on Mood Regulation in Participants with Mild-to-Moderate Depressive Symptoms: A Randomized, Double-Blind, 
+- new | 2025 | 40346613 | RCT | The effects of saffron supplementation on inflammation and hematological parameters in patients with sepsis: a randomized controlled trial.
+- new | 2025 | 40762630 | RCT | A standardised saffron extract improves subjective and objective sleep quality in healthy older adults with sleep complaints: results from the gut-sleep-brain axis random
+- new | 2025 | 40819247 | SR | Efficacy of Saffron (Crocus sativus L.) and Its Constituents on Breast Cancer, a Systematic Review of Preclinical Studies and Potential Therapeutic Mechanisms.
+- new | 2025 | 41047129 | RCT | Effect of saffron extract supplementation on mood in healthy adults with subclinical symptoms of depression: a randomized, double-blind placebo-controlled study.
+- new | 2025 | 39754520 | RCT | Therapeutic Potential of Saffron Extract in Mild Depression: A Study of Its Role on Anhedonia in Rats and Humans.
+- new | 2025 | 40842498 | MA/SR | The efficacy of saffron supplementation on inflammation and oxidative stress in patients with type-2 diabetes mellitus: a meta-analysis.
+- new | 2025 | 40400479 | RCT | The effect of crocetin (a saffron carotenoid) supplementation on antioxidant and inflammatory indexes and serum leptin concentration in patients with coronary artery dise
+- new | 2024 | 37864351 | SR | The Effects of Crocus sativus (Saffron) on ADHD: A Systematic Review.
+- new | 2024 | 38424688 | SR/MA | New horizons for the study of saffron (Crocus sativus L.) and its active ingredients in the management of neurological and psychiatric disorders: A systematic review of c
+- new | 2024 | 39577115 | SR | Saffron and its major constituents against neurodegenerative diseases: A mechanistic review.
+- new | 2024 | 39717381 | SR | Phytochemicals in the treatment of patients with depression: a systemic review.
+- new | 2024 | 39295946 | SR | Saffron (Crocus sativus) and its constituents in ovalbumin-induced asthma model: a preclinical systematic review and meta-analysis.
+- new | 2024 | 38485112 | RCT | Saffron therapy for the ongoing treatment of age-related macular degeneration.
+- new | 2024 | 38385429 | RCT | Randomized, Double-Blind, Placebo-Controlled Clinical Trial of Concurrent Use of Crocin During Chemoradiation for Esophageal Squamous Cell Carcinoma.
+- HELD REF-2502 | 2024 | 38559777 | SR | Effect of saffron supplementation on the glycemic outcomes in diabetes: a systematic review and meta-analysis.
+- new | 2024 | 37778521 | MA/SR | Effect of Crocus sativus L. (saffron) and crocin in the treatment of patients with type-2 diabetes mellitus: A systematic review and meta-analysis.
+- new | 2024 | 39227898 | RCT | Crocus Sativus Linnaeus (Saffron) intake does not affect physiological and perceptual responses during a repeated sprint test in healthy active young males.
+- new | 2024 | 38558480 | SR | Therapeutic effects of saffron (Crocus sativus L) on female reproductive system disorders: A systematic review.
+- new | 2024 | 39025034 | RCT | The effect of crocin on movement disorders and oxidative DNA damage in Parkinson's disease: Insights from a randomized controlled trial.
+- new | 2024 | 38874882 | RCT | The effect of 12 weeks of aerobic exercise training with or without saffron supplementation on diabetes-specific markers and inflammation in women with type 2 diabetes: A
+- new | 2024 | 38294505 | RCT | Oral supplementation with crocin (a constituent of saffron) in subjects with cigarette smoking: a clinical trial.
+- new | 2024 | 38408971 | RCT | Effect of vitamin E with and without saffron on the sexual function in women of reproductive age with sexual dysfunction: a randomized controlled trial.
+- new | 2024 | 38999837 | RCT | Effect of Crocus sativus Extract Supplementation in the Metabolic Control of People with Diabetes Mellitus Type 1: A Double-Blind Randomized Placebo-Controlled Trial.
+- new | 2023 | 37033930 | MA/SR | Efficacy and safety of dietary polyphenols in rheumatoid arthritis: A systematic review and meta-analysis of 47 randomized controlled trials.
+- new | 2023 | 36992660 | MA/SR | Effect of saffron and fenugreek on lowering blood glucose: A systematic review with meta-analysis.
+- new | 2023 | 36817799 | SR | Effect of saffron supplementation on oxidative stress markers (MDA, TAC, TOS, GPx, SOD, and pro-oxidant/antioxidant balance): An updated systematic review and meta-analys
+- new | 2023 | 37047914 | SR | Adaptogens on Depression-Related Outcomes: A Systematic Integrative Review and Rationale of Synergism with Physical Activity.
+- new | 2023 | 36580575 | RCT | The effect of saffron (Crocus sativus L.) on glycemia, lipid profile, and antioxidant status in patients with type-2 diabetes mellitus: A randomized placebo-controlled tr
+- new | 2023 | 37427624 | RCT | Co-administration of saffron and chamomile: to determine the efficacy as an adjuvant therapy for mild to moderate depression in human subjects. A pilot randomized clinica
+- new | 2023 | 37264347 | RCT | The effect of Crocus sativus L. (saffron) herbal tea on happiness in postmenopausal women: a randomized controlled trial.
+- new | 2023 | 36628554 | RCT | Effect of crocin of Crocus sativus L. on serum inflammatory markers (IL-6 and TNF-α) in chronic obstructive pulmonary disease patients: a randomised, double-blind, placeb
+- new | 2023 | 37202063 | RCT | The anti-dyslipidemia property of saffron petal hydroalcoholicextract in cardiovascular patients: A double-blinded randomized clinical trial.
+- new | 2023 | 37801956 | RCT | The effect of saffron and corrective exercises on depression and quality of life in women with multiple sclerosis: A randomized controlled clinical trial.
+- new | 2023 | 37447245 | RCT | Acute Effect of a Saffron Extract (Safr'Inside(TM)) and Its Main Volatile Compound on the Stress Response in Healthy Young Men: A Randomized, Double Blind, Placebo-Contro
+- new | 2022 | 36141931 | MA/SR | Crocus Sativus for Insomnia: A Systematic Review and Meta-Analysis.
+- new | 2022 | 35866520 | MA/SR | Effects of saffron (Crocus sativus L.) on anthropometric and cardiometabolic indices in overweight and obese patients: A systematic review and meta-analysis of randomized
+- new | 2022 | 33724127 | MA/SR | Does saffron supplementation have favorable effects on liver function indicators? A systematic review and meta-analysis of randomized controlled trials.
+- new | 2022 | 35990354 | SR | The effects of Crocus sativus L. (Saffron) and its ingredients on dietary intakes in cardiovascular disease in Iranian population: A systematic review and meta-analysis.
+- new | 2022 | 36105788 | MA/SR | The Effect of Saffron (Crocus sativus L.) Supplementation on Renal Function: A Systematic Review and Meta-Analysis of Randomized Controlled Clinical Trials.
+- new | 2022 | 35103929 | MA/SR | The effects of saffron supplementation on the measures of renal function indicators: a systematic review and meta-analysis.
+- new | 2022 | 32013614 | MA | Metabolic impact of saffron and crocin: an updated systematic and meta-analysis of randomised clinical trials.
+- new | 2022 | 36570145 | SR | The effects of saffron supplementation on cardiovascular risk factors in adults: A systematic review and dose-response meta-analysis.
+- new | 2022 | 34757208 | MA/SR | Saffron, as an adjunct therapy, contributes to relieve depression symptoms: An umbrella meta-analysis.
+- new | 2022 | 35331485 | SR | The potential role of saffron (Crocus Sativus L.) and its components in oxidative stress in diabetes mellitus: A systematic review.
+- new | 2022 | 35235859 | RCT | Improvement of inflammatory status following saffron (Crocus sativus L.) and resistance training in elderly hypertensive men: A randomized controlled trial.
+- new | 2022 | 35001410 | RCT | The effects of saffron (Crocus sativus L.) in conjunction with concurrent training on body composition, glycaemic status, and inflammatory markers in obese men with type 
+- new | 2022 | 35325766 | MA | Effects of saffron supplementation on improving sleep quality: a meta-analysis of randomized controlled trials.
+- new | 2022 | 34923214 | SR | The mechanisms of saffron (Crocus sativus') on the inflammatory pathways of diabetes mellitus: A systematic review.
+- new | 2022 | 35767970 | RCT | Efficacy and Safety of Jollab (a Saffron-Based Beverage) on Cancer-Related Fatigue in Breast Cancer Patients: A Double-Blind Randomized Clinical Trial.
+- new | 2022 | 35068330 | RCT | The Effect of Krocina™ on Decreasing Substance User Withdrawal Syndrome, Craving, Depression and Stress: A Double-Blind Randomized Parallel Clinical Trial.
+- new | 2022 | 33151132 | RCT | Evaluation of modulatory effects of saffron (Crocus sativus L.) aqueous extract on oxidative stress in ischemic stroke patients: a randomized clinical trial.
+- new | 2022 | 35813851 | RCT | An examination into the mental and physical effects of a saffron extract (affron®) in recreationally-active adults: A randomized, double-blind, placebo-controlled study.
+- new | 2021 | 33925432 | RCT | Effects of Saffron Extract on Sleep Quality: A Randomized Double-Blind Controlled Clinical Trial.
+- new | 2021 | 34438361 | RCT | An investigation into an evening intake of a saffron extract (affron®) on sleep quality, cortisol, and melatonin concentrations in adults with poor sleep: a randomised, d
+- new | 2021 | 32525606 | MA/SR | Effects of saffron (Crocus sativus L.) supplementation on inflammatory biomarkers: A systematic review and meta-analysis.
+- new | 2021 | 34678576 | MA/SR | Effect of saffron supplementation on liver enzymes: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2021 | 34444896 | MA/SR | The Effect of Saffron Supplementation on Blood Pressure in Adults: A Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials.
+- new | 2021 | 33735877 | MA/SR | The Effect of Saffron Consumption on Liver Function: A Systematic Review and Meta-Analysis of Randomized Controlled Clinical Trials.
+- new | 2021 | 34959826 | SR | Effect of Crocus sativus (Saffron) Intake on Top of Standard Treatment, on Disease Outcomes and Comorbidities in Patients with Rheumatic Diseases: Synthesis without Meta-
+- new | 2021 | 32525777 | SR | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review.
+- new | 2021 | 33556410 | RCT | Impact of saffron (Crocus Sativus Linn) supplementation and resistance training on markers implicated in depression and happiness levels in untrained young males.
+- new | 2021 | 32379589 | SR | Pharmacological Effects of Saffron and its Constituents in Ocular Disorders from in vitro Studies to Clinical Trials: A Systematic Review.
+- new | 2021 | 34164855 | RCT | Amelioration of anxiety, depression, and chemotherapy related toxicity after crocin administration during chemotherapy of breast cancer: A double blind, randomized clinic
+- new | 2021 | 33599345 | RCT | Effect of crocin versus fluoxetine in treatment of mild to moderate obsessive-compulsive disorder: A double blind randomized clinical trial.
+- new | 2021 | 33496985 | RCT | Saffron (Crocus sativus L.) in combination with resistance training reduced blood pressure in the elderly hypertensive men: A randomized controlled trial.
+- new | 2021 | 33015869 | RCT | Effects of saffron supplementation on oxidative/antioxidant status and severity of disease in ulcerative colitis patients: A randomized, double-blind, placebo-controlled 
+- new | 2021 | 33960081 | RCT | Saffron improves life and sleep quality, glycaemic status, lipid profile and liver function in diabetic patients: A double-blind, placebo-controlled, randomised clinical 
+- new | 2021 | 33078480 | RCT | The effect of crocin (the main active saffron constituent) on the cognitive functions, craving, and withdrawal syndrome in opioid patients under methadone maintenance tre
+- new | 2020 | 32736046 | RCT | Evaluation of sedative effects of an intranasal dosage form containing saffron, lettuce seeds and sweet violet in primary chronic insomnia: A randomized, double-dummy, do
+- new | 2020 | 32124509 | SR | Herbal medicines and phytochemicals for obsessive-compulsive disorder.
+- new | 2020 | 32423173 | SR | Impact of Crocus Sativus L. on Metabolic Profile in Patients with Diabetes Mellitus or Metabolic Syndrome: A Systematic Review.
+- new | 2020 | 32221179 | MA/SR | Safety and Efficacy of Saffron (Crocus sativus L.) for Treating Mild to Moderate Depression: A Systematic Review and Meta-analysis.
+- new | 2020 | 31725101 | RCT | Saffron (Crocus sativus L.): A Phytomedicine as Effective as Methylphenidate in Treating ADHD in Children.
+- new | 2020 | 32445136 | SR | Effects of saffron (Crocus sativus L.) on cognitive function. A systematic review of RCTs.
+- new | 2020 | 31987241 | MA | The effects of saffron (Crocus sativus L.) on mental health parameters and C-reactive protein: A meta-analysis of randomized clinical trials.
+- new | 2020 | 32147057 | MA/SR | The effect of Saffron supplementation on waist circumference, HA1C, and glucose metabolism: A systematic review and meta-analysis of randomized clinical trials.
+- new | 2020 | 33167948 | MA/SR | Saffron for mild cognitive impairment and dementia: a systematic review and meta-analysis of randomised clinical trials.
+- new | 2020 | 32114269 | MA/SR | Single fraction radiosurgery, fractionated radiosurgery, and conventional radiotherapy for spinal oligometastasis (SAFFRON): A systematic review and meta-analysis.
+- new | 2020 | 31602695 | RCT | A placebo controlled randomized clinical trial of Crocus sativus L. (saffron) on depression and food craving among overweight women with mild to moderate depression.
+- new | 2020 | 32615663 | RCT | A Randomized, Triple-blind Placebo-controlled Trial to Determine the Effect of Saffron on the Serum Levels of MMP-9 and TIMP-1 in Patients with Multiple Sclerosis.
+- new | 2020 | 31797473 | RCT | Effects of crocin and saffron aqueous extract on gene expression of SIRT1, AMPK, LOX1, NF-κB, and MCP-1 in patients with coronary artery disease: A randomized placebo-con
+- new | 2020 | 32056539 | RCT | Effects of saffron on sleep quality in healthy adults with self-reported poor sleep: a randomized, double-blind, placebo-controlled trial.
+- new | 2020 | 32798261 | RCT | The effect of saffron supplementation on some inflammatory and oxidative markers, leptin, adiponectin, and body composition in patients with nonalcoholic fatty liver dise
+- new | 2020 | 32408117 | RCT | Effects of saffron supplementation on glycemia and inflammation in patients with type 2 diabetes mellitus: A randomized double-blind, placebo-controlled clinical trial st
+- new | 2020 | 32048365 | RCT | The effect of saffron supplement on clinical outcomes and metabolic profiles in patients with active rheumatoid arthritis: A randomized, double-blind, placebo-controlled 
+- HELD REF-2003 | 2019 | 30741567 | RCT | Crocus sativus L. Versus Methylphenidate in Treatment of Children with Attention-Deficit/Hyperactivity Disorder: A Randomized, Double-Blind Pilot Study.
+- new | 2019 | 31027364 | SR | Saffron: The Golden Spice with Therapeutic Properties on Digestive Diseases.
+- new | 2019 | 31779990 | MA/SR | The effect of saffron supplementation on blood glucose and lipid profile: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2019 | 30502528 | MA/SR | Clinical evidence on the effects of saffron (Crocus sativus L.) on cardiovascular risk factors: A systematic review meta-analysis.
+- new | 2019 | 31264281 | MA/SR | The effect of saffron on weight and lipid profile: A systematic review, meta-analysis, and dose-response of randomized clinical trials.
+- HELD REF-2535 | 2019 | 30036891 | MA/Review | The Efficacy of Saffron in the Treatment of Mild to Moderate Depression: A Meta-analysis.
+- new | 2019 | 30942510 | RCT | The effect of hydroalcoholic Saffron (Crocus sativus L.) extract on fasting plasma glucose, HbA1c, lipid profile, liver, and renal function tests in patients with type 2 
+- new | 2019 | 31677703 | RCT | Effect of saffron (Crocus sativus L.) on lipid profile, glycemic indices and antioxidant status among overweight/obese prediabetic individuals: A double-blinded, randomiz
+- new | 2019 | 31669837 | RCT | Crocus Sativus L. (saffron) versus sertraline on symptoms of depression among older people with major depressive disorders-a double-blind, randomized intervention study.
+- new | 2019 | 31618812 | RCT | Antioxidant Saffron and Central Retinal Function in ABCA4-Related Stargardt Macular Dystrophy.
+- new | 2019 | 30795753 | RCT | An evaluation of the effects of saffron supplementation on the asthma clinical symptoms and asthma severity in patients with mild and moderate persistent allergic asthma:
+- new | 2019 | 31475623 | RCT | Efficacy of a standardised saffron extract (affron®) as an add-on to antidepressant medication for the treatment of persistent depressive symptoms in adults: A randomised
+- new | 2019 | 30914350 | RCT | Protective properties of the aqueous extract of saffron (Crocus sativus L.) in ischemic stroke, randomized clinical trial.
+- new | 2019 | 30343354 | RCT | Saffron therapy for the treatment of mild/moderate age-related macular degeneration: a randomised clinical trial.
+- new | 2019 | 30798790 | RCT | Stepped approach to improving sexual function after gynaecological cancer: the SAFFRON feasibility RCT.
+- HELD REF-2547 | 2018 | 29575228 | SR | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review.
+- new | 2018 | 29289576 | SR | Botanicals and phytochemicals active on cognitive decline: The clinical evidence.
+- new | 2018 | 29543538 | RCT | The Effect of Saffron on Depression among Recovered Consumers of Methamphetamine Living with HIV/AIDS.
+- new | 2018 | 30136324 | SR | Phytotherapic use of the Crocus sativus L. (Saffron) and its potential applications: A brief overview.
+- new | 2018 | 29332222 | RCT | Efficacy of Crocus sativus (saffron) in treatment of major depressive disorder associated with post-menopausal hot flashes: a double-blind, randomized, placebo-controlled
+- new | 2018 | 29510352 | RCT | affron(®), a standardised extract from saffron (Crocus sativus L.) for the treatment of youth anxiety and depressive symptoms: A randomised, double-blind, placebo-control
+- new | 2018 | 30509713 | RCT | An evaluation of the effect of saffron supplementation on the antibody titer to heat-shock protein (HSP) 70, hsCRP and spirometry test in patients with mild and moderate 
+- new | 2018 | 29185780 | RCT | Effects of Saffron on Cognition, Anxiety, and Depression in Patients Undergoing Coronary Artery Bypass Grafting: A Randomized Double-Blind Placebo-Controlled Trial.
+- HELD REF-2002 | 2017 | 28735826 | RCT | affron(®) a novel saffron extract (Crocus sativus L.) improves mood in healthy adults over 4 weeks in a double-blind, parallel, randomized, placebo-controlled clinical tr
+- new | 2017 | 29157808 | RCT | A double-blind, randomized, placebo-controlled trial of saffron stigma (Crocus sativus L.) in mothers suffering from mild-to-moderate postpartum depression.
+- new | 2017 | 27701683 | RCT | Crocus sativus L. versus Citalopram in the Treatment of Major Depressive Disorder with Anxious Distress: A Double-Blind, Controlled Clinical Trial.
+- new | 2017 | 27595298 | RCT | Comparison of Saffron versus Fluoxetine in Treatment of Mild to Moderate Postpartum Depression: A Double-Blind, Randomized Clinical Trial.
+- new | 2017 | 28637418 | RCT | Anti-Inflammatory Effect of Crocus sativus on Serum Cytokine Levels in Subjects with Metabolic Syndrome: A Randomized, Double-Blind, Placebo- Controlled Trial.
+- new | 2017 | 27723543 | RCT | Efficacy of curcumin, and a saffron/curcumin combination for the treatment of major depression: A randomised, double-blind, placebo-controlled study.
+- new | 2017 | 29188854 | RCT | Short-Term Impact of a Combined Nutraceutical on Cognitive Function, Perceived Stress and Depression in Young Elderly with Cognitive Impairment: A Pilot, Double-Blind, Ra
+- new | 2016 | 26811090 | RCT | Potential Ergogenic Effects of Saffron.
+- new | 2016 | 26758574 | RCT | Effect of cinnamon, cardamom, saffron and ginger consumption on blood pressure and a marker of endothelial function in patients with type 2 diabetes mellitus: A randomize
+- new | 2016 | 27101556 | RCT | A double-blind, randomized and placebo-controlled trial of Saffron (Crocus sativus L.) in the treatment of anxiety and depression.
+- new | 2016 | 27472878 | RCT | Efficacy and Safety of Crocus sativus L. in Patients with Mild Cognitive Impairment: One Year Single-Blind Randomized, with Parallel Groups, Clinical Trial.
+- new | 2016 | 27486153 | MA/Review | Canadian Network for Mood and Anxiety Treatments (CANMAT) 2016 Clinical Guidelines for the Management of Adults with Major Depressive Disorder: Section 5. Complementary a
+- new | 2016 | 26611571 | RCT | Study the effects of saffron on depression and lipid profiles: A double blind comparative study.
+- new | 2016 | 26762282 | RCT | The effect of Sailuotong (SLT) on neurocognitive and cardiovascular function in healthy adults: a randomised, double-blind, placebo controlled crossover pilot trial.
+- new | 2015 | 26165367 | SR | A systematic review of randomized controlled trials examining the effectiveness of saffron (Crocus sativus L.) on psychological and behavioral outcomes.
+- new | 2015 | 25948674 | RCT | Effects of a Topical Saffron (Crocus sativus L) Gel on Erectile Dysfunction in Diabetics: A Randomized, Parallel-Group, Double-Blind, Placebo-Controlled Trial.
+- new | 2015 | 24915175 | RCT | Preventive effects of 10-day supplementation with saffron and indomethacin on the delayed-onset muscle soreness.
+- HELD REF-2496 | 2015 | 25484177 | RCT | Crocin, the main active saffron constituent, as an adjunctive treatment in major depressive disorder: a randomized, double-blind, placebo-controlled, pilot clinical trial
+- HELD REF-0789 | 2014 | 25384672 | SR | Saffron (Crocus sativus) for depression: a systematic review of clinical studies and examination of underlying antidepressant mechanisms of action.
+- new | 2014 | 25319729 | RCT | The ocular hypotensive effect of saffron extract in primary open angle glaucoma: a pilot study.
+- new | 2014 | 23733488 | RCT | Effect of Crocus sativus L. (saffron) on coagulation and anticoagulation systems in healthy volunteers.
+- new | 2014 | 24289892 | RCT | A randomized, double-blind, clinical trial comparing the efficacy and safety of Crocus sativus L. with fluoxetine for improving mild to moderate depression in post percut
+- new | 2014 | 25163440 | RCT | Comparing the efficacy and safety of Crocus sativus L. with memantine in patients with moderate to severe Alzheimer's disease: a double-blind randomized clinical trial.
+- new | 2014 | 24501162 | RCT | Saffron in metabolic syndrome: its effects on antibody titers to heat-shock proteins 27, 60, 65 and 70.
+- new | 2014 | 24955550 | RCT | Saffron aqueous extract prevents metabolic syndrome in patients with schizophrenia on olanzapine treatment: a randomized triple blind placebo controlled study.
+- HELD REF-2001 | 2013 | 24299602 | MA | Saffron (Crocus sativus L.) and major depressive disorder: a meta-analysis of randomized clinical trials.
+- new | 2013 | 24399119 | RCT | An improvement in sexual function is related to better quality of life, regardless of urinary function improvement: results from the IDIProst® Gold Study.
+- new | 2013 | 23280545 | RCT | Saffron for treatment of fluoxetine-induced sexual dysfunction in women: randomized double-blind placebo-controlled study.
+- new | 2012 | 22552758 | RCT | Effect of saffron on fluoxetine-induced sexual impairment in men: randomized double-blind placebo-controlled trial.
+- new | 2011 | 21601431 | SR | Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence.
+- new | 2011 | 22432635 | SR | An evidence-based systematic review of saffron (Crocus sativus) by the Natural Standard Research Collaboration.
+- new | 2011 | 21171936 | SR | Herbal treatments for alleviating premenstrual symptoms: a systematic review.
+- new | 2011 | 21242071 | RCT | Psychological and neuroendocrinological effects of odor of saffron (Crocus sativus).
+- new | 2011 | 21480412 | RCT | Immunomodulatory effects of saffron: a randomized double-blind placebo-controlled clinical trial.
+- new | 2011 | 20824894 | RCT | A prospective double-blind randomized placebo-controlled study of the effect of saffron (Crocus sativus Linn.) on semen parameters and seminal plasma antioxidant capacity
+- new | 2010 | 20688744 | RCT | Influence of saffron supplementation on retinal flicker sensitivity in early age-related macular degeneration.
+- new | 2010 | 19838862 | RCT | A 22-week, multicenter, randomized, double-blind controlled trial of Crocus sativus in the treatment of mild-to-moderate Alzheimer's disease.
+- new | 2010 | 20579522 | RCT | Satiereal, a Crocus sativus L extract, reduces snacking and increases satiety in a randomized placebo-controlled study of mildly overweight, healthy women.
+- new | 2010 | 20520621 | RCT | An open label, randomized, fixed-dose, crossover study comparing efficacy and safety of sildenafil citrate and saffron (Crocus sativus Linn.) for treating erectile dysfun
+- new | 2010 | 20831681 | RCT | Saffron in the treatment of patients with mild to moderate Alzheimer's disease: a 16-week, randomized and placebo-controlled trial.
+- new | 2009 | 19427775 | RCT | Evaluation of Crocus sativus L. (saffron) on male erectile dysfunction: a pilot study.
+- new | 2008 | 18271889 | RCT | Crocus sativus L. (saffron) in the treatment of premenstrual syndrome: a double-blind, randomised and placebo-controlled trial.
+- new | 2007 | 17562566 | SR | Herbal medicines in the treatment of psychiatric disorders: a systematic review.
+- new | 2007 | 17174460 | Clinical Trial/RCT | Comparison of petal of Crocus sativus L. and fluoxetine in the treatment of depressed outpatients: a pilot double-blind randomized trial.
+- HELD REF-0172 | 2006 | 16979327 | RCT | Crocus sativus L. (petal) in the treatment of mild-to-moderate depression: a double-blind, randomized and placebo-controlled trial.
+- new | 2005 | 15852492 | Clinical Trial/RCT | Crocus sativus L. in the treatment of mild to moderate depression: a double-blind, randomized and placebo-controlled trial.
+- new | 2005 | 15707766 | Clinical Trial/RCT | Hydro-alcoholic extract of Crocus sativus L. versus fluoxetine in the treatment of mild to moderate depression: a double-blind, randomized pilot trial.
+- HELD REF-0005 | 2004 | 15341662 | Clinical Trial/RCT | Comparison of Crocus sativus L. and imipramine in the treatment of mild to moderate depression: a pilot double-blind randomized trial [ISRCTN45683816].
+
+## cuminum-cyminum (Cuminum cyminum; Cumin) - 26 (+CT) hits; query: ("Cuminum cyminum"[tiab] OR "Cumin"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42208428 | RCT | Advantages of artificial saliva containing Cuminum cyminum and Zingiber officinale on hemodialysis patients with xerostomia: Randomized clinical trials.
+- new | 2026 | 41653970 | SR/MA | Efficacy of herbaceous Apiaceae plants in primary dysmenorrhea: A systematic review and meta-analysis of RCTs.
+- new | 2026 | 42088310 | Clinical Trial | Daily intake of cuminaldehyde-rich cumin essential oil improves cognitive function in healthy elderly Japanese adults: a randomized, double-blind, placebo-controlled pilo
+- new | 2026 | 39642267 | RCT | The Effect of Foot Reflexology and Knee Massage With Black Cumin Seed Oil on Knee Osteoarthritis Symptoms.
+- new | 2025 | 41608519 | SR | Potential benefits of Cuminum cyminum L supplementation on components of metabolic syndrome in adults with metabolic disorders: a GRADE-assessed systematic review and met
+- new | 2025 | 41401318 | RCT | The potential effects of cinnamon, cumin, and Rosuvastatin on lipid profile among Iraqi patients with dyslipidemia.
+- HELD REF-0656 | 2024 | 38965524 | RCT | The effect of Cuminum cyminum on the return of bowel motility after abdominal surgery: a triple-blind randomized clinical trial.
+- new | 2022 | 34825421 | MA/SR | Efficacy of Cuminum Cyminum supplementation on lipid profile and anthropometric parameters: A systematic review and meta-analysis of randomized controlled clinical trials
+- HELD REF-0653 | 2021 | 34371114 | MA/SR | The effects of Cuminum cyminum on glycemic parameters: A systematic review and meta-analysis of controlled clinical trials.
+- HELD REF-0654 | 2021 | 33720457 | MA/SR | The effect of cumin (Cuminum cyminum L.) supplementation on glycemic indices: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2021 | 33989738 | SR | Systematic review of Ethiopian medicinal plants used for their anti-inflammatory and wound healing activities.
+- new | 2020 | 32359745 | RCT | The effects of powdered black cumin seeds on markers of oxidative stress, intracellular adhesion molecule (ICAM)-1 and vascular cell adhesion molecule (VCAM)-1 in patient
+- new | 2020 | 32566096 | RCT | Enhanced Efficacy of Direct-Acting Antivirals in Hepatitis C Patients by Coadministration of Black Cumin and Ascorbate as Antioxidant Adjuvants.
+- HELD REF-0655 | 2019 | 31478290 | RCT | Effects of cumin (Cuminum cyminum L.) essential oil supplementation on metabolic syndrome components: A randomized, triple-blind, placebo-controlled clinical trial.
+- new | 2019 | 30762267 | RCT | The effect of cumin supplementation on metabolic profiles in patients with metabolic syndrome: A randomized, triple blind, placebo-controlled clinical trial.
+- new | 2019 | 30875097 | RCT | Effects of Nigella sativa seeds (black cumin) on insulin secretion and lipid profile: A pilot study in healthy volunteers.
+- HELD REF-0652 | 2018 | 30088304 | MA/SR | Cumin (Cuminum cyminum L.) is a safe approach for management of lipid parameters: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2018 | 29705470 | RCT | Investigation of the effect of black cumin oil on pain in osteoarthritis geriatric individuals.
+- new | 2018 | 29493013 | RCT | Carcass characteristics, chemical and fatty acid composition and oxidative stability of meat from broiler chickens fed black cumin (Nigella sativa) seeds.
+- new | 2017 | 27553624 | RCT | Nigella sativa (black cumin seed) as a biological detoxifier in diet contaminated with aflatoxin B(1).
+- new | 2017 | 28378356 | RCT | Effect of an orally formulated processed black cumin, from Iranian traditional medicine pharmacopoeia, in relieving symptoms of knee osteoarthritis: A prospective, random
+- new | 2015 | 25766448 | RCT | Effect of the cumin cyminum L. Intake on Weight Loss, Metabolic Profiles and Biomarkers of Oxidative Stress in Overweight Subjects: A Randomized Double-Blind Placebo-Cont
+- new | 2014 | 25456022 | RCT | Effect of cumin powder on body composition and lipid profile in overweight and obese women.
+- new | 2014 | 23909469 | RCT | Comparative effects of using black seed (Nigella sativa), cumin seed (Cuminum cyminum), probiotic or prebiotic on growth performance, blood haematology and serum biochemi
+- new | 2014 | 23909404 | RCT | Effect of different levels of black cumin (Nigella sativa L.) on performance, intestinal Escherichia coli colonization and jejunal morphology in laying hens.
+- new | 2008 | 18404563 | RCT | Phytotherapeutic inhibition of supragingival dental plaque.
+
+## curcuma-longa (Curcuma longa; Turmeric) - 279 hits; query: ("Curcuma longa"[tiab] OR "Turmeric"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2027 | 42447971 | SR/MA | Optimal dose window, formulation efficacy, and molecular mechanisms of curcumin in MASLD animal models: A systematic review and three-level meta-analysis.
+- new | 2026 | 41656101 | SR/MA | Effects of Curcumin/Turmeric Supplementation on Lipid Profile in Subjects With Prediabetes and Diabetes: A Systematic Review and Meta-Analysis.
+- new | 2026 | 41761990 | SR/MA | Effects of Curcumin/Turmeric Supplementation on Kidney Function in Individuals With Diabetes: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.
+- new | 2026 | 42075010 | SR | Turmeric: A Comprehensive Review of Its Botany, Traditional Uses, Phytochemistry, and Mechanisms as a Functional Food.
+- new | 2026 | 41396280 | RCT | Impact of Curcuma longa L. extract supplementation on the gut microbiota of hemodialysis patients.
+- new | 2026 | 41082950 | SR | Evaluating the efficacy and safety of Curcuma longa, Boswellia serrata, and their mixed formulation in treating knee osteoarthritis: A systematic review and network meta-
+- new | 2026 | 42534858 | SR | Effects of curcumin supplementation on homocysteine levels: a systematic review and meta-analysis of randomized controlled trials.
+- new | 2026 | 41388744 | SR/MA | Antihypertensive Effects of Curcumin/Turmeric Supplementation in Prediabetes and Diabetes: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.
+- new | 2026 | 41804916 | SR | A Systematic Review of Turmeric/Curcumin for Prevention and Treatment of Oral Mucositis Due to Radiotherapy and/or Chemotherapy for Head and Neck Cancer.
+- new | 2026 | 42830045 | RCT | EFFECTS OF CURCUMIN ON CLINICAL OUTCOMES AND INFLAMMATORY BIOMARKERS IN KNEE OSTEOARTHRITIS: A RANDOMIZED TRIAL.
+- new | 2026 | 42260483 | MA/SR | Local curcumin/turmeric-derived delivery adjunctive to scaling and root planing for periodontitis: a systematic review and meta-analysis.
+- new | 2026 | 42123439 | RCT | Curcumin Supplementation Reduces Inflammation, Neutrophil-to-Lymphocyte Ratio (NLR), and Antioxidant Status in Obese Patients with Type 2 Diabetes: A Randomized Controlle
+- new | 2026 | 40902809 | SR/MA | Effectiveness and mechanisms of curcumin for colorectal cancer in preclinical models:A systematic review and meta-analysis.
+- new | 2026 | 41599836 | RCT | Bioenhancer Assessment of Black Pepper with Turmeric on Self-Reported Pain Ratings in Adults: A Randomized, Cross-Over, Clinical Trial.
+- new | 2026 | 41984245 | RCT | Curcuma longa improves endothelial glycocalyx integrity and redox-inflammatory pathways in type 2 diabetes mellitus: a randomized double-blind placebo-controlled study.
+- new | 2025 | 40731001 | SR | Effect of turmeric products on knee osteoarthritis: a systematic review and network meta-analysis.
+- new | 2025 | 40077768 | SR | Exploring Antioxidant Properties of Standardized Extracts from Medicinal Plants Approved by the Thai FDA for Dietary Supplementation.
+- new | 2025 | 41319069 | MA/SR | Antidiabetic and Metabolic Effects of Turmeric (Curcuma Longa) in Patients with Type 2 Diabetes Mellitus or Hyperglycemia - A Systematic Meta-Review and Meta-Analysis.
+- new | 2025 | 40813857 | SR/MA | The effect of turmeric/curcumin supplementation on anthropometric indices in subjects with prediabetes and type 2 diabetes mellitus: A GRADE-assessed systematic review an
+- new | 2025 | 40995635 | SR | Chitosan-Based Systems for Curcumin Delivery: Evidence for Therapeutic Applications.
+- new | 2025 | 41372521 | SR/MA | Effects of curcumin and Curcuma longa extract on inflammatory biomarkers in patients with rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE): a systematic r
+- new | 2025 | 41176175 | SR/MA | Effectiveness and safety of turmeric for the treatment of COVID-19: An updated systematic review and meta-analysis of randomized controlled trials.
+- new | 2025 | 40792206 | SR | The protective role of curcumin in mitigating drug-induced toxicity in male reproductive system.
+- new | 2025 | 41109942 | SR | Curcumin in prostate cancer: a systematic review of molecular mechanisms and nanoformulated therapeutic strategies.
+- new | 2025 | 41240262 | SR/MA | Efficacy of curcumin/turmeric on inflammation and oxidative stress in prediabetes and type 2 diabetes: a systematic review and dose-response meta-analysis.
+- new | 2025 | 40841392 | RCT | A Triple-blind randomized controlled trial on the effects of turmeric versus ginger on inflammatory biomarkers in patients with COVID-19.
+- new | 2025 | 40242451 | SR | Efficacy of different pharmaceutical forms of Curcuma longa or curcumin in reducing oral mucositis severity and incidence in cancer patients: a systematic review and meta
+- new | 2025 | 40647170 | RCT | Curcumin Supplementation Improves Gastrointestinal Symptoms in Women with Severe Obesity: A Double-Blind, Randomized, Placebo-Controlled Trial-A Pilot Study.
+- new | 2025 | 41350854 | SR/MA | Therapeutic effects of curcumin on upper gastrointestinal diseases: a systematic review and meta-analysis of animal studies.
+- new | 2025 | 41053771 | RCT | Efficacy and safety of curcumin in patients with hand osteoarthritis: a pilot double-blinded randomised controlled trial.
+- new | 2025 | 40918536 | SR | Potential therapeutic benefits of curcumin in depression or anxiety induced by chronic diseases: a systematic review of mechanistic and clinical evidence.
+- new | 2025 | 41040018 | RCT | A randomized, placebo-controlled, crossover clinical trial to evaluate the effect of a turmeric formulation on muscle soreness and function recovery in moderately active 
+- new | 2025 | 41197197 | RCT | Adjunctive curcumin nano-micelles reduce overall pruritus intensity in refractory post-burn pruritus: A randomized controlled trial.
+- new | 2025 | 40971325 | RCT | Efficacy and Safety of an Oral Low-Dose Water-Dispersible Turmeric Extract Capsule on Facial Skin Health in Healthy Women: A Randomized, Double-Blind, Placebo-Controlled 
+- new | 2025 | 40685356 | SR | Curcumin as a therapeutic agent in liver cancer: a systematic review of preclinical models and mechanisms.
+- new | 2025 | 40252824 | SR/MA | The effect of highly bioavailable forms of curcumin on lipoprotein(a) plasma levels: A systematic review and meta-analysis of randomized clinical studies.
+- new | 2025 | 41005054 | SR | Phytotherapy as an adjunct to the treatment of rheumatoid arthritis - a systematic review of clinical trials.
+- new | 2025 | 39279186 | MA | Meta-Analysis of Positive Effects of Dietary Turmeric (Curcuma longa L.) on Performance of Commercial Laying Hens.
+- new | 2025 | 40296308 | RCT | Effects of a Functional Food Mixture on Patients Undergoing Hemodialysis: Preliminary Results Highlighting the Modulation of Uremic Toxins Derived From Microbiota and Ant
+- new | 2025 | 39186190 | MA/SR | The analgesic effect of curcumin and nano-curcumin in clinical and preclinical studies: a systematic review and meta-analysis.
+- new | 2025 | 40725274 | SR | Curcumin and Dementia: A Systematic Review of Its Effects on Oxidative Stress and Cognitive Outcomes in Animal Models.
+- new | 2025 | 36514270 | RCT | Topical Turmeric Ointment in the Treatment of Diabetic Foot Ulcers: A Randomized, Placebo-Controlled Study.
+- new | 2025 | 40516827 | SR | Effect of curcumin on cardiometabolic diseases in the elderly: A systematic review of randomized controlled trials.
+- new | 2024 | 39478418 | MA/SR | Curcumin on Human Health: A Comprehensive Systematic Review and Meta-Analysis of 103 Randomized Controlled Trials.
+- new | 2024 | 39203857 | SR | Curcumin: A Golden Approach to Healthy Aging: A Systematic Review of the Evidence.
+- new | 2024 | 39354480 | RCT | Curcumin extract improves beta cell functions in obese patients with type 2 diabetes: a randomized controlled trial.
+- new | 2024 | 39683570 | MA/SR | Curcumin Attenuates Hyperglycemia and Inflammation in Type 2 Diabetes Mellitus: Quantitative Analysis of Randomized Controlled Trial.
+- new | 2024 | 38036015 |  | Efficacy and safety of curcumin therapy for knee osteoarthritis: A Bayesian network meta-analysis.
+- new | 2024 | 38503513 | SR | A systematic review of the efficacy and safety of turmeric in the treatment of digestive disorders.
+- new | 2024 | 39717381 | SR | Phytochemicals in the treatment of patients with depression: a systemic review.
+- new | 2024 | 38560351 | SR | Efficacy of turmeric in the treatment of oral mucositis in patients with head and neck cancer after radiotherapy or chemoradiotherapy: a systematic review and meta-analys
+- new | 2024 | 38220376 | MA/SR | Curcumin/turmeric supplementation could improve blood pressure and endothelial function: A grade-assessed systematic review and dose-response meta-analysis of randomized 
+- new | 2024 | 37717842 | SR | Understanding mechanistic aspect of the therapeutic role of herbal agents on neuroplasticity in cerebral ischemic-reperfusion injury.
+- new | 2024 | 38706368 | SR | A Systematic Review of Herbal Interventions for the Management of Cardiovascular Diseases.
+- new | 2024 | 38612967 | MA/SR | Herbal Medicines for the Treatment of Active Ulcerative Colitis: A Systematic Review and Meta-Analysis.
+- new | 2024 | 39017207 | RCT | Is oral nano-curcumin formulation a safe and effective measure for preventing cisplatin-induced nephrotoxicity in cancer patients?
+- new | 2024 | 39684553 | SR | Antibiofilm Effects of Novel Compounds in Otitis Media Treatment: Systematic Review.
+- new | 2024 | 39110055 | SR | Medicinal Plants Cultivated in Egypt with Antiviral Potential: A Systematic Review.
+- new | 2024 | 38798711 | SR | Curcumin in the treatment of inflammation and oxidative stress responses in traumatic brain injury: a systematic review and meta-analysis.
+- new | 2024 | 37408367 | MA/SR | The effect of curcumin supplementation on functional strength outcomes and markers of exercise-induced muscle damage: A systematic review and meta-analysis.
+- new | 2024 | 37966571 | SR | Clinical trials on curcumin in relation to its bioavailability and effect on malignant diseases: critical analysis.
+- new | 2024 | 37918958 | MA/Review | Effects of curcumin/turmeric supplementation on the liver enzymes, lipid profiles, glycemic index, and anthropometric indices in non-alcoholic fatty liver patients: An um
+- new | 2024 | 38781255 | SR | Clinical efficacy and applicability of natural products in the treatment and prevention of radiotherapy-induced oral mucositis: A systematic review.
+- new | 2024 | 38220413 | RCT | Can curcumin supplementation break the vicious cycle of inflammation, oxidative stress, and uremia in patients undergoing peritoneal dialysis?
+- new | 2024 | 39223301 | RCT | Oral mucositis management with photobiomodulation, Bidens pilosa L. (Asteraceae) and Curcuma longa L. (Zingiberaceae), the FITOPROT herbal medicine, and its influence on 
+- new | 2023 | 36804260 | SR/MA | Antioxidant and anti-inflammatory effects of curcumin/turmeric supplementation in adults: A GRADE-assessed systematic review and dose-response meta-analysis of randomized
+- new | 2023 | 37574203 | MA/SR | Safety and Efficacy of Turmeric (Curcuma longa) Extract and Curcumin Supplements in Musculoskeletal Health: A Systematic Review and Meta-Analysis.
+- new | 2023 | 36872842 | SR | Therapeutic effect of turmeric on radiodermatitis: A systematic review.
+- new | 2023 | 37230418 | MA/SR | Effects of curcumin/turmeric supplementation on lipid profile: A GRADE-assessed systematic review and dose-response meta-analysis of randomized controlled trials.
+- new | 2023 | 36882287 | MA/SR | Effects of curcumin/turmeric supplementation on obesity indices and adipokines in adults: A grade-assessed systematic review and dose-response meta-analysis of randomized
+- new | 2023 | 37748368 | MA/SR | Effects of curcumin/turmeric supplementation on glycemic indices in adults: A grade-assessed systematic review and dose-response meta-analysis of randomized controlled tr
+- new | 2023 | 37178581 | SR/MA | Effects of curcumin/turmeric supplementation on liver function in adults: A GRADE-assessed systematic review and dose-response meta-analysis of randomized controlled tria
+- new | 2023 | 37471428 | SR | Effects of turmeric (Curcuma longa) supplementation on glucose metabolism in diabetes mellitus and metabolic syndrome: An umbrella review and updated meta-analysis.
+- new | 2023 | 37323050 | SR | Non-Chinese herbal medicines for functional dyspepsia.
+- new | 2023 | 36756300 | SR | Impacts of Curcumin Treatment on Experimental Sepsis: A Systematic Review.
+- new | 2023 | 35996237 | SR | Anti-Toxoplasma gondii Activity of Curcumin: A Systematic Review of Pre-clinical Studies.
+- new | 2023 | 35468650 | SR | The Role of Herbal Medicine in Cholangiocarcinoma Control: A Systematic Review.
+- new | 2023 | 37114318 | RCT | A minor metabolite from Curcuma longa effective against metabolic syndrome: results from a randomized, double-blind, placebo-controlled clinical study.
+- new | 2023 | 36610136 | SR | Antioxidative hypoglycemic herbal medicines with in vivo and in vitro activity against C-reactive protein; a systematic review.
+- new | 2023 | 37937613 | SR | In vivo efficacy of turmeric (Curcuma longa L.) in the treatment of peripheral neuropathy: A systematic review of animal models.
+- new | 2023 | 36610110 | RCT | Effect of Curcuma longa extract on serum inflammatory markers and MRI-based synovitis in knee osteoarthritis: secondary analyses from the CurKOA randomised trial.
+- new | 2023 | 37547100 | RCT | Efficacy of Nanocurcumin as an Add-On Treatment for Patients Hospitalized with COVID-19: A Double-Blind, Randomized Clinical Trial.
+- new | 2023 | 37566179 | RCT | Effects of a mucoadhesive phytomedicine (Curcuma longa L. and Bidens pilosa L.) on radiotherapy-induced oral mucositis and quality of life of patients undergoing head and
+- new | 2023 | 38092534 | RCT | Clinical effect of acupoint application with turmeric blistering moxibustion plaster on post-stroke hemiplegic shoulder pain.
+- HELD REF-0791 | 2022 | 35935936 | MA/SR | Efficacy and Safety of Curcumin and Curcuma longa Extract in the Treatment of Arthritis: A Systematic Review and Meta-Analysis of Randomized Controlled Trial.
+- HELD REF-2167 | 2022 | 35979355 | MA/SR | Curcumin and Curcuma longa Extract in the Treatment of 10 Types of Autoimmune Diseases: A Systematic Review and Meta-Analysis of 31 Randomized Controlled Trials.
+- new | 2022 | 34652861 | RCT | Curcuma longa Linn versus omeprazole in treatment of functional dyspepsia: A randomized, double-blind, placebo-controlled trial.
+- new | 2022 | 35293297 | MA/SR | A Systematic Review on Curcumin and Anti-Plasmodium berghei Effects.
+- new | 2022 | 35143971 | MA/SR | Turmeric and curcuminiods ameliorate disorders of glycometabolism among subjects with metabolic diseases: A systematic review and meta-analysis of randomized controlled t
+- new | 2022 | 36261810 | MA/SR | Efficacy and safety of curcuminoids alone in alleviating pain and dysfunction for knee osteoarthritis: a systematic review and meta-analysis of randomized controlled tria
+- new | 2022 | 35091013 | MA/SR | Efficacy and safety of adjuvant curcumin therapy in ulcerative colitis: A systematic review and meta-analysis.
+- new | 2022 | 36185259 | SR | Multifunctionality of Calebin A in inflammation, chronic diseases and cancer.
+- new | 2022 | 35714209 | MA/SR | Efficacy and Safety of Turmeric Dietary Supplementation on Proteinuria in CKD: A Systematic Review and Meta-analysis of RCT.
+- new | 2022 | 35570565 | SR | A Systematic Review of Nonclinical Studies on the Effect of Curcumin in Chemotherapy- induced Cardiotoxicity.
+- new | 2022 | 33938775 | SR | Curcumin, autoimmune and inflammatory diseases: going beyond conventional therapy - a systematic review.
+- new | 2022 | 35778819 | MA/SR | Preclinical studies of the antitumor effect of curcumin-loaded polymeric nanocapsules: A systematic review and meta-analysis.
+- new | 2022 | 35341943 | RCT | A randomized, controlled, blinded, parallel group, clinical trial to study the role of Ayurcov (AyurCoro3), one day regimen as an adjuvant therapy for COVID-19 disease ma
+- new | 2022 | 34986477 | RCT | Efficacy of Curcuminoids in Managing Postoperative Pain after Total Laparoscopic Hysterectomy: A Randomized Controlled, Open-Label Trial.
+- new | 2022 | 35682028 | SR | Effectiveness of Curcumin in Reducing Self-Rated Pain-Levels in the Orofacial Region: A Systematic Review of Randomized-Controlled Trials.
+- new | 2022 | 35049249 | RCT | Analgesic Efficacy of Curcuma longa (Curcumin) after Surgical Periodontal Therapy.
+- new | 2022 | 36553450 | RCT | Efficacy of Wholistic Turmeric Supplement on Adenomatous Polyps in Patients with Familial Adenomatous Polyposis-A Randomized, Double-Blinded, Placebo-Controlled Study.
+- new | 2022 | 35809376 | SR | Role of curcumin in the treatment of acute kidney injury: research challenges and opportunities.
+- new | 2022 | 35469576 | SR | Combination of Curcumin and Photodynamic Therapy Based on the Use of Red Light or Near-Infrared Radiation in Cancer: A Systematic Review.
+- new | 2022 | 35276778 | RCT | Beneficial Effects on Abdominal Bloating with an Innovative Food-Grade Formulation of Curcuma longa and Boswellia serrata Extracts in Subjects with Irritable Bowel Syndro
+- new | 2022 | 36254954 | RCT | Antibacterial efficacy of manuka honey, ocimum sanctum, curcuma longa and 0.2% chlorhexidine mouthwash on the level of streptococcus mutans and lactobacillus acidophilus 
+- new | 2022 | 35104042 | RCT | Therapeutic effects of turmeric topical cream in vitiligo: A randomized, double-blind, placebo-controlled pilot study.
+- new | 2022 | 34161952 | RCT | A Randomized, Placebo-Controlled Study to Evaluate the Effect of Bio-Enhanced Turmeric Formulation on Radiation-Induced Oral Mucositis.
+- new | 2022 | 35320555 | RCT | Topical henna and curcumin (Alpha®) ointment efficacy for prevention of capecitabine induced hand-foot syndrome: A randomized, triple-blinded, placebo-controlled clinical
+- new | 2022 | 34968662 | RCT | Efficacy of herbal anti-microbial soap in Tinea corporis: A randomized controlled study.
+- new | 2022 | 36370961 | RCT | Turmeric supplementation with piperine is more effective than turmeric alone in attenuating oxidative stress and inflammation in hemodialysis patients: A randomized, doub
+- new | 2022 | 36107505 | RCT | Fast pain relief in exercise-induced acute musculoskeletal pain by turmeric-boswellia formulation: A randomized placebo-controlled double-blinded multicentre study.
+- HELD REF-0792 | 2021 | 34017975 | MA/SR | The efficacy and safety of Curcuma longa extract and curcumin supplements on osteoarthritis: a systematic review and meta-analysis.
+- HELD REF-0793 | 2021 | 34012421 | SR | The Effects of Curcumin on Diabetes Mellitus: A Systematic Review.
+- new | 2021 | 33884948 | SR | Clinical trials with plants in diabetes mellitus therapy: a systematic review.
+- new | 2021 | 33522006 | SR | Dermatological effects of Curcuma species: a systematic review.
+- new | 2021 | 33914984 | SR | Curcumin and rheumatoid arthritis: A systematic review of literature.
+- new | 2021 | 34214729 | SR | Molecular mechanisms underlying curcumin-mediated microRNA regulation in carcinogenesis; Focused on gastrointestinal cancers.
+- new | 2021 | 33770343 | MA/SR | A Systematic Review of Curcumin and its Derivatives as Valuable Sources of Antileishmanial Agents.
+- new | 2021 | 34216044 | MA/SR | Effectiveness of Curcuma longa extract versus placebo for the treatment of knee osteoarthritis: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2021 | 34121673 | MA/SR | Turmeric in the management of oral submucous fibrosis: A systematic review and meta-analysis.
+- new | 2021 | 33511486 | MA/SR | Efficacy and Safety of Turmeric Extracts for the Treatment of Knee Osteoarthritis: a Systematic Review and Meta-analysis of Randomised Controlled Trials.
+- new | 2021 | 33673739 | SR | A systematic review of the antidepressant effects of curcumin: Beyond monoamines theory.
+- new | 2021 | 34165846 | SR | Traditional plants with antioxidant properties in clinical trials-A systematic review.
+- new | 2021 | 32713186 | SR | Benefits of turmeric supplementation for skin health in chronic diseases: a systematic review.
+- new | 2021 | 34181321 | MA/SR | A Systematic Review and Meta-Analysis on the Efficacy of Curcumin/Turmeric for the Prevention and Amelioration of Radiotherapy/Radiochemotherapy Induced Oral Mucositis in
+- new | 2021 | 32835511 | SR | RENISUS Plants and Their Potential Antitumor Effects in Clinical Trials and Registered Patents.
+- new | 2021 | 32525777 | SR | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review.
+- new | 2021 | 32749918 | RCT | Acute Effects of Turmeric Extracts on Knee Joint Pain: A Pilot, Randomized Controlled Trial.
+- new | 2021 | 33802272 | RCT | A Placebo-Controlled, Pseudo-Randomized, Crossover Trial of Botanical Agents for Gulf War Illness: Curcumin (Curcuma longa), Boswellia (Boswellia serrata), and French Mar
+- new | 2021 | 33516238 |  | Bioavailable turmeric extract for knee osteoarthritis: a randomized, non-inferiority trial versus paracetamol.
+- new | 2021 | 31837279 | SR | Effect of herbal mouthrinses on dental plaque formation and gingival inflammation: A systematic review.
+- new | 2021 | 33155879 | MA/SR | Effects of the Use of Curcumin on Ulcerative Colitis and Crohn's Disease: A Systematic Review.
+- new | 2021 | 33998991 | SR | Mechanism of Curcuma longa and Its Neuroactive Components for the Management of Epileptic Seizures: A Systematic Review.
+- new | 2021 | 33141635 | RCT | Cost-Effectiveness of Passion Fruit Albedo versus Turmeric in the Glycemic and Lipaemic Control of People with Type 2 Diabetes: Randomized Clinical Trial.
+- new | 2021 | 32656820 | SR | Acute liver injury following turmeric use in Tuscany: An analysis of the Italian Phytovigilance database and systematic review of case reports.
+- new | 2021 | 33851448 | RCT | The effects of nano-curcumin supplementation on glycemic control, blood pressure, lipid profile, and insulin resistance in patients with the metabolic syndrome: A randomi
+- new | 2021 | 34967575 | RCT | Black Turmeric and Aloe Vera in the Management of Oral Submucous Fibrosis: A Prospective Clinical Study.
+- new | 2021 | 34774052 | RCT | Curcuma longa extract improves serum inflammatory markers and mental health in healthy participants who are overweight: a randomized, double-blind, placebo-controlled tri
+- new | 2021 | 33755149 | RCT | Comparative bioavailability of curcuminoids from a water-dispersible high curcuminoid turmeric extract against a generic turmeric extract: a randomized, cross-over, compa
+- new | 2021 | 34950731 | RCT | Evaluation of the Impact of Different Doses of Curcuma longa L. on Antioxidant Capacity: A Randomized, Double-Blind, Crossover Pilot Trial.
+- new | 2020 | 31423805 | MA | Curcumin for depression: a meta-analysis.
+- new | 2020 | 32180294 | RCT | Herbal formulation "turmeric extract, black pepper, and ginger" versus Naproxen for chronic knee osteoarthritis: A randomized, double-blind, controlled clinical trial.
+- new | 2020 | 32926799 | RCT | Effectiveness of Curcuma longa Extract for the Treatment of Symptoms and Effusion-Synovitis of Knee Osteoarthritis : A Randomized Trial.
+- new | 2020 | 31738145 | MA/SR | Effectiveness of Passion Fruit Peel Flour (Passiflora edulis L.) versus Turmeric Flour (Curcuma longa L.) on Glycemic Control: Systematic Review and Meta-Analysis.
+- new | 2020 | 33396291 | SR | Whether or Not the Effects of Curcuma longa Supplementation Are Associated with Physical Exercises in T1DM and T2DM: A Systematic Review.
+- new | 2020 | 32147075 | RCT | Effects of curcuminoids on inflammatory status in patients with non-alcoholic fatty liver disease: A randomized controlled trial.
+- new | 2020 | 32361696 | RCT | Evaluation of Curcumin (Turmeric Extract) Effect on Prevention of CIN in Patient Under Elective Coronary Angiography, a Randomized Double Blind Placebocontrolled Clinical
+- new | 2019 | 31212316 | MA/SR | A Systematic Review and Meta-analysis of Randomized Controlled Trials on the Effects of Turmeric and Curcuminoids on Blood Lipids in Adults with Metabolic Diseases.
+- new | 2019 | 30614166 | SR | Curcumin, a turmeric extract, for oral lichen planus: A systematic review.
+- new | 2019 | 30838707 | SR | Effects of turmeric and curcumin on oral mucositis: A systematic review.
+- new | 2019 | 31647981 | MA/SR | The effect of Curcumin/Turmeric on blood pressure modulation: A systematic review and meta-analysis.
+- new | 2019 | 30653773 | MA/SR | Does turmeric/curcumin supplementation improve serum alanine aminotransferase and aspartate aminotransferase levels in patients with nonalcoholic fatty liver disease? A s
+- new | 2019 | 31121255 | MA/SR | Oral turmeric/curcumin effects on inflammatory markers in chronic inflammatory diseases: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2019 | 30768427 | SR | Plant-derived medicines for neuropathies: a comprehensive review of clinical evidence.
+- new | 2019 | 30859660 | RCT | Effect of turmeric on glycemic status, lipid profile, hs-CRP, and total antioxidant capacity in hyperlipidemic type 2 diabetes mellitus patients.
+- new | 2019 | 31394768 | RCT | Hot Water Extract of Curcuma longa L. Improves Serum Inflammatory Markers and General Health in Subjects with Overweight or Prehypertension/Mild Hypertension: A Randomize
+- new | 2019 | 31864359 | SR | Effectiveness of plant-based repellents against different Anopheles species: a systematic review.
+- new | 2019 | 30991137 | RCT | Curcuma longa L. ameliorates asthma control in children and adolescents: A randomized, double-blind, controlled trial.
+- new | 2019 | 29338678 | SR | Supplementation with Curcuma longa Reverses Neurotoxic and Behavioral Damage in Models of Alzheimer's Disease: A Systematic Review.
+- new | 2019 | 31560864 | SR | The effect of curcumin on cognition in Alzheimer's disease and healthy aging: A systematic review of pre-clinical and clinical studies.
+- new | 2019 | 31411373 | RCT | Postprandial Responses of Serum Bile Acids in Healthy Humans after Ingestion of Turmeric before Medium/High-Fat Breakfasts.
+- new | 2019 | 31017556 | RCT | Turmeric and chicory seed have beneficial effects on obesity markers and lipid profile in non-alcoholic fatty liver disease (NAFLD).
+- new | 2019 | 33510892 | RCT | Efficacy of Curcuma longa in treatment of postprandial distress syndrome: An open-label randomized-controlled trial.
+- new | 2019 | 30809971 | RCT | Effects of hot water extract of Curcuma longa on human epidermal keratinocytes in vitro and skin conditions in healthy participants: A randomized, double-blind, placebo-c
+- new | 2019 | 31347643 | RCT | Food matrix and co-presence of turmeric compounds influence bioavailability of curcumin in healthy humans.
+- HELD REF-0574 | 2018 | 29018060 | MA/SR | Dietary supplements for treating osteoarthritis: a systematic review and meta-analysis.
+- HELD REF-2547 | 2018 | 29575228 | SR | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review.
+- new | 2018 | 30556896 | SR | Nutritional strategies for psoriasis: current scientific evidence in clinical trials.
+- new | 2018 | 29894377 | RCT | Curcuma longa (Theracumin®): A Bioavailable Form of Curcumin and Its Cognitive Benefits.
+- new | 2018 | 29708818 | RCT | A Placebo-Controlled Double-Blind Study Demonstrates the Clinical Efficacy of a Novel Herbal Formulation for Relieving Joint Discomfort in Human Subjects with Osteoarthri
+- new | 2018 | 29607625 | RCT | Turmeric tonic as a treatment in scalp psoriasis: A randomized placebo-control clinical trial.
+- new | 2018 | 29923305 | RCT | Efficacy of a novel herbal formulation for weight loss demonstrated in a 16-week randomized, double-blind, placebo-controlled clinical trial with healthy overweight adult
+- new | 2017 | 29020971 | MA/Review | Efficacy and safety of turmeric and curcumin in lowering blood lipid levels in patients with cardiovascular risk factors: a meta-analysis of randomized controlled trials.
+- new | 2017 | 28872719 | MA/SR | Oral herbal medicines marketed in Brazil for the treatment of osteoarthritis: A systematic review and meta-analysis.
+- new | 2017 | 28818104 | SR | Neuroprotective properties of curcumin in toxin-base animal models of Parkinson's disease: a systematic experiment literatures review.
+- new | 2016 | 27533649 | MA/SR | Efficacy of Turmeric Extracts and Curcumin for Alleviating the Symptoms of Joint Arthritis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.
+- HELD REF-2165 | 2016 | 27213821 | SR | Effects of Turmeric (Curcuma longa) on Skin Health: A Systematic Review of the Clinical Evidence.
+- new | 2016 | 27392742 | MA/SR | Effect of curcumin on circulating interleukin-6 concentrations: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2016 | 27241179 | SR | Role of microRNAs in the Therapeutic Effects of Curcumin in Non-Cancer Diseases.
+- new | 2016 | 27025786 | SR | Curcumin downregulates human tumor necrosis factor-α levels: A systematic review and meta-analysis ofrandomized controlled trials.
+- new | 2016 | 25688638 | RCT | Mitigation of Systemic Oxidative Stress by Curcuminoids in Osteoarthritis: Results of a Randomized Controlled Trial.
+- new | 2016 | 27078813 | RCT | Turmeric (Curcuma longa): Effects of Curcuma longa Extracts Compared With Ibuprofen for Reduction of Pain and Functional Improvement in Patients With Knee Osteoarthritis.
+- new | 2016 | 27270872 | RCT | Treatment of Non-alcoholic Fatty Liver Disease with Curcumin: A Randomized Placebo-controlled Trial.
+- new | 2015 | 26066761 | RCT | Effects of Curcuma extract and visible light on adults with plaque psoriasis.
+- new | 2015 | 25131305 | RCT | Role of turmeric in oxidative modulation in end-stage renal disease patients.
+- new | 2015 | 26412535 | RCT | Dietary Capsicum and Curcuma longa oleoresins increase intestinal microbiome and necrotic enteritis in three commercial broiler breeds.
+- new | 2015 | 26639477 | RCT | Formulation and clinical evaluation of topical dosage forms of Indian Penny Wort, walnut and turmeric in eczema.
+- new | 2014 | 25516316 | RCT | Turmeric improves post-prandial working memory in pre-diabetes independent of insulin.
+- new | 2014 | 23832433 | RCT | Efficacy and safety of curcumin in major depressive disorder: a randomized controlled trial.
+- new | 2014 | 23922235 | MA/Review | Are curcuminoids effective C-reactive protein-lowering agents in clinical practice? Evidence from a meta-analysis.
+- new | 2014 | 24269772 | MA/Review | Medicinal plants for women's healthcare in southeast Asia: a meta-analysis of their traditional use, chemical constituents, and pharmacology.
+- new | 2013 | 23828329 | RCT | The use of an anti-inflammatory supplement in patients with chronic kidney disease.
+- new | 2013 | 23391017 | SR | Plant food supplements with anti-inflammatory properties: a systematic review (II).
+- new | 2013 | 24002213 | RCT | Clinical evaluation of a formulation containing Curcuma longa and Boswellia serrata extracts in the management of knee osteoarthritis.
+- new | 2009 | 19682401 | RCT | Antioxidant efficacy of curcuminoids from turmeric ( Curcuma longa L.) powder in broiler chickens fed diets containing aflatoxin B1.
+- new | 2008 | 22436099 | RCT | Effects of turmeric extract on the pharmacokinetics of nifedipine after a single oral administration in healthy volunteers.
+- new | 2008 | 18720535 | RCT | Prevention of hepatotoxicity due to anti tuberculosis treatment: a novel integrative approach.
+- new | 2007 | 17604143 | RCT | A randomized, placebo-controlled, double-blind clinical trial of curcuminoids in oral lichen planus.
+- new | 2006 | 17116705 | RCT | Chili, but not turmeric, inhibits iron absorption in young women from an iron-fortified composite meal.
+- new | 2003 | 12676044 | SR | Safety and anti-inflammatory activity of curcumin: a component of tumeric (Curcuma longa).
+
+## cynara-scolymus (Cynara scolymus; Artichoke) - 43 hits; query: ("Cynara scolymus"[tiab] OR "Artichoke"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41274796 | RCT | Artichoke leaf extract reduces steatosis and decreases liver size in prebariatric patients: A randomized placebo-controlled pilot trial-The "SteatoChoke-Study".
+- new | 2025 | 41270328 | MA/SR | Artichoke and cardiometabolic health: A systematic and meta-analytic synthesis of current evidence.
+- new | 2024 | 38892519 | RCT | A Randomized, Double-Blind, Placebo-Controlled Clinical Trial on the Effect of a Dietary Supplement Containing Dry Artichoke and Bergamot Extracts on Metabolic and Vascul
+- HELD REF-2568 | 2022 | 35763310 | MA/SR | Therapeutic Potential of Artichoke in the Treatment of Fatty Liver: A Systematic Review and Meta-Analysis.
+- new | 2022 | 35631240 | RCT | Effect of Dietary Supplementation with Eufortyn(®) Colesterolo Plus on Serum Lipids, Endothelial Reactivity, Indexes of Non-Alcoholic Fatty Liver Disease and Systemic Inf
+- new | 2021 | 33465383 | MA/SR | Effects of artichoke on blood pressure: A systematic review and meta-analysis.
+- new | 2021 | 34383355 | MA/SR | The effects of Cynara scolymus L. supplementation on liver enzymes: A systematic review and meta-analysis.
+- new | 2021 | 33197674 | MA/SR | The effects of supplementation with Cynara scolymus L. on anthropometric indices: А systematic review and dose-response meta-analysis of clinical trials.
+- HELD REF-2567 | 2021 | 34569671 | SR | Effects of artichoke leaf extract supplementation or artichoke juice consumption on lipid profile: A systematic review and dose-response meta-analysis of randomized contr
+- new | 2021 | 35010984 | RCT | Artichoke and Bergamot Phytosome Alliance: A Randomized Double Blind Clinical Trial in Mild Hypercholesterolemia.
+- new | 2021 | 32525777 | SR | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review.
+- new | 2021 | 34533249 | RCT | The effects of co-administration of artichoke leaf extract supplementation with metformin and vitamin E in patients with nonalcoholic fatty liver disease: A randomized cl
+- new | 2020 | 32951745 | MA/SR | Effects of Cynara scolymus L. on glycemic indices:A systematic review and meta-analysis of randomized clinical trials.
+- new | 2020 | 31484191 | RCT | The Effect of Cynara scolymus on Blood Pressure and BMI in Hypertensive Patients: A Randomized, Double-Blind, Placebo-Controlled, Clinical Trial.
+- HELD REF-1635 | 2019 | 30345589 | MA/SR | The antioxidant activity of artichoke (Cynara scolymus): A systematic review and meta-analysis of animal studies.
+- HELD REF-2566 | 2018 | 28609140 | MA/SR | Lipid-lowering activity of artichoke extracts: A systematic review and meta-analysis.
+- new | 2018 | 29520889 | RCT | Efficacy of artichoke leaf extract in non-alcoholic fatty liver disease: A pilot double-blind randomized controlled trial.
+- new | 2018 | 28410922 | RCT | Antioxidant response to artichoke leaf extract supplementation in metabolic syndrome: A double-blind placebo-controlled randomized clinical trial.
+- new | 2018 | 30177026 | RCT | TCF7L2-rs7903146 polymorphism modulates the effect of artichoke leaf extract supplementation on insulin resistance in metabolic syndrome: a randomized, double-blind, plac
+- new | 2018 | 29193419 | RCT | Effects of artichoke leaf extract supplementation on metabolic parameters in women with metabolic syndrome: Influence of TCF7L2-rs7903146 and FTO-rs9939609 polymorphisms.
+- new | 2018 | 30026514 | RCT | The effects of Jerusalem artichoke and fermented soybean powder mixture supplementation on blood glucose and oxidative stress in subjects with prediabetes or newly diagno
+- new | 2016 | 27195440 | MA/SR | WITHDRAWN: Artichoke leaf extract for treating hypercholesterolaemia.
+- new | 2016 | 26813467 | RCT | The effect of ginger (Zingiber officinalis) and artichoke (Cynara cardunculus) extract supplementation on gastric motility: a pilot randomized study in healthy volunteers
+- new | 2014 | 23440660 | RCT | Metabolic management in overweight subjects with naive impaired fasting glycaemia by means of a highly standardized extract from Cynara scolymus: a double-blind, placebo-
+- new | 2014 | 24724471 | RCT | Alternative for improving gut microbiota: use of Jerusalem artichoke and probiotics in diet of weaned piglets.
+- HELD REF-0584 | 2013 | 23543518 | MA/SR | Artichoke leaf extract for treating hypercholesterolaemia.
+- HELD REF-0585 | 2013 | 22746542 | RCT | Beneficial effects of artichoke leaf extract supplementation on increasing HDL-cholesterol in subjects with primary mild hypercholesterolaemia: a double-blind, randomized
+- new | 2011 | 21308825 | RCT | Appetite control and glycaemia reduction in overweight subjects treated with a combination of two highly standardized extracts from Phaseolus vulgaris and Cynara scolymus
+- new | 2010 | 20591206 | RCT | A double-blind, placebo-controlled, cross-over study to establish the bifidogenic effect of a very-long-chain inulin extracted from globe artichoke (Cynara scolymus) in h
+- new | 2010 | 20187995 | RCT | Prebiotic effect of fruit and vegetable shots containing Jerusalem artichoke inulin: a human intervention study.
+- new | 2009 | 19821306 | MA/SR | Artichoke leaf extract for treating hypercholesterolaemia.
+- new | 2009 | 22435514 | RCT | Artichoke leaf juice contains antihypertensive effect in patients with mild hypertension.
+- new | 2008 | 18562776 | RCT | The influence of supplementation with artichoke (Cynara scolymus L.) extract on selected redox parameters in rowers.
+- new | 2008 | 18424099 | RCT | Artichoke leaf extract (Cynara scolymus) reduces plasma cholesterol in otherwise healthy hypercholesterolemic adults: a randomized, double blind placebo controlled trial.
+- new | 2007 | 17445348 | RCT | Jerusalem artichoke and chicory inulin in bakery products affect faecal microbiota of healthy volunteers.
+- new | 2007 | 17684134 | RCT | A pilot and feasibility study on the effects of naturopathic botanical and dietary interventions on sex steroid hormone metabolism in premenopausal women.
+- new | 2005 | 16373736 | SR | Interventions for preventing or treating alcohol hangover: systematic review of randomised controlled trials.
+- new | 2003 | 12791229 | SR | Herbs for serum cholesterol reduction: a systematic view.
+- new | 2003 | 14662662 | Clinical Trial/RCT | Effectiveness of artichoke extract in preventing alcohol-induced hangovers: a randomized controlled trial.
+- new | 2003 | 14653829 | Clinical Trial/RCT | Efficacy of artichoke leaf extract in the treatment of patients with functional dyspepsia: a six-week placebo-controlled, double-blind, multicentre trial.
+- new | 2002 | 12137691 | SR | Artichoke leaf extract for treating hypercholesterolaemia.
+- new | 2002 | 12587688 | Clinical Trial/RCT | Artichoke leaf extract reduces mild dyspepsia in an open study.
+- new | 2000 | 10758778 | Clinical Trial/RCT | Efficacy of Artichoke dry extract in patients with hyperlipoproteinemia.

@@ -136,13 +136,11 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0108
-  - REF-2442
   - REF-1784
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0108
-  - REF-2442
   - REF-0783
   - REF-1780
   - REF-1781
@@ -154,15 +152,11 @@ actions:
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0108
-  - REF-2442
   - REF-0783
-  - REF-1785
-  - REF-1786
   status: verified
 - action: sedative
   reference_ids:
   - REF-0108
-  - REF-2442
   - REF-1787
   status: verified
 indications:
@@ -171,14 +165,25 @@ indications:
   - REF-2442
   - REF-0082
   status: verified
+  null_result_ids:
+  - REF-3514
+  - REF-3515
+  note: Hawthorn extract improved symptoms and exercise capacity as add-on treatment for chronic heart
+    failure (Cochrane review); two large trials (SPICE, HERB CHF) found no benefit on their main outcomes;
+    traditionally used for nervous heart complaints (EU herbal monograph)
 - condition: insomnia
-  note: inferred from sedative action
+  note: Traditionally used to aid sleep (EU herbal monograph)
   reference_ids:
   - REF-0082
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-2442
   - REF-0108
+- condition: high-blood-pressure
+  note: Hawthorn (C. laevigata) extract lowered diastolic blood pressure in a randomized trial in people
+    with type 2 diabetes on medication
+  reference_ids:
+  - REF-3516
+  status: verified
 contraindications:
 - note: Generally safe and well tolerated. High doses may cause low blood pressure and sedation. May interact
     with cardiac glycosides (digoxin) and antihypertensive drugs. Consult a physician before using with
@@ -277,4 +282,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 5 - REF-0108 (Hedgerow Medicine, book) removed from
   every symptom as unverifiable. The EU monograph Crataegus spp. folium cum flore (REF-0082)
   covers C. laevigata explicitly (nervous cardiac complaints, mild mental stress, aid sleep) -
-  added to cardiovascular-support and insomnia.'
+  added to cardiovascular-support and insomnia.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. SPICE REF-3514 (WS
+  1442: no effect on primary endpoint) and HERB CHF REF-3515 (no symptomatic or functional
+  benefit) recorded as no-effect for cardiovascular-support (Crataegus spp. extracts, as the
+  Cochrane review). New high-blood-pressure pair from Walker 2006 RCT REF-3516 (C. laevigata;
+  owner rule). Cochrane HF review REF-2442 removed from
+  anti-inflammatory/antioxidant/antispasmodic/sedative actions (not evidence for them); arrhythmia
+  rat studies REF-1785/REF-1786 removed from the antispasmodic action (REF-1786 found Crataegus
+  aggravated arrhythmias; kept in references).'

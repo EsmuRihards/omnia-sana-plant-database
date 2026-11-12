@@ -133,7 +133,6 @@ actions:
     HDL; a Cochrane review judged the overall evidence promising but not yet convincing)
   reference_ids:
   - REF-0461
-  - REF-0584
   - REF-0585
   - REF-2566
   - REF-2567
@@ -141,18 +140,21 @@ actions:
   status: verified
 indications:
 - condition: bloating
-  note: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
+  note: Traditional digestive aid for bloating and fullness (EU herbal monograph)
   reference_ids:
   - REF-0462
   status: verified
   mechanistic_exclude_ids:
   - REF-0461
 - condition: cardiovascular-support
-  note: inferred from lipid-lowering action
+  note: Artichoke modestly improved cholesterol, triglycerides and other cardiometabolic risk markers
+    in meta-analyses of randomized trials
   reference_ids:
   - REF-0461
-  - REF-0584
   - REF-0585
+  - REF-3511
+  - REF-2566
+  - REF-2567
   status: needs-review
 - condition: detox
   note: inferred from hepatoprotective action
@@ -161,27 +163,43 @@ indications:
   mechanistic_exclude_ids:
   - REF-0461
 - condition: high-cholesterol
-  note: inferred from lipid-lowering action
+  note: Artichoke leaf extract lowered total and LDL cholesterol and triglycerides in meta-analyses of
+    randomized trials
   reference_ids:
   - REF-0461
-  - REF-0584
   - REF-0585
   - REF-2566
   - REF-2567
   - REF-2569
+  - REF-3513
   status: needs-review
 - condition: indigestion
-  note: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
+  note: Artichoke leaf extract relieved functional dyspepsia better than placebo in a randomized trial;
+    traditional digestive aid (EU herbal monograph)
   reference_ids:
   - REF-0462
+  - REF-3507
   status: verified
   mechanistic_exclude_ids:
   - REF-0461
 - condition: liver-support
-  note: Hepatoprotective / liver support (protects liver cells and may aid their regeneration)
+  note: Artichoke lowered liver enzymes, especially in fatty liver disease, and reduced liver fat in meta-analyses
+    and trials (in one trial in obesity, liver enzymes rose); liver-protective effects in animal studies
   reference_ids:
   - REF-0461
   - REF-2568
+  - REF-3509
+  - REF-3510
+  status: verified
+- condition: high-blood-pressure
+  note: Artichoke lowered blood pressure in people with hypertension (meta-analysis of randomized trials)
+  reference_ids:
+  - REF-3508
+  status: verified
+- condition: blood-sugar
+  note: Artichoke products lowered fasting blood sugar in a meta-analysis of randomized trials
+  reference_ids:
+  - REF-3512
   status: verified
 contraindications:
 - note: Because it stimulates bile flow, artichoke is contraindicated in bile-duct obstruction and should
@@ -236,4 +254,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   Binomial confirmed via accepted-name synonymy.
   | 2026-11-10: symptom-source audit batch 5 - REF-0461 (review) names choleretic,
   hepatoprotective and lipid-lowering effects only - removed from bloating, detox, IBS,
-  indigestion (the EU monograph REF-0462 still supports bloating/indigestion).'
+  indigestion (the EU monograph REF-0462 still supports bloating/indigestion).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. Cochrane 2013 REF-0584
+  was WITHDRAWN by Cochrane Heart in 2016 (PMID 27195440) and its own conclusion was "not
+  convincing" - purged and deleted. Added: Holtmann 2003 dyspepsia RCT REF-3507, liver-enzyme MA
+  REF-3509 and steatosis RCT REF-3510 (liver-support), cardiometabolic MA REF-3511 and held lipid
+  MAs REF-2566/2567 (cardiovascular-support), Bundy 2008 RCT REF-3513 (high-cholesterol). New
+  pairs (owner rule): high-blood-pressure REF-3508, blood-sugar REF-3512.'

@@ -14836,7 +14836,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Leaf extract slowed cervical cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1995"
      ],
@@ -15064,14 +15064,7 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0059",
-      "REF-0081",
-      "REF-0096",
       "REF-0109",
-      "REF-0121",
-      "REF-0135",
-      "REF-0178",
-      "REF-0205",
       "REF-2379",
       "REF-2381",
       "REF-2383",
@@ -15082,13 +15075,7 @@
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0059",
-      "REF-0081",
-      "REF-0096",
       "REF-0109",
-      "REF-0121",
-      "REF-0135",
-      "REF-0178",
       "REF-0205",
       "REF-2380"
      ],
@@ -15104,22 +15091,18 @@
       "REF-2384"
      ],
      "status": "verified",
+     "note": "Moderate coffee drinking (3-5 cups a day) was linked to lower cardiovascular disease risk in a meta-analysis of cohort studies; coffee extracts inhibited platelet aggregation in the lab",
      "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Caffeine, coffee's signature compound, improves alertness (MedlinePlus; compound evidence)",
      "reference_ids": [
       "REF-0178"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0059",
-      "REF-0081",
-      "REF-0121",
-      "REF-0135",
-      "REF-0096",
       "REF-0109",
       "REF-0205"
      ],
@@ -15132,14 +15115,8 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0059",
-      "REF-0081",
-      "REF-0096",
-      "REF-0121",
-      "REF-0135",
       "REF-0205",
-      "REF-0109",
-      "REF-0178"
+      "REF-0109"
      ],
      "evidence": 1,
      "label": "Memory"
@@ -15151,8 +15128,29 @@
       "REF-2379"
      ],
      "status": "verified",
+     "note": "Coffee drinking has been linked to lower type 2 diabetes risk (review); coffee-leaf extracts lowered blood glucose in lab studies",
      "evidence": 2,
      "label": "Metabolic support"
+    },
+    {
+     "condition": "liver-support",
+     "note": "Drinking more coffee was linked to a much lower risk of liver cirrhosis in a meta-analysis of observational studies",
+     "reference_ids": [
+      "REF-0135"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Liver support"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Coffee drinking, caffeinated or decaffeinated, was linked to a lower risk of type 2 diabetes in a meta-analysis of prospective studies",
+     "reference_ids": [
+      "REF-3524"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Blood sugar / diabetes support"
     }
    ],
    "contraindications": [
@@ -15198,7 +15196,10 @@
     "REF-2383",
     "REF-2384",
     "REF-2385",
-    "REF-2386"
+    "REF-2386",
+    "REF-0081",
+    "REF-0121",
+    "REF-0096"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -15375,12 +15376,15 @@
     },
     {
      "condition": "immune-support",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-3525"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2153"
      ],
-     "evidence": 1,
+     "note": "C. militaris increased natural killer cell activity and lymphocyte proliferation vs placebo in healthy men (randomized trial)",
+     "evidence": 5,
      "label": "Immune support"
     },
     {
@@ -15635,7 +15639,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0151",
-      "REF-0308",
       "REF-1700",
       "REF-1701",
       "REF-1706",
@@ -15647,7 +15650,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0151",
-      "REF-0308",
       "REF-1701",
       "REF-1705"
      ],
@@ -15657,9 +15659,7 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0151",
-      "REF-0308",
       "REF-1701",
-      "REF-1702",
       "REF-1704",
       "REF-1706",
       "REF-1707",
@@ -15671,8 +15671,7 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0151",
-      "REF-0308"
+      "REF-0151"
      ],
      "status": "verified"
     },
@@ -15680,7 +15679,6 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0151",
-      "REF-0308",
       "REF-1701"
      ],
      "status": "verified"
@@ -15695,7 +15693,6 @@
      "mechanistic_exclude_ids": [
       "REF-1706",
       "REF-1708",
-      "REF-0308",
       "REF-0151"
      ],
      "evidence": 1,
@@ -15707,7 +15704,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0308",
       "REF-0151"
      ],
      "evidence": 1,
@@ -15719,7 +15715,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0308",
       "REF-0151"
      ],
      "evidence": 1,
@@ -15727,26 +15722,24 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "A coriander-oil ointment cleared athlete's foot (tinea pedis) in a small randomized trial; antimicrobial activity in lab studies (review)",
      "reference_ids": [
-      "REF-0151"
+      "REF-0151",
+      "REF-3526"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0308"
-     ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory activity in lab and animal studies (review); in a placebo-controlled skin test, coriander did not significantly reduce UV-induced redness",
      "reference_ids": [
       "REF-0151"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0308"
+     "null_result_ids": [
+      "REF-3527"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -15757,22 +15750,9 @@
       "REF-0151"
      ],
      "status": "verified",
+     "note": "Blood-sugar-lowering and other metabolic activities reported in lab and animal studies (review)",
      "evidence": 2,
      "label": "Metabolic support"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1706",
-      "REF-1708",
-      "REF-0308",
-      "REF-0151"
-     ],
-     "evidence": 1,
-     "label": "Skin irritation"
     },
     {
      "condition": "wounds",
@@ -15780,7 +15760,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0308",
       "REF-0151"
      ],
      "evidence": 1,
@@ -15793,8 +15772,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0151",
-      "REF-0219",
-      "REF-0308"
+      "REF-0219"
      ],
      "status": "verified"
     },
@@ -15804,7 +15782,6 @@
      "reference_ids": [
       "REF-0151",
       "REF-0219",
-      "REF-0308",
       "REF-0063"
      ],
      "status": "verified"
@@ -15816,7 +15793,7 @@
     "REF-0781",
     "REF-1700",
     "REF-1701",
-    "REF-1702",
+    "REF-0151",
     "REF-1703",
     "REF-1704",
     "REF-1705",
@@ -16038,7 +16015,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0108",
-      "REF-2442",
       "REF-1784"
      ],
      "status": "verified"
@@ -16047,7 +16023,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0108",
-      "REF-2442",
       "REF-0783",
       "REF-1780",
       "REF-1781",
@@ -16062,10 +16037,7 @@
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
       "REF-0108",
-      "REF-2442",
-      "REF-0783",
-      "REF-1785",
-      "REF-1786"
+      "REF-0783"
      ],
      "status": "verified"
     },
@@ -16073,7 +16045,6 @@
      "action": "sedative",
      "reference_ids": [
       "REF-0108",
-      "REF-2442",
       "REF-1787"
      ],
      "status": "verified"
@@ -16087,22 +16058,36 @@
       "REF-0082"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3514",
+      "REF-3515"
+     ],
+     "note": "Hawthorn extract improved symptoms and exercise capacity as add-on treatment for chronic heart failure (Cochrane review); two large trials (SPICE, HERB CHF) found no benefit on their main outcomes; traditionally used for nervous heart complaints (EU herbal monograph)",
      "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "insomnia",
-     "note": "inferred from sedative action",
+     "note": "Traditionally used to aid sleep (EU herbal monograph)",
      "reference_ids": [
       "REF-0082"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2442",
       "REF-0108"
      ],
      "evidence": 1,
      "label": "Insomnia / sleeplessness"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Hawthorn (C. laevigata) extract lowered diastolic blood pressure in a randomized trial in people with type 2 diabetes on medication",
+     "reference_ids": [
+      "REF-3516"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [
@@ -16355,8 +16340,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0082",
-      "REF-2442",
       "REF-1709"
      ],
      "status": "verified"
@@ -16371,8 +16354,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0082",
-      "REF-2442",
       "REF-1709",
       "REF-1710",
       "REF-1711",
@@ -16386,8 +16367,7 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0082",
-      "REF-2442"
+      "REF-0082"
      ],
      "status": "verified"
     }
@@ -16398,16 +16378,12 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0082",
-      "REF-2442"
-     ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Hawthorn extract showed anti-leukaemia activity in lab studies (preclinical)",
      "reference_ids": [
       "REF-0785"
      ],
@@ -16422,6 +16398,11 @@
       "REF-2442"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3514",
+      "REF-3515"
+     ],
+     "note": "Hawthorn extract improved symptoms and exercise capacity as add-on treatment for chronic heart failure (Cochrane review); two large trials (SPICE, HERB CHF) found no benefit on their main outcomes; traditionally used for nervous heart complaints (EU herbal monograph)",
      "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
@@ -16430,23 +16411,16 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0082",
-      "REF-2442"
-     ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "insomnia",
-     "note": "inferred from sedative action",
+     "note": "Traditionally used to aid sleep (EU herbal monograph)",
      "reference_ids": [
       "REF-0082"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2442"
-     ],
      "evidence": 1,
      "label": "Insomnia / sleeplessness"
     },
@@ -16455,10 +16429,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0082",
-      "REF-2442"
-     ],
      "evidence": 1,
      "label": "Skin irritation"
     }
@@ -16667,9 +16637,7 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0005",
       "REF-0115",
-      "REF-0172",
       "REF-2004",
       "REF-2006"
      ],
@@ -16678,9 +16646,7 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0005",
       "REF-0115",
-      "REF-0172",
       "REF-2007",
       "REF-2008"
      ],
@@ -16689,18 +16655,14 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0005",
-      "REF-0115",
-      "REF-0172"
+      "REF-0115"
      ],
      "status": "verified"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0005",
       "REF-0115",
-      "REF-0172",
       "REF-2005",
       "REF-2006"
      ],
@@ -16709,9 +16671,7 @@
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0005",
       "REF-0115",
-      "REF-0172",
       "REF-2005",
       "REF-2009"
      ],
@@ -16720,13 +16680,7 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0005",
       "REF-0115",
-      "REF-0172",
-      "REF-0789",
-      "REF-2001",
-      "REF-2002",
-      "REF-2003",
       "REF-2010"
      ],
      "status": "verified"
@@ -16735,89 +16689,76 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Saffron reduced osteoarthritis symptoms, inflammation and painkiller use in a small randomized trial",
+     "reference_ids": [
+      "REF-3519"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0005",
-      "REF-0172",
       "REF-0115"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Saffron and its compounds slowed tumours in lab and animal studies (reviews)",
      "reference_ids": [
       "REF-2007",
       "REF-2008"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0005",
-      "REF-0172"
-     ],
      "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
-     "reference_ids": [],
+     "note": "Saffron improved cognition vs placebo over 16 weeks in mild-to-moderate Alzheimer's disease (randomized trial)",
+     "reference_ids": [
+      "REF-3523"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0005",
-      "REF-0172",
       "REF-0115"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Cognitive function"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Described as anti-inflammatory in Avicenna's Canon; saffron compounds reduced inflammation in lab and animal studies (historical review)",
      "reference_ids": [
       "REF-0115"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0005",
-      "REF-0172"
-     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "insomnia",
-     "note": "inferred from sedative action",
+     "note": "A standardised saffron extract improved subjective and objective sleep quality in older adults with sleep complaints (randomized trial); described as hypnotic in Avicenna's Canon (historical review)",
      "reference_ids": [
-      "REF-0115"
+      "REF-0115",
+      "REF-3518"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0005",
-      "REF-0172",
-      "REF-0789",
-      "REF-2001",
-      "REF-2002",
-      "REF-2003",
       "REF-2010"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
-     "reference_ids": [],
+     "note": "Saffron improved cognition, including memory tests, vs placebo in mild-to-moderate Alzheimer's disease (randomized trial)",
+     "reference_ids": [
+      "REF-3523"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0005",
-      "REF-0172",
       "REF-0115"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Memory"
     },
     {
@@ -16826,8 +16767,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0005",
-      "REF-0172",
       "REF-0115"
      ],
      "evidence": 1,
@@ -16841,11 +16780,65 @@
       "REF-0172",
       "REF-0789",
       "REF-2001",
-      "REF-2002"
+      "REF-2002",
+      "REF-3517"
      ],
      "status": "verified",
      "evidence": 10,
      "label": "Low mood / depression"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Saffron reduced self-rated anxiety in a GRADE-assessed meta-analysis of randomized trials and in a trial in healthy adults; clinician-rated scores did not change significantly",
+     "reference_ids": [
+      "REF-3517",
+      "REF-2002"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "pms",
+     "note": "Saffron eased premenstrual syndrome symptoms vs placebo in a randomized trial and a meta-analysis",
+     "reference_ids": [
+      "REF-3520",
+      "REF-3521"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "PMS / premenstrual syndrome"
+    },
+    {
+     "condition": "menstrual-cramps",
+     "note": "Saffron reduced period pain (dysmenorrhoea) in a meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-3521"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Menstrual cramps"
+    },
+    {
+     "condition": "metabolic-support",
+     "note": "Saffron improved fasting glucose, HbA1c, cholesterol and blood pressure in metabolic syndrome (meta-analysis of randomized trials)",
+     "reference_ids": [
+      "REF-3522"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Metabolic support"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Saffron lowered fasting glucose and HbA1c vs placebo in diabetes (meta-analyses of randomized trials)",
+     "reference_ids": [
+      "REF-2502",
+      "REF-3522"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Blood sugar / diabetes support"
     }
    ],
    "contraindications": [
@@ -17037,20 +17030,7 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0008",
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0654",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307"
+      "REF-0008"
      ],
      "status": "verified"
     },
@@ -17058,19 +17038,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0008",
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0654",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
       "REF-0657"
      ],
      "status": "verified"
@@ -17079,19 +17046,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0008",
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0654",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
       "REF-0657"
      ],
      "status": "verified"
@@ -17101,19 +17055,6 @@
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
       "REF-0008",
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0654",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
       "REF-0656"
      ],
      "status": "verified"
@@ -17122,19 +17063,6 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0008",
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0654",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
       "REF-0656"
      ],
      "status": "verified"
@@ -17143,25 +17071,12 @@
    "indications": [
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditionally used for flatulence (review of ethnopharmacology)",
      "reference_ids": [
       "REF-0008"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
-      "REF-0654",
       "REF-0656"
      ],
      "evidence": 2,
@@ -17169,25 +17084,12 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditionally used for dyspepsia (review of ethnopharmacology)",
      "reference_ids": [
       "REF-0008"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
-      "REF-0654",
       "REF-0656"
      ],
      "evidence": 2,
@@ -17195,25 +17097,12 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Antimicrobial activity reported in lab studies (review)",
      "reference_ids": [
       "REF-0008"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
-      "REF-0654",
       "REF-0657"
      ],
      "evidence": 2,
@@ -17221,26 +17110,11 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory activity reported in lab and animal studies (review)",
      "reference_ids": [
       "REF-0008"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
-      "REF-0654"
-     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -17249,41 +17123,28 @@
      "reference_ids": [
       "REF-0008",
       "REF-0158",
-      "REF-0653"
+      "REF-0653",
+      "REF-3528"
      ],
      "status": "verified",
      "null_result_ids": [
       "REF-0654",
       "REF-0655"
      ],
-     "evidence": 8,
+     "note": "Cumin improved blood glucose, triglycerides and waist size in some meta-analyses of trials and helped weight loss as much as orlistat in one trial; another meta-analysis and a trial of cumin oil found no effect on glycaemic markers or most metabolic-syndrome components",
+     "evidence": 9,
      "label": "Metabolic support"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
+     "condition": "high-cholesterol",
+     "note": "Cumin lowered total cholesterol and some other blood lipids in meta-analyses of randomized trials",
      "reference_ids": [
-      "REF-0008"
+      "REF-0652",
+      "REF-0286"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0026",
-      "REF-0066",
-      "REF-0067",
-      "REF-0116",
-      "REF-0147",
-      "REF-0156",
-      "REF-0158",
-      "REF-0171",
-      "REF-0175",
-      "REF-0267",
-      "REF-0286",
-      "REF-0307",
-      "REF-0654",
-      "REF-0656"
-     ],
-     "evidence": 2,
-     "label": "Muscle spasm"
+     "status": "verified",
+     "evidence": 8,
+     "label": "High cholesterol"
     }
    ],
    "contraindications": [
@@ -17367,7 +17228,17 @@
    "status": "verified",
    "last_updated": "2026-08-14",
    "references": [
-    "REF-0652"
+    "REF-0652",
+    "REF-0026",
+    "REF-0066",
+    "REF-0067",
+    "REF-0116",
+    "REF-0147",
+    "REF-0156",
+    "REF-0175",
+    "REF-0267",
+    "REF-0307",
+    "REF-0171"
    ],
    "common_slug": "cumin"
   },
@@ -17486,7 +17357,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0002",
-      "REF-0273",
       "REF-0308",
       "REF-0791",
       "REF-2164",
@@ -17503,7 +17373,6 @@
      "action": "anticancer",
      "reference_ids": [
       "REF-0002",
-      "REF-0273",
       "REF-0308"
      ],
      "status": "verified"
@@ -17512,7 +17381,6 @@
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0002",
-      "REF-0273",
       "REF-0308"
      ],
      "status": "verified"
@@ -17521,7 +17389,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0002",
-      "REF-0273",
       "REF-0308",
       "REF-2172"
      ],
@@ -17531,7 +17398,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0002",
-      "REF-0273",
       "REF-0308",
       "REF-2169",
       "REF-2171"
@@ -17542,7 +17408,6 @@
      "action": "gastroprotective",
      "reference_ids": [
       "REF-0002",
-      "REF-0273",
       "REF-0308"
      ],
      "status": "verified"
@@ -17551,14 +17416,13 @@
    "indications": [
     {
      "condition": "acid-reflux",
-     "note": "inferred from gastroprotective action",
+     "note": "Traditional remedy for acid dyspepsia (WHO monograph)",
      "reference_ids": [
       "REF-0308"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0002",
-      "REF-0273"
+      "REF-0002"
      ],
      "evidence": 1,
      "label": "Acid reflux"
@@ -17568,27 +17432,25 @@
      "reference_ids": [
       "REF-0308",
       "REF-0791",
-      "REF-0792"
+      "REF-0792",
+      "REF-2167"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0273",
       "REF-2165",
       "REF-0002"
      ],
-     "evidence": 8,
+     "note": "Turmeric extract and curcumin improved arthritis symptoms and inflammation in meta-analyses of randomized trials (low-quality evidence); traditional use for rheumatic pain (WHO monograph)",
+     "evidence": 9,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Curcumin, turmeric's signature compound, showed anticancer effects in lab and animal studies (review; compound evidence)",
      "reference_ids": [
       "REF-0002"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0273"
-     ],
      "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
@@ -17598,32 +17460,31 @@
       "REF-0002"
      ],
      "status": "verified",
+     "note": "Curcumin's anti-inflammatory effects have been studied in cardiovascular disease (review; compound evidence)",
      "evidence": 2,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "indigestion",
-     "note": "inferred from gastroprotective action",
+     "note": "Traditional remedy for dyspepsia (WHO monograph)",
      "reference_ids": [
       "REF-0308"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0002",
-      "REF-0273"
+      "REF-0002"
      ],
      "evidence": 1,
      "label": "Indigestion"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditional remedy for ringworm (WHO monograph); antimicrobial activity in lab studies (review)",
      "reference_ids": [
       "REF-0308"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0273",
       "REF-0002"
      ],
      "evidence": 1,
@@ -17631,42 +17492,40 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Turmeric/curcumin lowered inflammatory markers such as CRP in meta-analyses of randomized trials; traditional anti-inflammatory use (WHO monograph)",
      "reference_ids": [
       "REF-0002",
-      "REF-0308"
+      "REF-0308",
+      "REF-0791",
+      "REF-3534"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0273"
-     ],
-     "evidence": 2,
+     "evidence": 8,
      "label": "Inflammation (general)"
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
+     "note": "Turmeric/curcumin improved weight, waist size and adiposity hormones in a meta-analysis of randomized trials",
      "reference_ids": [
-      "REF-0002"
+      "REF-0002",
+      "REF-3535"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0273",
       "REF-0308"
      ],
-     "evidence": 2,
+     "evidence": 7,
      "label": "Metabolic support"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional remedy for skin diseases (WHO monograph); a systematic review found limited but promising clinical evidence for skin conditions",
      "reference_ids": [
       "REF-0308",
       "REF-2165"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0273",
       "REF-0791",
       "REF-0792",
       "REF-0002"
@@ -17676,17 +17535,78 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditional remedy for slow-healing wounds (WHO monograph)",
      "reference_ids": [
       "REF-0308"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0273",
       "REF-0002"
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Turmeric/curcumin lowered fasting glucose and HbA1c in meta-analyses and systematic reviews of randomized trials",
+     "reference_ids": [
+      "REF-3529",
+      "REF-0793"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Turmeric/curcumin improved total, LDL and HDL cholesterol and triglycerides in a GRADE-assessed meta-analysis (low-certainty evidence)",
+     "reference_ids": [
+      "REF-3530"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Turmeric/curcumin modestly lowered blood pressure in a GRADE-assessed meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-3531"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High blood pressure"
+    },
+    {
+     "condition": "ibd",
+     "note": "Adding curcumin to standard treatment increased clinical remission in ulcerative colitis (meta-analyses of randomized trials)",
+     "reference_ids": [
+      "REF-3532",
+      "REF-2167"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Inflammatory bowel disease (IBD)"
+    },
+    {
+     "condition": "psoriasis",
+     "note": "Curcumin and turmeric extract improved psoriasis in a meta-analysis of randomized trials in autoimmune diseases",
+     "reference_ids": [
+      "REF-2167"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Psoriasis"
+    },
+    {
+     "condition": "depression",
+     "note": "Curcumin added to standard care improved depressive and anxiety symptoms in a meta-analysis of small randomized trials",
+     "reference_ids": [
+      "REF-3533"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Low mood / depression"
     }
    ],
    "contraindications": [
@@ -17724,7 +17644,8 @@
     "REF-2169",
     "REF-2170",
     "REF-2171",
-    "REF-2172"
+    "REF-2172",
+    "REF-0273"
    ],
    "drug_class_interactions": [
     {
@@ -17928,7 +17849,6 @@
      "note": "Lipid-lowering - helps reduce cholesterol (an RCT showed lower total and LDL cholesterol and higher HDL; a Cochrane review judged the overall evidence promising but not yet convincing)",
      "reference_ids": [
       "REF-0461",
-      "REF-0584",
       "REF-0585",
       "REF-2566",
       "REF-2567",
@@ -17940,7 +17860,7 @@
    "indications": [
     {
      "condition": "bloating",
-     "note": "Digestive aid for dyspeptic complaints - indigestion, bloating and fullness",
+     "note": "Traditional digestive aid for bloating and fullness (EU herbal monograph)",
      "reference_ids": [
       "REF-0462"
      ],
@@ -17953,14 +17873,16 @@
     },
     {
      "condition": "cardiovascular-support",
-     "note": "inferred from lipid-lowering action",
+     "note": "Artichoke modestly improved cholesterol, triglycerides and other cardiometabolic risk markers in meta-analyses of randomized trials",
      "reference_ids": [
       "REF-0461",
-      "REF-0584",
-      "REF-0585"
+      "REF-0585",
+      "REF-3511",
+      "REF-2566",
+      "REF-2567"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 9,
      "label": "Cardiovascular / heart health"
     },
     {
@@ -17976,14 +17898,14 @@
     },
     {
      "condition": "high-cholesterol",
-     "note": "inferred from lipid-lowering action",
+     "note": "Artichoke leaf extract lowered total and LDL cholesterol and triglycerides in meta-analyses of randomized trials",
      "reference_ids": [
       "REF-0461",
-      "REF-0584",
       "REF-0585",
       "REF-2566",
       "REF-2567",
-      "REF-2569"
+      "REF-2569",
+      "REF-3513"
      ],
      "status": "needs-review",
      "evidence": 9,
@@ -17991,27 +17913,50 @@
     },
     {
      "condition": "indigestion",
-     "note": "Digestive aid for dyspeptic complaints - indigestion, bloating and fullness",
+     "note": "Artichoke leaf extract relieved functional dyspepsia better than placebo in a randomized trial; traditional digestive aid (EU herbal monograph)",
      "reference_ids": [
-      "REF-0462"
+      "REF-0462",
+      "REF-3507"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0461"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Indigestion"
     },
     {
      "condition": "liver-support",
-     "note": "Hepatoprotective / liver support (protects liver cells and may aid their regeneration)",
+     "note": "Artichoke lowered liver enzymes, especially in fatty liver disease, and reduced liver fat in meta-analyses and trials (in one trial in obesity, liver enzymes rose); liver-protective effects in animal studies",
      "reference_ids": [
       "REF-0461",
-      "REF-2568"
+      "REF-2568",
+      "REF-3509",
+      "REF-3510"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "Liver support"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Artichoke lowered blood pressure in people with hypertension (meta-analysis of randomized trials)",
+     "reference_ids": [
+      "REF-3508"
      ],
      "status": "verified",
      "evidence": 7,
-     "label": "Liver support"
+     "label": "High blood pressure"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Artichoke products lowered fasting blood sugar in a meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-3512"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Blood sugar / diabetes support"
     }
    ],
    "contraindications": [

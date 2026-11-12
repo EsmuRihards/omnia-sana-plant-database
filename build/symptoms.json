@@ -1577,6 +1577,20 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0461",
+      "REF-0585",
+      "REF-3511",
+      "REF-2566",
+      "REF-2567"
+     ]
+    },
+    {
      "condition": "high-cholesterol",
      "label": "High cholesterol",
      "evidence": 9,
@@ -1584,34 +1598,55 @@
      "inferred": true,
      "references": [
       "REF-0461",
-      "REF-0584",
       "REF-0585",
       "REF-2566",
       "REF-2567",
-      "REF-2569"
-     ]
-    },
-    {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 8,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0461",
-      "REF-0584",
-      "REF-0585"
+      "REF-2569",
+      "REF-3513"
      ]
     },
     {
      "condition": "liver-support",
      "label": "Liver support",
-     "evidence": 7,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0461",
-      "REF-2568"
+      "REF-2568",
+      "REF-3509",
+      "REF-3510"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3512"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3508"
+     ]
+    },
+    {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0462",
+      "REF-3507"
      ]
     },
     {
@@ -1631,16 +1666,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": []
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0462"
-     ]
     }
    ]
   },
@@ -4632,6 +4657,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3524"
+     ]
+    },
+    {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
      "evidence": 7,
@@ -4641,6 +4676,16 @@
       "REF-0059",
       "REF-0109",
       "REF-2384"
+     ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0135"
      ]
     },
     {
@@ -5042,6 +5087,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3525"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -5052,14 +5107,6 @@
     {
      "condition": "cold",
      "label": "Cold & flu",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -5093,11 +5140,12 @@
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 2,
+     "evidence": 5,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0151"
+      "REF-0151",
+      "REF-3526"
      ]
     },
     {
@@ -5139,14 +5187,6 @@
     {
      "condition": "indigestion",
      "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -5451,13 +5491,25 @@
     {
      "condition": "metabolic-support",
      "label": "Metabolic support",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0008",
       "REF-0158",
-      "REF-0653"
+      "REF-0653",
+      "REF-3528"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0652",
+      "REF-0286"
      ]
     },
     {
@@ -5493,16 +5545,6 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0008"
-     ]
-    },
-    {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
      "evidence": 2,
      "status": "needs-review",
      "inferred": true,
@@ -10602,6 +10644,16 @@
      ]
     },
     {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3516"
+     ]
+    },
+    {
      "condition": "insomnia",
      "label": "Insomnia / sleeplessness",
      "evidence": 1,
@@ -12676,7 +12728,102 @@
       "REF-0172",
       "REF-0789",
       "REF-2001",
+      "REF-2002",
+      "REF-3517"
+     ]
+    },
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3517",
       "REF-2002"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2502",
+      "REF-3522"
+     ]
+    },
+    {
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3520",
+      "REF-3521"
+     ]
+    },
+    {
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3521"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3522"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3519"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3523"
+     ]
+    },
+    {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0115",
+      "REF-3518"
+     ]
+    },
+    {
+     "condition": "memory",
+     "label": "Memory",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3523"
      ]
     },
     {
@@ -12699,40 +12846,6 @@
      "references": [
       "REF-0115"
      ]
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0115"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "memory",
-     "label": "Memory",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     },
     {
      "condition": "skin-irritation",
@@ -14603,13 +14716,100 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0308",
       "REF-0791",
-      "REF-0792"
+      "REF-0792",
+      "REF-2167"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3529",
+      "REF-0793"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0002",
+      "REF-0308",
+      "REF-0791",
+      "REF-3534"
+     ]
+    },
+    {
+     "condition": "ibd",
+     "label": "Inflammatory bowel disease (IBD)",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3532",
+      "REF-2167"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3531"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3530"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3533"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0002",
+      "REF-3535"
+     ]
+    },
+    {
+     "condition": "psoriasis",
+     "label": "Psoriasis",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2167"
      ]
     },
     {
@@ -14639,27 +14839,6 @@
      "evidence": 2,
      "status": "verified",
      "inferred": false,
-     "references": [
-      "REF-0002"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0002",
-      "REF-0308"
-     ]
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
      "references": [
       "REF-0002"
      ]

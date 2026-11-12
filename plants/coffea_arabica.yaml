@@ -96,14 +96,7 @@ constituents:
 actions:
 - action: antioxidant
   reference_ids:
-  - REF-0059
-  - REF-0081
-  - REF-0096
   - REF-0109
-  - REF-0121
-  - REF-0135
-  - REF-0178
-  - REF-0205
   - REF-2379
   - REF-2381
   - REF-2383
@@ -111,13 +104,7 @@ actions:
   status: verified
 - action: neuroprotective
   reference_ids:
-  - REF-0059
-  - REF-0081
-  - REF-0096
   - REF-0109
-  - REF-0121
-  - REF-0135
-  - REF-0178
   - REF-0205
   - REF-2380
   status: verified
@@ -128,17 +115,14 @@ indications:
   - REF-0109
   - REF-2384
   status: verified
+  note: Moderate coffee drinking (3-5 cups a day) was linked to lower cardiovascular disease risk in a
+    meta-analysis of cohort studies; coffee extracts inhibited platelet aggregation in the lab
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Caffeine, coffee's signature compound, improves alertness (MedlinePlus; compound evidence)
   reference_ids:
   - REF-0178
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0059
-  - REF-0081
-  - REF-0121
-  - REF-0135
-  - REF-0096
   - REF-0109
   - REF-0205
 - condition: memory
@@ -146,18 +130,26 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0059
-  - REF-0081
-  - REF-0096
-  - REF-0121
-  - REF-0135
   - REF-0205
   - REF-0109
-  - REF-0178
 - condition: metabolic-support
   reference_ids:
   - REF-0109
   - REF-2379
+  status: verified
+  note: Coffee drinking has been linked to lower type 2 diabetes risk (review); coffee-leaf extracts lowered
+    blood glucose in lab studies
+- condition: liver-support
+  note: Drinking more coffee was linked to a much lower risk of liver cirrhosis in a meta-analysis of
+    observational studies
+  reference_ids:
+  - REF-0135
+  status: verified
+- condition: blood-sugar
+  note: Coffee drinking, caffeinated or decaffeinated, was linked to a lower risk of type 2 diabetes in
+    a meta-analysis of prospective studies
+  reference_ids:
+  - REF-3524
   status: verified
 contraindications:
 - note: Caffeine is the primary psychoactive component; excessive intake (>400 mg/day in adults, >200
@@ -210,6 +202,9 @@ references:
 - REF-2384
 - REF-2385
 - REF-2386
+- REF-0081
+- REF-0121
+- REF-0096
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -243,4 +238,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   cardiovascular-benefit evidence. MedlinePlus caffeine (REF-0178; caffeine = signature compound)
   supports alertness only (it lists raised blood pressure as an effect) - kept for
   cognitive-function. REF-0096 (sport performance), REF-0109 and REF-0205 (Parkinson risk) removed
-  from cognitive/memory; REF-0059 (CVD cohort SR) removed from metabolic.'
+  from cognitive/memory; REF-0059 (CVD cohort SR) removed from metabolic.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. The
+  antioxidant/neuroprotective actions held non-evidence: EFSA caffeine SAFETY opinion REF-0081,
+  ICO trade report REF-0121, ISSN sport position stand REF-0096 (kept in references), a cirrhosis
+  MA REF-0135, a CVD cohort MA REF-0059 and MedlinePlus caffeine REF-0178 - removed. New pairs
+  (owner rule): liver-support from REF-0135 (cirrhosis MA), blood-sugar from Ding 2014 MA REF-3524
+  (observational association, labelled).'

@@ -102,7 +102,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0308
   - REF-0791
   - REF-2164
@@ -116,26 +115,22 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0308
   status: verified
 - action: antidiabetic
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0308
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0308
   - REF-2172
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0308
   - REF-2169
   - REF-2171
@@ -143,90 +138,128 @@ actions:
 - action: gastroprotective
   reference_ids:
   - REF-0002
-  - REF-0273
   - REF-0308
   status: verified
 indications:
 - condition: acid-reflux
-  note: inferred from gastroprotective action
+  note: Traditional remedy for acid dyspepsia (WHO monograph)
   reference_ids:
   - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0002
-  - REF-0273
 - condition: arthritis
   reference_ids:
   - REF-0308
   - REF-0791
   - REF-0792
+  - REF-2167
   status: verified
   mechanistic_exclude_ids:
-  - REF-0273
   - REF-2165
   - REF-0002
+  note: Turmeric extract and curcumin improved arthritis symptoms and inflammation in meta-analyses of
+    randomized trials (low-quality evidence); traditional use for rheumatic pain (WHO monograph)
 - condition: cancer
-  note: inferred from anticancer action
+  note: Curcumin, turmeric's signature compound, showed anticancer effects in lab and animal studies (review;
+    compound evidence)
   reference_ids:
   - REF-0002
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0273
 - condition: cardiovascular-support
   reference_ids:
   - REF-0002
   status: verified
+  note: Curcumin's anti-inflammatory effects have been studied in cardiovascular disease (review; compound
+    evidence)
 - condition: indigestion
-  note: inferred from gastroprotective action
+  note: Traditional remedy for dyspepsia (WHO monograph)
   reference_ids:
   - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0002
-  - REF-0273
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Traditional remedy for ringworm (WHO monograph); antimicrobial activity in lab studies (review)
   reference_ids:
   - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0273
   - REF-0002
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Turmeric/curcumin lowered inflammatory markers such as CRP in meta-analyses of randomized trials;
+    traditional anti-inflammatory use (WHO monograph)
   reference_ids:
   - REF-0002
   - REF-0308
+  - REF-0791
+  - REF-3534
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0273
 - condition: metabolic-support
-  note: inferred from antidiabetic action
+  note: Turmeric/curcumin improved weight, waist size and adiposity hormones in a meta-analysis of randomized
+    trials
   reference_ids:
   - REF-0002
+  - REF-3535
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0273
   - REF-0308
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditional remedy for skin diseases (WHO monograph); a systematic review found limited but promising
+    clinical evidence for skin conditions
   reference_ids:
   - REF-0308
   - REF-2165
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0273
   - REF-0791
   - REF-0792
   - REF-0002
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Traditional remedy for slow-healing wounds (WHO monograph)
   reference_ids:
   - REF-0308
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0273
   - REF-0002
+- condition: blood-sugar
+  note: Turmeric/curcumin lowered fasting glucose and HbA1c in meta-analyses and systematic reviews of
+    randomized trials
+  reference_ids:
+  - REF-3529
+  - REF-0793
+  status: verified
+- condition: high-cholesterol
+  note: Turmeric/curcumin improved total, LDL and HDL cholesterol and triglycerides in a GRADE-assessed
+    meta-analysis (low-certainty evidence)
+  reference_ids:
+  - REF-3530
+  status: verified
+- condition: high-blood-pressure
+  note: Turmeric/curcumin modestly lowered blood pressure in a GRADE-assessed meta-analysis of randomized
+    trials
+  reference_ids:
+  - REF-3531
+  status: verified
+- condition: ibd
+  note: Adding curcumin to standard treatment increased clinical remission in ulcerative colitis (meta-analyses
+    of randomized trials)
+  reference_ids:
+  - REF-3532
+  - REF-2167
+  status: verified
+- condition: psoriasis
+  note: Curcumin and turmeric extract improved psoriasis in a meta-analysis of randomized trials in autoimmune
+    diseases
+  reference_ids:
+  - REF-2167
+  status: verified
+- condition: depression
+  note: Curcumin added to standard care improved depressive and anxiety symptoms in a meta-analysis of
+    small randomized trials
+  reference_ids:
+  - REF-3533
+  status: verified
 contraindications:
 - note: Generally very safe in culinary quantities. High-dose curcumin supplements may cause gastrointestinal
     upset. May interact with anticoagulants (warfarin), antidiabetic drugs, and acid-suppressing medications.
@@ -264,6 +297,7 @@ references:
 - REF-2170
 - REF-2171
 - REF-2172
+- REF-0273
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
@@ -318,4 +352,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (curcumin review; signature compound) kept for cardiovascular, metabolic, inflammation, cancer.
   Arthritis SR/MAs REF-0791/REF-0792 and skin SR REF-2165 moved from mechanistic-only to direct.
   | 2026-11-10: symptom-source audit batch 8 - REF-0305 merged into REF-0308 (both were WHO
-  Monographs on Selected Medicinal Plants vol. 1, 1999).'
+  Monographs on Selected Medicinal Plants vol. 1, 1999).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. Piperine
+  pharmacokinetics study REF-0273 removed from all six actions (kept in references). Held MAs
+  REF-2167 (RA, psoriasis, UC) and REF-0791 wired. New pairs from GRADE-assessed MAs (owner rule;
+  curcumin = signature compound, labelled): blood-sugar (REF-3529 + held SR REF-0793),
+  high-cholesterol REF-3530, high-blood-pressure REF-3531, ibd REF-3532 + REF-2167, psoriasis
+  REF-2167, depression REF-3533. Inflammation MA REF-3534 and obesity MA REF-3535 added. Not added
+  (owner to decide): liver-support - a GRADE MA (37178581) exists, but turmeric-associated liver
+  injury is reported (Tuscany phytovigilance SR 32656820); muscle-soreness MA 37408367 was null
+  (no pair exists).'

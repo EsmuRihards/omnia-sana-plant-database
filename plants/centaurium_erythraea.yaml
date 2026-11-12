@@ -160,7 +160,7 @@ actions:
   status: verified
 indications:
 - condition: acid-reflux
-  note: inferred from gastroprotective action
+  note: Traditionally used for heartburn (Herbal Reality)
   reference_ids:
   - REF-0432
   status: needs-review
@@ -177,7 +177,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-1992
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for joint pain (Herbal Reality)
   reference_ids:
   - REF-0432
   status: needs-review
@@ -195,7 +195,7 @@ indications:
   - REF-0431
   - REF-0619
 - condition: detox
-  note: inferred from hepatoprotective action
+  note: Traditional bitter "blood-cleansing" tonic (Herbal Reality)
   reference_ids:
   - REF-0432
   status: needs-review
@@ -214,7 +214,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-1992
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory activity in lab and animal studies (review); traditional use (Herbal Reality)
   reference_ids:
   - REF-0432
   - REF-0619
@@ -222,7 +222,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0431
 - condition: liver-support
-  note: inferred from hepatoprotective action
+  note: Liver-protective activity in animal studies (review); traditional liver tonic (Herbal Reality)
   reference_ids:
   - REF-0432
   - REF-0619
@@ -230,7 +230,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0431
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for skin complaints (Herbal Reality)
   reference_ids:
   - REF-0432
   status: needs-review
@@ -299,4 +299,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA
   and gut disorders and temporary loss of appetite only - removed from 7 pairs. Herbal Reality
   (REF-0432) names all 9 uses. REF-0619 names dyspeptic complaints, loss of appetite,
   anti-inflammatory and hepatoprotective activity - wired to appetite-loss, removed from
-  acid-reflux, arthritis, bloating, detox, skin.'
+  acid-reflux, arthritis, bloating, detox, skin.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. Notes rewritten from
+  "inferred" to their sources (Herbal Reality names all nine uses, batch 4; review REF-0619). No
+  trials on PubMed.'

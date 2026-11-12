@@ -1,0 +1,263 @@
+# Landmark search batch 4
+
+## cannabis-sativa (Cannabis sativa; Hemp) - 99 hits; query: ("Cannabis sativa"[tiab]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41410133 | SR | Update on occupational contact urticaria: a systematic narrative review.
+- new | 2026 | 42506315 | SR/MA | Nabiximols in Multiple Sclerosis: Beyond Spasticity-An Exploratory Systematic Review and Meta-Analysis of Symptomatic Outcomes.
+- new | 2026 | 42494831 | SR | Functional neuroimaging of Cannabidiol in stress and anxiety: a systematic review.
+- new | 2026 | 42254894 | SR | Potential antitumor effect of cannabidiol (CBD) in canine oncology: a systematic review.
+- new | 2026 | 41417208 | SR | The Influence of CBD and THC on Hepatic Enzymes of the Human Cytochrome P450 Complex Family: A Systematic Literature Review.
+- new | 2026 | 42321899 | SR | The effects of oral cannabidiol supplementation on blood pressure in adults: a systematic review of randomised controlled trials.
+- new | 2026 | 42867607 | SR | The Use of Cannabidiol in Cutaneous Wound Healing: A Systematic Review.
+- new | 2026 | 42357416 | SR | CBD-Containing Hemp Extracts and Isolated CBD for Acne: A Systematic Review of Anti-Inflammatory Mechanisms, Clinical Signals and Sustainability.
+- new | 2025 | 40917836 | SR | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review.
+- new | 2025 | 41023483 | RCT | Full-spectrum extract from Cannabis sativa DKJ127 for chronic low back pain: a phase 3 randomized placebo-controlled trial.
+- new | 2025 | 41181596 | SR | Cannabis and cannabinoids in dermatology: a systematic review and meta-analysis of quantitative outcomes.
+- new | 2025 | 40267856 | MA/SR | Cannabis derivatives and their synthetic analogs for treatment-resistant epilepsy: A systematic review and meta-analysis.
+- new | 2025 | 40967679 | MA/SR | Chemical diversity, receptor binding affinity, and pharmacology of phytocannabinoids: Insights into neuronal mechanisms.
+- new | 2025 | 40275168 | SR | Cannabidiol as a novel therapeutic agent in breast cancer: evidence from literature.
+- new | 2025 | 40454502 | SR | Innovations in Cannabis Delivery Systems: A Patent Review (2012-2024).
+- new | 2025 | 40500407 | RCT | The neural and psychophysiological effects of cannabidiol in youth with alcohol use disorder: A randomized controlled clinical trial.
+- new | 2025 | 40518055 | SR | Nanoformulated cannabidiol for skin disorders: A GRADE-based systematic review of therapeutic evidence and efficacy.
+- new | 2025 | 39880884 | RCT | A high-fat meal significantly impacts the bioavailability and biphasic absorption of cannabidiol (CBD) from a CBD-rich extract in men and women.
+- new | 2025 | 39256070 | RCT | Effect of Topical Hemp (Cannabis sativa L.) Seed Oil on Knee Osteoarthritis: A Randomized Double-Blind Controlled Trial.
+- new | 2024 | 35617670 | RCT | Evaluation of the efficacy and safety of cannabidiol-rich cannabis extract in children with autism spectrum disorder: randomized, double-blind, and placebo-controlled cli
+- new | 2024 | 38574248 | RCT | Impact of Dietary Fat and Oral Delivery System on Cannabigerol Pharmacokinetics in Adults.
+- new | 2024 | 38085421 | RCT | Effects of eight-week regular high-intensity interval training and hemp (Cannabis sativa L.) seed on total testosterone level among sedentary young males: double-blind, r
+- new | 2024 | 38252501 | SR | Bibliometric Analysis of Cannabis sativa Research: Trends, Challenges, and Future Directions.
+- new | 2024 | 38397045 | SR | The Role of Cannabidiol in Liver Disease: A Systemic Review.
+- new | 2024 | 39488240 | RCT | Impact of combined plant extracts on long COVID: An exploratory randomized controlled trial.
+- new | 2024 | 39596518 | SR | The Evolving Role of Cannabidiol-Rich Cannabis in People with Autism Spectrum Disorder: A Systematic Review.
+- new | 2024 | 38904150 | RCT | The effects of a brand-specific, hemp-derived cannabidiol product on physiological, biochemical, and psychometric outcomes in healthy adults: a double-blind, randomized c
+- new | 2023 | 37781283 | SR | Efficacy and safety of cannabidiol for the treatment of canine osteoarthritis: a systematic review and meta-analysis of animal intervention studies.
+- new | 2023 | 35749710 | RCT | The Effect of Cannabidiol for Restless Legs Syndrome/Willis-Ekbom Disease in Parkinson's Disease Patients with REM Sleep Behavior Disorder: A Post Hoc Exploratory Analysi
+- new | 2023 | 35984927 | MA/SR | Effects of Δ(9)-THC and Type-1 Cannabinoid Receptor Agonists in the Elevated Plus Maze Test of Anxiety: A Systematic Review and Meta-Analysis.
+- new | 2023 | 36625844 | RCT | The effects of cannabidiol on subjective states, cognition, and psychomotor function in healthy adults: A randomized clinical trial.
+- new | 2022 | 35510826 | SR | Cannabis and cannabinoids for symptomatic treatment for people with multiple sclerosis.
+- new | 2022 | 36439263 | SR | Cys-loop receptors on cannabinoids: All high?
+- new | 2022 | 35588917 | SR | Cannabis induced psychosis: A systematic review on the role of genetic polymorphisms.
+- new | 2022 | 35502947 | RCT | Cannabinoids and Pain for the Plastic Surgeon: What Is the Evidence?
+- new | 2022 | 34190422 | RCT | Cannabidiol for at risk for psychosis youth: A randomized controlled trial.
+- new | 2022 | 35566210 | RCT | Enhanced Oral Bioavailability of β-Caryophyllene in Healthy Subjects Using the VESIsorb(®) Formulation Technology, a Novel Self-Emulsifying Drug Delivery System (SEDDS).
+- new | 2022 | 36180814 | SR | Effects of Cannabidiol on Appetite and Body Weight: A Systematic Review.
+- new | 2022 | 35637624 | RCT | Effects of cannabidiol on simulated driving and cognitive performance: A dose-ranging randomised controlled trial.
+- new | 2022 | 35179705 | SR | Cannabinoid-Related Acute Pancreatitis: An Update from International Literature and Individual Case Safety Reports.
+- new | 2022 | 36271316 | SR | The Effectiveness and Safety of Cannabidiol in Non-seizure-related Indications: A Systematic Review of Published Randomized Clinical Trials.
+- new | 2022 | 34612729 | SR | The Use of Cannabis sativa L. for Pest Control: From the Ethnobotanical Knowledge to a Systematic Review of Experimental Studies.
+- new | 2022 | 36042166 | SR | Using the BMD Approach to Derive Acceptable Daily Intakes of Cannabidiol (CBD) and Tetrahydrocannabinol (THC) Relevant to Electronic Cigarette Liquids.
+- new | 2021 | 33754375 | RCT | Cannabidiol for Rapid Eye Movement Sleep Behavior Disorder.
+- new | 2021 | 34405898 | SR | A systematic review of quantitative analysis of cannabinoids in oral fluid.
+- new | 2021 | 33492630 | SR | Immunomodulatory Potential of Cannabidiol in Multiple Sclerosis: a Systematic Review.
+- new | 2021 | 33812759 | SR | Efficacy of cannabinoids against glioblastoma multiforme: A systematic review.
+- new | 2021 | 34361095 | SR | Cannabinoids Drugs and Oral Health-From Recreational Side-Effects to Medicinal Purposes: A Systematic Review.
+- new | 2021 | 33530732 | SR | Evidence for Use of Cannabinoids in Mood Disorders, Anxiety Disorders, and PTSD: A Systematic Review.
+- new | 2021 | 33754312 | SR | Highly Purified Cannabidiol for Epilepsy Treatment: A Systematic Review of Epileptic Conditions Beyond Dravet Syndrome and Lennox-Gastaut Syndrome.
+- new | 2021 | 35082815 | SR | Optimizing Photoperiod Switch to Maximize Floral Biomass and Cannabinoid Yield in Cannabis sativa L.: A Meta-Analytic Quantile Regression Approach.
+- new | 2021 | 33075170 | RCT | A phase I trial of the safety, tolerability and pharmacokinetics of cannabidiol administered as single-dose oil solution and single and multiple doses of a sublingual waf
+- new | 2021 | 34037196 | MA/SR | Effectiveness of complementary therapies for the management of symptom clusters in palliative care in pediatric oncology: a systematic review.
+- new | 2020 | 31793418 | RCT | The Effectiveness of Topical Cannabidiol Oil in Symptomatic Relief of Peripheral Neuropathy of the Lower Extremities.
+- new | 2020 | 32155342 | MA | The Genomics of Cannabis and Its Close Relatives.
+- new | 2020 | 31909680 | RCT | Effects of acute cannabidiol administration on anxiety and tremors induced by a Simulated Public Speaking Test in patients with Parkinson's disease.
+- new | 2020 | 33038581 | SR | Biological effects of Cannabidiol on normal human healthy cell populations: Systematic review of the literature.
+- new | 2019 | 31219471 | SR | Aplicaciones terapéuticas por acción de los cannabinoides.
+- new | 2019 | 31237191 | RCT | The effect of cannabidiol (CBD) on low-frequency activity and functional connectivity in the brain of adults with and without autism spectrum disorder (ASD).
+- new | 2019 | 30768427 | SR | Plant-derived medicines for neuropathies: a comprehensive review of clinical evidence.
+- new | 2019 | 31426272 | RCT | A Novel Self-Emulsifying Drug Delivery System (SEDDS) Based on VESIsorb(®) Formulation Technology Improving the Oral Bioavailability of Cannabidiol in Healthy Subjects.
+- new | 2019 | 31412258 | SR | Cannabidiol (CBD) use in psychiatric disorders: A systematic review.
+- new | 2019 | 31035309 | RCT | Chemotherapy-induced cachexia dysregulates hypothalamic and systemic lipoamines and is attenuated by cannabigerol.
+- new | 2019 | 31748505 | RCT | Effects of cannabidivarin (CBDV) on brain excitation and inhibition systems in adults with and without Autism Spectrum Disorder (ASD): a single dose trial during magnetic
+- new | 2018 | 29887287 | RCT | Probing the endocannabinoid system in healthy volunteers: Cannabidiol alters fronto-striatal resting-state connectivity.
+- new | 2018 | 30115766 | MA | Highway to hell or magic smoke? The dose-dependence of Δ(9)-THC in place conditioning paradigms.
+- new | 2018 | 30390221 | MA/SR | Efficacy and Safety of Cannabidiol in Epilepsy: A Systematic Review and Meta-Analysis.
+- new | 2018 | 28923526 | RCT | Results of a Double-Blind, Randomized, Placebo-Controlled Study of Nabiximols Oromucosal Spray as an Adjunctive Therapy in Advanced Cancer Patients with Chronic Uncontrol
+- new | 2018 | 30286443 | RCT | Abuse potential assessment of cannabidiol (CBD) in recreational polydrug users: A randomized, double-blind, controlled trial.
+- new | 2018 | 28444789 | RCT | Effect of dietary supplementation of hemp seed (Cannabis sativa L.) on meat quality and egg fatty acid composition of Japanese quail (Coturnix coturnix japonica).
+- new | 2017 | 29145345 | RCT | The role of Sativex in robotic rehabilitation in individuals with multiple sclerosis: Rationale, study design, and methodology.
+- new | 2017 | 27720917 | RCT | Tetrahydrocannabinol Does Not Reduce Pain in Patients With Chronic Abdominal Pain in a Phase 2 Placebo-controlled Study.
+- new | 2015 | 26433192 | MA/SR | Head and neck cancer among marijuana users: a meta-analysis of matched case-control studies.
+- new | 2015 | 26365444 | RCT | Alteration of delta-6-desaturase (FADS2), secretory phospholipase-A2 (sPLA2) enzymes by Hot-nature diet with co-supplemented hemp seed, evening primrose oils intervention
+- new | 2014 | 25453518 | RCT | Activity of liver enzymes in multiple sclerosis patients with Hot-nature diet and co-supplemented hemp seed, evening primrose oils intervention.
+- new | 2013 | 24050582 | RCT | Immunomodulatory and therapeutic effects of Hot-nature diet and co-supplemented hemp seed, evening primrose oils intervention in multiple sclerosis patients.
+- new | 2013 | 24311880 | RCT | Erythrocyte membrane fatty acids in multiple sclerosis patients and hot-nature dietary intervention with co-supplemented hemp-seed and evening-primrose oils.
+- new | 2013 | 23648372 | RCT | Cannabis induces a clinical response in patients with Crohn's disease: a prospective placebo-controlled study.
+- new | 2012 | 23429846 | SR | The endocannabinoid system and its role in schizophrenia: a systematic review of the literature.
+- new | 2012 | 22411724 | RCT | Heat exposure of Cannabis sativa extracts affects the pharmacokinetic and metabolic profile in healthy male subjects.
+- new | 2012 | 22716148 | RCT/Review | Acute effects of a single, oral dose of d9-tetrahydrocannabinol (THC) and cannabidiol (CBD) administration in healthy volunteers.
+- new | 2011 | 21307846 | RCT | Cannabidiol reduces the anxiety induced by simulated public speaking in treatment-naïve social phobia patients.
+- new | 2010 | 19775500 | RCT | Modulation of effective connectivity during emotional processing by Delta 9-tetrahydrocannabinol and cannabidiol.
+- new | 2010 | 19924114 | RCT | Opposite effects of delta-9-tetrahydrocannabinol and cannabidiol on human brain function and psychopathology.
+- new | 2009 | 19124693 | RCT | Distinct effects of {delta}9-tetrahydrocannabinol and cannabidiol on neural activation during emotional processing.
+- new | 2009 | 19349314 | RCT | Modulation of mediotemporal and ventrostriatal function in humans by Delta9-tetrahydrocannabinol: a neural basis for the effects of Cannabis sativa on learning and psycho
+- new | 2008 | 18625004 | MA/SR | Therapeutic use of Cannabis sativa on chemotherapy-induced nausea and vomiting among cancer patients: systematic review and meta-analysis.
+- new | 2008 | 18544469 | RCT | Effects of acute oral Delta9-tetrahydrocannabinol and standardized cannabis extract on the auditory P300 event-related potential in healthy volunteers.
+- new | 2008 | 18496477 | RCT | Current status of cannabis treatment of multiple sclerosis with an illustrative case presentation of a patient with MS, complex vocal tics, paroxysmal dystonia, and marij
+- new | 2008 | 18641545 | RCT | Sensitivity and specificity of urinary cannabinoid detection with two immunoassays after controlled oral administration of cannabinoids to humans.
+- new | 2007 | 17429350 | RCT | Vaporization as a smokeless cannabis delivery system: a pilot study.
+- new | 2004 | 15561385 | Clinical Trial/RCT | Efficacy of two cannabis based medicinal extracts for relief of central neuropathic pain from brachial plexus avulsion: results of a randomised controlled trial.
+- new | 2004 | 15327040 | Clinical Trial/RCT | Efficacy, safety and tolerability of an orally administered cannabis extract in the treatment of spasticity in patients with multiple sclerosis: a randomized, double-blin
+- new | 2003 | 12589392 | Clinical Trial/RCT | Treatment of Tourette syndrome with delta-9-tetrahydrocannabinol (delta 9-THC): no influence on neuropsychological performance.
+- new | 2003 | 12716250 | Clinical Trial/RCT | Delta 9-tetrahydrocannabinol (THC) is effective in the treatment of tics in Tourette syndrome: a 6-week randomized trial.
+- new | 2002 | 12011290 | Clinical Trial/RCT | Safety, tolerability, and efficacy of orally administered cannabinoids in MS.
+- new | 2002 | 11951146 | Clinical Trial/RCT | Treatment of Tourette's syndrome with Delta 9-tetrahydrocannabinol (THC): a randomized crossover trial.
+- new | 2001 | 11229617 | Clinical Trial/RCT | Influence of treatment of Tourette syndrome with delta9-tetrahydrocannabinol (delta9-THC) on neuropsychological performance.
+- new | 1981 | 6271841 | Clinical Trial/RCT | Topical delta 9-tetrahydrocannabinol and aqueous dynamics in glaucoma.
+
+## capsella-bursa-pastoris (Capsella bursa-pastoris; Shepherd's Purse) - 2 (+CT) hits; query: ("Capsella bursa-pastoris"[tiab] OR "Shepherd's Purse"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- HELD REF-0608 | 2018 | 29641247 | RCT | Effect of Hydroalcoholic Extracts of Capsella Bursa-Pastoris on Heavy Menstrual Bleeding: A Randomized Clinical Trial.
+- new | 2017 | 28590768 | RCT | Effect of Hydroalcoholic Extract of Capsella bursa pastoris on Early Postpartum Hemorrhage: A Clinical Trial Study.
+
+## capsicum-annuum (Capsicum annuum; Chili Pepper) - 19 (+CT) hits; query: ("Capsicum annuum"[tiab] OR "Chili Pepper"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42791455 | SR | Potentially toxic element contamination in Ghana's vegetable value chain: a systematic review of mining-related soil-to-food transfer and human health risk.
+- new | 2024 | 38141553 | RCT | Ten weeks of Capsicum annuum L. extract supplementation did not change adipose tissue-derived hormones, appetite, body composition, and muscle strength when combined with
+- new | 2023 | 35038885 | MA/Review | Chili pepper intake and all-cause and disease-specific mortality.
+- new | 2023 | 37992118 | RCT | Influence of deficit irrigation levels on agronomic performance of pepper (Capsicum annuum L.) under drip at alage, central rift valley of Ethiopia.
+- new | 2023 | 37344950 | MA/SR | The effects of Capsicum annuum supplementation on lipid profiles in adults with metabolic syndrome and related disorders: A systematic review and meta-analysis of randomi
+- new | 2022 | 36407551 | SR | Association between chili pepper consumption and risk of gastrointestinal-tract cancers: A meta-analysis.
+- new | 2021 | 33787049 | MA | The correlation between chili pepper consumption and gastric cancer risk: A meta-analysis.
+- new | 2020 | 33262398 | MA/SR | Effects of Capsicum annuum supplementation on the components of metabolic syndrome: a systematic review and meta-analysis.
+- new | 2019 | 31533291 | SR | Appetite-Suppressing and Satiety-Increasing Bioactive Phytochemicals: A Systematic Review.
+- new | 2018 | 29367485 | RCT | Safety Evaluation and Plasma Carotenoid Accumulation in Healthy Adult Subjects after 12 Weeks of Paprika Oleoresin Supplementation.
+- new | 2017 | 28917374 | RCT | Short-term effect of add on bell pepper (Capsicum annuum var. grossum) juice with integrated approach of yoga therapy on blood glucose levels and cardiovascular functions
+- new | 2008 | 18622465 | RCT | Consumption of red-hot chili pepper increases symptoms in patients with acute anal fissures. A prospective, randomized, placebo-controlled, double blind, crossover trial.
+- new | 2008 | 19149363 | RCT | Consumption of red-hot chili pepper increases symptoms in patients with acute anal fissures.
+- new | 2006 | 16708161 | RCT | Red hot chili pepper and hemorrhoids: the explosion of a myth: results of a prospective, randomized, placebo-controlled, crossover trial.
+- new | 2004 | 15553107 | Clinical Trial/RCT | Analgesic effects of low-dose intravenous orphenadrine in the state of capsaicin hyperalgesia. A randomised, placebo-controlled, double-blind cross-over study using laser
+- new | 2004 | 15112866 | Clinical Trial/RCT | Effect of the new H1-antagonist ReN1869 on capsaicin-induced hyperalgesia in human skin/Human phase-I trial using somatosensory evoked potentials induced by a CO2 laser.
+- new | 2003 | 12828795 | Clinical Trial | Incorporation of carotenoids from paprika oleoresin into human chylomicrons.
+- new | 2003 | 12809862 | Clinical Trial/RCT | Chili pepper and rectal hyperalgesia in irritable bowel syndrome.
+- new | 1998 | 10351119 | Clinical Trial | Comparison of solid and liquid forms of homeopathic remedies for tonsillitis.
+
+## carum-carvi (Carum carvi; Caraway) - 21 (+CT) hits; query: ("Carum carvi"[tiab] OR "Caraway"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41405807 |  | Treatment of disorders of gut-brain interaction with peppermint oil and caraway oil combination Menthacarin : A phase IV clinical trial.
+- new | 2025 | 39951927 | RCT | Efficacy of an Iranian herbal medicine formula for postoperative constipation in trauma patients with hip and lower limb fractures: A triple-blind, placebo-controlled ran
+- new | 2024 | 39056471 | RCT | The combination of L-menthol and caraway oil does not affect gastric function but increases hunger in healthy subjects.
+- new | 2023 | 36502789 | MA/SR | Menthacarin, a Proprietary Peppermint Oil and Caraway Oil Combination, Improves Multiple Complaints in Patients with Functional Gastrointestinal Disorders: A Systematic R
+- new | 2022 | 35255832 | RCT | A novel duodenal-release formulation of caraway oil and L-menthol is a safe, effective and well tolerated therapy for functional dyspepsia.
+- new | 2021 | 32525777 | SR | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review.
+- new | 2019 | 30939487 | RCT | A Novel, Duodenal-Release Formulation of a Combination of Caraway Oil and L-Menthol for the Treatment of Functional Dyspepsia: A Randomized Controlled Trial.
+- new | 2017 | 28695660 | RCT | A randomized placebo-controlled trial on the effects of Menthacarin, a proprietary peppermint- and caraway-oil-preparation, on symptoms and quality of life in patients wi
+- new | 2015 | 26044145 | RCT | Efficacy of Caraway Oil Poultices in Treating Irritable Bowel Syndrome--A Randomized Controlled Cross-Over Trial.
+- new | 2015 | 25453384 | RCT | Appraisal of adaptive neuro-fuzzy computing technique for estimating anti-obesity properties of a medicinal plant.
+- new | 2014 | 24638976 | RCT | Preliminary safety evaluation and biochemical efficacy of a Carum carvi extract: results from a randomized, triple-blind, and placebo-controlled clinical trial.
+- new | 2006 | 17083431 | RCT | Effects of essential oils from fennel (Foeniculi aetheroleum) and caraway (Carvi aetheroleum) in pigs.
+- new | 2003 | 12562459 | Clinical Trial/RCT | Effect of peppermint oil and caraway oil on gastrointestinal motility in healthy volunteers: a pharmacodynamic study using simultaneous determination of gastric and gall-
+- new | 2003 | 12601675 | Clinical Trial/RCT | Effects of intraduodenal application of peppermint oil (WS(R) 1340) and caraway oil (WS(R) 1520) on gastroduodenal motility in healthy volunteers.
+- new | 2002 | 12244893 | Clinical Trial/RCT | [Pharmacokinetics of carvone and menthol after administration of peppermint oil and caraway oil containing enteric formulation].
+- new | 2001 | 11455677 | Clinical Trial/RCT | Pharmacokinetics of menthol and carvone after administration of an enteric coated formulation containing peppermint oil and caraway oil.
+- new | 2000 | 10641042 | Clinical Trial | Effects of peppermint oil and caraway oil on gastroduodenal motility.
+- new | 2000 | 11121917 | Clinical Trial/RCT | Efficacy and tolerability of a fixed combination of peppermint oil and caraway oil in patients suffering from functional dyspepsia.
+- new | 1999 | 10192108 | Clinical Trial/RCT | [Peppermint oil-caraway oil fixed combination in non-ulcer dyspepsia--comparison of the effects of enteric preparations].
+- new | 1999 | 10604046 | Clinical Trial/RCT | Treatment of functional dyspepsia with a fixed peppermint oil and caraway oil combination preparation as compared to cisapride. A multicenter, reference-controlled double
+- new | 1996 | 9006790 | Clinical Trial/RCT | Efficacy of a fixed peppermint oil/caraway oil combination in non-ulcer dyspepsia.
+
+## centaurium-erythraea (Centaurium erythraea; Centaury) - 1 (+CT) hits; query: ("Centaurium erythraea"[tiab] OR "Centaury"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2019 | 30959140 | SR | A review of Algerian medicinal plants used in the treatment of diabetes.
+
+## centella-asiatica (Centella asiatica; Gotu Kola) - 63 hits; query: ("Centella asiatica"[tiab] OR "Gotu Kola"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42196964 | RCT | A Randomized, Double-Blind, Placebo-Controlled Trial Assessing the Effects of Oral Centella asiatica Extract on Skin Aging-Related Parameters in Middle-Aged Korean Women.
+- new | 2026 | 42696337 | RCT | A Novel Moisturizer Formulated With Micronized Centella asiatica and Mandelic Acid Improves Mature, Crepey Skin.
+- new | 2026 | 41901080 | RCT | Effects of Long-Term Supplementation with Centella asiatica (L.) Urb. Extract (CA-HE50) on Macular Pigment Optical Density: A Randomized, Double-Blind, Placebo-Controlled
+- new | 2026 | 42976840 | RCT | A Moisturizer With Centella asiatica and Mandelic Acid Reduces Bruising and Speeds Recovery in Mature Skin.
+- new | 2026 | 40983598 | SR | Plant-based antioxidant strategies with potential for preeclampsia prevention: clinical and mechanistic insights.
+- new | 2026 | 42876425 | RCT | Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema and Skin Barrier in Erythematotelangiectatic Rosac
+- new | 2025 | 39929877 | RCT | Randomized controlled trial of bromelain and alpha-lipoic acid in breast conservative surgery.
+- new | 2025 | 40613435 | RCT | Evaluation of the Efficacy and Safety of a Panthenol-Enriched Mask for Skin Barrier Recovery After Facial Laser Treatment: Results of a Double-Blind Randomized Controlled
+- new | 2025 | 40265772 | SR | Role of veno-active drugs after endovenous therapy: A systematic review of the current literature.
+- new | 2025 | 40253389 | RCT | Efficacy of Centella asiatica on mitigating temporomandibular pain and improving functionality: a randomized, double blind, pilot clinical trial.
+- new | 2025 | 39757623 | SR | Herbal Medicine for the Management of Wounds: A Systematic Review of Clinical Studies.
+- new | 2025 | 39918266 | RCT | Investigating the Efficacy and Safety of Oral Cicaglocal on Wound Healing After Mohs Surgery in Patients With Skin Cancer: A Randomized, Double-Blinded, Placebo-Controlle
+- new | 2025 | 40196951 | RCT | An Innovative Cream Improves Signs and Symptoms of Dermatoporosis in Patients Aged 65 and Over.
+- new | 2024 | 39233460 | SR | Cosmeceuticals in photoaging: A review.
+- new | 2024 | 39334942 | RCT | Effects of Plant Meristem-Cell-Based Cosmetics on Menopausal Skin: Clinical Data and Mechanisms.
+- new | 2024 | 38644706 | SR | Antioxidative and Anti-inflammatory Effects of Plant-derived Hypoglycemic Medicines: An In vivo/In vitro Systematic Review.
+- new | 2024 | 38831627 | RCT | A two-center randomized controlled trial of a repairing mask as an adjunctive treatment for mild to moderate rosacea.
+- new | 2023 | 37024608 | RCT | Optimized multiherbal combination and in vivo anti-skin aging potential: a randomized double blind placebo controlled study.
+- new | 2023 | 38063299 | RCT | Wound healing efficacy of a polymeric spray film solution containing Centella asiatica leaf extract on acute wounds.
+- HELD REF-2091 | 2022 | 35328954 | SR | A Systematic Review of the Effect of Centella asiatica on Wound Healing.
+- new | 2021 | 33809656 | MA/SR | Efficacy of Functional Foods, Beverages, and Supplements Claiming to Alleviate Air Travel Symptoms: Systematic Review and Meta-Analysis.
+- new | 2021 | 32525269 | SR | Profile of herbal and dietary supplements induced liver injury in Latin America: A systematic review of published reports.
+- new | 2021 | 33938432 | RCT | The Effectiveness of Galactomyces Ferment Filtrate, Dexpanthenol, and Centella Asiatica Combination Serum in the Treatment of Post-Acne Hyperpigmentation in Subjects with
+- new | 2021 | 34214362 | RCT | Role of Centella asiatica and ceramide in skin barrier improvement: a double blind clinical trial of Indonesian batik workers.
+- HELD REF-0570 | 2020 | 33141449 | MA/SR | Phlebotonics for venous insufficiency.
+- new | 2020 | 32279615 | RCT | Adding herbal extracts to silicone gel on post-sternotomy scar: a prospective randomised double-blind study.
+- new | 2020 | 33413787 | SR | Efficacy and Safety of Centella Asiatica (L.) Urb. on Wrinkles: A Systematic Review of Published Data and Network Meta-Analysis.
+- new | 2020 | 32406284 | RCT | Prophylaxis of Radiation-Induced Dermatitis in Patients With Breast Cancer Using Herbal Creams: A Prospective Randomized Controlled Trial.
+- new | 2020 | 32310680 | RCT | The Effects of a Standardized Extract of Centella asiatica on Postlaser Resurfacing Wound Healing on the Face: A Split-Face, Double-Blind, Randomized, Placebo-Controlled 
+- new | 2019 | 30456780 | RCT | Effects of a topical lotion containing aminophylline, caffeine, yohimbe, l-carnitine, and gotu kola on thigh circumference, skinfold thickness, and fat mass in sedentary 
+- new | 2018 | 29844250 | RCT | Comparison of Flavonoids and Centella asiatica for the treatment of chronic anal fissure. A randomized clinical trial.
+- HELD REF-0568 | 2017 | 28878245 | MA/SR | Effects of Centella asiatica (L.) Urb. on cognitive function and mood related outcomes: A Systematic Review and Meta-analysis.
+- new | 2017 | 28248871 | RCT | Partial-thickness burn wounds healing by topical treatment: A randomized controlled comparison between silver sulfadiazine and centiderm.
+- new | 2017 | 27815700 | RCT | Effect of a mixture of diosmin, coumarin glycosides, and triterpenes on bleeding, thrombosis, and pain after stapled anopexy: a prospective, randomized, placebo-controlle
+- new | 2016 | 27048768 | MA/SR | Phlebotonics for venous insufficiency.
+- new | 2016 | 27440796 | RCT | Clinical Efficacy Test of Polyester Containing Herbal Extract Dressings in Burn Wound Healing.
+- new | 2016 | 26822584 | SR | Effects of Plants on Osteogenic Differentiation and Mineralization of Periodontal Ligament Cells: A Systematic Review.
+- new | 2013 | 23844756 | RCT | Long-term follow-up of oral administration of flavonoids, Centella asiatica and Melilotus, for diabetic cystoid macular edema without macular thickening.
+- new | 2013 | 23237514 | RCT | Use of a specific anti-stretch mark cream for preventing or reducing the severity of striae gravidarum. Randomized, double-blind, controlled trial.
+- new | 2011 | 21314440 | RCT | Combination of flavonoids with Centella asiatica and Melilotus for diabetic cystoid macular edema without macular thickening.
+- new | 2010 | 20527138 | RCT | Evaluation of an onion extract, Centella asiatica, and hyaluronic acid cream in the appearance of striae rubra.
+- new | 2010 | 21298840 | RCT | The efficacy and side effects of oral Centella asiatica extract for wound healing promotion in diabetic wound patients.
+- new | 2008 | 18191355 | RCT | Positive modulation of cognition and mood in the healthy elderly volunteer following the administration of Centella asiatica.
+- new | 2008 | 18503551 | RCT | Clinical, biometric and structural evaluation of the long-term effects of a topical treatment with ascorbic acid and madecassoside in photoaged human skin.
+- new | 2007 | 18077922 | RCT | A randomized, double-blind, vehicle-controlled, half-side comparison with a herbal ointment containing Mahonia aquifolium, Viola tricolor and Centella asiatica for the tr
+- new | 2005 | 16034893 | MA/SR | Phlebotonics for venous insufficiency.
+- new | 2005 | 16022023 | Clinical Trial/RCT | Adjunctive periodontal treatment with Centella asiatica and Punica granatum extracts in supportive periodontal therapy.
+- new | 2003 | 14604059 | Clinical Trial/RCT | Adjunctive periodontal treatment with Centella asiatica and Punica granatum extracts. A preliminary study.
+- new | 2001 | 11666117 | Clinical Trial/RCT | Effects of the total triterpenic fraction of Centella asiatica in venous hypertensive microangiopathy: a prospective, placebo-controlled, randomized trial.
+- new | 2001 | 11666118 | Clinical Trial/RCT | Increase in echogenicity of echolucent carotid plaques after treatment with total triterpenic fraction of Centella asiatica: a prospective, placebo-controlled, randomized
+- new | 2001 | 11666126 | Clinical Trial/RCT | Total triterpenic fraction of Centella asiatica in the treatment of venous hypertension: a clinical, prospective, randomized trial using a combined microcirculatory model
+- new | 2001 | 11292962 | Clinical Trial/RCT | [Effectiveness of the combination of alpha tocopherol, rutin, melilotus, and centella asiatica in the treatment of patients with chronic venous insufficiency].
+- new | 2001 | 11666125 | Clinical Trial/RCT | Treatment of edema and increased capillary filtration in venous hypertension with total triterpenic fraction of Centella asiatica: a clinical, prospective, placebo-contro
+- new | 2001 | 11666124 | Clinical Trial/RCT | Evaluation of treatment of diabetic microangiopathy with total triterpenic fraction of Centella asiatica: a clinical prospective randomized trial with a microcirculatory 
+- new | 2001 | 11666127 | Clinical Trial/RCT | Modification of the echogenicity of femoral plaques after treatment with total triterpenic fraction of Centella asiatica: a prospective, randomized, placebo-controlled tr
+- new | 2001 | 11666123 | Clinical Trial/RCT | Microcirculatory effects of total triterpenic fraction of Centella asiatica in chronic venous hypertension: measurement by laser Doppler, TcPO2-CO2, and leg volumetry.
+- new | 2001 | 11666121 | Clinical Trial/RCT | Flight microangiopathy in medium- to long-distance flights: prevention of edema and microcirculation alterations with total triterpenic fraction of Centella asiatica.
+- new | 2001 | 11666119 | Clinical Trial/RCT | Treatment of diabetic microangiopathy and edema with total triterpenic fraction of Centella asiatica: a prospective, placebo-controlled randomized study.
+- new | 2000 | 10796111 | SR | Creams for preventing stretch marks in pregnancy.
+- new | 2000 | 11106141 | Clinical Trial/RCT | A double-blind, placebo-controlled study on the effects of Gotu Kola (Centella asiatica) on acoustic startle response in healthy subjects.
+- new | 1994 | 7936334 | Clinical Trial/RCT | [The microcirculatory activity of Centella asiatica in venous insufficiency. A double-blind study].
+- new | 1990 | 2329813 | Clinical Trial/RCT | Pharmacokinetics of the total triterpenic fraction of Centella asiatica after single and multiple administrations to healthy volunteers. A new assay for asiatic acid.
+- new | 1987 | 3544968 | Clinical Trial/RCT | Titrated extract of Centella asiatica (TECA) in the treatment of venous insufficiency of the lower limbs.
+
+## chamerion-angustifolium (Chamerion angustifolium; Fireweed) - 0 (+CT) hits; query: ("Chamerion angustifolium"[tiab] OR "Fireweed"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## chelidonium-majus (Chelidonium majus; Greater Celandine) - 5 (+CT) hits; query: ("Chelidonium majus"[tiab] OR "Greater Celandine"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- HELD REF-0601 | 2024 | 38820341 | SR | A Hidden Cause of Hypertransaminasemia: Liver Toxicity Caused by Chelidonium Majus L. : Report of Two Cases of Herb-Induced Liver Injury and Literature Review.
+- new | 2022 | 35784720 | SR | Research Status and Hotspots of Anticancer Natural Products Based on the Patent Literature and Scientific Articles.
+- new | 2005 | 15992405 | SR | Ukrain - a new cancer cure? A systematic review of randomised clinical trials.
+- new | 2002 | 11914932 | Clinical Trial/RCT | NSC-631570 (Ukrain) in the palliative treatment of pancreatic cancer. Results of a phase II trial.
+- new | 1991 | 1713821 | Clinical Trial | Evaluation of thiophosphoric acid alkaloid derivatives from Chelidonium majus L. ("Ukrain") as an immunostimulant in patients with various carcinomas.
+
+## cinnamomum-cassia (Cinnamomum cassia; Cassia Cinnamon) - 21 (+CT) hits; query: ("Cinnamomum cassia"[tiab] OR "Cassia Cinnamon"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40709083 | SR | Chinese herbal foot baths as a new strategy for diabetic foot with Wagner grade of 0 or 1: a meta-analysis and data mining.
+- new | 2025 | 40255536 | RCT | A Phase 2, Multi-Center, Randomized, Double-Blind, Parallel-Group Trial to Evaluate the Efficacy and Safety of CKD-495 in Patients With Acute and Chronic Gastritis.
+- new | 2024 | 38466959 | SR | A Systematic Review Evaluating Cinnamon's Effects on Glucose Utilizing a Ranking System to Assess Bias and Study Quality.
+- new | 2023 | 37262194 | RCT | Cinnamomum cassia on Arterial Stiffness and Endothelial Dysfunction in Type 2 Diabetes Mellitus: Outcomes of a Randomized, Double-Blind, Placebo-Controlled Clinical Trial
+- new | 2023 | 36655542 | RCT | Cinnamon (Cinnamomum cassia) water extract improves diarrhea symptoms by changing the gut environment: a randomized controlled trial.
+- new | 2023 | 38065906 | RCT | Efficacy and safety of CKD-495 in acute and chronic gastritis: A Phase III superiority clinical trial.
+- new | 2021 | 34044079 | SR | A systematic review on Zhilong Huoxue Tongyu capsule in treating cardiovascular and cerebrovascular diseases: Pharmacological actions, molecular mechanisms and clinical o
+- new | 2021 | 34132429 | SR | Promising traditional Indian medicinal plants for the management of novel Coronavirus disease: A systematic review.
+- new | 2021 | 33838287 | Clinical Trial | Anti-inflammatory activity of the Tongmai Yangxin pill in the treatment of coronary heart disease is associated with estrogen receptor and NF-κB signaling pathway.
+- new | 2020 | 33322063 | RCT | A 12-Week, Multicenter, Randomized, Double-Blind, Placebo-Controlled Clinical Trial for Evaluation of the Efficacy and Safety of DKB114 on Reduction of Uric Acid in Serum
+- new | 2017 | 28962661 | RCT | Cinnamomum zeylanicum (Ceylon cinnamon) as a potential pharmaceutical agent for type-2 diabetes mellitus: study protocol for a randomized controlled trial.
+- new | 2016 | 29231405 | RCT | [Active Crohn's disease treated with acupuncture and moxibustion:a randomized controlled trial].
+- new | 2016 | 26716656 | RCT | Cassia Cinnamon Supplementation Reduces Peak Blood Glucose Responses but Does Not Improve Insulin Resistance and Sensitivity in Young, Sedentary, Obese Women.
+- new | 2014 | 25249415 | RCT | Cassia cinnamon does not change the insulin sensitivity or the liver enzymes in subjects with impaired glucose tolerance.
+- new | 2012 | 22579946 | MA/SR | Cinnamon in glycaemic control: Systematic review and meta analysis.
+- new | 2012 | 22972104 | MA/SR | Cinnamon for diabetes mellitus.
+- new | 2012 | 21929834 | RCT | Ceylon cinnamon does not affect postprandial plasma glucose or insulin in subjects with impaired glucose tolerance.
+- new | 2011 | 21843614 | MA/SR | Meta-analysis of the effect of herbal supplement on glycemic control in type 2 diabetes.
+- new | 2007 | 18066129 | SR | From type 2 diabetes to antioxidant activity: a systematic review of the safety and efficacy of common and cassia cinnamon bark.
+- new | 2006 | 16549460 |  | Cinnamon supplementation does not improve glycemic control in postmenopausal type 2 diabetes patients.
+- new | 1992 | 1471615 | Clinical Trial | Pharmacotherapeutic effects of kuei-chih-fu-ling-wan (keishi-bukuryo-gan) on human uterine myomas.
+
+## cinnamomum-verum (Cinnamomum verum; True Cinnamon) - 11 (+CT) hits; query: ("Cinnamomum verum"[tiab] OR "True Cinnamon"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41539457 | SR/MA | Assessing the safety of herbal medicine use among type 2 diabetes mellitus patients: A systematic review and meta-analysis.
+- new | 2025 | 40667904 | RCT | Efficacy of cinnamon in reducing anthropometric measurements in individuals with type 2 diabetes: a clinical trial.
+- new | 2024 | 39110055 | SR | Medicinal Plants Cultivated in Egypt with Antiviral Potential: A Systematic Review.
+- new | 2024 | 38466959 | SR | A Systematic Review Evaluating Cinnamon's Effects on Glucose Utilizing a Ranking System to Assess Bias and Study Quality.
+- new | 2021 | 34602412 | RCT | Analysis of Unani coded formulation on the hormonal parameters of patients with polycystic ovarian syndrome.
+- new | 2019 | 30932202 | SR | Therapeutic potential of medicinal plants for the management of urinary tract infection: A systematic review.
+- new | 2018 | 29744355 | SR | Herbal Medicine for Oligomenorrhea and Amenorrhea: A Systematic Review of Ancient and Conventional Medicine.
+- new | 2017 | 28685911 | RCT | Combined Lifestyle and Herbal Medicine in Overweight Women with Polycystic Ovary Syndrome (PCOS): A Randomized Controlled Trial.
+- new | 2013 | 24148965 | SR | Medicinal properties of 'true' cinnamon (Cinnamomum zeylanicum): a systematic review.
+- new | 2012 | 22671971 | MA/SR | Efficacy and safety of 'true' cinnamon (Cinnamomum zeylanicum) as a pharmaceutical agent in diabetes: a systematic review and meta-analysis.
+- new | 2007 | 18066129 | SR | From type 2 diabetes to antioxidant activity: a systematic review of the safety and efficacy of common and cassia cinnamon bark.

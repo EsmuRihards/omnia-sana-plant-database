@@ -130,7 +130,6 @@ actions:
 - action: analgesic
   reference_ids:
   - REF-0044
-  - REF-0058
   - REF-0758
   - REF-2135
   - REF-2137
@@ -139,7 +138,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0044
-  - REF-0058
   - REF-2134
   - REF-2136
   - REF-2138
@@ -148,56 +146,56 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0044
-  - REF-0058
   - REF-2133
   status: verified
 - action: sedative
   reference_ids:
   - REF-0044
-  - REF-0058
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Topical hemp seed oil reduced knee osteoarthritis pain vs placebo, comparable to diclofenac gel,
+    in a randomized trial
+  reference_ids:
+  - REF-3486
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0044
-  - REF-0058
   - REF-2138
 - condition: back-pain
-  note: inferred from analgesic action
-  reference_ids: []
+  note: A full-spectrum cannabis extract (VER-01) reduced chronic low back pain more than placebo in a
+    large phase 3 trial (modest effect; more side effects)
+  reference_ids:
+  - REF-3485
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0044
-  - REF-0058
 - condition: headache
   note: inferred from analgesic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0044
-  - REF-0058
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0058
   - REF-0044
 - condition: pain
-  reference_ids: []
+  reference_ids:
+  - REF-3485
+  - REF-3486
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0044
-  - REF-0058
+  note: A full-spectrum cannabis extract reduced chronic low back pain in a phase 3 trial, and topical
+    hemp seed oil reduced knee osteoarthritis pain (randomized trials)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0058
   - REF-0044
 contraindications:
 - note: Industrial hemp (low-THC cannabis) seed oil and seeds are generally safe as food. CBD products
@@ -239,6 +237,7 @@ references:
 - REF-2139
 - REF-2140
 - REF-2141
+- REF-0058
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
@@ -305,4 +304,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   source says "cannabis", not the binomial); seed provisional (falls when ripe/shaken; theferns REF-3221);
   leaf gap. Existing harvesting.season not inherited. | 2026-08-15: leaf harvest_readiness re-searched and kept a documented gap; the peer-reviewed life-cycle characterisation (Hesami et al., Plants 2023) does not address fan-leaf senescence at harvest, and the leaf was not given the flowering-top stage by inheritance.
   | 2026-11-10: symptom-source audit batch 4 - REF-0044 (hemp-as-food review) names none of
-  cardiovascular, inflammation or skin - removed from those pairs.'
+  cardiovascular, inflammation or skin - removed from those pairs.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. REF-0058 (CBD trial in
+  Dravet-syndrome seizures) was filed as evidence for the analgesic, anti-inflammatory,
+  antioxidant and sedative actions - removed from all four, kept in references. Added VER-01 phase
+  3 RCT REF-3485 (full-spectrum C. sativa extract; chronic low back pain, primary endpoint met) to
+  back-pain and pain, and topical hemp-seed-oil knee-OA RCT REF-3486 to arthritis and pain. Not
+  used: cannabinoid reviews pooling synthetic THC analogues (compound/drug, not the plant).'

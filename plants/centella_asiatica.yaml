@@ -171,12 +171,15 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  note: Anxiolytic / calming (anxiety)
+  note: Gotu kola blunted the acoustic startle response (a measure of anxiety) vs placebo in healthy volunteers;
+    anti-anxiety activity of its triterpenes in animal studies (review)
   reference_ids:
   - REF-0457
+  - REF-3493
   status: verified
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Its triterpenes asiaticoside and madecassoside reduced arthritis in animal models (review; compound
+    evidence)
   reference_ids:
   - REF-0457
   status: needs-review
@@ -188,10 +191,12 @@ indications:
   - REF-2093
   - REF-2097
 - condition: cognitive-function
-  note: Improves alertness and mood (raises alertness, reduces anger); a meta-analysis found no significant
-    improvement in specific cognitive-function domains versus placebo
+  note: Improved cognition and mood in healthy older volunteers and after stroke in small randomized trials;
+    a meta-analysis found no significant effect on any cognitive domain
   reference_ids:
   - REF-0457
+  - REF-3494
+  - REF-3495
   status: needs-review
   null_result_ids:
   - REF-0568
@@ -204,7 +209,8 @@ indications:
   - REF-0569
   - REF-0570
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Its triterpenes and a standardised extract (TECA) reduced inflammation in lab and animal studies
+    (reviews)
   reference_ids:
   - REF-0457
   - REF-0458
@@ -212,25 +218,33 @@ indications:
   mechanistic_exclude_ids:
   - REF-2097
 - condition: memory
-  note: Cognitive and memory support; neuroprotective
+  note: Improved memory in small randomized trials (healthy older adults; after stroke); a meta-analysis
+    found no significant effect on cognitive domains
   reference_ids:
   - REF-0457
+  - REF-3494
+  - REF-3495
   status: verified
+  null_result_ids:
+  - REF-0568
 - condition: nervous-tension
-  note: inferred from anxiolytic action
+  note: Anti-anxiety activity of its triterpenes in animal studies (review; compound evidence)
   reference_ids:
   - REF-0457
   status: needs-review
 - condition: psoriasis
-  note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
+  note: Extracts reduced psoriasis-like skin inflammation in lab and animal studies (preclinical; review)
   reference_ids:
   - REF-0457
+  - REF-2092
   status: verified
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: A 5% Centella cream reduced experimentally induced skin micro-inflammation in volunteers; anti-inflammatory
+    activity in lab studies (reviews)
   reference_ids:
   - REF-0457
   - REF-0458
+  - REF-2093
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2097
@@ -253,10 +267,14 @@ indications:
   mechanistic_exclude_ids:
   - REF-0570
 - condition: wounds
-  note: inferred from vulnerary action
+  note: Centella extract sped healing of diabetic wounds and of facial laser wounds in randomized trials;
+    a systematic review found improved wound healing
   reference_ids:
   - REF-0457
   - REF-0458
+  - REF-2091
+  - REF-3496
+  - REF-3497
   status: needs-review
 contraindications:
 - note: Generally well tolerated topically and orally; it can occasionally cause allergic contact dermatitis
@@ -356,4 +374,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med 
   | 2026-11-10: symptom-source audit batch 4 - REF-0568 (SR: "not strong evidence to support ...
   cognitive function") moved to null_result_ids; REF-0457 (names preventing cognitive deficits)
   added. REF-0570 (Cochrane, 10 phlebotonics pooled) is class-level - removed. Bruising had only
-  wound/scar papers - dropped.'
+  wound/scar papers - dropped.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. Added: Bradwejn 2000
+  startle RCT REF-3493 (anxiety), Wattanathorn 2008 REF-3494 and Farhana 2016 REF-3495 RCTs
+  (cognition, memory); Cochrane-style null REF-0568 now also recorded for memory. Held SR REF-2091
+  plus RCTs REF-3496 (post-laser) and REF-3497 (diabetic wounds) to wounds; held REF-2092
+  (psoriasis model) and REF-2093 (human skin micro-inflammation) wired to psoriasis and
+  skin-irritation. Notes label asiaticoside/madecassoside evidence as compound evidence.'

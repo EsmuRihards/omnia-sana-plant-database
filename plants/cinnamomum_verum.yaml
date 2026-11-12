@@ -149,14 +149,19 @@ indications:
   - REF-0669
   - REF-0101
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Ceylon cinnamon extract lowered fasting blood sugar in type 2 diabetes in a randomized trial and
+    showed antidiabetic effects in lab and animal studies (systematic review); it did not lower after-meal
+    glucose in people with impaired glucose tolerance
   reference_ids:
   - REF-2413
+  - REF-3504
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0101
+  null_result_ids:
+  - REF-3505
 - condition: cancer
-  note: inferred from anticancer action
+  note: Ceylon cinnamon extract and cinnamaldehyde slowed cancer cells in lab and animal studies (preclinical)
   reference_ids:
   - REF-0669
   status: needs-review
@@ -179,6 +184,8 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0101
+  null_result_ids:
+  - REF-3506
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -292,4 +299,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 4 - Unnamed-"cinnamon" studies purged (owner rule
   2026-11-11, they go to Cassia): REF-0006, 0136, 0429, 0598, 0599, 0666, 0667. REF-0101 (Groves,
   Body into Balance) removed from every symptom as unverifiable. REF-2413 (C. zeylanicum RCT): no
-  LDL-C reduction -> null for cardiovascular; FBS lowering in T2DM kept for blood-sugar.'
+  LDL-C reduction -> null for cardiovascular; FBS lowering in T2DM kept for blood-sugar.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. Ranasinghe 2012 SR/MA
+  REF-3504 (C. zeylanicum antidiabetic effects in vitro and in vivo) added to blood-sugar (owner:
+  SRs of preclinical work keep SR scoring). Wickenberg 2012 RCT REF-3505 (no effect on
+  postprandial glucose in IGT) and 2025 RCT REF-3506 (anthropometrics not significant) recorded as
+  no-effect.'

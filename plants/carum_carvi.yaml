@@ -128,7 +128,6 @@ actions:
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-0078
   - REF-0126
   - REF-1978
   - REF-1980
@@ -138,7 +137,6 @@ actions:
   status: verified
 - action: appetite-stimulant
   reference_ids:
-  - REF-0078
   - REF-0126
   status: verified
 - action: digestive
@@ -150,7 +148,7 @@ actions:
   status: verified
 indications:
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditionally used for bloating and flatulence (EU herbal monograph)
   reference_ids:
   - REF-0078
   status: needs-review
@@ -159,7 +157,7 @@ indications:
   - REF-1982
   - REF-0126
 - condition: cancer
-  note: inferred from anticancer action
+  note: Caraway reduced markers of chemically induced colon cancer in rats (preclinical)
   reference_ids:
   - REF-1983
   status: needs-review
@@ -169,7 +167,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1984
-  - REF-0078
   - REF-0126
 - condition: wounds
   note: inferred from antimicrobial action
@@ -177,8 +174,13 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1984
-  - REF-0078
   - REF-0126
+- condition: ibs
+  note: Hot caraway-oil poultices eased IBS symptoms in a randomized crossover trial; part of the effect
+    may be due to the heat
+  reference_ids:
+  - REF-3492
+  status: verified
 contraindications:
 - note: 'Generally very safe as a food spice (normal culinary amounts).Tea (traditional use): The EU herbal
     monograph describes caraway fruit tea for bloating/flatulence and gives a typical adult infusion dose
@@ -286,4 +288,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (Conium maculatum) lookalike. Existing harvesting.season not inherited. | 2026-08-15: leaf and root harvest_readiness filled (were gaps) from University of Illinois Extension (REF-3373): roots dug while the plants are young, leaves picked as needed; hemlock safety clause carried on both.
   | 2026-11-10: symptom-source audit batch 4 - EU monograph REF-0078: "problems of the digestive
   system such as bloating and flatulence" - kept for bloating only. REF-0126 (cumin + caraway
-  update) names none of the paired symptoms.'
+  update) names none of the paired symptoms.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. New ibs pair from
+  caraway-oil poultice RCT REF-3492 (owner rule; authors note heat may contribute). EU monograph
+  REF-0078 removed from the antimicrobial and appetite-stimulant actions (it covers
+  bloating/flatulence only). Menthacarin (peppermint + caraway) trials not used (combination).'

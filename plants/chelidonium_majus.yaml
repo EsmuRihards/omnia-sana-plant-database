@@ -155,46 +155,33 @@ indications:
   - REF-2267
   - REF-0460
 - condition: cancer
-  note: inferred from anticancer action
+  note: Celandine extracts killed ovarian and other cancer cells and reduced metastases in mice (preclinical)
   reference_ids:
   - REF-2265
   - REF-2266
   - REF-2271
   status: needs-review
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Antimicrobial activity reported in lab studies (integrative review)
   reference_ids:
   - REF-0460
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory activity reported in lab and animal studies (integrative review)
   reference_ids:
   - REF-0460
   status: needs-review
 - condition: pain
-  note: inferred from analgesic action
+  note: Traditionally used for pain; analgesic activity reported (integrative review)
   reference_ids:
   - REF-0460
   status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2267
-  - REF-0460
 - condition: warts
-  note: Fresh orange latex traditionally dabbed on warts
+  note: Fresh orange latex is traditionally dabbed on warts; latex components were active against the
+    wart virus (HPV) in lab studies (preclinical)
   reference_ids:
   - REF-2269
   status: needs-review
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2269
-  - REF-0460
 contraindications:
 - note: 'SERIOUS: oral greater celandine can cause acute idiosyncratic liver injury (hepatocellular hepatotoxicity
     with jaundice). Multiple reported cases - dozens of herb-induced liver injury reports in the literature,
@@ -255,4 +242,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepat
   | 2026-11-10: symptom-source audit batch 4 - liver-support dropped (owner rule 2026-11-11: never
   list a plant for the organ its own serious warning is about - oral celandine causes liver
   injury). REF-0460 kept for anti-inflammatory, antimicrobial and analgesic uses it names;
-  REF-2269 (latex vs HPV, folk use against warts) added to warts.'
+  REF-2269 (latex vs HPV, folk use against warts) added to warts.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. Skin-irritation and
+  wounds dropped: contradicted by the record''s own note (latex "irritant and caustic - keep it
+  away from ... broken skin"; inv. 11). Warts kept (traditional external use on intact skin).
+  Notes rewritten.'

@@ -178,15 +178,8 @@ actions:
   - REF-1658
   status: verified
 indications:
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0022
-  - REF-0118
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Fireweed extract was active against bacteria, yeasts and fungi in lab tests (preclinical)
   reference_ids:
   - REF-0022
   status: needs-review
@@ -314,4 +307,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 4 - REF-0146 ("Phytochemical and Pharmacological Review
   of Chamerion angustifolium", DOI resolves to a tomato-virus paper) and REF-0317 ("Ivan-chai
   ...", DOI resolves to a yeast-media paper) purged as phantoms: neither title exists in OpenAlex.
-  Only Epilobium angustifolium-specific studies remain.'
+  Only Epilobium angustifolium-specific studies remain.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. REF-0022 corrected:
+  Battinelli et al., Farmaco 2001;56:345-8 (PMID 11482755; old DOI dead, year was 2014). Bruising
+  dropped: its only card was a wound-healing enzyme study (batch-1 rule: a wound is not a bruise).'

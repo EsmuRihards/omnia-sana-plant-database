@@ -128,7 +128,7 @@ actions:
   status: verified
 indications:
 - condition: diarrhea
-  note: inferred from astringent action
+  note: Traditional astringent remedy for diarrhoea (Herbal Reality)
   reference_ids:
   - REF-0507
   status: needs-review
@@ -147,12 +147,12 @@ indications:
   mechanistic_exclude_ids:
   - REF-1972
 - condition: menstrual-cramps
-  note: Tones the uterus and eases menstrual flow and cramps (traditional)
+  note: Traditionally used for period pain (Herbal Reality)
   reference_ids:
   - REF-0507
   status: needs-review
 - condition: pms
-  note: inferred from emmenagogue action
+  note: Traditionally used for premenstrual complaints (Herbal Reality)
   reference_ids:
   - REF-0507
   status: needs-review
@@ -232,4 +232,7 @@ internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (H
   the whole-plant use but state no phenological stage. Existing harvesting.season not inherited.
   | 2026-11-10: symptom-source audit batch 4 - Herbal Reality (REF-0507) names diarrhoea, heavy
   menstrual bleeding, period pain, PMS and wounds/bleeding, not skin irritation - removed from
-  skin-irritation.'
+  skin-irritation.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. Notes rewritten to
+  Herbal Reality wording. REF-0508 is an ESCOP news summary of the REF-0608 RCT (kept).
+  Postpartum-haemorrhage trial 28590768 not added (no matching condition).'

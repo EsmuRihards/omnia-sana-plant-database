@@ -157,8 +157,10 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Topical capsaicin, chili's signature compound, may reduce osteoarthritis pain for up to 3 months
+    (meta-analysis; compound evidence)
+  reference_ids:
+  - REF-3488
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0057
@@ -183,11 +185,12 @@ indications:
   - REF-0010
   - REF-0057
 - condition: indigestion
-  note: inferred from digestive action
-  reference_ids: []
+  note: Red pepper powder reduced functional dyspepsia symptoms vs placebo in a randomized trial
+  reference_ids:
+  - REF-3489
   status: needs-review
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Capsaicin inhibited some bacteria in lab tests (compound evidence, preclinical)
   reference_ids:
   - REF-0169
   status: needs-review
@@ -202,22 +205,18 @@ indications:
   - REF-0010
   - REF-0057
   status: verified
-  note: Evidence is for capsaicin, chili's signature pungent compound (topical high-concentration capsaicin
-    for neuropathic pain), not for eating chili.
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0010
-  - REF-0057
-  - REF-2146
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0169
+  note: High-concentration capsaicin patches (capsaicin is chili's signature compound) relieved chronic
+    neuropathic pain in some patients; low-concentration capsaicin creams showed no meaningful effect
+    (Cochrane reviews; compound evidence)
+  null_result_ids:
+  - REF-3487
+- condition: high-cholesterol
+  note: Capsicum supplements lowered LDL or total cholesterol in meta-analyses of small trials in metabolic
+    syndrome; other blood lipids did not change
+  reference_ids:
+  - REF-3490
+  - REF-3491
+  status: verified
 contraindications:
 - note: Capsaicin causes intense burning sensation; avoid contact with eyes and mucous membranes. High
     oral doses can cause gastrointestinal irritation, nausea, and diarrhoea. Topical preparations may
@@ -312,4 +311,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   10.1007/s11101-023-09875-8 does not resolve; title not found). Capsaicin (signature compound)
   counts per owner rule 2026-11-11, labelled in the pain note; REF-0010/REF-0057 cover neuropathic
   pain only - removed from arthritis/back-pain. REF-0161 ("spicy foods" cohort) names no plant -
-  removed from cardiovascular. REF-0169 (capsaicin vs microbes) kept for infection only.'
+  removed from cardiovascular. REF-0169 (capsaicin vs microbes) kept for infection only.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. Cochrane
+  low-concentration capsaicin review REF-3487 ("without meaningful effect beyond placebo")
+  recorded as no-effect for pain. Capsaicin-OA MA REF-3488 (arthritis), Bortolotti 2002 red-pepper
+  dyspepsia RCT REF-3489 (indigestion) added; new high-cholesterol pair from two lipid MAs
+  (REF-3490/3491; owner rule). Skin-irritation and wounds dropped: contradicted by the record''s
+  own note (topical preparations may cause skin irritation; inv. 11). DOIs fixed: REF-0057
+  (malformed), REF-0169 (dead; now PMID 10363839). Not used: Cochrane herbal low-back-pain
+  plasters (Capsicum frutescens, other species).'

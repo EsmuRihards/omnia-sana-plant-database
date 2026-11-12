@@ -11412,7 +11412,6 @@
      "action": "analgesic",
      "reference_ids": [
       "REF-0044",
-      "REF-0058",
       "REF-0758",
       "REF-2135",
       "REF-2137",
@@ -11424,7 +11423,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0044",
-      "REF-0058",
       "REF-2134",
       "REF-2136",
       "REF-2138",
@@ -11436,7 +11434,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0044",
-      "REF-0058",
       "REF-2133"
      ],
      "status": "verified"
@@ -11444,8 +11441,7 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0044",
-      "REF-0058"
+      "REF-0044"
      ],
      "status": "verified"
     }
@@ -11453,27 +11449,29 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Topical hemp seed oil reduced knee osteoarthritis pain vs placebo, comparable to diclofenac gel, in a randomized trial",
+     "reference_ids": [
+      "REF-3486"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0044",
-      "REF-0058",
       "REF-2138"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "back-pain",
-     "note": "inferred from analgesic action",
-     "reference_ids": [],
+     "note": "A full-spectrum cannabis extract (VER-01) reduced chronic low back pain more than placebo in a large phase 3 trial (modest effect; more side effects)",
+     "reference_ids": [
+      "REF-3485"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0044",
-      "REF-0058"
+      "REF-0044"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Back pain"
     },
     {
@@ -11482,8 +11480,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0044",
-      "REF-0058"
+      "REF-0044"
      ],
      "evidence": 1,
      "label": "Headache"
@@ -11494,7 +11491,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0058",
       "REF-0044"
      ],
      "evidence": 1,
@@ -11502,13 +11498,16 @@
     },
     {
      "condition": "pain",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-3485",
+      "REF-3486"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0044",
-      "REF-0058"
+      "REF-0044"
      ],
-     "evidence": 1,
+     "note": "A full-spectrum cannabis extract reduced chronic low back pain in a phase 3 trial, and topical hemp seed oil reduced knee osteoarthritis pain (randomized trials)",
+     "evidence": 6,
      "label": "Pain (general)"
     },
     {
@@ -11517,7 +11516,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0058",
       "REF-0044"
      ],
      "evidence": 1,
@@ -11560,7 +11558,8 @@
     "REF-2138",
     "REF-2139",
     "REF-2140",
-    "REF-2141"
+    "REF-2141",
+    "REF-0058"
    ],
    "drug_class_interactions": [
     {
@@ -11754,7 +11753,7 @@
    "indications": [
     {
      "condition": "diarrhea",
-     "note": "inferred from astringent action",
+     "note": "Traditional astringent remedy for diarrhoea (Herbal Reality)",
      "reference_ids": [
       "REF-0507"
      ],
@@ -11783,7 +11782,7 @@
     },
     {
      "condition": "menstrual-cramps",
-     "note": "Tones the uterus and eases menstrual flow and cramps (traditional)",
+     "note": "Traditionally used for period pain (Herbal Reality)",
      "reference_ids": [
       "REF-0507"
      ],
@@ -11793,7 +11792,7 @@
     },
     {
      "condition": "pms",
-     "note": "inferred from emmenagogue action",
+     "note": "Traditionally used for premenstrual complaints (Herbal Reality)",
      "reference_ids": [
       "REF-0507"
      ],
@@ -12051,15 +12050,17 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Topical capsaicin, chili's signature compound, may reduce osteoarthritis pain for up to 3 months (meta-analysis; compound evidence)",
+     "reference_ids": [
+      "REF-3488"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0057",
       "REF-2146",
       "REF-0010"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Arthritis / joint pain"
     },
     {
@@ -12096,15 +12097,17 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
-     "reference_ids": [],
+     "note": "Red pepper powder reduced functional dyspepsia symptoms vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3489"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Indigestion"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Capsaicin inhibited some bacteria in lab tests (compound evidence, preclinical)",
      "reference_ids": [
       "REF-0169"
      ],
@@ -12130,33 +12133,23 @@
       "REF-0057"
      ],
      "status": "verified",
-     "note": "Evidence is for capsaicin, chili's signature pungent compound (topical high-concentration capsaicin for neuropathic pain), not for eating chili.",
+     "note": "High-concentration capsaicin patches (capsaicin is chili's signature compound) relieved chronic neuropathic pain in some patients; low-concentration capsaicin creams showed no meaningful effect (Cochrane reviews; compound evidence)",
+     "null_result_ids": [
+      "REF-3487"
+     ],
      "evidence": 7,
      "label": "Pain (general)"
     },
     {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0010",
-      "REF-0057",
-      "REF-2146"
+     "condition": "high-cholesterol",
+     "note": "Capsicum supplements lowered LDL or total cholesterol in meta-analyses of small trials in metabolic syndrome; other blood lipids did not change",
+     "reference_ids": [
+      "REF-3490",
+      "REF-3491"
      ],
-     "evidence": 1,
-     "label": "Skin irritation"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0169"
-     ],
-     "evidence": 1,
-     "label": "Wounds"
+     "status": "verified",
+     "evidence": 8,
+     "label": "High cholesterol"
     }
    ],
    "contraindications": [
@@ -12364,7 +12357,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0078",
       "REF-0126",
       "REF-1978",
       "REF-1980",
@@ -12377,7 +12369,6 @@
     {
      "action": "appetite-stimulant",
      "reference_ids": [
-      "REF-0078",
       "REF-0126"
      ],
      "status": "verified"
@@ -12396,7 +12387,7 @@
    "indications": [
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditionally used for bloating and flatulence (EU herbal monograph)",
      "reference_ids": [
       "REF-0078"
      ],
@@ -12411,7 +12402,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Caraway reduced markers of chemically induced colon cancer in rats (preclinical)",
      "reference_ids": [
       "REF-1983"
      ],
@@ -12426,7 +12417,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1984",
-      "REF-0078",
       "REF-0126"
      ],
      "evidence": 1,
@@ -12439,11 +12429,20 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1984",
-      "REF-0078",
       "REF-0126"
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "ibs",
+     "note": "Hot caraway-oil poultices eased IBS symptoms in a randomized crossover trial; part of the effect may be due to the heat",
+     "reference_ids": [
+      "REF-3492"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Irritable bowel syndrome (IBS)"
     }
    ],
    "contraindications": [
@@ -12722,7 +12721,7 @@
    "indications": [
     {
      "condition": "acid-reflux",
-     "note": "inferred from gastroprotective action",
+     "note": "Traditionally used for heartburn (Herbal Reality)",
      "reference_ids": [
       "REF-0432"
      ],
@@ -12751,7 +12750,7 @@
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for joint pain (Herbal Reality)",
      "reference_ids": [
       "REF-0432"
      ],
@@ -12779,7 +12778,7 @@
     },
     {
      "condition": "detox",
-     "note": "inferred from hepatoprotective action",
+     "note": "Traditional bitter \"blood-cleansing\" tonic (Herbal Reality)",
      "reference_ids": [
       "REF-0432"
      ],
@@ -12808,7 +12807,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory activity in lab and animal studies (review); traditional use (Herbal Reality)",
      "reference_ids": [
       "REF-0432",
       "REF-0619"
@@ -12822,7 +12821,7 @@
     },
     {
      "condition": "liver-support",
-     "note": "inferred from hepatoprotective action",
+     "note": "Liver-protective activity in animal studies (review); traditional liver tonic (Herbal Reality)",
      "reference_ids": [
       "REF-0432",
       "REF-0619"
@@ -12836,7 +12835,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for skin complaints (Herbal Reality)",
      "reference_ids": [
       "REF-0432"
      ],
@@ -13104,17 +13103,18 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "Anxiolytic / calming (anxiety)",
+     "note": "Gotu kola blunted the acoustic startle response (a measure of anxiety) vs placebo in healthy volunteers; anti-anxiety activity of its triterpenes in animal studies (review)",
      "reference_ids": [
-      "REF-0457"
+      "REF-0457",
+      "REF-3493"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 5,
      "label": "Anxiety"
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Its triterpenes asiaticoside and madecassoside reduced arthritis in animal models (review; compound evidence)",
      "reference_ids": [
       "REF-0457"
      ],
@@ -13132,15 +13132,17 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "Improves alertness and mood (raises alertness, reduces anger); a meta-analysis found no significant improvement in specific cognitive-function domains versus placebo",
+     "note": "Improved cognition and mood in healthy older volunteers and after stroke in small randomized trials; a meta-analysis found no significant effect on any cognitive domain",
      "reference_ids": [
-      "REF-0457"
+      "REF-0457",
+      "REF-3494",
+      "REF-3495"
      ],
      "status": "needs-review",
      "null_result_ids": [
       "REF-0568"
      ],
-     "evidence": 2,
+     "evidence": 6,
      "label": "Cognitive function"
     },
     {
@@ -13158,7 +13160,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Its triterpenes and a standardised extract (TECA) reduced inflammation in lab and animal studies (reviews)",
      "reference_ids": [
       "REF-0457",
       "REF-0458"
@@ -13172,17 +13174,22 @@
     },
     {
      "condition": "memory",
-     "note": "Cognitive and memory support; neuroprotective",
+     "note": "Improved memory in small randomized trials (healthy older adults; after stroke); a meta-analysis found no significant effect on cognitive domains",
      "reference_ids": [
-      "REF-0457"
+      "REF-0457",
+      "REF-3494",
+      "REF-3495"
      ],
      "status": "verified",
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-0568"
+     ],
+     "evidence": 6,
      "label": "Memory"
     },
     {
      "condition": "nervous-tension",
-     "note": "inferred from anxiolytic action",
+     "note": "Anti-anxiety activity of its triterpenes in animal studies (review; compound evidence)",
      "reference_ids": [
       "REF-0457"
      ],
@@ -13192,9 +13199,10 @@
     },
     {
      "condition": "psoriasis",
-     "note": "Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)",
+     "note": "Extracts reduced psoriasis-like skin inflammation in lab and animal studies (preclinical; review)",
      "reference_ids": [
-      "REF-0457"
+      "REF-0457",
+      "REF-2092"
      ],
      "status": "verified",
      "evidence": 2,
@@ -13202,10 +13210,11 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "A 5% Centella cream reduced experimentally induced skin micro-inflammation in volunteers; anti-inflammatory activity in lab studies (reviews)",
      "reference_ids": [
       "REF-0457",
-      "REF-0458"
+      "REF-0458",
+      "REF-2093"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -13244,13 +13253,16 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from vulnerary action",
+     "note": "Centella extract sped healing of diabetic wounds and of facial laser wounds in randomized trials; a systematic review found improved wound healing",
      "reference_ids": [
       "REF-0457",
-      "REF-0458"
+      "REF-0458",
+      "REF-2091",
+      "REF-3496",
+      "REF-3497"
      ],
      "status": "needs-review",
-     "evidence": 2,
+     "evidence": 9,
      "label": "Wounds"
     }
    ],
@@ -13538,20 +13550,8 @@
    ],
    "indications": [
     {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0022",
-      "REF-0118"
-     ],
-     "evidence": 1,
-     "label": "Bruising"
-    },
-    {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Fireweed extract was active against bacteria, yeasts and fungi in lab tests (preclinical)",
      "reference_ids": [
       "REF-0022"
      ],
@@ -13872,7 +13872,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Celandine extracts killed ovarian and other cancer cells and reduced metastases in mice (preclinical)",
      "reference_ids": [
       "REF-2265",
       "REF-2266",
@@ -13884,7 +13884,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Antimicrobial activity reported in lab studies (integrative review)",
      "reference_ids": [
       "REF-0460"
      ],
@@ -13894,7 +13894,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory activity reported in lab and animal studies (integrative review)",
      "reference_ids": [
       "REF-0460"
      ],
@@ -13904,7 +13904,7 @@
     },
     {
      "condition": "pain",
-     "note": "inferred from analgesic action",
+     "note": "Traditionally used for pain; analgesic activity reported (integrative review)",
      "reference_ids": [
       "REF-0460"
      ],
@@ -13913,38 +13913,14 @@
      "label": "Pain (general)"
     },
     {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2267",
-      "REF-0460"
-     ],
-     "evidence": 1,
-     "label": "Skin irritation"
-    },
-    {
      "condition": "warts",
-     "note": "Fresh orange latex traditionally dabbed on warts",
+     "note": "Fresh orange latex is traditionally dabbed on warts; latex components were active against the wart virus (HPV) in lab studies (preclinical)",
      "reference_ids": [
       "REF-2269"
      ],
      "status": "needs-review",
      "evidence": 2,
      "label": "Warts"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2269",
-      "REF-0460"
-     ],
-     "evidence": 1,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -14163,7 +14139,7 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed) - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR",
+     "note": "Cinnamon (mostly cassia) lowered fasting glucose in several meta-analyses, but a Cochrane review judged the evidence insufficient and some trials found no effect on glucose control or insulin sensitivity",
      "reference_ids": [
       "REF-0429",
       "REF-0430",
@@ -14171,15 +14147,21 @@
       "REF-0599",
       "REF-0006",
       "REF-0136",
-      "REF-0667"
+      "REF-0667",
+      "REF-3499"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3498",
+      "REF-3500",
+      "REF-3501"
+     ],
      "evidence": 10,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cardiovascular-support",
-     "note": "inferred from lipid-lowering action",
+     "note": "Cinnamon improved blood pressure and blood lipids in some meta-analyses and trials, mostly in type 2 diabetes; a trial of cassia found no change in arterial stiffness, blood pressure or lipids",
      "reference_ids": [
       "REF-0429",
       "REF-0430",
@@ -14190,12 +14172,15 @@
       "REF-0667"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-3502"
+     ],
      "evidence": 10,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "high-cholesterol",
-     "note": "inferred from lipid-lowering action",
+     "note": "Cinnamon lowered total cholesterol and triglycerides (LDL less consistently) in meta-analyses of trials, mostly in type 2 diabetes; some trials found no change",
      "reference_ids": [
       "REF-0429",
       "REF-0430",
@@ -14205,12 +14190,15 @@
       "REF-0667"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-3501"
+     ],
      "evidence": 10,
      "label": "High cholesterol"
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
+     "note": "Cinnamon improved glucose, lipids and body weight in people with type 2 diabetes (meta-analyses; randomized trials)",
      "reference_ids": [
       "REF-0429",
       "REF-0430",
@@ -14218,11 +14206,22 @@
       "REF-0599",
       "REF-0006",
       "REF-0136",
-      "REF-0667"
+      "REF-0667",
+      "REF-3502"
      ],
      "status": "needs-review",
      "evidence": 10,
      "label": "Metabolic support"
+    },
+    {
+     "condition": "diarrhea",
+     "note": "A cassia cinnamon water extract eased diarrhoea symptoms vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3503"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Diarrhoea"
     }
    ],
    "contraindications": [
@@ -14469,20 +14468,24 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Ceylon cinnamon extract lowered fasting blood sugar in type 2 diabetes in a randomized trial and showed antidiabetic effects in lab and animal studies (systematic review); it did not lower after-meal glucose in people with impaired glucose tolerance",
      "reference_ids": [
-      "REF-2413"
+      "REF-2413",
+      "REF-3504"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0101"
      ],
-     "evidence": 5,
+     "null_result_ids": [
+      "REF-3505"
+     ],
+     "evidence": 8,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Ceylon cinnamon extract and cinnamaldehyde slowed cancer cells in lab and animal studies (preclinical)",
      "reference_ids": [
       "REF-0669"
      ],
@@ -14520,6 +14523,9 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0101"
+     ],
+     "null_result_ids": [
+      "REF-3506"
      ],
      "evidence": 1,
      "label": "Metabolic support"

@@ -140,8 +140,8 @@ indications:
   - REF-1825
   - REF-1826
 - condition: blood-sugar
-  note: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
-    - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR
+  note: Cinnamon (mostly cassia) lowered fasting glucose in several meta-analyses, but a Cochrane review
+    judged the evidence insufficient and some trials found no effect on glucose control or insulin sensitivity
   reference_ids:
   - REF-0429
   - REF-0430
@@ -150,9 +150,15 @@ indications:
   - REF-0006
   - REF-0136
   - REF-0667
+  - REF-3499
   status: verified
+  null_result_ids:
+  - REF-3498
+  - REF-3500
+  - REF-3501
 - condition: cardiovascular-support
-  note: inferred from lipid-lowering action
+  note: Cinnamon improved blood pressure and blood lipids in some meta-analyses and trials, mostly in
+    type 2 diabetes; a trial of cassia found no change in arterial stiffness, blood pressure or lipids
   reference_ids:
   - REF-0429
   - REF-0430
@@ -162,8 +168,11 @@ indications:
   - REF-0666
   - REF-0667
   status: needs-review
+  null_result_ids:
+  - REF-3502
 - condition: high-cholesterol
-  note: inferred from lipid-lowering action
+  note: Cinnamon lowered total cholesterol and triglycerides (LDL less consistently) in meta-analyses
+    of trials, mostly in type 2 diabetes; some trials found no change
   reference_ids:
   - REF-0429
   - REF-0430
@@ -172,8 +181,11 @@ indications:
   - REF-0666
   - REF-0667
   status: needs-review
+  null_result_ids:
+  - REF-3501
 - condition: metabolic-support
-  note: inferred from antidiabetic action
+  note: Cinnamon improved glucose, lipids and body weight in people with type 2 diabetes (meta-analyses;
+    randomized trials)
   reference_ids:
   - REF-0429
   - REF-0430
@@ -182,7 +194,13 @@ indications:
   - REF-0006
   - REF-0136
   - REF-0667
+  - REF-3502
   status: needs-review
+- condition: diarrhea
+  note: A cassia cinnamon water extract eased diarrhoea symptoms vs placebo in a randomized trial
+  reference_ids:
+  - REF-3503
+  status: verified
 contraindications:
 - note: 'Cassia is high in coumarin: regular high intake of cassia bark or supplements can stress or damage
     the liver. For frequent or medicinal use, prefer true Ceylon cinnamon (Cinnamomum verum) and keep
@@ -243,4 +261,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Famil
   No prior harvesting.season existed.
   | 2026-11-10: symptom-source audit batch 4 - Owner rule 2026-11-11: clinical evidence on unnamed
   "cinnamon" goes to Cassia (the species most trials used, e.g. Khan 2003, Akilen 2010). Added
-  REF-0006, REF-0136, REF-0666, REF-0667 here (moved from True cinnamon).'
+  REF-0006, REF-0136, REF-0666, REF-0667 here (moved from True cinnamon).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. Cochrane "Cinnamon for
+  diabetes mellitus" 2012 REF-3498 ("insufficient evidence"), cassia IGT RCT REF-3500 and
+  Vanschoonbeek 2006 RCT REF-3501 (no glycaemic or lipid effect) recorded as no-effect; positive
+  2012 MA REF-3499 added. Arterial-stiffness RCT REF-3502: no BP/lipid/vascular change (no-effect
+  for cardiovascular-support) but lower weight and HbA1c (metabolic-support). New diarrhea pair
+  from RCT REF-3503 (owner rule). Notes now state the mixed evidence.'

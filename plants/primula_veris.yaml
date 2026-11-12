@@ -120,7 +120,6 @@ dosage:
   reference_ids:
   - REF-0075
   - REF-0235
-  - REF-0306
   status: verified
 constituents:
 - name: Triterpene saponins (primulic acid)
@@ -142,12 +141,10 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0075
-  - REF-0306
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0075
-  - REF-0306
   - REF-0872
   - REF-0873
   - REF-0876
@@ -156,15 +153,13 @@ actions:
 - action: sedative
   reference_ids:
   - REF-0075
-  - REF-0306
   status: verified
 indications:
 - condition: respiratory-support
   reference_ids:
   - REF-0075
-  - REF-0306
-  - REF-0870
   status: verified
+  note: Traditional expectorant for cough associated with a cold (EU herbal monograph)
 contraindications:
 - note: 'Allergy risk: avoid if you’re allergic to cowslip/other Primula species (European Medicines Agency,
     2012). Stomach sensitivity: use caution if you have gastritis or a stomach ulcer-cowslip can upset
@@ -177,7 +172,6 @@ contraindications:
   reference_ids:
   - REF-0075
   - REF-0235
-  - REF-0306
   status: verified
 - note: 'Duke (2002) provides clinical evidence (score 2) for cowslip''s expectorant and secretolytic
     activities, consistent with Commission E approval for bronchitis and cough with mucus. Dose: 0.5–1
@@ -188,7 +182,6 @@ contraindications:
   reference_ids:
   - REF-0075
   - REF-0235
-  - REF-0306
   - REF-0063
   status: verified
 references:
@@ -233,4 +226,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0871, REF-0873) and the respiratory-infection mechanistic review (REF-0870) plus the Duke-sourced
   dosage already cited in contraindications. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for flower + leaf (spring) and root + rhizome (spring or autumn), all provisional: PFAF
-  REF-3315. Single lineage. Binomial confirmed.'
+  REF-3315. Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 13 - REF-0306 ("Wicke 2007", pages 109-116, no journal
+  or DOI) not found in PubMed, OpenAlex or Crossref - purged as unverifiable. REF-0870 (SR of an
+  ivy/primrose/thyme combination product; "studies on primrose were lacking") removed.
+  Respiratory-support rests on the EU monograph REF-0075 (expectorant in cough associated with
+  cold; EMA 429, flagged). Gap for owner: no cough pair and no expectorant action, though EMA and
+  ESCOP (2021) both name cough with colds.'

@@ -1405,16 +1405,6 @@
      ]
     },
     {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-1408"
-     ]
-    },
-    {
      "condition": "wounds",
      "label": "Wounds",
      "evidence": 2,
@@ -5139,13 +5129,11 @@
     {
      "condition": "respiratory-support",
      "label": "Respiratory support",
-     "evidence": 2,
+     "evidence": 1,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0075",
-      "REF-0306",
-      "REF-0870"
+      "REF-0075"
      ]
     }
    ]
@@ -7922,6 +7910,39 @@
      ]
     },
     {
+     "condition": "constipation",
+     "label": "Constipation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1758"
+     ]
+    },
+    {
+     "condition": "cough",
+     "label": "Cough",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0358",
+      "REF-1758"
+     ]
+    },
+    {
+     "condition": "diarrhea",
+     "label": "Diarrhoea",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0358",
+      "REF-0354",
+      "REF-0098"
+     ]
+    },
+    {
      "condition": "immune-support",
      "label": "Immune support",
      "evidence": 2,
@@ -7932,6 +7953,52 @@
      ]
     },
     {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0354",
+      "REF-0358"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0364",
+      "REF-0354",
+      "REF-1758"
+     ]
+    },
+    {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0364",
+      "REF-0358"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0364",
+      "REF-0358",
+      "REF-0098"
+     ]
+    },
+    {
      "condition": "wounds",
      "label": "Wounds",
      "evidence": 2,
@@ -7939,7 +8006,6 @@
      "inferred": true,
      "references": [
       "REF-0364",
-      "REF-0309",
       "REF-0358",
       "REF-0368",
       "REF-3004"
@@ -7951,10 +8017,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0364",
-      "REF-0309"
-     ]
+     "references": []
     },
     {
      "condition": "bronchitis",
@@ -7963,101 +8026,12 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0364",
-      "REF-0309",
       "REF-0358"
      ]
     },
     {
      "condition": "bruising",
      "label": "Bruising",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0364",
-      "REF-0309",
-      "REF-0358",
-      "REF-0368"
-     ]
-    },
-    {
-     "condition": "constipation",
-     "label": "Constipation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0358"
-     ]
-    },
-    {
-     "condition": "cough",
-     "label": "Cough",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0358"
-     ]
-    },
-    {
-     "condition": "diarrhea",
-     "label": "Diarrhoea",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0358"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0354"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0364",
-      "REF-0309"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0364",
-      "REF-0309",
-      "REF-0358"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0364",
-      "REF-0309"
-     ]
-    },
-    {
-     "condition": "sore-throat",
-     "label": "Sore throat",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -9122,43 +9096,29 @@
      "references": [
       "REF-2462",
       "REF-2463",
-      "REF-2544",
       "REF-2546",
       "REF-2547",
-      "REF-3061"
+      "REF-3061",
+      "REF-3398"
      ]
     },
     {
      "condition": "nervous-tension",
      "label": "Nervous tension",
-     "evidence": 8,
+     "evidence": 3,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-2462",
       "REF-3061"
      ]
     },
     {
      "condition": "stress",
      "label": "Stress",
-     "evidence": 8,
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-2462",
-      "REF-2463"
-     ]
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2460"
-     ]
+     "references": []
     }
    ]
   },
@@ -11000,67 +10960,70 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 4,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2596",
-      "REF-2597"
-     ]
-    },
-    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
-     "evidence": 3,
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0102"
-     ]
-    },
-    {
-     "condition": "cancer",
-     "label": "Cancer (anticancer research)",
-     "evidence": 3,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-1498",
-      "REF-1499",
-      "REF-2596",
-      "REF-2598"
+      "REF-3399"
      ]
     },
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 3,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0102"
+      "REF-3399"
      ]
     },
     {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 3,
-     "status": "needs-review",
-     "inferred": true,
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
      "references": [
-      "REF-2597"
+      "REF-2596",
+      "REF-2597",
+      "REF-3400",
+      "REF-3401"
      ]
     },
     {
      "condition": "metabolic-support",
      "label": "Metabolic support",
-     "evidence": 3,
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0102"
+      "REF-3399"
+     ]
+    },
+    {
+     "condition": "cold",
+     "label": "Cold & flu",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2597",
+      "REF-3400",
+      "REF-3401"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1498",
+      "REF-1499",
+      "REF-2598"
      ]
     },
     {
@@ -11790,7 +11753,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-1508",
       "REF-0547",
       "REF-0548",
       "REF-1507",
@@ -11806,7 +11768,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-1508",
       "REF-0547",
       "REF-0548",
       "REF-1507",
@@ -12236,9 +12197,19 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0500",
       "REF-0960",
       "REF-0965"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0633",
+      "REF-0500"
      ]
     },
     {
@@ -12250,17 +12221,7 @@
      "references": [
       "REF-0500",
       "REF-0966",
-      "REF-0967"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0633"
+      "REF-0358"
      ]
     },
     {
@@ -12270,8 +12231,8 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0499",
-      "REF-0500"
+      "REF-0500",
+      "REF-0358"
      ]
     },
     {
@@ -12280,20 +12241,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0500"
-     ]
-    },
-    {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0499",
-      "REF-0500"
-     ]
+     "references": []
     },
     {
      "condition": "cough",
@@ -12303,28 +12251,7 @@
      "inferred": false,
      "references": [
       "REF-0499",
-      "REF-0500"
-     ]
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0500"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0633",
-      "REF-0968"
+      "REF-0358"
      ]
     },
     {
@@ -12334,7 +12261,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0500"
+      "REF-0358"
      ]
     },
     {
@@ -12345,7 +12272,8 @@
      "inferred": false,
      "references": [
       "REF-0499",
-      "REF-0633"
+      "REF-0500",
+      "REF-0358"
      ]
     }
    ]
@@ -12873,14 +12801,13 @@
      ]
     },
     {
-     "condition": "infection",
-     "label": "Infection (general)",
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
      "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0018",
-      "REF-0098"
+      "REF-0633"
      ]
     },
     {
@@ -12895,29 +12822,6 @@
      ]
     },
     {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0098",
-      "REF-1242"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0018",
-      "REF-0098",
-      "REF-1242"
-     ]
-    },
-    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -12928,8 +12832,8 @@
      ]
     },
     {
-     "condition": "bronchitis",
-     "label": "Bronchitis",
+     "condition": "infection",
+     "label": "Infection (general)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -12938,28 +12842,8 @@
      ]
     },
     {
-     "condition": "cough",
-     "label": "Cough",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0098"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0098"
-     ]
-    },
-    {
-     "condition": "swelling",
-     "label": "Swelling / fluid retention",
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -12970,16 +12854,6 @@
     {
      "condition": "urinary-support",
      "label": "Urinary support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0098"
-     ]
-    },
-    {
-     "condition": "uti",
-     "label": "Urinary tract infection (UTI)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -13110,8 +12984,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0098",
-      "REF-0200",
       "REF-0659"
      ]
     },
@@ -13128,18 +13000,6 @@
      ]
     },
     {
-     "condition": "bruising",
-     "label": "Bruising",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0098",
-      "REF-0200",
-      "REF-0659"
-     ]
-    },
-    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -13150,7 +13010,6 @@
       "REF-2916",
       "REF-2915",
       "REF-2879",
-      "REF-2882",
       "REF-2885",
       "REF-2886",
       "REF-2888"
@@ -13164,7 +13023,8 @@
      "inferred": true,
      "references": [
       "REF-2913",
-      "REF-2912"
+      "REF-2912",
+      "REF-0659"
      ]
     },
     {
@@ -13178,31 +13038,12 @@
      ]
     },
     {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0098",
-      "REF-0200",
-      "REF-0314"
-     ]
-    },
-    {
      "condition": "immune-support",
      "label": "Immune support",
      "evidence": 2,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-2882",
-      "REF-2887",
-      "REF-0098",
-      "REF-0200",
-      "REF-0314",
-      "REF-0658",
-      "REF-0660",
       "REF-0663"
      ]
     },
@@ -13213,9 +13054,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0098",
       "REF-0200",
-      "REF-0314",
       "REF-0659"
      ]
     },
@@ -13228,23 +13067,9 @@
      "references": [
       "REF-2884",
       "REF-2887",
-      "REF-0098",
-      "REF-0200",
       "REF-0658",
       "REF-0659",
       "REF-0660"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0098",
-      "REF-0200",
-      "REF-0659"
      ]
     },
     {
@@ -13255,10 +13080,26 @@
      "inferred": true,
      "references": [
       "REF-2921",
-      "REF-0098",
-      "REF-0200",
-      "REF-0659"
+      "REF-0098"
      ]
+    },
+    {
+     "condition": "bruising",
+     "label": "Bruising",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0098"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
     }
    ]
   },
@@ -14316,21 +14157,7 @@
       "REF-0520",
       "REF-0521",
       "REF-0602",
-      "REF-0970",
       "REF-0973"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 3,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0520",
-      "REF-0521",
-      "REF-0973",
-      "REF-0978"
      ]
     },
     {
@@ -14342,17 +14169,29 @@
      "references": [
       "REF-0521",
       "REF-0977",
-      "REF-2592"
+      "REF-3402"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0520",
+      "REF-0521",
+      "REF-0973",
+      "REF-0978"
      ]
     },
     {
      "condition": "skin-irritation",
      "label": "Skin irritation",
-     "evidence": 3,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0521",
       "REF-0975",
       "REF-0978"
      ]
@@ -14360,23 +14199,13 @@
     {
      "condition": "sore-throat",
      "label": "Sore throat",
-     "evidence": 2,
+     "evidence": 1,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0520",
-      "REF-0521",
-      "REF-0976",
-      "REF-2594"
+      "REF-0521"
      ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     },
     {
      "condition": "wounds",
@@ -14384,9 +14213,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0521"
-     ]
+     "references": []
     }
    ]
   },

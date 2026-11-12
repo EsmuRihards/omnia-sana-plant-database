@@ -118,12 +118,10 @@ actions:
   - REF-2598
   status: verified
 - action: antidiabetic
-  reference_ids:
-  - REF-0102
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0102
   - REF-1500
   status: verified
 - action: immunomodulator
@@ -142,28 +140,34 @@ indications:
   reference_ids: []
   status: needs-review
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Eating oyster mushroom lowered fasting and after-meal blood glucose in clinical trials (systematic
+    review; low-quality evidence)
   reference_ids:
-  - REF-0102
+  - REF-3399
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Oyster mushroom extracts and polysaccharides slowed cancer cell growth in lab studies (preclinical;
+    reviews)
   reference_ids:
   - REF-1498
   - REF-1499
-  - REF-2596
   - REF-2598
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0102
+  - REF-3399
   status: verified
+  note: Eating oyster mushroom lowered cholesterol and triglycerides, and in some trials blood pressure
+    (systematic review; low-quality evidence)
 - condition: cold
-  note: inferred from immunomodulator action
+  note: Pleuran, the beta-glucan from oyster mushroom, reduced respiratory infection symptoms in placebo-controlled
+    trials in athletes and children (compound evidence)
   reference_ids:
   - REF-2597
+  - REF-3400
+  - REF-3401
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
@@ -172,17 +176,22 @@ indications:
   reference_ids:
   - REF-2596
   - REF-2597
+  - REF-3400
+  - REF-3401
   status: verified
   mechanistic_exclude_ids:
   - REF-0300
+  note: Pleuran, the beta-glucan from oyster mushroom, raised natural killer cell counts and shifted immune
+    markers in placebo-controlled trials (compound evidence)
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
 - condition: metabolic-support
-  note: inferred from antidiabetic action
+  note: Eating oyster mushroom improved blood glucose and blood lipids in clinical trials; body weight
+    did not change (systematic review; low-quality evidence)
   reference_ids:
-  - REF-0102
+  - REF-3399
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -193,14 +202,12 @@ contraindications:
     working with mushroom cultivation. Safe for culinary use without significant known interactions.
   severity: caution
   reference_ids:
-  - REF-0102
   - REF-0300
   status: verified
 - note: Duke (2002) does not include a dedicated entry for Oyster mushroom (Pleurotus ostreatus) in the
     Handbook of Medicinal Herbs, Second Edition.
   severity: info
   reference_ids:
-  - REF-0102
   - REF-0300
   - REF-0063
   status: verified
@@ -288,4 +295,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature,
   as part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for fruiting-body (provisional: Fungi Ally REF-3318; harvest before cap edges flatten or
-  flip up). SAFETY: fatal angel wings (Pleurocybella porrigens) lookalike. Binomial confirmed.'
+  flip up). SAFETY: fatal angel wings (Pleurocybella porrigens) lookalike. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 13 - REF-0102 (edible mushrooms and CVD review; names
+  no species) purged - it was the only source for blood-sugar, metabolic-support and
+  cardiovascular-support. Landmark evidence added: Dicks & Ellinger 2020 SR REF-3399 (8 trials of
+  P. ostreatus intake: lower glucose and lipids; low-quality evidence) for those three pairs;
+  pleuran RCTs Bergendiova 2011 REF-3400 (athletes, fewer URTI symptoms, more NK cells) and
+  Jesenak 2013 REF-3401 (children with recurrent RTIs; placebo arm got the same vitamin C) for
+  cold and immune-support (pleuran = signature compound, labelled). REF-2596 (immune profile in
+  breast-cancer survivors; no tumour outcome) removed from cancer.'

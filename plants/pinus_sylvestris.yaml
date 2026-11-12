@@ -94,7 +94,6 @@ traditional_uses:
     on the needle essential oil supports antimicrobial, anti-inflammatory and expectorant activity.
   reference_ids:
   - REF-0098
-  - REF-0018
   status: verified
 preparations:
 - name: Needle infusion (tea)
@@ -106,8 +105,7 @@ preparations:
 - name: Essential oil (inhalation/topical)
   text: Steam-distilled from the needles; used diluted in ointments, chest rubs or steam inhalation for
     respiratory complaints.
-  reference_ids:
-  - REF-0018
+  reference_ids: []
   status: verified
 - name: Bud/bark preparations
   text: Traditional syrup or decoction of young buds or bark for bronchitis and sinus congestion.
@@ -118,7 +116,6 @@ dosage:
     the essential oil; avoid inhalation in severe asthma, whooping cough or laryngospasm. Educational
     reference only, not a prescription.'
   reference_ids:
-  - REF-0018
   - REF-0098
   - REF-0279
   status: verified
@@ -136,8 +133,7 @@ constituents:
   compounds:
   - terpene
   note: The resinous sap/pitch, traditionally used topically for wounds and skin complaints.
-  reference_ids:
-  - REF-1242
+  reference_ids: []
 - name: Vitamin C and flavonoids (needles)
   compounds:
   - flavonoid
@@ -145,10 +141,8 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0018
   - REF-0098
   - REF-1234
-  - REF-1242
   status: verified
 - action: anticancer
   reference_ids:
@@ -156,7 +150,6 @@ actions:
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-0018
   - REF-0098
   - REF-1233
   - REF-1240
@@ -164,116 +157,72 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0018
   - REF-0098
   - REF-1237
   status: verified
 - action: diuretic
   reference_ids:
-  - REF-0018
   - REF-0098
   status: verified
 - action: expectorant
   reference_ids:
-  - REF-0018
   - REF-0098
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditional remedy for rheumatic complaints (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0018
   - REF-1234
-- condition: bronchitis
-  note: inferred from expectorant action
-  reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0018
 - condition: cancer
-  note: inferred from anticancer action
+  note: Needle extract and oil were selectively toxic to hormone-insensitive breast cancer cells in the
+    lab (preclinical)
   reference_ids:
   - REF-1239
   status: needs-review
-- condition: cough
-  note: inferred from expectorant action
-  reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0018
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Traditional antiseptic use of pine preparations (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0018
   - REF-0098
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1240
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Needle extract reduced nitric oxide production by inflamed immune cells in the lab (preclinical);
+    a study of the essential oil found no anti-inflammatory effect
   reference_ids:
-  - REF-0098
+  - REF-0633
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0018
+  - REF-0098
+  - REF-1234
+  null_result_ids:
+  - REF-1242
 - condition: respiratory-support
   reference_ids:
   - REF-0098
   - REF-1234
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0018
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Pine tar was used traditionally for eczema and other skin complaints (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
-  - REF-1242
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0018
   - REF-1234
-- condition: swelling
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0018
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Traditional remedy for bladder and kidney complaints (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0018
-- condition: uti
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0018
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0018
-  - REF-0098
-  - REF-1242
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1240
 contraindications:
 - note: Generally safe in normal amounts. Pine essential oil should not be ingested; topical use only
     in diluted form. May irritate airways in high concentrations. Allergic reactions to pine pollen and
     resin are common. Turpentine products are irritant and potentially toxic if ingested.
   severity: caution
   reference_ids:
-  - REF-0018
   - REF-0098
   - REF-0279
   status: verified
@@ -285,7 +234,6 @@ contraindications:
     essential oil in ointment or cream for topical use (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0018
   - REF-0098
   - REF-0279
   - REF-0063
@@ -300,7 +248,6 @@ references:
 - REF-1239
 - REF-1240
 - REF-1241
-- REF-1242
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -356,4 +303,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for shoot + leaf (provisional: PFAF
   REF-3311, young shoots/needles in spring); bark + sap = GAP. SAFETY: fatal yew (Taxus baccata) needle
-  confusion. Binomial confirmed. | 2026-08-15: bark harvest_readiness filled (was gap) from Zackrisson et al., Veg Hist Archaeobot 2000 (REF-3382) - inner bark taken in spring in large sheets. The sap/resin entry stays a documented gap: all tapping-season literature found concerns other Pinus species and was not inherited.'
+  confusion. Binomial confirmed. | 2026-08-15: bark harvest_readiness filled (was gap) from Zackrisson et al., Veg Hist Archaeobot 2000 (REF-3382) - inner bark taken in spring in large sheets. The sap/resin entry stays a documented gap: all tapping-season literature found concerns other Pinus species and was not inherited.
+  | 2026-11-10: symptom-source audit batch 13 - REF-0018 (general essential-oil review, no pine
+  species) purged. REF-1242 (five Pinus oils: P. sylvestris oil "did not show any significant
+  wound healing and anti-inflammatory activities") purged from actions and recorded as null for
+  wounds and inflammation. Grieve REF-0098 (pine entry: rheumatic affections, respiratory
+  complaints, antiseptic, tar in eczema, bladder/kidney) removed from bronchitis, cough, uti,
+  swelling (rheumatic swelling is not fluid retention), inflammation, wounds - bronchitis, cough,
+  uti and swelling dropped. REF-1234 (inhaled oil aggravated inflammatory markers) hidden from
+  inflammation; REF-0633 (in vitro NO/iNOS, P. sylvestris) added. Wounds: remaining mechanistic
+  cards were oil tests against N. gonorrhoeae and Cryptococcus (off-target, inv. 11) - pair
+  dropped.'

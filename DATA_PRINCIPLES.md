@@ -204,7 +204,12 @@ design — honor them and the redesign is safe; break one and it isn't:
    (Ask-Ayurveda wiki); a referenced, practitioner-written page (Herbal Reality) counts only for
    what it names. A product registered as homeopathic but made at mother-tincture strength (a 10%
    plant extract, e.g. Releva Mahonia cream) counts as plant evidence, labelled in the note;
-   serial dilutions (D3 and beyond, pellets) do not.
+   serial dilutions (D3 and beyond, pellets) do not. A mechanistic-only ("inferred from X
+   action") pair is dropped when the plant's own evidence contradicts the mechanism (tormentil
+   tannins are not absorbed into the blood, so no inferred arthritis effect) or when the action
+   evidence concerns an unrelated target (anti-herpes lab work offered for colds; oil tests
+   against gonorrhoea and a yeast offered for wounds) (owner decision, 2026-11-12). Generic
+   anti-inflammatory or antioxidant inferences stay, labelled.
 
 A precise "8/10" shown to a consumer implies more rigor than AI-assigned tags carry —
 treat the number as a claim that itself must be earned (see §10).

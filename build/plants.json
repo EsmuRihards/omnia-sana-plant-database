@@ -42693,7 +42693,7 @@
    "indications": [
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Seed extract reduced chemically induced colorectal tumours in rats (preclinical)",
      "reference_ids": [
       "REF-1415"
      ],
@@ -42703,7 +42703,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Seed extract was active against the gut parasite Giardia in the lab (preclinical)",
      "reference_ids": [
       "REF-1414"
      ],
@@ -42720,21 +42720,8 @@
      "label": "Inflammation (general)"
     },
     {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-1408"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1415"
-     ],
-     "evidence": 2,
-     "label": "Skin irritation"
-    },
-    {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Topical seed extract sped wound healing in diabetic rats (preclinical)",
      "reference_ids": [
       "REF-1408"
      ],
@@ -42916,8 +42903,7 @@
    "traditional_uses": {
     "text": "Scots pine has a long northern European tradition as a source of resinous, aromatic preparations for respiratory complaints (coughs, bronchitis, catarrh) and topical rheumatic/muscular remedies, and pine-needle tea has traditionally been valued as a vitamin-C-rich winter tonic. Modern research on the needle essential oil supports antimicrobial, anti-inflammatory and expectorant activity.",
     "reference_ids": [
-     "REF-0098",
-     "REF-0018"
+     "REF-0098"
     ],
     "status": "verified"
    },
@@ -42929,14 +42915,6 @@
       "REF-0098"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Essential oil (inhalation/topical)",
-     "text": "Steam-distilled from the needles; used diluted in ointments, chest rubs or steam inhalation for respiratory complaints.",
-     "reference_ids": [
-      "REF-0018"
-     ],
-     "status": "verified"
     }
    ],
    "dosage": [
@@ -42944,7 +42922,6 @@
      "name": "Essential oil (topical)",
      "text": "Duke (2002): about 100-200 mg essential oil in an ointment or cream for topical use. Do not ingest the essential oil; avoid inhalation in severe asthma, whooping cough or laryngospasm. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0018",
       "REF-0098",
       "REF-0279"
      ],
@@ -42970,9 +42947,7 @@
       "terpene"
      ],
      "note": "The resinous sap/pitch, traditionally used topically for wounds and skin complaints.",
-     "reference_ids": [
-      "REF-1242"
-     ]
+     "reference_ids": []
     },
     {
      "name": "Vitamin C and flavonoids (needles)",
@@ -42986,10 +42961,8 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0018",
       "REF-0098",
-      "REF-1234",
-      "REF-1242"
+      "REF-1234"
      ],
      "status": "verified"
     },
@@ -43003,7 +42976,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0018",
       "REF-0098",
       "REF-1233",
       "REF-1240",
@@ -43014,7 +42986,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0018",
       "REF-0098",
       "REF-1237"
      ],
@@ -43023,7 +42994,6 @@
     {
      "action": "diuretic",
      "reference_ids": [
-      "REF-0018",
       "REF-0098"
      ],
      "status": "verified"
@@ -43031,7 +43001,6 @@
     {
      "action": "expectorant",
      "reference_ids": [
-      "REF-0018",
       "REF-0098"
      ],
      "status": "verified"
@@ -43040,34 +43009,20 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional remedy for rheumatic complaints (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0018",
       "REF-1234"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
-     "condition": "bronchitis",
-     "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0018"
-     ],
-     "evidence": 1,
-     "label": "Bronchitis"
-    },
-    {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Needle extract and oil were selectively toxic to hormone-insensitive breast cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1239"
      ],
@@ -43076,43 +43031,33 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "cough",
-     "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0018"
-     ],
-     "evidence": 1,
-     "label": "Cough"
-    },
-    {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditional antiseptic use of pine preparations (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0018",
       "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1240"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Needle extract reduced nitric oxide production by inflamed immune cells in the lab (preclinical); a study of the essential oil found no anti-inflammatory effect",
      "reference_ids": [
-      "REF-0098"
+      "REF-0633"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0018"
+      "REF-0098",
+      "REF-1234"
      ],
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-1242"
+     ],
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -43122,80 +43067,31 @@
       "REF-1234"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0018"
-     ],
      "evidence": 2,
      "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Pine tar was used traditionally for eczema and other skin complaints (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098",
-      "REF-1242"
+      "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0018",
       "REF-1234"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
-     "condition": "swelling",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0018"
-     ],
-     "evidence": 1,
-     "label": "Swelling / fluid retention"
-    },
-    {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Traditional remedy for bladder and kidney complaints (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0018"
-     ],
      "evidence": 1,
      "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0018"
-     ],
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0018",
-      "REF-0098",
-      "REF-1242"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1240"
-     ],
-     "evidence": 2,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -43203,7 +43099,6 @@
      "note": "Generally safe in normal amounts. Pine essential oil should not be ingested; topical use only in diluted form. May irritate airways in high concentrations. Allergic reactions to pine pollen and resin are common. Turpentine products are irritant and potentially toxic if ingested.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0018",
       "REF-0098",
       "REF-0279"
      ],
@@ -43213,7 +43108,6 @@
      "note": "Duke (2002) rates Scotch pine as + and notes antiseptic, antibacterial (score 1), and bronchospasmolytic activities. Commission E (KOM) and PhEur (PIP) approve pine needle preparations for topical use in rheumatic and neuralgic conditions and for inhalations in upper respiratory catarrh. Duke cautions that pine needle oil should not be inhaled by patients with severe asthma, whooping cough, or laryngospasm. Pine bud preparations are traditionally used for bronchitis and sinus congestion. Dose: 100–200 mg essential oil in ointment or cream for topical use (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0018",
       "REF-0098",
       "REF-0279",
       "REF-0063"
@@ -43230,8 +43124,7 @@
     "REF-1238",
     "REF-1239",
     "REF-1240",
-    "REF-1241",
-    "REF-1242"
+    "REF-1241"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -43410,7 +43303,6 @@
      "reference_ids": [
       "REF-2462",
       "REF-2463",
-      "REF-2544",
       "REF-2546",
       "REF-2547",
       "REF-3061"
@@ -43437,49 +43329,43 @@
      "reference_ids": [
       "REF-2462",
       "REF-2463",
-      "REF-2544",
       "REF-2546",
       "REF-2547",
-      "REF-3061"
+      "REF-3061",
+      "REF-3398"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3397"
+     ],
+     "note": "Reduced anxiety versus placebo in meta-analyses and short trials of kava extract; a larger 16-week trial in generalised anxiety disorder found no benefit",
      "evidence": 10,
      "label": "Anxiety"
     },
     {
      "condition": "stress",
      "note": "inferred from anxiolytic action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-2462",
       "REF-2463"
      ],
-     "status": "needs-review",
-     "evidence": 8,
+     "evidence": 1,
      "label": "Stress"
     },
     {
      "condition": "nervous-tension",
      "note": "Directly measured as a treatment target in a 156-patient observational trial of kava extract, where nervous tension and restlessness showed the largest improvements.",
      "reference_ids": [
-      "REF-2462",
       "REF-3061"
      ],
      "status": "verified",
-     "evidence": 8,
-     "label": "Nervous tension"
-    },
-    {
-     "condition": "insomnia",
-     "note": "inferred from sedative action",
-     "reference_ids": [
-      "REF-2460"
-     ],
-     "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2462"
      ],
-     "evidence": 2,
-     "label": "Insomnia / sleeplessness"
+     "evidence": 3,
+     "label": "Nervous tension"
     }
    ],
    "contraindications": [
@@ -43552,7 +43438,7 @@
    ],
    "references": [
     "REF-2460",
-    "REF-2544",
+    "REF-2462",
     "REF-2545",
     "REF-2546",
     "REF-2547"
@@ -43737,8 +43623,7 @@
      "note": "Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional respiratory anti-inflammatory use",
      "reference_ids": [
       "REF-0499",
-      "REF-0633",
-      "REF-0968"
+      "REF-0633"
      ],
      "status": "verified"
     },
@@ -43786,32 +43671,18 @@
      "reference_ids": [
       "REF-0499",
       "REF-0500",
-      "REF-0966",
-      "REF-0967"
+      "REF-0966"
      ],
      "status": "verified"
     }
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0633"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0499"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
      "condition": "bronchitis",
      "note": "Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage soothes and protects irritated airways)",
      "reference_ids": [
-      "REF-0499",
-      "REF-0500"
+      "REF-0500",
+      "REF-0358"
      ],
      "status": "verified",
      "evidence": 1,
@@ -43820,62 +43691,40 @@
     {
      "condition": "bruising",
      "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0500"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0499"
-     ],
-     "evidence": 1,
-     "label": "Bruising"
-    },
-    {
-     "condition": "cold",
-     "note": "inferred from immunomodulator action",
-     "reference_ids": [
       "REF-0499",
       "REF-0500"
      ],
-     "status": "needs-review",
      "evidence": 1,
-     "label": "Cold & flu"
+     "label": "Bruising"
     },
     {
      "condition": "cough",
      "note": "Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage soothes and protects irritated airways)",
      "reference_ids": [
       "REF-0499",
-      "REF-0500"
+      "REF-0358"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0500"
+     ],
      "evidence": 1,
      "label": "Cough"
     },
     {
-     "condition": "immune-support",
-     "note": "inferred from immunomodulator action",
-     "reference_ids": [
-      "REF-0500"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0499"
-     ],
-     "evidence": 1,
-     "label": "Immune support"
-    },
-    {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Leaf and root extracts were antibacterial in the lab, including against the Lyme disease bacterium (preclinical)",
      "reference_ids": [
-      "REF-0500",
       "REF-0960",
       "REF-0965"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0499"
+      "REF-0499",
+      "REF-0500"
      ],
      "evidence": 2,
      "label": "Infection (general)"
@@ -43885,24 +43734,25 @@
      "note": "Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional respiratory anti-inflammatory use",
      "reference_ids": [
       "REF-0633",
-      "REF-0968"
+      "REF-0500"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0499"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from demulcent action",
+     "note": "Traditionally applied to dry, inflamed rashes (Herbal Reality)",
      "reference_ids": [
-      "REF-0500"
+      "REF-0358"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0499"
+      "REF-0499",
+      "REF-0500"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -43912,7 +43762,8 @@
      "note": "Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional respiratory anti-inflammatory use",
      "reference_ids": [
       "REF-0499",
-      "REF-0633"
+      "REF-0500",
+      "REF-0358"
      ],
      "status": "verified",
      "evidence": 1,
@@ -43924,7 +43775,7 @@
      "reference_ids": [
       "REF-0500",
       "REF-0966",
-      "REF-0967"
+      "REF-0358"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
@@ -43961,8 +43812,6 @@
     "REF-0964",
     "REF-0965",
     "REF-0966",
-    "REF-0967",
-    "REF-0968",
     "REF-0969"
    ],
    "lookalikes_review": {
@@ -44159,8 +44008,7 @@
      "text": "Duke (2002): leaf taken as a tea, or used fresh as a poultice, for wounds, sore throat and bronchial conditions. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-0234",
-      "REF-0364",
-      "REF-0309"
+      "REF-0364"
      ],
      "status": "verified"
     }
@@ -44170,7 +44018,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0364",
-      "REF-0309",
       "REF-1763",
       "REF-1764",
       "REF-3008",
@@ -44193,7 +44040,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0364",
-      "REF-0309",
       "REF-0354",
       "REF-1767",
       "REF-1768",
@@ -44216,7 +44062,6 @@
      "note": "Demulcent / expectorant (coughs, catarrh, irritated airways)",
      "reference_ids": [
       "REF-0358",
-      "REF-1762",
       "REF-1769"
      ],
      "status": "verified"
@@ -44226,7 +44071,6 @@
      "note": "Demulcent / expectorant (coughs, catarrh, irritated airways)",
      "reference_ids": [
       "REF-0364",
-      "REF-0309",
       "REF-0358",
       "REF-1758",
       "REF-1766"
@@ -44248,7 +44092,6 @@
      "note": "Vulnerary (wound healing) - fresh leaf poultice",
      "reference_ids": [
       "REF-0364",
-      "REF-0309",
       "REF-0358",
       "REF-0368",
       "REF-1759",
@@ -44307,146 +44150,140 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0364",
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1763",
-      "REF-3010"
+      "REF-3010",
+      "REF-0364"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "bronchitis",
-     "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0364",
-      "REF-0309",
-      "REF-0358"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bronchitis"
-    },
-    {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0364",
-      "REF-0309",
-      "REF-0358",
-      "REF-0368"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bruising"
-    },
-    {
-     "condition": "constipation",
-     "note": "inferred from laxative action",
+     "note": "Traditionally used in mild bronchitis (Herbal Reality)",
      "reference_ids": [
       "REF-0358"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1769"
+      "REF-0364"
      ],
      "evidence": 1,
+     "label": "Bronchitis"
+    },
+    {
+     "condition": "bruising",
+     "note": "Traditionally applied in salves for bruises and wounds (Herbal Reality)",
+     "reference_ids": [
+      "REF-0358"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0364",
+      "REF-0368"
+     ],
+     "evidence": 1,
+     "label": "Bruising"
+    },
+    {
+     "condition": "constipation",
+     "note": "Traditional remedy for constipation in Persian medicine; laxative activity reported (narrative review)",
+     "reference_ids": [
+      "REF-1758"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-1769",
+      "REF-0358"
+     ],
+     "evidence": 2,
      "label": "Constipation"
     },
     {
      "condition": "cough",
      "note": "Demulcent / expectorant (coughs, catarrh, irritated airways)",
      "reference_ids": [
-      "REF-0358"
+      "REF-0358",
+      "REF-1758"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-1762",
       "REF-1769"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cough"
     },
     {
      "condition": "diarrhea",
      "note": "Astringent (diarrhoea)",
      "reference_ids": [
-      "REF-0358"
+      "REF-0358",
+      "REF-0354",
+      "REF-0098"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Diarrhoea"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Antibacterial and antiviral activity reported in lab studies; used traditionally for mild infections such as cystitis and sinusitis",
      "reference_ids": [
-      "REF-0354"
+      "REF-0354",
+      "REF-0358"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Leaf extracts reduced inflammation in rodent and cell studies (preclinical; reviews); a mouth-rinse trial for chemotherapy mouth sores found no benefit",
      "reference_ids": [
       "REF-0364",
-      "REF-0309"
+      "REF-0354",
+      "REF-1758"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-1762"
+     ],
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Traditional remedy for catarrh, coughs and other respiratory complaints",
      "reference_ids": [
       "REF-0364",
-      "REF-0309",
       "REF-0358"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional remedy for inflamed skin and rashes (Grieve; Herbal Reality; review of folk use)",
      "reference_ids": [
       "REF-0364",
-      "REF-0309"
+      "REF-0358",
+      "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1769"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Skin irritation"
     },
     {
-     "condition": "sore-throat",
-     "note": "inferred from demulcent action",
-     "reference_ids": [
-      "REF-0358"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1769"
-     ],
-     "evidence": 1,
-     "label": "Sore throat"
-    },
-    {
      "condition": "wounds",
-     "note": "inferred from vulnerary action",
+     "note": "Traditional wound herb; leaf extracts aided cell migration and burn-wound healing in lab and rat studies (preclinical)",
      "reference_ids": [
       "REF-0364",
-      "REF-0309",
       "REF-0358",
       "REF-0368",
       "REF-3004"
@@ -44477,7 +44314,7 @@
     },
     {
      "condition": "cardiovascular-support",
-     "note": "Plantamajoside attenuated cardiac fibrosis via AGEs/RAGE inhibition (preclinical).",
+     "note": "Plantamajoside, a signature compound of plantain, protected heart cells and reduced cardiac fibrosis in lab and mouse studies (compound evidence, preclinical)",
      "reference_ids": [
       "REF-3002",
       "REF-3003"
@@ -44493,8 +44330,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0234",
-      "REF-0364",
-      "REF-0309"
+      "REF-0364"
      ],
      "status": "verified"
     },
@@ -44504,7 +44340,6 @@
      "reference_ids": [
       "REF-0234",
       "REF-0364",
-      "REF-0309",
       "REF-0063"
      ],
      "status": "verified"
@@ -44551,7 +44386,6 @@
     "REF-1759",
     "REF-1760",
     "REF-1761",
-    "REF-1762",
     "REF-1763",
     "REF-1764",
     "REF-1765",
@@ -44734,15 +44568,12 @@
     },
     {
      "action": "antidiabetic",
-     "reference_ids": [
-      "REF-0102"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0102",
       "REF-1500"
      ],
      "status": "verified"
@@ -44772,64 +44603,69 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Eating oyster mushroom lowered fasting and after-meal blood glucose in clinical trials (systematic review; low-quality evidence)",
      "reference_ids": [
-      "REF-0102"
+      "REF-3399"
      ],
      "status": "needs-review",
-     "evidence": 3,
+     "evidence": 7,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Oyster mushroom extracts and polysaccharides slowed cancer cell growth in lab studies (preclinical; reviews)",
      "reference_ids": [
       "REF-1498",
       "REF-1499",
-      "REF-2596",
       "REF-2598"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0300"
      ],
-     "evidence": 3,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0102"
+      "REF-3399"
      ],
      "status": "verified",
-     "evidence": 3,
+     "note": "Eating oyster mushroom lowered cholesterol and triglycerides, and in some trials blood pressure (systematic review; low-quality evidence)",
+     "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cold",
-     "note": "inferred from immunomodulator action",
+     "note": "Pleuran, the beta-glucan from oyster mushroom, reduced respiratory infection symptoms in placebo-controlled trials in athletes and children (compound evidence)",
      "reference_ids": [
-      "REF-2597"
+      "REF-2597",
+      "REF-3400",
+      "REF-3401"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0300",
       "REF-1497"
      ],
-     "evidence": 3,
+     "evidence": 6,
      "label": "Cold & flu"
     },
     {
      "condition": "immune-support",
      "reference_ids": [
       "REF-2596",
-      "REF-2597"
+      "REF-2597",
+      "REF-3400",
+      "REF-3401"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0300"
      ],
-     "evidence": 4,
+     "note": "Pleuran, the beta-glucan from oyster mushroom, raised natural killer cell counts and shifted immune markers in placebo-controlled trials (compound evidence)",
+     "evidence": 7,
      "label": "Immune support"
     },
     {
@@ -44842,12 +44678,12 @@
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
+     "note": "Eating oyster mushroom improved blood glucose and blood lipids in clinical trials; body weight did not change (systematic review; low-quality evidence)",
      "reference_ids": [
-      "REF-0102"
+      "REF-3399"
      ],
      "status": "needs-review",
-     "evidence": 3,
+     "evidence": 7,
      "label": "Metabolic support"
     },
     {
@@ -44864,7 +44700,6 @@
      "note": "Generally very safe as a food. Rare cases of occupational asthma and allergy reported among people working with mushroom cultivation. Safe for culinary use without significant known interactions.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0102",
       "REF-0300"
      ],
      "status": "verified"
@@ -44873,7 +44708,6 @@
      "note": "Duke (2002) does not include a dedicated entry for Oyster mushroom (Pleurotus ostreatus) in the Handbook of Medicinal Herbs, Second Edition.",
      "severity": "info",
      "reference_ids": [
-      "REF-0102",
       "REF-0300",
       "REF-0063"
      ],
@@ -45129,29 +44963,12 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0520",
-      "REF-0521",
-      "REF-0970",
-      "REF-0975",
-      "REF-0977",
-      "REF-0978"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
      "condition": "diarrhea",
      "note": "Astringent for mild diarrhoea (ellagitannins tighten the gut lining) - in a paediatric RCT, tormentil root extract shortened rotavirus diarrhoea (3 vs 5 days) and reduced rehydration needs",
      "reference_ids": [
       "REF-0520",
       "REF-0521",
       "REF-0602",
-      "REF-0970",
       "REF-0973"
      ],
      "status": "verified",
@@ -45164,11 +44981,11 @@
     },
     {
      "condition": "ibd",
-     "note": "Supportive in inflammatory bowel disease / ulcerative colitis (limited trial evidence)",
+     "note": "In a small open-label study in active ulcerative colitis, disease activity fell during tormentil extract treatment; ESCOP lists adjuvant use in colitis (limited evidence)",
      "reference_ids": [
       "REF-0521",
       "REF-0977",
-      "REF-2592"
+      "REF-3402"
      ],
      "status": "needs-review",
      "evidence": 3,
@@ -45184,14 +45001,13 @@
       "REF-0978"
      ],
      "status": "verified",
-     "evidence": 3,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from astringent action",
+     "note": "Topical extract showed anti-inflammatory and skin-blanching effects in lab tests; used in dermatology for atopic dermatitis and rosacea (preclinical; review)",
      "reference_ids": [
-      "REF-0521",
       "REF-0975",
       "REF-0978"
      ],
@@ -45202,9 +45018,10 @@
       "REF-0970",
       "REF-0976",
       "REF-0977",
-      "REF-2594"
+      "REF-2594",
+      "REF-0521"
      ],
-     "evidence": 3,
+     "evidence": 2,
      "label": "Skin irritation"
     },
     {
@@ -45212,26 +45029,23 @@
      "note": "Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat",
      "reference_ids": [
       "REF-0520",
-      "REF-0521",
-      "REF-0976",
-      "REF-2594"
+      "REF-0521"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Sore throat"
     },
     {
      "condition": "wounds",
      "note": "inferred from astringent action",
-     "reference_ids": [
-      "REF-0521"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0520",
       "REF-0602",
       "REF-0976",
-      "REF-2594"
+      "REF-2594",
+      "REF-0521"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -45266,7 +45080,7 @@
     "REF-0602",
     "REF-0977",
     "REF-0978",
-    "REF-2592",
+    "REF-3402",
     "REF-2593",
     "REF-2594"
    ],
@@ -45425,8 +45239,7 @@
      "text": "Duke (2002): about 0.5-1 g root or 1-2 g herb as tea, three times daily. Educational reference only, not a prescription; large doses of the saponin-rich root can cause gastrointestinal upset.",
      "reference_ids": [
       "REF-0075",
-      "REF-0235",
-      "REF-0306"
+      "REF-0235"
      ],
      "status": "verified"
     }
@@ -45460,8 +45273,7 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0075",
-      "REF-0306"
+      "REF-0075"
      ],
      "status": "verified"
     },
@@ -45469,7 +45281,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0075",
-      "REF-0306",
       "REF-0872",
       "REF-0873",
       "REF-0876",
@@ -45480,8 +45291,7 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0075",
-      "REF-0306"
+      "REF-0075"
      ],
      "status": "verified"
     }
@@ -45490,12 +45300,11 @@
     {
      "condition": "respiratory-support",
      "reference_ids": [
-      "REF-0075",
-      "REF-0306",
-      "REF-0870"
+      "REF-0075"
      ],
      "status": "verified",
-     "evidence": 2,
+     "note": "Traditional expectorant for cough associated with a cold (EU herbal monograph)",
+     "evidence": 1,
      "label": "Respiratory support"
     }
    ],
@@ -45505,8 +45314,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0075",
-      "REF-0235",
-      "REF-0306"
+      "REF-0235"
      ],
      "status": "verified"
     },
@@ -45516,7 +45324,6 @@
      "reference_ids": [
       "REF-0075",
       "REF-0235",
-      "REF-0306",
       "REF-0063"
      ],
      "status": "verified"
@@ -45728,7 +45535,6 @@
       "REF-2887",
       "REF-0098",
       "REF-0200",
-      "REF-0314",
       "REF-0658",
       "REF-0659",
       "REF-0660",
@@ -45743,7 +45549,6 @@
      "reference_ids": [
       "REF-0098",
       "REF-0200",
-      "REF-0314",
       "REF-0659",
       "REF-2423"
      ],
@@ -45757,7 +45562,6 @@
       "REF-2884",
       "REF-0098",
       "REF-0200",
-      "REF-0314",
       "REF-0659",
       "REF-2422",
       "REF-2425"
@@ -45769,7 +45573,6 @@
      "reference_ids": [
       "REF-0098",
       "REF-0200",
-      "REF-0314",
       "REF-0660",
       "REF-0661",
       "REF-0662",
@@ -45784,11 +45587,9 @@
       "REF-2920",
       "REF-2917",
       "REF-2881",
-      "REF-2882",
       "REF-2887",
       "REF-0098",
       "REF-0200",
-      "REF-0314",
       "REF-0658",
       "REF-0660",
       "REF-0663",
@@ -45803,7 +45604,6 @@
       "REF-2921",
       "REF-0098",
       "REF-0200",
-      "REF-0314",
       "REF-0659"
      ],
      "status": "verified"
@@ -45816,7 +45616,6 @@
       "REF-2915",
       "REF-2878",
       "REF-2879",
-      "REF-2882",
       "REF-2885",
       "REF-2886",
       "REF-2888"
@@ -45853,15 +45652,12 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used as an anti-rheumatic (review of traditional uses)",
      "reference_ids": [
-      "REF-0098",
-      "REF-0200",
       "REF-0659"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0314",
       "REF-0658",
       "REF-0660",
       "REF-2424",
@@ -45869,100 +45665,73 @@
       "REF-2887",
       "REF-2912",
       "REF-2914",
-      "REF-2920"
+      "REF-2920",
+      "REF-0098",
+      "REF-0200"
      ],
      "evidence": 2,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "bruising",
-     "note": "inferred from vulnerary action",
+     "note": "Traditional remedy for bruises and wounds (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098",
+      "REF-0098"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0200",
       "REF-0659"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0314"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Bruising"
-    },
-    {
-     "condition": "cold",
-     "note": "inferred from antiviral action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0200",
-      "REF-0314"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0658",
-      "REF-0660",
-      "REF-0661",
-      "REF-0662",
-      "REF-0663",
-      "REF-2424",
-      "REF-2425",
-      "REF-2881",
-      "REF-2882",
-      "REF-2887",
-      "REF-2917",
-      "REF-2920"
-     ],
-     "evidence": 2,
-     "label": "Cold & flu"
     },
     {
      "condition": "immune-support",
      "reference_ids": [
-      "REF-2882",
-      "REF-2887",
-      "REF-0098",
-      "REF-0200",
-      "REF-0314",
-      "REF-0658",
-      "REF-0660",
       "REF-0663"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-2424",
-      "REF-2881"
+      "REF-2881",
+      "REF-0098",
+      "REF-0200",
+      "REF-0658",
+      "REF-0660",
+      "REF-2887"
      ],
+     "note": "A self-heal polysaccharide strengthened the innate antiviral (interferon) response to herpes virus in lab and mouse studies (preclinical)",
      "evidence": 2,
      "label": "Immune support"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Extracts showed antibacterial activity in lab studies (preclinical; review)",
      "reference_ids": [
-      "REF-0098",
       "REF-0200",
-      "REF-0314",
       "REF-0659"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0098"
+     ],
      "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Extracts reduced inflammation in animal models of colitis, thyroiditis and uveitis (preclinical)",
      "reference_ids": [
       "REF-2884",
       "REF-2887",
-      "REF-0098",
-      "REF-0200",
       "REF-0658",
       "REF-0659",
       "REF-0660"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0314"
+      "REF-0098"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -45970,14 +45739,9 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0098",
-      "REF-0200",
-      "REF-0659"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0314",
       "REF-0658",
       "REF-0660",
       "REF-2424",
@@ -45985,36 +45749,37 @@
       "REF-2887",
       "REF-2912",
       "REF-2914",
-      "REF-2920"
-     ],
-     "evidence": 2,
-     "label": "Skin irritation"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-2921",
+      "REF-2920",
       "REF-0098",
       "REF-0200",
       "REF-0659"
      ],
+     "evidence": 1,
+     "label": "Skin irritation"
+    },
+    {
+     "condition": "wounds",
+     "note": "Traditional wound herb (Grieve); an extract sped wound healing in animal tests (preclinical)",
+     "reference_ids": [
+      "REF-2921",
+      "REF-0098"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0314"
+      "REF-0200",
+      "REF-0659"
      ],
      "evidence": 2,
      "label": "Wounds"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Extracts and compounds slowed several cancer types in cell and animal studies (preclinical)",
      "reference_ids": [
       "REF-2922",
       "REF-2916",
       "REF-2915",
       "REF-2879",
-      "REF-2882",
       "REF-2885",
       "REF-2886",
       "REF-2888"
@@ -46041,7 +45806,8 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-2913",
-      "REF-2912"
+      "REF-2912",
+      "REF-0659"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -46063,8 +45829,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0098",
-      "REF-0200",
-      "REF-0314"
+      "REF-0200"
      ],
      "status": "verified"
     },
@@ -46074,7 +45839,6 @@
      "reference_ids": [
       "REF-0098",
       "REF-0200",
-      "REF-0314",
       "REF-0063"
      ],
      "status": "verified"
@@ -46090,7 +45854,6 @@
     "REF-2879",
     "REF-2880",
     "REF-2881",
-    "REF-2882",
     "REF-2883",
     "REF-2884",
     "REF-2885",
@@ -46259,13 +46022,14 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Bark extract lowered inflammatory cytokines, notably IL-6, released by immune cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1513"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1511"
+      "REF-1511",
+      "REF-1508"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -46274,7 +46038,6 @@
      "condition": "prostate-support",
      "note": "Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but the trials were small, short and methodologically weak, so the evidence remains uncertain",
      "reference_ids": [
-      "REF-1508",
       "REF-0547",
       "REF-0548",
       "REF-1507",
@@ -46283,6 +46046,9 @@
       "REF-1512"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-1508"
+     ],
      "evidence": 9,
      "label": "Prostate support"
     },
@@ -46302,7 +46068,6 @@
      "condition": "urinary-support",
      "note": "Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but the trials were small, short and methodologically weak, so the evidence remains uncertain",
      "reference_ids": [
-      "REF-1508",
       "REF-0547",
       "REF-0548",
       "REF-1507",
@@ -46310,6 +46075,9 @@
       "REF-1510"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-1508"
+     ],
      "evidence": 9,
      "label": "Urinary support"
     }

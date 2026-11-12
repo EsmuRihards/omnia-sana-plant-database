@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3199,
+ "count": 3196,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -8875,7 +8875,6 @@
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Immune support",
     "Inflammation (general)"
    ]
   },
@@ -10877,7 +10876,7 @@
    "link_type": "doi",
    "citation": "Gariboldi, M.B., Marras, E., Ferrario, N., Vivona, V., Prini, P., Vignati, F. and Perletti, G (2023) 'Anti-Cancer Potential of Edible/Medicinal Mushrooms in Breast Cancer', International Journal of Molecular Sciences, 24(12), pp. 10120. doi:10.3390/ijms241210120",
    "abstract": "Edible/medicinal mushrooms have been traditionally used in Asian countries either in the cuisine or as dietary supplements and nutraceuticals. In recent decades, they have aroused increasing attention in Europe as well, due to their health and nutritional benefits. In particular, among the different pharmacological activities reported (antibacterial, anti-inflammatory, antioxidative, antiviral, immunomodulating, antidiabetic, etc.), edible/medicinal mushrooms have been shown to exert in vitro and in vivo anticancer effects on several kinds of tumors, including breast cancer. In this article, we reviewed mushrooms showing antineoplastic activity again breast cancer cells, especially focusing on the possible bioactive compounds involved and their mechanisms of action. In particular, the following mushrooms have been considered: Agaricus bisporus , Antrodia cinnamomea , Cordyceps sinensis , Cordyceps militaris , Coriolus versicolor , Ganoderma lucidum , Grifola frondosa , Lentinula edodes , and Pleurotus ostreatus . We also report insights into the relationship between dietary consumption of edible mushrooms and breast cancer risk, and the results of clinical studies and meta-analyses focusing on the effects of fungal extracts on breast cancer patients.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -12171,42 +12170,6 @@
    ],
    "conditions": [
     "Cognitive function"
-   ]
-  },
-  {
-   "ref_id": "REF-2882",
-   "key": "zhang2023pv1",
-   "type": "article",
-   "title": "Cancer chemoprevention with PV-1, a novel Prunella vulgaris-containing herbal mixture that remodels the tumor immune microenvironment in mice",
-   "authors": "Zhang, Q. and Chen, X. and Palen, K. and Johnson, B. and Bui, D. and Xiong, D. and Pan, J. and Hu, M. and Wang, Y. and You, M.",
-   "journal": "Front Immunol",
-   "year": "2023",
-   "doi": "10.3389/fimmu.2023.1196434",
-   "url": "",
-   "link": "https://doi.org/10.3389/fimmu.2023.1196434",
-   "link_type": "doi",
-   "citation": "Zhang, Q. and Chen, X. and Palen, K. and Johnson, B. and Bui, D. and Xiong, D. and Pan, J. and Hu, M. and Wang, Y. and You, M (2023) 'Cancer chemoprevention with PV-1, a novel Prunella vulgaris-containing herbal mixture that remodels the tumor immune microenvironment in mice', Front Immunol, 14, pp. 1196434. doi:10.3389/fimmu.2023.1196434",
-   "abstract": "The herbhas shown significant immune-stimulatory and anti-inflammatory effects in mouse models. Here, the effects of a novel-containing herbal mixture, PV-1, were examined in several mouse models for cancer, including chemically induced models of lung and oral cancers as well as syngraft models for lung cancer and melanoma. PV-1, consisting of extracts from,,and, exhibited no toxicity in a dose escalation study in A/J mice. PV-1 significantly inhibited mouse lung tumor development induced by the lung carcinogens vinyl carbamate and benzo[a]pyrene. PV-1 also hindered the induction of oral squamous cell carcinomas in C57BL/6 mice caused by 4-nitroquinoline-1-oxide. Flow cytometry analysis showed that PV-1 increased the numbers of CD8+ tumor-infiltrating lymphocytes (TILs) and increased the production of granzyme B, TNF-α, and IFN-γ by CD8+ TILs. PV-1 also suppressed granulocytic myeloid-derived suppressor cell numbers (g-MDSCs) and improved the anti-cancer activity of anti-PD-1 immunotherapy. These results indicate that PV-1 remodels the tumor immune microenvironment by selectively inhibiting g-MDSCs and increasing CD8+ TILs within tumors, resulting in decreased immune suppression and enhanced cancer chemopreventive efficacy.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Cancer chemoprevention with PV-1, a novel Prunella vulgaris-containing herbal mixture that remodels the tumor immune microenvironment in mice",
-   "plants": [
-    "Selfheal",
-    "heal-all",
-    "woundwort"
-   ],
-   "scientific": [
-    "Prunella vulgaris"
-   ],
-   "actions": [
-    "Anticancer (preclinical)",
-    "Immunomodulator / immune support"
-   ],
-   "conditions": [
-    "Cancer (anticancer research)",
-    "Immune support"
    ]
   },
   {
@@ -15143,9 +15106,7 @@
     "Primula veris"
    ],
    "actions": [],
-   "conditions": [
-    "Respiratory support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1590",
@@ -17391,9 +17352,7 @@
     "Anti-inflammatory",
     "Antidiarrhoeal"
    ],
-   "conditions": [
-    "Diarrhoea"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0457",
@@ -23676,7 +23635,7 @@
    "link_type": "doi",
    "citation": "Mir, R.H., Bhat, M.F., Sawhney, G., Kumar, P., Andrabi, N.I., Shaikh, M., Mohi-Ud-Din, R. and Masoodi, M.H (2022) 'Prunella vulgaris L.: Critical Pharmacological, Expository Traditional Uses and Extensive Phytochemistry: A Review', Current Drug Discovery Technologies, 19(1). doi:10.2174/1570163818666210203181542",
    "abstract": "Background Prunella vulgaris , family Lamiaceae also known as self-heal, has been traditionally used as an expectorant, anti-inflammatory, anti-pyretic, and anti-rheumatic. Due to the widespread distribution of the plant, Vulgaris is also called 'vulgar' in Latin adjective meaning common. Objective The objective of this review was to describe the relevant aspects of phytochemistry and therapeutic uses of different fractions as well as isolated compounds from Prunella vulgaris . An attempt was also made to enumerate the possible leads, e.g . betulinic acid, oleanolic acid, ursolic acid, umbelliferone, scopoletin, esculetin, luteolin, homoorientin, Rosmarinic acid and cinaroside, for further development. Method For peer-reviewed research literature, we undertook a structured search of bibliographic databases using a focused review question. Scientific databases such as PubMed, Scopus, Science Direct, and Google Scholar were searched. Results Phytochemistry of Prunella vulgaris (PV) after a thorough literature survey revealed varied and copious metabolites, such as triterpenoids, phenolic acid, sterols, carbohydrates, coumarins, fatty acids, and volatile oils. Many of these compounds have been found to possess a wide range of biological activities per se, including anti-microbial, immunosuppressive, anti-cancer, cardio- protective, anti-allergic and anti-inflammatory activities. Conclusion Prunella vulgaris is a medicinal plant of immense medicinal importance having a variety of compounds, such as triterpenoids, phenolic acid, sterols, carbohydrates, coumarins, fatty acids, and volatile oils, and diversity in the pharmacological spectrum. The plant could be further exploited to isolate the various biologically active constituents responsible for its activity.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -23697,11 +23656,9 @@
    ],
    "conditions": [
     "Arthritis / joint pain",
-    "Bruising",
+    "Cardiovascular / heart health",
     "Infection (general)",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Wounds"
+    "Inflammation (general)"
    ]
   },
   {
@@ -29848,7 +29805,6 @@
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Cancer (anticancer research)",
     "Immune support"
    ]
   },
@@ -31945,7 +31901,6 @@
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Immune support",
     "Inflammation (general)"
    ]
   },
@@ -36307,9 +36262,7 @@
    "actions": [
     "Astringent"
    ],
-   "conditions": [
-    "Sore throat"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0635",
@@ -36437,6 +36390,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3399",
+   "key": "dicks2020oyster",
+   "type": "article",
+   "title": "Effect of the Intake of Oyster Mushrooms (Pleurotus ostreatus) on Cardiometabolic Parameters-A Systematic Review of Clinical Trials",
+   "authors": "Dicks, L. and Ellinger, S.",
+   "journal": "Nutrients",
+   "year": "2020",
+   "doi": "10.3390/nu12041134",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu12041134",
+   "link_type": "doi",
+   "citation": "Dicks, L. and Ellinger, S (2020) 'Effect of the Intake of Oyster Mushrooms (Pleurotus ostreatus) on Cardiometabolic Parameters-A Systematic Review of Clinical Trials', Nutrients, 12(4), pp. 1134. doi:10.3390/nu12041134",
+   "abstract": "Cardiometabolic diseases are a leading global health challenge. Their incidence as well as progression is strongly affected by diet. Consumption of Pleurotus ostreatus (P. ostreatus), an edible oyster mushroom rich in functional ingredients (e.g., β-glucans), may improve glucose and lipid metabolism, blood pressure, body weight and appetite sensations. Hence, this systematic review aimed to provide an overview on the effects of P. ostreatus intake on cardiometabolic parameters from clinical trials, taking into account risk of bias (RoB). Relevant studies were investigated for details with consideration of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guideline. The Cochrane Collaboration's tool was used to assess the RoB. In total, eight trials included observed beneficial effects of P. ostreatus intake on glucose metabolism (reduction in fasting and/or 2 h postprandial glucose) and lipids (decrease in total cholesterol, LDL-cholesterol and/or triglycerides), and some found a reduction in blood pressure. In contrast, body weight did not change. Appetite sensations were not assessed. In most studies, the RoB was high or unclear due to methodological weaknesses and/or inadequate reporting. Thus, P. ostreatus intake may improve cardiometabolic health, but evidence for this is low. Hence, further clinical trials with an adequate study design are warranted to validate these suggestions.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of the Intake of Oyster Mushrooms (Pleurotus ostreatus) on Cardiometabolic Parameters-A Systematic Review of Clinical Trials",
+   "plants": [
+    "Oyster mushroom",
+    "tree oyster mushroom"
+   ],
+   "scientific": [
+    "Pleurotus ostreatus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "Cardiovascular / heart health",
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-0422",
@@ -37946,6 +37932,38 @@
    ]
   },
   {
+   "ref_id": "REF-3397",
+   "key": "sarris2020kavagad",
+   "type": "article",
+   "title": "Kava for generalised anxiety disorder: A 16-week double-blind, randomised, placebo-controlled study",
+   "authors": "Sarris, J., Byrne, G.J., Bousman, C.A., Cribb, L., Savage, K.M., Holmes, O., Murphy, J., Macdonald, P., Short, A., Nazareth, S., Jennings, E., Thomas, S.R., Ogden, E., Chamoli, S., Scholey, A. and Stough, C.",
+   "journal": "The Australian and New Zealand Journal of Psychiatry",
+   "year": "2020",
+   "doi": "10.1177/0004867419891246",
+   "url": "",
+   "link": "https://doi.org/10.1177/0004867419891246",
+   "link_type": "doi",
+   "citation": "Sarris, J., Byrne, G.J., Bousman, C.A., Cribb, L., Savage, K.M., Holmes, O., Murphy, J., Macdonald, P., Short, A., Nazareth, S., Jennings, E., Thomas, S.R., Ogden, E., Chamoli, S., Scholey, A. and Stough, C (2020) 'Kava for generalised anxiety disorder: A 16-week double-blind, randomised, placebo-controlled study', The Australian and New Zealand Journal of Psychiatry, 54(3), pp. 288--297. doi:10.1177/0004867419891246",
+   "abstract": "Previous randomised, double-blind, placebo-controlled studies have shown that Kava (a South Pacific medicinal plant) reduced anxiety during short-term administration. The objective of this randomised, double-blind, placebo-controlled study was to perform a larger, longer-term trial assessing the efficacy and safety of Kava in the treatment of generalised anxiety disorder and to determine whether gamma-aminobutyric acid transporter (SLC6A1) single-nucleotide polymorphisms were moderators of response. The trial was a phase III, multi-site, two-arm, 16-week, randomised, double-blind, placebo-controlled study investigating an aqueous extract of dried Kava root administered twice per day in tablet form (standardised to 120 mg of kavalactones twice/day) in 171 currently non-medicated anxious participants with diagnosed generalised anxiety disorder. The trial took place in Australia. An analysis of 171 participants revealed a non-significant difference in anxiety reduction between the Kava and placebo groups (a relative reduction favouring placebo of 1.37 points; p = 0.25). At the conclusion of the controlled phase, 17.4% of the Kava group were classified as remitted (Hamilton Anxiety Rating Scale score < 7) compared to 23.8% of the placebo group (p = 0.46). No SLC6A1 polymorphisms were associated with treatment response, while carriers of the rs2601126 T allele preferentially respond to placebo (p = 0.006). Kava was well tolerated aside from poorer memory (Kava = 36 vs placebo = 23; p = 0.044) and tremor/shakiness (Kava = 36 vs placebo = 23; p = 0.024) occurring more frequently in the Kava group. Liver function test abnormalities were significantly more frequent in the Kava group, although no participant met criteria for herb-induced hepatic injury. While research has generally supported Kava in non-clinical populations (potentially for more 'situational' anxiety as a short-term anxiolytic), this particular extract was not effective for diagnosed generalised anxiety disorder.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Kava for generalised anxiety disorder: A 16-week double-blind, randomised, placebo-controlled study",
+   "plants": [
+    "Awa",
+    "Kava",
+    "Kava Kava",
+    "Kawa",
+    "Yaqona"
+   ],
+   "scientific": [
+    "Piper methysticum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1748",
    "key": "czerwinska2020lamium",
    "type": "article",
@@ -38374,7 +38392,7 @@
    "link_type": "doi",
    "citation": "Hoffmann, J., Gendrisch, F., Schempp, C.M. and Wolfle, U (2020) 'New Herbal Biomedicines for the Topical Treatment of Dermatological Disorders', Biomedicines, 8(2), pp. 27. doi:10.3390/biomedicines8020027",
    "abstract": "Herbal extracts and isolated plant compounds play an increasing role in the treatment of skin disorders and wounds. Several new herbal drugs, medicinal products and cosmetic products for the treatment of various skin conditions have been developed in recent years. In this nonsystematic review, we focus on herbal drugs that were tested in controlled clinical studies or in scientifically sound preclinical studies. The herbal biomedicines are intended to treat atopic dermatitis (St. John's wort, licorice, tormentil, bitter substances, evening primrose), psoriasis (araroba tree, lace flower, barberry bark, indigo, turmeric, olibanum, St. John's wort), actinic keratosis (birch bark, petty spurge), herpes simplex (lemon balm, sage and rhubarb), rosacea (green tea, licorice, tormentil) and acne vulgaris (tea tree oil, green tea, hop), or to improve photo protection (green tea, Dyer's weed, cocoa tree, carotinoids, licorice), aesthetic dermatology (licorice, pine bark, gotu kola) and wound healing (birch bark, onion).",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -40771,7 +40789,7 @@
    "link_type": "doi",
    "citation": "Melzig, M.F. and Bottger, S (2020) 'Tormentillae rhizoma - Review for an Underestimated European Herbal Drug', Planta Medica, 86(15), pp. 1050-1057. doi:10.1055/a-1129-7214",
    "abstract": "Potentilla erecta is a medicinal plant described under its traditional name Tormentil in medieval herbal books and used until today in many European countries. Today monographs for Tormentillae rhizoma in the European pharmacopeia, as well as a monograph of the Herbal Medicinal Product Commission as a drug for traditional use, exist. The present review summarizes published investigations in phytochemistry and pharmacology, together with new findings reflecting the mechanisms of action of ellagitannins as one of the main ingredients of this herbal drug. Taken together all in vitro and in vivo investigations' data support the traditional use for treatment of diarrhea and mucosal inflammation despite a lack of suffcient clinical studies.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -41412,41 +41430,6 @@
    ],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0968",
-   "key": "zeng2019aucubin",
-   "type": "article",
-   "title": "A review of the pharmacology and toxicology of aucubin",
-   "authors": "Zeng, X., Guo, F. and Ouyang, D.",
-   "journal": "Fitoterapia",
-   "year": "2019",
-   "doi": "10.1016/j.fitote.2019.104443",
-   "url": "",
-   "link": "https://doi.org/10.1016/j.fitote.2019.104443",
-   "link_type": "doi",
-   "citation": "Zeng, X., Guo, F. and Ouyang, D (2019) 'A review of the pharmacology and toxicology of aucubin', Fitoterapia, 140, pp. 104443. doi:10.1016/j.fitote.2019.104443",
-   "abstract": "Aucubin is an iridoid glycoside that is widely prevalent in traditional medicinal herbs, such as Eucommia ulmoides Oliv., Aucuba japonica Thunb. and Plantago asiatica L. This review aims to provide a comprehensive summary of the source, biological activity, pharmacokinetics and toxicology of aucubin with the ultimate objective of providing a guide for future drug development and potential clinical applications of aucubin. Aucubin is a highly active compound possessing extensive biological effects including antioxidant, anti-aging, anti-inflammatory, anti-fibrotic, anti-cancer, hepatoprotective, neuroprotective and osteoprotective properties. Although aucubin has been shown to have poor oral bioavailability in rats, aucubin is widely distributed in multiple organs including kidney, liver, heart, spleen and lung, and there is a sex difference in the absorption of aucubin. Tolerance of aucubin is good and no serious adverse reactions have been observed to date. In short, aucubin is a compound with abundant potential sources, good safety and numerous beneficial biological activities, which exhibits high potential value for use in health care products and pharmaceuticals. In order to accelerate the development and utilization of aucubin-related products, in-depth studies should be focused on the following questions of interest. First, it is necessary to introduce advanced separation and formulation technologies to improve the yield and stability of aucubin products. Second, studies should focus on the specific pharmacological activities of aucubin to determine the structure-activity relationship so as to improve the efficacy and reduce side effects. Finally, clinical studies are needed to confirm the efficacy of aucubin in specific diseases.",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "A review of the pharmacology and toxicology of aucubin",
-   "plants": [
-    "English plantain",
-    "Lamb's tongue",
-    "Narrowleaf plantain",
-    "Ribwort Plantain"
-   ],
-   "scientific": [
-    "Plantago lanceolata"
-   ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": [
-    "Inflammation (general)"
-   ]
   },
   {
    "ref_id": "REF-1962",
@@ -46437,7 +46420,6 @@
     "Anti-inflammatory"
    ],
    "conditions": [
-    "Skin irritation",
     "Wounds"
    ]
   },
@@ -49782,7 +49764,11 @@
     "Expectorant",
     "Laxative"
    ],
-   "conditions": []
+   "conditions": [
+    "Constipation",
+    "Cough",
+    "Inflammation (general)"
+   ]
   },
   {
    "ref_id": "REF-1767",
@@ -51333,7 +51319,7 @@
    "link_type": "doi",
    "citation": "Wolfle, U., Hoffmann, J., Haarhaus, B., Rao Mittapalli, V. and Schempp, C.M (2017) 'Anti-inflammatory and vasoconstrictive properties of Potentilla erecta - A traditional medicinal plant from the northern hemisphere', Journal of Ethnopharmacology, 204, pp. 86-94. doi:10.1016/j.jep.2017.03.058",
    "abstract": "Ethnopharmacological relevance Potentilla erecta (L.) Raeusch is a medicinal plant of the Northern hemisphere belonging to the plant family of roses (Rosaceae). It has traditionally been used to treat inflammatory disorders of the skin and mucous membranes as well as chronic diarrhea. Aim of the study In the present study we analyzed the anti-inflammatory and vasoconstrictive effect of a Potentilla erecta extract (PE) and questioned if PE is similar effective as mild corticosteroids. Then we analyzed if PE acts in the skin via a similar mode of action as corticosteroids. Material and methods The anti-inflammatory effect of PE was analyzed in irradiated HaCaT keratinocytes by measuring the formation of IL-6 and PGE 2 . Additionally the effect of PE on TNF-α induced NF-κB activation was determined. As the anti-inflammatory effect of corticosteroids correlates with their vasoconstrictive properties we tested if PE displays also vasoconstriction. Therefore we performed an occlusive patch test and a collagen contraction assay. Furthermore the binding of PE to the glucocorticoid receptor was determined with stainings and reporter assays. The interaction of PE on the nitric oxide (NO) content was examined with radical scavenging and endothelial NO synthase (eNOS) reporter assays. Results In irradiated or TNF-α stimulated HaCaT cells the formation of IL-6 and PGE 2 or NF-κB activation was strongly reduced by PE. Furthermore PE showed a blanching effect comparable to hydrocortisone. However, in contrast to glucocorticoids, PE did not cause nuclear translocation of the glucocorticoid receptor in HaCaT cells. The blanching effect of PE was at least partly attributable to a scavenging effect of NO and inhibition of eNOS. Conclusions PE displays anti-inflammatory and vasoconstrictive effects and might therefore be beneficial for the topical treatment of inflammatory skin disorders.",
-   "tier": "clinical",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -52130,7 +52116,7 @@
    "link_type": "doi",
    "citation": "Adom, M.B., Taher, M., Mutalabisin, M.F., Amri, M.S., Abdul Kudos, M.B., Wan Sulaiman, M.W.A., Sengupta, P. and Susanti, D (2017) 'Chemical constituents and medical benefits of Plantago major', pp. 348--360. doi:10.1016/j.biopha.2017.09.152",
    "abstract": "The medicinal benefits of Plantago major have been acknowledged around the world for hundreds of years. This plant contains a number of effective chemical constituents including flavonoids, alkaloids, terpenoids, phenolic acid derivatives, iridoid glycosides, fatty acids, polysaccharides and vitamins which contribute to its exerting specific therapeutic effects. Correspondingly, studies have found that Plantago major is effective as a wound healer, as well as an antiulcerative, antidiabetic, antidiarrhoeal, anti-inflammatory, antinociceptive, antibacterial, and antiviral agent. It also combats fatigue and cancer, is an antioxidant and a free radical scavenger. This paper provides a review of the medicinal benefits and chemical constituents of Plantago major published in journals from year 1937 to 2015 which are available from PubMed, ScienceDirect and Google Scholar.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -52149,7 +52135,9 @@
     "Antioxidant"
    ],
    "conditions": [
-    "Infection (general)"
+    "Diarrhoea",
+    "Infection (general)",
+    "Inflammation (general)"
    ]
   },
   {
@@ -52818,9 +52806,7 @@
    "scientific": [
     "Plantago major"
    ],
-   "actions": [
-    "Demulcent (soothing mucilage)"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -53209,9 +53195,7 @@
    "actions": [
     "Astringent"
    ],
-   "conditions": [
-    "Sore throat"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0628",
@@ -54922,41 +54906,6 @@
    ],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0967",
-   "key": "jaric2017plantago",
-   "type": "article",
-   "title": "Traditional wound-healing plants used in the Balkan region (Southeast Europe)",
-   "authors": "Jaric, S., Kostic, O., Mataruga, Z., Pavlovic, D. and others",
-   "journal": "Journal of Ethnopharmacology",
-   "year": "2017",
-   "doi": "10.1016/j.jep.2017.09.018",
-   "url": "",
-   "link": "https://doi.org/10.1016/j.jep.2017.09.018",
-   "link_type": "doi",
-   "citation": "Jaric, S., Kostic, O., Mataruga, Z., Pavlovic, D. and others (2017) 'Traditional wound-healing plants used in the Balkan region (Southeast Europe)', Journal of Ethnopharmacology, 211, pp. 311-328. doi:10.1016/j.jep.2017.09.018",
-   "abstract": "Ethnopharmacological relevance The geographical and ecological specificity of the Balkan Peninsula has resulted in the development of a distinct diversity of medicinal plants. In the traditional culture of the Balkan peoples, plants have medicinal, economic and anthropological/cultural importance, which is reflected in the sound knowledge of their diversity and use. This study analyses the traditional use of medicinal plants in the treatment of wounds and the pharmacological characteristics of the most frequently used species. Materials and methods A detailed analysis of the literature related to ethnobhe uses of medicinal plants in the Balkan region was carried out. Twenty-five studies were analysed and those plants used for the treatment of wounds were singled out. Result An ethnobotanical analysis showed that 128 plant species (105 wild, 22 cultivated and 1 wild/cultivated) are used in the treatment of wounds. Their application is external, in the form of infusions, decoctions, tinctures, syrups, oils, ointments, and balms, or direct to the skin. Among those plants recorded, the most commonly used are Plantago major, Hypericum perforatum, Plantago lanceolata, Achillea millefolium, Calendula officinalis, Sambucus nigra, Tussilago farfara and Prunus domestica. The study showed that the traditional use of plants in wound healing is confirmed by in vitro and/or in vivo studies for P. major and P. lanceolata (3 laboratory studies for P. major and 2 for P. lanceolata), H. perforatum (5 laboratory studies and 3 clinical trials), A. millefolium (3 laboratory studies and one clinical trial), C. officinalis (6 laboratory studies and 1 clinical trial), S. nigra (3 laboratory studies) and T. farfara (one laboratory study). Conclusion The beneficial effects of using medicinal plants from the Balkan region to heal wounds according to traditional practices have been proven in many scientific studies. However, information on the quantitative benefits to human health of using herbal medicines to heal wounds is still scarce or fragmented, hindering a proper evaluation. Therefore, further studies should be aimed at isolating and identifying specific active substances from plant extracts, which could also reveal compounds with more valuable therapeutic properties. Furthermore, additional reliable clinical trials are needed to confirm those experiences encountered when using traditional medicines. A combination of traditional and modern knowledge could result in new wound-healing drugs with a significant reduction in unwanted side effects.",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Traditional wound-healing plants used in the Balkan region (Southeast Europe)",
-   "plants": [
-    "English plantain",
-    "Lamb's tongue",
-    "Narrowleaf plantain",
-    "Ribwort Plantain"
-   ],
-   "scientific": [
-    "Plantago lanceolata"
-   ],
-   "actions": [
-    "Vulnerary (wound healing)"
-   ],
-   "conditions": [
-    "Wounds"
-   ]
   },
   {
    "ref_id": "REF-1589",
@@ -60521,7 +60470,7 @@
    "link_type": "search",
    "citation": "Keehn, A. and Lowe, F.C (2015) 'Complementary and alternative medications for benign prostatic hyperplasia', The Canadian Journal of Urology, 22(Suppl 1), pp. 18-23.",
    "abstract": "Introduction The use of complementary and alternative medications has become a multi-million dollar business in the United States and comprises more than half of all filled prescriptions for benign prostatic hyperplasia (BPH) in Europe. For the practicing urologist, understanding the phytotherapeutic agents available, their proposed mechanism of action, the research supporting their use, and their safety profiles has become increasingly important as more patients inquire into their use. Materials and methods A comprehensive literature search was conducted to identify pertinent articles pertaining to alternative and complementary treatment options for the management of BPH. Treatments demonstrating adequate clinical data, including Serona repens, Pygeum africanum, and Secale cereal, were selected for in depth review. Results Small clinical trials for each of the agents demonstrated mixed results while larger more soundly constructed studies found no significant benefit for the use of phytotherapy in the treatment of BPH. Conclusions Based on the available literature, there is no evidence that phytotherapy significantly improves symptoms of BPH against placebo, despite being largely safe for ingestion. In patients with mild BPH symptoms who are reluctant to take standard pharmaceutical medications may try these agents provided that the patient understands their current limitations. Those with moderate or severe BPH should be discouraged from alternative and complementary treatments.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -62440,7 +62389,6 @@
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Immune support",
     "Inflammation (general)"
    ]
   },
@@ -63944,7 +63892,7 @@
    "link_type": "doi",
    "citation": "Wan, P., Chen, H., Guo, Y. and Bai, A.P (2014) 'Advances in treatment of ulcerative colitis with herbs: from bench to bedside', World Journal of Gastroenterology, 20(39), pp. 14099-14104. doi:10.3748/wjg.v20.i39.14099",
    "abstract": "Ulcerative colitis (UC), an idiopathic inflammatory disorder in the colon, has become a clinical challenge, owing to the increasing incidence and poor prognosis. The conventional treatments for UC including aminosalicylates, corticosteroids, and immunosuppressants, induce remission in only half of patients. Meanwhile, the treatments often come with serious side effects which can be life-threatening. Herbal medicine, one of the most common traditional Chinese medicine modalities, has been introduced for centuries into clinical treatment of many human diseases such as infections and functional disorders. Recently, the potential effectiveness of herbs has been suggested as the treatment of UC, as shown by a variety of clinical trials and experimental studies. The herbs reported in the literature include aloe vera gel, butyrate, tormentil extracts, wheat grass juice, and curcumin. In the review, bioactivity of the herbs and their involvement in UC treatment are discussed.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -68702,6 +68650,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3401",
+   "key": "jesenak2013pleuran",
+   "type": "article",
+   "title": "Immunomodulatory effect of pleuran (β-glucan from Pleurotus ostreatus) in children with recurrent respiratory tract infections",
+   "authors": "Jesenak, M., Majtan, J., Rennerova, Z., Kyselovic, J., Banovcin, P. and Hrubisko, M.",
+   "journal": "International Immunopharmacology",
+   "year": "2013",
+   "doi": "10.1016/j.intimp.2012.11.020",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.intimp.2012.11.020",
+   "link_type": "doi",
+   "citation": "Jesenak, M., Majtan, J., Rennerova, Z., Kyselovic, J., Banovcin, P. and Hrubisko, M (2013) 'Immunomodulatory effect of pleuran (β-glucan from Pleurotus ostreatus) in children with recurrent respiratory tract infections', International Immunopharmacology, 15(2), pp. 395--399. doi:10.1016/j.intimp.2012.11.020",
+   "abstract": "Recurrent respiratory tract infections (RRTIs) represent a very important problem in daily clinical practice because of their significant contribution to morbidity in children. Several natural nutritional supplements have been used in the prevention of RRTIs, but the clinical efficacy of only a few preparations is supported by scientific evidence. In a double-blind, placebo-controlled, randomised, multicentre study, we have observed a group of 175 children (aged 5.65 ± 2.39 years) with more than 5 respiratory infections that occurred during the 12 months prior to the beginning of the study. Children were randomised into an active group, treated with Imunoglukan P4H® syrup (with pleuran-β-glucan from Pleurotus ostreatus and vitamin C), or a placebo group (vitamin C only). During the 3 visits, within a 12-month period, questionnaires were completed, and blood samples were examined for immune parameters. In the active group, 36% of the children did not suffer from any respiratory infections throughout the treatment, compared to 21% in the placebo group (p<0.05). Imunoglukan P4H® also significantly decreased the frequency of flu and flu-like disease and the number of lower respiratory tract infections. Imunoglukan P4H® treatment resulted in a statistically significant modulation of humoral and cellular immunity. Results from this study demonstrate that Imunoglukan P4H® is effective in the prevention of RRTIs in children. Furthermore, our results also revealed complex immunomodulatory activity of this product. This is the first double-blind, placebo-controlled study in children with RRTIs that has addressed the preventive effects of pleuran on morbidity caused by respiratory infections.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Immunomodulatory effect of pleuran (β-glucan from Pleurotus ostreatus) in children with recurrent respiratory tract infections",
+   "plants": [
+    "Oyster mushroom",
+    "tree oyster mushroom"
+   ],
+   "scientific": [
+    "Pleurotus ostreatus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cold & flu",
+    "Immune support"
+   ]
+  },
+  {
    "ref_id": "REF-0463",
    "key": "hellinger2013immunosuppressive",
    "type": "article",
@@ -68846,6 +68826,40 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3398",
+   "key": "sarris2013kavagad",
+   "type": "article",
+   "title": "Kava in the treatment of generalized anxiety disorder: a double-blind, randomized, placebo-controlled study",
+   "authors": "Sarris, J., Stough, C., Bousman, C.A., Wahid, Z.T., Murray, G., Teschke, R., Savage, K.M., Dowell, A., Ng, C. and Schweitzer, I.",
+   "journal": "Journal of Clinical Psychopharmacology",
+   "year": "2013",
+   "doi": "10.1097/JCP.0b013e318291be67",
+   "url": "",
+   "link": "https://doi.org/10.1097/JCP.0b013e318291be67",
+   "link_type": "doi",
+   "citation": "Sarris, J., Stough, C., Bousman, C.A., Wahid, Z.T., Murray, G., Teschke, R., Savage, K.M., Dowell, A., Ng, C. and Schweitzer, I (2013) 'Kava in the treatment of generalized anxiety disorder: a double-blind, randomized, placebo-controlled study', Journal of Clinical Psychopharmacology, 33(5), pp. 643--648. doi:10.1097/JCP.0b013e318291be67",
+   "abstract": "Kava (Piper methysticum) is a plant-based medicine, which has been previously shown to reduce anxiety. To date, however, no placebo-controlled trial assessing kava in the treatment of generalized anxiety disorder (GAD) has been completed. A total of 75 participants with GAD and no comorbid mood disorder were enrolled in a 6-week double-blind trial of an aqueous extract of kava (120/240 mg of kavalactones per day depending on response) versus placebo. γ-Aminobutyric acid (GABA) and noradrenaline transporter polymorphisms were also analyzed as potential pharmacogenetic markers of response. Reduction in anxiety was measured using the Hamilton Anxiety Rating Scale (HAMA) as the primary outcome. Intention-to-treat analysis was performed on 58 participants who met inclusion criteria after an initial 1 week placebo run-in phase. Results revealed a significant reduction in anxiety for the kava group compared with the placebo group with a moderate effect size (P = 0.046, Cohen d = 0.62). Among participants with moderate to severe Diagnostic and Statistical Manual of Mental Disorders-diagnosed GAD, this effect was larger (P = 0.02; d = 0.82). At conclusion of the controlled phase, 26% of the kava group were classified as remitted (HAMA ≤ 7) compared with 6% of the placebo group (P = 0.04). Within the kava group, GABA transporter polymorphisms rs2601126 (P = 0.021) and rs2697153 (P = 0.046) were associated with HAMA reduction. Kava was well tolerated, and aside from more headaches reported in the kava group (P = 0.05), no other significant differences between groups occurred for any other adverse effects, nor for liver function tests. Standardized kava may be a moderately effective short-term option for the treatment of GAD. Furthermore, specific GABA transporter polymorphisms appear to potentially modify anxiolytic response to kava.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Kava in the treatment of generalized anxiety disorder: a double-blind, randomized, placebo-controlled study",
+   "plants": [
+    "Awa",
+    "Kava",
+    "Kava Kava",
+    "Kawa",
+    "Yaqona"
+   ],
+   "scientific": [
+    "Piper methysticum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Anxiety"
+   ]
   },
   {
    "ref_id": "REF-2357",
@@ -70463,13 +70477,8 @@
    "scientific": [
     "Pinus sylvestris"
    ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": [
-    "Skin irritation",
-    "Wounds"
-   ]
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2673",
@@ -71225,7 +71234,7 @@
    "link_type": "doi",
    "citation": "Zubair, M., Ekholm, A., Nybom, H., Renvert, S., Widen, C. and Rumpunen, K (2012) 'Effects of Plantago major L. leaf extracts on oral epithelial cells in a scratch assay', 141(3), pp. 825--830. doi:10.1016/j.jep.2012.03.016",
    "abstract": "Ethnopharmacological relevance The present study was undertaken to evaluate the effects from different leaf extracts of the traditional medicinal herb Plantago major L. (plantain) on cell proliferation and migration in vitro, as a test for potential wound healing properties. Materials and methods Water and ethanol-based extracts were prepared from Plantago major fresh and dried leaves, and tested in vitro in a scratch assay with oral epithelial cells. Results The scratch assay produced reliable results after 18 h. Most of the tested extracts increased the proliferation/migration of the oral epithelial cells compared to the negative control. A concentration of 1.0 mg/mL (on dry weight basis) appears to be optimal regardless of type of extract, and among the alternatives, 0.1 mg/mL was always better than 10 mg/mL. Ethanol-based extracts with a concentration of 10 mg/mL had very detrimental effects on cell proliferation/migration. At the other two concentrations, ethanol-based extracts had the most beneficial effect, followed by water extracts of fresh leaves, ethanol plus water extracts of dried leaves and, finally, water extracts of dried leaves. Conclusions This study suggests that both the water extracts and the more polyphenol-rich ethanol-based extracts of Plantago major leaves have medicinal properties. Further research is, however, needed to determine what compounds are responsible for the wound healing effects.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -71243,7 +71252,6 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Bruising",
     "Wounds"
    ]
   },
@@ -71950,7 +71958,7 @@
    "link_type": "doi",
    "citation": "Majtan, J (2012) 'Pleuran (beta-glucan from Pleurotus ostreatus): an effective nutritional supplement against upper respiratory tract infections?', Medicine and Sport Science, 59, pp. 57-61. doi:10.1159/000341967",
    "abstract": "Prolonged and high-intensity exercise affects immune function and leads to an increased risk of upper respiratory tract infections (URTIs) in endurance athletes. The increased incidence of URTI symptoms may negatively affect athletic performance. Various nutritional supplements have been tested in the last decade for their ability to prevent developing of URTIs or reduce their incidence. One of the most promising nutritional supplements is β-glucan, a well-known immunomodulator with positive effects on functioning of immunocompetent cells. However, β-glucans are a diverse group of molecules that vary in macromolecular structure, solubility, viscosity, molecular weight and biological activity. This fact is supported by results from recent human clinical studies where β-glucans of different origin and properties differed in ability to prevent or reduce incidence of URTIs in athletes. It has been found that pleuran, a unique insoluble β-glucan isolated from mushroom Pleurotus ostreatus, significantly reduced the incidence of URTI symptoms in athletes. In addition, it was able to increase the number of circulating natural killer cells and to prevent reduction of natural killer cell activity. Contrarily, soluble oat β-glucan supplementation did not alter URTI incidence in endurance athletes. This difference suggests that the immunomodulatory capacity of β-glucans is strongly dependent on solubility and structural factors such as backbone structure and degree of branching. This review refers to using pleuran as a natural supplement that is able to protect endurance athletes against development of URTI.",
-   "tier": "clinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -74405,6 +74413,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3400",
+   "key": "bergendiova2011pleuran",
+   "type": "article",
+   "title": "Pleuran (β-glucan from Pleurotus ostreatus) supplementation, cellular immune response and respiratory tract infections in athletes",
+   "authors": "Bergendiova, K., Tibenska, E. and Majtan, J.",
+   "journal": "European Journal of Applied Physiology",
+   "year": "2011",
+   "doi": "10.1007/s00421-011-1837-z",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00421-011-1837-z",
+   "link_type": "doi",
+   "citation": "Bergendiova, K., Tibenska, E. and Majtan, J (2011) 'Pleuran (β-glucan from Pleurotus ostreatus) supplementation, cellular immune response and respiratory tract infections in athletes', European Journal of Applied Physiology, 111(9), pp. 2033--2040. doi:10.1007/s00421-011-1837-z",
+   "abstract": "Prolonged and exhausting physical activity causes numerous changes in immunity and sometimes transient increases the risk of upper respiratory tract infections (URTIs). Nutritional supplements as countermeasures to exercise-induced changes have increasingly been studied in the last decade. One of the most promising nutritional supplements is β-glucan, a well-known immunomodulator with positive effects on the function of immunocompetent cells. In this double blind, placebo-controlled study, we investigated the effect of pleuran, an insoluble β-(1,3/1,6) glucan from mushroom Pleurotus ostreatus, on selected cellular immune responses and incidence of URTI symptoms in athletes. Fifty athletes were randomized to pleuran or placebo group, taking pleuran (commercial name Imunoglukan(®)) or placebo supplements during 3 months. Venous whole blood was collected before and after 3 months of supplementation and additionally 3 months after supplementation period was completed. Incidence of URTI symptoms together with characterization of changes in phagocytosis and natural killer (NK) cell count was monitored during the study. We found that pleuran significantly reduced the incidence of URTI symptoms and increased the number of circulating NK cells. In addition, the phagocytosis process remained stable in pleuran group during the study in contrast to placebo group where significant reduction of phagocytosis was observed. These findings indicate that pleuran may serve as an effective nutritional supplement for athletes under heavy physical training. Additional research is needed to determine the mechanisms of pleuran function.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Pleuran (β-glucan from Pleurotus ostreatus) supplementation, cellular immune response and respiratory tract infections in athletes",
+   "plants": [
+    "Oyster mushroom",
+    "tree oyster mushroom"
+   ],
+   "scientific": [
+    "Pleurotus ostreatus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cold & flu",
+    "Immune support"
+   ]
+  },
+  {
    "ref_id": "REF-2141",
    "key": "bergamaschi2011cannabis",
    "type": "article",
@@ -75473,42 +75513,6 @@
    "scientific": [],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0102",
-   "key": "guillamon2010edible",
-   "type": "article",
-   "title": "Edible mushrooms: role in the prevention of cardiovascular diseases",
-   "authors": "Guillamon, E. et al",
-   "journal": "",
-   "year": "2010",
-   "doi": "10.1016/j.fitote.2010.06.005",
-   "url": "",
-   "link": "https://doi.org/10.1016/j.fitote.2010.06.005",
-   "link_type": "doi",
-   "citation": "Guillamon, E. et al (2010) 'Edible mushrooms: role in the prevention of cardiovascular diseases', 81(7), pp. 715--723. doi:10.1016/j.fitote.2010.06.005",
-   "abstract": "Edible mushrooms are a valuable source of nutrients and bioactive compounds in addition to a growing appeal for humans by their flavors and culinary features. Recently, they have become increasingly attractive as functional foods for their potential beneficial effects on human health. Hence, food industry is especially interested in cultivated and wild edible mushrooms. Cardiovascular diseases are one of the most prevalent causes of morbidity and mortality in the Western world. Several investigations have shown the influence of mushrooms intake on some metabolic markers (total, LDL, HDL cholesterol, fasting triacylglycerol, homocysteine, blood pressure, homeostatic function and oxidative and inflammatory damage), which potentially may reduce the risk of suffering cardiovascular diseases. Relevant nutritional aspects of mushrooms include a high fiber supply, a low fat content with low trans isomers of unsaturated fatty acids and a low concentration of sodium as well as the occurrence of components such as eritadenine, phenolic compounds, sterols (such as ergosterol), chitosan, triterpenes, etc., which are considered as important responsible agents for some hitherto healthy properties. The aims of this review are to report putative positive effects of mushrooms consumption on cardiovascular diseases risk markers and to identify some putative bioactive compounds involved in these effects.",
-   "tier": "clinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Edible mushrooms: role in the prevention of cardiovascular diseases",
-   "plants": [
-    "Oyster mushroom",
-    "tree oyster mushroom"
-   ],
-   "scientific": [
-    "Pleurotus ostreatus"
-   ],
-   "actions": [
-    "Antidiabetic (blood-sugar lowering)",
-    "Antioxidant"
-   ],
-   "conditions": [
-    "Blood sugar / diabetes support",
-    "Cardiovascular / heart health",
-    "Metabolic support"
-   ]
   },
   {
    "ref_id": "REF-2505",
@@ -77601,43 +77605,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-2463",
-   "key": "sarris2009kava",
-   "type": "article",
-   "title": "Kava Anxiety Depression Spectrum Study (KADSS): a mixed methods RCT using an aqueous extract of Piper methysticum",
-   "authors": "Sarris, J., Kavanagh, D.J., Adams, J., Bone, K. and Byrne, G.",
-   "journal": "Complementary Therapies in Medicine",
-   "year": "2009",
-   "doi": "10.1016/j.ctim.2009.01.001",
-   "url": "",
-   "link": "https://doi.org/10.1016/j.ctim.2009.01.001",
-   "link_type": "doi",
-   "citation": "Sarris, J., Kavanagh, D.J., Adams, J., Bone, K. and Byrne, G (2009) 'Kava Anxiety Depression Spectrum Study (KADSS): a mixed methods RCT using an aqueous extract of Piper methysticum', Complementary Therapies in Medicine, 17(3), pp. 176-178. doi:10.1016/j.ctim.2009.01.001",
-   "abstract": "Objectives To report on the design, significance and potential impacts of the first documented human clinical trial assessing the anxiolytic and thymoleptic efficacy of an aqueous mono-extract of Piper methysticum (kava). The significance of the qualitative element of our clinical trial is also explored. The Kava Anxiety Depression Spectrum Study (KADSS) is a 3-week placebo-controlled, double-blind, cross-over trial involving 60 adult participants (18-65) with elevated stable anxiety and varying levels of depressive symptoms. Aims The aims of KADSS are: (1) to determine whether an aqueous standardised extract of kava is effective for the treatment of anxiety; (2) to assess the effects of kava on differing levels of depression; and (3) to explore participants' experience of taking kava via qualitative research. The study also provides preliminary assessment of the safety of an aqueous extract of kava in humans. Conclusion If results reveal that the aqueous kava preparation exerts significant anxiolytic effects and appears safe, potentially beneficial impacts may occur. Data supporting a safe and effective kava extract may encourage a re-introduction of kava to Europe, UK and Canada. This may provide a major socioeconomic benefit to Pacific Island nations, and to sufferers of anxiety disorders.",
-   "tier": "rct",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Kava Anxiety Depression Spectrum Study (KADSS): a mixed methods RCT using an aqueous extract of Piper methysticum",
-   "plants": [
-    "Awa",
-    "Kava",
-    "Kava Kava",
-    "Kawa",
-    "Yaqona"
-   ],
-   "scientific": [
-    "Piper methysticum"
-   ],
-   "actions": [
-    "Anxiolytic / calming"
-   ],
-   "conditions": [
-    "Anxiety",
-    "Stress"
-   ]
-  },
-  {
    "ref_id": "REF-1754",
    "key": "zhang2009lamium",
    "type": "article",
@@ -78266,6 +78233,42 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2463",
+   "key": "sarris2009kava",
+   "type": "article",
+   "title": "The Kava Anxiety Depression Spectrum Study (KADSS): a randomized, placebo-controlled crossover trial using an aqueous extract of Piper methysticum",
+   "authors": "Sarris, J., Kavanagh, D.J., Byrne, G., Bone, K.M., Adams, J. and Deed, G.",
+   "journal": "Psychopharmacology",
+   "year": "2009",
+   "doi": "10.1007/s00213-009-1549-9",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00213-009-1549-9",
+   "link_type": "doi",
+   "citation": "Sarris, J., Kavanagh, D.J., Byrne, G., Bone, K.M., Adams, J. and Deed, G (2009) 'The Kava Anxiety Depression Spectrum Study (KADSS): a randomized, placebo-controlled crossover trial using an aqueous extract of Piper methysticum', Psychopharmacology, 205(3), pp. 399--407. doi:10.1007/s00213-009-1549-9",
+   "abstract": "Piper methysticum (Kava) has been withdrawn in European, British, and Canadian markets due to concerns over hepatotoxic reactions. The WHO recently recommended research into \"aqueous\" extracts of Kava. The objective of this study was to conduct the first documented human clinical trial assessing the anxiolytic and antidepressant efficacy of an aqueous extract of Kava. The Kava Anxiety Depression Spectrum Study was a 3-week placebo-controlled, double-blind crossover trial that recruited 60 adult participants with 1 month or more of elevated generalized anxiety. Five Kava tablets per day were prescribed containing 250 mg of kavalactones/day. The aqueous extract of Kava reduced participants' Hamilton Anxiety Scale score in the first controlled phase by -9.9 (CI = 7.1, 12.7) vs. -0.8 (CI = -2.7, 4.3) for placebo and in the second controlled phase by -10.3 (CI = 5.8, 14.7) vs. +3.3 (CI = -6.8, 0.2). The pooled effect of Kava vs. placebo across phases was highly significant (p < 0.0001), with a substantial effect size (d = 2.24, eta(2)(p)). Pooled analyses also revealed highly significant relative reductions in Beck Anxiety Inventory and Montgomery-Asberg Depression Rating Scale scores. The aqueous extract was found to be safe, with no serious adverse effects and no clinical hepatotoxicity. The aqueous Kava preparation produced significant anxiolytic and antidepressant activity and raised no safety concerns at the dose and duration studied. Kava appears equally effective in cases where anxiety is accompanied by depression. This should encourage further study and consideration of globally reintroducing aqueous rootstock extracts of Kava for the management of anxiety.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The Kava Anxiety Depression Spectrum Study (KADSS): a randomized, placebo-controlled crossover trial using an aqueous extract of Piper methysticum",
+   "plants": [
+    "Awa",
+    "Kava",
+    "Kava Kava",
+    "Kawa",
+    "Yaqona"
+   ],
+   "scientific": [
+    "Piper methysticum"
+   ],
+   "actions": [
+    "Anxiolytic / calming"
+   ],
+   "conditions": [
+    "Anxiety"
+   ]
+  },
+  {
    "ref_id": "REF-1344",
    "key": "perezlopez2009cranberry",
    "type": "article",
@@ -78810,45 +78813,6 @@
     "Sedative / sleep support"
    ],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0018",
-   "key": "bakkali2008biological",
-   "type": "article",
-   "title": "Biological effects of essential oils — a review",
-   "authors": "Bakkali, F. et al",
-   "journal": "",
-   "year": "2008",
-   "doi": "10.1016/j.fct.2007.09.106",
-   "url": "",
-   "link": "https://doi.org/10.1016/j.fct.2007.09.106",
-   "link_type": "doi",
-   "citation": "Bakkali, F. et al (2008) 'Biological effects of essential oils — a review', 46(2), pp. 446--475. doi:10.1016/j.fct.2007.09.106",
-   "abstract": "Since the middle ages, essential oils have been widely used for bactericidal, virucidal, fungicidal, antiparasitical, insecticidal, medicinal and cosmetic applications, especially nowadays in pharmaceutical, sanitary, cosmetic, agricultural and food industries. Because of the mode of extraction, mostly by distillation from aromatic plants, they contain a variety of volatile molecules such as terpenes and terpenoids, phenol-derived aromatic components and aliphatic components. In vitro physicochemical assays characterise most of them as antioxidants. However, recent work shows that in eukaryotic cells, essential oils can act as prooxidants affecting inner cell membranes and organelles such as mitochondria. Depending on type and concentration, they exhibit cytotoxic effects on living cells but are usually non-genotoxic. In some cases, changes in intracellular redox potential and mitochondrial dysfunction induced by essential oils can be associated with their capacity to exert antigenotoxic effects. These findings suggest that, at least in part, the encountered beneficial effects of essential oils are due to prooxidant effects on the cellular level.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Biological effects of essential oils — a review",
-   "plants": [
-    "Baltic pine",
-    "Scotch pine",
-    "Scots Pine"
-   ],
-   "scientific": [
-    "Pinus sylvestris"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Diuretic",
-    "Expectorant"
-   ],
-   "conditions": [
-    "Infection (general)",
-    "Wounds"
-   ]
   },
   {
    "ref_id": "REF-0623",
@@ -80404,47 +80368,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0314",
-   "key": "yang2007antiviral",
-   "type": "article",
-   "title": "Antiviral activity of aqueous extract of Prunella vulgaris L",
-   "authors": "Yang, Y.Q. et al",
-   "journal": "",
-   "year": "2007",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Antiviral%20activity%20of%20aqueous%20extract%20of%20Prunella%20vulgaris%20L",
-   "link_type": "search",
-   "citation": "Yang, Y.Q. et al (2007) 'Antiviral activity of aqueous extract of Prunella vulgaris L', 73(3), pp. 157--162.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Antiviral activity of aqueous extract of Prunella vulgaris L",
-   "plants": [
-    "Selfheal",
-    "heal-all",
-    "woundwort"
-   ],
-   "scientific": [
-    "Prunella vulgaris"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antiviral",
-    "Immunomodulator / immune support",
-    "Vulnerary (wound healing)"
-   ],
-   "conditions": [
-    "Cold & flu",
-    "Immune support",
-    "Infection (general)"
-   ]
-  },
-  {
    "ref_id": "REF-1238",
    "key": "judzentiene2007pinus",
    "type": "article",
@@ -81310,43 +81233,6 @@
    ]
   },
   {
-   "ref_id": "REF-0306",
-   "key": "wicke2007primula",
-   "type": "misc",
-   "title": "Primula veris in the treatment of upper respiratory infections",
-   "authors": "Wicke, L",
-   "journal": "",
-   "year": "2007",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Primula%20veris%20in%20the%20treatment%20of%20upper%20respiratory%20infections",
-   "link_type": "search",
-   "citation": "Wicke, L (2007) 'Primula veris in the treatment of upper respiratory infections', pp. 109--116.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Primula veris in the treatment of upper respiratory infections",
-   "plants": [
-    "Cowslip",
-    "common cowslip",
-    "cowslip primrose",
-    "keyflower"
-   ],
-   "scientific": [
-    "Primula veris"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Sedative / sleep support"
-   ],
-   "conditions": [
-    "Respiratory support"
-   ]
-  },
-  {
    "ref_id": "REF-2670",
    "key": "genillierfoin2007agave",
    "type": "article",
@@ -81402,39 +81288,6 @@
     "Antioxidant"
    ],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-2592",
-   "key": "moss2007tormentil",
-   "type": "article",
-   "title": "Reducing the torment of diarrhea: tormentil for active ulcerative colitis",
-   "authors": "Moss, A.C. and Cheifetz, A.S.",
-   "journal": "Journal of Clinical Gastroenterology",
-   "year": "2007",
-   "doi": "10.1097/MCG.0b013e3180684255",
-   "url": "",
-   "link": "https://doi.org/10.1097/MCG.0b013e3180684255",
-   "link_type": "doi",
-   "citation": "Moss, A.C. and Cheifetz, A.S (2007) 'Reducing the torment of diarrhea: tormentil for active ulcerative colitis', Journal of Clinical Gastroenterology, 41(9), pp. 797-798. doi:10.1097/MCG.0b013e3180684255",
-   "abstract": "",
-   "tier": "clinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Reducing the torment of diarrhea: tormentil for active ulcerative colitis",
-   "plants": [
-    "Bloodroot",
-    "Common tormentil",
-    "Septfoil",
-    "Tormentil"
-   ],
-   "scientific": [
-    "Potentilla erecta"
-   ],
-   "actions": [],
-   "conditions": [
-    "Inflammatory bowel disease (IBD)"
-   ]
   },
   {
    "ref_id": "REF-3095",
@@ -81698,6 +81551,39 @@
     "Anti-inflammatory"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3402",
+   "key": "huber2007tormentil",
+   "type": "article",
+   "title": "Tormentil for active ulcerative colitis: an open-label, dose-escalating study",
+   "authors": "Huber, R., Ditfurth, A.V., Amann, F., Güthlin, C., Rostock, M., Trittler, R., Kümmerer, K. and Merfort, I.",
+   "journal": "Journal of Clinical Gastroenterology",
+   "year": "2007",
+   "doi": "10.1097/MCG.0b013e31804b2173",
+   "url": "",
+   "link": "https://doi.org/10.1097/MCG.0b013e31804b2173",
+   "link_type": "doi",
+   "citation": "Huber, R., Ditfurth, A.V., Amann, F., Güthlin, C., Rostock, M., Trittler, R., Kümmerer, K. and Merfort, I (2007) 'Tormentil for active ulcerative colitis: an open-label, dose-escalating study', Journal of Clinical Gastroenterology, 41(9), pp. 834--838. doi:10.1097/MCG.0b013e31804b2173",
+   "abstract": "Tormentil extracts (TE) have antioxidative properties and are used as a complementary therapy for chronic inflammatory bowel disease. In individual patients with ulcerative colitis (UC) positive effects have been observed. To assess the safety, pharmacology, and clinical effects of different doses of TE in patients with active UC. Sixteen patients with active UC [clinical activity index (CAI) >/=5] received TE in escalating doses of 1200, 1800, 2400 and 3000 mg/d for 3 weeks each. Each treatment phase was followed by a 4-week washout phase. The outcome parameters were side effects, CAI, C-reactive protein, and tannin levels in patient sera. Mild upper abdominal discomfort was experienced by 6 patients (38%), but did not require discontinuation of the medication. During therapy with 2400 mg TE per day, median CAI and C-reactive protein improved from 8 (6 to 10.75) and 8 (3 to 17.75) mg/L at baseline to 4.5 (1.75 to 6) and 3 (3 to 6) mg/L, respectively. During therapy, the CAI decreased in all patients, whereas it increased during the washout phase. Neither undegraded nor metabolized tannins could be detected by liquid-mass spectrometry (LC-MS) in patient sera. TE appeared safe up to 3000 mg/d. Tannins from TE are not systemically absorbed. The efficacy in patients with UC should be further evaluated.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Tormentil for active ulcerative colitis: an open-label, dose-escalating study",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
+   ],
+   "actions": [],
+   "conditions": [
+    "Inflammatory bowel disease (IBD)"
+   ]
   },
   {
    "ref_id": "REF-0311",
@@ -83966,27 +83852,29 @@
    "link_type": "doi",
    "citation": "Vigo, E., Cepeda, A., Gualillo, O. and Perez-Fernandez, R (2005) 'In-vitro anti-inflammatory activity of Pinus sylvestris and Plantago lanceolata extracts: effect on inducible NOS, COX-1, COX-2 and their products in J774A.1 murine macrophages', Journal of Pharmacy and Pharmacology, 57(3), pp. 383--391. doi:10.1211/0022357055605",
    "abstract": "Extracts of the plant species Pinus sylvestris L. and Plantago lanceolata L. have been used in traditional medicine for the treatment of certain respiratory diseases, but little is known about their precise effects and mechanisms of action. In this study, we investigated the effect of these plant extracts on the production of nitric oxide (NO) and prostaglandin E(2), NO synthase (NOS) type II, cyclooxygenase-1 (COX-1) and COX-2 mRNA expression in the murine macrophage cell line J774A.1. We found that Pinus sylvestris and Plantago lanceolata extracts inhibited NO production in a concentration-dependent manner in this cell line, without obvious cytotoxic effects as tested by MTT assay. The Plantago lanceolata extract at all doses used, and the Pinus sylvestris extract at high doses, showed significant scavenging of NO radicals released by the NO donor PAPA-NONOate. Our data also show that pre-treatment with these extracts significantly inhibits inducible NOS (iNOS) mRNA production in this cell line, without affecting COX-1 mRNA expression. COX-2 mRNA levels and PGE(2) levels induced by lipopolysaccharide/interferon-gamma were not modified upon pre-treatment with the extracts. Thus, our results suggest that the anti-inflammatory properties of Pinus sylvestris and Plantago lanceolata extracts may reflect decreased NO production, possibly due to inhibitory effects on iNOS gene expression or to NO-scavenging activity.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
    "display": "In-vitro anti-inflammatory activity of Pinus sylvestris and Plantago lanceolata extracts: effect on inducible NOS, COX-1, COX-2 and their products in J774A.1 murine macrophages",
    "plants": [
+    "Baltic pine",
     "English plantain",
     "Lamb's tongue",
     "Narrowleaf plantain",
-    "Ribwort Plantain"
+    "Ribwort Plantain",
+    "Scotch pine",
+    "Scots Pine"
    ],
    "scientific": [
+    "Pinus sylvestris",
     "Plantago lanceolata"
    ],
    "actions": [
     "Anti-inflammatory"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Inflammation (general)",
-    "Sore throat"
+    "Inflammation (general)"
    ]
   },
   {
@@ -85693,9 +85581,7 @@
    "actions": [
     "Sedative / sleep support"
    ],
-   "conditions": [
-    "Insomnia / sleeplessness"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1794",
@@ -86301,14 +86187,7 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Bruising",
-    "Cold & flu",
-    "Immune support",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Wounds"
+    "Infection (general)"
    ]
   },
   {
@@ -86984,9 +86863,7 @@
     "Sedative / sleep support"
    ],
    "conditions": [
-    "Anxiety",
-    "Nervous tension",
-    "Stress"
+    "Anxiety"
    ]
   },
   {
@@ -89223,27 +89100,22 @@
     "Clove bud",
     "Common borage",
     "Greater Burdock",
-    "Greater Plantain",
     "Starflower",
     "Tasmanian blue gum",
     "Water Hyssop",
     "aromatic clove",
     "blue gum",
     "brahmi",
-    "broadleaf plantain",
     "burdock",
-    "common plantain",
     "gobo",
     "herb of grace",
-    "southern blue gum",
-    "waybread"
+    "southern blue gum"
    ],
    "scientific": [
     "Arctium lappa",
     "Bacopa monnieri",
     "Borago officinalis",
     "Eucalyptus globulus",
-    "Plantago major",
     "Syzygium aromaticum"
    ],
    "actions": [
@@ -89255,18 +89127,14 @@
     "Antioxidant",
     "Digestive aid",
     "Emollient / skin-soothing",
-    "Expectorant",
     "Immunomodulator / immune support",
     "Neuroprotective / cognition support",
-    "Sedative / sleep support",
-    "Vulnerary (wound healing)"
+    "Sedative / sleep support"
    ],
    "conditions": [
     "Arthritis / joint pain",
     "Back pain",
     "Bloating",
-    "Bronchitis",
-    "Bruising",
     "Cold & flu",
     "Headache",
     "Indigestion",
@@ -90334,42 +90202,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-2544",
-   "key": "pittler2000kava",
-   "type": "article",
-   "title": "Efficacy of kava extract for treating anxiety: systematic review and meta-analysis",
-   "authors": "Pittler, M.H. and Ernst, E.",
-   "journal": "Journal of Clinical Psychopharmacology",
-   "year": "2000",
-   "doi": "10.1097/00004714-200002000-00014",
-   "url": "",
-   "link": "https://doi.org/10.1097/00004714-200002000-00014",
-   "link_type": "doi",
-   "citation": "Pittler, M.H. and Ernst, E (2000) 'Efficacy of kava extract for treating anxiety: systematic review and meta-analysis', Journal of Clinical Psychopharmacology, 20(1), pp. 84-89. doi:10.1097/00004714-200002000-00014",
-   "abstract": "Synthetic anxiolytic drugs are effective for treating anxiety, but they are burdened with adverse effects. Constraints on resources and time often render therapies such as psychologic interventions impracticable. Thus, an effective oral medication with few adverse effects would be a welcome addition to the therapeutic repertoire. This systematic review and meta-analysis was aimed at assessing the evidence for or against the efficacy of kava extract as a symptomatic treatment for anxiety. Systematic literature searches were performed in the computerized databases MEDLINE, EMBASE, BIOSIS, AMED, CISCOM, and the Cochrane Library (all from their respective inception to June 1998). The search terms used were kava, kawa, kavain, Piper methysticum, and Rauschpfeffer (German term for Piper methysticum). Experts on the subject were contacted to provide further information. There were no restrictions regarding the language of publication. Double-blind, randomized, placebo-controlled trials of oral kava extract for the treatment of anxiety were included. All publications were blinded before assessment by a person not involved in the study. Data were extracted in a standardized, predefined fashion independently by the two reviewers. The methodologic quality of all trials was assessed. Superiority of kava extract over placebo was suggested by all seven reviewed trials. The meta-analysis of three trials suggests a significant difference in the reduction of the total score on the Hamilton Rating Scale for Anxiety in favor of kava extract (weighted mean difference, 9.69; 95% confidence interval, 3.54-15.83). These data imply that kava extract is superior to placebo as a symptomatic treatment for anxiety. Therefore, kava extract is an herbal treatment option for anxiety that is worthy of consideration.",
-   "tier": "review",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Efficacy of kava extract for treating anxiety: systematic review and meta-analysis",
-   "plants": [
-    "Awa",
-    "Kava",
-    "Kava Kava",
-    "Kawa",
-    "Yaqona"
-   ],
-   "scientific": [
-    "Piper methysticum"
-   ],
-   "actions": [
-    "Anxiolytic / calming"
-   ],
-   "conditions": [
-    "Anxiety"
-   ]
-  },
-  {
    "ref_id": "REF-2290",
    "key": "davydov2000eleutherococcus",
    "type": "article",
@@ -90878,7 +90710,7 @@
    "link_type": "doi",
    "citation": "Samuelsen, A.B (2000) 'The traditional uses, chemical constituents and biological activities of Plantago major L. A review', 8741(00), pp. 1--21. doi:10.1016/s0378-8741(00)00212-9",
    "abstract": "Plantago major L. leaves have been used as a wound healing remedy for centuries in almost all parts of the world and in the treatment of a number of diseases apart from wound healing. These include diseases related to the skin, respiratory organs, digestive organs, reproduction, the circulation, against cancer, for pain relief and against infections. P. major contains biologically active compounds such as polysaccharides, lipids, caffeic acid derivatives, flavonoids, iridoid glycosides and terpenoids. Alkaloids and some organic acids have also been detected. A range of biological activities has been found from plant extracts including wound healing activity, anti-inflammatory, analgesic, antioxidant, weak antibiotic, immuno modulating and antiulcerogenic activity. Some of these effects may attribute to the use of this plant in folk medicine.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -90899,9 +90731,6 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Bronchitis",
-    "Bruising",
     "Inflammation (general)",
     "Respiratory support",
     "Skin irritation",
@@ -94527,6 +94356,7 @@
     "Common Sorrel",
     "Common chickweed",
     "Dutch clover",
+    "Greater Plantain",
     "Ground Elder",
     "Hudson's Bay tea",
     "Japanese Rose",
@@ -94546,9 +94376,11 @@
     "bishop's weed",
     "bitter buttons",
     "bog tea",
+    "broadleaf plantain",
     "chickenwort",
     "common mugwort",
     "common nettle",
+    "common plantain",
     "common tansy",
     "common wormwood",
     "common yarrow",
@@ -94569,6 +94401,7 @@
     "soldiers' woundwort",
     "sorrel",
     "starweed",
+    "waybread",
     "woundwort"
    ],
    "scientific": [
@@ -94578,6 +94411,7 @@
     "Artemisia vulgaris",
     "Filipendula ulmaria",
     "Pinus sylvestris",
+    "Plantago major",
     "Prunella vulgaris",
     "Rhododendron tomentosum",
     "Rosa rugosa",
@@ -94609,11 +94443,10 @@
     "Arthritis / joint pain",
     "Back pain",
     "Bloating",
-    "Bronchitis",
     "Bruising",
     "Cardiovascular / heart health",
     "Cold & flu",
-    "Cough",
+    "Diarrhoea",
     "Eczema",
     "Fever",
     "Heavy menstrual bleeding",
@@ -97883,8 +97716,6 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": [
-    "Bronchitis",
-    "Cold & flu",
     "Cough",
     "Sore throat"
    ]
@@ -100861,12 +100692,8 @@
    ],
    "conditions": [
     "Bronchitis",
-    "Bruising",
-    "Cold & flu",
-    "Cough",
-    "Immune support",
-    "Infection (general)",
-    "Skin irritation",
+    "Inflammation (general)",
+    "Sore throat",
     "Wounds"
    ]
   },
@@ -101062,12 +100889,17 @@
    ],
    "display": "Plantain (Plantago major): Benefits, Safety, Uses",
    "plants": [
+    "English plantain",
     "Greater Plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain",
     "broadleaf plantain",
     "common plantain",
     "waybread"
    ],
    "scientific": [
+    "Plantago lanceolata",
     "Plantago major"
    ],
    "actions": [
@@ -101080,10 +100912,11 @@
    "conditions": [
     "Bronchitis",
     "Bruising",
-    "Constipation",
     "Cough",
     "Diarrhoea",
+    "Infection (general)",
     "Respiratory support",
+    "Skin irritation",
     "Sore throat",
     "Wounds"
    ]
@@ -103921,9 +103754,7 @@
     "Diarrhoea",
     "Inflammation (general)",
     "Inflammatory bowel disease (IBD)",
-    "Skin irritation",
-    "Sore throat",
-    "Wounds"
+    "Sore throat"
    ]
   },
   {

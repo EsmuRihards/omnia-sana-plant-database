@@ -139,13 +139,11 @@ dosage:
   reference_ids:
   - REF-0234
   - REF-0364
-  - REF-0309
   status: verified
 actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0364
-  - REF-0309
   - REF-1763
   - REF-1764
   - REF-3008
@@ -162,7 +160,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0364
-  - REF-0309
   - REF-0354
   - REF-1767
   - REF-1768
@@ -179,14 +176,12 @@ actions:
   note: Demulcent / expectorant (coughs, catarrh, irritated airways)
   reference_ids:
   - REF-0358
-  - REF-1762
   - REF-1769
   status: verified
 - action: expectorant
   note: Demulcent / expectorant (coughs, catarrh, irritated airways)
   reference_ids:
   - REF-0364
-  - REF-0309
   - REF-0358
   - REF-1758
   - REF-1766
@@ -202,7 +197,6 @@ actions:
   note: Vulnerary (wound healing) - fresh leaf poultice
   reference_ids:
   - REF-0364
-  - REF-0309
   - REF-0358
   - REF-0368
   - REF-1759
@@ -242,86 +236,88 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0364
-  - REF-0309
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1763
   - REF-3010
+  - REF-0364
 - condition: bronchitis
-  note: inferred from expectorant action
-  reference_ids:
-  - REF-0364
-  - REF-0309
-  - REF-0358
-  status: needs-review
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-0364
-  - REF-0309
-  - REF-0358
-  - REF-0368
-  status: needs-review
-- condition: constipation
-  note: inferred from laxative action
+  note: Traditionally used in mild bronchitis (Herbal Reality)
   reference_ids:
   - REF-0358
   status: needs-review
   mechanistic_exclude_ids:
+  - REF-0364
+- condition: bruising
+  note: Traditionally applied in salves for bruises and wounds (Herbal Reality)
+  reference_ids:
+  - REF-0358
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0364
+  - REF-0368
+- condition: constipation
+  note: Traditional remedy for constipation in Persian medicine; laxative activity reported (narrative
+    review)
+  reference_ids:
+  - REF-1758
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-1769
+  - REF-0358
 - condition: cough
   note: Demulcent / expectorant (coughs, catarrh, irritated airways)
   reference_ids:
   - REF-0358
+  - REF-1758
   status: verified
   mechanistic_exclude_ids:
-  - REF-1762
   - REF-1769
 - condition: diarrhea
   note: Astringent (diarrhoea)
   reference_ids:
   - REF-0358
+  - REF-0354
+  - REF-0098
   status: verified
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Antibacterial and antiviral activity reported in lab studies; used traditionally for mild infections
+    such as cystitis and sinusitis
   reference_ids:
   - REF-0354
+  - REF-0358
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Leaf extracts reduced inflammation in rodent and cell studies (preclinical; reviews); a mouth-rinse
+    trial for chemotherapy mouth sores found no benefit
   reference_ids:
   - REF-0364
-  - REF-0309
+  - REF-0354
+  - REF-1758
   status: needs-review
+  null_result_ids:
+  - REF-1762
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Traditional remedy for catarrh, coughs and other respiratory complaints
   reference_ids:
   - REF-0364
-  - REF-0309
   - REF-0358
   status: needs-review
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditional remedy for inflamed skin and rashes (Grieve; Herbal Reality; review of folk use)
   reference_ids:
   - REF-0364
-  - REF-0309
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1769
-- condition: sore-throat
-  note: inferred from demulcent action
-  reference_ids:
   - REF-0358
+  - REF-0098
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1769
 - condition: wounds
-  note: inferred from vulnerary action
+  note: Traditional wound herb; leaf extracts aided cell migration and burn-wound healing in lab and rat
+    studies (preclinical)
   reference_ids:
   - REF-0364
-  - REF-0309
   - REF-0358
   - REF-0368
   - REF-3004
@@ -337,7 +333,8 @@ indications:
   - REF-3000
   status: needs-review
 - condition: cardiovascular-support
-  note: Plantamajoside attenuated cardiac fibrosis via AGEs/RAGE inhibition (preclinical).
+  note: Plantamajoside, a signature compound of plantain, protected heart cells and reduced cardiac fibrosis
+    in lab and mouse studies (compound evidence, preclinical)
   reference_ids:
   - REF-3002
   - REF-3003
@@ -351,7 +348,6 @@ contraindications:
   reference_ids:
   - REF-0234
   - REF-0364
-  - REF-0309
   status: verified
 - note: 'Duke (2002) rates plantain as ++ and notes anti-inflammatory, antitussive, antiatherosclerotic,
     and COX-2-inhibitory activities at the experimental level (score 1). The seeds (psyllium) of related
@@ -363,7 +359,6 @@ contraindications:
   reference_ids:
   - REF-0234
   - REF-0364
-  - REF-0309
   - REF-0063
   status: verified
 - note: Generally regarded as safe as food and in customary medicinal use; allergic reactions are uncommon,
@@ -401,7 +396,6 @@ references:
 - REF-1759
 - REF-1760
 - REF-1761
-- REF-1762
 - REF-1763
 - REF-1764
 - REF-1765
@@ -453,4 +447,16 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   OpenAlex-sourced scientific references (REF-2993..REF-3014) covering anticancer / immunity / cardiovascular
   / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed database). |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for leaf (spring-early summer) +
-  seed (ripen Jul-Oct), both provisional: PFAF REF-3314. Single lineage. Binomial confirmed.'
+  seed (ripen Jul-Oct), both provisional: PFAF REF-3314. Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 13 - REF-0309 ("WHO Monographs" 2002, vol. 2) purged:
+  vol. 2 has no Plantago major monograph (table of contents runs Rhizoma Piperis methystici p.231
+  -> Cortex Pruni africanae p.246). REF-1762 (RCT: plantain rinse no better than bicarbonate for
+  chemotherapy oral mucositis) purged from the demulcent action and recorded as null for
+  inflammation. Herbal Reality REF-0358 names no constipation and gives sore throat to ribwort -
+  removed there; sore-throat dropped. Samuelsen review REF-0364 (skin, respiratory, wounds,
+  anti-inflammatory) removed from arthritis, bronchitis, bruising. Held sources that name the
+  symptom added: Najafian review REF-1758 (constipation, coughs, anti-inflammatory), Adom review
+  REF-0354 (antidiarrhoeal, anti-inflammatory), Grieve REF-0098 Common Plantain (inflammation of
+  the skin; diarrhoea). Note: REF-3010 carries its journal''s published abstract, which reads like
+  a copy of earlier reviews, not the in-vitro study its title describes (left as mechanistic
+  card).'

@@ -126,12 +126,12 @@ actions:
   status: verified
 indications:
 - condition: cancer
-  note: inferred from anticancer action
+  note: Seed extract reduced chemically induced colorectal tumours in rats (preclinical)
   reference_ids:
   - REF-1415
   status: needs-review
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Seed extract was active against the gut parasite Giardia in the lab (preclinical)
   reference_ids:
   - REF-1414
   status: needs-review
@@ -139,15 +139,8 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-1408
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1415
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Topical seed extract sped wound healing in diabetic rats (preclinical)
   reference_ids:
   - REF-1408
   status: needs-review
@@ -233,4 +226,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
   part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for seed (provisional: PFAF REF-3310, whole plant cut when seed ripe in late summer).
-  SAFETY: fatal Conium maculatum (poison hemlock) lookalike. Binomial confirmed.'
+  SAFETY: fatal Conium maculatum (poison hemlock) lookalike. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 13 - REF-1408 (wound healing in diabetic rats) names no
+  skin irritation - removed; skin-irritation pair dropped. Claim notes on wounds/infection/cancer
+  rewritten to describe their direct sources (they said "inferred"). Gap for owner: the EU anise
+  monograph uses (bloating, flatulence, cough with cold) have no pairs.'

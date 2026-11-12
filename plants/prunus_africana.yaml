@@ -110,18 +110,19 @@ indications:
   - REF-1508
   - REF-1511
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Bark extract lowered inflammatory cytokines, notably IL-6, released by immune cells in the lab
+    (preclinical)
   reference_ids:
   - REF-1513
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1511
+  - REF-1508
 - condition: prostate-support
   note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
     of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but
     the trials were small, short and methodologically weak, so the evidence remains uncertain
   reference_ids:
-  - REF-1508
   - REF-0547
   - REF-0548
   - REF-1507
@@ -129,6 +130,8 @@ indications:
   - REF-1510
   - REF-1512
   status: needs-review
+  null_result_ids:
+  - REF-1508
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -141,13 +144,14 @@ indications:
     of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but
     the trials were small, short and methodologically weak, so the evidence remains uncertain
   reference_ids:
-  - REF-1508
   - REF-0547
   - REF-0548
   - REF-1507
   - REF-1509
   - REF-1510
   status: needs-review
+  null_result_ids:
+  - REF-1508
 contraindications:
 - note: Lower urinary tract / prostate symptoms must be medically assessed first to exclude prostate cancer.
     The evidence is mixed and rests on small, short, methodologically weak trials, so men with moderate
@@ -196,4 +200,11 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journa
   cite the existing BPH phytotherapy review (REF-0496). | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for bark (provisional: Useful Tropical Plants REF-3317). No seasonal window; readiness =
   tree maturity + a 4-5 year sustainable rotation (only 2 opposite quarters stripped, cambium intact).
-  CITES-listed. Binomial confirmed.'
+  CITES-listed. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 13 - Keehn & Lowe 2015 REF-1508 ("no evidence that
+  phytotherapy significantly improves symptoms of BPH against placebo"; names Pygeum africanum)
+  was cited as SUPPORT - moved to null_result_ids for prostate-support and urinary-support, hidden
+  from inflammation; retagged narrative-review. Cochrane 2002 (REF-0547) remains the current
+  version.
+  | 2026-11-10: symptom-source audit batch 13 - inflammation note rewritten to describe its direct
+  source (it said "inferred").'

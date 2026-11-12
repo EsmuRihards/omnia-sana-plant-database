@@ -117,13 +117,11 @@ constituents:
   - kaempferol
   note: Flavonol glycosides such as quercetin and kaempferol glycosides.
   reference_ids:
-  - REF-2817
   - REF-2816
 - name: Polyacetylenes (lobetyol, lobetyolin)
   note: Acetylenic (polyacetylene) compounds lobetyol and lobetyolin, characteristic antioxidant constituents
     of the Campanulaceae.
   reference_ids:
-  - REF-2817
   - REF-2816
 - name: Triterpenes and saponins
   compounds:
@@ -134,20 +132,16 @@ constituents:
   - REF-2816
 actions:
 - action: antioxidant
-  reference_ids:
-  - REF-2816
-  - REF-2817
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: anti-inflammatory
   note: Bellflower extracts downregulate inflammatory cytokines (TNF-alpha, IL-1beta).
-  reference_ids:
-  - REF-2816
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: antimicrobial
   note: Antibacterial activity of bellflower extracts/hydrolysates (genus Campanula).
-  reference_ids:
-  - REF-2816
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: vulnerary
   note: Campanula macrostachya extract promoted fibroblast wound closure in vitro (genus congener).
   reference_ids: []
@@ -167,7 +161,6 @@ contraindications:
   status: verified
 references:
 - REF-2816
-- REF-2817
 - REF-2820
 lookalikes_review:
   outcome: none-known
@@ -210,4 +203,8 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   inherited. | 2026-08-15: flower and root harvest_readiness re-searched and kept documented gaps; PFAF''s full Edible Uses text gives uses (''Root - raw'', ''Flowers - raw'') but no stage, and bellflower-root condition statements found elsewhere belong to other Campanula species and were not inherited.
   | 2026-11-10: symptom-source audit batch 3 - REF-2816 is a genus-level Campanula review that
   never names C. persicifolia (prose-only attribution) - removed from every symptom; no
-  species-level evidence remains.'
+  species-level evidence remains.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. REF-2817 (Campanula
+  alliariifolia antioxidant study) purged and deleted as wrong species. Genus review REF-2816
+  never names C. persicifolia - removed from the three actions (prose-only genus claims), kept in
+  references as background. The plant now has no species-level action evidence.'

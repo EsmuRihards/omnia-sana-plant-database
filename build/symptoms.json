@@ -1737,11 +1737,48 @@
     {
      "condition": "fatigue",
      "label": "Fatigue / low energy",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2261",
+      "REF-3449",
+      "REF-3450"
+     ]
+    },
+    {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0401",
+      "REF-0402",
+      "REF-3452",
+      "REF-3453"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0402",
+      "REF-3452",
+      "REF-3454"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
      "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-2261"
+      "REF-3455"
      ]
     },
     {
@@ -1760,17 +1797,6 @@
      ]
     },
     {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0401",
-      "REF-0402"
-     ]
-    },
-    {
      "condition": "infection",
      "label": "Infection (general)",
      "evidence": 2,
@@ -1778,16 +1804,6 @@
      "inferred": false,
      "references": [
       "REF-0401"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0402"
      ]
     },
     {
@@ -2055,6 +2071,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0743",
+      "REF-1692"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -2065,40 +2092,18 @@
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "back-pain",
-     "label": "Back pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
+     "references": [
+      "REF-1692"
+     ]
     },
     {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -2129,14 +2134,6 @@
      "references": [
       "REF-0080"
      ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     }
    ]
   },
@@ -2841,6 +2838,46 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3462"
+     ]
+    },
+    {
+     "condition": "asthma",
+     "label": "Asthma",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1952"
+     ]
+    },
+    {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3459"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3461"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -2881,30 +2918,6 @@
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
      "condition": "indigestion",
      "label": "Indigestion",
      "evidence": 1,
@@ -2932,25 +2945,89 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 9,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0422",
       "REF-0573",
-      "REF-0574"
+      "REF-0574",
+      "REF-1810",
+      "REF-3463"
      ]
     },
     {
      "condition": "pain",
      "label": "Pain (general)",
-     "evidence": 9,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0422",
       "REF-0573",
-      "REF-0574"
+      "REF-0574",
+      "REF-1810",
+      "REF-3463"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3464"
+     ]
+    },
+    {
+     "condition": "asthma",
+     "label": "Asthma",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3466"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3470"
+     ]
+    },
+    {
+     "condition": "diarrhea",
+     "label": "Diarrhoea",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3467"
+     ]
+    },
+    {
+     "condition": "heavy-bleeding",
+     "label": "Heavy menstrual bleeding",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3468"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3469"
      ]
     },
     {
@@ -2964,6 +3041,26 @@
      ]
     },
     {
+     "condition": "ibs",
+     "label": "Irritable bowel syndrome (IBS)",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3465"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3471"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -2974,14 +3071,6 @@
       "REF-2873",
       "REF-2876"
      ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     }
    ]
   },
@@ -11658,9 +11747,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0494"
-     ]
+     "references": []
     },
     {
      "condition": "cold",
@@ -11668,9 +11755,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0494"
-     ]
+     "references": []
     },
     {
      "condition": "respiratory-support",
@@ -11679,7 +11764,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0494"
+      "REF-0098"
      ]
     }
    ]
@@ -11694,13 +11779,14 @@
     {
      "condition": "wounds",
      "label": "Wounds",
-     "evidence": 8,
+     "evidence": 9,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0199",
       "REF-0752",
-      "REF-2125"
+      "REF-2125",
+      "REF-3477"
      ]
     },
     {
@@ -11716,6 +11802,29 @@
      ]
     },
     {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3472",
+      "REF-3473",
+      "REF-3474",
+      "REF-3475"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0754"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -11724,24 +11833,8 @@
      "references": []
     },
     {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -14081,6 +14174,61 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3482",
+      "REF-3480"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3481",
+      "REF-3480"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0045",
+      "REF-3478"
+     ]
+    },
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0045",
+      "REF-3480"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0045",
+      "REF-3484"
+     ]
+    },
+    {
      "condition": "cognitive-function",
      "label": "Cognitive function",
      "evidence": 5,
@@ -14091,16 +14239,6 @@
      ]
     },
     {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0045"
-     ]
-    },
-    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -14108,26 +14246,6 @@
      "inferred": true,
      "references": [
       "REF-1965"
-     ]
-    },
-    {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0045"
-     ]
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0045"
      ]
     },
     {
@@ -14855,25 +14973,49 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 6,
+     "condition": "memory",
+     "label": "Memory",
+     "evidence": 10,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0740",
-      "REF-0283"
+      "REF-0283",
+      "REF-3456",
+      "REF-3457",
+      "REF-3458"
      ]
     },
     {
-     "condition": "memory",
-     "label": "Memory",
-     "evidence": 6,
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 9,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0740",
-      "REF-0283"
+      "REF-0283",
+      "REF-2107"
+     ]
+    },
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0740"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0740"
      ]
     },
     {

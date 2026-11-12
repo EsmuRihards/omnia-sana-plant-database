@@ -89,6 +89,22 @@ def run(stem, ops, log, note, label):
                     raise SystemExit(f'{stem}/action {op[1]}: {r} not cited')
                 acts[0]['reference_ids'].remove(r); log.append(f'{stem}\taction:{op[1]}\t{r}\tarm')
             continue
+        if kind == 'aadd':  # ('aadd', action, [refs]): add verified refs to an existing action
+            acts = [a for a in d.get('actions', []) if a.get('action') == op[1]]
+            if not acts:
+                raise SystemExit(f'{stem}: no action {op[1]}')
+            for r in op[2]:
+                lst = acts[0].setdefault('reference_ids', [])
+                if r not in lst:
+                    lst.append(r)
+                log.append(f'{stem}\taction:{op[1]}\t{r}\taadd')
+            continue
+        if kind == 'refadd':  # ('refadd', [refs]): keep refs cited in the record's top-level references list
+            lst = d.setdefault('references', [])
+            for r in op[1]:
+                if r not in lst:
+                    lst.append(r)
+            log.append(f"{stem}\treferences\t{','.join(op[1])}\trefadd"); continue
         if kind == 'newpair':  # ('newpair', cond, [refs], note): a new SR/RCT-backed pair (owner rule 2026-11-12)
             if op[1] in ind:
                 raise SystemExit(f'{stem}: {op[1]} already exists')

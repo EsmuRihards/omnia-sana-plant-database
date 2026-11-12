@@ -1,0 +1,540 @@
+# Landmark search batch 3
+
+## asclepias-tuberosa (Asclepias tuberosa; Pleurisy Root) - 0 (+CT) hits; query: ("Asclepias tuberosa"[tiab] OR "Pleurisy Root"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## astragalus-membranaceus (Astragalus membranaceus; Astragalus) - 147 hits; query: ("Astragalus membranaceus"[tiab] OR "Astragalus"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42096355 | SR/MA | Systematic Review and Meta-Analysis of Herbal and Traditional Medicine-Derived Interventions for Sarcopenia and Exploration of Core Herbs.
+- new | 2026 | 42197058 | RCT | Astragalus membranaceus Modulates Inflammatory Markers Without Enhancing Muscle Function Following Intensified Resistance Training.
+- new | 2026 | 42216323 | SR | The clinical efficacy of Astragalus-containing Chinese patent medicines in the effective treatment of heart failure: A systematic review and network meta-analysis.
+- new | 2026 | 41493245 | SR | Astragalus membranaceus Extract as a Botanical Ingredient for Pigmentary and Anti-Aging Skincare: A Systematic Review.
+- new | 2026 | 41763617 | RCT | Efficacy and safety of medicine-food homology Shenqi paste in older adults with diabetic sarcopenia: A randomized, double-blind, placebo-controlled trial.
+- new | 2026 | 41683325 | RCT | Effects of Astragalus membranaceus and Panax notoginseng Saponins Extract on the Pharmacokinetics of Whey Protein Absorption, Intestinal Permeability, and Muscle Function
+- new | 2026 | 42147341 | SR | Efficacy of Yupingfeng powder in the treatment of bronchial asthma in adults: a systematic review and meta-analysis.
+- new | 2026 | 41328582 | MA/Review | Astragalus Polysaccharides Enhance Broiler Performance Through Antioxidant Modulation and Gut Health Improvement: A Meta-Analysis.
+- new | 2026 | 42078932 | SR | Does Astragalus mongholicus Bunge help promote the healing of wounds? A systematic review and meta-analysis of preclinical animal studies.
+- new | 2026 | 42356230 | RCT | Evaluation of the Effect of Astragalus membranaceus Saponins Administration on Knee Function and Cartilage Biomarkers in Healthy Subjects with Knee Discomfort.
+- new | 2025 | 40015687 | MA | Efficacy and potential pharmacological mechanism of Astragalus-Salvia miltiorrhiza combination in diabetic nephropathy: integrating meta-analysis, network pharmacology, m
+- new | 2025 | 41487528 | SR | Synergistic antitumor effects of astragalus polysaccharide: a preclinical systematic review and meta-analysis.
+- new | 2025 | 40302232 | SR/MA | Efficacy of Astragalus Membranaceus (Huang Qi) for Cancer-Related Fatigue: A Systematic Review and Meta-Analysis of Randomized Controlled Studies.
+- new | 2025 | 41306775 | SR | Astragalus polysaccharides combined with radiochemotherapy for cervical cancer: a systematic review and meta-analysis of randomized controlled studies.
+- new | 2025 | 41346690 | SR | A systematic review of Astragalus plants in the septentrional Algerian Sahara.
+- new | 2025 | 41286474 | SR/MA | Effects of TA-65 on telomere length, functional outcomes, and inflammation: a systematic review and meta-analysis.
+- new | 2025 | 39849152 | RCT | Jinbei oral liquid for idiopathic pulmonary fibrosis: a randomized placebo-controlled trial.
+- new | 2025 | 39754214 | SR/MA | Effect of Astragalus injection treatment for viral myocarditis: a systematic review and meta-analysis.
+- new | 2025 | 40823287 | SR | Intervention of Astragalus Membranaceus Extract in rats of spinal cord injury: a systematic review and meta-analysis.
+- new | 2025 | 40260854 | SR | Anti-fibrosis effect of astragaloside IV in animal models of cardiovascular diseases and its mechanisms: a systematic review.
+- new | 2025 | 41184148 | RCT | SHPro(®) (mixture of Angelica gigas and Astragalus membranaceus) in men with lower urinary tract symptoms: A randomized, double-blind, placebo-controlled clinical trial.
+- new | 2025 | 40208321 | SR/MA | Efficacy and safety of astragalus polysaccharides in patients with malignant tumors: A systematic review and meta-analysis.
+- new | 2025 | 41127514 | SR | Evaluating efficacy and mechanism of traditional Chinese medicine in diabetes treatment: a meta-analysis and network pharmacology study.
+- new | 2025 | 40527813 | SR/MA | Treatment of chronic urticaria with traditional Chinese medicine: A systematic review, meta-analysis, and medication regularity.
+- new | 2025 | 40890667 | SR | Molecular mechanisms of astragaloside-IV in hepatocellular carcinoma therapy: a systematic review.
+- new | 2025 | 40347927 | MA | Efficacy of Chinese herbal medicines combined with high-intensity focused ultrasound for patients with uterine fibroids: A meta-analysis with core herbs exploration.
+- new | 2025 | 39378530 | MA | Treating chronic pulmonary heart disease with traditional Chinese medicine: Systematic evaluation and mechanistic insights into the resolving phlegm and activating blood 
+- new | 2025 | 38834234 | RCT | Chronic fatigue syndrome post-COVID-19: triple-blind randomised clinical trial of Astragalus root extract.
+- new | 2024 | 39465324 | RCT | Astragalus polysaccharides improve adjuvant chemotherapy-induced fatigue for patients with early breast cancer.
+- new | 2024 | 38283626 | SR | Effect of Astragalus membranaceus on left ventricular remodeling in HFrEF: a systematic review and meta-analysis.
+- new | 2024 | 39770942 | SR | Potential Effects of Bioactive Compounds of Plant-Based Foods and Medicinal Plants in Chronic Kidney Disease and Dialysis: A Systematic Review.
+- new | 2024 | 38810556 | RCT | Add-on astragalus in type 2 diabetes and chronic kidney disease: A multi-center, assessor-blind, randomized controlled trial.
+- new | 2024 | 39165261 | SR | Effect of astragalus injection on left ventricular remodeling in HFmrEF: a systematic review and meta-analysis.
+- new | 2024 | 38733903 | MA/SR | Renal protective effects and mechanisms of Astragalus membranaceus for diabetic kidney disease in animal models: An updated systematic review and meta-analysis.
+- new | 2024 | 37433206 | MA/SR | The Efficacy and Safety of Astragalus as an Adjuvant Treatment for Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis.
+- new | 2024 | 38836372 | SR/MA | Efficacy of astragalus combined with renin-angiotensin-aldosterone system blockers in the treatment of stage III diabetic nephropathy: a systematic review and meta-analys
+- new | 2024 | 37722514 | MA/SR | Efficacy and potential mechanisms of the main active ingredients of astragalus mongholicus in animal models of liver fibrosis: A systematic review and meta-analysis.
+- new | 2024 | 39064530 | SR | Systematic Review of Preclinical Studies on the Efficacy and Mechanisms of Herbal Medicines in Post-Myocardial Infarction Heart Failure with Reduced Ejection Fraction.
+- new | 2024 | 40061256 | SR | Astragalus-containing Chinese herbal medicine used with Western medicine for lupus nephritis: a systematic review and meta-analysis of randomized controlled trials.
+- new | 2024 | 38211824 | MA/SR | Efficacy and safety of traditional plant-based medicines for preventing chronic oxaliplatin-induced peripheral neurotoxicity in patients with colorectal cancer: A systema
+- new | 2024 | 39275278 | RCT | A Natural Astragalus-Based Nutritional Supplement Lengthens Telomeres in a Middle-Aged Population: A Randomized, Double-Blind, Placebo-Controlled Study.
+- new | 2023 | 37274344 | MA/Review | Systematic evaluation of combined herbal adjuvant therapy for proliferative diabetic retinopathy.
+- new | 2023 | 36862887 | SR/MA | Astragalus membranaceus formula for moderate-high risk idiopathic membranous nephropathy: A meta-analysis.
+- new | 2023 | 37856796 | MA/SR | Meta-analysis of Huangqi (Astragalus membranaceus) and Chinese Yam (Rhizoma Dioscoreae) for Diabetic Nephropathy.
+- new | 2023 | 38087032 | MA/SR | The combination of astragalus injection and ambroxol hydrochloride in the adjuvant treatment of COPD: a systematic review and meta-analysis.
+- new | 2023 | 37952511 | MA/SR | The Effect of Astragalus on Humoral and Cellular Immune Response: A Systematic Review and Meta-Analysis of Human Studies.
+- new | 2023 | 36332761 | SR | Pharmacological mechanism and clinical study of Qiming granules in treating diabetic retinopathy based on network pharmacology and literature review.
+- new | 2023 | 37432344 | SR | Changes in the Gut Microbiota after the Use of Herbal Medicines in Overweight and Obese Individuals: A Systematic Review.
+- new | 2022 | 35694252 | SR | Recent Advances in Clinical Diagnosis and Pharmacotherapy Options of Membranous Nephropathy.
+- new | 2022 | 35086031 | SR | A critical review of Astragalus polysaccharides: From therapeutic mechanisms to pharmaceutics.
+- new | 2022 | 36115170 | MA/SR | Effect of Astragalus injection on inflammatory mediators in patients with viral myocarditis: A systematic review and meta-analysis.
+- new | 2022 | 35547210 | SR | Efficacy of Huangqi Injection in the Treatment of Hypertensive Nephropathy: A Systematic Review and Meta-Analysis.
+- new | 2022 | 36086738 | MA/SR | Efficacy of astragalus in the treatment of radiation-induced lung injury based on traditional Chinese medicine: A systematic review and meta-analysis of 25 RCTs.
+- new | 2022 | 36532736 | SR | Anti-inflammatory and antioxidant activity of astragalus polysaccharide in ulcerative colitis: A systematic review and meta-analysis of animal studies.
+- new | 2022 | 35960075 | RCT | Preventing effect of astragalus polysaccharide on cardiotoxicity induced by chemotherapy of epirubicin: A pilot study.
+- new | 2022 | 35119030 | SR | Network pharmacology-based identification of miRNA expression of Astragalus membranaceus in the treatment of diabetic nephropathy.
+- new | 2021 | 34422628 | SR | Efficacy and Safety of Astragalus-Containing Traditional Chinese Medicine Combined With Platinum-Based Chemotherapy in Advanced Gastric Cancer: A Systematic Review and Me
+- new | 2021 | 33068651 | SR | A review on the chemical profiles, quality control, pharmacokinetic and pharmacological properties of Fufang Xueshuantong Capsule.
+- new | 2021 | 34271953 | RCT | Standardized astragalus extract for attenuation of the immunosuppression induced by strenuous physical exercise: randomized controlled trial.
+- new | 2021 | 33869014 | SR | Efficacy of Herbal Medicines Intervention for Colorectal Cancer Patients With Chemotherapy-Induced Gastrointestinal Toxicity - a Systematic Review and Meta-Analysis.
+- new | 2021 | 34044079 | SR | A systematic review on Zhilong Huoxue Tongyu capsule in treating cardiovascular and cerebrovascular diseases: Pharmacological actions, molecular mechanisms and clinical o
+- HELD REF-2259 | 2020 | 33204391 | SR | Clinical and Preclinical Systematic Review of Astragalus Membranaceus for Viral Myocarditis.
+- HELD REF-2261 | 2020 | 31440984 | SR | Adjuvant therapy with Astragalus membranaceus for post-stroke fatigue: a systematic review.
+- new | 2020 | 33148008 | MA/SR | Chinese Herbal Medicine in Treatment of Spinal Cord Injury: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2020 | 32345031 | SR | The Role of Th17/Treg Axis in the Traditional Chinese Medicine Intervention on Immune-Mediated Inflammatory Diseases: A Systematic Review.
+- new | 2020 | 32597691 | RCT | Effect of Chinese Herbal Compound LC09 on Patients With Capecitabine-Associated Hand-Foot Syndrome: A Randomized, Double-Blind, and Parallel-Controlled Trial.
+- new | 2020 | 31728618 | RCT | Incorporation of Astragalus polysaccharides injection during concurrent chemoradiotherapy in advanced pharyngeal or laryngeal squamous cell carcinoma: preliminary experie
+- new | 2019 | 31034954 | MA/SR | Astragalus membranaceus (Huang Qi) as adjunctive therapy for diabetic kidney disease: An updated systematic review and meta-analysis.
+- new | 2019 | 30882655 | MA/SR | Evidence of Astragalus injection combined platinum-based chemotherapy in advanced nonsmall cell lung cancer patients: A systematic review and meta-analysis.
+- new | 2019 | 31008964 | SR | The clinical efficacy and safety of the Chinese herbal medicine Astragalus (Huangqi) preparation for the treatment of acute myocardial infarction: A systematic review of 
+- new | 2019 | 31025385 | RCT | Comparative pharmacokinetic study on three formulations of Astragali Radix by an LC-MS/MS method for determination of formononetin in human plasma.
+- new | 2019 | 31456940 | SR | Meta-Analysis of Astragalus-Containing Traditional Chinese Medicine Combined With Chemotherapy for Colorectal Cancer: Efficacy and Safety to Tumor Response.
+- new | 2019 | 30207235 | MA/SR | Astragaloside IV Supplementation Promotes A Neuroprotective Effect in Experimental Models of Neurological Disorders: A Systematic Review.
+- new | 2018 | 29546832 | RCT | TA-65, A Telomerase Activator improves Cardiovascular Markers in Patients with Metabolic Syndrome.
+- new | 2018 | 30231484 | RCT | Repressed Exercise-Induced Hepcidin Levels after Danggui Buxue Tang Supplementation in Male Recreational Runners.
+- new | 2018 | 29130588 | RCT | Effects of Astragalus Extract Mixture HT042 on Height Growth in Children with Mild Short Stature: A Multicenter Randomized Controlled Trial.
+- new | 2018 | 29483384 | RCT | Astragalus Membranaceus Improving Asymptomatic Left Ventricular Diastolic Dysfunction in Postmenopausal Hypertensive Women with Metabolic Syndrome: A Prospective, Open-La
+- new | 2017 | 29250558 | MA/Review | Are the Therapeutic Effects of Huangqi (Astragalus membranaceus) on Diabetic Nephropathy Correlated with Its Regulation of Macrophage iNOS Activity?
+- new | 2017 | 28361971 | RCT | PG2 for patients with acute spontaneous intracerebral hemorrhage: a double-blind, randomized, placebo-controlled study.
+- new | 2017 | 27868250 | RCT | Effects of Astragalus membranaceus, Codonopsis pilosula and allicin mixture on growth performance, nutrient digestibility, faecal microbial shedding, immune response and 
+- new | 2016 | 27905672 | SR | Oral Astragalus (Huang qi) for preventing frequent episodes of acute respiratory tract infection in children.
+- new | 2016 | 26912094 | MA/SR | Integrative Medicine for Relief of Nausea and Vomiting in the Treatment of Colorectal Cancer Using Oxaliplatin-Based Chemotherapy: A Systematic Review and Meta-Analysis.
+- new | 2016 | 27269392 | MA/Review | The effect of Astragalus as an adjuvant treatment in type 2 diabetes mellitus: A (preliminary) meta-analysis.
+- new | 2016 | 30641621 | RCT | [Astragalus Granule Combined Auricular Point Sticking for Cough Variant Asthma in Children].
+- new | 2016 | 27773802 | RCT | Effects of the traditional Chinese herb Astragalus membranaceus in patients with poststroke fatigue: A double-blind, randomized, controlled preliminary study.
+- new | 2015 | 25723453 | SR | Biological active ingredients of traditional Chinese herb Astragalus membranaceus on treatment of diabetes: a systematic review.
+- HELD REF-0586 | 2014 | 25335553 | MA/SR | Astragalus (a traditional Chinese medicine) for treating chronic kidney disease.
+- new | 2014 | 25098261 | MA/SR | Astragalus membranaceus injection combined with conventional treatment for viral myocarditis: a systematic review of randomized controlled trials.
+- new | 2014 | 24343974 | MA/SR | FOLFOX 4 combined with herbal medicine for advanced colorectal cancer: a systematic review.
+- new | 2014 | 24622390 | SR | Oral Chinese herbal medicine combined with pharmacotherapy for stable COPD: a systematic review of effect on BODE index and six minute walk test.
+- new | 2013 | 23986406 | MA/SR | Herbal medicines for viral myocarditis.
+- new | 2013 | 24349444 | MA/SR | The clinical value of Huangqi injection in the treatment of leucopenia: a meta-analysis of clinical controlled trials.
+- new | 2013 | 24432670 | RCT | [Treatment of severe active systemic lupus erythematosus by PMC therapy combined langchuang fuzheng jiedu capsule: a clinical observation].
+- new | 2013 | 23243245 | RCT | Effects of Astragalus membranaceus root processed to different particle sizes on growth performance, antioxidant status, and serum metabolites of broiler chickens.
+- new | 2012 | 23152220 | MA/SR | Herbal medicines for viral myocarditis.
+- new | 2012 | 22309959 | RCT | A novel infusible botanically-derived drug, PG2, for cancer-related fatigue: a phase II double-blind, randomized placebo-controlled study.
+- new | 2012 | 21928106 | RCT | Astragalus polysaccharide injection integrated with vinorelbine and cisplatin for patients with advanced non-small cell lung cancer: effects on quality of life and surviv
+- new | 2011 | 20951192 | MA | Meta-analysis of the clinical value of Astragalus membranaceus in diabetic nephropathy.
+- new | 2011 | 20607528 | RCT | The protective effects of the traditional Chinese herbs against renal damage induced by extracorporeal shock wave lithotripsy: a clinical study.
+- new | 2011 | 21812263 | RCT | [Intervention of astragalus injection on the kidney injury after cardiopulmonary bypass of infants with congenital heart disease].
+- new | 2011 | 21390582 | RCT | Clinical effect of Astragalus granule of different dosages on quality of life in patients with chronic heart failure.
+- new | 2011 | 21910341 | RCT | [Clinical study of astragalus's preventing the recurrence of asthma in children].
+- new | 2010 | 20614436 | SR | Herbal medicines for viral myocarditis.
+- new | 2010 | 19504468 | RCT | Efficacy and safety of Astragalus membranaceus in the treatment of patients with seasonal allergic rhinitis.
+- new | 2010 | 20929124 | RCT | [Effects of astragalus on cardiac function and serum tumor necrosis factor-alpha level in patients with chronic heart failure].
+- new | 2009 | 19735713 | SR | Systematic review of the renal protective effect of Astragalus membranaceus (root) on diabetic nephropathy in animal models.
+- new | 2009 | 19526755 | RCT | [Effects of astragalus injection on renal function in patients after cardiac valve replacement with cardiopulmonary bypass].
+- new | 2009 | 19398067 | RCT | Myelophil, an extract mix of Astragali Radix and Salviae Radix, ameliorates chronic fatigue: a randomised, double-blind, controlled pilot study.
+- new | 2009 | 19211520 | RCT | Synergy of Astragalus polysaccharides and probiotics (Lactobacillus and Bacillus cereus) on immunity and intestinal microbiota in chicks.
+- new | 2009 | 19526753 | RCT | [Effect of compound astragalus recipe on lymphocyte subset, immunoglobulin and complements in patients with myasthenia gravia].
+- new | 2008 | 18655554 | RCT | [Effect of Astragalus on cytokines in patients undergoing heart valve replacement].
+- new | 2008 | 18568789 | RCT | A randomized, double-blind, placebo-controlled study of the effect of a Chinese herbal medicine preparation (Dang Gui Buxue Tang) on menopausal symptoms in Hong Kong Chin
+- new | 2007 | 17661330 | RCT | The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD25 expression in humans: a pilot study.
+- new | 2007 | 17609906 | RCT | Clinical study on effect of Astragalus Injection and its immuno-regulation action in treating chronic aplastic anemia.
+- new | 2007 | 17666348 | RCT | [Integrated treatment of traditional Chinese medicine and western medicine for early- and intermediate-stage diabetic nephropathy].
+- new | 2007 | 17498486 | RCT | [Effect of intravenous drip infusion of cyclophosphamide with high-dose Astragalus injection in treating lupus nephritis].
+- new | 2006 | 16841664 | RCT | [Effects of Astragalus injection on renal tubular function in patients with IgA nephropathy].
+- new | 2006 | 16571280 | RCT | Effect of astragalus injection on serious abdominal traumatic patients' cellular immunity.
+- new | 2006 | 16421421 | MA | Astragalus-based Chinese herbs and platinum-based chemotherapy for advanced non-small-cell lung cancer: meta-analysis of randomized trials.
+- new | 2005 | 16181532 | RCT | [Effect of Astragalus injection on plasma levels of apoptosis-related factors in aged patients with chronic heart failure].
+- new | 2004 | 15266498 | SR | Herbal medicines for viral myocarditis.
+- new | 2004 | 15307694 | Clinical Trial/RCT | [Clinical observation on treatment of diabetic nephropathy with compound fructus arctii mixture].
+- new | 2004 | 15706857 | Clinical Trial/RCT | [Effects of Astragalus and saponins of Panax notoginseng on MMP-9 in patients with type 2 diabetic macroangiopathy].
+- new | 2004 | 15015443 | Clinical Trial/RCT | [Modulatory effect of Astragalus membranaceus on Th1/Th2 cytokine in patients with herpes simplex keratitis].
+- new | 2003 | 12800417 | Clinical Trial/RCT | [Effect of astragalus injection on immune function in patients with congestive heart failure].
+- new | 2003 | 14626183 | Clinical Trial/RCT | [Effect of astragalus injection combined with chemotherapy on quality of life in patients with advanced non-small cell lung cancer].
+- new | 2003 | 14626197 | Clinical Trial/RCT | [Effect of Astragalus injection on insulin resistance in auxiliary treating patients with diabetes mellitus type 2].
+- new | 2002 | 12592686 | Clinical Trial/RCT | [Clinical study on effect of Astragalus in efficacy enhancing and toxicity reducing of chemotherapy in patients of malignant tumor].
+- new | 2002 | 12584831 | Clinical Trial/RCT | [Clinical study on effect of Astragalus injection on left ventricular remodeling and left ventricular function in patients with acute myocardial infarction].
+- new | 2001 | 11406038 | SR | Chinese medicinal herbs for asymptomatic carriers of hepatitis B virus infection.
+- new | 2001 | 12575607 | Clinical Trial/RCT | [Study on effect of Astragalus injection in treating congestive heart failure].
+- new | 2001 | 12577349 | Clinical Trial/RCT | [Observation on collaborative treatment of dilated cardiomyopathy].
+- new | 2001 | 12577419 | Clinical Trial/RCT | [Observation on effect of supplementary treatment by Astragalus injection in treating senile pulmonary tuberculosis patients].
+- new | 2001 | 12577356 | Clinical Trial/RCT | [Effect of Astragalus injection on platelet function and plasma endothelin in patients with early stage diabetic nephropathy].
+- new | 2001 | 12575608 | Clinical Trial/RCT | [Effect of Astragalus saponin on vascular endothelial cell and its function in burn patients].
+- new | 2001 | 12577420 | Clinical Trial/RCT | [Influence of Salvia miltiorrhizae and Astragalus membranaceus on hemodynamics and liver fibrosis indexes in liver cirrhotic patients with portal hypertension].
+- new | 2000 | 11789206 | Clinical Trial/RCT | [Clinical study of Astragalus injection plus ligustrazine in protecting myocardial ischemia reperfusion injury].
+- new | 2000 | 11789260 | Clinical Trial/RCT | [Comparison on efficacy in treating liver fibrosis of chronic hepatitis B between Astragalus Polygonum anti-fibrosis decoction and jinshuibao capsule].
+- new | 1999 | 10584999 | Clinical Trial/RCT | Effects of astragalus on IL-2/IL-2R system in patients with maintained hemodialysis.
+- new | 1996 | 9772585 | Clinical Trial/RCT | [A study on combination therapy of Western and traditional Chinese medicine of acute viral myocarditis].
+- new | 1995 | 7747908 | Clinical Trial/RCT | Effects of compound injection of Pyrola rotundifolia L and Astragalus membranaceus Bge on experimental guinea pigs' gentamicin ototoxicity.
+- new | 1995 | 7549379 | Clinical Trial/RCT | [Effect of Astragalus membranaceus on T-lymphocyte subsets in patients with viral myocarditis].
+- new | 1995 | 8580691 | Clinical Trial/RCT | [Treatment of leucopenia with pure Astragalus preparation--an analysis of 115 leucopenic cases].
+- new | 1994 | 7950180 | Clinical Trial/RCT | [Effect of jian yan ling on serum lipids, apoprotein and lipoprotein-a].
+- new | 1991 | 1659497 | Clinical Trial/RCT | [Clinical and experimental study of the effect of kang er xin-I on viral myocarditis].
+- new | 1991 | 1667511 | Clinical Trial/RCT | [Effect of Astragalus membranaceus on erythrocyte sodium content and sodium transport in the coronary heart disease].
+- new | 1990 | 2397543 | Clinical Trial/RCT | [Preliminary study of traditional Chinese medicine treatment of minimal brain dysfunction: analysis of 100 cases].
+
+## bacopa-monnieri (Bacopa monnieri; Water Hyssop) - 35 (+CT) hits; query: ("Bacopa monnieri"[tiab] OR "Water Hyssop"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41678913 | SR | Comparative effects of Bacopa monnieri and Ginkgo biloba on cognitive functions: A systematic review and network meta-analysis.
+- new | 2026 | 42102930 | RCT | Neurometabolite changes in cingulate cortex regions in healthy Indian population and effect of Bacopa monnieri intervention: a H(1) MRS study.
+- new | 2026 | 42404568 | Clinical Trial | Changes in MoCA scores with sequential administration of Trikatu Cūrṇa and Brahmi Ghṛta in mild cognitive impairment: an exploratory single-arm clinical study.
+- new | 2025 | 40362791 | SR | Efficiency of Different Supplements in Alleviating Symptoms of ADHD with or Without the Use of Stimulants: A Systematic Review.
+- new | 2025 | 39498770 | SR | Effectiveness of Bacopa Monnieri (Brahmi) in the management of schizophrenia: a systematic review.
+- new | 2025 | 41640686 | SR | The effect of plant active substances on cognitive function in healthy older adults: a systematic review and network meta-analysis of randomized controlled trials.
+- new | 2025 | 40077768 | SR | Exploring Antioxidant Properties of Standardized Extracts from Medicinal Plants Approved by the Thai FDA for Dietary Supplementation.
+- new | 2025 | 41091332 | RCT | The Effects of a Bacopa monnieri Extract (Bacumen(®)) on Cognition, Stress, and Fatigue in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Trial.
+- new | 2024 | 38538390 | RCT | Evaluating the effects of Bacopa monnieri on cognitive performance and sleep quality of patients with mild cognitive impairment: A triple-blinded, randomized, placebo-con
+- new | 2024 | 38512715 | RCT | Neurocognitive effects a combined polyphenolic-rich herbal extract in healthy middle-aged adults - a randomised, double-blind, placebo-controlled study.
+- new | 2024 | 39212516 | SR | Therapeutic Evaluation of Unani Medicine, Including Single Drugs and Polyherbal Formulations with Special Reference to Neurodegenerative Disorders.
+- HELD REF-0741 | 2023 | 34978226 | SR | Plant-derived nootropics and human cognition: A systematic review.
+- new | 2023 | 36800346 | RCT | Bacopa monnieri in Patients with Parkinson's Disease: A Pilot Study.
+- new | 2023 | 37592293 | SR | A systematic review of the safety and efficacy on cognitive function of herbal and nutritional medicines in older adults with and without subjective cognitive impairment.
+- new | 2022 | 35592415 | SR | Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis.
+- new | 2022 | 35041248 | RCT | Effects of Bacopa monnieri (CDRI 08®) in a population of males exhibiting inattention and hyperactivity aged 6 to 14 years: A randomized, double-blind, placebo-controlled
+- new | 2022 | 33650944 | SR | Modulation of the hypothalamic-pituitary-adrenal (HPA) axis by plants and phytonutrients: a systematic review of human trials.
+- new | 2021 | 34370563 | SR | Dietary Supplement Ingredients for Optimizing Cognitive Performance Among Healthy Adults: A Systematic Review.
+- new | 2021 | 34063409 | RCT | Characterization of Metabolites in Plasma, Urine and Feces of Healthy Participants after Taking Brahmi Essence for Twelve Weeks Using LC-ESI-QTOF-MS Metabolomic Approach.
+- new | 2020 | 32236999 | RCT | Bacopa monnieri as augmentation therapy in the treatment of anhedonia, preclinical and clinical evaluation.
+- new | 2019 | 30610931 | SR | Herbal medicine for epilepsy seizures in Asia, Africa and Latin America: A systematic review.
+- new | 2018 | 29289576 | SR | Botanicals and phytochemicals active on cognitive decline: The clinical evidence.
+- new | 2017 | 29188854 | RCT | Short-Term Impact of a Combined Nutraceutical on Cognitive Function, Perceived Stress and Depression in Young Elderly with Cognitive Impairment: A Pilot, Double-Blind, Ra
+- new | 2016 | 27912958 | SR | A systematic review of the Ayurvedic medicinal herb Bacopa monnieri in child and adolescent populations.
+- new | 2015 | 26633481 | RCT | A Randomized Controlled Trial Investigating the Effects of a Special Extract of Bacopa monnieri (CDRI 08) on Hyperactivity and Inattention in Male Children and Adolescent
+- HELD REF-2107 | 2014 | 24252493 | MA/Review | Meta-analysis of randomized controlled trials on cognitive effects of Bacopa monnieri extract.
+- new | 2014 | 23788517 | RCT | An acute, double-blind, placebo-controlled cross-over study of 320 mg and 640 mg doses of Bacopa monnieri (CDRI 08) on multitasking stress reactivity and mood.
+- new | 2014 | 25316430 | RCT | Management of cognitive determinants in senile dementia of Alzheimer's type: therapeutic potential of a novel polyherbal drug product.
+- new | 2014 | 24682000 | Clinical Trial | An open-label study to elucidate the effects of standardized Bacopa monnieri extract in the management of symptoms of attention-deficit hyperactivity disorder in children
+- new | 2013 | 23281132 | RCT | An acute, double-blind, placebo-controlled crossover study of 320 mg and 640 mg doses of a special extract of Bacopa monnieri (CDRI 08) on sustained cognitive performance
+- new | 2012 | 22390677 | RCT | A randomized controlled trial investigating the effect of Pycnogenol and Bacopa CDRI08 herbal medicines on cognitive, cardiovascular, and biochemical functioning in cogni
+- new | 2012 | 22747190 | SR | The cognitive-enhancing effects of Bacopa monnieri: a systematic review of randomized, controlled human clinical trials.
+- new | 2010 | 20590480 | RCT | Does Bacopa monnieri improve memory performance in older persons? Results of a randomized, placebo-controlled, double-blind trial.
+- HELD REF-0740 | 2008 | 18611150 | RCT | Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly: a randomized, double-blind, placebo-controlled trial.
+- new | 2002 | 12093601 | Clinical Trial/RCT | Chronic effects of Brahmi (Bacopa monnieri) on human memory.
+
+## betula-pendula (Betula pendula; Birch) - 93 hits; query: ("Betula pendula"[tiab] OR "Birch"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42695588 | RCT | Pre-Seasonal Treatment With Recombinant Carrier-Based Birch Vaccine Improves Birch Pollen Allergy.
+- new | 2026 | 42205007 | RCT | Long-Term Efficacy and Safety of Oleogel-S10 (Birch Triterpenes) for Pediatric Patients With Epidermolysis Bullosa.
+- new | 2026 | 42080418 | RCT | Kinetics of Antibody Responses and Effector Cell Sensitivity After High Dose Birch Extract Nasal Challenge.
+- new | 2026 | 42057631 | RCT | Sustained Clinical Improvement in Birch Pollen Allergy After Two Pre-Seasonal Short Courses of Allergen-Specific Immunotherapy: A Long-Term Open-Label Extension Study.
+- new | 2026 | 41728746 | RCT | A One-Strength Dose Escalation Regimen for Birch Pollen Subcutaneous Immunotherapy Is Safe and Tolerable in Children, Adolescents, and Adults.
+- new | 2026 | 40328230 | RCT | Determining the Threshold Concentration of Birch Pollen for Inducing Allergic Symptoms Using an Allergen Challenge Chamber.
+- new | 2026 | 41565160 | RCT | SARS-CoV-2 resistance analyses from the Phase 3 BIRCH study of obeldesivir in high-risk nonhospitalized participants with COVID-19.
+- new | 2026 | 40694627 | RCT | Efficacy and Safety of Obeldesivir in High-Risk Nonhospitalized Patients With COVID-19 (BIRCH): A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study.
+- new | 2025 | 39532189 | RCT | Low-dose IL-2 in birch pollen allergy: A phase-2 randomized double-blind placebo-controlled trial.
+- new | 2025 | 39520181 | RCT | Short-course subcutaneous treatment with birch pollen allergoids greatly improves symptom and medication scores in birch allergy.
+- new | 2025 | 39821055 | RCT | Long-term safety and efficacy of Oleogel-S10 (birch bark extract) in epidermolysis bullosa: 24-month results from the phase III EASE study.
+- new | 2024 | 39748581 | RCT | Filsuvez(®) (Birch Triterpenes) Topical Gel.
+- new | 2024 | 37822222 | RCT | A randomized, double-blind, placebo-controlled trial with mannan-conjugated birch pollen allergoids.
+- new | 2023 | 36689495 | RCT | Efficacy and safety of Oleogel-S10 (birch triterpenes) for epidermolysis bullosa: results from the phase III randomized double-blind phase of the EASE study.
+- new | 2023 | 37489655 | MA/Review | Pharmacotherapy and immunotherapy of allergic rhinitis induced by house dust mite, grass, and birch pollen allergens: a meta-analysis of randomized clinical trials.
+- new | 2023 | 37013723 | RCT | Intralymphatic immunotherapy with birch and grass pollen extracts. A randomized double-blind placebo-controlled clinical trial.
+- new | 2023 | 36102274 | RCT | Peptide epitopes as biomarkers of soya sensitization in rBet v 1 immunotherapy of birch-related soya allergy.
+- new | 2023 | 37843385 | RCT | A 5-Year Open-Label Follow-up of a Randomized Double-Blind Placebo-Controlled Trial of Intralymphatic Immunotherapy for Birch and Grass Allergy Reveals Long-term Benefici
+- new | 2022 | 35332591 | RCT | Intralymphatic immunotherapy with one or two allergens renders similar clinical response in patients with allergic rhinitis due to birch and grass pollen.
+- new | 2022 | 35378542 | RCT | Microarray Analysis Confirms ImmunoCAP-Fluorescence Enzyme Immunoassay Results on Specific IgE in Patients with Atopic Dermatitis and Suspected Birch Pollen-Related Food 
+- new | 2022 | 34126156 | RCT | Novel antibody cocktail targeting Bet v 1 rapidly and sustainably treats birch allergy symptoms in a phase 1 study.
+- new | 2021 | 33919631 | RCT | Birch Pollen Related Pear Allergy: A Single-Blind Oral Challenge TRIAL with 2 Pear Cultivars.
+- new | 2020 | 32596297 | RCT | Different Development Forms of Local Allergic Rhinitis towards Birch.
+- new | 2019 | 31581605 | RCT | Agaricus blazei-Based Mushroom Extract Supplementation to Birch Allergic Blood Donors: A Randomized Clinical Trial.
+- new | 2019 | 30730274 | RCT | Fast up-dosing with a birch allergoid is safe and well tolerated in allergic rhinitis patients with or without asthma.
+- new | 2019 | 30471304 | RCT | Vaccination of nonallergic individuals with recombinant hypoallergenic fragments of birch pollen allergen Bet v 1: Safety, effects, and mechanisms.
+- new | 2019 | 30229939 | RCT | A birch sublingual allergy immunotherapy tablet reduces rhinoconjunctivitis symptoms when exposed to birch and oak and induces IgG(4) to allergens from all trees in the b
+- new | 2019 | 30508538 | RCT | Sublingual allergen immunotherapy with a liquid birch pollen product in patients with seasonal allergic rhinoconjunctivitis with or without asthma.
+- new | 2019 | 30570787 | RCT | Efficacy and safety of birch pollen allergoid subcutaneous immunotherapy: A 2-year double-blind, placebo-controlled, randomized trial plus 1-year open-label extension.
+- new | 2018 | 29779247 | RCT | Randomized controlled trials define shape of dose response for Pollinex Quattro Birch allergoid immunotherapy.
+- new | 2018 | 29273130 | RCT | Efficacy and safety of birch pollen immunotherapy for local allergic rhinitis.
+- new | 2018 | 29908212 | RCT | Intralymphatic immunotherapy with 2 concomitant allergens, birch and grass: A randomized, double-blind, placebo-controlled trial.
+- new | 2018 | 29432967 | RCT | Lack of effect of Timothy grass pollen sublingual immunotherapy tablet on birch pollen-induced allergic rhinoconjunctivitis in an environmental exposure unit.
+- new | 2018 | 28870463 | RCT | Efficacy and safety of 4 months of sublingual immunotherapy with recombinant Mal d 1 and Bet v 1 in patients with birch pollen-related apple allergy.
+- new | 2017 | 27998002 | RCT | BASALIT trial: double-blind placebo-controlled allergen immunotherapy with rBet v 1-FV in birch-related soya allergy.
+- new | 2017 | 28380494 | RCT | Accelerated Up-Dosing of Subcutaneous Immunotherapy with a Registered Allergoid Birch Pollen Preparation.
+- new | 2017 | 27720602 | RCT | Evaluating the efficacy of epinastine ophthalmic solution using a conjunctivitis allergen challenge model in patients with birch pollen allergic conjunctivitis.
+- new | 2016 | 26417901 | RCT | A randomized DBPC trial to determine the optimal effective and safe dose of a SLIT-birch pollen extract for the treatment of allergic rhinitis: results of a phase II stud
+- new | 2015 | 25846209 | RCT | Development and evaluation of a sublingual tablet based on recombinant Bet v 1 in birch pollen-allergic patients.
+- new | 2014 | 24092275 | RCT | Solidago, orthosiphon, birch and cranberry extracts can decrease microbial colonization and biofilm development in indwelling urinary catheter: a microbiologic and ultras
+- new | 2013 | 23991896 | RCT | Depigmented-polymerized mixed grass/birch pollen extract immunotherapy is effective in polysensitized patients.
+- new | 2013 | 23989878 | RCT | Influence of experience on intake and feeding behavior of dairy sheep when offered forages from woody plants in a multiple-choice situation.
+- new | 2013 | 23141837 | RCT | The contribution of sublingual immunotherapy to the achievement of control in birch-related mild persistent asthma: a real-life randomised trial.
+- new | 2012 | 22070352 | RCT | Continuous apple consumption induces oral tolerance in birch-pollen-associated apple allergy.
+- new | 2011 | 21196761 | RCT | Birch pollen honey for birch pollen allergy--a randomized controlled pilot study.
+- new | 2011 | 20933256 | RCT | Effect of birch pollen-specific immunotherapy on birch pollen-related hazelnut allergy.
+- new | 2011 | 21832831 | RCT | Birch-apple syndrome treated with birch pollen immunotherapy.
+- new | 2010 | 20642579 | RCT | Efficacy, safety, and immunological effects of a 2-year immunotherapy with Depigoid birch pollen extract: a randomized, double-blind, placebo-controlled study.
+- new | 2010 | 20461969 | RCT | Randomized open comparison of montelukast and sublingual immunotherapy as add-on treatment in moderate persistent asthma due to birch pollen.
+- new | 2009 | 19598302 | RCT | Specific probiotics alleviate allergic rhinitis during the birch pollen season.
+- new | 2009 | 20085600 | RCT | Immunotherapy with a modified birch pollen extract in allergic rhinoconjunctivitis: clinical and immunological effects.
+- new | 2008 | 19000581 | RCT | Efficacy of recombinant birch pollen vaccine for the treatment of birch-allergic rhinoconjunctivitis.
+- new | 2008 | 18510696 | RCT | A double-blind placebo-controlled birch allergy vaccination study II: correlation between inhibition of IgE binding, histamine release and facilitated allergen presentati
+- new | 2008 | 18564326 | RCT | Clinical effects of immunotherapy with genetically modified recombinant birch pollen Bet v 1 derivatives.
+- new | 2008 | 18167173 | RCT | Immunological and metabolic effects of cis-9, trans-11-conjugated linoleic acid in subjects with birch pollen allergy.
+- new | 2008 | 18450119 | RCT | Effect of Lactobacillus rhamnosus GG on rBet v1 and rMal d1 specific IgA in the saliva of patients with birch pollen allergy.
+- new | 2007 | 17292956 | RCT | Vaccination with genetically modified birch pollen allergens: immune and clinical effects on oral allergy syndrome.
+- new | 2007 | 17523385 | RCT | Comparison of efficacy, safety and immunologic effects of subcutaneous and sublingual immunotherapy in birch pollinosis: a randomized study.
+- new | 2005 | 16103688 | Clinical Trial/RCT | Cytokine and antibody responses in birch-pollen-allergic patients treated with genetically modified derivatives of the major birch pollen allergen Bet v 1.
+- new | 2005 | 15940132 | Clinical Trial/RCT | Clinical, functional, and immunologic effects of sublingual immunotherapy in birch pollinosis: a 3-year randomized controlled study.
+- new | 2004 | 15508179 | Clinical Trial/RCT | Food allergy to apple and specific immunotherapy with birch pollen.
+- new | 2004 | 14674933 | Clinical Trial/RCT | Clinical efficacy of sublingual and subcutaneous birch pollen allergen-specific immunotherapy: a randomized, placebo-controlled, double-blind, double-dummy study.
+- new | 2004 | 15005736 | Clinical Trial/RCT | A double-blind, placebo-controlled birch allergy vaccination study: inhibition of CD23-mediated serum-immunoglobulin E-facilitated allergen presentation.
+- new | 2004 | 14674937 | Clinical Trial/RCT | Allergen specific immunotherapy attenuates early and late phase reactions in lower airways of birch pollen asthmatic patients: a double blind placebo-controlled study.
+- new | 2004 | 15144469 | Clinical Trial/RCT | Efficacy of birch-pollen immunotherapy on cross-reactive food allergy confirmed by skin tests and double-blind food challenges.
+- new | 2003 | 12573207 | Clinical Trial/RCT | A pre-seasonal birch/hazel sublingual immunotherapy can improve the outcome of grass pollen injective treatment in bisensitized individuals. A case-referent, two-year con
+- new | 2002 | 11906339 | Clinical Trial/RCT | No effect of oral treatment with an intestinal bacterial strain, Lactobacillus rhamnosus (ATCC 53103), on birch-pollen allergy: a placebo-controlled double-blind study.
+- new | 2002 | 11906359 | Clinical Trial/RCT | The safety and efficacy of subcutaneous birch pollen immunotherapy - a one-year, randomised, double-blind, placebo-controlled study.
+- new | 2002 | 12372124 | Clinical Trial/RCT | Nasal challenges with recombinant derivatives of the major birch pollen allergen Bet v 1 induce fewer symptoms and lower mediator release than rBet v 1 wild-type in patie
+- new | 2002 | 11994699 | Clinical Trial/RCT | Effect of 2-year placebo-controlled immunotherapy on airway symptoms and medication in patients with birch pollen allergy.
+- new | 2001 | 11674922 | Clinical Trial/RCT | Sublingual immunotherapy in tree pollen allergy. Double-blind, placebo-controlled study with a biologically standardised extract of three pollens (alder, birch and hazel)
+- new | 2001 | 11341460 | Clinical Trial/RCT | Prophylactic and acute treatment with the homeopathic medicine, Betula 30c for birch pollen allergy: a double-blind, randomized, placebo-controlled study of consistency o
+- new | 2000 | 10932067 | Clinical Trial/RCT | Recombinant humanized mAb-E25, an anti-IgE mAb, in birch pollen-induced seasonal allergic rhinitis.
+- new | 2000 | 11003446 | Clinical Trial/RCT | Allergen-specific immunotherapy in birch- and grass-pollen-allergic rhinitis. II. Side-effects.
+- new | 2000 | 11055772 | Clinical Trial/RCT | Is homeopathic 'immunotherapy' effective? A double-blind, placebo-controlled trial with the isopathic remedy Betula 30c for patients with birch pollen allergy.
+- new | 2000 | 11055773 | Clinical Trial/RCT | No beneficial effect of isopathic prophylactic treatment for birch pollen allergy during a low-pollen season: a double-blind, placebo-controlled clinical trial of homeopa
+- new | 2000 | 11003445 | Clinical Trial/RCT | Allergen-specific immunotherapy in birch- and grass-pollen-allergic rhinitis. I. Efficacy estimated by a model reducing the bias of annual differences in pollen counts.
+- new | 1999 | 10374046 | Clinical Trial/RCT | Association of birch pollen-related food-responsive atopic dermatitis with birch pollen allergen-specific T-cell reactions.
+- new | 1999 | 10520053 | Clinical Trial/RCT | Short-term preseasonal birch pollen allergoid immunotherapy influences symptoms, specific nasal provocation and cytokine levels in nasal secretions, but not peripheral T-
+- new | 1998 | 9684190 | Clinical Trial/RCT | Immunotherapy with sublingual birch pollen extract. A short-term double-blind placebo study.
+- new | 1998 | 9542607 | Clinical Trial/RCT | Allergen-specific increase in interleukin (IL)-4 and IL-5 secretion from peripheral blood mononuclear cells during birch-pollen immunotherapy.
+- new | 1997 | 9389288 | Clinical Trial/RCT | An intranasal glucocorticoid inhibits the increase of specific IgE initiated during birch pollen season.
+- new | 1996 | 8836333 | Clinical Trial/RCT | Preseasonal intranasal immunotherapy in birch-alder allergic rhinitis. A double-blind study.
+- new | 1995 | 8581842 | Clinical Trial/RCT | Local nasal immunotherapy for birch allergic rhinitis with extract in powder form.
+- new | 1994 | 7812890 | Clinical Trial/RCT | Nedocromil sodium 2% eye drops for twice-daily treatment of seasonal allergic conjunctivitis: a Swedish multicentre placebo-controlled study in children allergic to birch
+- new | 1993 | 8328663 | Clinical Trial/RCT | The significance of hypersensitivity to nuts in patients with birch pollen allergy.
+- new | 1990 | 2256458 | Clinical Trial/RCT | Cross-reactivity among the pollen proteins of birch and apple trees.
+- new | 1990 | 2200296 | Clinical Trial/RCT | Immunotherapy of tree pollen allergy with a modified alginate conjugated birch pollen extract compared to an aluminium adsorbed extract.
+- new | 1988 | 3046406 | Clinical Trial/RCT | Immunotherapy with partially purified and standardized tree pollen extracts. II. Results of skin prick tests and nasal provocation tests from a three-year double-blind st
+- new | 1987 | 3301985 | Clinical Trial/RCT | Oral immunotherapy in birch pollen hay fever.
+- new | 1987 | 2827920 | Clinical Trial/RCT | Double-blind comparison of nedocromil sodium (1% nasal spray) and placebo in rhinitis caused by birch pollen.
+- new | 1986 | 3752420 | Clinical Trial/RCT | Clinical and immunological effects of oral immunotherapy with a standardized birch pollen extract.
+- new | 1986 | 3530030 | Clinical Trial/RCT | Oral immunotherapy of children with rhinoconjunctivitis due to birch pollen allergy. A double blind study.
+
+## bistorta-officinalis (Bistorta officinalis; Bistort) - 0 (+CT) hits; query: ("Bistorta officinalis"[tiab] OR "Bistort"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## borago-officinalis (Borago officinalis; Borage) - 25 (+CT) hits; query: ("Borago officinalis"[tiab] OR "Borage"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2027 | 42480877 | SR | Herb-drug interactions with clinical impact: A systematic review of global clinical evidence on medicinal plants widely used in Ecuador.
+- new | 2024 | 39135328 | RCT | Effect of a polyherbal Unani formulation on left ventricular diastolic dysfunction in hypertensive patients - a randomized single blind placebo controlled clinical trial.
+- new | 2021 | 34606560 | RCT | Borage oil intake by overweight young adults: no effect on metabolic rate; beneficial effects on plasma triglyceride and HDL cholesterol readings.
+- HELD REF-0914 | 2020 | 32105669 | SR | A systematic review and quality assessment of case reports of adverse events for borage (Borago officinalis), coltsfoot (Tussilago farfara) and comfrey (Symphytum officin
+- new | 2020 | 33128473 | RCT | Borage Oil Treated with Immobilized Lipase Inhibits Melanogenesis.
+- new | 2020 | 32167131 | RCT | Prospective clinical trial examining the impact of genetic variation in FADS1 on the metabolism of linoleic acid- and ɣ-linolenic acid-containing botanical oils.
+- new | 2015 | 25415370 | Clinical Trial | In vivo and ex vivo evaluation of cosmetic properties of seedcakes.
+- new | 2014 | 25515553 | RCT | The impact of polyunsaturated fatty acid-based dietary supplements on disease biomarkers in a metabolic syndrome/diabetes population.
+- HELD REF-0447 | 2013 | 23633319 | MA/SR | Oral evening primrose oil and borage oil for eczema.
+- new | 2009 | 18761778 | RCT | Intervention with flaxseed and borage oil supplements modulates skin condition in women.
+- new | 2009 | 19735195 |  | The activity of lysosomal exoglycosidases in serum of alcohol-dependent men supplemented with borage oil enriched with vitamin E.
+- new | 2008 | 18318715 | RCT | Consumption of functional fermented milk containing borage oil, green tea and vitamin E enhances skin barrier function.
+- new | 2007 | 17673396 | Clinical Trial | Undershirts coated with borage oil alleviate the symptoms of atopic dermatitis in children.
+- new | 2007 | 18078406 | RCT | Clinical effects of undershirts coated with borage oil on children with atopic dermatitis: a double-blind, placebo-controlled clinical trial.
+- new | 2005 | 16373736 | SR | Interventions for preventing or treating alcohol hangover: systematic review of randomised controlled trials.
+- new | 2004 | 15069395 | Clinical Trial/RCT | Randomized, double-blind trial of long-chain polyunsaturated fatty acid supplementation with fish oil and borage oil in preterm infants.
+- new | 2004 | 15154607 | Clinical Trial/RCT | Suppression of leukotriene B4 generation by ex-vivo neutrophils isolated from asthma patients on dietary supplementation with gammalinolenic acid-containing borage oil: p
+- new | 2003 | 14670885 | Clinical Trial/RCT | Efficacy and tolerability of borage oil in adults and children with atopic eczema: randomised, double blind, placebo controlled, parallel group trial.
+- new | 2001 | 11485158 | Clinical Trial/RCT | Influence of formulas with borage oil or borage oil plus fish oil on the arachidonic acid status in premature infants.
+- new | 2000 | 10713746 | Clinical Trial/RCT | Essential fatty acids in breast milk of atopic mothers: comparison with non-atopic mothers, and effect of borage oil supplementation.
+- new | 1999 | 10331227 | Clinical Trial/RCT | A blinded, placebo-controlled study of the efficacy of borage seed oil and fish oil in the management of canine atopy.
+- new | 1999 | 10233322 | Clinical Trial/RCT | Double-blind, multicentre analysis of the efficacy of borage oil in patients with atopic eczema.
+- new | 1997 | 9107561 | Clinical Trial | A therapeutic dosage (3 g/day) of borage oil supplementation has no effect on platelet aggregation in healthy volunteers.
+- new | 1997 | 9244815 | Clinical Trial/RCT | [Gamma-linolenic-acid-rich borage seed oil capsules in children with atopic dermatitis. A placebo-controlled double-blind study].
+- new | 1992 | 1434338 | Clinical Trial/RCT | [Treatment of atopic dermatitis with borage seed oil (Glandol)--a time series analytic study].
+
+## boswellia-serrata (Boswellia serrata; Boswellia) - 95 hits; query: ("Boswellia serrata"[tiab] OR "Boswellia"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42356227 | RCT | Effect of Boswellia serrata on Pain Intensity, Central and Peripheral Sensitization, and Pain Modulation in Healthy Volunteers-A Randomized, Double-Blind, Placebo-Control
+- new | 2026 | 41082950 | SR | Evaluating the efficacy and safety of Curcuma longa, Boswellia serrata, and their mixed formulation in treating knee osteoarthritis: A systematic review and network meta-
+- new | 2026 | 42760675 | RCT | High potency and water dispersible Boswellia extract reduces pain and inflammation in subjects with osteoarthritis of the knee: A randomized, double-blind, placebo-contro
+- new | 2026 | 42331134 | RCT | Effect of an oral complementary medicine combination for symptomatic knee osteoarthritis: A double-blind, randomized, placebo-controlled trial.
+- new | 2026 | 41177239 | SR | A comprehensive review of Glycyrrhiza glabra in the management of rheumatoid arthritis: ethnopharmacology, pharmacological mechanisms and synergistic therapeutic strategi
+- new | 2026 | 41896193 | RCT | CL16019, A Combination of Cissus quadrangularis and Boswellia serrata Extracts Promotes the Healing of Distal Radius Fractures: A Multicentric, Randomized, Open-Label Stu
+- new | 2025 | 39875757 | RCT | Efficacy and Safety of Boswellia serrata and Apium graveolens L. Extract Against Knee Osteoarthritis and Cartilage Degeneration: A Randomized, Double-blind, Multicenter, 
+- new | 2025 | 39700461 | RCT | A Standardized Boswellia serrata Extract Improves Knee Joint Function and Cartilage Morphology in Human Volunteers with Mild to Moderate Osteoarthritis in a Randomized Pl
+- new | 2025 | 39700654 | RCT | Efficacy and safety evaluation of Boswellia serrata and Curcuma longa extract combination in the management of chronic lower back pain: A randomised, double-blind, placeb
+- new | 2025 | 39973246 | RCT | The effect of turmeric-Boswellia formulation (Rhuleave-K) in posture-related low back soreness and discomfort: A randomized double blinded placebo controlled trial.
+- new | 2024 | 38958698 | RCT | The role of nutraceuticals in the management of temporomandibular disorders.
+- new | 2024 | 38918956 | RCT | A Nutraceutical Combination of Bromelain and Boswellia Serrata Casperome® in Siben®: Effects on the Postoperative Course of Inguinal Hernioplasty with Mesh at One Year Fo
+- new | 2024 | 39314013 | MA/SR | Efficacy of Extracts of Oleogum Resin of Boswellia in the Treatment of Knee Osteoarthritis: A Systematic Review and Meta-Analysis.
+- new | 2024 | 38816637 | SR | Chemical Constituents and Pharmacological Properties of Frankincense: Implications for Anticancer Therapy.
+- new | 2024 | 39449720 | SR | Effect of boswellia (Boswellia serrata L.) supplementation on glycemic markers and lipid profile in type 2 diabetic patients: a systematic review and meta-analysis.
+- new | 2024 | 38365549 | MA/SR | Efficacy evaluation of standardized Boswellia serrata extract (Aflapin(Ⓡ)) in osteoarthritis: A systematic review and sub-group meta-analysis study.
+- new | 2024 | 39343544 | RCT | Pharmacokinetics of a Natural Self-emulsifying Reversible Hybrid-Hydrogel (N'SERH) Formulation of Full-Spectrum Boswellia serrata Oleo-Gum Resin Extract: Randomised Doubl
+- new | 2024 | 39446666 | RCT | Investigating the Additive Effects of Loxacon(®) Food Supplement Capsules in Patients with Knee Osteoarthritis. A Multicenter, Randomized, Double-Blind, Controlled, Cross
+- HELD REF-1810 | 2023 | 35512759 | RCT | Efficacy and Safety of Aflapin®, a Novel Boswellia Serrata Extract, in the Treatment of Osteoarthritis of the Knee: A Short-Term 30-Day Randomized, Double-Blind, Placebo-
+- new | 2023 | 38785054 | RCT | [Comparative efficacy of a combination of undenatured type II collagen, Boswellic acids, methylsulfonylmethane, vitamins C and D(3) and a combination of chondroitin sulfa
+- new | 2023 | 37686880 | RCT | Efficacy of Boswellia serrata Extract and/or an Omega-3-Based Product for Improving Pain and Function in People Older Than 40 Years with Persistent Knee Pain: A Randomize
+- new | 2023 | 36869332 | RCT | Evaluation of the effectiveness of topical oily solution containing frankincense extract in the treatment of knee osteoarthritis: a randomized, double-blind, placebo-cont
+- new | 2023 | 35751891 | RCT | The Efficacy of Kundur (Boswellia serrata Roxb. Ex Colebr.) in Vulvovaginal Candidiasis: A Randomized Control Trial.
+- new | 2023 | 36895452 | RCT | Burn Wound Healing Effect of a Sterilized Traditional Formulation of Boswellia carteri vs. Silver Sulfadiazine Cream 1% in Patients Presenting Second-degree Burn Wounds: 
+- new | 2022 | 35754481 | SR | Effectiveness and Safety of Ayurvedic Medicines in Type 2 Diabetes Mellitus Management: A Systematic Review and Meta-Analysis.
+- new | 2022 | 35385330 | RCT | Boswellia serrata extract shows cognitive benefits in a double-blind, randomized, placebo-controlled pilot clinical trial in individuals who suffered traumatic brain inju
+- new | 2022 | 35276778 | RCT | Beneficial Effects on Abdominal Bloating with an Innovative Food-Grade Formulation of Curcuma longa and Boswellia serrata Extracts in Subjects with Irritable Bowel Syndro
+- new | 2022 | 35565826 | RCT | Positive Effects of a Lecithin-Based Delivery Form of Boswellia serrata Extract in Acute Diarrhea of Adult Subjects.
+- new | 2022 | 36107505 | RCT | Fast pain relief in exercise-induced acute musculoskeletal pain by turmeric-boswellia formulation: A randomized placebo-controlled double-blinded multicentre study.
+- new | 2021 | 33155997 | SR | Possible role of Unani Pharmacology in COVID-19 - a narrative review.
+- new | 2021 | 33802272 | RCT | A Placebo-Controlled, Pseudo-Randomized, Crossover Trial of Botanical Agents for Gulf War Illness: Curcumin (Curcuma longa), Boswellia (Boswellia serrata), and French Mar
+- new | 2021 | 33617972 | RCT | Efficacy and safety of a supplement combination on hand pain among people with symptomatic hand osteoarthritis an internet-based, randomised clinical trial the RADIANT st
+- new | 2021 | 32971163 | RCT | Episiotomy wound healing by Commiphora myrrha (Nees) Engl. and Boswellia carteri Birdw. in primiparous women: A randomized controlled trial.
+- HELD REF-0422 | 2020 | 32680575 | MA/SR | Effectiveness of Boswellia and Boswellia extract for osteoarthritis patients: a systematic review and meta-analysis.
+- new | 2020 | 32549135 | RCT | Double-blind trial of solid lipid Boswellia serrata particles (SLBSP) vs. standardized Boswellia serrata gum extract (BSE) for osteoarthritis of knee.
+- new | 2020 | 31608447 | RCT | Pharmacokinetic assessment of constituents of Boswellia serrata, pine bark extracts, curcumin in combination including methylsulfonylmethane in healthy volunteers.
+- new | 2020 | 32664057 |  | Efficacy of high-dissolution turmeric-sesame formulation for pain relief in adult subjects with acute musculoskeletal pain compared to acetaminophen: A randomized control
+- HELD REF-0573 | 2019 | 30838706 | RCT | A pilot, randomized, double-blind, placebo-controlled trial to assess the safety and efficacy of a novel Boswellia serrata extract in the management of osteoarthritis of 
+- new | 2019 | 30670277 | RCT | The effect of frankincense (Boswellia serrata, oleoresin) and ginger (Zingiber officinale, rhizoma) on heavy menstrual bleeding: A randomized, placebo-controlled, clinica
+- new | 2019 | 30676012 | RCT | Oral administration of a lecithin-based delivery form of boswellic acids (Casperome®) for the prevention of symptoms of irritable bowel syndrome: a randomized clinical st
+- HELD REF-0574 | 2018 | 29018060 | MA/SR | Dietary supplements for treating osteoarthritis: a systematic review and meta-analysis.
+- new | 2018 | 29622343 | MA/SR | Efficacy of curcumin and Boswellia for knee osteoarthritis: Systematic review and meta-analysis.
+- new | 2018 | 29417793 | RCT | Novel combination for the treatment of acne differentiated based on gender: a new step towards personalized treatment.
+- new | 2018 | 29974725 | RCT | L-Methionine associated with Hibiscus sabdariffa and Boswellia serrata extracts are not inferior to antibiotic treatment for symptoms relief in patients affected by recur
+- new | 2018 | 29708818 | RCT | A Placebo-Controlled Double-Blind Study Demonstrates the Clinical Efficacy of a Novel Herbal Formulation for Relieving Joint Discomfort in Human Subjects with Osteoarthri
+- new | 2018 | 29306113 | RCT | The effect of tablet containing Boswellia serrata and Melisa officinalis extract on older adults' memory: A randomized controlled trial.
+- new | 2018 | 30073929 | RCT | Differentially Enhancing Effects of Long-term Treatment with Serrazyme, Boswellia and Pine on Seminal Bacterial Detection in Patients with Chronic Bacterial or Inflammato
+- new | 2018 | 29316908 | RCT | Efficacy and safety of curcumin and its combination with boswellic acid in osteoarthritis: a comparative, randomized, double-blind, placebo-controlled study.
+- new | 2017 | 29127772 | MA/SR | Interventions for treating collagenous colitis.
+- new | 2017 | 28375641 | RCT | A Pilot Study to Examine the Effects of an Anti-inflammatory Supplement on Eicosanoid Derivatives in Patients with Chronic Kidney Disease.
+- new | 2017 | 28872719 | MA/SR | Oral herbal medicines marketed in Brazil for the treatment of osteoarthritis: A systematic review and meta-analysis.
+- new | 2017 | 29228792 | RCT | Silymarin, Olibanum, and Nettle, A Mixed Herbal Formulation in the Treatment of Type II Diabetes: A Randomized, Double-Blind, Placebo-Controlled, Clinical Trial.
+- new | 2017 | 27681813 | RCT | Clinical comparison of oral administration and viscosupplementation of hyaluronic acid (HA) in early knee osteoarthritis.
+- new | 2017 | 28349271 | RCT | Evaluation of the effect of Elaeagnus angustifolia alone and combined with Boswellia thurifera compared with ibuprofen in patients with knee osteoarthritis: a randomized 
+- new | 2016 | 27879642 | RCT | Curcumin and Boswellia serrata Modulate the Glyco-Oxidative Status and Lipo-Oxidation in Master Athletes.
+- new | 2016 | 27212181 | RCT | A randomized trial of Boswellia in association with betaine and myo-inositol in the management of breast fibroadenomas.
+- new | 2016 | 27765357 | RCT | A single-dose, randomized, cross-over, two-way, open-label study for comparing the absorption of boswellic acids and its lecithin formulation.
+- new | 2015 | 25518050 | SR | Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases.
+- new | 2015 | 25062981 | MA/SR | Ayurvedic interventions for osteoarthritis: a systematic review and meta-analysis.
+- new | 2015 | 26502867 | RCT | Functional study on Boswellia phytosome as complementary intervention in asthmatic patients.
+- new | 2015 | 25967706 | RCT | Clinical evaluation of safety and efficacy of Boswellia-based cream for prevention of adjuvant radiotherapy skin damage in mammary carcinoma: a randomized placebo control
+- new | 2015 | 26636532 | RCT | An association of boswellia, betaine and myo-inositol (Eumastós) in the treatment of mammographic breast density: a randomized, double-blind study.
+- new | 2015 | 25957549 | RCT | Co-analgesic therapy for arthroscopic supraspinatus tendon repair pain using a dietary supplement containing Boswellia serrata and Curcuma longa: a prospective randomized
+- new | 2014 | 24848732 | MA/SR | Oral herbal therapies for treating osteoarthritis.
+- new | 2014 | 25225151 | RCT | Efficacy of Boswellia serrata L. and Cyperus scariosus L. plus pelvic floor muscle training in stress incontinence in women of reproductive age.
+- new | 2014 | 25298573 | RCT | A randomized, double blind, placebo controlled, cross over study to evaluate the analgesic activity of Boswellia serrata in healthy volunteers using mechanical pain model
+- new | 2013 | 23981095 | SR | Systematic review: the efficacy of herbal therapy in inflammatory bowel disease.
+- new | 2013 | 23391017 | SR | Plant food supplements with anti-inflammatory properties: a systematic review (II).
+- new | 2013 | 23828329 | RCT | The use of an anti-inflammatory supplement in patients with chronic kidney disease.
+- new | 2013 | 24088189 | RCT | The effect of Boswellia Serrata on neurorecovery following diffuse axonal injury.
+- new | 2013 | 24002213 | RCT | Clinical evaluation of a formulation containing Curcuma longa and Boswellia serrata extracts in the management of knee osteoarthritis.
+- new | 2013 | 23365148 | RCT | Ayurvedic medicine offers a good alternative to glucosamine and celecoxib in the treatment of symptomatic knee osteoarthritis: a randomized, double-blind, controlled equi
+- HELD REF-1811 | 2011 | 21287538 | RCT | Boswellia serrata acts on cerebral edema in patients irradiated for brain tumors: a prospective, randomized, placebo-controlled, double-blind pilot trial.
+- new | 2011 | 21855244 | RCT | Determination of major boswellic acids in plasma by high-pressure liquid chromatography/mass spectrometry.
+- new | 2011 | 20848527 | RCT | Randomized, placebo-controlled, double-blind trial of Boswellia serrata in maintaining remission of Crohn's disease: good safety profile but lack of efficacy.
+- new | 2011 | 22022214 | RCT | A double blind, randomized, placebo controlled clinical study evaluates the early efficacy of aflapin in subjects with osteoarthritis of knee.
+- new | 2010 | 20136919 | RCT | Topical Boswellic acids for treatment of photoaged skin.
+- new | 2010 | 19918712 | RCT | Effects of topical boswellic acid on photo and age-damaged skin: clinical, biophysical, and echographic evaluations in a double-blind, randomized, split-face study.
+- new | 2010 | 21060724 | RCT | Comparative efficacy and tolerability of 5-Loxin and AflapinAgainst osteoarthritis of the knee: a double blind, randomized, placebo controlled clinical study.
+- new | 2009 | 19098875 | SR | Interventions for treating microscopic colitis: a Cochrane Inflammatory Bowel Disease and Functional Bowel Disorders Review Group systematic review of randomized trials.
+- new | 2008 | 19091760 | SR | Frankincense: systematic review.
+- new | 2008 | 18425892 | MA/SR | Interventions for treating collagenous colitis.
+- new | 2008 | 18667054 | RCT | A double blind, randomized, placebo controlled study of the efficacy and safety of 5-Loxin for treatment of osteoarthritis of the knee.
+- new | 2007 | 17764013 | RCT | Boswellia serrata extract for the treatment of collagenous colitis. A double-blind, randomized, placebo-controlled, multicenter trial.
+- new | 2006 | 17054177 | MA/SR | Interventions for treating collagenous colitis.
+- new | 2006 | 16696800 | SR | Systematic review: microscopic colitis.
+- new | 2005 | 16235328 | MA/SR | Interventions for treating collagenous colitis.
+- new | 2004 | 15829470 | SR | Boswellia: an evidence-based systematic review by the Natural Standard Research Collaboration.
+- new | 2004 | 15643550 | Clinical Trial/RCT | Effect of food intake on the bioavailability of boswellic acids from a herbal preparation in healthy volunteers.
+- new | 2003 | 12622457 | Clinical Trial/RCT | Efficacy and tolerability of Boswellia serrata extract in treatment of osteoarthritis of knee--a randomized double blind placebo controlled trial.
+- new | 2001 | 11488449 | Clinical Trial/RCT | Effects of gum resin of Boswellia serrata in patients with chronic colitis.
+- new | 2001 | 11215357 | Clinical Trial/RCT | [Therapy of active Crohn disease with Boswellia serrata extract H 15].
+- new | 1998 | 9810030 | Clinical Trial/RCT | Effects of Boswellia serrata gum resin in patients with bronchial asthma: results of a double-blind, placebo-controlled, 6-week clinical study.
+- new | 1998 | 9566100 | Clinical Trial/RCT | [Is H15 (resin extract of Boswellia serrata, "incense") a useful supplement to established drug therapy of chronic polyarthritis? Results of a double-blind pilot study].
+- new | 1991 | 1943180 | Clinical Trial/RCT | Treatment of osteoarthritis with a herbomineral formulation: a double-blind, placebo-controlled, cross-over study.
+
+## calendula-officinalis (Calendula officinalis; Pot marigold) - 32 (+CT) hits; query: ("Calendula officinalis"[tiab] OR "Pot marigold"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42116036 | MA/Review | Influence of saponin extracts on enteric methane emission and rumen fermentation: a meta-analysis of in vitro experiments.
+- new | 2025 | 41527980 | RCT | Double-blind randomised controlled trial of an emollient cream with and without 1 % supercritical CO(2) extract of Calendula officinalis in contact dermatitis.
+- new | 2025 | 39757623 | SR | Herbal Medicine for the Management of Wounds: A Systematic Review of Clinical Studies.
+- new | 2024 | 39171868 | RCT | Spray skin protectant versus standard moisturiser in the prevention of radiodermatitis in patients with anal canal and rectal cancer: A randomised clinical trial.
+- new | 2022 | 35763437 | RCT | Efficacy and safety of a facial serum containing snail secretion filtrate, Calendula officinalis, and Glycyrrhiza glaba root extract in the treatment of maskne: A randomi
+- new | 2022 | 34674610 | RCT | Treatment of acute wounds in hand with Calendula officinalis L.: A randomized trial.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2021 | 33988743 | SR | Medicinal plants used for the treatment of mucositis induced by oncotherapy: a systematic review.
+- new | 2021 | 32965030 | RCT | Efficacy of topical Calendula officinalis on prevalence of radiation-induced dermatitis: A randomised controlled trial.
+- new | 2021 | 33978137 | SR | Effectiveness of nursing interventions in preventing and treating radiotherapy side effects in cancer patients: a systematic review.
+- new | 2020 | 33170047 | MA/SR | A meta-analysis of preclinical studies using antioxidants for the prevention of cisplatin nephrotoxicity: implications for clinical application.
+- new | 2020 | 33374575 | RCT | Formulation of Topical Dosage Forms Containing Synthetic and Natural Anti-Inflammatory Agents for the Treatment of Rheumatoid Arthritis.
+- HELD REF-0752 | 2019 | 31145533 | SR | A systematic review of Calendula officinalis extract for wound healing.
+- new | 2019 | 31133058 | SR | Medicinal plants as therapeutic options for topical treatment in canine dermatology? A systematic review.
+- HELD REF-2124 | 2018 | 30289008 | SR | Calendula officinalis: Potential Roles in Cancer Treatment and Palliative Care.
+- new | 2018 | 29368902 | Clinical Trial | [Action of Calendula officinalis essence on bone preservation after the extraction].
+- HELD REF-0754 | 2017 | 27880086 | RCT | Comparing the effects of Calendula officinalis and clotrimazole on vaginal Candidiasis: A randomized controlled trial.
+- new | 2016 | 27680049 | RCT | Low-level laser therapy and Calendula officinalis in repairing diabetic foot ulcers.
+- new | 2016 | 26978856 | Clinical Trial | A Prospective, Descriptive Study to Assess the Clinical Benefits of Using Calendula officinalis Hydroglycolic Extract for the Topical Treatment of Diabetic Foot Ulcers.
+- new | 2016 | 26850813 | RCT | Evaluation of the efficacy of a polyherbal mouthwash containing Zingiber officinale, Rosmarinus officinalis and Calendula officinalis extracts in patients with gingivitis
+- new | 2015 | 25992820 | RCT | [Usage of Calendula officinalis in the prevention and treatment of radiodermatitis: a randomized double-blind controlled clinical trial].
+- new | 2013 | 23391017 | SR | Plant food supplements with anti-inflammatory properties: a systematic review (II).
+- new | 2012 | 22606064 | RCT | A randomized comparative trial on the therapeutic efficacy of topical aloe vera and Calendula officinalis on diaper dermatitis in children.
+- new | 2012 | 22316315 | RCT | Comparison of vaginal gel isoflavones versus no topical treatment in vaginal dystrophy: results of a preliminary prospective study.
+- new | 2011 | 21928714 | RCT | Calendula extract: effects on mechanical parameters of human skin.
+- new | 2009 | 18700847 | RCT | The comparison of in vivo antigenotoxic and antioxidative capacity of two propylene glycol extracts of Calendula officinalis (marigold) and vitamin E in young growing pig
+- new | 2006 | 17317655 | SR | Marigold (Calendula officinalis L.): an evidence-based systematic review by the Natural Standard Research Collaboration.
+- new | 2005 | 16317652 | RCT | A clinical study: Melaleuca, Manuka, Calendula and green tea mouth rinse.
+- new | 2005 | 15908760 | Clinical Trial | Protective effects of different marigold (Calendula officinalis L.) and rosemary cream preparations against sodium-lauryl-sulfate-induced irritant contact dermatitis.
+- new | 2004 | 15572868 | Clinical Trial/RCT | A double-blind, randomized, homeopathic pathogenetic trial with healthy persons: comparing two high potencies.
+- new | 2004 | 15084618 | Clinical Trial/RCT | Phase III randomized trial of Calendula officinalis compared with trolamine for the prevention of acute dermatitis during irradiation for breast cancer.
+- new | 1999 | 10641087 | Clinical Trial | [Treatment with acyclovir combined with a new Romanian product from plants].
+
+## camellia-sinensis (Camellia sinensis; Tea) - 92 hits; query: ("Camellia sinensis"[tiab]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2027 | 42480877 | SR | Herb-drug interactions with clinical impact: A systematic review of global clinical evidence on medicinal plants widely used in Ecuador.
+- new | 2026 | 41176609 | SR | Examining the effect of L-theanine on sleep: a systematic review of dietary supplementation trials.
+- new | 2026 | 42415270 | MA/SR | Heterogeneity in Withering Conditions and Associated Changes in Key Nonvolatile Compounds in Black Tea (Camellia sinensis): A Systematic Review and Meta-Analysis.
+- new | 2026 | 41920369 | RCT | Effectiveness of green tea (Camellia sinensis) based mouth rinse on oral health status, pain and quality of life among advanced head and neck cancer patients in a tertiar
+- new | 2025 | 40314930 | SR/MA | Effects of Tea (Camellia sinensis) or its Bioactive Compounds l-Theanine or l-Theanine plus Caffeine on Cognition, Sleep, and Mood in Healthy Participants: A Systematic R
+- new | 2025 | 40077632 | SR | Effectiveness of Herbal Medicines with Anti-Inflammatory, Antimicrobial, and Antioxidant Properties in Improving Oral Health and Treating Gingivitis and Periodontitis: A 
+- new | 2025 | 40637142 | RCT | Effect of regular green tea (Camellia sinensis) kombucha consumption on oxidative stress and endothelial health in individuals with excess body weight: a randomized contr
+- new | 2025 | 38894639 | SR/MA | Effects of Herbal Tea (Non-Camellia sinensis) on Glucose Homeostasis and Serum Lipids in Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis.
+- new | 2025 | 40077768 | SR | Exploring Antioxidant Properties of Standardized Extracts from Medicinal Plants Approved by the Thai FDA for Dietary Supplementation.
+- new | 2025 | 41373414 | SR | Crude Plant Extracts and Their Anti-Inflammatory Potential in Oral Inflammatory Cell Models: A Systematic Review of In Vitro Studies.
+- new | 2025 | 41214912 | MA | Optimizing selenium biofortification in Camellia sinensis: A meta-analysis of fertilization strategies, cultivar selection, and harvest timing on tea Se accumulation and 
+- new | 2024 | 38706368 | SR | A Systematic Review of Herbal Interventions for the Management of Cardiovascular Diseases.
+- new | 2024 | 38531928 | RCT | Green tea and hyaluronic acid gel enhance fibroblast activation and improves the gingival healing post-third molar extraction.
+- new | 2024 | 39110055 | SR | Medicinal Plants Cultivated in Egypt with Antiviral Potential: A Systematic Review.
+- new | 2024 | 39917707 | SR | Antibiofilm efficacy of plant extracts as root canal irrigants in endodontics: a systematic literature review.
+- new | 2024 | 39088486 | RCT | The effect of Camellia sinensis ointment on perineal pain and episiotomy wound healing in primiparous women: A triple-blind randomized clinical trial.
+- new | 2023 | 37084960 | RCT | l-theanine adjunct to sertraline for major depressive disorder: A randomized, double-blind, placebo-controlled clinical trial.
+- new | 2023 | 33593083 | SR | Green tea and green tea extract in oncological treatment: A systematic review.
+- new | 2023 | 36689359 | MA | Effect of Green Tea on Blood Pressure in Healthy Individuals: A Meta-Analysis.
+- new | 2023 | 36347450 | RCT | Acute green tea intake attenuates circulating microRNA expression induced by a high-fat, high-saturated meal in obese women: A randomized crossover study.
+- new | 2023 | 36178169 | RCT | Hepatotoxicity with High-Dose Green Tea Extract: Effect of Catechol-O-Methyltransferase and Uridine 5'-Diphospho-glucuronosyltransferase 1A4 Genotypes.
+- new | 2023 | 37697164 | RCT | L-Theanine adjunct to risperidone in the treatment of chronic schizophrenia inpatients: a randomized, double-blind, placebo-controlled clinical trial.
+- new | 2022 | 35504067 | MA/SR | Green tea promotes weight loss in women with polycystic ovary syndrome: Systematic review and meta-analysis.
+- new | 2022 | 35331535 | RCT | Acute green tea infusion ingestion effect on energy metabolism, satiety sensation and food intake: A randomized crossover trial.
+- new | 2022 | 35956325 | SR | Efficacy and Safety of Oral Green Tea Preparations in Skin Ailments: A Systematic Review of Clinical Studies.
+- new | 2022 | 35014893 | SR | Potential therapeutic effects of green tea on obese lipid profile - a systematic review.
+- new | 2022 | 36558368 | RCT | A 60-Day Green Tea Extract Supplementation Counteracts the Dysfunction of Adipose Tissue in Overweight Post-Menopausal and Class I Obese Women.
+- new | 2021 | 32812270 | MA/SR | The effects of green tea on acne vulgaris: A systematic review and meta-analysis of randomized clinical trials.
+- new | 2021 | 32600229 | SR | Herbal Extracts with Antifungal Activity against Candida albicans: A Systematic Review.
+- new | 2021 | 34396859 | SR | Tea intake and cardiovascular disease: an umbrella review.
+- new | 2021 | 33729563 | MA/SR | Different applications forms of green tea (Camellia sinensis (L.) Kuntze) for the treatment of periodontitis: a systematic review and meta-analysis.
+- new | 2021 | 32623727 | SR | Fluoride absorption, transportation and tolerance mechanism in Camellia sinensis, and its bioavailability and health risk assessment: a systematic review.
+- new | 2021 | 33467650 | SR | Proanthocyanidins and Flavan-3-ols in the Prevention and Treatment of Periodontitis-Immunomodulatory Effects, Animal and Clinical Studies.
+- new | 2021 | 34447773 | SR | Nanopesticides: A Systematic Review of Their Prospects With Special Reference to Tea Pest Management.
+- new | 2021 | 34416298 | SR | Efficacy of medicinal plant extracts as dental and periodontal antibiofilm agents: A systematic review of randomized clinical trials.
+- new | 2021 | 34424217 | RCT | Antibacterial effect of green tea infusion used as a mouthwash on saliva and bacterial plaque: a randomized controlled trial.
+- new | 2021 | 33744591 | RCT | Matcha consumption maintains attentional function following a mild acute psychological stress without affecting a feeling of fatigue: A randomized placebo-controlled stud
+- new | 2021 | 34186380 | RCT | Effectiveness of green tea mouthwash for improving oral health status in oral cancer patients: A single-blind randomized controlled trial.
+- new | 2021 | 34076495 | RCT | The Effect of Pluchea indica (L.) Less. Tea on Blood Glucose and Lipid Profile in People with Prediabetes: A Randomized Clinical Trial.
+- HELD REF-1961 | 2020 | 32118296 | MA/SR | Green tea (Camellia sinensis) for the prevention of cancer.
+- new | 2020 | 31984610 | MA/SR | Effectiveness of herbal medicines for weight loss: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2020 | 32078065 | MA | Tea consumption and colorectal cancer risk: a meta-analysis of prospective cohort studies.
+- new | 2020 | 33188386 | MA/SR | Short-Term Tea Consumption Is Not Associated with a Reduction in Blood Lipids or Pressure: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2020 | 32073596 | MA/SR | Dose-Response Relation between Tea Consumption and Risk of Cardiovascular Disease and All-Cause Mortality: A Systematic Review and Meta-Analysis of Population-Based Studi
+- new | 2020 | 32105058 | SR | Modulation of Glucose Metabolism by Leaf Tea Constituents: A Systematic Review of Recent Clinical and Pre-clinical Findings.
+- new | 2020 | 32294991 | SR | The Pharmacological Activity of Camellia sinensis (‎L.‎) ‎Kuntze‎ on Metabolic and Endocrine Disorders: A Systematic Review.
+- new | 2020 | 34187117 | RCT | Effects of epigallocatechin-3-gallate of Camellia sinensis leaves on blood pressure, lipid profile, atherogenic index of plasma and some inflammatory and antioxidant mark
+- new | 2019 | 31533291 | SR | Appetite-Suppressing and Satiety-Increasing Bioactive Phytochemicals: A Systematic Review.
+- new | 2019 | 30580081 | RCT | L-theanine in the adjunctive treatment of generalized anxiety disorder: A double-blind, randomised, placebo-controlled trial.
+- new | 2018 | 29380956 | RCT | Polyphenol supplementation alters intramuscular apoptotic signaling following acute resistance exercise.
+- new | 2018 | 29876987 | MA/SR | The association between green tea consumption and breast cancer risk: A systematic review and meta-analysis.
+- new | 2018 | 30513889 | MA/SR | Green Tea Consumption and Risk of Breast Cancer and Recurrence-A Systematic Review and Meta-Analysis of Observational Studies.
+- new | 2018 | 29947156 | MA/SR | Green tea as a safe alternative approach for nonalcoholic fatty liver treatment: A systematic review and meta-analysis of clinical trials.
+- new | 2018 | 28038881 | RCT | Green tea (Camellia sinensis) for patients with knee osteoarthritis: A randomized open-label active-controlled clinical trial.
+- new | 2018 | 29746891 | RCT | Effect of green tea extract supplementation on exercise-induced delayed onset muscle soreness and muscular damage.
+- new | 2018 | 30127247 | RCT | Acute Epigallocatechin 3 Gallate (EGCG) Supplementation Delays Gastric Emptying in Healthy Women: A Randomized, Double-Blind, Placebo-Controlled Crossover Study.
+- new | 2018 | 29734777 | RCT | A Randomized, Placebo-Controlled Study on the Safety and Efficacy of Daily Ingestion of Green Tea (Camellia sinensis L.) cv. "Yabukita" and "Sunrouge" on Eyestrain and Bl
+- HELD REF-0755 | 2017 | 28899506 | SR | Green tea effects on cognition, mood and human brain function: A systematic review.
+- new | 2017 | 25849609 | MA/Review | Camellia sinensis in asymptomatic hyperuricemia: A meta-analysis of tea or tea extract effects on uric acid levels.
+- new | 2017 | 27324724 | RCT | The Effect of Black Tea (Camellia sinensis (L) Kuntze) on Pediatrics With Acute Nonbacterial Diarrhea: A Randomized Controlled Trial.
+- new | 2017 | 29178904 | MA/SR | Nutritional supplements and herbal medicines for women with polycystic ovary syndrome; a systematic review and meta-analysis.
+- new | 2017 | 26272266 | RCT | Effects of green tea (Camellia sinensis) mouthwash containing 1% tannin on dental plaque and chronic gingivitis: a double-blinded, randomized, controlled trial.
+- new | 2017 | 29415825 | RCT | Green tea extract outperforms metformin in lipid profile and glycaemic control in overweight women: A double-blind, placebo-controlled, randomized trial.
+- new | 2017 | 28593720 | RCT | Phytoestrogen-Rich Natural Preparation for Treatment of Climacteric Syndrome and Atherosclerosis Prevention in Perimenopausal Women.
+- new | 2017 | 28585735 | RCT | A Randomized, Double-blind, Placebo-controlled Clinical Trial Examining the Effects of Green Tea Extract on Systemic Lupus Erythematosus Disease Activity and Quality of L
+- new | 2017 | 28488192 | RCT | Effects of dietary green tea (Camellia sinensis L.) supplementation on growth performance, lipid metabolism, and antioxidant status in a sturgeon hybrid of Sterlet (Huso 
+- new | 2016 | 27268043 | SR | Medicinal plants--prophylactic and therapeutic options for gastrointestinal and respiratory diseases in calves and piglets? A systematic review.
+- new | 2015 | 26520790 | SR | A systematic review of medicinal plants used for weight loss in Brazil: Is there potential for obesity treatment?
+- new | 2015 | 26548726 | RCT | Topical lipophilic epigallocatechin-3-gallate on herpes labialis: a phase II clinical trial of AverTeaX formula.
+- new | 2015 | 25251944 | SR | Adverse effects of plant food supplements and botanical preparations: a systematic review with critical evaluation of causality.
+- new | 2014 | 25240992 | RCT | A phase II clinical trial of a natural formulation containing tea catechins for xerostomia.
+- new | 2014 | 24675010 | MA/SR | The effect of green tea on blood pressure and lipid profile: a systematic review and meta-analysis of randomized clinical trials.
+- new | 2014 | 25079225 | MA/SR | The effect of black tea on blood pressure: a systematic review with meta-analysis of randomized controlled trials.
+- new | 2014 | 24797657 | RCT | IQP-GC-101 reduces body weight and body fat mass: a randomized, double-blind, placebo-controlled study.
+- new | 2014 | 24585444 | RCT | Effects of single dose and regular intake of green tea (Camellia sinensis) on DNA damage, DNA repair, and heme oxygenase-1 expression in a randomized controlled human sup
+- new | 2014 | 24954134 | RCT | Effectiveness of green tea mouthwash in comparison to chlorhexidine mouthwash in patients with acute pericoronitis: a randomized clinical trial.
+- new | 2014 | 25918808 | RCT | The effect of Ginkgo biloba and Camellia sinensis extracts on psychological state and glycemic control in patients with type 2 diabetes mellitus.
+- new | 2013 | 23589502 | RCT | Dose-response plasma appearance of green tea catechins in adults.
+- new | 2013 | 23320910 | SR | Plant food supplements with anti-inflammatory properties: a systematic review (I).
+- new | 2012 | 22665675 | RCT | Effects of saponin extracts on air emissions from steers.
+- new | 2012 | 23131813 | RCT | Effect of green tea (Camellia sinensis) consumption on the components of metabolic syndrome in elderly.
+- new | 2011 | 20605696 | RCT | Green tea minimally affects biomarkers of inflammation in obese subjects with metabolic syndrome.
+- new | 2009 | 19588362 | SR | Green tea (Camellia sinensis) for the prevention of cancer.
+- new | 2009 | 19838489 | RCT | Prospective double-blind crossover study of Camellia sinensis (green tea) in dyslipidemias.
+- new | 2009 | 18848434 | RCT | Standardized capsule of Camellia sinensis lowers cardiovascular risk factors in a randomized, double-blind, placebo-controlled study.
+- new | 2009 | 19826188 | RCT | Greeen tea extracts lower serum folates in rats at very high dietary concentrations only and do not affect plasma folates in a human pilot study.
+- new | 2008 | 18484782 | SR | Safety of green tea extracts : a systematic review by the US Pharmacopeia.
+- new | 2008 | 18455656 | RCT | Association between soy and green tea (Camellia sinensis) diminishes hypercholesterolemia and increases total plasma antioxidant potential in dyslipidemic subjects.
+- new | 2007 | 17914132 | RCT | Specific formulation of Camellia sinensis prevents cold and flu symptoms and enhances gamma,delta T cell function: a randomized, double-blind, placebo-controlled study.
+- new | 2007 | 17884442 | RCT | The effect of an extract of green and black tea on glucose control in adults with type 2 diabetes mellitus: double-blind randomized study.
+- new | 2005 | 16317652 | RCT | A clinical study: Melaleuca, Manuka, Calendula and green tea mouth rinse.
+- new | 2005 | 16366740 | RCT | The effect of an herbal supplement containing black tea and caffeine on metabolic parameters in humans.
+
+## campanula-persicifolia (Campanula persicifolia; Peach-leaved bellflower) - 0 (+CT) hits; query: ("Campanula persicifolia"[tiab] OR "Peach-leaved bellflower"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])

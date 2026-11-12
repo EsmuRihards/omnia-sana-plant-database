@@ -127,12 +127,14 @@ actions:
     colorectal and prostate cancers (preclinical, incl. in vivo).
 indications:
 - condition: arthritis
-  note: 'Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks);
-    Supports inflammatory arthritis including rheumatoid arthritis'
+  note: Reduced osteoarthritis pain and stiffness and improved function in meta-analyses and randomized
+    trials (from about 4 weeks of use)
   reference_ids:
   - REF-0422
   - REF-0573
   - REF-0574
+  - REF-1810
+  - REF-3463
   status: verified
   mechanistic_exclude_ids:
   - REF-1811
@@ -147,21 +149,25 @@ indications:
   - REF-2876
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Boswellia extract reduced inflammatory markers and knee osteoarthritis symptoms in a placebo-controlled
+    trial; boswellic acids inhibit inflammatory enzymes in lab studies
   reference_ids:
   - REF-0573
   status: needs-review
 - condition: pain
-  note: 'Analgesic (pain relief); Osteoarthritis: reduces joint pain and stiffness and improves function
-    (over at least 4 weeks)'
+  note: Relieved osteoarthritis joint pain in meta-analyses and randomized trials
   reference_ids:
   - REF-0422
   - REF-0573
   - REF-0574
+  - REF-1810
+  - REF-3463
   status: verified
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: A Boswellia cream reduced radiotherapy skin redness and the need for steroid creams in a randomized
+    trial in breast cancer
+  reference_ids:
+  - REF-3471
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0573
@@ -169,6 +175,47 @@ indications:
   - REF-1811
   - REF-1813
   - REF-1816
+- condition: blood-sugar
+  note: Boswellia improved blood glucose markers and blood lipids in type 2 diabetes (meta-analysis of
+    randomized trials)
+  reference_ids:
+  - REF-3464
+  status: verified
+- condition: ibs
+  note: A lecithin form of Boswellia extract (Casperome) improved IBS symptoms in a randomized study
+  reference_ids:
+  - REF-3465
+  status: verified
+- condition: asthma
+  note: A lecithin form of Boswellia extract (Casperome) reduced the need for inhaled asthma medication
+    in a randomized add-on study
+  reference_ids:
+  - REF-3466
+  status: verified
+- condition: diarrhea
+  note: A lecithin form of Boswellia extract (Casperome) shortened acute diarrhoea and reduced stool frequency
+    in a randomized study
+  reference_ids:
+  - REF-3467
+  status: verified
+- condition: heavy-bleeding
+  note: Frankincense (Boswellia serrata resin) reduced heavy menstrual bleeding vs placebo in a randomized
+    trial
+  reference_ids:
+  - REF-3468
+  status: verified
+- condition: infection
+  note: Boswellia serrata vaginal preparation improved thrush symptoms as much as clotrimazole in a randomized
+    trial
+  reference_ids:
+  - REF-3469
+  status: verified
+- condition: cognitive-function
+  note: A Boswellia extract improved memory and processing-speed tests vs placebo in a pilot trial after
+    traumatic brain injury
+  reference_ids:
+  - REF-3470
+  status: verified
 contraindications:
 - note: Generally well tolerated; the most commonly reported side effects are mild gastrointestinal symptoms,
     and allergic reactions are rare.
@@ -219,4 +266,11 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   collect and sun-dry; sourced to Banyan Botanicals (REF-3220). Existing harvesting.season not inherited.
   | 2026-11-10: symptom-source audit batch 3 - Purged REF-0423 (boswellic acids of unnamed
   Boswellia species), REF-1817 (Curcuma + Boswellia product), REF-2874/2875 (AKBA, species not
-  named). Asthma and IBD rested only on REF-0423.'
+  named). Asthma and IBD rested only on REF-0423.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. Aflapin RCT REF-1810
+  moved to direct and 2024 MA REF-3463 added for arthritis and pain; the note no longer claims
+  rheumatoid arthritis (no RA source). Radiotherapy-cream RCT REF-3471 added to skin-irritation.
+  New pairs (owner rule, RCT/MA with benefit): blood-sugar REF-3464, ibs REF-3465, asthma
+  REF-3466, diarrhea REF-3467 (Casperome studies), heavy-bleeding REF-3468, infection REF-3469
+  (VVC), cognitive-function REF-3470 (TBI pilot). Not added: collagenous-colitis Cochrane 29127772
+  ("uncertain"), B. carteri episiotomy trial (other species).'

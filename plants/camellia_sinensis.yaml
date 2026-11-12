@@ -166,12 +166,17 @@ actions:
   status: verified
 indications:
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Green tea lowered fasting glucose and HbA1c in a meta-analysis of 17 trials; a meta-analysis limited
+    to type 2 diabetes found no significant effect
   reference_ids:
   - REF-0045
+  - REF-3478
   status: needs-review
+  null_result_ids:
+  - REF-3479
 - condition: cancer
-  note: inferred from anticancer action
+  note: Tea compounds slowed bladder cancer cells in lab studies (review); a Cochrane review found inconsistent,
+    limited evidence that drinking green tea lowers cancer risk
   reference_ids:
   - REF-1965
   status: needs-review
@@ -180,9 +185,13 @@ indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-0045
+  - REF-3480
   status: verified
+  note: Green tea lowered LDL cholesterol and blood pressure in a Cochrane review of short trials; long-term
+    heart outcomes are unstudied
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: L-theanine, an amino acid found in tea, increased brain alpha activity linked to relaxed alertness
+    in a small trial (compound evidence)
   reference_ids:
   - REF-0184
   status: needs-review
@@ -203,7 +212,12 @@ indications:
 - condition: metabolic-support
   reference_ids:
   - REF-0045
+  - REF-3484
   status: verified
+  null_result_ids:
+  - REF-3483
+  note: Green tea improved weight and waist measures in a 2020 meta-analysis, but a Cochrane review found
+    only a small, non-significant weight loss
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
@@ -212,6 +226,18 @@ indications:
   - REF-1964
   - REF-1968
   - REF-0045
+- condition: high-cholesterol
+  note: Green tea catechins lowered total and LDL cholesterol in meta-analyses of randomized trials
+  reference_ids:
+  - REF-3481
+  - REF-3480
+  status: verified
+- condition: high-blood-pressure
+  note: Green tea modestly lowered blood pressure in meta-analyses of randomized trials
+  reference_ids:
+  - REF-3482
+  - REF-3480
+  status: verified
 contraindications:
 - note: Generally safe in moderate consumption. High caffeine intake may cause insomnia, anxiety, palpitations,
     or dependence. Large amounts of green tea extract supplements may be hepatotoxic (rare). May reduce
@@ -308,4 +334,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   green tea and cancer) moved to null_result_ids. REF-0045 abstract (PubMed 20370896) names
   cancer, heart/liver disease, obesity, type 2 diabetes, CV risk only. REF-0061 (Drake 2015) could
   not be located - removed from every symptom as unverifiable. REF-0184 (L-theanine EEG RCT:
-  alertness/attention) kept for cognitive-function only.'
+  alertness/attention) kept for cognitive-function only.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep (targeted "green tea"
+  title searches; the binomial search misses most trials). Added: Liu 2013 glucose MA REF-3478
+  (blood-sugar; T2DM-only MA REF-3479 null recorded), Cochrane 2013 tea/CVD REF-3480, cholesterol
+  MA REF-3481 and BP MA REF-3482 (new high-cholesterol and high-blood-pressure pairs, owner rule),
+  obesity MA REF-3484 (metabolic-support); Cochrane 2012 weight-loss review REF-3483 ("small,
+  statistically non-significant") recorded as no-effect. Cognitive note labels L-theanine as
+  compound evidence.'

@@ -162,7 +162,6 @@ actions:
     and raised haemoglobin and serum albumin across trials (Cochrane review; study quality low)
   reference_ids:
   - REF-0402
-  - REF-0586
   status: verified
 indications:
 - condition: arthritis
@@ -185,35 +184,47 @@ indications:
   - REF-0401
   status: needs-review
 - condition: cold
-  note: Supports resistance to colds and respiratory infection (immune)
+  note: inferred from immunomodulator action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2263
   - REF-0401
 - condition: fatigue
-  note: Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)
+  note: Reduced fatigue after stroke and in cancer patients in meta-analyses of trials (low-quality evidence)
+    and in a trial in nurses with post-COVID fatigue; an Astragalus polysaccharide infusion did not reduce
+    chemotherapy fatigue overall
   reference_ids:
   - REF-2261
+  - REF-3449
+  - REF-3450
   status: verified
   mechanistic_exclude_ids:
   - REF-0402
+  null_result_ids:
+  - REF-3451
 - condition: immune-support
-  note: Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes); Supports
-    resistance to colds and respiratory infection (immune)
+  note: Strengthened cellular immune markers in a meta-analysis of human studies and limited exercise-induced
+    immune suppression in athletes (randomized trial)
   reference_ids:
   - REF-0401
   - REF-0402
+  - REF-3452
+  - REF-3453
   status: verified
 - condition: infection
-  note: Supports resistance to colds and respiratory infection (immune)
+  note: Astragalus polysaccharide's immune effects are studied for infections (review of lab and animal
+    studies)
   reference_ids:
   - REF-0401
   status: verified
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Lowered pro-inflammatory cytokines in a meta-analysis of human studies and during intensive training
+    in a randomized trial
   reference_ids:
   - REF-0402
+  - REF-3452
+  - REF-3454
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -221,6 +232,12 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0402
+- condition: blood-sugar
+  note: Add-on Astragalus lowered fasting and after-meal glucose and HbA1c in type 2 diabetes (meta-analysis
+    of randomized trials; evidence of limited certainty)
+  reference_ids:
+  - REF-3455
+  status: verified
 contraindications:
 - note: Astragalus stimulates immune activity; on theoretical grounds it should be used cautiously in
     autoimmune disease and with immunosuppressant medicines (for example after organ transplant) - discuss
@@ -253,6 +270,7 @@ references:
 - REF-0401
 - REF-2262
 - REF-2263
+- REF-0586
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -295,4 +313,13 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pha
   could not be made) moved to null_result_ids. REF-0402 (AS-IV review) kept only for
   infection/inflammation/cancer/immune uses it names; REF-0401 removed from cold. REF-2261 (SR,
   post-stroke fatigue, "may benefit") added to fatigue per owner rule 2026-11-10 (may-help reviews
-  count as written).'
+  count as written).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. Added:
+  cancer-related-fatigue MA REF-3449 ("supportive", low quality), post-COVID fatigue RCT REF-3450;
+  PG2 (Astragalus polysaccharide) chemotherapy-fatigue RCT REF-3451 (no significant difference
+  overall) recorded as no-effect. Human-studies immune MA REF-3452 (immune-support, inflammation),
+  athlete RCT REF-3453 (immune-support), resistance-training RCT REF-3454 (TNF-alpha, IL-6;
+  inflammation). New blood-sugar pair from adjuvant-T2DM MA REF-3455 (owner rule). Cochrane CKD
+  REF-0586 ("definitive conclusions could not be made") removed from the nephroprotective action
+  (inv. 7) and kept in references. REF-2262 retagged narrative-review. Cold note now states its
+  inference.'

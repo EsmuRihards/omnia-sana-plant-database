@@ -161,14 +161,11 @@ constituents:
   - REF-0749
 actions:
 - action: analgesic
-  reference_ids:
-  - REF-0309
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: anti-inflammatory
   reference_ids:
-  - REF-0309
   - REF-0749
-  - REF-1952
   - REF-1958
   status: verified
 - action: anticancer
@@ -177,7 +174,6 @@ actions:
   status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0309
   - REF-0749
   - REF-1951
   - REF-1953
@@ -185,77 +181,81 @@ actions:
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0309
   - REF-1950
   status: verified
 - action: emollient
   reference_ids:
-  - REF-0309
   - REF-1951
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0309
   - REF-1958
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Borage seed oil (gamma-linolenic acid) reduced rheumatoid arthritis signs and symptoms vs placebo
+    in a 24-week randomized trial
+  reference_ids:
+  - REF-3462
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-1952
   - REF-1958
-  - REF-0309
 - condition: cancer
-  note: inferred from anticancer action
+  note: Borage extracts protected DNA and showed anticarcinogenic effects in lab studies (preclinical)
   reference_ids:
   - REF-1953
   status: needs-review
 - condition: cold
-  note: inferred from immunomodulator action
+  note: Traditional remedy for colds and influenza (narrative review)
   reference_ids:
   - REF-0749
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1958
-  - REF-0309
 - condition: eczema
-  note: inferred from emollient action
-  reference_ids: []
+  note: Undershirts coated with borage oil eased itch and redness of mild atopic dermatitis in a small
+    placebo-controlled trial; oral borage oil did not help eczema (Cochrane review; large trial)
+  reference_ids:
+  - REF-3459
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0309
-- condition: immune-support
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0309
+  null_result_ids:
+  - REF-0447
+  - REF-3460
 - condition: indigestion
   note: inferred from digestive action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0309
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory activity in lab and animal studies (narrative review); in an asthma trial borage
+    did not lower airway inflammation markers
   reference_ids:
   - REF-0749
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0309
+  null_result_ids:
+  - REF-1952
 - condition: respiratory-support
   reference_ids:
   - REF-0749
   status: verified
+  note: Traditionally used for respiratory disorders (narrative review)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-1952
   - REF-1958
-  - REF-0309
+- condition: high-cholesterol
+  note: Borage oil lowered triglycerides and raised HDL cholesterol in a randomized trial in overweight
+    young adults; total and LDL cholesterol did not change
+  reference_ids:
+  - REF-3461
+  status: verified
+- condition: asthma
+  note: Borage extract improved asthma symptoms (but not airway inflammation markers) in a phase II placebo-controlled
+    trial
+  reference_ids:
+  - REF-1952
+  status: verified
 contraindications:
 - note: 'Pyrrolizidine alkaloids (PAs): Many Boraginaceae can produce PAs; unsaturated PAs are hepatotoxic
     and genotoxic (risk increases with cumulative exposure). Borage as food/tea: PA presence in borage
@@ -271,7 +271,6 @@ contraindications:
   severity: serious
   reference_ids:
   - REF-0212
-  - REF-0309
   status: verified
 - note: Duke (2002) rates borage as a single-plus herb (+) with predominantly folklore-level evidence.
     Borage seed oil is rich in gamma-linolenic acid (GLA) and has been used for inflammatory conditions
@@ -282,7 +281,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0212
-  - REF-0309
   - REF-0063
   status: verified
 references:
@@ -372,4 +370,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 3 - REF-0129 purged (GLA review never names borage).
   REF-0309 (generic WHO 2002, no borage monograph) removed from every symptom as unverifiable.
   REF-0749 review names colds, influenza, respiratory disorders and inflammation - wired as direct
-  source there.'
+  source there.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. REF-0309 (WHO 2002
+  vol. 2, no borage monograph) purged. Eczema: undershirt RCT REF-3459 (topical, positive) added;
+  Cochrane REF-0447 and Takwale 2003 RCT REF-3460 (oral borage oil, no benefit) recorded as
+  no-effect. Arthritis: Leventhal 1993 RCT REF-3462 (GLA in borage seed oil, RA) added. New pairs
+  (owner rule): high-cholesterol (REF-3461, TG and HDL only), asthma (REF-1952). REF-1952 also
+  found no fall in airway inflammation - removed from the anti-inflammatory action, recorded as
+  no-effect for inflammation. Immune-support dropped: its only card REF-1958 showed inflammasome
+  suppression. Not added: Zurier 1996 GLA RA trial (abstract names no source plant).'

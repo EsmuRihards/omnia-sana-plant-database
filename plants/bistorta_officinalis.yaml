@@ -20,7 +20,6 @@ constituents:
   - catechin
   note: Very high tannin content is the basis of the strong astringency.
   reference_ids:
-  - REF-0411
   - REF-0746
 - name: Phenolic acids and flavonoids
   compounds:
@@ -33,8 +32,7 @@ constituents:
   compounds:
   - starch
   note: Other rhizome constituents.
-  reference_ids:
-  - REF-0411
+  reference_ids: []
 botanical_description:
   text: Perennial herb rising from a thick, twisted, S- or snake-shaped rhizome (giving the names 'bistort'
     and 'snakeroot'), blackish outside and pink inside. The basal leaves are broadly oval to lance-shaped
@@ -96,7 +94,6 @@ traditional_uses:
     been eaten as a spring pot-herb ('Easter-ledge pudding').
   reference_ids:
   - REF-0746
-  - REF-0411
   status: verified
 preparations:
 - name: Decoction (rhizome)
@@ -110,8 +107,7 @@ preparations:
   status: draft
 - name: Poultice/wash
   text: Crushed rhizome or aerial parts applied externally, or used as a wash, for minor wounds and bleeding.
-  reference_ids:
-  - REF-0411
+  reference_ids: []
   status: draft
 dosage:
 - name: Decoction/gargle
@@ -123,7 +119,6 @@ actions:
   note: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
   reference_ids:
   - REF-0746
-  - REF-0411
   - REF-2116
   status: verified
 - action: anticancer
@@ -137,33 +132,28 @@ actions:
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
   - REF-0746
-  - REF-0411
   - REF-2116
   status: verified
 - action: antimicrobial
   note: Antibacterial (topical) - GC-MS-characterised extracts showed antibacterial activity
   reference_ids:
   - REF-0746
-  - REF-0627
   - REF-0747
   status: verified
 - action: astringent
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
   - REF-0746
-  - REF-0411
   status: verified
 - action: styptic
   note: Vulnerary and styptic for minor wounds (topical)
   reference_ids:
   - REF-0746
-  - REF-0411
   status: verified
 - action: vulnerary
   note: Vulnerary and styptic for minor wounds (topical)
   reference_ids:
   - REF-0746
-  - REF-0411
   status: verified
 indications:
 - condition: cancer
@@ -179,54 +169,45 @@ indications:
   reference_ids:
   - REF-0746
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0411
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Root infusion was antibacterial in lab tests (preclinical)
   reference_ids:
   - REF-0746
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0627
 - condition: inflammation
-  note: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
+  note: Root infusion reduced inflammatory mediators in lab tests (preclinical)
   reference_ids:
   - REF-0746
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0411
 - condition: skin-irritation
-  note: inferred from astringent action
+  note: Root infusion showed antibacterial and anti-inflammatory activity relevant to inflamed skin, supporting
+    traditional topical use (preclinical)
   reference_ids:
   - REF-0746
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2116
-  - REF-0411
 - condition: wounds
-  note: Vulnerary and styptic for minor wounds (topical)
+  note: 'inferred from antimicrobial action: an extract reduced the virulence of the wound pathogen Pseudomonas
+    in the lab (preclinical)'
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0411
   - REF-0746
 contraindications:
 - note: 'Very tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce
     the absorption of iron and some medicines taken at the same time.'
   severity: info
-  reference_ids:
-  - REF-0411
+  reference_ids: []
   status: verified
 - note: Traditional use only; diarrhoea persisting beyond a few days, or mouth/throat inflammation that
     does not settle, needs medical assessment.
   severity: info
-  reference_ids:
-  - REF-0411
+  reference_ids: []
   status: verified
 - note: Safety in pregnancy and breastfeeding is not established; avoid medicinal doses.
   severity: caution
-  reference_ids:
-  - REF-0411
+  reference_ids: []
   status: needs-review
 references:
 - REF-0746
@@ -278,4 +259,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Jou
   | 2026-11-10: symptom-source audit batch 3 - REF-0411 (WebMD page, now 404) removed from every
   symptom as unverifiable. REF-0746 kept for diarrhoea, skin, antibacterial and anti-inflammatory
   uses it names; removed from arthritis, bruising, sore-throat, wounds. REF-0627 is GC-MS
-  chemistry only - removed from infection.'
+  chemistry only - removed from infection.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. WebMD page REF-0411
+  (404) purged from the actions and deleted. GC-MS study REF-0627 removed from the antimicrobial
+  action (chemistry only; kept in references). Notes rewritten; wounds is inferred from
+  anti-virulence activity against Pseudomonas (REF-0747). No trials on PubMed.'

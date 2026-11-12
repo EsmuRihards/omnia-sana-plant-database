@@ -116,7 +116,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0309
   - REF-2112
   status: verified
 - action: anticancer
@@ -129,7 +128,6 @@ actions:
   status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0309
   - REF-2109
   - REF-2111
   - REF-2112
@@ -138,7 +136,6 @@ actions:
   reference_ids:
   - REF-0740
   - REF-0283
-  - REF-0309
   - REF-0742
   - REF-2107
   - REF-2108
@@ -148,7 +145,6 @@ actions:
   status: verified
 - action: sedative
   reference_ids:
-  - REF-0309
   - REF-0740
   status: verified
 indications:
@@ -162,27 +158,41 @@ indications:
   - REF-2872
   status: needs-review
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Improved attention and processing speed in a meta-analysis of randomized trials, and cognitive
+    performance in older adults in placebo-controlled trials
   reference_ids:
   - REF-0740
   - REF-0283
+  - REF-2107
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0309
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0309
 - condition: memory
-  note: inferred from neuroprotective action
+  note: Improved memory recall and retention in randomized trials in healthy adults and older people (systematic
+    review)
   reference_ids:
   - REF-0740
   - REF-0283
+  - REF-3456
+  - REF-3457
+  - REF-3458
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0309
+- condition: anxiety
+  note: Anxiety scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized
+    trial; another trial found no change in anxiety
+  reference_ids:
+  - REF-0740
+  status: verified
+  null_result_ids:
+  - REF-3458
+- condition: depression
+  note: Depression scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized
+    trial
+  reference_ids:
+  - REF-0740
+  status: verified
 contraindications:
 - note: Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal
     - nausea, stomach cramps, and increased bowel movements - which can be reduced by taking with food.
@@ -193,7 +203,6 @@ contraindications:
   reference_ids:
   - REF-0740
   - REF-0283
-  - REF-0309
   status: verified
 - note: Duke (2002) does not include a dedicated entry for Bacopa monnieri (water hyssop/brahmi) in the
     Handbook of Medicinal Herbs, Second Edition.
@@ -201,7 +210,6 @@ contraindications:
   reference_ids:
   - REF-0740
   - REF-0283
-  - REF-0309
   - REF-0063
   status: verified
 references:
@@ -254,4 +262,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   traditional-collection source located. Existing harvesting.season not inherited.
   | 2026-11-10: symptom-source audit batch 3 - Merged duplicate REF-0038 -> REF-0740 (same
   Calabrese 2008 RCT). REF-0309 (generic "WHO Monographs" 2002; no Bacopa monograph found) removed
-  from every symptom as unverifiable.'
+  from every symptom as unverifiable.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. REF-0309 (WHO 2002
+  vol. 2, no Bacopa monograph) purged from the actions. MA REF-2107 moved to direct for
+  cognitive-function. Memory: Pase 2012 SR REF-3456, Morgan 2010 RCT REF-3457, Roodenrys 2002 RCT
+  REF-3458 added. New anxiety and depression pairs from Calabrese 2008 REF-0740 (STAI and CESD-10
+  fell vs placebo; owner rule); Roodenrys 2002 (anxiety unaffected) recorded as no-effect for
+  anxiety. Not added: Bacumen 2025 RCT (no cognitive benefit; stress/fatigue secondary), MCI sleep
+  RCT (no effect on sleep - no insomnia pair exists).'

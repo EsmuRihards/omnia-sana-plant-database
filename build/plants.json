@@ -7989,7 +7989,6 @@
      ],
      "note": "Heart-active compounds that make dosing and safety critical.",
      "reference_ids": [
-      "REF-0494",
       "REF-0495"
      ]
     },
@@ -8014,16 +8013,12 @@
     "root": "Stout, fibrous, branching taproot",
     "fruit": "Spindle-shaped seed pod (follicle) releasing silky-tufted seeds",
     "flowering_period": "June-September",
-    "reference_ids": [
-     "REF-0494"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "habitat": {
     "text": "Native to dry prairies, open fields, roadsides and sandy or rocky open ground across most of eastern and central North America.",
-    "reference_ids": [
-     "REF-0494"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvesting": {
@@ -8032,9 +8027,7 @@
      "Root"
     ],
     "season": "Autumn",
-    "reference_ids": [
-     "REF-0494"
-    ],
+    "reference_ids": [],
     "status": "draft"
    },
    "harvest_readiness": [
@@ -8058,21 +8051,11 @@
    "traditional_uses": {
     "text": "Pleurisy root has a Native American and Eclectic-medicine reputation, reflected in its name, as an expectorant and diaphoretic for chest complaints, bronchitis and pleurisy, used to promote sweating during feverish illness and help clear phlegm.",
     "reference_ids": [
-     "REF-0494",
      "REF-0495"
     ],
     "status": "verified"
    },
-   "preparations": [
-    {
-     "name": "Decoction",
-     "text": "Dried root simmered in water as a traditional expectorant and diaphoretic remedy; given its cardiac glycoside content, only under qualified practitioner guidance.",
-     "reference_ids": [
-      "REF-0494"
-     ],
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
    "dosage": [
     {
      "name": "All preparations",
@@ -8096,9 +8079,9 @@
      "action": "diaphoretic",
      "note": "Diaphoretic - promotes sweating to support feverish illness",
      "reference_ids": [
-      "REF-0494",
       "REF-0495",
-      "REF-1948"
+      "REF-1948",
+      "REF-0098"
      ],
      "status": "needs-review"
     },
@@ -8106,9 +8089,9 @@
      "action": "expectorant",
      "note": "Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy",
      "reference_ids": [
-      "REF-0494",
       "REF-0495",
-      "REF-1948"
+      "REF-1948",
+      "REF-0098"
      ],
      "status": "needs-review"
     }
@@ -8116,10 +8099,8 @@
    "indications": [
     {
      "condition": "bronchitis",
-     "note": "Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy",
-     "reference_ids": [
-      "REF-0494"
-     ],
+     "note": "inferred from expectorant action",
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0495",
@@ -8131,9 +8112,7 @@
     {
      "condition": "cold",
      "note": "inferred from diaphoretic action",
-     "reference_ids": [
-      "REF-0494"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0495",
@@ -8144,9 +8123,9 @@
     },
     {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Traditional remedy for chest complaints and pulmonary catarrh, aiding expectoration (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0494"
+      "REF-0098"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -8162,7 +8141,6 @@
      "note": "Contains cardiac glycosides: do NOT use in pregnancy, breastfeeding or infancy, in anyone with a heart condition, or alongside cardiac glycoside medicines (e.g. digoxin). The plant's cardenolide-rich latex is directly toxic - a documented case caused corneal injury through Na/K-ATPase inhibition.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0494",
       "REF-0495",
       "REF-0626"
      ],
@@ -8425,8 +8403,7 @@
      "action": "nephroprotective",
      "note": "Renoprotective (kidney support) - as an adjunct in chronic kidney disease, reduced proteinuria and raised haemoglobin and serum albumin across trials (Cochrane review; study quality low)",
      "reference_ids": [
-      "REF-0402",
-      "REF-0586"
+      "REF-0402"
      ],
      "status": "verified"
     }
@@ -8460,7 +8437,7 @@
     },
     {
      "condition": "cold",
-     "note": "Supports resistance to colds and respiratory infection (immune)",
+     "note": "inferred from immunomodulator action",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -8472,31 +8449,38 @@
     },
     {
      "condition": "fatigue",
-     "note": "Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)",
+     "note": "Reduced fatigue after stroke and in cancer patients in meta-analyses of trials (low-quality evidence) and in a trial in nurses with post-COVID fatigue; an Astragalus polysaccharide infusion did not reduce chemotherapy fatigue overall",
      "reference_ids": [
-      "REF-2261"
+      "REF-2261",
+      "REF-3449",
+      "REF-3450"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0402"
      ],
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-3451"
+     ],
+     "evidence": 9,
      "label": "Fatigue / low energy"
     },
     {
      "condition": "immune-support",
-     "note": "Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes); Supports resistance to colds and respiratory infection (immune)",
+     "note": "Strengthened cellular immune markers in a meta-analysis of human studies and limited exercise-induced immune suppression in athletes (randomized trial)",
      "reference_ids": [
       "REF-0401",
-      "REF-0402"
+      "REF-0402",
+      "REF-3452",
+      "REF-3453"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 8,
      "label": "Immune support"
     },
     {
      "condition": "infection",
-     "note": "Supports resistance to colds and respiratory infection (immune)",
+     "note": "Astragalus polysaccharide's immune effects are studied for infections (review of lab and animal studies)",
      "reference_ids": [
       "REF-0401"
      ],
@@ -8506,12 +8490,14 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Lowered pro-inflammatory cytokines in a meta-analysis of human studies and during intensive training in a randomized trial",
      "reference_ids": [
-      "REF-0402"
+      "REF-0402",
+      "REF-3452",
+      "REF-3454"
      ],
      "status": "needs-review",
-     "evidence": 2,
+     "evidence": 8,
      "label": "Inflammation (general)"
     },
     {
@@ -8524,6 +8510,16 @@
      ],
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Add-on Astragalus lowered fasting and after-meal glucose and HbA1c in type 2 diabetes (meta-analysis of randomized trials; evidence of limited certainty)",
+     "reference_ids": [
+      "REF-3455"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Blood sugar / diabetes support"
     }
    ],
    "contraindications": [
@@ -8565,7 +8561,8 @@
     "REF-2261",
     "REF-0401",
     "REF-2262",
-    "REF-2263"
+    "REF-2263",
+    "REF-0586"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -8718,7 +8715,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0309",
       "REF-2112"
      ],
      "status": "verified"
@@ -8736,7 +8732,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0309",
       "REF-2109",
       "REF-2111",
       "REF-2112"
@@ -8748,7 +8743,6 @@
      "reference_ids": [
       "REF-0740",
       "REF-0283",
-      "REF-0309",
       "REF-0742",
       "REF-2107",
       "REF-2108",
@@ -8761,7 +8755,6 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0309",
       "REF-0740"
      ],
      "status": "verified"
@@ -8782,16 +8775,14 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Improved attention and processing speed in a meta-analysis of randomized trials, and cognitive performance in older adults in placebo-controlled trials",
      "reference_ids": [
       "REF-0740",
-      "REF-0283"
+      "REF-0283",
+      "REF-2107"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0309"
-     ],
-     "evidence": 6,
+     "evidence": 9,
      "label": "Cognitive function"
     },
     {
@@ -8799,25 +8790,45 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0309"
-     ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
+     "note": "Improved memory recall and retention in randomized trials in healthy adults and older people (systematic review)",
      "reference_ids": [
       "REF-0740",
-      "REF-0283"
+      "REF-0283",
+      "REF-3456",
+      "REF-3457",
+      "REF-3458"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0309"
-     ],
-     "evidence": 6,
+     "evidence": 10,
      "label": "Memory"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Anxiety scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized trial; another trial found no change in anxiety",
+     "reference_ids": [
+      "REF-0740"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3458"
+     ],
+     "evidence": 5,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "depression",
+     "note": "Depression scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized trial",
+     "reference_ids": [
+      "REF-0740"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low mood / depression"
     }
    ],
    "contraindications": [
@@ -8826,8 +8837,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0740",
-      "REF-0283",
-      "REF-0309"
+      "REF-0283"
      ],
      "status": "verified"
     },
@@ -8837,7 +8847,6 @@
      "reference_ids": [
       "REF-0740",
       "REF-0283",
-      "REF-0309",
       "REF-0063"
      ],
      "status": "verified"
@@ -9059,7 +9068,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0080",
       "REF-0743",
       "REF-1692",
       "REF-1695",
@@ -9070,7 +9078,6 @@
     {
      "action": "anti-rheumatic",
      "reference_ids": [
-      "REF-0080",
       "REF-1692"
      ],
      "status": "verified"
@@ -9078,7 +9085,6 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0080",
       "REF-1695",
       "REF-1696",
       "REF-1697"
@@ -9088,7 +9094,6 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0080",
       "REF-1694"
      ],
      "status": "verified"
@@ -9096,7 +9101,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0080",
       "REF-0743"
      ],
      "status": "verified"
@@ -9104,7 +9108,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0080",
       "REF-0743",
       "REF-0744",
       "REF-1693",
@@ -9115,10 +9118,8 @@
     },
     {
      "action": "antiviral",
-     "reference_ids": [
-      "REF-0080"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "diuretic",
@@ -9129,88 +9130,60 @@
     },
     {
      "action": "emollient",
-     "reference_ids": [
-      "REF-0080"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "gastroprotective",
-     "reference_ids": [
-      "REF-0080"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     }
    ],
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Leaf extract slowed inflammatory lymphocytes (a rationale for rheumatoid arthritis) and birch has been studied for degenerative joint disease (preclinical; genus review)",
+     "reference_ids": [
+      "REF-0743",
+      "REF-1692"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0080",
       "REF-1697"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "back-pain",
-     "note": "inferred from anti-rheumatic action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
-     "evidence": 1,
-     "label": "Back pain"
     },
     {
      "condition": "blood-sugar",
      "note": "inferred from antidiabetic action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
      "evidence": 1,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Compounds from birch buds induced apoptosis in digestive-system cancer cells (preclinical)",
      "reference_ids": [
       "REF-1696"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
      "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "infection",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
-     "evidence": 1,
-     "label": "Infection (general)"
-    },
-    {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Leaf extract slowed the growth of inflammatory lymphocytes in the lab (preclinical)",
+     "reference_ids": [
+      "REF-1692"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0080",
-      "REF-1697"
+      "REF-1697",
+      "REF-0743"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -9218,9 +9191,6 @@
      "note": "inferred from antidiabetic action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
      "evidence": 1,
      "label": "Metabolic support"
     },
@@ -9230,32 +9200,21 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0080",
-      "REF-1697"
+      "REF-1697",
+      "REF-0743"
      ],
      "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Used to increase urine flow and flush the urinary tract in minor urinary complaints (EMA summary)",
      "reference_ids": [
       "REF-0080"
      ],
      "status": "needs-review",
      "evidence": 1,
      "label": "Urinary support"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0080"
-     ],
-     "evidence": 1,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -9328,7 +9287,6 @@
      ],
      "note": "Very high tannin content is the basis of the strong astringency.",
      "reference_ids": [
-      "REF-0411",
       "REF-0746"
      ]
     },
@@ -9349,9 +9307,7 @@
       "starch"
      ],
      "note": "Other rhizome constituents.",
-     "reference_ids": [
-      "REF-0411"
-     ]
+     "reference_ids": []
     }
    ],
    "botanical_description": {
@@ -9422,8 +9378,7 @@
    "traditional_uses": {
     "text": "Bistort rhizome, one of the most tannin-rich temperate herbs, has a long European folk history as a powerful astringent for mild diarrhoea, as a gargle for sore throat and mouth inflammation, and topically as a vulnerary and styptic for minor wounds and bleeding; young leaves have also traditionally been eaten as a spring pot-herb ('Easter-ledge pudding').",
     "reference_ids": [
-     "REF-0746",
-     "REF-0411"
+     "REF-0746"
     ],
     "status": "verified"
    },
@@ -9435,14 +9390,6 @@
       "REF-0746"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Poultice/wash",
-     "text": "Crushed rhizome or aerial parts applied externally, or used as a wash, for minor wounds and bleeding.",
-     "reference_ids": [
-      "REF-0411"
-     ],
-     "status": "draft"
     }
    ],
    "dosage": [],
@@ -9452,7 +9399,6 @@
      "note": "Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)",
      "reference_ids": [
       "REF-0746",
-      "REF-0411",
       "REF-2116"
      ],
      "status": "verified"
@@ -9471,7 +9417,6 @@
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
       "REF-0746",
-      "REF-0411",
       "REF-2116"
      ],
      "status": "verified"
@@ -9481,7 +9426,6 @@
      "note": "Antibacterial (topical) - GC-MS-characterised extracts showed antibacterial activity",
      "reference_ids": [
       "REF-0746",
-      "REF-0627",
       "REF-0747"
      ],
      "status": "verified"
@@ -9490,8 +9434,7 @@
      "action": "astringent",
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
-      "REF-0746",
-      "REF-0411"
+      "REF-0746"
      ],
      "status": "verified"
     },
@@ -9499,8 +9442,7 @@
      "action": "styptic",
      "note": "Vulnerary and styptic for minor wounds (topical)",
      "reference_ids": [
-      "REF-0746",
-      "REF-0411"
+      "REF-0746"
      ],
      "status": "verified"
     },
@@ -9508,8 +9450,7 @@
      "action": "vulnerary",
      "note": "Vulnerary and styptic for minor wounds (topical)",
      "reference_ids": [
-      "REF-0746",
-      "REF-0411"
+      "REF-0746"
      ],
      "status": "verified"
     }
@@ -9533,59 +9474,48 @@
       "REF-0746"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0411"
-     ],
      "evidence": 2,
      "label": "Diarrhoea"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Root infusion was antibacterial in lab tests (preclinical)",
      "reference_ids": [
       "REF-0746"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0627"
-     ],
      "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)",
+     "note": "Root infusion reduced inflammatory mediators in lab tests (preclinical)",
      "reference_ids": [
       "REF-0746"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0411"
-     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from astringent action",
+     "note": "Root infusion showed antibacterial and anti-inflammatory activity relevant to inflamed skin, supporting traditional topical use (preclinical)",
      "reference_ids": [
       "REF-0746"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2116",
-      "REF-0411"
+      "REF-2116"
      ],
      "evidence": 2,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
-     "note": "Vulnerary and styptic for minor wounds (topical)",
+     "note": "inferred from antimicrobial action: an extract reduced the virulence of the wound pathogen Pseudomonas in the lab (preclinical)",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0411",
       "REF-0746"
      ],
      "evidence": 1,
@@ -9596,25 +9526,19 @@
     {
      "note": "Very tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce the absorption of iron and some medicines taken at the same time.",
      "severity": "info",
-     "reference_ids": [
-      "REF-0411"
-     ],
+     "reference_ids": [],
      "status": "verified"
     },
     {
      "note": "Traditional use only; diarrhoea persisting beyond a few days, or mouth/throat inflammation that does not settle, needs medical assessment.",
      "severity": "info",
-     "reference_ids": [
-      "REF-0411"
-     ],
+     "reference_ids": [],
      "status": "verified"
     },
     {
      "note": "Safety in pregnancy and breastfeeding is not established; avoid medicinal doses.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0411"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     }
    ],
@@ -9835,17 +9759,13 @@
    "actions": [
     {
      "action": "analgesic",
-     "reference_ids": [
-      "REF-0309"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0309",
       "REF-0749",
-      "REF-1952",
       "REF-1958"
      ],
      "status": "verified"
@@ -9860,7 +9780,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0309",
       "REF-0749",
       "REF-1951",
       "REF-1953",
@@ -9871,7 +9790,6 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0309",
       "REF-1950"
      ],
      "status": "verified"
@@ -9879,7 +9797,6 @@
     {
      "action": "emollient",
      "reference_ids": [
-      "REF-0309",
       "REF-1951"
      ],
      "status": "verified"
@@ -9887,7 +9804,6 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0309",
       "REF-1958"
      ],
      "status": "verified"
@@ -9896,20 +9812,20 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Borage seed oil (gamma-linolenic acid) reduced rheumatoid arthritis signs and symptoms vs placebo in a 24-week randomized trial",
+     "reference_ids": [
+      "REF-3462"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1952",
-      "REF-1958",
-      "REF-0309"
+      "REF-1958"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Borage extracts protected DNA and showed anticarcinogenic effects in lab studies (preclinical)",
      "reference_ids": [
       "REF-1953"
      ],
@@ -9919,59 +9835,48 @@
     },
     {
      "condition": "cold",
-     "note": "inferred from immunomodulator action",
+     "note": "Traditional remedy for colds and influenza (narrative review)",
      "reference_ids": [
       "REF-0749"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1958",
-      "REF-0309"
+      "REF-1958"
      ],
      "evidence": 2,
      "label": "Cold & flu"
     },
     {
      "condition": "eczema",
-     "note": "inferred from emollient action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0309"
+     "note": "Undershirts coated with borage oil eased itch and redness of mild atopic dermatitis in a small placebo-controlled trial; oral borage oil did not help eczema (Cochrane review; large trial)",
+     "reference_ids": [
+      "REF-3459"
      ],
-     "evidence": 1,
+     "status": "needs-review",
+     "null_result_ids": [
+      "REF-0447",
+      "REF-3460"
+     ],
+     "evidence": 5,
      "label": "Eczema"
-    },
-    {
-     "condition": "immune-support",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0309"
-     ],
-     "evidence": 1,
-     "label": "Immune support"
     },
     {
      "condition": "indigestion",
      "note": "inferred from digestive action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0309"
-     ],
      "evidence": 1,
      "label": "Indigestion"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory activity in lab and animal studies (narrative review); in an asthma trial borage did not lower airway inflammation markers",
      "reference_ids": [
       "REF-0749"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0309"
+     "null_result_ids": [
+      "REF-1952"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -9982,6 +9887,7 @@
       "REF-0749"
      ],
      "status": "verified",
+     "note": "Traditionally used for respiratory disorders (narrative review)",
      "evidence": 2,
      "label": "Respiratory support"
     },
@@ -9991,12 +9897,30 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1952",
-      "REF-1958",
-      "REF-0309"
+      "REF-1958"
      ],
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Borage oil lowered triglycerides and raised HDL cholesterol in a randomized trial in overweight young adults; total and LDL cholesterol did not change",
+     "reference_ids": [
+      "REF-3461"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "asthma",
+     "note": "Borage extract improved asthma symptoms (but not airway inflammation markers) in a phase II placebo-controlled trial",
+     "reference_ids": [
+      "REF-1952"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Asthma"
     }
    ],
    "contraindications": [
@@ -10004,8 +9928,7 @@
      "note": "Pyrrolizidine alkaloids (PAs): Many Boraginaceae can produce PAs; unsaturated PAs are hepatotoxic and genotoxic (risk increases with cumulative exposure). Borage as food/tea: PA presence in borage consumed as herb/tea has been specifically studied; EU has set PA maximum levels for certain foods including borage (context for why sourcing/limits matter). Pregnancy/breastfeeding: avoid internal use of borage herb products due to PA-related concerns and risk uncertainty. Liver disease / long-term use: avoid (PA risk + cumulative exposure logic). Seed oil vs herb: refined/quality-controlled seed oil is generally the preferred form when borage is used medicinally, because the main target compound is GLA; however, product quality and contamination control still matter. Drug interactions (caution): GLA oils have been discussed with anticoagulants (bleeding risk caution is better established for evening primrose oil; borage oil is often grouped in the same “GLA oil” category). Use caution if on anticoagulants/antiplatelets.",
      "severity": "serious",
      "reference_ids": [
-      "REF-0212",
-      "REF-0309"
+      "REF-0212"
      ],
      "status": "verified"
     },
@@ -10014,7 +9937,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0212",
-      "REF-0309",
       "REF-0063"
      ],
      "status": "verified"
@@ -10197,18 +10119,20 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks); Supports inflammatory arthritis including rheumatoid arthritis",
+     "note": "Reduced osteoarthritis pain and stiffness and improved function in meta-analyses and randomized trials (from about 4 weeks of use)",
      "reference_ids": [
       "REF-0422",
       "REF-0573",
-      "REF-0574"
+      "REF-0574",
+      "REF-1810",
+      "REF-3463"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-1811",
       "REF-1813"
      ],
-     "evidence": 9,
+     "evidence": 10,
      "label": "Arthritis / joint pain"
     },
     {
@@ -10225,7 +10149,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Boswellia extract reduced inflammatory markers and knee osteoarthritis symptoms in a placebo-controlled trial; boswellic acids inhibit inflammatory enzymes in lab studies",
      "reference_ids": [
       "REF-0573"
      ],
@@ -10235,20 +10159,24 @@
     },
     {
      "condition": "pain",
-     "note": "Analgesic (pain relief); Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks)",
+     "note": "Relieved osteoarthritis joint pain in meta-analyses and randomized trials",
      "reference_ids": [
       "REF-0422",
       "REF-0573",
-      "REF-0574"
+      "REF-0574",
+      "REF-1810",
+      "REF-3463"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 10,
      "label": "Pain (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "A Boswellia cream reduced radiotherapy skin redness and the need for steroid creams in a randomized trial in breast cancer",
+     "reference_ids": [
+      "REF-3471"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0573",
@@ -10257,8 +10185,78 @@
       "REF-1813",
       "REF-1816"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Boswellia improved blood glucose markers and blood lipids in type 2 diabetes (meta-analysis of randomized trials)",
+     "reference_ids": [
+      "REF-3464"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "ibs",
+     "note": "A lecithin form of Boswellia extract (Casperome) improved IBS symptoms in a randomized study",
+     "reference_ids": [
+      "REF-3465"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Irritable bowel syndrome (IBS)"
+    },
+    {
+     "condition": "asthma",
+     "note": "A lecithin form of Boswellia extract (Casperome) reduced the need for inhaled asthma medication in a randomized add-on study",
+     "reference_ids": [
+      "REF-3466"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Asthma"
+    },
+    {
+     "condition": "diarrhea",
+     "note": "A lecithin form of Boswellia extract (Casperome) shortened acute diarrhoea and reduced stool frequency in a randomized study",
+     "reference_ids": [
+      "REF-3467"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Diarrhoea"
+    },
+    {
+     "condition": "heavy-bleeding",
+     "note": "Frankincense (Boswellia serrata resin) reduced heavy menstrual bleeding vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3468"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Heavy menstrual bleeding"
+    },
+    {
+     "condition": "infection",
+     "note": "Boswellia serrata vaginal preparation improved thrush symptoms as much as clotrimazole in a randomized trial",
+     "reference_ids": [
+      "REF-3469"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Infection (general)"
+    },
+    {
+     "condition": "cognitive-function",
+     "note": "A Boswellia extract improved memory and processing-speed tests vs placebo in a pilot trial after traumatic brain injury",
+     "reference_ids": [
+      "REF-3470"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Cognitive function"
     }
    ],
    "contraindications": [
@@ -10550,14 +10548,16 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antifungal action",
-     "reference_ids": [],
+     "note": "Calendula vaginal cream cleared thrush less often than clotrimazole at 2 weeks but more often at 1 month in a randomized trial",
+     "reference_ids": [
+      "REF-0754"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0199",
       "REF-0112"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Infection (general)"
     },
     {
@@ -10574,31 +10574,40 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Calendula cream prevented radiation dermatitis better than trolamine and essential fatty acids in randomized trials and helped diaper and contact dermatitis; one trial found no difference from a standard moisturiser",
+     "reference_ids": [
+      "REF-3472",
+      "REF-3473",
+      "REF-3474",
+      "REF-3475"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2128",
       "REF-0112",
       "REF-0199"
      ],
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-3476"
+     ],
+     "evidence": 7,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Calendula sped healing of hand wounds and, taken orally, of second-degree burns in randomized trials; a systematic review found some benefit, though trials in burns and diabetic ulcers did not",
      "reference_ids": [
       "REF-0199",
       "REF-0752",
-      "REF-2125"
+      "REF-2125",
+      "REF-3477"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2127",
       "REF-0112"
      ],
-     "evidence": 8,
+     "evidence": 9,
      "label": "Wounds"
     }
    ],
@@ -10855,17 +10864,21 @@
    "indications": [
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Green tea lowered fasting glucose and HbA1c in a meta-analysis of 17 trials; a meta-analysis limited to type 2 diabetes found no significant effect",
      "reference_ids": [
-      "REF-0045"
+      "REF-0045",
+      "REF-3478"
      ],
      "status": "needs-review",
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-3479"
+     ],
+     "evidence": 7,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Tea compounds slowed bladder cancer cells in lab studies (review); a Cochrane review found inconsistent, limited evidence that drinking green tea lowers cancer risk",
      "reference_ids": [
       "REF-1965"
      ],
@@ -10879,15 +10892,17 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0045"
+      "REF-0045",
+      "REF-3480"
      ],
      "status": "verified",
-     "evidence": 2,
+     "note": "Green tea lowered LDL cholesterol and blood pressure in a Cochrane review of short trials; long-term heart outcomes are unstudied",
+     "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "L-theanine, an amino acid found in tea, increased brain alpha activity linked to relaxed alertness in a small trial (compound evidence)",
      "reference_ids": [
       "REF-0184"
      ],
@@ -10923,10 +10938,15 @@
     {
      "condition": "metabolic-support",
      "reference_ids": [
-      "REF-0045"
+      "REF-0045",
+      "REF-3484"
      ],
      "status": "verified",
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-3483"
+     ],
+     "note": "Green tea improved weight and waist measures in a 2020 meta-analysis, but a Cochrane review found only a small, non-significant weight loss",
+     "evidence": 7,
      "label": "Metabolic support"
     },
     {
@@ -10941,6 +10961,28 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Green tea catechins lowered total and LDL cholesterol in meta-analyses of randomized trials",
+     "reference_ids": [
+      "REF-3481",
+      "REF-3480"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Green tea modestly lowered blood pressure in meta-analyses of randomized trials",
+     "reference_ids": [
+      "REF-3482",
+      "REF-3480"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [
@@ -11140,7 +11182,6 @@
      ],
      "note": "Flavonol glycosides such as quercetin and kaempferol glycosides.",
      "reference_ids": [
-      "REF-2817",
       "REF-2816"
      ]
     },
@@ -11148,7 +11189,6 @@
      "name": "Polyacetylenes (lobetyol, lobetyolin)",
      "note": "Acetylenic (polyacetylene) compounds lobetyol and lobetyolin, characteristic antioxidant constituents of the Campanulaceae.",
      "reference_ids": [
-      "REF-2817",
       "REF-2816"
      ]
     },
@@ -11167,27 +11207,20 @@
    "actions": [
     {
      "action": "antioxidant",
-     "reference_ids": [
-      "REF-2816",
-      "REF-2817"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "anti-inflammatory",
      "note": "Bellflower extracts downregulate inflammatory cytokines (TNF-alpha, IL-1beta).",
-     "reference_ids": [
-      "REF-2816"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "antimicrobial",
      "note": "Antibacterial activity of bellflower extracts/hydrolysates (genus Campanula).",
-     "reference_ids": [
-      "REF-2816"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "vulnerary",
@@ -11214,7 +11247,6 @@
    ],
    "references": [
     "REF-2816",
-    "REF-2817",
     "REF-2820"
    ],
    "lookalikes_review": {

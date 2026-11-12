@@ -144,7 +144,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0080
   - REF-0743
   - REF-1692
   - REF-1695
@@ -152,29 +151,24 @@ actions:
   status: verified
 - action: anti-rheumatic
   reference_ids:
-  - REF-0080
   - REF-1692
   status: verified
 - action: anticancer
   reference_ids:
-  - REF-0080
   - REF-1695
   - REF-1696
   - REF-1697
   status: verified
 - action: antidiabetic
   reference_ids:
-  - REF-0080
   - REF-1694
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0080
   - REF-0743
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0080
   - REF-0743
   - REF-0744
   - REF-1693
@@ -182,85 +176,61 @@ actions:
   - REF-1695
   status: verified
 - action: antiviral
-  reference_ids:
-  - REF-0080
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: diuretic
   reference_ids:
   - REF-0080
   status: verified
 - action: emollient
-  reference_ids:
-  - REF-0080
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: gastroprotective
-  reference_ids:
-  - REF-0080
-  status: verified
+  reference_ids: []
+  status: needs-review
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Leaf extract slowed inflammatory lymphocytes (a rationale for rheumatoid arthritis) and birch
+    has been studied for degenerative joint disease (preclinical; genus review)
+  reference_ids:
+  - REF-0743
+  - REF-1692
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0080
   - REF-1697
-- condition: back-pain
-  note: inferred from anti-rheumatic action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0080
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0080
 - condition: cancer
-  note: inferred from anticancer action
+  note: Compounds from birch buds induced apoptosis in digestive-system cancer cells (preclinical)
   reference_ids:
   - REF-1696
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0080
-- condition: infection
-  note: inferred from antimicrobial action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0080
 - condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Leaf extract slowed the growth of inflammatory lymphocytes in the lab (preclinical)
+  reference_ids:
+  - REF-1692
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0080
   - REF-1697
+  - REF-0743
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0080
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0080
   - REF-1697
+  - REF-0743
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Used to increase urine flow and flush the urinary tract in minor urinary complaints (EMA summary)
   reference_ids:
   - REF-0080
   status: needs-review
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0080
 contraindications:
 - note: Generally considered safe when used appropriately. Side effects may include diarrhea, nausea,
     and allergic reactions (itching, rash, stuffy nose). Not recommended for individuals with edema caused
@@ -327,4 +297,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   young leaves and buds in spring; bark from felled timber (peels most easily late spring to early summer);
   sourced to Useful Temperate Plants (REF-3213). Existing harvesting.season not inherited; signals re-derived.
   | 2026-11-10: symptom-source audit batch 3 - EMA birch-leaf summary (REF-0080) covers flushing
-  of the urinary tract in minor urinary complaints only - removed from swelling and uti.'
+  of the urinary tract in minor urinary complaints only - removed from swelling and uti.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. EMA public summary
+  REF-0080 (urinary flushing only) was filed under 10 actions - removed from all but diuretic.
+  Genus review REF-0743 names B. pendula only for degenerative joint disease: direct for
+  arthritis, hidden elsewhere (prose-only genus claims) - infection and wounds dropped. REF-1692
+  (inflammatory lymphocytes; rationale for RA) direct for arthritis and inflammation; back-pain
+  dropped (off-target, inv. 11). REF-1695 is B. pendula subsp. mandshurica (accepted infraspecific
+  taxon) - kept.'

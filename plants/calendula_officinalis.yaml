@@ -187,8 +187,10 @@ indications:
   - REF-2877
   status: needs-review
 - condition: infection
-  note: inferred from antifungal action
-  reference_ids: []
+  note: Calendula vaginal cream cleared thrush less often than clotrimazole at 2 weeks but more often
+    at 1 month in a randomized trial
+  reference_ids:
+  - REF-0754
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0199
@@ -201,19 +203,29 @@ indications:
   - REF-0112
   - REF-0199
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Calendula cream prevented radiation dermatitis better than trolamine and essential fatty acids
+    in randomized trials and helped diaper and contact dermatitis; one trial found no difference from
+    a standard moisturiser
+  reference_ids:
+  - REF-3472
+  - REF-3473
+  - REF-3474
+  - REF-3475
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2128
   - REF-0112
   - REF-0199
+  null_result_ids:
+  - REF-3476
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Calendula sped healing of hand wounds and, taken orally, of second-degree burns in randomized
+    trials; a systematic review found some benefit, though trials in burns and diabetic ulcers did not
   reference_ids:
   - REF-0199
   - REF-0752
   - REF-2125
+  - REF-3477
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2127
@@ -286,4 +298,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   of a monograph-based Calendula cream" (Nicolaus 2017) is not in PubMed and had no DOI or
   journal; it had lifted 6 pairs to 5/10. REF-0112 (Hoffmann) removed from every symptom as
   unverifiable. REF-0199 (rat excision wounds) kept for wounds only. Added REF-0752 (SR: some
-  evidence for wound healing) and REF-2125 (RCT, burn wounds, positive) to wounds.'
+  evidence for wound healing) and REF-2125 (RCT, burn wounds, positive) to wounds.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. Skin-irritation was
+  inferred only although trials exist: Pommier 2004 phase III REF-3472, 2015 RCT REF-3473, 2025
+  contact-dermatitis RCT REF-3474 and diaper-dermatitis RCT REF-3475 added; 2021 radiation RCT
+  REF-3476 (no difference from sorbolene) recorded as no-effect. Hand-wound RCT REF-3477 added to
+  wounds. Held VVC RCT REF-0754 wired to infection. Owner answer (batch 3): systematic reviews of
+  lab/animal studies keep scoring as SRs - REF-2124 (cancer) left as tagged.'

@@ -17,7 +17,6 @@ constituents:
   - glycoside
   note: Heart-active compounds that make dosing and safety critical.
   reference_ids:
-  - REF-0494
   - REF-0495
 - name: Flavonoids and amino acids
   compounds:
@@ -38,14 +37,12 @@ botanical_description:
   root: Stout, fibrous, branching taproot
   fruit: Spindle-shaped seed pod (follicle) releasing silky-tufted seeds
   flowering_period: June-September
-  reference_ids:
-  - REF-0494
+  reference_ids: []
   status: verified
 habitat:
   text: Native to dry prairies, open fields, roadsides and sandy or rocky open ground across most of eastern
     and central North America.
-  reference_ids:
-  - REF-0494
+  reference_ids: []
   status: verified
 harvesting:
   text: The root is dug in autumn after the plant has finished flowering and seeding, then cleaned and
@@ -54,8 +51,7 @@ harvesting:
   parts:
   - Root
   season: Autumn
-  reference_ids:
-  - REF-0494
+  reference_ids: []
   status: draft
 harvest_readiness:
 - part: root
@@ -75,15 +71,13 @@ traditional_uses:
     an expectorant and diaphoretic for chest complaints, bronchitis and pleurisy, used to promote sweating
     during feverish illness and help clear phlegm.
   reference_ids:
-  - REF-0494
   - REF-0495
   status: verified
 preparations:
 - name: Decoction
   text: Dried root simmered in water as a traditional expectorant and diaphoretic remedy; given its cardiac
     glycoside content, only under qualified practitioner guidance.
-  reference_ids:
-  - REF-0494
+  reference_ids: []
   status: draft
 - name: Tincture
   text: Alcoholic extract of the dried root.
@@ -106,38 +100,37 @@ actions:
 - action: diaphoretic
   note: Diaphoretic - promotes sweating to support feverish illness
   reference_ids:
-  - REF-0494
   - REF-0495
   - REF-1948
+  - REF-0098
   status: needs-review
 - action: expectorant
   note: Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy
   reference_ids:
-  - REF-0494
   - REF-0495
   - REF-1948
+  - REF-0098
   status: needs-review
 indications:
 - condition: bronchitis
-  note: Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy
-  reference_ids:
-  - REF-0494
+  note: inferred from expectorant action
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0495
   - REF-1948
 - condition: cold
   note: inferred from diaphoretic action
-  reference_ids:
-  - REF-0494
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0495
   - REF-1948
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Traditional remedy for chest complaints and pulmonary catarrh, aiding expectoration (Grieve, A
+    Modern Herbal)
   reference_ids:
-  - REF-0494
+  - REF-0098
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0495
@@ -148,7 +141,6 @@ contraindications:
     latex is directly toxic - a documented case caused corneal injury through Na/K-ATPase inhibition.'
   severity: caution
   reference_ids:
-  - REF-0494
   - REF-0495
   - REF-0626
   status: verified
@@ -223,4 +215,16 @@ internal_notes: 'Enriched 2026-06-12 from general herbal literature (traditional
   1848, no text found) removed from every symptom as unverifiable. REF-0494 (Naturopathic
   Herbalist) names bronchitis, pleurisy/breathing, influenza and inflammation of serous tissues -
   not cough or fever (expectorant/diaphoretic are actions). REF-1947 (fibroblast proliferation) is
-  not skin-irritation evidence.'
+  not skin-irritation evidence.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. The Naturopathic
+  Herbalist page REF-0494 (checked 2026-11-12) cites no checkable references (only a pointer to
+  the author''s unnamed textbook) - not a source (batch-9 rule); purged and deleted. Replaced by
+  Grieve REF-0098 (Pleurisy Root, botanical.com/botanical/mgmh/p/pleuri52.html: chest complaints,
+  pulmonary catarrh, assisting expectoration, perspiration in fever and pleurisy, diarrhoea,
+  dysentery, rheumatism, eczema) for respiratory-support and the diaphoretic/expectorant actions.
+  Bronchitis and cold dropped (Grieve names neither). Gap: Grieve''s diarrhoea/rheumatism/eczema
+  uses have no pairs (traditional only, no SR/RCT).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 3 follow-up - Correction to the entry
+  above: bronchitis and cold were NOT dropped - with REF-0494 gone they remain as inferred-only
+  pairs, carried by Grieve REF-0098 on the expectorant and diaphoretic actions (generic
+  inferences, inv. 11); bronchitis note set to "inferred from expectorant action".'

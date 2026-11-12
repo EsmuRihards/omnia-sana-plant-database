@@ -228,7 +228,8 @@ indications:
   mechanistic_exclude_ids:
   - REF-0681
 - condition: indigestion
-  note: Mild bitter digestive tonic (indigestion)
+  note: 'inferred from gastroprotective action: leaf extract protected the stomach lining from alcohol
+    damage in rats (preclinical)'
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
@@ -246,7 +247,7 @@ indications:
   - REF-0680
   - REF-0683
 - condition: skin-irritation
-  note: inferred from astringent action
+  note: Applied for minor skin inflammation (EU herbal monograph; Herbal Reality)
   reference_ids:
   - REF-0386
   - REF-0387
@@ -269,6 +270,12 @@ indications:
   status: verified
   mechanistic_exclude_ids:
   - REF-0681
+- condition: liver-support
+  note: Lowered the liver enzyme ALT and blood triglycerides vs placebo in adults with mildly raised ALT
+    (one randomized trial)
+  reference_ids:
+  - REF-3412
+  status: verified
 contraindications:
 - note: 'Traditional-use indication only: if diarrhoea persists longer than 3-4 days, or symptoms of mouth/throat
     inflammation persist beyond about a week, a doctor should be consulted.'
@@ -334,4 +341,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (EMA
   mouth/throat inflammation, minor skin inflammation and superficial wounds only - removed from
   arthritis/bruising. REF-0680 (neuropathic pain model) removed from arthritis/inflammation.
   General refs that do not name the symptom removed; REF-0684 (gastric ulcer) kept as mechanistic
-  only.'
+  only.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. New liver-support pair
+  from RCT REF-3412 (2018, double-blind; ALT and TG fell vs placebo in adults with raised ALT)
+  under the owner rule. Indigestion note now states its inference (gastroprotection in rats).
+  Skin-irritation note now credits the EU monograph.'

@@ -151,28 +151,27 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-2405
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2403
   - REF-0590
 - condition: cancer
-  note: Escin shows antiproliferative and pro-apoptotic activity and enhances chemotherapy/immunotherapy
-    efficacy in breast (MCF-7), hepatocellular, lung and pancreatic cancer models; it modulates NF-kappaB,
-    p53, p38 MAPK/ERK and PD-L1 (preclinical).
+  note: Escin, horse chestnut's main active compound, slowed breast, liver, lung and pancreatic cancer
+    cells and made them more sensitive to chemotherapy in lab studies (compound evidence, preclinical)
   reference_ids:
   - REF-0471
   - REF-2835
   status: needs-review
 - condition: hemorrhoids
-  note: Relief of haemorrhoid symptoms (venotonic)
+  note: inferred from venotonic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0590
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Escin, horse chestnut's main active compound, reduced inflammation and swelling in lab and animal
+    studies and in trials of escin gel for blunt injuries (compound evidence; reviews)
   reference_ids:
   - REF-0471
   - REF-0590
@@ -233,7 +232,7 @@ drug_class_interactions:
   mechanism: Horse chestnut seed contains aescin and coumarin-like constituents (esculin) that may add
     to the effect of blood-thinning or antiplatelet drugs, so combined use should be monitored.
   reference_ids:
-  - REF-2446
+  - REF-0470
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -275,4 +274,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review
   | 2026-11-10: symptom-source audit batch 1 - REF-0678 purged (venoactive-drug review never names
   horse chestnut). REF-2832/2833/2834 purged (escin papers, no source species named).
   REF-0590/REF-0676 removed from arthritis/hemorrhoids/skin-irritation (abstracts do not name
-  them).'
+  them).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Cochrane 2006 REF-2446
+  merged into its 2012 update REF-0470 (superseded, inv. 11). REF-2405 credits the 5-ingredient
+  product Flonat Fast (escin alone not reported in the abstract) - removed from arthritis, kept as
+  a mechanistic card; arthritis is now inferred only. Inflammation and cancer notes labelled as
+  escin (signature compound) evidence.'

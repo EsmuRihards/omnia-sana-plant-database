@@ -171,13 +171,12 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  note: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related Aloysia
-    polystachya
+  note: Calming (anxiolytic) activity reported in the pharmacology literature (narrative review)
   reference_ids:
   - REF-0474
   status: verified
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditional use for rheumatism (narrative review)
   reference_ids:
   - REF-0474
   status: needs-review
@@ -197,28 +196,29 @@ indications:
   - REF-2850
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Leaf extract and essential oil showed anti-inflammatory activity in lab assays (preclinical)
   reference_ids:
   - REF-0692
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0474
 - condition: insomnia
-  note: Sedative / sleep support (insomnia)
+  note: Improved sleep quality vs placebo in two randomized trials (people with insomnia; healthy adults
+    with sleep problems)
   reference_ids:
   - REF-0474
   - REF-0690
   - REF-0691
   status: verified
 - condition: muscle-soreness
-  note: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
-    stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
-    less soreness after exhaustive exercise
+  note: Lemon verbena extract reduced muscle damage and soreness after exhausting exercise vs placebo
+    in two randomized trials
   reference_ids:
   - REF-0620
+  - REF-3425
   status: verified
 - condition: nervous-tension
-  note: inferred from anxiolytic action
+  note: Calming (anxiolytic) activity reported in the pharmacology literature (narrative review)
   reference_ids:
   - REF-0474
   status: needs-review
@@ -311,4 +311,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   | 2026-11-10: symptom-source audit batch 1 - REF-0474 (narrative review) kept only where its
   abstract names the use (anxiolytic, rheumatism, flatulence, insomnia/sedative, anticancer);
   removed from indigestion, inflammation, muscle-soreness, skin-irritation, stress. REF-0692 (in
-  vitro) kept as mechanistic only for arthritis/skin-irritation.'
+  vitro) kept as mechanistic only for arthritis/skin-irritation.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Anxiety note claimed
+  support from a trial of Aloysia polystachya (another species) - removed (inv. 10). Planox RCT
+  2021 REF-3425 (less muscle pain and damage after exhaustive exercise) added to muscle-soreness.
+  Notes rewritten from "inferred" to their real sources.'

@@ -154,21 +154,26 @@ indications:
   - REF-2830
   - REF-2831
 - condition: hot-flashes
-  note: Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis
-    supports benefit, though an earlier systematic review judged the evidence inconsistent)
+  note: Reduced hot flushes in meta-analyses and in a large trial of the isopropanolic extract; a Cochrane
+    review and several large trials found no difference from placebo
   reference_ids:
   - REF-0670
   - REF-2397
   - REF-2399
+  - REF-3404
+  - REF-3407
   status: verified
   null_result_ids:
   - REF-0623
   - REF-0672
   - REF-0673
+  - REF-3403
+  - REF-3405
+  - REF-3406
 - condition: menopause
-  note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood);
-    Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis
-    supports benefit, though an earlier systematic review judged the evidence inconsistent)
+  note: Improved overall menopausal symptom scores in meta-analyses and in a large trial of the isopropanolic
+    extract; a Cochrane review and several trials found no benefit over placebo; no effect on menopausal
+    anxiety
   reference_ids:
   - REF-0670
   - REF-0674
@@ -177,11 +182,22 @@ indications:
   - REF-2399
   - REF-2401
   - REF-2589
+  - REF-3404
+  - REF-3407
   status: verified
   null_result_ids:
   - REF-0623
   - REF-0672
   - REF-0673
+  - REF-3403
+  - REF-3405
+  - REF-3406
+- condition: insomnia
+  note: Improved objective sleep (sleep efficiency, time awake at night) vs placebo in a randomized trial
+    in postmenopausal women with sleep problems
+  reference_ids:
+  - REF-3408
+  status: verified
 contraindications:
 - note: Rare reports of liver injury have prompted a precaution; large meta-analytic data found no evidence
     of hepatotoxicity, but stop use and seek advice if signs of liver problems occur (jaundice, dark urine,
@@ -306,4 +322,13 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   symptoms (menopause indication keeps both). Null RCT/SR REF-0623, REF-0672, REF-0673 moved to
   null_result_ids (never evidence). REF-0671 purged (3-ingredient product). REF-2400 removed
   (reporting-quality review, not efficacy). REF-2830/2831 removed from cancer (rat liver
-  transcriptomics, not cancer studies).'
+  transcriptomics, not cancer studies).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Landmark evidence
+  added: Cochrane 2012 REF-3403 (16 RCTs: no significant difference from placebo in hot flushes;
+  insufficient evidence), HALT trial 2006 REF-3405 and Geller 2009 REF-3406 (no difference from
+  placebo) recorded as no-effect for hot-flashes and menopause. Positive: Sadahiro 2023 MA
+  REF-3404 (overall symptoms and hot flashes improved; anxiety and depression not) and Osmers 2005
+  RCT REF-3407 (isopropanolic extract, 304 women) added to both. New insomnia pair from Jiang 2015
+  RCT REF-3408 (owner rule). REF-2401 retagged narrative-review (structured review, no
+  reproducible search). Notes now state the mixed result. Not added: PCOS-infertility SR 33926292
+  ("lack of high-quality evidence").'

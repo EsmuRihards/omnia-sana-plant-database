@@ -267,22 +267,24 @@ actions:
   status: verified
 indications:
 - condition: appetite-loss
-  note: inferred from bitter-tonic action
+  note: Traditional bitter used to stimulate appetite (Herbal Reality)
   reference_ids:
   - REF-0373
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0369
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditional remedy for rheumatism, gout and arthritis (Grieve, A Modern Herbal; review of traditional
+    uses)
   reference_ids:
   - REF-0098
+  - REF-2077
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0296
   - REF-0011
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditionally used for flatulence (Herbal Reality)
   reference_ids:
   - REF-0373
   status: needs-review
@@ -297,23 +299,28 @@ indications:
   - REF-2821
   status: needs-review
 - condition: cold
-  note: Diaphoretic (supports the body during colds and fevers)
+  note: Diaphoretic, used traditionally at the start of colds and flu (Grieve; Herbal Reality; review
+    of traditional uses)
   reference_ids:
   - REF-0373
   - REF-0098
+  - REF-2077
   status: verified
   mechanistic_exclude_ids:
   - REF-0369
 - condition: fever
-  note: Diaphoretic (supports the body during colds and fevers)
+  note: Diaphoretic, used traditionally to break fevers (Grieve; Herbal Reality; review of traditional
+    uses)
   reference_ids:
   - REF-0373
   - REF-0098
+  - REF-2077
   status: verified
   mechanistic_exclude_ids:
   - REF-0369
 - condition: heavy-bleeding
-  note: inferred from styptic action
+  note: Traditional styptic for heavy menstrual bleeding and nosebleeds (Herbal Reality; Grieve, A Modern
+    Herbal)
   reference_ids:
   - REF-0373
   - REF-0098
@@ -323,14 +330,15 @@ indications:
   - REF-0369
   - REF-0381
 - condition: indigestion
-  note: inferred from bitter-tonic action
+  note: Traditional bitter for indigestion and dyspepsia (Herbal Reality; review of traditional uses)
   reference_ids:
   - REF-0373
+  - REF-2077
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0369
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Traditionally used for respiratory infections (review of traditional uses)
   reference_ids:
   - REF-0011
   status: needs-review
@@ -338,46 +346,52 @@ indications:
   - REF-0296
   - REF-0098
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Yarrow oil extracts calmed experimentally irritated skin in volunteers (randomized trial); extracts
+    and sesquiterpene lactones reduced inflammatory markers in lab studies (preclinical)
   reference_ids:
   - REF-0369
+  - REF-3411
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0296
   - REF-0011
   - REF-0098
 - condition: menstrual-cramps
-  reference_ids: []
+  reference_ids:
+  - REF-0374
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0296
   - REF-0011
   - REF-0098
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0296
-  - REF-0011
-  - REF-0098
+  note: Yarrow tea reduced period pain vs placebo in a randomized trial in primary dysmenorrhoea
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for skin conditions (review); yarrow oil extracts restored experimentally irritated
+    skin in a randomized trial in volunteers
   reference_ids:
   - REF-0011
+  - REF-3411
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0296
   - REF-0098
 - condition: wounds
-  note: Styptic / haemostatic (slows bleeding from minor cuts)
+  note: Traditional styptic for minor cuts; a yarrow ointment reduced pain, redness and swelling of episiotomy
+    wounds in a randomized trial
   reference_ids:
   - REF-0369
   - REF-0373
   - REF-0381
+  - REF-3409
   status: verified
   mechanistic_exclude_ids:
   - REF-0296
+- condition: oral-health
+  note: A yarrow distillate mouthwash healed chemotherapy mouth sores faster than the routine mouthwash
+    in a randomized trial
+  reference_ids:
+  - REF-3410
+  status: verified
 contraindications:
 - note: Generally very safe. Rarely causes contact dermatitis in sensitive individuals (sesquiterpene
     lactones, same Asteraceae family). Avoid high doses during pregnancy (emmenagogue at large doses).
@@ -523,4 +537,15 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   fevers, rheumatism, kidney, styptic/nosebleeds, wounds; Herbal Reality: appetite, flatulence,
   colds, fever, menorrhagia, dyspepsia, wounds); added Grieve to cold/fever/heavy-bleeding and
   REF-0369 to inflammation; REF-2822 purged (genus review, experiments on A. coarctata). Full text
-  of REF-0011 not retrieved - re-check its uses list before re-adding it anywhere.'
+  of REF-0011 not retrieved - re-check its uses list before re-adding it anywhere.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Held RCT REF-0374
+  (dysmenorrhoea, positive) wired to menstrual-cramps. Landmark RCTs added: REF-3409 (episiotomy
+  wound ointment) to wounds; REF-3410 (chemotherapy mucositis mouthwash) as a new oral-health pair
+  (owner rule: RCT names the symptom and finds benefit); REF-3411 (SLS-irritated skin,
+  double-blind) to skin-irritation and inflammation. Minireview REF-2077 (names RA/gout/OA,
+  indigestion, dyspepsia, fever, influenza) moved from mechanistic to direct for those pairs.
+  Muscle-spasm dropped: its only card REF-2078 is gut smooth-muscle antispasmodic work (off-target
+  for muscle cramps, inv. 11). REF-0296 identified (J Essent Oil Bear Plants 2017, doi added;
+  retagged preclinical). Sacred Plant Co page REF-0381 checked 2026-11-12: has a 10-item reference
+  list - kept for wounds. Notes rewritten from "inferred" to their real sources. Not added:
+  candidiasis RCT 32951733 (yarrow cream inferior to clotrimazole).'

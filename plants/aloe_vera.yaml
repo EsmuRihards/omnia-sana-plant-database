@@ -171,7 +171,7 @@ indications:
   - REF-2844
   status: needs-review
 - condition: eczema
-  note: inferred from emollient action
+  note: Moisturising (emollient) gel used for dry, inflamed skin (pharmacology review)
   reference_ids:
   - REF-2234
   status: needs-review
@@ -184,20 +184,46 @@ indications:
   reference_ids: []
   status: needs-review
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Used on irritated and inflamed skin (reviews); a systematic review found no evidence that it prevents
+    radiation skin reactions
   reference_ids:
   - REF-2234
   - REF-2243
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2240
+  null_result_ids:
+  - REF-3423
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Aloe sped healing of second-degree burns in a meta-analysis of randomized trials and aided skin
+    wound healing in a systematic review; a Cochrane review found no high-quality evidence for acute and
+    chronic wounds
   reference_ids:
   - REF-2241
   - REF-2238
   - REF-2243
+  - REF-3420
   status: needs-review
+  null_result_ids:
+  - REF-3419
+- condition: oral-health
+  note: Aloe gel healed mouth ulcers faster and reduced severe chemotherapy or radiotherapy mouth sores
+    (meta-analyses of randomized trials)
+  reference_ids:
+  - REF-3421
+  - REF-3422
+  status: verified
+- condition: blood-sugar
+  note: May improve blood glucose (HbA1c) in prediabetes and type 2 diabetes (meta-analysis; evidence
+    limited)
+  reference_ids:
+  - REF-2456
+  status: verified
+- condition: ibs
+  note: Improved IBS symptoms vs placebo in a meta-analysis of three small randomized trials
+  reference_ids:
+  - REF-3424
+  status: verified
 contraindications:
 - note: Topical use of aloe gel is generally safe for most people. Oral use of aloe latex as a laxative
     is potentially unsafe with prolonged use due to risk of dehydration, electrolyte imbalance, and potential
@@ -319,4 +345,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 1 - REF-2845/REF-2847 purged (aloe-emodin from Rheum),
   REF-2846/REF-2848 purged (aloe-emodin, source species not named). Wound evidence moved to
   direct: REF-2241 (SR of clinical trials), REF-2238, REF-2243; REF-2234 to eczema +
-  skin-irritation, REF-2243 to skin-irritation. bruising dropped (wound papers only).'
+  skin-irritation, REF-2243 to skin-irritation. bruising dropped (wound papers only).
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Cochrane 2012 REF-3419
+  ("absence of high quality clinical trial evidence" for acute and chronic wounds) recorded as
+  no-effect for wounds; burns MA 2024 REF-3420 added. Radiation-dermatitis SR REF-3423 ("no
+  evidence" topical aloe prevents radiation skin reactions) recorded as no-effect for
+  skin-irritation. New pairs (owner rule, MA-backed): oral-health (REF-3421 oral ulcers, REF-3422
+  mucositis), blood-sugar (held MA REF-2456), ibs (Hong 2018 MA REF-3424). Not added: gingivitis
+  SR 30829440 ("inconclusive"), prediabetes MA 27347994 ("results are inconclusive"), psoriasis
+  (mixed RCTs).'

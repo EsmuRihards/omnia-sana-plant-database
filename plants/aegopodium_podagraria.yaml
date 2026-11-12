@@ -154,17 +154,17 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditional remedy for gout and aching joints (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
 - condition: back-pain
-  note: inferred from anti-rheumatic action
+  note: Traditional remedy for sciatic pain (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Applied traditionally as a fomentation for inflamed parts (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
@@ -172,6 +172,7 @@ indications:
   reference_ids:
   - REF-0098
   status: verified
+  note: Traditional remedy for joint, gouty and sciatic pain (Grieve, A Modern Herbal)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -180,8 +181,7 @@ indications:
   - REF-0098
 - condition: swelling
   note: inferred from diuretic action
-  reference_ids:
-  - REF-0098
+  reference_ids: []
   status: needs-review
 - condition: urinary-support
   note: inferred from diuretic action
@@ -324,4 +324,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 1 - REF-0168 (Moerman, Native American Ethnobotany)
   purged: the NAEB database has no Aegopodium record (searched naeb.brit.org 2026-11-10). Grieve
   supports joint/gout/sciatic pain, ''swelling and inflammation'' (Gerard) only - removed from
-  headache, skin-irritation, urinary-support, uti.'
+  headache, skin-irritation, urinary-support, uti.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Grieve REF-0098
+  (diuretic; gout, joint and sciatic pain; fomentation for inflamed parts) names no fluid
+  retention - kept as a mechanistic (diuretic) card for swelling only. REF-0719 retagged
+  narrative-review. Notes rewritten to their Grieve source. No trials found on PubMed.'

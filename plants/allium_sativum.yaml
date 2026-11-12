@@ -158,7 +158,6 @@ actions:
   - REF-0127
   - REF-0166
   - REF-0204
-  - REF-0312
   - REF-0648
   - REF-2427
   status: verified
@@ -180,7 +179,6 @@ actions:
   - REF-0127
   - REF-0166
   - REF-0204
-  - REF-0312
   - REF-0648
   - REF-2426
   - REF-2428
@@ -190,7 +188,6 @@ actions:
   - REF-0127
   - REF-0166
   - REF-0204
-  - REF-0312
   - REF-0650
   status: verified
 - action: antimicrobial
@@ -198,7 +195,6 @@ actions:
   - REF-0127
   - REF-0166
   - REF-0204
-  - REF-0312
   - REF-0650
   - REF-0651
   - REF-2426
@@ -210,7 +206,6 @@ actions:
   - REF-0127
   - REF-0166
   - REF-0204
-  - REF-0312
   - REF-0649
   - REF-2426
   - REF-2427
@@ -220,37 +215,39 @@ actions:
   - REF-0127
   - REF-0166
   - REF-0204
-  - REF-0312
   - REF-2427
   - REF-2428
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Garlic extract improved pain and disease activity in small trials in rheumatoid arthritis and
+    knee osteoarthritis (systematic review of 4 trials)
+  reference_ids:
+  - REF-3414
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
   - REF-0204
-  - REF-0312
   - REF-0648
   - REF-0166
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Garlic lowered fasting blood glucose in meta-analyses of randomized trials, including in people
+    with diabetes
   reference_ids:
   - REF-0648
   - REF-2428
+  - REF-3417
+  - REF-2536
+  - REF-3418
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
   - REF-0204
-  - REF-0312
   - REF-0166
 - condition: cancer
-  note: Garlic and its organosulfur compounds show broad preclinical anticancer/chemopreventive activity
-    (apoptosis, cell-cycle arrest, anti-invasion); in the randomized Shandong Intervention Trial, 7 years
-    of garlic supplementation significantly reduced gastric-cancer mortality over 22-year follow-up (preclinical
-    + RCT).
+  note: Garlic compounds slowed cancer cells in lab studies; in the Shandong trial, 7 years of garlic
+    supplements were linked to fewer gastric-cancer deaths over 22 years. Meta-analyses of prospective
+    studies found no lower overall or colorectal cancer risk with garlic supplements
   reference_ids:
   - REF-0312
   - REF-2838
@@ -259,6 +256,9 @@ indications:
   - REF-2841
   - REF-2842
   status: needs-review
+  null_result_ids:
+  - REF-3415
+  - REF-3416
 - condition: cardiovascular-support
   reference_ids:
   - REF-0204
@@ -267,74 +267,76 @@ indications:
   - REF-0649
   - REF-2429
   status: verified
+  note: Garlic lowered blood pressure and cholesterol in meta-analyses of randomized trials
 - condition: cold
-  note: inferred from immunomodulator action
+  note: An allicin garlic supplement reduced the number of colds vs placebo in one randomized trial; a
+    Cochrane review judged the evidence insufficient
   reference_ids:
   - REF-0127
   - REF-0204
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0312
   - REF-2428
   - REF-0166
+  null_result_ids:
+  - REF-3413
 - condition: immune-support
   reference_ids:
   - REF-0127
   - REF-0204
   status: verified
   mechanistic_exclude_ids:
-  - REF-0312
   - REF-0166
+  note: Garlic stimulated immune cells and reduced the number and severity of respiratory infections in
+    trials (meta-analysis and review)
 - condition: infection
-  note: inferred from antifungal action
+  note: An allicin supplement reduced colds in a placebo-controlled trial; allicin is antibacterial and
+    antifungal in lab studies (review)
   reference_ids:
   - REF-0127
   - REF-0204
   - REF-0650
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0312
   - REF-0166
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Garlic lowered inflammatory markers (CRP, TNF-alpha, IL-6) in meta-analyses of randomized trials
   reference_ids:
   - REF-0648
+  - REF-3418
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
   - REF-0204
-  - REF-0312
   - REF-0166
 - condition: metabolic-support
-  note: inferred from antidiabetic action
+  note: Garlic improved waist size, blood lipids, blood pressure and blood glucose in a meta-analysis
+    of randomized trials
   reference_ids:
   - REF-0648
+  - REF-3418
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
-  - REF-0312
   - REF-0166
   - REF-0204
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0127
+- condition: high-cholesterol
+  note: Garlic lowered total and LDL cholesterol in meta-analyses of randomized trials, by about 10% in
+    people with mildly raised cholesterol
+  reference_ids:
   - REF-0204
-  - REF-0312
+  - REF-2536
+  - REF-3418
   - REF-0648
-  - REF-0166
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0127
+  status: verified
+- condition: high-blood-pressure
+  note: Garlic lowered blood pressure in people with hypertension in meta-analyses of randomized trials
+  reference_ids:
   - REF-0204
-  - REF-0312
-  - REF-0166
-  - REF-0651
+  - REF-3418
+  - REF-0649
+  - REF-0648
+  status: verified
 contraindications:
 - note: 'Garlic is generally very safe at culinary and supplemental doses for most healthy adults. Raw
     garlic contains allicin (formed when crushed) at concentrations that can irritate the gastrointestinal
@@ -585,4 +587,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 1 - REF-0166 (garlic + shallot review, abstract names
   no condition) removed from all symptoms. REF-0204 removed from metabolic-support
   (BP/cholesterol/immunity only). REF-0651 (allicin vapour vs lung pathogens) removed from wounds;
-  REF-0650 kept as mechanistic only.'
+  REF-0650 kept as mechanistic only.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Cochrane "Garlic for
+  the common cold" 2014 REF-3413 (insufficient evidence; one trial) recorded as no-effect for
+  cold. Cancer: meta-analyses REF-3415 (garlic supplements, colorectal cancer: no reduction,
+  possible increase) and REF-3416 (no lower cancer risk) recorded as no-effect. Added: SR of
+  garlic in RA/OA REF-3414 (arthritis), glucose MAs REF-3417 and held REF-2536 (blood-sugar),
+  metabolic-syndrome MA REF-3418. New pairs from held meta-analyses (owner rule): high-cholesterol
+  and high-blood-pressure. Skin-irritation and wounds dropped: contradicted by the record''s own
+  safety note (topical raw garlic causes chemical burns; SR of garlic burn injuries 33571752) -
+  inv. 11. WCRF report REF-0312 removed from six non-cancer actions. REF-2839 retagged
+  narrative-review (editorial/review).'

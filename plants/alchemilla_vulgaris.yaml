@@ -118,7 +118,6 @@ actions:
   - REF-0113
   - REF-0685
   - REF-2227
-  - REF-2228
   status: verified
 - action: anticancer
   reference_ids:
@@ -136,7 +135,6 @@ actions:
   - REF-0686
   - REF-0687
   - REF-2226
-  - REF-2230
   - REF-2233
   status: verified
 - action: vulnerary
@@ -155,12 +153,11 @@ indications:
   - REF-2837
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Extract reduced inflammatory and oxidative-stress markers in a rat model of heart injury (preclinical)
   reference_ids:
   - REF-0685
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-2228
   - REF-0113
   - REF-2227
 contraindications:
@@ -193,9 +190,7 @@ references:
 - REF-2227
 - REF-0686
 - REF-0685
-- REF-2228
 - REF-0687
-- REF-2230
 - REF-2231
 - REF-2232
 - REF-2233
@@ -237,4 +232,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 1 - REF-0113 (Hoffmann, Medical Herbalism) removed from
   every symptom: its text could not be verified (owner rule: unverifiable general source = drop).
   Re-sourcing candidate: ESCOP monograph Alchemillae herba. REF-2227 (genus review, prose-only
-  attribution) excluded from Mechanistic basis.'
+  attribution) excluded from Mechanistic basis.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Wrong-species refs
+  purged and deleted: REF-2228 (Alchemilla caucasica gastric ulcer study), REF-2230 (Alchemilla
+  acutiloba phenolics). REF-0686 retagged preclinical (in vitro). Inflammation note rewritten.
+  Only an in vitro/rat wound study found on PubMed (no SR/RCT).'

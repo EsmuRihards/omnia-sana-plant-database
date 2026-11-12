@@ -350,7 +350,7 @@
    "indications": [
     {
      "condition": "appetite-loss",
-     "note": "inferred from bitter-tonic action",
+     "note": "Traditional bitter used to stimulate appetite (Herbal Reality)",
      "reference_ids": [
       "REF-0373"
      ],
@@ -363,21 +363,22 @@
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional remedy for rheumatism, gout and arthritis (Grieve, A Modern Herbal; review of traditional uses)",
      "reference_ids": [
-      "REF-0098"
+      "REF-0098",
+      "REF-2077"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0296",
       "REF-0011"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditionally used for flatulence (Herbal Reality)",
      "reference_ids": [
       "REF-0373"
      ],
@@ -402,35 +403,37 @@
     },
     {
      "condition": "cold",
-     "note": "Diaphoretic (supports the body during colds and fevers)",
+     "note": "Diaphoretic, used traditionally at the start of colds and flu (Grieve; Herbal Reality; review of traditional uses)",
      "reference_ids": [
       "REF-0373",
-      "REF-0098"
+      "REF-0098",
+      "REF-2077"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0369"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cold & flu"
     },
     {
      "condition": "fever",
-     "note": "Diaphoretic (supports the body during colds and fevers)",
+     "note": "Diaphoretic, used traditionally to break fevers (Grieve; Herbal Reality; review of traditional uses)",
      "reference_ids": [
       "REF-0373",
-      "REF-0098"
+      "REF-0098",
+      "REF-2077"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0369"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Fever"
     },
     {
      "condition": "heavy-bleeding",
-     "note": "inferred from styptic action",
+     "note": "Traditional styptic for heavy menstrual bleeding and nosebleeds (Herbal Reality; Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0373",
       "REF-0098"
@@ -446,20 +449,21 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from bitter-tonic action",
+     "note": "Traditional bitter for indigestion and dyspepsia (Herbal Reality; review of traditional uses)",
      "reference_ids": [
-      "REF-0373"
+      "REF-0373",
+      "REF-2077"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0369"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Indigestion"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditionally used for respiratory infections (review of traditional uses)",
      "reference_ids": [
       "REF-0011"
      ],
@@ -473,9 +477,10 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Yarrow oil extracts calmed experimentally irritated skin in volunteers (randomized trial); extracts and sesquiterpene lactones reduced inflammatory markers in lab studies (preclinical)",
      "reference_ids": [
-      "REF-0369"
+      "REF-0369",
+      "REF-3411"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -483,62 +488,64 @@
       "REF-0011",
       "REF-0098"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Inflammation (general)"
     },
     {
      "condition": "menstrual-cramps",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-0374"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0296",
       "REF-0011",
       "REF-0098"
      ],
-     "evidence": 1,
+     "note": "Yarrow tea reduced period pain vs placebo in a randomized trial in primary dysmenorrhoea",
+     "evidence": 5,
      "label": "Menstrual cramps"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0296",
-      "REF-0011",
-      "REF-0098"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for skin conditions (review); yarrow oil extracts restored experimentally irritated skin in a randomized trial in volunteers",
      "reference_ids": [
-      "REF-0011"
+      "REF-0011",
+      "REF-3411"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0296",
       "REF-0098"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
-     "note": "Styptic / haemostatic (slows bleeding from minor cuts)",
+     "note": "Traditional styptic for minor cuts; a yarrow ointment reduced pain, redness and swelling of episiotomy wounds in a randomized trial",
      "reference_ids": [
       "REF-0369",
       "REF-0373",
-      "REF-0381"
+      "REF-0381",
+      "REF-3409"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0296"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Wounds"
+    },
+    {
+     "condition": "oral-health",
+     "note": "A yarrow distillate mouthwash healed chemotherapy mouth sores faster than the routine mouthwash in a randomized trial",
+     "reference_ids": [
+      "REF-3410"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Oral & throat health"
     }
    ],
    "contraindications": [
@@ -839,18 +846,6 @@
      "label": "Anxiety"
     },
     {
-     "condition": "cancer",
-     "note": "Acorus calamus extract inhibits gastric cancer (AGS) growth and angiogenesis; its constituent beta-asarone induces apoptosis and suppresses invasion/EMT in gastric, esophageal and bladder cancer cells and sensitizes them to chemotherapy (preclinical).",
-     "reference_ids": [
-      "REF-2280",
-      "REF-2823",
-      "REF-2826"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Cancer (anticancer research)"
-    },
-    {
      "condition": "cognitive-function",
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
@@ -865,7 +860,7 @@
     },
     {
      "condition": "depression",
-     "note": "inferred from antidepressant action",
+     "note": "Antidepressant-like activity in animal studies (narrative review; preclinical)",
      "reference_ids": [
       "REF-0624"
      ],
@@ -1161,24 +1156,29 @@
     },
     {
      "condition": "hot-flashes",
-     "note": "Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis supports benefit, though an earlier systematic review judged the evidence inconsistent)",
+     "note": "Reduced hot flushes in meta-analyses and in a large trial of the isopropanolic extract; a Cochrane review and several large trials found no difference from placebo",
      "reference_ids": [
       "REF-0670",
       "REF-2397",
-      "REF-2399"
+      "REF-2399",
+      "REF-3404",
+      "REF-3407"
      ],
      "status": "verified",
      "null_result_ids": [
       "REF-0623",
       "REF-0672",
-      "REF-0673"
+      "REF-0673",
+      "REF-3403",
+      "REF-3405",
+      "REF-3406"
      ],
-     "evidence": 7,
+     "evidence": 9,
      "label": "Hot flashes"
     },
     {
      "condition": "menopause",
-     "note": "Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood); Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis supports benefit, though an earlier systematic review judged the evidence inconsistent)",
+     "note": "Improved overall menopausal symptom scores in meta-analyses and in a large trial of the isopropanolic extract; a Cochrane review and several trials found no benefit over placebo; no effect on menopausal anxiety",
      "reference_ids": [
       "REF-0670",
       "REF-0674",
@@ -1186,16 +1186,31 @@
       "REF-2398",
       "REF-2399",
       "REF-2401",
-      "REF-2589"
+      "REF-2589",
+      "REF-3404",
+      "REF-3407"
      ],
      "status": "verified",
      "null_result_ids": [
       "REF-0623",
       "REF-0672",
-      "REF-0673"
+      "REF-0673",
+      "REF-3403",
+      "REF-3405",
+      "REF-3406"
      ],
      "evidence": 9,
      "label": "Menopause"
+    },
+    {
+     "condition": "insomnia",
+     "note": "Improved objective sleep (sleep efficiency, time awake at night) vs placebo in a randomized trial in postmenopausal women with sleep problems",
+     "reference_ids": [
+      "REF-3408"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Insomnia / sleeplessness"
     }
    ],
    "contraindications": [
@@ -1461,7 +1476,7 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional remedy for gout and aching joints (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
@@ -1471,7 +1486,7 @@
     },
     {
      "condition": "back-pain",
-     "note": "inferred from anti-rheumatic action",
+     "note": "Traditional remedy for sciatic pain (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
@@ -1481,7 +1496,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Applied traditionally as a fomentation for inflamed parts (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0098"
      ],
@@ -1495,6 +1510,7 @@
       "REF-0098"
      ],
      "status": "verified",
+     "note": "Traditional remedy for joint, gouty and sciatic pain (Grieve, A Modern Herbal)",
      "evidence": 1,
      "label": "Pain (general)"
     },
@@ -1512,9 +1528,7 @@
     {
      "condition": "swelling",
      "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Swelling / fluid retention"
@@ -1829,20 +1843,18 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-2405"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2403",
       "REF-0590"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "Escin shows antiproliferative and pro-apoptotic activity and enhances chemotherapy/immunotherapy efficacy in breast (MCF-7), hepatocellular, lung and pancreatic cancer models; it modulates NF-kappaB, p53, p38 MAPK/ERK and PD-L1 (preclinical).",
+     "note": "Escin, horse chestnut's main active compound, slowed breast, liver, lung and pancreatic cancer cells and made them more sensitive to chemotherapy in lab studies (compound evidence, preclinical)",
      "reference_ids": [
       "REF-0471",
       "REF-2835"
@@ -1853,7 +1865,7 @@
     },
     {
      "condition": "hemorrhoids",
-     "note": "Relief of haemorrhoid symptoms (venotonic)",
+     "note": "inferred from venotonic action",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -1864,7 +1876,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Escin, horse chestnut's main active compound, reduced inflammation and swelling in lab and animal studies and in trials of escin gel for blunt injuries (compound evidence; reviews)",
      "reference_ids": [
       "REF-0471",
       "REF-0590",
@@ -1953,7 +1965,7 @@
      "severity": "caution",
      "mechanism": "Horse chestnut seed contains aescin and coumarin-like constituents (esculin) that may add to the effect of blood-thinning or antiplatelet drugs, so combined use should be monitored.",
      "reference_ids": [
-      "REF-2446"
+      "REF-0470"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -2270,7 +2282,7 @@
     },
     {
      "condition": "indigestion",
-     "note": "Mild bitter digestive tonic (indigestion)",
+     "note": "inferred from gastroprotective action: leaf extract protected the stomach lining from alcohol damage in rats (preclinical)",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -2298,7 +2310,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from astringent action",
+     "note": "Applied for minor skin inflammation (EU herbal monograph; Herbal Reality)",
      "reference_ids": [
       "REF-0386",
       "REF-0387"
@@ -2336,6 +2348,16 @@
      ],
      "evidence": 2,
      "label": "Wounds"
+    },
+    {
+     "condition": "liver-support",
+     "note": "Lowered the liver enzyme ALT and blood triglycerides vs placebo in adults with mildly raised ALT (one randomized trial)",
+     "reference_ids": [
+      "REF-3412"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Liver support"
     }
    ],
    "contraindications": [
@@ -2516,8 +2538,7 @@
      "reference_ids": [
       "REF-0113",
       "REF-0685",
-      "REF-2227",
-      "REF-2228"
+      "REF-2227"
      ],
      "status": "verified"
     },
@@ -2540,7 +2561,6 @@
       "REF-0686",
       "REF-0687",
       "REF-2226",
-      "REF-2230",
       "REF-2233"
      ],
      "status": "verified"
@@ -2569,13 +2589,12 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Extract reduced inflammatory and oxidative-stress markers in a rat model of heart injury (preclinical)",
      "reference_ids": [
       "REF-0685"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2228",
       "REF-0113",
       "REF-2227"
      ],
@@ -2613,9 +2632,7 @@
     "REF-2227",
     "REF-0686",
     "REF-0685",
-    "REF-2228",
     "REF-0687",
-    "REF-2230",
     "REF-2231",
     "REF-2232",
     "REF-2233"
@@ -2813,7 +2830,6 @@
       "REF-0127",
       "REF-0166",
       "REF-0204",
-      "REF-0312",
       "REF-0648",
       "REF-2427"
      ],
@@ -2838,7 +2854,6 @@
       "REF-0127",
       "REF-0166",
       "REF-0204",
-      "REF-0312",
       "REF-0648",
       "REF-2426",
       "REF-2428"
@@ -2851,7 +2866,6 @@
       "REF-0127",
       "REF-0166",
       "REF-0204",
-      "REF-0312",
       "REF-0650"
      ],
      "status": "verified"
@@ -2862,7 +2876,6 @@
       "REF-0127",
       "REF-0166",
       "REF-0204",
-      "REF-0312",
       "REF-0650",
       "REF-0651",
       "REF-2426",
@@ -2877,7 +2890,6 @@
       "REF-0127",
       "REF-0166",
       "REF-0204",
-      "REF-0312",
       "REF-0649",
       "REF-2426",
       "REF-2427"
@@ -2890,7 +2902,6 @@
       "REF-0127",
       "REF-0166",
       "REF-0204",
-      "REF-0312",
       "REF-2427",
       "REF-2428"
      ],
@@ -2900,39 +2911,42 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Garlic extract improved pain and disease activity in small trials in rheumatoid arthritis and knee osteoarthritis (systematic review of 4 trials)",
+     "reference_ids": [
+      "REF-3414"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0127",
       "REF-0204",
-      "REF-0312",
       "REF-0648",
       "REF-0166"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Garlic lowered fasting blood glucose in meta-analyses of randomized trials, including in people with diabetes",
      "reference_ids": [
       "REF-0648",
-      "REF-2428"
+      "REF-2428",
+      "REF-3417",
+      "REF-2536",
+      "REF-3418"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0127",
       "REF-0204",
-      "REF-0312",
       "REF-0166"
      ],
-     "evidence": 7,
+     "evidence": 9,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "Garlic and its organosulfur compounds show broad preclinical anticancer/chemopreventive activity (apoptosis, cell-cycle arrest, anti-invasion); in the randomized Shandong Intervention Trial, 7 years of garlic supplementation significantly reduced gastric-cancer mortality over 22-year follow-up (preclinical + RCT).",
+     "note": "Garlic compounds slowed cancer cells in lab studies; in the Shandong trial, 7 years of garlic supplements were linked to fewer gastric-cancer deaths over 22 years. Meta-analyses of prospective studies found no lower overall or colorectal cancer risk with garlic supplements",
      "reference_ids": [
       "REF-0312",
       "REF-2838",
@@ -2942,6 +2956,10 @@
       "REF-2842"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-3415",
+      "REF-3416"
+     ],
      "evidence": 5,
      "label": "Cancer (anticancer research)"
     },
@@ -2955,21 +2973,24 @@
       "REF-2429"
      ],
      "status": "verified",
+     "note": "Garlic lowered blood pressure and cholesterol in meta-analyses of randomized trials",
      "evidence": 9,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cold",
-     "note": "inferred from immunomodulator action",
+     "note": "An allicin garlic supplement reduced the number of colds vs placebo in one randomized trial; a Cochrane review judged the evidence insufficient",
      "reference_ids": [
       "REF-0127",
       "REF-0204"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0312",
       "REF-2428",
       "REF-0166"
+     ],
+     "null_result_ids": [
+      "REF-3413"
      ],
      "evidence": 8,
      "label": "Cold & flu"
@@ -2982,15 +3003,15 @@
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0312",
       "REF-0166"
      ],
+     "note": "Garlic stimulated immune cells and reduced the number and severity of respiratory infections in trials (meta-analysis and review)",
      "evidence": 8,
      "label": "Immune support"
     },
     {
      "condition": "infection",
-     "note": "inferred from antifungal action",
+     "note": "An allicin supplement reduced colds in a placebo-controlled trial; allicin is antibacterial and antifungal in lab studies (review)",
      "reference_ids": [
       "REF-0127",
       "REF-0204",
@@ -2998,7 +3019,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0312",
       "REF-0166"
      ],
      "evidence": 8,
@@ -3006,65 +3026,61 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Garlic lowered inflammatory markers (CRP, TNF-alpha, IL-6) in meta-analyses of randomized trials",
      "reference_ids": [
-      "REF-0648"
+      "REF-0648",
+      "REF-3418"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0127",
       "REF-0204",
-      "REF-0312",
       "REF-0166"
      ],
-     "evidence": 7,
+     "evidence": 8,
      "label": "Inflammation (general)"
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
+     "note": "Garlic improved waist size, blood lipids, blood pressure and blood glucose in a meta-analysis of randomized trials",
      "reference_ids": [
-      "REF-0648"
+      "REF-0648",
+      "REF-3418"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0127",
-      "REF-0312",
       "REF-0166",
       "REF-0204"
      ],
-     "evidence": 7,
+     "evidence": 8,
      "label": "Metabolic support"
     },
     {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0127",
+     "condition": "high-cholesterol",
+     "note": "Garlic lowered total and LDL cholesterol in meta-analyses of randomized trials, by about 10% in people with mildly raised cholesterol",
+     "reference_ids": [
       "REF-0204",
-      "REF-0312",
-      "REF-0648",
-      "REF-0166"
+      "REF-2536",
+      "REF-3418",
+      "REF-0648"
      ],
-     "evidence": 1,
-     "label": "Skin irritation"
+     "status": "verified",
+     "evidence": 9,
+     "label": "High cholesterol"
     },
     {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0127",
+     "condition": "high-blood-pressure",
+     "note": "Garlic lowered blood pressure in people with hypertension in meta-analyses of randomized trials",
+     "reference_ids": [
       "REF-0204",
-      "REF-0312",
-      "REF-0166",
-      "REF-0651"
+      "REF-3418",
+      "REF-0649",
+      "REF-0648"
      ],
-     "evidence": 1,
-     "label": "Wounds"
+     "status": "verified",
+     "evidence": 9,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [
@@ -3484,7 +3500,7 @@
     },
     {
      "condition": "eczema",
-     "note": "inferred from emollient action",
+     "note": "Moisturising (emollient) gel used for dry, inflamed skin (pharmacology review)",
      "reference_ids": [
       "REF-2234"
      ],
@@ -3510,7 +3526,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Used on irritated and inflamed skin (reviews); a systematic review found no evidence that it prevents radiation skin reactions",
      "reference_ids": [
       "REF-2234",
       "REF-2243"
@@ -3519,20 +3535,58 @@
      "mechanistic_exclude_ids": [
       "REF-2240"
      ],
+     "null_result_ids": [
+      "REF-3423"
+     ],
      "evidence": 7,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Aloe sped healing of second-degree burns in a meta-analysis of randomized trials and aided skin wound healing in a systematic review; a Cochrane review found no high-quality evidence for acute and chronic wounds",
      "reference_ids": [
       "REF-2241",
       "REF-2238",
-      "REF-2243"
+      "REF-2243",
+      "REF-3420"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "null_result_ids": [
+      "REF-3419"
+     ],
+     "evidence": 9,
      "label": "Wounds"
+    },
+    {
+     "condition": "oral-health",
+     "note": "Aloe gel healed mouth ulcers faster and reduced severe chemotherapy or radiotherapy mouth sores (meta-analyses of randomized trials)",
+     "reference_ids": [
+      "REF-3421",
+      "REF-3422"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Oral & throat health"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "May improve blood glucose (HbA1c) in prediabetes and type 2 diabetes (meta-analysis; evidence limited)",
+     "reference_ids": [
+      "REF-2456"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "ibs",
+     "note": "Improved IBS symptoms vs placebo in a meta-analysis of three small randomized trials",
+     "reference_ids": [
+      "REF-3424"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Irritable bowel syndrome (IBS)"
     }
    ],
    "contraindications": [
@@ -3822,7 +3876,7 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related Aloysia polystachya",
+     "note": "Calming (anxiolytic) activity reported in the pharmacology literature (narrative review)",
      "reference_ids": [
       "REF-0474"
      ],
@@ -3832,7 +3886,7 @@
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional use for rheumatism (narrative review)",
      "reference_ids": [
       "REF-0474"
      ],
@@ -3865,7 +3919,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Leaf extract and essential oil showed anti-inflammatory activity in lab assays (preclinical)",
      "reference_ids": [
       "REF-0692"
      ],
@@ -3878,7 +3932,7 @@
     },
     {
      "condition": "insomnia",
-     "note": "Sedative / sleep support (insomnia)",
+     "note": "Improved sleep quality vs placebo in two randomized trials (people with insomnia; healthy adults with sleep problems)",
      "reference_ids": [
       "REF-0474",
       "REF-0690",
@@ -3890,17 +3944,18 @@
     },
     {
      "condition": "muscle-soreness",
-     "note": "Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and less soreness after exhaustive exercise",
+     "note": "Lemon verbena extract reduced muscle damage and soreness after exhausting exercise vs placebo in two randomized trials",
      "reference_ids": [
-      "REF-0620"
+      "REF-0620",
+      "REF-3425"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 6,
      "label": "Muscle soreness"
     },
     {
      "condition": "nervous-tension",
-     "note": "inferred from anxiolytic action",
+     "note": "Calming (anxiolytic) activity reported in the pharmacology literature (narrative review)",
      "reference_ids": [
       "REF-0474"
      ],

@@ -157,15 +157,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0624
-- condition: cancer
-  note: Acorus calamus extract inhibits gastric cancer (AGS) growth and angiogenesis; its constituent
-    beta-asarone induces apoptosis and suppresses invasion/EMT in gastric, esophageal and bladder cancer
-    cells and sensitizes them to chemotherapy (preclinical).
-  reference_ids:
-  - REF-2280
-  - REF-2823
-  - REF-2826
-  status: needs-review
 - condition: cognitive-function
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
     and antidepressant-like activity)
@@ -175,7 +166,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0624
 - condition: depression
-  note: inferred from antidepressant action
+  note: Antidepressant-like activity in animal studies (narrative review; preclinical)
   reference_ids:
   - REF-0624
   status: needs-review
@@ -287,4 +278,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Appl
   | 2026-11-10: symptom-source audit batch 1 - REF-0516/REF-2825/REF-2827 purged: A. calamus var.
   angustatus / A. tatarinowii = Acorus verus in POWO (owner decision: wrong species). REF-2824
   purged (beta-asarone, no species named). REF-0624 kept only for depression (the only symptom its
-  abstract names); REF-0716 (memory/intellect) wired to memory + cognitive-function.'
+  abstract names); REF-0716 (memory/intellect) wired to memory + cognitive-function.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Cancer pair dropped:
+  the record''s own serious warning is that beta-asarone is carcinogenic, and the anticancer
+  evidence was largely beta-asarone itself (DATA_PRINCIPLES inv. 10, organ/system of its own
+  serious warning). Depression note rewritten. 2026 "systematic review" on cognition (PMID
+  42929295) summarises preclinical work only - not added.'

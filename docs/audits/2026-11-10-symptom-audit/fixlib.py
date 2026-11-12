@@ -80,12 +80,32 @@ def run(stem, ops, log, note, label):
             purge(d, op[1]); log.append(f'{stem}\t*\t{op[1]}\tpurge'); continue
         if kind == 'merge':
             merge(d, op[1], op[2]); log.append(f'{stem}\t*\t{op[1]}->{op[2]}\tmerge'); continue
+        if kind == 'arm':  # ('arm', action, [refs]): remove refs from one action (deep re-sweep 2026-11-12)
+            acts = [a for a in d.get('actions', []) if a.get('action') == op[1]]
+            if not acts:
+                raise SystemExit(f'{stem}: no action {op[1]}')
+            for r in op[2]:
+                if r not in (acts[0].get('reference_ids') or []):
+                    raise SystemExit(f'{stem}/action {op[1]}: {r} not cited')
+                acts[0]['reference_ids'].remove(r); log.append(f'{stem}\taction:{op[1]}\t{r}\tarm')
+            continue
+        if kind == 'newpair':  # ('newpair', cond, [refs], note): a new SR/RCT-backed pair (owner rule 2026-11-12)
+            if op[1] in ind:
+                raise SystemExit(f'{stem}: {op[1]} already exists')
+            if op[1] not in REL:
+                raise SystemExit(f'{stem}: unknown condition {op[1]}')
+            new_i = {'condition': op[1], 'note': op[3], 'reference_ids': list(op[2]), 'status': 'verified'}
+            d.setdefault('indications', []).append(new_i); ind[op[1]] = new_i
+            log.append(f"{stem}\t{op[1]}\t{','.join(op[2])}\tnewpair"); continue
         cond = op[1]
         if cond not in ind:
             raise SystemExit(f'{stem}: no indication {cond}')
         i = ind[cond]
         if kind == 'note':  # ('note', cond, text): replace the indication note
+            assert '—' not in op[2] and '–' not in op[2], (stem, cond, 'no em/en dashes')
             i['note'] = op[2]; log.append(f'{stem}\t{cond}\t-\tnote'); continue
+        if kind == 'status':  # ('status', cond, value)
+            i['status'] = op[2]; log.append(f'{stem}\t{cond}\t-\tstatus={op[2]}'); continue
         if kind == 'drop':
             d['indications'] = [x for x in d['indications'] if x['condition'] != cond]
             del ind[cond]; log.append(f'{stem}\t{cond}\t-\tdrop'); continue

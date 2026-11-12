@@ -1,0 +1,529 @@
+# Landmark search batch 1
+
+## achillea-millefolium (Achillea millefolium; Yarrow) - 14 (+CT) hits; query: ("Achillea millefolium"[tiab] OR "Yarrow"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2024 | 38848351 | SR | Herbal oral care products for the prevention of ventilator-associated pneumonia: A systematic review and network meta-analysis of randomised trials.
+- new | 2022 | 35430924 | RCT | Randomized Pilot Trial Using External Yarrow Liver Compress Applications With Metastatic Cancer Patients Suffering From Fatigue: Evaluation of Sympathetic Modulation by H
+- new | 2020 | 32951733 | RCT | The effect of Achillea Millefolium L. on vulvovaginal candidiasis compared with clotrimazole: A randomized controlled trial.
+- new | 2019 | 30554882 | RCT | A randomized, open-label, multicenter, comparative study of therapeutic efficacy, safety and tolerability of BNO 1030 extract, containing marshmallow root, chamomile flow
+- new | 2019 | 30599916 | RCT | Achillea millefolium is beneficial as an add-on therapy in patients with multiple sclerosis: A randomized placebo-controlled clinical trial.
+- new | 2018 | 28027682 | RCT | The effect of Achillea millefolium and Hypericum perforatum ointments on episiotomy wound healing in primiparous women.
+- new | 2017 | 28163113 | RCT | The estimation of the traditionally used yarrow (Achillea millefolium L. Asteraceae) oil extracts with anti-inflamatory potential in topical application.
+- HELD REF-0374 | 2015 | 26238568 | RCT | Effect of Achillea Millefolium on Relief of Primary Dysmenorrhea: A Double-Blind Randomized Clinical Trial.
+- new | 2015 | 25667123 | RCT | Effect of adding the herb Achillea millefolium on mouthwash on chemotherapy induced oral mucositis in cancer patients: A double-blind randomized controlled trial.
+- new | 2012 | 22976260 | RCT | Effect of herbal medicine achillea millefolium on plasma nitrite and nitrate levels in patients with chronic kidney disease: a preliminary study.
+- new | 2011 | 21711463 | RCT | Surface rejuvenating effect of Achillea millefolium extract.
+- new | 2005 | 15793525 | RCT | Treatment of atopic dermatitis with herbal combination of Eleutherococcus, Achillea millefolium, and Lamium album has no advantage over placebo: a double blind, placebo-c
+- new | 2005 | 16194047 | Clinical Trial/RCT | The efficacy of Liv-52 on liver cirrhotic patients: a randomized, double-blind, placebo-controlled first approach.
+- new | 1999 | 10672726 | Clinical Trial | [The use of preparations of plant origin in treating and rehabilitating elderly patients with chronic hepatitis].
+
+## acorus-calamus (Acorus calamus; Sweet Flag) - 6 (+CT) hits; query: ("Acorus calamus"[tiab] OR "Sweet Flag"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42929295 | SR/Review | Acorus calamus L. for Cognitive Enhancement: A Systematic Review of Its Ethnobotanical Practices and Scientific Evidence.
+- new | 2024 | 38425647 | SR | The efficacy and safety of Chinese herbal medicine for mild cognitive impairment: a systematic review and meta-analysis of randomized placebo-controlled trials.
+- new | 2024 | 39212516 | SR | Therapeutic Evaluation of Unani Medicine, Including Single Drugs and Polyherbal Formulations with Special Reference to Neurodegenerative Disorders.
+- new | 2023 | 36871902 | SR | Acorus calamus var. angustatus Besser: Insight into current research on ethnopharmacological use, phytochemistry, pharmacology, toxicology, and pharmacokinetics.
+- new | 2019 | 30610931 | SR | Herbal medicine for epilepsy seizures in Asia, Africa and Latin America: A systematic review.
+- new | 2014 | 24948104 | RCT | Efficacy of herbal shampoo base on native plant against head lice (Pediculus humanus capitis De Geer, Pediculidae: Phthiraptera) in vitro and in vivo in Thailand.
+
+## actaea-racemosa (Actaea racemosa; Black Cohosh) - 43 hits; query: ("Actaea racemosa"[tiab] OR "Black Cohosh"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- HELD REF-2400 | 2026 | 41401209 | SR | Efficacy and safety of Actaea racemosa for relieving climacteric complaints.
+- new | 2026 | 41735208 | SR | The Anti-Aging Benefits of Phytoestrogens: Insights and Evidence.
+- new | 2025 | 40131516 | RCT | Assessing the combined effects of Black Cohosh, Soy Isoflavones, and SDG Lignans on menopausal symptoms: a randomized, double-blind, placebo-controlled clinical trial.
+- new | 2023 | 37192826 | MA | Black cohosh extracts in women with menopausal symptoms: an updated pairwise meta-analysis.
+- new | 2022 | 33926292 | SR | Systematic Review of Black Cohosh (Cimicifuga racemosa) for Management of Polycystic Ovary Syndrome-Related Infertility.
+- new | 2022 | 34608830 | SR | Weight gain in menopause: systematic review of adverse events in women treated with black cohosh.
+- HELD REF-0670 | 2021 | 33021111 | MA/SR | Review & meta-analysis: isopropanolic black cohosh extract iCR for menopausal symptoms - an update on the evidence.
+- new | 2020 | 32762163 | SR | [Efficacy of black cohosh extracts for improving low estrogen status induced by postoperative GnRHa treatment in patients with endometriosis: a systematic review].
+- new | 2019 | 30626212 | SR | Benefit-risk profile of black cohosh (isopropanolic Cimicifuga racemosa extract) with and without St John's wort in breast cancer patients.
+- new | 2015 | 26000551 | RCT | Black cohosh improves objective sleep in postmenopausal women with sleep disturbance.
+- HELD REF-0416 | 2014 | 23439657 | SR | Black cohosh and breast cancer: a systematic review.
+- new | 2012 | 22972105 | MA/SR | Black cohosh (Cimicifuga spp.) for menopausal symptoms.
+- new | 2012 | 22157510 | RCT | Menopause: a standardized isopropanolic black cohosh extract (remifemin) is found to be safe and effective for menopausal symptoms.
+- new | 2012 | 22852580 | RCT | Efficacy of a non-hormonal treatment, BRN-01, on menopausal hot flashes: a multicenter, randomized, double-blind, placebo-controlled trial.
+- new | 2011 | 21228727 | MA | Suspected black cohosh hepatotoxicity: no evidence by meta-analysis of randomized controlled clinical trials for isopropanolic black cohosh extract.
+- new | 2011 | 21958943 | RCT | Digitized assessment of mammographic breast density--effects of continuous combined hormone therapy, tibolone and black cohosh compared to placebo.
+- new | 2010 | 20085176 | MA/Review | Efficacy of black cohosh-containing preparations on menopausal symptoms: a meta-analysis.
+- new | 2010 | 20032972 | RCT | Pharmacokinetics of 23-epi-26-deoxyactein in women after oral administration of a standardized extract of black cohosh.
+- new | 2009 | 19102512 | SR | Black cohosh for the management of menopausal symptoms : a systematic review of clinical trials.
+- new | 2009 | 19745648 | RCT | Randomized, double-blind, placebo-controlled trial of Cimicifuga racemosa (black cohosh) in women with anxiety disorder due to menopause.
+- new | 2009 | 19609225 | RCT | Safety and efficacy of black cohosh and red clover for the management of vasomotor symptoms: a randomized controlled trial.
+- new | 2008 | 18984078 | SR | Black cohosh (Cimicifuga racemosa): a systematic review of adverse events.
+- HELD REF-0623 | 2008 | 18585461 | SR | Black cohosh (Cimicifuga racemosa) for menopausal symptoms: a systematic review of its efficacy.
+- new | 2008 | 18257142 | RCT | Vaginal, endometrial, and reproductive hormone findings: randomized, placebo-controlled trial of black cohosh, multibotanical herbs, and dietary soy for vasomotor symptom
+- new | 2007 | 17602247 | SR | Black cohosh (Cimicifuga racemosa [L.] Nutt.): safety and efficacy for cancer patients.
+- new | 2007 | 17461529 | RCT | Black cohosh and St. John's wort (GYNO-Plus) for climacteric symptoms.
+- new | 2007 | 17565936 | RCT | Black cohosh and fluoxetine in the treatment of postmenopausal symptoms: a prospective, randomized trial.
+- new | 2007 | 17275226 | RCT | The effects of black cohosh therapies on lipids, fibrinogen, glucose and insulin.
+- new | 2007 | 17430734 | RCT | Effects of a supplement containing isoflavones and Actaea racemosa L. on asymmetric dimethylarginine, lipids, and C-reactive protein in menopausal women.
+- new | 2007 | 17587516 | RCT | Efficacy and tolerability of a medicinal product containing an isopropanolic black cohosh extract in Chinese women with menopausal symptoms: a randomized, double blind, p
+- new | 2006 | 16449108 | RCT | Black cohosh and St. John's wort for climacteric complaints: a randomized trial.
+- new | 2006 | 16837890 | RCT | First-time proof of endometrial safety of the special black cohosh extract (Actaea or Cimicifuga racemosa extract) CR BNO 1055.
+- new | 2006 | 16645532 | RCT | Effects of black cohosh (Cimicifuga racemosa) on bone turnover, vaginal mucosa, and various blood parameters in postmenopausal women: a double-blind, placebo-controlled, 
+- HELD REF-0673 | 2006 | 16782922 | RCT | Phase III double-blind, randomized, placebo-controlled crossover trial of black cohosh in the management of hot flashes: NCCTG Trial N01CC1.
+- new | 2006 | 16432272 | RCT | Assessing the clinical significance of botanical supplementation on human cytochrome P450 3A activity: comparison of a milk thistle and black cohosh product to rifampin a
+- new | 2006 | 17179056 | RCT | Treatment of vasomotor symptoms of menopause with black cohosh, multibotanicals, soy, hormone therapy, or placebo: a randomized trial.
+- new | 2006 | 16221754 | RCT | Effect of milk thistle (Silybum marianum) and black cohosh (Cimicifuga racemosa) supplementation on digoxin pharmacokinetics in humans.
+- new | 2005 | 16037756 | Clinical Trial/RCT | Effect of a combination of isoflavones and Actaea racemosa Linnaeus on climacteric symptoms in healthy symptomatic perimenopausal women: a 12-week randomized, placebo-con
+- new | 2005 | 15863547 | Clinical Trial/RCT | Efficacy and safety of isopropanolic black cohosh extract for climacteric symptoms.
+- HELD REF-2503 | 2005 | 15900287 | Clinical Trial/RCT | In vivo effects of goldenseal, kava kava, black cohosh, and valerian on human cytochrome P450 1A2, 2D6, 2E1, and 3A4/5 phenotypes.
+- new | 2003 | 12544678 | SR | A systematic review of the safety of black cohosh.
+- new | 2002 | 11975864 | Clinical Trial/RCT | Physiological investigation of a unique extract of black cohosh (Cimicifugae racemosae rhizoma): a 6-month clinical study demonstrates no systemic estrogenic effect.
+- new | 2001 | 11352967 | Clinical Trial/RCT | Randomized trial of black cohosh for the treatment of hot flashes among women with a history of breast cancer.
+
+## aegopodium-podagraria (Aegopodium podagraria; Ground Elder) - 0 (+CT) hits; query: ("Aegopodium podagraria"[tiab] OR "Ground Elder"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## aesculus-hippocastanum (Aesculus hippocastanum; Horse Chestnut) - 30 (+CT) hits; query: ("Aesculus hippocastanum"[tiab] OR "Horse Chestnut"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2020 | 31987249 | MA/SR | Western herbal medicines in the treatment of irritable bowel syndrome: A systematic review and meta-analysis.
+- new | 2018 | 30406639 | SR | Rutosides for prevention of post-thrombotic syndrome.
+- new | 2018 | 30406640 | MA/SR | Rutosides for treatment of post-thrombotic syndrome.
+- new | 2015 | 26373375 | SR | Rutosides for prevention of post-thrombotic syndrome.
+- new | 2015 | 26376212 | MA/SR | Rutosides for treatment of post-thrombotic syndrome.
+- new | 2013 | 23633330 | MA/SR | Rutosides for treatment of post-thrombotic syndrome.
+- new | 2013 | 23633331 | SR | Rutosides for prevention of post-thrombotic syndrome.
+- HELD REF-0470 | 2012 | 23152216 | MA/SR | Horse chestnut seed extract for chronic venous insufficiency.
+- new | 2009 | 20109380 |  | [Multicentric study on a topical compound with lymph-draining action in the treatment of the phlebostatic ulcer of the inferior limbs].
+- new | 2006 | 16636364 | RCT | Using horsechestnut seed extract in the treatment of venous leg ulcers: a cost-benefit analysis.
+- HELD REF-2446 | 2006 | 16437450 | MA/SR | Horse chestnut seed extract for chronic venous insufficiency.
+- new | 2006 | 16644618 | MA | Treatment of patients with venous insufficiency with fresh plant horse chestnut seed extract: a review of 5 clinical studies.
+- new | 2004 | 15364642 | Clinical Trial | An open study to assess the safety and efficacy of Aesculus hippocastanum tablets (Aesculaforce 50mg) in the treatment of chronic venous insufficiency.
+- new | 2004 | 15106197 | SR | Horse chestnut seed extract for chronic venous insufficiency.
+- new | 2003 | 14964349 | Clinical Trial/RCT | Bioavailability of beta-aescin from horse chestnut seed extract: comparative clinical studies of two Galenic formulations.
+- new | 2002 | 11869657 | SR | Horse chestnut seed extract for chronic venous insufficiency.
+- new | 2001 | 11747472 | Clinical Trial/RCT | Rational therapy of chronic venous insufficiency--chances and limits of the therapeutic use of horse-chestnut seeds extract.
+- new | 1999 | 10641953 | MA | Herbal medications for common ailments in the elderly.
+- new | 1998 | 9828868 | SR | Horse-chestnut seed extract for chronic venous insufficiency. A criteria-based systematic review.
+- new | 1998 | 9793616 | Clinical Trial/RCT | [The validity of radioimmunologic determination of bioavailability of beta-escin in horse chestnut extracts].
+- new | 1996 | 8569363 | Clinical Trial/RCT | Comparison of leg compression stocking and oral horse-chestnut seed extract therapy in patients with chronic venous insufficiency.
+- new | 1996 | 8737631 | Clinical Trial/RCT | Comparative clinical efficacy and tolerability of oxerutins and horse chestnut extract in patients with chronic venous insufficiency.
+- new | 1995 | 7480102 | Clinical Trial/RCT | [Comparison of the bioavailability of beta-aescin after single oral administration of two different drug formulations containing an extract of horse-chestnut seeds].
+- new | 1991 | 1788677 | Clinical Trial/RCT | [Conservative therapy of chronic venous insufficiency. The extent of the edema-preventive effect of horse chestnut seed extract].
+- new | 1986 | 3527643 | Clinical Trial/RCT | [Effects of horse-chestnut seed extract on transcapillary filtration in chronic venous insufficiency].
+- new | 1974 | 4856892 | Clinical Trial | [Hemodynamic effects of horse chestnut extract. Study on isolated vascular strips, live dogs and man].
+- new | 1974 | 4611437 | Clinical Trial | [Effect of horse chestnut extracts on venous tone].
+- new | 1970 | 4938002 | Clinical Trial | [Comparative investigations concerning the effect of extract of horse chestnut upon the pressure-volume-diagramm of patients with venous disorders].
+- new | 1968 | 5753115 | Clinical Trial | [On the vein tonicising principle of horse chestnut extract. Effect of pure horse chestnut extract and aescin on the venous capacity, venous tonus and circulation of the 
+- new | 1966 | 5951583 | Clinical Trial/RCT | [On the demonstration of efficacy of horse chestnut extract on venous tonus following its oral administration].
+
+## agrimonia-eupatoria (Agrimonia eupatoria; Agrimony) - 3 (+CT) hits; query: ("Agrimonia eupatoria"[tiab] OR "Agrimony"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40917836 | SR | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review.
+- new | 2018 | 29486131 | RCT | Agrimonia eupatoria L. (Agrimony) Extract Alters Liver Health in Subjects with Elevated Alanine Transaminase Levels: A Controlled, Randomized, and Double-Blind Trial.
+- new | 2012 | 21831230 | RCT | The effect of supplementation of clove and agrimony or clove and lemon balm on growth performance, antioxidant status and selected indices of lipid profile of broiler chi
+
+## alchemilla-vulgaris (Alchemilla vulgaris; Lady’s-mantle) - 1 (+CT) hits; query: ("Alchemilla vulgaris"[tiab] OR "Lady’s-mantle"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2019 | 30904703 |  | Towards a modern approach to traditional use: in vitro and in vivo evaluation of Alchemilla vulgaris L. gel wound healing potential.
+
+## allium-sativum (Allium sativum; Garlic) - 266 hits; query: ("Allium sativum"[tiab] OR "Garlic"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2027 | 42861727 | RCT | Comparative efficacy of topical garlic extract and 20% podophyllin solution in the treatment of female genital warts: a triple-blind randomized clinical trial.
+- new | 2026 | 40580481 | SR/MA | Effects of Garlic Supplementation on Cardiovascular Risk Factors in Adults: A Comprehensive Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2026 | 41485319 | SR/MA | Antimicrobial effect of garlic-based mouthwash on dental caries-related oral microorganisms: A systematic review and meta-analysis.
+- new | 2026 | 42398591 | SR/MA | Effects of garlic supplementation on glycemic indices in adults: a GRADE-assessed systematic review and dose-response meta-analysis of randomized controlled trials.
+- new | 2026 | 41539457 | SR/MA | Assessing the safety of herbal medicine use among type 2 diabetes mellitus patients: A systematic review and meta-analysis.
+- new | 2026 | 41777027 | SR | Harnessing nature: a systematic exploration of in vitro antileishmanial and antihuman African trypanosomal properties in traditional medicinal plants and their active pri
+- new | 2025 | 40628369 | SR/MA | The Effect of Aged Garlic Supplementation on Blood Pressure and Lipid Profile: A Dose-Response Grade-Assessed Systematic Review and Meta-Analysis of Randomized Controlled
+- new | 2025 | 40602379 | SR | Garlic Extract in Rheumatological Diseases: A Systematic Review.
+- new | 2025 | 40770379 | RCT | Efficacy of garlic (Allium sativum) on metabolic syndrome components in women with polycystic ovary syndrome: randomized controlled trial.
+- new | 2025 | 41393949 | SR | Meta-analysis on the safety and efficacy of long-term garlic consumption as an adjunctive treatment for hypertension.
+- new | 2025 | 40421322 | SR | Medicinal Plants Used to Treat Evil Eye Illness in Ethiopia: A Systematic Review.
+- new | 2024 | 39203947 | RCT | LDL-Cholesterol-Lowering Effects of a Dietary Supplement Containing Onion and Garlic Extract Used in Healthy Volunteers.
+- new | 2024 | 39437887 | SR/MA/Retracted Publication | Effects of aged garlic extract on blood pressure in hypertensive patients: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2024 | 38051214 | MA/SR | Evidential support for garlic supplements against diabetic kidney disease: a preclinical meta-analysis and systematic review.
+- new | 2024 | 37517570 | MA/SR | Effect of garlic on the components of metabolic syndrome: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2024 | 38892625 | SR/MA | Effects of Garlic on Glucose Parameters and Lipid Profile: A Systematic Review and Meta-Analysis on Randomized Controlled Trials.
+- new | 2024 | 38706368 | SR | A Systematic Review of Herbal Interventions for the Management of Cardiovascular Diseases.
+- new | 2024 | 39113105 | MA | Garlic consumption can reduce the risk of dyslipidemia: a meta-analysis of randomized controlled trials.
+- new | 2024 | 38881876 | SR | Safety classification of herbal medicine use among hypertensive patients: a systematic review and meta-analysis.
+- new | 2024 | 39343737 | MA/SR | Alliaceae versus Brassicaceae for Dyslipidemia: State of the Art and Future Perspectives. Systematic Review and Meta-Analysis of Clinical Studies.
+- new | 2024 | 38823853 | MA/SR | Meta-analysis of antimicrobial activity of Allium, Ocimum, and Thymus spp. confirms their promising application for increasing food safety.
+- new | 2024 | 38576169 | RCT | Oral post-exercise garlic extract supplementation enhances glycogen replenishment but does not up-regulate mitochondria biogenesis mRNA expression in human-exercised skel
+- new | 2024 | 39250620 | RCT | Prospective, randomized, placebo-controlled, two-arm study to evaluate the efficacy of coadministration of garlic as a hydrogen sulfide donor and tadalafil in patients wi
+- new | 2024 | 39917707 | SR | Antibiofilm efficacy of plant extracts as root canal irrigants in endodontics: a systematic literature review.
+- new | 2024 | 39001718 | RCT | Randomized, double-blind clinical trial evaluating the impact of freeze-dried garlic extract capsules on blood pressure, lipid profile, and nitric oxide levels in individ
+- new | 2024 | 38462859 | RCT | <em>Allium Sativum</em> Oil as an Alternative Non-Vital Pulpotomy Medicament in Primary Teeth - A Randomised Controlled Trial.
+- new | 2024 | 38892688 | RCT | Effect of Encapsulated Purple Garlic Oil on Microvascular Function and the Components of Metabolic Syndrome: A Randomized Placebo-Controlled Study-The ENDOTALLIUM Study.
+- HELD REF-0648 | 2023 | 35193446 | SR | Garlic: A systematic review of the effects on cardiovascular diseases.
+- HELD REF-0649 | 2023 | 37686723 | RCT | Antihypertensive Effects of an Optimized Aged Garlic Extract in Subjects with Grade I Hypertension and Antihypertensive Drug Therapy: A Randomized, Triple-Blind Controlle
+- HELD REF-2430 | 2023 | 36819702 | SR | Allium sativum: A potential natural compound for NAFLD prevention and treatment.
+- new | 2023 | 37481521 | SR/MA | Effects of garlic supplementation on components of metabolic syndrome: a systematic review, meta-analysis, and meta-regression of randomized controlled trials.
+- new | 2023 | 35348024 | MA/SR | The association of garlic intake and cardiovascular risk factors: A systematic review and meta-analysis.
+- new | 2023 | 36640154 | MA/SR | Effect of garlic extract on markers of lipid metabolism and inflammation in coronary artery disease (CAD) patients: A systematic review and meta-analysis.
+- new | 2023 | 37385425 | MA/SR | Influence of Garlic on the Glycemic Control and Lipid Profile in Animals with Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-analysis.
+- new | 2023 | 38223588 | MA | Garlic supplementation for the treatment of chronic liver disease: a meta-analysis of randomized controlled trials.
+- new | 2023 | 38008957 | RCT | Synergistic effect of Moringa oleifera and Allium sativum on BMI and lipid profile: A randomized controlled trial.
+- new | 2023 | 36721177 | RCT | Garlic supplementation improves intestinal transit time, lipid accumulation product and cardiometabolic indices in subjects with metabolic syndrome: A randomized controll
+- new | 2023 | 37725398 | SR | Antibacterial activity of medicinal plants on the management of mastitis in dairy cows: A systematic review.
+- new | 2023 | 37203803 | RCT | Push out bond strength of fiber post to radicular dentin using Q-mix, lemon/garlic extract, and riboflavin activated by photodynamic therapy as a final canal irrigant.
+- new | 2023 | 37170623 | RCT | Garlic supplementation attenuates cycling exercise-induced oxidative inflammation but fails to improve time trial performance in healthy adults.
+- new | 2022 | 36576698 | MA/SR | Systematic review and meta-analysis of the effect of garlic in patients with non-alcoholic fatty liver disease.
+- new | 2022 | 35227185 | SR | In Vivo and In Vitro Anti-schistosomiasis Effect of Garlic: A Systematic Review.
+- new | 2022 | 35875346 | RCT | Evaluation of the Effect of Garlic Tablet as a Complementary Treatment for Patients with Diabetic Retinopathy.
+- new | 2022 | 36380973 | SR | Platelet Aggregation Inhibition: An Evidence-Based Systematic Review on the Role of Herbs for Primary Prevention Based on Randomized Controlled Trials.
+- new | 2022 | 36222178 | SR | A systematic review of randomized controlled trials related to the effects of garlic supplementation on platelet aggregation.
+- new | 2022 | 35276764 | RCT | Effects of an Optimized Aged Garlic Extract on Cardiovascular Disease Risk Factors in Moderate Hypercholesterolemic Subjects: A Randomized, Crossover, Double-Blind, Susta
+- new | 2022 | 35505122 | RCT | Improved microvascular reactivity after aged garlic extract intake is not mediated by hydrogen sulfide in older adults at risk for cardiovascular disease: a randomized cl
+- new | 2022 | 35266219 | RCT | Evaluating the effects of dark chocolate formulated with micro-encapsulated fermented garlic extract on cardio-metabolic indices in hypertensive patients: A crossover, tr
+- new | 2022 | 36558397 | RCT | Effects of Fermented Garlic Extract Containing Nitric Oxide Metabolites on Blood Flow in Healthy Participants: A Randomized Controlled Trial.
+- new | 2022 | 35791476 | RCT | Analysis of dose and duration dependent effects of Allium sativum Linn and other hypocholesterolemic agents exhibited on dyslipidemia in patients with essential hypertens
+- new | 2022 | 35852013 | RCT | Comparative evaluation of the antibacterial effect of Allium sativum, calcium hydroxide and their combination as intracanal medicaments in infected mature anterior teeth:
+- new | 2021 | 34071454 | MA/SR | A Systematic Review and Meta-Analysis of Ayurvedic Herbal Preparations for Hypercholesterolemia.
+- new | 2021 | 33571752 | SR | Garlic burn injuries- a systematic review of reported cases.
+- new | 2021 | 35402472 | SR | Allium Vegetables, Garlic Supplements, and Risk of Cancer: A Systematic Review and Meta-Analysis.
+- new | 2021 | 33792129 | MA/SR | Systematic review and meta-analysis of randomised, controlled trials on the effects of garlic supplementation on serum adiponectin and leptin levels.
+- new | 2021 | 31357923 | MA/SR | The effects of garlic supplementation on weight loss: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2021 | 33484037 | SR | Effects of garlic supplementation on oxidative stress and antioxidative capacity biomarkers: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2021 | 32051282 | MA/SR | Effect of garlic intake on inflammatory mediators: a systematic review and meta-analysis of randomised controlled trials.
+- new | 2021 | 34496450 | RCT | The effect of garlic (Allium sativum) supplementation on the lipid parameters and blood pressure levels in women with polycystic ovary syndrome: A randomized controlled t
+- new | 2021 | 34165846 | SR | Traditional plants with antioxidant properties in clinical trials-A systematic review.
+- new | 2021 | 34627133 | MA/SR | Effects of garlic extract on lipid profile in patients with coronary artery disease: A systematic review and meta-analysis of randomised clinical trials.
+- new | 2021 | 33301861 | SR | Anticancer potential of garlic and its bioactive constituents: A systematic and comprehensive review.
+- new | 2021 | 34273446 | MA/SR | The effect and underlying mechanisms of garlic extract against cognitive impairment and Alzheimer's disease: A systematic review and meta-analysis of experimental animal 
+- new | 2021 | 33475054 | SR | Ethnomedicinal Plants for the Management of Diabetes Worldwide: A Systematic Review.
+- new | 2021 | 33974725 | RCT | Effects of garlic powder supplementation on metabolic syndrome components, insulin resistance, fatty liver index, and appetite in subjects with metabolic syndrome: A rand
+- new | 2020 | 31895803 | MA/SR | Garlic intake and the risk of colorectal cancer: A meta-analysis.
+- new | 2020 | 32673835 | MA/SR | Effects of garlic supplementation on serum inflammatory markers: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2020 | 32135032 | MA/SR | Effects of garlic supplementation on liver enzymes: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2020 | 32444050 | MA/SR | The effects of garlic supplementation on oxidative stress markers: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2020 | 32143889 | SR | The effect of garlic on vascular function: A systematic review of randomized clinical trials.
+- new | 2020 | 31490311 | RCT | Effect of Topical Garlic on Wound Healing and Scarring: A Clinical Trial.
+- new | 2020 | 32312333 | RCT | Effect of garlic powder supplementation on hepatic steatosis, liver enzymes and lipid profile in patients with non-alcoholic fatty liver disease: a double-blind randomise
+- new | 2020 | 32507439 | RCT | Effects of garlic powder supplementation on insulin resistance, oxidative stress, and body composition in patients with non-alcoholic fatty liver disease: A randomized co
+- new | 2020 | 32589229 | RCT | Association Between Lifestyle Factors, Vitamin and Garlic Supplementation, and Gastric Cancer Outcomes: A Secondary Analysis of a Randomized Clinical Trial.
+- HELD REF-2838 | 2019 | 31511230 | RCT | Effects of Helicobacter pylori treatment and vitamin and garlic supplementation on gastric cancer incidence and mortality: follow-up of a randomized intervention trial.
+- new | 2019 | 30370629 | MA/SR | Effect of garlic supplementation on serum C-reactive protein level: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2019 | 30949665 | MA/SR | Garlic Supplementation Reduces Circulating C-reactive Protein, Tumor Necrosis Factor, and Interleukin-6 in Adults: A Systematic Review and Meta-analysis of Randomized Con
+- HELD REF-2536 | 2019 | 30049636 | MA/SR | The effect of garlic on lipid profile and glucose parameters in diabetic patients: A systematic review and meta-analysis.
+- new | 2018 | 30155945 | MA/SR | The association of garlic with Helicobacter pylori infection and gastric cancer risk: A systematic review and meta-analysis.
+- new | 2018 | 29718835 | MA/Review | Anti-hyperlipidemia of garlic by reducing the level of total cholesterol and low-density lipoprotein: A meta-analysis.
+- new | 2018 | 29937536 | RCT | Allicin Bioavailability and Bioequivalence from Garlic Supplements and Garlic Foods.
+- new | 2018 | 30211991 | RCT | The Efficacy of Aged Garlic Extract on Gingivitis - A Randomized Clinical Trial.
+- new | 2018 | 29140808 | RCT | Randomized trial evaluating the effect of aged garlic extract with supplements versus placebo on adipose tissue surrogates for coronary atherosclerosis progression.
+- new | 2018 | 28956671 | RCT | Effect of Raw Crushed Garlic (Allium sativum L.) on Components of Metabolic Syndrome.
+- new | 2018 | 30150192 | RCT | Supplementation of garlic and coriander seed powder: Impact on body mass index, lipid profile and blood pressure of hyperlipidemic patients.
+- new | 2018 | 29842963 | SR | The use of medicinal plants by pregnant women in Africa: A systematic review.
+- new | 2018 | 29604599 | RCT | Garlic extract favorably modifies markers of endothelial function in obese patients -randomized double blind placebo-controlled nutritional intervention.
+- new | 2017 | 27743130 | RCT | Efficacy and safety of fermented garlic extract on hepatic function in adults with elevated serum gamma-glutamyl transpeptidase levels: a double-blind, randomized, placeb
+- new | 2017 | 28593720 | RCT | Phytoestrogen-Rich Natural Preparation for Treatment of Climacteric Syndrome and Atherosclerosis Prevention in Perimenopausal Women.
+- HELD REF-0204 | 2016 | 26764326 | MA/Review | Garlic Lowers Blood Pressure in Hypertensive Individuals, Regulates Serum Cholesterol, and Stimulates Immunity: An Updated Meta-analysis and Review.
+- new | 2016 | 26764332 | RCT | Aged Garlic Extract Modifies Human Immunity.
+- new | 2016 | 26656227 | SR | An umbrella review of garlic intake and risk of cardiovascular disease.
+- new | 2016 | 25945653 | MA/SR | Garlic consumption and colorectal cancer risk in man: a systematic review and meta-analysis.
+- new | 2016 | 26522661 | MA/SR | Effect of garlic on plasma lipoprotein(a) concentrations: A systematic review and meta-analysis of randomized controlled clinical trials.
+- new | 2016 | 27268043 | SR | Medicinal plants--prophylactic and therapeutic options for gastrointestinal and respiratory diseases in calves and piglets? A systematic review.
+- new | 2016 | 26954484 | RCT | The effects of garlic extract upon endothelial function, vascular inflammation, oxidative stress and insulin resistance in adults with type 2 diabetes at high cardiovascu
+- new | 2015 | 25837272 | MA/SR | Garlic for hypertension: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2015 | 25411831 | MA | Meta-analysis: Does garlic intake reduce risk of gastric cancer?
+- new | 2015 | 25557383 | MA | Effect of garlic on blood pressure: a meta-analysis.
+- new | 2015 | 26693740 | MA/Review | Garlic intake lowers fasting blood glucose: meta-analysis of randomized controlled trials.
+- new | 2015 | 25239480 | MA/SR | A systematic review and metaanalysis on the effects of garlic preparations on blood pressure in individuals with hypertension.
+- new | 2015 | 26036623 | RCT | A Randomized Controlled Study to Determine the Efficacy of Garlic Compounds in Patients With Hematological Malignancies at Risk for Chemotherapy-Related Febrile Neutropen
+- new | 2015 | 24689703 | RCT | Changes in blood profile in sheep receiving raw garlic, garlic oil or monensin.
+- new | 2014 | 25386977 | SR | Garlic for the common cold.
+- new | 2014 | 24293151 | RCT | In vivo effect of selected medicinal plants against gastrointestinal nematodes of sheep.
+- new | 2014 | 25386091 | MA/Review | Consumption of garlic and risk of colorectal cancer: an updated meta-analysis of prospective studies.
+- new | 2014 | 24595942 | RCT | The effect of garlic powder on human urinary cytokine excretion.
+- new | 2014 | 24681077 | MA | Allium vegetables and garlic supplements do not reduce risk of colorectal cancer, based on meta-analysis of prospective studies.
+- new | 2014 | 24308540 | RCT | The effects of oral garlic on vaginal candida colony counts: a randomised placebo controlled double-blind trial.
+- new | 2014 | 24976429 | RCT | Reduction of blood lipid parameters by a 12-wk supplementation of aged black garlic: a randomized controlled trial.
+- new | 2014 | 23848231 | RCT | Effect of Nigella sativa and Allium sativum coadminstered with simvastatin in dyslipidemia patients: a prospective, randomized, double-blind trial.
+- new | 2013 | 23633303 | SR | Garlic for peripheral arterial occlusive disease.
+- new | 2013 | 23590705 | MA/Review | Effect of garlic on serum lipids: an updated meta-analysis.
+- new | 2013 | 23215996 | SR | The roles of garlic on the lipid parameters: a systematic review of the literature.
+- new | 2013 | 23533302 | RCT | Aged garlic extract improves adiponectin levels in subjects with metabolic syndrome: a double-blind, placebo-controlled, randomized, crossover study.
+- new | 2013 | 25573347 | RCT | Effect of garlic powder tablet on carotid intima-media thickness in patients with coronary artery disease: a preliminary randomized controlled trial.
+- new | 2012 | 22419312 | SR | Garlic for the common cold.
+- new | 2012 | 22686865 | SR | Systematic review of breastfeeding and herbs.
+- new | 2012 | 22895963 | SR | Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients.
+- new | 2012 | 22234974 | MA | A meta-analysis of randomized, double-blind, placebo-controlled trials for the effects of garlic on serum lipid profiles.
+- new | 2012 | 22271764 | RCT | Fifteen-year effects of Helicobacter pylori, garlic, and vitamin treatments on gastric cancer incidence and mortality.
+- new | 2012 | 23039014 | RCT | The effect of garlic tablet on pro-inflammatory cytokines in postmenopausal osteoporotic women: a randomized controlled clinical trial.
+- new | 2012 | 21824734 | RCT | Actinobacillus pleuropneumoniae is impaired by the garlic volatile allyl methyl sulfide (AMS) in vitro and in-feed garlic alleviates pleuropneumonia in a pig model.
+- new | 2011 | 20666858 | RCT | Effect of Terminalia chebula and Allium sativum on in vivo methane emission by sheep.
+- new | 2011 | 21959822 | RCT | Garlic (Allium sativum) supplementation with standard antidiabetic agent provides better diabetic control in type 2 diabetes patients.
+- new | 2011 | 21039933 | RCT | Performance of crossbred calves with dietary supplementation of garlic extract.
+- new | 2010 | 20858178 | SR | The efficacy and safety of herbal medicines used in the treatment of hyperlipidemia; a systematic review.
+- new | 2010 | 20958974 | RCT | The effects of time-released garlic powder tablets on multifunctional cardiovascular risk in patients with coronary artery disease.
+- new | 2010 | 20455962 | RCT | Echinacea purpurea and Allium sativum as immunostimulants in fish culture using Nile tilapia (Oreochromis niloticus).
+- HELD REF-2436 | 2009 | 19719333 | SR | Interactions between herbal medicines and prescribed drugs: an updated systematic review.
+- new | 2009 | 19588383 | SR | Garlic for the common cold.
+- new | 2009 | 19250134 | MA/SR | Garlic supplementation and serum cholesterol: a meta-analysis.
+- new | 2009 | 19555517 | MA/SR | The impact of garlic on lipid parameters: a systematic review and meta-analysis.
+- new | 2009 | 19627203 | MA | The antidiabetic effect of onion and garlic in experimental diabetic rats: meta-analysis.
+- new | 2009 | 19186714 | RCT | [Influence of garlic moxibustion on the therapeutic effect in re-treatment patients of tuberculosis].
+- new | 2009 | 19749390 | SR | A systematic review on the influence of trial quality on the effect of garlic on blood pressure.
+- new | 2008 | 18554422 | MA/SR | Effect of garlic on blood pressure: a systematic review and meta-analysis.
+- new | 2008 | 19060427 | RCT | Lipid-lowering effects of time-released garlic powder tablets in double-blinded placebo-controlled randomized study.
+- new | 2008 | 19017826 | MA | Effects of garlic on blood pressure in patients with and without systolic hypertension: a meta-analysis.
+- new | 2007 | 17088002 | RCT | Garlic, hypertension and patient education.
+- new | 2007 | 17885009 | SR | Does garlic reduce risk of colorectal cancer? A systematic review.
+- new | 2007 | 17959943 | RCT | Garlic at dietary doses does not impair platelet function.
+- new | 2007 | 17328819 | RCT | Effects of anethum graveolens and garlic on lipid profile in hyperlipidemic patients.
+- new | 2007 | 17760729 | RCT | Garlic, vitamin, and antibiotic treatment for Helicobacter pylori: a randomized factorial controlled trial.
+- new | 2007 | 17365851 | RCT | Effects of garlic oil on platelet aggregation: a double-blind placebo-controlled crossover study.
+- new | 2007 | 17314444 | RCT | Combination of topical garlic gel and betamethasone valerate cream in the treatment of localized alopecia areata: a double-blind randomized controlled study.
+- new | 2006 | 16484554 | RCT | Aged garlic extract retards progression of coronary artery calcification.
+- new | 2006 | 16484573 | RCT | Aged garlic extract has potential suppressive effect on colorectal adenomas in humans.
+- new | 2006 | 16856110 | SR | Garlic for preventing pre-eclampsia and its complications.
+- new | 2006 | 16484565 | RCT | Aged garlic extract may be safe for patients on warfarin therapy.
+- new | 2006 | 16868359 | RCT | [Does garlic influence rheologic properties and blood flow in progressive systemic sclerosis?].
+- new | 2005 | 16041725 | Clinical Trial/RCT | Aged garlic extract improves endothelial function in men with coronary artery disease.
+- new | 2005 | 15970035 | Clinical Trial/RCT | Efficacy of garlic paste in oral candidiasis.
+- new | 2005 | 15939048 | SR | Complementary therapies for peripheral arterial disease: systematic review.
+- new | 2005 | 15941145 | Clinical Trial/RCT | [Reduction of cardiovascular risk in primary prophylaxy of coronary heart disease].
+- new | 2005 | 16320801 | RCT | Effects of garlic on dyslipidemia in patients with type 2 diabetes mellitus.
+- new | 2005 | 15752181 | Clinical Trial/RCT | A double-blinded, placebo-controlled trial of garlic as a mosquito repellant: a preliminary study.
+- new | 2004 | 15726891 | Clinical Trial/RCT | Effects of aged garlic extract (AGE) on colorectal adenomas: a double-blinded study.
+- new | 2004 | 15475033 | Clinical Trial/RCT | Inhibiting progression of coronary calcification using Aged Garlic Extract in patients receiving statin therapy: a preliminary study.
+- new | 2004 | 15522140 | Clinical Trial/RCT | Effect of garlic (Allium sativum) powder tablets on serum lipids, blood pressure and arterial stiffness in normo-lipidaemic volunteers: a randomised, double-blind, placeb
+- new | 2003 | 12696542 | MA/SR | A systematic review of the effectiveness of garlic as an anti-hyperlipidemic agent.
+- new | 2003 | 12718222 | Clinical Trial/RCT | [Effect of long-acting garlic tablets "allicor" on the incidence of acute respiratory viral infections in children].
+- new | 2003 | 12948274 | Clinical Trial/RCT | No effect of garlic extract supplement on serum lipid levels in hypercholesterolemic subjects.
+- new | 2003 | 12580992 | Clinical Trial/RCT | Effect of short-term administration of garlic supplements on single-dose ritonavir pharmacokinetics in healthy volunteers.
+- new | 2002 | 11980131 | Clinical Trial/RCT | [Hypotensive effect of long-acting garlic tablets allicor (a double-blind placebo-controlled trial)].
+- new | 2001 | 11772128 | SR | Interactions between herbal medicines and prescribed drugs: a systematic review.
+- new | 2001 | 11434846 | Clinical Trial/RCT | Efficacy of naturopathic extracts in the management of ear pain associated with acute otitis media.
+- new | 2001 | 11229829 | Clinical Trial/RCT | A randomized trial of the effects of garlic oil upon coronary heart disease risk factors in trained male runners.
+- new | 2001 | 11444418 | Clinical Trial/RCT | Hypocholesterolemic effect of an enteric-coated garlic supplement.
+- new | 2001 | 11137102 | Clinical Trial/RCT | The effect of a garlic preparation on plasma lipid levels in moderately hypercholesterolemic adults.
+- new | 2001 | 11238801 | Clinical Trial/RCT | Aged garlic extract, a modulator of cardiovascular risk factors: a dose-finding study on the effects of AGE on platelet functions.
+- new | 2000 | 10938169 | Clinical Trial/RCT | Garlic as an insect repellent.
+- new | 2000 | 10796487 | SR | Garlic for peripheral arterial occlusive disease.
+- new | 2000 | 11010950 | MA | Garlic consumption and cancer prevention: meta-analyses of colorectal and stomach cancers.
+- new | 2000 | 10975959 | MA/Review | Garlic for treating hypercholesterolemia. A meta-analysis of randomized clinical trials.
+- new | 2000 | 10685782 | Clinical Trial/RCT | Garlic oil and Helicobacter pylori infection.
+- new | 1999 | 10381297 | Clinical Trial/RCT | The antiatherosclerotic effect of Allium sativum.
+- new | 1999 | 10217370 | Clinical Trial/RCT | Daily supplementation with aged garlic extract, but not raw garlic, protects low density lipoprotein against in vitro oxidation.
+- new | 1998 | 9811286 | Clinical Trial/RCT | Garlic extract therapy in children with hypercholesterolemia.
+- new | 1998 | 9625398 | Clinical Trial/RCT | Garlic powder and plasma lipids and lipoproteins: a multicenter, randomized, placebo-controlled trial.
+- new | 1998 | 9634262 | Clinical Trial/RCT | Effect of a garlic oil preparation on serum lipoproteins and cholesterol metabolism: a randomized controlled trial.
+- new | 1997 | 9347681 | Clinical Trial/RCT | Modulation of lipid profile by fish oil and garlic combination.
+- new | 1997 | 9022529 | Clinical Trial/RCT | Effect of garlic and fish-oil supplementation on serum lipid and lipoprotein concentrations in hypercholesterolemic men.
+- new | 1996 | 8875379 | Clinical Trial/RCT | Garlic powder in the treatment of moderate hyperlipidaemia: a controlled trial and meta-analysis.
+- new | 1995 | 8582091 | Clinical Trial/RCT | Effects of garlic extract on platelet aggregation: a randomized placebo-controlled double-blind study.
+- new | 1994 | 8064171 | MA/SR | A meta-analysis of the effect of garlic on blood pressure.
+- new | 1994 | 8169881 | MA/SR | Garlic as a lipid lowering agent--a meta-analysis.
+- new | 1993 | 8363171 | MA | Effect of garlic on total serum cholesterol. A meta-analysis.
+- new | 1993 | 8508009 | Clinical Trial/RCT | Effects of garlic coated tablets in peripheral arterial occlusive disease.
+- new | 1993 | 8299665 | Clinical Trial/RCT | Effect of garlic on platelet aggregation in patients with increased risk of juvenile ischaemic attack.
+- new | 1993 | 8316057 | Clinical Trial/RCT | Garlic supplementation and lipoprotein oxidation susceptibility.
+- new | 1992 | 1472142 | Clinical Trial/RCT | [Postprandial lipemia under treatment with Allium sativum. Controlled double-blind study of subjects with reduced HDL2-cholesterol].
+- new | 1992 | 1288512 | Clinical Trial/RCT | Comparison of the efficacy and tolerance of a garlic preparation vs. bezafibrate.
+- new | 1991 | 1930351 | Clinical Trial/RCT | Influence of garlic powder on cutaneous microcirculation. A randomized placebo-controlled double-blind cross-over study in apparently healthy subjects.
+- new | 1990 | 2083170 | Clinical Trial/RCT | Hypertension and hyperlipidaemia: garlic helps in mild cases.
+- new | 1990 | 2083173 | Clinical Trial/RCT | Therapy with garlic: results of a placebo-controlled, double-blind study.
+- new | 1990 | 2083172 | Clinical Trial/RCT | Effect of garlic on conjunctival vessels: a randomised, placebo-controlled, double-blind trial.
+- new | 1986 | 3521619 | Clinical Trial/RCT | Lack of efficacy of dried garlic in patients with hyperlipoproteinemia.
+- new | 1981 | 7293938 | Clinical Trial/RCT | Effect of garlic on blood lipids in patients with coronary heart disease.
+- new | 1975 | 1131298 | Clinical Trial/RCT | Effect of the essential oils of garlic and onion on alimentary hyperlipemia.
+
+## aloe-vera (Aloe vera; Aloe Vera) - 226 hits; query: ("Aloe vera"[tiab] OR "Aloe Vera"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42572206 | SR/MA | Systematic Review and Meta-Analysis: Plant-Based Therapy for Irritable Bowel Syndrome.
+- new | 2026 | 42085084 | RCT | Therapeutic Outcomes of Aloe vera Gel Compared with Triamcinolone Acetonide in Minor Aphthous Stomatitis.
+- new | 2026 | 42317150 | SR/MA | Natural Agents for the Improvement of Gingival Health: Systematic Review and Meta-Analysis of Randomized Clinical Trials.
+- new | 2026 | 41836525 | RCT | Development, Characterization, and Clinical Evaluation of a 6% Nitroglycerin-Aloe Vera Transdermal Gel for Stable Angina Management.
+- new | 2026 | 42456498 | SR | Efficacy of natural products in the treatment of melasma: A systematic review.
+- new | 2026 | 41828611 | SR/MA | Do Adjunctive Therapies with Natural Products Improve Periodontal Clinical Parameters After Non-Surgical Treatment? A Systematic Review and Meta-Analysis.
+- new | 2026 | 42247330 | MA | Impact of advanced wound care methods on obstetric patients: a meta-analysis.
+- new | 2026 | 42087432 | RCT | Efficacy and Safety of a Dual-Wavelength 589/1319 nm Laser for the Treatment of Acne Erythema: A Split-Face Randomized Controlled Trial.
+- new | 2026 | 42490900 | SR | Clinical and radiographic outcomes of Aloe vera as a pulpotomy medicament in primary teeth: a systematic review.
+- new | 2026 | 41679052 | SR | Plant-based coagulants for sustainable treatment: Insights from a systematic review and their potential application in Brazil.
+- new | 2026 | 42718813 | SR | Natural products for the management of diarrhea: a systematic review of clinical efficacy, safety, and certainty of evidence.
+- new | 2025 | 40210174 | SR | Herbal medicine for treating psoriasis: A systematic review.
+- new | 2025 | 40536553 | SR | Pathophysiology, conventional treatments, and evidence-based herbal remedies of hair loss with a systematic review of controlled clinical trials.
+- new | 2025 | 40995635 | SR | Chitosan-Based Systems for Curcumin Delivery: Evidence for Therapeutic Applications.
+- new | 2025 | 38963342 | SR/MA | Herbal Medicine in Children and Adults With Atopic Dermatitis: A Systematic Review and Meta-Analysis.
+- new | 2025 | 41305573 | SR | Nutritional and Supplemental Interventions for Prevention and Treatment of Oral Mucositis in Pediatric Oncology.
+- new | 2025 | 40293693 | SR | A Comprehensive Systematic Review of Natural Biomedicines for Immune-Mediated and Inflammatory Dermatologic Diseases.
+- new | 2025 | 39909775 | SR/MA | Effectiveness of Aloe vera in the treatment of oral mucositis: a systematic review and meta-analysis of randomized controlled trials.
+- new | 2025 | 41226670 | SR | Natural Products in Alzheimer's Disease: A Systematic Review of Clinical Trials and Underlying Molecular Mechanisms.
+- new | 2025 | 41290277 | SR/MA | CLINICAL EFFECT OF LOCAL ALOE VERA USE AS AN ADJUNCT TO PERIODONTAL THERAPY: A SYSTEMATIC REVIEW AND META-ANALYSIS.
+- new | 2025 | 41149599 | SR | Functionalization Strategies of Chitosan-Based Scaffolds with Growth Factors for Bone Regeneration: A Systematic Review.
+- new | 2025 | 40611101 |  | The effect of different mouthwashes to prevent oral mucositis in patients with radiotherapy and chemotherapy: a network meta-analysis.
+- new | 2025 | 39110917 | SR | Nutritional Interventions in Adult Patients With Irritable Bowel Syndrome: An Umbrella Review of Systematic Reviews and Meta-analyses of Randomized Clinical Trials.
+- new | 2025 | 40154133 | SR/MA | Effectiveness of plant and animal-based interventions in preventing and reducing pressure injuries: A systematic review and meta-analysis.
+- new | 2025 | 39757558 | SR | Different Disinfection Strategies in Bacterial and Biofilm Contamination on Dental Unit Waterlines: A Systematic Review.
+- new | 2025 | 41373655 | SR | Therapeutic Potential of Latin American Medicinal Plants in Oral Diseases: From Dental Pain to Periodontal Inflammation-A Systematic Review.
+- new | 2025 | 40258777 | RCT | Decreased inflammatory biomarkers after using artificial tears with Aloe vera and hypromellose for dry eye.
+- new | 2025 | 40210517 | SR | The effectiveness of plant-based topical agents for the prevention of pressure injuries: Systematic review of randomised controlled trials.
+- new | 2024 | 39233460 | SR | Cosmeceuticals in photoaging: A review.
+- new | 2024 | 38605441 | SR/MA | Effects of Aloe vera on Burn Injuries: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- HELD REF-2240 | 2024 | 38652926 | RCT | Comparative evaluation of the efficacy of probiotic, Aloe vera, povidine-iodine, and chlorhexidine mouthwashes in the treatment of gingival inflammation: A randomized con
+- new | 2024 | 37670716 | RCT | The Effect of Aloe vera on the Healing of Diabetic Foot Ulcer: A Randomized, Double-blind Clinical Trial.
+- new | 2024 | 39436586 | SR/MA | Effectiveness of the Application of Lanolin, Aloe Vera, and Peppermint on Nipple Pain and Nipple Trauma in Lactating Mothers: A Systematic Review and Meta-Analysis.
+- new | 2024 | 38155549 | SR | Antioxidant treatments in patients with oral submucous fibrosis: A systematic review.
+- new | 2024 | 39110055 | SR | Medicinal Plants Cultivated in Egypt with Antiviral Potential: A Systematic Review.
+- new | 2024 | 37816677 | MA/SR | Evaluation of the effect of herbal agents as management of radiodermatitis in breast cancer patients: A systematic review and meta-analysis.
+- new | 2024 | 36583292 | RCT | Clinical efficacy of green tea, aloe vera and chlorhexidine mouthwashes in the treatment of dental biofilm induced gingivitis: A multi-arm, double-blinded, randomized con
+- new | 2024 | 38931295 | SR | Evaluating the Therapeutic Properties of Natural Products in Orthodontic and Surgical Treatment of Dentofacial Deformities: A Systematic Review of Clinical Trials.
+- new | 2024 | 38229162 | RCT | Comparison of aloe vera gel dressing with conventional dressing on pressure ulcer pain reduction: a clinical trial.
+- new | 2024 | 38273379 | RCT | Efficacy of an aloe vera, chamomile, and thyme cosmetic cream for the prophylaxis and treatment of mild dermatitis induced by radiation therapy in breast cancer patients:
+- new | 2024 | 38918684 | RCT | A Randomized Single-Blinded Phase II Trial Comparing Efficacy and Quality of Life of Topical Aloe Vera Gel Plus Urea Cream Versus Urea Cream Alone for Prevention of Hand 
+- new | 2023 | 35916457 | SR | Polycystic ovaries and herbal remedies: A systematic review.
+- new | 2023 | 36864527 | RCT | Prevention of radiotherapy-related oral mucositis with zinc and polyherbal mouthwash: a double-blind, randomized clinical trial.
+- new | 2023 | 37828490 | SR | Drug treatment for oral submucous fibrosis: an update.
+- new | 2023 | 36808781 | RCT | The effect of a standardized capsule of Aloe vera gel on the quality of life in patients with systolic heart failure: A randomized double-blind placebo-controlled clinica
+- new | 2023 | 36958415 | SR | Phytotherapy in paediatric skin disorders - A systematic literature review.
+- new | 2023 | 38152944 | RCT | Clinical and Radiographic Evaluation of Various Herbal Products Used with Zinc Oxide as an Obturating Material in Primary Teeth: An In Vivo Study.
+- new | 2023 | 36859690 | MA/SR | Natural and miscellaneous agents for the prevention of acute radiation dermatitis: a systematic review and meta-analysis.
+- new | 2023 | 37209466 | SR | Effectiveness of natural-based products for radiation-induced oral mucositis therapy: A systematic review.
+- new | 2023 | 36781110 | SR | Comparative effectiveness of medicinal interventions for oral submucous fibrosis: A network meta-analysis.
+- new | 2023 | 37699014 | RCT | Rapid increase in immune surveillance and expression of NKT and γδT cell activation markers after consuming a nutraceutical supplement containing Aloe vera gel, extracts 
+- new | 2023 | 37837466 |  | Comparison of ointment-based agents after excisional procedures for hemorrhoidal disease: a network meta-analysis of randomized controlled trials.
+- new | 2023 | 35943370 | RCT | Comparison of antiplaque and anti-gingivitis effects of aloe vera mouthwash with chlorhexidine in fixed orthodontic patients-A randomized controlled trial.
+- new | 2023 | 36673955 | SR | Efficacy of Topical Treatments for the Management of Symptomatic Oral Lichen Planus: A Systematic Review.
+- new | 2023 | 37133931 | RCT | Efficacy of aloe vera and probiotic mouthwashes vs fluoride mouthwash on Streptococcus mutans in plaque around brackets of orthodontic patients: a randomized clinical tri
+- new | 2022 | 35524296 | SR | Oral lichen planus: comparative efficacy and treatment costs-a systematic review.
+- new | 2022 | 36264753 | SR/MA | Second-Degree Burns and Aloe Vera: A Meta-analysis and Systematic Review.
+- new | 2022 | 36504087 | MA/SR | Effects of Aloe Vera in the Treatment of Oral Ulcers: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.
+- new | 2022 | 34791771 | RCT | A new product of multi-plant extracts improved skin photoaging: An oral intake in vivo study.
+- new | 2022 | 35767935 | RCT | Reduction in severity of radiation-induced dermatitis in head and neck cancer patients treated with topical aloe vera gel: A randomized multicenter double-blind placebo-c
+- new | 2022 | 34429224 | RCT | The effect of acemannan in implant placement with simultaneous guided bone regeneration in the aesthetic zone: a randomized controlled trial.
+- new | 2022 | 34853932 | RCT | Comparative efficacy of topical aloe vera and low-level laser therapy in the management of oral lichen planus: a randomized clinical trial.
+- new | 2022 | 33616843 | RCT | Aloe vera for Prevention of Acute Radiation Proctitis in Colorectal Cancer a Preliminary Randomized, Placebo-Controlled Clinical Trial.
+- new | 2021 | 32924222 | SR | Aloe vera and health outcomes: An umbrella review of systematic reviews and meta-analyses.
+- new | 2021 | 33336470 | MA/SR | Effects of Aloe vera in adults with mucocutaneous problems: A systematic review and meta-analysis.
+- new | 2021 | 34550291 | SR | The use of babosa (Aloe vera) in treating burns: a literature review.
+- new | 2021 | 33682925 | SR | Interventions for oral lichen planus: A systematic review and network meta-analysis of randomized clinical trials.
+- new | 2021 | 34449259 | MA/SR | Herbal Medicines for Treatment of Radiodermatitis: A Systematic Review and Meta-Analysis.
+- new | 2021 | 34967575 | RCT | Black Turmeric and Aloe Vera in the Management of Oral Submucous Fibrosis: A Prospective Clinical Study.
+- new | 2021 | 33064207 | RCT | The effects of a novel herbal toothpaste on salivary lactate dehydrogenase as a measure of cellular integrity.
+- new | 2021 | 33884948 | SR | Clinical trials with plants in diabetes mellitus therapy: a systematic review.
+- new | 2021 | 33409696 | MA/SR | Clinical applicability of natural products for prevention and treatment of oral mucositis: a systematic review and meta-analysis.
+- new | 2021 | 33966619 | SR | Bioactive Compounds Effective Against Type 2 Diabetes Mellitus: A Systematic Review.
+- new | 2021 | 34563809 | SR | Effectiveness of aloe vera in patients with type 2 Diabetes Mellitus and pre-diabetes: An overview of systematic reviews.
+- new | 2021 | 33475054 | SR | Ethnomedicinal Plants for the Management of Diabetes Worldwide: A Systematic Review.
+- new | 2021 | 33942562 | SR | A systematic review on the effectiveness of organic unprocessed products in controlling gingivitis in patients undergoing orthodontic treatment with fixed appliances.
+- new | 2021 | 34609377 | SR | Effectiveness of Nonpharmacologic Treatments of Burning Mouth Syndrome: A Systematic Review.
+- new | 2021 | 33724587 | SR | Phytonutrient supplements and metabolic biomarkers of cardiovascular disease: An umbrella review of meta-analyses of clinical trials.
+- new | 2021 | 32671872 | Review | Herbal derivatives in the management of mouth opening in oral submucous fibrosis-A network meta-analysis.
+- new | 2021 | 33493993 | SR | The extent to which the last decade has yielded additional treatment options for EGFR-associated rash besides classic treatment with antibiotics and corticosteroids - A s
+- new | 2021 | 33383112 | RCT | Aloe Vera; A new treatment for atrophic vaginitis, A randomized double-blinded controlled trial.
+- new | 2021 | 33866666 | RCT | A randomized clinical study to examine the oral hygiene efficacy of a novel herbal toothpaste with zinc over a 6-month period.
+- new | 2021 | 34389753 | RCT | Relative absorption of silicon from different formulations of dietary supplements: a pilot randomized, double-blind, crossover post-prandial study.
+- new | 2021 | 34385093 | RCT | Effect of processed aloe vera gel on immunogenicity in inactivated quadrivalent influenza vaccine and upper respiratory tract infection in healthy adults: A randomized do
+- new | 2021 | 34585874 | RCT | Clinical Evaluation of the Effects of Topical Indocyanine-green Mediated Photosensiti﻿ser vs Aloe Vera Gel as Adjunct Therapy to Scaling and Root Planing in Chronic Perio
+- new | 2021 | 33387398 | RCT | A comparison of the efficacy of silicone gel containing onion extract and aloe vera to silicone gel sheets to prevent postoperative hypertrophic scars and keloids.
+- new | 2021 | 33576219 | RCT | A Comparative Study to Evaluate Efficacy of Curcumin and Aloe Vera Gel along with Oral Physiotherapy in the Management of Oral Submucous Fibrosis: A Randomized Clinical T
+- new | 2021 | 33832645 | RCT | Efficacy and safety of a new vaginal gel for the treatment of symptoms associated with vulvovaginal atrophy in postmenopausal women: A double-blind randomized placebo-con
+- new | 2021 | 32101488 | RCT | Efficacy of Aloe-Vera Use for Prevention of Chemotherapy-Induced Oral Mucositis in Children with Acute Lymphoblastic Leukemia: A Randomized Controlled Clinical Trial.
+- new | 2021 | 34210922 | RCT | Clinical Efficacy of Aloe Vera Toothpaste on Periodontal Parameters of Patients with Gingivitis-A Randomized, Controlled, Single-masked Clinical Trial.
+- new | 2020 | 31987249 | MA/SR | Western herbal medicines in the treatment of irritable bowel syndrome: A systematic review and meta-analysis.
+- new | 2020 | 33063778 | MA/SR | Radiodermatitis in Patients With Cancer: Systematic Review and Meta-Analysis.
+- new | 2020 | 32279615 | RCT | Adding herbal extracts to silicone gel on post-sternotomy scar: a prospective randomised double-blind study.
+- new | 2020 | 32049698 | RCT | Aloe vera-Peppermint Gel (Veramin): An Effective Treatment for Mouth Dryness Among ICU Patients.
+- new | 2020 | 30829440 | SR | Efficacy of aloe vera mouthwash versus chlorhexidine on plaque and gingivitis: A systematic review.
+- new | 2020 | 31328384 | SR | In vitro evaluation of plants as storage media for avulsed teeth: A systematic review.
+- new | 2020 | 32145110 | MA | Efficacy of hyaluronidase combined with corticosteroids in treatment of oral submucous fibrosis: A meta-analysis of randomized controlled clinical trials.
+- new | 2020 | 31111439 | RCT | The effect of aloe vera and tea tree oil mouthwashes on the oral health of school children.
+- new | 2020 | 32147034 | SR | Therapeutic potential of medicinal plants indicated by the Brazilian public health system in treating the collateral effects induced by chemotherapy, radiotherapy, and ch
+- new | 2020 | 30614013 | RCT | Comparison between topical recombinant human epidermal growth factor and Aloe vera gel in combination with ablative fractional carbon dioxide laser as treatment for stria
+- new | 2020 | 32404169 | RCT | Prevention of acute radiation-induced Proctitis by Aloe vera: a prospective randomized, double-blind, placebo controlled clinical trial in Pelvic Cancer patients.
+- new | 2020 | 31664632 | RCT | Clinical efficacy of an Aloe Vera gel versus a 0.12% chlorhexidine gel in preventing traumatic ulcers in patients with fixed orthodontic appliances: a double-blind random
+- new | 2019 | 30674002 | SR | Topical Retinoids in Acne Vulgaris: A Systematic Review.
+- new | 2019 | 30329174 | MA/SR | Aloe vera in treatment of oral submucous fibrosis: A systematic review and meta-analysis.
+- new | 2019 | 31741361 | SR | Topical Treatments for Melasma: A Systematic Review of Randomized Controlled Trials.
+- new | 2019 | 30727929 | RCT | A Randomized Controlled Trial of a Herbal Compound for Improving Metabolic Parameters in Diabetic Patients with Uncontrolled Dyslipidemia.
+- new | 2019 | 29336265 | RCT | Efficacy of Aloe vera/ Plantago Major Gel in Diabetic Foot Ulcer: A Randomized Double-Blind Clinical Trial.
+- new | 2019 | 31731677 | RCT | Relationships Between Health and Environmental Information on the Willingness to Pay for Functional Foods: The Case of a New Aloe Vera Based Product.
+- new | 2018 | 30144887 | RCT | Topical vitamin D3: A randomized controlled trial (RCT).
+- new | 2018 | 29649056 | RCT/SR | Topical Aloe Vera Gel for Accelerated Wound Healing of Split-Thickness Skin Graft Donor Sites: A Double-Blind, Randomized, Controlled Trial and Systematic Review.
+- new | 2018 | 29722166 | RCT | One percent alendronate and aloe vera gel local host modulating agents in chronic periodontitis patients with class II furcation defects: A randomized, controlled clinica
+- new | 2018 | 28555939 | RCT | Comparison of aloe vera and omeprazole in the treatment of equine gastric ulcer syndrome.
+- new | 2018 | 28521546 | RCT | The effect of Aloe vera gel and sweet almond oil on striae gravidarum in nulliparous women.
+- new | 2018 | 30115068 | RCT | Suppression of DNA/RNA and protein oxidation by dietary supplement which contains plant extracts and vitamins: a randomized, double-blind, placebo-controlled trial.
+- new | 2018 | 29131970 | RCT | Aloe barbadensis miller versus silver sulfadiazine creams for wound healing by secondary intention in dogs and cats: A randomized controlled study.
+- new | 2017 | 28700086 | MA/SR | Antiseptics for burns.
+- new | 2017 | 28029732 | MA/SR | The efficacy of aloe vera in management of oral lichen planus: a systematic review and meta-analysis.
+- new | 2017 | 29335048 | RCT | Antiplaque, Antifungal Effectiveness of Aloevera Among Intellectually Disabled Adolescents: Pilot Study.
+- new | 2017 | 27957620 | SR | Topical interventions to prevent acute radiation dermatitis in head and neck cancer patients: a systematic review.
+- new | 2017 | 28289986 | SR | Topical Botanical Agents for the Treatment of Psoriasis: A Systematic Review.
+- new | 2017 | 28139161 | RCT | Clinical efficacy of liposome-encapsulated Aloe vera on melasma treatment during pregnancy.
+- new | 2017 | 28618234 | RCT | Successful Treatment of Acute Radiation Proctitis with Aloe Vera: A Preliminary Randomized Controlled Clinical Trial.
+- new | 2017 | 28560780 | RCT | Double-blind randomized phase III study comparing a mixture of natural agents versus placebo in the prevention of acute mucositis during chemoradiotherapy for head and ne
+- new | 2017 | 27314762 | RCT | Evaluation of efficacy of aloe vera in the treatment of oral submucous fibrosis - a clinical study.
+- new | 2016 | 26887532 | MA/SR | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies.
+- new | 2016 | 27347994 | MA/SR | Efficacy of Aloe Vera Supplementation on Prediabetes and Early Non-Treated Diabetic Patients: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- HELD REF-2456 | 2016 | 27009750 | MA/SR | Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis.
+- new | 2016 | 27440796 | RCT | Clinical Efficacy Test of Polyester Containing Herbal Extract Dressings in Burn Wound Healing.
+- new | 2016 | 26822584 | SR | Effects of Plants on Osteogenic Differentiation and Mineralization of Periodontal Ligament Cells: A Systematic Review.
+- new | 2016 | 27152917 | MA | Reduction of Fasting Blood Glucose and Hemoglobin A1c Using Oral Aloe Vera: A Meta-Analysis.
+- new | 2016 | 26447752 | RCT | Adjunctive Local Delivery of Aloe Vera Gel in Patients With Type 2 Diabetes and Chronic Periodontitis: A Randomized, Controlled Clinical Trial.
+- new | 2016 | 27768020 | RCT | Clinical efficacy of a solution composed by sodium bicarbonate and alginate, aloe vera, propoli, chamomile, calendula and honey, in the treatment of minor recurrent aphth
+- new | 2016 | 26264630 | RCT | Clinical, radiographic, and histologic analysis of the effects of acemannan used in direct pulp capping of human primary teeth: short-term outcomes.
+- new | 2015 | 26742306 | RCT | Efficacy and safety of Aloe vera syrup for the treatment of gastroesophageal reflux disease: a pilot randomized positive-controlled trial.
+- new | 2015 | 25518050 | SR | Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases.
+- new | 2015 | 25649640 | RCT | Evaluation of safety and efficacy of a new multipurpose disinfecting solution on silicone hydrogel contact lenses.
+- new | 2015 | 26488737 | RCT | Comparative trial of Aloe vera/olive oil combination cream versus phenytoin cream in the treatment of chronic wounds.
+- new | 2015 | 26109009 | RCT | Dietary Aloe vera improves plasma lipid profile, antioxidant, and hepatoprotective enzyme activities in GIFT-tilapia (Oreochromis niloticus) after Streptococcus iniae cha
+- new | 2015 | 25758848 | RCT | Dietary Aloe vera supplementation on growth performance, some haemato-biochemical parameters and disease resistance against Streptococcus iniae in tilapia (GIFT).
+- new | 2014 | 24895299 | MA/SR | Aloe vera for prevention and treatment of infusion phlebitis.
+- new | 2014 | 23607360 | SR | Aloe vera herbal dentifrices for plaque and gingivitis control: a systematic review.
+- new | 2014 | 25406780 | RCT | Does skin care frequency affect the severity of incontinence-associated dermatitis in critically ill patients?
+- new | 2014 | 25063588 | SR | Use of herbal medicines by elderly patients: A systematic review.
+- new | 2014 | 25560349 | RCT | Aloe vera gel and cesarean wound healing; a randomized controlled clinical trial.
+- new | 2013 | 22788669 | SR | Urban legends series: lichen planus.
+- new | 2013 | 23543538 | MA/SR | Wound cleansing for pressure ulcers.
+- new | 2013 | 23981095 | SR | Systematic review: the efficacy of herbal therapy in inflammatory bowel disease.
+- new | 2013 | 23497676 | RCT | Preventing the acute skin side effects in patients treated with radiotherapy for breast cancer: the use of corneometry in order to evaluate the protective effect of moist
+- new | 2013 | 23909714 | MA/SR | Plant extracts for the topical management of psoriasis: a systematic review and meta-analysis.
+- new | 2013 | 24498803 | SR | Iranian medicinal plants for diabetes mellitus: a systematic review.
+- new | 2013 | 23894900 | RCT | Effectiveness of Aloe Vera gel compared with 1% silver sulphadiazine cream as burn wound dressing in second degree burns.
+- new | 2013 | 22957483 | RCT | Prospective, randomized, double-blind, clinical evaluation of Aloe vera Barbadensis, applied in combination with a tongue protector to treat burning mouth syndrome.
+- new | 2013 | 23240939 | RCT | Acemannan, a polysaccharide extracted from Aloe vera, is effective in the treatment of oral aphthous ulceration.
+- new | 2013 | 23735317 | RCT | Metabolic effects of aloe vera gel complex in obese prediabetes and early non-treated diabetic patients: randomized controlled trial.
+- new | 2013 | 24237724 | RCT | Efficacy of aloe vera gel as an adjuvant treatment of oral submucous fibrosis.
+- new | 2012 | 22336851 | SR | Aloe vera for treating acute and chronic wounds.
+- new | 2012 | 23041995 | RCT | Randomized trial of aloe vera gel vs triamcinolone acetonide ointment in the treatment of oral lichen planus.
+- new | 2012 | 22336835 | MA/SR | Interventions for erosive lichen planus affecting mucosal sites.
+- new | 2012 | 22242640 | SR | Interventions for treating oral lichen planus: a systematic review.
+- new | 2012 | 22087805 | RCT | Clinical and microbiologic effects of commercially available dentifrice containing aloe vera: a randomized controlled clinical trial.
+- new | 2012 | 23421308 | RCT | The effect of a toothpaste containing aloe vera on established gingivitis.
+- new | 2012 | 22198821 | RCT | Anti-hyperglycemic and anti-hypercholesterolemic effects of Aloe vera leaf gel in hyperlipidemic type 2 diabetic patients: a randomized double-blind placebo-controlled cl
+- new | 2012 | 22650317 | RCT | Aloe vera in the treatment for oral submucous fibrosis - a preliminary study.
+- new | 2011 | 21735381 | MA/SR | Interventions for treating oral lichen planus.
+- new | 2011 | 21491378 | MA/SR | Interventions for preventing oral mucositis for patients with cancer receiving treatment.
+- new | 2011 | 21927741 | SR | Review of the efficacy of green tea, isoflavones and aloe vera supplements based on randomised controlled trials.
+- new | 2011 | 21681079 | RCT | Comparison of aloe vera mouthwash with triamcinolone acetonide 0.1% on oral lichen planus: a randomized double-blinded clinical trial.
+- new | 2010 | 21154347 | MA/SR | Interventions for preventing oral mucositis for patients with cancer receiving treatment.
+- new | 2010 | 20923446 | RCT | Efficacy of topical Aloe vera in patients with oral lichen planus: a randomized double-blind study.
+- new | 2010 | 21048211 | RCT | Effects of oral Aloe vera on electrocardiographic and blood pressure measurements.
+- new | 2010 | 19686327 | RCT | A prospective, randomized clinical trial comparing topical aloe vera with 0.1% triamcinolone acetonide in mild to moderate plaque psoriasis.
+- new | 2010 | 22435613 | RCT | A randomized placebo-controlled crossover trial of aloe vera on bioavailability of vitamins C and B(12), blood glucose, and lipid profile in healthy human subjects.
+- new | 2009 | 19218914 | SR | Aloe vera in dermatology: a brief review.
+- new | 2009 | 19807152 | RCT | Bioavailability and antioxidant effects of a xanthone-rich Mangosteen (Garcinia mangostana) product in humans.
+- new | 2009 | 19562446 | RCT | Aloe versus silver sulfadiazine creams for second-degree burns: a randomized controlled study.
+- new | 2009 | 19274696 | RCT | Preliminary study of effectiveness of aloe vera in scabies treatment.
+- new | 2008 | 18705777 | SR | A systematic review of wound cleansing for pressure ulcers.
+- new | 2008 | 18253066 | RCT | Investigation of the anti-inflammatory potential of Aloe vera gel (97.5%) in the ultraviolet erythema test.
+- new | 2008 | 19089263 | RCT | Effect of a dentifrice containing Aloe vera on plaque and gingivitis control. A double-blind clinical study in humans.
+- new | 2008 | 18093246 | RCT | The efficacy of aloe vera gel in the treatment of oral lichen planus: a randomized controlled trial.
+- new | 2008 | 18940117 | RCT | Efficacy of aloe vera gel in the treatment of vulval lichen planus.
+- new | 2007 | 17943748 | MA/SR | Interventions for preventing oral mucositis for patients with cancer receiving treatment.
+- new | 2007 | 18928148 | SR | An evidence-based systematic review of Aloe vera by the natural standard research collaboration.
+- new | 2007 | 17499928 | SR | The efficacy of aloe vera used for burn wound healing: a systematic review.
+- new | 2006 | 16625538 | MA/SR | Interventions for preventing oral mucositis for patients with cancer receiving treatment.
+- new | 2006 | 16749917 | RCT | Randomised double-blind placebo-controlled trial of aloe vera for irritable bowel syndrome.
+- new | 2005 | 16235386 | MA/SR | Wound cleansing for pressure ulcers.
+- new | 2005 | 16149293 | SR | Aloe vera for preventing radiation-induced skin reactions: a systematic literature review.
+- new | 2005 | 16623024 | RCT | Efficacy of aloe vera cream in prevention and treatment of sunburn and suntan.
+- new | 2005 | 16323295 | RCT | Effect of Aloe vera preparations on the human bioavailability of vitamins C and E.
+- new | 2004 | 15106207 | SR | Dressings and topical agents for surgical wounds healing by secondary intention.
+- new | 2004 | 15043514 | Clinical Trial/RCT | Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis.
+- new | 2003 | 12663610 | SR | Systematic review of herbs and dietary supplements for glycemic control in diabetes.
+- new | 2002 | 11915398 | Clinical Trial/RCT | The clinical effects of saline and aloe vera rinses on periodontal surgical sites.
+- new | 2001 | 11338761 | Clinical Trial/RCT | The effect of aloe vera gel/mild soap versus mild soap alone in preventing skin reactions in patients undergoing radiation therapy.
+- new | 1999 | 10885091 | SR | Aloe vera: a systematic review of its clinical effectiveness.
+- new | 1998 | 10326343 | Clinical Trial/RCT | Acemannan hydrogel dressing versus saline dressing for pressure ulcers. A randomized, controlled trial.
+- new | 1996 | 8892458 | Clinical Trial/RCT | Phase III double-blind evaluation of an aloe vera gel as a prophylactic agent for radiation-induced skin toxicity.
+- new | 1996 | 8765459 | Clinical Trial/RCT | Management of psoriasis with Aloe vera extract in a hydrophilic cream: a placebo-controlled, double-blind study.
+- new | 1991 | 2047051 | Clinical Trial/RCT | Aloe vera dermal wound gel is associated with a delay in wound healing.
+
+## aloysia-citrodora (Aloysia citrodora; Lemon Verbena) - 11 (+CT) hits; query: ("Aloysia citrodora"[tiab] OR "Lemon Verbena"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40251851 | RCT | Daily supplementation with lemon verbena extract decreases subjective energy and parental reports of hyperactivity in children displaying sub-clinical attention deficit h
+- HELD REF-0691 | 2024 | 38794761 | RCT | Dietary Supplementation with an Extract of Aloysia citrodora (Lemon verbena) Improves Sleep Quality in Healthy Subjects: A Randomized Double-Blind Controlled Study.
+- new | 2021 | 34104096 | RCT | Evaluation of the Efficacy of Supplementation with Planox® Lemon Verbena Extract in Improving Oxidative Stress and Muscle Damage: A Randomized Double-Blind Controlled Tri
+- HELD REF-0690 | 2019 | 30450627 | RCT | Aloysia citriodora Palau (lemon verbena) for insomnia patients: A randomized, double-blind, placebo-controlled clinical trial of efficacy and safety.
+- new | 2018 | 29862395 | RCT | Hibiscus and lemon verbena polyphenols modulate appetite-related biomarkers in overweight subjects: a randomized controlled trial.
+- HELD REF-0620 | 2018 | 29410606 | RCT | Effects of lemon verbena extract (Recoverben®) supplementation on muscle strength and recovery after exhaustive exercise: a randomized, placebo-controlled trial.
+- new | 2016 | 26833391 | RCT | Effect of lemon verbena powder and vitamin C on performance and immunity of heat-stressed broilers.
+- new | 2014 | 25617561 | RCT | Effects of dietary supplementation with lemon verbena extracts on serum inflammatory markers of multiple sclerosis patients.
+- new | 2012 | 21083769 | RCT | Antioxidant effect of lemon verbena extracts in lymphocytes of university students performing aerobic training program.
+- new | 2011 | 22087615 | RCT | A randomized, double-blinded, placebo-controlled study of the effect of a combination of lemon verbena extract and fish oil omega-3 fatty acid on joint management.
+- new | 2011 | 20967458 | RCT | Effect of lemon verbena supplementation on muscular damage markers, proinflammatory cytokines release and neutrophils' oxidative stress in chronic exercise.

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3196,
+ "count": 3216,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -1537,6 +1537,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3422",
+   "key": "cassiasantos2025aloemucositis",
+   "type": "article",
+   "title": "Effectiveness of Aloe vera in the treatment of oral mucositis: a systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Cássia-Santos, D., Santos, C.K.C., Fernandes, L.T., Carvalho, G.Q., de Aquino, S.N. and Lemos, C.A.A.",
+   "journal": "International Journal of Oral and Maxillofacial Surgery",
+   "year": "2025",
+   "doi": "10.1016/j.ijom.2025.01.015",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijom.2025.01.015",
+   "link_type": "doi",
+   "citation": "Cássia-Santos, D., Santos, C.K.C., Fernandes, L.T., Carvalho, G.Q., de Aquino, S.N. and Lemos, C.A.A (2025) 'Effectiveness of Aloe vera in the treatment of oral mucositis: a systematic review and meta-analysis of randomized controlled trials', International Journal of Oral and Maxillofacial Surgery, 54(7), pp. 590--597. doi:10.1016/j.ijom.2025.01.015",
+   "abstract": "Oral mucositis (OM) is a common complication of cancer patients. A systematic review and meta-analysis assessed the effectiveness of Aloe vera (AV) in the treatment of OM. The population included cancer patients undergoing radiotherapy or chemotherapy, treated for OM with AV. A search following the PICOS strategy, with specific keywords, identified randomized controlled trials (RCTs) published up to September 2024. Seven RCTs involving 355 participants, 170 in the intervention (AV) groups (mean age 39.7 years, standard deviation 23.9 years) and 185 in control groups (mean age 39.0 years, standard deviation 23.5 years), were included. A significant difference in the improvement of severe mucositis cases (grades 3 and 4) was observed with the use of AV compared to control (placebo, sodium bicarbonate, or benzydamine) (odds ratio 0.32, 95% confidence interval 0.15-0.70, P = 0.004). Considering the moderate heterogeneity observed (I2 = 36%, P = 0.15), a subgroup analysis was conducted. A subgroup analysis showed significant improvement in grade 3 and 4 OM for AV versus placebo (odds ratio 0.22, 95% CI 0.11-0.44, P < 0.001), but not compared with sodium bicarbonate or benzydamine. The results suggest that AV may be beneficial for cancer patients undergoing radiotherapy or chemotherapy, leading to improvements in the more severe stages of OM.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effectiveness of Aloe vera in the treatment of oral mucositis: a systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
+  },
+  {
    "ref_id": "REF-0615",
    "key": "lopezseoane2025angelica",
    "type": "article",
@@ -2003,6 +2038,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3414",
+   "key": "freiredecarvalho2025garlicrheum",
+   "type": "article",
+   "title": "Garlic Extract in Rheumatological Diseases: A Systematic Review",
+   "authors": "Freire de Carvalho, J., Lerner, A. and Benzvi, C.",
+   "journal": "Complementary Medicine Research",
+   "year": "2025",
+   "doi": "10.1159/000547181",
+   "url": "",
+   "link": "https://doi.org/10.1159/000547181",
+   "link_type": "doi",
+   "citation": "Freire de Carvalho, J., Lerner, A. and Benzvi, C (2025) 'Garlic Extract in Rheumatological Diseases: A Systematic Review', Complementary Medicine Research, 32(4), pp. 296--300. doi:10.1159/000547181",
+   "abstract": "BACKGROUND: Garlic and garlic extract (GE) are highly consumed traditional and popular food spices. They are reported to have antioxidant, anti-inflammatory, and infection-protecting properties. The aim of this study was to review the use of GE in various rheumatic diseases. SUMMARY: PubMed/MEDLINE, Embase, and SciELO were searched for articles on GE and rheumatic diseases between 1966 and May 2024. Four articles were found, including 176 patients. The investigated diseases were rheumatoid arthritis (RA) (n = 3) and osteoarthritis (OA) (n = 1). Age varied from 51.06 ± 13.8 to 58.9 ± 7.5 years old, and female gender was the only one included in all studies. The disease duration was 6.58 ± 7.75 years. The GE dosage ranged from 600 mg to 1,000 mg/day. The follow-up ranged from 4 to 12 weeks. All articles demonstrated improvements in the diverse rheumatic disease parameters (e.g., pain, function, disease activity, tender and swollen joints, stiffness, and WOMAC) and reduced inflammatory biomarkers (C-reactive protein, tumor necrosis factor, malondialdehyde). KEY MESSAGES: GE is a safe and well-tolerated therapy for RA and OA. However, studies with more participants are needed to confirm, replicate, and further explore the topic.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Garlic Extract in Rheumatological Diseases: A Systematic Review",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
+  },
+  {
    "ref_id": "REF-0719",
    "key": "debia2025goutweed",
    "type": "article",
@@ -2016,7 +2083,7 @@
    "link_type": "doi",
    "citation": "Dębia, K., Dzięcioł, M., Wróblewska, A. and Janda-Milczarek, K (2025) 'Goutweed (Aegopodium podagraria L.): An Edible Weed with Health-Promoting Properties', Molecules, 30(7), pp. 1603. doi:10.3390/molecules30071603",
    "abstract": "Goutweed (Aegopodium podagraria L.) is a species of medicinal perennial in the celery family (Apiaceae), also considered an edible plant with medicinal effects and high nutritional value. In traditional folk medicine, it was known as a remedy for gout (arthritis) and also used to relieve rheumatism or sciatica. The botanical characteristics, occurrence, nutritional composition, and traditional and present-day applications of this plant are discussed. Furthermore, the important specific plant metabolites including organic acids and their derivatives, flavonoids, coumarins, polyacetylenes and terpene components of essential oil are presented and their biological activity is described. The valuable medicinal properties of Aegopodium podagria L. include anti-inflammatory, antirheumatic, antioxidant, antibacterial, antifungal, diuretic, sedative and protective effects on the kidneys and liver. The aim of this paper was to describe, on the basis of the available literature, the chemical composition, bioactivity and health-promoting properties of this wild edible plant. The information obtained is described and summarized in tables.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -5977,6 +6044,42 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3418",
+   "key": "varade2024garlicmets",
+   "type": "article",
+   "title": "Effect of garlic on the components of metabolic syndrome: A systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Varade, S., Nadella, M., Hirake, A., Mungase, S.B., Ali, A. and Adela, R.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2024",
+   "doi": "10.1016/j.jep.2023.116960",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2023.116960",
+   "link_type": "doi",
+   "citation": "Varade, S., Nadella, M., Hirake, A., Mungase, S.B., Ali, A. and Adela, R (2024) 'Effect of garlic on the components of metabolic syndrome: A systematic review and meta-analysis of randomized controlled trials', Journal of Ethnopharmacology, 318(Pt B), pp. 116960. doi:10.1016/j.jep.2023.116960",
+   "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Metabolic diseases are the major causes of macrovascular and microvascular complications which lead to morbidity and mortality. Traditionally, garlic has been used as food and medicine for more than 5000 years. However, efficacy studies have shown conflicting results regarding the garlic effect. AIM OF THE STUDY: This study aims to evaluate the efficacy of garlic on the components of metabolic syndrome (MetS) in metabolic disease patients. MATERIALS AND METHODS: This study was a systematic review and meta-analysis of randomized controlled trials (RCTs). Pubmed, Cochrane Central Register of Controlled Trials (CENTRAL), and Google scholar were searched till December 25, 2021 for identifying the relevant studies that have shown the effects of garlic on components of metabolic syndrome in metabolic disease patients. The mean difference with 95% CI was calculated using fixed-effect or random-effect models. RESULTS: The effect of garlic has shown significant changes on waist circumference (p-value= <0.0001), total cholesterol (p < 0.0001), low density lipoprotein (p = 0.01), high density lipoprotein (p < 0.00001), triglycerides (p < 0.00001), systolic blood pressure (p < 0.00001), diastolic blood pressure (p < 0.00001), glucose (p < 0.00001), Homeostatic Model Assessment for Insulin Resistance (HOMA-IR) (p = 0.04), C-reactive protein (p < 0.00001), tumor necrosis factor (TNF)-α (p = 0.002), interleukin (IL)-6 (p = 0.0001). Subgroup analysis has shown the favorable effects of garlic in metabolic disease patients. CONCLUSION: Our meta-analysis results confirm the findings that garlic could be useful as an anti-hyperlipidemic, anti-hyperglycemic, anti-hypertensive and anti-inflammatory drug.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of garlic on the components of metabolic syndrome: A systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "High blood pressure",
+    "High cholesterol",
+    "Inflammation (general)",
+    "Metabolic support"
+   ]
+  },
+  {
    "ref_id": "REF-2502",
    "key": "liu2024saffron",
    "type": "article",
@@ -6069,6 +6172,41 @@
    "conditions": [
     "PMS / premenstrual syndrome",
     "Pain (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-3420",
+   "key": "huang2024aloeburns",
+   "type": "article",
+   "title": "Effects of Aloe vera on Burn Injuries: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "authors": "Huang, Y.N., Chen, K.C., Wang, J.H. and Lin, Y.K.",
+   "journal": "Journal of Burn Care & Research",
+   "year": "2024",
+   "doi": "10.1093/jbcr/irae061",
+   "url": "",
+   "link": "https://doi.org/10.1093/jbcr/irae061",
+   "link_type": "doi",
+   "citation": "Huang, Y.N., Chen, K.C., Wang, J.H. and Lin, Y.K (2024) 'Effects of Aloe vera on Burn Injuries: A Systematic Review and Meta-Analysis of Randomized Controlled Trials', Journal of Burn Care & Research, 45(6), pp. 1536--1545. doi:10.1093/jbcr/irae061",
+   "abstract": "Burn injuries cause severe pain, infection risks, psychological distress, financial burdens, and mortality, necessitating effective care. Aloe vera, a traditional burn remedy, shows wound-healing potential, but its analgesic effects and efficacy with varying burn severity are uncertain. This study aims to investigate A. vera's effect on wound healing, pain management, and infection prevention in patients with burns. A systematic search on PubMed, Embase, and CENTRAL was performed on October 9, 2023, for randomized controlled trials (RCTs). The risk of bias was examined using the Cochrane risk-of-bias tool (version 2), and the meta-analysis was carried out using a random-effects model. The primary outcome was wound-healing time, with secondary outcomes examining pain severity and wound infection. The Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach was used to assess the quality of evidence for each outcome. Nine RCTs were included in the current study, of which 6 provided data on the primary outcome. Aloe vera significantly reduced mean wound-healing time compared to other topicals (mean difference [MD] -3.76 days; 95% CI, -5.69 to -1.84). Additionally, the meta-analysis of the secondary outcomes found no significant differences in pain reduction (MD -0.76 points; 95% CI, -1.53 to 0.01) and wound infection risk (risk ratio 1.10; 95% CI, 0.34-3.59) between A. vera and control groups. In conclusion, A. vera expedites wound healing in patients with second-degree burns without increased infection risk compared to other antimicrobial agents. The analgesic effects on burn injuries remain uncertain.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Aloe vera on Burn Injuries: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Wounds"
    ]
   },
   {
@@ -11365,7 +11503,8 @@
     "Antioxidant"
    ],
    "conditions": [
-    "Cardiovascular / heart health"
+    "Cardiovascular / heart health",
+    "High blood pressure"
    ]
   },
   {
@@ -11864,9 +12003,7 @@
    "actions": [
     "Anticancer (preclinical)"
    ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0745",
@@ -12137,6 +12274,40 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3404",
+   "key": "sadahiro2023cohoshma",
+   "type": "article",
+   "title": "Black cohosh extracts in women with menopausal symptoms: an updated pairwise meta-analysis",
+   "authors": "Sadahiro, R., Matsuoka, L.N., Zeng, B.S., Chen, K.H., Zeng, B.Y., Wang, H.Y., Chu, C.S., Stubbs, B., Su, K.P., Tu, Y.K., Wu, Y.C., Lin, P.Y., Chen, T.Y., Chen, Y.W., Suen, M.W., Hopwood, M., Yang, W.C., Sun, C.K., Cheng, Y.S., Shiue, Y.L., Hung, C.M., Matsuoka, Y.J. and Tseng, P.T.",
+   "journal": "Menopause",
+   "year": "2023",
+   "doi": "10.1097/GME.0000000000002196",
+   "url": "",
+   "link": "https://doi.org/10.1097/GME.0000000000002196",
+   "link_type": "doi",
+   "citation": "Sadahiro, R., Matsuoka, L.N., Zeng, B.S., Chen, K.H., Zeng, B.Y., Wang, H.Y., Chu, C.S., Stubbs, B., Su, K.P., Tu, Y.K., Wu, Y.C., Lin, P.Y., Chen, T.Y., Chen, Y.W., Suen, M.W., Hopwood, M., Yang, W.C., Sun, C.K., Cheng, Y.S., Shiue, Y.L., Hung, C.M., Matsuoka, Y.J. and Tseng, P.T (2023) 'Black cohosh extracts in women with menopausal symptoms: an updated pairwise meta-analysis', Menopause, 30(7), pp. 766--773. doi:10.1097/GME.0000000000002196",
+   "abstract": "OBJECTIVE: Menopausal symptoms are common in midlife women and have broad impacts on their daily functioning and quality of life. Black cohosh extracts have been widely used to relieve menopausal symptoms. However, the comparative benefits of different combined black cohosh regimens remain inconclusive. The aim of the current updated meta-analysis is to address the comparative efficacies of different black cohosh regimens in improving menopausal symptoms. METHODS: Random-effect model pairwise meta-analysis of randomized controlled trials was conducted to investigate the treatment effect on menopausal symptoms by the black cohosh extract both alone or combined with other related active ingredients. The outcomes studied were changes in menopausal symptoms after treatment with black cohosh extracts in menopausal women. RESULTS: Twenty-two articles including information on 2,310 menopausal women were included in the analyses. Black cohosh extracts were associated with significant improvements in overall menopausal symptoms (Hedges' g = 0.575, 95% CI = 0.283 to 0.867, P < 0.001), as well as in hot flashes (Hedges' g = 0.315, 95% CIs = 0.107 to 0.524, P = 0.003), and somatic symptoms (Hedges' g = 0.418, 95% CI = 0.165 to 0.670, P = 0.001), compared with placebo. However, black cohosh did not significantly improve anxiety (Hedges' g = 0.194, 95% CI = -0.296 to 0.684, P = 0.438) or depressive symptoms (Hedges' g = 0.406, 95% CI = -0.121 to 0.932, P = 0.131). The dropout rate for black cohosh products was similar to that for placebo (odds ratio = 0.911, 95% CI = 0.660 to 1.256, P = 0.568). CONCLUSIONS: This study provides updated evidence regarding the potentially beneficial effects of black cohosh extracts for relieving menopausal symptoms in menopausal women.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Black cohosh extracts in women with menopausal symptoms: an updated pairwise meta-analysis",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes",
+    "Menopause"
+   ]
   },
   {
    "ref_id": "REF-0178",
@@ -18509,9 +18680,7 @@
    "actions": [
     "Anti-inflammatory"
    ],
-   "conditions": [
-    "Arthritis / joint pain"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1621",
@@ -19140,7 +19309,7 @@
    "link_type": "doi",
    "citation": "Jelaca, S., Dajic-Stevanovic, Z., Vukovic, N., Kolasinac, S., Trendafilova, A., Nedialkov, P. and others (2022) 'Beyond Traditional Use of Alchemilla vulgaris: Genoprotective and Antitumor Activity In Vitro', Molecules, 27(23). doi:10.3390/molecules27238113",
    "abstract": "Alchemilla vulgaris L. (lady's mantle) was used for centuries in Europe and Balkan countries for treatments of numerous conditions and diseases of the reproductive system, yet some of the biological activities of lady's mantle have been poorly studied and neglected. The present study aimed to estimate the potential of A. vulgaris ethanolic extract from Southeast Serbia to prevent and suppress tumor development in vitro, validated by antioxidant, genoprotective, and cytotoxic properties. A total of 45 compounds were detected by UHPLC-HRMS analysis in A. vulgaris ethanolic extract. Measurement of antioxidant activity revealed the significant potential of the tested extract to scavenge free radicals. In addition, the analysis of micronuclei showed an in vitro protective effect on chromosome aberrations in peripheral human lymphocytes. A. vulgaris extract strongly suppressed the growth of human cell lines derived from different types of tumors (MCF-7, A375, A549, and HCT116). The observed antitumor effect is realized through the blockade of cell division, caspase-dependent apoptosis, and autophagic cell death. Our study has shown that Alchemilla vulgaris L. is a valuable source of bioactive compounds able to protect the subcellular structure from damage, thus preventing tumorigenesis as well as suppressing tumor cell growth.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -20200,6 +20369,41 @@
    ]
   },
   {
+   "ref_id": "REF-3421",
+   "key": "zou2022aloeoralulcers",
+   "type": "article",
+   "title": "Effects of Aloe Vera in the Treatment of Oral Ulcers: A Systematic Review and Meta-Analysis of Randomised Controlled Trials",
+   "authors": "Zou, H., Liu, Z., Wang, Z. and Fang, J.",
+   "journal": "Oral Health & Preventive Dentistry",
+   "year": "2022",
+   "doi": "10.3290/j.ohpd.b3666483",
+   "url": "",
+   "link": "https://doi.org/10.3290/j.ohpd.b3666483",
+   "link_type": "doi",
+   "citation": "Zou, H., Liu, Z., Wang, Z. and Fang, J (2022) 'Effects of Aloe Vera in the Treatment of Oral Ulcers: A Systematic Review and Meta-Analysis of Randomised Controlled Trials', Oral Health & Preventive Dentistry, 20, pp. 509--516. doi:10.3290/j.ohpd.b3666483",
+   "abstract": "PURPOSE: To analyse the effects of aloe vera on the treatment of oral ulcers. MATERIALS AND METHODS: Relevant studies were identified from PubMed, Embase, ClinicalTrials.gov, SinoMed, Web of Science and Cochrane Library. Randomised controlled trials (RCTs) involving aloe vera (AV) in the treatment of oral ulcers were included. The data were extracted and pooled for meta-analysis to compare the clinical outcomes of patients with oral ulcers in terms of treatment effect, the size of ulcers, Visual Analogue Scale (VAS) for pain, and therapy duration. The standardised mean differences (SMD) with 95% confidence intervals (CI) were determined for the main outcomes, heterogeneity was analysed using the I2 test, and the studies' risk of bias was evaluating using the Cochrane risk of bias assessment tool. RESULTS: The study included 9 trials with a total of 847 participants. Seven trials were included in the meta-analysis. The results indicated no statistically significant differences in pain scores as assessed by the VAS (I2 = 95%, p = 0.89; SMD: -0.12, 95% CI: -1.84, 1.60) and size of ulcers (I2 = 88%, p = 0.60; SMD: -0.29, 95% CI: -1.39, 0.81). Clinical efficacy of the aloe vera group was better compared to control group (I2 = 89%, p = 0.007; RR: 2.25, 95% CI: 1.25, 4.06). Therapy duration was statistically significantly lower following AV gel application in two of the studies (I2 = 0%, p < 0.001; SMD: -1.32, 95% CI: -1.84, -0.79). Considering the results in a systematic manner, AV accelerated tissue epithelialisation and the wound-healing process. CONCLUSION: Compared with other interventions, aloe vera has a better therapeutic effect and shorter healing time. It is comparable with other interventions in relieving pain and reducing ulcer size, but it has higher safety and almost no side effects.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Aloe Vera in the Treatment of Oral Ulcers: A Systematic Review and Meta-Analysis of Randomised Controlled Trials",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
+  },
+  {
    "ref_id": "REF-1800",
    "key": "fatahinezhad2022hyssop",
    "type": "article",
@@ -21161,6 +21365,8 @@
    "conditions": [
     "Blood sugar / diabetes support",
     "Cardiovascular / heart health",
+    "High blood pressure",
+    "High cholesterol",
     "Inflammation (general)",
     "Metabolic support"
    ]
@@ -22095,38 +22301,6 @@
    "actions": [
     "Antioxidant",
     "Diuretic"
-   ],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-2230",
-   "key": "szewczyk2022alchemilla",
-   "type": "article",
-   "title": "LC-ESI-MS/MS identification of biologically active phenolics in different extracts of Alchemilla acutiloba Opiz",
-   "authors": "Dos Santos Szewczyk, K., Pietrzak, W., Klimek, K., Grzywa-Celinska, A., Celinski, R. and Gogacz, M.",
-   "journal": "Molecules",
-   "year": "2022",
-   "doi": "10.3390/molecules27030621",
-   "url": "",
-   "link": "https://doi.org/10.3390/molecules27030621",
-   "link_type": "doi",
-   "citation": "Dos Santos Szewczyk, K., Pietrzak, W., Klimek, K., Grzywa-Celinska, A., Celinski, R. and Gogacz, M (2022) 'LC-ESI-MS/MS identification of biologically active phenolics in different extracts of Alchemilla acutiloba Opiz', Molecules, 27(3), pp. 621. doi:10.3390/molecules27030621",
-   "abstract": "Liquid chromatography electrospray ionization tandem mass spectrometric (LC-ESI-MS/MS) qualitative and quantitative analysis of different extracts from the aerial parts and roots of Alchemilla acutiloba led to the identification of phenolic acids and flavonoids. To the best of our knowledge, isorhamnetin 3-glucoside, kaempferol 3-rutinoside, narcissoside, naringenin 7-glucoside, 3- O -methylquercetin, naringenin, eriodictyol, rhamnetin, and isorhamnetin were described for the first time in Alchemilla genus. In addition, the antioxidant, anti-inflammatory and cytotoxic activity of all extracts were evaluated. The results clearly showed that among analyzed extracts, the butanol extract of the aerial parts exhibited the highest biological activity comparable with the positive controls used.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "LC-ESI-MS/MS identification of biologically active phenolics in different extracts of Alchemilla acutiloba Opiz",
-   "plants": [
-    "Lady's mantle",
-    "Lady’s-mantle",
-    "lion's foot"
-   ],
-   "scientific": [
-    "Alchemilla vulgaris"
-   ],
-   "actions": [
-    "Antioxidant"
    ],
    "conditions": []
   },
@@ -26164,6 +26338,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3416",
+   "key": "zhang2021alliumcancer",
+   "type": "article",
+   "title": "Allium Vegetables, Garlic Supplements, and Risk of Cancer: A Systematic Review and Meta-Analysis",
+   "authors": "Zhang, Q., Zhao, Q., Shen, Y., Zhao, F. and Zhu, Y.",
+   "journal": "Frontiers in Nutrition",
+   "year": "2021",
+   "doi": "10.3389/fnut.2021.746944",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2021.746944",
+   "link_type": "doi",
+   "citation": "Zhang, Q., Zhao, Q., Shen, Y., Zhao, F. and Zhu, Y (2021) 'Allium Vegetables, Garlic Supplements, and Risk of Cancer: A Systematic Review and Meta-Analysis', Frontiers in Nutrition, 8, pp. 746944. doi:10.3389/fnut.2021.746944",
+   "abstract": "PURPOSE: The role of allium vegetables or garlic supplements on reducing cancer risk was inconsistent between laboratory study findings and related epidemiologic studies. METHODS: Studies assessing the effect of allium vegetables and garlic supplement consumption on cancer risk were included in our meta-analysis. We used fixed- or random-effects models to pool effect measures to evaluate the highest and lowest consumption. A dose-response regression analysis was used to assess the association between allium vegetables, garlic supplements, and cancer risk. RESULTS: In a pooled analysis of 22 studies with 25 reports on allium vegetables, a high consumption of allium vegetables showed no significant association with cancer risk (relative risk [RR] = 0.97, 95% confidence interval [CI] 0.92-1.03) in a fixed-effects model. Similarly, garlic supplements were not found to be significantly associated with an increased risk of cancer (RR = 0.97, 95% CI 0.84-1.12) in a random-effects model involving a pooled analysis of 10 studies with 11 reports. Consumption of allium vegetables did not significantly correspond with cancer risk (P for nonlinearity = 0.958, P for linearity = 0.907). CONCLUSION: In this meta-analysis, we found no evidence that higher consumption of allium vegetables or garlic supplements reduced the risk of cancer; however, this finding requires further validation. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/#recordDetails, identifier: CRD42021246947.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Allium Vegetables, Garlic Supplements, and Risk of Cancer: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2849",
    "key": "salama2021aloysia",
    "type": "article",
@@ -29081,6 +29285,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3425",
+   "key": "lee2021lemonverbenamuscle",
+   "type": "article",
+   "title": "Evaluation of the Efficacy of Supplementation with Planox® Lemon Verbena Extract in Improving Oxidative Stress and Muscle Damage: A Randomized Double-Blind Controlled Trial",
+   "authors": "Lee, M.C., Hsu, Y.J., Ho, C.S., Chang, C.H., Liu, C.W., Huang, C.C. and Chiang, W.D.",
+   "journal": "International Journal of Medical Sciences",
+   "year": "2021",
+   "doi": "10.7150/ijms.60726",
+   "url": "",
+   "link": "https://doi.org/10.7150/ijms.60726",
+   "link_type": "doi",
+   "citation": "Lee, M.C., Hsu, Y.J., Ho, C.S., Chang, C.H., Liu, C.W., Huang, C.C. and Chiang, W.D (2021) 'Evaluation of the Efficacy of Supplementation with Planox® Lemon Verbena Extract in Improving Oxidative Stress and Muscle Damage: A Randomized Double-Blind Controlled Trial', International Journal of Medical Sciences, 18(12), pp. 2641--2652. doi:10.7150/ijms.60726",
+   "abstract": "Excessive exercise load can cause muscle soreness and fatigue, as well as inflammation and oxidative stress. Lemon verbena (Aloysia triphylla; Lippia citriodora) is often used as a spice in tea or beverages. Its leaves are rich in polyphenols, which have antioxidant and anti-inflammatory bioactivities. In the present study, we investigated whether supplementation with Planox® lemon verbena extract (LVE) could improve muscle damage and biochemical indicators after exhaustive exercise challenge. All subjects (30 males and 30 females) underwent a double-blind trial and were randomly divided into a placebo group (0 mg/human/day) and an LVE supplement group (400 mg/human/day), with gender-equal distribution. All subjects started supplementation 10 days before exhaustive exercise and continued it until all tests were completed. Before the intervention, after the exhaustive exercise, and on the following 3 days, the participants underwent 12-minute Cooper running/walking; blood collection; assessments of pain, muscle stiffness, maximum jump heights, and isometric maximum muscle strength. The results showed that supplementation with LVE effectively increased GPx and reduced CK, IL-6, 8-OHdG and muscle pain after the exhaustive exercise, but it had significant effect on strength recovery. In summary, LVE is a safe and edible natural plant extract that can reduce muscle damage and soreness after exercise. This trial was registered at clinicaltrials.gov as NCT04742244.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Evaluation of the Efficacy of Supplementation with Planox® Lemon Verbena Extract in Improving Oxidative Stress and Muscle Damage: A Randomized Double-Blind Controlled Trial",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [],
+   "conditions": [
+    "Muscle soreness"
+   ]
   },
   {
    "ref_id": "REF-2934",
@@ -37801,38 +38037,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-2228",
-   "key": "karaoglan2020alchemilla",
-   "type": "article",
-   "title": "Isolation of major compounds and gastroprotective activity of Alchemilla on indomethacin induced gastric ulcers in rats",
-   "authors": "Karaoglan, E.S., Bayir, Y., Albayrak, A., Toktay, E., Ozgen, U., Kazaz, C., Kahramanlar, A. and Cadirci, E.",
-   "journal": "Eurasian Journal of Medicine",
-   "year": "2020",
-   "doi": "10.5152/eurasianjmed.2020.19243",
-   "url": "",
-   "link": "https://doi.org/10.5152/eurasianjmed.2020.19243",
-   "link_type": "doi",
-   "citation": "Karaoglan, E.S., Bayir, Y., Albayrak, A., Toktay, E., Ozgen, U., Kazaz, C., Kahramanlar, A. and Cadirci, E (2020) 'Isolation of major compounds and gastroprotective activity of Alchemilla on indomethacin induced gastric ulcers in rats', Eurasian Journal of Medicine, 52(3), pp. 249-253. doi:10.5152/eurasianjmed.2020.19243",
-   "abstract": "Objective The Alchemilla genus, which belongs to the Rosaceae family, is known as Lady's mantle and is commonly used in traditional medicine. This study was designed to investigate the major metabolites isolation and gastroprotective effects of Alchemilla caucasica . Materials and methods Phytochemical studies were carried out using column chromatography on Alchemilla caucasica . The gastroprotective effect of ethanol extract of this plant was tested on indomethacin-induced gastric ulcer model in rats. In addition, superoxide dismutase (SOD), malondialdehyde (MDA), and glutathione (GSH) parameters in the stomach tissue were examined. Results Quercetin-3-O-glucuronide, apigenin, and catechin were isolated from aerial parts of Alchemilla caucasica . When macroscopic ulcer index and histopathological results were analyzed, the extract at 200 mg/kg dose was found to be most effective. All doses of extract reduced MDA level and enhanced SOD activity and GSH level. Conclusion The results of this study showed that Alchemilla caucasica has significant antiulcer activity. This effect was thought to be caused by antioxidant properties of flavonoids.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Isolation of major compounds and gastroprotective activity of Alchemilla on indomethacin induced gastric ulcers in rats",
-   "plants": [
-    "Lady's mantle",
-    "Lady’s-mantle",
-    "lion's foot"
-   ],
-   "scientific": [
-    "Alchemilla vulgaris"
-   ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-0838",
    "key": "gong2020isorhamnetin",
    "type": "article",
@@ -43491,9 +43695,7 @@
    "actions": [
     "Anticancer (preclinical)"
    ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1594",
@@ -45813,7 +46015,10 @@
     "Allium sativum"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "High cholesterol"
+   ]
   },
   {
    "ref_id": "REF-3115",
@@ -46590,6 +46795,74 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3412",
+   "key": "cho2018agrimonyliver",
+   "type": "article",
+   "title": "Agrimonia eupatoria L. (Agrimony) Extract Alters Liver Health in Subjects with Elevated Alanine Transaminase Levels: A Controlled, Randomized, and Double-Blind Trial",
+   "authors": "Cho, Y.M., Kwon, J.E., Lee, M., Lea, Y., Jeon, D.Y., Kim, H.J. and Kang, S.C.",
+   "journal": "Journal of Medicinal Food",
+   "year": "2018",
+   "doi": "10.1089/jmf.2017.4054",
+   "url": "",
+   "link": "https://doi.org/10.1089/jmf.2017.4054",
+   "link_type": "doi",
+   "citation": "Cho, Y.M., Kwon, J.E., Lee, M., Lea, Y., Jeon, D.Y., Kim, H.J. and Kang, S.C (2018) 'Agrimonia eupatoria L. (Agrimony) Extract Alters Liver Health in Subjects with Elevated Alanine Transaminase Levels: A Controlled, Randomized, and Double-Blind Trial', Journal of Medicinal Food, 21(3), pp. 282--288. doi:10.1089/jmf.2017.4054",
+   "abstract": "Agrimonia eupatoria L. has been shown to protect against liver injury due to its lipid lowering and antioxidant activities. The aim of this research was to evaluate the effect of A. eupatoria L. aqueous extract (AEE) on 80 subjects with elevated alanine transaminase (ALT) levels in a randomized, double-blind, placebo-controlled, 8-week study. This trial was conducted between January 2013 and July 2013 at the Oriental Medical Hospital (Jecheon) of Semyung University. The trial included subjects aged 20 years or older who were diagnosed with mildly to moderately elevated ALT levels (between 45 and 135 IU/L). Subjects received two capsules of placebo or AEE twice a day for 8 weeks. Adverse events were recorded. Eighty subjects were randomized to placebo or AEE groups who had similar baseline characteristics. During the 8 weeks of treatment, 11 subjects were excluded from the analysis for protocol violation or consent withdrawal; efficacy of treatment was, therefore, evaluated in 69 subjects (placebo = 35, AEE = 34). The AEE group showed a significant reduction in ALT and serum triglyceride (TG) at 8 weeks compared with the placebo group (ALT P = .044, TG P = .020). Significant group and time interactions were found in ALT (P = .038), aspartate aminotransferase (P = .040), and TG (P = .010). Alkaline phosphatase, total bilirubin, and gamma-glutamyl transferase levels were not different between the two groups. There were no reported severe adverse events during this study, and total protein, albumin, blood urea nitrogen, creatine, and total cholesterol levels were normal in both groups. AEE consumption was safe and generally well tolerated without severe adverse events.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Agrimonia eupatoria L. (Agrimony) Extract Alters Liver Health in Subjects with Elevated Alanine Transaminase Levels: A Controlled, Randomized, and Double-Blind Trial",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [],
+   "conditions": [
+    "Liver support"
+   ]
+  },
+  {
+   "ref_id": "REF-3424",
+   "key": "hong2018aloeibs",
+   "type": "article",
+   "title": "Aloe vera Is Effective and Safe in Short-term Treatment of Irritable Bowel Syndrome: A Systematic Review and Meta-analysis",
+   "authors": "Hong, S.W., Chun, J., Park, S., Lee, H.J., Im, J.P. and Kim, J.S.",
+   "journal": "Journal of Neurogastroenterology and Motility",
+   "year": "2018",
+   "doi": "10.5056/jnm18077",
+   "url": "",
+   "link": "https://doi.org/10.5056/jnm18077",
+   "link_type": "doi",
+   "citation": "Hong, S.W., Chun, J., Park, S., Lee, H.J., Im, J.P. and Kim, J.S (2018) 'Aloe vera Is Effective and Safe in Short-term Treatment of Irritable Bowel Syndrome: A Systematic Review and Meta-analysis', Journal of Neurogastroenterology and Motility, 24(4), pp. 528--535. doi:10.5056/jnm18077",
+   "abstract": "BACKGROUND/AIMS: To evaluate the efficacy and safety of Aloe vera (AV) in patients with irritable bowel syndrome (IBS). METHODS: We searched the MEDLINE, EMBASE, and Cochrane databases for studies dated between 1st January 1960 and 30th December 2017. Eligible randomized controlled trials (RCTs) compared AV to placebo in patients with IBS. The primary outcome was standardized mean difference of the change in severity of IBS symptoms as measured by patient-rated scales. Secondary outcomes included response rate of IBS symptoms and adverse events. Heterogeneity among studies was assessed using Cochrane's Q and I2 statistics. RESULTS: Three RCTs with a total of 151 patients with IBS were included. The meta-analysis showed a significant difference for patients with AV compared to those with placebo regarding improvement in IBS symptom score (standardized mean difference, 0.41; 95% CI, 0.07-0.75; P = 0.020). Using intention-to-treat analysis, the AV patients showed significantly better response rates of IBS symptoms compared to placebo (pooled risk ratio, 1.69; 95% CI, 1.05-2.73; P = 0.030). No adverse events related with AV were found in included studies. There was no significant heterogeneity of effects across studies (P = 0.900; I2 = 0%). CONCLUSION: AV is effective and safe for the treatment of patients with IBS compared to placebo.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe vera Is Effective and Safe in Short-term Treatment of Irritable Bowel Syndrome: A Systematic Review and Meta-analysis",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Irritable bowel syndrome (IBS)"
+   ]
   },
   {
    "ref_id": "REF-0690",
@@ -47808,13 +48081,7 @@
     "Allium sativum"
    ],
    "actions": [
-    "Anti-inflammatory",
-    "Anticancer (preclinical)",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antifungal",
-    "Antimicrobial",
-    "Antioxidant",
-    "Immunomodulator / immune support"
+    "Anticancer (preclinical)"
    ],
    "conditions": [
     "Cancer (anticancer research)"
@@ -50293,6 +50560,39 @@
    ]
   },
   {
+   "ref_id": "REF-3409",
+   "key": "hajhashemi2018yarrowepisiotomy",
+   "type": "article",
+   "title": "The effect of Achillea millefolium and Hypericum perforatum ointments on episiotomy wound healing in primiparous women",
+   "authors": "Hajhashemi, M., Ghanbari, Z., Movahedi, M., Rafieian, M., Keivani, A. and Haghollahi, F.",
+   "journal": "The Journal of Maternal-fetal & Neonatal Medicine",
+   "year": "2018",
+   "doi": "10.1080/14767058.2016.1275549",
+   "url": "",
+   "link": "https://doi.org/10.1080/14767058.2016.1275549",
+   "link_type": "doi",
+   "citation": "Hajhashemi, M., Ghanbari, Z., Movahedi, M., Rafieian, M., Keivani, A. and Haghollahi, F (2018) 'The effect of Achillea millefolium and Hypericum perforatum ointments on episiotomy wound healing in primiparous women', The Journal of Maternal-fetal & Neonatal Medicine, 31(1), pp. 63--69. doi:10.1080/14767058.2016.1275549",
+   "abstract": "BACKGROUND: The purpose of this study was to assess the efficacy of Achillea millefolium and Hypericum perforatum ointments on episiotomy wound healing in primiparous women. MATERIALS AND METHODS: This is a double-blind clinical trial study performed on 140 primiparous women. They were randomly divided into four groups, each group containing 35 women: 2control groups including nonintervention and placebo ointment; and 2 case groups including Hypericum perforatum ointment and Achillea millefolium ointment. Healing process was assessed by five specifications: redness, ecchymosis, edema, discharge and wound dehiscence on 7th, 10th, and 14th days after delivery; pain level was assessed by means of visual analog scale. RESULTS: There was significant difference between groups in perineal pain level at 7th, 10th and 14th days postpartum, redness and edema at 7th and 10th days postpartum and ecchymosis at 7th day postpartum; the pain level, redness, edema and ecchymosis in groups who consume Hypericum perforatum and Achillea millefolium ointments were less than the control groups (p < 0.05). But, discharge and dehiscence incidence showed no significant difference between groups (p > 0.05). CONCLUSIONS: Achillea millefolium and Hypericum perforatum ointments reduce perineal pain level, redness, edema and ecchymosis of episiotomy wound, so it seems that consuming them was useful for episiotomy treatment.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of Achillea millefolium and Hypericum perforatum ointments on episiotomy wound healing in primiparous women",
+   "plants": [
+    "Yarrow",
+    "common yarrow",
+    "milfoil",
+    "soldiers' woundwort"
+   ],
+   "scientific": [
+    "Achillea millefolium"
+   ],
+   "actions": [],
+   "conditions": [
+    "Wounds"
+   ]
+  },
+  {
    "ref_id": "REF-2569",
    "key": "santos2018artichoke",
    "type": "article",
@@ -51270,9 +51570,7 @@
    "actions": [
     "Anticancer (preclinical)"
    ],
-   "conditions": [
-    "Cancer (anticancer research)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1548",
@@ -52036,21 +52334,21 @@
    "ref_id": "REF-0296",
    "key": "villanueva2017chemical",
    "type": "misc",
-   "title": "Chemical composition and antioxidant activity of Achillea millefolium",
+   "title": "Chemical Composition and Antioxidant Activity Achillea millefolium L. Essential Oils",
    "authors": "Villanueva-Bermejo, D. et al",
-   "journal": "",
+   "journal": "Journal of Essential Oil Bearing Plants",
    "year": "2017",
-   "doi": "",
+   "doi": "10.1080/0972060x.2016.1238323",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Chemical%20composition%20and%20antioxidant%20activity%20of%20Achillea%20millefolium",
-   "link_type": "search",
-   "citation": "Villanueva-Bermejo, D. et al (2017) 'Chemical composition and antioxidant activity of Achillea millefolium', pp. 469--476.",
+   "link": "https://doi.org/10.1080/0972060x.2016.1238323",
+   "link_type": "doi",
+   "citation": "Villanueva-Bermejo, D. et al (2017) 'Chemical Composition and Antioxidant Activity Achillea millefolium L. Essential Oils', Journal of Essential Oil Bearing Plants, pp. 469--476. doi:10.1080/0972060x.2016.1238323",
    "abstract": "",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
-   "display": "Chemical composition and antioxidant activity of Achillea millefolium",
+   "display": "Chemical Composition and Antioxidant Activity Achillea millefolium L. Essential Oils",
    "plants": [
     "Yarrow",
     "common yarrow",
@@ -54710,6 +55008,40 @@
    ]
   },
   {
+   "ref_id": "REF-3411",
+   "key": "tadic2017yarrowskin",
+   "type": "article",
+   "title": "The estimation of the traditionally used yarrow (Achillea millefolium L. Asteraceae) oil extracts with anti-inflamatory potential in topical application",
+   "authors": "Tadić, V., Arsić, I., Zvezdanović, J., Zugić, A., Cvetković, D. and Pavkov, S.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2017",
+   "doi": "10.1016/j.jep.2017.02.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2017.02.002",
+   "link_type": "doi",
+   "citation": "Tadić, V., Arsić, I., Zvezdanović, J., Zugić, A., Cvetković, D. and Pavkov, S (2017) 'The estimation of the traditionally used yarrow (Achillea millefolium L. Asteraceae) oil extracts with anti-inflamatory potential in topical application', Journal of Ethnopharmacology, 199, pp. 138--148. doi:10.1016/j.jep.2017.02.002",
+   "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Olive or sunflower oil yarrow extracts have been extensively used against inflammatory disorders and skin wound healing in traditional medicine. AIM OF THE STUDY: To evaluate oil yarrow extracts traditional use in treatment of topical/dermatological skin impairments, sodium lauryl sulfate test was applied, and in vivo measuring of the biophysical parameters (erythema index, skin capacitance and the pH of the skin) in the artificially irritated skin was performed. As traditionally olive and sunflower oil have been used equally for extracts production, the experiment was carried out to investigate whether any of the oil extractants has the advantage over the other, and if the method of extraction might influence the desired activity. The observed activity has been connected to the chemical profile of the investigated extracts and their antioxidative properties. MATERIALS AND METHODS: In vivo measurements were performed using the appropriate probes for measuring skin capacitance, pH of the skin and erythema index (EI). The designed experiment enabled the evaluation of the anti-inflammatory effects of a seven-day application of oil yarrow extracts known in traditional medicine, on artificially irritated skin of volunteers. The chemical profile for the investigated samples was achieved applying the HPLC and UHPLC-MS methods. Also, ferric reducing antioxidant power (FRAP) test was performed to assess the antioxidant properties of the investigated samples. RESULTS: The application of tested oil extracts on artificially irritated skin in vivo demonstrated the ability to re-establish their optimal pH and hydration of skin to the values measured prior to the irritation. Considering the EI transition, the investigated samples succeeded in re-establishing the baseline values, with no significant difference after three- and seven-day application. CONCLUSIONS: The data obtained in the study showed that the oil yarrow extracts had an evident anti-inflammatory property. Namely, the investigated extracts demonstrated significant anti-inflammatory effect in an in vivo double blind randomized study, using a sodium lauryl sulfate test. The skin parameters assessed in the study (skin capacitance, pH and EI) were restored to the basal values after three- and seven-day treatment with the tested extracts. The shown effects were attributed to yarrow oil extracts composition. The yarrow oil extracts might be used as promising base in the phytopreparations designed for dermatological application as anti-inflammatory agents with a positive impact on the skin pH and its moisture content.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The estimation of the traditionally used yarrow (Achillea millefolium L. Asteraceae) oil extracts with anti-inflamatory potential in topical application",
+   "plants": [
+    "Yarrow",
+    "common yarrow",
+    "milfoil",
+    "soldiers' woundwort"
+   ],
+   "scientific": [
+    "Achillea millefolium"
+   ],
+   "actions": [],
+   "conditions": [
+    "Inflammation (general)",
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-1556",
    "key": "jawien2017ruscus",
    "type": "article",
@@ -56746,7 +57078,9 @@
     "Aloe vera"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
   },
   {
    "ref_id": "REF-1694",
@@ -57450,6 +57784,8 @@
    "conditions": [
     "Cardiovascular / heart health",
     "Cold & flu",
+    "High blood pressure",
+    "High cholesterol",
     "Immune support",
     "Infection (general)"
    ]
@@ -60362,6 +60698,39 @@
    ]
   },
   {
+   "ref_id": "REF-3408",
+   "key": "jiang2015cohoshsleep",
+   "type": "article",
+   "title": "Black cohosh improves objective sleep in postmenopausal women with sleep disturbance",
+   "authors": "Jiang, K., Jin, Y., Huang, L., Feng, S., Hou, X., Du, B., Zheng, J. and Li, L.",
+   "journal": "Climacteric",
+   "year": "2015",
+   "doi": "10.3109/13697137.2015.1042450",
+   "url": "",
+   "link": "https://doi.org/10.3109/13697137.2015.1042450",
+   "link_type": "doi",
+   "citation": "Jiang, K., Jin, Y., Huang, L., Feng, S., Hou, X., Du, B., Zheng, J. and Li, L (2015) 'Black cohosh improves objective sleep in postmenopausal women with sleep disturbance', Climacteric, 18(4), pp. 559--67. doi:10.3109/13697137.2015.1042450",
+   "abstract": "OBJECTIVE: Sleep problems are prominent after menopause. The aim of our study was to look into the effect of black cohosh on both objective and subjective sleep in early postmenopausal women with sleep complaints. METHODS: We performed a randomized, double-blind and placebo-controlled research during a 6-month period. Forty-eight postmenopausal women aged 45-60 years with sleep disturbance were enrolled and received daily administration of either black cohosh or placebo. Polysomnography and the Pittsburg Sleep Quality Index (PSQI) were performed at the initiation and termination of the study, as well as the Menopause-specific Quality of Life questionnaire and estradiol and follicle stimulating hormone tests. Liver and renal functions and breast and pelvic ultrasound were set as safety measures, carried out every 3 months. RESULTS: Seventy-six women were interviewed, of whom 42 women completed the whole trial. Compared with placebo, black cohosh treatment led to significant polysomnographic changes, including increased sleep efficiency and decreased wake after sleep onset (WASO) duration, and tended to improve PSQI with a medium effect size. On average, 15.8% of WASO duration was reduced in the black cohosh group. Vasomotor and physical domains of life quality were improved compared with placebo. Safety measures did not yield any adverse event assigned to black cohosh. CONCLUSIONS: In early postmenopausal women with a major sleep complaint, black cohosh effectively improved sleep and might be a safe measure in managing menopausal sleep disturbance.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Black cohosh improves objective sleep in postmenopausal women with sleep disturbance",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
+  },
+  {
    "ref_id": "REF-3114",
    "key": "grajzer2015rosehip",
    "type": "article",
@@ -60963,7 +61332,42 @@
     "Achillea millefolium"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Menstrual cramps"
+   ]
+  },
+  {
+   "ref_id": "REF-3410",
+   "key": "miranzadeh2015yarrowmucositis",
+   "type": "article",
+   "title": "Effect of adding the herb Achillea millefolium on mouthwash on chemotherapy induced oral mucositis in cancer patients: A double-blind randomized controlled trial",
+   "authors": "Miranzadeh, S., Adib-Hajbaghery, M., Soleymanpoor, L. and Ehsani, M.",
+   "journal": "European Journal of Oncology Nursing",
+   "year": "2015",
+   "doi": "10.1016/j.ejon.2014.10.019",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ejon.2014.10.019",
+   "link_type": "doi",
+   "citation": "Miranzadeh, S., Adib-Hajbaghery, M., Soleymanpoor, L. and Ehsani, M (2015) 'Effect of adding the herb Achillea millefolium on mouthwash on chemotherapy induced oral mucositis in cancer patients: A double-blind randomized controlled trial', European Journal of Oncology Nursing, 19(3), pp. 207--13. doi:10.1016/j.ejon.2014.10.019",
+   "abstract": "BACKGROUND: Oral mucositis (OM) is a debilitating side-effect of chemotherapy. It has different complications, including impairment of drinking, eating and even talking, sometimes so severe that physician stops the therapy. OBJECTIVE: Investigating the effect of Achillea millefolium distillate solution in the treatment of chemotherapy-induced OM. INTERVENTIONS/METHODS: In this randomized controlled trial, 56 cancer patients with chemotherapy-induced OM were randomly assigned into control and experimental groups in similar blocks based on the severity of OM. The experimental group gargled 15 mL of a mixture of routine solution and distilled A. millefolium 4 times a day for 14 days while the control group gargled 15 mL of routine solution. The severity of OM was assessed at three times before, 7 and 14 days after intervention. Data was analyzed using Wilcoxon, Kruskal-Wallis, Mann-Whitney U, Friedman, Chi-square and Fisher's exact tests. RESULTS: The mean severity score of OM was 2.39 ± 0.875 in both groups at start of the study that was changed to 1.07 ± 0.85 and 0.32 ± 0.54 in the intervention group in days 7 and 14 (p < 0.001). However, the severity of OM was increased to 2.75 ± 0.87 and 2.89 ± 0.956 in the control group respectively (p < 0.001). CONCLUSIONS: A. millefolium distillate healed OM much more than the routine solution. Therefore, it is suggested to be used in patients with chemotherapy-induced OM. The study was registered in the Iranian Registry of Clinical Trials, Number: IRCT2013092214729N1.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of adding the herb Achillea millefolium on mouthwash on chemotherapy induced oral mucositis in cancer patients: A double-blind randomized controlled trial",
+   "plants": [
+    "Yarrow",
+    "common yarrow",
+    "milfoil",
+    "soldiers' woundwort"
+   ],
+   "scientific": [
+    "Achillea millefolium"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
   },
   {
    "ref_id": "REF-1268",
@@ -61624,6 +62028,38 @@
     "Headache",
     "Migraine",
     "Pain (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-3417",
+   "key": "hou2015garlicglucose",
+   "type": "article",
+   "title": "Garlic intake lowers fasting blood glucose: meta-analysis of randomized controlled trials",
+   "authors": "Hou, L.Q., Liu, Y.H. and Zhang, Y.Y.",
+   "journal": "Asia Pacific Journal of Clinical Nutrition",
+   "year": "2015",
+   "doi": "10.6133/apjcn.2015.24.4.15",
+   "url": "",
+   "link": "https://doi.org/10.6133/apjcn.2015.24.4.15",
+   "link_type": "doi",
+   "citation": "Hou, L.Q., Liu, Y.H. and Zhang, Y.Y (2015) 'Garlic intake lowers fasting blood glucose: meta-analysis of randomized controlled trials', Asia Pacific Journal of Clinical Nutrition, 24(4), pp. 575--82. doi:10.6133/apjcn.2015.24.4.15",
+   "abstract": "Garlic is a common spicy flavouring agent also used for certain therapeutic purposes. Garlic's effects on blood glucose have been the subject of many clinical and animal studies, however, studies reporting hypoglycemic effects of garlic in humans are conflicting. A comprehensive literature search was conducted to identify relevant trials of garlic or garlic extracts on markers of glycemic control [fasting blood glucose (FBG), postprandial glucose (PPG), glycosylated haemoglobin (HbA1c)]. A meta-analysis of the effect of garlic intake on human was done to assess garlic's effectiveness in lowering glucose levels. Two reviewers extracted data from each of the identified studies. Seven eligible randomized controlled trials with 513 subjects were identified. Pooled analyses showed that garlic intake results in a statistically significant lowering in FBG [SMD=-1.67; 95% CI (-2.80, -0.55), p=0.004]. Our pooled analyses did not include PPG control and HbA1c outcomes. Because only 1 study included in the meta-analysis reported PPG variables and only 2 studies reported HbA1c variables. In conclusion, the current meta-analysis showed that the administration of garlic resulted in a significant reduction in FBG concentrations. More trials are needed to investigate the effectiveness of garlic on HbA1c and PPG.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Garlic intake lowers fasting blood glucose: meta-analysis of randomized controlled trials",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
    ]
   },
   {
@@ -63982,6 +64418,36 @@
    ]
   },
   {
+   "ref_id": "REF-3415",
+   "key": "zhu2014garliccrc",
+   "type": "article",
+   "title": "Allium vegetables and garlic supplements do not reduce risk of colorectal cancer, based on meta-analysis of prospective studies",
+   "authors": "Zhu, B., Zou, L., Qi, L., Zhong, R. and Miao, X.",
+   "journal": "Clinical Gastroenterology and Hepatology",
+   "year": "2014",
+   "doi": "10.1016/j.cgh.2014.03.019",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.cgh.2014.03.019",
+   "link_type": "doi",
+   "citation": "Zhu, B., Zou, L., Qi, L., Zhong, R. and Miao, X (2014) 'Allium vegetables and garlic supplements do not reduce risk of colorectal cancer, based on meta-analysis of prospective studies', Clinical Gastroenterology and Hepatology, 12(12), pp. 1991--2001.e1--4; quiz e121. doi:10.1016/j.cgh.2014.03.019",
+   "abstract": "BACKGROUND & AIMS: Laboratory studies have provided evidence that allium vegetables and garlic supplements might protect against colorectal cancer (CRC), but epidemiologic studies have produced inconsistent findings. METHODS: We conducted a meta-analysis of prospective studies evaluating the associations between allium vegetables, garlic supplements, and CRC risk. We pooled effect measures using fixed- or random-effect models, assessing the highest vs the lowest intakes. We used a dose-response regression model to evaluate the relationship between allium vegetable intake and CRC risk. RESULTS: Our analysis included 8 studies with 20 reports of the effects of allium vegetables (5458 patients with CRC including 7,125,067 person-years) and 5 studies with 11 reports of the effects of garlic supplements (2685 patients with CRC including 2,304,439 person-years). We found no association between higher intake of allium vegetables and CRC risk (relative risk [RR], 1.06; 95% confidence interval [CI], 0.96-1.17; P = .26). Intake of allium vegetables did not correspond to CRC risk (P for nonlinear = .24, P for linear = .20). In subgroup analysis, a higher consumption of allium vegetables was associated marginally with increased risk of colon cancer among women (RR, 1.23; 95% CI, 1.01-1.50; P = .05). Use of garlic supplements was associated significantly with an increased risk of CRC (RR, 1.18; 95% CI, 1.02-1.36; P = .03). CONCLUSIONS: In a meta-analysis, we found no evidence that higher intake of allium vegetables reduced the risk for CRC. We observed that garlic supplements increased the risk for CRC, but this finding requires external validation.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Allium vegetables and garlic supplements do not reduce risk of colorectal cancer, based on meta-analysis of prospective studies",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0551",
    "key": "brock2014skullcap",
    "type": "article",
@@ -65281,6 +65747,36 @@
     "Muscle spasm",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-3413",
+   "key": "lissiman2014garliccoldcochrane",
+   "type": "article",
+   "title": "Garlic for the common cold",
+   "authors": "Lissiman, E., Bhasale, A.L. and Cohen, M.",
+   "journal": "The Cochrane Database of Systematic Reviews",
+   "year": "2014",
+   "doi": "10.1002/14651858.CD006206.pub4",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD006206.pub4",
+   "link_type": "doi",
+   "citation": "Lissiman, E., Bhasale, A.L. and Cohen, M (2014) 'Garlic for the common cold', The Cochrane Database of Systematic Reviews, 2014(11), pp. CD006206. doi:10.1002/14651858.CD006206.pub4",
+   "abstract": "Background Garlic is alleged to have antimicrobial and antiviral properties that relieve the common cold, among other beneficial effects. There is widespread usage of garlic supplements. The common cold is associated with significant morbidity and economic consequences. On average, children have six to eight colds per year and adults have two to four.Objectives To determine whether garlic (Allium sativum) is effective for the prevention or treatment of the common cold, when compared to placebo, no treatment or other treatments.Search methods We searched CENTRAL (2014, Issue 7),OLDMEDLINE (1950 to 1965),MEDLINE (January 1966 to July week 5, 2014), EMBASE(1974 to August 2014) and AMED (1985 to August 2014).Selection criteria Randomised controlled trials of common cold prevention and treatment comparing garlic with placebo, no treatment or standard treatment.Data collection and analysis Two review authors independently reviewed and selected trials from searches, assessed and rated study quality and extracted relevant data.Main results In this updated review, we identified eight trials as potentially relevant from our searches. Again, only one trial met the inclusion criteria.This trial randomly assigned 146 participants to either a garlic supplement (with 180 mg of allicin content) or a placebo (once daily)for 12 weeks. The trial reported 24 occurrences of the common cold in the garlic intervention group compared with 65 in the placebo group (P value < 0.001), resulting in fewer days of illness in the garlic group compared with the placebo group (111 versus 366). The number of days to recovery from an occurrence of the common cold was similar in both groups (4.63 versus 5.63). Only one trial met the inclusion criteria, therefore limited conclusions can be drawn. The trial relied on self reported episodes of the common cold but was of reasonable quality in terms of randomisation and allocation concealment. Adverse effects included rash and odour. Authors' conclusions There is insufficient clinical trial evidence regarding the effects of garlic in preventing or treating the common cold. A single trial suggested that garlic may prevent occurrences of the common cold but more studies are needed to validate this finding. Claims of effectiveness appear to rely largely on poor-quality evidence.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Garlic for the common cold",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2510",
@@ -68098,7 +68594,7 @@
    "link_type": "doi",
    "citation": "Beer, A.M. and Neff, A (2013) 'Differentiated Evaluation of Extract-Specific Evidence on Cimicifuga racemosa's Efficacy and Safety for Climacteric Complaints', Evidence-Based Complementary and Alternative Medicine, 2013, pp. 860602. doi:10.1155/2013/860602",
    "abstract": "Past reviews on Cimicifuga racemosa (CR) without differentiation between extracts, quality, and indication altogether led to inconsistent data. Therefore, for the first time, we meet the requirements of the system's logic of evidence-based phytotherapy by taking into consideration extracts, pharmaceutical quality (reflected in a regulatory status as medicinal product), and indication. A literature search for clinical studies examining CR's efficacy and safety for menopausal complaints was conducted. The results were sorted by type of extract, regulatory status, and indication. Accordingly, Oxford Levels of Evidence (LOE) and Grades of Recommendation (GR) were determined. CR extracts demonstrated a good to very good safety in general, on estrogen-sensitive organs and the liver. However, only registered CR medicinal products were able to prove their efficacy. Best evidence was provided by the isopropanolic CR extract (iCR): the multitude of studies including more than 11,000 patients demonstrated consistent confirmatory evidence of LOE 1b (LOE 1a for safety) leading to GR A. The studies on the ethanolic extract BNO 1055 including more than 500 patients showed exploratory evidence of LOE 2b resulting in GR B. A positive benefit-risk profile is stated and limited to Cimicifuga racemosa products holding a marketing authorisation for treating climacteric complaints.",
-   "tier": "review",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -69029,7 +69525,12 @@
     "Anti-inflammatory",
     "Digestive aid"
    ],
-   "conditions": []
+   "conditions": [
+    "Arthritis / joint pain",
+    "Cold & flu",
+    "Fever",
+    "Indigestion"
+   ]
   },
   {
    "ref_id": "REF-3393",
@@ -70142,6 +70643,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3419",
+   "key": "dat2012aloewoundscochrane",
+   "type": "article",
+   "title": "Aloe vera for treating acute and chronic wounds",
+   "authors": "Dat, A.D., Poon, F., Pham, K.B. and Doust, J.",
+   "journal": "The Cochrane Database of Systematic Reviews",
+   "year": "2012",
+   "doi": "10.1002/14651858.CD008762.pub2",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD008762.pub2",
+   "link_type": "doi",
+   "citation": "Dat, A.D., Poon, F., Pham, K.B. and Doust, J (2012) 'Aloe vera for treating acute and chronic wounds', The Cochrane Database of Systematic Reviews, 2012(2), pp. CD008762. doi:10.1002/14651858.CD008762.pub2",
+   "abstract": "BACKGROUND: Aloe vera is a cactus-like perennial succulent belonging to the Liliaceae Family that is commonly grown in tropical climates. Animal studies have suggested that Aloe vera may help accelerate the wound healing process. OBJECTIVES: To determine the effects of Aloe vera-derived products (for example dressings and topical gels) on the healing of acute wounds (for example lacerations, surgical incisions and burns) and chronic wounds (for example infected wounds, arterial and venous ulcers). SEARCH METHODS: We searched the Cochrane Wounds Group Specialised Register (9 September 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 3), Ovid MEDLINE (2005 to August Week 5 2011), Ovid MEDLINE (In-Process & Other Non-Indexed Citations 8 September 2011), Ovid EMBASE (2007 to 2010 Week 35), Ovid AMED (1985 to September 2011) and EBSCO CINAHL (1982 to 9 September 2011). We did not apply date or language restrictions. SELECTION CRITERIA: We included all randomised controlled trials that evaluated the effectiveness of Aloe vera, aloe-derived products and a combination of Aloe vera and other dressings as a treatment for acute or chronic wounds. There was no restriction in terms of source, date of publication or language. An objective measure of wound healing (either proportion of completely healed wounds or time to complete healing) was the primary endpoint. DATA COLLECTION AND ANALYSIS: Two review authors independently carried out trial selection, data extraction and risk of bias assessment, checked by a third review author. MAIN RESULTS: Seven trials were eligible for inclusion, comprising a total of 347 participants. Five trials in people with acute wounds evaluated the effects of Aloe vera on burns, haemorrhoidectomy patients and skin biopsies. Aloe vera mucilage did not increase burn healing compared with silver sulfadiazine (risk ratio (RR) 1.41, 95% confidence interval (CI) 0.70 to 2.85). A reduction in healing time with Aloe vera was noted after haemorrhoidectomy (RR 16.33 days, 95% CI 3.46 to 77.15) and there was no difference in the proportion of patients completely healed at follow up after skin biopsies. In people with chronic wounds, one trial found no statistically significant difference in pressure ulcer healing with Aloe vera (RR 0.10, 95% CI -1.59 to 1.79) and in a trial of surgical wounds healing by secondary intention Aloe vera significantly delayed healing (mean difference 30 days, 95% CI 7.59 to 52.41). Clinical heterogeneity precluded meta-analysis. The poor quality of the included trials indicates that the trial results must be viewed with extreme caution as they have a high risk of bias. AUTHORS' CONCLUSIONS: There is currently an absence of high quality clinical trial evidence to support the use of Aloe vera topical agents or Aloe vera dressings as treatments for acute and chronic wounds.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe vera for treating acute and chronic wounds",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1125",
    "key": "ali2012verbascum",
    "type": "article",
@@ -70601,6 +71135,37 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3403",
+   "key": "leach2012cohoshcochrane",
+   "type": "article",
+   "title": "Black cohosh (Cimicifuga spp.) for menopausal symptoms",
+   "authors": "Leach, M.J. and Moore, V.",
+   "journal": "The Cochrane Database of Systematic Reviews",
+   "year": "2012",
+   "doi": "10.1002/14651858.CD007244.pub2",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD007244.pub2",
+   "link_type": "doi",
+   "citation": "Leach, M.J. and Moore, V (2012) 'Black cohosh (Cimicifuga spp.) for menopausal symptoms', The Cochrane Database of Systematic Reviews, 2012(9), pp. CD007244. doi:10.1002/14651858.CD007244.pub2",
+   "abstract": "BACKGROUND: Menopause can be a distressing and disruptive time for many women, with many experiencing hot flushes, night sweats, vaginal atrophy and dryness. Postmenopausal women are also at increased risk of osteoporosis. Interventions that decrease the severity and frequency of these menopausal symptoms are likely to improve a woman's well-being and quality of life. Hormone therapy has been shown to be effective in controlling the symptoms of menopause; however, many potentially serious adverse effects have been associated with this treatment. Evidence from experimental studies suggests that black cohosh may be a biologically plausible alternative treatment for menopause; even so, findings from studies investigating the clinical effectiveness of black cohosh have, to date, been inconsistent. OBJECTIVES: To evaluate the clinical effectiveness and safety of black cohosh (Cimicifuga racemosa or Actaea racemosa) for treating menopausal symptoms in perimenopausal and postmenopausal women. SEARCH METHODS: Relevant studies were identified through AARP Ageline, AMED, AMI, BioMed Central gateway, CAM on PubMed, CINAHL, CENTRAL, EMBASE, Health Source Nursing/Academic edition, International Pharmaceutical Abstracts, MEDLINE, Natural medicines comprehensive database, PsycINFO, TRIP database, clinical trial registers and the reference lists of included trials; up to March 2012. Content experts and manufacturers of black cohosh extracts were also contacted. SELECTION CRITERIA: All randomised controlled trials comparing orally administered monopreparations of black cohosh to placebo or active medication in perimenopausal and postmenopausal women. DATA COLLECTION AND ANALYSIS: Two review authors independently selected trials, extracted data and completed the 'Risk of bias' assessment. Study authors were contacted for missing information. MAIN RESULTS: Sixteen randomised controlled trials, recruiting a total of 2027 perimenopausal or postmenopausal women, were identified. All studies used oral monopreparations of black cohosh at a median daily dose of 40 mg, for a mean duration of 23 weeks. Comparator interventions included placebo, hormone therapy, red clover and fluoxetine. Reported outcomes included vasomotor symptoms, vulvovaginal symptoms, menopausal symptom scores and adverse effects. There was no significant difference between black cohosh and placebo in the frequency of hot flushes (mean difference (MD) 0.07 flushes per day; 95% confidence interval (CI) -0.43 to 0.56 flushes per day; P=0.79; 393 women; three trials; moderate heterogeneity: I(2) = 47%) or in menopausal symptom scores (standardised mean difference (SMD) -0.10; 95% CI -0.32 to 0.11; P = 0.34; 357 women; four trials; low heterogeneity: I(2) = 21%). Compared to black cohosh, hormone therapy significantly reduced daily hot flush frequency (three trials; data not pooled) and menopausal symptom scores (SMD 0.32; 95% CI 0.13 to 0.51; P=0.0009; 468 women; five trials; substantial heterogeneity: I(2) = 69%). These findings should be interpreted with caution given the heterogeneity between studies. Comparisons of the effectiveness of black cohosh and other interventions were either inconclusive (because of considerable heterogeneity or an insufficient number of studies) or not statistically significant. Similarly, evidence on the safety of black cohosh was inconclusive, owing to poor reporting. There were insufficient data to pool results for health-related quality of life, sexuality, bone health, vulvovaginal atrophic symptoms and night sweats. No trials reported cost-effectiveness data. The quality of included trials was generally unclear, owing to inadequate reporting. AUTHORS' CONCLUSIONS: There is currently insufficient evidence to support the use of black cohosh for menopausal symptoms. However, there is adequate justification for conducting further studies in this area. The uncertain quality of identified trials highlights the need for improved reporting of study methods, particularly with regards to allocation concealment and the handling of incomplete outcome data. The effect of black cohosh on other important outcomes, such as health-related quality of life, sexuality, bone health, night sweats and cost-effectiveness also warrants further investigation.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Black cohosh (Cimicifuga spp.) for menopausal symptoms",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -78038,6 +78603,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3406",
+   "key": "geller2009cohoshredclover",
+   "type": "article",
+   "title": "Safety and efficacy of black cohosh and red clover for the management of vasomotor symptoms: a randomized controlled trial",
+   "authors": "Geller, S.E., Shulman, L.P., van Breemen, R.B., Banuvar, S., Zhou, Y., Epstein, G., Hedayat, S., Nikolic, D., Krause, E.C., Piersen, C.E., Bolton, J.L., Pauli, G.F. and Farnsworth, N.R.",
+   "journal": "Menopause",
+   "year": "2009",
+   "doi": "10.1097/gme.0b013e3181ace49b",
+   "url": "",
+   "link": "https://doi.org/10.1097/gme.0b013e3181ace49b",
+   "link_type": "doi",
+   "citation": "Geller, S.E., Shulman, L.P., van Breemen, R.B., Banuvar, S., Zhou, Y., Epstein, G., Hedayat, S., Nikolic, D., Krause, E.C., Piersen, C.E., Bolton, J.L., Pauli, G.F. and Farnsworth, N.R (2009) 'Safety and efficacy of black cohosh and red clover for the management of vasomotor symptoms: a randomized controlled trial', Menopause, 16(6), pp. 1156--66. doi:10.1097/gme.0b013e3181ace49b",
+   "abstract": "OBJECTIVE: The aim of this study was to evaluate the safety and efficacy of black cohosh and red clover compared with placebo for the relief of menopausal vasomotor symptoms. METHODS: This study was a randomized, four-arm, double-blind clinical trial of standardized black cohosh, red clover, placebo, and 0.625 mg conjugated equine estrogens plus 2.5 mg medroxyprogesterone acetate (CEE/MPA; n = 89). Primary outcome measures were reduction in vasomotor symptoms (hot flashes and night sweats) by black cohosh and red clover compared with placebo; secondary outcomes included safety evaluation, reduction of somatic symptoms, relief of sexual dysfunction, and overall improvement in quality of life. RESULTS: Reductions in number of vasomotor symptoms after a 12-month intervention were as follows: black cohosh (34%), red clover (57%), placebo (63%), and CEE/MPA (94%), with only CEE/MPA differing significantly from placebo. Black cohosh and red clover did not significantly reduce the frequency of vasomotor symptoms as compared with placebo. Secondary measures indicated that both botanicals were safe as administered. In general, there were no improvements in other menopausal symptoms. CONCLUSIONS: Compared with placebo, black cohosh and red clover did not reduce the number of vasomotor symptoms. Safety monitoring indicated that chemically and biologically standardized extracts of black cohosh and red clover were safe during daily administration for 12 months.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Safety and efficacy of black cohosh and red clover for the management of vasomotor symptoms: a randomized controlled trial",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3043",
    "key": "neves2009screening",
    "type": "article",
@@ -82753,36 +83349,6 @@
    ]
   },
   {
-   "ref_id": "REF-2446",
-   "key": "pittler2006horsechestnut",
-   "type": "article",
-   "title": "Horse chestnut seed extract for chronic venous insufficiency",
-   "authors": "Pittler, M.H. and Ernst, E.",
-   "journal": "Cochrane Database of Systematic Reviews",
-   "year": "2006",
-   "doi": "10.1002/14651858.CD003230.pub3",
-   "url": "",
-   "link": "https://doi.org/10.1002/14651858.CD003230.pub3",
-   "link_type": "doi",
-   "citation": "Pittler, M.H. and Ernst, E (2006) 'Horse chestnut seed extract for chronic venous insufficiency', Cochrane Database of Systematic Reviews, 2006(1), pp. CD003230. doi:10.1002/14651858.CD003230.pub3",
-   "abstract": "Background Conservative therapy of chronic venous insufficiency (CVI) consists largely of compression treatment. However, this often causes discomfort and has been associated with poor compliance. Therefore, oral drug treatment is an attractive option. Objectives To review the efficacy and safety of oral horse chestnut seed extract (HCSE) versus placebo, or reference therapy, for the treatment of CVI. Search strategy We searched the Cochrane Peripheral Vascular Diseases Review Group's Specialised Register (October 2005), the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library Issue 3, 2005, MEDLINE (January 1966 to October 2005), EMBASE (January 1980 to October 2005), Allied and Complementary Medicine (AMED) (inception to July 2005) and Phytobase (inception to January 2001) for randomised controlled trials (RCTs) of HCSE for chronic venous insufficiency. Manufacturers of HCSE preparations and experts on the subject were contacted for published and unpublished material. There were no restrictions on language. Selection criteria RCTs were included if they compared oral HCSE mono-preparations with placebo, or reference therapy, in people with CVI. Trials assessing HCSE as one of several active components in a combination preparation, or as a part of a combination treatment, were excluded. Data collection and analysis Both authors independently selected the studies and, using a standard scoring system, assessed methodological quality and extracted data. Disagreements concerning evaluation of individual trials were resolved through discussion. Main results Overall, there appeared to be an improvement in CVI related signs and symptoms with HCSE compared with placebo. Leg pain was assessed in seven placebo-controlled trials. Six reported a significant reduction of leg pain in the HCSE groups compared with the placebo groups, while another reported a statistically significant improvement compared with baseline. One trial suggested a weighted mean difference (WMD) of 42.4 mm (95% confidence interval (CI) 34.9 to 49.9) measured on a 100 mm visual analogue scale. Leg volume was assessed in seven placebo-controlled trials. Meta-analysis of six trials (n = 502) suggested a WMD of 32.1ml (95% CI 13.49 to 50.72) in favour of HCSE compared with placebo. One trial indicated that HCSE may be as effective as treatment with compression stockings. Adverse events were usually mild and infrequent. Authors' conclusions The evidence presented implies that HCSE is an efficacious and safe short-term treatment for CVI. However, several caveats exist and more rigorous RCTs are required to confirm the efficacy of this treatment option.",
-   "tier": "review",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Horse chestnut seed extract for chronic venous insufficiency",
-   "plants": [
-    "Buckeye",
-    "Conker tree",
-    "Horse Chestnut"
-   ],
-   "scientific": [
-    "Aesculus hippocastanum"
-   ],
-   "actions": [],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-1796",
    "key": "wurglics2006hypericum",
    "type": "article",
@@ -83142,6 +83708,37 @@
    ]
   },
   {
+   "ref_id": "REF-3405",
+   "key": "newton2006haltcohosh",
+   "type": "article",
+   "title": "Treatment of vasomotor symptoms of menopause with black cohosh, multibotanicals, soy, hormone therapy, or placebo: a randomized trial",
+   "authors": "Newton, K.M., Reed, S.D., LaCroix, A.Z., Grothaus, L.C., Ehrlich, K. and Guiltinan, J.",
+   "journal": "Annals of Internal Medicine",
+   "year": "2006",
+   "doi": "10.7326/0003-4819-145-12-200612190-00003",
+   "url": "",
+   "link": "https://doi.org/10.7326/0003-4819-145-12-200612190-00003",
+   "link_type": "doi",
+   "citation": "Newton, K.M., Reed, S.D., LaCroix, A.Z., Grothaus, L.C., Ehrlich, K. and Guiltinan, J (2006) 'Treatment of vasomotor symptoms of menopause with black cohosh, multibotanicals, soy, hormone therapy, or placebo: a randomized trial', Annals of Internal Medicine, 145(12), pp. 869--79. doi:10.7326/0003-4819-145-12-200612190-00003",
+   "abstract": "BACKGROUND: Herbal supplements are widely used for vasomotor symptoms. OBJECTIVE: To test the efficacy of 3 herbal regimens and hormone therapy for relief of vasomotor symptoms compared with placebo. DESIGN: 1-year randomized, double-blind, placebo-controlled trial conducted from May 2001 to September 2004. SETTING: Group Health, Washington State. PARTICIPANTS: 351 women age 45 to 55 years with 2 or more vasomotor symptoms per day; 52% of the women were in menopausal transition and 48% were postmenopausal. MEASUREMENTS: Rate and intensity of vasomotor symptoms (1 = mild to 3 = severe), and Wiklund Vasomotor Symptom Subscale. INTERVENTIONS: 1) Black cohosh, 160 mg daily; 2) multibotanical with black cohosh, 200 mg daily, and 9 other ingredients; 3) multibotanical plus dietary soy counseling; 4) conjugated equine estrogen, 0.625 mg daily, with or without medroxyprogesterone acetate, 2.5 mg daily; or 5) placebo. RESULTS: Vasomotor symptoms per day, symptom intensity, Wiklund Vasomotor Symptom Subscale score did not differ between the herbal interventions and placebo at 3, 6, or 12 months or for the average over all the follow-up time points (P > 0.05 for all comparisons) with 1 exception: At 12 months, symptom intensity was significantly worse with the multibotanical plus soy intervention than with placebo (P = 0.016). The difference in vasomotor symptoms per day between placebo and any of the herbal treatments at any time point was less than 1 symptom per day; for the average over all the follow-up time points, the difference was less than 0.55 symptom per day. The difference for hormone therapy versus placebo was -4.06 vasomotor symptoms per day for the average over all the follow-up time points (95% CI, -5.93 to -2.19 symptoms per day; P < 0.001). LIMITATIONS: The trial did not simulate the whole-person approach used by naturopathic physicians. Differences between treatment groups smaller than 1.5 Vasomotor symptoms per day cannot be ruled out. CONCLUSION: Black cohosh used in isolation, or as part of a multibotanical regimen, shows little potential as an important therapy for relief of vasomotor symptoms. CLINICAL TRIALS REGISTRATION NUMBER: NCT00169299.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Treatment of vasomotor symptoms of menopause with black cohosh, multibotanicals, soy, hormone therapy, or placebo: a randomized trial",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0025",
    "key": "bent2006valerian",
    "type": "article",
@@ -83350,6 +83947,39 @@
    "actions": [
     "Hepatoprotective (liver support)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3423",
+   "key": "richardson2005aloeradiation",
+   "type": "article",
+   "title": "Aloe vera for preventing radiation-induced skin reactions: a systematic literature review",
+   "authors": "Richardson, J., Smith, J.E., McIntyre, M., Thomas, R. and Pilkington, K.",
+   "journal": "Clinical Oncology )",
+   "year": "2005",
+   "doi": "10.1016/j.clon.2005.04.013",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clon.2005.04.013",
+   "link_type": "doi",
+   "citation": "Richardson, J., Smith, J.E., McIntyre, M., Thomas, R. and Pilkington, K (2005) 'Aloe vera for preventing radiation-induced skin reactions: a systematic literature review', Clinical Oncology ), 17(6), pp. 478--84. doi:10.1016/j.clon.2005.04.013",
+   "abstract": "AIM: To systematically review and critically appraise the evidence for effectiveness of Aloe vera gel for radiation-induced skin reactions. MATERIALS AND METHODS: Major biomedical databases and specialist complementary and alternative medicine databases were searched. Additionally, efforts were made to identify unpublished and ongoing research. Relevant research was systematically categorised by study type and appraised according to study design. Clinical commentaries were obtained for each study included in the review. RESULTS: One earlier systematic review on Aloe vera for a variety of conditions was located. Five published randomised-controlled trials (RCTs) were found, along with two additional RCTs that are not published. No non-RCTs, uncontrolled studies or qualitative studies were found. CONCLUSIONS: There is no evidence from clinical trials to suggest that topical Aloe vera is effective in preventing or minimising radiation-induced skin reactions in cancer patients. Further methodologically rigorous, sufficiently powered research studies should be conducted to evaluate the effectiveness of currently used and novel therapies for the prevention, minimisation and management of radiation-induced skin reactions.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe vera for preventing radiation-induced skin reactions: a systematic literature review",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -83709,6 +84339,40 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3407",
+   "key": "osmers2005cohoshicr",
+   "type": "article",
+   "title": "Efficacy and safety of isopropanolic black cohosh extract for climacteric symptoms",
+   "authors": "Osmers, R., Friede, M., Liske, E., Schnitker, J., Freudenstein, J. and Henneicke-von Zepelin, H.H.",
+   "journal": "Obstetrics and Gynecology",
+   "year": "2005",
+   "doi": "10.1097/01.AOG.0000158865.98070.89",
+   "url": "",
+   "link": "https://doi.org/10.1097/01.AOG.0000158865.98070.89",
+   "link_type": "doi",
+   "citation": "Osmers, R., Friede, M., Liske, E., Schnitker, J., Freudenstein, J. and Henneicke-von Zepelin, H.H (2005) 'Efficacy and safety of isopropanolic black cohosh extract for climacteric symptoms', Obstetrics and Gynecology, 105(5 Pt 1), pp. 1074--83. doi:10.1097/01.AOG.0000158865.98070.89",
+   "abstract": "OBJECTIVE: Several clinical studies suggest that black cohosh may be effective in climacteric complaints. However, evidence of its efficacy based on current quality standards has been limited. METHODS: This randomized, multicenter, double-blind clinical trial compared the efficacy and tolerability of the isopropanolic black cohosh extract in the treatment of climacteric complaints compared with placebo. A total of 304 patients were randomly allocated to receive tablets corresponding to 40 mg drug or matching placebo daily for 12 weeks. The primary efficacy measure was the change from baseline on the Menopause Rating Scale I; secondary measures included changes in its subscores and safety variables. RESULTS: Patient groups did not differ in baseline characteristics. The isopropanolic black cohosh extract was more effective than placebo (P < .001) depending on time from symptom onset (P = .014) and follicle-stimulating hormone level (P = .011). The effect size was 0.03 to 0.05 Menopause Rating Scale units which is similar to recent hormone replacement therapy study results (0.036 Menopause Rating Scale units) and may therefore be considered clinically relevant. Women in the early climacteric phase benefited more than in the late phase. The hot flush subscore was the most effective measure of the isopropanolic black cohosh extract's efficacy. There were no relevant group differences in adverse events, laboratory findings, or tolerability. CONCLUSION: This isopropanolic extract of black cohosh root stock is effective in relieving climacteric symptoms, especially in early climacteric women.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and safety of isopropanolic black cohosh extract for climacteric symptoms",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes",
+    "Menopause"
+   ]
   },
   {
    "ref_id": "REF-0885",
@@ -84482,7 +85146,7 @@
    "link_type": "doi",
    "citation": "Hassan, H.T (2004) 'Ajoene (natural garlic compound): a new anti-leukaemia agent for AML therapy', Leukemia Research, 28(7), pp. 667-671. doi:10.1016/j.leukres.2003.10.008",
    "abstract": "The reputation of garlic (Allium sativum) as an effective remedy for tumours extends back to the Egyptian Codex Ebers of 1550 b.c. Several garlic compounds including allicin and its corresponding sulfide inhibit the proliferation and induce apoptosis of several human non-leukaemia malignant cells including breast, bladder, colorectal, hepatic, prostate cancer, lymphoma and skin tumour cell lines. Ajoene (4,5,9-trithiadodeca-1,6,11-triene-9-oxide) is a garlic-derived compound produced most efficiently from pure allicin and has the advantage of a greater chemical stability than allicin. Several clinical trials and in vitro studies of ajoene have demonstrated its best-known anti-thrombosis, anti-microbial and cholesterol lowering activities. Recently, topic application of ajoene has produced significant clinical response in patients with skin basal cell carcinoma. Ajoene was shown to inhibit proliferation and induce apoptosis of several human leukaemia CD34-negative cells including HL-60, U937, HEL and OCIM-1. Also, ajoene induces 30% apoptosis in myeloblasts from chronic myeloid leukaemia patient in blast crisis. More significantly, ajoene profoundly enhanced the apoptotic effect of the two chemotherapeutic drugs: cytarabine and fludarabine in human CD34-positive resistant myeloid leukaemia cells through enhancing their bcl-2 inhibitory and caspase-3 activation activities. The two key anti-leukaemia biological actions of ajoene were the inhibition of proliferation and the induction of apoptosis. Studies have shown the anti-proliferation activity of ajoene to be associated with a block in the G2/M phase of cell cycle in human myeloid leukaemia cells. The apoptosis inducing activity of ajoene is via the mitochondria-dependent caspase cascade through a significant reduction of the anti-apoptotic bcl-2 that results in release of cytochrome c and the activation of caspase-3. Since acute myeloid leukaemia (AML) is a heterogeneous malignant disease in which disease progression at the level of CD34-positive cells has a major impact on resistance to chemotherapy and relapse and the inability to undergo apoptosis is a crucial mechanism of multi-drug resistance in AML patients. The recent findings of the potent enhancing activity of ajoene on chemotherapy-induced apoptosis in CD34-positive resistant human myeloid leukaemia cells suggest a novel promising role for the treatment of refractory and/or relapsed AML patients as well as elderly AML patients. Further studies are warranted to evaluate similar enhancing effect for ajoene in blast cells from AML patients in primary cultures before its introduction in pilot clinical study.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],

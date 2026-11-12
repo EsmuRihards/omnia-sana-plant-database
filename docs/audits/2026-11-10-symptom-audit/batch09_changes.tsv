@@ -1,0 +1,93 @@
+plant	condition	ref	op
+humulus_lupulus	*	REF-0141	purge
+humulus_lupulus	insomnia	REF-3077	add
+humulus_lupulus	insomnia	-	note
+humulus_lupulus	action:digestive	-	needs-review(unsourced)
+hydrastis_canadensis	*	REF-0456	purge
+hydrastis_canadensis	wounds	REF-0588	rm
+hydrastis_canadensis	arthritis	REF-0455	rm
+hydrastis_canadensis	bloating	REF-0455	rm
+hydrastis_canadensis	diarrhea	REF-0455	rm
+hydrastis_canadensis	indigestion	REF-0455	rm
+hydrastis_canadensis	sore-throat	REF-0455	rm
+hydrastis_canadensis	arthritis	-	drop(no evidence left)
+hydrastis_canadensis	diarrhea	-	drop(no evidence left)
+hydrastis_canadensis	sore-throat	-	drop(no evidence left)
+hypericum_perforatum	arthritis	REF-0181	rm
+hypericum_perforatum	bruising	REF-0181	rm
+hypericum_perforatum	cold	REF-0181	rm
+hypericum_perforatum	eczema	REF-0181	rm
+hypericum_perforatum	infection	REF-0181	rm
+hypericum_perforatum	inflammation	REF-0181	rm
+hypericum_perforatum	insomnia	REF-0181	rm
+hypericum_perforatum	skin-irritation	REF-0181	rm
+hypericum_perforatum	wounds	REF-0181	rm
+hypericum_perforatum	arthritis	-	drop(no evidence left)
+hypericum_perforatum	cold	-	drop(no evidence left)
+hypericum_perforatum	eczema	-	drop(no evidence left)
+hypericum_perforatum	infection	-	drop(no evidence left)
+hypericum_perforatum	skin-irritation	-	drop(no evidence left)
+hyssopus_officinalis	arthritis	REF-0845	rm
+hyssopus_officinalis	bronchitis	REF-0845	rm
+hyssopus_officinalis	cough	REF-0845	rm
+hyssopus_officinalis	inflammation	REF-0845	rm
+hyssopus_officinalis	respiratory-support	REF-0845	rm
+hyssopus_officinalis	skin-irritation	REF-0845	rm
+hyssopus_officinalis	bronchitis	REF-1804	rm
+hyssopus_officinalis	cough	REF-1804	rm
+hyssopus_officinalis	arthritis	-	drop(no evidence left)
+hyssopus_officinalis	skin-irritation	-	drop(no evidence left)
+inonotus_obliquus	arthritis	REF-0272	rm
+inonotus_obliquus	cold	REF-0272	rm
+inonotus_obliquus	immune-support	REF-0272	rm
+inonotus_obliquus	infection	REF-0272	rm
+inonotus_obliquus	inflammation	REF-0272	rm
+inonotus_obliquus	metabolic-support	REF-0272	rm
+inonotus_obliquus	skin-irritation	REF-0272	rm
+inonotus_obliquus	wounds	REF-0272	rm
+inonotus_obliquus	cognitive-function	-	note
+inonotus_obliquus	infection	-	drop(no evidence left)
+inonotus_obliquus	metabolic-support	-	needs-review(mechanistic only)
+inonotus_obliquus	wounds	-	drop(no evidence left)
+inula_helenium	bronchitis	REF-0445	rm
+inula_helenium	wounds	REF-0445	rm
+inula_helenium	wounds	REF-0539	rm
+inula_helenium	bronchitis	-	needs-review(mechanistic only)
+juniperus_communis	*	REF-0073->REF-3066	merge
+juniperus_communis	bloating	REF-0035	rm
+juniperus_communis	indigestion	REF-0035	rm
+juniperus_communis	infection	REF-0035	rm
+juniperus_communis	swelling	REF-0035	rm
+juniperus_communis	urinary-support	REF-0035	rm
+juniperus_communis	uti	REF-0035	rm
+juniperus_communis	wounds	REF-0035	rm
+juniperus_communis	swelling	REF-3066	rm
+juniperus_communis	uti	REF-3066	rm
+knautia_arvensis	*	REF-2811	purge
+knautia_arvensis	skin-irritation	-	drop(no evidence left)
+knautia_arvensis	eczema	-	drop(no evidence left)
+knautia_arvensis	acne	-	drop(no evidence left)
+knautia_arvensis	inflammation	-	drop(no evidence left)
+knautia_arvensis	wounds	-	drop(no evidence left)
+knautia_arvensis	infection	-	drop(no evidence left)
+knautia_arvensis	action:alterative	-	needs-review(unsourced)
+knautia_arvensis	action:anti-inflammatory	-	needs-review(unsourced)
+knautia_arvensis	action:antimicrobial	-	needs-review(unsourced)
+lactuca_virosa	stress	REF-0526	rm
+lactuca_virosa	headache	REF-0526	rm
+lactuca_virosa	headache	REF-0527	rm
+lactuca_virosa	headache	REF-0622	rm
+lactuca_virosa	back-pain	REF-0526	rm
+lactuca_virosa	back-pain	REF-0527	rm
+lactuca_virosa	back-pain	REF-0622	rm
+lactuca_virosa	insomnia	REF-0527	add
+lactuca_virosa	cough	REF-0527	add
+lactuca_virosa	stress	-	drop(no evidence left)
+lamium_album	*	REF-0339	purge
+lamium_album	cough	REF-0348	rm
+lamium_album	skin-irritation	REF-0348	rm
+lamium_album	respiratory-support	REF-0348	add
+lamium_album	bronchitis	REF-1746	add
+lamium_album	inflammation	REF-1746	add
+lamium_album	skin-irritation	REF-1746	add
+lamium_album	cough	-	needs-review(mechanistic only)

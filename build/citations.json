@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3204,
+ "count": 3199,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -9791,7 +9791,7 @@
    "link_type": "doi",
    "citation": "Atazhanova, G., Ishmuratova, M., Levaya, Y., Smagulov, M. and Lakomkina, Y (2024) 'The Genus Hyssopus: Traditional Use, Phytochemicals and Pharmacological Properties', Plants (Basel), 13(12), pp. 1683. doi:10.3390/plants13121683",
    "abstract": "According to modern concepts, the genus Hyssopus L. includes seven plant species ( Hyssopus ambiguus (Trautv.) Iljin ex Prochorov. & Lebel; Hyssopus cuspidatus Boriss; Hyssopus latilabiatus C.Y.Wu & H.W. Li; Hyssopus macranthus Boriss.; Hyssopus officinalis L.; Hyssopus seravschanicus (Dubj.) Pazij; Hyssopus subulifolius (Rech.f.) Rech.f.). The plants are rich in various groups of biologically active substances with a wide spectrum of pharmacological action. This review presents a modern comprehensive overview of the botanical research, extraction methods, chemical composition and pharmacological activity of plants of the genus Hyssopus L. As a result of the review, it was established that the chemical composition of plant extracts of the genus Hyssopus L. depends on various factors (place of growth, weather conditions, chemotypes, extraction methods, etc.). For the further use of the plants, the extraction methods and low-molecular metabolites isolated from them (mono- and sesquiterpenoids, flavonoids, alkaloids, etc.) are discussed. The data from the review provide an assessment of the relevance.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -9804,14 +9804,7 @@
     "Hyssopus officinalis"
    ],
    "actions": [],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bronchitis",
-    "Cough",
-    "Inflammation (general)",
-    "Respiratory support",
-    "Skin irritation"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2894",
@@ -13965,10 +13958,28 @@
     "clinical"
    ],
    "display": "European Union herbal monograph on Juniperus communis L., galbulus (pseudo-fructus), Revision 1",
-   "plants": [],
-   "scientific": [],
-   "actions": [],
-   "conditions": []
+   "plants": [
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant",
+    "Digestive aid",
+    "Diuretic",
+    "Urinary antiseptic"
+   ],
+   "conditions": [
+    "Bloating",
+    "Indigestion",
+    "Urinary support"
+   ]
   },
   {
    "ref_id": "REF-1461",
@@ -17019,48 +17030,6 @@
     "Anti-inflammatory"
    ],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-2811",
-   "key": "chrzaszcz2023knautia",
-   "type": "article",
-   "title": "The Anti-Acne Potential and Chemical Composition of Knautia Species (Caprifoliaceae) Extracts",
-   "authors": "Chrzaszcz, M. and Miazga-Karska, M. and Klimek, K. and Dybowski, M.P. and Typek, R. and Tchorzewska, D. and Dos Santos Szewczyk, K.",
-   "journal": "International Journal of Molecular Sciences",
-   "year": "2023",
-   "doi": "10.3390/ijms24119188",
-   "url": "",
-   "link": "https://doi.org/10.3390/ijms24119188",
-   "link_type": "doi",
-   "citation": "Chrzaszcz, M. and Miazga-Karska, M. and Klimek, K. and Dybowski, M.P. and Typek, R. and Tchorzewska, D. and Dos Santos Szewczyk, K (2023) 'The Anti-Acne Potential and Chemical Composition of Knautia Species (Caprifoliaceae) Extracts', International Journal of Molecular Sciences, 24(11), pp. 9188. doi:10.3390/ijms24119188",
-   "abstract": "The treatment of acne and other seborrheic diseases has arisen as a significant clinical challenge due to the increasing appearance of multi-drug resistant pathogens and a high frequency of recurrent lesions. Taking into consideration the fact that some Knautia species are valuable curatives in skin diseases in traditional medicine, we assumed that the thus far unstudied species K. drymeia and K. macedonica may be a source of active substances used in skin diseases. The purpose of this study was to evaluate the antioxidant, anti-inflammatory, antibacterial, and cytotoxic activities of their extracts and fractions. An LC-MS analysis revealed the presence of 47 compounds belonging to flavonoids and phenolic acids in both species while the GC-MS procedure allowed for the identification mainly sugar derivatives, phytosterols, and fatty acids and their esters. The ethanol as well as methanol-acetone-water (3:1:1) extracts of K. drymeia (KDE and KDM) exhibited great ability to scavenge free radicals and good capacity to inhibit cyclooxygenase-1, cyclooxygenase-2, and lipoxygenase. Moreover, they had the most favorable low minimal inhibitory concentration values against acne strains, and importantly, they were non-toxic toward normal skin fibroblasts. In conclusion, K. drymeia extracts seem to be promising and safe agents for further biomedical applications.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "The Anti-Acne Potential and Chemical Composition of Knautia Species (Caprifoliaceae) Extracts",
-   "plants": [
-    "Field scabious",
-    "blue buttons",
-    "gypsy rose"
-   ],
-   "scientific": [
-    "Knautia arvensis"
-   ],
-   "actions": [
-    "Alterative / depurative ('detox')",
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant"
-   ],
-   "conditions": [
-    "Acne",
-    "Eczema",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Wounds"
-   ]
   },
   {
    "ref_id": "REF-0598",
@@ -21127,7 +21096,7 @@
    "link_type": "doi",
    "citation": "Kenny, C.R., Stojakowska, A., Furey, A. and Lucey, B (2022) 'From Monographs to Chromatograms: The Antimicrobial Potential of Inula helenium L. (Elecampane) Naturalised in Ireland', Molecules. doi:10.3390/molecules27041406",
    "abstract": "With antimicrobial resistance rising globally, the exploration of alternative sources of candidate molecules is critical to safeguard effective chemotherapeutics worldwide. Plant natural products are accessible, structurally diverse compounds with antimicrobial potential. The pharmacological applications of plants in medicine can be guided by the attestation of traditional use, as demonstrated in this study. In Irish ethnomedical literature, Inula helenium L. (elecampane) is often indicated for respiratory and dermal ailments. This is the first assessment of antimicrobial sesquiterpene lactones from the roots of elecampane, naturalised in Ireland. Traditional hydro-ethanolic extracts were prepared from multi-origin elecampane roots. A novel clean-up strategy facilitated the bioactivity-guided fractionation of a subset of anti-staphylococcal fractions (the compositions of which were investigated using HPLC-DAD, supported by 1 H NMR). The natural products attributing to the antimicrobial activity, observed in vitro, were identified as alantolactone (1) , isoalantolactone (2) , igalan (3) , and an unseparated mixture of dugesialactone (4) and alloalantolactone (5) , as major compounds. The findings suggest that the geographical origin of the plant does not influence the anti-bacterial potency nor the chemical composition of traditional elecampane root. Considering the prevalence of staphylococci-associated infections and associated broad spectrum resistance in Irish hospitals, currently, further research is warranted into the usage of the identified compounds as potential candidates in the control of staphylococcal carriage and infection.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -21146,9 +21115,7 @@
     "Expectorant"
    ],
    "conditions": [
-    "Bronchitis",
-    "Infection (general)",
-    "Wounds"
+    "Infection (general)"
    ]
   },
   {
@@ -31644,42 +31611,6 @@
    ]
   },
   {
-   "ref_id": "REF-0456",
-   "key": "singh2021plant",
-   "type": "article",
-   "title": "Plant isoquinoline alkaloids: Advances in the chemistry and biology of berberine",
-   "authors": "Singh, S., Pathak, N., Fatima, E. and Negi, A.S.",
-   "journal": "European Journal of Medicinal Chemistry",
-   "year": "2021",
-   "doi": "10.1016/j.ejmech.2021.113839",
-   "url": "",
-   "link": "https://doi.org/10.1016/j.ejmech.2021.113839",
-   "link_type": "doi",
-   "citation": "Singh, S., Pathak, N., Fatima, E. and Negi, A.S (2021) 'Plant isoquinoline alkaloids: Advances in the chemistry and biology of berberine', European Journal of Medicinal Chemistry. doi:10.1016/j.ejmech.2021.113839",
-   "abstract": "Alkaloids are one of the most important classes of plant bioactives. Among these isoquinoline alkaloids possess varied structures and exhibit numerous biological activities. Basically these are biosynthetically produced via phenylpropanoid pathway. However, occasionally some mixed pathways may also occur to provide structural divergence. Among the various biological activities anticancer, antidiabetic, antiinflammatory, and antimicrobial are important. A few notable bioactive isoquinoline alkaloids are antidiabetic berberine, anti-tussive codeine, analgesic morphine, and muscle relaxant papaverine etc. Berberine is one of the most discussed bioactives from this class possessing broad-spectrum pharmacological activities. Present review aims at recent updates of isoquinoline alkaloids with major emphasis on berberine, its detailed chemistry, important biological activities, structure activity relationship and implementation in future research.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Plant isoquinoline alkaloids: Advances in the chemistry and biology of berberine",
-   "plants": [
-    "Goldenseal",
-    "Ground raspberry",
-    "Orange root",
-    "Yellow root"
-   ],
-   "scientific": [
-    "Hydrastis canadensis"
-   ],
-   "actions": [
-    "Antimicrobial"
-   ],
-   "conditions": [
-    "Infection (general)",
-    "Wounds"
-   ]
-  },
-  {
    "ref_id": "REF-0661",
    "key": "zhang2021prunellahsv",
    "type": "article",
@@ -37257,7 +37188,7 @@
    "link_type": "doi",
    "citation": "Mandal, S.K., Maji, A.K., Mishra, S.K., Ishfaq, P.M., Devkota, H.P., Silva, A.S. and Das, N (2020) 'Goldenseal (Hydrastis canadensis L.) and its active constituents: A critical review of their efficacy and toxicological issues', Pharmacological Research. doi:10.1016/j.phrs.2020.105085",
    "abstract": "Goldenseal (Hydrastis canadensis L.) is a medicinal plant widely used in various traditional systems of medicine and as a food supplement. It has been traditionally used by Native Americans as a coloring agent and as medicinal remedy for common diseases and conditions like wounds, digestive disorders, ulcers, skin and eye ailments, and cancer. Over the years, goldenseal has become a popular food supplement in the USA and other regions. The rhizome of this plant has been used for the treatment of a variety of diseases including, gastrointestinal disorders, ulcers, muscular debility, nervous prostration, constipation, skin and eye infections, cancer, among others. Berberine is one of the most bioactive alkaloid that has been identified in different parts of goldenseal. The goldenseal extract containing berberine showed numerous therapeutic effects such as antimicrobial, anti-inflammatory, hypolipidemic, hypoglycemic, antioxidant, neuroprotective (anti-Alzheimer's disease), cardioprotective, and gastrointestinal protective. Various research finding suggest the health promoting effects of goldenseal components and their extracts. However, few studies have also suggested the possible neurotoxic, hepatotoxic and phototoxic activities of goldenseal extract and its alkaloids. Thus, large randomized, double-blind clinical studies need to be conducted on goldenseal supplements and their main alkaloids to provide more evidence on the mechanisms responsible for the pharmaceutical activity, clinical efficacy and safety of these products. Thus, it is very important to review the scientific information about goldenseal to understand about the current scenario.",
-   "tier": "rct",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -37278,14 +37209,9 @@
     "Digestive aid"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Bloating",
-    "Diarrhoea",
-    "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
     "Skin irritation",
-    "Sore throat",
     "Wounds"
    ]
   },
@@ -47457,7 +47383,7 @@
    "link_type": "doi",
    "citation": "Géry, A., Dubreule, C., André, V., Rioult, J.P., Bouchart, V., Heutte, N., Eldin de Pécoulas, P., Krivomaz, T. and Garon, D (2018) 'Chaga (Inonotus obliquus), a future potential medicinal fungus in oncology? A chemical study and a comparison of the cytotoxicity against human lung adenocarcinoma cells (A549) and human bronchial epithelial cells (BEAS-2B)', 17(3), pp. 832--843. doi:10.1177/1534735418757912",
    "abstract": "Background Inonotus obliquus, also known as Chaga, is a parasitic fungus growing on birches and used in traditional medicine (especially by Khanty people) to treat various health problems. In this study, we aimed to quantify the 3 metabolites frequently cited in literature, that is, betulin, betulinic acid, and inotodiol in the Chaga recently discovered in forests located in Normandy (France), and to compare their concentrations with Ukrainian and Canadian Chaga. This study also explores the cytotoxicity of the French Chaga against cancer-derived cells and transformed cells. Methods A quantification method by HPLC-MS-MS (high-performance liquid chromatography-tandem mass spectrometry) of betulin, betulinic acid, and inotodiol was developed to study the French Chaga and compare the concentration of these metabolites with extracts provided from Chaga growing in Canada and Ukraine. This method was also used to identify and quantify those 3 compounds in other traditional preparations of Chaga (aqueous extract, infusion, and decoction). Among these preparations, the aqueous extract that contains betulin, betulinic acid, and inotodiol was chosen to evaluate and compare its cytotoxic activity toward human lung adenocarcinoma cells (A549 line) and human bronchial epithelial cells (BEAS-2B line). Results French Chaga contains betulin and betulinic acid at higher levels than in other Chaga, whereas the concentration of inotodiol is greater in the Canadian Chaga. Moreover, the results highlighted a cytotoxic activity of the Chaga's aqueous extract after 48 and 72 hours of exposure with a higher effect on cancer-derived cells A549 than on normal transformed cells BEAS-2B ( P = 0.025 after 48 hours of exposure and P = 0.004 after 72 hours of exposure).",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -51998,7 +51924,11 @@
    "actions": [
     "Anti-inflammatory"
    ],
-   "conditions": []
+   "conditions": [
+    "Bronchitis",
+    "Inflammation (general)",
+    "Skin irritation"
+   ]
   },
   {
    "ref_id": "REF-1853",
@@ -64888,10 +64818,19 @@
     "clinical"
    ],
    "display": "Community herbal monograph on Humulus lupulus L., flos, Revision 1",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
   },
   {
    "ref_id": "REF-0546",
@@ -65166,8 +65105,6 @@
     "Expectorant"
    ],
    "conditions": [
-    "Bronchitis",
-    "Cough",
     "Inflammation (general)",
     "Respiratory support"
    ]
@@ -68797,17 +68734,7 @@
     "Sedative / sleep support",
     "Vulnerary (wound healing)"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bruising",
-    "Cold & flu",
-    "Eczema",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1795",
@@ -70531,8 +70458,7 @@
     "Antimicrobial"
    ],
    "conditions": [
-    "Infection (general)",
-    "Wounds"
+    "Infection (general)"
    ]
   },
   {
@@ -72115,7 +72041,7 @@
    "link_type": "doi",
    "citation": "Cech, N.B., Junio, H.A., Ackermann, L.W., Kavanaugh, J.S. and Horswill, A.R (2012) 'Quorum quenching and antimicrobial activity of goldenseal (Hydrastis canadensis) against methicillin-resistant Staphylococcus aureus (MRSA)', Planta Medica, 78(14), pp. 1556--1561. doi:10.1055/s-0032-1315042",
    "abstract": "The popular herbal remedy goldenseal (Hydrastis canadensis L.) is traditionally used to treat skin infections. With this study, we show activity of H. canadensis extracts in vitro against methicillin-resistant Staphylococcus aureus (MRSA). An extract from H. canadensis leaves demonstrated more potent antimicrobial activity than the alkaloid berberine alone (MICs of 75 µg/mL and 150 µg/mL, respectively). LC-MS detected alkaloids and efflux-pump inhibitory flavonoids in the extract, and the latter may explain the enhanced efficacy of the extract compared to berberine alone. We also show evidence of anti-virulence activity as a second mechanism by which H. canadensis acts against S. aureus. The H. canadensis leaf extract (but not the isolated alkaloids berberine, hydrastine, and canadine) demonstrated quorum quenching activity against several clinically relevant MRSA isolates (USA300 strains). Our data suggest that this occurs by attenuation of signal transduction through the AgrCA two-component system. Consistent with this observation, the extract inhibited toxin production by MRSA and prevented damage by MRSA to keratinocyte cells in vitro. Collectively, our results show that H. canadensis leaf extracts possess a mixture of constituents that act against MRSA via several different mechanisms. These findings lend support for the traditional application of crude H. canadensis extracts in the prevention of infection.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -72133,8 +72059,7 @@
     "Antimicrobial"
    ],
    "conditions": [
-    "Infection (general)",
-    "Wounds"
+    "Infection (general)"
    ]
   },
   {
@@ -75724,50 +75649,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0073",
-   "key": "european2010european",
-   "type": "misc",
-   "title": "European Union herbal monograph on Juniperus communis L., pseudo-fructus",
-   "authors": "European Medicines Agency",
-   "journal": "",
-   "year": "2010",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=European%20Union%20herbal%20monograph%20on%20Juniperus%20communis%20L.%2C%20pseudo-fructus",
-   "link_type": "search",
-   "citation": "European Medicines Agency (2010) 'European Union herbal monograph on Juniperus communis L., pseudo-fructus'.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "European Union herbal monograph on Juniperus communis L., pseudo-fructus",
-   "plants": [
-    "Common Juniper",
-    "Eneberries / Enebær",
-    "Jeneverbes",
-    "Juniper",
-    "Juniper “berries” / juniper cone berries"
-   ],
-   "scientific": [
-    "Juniperus communis"
-   ],
-   "actions": [
-    "Antimicrobial",
-    "Antioxidant",
-    "Digestive aid",
-    "Diuretic",
-    "Urinary antiseptic"
-   ],
-   "conditions": [
-    "Bloating",
-    "Indigestion",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
-   ]
-  },
-  {
    "ref_id": "REF-1475",
    "key": "geng2010ginseng",
    "type": "article",
@@ -76659,44 +76540,6 @@
    ],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0141",
-   "key": "koetter2010valerian",
-   "type": "misc",
-   "title": "Valerian and hops for insomnia: overview of clinical data",
-   "authors": "Koetter, U. and Blumenthal, M",
-   "journal": "",
-   "year": "2010",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Valerian%20and%20hops%20for%20insomnia%3A%20overview%20of%20clinical%20data",
-   "link_type": "search",
-   "citation": "Koetter, U. and Blumenthal, M (2010) 'Valerian and hops for insomnia: overview of clinical data', pp. 44--50.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Valerian and hops for insomnia: overview of clinical data",
-   "plants": [
-    "Hop",
-    "Hops",
-    "common hop",
-    "hop vine"
-   ],
-   "scientific": [
-    "Humulus lupulus"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Digestive aid",
-    "Sedative / sleep support"
-   ],
-   "conditions": [
-    "Insomnia / sleeplessness"
-   ]
   },
   {
    "ref_id": "REF-3377",
@@ -82304,8 +82147,6 @@
     "Sedative / sleep support"
    ],
    "conditions": [
-    "Back pain",
-    "Headache",
     "Insomnia / sleeplessness",
     "Pain (general)"
    ]
@@ -82541,21 +82382,21 @@
    "ref_id": "REF-0272",
    "key": "shashkina2006chemical",
    "type": "article",
-   "title": "Chemical and medicobiological properties of chaga",
+   "title": "Chemical and medicobiological properties of chaga (review)",
    "authors": "Shashkina, M.Ya., Shashkin, P.N. and Sergeev, A.V",
-   "journal": "",
+   "journal": "Pharmaceutical Chemistry Journal",
    "year": "2006",
-   "doi": "",
+   "doi": "10.1007/s11094-006-0194-4",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Chemical%20and%20medicobiological%20properties%20of%20chaga",
-   "link_type": "search",
-   "citation": "Shashkina, M.Ya., Shashkin, P.N. and Sergeev, A.V (2006) 'Chemical and medicobiological properties of chaga', 40(10), pp. 560--568.",
-   "abstract": "",
-   "tier": "traditional",
+   "link": "https://doi.org/10.1007/s11094-006-0194-4",
+   "link_type": "doi",
+   "citation": "Shashkina, M.Ya., Shashkin, P.N. and Sergeev, A.V (2006) 'Chemical and medicobiological properties of chaga (review)', Pharmaceutical Chemistry Journal, 40(10), pp. 560--568. doi:10.1007/s11094-006-0194-4",
+   "abstract": "Data on the chemical composition and pharmacological activity of chaga (Inonotus obliquus) are reviewed. The possible mechanisms of action and factors responsible for the discrepancy of data available in the literature are discussed. The physical and chemical characteristics of melanin (polyphenolic chromogenic humin-like complex present in chaga) and its role in the regulation of physiological processes are considered.",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
-   "display": "Chemical and medicobiological properties of chaga",
+   "display": "Chemical and medicobiological properties of chaga (review)",
    "plants": [
     "Chaga",
     "Chaga mushroom",
@@ -82571,16 +82412,7 @@
     "Antioxidant",
     "Immunomodulator / immune support"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Cold & flu",
-    "Immune support",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Metabolic support",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1108",
@@ -93957,9 +93789,6 @@
     "Insomnia / sleeplessness",
     "Respiratory support",
     "Skin irritation",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)",
     "Wounds"
    ]
   },
@@ -99992,42 +99821,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0339",
-   "key": "askayurvedandlamium",
-   "type": "misc",
-   "title": "Lamium album (White Dead-Nettle) in Ayurveda - Benefits, Uses, Medicinal Properties & Healing Applications",
-   "authors": "Ask-Ayurveda",
-   "journal": "",
-   "year": "n.d.",
-   "doi": "",
-   "url": "https://ask-ayurveda.com/wiki/article/4805-lamium-album",
-   "link": "https://ask-ayurveda.com/wiki/article/4805-lamium-album",
-   "link_type": "url",
-   "citation": "Ask-Ayurveda (n.d.) 'Lamium album (White Dead-Nettle) in Ayurveda - Benefits, Uses, Medicinal Properties & Healing Applications'. Available at: https://ask-ayurveda.com/wiki/article/4805-lamium-album",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Lamium album (White Dead-Nettle) in Ayurveda - Benefits, Uses, Medicinal Properties & Healing Applications",
-   "plants": [
-    "Bee nettle",
-    "Dumb nettle",
-    "White Dead Nettle",
-    "White dead-nettle"
-   ],
-   "scientific": [
-    "Lamium album"
-   ],
-   "actions": [
-    "Expectorant"
-   ],
-   "conditions": [
-    "Bronchitis",
-    "Respiratory support"
-   ]
-  },
-  {
    "ref_id": "REF-0351",
    "key": "royalndlamium2",
    "type": "misc",
@@ -105245,10 +105038,9 @@
    "conditions": [
     "Arthritis / joint pain",
     "Bruising",
-    "Cough",
     "Diarrhoea",
     "Inflammation (general)",
-    "Skin irritation",
+    "Respiratory support",
     "Wounds"
    ]
   },
@@ -105363,13 +105155,10 @@
    ],
    "conditions": [
     "Anxiety",
-    "Back pain",
     "Cough",
-    "Headache",
     "Insomnia / sleeplessness",
     "Nervous tension",
-    "Pain (general)",
-    "Stress"
+    "Pain (general)"
    ]
   },
   {
@@ -105404,8 +105193,8 @@
     "Analgesic (pain relief)"
    ],
    "conditions": [
-    "Back pain",
-    "Headache",
+    "Cough",
+    "Insomnia / sleeplessness",
     "Pain (general)"
    ]
   },

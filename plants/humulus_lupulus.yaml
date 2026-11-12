@@ -110,23 +110,19 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0141
   - REF-1729
   - REF-1730
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0141
   - REF-1726
   - REF-1729
   status: verified
 - action: digestive
-  reference_ids:
-  - REF-0141
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: sedative
   reference_ids:
-  - REF-0141
   - REF-1732
   status: verified
 indications:
@@ -134,18 +130,14 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0141
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0141
 - condition: insomnia
-  note: inferred from sedative action
+  note: EU traditional use to aid sleep
   reference_ids:
-  - REF-0141
+  - REF-3077
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1732
@@ -153,8 +145,6 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0141
 contraindications:
 - note: Generally safe at therapeutic doses for short-term use. Hop preparations may enhance the sedative
     effects of alcohol, benzodiazepines, and other CNS depressants - avoid combination. Not recommended
@@ -163,7 +153,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0024
-  - REF-0141
   - REF-0226
   status: verified
 - note: 'Duke (2002) rates hops as +++ and provides clinical evidence (score 2) for sedative activity,
@@ -175,7 +164,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0024
-  - REF-0141
   - REF-0226
   - REF-0063
   status: verified
@@ -280,4 +268,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   text rewritten to the source rather than having a reference stapled on. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for flower/strobile (provisional: PFAF REF-3272, female cones
   picked ripe in late summer to early autumn). SAFETY: Bryonia dioica (white bryony) climbing-habit
-  lookalike. Binomial confirmed.'
+  lookalike. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 9 - REF-0141 purged: an overview of the valerian + hops
+  COMBINATION (multi-herb product). EU monograph REF-3077 (relief of mild symptoms of mental
+  stress and to aid sleep - EMA page 429, flagged for owner spot-check) added to insomnia.'

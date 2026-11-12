@@ -145,19 +145,12 @@ actions:
   - REF-1804
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0845
+- condition: bronchitis
+  note: inferred from expectorant action
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1804
-- condition: bronchitis
-  note: inferred from expectorant action
-  reference_ids:
-  - REF-0845
-  - REF-1804
-  status: needs-review
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -165,28 +158,19 @@ indications:
   status: needs-review
 - condition: cough
   note: inferred from expectorant action
-  reference_ids:
-  - REF-0845
-  - REF-1804
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-1804
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0845
   - REF-1804
   status: needs-review
 - condition: respiratory-support
   reference_ids:
-  - REF-0845
   - REF-1804
   status: verified
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0845
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1804
 contraindications:
 - note: Generally safe at therapeutic doses. Hyssop essential oil is neurotoxic in high doses (contains
     pinocamphone and isopinocamphone) - internal use of the essential oil is contraindicated, especially
@@ -281,4 +265,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   among accepted methods of preparation, which is exactly the gap that campaign recorded as unreachable.
   Species confirmed from the monograph''s own title, not from the slug. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for flower + leaf + stem (provisional: PFAF REF-3275, flowering
-  tops at full bloom in summer). Single lineage. Binomial confirmed.'
+  tops at full bloom in summer). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 9 - REF-0845 is a genus-level Hyssopus review (7
+  species, prose-only attribution) - removed from all pairs; retagged narrative-review. REF-1804
+  (asthmatic mouse model) names airway inflammation and asthma only - removed from bronchitis and
+  cough.'

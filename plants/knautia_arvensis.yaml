@@ -96,7 +96,6 @@ traditional_uses:
     flavonoids and saponins; the closely related genera Knautia, Scabiosa and Dipsacus in the honeysuckle
     family share this chemistry and a tradition of use in skin disease and inflammation.
   reference_ids:
-  - REF-2811
   - REF-2810
   status: verified
 preparations:
@@ -108,8 +107,7 @@ preparations:
   status: draft
 - name: Wash / poultice
   text: A strong infusion or the crushed herb applied externally to eczema, itching, cuts and sores (traditional).
-  reference_ids:
-  - REF-2811
+  reference_ids: []
   status: draft
 dosage:
 - name: Dried herb infusion
@@ -152,54 +150,21 @@ constituents:
 actions:
 - action: alterative
   note: Traditional 'blood purifier' (depurative) for skin complaints; the classic use of field scabious.
-  reference_ids:
-  - REF-2811
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: anti-inflammatory
   note: Knautia and related Caprifoliaceae extracts inhibit inflammatory mediators (COX/LOX).
-  reference_ids:
-  - REF-2811
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-2811
   - REF-2814
   status: verified
 - action: antimicrobial
   note: Antibacterial (anti-acne) activity of Knautia extracts; antimicrobial activity across the family.
-  reference_ids:
-  - REF-2811
-  status: verified
-indications:
-- condition: skin-irritation
-  note: Traditional remedy for eczema, itching and skin complaints; anti-acne activity of Knautia extracts.
-  reference_ids:
-  - REF-2811
-  status: verified
-- condition: eczema
-  note: inferred from traditional skin/depurative use
-  reference_ids:
-  - REF-2811
+  reference_ids: []
   status: needs-review
-- condition: acne
-  note: Anti-acne activity of Knautia species extracts (antibacterial, anti-inflammatory).
-  reference_ids:
-  - REF-2811
-  status: needs-review
-- condition: inflammation
-  reference_ids:
-  - REF-2811
-  status: verified
-- condition: wounds
-  note: inferred from traditional external use on cuts and sores
-  reference_ids:
-  - REF-2811
-  status: needs-review
-- condition: infection
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-2811
-  status: needs-review
+indications: []
 contraindications:
 - note: Very little is known about the safety of field scabious and there are no clinical data; avoid
     medicinal doses in pregnancy and breastfeeding and use only modest amounts.
@@ -215,7 +180,6 @@ references:
 - REF-2808
 - REF-2809
 - REF-2810
-- REF-2811
 - REF-2812
 - REF-2814
 lookalikes_review:
@@ -255,4 +219,7 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   was cited as the authority for there being no established posology) and is the proper fix if a seam
   opens. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower + aerial-parts
   (provisional: PFAF REF-3280, gathered while in flower July-Sept); root = GAP (no sourced timing). Binomial
-  confirmed. | 2026-08-15: root harvest_readiness filled (was gap) on a re-read of PFAF REF-3280, which ties the root to the flowering plant (''with or without the roots'').'
+  confirmed. | 2026-08-15: root harvest_readiness filled (was gap) on a re-read of PFAF REF-3280, which ties the root to the flowering plant (''with or without the roots'').
+  | 2026-11-10: symptom-source audit batch 9 - REF-2811 purged: it tested Knautia drymeia and K.
+  macedonica, not K. arvensis (its only link to field scabious is genus-level prose). All 6 pairs
+  dropped; plant leaves the Symptom tool.'

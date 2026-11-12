@@ -22,7 +22,6 @@ constituents:
     and show quorum-quenching, anti-virulence activity.
   reference_ids:
   - REF-0455
-  - REF-0456
   - REF-0588
 botanical_description:
   text: Low, woodland perennial herb rising from a knotted, bright yellow rhizome with wiry yellow roots.
@@ -114,7 +113,6 @@ actions:
   note: Antimicrobial (berberine) - supports skin, mucosal and gastrointestinal infections and sore throat
   reference_ids:
   - REF-0455
-  - REF-0456
   - REF-0588
   - REF-1849
   - REF-1850
@@ -133,33 +131,24 @@ actions:
   - REF-1851
   status: needs-review
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0455
-  status: needs-review
 - condition: bloating
   note: inferred from digestive action
-  reference_ids:
-  - REF-0455
+  reference_ids: []
   status: needs-review
-- condition: diarrhea
-  note: inferred from astringent action
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0455
-  status: needs-review
 - condition: indigestion
-  note: Digestive / gastrointestinal support (traditional for dyspepsia and ulcers)
-  reference_ids:
-  - REF-0455
+  note: inferred from digestive action
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0455
 - condition: infection
   note: Antimicrobial (berberine) - supports skin, mucosal and gastrointestinal infections and sore throat;
     Topical for skin infections and irritation - whole-leaf extract is active in vitro against methicillin-resistant
     Staphylococcus aureus (MRSA)
   reference_ids:
   - REF-0455
-  - REF-0456
   - REF-0588
   status: needs-review
 - condition: inflammation
@@ -172,21 +161,14 @@ indications:
   reference_ids:
   - REF-0455
   status: needs-review
-- condition: sore-throat
-  note: Anti-inflammatory and astringent for inflamed mucous membranes (sore-throat gargle, mouth); Antimicrobial
-    (berberine) - supports skin, mucosal and gastrointestinal infections and sore throat
-  reference_ids:
-  - REF-0455
-  status: verified
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0455
-  - REF-0456
-  - REF-0588
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1851
+  - REF-0588
 contraindications:
 - note: 'Contraindicated in pregnancy and breastfeeding: berberine crosses the placenta and into milk
     and can cause or worsen newborn jaundice (risk of kernicterus); do not give to infants.'
@@ -326,4 +308,12 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pharmacological
   plant part / route checked for mismatch; text rewritten to the source rather than having a reference
   stapled on. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for rhizome
   (provisional: PFAF REF-3273, dug in autumn after the top dies down). SAFETY: Podophyllum peltatum
-  (mayapple) root confusion. Binomial confirmed.'
+  (mayapple) root confusion. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 9 - REF-0455 is a critical review, not an RCT
+  (retagged): names wounds, digestive disorders, ulcers, skin and eye ailments/infections,
+  antimicrobial and anti-inflammatory effects - removed from arthritis, bloating, diarrhoea,
+  indigestion (vague "digestive disorders") and sore-throat. REF-0456 purged (berberine chemistry
+  review; names no goldenseal; berberine is not specific to this plant). REF-0588 (MRSA, in vitro)
+  removed from wounds; retagged preclinical.
+  | 2026-11-10: symptom-source audit batch 9 - notes of pairs left mechanistic-only reset to
+  "inferred from ... action".'

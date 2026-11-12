@@ -91,7 +91,6 @@ dosage:
     in pregnancy. Educational reference only, not a prescription.
   reference_ids:
   - REF-3066
-  - REF-0073
   status: verified
 constituents:
 - name: Essential oil (alpha-pinene, sabinene, limonene)
@@ -118,7 +117,7 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-0035
-  - REF-0073
+  - REF-3066
   - REF-1734
   - REF-1735
   - REF-1737
@@ -129,7 +128,7 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0035
-  - REF-0073
+  - REF-3066
   - REF-1734
   - REF-1736
   - REF-1740
@@ -138,28 +137,29 @@ actions:
 - action: digestive
   reference_ids:
   - REF-0035
-  - REF-0073
+  - REF-3066
   - REF-1736
   status: verified
 - action: diuretic
   reference_ids:
   - REF-0035
-  - REF-0073
+  - REF-3066
   - REF-1735
   - REF-1741
   status: verified
 - action: urinary-antiseptic
   reference_ids:
   - REF-0035
-  - REF-0073
+  - REF-3066
   status: verified
 indications:
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0035
-  - REF-0073
+  - REF-3066
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0035
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -171,47 +171,49 @@ indications:
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0035
-  - REF-0073
-  status: needs-review
-- condition: infection
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0035
+  - REF-3066
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0073
+  - REF-0035
+- condition: infection
+  note: inferred from antimicrobial action
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-3066
+  - REF-0035
 - condition: swelling
   note: inferred from diuretic action
-  reference_ids:
-  - REF-0035
-  - REF-0073
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1741
+  - REF-0035
+  - REF-3066
 - condition: urinary-support
   note: inferred from diuretic action
   reference_ids:
-  - REF-0035
-  - REF-0073
+  - REF-3066
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0035
 - condition: uti
   note: inferred from diuretic action
-  reference_ids:
-  - REF-0035
-  - REF-0073
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1741
+  - REF-0035
+  - REF-3066
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0035
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0073
+  - REF-3066
   - REF-1737
   - REF-1738
+  - REF-0035
 contraindications:
 - note: 'Avoid in pregnancy. Juniper is not recommended during pregnancy (EMA/HMPC, 2023; Health Canada,
     2025).Avoid with kidney disorders / serious kidney disease. It’s not recommended if you have kidney
@@ -224,7 +226,7 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0035
-  - REF-0073
+  - REF-3066
   - REF-0229
   status: verified
 - note: Duke (2002) rates juniper as + (use with caution), noting diuretic, carminative, and aquaretic
@@ -236,7 +238,7 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0035
-  - REF-0073
+  - REF-3066
   - REF-0229
   - REF-0063
   status: verified
@@ -326,4 +328,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   text rewritten to the source rather than having a reference stapled on. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for fruit (provisional: PFAF REF-3278, ripe blue-black cones in
   autumn; green + ripe on the same bush). SAFETY: toxic savin (Juniperus sabina) lookalike. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-10: symptom-source audit batch 9 - REF-0073 (2010 Community monograph) merged into its
+  2021 revision REF-3066 (invariant 11). REF-0035 (British Herbal Pharmacopoeia 1983, not
+  available online) removed from every symptom as unverifiable. REF-3066 (known indications:
+  urinary flushing in minor urinary complaints; dyspeptic complaints such as bloating and
+  flatulence - EMA page 429, flagged for owner spot-check) kept for urinary-support, bloating and
+  indigestion; removed from swelling and UTI (birch precedent).'

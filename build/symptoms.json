@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 184,
+ "count": 183,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -3864,7 +3864,6 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0272",
       "REF-2969"
      ]
     },
@@ -3874,9 +3873,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0272"
-     ]
+     "references": []
     },
     {
      "condition": "cold",
@@ -3884,19 +3881,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0272"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0272"
-     ]
+     "references": []
     },
     {
      "condition": "inflammation",
@@ -3904,19 +3889,15 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0272"
-     ]
+     "references": []
     },
     {
      "condition": "metabolic-support",
      "label": "Metabolic support",
      "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0272"
-     ]
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
     },
     {
      "condition": "skin-irritation",
@@ -3924,19 +3905,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0272"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0272"
-     ]
+     "references": []
     }
    ]
   },
@@ -4869,8 +4838,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0035",
-      "REF-0073"
+      "REF-3066"
      ]
     },
     {
@@ -4880,8 +4848,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0035",
-      "REF-0073"
+      "REF-3066"
      ]
     },
     {
@@ -4890,9 +4857,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0035"
-     ]
+     "references": []
     },
     {
      "condition": "swelling",
@@ -4900,10 +4865,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0035",
-      "REF-0073"
-     ]
+     "references": []
     },
     {
      "condition": "urinary-support",
@@ -4912,8 +4874,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0035",
-      "REF-0073"
+      "REF-3066"
      ]
     },
     {
@@ -4922,10 +4883,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0035",
-      "REF-0073"
-     ]
+     "references": []
     },
     {
      "condition": "wounds",
@@ -4933,9 +4891,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0035"
-     ]
+     "references": []
     }
    ]
   },
@@ -6345,25 +6301,12 @@
      ]
     },
     {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0445",
-      "REF-0539"
-     ]
-    },
-    {
      "condition": "bronchitis",
      "label": "Bronchitis",
      "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0445"
-     ]
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
     },
     {
      "condition": "cough",
@@ -6384,6 +6327,14 @@
     {
      "condition": "skin-irritation",
      "label": "Skin irritation",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -7057,75 +7008,6 @@
    ]
   },
   {
-   "name": "Field scabious",
-   "scientific": "Knautia arvensis",
-   "id": "knautia-arvensis",
-   "common_slug": "field-scabious",
-   "wp_post_id": null,
-   "indications": [
-    {
-     "condition": "acne",
-     "label": "Acne",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2811"
-     ]
-    },
-    {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2811"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2811"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2811"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2811"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2811"
-     ]
-    }
-   ]
-  },
-  {
    "name": "Figwort",
    "scientific": "Scrophularia nodosa",
    "id": "scrophularia-nodosa",
@@ -7780,61 +7662,20 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0455"
-     ]
-    },
-    {
-     "condition": "bloating",
-     "label": "Bloating",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0455"
-     ]
-    },
-    {
-     "condition": "diarrhea",
-     "label": "Diarrhoea",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0455"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0455"
-     ]
-    },
-    {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 5,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0455",
-      "REF-0456",
       "REF-0588"
      ]
     },
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 5,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -7844,19 +7685,9 @@
     {
      "condition": "skin-irritation",
      "label": "Skin irritation",
-     "evidence": 5,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0455"
-     ]
-    },
-    {
-     "condition": "sore-throat",
-     "label": "Sore throat",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0455"
      ]
@@ -7864,14 +7695,28 @@
     {
      "condition": "wounds",
      "label": "Wounds",
-     "evidence": 5,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0455",
-      "REF-0456",
-      "REF-0588"
+      "REF-0455"
      ]
+    },
+    {
+     "condition": "bloating",
+     "label": "Bloating",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
+    },
+    {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
     }
    ]
   },
@@ -9045,7 +8890,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0141"
+      "REF-3077"
      ]
     },
     {
@@ -9246,17 +9091,6 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "bronchitis",
-     "label": "Bronchitis",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0845",
-      "REF-1804"
-     ]
-    },
-    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -9267,24 +9101,12 @@
      ]
     },
     {
-     "condition": "cough",
-     "label": "Cough",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0845",
-      "REF-1804"
-     ]
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
      "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0845",
       "REF-1804"
      ]
     },
@@ -9295,29 +9117,24 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0845",
       "REF-1804"
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
+     "condition": "bronchitis",
+     "label": "Bronchitis",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0845"
-     ]
+     "references": []
     },
     {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
+     "condition": "cough",
+     "label": "Cough",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0845"
-     ]
+     "references": []
     }
    ]
   },
@@ -12315,54 +12132,12 @@
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0181"
-     ]
-    },
-    {
      "condition": "bruising",
      "label": "Bruising",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0181"
-     ]
-    },
-    {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0181"
-     ]
-    },
-    {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0181"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0181"
-     ]
+     "references": []
     },
     {
      "condition": "inflammation",
@@ -12370,9 +12145,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0181"
-     ]
+     "references": []
     },
     {
      "condition": "insomnia",
@@ -12380,19 +12153,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0181"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0181"
-     ]
+     "references": []
     },
     {
      "condition": "wounds",
@@ -12400,9 +12161,7 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0181"
-     ]
+     "references": []
     }
    ]
   },
@@ -16017,6 +15776,37 @@
    "wp_post_id": 174,
    "indications": [
     {
+     "condition": "bronchitis",
+     "label": "Bronchitis",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1746"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0348",
+      "REF-1746"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1746"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -16024,16 +15814,6 @@
      "inferred": true,
      "references": [
       "REF-0348"
-     ]
-    },
-    {
-     "condition": "bronchitis",
-     "label": "Bronchitis",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0339"
      ]
     },
     {
@@ -16050,11 +15830,9 @@
      "condition": "cough",
      "label": "Cough",
      "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0348"
-     ]
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
     },
     {
      "condition": "diarrhea",
@@ -16067,28 +15845,8 @@
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0348"
-     ]
-    },
-    {
      "condition": "respiratory-support",
      "label": "Respiratory support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0339"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -16321,30 +16079,6 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "back-pain",
-     "label": "Back pain",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0526",
-      "REF-0527",
-      "REF-0622"
-     ]
-    },
-    {
-     "condition": "headache",
-     "label": "Headache",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0526",
-      "REF-0527",
-      "REF-0622"
-     ]
-    },
-    {
      "condition": "insomnia",
      "label": "Insomnia / sleeplessness",
      "evidence": 2,
@@ -16352,7 +16086,8 @@
      "inferred": true,
      "references": [
       "REF-0526",
-      "REF-0622"
+      "REF-0622",
+      "REF-0527"
      ]
     },
     {
@@ -16378,28 +16113,35 @@
      ]
     },
     {
+     "condition": "back-pain",
+     "label": "Back pain",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
+    },
+    {
      "condition": "cough",
      "label": "Cough",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0526"
+      "REF-0526",
+      "REF-0527"
      ]
+    },
+    {
+     "condition": "headache",
+     "label": "Headache",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": []
     },
     {
      "condition": "nervous-tension",
      "label": "Nervous tension",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0526"
-     ]
-    },
-    {
-     "condition": "stress",
-     "label": "Stress",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

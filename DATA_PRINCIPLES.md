@@ -200,7 +200,9 @@ design — honor them and the redesign is safe; break one and it isn't:
    during an audit may be added as a new source, whether its result is positive or null.
    A species name long misapplied in a literature counts for the species it was applied to,
    noted on the record: "Ganoderma lucidum" in East Asian reishi/lingzhi research counts for
-   Ganoderma lingzhi.
+   Ganoderma lingzhi. A health-content web page with no checkable references is not a source
+   (Ask-Ayurveda wiki); a referenced, practitioner-written page (Herbal Reality) counts only for
+   what it names.
 
 A precise "8/10" shown to a consumer implies more rigor than AI-assigned tags carry —
 treat the number as a claim that itself must be earned (see §10).

@@ -149,10 +149,11 @@ indications:
   - REF-1859
   - REF-1860
 - condition: bronchitis
-  note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy)
-  reference_ids:
+  note: inferred from expectorant action
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0445
-  status: verified
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -161,8 +162,7 @@ indications:
   - REF-1867
   status: needs-review
 - condition: cough
-  note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy); Soothes irritated
-    airways / chronic catarrh (traditional)
+  note: inferred from expectorant action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
@@ -195,12 +195,12 @@ indications:
   - REF-1858
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0445
-  - REF-0539
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0540
+  - REF-0445
+  - REF-0539
 contraindications:
 - note: The sesquiterpene lactones (especially alantolactone) are known skin sensitisers and can cause
     allergic contact dermatitis; people sensitive to the daisy family (Asteraceae) should be cautious.
@@ -258,4 +258,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antim
   campaign''s integrity bar the entry is left unsourced at status draft rather than attached to a
   tangentially-related paper. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
   root (provisional: PFAF REF-3277, dug in autumn from 2-3 year old plants). Single lineage. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-10: symptom-source audit batch 9 - REF-0445 (Kenny 2022: in vitro anti-staphylococcal;
+  "respiratory and dermal ailments" in Irish ethnomedicine) removed from bronchitis and wounds;
+  retagged preclinical. REF-0539 (anti-staphylococcal essential oil) removed from wounds.
+  | 2026-11-10: symptom-source audit batch 9 - notes of pairs left mechanistic-only reset to
+  "inferred from ... action".'

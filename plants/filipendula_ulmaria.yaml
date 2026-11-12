@@ -207,7 +207,7 @@ indications:
   - REF-0033
   - REF-0098
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: EU traditional use for minor joint (articular) pain
   reference_ids:
   - REF-3072
   status: needs-review
@@ -261,6 +261,7 @@ indications:
   - REF-0033
   - REF-0098
   - REF-0062
+  note: EU traditional use for minor joint (articular) pain
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -361,4 +362,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (dropsy) only. REF-0062 (Drummond, PubMed 22711544, THP1 macrophages) names inflammation only;
   retagged preclinical, abstract and DOI added. EU monograph REF-3072 (supportive treatment of
   common cold; relief of minor articular pain - EMA page 429, flagged for owner spot-check) added
-  to arthritis and pain.'
+  to arthritis and pain.
+  | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
+  only the sources still cited (batch 6-7 follow-up).'

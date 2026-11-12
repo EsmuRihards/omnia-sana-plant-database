@@ -137,16 +137,15 @@ indications:
   - REF-0453
   status: verified
 - condition: bloating
-  note: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric
-    acid, enzyme and bile secretion)
+  note: inferred from digestive action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0453
   - REF-0580
 - condition: indigestion
-  note: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric
-    acid, enzyme and bile secretion)
+  note: Bitter digestive aid for mild dyspeptic complaints such as indigestion and fullness (EU traditional
+    use)
   reference_ids:
   - REF-0453
   status: verified
@@ -239,4 +238,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   loss of appetite; mild dyspeptic/gastrointestinal disorders - EMA page 429, flagged for owner
   spot-check) kept for appetite-loss and indigestion, removed from bloating. REF-0580 is a
   genus-level Gentiana review (Chinese species, prose-only attribution) - removed from bloating
-  and indigestion; retagged narrative-review.'
+  and indigestion; retagged narrative-review.
+  | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
+  only the sources still cited (batch 6-7 follow-up).'

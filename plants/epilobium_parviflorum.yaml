@@ -156,9 +156,8 @@ indications:
   - REF-0403
   status: needs-review
 - condition: prostate-support
-  note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus
-    Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence
-    is not yet conclusive
+  note: EU traditional use for lower urinary tract symptoms of benign prostatic hyperplasia, once serious
+    conditions are excluded by a doctor; a review judged the clinical evidence not yet conclusive
   reference_ids:
   - REF-0403
   - REF-3075
@@ -172,9 +171,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0403
 - condition: urinary-support
-  note: Antibacterial, including against Escherichia coli (urinary support); Supports lower urinary tract
-    symptoms of benign prostatic hyperplasia (prostate support) - a genus Epilobium review notes traditional
-    BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive
+  note: EU traditional use for lower urinary tract symptoms related to benign prostatic hyperplasia
   reference_ids:
   - REF-3075
   status: verified
@@ -244,4 +241,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   or too preliminary to draw a final conclusion" - moved to null_result_ids for prostate-support;
   removed from urinary-support and UTI. EU monograph REF-3075 (E. parviflorum named; lower urinary
   tract symptoms related to BPH - EMA page 429, flagged for owner spot-check) added to
-  prostate-support and urinary-support.'
+  prostate-support and urinary-support.
+  | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
+  only the sources still cited (batch 6-7 follow-up).'

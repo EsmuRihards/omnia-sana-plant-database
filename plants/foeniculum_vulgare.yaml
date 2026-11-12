@@ -155,7 +155,7 @@ actions:
   status: verified
 indications:
 - condition: cough
-  note: inferred from expectorant action
+  note: EU traditional use as an expectorant in cough associated with a cold
   reference_ids:
   - REF-3080
   status: needs-review
@@ -169,8 +169,9 @@ indications:
   mechanistic_exclude_ids:
   - REF-1656
 - condition: menstrual-cramps
-  note: Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of RCTs find fennel reduces pain
-    intensity versus placebo, comparable to mefenamic acid
+  note: Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of small RCTs find fennel reduces
+    pain intensity versus placebo, similar to mefenamic acid; a Cochrane review judged the fennel evidence
+    inconsistent. EU traditional use for minor menstrual spasm
   reference_ids:
   - REF-0604
   - REF-0605
@@ -382,4 +383,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   retagged narrative-review) names respiratory ailments, antimicrobial and antispasmodic activity
   - removed from bronchitis, cough, wounds. EU monograph REF-3080 (bitter fennel fruit: minor
   spasm with menstrual periods; expectorant in cough associated with cold - EMA page 429, flagged)
-  added to menstrual-cramps, cough, respiratory-support.'
+  added to menstrual-cramps, cough, respiratory-support.
+  | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
+  only the sources still cited (batch 6-7 follow-up).'

@@ -122,7 +122,7 @@ actions:
   status: verified
 indications:
 - condition: swelling
-  note: Supports mild fluid retention / swelling
+  note: inferred from diuretic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
@@ -181,4 +181,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   flagged for owner spot-check) and ESCOP REF-0438 (page verified: "irritable bladder and other
   urinary tract disorders") kept for urinary-support only; removed from swelling and UTI (birch
   precedent). REF-2563 (rat study: A. repens infusion had no positive effect on urolithiasis risk
-  factors) recorded in null_result_ids for urinary-support and hidden from its mechanistic cards.'
+  factors) recorded in null_result_ids for urinary-support and hidden from its mechanistic cards.
+  | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
+  only the sources still cited (batch 6-7 follow-up).'

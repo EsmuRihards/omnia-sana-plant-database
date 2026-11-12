@@ -147,10 +147,9 @@ indications:
   - REF-2581
   status: needs-review
 - condition: eye-strain
-  note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
-    as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported
-    recovery or clear improvement in most patients with conjunctivitis; Eases eye strain and watery, itchy
-    eyes from allergy (hay fever / allergic conjunctivitis)
+  note: 'Traditional eye compress or bath for eye irritation, redness and eye strain. Clinical evidence
+    is lacking: the EMA found its efficacy undocumented and advises against home-made eye preparations,
+    which are not sterile'
   reference_ids:
   - REF-0448
   - REF-0449
@@ -258,4 +257,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-
   eye-strain. Herbal Reality REF-0449 (page read) names allergy/hay fever, catarrh/sinusitis,
   asthma, common cold, eye conditions incl. eyestrain, eye/nasal inflammation and infections -
   removed from arthritis, cough, diarrhea, fever, skin, wounds. REF-2581 (E. officinalis subsp.
-  pratensis) names antimicrobial and antiproliferative activity only - removed from inflammation.'
+  pratensis) names antimicrobial and antiproliferative activity only - removed from inflammation.
+  | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
+  only the sources still cited (batch 6-7 follow-up).'

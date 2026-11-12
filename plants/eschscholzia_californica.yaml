@@ -134,8 +134,8 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  note: Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California
-    poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety
+  note: Anxiolytic for anxiety and nervous tension (its alkaloids act on GABA-A receptors; laboratory
+    evidence)
   reference_ids:
   - REF-0427
   status: verified
@@ -152,14 +152,14 @@ indications:
   mechanistic_exclude_ids:
   - REF-0427
 - condition: insomnia
-  note: Mild sedative / sleep support for insomnia (positive allosteric modulation of GABA-A receptors)
+  note: Mild sedative to aid sleep (EU traditional use; acts on GABA-A receptors in the laboratory)
   reference_ids:
   - REF-0427
   - REF-3099
   status: verified
 - condition: nervous-tension
-  note: Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California
-    poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety
+  note: Anxiolytic for anxiety and nervous tension (its alkaloids act on GABA-A receptors; laboratory
+    evidence)
   reference_ids:
   - REF-0427
   status: verified
@@ -169,7 +169,7 @@ indications:
   - REF-0427
   status: needs-review
 - condition: stress
-  note: inferred from anxiolytic action
+  note: EU traditional use for mild symptoms of mental stress
   reference_ids:
   - REF-3099
   status: needs-review
@@ -256,4 +256,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor
   (Crataegus + Eschscholzia + magnesium), not California poppy alone. REF-0427 (in vitro GABA-A)
   names sedative, anxiolytic and analgesic effects - removed from back-pain, headache, stress. EU
   monograph REF-3099 (relief of mild symptoms of mental stress and to aid sleep; EMA page 429 -
-  flagged for owner spot-check) added to stress and insomnia.'
+  flagged for owner spot-check) added to stress and insomnia.
+  | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
+  only the sources still cited (batch 6-7 follow-up).'

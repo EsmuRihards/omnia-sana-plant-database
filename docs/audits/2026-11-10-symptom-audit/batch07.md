@@ -33,6 +33,7 @@ Result: 132 changes; site-wide pairs 1,433 -> 1,411; 4 refs deleted, 1 added. Lo
   spasm, cough with colds) was added.
 - **Gentian.** A genus-level Gentiana review was removed. The EU monograph names appetite and
   dyspepsia, not bloating.
+- **Indication notes** (shown on the site as the claim text) were rewritten where they still described removed evidence: California poppy (combination RCT), eyebright (D3 eye-drop cohort), fennel, gentian, meadowsweet, and two batch-6 plants (willowherb, couch grass). Script: `fix_batch07_notes.py`.
 - **Retags:** 7 refs. Metadata and abstracts were added to 3.
 
 ## For your spot-check (bot-blocked, kept per your batch-5 decision)

@@ -20065,7 +20065,7 @@
    "indications": [
     {
      "condition": "swelling",
-     "note": "Supports mild fluid retention / swelling",
+     "note": "inferred from diuretic action",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -20337,7 +20337,7 @@
     },
     {
      "condition": "prostate-support",
-     "note": "Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive",
+     "note": "EU traditional use for lower urinary tract symptoms of benign prostatic hyperplasia, once serious conditions are excluded by a doctor; a review judged the clinical evidence not yet conclusive",
      "reference_ids": [
       "REF-0403",
       "REF-3075"
@@ -20362,7 +20362,7 @@
     },
     {
      "condition": "urinary-support",
-     "note": "Antibacterial, including against Escherichia coli (urinary support); Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive",
+     "note": "EU traditional use for lower urinary tract symptoms related to benign prostatic hyperplasia",
      "reference_ids": [
       "REF-3075"
      ],
@@ -21226,7 +21226,7 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety",
+     "note": "Anxiolytic for anxiety and nervous tension (its alkaloids act on GABA-A receptors; laboratory evidence)",
      "reference_ids": [
       "REF-0427"
      ],
@@ -21258,7 +21258,7 @@
     },
     {
      "condition": "insomnia",
-     "note": "Mild sedative / sleep support for insomnia (positive allosteric modulation of GABA-A receptors)",
+     "note": "Mild sedative to aid sleep (EU traditional use; acts on GABA-A receptors in the laboratory)",
      "reference_ids": [
       "REF-0427",
       "REF-3099"
@@ -21269,7 +21269,7 @@
     },
     {
      "condition": "nervous-tension",
-     "note": "Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety",
+     "note": "Anxiolytic for anxiety and nervous tension (its alkaloids act on GABA-A receptors; laboratory evidence)",
      "reference_ids": [
       "REF-0427"
      ],
@@ -21289,7 +21289,7 @@
     },
     {
      "condition": "stress",
-     "note": "inferred from anxiolytic action",
+     "note": "EU traditional use for mild symptoms of mental stress",
      "reference_ids": [
       "REF-3099"
      ],
@@ -21876,7 +21876,7 @@
     },
     {
      "condition": "eye-strain",
-     "note": "Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional, as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported recovery or clear improvement in most patients with conjunctivitis; Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)",
+     "note": "Traditional eye compress or bath for eye irritation, redness and eye strain. Clinical evidence is lacking: the EMA found its efficacy undocumented and advises against home-made eye preparations, which are not sterile",
      "reference_ids": [
       "REF-0448",
       "REF-0449"
@@ -22253,7 +22253,7 @@
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "EU traditional use for minor joint (articular) pain",
      "reference_ids": [
       "REF-3072"
      ],
@@ -22341,6 +22341,7 @@
       "REF-0098",
       "REF-0062"
      ],
+     "note": "EU traditional use for minor joint (articular) pain",
      "evidence": 1,
      "label": "Pain (general)"
     },
@@ -23207,7 +23208,7 @@
    "indications": [
     {
      "condition": "cough",
-     "note": "inferred from expectorant action",
+     "note": "EU traditional use as an expectorant in cough associated with a cold",
      "reference_ids": [
       "REF-3080"
      ],
@@ -23233,7 +23234,7 @@
     },
     {
      "condition": "menstrual-cramps",
-     "note": "Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of RCTs find fennel reduces pain intensity versus placebo, comparable to mefenamic acid",
+     "note": "Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of small RCTs find fennel reduces pain intensity versus placebo, similar to mefenamic acid; a Cochrane review judged the fennel evidence inconsistent. EU traditional use for minor menstrual spasm",
      "reference_ids": [
       "REF-0604",
       "REF-0605",
@@ -24406,7 +24407,7 @@
     },
     {
      "condition": "bloating",
-     "note": "Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric acid, enzyme and bile secretion)",
+     "note": "inferred from digestive action",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -24418,7 +24419,7 @@
     },
     {
      "condition": "indigestion",
-     "note": "Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric acid, enzyme and bile secretion)",
+     "note": "Bitter digestive aid for mild dyspeptic complaints such as indigestion and fullness (EU traditional use)",
      "reference_ids": [
       "REF-0453"
      ],

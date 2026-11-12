@@ -167,17 +167,15 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0198
-  - REF-0270
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0866
   - REF-0867
-- condition: cardiovascular-support
-  reference_ids:
   - REF-0198
   - REF-0270
+- condition: cardiovascular-support
+  reference_ids:
   - REF-0860
   - REF-0861
   - REF-0866
@@ -186,36 +184,37 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
+  - REF-0861
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0198
   - REF-0270
-  status: needs-review
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
+  - REF-0861
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0198
   - REF-0270
   - REF-0864
-  status: needs-review
 - condition: menstrual-cramps
   reference_ids:
-  - REF-0198
-  - REF-0270
+  - REF-0860
   status: verified
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0198
   - REF-0270
-  status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0198
-  - REF-0270
+  - REF-0861
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0866
   - REF-0867
+  - REF-0198
+  - REF-0270
 contraindications:
 - note: Contraindicated in pregnancy (uterine stimulant). Avoid in heavy menstrual bleeding. May enhance
     anticoagulant and antihypertensive drug effects. Avoid in thyroid disorders. Generally well tolerated
@@ -287,4 +286,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   confirmed present on the plant, and the dose form / plant part / route checked for mismatch; text rewritten
   to the source rather than having a reference stapled on. | 2026-08-15: Harvest Calendar (phenological) -
   added harvest_readiness for flower + leaf + stem (all provisional: PFAF REF-3284, flowering herb cut in
-  summer while in flower). Single lineage. Binomial confirmed.'
+  summer while in flower). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 10 - REF-0198 (Prajapati, A Handbook of Medicinal
+  Plants) removed from every symptom as unverifiable; REF-0270 (Shang 2014, "The genus Leonurus",
+  mostly L. japonicus) is genus-level - both removed. L. cardiaca reviews wired where they name
+  the use: REF-0860 (cardiotonic; dysmenorrhoea, amenorrhoea) -> menstrual-cramps; REF-0861
+  (nervous heart conditions; sedative effects in clinical trials; wounds and skin inflammations)
+  -> insomnia, inflammation, skin-irritation. REF-0864 (anxiolytic in animals) removed from
+  insomnia.'

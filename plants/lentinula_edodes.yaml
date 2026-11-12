@@ -140,43 +140,31 @@ indications:
   mechanistic_exclude_ids:
   - REF-0300
   - REF-0315
-- condition: cardiovascular-support
-  reference_ids:
-  - REF-0315
-  status: verified
 - condition: cold
   note: inferred from antiviral action
-  reference_ids:
-  - REF-0293
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
   - REF-0315
   - REF-1170
-- condition: immune-support
-  reference_ids:
   - REF-0293
-  status: verified
+- condition: immune-support
+  reference_ids: []
+  status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
   - REF-0315
   - REF-1170
+  - REF-0293
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0293
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
   - REF-0315
-- condition: metabolic-support
-  note: inferred from antidiabetic action
-  reference_ids:
-  - REF-0315
-  status: needs-review
-  mechanistic_exclude_ids:
   - REF-0293
-  - REF-0300
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
@@ -252,4 +240,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph covers shiitake. Human lentinan studies use an injectable purified beta-glucan at oncology
   doses, which cannot be read across to an oral dried-mushroom extract. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for fruiting-body (provisional: The Spore Depot REF-3286; caps
-  80-90% open and 2-4 in wide, edges still curled under, before flattening). Binomial confirmed.'
+  80-90% open and 2-4 in wide, edges still curled under, before flattening). Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 10 - REF-0293 (Vethanayagam 1996, "Lentinan - a novel
+  immunomodulator") and REF-0315 (Yokota 1989, eritadenine observatory trial) could not be located
+  in PubMed - removed from every symptom as unverifiable. REF-0300 (multi-mushroom review)
+  retagged narrative-review.'

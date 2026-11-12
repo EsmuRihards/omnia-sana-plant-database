@@ -202,7 +202,9 @@ design — honor them and the redesign is safe; break one and it isn't:
    noted on the record: "Ganoderma lucidum" in East Asian reishi/lingzhi research counts for
    Ganoderma lingzhi. A health-content web page with no checkable references is not a source
    (Ask-Ayurveda wiki); a referenced, practitioner-written page (Herbal Reality) counts only for
-   what it names.
+   what it names. A product registered as homeopathic but made at mother-tincture strength (a 10%
+   plant extract, e.g. Releva Mahonia cream) counts as plant evidence, labelled in the note;
+   serial dilutions (D3 and beyond, pellets) do not.
 
 A precise "8/10" shown to a consumer implies more rigor than AI-assigned tags carry —
 treat the number as a claim that itself must be earned (see §10).

@@ -154,87 +154,64 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0043
-  - REF-0155
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0265
+  - REF-0043
+  - REF-0155
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-2214
   status: needs-review
-- condition: eczema
-  note: inferred from emollient action
-  reference_ids:
-  - REF-0043
-  - REF-0155
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0265
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0043
-  - REF-0155
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0265
+  - REF-0043
+  - REF-0155
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0043
-  - REF-0155
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0265
-- condition: insomnia
-  note: inferred from sedative action
-  reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
+- condition: insomnia
+  note: EU traditional use to aid sleep and relieve mild mental stress and exhaustion
+  reference_ids:
+  - REF-3071
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2208
   - REF-2210
   - REF-2212
   - REF-2215
+  - REF-0043
+  - REF-0155
+  - REF-0265
   null_result_ids:
   - REF-0858
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0043
-  - REF-0155
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0265
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0043
-  - REF-0155
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0265
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0043
-  - REF-0155
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0265
+  - REF-0043
+  - REF-0155
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0043
-  - REF-0155
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0265
+  - REF-0043
+  - REF-0155
 contraindications:
 - note: Generally very safe. Essential oil should not be ingested in large amounts. Rarely, contact dermatitis
     may occur. May potentiate the effect of sedative medications. Avoid therapeutic doses during pregnancy.
@@ -357,4 +334,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   full bloom in mid-to-late summer). Single lineage. Binomial confirmed.
   | 2026-11-10: symptom-source audit batch 3 - REF-0858 (RCT, lavender oil inhalation,
   postmenopausal insomnia: no significant difference on the primary outcome) recorded in
-  null_result_ids for insomnia.'
+  null_result_ids for insomnia.
+  | 2026-11-10: symptom-source audit batch 10 - REF-0043 (Cavanagh 2002, oils of four Lavandula
+  species, "data still inconclusive") is a genus-level review and REF-0155 (Lis-Balchin, Lavender:
+  The Genus Lavandula, book) is unverifiable and genus-level - both removed from all 9 pairs.
+  REF-0265 (Schuwald 2013) is a mechanism study of anxiolytic action, not an RCT (retagged
+  preclinical) - removed from insomnia. EU flower monograph REF-3071 (relief of mild symptoms of
+  mental stress and exhaustion and to aid sleep - EMA page 429, flagged for owner spot-check)
+  added to insomnia; REF-0858 stays in null_result_ids.'

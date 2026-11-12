@@ -124,7 +124,8 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids: []
+  reference_ids:
+  - REF-0488
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0487
@@ -153,9 +154,9 @@ indications:
   - REF-1182
   status: needs-review
 - condition: psoriasis
-  note: Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis); Topical
-    treatment of mild-to-moderate psoriasis (reduces plaque severity) - a double-blind, placebo-controlled
-    RCT showed significant improvement in PASI and quality-of-life scores
+  note: Topical 10% Mahonia aquifolium cream reduced plaque severity in mild-to-moderate psoriasis (double-blind
+    placebo-controlled RCT and other trials; the cream is registered in the US as a homeopathic product
+    but is a 10% plant extract)
   reference_ids:
   - REF-0487
   - REF-0591
@@ -223,4 +224,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J C
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
   sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15:
   Harvest Calendar (phenological) - added harvest_readiness for root (provisional: PFAF REF-3291, root and
-  root bark best dug in autumn, or early spring). Single lineage. Binomial confirmed.'
+  root bark best dug in autumn, or early spring). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 10 - Owner decision 2026-11-12: Releva (10% M.
+  aquifolium cream, US homeopathic registration) counts as plant evidence - labelled in the
+  psoriasis note. Herbal Reality REF-0488 (page read) names gout, rheumatism and arthritis - added
+  to arthritis.'

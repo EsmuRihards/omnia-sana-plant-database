@@ -240,89 +240,52 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0112
-  - REF-0189
   - REF-0280
   - REF-2349
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0079
-- condition: back-pain
-  note: inferred from analgesic action
-  reference_ids:
   - REF-0112
   - REF-0189
-  - REF-0280
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0079
-  - REF-2349
-  - REF-2351
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0079
-  - REF-0112
-  - REF-0189
-  - REF-0280
-  status: needs-review
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-0112
-  - REF-0189
-  - REF-0280
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0079
-- condition: eczema
-  note: inferred from emollient action
-  reference_ids:
-  - REF-0079
   - REF-0112
   - REF-0189
   - REF-0280
-  status: needs-review
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0112
-  - REF-0189
-  - REF-0280
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0079
-  - REF-2349
-  - REF-2351
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0079
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0112
   - REF-0189
   - REF-0280
-  status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0079
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0112
   - REF-0189
   - REF-0280
-  status: needs-review
+  - REF-0079
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0079
-  - REF-0112
-  - REF-0189
   - REF-0280
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
+  - REF-0189
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0112
-  - REF-0189
   - REF-0280
   - REF-1154
   status: needs-review
@@ -331,50 +294,54 @@ indications:
   - REF-1155
   - REF-1156
   - REF-1160
+  - REF-0112
+  - REF-0189
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
-  - REF-0112
-  - REF-0189
-  - REF-0280
   - REF-2351
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0079
+  - REF-0112
+  - REF-0189
+  - REF-0280
 - condition: muscle-spasm
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0079
-  - REF-0112
-  - REF-0189
   - REF-0280
   status: needs-review
-- condition: pain
-  reference_ids:
+  mechanistic_exclude_ids:
   - REF-0112
   - REF-0189
+- condition: pain
+  reference_ids:
   - REF-0280
   status: verified
   mechanistic_exclude_ids:
   - REF-0079
+  - REF-0112
+  - REF-0189
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0079
-  - REF-0112
-  - REF-0189
-  - REF-0280
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2349
+  - REF-0112
+  - REF-0189
+  - REF-0280
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0079
-  - REF-0112
-  - REF-0189
   - REF-0280
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0112
+  - REF-0189
 - condition: anxiety
   reference_ids:
   - REF-1155
@@ -538,4 +505,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing ethnomedicinal/phytochemical reviews (REF-1153, REF-1158,
   REF-1162) and book refs. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower
-  (provisional: PFAF REF-3289, flowerheads picked when fully open). Single lineage. Binomial confirmed.'
+  (provisional: PFAF REF-3289, flowerheads picked when fully open). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 10 - REF-0112 (Hoffmann, Medical Herbalism;
+  unverifiable since batch 2) and REF-0189 (Padula 2006, "Chamomile: industrial profiles"; not
+  locatable) removed from every symptom as unverifiable. REF-0280 (Srivastava 2010 review; lumps
+  German and Roman chamomile, counts for M. chamomilla per the type-species rule) names hay fever,
+  inflammation, muscle spasms, insomnia, ulcers, wounds, rheumatic pain, haemorrhoids - removed
+  from 9 pairs (incl. menstrual-cramps: "menstrual disorders" is vague) and retagged. EU monograph
+  REF-0079 (minor GI complaints such as bloating and minor spasms; common cold; mouth and throat
+  inflammation; minor skin inflammation, superficial wounds - EMA page 429, flagged) removed from
+  eczema and infection.'

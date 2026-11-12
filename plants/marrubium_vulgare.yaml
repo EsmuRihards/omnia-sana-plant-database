@@ -152,41 +152,43 @@ indications:
   reference_ids:
   - REF-0468
   - REF-0921
+  - REF-0469
   status: verified
 - condition: bloating
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
   reference_ids:
   - REF-0468
+  - REF-0469
   status: verified
 - condition: bronchitis
   note: Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis
   reference_ids:
-  - REF-0468
-  - REF-0469
   - REF-0921
   status: verified
   mechanistic_exclude_ids:
   - REF-0926
+  - REF-0468
+  - REF-0469
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-2558
   status: needs-review
 - condition: cough
-  note: Antispasmodic (traditional use in whooping cough); Expectorant for productive cough and catarrh
-    of the upper respiratory tract / bronchitis
+  note: EU traditional use as an expectorant in cough associated with a cold
   reference_ids:
   - REF-0468
-  - REF-0469
-  - REF-0921
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0926
+  - REF-0469
+  - REF-0921
 - condition: indigestion
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
   reference_ids:
   - REF-0468
   - REF-0921
+  - REF-0469
   status: verified
 - condition: respiratory-support
   note: inferred from expectorant action
@@ -242,4 +244,12 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
   part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for aerial-parts (provisional: PFAF REF-3288, flowering herb cut as it comes into
-  flower). Single lineage. Binomial confirmed.'
+  flower). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 10 - EU monograph REF-0468 (expectorant in cough
+  associated with cold; mild dyspeptic complaints such as bloating and flatulence; temporary loss
+  of appetite - EMA page 429, flagged) removed from bronchitis. ESCOP REF-0469 (page read:
+  dyspeptic complaints such as bloating and flatulence, lack of appetite, catarrh of the upper
+  respiratory tract) removed from bronchitis and cough, added to bloating, appetite-loss,
+  indigestion. REF-0921 (critical review "More of a myth than a reality?") names bronchitis,
+  colds, asthma, lack of appetite and dyspepsia as traditional uses - removed from cough;
+  retagged.'

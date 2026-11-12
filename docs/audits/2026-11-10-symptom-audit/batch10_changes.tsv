@@ -1,0 +1,135 @@
+plant	condition	ref	op
+lavandula_angustifolia	arthritis	REF-0043	rm
+lavandula_angustifolia	arthritis	REF-0155	rm
+lavandula_angustifolia	eczema	REF-0043	rm
+lavandula_angustifolia	eczema	REF-0155	rm
+lavandula_angustifolia	infection	REF-0043	rm
+lavandula_angustifolia	infection	REF-0155	rm
+lavandula_angustifolia	inflammation	REF-0043	rm
+lavandula_angustifolia	inflammation	REF-0155	rm
+lavandula_angustifolia	insomnia	REF-0043	rm
+lavandula_angustifolia	insomnia	REF-0155	rm
+lavandula_angustifolia	menstrual-cramps	REF-0043	rm
+lavandula_angustifolia	menstrual-cramps	REF-0155	rm
+lavandula_angustifolia	muscle-spasm	REF-0043	rm
+lavandula_angustifolia	muscle-spasm	REF-0155	rm
+lavandula_angustifolia	skin-irritation	REF-0043	rm
+lavandula_angustifolia	skin-irritation	REF-0155	rm
+lavandula_angustifolia	wounds	REF-0043	rm
+lavandula_angustifolia	wounds	REF-0155	rm
+lavandula_angustifolia	insomnia	REF-0265	rm
+lavandula_angustifolia	insomnia	REF-3071	add
+lavandula_angustifolia	insomnia	-	note
+lavandula_angustifolia	eczema	-	drop(no evidence left)
+lavandula_angustifolia	menstrual-cramps	-	drop(no evidence left)
+lavandula_angustifolia	muscle-spasm	-	drop(no evidence left)
+lentinula_edodes	cold	REF-0293	rm
+lentinula_edodes	immune-support	REF-0293	rm
+lentinula_edodes	infection	REF-0293	rm
+lentinula_edodes	cardiovascular-support	REF-0315	rm
+lentinula_edodes	metabolic-support	REF-0315	rm
+lentinula_edodes	cardiovascular-support	-	drop(no evidence left)
+lentinula_edodes	immune-support	-	needs-review(mechanistic only)
+lentinula_edodes	metabolic-support	-	drop(no evidence left)
+leonurus_cardiaca	arthritis	REF-0198	rm
+leonurus_cardiaca	arthritis	REF-0270	rm
+leonurus_cardiaca	cardiovascular-support	REF-0198	rm
+leonurus_cardiaca	cardiovascular-support	REF-0270	rm
+leonurus_cardiaca	inflammation	REF-0198	rm
+leonurus_cardiaca	inflammation	REF-0270	rm
+leonurus_cardiaca	insomnia	REF-0198	rm
+leonurus_cardiaca	insomnia	REF-0270	rm
+leonurus_cardiaca	menstrual-cramps	REF-0198	rm
+leonurus_cardiaca	menstrual-cramps	REF-0270	rm
+leonurus_cardiaca	muscle-spasm	REF-0198	rm
+leonurus_cardiaca	muscle-spasm	REF-0270	rm
+leonurus_cardiaca	skin-irritation	REF-0198	rm
+leonurus_cardiaca	skin-irritation	REF-0270	rm
+leonurus_cardiaca	insomnia	REF-0864	rm
+leonurus_cardiaca	menstrual-cramps	REF-0860	add
+leonurus_cardiaca	insomnia	REF-0861	add
+leonurus_cardiaca	inflammation	REF-0861	add
+leonurus_cardiaca	skin-irritation	REF-0861	add
+leonurus_cardiaca	muscle-spasm	-	drop(no evidence left)
+linum_usitatissimum	cardiovascular-support	-	note
+linum_usitatissimum	metabolic-support	-	note
+linum_usitatissimum	inflammation	-	note
+lysimachia_vulgaris	wounds	REF-2796	add
+lysimachia_vulgaris	inflammation	REF-2795	rm
+lysimachia_vulgaris	inflammation	REF-2796	add
+lysimachia_vulgaris	high-cholesterol	REF-2797	rm
+lysimachia_vulgaris	metabolic-support	REF-2794	rm
+lysimachia_vulgaris	metabolic-support	REF-2797	rm
+lysimachia_vulgaris	liver-support	REF-2797	add
+lysimachia_vulgaris	metabolic-support	-	drop(no evidence left)
+mahonia_aquifolium	arthritis	REF-0488	add
+mahonia_aquifolium	psoriasis	-	note
+malva_sylvestris	arthritis	REF-0541	rm
+malva_sylvestris	arthritis	REF-0542	rm
+malva_sylvestris	back-pain	REF-0541	rm
+malva_sylvestris	back-pain	REF-0542	rm
+malva_sylvestris	bruising	REF-0541	rm
+malva_sylvestris	bruising	REF-0542	rm
+malva_sylvestris	headache	REF-0541	rm
+malva_sylvestris	headache	REF-0542	rm
+malva_sylvestris	wounds	REF-0542	rm
+malva_sylvestris	pain	REF-1190	null
+malva_sylvestris	wounds	REF-1190	null
+malva_sylvestris	skin-irritation	REF-0480	rm
+malva_sylvestris	cough	REF-0542	add
+malva_sylvestris	back-pain	-	drop(no evidence left)
+malva_sylvestris	bruising	-	drop(no evidence left)
+malva_sylvestris	headache	-	drop(no evidence left)
+marrubium_vulgare	bronchitis	REF-0468	rm
+marrubium_vulgare	bronchitis	REF-0469	rm
+marrubium_vulgare	cough	REF-0469	rm
+marrubium_vulgare	cough	REF-0921	rm
+marrubium_vulgare	bloating	REF-0469	add
+marrubium_vulgare	appetite-loss	REF-0469	add
+marrubium_vulgare	indigestion	REF-0469	add
+marrubium_vulgare	cough	-	note
+matricaria_chamomilla	arthritis	REF-0112	rm
+matricaria_chamomilla	arthritis	REF-0189	rm
+matricaria_chamomilla	back-pain	REF-0112	rm
+matricaria_chamomilla	back-pain	REF-0189	rm
+matricaria_chamomilla	bloating	REF-0112	rm
+matricaria_chamomilla	bloating	REF-0189	rm
+matricaria_chamomilla	bruising	REF-0112	rm
+matricaria_chamomilla	bruising	REF-0189	rm
+matricaria_chamomilla	eczema	REF-0112	rm
+matricaria_chamomilla	eczema	REF-0189	rm
+matricaria_chamomilla	headache	REF-0112	rm
+matricaria_chamomilla	headache	REF-0189	rm
+matricaria_chamomilla	indigestion	REF-0112	rm
+matricaria_chamomilla	indigestion	REF-0189	rm
+matricaria_chamomilla	infection	REF-0112	rm
+matricaria_chamomilla	infection	REF-0189	rm
+matricaria_chamomilla	inflammation	REF-0112	rm
+matricaria_chamomilla	inflammation	REF-0189	rm
+matricaria_chamomilla	insomnia	REF-0112	rm
+matricaria_chamomilla	insomnia	REF-0189	rm
+matricaria_chamomilla	menstrual-cramps	REF-0112	rm
+matricaria_chamomilla	menstrual-cramps	REF-0189	rm
+matricaria_chamomilla	muscle-spasm	REF-0112	rm
+matricaria_chamomilla	muscle-spasm	REF-0189	rm
+matricaria_chamomilla	pain	REF-0112	rm
+matricaria_chamomilla	pain	REF-0189	rm
+matricaria_chamomilla	skin-irritation	REF-0112	rm
+matricaria_chamomilla	skin-irritation	REF-0189	rm
+matricaria_chamomilla	wounds	REF-0112	rm
+matricaria_chamomilla	wounds	REF-0189	rm
+matricaria_chamomilla	back-pain	REF-0280	rm
+matricaria_chamomilla	bloating	REF-0280	rm
+matricaria_chamomilla	bruising	REF-0280	rm
+matricaria_chamomilla	eczema	REF-0280	rm
+matricaria_chamomilla	headache	REF-0280	rm
+matricaria_chamomilla	indigestion	REF-0280	rm
+matricaria_chamomilla	infection	REF-0280	rm
+matricaria_chamomilla	skin-irritation	REF-0280	rm
+matricaria_chamomilla	menstrual-cramps	REF-0280	rm
+matricaria_chamomilla	eczema	REF-0079	rm
+matricaria_chamomilla	infection	REF-0079	rm
+matricaria_chamomilla	back-pain	-	drop(no evidence left)
+matricaria_chamomilla	bruising	-	drop(no evidence left)
+matricaria_chamomilla	eczema	-	drop(no evidence left)
+matricaria_chamomilla	headache	-	drop(no evidence left)

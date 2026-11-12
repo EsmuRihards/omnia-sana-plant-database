@@ -196,32 +196,15 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0541
-  - REF-0542
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1185
   - REF-1188
   - REF-1189
   - REF-1191
-- condition: back-pain
-  note: inferred from analgesic action
-  reference_ids:
   - REF-0541
   - REF-0542
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1190
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-0541
-  - REF-0542
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1190
-  - REF-1191
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -231,15 +214,8 @@ indications:
   note: Demulcent for irritation of the mouth or throat and associated dry cough (soothing mucilage)
   reference_ids:
   - REF-0480
-  status: verified
-- condition: headache
-  note: inferred from analgesic action
-  reference_ids:
-  - REF-0541
   - REF-0542
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1190
+  status: verified
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -260,18 +236,19 @@ indications:
   reference_ids:
   - REF-0541
   - REF-0542
-  - REF-1190
   status: needs-review
+  null_result_ids:
+  - REF-1190
 - condition: skin-irritation
   note: Soothes irritated and inflamed skin and mucous membranes
   reference_ids:
-  - REF-0480
   - REF-1189
   status: verified
   mechanistic_exclude_ids:
   - REF-1185
   - REF-1188
   - REF-1191
+  - REF-0480
 - condition: sore-throat
   reference_ids:
   - REF-0480
@@ -280,11 +257,12 @@ indications:
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0541
-  - REF-0542
-  - REF-1190
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1191
+  - REF-0542
+  null_result_ids:
+  - REF-1190
 contraindications:
 - note: Generally very well tolerated. Irritation of the mouth/throat or a cough that persists beyond
     about a week, or is accompanied by fever or breathlessness, needs medical assessment.
@@ -329,4 +307,12 @@ internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monogr
   (REF-1184). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower (summer) + leaf (spring)
-  (both provisional: PFAF REF-3287). Single lineage. Binomial confirmed.'
+  (both provisional: PFAF REF-3287). Single lineage. Binomial confirmed.
+  | 2026-11-10: symptom-source audit batch 10 - REF-1190 (episiotomy RCT): "No significant
+  statistical differences ... in perineal healing (P=0.89) and pain scores (P=0.56)" - moved to
+  null_result_ids for pain and wounds. REF-0541 (names inflammation, menstrual pains, analgesic
+  and wound-healing activity) and REF-0542 (names cough, cold, diarrhoea, antinociceptive,
+  anti-inflammatory, antimicrobial) removed from arthritis, back-pain, bruising, headache;
+  REF-0542 removed from wounds, added to cough. EU monograph REF-0480 (oral or pharyngeal
+  irritation and associated dry cough; mild gastrointestinal discomfort - EMA page 429, flagged)
+  removed from skin-irritation.'

@@ -123,45 +123,50 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for gout, rheumatism and arthritis (Herbal Reality)
   reference_ids:
   - REF-0488
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0487
 - condition: cancer
-  note: inferred from anticancer action
+  note: Extracts boosted doxorubicin against lung cancer cells in the lab (preclinical)
   reference_ids:
   - REF-1175
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0487
 - condition: eczema
-  note: Topical for atopic dermatitis (eczema) and skin irritation
+  note: Topical Mahonia cream improved atopic eczema in clinical studies (systematic review; open-label
+    trial)
   reference_ids:
   - REF-0487
+  - REF-3644
   status: verified
 - condition: infection
-  note: Antimicrobial (berberine) - supports skin and mucosal infection
+  note: Traditionally used for skin, mouth and intestinal infections (Herbal Reality); the extract and
+    its alkaloids were antibacterial and antifungal in lab tests (preclinical)
   reference_ids:
   - REF-0488
   - REF-1177
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Topical Mahonia relieved inflammatory skin disease (psoriasis, atopic eczema) in clinical studies
+    (systematic review); some of its alkaloids reduced inflammatory signals in immune cells (preclinical)
   reference_ids:
   - REF-0487
   - REF-1182
   status: needs-review
 - condition: psoriasis
-  note: Topical 10% Mahonia aquifolium cream reduced plaque severity in mild-to-moderate psoriasis (double-blind
-    placebo-controlled RCT and other trials; the cream is registered in the US as a homeopathic product
-    but is a 10% plant extract)
+  note: Topical 10% Mahonia aquifolium cream reduced plaque severity in mild-to-moderate psoriasis (placebo-controlled
+    RCT and other trials; a meta-analysis found benefit from small, weak studies). The cream is registered
+    in the US as a homeopathic product but is a 10% plant extract
   reference_ids:
   - REF-0487
   - REF-0591
   - REF-1173
   - REF-1179
+  - REF-3643
   status: verified
 - condition: skin-irritation
   note: Topical for atopic dermatitis (eczema) and skin irritation
@@ -170,7 +175,8 @@ indications:
   - REF-1173
   status: verified
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Traditionally used topically for infected wounds (Herbal Reality); extracts were antimicrobial
+    in the lab (preclinical)
   reference_ids:
   - REF-0488
   status: needs-review
@@ -228,4 +234,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J C
   | 2026-11-10: symptom-source audit batch 10 - Owner decision 2026-11-12: Releva (10% M.
   aquifolium cream, US homeopathic registration) counts as plant evidence - labelled in the
   psoriasis note. Herbal Reality REF-0488 (page read) names gout, rheumatism and arthritis - added
-  to arthritis.'
+  to arthritis.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. Herbal Reality
+  REF-0488 page (herb/oregon-grape) checked 2026-11-12: names gout/rheumatism/arthritis, skin,
+  mouth and intestinal infections, infected wounds, psoriasis, eczema and digestive support; lists
+  references. Topical psoriasis MA REF-3643 and open-label atopic dermatitis trial REF-3644 added.
+  Notes rewritten. Gap: digestion (traditional only, no pair).'

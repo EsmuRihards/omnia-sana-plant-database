@@ -141,12 +141,8 @@ actions:
   - REF-1678
   status: verified
 indications:
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids: []
-  status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Bay seed extract killed multidrug-resistant tumour cells in the lab (preclinical)
   reference_ids:
   - REF-1687
   status: needs-review
@@ -250,4 +246,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   alongside the trial dose rather than replaced, since the two describe different things. | 2026-08-15:
   Harvest Calendar (phenological) - added harvest_readiness for leaf (provisional: PFAF REF-3282, evergreen,
   gathered year-round/summer); fruit = GAP (no sourced timing). SAFETY: toxic cherry laurel (Prunus
-  laurocerasus) lookalike. Binomial confirmed. | 2026-08-15: fruit harvest_readiness filled (was gap) from the PROSEA monograph on Pl@ntUse (REF-3379): the drupe is ripe when coloured dark violet to glossy black. Cherry-laurel safety clause carried.'
+  laurocerasus) lookalike. Binomial confirmed. | 2026-08-15: fruit harvest_readiness filled (was gap) from the PROSEA monograph on Pl@ntUse (REF-3379): the drupe is ripe when coloured dark violet to glossy black. Cherry-laurel safety clause carried.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. Bruising dropped: its
+  only card was a rabbit wound-healing study (a wound is not a bruise; batch-1 rule). No trials on
+  PubMed.'

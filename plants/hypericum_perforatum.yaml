@@ -163,12 +163,6 @@ actions:
   - REF-1789
   status: verified
 indications:
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0181
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -457,4 +451,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   rule): menopause (held MA REF-1795 + RCTs REF-3598, REF-3599), hot-flashes (REF-3598; pilot
   REF-3599 no-effect on frequency), pms (RCT REF-3600), eczema (REF-3603; 12634994 is the same
   trial in German), psoriasis (REF-3604), arthritis (knee OA RCT REF-3605). Homeopathic Hypericum
-  trials (HYPOS 35171041, LBP 39951699) excluded.'
+  trials (HYPOS 35171041, LBP 39951699) excluded.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep batch 10
+  (cross-batch). Bruising dropped: inferred only from the vulnerary action (wound-healing review
+  REF-1789, which does not name bruises) - a wound is not a bruise.'

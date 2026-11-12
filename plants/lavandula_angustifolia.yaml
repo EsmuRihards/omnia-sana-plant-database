@@ -104,7 +104,6 @@ actions:
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   - REF-2205
   - REF-2213
   status: verified
@@ -116,14 +115,12 @@ actions:
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   - REF-2207
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   - REF-2211
   status: verified
 - action: antispasmodic
@@ -131,13 +128,11 @@ actions:
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: verified
 - action: emollient
   reference_ids:
   - REF-0043
   - REF-0155
-  - REF-0265
   status: verified
 - action: sedative
   reference_ids:
@@ -157,11 +152,10 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0265
   - REF-0043
   - REF-0155
 - condition: cancer
-  note: inferred from anticancer action
+  note: Lavender extract slowed breast cancer cells and tumours in lab and animal studies (preclinical)
   reference_ids:
   - REF-2214
   status: needs-review
@@ -170,7 +164,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0265
   - REF-0043
   - REF-0155
 - condition: inflammation
@@ -178,13 +171,15 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0265
   - REF-0043
   - REF-0155
 - condition: insomnia
-  note: EU traditional use to aid sleep and relieve mild mental stress and exhaustion
+  note: Lavender essential oil improved sleep quality in meta-analyses of trials; traditional use to aid
+    sleep (EU herbal monograph); a trial in postmenopausal women with insomnia found no significant effect
   reference_ids:
   - REF-3071
+  - REF-3614
+  - REF-3615
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2208
@@ -201,17 +196,48 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0265
   - REF-0043
   - REF-0155
 - condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids: []
+  note: Lavender aided episiotomy wound healing in trials (systematic review); the oil is antimicrobial
+    in the lab (preclinical)
+  reference_ids:
+  - REF-3617
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0265
   - REF-0043
   - REF-0155
+- condition: anxiety
+  note: Oral lavender oil (Silexan) reduced anxiety vs placebo in meta-analyses of randomized trials,
+    and lavender aromatherapy reduced anxiety in meta-analyses
+  reference_ids:
+  - REF-2531
+  - REF-2546
+  - REF-3609
+  - REF-3610
+  status: verified
+- condition: depression
+  note: Silexan lavender oil reduced depressive symptoms vs placebo in a meta-analysis and in a randomized
+    trial in mild-to-moderate major depression; an earlier systematic review judged the evidence insufficient
+  reference_ids:
+  - REF-3611
+  - REF-3612
+  - REF-3610
+  status: verified
+  null_result_ids:
+  - REF-2212
+- condition: stress
+  note: Lavender reduced stress in a meta-analysis of trials
+  reference_ids:
+  - REF-3613
+  status: verified
+- condition: pain
+  note: Inhaled lavender reduced postoperative pain (systematic review of randomized trials), and lavender
+    eased episiotomy pain (systematic review)
+  reference_ids:
+  - REF-3616
+  - REF-3617
+  status: verified
 contraindications:
 - note: Generally very safe. Essential oil should not be ingested in large amounts. Rarely, contact dermatitis
     may occur. May potentiate the effect of sedative medications. Avoid therapeutic doses during pregnancy.
@@ -341,4 +367,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0265 (Schuwald 2013) is a mechanism study of anxiolytic action, not an RCT (retagged
   preclinical) - removed from insomnia. EU flower monograph REF-3071 (relief of mild symptoms of
   mental stress and exhaustion and to aid sleep - EMA page 429, flagged for owner spot-check)
-  added to insomnia; REF-0858 stays in null_result_ids.'
+  added to insomnia; REF-0858 stays in null_result_ids.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. REF-0265 (VOCC
+  anxiolytic mechanism study) removed from five non-sedative actions. Held Silexan MA REF-2531 and
+  herb NMA REF-2546 were never wired to a pair: new pairs (owner rule) anxiety (+ MAs REF-3609,
+  REF-3610), depression (MA REF-3611, RCT REF-3612; inconclusive SR REF-2212 recorded as
+  no-effect), stress (MA REF-3613), pain (SRs REF-3616, REF-3617). Sleep MAs REF-3614/REF-3615
+  added to insomnia; episiotomy SR REF-3617 to wounds. Not used: retracted burn-patient MA
+  36651329; underpowered post-dural-puncture headache RCT 33245709.'

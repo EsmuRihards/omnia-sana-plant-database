@@ -89,42 +89,32 @@ actions:
   reference_ids:
   - REF-0293
   - REF-0300
-  - REF-0315
   - REF-1165
   - REF-1166
   - REF-1167
   status: verified
 - action: antidiabetic
   reference_ids:
-  - REF-0293
   - REF-0300
-  - REF-0315
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0293
   - REF-0300
-  - REF-0315
   - REF-1167
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0293
   - REF-0300
-  - REF-0315
   status: verified
 - action: antiviral
   reference_ids:
-  - REF-0293
   - REF-0300
-  - REF-0315
   - REF-1167
   status: verified
 - action: immunomodulator
   reference_ids:
   - REF-0293
   - REF-0300
-  - REF-0315
   - REF-1163
   - REF-1164
   - REF-1167
@@ -133,13 +123,15 @@ actions:
   status: verified
 indications:
 - condition: cancer
-  note: inferred from anticancer action
+  note: Lentinan and shiitake extracts given with chemotherapy improved tumour response and quality of
+    life in clinical studies (meta-analysis; systematic review), without proven survival benefit
   reference_ids:
   - REF-1166
+  - REF-3641
+  - REF-3642
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
-  - REF-0315
   - REF-0293
 - condition: cold
   note: inferred from antiviral action
@@ -147,33 +139,30 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
-  - REF-0315
   - REF-1170
   - REF-0293
 - condition: immune-support
-  reference_ids: []
+  reference_ids:
+  - REF-3640
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
-  - REF-0315
   - REF-1170
   - REF-0293
+  note: Eating shiitake daily improved immune cell function and raised secretory IgA in healthy adults
+    in a randomized trial
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
-  - REF-0315
-  - REF-0293
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0293
   - REF-0300
-  - REF-0315
 contraindications:
 - note: Generally very safe as a food. Raw or undercooked shiitake can cause a rare skin rash (shiitake
     dermatitis / flagellate dermatitis) in sensitive individuals - fully cooking eliminates this risk.
@@ -210,6 +199,7 @@ references:
 - REF-1170
 - REF-1171
 - REF-1172
+- REF-0315
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -247,4 +237,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   in PubMed - removed from every symptom as unverifiable. REF-0300 (multi-mushroom review)
   retagged narrative-review.
   | 2026-11-10: symptom-source audit batch 11 - unverifiable source hidden from remaining
-  mechanistic cards / claim note reset.'
+  mechanistic cards / claim note reset.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. REF-0315 (eritadenine
+  anti-obesity observation, 1989) removed from all six actions (kept in references); REF-0293
+  (lentinan immunomodulator title) removed from antidiabetic, antimicrobial, antioxidant and
+  antiviral. Daily-shiitake RCT REF-3640 added to immune-support; lentinan cancer MA REF-3641 and
+  SR REF-3642 added to cancer.'

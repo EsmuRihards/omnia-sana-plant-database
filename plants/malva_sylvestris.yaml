@@ -206,7 +206,7 @@ indications:
   - REF-0541
   - REF-0542
 - condition: cancer
-  note: inferred from anticancer action
+  note: Anticancer activity of its compounds reviewed (review)
   reference_ids:
   - REF-1183
   status: needs-review
@@ -217,13 +217,13 @@ indications:
   - REF-0542
   status: verified
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Antibacterial activity reported (reviews)
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Extracts reduced inflammation in lab and animal studies (reviews; preclinical)
   reference_ids:
   - REF-0541
   - REF-0542
@@ -232,10 +232,12 @@ indications:
   - REF-1192
   status: needs-review
 - condition: pain
-  note: inferred from analgesic action
+  note: A mallow mouthwash eased chemotherapy mouth-sore pain in a randomized trial, but a cream did not
+    ease episiotomy pain; analgesic effects reported in lab and animal studies (reviews)
   reference_ids:
   - REF-0541
   - REF-0542
+  - REF-3646
   status: needs-review
   null_result_ids:
   - REF-1190
@@ -253,8 +255,10 @@ indications:
   reference_ids:
   - REF-0480
   status: verified
+  note: Traditional demulcent for mouth and throat irritation (EU herbal monograph)
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Wound healing reported in lab and animal studies (review); a cream did not improve episiotomy
+    healing in a randomized trial
   reference_ids:
   - REF-0541
   status: needs-review
@@ -263,6 +267,21 @@ indications:
   - REF-0542
   null_result_ids:
   - REF-1190
+- condition: eczema
+  note: A Malva sylvestris cream reduced atopic eczema symptoms in children in a randomized double-blind
+    trial
+  reference_ids:
+  - REF-3645
+  status: verified
+- condition: oral-health
+  note: A mallow mouthwash eased chemotherapy mouth sores and their pain in a randomized trial, and reduced
+    plaque as well as chlorhexidine (with less effect on gum inflammation); traditional use for mouth
+    and throat irritation (EU herbal monograph)
+  reference_ids:
+  - REF-3646
+  - REF-3647
+  - REF-0480
+  status: verified
 contraindications:
 - note: Generally very well tolerated. Irritation of the mouth/throat or a cough that persists beyond
     about a week, or is accompanied by fever or breathlessness, needs medical assessment.
@@ -315,4 +334,9 @@ internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monogr
   anti-inflammatory, antimicrobial) removed from arthritis, back-pain, bruising, headache;
   REF-0542 removed from wounds, added to cough. EU monograph REF-0480 (oral or pharyngeal
   irritation and associated dry cough; mild gastrointestinal discomfort - EMA page 429, flagged)
-  removed from skin-irritation.'
+  removed from skin-irritation.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. New pairs (owner
+  rule): eczema (paediatric RCT REF-3645), oral-health (stomatitis RCT REF-3646, mouthwash RCT
+  REF-3647, EU monograph oral irritation). Stomatitis RCT also added to pain. Notes state the null
+  episiotomy RCT REF-1190. Gap: constipation - placebo-controlled flower-extract trial 25801702
+  does not state randomisation.'

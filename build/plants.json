@@ -29076,17 +29076,6 @@
    ],
    "indications": [
     {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0181"
-     ],
-     "evidence": 1,
-     "label": "Bruising"
-    },
-    {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
@@ -31887,16 +31876,8 @@
    ],
    "indications": [
     {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bruising"
-    },
-    {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Bay seed extract killed multidrug-resistant tumour cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1687"
      ],
@@ -32112,7 +32093,6 @@
      "reference_ids": [
       "REF-0043",
       "REF-0155",
-      "REF-0265",
       "REF-2205",
       "REF-2213"
      ],
@@ -32130,7 +32110,6 @@
      "reference_ids": [
       "REF-0043",
       "REF-0155",
-      "REF-0265",
       "REF-2207"
      ],
      "status": "verified"
@@ -32140,7 +32119,6 @@
      "reference_ids": [
       "REF-0043",
       "REF-0155",
-      "REF-0265",
       "REF-2211"
      ],
      "status": "verified"
@@ -32150,8 +32128,7 @@
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
       "REF-0043",
-      "REF-0155",
-      "REF-0265"
+      "REF-0155"
      ],
      "status": "verified"
     },
@@ -32159,8 +32136,7 @@
      "action": "emollient",
      "reference_ids": [
       "REF-0043",
-      "REF-0155",
-      "REF-0265"
+      "REF-0155"
      ],
      "status": "verified"
     },
@@ -32187,7 +32163,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0265",
       "REF-0043",
       "REF-0155"
      ],
@@ -32196,7 +32171,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Lavender extract slowed breast cancer cells and tumours in lab and animal studies (preclinical)",
      "reference_ids": [
       "REF-2214"
      ],
@@ -32210,7 +32185,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0265",
       "REF-0043",
       "REF-0155"
      ],
@@ -32223,7 +32197,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0265",
       "REF-0043",
       "REF-0155"
      ],
@@ -32232,9 +32205,11 @@
     },
     {
      "condition": "insomnia",
-     "note": "EU traditional use to aid sleep and relieve mild mental stress and exhaustion",
+     "note": "Lavender essential oil improved sleep quality in meta-analyses of trials; traditional use to aid sleep (EU herbal monograph); a trial in postmenopausal women with insomnia found no significant effect",
      "reference_ids": [
-      "REF-3071"
+      "REF-3071",
+      "REF-3614",
+      "REF-3615"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -32249,7 +32224,7 @@
      "null_result_ids": [
       "REF-0858"
      ],
-     "evidence": 1,
+     "evidence": 8,
      "label": "Insomnia / sleeplessness"
     },
     {
@@ -32258,7 +32233,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0265",
       "REF-0043",
       "REF-0155"
      ],
@@ -32267,16 +32241,66 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
+     "note": "Lavender aided episiotomy wound healing in trials (systematic review); the oil is antimicrobial in the lab (preclinical)",
+     "reference_ids": [
+      "REF-3617"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0265",
       "REF-0043",
       "REF-0155"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Wounds"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Oral lavender oil (Silexan) reduced anxiety vs placebo in meta-analyses of randomized trials, and lavender aromatherapy reduced anxiety in meta-analyses",
+     "reference_ids": [
+      "REF-2531",
+      "REF-2546",
+      "REF-3609",
+      "REF-3610"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "depression",
+     "note": "Silexan lavender oil reduced depressive symptoms vs placebo in a meta-analysis and in a randomized trial in mild-to-moderate major depression; an earlier systematic review judged the evidence insufficient",
+     "reference_ids": [
+      "REF-3611",
+      "REF-3612",
+      "REF-3610"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-2212"
+     ],
+     "evidence": 9,
+     "label": "Low mood / depression"
+    },
+    {
+     "condition": "stress",
+     "note": "Lavender reduced stress in a meta-analysis of trials",
+     "reference_ids": [
+      "REF-3613"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Stress"
+    },
+    {
+     "condition": "pain",
+     "note": "Inhaled lavender reduced postoperative pain (systematic review of randomized trials), and lavender eased episiotomy pain (systematic review)",
+     "reference_ids": [
+      "REF-3616",
+      "REF-3617"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Pain (general)"
     }
    ],
    "contraindications": [
@@ -32480,7 +32504,6 @@
      "reference_ids": [
       "REF-0293",
       "REF-0300",
-      "REF-0315",
       "REF-1165",
       "REF-1166",
       "REF-1167"
@@ -32490,18 +32513,14 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0293",
-      "REF-0300",
-      "REF-0315"
+      "REF-0300"
      ],
      "status": "verified"
     },
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0293",
       "REF-0300",
-      "REF-0315",
       "REF-1167"
      ],
      "status": "verified"
@@ -32509,18 +32528,14 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0293",
-      "REF-0300",
-      "REF-0315"
+      "REF-0300"
      ],
      "status": "verified"
     },
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0293",
       "REF-0300",
-      "REF-0315",
       "REF-1167"
      ],
      "status": "verified"
@@ -32530,7 +32545,6 @@
      "reference_ids": [
       "REF-0293",
       "REF-0300",
-      "REF-0315",
       "REF-1163",
       "REF-1164",
       "REF-1167",
@@ -32543,17 +32557,18 @@
    "indications": [
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Lentinan and shiitake extracts given with chemotherapy improved tumour response and quality of life in clinical studies (meta-analysis; systematic review), without proven survival benefit",
      "reference_ids": [
-      "REF-1166"
+      "REF-1166",
+      "REF-3641",
+      "REF-3642"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0300",
-      "REF-0315",
       "REF-0293"
      ],
-     "evidence": 2,
+     "evidence": 8,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -32563,7 +32578,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0300",
-      "REF-0315",
       "REF-1170",
       "REF-0293"
      ],
@@ -32572,15 +32586,17 @@
     },
     {
      "condition": "immune-support",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-3640"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0300",
-      "REF-0315",
       "REF-1170",
       "REF-0293"
      ],
-     "evidence": 1,
+     "note": "Eating shiitake daily improved immune cell function and raised secretory IgA in healthy adults in a randomized trial",
+     "evidence": 5,
      "label": "Immune support"
     },
     {
@@ -32589,9 +32605,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0300",
-      "REF-0315",
-      "REF-0293"
+      "REF-0300"
      ],
      "evidence": 1,
      "label": "Infection (general)"
@@ -32602,9 +32616,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0293",
-      "REF-0300",
-      "REF-0315"
+      "REF-0300"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -32643,7 +32655,8 @@
     "REF-1169",
     "REF-1170",
     "REF-1171",
-    "REF-1172"
+    "REF-1172",
+    "REF-0315"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -32890,16 +32903,16 @@
      "reference_ids": [
       "REF-0860",
       "REF-0861",
-      "REF-0866",
-      "REF-0867"
+      "REF-0866"
      ],
      "status": "verified",
+     "note": "Traditional remedy for nervous heart complaints (review of the EMA assessment); lower blood pressure reported in clinical studies (review); extracts reduced platelet activation in the lab (preclinical)",
      "evidence": 2,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory activity reported in pharmacological studies (review)",
      "reference_ids": [
       "REF-0861"
      ],
@@ -32913,7 +32926,7 @@
     },
     {
      "condition": "insomnia",
-     "note": "inferred from sedative action",
+     "note": "Sedative activity reported in clinical studies (review)",
      "reference_ids": [
       "REF-0861"
      ],
@@ -32936,15 +32949,14 @@
       "REF-0198",
       "REF-0270"
      ],
+     "note": "Traditionally used for gynaecological complaints including painful periods (review of the EMA assessment)",
      "evidence": 2,
      "label": "Menstrual cramps"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0861"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0866",
@@ -32952,7 +32964,7 @@
       "REF-0198",
       "REF-0270"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
     }
    ],
@@ -33116,7 +33128,6 @@
       "REF-0001",
       "REF-0039",
       "REF-0084",
-      "REF-0105",
       "REF-0152",
       "REF-0190",
       "REF-0230"
@@ -33178,7 +33189,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0001",
-      "REF-0105",
       "REF-0152",
       "REF-2217",
       "REF-2219",
@@ -33199,7 +33209,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0001",
-      "REF-0105",
       "REF-0152",
       "REF-2218",
       "REF-2220",
@@ -33211,7 +33220,6 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0001",
-      "REF-0105",
       "REF-0152",
       "REF-2217",
       "REF-2219"
@@ -33227,7 +33235,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0001",
-      "REF-0105",
       "REF-0152",
       "REF-2217"
      ],
@@ -33241,7 +33248,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0001",
-      "REF-0105",
       "REF-0152",
       "REF-2217"
      ],
@@ -33250,7 +33256,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Dietary flaxseed reduced tumour growth markers in postmenopausal breast cancer patients in a randomized trial; anticancer compounds reviewed (review)",
      "reference_ids": [
       "REF-2222",
       "REF-0288"
@@ -33281,7 +33287,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0001",
-      "REF-0105",
       "REF-0152",
       "REF-2217"
      ],
@@ -33290,17 +33295,20 @@
     },
     {
      "condition": "inflammation",
-     "note": "Flax lignan (SDG) metabolites reduce oxidative stress and inflammation (review) - compound evidence",
+     "note": "Flaxseed lowered the inflammation markers CRP and IL-6 in a 2024 meta-analysis; an earlier meta-analysis found no overall effect on CRP except in obese people",
      "reference_ids": [
-      "REF-0001"
+      "REF-0001",
+      "REF-3625"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0105",
       "REF-0152",
       "REF-2217"
      ],
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-3626"
+     ],
+     "evidence": 7,
      "label": "Inflammation (general)"
     },
     {
@@ -33311,7 +33319,7 @@
       "REF-2221"
      ],
      "status": "verified",
-     "note": "A flaxseed lignan (SDG) supplement modestly improved HbA1c in type 2 diabetes (RCT); lignan reviews report lower lipids and glucose - compound evidence",
+     "note": "Flaxseed reduced body weight, BMI and waist size in a meta-analysis of trials; a flaxseed lignan supplement modestly improved HbA1c in type 2 diabetes (randomized trial)",
      "null_result_ids": [
       "REF-2217"
      ],
@@ -33325,12 +33333,57 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0001",
-      "REF-0105",
       "REF-0152",
       "REF-2217"
      ],
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Flaxseed lowered blood pressure in meta-analyses of trials, more with whole seed, longer use and in hypertension; ground flaxseed strongly lowered blood pressure in hypertensive patients in a randomized trial",
+     "reference_ids": [
+      "REF-3618",
+      "REF-3619",
+      "REF-3395"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "High blood pressure"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Flaxseed lowered total and LDL cholesterol and triglycerides in meta-analyses of randomized trials, mainly in people with high blood lipids",
+     "reference_ids": [
+      "REF-3620",
+      "REF-3621"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Flaxseed improved blood sugar control and HbA1c in prediabetes and type 2 diabetes in meta-analyses; whole flaxseed worked, flaxseed oil and lignan extracts did not",
+     "reference_ids": [
+      "REF-3622",
+      "REF-3623",
+      "REF-3624"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "constipation",
+     "note": "Flaxseed eased chronic constipation in randomized trials, more than lactulose in one and psyllium in another",
+     "reference_ids": [
+      "REF-3627",
+      "REF-3628"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Constipation"
     }
    ],
    "contraindications": [
@@ -33341,7 +33394,6 @@
       "REF-0001",
       "REF-0039",
       "REF-0084",
-      "REF-0105",
       "REF-0152",
       "REF-0190",
       "REF-0230"
@@ -33355,7 +33407,6 @@
       "REF-0001",
       "REF-0039",
       "REF-0084",
-      "REF-0105",
       "REF-0152",
       "REF-0190",
       "REF-0230"
@@ -33369,7 +33420,6 @@
       "REF-0001",
       "REF-0039",
       "REF-0084",
-      "REF-0105",
       "REF-0152",
       "REF-0190",
       "REF-0230"
@@ -33383,7 +33433,6 @@
       "REF-0001",
       "REF-0039",
       "REF-0084",
-      "REF-0105",
       "REF-0152",
       "REF-0190",
       "REF-0230",
@@ -33633,8 +33682,7 @@
      "reference_ids": [
       "REF-2796",
       "REF-2799",
-      "REF-2801",
-      "REF-2805"
+      "REF-2801"
      ],
      "status": "verified"
     },
@@ -33699,7 +33747,7 @@
    "indications": [
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Extracts slowed tumour growth in lab tests (preclinical)",
      "reference_ids": [
       "REF-2796"
      ],
@@ -33709,7 +33757,7 @@
     },
     {
      "condition": "liver-support",
-     "note": "Ameliorates liver fibrosis/NASH in animal models.",
+     "note": "Yellow loosestrife extract eased liver fibrosis in mice with fatty liver disease, and its compounds reduced fat production in liver cells (preclinical)",
      "reference_ids": [
       "REF-2794",
       "REF-2797"
@@ -33720,7 +33768,7 @@
     },
     {
      "condition": "high-cholesterol",
-     "note": "PCSK9 inhibition and reduced hepatic lipogenesis (lipid-lowering).",
+     "note": "Root compounds inhibited PCSK9, a cholesterol-regulating protein, in liver cells (preclinical)",
      "reference_ids": [
       "REF-2793"
      ],
@@ -33733,7 +33781,7 @@
     },
     {
      "condition": "diarrhea",
-     "note": "Improves diarrhoea-predominant IBS; traditional astringent antidiarrhoeal.",
+     "note": "Used for diarrhoea in folk medicine (as stated in a lab study); an extract acted on a gut serotonin receptor linked to diarrhoea-type IBS in lab tests (var. davurica; preclinical)",
      "reference_ids": [
       "REF-2795",
       "REF-2796"
@@ -33744,7 +33792,7 @@
     },
     {
      "condition": "ibs",
-     "note": "Improved diarrhoea-predominant irritable bowel syndrome (var. davurica).",
+     "note": "An extract acted on a gut serotonin receptor (5-HT3) linked to diarrhoea-type IBS in lab tests (var. davurica; preclinical)",
      "reference_ids": [
       "REF-2795"
      ],
@@ -33761,12 +33809,13 @@
      "mechanistic_exclude_ids": [
       "REF-2795"
      ],
+     "note": "Folk anti-inflammatory use is noted in a lab study (preclinical)",
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "infection",
-     "note": "inferred from antibacterial action",
+     "note": "Extracts were antibacterial in lab tests (preclinical)",
      "reference_ids": [
       "REF-2796"
      ],
@@ -33776,7 +33825,7 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from astringent/styptic traditional use",
+     "note": "Used for wounds in folk medicine (as stated in a lab study)",
      "reference_ids": [
       "REF-2796"
      ],
@@ -33820,8 +33869,7 @@
     "REF-2800",
     "REF-2801",
     "REF-2802",
-    "REF-2804",
-    "REF-2805"
+    "REF-2804"
    ],
    "drug_class_interactions": [
     {
@@ -34006,7 +34054,7 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for gout, rheumatism and arthritis (Herbal Reality)",
      "reference_ids": [
       "REF-0488"
      ],
@@ -34019,7 +34067,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Extracts boosted doxorubicin against lung cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1175"
      ],
@@ -34032,17 +34080,18 @@
     },
     {
      "condition": "eczema",
-     "note": "Topical for atopic dermatitis (eczema) and skin irritation",
+     "note": "Topical Mahonia cream improved atopic eczema in clinical studies (systematic review; open-label trial)",
      "reference_ids": [
-      "REF-0487"
+      "REF-0487",
+      "REF-3644"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Eczema"
     },
     {
      "condition": "infection",
-     "note": "Antimicrobial (berberine) - supports skin and mucosal infection",
+     "note": "Traditionally used for skin, mouth and intestinal infections (Herbal Reality); the extract and its alkaloids were antibacterial and antifungal in lab tests (preclinical)",
      "reference_ids": [
       "REF-0488",
       "REF-1177"
@@ -34053,7 +34102,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Topical Mahonia relieved inflammatory skin disease (psoriasis, atopic eczema) in clinical studies (systematic review); some of its alkaloids reduced inflammatory signals in immune cells (preclinical)",
      "reference_ids": [
       "REF-0487",
       "REF-1182"
@@ -34064,12 +34113,13 @@
     },
     {
      "condition": "psoriasis",
-     "note": "Topical 10% Mahonia aquifolium cream reduced plaque severity in mild-to-moderate psoriasis (double-blind placebo-controlled RCT and other trials; the cream is registered in the US as a homeopathic product but is a 10% plant extract)",
+     "note": "Topical 10% Mahonia aquifolium cream reduced plaque severity in mild-to-moderate psoriasis (placebo-controlled RCT and other trials; a meta-analysis found benefit from small, weak studies). The cream is registered in the US as a homeopathic product but is a 10% plant extract",
      "reference_ids": [
       "REF-0487",
       "REF-0591",
       "REF-1173",
-      "REF-1179"
+      "REF-1179",
+      "REF-3643"
      ],
      "status": "verified",
      "evidence": 9,
@@ -34088,7 +34138,7 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditionally used topically for infected wounds (Herbal Reality); extracts were antimicrobial in the lab (preclinical)",
      "reference_ids": [
       "REF-0488"
      ],
@@ -34411,7 +34461,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Anticancer activity of its compounds reviewed (review)",
      "reference_ids": [
       "REF-1183"
      ],
@@ -34432,7 +34482,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Antibacterial activity reported (reviews)",
      "reference_ids": [
       "REF-0541",
       "REF-0542"
@@ -34443,7 +34493,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Extracts reduced inflammation in lab and animal studies (reviews; preclinical)",
      "reference_ids": [
       "REF-0541",
       "REF-0542",
@@ -34457,16 +34507,17 @@
     },
     {
      "condition": "pain",
-     "note": "inferred from analgesic action",
+     "note": "A mallow mouthwash eased chemotherapy mouth-sore pain in a randomized trial, but a cream did not ease episiotomy pain; analgesic effects reported in lab and animal studies (reviews)",
      "reference_ids": [
       "REF-0541",
-      "REF-0542"
+      "REF-0542",
+      "REF-3646"
      ],
      "status": "needs-review",
      "null_result_ids": [
       "REF-1190"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Pain (general)"
     },
     {
@@ -34491,12 +34542,13 @@
       "REF-0480"
      ],
      "status": "verified",
+     "note": "Traditional demulcent for mouth and throat irritation (EU herbal monograph)",
      "evidence": 1,
      "label": "Sore throat"
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Wound healing reported in lab and animal studies (review); a cream did not improve episiotomy healing in a randomized trial",
      "reference_ids": [
       "REF-0541"
      ],
@@ -34510,6 +34562,28 @@
      ],
      "evidence": 2,
      "label": "Wounds"
+    },
+    {
+     "condition": "eczema",
+     "note": "A Malva sylvestris cream reduced atopic eczema symptoms in children in a randomized double-blind trial",
+     "reference_ids": [
+      "REF-3645"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Eczema"
+    },
+    {
+     "condition": "oral-health",
+     "note": "A mallow mouthwash eased chemotherapy mouth sores and their pain in a randomized trial, and reduced plaque as well as chlorhexidine (with less effect on gum inflammation); traditional use for mouth and throat irritation (EU herbal monograph)",
+     "reference_ids": [
+      "REF-3646",
+      "REF-3647",
+      "REF-0480"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Oral & throat health"
     }
    ],
    "contraindications": [
@@ -34707,8 +34781,7 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (traditional use in whooping cough)",
      "reference_ids": [
-      "REF-0469",
-      "REF-0925"
+      "REF-0469"
      ],
      "status": "needs-review"
     },
@@ -34734,8 +34807,7 @@
      "reference_ids": [
       "REF-0468",
       "REF-0469",
-      "REF-0921",
-      "REF-0926"
+      "REF-0921"
      ],
      "status": "verified"
     }
@@ -34772,7 +34844,6 @@
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0926",
       "REF-0468",
       "REF-0469"
      ],
@@ -34781,7 +34852,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Horehound leaf extract slowed colorectal cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-2558"
      ],
@@ -34797,7 +34868,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0926",
       "REF-0469",
       "REF-0921"
      ],
@@ -34818,7 +34888,7 @@
     },
     {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Traditional expectorant for cough associated with colds (EU herbal monograph); protected the lungs of rats with lung fibrosis (preclinical)",
      "reference_ids": [
       "REF-0468",
       "REF-0469",
@@ -35171,7 +35241,7 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Topical chamomile oil reduced painkiller use in knee osteoarthritis in a randomized trial, without improving WOMAC scores",
      "reference_ids": [
       "REF-0280",
       "REF-2349"
@@ -35187,7 +35257,7 @@
     },
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditional use for minor stomach and gut complaints such as bloating (EU herbal monograph)",
      "reference_ids": [
       "REF-0079"
      ],
@@ -35202,7 +35272,7 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditional use for minor gastrointestinal complaints (EU herbal monograph)",
      "reference_ids": [
       "REF-0079"
      ],
@@ -35231,25 +35301,30 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional use for minor skin and mouth inflammation (EU herbal monograph); a meta-analysis of randomized trials found anti-inflammatory effects; an extract was no better than its base cream for UV skin redness in one trial",
      "reference_ids": [
       "REF-0079",
-      "REF-0280"
+      "REF-0280",
+      "REF-3630"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0112",
       "REF-0189"
      ],
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-3527"
+     ],
+     "evidence": 7,
      "label": "Inflammation (general)"
     },
     {
      "condition": "insomnia",
-     "note": "inferred from sedative action",
+     "note": "Chamomile improved sleep quality, mainly fewer night awakenings, in meta-analyses of trials; sleep duration and efficiency did not improve",
      "reference_ids": [
       "REF-0280",
-      "REF-1154"
+      "REF-1154",
+      "REF-3629"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -35260,12 +35335,12 @@
       "REF-0112",
       "REF-0189"
      ],
-     "evidence": 7,
+     "evidence": 8,
      "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
+     "note": "Chamomile eased primary dysmenorrhoea pain in trials (systematic review)",
      "reference_ids": [
       "REF-2351"
      ],
@@ -35280,24 +35355,11 @@
      "label": "Menstrual cramps"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0079",
-      "REF-0280"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0189"
-     ],
-     "evidence": 2,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "pain",
      "reference_ids": [
-      "REF-0280"
+      "REF-0280",
+      "REF-2349",
+      "REF-2351"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
@@ -35305,12 +35367,13 @@
       "REF-0112",
       "REF-0189"
      ],
-     "evidence": 2,
+     "note": "Chamomile eased period pain in trials (systematic review) and topical oil reduced painkiller use in knee osteoarthritis in a randomized trial",
+     "evidence": 8,
      "label": "Pain (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditional use for minor skin inflammation such as sunburn (EU herbal monograph); an extract was no better than its base cream for UV skin redness in a randomized trial",
      "reference_ids": [
       "REF-0079"
      ],
@@ -35321,12 +35384,15 @@
       "REF-0189",
       "REF-0280"
      ],
+     "null_result_ids": [
+      "REF-3527"
+     ],
      "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Traditional use for superficial wounds (EU herbal monograph); antimicrobial activity reported (review)",
      "reference_ids": [
       "REF-0079",
       "REF-0280"
@@ -35343,29 +35409,101 @@
      "condition": "anxiety",
      "reference_ids": [
       "REF-1155",
-      "REF-1160"
+      "REF-1160",
+      "REF-3629"
      ],
      "status": "verified",
-     "evidence": 6,
+     "null_result_ids": [
+      "REF-2546"
+     ],
+     "note": "Chamomile extract reduced generalized anxiety symptoms in randomized trials and a meta-analysis; in a network meta-analysis it did not differ significantly from placebo",
+     "evidence": 9,
      "label": "Anxiety"
     },
     {
      "condition": "depression",
      "reference_ids": [
-      "REF-2348"
+      "REF-2348",
+      "REF-1156"
      ],
      "status": "verified",
-     "evidence": 5,
+     "note": "Chamomile extract reduced depression scores in people with generalized anxiety and depression in randomized trial analyses (exploratory)",
+     "evidence": 6,
      "label": "Low mood / depression"
     },
     {
      "condition": "blood-sugar",
      "reference_ids": [
-      "REF-2350"
+      "REF-2350",
+      "REF-3638"
+     ],
+     "status": "verified",
+     "note": "Chamomile tea improved blood sugar control in type 2 diabetes in randomized trials",
+     "evidence": 6,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "menopause",
+     "note": "Chamomile eased menopausal symptoms vs placebo in two randomized trials (side effects were noted in one)",
+     "reference_ids": [
+      "REF-3631",
+      "REF-3632"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Menopause"
+    },
+    {
+     "condition": "hot-flashes",
+     "note": "Chamomile reduced hot flashes and other vasomotor symptoms in postmenopausal women in a randomized trial",
+     "reference_ids": [
+      "REF-3632"
      ],
      "status": "verified",
      "evidence": 5,
-     "label": "Blood sugar / diabetes support"
+     "label": "Hot flashes"
+    },
+    {
+     "condition": "pms",
+     "note": "Chamomile extract relieved the emotional symptoms of PMS more than mefenamic acid in a randomized trial (physical symptoms did not differ)",
+     "reference_ids": [
+      "REF-3633"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
+    },
+    {
+     "condition": "migraine",
+     "note": "A topical chamomile oleogel eased migraine pain, nausea and light sensitivity vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3634"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Migraine"
+    },
+    {
+     "condition": "oral-health",
+     "note": "A chamomile mouthwash reduced plaque and gum bleeding vs placebo in gingivitis, and a chamomile gel reduced chemotherapy mouth sores (randomized trials; systematic review)",
+     "reference_ids": [
+      "REF-3635",
+      "REF-3636",
+      "REF-3637"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "Oral & throat health"
+    },
+    {
+     "condition": "back-pain",
+     "note": "Topical chamomile oil reduced non-specific low back pain in a randomized trial",
+     "reference_ids": [
+      "REF-3639"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Back pain"
     }
    ],
    "contraindications": [

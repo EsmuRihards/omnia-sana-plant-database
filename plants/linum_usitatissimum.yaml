@@ -95,7 +95,6 @@ dosage:
   - REF-0001
   - REF-0039
   - REF-0084
-  - REF-0105
   - REF-0152
   - REF-0190
   - REF-0230
@@ -143,7 +142,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0001
-  - REF-0105
   - REF-0152
   - REF-2217
   - REF-2219
@@ -158,7 +156,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0001
-  - REF-0105
   - REF-0152
   - REF-2218
   - REF-2220
@@ -167,7 +164,6 @@ actions:
 - action: digestive
   reference_ids:
   - REF-0001
-  - REF-0105
   - REF-0152
   - REF-2217
   - REF-2219
@@ -179,7 +175,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0001
-  - REF-0105
   - REF-0152
   - REF-2217
 - condition: bloating
@@ -188,11 +183,11 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0001
-  - REF-0105
   - REF-0152
   - REF-2217
 - condition: cancer
-  note: inferred from anticancer action
+  note: Dietary flaxseed reduced tumour growth markers in postmenopausal breast cancer patients in a randomized
+    trial; anticancer compounds reviewed (review)
   reference_ids:
   - REF-2222
   - REF-0288
@@ -213,26 +208,28 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0001
-  - REF-0105
   - REF-0152
   - REF-2217
 - condition: inflammation
-  note: Flax lignan (SDG) metabolites reduce oxidative stress and inflammation (review) - compound evidence
+  note: Flaxseed lowered the inflammation markers CRP and IL-6 in a 2024 meta-analysis; an earlier meta-analysis
+    found no overall effect on CRP except in obese people
   reference_ids:
   - REF-0001
+  - REF-3625
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0105
   - REF-0152
   - REF-2217
+  null_result_ids:
+  - REF-3626
 - condition: metabolic-support
   reference_ids:
   - REF-0001
   - REF-0190
   - REF-2221
   status: verified
-  note: A flaxseed lignan (SDG) supplement modestly improved HbA1c in type 2 diabetes (RCT); lignan reviews
-    report lower lipids and glucose - compound evidence
+  note: Flaxseed reduced body weight, BMI and waist size in a meta-analysis of trials; a flaxseed lignan
+    supplement modestly improved HbA1c in type 2 diabetes (randomized trial)
   null_result_ids:
   - REF-2217
 - condition: skin-irritation
@@ -241,9 +238,39 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0001
-  - REF-0105
   - REF-0152
   - REF-2217
+- condition: high-blood-pressure
+  note: Flaxseed lowered blood pressure in meta-analyses of trials, more with whole seed, longer use and
+    in hypertension; ground flaxseed strongly lowered blood pressure in hypertensive patients in a randomized
+    trial
+  reference_ids:
+  - REF-3618
+  - REF-3619
+  - REF-3395
+  status: verified
+- condition: high-cholesterol
+  note: Flaxseed lowered total and LDL cholesterol and triglycerides in meta-analyses of randomized trials,
+    mainly in people with high blood lipids
+  reference_ids:
+  - REF-3620
+  - REF-3621
+  status: verified
+- condition: blood-sugar
+  note: Flaxseed improved blood sugar control and HbA1c in prediabetes and type 2 diabetes in meta-analyses;
+    whole flaxseed worked, flaxseed oil and lignan extracts did not
+  reference_ids:
+  - REF-3622
+  - REF-3623
+  - REF-3624
+  status: verified
+- condition: constipation
+  note: Flaxseed eased chronic constipation in randomized trials, more than lactulose in one and psyllium
+    in another
+  reference_ids:
+  - REF-3627
+  - REF-3628
+  status: verified
 contraindications:
 - note: Flaxseeds are safe for most people at recommended food amounts (1–2 tablespoons ground/day). They
     must be ground or milled to be bioavailable - whole seeds largely pass through the gut undigested.
@@ -256,13 +283,12 @@ contraindications:
   - REF-0001
   - REF-0039
   - REF-0084
-  - REF-0105
   - REF-0152
   - REF-0190
   - REF-0230
   status: verified
-- note: 'Medication interactions: Flaxseed may reduce absorption of oral medications if taken simultaneously -
-    space flaxseed supplementation 1–2 hours from medications. Omega-3 ALA and lignans may mildly enhance
+- note: 'Medication interactions: Flaxseed may reduce absorption of oral medications if taken simultaneously
+    - space flaxseed supplementation 1–2 hours from medications. Omega-3 ALA and lignans may mildly enhance
     anticoagulant/antiplatelet effects; use caution with blood thinners. Some sources suggest caution
     with hormone-sensitive conditions due to phytoestrogen (lignan) content, though dietary amounts are
     unlikely to pose risk (Adolphe et al., 2010).'
@@ -271,7 +297,6 @@ contraindications:
   - REF-0001
   - REF-0039
   - REF-0084
-  - REF-0105
   - REF-0152
   - REF-0190
   - REF-0230
@@ -283,7 +308,6 @@ contraindications:
   - REF-0001
   - REF-0039
   - REF-0084
-  - REF-0105
   - REF-0152
   - REF-0190
   - REF-0230
@@ -299,7 +323,6 @@ contraindications:
   - REF-0001
   - REF-0039
   - REF-0084
-  - REF-0105
   - REF-0152
   - REF-0190
   - REF-0230
@@ -345,4 +368,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (Rodriguez-Leyva 2013, REF-3395, PubMed 24126178: 30 g milled flaxseed lowered SBP ~10 mmHg vs
   placebo over 6 months) added to cardiovascular-support. Already-held positive sources wired:
   REF-2221 (2024 MA: body weight, BMI, waist) -> metabolic-support; REF-0288 (RCT: tumour markers
-  in breast cancer) -> cancer.'
+  in breast cancer) -> cancer.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. REF-0105 (stearidonic
+  acid as an EPA surrogate - not flax) purged and deleted. New pairs (owner rule):
+  high-blood-pressure (MAs REF-3618, REF-3619 + held RCT REF-3395), high-cholesterol (MAs
+  REF-3620, REF-3621), blood-sugar (MAs REF-3622-REF-3624), constipation (RCTs REF-3627,
+  REF-3628). Inflammation: 2024 MA REF-3625 support, 2016 CRP MA REF-3626 no-effect. Gap: hot
+  flashes - flaxseed RCTs 21900849 and 20007337 were null and there is no hot-flash pair.'

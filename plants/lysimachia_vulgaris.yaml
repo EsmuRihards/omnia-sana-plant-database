@@ -183,7 +183,6 @@ actions:
   - REF-2796
   - REF-2799
   - REF-2801
-  - REF-2805
   status: verified
 - action: anti-inflammatory
   reference_ids:
@@ -225,31 +224,34 @@ actions:
   status: verified
 indications:
 - condition: cancer
-  note: inferred from anticancer action
+  note: Extracts slowed tumour growth in lab tests (preclinical)
   reference_ids:
   - REF-2796
   status: needs-review
 - condition: liver-support
-  note: Ameliorates liver fibrosis/NASH in animal models.
+  note: Yellow loosestrife extract eased liver fibrosis in mice with fatty liver disease, and its compounds
+    reduced fat production in liver cells (preclinical)
   reference_ids:
   - REF-2794
   - REF-2797
   status: verified
 - condition: high-cholesterol
-  note: PCSK9 inhibition and reduced hepatic lipogenesis (lipid-lowering).
+  note: Root compounds inhibited PCSK9, a cholesterol-regulating protein, in liver cells (preclinical)
   reference_ids:
   - REF-2793
   status: verified
   mechanistic_exclude_ids:
   - REF-2797
 - condition: diarrhea
-  note: Improves diarrhoea-predominant IBS; traditional astringent antidiarrhoeal.
+  note: Used for diarrhoea in folk medicine (as stated in a lab study); an extract acted on a gut serotonin
+    receptor linked to diarrhoea-type IBS in lab tests (var. davurica; preclinical)
   reference_ids:
   - REF-2795
   - REF-2796
   status: verified
 - condition: ibs
-  note: Improved diarrhoea-predominant irritable bowel syndrome (var. davurica).
+  note: An extract acted on a gut serotonin receptor (5-HT3) linked to diarrhoea-type IBS in lab tests
+    (var. davurica; preclinical)
   reference_ids:
   - REF-2795
   status: verified
@@ -259,13 +261,14 @@ indications:
   status: verified
   mechanistic_exclude_ids:
   - REF-2795
+  note: Folk anti-inflammatory use is noted in a lab study (preclinical)
 - condition: infection
-  note: inferred from antibacterial action
+  note: Extracts were antibacterial in lab tests (preclinical)
   reference_ids:
   - REF-2796
   status: needs-review
 - condition: wounds
-  note: inferred from astringent/styptic traditional use
+  note: Used for wounds in folk medicine (as stated in a lab study)
   reference_ids:
   - REF-2796
   status: needs-review
@@ -300,7 +303,6 @@ references:
 - REF-2801
 - REF-2802
 - REF-2804
-- REF-2805
 drug_class_interactions:
 - drug_class: statins
   severity: caution
@@ -364,4 +366,8 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   record. REF-2796 (Turkish L. vulgaris: folk use for fever, ulcer, diarrhoea and wounds;
   anti-inflammatory activity; antibacterial) added to wounds and inflammation. REF-2795 (IBS-D
   mouse model) names no inflammation. REF-2797 (hepatic lipogenesis, fatty liver) moved from
-  high-cholesterol/metabolic to liver-support; REF-2794 (NASH) removed from metabolic-support.'
+  high-cholesterol/metabolic to liver-support; REF-2794 (NASH) removed from metabolic-support.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. REF-2805 studies
+  Lysimachia foenum-graecum, a different species - purged and deleted. Notes rewritten to their
+  lab sources (all preclinical; REF-2796 states folk use for fever, ulcer, diarrhoea and wounds).
+  No trials on PubMed.'

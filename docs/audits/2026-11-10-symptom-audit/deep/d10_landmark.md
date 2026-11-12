@@ -1,0 +1,561 @@
+# Landmark search batch 10
+
+## laurus-nobilis (Laurus nobilis; Bay Leaf) - 3 (+CT) hits; query: ("Laurus nobilis"[tiab] OR "Bay Leaf"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41257434 | SR | Shrubs and trees as natural insect protection for grazing animals in Switzerland and the alpine region: A systematic review of in vitro, in vivo and clinical trials.
+- new | 2017 | 27553760 |  | Dietary effect of dried bay leaves (Laurus nobilis) meal on some biochemical parameters and on plasma oxidative status in New Zealand white growing rabbit.
+- new | 2014 | 24587729 | Clinical Trial | Effects of herbal essential oil mixture as a dietary supplement on egg production in quail.
+
+## lavandula-angustifolia (Lavandula angustifolia; Lavender) - 213 hits; query: ("Lavandula angustifolia"[tiab] OR "Lavender"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 40600743 | SR/MA | The Sleep-Enhancing Effect of Lavender Essential Oil in Adults: A Systematic Review and Meta-Analysis.
+- new | 2026 | 41076308 | RCT | Comparative Effects of Lavender Aromatherapy and Nature Sounds on Anxiety and Pain in Cataract Surgery Patients: A Randomized Controlled Trial.
+- new | 2026 | 41579454 | RCT | The effect of lavender herbal tea on the mental health of individuals with misophonia: A randomized controlled trial.
+- new | 2026 | 41499426 | RCT | Effects of lavender essential oil inhalation on sleep quality and fatigue in patients with chronic heart failure: a randomized controlled trial.
+- new | 2026 | 42550483 | RCT | Effects of lavender oil preparation silexan on different symptoms of major depression - results from a randomized, controlled trial.
+- new | 2026 | 41553229 | RCT | Aromatherapy with lavender essential oil for the control of dental anxiety in patients undergoing dental surgery: A triple-blind randomized clinical trial.
+- new | 2026 | 41257434 | SR | Shrubs and trees as natural insect protection for grazing animals in Switzerland and the alpine region: A systematic review of in vitro, in vivo and clinical trials.
+- new | 2025 | 40917836 | SR | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review.
+- new | 2025 | 40187937 | SR | Inhalation Aromatherapy With Lavender for Postoperative Pain Management: A Systematic Review of Randomized Controlled Trials.
+- new | 2025 | 40653563 | RCT | Effect of aromatherapy massage with lavender essential oil on sleep quality, pain, and mental and psychiatric disorders among breast cancer patients undergoing chemothera
+- new | 2025 | 39775962 | RCT | The efficacy of lavender oil on fatigue and sleep quality in patients with hematological malignancy receiving chemotherapy: a single-blind randomized controlled trial.
+- new | 2025 | 41177368 | RCT | Short- and long-term effects of inhaled lavender essential oil on anxiety, fatigue, blood pressure, and sleep quality in middle-aged adults with hypertension: A randomize
+- new | 2025 | 41057090 | SR/MA | A systematic review and meta-analysis of clinical trials on lavender for sleep disorders in older adults.
+- new | 2025 | 40378898 | RCT | The impact of aromatherapy with Citrus bergamia- Lavandula angustifolia essential oil and/or mindfulness-based therapy on postmenopausal health: A factorial randomized co
+- new | 2025 | 40288054 | RCT | The effect of lavender oil on anxiety before endoscopy in children: A randomized controlled trial.
+- new | 2025 | 40981164 | RCT | Lavender-Neroli Aromatherapy for Reducing Dental Anxiety and Pain in Children During Anesthesia: A Two-Arm Randomized Controlled Trial.
+- new | 2025 | 38558147 | RCT | Lavender oil preparation Silexan is effective in mild-to-moderate major depression: a randomized, placebo- and reference-controlled trial.
+- new | 2025 | 40192256 | RCT | Efficacy of Lavender Oil as an Adjunctive Treatment for Patients with Osteoarthritis: A Randomized, Double-Blind, Placebo-Controlled Trial.
+- new | 2025 | 40145478 | RCT | Effect of Lavender Oral Drops in Reducing Dental Anxiety Among Patients Requiring Endodontic Treatment: A Randomised Clinical Trial.
+- new | 2025 | 40154579 | RCT | Effect of aromatherapy with peppermint, ginger, and lavender on postoperative nausea severity after oral surgery under general anaesthesia: A single-blind randomized cont
+- new | 2025 | 39503638 | RCT | The Effects of Lavender and Rosemary Extracts on Sore Throat and Hoarseness After Endotracheal Intubation in Patients Undergoing Percutaneous Nephrolithotomy: A Randomize
+- new | 2025 | 40127529 | RCT | Evaluating the impact of lavender aromatherapy and music therapy on reducing stress, anxiety, and depression in female nurses during the COVID-19 pandemic.
+- new | 2025 | 40795547 | RCT | The effect of lavender essential oil aromatherapy on anxiety and fatigue in patients with implantable cardioverter defibrillator: randomized controlled trial.
+- new | 2025 | 40939480 | RCT | The effect of aromatherapy with lavender essential oil on odor intensity, sexual quality of life, and ostomy adjustment: A clinical trial.
+- new | 2024 | 39400653 | RCT | Aromatherapy Using Lavender Oil Effectiveness on Pain and Anxiety After C-Section: A Randomized Controlled Trial.
+- new | 2024 | 39047346 | RCT | The effect of lavender and rosemary aromatherapy application on cognitive functions, anxiety, and sleep quality in the elderly with diabetes.
+- new | 2024 | 38241803 | RCT | Effects of lavender essential oil inhalation aromatherapy on depression and sleep quality in stroke patients: A single-blind randomized controlled trial.
+- new | 2024 | 37966400 | MA/SR | Effect of Lavender Oil on Preoperative Anxiety: Systematic Review and Meta-analysis.
+- new | 2024 | 39717381 | SR | Phytochemicals in the treatment of patients with depression: a systemic review.
+- new | 2024 | 38267936 | RCT | Alleviating effect of lavender (Lavandula angustifolia) and its major components on postherpetic pain: a randomized blinded controlled trial.
+- new | 2024 | 38087747 | RCT | Effect of Lavandula angustifolia and Cananga odorata on decrease of blood pressure in high blood pressure volunteers: A randomized controlled trial.
+- new | 2024 | 38754638 | RCT | The efficacy of oral Lavandula angustifolia Mill. essential oil on menopausal symptoms, serum lipid profile, and cortisol concentration in postmenopausal women: A triple-
+- new | 2024 | 39214150 | RCT | Comparing the Effects of Lavender Aromatherapy and Mindfulness-Based Cognitive Therapy on Sexual Function in Women in Iran.
+- new | 2024 | 38490827 | RCT | The effect of lavender and bergamot oil applied via inhalation on the anxiety level and sleep quality of surgical intensive care unit patients.
+- new | 2024 | 38036371 | RCT | The effect of the hand massage using baby oil with lavender application on the procedural pain and state anxiety of women undergoing brachytherapy: A parallel-group rando
+- new | 2024 | 38016202 | RCT | Effects of lavender oil on odor elimination, ostomy adjustment and quality of life in patients with permanent colostomy: A randomized controlled trial.
+- new | 2024 | 37863680 | RCT | The effect of lavender foot baths on postoperative pain and sleep quality in comparison with foot baths with warm water only-A prospective randomized controlled study.
+- new | 2024 | 38842713 | RCT | The Effect of Aromatherapy with Lavender Essential Oil on the Sleep and Fatigue Level of Patients with Multiple Sclerosis in Turkey: A Randomized Controlled Trial.
+- new | 2024 | 37495431 | RCT | Effect of a lavender essential oil and sleep hygiene protocol on insomnia in postmenopausal women: A pilot randomized clinical trial.
+- new | 2024 | 37931721 | RCT | Lavender and metformin effectively propagate progesterone levels in patients with polycystic ovary syndrome: A randomized, double-blind clinical trial.
+- new | 2024 | 39032323 | RCT | Efficacy of aromatherapy with Lavandula angustifolia oil on postoperative pain after cardiac surgery: A randomized clinical trial.
+- new | 2024 | 38502819 | RCT | Use of a Combination Lavender/Peppermint Aromatherapy Patch During Port Catheter Placement Under Monitored Anesthesia Care Does Not Reduce Time to Discharge Readiness: A 
+- new | 2024 | 38459484 | RCT | The effect of lavender on mood disorders associated with the use of combined oral contraceptives (COCs): a triple-blinded randomized controlled trial.
+- new | 2024 | 39284754 | RCT | The effect of lavender oil use on pain and comfort level in intramuscular injection administration: A single blind randomized controlled study.
+- HELD REF-0857 | 2023 | 37325306 | SR | Essential oils for treating anxiety: a systematic review of randomized controlled trials and network meta-analysis.
+- new | 2023 | 35987683 | RCT | Determining the effect of inhalation and lavender essential oil massage therapy on the severity of perceived labor pain in primiparous women: A randomized controlled tria
+- new | 2023 | 37098173 | RCT | The immediate effects of lavender-based essential oil inhalation on subsequent polysomnography in people with poor sleep quality.
+- new | 2023 | 36651329 | MA/SR/Retracted Publication | Effects of aromatherapy with Rosa damascene and lavender on pain and anxiety of burn patients: A systematic review and meta-analysis.
+- new | 2023 | 35987997 | RCT | The Effect of Lavender on Anxiety and Hemodynamic Status Before Septorhinoplasy and Rhinoplasty.
+- HELD REF-2531 | 2023 | 36717399 | MA | Efficacy of Silexan in patients with anxiety disorders: a meta-analysis of randomized, placebo-controlled trials.
+- new | 2023 | 38130406 | SR | The antibacterial effectiveness of lavender essential oil against methicillin-resistant Staphylococcus aureus: a systematic review.
+- new | 2023 | 36058824 | RCT | "Effects of abdominal massage applied with ginger and lavender oil for elderly with constipation: A randomized controlled trial".
+- new | 2023 | 37494903 | RCT | The Use of Lavender Aromatherapy for Pain After Total Hip and Total Knee Arthroplasty: A Randomized Trial.
+- new | 2023 | 36476355 | RCT | The effect of lavender aromatherapy on the level of intraoperative anxiety in caesarean case under spinal anesthesia: A randomized controlled trial.
+- new | 2023 | 34396816 | RCT | Effect of inhaler and topical lavender oil on pain management of arteriovenous fistula cannulation.
+- new | 2023 | 37289849 | RCT | The Effect of Precolonoscopy Lavender Inhalation on Patient Anxiety and Comfort: A Randomized, Controlled, Double-Blinded, Single-Center Study.
+- new | 2023 | 36646611 | RCT | Effects of rose and lavender scents on nurses' job stress: A randomized controlled trial.
+- new | 2023 | 35262795 | MA | Beneficial effects of Silexan on co-occurring depressive symptoms in patients with subthreshold anxiety and anxiety disorders: randomized, placebo-controlled trials revis
+- new | 2023 | 32893748 | RCT | A novel treatment modality for myogenous temporomandibular disorders using aromatherapy massage with lavender oil: A randomized controlled clinical trial.
+- new | 2023 | 36603110 | RCT | Comparison of Aromatherapy with Citrus aurantium and Lavender on Sexual Satisfaction in Breastfeeding Women: A Randomized Controlled Trial.
+- new | 2023 | 37635603 | RCT | Effectiveness of cold application and lavender oil on pain during drain removal: A randomized clinical trial.
+- new | 2023 | 36270928 | RCT | The effect of a combined treatment of foot soak and lavender oil inhalation therapy on the severity of insomnia of patients with cancer: Randomized interventional study.
+- new | 2023 | 35212648 | RCT | Effects of Long-term Administration of Inhaled Lavender During Hemodialysis on Patients' Invasive Pain, Anxiety, and Comfort During Cannulation: A Single-blind Randomized
+- new | 2022 | 33454232 | RCT | The effects of Lavender and Chamomile essential oil inhalation aromatherapy on depression, anxiety and stress in older community-dwelling people: A randomized controlled 
+- new | 2022 | 35708558 | SR | The Effect of Lavender on Sleep Quality in Individuals Without Insomnia: A Systematic Review.
+- new | 2022 | 35462027 | SR | A systematic review of the effect of lavender on cancer complications.
+- new | 2022 | 35429599 | MA/SR | The effect of lavender on stress in individuals: A systematic review and meta-analysis.
+- new | 2022 | 34611999 | SR | Lavender aromatherapy: A systematic review from essential oil quality and administration methods to cognitive enhancing effects.
+- new | 2022 | 36259937 | MA/Review | Effect of anxiolytic drug silexan on sleep - a narrative review.
+- new | 2022 | 33245709 | RCT | Effects of Aromatherapy with Lavender (Lavandula angustifolia MILL) on Post-Dural Puncture Headache: A Randomized Placebo-Controlled Trial.
+- new | 2022 | 35027302 | RCT | Effectiveness of aromatherapy with inhaled lavender essential oil and breathing exercises on ECT-related anxiety in depressed patients.
+- new | 2022 | 35202010 | RCT | A Pilot Randomized Control Trial to Assess the Impact of Lavender on Anxiety and Comfort After Cesarean Birth and the Barriers Encountered.
+- new | 2022 | 35803088 | RCT | Lavender improves fatigue symptoms in multiple sclerosis patients: A double-blind, randomized controlled trial.
+- new | 2022 | 35202019 | RCT | A Pilot Randomized Control Trial to Assess the Impact of Lavender on Anxiety and Comfort After Cesarean Birth and the Barriers Encountered.
+- new | 2022 | 33305625 | RCT | Comparing the effects of vestibular rehabilitation with and without lavender oil scents as an olfactory stimulus on balance, fear of falling down and activities of daily 
+- new | 2022 | 34736874 | RCT | The effects of lavender, rosemary and orange essential oils on memory problems and medication adherence among patients undergoing hemodialysis: A parallel randomized cont
+- new | 2022 | 35085018 | RCT | Efficacy of Auricular Acupuncture and Lavender Oil Aromatherapy in Reducing Preinterventional Anxiety in Cardiovascular Patients: A Randomized Single-Blind Placebo-Contro
+- new | 2022 | 36945997 | RCT | The effect of topically administered lavender aromatherapy on the pain of insulin injection in diabetic patients: a double-blind randomized controlled clinical trial.
+- new | 2022 | 36076107 | RCT | Comparison of the analgesic effect of inhaled lavender vs vanilla essential oil for neonatal frenotomy: a randomized clinical trial (NCT04867824).
+- new | 2022 | 34496170 | RCT | Effect of Origanum dubium, Origanum vulgare subsp. hirtum, and Lavandula angustifolia essential oils on lipid profiles and liver biomarkers in athletes.
+- new | 2022 | 35377106 | RCT | Analgesic effect of inhaled lavender essential oil for frenotomy in healthy neonates: a randomized clinical trial.
+- new | 2022 | 34779137 | RCT | Effect of massage therapy with lavender oil on severity of restless legs syndrome and quality of life in hemodialysis patients.
+- new | 2021 | 34775136 | MA/SR | Effects of Lavender on Anxiety, Depression, and Physiological Parameters: Systematic Review and Meta-Analysis.
+- HELD REF-0858 | 2021 | 33905827 | RCT | Lavender essential oil on postmenopausal women with insomnia: Double-blind randomized trial.
+- new | 2021 | 33548936 | RCT | The Effect of Lavender Oil on Perioperative Pain, Anxiety, Depression, and Sleep after Microvascular Breast Reconstruction: A Prospective, Single-Blinded, Randomized, Con
+- new | 2021 | 33500169 | RCT | Abdominal Surgical Patients Randomized to Aromatherapy for Pain Management.
+- new | 2021 | 33549687 | MA/SR | The antidepressant effects of lavender (Lavandula angustifolia Mill.): A systematic review and meta-analysis of randomized controlled clinical trials.
+- new | 2021 | 35126747 | RCT | The effect of aromatherapy with lavender essential oil on the working memory of women with multiple sclerosis.
+- new | 2021 | 33259721 | RCT | Pain Control with Lavender Oil in Premature Infants: A Double-Blind Randomized Controlled Study.
+- new | 2021 | 33640257 | RCT | Effect of Lavender Aromatherapy On Arteriovenous Fistula Puncture Pain and the Level of State and Trait Anxiety in Hemodialysis Patients: A Randomized Controlled Trial.
+- new | 2021 | 34355250 | RCT | A randomized, double-blind, single-dose study (LAVENDER) to assess the safety, tolerability, pharmacokinetics, and immunogenicity of a combined infusion of ABP 980 and pe
+- new | 2021 | 32889038 | RCT | The Effect of Aromatherapy Massage With Lavender and Citrus Aurantium Essential Oil on Quality of Life of Patients on Chronic Hemodialysis: A Parallel Randomized Clinical
+- new | 2021 | 33626029 | RCT | Lavender Aromatherapy for Anxiety and Pain During Multichannel Urodynamics: A Randomized Controlled Pilot Trial.
+- new | 2021 | 32798174 | RCT | Effects of lavender oil intervention before endoscopic retrograde cholangiopancreatography on patients' vital signs, pain and anxiety: A randomized controlled study.
+- new | 2021 | 32657903 | RCT | Effect of Massage With Lavender Oil on Postoperative Pain Level of Patients Who Underwent Gynecologic Surgery: A Randomized, Placebo-Controlled Study.
+- new | 2021 | 34222473 | RCT | The Effects of Lavender and Citrus aurantium on Anxiety and Agitation of the Conscious Patients in Intensive Care Units: A Parallel Randomized Placebo-Controlled Trial.
+- new | 2021 | 34217127 | RCT | The effects of aromatherapy massage with lavender essential oil on neuropathic pain and quality of life in diabetic patients: A randomized clinical trial.
+- new | 2021 | 33516726 | RCT | Effects of lavender and Citrus aurantium on pain of conscious intensive care unit patients: A parallel randomized placebo-controlled trial.
+- new | 2021 | 33838094 | RCT | The effects of foot massage on hemodialysis patients' sleep quality and restless leg syndrome: a comparison of lavender and sweet orange essential oil topical application
+- new | 2021 | 34549408 | RCT | [Effects of Inhaling Essential Oil on Headache-Related Quality of Life Among Nurses Working in Emergency and Critical Care Units].
+- new | 2021 | 34229085 | RCT | Effectiveness of lavender inhalation aromatherapy on pain level and vital signs in children with burns: a randomized controlled trial.
+- new | 2020 | 32088511 | SR | The best route of administration of lavender for anxiety: a systematic review and network meta-analysis.
+- new | 2020 | 32379682 | MA/SR | Does aromatherapy with lavender affect physical and psychological symptoms of menopausal women? A systematic review and meta-analysis.
+- new | 2020 | 33066851 | SR | The effect of Lavender on pain and healing of episiotomy: A systematic review.
+- new | 2020 | 31987569 | RCT | Effects of glycerin oil and lavender oil massages on hemodialysis patients' restless legs syndrome.
+- new | 2020 | 32178950 | RCT | A Randomized Prospective Placebo-Controlled Study of the Effects of Lavender Aromatherapy on Preoperative Anxiety in Cataract Surgery Patients.
+- new | 2020 | 32212806 | RCT | The Effect of Lavender Aroma on Anxiety of Patients Having Bone Marrow Biopsy.
+- new | 2020 | 32267031 | RCT | The effect of aromatherapy with rose and lavender on anxiety, surgical site pain, and extubation time after open-heart surgery: A double-center randomized controlled tria
+- new | 2020 | 32147050 | SR | The relationship between lavender and tea tree essential oils and pediatric endocrine disorders: A systematic review of the literature.
+- new | 2020 | 32147068 | RCT | The effectiveness of familiar olfactory stimulation with lavender scent and glucose on the pain of blood sampling in term neonates: A randomized controlled clinical trial
+- new | 2020 | 31859096 | RCT | The effect of aromatherapy massage with lavender and chamomile oil on anxiety and sleep quality of patients with burns.
+- new | 2020 | 32891272 | RCT | The effects of lavender aromatherapy on stress and pain perception in children during dental treatment: A randomized clinical trial.
+- new | 2020 | 32463382 | RCT | Comparison the effects of inhalation and massage aromatherapy with lavender and sweet orange on fatigue in hemodialysis patients: a randomized clinical trial.
+- new | 2020 | 32396914 | RCT | The Effect of Lavender Oil on Sleep Quality and Vital Signs in Palliative Care: A Randomized Clinical Trial.
+- new | 2020 | 32709507 | RCT | The Effects of Inhalation Aromatherapy Using Lavender Essential Oil on Postoperative Pain of Inguinal Hernia: A Randomized Controlled Trial.
+- new | 2020 | 32030454 | RCT | Can lavender oil inhalation help to overcome dental anxiety and pain in children? A randomized clinical trial.
+- new | 2020 | 31730539 | RCT | Compare the effect of aromatherapy using lavender and Damask rose essential oils on the level of anxiety and severity of pain following C-section: A double-blinded random
+- new | 2020 | 31931160 | RCT | Efficacy of inhaled Lavandula angustifolia Mill. Essential oil on sleep quality, quality of life and metabolic control in patients with diabetes mellitus type II and inso
+- new | 2020 | 32620104 | RCT | A double-blind, randomized pilot study for comparison of Melissa officinalis L. and Lavandula angustifolia Mill. with Fluoxetine for the treatment of depression.
+- new | 2020 | 32341707 | RCT | The Effect of Music Therapy and Aromatherapy with Chamomile-Lavender Essential Oil on the Anxiety of Clinical Nurses: A Randomized and Double-Blind Clinical Trial.
+- new | 2020 | 32739466 | RCT | Lavender and dodder combined herbal syrup versus citalopram in major depressive disorder with anxious distress: A double-blind randomized trial.
+- new | 2020 | 32444033 | RCT | The effect of lavender herbal tea on the anxiety and depression of the elderly: A randomized clinical trial.
+- new | 2019 | 31655395 | MA/SR | Effects of lavender on anxiety: A systematic review and meta-analysis.
+- new | 2019 | 31121394 | RCT | Beneficial effects of Silexan on sleep are mediated by its anxiolytic effect.
+- new | 2019 | 30660371 | RCT | Effect of Lavender Oil on the Anxiety of Patients Before Breast Surgery.
+- new | 2019 | 31743795 | MA/SR | How Strong is the Evidence for the Anxiolytic Efficacy of Lavender?: Systematic Review and Meta-analysis of Randomized Controlled Trials.
+- new | 2019 | 31003654 | RCT | The effect of diluted lavender oil inhalation on pain development during vascular access among patients undergoing haemodialysis.
+- new | 2019 | 31574261 | RCT | Effect of Lavender Oil Inhalation on Reducing Presurgical Anxiety in Orthognathic Surgery Patients.
+- new | 2019 | 31505191 | RCT | Influence of lavender oil inhalation on vital signs and anxiety: A randomized clinical trial.
+- new | 2019 | 31792285 | SR | Efficacy and safety of lavender essential oil (Silexan) capsules among patients suffering from anxiety disorders: A network meta-analysis.
+- new | 2019 | 31383445 | RCT | Comparing effects of aromatherapy with lavender essential oil and orange essential oil on fatigue of hemodialysis patients: A randomized trial.
+- new | 2019 | 30670268 | RCT | A randomised controlled trial of Lavender (Lavandula Angustifolia) and Lemon Balm (Melissa Officinalis) essential oils for the treatment of agitated behaviour in older pe
+- new | 2019 | 31003666 | RCT | Comparing the effects of massage and aromatherapy massage with lavender oil on sleep quality of cardiac patients: A randomized controlled trial.
+- new | 2019 | 31476706 | RCT | Effects of lavender essential oil for colorectal cancer patients with permanent colostomy on elimination of odor, quality of life, and ostomy adjustment: A randomized con
+- new | 2019 | 30712745 | RCT | Effect of lavender aromatherapy through inhalation on quality of life among postmenopausal women covered by a governmental health center in Isfahan, Iran: A single-blind 
+- new | 2018 | 29778129 | RCT | The Effect of Lavender Aromatherapy on the Symptoms of Menopause.
+- new | 2018 | 29508154 | SR | Complementary and Alternative Medicine Treatments for Generalized Anxiety Disorder: Systematic Review and Meta-analysis of Randomized Controlled Trials.
+- new | 2018 | 30156654 | RCT | Effectiveness of aromatherapy massage on the stress of the surgical center nursing team: a pilot study.
+- new | 2018 | 29565630 | RCT | Effectiveness of Aromatherapy Massage and Inhalation on Symptoms of Depression in Chinese Community-Dwelling Older Adults.
+- new | 2018 | 30439747 | SR | Effectiveness of Silexan oral lavender essential oil compared to inhaled lavender essential oil aromatherapy for sleep in adults: a systematic review.
+- new | 2018 | 28749734 | RCT | Comparison of the effect of lavender and bitter orange on sleep quality in postmenopausal women: A triple-blind, randomized, controlled clinical trial.
+- new | 2018 | 29547610 | RCT | Aromatherapy: The Effect of Lavender on Anxiety and Sleep Quality in Patients Treated With Chemotherapy.
+- new | 2018 | 29787355 | RCT | Effect of Lavender cream with or without footbath on sleep quality and fatigue in pregnancy and postpartum: a randomized controlled trial.
+- new | 2018 | 30320657 | RCT | The Effect of Lavender Oil Application via Inhalation Pathway on Hemodialysis Patients' Anxiety Level and Sleep Quality.
+- new | 2018 | 29705445 | RCT | Comparison of the effect of lavender and bitter orange on anxiety in postmenopausal women: A triple-blind, randomized, controlled clinical trial.
+- new | 2017 | 27861196 | MA | Lavender Oil Preparation (Silexan) for Treating Anxiety: An Updated Meta-Analysis.
+- new | 2017 | 28379882 | RCT | Silexan in generalized anxiety disorder: investigation of the therapeutic dosage range in a pooled data set.
+- new | 2017 | 28779939 | RCT | Effects of lavender scent on patients' anxiety and pain levels during gynecological examination.
+- new | 2017 | 28504569 | RCT | Comparisons for Effectiveness of Aromatherapy and Acupressure Massage on Quality of Life in Career Women: A Randomized Controlled Trial.
+- new | 2016 | 26850806 | RCT | The use of aromasticks to help with sleep problems: A patient experience survey.
+- new | 2016 | 27388435 | RCT | Effect of lavender aromatherapy on menopause hot flushing: A crossover randomized clinical trial.
+- new | 2016 | 27157961 | RCT | Evaluating the efficacy of lavender aromatherapy on peripheral venous cannulation pain and anxiety: A prospective, randomized study.
+- new | 2016 | 26850803 | RCT | The effects of aromatherapy with lavender essential oil on fatigue levels in haemodialysis patients: A randomized clinical trial.
+- new | 2016 | 27863613 | RCT | Effect of aromatherapy massage with lavender essential oil on pain in patients with osteoarthritis of the knee: A randomized controlled clinical trial.
+- new | 2016 | 27863615 | RCT | The effect of aromatherapy with lavender essence on severity of labor pain and duration of labor in primiparous women.
+- new | 2016 | 27555173 | RCT | Both lavender fleur oil and unscented oil aromatherapy reduce preoperative anxiety in breast surgery patients: a randomized trial.
+- new | 2015 | 25384116 | RCT/Retracted Publication | Lavender-thymol as a new topical aromatherapy preparation for episiotomy: A randomised clinical trial.
+- new | 2015 | 26133206 | RCT | Effect of Inhaled Lavender and Sleep Hygiene on Self-Reported Sleep Issues: A Randomized Controlled Trial.
+- new | 2014 | 24439636 | RCT | The effects of lavender aromatherapy on pain following needle insertion into a fistula in hemodialysis patients.
+- new | 2014 | 25319228 | RCT | No interacting influence of lavender oil preparation silexan on oral contraception using an ethinyl estradiol/levonorgestrel combination.
+- new | 2014 | 24382614 | RCT | Effect of lavender aromatherapy on vital signs and perceived quality of sleep in the intermediate care unit: a pilot study.
+- new | 2014 | 25522403 | RCT | Effects of Silexan on the serotonin-1A receptor and microstructure of the human brain: a randomized, placebo-controlled, double-blind, cross-over study with molecular and
+- new | 2014 | 24731891 | RCT | Effect of lavender inhalation on the symptoms of primary dysmenorrhea and the amount of menstrual bleeding: A randomized clinical trial.
+- new | 2013 | 23414090 | RCT | Control of the chewing louse Bovicola (Werneckiella) ocellatus in donkeys, using essential oils.
+- new | 2013 | 23360656 | RCT | Randomized controlled trial for Salvia sclarea or Lavandula angustifolia: differential effects on blood pressure in female patients with urinary incontinence undergoing u
+- new | 2013 | 24219098 | RCT | A randomized, controlled cross-over trial of dermally-applied lavender (Lavandula angustifolia) oil as a treatment of agitated behaviour in dementia.
+- new | 2013 | 23932834 | RCT | Evaluation of the effect of aromatherapy with lavender essential oil on post-tonsillectomy pain in pediatric patients: a randomized controlled trial.
+- new | 2013 | 23401474 | RCT | Drug cocktail interaction study on the effect of the orally administered lavender oil preparation silexan on cytochrome P450 enzymes in healthy volunteers.
+- new | 2013 | 23211454 | RCT | Possible efficacy of Lavender and Tea tree oils in the treatment of young women affected by mild idiopathic hirsutism.
+- new | 2012 | 22464012 | MA/SR | Is lavender an anxiolytic drug? A systematic review of randomised clinical trials.
+- new | 2012 | 22582680 | RCT | Effects of lavender aroma on sleep quality in healthy Japanese students.
+- new | 2012 | 22196577 | RCT | Episiotomy pain relief: Use of Lavender oil essence in primiparous Iranian women.
+- new | 2012 | 22558691 | RCT | Topical lavender oil for the treatment of recurrent aphthous ulceration.
+- new | 2012 | 22435980 | RCT | The effectiveness of aromatherapy massage using lavender oil as a treatment for infantile colic.
+- new | 2012 | 22789792 | RCT | The effects of clinical aromatherapy for anxiety and depression in the high risk postpartum woman - a pilot study.
+- new | 2011 | 22235509 | RCT | Lavender essence for post-cesarean pain.
+- new | 2011 | 21649812 | RCT | Effects of lavender olfactory input on cosmetic procedures.
+- new | 2011 | 21168115 | RCT | Healing advantages of lavender essential oil during episiotomy recovery: a clinical trial.
+- new | 2011 | 21854199 | RCT | The effect of lavender oil on stress, bispectral index values, and needle insertion pain in volunteers.
+- new | 2010 | 19962288 | RCT | A multi-center, double-blind, randomised study of the Lavender oil preparation Silexan in comparison to Lorazepam for generalized anxiety disorder.
+- new | 2010 | 19968674 | RCT | The effects of lavender scent on dental patient anxiety levels: a cluster randomised-controlled trial.
+- new | 2009 | 19382124 | RCT | Effects of orally administered lavender essential oil on responses to anxiety-provoking film clips.
+- new | 2009 | 19853815 | RCT | Effectiveness of the essential oils lavender and ginger in promoting children's comfort in a perianesthesia setting.
+- new | 2008 | 18635155 | RCT | Effect of lavender aroma on salivary endocrinological stress markers.
+- new | 2008 | 17689755 | Clinical Trial/RCT | Relaxation effects of lavender aromatherapy improve coronary flow velocity reserve in healthy men evaluated by transthoracic Doppler echocardiography.
+- new | 2008 | 18713168 | RCT | Lavender aroma therapy for behavioral and psychological symptoms in dementia patients.
+- new | 2008 | 17845737 | RCT | Expectancies, not aroma, explain impact of lavender aromatherapy on psychophysiological indices of relaxation in young healthy women.
+- new | 2007 | 17894152 | RCT | Treatment with lavender aromatherapy in the post-anesthesia care unit reduces opioid requirements of morbidly obese patients undergoing laparoscopic adjustable gastric ba
+- new | 2007 | 17342790 | RCT | Efficacy of aromatherapy (Lavandula angustifolia) as an intervention for agitated behaviours in Chinese older persons with dementia: a cross-over randomized trial.
+- new | 2006 | 16401526 | RCT | An experimental study on the effectiveness of acupressure with aromatic lavender essential oil for sub-acute, non-specific neck pain in Hong Kong.
+- new | 2004 | 15364646 | SR | Lavender (Lavandula angustifolia Miller).
+- new | 2004 | 15130569 | Clinical Trial/RCT | The effectiveness of relaxation acupoint stimulation and acupressure with aromatic lavender essential oil for non-specific low back pain in Hong Kong: a randomised contro
+- new | 2004 | 15546807 | Clinical Trial/RCT | Effects of lozenge containing lavender oil, extracts from hops, lemon balm and oat on electrical brain activity of volunteers.
+- HELD REF-0173 | 2003 | 12690999 | Clinical Trial/RCT | Aromas of rosemary and lavender essential oils differentially affect cognition and mood in healthy adults.
+- new | 2002 | 12594973 | Clinical Trial/RCT | The effects of lavender (Lavendula angustifolium) baths on psychological well-being: two exploratory randomised control trials.
+- new | 2001 | 11806592 | Clinical Trial/RCT | Reduction of mental stress with lavender odorant.
+- new | 2000 | 10812753 | Clinical Trial/RCT | The effect of foot-bath with or without the essential oil of lavender on the autonomic nervous system: a randomized trial.
+- new | 1999 | 10407881 | Clinical Trial/RCT | Lavender aromatherapy in recovery from exercise.
+- new | 1995 | 7719750 | Clinical Trial/RCT | Lavender oil and perineal repair.
+- new | 1994 | 8138636 | Clinical Trial/RCT | The role of lavender oil in relieving perineal discomfort following childbirth: a blind randomized clinical trial.
+
+## lentinula-edodes (Lentinula edodes; Shiitake (mushroom)) - 13 (+CT) hits; query: ("Lentinula edodes"[tiab] OR "Shiitake (mushroom)"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42648714 | MA/SR | Lentinula edodes in Cancer Treatment: A Systematic Review and Meta-Analysis.
+- new | 2023 | 35950537 | RCT | Efficacy of Lentinula edodes Mycelia Extract on Chemotherapy-Related Tasted Disorders in Pancreatic Cancer Patients.
+- new | 2022 | 35075934 | Clinical Trial | Preventing Recurrence of Hepatocellular Carcinoma After Curative Hepatectomy With Active Hexose-correlated Compound Derived From Lentinula edodes Mycelia.
+- new | 2021 | 33309412 | SR | Fungal beta-glucans as adjuvants for treating cancer patients - A systematic review of clinical trials.
+- new | 2021 | 33876798 | SR | Effects of fungal beta-glucans on health - a systematic review of randomized controlled trials.
+- new | 2021 | 33580297 | RCT | Modulation of human intestinal microbiota in a clinical trial by consumption of a β-D-glucan-enriched extract obtained from Lentinula edodes.
+- new | 2020 | 32749096 | RCT | A Quality-of-Life Study in Healthy Adults Supplemented with Lentinex® Beta-Glucan of Shiitake Culinary-Medicinal Mushroom, Lentinus edodes (Agaricomycetes).
+- new | 2019 | 31030752 | SR | Mushroom polysaccharide lentinan for treating different types of cancers: A review of 12 years clinical studies in China.
+- new | 2019 | 31618905 | RCT | Modulation of T Regulatory and Dendritic Cell Phenotypes Following Ingestion of Bifidobacterium longum, AHCC(®) and Azithromycin in Healthy Individuals.
+- HELD REF-1169 | 2017 | 28054338 | SR | Clinical features of shiitake dermatitis: a systematic review.
+- new | 2015 | 25866155 | RCT | Consuming Lentinula edodes (Shiitake) Mushrooms Daily Improves Human Immunity: A Randomized Dietary Intervention in Healthy Young Adults.
+- new | 2011 | 21598414 | Clinical Trial | Efficacy and safety of orally administered Lentinula edodes mycelia extract for patients undergoing cancer chemotherapy: a pilot study.
+- new | 2007 | 18202543 |  | A Phase I study of the safety of the nutritional supplement, active hexose correlated compound, AHCC, in healthy volunteers.
+
+## leonurus-cardiaca (Leonurus cardiaca; Motherwort) - 8 (+CT) hits; query: ("Leonurus cardiaca"[tiab] OR "Motherwort"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40527062 | MA | Motherwort synergized with oxytocin for postpartum hemorrhage prevention: Integrated clinical efficacy and mechanism exploration.
+- new | 2022 | 35935833 | SR | Motherwort Injection for Preventing Uterine Hemorrhage in Women With Induced Abortion: A Systematic Review and Meta-Analysis of Randomized Evidence.
+- new | 2020 | 31492552 | RCT | Motherwort injection in preventing post-abortion hemorrhage after induced abortion: A multi-center, prospective, randomized controlled trial.
+- new | 2019 | 30288846 | MA/Review | Efficacy and safety of motherwort injection add-on therapy to carboprost tromethamine for prevention of post-partum blood loss: A meta-analysis of randomized controlled t
+- new | 2018 | 29882344 | MA/SR | Motherwort injection for preventing postpartum hemorrhage in pregnant women with cesarean section: A systematic review and meta-analysis.
+- new | 2016 | 26414626 | RCT | Combination of motherwort injection and oxytocin for the prevention of postpartum hemorrhage after cesarean section.
+- new | 2009 | 19570440 | RCT | [Multi-center study of motherwort injection to prevent postpartum hemorrhage after caesarian section].
+- new | 2006 | 17209457 | Clinical Trial | [Effects of melatonin and motherwort tincture on the emotional state and visual functions in anxious subjects].
+
+## linum-usitatissimum (Linum usitatissimum; Flaxseed) - 216 hits; query: ("Linum usitatissimum"[tiab] OR "Flaxseed"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42915783 | RCT | Oxidomics of Human Plasma Reveals Lower Oxidized Lipids After Acute Intake of Polyphenol-Enriched Flaxseed Oil: A Randomized Crossover Exercise Trial.
+- new | 2026 | 41735208 | SR | The Anti-Aging Benefits of Phytoestrogens: Insights and Evidence.
+- new | 2026 | 41478596 | RCT | Effect of Flaxseed Supplementation on Headache Characteristics and Quality of Life in Patients with Migraine: A Randomized Controlled Trial.
+- new | 2026 | 42480309 | SR | Seed-derived mucilage polysaccharides as biomaterials for in vivo tissue regeneration: A systematic review.
+- new | 2026 | 35382631 | RCT | Effects of flaxseed consumption on plasma lipids, lipoprotein-associated phospholipase A(2) activity and gut microbiota composition in patients with coronary artery disea
+- new | 2025 | 40260281 | RCT | Flaxseed intervention and reproductive endocrine profiles in patients with polycystic ovary syndrome: an open-labeled randomized controlled clinical trial.
+- new | 2025 | 40499336 | SR/MA | The effect of flaxseed supplementation on anthropometric indices, blood pressure, and lipid profile in diabetic patients: A GRADE-assessed systematic review and meta-anal
+- new | 2025 | 39878023 | RCT | Flaxseed powder supplementation in non-alcoholic fatty liver disease: a randomized controlled clinical trial.
+- new | 2025 | 40958692 | RCT | Thus far there are no statistically significant differences between various apolipoprotein E genotypes in the cluster of seven responsiveness to a flaxseed oil supplement
+- new | 2025 | 40005038 | RCT | Flaxseed Improves Glucose and Lipid Metabolism in Mexican Subjects with Type 2 Diabetes: A Parallel Randomized Clinical Trial.
+- new | 2024 | 39002708 | MA/SR | Does flaxseed supplementation affect apo-lipoproteins? A GRADE-assessed systematic review and meta-analysis.
+- new | 2024 | 38971216 | MA/SR | Effects of flaxseed supplementation on inflammatory biomarkers: A GRADE-assessed systematic review and meta-analysis of randomized controlled trials.
+- new | 2024 | 36193986 | SR | Health benefits of flaxseed and its peptides (linusorbs).
+- new | 2024 | 38663513 | SR/MA | Impact of flaxseed supplementation on lipid profile and liver enzymes in patients with non-alcoholic fatty liver disease: Systematic review and meta-analysis of randomize
+- HELD REF-2221 | 2024 | 38992480 | SR/MA | The effects of flaxseed (Linum usitatissimum) supplementation on anthropometric indices: An updated systematic review and meta-analysis of randomized clinical trials.
+- new | 2024 | 38269632 | MA/SR | Effects of flaxseed supplementation on weight loss, lipid profiles, glucose, and high-sensitivity C-reactive protein in patients with coronary artery disease: A systemati
+- new | 2024 | 38726572 | SR/MA | The impact of flaxseed oil on lipid profiles, weight loss, and inflammatory markers in hemodialysis patients: A systematic review and meta-analysis of randomized controll
+- new | 2024 | 39558500 | SR/MA | Supplementation of Olive Oil and Flaxseed Oil on Blood Pressure and Inflammation in Healthy and At-Risk Adults: A Systematic Literature Review and Meta-Analysis.
+- new | 2024 | 38815204 | RCT | Clinical application of hempseed or flaxseed oil-based lyotropic liquid crystals: Evaluation of their impact on skin barrier function.
+- new | 2024 | 39550356 | RCT | Effectiveness of flaxseed consumption and fasting mimicking diet on anthropometric measures, biochemical parameters, and hepatic features in patients with Metabolic Dysfu
+- new | 2024 | 38469148 | RCT | Effects of flaxseed oil supplementation on metaphase II oocyte rates in IVF cycles with decreased ovarian reserve: a randomized controlled trial.
+- new | 2024 | 39572875 | RCT | Various apolipoprotein E genotypes relate to responsiveness to flaxseed lignan complex in older persons with type 2 diabetes mellitus.
+- new | 2023 | 37743909 | SR | Can flaxseed supplementation affect circulating adipokines in adults? An updated systematic review and meta-analysis of randomized controlled trials.
+- new | 2023 | 36986229 | RCT | Supplementation with Flaxseed Oil Rich in Alpha-Linolenic Acid Improves Verbal Fluency in Healthy Older Adults.
+- new | 2023 | 36622248 | SR/MA | Effect of flaxseed supplementation on blood pressure: a systematic review, and dose-response meta-analysis of randomized clinical trials.
+- new | 2023 | 36640581 | MA/SR | Flaxseed supplementation significantly reduces hemoglobin A1c in patients with type 2 diabetes mellitus: A systematic review and meta-analysis.
+- new | 2023 | 37927501 | SR | The effect of flaxseed supplementation on sex hormone profile in adults: a systematic review and meta-analysis.
+- new | 2023 | 36433633 | SR | The effects of flaxseed or its oil supplementations on polycystic ovary syndrome: A systematic review of clinical trials.
+- new | 2023 | 36368262 | RCT | Gene-diet interaction in response to defatted flaxseed flour supplementation on obesity-related traits in Chinese overweight and obese adults: A randomized controlled tri
+- new | 2023 | 37335239 | RCT | Effects of olive oil and flaxseed consumption in a healthy diet on endothelial function, plasma lipids and inflammatory factors of patients with coronary heart disease: a
+- new | 2023 | 36753666 | RCT | Fatty acid correlations with HOMA-IR and HOMA-% β are differentially dictated by their serum free and total pools and flaxseed oil supplementation.
+- new | 2022 | 35843472 | MA/SR | Effect of flaxseed (Linum usitatissimum) supplementation on glycemic control and insulin resistance in prediabetes and type 2 diabetes: A systematic review and meta-analy
+- new | 2022 | 30843767 | RCT | Flaxseed supplementation improves anthropometric measurements, metabolic, and inflammatory biomarkers in overweight and obese adults.
+- new | 2022 | 35859037 | MA/SR | The effect of flaxseed oil consumtion on blood pressure among patients with metabolic syndrome and related disorders: A systematic review and meta-analysis of randomized 
+- new | 2022 | 35745197 | MA/SR | Role of Phytoestrogen-Rich Bioactive Substances (Linum usitatissimum L., Glycine max L., Trifolium pratense L.) in Cardiovascular Disease Prevention in Postmenopausal Wom
+- new | 2022 | 34384619 | MA/SR | Effects of Flaxseed on Blood Lipids in Healthy and Dyslipidemic Subjects: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2022 | 35916016 | SR | The effect of flaxseed intake on appetite reduction: A systematic review of randomized clinical trials.
+- new | 2022 | 36380973 | SR | Platelet Aggregation Inhibition: An Evidence-Based Systematic Review on the Role of Herbs for Primary Prevention Based on Randomized Controlled Trials.
+- new | 2022 | 36145115 | RCT | Acute Flaxseed Intake Reduces Postprandial Glycemia in Subjects with Type 2 Diabetes: A Randomized Crossover Clinical Trial.
+- new | 2022 | 35311432 | RCT | Brown and golden flaxseed reduce intestinal permeability and endotoxemia, and improve the lipid profile in perimenopausal overweight women.
+- new | 2022 | 35889835 | RCT | Effect of Flaxseed (Linum usitatissimum L.) Supplementation on Vascular Endothelial Cell Morphology and Function in Patients with Dyslipidaemia-A Preliminary Observation.
+- new | 2022 | 34837524 | RCT | The effect of flaxseed with or without anti-inflammatory diet in patients with rheumatoid arthritis, a randomized controlled trial.
+- new | 2022 | 35130547 | RCT | Flaxseed Mucilage (IQP-LU-104) Reduces Body Weight in Overweight and Moderately Obese Individuals in a 12-week, Three-Arm, Double-Blind, Randomized, and Placebo-Controlle
+- new | 2022 | 34119421 | RCT | Effects of flaxseed on blood pressure, body mass index, and total cholesterol in hypertensive patients: A randomized clinical trial.
+- new | 2021 | 31634874 | MA | Flaxseed Supplementation Reduces Plasma Lipoprotein(a) Levels: A Meta-Analysis.
+- new | 2021 | 34602412 | RCT | Analysis of Unani coded formulation on the hormonal parameters of patients with polycystic ovarian syndrome.
+- new | 2021 | 32296931 | RCT | Flaxseed and/or hesperidin supplementation in metabolic syndrome: an open-labeled randomized controlled trial.
+- new | 2021 | 32699911 | RCT | The effect of a split portion of flaxseed on 24-h blood glucose response.
+- new | 2021 | 33482045 | RCT | The effects of flaxseed supplementation on gene expression and inflammation in ulcerative colitis patients: An open-labelled randomised controlled trial.
+- new | 2021 | 34161146 | RCT | Phase II Trial of Flaxseed to Prevent Acute Complications After Chemoradiation for Lung Cancer.
+- new | 2021 | 33856729 | RCT | The effects of flaxseed supplementation on metabolic syndrome parameters, insulin resistance and inflammation in ulcerative colitis patients: An open-labeled randomized c
+- new | 2021 | 33028427 | RCT | The effect of flaxseed on physical and mental fatigue in children and adolescents with overweight/obesity: a randomised controlled trial.
+- new | 2021 | 33809130 | RCT | Enterolignan Production in a Flaxseed Intervention Study in Postmenopausal US Women of African Ancestry and European Ancestry.
+- new | 2021 | 32647367 | RCT | The efficacy of flaxseed and hesperidin on non-alcoholic fatty liver disease: an open-labeled randomized controlled trial.
+- new | 2021 | 34227198 | RCT | Effect of flaxseed consumption on central obesity, serum lipids, and adiponectin level in overweight or obese women: A randomised controlled clinical trial.
+- new | 2020 | 32073724 | MA/SR | Impact of flaxseed supplementation on plasma lipoprotein(a) concentrations: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2020 | 33183549 | MA/SR | Effects of flaxseed oil supplementation on biomarkers of inflammation and oxidative stress in patients with metabolic syndrome and related disorders: A systematic review 
+- new | 2020 | 32050052 | MA/SR | The effect of flaxseed supplementation on circulating adiponectin and leptin concentration in adults: A systematic review and meta-analysis of randomized controlled trial
+- new | 2020 | 31899314 | MA/SR | Effect of flaxseed supplementation on lipid profile: An updated systematic review and dose-response meta-analysis of sixty-two randomized controlled trials.
+- new | 2020 | 31739218 | MA/SR | Effect of flaxseed supplementation on markers of inflammation and endothelial function: A systematic review and meta-analysis.
+- new | 2020 | 32575611 | RCT | Effect of a Flaxseed Lignan Intervention on Circulating Bile Acids in a Placebo-Controlled Randomized, Crossover Trial.
+- new | 2020 | 31734510 | RCT | An artificial tear containing flaxseed oil for treating dry eye disease: A randomized controlled trial.
+- new | 2020 | 32966475 | RCT | Defatted flaxseed flour improves weight loss and lipid profile in overweight and obese adults: a randomized controlled trial.
+- new | 2020 | 31992372 | RCT | Flaxseed oil in the context of a weight loss programme ameliorates fatty liver grade in patients with non-alcoholic fatty liver disease: a randomised double-blind control
+- new | 2020 | 33188423 | RCT | Two Blends of Refined Rice Bran, Flaxseed, and Sesame Seed Oils Affect the Blood Lipid Profile of Chinese Adults with Borderline Hypercholesterolemia to a Similar Extent 
+- new | 2020 | 31902378 | RCT | The effects of n-3 fatty acids from flaxseed oil on genetic and metabolic profiles in patients with gestational diabetes mellitus: a randomised, double-blind, placebo-con
+- new | 2020 | 31980022 | RCT | The effects of flaxseed supplementation on metabolic status in women with polycystic ovary syndrome: a randomized open-labeled controlled clinical trial.
+- new | 2020 | 32229443 | RCT | Effects of flaxseed supplementation on functional constipation and quality of life in a Chinese population: A randomized trial.
+- new | 2019 | 31115436 | MA/SR | Effects of Flaxseed Interventions on Circulating Inflammatory Biomarkers: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2019 | 30768427 | SR | Plant-derived medicines for neuropathies: a comprehensive review of clinical evidence.
+- new | 2019 | 30806856 | RCT | Effect of flaxseed poultice compress application on pain and hand functions of patients with hand osteoarthritis.
+- new | 2019 | 31175806 | RCT | Colonic mucosal and exfoliome transcriptomic profiling and fecal microbiome response to a flaxseed lignan extract intervention in humans.
+- new | 2019 | 31519285 | RCT | Effects of flaxseed and flaxseed oil supplement on serum levels of inflammatory markers, metabolic parameters and severity of disease in patients with ulcerative colitis.
+- new | 2019 | 30127374 | RCT | Effect of flaxseed consumption on flow-mediated dilation and inflammatory biomarkers in patients with coronary artery disease: a randomized controlled trial.
+- new | 2019 | 30661699 | RCT | Effect of flaxseed or psyllium vs. placebo on management of constipation, weight, glycemia, and lipids: A randomized trial in constipated patients with type 2 diabetes.
+- new | 2019 | 30709839 | RCT | Genetic Variation in Steroid and Xenobiotic Metabolizing Pathways and Enterolactone Excretion Before and After Flaxseed Intervention in African American and European Amer
+- new | 2019 | 31190359 | RCT | A comparison between the effects of flaxseed oil and fish oil supplementation on cardiovascular health in type 2 diabetic patients with coronary heart disease: A randomiz
+- new | 2019 | 30375890 | RCT | Effect of Dietary Flaxseed Intake on Circulating Sex Hormone Levels among Postmenopausal Women: A Randomized Controlled Intervention Trial.
+- new | 2019 | 30308127 | RCT | The effects of dietary flaxseed on cardiac arrhythmias and claudication in patients with peripheral arterial disease (1).
+- new | 2019 | 29999194 | RCT | Effect of milled flaxseed and storage conditions on sensory properties and selected bioactive compounds in banana and cinnamon muffins used in a clinical trial.
+- new | 2018 | 29228348 | MA/SR | Flaxseed supplementation on glucose control and insulin sensitivity: a systematic review and meta-analysis of 25 randomized, placebo-controlled trials.
+- new | 2018 | 28619236 | RCT | The effect of isolated soy protein adjunctive with flaxseed oil on markers of inflammation, oxidative stress, acute phase proteins, and wound healing of burn patients; a 
+- new | 2018 | 29849178 | RCT | Effect of supplementation with flaxseed oil and different doses of fish oil for 2 weeks on plasma phosphatidylcholine fatty acids in young women.
+- new | 2018 | 29866187 | RCT | Comparing isolated soy protein with flaxseed oil vs isolated soy protein with corn oil and wheat flour with corn oil consumption on muscle catabolism, liver function, blo
+- new | 2018 | 29229363 | RCT | Comparison of the effects of flaxseed oil and sunflower seed oil consumption on serum glucose, lipid profile, blood pressure, and lipid peroxidation in patients with meta
+- new | 2018 | 29117618 | RCT | The Effects of Flaxseed Oil Omega-3 Fatty Acids Supplementation on Metabolic Status of Patients with Polycystic Ovary Syndrome: A Randomized, Double-Blind, Placebo-Contro
+- new | 2018 | 30087216 | RCT | Effects of Flaxseed Oil on Serum Bone Turnover Markers in Hemodialysis Patients: a Randomized Controlled Trial.
+- new | 2017 | 28635182 | MA/SR | The effect of flaxseed supplementation on body weight and body composition: a systematic review and meta-analysis of 45 randomized placebo-controlled trials.
+- new | 2017 | 28000689 | RCT | Comparison of flax (Linum usitatissimum) and Salba-chia (Salvia hispanica L.) seeds on postprandial glycemia and satiety in healthy individuals: a randomized, controlled,
+- new | 2017 | 28716357 | RCT | Clinical and metabolic response to flaxseed oil omega-3 fatty acids supplementation in patients with diabetic foot ulcer: A randomized, double-blind, placebo-controlled t
+- new | 2017 | 27885786 | RCT | Effects of flaxseed oil on blood hepcidin and hematologic factors in hemodialysis patients.
+- new | 2017 | 26763612 | RCT | Evaluation of the effectiveness of a chamomile (Matricaria chamomilla) and linseed (Linum usitatissimum) saliva substitute in the relief of xerostomia in elders.
+- new | 2017 | 28380580 | RCT | Standardized total tract digestibility of phosphorus in flaxseed meal fed to growing and finishing pigs without or with phytase supplementation.
+- new | 2017 | 28916975 | RCT | Flaxseed Oil Supplementation Improve Gene Expression Levels of PPAR-γ, LP(a), IL-1 and TNF-α in Type 2 Diabetic Patients with Coronary Heart Disease.
+- new | 2017 | 28817082 | RCT | Omega-3 Long-Chain Fatty Acids in the Heart, Kidney, Liver and Plasma Metabolite Profiles of Australian Prime Lambs Supplemented with Pelleted Canola and Flaxseed Oils.
+- new | 2017 | 28922068 | RCT | Influence of Flaxseed Lignan Supplementation to Older Adults on Biochemical and Functional Outcome Measures of Inflammation.
+- new | 2016 | 26959052 | MA/SR | Effect of Flaxseed Intervention on Inflammatory Marker C-Reactive Protein: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2016 | 26071633 | MA/SR | Effects of flaxseed supplements on blood pressure: A systematic review and meta-analysis of controlled clinical trial.
+- new | 2016 | 27151322 | RCT | Flaxseed Supplementation in Metabolic Syndrome Management: A Pilot Randomized, Open-labeled, Controlled Study.
+- new | 2016 | 26983396 | RCT | Flaxseed supplementation in non-alcoholic fatty liver disease: a pilot randomized, open labeled, controlled study.
+- new | 2016 | 27528063 | RCT | Dietary Flaxseed Reduces Central Aortic Blood Pressure Without Cardiac Involvement but Through Changes in Plasma Oxylipins.
+- new | 2016 | 26860808 | RCT | Effects of Vitex agnus and Flaxseed on cyclic mastalgia: A randomized controlled trial.
+- new | 2016 | 26409038 | RCT | Muscle antioxidant (vitamin E) and major fatty acid groups, lipid oxidation and retail colour of meat from lambs fed a roughage based diet with flaxseed or algae.
+- new | 2016 | 28046153 | RCT | Energy content and amino acid digestibility of flaxseed expellers fed to growing pigs.
+- new | 2016 | 25808116 | RCT | The effect of flaxseed dose on circulating concentrations of alpha-linolenic acid and secoisolariciresinol diglucoside derived enterolignans in young, healthy adults.
+- new | 2016 | 27115157 | RCT | Effect of flaxseed oil on serum systemic and vascular inflammation markers and oxidative stress in hemodialysis patients: a randomized controlled trial.
+- new | 2016 | 27941179 | RCT | Flaxseed oil supplementation manipulates correlations between serum individual mol % free fatty acid levels and insulin resistance in type 2 diabetics. Insulin resistance
+- new | 2016 | 27179851 | RCT | Effectiveness of rubber seed oil and flaxseed oil to enhance the α-linolenic acid content in milk from dairy cows.
+- new | 2016 | 26318758 | RCT | Antioxidant status, lipid and color stability of aged beef from grazing steers supplemented with corn grain and increasing levels of flaxseed.
+- new | 2016 | 27904000 | RCT | Effects of Flaxseed Oil on Serum Lipids and Lipoproteins in Hemodialysis Patients: a Randomized Controlled Trial.
+- new | 2015 | 25740909 | MA/SR | Flaxseed consumption may reduce blood pressure: a systematic review and meta-analysis of controlled trials.
+- new | 2015 | 25612882 | RCT | Effect of flaxseed on blood lipid level in hyperlipidemic patients.
+- new | 2015 | 25546379 | RCT | Efficacy and safety of a flaxseed hull extract in the symptomatic management of benign prostatic hyperplasia: a parallel, randomized, double-blind, placebo-controlled, pi
+- new | 2015 | 25441591 | RCT | Effects of brown and golden flaxseed on the lipid profile, glycemia, inflammatory biomarkers, blood pressure and body composition in overweight adolescents.
+- new | 2015 | 25694068 | RCT | Dietary flaxseed independently lowers circulating cholesterol and lowers it beyond the effects of cholesterol-lowering medications alone in patients with peripheral arter
+- new | 2014 | 24013641 | SR | Flax and Breast Cancer: A Systematic Review.
+- new | 2014 | 25163498 | RCT | Evaluation of flaxseed formulation as a potential therapeutic agent in mitigation of dyslipidemia.
+- new | 2014 | 24777981 | RCT | Flaxseed consumption reduces blood pressure in patients with hypertension by altering circulating oxylipins via an α-linolenic acid-induced inhibition of soluble epoxide 
+- new | 2014 | 24887185 | RCT | Effect of Linum usitatissimum L. (linseed) oil on mild and moderate carpal tunnel syndrome: a randomized, double-blind, placebo-controlled clinical trial.
+- new | 2014 | 24669750 | RCT | A pilot study comparing the effect of flaxseed, aromatase inhibitor, and the combination on breast tumor biomarkers.
+- new | 2014 | 24938224 | RCT | The HYPERFlax trial for determining the anti-HYPERtensive effects of dietary flaxseed in newly diagnosed stage 1 hypertensive patients: study protocol for a randomized, d
+- new | 2013 | 23566060 | RCT | Flaxseed-derived enterolactone is inversely associated with tumor cell proliferation in men with localized prostate cancer.
+- HELD REF-3395 | 2013 | 24126178 | RCT | Potent antihypertensive action of dietary flaxseed in hypertensive patients.
+- new | 2013 | 23978451 | RCT | Flaxseed enriched diet-mediated reduction in ovarian cancer severity is correlated to the reduction of prostaglandin E(2) in laying hen ovaries.
+- new | 2013 | 23885993 | RCT | Lignan content of the flaxseed influences its biological effects in healthy men and women.
+- new | 2013 | 23571520 | RCT | Flaxseed reverses atherosclerotic lesion formation and lowers lipoprotein(a) in ovarian hormone deficiency.
+- new | 2013 | 21802266 | RCT | Flaxseed dietary fibers suppress postprandial lipemia and appetite sensation in young men.
+- new | 2013 | 22998533 | RCT | Effects of flaxseed consumption on systemic inflammation and serum lipid profile in hemodialysis patients with lipid abnormalities.
+- new | 2013 | 23733031 | RCT | Flaxseed in pediatric hyperlipidemia: a placebo-controlled, blinded, randomized clinical trial of dietary flaxseed supplementation for children and adolescents with hyper
+- new | 2013 | 23577799 | RCT | No evidence of hypoglycemia or hypotension in older adults during 6 months of flax lignan supplementation in a randomized controlled trial: a safety evaluation.
+- new | 2013 | 23684438 | RCT | Daily flaxseed consumption improves glycemic control in obese men and women with pre-diabetes: a randomized study.
+- new | 2013 | 22930072 | RCT | Evaluation of the influence of whole and defatted flaxseed on satiety, glucose, and leptin levels of women in the late postoperative stage of bariatric surgery.
+- new | 2013 | 24015717 | RCT | Effects of soy-soluble fiber and flaxseed gum on the glycemic and insulinemic responses to glucose solutions and dairy products in healthy adult males.
+- new | 2013 | 23347535 | RCT | Flaxseed oil does not affect inflammatory markers and lipid profile compared to olive oil, in young, healthy, normal weight adults.
+- new | 2012 | 23244537 | RCT | Flaxseed oil supplementation decreases C-reactive protein levels in chronic hemodialysis patients.
+- new | 2012 | 22245724 | RCT | Flaxseed dietary fiber supplements for suppression of appetite and food intake.
+- new | 2012 | 22698766 | RCT | Effect of high-oleic canola and flaxseed oils on energy expenditure and body composition in hypercholesterolemic subjects.
+- new | 2012 | 21900849 | RCT | A phase III, randomized, placebo-controlled, double-blind trial of flaxseed for the treatment of hot flashes: North Central Cancer Treatment Group N08C7.
+- new | 2012 | 22925074 | RCT | Evaluation of the efficacy of flaxseed meal and flaxseed extract in reducing menopausal symptoms.
+- new | 2011 | 21088453 | RCT | Supplementation of flaxseed oil diminishes skin sensitivity and improves skin barrier function and condition.
+- new | 2011 | 20875216 | RCT | High-oleic rapeseed (canola) and flaxseed oils modulate serum lipids and inflammatory biomarkers in hypercholesterolaemic subjects.
+- new | 2011 | 21519749 | RCT | Systemic inflammation and carotid diameter in obese patients: pilot comparative study with flaxseed powder and cassava powder.
+- new | 2011 | 21177454 | RCT | Effects of flaxseed, sardines, pearl millet, and holy basil leaves on production traits of layers and fatty acid composition of egg yolks.
+- new | 2011 | 21554710 | RCT | Flaxseed supplementation improved insulin resistance in obese glucose intolerant people: a randomized crossover design.
+- new | 2010 | 20826632 | RCT | Lifestyle counseling and supplementation with flaxseed or walnuts influence the management of metabolic syndrome.
+- new | 2010 | 20797475 | RCT | Flaxseed lignan lowers blood cholesterol and decreases liver disease risk factors in moderately hypercholesterolemic men.
+- new | 2010 | 20007337 | RCT | Consumption of a flaxseed-rich food is not more effective than a placebo in alleviating the climacteric symptoms of postmenopausal women.
+- new | 2010 | 20622184 | RCT | Effect of feeding rolled flaxseed on milk fatty acid profiles and reproductive performance of dairy cows.
+- new | 2010 | 20595648 | RCT | Dietary milled flaxseed and flaxseed oil improve N-3 fatty acid status and do not affect glycemic control in individuals with well-controlled type 2 diabetes.
+- new | 2009 | 19515737 | MA | Meta-analysis of the effects of flaxseed interventions on blood lipids.
+- new | 2009 | 19675101 | RCT | Flaxseed oil supplementation increases plasma F1-phytoprostanes in healthy men.
+- new | 2009 | 19584895 | RCT | Bioavailability of alpha-linolenic acid from flaxseed diets as a function of the age of the subject.
+- new | 2009 | 18761778 | RCT | Intervention with flaxseed and borage oil supplements modulates skin condition in women.
+- new | 2009 | 19548163 | RCT | Effect of flaxseed gum on reduction of blood glucose and cholesterol in type 2 diabetic patients.
+- new | 2009 | 19834091 | RCT | Dietary camelina meal versus flaxseed with and without supplemental copper for broiler chickens: live performance and processing yield.
+- new | 2009 | 19824016 | RCT | Fatty acids and lignans in unground whole flaxseed and sesame seed are bioavailable but have minimal antioxidant and lipid-lowering effects in postmenopausal women.
+- new | 2009 | 19638265 | RCT | Weekly excretion of the mammalian lignan enterolactone in milk of dairy cows fed flaxseed meal.
+- new | 2009 | 19370038 | RCT | A randomized controlled trial of the effects of flaxseed lignan complex on metabolic syndrome composite score and bone mineral in older adults.
+- new | 2009 | 18775100 | RCT | Effects of a flaxseed-derived lignan supplement on C-reactive protein, IL-6 and retinol-binding protein 4 in type 2 diabetic patients.
+- new | 2008 | 19064574 | RCT | Flaxseed supplementation (not dietary fat restriction) reduces prostate cancer proliferation rates in men presurgery.
+- new | 2008 | 18328014 | RCT | Flaxseed reduces total and LDL cholesterol concentrations in Native American postmenopausal women.
+- new | 2008 | 18391475 | RCT | High dose flaxseed oil supplementation may affect fasting blood serum glucose management in human type 2 diabetics.
+- new | 2008 | 18358071 | RCT | Effects of dietary flaxseed lignan extract on symptoms of benign prostatic hyperplasia.
+- new | 2008 | 18779299 | RCT | Flaxseed oil and fish-oil capsule consumption alters human red blood cell n-3 fatty acid composition: a multiple-dosing trial comparing 2 sources of n-3 fatty acid.
+- new | 2008 | 18460481 | RCT | A comparison of fish oil, flaxseed oil and hempseed oil supplementation on selected parameters of cardiovascular health in healthy volunteers.
+- new | 2008 | 18502107 | RCT | The effect of a lignan complex isolated from flaxseed on inflammation markers in healthy postmenopausal women.
+- new | 2008 | 18460483 | RCT | Flaxseed and cardiovascular risk factors: results from a double blind, randomized, controlled clinical trial.
+- new | 2008 | 17981439 | RCT | Flaxseed on cardiovascular disease markers in healthy menopausal women: a randomized, double-blind, placebo-controlled trial.
+- new | 2008 | 18053310 | RCT | Dietary flaxseed lignan extract lowers plasma cholesterol and glucose concentrations in hypercholesterolaemic subjects.
+- new | 2008 | 18689552 | RCT | Bioavailability of alpha-linolenic acid in subjects after ingestion of three different forms of flaxseed.
+- new | 2007 | 17268413 | RCT | Dietary supplementation with flaxseed oil lowers blood pressure in dyslipidaemic patients.
+- new | 2007 | 17623225 | RCT | Effects of flaxseed oil supplementation on plasma adiponectin levels in dyslipidemic men.
+- new | 2007 | 17906762 | RCT | [Oral flaxseed oil (Linum usitatissimum) in the treatment for dry-eye Sjögren's syndrome patients].
+- new | 2007 | 17881701 | RCT | Hepatic lipid metabolism in transition dairy cows fed flaxseed.
+- HELD REF-0190 | 2007 | 17987126 | RCT | Effects of a flaxseed-derived lignan supplement in type 2 diabetic patients: a randomized, double-blind, cross-over trial.
+- new | 2006 | 16365063 | RCT | Flaxseed oil increases the plasma concentrations of cardioprotective (n-3) fatty acids in humans.
+- new | 2006 | 17056811 | RCT | Flaxseed oil supplementation does not affect plasma lipoprotein concentration or particle size in human subjects.
+- new | 2006 | 16837885 | RCT | A randomized controlled trial of the effect of dietary soy and flaxseed muffins on quality of life and hot flashes during menopause.
+- new | 2006 | 16428641 | RCT | Effect of safflower oil, flaxseed oil, monensin, and vitamin E on concentration of conjugated linoleic acid in bovine milk fat.
+- HELD REF-0288 | 2005 | 15897583 | Clinical Trial/RCT | Dietary flaxseed alters tumor biological markers in postmenopausal breast cancer.
+- new | 2005 | 15613422 | Clinical Trial/RCT | The effects of flaxseed dietary supplement on lipid profile, bone mineral density, and symptoms in menopausal women: a randomized, double-blind, wheat germ placebo-contro
+- new | 2005 | 16201847 | RCT | Whole sesame seed is as rich a source of mammalian lignan precursors as whole flaxseed.
+- new | 2005 | 15829669 | Clinical Trial/RCT | Effects of flaxseed on protein requirements and N excretion of dairy cows fed diets with two protein concentrations.
+- new | 2004 | 14749240 | Clinical Trial/RCT | Supplementation with flaxseed alters estrogen metabolism in postmenopausal women to a greater extent than does supplementation with an equal amount of soy.
+- new | 2003 | 14684762 | Clinical Trial/RCT | Effect of flaxseed and wheat bran on serum hormones and lignan excretion in premenopausal women.
+- new | 2002 | 12418783 | Clinical Trial/RCT | Flaxseed (Linum usitatissimum) supplementation associated with reduced skin test lesional area in horses with Culicoides hypersensitivity.
+- new | 2002 | 11932276 | Clinical Trial/RCT | Flaxseed improves lipid profile without altering biomarkers of bone metabolism in postmenopausal women.
+- new | 2002 | 12220769 | Clinical Trial/RCT | Flaxseed dietary supplement versus hormone replacement therapy in hypercholesterolemic menopausal women.
+- new | 2002 | 11857049 | Clinical Trial/RCT | The effect of flaxseed supplementation in processed foods on serum fatty acids and enterolactone.
+- new | 2001 | 11588903 | Clinical Trial/RCT | Flaxseed consumption influences endogenous hormone concentrations in postmenopausal women.
+- new | 2001 | 11349937 | Clinical Trial/RCT | Flaxseed in lupus nephritis: a two-year nonplacebo-controlled crossover study.
+- new | 2000 | 11045796 | Clinical Trial/RCT | Flaxseed influences urinary lignan excretion in a dose-dependent manner in postmenopausal women.
+- new | 2000 | 10919743 | Clinical Trial/RCT | The effect of flaxseed and wheat bran consumption on urinary estrogen metabolites in premenopausal women.
+- new | 1999 | 10368815 | Clinical Trial/RCT | Effect of flaxseed consumption on urinary estrogen metabolites in postmenopausal women.
+- new | 1999 | 10075322 | Clinical Trial/RCT | Health aspects of partially defatted flaxseed, including effects on serum lipids, oxidative measures, and ex vivo androgen and progestin activity: a controlled crossover 
+- new | 1999 | 10075344 | Clinical Trial/RCT | Human metabolism of mammalian lignan precursors in raw and processed flaxseed.
+- new | 1995 | 7825540 | Clinical Trial/RCT | Nutritional attributes of traditional flaxseed in healthy young adults.
+- new | 1995 | 7597378 | Clinical Trial/RCT | Alpha-linolenic acid in the treatment of rheumatoid arthritis. A double-blind, placebo-controlled and randomized study: flaxseed vs. safflower seed.
+- new | 1995 | 7598070 | Clinical Trial/RCT | alpha-Linolenic acid- and docosahexaenoic acid-enriched eggs from hens fed flaxseed: influence on blood lipids and platelet phospholipid fatty acids in humans.
+- new | 1994 | 8017326 | Clinical Trial/RCT | Urinary lignan and isoflavonoid excretion in premenopausal women consuming flaxseed powder.
+
+## lysimachia-vulgaris (Lysimachia vulgaris; Yellow loosestrife) - 0 (+CT) hits; query: ("Lysimachia vulgaris"[tiab] OR "Yellow loosestrife"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## mahonia-aquifolium (Mahonia aquifolium; Oregon Grape) - 7 (+CT) hits; query: ("Mahonia aquifolium"[tiab] OR "Oregon Grape"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40210174 | SR | Herbal medicine for treating psoriasis: A systematic review.
+- new | 2017 | 28289986 | SR | Topical Botanical Agents for the Treatment of Psoriasis: A Systematic Review.
+- new | 2013 | 23909714 | MA/SR | Plant extracts for the topical management of psoriasis: a systematic review and meta-analysis.
+- new | 2007 | 17890932 | Clinical Trial | Reliéva, a Mahonia aquifolium extract for the treatment of adult patients with atopic dermatitis.
+- new | 2007 | 18077922 | RCT | A randomized, double-blind, vehicle-controlled, half-side comparison with a herbal ointment containing Mahonia aquifolium, Viola tricolor and Centella asiatica for the tr
+- HELD REF-0591 | 2006 | 16645428 | RCT | Treatment of mild to moderate psoriasis with Reliéva, a Mahonia aquifolium extract--a double-blind, placebo-controlled study.
+- new | 1999 | 10352377 | Clinical Trial/RCT | Effects of Mahonia aquifolium ointment on the expression of adhesion, proliferation, and activation markers in the skin of patients with psoriasis.
+
+## malva-sylvestris (Malva sylvestris; Mallow) - 12 (+CT) hits; query: ("Malva sylvestris"[tiab] OR "Mallow"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42398621 | RCT | Pre-clinical evaluation of the anticaries effect of an experimental Malva sylvestris extract mouthwash using a cariogenic model in situ.
+- new | 2026 | 42930516 | SR/Review | Clinical Evidence of Orally Administered Herbal Preparations for Supportive Cancer Care: A PRISMA Systematic Review of Randomized Clinical Trials (1990-2026).
+- new | 2025 | 41184820 | RCT | The effect of Malva sylvestris mouthwash on chemotherapy-induced stomatitis and associated pain in patients with cancer: a triple-blind randomized clinical trial.
+- new | 2025 | 40265431 | RCT | A Randomized Comparative Study of Luteolin-Based Herbal Unani Formulations versus Nitrofurantoin in Women with Uncomplicated Urinary Tract Infections.
+- new | 2024 | 39173823 | RCT | Comparison of the anti-plaque and anti-gingivitis efficacy of Chlorhexidine and Malva mouthwashes: Randomized crossover clinical trial.
+- new | 2023 | 37243443 | MA/SR | The effect of food, vitamin, or mineral supplements on chronic constipation in adults: A systematic review and meta-analysis of randomized controlled trials.
+- HELD REF-1190 | 2022 | 36274662 | RCT | The Effect of Malva Sylvestris Cream on Episiotomy Pain and Healing: A Randomized Controlled Clinical Trial.
+- new | 2021 | 33430841 | RCT | Efficacy and safety of the syrup "KalobaTUSS®" as a treatment for cough in children: a randomized, double blind, placebo-controlled clinical trial.
+- new | 2021 | 33100212 | RCT | Efficacy of Short Term Topical Malva Sylvestris L. Cream in Pediatric Patients with Atopic Dermatitis: A Randomized Double-Blind Placebo-Controlled Clinical Trial.
+- new | 2017 | 28494850 | RCT | Efficacy of a traditional Persian medicine preparation for radiation-induced xerostomia: a randomized, open-label, active-controlled trial.
+- new | 2016 | 26137850 | RCT | Evaluation of Efficacy of an Herbal Compound on Dry Mouth in Patients With Head and Neck Cancers: A Randomized Clinical Trial.
+- new | 2015 | 25801702 | Clinical Trial | Efficacy of the Malva sylvestris L. flowers aqueous extract for functional constipation: A placebo-controlled trial.
+
+## marrubium-vulgare (Marrubium vulgare; Horehound) - 3 (+CT) hits; query: ("Marrubium vulgare"[tiab] OR "Horehound"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2024 | 38323572 | RCT | Efficacy and tolerability of SEDIFLÙ in treating dry or productive cough in the pediatric population (SEPEDIA): A pilot, randomized, double-blind, placebo-controlled, mul
+- new | 2019 | 30959140 | SR | A review of Algerian medicinal plants used in the treatment of diabetes.
+- new | 2004 | 15636168 | Clinical Trial/RCT | Clinical trial of Cecropia obtusifolia and Marrubium vulgare leaf extracts on blood glucose and serum lipids in type 2 diabetics.
+
+## matricaria-chamomilla (Matricaria chamomilla; Chamomile) - 94 hits; query: ("Matricaria chamomilla"[tiab] OR "Chamomile"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41761999 | RCT | Effect of Matricaria chamomilla on the Quality of Life Among Women with Menopausal Symptoms: A Triple-Blind Randomized Controlled Trial.
+- new | 2026 | 41538720 | RCT | Evaluation of the protective effect of chamomile oral solution on the incidence of neurotoxicity caused by paclitaxel in breast cancer patients.
+- new | 2025 | 40665590 | MA/SR | Anti-inflammatory effect of chamomile from randomized clinical trials: a systematic review and meta-analyses.
+- new | 2025 | 40917836 | SR | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review.
+- new | 2025 | 40374153 | SR | Chamomile: A systematic review of adverse events.
+- new | 2025 | 39836709 | RCT | Efficacy and safety of Matricaria chamomilla intervention in managing menopausal symptoms: a triple-blind clinical trial.
+- new | 2025 | 39545336 | RCT | Effects of chamomile oil inhalation on sleep quality in young adults with insomnia: A randomized controlled trial.
+- new | 2025 | 41525193 | RCT | Effects of chamomile and -theanine beverage on menstrual pain, menstrual symptoms, mood, and sleep quality in young women experiencing primary dysmenorrhea: A randomized,
+- new | 2025 | 39723456 | RCT | Effect of Chamomile and Olive Oils on Volume, Range of Motion, and Quality of Life in Breast Cancer-Related Lymphedema: A Randomized Controlled Trial.
+- new | 2025 | 39283344 | RCT | Comparison of liposomal gel with and without chamomile to prevent radiation dermatitis in breast cancer patients: a randomized controlled trial.
+- new | 2025 | 40440968 | RCT | Topical chamomile oil as a novel therapeutic intervention for diabetic neuropathy: A randomized double-blind controlled clinical trial.
+- HELD REF-1154 | 2024 | 39106912 | SR/MA | Effects of chamomile (Matricaria chamomilla L.) on sleep: A systematic review and meta-analysis of clinical trials.
+- new | 2024 | 40783833 | RCT | [Sertraline hydrochloride combined with compound chamomile lidocaine gel for the treatment of premature ejaculation].
+- new | 2024 | 38172912 | RCT | Effects of aromatherapy with Matricaria chamomile essential oil on anxiety and hemodynamic indices in patients with acute coronary syndrome, 2021: a randomized controlled
+- new | 2024 | 38300194 | RCT | Comparison of the Effects of Aromatherapy With Damask Rose and Chamomile Essential Oil on Preoperative Pain and Anxiety in Emergency Orthopedic Surgery: A Randomized Cont
+- new | 2024 | 38300838 | RCT | The Acute Effect of Chamomile Intake on Blood Coagulation Tests in Healthy Volunteers: A Randomized Trial.
+- new | 2024 | 39032836 | RCT | Comparison of liposomal gel with and without addition of chamomile for prevention of radiation dermatitis in head and neck cancer patients: A randomized controlled trial.
+- new | 2024 | 37926605 | RCT | Prophylactic effect of chamomile on post-dural puncture headache in women undergoing elective cesarean section: A randomized, double blind, placebo-controlled clinical tr
+- new | 2024 | 38273379 | RCT | Efficacy of an aloe vera, chamomile, and thyme cosmetic cream for the prophylaxis and treatment of mild dermatitis induced by radiation therapy in breast cancer patients:
+- new | 2023 | 37039741 | SR | Systematic review on the anxiolytic and hypnotic effects of flower extracts in in vivo pre-clinical studies published from 2010 to 2020.
+- new | 2023 | 37052390 | MA/SR | Effect of Chamomile on the Complications of Cancer: A Systematic Review.
+- new | 2023 | 37427624 | RCT | Co-administration of saffron and chamomile: to determine the efficacy as an adjuvant therapy for mild to moderate depression in human subjects. A pilot randomized clinica
+- new | 2022 | 33454232 | RCT | The effects of Lavender and Chamomile essential oil inhalation aromatherapy on depression, anxiety and stress in older community-dwelling people: A randomized controlled 
+- new | 2022 | 35129844 | SR | Action of Matricaria recutita (chamomile) in the management of radiochemotherapy oral mucositis: A systematic review.
+- new | 2022 | 35787809 | RCT | Effect of chamomile oil on the intensity of nonspecific low back pain in prehospital emergency technicians.
+- new | 2022 | 35592415 | SR | Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis.
+- new | 2022 | 33290635 | RCT | The effect of topical chamomile in the prevention of chemotherapy-induced oral mucositis: A randomized clinical trial.
+- new | 2022 | 36434669 | RCT | A comparison of the effect of Swedish massage with and without chamomile oil on labor outcomes and maternal satisfaction of the childbirth process: a randomized controlle
+- new | 2022 | 35400624 | RCT | Effect of Chamomile Vaginal Gel on the Sexual Function in Postmenopausal Women: A Double-Blind Randomized Controlled Trial.
+- new | 2022 | 35393979 | RCT | A Chitosan-Coated Chamomile Microparticles Formulation to Prevent Radiodermatitis in Breast: A Double-blinded, Controlled, Randomized, Phase II Clinical Trial.
+- new | 2022 | 37462487 | RCT | [Compound Chamomile and Lidocaine Hydrochloride Gel applied at different time-windows for premature ejaculation: A prospective single-center randomized controlled study].
+- new | 2022 | 34142567 | RCT | Comparison of Isotonic Seawater Nasal Spray Containing Chamomile Liquid Extract and Other Isotonic Seawater Nasal Washing Solutions for Allergic Rhinitis.
+- new | 2021 | 33038782 | RCT | Effects of chamomile extract nasal drop on chronic rhinosinusitis treatment: A randomized double blind study.
+- new | 2021 | 33988743 | SR | Medicinal plants used for the treatment of mucositis induced by oncotherapy: a systematic review.
+- new | 2021 | 34310352 | RCT | Swabs Containing Tea Tree Oil and Chamomile Oil Versus Baby Shampoo in Patients With Seborrheic Blepharitis: A Double-Blind Randomized Clinical Trial.
+- new | 2021 | 32228427 | RCT | Effect of Chamomile Oil on Cesarean Section Pain in Primiparous Women: A Randomized Clinical Trial.
+- new | 2020 | 31987240 | SR | Chamomile (Matricaria recutita L.) and diabetes mellitus, current knowledge and the way forward: A systematic review.
+- new | 2020 | 31215276 | SR | A systematic review of the efficacy of alternative medicine in the treatment of nausea and vomiting of pregnancy.
+- new | 2020 | 31688306 | RCT | Distinct patterns of short-chain fatty acids during flare in patients with ulcerative colitis under treatment with mesalamine or a herbal combination of myrrh, chamomile 
+- new | 2020 | 31859096 | RCT | The effect of aromatherapy massage with lavender and chamomile oil on anxiety and sleep quality of patients with burns.
+- HELD REF-1156 | 2020 | 31808709 | RCT | Putative Antidepressant Effect of Chamomile (Matricaria chamomilla L.) Oral Extract in Subjects with Comorbid Generalized Anxiety Disorder and Depression.
+- new | 2020 | 32341707 | RCT | The Effect of Music Therapy and Aromatherapy with Chamomile-Lavender Essential Oil on the Anxiety of Clinical Nurses: A Randomized and Double-Blind Clinical Trial.
+- new | 2019 | 31006899 | MA/SR | Therapeutic efficacy and safety of chamomile for state anxiety, generalized anxiety disorder, insomnia, and sleep quality: A systematic review and meta-analysis of random
+- new | 2019 | 30768427 | SR | Plant-derived medicines for neuropathies: a comprehensive review of clinical evidence.
+- new | 2019 | 31133058 | SR | Medicinal plants as therapeutic options for topical treatment in canine dermatology? A systematic review.
+- new | 2019 | 30554882 | RCT | A randomized, open-label, multicenter, comparative study of therapeutic efficacy, safety and tolerability of BNO 1030 extract, containing marshmallow root, chamomile flow
+- new | 2018 | 29072514 | RCT | Effectiveness of Matricaria chamomilla (chamomile) extract on pain control of cyclic mastalgia: a double-blind randomised controlled trial.
+- new | 2018 | 29080520 | RCT | An exploratory study of salivary cortisol changes during chamomile extract therapy of moderate to severe generalized anxiety disorder.
+- new | 2018 | 29808331 | RCT | Evaluation of the effect of topical chamomile (Matricaria chamomilla L.) oleogel as pain relief in migraine without aura: a randomized, double-blind, placebo-controlled, 
+- new | 2018 | 30057060 | RCT | The effect of chamomile odor on contractions of the first stage of delivery in primpara women: A clinical trial.
+- new | 2017 | 28562281 | SR | Herbal Medicines for Gastrointestinal Disorders in Children and Adolescents: A Systematic Review.
+- new | 2017 | 26763612 | RCT | Evaluation of the effectiveness of a chamomile (Matricaria chamomilla) and linseed (Linum usitatissimum) saliva substitute in the relief of xerostomia in elders.
+- new | 2017 | 26427789 | RCT | Topical use of Matricaria recutita L (Chamomile) Oil in the Treatment of Monosymptomatic Enuresis in Children: A Double-Blind Randomized Controlled Trial.
+- new | 2017 | 29154054 | RCT | The effects of chamomile extract on sleep quality among elderly people: A clinical trial.
+- new | 2017 | 27716513 | RCT | Specific expectancies are associated with symptomatic outcomes and side effect burden in a trial of chamomile extract for generalized anxiety disorder.
+- new | 2017 | 28107852 | RCT | Efficacy of topical chamomile oil for mild and moderate carpal tunnel syndrome: A randomized double-blind placebo-controlled clinical trial.
+- new | 2017 | 28844214 | RCT | Efficacy of topical chamomile on the incidence of phlebitis due to an amiodarone infusion in coronary care patients: a double-blind, randomized controlled trial.
+- HELD REF-2586 | 2016 | 27000311 | MA/SR | Dietary supplements for dysmenorrhoea.
+- HELD REF-1155 | 2016 | 27912875 | RCT | Long-term chamomile (Matricaria chamomilla L.) treatment for generalized anxiety disorder: A randomized clinical trial.
+- new | 2016 | 27912871 | RCT | Short-term open-label chamomile (Matricaria chamomilla L.) therapy of moderate to severe generalized anxiety disorder.
+- new | 2016 | 27189615 | RCT | Chamomile infusion cryotherapy to prevent oral mucositis induced by chemotherapy: a pilot study.
+- new | 2016 | 26483209 | RCT | Effects of an intervention with drinking chamomile tea on sleep quality and depression in sleep disturbed postnatal women: a randomized controlled trial.
+- new | 2016 | 28025442 | RCT | Clinical efficacy of a 1% Matricaria chamomile L. mouthwash and 0.12% chlorhexidine for gingivitis control in patients undergoing orthodontic treatment with fixed applian
+- new | 2016 | 27644672 | RCT | Effect of Ginger and Chamomile on Nausea and Vomiting Caused by Chemotherapy in Iranian Women with Breast Cancer.
+- new | 2016 | 27768020 | RCT | Clinical efficacy of a solution composed by sodium bicarbonate and alginate, aloe vera, propoli, chamomile, calendula and honey, in the treatment of minor recurrent aphth
+- HELD REF-2350 | 2016 | 26437613 | RCT | Chamomile tea improves glycemic indices and antioxidants status in patients with type 2 diabetes mellitus.
+- new | 2016 | 27324515 | RCT | Efficacy of topical chamomile management vs. placebo in patients with oral lichen planus: a randomized double-blind study.
+- new | 2016 | 26694632 | RCT | Effect of a 2% topical chamomile application for treating burning mouth syndrome: a controlled clinical trial.
+- new | 2016 | 27020698 | RCT | Gel of chamomile vs. urea cream to prevent acute radiation dermatitis in patients with head and neck cancer: a randomized controlled trial.
+- HELD REF-2349 | 2015 | 26256137 | RCT | Efficacy and safety of topical Matricaria chamomilla L. (chamomile) oil for knee osteoarthritis: A randomized controlled clinical trial.
+- new | 2015 | 26573447 | RCT | A pilot randomized double-blind placebo-controlled trial on topical chamomile (Matricaria chamomilla L.) oil for severe carpal tunnel syndrome.
+- new | 2015 | 25194428 | RCT | Effectiveness of chamomile tea on glycemic control and serum lipid profile in patients with type 2 diabetes.
+- new | 2014 | 24439653 | RCT | Clinical efficacy analysis of the mouth rinsing with pomegranate and chamomile plant extracts in the gingival bleeding reduction.
+- new | 2014 | 24439651 | RCT | Comparison of the effects of Matricaria chamomila (Chamomile) extract and mefenamic acid on the intensity of premenstrual syndrome.
+- new | 2013 | 23826890 | RCT | Randomised clinical trial: a herbal preparation of myrrh, chamomile and coffee charcoal compared with mesalazine in maintaining remission in ulcerative colitis--a double-
+- new | 2013 | 24121702 | RCT | Generalized anxiety disorder (GAD): efficacy of standardized Matricaria recutita (German chamomile) extract in the treatment of generalized anxiety disorder.
+- new | 2013 | 24237191 | RCT | An in vivo study examining the antiinflammatory effects of chamomile, meadowsweet, and willow bark in a novel functional beverage.
+- new | 2012 | 22894890 | RCT | Chamomile (Matricaria recutita) may provide antidepressant activity in anxious, depressed humans: an exploratory study.
+- new | 2011 | 21617262 | RCT | ﻿﻿﻿﻿﻿﻿﻿Using chamomile solution or a 1% topical hydrocortisone ointment in the management of peristomal skin lesions in colostomy patients: results of a controlled clinic
+- new | 2011 | 21939549 | RCT | Preliminary examination of the efficacy and safety of a standardized chamomile extract for chronic primary insomnia: a randomized placebo-controlled pilot study.
+- new | 2010 | 21156115 | SR | [Evidence of dermatological effects of chamomile].
+- HELD REF-1160 | 2009 | 19593179 | RCT | A randomized, double-blind, placebo-controlled trial of oral Matricaria recutita (chamomile) extract therapy for generalized anxiety disorder.
+- new | 2008 | 19043320 | RCT | Efficiency of Matricaria chamomilla CH12 and number of doses of rabies vaccine on the humoral immune response in cattle.
+- new | 2007 | 17639559 | RCT | Efficacy of Slim339 in reducing body weight of overweight and obese human subjects.
+- new | 2007 | 17350803 | RCT | Iron absorption from wheat flour: effects of lemonade and chamomile infusion.
+- new | 2006 | 16645346 | RCT | Matricaria chamomilla CH12 decreases handling stress in Nelore calves.
+- new | 2006 | 16889120 | RCT | Double-blind, randomized evaluation of clinical efficacy and tolerability of an apple pectin-chamomile extract in children with unspecific diarrhea.
+- new | 2006 | 16507072 | RCT | The effect of German chamomile (Marticaria recutita L.) extract and tea tree (Melaleuca alternifolia L.) oil used as irrigants on removal of smear layer: a scanning elect
+- new | 2004 | 16083185 | Clinical Trial/RCT | Effectiveness of lubrication of endotracheal tube cuff with chamomile-extract for prevention of postoperative sore throat and hoarseness.
+- new | 2003 | 14664413 | Clinical Trial/RCT | The immediate effect of natural plant extract, Angelica sinensis and Matricaria chamomilla (Climex) for the treatment of hot flushes during menopause. A preliminary repor
+- new | 2002 | 12188410 | Clinical Trial/RCT | Efficacy of chamomile-extract spray for prevention of post-operative sore throat.
+- new | 1997 | 9463302 | Clinical Trial/RCT | [Double-blind comparison of an apple pectin-chamomile extract preparation with placebo in children with diarrhea].
+- new | 1996 | 8630960 | Clinical Trial/RCT | Prospective evaluation of a chamomile mouthwash for prevention of 5-FU-induced oral mucositis.
+- new | 1991 | 2036252 | Clinical Trial/RCT | Effect of chamomile cream and almond ointment on acute radiation skin reaction.

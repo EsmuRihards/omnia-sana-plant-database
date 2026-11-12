@@ -179,10 +179,11 @@ indications:
   - REF-0860
   - REF-0861
   - REF-0866
-  - REF-0867
   status: verified
+  note: Traditional remedy for nervous heart complaints (review of the EMA assessment); lower blood pressure
+    reported in clinical studies (review); extracts reduced platelet activation in the lab (preclinical)
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory activity reported in pharmacological studies (review)
   reference_ids:
   - REF-0861
   status: needs-review
@@ -190,7 +191,7 @@ indications:
   - REF-0198
   - REF-0270
 - condition: insomnia
-  note: inferred from sedative action
+  note: Sedative activity reported in clinical studies (review)
   reference_ids:
   - REF-0861
   status: needs-review
@@ -205,10 +206,11 @@ indications:
   mechanistic_exclude_ids:
   - REF-0198
   - REF-0270
+  note: Traditionally used for gynaecological complaints including painful periods (review of the EMA
+    assessment)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0861
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0866
@@ -293,4 +295,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the use: REF-0860 (cardiotonic; dysmenorrhoea, amenorrhoea) -> menstrual-cramps; REF-0861
   (nervous heart conditions; sedative effects in clinical trials; wounds and skin inflammations)
   -> insomnia, inflammation, skin-irritation. REF-0864 (anxiolytic in animals) removed from
-  insomnia.'
+  insomnia.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. REF-0867 (PPAR-delta
+  anti-obesity cell study) removed from cardiovascular-support; REF-0861 (pharmacology review, no
+  skin claim) removed from skin-irritation. REF-0868 title corrected to its DOI/PubMed record
+  (Mentha aquatica, Lavandula dentata and L. cardiaca). Not used: melatonin vs motherwort tincture
+  study 17209457 (no placebo; motherwort effects "less pronounced"); postpartum haemorrhage MA
+  40527062 (Chinese motherwort injection, L. japonicus).'

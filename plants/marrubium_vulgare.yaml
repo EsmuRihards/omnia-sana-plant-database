@@ -126,7 +126,6 @@ actions:
   note: Antispasmodic (traditional use in whooping cough)
   reference_ids:
   - REF-0469
-  - REF-0925
   status: needs-review
 - action: bitter-tonic
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
@@ -144,7 +143,6 @@ actions:
   - REF-0468
   - REF-0469
   - REF-0921
-  - REF-0926
   status: verified
 indications:
 - condition: appetite-loss
@@ -166,11 +164,10 @@ indications:
   - REF-0921
   status: verified
   mechanistic_exclude_ids:
-  - REF-0926
   - REF-0468
   - REF-0469
 - condition: cancer
-  note: inferred from anticancer action
+  note: Horehound leaf extract slowed colorectal cancer cells in the lab (preclinical)
   reference_ids:
   - REF-2558
   status: needs-review
@@ -180,7 +177,6 @@ indications:
   - REF-0468
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0926
   - REF-0469
   - REF-0921
 - condition: indigestion
@@ -191,7 +187,8 @@ indications:
   - REF-0469
   status: verified
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Traditional expectorant for cough associated with colds (EU herbal monograph); protected the lungs
+    of rats with lung fibrosis (preclinical)
   reference_ids:
   - REF-0468
   - REF-0469
@@ -252,4 +249,8 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   respiratory tract) removed from bronchitis and cough, added to bloating, appetite-loss,
   indigestion. REF-0921 (critical review "More of a myth than a reality?") names bronchitis,
   colds, asthma, lack of appetite and dyspepsia as traditional uses - removed from cough;
-  retagged.'
+  retagged.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. REF-0926 (rat lung
+  fibrosis) removed from the expectorant action (still cited for respiratory-support); REF-0925
+  (antinociception) removed from antispasmodic (kept in references). Not used: Cecropia/Marrubium
+  glucose trial 15636168 (no blood-sugar pair).'

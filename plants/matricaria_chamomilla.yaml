@@ -238,7 +238,8 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Topical chamomile oil reduced painkiller use in knee osteoarthritis in a randomized trial, without
+    improving WOMAC scores
   reference_ids:
   - REF-0280
   - REF-2349
@@ -248,7 +249,7 @@ indications:
   - REF-0112
   - REF-0189
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditional use for minor stomach and gut complaints such as bloating (EU herbal monograph)
   reference_ids:
   - REF-0079
   status: needs-review
@@ -257,7 +258,7 @@ indications:
   - REF-0189
   - REF-0280
 - condition: indigestion
-  note: inferred from digestive action
+  note: Traditional use for minor gastrointestinal complaints (EU herbal monograph)
   reference_ids:
   - REF-0079
   status: needs-review
@@ -275,19 +276,26 @@ indications:
   - REF-0280
   - REF-0079
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Traditional use for minor skin and mouth inflammation (EU herbal monograph); a meta-analysis of
+    randomized trials found anti-inflammatory effects; an extract was no better than its base cream for
+    UV skin redness in one trial
   reference_ids:
   - REF-0079
   - REF-0280
+  - REF-3630
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
   - REF-0189
+  null_result_ids:
+  - REF-3527
 - condition: insomnia
-  note: inferred from sedative action
+  note: Chamomile improved sleep quality, mainly fewer night awakenings, in meta-analyses of trials; sleep
+    duration and efficiency did not improve
   reference_ids:
   - REF-0280
   - REF-1154
+  - REF-3629
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0079
@@ -297,7 +305,7 @@ indications:
   - REF-0112
   - REF-0189
 - condition: menstrual-cramps
-  note: inferred from antispasmodic action
+  note: Chamomile eased primary dysmenorrhoea pain in trials (systematic review)
   reference_ids:
   - REF-2351
   status: needs-review
@@ -306,25 +314,21 @@ indications:
   - REF-0112
   - REF-0189
   - REF-0280
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0079
-  - REF-0280
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0112
-  - REF-0189
 - condition: pain
   reference_ids:
   - REF-0280
+  - REF-2349
+  - REF-2351
   status: verified
   mechanistic_exclude_ids:
   - REF-0079
   - REF-0112
   - REF-0189
+  note: Chamomile eased period pain in trials (systematic review) and topical oil reduced painkiller use
+    in knee osteoarthritis in a randomized trial
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditional use for minor skin inflammation such as sunburn (EU herbal monograph); an extract
+    was no better than its base cream for UV skin redness in a randomized trial
   reference_ids:
   - REF-0079
   status: needs-review
@@ -333,8 +337,11 @@ indications:
   - REF-0112
   - REF-0189
   - REF-0280
+  null_result_ids:
+  - REF-3527
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Traditional use for superficial wounds (EU herbal monograph); antimicrobial activity reported
+    (review)
   reference_ids:
   - REF-0079
   - REF-0280
@@ -346,14 +353,62 @@ indications:
   reference_ids:
   - REF-1155
   - REF-1160
+  - REF-3629
   status: verified
+  null_result_ids:
+  - REF-2546
+  note: Chamomile extract reduced generalized anxiety symptoms in randomized trials and a meta-analysis;
+    in a network meta-analysis it did not differ significantly from placebo
 - condition: depression
   reference_ids:
   - REF-2348
+  - REF-1156
   status: verified
+  note: Chamomile extract reduced depression scores in people with generalized anxiety and depression
+    in randomized trial analyses (exploratory)
 - condition: blood-sugar
   reference_ids:
   - REF-2350
+  - REF-3638
+  status: verified
+  note: Chamomile tea improved blood sugar control in type 2 diabetes in randomized trials
+- condition: menopause
+  note: Chamomile eased menopausal symptoms vs placebo in two randomized trials (side effects were noted
+    in one)
+  reference_ids:
+  - REF-3631
+  - REF-3632
+  status: verified
+- condition: hot-flashes
+  note: Chamomile reduced hot flashes and other vasomotor symptoms in postmenopausal women in a randomized
+    trial
+  reference_ids:
+  - REF-3632
+  status: verified
+- condition: pms
+  note: Chamomile extract relieved the emotional symptoms of PMS more than mefenamic acid in a randomized
+    trial (physical symptoms did not differ)
+  reference_ids:
+  - REF-3633
+  status: verified
+- condition: migraine
+  note: A topical chamomile oleogel eased migraine pain, nausea and light sensitivity vs placebo in a
+    randomized trial
+  reference_ids:
+  - REF-3634
+  status: verified
+- condition: oral-health
+  note: A chamomile mouthwash reduced plaque and gum bleeding vs placebo in gingivitis, and a chamomile
+    gel reduced chemotherapy mouth sores (randomized trials; systematic review)
+  reference_ids:
+  - REF-3635
+  - REF-3636
+  - REF-3637
+  status: verified
+- condition: back-pain
+  note: Topical chamomile oil reduced non-specific low back pain in a randomized trial
+  reference_ids:
+  - REF-3639
   status: verified
 contraindications:
 - note: 'Generally considered very safe when used as tea or topical preparations.Allergy risk: People
@@ -514,4 +569,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   from 9 pairs (incl. menstrual-cramps: "menstrual disorders" is vague) and retagged. EU monograph
   REF-0079 (minor GI complaints such as bloating and minor spasms; common cold; mouth and throat
   inflammation; minor skin inflammation, superficial wounds - EMA page 429, flagged) removed from
-  eczema and infection.'
+  eczema and infection.
+  | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. Muscle-spasm dropped
+  (EU monograph spasms are gastrointestinal; off-target). Anxiety: MA REF-3629 added, herb NMA
+  REF-2546 (chamomile not significant vs placebo) no-effect. REF-1156 retagged rct and added to
+  depression. UV-erythema RCT REF-3527 no-effect for inflammation and skin-irritation (batch-7
+  carry). Anti-inflammatory MA REF-3630, chamomile-tea RCT REF-3638 added. New pairs (owner rule):
+  menopause (RCTs REF-3631, REF-3632), hot-flashes (REF-3632), pms (RCT vs mefenamic acid
+  REF-3633), migraine (RCT REF-3634), oral-health (RCTs REF-3635, REF-3636 + SR REF-3637),
+  back-pain (RCT REF-3639). Not used: saffron+chamomile combination 37427624; ginger/chamomile
+  CINV trial 27644672 (conclusion is about ginger).'

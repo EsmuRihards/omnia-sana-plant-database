@@ -210,6 +210,23 @@ design — honor them and the redesign is safe; break one and it isn't:
    evidence concerns an unrelated target (anti-herpes lab work offered for colds; oil tests
    against gonorrhoea and a yeast offered for wounds) (owner decision, 2026-11-12). Generic
    anti-inflammatory or antioxidant inferences stay, labelled.
+12. **Deep re-sweep rules (owner decisions, 2026-11-12/13).** (a) A *new* plant-symptom pair is
+   added only when an SR/MA or RCT of that species names the symptom and finds benefit; weaker
+   evidence is recorded as a gap in the audit report, not as a pair. (b) A systematic review or
+   meta-analysis that pools only lab or animal studies keeps its `systematic-review` /
+   `meta-analysis` tag. (c) Near-miss conditions are different conditions: a wound is not a bruise
+   or skin irritation; a gut or airway smooth-muscle antispasmodic is not evidence for skeletal
+   `muscle-spasm`; an endometriosis model is not menstrual cramps; a diuretic alone is not a UTI
+   remedy. (d) A pair whose use the plant's own safety note forbids is dropped, not just the organ
+   of a `serious` warning: comfrey "do not apply to broken skin" removes wounds and skin
+   irritation, tansy "not for internal use" removes its digestive pairs, sorrel's oxalate /
+   kidney-stone caution removes urinary support. (e) Sources that cannot be read (Chevallier, the
+   British Herbal Pharmacopoeia, Hoffmann, a "WHO Monographs" citation with no volume or the wrong
+   volume, a review with no abstract or a dead DOI) stay only on pairs a checkable source agrees
+   with. A generic "A Modern Herbal" citation is replaced by the plant's own Grieve entry, read on
+   botanical.com, and removed where Grieve has no entry for the species. A web page that returns
+   404/403 or carries no references is purged and deleted. (f) Low libido is its own condition
+   (`low-libido`, split from `fertility`); conception studies stay under fertility.
 
 A precise "8/10" shown to a consumer implies more rigor than AI-assigned tags carry —
 treat the number as a claim that itself must be earned (see §10).
@@ -350,6 +367,14 @@ Name these plainly so no one mistakes green checks for safety:
 
 ## 10. Changelog
 
+- **v1.6 - 2026-11-13.** Symptom deep re-sweep finished: batches 1-12 re-swept and batches 14-19
+  given their first second-pass + deep audit, so all 188 plants now carry the strict
+  "source names the symptom" check (`deep_dossier.py` `!NAME` screen) and the deep checks
+  (landmark SR/MA/RCT search, nulls, superseded reviews, pinned sources, own-warning conflicts).
+  Added §4 invariant 12 (new-pair SR/RCT rule, preclinical SRs keep their tag, near-miss
+  conditions, own-warning drops, unreadable-source handling, `low-libido` split). Reports:
+  `docs/audits/2026-11-10-symptom-audit/deep/deep01.md`..`deep19.md`. Live pairs 1,405;
+  bibliography 3,632 refs. Model: Claude Opus 5.5.
 - **v1.5 - 2026-11-12.** Symptom deep re-sweep (batches 1-12). Added the additive plant field
   **`former_slugs[]`** (retired public URL slugs, e.g. after a misspelt primary common name is
   corrected: Ginkgo was "Ginko"). `validate.py` rejects a bad slug, a former slug claimed by two

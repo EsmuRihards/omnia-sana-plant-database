@@ -175,7 +175,12 @@
 - id: fertility
   label: Fertility
   body_system: reproductive
-  consumer_synonyms: ["libido", "aphrodisiac"]
+  consumer_synonyms: ["infertility", "trying to conceive", "conception"]
+- id: low-libido
+  related_actions: [aphrodisiac]
+  label: Low libido
+  body_system: reproductive
+  consumer_synonyms: ["libido", "sexual desire", "low sex drive", "aphrodisiac", "sexual dysfunction"]
 
 # -------------------------------------------------------------------- nervous / mental
 - id: anxiety

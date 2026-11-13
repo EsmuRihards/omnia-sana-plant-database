@@ -261,6 +261,17 @@ indications:
   - REF-3533
   status: verified
 contraindications:
+- note: Rare but serious liver injury (acute hepatitis) has been reported with turmeric and curcumin supplements,
+    mostly high-dose or high-absorption products, some combined with black pepper (piperine). Case series
+    from Italy and the US describe dozens of cases; one US patient died, and most US cases carried the
+    gene variant HLA-B*35:01. Liver tests usually returned to normal after the supplement was stopped.
+    Culinary use has not been implicated.
+  severity: serious
+  reference_ids:
+  - REF-3651
+  - REF-3652
+  - REF-3653
+  status: verified
 - note: Generally very safe in culinary quantities. High-dose curcumin supplements may cause gastrointestinal
     upset. May interact with anticoagulants (warfarin), antidiabetic drugs, and acid-suppressing medications.
     Avoid very high doses during pregnancy and breastfeeding. Rarely causes allergic reactions.
@@ -361,4 +372,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-2167, depression REF-3533. Inflammation MA REF-3534 and obesity MA REF-3535 added. Not added
   (owner to decide): liver-support - a GRADE MA (37178581) exists, but turmeric-associated liver
   injury is reported (Tuscany phytovigilance SR 32656820); muscle-soreness MA 37408367 was null
-  (no pair exists).'
+  (no pair exists).
+  | 2026-11-13: owner decisions (deep re-sweep) - Turmeric liver-support NOT added (owner,
+  2026-11-13): 2023 GRADE MA 37178581 (31 RCTs; ALT -4.1, AST -3.8 U/L; GGT ns; low/very-low
+  certainty; authors: not necessarily clinically meaningful) and 2025 NAFLD MA 38213188 (ALT -4.1)
+  vs rare idiosyncratic supplement hepatotoxicity. NEW serious contraindication: Tuscany
+  phytovigilance 7 cases + SR of 23 case reports REF-3651; US DILIN 10 cases, 1 death, HLA-B*35:01
+  in 7 REF-3652; 2025 histopathology series of 11 REF-3653. The record previously carried no
+  liver-injury warning.'

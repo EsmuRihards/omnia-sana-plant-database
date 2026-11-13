@@ -177,9 +177,10 @@ indications:
   - REF-0148
   - REF-0308
   status: verified
-- condition: fertility
+- condition: low-libido
+  note: A fenugreek seed extract (Testofen) improved sexual function and raised testosterone in healthy
+    older men in a randomized trial
   reference_ids:
-  - REF-0308
   - REF-1116
   status: verified
 - condition: inflammation
@@ -307,4 +308,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced
   from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for seed (provisional: PFAF REF-3356, harvested when
-  fully ripe in late summer). Single lineage. Binomial confirmed.'
+  fully ripe in late summer). Single lineage. Binomial confirmed.
+  | 2026-11-13: owner decisions (deep re-sweep) - Fertility pair re-filed to the new low-libido
+  condition (owner, 2026-11-13: libido split out of fertility). Its evidence is a sexual-function
+  RCT in men (Testofen, REF-1116). REF-0308 (WHO Monographs vol. 1) dropped from this pair: vol. 1
+  has no fenugreek monograph (fenugreek is in vol. 3) - the record''s other REF-0308 citations are
+  left for its deep re-sweep batch.'

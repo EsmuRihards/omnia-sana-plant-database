@@ -17612,6 +17612,16 @@
    ],
    "contraindications": [
     {
+     "note": "Rare but serious liver injury (acute hepatitis) has been reported with turmeric and curcumin supplements, mostly high-dose or high-absorption products, some combined with black pepper (piperine). Case series from Italy and the US describe dozens of cases; one US patient died, and most US cases carried the gene variant HLA-B*35:01. Liver tests usually returned to normal after the supplement was stopped. Culinary use has not been implicated.",
+     "severity": "serious",
+     "reference_ids": [
+      "REF-3651",
+      "REF-3652",
+      "REF-3653"
+     ],
+     "status": "verified"
+    },
+    {
      "note": "Generally very safe in culinary quantities. High-dose curcumin supplements may cause gastrointestinal upset. May interact with anticoagulants (warfarin), antidiabetic drugs, and acid-suppressing medications. Avoid very high doses during pregnancy and breastfeeding. Rarely causes allergic reactions.",
      "severity": "caution",
      "reference_ids": [
@@ -18476,6 +18486,16 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "High cholesterol"
+    },
+    {
+     "condition": "low-libido",
+     "note": "Carrot seed improved sexual desire and function vs placebo in women with low sexual desire in a randomized trial. The seed blocks pregnancy in animal studies and is a folk contraceptive - avoid it when trying to conceive",
+     "reference_ids": [
+      "REF-3654"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low libido"
     }
    ],
    "contraindications": [
@@ -25843,12 +25863,14 @@
    ],
    "contraindications": [
     {
-     "note": "Avoid prolonged use of whole licorice root in large doses. May cause pseudoaldosteronism (hypertension, oedema, hypokalaemia). Contraindicated in hypertension, renal failure, liver disease, hypokalaemia, and pregnancy. DGL form is safer for prolonged gastric use. Interactions with antihypertensives, diuretics, and corticosteroids.",
-     "severity": "caution",
+     "note": "Glycyrrhizin in whole licorice root makes the body retain salt and water and lose potassium (pseudoaldosteronism), which can raise blood pressure and cause swelling and low potassium, especially with large doses or prolonged use. Do not use if you are pregnant or have low potassium, high blood pressure, or a kidney, liver or heart disorder, and do not combine with heart medicines, corticosteroids, stimulant laxatives or other products that can upset electrolytes (Health Canada; EMA). The liver warning is about these salt and potassium effects, not liver damage: in trials in liver disease the side effects were of this kind, and intravenous glycyrrhizin raised blood pressure in people with hepatitis C. Deglycyrrhizinated licorice (DGL) avoids this effect.",
+     "severity": "warning",
      "reference_ids": [
-      "REF-0012",
-      "REF-0089",
-      "REF-0308"
+      "REF-3648",
+      "REF-3649",
+      "REF-3650",
+      "REF-0308",
+      "REF-0012"
      ],
      "status": "verified"
     },
@@ -61041,14 +61063,14 @@
      "label": "Cardiovascular / heart health"
     },
     {
-     "condition": "fertility",
+     "condition": "low-libido",
+     "note": "A fenugreek seed extract (Testofen) improved sexual function and raised testosterone in healthy older men in a randomized trial",
      "reference_ids": [
-      "REF-0308",
       "REF-1116"
      ],
      "status": "verified",
      "evidence": 5,
-     "label": "Fertility"
+     "label": "Low libido"
     },
     {
      "condition": "inflammation",

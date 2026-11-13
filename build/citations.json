@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3422,
+ "count": 3429,
  "citations": [
   {
    "ref_id": "REF-2937",
@@ -4687,6 +4687,37 @@
    "conditions": [
     "Cancer (anticancer research)"
    ]
+  },
+  {
+   "ref_id": "REF-3653",
+   "key": "papke2025turmerichepatitisseries",
+   "type": "article",
+   "title": "Turmeric supplement-associated hepatitis: a clinicopathological series of 11 cases highlighting pan-lobular and zone 3 injury",
+   "authors": "Papke, D.J., Viveiros, K., Zota, V., Gill, R.M., González, I.A., Misdraji, J. and Patil, D.T.",
+   "journal": "Histopathology",
+   "year": "2025",
+   "doi": "10.1111/his.15333",
+   "url": "",
+   "link": "https://doi.org/10.1111/his.15333",
+   "link_type": "doi",
+   "citation": "Papke, D.J., Viveiros, K., Zota, V., Gill, R.M., González, I.A., Misdraji, J. and Patil, D.T (2025) 'Turmeric supplement-associated hepatitis: a clinicopathological series of 11 cases highlighting pan-lobular and zone 3 injury', Histopathology, 86(3), pp. 410--422. doi:10.1111/his.15333",
+   "abstract": "AIMS: Although turmeric is commonly ingested and well tolerated, there is increasing evidence that over-the-counter turmeric supplements can cause drug-induced liver injury. We sought to thoroughly characterise clinicopathological features of patients for whom liver injury was attributed clinically to turmeric supplements. METHODS AND RESULTS: We identified 11 patients via retrospective pathology archive review: 10 females (91%) and one male, with a median age of 58 years (range = 37-66 years). Six patients (55%) were asymptomatic with abnormal liver function tests, while five patients (45%) presented with malaise and/or jaundice. Ten patients (91%) showed predominant transaminase abnormalities, while one exhibited predominant alkaline phosphatase elevation. Histologically, biopsies showed acute hepatitis (eight cases, 73%, including five pan-lobular and three zone 3-predominant inflammation), scattered lobular aggregates of histiocytes (two; 18%) and a chronic hepatitis pattern of injury (one; 9%). Mild bile duct injury was present in five biopsies (45%). All patients stopped ingesting turmeric supplements after presenting with liver injury, and four patients additionally received steroid therapy; liver function tests normalised in all patients. Roussel Uclaf causality assessment method (RUCAM) analysis estimated the likelihood of turmeric supplement-associated liver injury to be probable (eight cases) and possible (three). CONCLUSIONS: Histological features in the 'possible' cases were consistent with drug-induced injury, highlighting the added benefit of histological analysis relative to RUCAM analysis isolation. This study underscores the need to obtain a full history of over-the-counter medications and supplements when investigating aetiologies for liver injury, including supplements purportedly containing innocuous compounds such as turmeric.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Turmeric supplement-associated hepatitis: a clinicopathological series of 11 cases highlighting pan-lobular and zone 3 injury",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1631",
@@ -9419,6 +9450,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3649",
+   "key": "giangrandi2024licoriceliverma",
+   "type": "article",
+   "title": "Licorice and liver function in patients with primary liver disease: A systematic review and meta-analysis of RCTs",
+   "authors": "Giangrandi, I., Dinu, M., Napoletano, A., Maggini, V., Lombardi, N., Crescioli, G., Gallo, E., Mascherini, V., Antonelli, M., Donelli, D., Vannacci, A., Firenzuoli, F. and Sofi, F.",
+   "journal": "Phytotherapy Research",
+   "year": "2024",
+   "doi": "10.1002/ptr.8288",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.8288",
+   "link_type": "doi",
+   "citation": "Giangrandi, I., Dinu, M., Napoletano, A., Maggini, V., Lombardi, N., Crescioli, G., Gallo, E., Mascherini, V., Antonelli, M., Donelli, D., Vannacci, A., Firenzuoli, F. and Sofi, F (2024) 'Licorice and liver function in patients with primary liver disease: A systematic review and meta-analysis of RCTs', Phytotherapy Research, 38(9), pp. 4614--4627. doi:10.1002/ptr.8288",
+   "abstract": "Licorice (Glycyrrhiza spp.) has been a cornerstone of traditional Chinese and Japanese medicine. This systematic review and meta-analysis aimed to evaluate the efficacy of licorice formulations, alone or in combination with other herbs, on liver function enzymes in patients with primary liver disease. We systematically searched MEDLINE, Embase, Scopus, Web of Science, and Cochrane Library up to April 2024. Randomized controlled trials (RCTs) comparing the effects of Glycyrrhiza spp. preparations versus placebo or standard of care controls were included. Standard Cochrane methods were used to extract data and appraise eligible studies. A total of 15 RCTs, involving 1367 participants, were included in the analysis. The studies varied widely in geographical location, duration, and licorice preparations used. Licorice significantly reduced alanine aminotransferase (ALT) by 15.63 U/L (95% CI: -25.08, -6.18; p = 0.001) and aspartate aminotransferase (AST) by 7.37 U/L (95% CI: -13.13, -1.61; p = 0.01) compared to control groups. Subgroup analyses revealed that purified glycyrrhizic acid compounds were particularly effective, showing greater reductions in ALT and AST without significant heterogeneity. Although licorice treatment did not significantly impact gamma-glutamyl transferase and total bilirubin (TBIL) levels overall, specific licorice-herb preparations did show a notable reduction in TBIL. The safety profile of licorice was consistent with known side effects, predominantly mild and related to its mineralocorticoid effects. Despite heterogeneity and potential language bias, the findings suggest that licorice can enhance liver function. Further studies should standardize licorice preparations and explore its role in multifaceted herbal formulations to better understand its hepatoprotective mechanisms.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Licorice and liver function in patients with primary liver disease: A systematic review and meta-analysis of RCTs",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1885",
    "key": "wang2024schisandra",
    "type": "article",
@@ -9512,6 +9573,36 @@
     "Antioxidant",
     "Immunomodulator / immune support"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3648",
+   "key": "hclicorice2024",
+   "type": "article",
+   "title": "Natural Health Product Monograph: Licorice - Glycyrrhiza glabra, Glycyrrhiza inflata, Glycyrrhiza uralensis",
+   "authors": "Health Canada, Natural and Non-prescription Health Products Directorate",
+   "journal": "",
+   "year": "2024",
+   "doi": "",
+   "url": "https://webprod.hc-sc.gc.ca/nhpid-bdipsn/dbImages/mono_licorice_english.pdf",
+   "link": "https://webprod.hc-sc.gc.ca/nhpid-bdipsn/dbImages/mono_licorice_english.pdf",
+   "link_type": "url",
+   "citation": "Health Canada, Natural and Non-prescription Health Products Directorate (2024) 'Natural Health Product Monograph: Licorice - Glycyrrhiza glabra, Glycyrrhiza inflata, Glycyrrhiza uralensis'. Available at: https://webprod.hc-sc.gc.ca/nhpid-bdipsn/dbImages/mono_licorice_english.pdf",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Natural Health Product Monograph: Licorice - Glycyrrhiza glabra, Glycyrrhiza inflata, Glycyrrhiza uralensis",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -17079,6 +17170,37 @@
    ],
    "scientific": [
     "Petasites hybridus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3652",
+   "key": "halegouademarzio2023turmericdilin",
+   "type": "article",
+   "title": "Liver Injury Associated with Turmeric-A Growing Problem: Ten Cases from the Drug-Induced Liver Injury Network [DILIN]",
+   "authors": "Halegoua-DeMarzio, D., Navarro, V., Ahmad, J., Avula, B., Barnhart, H., Barritt, A.S., Bonkovsky, H.L., Fontana, R.J., Ghabril, M.S., Hoofnagle, J.H., Khan, I.A., Kleiner, D.E., Phillips, E., Stolz, A. and Vuppalanchi, R.",
+   "journal": "The American Journal of Medicine",
+   "year": "2023",
+   "doi": "10.1016/j.amjmed.2022.09.026",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.amjmed.2022.09.026",
+   "link_type": "doi",
+   "citation": "Halegoua-DeMarzio, D., Navarro, V., Ahmad, J., Avula, B., Barnhart, H., Barritt, A.S., Bonkovsky, H.L., Fontana, R.J., Ghabril, M.S., Hoofnagle, J.H., Khan, I.A., Kleiner, D.E., Phillips, E., Stolz, A. and Vuppalanchi, R (2023) 'Liver Injury Associated with Turmeric-A Growing Problem: Ten Cases from the Drug-Induced Liver Injury Network [DILIN]', The American Journal of Medicine, 136(2), pp. 200--206. doi:10.1016/j.amjmed.2022.09.026",
+   "abstract": "BACKGROUND: Turmeric is a commonly used herbal product that has been implicated in causing liver injury. The aim of this case series is to describe the clinical, histologic, and human leukocyte antigen (HLA) associations of turmeric-associated liver injury cases enrolled the in US Drug-Induced Liver Injury Network (DILIN). METHODS: All adjudicated cases enrolled in DILIN between 2004 and 2022 in which turmeric was an implicated product were reviewed. Causality was assessed using a 5-point expert opinion score. Available products were analyzed for the presence of turmeric using ultra-high-performance liquid chromatography. Genetic analyses included HLA sequencing. RESULTS: Ten cases of turmeric-associated liver injury were found, all enrolled since 2011, and 6 since 2017. Of the 10 cases, 8 were women, 9 were White, and median age was 56 years (range 35-71). Liver injury was hepatocellular in 9 patients and mixed in 1. Liver biopsies in 4 patients showed acute hepatitis or mixed cholestatic-hepatic injury with eosinophils. Five patients were hospitalized, and 1 patient died of acute liver failure. Chemical analysis confirmed the presence of turmeric in all 7 products tested; 3 also contained piperine (black pepper). HLA typing demonstrated that 7 patients carried HLA-B*35:01, 2 of whom were homozygous, yielding an allele frequency of 0.450 compared with population controls of 0.056-0.069. CONCLUSION: Liver injury due to turmeric appears to be increasing in the United States, perhaps reflecting usage patterns or increased combination with black pepper. Turmeric causes potentially severe liver injury that is typically hepatocellular, with a latency of 1 to 4 months and strong linkage to HLA-B*35:01.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Liver Injury Associated with Turmeric-A Growing Problem: Ten Cases from the Drug-Induced Liver Injury Network [DILIN]",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
    ],
    "actions": [],
    "conditions": []
@@ -28819,6 +28941,37 @@
    ]
   },
   {
+   "ref_id": "REF-3651",
+   "key": "lombardi2021turmerictuscanyliver",
+   "type": "article",
+   "title": "Acute liver injury following turmeric use in Tuscany: An analysis of the Italian Phytovigilance database and systematic review of case reports",
+   "authors": "Lombardi, N., Crescioli, G., Maggini, V., Ippoliti, I., Menniti-Ippolito, F., Gallo, E., Brilli, V., Lanzi, C., Mannaioni, G., Firenzuoli, F. and Vannacci, A.",
+   "journal": "British Journal of Clinical Pharmacology",
+   "year": "2021",
+   "doi": "10.1111/bcp.14460",
+   "url": "",
+   "link": "https://doi.org/10.1111/bcp.14460",
+   "link_type": "doi",
+   "citation": "Lombardi, N., Crescioli, G., Maggini, V., Ippoliti, I., Menniti-Ippolito, F., Gallo, E., Brilli, V., Lanzi, C., Mannaioni, G., Firenzuoli, F. and Vannacci, A (2021) 'Acute liver injury following turmeric use in Tuscany: An analysis of the Italian Phytovigilance database and systematic review of case reports', British Journal of Clinical Pharmacology, 87(3), pp. 741--753. doi:10.1111/bcp.14460",
+   "abstract": "AIMS: Several cases of acute non-infectious cholestatic hepatitis recently appeared in Italy following consumption of Curcuma longa-containing dietary supplements. The aim of this research was to describe the Tuscan (Italy) cases of acute hepatitis and to compare them with similar cases of hepatotoxicity published in the literature by performing a systematic review. METHODS: Records of Tuscan cases of acute hepatitis were obtained from the Italian Phytovigilance system. Each spontaneous report was analysed in order to collect all relevant clinical information of patients and information concerning the Curcuma longa-containing dietary supplement. Moreover, both the RUCAM and WHO-UMC systems were used to evaluate the causal relationship between the use of dietary supplement and acute hepatitis. A systematic literature review was performed in MEDLINE and Embase and all case-reports and case-series published in English were included. RESULTS: Seven cases of acute hepatitis occurring in Tuscany up to September 2019 are described. In all cases, hepatotoxicity was associated with Curcuma longa formulations with high bioavailability and high dosage of curcumin/curcuminoids. The causal relationship was also supported by the positive dechallenge observed in most cases. In the 23 cases identified through the systematic review, the majority of patients were concomitantly exposed to at least one other medication and 16 of them experienced a positive dechallenge. CONCLUSIONS: Within the frame of poorly controlled and regulated products, such as dietary supplements, the evaluation of Italian cases of Curcuma longa-induced acute hepatitis and the systematic review of literature confirmed the association between Curcuma longa and liver injury.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Acute liver injury following turmeric use in Tuscany: An analysis of the Italian Phytovigilance database and systematic review of case reports",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0801",
    "key": "li2021eleutherococcuspoly",
    "type": "article",
@@ -40252,6 +40405,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3654",
+   "key": "sadeghi2020carrotseedhsdd",
+   "type": "article",
+   "title": "Evaluation of the effect of carrot seed (Daucus Carota) in women of fertile age with hypoactive sexual desire disorder: A randomized double-blind clinical trial",
+   "authors": "Sadeghi, S., Bahrami, R., Raisi, F., Rampisheh, Z., Ghobadi, A. and Akhtari, E.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2020",
+   "doi": "10.1016/j.ctim.2020.102543",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2020.102543",
+   "link_type": "doi",
+   "citation": "Sadeghi, S., Bahrami, R., Raisi, F., Rampisheh, Z., Ghobadi, A. and Akhtari, E (2020) 'Evaluation of the effect of carrot seed (Daucus Carota) in women of fertile age with hypoactive sexual desire disorder: A randomized double-blind clinical trial', Complementary Therapies in Medicine, 54, pp. 102543. doi:10.1016/j.ctim.2020.102543",
+   "abstract": "BACKGROUND: Hypoactive Sexual Desire Disorder (HSDD) is a common sexual problem of women which has negative impacts on their health and quality of life. Given the side effects of pharmacologic interventions, it would be beneficial to patients trying to find new options based on herbal medicine. OBJECTIVES: To evaluate efficacy of carrot seed on sexual dysfunction of women with HSDD compared with placebo. METHODS: In this randomized double-blind clinical trial, 68 participants randomly assigned to the intervention group which took 500 mg carrot seed three times a day for 12 weeks versus placebo. Participants in two groups filled Female Sexual Function Index (FSFI) questionnaire at baseline, week six and 12. Repeated measure analysis of variance (ANOVA) test was used for statistical analysis. RESULTS: Thirty women in carrot seed group and thirty women in placebo group completed 12 weeks of the study. In general, carrot seed compared to placebo improved the total score of FSFI 7.329 ± 0.830 (p < 0.001), desire 4.1±0.7 (p < 0.001), lubrication 4.7±0.4 (p = 0.019), arousal 4.1±0.08 (p < 0.001), satisfaction 4.8±1.1 (p < 0.001), orgasm 3.9±0.9 (p < 0.001) and pain 5.4±1(p < 0.001). No adverse event was reported in this study. CONCLUSIONS: Women with HSDD may benefit from six weeks' treatment with carrot seed for improvement of sexual dysfunction. Further large clinical studies are warranted to confirm efficacy of this herbal drug.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Evaluation of the effect of carrot seed (Daucus Carota) in women of fertile age with hypoactive sexual desire disorder: A randomized double-blind clinical trial",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [],
+   "conditions": [
+    "Low libido"
+   ]
   },
   {
    "ref_id": "REF-1138",
@@ -63609,7 +63795,7 @@
     "Aphrodisiac"
    ],
    "conditions": [
-    "Fertility"
+    "Low libido"
    ]
   },
   {
@@ -96199,6 +96385,36 @@
    ]
   },
   {
+   "ref_id": "REF-3650",
+   "key": "vanrossum2001glycyrrhizinpseudoaldo",
+   "type": "article",
+   "title": "'Pseudo-aldosteronism' induced by intravenous glycyrrhizin treatment of chronic hepatitis C patients",
+   "authors": "van Rossum, T.G., de Jong, F.H., Hop, W.C., Boomsma, F. and Schalm, S.W.",
+   "journal": "Journal of Gastroenterology and Hepatology",
+   "year": "2001",
+   "doi": "10.1046/j.1440-1746.2001.02382.x",
+   "url": "",
+   "link": "https://doi.org/10.1046/j.1440-1746.2001.02382.x",
+   "link_type": "doi",
+   "citation": "van Rossum, T.G., de Jong, F.H., Hop, W.C., Boomsma, F. and Schalm, S.W (2001) ''Pseudo-aldosteronism' induced by intravenous glycyrrhizin treatment of chronic hepatitis C patients', Journal of Gastroenterology and Hepatology, 16(7), pp. 789--95. doi:10.1046/j.1440-1746.2001.02382.x",
+   "abstract": "BACKGROUND AND AIMS: Treatment with intravenous glycyrrhizin reduces the progression of liver disease caused by chronic hepatitis C (HCV) infection. Glycyrrhetinic acid, a metabolite of glycyrrhizin, inhibits the renal conversion of cortisol to cortisone by inhibiting the enzyme 11 beta-hydroxysteroiddehydrogenase in the kidney. The resulting excess of cortisol subsequently stimulates the mineralocorticoid receptor, leading to pseudo-aldosteronism with hypertension, hypokalemia and eventually renin and aldosterone suppression. The aim of this study was to evaluate the occurrence of pseudo-aldosteronism after treatment of chronic hepatitis C (HCV) patients with increasing doses of intravenous glycyrrhizin. METHODS: Forty-four HCV patients with chronic hepatitis or compensated cirrhosis were treated with intravenous glycyrrhizin 6 x 200 mg/week, 3 x 240 mg/week or 3 x 0 mg/week (placebo) for 4 weeks. In all patients, bodyweight, blood pressure and plasma concentrations of sodium, potassium, cortisol, DHEA-S (dehydroepiandrosterone sulfate), renin and aldosterone were measured before, and at 0 and 4 weeks after treatment. RESULTS: Within the placebo group, no significant changes were observed. Within the 1200 mg group systolic blood pressure was significantly higher at the end of treatment, while aldosterone was significantly lower; at the end of the follow-up period these values had returned to baseline. The changes from baseline in systolic and diastolic blood pressure at the end of treatment were significantly higher in the 1200 mg group compared to the placebo group. The changes in aldosterone and potassium concentrations at the end of treatment increased with increasing dosage, although not significantly. CONCLUSION: Hepatitis C virus patients with chronic hepatitis or compensated cirrhosis show minor reversible symptoms of pseudo-aldosteronism after treatment with 1200 mg glycyrrhizin weekly for 4 weeks.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "'Pseudo-aldosteronism' induced by intravenous glycyrrhizin treatment of chronic hepatitis C patients",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2615",
    "key": "heath2001waterhemlock",
    "type": "article",
@@ -98495,7 +98711,6 @@
     "Cognitive function",
     "Cold & flu",
     "Cough",
-    "Fertility",
     "Immune support",
     "Indigestion",
     "Infection (general)",

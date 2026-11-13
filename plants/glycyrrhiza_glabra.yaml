@@ -251,15 +251,21 @@ indications:
   - REF-3574
   status: verified
 contraindications:
-- note: Avoid prolonged use of whole licorice root in large doses. May cause pseudoaldosteronism (hypertension,
-    oedema, hypokalaemia). Contraindicated in hypertension, renal failure, liver disease, hypokalaemia,
-    and pregnancy. DGL form is safer for prolonged gastric use. Interactions with antihypertensives, diuretics,
-    and corticosteroids.
-  severity: caution
+- note: 'Glycyrrhizin in whole licorice root makes the body retain salt and water and lose potassium (pseudoaldosteronism),
+    which can raise blood pressure and cause swelling and low potassium, especially with large doses or
+    prolonged use. Do not use if you are pregnant or have low potassium, high blood pressure, or a kidney,
+    liver or heart disorder, and do not combine with heart medicines, corticosteroids, stimulant laxatives
+    or other products that can upset electrolytes (Health Canada; EMA). The liver warning is about these
+    salt and potassium effects, not liver damage: in trials in liver disease the side effects were of
+    this kind, and intravenous glycyrrhizin raised blood pressure in people with hepatitis C. Deglycyrrhizinated
+    licorice (DGL) avoids this effect.'
+  severity: warning
   reference_ids:
-  - REF-0012
-  - REF-0089
+  - REF-3648
+  - REF-3649
+  - REF-3650
   - REF-0308
+  - REF-0012
   status: verified
 - note: 'Duke (2002) rates licorice as ++ and documents extensive activities. Glycyrrhizin (the key compound)
     has anti-inflammatory, antiulcer, antiviral, and adrenal-stimulant properties. Duke highlights an
@@ -382,7 +388,15 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monographs. REF-0826/REF-0828 retagged narrative-review. OWNER DECISION, not added:
   liver-support - two NAFLD RCTs (22308054, 35785498) lowered liver enzymes, but the record''s own
   contraindication lists liver disease. Gap: atopic-dermatitis gel trial 14522625 reports 2% vs 1%
-  only, not vs base gel - no eczema pair.'
+  only, not vs base gel - no eczema pair.
+  | 2026-11-13: owner decisions (deep re-sweep) - Licorice liver-support NOT added (owner,
+  2026-11-13). The liver contraindication is real but is about pseudoaldosteronism, not
+  hepatotoxicity: Health Canada 2024 NNHPD monograph REF-3648 ("kidney, liver or cardiovascular
+  disorder", citing EMA 2012, ESCOP 2003, Brinker 2010, Bradley 1992); Duke 2002 says liver
+  cirrhosis. Benefit evidence documented here only: NAFLD RCTs 22308054, 35785498; MA of 15 RCTs
+  in liver disease REF-3649 (ALT -15.6, AST -7.4 U/L, mostly purified glycyrrhizic acid; side
+  effects mineralocorticoid). Contraindication rewritten (severity caution -> warning), REF-0089
+  (history paper) dropped from it.'
 constituents:
 - name: Triterpenoid saponins (glycyrrhizin/glycyrrhizic acid)
   compounds:

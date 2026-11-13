@@ -689,10 +689,26 @@
    "label": "Fertility",
    "body_system": "reproductive",
    "consumer_synonyms": [
-    "libido",
-    "aphrodisiac"
+    "infertility",
+    "trying to conceive",
+    "conception"
    ],
    "related_actions": []
+  },
+  {
+   "id": "low-libido",
+   "label": "Low libido",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "libido",
+    "sexual desire",
+    "low sex drive",
+    "aphrodisiac",
+    "sexual dysfunction"
+   ],
+   "related_actions": [
+    "aphrodisiac"
+   ]
   },
   {
    "id": "anxiety",

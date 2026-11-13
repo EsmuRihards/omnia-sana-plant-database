@@ -316,8 +316,9 @@
    "label": "Fertility",
    "body_system": "reproductive",
    "consumer_synonyms": [
-    "libido",
-    "aphrodisiac"
+    "infertility",
+    "trying to conceive",
+    "conception"
    ],
    "related_actions": []
   },
@@ -539,6 +540,21 @@
    "related_actions": [
     "appetite-stimulant",
     "bitter-tonic"
+   ]
+  },
+  {
+   "id": "low-libido",
+   "label": "Low libido",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "libido",
+    "sexual desire",
+    "low sex drive",
+    "aphrodisiac",
+    "sexual dysfunction"
+   ],
+   "related_actions": [
+    "aphrodisiac"
    ]
   },
   {
@@ -6905,13 +6921,12 @@
      ]
     },
     {
-     "condition": "fertility",
-     "label": "Fertility",
+     "condition": "low-libido",
+     "label": "Low libido",
      "evidence": 5,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0308",
       "REF-1116"
      ]
     },
@@ -15218,6 +15233,10 @@
    ]
   },
   {
+   "safety": {
+    "severity": "serious",
+    "note": "Rare but serious liver injury (acute hepatitis) has been reported with turmeric and curcumin supplements, mostly high-dose or high-absorption products, some combined with black pepper (piperine)."
+   },
    "name": "Turmeric",
    "scientific": "Curcuma longa",
    "id": "curcuma-longa",
@@ -16030,6 +16049,16 @@
    "common_slug": "wild-carrot",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "low-libido",
+     "label": "Low libido",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3654"
+     ]
+    },
     {
      "condition": "bloating",
      "label": "Bloating",

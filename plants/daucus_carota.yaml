@@ -351,6 +351,13 @@ indications:
   reference_ids:
   - REF-2720
   status: needs-review
+- condition: low-libido
+  note: Carrot seed improved sexual desire and function vs placebo in women with low sexual desire in
+    a randomized trial. The seed blocks pregnancy in animal studies and is a folk contraceptive - avoid
+    it when trying to conceive
+  reference_ids:
+  - REF-3654
+  status: verified
 contraindications:
 - note: Wild carrot SEED has estrogenic and anti-implantation (pregnancy-interceptory) activity and a
     long reputation as an emmenagogue and folk contraceptive; medicinal doses of the seed should be avoided
@@ -597,4 +604,9 @@ internal_notes: 'Created 2026-07-10 as a new medicinal-plant record (wild carrot
   | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. Notes rewritten to
   their sources. Not added (owner to decide): fertility pair from a carrot-seed RCT in hypoactive
   sexual desire disorder (33183662) - the record''s own evidence REF-2724 reports estrogenic,
-  pregnancy-interceptory effects of the seeds, so a "fertility" listing could mislead.'
+  pregnancy-interceptory effects of the seeds, so a "fertility" listing could mislead.
+  | 2026-11-13: owner decisions (deep re-sweep) - New low-libido pair (owner, 2026-11-13):
+  carrot-seed RCT in women with hypoactive sexual desire disorder REF-3654 (500 mg x3/day, 12
+  weeks; FSFI desire, arousal, lubrication, orgasm, satisfaction and pain improved vs placebo).
+  Note carries the seed''s anti-fertility / folk-contraceptive warning (REF-2724). Not filed under
+  fertility.'

@@ -107,7 +107,6 @@ dosage:
     reference only, not a prescription; strictly avoid in pregnancy.
   reference_ids:
   - REF-0098
-  - REF-0139
   - REF-0187
   status: verified
 constituents:
@@ -136,24 +135,17 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0098
-  - REF-0139
   - REF-1294
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0098
-  - REF-0139
   - REF-1293
   - REF-1296
-  - REF-1297
   - REF-1298
   - REF-1300
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0098
-  - REF-0139
   - REF-1294
   - REF-1296
   - REF-1299
@@ -161,81 +153,37 @@ actions:
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
-  - REF-0098
-  - REF-0139
+  - REF-3811
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0098
-  - REF-0139
+  - REF-3811
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Hot tansy fomentations were traditionally applied to rheumatic joints, and it was taken for gout
+    (Grieve, A Modern Herbal); not recommended internally because of thujone toxicity
   reference_ids:
-  - REF-0098
+  - REF-3811
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0139
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0139
-- condition: indigestion
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0139
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Tansy essential oil was active against multidrug-resistant bacteria in the lab (preclinical)
   reference_ids:
-  - REF-0098
   - REF-1298
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0139
-  - REF-1297
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0098
+  reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0139
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0139
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0139
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditionally applied to eruptive skin diseases (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-3811
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0139
 - condition: wounds
   note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0098
+  reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0139
-  - REF-1297
 contraindications:
 - note: 'CAUTION: Tansy is considered toxic in medicinal doses and is NOT recommended for internal use.
     Thujone can cause convulsions, liver and kidney damage. Contraindicated in pregnancy (uterotonic and
@@ -244,7 +192,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0098
-  - REF-0139
   - REF-0187
   status: verified
 - note: Duke (2002) rates tansy as ++ but emphasizes important safety concerns. The plant contains thujone
@@ -257,7 +204,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0098
-  - REF-0139
   - REF-0187
   - REF-0063
   status: verified
@@ -319,4 +265,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   with this record''s existing safety-first contraindications. Sourced from A Modern Herbal (REF-0098)
   and the essential-oil composition study (REF-1293). | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for flower + leaf + stem (all provisional: PFAF REF-3348, harvested as it comes into
-  flower). SAFETY: toxic (thujone) + PA-toxic ragwort (Jacobaea vulgaris) lookalike. Binomial confirmed.'
+  flower). SAFETY: toxic (thujone) + PA-toxic ragwort (Jacobaea vulgaris) lookalike. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. REF-0139 "The 1879 Beal
+  seed viability experiment" was cited for 5 actions: purged and deleted. Generic Grieve REF-0098
+  was pinned to all 9 pairs; the tansy entry (REF-3811, read 2026-11-13) names gout, rheumatic
+  parts (external), eruptive skin disease, flatulence, worms - used where it fits. Bloating and
+  indigestion dropped: the record''s own safety note says tansy is not recommended internally
+  (thujone). Menstrual-cramps and muscle-spasm dropped (Grieve: emmenagogue; nothing names
+  cramps). Fish-parasite study REF-1297 removed from the antimicrobial action.'

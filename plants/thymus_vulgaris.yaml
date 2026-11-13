@@ -124,12 +124,14 @@ actions:
   - REF-1309
   - REF-1310
   - REF-1312
+  - REF-3813
   status: verified
 - action: antispasmodic
   note: Antitussive and antispasmodic (eases bronchial spasm and coughing)
   reference_ids:
   - REF-0519
   - REF-1305
+  - REF-3813
   status: verified
 - action: antitussive
   note: Antitussive and antispasmodic (eases bronchial spasm and coughing)
@@ -145,33 +147,35 @@ actions:
   status: verified
 indications:
 - condition: bronchitis
-  note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
-    extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
-    fits)
+  note: Traditional remedy for coughs and bronchial complaints (Grieve, A Modern Herbal); traditional
+    expectorant for productive cough (EU herbal monograph)
   reference_ids:
   - REF-0519
+  - REF-3813
   status: verified
 - condition: cancer
-  note: inferred from anticancer action
+  note: A thyme oil nanoemulsion killed cancer cells in the lab (preclinical)
   reference_ids:
   - REF-1309
   status: needs-review
 - condition: cold
-  note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
-    extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
-    fits)
+  note: Traditional expectorant for productive cough with a cold (EU herbal monograph); traditionally
+    taken at the start of a cold (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0519
+  - REF-3813
   status: verified
 - condition: cough
-  note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
-    extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
-    fits)
+  note: Thyme syrup reduced cough vs placebo in children with asthma attacks in a randomized trial; traditional
+    expectorant for productive cough with a cold (EU herbal monograph) and for whooping cough (Grieve,
+    A Modern Herbal)
   reference_ids:
   - REF-0519
+  - REF-3797
+  - REF-3813
   status: verified
 - condition: infection
-  note: Antimicrobial (thymol and carvacrol) - supports respiratory infection
+  note: Thymol and carvacrol, the main compounds of thyme, are antimicrobial in the lab (reviews; preclinical)
   reference_ids:
   - REF-0486
   status: verified
@@ -179,24 +183,24 @@ indications:
   - REF-0519
   - REF-1310
 - condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0519
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids: []
-  status: needs-review
+  note: Thyme reduced period pain as much as ibuprofen and more than placebo in a triple-blind randomized
+    trial
+  reference_ids:
+  - REF-3798
+  status: verified
   mechanistic_exclude_ids:
   - REF-0519
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Traditional expectorant for coughs and chest complaints (EU herbal monograph; Grieve, A Modern
+    Herbal); thyme syrup eased cough in children with asthma in a randomized trial
   reference_ids:
   - REF-0519
+  - REF-3797
+  - REF-3813
   status: needs-review
 - condition: wounds
-  note: inferred from antimicrobial action
+  note: Thymol and carvacrol, the main compounds of thyme, are antimicrobial and were reviewed for wound
+    healing (preclinical)
   reference_ids:
   - REF-0486
   status: needs-review
@@ -204,6 +208,35 @@ indications:
   - REF-0519
   - REF-1310
   - REF-1312
+- condition: anxiety
+  note: Dried thyme leaves reduced anxiety scores vs control in university students in a randomized trial
+  reference_ids:
+  - REF-3799
+  status: verified
+- condition: depression
+  note: Dried thyme leaves reduced depression scores vs control in university students in a randomized
+    trial
+  reference_ids:
+  - REF-3799
+  status: verified
+- condition: insomnia
+  note: Dried thyme leaves improved overall sleep quality (not time to fall asleep or sleep length) vs
+    control in university students in a randomized trial
+  reference_ids:
+  - REF-3799
+  status: verified
+- condition: memory
+  note: Dried thyme leaves improved prospective and retrospective memory vs control in university students
+    in a randomized trial
+  reference_ids:
+  - REF-3799
+  status: verified
+- condition: oral-health
+  note: A thyme mouthwash reduced bad breath and gum inflammation after periodontal treatment in a randomized
+    trial
+  reference_ids:
+  - REF-3800
+  status: verified
 contraindications:
 - note: Culinary amounts are safe. Thyme essential oil is a strong irritant - dilute well before any topical
     use and do not take the undiluted oil internally.
@@ -254,4 +287,11 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF
   REF-3351, cut just before the flowers open). Single lineage. Binomial confirmed.
   | 2026-11-10: symptom-source audit batch 3 - REF-0593 purged: thyme + ivy combination product,
-  not thyme alone.'
+  not thyme alone.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. Cough/cold/bronchitis notes
+  cited a thyme-ivy combination trial that is not referenced and is a combination: rewritten to
+  the EU monograph and Grieve REF-3813. Thyme-syrup asthma-cough RCT REF-3797 and the thyme vs
+  ibuprofen vs placebo dysmenorrhoea RCT REF-3798 added. Muscle-spasm dropped (off-target). New
+  pairs (owner rule): anxiety, depression, insomnia, memory (student RCT REF-3799), oral-health
+  (halitosis/gingivitis RCT REF-3800). Gap: thyme-honey RCTs (combination), Shirazi thyme
+  (different species).'

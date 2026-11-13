@@ -117,13 +117,11 @@ constituents:
   - REF-0131
 - name: Cocoa butter (fatty acids)
   note: The fat fraction of the seed, classified as emollient and used in both food and topical products.
-  reference_ids:
-  - REF-0167
+  reference_ids: []
 actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0131
-  - REF-0167
   - REF-1084
   - REF-1088
   - REF-1091
@@ -131,7 +129,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0131
-  - REF-0167
   - REF-1084
   - REF-1086
   - REF-1088
@@ -141,56 +138,61 @@ actions:
 - action: digestive
   reference_ids:
   - REF-0131
-  - REF-0167
   status: verified
 - action: neuroprotective
   reference_ids:
   - REF-0131
-  - REF-0167
   status: verified
 indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-0131
-  - REF-1084
-  - REF-1085
   - REF-1086
   - REF-1087
   - REF-1088
   - REF-1089
-  - REF-1092
+  - REF-3793
   status: verified
+  null_result_ids:
+  - REF-1084
+  - REF-1085
+  note: Cocoa flavanols slightly lowered blood pressure in a Cochrane review; the large COSMOS trial found
+    no reduction in total cardiovascular events (fewer cardiovascular deaths was a secondary finding),
+    and a 2021 systematic review found no effect on blood pressure or lipids in healthy people
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Regular chocolate or cocoa improved executive function in a meta-analysis of trials in healthy
+    adults
   reference_ids:
   - REF-0131
+  - REF-3795
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0167
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Cocoa polyphenols had anti-inflammatory effects (reviews; mostly preclinical)
   reference_ids:
   - REF-0131
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0167
 - condition: memory
-  note: inferred from neuroprotective action
+  note: Daily cocoa improved learning, memory and attention in young adults in a meta-analysis of trials
   reference_ids:
   - REF-0131
+  - REF-3795
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0167
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Cacao extract eased atopic-dermatitis-like skin symptoms in mice (preclinical)
   reference_ids:
   - REF-1091
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0131
-  - REF-0167
   - REF-1084
   - REF-1088
+- condition: high-blood-pressure
+  note: Cocoa flavanols slightly lowered blood pressure in a Cochrane review and a 2026 meta-analysis
+    of randomized trials, more in people with high blood pressure
+  reference_ids:
+  - REF-3793
+  - REF-3794
+  status: verified
 contraindications:
 - note: '• Stimulant effect (most common issue): cacao naturally contains theobromine (and some caffeine).
     In larger amounts it can feel like a “gentle coffee”: faster heartbeat, restlessness, trouble sleeping.
@@ -208,7 +210,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0131
-  - REF-0167
   - REF-0249
   status: verified
 - note: Duke (2002) notes that cacao is primarily known for its cardiotonic, CNS-stimulant, and broncholytic
@@ -220,7 +221,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0131
-  - REF-0167
   - REF-0249
   - REF-0063
   status: verified
@@ -253,4 +253,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing systematic health-effects review (REF-1084) and the
   COSMOS cocoa-flavanol RCT (REF-1085). | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness
   for fruit recorded as GAP: Useful Tropical Plants gives no pod-ripeness/harvest stage (only seed-viability
-  after separation); the seed shares the pod harvest. Binomial confirmed (no timing to attach). | 2026-08-15: fruit harvest_readiness filled (was gap) from Rojas et al., Heliyon 2020 (REF-3388): ripeness is read from the proportion of the pod and grooves that has changed colour, and the ripe colour is clone-specific rather than fixed.'
+  after separation); the seed shares the pod harvest. Binomial confirmed (no timing to attach). | 2026-08-15: fruit harvest_readiness filled (was gap) from Rojas et al., Heliyon 2020 (REF-3388): ripeness is read from the proportion of the pod and grooves that has changed colour, and the ripe colour is clone-specific rather than fixed.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. Confectionery technology
+  book REF-0167 cited for four pharmacological actions: purged and deleted. Cell study REF-1092
+  removed from cardiovascular-support. 2021 SR REF-1084 (no BP/lipid effect in healthy people) and
+  COSMOS REF-1085 (primary endpoint null) moved to no-effect. Cochrane BP review REF-3793 added.
+  New pair (owner rule): high-blood-pressure (Cochrane + 2026 MA). Chocolate-cognition MA REF-3795
+  added. REF-0131 retagged narrative-review.'

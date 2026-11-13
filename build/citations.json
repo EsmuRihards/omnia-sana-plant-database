@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3551,
+ "count": 3572,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -664,6 +664,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3794",
+   "key": "sakuda2026cocoaflavanolbp",
+   "type": "article",
+   "title": "Impact of cocoa flavanols on blood pressure and vascular function: an updated systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Sakuda, M., Ito, K., Adaniya, Y., Watanabe, N., Han, L., Natsume, M. and Nakamura, K.",
+   "journal": "The Journal of Nutrition, Health & Aging",
+   "year": "2026",
+   "doi": "10.1016/j.jnha.2026.100966",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jnha.2026.100966",
+   "link_type": "doi",
+   "citation": "Sakuda, M., Ito, K., Adaniya, Y., Watanabe, N., Han, L., Natsume, M. and Nakamura, K (2026) 'Impact of cocoa flavanols on blood pressure and vascular function: an updated systematic review and meta-analysis of randomized controlled trials', The Journal of Nutrition, Health & Aging, 30(11), pp. 100966. doi:10.1016/j.jnha.2026.100966",
+   "abstract": "BACKGROUND AND OBJECTIVE: While elevated blood pressure is a major cardiovascular risk factor, a comprehensive evaluation of not only blood pressure but also vascular function is essential to evaluate the risk of cardiovascular diseases and the effectiveness of interventions. Cocoa flavanols may lower blood pressure by improving endothelial function, however evidence regarding vascular indices is limited, and findings remain inconsistent and not the latest. We conducted an updated systematic review and meta-analysis to comprehensively evaluate the effects of cocoa flavanol intake on blood pressure and vascular function. METHODS: This review was registered in UMIN-CTR (UMIN000059995), and we searched PubMed, Cochrane Library, Ichushi-Web, JDreamIII, ICTRP and UMIN-CTR for eligible randomized controlled trials up to December 8, 2025. Primary outcomes were systolic and diastolic blood pressure (SBP/DBP); secondary outcomes were flow-mediated dilation (FMD), pulse wave velocity (PWV), and ankle-brachial index (ABI). Mean differences (MD) with 95% confidence intervals (CIs) were pooled using a random-effects model. Risk of bias was assessed using a modified version of the Cochrane Risk of Bias 2 (RoB 2), and certainty of evidence was graded. RESULTS: Twenty-five studies (n = 1,167) included hypertensive and normotensive participants; daily cocoa flavanol doses ranged from 10.6 to 1,680 mg. Both SBP and DBP decreased significantly following cocoa flavanol intake (SBP: MD -2.734 mmHg, 95% CI [-3.446, -2.023]; DBP: MD -1.848 mmHg, 95% CI [-2.725, -0.971]). Significant improvements were also observed for FMD (MD 1.314%, 95% CI [1.043, 1.585]) and PWV (MD -0.200 m/s, 95% CI [-0.393, -0.007]), whereas ABI showed no significant change, with limited evidence from only two studies. Subgroup analyses were consistent for SBP/DBP in both hypertensive and normotensive participants. Dose-response analyses revealed a significant inverse association between SBP or DBP and flavanol intake, but did not identify clear dose thresholds within the examined intake range. Certainty was moderate for SBP; other outcomes were limited. CONCLUSION: These findings suggest that cocoa flavanol intake of 10.6-1,680 mg/day may modestly reduce blood pressure and may improve selected vascular function indices, although certainty for vascular outcomes remains limited.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Impact of cocoa flavanols on blood pressure and vascular function: an updated systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": [
+    "High blood pressure"
+   ]
+  },
+  {
    "ref_id": "REF-2786",
    "key": "ullah2026oxalis",
    "type": "article",
@@ -1208,7 +1241,7 @@
    "link_type": "doi",
    "citation": "Renna, M (2026) 'Taraxacum officinale L. in leukemia and lymphoma: current knowledge and prospects for horticulture', Frontiers in Plant Science. doi:10.3389/fpls.2025.1740142",
    "abstract": "Dandelion ( Taraxacum officinale L.) is a globally distributed medicinal plant rich in phenolic acids, flavonoids, sesquiterpene lactones and pentacyclic triterpenoids. Preclinical studies indicate that dandelion extracts and isolated constituents exert selective cytotoxic and pro-apoptotic effects against various hematological malignancies, including leukemia and lymphoma, via mechanisms such as ROS generation, mitochondrial apoptosis, cell-cycle arrest and inhibition of oncogenic signaling (e.g., PI3K/AKT, STAT3). This mini-review synthesizes current in vitro and in vivo evidence on the antileukemic and antilymphoma potential of T. officinale , emphasizing the phytochemical classes most consistently implicated (notably triterpenoids like taraxasterol and pentacyclic acids) and highlighting methodological limitations of existing studies—dose relevance, lack of pharmacokinetic data and sparse safety profiling. Building on these pharmacological insights, horticultural strategies that can modulate bioactive profiles—controlled environment agriculture, hydroponics, elicitation, light spectral management and targeted nutrient fortification— are evaluated and a practical cultivation-to-clinic roadmap to produce standardized, high-value plant material suitable for translational research is proposed. Critical translational barriers, including standardization of extracts, potential interactions with anticancer drugs (notably tyrosine kinase inhibitors), and the need for rigorous toxicity and human pharmacology studies are also discussed. Finally, prioritized experimental and horticultural studies that would accelerate evidence-based development of dandelion-derived therapeutics for hematologic oncology are outlined, while cautioning against premature clinical use without controlled trials.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -1267,6 +1300,39 @@
    "conditions": [
     "Cardiovascular / heart health",
     "Metabolic support"
+   ]
+  },
+  {
+   "ref_id": "REF-3807",
+   "key": "jiang2026redcloverhotflashgrade",
+   "type": "article",
+   "title": "The effectiveness of red clover on hot-flash in menopausal women: a GRADE-assessed systematic review and meta-analysis",
+   "authors": "Jiang, W. and Wu, K.",
+   "journal": "European Journal of Obstetrics, Gynecology, and Reproductive Biology",
+   "year": "2026",
+   "doi": "10.1016/j.ejogrb.2026.115226",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ejogrb.2026.115226",
+   "link_type": "doi",
+   "citation": "Jiang, W. and Wu, K (2026) 'The effectiveness of red clover on hot-flash in menopausal women: a GRADE-assessed systematic review and meta-analysis', European Journal of Obstetrics, Gynecology, and Reproductive Biology, 324, pp. 115226. doi:10.1016/j.ejogrb.2026.115226",
+   "abstract": "OBJECTIVES: Red clover (Trifolium pratense) isoflavones are widely used as alternatives to hormone therapy for menopausal vasomotor symptoms, yet evidence regarding their efficacy remains inconsistent. To systematically evaluate the effectiveness of red clover supplementation in reducing hot flush frequency and severity in menopausal women. METHODS: A systematic review and meta-analysis was conducted following PRISMA guidelines through searching PubMed, Scopus, Web of Science, and Embase data bases for randomized controlled trials comparing red clover isoflavone formulations with placebo in peri- or postmenopausal women experiencing hot flash. Meta-analysis was performed using Comprehensive Meta-Analysis (CMA) software, version 3.7, calculated standardized mean differences (SMD) with 95% confidence intervals. Statistical significance was set at a p-value < 0.05. RESULTS: Nine randomized controlled trials (RCTs) met inclusion criteria, enrolling women aged 40-65 years with baseline hot flush frequencies of 2.1-11.7 per day. Red clover doses ranged from 37.1-160 mg daily isoflavones, with treatment durations of 12 weeks to 12 months. Meta-analysis revealed a statistically significant reduction in frequency of hot flash favoring red clover over placebo (SMD = -0.446; 95% CI: -0.807 to -0.084; p = 0.016), representing a small-to-moderate effect. Sensitivity analyses confirmed result stability, and no publication bias was detected. Most trials exhibited low risk of bias. CONCLUSION: Red clover isoflavone supplementation demonstrates modest but statistically significant efficacy in reducing menopausal hot flushes compared with placebo, supporting its potential role as a phytoestrogenic alternative for managing vasomotor symptoms.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effectiveness of red clover on hot-flash in menopausal women: a GRADE-assessed systematic review and meta-analysis",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes",
+    "Menopause"
    ]
   },
   {
@@ -1331,6 +1397,39 @@
    "actions": [],
    "conditions": [
     "Insomnia / sleeplessness"
+   ]
+  },
+  {
+   "ref_id": "REF-3796",
+   "key": "lopezzambrano2026wildthymegi",
+   "type": "article",
+   "title": "Thymus serpyllum Extract Improves Gastrointestinal Symptoms and Modulates Fecal Gut Microbiome Composition in a Multicenter, Randomized, Placebo-Controlled Clinical Trial",
+   "authors": "López-Zambrano, R., García-García, J., López-Escánez, L., Vezza, T., Gbati, L., Palacios-López, R., Martin-Castaño, B., Vargas-Castillo, G., Martínez-Zaldivar, M., Caballero-Mateos, A.M., García, F., Redondo-Cerezo, E., Fernández García, R., Fernández-Varón, E., Morón, R., Pischel, I., Suarez, C.G., Rodríguez-Nogales, A., Rodríguez-Cabezas, M.E. and Gálvez, J.",
+   "journal": "Medical Sciences",
+   "year": "2026",
+   "doi": "10.3390/medsci14060611",
+   "url": "",
+   "link": "https://doi.org/10.3390/medsci14060611",
+   "link_type": "doi",
+   "citation": "López-Zambrano, R., García-García, J., López-Escánez, L., Vezza, T., Gbati, L., Palacios-López, R., Martin-Castaño, B., Vargas-Castillo, G., Martínez-Zaldivar, M., Caballero-Mateos, A.M., García, F., Redondo-Cerezo, E., Fernández García, R., Fernández-Varón, E., Morón, R., Pischel, I., Suarez, C.G., Rodríguez-Nogales, A., Rodríguez-Cabezas, M.E. and Gálvez, J (2026) 'Thymus serpyllum Extract Improves Gastrointestinal Symptoms and Modulates Fecal Gut Microbiome Composition in a Multicenter, Randomized, Placebo-Controlled Clinical Trial', Medical Sciences, 14(6). doi:10.3390/medsci14060611",
+   "abstract": "BACKGROUND/OBJECTIVES: Functional gastrointestinal discomfort is highly prevalent and affects up to 40% of the global population and remains challenging to manage due to its multifactorial nature. Usual interventions include dietary and lifestyle modifications, such as targeted phytochemical-based interventions. This multicenter, double-blind, randomized, placebo-controlled trial investigated the efficacy and exploratory microbiome-related effects of a standardized wild thyme extract (WThE) administered for 8 weeks on gastrointestinal symptoms, health-related quality of life, and fecal microbiome dynamics in adults without diagnosed organic gastrointestinal disease who reported gastrointestinal discomfort. METHODS: A total of 178 adults without diagnosed organic gastrointestinal disease and with persistent gastrointestinal discomfort were randomized to WThE (n = 90) or placebo (n = 88); 131 participants had observed week-8 outcome data. RESULTS: The analysis showed a greater reduction in overall gastrointestinal symptom burden with WThE than placebo, measured by the GSRS total score, with the largest exploratory domain-level differences observed in indigestion, constipation, and diarrhea-related symptoms. Improvements were also observed in health-related quality of life. At the microbiome level, no significant between-group differences were detected in α- or β-diversity; however, taxon-level analyses identified specific changes in fecal microbial composition, and predicted functional profiling suggested associated pathway-level differences. Moreover, the extract was well tolerated, with no product-related adverse events reported during the 8-week intervention. CONCLUSIONS: Overall, WThE reduced self-reported gastrointestinal symptom burden and improved selected quality-of-life outcomes in adults with persistent gastrointestinal discomfort, supporting Thymus serpyllum as a safe and well-tolerated botanical intervention linked to favorable modulation of the fecal microbiome and enhanced gastrointestinal function. CLINICALTRIALS: gov no: NCT06639126.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Thymus serpyllum Extract Improves Gastrointestinal Symptoms and Modulates Fecal Gut Microbiome Composition in a Multicenter, Randomized, Placebo-Controlled Clinical Trial",
+   "plants": [
+    "Breckland Thyme",
+    "Wild thyme",
+    "creeping thyme",
+    "elfin thyme"
+   ],
+   "scientific": [
+    "Thymus serpyllum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Indigestion"
    ]
   },
   {
@@ -2541,6 +2640,37 @@
    "actions": [],
    "conditions": [
     "Oral & throat health"
+   ]
+  },
+  {
+   "ref_id": "REF-3801",
+   "key": "takuli2025ajwaindentalpain",
+   "type": "article",
+   "title": "Effectiveness of topical ajwain oil in reducing pain during local anaesthesia administration in paediatric dental patients: A randomized controlled trial",
+   "authors": "Takuli, A., Bhatnagar, A. and Rikhari, P.",
+   "journal": "Journal of Oral Biology and Craniofacial Research",
+   "year": "2025",
+   "doi": "10.1016/j.jobcr.2025.09.008",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jobcr.2025.09.008",
+   "link_type": "doi",
+   "citation": "Takuli, A., Bhatnagar, A. and Rikhari, P (2025) 'Effectiveness of topical ajwain oil in reducing pain during local anaesthesia administration in paediatric dental patients: A randomized controlled trial', Journal of Oral Biology and Craniofacial Research, 15(6), pp. 1454--1459. doi:10.1016/j.jobcr.2025.09.008",
+   "abstract": "BACKGROUND: Needle anxiety is one of the most common barriers to providing stress-free dental care in children. In paediatric dentistry, there is a consistent effort to identify painless techniques for administering local anaesthesia. Topical anaesthetics have long been considered a valuable aid in this regard. Recently, the efficacy of herbal topical anaesthetic agents has been compared with that of conventional sprays and gels. The present study is among the first to evaluate the effectiveness of Trachyspermum ammi (Ajwain) oil as a topical agent for pain control during local anaesthesia administration in paediatric dental patients. OBJECTIVE: The objective of this study was to evaluate and compare the analgesic efficacy of Ajwain (Trachyspermum ammi) oil with a conventional 15 % w/w lidocaine topical spray in reducing pain perception during the administration of local anaesthesia in paediatric dental patients. METHODS: A total of 52 children, aged 6-10 years and meeting the inclusion and exclusion criteria, were randomly divided into two equal groups (Group 1: Ajwain oil; Group 2: topical anaesthetic spray) using the chit method. Pain responses were assessed using the Visual Analogue Scale (VAS) and the Wong-Baker Facial Pain Rating Scale (WBFPRS). RESULTS: Independent t-tests revealed statistically significant differences between Group 1 and Group 2 for both VAS and WBFPRS scores, with p values of 0.001 for each scale, indicating a significant reduction in pain perception in the Ajwain oil group. CONCLUSION: Ajwain oil shows potential as an effective alternative to conventional topical anaesthetic sprays for reducing injection pain in paediatric dental patients.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effectiveness of topical ajwain oil in reducing pain during local anaesthesia administration in paediatric dental patients: A randomized controlled trial",
+   "plants": [
+    "Ajowan",
+    "Ajwain"
+   ],
+   "scientific": [
+    "Trachyspermum ammi"
+   ],
+   "actions": [],
+   "conditions": [
+    "Pain (general)"
    ]
   },
   {
@@ -6808,7 +6938,7 @@
    "link_type": "doi",
    "citation": "Wu, J., Sun, J., Liu, M., Zhang, X., Kong, L., Ma, L., Jiang, S., Liu, X. and Ma, W (2024) 'Botany, Traditional Use, Phytochemistry, Pharmacology and Quality Control of Taraxaci Herba: A Comprehensive Review', 17(9). doi:10.3390/ph17091113",
    "abstract": "Taraxaci herba , as a traditional Chinese medicine, is the name of the Taraxacum genus in the Asteraceae family. Documented in the Tang Herbal Medicine (Tang Dynasty, AD 657-659), its medicinal properties cover a wide range of applications such as acute mastitis, lung abscess, conjunctival congestion, sore throat, damp-heat jaundice, and vision improvement. In the Chinese Pharmacopoeia (Edition 2020), more than 40 kinds of China-patented drugs containing Taraxaci herba were recorded. This review explores the evolving scientific understanding of Taraxaci herba , covering facets of ethnopharmacology, botany, phytochemistry, pharmacology, artificial cultivation, and quality control. In particular, the chemical constituents and pharmacological research are reviewed. Taraxaci herba has been certified as a traditional medicine plant, and its flavonoids, phenolic acids, and terpenoids have been identified and separated, which include Chicoric acid, taraxasterol, Taraxasteryl acetate, Chlorogenic acid, isorhamnetin, and luteolin; they are responsible for anti-inflammatory, antioxidant, antibacterial, anti-tumor, and anti-cancer activities. These findings validate the traditional uses of Taraxaci herba and lay the groundwork for further scientific exploration. The sources used in this study include Web of Science, Pubmed, the CNKI site, classic monographs, the Chinese Pharmacopoeia, the Chinese Medicine Dictionary, and doctoral and master's theses.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -6833,13 +6963,7 @@
     "Diuretic",
     "Hepatoprotective (liver support)"
    ],
-   "conditions": [
-    "Detox / cleansing",
-    "Liver support",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1720",
@@ -9046,6 +9170,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3802",
+   "key": "heydarirad2024ajwaincipn",
+   "type": "article",
+   "title": "Exploring the Effectiveness of Ajwain Cream in Treating Taxane-induced Peripheral Neuropathy in Cancer Patients: A Pilot, Randomised and Double-blind Clinical Trial",
+   "authors": "Heydarirad, G., Mirzaei, H.R., Gharehgozlou, R., Buentzel, J., Namazi, M.R. and Pasalar, M.",
+   "journal": "Indian Journal of Palliative Care",
+   "year": "2024",
+   "doi": "10.25259/IJPC_32_2023",
+   "url": "",
+   "link": "https://doi.org/10.25259/IJPC_32_2023",
+   "link_type": "doi",
+   "citation": "Heydarirad, G., Mirzaei, H.R., Gharehgozlou, R., Buentzel, J., Namazi, M.R. and Pasalar, M (2024) 'Exploring the Effectiveness of Ajwain Cream in Treating Taxane-induced Peripheral Neuropathy in Cancer Patients: A Pilot, Randomised and Double-blind Clinical Trial', Indian Journal of Palliative Care, 30(1), pp. 71--76. doi:10.25259/IJPC_32_2023",
+   "abstract": "OBJECTIVES: Chemotherapy-induced peripheral neuropathy is a common disorder among cancer patients receiving various chemotherapeutic protocols. The present study aimed to explore the feasibility of ajwain (Trachyspermum ammi [L.] Sprague) cream in treating peripheral neuropathy symptoms triggered by taxane chemotherapeutic agents. MATERIALS AND METHODS: This was a pilot, double-blind, and randomised clinical trial on patients with peripheral neuropathy attributable to chemotherapy with taxane drugs during 2021-2022 in Tehran. Patients received ajwain or placebo cream for four weeks and filled out the chemotherapy-induced peripheral neuropathy assessment tool (CIPNAT) at the start and end finale of the trial. Side effects were also noted. RESULTS: Thirty patients suffering from breast, lung, gastro-intestinal, or prostate cancer were allocated to each of the drug and placebo groups. The mean difference in CIPNAT score between the groups was 0.83, demonstrating the statistical ineffectiveness of the drug compared with the placebo (P = 0.372). The safety profile showed promising outcomes at the end of the trial. CONCLUSION: Although the effectiveness of ajwain cream was unacceptable in treating chemotherapy-induced peripheral neuropathy symptoms, multicentre controlled trials with ample sample size are mandatory for an all-inclusive inference.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Exploring the Effectiveness of Ajwain Cream in Treating Taxane-induced Peripheral Neuropathy in Cancer Patients: A Pilot, Randomised and Double-blind Clinical Trial",
+   "plants": [
+    "Ajowan",
+    "Ajwain"
+   ],
+   "scientific": [
+    "Trachyspermum ammi"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2397",
    "key": "hedaoo2024actaea",
    "type": "article",
@@ -10107,7 +10260,6 @@
    ],
    "conditions": [
     "High cholesterol",
-    "Hot flashes",
     "Menopause"
    ]
   },
@@ -12120,7 +12272,7 @@
    "link_type": "doi",
    "citation": "Hao, F., Deng, X., Yu, X., Wang, W., Yan, W., Zhao, X., Wang, X., Bai, C., Wang, Z. and Han, L (2024) 'Taraxacum: A Review of Ethnopharmacology, Phytochemistry and Pharmacological Activity', 52(1), pp. 183--215. doi:10.1142/S0192415X24500083",
    "abstract": "Taraxacum refers to the genus Taraxacum , which has a long history of use as a medicinal plant and is widely distributed around the world. There are over 2500 species in the genus Taraxacum recorded as medicinal plants in China, Central Asia, Europe, and the Americas. It has traditionally been used for detoxification, diuresis, liver protection, the treatment of various inflammations, antimicrobial properties, and so on. We used the most typically reported Taraxacum officinale as an example and assembled its chemical makeup, including sesquiterpene, triterpene, steroids, flavone, sugar and its derivatives, phenolic acids, fatty acids, and other compounds, which are also the material basis for its pharmacological effects. Pharmacological investigations have revealed that Taraxacum crude extracts and chemical compounds contain antimicrobial infection, anti-inflammatory, antitumor, anti-oxidative, liver protective, and blood sugar and blood lipid management properties. These findings adequately confirm the previously described traditional uses and aid in explaining its therapeutic applications.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -12151,15 +12303,9 @@
     "Prebiotic"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Bloating",
-    "Constipation",
     "Detox / cleansing",
-    "Indigestion",
     "Inflammation (general)",
     "Liver support",
-    "Loss of appetite",
-    "Skin irritation",
     "Swelling / fluid retention",
     "Urinary support",
     "Urinary tract infection (UTI)"
@@ -12844,6 +12990,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3797",
+   "key": "eskandarpour2024thymeasthmacough",
+   "type": "article",
+   "title": "Thymus vulgaris ameliorates cough in children with asthma exacerbation: a randomized, triple-blind, placebo-controlled clinical trial",
+   "authors": "Eskandarpour, E., Ahadi, A., Jazani, A.M., Azgomi, R.N.D. and Molatefi, R.",
+   "journal": "Allergologia et Immunopathologia",
+   "year": "2024",
+   "doi": "10.15586/aei.v52i1.964",
+   "url": "",
+   "link": "https://doi.org/10.15586/aei.v52i1.964",
+   "link_type": "doi",
+   "citation": "Eskandarpour, E., Ahadi, A., Jazani, A.M., Azgomi, R.N.D. and Molatefi, R (2024) 'Thymus vulgaris ameliorates cough in children with asthma exacerbation: a randomized, triple-blind, placebo-controlled clinical trial', Allergologia et Immunopathologia, 52(1), pp. 9--15. doi:10.15586/aei.v52i1.964",
+   "abstract": "BACKGROUND: Asthma is one of the most common chronic respiratory diseases with inflammatory involvement and has a high burden worldwide. This study aimed to determine the effect of Thymus vulgaris (TV) on cough in children between 5 and 12 years old with mild to moderate asthma exacerbation. METHODS: In this randomized, triple-blind clinical trial, 60 children between the ages of 5 and 12 with asthma exacerbations were randomly divided into two groups. The intervention group (n = 30) was given TV powder at a dose of 20 mg/kg every 8 hours, prepared as syrup, along with routine medical treatment for a week, and the control group (n = 30) received only routine medical treatment with placebo syrup. At the end of the week, clinical and laboratory symptoms, and spirometry data were re-recorded for both groups. Finally, the recorded factors were compared and statistically analyzed. RESULTS: The results showed that after the intervention, activity-induced cough reduced, and difference was statistically significant between the two groups (p = 0.042), but the reduction in wheezing and breathlessness had no statistically significant difference. Spirometry data showed a significant difference in forced expiratory volume in 1 second (FEV1) between the two groups after intervention (p = 0.048), but this difference was not significant in FEV1/FVC (forced vital capacity), peak expiratory flow (PEF), and forced expiratory flow at 25-75% of the vital capacity (FEF25-75%). CONCLUSION: The results show that TV syrup may be useful as an adjuvant treatment in children with asthma exacerbations.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Thymus vulgaris ameliorates cough in children with asthma exacerbation: a randomized, triple-blind, placebo-controlled clinical trial",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cough",
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0739",
    "key": "xu2024astragaloside",
    "type": "article",
@@ -13080,7 +13259,7 @@
    "link_type": "doi",
    "citation": "Jalil, B., Pischel, I., Feistel, B., Suarez, C. and others (2024) 'Wild thyme (Thymus serpyllum L.): a review of the current evidence of nutritional and preventive health benefits', Frontiers in Nutrition, 11, pp. 1380962. doi:10.3389/fnut.2024.1380962",
    "abstract": "Thymus serpyllum L. (Lamiaceae), known in English as 'wild thyme', is primarily found in the Palearctic realm (Eurasia, North Africa) and has been utilized traditionally for culinary, nutritional, medicinal, and aromatic purposes. The essential oil extracted from wild thyme is particularly noteworthy, being used extensively in the food industry as a flavoring agent and preservative. The plant's aerial parts are commonly employed as an element of the diet (e.g., tea)/for culinary uses and in local/traditional medicine (primarily for managing respiratory and gastrointestinal conditions), similar to the use of common thyme. There is practically no information available on the species' nutritional benefits. Pharmacological studies, including in vitro and in vivo research, alongside a limited number of clinical trials, have investigated extracts of Thymus serpyllum , although these extracts are often phytochemically poorly characterized in different experimental protocols and models. These studies have demonstrated a range of therapeutic effects, such as antimicrobial (notably the essential oil) and anti-inflammatory, as well as its preventative health benefits and nutritional value of wild thyme. Preclinical studies have corroborated the plant's anti-inflammatory potential, particularly in conditions like inflammatory bowel diseases (IBD) and irritable bowel syndromes (IBS). Additionally, evidence of hepatoprotective activities and benefits in managing metabolic syndrome and cardiovascular health issues, such as lipid metabolism regulation, cholesterol reduction, antidiabetic, antihypertensive, and immunomodulatory effects, have been observed predominantly in rodent models. Phytochemical analysis of wild thyme reveals an essential oil fraction below 1%, along with non-volatile compounds predominantly comprising phenolic acids (such as rosmarinic, salvianolic, and caffeic acids) and flavonoids (mainly glucosides of luteolin, apigenin, and their derivatives). These components are believed to contribute significantly to the plant's medicinal, nutritional, and preventive health properties. Despite promising findings, there is a need for more rigorously designed controlled clinical trials using phytochemically characterized wild thyme. The plant has an excellent safety and tolerability record. This review at the interface of nutritional/preventive health properties and as pharmacological activities highlights the current role of wild thyme in nutrition and general healthcare as well as its future potential, and also points to important gaps in the literature.",
-   "tier": "narrative",
+   "tier": "review",
    "corpus": [
     "clinical"
    ],
@@ -16362,6 +16541,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3795",
+   "key": "shateri2023chocolatecognition",
+   "type": "article",
+   "title": "Effects of chocolate on cognitive function in healthy adults: A systematic review and meta-analysis on clinical trials",
+   "authors": "Shateri, Z., Kooshki, A., Hormoznejad, R., Hosseini, S.A., Mousavi, R. and Foroumandi, E.",
+   "journal": "Phytotherapy Research",
+   "year": "2023",
+   "doi": "10.1002/ptr.7896",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7896",
+   "link_type": "doi",
+   "citation": "Shateri, Z., Kooshki, A., Hormoznejad, R., Hosseini, S.A., Mousavi, R. and Foroumandi, E (2023) 'Effects of chocolate on cognitive function in healthy adults: A systematic review and meta-analysis on clinical trials', Phytotherapy Research, 37(9), pp. 3688--3697. doi:10.1002/ptr.7896",
+   "abstract": "Cognitive function is defined as performance in objective tasks that need conscious mind effort. It has been shown that consuming foods rich in flavanols causes neurobiological effects and improves learning, memory, and global cognitive function. This study aimed to investigate the impact of chronic chocolate consumption on cognitive function in healthy adults based on published trials. The PICO strategy was applied to examine the research question in this study. Researchers searched the Web of Science, Science Direct, Pubmed, Scopus, Cochrane Library, and Google Scholar databases. Related articles of randomized controlled trials that evaluated the chronic effect of chocolate on cognitive function were selected (all published from their inception to February 2021). The difference in means of the last and first measurements was the main effect measure between the control and intervention groups. For quantitative data synthesis, weighted mean difference (WMD) and 95% confidence interval (CI) were performed in the random effect model. Of the initial 340 articles identified, seven trials met the eligibility criteria. Chronic chocolate intake significantly reduced executive function time (WMD: -11.77, 95% CI: -22.49, -1.05, p = 0.03) of the participants. Further, the language and executive function (WMD: 6.38, 95% CI: 5.97, 6.80, p < 0.001) was raised by 6.38 times after the intervention with chocolate. We could not perform subgroup analysis due to insufficient trials and significant heterogeneity in some studies. It is concluded that daily consumption of cocoa may provide short and middle-term effects on young adults and make them better cognitive performance in learning, memory, and attention.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of chocolate on cognitive function in healthy adults: A systematic review and meta-analysis on clinical trials",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cognitive function",
+    "Memory"
+   ]
+  },
+  {
    "ref_id": "REF-3529",
    "key": "dehzad2023curcuminglycemic",
    "type": "article",
@@ -16458,6 +16671,73 @@
    "actions": [],
    "conditions": [
     "Metabolic support"
+   ]
+  },
+  {
+   "ref_id": "REF-3799",
+   "key": "alqudah2023thymestudents",
+   "type": "article",
+   "title": "Effects of orally administered Thymus vulgaris leaves on memory, anxiety, depression, and sleep quality in university students: a randomized controlled trial",
+   "authors": "Alqudah, A., Qnais, E.Y., Bseiso, Y., Gammoh, O., Wedyan, M. and Alotaibi, B.S.",
+   "journal": "European Review for Medical and Pharmacological Sciences",
+   "year": "2023",
+   "doi": "10.26355/eurrev_202311_34447",
+   "url": "",
+   "link": "https://doi.org/10.26355/eurrev_202311_34447",
+   "link_type": "doi",
+   "citation": "Alqudah, A., Qnais, E.Y., Bseiso, Y., Gammoh, O., Wedyan, M. and Alotaibi, B.S (2023) 'Effects of orally administered Thymus vulgaris leaves on memory, anxiety, depression, and sleep quality in university students: a randomized controlled trial', European Review for Medical and Pharmacological Sciences, 27(22), pp. 10806--10814. doi:10.26355/eurrev_202311_34447",
+   "abstract": "OBJECTIVE: The aim of this study was to evaluate the effects of orally administering Thymus vulgaris leaves on memory performance, anxiety, depression, and sleep quality in a sample of university students. PATIENTS AND METHODS: This randomized controlled trial included 106 students who were randomly assigned to one of two groups. The first group received 500 mg of Thymus vulgaris leaves twice daily, while the second group received a placebo. The intervention period lasted for one month. The participants' memory performance (both prospective and retrospective), levels of anxiety and depression, and sleep quality were assessed using the Prospective and Retrospective Memory Questionnaire (PRMQ), Hospital Anxiety and Depression Scale (HADS), and Pittsburgh Sleep Quality Inventory (PSQI) at the beginning of the study and after one month. RESULTS: The findings revealed significant reductions in the scores of all scales and subscales, with the exception of the sleep latency and sleep duration components of the Pittsburgh Sleep Quality Inventory, among the group that received Thymus vulgaris leaves in comparison to the control group. CONCLUSIONS: Thymus vulgaris leaves, a traditional food source, demonstrate potential for enhancing both prospective and retrospective memory, alleviating anxiety and depression, and improving sleep quality in university students.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of orally administered Thymus vulgaris leaves on memory, anxiety, depression, and sleep quality in university students: a randomized controlled trial",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [],
+   "conditions": [
+    "Anxiety",
+    "Insomnia / sleeplessness",
+    "Low mood / depression",
+    "Memory"
+   ]
+  },
+  {
+   "ref_id": "REF-3800",
+   "key": "altndal2023thymehalitosis",
+   "type": "article",
+   "title": "Effects of thyme on halitosis in gingivitis patients: Can thyme mouthwash prevent halitosis-A randomized trial",
+   "authors": "Altındal, D., Deveci, K.C., Öner Talmaç, A.G., Talmaç, A.C. and Çalışır, M.",
+   "journal": "International Journal of Dental Hygiene",
+   "year": "2023",
+   "doi": "10.1111/idh.12672",
+   "url": "",
+   "link": "https://doi.org/10.1111/idh.12672",
+   "link_type": "doi",
+   "citation": "Altındal, D., Deveci, K.C., Öner Talmaç, A.G., Talmaç, A.C. and Çalışır, M (2023) 'Effects of thyme on halitosis in gingivitis patients: Can thyme mouthwash prevent halitosis-A randomized trial', International Journal of Dental Hygiene, 21(2), pp. 426--432. doi:10.1111/idh.12672",
+   "abstract": "OBJECTIVES: Bad breath is a condition that negatively affects people's social interactions and quality of life. The aim of this study was to evaluate the effect of thyme mouthwash on intraoral halitosis, gingival index (GI) and plaque index (PI) in patients with gingivitis. METHODS: In this retrospective study, 60 gingivitis patients (30 women/30 men) received initial periodontal treatment followed by oral hygiene instructions (OHI) and then were divided into four groups: The control group (C) received only OHI, while chlorhexidine (CHX) mouthwash was prescribed to the CHX group, Zinc acetate and CHX diacetate mouthwash was prescribed to the zinc acetate and CHX diacetate (ZnA) group, and the thyme (T) group was instructed to use thyme mouthwash. GI, PI and volatile sulfur compound (VSC) values were recorded at baseline and at the first week of treatment. RESULTS: The initial values of the recorded parameters did not differ significantly between the groups. In all groups, VSCs, GI and PI decreased after treatment (p = 0.001). There was no significant difference between the PI values of the groups after treatment (p = 0.188). On the contrary, the GI and VSC values after treatment were significantly different between the groups (p = 0.001). GI values were highest in the control group and lowest in the CHX group. In terms of VSCs, a significant difference was found between groups T and C, and between groups T and ZnA (p = 0.001). CONCLUSION: This study showed that the use of thyme mouthwash after periodontal treatment was effective in improving bad breath and gingivitis in gingivitis patients.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of thyme on halitosis in gingivitis patients: Can thyme mouthwash prevent halitosis-A randomized trial",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
    ]
   },
   {
@@ -23515,7 +23795,7 @@
    "link_type": "doi",
    "citation": "Kania-Dobrowolska, M. and Baraniak, J (2022) 'Dandelion (Taraxacum officinale L.) as a Source of Biologically Active Compounds Supporting the Therapy of Co-Existing Diseases in Metabolic Syndrome', 11(18). doi:10.3390/foods11182858",
    "abstract": "Nowadays, many people are struggling with obesity, type 2 diabetes, and atherosclerosis, which are called the scourge of the 21st century. These illnesses coexist in metabolic syndrome, which is not a separate disease entity because it includes several clinical conditions such as central (abdominal) obesity, elevated blood pressure, and disorders of carbohydrate and fat metabolism. Lifestyle is considered to have an impact on the development of metabolic syndrome. An unbalanced diet, the lack of sufficient physical activity, and genetic factors result in the development of type 2 diabetes and atherosclerosis, which significantly increase the risk of cardiovascular complications. The treatment of metabolic syndrome is aimed primarily at reducing the risk of the development of coexisting diseases, and the appropriate diet is the key factor in the treatment. Plant raw materials containing compounds that regulate lipid and carbohydrate metabolism in the human body are investigated. Dandelion ( Taraxacum officinale F.H. Wigg.) is a plant, the consumption of which affects the regulation of lipid and sugar metabolism. The growth of this plant is widely spread in Eurasia, both Americas, Africa, New Zealand, and Australia. The use and potential of this plant that is easily accessible in the world in contributing to the treatment of type 2 diabetes and atherosclerosis have been proved by many studies.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -23540,9 +23820,7 @@
     "Hepatoprotective (liver support)",
     "Prebiotic"
    ],
-   "conditions": [
-    "Detox / cleansing"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2621",
@@ -23793,9 +24071,7 @@
     "Theobroma cacao"
    ],
    "actions": [],
-   "conditions": [
-    "Cardiovascular / heart health"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-3622",
@@ -27982,9 +28258,7 @@
     "Trifolium pratense"
    ],
    "actions": [],
-   "conditions": [
-    "Menopause"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-0731",
@@ -30157,43 +30431,6 @@
    ],
    "conditions": [
     "Cancer (anticancer research)"
-   ]
-  },
-  {
-   "ref_id": "REF-0015",
-   "key": "awan2021medicinal",
-   "type": "article",
-   "title": "A Review on the Medicinal Potential of Trachyspermum ammi",
-   "authors": "Awan, S.J., Kanwal, M., Riaz, M.N. et al",
-   "journal": "",
-   "year": "2021",
-   "doi": "10.9734/jpri/2021/v33i41B32457",
-   "url": "",
-   "link": "https://doi.org/10.9734/jpri/2021/v33i41B32457",
-   "link_type": "doi",
-   "citation": "Awan, S.J., Kanwal, M., Riaz, M.N. et al (2021) 'A Review on the Medicinal Potential of Trachyspermum ammi', pp. 302--311. doi:10.9734/jpri/2021/v33i41B32457",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "A Review on the Medicinal Potential of Trachyspermum ammi",
-   "plants": [
-    "Ajowan",
-    "Ajwain"
-   ],
-   "scientific": [
-    "Trachyspermum ammi"
-   ],
-   "actions": [
-    "Digestive aid"
-   ],
-   "conditions": [
-    "Bloating",
-    "Indigestion",
-    "Menstrual cramps",
-    "Oral & throat health",
-    "Respiratory support"
    ]
   },
   {
@@ -33714,12 +33951,8 @@
    "scientific": [
     "Trifolium pratense"
    ],
-   "actions": [
-    "Vulnerary (wound healing)"
-   ],
-   "conditions": [
-    "Wounds"
-   ]
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3777",
@@ -35686,9 +35919,7 @@
    "scientific": [
     "Tanacetum vulgare"
    ],
-   "actions": [
-    "Antimicrobial"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -35784,12 +36015,9 @@
    "actions": [
     "Anti-inflammatory",
     "Antimicrobial",
-    "Antioxidant",
-    "Vulnerary (wound healing)"
+    "Antioxidant"
    ],
-   "conditions": [
-    "Wounds"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2292",
@@ -38239,9 +38467,7 @@
     "Anti-inflammatory",
     "Antioxidant"
    ],
-   "conditions": [
-    "Cardiovascular / heart health"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2714",
@@ -42375,7 +42601,7 @@
    "link_type": "search",
    "citation": "Shova, D.C., Shrestha, S., Sharma, S. and Dhakal, H (2020) 'GC-MS analysis, antibacterial, antioxidant study and brine shrimp lethality analysis of Trachyspermum ammi (L.) Sprague', 1(1), pp. 45--50.",
    "abstract": "",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -42387,12 +42613,8 @@
    "scientific": [
     "Trachyspermum ammi"
    ],
-   "actions": [
-    "Digestive aid"
-   ],
-   "conditions": [
-    "Oral & throat health"
-   ]
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0580",
@@ -42662,9 +42884,7 @@
     "Tanacetum parthenium"
    ],
    "actions": [],
-   "conditions": [
-    "Migraine"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2197",
@@ -47845,9 +48065,7 @@
    "actions": [
     "Anti-inflammatory"
    ],
-   "conditions": [
-    "Cardiovascular / heart health"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2062",
@@ -48914,7 +49132,8 @@
    ],
    "actions": [],
    "conditions": [
-    "Cardiovascular / heart health"
+    "Cardiovascular / heart health",
+    "High cholesterol"
    ]
   },
   {
@@ -54178,6 +54397,38 @@
    ]
   },
   {
+   "ref_id": "REF-3809",
+   "key": "luis2018redcloverlipids",
+   "type": "article",
+   "title": "Effects of red clover on perimenopausal and postmenopausal women's blood lipid profile: A meta-analysis",
+   "authors": "Luís, Â., Domingues, F. and Pereira, L.",
+   "journal": "Climacteric",
+   "year": "2018",
+   "doi": "10.1080/13697137.2018.1501673",
+   "url": "",
+   "link": "https://doi.org/10.1080/13697137.2018.1501673",
+   "link_type": "doi",
+   "citation": "Luís, Â., Domingues, F. and Pereira, L (2018) 'Effects of red clover on perimenopausal and postmenopausal women's blood lipid profile: A meta-analysis', Climacteric, 21(5), pp. 446--453. doi:10.1080/13697137.2018.1501673",
+   "abstract": "The study aimed to perform a systematic review with meta-analysis of randomized controlled trials (RCTs) to access the effects of red clover isoflavones on the blood lipid profile of both perimenopausal and postmenopausal women. PubMed, Web of Science, Scopus, SciELO, and Cochrane Library were searched for the terms 'red clover', 'Trifolium pratense', and 'randomized controlled trial' during November 2017. Summary measures were reported as weighted mean differences (WMD) with 95% confidence interval (CI). Fixed or random effects models were used for meta-analyses, according to heterogeneity. Risk of bias was measured with the Cochrane tool. Twelve RCTs (totalizing 1284 perimenopausal and postmenopausal women receiving red clover isoflavones for 4 weeks-18 months) resulted in a significant decrease in total cholesterol (WMD = -12.34 mg/dl; 95% CI: -18.21, -6.48), low-density lipoprotein cholesterol (WMD = -10.61 mg/dl; 95% CI: -15.51, -5.72), and triglycerides (WMD = -10.18 mg/dl; 95% CI: -16.23, -4.13) together with a significant increase in high-density lipoprotein cholesterol (WMD = 1.60 mg/dl; 95% CI: 0.17, 3.03). In conclusion, the results demonstrate that the ingestion of red clover may have a beneficial effect on the lipid profile of perimenopausal and postmenopausal women.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of red clover on perimenopausal and postmenopausal women's blood lipid profile: A meta-analysis",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": [
+    "High cholesterol"
+   ]
+  },
+  {
    "ref_id": "REF-1291",
    "key": "nematolahi2018rosemary",
    "type": "article",
@@ -54492,7 +54743,7 @@
    "link_type": "doi",
    "citation": "Sharifi-Rad, M., Roberts, T.H., Matthews, K.R., Bezerra, C.F., Morais-Braga, M.F.B., Coutinho, H.D.M., Sharopov, F., Salehi, B., Yousaf, Z., Sharifi-Rad, M., del Mar Contreras, M., Varoni, E.M., Verma, D.R., Iriti, M. and Sharifi-Rad, J (2018) 'Ethnobotany of the genus Taraxacum – Phytochemicals and antimicrobial activity', 32(11), pp. 2131--2145. doi:10.1002/ptr.6157",
    "abstract": "Plants belonging to the genus Taraxacum have been used in traditional healthcare to treat infectious diseases including food-borne infections. This review aims to summarize the available information on Taraxacum spp., focusing on plant cultivation, ethnomedicinal uses, bioactive phytochemicals, and antimicrobial properties. Phytochemicals present in Taraxacum spp. include sesquiterpene lactones, such as taraxacin, mongolicumin B, and taraxinic acid derivatives; triterpenoids, such as taraxasterol, taraxerol, and officinatrione; and phenolic derivatives, such as hydroxycinnamic acids (chlorogenic, chicoric, and caffeoyltartaric acids), coumarins (aesculin and cichoriin), lignans (mongolicumin A), and taraxacosides. Aqueous and organic extracts of different plant parts exhibit promising in vitro antimicrobial activity relevant for controlling fungi and Gram-positive and Gram-negative bacteria. Therefore, this genus represents a potential source of bioactive phytochemicals with broad-spectrum antimicrobial activity. However, so far, preclinical evidence for these activities has not been fully substantiated by clinical studies. Indeed, clinical evidence for the activity of Taraxacum bioactive compounds is still scant, at least for infectious diseases, and there is limited information on oral bioavailability, pharmacological activities, and safety of Taraxacum products in humans, though their traditional uses would suggest that these plants are safe.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -54512,15 +54763,8 @@
    "scientific": [
     "Taraxacum officinale"
    ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant"
-   ],
-   "conditions": [
-    "Infection (general)",
-    "Wounds"
-   ]
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3079",
@@ -55509,7 +55753,10 @@
    "actions": [
     "Antimicrobial"
    ],
-   "conditions": []
+   "conditions": [
+    "Infection (general)",
+    "Urinary tract infection (UTI)"
+   ]
   },
   {
    "ref_id": "REF-2215",
@@ -57962,7 +58209,7 @@
    "link_type": "doi",
    "citation": "Sakkas, H. and Papadopoulou, C (2017) 'Antimicrobial Activity of Basil, Oregano, and Thyme Essential Oils', Journal of Microbiology and Biotechnology, 27(3), pp. 429-438. doi:10.4014/jmb.1608.08024",
    "abstract": "For centuries, plants have been used for a wide variety of purposes, from treating infectious diseases to food preservation and perfume production. Presently, the increasing resistance of microorganisms to currently used antimicrobials in combination with the appearance of emerging diseases requires the urgent development of new, more effective drugs. Plants, due to the large biological and structural diversity of their components, constitute a unique and renewable source for the discovery of new antibacterial, antifungal, and antiparasitic compounds. In the present paper, the history, composition, and antimicrobial activities of the basil, oregano, and thyme essential oils are reviewed.",
-   "tier": "preclinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -59065,6 +59312,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3793",
+   "key": "ried2017cocoabpcochrane",
+   "type": "article",
+   "title": "Effect of cocoa on blood pressure",
+   "authors": "Ried, K., Fakler, P. and Stocks, N.P.",
+   "journal": "The Cochrane Database of Systematic Reviews",
+   "year": "2017",
+   "doi": "10.1002/14651858.CD008893.pub3",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD008893.pub3",
+   "link_type": "doi",
+   "citation": "Ried, K., Fakler, P. and Stocks, N.P (2017) 'Effect of cocoa on blood pressure', The Cochrane Database of Systematic Reviews, 4(4), pp. CD008893. doi:10.1002/14651858.CD008893.pub3",
+   "abstract": "BACKGROUND: High blood pressure is an important risk factor for cardiovascular disease, contributing to about 50% of cardiovascular events worldwide and 37% of cardiovascular-related deaths in Western populations. Epidemiological studies suggest that cocoa-rich products reduce the risk of cardiovascular disease. Flavanols found in cocoa have been shown to increase the formation of endothelial nitric oxide which promotes vasodilation and therefore blood pressure reduction. Here we update previous meta-analyses on the effect of cocoa on blood pressure. OBJECTIVES: To assess the effects on blood pressure of chocolate or cocoa products versus low-flavanol products or placebo in adults with or without hypertension when consumed for two weeks or longer. SEARCH METHODS: This is an updated version of the review initially published in 2012. In this updated version, we searched the following electronic databases from inception to November 2016: Cochrane Hypertension Group Specialised Register, CENTRAL, MEDLINE and Embase. We also searched international trial registries, and the reference lists of review articles and included trials. SELECTION CRITERIA: Randomised controlled trials (RCTs) investigating the effects of chocolate or cocoa products on systolic and diastolic blood pressure in adults for a minimum of two weeks duration. DATA COLLECTION AND ANALYSIS: Two review authors independently extracted data and assessed the risks of bias in each trial. We conducted random-effects meta-analyses on the included studies using Review Manager 5. We explored heterogeneity with subgroup analyses by baseline blood pressure, flavanol content of control group, blinding, age and duration. Sensitivity analyses explored the influence of unusual study design. MAIN RESULTS: Thirty-five trials (including 40 treatment comparisons) met the inclusion criteria. Of these, we added 17 trials (20 treatment comparisons) to the 18 trials (20 treatment comparisons) in the previous version of this updated review.Trials provided participants with 30 to 1218 mg of flavanols (mean = 670 mg) in 1.4 to 105 grams of cocoa products per day in the active intervention group. The control group received either a flavanol-free product (n = 26 treatment comparisons) or a low-flavanol-containing cocoa powder (range 6.4 to 88 mg flavanols (mean = 55 mg, 13 treatment comparisons; 259 mg, 1 trial).Meta-analyses of the 40 treatment comparisons involving 1804 mainly healthy participants revealed a small but statistically significant blood pressure-reducing effect of flavanol-rich cocoa products compared with control in trials of two to 18 weeks duration (mean nine weeks):Mean difference systolic blood pressure (SBP) (95% confidence interval (CI): -1.76 (-3.09 to -0.43) mmHg, P = 0.009, n = 40 treatment comparisons, 1804 participants;Mean difference diastolic blood pressure (DBP) (95% CI): -1.76 (-2.57 to -0.94) mmHg, P < 0.001, n = 39 treatment comparisons, 1772 participants.Baseline blood pressure may play a role in the effect of cocoa on blood pressure. While systolic blood pressure was reduced significantly by 4 mmHg in hypertensive people (n = 9 treatment comparisons, 401 participants), and tended to be lowered in prehypertensive people (n= 8 treatment comparisons, 340 participants), there was no significant difference in normotensive people (n = 23 treatment comparisons, 1063 participants); however, the test for subgroup differences was of borderline significance (P = 0.08; I2 = 60%), requiring further research to confirm the findings.Subgroup meta-analysis by blinding suggested a trend towards greater blood pressure reduction in unblinded trials compared to double-blinded trials, albeit statistically not significant. Further research is needed to confirm whether participant expectation may influence blood pressure results. Subgroup analysis by type of control (flavanol-free versus low-flavanol control) did not reveal a significant difference.Whether the age of participants plays a role in the effect of cocoa on blood pressure, with younger participants responding with greater blood pressure reduction, needs to be further investigated.Sensitivity analysis excluding trials with authors employed by trials sponsoring industry (33 trials, 1482 participants) revealed a small reduction in effect size, indicating some reporting bias.Due to the remaining heterogeneity, which we could not explain in terms of blinding, flavanol content of the control groups, age of participants, or study duration, we downgraded the quality of the evidence from high to moderate.Results of subgroup analyses should be interpreted with caution and need to be confirmed or refuted in trials using direct randomised comparisons.Generally, cocoa products were highly tolerable, with adverse effects including gastrointestinal complaints and nausea being reported by 1% of participants in the active cocoa intervention group and 0.4% of participants in the control groups (moderate-quality evidence). AUTHORS' CONCLUSIONS: This review provides moderate-quality evidence that flavanol-rich chocolate and cocoa products cause a small (2 mmHg) blood pressure-lowering effect in mainly healthy adults in the short term.These findings are limited by the heterogeneity between trials, which could not be explained by prespecified subgroup analyses, including blinding, flavanol content of the control groups, age of participants, or study duration. However, baseline blood pressure may play a role in the effect of cocoa on blood pressure; subgroup analysis of trials with (pre)hypertensive participants revealed a greater blood pressure-reducing effect of cocoa compared to normotensive participants with borderline significance.Long-term trials investigating the effect of cocoa on clinical outcomes are also needed to assess whether cocoa has an effect on cardiovascular events and to assess potential adverse effects associated with chronic ingestion of cocoa products.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of cocoa on blood pressure",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health",
+    "High blood pressure"
+   ]
+  },
+  {
    "ref_id": "REF-3556",
    "key": "rahimikian2017fennelmenopause",
    "type": "article",
@@ -59131,6 +59412,38 @@
     "Anxiety",
     "Low mood / depression",
     "Stress"
+   ]
+  },
+  {
+   "ref_id": "REF-3808",
+   "key": "myers2017promensilma",
+   "type": "article",
+   "title": "Effects of a standardised extract of Trifolium pratense (Promensil) at a dosage of 80mg in the treatment of menopausal hot flushes: A systematic review and meta-analysis",
+   "authors": "Myers, S.P. and Vigar, V.",
+   "journal": "Phytomedicine",
+   "year": "2017",
+   "doi": "10.1016/j.phymed.2016.12.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2016.12.003",
+   "link_type": "doi",
+   "citation": "Myers, S.P. and Vigar, V (2017) 'Effects of a standardised extract of Trifolium pratense (Promensil) at a dosage of 80mg in the treatment of menopausal hot flushes: A systematic review and meta-analysis', Phytomedicine, 24, pp. 141--147. doi:10.1016/j.phymed.2016.12.003",
+   "abstract": "OBJECTIVE: To critically assess the evidence for a specific standardised extract of Trifolium pratense isoflavones (Promensil) at a dosage of 80mg/day in the treatment of menopausal hot flushes. DATA SOURCES: Systematic literature searches were performed in Medline, Scopus, CINAHL Plus, Cochrane, AMED and InforRMIT and citations obtained from 1996 to March 2016. Reference lists were checked; corresponding authors contacted and the grey literature searched for additional publications. REVIEW METHODS: Studies were selected according to predefined inclusion and exclusion criteria. All randomised clinical trials of a specific standardised extract of Trifolium pratense isoflavones (Promensil) used as a mono-component at 80mg/day and measuring vasomotor symptoms were included. The data extraction and quality assessment were performed independently by one reviewer and validated by a second with any disagreements being settled by discussion. Weighted mean differences and 95% confidence intervals were calculated for continuous data using the fixed-effects model. RESULTS: Twenty potentially relevant papers were identified, with only five studies meeting the inclusion criteria. The meta-analysis demonstrated a statistical and clinically relevant reduction in hot flush frequency in the active treatment group compared to placebo. Weighted mean difference 3.63 hot flushes per day: [95% CI 2.70-4.56]; p˂0.00001). Due to a lack of homogeneity a priori defined sub-group analyses were performed demonstrating a substantive difference between cross-over and parallel-arm clinical trial designs. CONCLUSION: There is evidence for a statistical and clinically significant benefit for using a specific standardised extract of red clover isoflavones (Promensil) at 80mg/day for treating hot flushes in menopausal women across the 3 studies included in the meta-analysis. The preparation was safe over the short-term duration of the studies (3 months).",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of a standardised extract of Trifolium pratense (Promensil) at a dosage of 80mg in the treatment of menopausal hot flushes: A systematic review and meta-analysis",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes"
    ]
   },
   {
@@ -66451,7 +66764,9 @@
     "Trachyspermum ammi"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Pain (general)"
+   ]
   },
   {
    "ref_id": "REF-1113",
@@ -66481,9 +66796,7 @@
     "Trifolium pratense"
    ],
    "actions": [],
-   "conditions": [
-    "Cardiovascular / heart health"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2606",
@@ -68704,13 +69017,10 @@
    "scientific": [
     "Tanacetum parthenium"
    ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
+   "actions": [],
    "conditions": [
     "Headache",
-    "Migraine",
-    "Pain (general)"
+    "Migraine"
    ]
   },
   {
@@ -71570,7 +71880,7 @@
    "link_type": "doi",
    "citation": "Boskabady, M.H., Alitaneh, S. and Alavinezhad, A (2014) 'Carum copticum L.: A Herbal Medicine with Various Pharmacological Effects'. doi:10.1155/2014/569087",
    "abstract": "Carum copticum L. commonly known as \"Ajwain\" is cultivated in many regions of the world including Iran and India, states of Gujarat and Rajasthan. Traditionally, C. copticum has been used in the past for various therapeutic effects including bloating, fatigue, diarrhea, abdominal tumors, abdominal pain, respiratory distress, and loss of appetite. It has other health benefits such as antifungal, antioxidant, antibacterial, antiparasitic, and hypolipidemic effects. This plant contains different important components such as carbohydrates, glucosides, saponins and phenolic compounds (carvacrol), volatile oils (thymol), terpiene, paracymene and beta-pinene, protein, fat, fiber, and minerals including calcium, phosphorus, iron, and nicotinic acid (niacin). In the previous studies, several pharmacological effects were shown for C. copticum. Therefore, in this paper, the pharmacological effects of the plant were reviewed.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -71587,9 +71897,6 @@
    ],
    "conditions": [
     "Bloating",
-    "Indigestion",
-    "Menstrual cramps",
-    "Oral & throat health",
     "Respiratory support"
    ]
   },
@@ -72059,6 +72366,38 @@
    "conditions": [
     "Insomnia / sleeplessness",
     "Stress"
+   ]
+  },
+  {
+   "ref_id": "REF-3798",
+   "key": "salmalian2014thymedysmenorrhea",
+   "type": "article",
+   "title": "Comparative effect of thymus vulgaris and ibuprofen on primary dysmenorrhea: A triple-blind clinical study",
+   "authors": "Salmalian, H., Saghebi, R., Moghadamnia, A.A., Bijani, A., Faramarzi, M., Nasiri Amiri, F., Bakouei, F., Behmanesh, F. and Bekhradi, R.",
+   "journal": "Caspian Journal of Internal Medicine",
+   "year": "2014",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Comparative%20effect%20of%20thymus%20vulgaris%20and%20ibuprofen%20on%20primary%20dysmenorrhea%3A%20A%20triple-blind%20clinical%20study",
+   "link_type": "search",
+   "citation": "Salmalian, H., Saghebi, R., Moghadamnia, A.A., Bijani, A., Faramarzi, M., Nasiri Amiri, F., Bakouei, F., Behmanesh, F. and Bekhradi, R (2014) 'Comparative effect of thymus vulgaris and ibuprofen on primary dysmenorrhea: A triple-blind clinical study', Caspian Journal of Internal Medicine, 5(2), pp. 82--8.",
+   "abstract": "BACKGROUND: Dysmenorrhea is one of the most common medical problems in gynecology causing several problems in the personal and social life of women. This study was conducted to compare the effect of thymus vulgaris and ibuprofen on the treatment of primary dysmenorrhea Methods: This clinical study was conducted on 84 students of Babol University of Medical Sciences with primary dysmenorrhea. The students were randomly assigned to three groups receiving thymus vulgaris, ibuprofen and placebo. In all three groups, with the beginning of pain, 200 mg capsules and 25 drops of essential oil were given every 6 hours for two consecutive cycles. Pain intensity used the visual scale before and one hour after each dose for 48 hour after starting medication. The data were collected and analyzed. This study was registered in the Iranian Registry of Clinical Trial (www.irct.ir) with registration number ID: IRCT201101245683N1 RESULTS: The mean age of participants was 20.5±1.8 years. Both thymus vulgaris and ibuprofen were effective to reduce the pain severity of dysmenorrhea. Before treatment, the mean pain intensity in thymus vulgaris, ibuprofen and placebo groups were 6.57±2.02, 5.30±2.23 and 6.18±1.78, respectively and after treatment decreased to 1.21±1.06, 1.48±1.62 and 3.54±2.26, respectively. Reduction of pain severity was not statistically significant between the two medications, however it was significant for each drug compared with placebo (p<0.001). CONCLUSION: The results suggest that thymus vulgaris as well as ibuprofen can be effective in reducing the severity of pain and spasm in primary dysmenorrhea.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Comparative effect of thymus vulgaris and ibuprofen on primary dysmenorrhea: A triple-blind clinical study",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [],
+   "conditions": [
+    "Menstrual cramps"
    ]
   },
   {
@@ -77137,6 +77476,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3806",
+   "key": "lethaby2013phytoestrogencochrane2013",
+   "type": "article",
+   "title": "Phytoestrogens for menopausal vasomotor symptoms",
+   "authors": "Lethaby, A., Marjoribanks, J., Kronenberg, F., Roberts, H., Eden, J. and Brown, J.",
+   "journal": "The Cochrane Database of Systematic Reviews",
+   "year": "2013",
+   "doi": "10.1002/14651858.CD001395.pub4",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD001395.pub4",
+   "link_type": "doi",
+   "citation": "Lethaby, A., Marjoribanks, J., Kronenberg, F., Roberts, H., Eden, J. and Brown, J (2013) 'Phytoestrogens for menopausal vasomotor symptoms', The Cochrane Database of Systematic Reviews, 2013(12), pp. CD001395. doi:10.1002/14651858.CD001395.pub4",
+   "abstract": "BACKGROUND: Vasomotor symptoms, such as hot flushes and night sweats, are very common during the menopausal transition. Hormone therapy has traditionally been used as a highly effective treatment, but concerns about increased risk of some chronic diseases have markedly increased the interest of women in alternative treatments. Some of the most popular of these treatments are foods or supplements enriched with phytoestrogens-plant-derived chemicals that have estrogenic action. OBJECTIVES: To assess the efficacy, safety and acceptability of food products, extracts and dietary supplements containing high levels of phytoestrogens when compared with no treatment, placebo or hormone therapy for the amelioration of vasomotor menopausal symptoms (such as hot flushes and night sweats) in perimenopausal and postmenopausal women. SEARCH METHODS: Searches targeted the following electronic databases: the Cochrane Menstrual Disorders and Subfertility Group Specialised Register of randomised trials (29 July 2013), the Cochrane Register of Controlled Trials (CENTRAL; 29 July 2013), MEDLINE (inception to 29 July 2013), EMBASE (inception to 29 July 2013), AMED (1985 to 29 July 2013), PsycINFO (inception to 29 July 2013) and CINAHL (inception to 29 July 2013). Attempts were made to access grey literature by sending letters to pharmaceutical companies and performing searches of ongoing trial registers. Reference lists of included trials were also searched. SELECTION CRITERIA: Studies were included if they were randomised, included perimenopausal or postmenopausal participants with vasomotor symptoms (hot flushes or night sweats), lasted at least 12 weeks and provided interventions such as foods or supplements with high levels of phytoestrogens (not combined with other herbal treatments). Trials that included women who had breast cancer or a history of breast cancer were excluded. DATA COLLECTION AND ANALYSIS: Selection of trials, extraction of data and assessment of quality were undertaken by at least two review authors. Most trials were too dissimilar for their results to be combined in a meta-analysis, so these findings are provided in narrative 'Summary of results' tables. Studies were grouped into broad categories: dietary soy, soy extracts, red clover extracts, genistein extracts and other types of phytoestrogens. Five trials used Promensil, a red clover extract; results of these trials were combined in a meta-analysis, and summary effect measures were calculated. MAIN RESULTS: A total of 43 randomised controlled trials (4,364 participants) were included in this review. Very few trials provided data suitable for inclusion in a meta-analysis. Among the five trials that yielded data assessing the daily frequency of hot flushes suitable for pooling, no significant difference overall was noted in the incidence of hot flushes between participants taking Promensil (a red clover extract) and those given placebo (mean difference (MD) -0.93, 95% confidence interval (CI) -1.95 to 0.10, I(2) = 31%). No evidence indicated a difference in percentage reduction in hot flushes in two trials between Promensil and placebo (MD 20.15, 95% CI -12.08 to 52.38, I(2) = 82%). Four trials that were not combined in meta-analyses suggested that extracts with high (> 30 mg/d) levels of genistein consistently reduced the frequency of hot flushes. Individual results from the remaining trials were compared in broad subgroups such as dietary soy, soy extracts and other types of phytoestrogens that could not be combined. Some of these trials found that phytoestrogen treatments alleviated the frequency and severity of hot flushes and night sweats when compared with placebo, but many trials were small and were determined to be at high risk of bias. A strong placebo effect was noted in most trials, with a reduction in frequency ranging from 1% to 59% with placebo. No indication suggested that discrepant results were due to the amount of isoflavone in the active treatment arm, the severity of vasomotor symptoms or trial quality factors. Also, no evidence indicated that these treatments caused oestrogenic stimulation of the endometrium or the vagina or other adverse effects when used for up to two years. AUTHORS' CONCLUSIONS: No conclusive evidence shows that phytoestrogen supplements effectively reduce the frequency or severity of hot flushes and night sweats in perimenopausal or postmenopausal women, although benefits derived from concentrates of genistein should be further investigated.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Phytoestrogens for menopausal vasomotor symptoms",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3643",
    "key": "deng2013psoriasisplantextracts",
    "type": "article",
@@ -77342,9 +77711,7 @@
     "Anti-inflammatory",
     "Immunomodulator / immune support"
    ],
-   "conditions": [
-    "Immune support"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-3709",
@@ -79083,7 +79450,6 @@
     "Diaphoretic"
    ],
    "conditions": [
-    "Anxiety",
     "Cold & flu",
     "Cough",
     "Fever",
@@ -79532,6 +79898,39 @@
    "actions": [],
    "conditions": [
     "Blood sugar / diabetes support"
+   ]
+  },
+  {
+   "ref_id": "REF-3804",
+   "key": "eliza2012yunzhisurvival",
+   "type": "article",
+   "title": "Efficacy of Yun Zhi (Coriolus versicolor) on survival in cancer patients: systematic review and meta-analysis",
+   "authors": "Eliza, W.L., Fai, C.K. and Chung, L.P.",
+   "journal": "Recent Patents on Inflammation & Allergy Drug Discovery",
+   "year": "2012",
+   "doi": "10.2174/187221312798889310",
+   "url": "",
+   "link": "https://doi.org/10.2174/187221312798889310",
+   "link_type": "doi",
+   "citation": "Eliza, W.L., Fai, C.K. and Chung, L.P (2012) 'Efficacy of Yun Zhi (Coriolus versicolor) on survival in cancer patients: systematic review and meta-analysis', Recent Patents on Inflammation & Allergy Drug Discovery, 6(1), pp. 78--87. doi:10.2174/187221312798889310",
+   "abstract": "AIM: Patients with cancer frequently use herbs along with the conventional medical treatment, hoping to enhance recovery. Mushrooms have an established history of use in traditional oriental therapies. In Asian cultures, mushrooms are combined with herbal mixtures to treat cancer. This systematic review and meta-analysis draw from randomized, placebo-controlled, double-blind trials to assess the efficacy of Yun Zhi (YZ) for survival in cancer patients. MATERIAL & METHODS: Systematic review and meta-analysis technique were used to aggregate and analyze the efficacy of Yun Zhi on survival in cancer patients from 13 clinical trials using computerized database and manual search. RESULTS: The findings show that Yun Zhi results in a significant survival advantage compared with standard conventional anti-cancer treatment alone. Of patient randomized to Yun Zhi, there was a 9% absolute reduction in 5-year mortality, resulting in one additional patient alive for every 11 patients treated. In patients with breast cancer, gastric cancer, or colorectal cancer treated with chemotherapy, the effects of the combination of Yun Zhi preparation on the overall 5-year survival rate was more evident, but not in esophageal cancer and nasophayngeal carcinoma. However, subgroup analysis could not conclude which type of anti-cancer treatment may maximize the benefit from Yun Zhi. CONCLUSION: This meta-analysis has provided strong evidence that Yun Zhi would have survival benefit in cancer patients, particularly in carcinoma of breast, gastric and colorectal. Nevertheless, the findings highlight the need for further evidence from prospective studies of outcome to guide future potential modifications of treatment regimes. Recent patents on the use of mushrooms for the treatment of cancer are also summarized in this review.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy of Yun Zhi (Coriolus versicolor) on survival in cancer patients: systematic review and meta-analysis",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cancer (anticancer research)"
    ]
   },
   {
@@ -80919,7 +81318,7 @@
    "link_type": "doi",
    "citation": "Bairwa, R., Sodha, R.S. and Rajawat, B.S (2012) 'Trachyspermum ammi', 6(11), pp. 56--60. doi:10.4103/0973-7847.95871",
    "abstract": "Trachyspermum ammi commonly known as 'Ajwain' is distributed throughout India and is mostly cultivated in Gujarat and Rajasthan. The fruit possesses stimulant, antispasmodic and carminative properties and is used traditionally as an important remedial agent for flatulence, atonic dyspepsia, diarrhea, abdominal tumors, abdominal pains, piles, and bronchial problems, lack of appetite, galactogogue, asthma and amenorrhoea. Medicinally, it has been proven to possess various pharmacological activities like antifungal, antioxidant, antimicrobial, antinociceptive, cytotoxic, hypolipidemic, antihypertensive, antispasmodic, broncho-dilating actions, antilithiasis, diuretic, abortifacient, antitussive, nematicidal, anthelmintic and antifilarial. Further, studies reveal the presence of various phytochemical constituents mainly carbohydrates, glycosides, saponins, phenolic compounds, volatile oil (thymol, γ-terpinene, para-cymene, and α- and β-pinene), protein, fat, fiber and mineral matter containing calcium, phosphorous, iron and nicotinic acid. These studies reveal that T. ammi is a source of medicinally active compounds and have various pharmacological effects; hence, it is encouraging to find its new therapeutic uses.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -80937,8 +81336,6 @@
    "conditions": [
     "Bloating",
     "Indigestion",
-    "Menstrual cramps",
-    "Oral & throat health",
     "Respiratory support"
    ]
   },
@@ -81270,10 +81667,7 @@
     "Thymus serpyllum"
    ],
    "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Gastroprotective"
+    "Antimicrobial"
    ],
    "conditions": [
     "Infection (general)"
@@ -81813,9 +82207,7 @@
     "Theobroma cacao"
    ],
    "actions": [],
-   "conditions": [
-    "Cardiovascular / heart health"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1162",
@@ -81901,7 +82293,7 @@
    "link_type": "doi",
    "citation": "Katz, D.L., Doughty, K. and Ali, A (2011) 'Cocoa and chocolate in human health and disease', 15(10), pp. 2779--2811. doi:10.1089/ars.2010.3697",
    "abstract": "Cocoa contains more phenolic antioxidants than most foods. Flavonoids, including catechin, epicatechin, and procyanidins predominate in antioxidant activity. The tricyclic structure of the flavonoids determines antioxidant effects that scavenge reactive oxygen species, chelate Fe2+ and Cu+, inhibit enzymes, and upregulate antioxidant defenses. The epicatechin content of cocoa is primarily responsible for its favorable impact on vascular endothelium via its effect on both acute and chronic upregulation of nitric oxide production. Other cardiovascular effects are mediated through anti-inflammatory effects of cocoa polyphenols, and modulated through the activity of NF-κB. Antioxidant effects of cocoa may directly influence insulin resistance and, in turn, reduce risk for diabetes. Further, cocoa consumption may stimulate changes in redox-sensitive signaling pathways involved in gene expression and the immune response. Cocoa can protect nerves from injury and inflammation, protect the skin from oxidative damage from UV radiation in topical preparations, and have beneficial effects on satiety, cognitive function, and mood. As cocoa is predominantly consumed as energy-dense chocolate, potential detrimental effects of overconsumption exist, including increased risk of weight gain. Overall, research to date suggests that the benefits of moderate cocoa or dark chocolate consumption likely outweigh the risks.",
-   "tier": "clinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -82144,7 +82536,6 @@
     "Trametes versicolor"
    ],
    "actions": [
-    "Anti-inflammatory",
     "Anticancer (preclinical)",
     "Antidiabetic (blood-sugar lowering)",
     "Antimicrobial",
@@ -82373,7 +82764,7 @@
    "link_type": "doi",
    "citation": "Pareek, A., Suthar, M., Rathore, G.S. and Bansal, V (2011) 'Feverfew (Tanacetum parthenium L.): A systematic review', Pharmacognosy Reviews, 5(9), pp. 103-110. doi:10.4103/0973-7847.79105",
    "abstract": "Feverfew (Tanacetum parthenium L.) (Asteraceae) is a medicinal plant traditionally used for the treatment of fevers, migraine headaches, rheumatoid arthritis, stomach aches, toothaches, insect bites, infertility, and problems with menstruation and labor during childbirth. The feverfew herb has a long history of use in traditional and folk medicine, especially among Greek and early European herbalists. Feverfew has also been used for psoriasis, allergies, asthma, tinnitus, dizziness, nausea, and vomiting. The plant contains a large number of natural products, but the active principles probably include one or more of the sesquiterpene lactones known to be present, including parthenolide. Other potentially active constituents include flavonoid glycosides and pinenes. It has multiple pharmacologic properties, such as anticancer, anti-inflammatory, cardiotonic, antispasmodic, an emmenagogue, and as an enema for worms. In this review, we have explored the various dimensions of the feverfew plant and compiled its vast pharmacologic applications to comprehend and synthesize the subject of its potential image of multipurpose medicinal agent. The plant is widely cultivated to large regions of the world and its importance as a medicinal plant is growing substantially with increasing and stronger reports in support of its multifarious therapeutic uses.",
-   "tier": "review",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -82393,7 +82784,8 @@
    "conditions": [
     "Arthritis / joint pain",
     "Fever",
-    "Migraine"
+    "Migraine",
+    "Pain (general)"
    ]
   },
   {
@@ -84639,9 +85031,7 @@
    "scientific": [
     "Trifolium pratense"
    ],
-   "actions": [
-    "Antispasmodic"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -85894,7 +86284,8 @@
     "Anti-inflammatory"
    ],
    "conditions": [
-    "Inflammation (general)"
+    "Inflammation (general)",
+    "Skin irritation"
    ]
   },
   {
@@ -87228,10 +87619,14 @@
     "Black Cohosh",
     "Black snakeroot",
     "Cimicifuga",
-    "Rattleweed"
+    "Rattleweed",
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
    ],
    "scientific": [
-    "Actaea racemosa"
+    "Actaea racemosa",
+    "Trifolium pratense"
    ],
    "actions": [],
    "conditions": []
@@ -87369,7 +87764,7 @@
    "link_type": "doi",
    "citation": "Clare, B.A., Conroy, R.S. and Spelman, K (2009) 'The diuretic effect in human subjects of an extract of Taraxacum officinale folium over a single day', 15(8), pp. 929--934. doi:10.1089/acm.2008.0152",
    "abstract": "Background Taraxacum officinale (L.) Weber (Asteraceae) has been extensively employed as a diuretic in traditional folk medicine and in modern phytotherapy in Europe, Asia, and the Americas without prior clinical trial substantiation. Objectives In this pilot study, a high-quality fresh leaf hydroethanolic extract of the medicinal plant T. officinale (dandelion) was ingested by volunteers to investigate whether an increased urinary frequency and volume would result. Design Volume of urinary output and fluid intake were recorded by subjects. Baseline values for urinary frequency and excretion ratio (urination volume:fluid intake) were established 2 days prior to dandelion dosing (8 mL TID) and monitored throughout a 1-day dosing period and 24 hours postdosing. Results For the entire population (n = 17) there was a significant (p < 0.05) increase in the frequency of urination in the 5-hour period after the first dose. There was also a significant (p < 0.001) increase in the excretion ratio in the 5-hour period after the second dose of extract. The third dose failed to change any of the measured parameters. Conclusions Based on these first human data, T. officinale ethanolic extract shows promise as a diuretic in humans. Further studies are needed to establish the value of this herb for induction of diuresis in human subjects.",
-   "tier": "rct",
+   "tier": "clinical",
    "corpus": [
     "clinical"
    ],
@@ -87394,8 +87789,7 @@
    ],
    "conditions": [
     "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Urinary support"
    ]
   },
   {
@@ -89307,7 +89701,7 @@
    "link_type": "search",
    "citation": "Standish, L.J., Wenner, C.A., Sweet, E.S., Bridge, C., Nelson, A., Martzen, M., Novack, J. and Torkelson, C (2008) 'Trametes versicolor mushroom immune therapy in breast cancer', 6(3), pp. 122--128.",
    "abstract": "Data from multiple epidemiologic and clinical studies on immune effects of conventional cancer treatment and the clinical benefits of polysaccharide immune therapy suggest that immune function has a role in breast cancer prevention. Immune therapy utilizing the polysaccharide constituents of Trametes versicolor (Tv) as concurrent adjuvant cancer therapy may be warranted as part of a comprehensive cancer treatment and secondary prevention strategy.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -89322,11 +89716,7 @@
     "Trametes versicolor"
    ],
    "actions": [
-    "Anti-inflammatory",
     "Anticancer (preclinical)",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antiviral",
     "Immunomodulator / immune support"
    ],
    "conditions": [
@@ -89771,6 +90161,37 @@
     "Antioxidant"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3803",
+   "key": "boskabady2007ajwainasthma",
+   "type": "article",
+   "title": "Bronchodilatory effect of Carum copticum in airways of asthmatic patients",
+   "authors": "Boskabady, M.H., Alizadeh, M. and Jahanbin, B.",
+   "journal": "Therapie",
+   "year": "2007",
+   "doi": "10.2515/therapie:2007007",
+   "url": "",
+   "link": "https://doi.org/10.2515/therapie:2007007",
+   "link_type": "doi",
+   "citation": "Boskabady, M.H., Alizadeh, M. and Jahanbin, B (2007) 'Bronchodilatory effect of Carum copticum in airways of asthmatic patients', Therapie, 62(1), pp. 23--9. doi:10.2515/therapie:2007007",
+   "abstract": "BACKGROUND: Several therapeutic effects including anti-asthma and dyspnea have been described for the seeds of Carum copticum. In previous studies the relaxant and anticholinergic (functional antagonism) effects, histamine H(1) inhibitory and beta(2) stimulatory effects of Carum copticum have been demonstrated on guinea pig tracheal chains. In the present study, the bronchodilatory effect of boiled extract from Carum copticum in the airways of asthmatic patients was examined. MATERIALS AND METHODS: The bronchodilatory effects of 0.125 and 0.25 ml/kg of 10 g% boiled extract in comparison with 6 mg/kg theophylline and placebo were studied by measuring pulmonary function tests (PFTs) and specific airway conductance (sGaw). Pulmonary function tests were measured before administration and repeated 30, 60, 90, 120, 150 and 180 min after administration of the oral extract and theophylline. RESULTS: The results showed that the boiled extract of Carum copticum caused significant increases in all PFT values, in most time intervals, (p<0.05 to p<0.001). However, the increase in most PFT values due to the both doses of boiled extract were significantly lower than those of theophylline in most time intervals (p<0.05 to p<0.001). The onset of brochodilatory effect of extract was similar to that of theophylline beginning 30 min, its maximum effect on PFTs (23 to 32% increase) was seen in 90-120 min and the effect of extract decline after 150 min following administration similar to the effect of theophylline. In addition the placebo did not cause any significant increase in PFT values. CONCLUSION: In conclusion, the results of the present study showed that Carum copticum has a relatively bronchodilatory effect on asthmatic airways which was comparable with the effect of theophylline at concentrations used.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Bronchodilatory effect of Carum copticum in airways of asthmatic patients",
+   "plants": [
+    "Ajowan",
+    "Ajwain"
+   ],
+   "scientific": [
+    "Trachyspermum ammi"
+   ],
+   "actions": [],
+   "conditions": [
+    "Respiratory support"
+   ]
   },
   {
    "ref_id": "REF-1238",
@@ -90839,39 +91260,6 @@
     "Digestive aid"
    ],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-2345",
-   "key": "lethaby2007phytoestrogens",
-   "type": "article",
-   "title": "Phytoestrogens for vasomotor menopausal symptoms",
-   "authors": "Lethaby, A.E., Brown, J., Marjoribanks, J., Kronenberg, F., Roberts, H. and Eden, J.",
-   "journal": "Cochrane Database of Systematic Reviews",
-   "year": "2007",
-   "doi": "10.1002/14651858.CD001395.pub3",
-   "url": "",
-   "link": "https://doi.org/10.1002/14651858.CD001395.pub3",
-   "link_type": "doi",
-   "citation": "Lethaby, A.E., Brown, J., Marjoribanks, J., Kronenberg, F., Roberts, H. and Eden, J (2007) 'Phytoestrogens for vasomotor menopausal symptoms', Cochrane Database of Systematic Reviews, (4), pp. CD001395. doi:10.1002/14651858.CD001395.pub3",
-   "abstract": "Background Vasomotor symptoms, such as hot flushes and night sweats, are very common during the menopausal transition. Hormone replacement therapy has traditionally been used as a very effective treatment but concerns over increased risks of some chronic diseases have markedly increased the interest of women in alternatives. Some of the most popular of these are treatments based on foods or supplements enriched with phytoestrogens, plant-derived chemicals that have oestrogenic action. Objectives To assess the efficacy, safety and acceptability of foods and supplements based on high levels of phytoestrogens for reducing hot flushes and night sweats in postmenopausal women. Search strategy Searches were undertaken of the following electronic databases: the Cochrane Menstrual Disorders and Subfertility Group Specialised Register of randomised trials, Cochrane Register of Controlled Trials (CENTRAL) (March 2007), MEDLINE (1966 to March 2007), EMBASE (1980 to March 2007), AMED (1985 to March 2007), PsycINFO (1986 to March 2007) and CINAHL (1982 to March 2007). Attempts were made to access grey literature by letters to pharmaceutical companies and searches of ongoing trial registers. Reference lists of included trials were also searched. Selection criteria Studies were included if they were randomised, had peri- or postmenopausal participants with vasomotor symptoms, a duration of at least 12 weeks and where the intervention was a food or supplement with high levels of phytoestrogens (and not combined with other herbal treatments). Trials of women who had breast cancer or a history of breast cancer were excluded. Data collection and analysis Selection of trials, data extraction and quality assessment were undertaken by at least two authors. Most of the trials were too dissimilar to combine in meta-analysis and their results are provided in table format. Studies were grouped into broad categories: dietary soy, soy extracts, red clover extracts and other types of phytoestrogen. Five trials used Promensil, a red clover extract; these trials were combined in a meta-analysis and summary effect measures were calculated. Main results Thirty trials comparing phytoestrogens with control met the inclusion criteria. Very few trials had data suitable for combining in meta-analysis. Of the five trials with data suitable for pooling that assessed daily frequency of hot flushes, there was no significant difference overall in the frequency of hot flushes between Promensil (a red clover extract) and placebo (WMD=-0.6, 95% CI -1.8 to 0.6). There was no evidence of a difference in percentage reduction in hot flushes in two trials between Promensil and placebo (WMD=20.2, 95% CI -12.1 to 52.4). Individual results from the remaining trials were compared. Some of the trials found that phytoestrogen treatments alleviated the frequency and severity of hot flushes and night sweats when compared to placebo but many of the trials were of low quality and were underpowered. There was a strong placebo effect in most trials with a reduction in frequency ranging from 1% to 59% with placebo. There was no indication that the discrepant results were due to the amount of isoflavone in the active treatment arm, the severity of vasomotor symptoms or trial quality factors. There was also no evidence that the treatments caused oestrogenic stimulation of the endometrium (an adverse effect) when used for up to two years. Authors' conclusions There is no evidence of effectiveness in the alleviation of menopausal symptoms with the use of phytoestrogen treatments.",
-   "tier": "review",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Phytoestrogens for vasomotor menopausal symptoms",
-   "plants": [
-    "Red Clover",
-    "cow clover",
-    "meadow clover"
-   ],
-   "scientific": [
-    "Trifolium pratense"
-   ],
-   "actions": [],
-   "conditions": [
-    "Hot flashes",
-    "Menopause"
-   ]
   },
   {
    "ref_id": "REF-2670",
@@ -91969,7 +92357,6 @@
     "Lipid-lowering"
    ],
    "conditions": [
-    "High cholesterol",
     "Hot flashes",
     "Menopause"
    ]
@@ -93678,6 +94065,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3791",
+   "key": "diener2005feverfewmig99",
+   "type": "article",
+   "title": "Efficacy and safety of 6.25 mg t.i.d. feverfew CO2-extract (MIG-99) in migraine prevention--a randomized, double-blind, multicentre, placebo-controlled study",
+   "authors": "Diener, H.C., Pfaffenrath, V., Schnitker, J., Friede, M. and Henneicke-von Zepelin, H.H.",
+   "journal": "Cephalalgia",
+   "year": "2005",
+   "doi": "10.1111/j.1468-2982.2005.00950.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1468-2982.2005.00950.x",
+   "link_type": "doi",
+   "citation": "Diener, H.C., Pfaffenrath, V., Schnitker, J., Friede, M. and Henneicke-von Zepelin, H.H (2005) 'Efficacy and safety of 6.25 mg t.i.d. feverfew CO2-extract (MIG-99) in migraine prevention--a randomized, double-blind, multicentre, placebo-controlled study', Cephalalgia, 25(11), pp. 1031--41. doi:10.1111/j.1468-2982.2005.00950.x",
+   "abstract": "The efficacy and tolerability of a CO(2)-extract of feverfew (MIG-99, 6.25 mg t.i.d.) for migraine prevention were investigated in a randomized, double-blind, placebo-controlled, multicentre, parallel-group study. Patients (N = 170 intention-to-treat; MIG-99, N = 89; placebo, N = 81) suffering from migraine according to International Headache Society criteria were treated for 16 weeks after a 4-week baseline period. The primary endpoint was the average number of migraine attacks per 28 days during the treatment months 2 and 3 compared with baseline. Safety parameters included adverse events, laboratory parameters, vital signs and physical examination. The migraine frequency decreased from 4.76 by 1.9 attacks per month in the MIG-99 group and by 1.3 attacks in the placebo group (P = 0.0456). Logistic regression of responder rates showed an odds ratio of 3.4 in favour of MIG-99 (P = 0.0049). Adverse events possibly related to study medication were 9/107 (8.4%) with MIG-99 and 11/108 (10.2%) with placebo (P = 0.654). MIG-99 is effective and shows a favourable benefit-risk ratio.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and safety of 6.25 mg t.i.d. feverfew CO2-extract (MIG-99) in migraine prevention--a randomized, double-blind, multicentre, placebo-controlled study",
+   "plants": [
+    "Bachelor's buttons",
+    "Featherfew",
+    "Feverfew",
+    "Midsummer daisy"
+   ],
+   "scientific": [
+    "Tanacetum parthenium"
+   ],
+   "actions": [],
+   "conditions": [
+    "Migraine"
+   ]
+  },
+  {
    "ref_id": "REF-3407",
    "key": "osmers2005cohoshicr",
    "type": "article",
@@ -94052,7 +94472,7 @@
    "link_type": "doi",
    "citation": "Tassorelli, C. and Greco, R. and Morazzoni, P. and Riva, A. and Sandrini, G. and Nappi, G (2005) 'Parthenolide is the component of Tanacetum parthenium that inhibits nitroglycerin-induced Fos activation: studies in an animal model of migraine', Cephalalgia, 25(8), pp. 612--621. doi:10.1111/j.1468-2982.2005.00915.x",
    "abstract": "Tanacetum parthenium (TP) is a member of the Asteracee family long used empirically as a herbal remedy for migraine. So far, however, clinical trials have failed to prove consistently the effectiveness of TP extracts in preventing migraine attacks, probably as a consequence of the uncertainty as regards the active principle. In this study, the biological effects of different TP extracts and purified parthenolide were tested in an animal model of migraine based on the quantification of neuronal activation induced by nitroglycerin. The extract enriched in parthenolide significantly reduced nitroglycerin-induced Fos expression in the nucleus trigeminalis caudalis. Purified parthenolide inhibited nitroglycerin-induced neuronal activation in additional brain nuclei and, significantly, the activity of nuclear factor-kappaB. These findings strongly suggest that parthenolide is the component responsible for the biological activity of TP as regards its antimigraine effect and provide important information for future controlled clinical trials.",
-   "tier": "rct",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -95847,6 +96267,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3810",
+   "key": "howes2004redclovercognition",
+   "type": "article",
+   "title": "The effects of dietary supplementation with isoflavones from red clover on cognitive function in postmenopausal women",
+   "authors": "Howes, J.B., Bray, K., Lorenz, L., Smerdely, P. and Howes, L.G.",
+   "journal": "Climacteric",
+   "year": "2004",
+   "doi": "10.1080/13697130310001651490",
+   "url": "",
+   "link": "https://doi.org/10.1080/13697130310001651490",
+   "link_type": "doi",
+   "citation": "Howes, J.B., Bray, K., Lorenz, L., Smerdely, P. and Howes, L.G (2004) 'The effects of dietary supplementation with isoflavones from red clover on cognitive function in postmenopausal women', Climacteric, 7(1), pp. 70--7. doi:10.1080/13697130310001651490",
+   "abstract": "OBJECTIVE: To examine the effects of dietary isoflavone supplementation with an extract from red clover on cognitive function in postmenopausal women. DESIGN: Thirty postmenopausal women aged greater than 60 years received either two tablets of an extract of aglycone isoflavones from red clover (each containing formononetin 25 mg, biochanin 2.5 mg and less than 1 mg of daidzein and genistein) for 6 months in a randomized, controlled clinical trial. Cognitive function tests were performed at baseline and at the end of isoflavone or placebo therapy. RESULTS: Isoflavone supplementation was associated with an apparent improvement in block design (a test of visual-spatial intelligence) compared to placebo (isoflavone +12%, placebo -3%; p = 0.03), no improvement in verbal memory compared to an improvement on placebo (isoflavone +1%, placebo +29%; p = 0.023) and a deterioration in digit recall compared to placebo (isoflavone -6%, placebo +12%; p = 0.029). However, these findings were not statistically significant when corrections were made for potential chance findings due to multiple comparisons. CONCLUSION: Isoflavone supplementation does not appear to have major short-term effects on cognitive function in postmenopausal women. However, further clinical trials are required to determine whether small effects or long-term effects on cognitive function occur during isoflavone supplementation.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effects of dietary supplementation with isoflavones from red clover on cognitive function in postmenopausal women",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0013",
    "key": "atkinson2004phytoestrogen",
    "type": "article",
@@ -95873,15 +96323,8 @@
    "scientific": [
     "Trifolium pratense"
    ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Antispasmodic",
-    "Expectorant"
-   ],
-   "conditions": [
-    "Cardiovascular / heart health"
-   ]
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2519",
@@ -97566,6 +98009,36 @@
    ]
   },
   {
+   "ref_id": "REF-3805",
+   "key": "tice2003redcloverice",
+   "type": "article",
+   "title": "Phytoestrogen supplements for the treatment of hot flashes: the Isoflavone Clover Extract (ICE) Study: a randomized controlled trial",
+   "authors": "Tice, J.A., Ettinger, B., Ensrud, K., Wallace, R., Blackwell, T. and Cummings, S.R.",
+   "journal": "JAMA",
+   "year": "2003",
+   "doi": "10.1001/jama.290.2.207",
+   "url": "",
+   "link": "https://doi.org/10.1001/jama.290.2.207",
+   "link_type": "doi",
+   "citation": "Tice, J.A., Ettinger, B., Ensrud, K., Wallace, R., Blackwell, T. and Cummings, S.R (2003) 'Phytoestrogen supplements for the treatment of hot flashes: the Isoflavone Clover Extract (ICE) Study: a randomized controlled trial', JAMA, 290(2), pp. 207--14. doi:10.1001/jama.290.2.207",
+   "abstract": "CONTEXT: Clinical trials demonstrating increased risk of cardiovascular disease and breast cancer among women randomized to hormone replacement therapy have increased interest in other therapies for menopausal symptoms. Dietary supplements containing isoflavones are widely used as alternatives to hormonal therapies for hot flashes, but there is a paucity of data supporting their efficacy. OBJECTIVE: To compare the efficacy and safety of 2 dietary supplements derived from red clover with placebo in symptomatic menopausal women. DESIGN, SETTING, AND PARTICIPANTS: Randomized, double-blind, placebo-controlled trial of menopausal women, aged 45 to 60 years, who were experiencing at least 35 hot flashes per week. The study was conducted between November 1999 and March 2001 at 3 US medical centers and included women who were recently postmenopausal (mean [SD], 3.3 [4.5] years since menopause) experiencing 8.1 hot flashes per day. Women were excluded if they were vegetarians, consumed soy products more than once per week, or took medications affecting isoflavone absorption. INTERVENTION: After a 2-week placebo run-in, 252 participants were randomly assigned to Promensil (82 mg of total isoflavones per day), Rimostil (57 mg of total isoflavones per day), or an identical placebo, and followed-up for 12 weeks. MAIN OUTCOME MEASURE: The primary outcome measure was the change in frequency of hot flashes measured by participant daily diaries. Secondary outcome measures included changes in quality of life and adverse events. RESULTS: Of 252 participants, 246 (98%) completed the 12-week protocol. The reductions in mean daily hot flash count at 12 weeks were similar for the Promensil (5.1), Rimostil (5.4), and placebo (5.0) groups. In comparison with the placebo group, participants in the Promensil group (41%; 95% confidence interval [CI], 29%-51%; P =.03), but not in the Rimostil group (34%; 95% CI, 22%-46%; P =.74) reduced hot flashes more rapidly. Quality-of-life improvements and adverse events were comparable in the 3 groups. CONCLUSION: Although the study provides some evidence for a biological effect of Promensil, neither supplement had a clinically important effect on hot flashes or other symptoms of menopause.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Phytoestrogen supplements for the treatment of hot flashes: the Isoflavone Clover Extract (ICE) Study: a randomized controlled trial",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2053",
    "key": "dauer2003hamamelis",
    "type": "article",
@@ -98098,7 +98571,7 @@
    "link_type": "doi",
    "citation": "Chu, K.K., Ho, S.S. and Chow, A.H (2002) 'Coriolus versicolor: a medicinal mushroom with promising immunotherapeutic values', 42(9), pp. 976--984. doi:10.1177/0091270002042009004",
    "abstract": "Coriolus versicolor (CV) is a medicinal mushroom widely prescribed for the prophylaxis and treatment of cancer and infection in China. In recent years, it has been extensively demonstrated both preclinically and clinically that aqueous extracts obtained from CV display a wide array of biological activities, including stimulatory effects on different immune cells and inhibition of cancer growth. The growing popularity of aqueous CV extracts as an adjunct medical modality to conventional cancer therapies has generated substantial commercial interest in developing these extracts into consistent and efficacious oral proprietary products. While very limited information is available on the physical, chemical, and pharmacodynamic properties of the active principles present in these extracts, there has been sufficient scientific evidence to support the feasibility of developing at least some of these constituents into an evidence-based immunodulatory agent. In this article, the background, traditional usage, pharmacological activities, clinical effects, adverse reactions, active constituents, and regulatory aspects of CV are reviewed. Presented also in this review are the current uses and administration, potential drug interactions, and contraindication of aqueous extracts prepared from CV.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -98121,7 +98594,6 @@
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Cold & flu",
     "Immune support",
     "Infection (general)"
    ]
@@ -99532,9 +100004,7 @@
     "Tanacetum parthenium"
    ],
    "actions": [],
-   "conditions": [
-    "Migraine"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-3489",
@@ -101049,39 +101519,6 @@
    ],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-1573",
-   "key": "pittler2000feverfew",
-   "type": "article",
-   "title": "Feverfew for preventing migraine",
-   "authors": "Pittler, M.H., Vogler, B.K. and Ernst, E.",
-   "journal": "Cochrane Database of Systematic Reviews",
-   "year": "2000",
-   "doi": "10.1002/14651858.CD002286",
-   "url": "",
-   "link": "https://doi.org/10.1002/14651858.CD002286",
-   "link_type": "doi",
-   "citation": "Pittler, M.H., Vogler, B.K. and Ernst, E (2000) 'Feverfew for preventing migraine', Cochrane Database of Systematic Reviews, (3), pp. CD002286. doi:10.1002/14651858.CD002286",
-   "abstract": "Background Feverfew (Tanacetum parthenium L.) is a popular herbal remedy for migraine. Objectives To systematically review the evidence for or against the efficacy of feverfew versus placebo for the prevention of migraine. Search strategy Electronic literature searches were performed using the databases CISCOM (Research Council for Complementary Medicine, London, UK), MEDLINE, EMBASE, Biosis and the Cochrane Library (each from its inception to April 1998). Manufacturers were contacted and the bibliographies of identified articles checked for further trials. Selection criteria Randomised, placebo-controlled, double-blind trials assessing the efficacy of feverfew for preventing migraine were included. No restrictions regarding the language of publication were imposed. Data collection and analysis Data on patients, interventions, methods, outcomes and results were extracted in a pre-defined, standardised manner. Methodological quality was evaluated using the scoring system developed by Jadad and colleagues. Both data extraction and the assessment of methodological quality were performed independently by two reviewers. Main results Four trials met the inclusion criteria. The majority of these trials suggested beneficial effects of feverfew compared with placebo. However, the trial with the highest methodological quality, which was also among the largest, found no significant difference between feverfew and placebo. Reviewer's conclusions The efficacy of feverfew for the prevention of migraine has not been established beyond reasonable doubt.",
-   "tier": "review",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Feverfew for preventing migraine",
-   "plants": [
-    "Bachelor's buttons",
-    "Featherfew",
-    "Feverfew",
-    "Midsummer daisy"
-   ],
-   "scientific": [
-    "Tanacetum parthenium"
-   ],
-   "actions": [],
-   "conditions": [
-    "Migraine"
-   ]
   },
   {
    "ref_id": "REF-2184",
@@ -102779,15 +103216,9 @@
     "Expectorant"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Bronchitis",
-    "Cardiovascular / heart health",
     "Cough",
-    "Inflammation (general)",
-    "Menstrual cramps",
-    "Muscle spasm",
-    "Respiratory support",
-    "Skin irritation"
+    "Respiratory support"
    ]
   },
   {
@@ -103439,9 +103870,7 @@
    "scientific": [
     "Taraxacum officinale"
    ],
-   "actions": [
-    "Diuretic"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -103899,39 +104328,34 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0167",
-   "key": "minifie1989chocolate",
-   "type": "book",
-   "title": "Chocolate, Cocoa, and Confectionery: Science and Technology",
-   "authors": "Minifie, B.W",
-   "journal": "",
+   "ref_id": "REF-3792",
+   "key": "pattrick1989feverfewra",
+   "type": "article",
+   "title": "Feverfew in rheumatoid arthritis: a double blind, placebo controlled study",
+   "authors": "Pattrick, M., Heptinstall, S. and Doherty, M.",
+   "journal": "Annals of the Rheumatic Diseases",
    "year": "1989",
-   "doi": "",
+   "doi": "10.1136/ard.48.7.547",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Chocolate%2C%20Cocoa%2C%20and%20Confectionery%3A%20Science%20and%20Technology",
-   "link_type": "search",
-   "citation": "Minifie, B.W (1989) 'Chocolate, Cocoa, and Confectionery: Science and Technology'.",
-   "abstract": "",
-   "tier": "traditional",
+   "link": "https://doi.org/10.1136/ard.48.7.547",
+   "link_type": "doi",
+   "citation": "Pattrick, M., Heptinstall, S. and Doherty, M (1989) 'Feverfew in rheumatoid arthritis: a double blind, placebo controlled study', Annals of the Rheumatic Diseases, 48(7), pp. 547--9. doi:10.1136/ard.48.7.547",
+   "abstract": "Feverfew, reputed by folklore to be effective in arthritis, has in vitro properties that could be beneficial in the control of inflammatory disease. Forty one female patients with symptomatic rheumatoid arthritis received either dried chopped feverfew (70-86 mg) or placebo capsules once daily for six weeks. Allocation was random and not known by patient or observer. Variables assessed included stiffness, pain (visual analogue scale), grip strength, articular index, full blood count, erythrocyte sedimentation rate, urea, creatinine, C reactive protein, complement breakdown products (C3dg), rheumatoid factor titre, immunoglobulins (IgG, IgA, IgM), functional capacity, and patient and observer global opinions. One patient (placebo) withdrew after three days and was not included in the analysis. Treatment and placebo groups (20 patients each) were well matched at entry. No important differences between the clinical or laboratory variables of the groups were observed during the six week period. This study therefore shows no apparent benefit from oral feverfew in rheumatoid arthritis.",
+   "tier": "rct",
    "corpus": [
     "clinical"
    ],
-   "display": "Chocolate, Cocoa, and Confectionery: Science and Technology",
+   "display": "Feverfew in rheumatoid arthritis: a double blind, placebo controlled study",
    "plants": [
-    "Cacao",
-    "Chocolate tree",
-    "Cocoa",
-    "Cocoa bean"
+    "Bachelor's buttons",
+    "Featherfew",
+    "Feverfew",
+    "Midsummer daisy"
    ],
    "scientific": [
-    "Theobroma cacao"
+    "Tanacetum parthenium"
    ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Digestive aid",
-    "Neuroprotective / cognition support"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -104579,42 +105003,6 @@
     "Galium album"
    ],
    "actions": [],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-0139",
-   "key": "kivilaan1981beal",
-   "type": "article",
-   "title": "The 1879 Beal seed viability experiment",
-   "authors": "Kivilaan, A. and Bandurski, R.S",
-   "journal": "",
-   "year": "1981",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=The%201879%20Beal%20seed%20viability%20experiment",
-   "link_type": "search",
-   "citation": "Kivilaan, A. and Bandurski, R.S (1981) 'The 1879 Beal seed viability experiment', 68(9), pp. 1290--1292.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "The 1879 Beal seed viability experiment",
-   "plants": [
-    "Tansy",
-    "bitter buttons",
-    "common tansy"
-   ],
-   "scientific": [
-    "Tanacetum vulgare"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antispasmodic",
-    "Digestive aid"
-   ],
    "conditions": []
   },
   {
@@ -105621,6 +106009,42 @@
    ]
   },
   {
+   "ref_id": "REF-3816",
+   "key": "grieve1931redclover",
+   "type": "article",
+   "title": "Clover, Red (Trifolium pratense) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/c/clovrd75.html",
+   "link": "https://www.botanical.com/botanical/mgmh/c/clovrd75.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Clover, Red (Trifolium pratense) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/c/clovrd75.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Clover, Red (Trifolium pratense) - A Modern Herbal",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
+   "conditions": [
+    "Bronchitis",
+    "Cough",
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-3788",
    "key": "grieve1931cloves",
    "type": "article",
@@ -105657,6 +106081,55 @@
     "Indigestion",
     "Oral & throat health",
     "Pain (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-3812",
+   "key": "grieve1931dandelion",
+   "type": "article",
+   "title": "Dandelion (Taraxacum officinale) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/d/dandel08.html",
+   "link": "https://www.botanical.com/botanical/mgmh/d/dandel08.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Dandelion (Taraxacum officinale) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/d/dandel08.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Dandelion (Taraxacum officinale) - A Modern Herbal",
+   "plants": [
+    "Blowball",
+    "Common dandelion",
+    "Dandelion",
+    "Irish daisy",
+    "Lion's tooth",
+    "Monk's head",
+    "Pissenlit",
+    "Priest's crown",
+    "Puffball",
+    "Wet-the-bed"
+   ],
+   "scientific": [
+    "Taraxacum officinale"
+   ],
+   "actions": [
+    "Digestive aid",
+    "Diuretic",
+    "Laxative"
+   ],
+   "conditions": [
+    "Constipation",
+    "Indigestion",
+    "Liver support",
+    "Loss of appetite",
+    "Skin irritation",
+    "Swelling / fluid retention",
+    "Urinary support"
    ]
   },
   {
@@ -105788,6 +106261,39 @@
    "scientific": [],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3815",
+   "key": "grieve1931lime",
+   "type": "article",
+   "title": "Lime Tree (Tilia europaea, syn. T. cordata) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/l/limtre28.html",
+   "link": "https://www.botanical.com/botanical/mgmh/l/limtre28.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Lime Tree (Tilia europaea, syn. T. cordata) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/l/limtre28.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Lime Tree (Tilia europaea, syn. T. cordata) - A Modern Herbal",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
+   "actions": [],
+   "conditions": [
+    "Nervous tension"
+   ]
   },
   {
    "ref_id": "REF-3210",
@@ -105936,6 +106442,113 @@
     "Infection (general)",
     "Skin irritation",
     "Swelling / fluid retention"
+   ]
+  },
+  {
+   "ref_id": "REF-3811",
+   "key": "grieve1931tansy",
+   "type": "article",
+   "title": "Tansy (Tanacetum vulgare) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/t/tansy-05.html",
+   "link": "https://www.botanical.com/botanical/mgmh/t/tansy-05.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Tansy (Tanacetum vulgare) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/t/tansy-05.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Tansy (Tanacetum vulgare) - A Modern Herbal",
+   "plants": [
+    "Tansy",
+    "bitter buttons",
+    "common tansy"
+   ],
+   "scientific": [
+    "Tanacetum vulgare"
+   ],
+   "actions": [
+    "Antispasmodic",
+    "Digestive aid"
+   ],
+   "conditions": [
+    "Arthritis / joint pain",
+    "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-3813",
+   "key": "grieve1931thyme",
+   "type": "article",
+   "title": "Thyme, Garden (Thymus vulgaris) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/t/thygar16.html",
+   "link": "https://www.botanical.com/botanical/mgmh/t/thygar16.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Thyme, Garden (Thymus vulgaris) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/t/thygar16.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Thyme, Garden (Thymus vulgaris) - A Modern Herbal",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antispasmodic"
+   ],
+   "conditions": [
+    "Bronchitis",
+    "Cold & flu",
+    "Cough",
+    "Respiratory support"
+   ]
+  },
+  {
+   "ref_id": "REF-3814",
+   "key": "grieve1931wildthyme",
+   "type": "article",
+   "title": "Thyme, Wild (Thymus serpyllum) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/t/thywil17.html",
+   "link": "https://www.botanical.com/botanical/mgmh/t/thywil17.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Thyme, Wild (Thymus serpyllum) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/t/thywil17.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Thyme, Wild (Thymus serpyllum) - A Modern Herbal",
+   "plants": [
+    "Breckland Thyme",
+    "Wild thyme",
+    "creeping thyme",
+    "elfin thyme"
+   ],
+   "scientific": [
+    "Thymus serpyllum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Indigestion"
    ]
   },
   {
@@ -108175,10 +108788,14 @@
     "Laxative"
    ],
    "conditions": [
-    "Bloating",
+    "Arthritis / joint pain",
     "Constipation",
     "Indigestion",
-    "Loss of appetite"
+    "Liver support",
+    "Loss of appetite",
+    "Skin irritation",
+    "Swelling / fluid retention",
+    "Urinary support"
    ]
   },
   {

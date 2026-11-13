@@ -147,38 +147,37 @@ actions:
 indications:
 - condition: anxiety
   note: inferred from anxiolytic action
-  reference_ids:
-  - REF-0478
+  reference_ids: []
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Linden flower extracts killed pancreatic cancer cells in the lab (preclinical)
   reference_ids:
   - REF-1314
   status: needs-review
 - condition: cold
-  note: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
+  note: Traditional use for the symptoms of the common cold (EU herbal monograph)
   reference_ids:
   - REF-0478
   status: verified
 - condition: cough
-  note: Demulcent for cough and catarrh (soothing mucilage)
+  note: Traditional use for the symptoms of the common cold (EU herbal monograph)
   reference_ids:
   - REF-0478
   status: verified
 - condition: fever
-  note: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
+  note: Traditional use for the symptoms of the common cold (EU herbal monograph)
   reference_ids:
   - REF-0478
   status: verified
 - condition: nervous-tension
-  note: inferred from anxiolytic action
+  note: Traditional use for mild mental stress (EU herbal monograph) and for hysteria and palpitations
+    (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0478
+  - REF-3815
   status: needs-review
 - condition: stress
-  note: Relief of mild mental stress and to aid sleep (gentle calming); flavonoid fractions of Tilia (notably
-    tiliroside) show anxiolytic activity in animal models via the serotonergic and GABA/benzodiazepine
-    systems (mechanistic evidence from the related species T. americana)
+  note: Traditional use for relief of mild symptoms of mental stress (EU herbal monograph)
   reference_ids:
   - REF-0478
   status: verified
@@ -193,6 +192,12 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0478
+  status: verified
+- note: Tea made from old, stale lime flowers may cause narcotic intoxication; use fresh-dried flowers
+    (Grieve, A Modern Herbal).
+  severity: info
+  reference_ids:
+  - REF-3815
   status: verified
 references:
 - REF-1313
@@ -225,4 +230,9 @@ internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monogr
   policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower (provisional: PFAF
-  REF-3350, gathered only when freshly opened - narcotic as it ages). Single lineage. Binomial confirmed.'
+  REF-3350, gathered only when freshly opened - narcotic as it ages). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. EU monograph REF-0478
+  covers common-cold symptoms and mild mental stress: moved to mechanistic for anxiety; the stress
+  note no longer cites T. americana animal data. Grieve REF-3815 added to nervous-tension, and its
+  warning about stale flowers added as a safety note. Gap: the only linden RCT is a
+  four-ingredient sleep combination.'

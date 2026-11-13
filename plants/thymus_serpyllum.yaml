@@ -110,7 +110,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0133
   - REF-1094
   - REF-1099
   status: verified
@@ -128,7 +127,6 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0133
   - REF-1094
   - REF-1095
   - REF-1096
@@ -136,23 +134,20 @@ actions:
   - REF-1099
   status: verified
 - action: gastroprotective
-  reference_ids:
-  - REF-0133
-  status: verified
+  reference_ids: []
+  status: needs-review
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0133
 - condition: cancer
-  note: inferred from anticancer action
+  note: Wild thyme extract slowed breast cancer cell growth in the lab (preclinical)
   reference_ids:
   - REF-1102
   status: needs-review
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Wild thyme was active against mouth bacteria in the lab (preclinical)
   reference_ids:
   - REF-0133
   status: needs-review
@@ -162,14 +157,10 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0133
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0133
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
@@ -177,6 +168,14 @@ indications:
   mechanistic_exclude_ids:
   - REF-0133
   - REF-1098
+- condition: indigestion
+  note: A wild thyme extract reduced digestive discomfort and improved quality of life vs placebo in a
+    randomized trial in adults with persistent digestive complaints; traditional remedy for weak digestion
+    and flatulence (Grieve, A Modern Herbal)
+  reference_ids:
+  - REF-3796
+  - REF-3814
+  status: verified
 contraindications:
 - note: Generally safe at culinary doses. Essential oil is highly concentrated and must be diluted before
     topical use; undiluted application can cause skin sensitisation. Not recommended internally during
@@ -246,4 +245,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   serpyllum (wild thyme). A binomial search of the WHO volumes also produced a false positive here, matching
   Folium Melissae on genus letters alone. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for flower + leaf (both provisional: PFAF REF-3349, gathered just before the flowers
-  open / as it comes into flower). Single lineage. Binomial confirmed.'
+  open / as it comes into flower). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. Oral-pathogen study
+  REF-0133 (by title) removed from the anti-inflammatory, antioxidant and gastroprotective
+  actions. New pair (owner rule): indigestion (2026 multicentre placebo RCT REF-3796) plus Grieve
+  REF-3814. REF-1094 retagged systematic-review (PubMed type).'

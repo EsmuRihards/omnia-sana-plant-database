@@ -111,64 +111,66 @@ actions:
   note: Anti-inflammatory - parthenolide inhibits NF-kB and nitroglycerin-induced neuronal (Fos) activation,
     the proposed basis of its antimigraine action
   reference_ids:
-  - REF-0450
   - REF-0552
   - REF-1574
   - REF-1578
   status: verified
 indications:
 - condition: arthritis
-  note: Traditional use for fever and for joint pain / arthritis
+  note: Traditionally used for rheumatoid arthritis (review); a placebo-controlled trial in rheumatoid
+    arthritis found no benefit
   reference_ids:
   - REF-1574
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0450
   - REF-0552
+  null_result_ids:
+  - REF-3792
 - condition: fever
-  note: Traditional use for fever and for joint pain / arthritis
+  note: Traditional use for fevers (review)
   reference_ids:
   - REF-1574
   status: needs-review
 - condition: headache
-  note: Headache prevention and relief
+  note: Feverfew modestly reduced migraine headaches in a Cochrane review (low-quality evidence)
   reference_ids:
   - REF-0450
   - REF-1572
   status: verified
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: A parthenolide-depleted feverfew extract had anti-inflammatory activity in the lab (preclinical)
   reference_ids:
   - REF-1578
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0450
   - REF-0552
 - condition: migraine
-  note: Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised preparations,
-    though mixed); parthenolide is identified as the component responsible for the antimigraine effect
-    in animal models
+  note: Feverfew modestly reduced migraine frequency in the 2015 Cochrane review (low-quality evidence)
+    and in a randomized trial of a CO2 extract (MIG-99); a smaller dose-finding trial and a 2020 systematic
+    review found mixed results
   reference_ids:
   - REF-0450
   - REF-0552
   - REF-1572
-  - REF-1573
   - REF-1574
-  - REF-1575
-  - REF-1576
   - REF-1581
+  - REF-3791
   status: verified
+  null_result_ids:
+  - REF-1576
+  - REF-1575
 - condition: pain
-  note: Traditional use for fever and for joint pain / arthritis
+  note: Traditionally used for toothache and stomach ache (review)
   reference_ids:
-  - REF-0450
+  - REF-1574
   status: needs-review
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: A parthenolide-depleted feverfew extract reduced chemically induced skin redness in a clinical
+    model and inflammation in the lab
+  reference_ids:
+  - REF-1578
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0450
   - REF-0552
 contraindications:
 - note: As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive
@@ -186,7 +188,6 @@ contraindications:
   status: verified
 references:
 - REF-1572
-- REF-1573
 - REF-1574
 - REF-1575
 - REF-1576
@@ -239,4 +240,11 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   (provisional: PFAF REF-3347, gathered as the plant comes into flower). Single lineage. Binomial
   confirmed.
   | 2026-11-10: symptom-source audit batch 3 - REF-1577 purged: feverfew + white willow
-  combination (Mig-RL), not feverfew alone.'
+  combination (Mig-RL), not feverfew alone.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit (2nd pass + deep). 2000
+  Cochrane REF-1573 purged and deleted (superseded by the 2015 update REF-0450). MIG-99
+  dose-finding RCT REF-1576 (no overall effect) and the 2020 herbal-migraine SR REF-1575 ("mixed")
+  moved to no-effect; the positive 2005 MIG-99 RCT REF-3791 added. Pattrick 1989 RA RCT REF-3792
+  recorded as no-effect. Cochrane REF-0450 removed from pain (never names it) and the
+  anti-inflammatory action; review REF-1574 (retagged narrative-review) names toothache/stomach
+  ache. REF-0552 retagged preclinical (rat migraine model).'

@@ -119,7 +119,6 @@ actions:
   - REF-2923
   - REF-2890
   - REF-2895
-  - REF-0013
   - REF-0036
   - REF-0112
   - REF-1107
@@ -131,7 +130,6 @@ actions:
   - REF-2889
   - REF-2890
   - REF-2895
-  - REF-0013
   - REF-0036
   - REF-0112
   - REF-1107
@@ -140,14 +138,12 @@ actions:
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
-  - REF-0013
   - REF-0036
   - REF-0112
-  - REF-1111
+  - REF-3816
   status: verified
 - action: expectorant
   reference_ids:
-  - REF-0013
   - REF-0036
   - REF-0112
   status: verified
@@ -187,119 +183,110 @@ actions:
   - REF-2900
   status: verified
 - action: vulnerary
-  reference_ids:
-  - REF-2934
-  - REF-2890
-  status: verified
+  reference_ids: []
+  status: needs-review
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Biochanin A, a red clover isoflavone, eased arthritis in mice (preclinical)
   reference_ids:
   - REF-2929
-  - REF-0036
-  - REF-0112
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0013
   - REF-1107
   - REF-2895
   - REF-2928
+  - REF-0036
+  - REF-0112
 - condition: bronchitis
-  note: inferred from expectorant action
+  note: Traditional remedy for bronchial and whooping cough (Grieve, A Modern Herbal; British Herbal Pharmacopoeia)
   reference_ids:
   - REF-0036
   - REF-0112
+  - REF-3816
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0013
 - condition: cardiovascular-support
   reference_ids:
-  - REF-2928
   - REF-2889
-  - REF-0013
-  - REF-0036
-  - REF-0112
   - REF-1105
-  - REF-1113
   - REF-2346
   status: verified
+  note: Red clover isoflavones improved blood lipids in menopausal women (meta-analyses); its compounds
+    protected the heart in animal studies (preclinical)
 - condition: cough
-  note: inferred from expectorant action
+  note: Traditional remedy for bronchial and whooping cough (Grieve, A Modern Herbal; British Herbal Pharmacopoeia)
   reference_ids:
   - REF-0036
   - REF-0112
+  - REF-3816
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0013
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Red clover anthocyanins reduced inflammation in immune cells in the lab (preclinical)
   reference_ids:
   - REF-2923
-  - REF-0036
-  - REF-0112
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0013
-- condition: menstrual-cramps
-  reference_ids:
   - REF-0036
   - REF-0112
-  status: verified
-  mechanistic_exclude_ids:
-  - REF-0013
-  - REF-1111
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0036
-  - REF-0112
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0013
-  - REF-1111
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Traditional remedy for bronchial and whooping cough (Grieve, A Modern Herbal; British Herbal Pharmacopoeia)
   reference_ids:
   - REF-0036
   - REF-0112
+  - REF-3816
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0013
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0036
-  - REF-0112
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0013
   - REF-1107
   - REF-2895
   - REF-2928
   - REF-2929
+  - REF-0036
+  - REF-0112
 - condition: menopause
   reference_ids:
   - REF-1104
   - REF-2344
-  - REF-2345
   - REF-1108
-  - REF-2347
+  - REF-3807
   status: verified
+  null_result_ids:
+  - REF-3406
+  - REF-3805
+  - REF-3806
+  note: Red clover isoflavones modestly reduced hot flashes and some menopausal symptoms in meta-analyses,
+    but the 2013 Cochrane review found no conclusive evidence for phytoestrogens and two large US trials
+    found no clinically important benefit
 - condition: hot-flashes
   reference_ids:
   - REF-1104
-  - REF-2344
-  - REF-2345
   - REF-1108
+  - REF-3807
+  - REF-3808
   status: verified
+  null_result_ids:
+  - REF-3406
+  - REF-3805
+  - REF-3806
+  note: Red clover isoflavones modestly reduced hot flashes vs placebo in meta-analyses (a 2026 GRADE
+    review; Promensil 80 mg), but the 2013 Cochrane review found no conclusive evidence for phytoestrogens
+    and two large US trials (ICE 2003; Geller 2009) found no clinically important benefit
 - condition: high-cholesterol
   reference_ids:
   - REF-2344
   - REF-2346
-  - REF-1108
+  - REF-3809
+  - REF-1105
   status: verified
+  mechanistic_exclude_ids:
+  - REF-1108
+  note: Red clover isoflavones lowered total and LDL cholesterol and triglycerides in perimenopausal and
+    postmenopausal women in meta-analyses of trials
 - condition: cancer
-  note: inferred from anticancer action
+  note: Red clover extract slowed breast and other cancer cells in lab and animal studies (preclinical);
+    its safety in breast or womb cancer is not established
   reference_ids:
   - REF-2932
   - REF-2931
@@ -315,23 +302,19 @@ indications:
   - REF-2933
   - REF-2897
   - REF-2898
-  status: verified
+  status: needs-review
+  note: Red clover polysaccharides and extracts lowered blood sugar in lab and animal studies (preclinical)
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Red clover isoflavones protected nerve cells in lab and animal studies (preclinical); a randomized
+    trial in postmenopausal women found no major effect on cognition
   reference_ids:
   - REF-2927
   - REF-2926
   - REF-2925
   - REF-2896
   status: needs-review
-- condition: wounds
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-2934
-  - REF-2890
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2900
+  null_result_ids:
+  - REF-3810
 contraindications:
 - note: Generally safe in normal dietary amounts. Isoflavones are phytoestrogens - exercise caution in
     oestrogen-receptor-positive breast cancer patients or those taking hormone therapies. May interact
@@ -369,7 +352,6 @@ references:
 - REF-1112
 - REF-1113
 - REF-2344
-- REF-2345
 - REF-2346
 - REF-0013
 - REF-2347
@@ -428,4 +410,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   @article sources (REF-1104, REF-2344, REF-2345, REF-2346) - woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-12: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
-  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-17: enriched with 12 PubMed-verified @article sources (REF-2889..REF-2900) spanning anticancer (glioblastoma C6, breast MDA-MB-231/MCF-7 sprouts, 4T1 TNBC + doxorubicin synergy, B-ALL leukemia, plus a pharmacological/anti-cancer overview), neuroprotective/cognitive (isoflavone neurodegeneration review), antidiabetic (hypoglycemic polysaccharides, exosome STZ-diabetic rats), antimicrobial/antiparasitic (anticoccidial phytogenic; combined T. pratense+basil antibacterial/wound review), cardiovascular (ferroptosis/iron-homeostasis) and phytochemistry (DESIGNER minor bioactives); added anticancer/neuroprotective/antidiabetic/antimicrobial/vulnerary actions + cancer/blood-sugar/cognitive-function/wounds indications and wove refs into existing claims + references bucket. | 2026-07-18: added 12 more sources (REF-2923..2934) via OpenAlex (not PubMed) for database diversity, spanning cognitive/neuroprotective (formononetin PGC-1a cognition + neuroprotection review; biochanin A anti-beta-amyloid), cardiovascular (biochanin A myocardial I/R), anti-inflammatory/immune (red-clover anthocyanins in LPS macrophages; biochanin A arthritis resolution), anticancer (red clover+doxorubicin synergy in 4T1 TNBC and brain/lung metastasis; antiproliferative in MCF-7/MDA-MB-231), antidiabetic (pancreatic beta-cell protection vs streptozotocin), antioxidant phytochemistry and wound-healing hydrogel. Several are studies of red clover''s signature isoflavones (formononetin, biochanin A) that cite T. pratense as source. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower + leaf (both provisional: PFAF REF-3353, gathered as the plant comes into flower). Single lineage. Binomial confirmed.'
+  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-17: enriched with 12 PubMed-verified @article sources (REF-2889..REF-2900) spanning anticancer (glioblastoma C6, breast MDA-MB-231/MCF-7 sprouts, 4T1 TNBC + doxorubicin synergy, B-ALL leukemia, plus a pharmacological/anti-cancer overview), neuroprotective/cognitive (isoflavone neurodegeneration review), antidiabetic (hypoglycemic polysaccharides, exosome STZ-diabetic rats), antimicrobial/antiparasitic (anticoccidial phytogenic; combined T. pratense+basil antibacterial/wound review), cardiovascular (ferroptosis/iron-homeostasis) and phytochemistry (DESIGNER minor bioactives); added anticancer/neuroprotective/antidiabetic/antimicrobial/vulnerary actions + cancer/blood-sugar/cognitive-function/wounds indications and wove refs into existing claims + references bucket. | 2026-07-18: added 12 more sources (REF-2923..2934) via OpenAlex (not PubMed) for database diversity, spanning cognitive/neuroprotective (formononetin PGC-1a cognition + neuroprotection review; biochanin A anti-beta-amyloid), cardiovascular (biochanin A myocardial I/R), anti-inflammatory/immune (red-clover anthocyanins in LPS macrophages; biochanin A arthritis resolution), anticancer (red clover+doxorubicin synergy in 4T1 TNBC and brain/lung metastasis; antiproliferative in MCF-7/MDA-MB-231), antidiabetic (pancreatic beta-cell protection vs streptozotocin), antioxidant phytochemistry and wound-healing hydrogel. Several are studies of red clover''s signature isoflavones (formononetin, biochanin A) that cite T. pratense as source. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower + leaf (both provisional: PFAF REF-3353, gathered as the plant comes into flower). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. 2007 Cochrane REF-2345
+  purged and deleted (superseded by the 2013 update REF-3806, which found no conclusive evidence -
+  recorded as no-effect with the ICE trial REF-3805 and Geller 2009 REF-3406). Positive hot-flash
+  MAs REF-3807/REF-3808 added. Bone-density RCT REF-0013 removed from 4 actions and
+  cardiovascular-support. British Herbal Pharmacopoeia REF-0036 and Hoffmann REF-0112
+  (unverifiable books) kept only where Grieve REF-3816 agrees (cough, bronchitis, respiratory);
+  menstrual-cramps and muscle-spasm dropped. Broiler-chicken study REF-1113 and two red clover +
+  basil combination studies removed; wounds dropped. Lipid MA REF-3809 added; Howes 2004 cognition
+  RCT REF-3810 no-effect. Blood-sugar is preclinical only (verified -> needs-review). Gap: glucose
+  RCT 33761143 (primary outcome not different).'

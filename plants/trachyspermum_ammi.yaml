@@ -24,8 +24,7 @@ botanical_description:
   root: Fibrous taproot
   fruit: Small, ridged, aromatic, oval seed (schizocarp), the main part used
   flowering_period: Summer (varies by growing region)
-  reference_ids:
-  - REF-0015
+  reference_ids: []
   status: verified
 habitat:
   text: Cultivated as an annual crop, mainly in India, Iran, Pakistan, Afghanistan and Egypt; believed
@@ -41,8 +40,7 @@ harvesting:
   - Root
   - Seed
   season: Seed at late-season maturity; leaf through growing season
-  reference_ids:
-  - REF-0015
+  reference_ids: []
   status: verified
 harvest_readiness:
 - part: seed
@@ -62,15 +60,13 @@ traditional_uses:
     antiseptic, and a respiratory-supportive remedy, with its high thymol content underlying much of its
     antimicrobial and antispasmodic activity.
   reference_ids:
-  - REF-0015
   - REF-0017
   - REF-0031
   status: verified
 preparations:
 - name: Seed infusion/chewed seed
   text: Whole seeds chewed after meals or infused in hot water as the classic digestive preparation.
-  reference_ids:
-  - REF-0015
+  reference_ids: []
   status: verified
 - name: Seed decoction
   text: Seeds simmered in water, a traditional preparation for stronger digestive or respiratory use.
@@ -108,53 +104,50 @@ constituents:
 actions:
 - action: digestive
   reference_ids:
-  - REF-0015
   - REF-0017
   - REF-0031
-  - REF-0275
   - REF-1914
   status: verified
 indications:
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditional carminative for flatulence and bloating (reviews)
   reference_ids:
-  - REF-0015
   - REF-0017
   - REF-0031
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0275
   - REF-1914
 - condition: indigestion
-  note: inferred from digestive action
+  note: Traditional digestive (review); ajwain essential oil healed stomach ulcers in rats (preclinical)
   reference_ids:
-  - REF-0015
   - REF-0017
-  - REF-0031
   - REF-1914
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0275
-- condition: menstrual-cramps
-  reference_ids:
-  - REF-0015
-  - REF-0017
   - REF-0031
-  status: verified
 - condition: oral-health
   reference_ids:
-  - REF-0015
-  - REF-0017
-  - REF-0031
-  - REF-0275
   - REF-1922
-  status: verified
+  status: needs-review
+  note: Ajwain oil killed mouth bacteria in the lab (preclinical)
 - condition: respiratory-support
   reference_ids:
-  - REF-0015
   - REF-0017
   - REF-0031
+  - REF-3803
   status: verified
+  note: Boiled ajwain extract widened the airways of people with asthma, comparable to theophylline, in
+    a placebo-controlled study; traditional respiratory remedy (reviews)
+- condition: pain
+  note: An ajwain cream reduced neuropathic burning feet vs placebo in a randomized trial, and ajwain
+    oil eased dental injection pain in children better than an anaesthetic spray; it did not help chemotherapy
+    nerve pain in a pilot trial
+  reference_ids:
+  - REF-1920
+  - REF-3801
+  status: verified
+  null_result_ids:
+  - REF-3802
 contraindications:
 - note: Generally safe at culinary amounts used in Indian and Middle Eastern cooking. Ajwain essential
     oil is highly concentrated and should not be ingested in large quantities - thymol toxicity can cause
@@ -166,7 +159,6 @@ contraindications:
     as it may aggravate gastric acidity in some individuals (Bairwa et al., 2012).
   severity: caution
   reference_ids:
-  - REF-0015
   - REF-0017
   - REF-0031
   - REF-0251
@@ -178,7 +170,6 @@ contraindications:
     medicine is 3–6 g of powdered seed, or 125 mg of standardized extract (Duke, 2002).
   severity: info
   reference_ids:
-  - REF-0015
   - REF-0017
   - REF-0031
   - REF-0251
@@ -197,6 +188,7 @@ references:
 - REF-1921
 - REF-1922
 - REF-1923
+- REF-0275
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -215,4 +207,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
   references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for seed (provisional: PFAF
-  REF-3352, harvested when fully ripe in summer). Single lineage. Binomial confirmed.'
+  REF-3352, harvested when fully ripe in summer). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. Review REF-0015 (dead DOI,
+  no abstract) purged and deleted. Reviews REF-0017/REF-0031 (retagged narrative-review) removed
+  from menstrual-cramps (dropped), oral-health and indigestion (never named). GC-MS antibacterial
+  study REF-0275 removed from oral-health and the digestive action. Asthma bronchodilator study
+  REF-3803 added. New pair (owner rule): pain (held placebo RCT REF-1920; dental-injection RCT
+  REF-3801; CIPN pilot REF-3802 no-effect). Gap: functional dyspepsia RCT 29299438 used an Apium +
+  ajwain combination.'

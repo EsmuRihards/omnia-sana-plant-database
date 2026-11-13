@@ -56544,7 +56544,6 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory - parthenolide inhibits NF-kB and nitroglycerin-induced neuronal (Fos) activation, the proposed basis of its antimigraine action",
      "reference_ids": [
-      "REF-0450",
       "REF-0552",
       "REF-1574",
       "REF-1578"
@@ -56555,31 +56554,33 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "Traditional use for fever and for joint pain / arthritis",
+     "note": "Traditionally used for rheumatoid arthritis (review); a placebo-controlled trial in rheumatoid arthritis found no benefit",
      "reference_ids": [
       "REF-1574"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0450",
       "REF-0552"
      ],
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-3792"
+     ],
+     "evidence": 2,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "fever",
-     "note": "Traditional use for fever and for joint pain / arthritis",
+     "note": "Traditional use for fevers (review)",
      "reference_ids": [
       "REF-1574"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Fever"
     },
     {
      "condition": "headache",
-     "note": "Headache prevention and relief",
+     "note": "Feverfew modestly reduced migraine headaches in a Cochrane review (low-quality evidence)",
      "reference_ids": [
       "REF-0450",
       "REF-1572"
@@ -56590,13 +56591,12 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "A parthenolide-depleted feverfew extract had anti-inflammatory activity in the lab (preclinical)",
      "reference_ids": [
       "REF-1578"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0450",
       "REF-0552"
      ],
      "evidence": 2,
@@ -56604,41 +56604,44 @@
     },
     {
      "condition": "migraine",
-     "note": "Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised preparations, though mixed); parthenolide is identified as the component responsible for the antimigraine effect in animal models",
+     "note": "Feverfew modestly reduced migraine frequency in the 2015 Cochrane review (low-quality evidence) and in a randomized trial of a CO2 extract (MIG-99); a smaller dose-finding trial and a 2020 systematic review found mixed results",
      "reference_ids": [
       "REF-0450",
       "REF-0552",
       "REF-1572",
-      "REF-1573",
       "REF-1574",
-      "REF-1575",
-      "REF-1576",
-      "REF-1581"
+      "REF-1581",
+      "REF-3791"
      ],
      "status": "verified",
-     "evidence": 10,
+     "null_result_ids": [
+      "REF-1576",
+      "REF-1575"
+     ],
+     "evidence": 9,
      "label": "Migraine"
     },
     {
      "condition": "pain",
-     "note": "Traditional use for fever and for joint pain / arthritis",
+     "note": "Traditionally used for toothache and stomach ache (review)",
      "reference_ids": [
-      "REF-0450"
+      "REF-1574"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Pain (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "A parthenolide-depleted feverfew extract reduced chemically induced skin redness in a clinical model and inflammation in the lab",
+     "reference_ids": [
+      "REF-1578"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0450",
       "REF-0552"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Skin irritation"
     }
    ],
@@ -56662,7 +56665,6 @@
    ],
    "references": [
     "REF-1572",
-    "REF-1573",
     "REF-1574",
     "REF-1575",
     "REF-1576",
@@ -56840,7 +56842,6 @@
      "text": "Tansy is NOT recommended for internal use at any dose given its thujone content and documented toxicity (convulsions, liver/kidney damage) - internal use recorded here is for historical reference only. External use (e.g. as an insect repellent) should avoid prolonged skin contact. Educational reference only, not a prescription; strictly avoid in pregnancy.",
      "reference_ids": [
       "REF-0098",
-      "REF-0139",
       "REF-0187"
      ],
      "status": "verified"
@@ -56885,8 +56886,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0098",
-      "REF-0139",
       "REF-1294"
      ],
      "status": "verified"
@@ -56894,11 +56893,8 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0098",
-      "REF-0139",
       "REF-1293",
       "REF-1296",
-      "REF-1297",
       "REF-1298",
       "REF-1300"
      ],
@@ -56907,8 +56903,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0098",
-      "REF-0139",
       "REF-1294",
       "REF-1296",
       "REF-1299"
@@ -56919,16 +56913,14 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0098",
-      "REF-0139"
+      "REF-3811"
      ],
      "status": "verified"
     },
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0098",
-      "REF-0139"
+      "REF-3811"
      ],
      "status": "verified"
     }
@@ -56936,121 +56928,47 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Hot tansy fomentations were traditionally applied to rheumatic joints, and it was taken for gout (Grieve, A Modern Herbal); not recommended internally because of thujone toxicity",
      "reference_ids": [
-      "REF-0098"
+      "REF-3811"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0139"
-     ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0139"
-     ],
-     "evidence": 1,
-     "label": "Bloating"
-    },
-    {
-     "condition": "indigestion",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0139"
-     ],
-     "evidence": 1,
-     "label": "Indigestion"
-    },
-    {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Tansy essential oil was active against multidrug-resistant bacteria in the lab (preclinical)",
      "reference_ids": [
-      "REF-0098",
       "REF-1298"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0139",
-      "REF-1297"
-     ],
      "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0139"
-     ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0139"
-     ],
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0139"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally applied to eruptive skin diseases (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3811"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0139"
-     ],
      "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0139",
-      "REF-1297"
-     ],
      "evidence": 1,
      "label": "Wounds"
     }
@@ -57061,7 +56979,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0098",
-      "REF-0139",
       "REF-0187"
      ],
      "status": "verified"
@@ -57071,7 +56988,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0098",
-      "REF-0139",
       "REF-0187",
       "REF-0063"
      ],
@@ -57330,7 +57246,6 @@
      ],
      "reference_ids": [
       "REF-0326",
-      "REF-0333",
       "REF-2387",
       "REF-2388",
       "REF-2389",
@@ -57366,7 +57281,6 @@
       "Whole plant"
      ],
      "reference_ids": [
-      "REF-0333",
       "REF-2953"
      ],
      "status": "verified"
@@ -57378,7 +57292,6 @@
      ],
      "reference_ids": [
       "REF-0329",
-      "REF-0333",
       "REF-2389",
       "REF-2394",
       "REF-2396",
@@ -57418,7 +57331,8 @@
      ],
      "reference_ids": [
       "REF-0326",
-      "REF-0328"
+      "REF-0328",
+      "REF-3812"
      ],
      "status": "verified"
     },
@@ -57432,7 +57346,7 @@
       "REF-0321",
       "REF-0326",
       "REF-0338",
-      "REF-2968"
+      "REF-3812"
      ],
      "status": "verified"
     },
@@ -57460,7 +57374,8 @@
      ],
      "reference_ids": [
       "REF-0326",
-      "REF-0328"
+      "REF-0328",
+      "REF-3812"
      ],
      "status": "verified"
     },
@@ -57517,10 +57432,10 @@
    "indications": [
     {
      "condition": "appetite-loss",
-     "note": "inferred from bitter-tonic action",
+     "note": "Traditional bitter tonic for poor appetite and weak digestion (Grieve, A Modern Herbal; Herbal Reality)",
      "reference_ids": [
-      "REF-0326",
-      "REF-0328"
+      "REF-0328",
+      "REF-3812"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -57528,13 +57443,12 @@
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for arthritis and gout (Herbal Reality)",
      "reference_ids": [
-      "REF-0326"
+      "REF-0328"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0333",
       "REF-2395",
       "REF-2946",
       "REF-2951",
@@ -57547,17 +57461,17 @@
     {
      "condition": "bloating",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0326",
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0328"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Dandelion extracts slowed or killed cancer cells in lab and animal studies (preclinical)",
      "reference_ids": [
       "REF-2391",
       "REF-2396",
@@ -57570,10 +57484,10 @@
     },
     {
      "condition": "constipation",
-     "note": "inferred from laxative action",
+     "note": "Traditional mild laxative (Grieve, A Modern Herbal; Herbal Reality)",
      "reference_ids": [
-      "REF-0326",
-      "REF-0328"
+      "REF-0328",
+      "REF-3812"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -57581,22 +57495,20 @@
     },
     {
      "condition": "detox",
-     "note": "inferred from hepatoprotective action",
+     "note": "Traditional \"cleansing\" herb for the liver (review)",
      "reference_ids": [
-      "REF-0326",
-      "REF-0329",
-      "REF-0338"
+      "REF-0326"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Detox / cleansing"
     },
     {
      "condition": "indigestion",
-     "note": "inferred from bitter-tonic action",
+     "note": "Traditional bitter tonic for dyspepsia (Grieve, A Modern Herbal; Herbal Reality)",
      "reference_ids": [
-      "REF-0326",
-      "REF-0328"
+      "REF-0328",
+      "REF-3812"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -57604,47 +57516,45 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Dandelion extract was active against Staphylococcus aureus and other bacteria in the lab (preclinical)",
      "reference_ids": [
-      "REF-0333"
+      "REF-2953"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Dandelion extracts reduced inflammation in lab and animal studies (reviews; preclinical)",
      "reference_ids": [
       "REF-0326"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0333"
-     ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "liver-support",
-     "note": "inferred from choleretic action",
+     "note": "Traditional remedy for a sluggish liver, jaundice and gallstones (Grieve, A Modern Herbal; Herbal Reality); dandelion protected the liver in animal studies (reviews; preclinical)",
      "reference_ids": [
       "REF-0326",
-      "REF-0338"
+      "REF-3812",
+      "REF-0328"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Liver support"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for eczema and skin eruptions (Grieve, A Modern Herbal; Herbal Reality)",
      "reference_ids": [
-      "REF-0326"
+      "REF-3812",
+      "REF-0328"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0333",
       "REF-2395",
       "REF-2946",
       "REF-2951",
@@ -57656,52 +57566,46 @@
     },
     {
      "condition": "swelling",
-     "note": "inferred from diuretic action",
+     "note": "Traditional diuretic for dropsy and fluid retention (Grieve, A Modern Herbal; Herbal Reality); a leaf extract raised urine output in a small one-day pilot study in people, but a mouse study found no diuretic effect",
      "reference_ids": [
       "REF-0321",
       "REF-0326",
-      "REF-0338"
+      "REF-3812",
+      "REF-0328"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "null_result_ids": [
+      "REF-2968"
+     ],
+     "evidence": 3,
      "label": "Swelling / fluid retention"
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Traditional diuretic for kidney gravel and stones (Grieve, A Modern Herbal; Herbal Reality); a leaf extract raised urine frequency in a small pilot study in people",
      "reference_ids": [
       "REF-0321",
       "REF-0326",
-      "REF-0338"
+      "REF-3812",
+      "REF-0328"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "null_result_ids": [
+      "REF-2968"
+     ],
+     "evidence": 3,
      "label": "Urinary support"
     },
     {
      "condition": "uti",
-     "note": "inferred from diuretic action",
+     "note": "Dandelion extract was active against urinary-tract bacteria in the lab (preclinical)",
      "reference_ids": [
-      "REF-0321",
       "REF-0326",
-      "REF-0338"
-     ],
-     "status": "needs-review",
-     "evidence": 5,
-     "label": "Urinary tract infection (UTI)"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0333"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
       "REF-2953"
      ],
-     "evidence": 1,
-     "label": "Wounds"
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Urinary tract infection (UTI)"
     },
     {
      "condition": "cardiovascular-support",
@@ -57716,9 +57620,8 @@
     },
     {
      "condition": "immune-support",
-     "note": "Taraxasterol modulated the inflammatory/immune response in endotoxic shock (preclinical).",
+     "note": "Dandelion fractions stimulated immune cells in the lab (preclinical)",
      "reference_ids": [
-      "REF-2964",
       "REF-2966"
      ],
      "status": "needs-review",
@@ -57820,7 +57723,8 @@
     "REF-2967",
     "REF-2968",
     "REF-0070",
-    "REF-0264"
+    "REF-0264",
+    "REF-0333"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -57968,9 +57872,7 @@
     {
      "name": "Cocoa butter (fatty acids)",
      "note": "The fat fraction of the seed, classified as emollient and used in both food and topical products.",
-     "reference_ids": [
-      "REF-0167"
-     ]
+     "reference_ids": []
     }
    ],
    "actions": [
@@ -57978,7 +57880,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0131",
-      "REF-0167",
       "REF-1084",
       "REF-1088",
       "REF-1091"
@@ -57989,7 +57890,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0131",
-      "REF-0167",
       "REF-1084",
       "REF-1086",
       "REF-1088",
@@ -58001,16 +57901,14 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0131",
-      "REF-0167"
+      "REF-0131"
      ],
      "status": "verified"
     },
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0131",
-      "REF-0167"
+      "REF-0131"
      ],
      "status": "verified"
     }
@@ -58020,72 +57918,78 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0131",
-      "REF-1084",
-      "REF-1085",
       "REF-1086",
       "REF-1087",
       "REF-1088",
       "REF-1089",
-      "REF-1092"
+      "REF-3793"
      ],
      "status": "verified",
-     "evidence": 9,
+     "null_result_ids": [
+      "REF-1084",
+      "REF-1085"
+     ],
+     "note": "Cocoa flavanols slightly lowered blood pressure in a Cochrane review; the large COSMOS trial found no reduction in total cardiovascular events (fewer cardiovascular deaths was a secondary finding), and a 2021 systematic review found no effect on blood pressure or lipids in healthy people",
+     "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Regular chocolate or cocoa improved executive function in a meta-analysis of trials in healthy adults",
      "reference_ids": [
-      "REF-0131"
+      "REF-0131",
+      "REF-3795"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0167"
-     ],
-     "evidence": 3,
+     "evidence": 7,
      "label": "Cognitive function"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Cocoa polyphenols had anti-inflammatory effects (reviews; mostly preclinical)",
      "reference_ids": [
       "REF-0131"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0167"
-     ],
-     "evidence": 3,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
+     "note": "Daily cocoa improved learning, memory and attention in young adults in a meta-analysis of trials",
      "reference_ids": [
-      "REF-0131"
+      "REF-0131",
+      "REF-3795"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0167"
-     ],
-     "evidence": 3,
+     "evidence": 7,
      "label": "Memory"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Cacao extract eased atopic-dermatitis-like skin symptoms in mice (preclinical)",
      "reference_ids": [
       "REF-1091"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0131",
-      "REF-0167",
       "REF-1084",
       "REF-1088"
      ],
      "evidence": 2,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Cocoa flavanols slightly lowered blood pressure in a Cochrane review and a 2026 meta-analysis of randomized trials, more in people with high blood pressure",
+     "reference_ids": [
+      "REF-3793",
+      "REF-3794"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [
@@ -58094,7 +57998,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0131",
-      "REF-0167",
       "REF-0249"
      ],
      "status": "verified"
@@ -58104,7 +58007,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0131",
-      "REF-0167",
       "REF-0249",
       "REF-0063"
      ],
@@ -58267,7 +58169,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0133",
       "REF-1094",
       "REF-1099"
      ],
@@ -58294,7 +58195,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0133",
       "REF-1094",
       "REF-1095",
       "REF-1096",
@@ -58305,10 +58205,8 @@
     },
     {
      "action": "gastroprotective",
-     "reference_ids": [
-      "REF-0133"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     }
    ],
    "indications": [
@@ -58317,15 +58215,12 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0133"
-     ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Wild thyme extract slowed breast cancer cell growth in the lab (preclinical)",
      "reference_ids": [
       "REF-1102"
      ],
@@ -58335,7 +58230,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Wild thyme was active against mouth bacteria in the lab (preclinical)",
      "reference_ids": [
       "REF-0133"
      ],
@@ -58351,9 +58246,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0133"
-     ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
@@ -58362,9 +58254,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0133"
-     ],
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -58379,6 +58268,17 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "indigestion",
+     "note": "A wild thyme extract reduced digestive discomfort and improved quality of life vs placebo in a randomized trial in adults with persistent digestive complaints; traditional remedy for weak digestion and flatulence (Grieve, A Modern Herbal)",
+     "reference_ids": [
+      "REF-3796",
+      "REF-3814"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Indigestion"
     }
    ],
    "contraindications": [
@@ -58579,7 +58479,8 @@
       "REF-1307",
       "REF-1309",
       "REF-1310",
-      "REF-1312"
+      "REF-1312",
+      "REF-3813"
      ],
      "status": "verified"
     },
@@ -58588,7 +58489,8 @@
      "note": "Antitussive and antispasmodic (eases bronchial spasm and coughing)",
      "reference_ids": [
       "REF-0519",
-      "REF-1305"
+      "REF-1305",
+      "REF-3813"
      ],
      "status": "verified"
     },
@@ -58612,9 +58514,10 @@
    "indications": [
     {
      "condition": "bronchitis",
-     "note": "Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing fits)",
+     "note": "Traditional remedy for coughs and bronchial complaints (Grieve, A Modern Herbal); traditional expectorant for productive cough (EU herbal monograph)",
      "reference_ids": [
-      "REF-0519"
+      "REF-0519",
+      "REF-3813"
      ],
      "status": "verified",
      "evidence": 1,
@@ -58622,7 +58525,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "A thyme oil nanoemulsion killed cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1309"
      ],
@@ -58632,9 +58535,10 @@
     },
     {
      "condition": "cold",
-     "note": "Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing fits)",
+     "note": "Traditional expectorant for productive cough with a cold (EU herbal monograph); traditionally taken at the start of a cold (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0519"
+      "REF-0519",
+      "REF-3813"
      ],
      "status": "verified",
      "evidence": 1,
@@ -58642,17 +58546,19 @@
     },
     {
      "condition": "cough",
-     "note": "Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing fits)",
+     "note": "Thyme syrup reduced cough vs placebo in children with asthma attacks in a randomized trial; traditional expectorant for productive cough with a cold (EU herbal monograph) and for whooping cough (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0519"
+      "REF-0519",
+      "REF-3797",
+      "REF-3813"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Cough"
     },
     {
      "condition": "infection",
-     "note": "Antimicrobial (thymol and carvacrol) - supports respiratory infection",
+     "note": "Thymol and carvacrol, the main compounds of thyme, are antimicrobial in the lab (reviews; preclinical)",
      "reference_ids": [
       "REF-0486"
      ],
@@ -58666,39 +58572,32 @@
     },
     {
      "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [],
-     "status": "needs-review",
+     "note": "Thyme reduced period pain as much as ibuprofen and more than placebo in a triple-blind randomized trial",
+     "reference_ids": [
+      "REF-3798"
+     ],
+     "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0519"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Menstrual cramps"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0519"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Traditional expectorant for coughs and chest complaints (EU herbal monograph; Grieve, A Modern Herbal); thyme syrup eased cough in children with asthma in a randomized trial",
      "reference_ids": [
-      "REF-0519"
+      "REF-0519",
+      "REF-3797",
+      "REF-3813"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Respiratory support"
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "Thymol and carvacrol, the main compounds of thyme, are antimicrobial and were reviewed for wound healing (preclinical)",
      "reference_ids": [
       "REF-0486"
      ],
@@ -58710,6 +58609,56 @@
      ],
      "evidence": 2,
      "label": "Wounds"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Dried thyme leaves reduced anxiety scores vs control in university students in a randomized trial",
+     "reference_ids": [
+      "REF-3799"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "depression",
+     "note": "Dried thyme leaves reduced depression scores vs control in university students in a randomized trial",
+     "reference_ids": [
+      "REF-3799"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low mood / depression"
+    },
+    {
+     "condition": "insomnia",
+     "note": "Dried thyme leaves improved overall sleep quality (not time to fall asleep or sleep length) vs control in university students in a randomized trial",
+     "reference_ids": [
+      "REF-3799"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Insomnia / sleeplessness"
+    },
+    {
+     "condition": "memory",
+     "note": "Dried thyme leaves improved prospective and retrospective memory vs control in university students in a randomized trial",
+     "reference_ids": [
+      "REF-3799"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Memory"
+    },
+    {
+     "condition": "oral-health",
+     "note": "A thyme mouthwash reduced bad breath and gum inflammation after periodontal treatment in a randomized trial",
+     "reference_ids": [
+      "REF-3800"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Oral & throat health"
     }
    ],
    "contraindications": [
@@ -58943,16 +58892,14 @@
     {
      "condition": "anxiety",
      "note": "inferred from anxiolytic action",
-     "reference_ids": [
-      "REF-0478"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Anxiety"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Linden flower extracts killed pancreatic cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1314"
      ],
@@ -58962,7 +58909,7 @@
     },
     {
      "condition": "cold",
-     "note": "Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)",
+     "note": "Traditional use for the symptoms of the common cold (EU herbal monograph)",
      "reference_ids": [
       "REF-0478"
      ],
@@ -58972,7 +58919,7 @@
     },
     {
      "condition": "cough",
-     "note": "Demulcent for cough and catarrh (soothing mucilage)",
+     "note": "Traditional use for the symptoms of the common cold (EU herbal monograph)",
      "reference_ids": [
       "REF-0478"
      ],
@@ -58982,7 +58929,7 @@
     },
     {
      "condition": "fever",
-     "note": "Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)",
+     "note": "Traditional use for the symptoms of the common cold (EU herbal monograph)",
      "reference_ids": [
       "REF-0478"
      ],
@@ -58992,9 +58939,10 @@
     },
     {
      "condition": "nervous-tension",
-     "note": "inferred from anxiolytic action",
+     "note": "Traditional use for mild mental stress (EU herbal monograph) and for hysteria and palpitations (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0478"
+      "REF-0478",
+      "REF-3815"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -59002,7 +58950,7 @@
     },
     {
      "condition": "stress",
-     "note": "Relief of mild mental stress and to aid sleep (gentle calming); flavonoid fractions of Tilia (notably tiliroside) show anxiolytic activity in animal models via the serotonergic and GABA/benzodiazepine systems (mechanistic evidence from the related species T. americana)",
+     "note": "Traditional use for relief of mild symptoms of mental stress (EU herbal monograph)",
      "reference_ids": [
       "REF-0478"
      ],
@@ -59025,6 +58973,14 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0478"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Tea made from old, stale lime flowers may cause narcotic intoxication; use fresh-dried flowers (Grieve, A Modern Herbal).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-3815"
      ],
      "status": "verified"
     }
@@ -59076,9 +59032,7 @@
     "root": "Fibrous taproot",
     "fruit": "Small, ridged, aromatic, oval seed (schizocarp), the main part used",
     "flowering_period": "Summer (varies by growing region)",
-    "reference_ids": [
-     "REF-0015"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "habitat": {
@@ -59096,9 +59050,7 @@
      "Seed"
     ],
     "season": "Seed at late-season maturity; leaf through growing season",
-    "reference_ids": [
-     "REF-0015"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvest_readiness": [
@@ -59121,21 +59073,12 @@
    "traditional_uses": {
     "text": "Ajwain seed has a long South Asian and Middle Eastern culinary and Ayurvedic tradition as a warming digestive carminative for bloating and indigestion, an antispasmodic for menstrual cramps, an oral-health antiseptic, and a respiratory-supportive remedy, with its high thymol content underlying much of its antimicrobial and antispasmodic activity.",
     "reference_ids": [
-     "REF-0015",
      "REF-0017",
      "REF-0031"
     ],
     "status": "verified"
    },
    "preparations": [
-    {
-     "name": "Seed infusion/chewed seed",
-     "text": "Whole seeds chewed after meals or infused in hot water as the classic digestive preparation.",
-     "reference_ids": [
-      "REF-0015"
-     ],
-     "status": "verified"
-    },
     {
      "name": "Diluted essential oil (topical/oral-care)",
      "text": "Essential oil, well diluted, used in oral-care preparations; not taken undiluted internally due to thymol content.",
@@ -59184,10 +59127,8 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0015",
       "REF-0017",
       "REF-0031",
-      "REF-0275",
       "REF-1914"
      ],
      "status": "verified"
@@ -59196,70 +59137,67 @@
    "indications": [
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditional carminative for flatulence and bloating (reviews)",
      "reference_ids": [
-      "REF-0015",
       "REF-0017",
       "REF-0031"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0275",
       "REF-1914"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Bloating"
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditional digestive (review); ajwain essential oil healed stomach ulcers in rats (preclinical)",
      "reference_ids": [
-      "REF-0015",
       "REF-0017",
-      "REF-0031",
       "REF-1914"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0275"
+      "REF-0031"
      ],
      "evidence": 2,
      "label": "Indigestion"
     },
     {
-     "condition": "menstrual-cramps",
-     "reference_ids": [
-      "REF-0015",
-      "REF-0017",
-      "REF-0031"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
      "condition": "oral-health",
      "reference_ids": [
-      "REF-0015",
-      "REF-0017",
-      "REF-0031",
-      "REF-0275",
       "REF-1922"
      ],
-     "status": "verified",
+     "status": "needs-review",
+     "note": "Ajwain oil killed mouth bacteria in the lab (preclinical)",
      "evidence": 2,
      "label": "Oral & throat health"
     },
     {
      "condition": "respiratory-support",
      "reference_ids": [
-      "REF-0015",
       "REF-0017",
-      "REF-0031"
+      "REF-0031",
+      "REF-3803"
      ],
      "status": "verified",
-     "evidence": 1,
+     "note": "Boiled ajwain extract widened the airways of people with asthma, comparable to theophylline, in a placebo-controlled study; traditional respiratory remedy (reviews)",
+     "evidence": 3,
      "label": "Respiratory support"
+    },
+    {
+     "condition": "pain",
+     "note": "An ajwain cream reduced neuropathic burning feet vs placebo in a randomized trial, and ajwain oil eased dental injection pain in children better than an anaesthetic spray; it did not help chemotherapy nerve pain in a pilot trial",
+     "reference_ids": [
+      "REF-1920",
+      "REF-3801"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3802"
+     ],
+     "evidence": 6,
+     "label": "Pain (general)"
     }
    ],
    "contraindications": [
@@ -59267,7 +59205,6 @@
      "note": "Generally safe at culinary amounts used in Indian and Middle Eastern cooking. Ajwain essential oil is highly concentrated and should not be ingested in large quantities - thymol toxicity can cause nausea, vomiting, and central nervous system effects at high doses. May increase photosensitivity (phototoxic potential of essential oil). May mildly lower blood pressure and blood sugar - caution when combined with antihypertensive or antidiabetic medications. Contains thymol, which may enhance anticoagulant effects at very high doses. Not recommended in medicinal doses during pregnancy (has emmenagogue properties in traditional use) or breastfeeding. Avoid in large amounts with peptic ulcer as it may aggravate gastric acidity in some individuals (Bairwa et al., 2012).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0015",
       "REF-0017",
       "REF-0031",
       "REF-0251",
@@ -59279,7 +59216,6 @@
      "note": "According to Duke (2002), ajowan essential oil is fungitoxic at 500 ppm and possesses spasmogenic activity. The oil is rich in thymol, which may be responsible for many of the plant's biological activities including its antispasmodic, carminative, and antimicrobial effects. Recommended dosage in traditional medicine is 3–6 g of powdered seed, or 125 mg of standardized extract (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0015",
       "REF-0017",
       "REF-0031",
       "REF-0251",
@@ -59300,7 +59236,8 @@
     "REF-1920",
     "REF-1921",
     "REF-1922",
-    "REF-1923"
+    "REF-1923",
+    "REF-0275"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -59447,9 +59384,7 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
+      "REF-0052"
      ],
      "status": "verified"
     },
@@ -59473,9 +59408,7 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
+      "REF-0052"
      ],
      "status": "verified"
     },
@@ -59483,8 +59416,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0052",
-      "REF-0282",
-      "REF-0300",
       "REF-1589",
       "REF-1590",
       "REF-1591"
@@ -59494,9 +59425,7 @@
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
+      "REF-0052"
      ],
      "status": "verified"
     },
@@ -59521,14 +59450,15 @@
    "indications": [
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Turkey tail extracts (PSK, PSP) improved survival as add-ons to cancer treatment in a meta-analysis, most clearly in breast, gastric and colorectal cancer; a Cochrane review in colorectal cancer found low-certainty evidence of a small survival benefit",
      "reference_ids": [
       "REF-0282",
       "REF-1582",
       "REF-1583",
       "REF-1584",
       "REF-1585",
-      "REF-1587"
+      "REF-1587",
+      "REF-3804"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -59536,26 +59466,6 @@
      ],
      "evidence": 9,
      "label": "Cancer (anticancer research)"
-    },
-    {
-     "condition": "cold",
-     "note": "inferred from antiviral action",
-     "reference_ids": [
-      "REF-0052"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0282",
-      "REF-0300",
-      "REF-1582",
-      "REF-1583",
-      "REF-1584",
-      "REF-1585",
-      "REF-1587",
-      "REF-1588"
-     ],
-     "evidence": 1,
-     "label": "Cold & flu"
     },
     {
      "condition": "immune-support",
@@ -59567,21 +59477,18 @@
      "mechanistic_exclude_ids": [
       "REF-0300"
      ],
-     "evidence": 1,
+     "note": "Turkey tail polysaccharides (PSK, PSP) supported immune function, especially during cancer treatment (reviews)",
+     "evidence": 2,
      "label": "Immune support"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Reviewed as antimicrobial and antiviral (review; mostly preclinical)",
      "reference_ids": [
       "REF-0052"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0282",
-      "REF-0300"
-     ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     }
    ],
@@ -59803,7 +59710,6 @@
       "REF-2923",
       "REF-2890",
       "REF-2895",
-      "REF-0013",
       "REF-0036",
       "REF-0112",
       "REF-1107"
@@ -59818,7 +59724,6 @@
       "REF-2889",
       "REF-2890",
       "REF-2895",
-      "REF-0013",
       "REF-0036",
       "REF-0112",
       "REF-1107",
@@ -59830,17 +59735,15 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0013",
       "REF-0036",
       "REF-0112",
-      "REF-1111"
+      "REF-3816"
      ],
      "status": "verified"
     },
     {
      "action": "expectorant",
      "reference_ids": [
-      "REF-0013",
       "REF-0036",
       "REF-0112"
      ],
@@ -59898,148 +59801,102 @@
     },
     {
      "action": "vulnerary",
-     "reference_ids": [
-      "REF-2934",
-      "REF-2890"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     }
    ],
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Biochanin A, a red clover isoflavone, eased arthritis in mice (preclinical)",
      "reference_ids": [
-      "REF-2929",
-      "REF-0036",
-      "REF-0112"
+      "REF-2929"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0013",
       "REF-1107",
       "REF-2895",
-      "REF-2928"
+      "REF-2928",
+      "REF-0036",
+      "REF-0112"
      ],
      "evidence": 2,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "bronchitis",
-     "note": "inferred from expectorant action",
+     "note": "Traditional remedy for bronchial and whooping cough (Grieve, A Modern Herbal; British Herbal Pharmacopoeia)",
      "reference_ids": [
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-3816"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0013"
-     ],
      "evidence": 1,
      "label": "Bronchitis"
     },
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-2928",
       "REF-2889",
-      "REF-0013",
-      "REF-0036",
-      "REF-0112",
       "REF-1105",
-      "REF-1113",
       "REF-2346"
      ],
      "status": "verified",
-     "evidence": 9,
+     "note": "Red clover isoflavones improved blood lipids in menopausal women (meta-analyses); its compounds protected the heart in animal studies (preclinical)",
+     "evidence": 8,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cough",
-     "note": "inferred from expectorant action",
+     "note": "Traditional remedy for bronchial and whooping cough (Grieve, A Modern Herbal; British Herbal Pharmacopoeia)",
      "reference_ids": [
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-3816"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0013"
-     ],
      "evidence": 1,
      "label": "Cough"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Red clover anthocyanins reduced inflammation in immune cells in the lab (preclinical)",
      "reference_ids": [
-      "REF-2923",
-      "REF-0036",
-      "REF-0112"
+      "REF-2923"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0013"
+      "REF-0036",
+      "REF-0112"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "menstrual-cramps",
-     "reference_ids": [
-      "REF-0036",
-      "REF-0112"
-     ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0013",
-      "REF-1111"
-     ],
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0036",
-      "REF-0112"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0013",
-      "REF-1111"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Traditional remedy for bronchial and whooping cough (Grieve, A Modern Herbal; British Herbal Pharmacopoeia)",
      "reference_ids": [
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-3816"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0013"
-     ],
      "evidence": 1,
      "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0036",
-      "REF-0112"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0013",
       "REF-1107",
       "REF-2895",
       "REF-2928",
-      "REF-2929"
+      "REF-2929",
+      "REF-0036",
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -60049,11 +59906,16 @@
      "reference_ids": [
       "REF-1104",
       "REF-2344",
-      "REF-2345",
       "REF-1108",
-      "REF-2347"
+      "REF-3807"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3406",
+      "REF-3805",
+      "REF-3806"
+     ],
+     "note": "Red clover isoflavones modestly reduced hot flashes and some menopausal symptoms in meta-analyses, but the 2013 Cochrane review found no conclusive evidence for phytoestrogens and two large US trials found no clinically important benefit",
      "evidence": 9,
      "label": "Menopause"
     },
@@ -60061,11 +59923,17 @@
      "condition": "hot-flashes",
      "reference_ids": [
       "REF-1104",
-      "REF-2344",
-      "REF-2345",
-      "REF-1108"
+      "REF-1108",
+      "REF-3807",
+      "REF-3808"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3406",
+      "REF-3805",
+      "REF-3806"
+     ],
+     "note": "Red clover isoflavones modestly reduced hot flashes vs placebo in meta-analyses (a 2026 GRADE review; Promensil 80 mg), but the 2013 Cochrane review found no conclusive evidence for phytoestrogens and two large US trials (ICE 2003; Geller 2009) found no clinically important benefit",
      "evidence": 9,
      "label": "Hot flashes"
     },
@@ -60074,15 +59942,20 @@
      "reference_ids": [
       "REF-2344",
       "REF-2346",
-      "REF-1108"
+      "REF-3809",
+      "REF-1105"
      ],
      "status": "verified",
-     "evidence": 5,
+     "mechanistic_exclude_ids": [
+      "REF-1108"
+     ],
+     "note": "Red clover isoflavones lowered total and LDL cholesterol and triglycerides in perimenopausal and postmenopausal women in meta-analyses of trials",
+     "evidence": 9,
      "label": "High cholesterol"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Red clover extract slowed breast and other cancer cells in lab and animal studies (preclinical); its safety in breast or womb cancer is not established",
      "reference_ids": [
       "REF-2932",
       "REF-2931",
@@ -60104,13 +59977,14 @@
       "REF-2897",
       "REF-2898"
      ],
-     "status": "verified",
+     "status": "needs-review",
+     "note": "Red clover polysaccharides and extracts lowered blood sugar in lab and animal studies (preclinical)",
      "evidence": 2,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Red clover isoflavones protected nerve cells in lab and animal studies (preclinical); a randomized trial in postmenopausal women found no major effect on cognition",
      "reference_ids": [
       "REF-2927",
       "REF-2926",
@@ -60118,22 +59992,11 @@
       "REF-2896"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-3810"
+     ],
      "evidence": 2,
      "label": "Cognitive function"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-2934",
-      "REF-2890"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2900"
-     ],
-     "evidence": 2,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -60171,7 +60034,6 @@
     "REF-1112",
     "REF-1113",
     "REF-2344",
-    "REF-2345",
     "REF-2346",
     "REF-0013",
     "REF-2347",

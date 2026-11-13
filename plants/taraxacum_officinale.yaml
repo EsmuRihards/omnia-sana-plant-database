@@ -170,7 +170,6 @@ actions:
   - Whole plant
   reference_ids:
   - REF-0326
-  - REF-0333
   - REF-2387
   - REF-2388
   - REF-2389
@@ -199,7 +198,6 @@ actions:
   parts:
   - Whole plant
   reference_ids:
-  - REF-0333
   - REF-2953
   status: verified
 - action: antioxidant
@@ -207,7 +205,6 @@ actions:
   - Whole plant
   reference_ids:
   - REF-0329
-  - REF-0333
   - REF-2389
   - REF-2394
   - REF-2396
@@ -236,6 +233,7 @@ actions:
   reference_ids:
   - REF-0326
   - REF-0328
+  - REF-3812
   status: verified
 - action: diuretic
   parts:
@@ -245,7 +243,7 @@ actions:
   - REF-0321
   - REF-0326
   - REF-0338
-  - REF-2968
+  - REF-3812
   status: verified
 - action: hepatoprotective
   parts:
@@ -266,6 +264,7 @@ actions:
   reference_ids:
   - REF-0326
   - REF-0328
+  - REF-3812
   status: verified
 - action: prebiotic
   parts:
@@ -299,18 +298,18 @@ actions:
   status: verified
 indications:
 - condition: appetite-loss
-  note: inferred from bitter-tonic action
+  note: Traditional bitter tonic for poor appetite and weak digestion (Grieve, A Modern Herbal; Herbal
+    Reality)
   reference_ids:
-  - REF-0326
   - REF-0328
+  - REF-3812
   status: needs-review
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for arthritis and gout (Herbal Reality)
   reference_ids:
-  - REF-0326
+  - REF-0328
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0333
   - REF-2395
   - REF-2946
   - REF-2951
@@ -318,12 +317,12 @@ indications:
   - REF-2965
 - condition: bloating
   note: inferred from digestive action
-  reference_ids:
-  - REF-0326
-  - REF-0328
+  reference_ids: []
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0328
 - condition: cancer
-  note: inferred from anticancer action
+  note: Dandelion extracts slowed or killed cancer cells in lab and animal studies (preclinical)
   reference_ids:
   - REF-2391
   - REF-2396
@@ -331,82 +330,81 @@ indications:
   - REF-2956
   status: needs-review
 - condition: constipation
-  note: inferred from laxative action
+  note: Traditional mild laxative (Grieve, A Modern Herbal; Herbal Reality)
   reference_ids:
-  - REF-0326
   - REF-0328
+  - REF-3812
   status: needs-review
 - condition: detox
-  note: inferred from hepatoprotective action
+  note: Traditional "cleansing" herb for the liver (review)
   reference_ids:
   - REF-0326
-  - REF-0329
-  - REF-0338
   status: needs-review
 - condition: indigestion
-  note: inferred from bitter-tonic action
+  note: Traditional bitter tonic for dyspepsia (Grieve, A Modern Herbal; Herbal Reality)
   reference_ids:
-  - REF-0326
   - REF-0328
+  - REF-3812
   status: needs-review
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Dandelion extract was active against Staphylococcus aureus and other bacteria in the lab (preclinical)
   reference_ids:
-  - REF-0333
+  - REF-2953
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Dandelion extracts reduced inflammation in lab and animal studies (reviews; preclinical)
   reference_ids:
   - REF-0326
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0333
 - condition: liver-support
-  note: inferred from choleretic action
+  note: Traditional remedy for a sluggish liver, jaundice and gallstones (Grieve, A Modern Herbal; Herbal
+    Reality); dandelion protected the liver in animal studies (reviews; preclinical)
   reference_ids:
   - REF-0326
-  - REF-0338
+  - REF-3812
+  - REF-0328
   status: needs-review
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for eczema and skin eruptions (Grieve, A Modern Herbal; Herbal Reality)
   reference_ids:
-  - REF-0326
+  - REF-3812
+  - REF-0328
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0333
   - REF-2395
   - REF-2946
   - REF-2951
   - REF-2964
   - REF-2965
 - condition: swelling
-  note: inferred from diuretic action
+  note: Traditional diuretic for dropsy and fluid retention (Grieve, A Modern Herbal; Herbal Reality);
+    a leaf extract raised urine output in a small one-day pilot study in people, but a mouse study found
+    no diuretic effect
   reference_ids:
   - REF-0321
   - REF-0326
-  - REF-0338
+  - REF-3812
+  - REF-0328
   status: needs-review
+  null_result_ids:
+  - REF-2968
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Traditional diuretic for kidney gravel and stones (Grieve, A Modern Herbal; Herbal Reality); a
+    leaf extract raised urine frequency in a small pilot study in people
   reference_ids:
   - REF-0321
   - REF-0326
-  - REF-0338
+  - REF-3812
+  - REF-0328
   status: needs-review
+  null_result_ids:
+  - REF-2968
 - condition: uti
-  note: inferred from diuretic action
+  note: Dandelion extract was active against urinary-tract bacteria in the lab (preclinical)
   reference_ids:
-  - REF-0321
   - REF-0326
-  - REF-0338
-  status: needs-review
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0333
-  status: needs-review
-  mechanistic_exclude_ids:
   - REF-2953
+  status: needs-review
 - condition: cardiovascular-support
   note: Dandelion root and leaf lowered serum lipids and oxidative stress (preclinical).
   reference_ids:
@@ -414,9 +412,8 @@ indications:
   - REF-2967
   status: needs-review
 - condition: immune-support
-  note: Taraxasterol modulated the inflammatory/immune response in endotoxic shock (preclinical).
+  note: Dandelion fractions stimulated immune cells in the lab (preclinical)
   reference_ids:
-  - REF-2964
   - REF-2966
   status: needs-review
 contraindications:
@@ -502,6 +499,7 @@ references:
 - REF-2968
 - REF-0070
 - REF-0264
+- REF-0333
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -527,4 +525,12 @@ internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica p
   harvest_readiness for root (autumn, 2yr plants) + leaf + flower (spring, in flower), all provisional: PFAF
   REF-3346. This is the plant the audit used as its example (verified content status, but the cited refs
   carried no timing language); REF-3346 is a genuine collection-timing source. Single lineage. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. 2024 review REF-0326
+  (retagged narrative-review) was pinned to 13 pairs; moved to mechanistic on the 6 it never
+  names. Review REF-0338 and REF-0329 likewise on detox/liver/urinary/swelling/uti. Herbal Reality
+  REF-0328 (has a reference list; says clinical evidence is minimal) kept for what it names;
+  Grieve REF-3812 added (liver, gravel, dropsy, dyspepsia, appetite, constipation, eczema).
+  Genus-level review REF-0333 removed from pairs and actions; wounds dropped. Diuretic screen
+  REF-2968 (no increase in urine volume) moved from the diuretic action to no-effect. REF-0321
+  retagged clinical (single-arm pilot, not an RCT).'

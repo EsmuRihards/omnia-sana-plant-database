@@ -109,8 +109,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0052
-  - REF-0282
-  - REF-0300
   status: verified
 - action: anticancer
   reference_ids:
@@ -129,14 +127,10 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-0052
-  - REF-0282
-  - REF-0300
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0052
-  - REF-0282
-  - REF-0300
   - REF-1589
   - REF-1590
   - REF-1591
@@ -144,8 +138,6 @@ actions:
 - action: antiviral
   reference_ids:
   - REF-0052
-  - REF-0282
-  - REF-0300
   status: verified
 - action: immunomodulator
   reference_ids:
@@ -163,7 +155,9 @@ actions:
   status: verified
 indications:
 - condition: cancer
-  note: inferred from anticancer action
+  note: Turkey tail extracts (PSK, PSP) improved survival as add-ons to cancer treatment in a meta-analysis,
+    most clearly in breast, gastric and colorectal cancer; a Cochrane review in colorectal cancer found
+    low-certainty evidence of a small survival benefit
   reference_ids:
   - REF-0282
   - REF-1582
@@ -171,23 +165,10 @@ indications:
   - REF-1584
   - REF-1585
   - REF-1587
+  - REF-3804
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
-- condition: cold
-  note: inferred from antiviral action
-  reference_ids:
-  - REF-0052
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0282
-  - REF-0300
-  - REF-1582
-  - REF-1583
-  - REF-1584
-  - REF-1585
-  - REF-1587
-  - REF-1588
 - condition: immune-support
   reference_ids:
   - REF-0052
@@ -195,14 +176,13 @@ indications:
   status: verified
   mechanistic_exclude_ids:
   - REF-0300
+  note: Turkey tail polysaccharides (PSK, PSP) supported immune function, especially during cancer treatment
+    (reviews)
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Reviewed as antimicrobial and antiviral (review; mostly preclinical)
   reference_ids:
   - REF-0052
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0282
-  - REF-0300
 contraindications:
 - note: Generally very safe and well tolerated. Rare cases of digestive upset or allergic reaction. No
     significant known drug interactions at normal doses. The PSK pharmaceutical form is used safely alongside
@@ -286,4 +266,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for fruiting-body (provisional: Eat The Planet REF-3354;
   fresh, pliable brackets with a white growing edge, before they toughen/fade). SAFETY: false turkey tail
-  (Stereum hirsutum) lookalike (pores vs smooth underside). Binomial confirmed.'
+  (Stereum hirsutum) lookalike (pores vs smooth underside). Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. Cold dropped: its only card
+  (2002 review REF-0052) never names colds. Breast-cancer review REF-0282 and a general
+  medicinal-mushroom review REF-0300 removed from four actions they never address. Yun Zhi
+  survival MA REF-3804 added to cancer. REF-0052/REF-0282 retagged narrative-review. Gap: HPV RCTs
+  used mushroom combinations.'

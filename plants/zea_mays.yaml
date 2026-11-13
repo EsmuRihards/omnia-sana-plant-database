@@ -133,6 +133,7 @@ actions:
   note: Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function
   reference_ids:
   - REF-0436
+  - REF-3877
   status: verified
 - action: diuretic
   note: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
@@ -142,67 +143,47 @@ actions:
   - REF-0436
   - REF-0557
   - REF-1632
+  - REF-3877
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0436
+  reference_ids: []
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Corn silk extract killed breast cancer cells in the lab (preclinical)
   reference_ids:
   - REF-1629
   status: needs-review
-- condition: cough
-  note: inferred from demulcent action
-  reference_ids:
-  - REF-0436
-  status: needs-review
-- condition: infection
-  note: Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function
-  reference_ids:
-  - REF-0436
-  status: verified
 - condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0436
+  note: Corn silk compounds reduced inflammation in lab and animal studies (preclinical)
+  reference_ids: []
   status: needs-review
 - condition: skin-irritation
   note: inferred from demulcent action
-  reference_ids:
-  - REF-0436
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1625
-- condition: sore-throat
-  note: inferred from demulcent action
-  reference_ids:
-  - REF-0436
-  status: needs-review
 - condition: swelling
-  note: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
-    in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration
-    and potassium excretion
+  note: Corn silk extract was diuretic in rats (preclinical); traditional diuretic (review)
   reference_ids:
   - REF-0436
   - REF-0557
   status: verified
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Traditional diuretic and demulcent for bladder irritation and gravel (Grieve, A Modern Herbal);
+    corn silk extract was diuretic in rats (preclinical)
   reference_ids:
   - REF-0436
   - REF-0557
+  - REF-3877
   status: needs-review
 - condition: uti
-  note: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
-    in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration
-    and potassium excretion; Soothing demulcent for urinary-tract irritation and mild urinary infections;
-    supports kidney function
+  note: Traditional demulcent and diuretic for acute and chronic cystitis and bladder irritation (Grieve,
+    A Modern Herbal)
   reference_ids:
-  - REF-0436
-  - REF-0557
+  - REF-3877
   status: verified
 contraindications:
 - note: As a diuretic it should be taken with plenty of fluids; use caution alongside prescription diuretics
@@ -270,4 +251,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules phyto
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
   status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for stigma/corn silk (provisional: PFAF REF-3370, gathered fresh
-  before pollination). Single lineage. Binomial confirmed.'
+  before pollination). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 19 - Deep audit. Review REF-0436 (retagged
+  narrative-review) never names arthritis, inflammation, skin irritation, cough, sore throat,
+  infection or UTI: moved to mechanistic; cough, sore-throat and infection dropped (its demulcent
+  use is urinary). Grieve corn silk REF-3877 (cystitis, bladder irritation, gravel) now carries
+  UTI and urinary support. Rat diuresis study REF-0557 retagged preclinical. Gap: corn silk
+  decoction lipid MA (Chinese modified decoctions, unblinded).'

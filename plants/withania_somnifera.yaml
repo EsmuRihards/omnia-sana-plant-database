@@ -156,13 +156,16 @@ indications:
   reference_ids: []
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Withaferin A and other withanolides killed cancer cells in lab and animal studies (review; preclinical)
   reference_ids:
   - REF-2255
   status: needs-review
 - condition: cognitive-function
-  note: inferred from neuroprotective action
-  reference_ids: []
+  note: Ashwagandha improved memory, attention and executive function in a 2026 meta-analysis and a randomized
+    trial in mild cognitive impairment
+  reference_ids:
+  - REF-2253
+  - REF-3860
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2246
@@ -175,15 +178,19 @@ indications:
   reference_ids: []
   status: needs-review
 - condition: insomnia
-  note: inferred from sedative action
-  reference_ids: []
+  note: Ashwagandha extract improved sleep in adults in a meta-analysis of randomized trials
+  reference_ids:
+  - REF-2245
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2247
   - REF-2248
 - condition: memory
-  note: inferred from neuroprotective action
-  reference_ids: []
+  note: Ashwagandha root extract improved memory in mild cognitive impairment in a randomized trial and
+    in a 2026 meta-analysis
+  reference_ids:
+  - REF-2253
+  - REF-3860
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2246
@@ -195,6 +202,30 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
+- condition: stress
+  note: Ashwagandha lowered stress scores and cortisol vs placebo in meta-analyses and randomized trials
+    (low-certainty evidence); a 2025 meta-analysis found lower cortisol but no change in perceived stress
+  reference_ids:
+  - REF-2247
+  - REF-3861
+  - REF-2248
+  - REF-2251
+  status: verified
+  null_result_ids:
+  - REF-3862
+- condition: anxiety
+  note: Ashwagandha reduced anxiety vs placebo in meta-analyses of randomized trials (low-certainty evidence)
+  reference_ids:
+  - REF-2247
+  - REF-3861
+  - REF-3863
+  status: verified
+- condition: depression
+  note: Ashwagandha reduced depression symptoms in a 2026 meta-analysis of randomized trials (heterogeneous
+    studies)
+  reference_ids:
+  - REF-3863
+  status: verified
 contraindications:
 - note: Generally well-tolerated in clinical trials at doses up to 600 mg/day for up to 12 weeks. Common
     side effects may include mild drowsiness, gastrointestinal upset, and diarrhea at higher doses. Contraindicated
@@ -214,6 +245,13 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0063
+  status: verified
+- note: Ashwagandha supplements have been linked to rare, often cholestatic liver injury (jaundice, itching,
+    dark urine); stop it if these appear, and avoid it with chronic liver disease (scoping review of published
+    cases).
+  severity: caution
+  reference_ids:
+  - REF-3864
   status: verified
 references:
 - REF-2245
@@ -300,4 +338,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
   sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for root (provisional: PFAF REF-3369, dug in autumn).
-  Single lineage. Binomial confirmed.'
+  Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 19 - Deep audit. Every pair was mechanistic
+  only although held RCTs/MAs named the symptoms: sleep MA REF-2245 wired to insomnia, MCI RCT
+  REF-2253 and the 2026 cognition MA REF-3860 to memory/cognition. New pairs (owner rule): stress
+  (2 MAs + 2 RCTs; cortisol-only MA REF-3862 recorded as no-effect for perceived stress), anxiety
+  (3 MAs), depression (2026 MA). New safety note: idiosyncratic, often cholestatic liver injury
+  (2026 scoping review REF-3864). Safety note #1 is still unsourced (needs-review). Gap: glucose
+  MA (very low certainty).'

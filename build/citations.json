@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3605,
+ "count": 3632,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -101,6 +101,40 @@
    "conditions": [
     "Liver support"
    ]
+  },
+  {
+   "ref_id": "REF-3864",
+   "key": "mcintyre2026ashwagandhaliverinjury",
+   "type": "article",
+   "title": "Ashwagandha (Withania somnifera)-Associated Liver Injury: A Scoping Review of Clinical Characteristics and Safety Considerations",
+   "authors": "McIntyre, D., Nguyen, P., Kim, Y., Meyer, B. and Salloum, M.",
+   "journal": "Cureus",
+   "year": "2026",
+   "doi": "10.7759/cureus.109764",
+   "url": "",
+   "link": "https://doi.org/10.7759/cureus.109764",
+   "link_type": "doi",
+   "citation": "McIntyre, D., Nguyen, P., Kim, Y., Meyer, B. and Salloum, M (2026) 'Ashwagandha (Withania somnifera)-Associated Liver Injury: A Scoping Review of Clinical Characteristics and Safety Considerations', Cureus, 18(5), pp. e109764. doi:10.7759/cureus.109764",
+   "abstract": "BACKGROUND: Ashwagandha (Withania somnifera) is a widely used herbal supplement marketed for stress relief and wellness. Although generally perceived as safe, accumulating reports of ashwagandha-associated liver injury have raised concern for hepatotoxic potential. MATERIALS AND METHODS: We conducted a global scoping review of the peer-reviewed clinical literature to systematically map and synthesize reports of ashwagandha-attributed liver injury. PubMed, Ovid MEDLINE(R) ALL, and MEDLINE Ultimate were searched through December 2025, with supplementary reference list screening. Eligible studies included peer-reviewed case reports and case series describing liver injury associated with single-ingredient ashwagandha products or multi-ingredient formulations containing ashwagandha. Non-peer-reviewed sources and non-English publications were excluded. RESULTS: Thirteen publications met the inclusion criteria, encompassing 25 patients across multiple global regions. Liver injury typically develops after weeks of use. Cholestatic or mixed biochemical phenotypes predominated, commonly presenting with jaundice and pruritus; purely hepatocellular injury was less frequent. When applied, causality assessments generally classified ashwagandha as a probable or likely cause. Most patients recovered following discontinuation and supportive care, usually over weeks to months. Severe outcomes included one case of acute liver failure requiring transplantation and three deaths among patients with pre-existing cirrhosis who developed decompensation. CONCLUSIONS: The published literature supports the existence of a reproducible clinical syndrome of idiosyncratic, frequently cholestatic, ashwagandha-associated liver injury. Routine assessment of herbal supplement exposure is warranted in unexplained hepatitis or cholestasis, and patients with advanced chronic liver disease should be counseled to avoid ashwagandha. These findings suggest improved supplement traceability and strengthened pharmacovigilance to mitigate herbal-induced liver injury.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Ashwagandha (Withania somnifera)-Associated Liver Injury: A Scoping Review of Clinical Characteristics and Safety Considerations",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3454",
@@ -465,6 +499,80 @@
    ]
   },
   {
+   "ref_id": "REF-3863",
+   "key": "alsanie2026ashwagandhamentalhealthma",
+   "type": "article",
+   "title": "Effects of ashwagandha (Withania somnifera) on mental health in adults: A systematic review and dose-response meta-analysis of randomized controlled trials",
+   "authors": "Alsanie, S.A., Alhodieb, F.S. and Askarpour, M.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2026",
+   "doi": "10.1016/j.ctim.2026.103325",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2026.103325",
+   "link_type": "doi",
+   "citation": "Alsanie, S.A., Alhodieb, F.S. and Askarpour, M (2026) 'Effects of ashwagandha (Withania somnifera) on mental health in adults: A systematic review and dose-response meta-analysis of randomized controlled trials', Complementary Therapies in Medicine, 97, pp. 103325. doi:10.1016/j.ctim.2026.103325",
+   "abstract": "BACKGROUND: Ashwagandha (Withania somnifera), as an important herbal medicine, has been increasingly recognized for its role in mental health management, particularly in reducing stress and anxiety, and reflects the growing relevance of complementary and alternative medicine in addressing psychological well-being. The present study aims to investigate its effectiveness by pooling the evidence from existing randomized controlled trials (RCTs). METHODS: Major medical databases of PubMed, Scopus, and Web of Science Core Collection were searched. Eligible studies were included. Meta-analysis, meta-regression, non-linear dose-response analysis, and subgroup analyses were conducted. Standardized mean differences (SMDs) were calculated. P-values < 0.05 were considered as statistically significant. The study protocol was registered in the PROSPERO database (CRD420251073134). RESULTS: Twenty-two studies met the eligibility criteria and were included. Meta-analysis revealed that supplementation with ashwagandha significantly improves stress (SMD = -5.88; 95 % CI: -8.15 to -3.60), depression (SMD = -5.68; 95 % CI: -8.43 to -2.94), and anxiety (SMD = -6.87; 95 % CI: -8.77 to -4.97). There was significant linear (coefficient = 0.005, P = 0.031) and non-linear (P-nonlinearity = 0.005) association between dosages of administered ashwagandha and stress levels. CONCLUSION: Current evidence suggests that ashwagandha supplementation holds promising potential in alleviating symptoms of stress, anxiety, and depression. However, to strengthen these findings and translate them into clinical recommendations, well-designed, high-quality trials are still needed to address existing heterogeneity and to establish the most effective dosages and intervention durations.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of ashwagandha (Withania somnifera) on mental health in adults: A systematic review and dose-response meta-analysis of randomized controlled trials",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Anxiety",
+    "Low mood / depression"
+   ]
+  },
+  {
+   "ref_id": "REF-3860",
+   "key": "zhu2026ashwagandhacognitionma",
+   "type": "article",
+   "title": "Effects of Withania somnifera (L.) Dunal (Ashwagandha) on cognitive and physical function in adults: a systematic review and meta-analysis",
+   "authors": "Zhu, X., Zeng, Q., Lei, Y. and Xu, D.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2026",
+   "doi": "10.3389/fphar.2026.1799467",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2026.1799467",
+   "link_type": "doi",
+   "citation": "Zhu, X., Zeng, Q., Lei, Y. and Xu, D (2026) 'Effects of Withania somnifera (L.) Dunal (Ashwagandha) on cognitive and physical function in adults: a systematic review and meta-analysis', Frontiers in Pharmacology, 17, pp. 1799467. doi:10.3389/fphar.2026.1799467",
+   "abstract": "BACKGROUND: This study aimed to systematically review and evaluate the effects of Withania somnifera (L.) Dunal (Solanaceae) supplementation on cognitive and physical function in adults by meta-analysis. METHODS: Following PRISMA guidelines, we searched PubMed, Web of Science, Cochrane Library, and Embase from inception to 1 February 2026. Ramdom control trials were included to evaluate the effects of Ashwagandha on cognitive function, musclestrength, testosterone, body weight, and body fat percentage by meta-analysis using Stata 14. A random-effects model was used to calculate standardized mean differences (SMD) with 95% confidence intervals. To assess the heterogeneity, sensitivity analyses and subgroup analyses were conducted. Methodological quality and risk of bias were assessed with RoB 2, evidence certainty for each outcome was evaluated with GRADE system, and botanical reporting was assessed with the ConPhyMP checklist. RESULTS: Twenty studies with 1,249 participants were included. Ashwagandha significantly improved memory (SMD = 0.52; 95% CI: 0.27-0.78; P < 0.001; I2 = 29.7%), attention and processing speed (SMD = 0.29; 95% CI: 0.07-0.51; P = 0.009; I2 = 0%), and executive function (SMD = -0.42; 95% CI: -0.70 to -0.13; P = 0.004; I2 = 37.5%). Visuospatial ability improved after excluding one heterogeneous study (SMD = 0.39; 95% CI: 0.08-0.70; P = 0.013; I2 = 0%). Only one study assessed global cognition and reported significant improvement. For physical outcomes, Ashwagandha increased testosterone (SMD = 0.33; 95% CI: 0.13-0.54; P = 0.001; I2 = 20.8%) and muscle strength (SMD = 0.58; 95% CI: 0.12-1.04; P = 0.013; I2 = 56.9%). Subgroup analysis showed significant muscle strength gains in physically active individuals (SMD = 1.03; 95% CI: 0.56-1.49; P < 0.001; I2 = 0%) but not in untrained or special populations. No significant effects were observed on body weight or body fat percentage. Sensitivity analyses confirmed robustness, and most studies were rated as high or moderate quality. CONCLUSION: Ashwagandha supplementation significantly improved several aspects of cognitive function (including global cognitive, memory, attention and processing speed, executive function, and visuospatial ability), as well as serum testosterone and muscle strength in adults, but did not affect body weight or body fat percentage. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261292996.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Withania somnifera (L.) Dunal (Ashwagandha) on cognitive and physical function in adults: a systematic review and meta-analysis",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cognitive function",
+    "Memory"
+   ]
+  },
+  {
    "ref_id": "REF-2400",
    "key": "curtis2026actaea",
    "type": "article",
@@ -598,6 +706,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3866",
+   "key": "karimi2026gingerbpma",
+   "type": "article",
+   "title": "Ginger Supplementation and Blood Pressure in Adults: A GRADE-Based Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials",
+   "authors": "Karimi, M., Asbaghi, O., Rafiei, H., Kazemi, K., Yazdizadeh, S., Radman, G., Hosseini, R., Hosseini, M.H., Sabet, M. and Goudarzi, M.A.",
+   "journal": "Journal of Human Nutrition and Dietetics",
+   "year": "2026",
+   "doi": "10.1111/jhn.70329",
+   "url": "",
+   "link": "https://doi.org/10.1111/jhn.70329",
+   "link_type": "doi",
+   "citation": "Karimi, M., Asbaghi, O., Rafiei, H., Kazemi, K., Yazdizadeh, S., Radman, G., Hosseini, R., Hosseini, M.H., Sabet, M. and Goudarzi, M.A (2026) 'Ginger Supplementation and Blood Pressure in Adults: A GRADE-Based Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials', Journal of Human Nutrition and Dietetics, 39(4), pp. e70329. doi:10.1111/jhn.70329",
+   "abstract": "BACKGROUND AND AIM: Ginger (Zingiber officinale L.) contains bioactive compounds with vasodilatory properties that may benefit blood pressure (BP) regulation. However, findings from studies remain inconsistent. This systematic review and meta-analysis aimed to evaluate the effect of ginger supplementation on BP in adults. METHODS: The literature was systematically searched in PubMed, Web of Science, and Scopus from database inception through May 1, 2026, to identify eligible randomized controlled trials (RCTs) evaluating systolic and diastolic blood pressure (SBP, DBP). Pooled effect estimates were calculated as weighted mean differences (WMDs) using a random-effects model. Subgroup and sensitivity analyses, publication bias assessments, and both linear and nonlinear dose-response analyses were conducted. The risk of bias was evaluated using the RoB 2 tool, and the certainty of the evidence was assessed according to the GRADE framework. RESULTS: Twelve unique RCTs contributed 13 effect sizes for SBP and 12 effect sizes for DBP. Ginger supplementation significantly reduced SBP (WMD: -5.03 mmHg, 95% CI: -8.49, -1.57; p = 0.004) and DBP (WMD: -2.03 mmHg, 95% CI: -3.90, -0.15; p = 0.034). Subgroup-specific reductions were observed in trials enrolling participants with elevated baseline BP, using doses ≥ 2000 mg/day, including both sexes, and enrolling participants with obesity. Nonlinear dose-response analyses confirmed a significant inverse association between ginger dose and BP, whereas intervention duration had no meaningful influence. Findings remained robust in sensitivity analyses, and no evidence of publication bias was detected. GRADE assessment rated the certainty of the evidence as low, downgraded only for inconsistency. CONCLUSION: Ginger supplementation was associated with modest reductions in BP, with potentially greater effects in higher-risk populations and at doses ≥ 2000 mg/day. However, substantial heterogeneity, short trial durations, and limited robustness of the DBP findings reduce confidence in these estimates. Further high-quality, long-term RCTs are needed before definitive clinical or dosing recommendations can be made.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Ginger Supplementation and Blood Pressure in Adults: A GRADE-Based Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health",
+    "High blood pressure"
+   ]
   },
   {
    "ref_id": "REF-3563",
@@ -855,6 +996,38 @@
    "actions": [],
    "conditions": [
     "Cancer (anticancer research)"
+   ]
+  },
+  {
+   "ref_id": "REF-3865",
+   "key": "chen2026gingert2dma",
+   "type": "article",
+   "title": "Meta-analysis of the effects of ginger supplementation on glycemic control, blood pressure and lipid profile in patients with type 2 diabetes",
+   "authors": "Chen, X., Cheng, S. and Zhang, D.",
+   "journal": "Systematic Reviews",
+   "year": "2026",
+   "doi": "10.1186/s13643-026-03251-5",
+   "url": "",
+   "link": "https://doi.org/10.1186/s13643-026-03251-5",
+   "link_type": "doi",
+   "citation": "Chen, X., Cheng, S. and Zhang, D (2026) 'Meta-analysis of the effects of ginger supplementation on glycemic control, blood pressure and lipid profile in patients with type 2 diabetes', Systematic Reviews, 15(1). doi:10.1186/s13643-026-03251-5",
+   "abstract": "BACKGROUND: Ginger has shown promising effects on metabolism in preclinical and clinical studies. This updated and comprehensive meta-analysis aimed to investigate the effects of ginger on the cardiometabolic profile of patients with type 2 diabetes. METHODS: Scopus, PubMed, the Cochrane Library, and Web of Science were searched from the inception to July 2, 2025, to find randomized controlled trials that compared the effects of ginger with placebo on glycemic indexes, blood pressure, and lipid profile among those with type 2 diabetes. A random-effects model (DerSimonian-Laird) was employed to pool data because of high heterogeneity. RESULTS: In total, 13 articles were included in this meta-analysis. Ginger supplementation was associated with a statistically significant reduction in fasting blood sugar (FBS) (MD -16.27 mg/dl, 95% CI (-25.75, -6.80), I2 = 86.39%), hemoglobin A1c (HbA1c) (MD -0.41%, 95% CI (-0.63, -0.20), I2 = 92.09%) systolic blood pressure (MD -1.62, 95% CI (-3.01, -0.24), I2 = 6.09%), and triglyceride level (MD -17.10 mg/dL, 95% CI (-31.13, -3.07), I2 = 81.61%); however, the magnitude of these effects was of limited clinical importance. A statistically significant increase in high-density lipoprotein cholesterol (HDL-C) level (MD 2.13 mg/dL, 95% CI (0.44, 3.82), I2 = 85.72%) was also observed. However, treatment with ginger did not significantly change homeostasis model assessment for insulin resistance (HOMAIR), diastolic blood pressure, total cholesterol, low-density lipoprotein cholesterol (LDL-C), and body mass index (BMI). CONCLUSION: This meta-analysis indicated that ginger may probably improve the metabolic indices of patients with type 2 diabetes.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Meta-analysis of the effects of ginger supplementation on glycemic control, blood pressure and lipid profile in patients with type 2 diabetes",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
    ]
   },
   {
@@ -1855,6 +2028,38 @@
    ]
   },
   {
+   "ref_id": "REF-3875",
+   "key": "rjabi2025gingerinflammationma",
+   "type": "article",
+   "title": "Antioxidant and anti-inflammatory effects of ginger supplementation in adults: a GRADE-assessed systematic review and dose-response meta-analysis of randomised controlled trials",
+   "authors": "Rjabi, S., Barbarz, H., Makhtoomi, M., Ahmadi, M.R., Najafi, H.Z., Talakesh, S., Nouri, M. and Askarpour, M.",
+   "journal": "Inflammopharmacology",
+   "year": "2025",
+   "doi": "10.1007/s10787-025-01994-6",
+   "url": "",
+   "link": "https://doi.org/10.1007/s10787-025-01994-6",
+   "link_type": "doi",
+   "citation": "Rjabi, S., Barbarz, H., Makhtoomi, M., Ahmadi, M.R., Najafi, H.Z., Talakesh, S., Nouri, M. and Askarpour, M (2025) 'Antioxidant and anti-inflammatory effects of ginger supplementation in adults: a GRADE-assessed systematic review and dose-response meta-analysis of randomised controlled trials', Inflammopharmacology, 33(12), pp. 7197--7216. doi:10.1007/s10787-025-01994-6",
+   "abstract": "BACKGROUND: Disturbance of inflammatory/oxidative status of the body is an important player in chronic disease pathophysiology. Ginger (Zingiber officinale Roscoe, Zingiberaceae) supplementation has been vastly investigated in this regard. The present dose-response meta-analysis is aimed at summing up the findings of existing literature. METHODS: Online databases of PubMed, Scopus, Web of Science Core Collection, and Google Scholar were searched for eligible randomised controlled trials (RCTs) on ginger supplementation. Outcome variables included: C-reactive protein (CRP), tumour necrosis factor α (TNF-α), interleukin-6 (IL-6), total antioxidant capacity (TAC), malondialdehyde (MDA), and superoxide dismutase (SOD). Findings were reported as weighted mean differences (WMDs). Subgroup analysis was conducted. Linear and non-linear associations between dosage/duration of intervention and the observed effects were assessed. Protocol registered in PROSPERO (CRD420251011148(. RESULTS: Twenty-nine RCTs were included. Our findings show that ginger supplementation improves all inflammation/anti-oxidant biomarkers, as follows: CRP (WMD = -0.86 mg/L; 95% CI = - 1.10, - 0.62), TNF-α (WMD = - 1.90 pg/mL; 95% CI = - 2.61, - 1.18), IL-6 (WMD = - 1.15 pg/mL; 95% CI = - 1.90, - 0.41), TAC (WMD = 0.22 mmol/L; 95% CI = 0.06, 0.38), MDA (WMD = - 0.76 mcmol/L; 95% CI = - 1.19, - 0.33), and SOD (WMD = 48.12 u/L; 95% CI = 30.57, 65.58). CONCLUSION: The effect of ginger on IL-6 seems to associate with the dosage and duration of intervention in a non-linear fashion. Ginger supplementation may improve inflammatory and antioxidant biomarkers, particularly in individuals with underlying health conditions. Given the high heterogeneity among studies, findings should be interpreted cautiously.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Antioxidant and anti-inflammatory effects of ginger supplementation in adults: a GRADE-assessed systematic review and dose-response meta-analysis of randomised controlled trials",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-3511",
    "key": "jafari2025artichokecardiometabolic",
    "type": "article",
@@ -2307,7 +2512,6 @@
    ],
    "conditions": [
     "Arthritis / joint pain",
-    "Inflammation (general)",
     "Pain (general)"
    ]
   },
@@ -2475,6 +2679,40 @@
    "conditions": [
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-3862",
+   "key": "albalawi2025ashwagandhacortisolma",
+   "type": "article",
+   "title": "Dual impact of Ashwagandha: Significant cortisol reduction but no effects on perceived stress - A systematic review and meta-analysis",
+   "authors": "Albalawi, A.A.",
+   "journal": "Nutrition and Health",
+   "year": "2025",
+   "doi": "10.1177/02601060251363647",
+   "url": "",
+   "link": "https://doi.org/10.1177/02601060251363647",
+   "link_type": "doi",
+   "citation": "Albalawi, A.A (2025) 'Dual impact of Ashwagandha: Significant cortisol reduction but no effects on perceived stress - A systematic review and meta-analysis', Nutrition and Health, 31(4), pp. 1395--1408. doi:10.1177/02601060251363647",
+   "abstract": "BackgroundThe global medicine market is projected to reach US$417 billion by 2033, reflecting rising demand for natural healthcare alternatives. Ashwagandha (Withania somnifera) is widely used in Ayurvedic medicine for stress management, but evidence supporting its efficacy remains inconsistent.AimThis systematic review and meta-analysis evaluated Ashwagandha's impact on cortisol levels (a biological stress marker) and perceived stress via Perceived Stress Scale (PSS) scores across randomized controlled trials (RCTs).MethodPRISMA guidelines were followed. Four databases (PubMed, CINAHL, Google Scholar, and Scopus) were searched for studies from January 2012 to February 2024, yielding seven studies on cortisol and six on perceived stress (n = 488 participants). Inclusion criteria were RCTs longer than or equal to two weeks, oral doses ≥250 mg/day, and reporting cortisol and PSS outcomes. The Cochrane Risk of Bias 2 tool was used to assess the risk of bias.ResultsThere was a statistically significant reduction in cortisol levels (-1.16 µg/dL, 95% CI: -1.64 to -0.69, P < 0.001). No significant impact was observed on perceived stress (SMD = -0.355, 95% CI: -1.188 to 0.47; P = 0.40). Heterogeneity was moderate (I2 = 50.9%). However, no statistically significant impact was observed on perceived stress (SMD = -0.355, 95% CI: -1.188 to 0.47; P-value = 0.40). The heterogeneity among studies was moderate (I2 = 50.9%). Risk of bias was generally moderate; most studies reported adequate randomization, but some lacked allocation concealment. No publication bias was detected.ConclusionFindings support Ashwagandha's role in lowering cortisol, but gaps remain regarding long-term safety, dosing, and effectiveness across diverse populations. The disconnect between cortisol and PSS outcomes highlights the need for longer treatment duration and broader demographic inclusion. Longitudinal research is recommended to validate Ashwagandha as a holistic stress management tool.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Dual impact of Ashwagandha: Significant cortisol reduction but no effects on perceived stress - A systematic review and meta-analysis",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3482",
@@ -2908,6 +3146,38 @@
    "actions": [],
    "conditions": [
     "Cold & flu"
+   ]
+  },
+  {
+   "ref_id": "REF-3867",
+   "key": "lin2025gingercinvma",
+   "type": "article",
+   "title": "Efficacy and Safety of Ginger on Chemotherapy-Induced Nausea and Vomiting: A Systematic Review and Meta-analysis of Randomized Controlled Trials",
+   "authors": "Lin, C.Y., Huang, S.H., Tam, K.W., Huang, T.W. and Gautama, M.S.N.",
+   "journal": "Cancer Nursing",
+   "year": "2025",
+   "doi": "10.1097/NCC.0000000000001355",
+   "url": "",
+   "link": "https://doi.org/10.1097/NCC.0000000000001355",
+   "link_type": "doi",
+   "citation": "Lin, C.Y., Huang, S.H., Tam, K.W., Huang, T.W. and Gautama, M.S.N (2025) 'Efficacy and Safety of Ginger on Chemotherapy-Induced Nausea and Vomiting: A Systematic Review and Meta-analysis of Randomized Controlled Trials', Cancer Nursing, 48(6), pp. 455--466. doi:10.1097/NCC.0000000000001355",
+   "abstract": "BACKGROUND: Chemotherapy-induced nausea and vomiting (CINV) is a prevalent and distressing side effect. Historically, ginger has been explored as a potential remedy for various ailments, including its potential efficacy against CINV. OBJECTIVE: The aim of this study was to determine whether taking ginger supplements can relieve CINV. METHOD: A comprehensive search was conducted across PubMed, EMBASE, Cochrane Library, and the Wanfang database. Randomized controlled trials meeting our inclusion criteria were analyzed. The primary outcomes were the incidence and severity of CINV. The protocol was registered on PROSPERO, and the number is CRD4202232104. RESULT: Of the 35 randomized controlled trials analyzed, 22 trials employed ginger capsules as the primary intervention, whereas 13 studies evaluated the prophylactic effects of ginger-partitioned moxibustion. The outcomes indicated that combining ginger capsules with standard antiemetic agents can significantly reduce the incidence of grade 3 acute nausea (Risk Ratio [RR], 0.19; P < .001) and the incidence of high-grade overall vomiting (RR, 0.47; P = .01). Moreover, ginger-partitioned moxibustion can significantly alleviate the incidence of both mild (RR, 0.56; P = .001) and severe (RR, 0.39; P < .00001) vomiting. Only 2.8% of patients experienced dizziness after ginger-partitioned moxibustion. CONCLUSIONS: Our findings indicate that ginger capsules, when used alongside antiemetic drugs, enhance the management of severe CINV, particularly in highly emetogenic chemotherapy regimens. IMPLICATIONS FOR PRACTICE: Based on our findings, we recommend initiating ginger supplements before chemotherapy, in conjunction with standard antiemetics, to reduce the severity of CINV. The promising results warrant more rigorous clinical trials to firmly establish the role of ginger in CINV management.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and Safety of Ginger on Chemotherapy-Induced Nausea and Vomiting: A Systematic Review and Meta-analysis of Randomized Controlled Trials",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Nausea"
    ]
   },
   {
@@ -8494,7 +8764,10 @@
    "actions": [
     "Sedative / sleep support"
    ],
-   "conditions": []
+   "conditions": [
+    "Anxiety",
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-1154",
@@ -8804,6 +9077,39 @@
    ]
   },
   {
+   "ref_id": "REF-3854",
+   "key": "karimi2024violetmenopausesleep",
+   "type": "article",
+   "title": "Effects of Viola odorata syrup on sleep quality in menopausal women: a randomized, triple-blind, controlled trial",
+   "authors": "Karimi, F.Z., Nazari, N., Lotfi, F., Mazloom, S.R., Yousefi, M. and Rakhshandeh, H.",
+   "journal": "Sleep & Breathing = Schlaf & Atmung",
+   "year": "2024",
+   "doi": "10.1007/s11325-023-02979-x",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11325-023-02979-x",
+   "link_type": "doi",
+   "citation": "Karimi, F.Z., Nazari, N., Lotfi, F., Mazloom, S.R., Yousefi, M. and Rakhshandeh, H (2024) 'Effects of Viola odorata syrup on sleep quality in menopausal women: a randomized, triple-blind, controlled trial', Sleep & Breathing = Schlaf & Atmung, 28(3), pp. 1137--1144. doi:10.1007/s11325-023-02979-x",
+   "abstract": "PURPOSE: The present study aimed to assess the effects of Viola odorata syrup on the sleep quality of postmenopausal women. METHODS: This triple-blinded randomized clinical trial was conducted on menopausal women presenting to the healthcare centers in Mashhad, Iran, in 2019. The participants were selected using simple random sampling. Participants received 5 ml syrup V. odorata or placebo twice a day for 1 month. Data were collected using the Pittsburgh Sleep Quality Index. The data were analyzed using SPSS version 25. RESULTS: The 118 eligible women enrolled in the study were divided into two groups of V. odorata syrup and placebo (n = 59 each). The analysis was conducted on only 84 menopausal women (42 in each group) due to exclusions. Exclusions consisted of 12 participants who withdrew from the study due to unwillingness to cooperate, 8 who had irregular consumption of the therapeutic syrup, 6 with inaccurate completion of the questionnaire, and 8 due to lack of accessibility. The two study groups were homogenous in terms of demographic characteristics. Before the intervention, no significant difference was observed in the mean PSQI score between the two groups (9.2 ± 2.9 vs. 8.4 ± 2.5) (P = 0.18). However, a significant difference was seen in the mean PSQI score between the two groups (4.9 ± 1.9 vs. 8.1 ± 2.1, P < 0.001) after the intervention. CONCLUSIONS: The findings of this study suggest that V. odorata syrup may be a useful therapeutic agent to improve the sleep quality of menopausal women. REGISTRATION CODE: IRCT20180514039660N1.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Viola odorata syrup on sleep quality in menopausal women: a randomized, triple-blind, controlled trial",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
+  },
+  {
    "ref_id": "REF-2251",
    "key": "pandit2024withania",
    "type": "article",
@@ -8837,7 +9143,9 @@
    "actions": [
     "Sedative / sleep support"
    ],
-   "conditions": []
+   "conditions": [
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-1906",
@@ -9658,6 +9966,38 @@
    "actions": [],
    "conditions": [
     "Cardiovascular / heart health"
+   ]
+  },
+  {
+   "ref_id": "REF-3868",
+   "key": "moshfeghinia2024gingerdysmenorrheama",
+   "type": "article",
+   "title": "Ginger for Pain Management in Primary Dysmenorrhea: A Systematic Review and Meta-Analysis",
+   "authors": "Moshfeghinia, R., Salmanpour, N., Ghoshouni, H., Gharedaghi, H., Zare, R., Cramer, H., Heydarirad, G. and Pasalar, M.",
+   "journal": "Journal of Integrative and Complementary Medicine",
+   "year": "2024",
+   "doi": "10.1089/jicm.2023.0799",
+   "url": "",
+   "link": "https://doi.org/10.1089/jicm.2023.0799",
+   "link_type": "doi",
+   "citation": "Moshfeghinia, R., Salmanpour, N., Ghoshouni, H., Gharedaghi, H., Zare, R., Cramer, H., Heydarirad, G. and Pasalar, M (2024) 'Ginger for Pain Management in Primary Dysmenorrhea: A Systematic Review and Meta-Analysis', Journal of Integrative and Complementary Medicine, 30(11), pp. 1016--1030. doi:10.1089/jicm.2023.0799",
+   "abstract": "Background: Primary dysmenorrhea is a common gynecological disorder that affects many women of reproductive age. Ginger, a widely used spice with anti-inflammatory properties, has been suggested as a potential treatment for the painful cramps associated with this condition. Objective: The aim of this systematic review and meta-analysis was to evaluate the efficacy of ginger for pain management in primary dysmenorrhea. Methods: Our systematic review was registered in Prospero (CRD42023418001). Six English (PubMed, Scopus, Web of Science, PsycINFO, CINAHL complete, and Cochrane) and one Persian electric database (SID) was searched up to May 2023 for English or Persian studies that measure the effect of ginger on pain in dysmenorrhea. The Cochrane tool was used to assess the risk of bias of the included studies. Random effects meta-analyses were performed to obtain standardized mean differences (SMD) and 95% confidence intervals (CI). Results: Out of the 804 articles initially identified from the search, 24 were included for qualitative analysis and 12 for quantitative analysis after a full-text evaluation. The combined results of the studies indicate that ginger is notably more effective than placebo in reducing both the intensity (SMD = -1.13; 95% CI = -1.59 to -0.68, I2 = 81.05%) and duration of pain (SMD = -0.29; 95% CI = -0.46 to -0.12). There were no differences between ginger and nonsteroidal anti-inflammatory drugs (NSAIDs) (SMD = 0.01; 95% CI = -0.24 to 0.25), or exercise (SMD = 0.06; 95% CI = -0.66 to 0.78) for pain intensity. Safety-related data were infrequently reported. Conclusions: The results of this meta-analysis suggest that ginger can effectively reduce pain associated with dysmenorrhea. The findings are limited due to risk of bias in the included studies and the unclear risk-benefit ratio.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Ginger for Pain Management in Primary Dysmenorrhea: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Menstrual cramps"
    ]
   },
   {
@@ -13307,11 +13647,7 @@
     "Vitex agnus-castus"
    ],
    "actions": [],
-   "conditions": [
-    "Menstrual cramps",
-    "PMS / premenstrual syndrome",
-    "Pain (general)"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2609",
@@ -15363,9 +15699,7 @@
     "Viola tricolor"
    ],
    "actions": [],
-   "conditions": [
-    "Eczema"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2131",
@@ -16498,9 +16832,7 @@
    "actions": [
     "Digestive aid"
    ],
-   "conditions": [
-    "Indigestion"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-3817",
@@ -17452,11 +17784,7 @@
     "Anti-inflammatory",
     "Immunomodulator / immune support"
    ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Eczema",
-    "Psoriasis"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2322",
@@ -21620,7 +21948,7 @@
    "link_type": "doi",
    "citation": "Puglia, L.T., Lowry, J. and Tamagno, G (2023) 'Vitex agnus castus effects on hyperprolactinaemia', Frontiers in Endocrinology. doi:10.3389/fendo.2023.1269781",
    "abstract": "Background Vitex agnus castus (VAC), also known as chaste tree, is a plant from the Mediterranean area, Crimea, and central Asia. Its fruit has been used for more than 2500 years as phytotherapic agent. In the last century, VAC has been mostly used for the treatment of premenstrual syndrome (PMS), menstrual irregularities, fertility disorders, and symptoms of menopause. Since some degree of hyperprolactinaemia may be observed in patients with such disorders, VAC effects on hyperprolactinaemia have been assessed in a small number of studies and in some patient series or single case reports. It has been postulated that the diterpenes contained in VAC extract may interact with dopamine D2 receptors (D2R) and inhibit prolactin release via dopamine D2R activation in the anterior pituitary. Most of the published papers focus on the use of VAC for the management of PMS or infertility. However, due to its action on D2R, VAC could have a role in the treatment of mild hyperprolactinaemia, including patients with idiopathic hyperprolactinaemia, microprolactinoma, drug-induced hyperprolactinaemia, or polycystic ovary syndrome. Methods We have reviewed and analysed the data from the literature concerning the use of VAC extracts in patients with hyperprolactinaemia. Results Some evidence suggests a possible role of VAC for the management of hyperprolactinaemia in selected patients, though in an inhomogeneous way. However, there are not any large randomized controlled trials supporting the same and the precise pharmacological aspects of VAC extract in such a clinical setting still remain obscure. Conclusion It appears that VAC may represent a potentially useful and safe phytotherapic option for the management of selected patients with mild hyperprolactinaemia who wish to be treated with phytotherapy. However, larger studies of high quality are needed to corroborate it.",
-   "tier": "rct",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -21635,9 +21963,7 @@
     "Vitex agnus-castus"
    ],
    "actions": [],
-   "conditions": [
-    "PMS / premenstrual syndrome"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2408",
@@ -24043,6 +24369,43 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3861",
+   "key": "akhgarjand2022ashwagandhaanxietystressma",
+   "type": "article",
+   "title": "Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Akhgarjand, C., Asoudeh, F., Bagheri, A., Kalantar, Z., Vahabi, Z., Shab-Bidar, S., Rezvani, H. and Djafarian, K.",
+   "journal": "Phytotherapy Research",
+   "year": "2022",
+   "doi": "10.1002/ptr.7598",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7598",
+   "link_type": "doi",
+   "citation": "Akhgarjand, C., Asoudeh, F., Bagheri, A., Kalantar, Z., Vahabi, Z., Shab-Bidar, S., Rezvani, H. and Djafarian, K (2022) 'Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta-analysis of randomized controlled trials', Phytotherapy Research, 36(11), pp. 4115--4124. doi:10.1002/ptr.7598",
+   "abstract": "Clinical trial studies revealed conflicting results on the effect of Ashwagandha extract on anxiety and stress. Therefore, we aimed to evaluate the effect of Ashwagandha supplementation on anxiety as well as stress. A systematic search was performed in PubMed/Medline, Scopus, and Google Scholar from inception until December 2021. We included randomized clinical trials (RCTs) that investigate the effect of Ashwagandha extract on anxiety and stress. The overall effect size was pooled by random-effects model and the standardized mean difference (SMD) and 95% confidence interval (CIs) for outcomes were applied. Overall, 12 eligible papers with a total sample size of 1,002 participants and age range between 25 and 48 years were included in the current systematic review and meta-analysis. We found that Ashwagandha supplementation significantly reduced anxiety (SMD: -1.55, 95% CI: -2.37, -0.74; p = .005; I2 = 93.8%) and stress level (SMD: -1.75; 95% CI: -2.29, -1.22; p = .005; I2 = 83.1%) compared to the placebo. Additionally, the non-linear dose-response analysis indicated a favorable effect of Ashwagandha supplementation on anxiety until 12,000 mg/d and stress at dose of 300-600 mg/d. Finally, we identified that the certainty of the evidence was low for both outcomes. The current systematic review and dose-response meta-analysis of RCTs revealed a beneficial effect in both stress and anxiety following Ashwagandha supplementation. However, further high-quality studies are needed to firmly establish the clinical efficacy of the plant.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Anxiety",
+    "Stress"
+   ]
+  },
+  {
    "ref_id": "REF-2012",
    "key": "burlounagy2022echinacea",
    "type": "article",
@@ -24622,6 +24985,8 @@
     "Expectorant"
    ],
    "conditions": [
+    "Cough",
+    "Headache",
     "Respiratory support"
    ]
   },
@@ -29335,6 +29700,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3853",
+   "key": "huang2022violetinsomniama",
+   "type": "article",
+   "title": "The Efficacy of V. odorata Extract in the Treatment of Insomnia: A Systematic Review and Meta-Analysis",
+   "authors": "Huang, S., Huang, Q., Zhou, Z., Zhang, J., Zhan, Y. and Liang, Z.",
+   "journal": "Frontiers in Neurology",
+   "year": "2022",
+   "doi": "10.3389/fneur.2022.730311",
+   "url": "",
+   "link": "https://doi.org/10.3389/fneur.2022.730311",
+   "link_type": "doi",
+   "citation": "Huang, S., Huang, Q., Zhou, Z., Zhang, J., Zhan, Y. and Liang, Z (2022) 'The Efficacy of V. odorata Extract in the Treatment of Insomnia: A Systematic Review and Meta-Analysis', Frontiers in Neurology, 13, pp. 730311. doi:10.3389/fneur.2022.730311",
+   "abstract": "AIM: This systematic review and meta-analysis was performed to assess the effect of Viola odorata (V. odorata) extract in the treatment of insomnia. METHODS: PubMed, EMBASE, and Cochrane Library databases, as well as references of related articles, were searched. Finally, four articles with five clinical trials including 224 patients were included in the analysis. RESULTS: The obtained results indicated a greater improvement in total PSQI scores (MD,-4.67; P = 0.0002), subjective sleep quality score (MD,-0.91; P = 0.003), sleep duration score (MD,-0.77; P < 0.00001), and ISI score (MD,-6.30; P = 0.009) in the Viola extract group compared with the placebo group. However, the Viola extract group did not significantly differ in sleep latency (MD,-0.85; P = 0.08), habitual sleep efficiency (MD,-0.61; P = 0.21), sleep disturbances (MD,-0.36; P = 0.11), and daytime dysfunction (MD,-0.94; P = 0.12) from the placebo group. CONCLUSIONS: Viola extract supplement led to a greater improvement in total PSQI scores, subjective sleep quality score, sleep duration score, and ISI score compared with the placebo group of patients with chronic insomnia.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The Efficacy of V. odorata Extract in the Treatment of Insomnia: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
+  },
+  {
    "ref_id": "REF-1832",
    "key": "gxaba2022devilsclaw",
    "type": "article",
@@ -32812,7 +33210,9 @@
    "actions": [
     "Sedative / sleep support"
    ],
-   "conditions": []
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
   },
   {
    "ref_id": "REF-3690",
@@ -34418,7 +34818,7 @@
    "link_type": "doi",
    "citation": "Gok, B., Tarik Atik, Y., Uysal, B., Koc, E. and others (2021) 'Gilaburu extract (Viburnum opulus Linnaeus) is as effective as Tamsulosin in medical expulsive therapy of distal ureteral calculi', International Journal of Clinical Practice, 75(12), pp. e14950. doi:10.1111/ijcp.14950",
    "abstract": "Background To compare the extract of Gilaburu (Viburnum opulus Linnaeus) and Tamsulosin as a medical expulsive therapy (MET) in patients with distal ureteral calculi of 10 mm or less. Methods Data of 86 patients were prospectively collected. The patients were divided into two groups. In the first group, Viburnum opulus 1000 mg peroral 3 × 2 and diclofenac 50 mg peroral on-demand (n = 43), in the second group Tamsulosin 0.4 mg peroral 1 × 1 and diclofenac 50 mg peroral on-demand (n = 43) was given for MET in patients with distal ureteral calculi. Stone expulsion rates, time until expulsion, additional analgesic requirement, need for emergency admission, need for additional treatment were evaluated. In addition, subgroup analyses of ≤5 and 5-10 mm were also performed. Results There was no difference between the groups in terms of stone expulsion rates and time until the expulsion in all stones. Additional analgesic requirement and need for emergency admission were found to be lower in the Viburnum opulus group (37.2% vs 65.1%, P = .017 and 11.6% vs 34.8%, P = .02, respectively). In subgroup analyses, while stone expulsion rates were similar in subgroups, it was found shorter in the time until expulsion, lower additional analgesic requirement and need for emergency admission in V. opulus group than Tamsulosin group in 5-10 mm stone size subgroup (7.1 ± 4.2 vs 11.8 ± 5.2, P = .005, 32.2% vs 77.7%, P = .001 and 12.9% vs 40.7%, respectively). Conclusion V. opulus can be used effectively and safely for the treatment of MET in distal ureteral calculi.",
-   "tier": "clinical",
+   "tier": "rct",
    "corpus": [
     "clinical"
    ],
@@ -34432,9 +34832,7 @@
    "scientific": [
     "Viburnum opulus"
    ],
-   "actions": [
-    "Analgesic (pain relief)"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -36363,9 +36761,7 @@
    "scientific": [
     "Viola odorata"
    ],
-   "actions": [
-    "Sedative / sleep support"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -38621,6 +39017,39 @@
    ]
   },
   {
+   "ref_id": "REF-3869",
+   "key": "chen2021gingermigrainema",
+   "type": "article",
+   "title": "The efficacy of ginger for the treatment of migraine: A meta-analysis of randomized controlled studies",
+   "authors": "Chen, L. and Cai, Z.",
+   "journal": "The American Journal of Emergency Medicine",
+   "year": "2021",
+   "doi": "10.1016/j.ajem.2020.11.030",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ajem.2020.11.030",
+   "link_type": "doi",
+   "citation": "Chen, L. and Cai, Z (2021) 'The efficacy of ginger for the treatment of migraine: A meta-analysis of randomized controlled studies', The American Journal of Emergency Medicine, 46, pp. 567--571. doi:10.1016/j.ajem.2020.11.030",
+   "abstract": "INTRODUCTION: The efficacy of ginger for migraine remains controversial. We conduct a systematic review and meta-analysis to explore the influence of ginger versus placebo on treatment in migraine patients. METHODS: We have searched PubMed, EMbase, Web of science, EBSCO, and Cochrane library databases through September 2020 for randomized controlled trials (RCTs) assessing the effect of ginger versus placebo on treatment efficacy in migraine patients. This meta-analysis is performed using the random-effect model. RESULTS: Three RCTs are included in the meta-analysis. Overall, compared with control group in migraine patients, ginger treatment is associated with substantially improved pain free at 2 h (RR = 1.79; 95% CI = 1.04-3.09; P = 0.04) and reduced pain scores at 2 h (MD = -1.27; 95% CI = -1.46 to -1.07; P < 0.00001), but reveals no obvious impact on treatment response (RR = 2.04; 95% CI = 0.35-11.94; P = 0.43) or total adverse events (RR = 0.80; 95% CI = 0.46-1.41; P = 0.44). The incidence of nausea and vomiting is obviously lower in ginger group than that in control group. CONCLUSIONS: Ginger is safe and effective in treating migraine patients with pain outcomes assessed at 2 h.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The efficacy of ginger for the treatment of migraine: A meta-analysis of randomized controlled studies",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Headache",
+    "Migraine"
+   ]
+  },
+  {
    "ref_id": "REF-0560",
    "key": "zhou2021nafld",
    "type": "article",
@@ -39261,6 +39690,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3872",
+   "key": "wilson2020gingerrunners",
+   "type": "article",
+   "title": "A Randomized Double-Blind Trial of Ginger Root for Reducing Muscle Soreness and Improving Physical Performance Recovery Among Experienced Recreational Distance Runners",
+   "authors": "Wilson, P.B.",
+   "journal": "Journal of Dietary Supplements",
+   "year": "2020",
+   "doi": "10.1080/19390211.2018.1492484",
+   "url": "",
+   "link": "https://doi.org/10.1080/19390211.2018.1492484",
+   "link_type": "doi",
+   "citation": "Wilson, P.B (2020) 'A Randomized Double-Blind Trial of Ginger Root for Reducing Muscle Soreness and Improving Physical Performance Recovery Among Experienced Recreational Distance Runners', Journal of Dietary Supplements, 17(2), pp. 121--132. doi:10.1080/19390211.2018.1492484",
+   "abstract": "Previous studies indicate that ginger root has pain-relieving properties, but these effects have not been thoroughly examined in the context of distance running. The purpose of this randomized, double-blind, placebo-controlled trial was to determine whether ginger root supplementation reduces muscle soreness and dysfunction from downhill running. Thirty-two runners (10 women, 22 men) were pair-matched and randomized to 1.425 g/day of ginger root or placebo for 5 days. A 40-minute downhill (-7.5%) run was completed on day 3. Before supplementation and at various points throughout a 5-day protocol, muscle soreness, pain-pressure threshold, vertical jump, and 1.5-mile run performance were evaluated. Differences between treatments were assessed using magnitude-based inferential statistics. Soreness while jogging likely increased to a lesser degree with ginger root from baseline to immediately postrun (Cohen's d = -0.69; 90% confidence limit [CL] [-1.50, 0.12]) and from baseline to day 5 (d = -0.72; 90% CL [-1.61, 0.16]). Ginger root had a possible small benefit on vertical jump from baseline to day 5 (d = 0.24; 90% CL [0.05, 0.44]) but likely no meaningful impact on 1.5-mile run performance. Trivial or unclear effects were found for most other outcomes. No significant differences in adverse events were observed between treatments. Ginger root possibly has moderate beneficial effects on running-induced soreness but likely irrelevant effects on recovery of physical performance. Ginger represents one option for runners looking to temporarily reduce pain, although more studies are warranted to clarify its safety profile and its effects on long-term training adaptation.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A Randomized Double-Blind Trial of Ginger Root for Reducing Muscle Soreness and Improving Physical Performance Recovery Among Experienced Recreational Distance Runners",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Muscle soreness"
+   ]
   },
   {
    "ref_id": "REF-0911",
@@ -41406,6 +41867,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3870",
+   "key": "martins2020gingermigraineprophylaxis",
+   "type": "article",
+   "title": "Double-blind placebo-controlled randomized clinical trial of ginger (Zingiber officinale Rosc.) in the prophylactic treatment of migraine",
+   "authors": "Martins, L.B., Rodrigues, A.M.D.S., Monteze, N.M., Tibaes, J.R.B., Amaral, M.H.A., Gomez, R.S., Teixeira, A.L. and Ferreira, A.V.M.",
+   "journal": "Cephalalgia",
+   "year": "2020",
+   "doi": "10.1177/0333102419869319",
+   "url": "",
+   "link": "https://doi.org/10.1177/0333102419869319",
+   "link_type": "doi",
+   "citation": "Martins, L.B., Rodrigues, A.M.D.S., Monteze, N.M., Tibaes, J.R.B., Amaral, M.H.A., Gomez, R.S., Teixeira, A.L. and Ferreira, A.V.M (2020) 'Double-blind placebo-controlled randomized clinical trial of ginger (Zingiber officinale Rosc.) in the prophylactic treatment of migraine', Cephalalgia, 40(1), pp. 88--95. doi:10.1177/0333102419869319",
+   "abstract": "BACKGROUND: Previous studies have shown an analgesic effect of ginger in the acute treatment of migraine, and there is anecdotal evidence of its efficacy in migraine prophylaxis. OBJECTIVE: This study aimed to evaluate the potential of ginger to prevent migraine attacks. METHODS: This double-blind, placebo-controlled randomized clinical trial took place at the Headache Clinic, Universidade Federal de Minas Gerais (Belo Horizonte, Minas Gerais, Brazil), involving 107 patients. Only subjects diagnosed with episodic migraine, aged between 18 and 60 years old, and who were not taking any prophylactic medication, were enrolled in the study. After one month of observation, subjects selected for the study were randomized 1:1 into placebo and treatment groups. Patients received capsules three times per day of 200 mg of dry extract of ginger (5% active ingredient) or placebo (cellulose) for three months. Visits were performed monthly and the patients were asked to fill in a migraine diary. The adherence to treatment was evaluated by counting capsules. RESULTS: The percentage of patients who responded to treatment (i.e. a reduction of 50% in the number of migraine attacks at the end of treatment) did not differ between the groups. There was a decrease in the number of days with severe pain, analgesic use for acute migraine and duration of migraine attacks in both groups, without significant difference between ginger and placebo groups. CONCLUSIONS: Ginger provides no greater benefit in the prophylactic treatment of migraine when compared to placebo. This trial is registered at ClinicalTrials.gov (NCT02570633).",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Double-blind placebo-controlled randomized clinical trial of ginger (Zingiber officinale Rosc.) in the prophylactic treatment of migraine",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2931",
    "key": "akbaribazm2020doxorubicin",
    "type": "article",
@@ -41703,7 +42194,6 @@
     "Digestive aid"
    ],
    "conditions": [
-    "Indigestion",
     "Nausea"
    ]
   },
@@ -41935,6 +42425,36 @@
     "Arthritis / joint pain",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-3874",
+   "key": "arayaquintanilla2020gingerkneeoama2020",
+   "type": "article",
+   "title": "Effectiveness of Ginger on Pain and Function in Knee Osteoarthritis: A PRISMA Systematic Review and Meta-Analysis",
+   "authors": "Araya-Quintanilla, F., Gutierrez-Espinoza, H., Munoz-Yanez, M.J., Sanchez-Montoya, U. and Lopez-Jeldes, J.",
+   "journal": "Pain Physician",
+   "year": "2020",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Effectiveness%20of%20Ginger%20on%20Pain%20and%20Function%20in%20Knee%20Osteoarthritis%3A%20A%20PRISMA%20Systematic%20Review%20and%20Meta-Analysis",
+   "link_type": "search",
+   "citation": "Araya-Quintanilla, F., Gutierrez-Espinoza, H., Munoz-Yanez, M.J., Sanchez-Montoya, U. and Lopez-Jeldes, J (2020) 'Effectiveness of Ginger on Pain and Function in Knee Osteoarthritis: A PRISMA Systematic Review and Meta-Analysis', Pain Physician, 23(2), pp. E151--E161.",
+   "abstract": "BACKGROUND: Ginger has been proposed as a complementary treatment for musculoskeletal pain. However, efficacy, type, and safety remains unclear. OBJECTIVES: To determine the effectiveness of consumption or topical application of ginger for pain relief and knee function improvement in patients with knee osteoarthritis. STUDY DESIGN: Systematic review with meta-analysis of randomized clinical trials. METHODS: An electronic search was performed on Medline, Central, CINAHL, PEDro, SPORTDiscus, and LILACS databases. The eligibility criteria for selecting studies included clinical trials that compared consumption and/or topical ginger with placebo or other interventions for the pain relief and knee function in patients with medical diagnosis of knee osteoarthritis. RESULTS: Seven clinical trials met the eligibility criteria, and for the quantitative synthesis, 4 studies were included. For the comparison capsules versus placebo, mean difference for pain was -7.88 mm; 95% confidence interval (CI), 11.92 to 3.85 (P = 0.00), and standard mean difference for knee function was -1.61 points; 95% CI, -4.30 to -1.09 (P = 0.24). For the comparison of topical ginger versus standard treatment, standard mean difference for pain was 0.79 mm; 95% CI, -1.97 to 0.39 (P = 0.19), and standard mean difference for knee function was -0.51 points; 95% CI, -1.15 to 0.13 (P = 0.12). LIMITATIONS: The current evidence is heterogeneous and has a poor methodologic quality. CONCLUSIONS: There is insufficient evidence to support the use of oral ginger compared with placebo in the pain relief and function improvement in patients with knee osteoarthritis. For other comparisons, no statistically significant differences were found. KEY WORDS: Osteoarthritis, knee osteoarthritis, ginger, pain, randomized clinical trial, systematic review.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effectiveness of Ginger on Pain and Function in Knee Osteoarthritis: A PRISMA Systematic Review and Meta-Analysis",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1523",
@@ -45365,7 +45885,7 @@
    "link_type": "doi",
    "citation": "Singh, N., Yadav, S.S., Rao, A.S., Nandal, A., Kumar, S., Ganaie, S.A. and Narasihman, B (2020) 'Review on anticancerous therapeutic potential of Withania somnifera (L.) Dunal', Journal of Ethnopharmacology, 270, pp. 113704. doi:10.1016/j.jep.2020.113704",
    "abstract": "Ethnopharmacological relevance Withania somnifera, commonly known as Ashwagandha, is an important medicinal herb belonging to family Solanaceae. It is widely used in folkloric and Ayurvedic medicines since antiquity. Traditionally, the plant is highly practiced throughout the globe as immunomodulator, anti-inflammatory, anti-stress, anti-parkinson, anti-alzheimer, cardio protective, neural and physical health enhancer, neurodefensive, anti-diabetic, aphrodisiac, memory boosting etc. The plant is also effective in combating various types of cancer and other related problems of colon, mammary, lung, prostate, skin, blood, liver and kidney. Aim of this review The present review represents the critical assessment of the literature available on the anticancerous role of W. somnifera. The present study throws light on its diverse chemical compounds and the possible mechanisms of action involved. This review also suggests further research strategies to harness the therapeutic potential of this plant. Materials and methods The present review is the outcome of a systematic search of scientific literature about 'Withania somnifera and its role in cancer prevention'. The scientific databases viz. Google Scholar, Science Direct, Pubmed and Web of Science were searched from 2001 to 2019. Textbooks, magazines and newspapers were also consulted. This review summarizes all the published literature about its therapeutic potential for the treatment of different types of cancers. Results W. somnifera has been widely used in traditional and ayurvedic medicines for treatment of numerous problems related to health and vitality. The plant is a reservoir of diverse phytoconstituents like alkaloids, steroids, flavonoids, phenolics, nitrogen containing compounds and trace elements. Withanolides are the major alkaloids which renders its anticancer potential due to its highly oxygenated nature. The plant is highly effective in combating various types of cancers viz. colon, mammary, lung, prostate, skin, blood, liver and kidney. Previous studies depict that this plant is more effective against breast cancer followed by colon, lung, prostate and blood cancer. Furthermore, from different clinical studies it has been observed that the active constituents of the plant like withaferin-A, withanolide-D have least toxic effects. Conclusion The present review confirms the various medicinal values of W. somnifera without any significant side effects. Withaferin-A (WA) and Withanolides are its most promising anticancer compounds that play a major role in apoptosis induction. Keeping in mind the anticancerous potential of this plant, it is suggested that this plant may further be investigated and more clinical studies can be performed.",
-   "tier": "review",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -46454,10 +46974,10 @@
    "scientific": [
     "Viola odorata"
    ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": []
+   "actions": [],
+   "conditions": [
+    "Fever"
+   ]
   },
   {
    "ref_id": "REF-3496",
@@ -47248,7 +47768,7 @@
    "link_type": "doi",
    "citation": "Kajszczak, D., Zaklos-Szyda, M. and Podsedek, A (2020) 'Viburnum opulus L. - A Review of Phytochemistry and Biological Effects', Nutrients, 12(11). doi:10.3390/nu12113398",
    "abstract": "Viburnum opulus (VO) is a valuable decorative, medicinal, and food plant. This deciduous shrub is found in natural habitats in Europe, Russia, and some regions in North Africa and North Asia. The VO is traditionally used to treat aliments such as cough, colds, tuberculosis, rheumatic aches, ulcers, stomach, and kidney problems, among others. Many of the health-promoting properties of VO are associated with antioxidant activity, which has been demonstrated in both in vitro and in vivo studies. The results of in vitro studies show the antimicrobial potential of VO, especially against Gram-positive bacteria. In cell-based studies, VO demonstrated anti-inflammatory, anti-obesity, anti-diabetic, osteogenic, cardio-protective, and cytoprotective properties. The applicability of VO in the treatment of urinary tract diseases, endometriosis, and some cancers has been confirmed in in vivo studies. The health benefits of VO result from the presence of bioactive components such as phenolic compounds, vitamin C, carotenoids, iridoids, and essential oils. The aim of this review is to present an overview of the botanical characteristics, chemical compositions, including bioactive compounds, and pro-health properties of VO different morphological parts.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -47265,9 +47785,7 @@
    "actions": [
     "Antispasmodic"
    ],
-   "conditions": [
-    "Menstrual cramps"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1135",
@@ -47898,7 +48416,9 @@
    "actions": [
     "Sedative / sleep support"
    ],
-   "conditions": []
+   "conditions": [
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-1527",
@@ -49266,14 +49786,10 @@
    "scientific": [
     "Zingiber officinale"
    ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Antispasmodic",
-    "Digestive aid"
-   ],
-   "conditions": []
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
   },
   {
    "ref_id": "REF-2735",
@@ -53074,9 +53590,7 @@
     "Vitex agnus-castus"
    ],
    "actions": [],
-   "conditions": [
-    "PMS / premenstrual syndrome"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1408",
@@ -60045,7 +60559,10 @@
    "actions": [
     "Neuroprotective / cognition support"
    ],
-   "conditions": []
+   "conditions": [
+    "Cognitive function",
+    "Memory"
+   ]
   },
   {
    "ref_id": "REF-0473",
@@ -62502,11 +63019,7 @@
    "scientific": [
     "Veronica officinalis"
    ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Expectorant"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -67344,9 +67857,7 @@
     "Viburnum opulus"
    ],
    "actions": [],
-   "conditions": [
-    "Menstrual cramps"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-2820",
@@ -67584,7 +68095,7 @@
    "link_type": "doi",
    "citation": "Kirichenko, T.V., Sobenin, I.A., Nikolic, D., Rizzo, M. and Orekhov, A.N (2015) 'Anti-cytokine therapy for prevention of atherosclerosis', Phytomedicine, 23(11), pp. 1198-1210. doi:10.1016/j.phymed.2015.12.002",
    "abstract": "Background Currently a chronic inflammation is considered to be the one of the most important reasons of the atherosclerosis progression. A huge amount of researches over the past few decades are devoted to study the various mechanisms of inflammation in the development of atherosclerotic lesions. Purpose To review current capabilities of anti-inflammatory therapy for the prevention and treatment of atherosclerosis and its clinical manifestations. Methods Appropriate articles on inflammatory cytokines in atherosclerosis and anti-inflammatory prevention of atherosclerosis were searched in PubMed Database from their respective inceptions until October 2015. Sections \"The role of inflammatory cytokines in the development of atherosclerotic lesions\" describes available data on the possible inflammatory mechanisms of the atherogenesis with a special attention to the role of cytokines. \"Modern experience of anti-inflammatory therapy for the treatment of atherosclerosis\" describes modern anti-inflammatory preparations with anti-atherosclerotic effect including natural preparations. In \"the development of anti-inflammatory herbal preparation for atherosclerosis prevention\" an algorithm is demonstrated that includes screening of anti-cytokine activity of different natural products, the development of the most effective combination and estimation of its effect in cell culture model, in animal model of the acute aseptic inflammation and in a pilot clinical trial. A natural preparation \"Inflaminat\" based on black elder berries (Sambucus nigra L.), violet tricolor herb (Viola tricolor L.) and calendula flowers (Calendula officinalis L.) possessing anti-cytokine activity was developed using the designed algorithm. The results of the following 2-year double blind placebo-controlled clinical study show that \"Inflaminat\" reduces carotid IMT progression, i.e. has anti-atherosclerotic effect. Conclusion Anti-cytokine therapy may be a promising direction in moderation of atherogenesis, especially when it begins on the early stages of subclinical atherosclerosis. The use of herbal preparations with anti-cytokine mechanism of action is the most perspective for timely prevention of atherosclerosis, as they have no significant side effects and can be prescribed for long-term administration.",
-   "tier": "clinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -67598,12 +68109,8 @@
    "scientific": [
     "Viola tricolor"
    ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": [
-    "Inflammation (general)"
-   ]
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1820",
@@ -68984,6 +69491,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3873",
+   "key": "bartels2015gingeroama2015",
+   "type": "article",
+   "title": "Efficacy and safety of ginger in osteoarthritis patients: a meta-analysis of randomized placebo-controlled trials",
+   "authors": "Bartels, E.M., Folmer, V.N., Bliddal, H., Altman, R.D., Juhl, C., Tarp, S., Zhang, W. and Christensen, R.",
+   "journal": "Osteoarthritis and Cartilage",
+   "year": "2015",
+   "doi": "10.1016/j.joca.2014.09.024",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.joca.2014.09.024",
+   "link_type": "doi",
+   "citation": "Bartels, E.M., Folmer, V.N., Bliddal, H., Altman, R.D., Juhl, C., Tarp, S., Zhang, W. and Christensen, R (2015) 'Efficacy and safety of ginger in osteoarthritis patients: a meta-analysis of randomized placebo-controlled trials', Osteoarthritis and Cartilage, 23(1), pp. 13--21. doi:10.1016/j.joca.2014.09.024",
+   "abstract": "The aim of this study was to assess the clinical efficacy and safety of oral ginger for symptomatic treatment of osteoarthritis (OA) by carrying out a systematic literature search followed by meta-analyses on selected studies. Inclusion criteria were randomized controlled trials (RCTs) comparing oral ginger treatment with placebo in OA patients aged >18 years. Outcomes were reduction in pain and reduction in disability. Harm was assessed as withdrawals due to adverse events. The efficacy effect size was estimated using Hedges' standardized mean difference (SMD), and safety by risk ratio (RR). Standard random-effects meta-analysis was used, and inconsistency was evaluated by the I-squared index (I(2)). Out of 122 retrieved references, 117 were discarded, leaving five trials (593 patients) for meta-analyses. The majority reported relevant randomization procedures and blinding, but an inadequate intention-to-treat (ITT) analysis. Following ginger intake, a statistically significant pain reduction SMD = -0.30 ([95% CI: [(-0.50, -0.09)], P = 0.005]) with a low degree of inconsistency among trials (I(2) = 27%), and a statistically significant reduction in disability SMD = -0.22 ([95% CI: ([-0.39, -0.04)]; P = 0.01; I(2) = 0%]) were seen, both in favor of ginger. Patients given ginger were more than twice as likely to discontinue treatment compared to placebo ([RR = 2.33; 95% CI: (1.04, 5.22)]; P = 0.04; I(2) = 0%]). Ginger was modestly efficacious and reasonably safe for treatment of OA. We judged the evidence to be of moderate quality, based on the small number of participants and inadequate ITT populations. Prospero: CRD42011001777.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and safety of ginger in osteoarthritis patients: a meta-analysis of randomized placebo-controlled trials",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
   },
   {
    "ref_id": "REF-2349",
@@ -71463,7 +72002,6 @@
    ],
    "conditions": [
     "Asthma",
-    "Bronchitis",
     "Cough",
     "Respiratory support"
    ]
@@ -71780,14 +72318,9 @@
     "Zingiber officinale"
    ],
    "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Antispasmodic",
     "Digestive aid"
    ],
    "conditions": [
-    "Indigestion",
     "Nausea"
    ]
   },
@@ -75666,7 +76199,7 @@
    "link_type": "url",
    "citation": "Mashhadi, N.S., Ghiasvand, R., Askari, G., Hariri, M., Darvishi, L. and Mofid, M.R (2013) 'Anti-oxidative and anti-inflammatory effects of ginger in health and physical activity: a review', pp. S36--S42. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC3665023/",
    "abstract": "",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -75687,11 +76220,7 @@
     "Digestive aid"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Back pain",
-    "Inflammation (general)",
-    "Pain (general)",
-    "Skin irritation"
+    "Inflammation (general)"
    ]
   },
   {
@@ -77284,7 +77813,7 @@
    "link_type": "doi",
    "citation": "Hellinger, R., Koehbach, J., Fedchuk, H., Sauer, B., Huber, R., Gruber, C.W. and Grundemann, C (2013) 'Immunosuppressive activity of an aqueous Viola tricolor herbal extract', Journal of Ethnopharmacology, pp. 2013. doi:10.1016/j.jep.2013.10.044",
    "abstract": "Ethnopharmacological relevance Heartsease (Viola tricolor L.), a member of the Violaceae family, has a long history as a medicinal plant and has been documented in the Pharmacopoeia of Europe. Due to its anti-inflammatory properties it is regarded as a traditional remedy against skin diseases, for example for the treatment of scabs, itching, ulcers, eczema or psoriasis, and it is also used in the treatment of inflammation of the lungs and chest such as bronchitis or asthma. Because T-cells play an important role in the pathological process of inflammatory diseases we investigated the effect of an aqueous Viola extract on lymphocyte functions and explored the 'active' principle of the extract using bioactivity-guided fractionation. Material and methods An aqueous Viola extract was prepared by C18 solid-phase extraction. Effects on proliferation of activated lymphocytes (using the cell membrane permeable fluorescein dye CFSE), apoptosis and necrosis (using annexin V and propidium iodide staining), interleukin-2 (IL-2) receptor expression (using fluorochrome-conjugated antibodies) and IL-2 cytokine secretion (using an ELISA-based bead array system) were measured by flow cytometry. Influence on lymphocyte polyfunctionality was characterized by Viola extract-induced production of IFN-γ and TNF-α, as well as its influence on lymphocyte degranulation activity. Fractionation and phytochemical analysis of the extract were performed by RP-HPLC and mass spectrometry. Results The aqueous Viola extract inhibited proliferation of activated lymphocytes by reducing IL-2 cytokine secretion without affecting IL-2 receptor expression. Similarly, effector functions were affected as indicated by the reduction of IFN-γ and TNF-α production; degranulation capacity of activated lymphocytes remained unaffected. Bioassay-guided fractionation and phytochemical analysis of the extract led to identification of circular plant peptides, so called cyclotides, as bioactive components. Conclusion An aqueous Viola extract contains bioactive cyclotides, which inhibit proliferation of activated lymphocytes in an IL-2 dependent manner. The findings provide a rationale for use of herbal Viola preparations in the therapy of disorders related to an overactive immune system. However, further studies to evaluate its clinical potency and potential risks have to be performed.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -77300,13 +77829,9 @@
    ],
    "actions": [
     "Anti-inflammatory",
-    "Demulcent (soothing mucilage)",
-    "Emollient / skin-soothing",
-    "Expectorant",
     "Immunomodulator / immune support"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Eczema",
     "Inflammation (general)",
     "Psoriasis",
@@ -78692,7 +79217,7 @@
    "link_type": "doi",
    "citation": "Rani, A. and Sharma, A (2013) 'The genus Vitex: A review', Pharmacognosy Reviews, 7(14), pp. 188-198. doi:10.4103/0973-7847.120522",
    "abstract": "The review includes 161 references on the genus Vitex, and comprises ethnopharmacology, morphology and microscopy, phytoconstituents, pharmacological reports, clinical studies, and toxicology of the prominent species of Vitex. Essential oils, flavonoids, iridoid glycosides, diterpenoides and ligans constitute major classes of phytoconstituents of the genus. A few species of this genus have medicinal value, among these, leaves and fruits of V. agnus-castus Linn. (Verbenaceae) has been traditionally used in treatment of women complaints. V. agnus-castus has also been included in herbal remedies, which are in clinical use to regulate the menstrual cycle, reduce premenstrual symptom tension and anxiety, treat some menopausal symptoms as well as to treat hormonally induced acne. Despite a long tradition of use of some species, the genus has not been explored properly. In the concluding part, the future scope of Vitex species has been emphasized with a view to establish their multifarious biological activities and mode of action.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -78707,12 +79232,7 @@
     "Vitex agnus-castus"
    ],
    "actions": [],
-   "conditions": [
-    "Acne",
-    "Menopause",
-    "Menstrual cramps",
-    "PMS / premenstrual syndrome"
-   ]
+   "conditions": []
   },
   {
    "ref_id": "REF-1482",
@@ -80098,7 +80618,7 @@
    "link_type": "doi",
    "citation": "Hasanudin, K., Hashim, P. and Mustafa, S (2012) 'Corn Silk (Stigma Maydis) in Healthcare: A Phytochemical and Pharmacological Review', Molecules. doi:10.3390/molecules171112937",
    "abstract": "Corn silk (Stigma maydis) is an important herb used traditionally by the Chinese, and Native Americans to treat many diseases. It is also used as traditional medicine in many parts of the world such as Turkey, United States and France. Its potential antioxidant and healthcare applications as diuretic agent, in hyperglycemia reduction, as anti-depressant and anti-fatigue use have been claimed in several reports. Other uses of corn silk include teas and supplements to treat urinary related problems. The potential use is very much related to its properties and mechanism of action of its plant's bioactive constituents such as flavonoids and terpenoids. As such, this review will cover the research findings on the potential applications of corn silk in healthcare which include its phytochemical and pharmacological activities. In addition, the botanical description and its toxicological studies are also included.",
-   "tier": "traditional",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -80118,15 +80638,8 @@
     "Diuretic"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Cough",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Sore throat",
     "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Urinary support"
    ]
   },
   {
@@ -80296,6 +80809,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3859",
+   "key": "schellenberg2012vitexze440",
+   "type": "article",
+   "title": "Dose-dependent efficacy of the Vitex agnus castus extract Ze 440 in patients suffering from premenstrual syndrome",
+   "authors": "Schellenberg, R., Zimmermann, C., Drewe, J., Hoexter, G. and Zahner, C.",
+   "journal": "Phytomedicine",
+   "year": "2012",
+   "doi": "10.1016/j.phymed.2012.08.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2012.08.006",
+   "link_type": "doi",
+   "citation": "Schellenberg, R., Zimmermann, C., Drewe, J., Hoexter, G. and Zahner, C (2012) 'Dose-dependent efficacy of the Vitex agnus castus extract Ze 440 in patients suffering from premenstrual syndrome', Phytomedicine, 19(14), pp. 1325--31. doi:10.1016/j.phymed.2012.08.006",
+   "abstract": "BACKGROUND: Preparations of Vitex agnus castus L. (VAC) have been shown to be effective to treat irregular menstrual cycles, cyclical mastalgia and symptoms of the premenstrual syndrome (PMS). However, the dose-effect relationship for the treatment of PMS has not yet been established. This study aimed to investigate the clinical effects of three different doses of the VAC extract Ze 440 in comparison to placebo in patients suffering from PMS. METHODS: In a multicenter, double-blind, placebo-controlled, parallel-group study, 162 female patients with PMS (18-45 years) were randomized to either placebo or different doses of Ze 440 (8, 20 and 30 mg) over three menstrual cycles. PMS symptoms' severity was assessed by patients using visual analog scales (VAS) for the symptoms irritability, mood alteration, anger, headache, bloating and breast fullness. RESULTS: Each of the treatments was well tolerated. Improvement in the total symptom score (TSS) in the 20mg group was significantly higher than in the placebo and 8 mg treatment group. The higher dose of 30 mg, on the other hand, did not significantly decrease symptom severity compared to the 20mg treatment, providing a rational for the usage of 20mg. Corresponding results were observed with the single PMS symptom scores. CONCLUSION: This study demonstrated that the VAC extract Ze 440 was effective in relieving symptoms of PMS, when applied in a dose of 20mg. Therefore, for patients suffering from PMS, 20mg Ze 440 should be the preferred daily dose.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Dose-dependent efficacy of the Vitex agnus castus extract Ze 440 in patients suffering from premenstrual syndrome",
+   "plants": [
+    "Agnus castus",
+    "Chaste tree",
+    "Chasteberry",
+    "Monk's pepper"
+   ],
+   "scientific": [
+    "Vitex agnus-castus"
+   ],
+   "actions": [],
+   "conditions": [
+    "PMS / premenstrual syndrome"
+   ]
   },
   {
    "ref_id": "REF-3774",
@@ -80594,9 +81140,6 @@
     "Zingiber officinale"
    ],
    "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antioxidant",
     "Antispasmodic",
     "Digestive aid"
    ],
@@ -81898,11 +82441,10 @@
     "Veronica officinalis"
    ],
    "actions": [
+    "Anti-inflammatory",
     "Expectorant"
    ],
    "conditions": [
-    "Bronchitis",
-    "Cough",
     "Inflammation (general)",
     "Respiratory support"
    ]
@@ -85373,6 +85915,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3871",
+   "key": "black2010gingermusclepain",
+   "type": "article",
+   "title": "Ginger (Zingiber officinale) reduces muscle pain caused by eccentric exercise",
+   "authors": "Black, C.D., Herring, M.P., Hurley, D.J. and O'Connor, P.J.",
+   "journal": "The Journal of Pain",
+   "year": "2010",
+   "doi": "10.1016/j.jpain.2009.12.013",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jpain.2009.12.013",
+   "link_type": "doi",
+   "citation": "Black, C.D., Herring, M.P., Hurley, D.J. and O'Connor, P.J (2010) 'Ginger (Zingiber officinale) reduces muscle pain caused by eccentric exercise', The Journal of Pain, 11(9), pp. 894--903. doi:10.1016/j.jpain.2009.12.013",
+   "abstract": "Ginger has been shown to exert anti-inflammatory effects in rodents, but its effect on human muscle pain is uncertain. Heat treatment of ginger has been suggested to enhance its hypoalgesic effects. The purpose of this study was to examine the effects of 11 days of raw (study 1) and heat-treated (study 2) ginger supplementation on muscle pain. Study 1 and 2 were identical double-blind, placebo controlled, randomized experiments with 34 and 40 volunteers, respectively. Participants consumed 2 grams of either raw (study 1) or heated (study 2) ginger or placebo for 11 consecutive days. Participants performed 18 eccentric actions of the elbow flexors to induce pain and inflammation. Pain intensity, perceived effort, plasma prostaglandin E(2), arm volume, range-of-motion and isometric strength were assessed prior to and for 3 days after exercise. Results Raw (25%, -.78 SD, P = .041) and heat-treated (23%, -.57 SD, P = .049) ginger resulted in similar pain reductions 24 hours after eccentric exercise compared to placebo. Smaller effects were noted between both types of ginger and placebo on other measures. Daily supplementation with ginger reduced muscle pain caused by eccentric exercise, and this effect was not enhanced by heat treating the ginger. PERSPECTIVE: This study demonstrates that daily consumption of raw and heat-treated ginger resulted in moderate-to-large reductions in muscle pain following exercise-induced muscle injury. Our findings agree with those showing hypoalgesic effects of ginger in osteoarthritis patients and further demonstrate ginger's effectiveness as a pain reliever.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Ginger (Zingiber officinale) reduces muscle pain caused by eccentric exercise",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Muscle soreness",
+    "Pain (general)"
+   ]
+  },
+  {
    "ref_id": "REF-1475",
    "key": "geng2010ginseng",
    "type": "article",
@@ -86475,6 +87050,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3857",
+   "key": "ma2010vitexpmschina2010",
+   "type": "article",
+   "title": "Treatment of moderate to severe premenstrual syndrome with Vitex agnus castus (BNO 1095) in Chinese women",
+   "authors": "Ma, L., Lin, S., Chen, R. and Wang, X.",
+   "journal": "Gynecological Endocrinology",
+   "year": "2010",
+   "doi": "10.3109/09513591003632126",
+   "url": "",
+   "link": "https://doi.org/10.3109/09513591003632126",
+   "link_type": "doi",
+   "citation": "Ma, L., Lin, S., Chen, R. and Wang, X (2010) 'Treatment of moderate to severe premenstrual syndrome with Vitex agnus castus (BNO 1095) in Chinese women', Gynecological Endocrinology, 26(8), pp. 612--6. doi:10.3109/09513591003632126",
+   "abstract": "OBJECTIVES: To assess efficacy of the extract of Vitex agnus castus (VAC, BNO 1095) in the treatment of Chinese women suffering from moderate to severe premenstrual syndrome (PMS). METHODS: It was a prospective randomised double-blind placebo-controlled study conducted in Chinese women. Eligible patients were randomly assigned into VAC or placebo group. Symptoms were documented with a daily rating scale with four symptom factors (negative affect, water retention, food cravings and pain). RESULTS: Sixty-seven patients were enrolled and randomly assigned to receive one tablet of VAC or placebo once a day. The premenstrual syndrome diary (PMSD) sum score decreased from 29.38 +/- 7.63 score points at baseline to 4.28 +/- 5.76 at the 3rd cycle in the treatment group, while it decreased from 28.76 +/- 8.23 to 11.79 +/- 11.78 in the placebo group. All the four symptom factor scores were significantly reduced by the 3rd treatment cycle. There was significant difference in PMSD sum score, score of negative affect and water retention between two groups at cycle 3 (P < 0.05). PMSD sum scores decreased 60% was defined as efficacy, and the efficacy rate in treatment group was significantly higher than that in placebo group at the 3rd treatment cycle. CONCLUSION: Vitex agnus castus extract BNO 1095 shows effective in treating moderate to severe PMS in Chinese women, especially in symptoms of negative affect and water retention.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Treatment of moderate to severe premenstrual syndrome with Vitex agnus castus (BNO 1095) in Chinese women",
+   "plants": [
+    "Agnus castus",
+    "Chaste tree",
+    "Chasteberry",
+    "Monk's pepper"
+   ],
+   "scientific": [
+    "Vitex agnus-castus"
+   ],
+   "actions": [],
+   "conditions": [
+    "PMS / premenstrual syndrome"
+   ]
   },
   {
    "ref_id": "REF-3377",
@@ -88515,6 +89123,39 @@
    ]
   },
   {
+   "ref_id": "REF-3858",
+   "key": "he2009vitexpmschina2009",
+   "type": "article",
+   "title": "Treatment for premenstrual syndrome with Vitex agnus castus: A prospective, randomized, multi-center placebo controlled study in China",
+   "authors": "He, Z., Chen, R., Zhou, Y., Geng, L., Zhang, Z., Chen, S., Yao, Y., Lu, J. and Lin, S.",
+   "journal": "Maturitas",
+   "year": "2009",
+   "doi": "10.1016/j.maturitas.2009.01.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.maturitas.2009.01.006",
+   "link_type": "doi",
+   "citation": "He, Z., Chen, R., Zhou, Y., Geng, L., Zhang, Z., Chen, S., Yao, Y., Lu, J. and Lin, S (2009) 'Treatment for premenstrual syndrome with Vitex agnus castus: A prospective, randomized, multi-center placebo controlled study in China', Maturitas, 63(1), pp. 99--103. doi:10.1016/j.maturitas.2009.01.006",
+   "abstract": "OBJECTIVES: To investigate the efficacy and safety of VAC BNO 1095 extract in Chinese women suffering from moderate to severe premenstrual syndrome (PMS). METHODS: Prospective, double-blind, placebo controlled, parallel-group, multi-center clinical trial design was employed. After screening and preparation phase lasting three cycles, Eligible patients were randomly assigned into treatment or placebo groups and had treatment with VAC extract or placebo for up to three cycles. Efficacy was assessed using the Chinese version PMS-diary (PMSD) and PMTS. RESULTS: Two hundred and seventeen women were eligible to enter the treatment phase (TP) and were randomly assigned into the treatment group (108) or the placebo group (109), 208 provided the efficacy data (treatment 104, placebo 104), and 202 completed the treatment phase (treatment 101, placebo 101). The mean total PMSD score decreased from 29.23 at baseline (0 cycle) to 6.41 at the termination (3rd cycle) for the treatment group and from 28.14 at baseline (0 cycle) to 12.64 at the termination (3rd cycle) for the placebo group. The total PMSD score of 3rd cycle was significantly lower than the baseline in both groups (p<0.0001). The difference in the mean scores from the baseline to the 3rd cycle in the treatment group (22.71+/-10.33) was significantly lower than the difference in the placebo group (15.50+/-12.94, p<0.0001). Results of PMTS were similar, the total scores for PMTS were significantly lower between the two groups (p<0.01) and within each group (p<0.01). The score was decreased from 26.17+/-4.79 to 9.92+/-9.01 for the treatment group, and from 27.10+/-4.76 to 14.59+/-10.69 for the placebo group. A placebo effect of 50% was found in the present study. No serious adverse event (SAE) occurred in both groups. CONCLUSION: Vitex agnus castus (VAC BNO 1095 corresponding to 40mg herbal drug) is a safe, well tolerated and effective drug of the treatment for Chinese women with the moderate to severe PMS.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Treatment for premenstrual syndrome with Vitex agnus castus: A prospective, randomized, multi-center placebo controlled study in China",
+   "plants": [
+    "Agnus castus",
+    "Chaste tree",
+    "Chasteberry",
+    "Monk's pepper"
+   ],
+   "scientific": [
+    "Vitex agnus-castus"
+   ],
+   "actions": [],
+   "conditions": [
+    "PMS / premenstrual syndrome"
+   ]
+  },
+  {
    "ref_id": "REF-1344",
    "key": "perezlopez2009cranberry",
    "type": "article",
@@ -90227,7 +90868,7 @@
    "link_type": "doi",
    "citation": "Ali, B.H., Blunden, G., Tanira, M.O. and Nemmar, A (2008) 'Some phytochemical, pharmacological and toxicological properties of ginger (Zingiber officinale Roscoe): a review of recent research', 46(2), pp. 409--420. doi:10.1016/j.fct.2007.09.085",
    "abstract": "Ginger (Zingiber officinale Roscoe, Zingiberacae) is a medicinal plant that has been widely used in Chinese, Ayurvedic and Tibb-Unani herbal medicines all over the world, since antiquity, for a wide array of unrelated ailments that include arthritis, rheumatism, sprains, muscular aches, pains, sore throats, cramps, constipation, indigestion, vomiting, hypertension, dementia, fever, infectious diseases and helminthiasis. Currently, there is a renewed interest in ginger, and several scientific investigations aimed at isolation and identification of active constituents of ginger, scientific verification of its pharmacological actions and of its constituents, and verification of the basis of the use of ginger in some of several diseases and conditions. This article aims at reviewing the most salient recent reports on these investigations. The main pharmacological actions of ginger and compounds isolated therefrom include immuno-modulatory, anti-tumorigenic, anti-inflammatory, anti-apoptotic, anti-hyperglycemic, anti-lipidemic and anti-emetic actions. Ginger is a strong anti-oxidant substance and may either mitigate or prevent generation of free radicals. It is considered a safe herbal medicine with only few and insignificant adverse/side effects. More studies are required in animals and humans on the kinetics of ginger and its constituents and on the effects of their consumption over a long period of time.",
-   "tier": "clinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -90249,17 +90890,10 @@
    ],
    "conditions": [
     "Arthritis / joint pain",
-    "Back pain",
-    "Bloating",
     "Cardiovascular / heart health",
-    "Headache",
     "Indigestion",
     "Inflammation (general)",
-    "Menstrual cramps",
-    "Muscle spasm",
-    "Pain (general)",
-    "Respiratory support",
-    "Skin irritation"
+    "Pain (general)"
    ]
   },
   {
@@ -92081,13 +92715,7 @@
    "scientific": [
     "Zingiber officinale"
    ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Antispasmodic",
-    "Digestive aid"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -95542,7 +96170,7 @@
    "link_type": "doi",
    "citation": "Velazquez, D.V.O. and Xavier, H.S. and Batista, J.E.M. and de Castro-Chaves, C (2005) 'Zea mays L. extracts modify glomerular function and potassium urinary excretion in conscious rats', Phytomedicine, 12(5), pp. 363--369. doi:10.1016/j.phymed.2003.12.010",
    "abstract": "Diuretic and uricosuric properties have traditionally been attributed to corn silk, stigma/style of Zea mays L. Although the diuretic effect was confirmed, studies of the plant's effects on renal function or solute excretion were lacking. Thus, we studied the effects of corn silk aqueous extract on the urinary excretion of water, Na+, K+, and uric acid. Glomerular and proximal tubular function and Na+ tubular handling were also studied. Conscious, unrestrained adult male rats were housed in individual metabolic cages (IMC) with continuous urine collection for 5 and 3 h, following two protocols. The effects of 25, 50, 200, 350, and 500 mg/kg body wt. corn silk extract on urine volume plus Na+ and K+ excretions were studied in water-loaded conscious rats (2.5 ml/100 g body wt.) in the IMC for 5 h (Protocol 1). Kaliuresis was observed with doses of 350 (100.42 +/- 22.32-120.28 +/- 19.70 microEq/5 h/100 g body wt.; n = 13) and 500 mg/kg body wt. (94.97+/- 29.30-134.32 +/- 39.98 microEq/5h/100 g body wt.; n = 12; p<0.01), and the latter dose resulted in diuresis as well (1.98 +/- 0.44-2.41 +/- 0.41 ml/5 h/100 g body wt.; n = 12; p<0.05). The effects of a 500 mg/kg body wt. dose of corn silk extract on urine volume, Na+, K+ and uric acid excretions, and glomerular and proximal tubular function, were measured respectively by creatinine (Cler) and Li+ (ClLi) clearances and Na+ tubular handling, in water-loaded rats (5 ml/100 g body wt.) in the IMC for 3 h (Protocol 2). Clcr (294.6 +/- 73.2, n = 12, to 241.7 +/- 48.0 microl/ min/100 g body wt.; n = 13; p<0.05) and the Na+ filtered load (41.9 +/- 10.3, n = 12, to 34.3 +/- .8, n = 13, p<0.05) decreased and ClLi and Na+ excretion were unchanged, while K+ excretion (0.1044 +/- 0.0458, n=12, to 0.2289 +/- 0.0583 microEq/min/100 body wt.; n = 13; p<0.001) increased. For Na+ tubular handling, the fractional proximal tubular reabsorption (91.5 +/- 3.5, n = 12, to 87.5 +/- 3.4%; n = 13; p<0.01) decreased, and both fractional distal reabsorptions--I and II--increased (96.5 +/- 1.5, n = 12, to 97.8 +/- 0.9%; n = 13; p<0.01; and 8.2 +/- 3.5, n = 12, to 12.2 +/- 3.4%, n = 13, p<0.01, respectively). To summarize, in water-loaded conscious rats (2.5 ml/100 body wt.), corn silk aqueous extract is diuretic at a dose of 500 mg/kg body wt. and kaliuretic at doses of 350 and 500 mg/kg body wt. In water-loaded conscious rats (5.0 ml/100 g body wt.), corn silk aqueous extract is kaliuretic at a dose of 500 mg/kg body wt., but glomerular filtration and filtered load decrease without affecting proximal tubular function, Na+, or uric acid excretion.",
-   "tier": "traditional",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
@@ -95560,8 +96188,7 @@
    ],
    "conditions": [
     "Swelling / fluid retention",
-    "Urinary support",
-    "Urinary tract infection (UTI)"
+    "Urinary support"
    ]
   },
   {
@@ -101856,6 +102483,39 @@
    ]
   },
   {
+   "ref_id": "REF-3856",
+   "key": "schellenberg2001vitexpmsschellenberg",
+   "type": "article",
+   "title": "Treatment for the premenstrual syndrome with agnus castus fruit extract: prospective, randomised, placebo controlled study",
+   "authors": "Schellenberg, R.",
+   "journal": "BMJ",
+   "year": "2001",
+   "doi": "10.1136/bmj.322.7279.134",
+   "url": "",
+   "link": "https://doi.org/10.1136/bmj.322.7279.134",
+   "link_type": "doi",
+   "citation": "Schellenberg, R (2001) 'Treatment for the premenstrual syndrome with agnus castus fruit extract: prospective, randomised, placebo controlled study', BMJ, 322(7279), pp. 134--7. doi:10.1136/bmj.322.7279.134",
+   "abstract": "OBJECTIVES: To compare the efficacy and tolerability of agnus castus fruit (Vitex agnus castus L extract Ze 440) with placebo for women with the premenstrual syndrome. DESIGN: Randomised, double blind, placebo controlled, parallel group comparison over three menstrual cycles. SETTING: General medicine community clinics. PARTICIPANTS: 178 women were screened and 170 were evaluated (active 86; placebo 84). Mean age was 36 years, mean cycle length was 28 days, mean duration of menses was 4.5 days. INTERVENTIONS: Agnus castus (dry extract tablets) one tablet daily or matching placebo, given for three consecutive cycles. MAIN OUTCOME MEASURES: Main efficacy variable: change from baseline to end point (end of third cycle) in women's self assessment of irritability, mood alteration, anger, headache, breast fullness, and other menstrual symptoms including bloating. Secondary efficacy variables: changes in clinical global impression (severity of condition, global improvement, and risk or benefit) and responder rate (50% reduction in symptoms). RESULTS: Improvement in the main variable was greater in the active group compared with placebo group (P<0.001). Analysis of the secondary variables showed significant (P<0.001) superiority of active treatment in each of the three global impression items. Responder rates were 52% and 24% for active and placebo, respectively. Seven women reported mild adverse events (four active; three placebo), none of which caused discontinuation of treatment. CONCLUSIONS: Dry extract of agnus castus fruit is an effective and well tolerated treatment for the relief of symptoms of the premenstrual syndrome.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Treatment for the premenstrual syndrome with agnus castus fruit extract: prospective, randomised, placebo controlled study",
+   "plants": [
+    "Agnus castus",
+    "Chaste tree",
+    "Chasteberry",
+    "Monk's pepper"
+   ],
+   "scientific": [
+    "Vitex agnus-castus"
+   ],
+   "actions": [],
+   "conditions": [
+    "PMS / premenstrual syndrome"
+   ]
+  },
+  {
    "ref_id": "REF-3738",
    "key": "chrubasik2001willowrofecoxib",
    "type": "article",
@@ -105932,9 +106592,7 @@
    "scientific": [
     "Veronica officinalis"
    ],
-   "actions": [
-    "Antioxidant"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -106146,9 +106804,7 @@
    "scientific": [
     "Veronica officinalis"
    ],
-   "actions": [
-    "Antioxidant"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -106878,6 +107534,42 @@
    ]
   },
   {
+   "ref_id": "REF-3877",
+   "key": "grieve1931cornsilk",
+   "type": "article",
+   "title": "Corn Silk (Zea mays) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/c/corsi105.html",
+   "link": "https://www.botanical.com/botanical/mgmh/c/corsi105.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Corn Silk (Zea mays) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/c/corsi105.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Corn Silk (Zea mays) - A Modern Herbal",
+   "plants": [
+    "Corn Silk",
+    "Maize silk",
+    "Stigma maydis"
+   ],
+   "scientific": [
+    "Zea mays"
+   ],
+   "actions": [
+    "Demulcent (soothing mucilage)",
+    "Diuretic"
+   ],
+   "conditions": [
+    "Urinary support",
+    "Urinary tract infection (UTI)"
+   ]
+  },
+  {
    "ref_id": "REF-3812",
    "key": "grieve1931dandelion",
    "type": "article",
@@ -107001,6 +107693,39 @@
    ]
   },
   {
+   "ref_id": "REF-3876",
+   "key": "grieve1931ginger",
+   "type": "article",
+   "title": "Ginger (Zingiber officinale) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/g/ginger13.html",
+   "link": "https://www.botanical.com/botanical/mgmh/g/ginger13.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Ginger (Zingiber officinale) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/g/ginger13.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Ginger (Zingiber officinale) - A Modern Herbal",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Bloating",
+    "Indigestion"
+   ]
+  },
+  {
    "ref_id": "REF-3790",
    "key": "grieve1931goldenrod",
    "type": "article",
@@ -107032,6 +107757,78 @@
    ],
    "conditions": [
     "Urinary support"
+   ]
+  },
+  {
+   "ref_id": "REF-3851",
+   "key": "grieve1931guelderrose",
+   "type": "article",
+   "title": "Guelder Rose (Cramp Bark, Viburnum opulus) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/g/gueros44.html",
+   "link": "https://www.botanical.com/botanical/mgmh/g/gueros44.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Guelder Rose (Cramp Bark, Viburnum opulus) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/g/gueros44.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Guelder Rose (Cramp Bark, Viburnum opulus) - A Modern Herbal",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
+   "conditions": [
+    "Muscle spasm"
+   ]
+  },
+  {
+   "ref_id": "REF-3855",
+   "key": "grieve1931heartsease",
+   "type": "article",
+   "title": "Heartsease (Viola tricolor) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/h/hearts10.html",
+   "link": "https://www.botanical.com/botanical/mgmh/h/hearts10.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Heartsease (Viola tricolor) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/h/hearts10.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Heartsease (Viola tricolor) - A Modern Herbal",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [
+    "Demulcent (soothing mucilage)",
+    "Expectorant"
+   ],
+   "conditions": [
+    "Eczema",
+    "Skin irritation"
    ]
   },
   {
@@ -107346,6 +108143,43 @@
    ]
   },
   {
+   "ref_id": "REF-3850",
+   "key": "grieve1931speedwell",
+   "type": "article",
+   "title": "Speedwell, Common (Veronica officinalis) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/s/specom75.html",
+   "link": "https://www.botanical.com/botanical/mgmh/s/specom75.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Speedwell, Common (Veronica officinalis) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/s/specom75.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Speedwell, Common (Veronica officinalis) - A Modern Herbal",
+   "plants": [
+    "Common speedwell",
+    "Gypsyweed",
+    "Heath speedwell",
+    "Speedwell"
+   ],
+   "scientific": [
+    "Veronica officinalis"
+   ],
+   "actions": [
+    "Expectorant"
+   ],
+   "conditions": [
+    "Cough",
+    "Respiratory support",
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-3811",
    "key": "grieve1931tansy",
    "type": "article",
@@ -107519,6 +108353,42 @@
    "conditions": [
     "Arthritis / joint pain",
     "Headache"
+   ]
+  },
+  {
+   "ref_id": "REF-3852",
+   "key": "grieve1931violet",
+   "type": "article",
+   "title": "Violet, Sweet (Viola odorata) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/v/vioswe12.html",
+   "link": "https://www.botanical.com/botanical/mgmh/v/vioswe12.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Violet, Sweet (Viola odorata) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/v/vioswe12.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Violet, Sweet (Viola odorata) - A Modern Herbal",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cough",
+    "Headache",
+    "Insomnia / sleeplessness",
+    "Sore throat"
    ]
   },
   {
@@ -109537,7 +110407,6 @@
    ],
    "conditions": [
     "Back pain",
-    "Headache",
     "Menstrual cramps",
     "Muscle spasm",
     "Pain (general)"
@@ -117081,8 +117950,6 @@
     "Expectorant"
    ],
    "conditions": [
-    "Bloating",
-    "Bronchitis",
     "Cough",
     "Indigestion",
     "Inflammation (general)",
@@ -117137,41 +118004,6 @@
    "scientific": [],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0440",
-   "key": "sciencedirectndviburnum",
-   "type": "misc",
-   "title": "Viburnum opulus - an overview",
-   "authors": "ScienceDirect Topics",
-   "journal": "",
-   "year": "n.d.",
-   "doi": "",
-   "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/viburnum-opulus",
-   "link": "https://www.sciencedirect.com/topics/medicine-and-dentistry/viburnum-opulus",
-   "link_type": "url",
-   "citation": "ScienceDirect Topics (n.d.) 'Viburnum opulus - an overview'. Available at: https://www.sciencedirect.com/topics/medicine-and-dentistry/viburnum-opulus",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Viburnum opulus - an overview",
-   "plants": [
-    "Cramp Bark",
-    "Guelder rose",
-    "High cranberry",
-    "Snowball tree"
-   ],
-   "scientific": [
-    "Viburnum opulus"
-   ],
-   "actions": [
-    "Antispasmodic"
-   ],
-   "conditions": [
-    "Menstrual cramps"
-   ]
   },
   {
    "ref_id": "REF-3367",
@@ -117244,10 +118076,15 @@
     "Banafsha",
     "English violet",
     "Garden violet",
-    "Sweet Violet"
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Sweet Violet",
+    "Wild pansy"
    ],
    "scientific": [
-    "Viola odorata"
+    "Viola odorata",
+    "Viola tricolor"
    ],
    "actions": [
     "Anti-inflammatory",
@@ -117260,9 +118097,11 @@
     "Asthma",
     "Bronchitis",
     "Cough",
+    "Eczema",
     "Headache",
     "Inflammation (general)",
     "Insomnia / sleeplessness",
+    "Psoriasis",
     "Respiratory support",
     "Skin irritation",
     "Sore throat"

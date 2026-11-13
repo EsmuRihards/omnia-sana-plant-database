@@ -25,7 +25,6 @@ constituents:
   note: Contribute to the smooth-muscle-relaxant and astringent activity.
   reference_ids:
   - REF-0439
-  - REF-0440
 - name: Tannins
   compounds:
   - tannin
@@ -107,7 +106,6 @@ actions:
   note: Mild analgesic for cramping pain
   reference_ids:
   - REF-0439
-  - REF-1139
   status: needs-review
 - action: anticancer
   reference_ids:
@@ -118,44 +116,34 @@ actions:
     menstrual cramps (relaxes uterine smooth muscle)
   reference_ids:
   - REF-0439
-  - REF-0440
   - REF-0610
+  - REF-3851
   status: verified
 indications:
 - condition: back-pain
-  note: inferred from analgesic action
+  note: Traditionally used for back and muscle pain (Herbal Reality)
   reference_ids:
   - REF-0439
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1139
 - condition: cancer
-  note: inferred from anticancer action
+  note: Cramp bark extract slowed colorectal cancer cell growth in the lab (preclinical)
   reference_ids:
   - REF-1142
   status: needs-review
-- condition: headache
-  note: inferred from analgesic action
+- condition: menstrual-cramps
+  note: Traditional remedy for menstrual cramps (Herbal Reality); no clinical trials
   reference_ids:
   - REF-0439
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1139
-- condition: menstrual-cramps
-  note: Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)
-  reference_ids:
-  - REF-0439
-  - REF-0440
-  - REF-0610
-  - REF-1140
-  status: verified
 - condition: muscle-spasm
-  note: Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant)
+  note: Traditional antispasmodic for cramps and spasms of all kinds (Grieve, A Modern Herbal; Herbal
+    Reality)
   reference_ids:
   - REF-0439
+  - REF-3851
   status: verified
 - condition: pain
-  note: Mild analgesic for cramping pain
+  note: Traditionally used for cramping and nerve pain (Herbal Reality)
   reference_ids:
   - REF-0439
   status: needs-review
@@ -164,7 +152,6 @@ contraindications:
     and diarrhoea if eaten in quantity.
   severity: info
   reference_ids:
-  - REF-0440
   - REF-0439
   status: verified
 - note: Human safety data are limited; medicinal use in pregnancy or breastfeeding should only be under
@@ -259,4 +246,10 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for bark (provisional: PFAF REF-3365, stripped in autumn before
   leaf-fall or spring before bud-break). SAFETY: toxic raw berries + Solanum dulcamara lookalike. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 19 - Deep audit. ScienceDirect Topics page
+  REF-0440 (403, auto-collected excerpts) purged and deleted. Herbal Reality REF-0439 (references;
+  read 2026-11-13) does not name headache: removed, headache dropped. Rat endometriosis study
+  REF-1140 and the Nutrients review REF-0610 (never names cramps) removed from menstrual-cramps,
+  which now rests on traditional use only (verified -> needs-review). Ureteral-stone RCT REF-1139
+  (retagged rct) removed from the analgesic action. Grieve REF-3851 added to muscle-spasm.'

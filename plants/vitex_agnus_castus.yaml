@@ -105,48 +105,45 @@ dosage:
   - REF-0433
   status: draft
 indications:
-- condition: acne
-  note: Cycle-related (hormonal) acne (traditional)
-  reference_ids:
-  - REF-2580
-  status: needs-review
 - condition: menopause
   reference_ids:
   - REF-1612
-  - REF-2580
   status: needs-review
+  note: Proposed for menopausal complaints, but rigorous trials of vitex alone are lacking (review)
 - condition: menstrual-cramps
   reference_ids:
   - REF-0433
-  - REF-1610
-  - REF-2580
   status: needs-review
+  note: Vitex extracts eased premenstrual and menstrual-cycle complaints in clinical trials (systematic
+    review)
 - condition: pain
-  note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping. The
-    proposed mechanism is dopaminergic suppression of latent hyperprolactinaemia.
+  note: Vitex eased cyclical breast pain (mastalgia) in a meta-analysis of trials; it lowers prolactin
+    (reviews)
   reference_ids:
   - REF-0433
   - REF-1609
-  - REF-1610
   - REF-1613
   - REF-3119
   status: verified
 - condition: pms
-  note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping; Relief
-    of premenstrual syndrome (PMS) symptoms
+  note: Vitex extracts relieved premenstrual syndrome vs placebo in randomized trials in Germany and China
+    and in meta-analyses, though reviews flag high risk of bias and incomplete reporting; it matched fluoxetine
+    for the physical symptoms of PMDD
   reference_ids:
   - REF-0433
-  - REF-0435
-  - REF-1607
   - REF-1608
   - REF-1609
-  - REF-1610
   - REF-1611
   - REF-1613
-  - REF-2580
   - REF-3116
   - REF-3117
+  - REF-3856
+  - REF-3857
+  - REF-3858
+  - REF-3859
   status: verified
+  null_result_ids:
+  - REF-1607
 contraindications:
 - note: Reported adverse events are mild and reversible (nausea, headache, gastrointestinal upset, menstrual
     changes, acne, itching or rash).
@@ -184,6 +181,7 @@ references:
 - REF-2580
 - REF-3115
 - REF-3120
+- REF-0435
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -226,4 +224,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica e
   outruns the evidence and there is no fertility support here worth publishing. | 2026-08-15: Harvest
   Calendar (phenological) - harvest_readiness for fruit recorded as GAP: PFAF gives no chasteberry harvest
   stage (flowers late Sept-Oct, seed unlikely to ripen in cool climates). Binomial confirmed (no timing to
-  attach). | 2026-08-15: fruit harvest_readiness filled and raised to VERIFIED (was gap): NC State Extension (REF-3389) gives the autumn purple globose drupe, and Wikipedia (REF-3390) independently confirms the ripening stage and adds that ripe fruits shed, so they are taken slightly early with no loss of quality.'
+  attach). | 2026-08-15: fruit harvest_readiness filled and raised to VERIFIED (was gap): NC State Extension (REF-3389) gives the autumn purple globose drupe, and Wikipedia (REF-3390) independently confirms the ripening stage and adds that ripe fruits shed, so they are taken slightly early with no loss of quality.
+  | 2026-11-13: symptom-source audit deep audit batch 19 - Deep audit. Genus-level Vitex review
+  REF-2580 removed from 4 pairs (acne dropped). A cohort of VAC-containing products incl. a
+  homeopathic combination REF-1610 and a hyperprolactinaemia review REF-0435 removed. 2019 MA
+  REF-1607 ("most trials cannot be used as evidence") moved to no-effect for PMS; four placebo
+  RCTs (Schellenberg 2001 BMJ, two Chinese BNO 1095 trials, Ze 440) added. Gaps:
+  menstrual-bleeding MA REF-3115 found no effect (no heavy-bleeding pair).'

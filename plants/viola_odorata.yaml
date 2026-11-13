@@ -124,7 +124,6 @@ actions:
   reference_ids:
   - REF-0517
   - REF-1143
-  - REF-1146
   status: needs-review
 - action: anticancer
   reference_ids:
@@ -155,87 +154,95 @@ actions:
   reference_ids:
   - REF-0517
   - REF-1143
-  - REF-1149
   - REF-1150
   - REF-1151
   status: needs-review
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0517
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-1146
+  - REF-0517
 - condition: asthma
-  note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
-    - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
-    in children with asthma
+  note: Violet flower syrup, added to standard treatment, sped cough relief in children with asthma in
+    a randomized trial
   reference_ids:
   - REF-0517
   - REF-0609
   status: verified
 - condition: bronchitis
-  note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
-    - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
-    in children with asthma
+  note: Traditional remedy for bronchitis and catarrh (Herbal Reality)
   reference_ids:
   - REF-0517
-  - REF-0609
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0609
 - condition: cancer
-  note: inferred from anticancer action
+  note: Sweet violet extract and its peptides were active against breast cancer cells in the lab (preclinical)
   reference_ids:
   - REF-1145
   - REF-1152
   status: needs-review
 - condition: cough
-  note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
-    - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
-    in children with asthma
+  note: Violet syrup sped cough relief in children with asthma and eased cough in COVID-19 in randomized
+    trials; traditional expectorant (Grieve, A Modern Herbal; Herbal Reality)
   reference_ids:
   - REF-0517
   - REF-0609
+  - REF-1148
+  - REF-3852
   status: verified
 - condition: headache
-  note: Mild sedative for sleeplessness and to ease headache (traditional)
+  note: Violet syrup eased headache among other COVID-19 symptoms in a randomized trial; traditional for
+    headache (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0517
+  - REF-1148
+  - REF-3852
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for inflammatory skin conditions (Herbal Reality)
   reference_ids:
   - REF-0517
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1146
 - condition: insomnia
-  note: Mild sedative for sleeplessness and to ease headache (traditional)
+  note: Violet extract improved sleep quality and insomnia severity vs placebo in a meta-analysis and
+    randomized trials; traditional for sleeplessness (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0517
   - REF-1150
   - REF-1151
+  - REF-3853
+  - REF-3854
+  - REF-3852
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1149
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Violet syrup eased cough in randomized trials; traditional for coughs, colds and catarrh (Herbal
+    Reality)
   reference_ids:
   - REF-0517
   - REF-0609
   - REF-1148
   status: needs-review
 - condition: skin-irritation
-  note: inferred from demulcent action
+  note: Traditionally used for eczema and inflamed skin (Herbal Reality)
   reference_ids:
   - REF-0517
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0609
-  - REF-1146
 - condition: sore-throat
   reference_ids:
   - REF-0517
+  - REF-3852
+  status: verified
+  note: Traditional remedy for sore throat (Grieve, A Modern Herbal; Herbal Reality)
+- condition: fever
+  note: Sweet violet oil reduced fever vs placebo in children with febrile neutropenia in a triple-blind
+    randomized trial
+  reference_ids:
+  - REF-1146
   status: verified
 contraindications:
 - note: Generally well tolerated as flower/leaf preparations. It contains salicylates, so use caution
@@ -327,4 +334,10 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   at REF-3074 in batch 3), not V. odorata, and its posology must not be transferred here - the synonym-aware
   register match flagged exactly this near-miss. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for flower (early spring) + leaf (growing season), both provisional: PFAF REF-3367.
-  SAFETY: irritant lesser celandine (Ficaria verna) lookalike. Binomial confirmed.'
+  SAFETY: irritant lesser celandine (Ficaria verna) lookalike. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 19 - Deep audit. Herbal Reality REF-0517
+  names arthritis for V. tricolor only: removed from arthritis. Asthma-cough RCT REF-0609 removed
+  from bronchitis (never named). Insomnia MA REF-3853 and menopausal-sleep RCT REF-3854 added;
+  COVID RCT REF-1148 added to cough and headache. New pair (owner rule): fever (triple-blind
+  placebo RCT REF-1146). Grieve REF-3852 added. Gap: allergic-rhinitis RCT 32507426 (no abstract
+  available).'

@@ -91,17 +91,14 @@ dosage:
   status: draft
 actions:
 - action: anti-inflammatory
-  note: Anti-inflammatory and antioxidant
+  note: Anti-inflammatory (lung-cell study, preclinical)
   reference_ids:
-  - REF-0513
-  status: verified
+  - REF-0632
+  status: needs-review
 - action: antioxidant
   note: Anti-inflammatory and antioxidant
   reference_ids:
-  - REF-0513
   - REF-1378
-  - REF-2554
-  - REF-2555
   status: verified
 - action: digestive
   note: Mild digestive / stomach tonic (indigestion)
@@ -114,67 +111,51 @@ actions:
     inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human
     lung epithelial cells
   reference_ids:
-  - REF-0513
   - REF-0514
   - REF-0632
+  - REF-3850
   status: needs-review
 indications:
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0514
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-2552
 - condition: bronchitis
   note: inferred from expectorant action
-  reference_ids:
-  - REF-0514
-  - REF-0632
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0513
+  - REF-0514
 - condition: cough
-  note: Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung
-    inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human
-    lung epithelial cells
+  note: Traditional remedy for coughs and catarrh (Grieve, A Modern Herbal; HerbaZest); speedwell extract
+    reduced inflammatory signals in human lung cells (preclinical)
   reference_ids:
   - REF-0514
-  - REF-0632
+  - REF-3850
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0513
 - condition: indigestion
-  note: Mild digestive / stomach tonic (indigestion)
+  note: Traditional remedy for stomach complaints (HerbaZest); speedwell extract helped gastric ulcers
+    heal in rats (preclinical)
   reference_ids:
   - REF-0514
   - REF-2552
   status: needs-review
 - condition: inflammation
-  note: Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung
-    inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human
-    lung epithelial cells
+  note: Traditionally used for inflammatory pain (HerbaZest); speedwell extract reduced inflammatory signals
+    in human lung cells (preclinical)
   reference_ids:
   - REF-0514
   - REF-0632
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0513
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Traditional remedy for coughs, catarrh and chest complaints (Grieve, A Modern Herbal; HerbaZest)
   reference_ids:
   - REF-0514
   - REF-0632
+  - REF-3850
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0513
 - condition: skin-irritation
-  note: Soothing for skin irritation (topical)
+  note: Traditionally used for skin diseases and to calm irritated skin (Grieve, A Modern Herbal; HerbaZest)
   reference_ids:
   - REF-0514
+  - REF-3850
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0513
 contraindications:
 - note: Traditional use only; clinical evidence is limited, so a persistent cough or digestive complaint
     needs medical assessment. Safety in pregnancy and breastfeeding is not established.
@@ -197,6 +178,7 @@ references:
 - REF-2554
 - REF-2555
 - REF-3123
+- REF-0513
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -262,4 +244,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Fro
   but choosing which id dies and removing a live bibliography entry is a separate decision with Knowledge
   Finder consequences. Neither entry carries the PMID. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for aerial-parts (provisional: PFAF REF-3366, flowering herb gathered in summer). Single
-  lineage. Binomial confirmed.'
+  lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 19 - Deep audit (2nd pass + deep). HerbaZest
+  REF-0514 (12 sources) kept for what it names; removed from bloating (dropped) and bronchitis.
+  Lung-cell study REF-0632 moved to mechanistic for cough/bronchitis. DNA-barcoding adulteration
+  study REF-0513 and two 1970s phytochemistry papers removed from actions. Grieve REF-3850 added
+  (coughs, catarrh, skin diseases).'

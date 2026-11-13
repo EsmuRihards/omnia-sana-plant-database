@@ -110,11 +110,7 @@ actions:
 - action: analgesic
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0639
   - REF-0164
-  - REF-0269
-  - REF-0295
   - REF-0605
   - REF-0637
   - REF-0638
@@ -122,192 +118,173 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0639
   - REF-0164
-  - REF-0269
-  - REF-0295
   - REF-0637
   - REF-0638
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0007
-  - REF-0077
-  - REF-0639
   - REF-0164
-  - REF-0269
-  - REF-0295
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0639
   - REF-0164
-  - REF-0269
-  - REF-0295
   - REF-0605
   status: verified
 - action: digestive
   reference_ids:
   - REF-0007
   - REF-0077
-  - REF-0639
   - REF-0164
-  - REF-0269
   - REF-0295
   - REF-0634
   - REF-0635
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Ginger modestly reduced osteoarthritis pain and disability vs placebo in a meta-analysis, though
+    a 2020 knee-osteoarthritis meta-analysis found the evidence insufficient
   reference_ids:
   - REF-0007
-  - REF-0164
   - REF-0637
   - REF-0638
+  - REF-3873
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0077
-  - REF-0269
-  - REF-0295
-  - REF-0639
+  - REF-0164
+  null_result_ids:
+  - REF-3874
 - condition: back-pain
   note: inferred from analgesic action
-  reference_ids:
-  - REF-0007
-  - REF-0164
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0077
-  - REF-0269
-  - REF-0295
   - REF-0605
   - REF-0637
   - REF-0638
-  - REF-0639
+  - REF-0164
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditional remedy for bloating, flatulence and mild spasmodic stomach complaints (EU herbal monograph;
+    Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0007
   - REF-0077
+  - REF-3876
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0164
-  - REF-0269
   - REF-0295
   - REF-0634
   - REF-0635
-  - REF-0639
 - condition: cardiovascular-support
   reference_ids:
   - REF-0007
+  - REF-3866
   status: verified
+  note: Ginger modestly lowered blood pressure in a meta-analysis of randomized trials; reviewed for cardiovascular
+    effects
 - condition: headache
-  note: inferred from analgesic action
+  note: Ginger relieved migraine headache at 2 hours in a meta-analysis of randomized trials
   reference_ids:
-  - REF-0007
+  - REF-3869
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0077
   - REF-0164
-  - REF-0269
-  - REF-0295
   - REF-0605
   - REF-0637
   - REF-0638
-  - REF-0639
 - condition: indigestion
-  note: inferred from digestive action
+  note: Traditional remedy for dyspepsia and mild spasmodic stomach complaints (EU herbal monograph; Grieve,
+    A Modern Herbal)
   reference_ids:
   - REF-0007
   - REF-0077
+  - REF-3876
+  status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0164
   - REF-0295
   - REF-0634
   - REF-0635
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0164
-  - REF-0269
-  - REF-0639
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Ginger lowered inflammatory markers (CRP, IL-6) in a meta-analysis of randomized trials
   reference_ids:
   - REF-0007
   - REF-0164
   - REF-0637
-  - REF-0638
+  - REF-3875
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0077
-  - REF-0269
-  - REF-0295
-  - REF-0639
 - condition: menstrual-cramps
-  note: inferred from antispasmodic action
+  note: Ginger reduced period pain vs placebo, as much as NSAIDs, in meta-analyses of randomized trials
   reference_ids:
-  - REF-0007
   - REF-0605
-  status: needs-review
+  - REF-3868
+  status: verified
   mechanistic_exclude_ids:
   - REF-0077
   - REF-0164
-  - REF-0269
-  - REF-0295
-  - REF-0639
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0007
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0077
-  - REF-0164
-  - REF-0269
-  - REF-0295
-  - REF-0605
-  - REF-0639
 - condition: pain
   reference_ids:
   - REF-0007
-  - REF-0164
   - REF-0605
   - REF-0637
   - REF-0638
+  - REF-3871
   status: verified
   mechanistic_exclude_ids:
-  - REF-0077
-  - REF-0269
-  - REF-0295
-  - REF-0639
-- condition: respiratory-support
-  reference_ids:
-  - REF-0007
-  status: verified
+  - REF-0164
+  note: Ginger reduced period pain, osteoarthritis pain and exercise-induced muscle pain in meta-analyses
+    and randomized trials
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0007
-  - REF-0164
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0077
-  - REF-0269
-  - REF-0295
   - REF-0637
   - REF-0638
-  - REF-0639
+  - REF-0164
 - condition: nausea
-  note: Meta-analyses report that ginger relieves nausea in pregnancy compared with placebo, with no significant
-    effect on vomiting episodes. The EU herbal monograph covers prevention of nausea and vomiting in motion
-    sickness.
+  note: Ginger relieved nausea in pregnancy vs placebo in meta-analyses (not vomiting), and helped severe
+    chemotherapy nausea as an add-on in a meta-analysis, though one large placebo-controlled trial found
+    no effect on acute chemotherapy nausea; the EU herbal monograph covers motion sickness
   reference_ids:
   - REF-0295
   - REF-0635
   - REF-0077
+  - REF-3867
+  status: verified
+  null_result_ids:
+  - REF-0634
+- condition: blood-sugar
+  note: Ginger improved HbA1c and other metabolic markers in type 2 diabetes in meta-analyses of trials
+    (fasting blood sugar did not change in one)
+  reference_ids:
+  - REF-0639
+  - REF-3865
+  status: verified
+- condition: high-blood-pressure
+  note: Ginger modestly lowered blood pressure in a 2026 meta-analysis of randomized trials (low-certainty
+    evidence)
+  reference_ids:
+  - REF-3866
+  status: verified
+- condition: migraine
+  note: Ginger relieved migraine pain at 2 hours in a meta-analysis of randomized trials; it did not prevent
+    attacks in a placebo-controlled trial
+  reference_ids:
+  - REF-3869
+  status: verified
+  null_result_ids:
+  - REF-3870
+- condition: muscle-soreness
+  note: Daily ginger reduced exercise-induced muscle pain and running-induced soreness in randomized placebo-controlled
+    trials
+  reference_ids:
+  - REF-3871
+  - REF-3872
   status: verified
 contraindications:
 - note: Ginger is widely considered safe at culinary and conventional supplemental doses. At high doses
@@ -392,4 +369,16 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
   the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for rhizome + root (both provisional: Useful Tropical Plants REF-3371, lifted when the
-  stalks begin to wither, ~10 months after planting). Single lineage. Binomial confirmed.'
+  stalks begin to wither, ~10 months after planting). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 19 - Deep audit. 2008 review REF-0007
+  (retagged narrative-review) moved to mechanistic on 6 pairs it never names; respiratory-support
+  dropped. Unreadable review REF-0164 kept only on inflammation. Warfarin-bleeding study REF-0269
+  and the T2D MA REF-0639 removed from 5 actions; EU monograph REF-0077 from 3.
+  Pregnancy/chemotherapy nausea studies removed from indigestion; muscle-spasm dropped
+  (off-target). Added: dysmenorrhoea MA, OA MA (2020 knee-OA MA no-effect), CINV MA (CINV RCT
+  REF-0634 no-effect), inflammation-marker MA, Grieve REF-3876. New pairs (owner rule):
+  blood-sugar, high-blood-pressure, migraine (MA; prophylaxis RCT no-effect), muscle-soreness (2
+  RCTs).'
+references:
+- REF-0269
+- REF-0639

@@ -63739,20 +63739,17 @@
    "actions": [
     {
      "action": "anti-inflammatory",
-     "note": "Anti-inflammatory and antioxidant",
+     "note": "Anti-inflammatory (lung-cell study, preclinical)",
      "reference_ids": [
-      "REF-0513"
+      "REF-0632"
      ],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "antioxidant",
      "note": "Anti-inflammatory and antioxidant",
      "reference_ids": [
-      "REF-0513",
-      "REF-1378",
-      "REF-2554",
-      "REF-2555"
+      "REF-1378"
      ],
      "status": "verified"
     },
@@ -63769,58 +63766,39 @@
      "action": "expectorant",
      "note": "Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human lung epithelial cells",
      "reference_ids": [
-      "REF-0513",
       "REF-0514",
-      "REF-0632"
+      "REF-0632",
+      "REF-3850"
      ],
      "status": "needs-review"
     }
    ],
    "indications": [
     {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0514"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-2552"
-     ],
-     "evidence": 1,
-     "label": "Bloating"
-    },
-    {
      "condition": "bronchitis",
      "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0514",
-      "REF-0632"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0513"
+      "REF-0514"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Bronchitis"
     },
     {
      "condition": "cough",
-     "note": "Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human lung epithelial cells",
+     "note": "Traditional remedy for coughs and catarrh (Grieve, A Modern Herbal; HerbaZest); speedwell extract reduced inflammatory signals in human lung cells (preclinical)",
      "reference_ids": [
       "REF-0514",
-      "REF-0632"
+      "REF-3850"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0513"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Cough"
     },
     {
      "condition": "indigestion",
-     "note": "Mild digestive / stomach tonic (indigestion)",
+     "note": "Traditional remedy for stomach complaints (HerbaZest); speedwell extract helped gastric ulcers heal in rats (preclinical)",
      "reference_ids": [
       "REF-0514",
       "REF-2552"
@@ -63831,42 +63809,35 @@
     },
     {
      "condition": "inflammation",
-     "note": "Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human lung epithelial cells",
+     "note": "Traditionally used for inflammatory pain (HerbaZest); speedwell extract reduced inflammatory signals in human lung cells (preclinical)",
      "reference_ids": [
       "REF-0514",
       "REF-0632"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0513"
-     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Traditional remedy for coughs, catarrh and chest complaints (Grieve, A Modern Herbal; HerbaZest)",
      "reference_ids": [
       "REF-0514",
-      "REF-0632"
+      "REF-0632",
+      "REF-3850"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0513"
-     ],
      "evidence": 2,
      "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
-     "note": "Soothing for skin irritation (topical)",
+     "note": "Traditionally used for skin diseases and to calm irritated skin (Grieve, A Modern Herbal; HerbaZest)",
      "reference_ids": [
-      "REF-0514"
+      "REF-0514",
+      "REF-3850"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0513"
-     ],
      "evidence": 1,
      "label": "Skin irritation"
     }
@@ -63897,7 +63868,8 @@
     "REF-2552",
     "REF-2554",
     "REF-2555",
-    "REF-3123"
+    "REF-3123",
+    "REF-0513"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -63942,8 +63914,7 @@
      "name": "Viopudial and hydroquinones (arbutin)",
      "note": "Contribute to the smooth-muscle-relaxant and astringent activity.",
      "reference_ids": [
-      "REF-0439",
-      "REF-0440"
+      "REF-0439"
      ]
     },
     {
@@ -64037,8 +64008,7 @@
      "action": "analgesic",
      "note": "Mild analgesic for cramping pain",
      "reference_ids": [
-      "REF-0439",
-      "REF-1139"
+      "REF-0439"
      ],
      "status": "needs-review"
     },
@@ -64054,8 +64024,8 @@
      "note": "Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant); Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)",
      "reference_ids": [
       "REF-0439",
-      "REF-0440",
-      "REF-0610"
+      "REF-0610",
+      "REF-3851"
      ],
      "status": "verified"
     }
@@ -64063,20 +64033,17 @@
    "indications": [
     {
      "condition": "back-pain",
-     "note": "inferred from analgesic action",
+     "note": "Traditionally used for back and muscle pain (Herbal Reality)",
      "reference_ids": [
       "REF-0439"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1139"
-     ],
      "evidence": 1,
      "label": "Back pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Cramp bark extract slowed colorectal cancer cell growth in the lab (preclinical)",
      "reference_ids": [
       "REF-1142"
      ],
@@ -64085,36 +64052,21 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "headache",
-     "note": "inferred from analgesic action",
+     "condition": "menstrual-cramps",
+     "note": "Traditional remedy for menstrual cramps (Herbal Reality); no clinical trials",
      "reference_ids": [
       "REF-0439"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1139"
-     ],
      "evidence": 1,
-     "label": "Headache"
-    },
-    {
-     "condition": "menstrual-cramps",
-     "note": "Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)",
-     "reference_ids": [
-      "REF-0439",
-      "REF-0440",
-      "REF-0610",
-      "REF-1140"
-     ],
-     "status": "verified",
-     "evidence": 2,
      "label": "Menstrual cramps"
     },
     {
      "condition": "muscle-spasm",
-     "note": "Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant)",
+     "note": "Traditional antispasmodic for cramps and spasms of all kinds (Grieve, A Modern Herbal; Herbal Reality)",
      "reference_ids": [
-      "REF-0439"
+      "REF-0439",
+      "REF-3851"
      ],
      "status": "verified",
      "evidence": 1,
@@ -64122,7 +64074,7 @@
     },
     {
      "condition": "pain",
-     "note": "Mild analgesic for cramping pain",
+     "note": "Traditionally used for cramping and nerve pain (Herbal Reality)",
      "reference_ids": [
       "REF-0439"
      ],
@@ -64136,7 +64088,6 @@
      "note": "Only the bark is used medicinally; the raw berries are toxic and cause stomach upset, vomiting and diarrhoea if eaten in quantity.",
      "severity": "info",
      "reference_ids": [
-      "REF-0440",
       "REF-0439"
      ],
      "status": "verified"
@@ -64350,8 +64301,7 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0517",
-      "REF-1143",
-      "REF-1146"
+      "REF-1143"
      ],
      "status": "needs-review"
     },
@@ -64390,7 +64340,6 @@
      "reference_ids": [
       "REF-0517",
       "REF-1143",
-      "REF-1149",
       "REF-1150",
       "REF-1151"
      ],
@@ -64401,19 +64350,17 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0517"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1146"
+      "REF-0517"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "asthma",
-     "note": "Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus) - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression in children with asthma",
+     "note": "Violet flower syrup, added to standard treatment, sped cough relief in children with asthma in a randomized trial",
      "reference_ids": [
       "REF-0517",
       "REF-0609"
@@ -64424,18 +64371,20 @@
     },
     {
      "condition": "bronchitis",
-     "note": "Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus) - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression in children with asthma",
+     "note": "Traditional remedy for bronchitis and catarrh (Herbal Reality)",
      "reference_ids": [
-      "REF-0517",
-      "REF-0609"
+      "REF-0517"
      ],
      "status": "verified",
-     "evidence": 5,
+     "mechanistic_exclude_ids": [
+      "REF-0609"
+     ],
+     "evidence": 1,
      "label": "Bronchitis"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Sweet violet extract and its peptides were active against breast cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1145",
       "REF-1152"
@@ -64446,56 +64395,57 @@
     },
     {
      "condition": "cough",
-     "note": "Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus) - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression in children with asthma",
+     "note": "Violet syrup sped cough relief in children with asthma and eased cough in COVID-19 in randomized trials; traditional expectorant (Grieve, A Modern Herbal; Herbal Reality)",
      "reference_ids": [
       "REF-0517",
-      "REF-0609"
+      "REF-0609",
+      "REF-1148",
+      "REF-3852"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 6,
      "label": "Cough"
     },
     {
      "condition": "headache",
-     "note": "Mild sedative for sleeplessness and to ease headache (traditional)",
+     "note": "Violet syrup eased headache among other COVID-19 symptoms in a randomized trial; traditional for headache (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0517"
+      "REF-0517",
+      "REF-1148",
+      "REF-3852"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Headache"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for inflammatory skin conditions (Herbal Reality)",
      "reference_ids": [
       "REF-0517"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1146"
-     ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "insomnia",
-     "note": "Mild sedative for sleeplessness and to ease headache (traditional)",
+     "note": "Violet extract improved sleep quality and insomnia severity vs placebo in a meta-analysis and randomized trials; traditional for sleeplessness (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0517",
       "REF-1150",
-      "REF-1151"
+      "REF-1151",
+      "REF-3853",
+      "REF-3854",
+      "REF-3852"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1149"
-     ],
-     "evidence": 6,
+     "evidence": 9,
      "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Violet syrup eased cough in randomized trials; traditional for coughs, colds and catarrh (Herbal Reality)",
      "reference_ids": [
       "REF-0517",
       "REF-0609",
@@ -64507,14 +64457,13 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from demulcent action",
+     "note": "Traditionally used for eczema and inflamed skin (Herbal Reality)",
      "reference_ids": [
       "REF-0517"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0609",
-      "REF-1146"
+      "REF-0609"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -64522,11 +64471,23 @@
     {
      "condition": "sore-throat",
      "reference_ids": [
-      "REF-0517"
+      "REF-0517",
+      "REF-3852"
      ],
      "status": "verified",
+     "note": "Traditional remedy for sore throat (Grieve, A Modern Herbal; Herbal Reality)",
      "evidence": 1,
      "label": "Sore throat"
+    },
+    {
+     "condition": "fever",
+     "note": "Sweet violet oil reduced fever vs placebo in children with febrile neutropenia in a triple-blind randomized trial",
+     "reference_ids": [
+      "REF-1146"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Fever"
     }
    ],
    "contraindications": [
@@ -64731,8 +64692,7 @@
       "REF-0463",
       "REF-0617",
       "REF-1600",
-      "REF-1605",
-      "REF-2577"
+      "REF-1605"
      ],
      "status": "verified"
     },
@@ -64749,7 +64709,7 @@
      "action": "demulcent",
      "note": "Soothes irritated skin (demulcent and anti-inflammatory); Traditional demulcent / expectorant for cough, bronchitis and chest inflammation",
      "reference_ids": [
-      "REF-0463"
+      "REF-3855"
      ],
      "status": "needs-review"
     },
@@ -64757,7 +64717,6 @@
      "action": "emollient",
      "note": "Soothes irritated skin (demulcent and anti-inflammatory)",
      "reference_ids": [
-      "REF-0463",
       "REF-1605"
      ],
      "status": "verified"
@@ -64766,7 +64725,7 @@
      "action": "expectorant",
      "note": "Traditional demulcent / expectorant for cough, bronchitis and chest inflammation",
      "reference_ids": [
-      "REF-0463"
+      "REF-3855"
      ],
      "status": "needs-review"
     },
@@ -64784,23 +64743,21 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for arthritis (Herbal Reality)",
      "reference_ids": [
-      "REF-0463",
-      "REF-0617"
+      "REF-0517"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1600",
-      "REF-1605",
-      "REF-2577"
+      "REF-1605"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Heartsease extracts killed cancer cells and blocked new blood vessels in lab studies (preclinical)",
      "reference_ids": [
       "REF-1601"
      ],
@@ -64810,19 +64767,19 @@
     },
     {
      "condition": "eczema",
-     "note": "Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro",
+     "note": "Traditional remedy for eczema and other skin troubles (Grieve, A Modern Herbal; Herbal Reality); heartsease cyclotides calmed overactive immune cells in the lab (preclinical)",
      "reference_ids": [
       "REF-0463",
-      "REF-0617",
-      "REF-2579"
+      "REF-3855",
+      "REF-0517"
      ],
      "status": "verified",
-     "evidence": 3,
+     "evidence": 2,
      "label": "Eczema"
     },
     {
      "condition": "immune-support",
-     "note": "inferred from immunomodulator action",
+     "note": "Heartsease cyclotides inhibited HIV in the lab (preclinical)",
      "reference_ids": [
       "REF-2578"
      ],
@@ -64836,21 +64793,20 @@
     },
     {
      "condition": "inflammation",
-     "note": "Traditional demulcent / expectorant for cough, bronchitis and chest inflammation",
+     "note": "Heartsease extracts reduced inflammation in lab and animal studies (preclinical)",
      "reference_ids": [
-      "REF-0463",
-      "REF-2577"
+      "REF-0463"
      ],
      "status": "needs-review",
-     "evidence": 3,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "psoriasis",
-     "note": "Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro",
+     "note": "Traditionally used for psoriasis (Herbal Reality); heartsease cyclotides calmed overactive immune cells in the lab (preclinical)",
      "reference_ids": [
       "REF-0463",
-      "REF-0617"
+      "REF-0517"
      ],
      "status": "verified",
      "evidence": 2,
@@ -64858,16 +64814,17 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "Soothes irritated skin (demulcent and anti-inflammatory)",
+     "note": "Traditionally applied to itching, scabs and inflamed skin (Grieve, A Modern Herbal; Herbal Reality); a heartsease gel reduced sunburn inflammation in rats (preclinical)",
      "reference_ids": [
-      "REF-0463"
+      "REF-0463",
+      "REF-3855",
+      "REF-0517"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-1600",
-      "REF-2577"
+      "REF-1600"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Skin irritation"
     }
    ],
@@ -65043,67 +65000,58 @@
    ],
    "indications": [
     {
-     "condition": "acne",
-     "note": "Cycle-related (hormonal) acne (traditional)",
-     "reference_ids": [
-      "REF-2580"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Acne"
-    },
-    {
      "condition": "menopause",
      "reference_ids": [
-      "REF-1612",
-      "REF-2580"
+      "REF-1612"
      ],
      "status": "needs-review",
+     "note": "Proposed for menopausal complaints, but rigorous trials of vitex alone are lacking (review)",
      "evidence": 2,
      "label": "Menopause"
     },
     {
      "condition": "menstrual-cramps",
      "reference_ids": [
-      "REF-0433",
-      "REF-1610",
-      "REF-2580"
+      "REF-0433"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "note": "Vitex extracts eased premenstrual and menstrual-cycle complaints in clinical trials (systematic review)",
+     "evidence": 7,
      "label": "Menstrual cramps"
     },
     {
      "condition": "pain",
-     "note": "Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping. The proposed mechanism is dopaminergic suppression of latent hyperprolactinaemia.",
+     "note": "Vitex eased cyclical breast pain (mastalgia) in a meta-analysis of trials; it lowers prolactin (reviews)",
      "reference_ids": [
       "REF-0433",
       "REF-1609",
-      "REF-1610",
       "REF-1613",
       "REF-3119"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 8,
      "label": "Pain (general)"
     },
     {
      "condition": "pms",
-     "note": "Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping; Relief of premenstrual syndrome (PMS) symptoms",
+     "note": "Vitex extracts relieved premenstrual syndrome vs placebo in randomized trials in Germany and China and in meta-analyses, though reviews flag high risk of bias and incomplete reporting; it matched fluoxetine for the physical symptoms of PMDD",
      "reference_ids": [
       "REF-0433",
-      "REF-0435",
-      "REF-1607",
       "REF-1608",
       "REF-1609",
-      "REF-1610",
       "REF-1611",
       "REF-1613",
-      "REF-2580",
       "REF-3116",
-      "REF-3117"
+      "REF-3117",
+      "REF-3856",
+      "REF-3857",
+      "REF-3858",
+      "REF-3859"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-1607"
+     ],
      "evidence": 10,
      "label": "PMS / premenstrual syndrome"
     }
@@ -65148,7 +65096,8 @@
     "REF-1614",
     "REF-2580",
     "REF-3115",
-    "REF-3120"
+    "REF-3120",
+    "REF-0435"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -65367,23 +65316,26 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Withaferin A and other withanolides killed cancer cells in lab and animal studies (review; preclinical)",
      "reference_ids": [
       "REF-2255"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
-     "reference_ids": [],
+     "note": "Ashwagandha improved memory, attention and executive function in a 2026 meta-analysis and a randomized trial in mild cognitive impairment",
+     "reference_ids": [
+      "REF-2253",
+      "REF-3860"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2246"
      ],
-     "evidence": 1,
+     "evidence": 8,
      "label": "Cognitive function"
     },
     {
@@ -65404,25 +65356,30 @@
     },
     {
      "condition": "insomnia",
-     "note": "inferred from sedative action",
-     "reference_ids": [],
+     "note": "Ashwagandha extract improved sleep in adults in a meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-2245"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2247",
       "REF-2248"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
-     "reference_ids": [],
+     "note": "Ashwagandha root extract improved memory in mild cognitive impairment in a randomized trial and in a 2026 meta-analysis",
+     "reference_ids": [
+      "REF-2253",
+      "REF-3860"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2246"
      ],
-     "evidence": 1,
+     "evidence": 8,
      "label": "Memory"
     },
     {
@@ -65440,6 +65397,44 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "stress",
+     "note": "Ashwagandha lowered stress scores and cortisol vs placebo in meta-analyses and randomized trials (low-certainty evidence); a 2025 meta-analysis found lower cortisol but no change in perceived stress",
+     "reference_ids": [
+      "REF-2247",
+      "REF-3861",
+      "REF-2248",
+      "REF-2251"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3862"
+     ],
+     "evidence": 9,
+     "label": "Stress"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Ashwagandha reduced anxiety vs placebo in meta-analyses of randomized trials (low-certainty evidence)",
+     "reference_ids": [
+      "REF-2247",
+      "REF-3861",
+      "REF-3863"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "depression",
+     "note": "Ashwagandha reduced depression symptoms in a 2026 meta-analysis of randomized trials (heterogeneous studies)",
+     "reference_ids": [
+      "REF-3863"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Low mood / depression"
     }
    ],
    "contraindications": [
@@ -65454,6 +65449,14 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Ashwagandha supplements have been linked to rare, often cholestatic liver injury (jaundice, itching, dark urine); stop it if these appear, and avoid it with chronic liver disease (scoping review of published cases).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-3864"
      ],
      "status": "verified"
     }
@@ -65702,7 +65705,8 @@
      "action": "demulcent",
      "note": "Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function",
      "reference_ids": [
-      "REF-0436"
+      "REF-0436",
+      "REF-3877"
      ],
      "status": "verified"
     },
@@ -65712,7 +65716,8 @@
      "reference_ids": [
       "REF-0436",
       "REF-0557",
-      "REF-1632"
+      "REF-1632",
+      "REF-3877"
      ],
      "status": "verified"
     }
@@ -65721,16 +65726,14 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0436"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Corn silk extract killed breast cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1629"
      ],
@@ -65739,31 +65742,9 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "cough",
-     "note": "inferred from demulcent action",
-     "reference_ids": [
-      "REF-0436"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Cough"
-    },
-    {
-     "condition": "infection",
-     "note": "Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function",
-     "reference_ids": [
-      "REF-0436"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Infection (general)"
-    },
-    {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0436"
-     ],
+     "note": "Corn silk compounds reduced inflammation in lab and animal studies (preclinical)",
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Inflammation (general)"
@@ -65771,9 +65752,7 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from demulcent action",
-     "reference_ids": [
-      "REF-0436"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1625"
@@ -65782,43 +65761,33 @@
      "label": "Skin irritation"
     },
     {
-     "condition": "sore-throat",
-     "note": "inferred from demulcent action",
-     "reference_ids": [
-      "REF-0436"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Sore throat"
-    },
-    {
      "condition": "swelling",
-     "note": "Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling; in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration and potassium excretion",
+     "note": "Corn silk extract was diuretic in rats (preclinical); traditional diuretic (review)",
      "reference_ids": [
       "REF-0436",
       "REF-0557"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Swelling / fluid retention"
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Traditional diuretic and demulcent for bladder irritation and gravel (Grieve, A Modern Herbal); corn silk extract was diuretic in rats (preclinical)",
      "reference_ids": [
       "REF-0436",
-      "REF-0557"
+      "REF-0557",
+      "REF-3877"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Urinary support"
     },
     {
      "condition": "uti",
-     "note": "Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling; in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration and potassium excretion; Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function",
+     "note": "Traditional demulcent and diuretic for acute and chronic cystitis and bladder irritation (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0436",
-      "REF-0557"
+      "REF-3877"
      ],
      "status": "verified",
      "evidence": 1,
@@ -65989,11 +65958,7 @@
      "action": "analgesic",
      "reference_ids": [
       "REF-0007",
-      "REF-0077",
-      "REF-0639",
       "REF-0164",
-      "REF-0269",
-      "REF-0295",
       "REF-0605",
       "REF-0637",
       "REF-0638"
@@ -66004,11 +65969,7 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0007",
-      "REF-0077",
-      "REF-0639",
       "REF-0164",
-      "REF-0269",
-      "REF-0295",
       "REF-0637",
       "REF-0638"
      ],
@@ -66018,11 +65979,7 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0007",
-      "REF-0077",
-      "REF-0639",
-      "REF-0164",
-      "REF-0269",
-      "REF-0295"
+      "REF-0164"
      ],
      "status": "verified"
     },
@@ -66032,10 +65989,7 @@
      "reference_ids": [
       "REF-0007",
       "REF-0077",
-      "REF-0639",
       "REF-0164",
-      "REF-0269",
-      "REF-0295",
       "REF-0605"
      ],
      "status": "verified"
@@ -66045,9 +65999,7 @@
      "reference_ids": [
       "REF-0007",
       "REF-0077",
-      "REF-0639",
       "REF-0164",
-      "REF-0269",
       "REF-0295",
       "REF-0634",
       "REF-0635"
@@ -66058,19 +66010,19 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Ginger modestly reduced osteoarthritis pain and disability vs placebo in a meta-analysis, though a 2020 knee-osteoarthritis meta-analysis found the evidence insufficient",
      "reference_ids": [
       "REF-0007",
-      "REF-0164",
       "REF-0637",
-      "REF-0638"
+      "REF-0638",
+      "REF-3873"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0077",
-      "REF-0269",
-      "REF-0295",
-      "REF-0639"
+      "REF-0164"
+     ],
+     "null_result_ids": [
+      "REF-3874"
      ],
      "evidence": 9,
      "label": "Arthritis / joint pain"
@@ -66078,203 +66030,197 @@
     {
      "condition": "back-pain",
      "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0007",
-      "REF-0164"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0077",
-      "REF-0269",
-      "REF-0295",
       "REF-0605",
       "REF-0637",
       "REF-0638",
-      "REF-0639"
+      "REF-0164"
      ],
-     "evidence": 3,
+     "evidence": 1,
      "label": "Back pain"
     },
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditional remedy for bloating, flatulence and mild spasmodic stomach complaints (EU herbal monograph; Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0007",
-      "REF-0077"
+      "REF-0077",
+      "REF-3876"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0164",
-      "REF-0269",
       "REF-0295",
       "REF-0634",
-      "REF-0635",
-      "REF-0639"
+      "REF-0635"
      ],
-     "evidence": 3,
+     "evidence": 1,
      "label": "Bloating"
     },
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0007"
+      "REF-0007",
+      "REF-3866"
      ],
      "status": "verified",
-     "evidence": 3,
+     "note": "Ginger modestly lowered blood pressure in a meta-analysis of randomized trials; reviewed for cardiovascular effects",
+     "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "headache",
-     "note": "inferred from analgesic action",
+     "note": "Ginger relieved migraine headache at 2 hours in a meta-analysis of randomized trials",
      "reference_ids": [
-      "REF-0007"
+      "REF-3869"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0077",
       "REF-0164",
-      "REF-0269",
-      "REF-0295",
       "REF-0605",
       "REF-0637",
-      "REF-0638",
-      "REF-0639"
+      "REF-0638"
      ],
-     "evidence": 3,
+     "evidence": 7,
      "label": "Headache"
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditional remedy for dyspepsia and mild spasmodic stomach complaints (EU herbal monograph; Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0007",
       "REF-0077",
+      "REF-3876"
+     ],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0164",
       "REF-0295",
       "REF-0634",
       "REF-0635"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0164",
-      "REF-0269",
-      "REF-0639"
-     ],
-     "evidence": 9,
+     "evidence": 2,
      "label": "Indigestion"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Ginger lowered inflammatory markers (CRP, IL-6) in a meta-analysis of randomized trials",
      "reference_ids": [
       "REF-0007",
       "REF-0164",
       "REF-0637",
-      "REF-0638"
+      "REF-3875"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0077",
-      "REF-0269",
-      "REF-0295",
-      "REF-0639"
-     ],
-     "evidence": 9,
+     "evidence": 8,
      "label": "Inflammation (general)"
     },
     {
      "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
+     "note": "Ginger reduced period pain vs placebo, as much as NSAIDs, in meta-analyses of randomized trials",
      "reference_ids": [
-      "REF-0007",
-      "REF-0605"
+      "REF-0605",
+      "REF-3868"
      ],
-     "status": "needs-review",
+     "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0077",
-      "REF-0164",
-      "REF-0269",
-      "REF-0295",
-      "REF-0639"
+      "REF-0164"
      ],
      "evidence": 8,
      "label": "Menstrual cramps"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0007"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0077",
-      "REF-0164",
-      "REF-0269",
-      "REF-0295",
-      "REF-0605",
-      "REF-0639"
-     ],
-     "evidence": 3,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "pain",
      "reference_ids": [
       "REF-0007",
-      "REF-0164",
       "REF-0605",
       "REF-0637",
-      "REF-0638"
+      "REF-0638",
+      "REF-3871"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0077",
-      "REF-0269",
-      "REF-0295",
-      "REF-0639"
+      "REF-0164"
      ],
+     "note": "Ginger reduced period pain, osteoarthritis pain and exercise-induced muscle pain in meta-analyses and randomized trials",
      "evidence": 9,
      "label": "Pain (general)"
     },
     {
-     "condition": "respiratory-support",
-     "reference_ids": [
-      "REF-0007"
-     ],
-     "status": "verified",
-     "evidence": 3,
-     "label": "Respiratory support"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0007",
-      "REF-0164"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0077",
-      "REF-0269",
-      "REF-0295",
       "REF-0637",
       "REF-0638",
-      "REF-0639"
+      "REF-0164"
      ],
-     "evidence": 3,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "nausea",
-     "note": "Meta-analyses report that ginger relieves nausea in pregnancy compared with placebo, with no significant effect on vomiting episodes. The EU herbal monograph covers prevention of nausea and vomiting in motion sickness.",
+     "note": "Ginger relieved nausea in pregnancy vs placebo in meta-analyses (not vomiting), and helped severe chemotherapy nausea as an add-on in a meta-analysis, though one large placebo-controlled trial found no effect on acute chemotherapy nausea; the EU herbal monograph covers motion sickness",
      "reference_ids": [
       "REF-0295",
       "REF-0635",
-      "REF-0077"
+      "REF-0077",
+      "REF-3867"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-0634"
+     ],
+     "evidence": 9,
+     "label": "Nausea"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Ginger improved HbA1c and other metabolic markers in type 2 diabetes in meta-analyses of trials (fasting blood sugar did not change in one)",
+     "reference_ids": [
+      "REF-0639",
+      "REF-3865"
      ],
      "status": "verified",
      "evidence": 8,
-     "label": "Nausea"
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Ginger modestly lowered blood pressure in a 2026 meta-analysis of randomized trials (low-certainty evidence)",
+     "reference_ids": [
+      "REF-3866"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High blood pressure"
+    },
+    {
+     "condition": "migraine",
+     "note": "Ginger relieved migraine pain at 2 hours in a meta-analysis of randomized trials; it did not prevent attacks in a placebo-controlled trial",
+     "reference_ids": [
+      "REF-3869"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3870"
+     ],
+     "evidence": 7,
+     "label": "Migraine"
+    },
+    {
+     "condition": "muscle-soreness",
+     "note": "Daily ginger reduced exercise-induced muscle pain and running-induced soreness in randomized placebo-controlled trials",
+     "reference_ids": [
+      "REF-3871",
+      "REF-3872"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Muscle soreness"
     }
    ],
    "contraindications": [
@@ -66346,6 +66292,10 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "references": [
+    "REF-0269",
+    "REF-0639"
+   ],
    "common_slug": "ginger"
   }
  ]

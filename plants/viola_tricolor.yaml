@@ -117,7 +117,6 @@ actions:
   - REF-0617
   - REF-1600
   - REF-1605
-  - REF-2577
   status: verified
 - action: anticancer
   note: Cytotoxic / antiproliferative against cancer cell lines in vitro (cyclotides vitri A, varv A and
@@ -130,18 +129,17 @@ actions:
   note: Soothes irritated skin (demulcent and anti-inflammatory); Traditional demulcent / expectorant
     for cough, bronchitis and chest inflammation
   reference_ids:
-  - REF-0463
+  - REF-3855
   status: needs-review
 - action: emollient
   note: Soothes irritated skin (demulcent and anti-inflammatory)
   reference_ids:
-  - REF-0463
   - REF-1605
   status: verified
 - action: expectorant
   note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
   reference_ids:
-  - REF-0463
+  - REF-3855
   status: needs-review
 - action: immunomodulator
   note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
@@ -154,31 +152,28 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for arthritis (Herbal Reality)
   reference_ids:
-  - REF-0463
-  - REF-0617
+  - REF-0517
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1600
   - REF-1605
-  - REF-2577
 - condition: cancer
-  note: inferred from anticancer action
+  note: Heartsease extracts killed cancer cells and blocked new blood vessels in lab studies (preclinical)
   reference_ids:
   - REF-1601
   status: needs-review
 - condition: eczema
-  note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
-    and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations
-    suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro
+  note: Traditional remedy for eczema and other skin troubles (Grieve, A Modern Herbal; Herbal Reality);
+    heartsease cyclotides calmed overactive immune cells in the lab (preclinical)
   reference_ids:
   - REF-0463
-  - REF-0617
-  - REF-2579
+  - REF-3855
+  - REF-0517
   status: verified
 - condition: immune-support
-  note: inferred from immunomodulator action
+  note: Heartsease cyclotides inhibited HIV in the lab (preclinical)
   reference_ids:
   - REF-2578
   status: needs-review
@@ -186,27 +181,27 @@ indications:
   - REF-0463
   - REF-0617
 - condition: inflammation
-  note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
+  note: Heartsease extracts reduced inflammation in lab and animal studies (preclinical)
   reference_ids:
   - REF-0463
-  - REF-2577
   status: needs-review
 - condition: psoriasis
-  note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
-    and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations
-    suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro
+  note: Traditionally used for psoriasis (Herbal Reality); heartsease cyclotides calmed overactive immune
+    cells in the lab (preclinical)
   reference_ids:
   - REF-0463
-  - REF-0617
+  - REF-0517
   status: verified
 - condition: skin-irritation
-  note: Soothes irritated skin (demulcent and anti-inflammatory)
+  note: Traditionally applied to itching, scabs and inflamed skin (Grieve, A Modern Herbal; Herbal Reality);
+    a heartsease gel reduced sunburn inflammation in rats (preclinical)
   reference_ids:
   - REF-0463
+  - REF-3855
+  - REF-0517
   status: verified
   mechanistic_exclude_ids:
   - REF-1600
-  - REF-2577
 contraindications:
 - note: Regarded as safe in customary traditional use; because the extract suppresses immune-cell activity,
     there is a theoretical caution when taking immunosuppressant medicines.
@@ -269,4 +264,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   ''Tincture'': The monograph covers a herbal tea, a wet-dressing infusion and a bath additive. No tincture,
   extract, ethanol strength or ratio is given. | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for aerial-parts (provisional: PFAF REF-3368, flowering herb cut June-August). Single
-  lineage. Binomial confirmed.'
+  lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 19 - Deep audit. Immune-cell studies
+  REF-0463 (retagged preclinical) and REF-0617 moved to mechanistic where they never name the
+  symptom, and REF-0463 removed from the demulcent/emollient/expectorant actions. A case report on
+  multi-herb products REF-2579 and a multi-herb anti-cytokine preparation REF-2577 removed. Grieve
+  REF-3855 and Herbal Reality REF-0517 (covers V. tricolor) added for eczema, psoriasis,
+  arthritis, skin irritation. Gap: the only RCT is a three-herb ointment.'

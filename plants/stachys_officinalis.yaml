@@ -20,15 +20,13 @@ constituents:
   - verbascoside
   note: Anti-inflammatory and antispasmodic constituents.
   reference_ids:
-  - REF-0535
   - REF-1062
   - REF-1063
 - name: Alkaloids (stachydrine, betaine)
   compounds:
   - alkaloid
   note: Characteristic nitrogen-containing constituents.
-  reference_ids:
-  - REF-0535
+  reference_ids: []
 - name: Phenolic acids (rosmarinic, caffeic, chlorogenic), tannins and volatile oil
   compounds:
   - phenolic-acid
@@ -40,7 +38,6 @@ constituents:
   note: Antioxidant, astringent and aromatic constituents; methanolic extract of the herb showed strong
     free-radical-scavenging and lipid-peroxidation-inhibiting activity in vitro.
   reference_ids:
-  - REF-0535
   - REF-0621
   - REF-1056
   - REF-1057
@@ -58,22 +55,19 @@ botanical_description:
   root: Fibrous perennial rootstock
   fruit: Four small nutlets (typical Lamiaceae schizocarp)
   flowering_period: June-September
-  reference_ids:
-  - REF-0535
+  reference_ids: []
   status: verified
 habitat:
   text: Native to Europe, growing in open woodland, grassland, hedgebanks and heathland on well-drained,
     often slightly acidic soils.
-  reference_ids:
-  - REF-0535
+  reference_ids: []
   status: verified
 harvesting:
   text: Aerial flowering parts are cut during flowering (summer) and dried.
   parts:
   - Aerial parts (flowering herb)
   season: Summer, during flowering
-  reference_ids:
-  - REF-0535
+  reference_ids: []
   status: verified
 harvest_readiness:
 - part: aerial-parts
@@ -94,14 +88,12 @@ traditional_uses:
     among the strongest antioxidants of the Lamiaceae family, alongside anti-inflammatory and antispasmodic
     constituents.
   reference_ids:
-  - REF-0535
   - REF-0534
   status: verified
 preparations:
 - name: Infusion (tea)
   text: Dried aerial parts steeped in hot water - the classic calming and digestive preparation.
-  reference_ids:
-  - REF-0535
+  reference_ids: []
   status: verified
 - name: Tincture
   text: Alcoholic extract of the dried herb.
@@ -113,13 +105,11 @@ dosage:
     and avoid in pregnancy.
   reference_ids:
   - REF-0534
-  - REF-0535
   status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory and antispasmodic
   reference_ids:
-  - REF-0535
   - REF-1062
   status: needs-review
 - action: antioxidant
@@ -127,105 +117,89 @@ actions:
     herbs
   reference_ids:
   - REF-0621
-  - REF-1055
   - REF-1056
   - REF-1059
   - REF-1061
   status: verified
 - action: antispasmodic
   note: Anti-inflammatory and antispasmodic
-  reference_ids:
-  - REF-0535
+  reference_ids: []
   status: needs-review
 - action: anxiolytic
-  note: Gentle calmative for anxiety; Nervine / relaxant for nervous tension and tension headaches (especially
-    headache worsened by anxiety or muscle tension)
+  note: Traditional calming herb and nerve tonic (PeaceHealth)
   reference_ids:
   - REF-0534
-  - REF-0535
   status: needs-review
 - action: digestive
-  note: Digestive bitter for indigestion, mild stomach upset and bloating
+  note: Tonic for dyspepsia (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0535
+  - REF-3786
   status: needs-review
 indications:
 - condition: anxiety
-  note: Gentle calmative for anxiety; Nervine / relaxant for nervous tension and tension headaches (especially
-    headache worsened by anxiety or muscle tension)
+  note: Traditional calming herb for anxiety, with minimal scientific evidence (PeaceHealth)
   reference_ids:
   - REF-0534
-  - REF-0535
   status: needs-review
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for rheumatism and gout (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0535
+  - REF-3786
   status: needs-review
 - condition: bloating
-  note: Digestive bitter for indigestion, mild stomach upset and bloating
-  reference_ids:
-  - REF-0535
+  note: inferred from digestive action
+  reference_ids: []
   status: needs-review
 - condition: headache
-  note: Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by
-    anxiety or muscle tension)
+  note: Traditional remedy for headaches and nerve pain in the head and face (PeaceHealth; Grieve, A Modern
+    Herbal)
   reference_ids:
   - REF-0534
-  - REF-0535
+  - REF-3786
   status: verified
 - condition: indigestion
-  note: Digestive bitter for indigestion, mild stomach upset and bloating
-  reference_ids:
-  - REF-0535
-  status: needs-review
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0535
-  - REF-1062
-  status: needs-review
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0535
-  status: needs-review
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0535
-  status: needs-review
-- condition: nervous-tension
-  note: Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by
-    anxiety or muscle tension)
+  note: Used in European herbal medicine for heartburn and gastritis, and as a tonic for indigestion (PeaceHealth;
+    Grieve, A Modern Herbal)
   reference_ids:
   - REF-0534
-  - REF-0535
+  - REF-3786
+  status: needs-review
+- condition: inflammation
+  note: Wood betony extract reduced inflammation in rats (preclinical)
+  reference_ids:
+  - REF-1062
+  status: needs-review
+- condition: nervous-tension
+  note: Traditional nerve tonic for nervous complaints (PeaceHealth; Grieve, A Modern Herbal)
+  reference_ids:
+  - REF-0534
+  - REF-3786
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0535
+  reference_ids: []
   status: needs-review
 - condition: stress
   note: inferred from anxiolytic action
-  reference_ids:
-  - REF-0534
-  - REF-0535
+  reference_ids: []
   status: needs-review
 contraindications:
 - note: Generally well tolerated, with occasional mild nausea the main reported effect.
   severity: info
   reference_ids:
-  - REF-0535
+  - REF-0534
   status: verified
-- note: Traditionally avoided in pregnancy (uterine reputation), and it may lower blood pressure - use
-    caution with blood-pressure medicines.
+- note: Safety during pregnancy and breastfeeding is unknown (PeaceHealth), so avoid it then.
   severity: caution
   reference_ids:
   - REF-0534
-  - REF-0535
-  status: needs-review
+  status: verified
+- note: In lab tests on human white blood cells, wood betony extract caused some DNA damage (comet assay)
+    but was not mutagenic in the Ames test; what this means for people is unknown (preclinical).
+  severity: info
+  reference_ids:
+  - REF-1055
+  status: verified
 references:
 - REF-1055
 - REF-1056
@@ -256,4 +230,11 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Peace
   plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing general wood-betony monographs (REF-0534, REF-0535). |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF
-  REF-3343, whole herb collected when in flower in summer). Single lineage. Binomial confirmed.'
+  REF-3343, whole herb collected when in flower in summer). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 16 - Deep audit. Naturopathic Herbalist page
+  REF-0535 (no references) purged and deleted; it was the only source for bloating, menstrual
+  cramps and muscle spasm (dropped) and for safety note #1. PeaceHealth REF-0534 (5 references;
+  1-star traditional ratings) kept for anxiety, nervous tension, headache and added to indigestion
+  (heartburn, gastritis). Grieve REF-3786 added (head maladies, neuralgia, dyspepsia, rheumatism).
+  Safety notes re-sourced to PeaceHealth; the unsourced "may lower blood pressure" line removed.
+  Genotoxicity study REF-1055 moved from the antioxidant action to a new info safety note.'

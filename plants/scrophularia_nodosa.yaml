@@ -20,7 +20,6 @@ constituents:
   note: Anti-inflammatory constituents; harpagoside also has cardiac (inotropic) activity.
   reference_ids:
   - REF-0452
-  - REF-0451
   - REF-1037
   - REF-1038
 - name: Flavonoids
@@ -89,7 +88,6 @@ traditional_uses:
     glands. It has a long folk-medicine reputation as an 'alterative' (blood-purifying) herb for chronic
     skin conditions such as eczema and psoriasis, applied as a poultice, salve or tea.
   reference_ids:
-  - REF-0451
   - REF-0452
   status: verified
 preparations:
@@ -112,7 +110,6 @@ dosage:
     and short-term given limited safety data and the cardioactive harpagoside content. Educational reference
     only, not a prescription; avoid with heart conditions/cardiac medicines and in pregnancy.
   reference_ids:
-  - REF-0451
   - REF-0452
   status: verified
 actions:
@@ -120,7 +117,6 @@ actions:
   note: Mild diuretic and lymphatic 'detoxifying' herb (traditional); Traditional 'alterative' for chronic
     skin conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)
   reference_ids:
-  - REF-0451
   - REF-0452
   - REF-1040
   - REF-1043
@@ -132,6 +128,7 @@ actions:
   - REF-0452
   - REF-1036
   - REF-1041
+  - REF-3785
   status: needs-review
 - action: antispasmodic
   note: Antispasmodic / smooth-muscle relaxant (preclinical - an extract relaxed isolated intestinal smooth
@@ -143,96 +140,78 @@ actions:
   note: Mild diuretic and lymphatic 'detoxifying' herb (traditional)
   reference_ids:
   - REF-0452
+  - REF-3785
   status: needs-review
 indications:
 - condition: acne
   note: inferred from alterative action
-  reference_ids:
-  - REF-0451
-  - REF-0452
+  reference_ids: []
   status: needs-review
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for rheumatic problems and joint pain (Medicinal Herbals)
   reference_ids:
   - REF-0452
   status: needs-review
 - condition: detox
-  note: inferred from alterative action
+  note: Traditional "alterative" or blood-cleansing herb (Medicinal Herbals)
   reference_ids:
-  - REF-0451
   - REF-0452
   status: needs-review
 - condition: eczema
   note: Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice,
     salve or tea)
   reference_ids:
-  - REF-0451
   - REF-0452
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Traditionally applied as a fomentation to inflammations and swellings (Grieve, A Modern Herbal);
+    figwort reduced inflammatory signals in mouse immune cells (preclinical)
   reference_ids:
   - REF-0452
   - REF-1041
+  - REF-3785
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1036
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0630
-  status: needs-review
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0630
-  status: needs-review
 - condition: psoriasis
   note: Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice,
     salve or tea)
   reference_ids:
-  - REF-0451
   - REF-0452
   status: needs-review
 - condition: skin-irritation
-  note: Anti-inflammatory; soothes inflamed, irritated skin; Traditional 'alterative' for chronic skin
-    conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)
+  note: Traditionally used for skin eruptions and rashes, applied as an ointment or wash (Grieve, A Modern
+    Herbal; Medicinal Herbals)
   reference_ids:
-  - REF-0451
   - REF-0452
-  - REF-1035
   - REF-1040
+  - REF-3785
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1036
 - condition: swelling
-  note: inferred from diuretic action
+  note: Traditionally applied as a fomentation to swellings and sprains (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0452
+  - REF-3785
   status: needs-review
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Traditional diuretic (Grieve, A Modern Herbal; Medicinal Herbals)
   reference_ids:
   - REF-0452
-  status: needs-review
-- condition: uti
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0452
+  - REF-3785
   status: needs-review
 contraindications:
 - note: 'Avoid if you have a heart condition or take cardiac medicines: figwort''s harpagoside has a stimulating
     (inotropic) effect on the heart, so it is traditionally avoided with rapid heartbeat or heart disease.'
   severity: caution
   reference_ids:
-  - REF-0451
   - REF-0452
   status: verified
 - note: Avoid during pregnancy. There is insufficient reliable evidence on the safety of taking figwort
     by mouth, so internal use should be cautious and short-term.
   severity: caution
-  reference_ids:
-  - REF-0451
+  reference_ids: []
   status: verified
 references:
 - REF-1035
@@ -295,4 +274,11 @@ internal_notes: 'Enriched 2026-06-12 from general literature (WebMD and herbal m
   monograph-base fields, sourced from the existing general figwort monographs (REF-0451, REF-0452). |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF
   REF-3338, cut as it comes into flower in summer); root = GAP. SAFETY: fatal Atropa belladonna lookalike.
-  Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Grieve gives ''Part Used: Herb'' collected June-July, King''s says the root is generally employed but gives no season, Cook gives none, and the Madaus Sammelzeit (June-September) does not say which organ it covers, so it was not stretched to the root.'
+  Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Grieve gives ''Part Used: Herb'' collected June-July, King''s says the root is generally employed but gives no season, Cook gives none, and the Madaus Sammelzeit (June-September) does not say which organ it covers, so it was not stretched to the root.
+  | 2026-11-13: symptom-source audit deep audit batch 16 - Deep audit (2nd pass + deep). WebMD
+  figwort page REF-0451 returns 404 (2026-11-13): purged and deleted. Medicinal Herbals blog
+  REF-0452 has a short reference list, kept only for what it names (skin conditions, rheumatic and
+  joint pain, cleansing, diuretic, swellings). Grieve REF-3785 (external use for sprains,
+  swellings, inflammations, eruptions; diuretic) added. Menstrual-cramps and muscle-spasm dropped
+  (rabbit gut antispasmodic REF-0630, retagged preclinical). UTI dropped (diuretic only).
+  Wound-healing iridoid study REF-1035 removed from skin-irritation.'

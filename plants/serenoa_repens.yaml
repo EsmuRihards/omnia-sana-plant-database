@@ -25,48 +25,52 @@ constituents:
   - REF-1508
 indications:
 - condition: prostate-support
-  note: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
-    Cochrane evidence shows it is NOT better than placebo, even at double and triple doses
+  note: 'Urinary symptoms of an enlarged prostate (BPH): the 2023 Cochrane review found saw palmetto alone
+    gives little to no benefit over placebo, and two large US trials (one at double and triple doses)
+    found none; meta-analyses of one hexane extract (Permixon) report fewer night-time urinations and
+    better flow, similar to tamsulosin'
   reference_ids:
-  - REF-1508
-  - REF-0504
-  - REF-1887
   - REF-0571
   - REF-1888
   - REF-1889
-  - REF-1890
   - REF-1891
-  - REF-1892
-  - REF-1893
   - REF-0572
   - REF-1894
   status: needs-review
   null_result_ids:
   - REF-1895
-- condition: urinary-support
-  note: General urinary support (traditional); Lower urinary tract symptoms of benign prostatic hyperplasia
-    (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even
-    at double and triple doses
-  reference_ids:
-  - REF-1508
-  - REF-0504
   - REF-1887
+  - REF-1890
+  - REF-1508
+  - REF-3764
+  - REF-3765
+- condition: urinary-support
+  note: Saw palmetto fruit extract eased mild urinary frequency vs placebo in three small Japanese randomized
+    trials (women, men and healthy adults); in men with an enlarged prostate the 2023 Cochrane review
+    found little to no benefit
+  reference_ids:
   - REF-0571
   - REF-1888
   - REF-1889
-  - REF-1890
   - REF-0572
   - REF-1894
+  - REF-3766
+  - REF-3767
+  - REF-3768
   status: needs-review
   null_result_ids:
   - REF-1895
+  - REF-1887
+  - REF-1890
+  - REF-1508
+  - REF-3764
+  - REF-3765
 contraindications:
 - note: Generally well tolerated; mild gastrointestinal upset is the most common effect. BPH must be medically
     diagnosed (to exclude prostate cancer), and because the best evidence does not show benefit, saw palmetto
     should not replace proven treatment.
   severity: caution
   reference_ids:
-  - REF-0504
   - REF-1508
   status: verified
 - note: Has mild anti-androgen and antiplatelet effects, so use caution with anticoagulant medicines and
@@ -83,7 +87,6 @@ references:
 - REF-1889
 - REF-1890
 - REF-1891
-- REF-1892
 - REF-1893
 - REF-1894
 - REF-1895
@@ -125,7 +128,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   timing for Serenoa repens (berries ripen autumn/early winter turning blue-black, but unsourced this pass).
   Binomial confirmed (no timing to attach). | 2026-08-15: fruit harvest_readiness filled and raised to VERIFIED (was gap): UF/IFAS EDIS FPS-547 (REF-3386) and Wikipedia (REF-3387) independently give the same ripe-fruit stage (deep shiny blue-black / reddish-black drupe). Florida''s harvest-permit regime noted in-entry.
   | 2026-11-10: symptom-source audit batch 3 - REF-1895 (12-week RCT: no significant benefit over
-  placebo) moved to null_result_ids for prostate-support and urinary-support.'
+  placebo) moved to null_result_ids for prostate-support and urinary-support.
+  | 2026-11-13: symptom-source audit deep audit batch 16 - Deep audit. 2012 Cochrane REF-0504 and
+  its BJU version REF-1892 purged and deleted (superseded by the 2023 update REF-1887). The 2023
+  Cochrane, the 2021 MA REF-1890 and the CAM review REF-1508 all conclude no benefit and were
+  cited as support: moved to no-effect. CAMUS 2011 REF-3764 and Bent 2006 REF-3765 (NEJM) added as
+  no-effect. Lycopene/selenium combination review REF-1893 removed. Three Japanese placebo RCTs on
+  mild urinary symptoms added to urinary-support. Gap: hair-loss RCTs (no hair-loss condition in
+  the vocabulary).'
 botanical_description:
   text: Low, clump-forming fan-palm shrub (Arecaceae), usually with a creeping or short, often prostrate
     trunk. Leaves are fan-shaped (palmate) on long, spiny-edged stalks. Small, creamy-white flowers are
@@ -178,7 +188,6 @@ traditional_uses:
     while some meta-analyses of a specific standardised hexanic extract report symptom benefit.
   reference_ids:
   - REF-1508
-  - REF-0504
   status: verified
 preparations:
 - name: Standardised lipophilic (hexanic) extract (capsule)
@@ -201,5 +210,4 @@ dosage:
     evidence.
   reference_ids:
   - REF-1508
-  - REF-0504
   status: verified

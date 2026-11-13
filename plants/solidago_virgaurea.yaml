@@ -135,12 +135,9 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0016
   - REF-0069
   - REF-1045
   - REF-1046
-  - REF-1047
-  - REF-1050
   status: verified
 - action: anticancer
   reference_ids:
@@ -148,7 +145,6 @@ actions:
   status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0016
   - REF-0069
   - REF-1045
   - REF-1049
@@ -157,67 +153,58 @@ actions:
   status: verified
 - action: diuretic
   reference_ids:
-  - REF-0016
   - REF-0069
   - REF-1045
-  - REF-1048
+  - REF-3790
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0016
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0069
-  - REF-1047
-  - REF-1050
 - condition: cancer
-  note: inferred from anticancer action
+  note: Goldenrod extract suppressed prostate tumour growth in mice (preclinical)
   reference_ids:
   - REF-1050
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Goldenrod compounds reduced inflammation in rats (preclinical)
   reference_ids:
-  - REF-0016
   - REF-1046
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0069
-  - REF-1047
-  - REF-1050
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0016
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0069
-  - REF-1047
-  - REF-1050
 - condition: swelling
   note: inferred from diuretic action
-  reference_ids:
-  - REF-0016
-  - REF-0069
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-1048
+  - REF-0069
 - condition: urinary-support
   reference_ids:
-  - REF-0016
   - REF-0069
   - REF-1045
   - REF-1048
+  - REF-3790
   status: verified
+  note: Traditional use to increase urine and flush the urinary tract in minor urinary complaints (EU
+    herbal monograph); for gravel and bladder stone (Grieve, A Modern Herbal)
 - condition: uti
-  note: inferred from diuretic action
+  note: Goldenrod extract reduced the survival and biofilm of urinary E. coli in the lab, but weakened
+    the effect of two antibiotics (preclinical)
   reference_ids:
-  - REF-0016
-  - REF-0069
   - REF-1048
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0069
 contraindications:
 - note: Generally well tolerated. Not recommended in cases of fluid retention due to impaired cardiac
     or renal function. Ensure adequate fluid intake when using as a diuretic. May cause allergic reactions
@@ -242,6 +229,13 @@ contraindications:
   - REF-0244
   - REF-0063
   status: verified
+- note: In lab tests, goldenrod extract weakened the antibacterial effect of amikacin and ciprofloxacin
+    against urinary E. coli; tell your doctor before combining it with these antibiotics for a urinary
+    infection (preclinical).
+  severity: caution
+  reference_ids:
+  - REF-1048
+  status: verified
 references:
 - REF-1045
 - REF-1046
@@ -253,6 +247,7 @@ references:
 - REF-1052
 - REF-1053
 - REF-1054
+- REF-0016
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -308,4 +303,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   record''s citations were audited and are all S. virgaurea-specific or generic (Duke handbook, Kew/POWO,
   shared ragwort/foraging refs) - no wrong-species citations. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
   flower + leaf + stem (all provisional: PFAF REF-3342, flowering tops gathered in summer). SAFETY: PA-toxic
-  ragwort (Jacobaea vulgaris) lookalike. Binomial confirmed.'
+  ragwort (Jacobaea vulgaris) lookalike. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 16 - Deep audit. 1990 saponin chemistry
+  paper REF-0016 (no abstract) was pinned to 6 pairs and 3 actions: removed. EU monograph REF-0069
+  covers flushing the urinary tract in minor urinary complaints only: removed from swelling and
+  uti. Grieve REF-3790 (gravel, bladder stone, urinary obstruction) added to urinary-support. UPEC
+  study REF-1048 removed from the diuretic action and its antibiotic antagonism finding added as a
+  safety note. Oral-Candida toothpaste RCT REF-1047 and prostate-tumour study REF-1050 removed
+  from the anti-inflammatory action.'

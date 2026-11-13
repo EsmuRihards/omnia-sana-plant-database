@@ -139,11 +139,10 @@ actions:
   - REF-0903
   - REF-0904
   - REF-0906
+  - REF-3787
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0048
-  - REF-0098
   - REF-0900
   - REF-0904
   - REF-0905
@@ -156,34 +155,36 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0048
-  - REF-0098
-  - REF-0906
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0903
+  - REF-0048
+  - REF-0098
 - condition: eczema
   note: inferred from emollient action
-  reference_ids:
-  - REF-0048
-  - REF-0098
+  reference_ids: []
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Traditionally applied as an ointment or poultice to inflammation (Grieve, A Modern Herbal); chickweed
+    extract inhibited COX inflammatory enzymes in the lab (preclinical)
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0906
+  - REF-3787
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0098
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditionally applied to itching, redness and skin complaints as an ointment or wash (Grieve,
+    A Modern Herbal)
   reference_ids:
   - REF-0048
-  - REF-0098
+  - REF-3787
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0903
+  - REF-0098
 contraindications:
 - note: 'Don’t overdo it as food: some wild-edible-plant research flags chickweed among plants checked
     for oxalic acid / nitrates-fine in normal amounts, but “huge daily servings” aren’t a smart idea for
@@ -304,4 +305,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing phytochemistry/pharmacology review (REF-0900) and the
   Encyclopedia of Medicinal Plants (REF-0048). | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for leaf + stem + flower (all provisional: PFAF REF-3344, fresh herb best May-July).
-  SAFETY: irritant Euphorbia peplus lookalike (milky latex tell). Binomial confirmed.'
+  SAFETY: irritant Euphorbia peplus lookalike (milky latex tell). Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 16 - Deep audit. Chevallier REF-0048 and
+  Grieve REF-0098 were pinned to all 4 pairs. Grieve''s chickweed entry (REF-3787, read
+  2026-11-13) names inflammation, itch, cutaneous diseases, redness - not rheumatism or eczema by
+  name: removed from arthritis, kept as mechanistic for eczema; REF-0098 replaced by the
+  entry-specific REF-3787. COX in vitro study REF-0906 moved to mechanistic for arthritis.'

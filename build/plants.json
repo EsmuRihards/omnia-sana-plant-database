@@ -53000,7 +53000,6 @@
      "note": "Anti-inflammatory constituents; harpagoside also has cardiac (inotropic) activity.",
      "reference_ids": [
       "REF-0452",
-      "REF-0451",
       "REF-1037",
       "REF-1038"
      ]
@@ -53088,7 +53087,6 @@
    "traditional_uses": {
     "text": "Figwort takes one common name, 'scrofula plant', from its historic traditional use for scrofula (tuberculous lymph-node swelling) under the Doctrine of Signatures, its knotty root resembling swollen glands. It has a long folk-medicine reputation as an 'alterative' (blood-purifying) herb for chronic skin conditions such as eczema and psoriasis, applied as a poultice, salve or tea.",
     "reference_ids": [
-     "REF-0451",
      "REF-0452"
     ],
     "status": "verified"
@@ -53116,7 +53114,6 @@
      "name": "Infusion (tea)",
      "text": "Traditional guidance suggests roughly 2-4 g dried herb per cup as an infusion, taken cautiously and short-term given limited safety data and the cardioactive harpagoside content. Educational reference only, not a prescription; avoid with heart conditions/cardiac medicines and in pregnancy.",
      "reference_ids": [
-      "REF-0451",
       "REF-0452"
      ],
      "status": "verified"
@@ -53127,7 +53124,6 @@
      "action": "alterative",
      "note": "Mild diuretic and lymphatic 'detoxifying' herb (traditional); Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)",
      "reference_ids": [
-      "REF-0451",
       "REF-0452",
       "REF-1040",
       "REF-1043",
@@ -53141,7 +53137,8 @@
      "reference_ids": [
       "REF-0452",
       "REF-1036",
-      "REF-1041"
+      "REF-1041",
+      "REF-3785"
      ],
      "status": "needs-review"
     },
@@ -53157,7 +53154,8 @@
      "action": "diuretic",
      "note": "Mild diuretic and lymphatic 'detoxifying' herb (traditional)",
      "reference_ids": [
-      "REF-0452"
+      "REF-0452",
+      "REF-3785"
      ],
      "status": "needs-review"
     }
@@ -53166,17 +53164,14 @@
     {
      "condition": "acne",
      "note": "inferred from alterative action",
-     "reference_ids": [
-      "REF-0451",
-      "REF-0452"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Acne"
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for rheumatic problems and joint pain (Medicinal Herbals)",
      "reference_ids": [
       "REF-0452"
      ],
@@ -53186,9 +53181,8 @@
     },
     {
      "condition": "detox",
-     "note": "inferred from alterative action",
+     "note": "Traditional \"alterative\" or blood-cleansing herb (Medicinal Herbals)",
      "reference_ids": [
-      "REF-0451",
       "REF-0452"
      ],
      "status": "needs-review",
@@ -53199,7 +53193,6 @@
      "condition": "eczema",
      "note": "Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)",
      "reference_ids": [
-      "REF-0451",
       "REF-0452"
      ],
      "status": "needs-review",
@@ -53208,10 +53201,11 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally applied as a fomentation to inflammations and swellings (Grieve, A Modern Herbal); figwort reduced inflammatory signals in mouse immune cells (preclinical)",
      "reference_ids": [
       "REF-0452",
-      "REF-1041"
+      "REF-1041",
+      "REF-3785"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -53221,30 +53215,9 @@
      "label": "Inflammation (general)"
     },
     {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0630"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0630"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "psoriasis",
      "note": "Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)",
      "reference_ids": [
-      "REF-0451",
       "REF-0452"
      ],
      "status": "needs-review",
@@ -53253,25 +53226,25 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "Anti-inflammatory; soothes inflamed, irritated skin; Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)",
+     "note": "Traditionally used for skin eruptions and rashes, applied as an ointment or wash (Grieve, A Modern Herbal; Medicinal Herbals)",
      "reference_ids": [
-      "REF-0451",
       "REF-0452",
-      "REF-1035",
-      "REF-1040"
+      "REF-1040",
+      "REF-3785"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1036"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "swelling",
-     "note": "inferred from diuretic action",
+     "note": "Traditionally applied as a fomentation to swellings and sprains (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0452"
+      "REF-0452",
+      "REF-3785"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -53279,23 +53252,14 @@
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Traditional diuretic (Grieve, A Modern Herbal; Medicinal Herbals)",
      "reference_ids": [
-      "REF-0452"
+      "REF-0452",
+      "REF-3785"
      ],
      "status": "needs-review",
      "evidence": 1,
      "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0452"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
     }
    ],
    "contraindications": [
@@ -53303,7 +53267,6 @@
      "note": "Avoid if you have a heart condition or take cardiac medicines: figwort's harpagoside has a stimulating (inotropic) effect on the heart, so it is traditionally avoided with rapid heartbeat or heart disease.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0451",
       "REF-0452"
      ],
      "status": "verified"
@@ -53311,9 +53274,7 @@
     {
      "note": "Avoid during pregnancy. There is insufficient reliable evidence on the safety of taking figwort by mouth, so internal use should be cautious and short-term.",
      "severity": "caution",
-     "reference_ids": [
-      "REF-0451"
-     ],
+     "reference_ids": [],
      "status": "verified"
     }
    ],
@@ -53513,19 +53474,21 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the benzodiazepine site of the GABA-A receptor); a randomised, double-blind, placebo-controlled crossover trial in healthy volunteers found significantly improved overall mood without loss of energy or cognition",
+     "note": "Skullcap reduced anxiety in a small placebo-controlled trial in healthy volunteers and in rats; a 2014 crossover trial in mostly non-anxious volunteers found no difference in anxiety vs placebo but improved overall mood",
      "reference_ids": [
       "REF-0510",
-      "REF-0551",
       "REF-1563"
      ],
      "status": "verified",
-     "evidence": 6,
+     "null_result_ids": [
+      "REF-0551"
+     ],
+     "evidence": 5,
      "label": "Anxiety"
     },
     {
      "condition": "insomnia",
-     "note": "Sedative / sleep support (insomnia)",
+     "note": "A skullcap extract supplement improved sleep quality, time to fall asleep and total sleep vs placebo in primary insomnia in a randomized crossover trial; traditional sedative",
      "reference_ids": [
       "REF-0510",
       "REF-1562"
@@ -53536,10 +53499,11 @@
     },
     {
      "condition": "nervous-tension",
-     "note": "Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the benzodiazepine site of the GABA-A receptor); a randomised, double-blind, placebo-controlled crossover trial in healthy volunteers found significantly improved overall mood without loss of energy or cognition",
+     "note": "Traditional remedy for nervous disorders (Grieve, A Modern Herbal); skullcap improved overall mood without loss of energy or cognition vs placebo in a randomized crossover trial; its flavonoids bind the benzodiazepine site of the GABA-A receptor (preclinical)",
      "reference_ids": [
       "REF-0510",
-      "REF-0551"
+      "REF-0551",
+      "REF-3789"
      ],
      "status": "verified",
      "evidence": 5,
@@ -53547,12 +53511,14 @@
     },
     {
      "condition": "stress",
-     "note": "Calming nervine for stress and nervous disorders (traditional)",
+     "note": "Traditional remedy for stress and nervous disorders; skullcap improved overall mood vs placebo in a randomized crossover trial",
      "reference_ids": [
-      "REF-0510",
       "REF-0551"
      ],
      "status": "verified",
+     "mechanistic_exclude_ids": [
+      "REF-0510"
+     ],
      "evidence": 5,
      "label": "Stress"
     }
@@ -53674,45 +53640,48 @@
    "indications": [
     {
      "condition": "prostate-support",
-     "note": "Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even at double and triple doses",
+     "note": "Urinary symptoms of an enlarged prostate (BPH): the 2023 Cochrane review found saw palmetto alone gives little to no benefit over placebo, and two large US trials (one at double and triple doses) found none; meta-analyses of one hexane extract (Permixon) report fewer night-time urinations and better flow, similar to tamsulosin",
      "reference_ids": [
-      "REF-1508",
-      "REF-0504",
-      "REF-1887",
       "REF-0571",
       "REF-1888",
       "REF-1889",
-      "REF-1890",
       "REF-1891",
-      "REF-1892",
-      "REF-1893",
       "REF-0572",
       "REF-1894"
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-1895"
+      "REF-1895",
+      "REF-1887",
+      "REF-1890",
+      "REF-1508",
+      "REF-3764",
+      "REF-3765"
      ],
-     "evidence": 10,
+     "evidence": 9,
      "label": "Prostate support"
     },
     {
      "condition": "urinary-support",
-     "note": "General urinary support (traditional); Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even at double and triple doses",
+     "note": "Saw palmetto fruit extract eased mild urinary frequency vs placebo in three small Japanese randomized trials (women, men and healthy adults); in men with an enlarged prostate the 2023 Cochrane review found little to no benefit",
      "reference_ids": [
-      "REF-1508",
-      "REF-0504",
-      "REF-1887",
       "REF-0571",
       "REF-1888",
       "REF-1889",
-      "REF-1890",
       "REF-0572",
-      "REF-1894"
+      "REF-1894",
+      "REF-3766",
+      "REF-3767",
+      "REF-3768"
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-1895"
+      "REF-1895",
+      "REF-1887",
+      "REF-1890",
+      "REF-1508",
+      "REF-3764",
+      "REF-3765"
      ],
      "evidence": 10,
      "label": "Urinary support"
@@ -53723,7 +53692,6 @@
      "note": "Generally well tolerated; mild gastrointestinal upset is the most common effect. BPH must be medically diagnosed (to exclude prostate cancer), and because the best evidence does not show benefit, saw palmetto should not replace proven treatment.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0504",
       "REF-1508"
      ],
      "status": "verified"
@@ -53745,7 +53713,6 @@
     "REF-1889",
     "REF-1890",
     "REF-1891",
-    "REF-1892",
     "REF-1893",
     "REF-1894",
     "REF-1895"
@@ -53825,8 +53792,7 @@
    "traditional_uses": {
     "text": "Saw palmetto berries have a long Native American food and medicinal tradition, and were adopted into 19th- and 20th-century American and European phytotherapy as a tonic for the urinary and reproductive systems. The modern, most-studied use is for lower urinary tract symptoms of benign prostatic hyperplasia (BPH), though high-quality Cochrane evidence for pooled mixed extracts shows no benefit over placebo, while some meta-analyses of a specific standardised hexanic extract report symptom benefit.",
     "reference_ids": [
-     "REF-1508",
-     "REF-0504"
+     "REF-1508"
     ],
     "status": "verified"
    },
@@ -53846,8 +53812,7 @@
      "name": "Standardised extract",
      "text": "Clinical trials have most often used around 160 mg of standardised extract twice daily (320 mg/day total). Educational reference only, not a prescription; any prostate or urinary symptom should be medically assessed first, and saw palmetto should not replace proven treatment given uncertain efficacy evidence.",
      "reference_ids": [
-      "REF-1508",
-      "REF-0504"
+      "REF-1508"
      ],
      "status": "verified"
     }
@@ -53979,7 +53944,6 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory and antioxidant",
      "reference_ids": [
-      "REF-0483",
       "REF-0484",
       "REF-1906"
      ],
@@ -54006,7 +53970,6 @@
      "action": "antioxidant",
      "note": "Anti-inflammatory and antioxidant; Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic)",
      "reference_ids": [
-      "REF-0483",
       "REF-0484",
       "REF-1897",
       "REF-1901"
@@ -54016,9 +53979,7 @@
     {
      "action": "digestive",
      "note": "Digestive support / mild dyspepsia (traditional)",
-     "reference_ids": [
-      "REF-0483"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     },
     {
@@ -54046,7 +54007,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0483",
       "REF-0484"
      ],
      "evidence": 1,
@@ -54054,17 +54014,18 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c",
+     "note": "Silymarin lowered fasting blood sugar and HbA1c in type 2 diabetes in a randomized trial and a meta-analysis of trials (low-quality evidence)",
      "reference_ids": [
-      "REF-0559"
+      "REF-0559",
+      "REF-3775"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Reviews describe anticancer effects of silymarin in lab and animal studies and its possible use alongside chemotherapy; clinical evidence is limited",
      "reference_ids": [
       "REF-0484",
       "REF-1900"
@@ -54076,47 +54037,88 @@
     {
      "condition": "detox",
      "note": "Supports liver recovery and 'detox' (traditional framing of the hepatoprotective action)",
-     "reference_ids": [
-      "REF-0483"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 1,
      "label": "Detox / cleansing"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Silymarin had anti-inflammatory effects in lab and animal studies (reviews; preclinical)",
      "reference_ids": [
       "REF-0484"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0483"
-     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "liver-support",
-     "note": "Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic); May improve liver enzymes and hepatic fat in non-alcoholic fatty liver disease (NAFLD)",
+     "note": "Silymarin lowered liver enzymes and improved liver fat in meta-analyses of trials in non-alcoholic fatty liver disease (a 2025 Cochrane review rates this evidence low to very low certainty) and reduced anti-tuberculosis drug liver injury in a small trial; for alcoholic and viral hepatitis a Cochrane review questioned any benefit, and a large hepatitis C trial found none",
      "reference_ids": [
       "REF-0483",
-      "REF-0484",
-      "REF-0560"
+      "REF-3769",
+      "REF-3770",
+      "REF-3771",
+      "REF-3772"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "null_result_ids": [
+      "REF-3773",
+      "REF-3774"
+     ],
+     "evidence": 9,
      "label": "Liver support"
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
+     "note": "Silymarin improved blood sugar control in type 2 diabetes in a meta-analysis of trials but had no effect on blood lipids",
      "reference_ids": [
       "REF-0559"
      ],
      "status": "needs-review",
      "evidence": 7,
      "label": "Metabolic support"
+    },
+    {
+     "condition": "hot-flashes",
+     "note": "Milk thistle extract reduced the frequency and severity of hot flashes vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3776"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Hot flashes"
+    },
+    {
+     "condition": "menopause",
+     "note": "Milk thistle extract reduced hot flashes and menopausal symptom scores vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3776"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Menopause"
+    },
+    {
+     "condition": "wounds",
+     "note": "A milk thistle ointment sped episiotomy wound healing and reduced pain in a randomized trial",
+     "reference_ids": [
+      "REF-3777"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Wounds"
+    },
+    {
+     "condition": "skin-irritation",
+     "note": "A silymarin gel reduced and delayed radiation skin reactions vs placebo during breast cancer radiotherapy in a randomized trial",
+     "reference_ids": [
+      "REF-3778"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Skin irritation"
     }
    ],
    "contraindications": [
@@ -54478,8 +54480,7 @@
      "action": "hepatoprotective",
      "reference_ids": [
       "REF-3159",
-      "REF-3160",
-      "REF-3165"
+      "REF-3160"
      ],
      "status": "verified"
     },
@@ -54529,21 +54530,22 @@
       "REF-3160"
      ],
      "status": "verified",
+     "note": "Canadian goldenrod extract and its compounds reduced inflammation in cell and mouse studies (preclinical)",
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "infection",
-     "note": "From antimicrobial/antibacterial activity of extracts and essential oil.",
+     "note": "Canadian goldenrod extracts and essential oil were active against bacteria and Candida in the lab (preclinical)",
      "reference_ids": [
-      "REF-3170",
       "REF-3171",
       "REF-3180",
       "REF-3160"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-3182"
+      "REF-3182",
+      "REF-3170"
      ],
      "evidence": 2,
      "label": "Infection (general)"
@@ -54552,29 +54554,26 @@
      "condition": "liver-support",
      "reference_ids": [
       "REF-3159",
-      "REF-3160",
-      "REF-3165"
+      "REF-3160"
      ],
      "status": "verified",
+     "note": "Canadian goldenrod extract protected the liver from toxic injury in animal studies (preclinical)",
      "evidence": 2,
      "label": "Liver support"
     },
     {
      "condition": "swelling",
      "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-3158"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Swelling / fluid retention"
     },
     {
      "condition": "uti",
-     "note": "inferred from diuretic and antimicrobial actions",
+     "note": "Traditionally used for kidney and urinary tract diseases; its extract had antimicrobial activity in the lab (preclinical)",
      "reference_ids": [
-      "REF-3160",
-      "REF-3180"
+      "REF-3160"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -54582,12 +54581,9 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from preclinical anticancer/antiproliferative and antimutagenic activity",
+     "note": "Canadian goldenrod essential oil slowed cancer cell growth in the lab (preclinical)",
      "reference_ids": [
-      "REF-3163",
-      "REF-3164",
-      "REF-3181",
-      "REF-3166"
+      "REF-3181"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -54596,15 +54592,12 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-3161",
-      "REF-3160"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-3162"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     }
    ],
@@ -54626,7 +54619,8 @@
     "REF-3176",
     "REF-3178",
     "REF-3179",
-    "REF-3182"
+    "REF-3182",
+    "REF-3165"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -54830,12 +54824,9 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0016",
       "REF-0069",
       "REF-1045",
-      "REF-1046",
-      "REF-1047",
-      "REF-1050"
+      "REF-1046"
      ],
      "status": "verified"
     },
@@ -54849,7 +54840,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0016",
       "REF-0069",
       "REF-1045",
       "REF-1049",
@@ -54861,10 +54851,9 @@
     {
      "action": "diuretic",
      "reference_ids": [
-      "REF-0016",
       "REF-0069",
       "REF-1045",
-      "REF-1048"
+      "REF-3790"
      ],
      "status": "verified"
     }
@@ -54873,21 +54862,17 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0016"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0069",
-      "REF-1047",
-      "REF-1050"
+      "REF-0069"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Goldenrod extract suppressed prostate tumour growth in mice (preclinical)",
      "reference_ids": [
       "REF-1050"
      ],
@@ -54897,16 +54882,13 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Goldenrod compounds reduced inflammation in rats (preclinical)",
      "reference_ids": [
-      "REF-0016",
       "REF-1046"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0069",
-      "REF-1047",
-      "REF-1050"
+      "REF-0069"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -54914,14 +54896,10 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0016"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0069",
-      "REF-1047",
-      "REF-1050"
+      "REF-0069"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -54929,13 +54907,10 @@
     {
      "condition": "swelling",
      "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0016",
-      "REF-0069"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1048"
+      "REF-0069"
      ],
      "evidence": 1,
      "label": "Swelling / fluid retention"
@@ -54943,24 +54918,26 @@
     {
      "condition": "urinary-support",
      "reference_ids": [
-      "REF-0016",
       "REF-0069",
       "REF-1045",
-      "REF-1048"
+      "REF-1048",
+      "REF-3790"
      ],
      "status": "verified",
+     "note": "Traditional use to increase urine and flush the urinary tract in minor urinary complaints (EU herbal monograph); for gravel and bladder stone (Grieve, A Modern Herbal)",
      "evidence": 2,
      "label": "Urinary support"
     },
     {
      "condition": "uti",
-     "note": "inferred from diuretic action",
+     "note": "Goldenrod extract reduced the survival and biofilm of urinary E. coli in the lab, but weakened the effect of two antibiotics (preclinical)",
      "reference_ids": [
-      "REF-0016",
-      "REF-0069",
       "REF-1048"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0069"
+     ],
      "evidence": 2,
      "label": "Urinary tract infection (UTI)"
     }
@@ -54986,6 +54963,14 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "In lab tests, goldenrod extract weakened the antibacterial effect of amikacin and ciprofloxacin against urinary E. coli; tell your doctor before combining it with these antibiotics for a urinary infection (preclinical).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-1048"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -54998,7 +54983,8 @@
     "REF-1051",
     "REF-1052",
     "REF-1053",
-    "REF-1054"
+    "REF-1054",
+    "REF-0016"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -55059,7 +55045,6 @@
      ],
      "note": "Anti-inflammatory and antispasmodic constituents.",
      "reference_ids": [
-      "REF-0535",
       "REF-1062",
       "REF-1063"
      ]
@@ -55070,9 +55055,7 @@
       "alkaloid"
      ],
      "note": "Characteristic nitrogen-containing constituents.",
-     "reference_ids": [
-      "REF-0535"
-     ]
+     "reference_ids": []
     },
     {
      "name": "Phenolic acids (rosmarinic, caffeic, chlorogenic), tannins and volatile oil",
@@ -55086,7 +55069,6 @@
      ],
      "note": "Antioxidant, astringent and aromatic constituents; methanolic extract of the herb showed strong free-radical-scavenging and lipid-peroxidation-inhibiting activity in vitro.",
      "reference_ids": [
-      "REF-0535",
       "REF-0621",
       "REF-1056",
       "REF-1057",
@@ -55105,16 +55087,12 @@
     "root": "Fibrous perennial rootstock",
     "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
     "flowering_period": "June-September",
-    "reference_ids": [
-     "REF-0535"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "habitat": {
     "text": "Native to Europe, growing in open woodland, grassland, hedgebanks and heathland on well-drained, often slightly acidic soils.",
-    "reference_ids": [
-     "REF-0535"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvesting": {
@@ -55123,9 +55101,7 @@
      "Aerial parts (flowering herb)"
     ],
     "season": "Summer, during flowering",
-    "reference_ids": [
-     "REF-0535"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvest_readiness": [
@@ -55148,28 +55124,17 @@
    "traditional_uses": {
     "text": "Wood betony has an ancient European reputation - praised in Anglo-Saxon and medieval herbals as a cure-all, giving rise to the saying 'sell your coat and buy betony' - as a gentle nervine for headache, anxiety and nervous tension, and as a digestive bitter. Modern phytochemical studies confirm it is among the strongest antioxidants of the Lamiaceae family, alongside anti-inflammatory and antispasmodic constituents.",
     "reference_ids": [
-     "REF-0535",
      "REF-0534"
     ],
     "status": "verified"
    },
-   "preparations": [
-    {
-     "name": "Infusion (tea)",
-     "text": "Dried aerial parts steeped in hot water - the classic calming and digestive preparation.",
-     "reference_ids": [
-      "REF-0535"
-     ],
-     "status": "verified"
-    }
-   ],
+   "preparations": [],
    "dosage": [
     {
      "name": "Infusion (tea)",
      "text": "Traditional guidance suggests roughly 1-2 g dried herb per cup as an infusion, up to three times daily. Educational reference only, not a prescription; use caution alongside blood-pressure medicines and avoid in pregnancy.",
      "reference_ids": [
-      "REF-0534",
-      "REF-0535"
+      "REF-0534"
      ],
      "status": "verified"
     }
@@ -55179,7 +55144,6 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory and antispasmodic",
      "reference_ids": [
-      "REF-0535",
       "REF-1062"
      ],
      "status": "needs-review"
@@ -55189,7 +55153,6 @@
      "note": "Antioxidant - among the strongest free-radical scavengers in a comparative study of Lamiaceae herbs",
      "reference_ids": [
       "REF-0621",
-      "REF-1055",
       "REF-1056",
       "REF-1059",
       "REF-1061"
@@ -55199,25 +55162,22 @@
     {
      "action": "antispasmodic",
      "note": "Anti-inflammatory and antispasmodic",
-     "reference_ids": [
-      "REF-0535"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     },
     {
      "action": "anxiolytic",
-     "note": "Gentle calmative for anxiety; Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by anxiety or muscle tension)",
+     "note": "Traditional calming herb and nerve tonic (PeaceHealth)",
      "reference_ids": [
-      "REF-0534",
-      "REF-0535"
+      "REF-0534"
      ],
      "status": "needs-review"
     },
     {
      "action": "digestive",
-     "note": "Digestive bitter for indigestion, mild stomach upset and bloating",
+     "note": "Tonic for dyspepsia (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0535"
+      "REF-3786"
      ],
      "status": "needs-review"
     }
@@ -55225,10 +55185,9 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "Gentle calmative for anxiety; Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by anxiety or muscle tension)",
+     "note": "Traditional calming herb for anxiety, with minimal scientific evidence (PeaceHealth)",
      "reference_ids": [
-      "REF-0534",
-      "REF-0535"
+      "REF-0534"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -55236,9 +55195,9 @@
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for rheumatism and gout (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0535"
+      "REF-3786"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -55246,20 +55205,18 @@
     },
     {
      "condition": "bloating",
-     "note": "Digestive bitter for indigestion, mild stomach upset and bloating",
-     "reference_ids": [
-      "REF-0535"
-     ],
+     "note": "inferred from digestive action",
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
     },
     {
      "condition": "headache",
-     "note": "Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by anxiety or muscle tension)",
+     "note": "Traditional remedy for headaches and nerve pain in the head and face (PeaceHealth; Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0534",
-      "REF-0535"
+      "REF-3786"
      ],
      "status": "verified",
      "evidence": 1,
@@ -55267,9 +55224,10 @@
     },
     {
      "condition": "indigestion",
-     "note": "Digestive bitter for indigestion, mild stomach upset and bloating",
+     "note": "Used in European herbal medicine for heartburn and gastritis, and as a tonic for indigestion (PeaceHealth; Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0535"
+      "REF-0534",
+      "REF-3786"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -55277,9 +55235,8 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Wood betony extract reduced inflammation in rats (preclinical)",
      "reference_ids": [
-      "REF-0535",
       "REF-1062"
      ],
      "status": "needs-review",
@@ -55287,31 +55244,11 @@
      "label": "Inflammation (general)"
     },
     {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0535"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0535"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "nervous-tension",
-     "note": "Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by anxiety or muscle tension)",
+     "note": "Traditional nerve tonic for nervous complaints (PeaceHealth; Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0534",
-      "REF-0535"
+      "REF-3786"
      ],
      "status": "verified",
      "evidence": 1,
@@ -55320,9 +55257,7 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0535"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Skin irritation"
@@ -55330,10 +55265,7 @@
     {
      "condition": "stress",
      "note": "inferred from anxiolytic action",
-     "reference_ids": [
-      "REF-0534",
-      "REF-0535"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Stress"
@@ -55344,18 +55276,25 @@
      "note": "Generally well tolerated, with occasional mild nausea the main reported effect.",
      "severity": "info",
      "reference_ids": [
-      "REF-0535"
+      "REF-0534"
      ],
      "status": "verified"
     },
     {
-     "note": "Traditionally avoided in pregnancy (uterine reputation), and it may lower blood pressure - use caution with blood-pressure medicines.",
+     "note": "Safety during pregnancy and breastfeeding is unknown (PeaceHealth), so avoid it then.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0534",
-      "REF-0535"
+      "REF-0534"
      ],
-     "status": "needs-review"
+     "status": "verified"
+    },
+    {
+     "note": "In lab tests on human white blood cells, wood betony extract caused some DNA damage (comet assay) but was not mutagenic in the Ames test; what this means for people is unknown (preclinical).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-1055"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -55550,15 +55489,14 @@
       "REF-0900",
       "REF-0903",
       "REF-0904",
-      "REF-0906"
+      "REF-0906",
+      "REF-3787"
      ],
      "status": "verified"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0048",
-      "REF-0098",
       "REF-0900",
       "REF-0904",
       "REF-0905"
@@ -55578,51 +55516,50 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0048",
-      "REF-0098",
-      "REF-0906"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0903"
+      "REF-0903",
+      "REF-0048",
+      "REF-0098"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "eczema",
      "note": "inferred from emollient action",
-     "reference_ids": [
-      "REF-0048",
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Eczema"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally applied as an ointment or poultice to inflammation (Grieve, A Modern Herbal); chickweed extract inhibited COX inflammatory enzymes in the lab (preclinical)",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
-      "REF-0906"
+      "REF-0906",
+      "REF-3787"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0098"
+     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally applied to itching, redness and skin complaints as an ointment or wash (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0048",
-      "REF-0098"
+      "REF-3787"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0903"
+      "REF-0903",
+      "REF-0098"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -55881,7 +55818,6 @@
      "reference_ids": [
       "REF-0074",
       "REF-0281",
-      "REF-1070",
       "REF-1071"
      ],
      "status": "verified"
@@ -55893,7 +55829,6 @@
       "REF-0281",
       "REF-1064",
       "REF-1066",
-      "REF-1070",
       "REF-1071"
      ],
      "status": "verified"
@@ -55910,8 +55845,7 @@
      "action": "vulnerary",
      "reference_ids": [
       "REF-0074",
-      "REF-0281",
-      "REF-1072"
+      "REF-0281"
      ],
      "status": "verified"
     }
@@ -55919,54 +55853,54 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Comfrey root ointment reduced knee osteoarthritis pain and improved mobility vs placebo in a randomized trial",
      "reference_ids": [
       "REF-0074",
-      "REF-0281"
+      "REF-0281",
+      "REF-3780"
      ],
-     "status": "needs-review",
+     "status": "verified",
      "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "back-pain",
-     "note": "inferred from analgesic action",
+     "note": "Comfrey root ointment reduced acute back pain vs placebo in a randomized trial (moderate-quality evidence, Cochrane review)",
      "reference_ids": [
       "REF-0074",
-      "REF-0281"
+      "REF-0281",
+      "REF-3779",
+      "REF-1261"
      ],
-     "status": "needs-review",
+     "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-1071"
      ],
-     "evidence": 5,
+     "evidence": 8,
      "label": "Back pain"
     },
     {
      "condition": "bruising",
-     "note": "inferred from vulnerary action",
+     "note": "Comfrey ointment sped the healing of injection bruises vs placebo in a randomized trial; EU herbal use for bruises and sprains",
      "reference_ids": [
       "REF-0074",
       "REF-0281",
-      "REF-1070"
+      "REF-3783"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1072"
-     ],
-     "evidence": 8,
+     "status": "verified",
+     "evidence": 5,
      "label": "Bruising"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Topical comfrey relieves pain, inflammation and swelling of muscles and joints (clinical overview); comfrey compounds reduced inflammatory cytokines in the lab (preclinical)",
      "reference_ids": [
       "REF-0074",
       "REF-0281",
       "REF-1066"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -55974,50 +55908,30 @@
      "reference_ids": [
       "REF-0074",
       "REF-0281",
-      "REF-1070"
+      "REF-3779",
+      "REF-3780",
+      "REF-3781",
+      "REF-3782"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-1071"
      ],
-     "evidence": 8,
+     "note": "Comfrey root ointment relieved pain vs placebo in randomized trials of acute back pain, knee osteoarthritis and ankle sprains, and matched diclofenac gel for ankle sprains; topical use only",
+     "evidence": 7,
      "label": "Pain (general)"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0074",
-      "REF-0281"
-     ],
-     "evidence": 1,
-     "label": "Skin irritation"
     },
     {
      "condition": "swelling",
      "reference_ids": [
       "REF-0074",
-      "REF-0281"
+      "REF-0281",
+      "REF-3781"
      ],
      "status": "verified",
+     "note": "Comfrey root ointment reduced ankle swelling vs placebo after sprains in a randomized trial; EU herbal use for bruises and sprains",
      "evidence": 5,
      "label": "Swelling / fluid retention"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0281"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0074",
-      "REF-1072"
-     ],
-     "evidence": 5,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -56235,7 +56149,8 @@
      "reference_ids": [
       "REF-0029",
       "REF-0309",
-      "REF-1075"
+      "REF-1075",
+      "REF-3788"
      ],
      "status": "verified"
     },
@@ -56266,7 +56181,8 @@
       "REF-1075",
       "REF-1076",
       "REF-1078",
-      "REF-1080"
+      "REF-1080",
+      "REF-3788"
      ],
      "status": "verified"
     },
@@ -56288,7 +56204,8 @@
      "reference_ids": [
       "REF-0029",
       "REF-0309",
-      "REF-1082"
+      "REF-1082",
+      "REF-3788"
      ],
      "status": "verified"
     }
@@ -56296,15 +56213,15 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Nanostructured clove oil reduced arthritis in rats (preclinical)",
      "reference_ids": [
-      "REF-0029",
-      "REF-0309",
       "REF-1081"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1076"
+      "REF-1076",
+      "REF-0029",
+      "REF-0309"
      ],
      "evidence": 2,
      "label": "Arthritis / joint pain"
@@ -56312,20 +56229,22 @@
     {
      "condition": "back-pain",
      "note": "inferred from analgesic action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0029",
       "REF-0309"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Back pain"
     },
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditionally taken for flatulence and indigestion (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0029",
-      "REF-0309"
+      "REF-0309",
+      "REF-3788"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -56336,7 +56255,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Clove infusion showed chemopreventive effects against lung cancer in mice (preclinical)",
      "reference_ids": [
       "REF-1083"
      ],
@@ -56347,20 +56266,22 @@
     {
      "condition": "headache",
      "note": "inferred from analgesic action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0029",
       "REF-0309"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Headache"
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditionally taken for indigestion, nausea and flatulence (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0029",
-      "REF-0309"
+      "REF-0309",
+      "REF-3788"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -56371,24 +56292,27 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Clove extract was active against vaginal Candida in the lab (preclinical)",
      "reference_ids": [
-      "REF-0029",
-      "REF-0309",
       "REF-1078"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0029",
+      "REF-0309"
+     ],
      "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0029",
       "REF-0309"
      ],
-     "status": "needs-review",
      "evidence": 1,
      "label": "Inflammation (general)"
     },
@@ -56396,33 +56320,38 @@
      "condition": "oral-health",
      "reference_ids": [
       "REF-0029",
-      "REF-0309"
+      "REF-0309",
+      "REF-3784",
+      "REF-3788"
      ],
      "status": "verified",
-     "evidence": 1,
+     "note": "Clove gel numbed the gums as well as benzocaine and better than placebo before needle insertion in a randomized trial; traditionally applied to decayed teeth as a mild local anaesthetic (Grieve, A Modern Herbal)",
+     "evidence": 5,
      "label": "Oral & throat health"
     },
     {
      "condition": "pain",
      "reference_ids": [
       "REF-0029",
-      "REF-0309"
+      "REF-0309",
+      "REF-3784",
+      "REF-3788"
      ],
      "status": "verified",
-     "evidence": 1,
+     "note": "Clove gel reduced needle-stick pain in the mouth vs placebo, as much as benzocaine, in a randomized trial; traditional toothache remedy (Grieve, A Modern Herbal)",
+     "evidence": 5,
      "label": "Pain (general)"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0029",
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1076",
-      "REF-1081"
+      "REF-1081",
+      "REF-0029",
+      "REF-0309"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -56430,13 +56359,12 @@
     {
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0029",
-      "REF-0309"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1078"
+      "REF-1078",
+      "REF-0029",
+      "REF-0309"
      ],
      "evidence": 1,
      "label": "Wounds"

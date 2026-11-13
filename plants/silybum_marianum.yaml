@@ -102,7 +102,6 @@ actions:
 - action: anti-inflammatory
   note: Anti-inflammatory and antioxidant
   reference_ids:
-  - REF-0483
   - REF-0484
   - REF-1906
   status: verified
@@ -121,15 +120,13 @@ actions:
   note: Anti-inflammatory and antioxidant; Hepatoprotective / liver support (protects liver cells, antioxidant
     and antifibrotic)
   reference_ids:
-  - REF-0483
   - REF-0484
   - REF-1897
   - REF-1901
   status: verified
 - action: digestive
   note: Digestive support / mild dyspepsia (traditional)
-  reference_ids:
-  - REF-0483
+  reference_ids: []
   status: needs-review
 - action: hepatoprotective
   note: Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic); May improve
@@ -153,44 +150,74 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0483
   - REF-0484
 - condition: blood-sugar
-  note: Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c
+  note: Silymarin lowered fasting blood sugar and HbA1c in type 2 diabetes in a randomized trial and a
+    meta-analysis of trials (low-quality evidence)
   reference_ids:
   - REF-0559
+  - REF-3775
   status: verified
 - condition: cancer
-  note: inferred from anticancer action
+  note: Reviews describe anticancer effects of silymarin in lab and animal studies and its possible use
+    alongside chemotherapy; clinical evidence is limited
   reference_ids:
   - REF-0484
   - REF-1900
   status: needs-review
 - condition: detox
   note: Supports liver recovery and 'detox' (traditional framing of the hepatoprotective action)
-  reference_ids:
-  - REF-0483
+  reference_ids: []
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Silymarin had anti-inflammatory effects in lab and animal studies (reviews; preclinical)
   reference_ids:
   - REF-0484
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0483
 - condition: liver-support
-  note: Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic); May improve
-    liver enzymes and hepatic fat in non-alcoholic fatty liver disease (NAFLD)
+  note: Silymarin lowered liver enzymes and improved liver fat in meta-analyses of trials in non-alcoholic
+    fatty liver disease (a 2025 Cochrane review rates this evidence low to very low certainty) and reduced
+    anti-tuberculosis drug liver injury in a small trial; for alcoholic and viral hepatitis a Cochrane
+    review questioned any benefit, and a large hepatitis C trial found none
   reference_ids:
   - REF-0483
-  - REF-0484
-  - REF-0560
+  - REF-3769
+  - REF-3770
+  - REF-3771
+  - REF-3772
   status: needs-review
+  null_result_ids:
+  - REF-3773
+  - REF-3774
 - condition: metabolic-support
-  note: inferred from antidiabetic action
+  note: Silymarin improved blood sugar control in type 2 diabetes in a meta-analysis of trials but had
+    no effect on blood lipids
   reference_ids:
   - REF-0559
   status: needs-review
+- condition: hot-flashes
+  note: Milk thistle extract reduced the frequency and severity of hot flashes vs placebo in a randomized
+    trial
+  reference_ids:
+  - REF-3776
+  status: verified
+- condition: menopause
+  note: Milk thistle extract reduced hot flashes and menopausal symptom scores vs placebo in a randomized
+    trial
+  reference_ids:
+  - REF-3776
+  status: verified
+- condition: wounds
+  note: A milk thistle ointment sped episiotomy wound healing and reduced pain in a randomized trial
+  reference_ids:
+  - REF-3777
+  status: verified
+- condition: skin-irritation
+  note: A silymarin gel reduced and delayed radiation skin reactions vs placebo during breast cancer radiotherapy
+    in a randomized trial
+  reference_ids:
+  - REF-3778
+  status: verified
 contraindications:
 - note: Very well tolerated, even at high doses; the main effects are mild gastrointestinal upset (nausea,
     loose stools). As a member of the daisy family (Asteraceae), it can cause allergic reactions in sensitive
@@ -261,4 +288,13 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   therapeutic review (REF-0484). | 2026-07-13: added anticancer action (where absent) + cancer indication
   (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
   campaign. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for seed (provisional:
-  PFAF REF-3337, seeds ripen Aug-Oct as the heads dry). Single lineage. Binomial confirmed.'
+  PFAF REF-3337, seeds ripen Aug-Oct as the heads dry). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 16 - Deep audit. Safety review REF-0483
+  (tagged rct; retagged narrative-review) removed from anti-inflammatory/antioxidant/digestive
+  actions and detox. GI-cancer review REF-0484 (retagged narrative-review) and the NAFLD network
+  MA REF-0560 (reports no silymarin result) moved to mechanistic for liver-support. Added NAFLD
+  MAs REF-3769/REF-3770, the 2025 Cochrane MASLD review REF-3771 (low to very low certainty) and
+  an anti-TB DILI RCT REF-3772; Cochrane 2007 REF-3773 (alcoholic/viral hepatitis, benefit
+  questioned) and the SyNCH HCV RCT REF-3774 recorded as no-effect. New pairs (owner rule):
+  hot-flashes, menopause (placebo RCT), wounds (episiotomy RCT), skin-irritation (radiodermatitis
+  RCT). Gaps: OCD vs fluoxetine RCT, melasma, mucositis.'

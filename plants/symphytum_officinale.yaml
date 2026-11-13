@@ -136,7 +136,6 @@ actions:
   reference_ids:
   - REF-0074
   - REF-0281
-  - REF-1070
   - REF-1071
   status: verified
 - action: anti-inflammatory
@@ -145,7 +144,6 @@ actions:
   - REF-0281
   - REF-1064
   - REF-1066
-  - REF-1070
   - REF-1071
   status: verified
 - action: anti-oedematous
@@ -157,34 +155,38 @@ actions:
   reference_ids:
   - REF-0074
   - REF-0281
-  - REF-1072
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Comfrey root ointment reduced knee osteoarthritis pain and improved mobility vs placebo in a randomized
+    trial
   reference_ids:
   - REF-0074
   - REF-0281
-  status: needs-review
+  - REF-3780
+  status: verified
 - condition: back-pain
-  note: inferred from analgesic action
+  note: Comfrey root ointment reduced acute back pain vs placebo in a randomized trial (moderate-quality
+    evidence, Cochrane review)
   reference_ids:
   - REF-0074
   - REF-0281
-  status: needs-review
+  - REF-3779
+  - REF-1261
+  status: verified
   mechanistic_exclude_ids:
   - REF-1071
 - condition: bruising
-  note: inferred from vulnerary action
+  note: Comfrey ointment sped the healing of injection bruises vs placebo in a randomized trial; EU herbal
+    use for bruises and sprains
   reference_ids:
   - REF-0074
   - REF-0281
-  - REF-1070
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1072
+  - REF-3783
+  status: verified
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Topical comfrey relieves pain, inflammation and swelling of muscles and joints (clinical overview);
+    comfrey compounds reduced inflammatory cytokines in the lab (preclinical)
   reference_ids:
   - REF-0074
   - REF-0281
@@ -194,30 +196,23 @@ indications:
   reference_ids:
   - REF-0074
   - REF-0281
-  - REF-1070
+  - REF-3779
+  - REF-3780
+  - REF-3781
+  - REF-3782
   status: verified
   mechanistic_exclude_ids:
   - REF-1071
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0074
-  - REF-0281
+  note: Comfrey root ointment relieved pain vs placebo in randomized trials of acute back pain, knee osteoarthritis
+    and ankle sprains, and matched diclofenac gel for ankle sprains; topical use only
 - condition: swelling
   reference_ids:
   - REF-0074
   - REF-0281
+  - REF-3781
   status: verified
-- condition: wounds
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-0281
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0074
-  - REF-1072
+  note: Comfrey root ointment reduced ankle swelling vs placebo after sprains in a randomized trial; EU
+    herbal use for bruises and sprains
 contraindications:
 - note: 'Big headline: Comfrey naturally contains pyrrolizidine alkaloids (PAs), which can seriously harm
     the liver if taken internally (Staiger, 2012; EMA, 2015). • Do not ingest comfrey (no teas, no internal
@@ -308,4 +303,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   study (REF-1064) plus the skin-microbiota metabolism study (REF-1065). | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for leaf (early summer, before flowering) + root (autumn), both
   provisional: PFAF REF-3341. SAFETY: fatal Digitalis purpurea rosette confusion (comfrey untoothed vs
-  foxglove toothed). Binomial confirmed.'
+  foxglove toothed). Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 16 - Deep audit. Wounds and skin-irritation
+  dropped: the record''s own safety note says do not apply to broken, damaged or irritated skin.
+  Five held-back Kytta RCTs added (acute back pain REF-3779, knee OA REF-3780, ankle sprain vs
+  placebo REF-3781, vs diclofenac REF-3782; the 2007 diclofenac re-analysis 18193693 not added as
+  duplicate data) plus an injection-bruise RCT REF-3783 and the 2014 Cochrane LBP review REF-1261
+  (names comfrey). Genus-level scoping review REF-1070 and the homeopathic osteoblast study
+  REF-1072 removed from pairs/actions. REF-0281 retagged narrative-review. Combination RCTs (with
+  methyl nicotinate; with tannic acid) not used.'

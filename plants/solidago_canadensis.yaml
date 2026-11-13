@@ -245,7 +245,6 @@ actions:
   reference_ids:
   - REF-3159
   - REF-3160
-  - REF-3165
   status: verified
 - action: nephroprotective
   note: Hydroalcoholic extract protected against paracetamol-induced hepatic and renal toxicity in mice.
@@ -279,46 +278,42 @@ indications:
   - REF-3162
   - REF-3160
   status: verified
+  note: Canadian goldenrod extract and its compounds reduced inflammation in cell and mouse studies (preclinical)
 - condition: infection
-  note: From antimicrobial/antibacterial activity of extracts and essential oil.
+  note: Canadian goldenrod extracts and essential oil were active against bacteria and Candida in the
+    lab (preclinical)
   reference_ids:
-  - REF-3170
   - REF-3171
   - REF-3180
   - REF-3160
   status: verified
   mechanistic_exclude_ids:
   - REF-3182
+  - REF-3170
 - condition: liver-support
   reference_ids:
   - REF-3159
   - REF-3160
-  - REF-3165
   status: verified
+  note: Canadian goldenrod extract protected the liver from toxic injury in animal studies (preclinical)
 - condition: swelling
   note: inferred from diuretic action
-  reference_ids:
-  - REF-3158
+  reference_ids: []
   status: needs-review
 - condition: uti
-  note: inferred from diuretic and antimicrobial actions
+  note: Traditionally used for kidney and urinary tract diseases; its extract had antimicrobial activity
+    in the lab (preclinical)
   reference_ids:
   - REF-3160
-  - REF-3180
   status: needs-review
 - condition: cancer
-  note: inferred from preclinical anticancer/antiproliferative and antimutagenic activity
+  note: Canadian goldenrod essential oil slowed cancer cell growth in the lab (preclinical)
   reference_ids:
-  - REF-3163
-  - REF-3164
   - REF-3181
-  - REF-3166
   status: needs-review
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-3161
-  - REF-3160
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-3162
@@ -341,6 +336,7 @@ references:
 - REF-3178
 - REF-3179
 - REF-3182
+- REF-3165
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -409,4 +405,10 @@ internal_notes: 'New record created 2026-08-04 (Canadian goldenrod campaign). Sp
   when a citation names no binomial). Audited clean 2026-08-04. | 2026-08-15: Harvest Calendar (phenological)
   - added harvest_readiness for flower + leaf + stem (all provisional: PFAF REF-3340, flowering tops gathered
   in summer as it comes into flower). SAFETY: PA-toxic ragwort (Jacobaea vulgaris) lookalike. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 16 - Deep audit. In vitro GST study REF-3165
+  removed from liver-support and the hepatoprotective action. Essential-oil study against plant
+  pathogens REF-3170 removed from infection. Haudenosaunee screen REF-3180 removed from uti
+  (tested E. coli/Salmonella/S. aureus, not urinary infection). Cell-line and enzyme studies on
+  cancer, and LPS/colitis and aquaretic studies on arthritis/swelling, moved to mechanistic (they
+  never name those symptoms). Empty notes filled. REF-3174 retagged narrative-review.'

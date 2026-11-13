@@ -122,34 +122,39 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  note: Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the benzodiazepine
-    site of the GABA-A receptor); a randomised, double-blind, placebo-controlled crossover trial in healthy
-    volunteers found significantly improved overall mood without loss of energy or cognition
+  note: Skullcap reduced anxiety in a small placebo-controlled trial in healthy volunteers and in rats;
+    a 2014 crossover trial in mostly non-anxious volunteers found no difference in anxiety vs placebo
+    but improved overall mood
   reference_ids:
   - REF-0510
-  - REF-0551
   - REF-1563
   status: verified
+  null_result_ids:
+  - REF-0551
 - condition: insomnia
-  note: Sedative / sleep support (insomnia)
+  note: A skullcap extract supplement improved sleep quality, time to fall asleep and total sleep vs placebo
+    in primary insomnia in a randomized crossover trial; traditional sedative
   reference_ids:
   - REF-0510
   - REF-1562
   status: verified
 - condition: nervous-tension
-  note: Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the benzodiazepine
-    site of the GABA-A receptor); a randomised, double-blind, placebo-controlled crossover trial in healthy
-    volunteers found significantly improved overall mood without loss of energy or cognition
+  note: Traditional remedy for nervous disorders (Grieve, A Modern Herbal); skullcap improved overall
+    mood without loss of energy or cognition vs placebo in a randomized crossover trial; its flavonoids
+    bind the benzodiazepine site of the GABA-A receptor (preclinical)
   reference_ids:
   - REF-0510
   - REF-0551
+  - REF-3789
   status: verified
 - condition: stress
-  note: Calming nervine for stress and nervous disorders (traditional)
+  note: Traditional remedy for stress and nervous disorders; skullcap improved overall mood vs placebo
+    in a randomized crossover trial
   reference_ids:
-  - REF-0510
   - REF-0551
   status: verified
+  mechanistic_exclude_ids:
+  - REF-0510
 contraindications:
 - note: Generally well tolerated; its sedative effect can add to that of alcohol, sedatives and sleep
     medicines, and it may inhibit some drug-metabolising (CYP) enzymes.
@@ -242,4 +247,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytomedicine p
   sourced from the existing phytochemical/anxiolytic review (REF-0510) and the tincture-variability HPLC
   study (REF-0550). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for aerial-parts
   (provisional: PFAF REF-3339, flowering herb cut in early summer). SAFETY: hepatotoxic Teucrium chamaedrys
-  adulterant. Binomial confirmed.'
+  adulterant. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 16 - Deep audit. Brock 2014 crossover RCT
+  REF-0551 found no anxiety (BAI) difference vs placebo: moved to no-effect for anxiety, kept for
+  mood/stress/nervous tension. REF-0510 retagged preclinical (rat behaviour + phytochemistry) and
+  removed from stress (never names it). Grieve REF-3789 added to nervous-tension. REF-1562
+  (insomnia RCT, single-herb extract) checked and kept.'

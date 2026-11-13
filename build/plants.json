@@ -35872,7 +35872,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0112",
-      "REF-0134",
       "REF-0194",
       "REF-1196",
       "REF-1198"
@@ -35883,7 +35882,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0112",
-      "REF-0134",
       "REF-0194",
       "REF-1196",
       "REF-1198",
@@ -35896,7 +35894,6 @@
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
       "REF-0112",
-      "REF-0134",
       "REF-0194",
       "REF-1198"
      ],
@@ -35906,7 +35903,6 @@
      "action": "antiviral",
      "reference_ids": [
       "REF-0112",
-      "REF-0134",
       "REF-0194",
       "REF-1196",
       "REF-1198",
@@ -35918,7 +35914,6 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0112",
-      "REF-0134",
       "REF-0194",
       "REF-1198"
      ],
@@ -35947,7 +35942,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0134",
       "REF-0112",
       "REF-0194"
      ],
@@ -35956,13 +35950,12 @@
     },
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditional use for mild digestive complaints such as bloating and flatulence (EU herbal monograph)",
      "reference_ids": [
       "REF-3078"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0134",
       "REF-0194",
       "REF-0112"
      ],
@@ -35975,7 +35968,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0134",
       "REF-1200",
       "REF-0112",
       "REF-0194"
@@ -35985,13 +35977,12 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditional use for mild digestive complaints (EU herbal monograph)",
      "reference_ids": [
       "REF-3078"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0134",
       "REF-0194",
       "REF-0112"
      ],
@@ -36000,17 +35991,17 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antiviral action",
+     "note": "Topical lemon balm helped cold sores (herpes labialis) in trials (systematic review); antiviral activity in the lab (review)",
      "reference_ids": [
-      "REF-1200"
+      "REF-1200",
+      "REF-3655"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0134",
       "REF-0112",
       "REF-0194"
      ],
-     "evidence": 2,
+     "evidence": 7,
      "label": "Infection (general)"
     },
     {
@@ -36019,18 +36010,22 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0134",
       "REF-0112",
       "REF-0194"
+     ],
+     "null_result_ids": [
+      "REF-3527"
      ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "insomnia",
-     "note": "inferred from sedative action",
+     "note": "Lemon balm improved sleep in randomized trials, including a phytosome extract vs placebo; traditional use to aid sleep (EU herbal monograph); one trial in type 2 diabetes found no change in sleep quality",
      "reference_ids": [
-      "REF-3078"
+      "REF-3078",
+      "REF-2539",
+      "REF-3656"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -36040,7 +36035,10 @@
       "REF-0112",
       "REF-0134"
      ],
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-3657"
+     ],
+     "evidence": 6,
      "label": "Insomnia / sleeplessness"
     },
     {
@@ -36049,7 +36047,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0134",
       "REF-0194",
       "REF-0112"
      ],
@@ -36057,40 +36054,80 @@
      "label": "Menstrual cramps"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0134",
-      "REF-0194",
-      "REF-0112"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0134",
       "REF-0112",
       "REF-0194"
+     ],
+     "null_result_ids": [
+      "REF-3527"
      ],
      "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "depression",
-     "note": "Meta-analysis of clinical trials: lemon balm may improve depressive and anxiety symptoms, particularly in the acute setting; trials are few and heterogeneous.",
+     "note": "Lemon balm reduced depression scores in a meta-analysis of clinical trials and in randomized trials in people with angina or type 2 diabetes; trials are few and varied",
      "reference_ids": [
-      "REF-1194"
+      "REF-1194",
+      "REF-2539",
+      "REF-3657"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 9,
      "label": "Low mood / depression"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Lemon balm reduced anxiety in a meta-analysis of clinical trials and in randomized trials in people with angina or type 2 diabetes",
+     "reference_ids": [
+      "REF-1194",
+      "REF-2539",
+      "REF-3657"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "stress",
+     "note": "Lemon balm reduced stress scores in people with chronic stable angina in a randomized trial; traditional use for mild symptoms of mental stress (EU herbal monograph)",
+     "reference_ids": [
+      "REF-2539",
+      "REF-3078"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Stress"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Lemon balm lowered total and LDL cholesterol and triglycerides in meta-analyses and in a randomized trial in borderline high cholesterol",
+     "reference_ids": [
+      "REF-1195",
+      "REF-1197",
+      "REF-3659"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Lemon balm lowered systolic blood pressure in a meta-analysis and lowered blood pressure in essential hypertension in a randomized crossover trial; one trial in type 2 diabetes found no effect",
+     "reference_ids": [
+      "REF-1197",
+      "REF-3658"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3657"
+     ],
+     "evidence": 8,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [
@@ -36275,8 +36312,7 @@
      "reference_ids": [
       "REF-1206",
       "REF-0004",
-      "REF-0100",
-      "REF-0163"
+      "REF-0100"
      ],
      "status": "verified"
     },
@@ -36295,8 +36331,7 @@
      "text": "Duke (2002) and Commission E guidance: about 0.6 mL enteric-coated oil two to three times daily between meals for IBS-type digestive complaints. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-0004",
-      "REF-0100",
-      "REF-0163"
+      "REF-0100"
      ],
      "status": "verified"
     },
@@ -36305,8 +36340,7 @@
      "text": "Traditional guidance: about 1.5-3 g dried leaf as a tea, up to three times daily for digestive complaints. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-0004",
-      "REF-0100",
-      "REF-0163"
+      "REF-0100"
      ],
      "status": "verified"
     }
@@ -36351,9 +36385,7 @@
     {
      "action": "analgesic",
      "reference_ids": [
-      "REF-0004",
       "REF-0100",
-      "REF-0163",
       "REF-1204",
       "REF-1207"
      ],
@@ -36362,9 +36394,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163",
       "REF-1203",
       "REF-1204",
       "REF-1205",
@@ -36375,9 +36404,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163",
       "REF-1203",
       "REF-1204",
       "REF-1205",
@@ -36393,9 +36419,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163",
       "REF-1203",
       "REF-1204",
       "REF-1205",
@@ -36413,9 +36436,7 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0004",
       "REF-0100",
-      "REF-0163",
       "REF-1203",
       "REF-1206"
      ],
@@ -36424,9 +36445,7 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0004",
       "REF-0100",
-      "REF-0163",
       "REF-1203",
       "REF-1204",
       "REF-1206"
@@ -36482,11 +36501,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163"
-     ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
@@ -36496,9 +36510,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0004",
       "REF-0100",
-      "REF-0163",
       "REF-1207"
      ],
      "evidence": 1,
@@ -36510,8 +36522,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0163",
       "REF-0100"
      ],
      "evidence": 1,
@@ -36519,17 +36529,19 @@
     },
     {
      "condition": "headache",
-     "note": "inferred from analgesic action",
+     "note": "10% peppermint oil rubbed on the forehead and temples eased tension-type headache better than placebo and as well as paracetamol in a randomized trial, and is licensed for this use in Germany (review); a peppermint-oil foot bath did not help chronic headache in youth",
      "reference_ids": [
-      "REF-1207"
+      "REF-1207",
+      "REF-3666"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163"
+      "REF-0100"
      ],
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-3667"
+     ],
+     "evidence": 5,
      "label": "Headache"
     },
     {
@@ -36538,8 +36550,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0163",
       "REF-0100"
      ],
      "evidence": 1,
@@ -36547,16 +36557,11 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Peppermint extracts and oil were antiviral, antibacterial and antifungal in lab studies (preclinical)",
      "reference_ids": [
       "REF-3039"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163"
-     ],
      "evidence": 2,
      "label": "Infection (general)"
     },
@@ -36565,11 +36570,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163"
-     ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
@@ -36579,38 +36579,20 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163"
+      "REF-0100"
      ],
      "evidence": 1,
      "label": "Menstrual cramps"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0163",
-      "REF-0100"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "pain",
      "reference_ids": [
-      "REF-0100"
+      "REF-0100",
+      "REF-3668"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0163"
-     ],
-     "note": "Enteric-coated peppermint oil relieved abdominal pain in irritable bowel syndrome and recurrent abdominal pain (review of 16 trials)",
-     "evidence": 7,
+     "note": "Enteric-coated peppermint oil relieved abdominal pain in IBS (systematic review), and peppermint applied to the nipples reduced breastfeeding nipple pain (meta-analysis)",
+     "evidence": 8,
      "label": "Pain (general)"
     },
     {
@@ -36618,11 +36600,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163"
-     ],
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -36632,9 +36609,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163",
       "REF-1210",
       "REF-3041"
      ],
@@ -36655,6 +36629,35 @@
      ],
      "evidence": 2,
      "label": "Cognitive function"
+    },
+    {
+     "condition": "ibs",
+     "note": "Enteric-coated peppermint oil relieved IBS symptoms and abdominal pain vs placebo in meta-analyses (certainty very low to moderate); two recent randomized trials found no significant benefit on their main outcomes",
+     "reference_ids": [
+      "REF-3660",
+      "REF-3661",
+      "REF-3662",
+      "REF-3663",
+      "REF-0100"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3664",
+      "REF-3665"
+     ],
+     "evidence": 10,
+     "label": "Irritable bowel syndrome (IBS)"
+    },
+    {
+     "condition": "nausea",
+     "note": "Inhaled peppermint oil reduced nausea and vomiting after surgery in randomized trials",
+     "reference_ids": [
+      "REF-3669",
+      "REF-3670"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Nausea"
     }
    ],
    "contraindications": [
@@ -36663,8 +36666,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0004",
-      "REF-0100",
-      "REF-0163"
+      "REF-0100"
      ],
      "status": "verified"
     },
@@ -36674,7 +36676,6 @@
      "reference_ids": [
       "REF-0004",
       "REF-0100",
-      "REF-0163",
       "REF-0063"
      ],
      "status": "verified"
@@ -36712,7 +36713,8 @@
     "REF-3055",
     "REF-3056",
     "REF-3057",
-    "REF-3058"
+    "REF-3058",
+    "REF-0004"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -36937,7 +36939,7 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Bitter melon supplements reduced knee osteoarthritis pain and painkiller use in a single-blind randomized trial",
      "reference_ids": [
       "REF-1218"
      ],
@@ -36951,24 +36953,26 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)",
+     "note": "Bitter melon lowered blood sugar in type 2 diabetes in a randomized trial and a meta-analysis (low-quality evidence); a Cochrane review and a later systematic review found no clear effect",
      "reference_ids": [
       "REF-0412",
       "REF-0413",
       "REF-1213",
       "REF-1220",
-      "REF-1221"
+      "REF-1221",
+      "REF-3671"
      ],
      "status": "verified",
      "null_result_ids": [
-      "REF-3396"
+      "REF-3396",
+      "REF-3672"
      ],
-     "evidence": 5,
+     "evidence": 8,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Bitter melon compounds slowed tumours in lab and animal studies (reviews)",
      "reference_ids": [
       "REF-1214",
       "REF-1215",
@@ -36991,17 +36995,28 @@
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
+     "note": "Antidiabetic effects reviewed (reviews); a Cochrane review and a later systematic review found no clear effect on metabolic markers",
      "reference_ids": [
       "REF-0412",
       "REF-0413"
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-3396"
+      "REF-3396",
+      "REF-3672"
      ],
      "evidence": 2,
      "label": "Metabolic support"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Bitter melon lowered total cholesterol and triglycerides in a meta-analysis of randomized trials (short trials)",
+     "reference_ids": [
+      "REF-3673"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High cholesterol"
     }
    ],
    "contraindications": [
@@ -37247,18 +37262,14 @@
     {
      "action": "analgesic",
      "reference_ids": [
-      "REF-0110",
-      "REF-0197",
-      "REF-0303"
+      "REF-0197"
      ],
      "status": "verified"
     },
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0110",
       "REF-0197",
-      "REF-0303",
       "REF-1422",
       "REF-1423",
       "REF-1424",
@@ -37277,18 +37288,14 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0110",
-      "REF-0197",
-      "REF-0303"
+      "REF-0197"
      ],
      "status": "verified"
     },
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0110",
       "REF-0197",
-      "REF-0303",
       "REF-1419",
       "REF-1422"
      ],
@@ -37297,9 +37304,7 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0110",
       "REF-0197",
-      "REF-0303",
       "REF-1422"
      ],
      "status": "verified"
@@ -37307,9 +37312,7 @@
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0110",
-      "REF-0197",
-      "REF-0303"
+      "REF-0197"
      ],
      "status": "verified"
     },
@@ -37317,8 +37320,7 @@
      "action": "immunomodulator",
      "reference_ids": [
       "REF-0110",
-      "REF-0197",
-      "REF-0303"
+      "REF-0197"
      ],
      "status": "verified"
     }
@@ -37330,8 +37332,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0110",
-      "REF-0303",
       "REF-1423",
       "REF-1424",
       "REF-0197"
@@ -37341,14 +37341,15 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Noni juice and compounds slowed cancer cells and tumours in lab and animal studies (systematic review of preclinical studies; review)",
      "reference_ids": [
       "REF-1418",
       "REF-1426",
-      "REF-0110"
+      "REF-0110",
+      "REF-3674"
      ],
      "status": "needs-review",
-     "evidence": 2,
+     "evidence": 7,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -37358,9 +37359,12 @@
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0303",
       "REF-0197"
      ],
+     "null_result_ids": [
+      "REF-3675"
+     ],
+     "note": "A noni fruit polysaccharide stimulated immune cells and anti-tumour responses in mice (preclinical); in a randomized trial fermented noni polysaccharides did not significantly raise natural killer cell activity",
      "evidence": 2,
      "label": "Immune support"
     },
@@ -37370,23 +37374,19 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0303",
-      "REF-0197",
-      "REF-0110"
+      "REF-0197"
      ],
      "evidence": 1,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Noni polysaccharides eased colitis in mice, and its compounds reduced inflammatory signals in the lab (preclinical)",
      "reference_ids": [
       "REF-1424"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0110",
-      "REF-0303",
       "REF-0197"
      ],
      "evidence": 2,
@@ -37394,14 +37394,12 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Fermented noni eased atopic-dermatitis-like skin lesions in mice (preclinical)",
      "reference_ids": [
       "REF-1423"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0110",
-      "REF-0303",
       "REF-1424",
       "REF-0197"
      ],
@@ -37414,12 +37412,30 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0110",
-      "REF-0303",
       "REF-0197"
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Noni juice improved blood lipids vs placebo in heavy smokers in a randomized trial",
+     "reference_ids": [
+      "REF-3676"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "nausea",
+     "note": "Noni fruit extract taken before surgery reduced early postoperative nausea vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3677"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Nausea"
     }
    ],
    "contraindications": [
@@ -37455,7 +37471,8 @@
     "REF-1423",
     "REF-1424",
     "REF-1425",
-    "REF-1426"
+    "REF-1426",
+    "REF-0303"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -37641,8 +37658,7 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0035",
-      "REF-0095"
+      "REF-0035"
      ],
      "status": "verified"
     },
@@ -37650,7 +37666,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0035",
-      "REF-0095",
       "REF-0932",
       "REF-0934",
       "REF-0936"
@@ -37669,8 +37684,7 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0035",
-      "REF-0095"
+      "REF-0035"
      ],
      "status": "verified"
     }
@@ -37678,7 +37692,7 @@
    "indications": [
     {
      "condition": "bloating",
-     "note": "inferred from digestive action",
+     "note": "Traditional carminative used for infantile colic (pharmacognosy monograph)",
      "reference_ids": [
       "REF-0938"
      ],
@@ -37692,14 +37706,13 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Catnip extracts and essential oil were antimicrobial in lab tests (preclinical)",
      "reference_ids": [
       "REF-0932",
       "REF-0934"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0095",
       "REF-0035"
      ],
      "evidence": 2,
@@ -37711,6 +37724,7 @@
       "REF-0095"
      ],
      "status": "verified",
+     "note": "Catnip oil relaxed airway smooth muscle in lab tissue, in line with its traditional use for cough and asthma (preclinical)",
      "evidence": 2,
      "label": "Respiratory support"
     },
@@ -37720,7 +37734,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0095",
       "REF-0035"
      ],
      "evidence": 1,
@@ -38024,15 +38037,18 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
-     "reference_ids": [],
+     "note": "Black seed lowered fasting blood sugar and HbA1c in meta-analyses of randomized trials",
+     "reference_ids": [
+      "REF-2516",
+      "REF-3696"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 8,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Black seed and thymoquinone slowed cancer cells in lab and animal studies (review)",
      "reference_ids": [
       "REF-2071"
      ],
@@ -38060,6 +38076,7 @@
      "condition": "immune-support",
      "reference_ids": [],
      "status": "needs-review",
+     "note": "Black seed and thymoquinone modulated immune responses in lab and animal studies (review)",
      "evidence": 1,
      "label": "Immune support"
     },
@@ -38073,24 +38090,30 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Black seed lowered CRP and TNF-alpha inflammation markers in a meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-3699"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 7,
      "label": "Inflammation (general)"
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
-     "reference_ids": [],
+     "note": "Black seed improved blood lipids and blood sugar in metabolic syndrome in meta-analyses, without clear effects on insulin resistance or waist size",
+     "reference_ids": [
+      "REF-3698",
+      "REF-3704"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 8,
      "label": "Metabolic support"
     },
     {
      "condition": "pain",
      "reference_ids": [],
      "status": "needs-review",
+     "note": "Pain-relieving effects reported in animal studies (review)",
      "evidence": 1,
      "label": "Pain (general)"
     },
@@ -38115,6 +38138,69 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Black seed lowered systolic and diastolic blood pressure in meta-analyses of randomized trials",
+     "reference_ids": [
+      "REF-2513",
+      "REF-2512"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "High blood pressure"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Black seed lowered total and LDL cholesterol and triglycerides in meta-analyses of randomized trials",
+     "reference_ids": [
+      "REF-3697",
+      "REF-2516"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "cardiovascular-support",
+     "note": "Black seed modestly improved several cardiovascular risk factors in meta-analyses of randomized trials",
+     "reference_ids": [
+      "REF-3703",
+      "REF-3704"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Cardiovascular / heart health"
+    },
+    {
+     "condition": "asthma",
+     "note": "Black seed added to usual treatment improved asthma control in a meta-analysis of trials",
+     "reference_ids": [
+      "REF-3700"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Asthma"
+    },
+    {
+     "condition": "allergy",
+     "note": "Black seed improved allergic rhinitis nasal symptoms in a meta-analysis of randomized trials (few, lower-quality studies)",
+     "reference_ids": [
+      "REF-3701"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Allergy / hay fever"
+    },
+    {
+     "condition": "liver-support",
+     "note": "Black seed improved liver enzymes and fatty liver grade vs placebo in non-alcoholic fatty liver disease in a meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-3702"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Liver support"
     }
    ],
    "contraindications": [
@@ -38397,18 +38483,19 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "Supports blood-sugar control (lowers fasting and post-meal glucose)",
+     "note": "Holy basil leaves lowered fasting and post-meal blood sugar in type 2 diabetes in a single-blind randomized trial; a systematic review of human studies reports the same",
      "reference_ids": [
       "REF-0466",
-      "REF-1430"
+      "REF-1430",
+      "REF-3678"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Tulsi and its compounds showed anticancer and radioprotective effects in lab and animal studies (reviews)",
      "reference_ids": [
       "REF-0467",
       "REF-1428",
@@ -38421,7 +38508,7 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Holy basil leaf extract improved reaction time and some cognitive tests vs placebo in healthy adults in a randomized trial",
      "reference_ids": [
       "REF-0596"
      ],
@@ -38455,7 +38542,7 @@
     },
     {
      "condition": "immune-support",
-     "note": "Immunomodulatory / immune support",
+     "note": "A systematic review of human studies reports immune-enhancing effects",
      "reference_ids": [
       "REF-0466"
      ],
@@ -38689,47 +38776,57 @@
    "indications": [
     {
      "condition": "eczema",
-     "note": "inferred from emollient action; oral evening primrose oil showed no benefit for eczema in trials (see the no-effect studies)",
-     "reference_ids": [],
+     "note": "Oral evening primrose oil was no better than placebo for eczema in a Cochrane review; one later Indian trial reported benefit",
+     "reference_ids": [
+      "REF-3684"
+     ],
      "status": "needs-review",
      "null_result_ids": [
       "REF-0447",
       "REF-1458",
       "REF-2587"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Eczema"
     },
     {
      "condition": "hot-flashes",
-     "note": "Menopausal hot flushes - some trial benefit reported",
+     "note": "Oral evening primrose oil reduced the intensity of hot flashes vs placebo in a randomized trial and menopausal symptoms in a meta-analysis",
      "reference_ids": [
-      "REF-0446"
+      "REF-0446",
+      "REF-3683",
+      "REF-3679"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 9,
      "label": "Hot flashes"
     },
     {
      "condition": "pain",
-     "note": "Cyclical breast pain (mastalgia) - evening primrose oil reduced pain severity versus placebo in a trial; a 2024 review reports some benefit",
+     "note": "Evening primrose oil reduced cyclical breast pain in small randomized trials, but a 2021 meta-analysis found it no better than placebo",
      "reference_ids": [
       "REF-0446",
-      "REF-0600"
+      "REF-0600",
+      "REF-3686"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "null_result_ids": [
+      "REF-3680"
+     ],
+     "evidence": 9,
      "label": "Pain (general)"
     },
     {
      "condition": "pms",
-     "note": "Cyclical breast pain (mastalgia) improved versus placebo in a trial; a 2024 review found no effect on premenstrual syndrome itself",
+     "note": "Cyclical breast pain improved in some trials, but reviews found evening primrose oil of little value for premenstrual syndrome itself and no better than placebo for breast pain",
      "reference_ids": [
       "REF-0600"
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-0446"
+      "REF-0446",
+      "REF-3681",
+      "REF-3680"
      ],
      "evidence": 5,
      "label": "PMS / premenstrual syndrome"
@@ -38744,6 +38841,27 @@
      ],
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "menopause",
+     "note": "Evening primrose oil reduced menopausal symptoms in a meta-analysis, and psychological symptoms in postmenopausal women in a randomized trial",
+     "reference_ids": [
+      "REF-3679",
+      "REF-3685"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Menopause"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Evening primrose oil lowered triglycerides and raised HDL cholesterol in people with high blood lipids in a meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-3682"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High cholesterol"
     }
    ],
    "contraindications": [
@@ -38972,7 +39090,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0032",
-      "REF-0299",
       "REF-0301",
       "REF-1437",
       "REF-1440",
@@ -38990,7 +39107,6 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0032",
       "REF-0299",
       "REF-0301",
       "REF-1443"
@@ -39000,8 +39116,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0032",
-      "REF-0299",
       "REF-0301",
       "REF-1439",
       "REF-1442"
@@ -39012,7 +39126,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0032",
-      "REF-0299",
       "REF-0301",
       "REF-1437",
       "REF-1444"
@@ -39022,8 +39135,6 @@
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0032",
-      "REF-0299",
       "REF-0301"
      ],
      "status": "verified"
@@ -39032,13 +39143,12 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Oleocanthal from virgin olive oil has ibuprofen-like anti-inflammatory activity (review)",
      "reference_ids": [
       "REF-0032"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0299",
       "REF-1437",
       "REF-1442",
       "REF-0301"
@@ -39048,22 +39158,26 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Olive leaf extract lowered HbA1c in one randomized trial and improved insulin sensitivity in another; meta-analyses of olive leaf extract and of extra virgin olive oil found no significant effect on blood sugar",
      "reference_ids": [
       "REF-0299",
       "REF-1443"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0032",
       "REF-0301"
+     ],
+     "null_result_ids": [
+      "REF-3690",
+      "REF-3689",
+      "REF-3687"
      ],
      "evidence": 6,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Oleuropein from olive leaf slowed melanoma cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1438"
      ],
@@ -39074,67 +39188,68 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0301"
+      "REF-0301",
+      "REF-3695",
+      "REF-3688"
      ],
      "status": "verified",
-     "evidence": 2,
+     "note": "High-polyphenol extra virgin olive oil improved cardiovascular risk factors in a meta-analysis, and olive leaf supplements helped cardiometabolic risk factors in a GRADE-assessed meta-analysis; olive oil components reviewed (review)",
+     "evidence": 8,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cold",
-     "note": "inferred from antiviral action",
+     "note": "Olive polyphenols are active against respiratory bacteria in lab studies (review)",
      "reference_ids": [
       "REF-0301"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0032",
-      "REF-0299"
-     ],
      "evidence": 2,
      "label": "Cold & flu"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Topical olive leaf extract helped cold sores in trials (systematic review); olive polyphenols are antimicrobial in the lab (review)",
      "reference_ids": [
-      "REF-0301"
+      "REF-0301",
+      "REF-3655"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0032",
-      "REF-0299"
-     ],
-     "evidence": 2,
+     "evidence": 7,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Regular olive oil intake lowered inflammation markers such as IL-6 in a meta-analysis; olive leaf extract showed no significant anti-inflammatory effect in a 2026 meta-analysis",
      "reference_ids": [
       "REF-0032",
-      "REF-1440"
+      "REF-1440",
+      "REF-3691"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0299",
       "REF-1437",
       "REF-0301"
      ],
-     "evidence": 2,
+     "null_result_ids": [
+      "REF-3689"
+     ],
+     "evidence": 7,
      "label": "Inflammation (general)"
     },
     {
      "condition": "metabolic-support",
-     "note": "inferred from antidiabetic action",
+     "note": "Olive leaf polyphenols improved insulin sensitivity in a randomized trial; a 2026 meta-analysis found no significant metabolic effects of olive leaf extract",
      "reference_ids": [
       "REF-0299",
       "REF-1443"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0032",
       "REF-0301"
+     ],
+     "null_result_ids": [
+      "REF-3689"
      ],
      "evidence": 6,
      "label": "Metabolic support"
@@ -39145,7 +39260,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0299",
       "REF-1437",
       "REF-1442",
       "REF-0032",
@@ -39156,16 +39270,46 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
+     "note": "Topical olive oil reduced pressure ulcers in a meta-analysis of trials; olive leaf extract was antibacterial in the lab (preclinical)",
+     "reference_ids": [
+      "REF-3692"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0032",
-      "REF-0299",
       "REF-0301"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Wounds"
+    },
+    {
+     "condition": "menopause",
+     "note": "Olive leaf extract improved postmenopausal symptoms vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-1445"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Menopause"
+    },
+    {
+     "condition": "oral-health",
+     "note": "Olive oil and ozonated olive oil gels improved gum health in periodontal disease in a meta-analysis (short-term)",
+     "reference_ids": [
+      "REF-3693"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Oral & throat health"
+    },
+    {
+     "condition": "cognitive-function",
+     "note": "Extra virgin olive oil improved global cognition in older adults with mild cognitive impairment or dementia in a meta-analysis (low-certainty evidence)",
+     "reference_ids": [
+      "REF-3694"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Cognitive function"
     }
    ],
    "contraindications": [
@@ -39474,9 +39618,7 @@
      "reference_ids": [
       "REF-2745",
       "REF-2746",
-      "REF-3025",
-      "REF-3028",
-      "REF-3034"
+      "REF-3025"
      ],
      "status": "verified"
     },
@@ -39489,10 +39631,8 @@
     {
      "action": "gastroprotective",
      "note": "Protective against ethanol-induced gastric mucosal injury (congener O. spinosa).",
-     "reference_ids": [
-      "REF-2759"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "anticancer",
@@ -39526,7 +39666,7 @@
    "indications": [
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Ononis isoflavone extracts slowed breast and prostate cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-2745",
       "REF-3021"
@@ -39537,7 +39677,7 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Leaf and root extracts were antifungal and antibacterial in lab tests (preclinical)",
      "reference_ids": [
       "REF-2742"
      ],
@@ -39605,7 +39745,6 @@
     "REF-2750",
     "REF-2751",
     "REF-2752",
-    "REF-2759",
     "REF-3017",
     "REF-3019",
     "REF-3020",
@@ -39613,12 +39752,10 @@
     "REF-3023",
     "REF-3025",
     "REF-3026",
-    "REF-3028",
     "REF-3029",
     "REF-3030",
     "REF-3031",
-    "REF-3032",
-    "REF-3034"
+    "REF-3032"
    ],
    "drug_class_interactions": [
     {

@@ -154,7 +154,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0112
-  - REF-0134
   - REF-0194
   - REF-1196
   - REF-1198
@@ -162,7 +161,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0112
-  - REF-0134
   - REF-0194
   - REF-1196
   - REF-1198
@@ -172,14 +170,12 @@ actions:
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0112
-  - REF-0134
   - REF-0194
   - REF-1198
   status: verified
 - action: antiviral
   reference_ids:
   - REF-0112
-  - REF-0134
   - REF-0194
   - REF-1196
   - REF-1198
@@ -188,7 +184,6 @@ actions:
 - action: digestive
   reference_ids:
   - REF-0112
-  - REF-0134
   - REF-0194
   - REF-1198
   status: verified
@@ -210,16 +205,14 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0134
   - REF-0112
   - REF-0194
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditional use for mild digestive complaints such as bloating and flatulence (EU herbal monograph)
   reference_ids:
   - REF-3078
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0134
   - REF-0194
   - REF-0112
 - condition: cold
@@ -227,26 +220,25 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0134
   - REF-1200
   - REF-0112
   - REF-0194
 - condition: indigestion
-  note: inferred from digestive action
+  note: Traditional use for mild digestive complaints (EU herbal monograph)
   reference_ids:
   - REF-3078
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0134
   - REF-0194
   - REF-0112
 - condition: infection
-  note: inferred from antiviral action
+  note: Topical lemon balm helped cold sores (herpes labialis) in trials (systematic review); antiviral
+    activity in the lab (review)
   reference_ids:
   - REF-1200
+  - REF-3655
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0134
   - REF-0112
   - REF-0194
 - condition: inflammation
@@ -254,13 +246,17 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0134
   - REF-0112
   - REF-0194
+  null_result_ids:
+  - REF-3527
 - condition: insomnia
-  note: inferred from sedative action
+  note: Lemon balm improved sleep in randomized trials, including a phytosome extract vs placebo; traditional
+    use to aid sleep (EU herbal monograph); one trial in type 2 diabetes found no change in sleep quality
   reference_ids:
   - REF-3078
+  - REF-2539
+  - REF-3656
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0194
@@ -268,20 +264,13 @@ indications:
   - REF-1202
   - REF-0112
   - REF-0134
+  null_result_ids:
+  - REF-3657
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0134
-  - REF-0194
-  - REF-0112
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0134
   - REF-0194
   - REF-0112
 - condition: skin-irritation
@@ -289,15 +278,50 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0134
   - REF-0112
   - REF-0194
+  null_result_ids:
+  - REF-3527
 - condition: depression
-  note: 'Meta-analysis of clinical trials: lemon balm may improve depressive and anxiety symptoms, particularly
-    in the acute setting; trials are few and heterogeneous.'
+  note: Lemon balm reduced depression scores in a meta-analysis of clinical trials and in randomized trials
+    in people with angina or type 2 diabetes; trials are few and varied
   reference_ids:
   - REF-1194
+  - REF-2539
+  - REF-3657
   status: verified
+- condition: anxiety
+  note: Lemon balm reduced anxiety in a meta-analysis of clinical trials and in randomized trials in people
+    with angina or type 2 diabetes
+  reference_ids:
+  - REF-1194
+  - REF-2539
+  - REF-3657
+  status: verified
+- condition: stress
+  note: Lemon balm reduced stress scores in people with chronic stable angina in a randomized trial; traditional
+    use for mild symptoms of mental stress (EU herbal monograph)
+  reference_ids:
+  - REF-2539
+  - REF-3078
+  status: verified
+- condition: high-cholesterol
+  note: Lemon balm lowered total and LDL cholesterol and triglycerides in meta-analyses and in a randomized
+    trial in borderline high cholesterol
+  reference_ids:
+  - REF-1195
+  - REF-1197
+  - REF-3659
+  status: verified
+- condition: high-blood-pressure
+  note: Lemon balm lowered systolic blood pressure in a meta-analysis and lowered blood pressure in essential
+    hypertension in a randomized crossover trial; one trial in type 2 diabetes found no effect
+  reference_ids:
+  - REF-1197
+  - REF-3658
+  status: verified
+  null_result_ids:
+  - REF-3657
 contraindications:
 - note: Generally very safe for adults. Theoretically may interact with thyroid medications and sedatives.
     Avoid high therapeutic doses during pregnancy. Long-term safety data beyond a few months is limited.
@@ -386,4 +410,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   mood and cognition, not sleep - removed from insomnia (an RCT is cited only for what it
   measured). EU leaf monograph REF-3078 (mild symptoms of mental stress and to aid sleep; mild GI
   complaints including bloating and flatulence - EMA page 429, flagged for owner spot-check) added
-  to insomnia, bloating, indigestion.'
+  to insomnia, bloating, indigestion.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. REF-0134 (acute mood
+  RCT) removed from five non-sedative actions. Muscle-spasm dropped (off-target). Held MAs
+  REF-1194/REF-1195/REF-1197 and RCT REF-2539 wired. New pairs (owner rule): anxiety, stress,
+  high-cholesterol, high-blood-pressure. RCT REF-3657 (T2D) supports depression/anxiety and is
+  recorded as no-effect for sleep and blood pressure. Herpes labialis SR REF-3655 added to
+  infection. UV-erythema RCT REF-3527 no-effect for skin (batch-7 carry). Not used: psoriasis
+  syrup RCT 34193264 (no between-group DLQI difference reported); palpitations RCT 25680840 (no
+  matching condition).'

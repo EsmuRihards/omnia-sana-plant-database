@@ -168,13 +168,16 @@ indications:
   mechanistic_exclude_ids:
   - REF-0467
 - condition: blood-sugar
-  note: Supports blood-sugar control (lowers fasting and post-meal glucose)
+  note: Holy basil leaves lowered fasting and post-meal blood sugar in type 2 diabetes in a single-blind
+    randomized trial; a systematic review of human studies reports the same
   reference_ids:
   - REF-0466
   - REF-1430
+  - REF-3678
   status: verified
 - condition: cancer
-  note: inferred from anticancer action
+  note: Tulsi and its compounds showed anticancer and radioprotective effects in lab and animal studies
+    (reviews)
   reference_ids:
   - REF-0467
   - REF-1428
@@ -182,7 +185,8 @@ indications:
   - REF-1436
   status: needs-review
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Holy basil leaf extract improved reaction time and some cognitive tests vs placebo in healthy
+    adults in a randomized trial
   reference_ids:
   - REF-0596
   status: needs-review
@@ -201,7 +205,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0466
 - condition: immune-support
-  note: Immunomodulatory / immune support
+  note: A systematic review of human studies reports immune-enhancing effects
   reference_ids:
   - REF-0466
   status: verified
@@ -310,4 +314,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   | 2026-11-10: symptom-source audit batch 11 - REF-0466 (Jamshidi 2017 SR) names metabolic,
   cardiovascular, immunity, neurocognition and psychological stress - removed from anxiety, cold
   and fatigue. REF-1427 (Holixer RCT) measured stress, mood and sleep, not anxiety - removed from
-  anxiety. REF-0596 (cognition RCT) names no memory outcome - removed from memory.'
+  anxiety. REF-0596 (cognition RCT) names no memory outcome - removed from memory.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. Single-blind diabetes
+  RCT REF-3678 added to blood-sugar. Notes rewritten. Few trials on PubMed.'

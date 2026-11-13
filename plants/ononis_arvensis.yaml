@@ -185,8 +185,6 @@ actions:
   - REF-2745
   - REF-2746
   - REF-3025
-  - REF-3028
-  - REF-3034
   status: verified
 - action: analgesic
   note: Analgesic activity of Ononis extract in animals (congener O. spinosa).
@@ -194,9 +192,8 @@ actions:
   status: needs-review
 - action: gastroprotective
   note: Protective against ethanol-induced gastric mucosal injury (congener O. spinosa).
-  reference_ids:
-  - REF-2759
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: anticancer
   note: Ononis isoflavones showed chemopreventive/antiproliferative activity against breast cancer cells
     (preclinical).
@@ -217,13 +214,13 @@ actions:
   status: verified
 indications:
 - condition: cancer
-  note: inferred from anticancer action
+  note: Ononis isoflavone extracts slowed breast and prostate cancer cells in the lab (preclinical)
   reference_ids:
   - REF-2745
   - REF-3021
   status: needs-review
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Leaf and root extracts were antifungal and antibacterial in lab tests (preclinical)
   reference_ids:
   - REF-2742
   status: needs-review
@@ -273,7 +270,6 @@ references:
 - REF-2750
 - REF-2751
 - REF-2752
-- REF-2759
 - REF-3017
 - REF-3019
 - REF-3020
@@ -281,12 +277,10 @@ references:
 - REF-3023
 - REF-3025
 - REF-3026
-- REF-3028
 - REF-3029
 - REF-3030
 - REF-3031
 - REF-3032
-- REF-3034
 drug_class_interactions:
 - drug_class: diuretics
   severity: caution
@@ -378,4 +372,7 @@ internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Onon
   study; no abstract or text) removed from every symptom as unverifiable. Cardiovascular note
   corrected: it described PPAR-gamma anti-adipogenic work that neither cited study reports.
   | 2026-11-10: symptom-source audit batch 11 - unverifiable source hidden from remaining
-  mechanistic cards / claim note reset.'
+  mechanistic cards / claim note reset.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. REF-2759 and REF-3028
+  study Ononis spinosa, and REF-3034 screens O. spinosa among Turkish plants - not O. arvensis;
+  purged and deleted (the genus hepatotoxicity warning REF-2758 stays). Notes rewritten.'

@@ -1,7 +1,39 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3429,
+ "count": 3475,
  "citations": [
+  {
+   "ref_id": "REF-3688",
+   "key": "mansouri2026oliveleafgrade",
+   "type": "article",
+   "title": "A GRADE-assessed systematic review and meta-analysis of randomized controlled trials evaluating the effects of olive leaf or olive pomace supplementation on cardiometabolic and anthropometric health markers",
+   "authors": "Mansouri, F., Mardani, M., Rucci, C., Bordoni, L. and Gabbianelli, R.",
+   "journal": "Nutrition, Metabolism, and Cardiovascular Diseases",
+   "year": "2026",
+   "doi": "10.1016/j.numecd.2026.104821",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.numecd.2026.104821",
+   "link_type": "doi",
+   "citation": "Mansouri, F., Mardani, M., Rucci, C., Bordoni, L. and Gabbianelli, R (2026) 'A GRADE-assessed systematic review and meta-analysis of randomized controlled trials evaluating the effects of olive leaf or olive pomace supplementation on cardiometabolic and anthropometric health markers', Nutrition, Metabolism, and Cardiovascular Diseases, 36(10), pp. 104821. doi:10.1016/j.numecd.2026.104821",
+   "abstract": "AIMS: Cardiometabolic diseases (CMDs) are major contributors to global morbidity and mortality, and dietary bioactives such as polyphenols may modulate key risk factors. Olive by-products, particularly olive leaves (OL) and olive pomace (OP), are rich in phenolic compounds with antioxidant, anti-inflammatory, and cardiometabolic effects demonstrated across in vitro, preclinical, and clinical studies. DATA SYNTHESIS: This GRADE-assessed systematic review and meta-analysis included 30 randomized controlled trials (n = 1726) evaluating OL or OP supplementation on 21 standardized biomarkers, encompassing inflammatory markers, lipid profile, glycemic control, insulin sensitivity, anthropometric measures, and blood pressure. Meta-analyses were conducted using random-effects models, with effect sizes calculated as mean differences (or standardized mean differences for oxLDL). Between-study heterogeneity was assessed with I2 statistics, and sensitivity and subgroup analyses explored potential sources of variability. Publication bias was evaluated using Begg's test and funnel plots where appropriate. OL supplementation significantly improved lipid parameters (total cholesterol, triglycerides, LDL-C, ApoB, oxLDL) and increased ApoA1, while reducing TNF-α, systolic and diastolic blood pressure, body weight, and BMI. No significant effects were observed on glycemic markers. OP supplementation showed no consistent cardiometabolic benefits and was associated with an increase in IL-8. Certainty of evidence ranged from very low to high, with several outcomes downgraded due to imprecision, heterogeneity, or limited study numbers. CONCLUSION: These findings support the targeted use of OL as an adjunctive strategy for cardiometabolic risk management. Evidence for OP supplementation remains limited, underscoring the need for well-powered, high-quality RCTs to clarify its clinical effects.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A GRADE-assessed systematic review and meta-analysis of randomized controlled trials evaluating the effects of olive leaf or olive pomace supplementation on cardiometabolic and anthropometric health markers",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
   {
    "ref_id": "REF-2937",
    "key": "ayoubi2026advanced",
@@ -203,6 +235,70 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3694",
+   "key": "simao2026evoocognition",
+   "type": "article",
+   "title": "Effect of extra virgin olive oil on mild cognitive impairment and dementia in older adults: a systematic review and meta-analysis of clinical trials",
+   "authors": "Simão, V.C., Prudente, T.P., De Prado Lopes Oliveira, A., De Oliveira, C. and Silveira, E.A.",
+   "journal": "Clinical Nutrition ESPEN",
+   "year": "2026",
+   "doi": "10.1016/j.clnesp.2026.102977",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clnesp.2026.102977",
+   "link_type": "doi",
+   "citation": "Simão, V.C., Prudente, T.P., De Prado Lopes Oliveira, A., De Oliveira, C. and Silveira, E.A (2026) 'Effect of extra virgin olive oil on mild cognitive impairment and dementia in older adults: a systematic review and meta-analysis of clinical trials', Clinical Nutrition ESPEN, 73, pp. 102977. doi:10.1016/j.clnesp.2026.102977",
+   "abstract": "BACKGROUND: Extra virgin olive oil (EVOO) has been investigated as a potential dietary strategy for cognitive health due to its neuroprotective properties. This systematic review and meta-analysis evaluated the potential impact of EVOO as an adjunct intervention for older adults within the spectrum of mild cognitive impairment (MCI) and dementia. METHODS: A comprehensive search was conducted across nine databases for randomized controlled trials (RCTs) that compared EVOO to a control group in older adults with MCI and/or dementia. Statistical analysis used random-effects models to determine mean differences (MD) and standardized mean differences (SMD), with the risk of bias assessed using Cochrane Risk of Bias (RoB2) and quality of evidence assessed using the GRADE tool. RESULTS: Five studies met the inclusion criteria (n = 747 participants). Meta-analysis showed a significant, albeit preliminary, improvement in global cognitive function scores with EVOO consumption, including the Mini-Mental State Examination (MD = 0.42, 95 % CI = 0.15-0.68; p = 0.002), Clock Drawing Test (MD = 0.47, 95 % CI = 0.15-0.78; p = 0.004), and the Alzheimer's Disease Assessment Scale-Cognitive Subscale (MD = 1.45, 95 % CI = 0.39-2.51; p = 0.007). The overall pooled effect was SMD = 0.29 (95 % CI = 0.18-0.41; p < 0.0001). However, the certainty of evidence was rated as low according to GRADE, and the small number of trials limits the robustness of these findings. CONCLUSION: The findings suggest a potential association between EVOO consumption and improvement in global cognitive function among older adults within MCI and dementia. Due to the low certainty of evidence, small sample sizes, and the lack of established clinical significance, these results should be interpreted with caution, and further larger-scale RCTs are required.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of extra virgin olive oil on mild cognitive impairment and dementia in older adults: a systematic review and meta-analysis of clinical trials",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cognitive function"
+   ]
+  },
+  {
+   "ref_id": "REF-3669",
+   "key": "tang2026peppermintponv2026",
+   "type": "article",
+   "title": "Effect of inhaled peppermint essential oil aromatherapy on postoperative nausea and vomiting in patients undergoing laparoscopic gynecologic surgery",
+   "authors": "Tang, H., Liu, M., Zhou, Z., Liu, H., Ji, Z., Yang, M., Shen, J. and Zhang, M.",
+   "journal": "Explore",
+   "year": "2026",
+   "doi": "10.1016/j.explore.2026.103321",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.explore.2026.103321",
+   "link_type": "doi",
+   "citation": "Tang, H., Liu, M., Zhou, Z., Liu, H., Ji, Z., Yang, M., Shen, J. and Zhang, M (2026) 'Effect of inhaled peppermint essential oil aromatherapy on postoperative nausea and vomiting in patients undergoing laparoscopic gynecologic surgery', Explore, 22(2), pp. 103321. doi:10.1016/j.explore.2026.103321",
+   "abstract": "BACKGROUND: This study evaluated the effect of inhaled peppermint essential oil (PEO) aromatherapy on postoperative nausea and vomiting (PONV) in patients undergoing laparoscopic gynecologic surgery. METHODS: In this randomized controlled trial, 106 patients were assigned to either the PEO group or normal saline (NS) group. The PEO group received inhalational aromatherapy with 2% peppermint oil before induction, preoperatively, and immediately after extubation. The NS group received an identical intervention using 2 ml of 0.9% sodium chloride solution. RESULTS: Compared with the NS group, the PEO group had a significantly lower incidence of PONV within 24 h (52.8% vs. 73.6%; p = 0.043). The reduction was most notable during the first hour (45.3% vs. 73.6%; p = 0.047). The PEO group also demonstrated significantly improved anxiety scores at 0-24 h and 24-48 h, reduced pain catastrophizing, and decreased abdominal distension. CONCLUSION: Inhaled peppermint aromatherapy reduced the incidence of PONV, improved anxiety, decreased pain catastrophizing, and alleviated abdominal distension in patients undergoing laparoscopic gynecological surgery. CLINICAL TRIAL REGISTRATION: This study was registered in the Chinese Clinical Trial Registry. (Registration number: ChiCTR2400093289 Registration Date:2024-12-02).",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of inhaled peppermint essential oil aromatherapy on postoperative nausea and vomiting in patients undergoing laparoscopic gynecologic surgery",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": [
+    "Nausea"
+   ]
   },
   {
    "ref_id": "REF-3632",
@@ -443,6 +539,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3675",
+   "key": "shin2026nonipolysaccharideurti",
+   "type": "article",
+   "title": "Fermented Noni Polysaccharides and Immune-Related Biomarkers in Adults with Recurrent URTIs: A Randomized, Double-Blind, Placebo-Controlled Trial",
+   "authors": "Shin, S.M., Park, S.H., Bae, S.G., Park, E.Y., Lee, J.Y., Kwon, H.Y., La, I.J., Youn, S.J., Choi, Y., Choi, Y.E., Kim, D.H., Park, S.Y., Moon, C. and Kim, T.Y.",
+   "journal": "Nutrients",
+   "year": "2026",
+   "doi": "10.3390/nu18111691",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu18111691",
+   "link_type": "doi",
+   "citation": "Shin, S.M., Park, S.H., Bae, S.G., Park, E.Y., Lee, J.Y., Kwon, H.Y., La, I.J., Youn, S.J., Choi, Y., Choi, Y.E., Kim, D.H., Park, S.Y., Moon, C. and Kim, T.Y (2026) 'Fermented Noni Polysaccharides and Immune-Related Biomarkers in Adults with Recurrent URTIs: A Randomized, Double-Blind, Placebo-Controlled Trial', Nutrients, 18(11). doi:10.3390/nu18111691",
+   "abstract": "BACKGROUND: Fermented polysaccharides derived from Morinda citrifolia (noni) have been suggested to modulate innate immune responses, but clinical evidence remains limited. OBJECTIVES: This randomized, double-blind, placebo-controlled trial evaluated the effects of fermented noni polysaccharides on natural killer (NK) cell activity and immune-related biomarkers in adults with recurrent upper respiratory tract infections (URTIs). METHODS: A total of 100 adults aged 40 to <75 years with a documented history of ≥2 episodes of upper respiratory tract infection in the prior 12 months were randomly assigned to receive fermented noni polysaccharides (487.5 mg/tablet, two tablets once daily; 975 mg/day of FNP extract) or a matched placebo for 8 weeks. The primary endpoint was the change in NK cell activity at effector-to-target (E:T) ratios of 50:1, 25:1, and 12.5:1, assessed using K562 NK-sensitive target cells. Secondary endpoints included circulating cytokines (IFN-γ, TNF-α, IL-2, IL-6, IL-10, IL-12, IL-1β) and immunoglobulin G (IgG). Eighty-four participants (43 treatment, 41 placebo) were included in the modified intention-to-treat/full analysis set (mITT/FAS); 81 participants (41/40) constituted the per-protocol set (PPS). Primary efficacy was analyzed in the mITT/FAS. This trial was retrospectively registered at CRiS (KCT0011316) after trial completion; the IRB-approved protocol was finalised before enrolment and remained unchanged thereafter. RESULTS: NK cell activity in the treatment group increased from baseline at all three E:T ratios, whereas it slightly decreased in the placebo group. Adjusted between-group LS mean differences (95% CI) were +8.94 (-0.61, 18.50; p = 0.066) at E:T 50:1, +7.68 (-1.14, 16.50; p = 0.087) at 25:1, and +3.29 (-2.95, 9.54; p = 0.145) at 12.5:1, all favouring treatment but not reaching the conventional threshold for significance in the mITT/FAS. Prespecified PPS sensitivity analyses reached significance at E:T 50:1 (+11.03; p = 0.025) and 25:1 (+9.94; p = 0.028). Selected cytokines (IFN-γ, IL-2, IL-6, IL-10, IL-1β) increased to a greater extent in the treatment group than in the placebo group, whereas TNF-α, IL-12, and IgG were unchanged. URTI incidence at week 4, week 8, and cumulatively did not differ significantly between groups. The intervention was well tolerated, with no serious adverse events and no treatment-related discontinuations. CONCLUSIONS: Compared with placebo, fermented noni polysaccharide supplementation showed numerically greater increases in NK cell activity at all three E:T ratios (50:1, 25:1, and 12.5:1) in the primary mITT/FAS analysis, although these between-group differences did not reach statistical significance. Prespecified per-protocol set (PPS) sensitivity analyses showed significant between-group differences at E:T ratios of 50:1 and 25:1. The treatment group also showed greater increases in selected cytokines (IFN-γ, IL-2, IL-6, IL-10) relative to placebo. No significant between-group differences were observed in URTI incidence, IgG, GARS, WBC, or leukocyte subset proportions. These exploratory biomarker findings, in the absence of safety signals, suggest a possible immunomodulatory profile but do not establish clinical efficacy. Confirmation in larger, prospectively registered trials with clinically adjudicated infection-related endpoints is warranted.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Fermented Noni Polysaccharides and Immune-Related Biomarkers in Adults with Recurrent URTIs: A Randomized, Double-Blind, Placebo-Controlled Trial",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3563",
    "key": "wieland2026ginkgocochrane2026",
    "type": "article",
@@ -666,6 +792,36 @@
    "conditions": [
     "Cancer (anticancer research)"
    ]
+  },
+  {
+   "ref_id": "REF-3689",
+   "key": "camararochamenezes2026oleuropeinma",
+   "type": "article",
+   "title": "Metabolic and inflammatory effects of oleuropein and olive leaf extract: a systematic review and meta-analysis",
+   "authors": "Câmara Rocha Menezes, R., Peres, K.K., da Mata, I.R., Morelo Dal Bosco, S., Garavaglia, J. and Dallegrave, E.",
+   "journal": "Food & Function",
+   "year": "2026",
+   "doi": "10.1039/d5fo04235f",
+   "url": "",
+   "link": "https://doi.org/10.1039/d5fo04235f",
+   "link_type": "doi",
+   "citation": "Câmara Rocha Menezes, R., Peres, K.K., da Mata, I.R., Morelo Dal Bosco, S., Garavaglia, J. and Dallegrave, E (2026) 'Metabolic and inflammatory effects of oleuropein and olive leaf extract: a systematic review and meta-analysis', Food & Function, 17(7), pp. 3077--3090. doi:10.1039/d5fo04235f",
+   "abstract": "Background: Olive leaves, a by-product of olive oil production, are rich in oleuropein, a phenolic compound with antioxidant and anti-inflammatory properties. This systematic review and meta-analysis evaluated the effects of olive leaf extract (OLE) and oleuropein on glucose metabolism, lipid profile, and inflammatory markers in randomized clinical trials (RCTs). Methods: The review was registered in PROSPERO (CRD42022375615) and followed PRISMA guidelines. PubMed, Scopus, and Web of Science were searched up to January 2026 without restrictions. Eligible studies were RCTs in adults comparing OLE or oleuropein with placebo or control. Study selection, data extraction, and risk of bias (RoB 2) assessment were performed independently by two reviewers; certainty of evidence was assessed with GRADE. Meta-analyses were conducted when at least two trials reported suitable data. Results: Eleven RCTs were included (4 short-term and 7 continuous-intake trials). Short-term crossover studies showed heterogeneous effects on postprandial glycemia and insulin responses, precluding meta-analysis. In continuous-intake, parallel-design RCTs, pooled analyses demonstrated no statistically or clinically significant effects on glycemic or lipid outcomes. Evidence regarding inflammatory markers was scarce and of low certainty. Conclusion: The current evidence does not support clinical recommendations for OLE supplementation aimed at health benefits. Data from methodologically consistent and robust trials indicate no statistically significant metabolic or inflammatory effects under usual human consumption patterns, whereas evidence from other study designs remains inconclusive. Further high-quality RCTs are required to clarify potential metabolic benefits.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Metabolic and inflammatory effects of oleuropein and olive leaf extract: a systematic review and meta-analysis",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3021",
@@ -1042,6 +1198,42 @@
     "Anticancer (preclinical)"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3704",
+   "key": "musazadeh2026nigellacardiometabolic",
+   "type": "article",
+   "title": "The Effect of Nigella sativa Supplementation on Cardiometabolic Health in Patients With Metabolic Diseases: A GRADE-Assessed Systematic Review and Meta-Analysis",
+   "authors": "Musazadeh, V., Jahangir, M., Mahmoudinezhad, M., Faghfouri, A.H., Teymoori, F., Anoushirvani, A.A. and Khaleghian, M.",
+   "journal": "Endocrinology, Diabetes & Metabolism",
+   "year": "2026",
+   "doi": "10.1002/edm2.70207",
+   "url": "",
+   "link": "https://doi.org/10.1002/edm2.70207",
+   "link_type": "doi",
+   "citation": "Musazadeh, V., Jahangir, M., Mahmoudinezhad, M., Faghfouri, A.H., Teymoori, F., Anoushirvani, A.A. and Khaleghian, M (2026) 'The Effect of Nigella sativa Supplementation on Cardiometabolic Health in Patients With Metabolic Diseases: A GRADE-Assessed Systematic Review and Meta-Analysis', Endocrinology, Diabetes & Metabolism, 9(2), pp. e70207. doi:10.1002/edm2.70207",
+   "abstract": "BACKGROUND: Metabolic diseases, including type 2 diabetes and obesity, are primary drivers of cardiovascular disease (CVD) through the exacerbation of intermediate risk factors such as dysglycemia, hypertension, and central adiposity. Nigella sativa supplementation has been studied for its potential cardiometabolic benefits, but evidence from clinical trials remains inconsistent. In relation to this matter, a meta-analysis was undertaken to present a more precise evaluation of the effect of N. sativa supplementation on cardiovascular risk factors in patients with metabolic diseases. METHODS: The review was conducted in accordance with PRISMA guidelines. A random-effects meta-analysis was performed to calculate weighted mean differences (WMDs) with 95% confidence intervals. Heterogeneity was assessed using the I2 statistic, and sensitivity analyses were conducted to examine the robustness of pooled estimates. Primary outcomes included obesity and glycemic indices, while blood pressure outcomes were considered secondary. RESULTS: Meta-analysis of 31 trials with 2145 participants revealed significant reductions in weight (WMD: -1.59 kg; 95% CI: -3.03 to -0.15), and BMI (WMD: -0.51 kg/m2; 95% CI: -0.85 to -0.18), SBP (WMD = -3.25 mmHg; 95% CI: -4.44, -2.06), and DBP (WMD = -2.75 mmHg; 95% CI: -4.62, -0.89), FBS (WMD = -18.62 mg/dL; 95% CI: -23.30, -13.95), and HbA1c (WMD = -0.56; 95% CI: -0.79, -0.33) following N. sativa supplementation. Also, N. sativa had no effect on other indices such as WC, HC, WHR, HOMA-IR, and insulin. CONCLUSION: This meta-analysis suggests that N. sativa supplementation is associated with modest improvements in several cardiovascular risk factors. However, no significant effects were observed for measures of insulin resistance or central adiposity, and the findings should be interpreted cautiously given variability in study quality and outcomes. Further well-designed trials are needed to clarify its clinical relevance.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The Effect of Nigella sativa Supplementation on Cardiometabolic Health in Patients With Metabolic Diseases: A GRADE-Assessed Systematic Review and Meta-Analysis",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health",
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-2936",
@@ -2021,6 +2213,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3703",
+   "key": "jafari2025nigellacvd",
+   "type": "article",
+   "title": "Does Nigella sativa supplementation improve cardiovascular disease risk factors? A comprehensive GRADE-assessed systematic review and dose-response meta-analysis of 82 randomized controlled trials",
+   "authors": "Jafari, A., Mardani, H., Faghfouri, A.H., Fashtali, Z.M., Hashemi, M., Yousefabady, M.A., Javid, R., Golabi, S., Arghavan, B., Musazadeh, V. and Naghashpour, M.",
+   "journal": "Pharmacological Research",
+   "year": "2025",
+   "doi": "10.1016/j.phrs.2025.107882",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phrs.2025.107882",
+   "link_type": "doi",
+   "citation": "Jafari, A., Mardani, H., Faghfouri, A.H., Fashtali, Z.M., Hashemi, M., Yousefabady, M.A., Javid, R., Golabi, S., Arghavan, B., Musazadeh, V. and Naghashpour, M (2025) 'Does Nigella sativa supplementation improve cardiovascular disease risk factors? A comprehensive GRADE-assessed systematic review and dose-response meta-analysis of 82 randomized controlled trials', Pharmacological Research, 219, pp. 107882. doi:10.1016/j.phrs.2025.107882",
+   "abstract": "AIM: This systematic review and meta-analysis aimed to evaluate the effects of Nigella sativa (N. sativa) supplementation on metabolic and cardiovascular health outcomes. METHODS: A comprehensive search of EMBASE, Scopus, PubMed, CENTRAL, and Web of Science databases was conducted up to August 2024. Study quality and certainty of evidence were assessed using the Cochrane Risk of Bias and Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) tools, respectively. RESULTS: Eighty-two studies, including 79 quantitative and 3 qualitative studies published between 2008 and 2024, involving 5026 participants with interventions ranging from 1 to 48 weeks and doses varying from 200 to 4600 mg/day, were included. N. sativa supplementation significantly improved body fat percentage (BF%), body mass index (BMI), skeletal muscle mass (SMM), waist circumference (WC), weight, waist-to-hip ratio (WHR), diastolic blood pressure (DBP), systolic blood pressure (SBP), mean arterial pressure (MAP), fasting blood sugar (FBS), hemoglobin A1c (HbA1c), postprandial blood glucose (PPBG), quick insulin sensitivity check index (QUICKI), C-reactive protein (CRP), high-sensitivity CRP (hs-CRP), intercellular adhesion molecule-1 (ICAM-1), interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-α), vascular cell adhesion molecule-1 (VCAM-1), atherogenic index (AI), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), total cholesterol (TC) to HDL-C ratio, TC, triglycerides (TG), very-low-density lipoprotein cholesterol (VLDL-C), alkaline phosphatase (ALP), alanine aminotransferase (ALT), aspartate aminotransferase (AST), creatinine, urea, catalase (CAT), malondialdehyde (MDA), superoxide dismutase activity (SOD) activity, and total antioxidant capacity (TAC). CONCLUSIONS: Our findings suggest that N. sativa could be a promising adjunct therapy for improving cardiovascular disease (CVD) risk factors.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Does Nigella sativa supplementation improve cardiovascular disease risk factors? A comprehensive GRADE-assessed systematic review and dose-response meta-analysis of 82 randomized controlled trials",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-3474",
    "key": "crncevic2025calendulacontact",
    "type": "article",
@@ -2115,6 +2342,41 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3698",
+   "key": "shabani2025nigellamets",
+   "type": "article",
+   "title": "Effect of Nigella sativa Consumption on Lipid Profile and Glycemic Index in Patients with Metabolic Syndrome: A Systematic Review and Meta-analysis of Randomized Controlled Trials",
+   "authors": "Shabani, M., Ghavidel, F., Rajabian, A., Homayouni-Tabrizi, M., Jamialahmadi, T., Hosseini, H. and Sahebkar, A.",
+   "journal": "Current Medicinal Chemistry",
+   "year": "2025",
+   "doi": "10.2174/0109298673249741231129100733",
+   "url": "",
+   "link": "https://doi.org/10.2174/0109298673249741231129100733",
+   "link_type": "doi",
+   "citation": "Shabani, M., Ghavidel, F., Rajabian, A., Homayouni-Tabrizi, M., Jamialahmadi, T., Hosseini, H. and Sahebkar, A (2025) 'Effect of Nigella sativa Consumption on Lipid Profile and Glycemic Index in Patients with Metabolic Syndrome: A Systematic Review and Meta-analysis of Randomized Controlled Trials', Current Medicinal Chemistry, 32(18), pp. 3638--3650. doi:10.2174/0109298673249741231129100733",
+   "abstract": "BACKGROUND: Metabolic syndrome is a multifactorial disorder and genetics, lifestyle, and aging play important roles in its prevalence. Nigella sativa has several pharmacological benefits, including anti-inflammatory, antitumor, anti-diabetic, antioxidant, and hypolipidemic effects. This meta-analysis of randomized controlled trials assesses the effect of N. sativa consumption on lipid profile and glycemic indices in patients with metabolic syndrome. METHODS: We systematically researched Cochrane Library, PubMed, Scopus, and Web of Science databases. The literature research identified 171 studies with duplication. Of those, 73 articles were screened for titles and abstracts, and 7 studies were finally selected for the meta-analysis. Because of the high degree of heterogeneity, we performed subgroup analyses based on the dose of N. sativa (<=500 mg/day or >500 mg/day). RESULTS: The results revealed that N. sativa intake significantly decreased total cholesterol (SMD: -0.71; 95% CI, -1.44 to -0.38; p = 0.00), LDL-C (SMD: -1.06; 95% CI, -1.45 to -0.66; p = 0.00) and HDL-C (SMD: -0.31; 95% CI, 0.09 to 0.53; p = 0.01) concentrations. In addition, N. sativa significantly decreased FBS (SMD: -0.8; 95% CI, -1.21 to -0.39; p = 0.00) and HbA1c (SMD: -0.37; 95% CI, -0.66 to -0.09; p = 0.01) concentrations. No publication bias was observed, and sensitivity analysis showed stable results. CONCLUSION: The current systematic review and meta-analysis indicates that N. sativa could improve lipid profile and glycemic index in patients with metabolic syndrome.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of Nigella sativa Consumption on Lipid Profile and Glycemic Index in Patients with Metabolic Syndrome: A Systematic Review and Meta-analysis of Randomized Controlled Trials",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-0788",
@@ -3182,6 +3444,42 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3655",
+   "key": "anheyer2025herpeslabialissr",
+   "type": "article",
+   "title": "Herbal Medicine for Treating Herpes Labialis: A Systematic Review",
+   "authors": "Anheyer, M., Cramer, H., Ostermann, T., Längler, A. and Anheyer, D.",
+   "journal": "Journal of Integrative and Complementary Medicine",
+   "year": "2025",
+   "doi": "10.1089/jicm.2025.0131",
+   "url": "",
+   "link": "https://doi.org/10.1089/jicm.2025.0131",
+   "link_type": "doi",
+   "citation": "Anheyer, M., Cramer, H., Ostermann, T., Längler, A. and Anheyer, D (2025) 'Herbal Medicine for Treating Herpes Labialis: A Systematic Review', Journal of Integrative and Complementary Medicine, 31(11), pp. 946--954. doi:10.1089/jicm.2025.0131",
+   "abstract": "Introduction: Herpes labialis, commonly caused by herpes simplex virus type 1, affects millions globally and is traditionally managed with nucleoside antiviral drugs. However, increasing interest in complementary and integrative therapies has led to the exploration of topical herbal treatments as potential alternatives or adjuncts in managing this condition. Methods: A systematic review was conducted in accordance with Cochrane guidelines and Preferred Reporting Items for Systematic Reviews and Meta-Analyses recommendations, with prior registration. A comprehensive search of Medline/PubMed, Scopus, and the Cochrane Central Register of Controlled Trials was performed from inception to June 17, 2024. After screening 7,386 nonduplicate records and assessing 346 full-text articles, 7 randomized controlled trials (RCTs) encompassing 1,250 patients were included. Data were extracted regarding intervention types, outcomes, and adverse events, and the risk of bias was evaluated using the Cochrane Risk of Bias Tool. Results: The included studies evaluated topical formulations of lemon balm (Melissa officinalis L.), olive leaf extract (Olea europaea L.), propolis, and a combined sage-rhubarb cream (Salvia officinalis L., Rheum palmatum L., and Rheum officinale Baill.). Lemon balm preparations consistently reduced pain intensity and swelling, with some studies also reporting a significant decrease in lesion size compared with placebo or acyclovir. Olive leaf extract demonstrated a statistically significant faster improvement in symptoms and a shorter healing time compared with acyclovir. Compared with acyclovir, propolis formulations significantly shortened the median time to lesion encrustation and complete healing compared with acyclovir, and the combined sage-rhubarb cream showed a comparable efficacy to acyclovir in mean healing time. Overall, the risk of bias was judged to be low in two trials, while five trials raised some concerns. The total sample size across studies was small, potentially limiting the generalizability of the results. Across all studies, adverse events were minimal or absent. Discussion: The findings indicate that topical herbal therapies may provide effective and well-tolerated alternatives or adjuncts to conventional antiviral treatments for herpes labialis. However, considerable heterogeneity in intervention protocols and outcome measures, as well as the underrepresentation of pediatric populations, limit the generalizability of these findings. Conclusion: Topical herbal interventions, including lemon balm, olive leaf extract, propolis, and sage-rhubarb formulations, demonstrate potential benefits in managing herpes labialis with favorable safety profiles. Future well-designed, large-scale RCTs employing standardized methodologies are necessary to confirm these findings and to establish optimal treatment protocols for diverse patient populations (Inplasy protocol number: 202350038).",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Herbal Medicine for Treating Herpes Labialis: A Systematic Review",
+   "plants": [
+    "European olive",
+    "Lemon balm",
+    "Olive",
+    "bee balm",
+    "common olive",
+    "sweet balm"
+   ],
+   "scientific": [
+    "Melissa officinalis",
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-0330",
@@ -4261,6 +4559,38 @@
    ]
   },
   {
+   "ref_id": "REF-3693",
+   "key": "lopezvalverde2025oliveoilperiodontal",
+   "type": "article",
+   "title": "Systematic review and meta-analysis on the effect of olive oil in the treatment of periodontal diseases",
+   "authors": "López-Valverde, N., López-Valverde, A. and Blanco Rueda, J.A.",
+   "journal": "Frontiers in Oral Health",
+   "year": "2025",
+   "doi": "10.3389/froh.2025.1735845",
+   "url": "",
+   "link": "https://doi.org/10.3389/froh.2025.1735845",
+   "link_type": "doi",
+   "citation": "López-Valverde, N., López-Valverde, A. and Blanco Rueda, J.A (2025) 'Systematic review and meta-analysis on the effect of olive oil in the treatment of periodontal diseases', Frontiers in Oral Health, 6, pp. 1735845. doi:10.3389/froh.2025.1735845",
+   "abstract": "BACKGROUND/OBJECTIVES: Periodontal diseases, which are highly inflammatory in nature, are very common throughout the world. In recent years, natural products have gained special attention as a complement to conventional therapy, and olive oil/ozonated olive oil (OLO/OzOLO), due to its anti-inflammatory and antimicrobial properties, has been proposed for these treatments. The aim of our study was to demonstrate its short-term clinical efficacy in periodontal treatment. METHODS: This systematic review and meta-analysis was conducted in accordance with Cochrane guidelines, and searches were performed in PubMed, Embase, Cochrane Central, Scopus, and Web of Science (WOS) to identify eligible studies. Review Manager 5.4.1 and SPSS Statistics 30.0® were used to calculate standardized mean differences (SMD) and 95% confidence intervals (CI). The main outcomes assessed for periodontitis were probing depth (PPD), bleeding on probing (BoP), and clinical attachment level (CAL), and for gingivitis, plaque index (PI), gingival index (GI) and bleeding index (BI). RESULTS: Twelve randomized clinical trials (RCTs) involving 456 subjects were included. In periodontitis, compared with controls, OLO/OzOLO improved BoP reduction in the medium term (8-12 weeks) [-0.66; 95% CI (-1.07 to -0.26); p = 0.001], and no benefits were observed in terms of PPD reduction and CAL gain. In gingivitis, the effect of OLO/OzOLO, compared to controls, produced a significant reduction in all three indices (PI, GI, BI) after 2-8 weeks [-1.52, 95% CI (-2.60 to -0.44); p = 0.006]. CONCLUSIONS: Despite limitations, OLO/OzOLO treatments result in short-term CAL gain and improved gingival parameters. SYSTEMATIC REVIEW REGISTRATION: doi: 10.37766/inplasy2025.10.0065, Identifier INPLASY 2025100065.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Systematic review and meta-analysis on the effect of olive oil in the treatment of periodontal diseases",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
+  },
+  {
    "ref_id": "REF-2380",
    "key": "malakar2025coffea",
    "type": "article",
@@ -4325,6 +4655,40 @@
     "Cardiovascular / heart health",
     "High cholesterol",
     "Metabolic support"
+   ]
+  },
+  {
+   "ref_id": "REF-3679",
+   "key": "larki2025epomenopause",
+   "type": "article",
+   "title": "The Effect of Evening Primrose Oil on Menopausal Symptoms Management: A Systematic Review and Meta-Analysis",
+   "authors": "Larki, M., Mohammadi, S. and Makvandi, S.",
+   "journal": "Journal of Caring Sciences",
+   "year": "2025",
+   "doi": "10.34172/jcs.025.33570",
+   "url": "",
+   "link": "https://doi.org/10.34172/jcs.025.33570",
+   "link_type": "doi",
+   "citation": "Larki, M., Mohammadi, S. and Makvandi, S (2025) 'The Effect of Evening Primrose Oil on Menopausal Symptoms Management: A Systematic Review and Meta-Analysis', Journal of Caring Sciences, 14(4), pp. 293--302. doi:10.34172/jcs.025.33570",
+   "abstract": "INTRODUCTION: Many women avoid hormone therapy due to the health risks, deciding to pursue herbal alternatives. This meta-analysis aimed to determine the effectiveness of evening primrose oil (EPO) in managing menopausal symptoms. METHODS: A comprehensive literature review was conducted until February 7,2024, without any limitations on language or time, using electronic databases such as PubMed, Web of Science, Scopus, and the Cochrane Library to collect randomized clinical trials. The methodological quality of the included trials was assessed using the Cochrane Risk of Bias 2 (ROB2) tool. The GRADEpro evaluated the quality of the evidence, and the RevMan 5.4 performed the data analysis. RESULTS: Six randomized controlled trials (RCTs) were included in this study. The meta-analysis of 450 women revealed, however, that the women in the EPO group experienced a mean decrease of 2.13 in the number of hot flashes per day compared to the control group. Still, it was not statistically significant. Women who received EPO also experienced a significant reduction in the duration of hot flashes compared to those who did not supplement. The EPO group experienced a 0.19 reduction in hot flash intensity, but this reduction was not statistically significant. The evidence grading was moderate to low. CONCLUSION: EPO reduces menopausal symptoms, but to understand the effectiveness of this option, we need to conduct further research with rigorous methodological standards so that menopausal women can make decisions that improve their quality of life in the menopause period.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The Effect of Evening Primrose Oil on Menopausal Symptoms Management: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes",
+    "Menopause"
    ]
   },
   {
@@ -7556,6 +7920,38 @@
    ]
   },
   {
+   "ref_id": "REF-3668",
+   "key": "shetty2024nipplepainma",
+   "type": "article",
+   "title": "Effectiveness of the Application of Lanolin, Aloe Vera, and Peppermint on Nipple Pain and Nipple Trauma in Lactating Mothers: A Systematic Review and Meta-Analysis",
+   "authors": "Shetty, A.P., Halemani, K., Issac, A., Thimmappa, L., Shashidhara, Y.N., Mathias, E., Dhiraaj, S., Radha, K., Mishra, P. and Sharma, A.",
+   "journal": "Maternal and Child Health Journal",
+   "year": "2024",
+   "doi": "10.1007/s10995-024-04006-1",
+   "url": "",
+   "link": "https://doi.org/10.1007/s10995-024-04006-1",
+   "link_type": "doi",
+   "citation": "Shetty, A.P., Halemani, K., Issac, A., Thimmappa, L., Shashidhara, Y.N., Mathias, E., Dhiraaj, S., Radha, K., Mishra, P. and Sharma, A (2024) 'Effectiveness of the Application of Lanolin, Aloe Vera, and Peppermint on Nipple Pain and Nipple Trauma in Lactating Mothers: A Systematic Review and Meta-Analysis', Maternal and Child Health Journal, 28(12), pp. 2013--2025. doi:10.1007/s10995-024-04006-1",
+   "abstract": "BACKGROUND: Infants who are not exclusively breastfed are more vulnerable to gastroenteritis, respiratory illness, and type 1 diabetes mellitus. Mothers who do not breastfeed their infants are at a higher risk of cancer. This systematic review and meta-analysis aimed to synthesize evidence regarding the effectiveness of applying lanolin, aloe vera, and peppermint for alleviating nipple pain and nipple trauma among lactating mothers. METHODS: Electronic databases, including PubMed (MEDLINE), Cochrane, Cumulative Index to Nursing and Allied Health Literature (CINAHL), EMBASE, Web of Science, Scopus, and Clinical Key, were searched for studies published in English from January 2000 to December 2022. Nipple pain and nipple trauma were the primary outcomes analysed, and a meta-analysis was conducted via RevMan v5.4. RESULTS: The reviewed trials involved 1,495 participants from 11 studies, with an average participant age of 29 ± 5 years. The application of lanolin significantly reduced nipple pain and nipple trauma in lactating mothers. The application of peppermint significantly reduced nipple trauma in lactating mothers. CONCLUSION: The application of lanolin or peppermint is a beneficial preventive intervention for reducing nipple trauma and pain.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effectiveness of the Application of Lanolin, Aloe Vera, and Peppermint on Nipple Pain and Nipple Trauma in Lactating Mothers: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": [
+    "Pain (general)"
+   ]
+  },
+  {
    "ref_id": "REF-3567",
    "key": "lin2024ginkgodepression",
    "type": "article",
@@ -7851,7 +8247,41 @@
     "Melissa officinalis"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "High cholesterol"
+   ]
+  },
+  {
+   "ref_id": "REF-3656",
+   "key": "dipierro2024melissaphytosomesleep",
+   "type": "article",
+   "title": "Effects of Melissa officinalis Phytosome on Sleep Quality: Results of a Prospective, Double-Blind, Placebo-Controlled, and Cross-Over Study",
+   "authors": "Di Pierro, F., Sisti, D., Rocchi, M., Belli, A., Bertuccioli, A., Cazzaniga, M., Palazzi, C.M., Tanda, M.L. and Zerbinati, N.",
+   "journal": "Nutrients",
+   "year": "2024",
+   "doi": "10.3390/nu16234199",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu16234199",
+   "link_type": "doi",
+   "citation": "Di Pierro, F., Sisti, D., Rocchi, M., Belli, A., Bertuccioli, A., Cazzaniga, M., Palazzi, C.M., Tanda, M.L. and Zerbinati, N (2024) 'Effects of Melissa officinalis Phytosome on Sleep Quality: Results of a Prospective, Double-Blind, Placebo-Controlled, and Cross-Over Study', Nutrients, 16(23). doi:10.3390/nu16234199",
+   "abstract": "BACKGROUND: Melissa officinalis standardised extracts, characterised by the presence of hydroxycinnamic acids, have been experimentally demonstrated to be endowed with anti-anxiety and anti-insomnia pharmacological actions. These effects, probably attributable, at least in part, to the role played by rosmarinic acid on GABA-T, have not always been observed in a reproducible manner in humans, perhaps due to the poor bioavailability of these compounds. METHODS: as nutraceuticals and botanicals could be an alternative option to prescription medications for alleviating symptoms of mild anxiety and insomnia, we have verified in a prospective, double-blind, placebo-controlled, and cross-over study the supporting role on sleep quality played by a Melissa officinalis highly standardised extract, formulated as Phytosome™ (MOP) to improve the oral bioavailability of its active polyphenolic components. RESULTS: results showed a significant reduction in the ISI score in the treated group, with an average of 6.8 ± 4.1 compared to 9.7 ± 3.7 in the placebo group, indicating a significant reduction of 2.9 points (p = 0.003). The SWS phase duration increased by an average of 15%, while the REM phase decreased by 10%. Additionally, 87% of participants in the treated group reported improved sleep quality, compared to 30% in the placebo group, with significant differences measured by chi-square test (χ2(4) = 21.01, p = 0.0003), highlighting the effects due to Melissa officinalis L. No significant changes in physical activity or anxiety levels were observed. CONCLUSIONS: these findings suggest that MOP may represent a natural and safe alternative to traditional pharmacological treatments for insomnia.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Melissa officinalis Phytosome on Sleep Quality: Results of a Prospective, Double-Blind, Placebo-Controlled, and Cross-Over Study",
+   "plants": [
+    "Lemon balm",
+    "bee balm",
+    "sweet balm"
+   ],
+   "scientific": [
+    "Melissa officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
   },
   {
    "ref_id": "REF-2528",
@@ -7893,6 +8323,41 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3697",
+   "key": "rounagh2024nigellalipids2024",
+   "type": "article",
+   "title": "Effects of Nigella sativa supplementation on lipid profiles in adults: An updated systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Rounagh, M., Musazadeh, V., Hosseininejad-Mohebati, A., Falahatzadeh, M., Kavyani, Z., Rostami, R.B. and Vajdi, M.",
+   "journal": "Clinical Nutrition ESPEN",
+   "year": "2024",
+   "doi": "10.1016/j.clnesp.2024.03.020",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clnesp.2024.03.020",
+   "link_type": "doi",
+   "citation": "Rounagh, M., Musazadeh, V., Hosseininejad-Mohebati, A., Falahatzadeh, M., Kavyani, Z., Rostami, R.B. and Vajdi, M (2024) 'Effects of Nigella sativa supplementation on lipid profiles in adults: An updated systematic review and meta-analysis of randomized controlled trials', Clinical Nutrition ESPEN, 61, pp. 168--180. doi:10.1016/j.clnesp.2024.03.020",
+   "abstract": "BACKGROUND AND AIM: Several experiments have suggested that Nigella sativa (N. sativa) supplementation may have a beneficial effect on the lipid profile. However, the results from these trials have been inconclusive. Therefore, this study aimed to explore the impact of N. sativa supplementation on the lipid profile of adult participants. METHODS: We searched Scopus, Web of Science, PubMed, Cochrane, and Web of Science databases until December 2022. Random effects models were used, and pooled data were determined as standardized mean differences with a 95% confidence interval. RESULTS: The findings of 34 studies with 2278 participants revealed that N. sativa supplementation significantly reduced total cholesterol (TC) (SMD: -1.78; 95% CI: -2.20, -1.37, p < 0.001), triglycerides (TG) (SMD: -1.2725; 95% CI: -1.67, -0.83, p < 0.001), and low-density lipoprotein cholesterol (LDL-C) (SMD: -2.45; 95% CI: -3.06, -1.85; p < 0.001) compared to control groups. However, a significant increase was found in high-density lipoprotein cholesterol (HDL-C) (SMD: 0.79; 95% CI: 0.38, 1.20, p < 0.001). CONCLUSION: N. sativa has improved effects on TG, LDL-C, TC, and HDL-C levels. Overall, N. sativa may be suggested as an adjuvant anti-hyperlipidemic agent.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Nigella sativa supplementation on lipid profiles in adults: An updated systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "High cholesterol"
+   ]
   },
   {
    "ref_id": "REF-2251",
@@ -8225,6 +8690,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3670",
+   "key": "cetin2024peppermintponvcervical",
+   "type": "article",
+   "title": "Examining the Effect of Peppermint Oil on Postoperative Nausea After Cervical Surgery",
+   "authors": "Cetin, N., Kose, G. and Gokbel, A.",
+   "journal": "The Journal of Neuroscience Nursing",
+   "year": "2024",
+   "doi": "10.1097/JNN.0000000000000790",
+   "url": "",
+   "link": "https://doi.org/10.1097/JNN.0000000000000790",
+   "link_type": "doi",
+   "citation": "Cetin, N., Kose, G. and Gokbel, A (2024) 'Examining the Effect of Peppermint Oil on Postoperative Nausea After Cervical Surgery', The Journal of Neuroscience Nursing, 56(6), pp. 203--208. doi:10.1097/JNN.0000000000000790",
+   "abstract": "PURPOSE: The aim of this study was to investigate the effect of peppermint oil aromatherapy on postoperative nausea and vomiting (PONV) and hemodynamic parameters in patients undergoing single-level cervical surgery. METHODS: This prospective randomized controlled study consisted of 76 single-level cervical surgery patients admitted to the neurosurgery department between March 2021 and November 2022. The patients were randomized into 2 groups: the intervention group received peppermint oil aromatherapy through inhalation, whereas the control group received routine clinical treatment. Both groups were observed for the presence and severity of PONV, the use of antiemetics, and hemodynamic parameters at minute 5, 35, 65, and 95, and at hour 2, 6, 12, and 24 after surgery. RESULTS: In the control group, 18 (47.8%) patients experienced nausea, 11 (28.9%) experienced vomiting, and 7 (18.4%) used antiemetics. In contrast, the intervention group included only 2 (5.3%) patients who experienced nausea, and none of those patients experienced vomiting or used antiemetics. It was determined that peppermint oil had a 40% effect on reducing PONV, 34% effect on reducing postoperative antiemetic use, and 75% effect on reducing severity of nausea. Hemodynamic parameters did not differ significantly between the 2 groups. The systolic blood pressure of the control group was significantly greater than that of the intervention group only at minute 95 and at hour 24 after surgery. CONCLUSIONS: The results suggest that the use of peppermint oil aromatherapy can have a positive effect on reducing the presence and severity of PONV and the need for antiemetic medication in patients undergoing single-level cervical surgery.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Examining the Effect of Peppermint Oil on Postoperative Nausea After Cervical Surgery",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": [
+    "Nausea"
+   ]
   },
   {
    "ref_id": "REF-0729",
@@ -9576,6 +10073,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3701",
+   "key": "he2024nigellarhinitis",
+   "type": "article",
+   "title": "Meta-analysis of randomized controlled trials assessing the efficacy of nigella sativa supplementation for allergic rhinitis treatment",
+   "authors": "He, Y., Hu, X., Chang, L., Liu, S., Lv, L., Qin, G. and Jiang, L.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2024",
+   "doi": "10.3389/fphar.2024.1417013",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2024.1417013",
+   "link_type": "doi",
+   "citation": "He, Y., Hu, X., Chang, L., Liu, S., Lv, L., Qin, G. and Jiang, L (2024) 'Meta-analysis of randomized controlled trials assessing the efficacy of nigella sativa supplementation for allergic rhinitis treatment', Frontiers in Pharmacology, 15, pp. 1417013. doi:10.3389/fphar.2024.1417013",
+   "abstract": "BACKGROUND: Demonstrating the positive effects of Nigella sativa supplementation (Nigella spp) on Allergic Rhinitis (AR) treatment is challenging. To investigate the role of Nigella spp in managing AR, a comprehensive review through systematic reviews and meta-analyses was conducted. PURPOSE: To carry out a meta-analysis of clinical trials that used Nigella spp in treating AR based on current data. STUDY DESIGN: A meta-analysis of randomized controlled trials (RCTs) was performed. METHODS: Various databases, including PubMed, Web of Science, Embase, Science Direct, Springer Link and the Cochrane Library, were searched until October 2023 to obtain RCTs assessing impact of Nigella spp in the control of AR. The current meta-analysis was carried out with a random-effects model. RESULTS: There were 8 studies enrolled, and our meta-analysis findings revealed that, relative to the control group, observation group exhibited the markedly increased total effective rate for allergic rhinitis treatment (odds ratio [OR] = 4.24, 95% confidence interval [CI] (2.57, 7.27), and p < 0.00001); three studies showed that the effect of Nigella spp for nasal symptoms treatment among patients with allergic rhinitis was superior in observation group to control group [mean difference = -2.60, 95% CI (-2.82, -2.38), p < 0.00001]; adverse effects occurred in five studies, all of which were transient, did not require medical intervention, and were not statistically significant between the two groups [OR = 1.01, 95% CI (0.59, 1.73), p = 0.98]. CONCLUSION: The observation group demonstrated relative safety and had an enhanced effect on allergic rhinitis treatment and total nasal symptom improvement than the control group. The inclusion of fewer studies and the lower quality of trial design might affect the stability of the results. However, the evidence-based findings that Nigella spp for allergic rhinitis treatment is more accurate should be validated in future large-scale, multicenter, and well-designed RCTs.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Meta-analysis of randomized controlled trials assessing the efficacy of nigella sativa supplementation for allergic rhinitis treatment",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Allergy / hay fever"
+   ]
+  },
+  {
    "ref_id": "REF-3648",
    "key": "hclicorice2024",
    "type": "article",
@@ -9829,6 +10361,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3687",
+   "key": "alvares2024oliveleafcardiometabolic",
+   "type": "article",
+   "title": "Olive leaf extract effect on cardiometabolic risk factors: a systematic review and meta-analysis of randomized clinical trials",
+   "authors": "Álvares, A.A., Garcêz, A., Silva, L.T., Averbuch, N. and Garavaglia, J.",
+   "journal": "Nutrition Reviews",
+   "year": "2024",
+   "doi": "10.1093/nutrit/nuad164",
+   "url": "",
+   "link": "https://doi.org/10.1093/nutrit/nuad164",
+   "link_type": "doi",
+   "citation": "Álvares, A.A., Garcêz, A., Silva, L.T., Averbuch, N. and Garavaglia, J (2024) 'Olive leaf extract effect on cardiometabolic risk factors: a systematic review and meta-analysis of randomized clinical trials', Nutrition Reviews, 82(12), pp. 1710--1725. doi:10.1093/nutrit/nuad164",
+   "abstract": "CONTEXT: Olive leaf extract (OLE) is rich in phenolic compounds, which are known for their health benefits. Cardiovascular diseases, primarily coronary heart disease and stroke, are leading causes of mortality globally. OBJECTIVE: This systematic review aimed to assess the impact of OLE on cardiometabolic risk factors in adults. The selection of studies was based on intervention and outcomes, using relevant search descriptors. DATA SOURCES: The databases PubMed, EMBASE, and Web of Science were systematically searched for pertinent studies published up to August 2021. DATA EXTRACTION: Only randomized clinical trials, either cross-over or parallel, involving adult individuals aged ≥18 years, were considered. Additionally, trials that had a comparative or placebo group and used pure OLEs for oral treatment were included. DATA ANALYSIS: Twelve randomized clinical trials (RCTs) met the inclusion criteria. These trials had follow-up periods ranging from 2 days to 12 weeks and involved 703 patients aged 18 years-79 years. The outcomes demonstrated a positive correlation between the intervention group and glucose metabolism (4 RCTs), blood pressure (2 RCTs), lipid profile (2 RCTs), and inflammatory markers (2 RCTs). The RoB2 tool and the GRADE system were used to evaluate the risk of bias and the quality of evidence in the studies. CONCLUSIONS: In the meta-analysis, fasting glycemia, as evaluated in studies using a low dose of OLE, showed a significant result favoring the control group. To obtain more consistent results, further clinical studies in humans, using similar methodologies, are required. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42020200877.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Olive leaf extract effect on cardiometabolic risk factors: a systematic review and meta-analysis of randomized clinical trials",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1445",
    "key": "imperatrice2024olive",
    "type": "article",
@@ -9856,7 +10418,9 @@
     "Olea europaea"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Menopause"
+   ]
   },
   {
    "ref_id": "REF-1449",
@@ -11376,6 +11940,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3696",
+   "key": "shirvani2024nigellaglycemic2024",
+   "type": "article",
+   "title": "The effect of Nigella sativa supplementation on glycemic status in adults: An updated systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Shirvani, S., Falahatzadeh, M., Oveili, E., Jamali, M., Pam, P., Parang, M. and Shakarami, M.",
+   "journal": "Prostaglandins & Other Lipid Mediators",
+   "year": "2024",
+   "doi": "10.1016/j.prostaglandins.2024.106885",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.prostaglandins.2024.106885",
+   "link_type": "doi",
+   "citation": "Shirvani, S., Falahatzadeh, M., Oveili, E., Jamali, M., Pam, P., Parang, M. and Shakarami, M (2024) 'The effect of Nigella sativa supplementation on glycemic status in adults: An updated systematic review and meta-analysis of randomized controlled trials', Prostaglandins & Other Lipid Mediators, 174, pp. 106885. doi:10.1016/j.prostaglandins.2024.106885",
+   "abstract": "This systematic review and meta-analysis of randomized controlled trials (RCTs) sought to evaluate the effects of Nigella sativa (N. sativa) consumption on glycemic index in adults. A systematic literature search up to December 2023 was completed in PubMed, Scopus, and Web of Science, to identify eligible RCTs. Random effects models were assessed based on the heterogeneity tests, and pooled data were determined as weighted mean differences with a 95 % confidence interval. Finally, a total of 30 studies were found to be eligible for this meta-analysis. The pooled results using random effects model indicated that N. sativa supplementation significantly reduced FBS (SMD: -1.71; 95 % CI: -2.11, -1.31, p <0.001; I2= 92.7 %, p-heterogeneity <0.001) and HA1c levels (SMD: -2.16; 95 % CI: -3.04, -1.29, p <0.001; I2= 95.7 %, p-heterogeneity <0.001) but not effect on insulin (SMD = 0.48; 95 % CI: -0.53, 1.48, P = 0.353; I2= 96.1 %, p-heterogeneity <0.001), and HOMA-IR (SMD: -0.56; 95 % CI: -1.47, 0.35, p=0.229; I2= 95.0 %, p-heterogeneity <0.001).Overall, the evidence supports the consumption of N. sativa to reduce FBS and HA1c levels. Additional research, featuring extended durations and robust study designs, is necessary to determine the ideal dosage and duration of N. sativa supplementation for achieving a positive impact on glycemic markers.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of Nigella sativa supplementation on glycemic status in adults: An updated systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
+  },
+  {
    "ref_id": "REF-0446",
    "key": "sharifi2024effect",
    "type": "article",
@@ -11474,6 +12073,39 @@
    "actions": [],
    "conditions": [
     "Arthritis / joint pain"
+   ]
+  },
+  {
+   "ref_id": "REF-3673",
+   "key": "amini2024momordicalipids",
+   "type": "article",
+   "title": "The Effects of Bitter Melon ( Mormordica charantia ) on Lipid Profile: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "authors": "Amini, M.R., Rasaei, N., Jalalzadeh, M., Pourreza, S. and Hekmatdoost, A.",
+   "journal": "Phytotherapy Research",
+   "year": "2024",
+   "doi": "10.1002/ptr.8357",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.8357",
+   "link_type": "doi",
+   "citation": "Amini, M.R., Rasaei, N., Jalalzadeh, M., Pourreza, S. and Hekmatdoost, A (2024) 'The Effects of Bitter Melon ( Mormordica charantia ) on Lipid Profile: A Systematic Review and Meta-Analysis of Randomized Controlled Trials', Phytotherapy Research, 38(12), pp. 5949--5961. doi:10.1002/ptr.8357",
+   "abstract": "Research indicates that bitter melon could be useful in the management of dyslipidemia. Still, there is disagreement concerning the findings. This systematic study was undertaken to clarify the impact of consuming bitter melon on lipid profile. The databases Web of Science, Cochrane Library, PubMed, and Scopus were queried from inception until February 9, 2023. The study assessed triglyceride (TG), total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), and high-density lipoprotein cholesterol (HDL-C) levels. The effect sizes were calculated using weighted mean differences (WMDs) and 95% confidence intervals (CIs). Eight randomized controlled trials (RCTs) with a total of 423 participants were included. Bitter melon consumption resulted in a significant decrease in plasma concentrations of TC (WMD; -9.71 mg/dL; CI: -17.69 to -1.74, p = 0.01) and TG (WMD; -10.24 mg/dL; CI: -19.92 to -0.56, p = 0.03), while bitter melon did not significantly lower blood LDL-C (WMD; -8.66 mg/dL; CI: -19.83 to 2.50, p = 0.12) and HDL-C concentrations (WMD; 0.54 mg/dL; CI: -2.38 to 3.45, p = 0.71). Subgroup analysis showed a significant decrease in TC and LDL-C and an increase in HDL-C at a dose of ≤ 2000 mg/day and an intervention period of ≤ 8 weeks. Also, the greatest impact of LDL-C and HDL-C was seen in diabetic and prediabetic people. Bitter melon supplementation positively impacts TC and TG levels. The limitations of this study were short-term trials (less than 3 months).",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The Effects of Bitter Melon ( Mormordica charantia ) on Lipid Profile: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "plants": [
+    "Balsam pear",
+    "Bitter Melon",
+    "Bitter gourd",
+    "Karela"
+   ],
+   "scientific": [
+    "Momordica charantia"
+   ],
+   "actions": [],
+   "conditions": [
+    "High cholesterol"
    ]
   },
   {
@@ -13180,7 +13812,9 @@
     "Nigella sativa"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "High blood pressure"
+   ]
   },
   {
    "ref_id": "REF-3011",
@@ -18487,6 +19121,36 @@
    ]
   },
   {
+   "ref_id": "REF-3667",
+   "key": "kingsley2023peppermintfootbath",
+   "type": "article",
+   "title": "Randomized Trial Examining Efficacy of Mentha piperita in Reducing Chronic Headache Discomfort in Youth",
+   "authors": "Kingsley, R.A.",
+   "journal": "Pain Management Nursing",
+   "year": "2023",
+   "doi": "10.1016/j.pmn.2023.08.004",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.pmn.2023.08.004",
+   "link_type": "doi",
+   "citation": "Kingsley, R.A (2023) 'Randomized Trial Examining Efficacy of Mentha piperita in Reducing Chronic Headache Discomfort in Youth', Pain Management Nursing, 24(6), pp. e139--e147. doi:10.1016/j.pmn.2023.08.004",
+   "abstract": "BACKGROUND: Youth with chronic headache experience disruption to routine activities and require significant health care utilization. While interventions targeting a relaxation response have shown clinically significant benefit in headache outcomes, peppermint oil has not been evaluated for efficacy in a pediatric headache population. AIMS: To explore the extent to which a brief aromatherapy intervention improves subjective and objective indicators of discomfort beyond passive relaxation in youth with chronic headaches. DESIGN: Single-center, randomized, experimental study. METHODS: Patients were randomly assigned to a brief foot bath or foot bath plus peppermint oil group. Measurements were collected at baseline, mid-intervention, and post-intervention. Data included heart rate and subjective pain, anxiety, and satisfaction scores. RESULTS: Forty-six adolescents (89% female, mean age 15.2 years) diagnosed with a primary headache disorder were enrolled. Both groups reported a significant decrease in pain, though the intervention group plateaued (p < .01) and the control group progressively decreased intensity at each time-point (p < .01). Whereas both groups reported a decrease in anxiety over time (p < .01), the control group reported less of a decrease in anxiety than the intervention group (p = .03). The control group had a significant decrease in mean heart rate (p < .01). There were no adverse events. The intervention was well tolerated, liked, and recommended by 95.5% of study participants. CONCLUSIONS: A brief intervention intended to activate the relaxation response produced a subjective reduction in pain and anxiety. However, the addition of peppermint oil to a foot bath did not significantly improve pain or anxiety beyond the control condition.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Randomized Trial Examining Efficacy of Mentha piperita in Reducing Chronic Headache Discomfort in Youth",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2035",
    "key": "pannakal2023filipendula",
    "type": "article",
@@ -19276,6 +19940,41 @@
    ]
   },
   {
+   "ref_id": "REF-3699",
+   "key": "kavyani2023nigellainflammation",
+   "type": "article",
+   "title": "The effect of Nigella sativa (black seed) on biomarkers of inflammation and oxidative stress: an updated systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Kavyani, Z., Musazadeh, V., Golpour-Hamedani, S., Moridpour, A.H., Vajdi, M. and Askari, G.",
+   "journal": "Inflammopharmacology",
+   "year": "2023",
+   "doi": "10.1007/s10787-023-01213-0",
+   "url": "",
+   "link": "https://doi.org/10.1007/s10787-023-01213-0",
+   "link_type": "doi",
+   "citation": "Kavyani, Z., Musazadeh, V., Golpour-Hamedani, S., Moridpour, A.H., Vajdi, M. and Askari, G (2023) 'The effect of Nigella sativa (black seed) on biomarkers of inflammation and oxidative stress: an updated systematic review and meta-analysis of randomized controlled trials', Inflammopharmacology, 31(3), pp. 1149--1165. doi:10.1007/s10787-023-01213-0",
+   "abstract": "OBJECTIVE: This study was conducted to assess the effect of Nigella sativa (N. sativa) supplementation on inflammatory and oxidative markers among the adult population. METHODS: We carried out a comprehensive, systematic search of Scopus, Embase, Cochrane Library, Web of Science, PubMed, and Google Scholar till December 2022. A random-effects model was used to estimate the overall effect size. RESULTS: In total, twenty trials consisting of 1086 participants were included in the meta-analysis. Findings from 20 RCTs included in the meta-analysis suggest that N. sativa supplementation could significantly reduce serum C-reactive protein (CRP) (SMD = - 2.28; 95% CI - 3.20, - 1.37, p < 0.001), tumour necrosis factor α (TNFα) (SMD = - 1.21; 95% CI - 2.15, - 0.26; p = 0.013), and malondialdehyde (MDA) (SMD = - 2.15; 95% CI - 3.37, - 0.93, p < 0.001) levels, and significantly improves total antioxidant capacity (TAC) (SMD = 2.28; 95% CI 1.29, 3.27, p < 0.001), glutathione peroxidase (GPx) (SMD = 1.23, 95% CI 0.25, 2.22; p = 0.014) and superoxide dismutase (SOD) (SMD = 2.05; 95% CI 1.22, 2.88, p < 0.001) levels. However, no significant reduction was found in interleukin 6 (IL-6) levels (SMD = - 1.13; 95% CI - 2.72, 0.46, p = 0.162). CONCLUSION: N. sativa supplementation had beneficial effects on CRP, TNF-α, MDA, SOD, GPx, and TAC. Thus, Nigella sativa can be recommended as an adjuvant anti-oxidant agent and anti-inflammatory.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of Nigella sativa (black seed) on biomarkers of inflammation and oxidative stress: an updated systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-1623",
    "key": "rondee2023andrographis",
    "type": "article",
@@ -19341,6 +20040,39 @@
    "actions": [],
    "conditions": [
     "High cholesterol"
+   ]
+  },
+  {
+   "ref_id": "REF-3657",
+   "key": "safari2023melissat2ddepression",
+   "type": "article",
+   "title": "The effects of melissa officinalis on depression and anxiety in type 2 diabetes patients with depression: a randomized double-blinded placebo-controlled clinical trial",
+   "authors": "Safari, M., Asadi, A., Aryaeian, N., Huseini, H.F., Shidfar, F., Jazayeri, S., Malek, M., Hosseini, A.F. and Hamidi, Z.",
+   "journal": "BMC Complementary Medicine and Therapies",
+   "year": "2023",
+   "doi": "10.1186/s12906-023-03978-x",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-023-03978-x",
+   "link_type": "doi",
+   "citation": "Safari, M., Asadi, A., Aryaeian, N., Huseini, H.F., Shidfar, F., Jazayeri, S., Malek, M., Hosseini, A.F. and Hamidi, Z (2023) 'The effects of melissa officinalis on depression and anxiety in type 2 diabetes patients with depression: a randomized double-blinded placebo-controlled clinical trial', BMC Complementary Medicine and Therapies, 23(1), pp. 140. doi:10.1186/s12906-023-03978-x",
+   "abstract": "BACKGROUND: Depression is more common in diabetic patients, with a 1.5-fold increased risk of death.Melissa officinalis (M. officinalis) have anti-diabetic and anti-depression activities. The study aimed to determine the efficacy of M. officinalis extract on depression, anxiety, and sleep quality in patients with type 2 diabetes with depressive symptoms. METHODS: In this double-blind clinical trial, 60 volunteer patients (age range 20-65 years) with type 2 diabetes mellitus with symptoms of depression were randomized into the intervention (received 700 mg/day hydroalcoholic extract; n = 30) or control group (received 700 mg/day toasted flour; n = 30). Dietary intake, physical activity, anthropometric indices, FBS (Fasting blood sugar), hs-CRP(High-sensitivity C-reactiveprotein), depression, anxiety, and sleep quality were determined at the beginning and end of the study. Depression and anxiety were assessed by Beck Depression Inventory-II (BDI-II) and Beck Anxiety Inventory (BAI), respectively; sleep quality was evaluated using the Pittsburgh Sleep Quality Index (PSQI). RESULTS: Sixty participants received M. officinalis extract or placebo, of which 44 patients completed the 12-week double-blind clinical trial. After 12-week the mean change of depression and anxiety scores were statistically significant between the two groups (p < 0.001 and p = 0.04, respectively), but no significant differences were observed in FBS, hs-CRP, anthropometric indices, sleep quality, and blood pressure.In the intervention group, there was a significant decrease in depression and anxiety severity(p < 0.001 and p = 0.01, respectively) at the end of the study compared to the baseline. TRIAL REGISTRATION: All protocols in this study were followed in accordance with the Helsinki Declaration (1989 revision). Ethical approval for this study was obtained from the Iran University of Medical Sciences Ethics committee (IR.IUMS.FMD.REC 1396.9413468004; research.iums.ac.ir). The study was registered at the Iranian Registry of Clinical Trials (IRCT201709239472N16); Registration date: 09/10/2017.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effects of melissa officinalis on depression and anxiety in type 2 diabetes patients with depression: a randomized double-blinded placebo-controlled clinical trial",
+   "plants": [
+    "Lemon balm",
+    "bee balm",
+    "sweet balm"
+   ],
+   "scientific": [
+    "Melissa officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Anxiety",
+    "Low mood / depression"
    ]
   },
   {
@@ -19509,6 +20241,37 @@
     "Anti-inflammatory",
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3672",
+   "key": "laczkozold2023momordicasr2023",
+   "type": "article",
+   "title": "The metabolic effect of Momordica charantia cannot be determined based on the available clinical evidence: a systematic review and meta-analysis of randomized clinical trials",
+   "authors": "Laczkó-Zöld, E., Csupor-Löffler, B., Kolcsár, E.B., Ferenci, T., Nan, M., Tóth, B. and Csupor, D.",
+   "journal": "Frontiers in Nutrition",
+   "year": "2023",
+   "doi": "10.3389/fnut.2023.1200801",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2023.1200801",
+   "link_type": "doi",
+   "citation": "Laczkó-Zöld, E., Csupor-Löffler, B., Kolcsár, E.B., Ferenci, T., Nan, M., Tóth, B. and Csupor, D (2023) 'The metabolic effect of Momordica charantia cannot be determined based on the available clinical evidence: a systematic review and meta-analysis of randomized clinical trials', Frontiers in Nutrition, 10, pp. 1200801. doi:10.3389/fnut.2023.1200801",
+   "abstract": "Several studies have shown that Momordica charantia L. (Cucurbitaceae, bitter melon) has beneficial effects on metabolic syndrome (MetS) parameters and exerts antidiabetic, anti-hyperlipidemic, and anti-obesity activities. Since the findings of these studies are contradictory, the goal of this systematic review and meta-analysis was to assess the efficacy of bitter melon in the treatment of metabolic syndrome, with special emphasis on the anti-diabetic effect. Embase, Cochrane, PubMed, and Web of Science databases were searched for randomized controlled human trials (RCTs). The meta-analysis was reported according to the PRISMA statement. The primary outcomes of the review are body weight, BMI, fasting blood glucose, glycated hemoglobin A1c, systolic blood pressure, diastolic blood pressure, serum triglyceride, HDL, LDL, and total cholesterol levels. Nine studies were included in the meta-analysis with 414 patients in total and 4-16 weeks of follow-up. In case of the meta-analysis of change scores, no significant effect could be observed for bitter melon treatment over placebo on fasting blood glucose level (MD = -0.03; 95% CI: -0.38 to 0.31; I2 = 34%), HbA1c level (MD = -0.12; 95% CI: -0.35 to 0.11; I2 = 56%), HDL (MD = -0.04; 95% CI: -0.17 to 0.09; I2 = 66%), LDL (MD = -0.10; 95% CI: -0.28 to 0.08; I2 = 37%), total cholesterol (MD = -0.04; 95% CI: -0.17 to 0.09; I2 = 66%,), body weight (MD = -1.00; 95% CI: -2.59-0.59; I2 = 97%), BMI (MD = -0.42; 95% CI: -0.99-0.14; I2 = 95%), systolic blood pressure (MD = 1.01; 95% CI: -1.07-3.09; I2 = 0%) and diastolic blood pressure levels (MD = 0.24; 95% CI: -1.04-1.53; I2 = 0%). Momordica treatment was not associated with a notable change in ALT, AST, and creatinine levels compared to the placebo, which supports the safety of this plant. However, the power was overall low and the meta-analyzed studies were also too short to reliably detect long-term metabolic effects. This highlights the need for additional research into this plant in carefully planned clinical trials of longer duration.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The metabolic effect of Momordica charantia cannot be determined based on the available clinical evidence: a systematic review and meta-analysis of randomized clinical trials",
+   "plants": [
+    "Balsam pear",
+    "Bitter Melon",
+    "Bitter gourd",
+    "Karela"
+   ],
+   "scientific": [
+    "Momordica charantia"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -23129,6 +23892,70 @@
    "conditions": [
     "Arthritis / joint pain",
     "Inflammation (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-3674",
+   "key": "chanthirakumar2022nonicancersr",
+   "type": "article",
+   "title": "Efficacy and Safety of Morinda citrifolia L. (Noni) as a Potential Anticancer Agent",
+   "authors": "Chanthira Kumar, H., Lim, X.Y., Mohkiar, F.H., Suhaimi, S.N., Mohammad Shafie, N. and Chin Tan, T.Y.",
+   "journal": "Integrative Cancer Therapies",
+   "year": "2022",
+   "doi": "10.1177/15347354221132848",
+   "url": "",
+   "link": "https://doi.org/10.1177/15347354221132848",
+   "link_type": "doi",
+   "citation": "Chanthira Kumar, H., Lim, X.Y., Mohkiar, F.H., Suhaimi, S.N., Mohammad Shafie, N. and Chin Tan, T.Y (2022) 'Efficacy and Safety of Morinda citrifolia L. (Noni) as a Potential Anticancer Agent', Integrative Cancer Therapies, 21, pp. 15347354221132848. doi:10.1177/15347354221132848",
+   "abstract": "Cancer is a major cause of morbidity and mortality worldwide and therefore there has been interest in discovering the phytoconstituents of medicinal plants exhibiting anticancer activities. Morinda citrifolia L., commonly known as Noni, has shown anticancer properties in in vitro, in vivo, and in clinical studies. A systematic review was conducted to collate scientific evidence on the anticancer properties of M. citrifolia using pre-determined keywords on 5 electronic databases: MEDLINE, CENTRAL, LILACS, Web of Science, and EBSCOHost. A total of 51 clinical and preclinical studies comprising 41 efficacy and 10 safety studies were included in this review. Our findings showed that M. citrifolia demonstrated various anticancer properties in different cancer models, via multiple mechanisms including antitumor, antiproliferative, pro-apoptotic, antiangiogenesis, antimigratory, anti-inflammatory, and immunomodulatory activities. M. citrifolia is deemed to be a potentially valuable medicinal plant in the treatment of cancer through its many intrinsic pathways. More well-designed and reported preclinical efficacy and safety studies are needed to allow for better translation into future clinical studies which could further substantiate the role of M. citriflolia in cancer treatment.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and Safety of Morinda citrifolia L. (Noni) as a Potential Anticancer Agent",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cancer (anticancer research)"
+   ]
+  },
+  {
+   "ref_id": "REF-3692",
+   "key": "hernandezvasquez2022oliveoilpressureulcer",
+   "type": "article",
+   "title": "Efficacy and Safety of Topical Application of Olive Oil for Preventing Pressure Ulcers: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "authors": "Hernández-Vásquez, A., Visconti-Lopez, F.J., Cabanillas-Ramirez, C., Díaz-Seijas, D., Meléndez-Escalante, J., Comandé, D. and Santero, M.",
+   "journal": "International Journal of Environmental Research and Public Health",
+   "year": "2022",
+   "doi": "10.3390/ijerph192214921",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijerph192214921",
+   "link_type": "doi",
+   "citation": "Hernández-Vásquez, A., Visconti-Lopez, F.J., Cabanillas-Ramirez, C., Díaz-Seijas, D., Meléndez-Escalante, J., Comandé, D. and Santero, M (2022) 'Efficacy and Safety of Topical Application of Olive Oil for Preventing Pressure Ulcers: A Systematic Review and Meta-Analysis of Randomized Controlled Trials', International Journal of Environmental Research and Public Health, 19(22). doi:10.3390/ijerph192214921",
+   "abstract": "The purpose was to identify and summarize the existing evidence on the efficacy and safety of the topical application of olive oil for preventing pressure ulcers (PUs). We included only randomized controlled trials (RCTs) involving patients at risk of developing PUs, testing the topical application of olive oil versus other products for PU prevention. We assessed the risk of bias using the RoB 2 tool, and the certainty of the evidence with GRADE. Four RCTs met the eligibility criteria. All studies were judged at a low risk of bias overall. The meta-analysis showed that the clinical efficacy of olive oil for prevention occurs by reducing the incidence of PUs (RR = 0.56, 95% CI = 0.30 to 0.79, I2 = 0%); with no differences in adverse effects, it may be associated with a shorter development time of PUs and shorter hospital stays. The certainty of the evidence assessed by the GRADE approach was moderate and low. The topical application of olive oil is effective and safe in reducing the incidence of PUs compared to other treatments. These findings could provide new insights into olive oil as a preventive and alternative treatment for PUs as it is accessible and inexpensive compared to other products.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and Safety of Topical Application of Olive Oil for Preventing Pressure Ulcers: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Wounds"
    ]
   },
   {
@@ -26985,6 +27812,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3660",
+   "key": "ingrosso2022peppermintibs2022",
+   "type": "article",
+   "title": "Systematic review and meta-analysis: efficacy of peppermint oil in irritable bowel syndrome",
+   "authors": "Ingrosso, M.R., Ianiro, G., Nee, J., Lembo, A.J., Moayyedi, P., Black, C.J. and Ford, A.C.",
+   "journal": "Alimentary Pharmacology & Therapeutics",
+   "year": "2022",
+   "doi": "10.1111/apt.17179",
+   "url": "",
+   "link": "https://doi.org/10.1111/apt.17179",
+   "link_type": "doi",
+   "citation": "Ingrosso, M.R., Ianiro, G., Nee, J., Lembo, A.J., Moayyedi, P., Black, C.J. and Ford, A.C (2022) 'Systematic review and meta-analysis: efficacy of peppermint oil in irritable bowel syndrome', Alimentary Pharmacology & Therapeutics, 56(6), pp. 932--941. doi:10.1111/apt.17179",
+   "abstract": "BACKGROUND: Irritable bowel syndrome (IBS) is one of the most common disorders of gut-brain interaction, with a complex pathophysiology. Antispasmodics are prescribed as first-line therapy because of their action on gut dysmotility. In this regard, peppermint oil also has antispasmodic properties. AIM: To update our previous meta-analysis to assess efficacy and safety of peppermint oil, particularly as recent studies have cast doubt on its role in the treatment of IBS METHODS: We searched the medical literature up to 2nd April 2022 to identify randomised controlled trials (RCTs) of peppermint oil in IBS. Efficacy and safety were judged using dichotomous assessments of effect on global IBS symptoms or abdominal pain, and occurrence of any adverse event or of gastro-oesophageal reflux. Data were pooled using a random effects model, with efficacy and safety reported as pooled relative risks (RRs) with 95% confidence intervals (CIs). RESULTS: We identified 10 eligible RCTs (1030 patients). Peppermint oil was more efficacious than placebo for global IBS symptoms (RR of not improving = 0.65; 95% CI 0.43-0.98, number needed to treat [NNT] = 4; 95% CI 2.5-71), and abdominal pain (RR of abdominal pain not improving = 0.76; 95% CI 0.62-0.93, NNT = 7; 95% CI 4-24). Adverse event rates were significantly higher with peppermint oil (RR of any adverse event = 1.57; 95% CI 1.04-2.37). CONCLUSIONS: Peppermint oil was superior to placebo for the treatment of IBS, but adverse events were more frequent, and quality of evidence was very low. Adequately powered RCTs of peppermint oil as first-line treatment for IBS are needed.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Systematic review and meta-analysis: efficacy of peppermint oil in irritable bowel syndrome",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": [
+    "Irritable bowel syndrome (IBS)"
+   ]
+  },
+  {
    "ref_id": "REF-1077",
    "key": "irahal2022clove",
    "type": "article",
@@ -28939,6 +29798,37 @@
     "Oral & throat health",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-3680",
+   "key": "ahmadadni2021epomastalgia",
+   "type": "article",
+   "title": "A Systematic Review and Meta-Analysis of the Efficacy of Evening Primrose Oil for Mastalgia Treatment",
+   "authors": "Ahmad Adni, L.L., Norhayati, M.N., Mohd Rosli, R.R. and Muhammad, J.",
+   "journal": "International Journal of Environmental Research and Public Health",
+   "year": "2021",
+   "doi": "10.3390/ijerph18126295",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijerph18126295",
+   "link_type": "doi",
+   "citation": "Ahmad Adni, L.L., Norhayati, M.N., Mohd Rosli, R.R. and Muhammad, J (2021) 'A Systematic Review and Meta-Analysis of the Efficacy of Evening Primrose Oil for Mastalgia Treatment', International Journal of Environmental Research and Public Health, 18(12). doi:10.3390/ijerph18126295",
+   "abstract": "Mastalgia, or breast pain, is common among women which can lead to significant impairment in daily living. Hence, finding an effective treatment that can alleviate the symptom is very important. Thus, we carry out this study to determine the efficacy of evening primrose oil (EPO) for mastalgia treatment in women. The review included published randomised clinical trials that evaluated EPO used for treating mastalgia against a placebo or other treatments, irrespective of the blinding procedure, publication status, or sample size. Two independent authors screened the titles and abstracts of the identified trials; full texts of relevant trials were evaluated for eligibility. Two reviewers independently extracted data on the methods, interventions, outcomes, and risk of bias. The random-effects model was used for estimating the risk ratios and mean differences with 95% confidence intervals. Thirteen trials with 1752 randomised patients were included. The results showed that EPO has no difference to reduce breast pain compared to topical NSAIDS, danazol, or vitamin E. The number of patients who achieved pain relief was no different compared to the placebo or other treatments. The EPO does not increase adverse events, such as nausea, abdominal bloating, headache or giddiness, increase weight gain, and altered taste compared to a placebo or other treatments. EPO is a safe medication with similar efficacy for pain control in women with mastalgia compared to a placebo, topical NSAIDS, danazol, or vitamin E.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A Systematic Review and Meta-Analysis of the Efficacy of Evening Primrose Oil for Mastalgia Treatment",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3651",
@@ -31013,6 +31903,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3690",
+   "key": "dehghani2021evooglycemic",
+   "type": "article",
+   "title": "Effect of extra virgin olive oil consumption on glycemic control: A systematic review and meta-analysis",
+   "authors": "Dehghani, F., Morvaridzadeh, M., Pizarro, A.B., Rouzitalab, T., Khorshidi, M., Izadi, A., Shidfar, F., Omidi, A. and Heshmati, J.",
+   "journal": "Nutrition, Metabolism, and Cardiovascular Diseases",
+   "year": "2021",
+   "doi": "10.1016/j.numecd.2021.02.017",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.numecd.2021.02.017",
+   "link_type": "doi",
+   "citation": "Dehghani, F., Morvaridzadeh, M., Pizarro, A.B., Rouzitalab, T., Khorshidi, M., Izadi, A., Shidfar, F., Omidi, A. and Heshmati, J (2021) 'Effect of extra virgin olive oil consumption on glycemic control: A systematic review and meta-analysis', Nutrition, Metabolism, and Cardiovascular Diseases, 31(7), pp. 1953--1961. doi:10.1016/j.numecd.2021.02.017",
+   "abstract": "AIMS: Several health benefits are contributed to extra virgin olive oil (EVOO). The polyphenol fraction of EVOO may be responsible for its cardioprotective impacts. This systematic review and meta-analysis aimed to investigate the effect of EVOO intake on glycemic parameters. Electronic literature searched through 1 September 2020 across MEDLINE/PubMed, Web of Science, and SCOPUS databases to find all clinical trials that reported the effect of EVOO intake on glycemic parameters [FBS(fasting blood glucose), insulin, HOMA-IR (Homeostatic Model Assessment for Insulin Resistance) and HbA1c (glycated hemoglobin A1c)] vs. control. DATA SYNTHESIS: We pooled standardized mean differences (SMD) and 95% confidence intervals (CIs) from randomized clinical trials (RCTs) using random-effects models. Heterogeneity was assessed by Cochran Q-statistic and quantified (I2). We found 13 related trials comprising a total of 633 subjects. In pooled analysis, EVOO intake had no effect on FBS (SMD: -0.07; 95% CI: -0.20, 0.07; I2 = 0.0%), insulin (SMD: -0.32; 95% CI: -0.70, 0.06; I2 = 38.0%), and HOMA-IR (SMD: -0.32; 95% CI: -0.75, 0.10; I2 = 51.0%). However, a decreasing trend was observed in these effects. Subgroup analysis based on age, health status, dose, and EVOO intake duration also did not significantly change results. CONCLUSION: Although EVOO seems a promising hypoglycemic effects, we did not find any significant evidence that EVOO consumption impacts glucose homeostasis. Furthermore, well-designed RCTs with longer durations are still needed to evaluate the EVOO's efficacy on glycemic parameters.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of extra virgin olive oil consumption on glycemic control: A systematic review and meta-analysis",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0604",
    "key": "shahrahmani2021fennel",
    "type": "article",
@@ -31076,6 +31996,73 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3658",
+   "key": "shekarriz2021melissahypertension",
+   "type": "article",
+   "title": "Effect of Melissa officinalis on systolic and diastolic blood pressures in essential hypertension: A double-blind crossover clinical trial",
+   "authors": "Shekarriz, Z., Shorofi, S.A., Nabati, M., Shabankhani, B. and Yousefi, S.S.",
+   "journal": "Phytotherapy Research",
+   "year": "2021",
+   "doi": "10.1002/ptr.7251",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7251",
+   "link_type": "doi",
+   "citation": "Shekarriz, Z., Shorofi, S.A., Nabati, M., Shabankhani, B. and Yousefi, S.S (2021) 'Effect of Melissa officinalis on systolic and diastolic blood pressures in essential hypertension: A double-blind crossover clinical trial', Phytotherapy Research, 35(12), pp. 6883--6892. doi:10.1002/ptr.7251",
+   "abstract": "For a long time, Melissa officinalis (M. officinalis) has been used to treat cardiovascular diseases. Therefore, this study aimed at evaluating the effects of M. officinalis on systolic and diastolic blood pressures in hypertensive patients. We conducted a double-blind, controlled, randomized crossover clinical trial on 49 patients who received either M. officinalis capsules (400 mg/d; n = 23) or the placebo (n = 26) three times per day for a 4-week period. After a 2-week washout period, the M. officinalis group received placebo and the other group received M. officinalis for another 4-week period. The systolic and diastolic blood pressures were measured once at baseline and then every 2 weeks for 10 weeks. The statistical analysis of the obtained data revealed that the chronology of the consumption of M. officinalis and placebo had no effect on the systolic and diastolic blood pressures in these two studied groups. Moreover, it was found that systolic and diastolic blood pressures significantly decreased after the consumption of M. officinalis, compared to placebo. Systolic and diastolic blood pressures in group A at the beginning of the study were 152.30 ± 5.312 mmHg and 95.52 ± 1.988 mmHg, respectively, and, after the first phase (drug use), reached 129.88 ± 9.009 mmHg and 80.13 ± 5.488 mmHg, respectively. Systolic and diastolic blood pressures in group B at the beginning of the study was 152.26 ± 5.640 mmHg and 94.44 ± 2.607 mmHg, respectively, and after the second phase (drug use), reached 131.77 ± 8.091 mmHg and 81.46 ± 7.426 mmHg, (p = .005), respectively. Also, no significant side effects were observed during the study. According to the results, M. officinalis can reduce systolic and diastolic blood pressures of the patients with essential hypertension.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of Melissa officinalis on systolic and diastolic blood pressures in essential hypertension: A double-blind crossover clinical trial",
+   "plants": [
+    "Lemon balm",
+    "bee balm",
+    "sweet balm"
+   ],
+   "scientific": [
+    "Melissa officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "High blood pressure"
+   ]
+  },
+  {
+   "ref_id": "REF-3702",
+   "key": "tang2021nigellanafld",
+   "type": "article",
+   "title": "Effect of Nigella sativa in the treatment of nonalcoholic fatty liver disease: A systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Tang, G., Zhang, L., Tao, J. and Wei, Z.",
+   "journal": "Phytotherapy Research",
+   "year": "2021",
+   "doi": "10.1002/ptr.7080",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7080",
+   "link_type": "doi",
+   "citation": "Tang, G., Zhang, L., Tao, J. and Wei, Z (2021) 'Effect of Nigella sativa in the treatment of nonalcoholic fatty liver disease: A systematic review and meta-analysis of randomized controlled trials', Phytotherapy Research, 35(8), pp. 4183--4193. doi:10.1002/ptr.7080",
+   "abstract": "The effectiveness of Nigella sativa (NS) treatment for nonalcoholic fatty liver disease (NAFLD) remains controversial. This systematic review, and meta-analysis, was conducted to evaluate potential benefits of NS for NAFLD. Up to June 11, 2020, randomized controlled trials (RCTs) evaluating NS for the treatment of NAFLD were searched and included from PubMed, Embase, Cochrane Library, and Web of science. Mean differences (MD) or risk ratio (RR) and 95% confidence intervals (CI) were calculated. Six articles from five trails with a total of 358 participants were included. Although NS has no beneficial effect on the levels of total cholesterol (TC) and low-density lipoprotein cholesterol (LDL), triglyceride (TG), insulin, and tumor necrosis factor α (TNF-α), its supplementation did improve the levels of alanine transaminase (ALT), aspartate transaminase (AST), fasting blood sugar (FBS), high-density lipoprotein cholesterol (HDL), high-sensitivity C reactive protein (hs-CRP), and grade of fatty liver compared with placebo. In summary, this study showed that NS supplementation was effective in the treatment of NAFLD and could improve the levels of ALT, AST, FBS, HDL, and hs-CRP in patients with NAFLD, as well as the severity of NAFLD. High-quality large sample RCTs are necessary to confirm the benefit of NS supplementation for NAFLD.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of Nigella sativa in the treatment of nonalcoholic fatty liver disease: A systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Liver support"
+   ]
   },
   {
    "ref_id": "REF-2267",
@@ -31583,38 +32570,6 @@
    ],
    "actions": [
     "Sedative / sleep support"
-   ],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-2759",
-   "key": "ahmad2021ononis",
-   "type": "article",
-   "title": "Efficacy of extract from Ononis spinosa L. on ethanol-induced gastric mucosal injury in rats",
-   "authors": "Manal Ahmad, A. and Yasser Ibrahim, K. and Manal Mohammad, A.",
-   "journal": "Journal of Traditional Chinese Medicine",
-   "year": "2021",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Efficacy%20of%20extract%20from%20Ononis%20spinosa%20L.%20on%20ethanol-induced%20gastric%20mucosal%20injury%20in%20rats",
-   "link_type": "search",
-   "citation": "Manal Ahmad, A. and Yasser Ibrahim, K. and Manal Mohammad, A (2021) 'Efficacy of extract from Ononis spinosa L. on ethanol-induced gastric mucosal injury in rats', Journal of Traditional Chinese Medicine, 41(2), pp. 270-275.",
-   "abstract": "",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Efficacy of extract from Ononis spinosa L. on ethanol-induced gastric mucosal injury in rats",
-   "plants": [
-    "Field restharrow",
-    "cammock",
-    "restharrow"
-   ],
-   "scientific": [
-    "Ononis arvensis"
-   ],
-   "actions": [
-    "Gastroprotective"
    ],
    "conditions": []
   },
@@ -34220,6 +35175,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3665",
+   "key": "nee2021peppermintibs2021",
+   "type": "article",
+   "title": "Peppermint Oil Treatment for Irritable Bowel Syndrome: A Randomized Placebo-Controlled Trial",
+   "authors": "Nee, J., Ballou, S., Kelley, J.M., Kaptchuk, T.J., Hirsch, W., Katon, J., Cheng, V., Rangan, V., Lembo, A. and Iturrino, J.",
+   "journal": "The American Journal of Gastroenterology",
+   "year": "2021",
+   "doi": "10.14309/ajg.0000000000001395",
+   "url": "",
+   "link": "https://doi.org/10.14309/ajg.0000000000001395",
+   "link_type": "doi",
+   "citation": "Nee, J., Ballou, S., Kelley, J.M., Kaptchuk, T.J., Hirsch, W., Katon, J., Cheng, V., Rangan, V., Lembo, A. and Iturrino, J (2021) 'Peppermint Oil Treatment for Irritable Bowel Syndrome: A Randomized Placebo-Controlled Trial', The American Journal of Gastroenterology, 116(11), pp. 2279--2285. doi:10.14309/ajg.0000000000001395",
+   "abstract": "INTRODUCTION: Peppermint oil is often used to treat irritable bowel syndrome (IBS); however, the overall quality of previous studies is low, and findings have been heterogeneous. This study aimed to compare the effects of peppermint oil vs placebo in relieving IBS symptoms. METHODS: In a 6-week, randomized, double-blind, placebo-controlled trial at a single academic center in the United States, individuals diagnosed with IBS (Rome IV criteria), with moderate to severe symptoms based on the IBS Severity Scoring System (IBS-SSS score ≥175), were randomized to enteric-coated peppermint oil 180 mg 3 times daily vs placebo in a 1:2 ratio. The primary outcome was mean change in IBS-SSS scores from baseline to 6-week endpoint. RESULTS: A modified intent-to-treat analysis revealed that there were substantial mean improvements from baseline to 6-week endpoint in the main outcome measure (IBS-SSS) for both peppermint oil (90.8, SD = 75.3) and placebo (100.3, SD = 99.6). Although the peppermint oil group reported numerically lower improvement than the placebo group, the effect size was small (d = -0.11), and the difference between the groups was not statistically significant (P = 0.97). Similarly, both groups reported substantial improvements on the secondary endpoints; but again, there were no statistically significant differences between the groups on any of the secondary measures. Sensitivity analyses using multiple imputation to replace missing data produced similar results and revealed no significant differences between peppermint oil and placebo on any outcome measure. DISCUSSION: Peppermint oil and placebo both showed clinically meaningful improvement in IBS symptoms. However, there were no significant differences between the groups. Further large, rigorous trials are needed to evaluate the role of peppermint oil for the treatment of IBS.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Peppermint Oil Treatment for Irritable Bowel Syndrome: A Randomized Placebo-Controlled Trial",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2890",
    "key": "antonescu2021trifolium",
    "type": "article",
@@ -36509,6 +37494,7 @@
     "Sedative / sleep support"
    ],
    "conditions": [
+    "Anxiety",
     "Low mood / depression"
    ]
   },
@@ -39476,6 +40462,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3682",
+   "key": "khorshidi2020epolipids",
+   "type": "article",
+   "title": "Effect of evening primrose oil supplementation on lipid profile: A systematic review and meta-analysis of randomized clinical trials",
+   "authors": "Khorshidi, M., Zarezadeh, M., Moradi Moghaddam, O., Emami, M.R., Kord-Varkaneh, H., Mousavi, S.M., Alizadeh, S., Heshmati, J., Olang, B. and Aryaeian, N.",
+   "journal": "Phytotherapy Research",
+   "year": "2020",
+   "doi": "10.1002/ptr.6716",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6716",
+   "link_type": "doi",
+   "citation": "Khorshidi, M., Zarezadeh, M., Moradi Moghaddam, O., Emami, M.R., Kord-Varkaneh, H., Mousavi, S.M., Alizadeh, S., Heshmati, J., Olang, B. and Aryaeian, N (2020) 'Effect of evening primrose oil supplementation on lipid profile: A systematic review and meta-analysis of randomized clinical trials', Phytotherapy Research, 34(10), pp. 2628--2638. doi:10.1002/ptr.6716",
+   "abstract": "BACKGROUND: Studies have shown that evening primrose oil (EPO) supplementation might be effective in improving lipid profile, however, the results are inconsistent. This study was performed to determine the direction and magnitude of the EPO effect on the lipid profile. METHODS: PubMed, Scopus, Cochrane Library, Embase and Web of Science databases and Google Scholar were searched up to September-2019. Meta-analysis was performed using the random-effects model. Lipid profile including high-density lipoprotein (HDL), total cholesterol (TC), triglyceride (TG), and low-density lipoprotein (LDL) was considered as the primary outcome. RESULTS: A total of 926 articles were identified through database searching, of which, six RCTs were included in the meta-analysis. There were six studies on HDL, TC, and TG and four studies on LDL. EPO supplementation had no significant effect on TC, TG, LDL, and HDL. However, in subgroup analysis, a significant reduction in TG at a dose of ≤4 g/day (weighted mean difference [WMD] = -37.28 mg/dl; 95% CI: -73.53 to -1.03, p = .044) and a significant increase in HDL in hyperlipidemic subjects (WMD = 5.468 mg/dl; 95% CI: 1.323 to 9.614, p = .010) was found. CONCLUSION: Oral intake of EPO at a dose of ≤4 g/day significantly reduces serum TG levels and significantly increases HDL levels in hyperlipidemic subjects.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of evening primrose oil supplementation on lipid profile: A systematic review and meta-analysis of randomized clinical trials",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": [
+    "High cholesterol"
+   ]
+  },
+  {
    "ref_id": "REF-3620",
    "key": "hadi2020flaxlipids2020",
    "type": "article",
@@ -40097,7 +41116,10 @@
     "Melissa officinalis"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "High blood pressure",
+    "High cholesterol"
+   ]
   },
   {
    "ref_id": "REF-1452",
@@ -40231,6 +41253,36 @@
    "conditions": [
     "Insomnia / sleeplessness"
    ]
+  },
+  {
+   "ref_id": "REF-3664",
+   "key": "weerts2020persuadeibs",
+   "type": "article",
+   "title": "Efficacy and Safety of Peppermint Oil in a Randomized, Double-Blind Trial of Patients With Irritable Bowel Syndrome",
+   "authors": "Weerts, Z.Z.R.M., Masclee, A.A.M., Witteman, B.J.M., Clemens, C.H.M., Winkens, B., Brouwers, J.R.B.J., Frijlink, H.W., Muris, J.W.M., De Wit, N.J., Essers, B.A.B., Tack, J., Snijkers, J.T.W., Bours, A.M.H., de Ruiter-van der Ploeg, A.S., Jonkers, D.M.A.E. and Keszthelyi, D.",
+   "journal": "Gastroenterology",
+   "year": "2020",
+   "doi": "10.1053/j.gastro.2019.08.026",
+   "url": "",
+   "link": "https://doi.org/10.1053/j.gastro.2019.08.026",
+   "link_type": "doi",
+   "citation": "Weerts, Z.Z.R.M., Masclee, A.A.M., Witteman, B.J.M., Clemens, C.H.M., Winkens, B., Brouwers, J.R.B.J., Frijlink, H.W., Muris, J.W.M., De Wit, N.J., Essers, B.A.B., Tack, J., Snijkers, J.T.W., Bours, A.M.H., de Ruiter-van der Ploeg, A.S., Jonkers, D.M.A.E. and Keszthelyi, D (2020) 'Efficacy and Safety of Peppermint Oil in a Randomized, Double-Blind Trial of Patients With Irritable Bowel Syndrome', Gastroenterology, 158(1), pp. 123--136. doi:10.1053/j.gastro.2019.08.026",
+   "abstract": "BACKGROUND & AIMS: Peppermint oil is frequently used to treat irritable bowel syndrome (IBS), despite a lack of evidence for efficacy from high-quality controlled trials. We studied the efficacy and safety of small-intestinal-release peppermint oil in patients with IBS and explored the effects of targeted ileocolonic-release peppermint oil. METHODS: We performed a double-blind trial of 190 patients with IBS (according to Rome IV criteria) at 4 hospitals in The Netherlands from August 2016 through March 2018; 189 patients were included in the intent-to-treat analysis (mean age, 34.0 years; 77.8% female; 57.7% in primary care), and 178 completed the study. Patients were randomly assigned to groups given 182 mg small-intestinal-release peppermint oil, 182 mg ileocolonic-release peppermint oil, or placebo for 8 weeks. The primary endpoint was abdominal pain response, as defined by the US Food and Drug Administration: at least a 30% decrease in the weekly average of worst daily abdominal pain compared with baseline in at least 4 weeks. The co-primary endpoint was overall relief of IBS symptoms, as defined by the European Medicines Agency. Secondary endpoints included abdominal pain, discomfort, symptom severity, and adverse events. RESULTS: Abdominal pain response did not differ significantly between the peppermint oil and placebo groups: 29 of 62 patients in the small-intestinal-release peppermint oil group had a response (46.8%, P = .170 vs placebo), 26 of 63 patients in the ileocolonic-release peppermint oil group had a response (41.3%, P = .385 vs placebo), and 22 of 64 patients in the placebo group had a response (34.4%). We did not find differences among the groups in overall relief (9.7%, P = .317 and 1.6%, P = .351 vs 4.7% for placebo). The small intestinal peppermint oil did, however, produce greater improvements than placebo in secondary outcomes of abdominal pain (P = .016), discomfort (P = .020), and IBS severity (P = .020). Adverse events, although mild, were more common in both peppermint oil groups (P < .005). CONCLUSIONS: In a randomized trial of patients with IBS, we found that neither small-intestinal-release nor ileocolonic-release peppermint oil (8 weeks) produced statistically significant reductions in abdominal pain response or overall symptom relief, when using US Food and Drug Administration/European Medicines Agency recommended endpoints. The small-intestinal-release peppermint oil did, however, significantly reduce abdominal pain, discomfort, and IBS severity. These findings do not support further development of ileocolonic-release peppermint oil for treatment of IBS. Clinicaltrials.gov, Number: NCT02716285.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and Safety of Peppermint Oil in a Randomized, Double-Blind Trial of Patients With Irritable Bowel Syndrome",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0605",
@@ -41136,6 +42188,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3685",
+   "key": "sharif2020epopsych",
+   "type": "article",
+   "title": "Impact of evening primrose oil consumption on psychological symptoms of postmenopausal women: a randomized double-blinded placebo-controlled clinical trial",
+   "authors": "Sharif, S.N. and Darsareh, F.",
+   "journal": "Menopause",
+   "year": "2020",
+   "doi": "10.1097/GME.0000000000001434",
+   "url": "",
+   "link": "https://doi.org/10.1097/GME.0000000000001434",
+   "link_type": "doi",
+   "citation": "Sharif, S.N. and Darsareh, F (2020) 'Impact of evening primrose oil consumption on psychological symptoms of postmenopausal women: a randomized double-blinded placebo-controlled clinical trial', Menopause, 27(2), pp. 194--198. doi:10.1097/GME.0000000000001434",
+   "abstract": "OBJECTIVE: The purpose of this study was to determine the efficacy and safety of evening primrose oil on women's psychological symptoms during menopause. METHODS: A double-blinded randomized placebo-controlled trial carried out from September 2018 to February 2019 in Bandar Abbas, Iran. Eligible women randomly received either 1,000 mg of evening primrose oil capsules daily or matching placebo for 8 weeks. The Main outcome measures were psychological symptoms based on the psychological subscale of the Menopause Rating Scale. Independent samples t test was used for intergroup comparisons and paired samples t test for pre- and post-treatment comparisons. P ≤ 0.05 was considered statistically significant. RESULTS: The 8-week treatment was completed by 189 women. The mean baseline psychological score did not differ among the two groups. After intervention, the psychological score, however, differed significantly among groups (P < 0.01). To distinguish the effect of evening primrose oil, we compared the reduction in the psychological score in each group. Regarding mean differences of the psychological score in both groups, there was a prominent alleviation in the intervention group mean difference: -3.44 (95% confidence interval of difference: -4.01 to -1.20) (P < 0.01). In addition, only one patient reported gastric upset in the intervention group. CONCLUSIONS: This study could provide evidence regarding the potential benefits of evening primrose oil for the psychological symptoms of postmenopausal women. Longer trials are necessary to make more reliable decisions about the use of evening primrose oil and its safety in clinical practice.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Impact of evening primrose oil consumption on psychological symptoms of postmenopausal women: a randomized double-blinded placebo-controlled clinical trial",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Menopause"
+   ]
+  },
+  {
    "ref_id": "REF-2857",
    "key": "grabarska2020imperatorin",
    "type": "article",
@@ -41375,6 +42460,38 @@
     "Antimicrobial"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3691",
+   "key": "fernandes2020oliveoilinflammation",
+   "type": "article",
+   "title": "Is olive oil good for you? A systematic review and meta-analysis on anti-inflammatory benefits from regular dietary intake",
+   "authors": "Fernandes, J., Fialho, M., Santos, R., Peixoto-Plácido, C., Madeira, T., Sousa-Santos, N., Virgolino, A., Santos, O. and Vaz Carneiro, A.",
+   "journal": "Nutrition",
+   "year": "2020",
+   "doi": "10.1016/j.nut.2019.110559",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.nut.2019.110559",
+   "link_type": "doi",
+   "citation": "Fernandes, J., Fialho, M., Santos, R., Peixoto-Plácido, C., Madeira, T., Sousa-Santos, N., Virgolino, A., Santos, O. and Vaz Carneiro, A (2020) 'Is olive oil good for you? A systematic review and meta-analysis on anti-inflammatory benefits from regular dietary intake', Nutrition, 69, pp. 110559. doi:10.1016/j.nut.2019.110559",
+   "abstract": "The prevalence of non-communicable diseases is rapidly increasing, and evidence shows that diet and lifestyle are key areas of intervention to decrease their burden. Olive oil is considered one of the key nutritional components responsible for the benefits of the Mediterranean diet, which is characterized by the use of olive oil in meals as the main source of fat; a high consumption of water, fruits, nuts, vegetables, legumes, whole grains, spices, and herbs; a moderate consumption of dairy products (mainly cheese and yogurt), fish, poultry, and red wine; and a reduced consumption of red meat and processed foods. The aim of this review was to summarize evidence from randomized controlled trials on the effect of regular dietary intake of olive oil on three inflammatory markers: C-reactive protein, interleukin-6, and tumor necrosis factor-α. Reviewed RCTs reveal beneficial effects of olive oil by reducing levels of inflammation markers. Olive oil taken on a regular basis can be a good dietary fat alternative, especially to manage IL-6. However, further research is required to clarify the effects of olive oil consumption on inflammation, comparing to other fats. Moreover, olive oil daily dosage, different time-lenght intervention and follow-up periods should be taken into consideration.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Is olive oil good for you? A systematic review and meta-analysis on anti-inflammatory benefits from regular dietary intake",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Inflammation (general)"
+   ]
   },
   {
    "ref_id": "REF-0838",
@@ -44281,6 +45398,41 @@
     "Hepatoprotective (liver support)"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3700",
+   "key": "he2020nigellaasthma",
+   "type": "article",
+   "title": "The influence of Nigella sativa for asthma control: A meta-analysis",
+   "authors": "He, T. and Xu, X.",
+   "journal": "The American Journal of Emergency Medicine",
+   "year": "2020",
+   "doi": "10.1016/j.ajem.2019.11.036",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ajem.2019.11.036",
+   "link_type": "doi",
+   "citation": "He, T. and Xu, X (2020) 'The influence of Nigella sativa for asthma control: A meta-analysis', The American Journal of Emergency Medicine, 38(3), pp. 589--593. doi:10.1016/j.ajem.2019.11.036",
+   "abstract": "INTRODUCTION: The efficacy of Nigella sativa supplementation for asthma control remains controversial. We conduct a systematic review and meta-analysis to explore the influence of Nigella sativa supplementation on asthma control. METHODS: We search PubMed, EMbase, Web of science, EBSCO, and Cochrane library databases through June 2019 for randomized controlled trials (RCTs) assessing the efficacy of Nigella sativa supplementation for asthma control. This meta-analysis is performed using the random-effect model. RESULTS: Four RCTs are included in the meta-analysis. Overall, compared with control group for asthma, Nigella sativa supplementation is associated with increased ACT scores (Std. MD = 0.50; 95% CI = 0.11 to 0.88; P = 0.01), FEV1 (Std. MD = 1.84; 95% CI = 0.07 to 3.60; P = 0.04), but demonstrates no obvious impact on PEF (Std. MD = 3.11; 95% CI = -1.30 to 7.52; P = 0.17), IL-4 (Std. MD = -0.31; 95% CI = -1.21 to 0.59; P = 0.50), or IFN-γ (Std. MD = 1.11; 95% CI = -0.44 to 2.67; P = 0.16). CONCLUSIONS: Nigella sativa supplementation may provide additional benefits for the treatment of asthma.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The influence of Nigella sativa for asthma control: A meta-analysis",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Asthma"
+   ]
   },
   {
    "ref_id": "REF-1766",
@@ -48143,6 +49295,39 @@
    ]
   },
   {
+   "ref_id": "REF-3671",
+   "key": "peter2019momordicama2019",
+   "type": "article",
+   "title": "Momordica charantia L. lowers elevated glycaemia in type 2 diabetes mellitus patients: Systematic review and meta-analysis",
+   "authors": "Peter, E.L., Kasali, F.M., Deyno, S., Mtewa, A., Nagendrappa, P.B., Tolo, C.U., Ogwang, P.E. and Sesaazi, D.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2019",
+   "doi": "10.1016/j.jep.2018.10.033",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2018.10.033",
+   "link_type": "doi",
+   "citation": "Peter, E.L., Kasali, F.M., Deyno, S., Mtewa, A., Nagendrappa, P.B., Tolo, C.U., Ogwang, P.E. and Sesaazi, D (2019) 'Momordica charantia L. lowers elevated glycaemia in type 2 diabetes mellitus patients: Systematic review and meta-analysis', Journal of Ethnopharmacology, 231, pp. 311--324. doi:10.1016/j.jep.2018.10.033",
+   "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Momordica charantia Linnaeus (Cucurbitaceae) has been extensively used traditionally as food and herbal medicine for type 2 diabetes mellitus in Asia, Brazil, and east Africa. In vitro and in vivo studies suggest its glycemic control potential; however, clinical studies produced conflicting results. AIM OF THE STUDY: To evaluate the efficacy of M. charantia preparations in lowering elevated plasma glucose level in prediabetes and type 2 diabetes mellitus patients. METHODS: Electronic search of the Cochrane library, PubMed®, CINAHL, and SCOPUS databases was done from 1st January 1960-30th April 2018 without language restriction. Two independent reviewers extracted data and assessed risk of bias of articles. Revman var. 5.3 software was used for data synthesis in meta-analysis. Heterogeneity was assessed using Chi-square and I2 tests. Treatment effect was estimated using mean difference at follow up in outcome measures between M. charantia preparations and placebo or oral hypoglycemic agents control group. The protocol of this study has a registration number PROSPERO CRD42018083653. RESULTS: Ten studies of type 2 diabetes mellitus (n = 1045) were included in the meta-analysis. They had 4-16 weeks follow up and overall moderate to high risk of bias. Compared to placebo, M. charantia monoherbal formulation significantly reduces FPG, PPG and HBA1c with mean difference of - 0.72 mmol/L, (95% CI: -1.33, -0.12), I2 = 14%, - 1.43 mmol/L, (95% CI: -2.18, -0.67), I2 = 0, - 0.26%, (95% CI: -0.49, -0.03), I2 = 0 respectively. M. charantia also lowered FPG in prediabetes (mean difference -0.31 mmol/L, n = 52); the evidence was downgraded to low quality because the study had unclear risk of bias and inadequate sample size. No serious adverse effects were reported. CONCLUSION: M. charantia adjunct preparations improved glycemic control in T2DM patients. However, this conclusion is based on low to very low quality evidences for the primary outcomes and sparse data for several safety outcomes, thus, warrant further research. Particularly needed are the researches that focus on standardizing M. charantia formulation and determine its efficacy and safety in clinical trials with adequate sample size, designed with random sequence generation, allocation concealment of intervention and blinding of both research personnel and participants.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Momordica charantia L. lowers elevated glycaemia in type 2 diabetes mellitus patients: Systematic review and meta-analysis",
+   "plants": [
+    "Balsam pear",
+    "Bitter Melon",
+    "Bitter gourd",
+    "Karela"
+   ],
+   "scientific": [
+    "Momordica charantia"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
+  },
+  {
    "ref_id": "REF-3642",
    "key": "zhang2019lentinanchina",
    "type": "article",
@@ -49715,6 +50900,38 @@
    ]
   },
   {
+   "ref_id": "REF-3695",
+   "key": "george2019evoopolyphenolcv",
+   "type": "article",
+   "title": "The effect of high-polyphenol extra virgin olive oil on cardiovascular risk factors: A systematic review and meta-analysis",
+   "authors": "George, E.S., Marshall, S., Mayr, H.L., Trakman, G.L., Tatucu-Babet, O.A., Lassemillante, A.M., Bramley, A., Reddy, A.J., Forsyth, A., Tierney, A.C., Thomas, C.J., Itsiopoulos, C. and Marx, W.",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2019",
+   "doi": "10.1080/10408398.2018.1470491",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2018.1470491",
+   "link_type": "doi",
+   "citation": "George, E.S., Marshall, S., Mayr, H.L., Trakman, G.L., Tatucu-Babet, O.A., Lassemillante, A.M., Bramley, A., Reddy, A.J., Forsyth, A., Tierney, A.C., Thomas, C.J., Itsiopoulos, C. and Marx, W (2019) 'The effect of high-polyphenol extra virgin olive oil on cardiovascular risk factors: A systematic review and meta-analysis', Critical Reviews in Food Science and Nutrition, 59(17), pp. 2772--2795. doi:10.1080/10408398.2018.1470491",
+   "abstract": "The polyphenol fraction of extra-virgin olive oil may be partly responsible for its cardioprotective effects. The aim of this systematic review and meta-analysis was to evaluate the effect of high versus low polyphenol olive oil on cardiovascular disease (CVD) risk factors in clinical trials. In accordance with PRISMA guidelines, CINAHL, PubMed, Embase and Cochrane databases were systematically searched for relevant studies. Randomized controlled trials that investigated markers of CVD risk (e.g. outcomes related to cholesterol, inflammation, oxidative stress) were included. Risk of bias was assessed using the Jadad scale. A meta-analysis was conducted using clinical trial data with available CVD risk outcomes. Twenty-six studies were included. Compared to low polyphenol olive oil, high polyphenol olive oil significantly improved measures of malondialdehyde (MD: -0.07µmol/L [95%CI: -0.12, -0.02µmol/L]; I2: 88%; p = 0.004), oxidized LDL (SMD: -0.44 [95%CI: -0.78, -0.10µmol/L]; I2: 41%; P = 0.01), total cholesterol (MD 4.5 mg/dL [95%CI: -6.54, -2.39 mg/dL]; p<0.0001) and HDL cholesterol (MD 2.37 mg/dL [95%CI: 0.41, 5.04 mg/dL]; p = 0.02). Subgroup analyses and individual studies reported additional improvements in inflammatory markers and blood pressure. Most studies were rated as having low-to-moderate risk of bias. High polyphenol oils confer some CVD-risk reduction benefits; however, further studies with longer duration and in non-Mediterranean populations are required.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of high-polyphenol extra virgin olive oil on cardiovascular risk factors: A systematic review and meta-analysis",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-3598",
    "key": "eatemadnia2019hypericummenopause",
    "type": "article",
@@ -49871,6 +51088,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3661",
+   "key": "alammar2019peppermintibs2019",
+   "type": "article",
+   "title": "The impact of peppermint oil on the irritable bowel syndrome: a meta-analysis of the pooled clinical data",
+   "authors": "Alammar, N., Wang, L., Saberi, B., Nanavati, J., Holtmann, G., Shinohara, R.T. and Mullin, G.E.",
+   "journal": "BMC Complementary and Alternative Medicine",
+   "year": "2019",
+   "doi": "10.1186/s12906-018-2409-0",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-018-2409-0",
+   "link_type": "doi",
+   "citation": "Alammar, N., Wang, L., Saberi, B., Nanavati, J., Holtmann, G., Shinohara, R.T. and Mullin, G.E (2019) 'The impact of peppermint oil on the irritable bowel syndrome: a meta-analysis of the pooled clinical data', BMC Complementary and Alternative Medicine, 19(1), pp. 21. doi:10.1186/s12906-018-2409-0",
+   "abstract": "BACKGROUND: Peppermint oil (PO) has intrinsic properties that may benefit patients with irritable bowel syndrome (IBS) symptoms. The study objective was to determine the effect of peppermint oil in the treatment of the IBS. METHODS: We systematically searched MEDLINE (PubMed), Cochrane Central Register of Controlled Trials (Cochrane CENTRAL), ClinicalTrials.gov, EMBASE (Ovid), and Web of Science for randomized controlled trials (RCTs) of PO for IBS. We appraised the eligible studies by the Cochrane risk of bias tool. We performed random-effects meta-analysis on primary outcomes including global improvement in IBS symptoms and abdominal pain. A PRISMA-compliant study protocol is registered in PROSPERO Register [2016, CRD42016050917]. RESULTS: Twelve randomized trials with 835 patients were included. For global symptom improvement, the risk ratio (RR) from seven RCTs for the effect of PO (n = 253) versus placebo (n = 254) on global symptoms was 2.39 [95% confidence interval (CI): 1.93, 2.97], I2 = 0%, z = 7.93 (p < 0.00001). Regarding abdominal pain, the RR from six RCTs for the effect of PO (n = 278) versus placebo (n = 278) was 1.78 [95% CI: 1.43, 2.20], I2 = 0%, z = 5.23 (p < 0.00001). Overall, there were no differences in the reported adverse effects: PO (32 events, 344 total, 9.3%) versus placebo (20 events, 327 total, 6.1%) for eight RCTs; RR 1.40 [95% CI: 0.87, 2.26] I2 = 0%, z = 1.39 (p = 0.16). The number needed to treat with PO to prevent one patient from having persistent symptoms was three for global symptoms and four for abdominal pain. CONCLUSIONS: In the most comprehensive meta-analysis to date, PO was shown to be a safe and effective therapy for pain and global symptoms in adults with IBS.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The impact of peppermint oil on the irritable bowel syndrome: a meta-analysis of the pooled clinical data",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": [
+    "Irritable bowel syndrome (IBS)"
+   ]
   },
   {
    "ref_id": "REF-2973",
@@ -54616,7 +55865,12 @@
     "Melissa officinalis"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Anxiety",
+    "Insomnia / sleeplessness",
+    "Low mood / depression",
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-1218",
@@ -57867,7 +59121,7 @@
    "link_type": "doi",
    "citation": "Ayaz, M. and Sadiq, A. and Junaid, M. and Ullah, F. and Subhan, F. and Ahmed, J (2017) 'Neuroprotective and Anti-Aging Potentials of Essential Oils from Aromatic and Medicinal Plants', Frontiers in Aging Neuroscience. doi:10.3389/fnagi.2017.00168",
    "abstract": "The use of essential oils (EOs) and their components is known since long in traditional medicine and aromatherapy for the management of various diseases, and is further increased in the recent times. The neuroprotective and anti-aging potentials of EOs and their possible mechanism of actions were evaluated by numerous researchers around the globe. Several clinically important EOs and their components from Nigella sativa, Acorus gramineus, Lavandula angustifolia, Eucalyptus globulus, Mentha piperita, Rosmarinus officinalis, Jasminum sambac,Piper nigrum and so many other plants are reported for neuroprotective effects. This review was aimed to summarize the current finding on EOs tested against neurodegenerative disorders like Alzheimer disease (AD) and dementia. The effects of EOs on pathological targets of AD and dementia including amyloid deposition (Aβ), neurofibrillary tangles (NFTs), cholinergic hypofunction, oxidative stress and glutametergic abnormalities were focused. Furthermore, effects of EOs on other neurological disorders including anxiety, depression, cognitive hypofunction epilepsy and convulsions were also evaluated in detail. In conclusion, EOs were effective on several pathological targets and have improved cognitive performance in animal models and human subjects. Thus, EOs can be developed as multi-potent agents against neurological disorders with better efficacy, safety and cost effectiveness.",
-   "tier": "clinical",
+   "tier": "narrative",
    "corpus": [
     "clinical"
    ],
@@ -57953,7 +59207,10 @@
     "Trigonella foenum-graecum"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "High cholesterol"
+   ]
   },
   {
    "ref_id": "REF-1994",
@@ -59811,7 +61068,9 @@
     "Olea europaea"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "High blood pressure"
+   ]
   },
   {
    "ref_id": "REF-0577",
@@ -62135,6 +63394,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3659",
+   "key": "jandaghi2016melissahyperlipidemia",
+   "type": "article",
+   "title": "Lemon balm: A promising herbal therapy for patients with borderline hyperlipidemia-A randomized double-blind placebo-controlled clinical trial",
+   "authors": "Jandaghi, P., Noroozi, M., Ardalani, H. and Alipour, M.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2016",
+   "doi": "10.1016/j.ctim.2016.03.012",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2016.03.012",
+   "link_type": "doi",
+   "citation": "Jandaghi, P., Noroozi, M., Ardalani, H. and Alipour, M (2016) 'Lemon balm: A promising herbal therapy for patients with borderline hyperlipidemia-A randomized double-blind placebo-controlled clinical trial', Complementary Therapies in Medicine, 26, pp. 136--40. doi:10.1016/j.ctim.2016.03.012",
+   "abstract": "OBJECTIVE: Melissa officinalis is a perennial herb from the Lamiaceae family which has shown to have modulating effects on serum lipid profile. The aim of the current study is to explore the effects of M. officinalis supplementation on serum biochemical parameters of patients with borderline hyperlipidemia. METHODS: 58 hyperlipidemic patients were allocated randomly to 2 groups: first group received capsules containing 1000mg M. officinalis leaf powder (MO group), and the second group received placebo capsules (P group) 3 times per day for 2 months. Fasting blood glucose (FBG), HDL, LDL, Triglyceride, Creatinine and liver function enzymes including AST and ALT were evaluated before and after study. RESULTS: The mean of LDL in MO group significantly decreased compared with P group after the supplementation (P=0.02). Although the level of Cholesterol, FBG, HDL, Triglyceride, Creatinine and ALT did not show significant difference between two groups after 2 months (P≥0.05), the level of AST exhibited a significant difference between two groups (P=0.009). CONCLUSIONS: Our findings demonstrated that M. officinalis supplementation as a rich source of antioxidants and bioactive compounds can be effective in remission of LDL and AST levels in patients with borderline hyperlipidemia.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Lemon balm: A promising herbal therapy for patients with borderline hyperlipidemia-A randomized double-blind placebo-controlled clinical trial",
+   "plants": [
+    "Lemon balm",
+    "bee balm",
+    "sweet balm"
+   ],
+   "scientific": [
+    "Melissa officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "High cholesterol"
+   ]
   },
   {
    "ref_id": "REF-1155",
@@ -70914,6 +72205,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3662",
+   "key": "khanna2014peppermintibs2014",
+   "type": "article",
+   "title": "Peppermint oil for the treatment of irritable bowel syndrome: a systematic review and meta-analysis",
+   "authors": "Khanna, R., MacDonald, J.K. and Levesque, B.G.",
+   "journal": "Journal of Clinical Gastroenterology",
+   "year": "2014",
+   "doi": "10.1097/MCG.0b013e3182a88357",
+   "url": "",
+   "link": "https://doi.org/10.1097/MCG.0b013e3182a88357",
+   "link_type": "doi",
+   "citation": "Khanna, R., MacDonald, J.K. and Levesque, B.G (2014) 'Peppermint oil for the treatment of irritable bowel syndrome: a systematic review and meta-analysis', Journal of Clinical Gastroenterology, 48(6), pp. 505--12. doi:10.1097/MCG.0b013e3182a88357",
+   "abstract": "GOALS: The aim of this study was to assess the efficacy and safety of enteric-coated peppermint oil capsules compared with placebo for the treatment of active irritable bowel syndrome (IBS). BACKGROUND: IBS is a common disorder that is often encountered in clinical practice. Medical interventions are limited and the focus is on symptom control. STUDY: Randomized placebo-controlled trials with a minimum treatment duration of 2 weeks were considered for inclusion. Cross-over studies that provided outcome data before the first cross-over were included. A literature search upto February 2013 identified all applicable randomized-controlled trials. Study quality was evaluated using the Cochrane risk of bias tool. Outcomes included global improvement of IBS symptoms, improvement in abdominal pain, and adverse events. Outcomes were analyzed using an intention-to-treat approach. RESULTS: Nine studies that evaluated 726 patients were identified. The risk of bias was low for most of the factors assessed. Peppermint oil was found to be significantly superior to placebo for global improvement of IBS symptoms (5 studies, 392 patients, relative risk 2.23; 95% confidence interval, 1.78-2.81) and improvement in abdominal pain (5 studies, 357 patients, relative risk 2.14; 95% confidence interval, 1.64-2.79). Although peppermint oil patients were significantly more likely to experience an adverse event, such events were mild and transient in nature. The most commonly reported adverse event was heartburn. CONCLUSIONS: Peppermint oil is a safe and effective short-term treatment for IBS. Future studies should assess the long-term efficacy and safety of peppermint oil and its efficacy relative to other IBS treatments including antidepressants and antispasmodic drugs.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Peppermint oil for the treatment of irritable bowel syndrome: a systematic review and meta-analysis",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": [
+    "Irritable bowel syndrome (IBS)"
+   ]
+  },
+  {
    "ref_id": "REF-2143",
    "key": "khan2014capsicum",
    "type": "article",
@@ -71992,20 +73315,24 @@
     "Common witch hazel",
     "Coriander",
     "German chamomile",
+    "Lemon balm",
     "Scented Mayweed",
     "Snapping hazelnut",
     "Winterbloom",
     "Witch Hazel",
+    "bee balm",
     "blue chamomile",
     "cilantro",
     "dhania/dhanya",
     "pak chee",
+    "sweet balm",
     "wild chamomile"
    ],
    "scientific": [
     "Coriandrum sativum",
     "Hamamelis virginiana",
-    "Matricaria chamomilla"
+    "Matricaria chamomilla",
+    "Melissa officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -73048,7 +74375,8 @@
    "conditions": [
     "Bloating",
     "Indigestion",
-    "Insomnia / sleeplessness"
+    "Insomnia / sleeplessness",
+    "Stress"
    ]
   },
   {
@@ -75140,6 +76468,39 @@
    "actions": [],
    "conditions": [
     "Migraine"
+   ]
+  },
+  {
+   "ref_id": "REF-3683",
+   "key": "farzaneh2013epohotflashes",
+   "type": "article",
+   "title": "The effect of oral evening primrose oil on menopausal hot flashes: a randomized clinical trial",
+   "authors": "Farzaneh, F., Fatehi, S., Sohrabi, M.R. and Alizadeh, K.",
+   "journal": "Archives of Gynecology and Obstetrics",
+   "year": "2013",
+   "doi": "10.1007/s00404-013-2852-6",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00404-013-2852-6",
+   "link_type": "doi",
+   "citation": "Farzaneh, F., Fatehi, S., Sohrabi, M.R. and Alizadeh, K (2013) 'The effect of oral evening primrose oil on menopausal hot flashes: a randomized clinical trial', Archives of Gynecology and Obstetrics, 288(5), pp. 1075--9. doi:10.1007/s00404-013-2852-6",
+   "abstract": "PURPOSE: Hot flashes are common experience for menopausal women, and for many, are severe enough to significantly compromise their overall sense of well being and quality of life. The aim of this study was to compare the efficacy of evening primrose with placebo in improvement of menopausal hot flashes. METHODS: In a 6-week randomized clinical trial, a total of 56 menopausal women aged 45-59 years were participated in this study. The patients were asked for their hot flashes characteristics and responded to HFRDIS (hot flash related daily interference scale) questionnaire before and after the intervention. The participants were randomly assigned to take two capsules per day (totally 90 capsules for 6 weeks) of placebo or evening primrose (500 mg) for continuous 6 weeks. Then, the improvement in hot flashes was compared between two groups. RESULTS: The percent of improvement in hot flash frequency, severity and duration were 39, 42 and 19 %, in evening primrose group compared with 32, 32 and 18 % in placebo group, respectively. Although all three characters of hot flash was ameliorated in evening primrose arm, only its severity was significantly better in this arm compared with placebo group (P < 0.05). All HFRDIS score were significantly improved in two groups, but the percentage of improvement in social activities, relations with others, and sexuality was significantly superior to placebo group (P < 0.05). CONCLUSIONS: The application of oral evening primrose oil compared with placebo for controlling hot flashes may decrease more the intensity of attacks as well as ameliorating the HFRDIS score.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of oral evening primrose oil on menopausal hot flashes: a randomized clinical trial",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes"
    ]
   },
   {
@@ -77478,6 +78839,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3676",
+   "key": "wang2012nonismokerslipids",
+   "type": "article",
+   "title": "Noni juice improves serum lipid profiles and other risk markers in cigarette smokers",
+   "authors": "Wang, M.Y., Peng, L., Weidenbacher-Hoper, V., Deng, S., Anderson, G. and West, B.J.",
+   "journal": "TheScientificWorldJournal",
+   "year": "2012",
+   "doi": "10.1100/2012/594657",
+   "url": "",
+   "link": "https://doi.org/10.1100/2012/594657",
+   "link_type": "doi",
+   "citation": "Wang, M.Y., Peng, L., Weidenbacher-Hoper, V., Deng, S., Anderson, G. and West, B.J (2012) 'Noni juice improves serum lipid profiles and other risk markers in cigarette smokers', TheScientificWorldJournal, 2012, pp. 594657. doi:10.1100/2012/594657",
+   "abstract": "Cigarette smoke-induced oxidative stress leads to dyslipidemia and systemic inflammation. Morinda citrifolia (noni) fruit juice has been found previously to have a significant antioxidant activity. One hundred thirty-two adult heavy smokers completed a randomized, double blind, placebo-controlled clinical trial designed to investigate the effect of noni juice on serum cholesterol, triglyceride, low density lipoprotein cholesterol (LDL), high density lipoprotein cholesterol (HDL), high-sensitivity C-reactive protein (hs-CRP), and homocysteine. Volunteers drank noni juice or a fruit juice placebo daily for one month. Drinking 29.5 mL to 188 mL of noni juice per day significantly reduced cholesterol levels, triglycerides, and hs-CRP. Decreases in LDL and homocysteine, as well increases in HDL, were also observed among noni juice drinkers. The placebo, which was devoid of iridoid glycosides, did not significantly influence blood lipid profiles or hs-CRP. Noni juice was able to mitigate cigarette smoke-induced dyslipidemia, an activity associated with the presence of iridoids.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Noni juice improves serum lipid profiles and other risk markers in cigarette smokers",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [],
+   "conditions": [
+    "High cholesterol"
+   ]
+  },
+  {
    "ref_id": "REF-2297",
    "key": "ramstead2012epilobium",
    "type": "article",
@@ -77536,10 +78929,7 @@
    ],
    "actions": [
     "Anti-inflammatory",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antiviral"
+    "Antioxidant"
    ],
    "conditions": [
     "Arthritis / joint pain",
@@ -77574,11 +78964,7 @@
     "Olea europaea"
    ],
    "actions": [
-    "Anti-inflammatory",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antiviral"
+    "Antidiabetic (blood-sugar lowering)"
    ],
    "conditions": [
     "Blood sugar / diabetes support",
@@ -82003,6 +83389,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3677",
+   "key": "prapaitrakool2010noniponv",
+   "type": "article",
+   "title": "Morinda citrifolia Linn. for prevention of postoperative nausea and vomiting",
+   "authors": "Prapaitrakool, S. and Itharat, A.",
+   "journal": "Journal of the Medical Association of Thailand = Chotmaihet Thangphaet",
+   "year": "2010",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Morinda%20citrifolia%20Linn.%20for%20prevention%20of%20postoperative%20nausea%20and%20vomiting",
+   "link_type": "search",
+   "citation": "Prapaitrakool, S. and Itharat, A (2010) 'Morinda citrifolia Linn. for prevention of postoperative nausea and vomiting', Journal of the Medical Association of Thailand = Chotmaihet Thangphaet, 93 Suppl 7, pp. S204--9.",
+   "abstract": "OBJECTIVE: To be a preliminary, prospective, randomized double blinded, placebo-controlled trial to evaluate the efficacy of Morinda citrifolia Linn or noni for the prevention of postoperative nausea and vomiting (PONV) in patients considered high risk for PONV after various types of surgery. MATERIAL AND METHOD: The plant extract was prepared by boiling of dried noni fruit (maturity stage 3-4) then evaporated under standard procedure and processed into capsules. The doses were 150 mg, 300 mg and 600 mg which are equivalent to 5, 10 and 20 g of dried noni fruit, respectively. One hundred patients of ASA physical status I or II, aged 18-65 years, and considered at risk for PONV, were randomized to receive 150, 300, 600 mg of noni extract or a placebo orally 1 hours before surgery. Standard general anesthetic technique and postoperative analgesia were employed. RESULTS: Significantly fewer patients who had received the 600 mg noni extract experienced nausea during the first 6 hours compared to the placebo group (48% for the 600 mg noni group and 80% for the placebo group, p-value = 0.04). The incidence of PONV in other time periods was not statistically different for all three noni doses compared to the placebo group. No side effects were reported in all groups. CONCLUSION: Morinda citrifolia Linn. has an antiemetic property and prophylactic noni extract at 600 mg (equivalent to 20g of dried noni fruit or scopoletin 8.712 microg) effectively reduces the incidence of early postoperative nausea (0-6 hours).",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Morinda citrifolia Linn. for prevention of postoperative nausea and vomiting",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [],
+   "conditions": [
+    "Nausea"
+   ]
+  },
+  {
    "ref_id": "REF-1827",
    "key": "kim2010cassia",
    "type": "article",
@@ -82600,6 +84018,39 @@
    "scientific": [],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3686",
+   "key": "pruthi2010epomastalgiapilot",
+   "type": "article",
+   "title": "Vitamin E and evening primrose oil for management of cyclical mastalgia: a randomized pilot study",
+   "authors": "Pruthi, S., Wahner-Roedler, D.L., Torkelson, C.J., Cha, S.S., Thicke, L.S., Hazelton, J.H. and Bauer, B.A.",
+   "journal": "Alternative Medicine Review",
+   "year": "2010",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Vitamin%20E%20and%20evening%20primrose%20oil%20for%20management%20of%20cyclical%20mastalgia%3A%20a%20randomized%20pilot%20study",
+   "link_type": "search",
+   "citation": "Pruthi, S., Wahner-Roedler, D.L., Torkelson, C.J., Cha, S.S., Thicke, L.S., Hazelton, J.H. and Bauer, B.A (2010) 'Vitamin E and evening primrose oil for management of cyclical mastalgia: a randomized pilot study', Alternative Medicine Review, 15(1), pp. 59--67.",
+   "abstract": "OBJECTIVE: To evaluate the effectiveness of vitamin E, evening primrose oil (EPO), and the combination of vitamin E and EPO for pain control in women with cyclical mastalgia. PROCEDURE: A double-blind, randomized, placebo-controlled trial was conducted at two U.S. academic medical centers. Eighty-five women with premenstrual cyclical breast discomfort were enrolled. Participants were randomly assigned to one of four six-month oral treatments: vitamin E (1,200 IU per day), EPO (3,000 mg per day), vitamin E (1,200 IU per day) plus EPO (3,000 mg per day), or double placebo. The primary outcome measure was change in breast pain, measured by the modified McGill Pain Questionnaire at enrollment and at six months. RESULTS: Forty-one patients completed the study. Intent-to-treat analysis (pretesting and post testing) showed a difference in worst-pain improvement with the treatments EPO (p=0.005), vitamin E (p=0.04), and EPO plus vitamin E (p=0.05), but no difference with placebo (p=0.93). Results from two-sample t-test showed a nonsignificant decrease in cyclical mastalgia individually for the three treatment groups compared with the placebo group (EPO, p=0.18; vitamin E, p=0.10; and EPO plus vitamin E, p=0.16). The data were also analyzed with the separation test by Aickin, which showed a trend toward a reduction of cyclical mastalgia with vitamin E and EPO individually and in combination. CONCLUSION: Daily doses of 1,200 IU vitamin E, 3,000 mg EPO, or vitamin E and EPO in combination at these same dosages taken for six months may decrease the severity of cyclical mastalgia.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Vitamin E and evening primrose oil for management of cyclical mastalgia: a randomized pilot study",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Pain (general)"
+   ]
   },
   {
    "ref_id": "REF-3448",
@@ -83239,10 +84690,7 @@
     "Nepeta cataria"
    ],
    "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Digestive aid",
-    "Sedative / sleep support"
+    "Digestive aid"
    ],
    "conditions": [
     "Respiratory support"
@@ -84225,38 +85673,6 @@
    ],
    "actions": [
     "Digestive aid"
-   ],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-3028",
-   "key": "anon2009radical",
-   "type": "article",
-   "title": "Radical scavenger and Antioxidant activities of extracts and fractions from Bulgarian Ononis spinosa L. and GC-MS analysis of Ethanol extract",
-   "authors": "",
-   "journal": "The Internet Journal of Alternative Medicine",
-   "year": "2009",
-   "doi": "10.5580/121d",
-   "url": "",
-   "link": "https://doi.org/10.5580/121d",
-   "link_type": "doi",
-   "citation": "(2009) 'Radical scavenger and Antioxidant activities of extracts and fractions from Bulgarian Ononis spinosa L. and GC-MS analysis of Ethanol extract', The Internet Journal of Alternative Medicine. doi:10.5580/121d",
-   "abstract": "Extracts and fractions from Ononis spinosa roots were investigated for their radical scavenging activity using two different in vitro assays, 1,1-diphenyl-2-picrylhydrazyl free radical (DPPH) and 2, 2’-azino-bis (3-ethylbenzothiazoline-6-sulfonic acid) (ABTS). The antioxidant potential measurements were expressed as Trolox equivalent antioxidant capacity (TEAC). The chloroform fraction possessed the highest radical scavenging activity (RSA) in both assays, DPPH (0.235 mmol g) and ABTS (0.264 mmol g). Total phenolic content was also determined using Folin–Ciocalteu reagent. The greatest total phenolic content was detected in the EtOAc and CHCl3 fractions from EtOH extract (108.7 mg/g GAE and 102.1 mg/g GAE, respectively). A correlation between radical scavenging capacities of samples with total phenolic compound content was not observed. GC-MS analysis of CHCl3 fraction showed that the triterpene 9, 19-cyclo-27-lanostan-25-on was the major constituent (13.17%), followed by s-sitosterol (9.61%), medicarpin (9.4%), maackiain (8.01%) and linolic acid (7.98%).",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Radical scavenger and Antioxidant activities of extracts and fractions from Bulgarian Ononis spinosa L. and GC-MS analysis of Ethanol extract",
-   "plants": [
-    "Field restharrow",
-    "cammock",
-    "restharrow"
-   ],
-   "scientific": [
-    "Ononis arvensis"
-   ],
-   "actions": [
-    "Antioxidant"
    ],
    "conditions": []
   },
@@ -85358,6 +86774,38 @@
    ]
   },
   {
+   "ref_id": "REF-3663",
+   "key": "ford2008fordibs2008",
+   "type": "article",
+   "title": "Effect of fibre, antispasmodics, and peppermint oil in the treatment of irritable bowel syndrome: systematic review and meta-analysis",
+   "authors": "Ford, A.C., Talley, N.J., Spiegel, B.M., Foxx-Orenstein, A.E., Schiller, L., Quigley, E.M. and Moayyedi, P.",
+   "journal": "BMJ",
+   "year": "2008",
+   "doi": "10.1136/bmj.a2313",
+   "url": "",
+   "link": "https://doi.org/10.1136/bmj.a2313",
+   "link_type": "doi",
+   "citation": "Ford, A.C., Talley, N.J., Spiegel, B.M., Foxx-Orenstein, A.E., Schiller, L., Quigley, E.M. and Moayyedi, P (2008) 'Effect of fibre, antispasmodics, and peppermint oil in the treatment of irritable bowel syndrome: systematic review and meta-analysis', BMJ, 337, pp. a2313. doi:10.1136/bmj.a2313",
+   "abstract": "OBJECTIVE: To determine the effect of fibre, antispasmodics, and peppermint oil in the treatment of irritable bowel syndrome. DESIGN: Systematic review and meta-analysis of randomised controlled trials. DATA SOURCES: Medline, Embase, and the Cochrane controlled trials register up to April 2008. Review methods Randomised controlled trials comparing fibre, antispasmodics, and peppermint oil with placebo or no treatment in adults with irritable bowel syndrome were eligible for inclusion. The minimum duration of therapy considered was one week, and studies had to report either a global assessment of cure or improvement in symptoms, or cure of or improvement in abdominal pain, after treatment. A random effects model was used to pool data on symptoms, and the effect of therapy compared with placebo or no treatment was reported as the relative risk (95% confidence interval) of symptoms persisting. RESULTS: 12 studies compared fibre with placebo or no treatment in 591 patients (relative risk of persistent symptoms 0.87, 95% confidence interval 0.76 to 1.00). This effect was limited to ispaghula (0.78, 0.63 to 0.96). Twenty two trials compared antispasmodics with placebo in 1778 patients (0.68, 0.57 to 0.81). Various antispasmodics were studied, but otilonium (four trials, 435 patients, relative risk of persistent symptoms 0.55, 0.31 to 0.97) and hyoscine (three trials, 426 patients, 0.63, 0.51 to 0.78) showed consistent evidence of efficacy. Four trials compared peppermint oil with placebo in 392 patients (0.43, 0.32 to 0.59). CONCLUSION: Fibre, antispasmodics, and peppermint oil were all more effective than placebo in the treatment of irritable bowel syndrome.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of fibre, antispasmodics, and peppermint oil in the treatment of irritable bowel syndrome: systematic review and meta-analysis",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": [
+    "Irritable bowel syndrome (IBS)"
+   ]
+  },
+  {
    "ref_id": "REF-0740",
    "key": "calabrese2008bacopa",
    "type": "article",
@@ -85532,6 +86980,39 @@
    ],
    "conditions": [
     "Cancer (anticancer research)"
+   ]
+  },
+  {
+   "ref_id": "REF-3684",
+   "key": "senapati2008epoatopic",
+   "type": "article",
+   "title": "Evening primrose oil is effective in atopic dermatitis: a randomized placebo-controlled trial",
+   "authors": "Senapati, S., Banerjee, S. and Gangopadhyay, D.N.",
+   "journal": "Indian Journal of Dermatology, Venereology and Leprology",
+   "year": "2008",
+   "doi": "10.4103/0378-6323.42645",
+   "url": "",
+   "link": "https://doi.org/10.4103/0378-6323.42645",
+   "link_type": "doi",
+   "citation": "Senapati, S., Banerjee, S. and Gangopadhyay, D.N (2008) 'Evening primrose oil is effective in atopic dermatitis: a randomized placebo-controlled trial', Indian Journal of Dermatology, Venereology and Leprology, 74(5), pp. 447--52. doi:10.4103/0378-6323.42645",
+   "abstract": "BACKGROUND: Atopic dermatitis (AD) is a chronic, relapsing, itchy dermatosis of multifactorial origin, which commonly starts in childhood. Defective metabolism of essential fatty acids leading to relative dominance of pro-inflammatory prostaglandins (PGE2 and PGF2) has been reported as an important factor in the pathogenesis of AD. Evening primrose oil (EPO) as a source of gamma-linolenic acid (GLA) has been of interest in the management of AD. AIM: To evaluate the efficacy and safety of EPO in atopic dermatitis in our patients. METHODS: Consecutive new out-patient department (OPD) patients of a referral hospital in Kolkata clinically diagnosed as having AD were randomly allocated to two groups. To the first group, evening primrose oil was supplied as 500-mg oval clear unmarked capsules, while placebo capsules identical in appearance and containing 300 mg of sunflower oil were given to the other group. Treatment continued for a period of 5 months. With pre-designed scoring system (based on four major parameters: extent, intensity, itching, and dryness), clinical evaluation was done at baseline and subsequent monthly visits. Data of the first 25 patients from each group who completed the 5 months of trial were compiled and analyzed. RESULTS: At the end of the fifth month, 24 (96%) patients of EPO group and 8 (32%) patients of placebo group showed improvement. There was significant difference in outcome of treatment between two groups (P<0.00001). No significant adverse effect was reported by any patient/guardian at any point of assessment. CONCLUSION: Evening primrose oil is a safe and effective medicine in management of AD. However, since not all researchers across the world have found the same good result, further large trials on Indian patients are needed.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Evening primrose oil is effective in atopic dermatitis: a randomized placebo-controlled trial",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Eczema"
    ]
   },
   {
@@ -88364,15 +89845,7 @@
    "scientific": [
     "Morinda citrifolia"
    ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antiviral",
-    "Immunomodulator / immune support"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -90795,13 +92268,11 @@
    ],
    "actions": [
     "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
     "Antispasmodic",
     "Digestive aid"
    ],
    "conditions": [
+    "Irritable bowel syndrome (IBS)",
     "Pain (general)"
    ]
   },
@@ -91787,43 +93258,6 @@
    ]
   },
   {
-   "ref_id": "REF-0163",
-   "key": "mas2004fasciolosis",
-   "type": "book",
-   "title": "Fasciolosis in humans",
-   "authors": "Mas-Coma, S",
-   "journal": "",
-   "year": "2004",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Fasciolosis%20in%20humans",
-   "link_type": "search",
-   "citation": "Mas-Coma, S (2004) 'Fasciolosis in humans'.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Fasciolosis in humans",
-   "plants": [
-    "Peppermint",
-    "balm mint",
-    "brandy mint"
-   ],
-   "scientific": [
-    "Mentha × piperita"
-   ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antispasmodic",
-    "Digestive aid"
-   ],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-2182",
    "key": "christen2004ginkgo",
    "type": "article",
@@ -91949,14 +93383,7 @@
    "scientific": [
     "Mentha × piperita"
    ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antispasmodic",
-    "Digestive aid"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -92916,38 +94343,6 @@
    ],
    "actions": [
     "Antimicrobial"
-   ],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-3034",
-   "key": "coban2003antioxidant",
-   "type": "article",
-   "title": "Antioxidant Activities of Plants Used in Traditional Medicine in Turkey",
-   "authors": "Çoban, T. and Çitoğlu, G.S. and Yılmaz, B.S. and İşcan, M.",
-   "journal": "Pharmaceutical Biology",
-   "year": "2003",
-   "doi": "10.1080/13880200390501974",
-   "url": "",
-   "link": "https://doi.org/10.1080/13880200390501974",
-   "link_type": "doi",
-   "citation": "Çoban, T. and Çitoğlu, G.S. and Yılmaz, B.S. and İşcan, M (2003) 'Antioxidant Activities of Plants Used in Traditional Medicine in Turkey', Pharmaceutical Biology. doi:10.1080/13880200390501974",
-   "abstract": "Ethanol extracts from 6 species representing six different families, used in traditional medicine in Turkey were evaluated for their antioxidant activities. The inhibition of superoxide anion formation and lipid peroxidation levels of Ononis spinosa, Centranthus longiflorus, Lythrum salicaria, Plantago major, Juglans regia and Teucrium polium extracts were tested using in vitro standard procedures and IC50 values were determined. In vitro tests included superoxide anion radical scavenging activity and lipid peroxidation. All ethanol extracts of plants showed concentration-dependent superoxide anion radical scavenging activity. The results of the superoxide anion formation assay showed that the ethanol extract of Centranthus longiflorus was found to be most potent inhibitor (IC50 0.77 mg/ml) and followed by Plantago major (IC50 1.21 mg/ml), Juglans regia (IC50 1.39 mg/ml), Ononis spinosa (IC50 1.35 mg/ml), Teucrium polium (IC50 3.10 mg/ml) and Lythrum salicaria (IC50 5.00 mg/ml). All the extracts, excluding Ononis spinosa and Teucrium polium, showed concentration-dependent inhibitory effect on lipid peroxidation. IC50 values of the effective ethanol extracts of plants on lipid peroxidation were as follows: Juglans regia (IC50 3.3 mg/ml), Plantago major (IC50 3.4 mg/ml), Centranthus longiflorus (IC50 3.9 mg/ml) and Lythrum salicaria (IC50 5.3 mg/ml). The results showed that Centranthus longiflorus, Plantago major and Juglans regia extracts had the highest antioxidant capacities among the six species examined.",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Antioxidant Activities of Plants Used in Traditional Medicine in Turkey",
-   "plants": [
-    "Field restharrow",
-    "cammock",
-    "restharrow"
-   ],
-   "scientific": [
-    "Ononis arvensis"
-   ],
-   "actions": [
-    "Antioxidant"
    ],
    "conditions": []
   },
@@ -95859,11 +97254,6 @@
     "Melissa officinalis"
    ],
    "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Antispasmodic",
-    "Antiviral",
-    "Digestive aid",
     "Sedative / sleep support"
    ],
    "conditions": []
@@ -98254,12 +99644,6 @@
     "Morinda citrifolia"
    ],
    "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antiviral",
     "Immunomodulator / immune support"
    ],
    "conditions": [
@@ -99283,6 +100667,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3666",
+   "key": "gobel1996goebelpeppermintheadache",
+   "type": "article",
+   "title": "[Effectiveness of Oleum menthae piperitae and paracetamol in therapy of headache of the tension type]",
+   "authors": "Göbel, H., Fresenius, J., Heinze, A., Dworschak, M. and Soyka, D.",
+   "journal": "Der Nervenarzt",
+   "year": "1996",
+   "doi": "10.1007/s001150050040",
+   "url": "",
+   "link": "https://doi.org/10.1007/s001150050040",
+   "link_type": "doi",
+   "citation": "Göbel, H., Fresenius, J., Heinze, A., Dworschak, M. and Soyka, D (1996) '[Effectiveness of Oleum menthae piperitae and paracetamol in therapy of headache of the tension type]', Der Nervenarzt, 67(8), pp. 672--81. doi:10.1007/s001150050040",
+   "abstract": "The effect of a locally applied peppermint oil preparation on tension-type headache was examined in the design of a randomized, placebo-controlled double-blind crossover study for the first time. The preparation was tested against both the reference substance acetaminophen and to the corresponding placebo. The liquid test preparation contained 10 g of peppermint oil and ethanol (90%) ad 100 (test preparation LI 170, Lichtwer Pharma, Berlin); the placebo was a 90% ethanol solution to which traces of peppermint oil were added for blinding purposes. The reference preparation contained 500 mg acetaminophen; the placebo tablet was identical to the verum in size and appearance. The study included the analysis of 164 headache attacks of 41 patients of both sexes ranging between 18 and 65 years of age, suffering from tension-type headache in accordance with the IHS classification. Four headache episodes per patient were treated in a double-blind, randomized crossover design. Each headache attack was treated by the application of 2 capsules of the oral medication (1,000 mg of acetaminophen or placebo) and the cutaneous application of the oil preparation (peppermint oil or placebo solution). The oil was spread largely across forehead and temples which was repeated after 15 and 30 minutes. Using a headache diary, the headache parameters were assessed after 15, 30, 45 and 60 minutes. Compared to the application of placebo, a 10% peppermint oil in ethanol solution significantly reduced the clinical headache intensity already after 15 minutes (p < 0.01). This significant clinical reduction of the pain intensity continued over the one hour observation period. Acetaminophen, too, proved to be efficient compared to placebo (p < 0.01). There was no significant difference between the efficacy of 1,000 mg of acetaminophen and 10% peppermint oil in ethanol solution. Simultaneous application of 1,000 mg of acetaminophen and 10% peppermint oil in ethanol solution leads to an additive effect which remains below the significance threshold, however. The patients reported no adverse events. This controlled study showed for the first time that a 10% peppermint oil in ethanol solution efficiently alleviates tension-type headache. Peppermint oil thus proves to be a well-tolerated and cost-effective alternative to usual therapies.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "[Effectiveness of Oleum menthae piperitae and paracetamol in therapy of headache of the tension type]",
+   "plants": [
+    "Peppermint",
+    "balm mint",
+    "brandy mint"
+   ],
+   "scientific": [
+    "Mentha × piperita"
+   ],
+   "actions": [],
+   "conditions": [
+    "Headache"
+   ]
+  },
+  {
    "ref_id": "REF-2600",
    "key": "festa1996veratrum",
    "type": "article",
@@ -99378,6 +100794,37 @@
    ],
    "scientific": [
     "Eleutherococcus senticosus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3681",
+   "key": "budeiri1996epopms1996",
+   "type": "article",
+   "title": "Is evening primrose oil of value in the treatment of premenstrual syndrome?",
+   "authors": "Budeiri, D., Li Wan Po, A. and Dornan, J.C.",
+   "journal": "Controlled Clinical Trials",
+   "year": "1996",
+   "doi": "10.1016/0197-2456(95)00082-8",
+   "url": "",
+   "link": "https://doi.org/10.1016/0197-2456(95)00082-8",
+   "link_type": "doi",
+   "citation": "Budeiri, D., Li Wan Po, A. and Dornan, J.C (1996) 'Is evening primrose oil of value in the treatment of premenstrual syndrome?', Controlled Clinical Trials, 17(1), pp. 60--8. doi:10.1016/0197-2456(95)00082-8",
+   "abstract": "A systematic literature search of clinical trials of evening primrose oil (EPO) for the treatment of the premenstrual syndrome (PMS) was carried out with a view to performing a meta-analysis. Only seven placebo-controlled trials were found but only in five trials was randomization clearly indicated. Inconsistent scoring and response criteria made statistical pooling and hence a rigorous meta-analysis inappropriate. The two most well-controlled studies failed to show any beneficial effects for EPO, although because the trials were relatively small modest effects cannot be excluded. Nonetheless, on current evidence EPO is of little value in the management of premenstrual syndrome.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Is evening primrose oil of value in the treatment of premenstrual syndrome?",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
    ],
    "actions": [],
    "conditions": []
@@ -99480,6 +100927,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-3678",
+   "key": "agrawal1996holybasildiabetes",
+   "type": "article",
+   "title": "Randomized placebo-controlled, single blind trial of holy basil leaves in patients with noninsulin-dependent diabetes mellitus",
+   "authors": "Agrawal, P., Rai, V. and Singh, R.B.",
+   "journal": "International Journal of Clinical Pharmacology and Therapeutics",
+   "year": "1996",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Randomized%20placebo-controlled%2C%20single%20blind%20trial%20of%20holy%20basil%20leaves%20in%20patients%20with%20noninsulin-dependent%20diabetes%20mellitus",
+   "link_type": "search",
+   "citation": "Agrawal, P., Rai, V. and Singh, R.B (1996) 'Randomized placebo-controlled, single blind trial of holy basil leaves in patients with noninsulin-dependent diabetes mellitus', International Journal of Clinical Pharmacology and Therapeutics, 34(9), pp. 406--9.",
+   "abstract": "Experimental studies on albino rats reported that leaf extract of Ocimum sanctum and Ocimum album (holy basil) had hypoglycemic effect. To explore further evidence we studied the effects of treatment with holy basil leaves on fasting and postprandial blood glucose and serum cholesterol levels in humans through randomized, placebo-controlled, crossover single blind trial. Results indicated a significant decrease in fasting and postprandial blood glucose levels during treatment with holy basil leaves compared to during treatment with placebo leaves. Fasting blood glucose fell by 21.0 mg/dl, confidence interval of difference -31.4 - (-)11.2 (p < 0.001), and postprandial blood glucose fell by 15.8 mg/dl, confidence interval -27.0 - (-)5.6 (p < 0.02). The lower values of glucose represented reductions of 17.6% and 7.3% in the levels of fasting and postprandial blood glucose, respectively. Urine glucose levels showed similar trend. Mean total cholesterol levels showed mild reduction during basil treatment period. The findings from this study suggest that basil leaves may be prescribed as adjunct to dietary therapy and drug treatment in mild to moderate NIDDM.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Randomized placebo-controlled, single blind trial of holy basil leaves in patients with noninsulin-dependent diabetes mellitus",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
   },
   {
    "ref_id": "REF-0048",

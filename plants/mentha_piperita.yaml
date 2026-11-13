@@ -91,7 +91,6 @@ preparations:
   - REF-1206
   - REF-0004
   - REF-0100
-  - REF-0163
   status: verified
 - name: Essential oil (topical)
   text: Diluted essential oil applied to the temples and neck for tension-type headache.
@@ -108,7 +107,6 @@ dosage:
   reference_ids:
   - REF-0004
   - REF-0100
-  - REF-0163
   status: verified
 - name: Dried leaf infusion
   text: 'Traditional guidance: about 1.5-3 g dried leaf as a tea, up to three times daily for digestive
@@ -116,7 +114,6 @@ dosage:
   reference_ids:
   - REF-0004
   - REF-0100
-  - REF-0163
   status: verified
 constituents:
 - name: Essential oil (menthol, menthone)
@@ -145,17 +142,12 @@ constituents:
 actions:
 - action: analgesic
   reference_ids:
-  - REF-0004
   - REF-0100
-  - REF-0163
   - REF-1204
   - REF-1207
   status: verified
 - action: anti-inflammatory
   reference_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
   - REF-1203
   - REF-1204
   - REF-1205
@@ -163,9 +155,6 @@ actions:
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
   - REF-1203
   - REF-1204
   - REF-1205
@@ -178,9 +167,6 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
   - REF-1203
   - REF-1204
   - REF-1205
@@ -195,17 +181,13 @@ actions:
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
-  - REF-0004
   - REF-0100
-  - REF-0163
   - REF-1203
   - REF-1206
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0004
   - REF-0100
-  - REF-0163
   - REF-1203
   - REF-1204
   - REF-1206
@@ -242,102 +224,68 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0004
   - REF-0100
-  - REF-0163
   - REF-1207
 - condition: bloating
   note: inferred from digestive action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0163
   - REF-0100
 - condition: headache
-  note: inferred from analgesic action
+  note: 10% peppermint oil rubbed on the forehead and temples eased tension-type headache better than
+    placebo and as well as paracetamol in a randomized trial, and is licensed for this use in Germany
+    (review); a peppermint-oil foot bath did not help chronic headache in youth
   reference_ids:
   - REF-1207
+  - REF-3666
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0004
   - REF-0100
-  - REF-0163
+  null_result_ids:
+  - REF-3667
 - condition: indigestion
   note: inferred from digestive action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0163
   - REF-0100
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Peppermint extracts and oil were antiviral, antibacterial and antifungal in lab studies (preclinical)
   reference_ids:
   - REF-3039
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0163
   - REF-0100
 - condition: pain
   reference_ids:
   - REF-0100
+  - REF-3668
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0163
-  note: Enteric-coated peppermint oil relieved abdominal pain in irritable bowel syndrome and recurrent
-    abdominal pain (review of 16 trials)
+  note: Enteric-coated peppermint oil relieved abdominal pain in IBS (systematic review), and peppermint
+    applied to the nipples reduced breastfeeding nipple pain (meta-analysis)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0004
-  - REF-0100
-  - REF-0163
   - REF-1210
   - REF-3041
 - condition: cognitive-function
@@ -349,16 +297,35 @@ indications:
   - REF-3046
   - REF-3047
   - REF-3050
+- condition: ibs
+  note: Enteric-coated peppermint oil relieved IBS symptoms and abdominal pain vs placebo in meta-analyses
+    (certainty very low to moderate); two recent randomized trials found no significant benefit on their
+    main outcomes
+  reference_ids:
+  - REF-3660
+  - REF-3661
+  - REF-3662
+  - REF-3663
+  - REF-0100
+  status: verified
+  null_result_ids:
+  - REF-3664
+  - REF-3665
+- condition: nausea
+  note: Inhaled peppermint oil reduced nausea and vomiting after surgery in randomized trials
+  reference_ids:
+  - REF-3669
+  - REF-3670
+  status: verified
 contraindications:
-- note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children -
-    menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing
+- note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children
+    - menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing
     drugs. May worsen GERD by relaxing the lower oesophageal sphincter. Avoid in bile duct obstruction
     and gallstones.
   severity: caution
   reference_ids:
   - REF-0004
   - REF-0100
-  - REF-0163
   status: verified
 - note: 'Duke (2002) rates peppermint as +++ with clinical evidence (score 2) for antispasmodic activity,
     consistent with Commission E approval for IBS (irritable bowel syndrome) using enteric-coated peppermint
@@ -371,7 +338,6 @@ contraindications:
   reference_ids:
   - REF-0004
   - REF-0100
-  - REF-0163
   - REF-0063
   status: verified
 references:
@@ -407,6 +373,7 @@ references:
 - REF-3056
 - REF-3057
 - REF-3058
+- REF-0004
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -434,4 +401,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   indigestion, muscle-spasm; kept for pain. REF-3047 (six Algerian Mentha species; M. arvensis the
   active one) and REF-3050 (CNS assays, no cognition named) removed from cognitive-function;
   REF-3049 (names Alzheimer''s) kept. Note: no IBS pair exists for peppermint although IBS is its
-  best-evidenced use (follow-up for the owner).'
+  best-evidenced use (follow-up for the owner).
+  | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. REF-0163
+  ("Fasciolosis in humans") and REF-0004 (rat kidney histopathology) were filed under all six
+  actions - removed (REF-0163 deleted, REF-0004 kept as a safety reference); REF-0100 removed from
+  anti-inflammatory/antimicrobial/antioxidant. REF-3048 retagged narrative-review. Muscle-spasm
+  dropped (off-target). New pairs (owner rule): ibs (4 MAs + held SR; PERSUADE REF-3664 and RCT
+  REF-3665 no-effect), nausea (PONV RCTs). Tension-headache RCT REF-3666 added; foot-bath RCT
+  REF-3667 no-effect. Nipple-pain MA REF-3668 added to pain. Not used: lemon+peppermint menopausal
+  massage (combination); knee-OA aromatherapy massage (massage confound).'

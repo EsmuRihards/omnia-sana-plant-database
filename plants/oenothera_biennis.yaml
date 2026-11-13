@@ -113,40 +113,62 @@ actions:
   status: needs-review
 indications:
 - condition: eczema
-  note: inferred from emollient action; oral evening primrose oil showed no benefit for eczema in trials
-    (see the no-effect studies)
-  reference_ids: []
+  note: Oral evening primrose oil was no better than placebo for eczema in a Cochrane review; one later
+    Indian trial reported benefit
+  reference_ids:
+  - REF-3684
   status: needs-review
   null_result_ids:
   - REF-0447
   - REF-1458
   - REF-2587
 - condition: hot-flashes
-  note: Menopausal hot flushes - some trial benefit reported
+  note: Oral evening primrose oil reduced the intensity of hot flashes vs placebo in a randomized trial
+    and menopausal symptoms in a meta-analysis
   reference_ids:
   - REF-0446
+  - REF-3683
+  - REF-3679
   status: needs-review
 - condition: pain
-  note: Cyclical breast pain (mastalgia) - evening primrose oil reduced pain severity versus placebo in
-    a trial; a 2024 review reports some benefit
+  note: Evening primrose oil reduced cyclical breast pain in small randomized trials, but a 2021 meta-analysis
+    found it no better than placebo
   reference_ids:
   - REF-0446
   - REF-0600
+  - REF-3686
   status: needs-review
+  null_result_ids:
+  - REF-3680
 - condition: pms
-  note: Cyclical breast pain (mastalgia) improved versus placebo in a trial; a 2024 review found no effect
-    on premenstrual syndrome itself
+  note: Cyclical breast pain improved in some trials, but reviews found evening primrose oil of little
+    value for premenstrual syndrome itself and no better than placebo for breast pain
   reference_ids:
   - REF-0600
   status: needs-review
   null_result_ids:
   - REF-0446
+  - REF-3681
+  - REF-3680
 - condition: skin-irritation
   note: inferred from emollient action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0446
+- condition: menopause
+  note: Evening primrose oil reduced menopausal symptoms in a meta-analysis, and psychological symptoms
+    in postmenopausal women in a randomized trial
+  reference_ids:
+  - REF-3679
+  - REF-3685
+  status: verified
+- condition: high-cholesterol
+  note: Evening primrose oil lowered triglycerides and raised HDL cholesterol in people with high blood
+    lipids in a meta-analysis of randomized trials
+  reference_ids:
+  - REF-3682
+  status: verified
 contraindications:
 - note: 'Evidence is weak and largely negative: a Cochrane review concluded that oral evening primrose
     oil is not an effective treatment for eczema, and the broader trial literature is heterogeneous. Adverse
@@ -236,4 +258,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   (EPO and borage oil, essential fatty acids in rheumatology) removed from pain. Claim notes
   rewritten.
   | 2026-11-10: symptom-source audit batch 11 - unverifiable source hidden from remaining
-  mechanistic cards / claim note reset.'
+  mechanistic cards / claim note reset.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. New pairs (owner
+  rule): menopause (SR/MA REF-3679 + RCT REF-3685), high-cholesterol (MA REF-3682). Hot-flash RCT
+  REF-3683 added. Mastalgia MA REF-3680 (no better than placebo) no-effect for pain and pms; PMS
+  review REF-3681 no-effect. Indian AD RCT REF-3684 added to eczema beside the Cochrane null. Not
+  used: labour-induction/cervical-ripening trials (no matching condition; pregnancy use).'

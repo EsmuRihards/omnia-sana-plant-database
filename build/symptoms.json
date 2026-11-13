@@ -2246,19 +2246,9 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-1218"
-     ]
-    },
-    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
-     "evidence": 5,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
@@ -2266,7 +2256,28 @@
       "REF-0413",
       "REF-1213",
       "REF-1220",
-      "REF-1221"
+      "REF-1221",
+      "REF-3671"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3673"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1218"
      ]
     },
     {
@@ -2372,6 +2383,101 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2516",
+      "REF-3696"
+     ]
+    },
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3703",
+      "REF-3704"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2513",
+      "REF-2512"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3697",
+      "REF-2516"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3698",
+      "REF-3704"
+     ]
+    },
+    {
+     "condition": "allergy",
+     "label": "Allergy / hay fever",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3701"
+     ]
+    },
+    {
+     "condition": "asthma",
+     "label": "Asthma",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3700"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3699"
+     ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3702"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -2392,14 +2498,6 @@
     {
      "condition": "back-pain",
      "label": "Back pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -2432,22 +2530,6 @@
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -6647,24 +6729,58 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "pain",
-     "label": "Pain (general)",
-     "evidence": 8,
+     "condition": "hot-flashes",
+     "label": "Hot flashes",
+     "evidence": 9,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0446",
-      "REF-0600"
+      "REF-3683",
+      "REF-3679"
      ]
     },
     {
-     "condition": "hot-flashes",
-     "label": "Hot flashes",
-     "evidence": 7,
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 9,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0446"
+      "REF-0446",
+      "REF-0600",
+      "REF-3686"
+     ]
+    },
+    {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3679",
+      "REF-3685"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3682"
+     ]
+    },
+    {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3684"
      ]
     },
     {
@@ -6676,14 +6792,6 @@
      "references": [
       "REF-0600"
      ]
-    },
-    {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     },
     {
      "condition": "skin-irritation",
@@ -8996,6 +9104,18 @@
    "wp_post_id": 154,
    "indications": [
     {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0466",
+      "REF-1430",
+      "REF-3678"
+     ]
+    },
+    {
      "condition": "stress",
      "label": "Stress",
      "evidence": 8,
@@ -9004,17 +9124,6 @@
      "references": [
       "REF-0466",
       "REF-1427"
-     ]
-    },
-    {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0466",
-      "REF-1430"
      ]
     },
     {
@@ -9925,23 +10034,84 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "depression",
-     "label": "Low mood / depression",
-     "evidence": 7,
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-1194"
+      "REF-1194",
+      "REF-2539",
+      "REF-3657"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1195",
+      "REF-1197",
+      "REF-3659"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1194",
+      "REF-2539",
+      "REF-3657"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1197",
+      "REF-3658"
      ]
     },
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 2,
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-1200"
+      "REF-1200",
+      "REF-3655"
+     ]
+    },
+    {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3078",
+      "REF-2539",
+      "REF-3656"
+     ]
+    },
+    {
+     "condition": "stress",
+     "label": "Stress",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2539",
+      "REF-3078"
      ]
     },
     {
@@ -9989,26 +10159,8 @@
      "references": []
     },
     {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-3078"
-     ]
-    },
-    {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -11338,13 +11490,34 @@
     {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
-     "evidence": 2,
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-1418",
       "REF-1426",
-      "REF-0110"
+      "REF-0110",
+      "REF-3674"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3676"
+     ]
+    },
+    {
+     "condition": "nausea",
+     "label": "Nausea",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3677"
      ]
     },
     {
@@ -11411,6 +11584,71 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0301",
+      "REF-3695",
+      "REF-3688"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3694"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0301",
+      "REF-3655"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0032",
+      "REF-1440",
+      "REF-3691"
+     ]
+    },
+    {
+     "condition": "oral-health",
+     "label": "Oral & throat health",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3693"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3692"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 6,
@@ -11430,6 +11668,16 @@
      "references": [
       "REF-0299",
       "REF-1443"
+     ]
+    },
+    {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1445"
      ]
     },
     {
@@ -11453,16 +11701,6 @@
      ]
     },
     {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0301"
-     ]
-    },
-    {
      "condition": "cold",
      "label": "Cold & flu",
      "evidence": 2,
@@ -11473,37 +11711,8 @@
      ]
     },
     {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0301"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0032",
-      "REF-1440"
-     ]
-    },
-    {
      "condition": "skin-irritation",
      "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -12064,13 +12273,50 @@
    "wp_post_id": 155,
    "indications": [
     {
-     "condition": "pain",
-     "label": "Pain (general)",
-     "evidence": 7,
+     "condition": "ibs",
+     "label": "Irritable bowel syndrome (IBS)",
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
+      "REF-3660",
+      "REF-3661",
+      "REF-3662",
+      "REF-3663",
       "REF-0100"
+     ]
+    },
+    {
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0100",
+      "REF-3668"
+     ]
+    },
+    {
+     "condition": "nausea",
+     "label": "Nausea",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3669",
+      "REF-3670"
+     ]
+    },
+    {
+     "condition": "headache",
+     "label": "Headache",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1207",
+      "REF-3666"
      ]
     },
     {
@@ -12081,16 +12327,6 @@
      "inferred": true,
      "references": [
       "REF-3049"
-     ]
-    },
-    {
-     "condition": "headache",
-     "label": "Headache",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-1207"
      ]
     },
     {
@@ -12146,14 +12382,6 @@
     {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

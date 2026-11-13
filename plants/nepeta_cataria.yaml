@@ -140,12 +140,10 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0035
-  - REF-0095
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0035
-  - REF-0095
   - REF-0932
   - REF-0934
   - REF-0936
@@ -159,11 +157,10 @@ actions:
 - action: sedative
   reference_ids:
   - REF-0035
-  - REF-0095
   status: verified
 indications:
 - condition: bloating
-  note: inferred from digestive action
+  note: Traditional carminative used for infantile colic (pharmacognosy monograph)
   reference_ids:
   - REF-0938
   status: needs-review
@@ -171,24 +168,24 @@ indications:
   - REF-0035
   - REF-0095
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Catnip extracts and essential oil were antimicrobial in lab tests (preclinical)
   reference_ids:
   - REF-0932
   - REF-0934
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0095
   - REF-0035
 - condition: respiratory-support
   reference_ids:
   - REF-0095
   status: verified
+  note: Catnip oil relaxed airway smooth muscle in lab tissue, in line with its traditional use for cough
+    and asthma (preclinical)
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0095
   - REF-0035
 contraindications:
 - note: 'Pregnancy: Do not use (traditional concern around stimulating menstruation/uterus) (Health Canada,
@@ -278,4 +275,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   available online) removed from every symptom as unverifiable. REF-0095 (spasmolytic and
   bronchodilatory oil; retagged preclinical) kept for respiratory-support only ("gastrointestinal
   disorders" is vague). REF-0938 (pharmacognosy: carminative, infantile colic) kept for bloating,
-  removed from indigestion.'
+  removed from indigestion.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. REF-0095
+  (spasmolytic/bronchodilator oil study) removed from anti-inflammatory, antimicrobial and
+  sedative actions (kept for digestive). Notes rewritten. No trials on PubMed.'

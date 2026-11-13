@@ -1,0 +1,644 @@
+# Landmark search batch 11
+
+## melissa-officinalis (Melissa officinalis; Lemon balm) - 57 hits; query: ("Melissa officinalis"[tiab] OR "Lemon balm"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41317165 | RCT | Comparison of the Effects of a Melissa officinalis L. and Valerian Combination With Clonidine on Anxiety, Hemodynamic Changes, and Shivering in Knee Replacement Surgery: 
+- new | 2025 | 40082838 | RCT | The effectiveness of Melissa officinalis L. essential oil inhalation on anxiety and symptom burden of hemodialysis patients: a randomized trial study.
+- new | 2025 | 40526027 | SR | Herbal Medicine for Treating Herpes Labialis: A Systematic Review.
+- new | 2025 | 41226670 | SR | Natural Products in Alzheimer's Disease: A Systematic Review of Clinical Trials and Underlying Molecular Mechanisms.
+- new | 2025 | 39888701 | RCT | Lemon Balm (Melissa officinalis L.) Leaf Extract Promotes Endo180 Production in Dermal Fibroblasts and has Antiwrinkle Effect on Human Skin.
+- new | 2025 | 41101745 | RCT | Comparison of the effects of Echium amoenum and Melissa officinalis on hypertension in stage 1 hypertensive patients: A randomized, triple-blind, three-arm clinical trial
+- new | 2024 | 39683592 | RCT | Effects of Melissa officinalis Phytosome on Sleep Quality: Results of a Prospective, Double-Blind, Placebo-Controlled, and Cross-Over Study.
+- HELD REF-1195 | 2024 | 38575930 | MA | Effects of Melissa officinalis (lemon balm) consumption on serum lipid profile: a meta-analysis of randomized controlled trials.
+- new | 2024 | 38937193 | RCT | Effects of a traditional herbal formula containing Melissa officinalis, Pimpinella anisum, and Rosa damascena on anxiety and depression in patients with constipation-pred
+- new | 2023 | 35960461 | SR | Natural remedies for Alzheimer's disease: A systematic review of randomized controlled trials.
+- new | 2023 | 37131158 | RCT | The effects of melissa officinalis on depression and anxiety in type 2 diabetes patients with depression: a randomized double-blinded placebo-controlled clinical trial.
+- new | 2023 | 36502333 | RCT | Effects of Melissa officinalis Extract Containing Rosmarinic Acid on Cognition in Older Adults Without Dementia: A Randomized Controlled Trial.
+- new | 2022 | 35748547 | RCT | Comparing the Effects of a Herbal Drug based on Echium Amoenum With Fluvoxamine in the Treatment of Adolescents with Obsessive-compulsive Disorder.
+- new | 2022 | 35592415 | SR | Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis.
+- HELD REF-1194 | 2021 | 34449930 | MA/SR | The effects of lemon balm (Melissa officinalis L.) on depression and anxiety in clinical trials: A systematic review and meta-analysis.
+- new | 2021 | 30806589 | MA/SR | Treatments of sleep bruxism in children: A systematic review and meta-analysis.
+- new | 2021 | 34193264 | RCT | The effect of Melissa officinalis syrup on patients with mild to moderate psoriasis: a randomized, double-blind placebo-controlled clinical trial.
+- new | 2021 | 34309987 | RCT | Melissa officinalis tea favourably affects the frequency of premature ventricular beats and cardiometabolic profile among patients with premature ventricular contraction:
+- new | 2021 | 34766389 | RCT | Effect of Melissa officinalis on systolic and diastolic blood pressures in essential hypertension: A double-blind crossover clinical trial.
+- new | 2021 | 33465795 | RCT | The Effectiveness of Melissa Officinalis L. versus Citalopram on Quality of Life of Menopausal Women with Sleep Disorder: A Randomized Double-Blind Clinical Trial.
+- new | 2021 | 34247027 | RCT | Effect of aromatherapy with Melissa essential oil on stress and hemodynamic parameters in acute coronary syndrome patients: A clinical trial in the emergency department.
+- HELD REF-1197 | 2020 | 32614129 | MA/SR | Effects of Melissa officinalis (Lemon Balm) on cardio-metabolic outcomes: A systematic review and meta-analysis.
+- new | 2020 | 31858254 | MA | Interventions to reduce bruxism in children and adolescents: a systematic scoping review and critical reflection.
+- new | 2020 | 33122694 | RCT | Safety and efficacy of Melissa officinalis extract containing rosmarinic acid in the prevention of Alzheimer's disease progression.
+- new | 2020 | 32620104 | RCT | A double-blind, randomized pilot study for comparison of Melissa officinalis L. and Lavandula angustifolia Mill. with Fluoxetine for the treatment of depression.
+- new | 2019 | 30670268 | RCT | A randomised controlled trial of Lavender (Lavandula Angustifolia) and Lemon Balm (Melissa Officinalis) essential oils for the treatment of agitated behaviour in older pe
+- new | 2019 | 30548118 | RCT | Efficacy of Melissa officinalis L. (lemon balm) extract on glycemic control and cardiovascular risk factors in individuals with type 2 diabetes: A randomized, double-blin
+- new | 2019 | 30831467 | RCT | Homeopathic medicine of Melissa officinalis combined or not with Phytolacca decandra in the treatment of possible sleep bruxism in children: A crossover randomized triple
+- new | 2019 | 30681971 | RCT | The effects of a Melissa officinalis L. based product on metabolic parameters in patients with type 2 diabetes mellitus: A randomized double-blinded controlled clinical t
+- new | 2018 | 30306546 | MA/SR | Dietary modifications for infantile colic.
+- HELD REF-2539 | 2018 | 29908682 | RCT | The effects of Melissa officinalis supplementation on depression, anxiety, stress, and sleep disorder in patients with chronic stable angina.
+- new | 2018 | 30219475 | RCT | Safety and efficacy of Melissa officinalis (lemon balm) on ApoA-I, Apo B, lipid ratio and ICAM-1 in type 2 diabetes patients: A randomized, double-blinded clinical trial.
+- new | 2018 | 30045422 | RCT | The effects of Melissa officinalis (lemon balm) in chronic stable angina on serum biomarkers of oxidative stress, inflammation and lipid profile.
+- new | 2018 | 29433687 | RCT | Effects of a fixed herbal drug combination (Ze 185) to an experimental acute stress setting in healthy men - An explorative randomized placebo-controlled double-blind stu
+- new | 2018 | 29433682 | RCT | A randomised double-blind placebo-controlled pilot trial of a combined extract of sage, rosemary and melissa, traditional herbal medicines, on the enhancement of memory i
+- new | 2017 | 28137522 | SR | Herbal medicines in children with attention deficit hyperactivity disorder (ADHD): A systematic review.
+- new | 2017 | 28665038 | RCT | Efficacy of a standardized extract of Matricariae chamomilla L., Melissa officinalis L. and tyndallized Lactobacillus acidophilus (HA122) in infantile colic: An open rand
+- new | 2016 | 27261994 | RCT | Lemon balm: A promising herbal therapy for patients with borderline hyperlipidemia-A randomized double-blind placebo-controlled clinical trial.
+- new | 2015 | 25978046 | RCT | Pharmacokinetics, Safety and Tolerability of Melissa officinalis Extract which Contained Rosmarinic Acid in Healthy Individuals: A Randomized Controlled Trial.
+- new | 2015 | 25680840 | RCT | Heart palpitation relief with Melissa officinalis leaf extract: double blind, randomized, placebo controlled trial of efficacy and safety.
+- new | 2014 | 25360512 | RCT | Anti-stress effects of lemon balm-containing foods.
+- new | 2013 | 24199972 | RCT | Valerian/lemon balm use for sleep disorders during menopause.
+- HELD REF-3527 | 2013 | 23337964 | RCT | [Antiinflammatory potential of seven plant extracts in the ultraviolet erythema test. A randomized, placebo-controlled study].
+- new | 2012 | 21831230 | RCT | The effect of supplementation of clove and agrimony or clove and lemon balm on growth performance, antioxidant status and selected indices of lipid profile of broiler chi
+- new | 2011 | 21631360 | RCT | The effects of powdered fertilized eggs on depression.
+- new | 2011 | 21335973 | RCT | A double-blind placebo-controlled randomized trial of Melissa officinalis oil and donepezil for the treatment of agitation in Alzheimer's disease.
+- new | 2006 | 16868824 | RCT | The efficacy of an herbal medicine, Carmint, on the relief of abdominal pain and bloating in patients with irritable bowel syndrome: a pilot study.
+- new | 2006 | 16444660 | RCT | Anxiolytic effects of a combination of Melissa officinalis and Valeriana officinalis during laboratory induced stress.
+- new | 2005 | 16635970 | SR | Lemon balm (Melissa officinalis L.): an evidence-based systematic review by the Natural Standard Research Collaboration.
+- new | 2005 | 16041731 | Clinical Trial/RCT | A randomized double-blind placebo-controlled trial of a standardized extract of Matricariae recutita, Foeniculum vulgare and Melissa officinalis (ColiMil) in the treatmen
+- new | 2004 | 15272110 | Clinical Trial/RCT | Attenuation of laboratory-induced stress in humans after acute administration of Melissa officinalis (Lemon Balm).
+- new | 2004 | 15546807 | Clinical Trial/RCT | Effects of lozenge containing lavender oil, extracts from hops, lemon balm and oat on electrical brain activity of volunteers.
+- new | 2003 | 12888775 | Clinical Trial/RCT | Modulation of mood and cognitive performance following acute administration of single doses of Melissa officinalis (Lemon balm) with human CNS nicotinic and muscarinic re
+- new | 2003 | 12810768 | Clinical Trial/RCT | Melissa officinalis extract in the treatment of patients with mild to moderate Alzheimer's disease: a double blind, randomised, placebo controlled trial.
+- HELD REF-0134 | 2002 | 12062586 | Clinical Trial/RCT | Modulation of mood and cognitive performance following acute administration of Melissa officinalis (lemon balm).
+- new | 2002 | 12143909 | Clinical Trial/RCT | Aromatherapy as a safe and effective treatment for the management of agitation in severe dementia: the results of a double-blind, placebo-controlled trial with Melissa.
+- new | 1999 | 10589440 | Clinical Trial/RCT | Balm mint extract (Lo-701) for topical treatment of recurring herpes labialis.
+
+## mentha-piperita (Mentha × piperita; Peppermint) - 89 hits; query: ("Mentha × piperita"[tiab] OR "Peppermint"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42024666 | RCT | Effects of peppermint (Mentha x piperita L.) oil on cardiometabolic outcomes in patients with pre- and stage 1 hypertension: A placebo randomized controlled trial.
+- new | 2026 | 41610933 | RCT | Peppermint Oil and Sweets in Pediatric Irritable Bowel Syndrome and Functional Abdominal Pain: A Randomized Trial.
+- new | 2026 | 41544308 | RCT | Effect of inhaled peppermint essential oil aromatherapy on postoperative nausea and vomiting in patients undergoing laparoscopic gynecologic surgery.
+- new | 2026 | 41687332 | RCT | Comparing the effects of clinical aromatherapy with rose and peppermint on postoperative pain in children aged 6-12 years: A randomized controlled trial.
+- new | 2026 | 41506109 | RCT | The effect of scalp nerve block combined with inhaled peppermint essential oil on postoperative pain in patients undergoing supratentorial tumor resection.
+- new | 2025 | 40917836 | SR | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review.
+- new | 2025 | 40390282 | RCT | Randomized trial: Peppermint oil (menthol) pharmacokinetics in children and effects on gut motility in children with functional abdominal pain: 540 mg vs. 900 mg dose com
+- new | 2025 | 41390992 | RCT | Effect of inhalation of peppermint essential oil aromatherapy on postoperative delirium in old patients following major lower limb joint arthroplasty surgery: A randomize
+- new | 2025 | 40189738 | RCT | A Randomized Placebo-Controlled Clinical Trial Exploring the Short-Term Cognitive and Cerebrovascular Effects of Consuming Peppermint Tea: A Mediation Study.
+- new | 2025 | 40967081 | RCT | Comparison of the effect of ice sucking containing peppermint (Mentha piperita L.) with cardamom (Elettaria cardamomum) extract on nausea, vomiting, and drug request afte
+- new | 2025 | 40925064 | RCT | The effect of aromatherapy massage with peppermint oil on functional impairments in patients with knee osteoarthritis.
+- new | 2025 | 40154579 | RCT | Effect of aromatherapy with peppermint, ginger, and lavender on postoperative nausea severity after oral surgery under general anaesthesia: A single-blind randomized cont
+- new | 2024 | 39447066 | RCT | Examining the Effect of Peppermint Oil on Postoperative Nausea After Cervical Surgery.
+- new | 2024 | 37850332 | SR | Peppermint as a promising treatment agent in inflammatory conditions: A comprehensive systematic review of literature.
+- new | 2024 | 39436586 | SR/MA | Effectiveness of the Application of Lanolin, Aloe Vera, and Peppermint on Nipple Pain and Nipple Trauma in Lactating Mothers: A Systematic Review and Meta-Analysis.
+- new | 2024 | 38281005 | RCT | Effect of aromatherapy with peppermint essential oil on the gag reflex: a randomized, placebo-controlled, single-blind, crossover study.
+- new | 2024 | 37536755 | RCT | Pain and sleep after open-heart surgery-inhalation peppermint essence: double-blind randomized clinical trial.
+- new | 2024 | 38072763 | RCT | Effects of inhalation of peppermint oil after lumbar discectomy surgery on pain and anxiety levels of patients: A randomized controlled study.
+- new | 2024 | 37743153 | RCT | The effect of aromatherapy massage with lemon and peppermint essential oil on menopausal symptoms: A double-blinded, randomized placebo controlled clinical trial.
+- new | 2024 | 38518690 | RCT | Effect of peppermint inhalation versus Swedish massage on chemotherapy induced-nausea and vomiting in children with leukemia: Multi-arm randomised trial design.
+- new | 2024 | 38502819 | RCT | Use of a Combination Lavender/Peppermint Aromatherapy Patch During Port Catheter Placement Under Monitored Anesthesia Care Does Not Reduce Time to Discharge Readiness: A 
+- new | 2023 | 37453895 | RCT | Effect of peppermint-lemon aromatherapy on nausea-vomiting and quality of life in pediatric patients with leukemia: A randomized controlled trial.
+- new | 2023 | 37665425 | RCT | Peppermint essential oil (Mentha piperita L.) increases time to exhaustion in runners.
+- new | 2023 | 37730471 | RCT | Randomized Trial Examining Efficacy of Mentha piperita in Reducing Chronic Headache Discomfort in Youth.
+- new | 2023 | 36799100 | RCT | Aroma of the essential oil of peppermint reduces aggressive driving behaviour in healthy adults.
+- new | 2023 | 36502789 | MA/SR | Menthacarin, a Proprietary Peppermint Oil and Caraway Oil Combination, Improves Multiple Complaints in Patients with Functional Gastrointestinal Disorders: A Systematic R
+- new | 2023 | 36985839 | RCT | In Vitro Antiglycation and Methylglyoxal Trapping Effect of Peppermint Leaf (Mentha × piperita L.) and Its Polyphenols.
+- new | 2023 | 38345583 | RCT | Comparing the Effect of Local Application of Peppermint and Cold Compresses on the Severity of Pain from Venipuncture in Dialysis Patients: A Parallel Randomized Clinical
+- new | 2022 | 35942669 | MA/SR | Systematic review and meta-analysis: efficacy of peppermint oil in irritable bowel syndrome.
+- new | 2022 | 34528282 | RCT | Randomised trial: Peppermint oil (menthol) pharmacokinetics in children and effects on gut motility in children with functional abdominal pain.
+- new | 2022 | 35007899 | RCT | The effect of aromatherapy with peppermint essential oil on anxiety of cardiac patients in emergency department: A placebo-controlled study.
+- new | 2021 | 32600229 | SR | Herbal Extracts with Antifungal Activity against Candida albicans: A Systematic Review.
+- new | 2021 | 34319275 | RCT | Peppermint Oil Treatment for Irritable Bowel Syndrome: A Randomized Placebo-Controlled Trial.
+- new | 2021 | 33197662 | RCT | The Effects of Peppermint Oil on Nausea, Vomiting and Retching in Cancer Patients Undergoing Chemotherapy: An Open Label Quasi-Randomized Controlled Pilot Study.
+- new | 2021 | 34468079 | RCT | A trial-based economic evaluation of peppermint oil for the treatment of irritable bowel syndrome.
+- new | 2021 | 32016519 | RCT | A prospective randomized controlled trial comparing simethicone, N-acetylcysteine, sodium bicarbonate and peppermint for visualization in upper gastrointestinal endoscopy
+- new | 2020 | 31470006 | RCT | Efficacy and Safety of Peppermint Oil in a Randomized, Double-Blind Trial of Patients With Irritable Bowel Syndrome.
+- new | 2020 | 32049698 | RCT | Aloe vera-Peppermint Gel (Veramin): An Effective Treatment for Mouth Dryness Among ICU Patients.
+- new | 2020 | 31994371 | MA/SR | The anti-spasmodic effect of peppermint oil during colonoscopy: a systematic review and meta-analysis.
+- new | 2020 | 33118401 | RCT | The Effect of Peppermint (Mentha piperita) Extract on the Severity of Nausea, Vomiting and Anorexia in Patients with Breast Cancer Undergoing Chemotherapy: A Randomized C
+- new | 2020 | 32891278 | RCT | The effect of aromatherapy with peppermint essential oil on nausea and vomiting after cardiac surgery: A randomized clinical trial.
+- new | 2019 | 30654773 | MA/SR | The impact of peppermint oil on the irritable bowel syndrome: a meta-analysis of the pooled clinical data.
+- new | 2019 | 31780037 | RCT | The effects of peppermint gel on prevention of pressure injury in hospitalized patients with head trauma in neurosurgical ICU: A double-blind randomized controlled trial.
+- new | 2018 | 29913229 | RCT | Inhaled peppermint, rosemary and eucalyptus essential oils do not change spirometry in healthy individuals.
+- new | 2018 | 30284674 | RCT | A Novel Ileocolonic Release Peppermint Oil Capsule for Treatment of Irritable Bowel Syndrome: A Phase I Study in Healthy Volunteers.
+- new | 2018 | 30087294 | RCT | Volatile Terpenes and Brain Function: Investigation of the Cognitive and Mood Effects of Mentha × Piperita L. Essential Oil with In Vitro Properties Relevant to Central N
+- new | 2017 | 28177705 | RCT | Aerobic capacity is not improved following 10-day supplementation with peppermint essential oil.
+- new | 2017 | 29273467 | RCT | The effect of premedication with peppermint oil capsules (Colpermin) prior to colonoscopy: A double blind randomized placebo-controlled trial.
+- new | 2017 | 28695660 | RCT | A randomized placebo-controlled trial on the effects of Menthacarin, a proprietary peppermint- and caraway-oil-preparation, on symptoms and quality of life in patients wi
+- new | 2016 | 26319955 | RCT | A Novel Delivery System of Peppermint Oil Is an Effective Therapy for Irritable Bowel Syndrome Symptoms.
+- new | 2016 | 27515877 | RCT | Sage tea-thyme-peppermint hydrosol oral rinse reduces chemotherapy-induced oral mucositis: A randomized controlled pilot study.
+- new | 2016 | 27912953 | RCT | Evaluating the effect of Matricaria recutita and Mentha piperita herbal mouthwash on management of oral mucositis in patients undergoing hematopoietic stem cell transplan
+- new | 2014 | 24100754 | MA/SR | Peppermint oil for the treatment of irritable bowel syndrome: a systematic review and meta-analysis.
+- new | 2014 | 24746728 | RCT | Clinical and mycological evaluation of an herbal antifungal formulation in canine Malassezia dermatitis.
+- new | 2014 | 24461278 | RCT | Controlled breathing with or without peppermint aromatherapy for postoperative nausea and/or vomiting symptom relief: a randomized controlled trial.
+- new | 2013 | 23489975 | RCT | Effect of acute peppermint oil administration on gastric sensorimotor function and nutrient tolerance in health.
+- new | 2013 | 23416804 | RCT | Efficacy of Peppermint oil in diarrhea predominant IBS - a double blind randomized placebo - controlled study.
+- new | 2012 | 22034523 | RCT | Examination of the effectiveness of peppermint aromatherapy on nausea in women post C-section.
+- new | 2012 | 23082707 | RCT | Premedication with peppermint oil capsules in colonoscopy: a double blind placebo-controlled randomized trial study.
+- new | 2012 | 22382410 | RCT | Taste-masking effect of physical and organoleptic methods on peppermint-scented orally disintegrating tablet of famotidine based on suspension spray-coating method.
+- new | 2011 | 21510321 | RCT | Early effects of oral administration of lafutidine with peppermint oil, compared with lafutidine alone, on intragastric pH values.
+- new | 2010 | 19507027 | RCT | The effect of enteric-coated, delayed-release peppermint oil on irritable bowel syndrome.
+- new | 2008 | 18041606 | RCT | Modulation of cognitive performance and mood by aromas of peppermint and ylang-ylang.
+- new | 2008 | 18404563 | RCT | Phytotherapeutic inhibition of supragingival dental plaque.
+- new | 2008 | 19008265 | MA/SR | Effect of fibre, antispasmodics, and peppermint oil in the treatment of irritable bowel syndrome: systematic review and meta-analysis.
+- HELD REF-1206 | 2007 | 18285310 | SR | Peppermint (Mentha piperita): an evidence-based systematic review by the Natural Standard Research Collaboration.
+- new | 2007 | 17653649 | RCT | Early effects of peppermint oil on gastric emptying: a crossover study using a continuous real-time 13C breath test (BreathID system).
+- new | 2007 | 17767120 | RCT | A randomized trial of peppermint gel, lanolin ointment, and placebo gel to prevent nipple crack in primiparous breastfeeding women.
+- new | 2007 | 17420159 | RCT | Peppermint oil (Mintoil) in the treatment of irritable bowel syndrome: a prospective double blind placebo-controlled randomized trial.
+- new | 2004 | 14770380 | Clinical Trial/RCT | Aromatherapy with peppermint, isopropyl alcohol, or placebo is equally effective in relieving postoperative nausea.
+- new | 2003 | 12562459 | Clinical Trial/RCT | Effect of peppermint oil and caraway oil on gastrointestinal motility in healthy volunteers: a pharmacodynamic study using simultaneous determination of gastric and gall-
+- new | 2003 | 12665756 | Clinical Trial/RCT | Peppermint oil reduces gastric spasm during upper endoscopy: a randomized, double-blind, double-dummy controlled trial.
+- new | 2003 | 12601675 | Clinical Trial/RCT | Effects of intraduodenal application of peppermint oil (WS(R) 1340) and caraway oil (WS(R) 1520) on gastroduodenal motility in healthy volunteers.
+- new | 2002 | 12235445 | Clinical Trial/RCT | Evaluation of peppermint oil and ascorbyl palmitate as inhibitors of cytochrome P4503A4 activity in vitro and in vivo.
+- new | 2002 | 12244893 | Clinical Trial/RCT | [Pharmacokinetics of carvone and menthol after administration of peppermint oil and caraway oil containing enteric formulation].
+- new | 2001 | 11148527 | Clinical Trial/RCT | Enteric-coated, pH-dependent peppermint oil capsules for the treatment of irritable bowel syndrome in children.
+- new | 2001 | 11268113 | Clinical Trial/RCT | Qualitative and quantitative olfactometric evaluation of different concentrations of ethanol peppermint oil solutions.
+- new | 2001 | 11455677 | Clinical Trial/RCT | Pharmacokinetics of menthol and carvone after administration of an enteric coated formulation containing peppermint oil and caraway oil.
+- new | 2000 | 11121917 | Clinical Trial/RCT | Efficacy and tolerability of a fixed combination of peppermint oil and caraway oil in patients suffering from functional dyspepsia.
+- new | 1999 | 10192108 | Clinical Trial/RCT | [Peppermint oil-caraway oil fixed combination in non-ulcer dyspepsia--comparison of the effects of enteric preparations].
+- new | 1999 | 10604046 | Clinical Trial/RCT | Treatment of functional dyspepsia with a fixed peppermint oil and caraway oil combination preparation as compared to cisapride. A multicenter, reference-controlled double
+- new | 1998 | 9672344 | MA | Peppermint oil for irritable bowel syndrome: a critical review and metaanalysis.
+- new | 1997 | 9378876 | Clinical Trial/RCT | Peppermint oil: a treatment for postoperative nausea.
+- new | 1997 | 9430014 | Clinical Trial/RCT | Enteric-coated peppermint-oil capsules in the treatment of irritable bowel syndrome: a prospective, randomized trial.
+- new | 1996 | 9006790 | Clinical Trial/RCT | Efficacy of a fixed peppermint oil/caraway oil combination in non-ulcer dyspepsia.
+- new | 1995 | 7551780 | Clinical Trial/RCT | Does peppermint oil relieve spasm during barium enema?
+- new | 1994 | 7954745 | Clinical Trial/RCT | Effect of peppermint and eucalyptus oil preparations on neurophysiological and experimental algesimetric headache parameters.
+- new | 1988 | 3061106 | Clinical Trial/RCT | [Treatment of irritable bowel syndrome with peppermint oil. A double-blind study with a placebo].
+- new | 1986 | 3527248 | Clinical Trial/RCT | Peppermint oil does not relieve the pain of irritable bowel syndrome.
+
+## momordica-charantia (Momordica charantia; Bitter Melon) - 35 (+CT) hits; query: ("Momordica charantia"[tiab] OR "Bitter Melon"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40199408 | RCT | Bitter gourd (Momordica charantia L.) supplementation for twelve weeks improves biomarkers of glucose homeostasis in a prediabetic population.
+- new | 2025 | 39536276 | RCT | Investigation of the Influence of a Bitter Melon Product on Indicators of Cardiometabolic Health in Adults with Prediabetes.
+- new | 2024 | 39444254 | MA/SR | The Effects of Bitter Melon ( Mormordica charantia ) on Lipid Profile: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2024 | 39079610 | MA/SR | The effects of bitter melon (Momordica charantia) on anthropometric indices in adults: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2023 | 37432178 | SR | Mexican Plants Involved in Glucose Homeostasis and Body Weight Control: Systematic Review.
+- new | 2023 | 38274207 | SR | The metabolic effect of Momordica charantia cannot be determined based on the available clinical evidence: a systematic review and meta-analysis of randomized clinical tr
+- new | 2022 | 35754481 | SR | Effectiveness and Safety of Ayurvedic Medicines in Type 2 Diabetes Mellitus Management: A Systematic Review and Meta-Analysis.
+- new | 2022 | 35507955 | RCT | Effect of Momordica charantia Administration on Anthropometric Measures and Metabolic Profile in Patients with Obesity: A Pilot Clinical Trial.
+- new | 2021 | 33475054 | SR | Ethnomedicinal Plants for the Management of Diabetes Worldwide: A Systematic Review.
+- new | 2021 | 34132429 | SR | Promising traditional Indian medicinal plants for the management of novel Coronavirus disease: A systematic review.
+- new | 2021 | 32929814 | MA/SR | The safety and efficacy of Momordica charantia L. in animal models of type 2 diabetes mellitus: A systematic review and meta-analysis.
+- new | 2021 | 33884948 | SR | Clinical trials with plants in diabetes mellitus therapy: a systematic review.
+- HELD REF-1213 | 2020 | 32951763 | RCT | Hypoglycemic efficacy and safety of Momordica charantia (bitter melon) in patients with type 2 diabetes mellitus.
+- new | 2020 | 31669858 | Clinical Trial | News and views in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): The role of co-morbidity and novel treatments.
+- new | 2019 | 30385422 | MA/SR | Momordica charantia L. lowers elevated glycaemia in type 2 diabetes mellitus patients: Systematic review and meta-analysis.
+- new | 2018 | 29339109 | RCT | Bitter gourd reduces elevated fasting plasma glucose levels in an intervention study among prediabetics in Tanzania.
+- new | 2018 | 29431598 | RCT | Momordica charantia Administration Improves Insulin Secretion in Type 2 Diabetes Mellitus.
+- HELD REF-1218 | 2018 | 30057048 | RCT | The effects of Momordica charantia (bitter melon) supplementation in patients with primary knee osteoarthritis: A single-blinded, randomized controlled trial.
+- new | 2015 | 25623883 | RCT | Lower hypoglycemic but higher antiatherogenic effects of bitter melon than glibenclamide in type 2 diabetic patients.
+- HELD REF-3396 | 2012 | 22895968 | SR | Momordica charantia for type 2 diabetes mellitus.
+- new | 2012 | 22243626 |  | Wild bitter gourd improves metabolic syndrome: a preliminary dietary supplementation trial.
+- new | 2011 | 21211558 | RCT | Hypoglycemic effect of bitter melon compared with metformin in newly diagnosed type 2 diabetes patients.
+- new | 2010 | 20166099 | SR | Momordica charantia for type 2 diabetes mellitus.
+- new | 2009 | 19362455 | RCT | Serum sialic acid changes in non-insulin-dependant diabetes mellitus (NIDDM) patients following bitter melon (Momordica charantia) and rosiglitazone (Avandia) treatment.
+- new | 2009 | 19665538 | RCT | No effect of acute, single dose oral administration of Momordica charantia Linn., on glycemia, energy expenditure and appetite: a pilot study in non-diabetic overweight m
+- new | 2007 | 17493509 | RCT | The effect of Momordica charantia capsule preparation on glycemic control in type 2 diabetes mellitus needs further studies.
+- new | 2006 | 16940700 | RCT | Potassium excretion in healthy Japanese women was increased by a dietary intervention utilizing home-parcel delivery of Okinawan vegetables.
+- new | 2005 | 16202376 | SR | Are Ayurvedic herbs for diabetes effective?
+- new | 2004 | 15521566 | Clinical Trial | Phytochemical determination and extraction of Momordica charantia fruit and its hypoglycemic potentiation of oral hypoglycemic drugs in diabetes mellitus (NIDDM).
+- new | 2003 | 12678140 | Clinical Trial/RCT | Effect of bitter melon (Momordica charantia Linn) on level and function of natural killer cells in cervical cancer patients with radiotherapy.
+- new | 2003 | 14723327 | Clinical Trial/RCT | Evaluation of the efficacy of bitter gourd (momordica charantia) as an oral hypoglycemic agent--a randomized controlled clinical trial.
+- new | 2003 | 12663610 | SR | Systematic review of herbs and dietary supplements for glycemic control in diabetes.
+- new | 1999 | 10758656 | Clinical Trial | Effect of Momordica charantia (Karolla) extracts on fasting and postprandial serum glucose levels in NIDDM patients.
+- new | 1981 | 6786635 | Clinical Trial | Improvement in glucose tolerance due to Momordica charantia (karela).
+- new | 1977 | 20078273 | Clinical Trial | Clinical trial in patients with diabetes mellitus of an insulin-like compound obtained from plant source.
+
+## morinda-citrifolia (Morinda citrifolia; Noni) - 17 (+CT) hits; query: ("Morinda citrifolia"[tiab]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42280334 | RCT | Fermented Noni Polysaccharides and Immune-Related Biomarkers in Adults with Recurrent URTIs: A Randomized, Double-Blind, Placebo-Controlled Trial.
+- new | 2024 | 38358681 | SR | Anticancer and chemopreventive potential of Morinda citrifolia L. bioactive compounds: A comprehensive update.
+- new | 2022 | 36041061 | SR | D-mannose for preventing and treating urinary tract infections.
+- new | 2022 | 36448674 | SR | Efficacy and Safety of Morinda citrifolia L. (Noni) as a Potential Anticancer Agent.
+- new | 2022 | 35684003 | RCT | Fermented Carica papaya and Morinda citrifolia as Perspective Food Supplements for the Treatment of Post-COVID Symptoms: Randomized Placebo-Controlled Clinical Laboratory
+- new | 2020 | 32488098 | Clinical Trial | The Effect of Corrected Inflammation, Oxidative Stress and Endothelial Dysfunction on Fmd Levels in Patients with Selected Chronic Diseases: A Quasi-Experimental Study.
+- new | 2017 | 28403598 | RCT | Prospective study to compare antibiosis versus the association of N-acetylcysteine, D-mannose and Morinda citrifolia fruit extract in preventing urinary tract infections 
+- new | 2016 | 26822584 | SR | Effects of Plants on Osteogenic Differentiation and Mineralization of Periodontal Ligament Cells: A Systematic Review.
+- new | 2012 | 23097636 | RCT | Noni juice improves serum lipid profiles and other risk markers in cigarette smokers.
+- new | 2012 | 22580040 | RCT | Gastrokinetic activity of Morinda citrifolia aqueous fruit extract and its possible mechanism of action in human and rat models.
+- new | 2012 | 22474954 | RCT | A double-blind, randomized, clinical trial on the antileishmanial activity of a Morinda citrifolia (Noni) stem extract and its major constituents.
+- new | 2010 | 21294416 | RCT | Morinda citrifolia Linn. for prevention of postoperative nausea and vomiting.
+- new | 2008 | 22436097 |  | Pharmacokinetic study of Noni fruit extract.
+- new | 2008 | 19026877 | RCT | The comparison of the effect of endodontic irrigation on cell adherence to root canal dentin.
+- new | 2008 | 18155496 | RCT | Evaluation of Morinda citrifolia as an endodontic irrigant.
+- new | 2008 | 18346148 |  | Enhanced bactericidal activity against Escherichia coli in calves fed Morinda citrifolia (Noni) puree.
+- new | 2004 | 15650461 | Clinical Trial/RCT | Effects of Morinda citrifolia on quality of life and auditory function in postmenopausal women.
+
+## nepeta-cataria (Nepeta cataria; Catnip) - 0 (+CT) hits; query: ("Nepeta cataria"[tiab] OR "Catnip"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## nigella-sativa (Nigella sativa; Black Cumin) - 161 hits; query: ("Nigella sativa"[tiab] OR "Black Cumin"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41731134 | SR | Systematic review of prophylactic antibacterial agents for radiation-induced oral mucositis in head and neck cancer.
+- new | 2026 | 41858302 | SR/MA | The Effect of Nigella sativa Supplementation on Cardiometabolic Health in Patients With Metabolic Diseases: A GRADE-Assessed Systematic Review and Meta-Analysis.
+- new | 2026 | 42601227 | RCT | Nigella sativa (Black Seed) Oil Alleviates the Serum Levels of IL-6 and Insulin in Patients With Polycystic Ovary Syndrome.
+- new | 2026 | 42247419 | SR | Plant-based therapeutics for leishmaniasis: A systematic review emphasizing human studies and clinical trial evidence.
+- new | 2026 | 41472641 | RCT | Comparative Efficacy of Nigella sativa and Chlorhexidine Mouthwashes in the Management of Gingivitis: A Randomized Controlled Trial.
+- new | 2026 | 42735469 | SR | Traditional, complementary, and integrative medicine therapies for mild/moderate acute COVID-19: a systematic review and network meta-analysis.
+- new | 2026 | 42744850 | RCT | A prospective randomized controlled pilot study of gut microbiome modulation by Nigella sativa seed oil and thymoquinone metabolism in healthy volunteers: implications fo
+- new | 2026 | 41116039 | SR | A holistic guide to effective prevention and treatment for kidney stones: a systematic review exploring anti-urolithiasis approaches.
+- new | 2026 | 42522800 | SR/MA | Thymoquinone Modulates Gene Expression Associated with Apoptosis in Colorectal Cancer: A Preclinical Systematic Review and Meta-Analysis of BAX, BCL2, and CASP3.
+- new | 2026 | 41880716 | RCT | Effect of sesame oil and Nigella sativa oil on the prevention of amiodarone-induced phlebitis: a randomized controlled trial.
+- new | 2026 | 39642267 | RCT | The Effect of Foot Reflexology and Knee Massage With Black Cumin Seed Oil on Knee Osteoarthritis Symptoms.
+- new | 2026 | 40676793 | SR | Clinical Evidence of Traditional Medicines in Modulating the Immune Response and Diabetic Wound Healing.
+- new | 2025 | 40714301 | SR/MA | Does Nigella sativa supplementation improve cardiovascular disease risk factors? A comprehensive GRADE-assessed systematic review and dose-response meta-analysis of 82 ra
+- new | 2025 | 40839182 | SR/MA | Effects of Nigella sativa and its constituents on inflammatory markers in ovalbumin-induced asthma model: a preclinical systematic review and meta-analysis.
+- new | 2025 | 40210172 | MA/SR | Effects of black seed (Nigella sativa L.) on cardiometabolic indices in type 2 diabetic patients: A systematic review and meta-analysis of RCTs.
+- new | 2025 | 40743826 | RCT | Therapeutic Potential of Thymoquinone in Conjunction with Mechanical Debridement for Peri-Implantitis: A Prospective Clinical Evaluation.
+- new | 2025 | 41267796 | RCT | Nigella sativa Seeds Ease Severity of Premenstrual Syndrome in Women: A Randomized, Double-Blinded, Placebo-Controlled Study.
+- new | 2025 | 38265398 | MA/SR | Effect of Nigella sativa Consumption on Lipid Profile and Glycemic Index in Patients with Metabolic Syndrome: A Systematic Review and Meta-analysis of Randomized Controll
+- new | 2025 | 40490159 | SR | Efficacy and safety of phytotherapy and anthroposophic medicine in bronchial asthma: A systematic review.
+- new | 2025 | 41029669 | SR | The efficacy and safety of herbal medicines for glycaemic control and insulin resistance in individuals with type 2 diabetes: an umbrella review.
+- new | 2025 | 40944842 | RCT | Evaluating the cytotoxicity and efficacy of nanoemulsion containing propolis plus Nigella sativa nanoparticles for pulpotomy of primary teeth: randomised split-mouth clin
+- new | 2025 | 40465634 | RCT | The effect of Nigella Sativa emulgel on episiotomy wound healing and pain intensity in primiparous women: A triple-blind randomized controlled trial.
+- new | 2025 | 39709091 | MA/SR | Alleviating effects of Nigella sativa supplements on biomarkers of inflammation and oxidative stress: Results from an umbrella meta-analysis.
+- new | 2025 | 40055705 | RCT | Effect of Nigella sativa-L supplementation on glycemia in adolescent polycystic ovarian syndrome: secondary analysis of a randomized controlled trial study.
+- new | 2025 | 40352190 | RCT | Effect of Nigella sativa seed extract on estradiol, FSH levels, and vaginal maturity index in menopausal women: A randomized controlled trial.
+- new | 2025 | 40048139 | RCT | Cardioprotective Effect of Nigella sativa in Pediatric Patients with Type 1 Diabetes Mellitus: A Randomized Controlled Study.
+- new | 2024 | 38892617 | RCT | The Effect of Therapeutic Doses of Culinary Spices in Metabolic Syndrome: A Randomized Controlled Trial.
+- new | 2024 | 39002164 | SR | Systematic Review of Randomized Controlled Trials in Uses of Nigella Sativa (Black Seed) in Metabolic Syndrome.
+- new | 2024 | 38235870 | RCT | Effects of thymoquinone in the lungs of rats against radiation-induced oxidative stress.
+- new | 2024 | 38777430 | SR/MA | Effects of Nigella sativa supplementation on lipid profiles in adults: An updated systematic review and meta-analysis of randomized controlled trials.
+- new | 2024 | 39181437 | MA/SR | The effect of Nigella sativa supplementation on glycemic status in adults: An updated systematic review and meta-analysis of randomized controlled trials.
+- new | 2024 | 38178093 | RCT | A crossover randomized controlled trial examining the effects of black seed (Nigella sativa) supplementation on IL-1β, IL-6 and leptin, and insulin parameters in overweig
+- new | 2024 | 37859312 | SR/MA | Effect of Nigella sativa Intake on Oxidative Stress and Inflammation in Patients with Metabolic Syndrome and Related Disorders: A Systematic Review and Meta-analysis of R
+- new | 2024 | 39121267 | RCT | A randomized, double-blind, placebo-controlled study to evaluate the benefits of a standardized Nigella sativa oil containing 5% thymoquinone in reducing the symptoms of 
+- new | 2024 | 36757063 | MA/SR | The effect of Nigella sativa on the risk of mortality in patients with COVID-19: A systematic review and meta-analysis of randomized trials.
+- new | 2024 | 39372205 | SR | Meta-analysis of randomized controlled trials assessing the efficacy of nigella sativa supplementation for allergic rhinitis treatment.
+- new | 2024 | 38371505 | SR | Natural products and dietary interventions on liver enzymes: an umbrella review and evidence map.
+- new | 2024 | 37957516 | RCT | Topical Nigella sativa L. product: a new candidate for the management of diabetic peripheral neuropathy.
+- new | 2024 | 39816053 | RCT | Effects of Nigella sativa on disease activity, T lymphocytes and inflammatory cytokine profiles in pediatric systemic lupus erythematosus: A randomized controlled trial.
+- new | 2024 | 38997723 | RCT | The possible short-term of Nigella sativa - L in the management of adolescent polycystic ovarian syndrome: results of a randomized controlled trial.
+- new | 2024 | 36547822 | RCT | Comparative evaluation of the efficacy of Nigella sativa (75% v/v) cream and clobetasol propionate (0.05% w/w) gel in oral lichen planus-a double-blinded randomized contr
+- new | 2023 | 36839399 | SR | The Influence of Nutritional Intervention in the Treatment of Hashimoto's Thyroiditis-A Systematic Review.
+- new | 2023 | 37778464 | SR | Comparative effects of nutraceuticals on body weight in adults with overweight or obesity: A systematic review and network meta-analysis of 111 randomized clinical trials
+- new | 2023 | 37057067 | SR | Nigella sativa and health outcomes: An overview of systematic reviews and meta-analyses.
+- HELD REF-2513 | 2023 | 37341696 | MA/SR | Antihypertensive effects of Nigella sativa supplementation: An updated systematic review and meta-analysis of randomized controlled trials.
+- new | 2023 | 37036558 | MA/SR | The effect of Nigella sativa (black seed) on biomarkers of inflammation and oxidative stress: an updated systematic review and meta-analysis of randomized controlled tria
+- new | 2023 | 37069587 | RCT | Nigella sativa powder for helicobacter pylori infected patients: a randomized, double-blinded, placebo-controlled clinical trial.
+- new | 2023 | 37323050 | SR | Non-Chinese herbal medicines for functional dyspepsia.
+- new | 2023 | 37013429 | SR | Achievements in Hypothyroidism Treatment with Herbal Medicine: A Systematic Review of Randomized Controlled Trials.
+- new | 2023 | 36420866 | RCT | Honey and Nigella sativa against COVID-19 in Pakistan (HNS-COVID-PK): A multicenter placebo-controlled randomized clinical trial.
+- new | 2023 | 36167322 | SR | Effect of Nigella Sativa in Improving Blood Glucose Level in T2DM: Systematic Literature Review of Randomized Control Trials.
+- new | 2023 | 36640148 | RCT | Effect of Nigella sativa L. seed oil on urinary incontinence and quality of life in menopausal women: A triple-blind randomized controlled trial.
+- new | 2022 | 35993457 | SR | Herbal Medicines for Idiopathic Male Infertility: A Systematic Review.
+- new | 2022 | 36446563 | SR/MA | The Effectiveness of Herbal Medicines on Cyclic Mastalgia: A Systematic Review on Meta-analysis.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2022 | 35754481 | SR | Effectiveness and Safety of Ayurvedic Medicines in Type 2 Diabetes Mellitus Management: A Systematic Review and Meta-Analysis.
+- new | 2022 | 36498999 | SR | Mitochondrial Dysfunction and Induction of Apoptosis in Hepatocellular Carcinoma and Cholangiocarcinoma Cell Lines by Thymoquinone.
+- new | 2022 | 36292966 | SR | Nigella sativa L. and Its Active Compound Thymoquinone in the Clinical Management of Diabetes: A Systematic Review.
+- new | 2022 | 35871718 | RCT | Efficacy of nigella sativa oil on endothelial function and atherogenic indices in patients with coronary artery diseases: A randomized, double-blind, placebo-control clin
+- new | 2022 | 36142070 | RCT | The Effect of Short Treatment with Nigella Sativa on Symptoms, the Cluster of Differentiation (CD) Profile, and Inflammatory Markers in Mild COVID-19 Patients: A Randomiz
+- new | 2022 | 35685605 | RCT | A Comparative Study on Alvogyl and a Mixture of Black Seed Oil and Powder for Alveolar Osteitis: A Randomized Double-Blind Controlled Clinical Trial.
+- new | 2022 | 35412685 | RCT | The effect of Nigella sativa oil on vascular dysfunction assessed by flow-mediated dilation and vascular-related biomarkers in subject with cardiovascular disease risk fa
+- new | 2022 | 36150238 | RCT | Efficacy and safety of oral Nigella sativa oil for symptomatic treatment of knee osteoarthritis: A double-blind, randomized, placebo-controlled clinical trial.
+- new | 2022 | 35567872 | RCT | The effect of nigella sativa supplementation on cardiometabolic outcomes in patients with non-alcoholic fatty liver: A randomized double-blind, placebo-controlled trial.
+- new | 2021 | 34071454 | MA/SR | A Systematic Review and Meta-Analysis of Ayurvedic Herbal Preparations for Hypercholesterolemia.
+- new | 2021 | 33337930 | SR | A Systematic Review of Nutrition, Supplement, and Herbal-Based Adjunctive Therapies for Vitiligo.
+- new | 2021 | 33559935 | MA/SR | The effect of nigella sativa on biomarkers of inflammation and oxidative stress: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2021 | 33728708 | MA/SR | Effect of Nigella sativa in the treatment of nonalcoholic fatty liver disease: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2021 | 34187123 | MA/SR | The effect of Nigella sativa on oxidative stress and inflammatory biomarkers: a systematic review and meta-analysis.
+- new | 2021 | 34407441 | RCT | Nigella sativa for the treatment of COVID-19: An open-label randomized controlled clinical trial.
+- new | 2021 | 32525777 | SR | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review.
+- new | 2021 | 33851461 | RCT | Effects of Nigella sativa oil supplementation on selected metabolic parameters and anthropometric indices in patients with coronary artery disease: A randomized, double-b
+- new | 2021 | 32876804 | RCT | The effect of Nigella sativa supplementation on cardiovascular risk factors in obese and overweight women: a crossover, double-blind, placebo-controlled randomized clinic
+- new | 2021 | 33724587 | SR | Phytonutrient supplements and metabolic biomarkers of cardiovascular disease: An umbrella review of meta-analyses of clinical trials.
+- new | 2021 | 37901256 | RCT | Effect of Nigella sativa on general health and immune system in young healthy volunteers; a randomized, placebo-controlled, double-blinded clinical trial.
+- new | 2021 | 33919894 | SR | Vegetable Extracts and Nutrients Useful in the Recovery from Helicobacter pylori Infection: A Systematic Review on Clinical Trials.
+- new | 2021 | 34006388 | RCT | Nigella sativa as a promising intervention for metabolic and inflammatory disorders in obese prediabetic subjects: A comparative study of Nigella sativa versus both lifes
+- new | 2021 | 34496087 | RCT | The effect of nanomicelle curcumin supplementation and Nigella sativa oil on the expression level of miRNA-21, miRNA-422a, and miRNA-503 gene in postmenopausal women with
+- new | 2021 | 33370571 | RCT | The effect of Nigella sativa on appetite, anthropometric and body composition indices among overweight and obese women: A crossover, double-blind, placebo-controlled, ran
+- new | 2021 | 33957004 | RCT | A randomized, double-blind, placebo-controlled, clinical trial to evaluate the benefits of Nigella sativa seeds oil in reducing cardiovascular risks in hypertensive patie
+- new | 2021 | 34142392 | RCT | Effect of Nigella sativa oil extract on cardiometabolic risk factors in type 2 diabetes: A randomized, double-blind, placebo-controlled clinical trial.
+- new | 2020 | 31892440 | MA/SR | The influence of Nigella sativa for asthma control: A meta-analysis.
+- new | 2020 | 31972323 | SR | Effects of Nigella sativa on endothelial dysfunction in diabetes mellitus: A review.
+- new | 2020 | 32201245 | MA/SR | The effect of Nigella sativa on the measures of liver and kidney parameters: A systematic review and meta-analysis of randomized-controlled trials.
+- new | 2020 | 32394508 | MA/SR | Effects of Nigella sativa on glycemic control, lipid profiles, and biomarkers of inflammatory and oxidative stress: A systematic review and meta-analysis of randomized co
+- new | 2020 | 32454800 | MA | Effect of Nigella sativa Supplementation on Oxidative Stress and Antioxidant Parameters: A Meta-Analysis of Randomized Controlled Trials.
+- new | 2020 | 32274788 | SR | A Systematic Review of the Potential Effects of Nigella sativa on Rheumatoid Arthritis.
+- new | 2020 | 33183658 | MA/SR | Effect of Nigella sativa L. supplementation on inflammatory and oxidative stress indicators: A systematic review and meta-analysis of controlled clinical trials.
+- new | 2020 | 31882078 | MA/SR | The antidiabetic effect of thymoquinone: A systematic review and meta-analysis of animal studies.
+- new | 2020 | 32444053 | SR | Therapeutic potentials of Nigella sativa preparations and its constituents in the management of diabetes and its complications in experimental animals and patients with d
+- new | 2020 | 31793087 | MA/SR | Effect of the herbal medicines in obesity and metabolic syndrome: A systematic review and meta-analysis of clinical trials.
+- new | 2020 | 32548864 | RCT | The effect of a hydrogel made by Nigella sativa L. on acne vulgaris: A randomized double-blind clinical trial.
+- new | 2020 | 32236818 | RCT | The effects of nigella sativa on anthropometric and biochemical indices in postmenopausal women with metabolic syndrome.
+- new | 2020 | 32129194 | RCT | Evaluation of safety and efficacy profile of Nigella sativa oil as an add-on therapy, in addition to alpha-keto analogue of essential amino acids in patients with chronic
+- new | 2020 | 32359745 | RCT | The effects of powdered black cumin seeds on markers of oxidative stress, intracellular adhesion molecule (ICAM)-1 and vascular cell adhesion molecule (VCAM)-1 in patient
+- new | 2020 | 32510754 | RCT | Effect of Nigella sativa oil supplement on risk factors for cardiovascular diseases in patients with type 2 diabetes mellitus.
+- new | 2020 | 32566096 | RCT | Enhanced Efficacy of Direct-Acting Antivirals in Hepatitis C Patients by Coadministration of Black Cumin and Ascorbate as Antioxidant Adjuvants.
+- new | 2019 | 31817324 | SR | Effects of Nigella Sativa on Type-2 Diabetes Mellitus: A Systematic Review.
+- new | 2019 | 31331553 | MA/SR | The effect of Nigella sativa L. supplementation on serum C-reactive protein: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2019 | 30873688 | MA/SR | Effect of Nigella sativa (black seed) supplementation on glycemic control: A systematic review and meta-analysis of clinical trials.
+- new | 2019 | 31152309 | RCT | Effect of Nigella Sativa oil versus metformin on glycemic control and biochemical parameters of newly diagnosed type 2 diabetes mellitus patients.
+- new | 2019 | 31126557 | RCT | Nigella sativa and inflammatory biomarkers in patients with non-alcoholic fatty liver disease: Results from a randomized, double-blind, placebo-controlled, clinical trial
+- new | 2019 | 30666747 | RCT | The effects of Nigella sativa on quality of life, disease activity index, and some of inflammatory and oxidative stress factors in patients with ulcerative colitis.
+- new | 2019 | 31293021 | RCT | The effects of black seed supplementation on cardiovascular risk factors in patients with nonalcoholic fatty liver disease: A randomized, double-blind, placebo-controlled
+- new | 2019 | 30129806 | RCT | Effects of a combination of Nigella sativa and Vitex agnus-castus with citalopram on healthy menopausal women with hot flashes: results from a subpopulation analysis.
+- new | 2019 | 30875097 | RCT | Effects of Nigella sativa seeds (black cumin) on insulin secretion and lipid profile: A pilot study in healthy volunteers.
+- new | 2019 | 30873671 | RCT | Efficacy of black seed (Nigella sativa L.) on kidney stone dissolution: A randomized, double-blind, placebo-controlled, clinical trial.
+- new | 2019 | 30639231 | RCT | Standardized Nigella sativa seed oil ameliorates hepatic steatosis, aminotransferase and lipid levels in non-alcoholic fatty liver disease: A randomized, double-blind and
+- new | 2019 | 31666058 | SR | Effect of Nigella sativa and its bioactive compound on type 2 epithelial to mesenchymal transition: a systematic review.
+- new | 2019 | 31780017 | RCT | Nigella sativa L. for prevention of acute radiation dermatitis in breast cancer: A randomized, double-blind, placebo-controlled, clinical trial.
+- new | 2018 | 29559374 | MA/SR | The effects of Nigella sativa L. on obesity: A systematic review and meta-analysis.
+- new | 2018 | 29857879 | MA/SR | Effect of Nigella sativa supplementation on obesity indices: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2018 | 29621129 | SR | Plants and Surgery: The Protective Effects of Thymoquinone on Hepatic Injury-A Systematic Review of In Vivo Studies.
+- new | 2018 | 29705470 | RCT | Investigation of the effect of black cumin oil on pain in osteoarthritis geriatric individuals.
+- new | 2018 | 29493013 | RCT | Carcass characteristics, chemical and fatty acid composition and oxidative stability of meat from broiler chickens fed black cumin (Nigella sativa) seeds.
+- HELD REF-2516 | 2017 | 29154069 | MA/SR | Nigella sativa improves glucose homeostasis and serum lipids in type 2 diabetes: A systematic review and meta-analysis.
+- new | 2017 | 28093815 | RCT | Nigella sativa Supplementation Improves Asthma Control and Biomarkers: A Randomized, Double-Blind, Placebo-Controlled Trial.
+- new | 2017 | 27553624 | RCT | Nigella sativa (black cumin seed) as a biological detoxifier in diet contaminated with aflatoxin B(1).
+- new | 2017 | 28629150 | SR | Role of Nigella sativa and Its Constituent Thymoquinone on Chemotherapy-Induced Nephrotoxicity: Evidences from Experimental Animal Studies.
+- new | 2017 | 28349493 | RCT | Effect of Nigella sativa seed administration on prevention of febrile neutropenia during chemotherapy among children with brain tumors.
+- new | 2017 | 28098097 | RCT | Protective role of Nigella sativa in diabetic nephropathy: A randomized clinical trial.
+- new | 2017 | 29076670 | RCT | Effects of nigella sativa on various parameters in Patients of non-alcoholic fatty liver disease.
+- new | 2017 | 29348380 | RCT | Effect of Nigella sativa Seed Extract for Hypertension in Elderly: a Double-blind, Randomized Controlled Trial.
+- new | 2017 | 28151459 | RCT | Effect of Nigella sativa supplementation on lung function and inflammatory mediatorsin partly controlled asthma: a randomized controlled trial.
+- new | 2017 | 28378356 | RCT | Effect of an orally formulated processed black cumin, from Iranian traditional medicine pharmacopoeia, in relieving symptoms of knee osteoarthritis: A prospective, random
+- new | 2016 | 27852303 | RCT | The effects of Nigella sativa on thyroid function, serum Vascular Endothelial Growth Factor (VEGF) - 1, Nesfatin-1 and anthropometric features in patients with Hashimoto'
+- HELD REF-2512 | 2016 | 27512971 | MA/SR | A systematic review and meta-analysis of randomized controlled trials investigating the effects of supplementation with Nigella sativa (black seed) on blood pressure.
+- new | 2016 | 26875640 | MA/SR | Nigella sativa (black seed) effects on plasma lipid concentrations in humans: A systematic review and meta-analysis of randomized placebo-controlled trials.
+- new | 2016 | 26584456 | RCT | Effectiveness of Topical Nigella sativa Seed Oil in the Treatment of Cyclic Mastalgia: A Randomized, Triple-Blind, Active, and Placebo-Controlled Clinical Trial.
+- new | 2016 | 27678438 | RCT | Nigella sativa oil with a calorie-restricted diet can improve biomarkers of systemic inflammation in obese women: A randomized double-blind, placebo-controlled clinical t
+- new | 2016 | 27720650 | RCT | Clinicobiochemical evaluation of turmeric with black pepper and nigella sativa in management of oral submucous fibrosis-a double-blind, randomized preliminary study.
+- new | 2015 | 25847566 | SR | Effects of black seed (Nigella sativa) on metabolic parameters in diabetes mellitus: a systematic review.
+- new | 2015 | 25706772 | RCT | Nigella sativa improves glycemic control and ameliorates oxidative stress in patients with type 2 diabetes mellitus: placebo controlled participant blinded clinical trial
+- new | 2015 | 26179113 | RCT | Oxidative Stress Responses to Nigella sativa Oil Concurrent with a Low-Calorie Diet in Obese Women: A Randomized, Double-Blind Controlled Clinical Trial.
+- new | 2015 | 26029855 | RCT | Effects of Nigella sativa oil with a low-calorie diet on cardiometabolic risk factors in obese women: a randomized controlled clinical trial.
+- new | 2015 | 26386381 | RCT | Efficacy and safety of honey based formulation of Nigella sativa seed oil in functional dyspepsia: A double blind randomized controlled clinical trial.
+- new | 2014 | 24398317 | RCT | Topical Nigella Sativa for nasal symptoms in elderly.
+- new | 2014 | 24685020 | RCT | A randomised controlled trial on hypolipidemic effects of Nigella Sativa seeds powder in menopausal women.
+- new | 2014 | 24412554 | RCT | Nigella sativa L. seeds modulate mood, anxiety and cognition in healthy adolescent males.
+- new | 2014 | 23848231 | RCT | Effect of Nigella sativa and Allium sativum coadminstered with simvastatin in dyslipidemia patients: a prospective, randomized, double-blind trial.
+- new | 2014 | 23909469 | RCT | Comparative effects of using black seed (Nigella sativa), cumin seed (Cuminum cyminum), probiotic or prebiotic on growth performance, blood haematology and serum biochemi
+- new | 2014 | 24680621 | RCT | Effects of Nigella sativa L. seed oil on abnormal semen quality in infertile men: a randomized, double-blind, placebo-controlled clinical trial.
+- new | 2014 | 23909404 | RCT | Effect of different levels of black cumin (Nigella sativa L.) on performance, intestinal Escherichia coli colonization and jejunal morphology in laying hens.
+- new | 2013 | 23347204 | RCT | Treating Cryptosporidium parvum infection in calves.
+- new | 2013 | 23394797 | RCT | Prevalence, hematology, and treatment of balantidiasis among donkeys in and around Lahore, Pakistan.
+- new | 2013 | 23707331 | RCT | The effect of Nigella sativa Linn. seed on memory, attention and cognition in healthy human volunteers.
+- new | 2013 | 23436437 | RCT | Blood pressure lowering effect of Nigella sativa L. seed oil in healthy volunteers: a randomized, double-blind, placebo-controlled clinical trial.
+- new | 2013 | 23198836 | RCT | Comparison of therapeutic effect of topical Nigella with Betamethasone and Eucerin in hand eczema.
+- new | 2012 | 22822623 | RCT | Clinical evaluation of Nigella sativa seeds for the treatment of hyperlipidemia: a randomized, placebo controlled clinical trial.
+- new | 2011 | 21112742 | RCT | The effect of thymoquinone on intractable pediatric seizures (pilot study).
+- new | 2011 | 20947211 | RCT | Herbal treatment of allergic rhinitis: the use of Nigella sativa.
+- new | 2010 | 20616418 | RCT | Comparative study of Nigella Sativa and triple therapy in eradication of Helicobacter Pylori in patients with non-ulcer dyspepsia.
+- new | 2010 | 20724766 | RCT | Efficacy of Nigella sativa on serum free testosterone and metabolic disturbances in central obese male.
+- new | 2010 | 21675032 | RCT | Effect of Nigella sativa seeds on the glycemic control of patients with type 2 diabetes mellitus.
+- new | 2009 | 19275687 | SR | A systematic review of the potential herbal sources of future drugs effective in oxidant-related diseases.
+- new | 2009 | 19500003 | RCT | Effectiveness, safety, and tolerability of powdered Nigella sativa (kalonji) seed in capsules on serum lipid levels, blood sugar, blood pressure, and body weight in adult
+- new | 2008 | 18705755 | RCT | Antihypertensive effect of Nigella sativa seed extract in patients with mild hypertension.
+- new | 2008 | 18541126 | RCT | Symptomatic treatment of acute tonsillo-pharyngitis patients with a combination of Nigella sativa and Phyllanthus niruri extract.
+- new | 2008 | 18991514 | RCT | The possible prophylactic effect of Nigella sativa seed aqueous extract on respiratory symptoms and pulmonary function tests on chemical war victims: a randomized, double
+- new | 2007 | 17868210 | RCT | The possible prophylactic effect of Nigella sativa seed extract in asthmatic patients.
+- new | 2003 | 14669258 | Clinical Trial/RCT | Effect of Nigella sativa (black seed) on subjective feeling in patients with allergic diseases.
+
+## ocimum-tenuiflorum (Ocimum tenuiflorum; Holy Basil) - 5 (+CT) hits; query: ("Ocimum tenuiflorum"[tiab] OR "Holy Basil"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42930516 | SR/Review | Clinical Evidence of Orally Administered Herbal Preparations for Supportive Cancer Care: A PRISMA Systematic Review of Randomized Clinical Trials (1990-2026).
+- new | 2021 | 34132429 | SR | Promising traditional Indian medicinal plants for the management of novel Coronavirus disease: A systematic review.
+- new | 2015 | 26571987 | RCT | Holy basil (Ocimum sanctum Linn.) leaf extract enhances specific cognitive parameters in healthy adult volunteers: A placebo controlled study.
+- new | 2011 | 21177454 | RCT | Effects of flaxseed, sardines, pearl millet, and holy basil leaves on production traits of layers and fatty acid composition of egg yolks.
+- new | 1996 | 8880292 | Clinical Trial/RCT | Randomized placebo-controlled, single blind trial of holy basil leaves in patients with noninsulin-dependent diabetes mellitus.
+
+## oenothera-biennis (Oenothera biennis; Evening Primrose) - 59 hits; query: ("Oenothera biennis"[tiab] OR "Evening Primrose"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 41883983 | SR | The Effect of Evening Primrose Oil on Menopausal Symptoms Management: A Systematic Review and Meta-Analysis.
+- new | 2025 | 40418820 | RCT | Effects of evening primrose oil on treating painful diabetic neuropathy: a randomized, double-blind, clinical trial.
+- HELD REF-0446 | 2024 | 38360611 | SR | The effect of Oenothera biennis (Evening primrose) oil on inflammatory diseases: a systematic review of clinical trials.
+- new | 2024 | 38377980 | RCT | The Use of Evening Primrose Oil for Cervical Ripening in Low-Risk Women with Term Pregnancy: A Randomized Double-Blinded Controlled Trial.
+- new | 2023 | 37102338 | RCT | Comparison of Misoprostol and Evening Primrose Oil on Cervical Preparation Before Gynecological Surgery.
+- new | 2023 | 37081029 | RCT | Anti-inflammatory effect of combining fish oil and evening primrose oil supplementation on breast cancer patients undergoing chemotherapy: a randomized placebo-controlled
+- new | 2023 | 37468886 | RCT | Comparison of the effect of vaginal misoprostol and evening primrose oil capsule with misoprostol alone on the consequences of abortion in women with intrauterine fetal d
+- new | 2022 | 34260808 | RCT | Effects of a combination of botanical actives on skin health and antioxidant status in post-menopausal women: A randomized, double-blind, placebo-controlled clinical tria
+- new | 2022 | 35440333 | RCT | Effect of Evening Primrose Vaginal Capsule on Cervix Preparation and Duration of First Stage of Labor in Nulliparous Women Referred to Fatemieh Hospital in Hamadan, Iran:
+- new | 2022 | 35405955 | RCT | Effect of Evening Primrose Oil Supplementation on Biochemical Parameters and Nutrition of Patients Treated with Isotretinoin for Acne Vulgaris: A Randomized Double-Blind 
+- new | 2022 | 35889936 | RCT | Effect of Evening Primrose Oil Supplementation on Selected Parameters of Skin Condition in a Group of Patients Treated with Isotretinoin-A Randomized Double-Blind Trial.
+- new | 2021 | 34200727 | MA/SR | A Systematic Review and Meta-Analysis of the Efficacy of Evening Primrose Oil for Mastalgia Treatment.
+- HELD REF-1462 | 2021 | 33913585 | MA/SR | The effect of evening primrose oil on labor induction and cervical ripening: A systematic review and meta-analysis.
+- new | 2020 | 32441049 | MA/SR | Effect of evening primrose oil supplementation on lipid profile: A systematic review and meta-analysis of randomized clinical trials.
+- new | 2020 | 31738736 | RCT | Impact of evening primrose oil consumption on psychological symptoms of postmenopausal women: a randomized double-blinded placebo-controlled clinical trial.
+- new | 2019 | 31666832 | RCT | An investigation into the effect of evening primrose in dilatation of cervix and pain during and after hysterosalpingography.
+- HELD REF-1464 | 2018 | 29426270 | RCT | Evening primrose oil and labour, is it effective? A randomised clinical trial.
+- new | 2018 | 28742409 | RCT/Retracted Publication | The effects of vitamin D and evening primrose oil co-supplementation on lipid profiles and biomarkers of oxidative stress in vitamin D-deficient women with polycystic ova
+- new | 2016 | 26781763 | RCT | Vitamin D and Evening Primrose Oil Administration Improve Glycemia and Lipid Profiles in Women with Gestational Diabetes.
+- new | 2015 | 26365444 | RCT | Alteration of delta-6-desaturase (FADS2), secretory phospholipase-A2 (sPLA2) enzymes by Hot-nature diet with co-supplemented hemp seed, evening primrose oils intervention
+- new | 2014 | 25453518 | RCT | Activity of liver enzymes in multiple sclerosis patients with Hot-nature diet and co-supplemented hemp seed, evening primrose oils intervention.
+- HELD REF-0447 | 2013 | 23633319 | MA/SR | Oral evening primrose oil and borage oil for eczema.
+- new | 2013 | 23981095 | SR | Systematic review: the efficacy of herbal therapy in inflammatory bowel disease.
+- new | 2013 | 23625331 | RCT | The effect of oral evening primrose oil on menopausal hot flashes: a randomized clinical trial.
+- new | 2013 | 24050582 | RCT | Immunomodulatory and therapeutic effects of Hot-nature diet and co-supplemented hemp seed, evening primrose oils intervention in multiple sclerosis patients.
+- new | 2013 | 24311880 | RCT | Erythrocyte membrane fatty acids in multiple sclerosis patients and hot-nature dietary intervention with co-supplemented hemp-seed and evening-primrose oils.
+- new | 2012 | 22892074 | RCT | Mastalgia cured! Randomized trial comparing centchroman to evening primrose oil.
+- new | 2012 | 21674629 | RCT | A randomized, double-blind, placebo-controlled trial to evaluate efficacy and tolerability of an optimized botanical combination in the management of patients with primar
+- new | 2010 | 20359269 | RCT | Vitamin E and evening primrose oil for management of cyclical mastalgia: a randomized pilot study.
+- new | 2008 | 19052401 | RCT | Evening primrose oil is effective in atopic dermatitis: a randomized placebo-controlled trial.
+- new | 2008 | 17678567 | RCT | Co-supplementation of healthy women with fish oil and evening primrose oil increases plasma docosahexaenoic acid, gamma-linolenic acid and dihomo-gamma-linolenic acid lev
+- new | 2007 | 18087899 | RCT | Low intensity laser therapy is comparable to bromocriptine-evening primrose oil for the treatment of cyclical mastalgia in Egyptian females.
+- new | 2006 | 17168667 | MA/Review | A meta-analysis of randomized, placebo-controlled clinical trials of Efamol evening primrose oil in atopic eczema. Where do we go from here in light of more recent discov
+- new | 2002 | 12439536 | Clinical Trial/RCT | Evening primrose oil and fish oil for severe chronic mastalgia: a randomized, double-blind, controlled trial.
+- new | 2000 | 10796622 | SR | Polyunsaturated fatty acid (fish or evening primrose oil) for schizophrenia.
+- new | 1999 | 10442214 | Clinical Trial/RCT | Effect of topically applied evening primrose oil on epidermal barrier function in atopic dermatitis as a function of vehicle.
+- new | 1999 | 9933750 | Clinical Trial/RCT | Effects of oral supplementation with evening primrose oil for six weeks on plasma essential fatty acids and uremic skin symptoms in hemodialysis patients.
+- new | 1998 | 9932095 | Clinical Trial/RCT | Effect of a supplementary dietary evening primrose oil mixture on hoof growth, hoof growth rate and hoof lipid fractions in horses: a controlled and blinded trial.
+- new | 1996 | 9014601 | Clinical Trial/RCT | Epogam evening primrose oil treatment in atopic dermatitis and asthma.
+- new | 1996 | 8721802 | MA | Is evening primrose oil of value in the treatment of premenstrual syndrome?
+- new | 1996 | 8884146 | Clinical Trial/RCT | Evening primrose oil (Epogam) in the treatment of chronic hand dermatitis: disappointing therapeutic results.
+- new | 1995 | 8553525 | Clinical Trial/RCT | Canine atopic disease: therapeutic use of an evening primrose oil and fish oil combination.
+- new | 1994 | 8050140 | Clinical Trial/RCT | Evening primrose oil and marine oil in the treatment of psoriasis.
+- new | 1994 | 8136666 | Clinical Trial/RCT | Effect of oral gamolenic acid from evening primrose oil on menopausal flushing.
+- new | 1993 | 8485269 | Clinical Trial/RCT | A randomized controlled study of evening primrose oil and fish oil in ulcerative colitis.
+- new | 1992 | 1492408 | Clinical Trial/RCT | Effects of a combination of evening primrose oil (gamma linolenic acid) and fish oil (eicosapentaenoic + docahexaenoic acid) versus magnesium, and versus placebo in preve
+- new | 1992 | 1481346 | Clinical Trial/RCT | A double-blind comparison of olive oil and a combination of evening primrose oil and fish oil in the management of canine atopy.
+- new | 1992 | 1643883 | Clinical Trial/RCT | Comparison of the clinical efficacy of two commercial fatty acid supplements (EfaVet and DVM Derm Caps), evening primrose oil, and cold water marine fish oil in the manag
+- new | 1991 | 1913008 | Clinical Trial/RCT | Evening primrose oil in patients with rheumatoid arthritis and side-effects of non-steroidal anti-inflammatory drugs.
+- new | 1991 | 1943500 | Clinical Trial/RCT | Supplementation with evening primrose oil in atopic dermatitis: effect on fatty acids in neutrophils and epidermis.
+- new | 1990 | 2201888 | Clinical Trial/RCT | Evening primrose oil and treatment of premenstrual syndrome.
+- new | 1990 | 1969596 | MA | Evening primrose oil in atopic eczema.
+- new | 1990 | 2169638 | Clinical Trial/RCT | The effect of gamma-linolenic acid, an in vitro cytostatic substance contained in evening primrose oil, on primary liver cancer. A double-blind placebo controlled trial.
+- new | 1989 | 2717651 | Clinical Trial/RCT | A study of evening primrose seed oil in atopic asthma.
+- new | 1986 | 3529370 | Clinical Trial/RCT | Patients with primary Sjögren's syndrome treated for two months with evening primrose oil.
+- new | 1985 | 3908514 | Clinical Trial/RCT | Atopic eczema unresponsive to evening primrose oil (linoleic and gamma-linolenic acids).
+- new | 1983 | 6130264 | Clinical Trial/RCT | Evening primrose seed oil in ichthyosis vulgaris.
+- new | 1982 | 6128449 | Clinical Trial/RCT | Oral evening-primrose-seed oil improves atopic eczema.
+- new | 1981 | 6109930 | Clinical Trial/RCT | Treatment of atopic eczema with evening primrose oil.
+
+## olea-europaea (Olea europaea; Olive) - 480 hits; query: ("Olea europaea"[tiab] OR "Olive"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 40907633 | RCT | Extra-virgin olive oil and additional cardiovascular outcomes in the PREDIMED Trial: An outcome-wide perspective.
+- new | 2026 | 40971936 | SR/MA | The Effect of Different Types of Olive Oil on Glucose Control and Insulin Sensitivity: A GRADE-Assessed Systematic Review and Dose-Response Meta-Analysis of 51 Randomized
+- new | 2026 | 41848522 | SR/MA | Metabolic and inflammatory effects of oleuropein and olive leaf extract: a systematic review and meta-analysis.
+- new | 2026 | 41082645 | SR | Neuroprotective effects of olive oil and its phenolic compounds on neuroinflammation: a systematic review.
+- new | 2026 | 41740793 | SR/MA | Effect of extra virgin olive oil on mild cognitive impairment and dementia in older adults: a systematic review and meta-analysis of clinical trials.
+- new | 2026 | 42357530 | SR | Enzyme Inhibition by Bioactive Compounds from Olive (Olea europaea L.) and Pomegranate (Punica granatum L.): Systematic Review of In Vitro Studies.
+- new | 2026 | 40749711 | SR/MA | Effects of daily extra virgin olive oil consumption on biomarkers of inflammation and oxidative stress: a systematic review and meta-analysis.
+- new | 2026 | 42303499 | SR/MA | A GRADE-assessed systematic review and meta-analysis of randomized controlled trials evaluating the effects of olive leaf or olive pomace supplementation on cardiometabol
+- new | 2026 | 41520410 | RCT | Cardiovascular effects of extra virgin olive oil in healthy reproductive-aged women: a randomized controlled trial.
+- new | 2026 | 41949575 | RCT | Resting-state brain connectivity following extra virgin olive oil intake in healthy adults: a randomised crossover pilot neuroimaging substudy.
+- new | 2026 | 41787835 | RCT | Effects of Phenolic-Rich Extra Virgin Olive Oil and Prebiotics on Sarcopenia in Older Adults: FOOP-Sarc Project.
+- new | 2026 | 42101223 | SR/MA | Olive-Derived Extracts and Bioactive Compounds for Pain Management in Osteoarthritis and Degenerative Knee Pain: A Systematic Review and Meta-Analysis.
+- new | 2026 | 41978170 | RCT | OLIDIAG Study: Extra Virgin Olive Oil Supplementation in the Diet of Women with Gestational Diabetes Mellitus-A Randomized Clinical Trial.
+- new | 2026 | 42608317 | RCT | Oleanolic Acid-Enriched Olive Oil Attenuates Kidney Function Decline in Patients With Type 2 Diabetes: Results From the OLTRAD Randomised Controlled Trial.
+- new | 2026 | 41429309 | RCT | The impact of olive oil polyphenol supplementation on metabolic syndrome parameters The OleoMetS study: A randomized, controlled clinical trial.
+- new | 2026 | 42605134 | SR | Comparison of Olive Versus Fish Oil Based Parenteral Nutrition and Clinical Outcomes-A Systematic Review.
+- new | 2025 | 40507112 | SR | Exploring the Benefits of Extra Virgin Olive Oil on Cardiovascular Health Enhancement and Disease Prevention: A Systematic Review.
+- new | 2025 | 40990594 | RCT | Efficacy of olive leaf extracts in controlling blood pressure in hypertensive patients: a double-blind randomized clinical trial.
+- new | 2025 | 40651889 | SR/MA | Effect of the Mediterranean diet supplemented with olive oil versus the Mediterranean diet supplemented with mixed nuts on blood pressure and serum lipid indexes among ad
+- new | 2025 | 39001794 | SR | Olive Oil Consumption, Risk Factors, and Diseases: An Umbrella Review.
+- new | 2025 | 39530776 | SR/MA | Effect of the Mediterranean Diet Supplemented With Olive Oil Versus the Low-Fat Diet on Serum Inflammatory and Endothelial Indexes Among Adults: A Systematic Review and M
+- new | 2025 | 41487705 | SR | Systematic review and meta-analysis on the effect of olive oil in the treatment of periodontal diseases.
+- new | 2025 | 40526027 | SR | Herbal Medicine for Treating Herpes Labialis: A Systematic Review.
+- new | 2025 | 41373940 | RCT | Extra Virgin Olive Oil (EVOO) Improves Vascular Endothelial Function and Hemodynamic Parameters in Patients with Hyperlipidemia: A Post Hoc Analysis of a Randomized Contr
+- new | 2025 | 40943119 | RCT | Beneficial Effect of Olive Leaf Extract as an Adjunct to Standard Antifungal Therapy in Treating Candida-Related Oral Diseases.
+- new | 2025 | 40275388 | MA | Effect of olive oil consumption on diabetes risk: a dose-response meta-analysis.
+- new | 2025 | 39993475 | RCT | Oleuropein Supplementation Increases Resting Skeletal Muscle Fractional Pyruvate Dehydrogenase Activity but Does Not Influence Whole-Body Metabolism: A Randomized, Double
+- new | 2025 | 39818111 | RCT | Efficacy and safety of olive leaf extract (Olea europaea L.) for glycaemic control in adults with type 2 diabetes mellitus (ESOLED): A pilot randomised controlled trial.
+- new | 2025 | 41024096 | RCT | Effects of topical ozonated olive oil on lipid profile, quality of life, wound healing and glycemic control in patients with diabetic foot ulcers: a randomized controlled
+- new | 2025 | 40415417 | RCT | Essential fatty acid deficiency, olive oil-based intravenous lipid emulsion, and genetic polymorphisms: A pediatric randomized controlled trial.
+- new | 2025 | 41010458 | SR | Exploring the Role of Extra Virgin Olive Oil (EVOO) in MASLD: Evidence from Human Consumption.
+- new | 2025 | 40874389 | RCT | Efficacy of a Topical Lanolin-Beeswax-Olive Oil Blend (RepoGen Cream) in Preventing Nipple Fissures in Breastfeeding Women: A Randomized Controlled Trial.
+- new | 2025 | 40292522 | RCT | EFINUTRILES Study: Integrative Extra Virgin Olive Oil and Multimodal Lifestyle Interventions for Cardiovascular Health and SLE Management.
+- new | 2025 | 40806126 | RCT | Effects of High-Phenolic Extra Virgin Olive Oil (EVOO) on the Lipid Profile of Patients with Hyperlipidemia: A Randomized Clinical Trial.
+- new | 2025 | 40678895 | RCT | Exploring Galician phenolic-rich olive oil as a glycemic control strategy: the OILDIABET randomized trial.
+- new | 2025 | 40449295 | SR | Olive oil consumption and risk of breast cancer: Prospective results from the Moli-sani Study, and a systematic review of observational studies and randomized clinical tr
+- new | 2025 | 41002158 | RCT | Consumption of a Mediterranean lean fish enriched with platelet-activating factor inhibitors extracted from olive pomace favorably modulates hemostasis and thrombosis in 
+- new | 2024 | 38306883 | RCT | Daily olive oil intake is feasible to reduce trigeminal neuralgia facial pain: A pilot study.
+- new | 2024 | 39523824 | SR/MA | Association between olive oil consumption and all-cause, cardiovascular and cancer mortality in adult subjects: a systematic review and meta-analysis.
+- new | 2024 | 38305372 | RCT | Efficacy of Ozonated Olive Oil Gel in the Management of Peri-Implant Mucositis.
+- new | 2024 | 37977313 | MA/SR | Effect of Extra Virgin Olive Oil on Anthropometric Indices, Inflammatory and Cardiometabolic Markers: a Systematic Review and Meta-Analysis of Randomized Clinical Trials.
+- new | 2024 | 38542768 | MA/SR | The Effects of Olive Oil Consumption on Biochemical Parameters and Body Mass Index of People with Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-Analysis 
+- new | 2024 | 39153124 | MA/SR | Mediterranean diet enriched with olive oil shows no consistent benefits on cardiometabolic and anthropometric parameters: a systematic review with meta-analysis of random
+- new | 2024 | 38287654 | SR/MA | Olive leaf extract effect on cardiometabolic risk factors: a systematic review and meta-analysis of randomized clinical trials.
+- new | 2024 | 39519287 | RCT | Comparison of n-3 PUFA-Enriched vs. Olive-Oil-Based Lipid Emulsion on Oxidative Stress and Inflammatory Response in Critically Ill Post-Surgery Adults: Secondary Analysis
+- new | 2024 | 39558500 | SR/MA | Supplementation of Olive Oil and Flaxseed Oil on Blood Pressure and Inflammation in Healthy and At-Risk Adults: A Systematic Literature Review and Meta-Analysis.
+- new | 2024 | 38881876 | SR | Safety classification of herbal medicine use among hypertensive patients: a systematic review and meta-analysis.
+- new | 2024 | 38568797 | MA/SR | Olive oil intake and cardiovascular disease, cancer, and all-cause mortality: a systematic review and dose-response meta-analysis of prospective cohort studies.
+- new | 2024 | 39045758 | RCT | Recipe for Heart Health: A Randomized Crossover Trial on Cardiometabolic Effects of Extra Virgin Olive Oil Within a Whole-Food Plant-Based Vegan Diet.
+- HELD REF-1445 | 2024 | 39599665 | RCT | Olive Leaf Extract Supplementation Improves Postmenopausal Symptoms: A Randomized, Double-Blind, Placebo-Controlled Parallel Study on Postmenopausal Women.
+- new | 2024 | 38295507 | RCT | Eight weeks of daily cottonseed oil intake attenuates postprandial angiopoietin-like proteins 3 and 4 responses compared to olive oil in adults with hypercholesterolemia:
+- new | 2024 | 38682205 | RCT | Does Yogurt Enriched with Platelet-Activating Factor Inhibitors from Olive Oil By-Products Affect Gut Microbiota and Faecal Metabolites in Healthy Overweight Subjects? (A
+- new | 2024 | 38255980 | RCT | Acute Antiplatelet Effects of an Oleocanthal-Rich Olive Oil in Type II Diabetic Patients: A Postprandial Study.
+- new | 2024 | 38518848 | RCT | Substitution of dietary monounsaturated fatty acids from olive oil for saturated fatty acids from lard increases low-density lipoprotein apolipoprotein B-100 fractional c
+- new | 2024 | 38372798 | RCT | Diverse impacts of red palm olein, extra virgin coconut oil and extra virgin olive oil on cardiometabolic risk markers in individuals with central obesity: a randomised t
+- new | 2024 | 38879018 | SR | Accounting for circular economy principles in Life Cycle Assessments of extra-virgin olive oil supply chains - Findings from a systematic literature review.
+- new | 2024 | 39490924 | RCT | Effects of coconut oil, olive oil, and butter on plasma fatty acids and metabolic risk factors: a randomized trial.
+- new | 2024 | 39623211 | RCT | Evaluating the effectiveness of topical olive leaf extract emulgel in managing recurrent herpes labialis: a randomized controlled clinical study.
+- new | 2023 | 35866510 | MA/SR | Comparison of canola oil and olive oil consumption on the serum lipid profile in adults: a systematic review and meta-analysis of randomized controlled trials.
+- new | 2023 | 37278997 | MA/SR | Olive oil and body fat: a systematic review with meta-analysis.
+- new | 2023 | 37740234 | MA | Meta-analysis of transcriptome reveals key genes relating to oil quality in olive.
+- new | 2023 | 37072503 | RCT | Randomized clinical trial on the clinical effects of a toothpaste containing extra virgin olive oil, xylitol, and betaine in gingivitis.
+- new | 2023 | 37740318 | RCT | Bioactive compounds in pomace olive oil modulate the inflammatory response elicited by postprandial triglyceride-rich lipoproteins in BV-2 cells.
+- new | 2023 | 37967452 | RCT | The Short-Term Effect of Olive Oil Extract Enriched with Hydroxytyrosol on Cardiovascular Function.
+- new | 2023 | 37885446 | SR | The effects of olive oil consumption on cognitive performance: a systematic review.
+- new | 2023 | 36696715 | SR | Olive oil consumption confers protective effects on maternal-fetal outcomes: A systematic review of the evidence.
+- new | 2023 | 36912212 | RCT | Association of hydroxytyrosol enriched olive oil with vascular function in chronic coronary disease.
+- new | 2023 | 36408701 | SR/MA | The effects of olive oil consumption on blood lipids: a systematic review and dose-response meta-analysis of randomised controlled trials.
+- new | 2023 | 36678293 | RCT | The Effect of a Hydroxytyrosol-Rich, Olive-Derived Phytocomplex on Aerobic Exercise and Acute Recovery.
+- new | 2023 | 37797219 | RCT | Comparative Effectiveness of Olive Oil and Breast Milk on Nipple Soreness in Breastfeeding Mothers.
+- new | 2023 | 36319585 | RCT | Efficacy of olive leaves extract on the outcomes of hospitalized covid-19 patients: A randomized, triple-blinded clinical trial.
+- new | 2023 | 37812020 | RCT | Bioavailability and systemic transport of oleanolic acid in humans, formulated as a functional olive oil.
+- new | 2023 | 37375586 | RCT | Low Dose Monacolin K Combined with Coenzyme Q10, Grape Seed, and Olive Leaf Extracts Lowers LDL Cholesterol in Patients with Mild Dyslipidemia: A Multicenter, Randomized 
+- new | 2023 | 37904687 | RCT | Buccopharyngeal route administered high polyphenolic olive oil and COVID-19: A pilot clinical trial.
+- new | 2023 | 36056703 | RCT | Metabolic responses to 8 weeks of consuming cottonseed oil versus olive oil in adults with dyslipidaemia: a randomised trial.
+- new | 2023 | 36792398 | RCT | The efficacy of honey or olive oil on the severity of oral mucositis and pain compared to placebo (standard care) in children with leukemia receiving intensive chemothera
+- new | 2023 | 37409710 | RCT | [Organoleptic evaluation of a diabetes-specific oral nutritional supplement with extra virgin olive oil in patients at nutritional risk and type 2 diabetes mellitus: Doub
+- new | 2023 | 36153442 | RCT | Olive pomace oil can improve blood lipid profile: a randomized, blind, crossover, controlled clinical trial in healthy and at-risk volunteers.
+- new | 2023 | 37409714 | RCT | Glycaemic and insulinaemic impact of a diabetes-specific oral nutritional supplement with extra-virgin olive oil in patients with type 2 diabetes mellitus at nutritional 
+- new | 2023 | 37421852 | RCT | Rich oleocanthal and oleacein extra virgin olive oil and inflammatory and antioxidant status in people with obesity and prediabetes. The APRIL study: A randomised, contro
+- new | 2023 | 37513652 | RCT | Effects of Desert Olive Tree Pearls Containing High Hydroxytyrosol Concentrations on the Cognitive Functions of Middle-Aged and Older Adults.
+- new | 2023 | 36377535 | RCT | Extra virgin olive oil improves HDL lipid fraction but not HDL-mediated cholesterol efflux capacity: a double-blind, randomised, controlled, cross-over study (OLIVAUS).
+- new | 2022 | 36343558 | MA/SR | Effect of olive oil consumption on cardiovascular disease, cancer, type 2 diabetes, and all-cause mortality: A systematic review and meta-analysis.
+- new | 2022 | 35015763 | MA/SR | Olive oil intake and cancer risk: A systematic review and meta-analysis.
+- new | 2022 | 36429639 | MA/SR | Efficacy and Safety of Topical Application of Olive Oil for Preventing Pressure Ulcers: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2022 | 36235579 | RCT | Effect of Olive Pomace Oil on Cardiovascular Health and Associated Pathologies.
+- new | 2022 | 35679085 | SR | Nutri-Epigenetic Effects of Phenolic Compounds from Extra Virgin Olive Oil: A Systematic Review.
+- new | 2022 | 36112590 | RCT | Comparing acute effects of extra virgin coconut oil and extra virgin olive oil consumption on appetite and food intake in normal-weight and obese male subjects.
+- new | 2022 | 34794522 | RCT | Effects of diets rich in ghee or olive oil on cardiometabolic risk factors in healthy adults: a two-period, crossover, randomised trial.
+- new | 2022 | 34811509 | RCT | Effect of pecan nuts and extra-virgin olive oil on glycemic profile and nontraditional anthropometric indexes in patients with coronary artery disease: a randomized clini
+- new | 2022 | 33971993 | RCT | Effects of supplementing a healthy diet with pecan nuts or extra-virgin olive oil on inflammatory profile of patients with stable coronary artery disease: a randomised cl
+- new | 2022 | 36501186 | RCT | The Impact of a Natural Olive-Derived Phytocomplex (OliPhenolia(®)) on Exercise-Induced Oxidative Stress in Healthy Adults.
+- new | 2022 | 36330142 | SR | Olive oil consumption and risk of cardiovascular disease and all-cause mortality: A meta-analysis of prospective cohort studies.
+- new | 2022 | 36513447 | RCT | High-fat low-carbohydrate enteral feeding enriched with olive oil and acute respiratory failure: A double-blind, randomized, controlled trial.
+- new | 2022 | 34435429 | RCT | An extra virgin olive oil-enriched chocolate spread positively modulates insulin-resistance markers compared with a palm oil-enriched one in healthy young adults: A doubl
+- new | 2022 | 35496299 | SR | Olive Leaves as a Potential Phytotherapy in the Treatment of COVID-19 Disease; A Mini-Review.
+- new | 2022 | 34716791 | RCT | Extra virgin olive oil high in polyphenols improves antioxidant status in adults: a double-blind, randomized, controlled, cross-over study (OLIVAUS).
+- new | 2022 | 34559686 | RCT | Effects of Olive Oil on Striae Gravidarum in Primiparous Women: A Randomized Controlled Clinical Study.
+- new | 2022 | 33541815 | RCT | The efficacy of olive leaf extract on healing herpes simplex virus labialis: A randomized double-blind study.
+- HELD REF-1441 | 2021 | 33561976 | SR | Thyroid-Modulating Activities of Olive and Its Polyphenols: A Systematic Review.
+- new | 2021 | 34153478 | MA/SR | Beneficial effects of dietary supplementation with olive oil, oleic acid, or hydroxytyrosol in metabolic syndrome: Systematic review and meta-analysis.
+- new | 2021 | 33941427 | MA/SR | Effect of extra virgin olive oil consumption on glycemic control: A systematic review and meta-analysis.
+- new | 2021 | 34981493 | RCT | Evaluation of the Anti-constipation Effects of Abdominal Application of Olive Oil Ointment in Children 1-4 Years Old: A Pilot Placebo-Controlled, Double-Blind, Randomized
+- new | 2021 | 32883373 | MA/SR | Olive oil and risk of breast cancer: a systematic review and dose-response meta-analysis of observational studies.
+- new | 2021 | 33430487 | SR | Epigenetic Modifications Induced by Olive Oil and Its Phenolic Compounds: A Systematic Review.
+- new | 2021 | 34443669 | SR | Olive Trees By-Products as Sources of Bioactive and Other Industrially Useful Compounds: A Systematic Review.
+- new | 2021 | 32816626 | RCT | Effects of a Combination of Extracts from Olive Fruit and Almonds Skin on Oxidative and Inflammation Markers in Hypercholesterolemic Subjects: A Randomized Controlled Tri
+- new | 2021 | 34425320 | RCT | Effects of extra virgin olive oil and pecans on plasma fatty acids in patients with stable coronary artery disease.
+- new | 2021 | 34071485 | RCT | Consumption of Enriched Yogurt with PAF Inhibitors from Olive Pomace Affects the Major Enzymes of PAF Metabolism: A Randomized, Double Blind, Three Arm Trial.
+- new | 2021 | 33805975 | RCT | Biocompatibility and Effectiveness of a Novel, Organic Olive Oil-Based Denture Adhesive: A Multicenter Randomized and Placebo-Controlled Clinical Trial.
+- new | 2021 | 34262527 | SR | Pathophysiology of Cerebellar Tremor: The Forward Model-Related Tremor and the Inferior Olive Oscillation-Related Tremor.
+- new | 2021 | 33884713 | RCT | The effect of extra virgin olive oil on anthropometric indices, lipid profile, and markers of oxidative stress and inflammation in patients with depression, a double-blin
+- new | 2021 | 33724592 | RCT | A standardized extract of Opuntia ficus-indica (L.) Mill and Olea europaea L. improves gastrointestinal discomfort: A double-blinded randomized-controlled study.
+- new | 2021 | 34684407 | RCT | Effects of Delayed-Release Olive Oil and Hydrolyzed Pine Nut Oil on Glucose Tolerance, Incretin Secretion and Appetite in Humans.
+- new | 2021 | 33057887 | RCT | Effect of St. John's wort oil and olive oil on the postoperative complications after third molar surgery: randomized, double-blind clinical trial.
+- new | 2020 | 32230754 | RCT | Effects of Olive Oil Consumption on Cardiovascular Risk Factors in Patients with Fibromyalgia.
+- new | 2020 | 32562310 | RCT | Impact of Phenol-Enriched Virgin Olive Oils on the Postprandial Levels of Circulating microRNAs Related to Cardiovascular Disease.
+- new | 2020 | 31539817 | MA/SR | Is olive oil good for you? A systematic review and meta-analysis on anti-inflammatory benefits from regular dietary intake.
+- new | 2020 | 31856379 | RCT | Effects of a healthy diet enriched or not with pecan nuts or extra-virgin olive oil on the lipid profile of patients with stable coronary artery disease: a randomised cli
+- new | 2020 | 30192341 | RCT | The Effectiveness of Olive Oil in Controlling Morning Inflammatory Pain of Phalanges and Knees Among Women With Rheumatoid Arthritis: A Randomized Clinical Trial.
+- new | 2020 | 32438719 | RCT | Effect of a Combination of Citrus Flavones and Flavanones and Olive Polyphenols for the Reduction of Cardiovascular Disease Risk: An Exploratory Randomized, Double-Blind,
+- new | 2020 | 32422956 | RCT | Traditional Brazilian Diet and Olive Oil Reduce Cardiometabolic Risk Factors in Severely Obese Individuals: A Randomized Trial.
+- new | 2020 | 32891284 | RCT | Preventive effect of extra virgin olive oil on pressure injury development: A randomized controlled trial in Turkey.
+- new | 2019 | 30959140 | SR | A review of Algerian medicinal plants used in the treatment of diabetes.
+- new | 2019 | 30501915 | RCT | Olive leaf tea may have hematological health benefit over green tea.
+- new | 2019 | 29420053 | MA/SR | Comparison of blood lipid-lowering effects of olive oil and other plant oils: A systematic review and meta-analysis of 27 randomized placebo-controlled clinical trials.
+- new | 2019 | 31378629 | SR | Impact of different types of olive oil on cardiovascular risk factors: A systematic review and network meta-analysis.
+- new | 2019 | 30567626 | RCT | Gastrointestinal effects of extra-virgin olive oil associated with lower postprandial glycemia in type 1 diabetes.
+- new | 2019 | 29708409 | MA/SR | The effect of high-polyphenol extra virgin olive oil on cardiovascular risk factors: A systematic review and meta-analysis.
+- new | 2019 | 31609315 | RCT | A Clinical Trial Assessing the Safety, Efficacy, and Delivery of Olive-Oil-Based Three-Chamber Bags for Parenteral Nutrition.
+- new | 2019 | 31158739 | RCT | Olive leaf tea is beneficial for lipid metabolism in adults with prediabetes: an exploratory randomized controlled trial.
+- new | 2019 | 30628167 | RCT | Increased Consumption of Virgin Olive Oil, Nuts, Legumes, Whole Grains, and Fish Promotes HDL Functions in Humans.
+- new | 2019 | 31475465 | RCT | Effectiveness and safety of olive oil preparation for topical use in pressure ulcer prevention: Multicentre, controlled, randomised, and double-blinded clinical trial.
+- new | 2019 | 31930845 | RCT | Effects of Olive Leaf Extract on Metabolic Response, Liver and Kidney Functions and Inflammatory Biomarkers in Hypertensive Patients.
+- new | 2019 | 30554220 | RCT | A Mediterranean Diet with an Enhanced Consumption of Extra Virgin Olive Oil and Pistachios Improves Pregnancy Outcomes in Women Without Gestational Diabetes Mellitus: A S
+- new | 2019 | 31441437 | RCT | Comparison of Soybean-based Oil and MCT-olive-fish-soy Oil Intravenous Lipid Emulsions on Soluble Adhesion Markers in Preterm Neonates with Sepsis: A Randomized Controlle
+- new | 2019 | 30739376 | RCT | New-generation fish oil and olive oil lipid for prevention of oxidative damage in preterm infants: Single center clinical trial at university hospital in Turkey.
+- new | 2019 | 31364228 | RCT | Prevention of type 2 diabetes in prediabetic patients by using functional olive oil enriched in oleanolic acid: The PREDIABOLE study, a randomized controlled trial.
+- new | 2018 | 29511019 | RCT | Randomised trial of coconut oil, olive oil or butter on blood lipids and other cardiovascular risk factors in healthy men and women.
+- new | 2018 | 30461730 | MA/SR | [Olive Oil and Body Weight. Systematic Review and Meta-Analysis of Randomized Controlled Trials].
+- new | 2018 | 29577365 | RCT | Oleuropein, a component of extra virgin olive oil, lowers postprandial glycaemia in healthy subjects.
+- new | 2018 | 29125992 | RCT | Phenol-enriched olive oils improve HDL antioxidant content in hypercholesterolemic subjects. A randomized, double-blind, cross-over, controlled trial.
+- new | 2017 | 26658900 | RCT | Effect of olive oil phenolic compounds on the expression of blood pressure-related genes in healthy individuals.
+- new | 2017 | 27860303 | MA/SR | Effect of olive leaf extract on glucose levels in diabetes-induced rats: A systematic review and meta-analysis.
+- new | 2017 | 28394365 | MA/SR | Olive oil in the prevention and management of type 2 diabetes mellitus: a systematic review and meta-analysis of cohort studies and intervention trials.
+- new | 2017 | 27859279 | SR | Environmental impacts in the life cycle of olive oil: a literature review.
+- new | 2017 | 28887843 | RCT | Determinants of HDL Cholesterol Efflux Capacity after Virgin Olive Oil Ingestion: Interrelationships with Fluidity of HDL Monolayer.
+- new | 2016 | 27077879 | RCT | Influence of Phenol-Enriched Olive Oils on Human Intestinal Immune Function.
+- new | 2016 | 26980811 | MA/SR | Comparison of Formulas Based on Lipid Emulsions of Olive Oil, Soybean Oil, or Several Oils for Parenteral Nutrition: A Systematic Review and Meta-Analysis.
+- new | 2016 | 27713961 | SR | Anti-cancer properties of olive oil secoiridoid phenols: a systematic review of in vivo studies.
+- new | 2016 | 26551528 | RCT | Olive Oil, Sunflower Oil or no Oil for Baby Dry Skin or Massage: A Pilot, Assessor-blinded, Randomized Controlled Trial (the Oil in Baby SkincaRE [OBSeRvE] Study).
+- new | 2015 | 26055128 | MA/SR | Effects of high phenolic olive oil on cardiovascular risk factors: A systematic review and meta-analysis.
+- new | 2015 | 26378571 | MA/SR | Effects of Olive Oil on Markers of Inflammation and Endothelial Function-A Systematic Review and Meta-Analysis.
+- new | 2015 | 25306088 | RCT | Effect of oral olive oil on healing of 10-20% total body surface area burn wounds in hospitalized patients.
+- new | 2015 | 25387868 | RCT | Volatiles in raw and cooked meat from lambs fed olive cake and linseed.
+- new | 2015 | 25229401 | RCT | Pharmacokinetics of amoxicillin trihydrate in cultured olive flounder (Paralichthys olivaceus).
+- new | 2015 | 25617858 | RCT | Palmolein and olive oil consumed within a high protein test meal have similar effects on postprandial endothelial function in overweight and obese men: A randomized contr
+- new | 2015 | 26061039 | RCT | Impact of Virgin Olive Oil and Phenol-Enriched Virgin Olive Oils on the HDL Proteome in Hypercholesterolemic Subjects: A Double Blind, Randomized, Controlled, Cross-Over 
+- new | 2015 | 26488737 | RCT | Comparative trial of Aloe vera/olive oil combination cream versus phenytoin cream in the treatment of chronic wounds.
+- new | 2014 | 25274026 | MA/SR | Monounsaturated fatty acids, olive oil and health status: a systematic review and meta-analysis of cohort studies.
+- new | 2014 | 24775425 | MA | Olive oil consumption and risk of CHD and/or stroke: a meta-analysis of case-control, cohort and intervention studies.
+- new | 2014 | 24048161 | RCT | Fish Oil (SMOFlipid) and olive oil lipid (Clinoleic) in very preterm neonates.
+- new | 2014 | 24612248 | RCT | Efficacy of lycopene-enriched virgin olive oil for treating burning mouth syndrome: a double-blind randomised.
+- new | 2014 | 24980290 | RCT | Extra virgin olive oil blunt post-prandial oxidative stress via NOX2 down-regulation.
+- new | 2014 | 24886626 | RCT | Olive oil intake and risk of cardiovascular disease and mortality in the PREDIMED Study.
+- new | 2013 | 22995032 | RCT | Effect of olive and sunflower seed oil on the adult skin barrier: implications for neonatal skin care.
+- new | 2013 | 23225211 | RCT | A lycopene-enriched virgin olive oil enhances antioxidant status in humans.
+- new | 2013 | 22872323 | RCT | Beneficial effects of polyphenol-rich olive oil in patients with early atherosclerosis.
+- new | 2013 | 24025630 | RCT | Olive oil aroma extract modulates cerebral blood flow in gustatory brain areas in humans.
+- new | 2013 | 23732551 | RCT | Virgin olive oil supplementation and long-term cognition: the PREDIMED-NAVARRA randomized, trial.
+- new | 2012 | 22980891 | RCT | Impact of olive oil phenolic concentration on human plasmatic phenolic metabolites.
+- new | 2011 | 21742284 | RCT | Effects of olive oil on striae gravidarum in the second trimester of pregnancy.
+- new | 2011 | 21801436 | MA/SR | Olive oil intake is inversely related to cancer prevalence: a systematic review and a meta-analysis of 13,800 patients and 23,340 controls in 19 observational studies.
+- new | 2011 | 21443483 | MA/Review | Olive oil and cancer risk: an update of epidemiological findings through 2010.
+- new | 2011 | 21266699 | RCT | Olive oil-based fat emulsion versus soy oil-based fat emulsion in abdominal oncologic surgery.
+- new | 2011 | 21376434 | RCT | The effect of olive oil polyphenols on antibodies against oxidized LDL. A randomized clinical trial.
+- new | 2011 | 21142948 | RCT | Food fried in extra-virgin olive oil improves postprandial insulin response in obese, insulin-resistant women.
+- new | 2011 | 21036583 | RCT | Olive (Olea europaea) leaf extract effective in patients with stage-1 hypertension: comparison with Captopril.
+- new | 2010 | 20545561 | RCT | Comparing an olive oil-enriched diet to a standard lower-fat diet for weight loss in breast cancer survivors: a pilot study.
+- new | 2008 | 18622895 | RCT | Effect of olive oil consumption on serum resistin concentrations in healthy men.
+- new | 2008 | 17375118 | RCT | Anti-inflammatory effect of virgin olive oil in stable coronary disease patients: a randomized, crossover, controlled trial.
+- new | 2007 | 17391565 | RCT | Minor compounds of olive oil have postprandial anti-inflammatory effects.
+- new | 2007 | 17182805 | RCT | Moderate consumption of olive oil by healthy European men reduces systolic blood pressure in non-Mediterranean participants.
+- new | 2007 | 17824884 | RCT | Safety and effectiveness of topical dry mouth products containing olive oil, betaine, and xylitol in reducing xerostomia for polypharmacy-induced dry mouth.
+- new | 2006 | 16706995 | Clinical Trial/RCT | Extra-virgin vs. refined olive oil on postprandial hemostatic markers in healthy subjects.
+- new | 2006 | 16962938 | RCT | Effect of dietary virgin olive oil on urinary excretion of etheno-DNA adducts.
+- new | 2006 | 16441928 | RCT | Intradialytic parenteral nutrition: comparison of olive oil versus soybean oil-based lipid emulsions.
+- new | 2005 | 16132897 | RCT | Olive oil based nutrition in multiple trauma patients: a pilot study.
+- new | 2005 | 16286173 | RCT | Phenolic content of virgin olive oil improves ischemic reactive hyperemia in hypercholesterolemic patients.
+- new | 2005 | 15898977 | Clinical Trial/RCT | Immunotherapy with depigmented glutaraldehyde-polymerized extracts: changes in quality of life.
+- new | 2005 | 16188207 | RCT | Effect of randomized supplementation with high dose olive, flax or fish oil on serum phospholipid fatty acid levels in adults with attention deficit hyperactivity disorde
+- new | 2004 | 15380903 | Clinical Trial/RCT | Virgin olive oil reduces blood pressure in hypertensive elderly subjects.
+- new | 2004 | 15333722 | Clinical Trial/RCT | Olive oils high in phenolic compounds modulate oxidative/antioxidative status in men.
+- new | 2003 | 12548315 | Clinical Trial/RCT | Tyrosol and hydroxytyrosol are absorbed from moderate and sustained doses of virgin olive oil in humans.
+- new | 2002 | 12399264 | Clinical Trial/RCT | Olive oil increases the number of triacylglycerol-rich chylomicron particles compared with other oils: an effect retained when a second standard meal is fed.
+- new | 2000 | 10737284 | Clinical Trial/RCT | Olive oil and reduced need for antihypertensive medications.
+- new | 1999 | 10584041 | Clinical Trial/RCT | Are olive oil diets antithrombotic? Diets enriched with olive, rapeseed, or sunflower oil affect postprandial factor VII differently.
+- new | 1998 | 9440387 | Clinical Trial/RCT | Effect of olive oil on immune function in middle-aged men.
+- new | 1997 | 9085386 | MA | Olive oil and human cancer: an assessment of the evidence.
+- new | 1995 | 7733026 | Clinical Trial/RCT | Comparison of palmolein and olive oil: effects on plasma lipids and vitamin E in young adults.
+
+## ononis-arvensis (Ononis arvensis; Field restharrow) - 0 (+CT) hits; query: ("Ononis arvensis"[tiab] OR "Ononis hircina"[tiab] OR "Field restharrow"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])

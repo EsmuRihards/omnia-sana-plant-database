@@ -140,7 +140,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0097
-  - REF-0302
   - REF-1243
   - REF-1246
   - REF-1251
@@ -148,36 +147,30 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0097
-  - REF-0302
   - REF-1251
   - REF-1252
   status: verified
 - action: antiviral
   reference_ids:
   - REF-0097
-  - REF-0302
   status: verified
 - action: diuretic
-  reference_ids:
-  - REF-0097
-  - REF-0302
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: immunomodulator
   reference_ids:
   - REF-0097
-  - REF-0302
   - REF-1251
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0097
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0302
   - REF-1243
   - REF-1246
+  - REF-0097
 - condition: cardiovascular-support
   reference_ids:
   - REF-0097
@@ -185,69 +178,50 @@ indications:
   - REF-1249
   - REF-1250
   status: verified
+  note: Blackcurrant extract lowered cholesterol in a small pilot study in women and protected blood vessels
+    in animal studies; cardiovascular uses reviewed (review)
 - condition: cold
   note: inferred from antiviral action
-  reference_ids:
-  - REF-0097
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0302
+  - REF-0097
 - condition: eye-strain
   reference_ids:
   - REF-0097
   status: verified
+  note: Blackcurrant's use for eye conditions is reviewed (review)
 - condition: immune-support
-  reference_ids:
-  - REF-0097
-  status: verified
+  reference_ids: []
+  status: needs-review
   mechanistic_exclude_ids:
-  - REF-0302
+  - REF-0097
 - condition: infection
-  note: inferred from antiviral action
+  note: Antimicrobial effects of blackcurrant compounds are reviewed (review)
   reference_ids:
   - REF-0097
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0302
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Blackcurrant extract reduced inflammation in mice and immune cells (preclinical; review)
   reference_ids:
   - REF-0097
   - REF-1243
   - REF-1246
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0302
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0097
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0302
   - REF-1243
   - REF-1246
-- condition: swelling
-  note: inferred from diuretic action
-  reference_ids:
   - REF-0097
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0302
-- condition: urinary-support
-  note: inferred from diuretic action
+- condition: blood-sugar
+  note: Blackcurrant lowered the blood sugar and insulin rise after a sugar drink in a randomized crossover
+    trial
   reference_ids:
-  - REF-0097
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0302
-- condition: uti
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0097
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0302
+  - REF-1247
+  status: verified
 contraindications:
 - note: 'Fruit (berries) • Generally safe as food for most people; adverse effects mainly GI discomfort
     or allergy in sensitive individuals. • If using high-dose extracts, use extra caution with blood-thinners/anticoagulants
@@ -289,6 +263,7 @@ references:
 - REF-1250
 - REF-1251
 - REF-1252
+- REF-0302
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -309,4 +284,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   reuse the existing EMA-referenced book refs, constituents cite the preclinical phytochemistry studies
   (REF-1243, REF-1245, REF-1251). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
   for fruit (mid-late summer) + leaf (growing season) + seed (summer berries), all provisional: PFAF
-  REF-3323. Single lineage. Binomial confirmed.'
+  REF-3323. Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit (2nd pass + deep). Gopalan
+  2012 review REF-0097 (tagged rct; retagged narrative-review) was on 11 pairs - removed from the
+  seven whose symptoms it never names and from the diuretic action; swelling, urinary-support and
+  uti dropped. REF-0302 (acute cognition RCT, retagged rct) removed from five actions. New pair
+  (owner rule): blood-sugar (held RCT REF-1247). Gap: the EMA blackcurrant-leaf monograph (minor
+  joint pain, urinary flushing) could not be fetched (EMA 429) - not used.'

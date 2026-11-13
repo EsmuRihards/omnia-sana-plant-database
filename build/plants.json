@@ -46890,7 +46890,8 @@
      "reference_ids": [
       "REF-0524",
       "REF-0525",
-      "REF-0999"
+      "REF-0999",
+      "REF-3725"
      ],
      "status": "verified"
     }
@@ -46898,9 +46899,10 @@
    "indications": [
     {
      "condition": "bronchitis",
-     "note": "Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)",
+     "note": "Traditionally used for bronchitis and its persistent cough (Herbal Reality; Grieve, A Modern Herbal; herbalist text)",
      "reference_ids": [
-      "REF-0525"
+      "REF-0525",
+      "REF-3725"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -46908,7 +46910,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Wild cherry bark extract slowed colorectal cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-2558"
      ],
@@ -46918,50 +46920,15 @@
     },
     {
      "condition": "cough",
-     "note": "Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways); Antitussive - calms a persistent dry, irritating cough (prunasin quietens the cough reflex)",
+     "note": "Traditional remedy for irritating dry cough and the persistent cough of chronic bronchitis (Herbal Reality; Grieve, A Modern Herbal; herbalist text)",
      "reference_ids": [
       "REF-0524",
-      "REF-0525"
+      "REF-0525",
+      "REF-3725"
      ],
      "status": "needs-review",
      "evidence": 1,
      "label": "Cough"
-    },
-    {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0525"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1000"
-     ],
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0525"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1000"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
-     "condition": "sore-throat",
-     "note": "Soothes sore throat and respiratory irritation (traditional)",
-     "reference_ids": [
-      "REF-0524"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Sore throat"
     }
    ],
    "contraindications": [
@@ -47167,7 +47134,7 @@
    "indications": [
     {
      "condition": "depression",
-     "note": "Psilocybin-assisted therapy reduced depression in clinical trials",
+     "note": "Psilocybin, the mushroom's active compound, given with psychological support reduced depression in randomized trials and meta-analyses (compound evidence; purified psilocybin in supervised settings, not the raw mushroom)",
      "reference_ids": [
       "REF-0040",
       "REF-0099",
@@ -47183,7 +47150,7 @@
     },
     {
      "condition": "anxiety",
-     "note": "Reduced anxiety in clinical and preclinical studies",
+     "note": "Psilocybin reduced anxiety in people with life-threatening cancer in a randomized trial (compound evidence); mushroom extracts reduced anxiety-like behaviour in rodents (preclinical)",
      "reference_ids": [
       "REF-0099",
       "REF-1520",
@@ -47410,17 +47377,13 @@
     {
      "action": "demulcent",
      "note": "Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh (mucilage and saponins)",
-     "reference_ids": [
-      "REF-0479"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     },
     {
      "action": "expectorant",
      "note": "Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh (mucilage and saponins)",
-     "reference_ids": [
-      "REF-0479"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     }
    ],
@@ -47428,9 +47391,7 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0479"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0629"
@@ -47440,10 +47401,9 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Lungwort extract inhibited the inflammatory enzyme COX-2 and oxidative stress in the lab (preclinical)",
      "reference_ids": [
-      "REF-0479",
-      "REF-0629"
+      "REF-0479"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -47451,29 +47411,13 @@
     },
     {
      "condition": "respiratory-support",
-     "note": "Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh (mucilage and saponins)",
+     "note": "Lungwort extract was active against Staphylococcus aureus from cystic fibrosis patients in lab tests (preclinical)",
      "reference_ids": [
       "REF-1546"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0479"
-     ],
      "evidence": 2,
      "label": "Respiratory support"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from demulcent action",
-     "reference_ids": [
-      "REF-0479"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0629"
-     ],
-     "evidence": 1,
-     "label": "Skin irritation"
     }
    ],
    "contraindications": [
@@ -47607,8 +47551,7 @@
      "text": "Duke (2002) and general phytotherapy guidance treat this as an experimentally supported herb without a single agreed clinical dose; commercial resveratrol-standardised extracts should be dosed per product labelling. Educational reference only, not a prescription; avoid in pregnancy.",
      "reference_ids": [
       "REF-0037",
-      "REF-0236",
-      "REF-0311"
+      "REF-0236"
      ],
      "status": "verified"
     }
@@ -47659,9 +47602,7 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0037",
-      "REF-0311",
       "REF-0979",
-      "REF-0980",
       "REF-0981",
       "REF-0983",
       "REF-0984",
@@ -47673,11 +47614,9 @@
      "action": "anticancer",
      "reference_ids": [
       "REF-0037",
-      "REF-0311",
       "REF-0979",
       "REF-0981",
-      "REF-0984",
-      "REF-0985"
+      "REF-0984"
      ],
      "status": "verified"
     },
@@ -47685,7 +47624,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0037",
-      "REF-0311",
       "REF-0979",
       "REF-0981",
       "REF-0983",
@@ -47697,52 +47635,45 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Knotweed compounds were predicted to act on osteoarthritis targets in a computer study, and anti-inflammatory activity is reviewed (preclinical; reviews)",
      "reference_ids": [
-      "REF-0311",
       "REF-0987"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0037",
-      "REF-0980"
-     ],
-     "evidence": 2,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "cancer",
-     "note": "inferred from anticancer action",
-     "reference_ids": [
-      "REF-0985"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0037"
      ],
      "evidence": 2,
+     "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "Knotweed compounds such as emodin and resveratrol slowed cancer cells in lab studies (reviews)",
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0037"
+     ],
+     "evidence": 1,
      "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0311",
       "REF-0984"
      ],
      "status": "verified",
-     "evidence": 1,
+     "note": "Traditionally used in Chinese medicine for high blood lipids (review)",
+     "evidence": 2,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0311"
-     ],
+     "note": "Anti-inflammatory activity of knotweed and its compounds is reviewed (reviews; preclinical)",
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0037",
-      "REF-0980"
+      "REF-0037"
      ],
      "evidence": 1,
      "label": "Inflammation (general)"
@@ -47750,13 +47681,10 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0311"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0037",
-      "REF-0980",
       "REF-0987"
      ],
      "evidence": 1,
@@ -47769,8 +47697,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0037",
-      "REF-0236",
-      "REF-0311"
+      "REF-0236"
      ],
      "status": "verified"
     },
@@ -47780,7 +47707,6 @@
      "reference_ids": [
       "REF-0037",
       "REF-0236",
-      "REF-0311",
       "REF-0063"
      ],
      "status": "verified"
@@ -47793,7 +47719,6 @@
     "REF-0982",
     "REF-0983",
     "REF-0984",
-    "REF-0985",
     "REF-0986",
     "REF-0987",
     "REF-0988"
@@ -47959,7 +47884,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0055",
       "REF-0132",
       "REF-1528",
       "REF-1527",
@@ -47970,7 +47894,6 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0055",
       "REF-0132",
       "REF-1528"
      ],
@@ -47979,7 +47902,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0055",
       "REF-0132",
       "REF-1528"
      ],
@@ -47999,7 +47921,6 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0055",
       "REF-0132",
       "REF-1528"
      ],
@@ -48020,65 +47941,48 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-1534",
       "REF-0132",
       "REF-1528"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0055",
-      "REF-1534"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Antidiabetic effects are reviewed (review)",
      "reference_ids": [
-      "REF-0132",
       "REF-1528"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0055"
+      "REF-0132"
      ],
      "evidence": 2,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Rhodiola improved mental performance under stress and fatigue in randomized trials (review)",
      "reference_ids": [
       "REF-0055",
-      "REF-0132",
       "REF-1528",
       "REF-1530"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1535"
+      "REF-1535",
+      "REF-0132"
      ],
      "evidence": 6,
      "label": "Cognitive function"
     },
     {
-     "condition": "cold",
-     "note": "inferred from immunomodulator action",
-     "reference_ids": [
-      "REF-0132",
-      "REF-1528"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0055"
-     ],
-     "evidence": 2,
-     "label": "Cold & flu"
-    },
-    {
      "condition": "fatigue",
-     "note": "inferred from ergogenic action",
+     "note": "Rhodiola (SHR-5 extract) reduced stress-related and burnout fatigue vs placebo in randomized trials; another trial found it worsened fatigue in shift-working students, and a systematic review called the evidence contradictory",
      "reference_ids": [
       "REF-0055",
       "REF-0132",
@@ -48086,52 +47990,42 @@
       "REF-1526",
       "REF-1529",
       "REF-1532",
-      "REF-1533"
+      "REF-3729"
      ],
      "status": "needs-review",
-     "evidence": 9,
+     "null_result_ids": [
+      "REF-1533",
+      "REF-3730"
+     ],
+     "evidence": 7,
      "label": "Fatigue / low energy"
     },
     {
-     "condition": "immune-support",
-     "reference_ids": [
-      "REF-0132",
-      "REF-1528"
-     ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0055"
-     ],
-     "evidence": 2,
-     "label": "Immune support"
-    },
-    {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory effects of Rhodiola are reviewed and seen in lab studies (review; preclinical)",
      "reference_ids": [
-      "REF-0132",
-      "REF-1528",
       "REF-1527",
       "REF-1534"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0055"
+      "REF-0132",
+      "REF-1528"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
+     "note": "Rhodiola improved mental performance under stress and fatigue in randomized trials (review)",
      "reference_ids": [
       "REF-0055",
-      "REF-0132",
       "REF-1528"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1535"
+      "REF-1535",
+      "REF-0132"
      ],
      "evidence": 5,
      "label": "Memory"
@@ -48139,27 +48033,30 @@
     {
      "condition": "metabolic-support",
      "reference_ids": [
-      "REF-0132",
       "REF-1528"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0055"
+      "REF-0132"
      ],
+     "note": "Metabolic effects are reviewed (review)",
      "evidence": 2,
      "label": "Metabolic support"
     },
     {
      "condition": "muscle-soreness",
-     "note": "inferred from ergogenic action",
+     "note": "Exercise effects are reviewed with mixed findings (review); before a marathon it did not reduce muscle damage or soreness in a randomized trial",
      "reference_ids": [
-      "REF-0132",
-      "REF-1528",
       "REF-1529"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0055"
+      "REF-0055",
+      "REF-0132",
+      "REF-1528"
+     ],
+     "null_result_ids": [
+      "REF-3731"
      ],
      "evidence": 2,
      "label": "Muscle soreness"
@@ -48167,17 +48064,48 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-1534",
       "REF-0132",
       "REF-1528"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0055",
-      "REF-1534"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "depression",
+     "note": "Rhodiola extract SHR-5 reduced mild to moderate depression vs placebo in a randomized trial; in another, neither Rhodiola nor sertraline differed significantly from placebo",
+     "reference_ids": [
+      "REF-3727"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3728"
+     ],
+     "evidence": 5,
+     "label": "Low mood / depression"
+    },
+    {
+     "condition": "pms",
+     "note": "Short-term Rhodiola improved some premenstrual symptoms in female athletes in a small randomized trial",
+     "reference_ids": [
+      "REF-3732"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
+    },
+    {
+     "condition": "eye-strain",
+     "note": "Rhodiola reduced one digital eye strain symptom and focusing variability vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3733"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Eye strain / eye health"
     }
    ],
    "contraindications": [
@@ -48382,7 +48310,6 @@
      "text": "Duke (2002) advises using Labrador tea only with caution and at low doses given its narcotic/deliriant potential at higher amounts; it is not appropriate for regular internal use. Educational reference only, not a prescription - use only small, occasional amounts of properly identified leaf.",
      "reference_ids": [
       "REF-0053",
-      "REF-0098",
       "REF-0237"
      ],
      "status": "verified"
@@ -48424,7 +48351,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0053",
-      "REF-0098",
       "REF-0880",
       "REF-0882",
       "REF-0889"
@@ -48435,27 +48361,22 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0053",
-      "REF-0098",
       "REF-0882"
      ],
      "status": "verified"
     },
     {
      "action": "diuretic",
-     "reference_ids": [
-      "REF-0053",
-      "REF-0098"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     }
    ],
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for rheumatism (review of traditional use); its essential oil affected inflammatory cells from rheumatoid arthritis joints in the lab (preclinical)",
      "reference_ids": [
       "REF-0053",
-      "REF-0098",
       "REF-0880",
       "REF-0889"
      ],
@@ -48465,69 +48386,43 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory activity of its essential oil reported in lab and animal studies (review)",
      "reference_ids": [
-      "REF-0053",
-      "REF-0098"
+      "REF-0053"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "respiratory-support",
      "reference_ids": [
-      "REF-0053",
-      "REF-0098"
+      "REF-0053"
      ],
      "status": "verified",
-     "evidence": 1,
+     "note": "Traditionally used for cough and colds (review of traditional use)",
+     "evidence": 2,
      "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used for insect bites (review of traditional use)",
      "reference_ids": [
-      "REF-0053",
-      "REF-0098"
+      "REF-0053"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Skin irritation"
     },
     {
      "condition": "swelling",
-     "note": "inferred from diuretic action",
+     "note": "Its essential oil reduced inflammatory swelling in animals about as well as standard anti-inflammatory drugs (preclinical)",
      "reference_ids": [
-      "REF-0053",
-      "REF-0098",
       "REF-0889"
      ],
      "status": "needs-review",
      "evidence": 2,
      "label": "Swelling / fluid retention"
-    },
-    {
-     "condition": "urinary-support",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0053",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0053",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
     }
    ],
    "contraindications": [
@@ -48536,7 +48431,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0053",
-      "REF-0098",
       "REF-0237"
      ],
      "status": "verified"
@@ -48546,7 +48440,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0053",
-      "REF-0098",
       "REF-0237",
       "REF-0063"
      ],
@@ -48767,7 +48660,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0097",
-      "REF-0302",
       "REF-1243",
       "REF-1246",
       "REF-1251"
@@ -48778,7 +48670,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0097",
-      "REF-0302",
       "REF-1251",
       "REF-1252"
      ],
@@ -48787,24 +48678,19 @@
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0097",
-      "REF-0302"
+      "REF-0097"
      ],
      "status": "verified"
     },
     {
      "action": "diuretic",
-     "reference_ids": [
-      "REF-0097",
-      "REF-0302"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "immunomodulator",
      "reference_ids": [
       "REF-0097",
-      "REF-0302",
       "REF-1251"
      ],
      "status": "verified"
@@ -48814,16 +48700,14 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0097"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0302",
       "REF-1243",
-      "REF-1246"
+      "REF-1246",
+      "REF-0097"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
@@ -48835,20 +48719,19 @@
       "REF-1250"
      ],
      "status": "verified",
-     "evidence": 6,
+     "note": "Blackcurrant extract lowered cholesterol in a small pilot study in women and protected blood vessels in animal studies; cardiovascular uses reviewed (review)",
+     "evidence": 3,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cold",
      "note": "inferred from antiviral action",
-     "reference_ids": [
-      "REF-0097"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0302"
+      "REF-0097"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Cold & flu"
     },
     {
@@ -48857,102 +48740,64 @@
       "REF-0097"
      ],
      "status": "verified",
-     "evidence": 5,
+     "note": "Blackcurrant's use for eye conditions is reviewed (review)",
+     "evidence": 2,
      "label": "Eye strain / eye health"
     },
     {
      "condition": "immune-support",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-0097"
      ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0302"
-     ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Immune support"
     },
     {
      "condition": "infection",
-     "note": "inferred from antiviral action",
+     "note": "Antimicrobial effects of blackcurrant compounds are reviewed (review)",
      "reference_ids": [
       "REF-0097"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0302"
-     ],
-     "evidence": 5,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Blackcurrant extract reduced inflammation in mice and immune cells (preclinical; review)",
      "reference_ids": [
       "REF-0097",
       "REF-1243",
       "REF-1246"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0302"
-     ],
-     "evidence": 5,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0097"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0302",
       "REF-1243",
-      "REF-1246"
+      "REF-1246",
+      "REF-0097"
      ],
-     "evidence": 5,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
-     "condition": "swelling",
-     "note": "inferred from diuretic action",
+     "condition": "blood-sugar",
+     "note": "Blackcurrant lowered the blood sugar and insulin rise after a sugar drink in a randomized crossover trial",
      "reference_ids": [
-      "REF-0097"
+      "REF-1247"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0302"
-     ],
+     "status": "verified",
      "evidence": 5,
-     "label": "Swelling / fluid retention"
-    },
-    {
-     "condition": "urinary-support",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0097"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0302"
-     ],
-     "evidence": 5,
-     "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0097"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0302"
-     ],
-     "evidence": 5,
-     "label": "Urinary tract infection (UTI)"
+     "label": "Blood sugar / diabetes support"
     }
    ],
    "contraindications": [
@@ -48988,7 +48833,8 @@
     "REF-1249",
     "REF-1250",
     "REF-1251",
-    "REF-1252"
+    "REF-1252",
+    "REF-0302"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -49195,13 +49041,14 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "Two placebo-controlled crossover RCTs of standardised rosehip powder (5 g/day) report reduced WOMAC pain and reduced rescue-medication use in knee/hip osteoarthritis, consistent with the existing meta-analysis.",
+     "note": "Standardised rose hip powder reduced osteoarthritis pain and painkiller use in placebo-controlled trials and a meta-analysis, and helped rheumatoid arthritis as an add-on in a randomized trial",
      "reference_ids": [
       "REF-0051",
       "REF-0989",
       "REF-0990",
       "REF-3106",
-      "REF-3107"
+      "REF-3107",
+      "REF-3734"
      ],
      "status": "verified",
      "evidence": 10,
@@ -49209,7 +49056,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Rose hip polyphenols slowed human cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-0992"
      ],
@@ -49229,7 +49076,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Rose hip reduced osteoarthritis symptoms in trials, and its compounds are anti-inflammatory in the lab (systematic reviews; preclinical)",
      "reference_ids": [
       "REF-0051",
       "REF-0990"
@@ -49247,6 +49094,7 @@
       "REF-3111"
      ],
      "status": "verified",
+     "note": "Rose hip flesh and extracts reduced fat build-up and improved blood sugar in animal studies (preclinical); seed lipid-lowering effects reviewed (systematic review)",
      "evidence": 7,
      "label": "Metabolic support"
     },
@@ -49486,7 +49334,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0098",
       "REF-1005",
       "REF-1006",
       "REF-1011"
@@ -49504,7 +49351,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0098",
       "REF-1005",
       "REF-1006",
       "REF-1009",
@@ -49516,7 +49362,6 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0098",
       "REF-1010",
       "REF-1013"
      ],
@@ -49527,9 +49372,7 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1011"
@@ -49539,7 +49382,7 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Rugosa rose polysaccharides slowed colorectal and cervical cancer in lab and animal studies (preclinical)",
      "reference_ids": [
       "REF-1010",
       "REF-1014"
@@ -49551,19 +49394,17 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0098",
       "REF-1008"
      ],
      "status": "verified",
+     "note": "Rugosa rose flavonoids lowered triglycerides in mice (preclinical)",
      "evidence": 2,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cold",
      "note": "inferred from immunomodulator action",
-     "reference_ids": [
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1010"
@@ -49573,28 +49414,23 @@
     },
     {
      "condition": "immune-support",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "verified",
+     "reference_ids": [],
+     "status": "needs-review",
      "evidence": 1,
      "label": "Immune support"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "A rugosa rose polysaccharide eased psoriasis-like skin disease in mice (preclinical)",
      "reference_ids": [
-      "REF-0098",
       "REF-1011"
      ],
      "status": "needs-review",
@@ -49608,7 +49444,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0051",
-      "REF-0098",
       "REF-0240"
      ],
      "status": "verified"
@@ -49618,7 +49453,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0051",
-      "REF-0098",
       "REF-0240",
       "REF-0063"
      ],
@@ -49671,8 +49505,7 @@
      ],
      "note": "The astringent principles of the leaf.",
      "reference_ids": [
-      "REF-2549",
-      "REF-0418"
+      "REF-2549"
      ]
     },
     {
@@ -49683,9 +49516,7 @@
       "flavonoid"
      ],
      "note": "Antioxidant and antibacterial constituents.",
-     "reference_ids": [
-      "REF-0418"
-     ]
+     "reference_ids": []
     },
     {
      "name": "Vitamin C and minerals (iron)",
@@ -49804,14 +49635,13 @@
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
       "REF-2549",
-      "REF-0418"
+      "REF-3726"
      ],
      "status": "verified"
     },
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0418",
       "REF-2549",
       "REF-2550"
      ],
@@ -49820,7 +49650,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0418",
       "REF-2548",
       "REF-2549",
       "REF-2550"
@@ -49832,7 +49661,7 @@
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
       "REF-2549",
-      "REF-0418"
+      "REF-3726"
      ],
      "status": "verified"
     }
@@ -49841,19 +49670,18 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-2549"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2548"
+      "REF-2548",
+      "REF-2549"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Blackberry fruit extract slowed cancer cells in the lab (preclinical)",
      "reference_ids": [
       "REF-2550"
      ],
@@ -49863,78 +49691,73 @@
     },
     {
      "condition": "diarrhea",
-     "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
+     "note": "Traditional astringent remedy for diarrhoea and dysentery (Grieve, A Modern Herbal; review)",
      "reference_ids": [
-      "REF-2549"
+      "REF-2549",
+      "REF-3726"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0418"
-     ],
      "evidence": 2,
      "label": "Diarrhoea"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0418"
-     ],
+     "note": "Blackberry is used as an antimicrobial in traditional medicine (review); fruit extracts were antimicrobial in the lab (preclinical)",
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation",
-     "reference_ids": [
+     "note": "Blackberry fruit and leaf extracts reduced inflammatory signals in lab and animal studies (preclinical)",
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
       "REF-2549"
      ],
-     "status": "verified",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "oral-health",
-     "note": "Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation",
+     "note": "Historically used for soreness of the mouth and throat (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-2549"
+      "REF-3726"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Oral & throat health"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from astringent action",
-     "reference_ids": [
-      "REF-2549"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0418",
-      "REF-2548"
+      "REF-2548",
+      "REF-2549"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "sore-throat",
-     "note": "Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation",
+     "note": "Historically used for soreness of the mouth and throat (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-2549"
+      "REF-3726"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 1,
      "label": "Sore throat"
     },
     {
      "condition": "wounds",
-     "note": "inferred from astringent action",
+     "note": "Leaves were traditionally applied to burns and scalds (Grieve, A Modern Herbal); blackberry polyphenols aided wound healing in lab studies (preclinical)",
      "reference_ids": [
       "REF-2549",
-      "REF-0418",
-      "REF-2551"
+      "REF-2551",
+      "REF-3726"
      ],
      "status": "needs-review",
      "evidence": 2,

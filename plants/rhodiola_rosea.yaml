@@ -127,7 +127,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0055
   - REF-0132
   - REF-1528
   - REF-1527
@@ -135,13 +134,11 @@ actions:
   status: verified
 - action: antidiabetic
   reference_ids:
-  - REF-0055
   - REF-0132
   - REF-1528
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0055
   - REF-0132
   - REF-1528
   status: verified
@@ -155,7 +152,6 @@ actions:
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0055
   - REF-0132
   - REF-1528
   status: verified
@@ -169,41 +165,33 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0132
-  - REF-1528
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0055
   - REF-1534
-- condition: blood-sugar
-  note: inferred from antidiabetic action
-  reference_ids:
   - REF-0132
+  - REF-1528
+- condition: blood-sugar
+  note: Antidiabetic effects are reviewed (review)
+  reference_ids:
   - REF-1528
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0055
+  - REF-0132
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Rhodiola improved mental performance under stress and fatigue in randomized trials (review)
   reference_ids:
   - REF-0055
-  - REF-0132
   - REF-1528
   - REF-1530
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1535
-- condition: cold
-  note: inferred from immunomodulator action
-  reference_ids:
   - REF-0132
-  - REF-1528
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0055
 - condition: fatigue
-  note: inferred from ergogenic action
+  note: Rhodiola (SHR-5 extract) reduced stress-related and burnout fatigue vs placebo in randomized trials;
+    another trial found it worsened fatigue in shift-working students, and a systematic review called
+    the evidence contradictory
   reference_ids:
   - REF-0055
   - REF-0132
@@ -211,59 +199,76 @@ indications:
   - REF-1526
   - REF-1529
   - REF-1532
-  - REF-1533
+  - REF-3729
   status: needs-review
-- condition: immune-support
-  reference_ids:
-  - REF-0132
-  - REF-1528
-  status: verified
-  mechanistic_exclude_ids:
-  - REF-0055
+  null_result_ids:
+  - REF-1533
+  - REF-3730
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory effects of Rhodiola are reviewed and seen in lab studies (review; preclinical)
   reference_ids:
-  - REF-0132
-  - REF-1528
   - REF-1527
   - REF-1534
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0055
+  - REF-0132
+  - REF-1528
 - condition: memory
-  note: inferred from neuroprotective action
+  note: Rhodiola improved mental performance under stress and fatigue in randomized trials (review)
   reference_ids:
   - REF-0055
-  - REF-0132
   - REF-1528
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1535
+  - REF-0132
 - condition: metabolic-support
   reference_ids:
-  - REF-0132
   - REF-1528
   status: verified
   mechanistic_exclude_ids:
-  - REF-0055
-- condition: muscle-soreness
-  note: inferred from ergogenic action
-  reference_ids:
   - REF-0132
-  - REF-1528
+  note: Metabolic effects are reviewed (review)
+- condition: muscle-soreness
+  note: Exercise effects are reviewed with mixed findings (review); before a marathon it did not reduce
+    muscle damage or soreness in a randomized trial
+  reference_ids:
   - REF-1529
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0055
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
   - REF-0132
   - REF-1528
+  null_result_ids:
+  - REF-3731
+- condition: skin-irritation
+  note: inferred from anti-inflammatory action
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0055
   - REF-1534
+  - REF-0132
+  - REF-1528
+- condition: depression
+  note: Rhodiola extract SHR-5 reduced mild to moderate depression vs placebo in a randomized trial; in
+    another, neither Rhodiola nor sertraline differed significantly from placebo
+  reference_ids:
+  - REF-3727
+  status: verified
+  null_result_ids:
+  - REF-3728
+- condition: pms
+  note: Short-term Rhodiola improved some premenstrual symptoms in female athletes in a small randomized
+    trial
+  reference_ids:
+  - REF-3732
+  status: verified
+- condition: eye-strain
+  note: Rhodiola reduced one digital eye strain symptom and focusing variability vs placebo in a randomized
+    trial
+  reference_ids:
+  - REF-3733
+  status: verified
 contraindications:
 - note: Generally well tolerated. May cause agitation, insomnia, or vivid dreams in sensitive individuals -
     take in the morning. Avoid in manic episodes or severe anxiety. Theoretical interactions with MAOIs,
@@ -348,4 +353,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the stress-symptom clinical review (REF-1526), the anti-inflammatory review (REF-1527) and the SHR-5
   extract trials (REF-1532, REF-1533). | 2026-08-15: Harvest Calendar (phenological) - harvest_readiness for
   rhizome + root recorded as GAP: neither PFAF nor Useful Temperate Plants gives a medicinal-harvest season
-  for Rhodiola rosea (only flowering + propagation-division timing). Binomial confirmed. | 2026-08-15: rhizome and root harvest_readiness filled (were gaps) from Alberta Agdex 188/20-2 (REF-3384, maturity: lifted once at the end of the fourth or fifth year) and ISHS Acta Hort (REF-3385, within-season phenophase: rosavins peak at flowering, root dry weight recovers towards a post-wilting harvest). Kept provisional - the two sources are complementary, not confirmatory.'
+  for Rhodiola rosea (only flowering + propagation-division timing). Binomial confirmed. | 2026-08-15: rhizome and root harvest_readiness filled (were gaps) from Alberta Agdex 188/20-2 (REF-3384, maturity: lifted once at the end of the fourth or fifth year) and ISHS Acta Hort (REF-3385, within-season phenophase: rosavins peak at flowering, root dry weight recovers towards a post-wilting harvest). Kept provisional - the two sources are complementary, not confirmatory.
+  | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit (2nd pass + deep). Kelly
+  2001 review REF-0132 and Panossian 2010 review REF-1528 (retagged narrative-review) were cited
+  on up to 11 pairs whose symptoms they never name - removed from those (kept for
+  fatigue/cognition). Darbinyan 2000 RCT REF-0055 removed from four non-matching actions.
+  Blood-sugar, metabolic-support, cold and immune-support dropped when no named evidence remained.
+  Fatigue: SR REF-1533 ("contradictory") and nursing RCT REF-3730 (worsened fatigue) recorded as
+  no-effect; SHR-5 RCT REF-3729 added. Marathon RCT REF-3731 no-effect for muscle soreness. New
+  pairs (owner rule): depression (RCT REF-3727; sertraline RCT REF-3728 no-effect vs placebo), pms
+  (RCT REF-3732), eye-strain (RCT REF-3733). REF-1530 retagged clinical (no placebo).'

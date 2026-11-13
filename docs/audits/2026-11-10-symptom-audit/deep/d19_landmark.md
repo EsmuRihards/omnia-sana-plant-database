@@ -1,0 +1,432 @@
+# Landmark search batch 19
+
+## veronica-officinalis (Veronica officinalis; Speedwell) - 0 (+CT) hits; query: ("Veronica officinalis"[tiab] OR "Speedwell"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## viburnum-opulus (Viburnum opulus; Cramp Bark) - 1 (+CT) hits; query: ("Viburnum opulus"[tiab] OR "Cramp Bark"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- HELD REF-1139 | 2021 | 34610178 | RCT | Gilaburu extract (Viburnum opulus Linnaeus) is as effective as Tamsulosin in medical expulsive therapy of distal ureteral calculi.
+
+## viola-odorata (Viola odorata; Sweet Violet) - 14 (+CT) hits; query: ("Viola odorata"[tiab] OR "Sweet Violet"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40265431 | RCT | A Randomized Comparative Study of Luteolin-Based Herbal Unani Formulations versus Nitrofurantoin in Women with Uncomplicated Urinary Tract Infections.
+- new | 2024 | 38177831 | RCT | Effects of Viola odorata syrup on sleep quality in menopausal women: a randomized, triple-blind, controlled trial.
+- HELD REF-1148 | 2023 | 36535329 | RCT | Efficacy and safety of add-on Viola odorata L. in the treatment of COVID-19: A randomized double-blind controlled trial.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2022 | 35734476 | SR | The Efficacy of V. odorata Extract in the Treatment of Insomnia: A Systematic Review and Meta-Analysis.
+- HELD REF-1146 | 2020 | 31250761 | RCT | The Effect of Viola Odorata L. Oil for Fever in Children: A Randomized Triple-blinded Placebo-controlled Clinical Trial.
+- new | 2020 | 32507426 | RCT | Efficacy of Sweet Violet (Viola odorata) flower oil on the symptoms of adults with allergic rhinitis: A double-blind randomized placebo-controlled clinical trial.
+- HELD REF-1150 | 2020 | 32073874 | RCT | Effects of Viola odorata as an Add-On Therapy on Insomnia in Patients with Obsession or Depression: A Pilot Randomized Double-Blind Placebo-Controlled Trial.
+- new | 2020 | 32736046 | RCT | Evaluation of sedative effects of an intranasal dosage form containing saffron, lettuce seeds and sweet violet in primary chronic insomnia: A randomized, double-dummy, do
+- new | 2019 | 31060104 | RCT | Effects of intranasal administration of violet oil in dry eye disease.
+- new | 2019 | 31330767 | RCT | Antihypertensive Indigenous Lebanese Plants: Ethnopharmacology and a Clinical Trial.
+- new | 2018 | 29217495 | RCT | Efficacy of Violet oil, a traditional Iranian formula, in patients with chronic insomnia: A randomized, double-blind, placebo-controlled study.
+- new | 2017 | 28532232 | RCT | A two-week, double-blind, placebo-controlled trial of Viola odorata, Echium amoenum and Physalis alkekengi mixture in symptomatic benign prostate hyperplasia (BPH) men.
+- HELD REF-0609 | 2015 | 25954025 | RCT | The Effect of Viola odorata Flower Syrup on the Cough of Children With Asthma: A Double-Blind, Randomized Controlled Trial.
+
+## viola-tricolor (Viola tricolor; Heartsease) - 1 (+CT) hits; query: ("Viola tricolor"[tiab] OR "Heartsease"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2007 | 18077922 | RCT | A randomized, double-blind, vehicle-controlled, half-side comparison with a herbal ointment containing Mahonia aquifolium, Viola tricolor and Centella asiatica for the tr
+
+## vitex-agnus-castus (Vitex agnus-castus; Chasteberry) - 40 (+CT) hits; query: ("Vitex agnus-castus"[tiab] OR "Chasteberry"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41428718 | RCT | The Effect of Vitex Agnus - Castus Plant on Some Markers of Oxidative Stress, Lipid Profile and Insulin Resistance in Women with Polycystic Ovary Syndrome: A Randomized, 
+- new | 2024 | 38213037 | RCT | Effects of the PREMEN-CALM® in the Management of the Premenstrual Syndrome: A Randomized, Double-Blind, Placebo-Controlled Pilot Study.
+- new | 2023 | 35916457 | SR | Polycystic ovaries and herbal remedies: A systematic review.
+- new | 2022 | 36446563 | SR/MA | The Effectiveness of Herbal Medicines on Cyclic Mastalgia: A Systematic Review on Meta-analysis.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2022 | 34260808 | RCT | Effects of a combination of botanical actives on skin health and antioxidant status in post-menopausal women: A randomized, double-blind, placebo-controlled clinical tria
+- new | 2021 | 34602412 | RCT | Analysis of Unani coded formulation on the hormonal parameters of patients with polycystic ovarian syndrome.
+- HELD REF-1609 | 2020 | 31464546 | MA/SR | Vitex Agnus-Castus for the Treatment of Cyclic Mastalgia: A Systematic Review and Meta-Analysis.
+- new | 2020 | 30370852 | RCT | Efficacy of a Herbal Formulation Based on Foeniculum Vulgare in Oligo/Amenorrhea: A Randomized Clinical Trial.
+- HELD REF-1607 | 2019 | 31780016 | MA/Review | Vitex agnus-castus in premenstrual syndrome: A meta-analysis of double-blind randomised controlled trials.
+- HELD REF-3115 | 2019 | 31369395 | MA/SR | The effects of Vitex agnus-castus on menstrual bleeding: A systematic review and meta-analysis.
+- new | 2019 | 30129806 | RCT | Effects of a combination of Nigella sativa and Vitex agnus-castus with citalopram on healthy menopausal women with hot flashes: results from a subpopulation analysis.
+- new | 2018 | 29744355 | SR | Herbal Medicine for Oligomenorrhea and Amenorrhea: A Systematic Review of Ancient and Conventional Medicine.
+- HELD REF-1608 | 2017 | 28237870 | MA/SR | The treatment of premenstrual syndrome with preparations of Vitex agnus castus: a systematic review and meta-analysis.
+- HELD REF-1611 | 2017 | 29063202 | SR | Vitex agnus castus for premenstrual syndrome and premenstrual dysphoric disorder: a systematic review.
+- new | 2016 | 26887532 | MA/SR | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies.
+- new | 2014 | 24604699 |  | Efficacy and safety of Vitex agnus-castus extract for treatment of premenstrual syndrome in Japanese patients: a prospective, open-label study.
+- new | 2014 | 24410911 | SR | Effects and treatment methods of acupuncture and herbal medicine for premenstrual syndrome/premenstrual dysphoric disorder: systematic review.
+- HELD REF-0433 | 2013 | 23136064 | SR | Vitex agnus-castus extracts for female reproductive disorders: a systematic review of clinical trials.
+- new | 2013 | 22791378 | Clinical Trial | Use of Vitex agnus-castus in migrainous women with premenstrual syndrome: an open-label clinical observation.
+- new | 2012 | 23022391 | RCT | Dose-dependent efficacy of the Vitex agnus castus extract Ze 440 in patients suffering from premenstrual syndrome.
+- HELD REF-3117 | 2012 | 22359078 | RCT | Therapeutic effect of Vitex agnus castus in patients with premenstrual syndrome.
+- new | 2011 | 21171936 | SR | Herbal treatments for alleviating premenstrual symptoms: a systematic review.
+- new | 2011 | 21654609 | RCT | [Psychic aspects of the premenstrual dysphoric disorders. New therapeutic strategies: our experience with Vitex agnus castus].
+- new | 2010 | 20522079 | RCT | Evaluating therapeutic effect in symptoms of moderate-to-severe premenstrual syndrome with Vitex agnus castus (BNO 1095) in Chinese women.
+- new | 2010 | 20334585 | RCT | Treatment of moderate to severe premenstrual syndrome with Vitex agnus castus (BNO 1095) in Chinese women.
+- new | 2010 | 20722793 | RCT | Medicinal plants as alternative treatments for female sexual dysfunction: utopian vision or possible treatment in climacteric women?
+- new | 2009 | 18791483 | RCT | Hypericum perforatum with Vitex agnus-castus in menopausal symptoms: a randomized, controlled trial.
+- new | 2009 | 19757982 | RCT | Effects of a combination of Hypericum perforatum and Vitex agnus-castus on PMS-like symptoms in late-perimenopausal women: findings from a subpopulation analysis.
+- new | 2009 | 19269753 | RCT | Treatment for premenstrual syndrome with Vitex agnus castus: A prospective, randomized, multi-center placebo controlled study in China.
+- HELD REF-3118 | 2008 | 18204102 | SR | Safety and efficacy of chastetree (Vitex agnus-castus) during pregnancy and lactation.
+- HELD REF-0434 | 2005 | 15783241 | SR | Vitex agnus castus: a systematic review of adverse events.
+- HELD REF-3116 | 2003 | 12672170 | Clinical Trial/RCT | Fluoxetine versus Vitex agnus castus extract in the treatment of premenstrual dysphoric disorder.
+- new | 2003 | 12852933 | Clinical Trial | Vitex agnus castus essential oil and menopausal balance: a research update [Complementary Therapies in Nursing and Midwifery 8 (2003) 148-154].
+- new | 2001 | 11159568 | Clinical Trial/RCT | Treatment for the premenstrual syndrome with agnus castus fruit extract: prospective, randomised, placebo controlled study.
+- new | 2000 | 11129515 | Clinical Trial | Efficacy of Vitex agnus castus L. extract Ze 440 in patients with pre-menstrual syndrome (PMS).
+- new | 2000 | 10787228 | Clinical Trial | Treatment of premenstrual syndrome with a phytopharmaceutical formulation containing Vitex agnus castus.
+- new | 1999 | 14731436 | Clinical Trial/RCT | Treatment of cyclical mastalgia with a solution containing a Vitex agnus castus extract: results of a placebo-controlled double-blind study.
+- new | 1998 | 9818496 | Clinical Trial/RCT | [Treatment of cyclical mastodynia using an extract of Vitex agnus castus: results of a double-blind comparison with a placebo].
+- new | 1993 | 8369008 | Clinical Trial/RCT | [Vitex agnus castus extract in the treatment of luteal phase defects due to latent hyperprolactinemia. Results of a randomized placebo-controlled double-blind study].
+
+## withania-somnifera (Withania somnifera; Ashwagandha) - 102 hits; query: ("Withania somnifera"[tiab] OR "Ashwagandha"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41740946 | SR/MA | Hormonal Modulation with Withania somnifera: Systematic Review and Meta-Analysis of Randomized-controlled Trials.
+- new | 2026 | 41644067 | SR/MA | Effects of ashwagandha (Withania somnifera) on mental health in adults: A systematic review and dose-response meta-analysis of randomized controlled trials.
+- new | 2026 | 42356302 | SR/MA | Effects of Withania somnifera (Ashwagandha) Supplementation on Exercise Performance: A Systematic Review and Three-Level Meta-Analysis.
+- new | 2026 | 39498904 | RCT | Safety and Efficacy of Ashwagandha Root Extract on Cognition, Energy and Mood Problems in Adults: Prospective, Randomized, Placebo-Controlled Study.
+- new | 2026 | 41815853 | RCT | A proprietary herbal extract of ashwagandha root for stress and anxiety in healthy adults: a randomized, double-blind, three-arm, placebo-controlled efficacy and safety s
+- new | 2026 | 42199854 | SR | Effects of Withania somnifera (L.) Dunal (Ashwagandha) on cognitive and physical function in adults: a systematic review and meta-analysis.
+- new | 2026 | 42641800 | SR/MA/Review | The effects of Ashwagandha (Withania somnifera) supplementation on fasting blood glucose and HbA1c: a systematic review and dose-response meta-analysis of randomized cont
+- new | 2026 | 42738987 | SR/MA | Adjunctive Ashwagandha (Withania somnifera) Supplementation and Resistance-Training Adaptations in Healthy Adults: A Systematic Review and Random-Effects Meta-Analysis of
+- new | 2026 | 40887707 | SR | A Systematic and Ethnobotanical Review of Ashwagandha's ( Withania Somnifera ) Teratogenic and Abortifacient Potentials.
+- new | 2026 | 41846233 | RCT | Efficacy and Safety of Low-Dose Ashwagandha Supplementation on Exercise Endurance: A Randomized, Placebo-Controlled, Double-Blind, Clinical Trial.
+- new | 2026 | 42593642 | RCT | An Examination into the Anti-stress and Anti-fatigue Effects of an Ashwagandha Extract (Ashwa.30™) in Stressed Adults: A Randomised, Double-Blind, Placebo-controlled Tria
+- new | 2026 | 42104950 | SR | Efficacy of pharmacological and nutritional interventions for glucose dysfunction in schizophrenia-A systematic review and network meta-analysis.
+- new | 2026 | 41943502 | RCT | Safety of 8-Week Administration With Ashwagandha (Withania somnifera) Root Extract in Adults With Stress and Anxiety: Findings From a Prospective, Randomized, Multi-Cente
+- new | 2026 | 41725116 | RCT | Ashwagandha ( Withania somnifera ) Root Extract Improves General Health in Elderly Men and Women: A Prospective, Randomized, Double-Blind, Placebo-Controlled, Efficacy an
+- new | 2026 | 43013144 | RCT | Effects on Sleep Quality and Bioelectrical Parameters of Cellular Health After Administration of a Plant Protein Supplement Combined with Ashwagandha and Rhodiola: A Rand
+- new | 2026 | 41249015 | SR | Effects of Ashwagandha on Reproductive Health: A Systematic Review of Sex-Specific Hormonal and Fertility Outcomes.
+- new | 2026 | 42858054 | SR | Efficacy and Safety of Saffron and Ashwagandha for Stress-Related Mental Health Outcomes: A Systematic Review of Randomized Controlled Trials.
+- new | 2026 | 41843701 | SR | Improving Cognition in Bipolar Disorder: A Systematic Review of Current Pharmacological and Nutraceutical Approaches.
+- new | 2026 | 42105298 | RCT | Safety and efficacy of ashwagen (a standardized withania somnifera extract) in stress and anxiety with hypertension and associated cardiometabolic risk factors: a randomi
+- new | 2026 | 42602386 | RCT | Efficacy and safety of ashwagandha root extract in children and adolescents with mild attention-deficit/hyperactivity disorder: a randomized, double-blind, placebo-contro
+- new | 2026 | 41656269 | RCT | Effects of multi-herb and ashwagandha root formulas on stress modulation: a randomized, double-blind, placebo-controlled clinical study.
+- new | 2026 | 41824889 | RCT | Efficacy and safety of Ashwagandha root extract sustained-release (AshwaSR) capsules in healthy adult, stressed subjects: A randomized, double-blind, placebo-controlled, 
+- new | 2026 | 41176190 | SR | Hairy roots as a biotechnological tool for medicinal plant secondary metabolites: A systematic review.
+- new | 2026 | 41599843 | RCT | Ashwagandha Root Extract Stabilises Physiological Stress Responses in Male and Female Team Sports Athletes During Pre-Season Training.
+- new | 2026 | 41906501 | SR | Clinical evidence for the adaptogenic effects of Withania somnifera and Rhodiola rosea - A systematic review with molecular interpretation of psychometric outcomes.
+- new | 2026 | 41770039 | RCT | A Prospective, Randomized, Double-Blind, Placebo-Controlled Clinical Study of Efficacy and Safety of Ashwagandha Root Extract Capsule on Skin and Hair Health in Healthy A
+- new | 2025 | 39954269 | RCT | Effects of Root Extract of Ashwagandha (Withania somnifera) on Perception of Recovery and Muscle Strength in Female Athletes.
+- new | 2025 | 40875185 | RCT | A New Ashwagandha Formulation (Zenroot™) Alleviates Stress and Anxiety Symptoms While Improving Mood and Sleep Quality: A Randomized, Double-Blind, Placebo-Controlled Cli
+- new | 2025 | 41635453 | RCT | Efficacy and safety of Ashwagandha (Withania somnifera) root extract on stress and weight management in adults: a prospective, randomized, double-blind, placebo-controlle
+- new | 2025 | 40746175 | SR/MA | Dual impact of Ashwagandha: Significant cortisol reduction but no effects on perceived stress - A systematic review and meta-analysis.
+- new | 2025 | 41156498 | RCT | Ashwagandha Does Not Enhance the Effect of High-Intensity Interval Training on Selected Energy Metabolism Parameters in Young Healthy Men.
+- new | 2025 | 41394145 | SR | Systematic review and network meta-analysis of the effects of plant active substance on quality of life in breast cancer patients.
+- new | 2025 | 39026098 | SR | Nutraceuticals and phytoceuticals in the treatment of schizophrenia: a systematic review and network meta-analysis "Nutra NMA SCZ".
+- new | 2025 | 40845216 | RCT | Effects of Ashwagandha ( Withania somnifera ) Supplementation on Special Endurance and Response Time of Elite Wrestlers.
+- new | 2025 | 40421322 | SR | Medicinal Plants Used to Treat Evil Eye Illness in Ethiopia: A Systematic Review.
+- new | 2025 | 40748423 | RCT | Superior Bioavailability of a Novel 1.5% Ashwagandha Formulation (Zenroot™): A Randomized, Double-Blind, Single-Dose, Comparative, Oral Bioavailability Study in Healthy A
+- new | 2025 | 40099725 | RCT | Effect of ashwagandha (Withania somnifera) extract with Sominone (Somin-On™) to improve memory in adults with mild cognitive impairment: A randomized, double-blind, place
+- HELD REF-2247 | 2024 | 39348746 | SR/MA | Effects of Ashwagandha (Withania Somnifera) on stress and anxiety: A systematic review and meta-analysis.
+- HELD REF-2251 | 2024 | 38732539 | RCT | Effects of Withania somnifera Extract in Chronically Stressed Adults: A Randomized Controlled Trial.
+- new | 2024 | 38931168 | RCT | Acute and Repeated Ashwagandha Supplementation Improves Markers of Cognitive Function and Mood.
+- new | 2024 | 37697053 | SR | Do "testosterone boosters" really increase serum total testosterone? A systematic review.
+- new | 2024 | 39083548 | SR/MA | Safety and efficacy of Withania somnifera for anxiety and insomnia: Systematic review and meta-analysis.
+- new | 2024 | 37878284 | RCT | A Standardized Withania somnifera (Linn.) Root Extract with Piperine Alleviates the Symptoms of Anxiety and Depression by Increasing Serotonin Levels: A Double-Blind, Ran
+- new | 2024 | 39212516 | SR | Therapeutic Evaluation of Unani Medicine, Including Single Drugs and Polyherbal Formulations with Special Reference to Neurodegenerative Disorders.
+- new | 2024 | 38316221 | RCT | Evaluation of the efficacy and safety of a herbal formulation for rheumatoid arthritis - A non-inferiority randomized controlled trial.
+- new | 2024 | 38691810 | RCT | A Novel Herbal Composition Alleviates Functional Constipation, Reduces Gastrointestinal Transit Time, and Improves Bowel Function in Adults: A Double-Blind, Randomized Cl
+- new | 2024 | 37543151 | RCT | A blend of Withania somnifera (L.) Dunal root and Abelmoschus esculentus (L.) Moench fruit extracts relieves constipation and improves bowel function: A proof-of-concept 
+- new | 2023 | 36705012 | SR | Interventions for generalized anxiety disorder.
+- HELD REF-0741 | 2023 | 34978226 | SR | Plant-derived nootropics and human cognition: A systematic review.
+- new | 2023 | 37832082 | RCT | A standardized Ashwagandha root extract alleviates stress, anxiety, and improves quality of life in healthy adults by modulating stress hormones: Results from a randomize
+- new | 2023 | 37740662 | RCT | Exploring the efficacy and safety of a novel standardized ashwagandha (Withania somnifera) root extract (Witholytin®) in adults experiencing high stress and fatigue in a 
+- new | 2023 | 38140274 | SR | Effects of Withania somnifera on Cortisol Levels in Stressed Human Subjects: A Systematic Review.
+- new | 2023 | 38988644 | RCT | Effects of Ashwagandha ( Withania somnifera) standardized root extract on physical endurance and VO (2max) in healthy adults performing resistance training: An eight-week
+- new | 2023 | 37428341 | SR | Effects of Withania somnifera (Ashwagandha) on Hematological and Biochemical Markers, Hormonal Behavior, and Oxidant Response in Healthy Adults: A Systematic Review.
+- new | 2023 | 37482107 | RCT | Ashwagandha (Withania somnifera) and Shunthi (Zingiber officinale) in mild and moderate COVID-19: An open-label randomized controlled exploratory trial.
+- new | 2022 | 36017529 | MA/SR | Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta-analysis of randomized controlled trials.
+- HELD REF-2546 | 2022 | 35378276 | SR | Medicinal herbs for the treatment of anxiety: A systematic review and network meta-analysis.
+- new | 2022 | 35984870 | RCT | The Perceived Impact of Ashwagandha on Stress, Sleep Quality, Energy, and Mental Clarity for College Students: Qualitative Analysis of a Double-Blind Randomized Control T
+- new | 2022 | 35984871 | RCT | The Impact of Ashwagandha on Stress, Sleep Quality, and Food Cravings in College Students: Quantitative Analysis of a Double-Blind Randomized Control Trial.
+- new | 2022 | 35993457 | SR | Herbal Medicines for Idiopathic Male Infertility: A Systematic Review.
+- new | 2022 | 35234023 | SR | The most important medicinal plants affecting sperm and testosterone production: a systematic review.
+- HELD REF-2245 | 2021 | 34559859 | MA/SR | Effect of Ashwagandha (Withania somnifera) extract on sleep: A systematic review and meta-analysis.
+- HELD REF-2254 | 2021 | 33600918 | RCT | A double-blind, randomized, placebo-controlled trial on the effect of Ashwagandha (Withania somnifera dunal.) root extract in improving cardiorespiratory endurance and re
+- new | 2021 | 33338583 | RCT | Safety of Ashwagandha Root Extract: A Randomized, Placebo-Controlled, study in Healthy Volunteers.
+- new | 2021 | 32818573 | RCT | Clinical evaluation of the pharmacological impact of ashwagandha root extract on sleep in healthy volunteers and insomnia patients: A double-blind, randomized, parallel-g
+- new | 2021 | 34553463 | RCT | Effect of an ashwagandha (Withania Somnifera) root extract on climacteric symptoms in women during perimenopause: A randomized, double-blind, placebo-controlled study.
+- new | 2021 | 34418550 | RCT | Withania somnifera as a safer option to hydroxychloroquine in the chemoprophylaxis of COVID-19: Results of interim analysis.
+- new | 2021 | 34132429 | SR | Promising traditional Indian medicinal plants for the management of novel Coronavirus disease: A systematic review.
+- new | 2021 | 33596494 | RCT | Randomized placebo-controlled pilot clinical trial on the efficacy of ayurvedic treatment regime on COVID-19 positive patients.
+- new | 2021 | 34144529 | RCT | Analysis of Clinical Trial Registry of India for Evidence of Anti-Arthritic Properties of Withania somnifera (Ashwagandha).
+- new | 2021 | 32282308 | RCT | Assessment of the Efficacy of Withania somnifera Root Extract in Patients with Generalized Anxiety Disorder: A Randomized Double-blind Placebo- Controlled Trial.
+- new | 2020 | 32540634 | RCT | A randomized, double blind, placebo controlled study to evaluate the effects of ashwagandha (Withania somnifera) extract on sleep quality in healthy adults.
+- new | 2020 | 32316411 | MA/SR | Effects of Ashwagandha (Withania somnifera) on VO(2max): A Systematic Review and Meta-Analysis.
+- new | 2020 | 32124509 | SR | Herbal medicines and phytochemicals for obsessive-compulsive disorder.
+- new | 2020 | 31742775 | SR | A systematic review of the clinical use of Withania somnifera (Ashwagandha) to ameliorate cognitive dysfunction.
+- new | 2020 | 31975514 | MA/SR | Withania somnifera (Indian ginseng) in diabetes mellitus: A systematic review and meta-analysis of scientific evidence from experimental research to clinical application.
+- new | 2020 | 32201301 | SR | Safety and clinical effectiveness of Withania Somnifera (Linn.) Dunal root in human ailments.
+- HELD REF-2248 | 2019 | 31517876 | RCT | An investigation into the stress-relieving and pharmacological actions of an ashwagandha (Withania somnifera) extract: A randomized, double-blind, placebo-controlled stud
+- new | 2019 | 30854916 | RCT | A Randomized, Double-Blind, Placebo-Controlled, Crossover Study Examining the Hormonal and Vitality Effects of Ashwagandha ( Withania somnifera) in Aging, Overweight Male
+- new | 2019 | 31439071 | MA/Review | An update on the efficacy of anti-inflammatory agents for patients with schizophrenia: a meta-analysis.
+- new | 2019 | 31046033 | RCT | Effects of a standardized extract of Withania somnifera (Ashwagandha) on depression and anxiety symptoms in persons with schizophrenia participating in a randomized, plac
+- HELD REF-2472 | 2018 | 28829155 | RCT | Efficacy and Safety of Ashwagandha Root Extract in Subclinical Hypothyroid Patients: A Double-Blind, Randomized Placebo-Controlled Trial.
+- HELD REF-2547 | 2018 | 29575228 | SR | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review.
+- new | 2018 | 30466985 | MA/SR | Withania somnifera (Indian ginseng) in male infertility: An evidence-based systematic review and meta-analysis.
+- new | 2018 | 29670898 | SR | Effects of Withania somnifera on Reproductive System: A Systematic Review of the Available Evidence.
+- new | 2018 | 29995356 | RCT | Adjunctive Use of a Standardized Extract of Withania somnifera (Ashwagandha) to Treat Symptom Exacerbation in Schizophrenia: A Randomized, Double-Blind, Placebo-Controlle
+- new | 2018 | 30463324 | RCT | Effects of an Aqueous Extract of Withania somnifera on Strength Training Adaptations and Recovery: The STAR Trial.
+- new | 2018 | 29770466 | RCT | Comparative evaluation of the effects of Withania somnifera with pentoxifylline on the sperm parameters in idiopathic male infertility: A triple-blind randomised clinical
+- new | 2018 | 29933868 | RCT | Comparative study of effect of Withania somnifera as an adjuvant to DOTS in patients of newly diagnosed sputum smear positive pulmonary tuberculosis.
+- HELD REF-2253 | 2017 | 28471731 | RCT | Efficacy and Safety of Ashwagandha (Withania somnifera (L.) Dunal) Root Extract in Improving Memory and Cognitive Functions.
+- new | 2017 | 27055824 | RCT | Body Weight Management in Adults Under Chronic Stress Through Treatment With Ashwagandha Root Extract: A Double-Blind, Randomized, Placebo-Controlled Trial.
+- new | 2016 | 27515872 | RCT | Evaluation of the efficacy of Withania somnifera (Ashwagandha) root extract in patients with obsessive-compulsive disorder: A randomized double-blind placebo-controlled t
+- HELD REF-2252 | 2015 | 26609282 | RCT | Examining the effect of Withania somnifera supplementation on muscle strength and recovery: a randomized controlled trial.
+- new | 2015 | 25828061 | MA/SR | Withania somnifera (Ashwagandha) in neurobehavioural disorders induced by brain oxidative stress in rodents: a systematic review and meta-analysis.
+- new | 2015 | 26504795 | RCT | Efficacy and Safety of Ashwagandha (Withania somnifera) Root Extract in Improving Sexual Function in Women: A Pilot Study.
+- new | 2014 | 25405876 | SR | An alternative treatment for anxiety: a systematic review of human trial results reported for the Ayurvedic herb ashwagandha (Withania somnifera).
+- new | 2013 | 24330893 | RCT | Randomized placebo-controlled adjunctive study of an extract of withania somnifera for cognitive dysfunction in bipolar disorder.
+- new | 2013 | 24014929 | RCT | Effects of Withania somnifera in patients of schizophrenia: a randomized, double blind, placebo controlled pilot trial study.
+- new | 2013 | 24397515 | RCT | The effects of dietary 1, 25-dihydroxycholecalciferol and hydroalcoholic extract of Withania somnifera root on bone mineralisation, strength and histological characterist
+- new | 2010 | 19504465 | RCT | In vivo enhancement of natural killer cell activity through tea fortified with Ayurvedic herbs.
+- new | 2009 | 19718255 | RCT | Naturopathic care for anxiety: a randomized controlled trial ISRCTN78958974.
+- new | 1991 | 1943180 | Clinical Trial/RCT | Treatment of osteoarthritis with a herbomineral formulation: a double-blind, placebo-controlled, cross-over study.
+
+## zea-mays (Zea mays; Corn Silk) - 57 hits; query: ("Zea mays"[tiab] OR "Corn Silk"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42826710 | MA | Role of host nitrogen use efficiency in determining arbuscular mycorrhizal fungi responses to nitrogen enrichment.
+- new | 2026 | 42074530 | SR | Phenotypic Diversity in Maize Landraces: A Systematic Review of Global Patterns, Methodological Approaches, and Implications for Breeding.
+- new | 2025 | 41228506 | RCT | Effects of Mulberry Leaf and Corn Silk Extracts Against α-Amylase and α-Glucosidase In Vitro and on Postprandial Glucose in Prediabetic Individuals: A Randomized Crossove
+- new | 2025 | 41197545 | MA/Review | Impacts of dairy manure and synthetic fertilizers on greenhouse gas emissions and crop yields: A global meta-analytical comparison.
+- new | 2025 | 40187731 | RCT | Postprandial glycemic effects of lactose-hydrolyzed milk supplemented with mulberry leaf and corn silk extracts in adults with type 2 diabetes: A randomized crossover tri
+- new | 2024 | 38673880 | MA | Meta-Quantitative Trait Loci Analysis and Candidate Gene Mining for Drought Tolerance-Associated Traits in Maize (Zea mays L.).
+- new | 2024 | 38701238 | MA | No-tillage enhances soil water storage, grain yield and water use efficiency in dryland wheat (Triticum aestivum) and maize (Zea mays) cropping systems: a global meta-ana
+- new | 2024 | 38311087 | MA | Silicon reduces toxicity and accumulation of arsenic and cadmium in cereal crops: A meta-analysis, mechanism, and perspective study.
+- new | 2024 | 39151489 | RCT | Nontargeted metabolomic profiling analysis of patients with type 2 diabetes mellitus undergoing corn silk treatment.
+- new | 2024 | 39125340 | RCT | Efficacy and Tolerability of a Food Supplement Based on Zea mays L., Gymnema sylvestre (Retz.) R.br.ex Sm, Zinc and Chromium for the Maintenance of Normal Carbohydrate Me
+- new | 2024 | 39840354 | SR | A meta-analysis of the effects of nitrogen fertilizer application on maize (Zea mays L.) yield in Northwest China.
+- new | 2023 | 37170821 | MA | A meta-analysis reveals differential sensitivity of cold stress responses in the maize leaf.
+- new | 2023 | 36179066 | RCT | UP165, A Standardized Corn Leaf Extract for Improving Sleep Quality and Mood State.
+- new | 2022 | 35809716 | MA/Review | Microplastics in plant-soil ecosystems: A meta-analysis.
+- new | 2022 | 36388551 | SR | Meta-analysis and co-expression analysis revealed stable QTL and candidate genes conferring resistances to Fusarium and Gibberella ear rots while reducing mycotoxin conta
+- new | 2022 | 38069785 | SR | Ecological Chemistry of Pest Control in Push-Pull Intercropping Systems: What We Know, and Where to Go?
+- new | 2021 | 34411180 | MA | Meta-analysis of QTLs associated with popping traits in maize (Zea mays L.).
+- new | 2021 | 34978552 | RCT | [Efficacy and safety of lyophilized concentrate purple corn (Zea mays L.) in preventing the formation of colonic polyps].
+- new | 2020 | 33119693 | MA | Application of controlled release urea improved grain yield and nitrogen use efficiency: A meta-analysis.
+- new | 2020 | 32970779 | MA | Combining organic and mineral fertilizers as a climate-smart integrated soil fertility management practice in sub-Saharan Africa: A meta-analysis.
+- new | 2020 | 32818896 | MA | Plastic mulching reduces nitrogen footprint of food crops in China: A meta-analysis.
+- new | 2019 | 31423665 | MA/SR | Corn silk decoction for blood lipid in patients with angina pectoris: A systematic review and meta-analysis.
+- new | 2019 | 31166965 | MA | Meta-analysis of yield response of foliar fungicide-treated hybrid corn in the United States and Ontario, Canada.
+- new | 2019 | 31077147 | MA | Identification of key genes and its chromosome regions linked to drought responses in leaves across different crops through meta-analysis of RNA-Seq data.
+- new | 2016 | 26566847 | MA | Yield QTLome distribution correlates with gene density in maize.
+- new | 2016 | 26748981 | MA | Monitoring Susceptibility of Western Bean Cutworm (Lepidoptera: Noctuidae) Field Populations to Bacillus thuringiensis Cry1F Protein.
+- new | 2016 | 26474992 | MA | A comprehensive meta-analysis of plant morphology, yield, stay-green, and virus disease resistance QTL in maize (Zea mays L.).
+- new | 2015 | 25727941 | RCT | Corn silk aqueous extracts and intraocular pressure of systemic and non-systemic hypertensive subjects.
+- new | 2015 | 26020332 | RCT | Effects of roughage sources produced in a tropical environment on forage intake, and ruminal and microbial parameters.
+- new | 2014 | 24693880 | MA | Genome-wide meta-analysis of maize heterosis reveals the potential role of additive gene expression at pericentromeric loci.
+- new | 2012 | 23365314 | RCT | Comparative evaluation of standardized ileal amino acid digestibility in protein supplements for piglets.
+- new | 2012 | 23365324 | RCT | Bioavailability of zinc from different sources in pigs.
+- new | 2012 | 23365313 | RCT | Effects of dietary supplementation with a protease on the apparent ileal digestibility of the weaned piglet.
+- new | 2012 | 23365295 | RCT | True total-tract digestibility of phosphorus in monocalcium phosphate for 15-kg pigs.
+- new | 2012 | 22665675 | RCT | Effects of saponin extracts on air emissions from steers.
+- new | 2012 | 23365342 | RCT | Standardized ileal amino acid digestibility in egg from hyperimmunized hens fed to weaned pigs.
+- new | 2012 | 23365302 | RCT | Effect of particle size and heat treatment of soybean meal on standardized ileal digestibility of amino acids in growing pigs.
+- new | 2012 | 23365315 | RCT | Effect of dietary fiber and crude protein content in feed on nitrogen retention in pigs.
+- new | 2012 | 23255816 | RCT | Evaluation of standardized ileal digestible lysine requirement of nursery pigs from seven to fourteen kilograms.
+- new | 2012 | 22583799 | MA | The genetic architecture of flowering time and photoperiod sensitivity in maize as revealed by QTL review and meta analysis.
+- new | 2012 | 22624299 | RCT | Comparative intake of white- versus orange-colored maize by Zambian children in the context of promotion of biofortified maize.
+- new | 2012 | 23365317 | RCT | Improved nutrient digestibility and retention partially explains feed efficiency gains in pigs selected for low residual feed intake.
+- new | 2012 | 23100581 | RCT | Effect of dietary acids on growth performance of nursery pigs: a cooperative study.
+- new | 2012 | 23365378 | RCT | Responses of dietary ileal amino acid digestibility to consumption of different cultivars of potatoes and conventional fibers in grower pigs fed a high-fat basal diet.
+- new | 2012 | 23365298 | RCT | Comparison of standardized ileal amino acid digestibilities in protein supplements and cereal grains for weaned pigs.
+- new | 2012 | 22585797 | RCT | Effects of exogenous enzyme supplementation to corn- and soybean meal-based or complex diets on growth performance, nutrient digestibility, and blood metabolites in growi
+- new | 2012 | 23365319 | RCT | Nutrient digestibility of degermed, dehulled corn, citrus pulp, and soy protein concentrate by barrows.
+- new | 2012 | 23365355 | RCT | Consumption of guar gum and retrograded high-amylose corn resistant starch increases IL-10 abundance without affecting pro-inflammatory cytokines in the colon of pigs fed
+- new | 2012 | 23365389 | RCT | Direct and regression methods do not give different estimates of digestible and metabolizable energy of wheat for pigs.
+- new | 2012 | 23365310 | RCT | Performance and apparent total tract phosphorus and calcium digestibility in grower-finisher pigs fed diets with and without phytase.
+- new | 2012 | 23365332 | RCT | Digestible energy values of feed ingredients with or without addition of enzymes complex in growing pigs.
+- new | 2012 | 23365300 | RCT | Lower gut nitrogen supply does not affect apparent ileal digestibility of nitrogen or amino acids in growing pigs.
+- new | 2012 | 23365283 | RCT | The impact of lower gut nitrogen supply on nitrogen balance and urea kinetics in growing pigs fed a valine-limiting diet.
+- new | 2011 | 21795581 | MA | A common genetic determinism for sensitivities to soil water deficit and evaporative demand: meta-analysis of quantitative trait Loci and introgression lines of maize.
+- new | 2008 | 19038812 | RCT | Comparison of broiler performance and carcass yields when fed diets containing transgenic maize grains from event DP-O9814O-6 (Optimum GAT), near-isogenic control maize g
+- new | 2007 | 17878445 | RCT | Broiler performance and carcass characteristics when fed diets containing lysine maize (LY038 or LY038 x MON 810), control, or conventional reference maize.
+- new | 2007 | 17296779 | RCT | Tasco supplementation: effects on carcass characteristics, sensory attributes, and retail display shelf-life.
+
+## zingiber-officinale (Zingiber officinale; Ginger) - 308 hits; query: ("Zingiber officinale"[tiab] OR "Ginger"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41195902 | SR | Ginger (Zingiber Officinale) Supplementation and Biomarkers of Cardiovascular Disease - A Systematic Review.
+- new | 2026 | 43012770 | MA | Efficacy of ginger on chemotherapy-induced nausea and vomiting in breast cancer: A meta-analysis.
+- new | 2026 | 42566667 | SR/MA | Ginger Supplementation and Blood Pressure in Adults: A GRADE-Based Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials.
+- new | 2026 | 42613614 | SR | Ginger in supportive therapy against side effects of oncological treatment: a systematic review.
+- new | 2026 | 42320776 | SR | Multi-herb formulations modulating gut microbiota: A systematic review and data-driven analysis.
+- new | 2026 | 42183789 | SR/MA | Ginger-based formulations for allergic rhinitis disease: a systematic review and meta-analysis of experimental studies in animals and humans.
+- new | 2026 | 42968062 | SR/MA | Effects of ginger intervention on anthropometric and body composition indices in patients with type 2 diabetes: a GRADE-assessed systematic review and meta-analysis of ra
+- new | 2026 | 42337792 | MA/SR | Meta-analysis of the effects of ginger supplementation on glycemic control, blood pressure and lipid profile in patients with type 2 diabetes.
+- new | 2026 | 41840403 | SR | A systematic review of ethnobotanical study in Indonesia: diversity and cultural patterns of medicinal plant use.
+- new | 2026 | 41599979 | RCT | Efficacy and Safety of Steamed Ginger Extract for Body Weight and Body Fat Reduction in Overweight Adults: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial.
+- new | 2025 | 38625733 | SR/MA | Efficacy and Safety of Ginger on Chemotherapy-Induced Nausea and Vomiting: A Systematic Review and Meta-analysis of Randomized Controlled Trials.
+- new | 2025 | 40808693 | SR | Pharmacological properties of ginger (Zingiber officinale): what do meta-analyses say? a systematic review.
+- new | 2025 | 40077632 | SR | Effectiveness of Herbal Medicines with Anti-Inflammatory, Antimicrobial, and Antioxidant Properties in Improving Oral Health and Treating Gingivitis and Periodontitis: A 
+- new | 2025 | 40732990 | RCT | Effects of Ginger Supplementation on Markers of Inflammation and Functional Capacity in Individuals with Mild to Moderate Joint Pain.
+- new | 2025 | 41101746 | SR/MA | Impact of ginger supplementation on obesity indices and Adipokine profiles in adults: A GRADE-based systematic review and dose-response meta-analysis of randomized contro
+- new | 2025 | 41123858 | MA/SR | Antioxidant and anti-inflammatory effects of ginger supplementation in adults: a GRADE-assessed systematic review and dose-response meta-analysis of randomised controlled
+- new | 2025 | 40134126 | RCT | Effect of honey-ginger mouthwash on oral mucositis in patients undergoing chemotherapy.
+- new | 2025 | 40518517 | SR | Beneficial effects of ginger on prevention of obesity through Modulation of gut microbiota.
+- new | 2025 | 40856681 | RCT | The Effect of Ginger and Mint on Postoperative Nausea and Vomiting in Patients Undergoing Total Thyroidectomy.
+- new | 2025 | 40841392 | RCT | A Triple-blind randomized controlled trial on the effects of turmeric versus ginger on inflammatory biomarkers in patients with COVID-19.
+- new | 2025 | 41010475 | RCT | Synergistic Effects of Green Tea Extract and Ginger Supplementation on Endurance Performance and Thermal Perception in Normothermic and Cold Environments: A Randomized, P
+- new | 2025 | 40878144 | RCT | Efficacy and safety of steamed ginger extract for gastric health: a randomized, double-blind, placebo-controlled multi-center clinical trial.
+- new | 2025 | 40380319 | SR | Systematic review of the impact of ginger extract and alpinetin on pregnancy outcomes in animal models.
+- new | 2025 | 39931217 | RCT | A Randomized Placebo-Controlled Dose-Response Trial of Muvz(™) for Knee and Low-Back Support in Physically Active Adults.
+- new | 2025 | 41051148 | RCT | The effect of ginger essential oil, lemongrass essential oil and combination of ginger and lemongrass essential oils on symptoms of menopausal women.
+- new | 2025 | 41005054 | SR | Phytotherapy as an adjunct to the treatment of rheumatoid arthritis - a systematic review of clinical trials.
+- new | 2024 | 38770631 | SR/MA | Ginger for Pain Management in Primary Dysmenorrhea: A Systematic Review and Meta-Analysis.
+- HELD REF-0634 | 2024 | 37699474 | RCT | Effect of a Standardized Ginger Root Powder Regimen on Chemotherapy-Induced Nausea and Vomiting: A Multicenter, Double-Blind, Placebo-Controlled Randomized Trial.
+- new | 2024 | 38461442 | RCT | Effect of ginger and P6 acupressure on chemotherapy-induced nausea and vomiting: a randomized controlled study.
+- new | 2024 | 39020488 | RCT | Effect of ginger-partitioned moxibustion combined with ringheaded thumb-tack needle stimulation on gastrointestinal reactions of malignant tumor patients undergoing chemo
+- new | 2024 | 38892617 | RCT | The Effect of Therapeutic Doses of Culinary Spices in Metabolic Syndrome: A Randomized Controlled Trial.
+- new | 2024 | 38341113 | RCT | Herbal medicine for the prevention of chemotherapy-induced nausea and vomiting in patients with advanced colorectal cancer: A prospective randomized controlled trial.
+- new | 2024 | 38261398 | SR/MA | Ginger intervention on body weight and body composition in adults: a GRADE-assessed systematic review and dose-response meta-analysis of 27 randomized controlled trials.
+- new | 2024 | 38706368 | SR | A Systematic Review of Herbal Interventions for the Management of Cardiovascular Diseases.
+- new | 2024 | 38316805 | RCT | Effect of ginger supplementation on the fecal microbiome in subjects with prior colorectal adenoma.
+- new | 2024 | 39053695 | SR/MA | The effect of oral supplementation of ginger on glycemic control of patients with type 2 diabetes mellitus - A systematic review and meta-analysis.
+- new | 2024 | 39684553 | SR | Antibiofilm Effects of Novel Compounds in Otitis Media Treatment: Systematic Review.
+- new | 2024 | 38102801 | SR | Therapeutic effects and mechanisms of action of ginger and its bioactive components on inflammatory response, oxidative stress, the immune system, and organ failure in se
+- new | 2024 | 38073372 | RCT | Effect of E-PR-01 on non-specific low back pain in the adult population: A randomized, double-blind, placebo-controlled, parallel-group trial.
+- new | 2024 | 39110055 | SR | Medicinal Plants Cultivated in Egypt with Antiviral Potential: A Systematic Review.
+- new | 2024 | 37817641 | RCT | The Effects of Ginger (Zingiber Officinale Roscoe) on Non-Alcoholic Fatty Liver Disease in Patients with Type 2 Diabetes Mellitus: A Randomized Double-Blinded Placebo-Con
+- new | 2024 | 39259072 | RCT | The efficacy and safety of ginger (Zingiber officinale) rhizome extract in outpatients with COVID-19: A randomized double-blind placebo-control clinical trial.
+- new | 2024 | 39212491 | RCT | Effectiveness and safety of steamed ginger extract on mild osteoarthritis: a randomized, double-blind, placebo-controlled clinical trial.
+- new | 2024 | 38316221 | RCT | Evaluation of the efficacy and safety of a herbal formulation for rheumatoid arthritis - A non-inferiority randomized controlled trial.
+- new | 2024 | 39193679 | RCT | An oil-in-water emulsion containing a combination of ginger extract and synthetic cannabidiol with potent in vitro anti-inflammatory effects alleviates symptoms of atopic
+- new | 2023 | 37459441 | RCT | Beetroot, watermelon and ginger juice supplementation may increase the clinical outcomes of Intracytoplasmic Sperm Injection cycles.
+- new | 2023 | 36786398 | MA/SR | Effect of ginger (Zingiber officinale) intake on human serum lipid profile: Systematic review and meta-analysis.
+- new | 2023 | 37482107 | RCT | Ashwagandha (Withania somnifera) and Shunthi (Zingiber officinale) in mild and moderate COVID-19: An open-label randomized controlled exploratory trial.
+- new | 2023 | 38102373 | MA/SR | 2023 MASCC/ESMO consensus antiemetic guidelines related to integrative and non-pharmacological therapies.
+- new | 2023 | 37379959 |  | Ginger (Zingiber officinale Roscoe) preparations for prophylaxis of postoperative nausea and vomiting: A Bayesian network meta-analysis.
+- new | 2023 | 36974730 | RCT | The effect of ginger (Zingiber officinale) supplementation on clinical, biochemical, and anthropometric parameters in patients with multiple sclerosis: a double-blind ran
+- new | 2023 | 37774171 | RCT | Using Ginger Oil to Treat Nausea and Vomiting Following Breast Augmentation Surgery.
+- new | 2023 | 36058824 | RCT | "Effects of abdominal massage applied with ginger and lavender oil for elderly with constipation: A randomized controlled trial".
+- new | 2023 | 38140826 | RCT | Effect of Zingiber Officinale in the Management of Nausea and Vomiting Induced by Treatment With Cisplatin Associated With Radiotherapy: A Randomized Controlled Trial.
+- new | 2023 | 37175266 | SR | Extraction, Purification, Structural Characteristics, Biological Activities, and Applications of the Polysaccharides from Zingiber officinale Roscoe. (Ginger): A Review.
+- new | 2023 | 37545930 | MA | Ginger supplementation for the treatment of non-alcoholic fatty liver disease: a meta-analysis of randomized controlled trials.
+- new | 2023 | 37690779 | RCT | Effect of Ginger Root Powder on Gastrointestinal Bacteria Composition, Gastrointestinal Symptoms, Mental Health, Fatigue, and Quality of Life: A Double-Blind Placebo-Cont
+- new | 2023 | 36800950 | RCT | The effect of zingiber officinale on prooxidant-antioxidant balance and glycemic control in diabetic patients with ESRD undergoing hemodialysis: a double-blind randomized
+- new | 2023 | 37891539 | RCT | The effects of ginger supplementation on common gastrointestinal symptoms in patients with relapsing-remitting multiple sclerosis: a double-blind randomized placebo-contr
+- HELD REF-0635 | 2022 | 31937153 | MA | Effect of ginger in the treatment of nausea and vomiting compared with vitamin B6 and placebo during pregnancy: a meta-analysis.
+- new | 2022 | 36501010 | MA/SR | Effects of Ginger Intake on Chemotherapy-Induced Nausea and Vomiting: A Systematic Review of Randomized Clinical Trials.
+- new | 2022 | 35713447 | RCT | Use of ginger to control nausea and vomiting caused by chemotherapy in patients with cervical cancer undergoing treatment: An experiment.
+- new | 2022 | 35147170 | SR | Orally consumed ginger and human health: an umbrella review.
+- new | 2022 | 35106852 | MA/SR | A systematic review and meta-analysis of preclinical and clinical studies on the efficacy of ginger for the treatment of fatty liver disease.
+- new | 2022 | 34700257 | MA/SR | The preventive and relieving effects of ginger on postoperative nausea and vomiting: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2022 | 36058007 | RCT | Ginger supplementation does not increase energy expenditure in female adults.
+- new | 2022 | 36165525 | SR/MA | The Effect of Ginger (Zingiber officinale) on Improving Blood Lipids and Body Weight; A Systematic Review and Multivariate Meta-analysis of Clinical Trials.
+- new | 2022 | 35031435 | MA/SR | The effect of ginger supplementation on metabolic profiles in patients with type 2 diabetes mellitus: A systematic review and meta-analysis of randomized controlled trial
+- new | 2022 | 35729087 | SR | Zingiber officinale: A Systematic Review of Botany, Phytochemistry and Pharmacology of Gut Microbiota-Related Gastrointestinal Benefits.
+- new | 2022 | 35234023 | SR | The most important medicinal plants affecting sperm and testosterone production: a systematic review.
+- new | 2022 | 35080542 | SR | Ginger: a systematic review of clinical trials and recent advances in encapsulation of its bioactive compounds.
+- new | 2022 | 35226949 | RCT | Evaluation of a Zingiber officinale and Bixa orellana Supplement on the Gut Microbiota of Male Athletes: A Randomized Placebo-Controlled Trial.
+- new | 2022 | 33789272 | SR | Efficacy and Safety of Ginger regarding Human Milk Volume and Related Clinical Outcomes: A Systematic Review of Randomized Controlled Trials.
+- new | 2022 | 36369018 | SR | Renoprotective effects of the ginger (Zingiber officinale) on Diabetic kidney disease, current knowledge and future direction: a systematic review of animal studies.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2022 | 35585878 | SR | Ginger for Healthy Ageing: A Systematic Review on Current Evidence of Its Antioxidant, Anti-Inflammatory, and Anticancer Properties.
+- new | 2022 | 36232567 | MA/SR | Efficacy and Safety of Ginger on the Side Effects of Chemotherapy in Breast Cancer Patients: Systematic Review and Meta-Analysis.
+- new | 2022 | 36453014 | RCT | A randomized, double-blind placebo-controlled phase I clinical study on safety and efficacy of the G-Rup® syrup (a mixture of ginger extract and honey) in symptomatic tre
+- new | 2022 | 35473345 | RCT | Ginger-indirect moxibustion plus acupuncture versus acupuncture alone for chronic fatigue syndrome: a randomized controlled trial.
+- new | 2022 | 36184251 | SR | The efficacy of Zingiber officinale on dyslipidaemia, blood pressure, and inflammation as cardiovascular risk factors: A systematic review.
+- new | 2022 | 34933309 | RCT | The Immediate Effect of Sinapis nigra and Zingiber officinale as Thermogenic Substances during Footbaths: A Randomized Controlled Crossover Trial.
+- new | 2022 | 35304019 | RCT | The Effect of Ginger on Postoperative Nausea and Vomiting Among Patients Undergoing Upper and Lower Limb Surgery: A Randomized Controlled Trial.
+- new | 2021 | 32525777 | SR | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review.
+- new | 2021 | 32954562 | SR | Ginger (Zingiber officinale Rosc.) and its bioactive components are potential resources for health beneficial agents.
+- new | 2021 | 33458848 | MA/SR | Effect of ginger (Zingiber officinale) supplementation on oxidative stress parameters: A systematic review and meta-analysis.
+- new | 2021 | 34312974 | MA/SR | Efficacy of Ginger in Preventing Postoperative Nausea and Vomiting: A Systematic Review and Meta-Analysis.
+- new | 2021 | 34620306 | MA/SR | Effects of ginger supplementation on biomarkers of oxidative stress: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2021 | 34857250 | MA/SR | The effects of the ginger supplements on inflammatory parameters in type 2 diabetes patients: A systematic review and meta-analysis of randomised controlled trials.
+- new | 2021 | 34067240 | RCT | Analysis of Effectiveness of a Supplement Combining Harpagophytum procumbens, Zingiber officinale and Bixa orellana in Healthy Recreational Runners with Self-Reported Kne
+- new | 2021 | 32835511 | SR | RENISUS Plants and Their Potential Antitumor Effects in Clinical Trials and Registered Patents.
+- new | 2021 | 32369655 | RCT | Randomized double-blind vehicle controlled study of the effects of topical acetyl zingerone on photoaging.
+- new | 2021 | 33293189 | MA/SR | The efficacy of ginger for the treatment of migraine: A meta-analysis of randomized controlled studies.
+- new | 2021 | 33884948 | SR | Clinical trials with plants in diabetes mellitus therapy: a systematic review.
+- new | 2021 | 34191404 | SR | A systematic review on the effect of Ginger (Zingiber officinale) on improvement of biological and fertility indices of sperm in laboratory animals, poultry and humans.
+- new | 2021 | 33798308 | RCT | [Ginger-separated moxibustion for chronic fatigue syndrome and its effect on intestinal flora].
+- new | 2021 | 34132429 | SR | Promising traditional Indian medicinal plants for the management of novel Coronavirus disease: A systematic review.
+- new | 2021 | 34018223 | RCT | Efficacy of ginger as antiemetic in children with acute gastroenteritis: a randomised controlled trial.
+- new | 2021 | 33787192 | RCT | The effects of combination of Zingiber officinale and Echinacea on alleviation of clinical symptoms and hospitalization rate of suspected COVID-19 outpatients: a randomiz
+- HELD REF-0605 | 2020 | 32603204 | MA/SR | Efficacy of herbal medicine (cinnamon/fennel/ginger) for primary dysmenorrhea: a systematic review and meta-analysis of randomized controlled trials.
+- new | 2020 | 31935866 | SR | Ginger on Human Health: A Comprehensive Systematic Review of 109 Randomized Controlled Trials.
+- new | 2020 | 32312261 | RCT | Ginger extract versus Loratadine in the treatment of allergic rhinitis: a randomized controlled trial.
+- new | 2020 | 32180294 | RCT | Herbal formulation "turmeric extract, black pepper, and ginger" versus Naproxen for chronic knee osteoarthritis: A randomized, double-blind, controlled clinical trial.
+- new | 2020 | 32763761 | MA/SR | Effect of ginger (Zingiber officinale) on inflammatory markers: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2020 | 32214292 | MA/SR | Effectiveness of Ginger on Pain and Function in Knee Osteoarthritis: A PRISMA Systematic Review and Meta-Analysis.
+- new | 2020 | 32147845 | MA/SR | The effects of ginger supplementation on markers of inflammatory and oxidative stress: A systematic review and meta-analysis of clinical trials.
+- new | 2020 | 31398997 | RCT | Double-blind placebo-controlled randomized clinical trial of ginger (Zingiber officinale Rosc.) in the prophylactic treatment of migraine.
+- new | 2020 | 32306991 | RCT | Effect of ginger on the blood glucose level of women with gestational diabetes mellitus (GDM) with impaired glucose tolerance test (GTT): a randomized double-blind placeb
+- new | 2020 | 32147034 | SR | Therapeutic potential of medicinal plants indicated by the Brazilian public health system in treating the collateral effects induced by chemotherapy, radiotherapy, and ch
+- new | 2020 | 31634871 | RCT | The Efficacy Of Ginger And Doxedetomidine In Reducing Postoperative Nausea And Vomiting In Patients Undergoing Abdominal Hysterectomy.
+- new | 2019 | 30972845 | MA/SR | Does ginger supplementation lower blood pressure? A systematic review and meta-analysis of clinical trials.
+- new | 2019 | 29393665 | MA/SR | The effects of ginger intake on weight loss and metabolic profiles among overweight and obese subjects: A systematic review and meta-analysis of randomized controlled tri
+- new | 2019 | 31012134 | SR | Effect of ginger (Zingiber officinale) on semen quality.
+- new | 2019 | 31331547 | SR | Ginger for health care: An overview of systematic reviews.
+- new | 2019 | 31519467 | MA/SR | Efficacy of Ginger (Zingiber officinale) in Ameliorating Chemotherapy-Induced Nausea and Vomiting and Chemotherapy-Related Outcomes: A Systematic Review Update and Meta-A
+- new | 2019 | 31225678 | SR | The effect of ginger (Zingiber officinale) on chemotherapy-induced nausea and vomiting in breast cancer patients: A systematic literature review of randomized controlled 
+- new | 2019 | 31129571 | MA/SR | Herbal medications for anxiety, depression, pain, nausea and vomiting related to preoperative surgical patients: a systematic review and meta-analysis of randomised contr
+- new | 2019 | 30299420 | MA/SR | Does the Oral Administration of Ginger Reduce Chemotherapy-Induced Nausea and Vomiting?: A Meta-analysis of 10 Randomized Controlled Trials.
+- HELD REF-0639 | 2019 | 30921234 | MA/SR | Dietary ginger as a traditional therapy for blood sugar control in patients with type 2 diabetes mellitus: A systematic review and meta-analysis.
+- new | 2019 | 30935515 | RCT | Zingiber officinale and oxidative stress in patients with ulcerative colitis: A randomized, placebo-controlled, clinical trial.
+- new | 2019 | 29768938 | RCT | Double-blind placebo-controlled randomized clinical trial of ginger ( Zingiber officinale Rosc.) addition in migraine acute treatment.
+- HELD REF-3468 | 2019 | 30670277 | RCT | The effect of frankincense (Boswellia serrata, oleoresin) and ginger (Zingiber officinale, rhizoma) on heavy menstrual bleeding: A randomized, placebo-controlled, clinica
+- new | 2018 | 30466995 | MA | Ginger (Zingiber officinale): An alternative for the prevention of postoperative nausea and vomiting. A meta-analysis.
+- new | 2018 | 30545531 | RCT | Effect of Ginger and Novafen on menstrual pain: A cross-over trial.
+- new | 2018 | 29747751 | MA/SR | The effect of ginger supplementation on lipid profile: A systematic review and meta-analysis of clinical trials.
+- new | 2018 | 29193411 | SR | A systematic review of the anti-obesity and weight lowering effect of ginger (Zingiber officinale Roscoe) and its mechanisms of action.
+- new | 2018 | 29842963 | SR | The use of medicinal plants by pregnant women in Africa: A systematic review.
+- new | 2018 | 29717175 | RCT | A randomized, double-blind, placebo-controlled trial on the efficacy of ginger in the prevention of abdominal distention in post cesarean section patients.
+- new | 2017 | 28659234 | RCT | Use of ginger versus stretching exercises for the treatment of primary dysmenorrhea: a randomized controlled trial.
+- new | 2017 | 29354973 | RCT | [Effects of ginger-separated moxibustion at Baliao points combined with Bushen Huoxue formula on patients with decreased ovarian reserve function].
+- new | 2017 | 28872719 | MA/SR | Oral herbal medicines marketed in Brazil for the treatment of osteoarthritis: A systematic review and meta-analysis.
+- new | 2017 | 29137696 | RCT | Effects of Self-Knee Massage With Ginger Oil in Patients With Osteoarthritis: An Experimental Study.
+- HELD REF-2586 | 2016 | 27000311 | MA/SR | Dietary supplements for dysmenorrhoea.
+- new | 2016 | 26758574 | RCT | Effect of cinnamon, cardamom, saffron and ginger consumption on blood pressure and a marker of endothelial function in patients with type 2 diabetes mellitus: A randomize
+- new | 2016 | 27806832 | MA | The effect of ginger supplementation on serum C-reactive protein, lipid profile and glycaemia: a systematic review and meta-analysis.
+- new | 2016 | 26948519 | RCT | Ginger for Prevention of Antituberculosis-induced Gastrointestinal Adverse Reactions Including Hepatotoxicity: A Randomized Pilot Clinical Trial.
+- new | 2016 | 27559855 | RCT | Effect of Ginger Supplementation on Proinflammatory Cytokines in Older Patients with Osteoarthritis: Outcomes of a Randomized Controlled Clinical Trial.
+- new | 2016 | 26813467 | RCT | The effect of ginger (Zingiber officinalis) and artichoke (Cynara cardunculus) extract supplementation on gastric motility: a pilot randomized study in healthy volunteers
+- new | 2016 | 27089418 | RCT | Anti-inflammatory and antioxidant effect of ginger in tuberculosis.
+- new | 2015 | 25579196 | RCT | Wrist-ankle acupuncture and ginger moxibustion for preventing gastrointestinal reactions to chemotherapy: A randomized controlled trial.
+- new | 2015 | 25300574 | MA | Efficacy and safety of ginger in osteoarthritis patients: a meta-analysis of randomized placebo-controlled trials.
+- new | 2015 | 25912592 | SR | Can nausea and vomiting be treated with ginger extract?
+- new | 2015 | 25298352 | RCT | Effect of ginger (Zingiber officinale) on heavy menstrual bleeding: a placebo-controlled, randomized clinical trial.
+- new | 2015 | 26177393 | MA/SR | Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials.
+- new | 2015 | 26200194 | SR | Ginger (Zingiber officinale) as an Analgesic and Ergogenic Aid in Sport: A Systemic Review.
+- new | 2015 | 26665978 | RCT | Potential of native Thai aromatic plant extracts in antiwrinkle body creams.
+- new | 2015 | 25719344 | RCT | The effect of ginger (Zingiber officinale) on glycemic markers in patients with type 2 diabetes.
+- new | 2015 | 26051575 | RCT | Effects of inhaled ginger aromatherapy on chemotherapy-induced nausea and vomiting and health-related quality of life in women with breast cancer.
+- HELD REF-0295 | 2014 | 24642205 | MA/SR | A systematic review and meta-analysis of the effect and safety of ginger in the treatment of pregnancy-associated nausea and vomiting.
+- new | 2014 | 23657930 | RCT | Comparison between the efficacy of ginger and sumatriptan in the ablative treatment of the common migraine.
+- new | 2014 | 24390893 | MA | Effects of ginger for nausea and vomiting in early pregnancy: a meta-analysis.
+- new | 2014 | 24820858 | RCT | Ginger for prevention of antiretroviral-induced nausea and vomiting: a randomized clinical trial.
+- new | 2014 | 25031533 | RCT | Adjunctive treatment with oral AKL1, a botanical nutraceutical, in chronic obstructive pulmonary disease.
+- new | 2014 | 24559600 | RCT | Comparison of the effect of ginger and zinc sulfate on primary dysmenorrhea: a placebo-controlled randomized trial.
+- new | 2013 | 23434608 | RCT | Ethnobotanical survey of malaria prophylactic remedies in Odisha, India.
+- new | 2013 | 23550785 | SR | Ginger (Zingiber officinale) and chemotherapy-induced nausea and vomiting: a systematic literature review.
+- new | 2013 | 23707209 | RCT | Treatment of irritable bowel syndrome using a selected herbal combination of Iraqi folk medicines.
+- new | 2013 | 23865123 | RCT | The effect of ginger for relieving of primary dysmenorrhoea.
+- new | 2013 | 24199775 | SR | A systematic review of the evidence for topical use of ginger.
+- new | 2013 | 23448741 | MA/SR | Ginger as an antiemetic modality for chemotherapy-induced nausea and vomiting: a systematic review and meta-analysis.
+- new | 2013 | 22951628 | SR | The effectiveness and safety of ginger for pregnancy-induced nausea and vomiting: a systematic review.
+- new | 2013 | 22884532 | RCT | Effect of enteral feeding with ginger extract in acute respiratory distress syndrome.
+- new | 2013 | 24617168 | RCT | Efficacy and tolerability of ginger (Zingiber officinale) in patients of osteoarthritis of knee.
+- new | 2013 | 23510951 | RCT | Efficacy of ginger on intraoperative and postoperative nausea and vomiting in elective cesarean section patients.
+- new | 2012 | 23964445 | RCT | The efficacy of powdered ginger in osteoarthritis of the knee.
+- new | 2012 | 23451449 | RCT | The efficacy of Plygersic gel for use in the treatment of osteoarthritis of the knee.
+- new | 2012 | 21818642 | RCT | Ginger (Zingiber officinale) reduces acute chemotherapy-induced nausea: a URCC CCOP study of 576 patients.
+- new | 2011 | 22054010 | SR | The use of ginger (Zingiber officinale) for the treatment of pain: a systematic review of clinical trials.
+- new | 2010 | 19504465 | RCT | In vivo enhancement of natural killer cell activity through tea fortified with Ayurvedic herbs.
+- new | 2010 | 20420113 | RCT | Effect of ginger on lower esophageal sphincter pressure.
+- new | 2010 | 20418184 | RCT | Ginger (Zingiber officinale) reduces muscle pain caused by eccentric exercise.
+- new | 2010 | 20546067 | RCT | Intestinal villus histological alterations in broilers fed dietary dried fermented ginger.
+- new | 2009 | 19575486 | SR | A systematic review of the efficacy and safety of herbal medicines used in the treatment of obesity.
+- new | 2009 | 19005687 | RCT | Phase II trial of encapsulated ginger as a treatment for chemotherapy-induced nausea and vomiting.
+- new | 2008 | 18403946 | RCT | Effects of ginger on gastric emptying and motility in healthy humans.
+- new | 2006 | 16389016 | MA/SR | The efficacy of ginger for the prevention of postoperative nausea and vomiting: a meta-analysis.
+- new | 2006 | 17036477 | RCT | [Randomized controlled study on ginger-salt-partitioned moxibustion at shenque (CV 8) on urination disorders poststroke].
+- new | 2005 | 15690883 | Clinical Trial/RCT | Ginger: an essential oil for shortening labour?
+- new | 2005 | 15802416 | SR | Effectiveness and safety of ginger in the treatment of pregnancy-induced nausea and vomiting.
+- new | 2005 | 15772458 | MA/SR | [Is ginger a clinically relevant antiemetic? A systematic review of randomized controlled trials].
+- HELD REF-2443 | 2005 | 15801937 | Clinical Trial/RCT | Effect of ginkgo and ginger on the pharmacokinetics and pharmacodynamics of warfarin in healthy subjects.
+- new | 2005 | 16036167 | Clinical Trial/RCT | Challenges in herbal research: a randomized clinical trial to assess blinding with ginger.
+- new | 2004 | 15571611 | Clinical Trial/RCT | Antiemetic effect of ginger in gynecologic oncology patients receiving cisplatin.
+- new | 2004 | 15051552 | Clinical Trial/RCT | A randomized controlled trial of ginger to treat nausea and vomiting in pregnancy.
+- new | 2003 | 14534370 | Clinical Trial/RCT | Ginger reduces hyperglycemia-evoked gastric dysrhythmias in healthy humans: possible role of endogenous prostaglandins.
+- new | 2003 | 14712970 | Clinical Trial/RCT | Effect of a ginger extract on pregnancy-induced nausea: a randomised controlled trial.
+- new | 2003 | 14609531 | Clinical Trial/RCT | The effects of Zintona EC (a ginger extract) on symptomatic gonarthritis.
+- new | 2003 | 12651648 | Clinical Trial/RCT | Ginger does not prevent postoperative nausea and vomiting after laparoscopic surgery.
+- new | 2002 | 12233808 | Clinical Trial/RCT | Ginger syrup as an antiemetic in early pregnancy.
+- new | 2001 | 11482162 | Clinical Trial/RCT | Ginger, fat and fibrinolysis.
+- new | 2001 | 11710709 | Clinical Trial/RCT | Effects of a ginger extract on knee pain in patients with osteoarthritis.
+- new | 2001 | 11275030 | Clinical Trial/RCT | Ginger for nausea and vomiting in pregnancy: randomized, double-masked, placebo-controlled trial.
+- new | 2000 | 10793599 | SR | Efficacy of ginger for nausea and vomiting: a systematic review of randomized clinical trials.
+- new | 2000 | 10607493 | Clinical Trial/RCT | A randomized, placebo-controlled, cross-over study of ginger extracts and ibuprofen in osteoarthritis.
+- new | 1999 | 10442508 | Clinical Trial/RCT | Effects of ginger on gastroduodenal motility.
+- new | 1994 | 8165628 | Clinical Trial/RCT | Effect of dried ginger on human platelet function.
+- new | 1993 | 8214465 | Clinical Trial/RCT | Zingiber officinale (ginger)--an antiemetic for day case surgery.
+- new | 1993 | 8317647 | Clinical Trial/RCT | Zingiber officinale does not affect gastric emptying rate. A randomised, placebo-controlled, crossover trial.
+- new | 1991 | 1988321 | Clinical Trial/RCT | Ginger treatment of hyperemesis gravidarum.
+- new | 1990 | 2205121 | Clinical Trial/RCT | Ginger root--a new antiemetic. The effect of ginger root on postoperative nausea and vomiting after major gynaecological surgery.
+- new | 1988 | 3277342 | Clinical Trial/RCT | Ginger root against seasickness. A controlled trial on the open sea.

@@ -128,43 +128,28 @@ actions:
   - REF-0524
   - REF-0525
   - REF-0999
+  - REF-3725
   status: verified
 indications:
 - condition: bronchitis
-  note: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)
+  note: Traditionally used for bronchitis and its persistent cough (Herbal Reality; Grieve, A Modern Herbal;
+    herbalist text)
   reference_ids:
   - REF-0525
+  - REF-3725
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Wild cherry bark extract slowed colorectal cancer cells in the lab (preclinical)
   reference_ids:
   - REF-2558
   status: needs-review
 - condition: cough
-  note: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways); Antitussive - calms
-    a persistent dry, irritating cough (prunasin quietens the cough reflex)
+  note: Traditional remedy for irritating dry cough and the persistent cough of chronic bronchitis (Herbal
+    Reality; Grieve, A Modern Herbal; herbalist text)
   reference_ids:
   - REF-0524
   - REF-0525
-  status: needs-review
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0525
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1000
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0525
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1000
-- condition: sore-throat
-  note: Soothes sore throat and respiratory irritation (traditional)
-  reference_ids:
-  - REF-0524
+  - REF-3725
   status: needs-review
 contraindications:
 - note: 'Contains cyanogenic compounds: use only properly dried, prepared bark and avoid large or prolonged
@@ -213,4 +198,11 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   action (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s
   cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar (phenological) -
   added harvest_readiness for bark (provisional: PFAF REF-3319, stripped in autumn, used within a year).
-  Single lineage. Binomial confirmed.'
+  Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit (2nd pass + deep). Web
+  sources checked 2026-11-13: Herbal Reality (references listed) names irritating cough, chronic
+  bronchitis, nervous indigestion and appetite loss; The Herbal Medic (book bibliography) names
+  coughs, bronchitis, asthma, nervous dyspepsia and smooth-muscle antispasmodic. Neither names
+  sore throat or cramps -> sore-throat, menstrual-cramps and muscle-spasm dropped. Grieve REF-3725
+  (astringent tonic, pectoral, sedative; bronchitis, nervous and whooping cough, dyspepsia) added.
+  REF-0999 retagged narrative-review. Gap: indigestion/appetite (traditional only, no pair).'

@@ -1,0 +1,267 @@
+# Landmark search batch 18
+
+## trifolium-repens (Trifolium repens; White clover) - 9 (+CT) hits; query: ("Trifolium repens"[tiab] OR "White clover"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2018 | 29174151 | MA | Meta-analysis of the effect of white clover inclusion in perennial ryegrass swards on milk production.
+- new | 2013 | 24265803 | SR | Are weeds hitchhiking a ride on your car? A systematic review of seed dispersal on cars.
+- new | 2012 | 21575078 |  | Digestible energy content of pasture species in growing European wild boar (Sus scrofa L.).
+- new | 2012 | 22591324 | RCT | Gas chromatographic-olfactometric aroma profile and quantitative analysis of volatile carbonyls of grilled beef from different finishing feed systems.
+- new | 2008 | 18407993 | RCT | Forage systems for cow-calf production in the Appalachian region.
+- new | 2007 | 17085731 | RCT | Anthelmintic and nutritional effects of heather supplementation on Cashmere goats grazing perennial ryegrass-white clover pastures.
+- new | 2005 | 15710524 | Clinical Trial | Testing for direct anthelmintic effects of bioactive forages against Trichostrongylus colubriformis in grazing sheep.
+- new | 2003 | 12581592 | Clinical Trial | The effect of birdsfoot trefoil (Lotus corniculatus) and chicory (Cichorium intybus) on parasite intensities and performance of lambs naturally infected with helminth par
+- new | 2000 | 11234969 | Clinical Trial | The effect of birdsfoot trefoil (Lotus corniculatus) and white clover (Trifolium repens) in mixed pasture swards on incoming and established nematode infections in young 
+
+## trigonella-foenum-graecum (Trigonella foenum-graecum; Fenugreek) - 69 hits; query: ("Trigonella foenum-graecum"[tiab] OR "Fenugreek"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42688439 | SR | Effects of oral fenugreek-derived preparations on testosterone-related outcomes in adult men: a systematic review and meta-analysis of randomized placebo-controlled trial
+- new | 2026 | 41539457 | SR/MA | Assessing the safety of herbal medicine use among type 2 diabetes mellitus patients: A systematic review and meta-analysis.
+- new | 2026 | 42480309 | SR | Seed-derived mucilage polysaccharides as biomaterials for in vivo tissue regeneration: A systematic review.
+- new | 2026 | 42514462 | SR | Fenugreek Is Superior to Guar Gum, Locust Bean Gum and Tara Gum for Metabolic Health: A Systematic Review.
+- new | 2026 | 42738984 | RCT | Sprouted Fenugreek-Enriched Wheat Flatbread Attenuates Postprandial Glycemic and Insulinemic Responses in Healthy Adults: A Randomized Crossover Pilot Study.
+- new | 2025 | 41239794 | RCT | Investigating the Effectiveness of Fenugreek on the Quantity of Breast Milk and the Level of Prolactin in Mothers of Preterm Newborns: A Randomized Controlled Clinical Tr
+- new | 2024 | 39288153 | RCT | Effect of a plant extract of fenugreek (Trigonella foenum-graecum) on testosterone in blood plasma and saliva in a double blind randomized controlled intervention study.
+- new | 2024 | 39873252 | RCT | Effectiveness of Fenugreek as an Adjuvant in the Management of Oral Potentially Malignant Disorders: A Randomized Controlled Trial.
+- new | 2024 | 37594100 | SR/MA | The Effect of Fenugreek on the Severity of Dysmenorrhea: A Systematic Review and Meta-analysis.
+- new | 2024 | 38644706 | SR | Antioxidative and Anti-inflammatory Effects of Plant-derived Hypoglycemic Medicines: An In vivo/In vitro Systematic Review.
+- new | 2024 | 37459747 | RCT | A Placebo-Controlled, Double-Blind Clinical Investigation to Evaluate the Efficacy of a Patented Trigonella foenum-graecum Seed Extract "Fenfuro®" in Type 2 Diabetics.
+- new | 2024 | 38464716 | SR | The additive effect of herbal medicines on lifestyle modification in the treatment of non-alcoholic fatty liver disease: a systematic review and meta-analysis.
+- HELD REF-1114 | 2023 | 37039783 | SR | Effects of Trigonella foenum graecum (fenugreek) on rheumatoid arthritis: a systematic review.
+- new | 2023 | 36837450 | MA/SR | Effect of Fenugreek on Hyperglycemia: A Systematic Review and Meta-Analysis.
+- new | 2023 | 37253363 | MA/SR | The Anabolic Effect of Fenugreek: A Systematic Review with Meta-analysis.
+- HELD REF-2515 | 2023 | 37762302 | SR/MA | The Effect of Fenugreek in Type 2 Diabetes and Prediabetes: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2023 | 36763260 | MA/SR | The Effects of Fenugreek Seed Consumption on Blood Pressure: A Systematic Review and Meta-analysis of Randomized Controlled Trials.
+- new | 2023 | 36992660 | MA/SR | Effect of saffron and fenugreek on lowering blood glucose: A systematic review with meta-analysis.
+- new | 2023 | 36470549 | SR/MA | Effects of fenugreek supplementation on the components of metabolic syndrome: A systematic review and dose-response meta-analysis of randomized clinical trials.
+- new | 2023 | 36199177 | RCT | The effects of fenugreek seed extract supplementation in patients with Alzheimer's disease: A randomized, double-blind, placebo-controlled trial.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2022 | 35754481 | SR | Effectiveness and Safety of Ayurvedic Medicines in Type 2 Diabetes Mellitus Management: A Systematic Review and Meta-Analysis.
+- new | 2021 | 33475054 | SR | Ethnomedicinal Plants for the Management of Diabetes Worldwide: A Systematic Review.
+- new | 2021 | 32081056 | RCT | Efficacy and Safety of a Traditional Herbal Combination in Patients with Type II Diabetes Mellitus: A Randomized Controlled Trial.
+- new | 2020 | 32048383 | MA/Review | Effect of fenugreek extract supplement on testosterone levels in male: A meta-analysis of clinical trials.
+- new | 2020 | 32087319 | MA/SR | Effect of fenugreek supplementation on blood lipids and body weight: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2020 | 32385866 | MA/SR | Effect of fenugreek consumption on serum lipid profile: A systematic review and meta-analysis.
+- new | 2020 | 32951700 | MA/SR | The Effects of Fenugreek on Cardiometabolic Risk Factors in Adults: A Systematic Review and Meta-analysis.
+- new | 2020 | 33044367 | RCT | Effects of Curcumin and Fenugreek Soluble Fiber on the Physical Working Capacity at the Fatigue Threshold, Peak Oxygen Consumption, and Time to Exhaustion.
+- new | 2020 | 31828857 | RCT | The effect of Trigonella foenum-graecum extract on prostate-specific antigen, and prostate function in otherwise healthy men with benign prostate hyperplasia.
+- new | 2020 | 32640956 | RCT | Comparison of the Effects of Fenugreek Vaginal Cream and Ultra Low- Dose Estrogen on Atrophic Vaginitis.
+- new | 2020 | 32441668 | RCT | Efficacy of fenugreek seed extract on men's psychological and physical health: a randomized placebo-controlled double-blind clinical trial.
+- new | 2020 | 33025616 | RCT | Efficacy of a novel extract of fenugreek seeds in alleviating vasomotor symptoms and depression in perimenopausal women: A randomized, double-blinded, placebo-controlled 
+- new | 2020 | 32565595 | RCT | Comparison of the efficacy of oral fenugreek seeds hydroalcoholic extract versus placebo in nonalcoholic fatty liver disease; a randomized, triple-blind controlled pilot 
+- new | 2020 | 32147060 | RCT | The effect of fenugreek seed supplementation on serum irisin levels, blood pressure, and liver and kidney function in patients with type 2 diabetes mellitus: A parallel r
+- new | 2019 | 30959140 | SR | A review of Algerian medicinal plants used in the treatment of diabetes.
+- new | 2019 | 31148988 | RCT | A randomized controlled clinical trial evaluating the effect of Trigonella foenum-graecum (fenugreek) versus glibenclamide in patients with diabetes.
+- new | 2019 | 31583253 | RCT | Antidiabetic Effect of Fenugreek Seed Powder Solution (Trigonella foenum-graecum L.) on Hyperlipidemia in Diabetic Patients.
+- new | 2019 | 30721143 | RCT | Fenugreek dermal patch, a new natural topical antinociceptive medication for relieving the postherniotomy pain, a double-blind placebo controlled trial.
+- new | 2018 | 29193352 | SR | Effectiveness of fenugreek as a galactagogue: A network meta-analysis.
+- new | 2018 | 29744355 | SR | Herbal Medicine for Oligomenorrhea and Amenorrhea: A Systematic Review of Ancient and Conventional Medicine.
+- new | 2018 | 30156931 | MA/SR | Effect of phytoestrogens on sexual function in menopausal women: a systematic review and meta-analysis.
+- new | 2018 | 29518003 | RCT | Insulin-Sensitizer Effects of Fenugreek Seeds in Parallel with Changes in Plasma MCH Levels in Healthy Volunteers.
+- new | 2017 | 28707431 | RCT | Efficacy of a Proprietary Trigonella foenum-graecum L. De-Husked Seed Extract in Reducing Menopausal Symptoms in Otherwise Healthy Women: A Double-Blind, Randomized, Plac
+- HELD REF-2586 | 2016 | 27000311 | MA/SR | Dietary supplements for dysmenorrhoea.
+- HELD REF-1116 | 2016 | 26791805 | RCT | Testofen, a specialised Trigonella foenum-graecum seed extract reduces age-related symptoms of androgen decrease, increases testosterone levels and improves sexual functi
+- new | 2016 | 27496582 | MA/Review | Effect of fenugreek on hyperglycaemia and hyperlipidemia in diabetes and prediabetes: A meta-analysis.
+- new | 2016 | 27406028 | RCT | A Novel Extract of Fenugreek Husk (FenuSMART™) Alleviates Postmenopausal Symptoms and Helps to Establish the Hormonal Balance: A Randomized, Double-Blind, Placebo-Control
+- new | 2016 | 26358163 | RCT | Reduction of postprandial blood glucose in healthy subjects by buns and flatbreads incorporated with fenugreek seed powder.
+- new | 2016 | 27043120 | RCT | Safety, Tolerance, and Enhanced Efficacy of a Bioavailable Formulation of Curcumin With Fenugreek Dietary Fiber on Occupational Stress: A Randomized, Double-Blind, Placeb
+- new | 2015 | 26516311 | RCT | Efficacy of a Novel Fenugreek Seed Extract (Trigonella foenum-graecum, Furocyst) in Polycystic Ovary Syndrome (PCOS).
+- new | 2015 | 25914334 | RCT | Influence of a Specialized Trigonella foenum-graecum Seed Extract (Libifem), on Testosterone, Estradiol and Sexual Function in Healthy Menstruating Women, a Randomised Pl
+- new | 2015 | 25877259 | RCT | Effect of vegetable wastage and energy in ostrich chick diet on performance and hematology.
+- HELD REF-2449 | 2014 | 24438170 | MA | Effect of fenugreek (Trigonella foenum-graecum L.) intake on glycemia: a meta-analysis of clinical trials.
+- new | 2014 | 23512705 | RCT | Efficacy and safety of standardized extract of Trigonella foenum-graecum L seeds as an adjuvant to L-Dopa in the management of patients with Parkinson's disease.
+- new | 2014 | 26098483 | RCT | Effect of Fenugreek Seeds on Serum Metabolic Factors and Adiponectin Levels in Type 2 Diabetic Patients.
+- new | 2011 | 22071637 | SR | Antidiabetic plants of Iran.
+- new | 2011 | 21843614 | MA/SR | Meta-analysis of the effect of herbal supplement on glycemic control in type 2 diabetes.
+- new | 2011 | 21312304 | RCT | Physiological aspects of male libido enhanced by standardized Trigonella foenum-graecum extract and mineral formulation.
+- new | 2010 | 20020282 | RCT | A fenugreek seed extract selectively reduces spontaneous fat intake in overweight subjects.
+- new | 2009 | 19857068 | RCT | Fenugreek bread: a treatment for diabetes mellitus.
+- new | 2009 | 19353539 | RCT | Effect of fenugreek fiber on satiety, blood glucose and insulin response and energy intake in obese subjects.
+- new | 2009 | 19809809 | RCT | A fenugreek seed extract selectively reduces spontaneous fat consumption in healthy volunteers.
+- new | 2008 | 18219452 | RCT | Clinical observation on trigonella foenum-graecum L. total saponins in combination with sulfonylureas in the treatment of type 2 diabetes mellitus.
+- HELD REF-1119 | 2007 | 18928139 | SR | Fenugreek (Trigonella foenum-graecum L. Leguminosae): an evidence-based systematic review by the natural standard research collaboration.
+- new | 2003 | 12791229 | SR | Herbs for serum cholesterol reduction: a systematic view.
+- new | 2001 | 11868855 | Clinical Trial/RCT | Effect of Trigonella foenum-graecum (fenugreek) seeds on glycaemic control and insulin resistance in type 2 diabetes mellitus: a double blind placebo controlled study.
+- new | 2000 | 11370345 | Clinical Trial/RCT | Hypoglycaemic effect of aqueous extract of the leaves of Trigonella foenum-graecum in healthy volunteers.
+- new | 1990 | 2194788 | Clinical Trial/RCT | Effect of fenugreek seeds on blood glucose and serum lipids in type I diabetes.
+
+## tussilago-farfara (Tussilago farfara; Common coltsfoot) - 1 (+CT) hits; query: ("Tussilago farfara"[tiab] OR "Common coltsfoot"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- HELD REF-0914 | 2020 | 32105669 | SR | A systematic review and quality assessment of case reports of adverse events for borage (Borago officinalis), coltsfoot (Tussilago farfara) and comfrey (Symphytum officin
+
+## urtica-dioica (Urtica dioica; Stinging Nettle) - 38 (+CT) hits; query: ("Urtica dioica"[tiab] OR "Stinging Nettle"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41167570 | SR | Neuroprotective effects of Urtica dioica Linn. on diabetic animal models: A systematic review.
+- new | 2023 | 36268807 | RCT | Therapeutic effects of Rosa canina, Urtica dioica and Tanacetum vulgare herbal combination in treatment of tinnitus symptoms: A double-blind randomised clinical trial.
+- new | 2022 | 35754481 | SR | Effectiveness and Safety of Ayurvedic Medicines in Type 2 Diabetes Mellitus Management: A Systematic Review and Meta-Analysis.
+- new | 2022 | 34587883 | MA/SR | Effects of Urtica dioica on Metabolic Profiles in Type 2 Diabetes: A Systematic Review and Meta-analysis of Clinical Trials.
+- new | 2021 | 33915962 | RCT | A Placebo-Controlled, Pseudo-Randomized, Crossover Trial of Botanical Agents for Gulf War Illness: Reishi Mushroom (Ganoderma lucidum), Stinging Nettle (Urtica dioica), a
+- new | 2021 | 32081056 | RCT | Efficacy and Safety of a Traditional Herbal Combination in Patients with Type II Diabetes Mellitus: A Randomized Controlled Trial.
+- HELD REF-1331 | 2020 | 31802554 | MA/SR | The effect of nettle (Urtica dioica) supplementation on the glycemic control of patients with type 2 diabetes mellitus: A systematic review and meta-analysis.
+- new | 2020 | 32981268 | RCT | Urtica Dioica Root Extract on Clinical and Biochemical Parameters in Patients with Benign Prostatic Hyperplasia, Randomized Controlled Trial.
+- new | 2019 | 31330767 | RCT | Antihypertensive Indigenous Lebanese Plants: Ethnopharmacology and a Clinical Trial.
+- new | 2019 | 31126551 | RCT | Urtica dioica in comparison with placebo and acupuncture: A new possibility for menopausal hot flashes: A randomized clinical trial.
+- new | 2018 | 29744355 | SR | Herbal Medicine for Oligomenorrhea and Amenorrhea: A Systematic Review of Ancient and Conventional Medicine.
+- new | 2017 | 28028635 | RCT | In vitro control of parasitic nematodes of small ruminants using some plant species containing flavonoids.
+- new | 2017 | 29228792 | RCT | Silymarin, Olibanum, and Nettle, A Mixed Herbal Formulation in the Treatment of Type II Diabetes: A Randomized, Double-Blind, Placebo-Controlled, Clinical Trial.
+- new | 2017 | 28614869 | RCT | A Rosa canina - Urtica dioica - Harpagophytum procumbens/zeyheri Combination Significantly Reduces Gonarthritis Symptoms in a Randomized, Placebo-Controlled Double-Blind 
+- new | 2013 | 23391017 | SR | Plant food supplements with anti-inflammatory properties: a systematic review (II).
+- new | 2013 | 24498803 | SR | Iranian medicinal plants for diabetes mellitus: a systematic review.
+- new | 2013 | 24273930 | RCT | Improved glycemic control in patients with advanced type 2 diabetes mellitus taking Urtica dioica leaf extract: a randomized double-blind placebo-controlled clinical tria
+- new | 2013 | 23724529 | RCT | Ankaferd blood stopper in episiotomy repair.
+- new | 2012 | 22766473 |  | The effectiveness of jewelweed, Impatiens capensis, the related cultivar I. balsamina and the component, lawsone in preventing post poison ivy exposure contact dermatitis
+- new | 2012 | 22545363 | RCT | The effect of hydro alcoholic nettle (Urtica dioica) extract on oxidative stress in patients with type 2 diabetes: a randomized double-blind clinical trial.
+- new | 2011 | 21944657 | RCT | Arnica and stinging nettle for treating burns - a self-experiment.
+- new | 2011 | 22303583 | RCT | The effect of hydro alcoholic Nettle (Urtica dioica) extracts on insulin sensitivity and some inflammatory indicators in patients with type 2 diabetes: a randomized doubl
+- new | 2010 | 20890858 | Clinical Trial | [Associating Serenoa repens, Urtica dioica and Pinus pinaster. Safety and efficacy in the treatment of lower urinary tract symptoms. Prospective study on 320 patients].
+- new | 2010 | 20931547 | RCT | Analysis of the results obtained with a new phytotherapeutic association for LUTS versus control. [corrected].
+- new | 2009 | 19181486 | RCT | Serenoa repens associated with Urtica dioica (ProstaMEV) and curcumin and quercitin (FlogMEV) extracts are able to improve the efficacy of prulifloxacin in bacterial pros
+- new | 2009 | 19623834 | Clinical Trial | Stinging nettle cream for osteoarthritis.
+- new | 2009 | 20015358 | RCT | Phytalgic, a food supplement, vs placebo in patients with osteoarthritis of the knee or hip: a randomised double-blind placebo-controlled clinical trial.
+- new | 2008 | 18514907 | RCT | Nettle sting for chronic knee pain: a randomised controlled pilot study.
+- new | 2005 | 16635963 | RCT | Urtica dioica for treatment of benign prostatic hyperplasia: a prospective, randomized, double-blind, placebo-controlled, crossover study.
+- new | 2004 | 15045190 | Clinical Trial/RCT | [Stinging nettle root extract (Bazoton-uno) in long term treatment of benign prostatic syndrome (BPS). Results of a randomized, double-blind, placebo controlled multicent
+- new | 2000 | 11276294 | MA | Phytotherapy for benign prostatic hyperplasia.
+- new | 2000 | 10911825 | Clinical Trial/RCT | Randomized controlled trial of nettle sting for treatment of base-of-thumb pain.
+- new | 2000 | 10971268 | Clinical Trial/RCT | Combined sabal and urtica extract compared with finasteride in men with benign prostatic hyperplasia: analysis of prostate volume and therapeutic outcome.
+- new | 1999 | 10581821 | Clinical Trial | Nettle sting of Urtica dioica for joint pain--an exploratory study of this complementary therapy.
+- new | 1996 | 8740085 | Clinical Trial | Ex-vivo in-vitro inhibition of lipopolysaccharide stimulated tumor necrosis factor-alpha and interleukin-1 beta secretion in human whole blood by extractum urticae dioica
+- new | 1996 | 8967906 | Clinical Trial | [Cytokine secretion in whole blood of healthy subjects following oral administration of Urtica dioica L. plant extract].
+- new | 1993 | 7509261 | Clinical Trial/RCT | Combined extracts of Urtica dioica and Pygeum africanum in the treatment of benign prostatic hyperplasia: double-blind comparison of two doses.
+- new | 1990 | 2192379 | Clinical Trial/RCT | Randomized, double-blind study of freeze-dried Urtica dioica in the treatment of allergic rhinitis.
+
+## vaccinium-macrocarpon (Vaccinium macrocarpon; American Cranberry) - 32 (+CT) hits; query: ("Vaccinium macrocarpon"[tiab] OR "American Cranberry"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42730009 | Clinical Trial | Comparative Evaluation of Three Cranberry Formulations in Women with Recurrent Urinary Tract Infections: An Observational Study.
+- new | 2026 | 42337282 | RCT | In vivo exposure to cranberry juice suppresses dental plaque regrowth and acid production in adults and children: a PGRM study.
+- new | 2025 | 39863114 | RCT | Whole cranberry fruit powder supplement reduces the incidence of culture-confirmed urinary tract infections in females with a history of recurrent urinary tract infection
+- new | 2025 | 39023333 | RCT | Effect of tablets containing a paraprobiotic strain and the cranberry extract on caries incidence in preschool children: A randomized controlled trial.
+- new | 2025 | 41096972 | SR | Cranberry Research Progress: A Systematic Review of Chemical Composition, Pharmacological Mechanisms, Clinical Applications, and Nutritional Significance.
+- new | 2022 | 35063244 | RCT | Effect of cranberry supplementation on toxins produced by the gut microbiota in chronic kidney disease patients: A pilot randomized placebo-controlled trial.
+- new | 2021 | 32945735 | RCT | Efficacy of Daily Intake of Dried Cranberry 500 mg in Women with Overactive Bladder: A Randomized, Double-Blind, Placebo Controlled Study.
+- new | 2020 | 31023488 | MA/SR | The effects of cranberry on cardiovascular metabolic risk factors: A systematic review and meta-analysis.
+- new | 2020 | 32311481 | Clinical Trial | Antiadhesive natural products against uropathogenic E. coli: What can we learn from cranberry extract?
+- new | 2019 | 29476238 | RCT | Chronic consumption of a low calorie, high polyphenol cranberry beverage attenuates inflammation and improves glucoregulation and HDL cholesterol in healthy overweight hu
+- new | 2019 | 30553231 | RCT | Cranberry juice decreases disease activity in women with rheumatoid arthritis.
+- new | 2019 | 31117097 | RCT | A Multicenter, Randomized, Placebo-Controlled Study Evaluating the Efficacy of a Combination of Propolis and Cranberry (Vaccinium macrocarpon) (DUAB®) in Preventing Low U
+- new | 2019 | 30932202 | SR | Therapeutic potential of medicinal plants for the management of urinary tract infection: A systematic review.
+- new | 2018 | 30340813 | RCT | Consumption of cranberry functional beverage reduces gingival index and plaque index in patients with gingivitis.
+- new | 2018 | 29716563 | RCT | Standardised high dose versus low dose cranberry Proanthocyanidin extracts for the prevention of recurrent urinary tract infection in healthy women [PACCANN]: a double bl
+- new | 2017 | 28608666 | RCT | [Evaluation of the effects of a natural dietary supplement with cranberry, Noxamicina® and D-mannose in recurrent urinary infections in perimenopausal women].
+- new | 2016 | 26887532 | MA/SR | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies.
+- new | 2016 | 26049866 | RCT | Cranberry fruit powder (Flowens™) improves lower urinary tract symptoms in men: a double-blind, randomized, placebo-controlled study.
+- new | 2016 | 27833172 | RCT | Cranberry intervention in patients with prostate cancer prior to radical prostatectomy. Clinical, pathological and laboratory findings.
+- new | 2016 | 27314247 | RCT | Effect of oral cranberry extract (standardized proanthocyanidin-A) in patients with recurrent UTI by pathogenic E. coli: a randomized placebo-controlled clinical research
+- new | 2015 | 26268913 | RCT | Are High Proanthocyanidins Key to Cranberry Efficacy in the Prevention of Recurrent Urinary Tract Infection?
+- new | 2015 | 26330108 | Clinical Trial | In Vivo Consumption of Cranberry Exerts ex Vivo Antiadhesive Activity against FimH-Dominated Uropathogenic Escherichia coli: A Combined in Vivo, ex Vivo, and in Vitro Stu
+- new | 2015 | 25204992 | RCT | American cranberry (proanthocyanidin 120 mg): its value for the prevention of urinary tracts infections after ureteral catheter placement.
+- new | 2015 | 26411014 | RCT | Comparison of the Anti-Adhesion Activity of Three Different Cranberry Extracts on Uropathogenic P-fimbriated Escherichia coli: a Randomized, Double-blind, Placebo Control
+- new | 2014 | 24916555 | RCT | Consumption of cranberry beverage improved endogenous antioxidant status and protected against bacteria adhesion in healthy humans: a randomized controlled trial.
+- new | 2014 | 24402038 | RCT | Cranberry versus placebo in the prevention of urinary infections in multiple sclerosis: a multicenter, randomized, placebo-controlled, double-blind trial.
+- new | 2011 | 20717876 | Clinical Trial | Isolation and identification of intestinal CYP3A inhibitors from cranberry (Vaccinium macrocarpon) using human intestinal microsomes.
+- new | 2010 | 20646356 | RCT | Inhibitory activity of cranberry extract on the bacterial adhesiveness in the urine of women: an ex-vivo study.
+- new | 2010 | 20804630 | RCT | The effectiveness of dried cranberries ( Vaccinium macrocarpon) in men with lower urinary tract symptoms.
+- new | 2010 | 20398248 | RCT | Dosage effect on uropathogenic Escherichia coli anti-adhesion activity in urine following consumption of cranberry powder standardized for proanthocyanidin content: a mul
+- new | 2008 | 18190583 | RCT | In-vitro and in-vivo evidence of dose-dependent decrease of uropathogenic Escherichia coli virulence after consumption of commercial Vaccinium macrocarpon (cranberry) cap
+- new | 2005 | 16055161 |  | A-type cranberry proanthocyanidins and uropathogenic bacterial anti-adhesion activity.
+
+## vaccinium-myrtillus (Vaccinium myrtillus; Bilberry) - 29 (+CT) hits; query: ("Vaccinium myrtillus"[tiab] OR "Bilberry"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41901190 | RCT | Standardized Berry Extract Improves Selected Visual Function Outcomes in Presbyopia: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial with Exploratory Bioma
+- new | 2025 | 40751398 | MA/SR | Investigating the Effects of Vaccinium myrtillus Supplementation on Cardiometabolic Indices: A Systematic Review and Meta-Analysis.
+- new | 2024 | 39064646 | RCT | Antiaging, Brightening, and Antioxidant Efficacy of Fermented Bilberry Extract (Vaccinium myrtillus): A Randomized, Double-Blind, Placebo-Controlled Trial.
+- new | 2024 | 38612968 | RCT | Extract from Aronia melanocarpa, Lonicera caerulea, and Vaccinium myrtillus Improves near Visual Acuity in People with Presbyopia.
+- new | 2022 | 35385209 | RCT | No Effect of Isolated Anthocyanins from Bilberry Fruit and Black Rice on LDL Cholesterol or other Biomarkers of Cardiovascular Disease in Adults with Elevated Cholesterol
+- new | 2022 | 35028688 | RCT | Comparison of chemometric strategies for potential exposure marker discovery and false-positive reduction in untargeted metabolomics: application to the serum analysis by
+- new | 2021 | 34067538 | SR | Efficacy of Bilberry and Grape Seed Extract Supplement Interventions to Improve Glucose and Cholesterol Metabolism and Blood Pressure in Different Populations-A Systemati
+- new | 2021 | 33599340 | RCT | Impact of short-term bilberry supplementation on glycemic control, cardiovascular disease risk factors, and antioxidant status in Chinese patients with type 2 diabetes.
+- new | 2020 | 32846041 |  | Bilberry Supplementation after Myocardial Infarction Decreases Microvesicles in Blood and Affects Endothelial Vesiculation.
+- new | 2020 | 32106548 | RCT | A 12-Week-Long Intake of Bilberry Extract (Vaccinium myrtillus L.) Improved Objective Findings of Ciliary Muscle Contraction of the Eye: A Randomized, Double-Blind, Place
+- new | 2019 | 31243641 | RCT | Effects of Macuprev(®) Supplementation in Age-Related Macular Degeneration: A Double-Blind Randomized Morpho-Functional Study Along 6 Months of Follow-Up.
+- HELD REF-1593 | 2019 | 30803503 | RCT | Freeze-dried bilberry (Vaccinium myrtillus) dietary supplement improves walking distance and lipids after myocardial infarction: an open-label randomized clinical trial.
+- new | 2018 | 29743826 | RCT | Effect of bilberry juice on indices of muscle damage and inflammation in runners completing a half-marathon: a randomised, placebo-controlled trial.
+- new | 2017 | 28556578 | RCT | Fasting serum hippuric acid is elevated after bilberry (Vaccinium myrtillus) consumption and associates with improvement of fasting glucose levels and insulin secretion i
+- new | 2016 | 27993193 |  | Intake of bilberries (Vaccinium myrtillus L.) reduced risk factors for cardiovascular disease by inducing favorable changes in lipoprotein profiles.
+- new | 2015 | 25923485 | RCT | Bilberry extract supplementation for preventing eye fatigue in video display terminal workers.
+- new | 2014 | 25273141 | Clinical Trial | Practical application of flavonoid-poor menu meals to the study of the bioavailability of bilberry anthocyanins in human subjects.
+- new | 2013 | 23349102 |  | Modulation of Nrf2-dependent gene transcription by bilberry anthocyanins in vivo.
+- new | 2013 | 24080533 | RCT | Protective effect of bilberry extract as a pretreatment on induced oral mucositis in hamsters.
+- new | 2013 | 23113643 | RCT | Effect of fermented bilberry extracts on visual outcomes in eyes with myopia: a prospective, randomized, placebo-controlled study.
+- new | 2013 | 22883440 | Clinical Trial | Bilberry ingestion improves disease activity in mild to moderate ulcerative colitis - an open pilot study.
+- new | 2013 | 23945716 | RCT | Effects of sea buckthorn and bilberry on serum metabolites differ according to baseline metabolic profiles in overweight women: a randomized crossover trial.
+- new | 2012 | 22961907 | RCT | Bilberries reduce low-grade inflammation in individuals with features of metabolic syndrome.
+- new | 2011 | 22199129 | RCT | Effects of dietary supplementation with a combination of fish oil, bilberry extract, and lutein on subjective symptoms of asthenopia in humans.
+- new | 2010 | 20119859 | RCT | Bilberry juice modulates plasma concentration of NF-kappaB related inflammatory markers in subjects at increased risk of CVD.
+- HELD REF-1592 | 2009 | 22435415 | SR | An evidence-based systematic review of bilberry (Vaccinium myrtillus) by the Natural Standard Research Collaboration.
+- HELD REF-0408 | 2004 | 14711439 | SR | Anthocyanosides of Vaccinium myrtillus (bilberry) for night vision--a systematic review of placebo-controlled trials.
+- new | 2000 | 10767671 | Clinical Trial | The effect of bilberry nutritional supplementation on night visual acuity and contrast sensitivity.
+- new | 1965 | 5320417 | Clinical Trial | [Study concerning the action of anthocyanoside extracts of Vaccinium Myrtillus on night vision].
+
+## valeriana-officinalis (Valeriana officinalis; Valerian) - 63 hits; query: ("Valeriana officinalis"[tiab] OR "Valerian"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 40965071 | SR/MA | Effect of Valeriana officinalis on Primary Dysmenorrhea: A Systematic Review and Meta-Analysis.
+- new | 2026 | 41317165 | RCT | Comparison of the Effects of a Melissa officinalis L. and Valerian Combination With Clonidine on Anxiety, Hemodynamic Changes, and Shivering in Knee Replacement Surgery: 
+- new | 2025 | 40462685 | RCT | Effects of a Valerian-Hops Extract Combination (Ze 91019) on Sleep Duration and Daytime Cognitive and Psychological Parameters in Occasional Insomnia: A Randomized Contro
+- HELD REF-1348 | 2024 | 37899385 | RCT | Standardized Extract of Valeriana officinalis Improves Overall Sleep Quality in Human Subjects with Sleep Complaints: A Randomized, Double-Blind, Placebo-Controlled, Clin
+- new | 2024 | 38359657 | SR | Does valerian work for insomnia? An umbrella review of the evidence.
+- new | 2024 | 38743126 | RCT | Effects of Passiflora incarnata and Valeriana officinalis in the control of anxiety due to tooth extraction: a randomized controlled clinical trial.
+- new | 2023 | 37039703 | RCT | Comparison the effect of valerian and gabapentin on RLS and sleep quality in hemodialysis patients: A randomized clinical trial.
+- new | 2022 | 35592415 | SR | Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis.
+- new | 2021 | 33495257 | SR | Effectiveness and safety of oral sedation in adult patients undergoing dental procedures: a systematic review.
+- new | 2021 | 33420602 | RCT | Efficacy of Valerian Extract on Sleep Quality after Coronary Artery bypass Graft Surgery: A Triple-Blind Randomized Controlled Trial.
+- HELD REF-1349 | 2020 | 33086877 | MA/SR | Valerian Root in Treating Sleep Problems and Associated Disorders-A Systematic Review and Meta-Analysis.
+- new | 2019 | 30632220 | RCT | Valerian extract alters functional brain connectivity: A randomized double-blind placebo-controlled trial.
+- new | 2019 | 31158346 | RCT | Assessment of Valeriana officinalis l. (Valerian) for Conscious Sedation of Patients During the Extraction of Impacted Mandibular Third Molars: A Randomized, Split-Mouth,
+- new | 2018 | 30422422 | SR | [Which alternative to benzodiazepines, Z-pills and other hypnotics for aged people ? Melatonin, valerian, or clomethiazole].
+- new | 2018 | 28278010 | RCT | The effect of Valerian on the severity and frequency of hot flashes: A triple-blind randomized clinical trial.
+- new | 2018 | 29433687 | RCT | Effects of a fixed herbal drug combination (Ze 185) to an experimental acute stress setting in healthy men - An explorative randomized placebo-controlled double-blind stu
+- new | 2018 | 30591031 | RCT | Effect of valerian on cognitive disorders and electroencephalography in hemodialysis patients: a randomized, cross over, double-blind clinical trial.
+- HELD REF-1355 | 2017 | 29035887 | RCT | Valeriana officinalis Root Extract Modulates Cortical Excitatory Circuits in Humans.
+- new | 2017 | 28137522 | SR | Herbal medicines in children with attention deficit hyperactivity disorder (ADHD): A systematic review.
+- new | 2017 | 28478716 | RCT | Effect of Valerian in Preventing Neuropsychiatric Adverse Effects of Efavirenz in HIV-Positive Patients: A Pilot Randomized, Placebo-Controlled Clinical Trial.
+- HELD REF-2586 | 2016 | 27000311 | MA/SR | Dietary supplements for dysmenorrhoea.
+- new | 2016 | 27110643 | RCT | Effects of valerian on subjective sedation, field sobriety testing and driving simulator performance.
+- new | 2015 | 25173770 | RCT | Can Valeriana officinalis root extract prevent early postoperative cognitive dysfunction after CABG surgery? A randomized, double-blind, placebo-controlled trial.
+- new | 2013 | 24199972 | RCT | Valerian/lemon balm use for sleep disorders during menopause.
+- new | 2013 | 23543804 | RCT | Efficacy and safety of a polyherbal sedative-hypnotic formulation NSF-3 in primary insomnia in comparison to zolpidem: a randomized controlled trial.
+- new | 2012 | 22391336 | RCT | The effectiveness of valerian acupressure on the sleep of ICU patients: a randomized clinical trial.
+- new | 2011 | 21959068 | RCT | Effects of valerian on the severity and systemic manifestations of dysmenorrhea.
+- new | 2011 | 21775910 | RCT | Effect of valerian on sleep quality in postmenopausal women: a randomized placebo-controlled clinical trial.
+- new | 2011 | 21399726 | RCT | The use of Valeriana officinalis (Valerian) in improving sleep in patients who are undergoing treatment for cancer: a phase III randomized, placebo-controlled, double-bli
+- new | 2011 | 22718671 | RCT | Extract of valerian root (Valeriana officinalis L.) vs. placebo in treatment of obsessive-compulsive disorder: a randomized double-blind study.
+- new | 2010 | 20347389 | MA | Effectiveness of Valerian on insomnia: a meta-analysis of randomized placebo-controlled trials.
+- new | 2010 | 21308265 | MA/Review | [Medicinal plants for the treatment of generalized anxiety disorder: a review of controlled clinical studies].
+- new | 2009 | 19114414 | RCT | A feasibility study of valerian extract for sleep disturbance in person with arthritis.
+- new | 2009 | 19284179 | RCT | Does valerian improve sleepiness and symptom severity in people with restless legs syndrome?
+- new | 2009 | 18482867 | RCT | A randomized clinical trial of valerian fails to improve self-reported, polysomnographic, and actigraphic sleep in older women with insomnia.
+- new | 2008 | 18559301 | RCT | Sleep improving effects of a single dose administration of a valerian/hops fluid extract - a double blind, randomized, placebo-controlled sleep-EEG study in a parallel de
+- new | 2007 | 17940604 | RCT | A televised, web-based randomised trial of an herbal remedy (valerian) for insomnia.
+- new | 2007 | 17517355 | SR | A systematic review of valerian as a sleep aid: safe but not effective.
+- HELD REF-2451 | 2007 | 17486686 | RCT | A randomized, double blind, placebo-controlled, prospective clinical study to demonstrate clinical efficacy of a fixed valerian hops extract combination (Ze 91019) in pat
+- HELD REF-0025 | 2006 | 17145239 | MA/SR | Valerian for sleep: a systematic review and meta-analysis.
+- new | 2006 | 17054208 | SR | Valerian for anxiety disorders.
+- new | 2006 | 16444660 | RCT | Anxiolytic effects of a combination of Melissa officinalis and Valeriana officinalis during laboratory induced stress.
+- new | 2005 | 16335333 | RCT | Valerian-hops combination and diphenhydramine for treating insomnia: a randomized placebo-controlled clinical trial.
+- HELD REF-1356 | 2005 | 16010204 | Clinical Trial/RCT | An internet-based randomized, placebo-controlled trial of kava and valerian for anxiety and insomnia.
+- new | 2005 | 16008115 | Clinical Trial/RCT | A phase I clinical study of Andrographis paniculata fixed combination Kan Jang versus ginseng and valerian on the semen quality of healthy male subjects.
+- HELD REF-2503 | 2005 | 15900287 | Clinical Trial/RCT | In vivo effects of goldenseal, kava kava, black cohosh, and valerian on human cytochrome P450 1A2, 2D6, 2E1, and 3A4/5 phenotypes.
+- new | 2004 | 15254851 | Clinical Trial/RCT | The fixed combination of valerian and hops (Ze91019) acts via a central adenosine mechanism.
+- new | 2004 | 15159134 | Clinical Trial/RCT | Assessing subjective and psychomotor effects of the herbal medication valerian in healthy volunteers.
+- new | 2004 | 15551388 | Clinical Trial/RCT | A double-blind, placebo-controlled investigation of the effects of two doses of a valerian preparation on the sleep, cognitive and psychomotor function of sleep-disturbed
+- new | 2003 | 15022653 | Clinical Trial/RCT | Valerian does not appear to reduce symptoms for patients with chronic insomnia in general practice using a series of randomised n-of-1 trials.
+- new | 2003 | 12826988 | Clinical Trial/RCT | Acute pharmacological effects of temazepam, diphenhydramine, and valerian in healthy elderly subjects.
+- new | 2002 | 11999905 | Clinical Trial/RCT | Can valerian improve the sleep of insomniacs after benzodiazepine withdrawal?
+- new | 2002 | 12410546 | Clinical Trial/RCT | Effect of valepotriates (valerian extract) in generalized anxiety disorder: a randomized placebo-controlled pilot study.
+- HELD REF-0091 | 2002 | 12120807 | Clinical Trial/RCT | Effect of valerian, Valeriana edulis, on sleep difficulties in children with intellectual deficits: randomised trial.
+- new | 2002 | 12568976 | Clinical Trial/RCT | Efficacy and tolerability of valerian extract LI 156 compared with oxazepam in the treatment of non-organic insomnia--a randomized, double-blind, comparative clinical stu
+- new | 2001 | 11731907 | Clinical Trial/RCT | Polysomnographic evaluation of the hypnotic effect of Valeriana edulis standardized extract in patients suffering from insomnia.
+- new | 2000 | 10761819 | Clinical Trial/RCT | Critical evaluation of the effect of valerian extract on sleep structure and sleep quality.
+- new | 1999 | 10641953 | MA | Herbal medications for common ailments in the elderly.
+- new | 1999 | 10599933 | Clinical Trial/RCT | The influence of valerian treatment on "reaction time, alertness and concentration" in volunteers.
+- new | 1994 | 7972346 | Clinical Trial/RCT | The effect of valerian extract on sleep polygraphy in poor sleepers: a pilot study.
+- new | 1988 | 3244789 | Clinical Trial/RCT | The effects of valerian, propranolol, and their combination on activation, performance, and mood of healthy volunteers under social stress conditions.
+- new | 1985 | 3936097 | Clinical Trial/RCT | Effect of valerian on human sleep.
+- new | 1982 | 7122669 | Clinical Trial/RCT | Aqueous extract of valerian root (Valeriana officinalis L.) improves sleep quality in man.
+
+## verbascum-densiflorum (Verbascum densiflorum; Dense-flowered Mullein) - 0 (+CT) hits; query: ("Verbascum densiflorum"[tiab] OR "Dense-flowered Mullein"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## verbascum-thapsus (Verbascum thapsus; Great Mullein) - 3 (+CT) hits; query: ("Verbascum thapsus"[tiab] OR "Great Mullein"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- HELD REF-1131 | 2021 | 34103042 | RCT | The effect of the Verbascum Thapsus on episiotomy wound healing in nulliparous women: a randomized controlled trial.
+- new | 2003 | 12728112 | Clinical Trial/RCT | Naturopathic treatment for ear pain in children.
+- new | 2001 | 11434846 | Clinical Trial/RCT | Efficacy of naturopathic extracts in the management of ear pain associated with acute otitis media.
+
+## verbena-officinalis (Verbena officinalis; Vervain) - 2 (+CT) hits; query: ("Verbena officinalis"[tiab] OR "Vervain"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2016 | 26824082 | RCT | Short-term effects of Verbena officinalis Linn decoction on patients suffering from chronic generalized gingivitis: Double-blind randomized controlled multicenter clinica
+- new | 1999 | 10999016 | Clinical Trial | Inhibition of non-haem iron absorption in man by polyphenolic-containing beverages.

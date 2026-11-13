@@ -138,7 +138,9 @@ actions:
   status: verified
 indications:
 - condition: depression
-  note: Psilocybin-assisted therapy reduced depression in clinical trials
+  note: Psilocybin, the mushroom's active compound, given with psychological support reduced depression
+    in randomized trials and meta-analyses (compound evidence; purified psilocybin in supervised settings,
+    not the raw mushroom)
   reference_ids:
   - REF-0040
   - REF-0099
@@ -149,7 +151,8 @@ indications:
   - REF-2585
   status: verified
 - condition: anxiety
-  note: Reduced anxiety in clinical and preclinical studies
+  note: Psilocybin reduced anxiety in people with life-threatening cancer in a randomized trial (compound
+    evidence); mushroom extracts reduced anxiety-like behaviour in rodents (preclinical)
   reference_ids:
   - REF-0099
   - REF-1520
@@ -239,4 +242,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   that was missed in the earlier batch-25 edit (caught by the worklist re-check gotcha). | 2026-08-15:
   Harvest Calendar (phenological) - added harvest_readiness for fruiting-body (provisional: Azarius REF-3321;
   harvest as the partial veil under the cap tears, before spores drop). SAFETY: deadly Galerina marginata
-  lookalike. Binomial confirmed.'
+  lookalike. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit. Depression/anxiety evidence
+  is purified psilocybin (the signature compound) - notes now label it as compound evidence (inv.
+  10).'

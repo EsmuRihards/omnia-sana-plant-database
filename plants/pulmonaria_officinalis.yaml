@@ -127,44 +127,31 @@ actions:
 - action: demulcent
   note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
     (mucilage and saponins)
-  reference_ids:
-  - REF-0479
+  reference_ids: []
   status: needs-review
 - action: expectorant
   note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
     (mucilage and saponins)
-  reference_ids:
-  - REF-0479
+  reference_ids: []
   status: needs-review
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0479
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0629
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Lungwort extract inhibited the inflammatory enzyme COX-2 and oxidative stress in the lab (preclinical)
   reference_ids:
   - REF-0479
-  - REF-0629
   status: needs-review
 - condition: respiratory-support
-  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
-    (mucilage and saponins)
+  note: Lungwort extract was active against Staphylococcus aureus from cystic fibrosis patients in lab
+    tests (preclinical)
   reference_ids:
   - REF-1546
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0479
-- condition: skin-irritation
-  note: inferred from demulcent action
-  reference_ids:
-  - REF-0479
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0629
 contraindications:
 - note: As a member of the borage family (Boraginaceae), which can contain hepatotoxic pyrrolizidine alkaloids,
     prolonged or high-dose internal use is best avoided; use in pregnancy and breastfeeding is not recommended.
@@ -209,4 +196,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study
   monograph-base fields, sourced from the existing antioxidant/COX-2 study (REF-0479) and the spring/autumn
   phenolic-profiling study (REF-0549). | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for aerial-parts (provisional: PFAF REF-3320, flowering herb gathered in spring). Single
-  lineage. Binomial confirmed.'
+  lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit. REF-0479 is an in vitro
+  COX-2/peroxynitrite study (retagged preclinical, was traditional) - removed from the demulcent
+  and expectorant actions and from skin-irritation (dropped: no source names skin). Grieve''s
+  "Lungwort" entry is the lichen Sticta pulmonaria, not this plant - not used. Gap: the
+  traditional respiratory use has no checkable source here.'

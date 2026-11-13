@@ -95,7 +95,6 @@ dosage:
     only, not a prescription - use only small, occasional amounts of properly identified leaf.
   reference_ids:
   - REF-0053
-  - REF-0098
   - REF-0237
   status: verified
 constituents:
@@ -123,7 +122,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0053
-  - REF-0098
   - REF-0880
   - REF-0882
   - REF-0889
@@ -131,58 +129,40 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0053
-  - REF-0098
   - REF-0882
   status: verified
 - action: diuretic
-  reference_ids:
-  - REF-0053
-  - REF-0098
-  status: verified
+  reference_ids: []
+  status: needs-review
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for rheumatism (review of traditional use); its essential oil affected inflammatory
+    cells from rheumatoid arthritis joints in the lab (preclinical)
   reference_ids:
   - REF-0053
-  - REF-0098
   - REF-0880
   - REF-0889
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory activity of its essential oil reported in lab and animal studies (review)
   reference_ids:
   - REF-0053
-  - REF-0098
   status: needs-review
 - condition: respiratory-support
   reference_ids:
   - REF-0053
-  - REF-0098
   status: verified
+  note: Traditionally used for cough and colds (review of traditional use)
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditionally used for insect bites (review of traditional use)
   reference_ids:
   - REF-0053
-  - REF-0098
   status: needs-review
 - condition: swelling
-  note: inferred from diuretic action
+  note: Its essential oil reduced inflammatory swelling in animals about as well as standard anti-inflammatory
+    drugs (preclinical)
   reference_ids:
-  - REF-0053
-  - REF-0098
   - REF-0889
-  status: needs-review
-- condition: urinary-support
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0053
-  - REF-0098
-  status: needs-review
-- condition: uti
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0053
-  - REF-0098
   status: needs-review
 contraindications:
 - note: Labrador tea contains ledol, a toxic sesquiterpene alcohol, particularly concentrated in fresh
@@ -192,7 +172,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0053
-  - REF-0098
   - REF-0237
   status: verified
 - note: Duke (2002) rates Labrador tea as + (caution warranted) and notes primarily folkloric activities,
@@ -204,7 +183,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0053
-  - REF-0098
   - REF-0237
   - REF-0063
   status: verified
@@ -270,4 +248,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   young flowering shoots gathered at flowering, April-June). SAFETY: TOXIC (ledol/grayanotoxin) + Andromeda
   polifolia lookalike. Binomial confirmed via synonymy.
   | 2026-11-10: symptom-source audit batch 3 - REF-0881 purged: homeopathic (Arnica 50M / Ledum
-  50M pads) - not evidence for the plant (owner rule 2026-11-10).'
+  50M pads) - not evidence for the plant (owner rule 2026-11-10).
+  | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit. Grieve REF-0098 purged: its
+  Labrador Tea entry is Ledum latifolium and gives L. palustre no medicinal use (narcotic; used to
+  strengthen beer). Dampc 2013 review REF-0053 (PMID 23352748, retagged narrative-review) names
+  rheumatism, cough, cold and insect bites - removed from swelling, urinary-support and uti and
+  from the diuretic action; urinary-support and uti dropped (no source names them).'

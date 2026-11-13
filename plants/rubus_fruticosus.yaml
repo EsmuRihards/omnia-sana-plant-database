@@ -17,15 +17,13 @@ constituents:
   note: The astringent principles of the leaf.
   reference_ids:
   - REF-2549
-  - REF-0418
 - name: Flavonoids and phenolic acids (including gallic acid)
   compounds:
   - phenolic-acid
   - gallic-acid
   - flavonoid
   note: Antioxidant and antibacterial constituents.
-  reference_ids:
-  - REF-0418
+  reference_ids: []
 - name: Vitamin C and minerals (iron)
   note: Minor nutritive constituents of the leaf.
   reference_ids:
@@ -119,17 +117,15 @@ actions:
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
   - REF-2549
-  - REF-0418
+  - REF-3726
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0418
   - REF-2549
   - REF-2550
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0418
   - REF-2548
   - REF-2549
   - REF-2550
@@ -138,62 +134,62 @@ actions:
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
   - REF-2549
-  - REF-0418
+  - REF-3726
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-2549
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2548
+  - REF-2549
 - condition: cancer
-  note: inferred from anticancer action
+  note: Blackberry fruit extract slowed cancer cells in the lab (preclinical)
   reference_ids:
   - REF-2550
   status: needs-review
 - condition: diarrhea
-  note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
+  note: Traditional astringent remedy for diarrhoea and dysentery (Grieve, A Modern Herbal; review)
   reference_ids:
   - REF-2549
+  - REF-3726
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0418
 - condition: infection
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0418
+  note: Blackberry is used as an antimicrobial in traditional medicine (review); fruit extracts were antimicrobial
+    in the lab (preclinical)
+  reference_ids: []
   status: needs-review
 - condition: inflammation
-  note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
-  reference_ids:
+  note: Blackberry fruit and leaf extracts reduced inflammatory signals in lab and animal studies (preclinical)
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-2549
-  status: verified
 - condition: oral-health
-  note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
+  note: Historically used for soreness of the mouth and throat (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-2549
+  - REF-3726
   status: verified
 - condition: skin-irritation
   note: inferred from astringent action
-  reference_ids:
-  - REF-2549
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0418
   - REF-2548
-- condition: sore-throat
-  note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
-  reference_ids:
   - REF-2549
+- condition: sore-throat
+  note: Historically used for soreness of the mouth and throat (Grieve, A Modern Herbal)
+  reference_ids:
+  - REF-3726
   status: verified
 - condition: wounds
-  note: inferred from astringent action
+  note: Leaves were traditionally applied to burns and scalds (Grieve, A Modern Herbal); blackberry polyphenols
+    aided wound healing in lab studies (preclinical)
   reference_ids:
   - REF-2549
-  - REF-0418
   - REF-2551
+  - REF-3726
   status: needs-review
 contraindications:
 - note: 'Tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce
@@ -234,4 +230,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pha
   anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
   plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for leaf (provisional: PFAF REF-3324, young leaves gathered in
-  spring). Single lineage. Binomial confirmed.'
+  spring). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit (2nd pass + deep). Verma
+  2014 review REF-2549 (retagged narrative-review) names antidiarrhoeal, antidysentery,
+  antimicrobial uses only - removed from arthritis, inflammation, oral-health, skin-irritation and
+  sore-throat. Honey-with-Rubus study REF-0418 purged and deleted (mixture). Grieve REF-3726
+  (diarrhoea, dysentery, astringent; mouth and throat soreness; leaves for burns) added.'

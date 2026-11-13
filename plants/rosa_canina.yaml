@@ -161,31 +161,32 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: Two placebo-controlled crossover RCTs of standardised rosehip powder (5 g/day) report reduced
-    WOMAC pain and reduced rescue-medication use in knee/hip osteoarthritis, consistent with the existing
-    meta-analysis.
+  note: Standardised rose hip powder reduced osteoarthritis pain and painkiller use in placebo-controlled
+    trials and a meta-analysis, and helped rheumatoid arthritis as an add-on in a randomized trial
   reference_ids:
   - REF-0051
   - REF-0989
   - REF-0990
   - REF-3106
   - REF-3107
+  - REF-3734
   status: verified
 - condition: cancer
-  note: inferred from anticancer action
+  note: Rose hip polyphenols slowed human cancer cells in the lab (preclinical)
   reference_ids:
   - REF-0992
   status: needs-review
 - condition: cognitive-function
   note: Animal evidence only. In high-fat-diet/streptozotocin diabetic rats, R. canina ethanol extract
     (250 mg/kg) improved recall and long-term memory and reduced hippocampal insulin resistance, amyloid-beta
-    and acetylcholinesterase activity. No human data; the effect is reported in a diabetes model, not in
-    healthy or cognitively impaired people.
+    and acetylcholinesterase activity. No human data; the effect is reported in a diabetes model, not
+    in healthy or cognitively impaired people.
   reference_ids:
   - REF-3111
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Rose hip reduced osteoarthritis symptoms in trials, and its compounds are anti-inflammatory in
+    the lab (systematic reviews; preclinical)
   reference_ids:
   - REF-0051
   - REF-0990
@@ -197,6 +198,8 @@ indications:
   - REF-0994
   - REF-3111
   status: verified
+  note: Rose hip flesh and extracts reduced fat build-up and improved blood sugar in animal studies (preclinical);
+    seed lipid-lowering effects reviewed (systematic review)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -207,9 +210,9 @@ indications:
   - REF-0990
 - condition: uti
   note: One triple-blind placebo-controlled RCT (n=400) found that 500 mg R. canina fruit capsules twice
-    daily for 20 days after caesarean section reduced the incidence of urinary tract infection. The
-    incidence of cystitis specifically did not differ significantly between groups. Prevention in a
-    post-surgical population; not evidence for treating an established UTI.
+    daily for 20 days after caesarean section reduced the incidence of urinary tract infection. The incidence
+    of cystitis specifically did not differ significantly between groups. Prevention in a post-surgical
+    population; not evidence for treating an established UTI.
   reference_ids:
   - REF-3105
   status: verified
@@ -302,4 +305,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Christensen 2008 meta-analysis = REF-0989, plus the Gruenwald 2019 SR and the antiobesity mouse study. |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit (hips in autumn, softened
   by frost) + seed (Oct-Dec), both provisional: PFAF REF-3322; petals deferred. Single lineage. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit. RA add-on RCT REF-3734
+  added to arthritis. Notes rewritten.'

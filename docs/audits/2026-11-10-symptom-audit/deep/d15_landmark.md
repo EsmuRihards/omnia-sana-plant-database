@@ -1,0 +1,337 @@
+# Landmark search batch 15
+
+## rubus-idaeus (Rubus idaeus; Raspberry Leaf) - 9 (+CT) hits; query: ("Rubus idaeus"[tiab] OR "Raspberry Leaf"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40944237 | RCT | Effects of Raspberry Leaf Tea Polyphenols on Postprandial Glucose and Insulin Responses in Healthy Adults.
+- HELD REF-0498 | 2022 | 35188267 | RCT | Survey of Raspberry Leaf Tea in pregnancy.
+- HELD REF-1538 | 2022 | 35799169 | RCT | Rubus idaeus extract improves symptoms in knee osteoarthritis patients: results from a phase II double-blind randomized controlled trial.
+- new | 2021 | 33563275 | SR | Biophysical effects, safety and efficacy of raspberry leaf use in pregnancy: a systematic integrative review.
+- HELD REF-1539 | 2020 | 31975502 | RCT | Anti-aging and brightening effects of a topical treatment containing vitamin C, vitamin E, and raspberry leaf cell culture extract: A split-face, randomized controlled tr
+- new | 2020 | 33080934 | RCT | Plasma and Urinary (Poly)phenolic Profiles after 4-Week Red Raspberry (Rubus idaeus L.) Intake with or without Fructo-Oligosaccharide Supplementation.
+- new | 2008 | 18321745 | Clinical Trial/RCT | Effect of topical application of raspberry ketone on dermal production of insulin-like growth factor-I in mice and on hair growth and skin elasticity in humans.
+- HELD REF-0607 | 2001 | 11370690 | Clinical Trial/RCT | Raspberry leaf in pregnancy: its safety and efficacy in labor.
+- new | 2000 | 12026546 | Clinical Trial | Labour and the raspberry leaf herb.
+
+## rumex-acetosa (Rumex acetosa; Common Sorrel) - 1 (+CT) hits; query: ("Rumex acetosa"[tiab] OR "Common Sorrel"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- HELD REF-0894 | 2023 | 34953469 | RCT | Microbiological and Clinical Effects of a Proanthocyanidin-enriched Extract from Rumex acetosa in Periodontally Healthy Carriers of Porphyromonas gingivalis: a Randomized
+
+## ruscus-aculeatus (Ruscus aculeatus; Butcher's Broom) - 13 (+CT) hits; query: ("Ruscus aculeatus"[tiab] OR "Butcher's Broom"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2011 | 21617611 | Clinical Trial | Correlation between improvement in functional signs and plethysmographic parameters during venoactive treatment (Cyclo 3 Fort).
+- new | 2010 | 21173734 | Clinical Trial | Quality of life improvement in Latin American patients suffering from chronic venous disorder using a combination of Ruscus aculeatus and hesperidin methyl-chalcone and a
+- new | 2009 | 19620698 | Clinical Trial | Assessment of quality of life in Mexican patients suffering from chronic venous disorder - impact of oral Ruscus aculeatus-hesperidin-methyl-chalcone-ascorbic acid treatm
+- new | 2009 | 20109380 |  | [Multicentric study on a topical compound with lymph-draining action in the treatment of the phlebostatic ulcer of the inferior limbs].
+- new | 2009 | 19506542 | Clinical Trial | Changes on venous diameter and leg perimeter with different clinical treatments for moderate chronic venous disease: evaluation using Duplex scanning and perimeter measur
+- new | 2008 | 18423497 | Clinical Trial | Use of microcirculatory parameters to evaluate clinical treatments of chronic venous disorder (CVD).
+- new | 2003 | 12900723 | Clinical Trial | [Chronic venous insufficiency: an open trial of FLEBS Crema].
+- new | 2003 | 14612852 | MA | Meta-analysis of clinical trials of Cyclo 3 Fort in the treatment of chronic venous insufficiency.
+- HELD REF-1554 | 2002 | 12040966 | Clinical Trial/RCT | Efficacy and safety of a Butcher's broom preparation (Ruscus aculeatus L. extract) compared to placebo in patients suffering from chronic venous insufficiency.
+- new | 2000 | 10917578 | Clinical Trial/RCT | An open-label, randomized multicenter study comparing the efficacy and safety of Cyclo 3 Fort versus hydroxyethyl rutoside in chronic venous lymphatic insufficiency.
+- new | 1999 | 10811525 | Clinical Trial/RCT | An open-label, randomised multicentre study comparing the efficacy and safety of CYCLO 3 FORT versus hydroxyethyl rutoside in chronic venous lymphatic insufficiency.
+- new | 1988 | 3048951 | Clinical Trial | Use of extract of Ruscus aculeatus in venous disease in the lower limbs.
+- new | 1987 | 3554800 | Clinical Trial/RCT | [Controlled study of increasing venous tone in primary varicose veins by oral administration of Ruscus aculeatus and trimethylhespiridinchalcone].
+
+## salix-alba (Salix alba; Willow Bark) - 19 (+CT) hits; query: ("Salix alba"[tiab] OR "Willow Bark"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2022 | 34766630 | MA | Should I GROW or should I SLOW: A meta-analysis of fast-growing tree-species grown in cadmium perturbed environment.
+- new | 2019 | 30690691 | RCT | Anti-Inflammatory Effect of a Novel Topical Herbal Composition (VEL-091604) Consisting of Gentian Root, Licorice Root and Willow Bark Extract.
+- new | 2016 | 26630428 | SR | Herbal Medicine for Low Back Pain: A Cochrane Review.
+- HELD REF-1261 | 2014 | 25536022 | MA/SR | Herbal medicine for low-back pain.
+- new | 2013 | 24237191 | RCT | An in vivo study examining the antiinflammatory effects of chamomile, meadowsweet, and willow bark in a novel functional beverage.
+- new | 2013 | 23731658 | Clinical Trial | Willow bark extract STW 33-I in the long-term treatment of outpatients with rheumatic pain mainly osteoarthritis or back pain.
+- HELD REF-0529 | 2009 | 19140170 | SR | A systematic review on the effectiveness of willow bark for musculoskeletal pain.
+- new | 2008 | 18815018 |  | Willow bark extract (Salicis cortex) for gonarthrosis and coxarthrosis--results of a cohort study with a control group.
+- new | 2007 | 17202897 | SR | Herbal medicine for low back pain: a Cochrane review.
+- HELD REF-1260 | 2006 | 16625605 | MA/SR | Herbal medicine for low back pain.
+- new | 2006 | 17163262 | Clinical Trial/MA | Tanacetum parthenium and Salix alba (Mig-RL) combination in migraine prophylaxis: a prospective, open-label study.
+- new | 2004 | 15517622 | Clinical Trial/RCT | Efficacy and safety of willow bark extract in the treatment of osteoarthritis and rheumatoid arthritis: results of 2 randomized double-blind controlled trials.
+- new | 2002 | 11921642 | Clinical Trial/RCT | [Clinical trial of willow bark extract. We have by no means compared apples and pears].
+- new | 2001 | 11515713 | Clinical Trial | Potential economic impact of using a proprietary willow bark extract in outpatient treatment of low back pain: an open non-randomized study.
+- new | 2001 | 11599656 | Clinical Trial | Pharmacokinetics of salicin after oral administration of a standardised willow bark extract.
+- new | 2001 | 11406860 | Clinical Trial/RCT | Efficacy and tolerability of a standardized willow bark extract in patients with osteoarthritis: randomized placebo-controlled, double blind clinical trial.
+- new | 2001 | 11752510 | Clinical Trial/RCT | Treatment of low back pain with a herbal or synthetic anti-rheumatic: a randomized controlled study. Willow bark extract for low back pain.
+- HELD REF-0592 | 2000 | 10936472 | Clinical Trial/RCT | Treatment of low back pain exacerbations with willow bark extract: a randomized double-blind study.
+- new | 2000 | 11142926 | Clinical Trial/RCT | [Effectiveness and tolerance of standardized willow bark extract in arthrosis patients. Randomized, placebo controlled double-blind study].
+
+## salvia-hispanica (Salvia hispanica; Chia) - 25 (+CT) hits; query: ("Salvia hispanica"[tiab]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42480309 | SR | Seed-derived mucilage polysaccharides as biomaterials for in vivo tissue regeneration: A systematic review.
+- new | 2025 | 41076614 | MA/SR | A Critical Review of the Health Benefits Associated with Chia Seeds (Salvia Hispanica L.).
+- new | 2025 | 39672763 | SR/MA | The Effects of Chia Seed (Salvia hispanica L.) Consumption on Blood Pressure and Body Composition in Adults: A Systematic Review and Meta-analysis of Randomized Controlle
+- new | 2024 | 39299654 | MA/SR | Effects of chia (Salvia hispanica. L) on anthropometric measures and other cardiometabolic risk factors: A systematic review and dose-response meta-analysis.
+- new | 2024 | 39273592 | SR | Peptides Evaluated In Silico, In Vitro, and In Vivo as Therapeutic Tools for Obesity: A Systematic Review.
+- new | 2024 | 38747274 | RCT | Effect of Salvia hispanica (Chia seeds) and Foeniculum vulgare (Fennel seeds) against weight-loss and lipid profile in obese human subjects.
+- new | 2023 | 35604811 | RCT | Chia Flour (Salvia hispanica L.) Intake Does Not Affect Weight Loss and Lipid Profile but Improve Systolic Blood Pressure Control in Obesity.
+- HELD REF-1265 | 2021 | 34378609 | MA/SR | Chia seed (Salvia hispanica L.) consumption and lipid profile: a systematic review and meta-analysis.
+- new | 2021 | 33530854 | RCT | Chia seed (Salvia hispanica L.) supplementation to the diet of adults with type 2 diabetes improved systolic blood pressure: A randomized controlled trial.
+- new | 2020 | 32430018 | Clinical Trial | Chia (Salvia hispanica)-supplemented diet ameliorates non-alcoholic fatty liver disease and its metabolic abnormalities in humans.
+- HELD REF-1264 | 2020 | 31972052 | SR | Chia seed (Salvia hispanica L.) effects and their molecular mechanisms on unbalanced diet experimental studies: A systematic review.
+- new | 2020 | 31928474 | RCT | Assessing the Metabolic Impact of Ground Chia Seed in Overweight and Obese Prepubescent Children: Results of a Double-Blind Randomized Clinical Trial.
+- new | 2019 | 31086922 | SR | Chia seeds: an ancient grain trending in modern human diets.
+- HELD REF-1267 | 2018 | 29452425 | MA/SR | Clinical evidence on dietary supplementation with chia seed (Salvia hispanica L.): a systematic review and meta-analysis.
+- new | 2017 | 28089080 | RCT | Salba-chia (Salvia hispanica L.) in the treatment of overweight and obese patients with type 2 diabetes: A double-blind randomized controlled trial.
+- new | 2017 | 28000689 | RCT | Comparison of flax (Linum usitatissimum) and Salba-chia (Salvia hispanica L.) seeds on postprandial glycemia and satiety in healthy individuals: a randomized, controlled,
+- HELD REF-1268 | 2015 | 26545644 | SR | EFFECT OF CHIA SEED (SALVIA HISPANICA L.) CONSUMPTION ON CARDIOVASCULAR RISK FACTORS IN HUMANS: A SYSTEMATIC REVIEW.
+- new | 2015 | 26247968 | RCT | Modification of Docosahexaenoic Acid Composition of Milk from Nursing Women Who Received Alpha Linolenic Acid from Chia Oil during Gestation and Nursing.
+- new | 2014 | 25403867 | RCT | Chia flour supplementation reduces blood pressure in hypertensive subjects.
+- new | 2014 | 25726210 | RCT | Chia induces clinically discrete weight loss and improves lipid profile only in altered previous values.
+- new | 2013 | 23778782 | RCT | Effect of whole and ground Salba seeds (Salvia Hispanica L.) on postprandial glycemia in healthy volunteers: a randomized controlled, dose-response trial.
+- HELD REF-0297 | 2010 | 20087375 | RCT | Reduction in postprandial glucose excursion and prolongation of satiety: possible explanation of the long-term effects of whole grain Salba (Salvia Hispanica L.).
+- new | 2009 | 20028328 | SR | Chia (Salvia hispanica): a systematic review by the natural standard research collaboration.
+- new | 2009 | 19628108 | RCT | Chia seed does not promote weight loss or alter disease risk factors in overweight adults.
+- new | 2007 | 17686832 | RCT | Supplementation of conventional therapy with the novel grain Salba (Salvia hispanica L.) improves major and emerging cardiovascular risk factors in type 2 diabetes: resul
+
+## salvia-officinalis (Salvia officinalis; Sage) - 39 (+CT) hits; query: ("Salvia officinalis"[tiab]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42542970 | SR | Treatment of Hot Flashes in Men With Prostate Cancer Undergoing Androgen Deprivation Therapy.
+- new | 2026 | 42308000 | SR/Review | Nonpharmacologic Therapy for Pediatric Posttonsillectomy Pain: A Systematic Review.
+- new | 2026 | 43005205 | SR | Natural products mitigate pyrethroid-induced male reproductive toxicity: a systematic review.
+- new | 2026 | 41257434 | SR | Shrubs and trees as natural insect protection for grazing animals in Switzerland and the alpine region: A systematic review of in vitro, in vivo and clinical trials.
+- new | 2025 | 40141012 | RCT | Exploring the therapeutic impact of Salvia officinalis on lipid and oxidative stress markers in patients with polycystic ovary syndrome - a randomized placebo-controlled 
+- HELD REF-3655 | 2025 | 40526027 | SR | Herbal Medicine for Treating Herpes Labialis: A Systematic Review.
+- new | 2025 | 41373414 | SR | Crude Plant Extracts and Their Anti-Inflammatory Potential in Oral Inflammatory Cell Models: A Systematic Review of In Vitro Studies.
+- new | 2024 | 38538551 | SR | Antimicrobial activity of essential oils against biofilms formed in dental acrylic resin: a systematic review of in vitro studies.
+- new | 2023 | 37489230 | MA/SR | The Effect of Salvia Officinalis on Hot Flashes in Postmenopausal Women: A Systematic Review and Meta-Analysis.
+- new | 2023 | 35960461 | SR | Natural remedies for Alzheimer's disease: A systematic review of randomized controlled trials.
+- new | 2023 | 37612717 | RCT | Effect of Salvia officinalis scent on postmenopausal women's sexual function and satisfaction: a randomized controlled trial.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2021 | 33466627 | RCT | The Acute and Chronic Cognitive Effects of a Sage Extract: A Randomized, Placebo Controlled Study in Healthy Humans.
+- new | 2021 | 33586003 | RCT | A mouth rinse based on a tea solution of Salvia officinalis for oral discomfort in palliative cancer care: a randomized controlled trial.
+- new | 2020 | 31987228 | RCT | Efficacy of Salvia officinalis extract on the prevention of insulin resistance in euglycemic patients with polycystic ovary syndrome: A double-blinded placebo-controlled 
+- new | 2019 | 31133058 | SR | Medicinal plants as therapeutic options for topical treatment in canine dermatology? A systematic review.
+- new | 2019 | 30572339 | RCT | [Salvia officinalis Reduces the Severity of the Premenstrual Syndrome].
+- new | 2019 | 30663184 | RCT | Comparing the effectiveness of Salvia officinalis, clotrimazole and their combination on vulvovaginal candidiasis: A randomized, controlled clinical trial.
+- new | 2018 | 29433682 | RCT | A randomised double-blind placebo-controlled pilot trial of a combined extract of sage, rosemary and melissa, traditional herbal medicines, on the enhancement of memory i
+- new | 2016 | 27268043 | SR | Medicinal plants--prophylactic and therapeutic options for gastrointestinal and respiratory diseases in calves and piglets? A systematic review.
+- new | 2015 | 26812815 | RCT | Effects of dietary supplementation with sage (Salvia officinalis L.) essential oil on antioxidant status and duodenal wall integrity of laying strain growers.
+- new | 2015 | 25431274 | Clinical Trial | Growth performance and antioxidant enzyme activities in rainbow trout (Oncorhynchus mykiss) juveniles fed diets supplemented with sage, mint and thyme oils.
+- HELD REF-0502 | 2014 | 24836739 | SR | Systematic review of clinical trials assessing pharmacological properties of Salvia species on memory, cognitive impairment and Alzheimer's disease.
+- new | 2013 | 24050577 | RCT | Improved glycemic control and lipid profile in hyperlipidemic type 2 diabetic patients consuming Salvia officinalis L. leaf extract: a randomized placebo. Controlled clin
+- new | 2012 | 21630361 | Clinical Trial | Evaluation of the efficacy and safety of Salvia officinalis in controlling hot flashes in prostate cancer patients treated with androgen deprivation.
+- new | 2012 | 22587934 | RCT | The effects of sage extract feed supplementation on biochemical parameters, weight of internal organs and Salmonella counts in chickens.
+- new | 2011 | 21630133 | Clinical Trial | First time proof of sage's tolerability and efficacy in menopausal women with hot flushes.
+- new | 2011 | 21506190 | RCT | Antihyperlipidemic effects of Salvia officinalis L. leaf extract in patients with hyperlipidemia: a randomized double-blind placebo-controlled clinical trial.
+- new | 2011 | 20937617 | RCT | Monoterpenoid extract of sage (Salvia lavandulaefolia) with cholinesterase inhibiting properties improves cognitive performance and mood in healthy adults.
+- new | 2010 | 20589925 | RCT | Differential effects of the aromas of Salvia species on memory and mood.
+- new | 2009 | 19865527 | Clinical Trial | Sage tea drinking improves lipid profile and antioxidant defences in humans.
+- new | 2008 | 18350281 | RCT | An extract of Salvia (sage) with anticholinesterase properties improves memory and attention in healthy older volunteers.
+- new | 2008 | 18854801 | RCT | SOPHY project: an observational study of vaginal pH, lifestyle and correct intimate hygiene in women of different ages and in different physiopathological conditions. Par
+- new | 2007 | 17713873 | RCT | Sage extract rich in phenolic diterpenes inhibits ultraviolet-induced erythema in vivo.
+- new | 2006 | 16205785 | Clinical Trial/RCT | Effects of cholinesterase inhibiting sage (Salvia officinalis) on mood, anxiety and performance on a psychological stressor battery.
+- new | 2006 | 16504956 | RCT | Efficacy and tolerability of a spray with Salvia officinalis in the treatment of acute pharyngitis - a randomised, double-blind, placebo-controlled study with adaptive de
+- new | 2005 | 15639154 | Clinical Trial | Positive modulation of mood and cognitive performance following administration of acute doses of Salvia lavandulaefolia essential oil to healthy young volunteers.
+- new | 2003 | 12605619 | Clinical Trial/RCT | Salvia officinalis extract in the treatment of patients with mild to moderate Alzheimer's disease: a double blind, randomized and placebo-controlled trial.
+- new | 1998 | 9677811 | Clinical Trial | [Treatment of neurovegetative menopausal symptoms with a phytotherapeutic agent].
+
+## salvia-rosmarinus (Salvia rosmarinus; Rosemary) - 39 (+CT) hits; query: ("Salvia rosmarinus"[tiab] OR "Rosemary"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 43005205 | SR | Natural products mitigate pyrethroid-induced male reproductive toxicity: a systematic review.
+- new | 2025 | 40362239 | RCT | Skin Photoprotection and Anti-Aging Benefits of a Combination of Rosemary and Grapefruit Extracts: Evidence from In Vitro Models and Human Study.
+- new | 2025 | 41373655 | SR | Therapeutic Potential of Latin American Medicinal Plants in Oral Diseases: From Dental Pain to Periodontal Inflammation-A Systematic Review.
+- new | 2025 | 39503638 | RCT | The Effects of Lavender and Rosemary Extracts on Sore Throat and Hoarseness After Endotracheal Intubation in Patients Undergoing Percutaneous Nephrolithotomy: A Randomize
+- new | 2024 | 39047346 | RCT | The effect of lavender and rosemary aromatherapy application on cognitive functions, anxiety, and sleep quality in the elderly with diabetes.
+- new | 2024 | 38242798 | RCT | Comparing the effects of rosemary aromatherapy and music therapy on anxiety levels in patients undergoing general surgery: A randomized controlled clinical trial.
+- new | 2024 | 37758539 | RCT | The effect of rosemary hydroalcoholic extract on cognitive function and activities of daily living of patients with chronic obstructive pulmonary disease (COPD): A clinic
+- new | 2023 | 37699014 | RCT | Rapid increase in immune surveillance and expression of NKT and γδT cell activation markers after consuming a nutraceutical supplement containing Aloe vera gel, extracts 
+- HELD REF-1290 | 2022 | 35170682 | MA/SR | Cognition enhancing effect of rosemary (Rosmarinus officinalis L.) in lab animal studies: a systematic review and meta-analysis.
+- new | 2022 | 35631252 | SR | Medicinal Plants and Their Impact on the Gut Microbiome in Mental Health: A Systematic Review.
+- new | 2022 | 36028878 | RCT | Effect of Rosemary Cream on Episiotomy Wound Healing in Primiparous Women: A Randomized Clinical Trial.
+- new | 2022 | 34736874 | RCT | The effects of lavender, rosemary and orange essential oils on memory problems and medication adherence among patients undergoing hemodialysis: A parallel randomized cont
+- new | 2022 | 36343423 | RCT | Rosemary as an adjunctive treatment in patients with major depressive disorder: A randomized, double-blind, placebo-controlled trial.
+- new | 2022 | 35318738 | RCT | Effect of rosemary leaf powder with weight loss diet on lipid profile, glycemic status, and liver enzymes in patients with nonalcoholic fatty liver disease: A randomized,
+- new | 2022 | 36098857 | RCT | Arbuscular mycorrhizal fungi affecting the growth, nutrient uptake and phytoremediation potential of different plants in a cadmium-polluted soil.
+- new | 2021 | 33550193 | RCT | The effect of rosemary essential oil inhalation on sleepiness and alertness of shift-working nurses: A randomized, controlled field trial.
+- new | 2020 | 33233510 | RCT | Effects of Continuous Intake of Rosemary Extracts on Mental Health in Working Generation Healthy Japanese Men: Post-Hoc Testing of a Randomized Controlled Trial.
+- new | 2019 | 30970057 | RCT | Clinical Assessment of Rosemary-based Toothpaste (Rosmarinus officinalis Linn.): A Randomized Controlled Double-blind Study.
+- new | 2018 | 29913229 | RCT | Inhaled peppermint, rosemary and eucalyptus essential oils do not change spirometry in healthy individuals.
+- new | 2018 | 30318972 | RCT | Acute ingestion of rosemary water: Evidence of cognitive and cerebrovascular effects in healthy adults.
+- new | 2018 | 29433682 | RCT | A randomised double-blind placebo-controlled pilot trial of a combined extract of sage, rosemary and melissa, traditional herbal medicines, on the enhancement of memory i
+- new | 2017 | 28765034 | RCT | Semen quality, antioxidant status and reproductive performance of rabbits bucks fed milk thistle seeds and rosemary leaves.
+- new | 2015 | 25842469 | RCT | Rosemary oil vs minoxidil 2% for the treatment of androgenetic alopecia: a randomized comparative trial.
+- new | 2014 | 24815058 | Clinical Trial | Protective effects of citrus and rosemary extracts on UV-induced damage in skin cell model and human volunteers.
+- new | 2014 | 25365012 | RCT | Impact of cooked functional meat enriched with omega-3 fatty acids and rosemary extract on inflammatory and oxidative status; a randomised, double-blind, crossover study.
+- new | 2014 | 24831577 | RCT | Efficacy of early intensive rosuvastatin therapy in patients with ST-segment elevation myocardial infarction undergoing primary percutaneous coronary intervention (ROSEMA
+- new | 2013 | 23905652 | RCT | Short-term effects of black pepper (Piper nigrum) and rosemary (Rosmarinus officinalis and Rosmarinus eriocalyx) on sustained attention and on energy and fatigue mood sta
+- new | 2012 | 21877951 | RCT | Short-term study on the effects of rosemary on cognitive function in an elderly population.
+- new | 2012 | 22064737 | RCT | Use of rosemary, oregano, and a commercial blend of essential oils in broiler chickens: in vitro antimicrobial activities and effects on growth performance.
+- new | 2012 | 22404809 | RCT | Effect of a rosemary and oregano volatile oil mixture on performance, lipid oxidation of meat and haematological parameters in Pharaoh quails.
+- HELD REF-1292 | 2010 | 22432564 | SR | An evidence-based systematic review of rosemary (Rosmarinus officinalis) by the Natural Standard Research Collaboration.
+- new | 2010 | 20021709 | RCT | Odour-based context reinstatement effects with indirect measures of memory: the curious case of rosemary.
+- new | 2010 | 20719450 | RCT | Metabolomic approach to the nutraceutical effect of rosemary extract plus Ω-3 PUFAs in diabetic children with capillary electrophoresis.
+- new | 2009 | 19258850 | Clinical Trial | The effects of lavender and rosemary essential oils on test-taking anxiety among graduate nursing students.
+- new | 2007 | 18066133 | Clinical Trial/RCT | Clinical safety and efficacy of NG440: a novel combination of rho iso-alpha acids from hops, rosemary, and oleanolic acid for inflammatory conditions.
+- new | 2005 | 15908760 | Clinical Trial | Protective effects of different marigold (Calendula officinalis L.) and rosemary cream preparations against sodium-lauryl-sulfate-induced irritant contact dermatitis.
+- new | 2005 | 16261517 |  | A pilot trial evaluating Meta050, a proprietary combination of reduced iso-alpha acids, rosemary extract and oleanolic acid in patients with arthritis and fibromyalgia.
+- HELD REF-0173 | 2003 | 12690999 | Clinical Trial/RCT | Aromas of rosemary and lavender essential oils differentially affect cognition and mood in healthy adults.
+- new | 2000 | 10702998 | Clinical Trial | Antioxidative activity of rosemary extract in lipid fraction of minced meat balls during storage in a freezer.
+
+## sambucus-nigra (Sambucus nigra; Elder) - 146 hits; query: ("Sambucus nigra"[tiab] OR "Elder"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41310937 | SR/MA/Review | Mental Health Outcomes Associated with Elder Abuse: A Systematic Review and Meta-Analysis.
+- new | 2026 | 42424133 | SR | Screening and Interventions for Elder Mistreatment: Geriatric Emergency Department Guidelines 2.0 Systematic Review.
+- new | 2026 | 41344210 | SR/MA | Association between adverse childhood experiences and elder abuse victimization: A systematic review and meta-analysis.
+- new | 2026 | 42341154 | RCT | A multicenter randomized phase III trial of weekly cisplatin chemoradiotherapy versus radiotherapy in elderly patients with head and neck squamous cell carcinoma unfit fo
+- new | 2026 | 42271367 | SR/MA | Prevalence of elder abuse among community-dwelling older adults in South Asia: a systematic review and meta-analysis.
+- new | 2026 | 41466157 | RCT | A board game's impact on nursing students' knowledge about elder neglect and abuse: a randomized controlled educational intervention.
+- new | 2026 | 42422669 | SR | The kingdom's emerging elderly care landscape: insights for the future of elder care in Saudi Arabia: a systematic review.
+- new | 2026 | 41387393 | SR | Elder Clowning Interventions for Persons With Dementia in Long-Term Care: A Systematic Review and Metasynthesis of Qualitative Research.
+- new | 2025 | 40604591 | SR/MA | Elder abuse without borders: a systematic review and meta-analysis.
+- new | 2025 | 40046765 | SR | Training modalities for elder sarcopenic obesity: a systematic review and network meta-analysis.
+- new | 2025 | 41246082 | SR | Elder psychological abuse: narrative review of evidence and gaps in research.
+- new | 2025 | 39908285 | SR/MA | Adverse childhood experiences and elder abuse victimization nexus: A systematic review and meta-analysis.
+- new | 2025 | 41143372 | RCT | Effectiveness of Peer Elder Volunteers in Facilitating Physiotherapy Service Uptake from a Selected Urban Primary Health Centre in Puducherry, India: A Quasi-experimental
+- new | 2025 | 41107508 | RCT | Effects of an enhanced recovery after surgery (ERAS) program in elder patients undergoing transvaginal reconstructive surgery for pelvic organ prolapse (POP): a multicent
+- new | 2025 | 40552876 | SR/MA | Prevalence of Elder Abuse and Neglect of Persons with Dementia in Community Settings: A Systematic Review and Meta-Analysis.
+- new | 2025 | 39140308 | RCT | Effect of the nurse-led Hospital Elder Life Program on delirium reduction among delirious patients with COVID-19: A randomized clinical trial.
+- new | 2025 | 40181512 | RCT | Efficacy and Safety of Enzalutamide and Abiraterone Plus Prednisolone in Elder Castration-Resistant Prostate Cancer Patients: A Sub-Analysis From the ENABLE Study.
+- new | 2024 | 38367545 | MA/SR | Effect of hospital elder life program on the incidence of delirium: A systematic review and meta-analysis of clinical trials.
+- new | 2024 | 38373934 | RCT | Isokinetic training of lower extremity during the early stage promote functional restoration in elder patients with disability after Total knee replacement (TKR) - a rand
+- new | 2024 | 39082145 | SR | Elder Abuse in Older Adults With Dementia: Protective Factors and Adverse Effects.
+- new | 2024 | 39047334 | SR/MA | The effect of fascia iliaca compartment block on postoperative delirium in elder adults undergoing hip surgery: A systematic review and meta-analysis of randomized contro
+- new | 2024 | 36541634 | SR | A Systematic Review: Risk and Protective Factors of Elder Abuse for Community-Dwelling Racial Minorities.
+- new | 2024 | 38797641 | SR/MA | Prevalence and types of elder abuse in Sub Saharan Africa, systematic review and meta-analysis, 2023.
+- new | 2024 | 38484419 | SR | Prevalence of elder abuse in the community and care settings: An umbrella review.
+- new | 2024 | 37791406 | RCT | Comprehensive Older Adult and Caregiver Help (COACH): A person-centered caregiver intervention prevents elder mistreatment.
+- new | 2024 | 38570746 | SR | ERASE: a feasible early warning tool for elder abuse, developed for use in the Dutch emergency department.
+- new | 2024 | 37562462 | RCT | The safety and efficacy of Chinese herbal medicine for pneumonia prevention in high-risk elder residents in the nursing home: A randomized, double-blind clinical trial.
+- new | 2024 | 38673938 | RCT | Feasibility and Preliminary Efficacy of American Elderberry Juice for Improving Cognition and Inflammation in Patients with Mild Cognitive Impairment.
+- new | 2023 | 38110874 | MA/SR | The relationship between social support and dimensions of elder maltreatment: a systematic review and Meta-analysis.
+- new | 2023 | 36951600 | RCT | Effect of lidocaine or dexmedetomidine on postoperative recovery in elder patients undergoing colorectal surgery.
+- new | 2023 | 37859357 | RCT | [Screening for asymptomatic atrial fibrillation in elder community populations in Dalian: a single center study].
+- new | 2023 | 36964691 | SR | Effectiveness of Subcutaneous Administration of Antibiotics to Control Infections in Elder Palliative Patients: A Systematic Review.
+- new | 2023 | 37596549 | RCT | Effects of Mindfulness-Based Elder Care (MBEC) on symptoms of depression and anxiety and spiritual well-being of institutionalized seniors with disabilities: a randomized
+- new | 2023 | 37253202 | RCT | Knowing Who You Are (Becoming): Effects of a university-based elder-led cultural identity program on Alaska Native students' identity development, cultural strengths, sen
+- new | 2022 | 34633703 | MA | Chronic disease and elder mistreatment: A meta-analysis.
+- new | 2022 | 34695267 | MA/SR | The incidence of elder abuse under East Asian cultural background: A systematic review and meta-analysis.
+- new | 2022 | 35224680 | MA/SR | The prevalence of elder abuse and neglect in rural areas: a systematic review and meta-analysis.
+- new | 2022 | 33043709 | MA/SR | The impact of Tai Chi on cognitive rehabilitation of elder adults with mild cognitive impairment: a systematic review and meta-analysis.
+- new | 2022 | 34791792 | SR | Understanding professionals' perspectives and experiences of elder self-neglect: A systematic review and meta-synthesis of qualitative studies.
+- new | 2022 | 35527651 | RCT | Primary care experience on Stimunex(®) gocce in children with recurrent respiratory infections: a real-world study during the COVID-19 pandemic era.
+- new | 2022 | 36079732 | RCT | Use of Nutraceuticals in Elderly to Fight Inflammation and Immuno-Senescence: A Randomized Case-Control Study.
+- new | 2022 | 34514555 | SR | Types, characteristics and anatomic location of physical signs in elder abuse: a systematic review : Awareness and recognition of injury patterns.
+- new | 2022 | 32394780 | RCT | Evaluating the Effectiveness of I-NEED Program: Improving Nurses' Detection and Management of Elder Abuse and Neglect-A 6-Month Prospective Study.
+- new | 2021 | 32468910 | SR | A systematic review of ethical and legal issues in elder care.
+- new | 2021 | 31291837 | SR | Help-Seeking Behavior in Victims of Elder Abuse: A Systematic Review.
+- new | 2021 | 33886908 | SR | Interventions to prevent elder abuse in the community: a mixed-methods systematic review.
+- new | 2021 | 34122275 | SR | The Effectiveness of Psychosocial Interventions for Elder Abuse in Community Settings: A Systematic Review and Meta-Analysis.
+- new | 2021 | 33926591 | RCT | PROTECT: a novel psychotherapy for late-life depression in elder abuse victims.
+- new | 2021 | 31823685 | SR | The Effectiveness of Educational Intervention in Improving Primary Health-Care Service Providers' Knowledge, Identification, and Management of Elder Abuse and Neglect: A 
+- new | 2021 | 33947122 | SR | The Association of Physical (in)Activity with Mental Health. Differences between Elder and Younger Populations: A Systematic Literature Review.
+- new | 2021 | 33727003 | SR | Resident-to-Resident Elder Mistreatment in Residential Aged Care Services: A Systematic Review of Event Frequency, Type, Resident Characteristics, and History.
+- new | 2021 | 33942563 | RCT | Program development using intervention mapping in primary healthcare settings to address elder abuse: A randomized controlled pilot study.
+- new | 2021 | 34702164 | RCT | The Modified Hospital Elder Life Program (HELP) in geriatric hospitalized patients in internal wards: A double-blind randomized control trial.
+- new | 2020 | 32520262 | SR | Factors associated with elder abuse: a systematic review of the literature.
+- new | 2020 | 32277330 | MA/SR | Comparative Safety and Effectiveness of Roux-en-Y Gastric Bypass and Sleeve Gastrectomy in Obese Elder Patients: a Systematic Review and Meta-analysis.
+- new | 2020 | 32710658 | RCT | Hospital Elder Life Program in Long-Term Care (HELP-LTC): A Cluster Randomized Controlled Trial.
+- new | 2020 | 32382881 | SR | "With Age Comes Wisdom:" a Qualitative Review of Elder Perspectives on Healthy Aging in the Circumpolar North.
+- new | 2020 | 32669237 | SR | Readmissions of Elder Patients Presenting to Hospital for a Fall (RELIEF): A Systematic Review.
+- new | 2020 | 31675540 | RCT | Smartphone application training program improves smartphone usage competency and quality of life among the elderly in an elder university in China: A randomized controlle
+- new | 2020 | 32929634 | RCT | Elderberry Extract Outpatient Influenza Treatment for Emergency Room Patients Ages 5 and Above: a Randomized, Double-Blind, Placebo-Controlled Trial.
+- new | 2020 | 32041613 | RCT | Combination of post-fascia iliaca compartment block and dexmedetomidine in pain and inflammation control after total hip arthroplasty for elder patients: a randomized con
+- new | 2019 | 30390976 | SR | Elder Abuse.
+- HELD REF-1016 | 2019 | 30670267 | MA | Black elderberry (Sambucus nigra) supplementation effectively treats upper respiratory symptoms: A meta-analysis of randomized, controlled clinical trials.
+- new | 2019 | 29878101 | MA/SR | The prevalence of elder abuse in institutional settings: a systematic review and meta-analysis.
+- new | 2019 | 30616159 | MA/SR | Prevalence of elder abuse in Iran: a Systematic review and meta-analysis.
+- new | 2019 | 31764529 | SR | Elder Abuse in American Indian Communities: An Integrative Review.
+- new | 2019 | 29333999 | SR | Consequences of Elder Abuse and Neglect: A Systematic Review of Observational Studies.
+- new | 2019 | 30901078 | SR | Review of Programs to Combat Elder Mistreatment: Focus on Hospitals and Level of Resources Needed.
+- new | 2019 | 30682429 | SR | The optimal treatment for improving cognitive function in elder people with mild cognitive impairment incorporating Bayesian network meta-analysis and systematic review.
+- new | 2019 | 29333977 | MA/SR | The Prevalence of Self-Reported Elder Abuse Among Older Women in Community Settings: A Systematic Review and Meta-Analysis.
+- new | 2019 | 31454631 | MA/Review | Association between frailty and incident risk of disability in community-dwelling elder people: evidence from a meta-analysis.
+- new | 2019 | 31412879 | RCT | Oral administration of Lactobacillus casei Shirota improves recovery of hand functions after distal radius fracture among elder patients: a placebo-controlled, double-bli
+- new | 2018 | 30076080 | MA/SR | Hospital Elder Life Program: Systematic Review and Meta-analysis of Effectiveness.
+- new | 2018 | 29565762 | RCT | Feasibility of intervention in elder self-neglecters: Setting the stage for future research.
+- new | 2018 | 30285554 | MA/SR | The prevalence of elder abuse and neglect in Iran: a systematic review and meta-analysis.
+- new | 2018 | 30062840 | SR | Staff conceptualisations of elder abuse in residential aged care: A rapid review.
+- new | 2018 | 29356205 | SR | Antiviral potential of medicinal plants against HIV, HSV, influenza, hepatitis, and coxsackievirus: A systematic review.
+- new | 2018 | 30357304 | SR | Screening for Intimate Partner Violence, Elder Abuse, and Abuse of Vulnerable Adults: Evidence Report and Systematic Review for the US Preventive Services Task Force.
+- new | 2018 | 29713151 | RCT | Design and implementation of an empowerment model to prevent elder abuse: a randomized controlled trial.
+- new | 2018 | 29998997 | RCT | Characteristics of gut microbiota and its response to a Chinese Herbal Formula in elder patients with metabolic syndrome.
+- new | 2018 | 30630803 | RCT | Clinical application and effect of dexmedetomidine in combination with continuous positive airway pressure on one-lung ventilation in lung surgery of elder patients.
+- new | 2017 | 28104184 | MA/SR | Elder abuse prevalence in community settings: a systematic review and meta-analysis.
+- new | 2017 | 28042891 | SR | Screening tools for identification of elder abuse: a systematic review.
+- new | 2017 | 28652497 | MA | Global Prevalence of Elder Abuse: A Meta-analysis and Meta-regression.
+- new | 2017 | 28339321 | SR | A systematic review on community-based interventions for elder abuse and neglect.
+- new | 2017 | 27999847 | MA/SR | Tube Feeding among Elder in Long-Term Care Facilities: A Systematic Review and Meta-Analysis.
+- new | 2017 | 27552244 | SR | Domestic helpers as frontline workers in China's home-based elder care: A systematic review.
+- new | 2017 | 28698871 | MA/SR | Comparison of Minimally Invasive Percutaneous Plate Osteosynthesis and Open Reduction Internal Fixation on Proximal Humeral Fracture in Elder Patients: A Systematic Revie
+- new | 2017 | 26910249 | SR | An assessment of interventions that target risk factors for elder abuse.
+- new | 2017 | 27813158 | SR | Identification and management of elder physical abuse in the routine of dentistry - a systematic review.
+- new | 2017 | 28088166 | SR | Impact of home care versus alternative locations of care on elder health outcomes: an overview of systematic reviews.
+- new | 2017 | 28514964 | RCT | HELP! Problems in executing a pragmatic, randomized, stepped wedge trial on the Hospital Elder Life Program to prevent delirium in older patients.
+- new | 2017 | 28538964 | RCT | Effect of a Modified Hospital Elder Life Program on Delirium and Length of Hospital Stay in Patients Undergoing Abdominal Surgery: A Cluster Randomized Clinical Trial.
+- new | 2017 | 29349976 | RCT | [Analysis on the arthroscopy efficacy with different irrigation times for the treatment of suppurative knee arthritis in elder patients].
+- new | 2017 | 27345629 | RCT | The effect of folk recreation program in improving symptoms: a study of Chinese elder dementia patients.
+- new | 2017 | 29019912 | RCT | Validation and Assessment of Three Methods to Estimate 24-h Urinary Sodium Excretion from Spot Urine Samples in High-Risk Elder Patients of Stroke from the Rural Areas of
+- new | 2016 | 27023596 | RCT | Elderberry Supplementation Reduces Cold Duration and Symptoms in Air-Travellers: A Randomized, Double-Blind Placebo-Controlled Clinical Trial.
+- new | 2016 | 26744361 | MA/SR | A systematic review and meta-analysis of interventions designed to prevent or stop elder maltreatment.
+- new | 2016 | 26786905 | RCT | The effect of a family-based intervention with a cognitive-behavioral approach on elder abuse.
+- new | 2016 | 26951143 | SR | The clinical and biomechanical effects of subthreshold random noise on the plantar surface of the foot in diabetic patients and elder people: A systematic review.
+- new | 2016 | 27125590 | RCT | Efficacy and short-term safety of topical Dwarf Elder (Sambucus ebulus L.) versus diclofenac for knee osteoarthritis: A randomized, double-blind, active-controlled trial.
+- new | 2016 | 30634203 | RCT | [Prevention and Treatment of Shenkang Injection for Contrast-induced Nephropathy in Elder Patients with Chronic Kidney Disease].
+- new | 2015 | 26096395 | SR | Elder Abuse: Systematic Review and Implications for Practice.
+- new | 2015 | 25380662 | SR | A systematic review of prevalence and risk factors for elder abuse in Asia.
+- new | 2015 | 25476243 | MA/SR | Bipolar versus unipolar hemiarthroplasty for displaced femoral neck fractures in the elder patient: a systematic review and meta-analysis of randomized trials.
+- new | 2015 | 25938414 | MA | Development of a comprehensive hospital-based elder abuse intervention: an initial systematic scoping review.
+- new | 2015 | 25611116 | RCT | Feasibility of integrating mental health screening and services into routine elder abuse practice to improve client outcomes.
+- new | 2015 | 26031344 | RCT | A cluster randomized trial on improving nurses' detection and management of elder abuse and neglect (I-NEED): study protocol.
+- new | 2015 | 26056202 | RCT | Prevention Program Lowered The Risk Of Falls And Decreased Claims For Long-Term Services Among Elder Participants.
+- new | 2015 | 26214887 | RCT | [Clinical Efficacy of Supplementary Treatment of Gukang Capsules to the Elder Patients with Fracture of Distal Radius].
+- new | 2014 | 24170614 | SR | Elder self-neglect: the failure of coping because of cognitive and functional impairments.
+- new | 2014 | 24326536 | RCT | Personal health records: a randomized trial of effects on elder medication safety.
+- HELD REF-1022 | 2014 | 24409980 | SR | An evidence-based systematic review of elderberry and elderflower (Sambucus nigra) by the Natural Standard Research Collaboration.
+- new | 2014 | 24485005 | RCT | Educating novice practitioners to detect elder financial abuse: a randomised controlled trial.
+- new | 2014 | 25604219 | RCT | [Sedative effects of dexmedetomidine in post-operative elder patients on mechanical ventilation].
+- new | 2014 | 24712684 | RCT | Primary prevention for risk factors of ischemic stroke with Baduanjin exercise intervention in the community elder population: study protocol for a randomized controlled 
+- new | 2014 | 25547513 | RCT | Identifying and enhancing risk thresholds in the detection of elder financial abuse: a signal detection analysis of professionals' decision making.
+- new | 2013 | 23343837 | SR | Elder abuse: a systematic review of risk factors in community-dwelling elders.
+- new | 2013 | 22922225 | SR | Elder abuse and psychological well-being: a systematic review and implications for research and policy--a mini review.
+- new | 2013 | 23244443 | RCT | Recruiting hospitalized Mexican American elder adults and caregivers: challenges and strategies.
+- new | 2013 | 23159018 | RCT | A staff intervention targeting resident-to-resident elder mistreatment (R-REM) in long-term care increased staff knowledge, recognition and reporting: results from a clus
+- new | 2013 | 24267484 | RCT | Local anesthesia for treatment of hernia in elder patients: Levobupicavaine or Bupivacaine?
+- new | 2013 | 23879226 | RCT | Design and methods of the Hospital Elder Life Program (HELP), a multicomponent targeted intervention to prevent delirium in hospitalized older patients: efficacy and cost
+- new | 2012 | 22868522 | RCT | [Clinical effects of budesonide/formoterol combination drug in elder patients with asthma compared with budesonide plus tulobuterol patch combination treatment].
+- new | 2011 | 21978292 | SR | Elder abuse research: a systematic review.
+- new | 2011 | 27119527 | SR | The Effectiveness of Educational Programs to Improve Recognition and Reporting of Elder Abuse and Neglect: A Systematic Review of the Literature.
+- new | 2011 | 21460710 | RCT | A randomized trial of the effect of patient race on physicians' intensive care unit and life-sustaining treatment decisions for an acutely unstable elder with end-stage c
+- new | 2010 | 20433751 | RCT | Randomized clinical trial of a phytotherapic compound containing Pimpinella anisum, Foeniculum vulgare, Sambucus nigra, and Cassia augustifolia for chronic constipation.
+- new | 2009 | 19827326 | SR | Professional decision making on elder abuse: systematic narrative review.
+- new | 2009 | 19827325 | SR | A systematic review of interventions for elder abuse.
+- new | 2009 | 19575486 | SR | A systematic review of the efficacy and safety of herbal medicines used in the treatment of obesity.
+- new | 2008 | 18349012 | SR | The prevalence of elder abuse and neglect: a systematic review.
+- new | 2008 | 21141550 | RCT | [Effect of penehyclidine hydrochloride as preoperation drug for elder on HRV].
+- new | 2007 | 17998119 | SR | Elder mistreatment in the nursing home: a systematic review.
+- new | 2007 | 18160381 | SR | Searching for elder abuse: a systematic review of database citations.
+- new | 2007 | 17384809 | SR | [Prevalence of elder abuse: a systematic review].
+- new | 2007 | 18047876 | RCT | Development and validation of the balance outcome measure for elder rehabilitation.
+- new | 2007 | 18077272 | SR | Notes on newspaper accounts of male elder abuse.
+- new | 2006 | 16365322 | RCT | Out-of-hospital auricular acupressure in elder patients with hip fracture: a randomized double-blinded trial.
+- new | 2005 | 16043008 | Clinical Trial/RCT | Depressive symptoms, pain experiences, and pain management strategies among residents of taiwanese public elder care homes.
+- new | 2003 | 15615423 | Clinical Trial/RCT | [A clinical study on manshuailing oral liquid in treating elder patients with congestive heart failure of type heart and kidney yang deficiency].
+- new | 2002 | 12242194 | Clinical Trial/RCT | The effect of education on knowledge and management of elder abuse: a randomized controlled trial.
+- new | 2001 | 11483459 | Clinical Trial/RCT/SR | Preventive care in the emergency department: should emergency departments institute a falls prevention program for elder patients? A systematic review.
+- new | 2001 | 11435187 | Clinical Trial/RCT | Do elder emergency department patients and their informants agree about the elder's functioning?
+- new | 1997 | 9228196 | Clinical Trial/RCT | Influence of atropine on the cardiovascular effects of noradrenaline and tyramine in elder volunteers.
+- new | 1995 | 9395631 | Clinical Trial/RCT | Inhibition of several strains of influenza virus in vitro and reduction of symptoms by an elderberry extract (Sambucus nigra L.) during an outbreak of influenza B Panama.
+
+## saponaria-officinalis (Saponaria officinalis; Soapwort) - 1 (+CT) hits; query: ("Saponaria officinalis"[tiab] OR "Soapwort"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42116036 | MA/Review | Influence of saponin extracts on enteric methane emission and rumen fermentation: a meta-analysis of in vitro experiments.
+
+## schisandra-chinensis (Schisandra chinensis; Schisandra) - 24 (+CT) hits; query: ("Schisandra chinensis"[tiab] OR "Schisandra"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41982662 | SR | Effects of schisandra extract on muscle atrophy: a systematic review and meta-analysis of preclinical studies.
+- new | 2026 | 41656269 | RCT | Effects of multi-herb and ashwagandha root formulas on stress modulation: a randomized, double-blind, placebo-controlled clinical study.
+- new | 2025 | 40832608 | SR | Efficacy of Schisandra chinensis in liver injury: a systematic review and preclinical meta-analysis.
+- new | 2025 | 41261684 | SR | Mechanism, research progress and warning of the effects of acupuncture at Zusanli point (ST36) on pharmacokinetics: A review.
+- new | 2025 | 40527813 | SR/MA | Treatment of chronic urticaria with traditional Chinese medicine: A systematic review, meta-analysis, and medication regularity.
+- new | 2024 | 38788881 | SR | Extraction, purification, structural characterization, and biological activity of polysaccharides from Schisandra chinensis: A review.
+- new | 2023 | 37432344 | SR | Changes in the Gut Microbiota after the Use of Herbal Medicines in Overweight and Obese Individuals: A Systematic Review.
+- new | 2023 | 37425492 | RCT | Effect of Saengmaeksan on Fatigue, Liver Function, and Immunity Combined with High-Intensity Training.
+- new | 2022 | 35631252 | SR | Medicinal Plants and Their Impact on the Gut Microbiome in Mental Health: A Systematic Review.
+- new | 2022 | 35956334 | RCT | Efficacy and Safety of Omija (Schisandra chinensis) Extract Mixture on the Improvement of Hyperglycemia: A Randomized, Double-Blind, and Placebo-Controlled Clinical Trial
+- HELD REF-0506 | 2021 | 34445021 | MA/SR | Plant Adaptogens-History and Future Perspectives.
+- new | 2021 | 33710261 | RCT | Effect of Schisandra chinensis Baillon extracts and regular low-intensity exercise on muscle strength and mass in older adults: a randomized, double-blind, placebo-contro
+- new | 2021 | 33838287 | Clinical Trial | Anti-inflammatory activity of the Tongmai Yangxin pill in the treatment of coronary heart disease is associated with estrogen receptor and NF-κB signaling pathway.
+- new | 2020 | 32260466 | RCT | Effect of Schisandra Chinensis Extract Supplementation on Quadriceps Muscle Strength and Fatigue in Adult Women: A Randomized, Double-Blind, Placebo-Controlled Trial.
+- HELD REF-2480 | 2017 | 28864749 | RCT | Wuzhi Tablet (Schisandra sphenanthera Extract) is a Promising Tacrolimus-Sparing Agent for Renal Transplant Recipients Who are CYP3A5 Expressers: a Two-Phase Prospective 
+- HELD REF-0582 | 2016 | 27763802 | RCT | A randomized, double-blind, placebo-controlled trial of Schisandra chinensis for menopausal symptoms.
+- new | 2015 | 26048342 | RCT | Schisandra chinensis fruit modulates the gut microbiota composition in association with metabolic markers in obese women: a randomized, double-blind placebo-controlled st
+- new | 2013 | 22610748 | RCT | Improvement of liver function in humans using a mixture of schisandra fruit extract and sesamin.
+- HELD REF-2506 | 2011 | 21656210 | Clinical Trial | Effects of Schisandra sphenanthera extract on the blood concentration of tacrolimus in renal transplant recipients.
+- new | 2010 | 20374974 | RCT | Double-blind, placebo-controlled, randomised study of single dose effects of ADAPT-232 on cognitive functions.
+- HELD REF-2505 | 2010 | 20197017 |  | Effect of Schisandra sphenanthera extract on the concentration of tacrolimus in the blood of liver transplant patients.
+- new | 2009 | 19170145 | RCT | The influence of adaptogens on ultraweak biophoton emission: a pilot-experiment.
+- new | 2007 | 17684134 | RCT | A pilot and feasibility study on the effects of naturopathic botanical and dietary interventions on sex steroid hormone metabolism in premenopausal women.
+- new | 2005 | 16323290 | RCT | Impact of Chisan (ADAPT-232) on the quality-of-life and its efficacy as an adjuvant in the treatment of acute non-specific pneumonia.

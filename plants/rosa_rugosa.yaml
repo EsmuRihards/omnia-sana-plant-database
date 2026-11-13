@@ -128,7 +128,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0098
   - REF-1005
   - REF-1006
   - REF-1011
@@ -140,7 +139,6 @@ actions:
   status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0098
   - REF-1005
   - REF-1006
   - REF-1009
@@ -149,49 +147,43 @@ actions:
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0098
   - REF-1010
   - REF-1013
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0098
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1011
 - condition: cancer
-  note: inferred from anticancer action
+  note: Rugosa rose polysaccharides slowed colorectal and cervical cancer in lab and animal studies (preclinical)
   reference_ids:
   - REF-1010
   - REF-1014
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0098
   - REF-1008
   status: verified
+  note: Rugosa rose flavonoids lowered triglycerides in mice (preclinical)
 - condition: cold
   note: inferred from immunomodulator action
-  reference_ids:
-  - REF-0098
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1010
 - condition: immune-support
-  reference_ids:
-  - REF-0098
-  status: verified
+  reference_ids: []
+  status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0098
+  reference_ids: []
   status: needs-review
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: A rugosa rose polysaccharide eased psoriasis-like skin disease in mice (preclinical)
   reference_ids:
-  - REF-0098
   - REF-1011
   status: needs-review
 contraindications:
@@ -201,7 +193,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0051
-  - REF-0098
   - REF-0240
   status: verified
 - note: Duke (2002) does not include a dedicated entry for Japanese rose (Rosa rugosa) in the Handbook
@@ -209,7 +200,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0051
-  - REF-0098
   - REF-0240
   - REF-0063
   status: verified
@@ -243,4 +233,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (REF-1005). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
   research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
   2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower/petals (summer) + fruit
-  (hips autumn), both provisional: PFAF REF-3325. Single lineage. Binomial confirmed.'
+  (hips autumn), both provisional: PFAF REF-3325. Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit. Grieve REF-0098 purged:
+  Grieve mentions R. rugosa only as a parent of garden hybrids. Three reviews retagged
+  narrative-review. Notes rewritten to the preclinical sources.'

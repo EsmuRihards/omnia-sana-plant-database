@@ -1,0 +1,232 @@
+# Landmark search batch 16
+
+## scrophularia-nodosa (Scrophularia nodosa; Figwort) - 0 (+CT) hits; query: ("Scrophularia nodosa"[tiab] OR "Figwort"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## scutellaria-lateriflora (Scutellaria lateriflora; Skullcap) - 7 (+CT) hits; query: ("Scutellaria lateriflora"[tiab] OR "Skullcap"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- HELD REF-1562 | 2025 | 40362800 | RCT | Efficacy and Tolerability of a Chemically Characterized Scutellaria lateriflora L. Extract-Based Food Supplement for Sleep Management: A Single-Center, Controlled, Random
+- HELD REF-1564 | 2024 | 38542772 | RCT | Efficacy and Tolerability of a Scutellaria lateriflora L. and Cistus × incanus L.-Based Chewing Gum on the Symptoms of Gingivitis: A Monocentric, Randomized, Double-Blind
+- HELD REF-0551 | 2014 | 23878109 | RCT | American Skullcap (Scutellaria lateriflora): a randomised, double-blind placebo-controlled crossover study of its effects on mood in healthy volunteers.
+- new | 2011 | 21601431 | SR | Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence.
+- new | 2011 | 20666864 | RCT | Effects of a skullcap root supplement on haematology, serum parameters and antioxidant enzymes in rabbits on a high-cholesterol diet.
+- new | 2007 | 17562566 | SR | Herbal medicines in the treatment of psychiatric disorders: a systematic review.
+- new | 2003 | 12652886 | Clinical Trial/RCT | An investigation into the efficacy of Scutellaria lateriflora in healthy volunteers.
+
+## serenoa-repens (Serenoa repens; Saw Palmetto) - 99 hits; query: ("Serenoa repens"[tiab] OR "Saw Palmetto"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41652806 | RCT | The Safety and Efficacy of a Novel Saw Palmetto (Serenoa repens) Extract for Promoting Hair Growth in Adults With Self-Perceived Thinning Hair: 180-Day Results.
+- new | 2026 | 41098072 | RCT | Efficacy of Serenoa repens Extract Combined With Alfuzosin Versus Alfuzosin Alone in Men With Lower Urinary Tract Symptoms Due to Benign Prostatic Hyperplasia: A Multicen
+- new | 2026 | 42280395 | RCT | Efficacy and Safety of Salvia miltiorrhiza Extract (SAGX) Compared with Saw Palmetto in Men with Lower Urinary Tract Symptoms: A 12-Week, Randomized, Double-Blind, Parall
+- new | 2025 | 41319217 | RCT | The Safety and Efficacy of a Proprietary Bioactive Fatty Acids Extract From Saw Palmetto (Serenoa repens) for Promoting Hair Growth and Reducing Hair Loss in Adults With 
+- new | 2025 | 40853071 | RCT | Impact of a Novel Dietary Supplement on Efficacy of Pharmacological Treatments for Androgenic Alopecia: A Real-Life, Multicenter, Randomized, Assessor-Blinded Trial on 22
+- new | 2025 | 39042923 | RCT | Beneficial effects of saw palmetto (Serenoa repens) fruit extract on the urinary symptoms of healthy Japanese adults with possible lower urinary tract symptoms: A randomi
+- new | 2024 | 39505516 | RCT | Multi-pharmacological treatment for young subfertile males with chronic prostatitis/chronic pelvic pain syndrome.
+- new | 2022 | 35165019 | MA/SR | Is Serenoa repens effective for the treatment of chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS)? A systematic review and meta-analysis.
+- new | 2022 | 35334848 | RCT | Beneficial Effects of Saw Palmetto Fruit Extract on Urinary Symptoms in Japanese Female Subjects by a Multicenter, Randomized, Double-Blind, Placebo-Controlled Study.
+- new | 2021 | 31952967 | SR | Clinical Efficacy of Serenoa repens Versus Placebo Versus Alpha-blockers for the Treatment of Lower Urinary Tract Symptoms/Benign Prostatic Enlargement: A Systematic Revi
+- new | 2021 | 34933534 | MA/SR | Serenoa repens and its effects on male sexual function. A systematic review and meta-analysis of clinical trials.
+- HELD REF-1890 | 2021 | 34488251 | MA/SR | Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement: A systematic review and meta-analysis.
+- new | 2021 | 33452912 | RCT | The efficacy and safety of Serenoa repens extract for the treatment of patients with chronic prostatitis/chronic pelvic pain syndrome: a multicenter, randomized, double-b
+- HELD REF-1889 | 2020 | 32274957 | MA/SR | Comparison of Serenoa repens With Tamsulosin in the Treatment of Benign Prostatic Hyperplasia: A Systematic Review and Meta-Analysis.
+- new | 2020 | 32620155 | RCT | A double blind, placebo-controlled randomized comparative study on the efficacy of phytosterol-enriched and conventional saw palmetto oil in mitigating benign prostate hy
+- new | 2019 | 31002161 | SR | Non-hormonal treatment for male infertility: the potential role of Serenoa repens, selenium and lycopene.
+- new | 2019 | 32223093 | MA | [Efficacy and safety of Serenoa repens extract combined with α-receptor blocker in the treatment of benign prostatic hyperplasia].
+- new | 2019 | 31184016 | RCT | [A comparative analysis of the effectiveness of serenoa repens and serenoa repens in combination with urtica dioiccus for lower urinary symptoms suggestive of benign pros
+- new | 2019 | 30027406 | RCT | The effect of hexanic extract of Serenoa repens on prostatic inflammation: results from a randomized biopsy study.
+- new | 2019 | 30880074 | RCT | Efficacy and Safety of Serenoa repens Extract Among Patients with Benign Prostatic Hyperplasia in China: A Multicenter, Randomized, Double-blind, Placebo-controlled Trial
+- new | 2019 | 30488800 | RCT | Flower Pollen Extract in Association with Vitamins (Deprox 500®) Versus Serenoa repens in Chronic Prostatitis/Chronic Pelvic Pain Syndrome: A Comparative Analysis of Two 
+- new | 2019 | 31527377 | RCT | The Use of a Combination of Vaccinium Macracarpon, Lycium barbarum L. and Probiotics (Bifiprost®) for the Prevention of Chronic Bacterial Prostatitis: A Double-Blind Rand
+- HELD REF-0571 | 2018 | 29694707 | MA/SR | Efficacy and safety of a hexanic extract of Serenoa repens (Permixon(®) ) for the treatment of lower urinary tract symptoms associated with benign prostatic hyperplasia (
+- new | 2018 | 29569389 | RCT | Serenoa repens + selenium + lycopene vs tadalafil 5 mg for the treatment of lower urinary tract symptoms secondary to benign prostatic obstruction: a Phase IV, non-inferi
+- new | 2018 | 28604133 | RCT | A preliminary study on topical cetirizine in the therapeutic management of androgenetic alopecia.
+- new | 2017 | 28403589 | RCT | The efficacy of an association of palmitoylethanolamide and alpha-lipoic acid in patients with chronic prostatitis/chronic pelvic pain syndrome: A randomized clinical tri
+- new | 2016 | 26891611 | RCT | Saw Palmetto for Symptom Management During Radiation Therapy for Prostate Cancer.
+- new | 2016 | 27711089 | RCT | Serenoa repens associated with selenium and lycopene extract and bromelain and methylsulfonylmethane extract are able to improve the efficacy of levofloxacin in chronic b
+- new | 2015 | 26306400 | RCT | Effects of hexanic extract of Serenoa repens (Permixon® 160 mg) on inflammation biomarkers in the treatment of lower urinary tract symptoms related to benign prostatic hy
+- new | 2015 | 25614155 | RCT | Comparison of tamsulosin plus serenoa repens with tamsulosin in the treatment of benign prostatic hyperplasia in Korean men: 1-year randomized open label study.
+- new | 2014 | 25154739 | RCT | Serenoa repens, lycopene and selenium versus tamsulosin for the treatment of LUTS/BPH. An Italian multicenter double-blinded randomized study between single or combinatio
+- new | 2014 | 23383975 | RCT | Treatment assignment guesses by study participants in a double-blind dose escalation clinical trial of saw palmetto.
+- new | 2014 | 24988203 | RCT | Effects of Difaprost® on voiding dysfunction, histology and inflammation markers in patients with benign prostatic hyperplasia who are candidates for surgical treatment.
+- new | 2014 | 25038794 | RCT | Chronic bacterial prostatitis: efficacy of short-lasting antibiotic therapy with prulifloxacin (Unidrox®) in association with saw palmetto extract, lactobacillus sporogen
+- new | 2013 | 24399119 | RCT | An improvement in sexual function is related to better quality of life, regardless of urinary function improvement: results from the IDIProst® Gold Study.
+- new | 2013 | 23063633 | RCT | Safety and toxicity of saw palmetto in the CAMUS trial.
+- new | 2013 | 23058996 | SR | [Phytotherapy in urology. Current scientific evidence of its application in benign prostatic hyperplasia and prostate adenocarcinoma].
+- new | 2013 | 23683667 | RCT | Effects of Serenoa repens, selenium and lycopene (Profluss®) on chronic inflammation associated with benign prostatic hyperplasia: results of "FLOG" (Flogosis and Proflus
+- new | 2013 | 24450252 | RCT | Does the addition of Serenoa repens to tamsulosin improve its therapeutical efficacy in benign prostatic hyperplasia?
+- HELD REF-0404 | 2013 | 23642948 | RCT | A phase II randomised double-blind placebo-controlled clinical trial investigating the efficacy and safety of ProstateEZE Max: a herbal medicine preparation for the manag
+- new | 2013 | 23253958 | RCT | The effect of increasing doses of saw palmetto fruit extract on serum prostate specific antigen: analysis of the CAMUS randomized trial.
+- new | 2012 | 23298508 | RCT | Comparitive effectiveness of finasteride vs Serenoa repens in male androgenetic alopecia: a two-year study.
+- HELD REF-1892 | 2012 | 22551330 | SR | Serenoa repens monotherapy for benign prostatic hyperplasia (BPH): an updated Cochrane systematic review.
+- HELD REF-0504 | 2012 | 23235581 | MA/SR | Serenoa repens for benign prostatic hyperplasia.
+- new | 2012 | 23083656 | RCT | Associations between improvements in lower urinary tract symptoms and sleep disturbance over time in the CAMUS trial.
+- new | 2011 | 21954478 | RCT | Effect of increasing doses of saw palmetto extract on lower urinary tract symptoms: a randomized trial.
+- new | 2010 | 20931547 | RCT | Analysis of the results obtained with a new phytotherapeutic association for LUTS versus control. [corrected].
+- new | 2010 | 21427997 | RCT | [Approaches to raising efficacy of treatment of patients with chronic prostatitis associated with intracellular infections].
+- new | 2010 | 20940691 | RCT | Serenoa repens (Permixon®) reduces intra- and postoperative complications of surgical treatments of benign prostatic hyperplasia.
+- new | 2010 | 20332612 | RCT | Treatment of chronic prostatitis/chronic pelvic pain syndrome category IIIA with Serenoa repens plus selenium and lycopene (Profluss) versus S. repens alone: an Italian r
+- HELD REF-2436 | 2009 | 19719333 | SR | Interactions between herbal medicines and prescribed drugs: an updated systematic review.
+- new | 2009 | 19591529 | SR | Serenoa repens (saw palmetto): a systematic review of adverse events.
+- new | 2009 | 20034398 | MA/Review | American palm ethnomedicine: a meta-analysis.
+- new | 2009 | 19370565 | MA/SR | Serenoa repens for benign prostatic hyperplasia.
+- new | 2009 | 20027354 | RCT | Clinical study of the efficiency and safety of afala in patients with benign prostatic hyperplasia.
+- new | 2009 | 19181486 | RCT | Serenoa repens associated with Urtica dioica (ProstaMEV) and curcumin and quercitin (FlogMEV) extracts are able to improve the efficacy of prulifloxacin in bacterial pros
+- new | 2009 | 19921983 | RCT | Effects of short-term dutasteride and Serenoa repens on perioperative bleeding and microvessel density in patients undergoing transurethral resection of the prostate.
+- new | 2008 | 19044302 | RCT | [Economic evaluation of medical treatment of benign prostatic hyperplasia (BPH) in the specialised care setting in Spain. Application to the cost-effectiveness of two dru
+- new | 2008 | 18082217 | RCT | Effect of saw palmetto soft gel capsule on lower urinary tract symptoms associated with benign prostatic hyperplasia: a randomized trial in Shanghai, China.
+- new | 2008 | 18534327 | RCT | A detailed safety assessment of a saw palmetto extract.
+- new | 2007 | 17203353 | RCT | A prospective study of the efficacy of Serenoa repens, tamsulosin, and Serenoa repens plus tamsulosin treatment for patients with benign prostate hyperplasia.
+- new | 2006 | 17022925 | SR | Evidence-based systematic review of saw palmetto by the Natural Standard Research Collaboration.
+- new | 2006 | 16467543 | RCT | Saw palmetto for benign prostatic hyperplasia.
+- new | 2005 | 15643230 | Clinical Trial/RCT | Serenoa repens treatment modifies bax/bcl-2 index expression and caspase-3 activity in prostatic tissue from patients with benign prostatic hyperplasia.
+- HELD REF-1894 | 2004 | 15049985 | MA | Updated meta-analysis of clinical trials of Serenoa repens extract in the treatment of symptomatic benign prostatic hyperplasia.
+- new | 2004 | 15195032 | Clinical Trial/RCT | [Efficacy of pretreatment with Serenoa repens on bleeding associated with transurethral resection of prostate].
+- new | 2004 | 14665895 | Clinical Trial/RCT | A prospective, 1-year trial using saw palmetto versus finasteride in the treatment of category III prostatitis/chronic pelvic pain syndrome.
+- new | 2004 | 15536458 | Clinical Trial/RCT | In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto.
+- new | 2004 | 15149751 | Clinical Trial/RCT | Evaluation of the clinical benefit of permixon and tamsulosin in severe BPH patients-PERMAL study subset analysis.
+- new | 2004 | 15373174 | Clinical Trial/RCT | [Evaluation of the clinical benefit of Permixon and tamsulosin in severe BPH patients--PERMAL study subset analysis].
+- HELD REF-1895 | 2003 | 12887481 | Clinical Trial/RCT | Serenoa repens extract for benign prostate hyperplasia: a randomized controlled trial.
+- new | 2003 | 14572753 | Clinical Trial/RCT | BPH and inflammation: pharmacological effects of Permixon on histological and molecular inflammatory markers. Results of a double blind pilot clinical assay.
+- new | 2002 | 12137626 | SR | Serenoa repens for benign prostatic hyperplasia.
+- new | 2002 | 11777363 | MA/Review | The risk-benefit profile of commonly used herbal therapies: Ginkgo, St. John's Wort, Ginseng, Echinacea, Saw Palmetto, and Kava.
+- new | 2002 | 12665049 | Clinical Trial/RCT | The lipidosterolic extract of Serenoa repens in the treatment of benign prostatic hyperplasia: a comparison of two dosage regimens.
+- new | 2002 | 12189745 | Clinical Trial/RCT | [Tamsulosin with or without Serenoa repens in benign prostatic hyperplasia: the OCOS trial].
+- new | 2002 | 12006122 | Clinical Trial/RCT | A randomized, double-blind, placebo-controlled trial to determine the effectiveness of botanically derived inhibitors of 5-alpha-reductase in the treatment of androgeneti
+- new | 2002 | 12385921 | Clinical Trial/RCT | Saw palmetto alters nuclear measurements reflecting DNA content in men with symptomatic BPH: evidence for a possible molecular mechanism.
+- new | 2002 | 12074791 | Clinical Trial/RCT | Comparison of a phytotherapeutic agent (Permixon) with an alpha-blocker (Tamsulosin) in the treatment of benign prostatic hyperplasia: a 1-year randomized international s
+- new | 2002 | 12189744 | Clinical Trial/RCT | [Comparison of a phytotherapeutic agent (Permixon) with an alpha-blocker (Tamsulosin) in the treatment of benign prostatic hyperplasia: a 1-year randomized international 
+- new | 2001 | 11772128 | SR | Interactions between herbal medicines and prescribed drugs: a systematic review.
+- new | 2001 | 11170151 | Clinical Trial/RCT | Do saw palmetto extracts block human alpha1-adrenoceptor subtypes in vivo?
+- new | 2001 | 11337315 | Clinical Trial/RCT | Tissue effects of saw palmetto and finasteride: use of biopsy cores for in situ quantification of prostatic androgens.
+- new | 2001 | 11744467 | Clinical Trial/RCT | Randomized, double-blind, placebo-controlled trial of saw palmetto in men with lower urinary tract symptoms.
+- new | 2001 | 12092634 | Clinical Trial/RCT | Randomized trial of a combination of natural products (cernitin, saw palmetto, B-sitosterol, vitamin E) on symptoms of benign prostatic hyperplasia (BPH).
+- new | 2000 | 11276294 | MA | Phytotherapy for benign prostatic hyperplasia.
+- new | 2000 | 10732392 | Clinical Trial/RCT/Review | Benign prostatic hyperplasia treated with saw palmetto: a literature search and an experimental case study.
+- new | 2000 | 10796790 | SR | Serenoa repens for benign prostatic hyperplasia.
+- new | 2000 | 10736497 | MA | Meta-analysis of clinical trials of permixon in the treatment of symptomatic benign prostatic hyperplasia.
+- new | 2000 | 10751856 | Clinical Trial/RCT | Effects of a saw palmetto herbal blend in men with symptomatic benign prostatic hyperplasia.
+- new | 2000 | 10971268 | Clinical Trial/RCT | Combined sabal and urtica extract compared with finasteride in men with benign prostatic hyperplasia: analysis of prostate volume and therapeutic outcome.
+- new | 1999 | 10641953 | MA | Herbal medications for common ailments in the elderly.
+- new | 1999 | 10915398 | Clinical Trial/RCT | Efficacy and tolerability of the lipidosterolic extract of Serenoa repens (Permixon) in benign prostatic hyperplasia: a double-blind comparison of two dosage regimens.
+- new | 1999 | 10897913 | Clinical Trial/RCT | [Saw palmetto fruit extract for treatment of benign prostatic hyperplasia. Results of a placebo-controlled double-blind study].
+- new | 1998 | 9820264 | MA/SR | Saw palmetto extracts for treatment of benign prostatic hyperplasia: a systematic review.
+- new | 1995 | 7537488 | Clinical Trial/RCT | Comparative effects of alfuzosin versus Serenoa repens in the treatment of symptomatic benign prostatic hyperplasia.
+- new | 1994 | 7805711 | Clinical Trial/RCT | Comparison of finasteride (Proscar) and Serenoa repens (Permixon) in the inhibition of 5-alpha reductase in healthy male volunteers.
+- new | 1993 | 7516378 | Clinical Trial/RCT/Review | [Pharmacological combinations in the treatment of benign prostatic hypertrophy].
+- new | 1992 | 1281103 | Clinical Trial/RCT | Evidence that Serenoa repens extract displays an antiestrogenic activity in prostatic tissue of benign prostatic hypertrophy patients.
+
+## silybum-marianum (Silybum marianum; Milk Thistle) - 79 hits; query: ("Silybum marianum"[tiab] OR "Milk Thistle"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40221681 | MA/SR | Are alterations needed in Silybum marianum (Silymarin) administration practices? A novel outlook and meta-analysis on randomized trials targeting liver injury.
+- new | 2025 | 39855603 | SR/MA | Effects of silymarin on insulin resistance and sensitivity: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2025 | 39110237 | RCT | Evaluation of oral silymarin formulation efficacy in prevention of doxorubicin induced hepatotoxicity in patients with non-metastatic breast cancer.
+- new | 2025 | 39789561 | RCT | The activity of a herbal medicinal product of Phyllanthus niruri and Silybum marianum powdered extracts (Heptex®) in patients with apparent risk factors for nonalcoholic 
+- new | 2025 | 41199840 | SR | Efficacy of various plant-derived interventions in the prevention of radiation dermatitis in breast cancer patients: a systematic review and network meta-analysis of rand
+- HELD REF-1906 | 2024 | 38314596 | SR | Efficacy and Mechanisms of Silybum Marianum, Silymarin, and Silibinin on Rheumatoid Arthritis and Osteoarthritis Symptoms: A Systematic Review.
+- new | 2024 | 38478366 | RCT | Silymarin (Milk Thistle) Treatment of Adults With Gambling Disorder: A Double-Blind, Placebo-Controlled Trial.
+- new | 2024 | 39161267 | RCT | Silymarin in combination with hair follicle transplantation as a potential treatment for refractory vitiligo: A double-blind randomized controlled trial.
+- new | 2024 | 38801454 | SR | Silibinin as a major component of milk thistle seed provides promising influences against diabetes and its complications: a systematic review.
+- new | 2024 | 38879879 | RCT | Effects of Silybum marianum, Pueraria lobate, combined with Salvia miltiorrhiza tablets on non-alcoholic fatty liver disease in adults: A triple-blind, randomized, placeb
+- new | 2024 | 39012843 | RCT | Nutraceutical composition (yeast β-glucan, prebiotics, minerals, and silymarin) predicts improvement of sleep quality and metabolic parameters: A randomized pilot study.
+- new | 2024 | 38750102 | RCT | Nutraceutical blends predict enhanced health via microbiota reshaping improving cytokines and life quality: a Brazilian double-blind randomized trial.
+- new | 2022 | 35623810 | MA/SR | Effects berberine-silymarin on liver enzymes: A systematic review and meta-analysis of randomized controlled trials.
+- new | 2022 | 36778595 | RCT | Novel nutraceutical supplements with yeast β-glucan, prebiotics, minerals, and Silybum marianum (silymarin) ameliorate obesity-related metabolic and clinical parameters: 
+- new | 2022 | 33861657 | RCT | Oral silymarin formulation efficacy in management of AC-T protocol induced hepatotoxicity in breast cancer patients: A randomized, triple blind, placebo-controlled clinic
+- new | 2021 | 33587317 | SR | Systematic review of pharmacokinetics and potential pharmacokinetic interactions of flavonolignans from silymarin.
+- new | 2021 | 34620153 | RCT | Evaluation the effect of Silybum marianum ointment on episiotomy wound healing and pain intensity in primiparous women: a randomized triple blind clinical trial.
+- new | 2021 | 33934443 | RCT | Antioxidative effects of silymarin on the reduction of liver complications of fingolimod in patients with relapsing-remitting multiple sclerosis: A clinical trial study.
+- new | 2021 | 32081056 | RCT | Efficacy and Safety of a Traditional Herbal Combination in Patients with Type II Diabetes Mellitus: A Randomized Controlled Trial.
+- new | 2020 | 32124509 | SR | Herbal medicines and phytochemicals for obsessive-compulsive disorder.
+- new | 2020 | 31784970 | MA/SR | The Effects of a Fixed Combination of Berberis aristata and Silybum marianum on Dyslipidaemia - A Meta-analysis and Systematic Review.
+- new | 2020 | 32920285 | SR | Silymarin and neurodegenerative diseases: Therapeutic potential and basic molecular mechanisms.
+- new | 2020 | 32762030 | RCT | Evaluation of the effect of Silybum marianum extract on menopausal symptoms: A randomized, double-blind placebo-controlled trial.
+- new | 2020 | 30935260 | RCT | Can we consider silymarin as a treatment option for vitiligo? A double-blind controlled randomized clinical trial of phototherapy plus oral Silybum marianum product versu
+- new | 2019 | 30733935 | MA/Review | Prophylactic Therapy of Silymarin (Milk Thistle) on Antituberculosis Drug-Induced Liver Injury: A Meta-Analysis of Randomized Controlled Trials.
+- new | 2019 | 30479044 | RCT | Topical silymarin administration for prevention of acute radiodermatitis in breast cancer patients: A randomized, double-blind, placebo-controlled clinical trial.
+- new | 2019 | 30694881 | RCT | Milk Thistle Treatment for Children and Adults with Trichotillomania: A Double-Blind, Placebo-Controlled, Crossover Negative Study.
+- new | 2018 | 29895491 | RCT | Lower glycemic indices and lipid profile among type 2 diabetes mellitus patients who received novel dose of Silybum marianum (L.) Gaertn. (silymarin) extract supplement: 
+- new | 2018 | 28608581 | RCT | Effects of milk thistle meal on performance, ileal bacterial enumeration, jejunal morphology and blood lipid peroxidation in laying hens fed diets with different levels o
+- new | 2018 | 29273470 | RCT | Relative Bioavailability of Silybin A and Silybin B From 2 Multiconstituent Dietary Supplement Formulations Containing Milk Thistle Extract: A Single-dose Study.
+- new | 2017 | 28419855 | RCT | A Randomized Trial of Silymarin for the Treatment of Nonalcoholic Steatohepatitis.
+- new | 2017 | 29245314 | MA | The therapeutic effect of silymarin in the treatment of nonalcoholic fatty disease: A meta-analysis (PRISMA) of randomized control trials.
+- new | 2017 | 28635153 | RCT | Topical Silymarin Administration for Prevention of Capecitabine-Induced Hand-Foot Syndrome: A Randomized, Double-Blinded, Placebo-Controlled Clinical Trial.
+- new | 2017 | 29228792 | RCT | Silymarin, Olibanum, and Nettle, A Mixed Herbal Formulation in the Treatment of Type II Diabetes: A Randomized, Double-Blind, Placebo-Controlled, Clinical Trial.
+- new | 2017 | 28178209 | RCT | Effects of a Combination of Berberis aristata, Silybum marianum and Monacolin on Lipid Profile in Subjects at Low Cardiovascular Risk; A Double-Blind, Randomized, Placebo
+- new | 2017 | 28685558 | RCT | Bioimpedance analysis, metabolic effects and safety of the association Berberis aristata/Bilybum marianum: a 52-week double-blind, placebo-controlled study in obese patie
+- new | 2017 | 28765034 | RCT | Semen quality, antioxidant status and reproductive performance of rabbits bucks fed milk thistle seeds and rosemary leaves.
+- new | 2016 | 27555604 | RCT | Effect of Oral Silymarin Administration on Prevention of Radiotherapy Induced Mucositis: A Randomized, Double-Blinded, Placebo-Controlled Clinical Trial.
+- new | 2016 | 26243373 | RCT | Preventive use of a hepatoprotectant against anti-tuberculosis drug-induced liver injury: A randomized controlled trial.
+- new | 2016 | 26384091 | RCT | The role of a fixed Berberis aristata/Silybum marianum combination in the treatment of type 1 diabetes mellitus.
+- new | 2015 | 25765827 | RCT | Berberis aristata/Silybum marianum fixed combination (Berberol(®)) effects on lipid profile in dyslipidemic patients intolerant to statins at high dosages: a randomized, 
+- new | 2015 | 25577665 | RCT | Berberis aristata combined with Silybum marianum on lipid profile in patients not tolerating statins at high doses.
+- new | 2015 | 25765835 | RCT | Effects of Silybum marianum (L.) Gaertn. (silymarin) extract supplementation on antioxidant status and hs-CRP in patients with type 2 diabetes mellitus: a randomized, tri
+- new | 2014 | 25247194 | MA/Review | Effects and tolerance of silymarin (milk thistle) in chronic hepatitis C virus infection patients: a meta-analysis of randomized controlled trials.
+- new | 2014 | 25001663 | RCT | A randomized, placebo-controlled study on the effects of a nutraceutical combination of red yeast rice, silybum marianum and octasonol on lipid profile, endothelial and i
+- new | 2013 | 23971720 | RCT | Berberis aristata/Silybum marianum fixed combination on lipid profile and insulin secretion in dyslipidemic patients.
+- new | 2013 | 24152839 | RCT | Effects of Berberis aristata/Silybum marianum association on metabolic parameters and adipocytokines in overweight dyslipidemic patients.
+- new | 2013 | 24498803 | SR | Iranian medicinal plants for diabetes mellitus: a systematic review.
+- new | 2013 | 23278124 | RCT | A randomized double-blind, placebo-controlled study of therapeutic effects of silymarin in β-thalassemia major patients receiving desferrioxamine.
+- new | 2012 | 22797645 | RCT | Effect of silymarin (milk thistle) on liver disease in patients with chronic hepatitis C unsuccessfully treated with interferon therapy: a randomized controlled trial.
+- new | 2012 | 22058086 | RCT | Rationale, challenges, and participants in a Phase II trial of a botanical product for chronic hepatitis C.
+- new | 2011 | 22071637 | SR | Antidiabetic plants of Iran.
+- new | 2011 | 21843614 | MA/SR | Meta-analysis of the effect of herbal supplement on glycemic control in type 2 diabetes.
+- new | 2011 | 21865319 | RCT | Differences in the disposition of silymarin between patients with nonalcoholic fatty liver disease and chronic hepatitis C.
+- new | 2010 | 20035818 | RCT | Comparison of Silybum marianum (L.) Gaertn. with fluoxetine in the treatment of Obsessive-Compulsive Disorder.
+- new | 2010 | 19841158 | RCT | Silymarin ascending multiple oral dosing phase I study in noncirrhotic patients with chronic hepatitis C.
+- new | 2010 | 20858178 | SR | The efficacy and safety of herbal medicines used in the treatment of hyperlipidemia; a systematic review.
+- new | 2010 | 20014183 | RCT | A randomized, controlled, double-blind, pilot study of milk thistle for the treatment of hepatotoxicity in childhood acute lymphoblastic leukemia (ALL).
+- new | 2009 | 19275687 | SR | A systematic review of the potential herbal sources of future drugs effective in oxidant-related diseases.
+- new | 2009 | 19453758 | RCT | Combined therapy of silymarin and desferrioxamine in patients with beta-thalassemia major: a randomized double-blind clinical trial.
+- new | 2009 | 19303273 | RCT | A randomized controlled trial to assess the safety and efficacy of silymarin on symptoms, signs and biomarkers of acute hepatitis.
+- new | 2008 | 18334810 | MA/SR | An updated systematic review with meta-analysis for the clinical evidence of silymarin.
+- new | 2008 | 19048676 | RCT | Milk thistle may help improve liver health in people with HIV and hepatitis C.
+- new | 2007 | 17803742 | RCT | Effect of silymarin and vitamin E on gentamicin-induced nephrotoxicity in dogs.
+- new | 2007 | 17943794 | MA/SR | Milk thistle for alcoholic and/or hepatitis B or C virus liver diseases.
+- new | 2006 | 17072885 | RCT | The efficacy of Silybum marianum (L.) Gaertn. (silymarin) in the treatment of type II diabetes: a randomized, double-blind, placebo-controlled, clinical trial.
+- new | 2006 | 16221754 | RCT | Effect of milk thistle (Silybum marianum) and black cohosh (Cimicifuga racemosa) supplementation on digoxin pharmacokinetics in humans.
+- new | 2006 | 16460486 | RCT | Effects of Silybum marianum on serum hepatitis C virus RNA, alanine aminotransferase levels and well-being in patients with chronic hepatitis C.
+- new | 2006 | 16432272 | RCT | Assessing the clinical significance of botanical supplementation on human cytochrome P450 3A activity: comparison of a milk thistle and black cohosh product to rifampin a
+- new | 2005 | 15846671 | MA/SR | Milk thistle for alcoholic and/or hepatitis B or C virus liver diseases.
+- new | 2005 | 16279916 | MA/Review | Milk thistle for alcoholic and/or hepatitis B or C liver diseases--a systematic cochrane hepato-biliary group review with meta-analyses of randomized clinical trials.
+- new | 2005 | 15666173 | Clinical Trial/RCT | Milk thistle and indinavir: a randomized controlled pharmacokinetics study and meta-analysis.
+- new | 2005 | 16255756 | SR | Silymarin treatment of viral hepatitis: a systematic review.
+- new | 2004 | 15554059 | Clinical Trial/RCT | Efficacy of silymarin-phospholipid complex in reducing the toxicity of aflatoxin B1 in broiler chicks.
+- new | 2004 | 15153078 | Clinical Trial/RCT | Silymarin, a possible hepatoprotector in dairy cows: biochemical and histological observations.
+- new | 2004 | 16929590 | RCT | Does Silybum marianum play a role in the treatment of chronic hepatitis C?
+- new | 2004 | 15536458 | Clinical Trial/RCT | In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto.
+- new | 2002 | 12427501 | MA/SR | Milk thistle for the treatment of liver disease: a systematic review and meta-analysis.
+- new | 1989 | 2671116 | Clinical Trial/RCT | Randomized controlled trial of silymarin treatment in patients with cirrhosis of the liver.
+
+## solidago-canadensis (Solidago canadensis; Canadian goldenrod) - 0 (+CT) hits; query: ("Solidago canadensis"[tiab] OR "Canadian goldenrod"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## solidago-virgaurea (Solidago virgaurea; European goldenrod) - 0 (+CT) hits; query: ("Solidago virgaurea"[tiab] OR "European goldenrod"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## stachys-officinalis (Stachys officinalis; Wood Betony) - 1 (+CT) hits; query: ("Stachys officinalis"[tiab] OR "Wood Betony"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2013 | 23307315 | RCT | Phytotherapeutic management of polycystic ovary syndrome: role of aerial parts of wood betony (Stachys lavandulifolia).
+
+## stellaria-media (Stellaria media; Chickweed) - 0 (+CT) hits; query: ("Stellaria media"[tiab] OR "Chickweed"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## symphytum-officinale (Symphytum officinale; Common Comfrey) - 5 (+CT) hits; query: ("Symphytum officinale"[tiab] OR "Common Comfrey"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 40293848 | SR | Unveiling the Potential of Cell Line Models in Homeopathic Research: A Review.
+- HELD REF-0914 | 2020 | 32105669 | SR | A systematic review and quality assessment of case reports of adverse events for borage (Borago officinalis), coltsfoot (Tussilago farfara) and comfrey (Symphytum officin
+- new | 2016 | 26630428 | SR | Herbal Medicine for Low Back Pain: A Cochrane Review.
+- HELD REF-1261 | 2014 | 25536022 | MA/SR | Herbal medicine for low-back pain.
+- new | 2004 | 15500257 | Clinical Trial/RCT | Efficacy and tolerance of a comfrey root extract (Extr. Rad. Symphyti) in the treatment of ankle distorsions: results of a multicenter, randomized, placebo-controlled, do
+
+## syzygium-aromaticum (Syzygium aromaticum; Clove) - 20 (+CT) hits; query: ("Syzygium aromaticum"[tiab] OR "Clove"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2023 | 37039741 | SR | Systematic review on the anxiolytic and hypnotic effects of flower extracts in in vivo pre-clinical studies published from 2010 to 2020.
+- new | 2023 | 36961592 | RCT | Effect of clove mouthwash on the incidence of ventilator-associated pneumonia in intensive care unit patients: a comparative randomized triple-blind clinical trial.
+- new | 2022 | 35341944 | RCT | Aromatherapy blend of thyme, orange, clove bud, and frankincense boosts energy levels in post-COVID-19 female patients: A randomized, double-blinded, placebo controlled c
+- new | 2022 | 36152592 | SR | A comprehensive and systematic review on potential anticancer activities of eugenol: From pre-clinical evidence to molecular mechanisms of action.
+- new | 2021 | 33497803 | MA/Review | Effect of eugenol treatment in hyperglycemic murine models: A meta-analysis.
+- new | 2021 | 34929875 | SR | Essential oil as a new tool for larvicidal Aedes aegypti: A systematic review.
+- new | 2021 | 33064207 | RCT | The effects of a novel herbal toothpaste on salivary lactate dehydrogenase as a measure of cellular integrity.
+- new | 2019 | 31064377 | Clinical Trial | Water-soluble polyphenol-rich clove extract lowers pre- and post-prandial blood glucose levels in healthy and prediabetic volunteers: an open label pilot study.
+- new | 2018 | 30234415 | RCT | Clove Bud Polyphenols Alleviate Alterations in Inflammation and Oxidative Stress Markers Associated with Binge Drinking: A Randomized Double-Blinded Placebo-Controlled Cr
+- new | 2018 | 29022202 |  | Clove oil induces anaesthesia and blunts muscle contraction power in three Amazon fish species.
+- new | 2017 | 29231606 | RCT | [Clinical study of medicinal-cake-separated moxibustion for senile osteoporosis].
+- new | 2017 | 29231494 | Clinical Trial | [Optimization of acupoint application scheme in the treatment of bronchial asthma based on the orthogonal design method].
+- new | 2015 | 26778391 | RCT | The effects of an Ayurvedic medicinal toothpaste on clinical, microbiological and oral hygiene parameters in patients with chronic gingivitis: a double-blind, randomised,
+- new | 2014 | 23274083 | RCT | Investigation of the effectiveness of Syzygium aromaticum, Lavandula angustifolia and Geranium robertianum essential oils in the treatment of acute external otitis: a com
+- new | 2012 | 21831230 | RCT | The effect of supplementation of clove and agrimony or clove and lemon balm on growth performance, antioxidant status and selected indices of lipid profile of broiler chi
+- new | 2011 | 21542426 | RCT | A randomised double-blind placebo-controlled study on the effects of a herbal toothpaste on gingival bleeding, oral hygiene and microbial variables.
+- new | 2011 | 21170734 | RCT | Serum biochemical characteristics of Beluga, Huso huso (L.), in response to blood sampling after clove powder solution exposure.
+- new | 2007 | 17573751 | RCT | Clove oil cream: a new effective treatment for chronic anal fissure.
+- new | 2006 | 16530911 | RCT | The effect of clove and benzocaine versus placebo as topical anesthetics.
+- new | 2005 | 16041723 | Clinical Trial | Comparative repellency of 38 essential oils against mosquito bites.

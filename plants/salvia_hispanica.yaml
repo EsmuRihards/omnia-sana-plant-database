@@ -111,14 +111,12 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0297
   - REF-1264
   - REF-1271
   - REF-1272
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0297
   - REF-1263
   - REF-1264
   - REF-1266
@@ -126,43 +124,57 @@ actions:
   - REF-1272
   status: verified
 - action: digestive
-  reference_ids:
-  - REF-0297
-  status: verified
+  reference_ids: []
+  status: needs-review
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0297
   - REF-1271
 - condition: cardiovascular-support
   reference_ids:
   - REF-0297
   - REF-1265
+  - REF-1271
+  - REF-3739
+  - REF-3740
+  status: verified
+  null_result_ids:
   - REF-1267
   - REF-1268
-  - REF-1271
-  status: verified
+  note: Chia lowered blood pressure in meta-analyses of trials; earlier reviews found no significant effect
+    on most cardiovascular risk factors
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-1271
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0297
 - condition: metabolic-support
   reference_ids:
   - REF-0297
   status: verified
+  null_result_ids:
+  - REF-3743
+  - REF-3739
+  note: Chia reduced the blood sugar rise after a meal and prolonged fullness in a randomized trial; it
+    did not reduce body weight in trials or a meta-analysis
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0297
   - REF-1271
+- condition: high-blood-pressure
+  note: Chia lowered systolic and diastolic blood pressure in meta-analyses and in randomized trials in
+    people with hypertension or type 2 diabetes
+  reference_ids:
+  - REF-3739
+  - REF-3740
+  - REF-3741
+  - REF-3742
+  status: verified
 contraindications:
 - note: 'Never swallow a spoon of dry chia seeds and “chase” with water. They can swell fast and (rarely)
     cause a blockage, especially if someone already has swallowing problems (American College of Gastroenterology,
@@ -213,4 +225,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing metabolic-disorders review (REF-1263) and systematic
   review (REF-1264). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for seed
   (provisional: PFAF REF-3330, collected after flowering once the heads dry). Single lineage. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 15 - Deep audit. Glycaemia RCT REF-0297
+  removed from three non-matching actions. Chia MA REF-1267 and SR REF-1268 (no significant
+  CV-risk effect) moved to no-effect; BP MAs REF-3739/REF-3740 added. New pair (owner rule):
+  high-blood-pressure (2 MAs, 2 RCTs). Weight RCT REF-3743 and MA REF-3739 (no BMI/weight effect)
+  no-effect for metabolic-support.'

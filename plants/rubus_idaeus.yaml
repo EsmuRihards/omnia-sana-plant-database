@@ -108,13 +108,11 @@ dosage:
 actions:
 - action: antidiarrheal
   note: Astringent for mild diarrhoea (tannins)
-  reference_ids:
-  - REF-0497
+  reference_ids: []
   status: needs-review
 - action: astringent
   note: Astringent for menstrual cramps (traditional); Astringent for mild diarrhoea (tannins)
-  reference_ids:
-  - REF-0497
+  reference_ids: []
   status: needs-review
 - action: emmenagogue
   note: Traditional uterine tonic taken in late pregnancy to tone the uterus and support labour - one
@@ -122,22 +120,24 @@ actions:
     on the first stage), alongside observational signals; robust proof is still lacking
   reference_ids:
   - REF-0497
-  - REF-0498
-  - REF-0607
-  - REF-1541
   status: needs-review
 indications:
-- condition: menstrual-cramps
-  note: Astringent for menstrual cramps (traditional)
-  reference_ids:
-  - REF-1541
-  - REF-2575
-  status: needs-review
 - condition: pregnancy-support
   reference_ids:
   - REF-0497
   - REF-2574
   status: needs-review
+  null_result_ids:
+  - REF-0607
+  - REF-3735
+  note: 'Widely used to prepare for labour: an observational study linked it to less labour augmentation,
+    but a randomized trial found it did not shorten labour, and reviews judge the evidence weak, with
+    a possible negative effect on cervical ripening'
+- condition: arthritis
+  note: A raspberry leaf extract relieved knee osteoarthritis pain vs placebo in a randomized trial
+  reference_ids:
+  - REF-1538
+  status: verified
 contraindications:
 - note: Despite widespread popular use, there is no robust (randomised-trial) evidence of efficacy or
     safety. Use in pregnancy should be discussed with a midwife or doctor and is generally reserved for
@@ -160,6 +160,7 @@ references:
 - REF-2574
 - REF-2575
 - REF-2576
+- REF-0498
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -182,4 +183,11 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   sourced from the existing pregnancy observational study (REF-0497), pregnancy survey (REF-0498) and
   phenolic-composition study (REF-1536). | 2026-08-15: Harvest Calendar (phenological) - added
   harvest_readiness for leaf (provisional: PFAF REF-3328, gathered in summer). Single lineage. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 15 - Deep audit (2nd pass + deep).
+  Menstrual-cramps dropped: its two cards (guinea-pig ileum relaxation; rat endometriosis) never
+  name cramps. Pregnancy observational study REF-0497 (tagged rct; retagged clinical) removed from
+  antidiarrheal/astringent; survey REF-0498 (retagged clinical), labour RCT REF-0607 (null) and
+  REF-1541 removed from the emmenagogue action. REF-0607 and the 2021 SR REF-3735 ("evidence base
+  weak") recorded as no-effect for pregnancy-support; REF-2574 retagged narrative-review. New pair
+  (owner rule): arthritis (held knee OA RCT REF-1538).'

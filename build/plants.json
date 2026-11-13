@@ -19877,7 +19877,7 @@
       "REF-2295"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 7,
      "label": "Cognitive function"
     },
     {
@@ -19912,7 +19912,7 @@
       "REF-3551",
       "REF-2291"
      ],
-     "evidence": 2,
+     "evidence": 7,
      "label": "Fatigue / low energy"
     },
     {
@@ -19926,7 +19926,7 @@
      "mechanistic_exclude_ids": [
       "REF-0509"
      ],
-     "evidence": 2,
+     "evidence": 7,
      "label": "Immune support"
     },
     {
@@ -19962,7 +19962,7 @@
      "null_result_ids": [
       "REF-3393"
      ],
-     "evidence": 2,
+     "evidence": 7,
      "label": "Stress"
     }
    ],
@@ -49940,43 +49940,25 @@
     {
      "action": "antidiarrheal",
      "note": "Astringent for mild diarrhoea (tannins)",
-     "reference_ids": [
-      "REF-0497"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     },
     {
      "action": "astringent",
      "note": "Astringent for menstrual cramps (traditional); Astringent for mild diarrhoea (tannins)",
-     "reference_ids": [
-      "REF-0497"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     },
     {
      "action": "emmenagogue",
      "note": "Traditional uterine tonic taken in late pregnancy to tone the uterus and support labour - one small double-blind RCT found a shorter second stage of labour and fewer forceps deliveries (no effect on the first stage), alongside observational signals; robust proof is still lacking",
      "reference_ids": [
-      "REF-0497",
-      "REF-0498",
-      "REF-0607",
-      "REF-1541"
+      "REF-0497"
      ],
      "status": "needs-review"
     }
    ],
    "indications": [
-    {
-     "condition": "menstrual-cramps",
-     "note": "Astringent for menstrual cramps (traditional)",
-     "reference_ids": [
-      "REF-1541",
-      "REF-2575"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Menstrual cramps"
-    },
     {
      "condition": "pregnancy-support",
      "reference_ids": [
@@ -49984,8 +49966,23 @@
       "REF-2574"
      ],
      "status": "needs-review",
-     "evidence": 6,
+     "null_result_ids": [
+      "REF-0607",
+      "REF-3735"
+     ],
+     "note": "Widely used to prepare for labour: an observational study linked it to less labour augmentation, but a randomized trial found it did not shorten labour, and reviews judge the evidence weak, with a possible negative effect on cervical ripening",
+     "evidence": 3,
      "label": "Pregnancy support"
+    },
+    {
+     "condition": "arthritis",
+     "note": "A raspberry leaf extract relieved knee osteoarthritis pain vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-1538"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Arthritis / joint pain"
     }
    ],
    "contraindications": [
@@ -50011,7 +50008,8 @@
     "REF-1543",
     "REF-2574",
     "REF-2575",
-    "REF-2576"
+    "REF-2576",
+    "REF-0498"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -50169,9 +50167,7 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
-      "REF-0897",
-      "REF-0898"
+      "REF-0098"
      ],
      "status": "verified"
     },
@@ -50180,8 +50176,7 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0892",
-      "REF-0897"
+      "REF-0892"
      ],
      "status": "verified"
     },
@@ -50190,9 +50185,7 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0896",
-      "REF-0897",
-      "REF-0898"
+      "REF-0896"
      ],
      "status": "verified"
     },
@@ -50200,8 +50193,7 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
-      "REF-0898"
+      "REF-0098"
      ],
      "status": "verified"
     },
@@ -50216,46 +50208,27 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0048",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "bloating",
-     "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0048",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Bloating"
-    },
-    {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Its compounds were active against stomach Helicobacter pylori in the lab (preclinical)",
      "reference_ids": [
-      "REF-0048",
-      "REF-0098",
       "REF-0892"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0048",
+      "REF-0098"
+     ],
      "evidence": 2,
      "label": "Indigestion"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Juice with vinegar was a traditional cure for ringworm (Grieve, A Modern Herbal); its compounds were active against stomach Helicobacter pylori in the lab (preclinical)",
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0892"
+      "REF-0892",
+      "REF-3761"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -50263,7 +50236,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally used to cool inflammation (old herbal quoted in Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0048",
       "REF-0098"
@@ -50274,10 +50247,11 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally applied for ringworm and skin complaints (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0048",
-      "REF-0098"
+      "REF-0098",
+      "REF-3761"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -50285,51 +50259,15 @@
     },
     {
      "condition": "swelling",
-     "note": "inferred from diuretic action",
+     "note": "Traditional diuretic (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0048",
-      "REF-0098"
+      "REF-0098",
+      "REF-3761"
      ],
      "status": "needs-review",
      "evidence": 1,
      "label": "Swelling / fluid retention"
-    },
-    {
-     "condition": "urinary-support",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0048",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary support"
-    },
-    {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
-     "reference_ids": [
-      "REF-0048",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
-    },
-    {
-     "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [
-      "REF-0048",
-      "REF-0098",
-      "REF-0897"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0892"
-     ],
-     "evidence": 1,
-     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -50535,7 +50473,6 @@
       "REF-0424",
       "REF-0425",
       "REF-1554",
-      "REF-1556",
       "REF-2591"
      ],
      "status": "verified"
@@ -50546,13 +50483,9 @@
      "reference_ids": [
       "REF-0424",
       "REF-0425",
-      "REF-0595",
       "REF-1553",
       "REF-1554",
-      "REF-1555",
-      "REF-1556",
       "REF-1558",
-      "REF-1560",
       "REF-2590"
      ],
      "status": "verified"
@@ -50561,7 +50494,7 @@
    "indications": [
     {
      "condition": "hemorrhoids",
-     "note": "Relief of haemorrhoid symptoms",
+     "note": "Used for haemorrhoid symptoms (reviews)",
      "reference_ids": [
       "REF-0424",
       "REF-0425"
@@ -50574,43 +50507,32 @@
      "label": "Haemorrhoids"
     },
     {
-     "condition": "pain",
-     "note": "Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl chalcone and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo",
-     "reference_ids": [
-      "REF-0424",
-      "REF-0425",
-      "REF-0595"
-     ],
-     "status": "verified",
-     "evidence": 7,
-     "label": "Pain (general)"
-    },
-    {
      "condition": "swelling",
-     "note": "Anti-oedematous (reduces leg swelling)",
+     "note": "Butcher's broom extract reduced lower-leg volume and ankle swelling vs placebo in chronic venous insufficiency in a randomized trial",
      "reference_ids": [
-      "REF-0424",
-      "REF-0425"
+      "REF-0425",
+      "REF-1554"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-1558"
+      "REF-1558",
+      "REF-0424"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Swelling / fluid retention"
     },
     {
      "condition": "varicose-veins",
-     "note": "Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl chalcone and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo",
+     "note": "Butcher's broom extract reduced leg volume and swelling vs placebo in women with chronic venous insufficiency in a randomized trial; used for venous insufficiency and varicose veins (reviews)",
      "reference_ids": [
       "REF-0424",
       "REF-0425",
-      "REF-0595",
       "REF-2590",
-      "REF-2591"
+      "REF-2591",
+      "REF-1554"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 5,
      "label": "Varicose veins"
     }
    ],
@@ -50645,7 +50567,8 @@
     "REF-1560",
     "REF-1561",
     "REF-2590",
-    "REF-2591"
+    "REF-2591",
+    "REF-0595"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -50798,7 +50721,6 @@
       "REF-0530",
       "REF-0592",
       "REF-1253",
-      "REF-1260",
       "REF-1261"
      ],
      "status": "verified"
@@ -50810,8 +50732,7 @@
       "REF-0529",
       "REF-0530",
       "REF-0592",
-      "REF-1253",
-      "REF-1256"
+      "REF-1253"
      ],
      "status": "verified"
     },
@@ -50827,28 +50748,31 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "Relief of joint pain, osteoarthritis and rheumatic complaints",
+     "note": "Willow bark extract eased osteoarthritis pain moderately vs placebo in one randomized trial but showed no relevant effect in another; traditional use for minor joint pain (EU herbal monograph)",
      "reference_ids": [
       "REF-0529",
-      "REF-0530"
+      "REF-0530",
+      "REF-3736"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0592",
-      "REF-1256"
+      "REF-0592"
      ],
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-3737"
+     ],
+     "evidence": 8,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "back-pain",
-     "note": "Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240 mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks",
+     "note": "Willow bark extract (about 240 mg salicin daily) relieved low back pain vs placebo and matched rofecoxib in randomized trials (moderate evidence; Cochrane review)",
      "reference_ids": [
       "REF-0529",
       "REF-0530",
       "REF-0592",
-      "REF-1260",
-      "REF-1261"
+      "REF-1261",
+      "REF-3738"
      ],
      "status": "verified",
      "evidence": 9,
@@ -50873,35 +50797,33 @@
      "mechanistic_exclude_ids": [
       "REF-0529",
       "REF-0592",
-      "REF-1260",
       "REF-1261"
      ],
+     "note": "Traditional use for headache (EU herbal monograph)",
      "evidence": 1,
      "label": "Headache"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0529",
-      "REF-0530",
-      "REF-0592"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1256"
+      "REF-0529",
+      "REF-0592",
+      "REF-0530"
      ],
-     "evidence": 8,
+     "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "pain",
-     "note": "Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240 mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks; Relief of joint pain, osteoarthritis and rheumatic complaints",
+     "note": "Willow bark relieved low back pain in randomized trials (moderate evidence) and eased osteoarthritis pain in some trials; traditional use for minor joint pain and headache (EU herbal monograph)",
      "reference_ids": [
       "REF-0529",
       "REF-0530",
       "REF-0592",
-      "REF-1260"
+      "REF-3738"
      ],
      "status": "verified",
      "evidence": 9,
@@ -50915,8 +50837,7 @@
      "mechanistic_exclude_ids": [
       "REF-0529",
       "REF-0530",
-      "REF-0592",
-      "REF-1256"
+      "REF-0592"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -50948,7 +50869,6 @@
     "REF-1257",
     "REF-1258",
     "REF-1259",
-    "REF-1260",
     "REF-1261",
     "REF-1262"
    ],
@@ -51101,7 +51021,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0297",
       "REF-1264",
       "REF-1271",
       "REF-1272"
@@ -51111,7 +51030,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0297",
       "REF-1263",
       "REF-1264",
       "REF-1266",
@@ -51122,10 +51040,8 @@
     },
     {
      "action": "digestive",
-     "reference_ids": [
-      "REF-0297"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     }
    ],
    "indications": [
@@ -51135,7 +51051,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0297",
       "REF-1271"
      ],
      "evidence": 1,
@@ -51146,11 +51061,16 @@
      "reference_ids": [
       "REF-0297",
       "REF-1265",
-      "REF-1267",
-      "REF-1268",
-      "REF-1271"
+      "REF-1271",
+      "REF-3739",
+      "REF-3740"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-1267",
+      "REF-1268"
+     ],
+     "note": "Chia lowered blood pressure in meta-analyses of trials; earlier reviews found no significant effect on most cardiovascular risk factors",
      "evidence": 9,
      "label": "Cardiovascular / heart health"
     },
@@ -51161,9 +51081,6 @@
       "REF-1271"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0297"
-     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -51173,6 +51090,11 @@
       "REF-0297"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3743",
+      "REF-3739"
+     ],
+     "note": "Chia reduced the blood sugar rise after a meal and prolonged fullness in a randomized trial; it did not reduce body weight in trials or a meta-analysis",
      "evidence": 5,
      "label": "Metabolic support"
     },
@@ -51182,11 +51104,23 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0297",
       "REF-1271"
      ],
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Chia lowered systolic and diastolic blood pressure in meta-analyses and in randomized trials in people with hypertension or type 2 diabetes",
+     "reference_ids": [
+      "REF-3739",
+      "REF-3740",
+      "REF-3741",
+      "REF-3742"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [
@@ -51402,7 +51336,6 @@
       "REF-0502",
       "REF-0503",
       "REF-1273",
-      "REF-1274",
       "REF-1279"
      ],
      "status": "verified"
@@ -51421,26 +51354,29 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "Memory and cognitive-function support (enhances cognition in healthy subjects and people with dementia)",
+     "note": "Sage extract improved cognition in mild to moderate Alzheimer's disease and memory, attention and mood in healthy people in randomized trials; a systematic review notes methodological weaknesses",
      "reference_ids": [
       "REF-0502",
       "REF-0503",
-      "REF-1274",
-      "REF-1279"
+      "REF-1279",
+      "REF-3748",
+      "REF-3749",
+      "REF-3751"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 9,
      "label": "Cognitive function"
     },
     {
      "condition": "hot-flashes",
-     "note": "Reduces excessive sweating, including menopausal hot flushes and night sweats",
+     "note": "Sage reduced hot flash frequency in a meta-analysis of trials; traditional use for excessive sweating (EU herbal monograph)",
      "reference_ids": [
       "REF-0501",
-      "REF-1276"
+      "REF-1276",
+      "REF-3744"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 7,
      "label": "Hot flashes"
     },
     {
@@ -51465,35 +51401,80 @@
     },
     {
      "condition": "memory",
-     "note": "Memory and cognitive-function support (enhances cognition in healthy subjects and people with dementia)",
+     "note": "Sage extract improved memory in healthy older adults and cognition in mild to moderate Alzheimer's disease in randomized trials",
      "reference_ids": [
       "REF-0502",
       "REF-0503",
-      "REF-1274",
-      "REF-1279"
+      "REF-1279",
+      "REF-3748",
+      "REF-3751"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 9,
      "label": "Memory"
     },
     {
      "condition": "menopause",
      "reference_ids": [
-      "REF-1276"
+      "REF-1276",
+      "REF-3744"
      ],
      "status": "needs-review",
-     "evidence": 2,
+     "note": "Sage reduced menopausal hot flashes in a meta-analysis of trials; its extract had estrogen-like effects in rats (preclinical)",
+     "evidence": 7,
      "label": "Menopause"
     },
     {
      "condition": "sore-throat",
-     "note": "Gargle/rinse for sore throat and inflammation of the mouth and throat",
+     "note": "A 15% sage spray relieved acute pharyngitis vs placebo in a randomized trial; traditional gargle for mouth and throat inflammation (EU herbal monograph)",
      "reference_ids": [
-      "REF-0501"
+      "REF-0501",
+      "REF-3750"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Sore throat"
+    },
+    {
+     "condition": "pms",
+     "note": "Sage reduced the psychological and physical symptoms of PMS in a randomized trial",
+     "reference_ids": [
+      "REF-3745"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Sage leaf extract lowered total and LDL cholesterol and raised HDL vs placebo in randomized trials",
+     "reference_ids": [
+      "REF-3746",
+      "REF-3747"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Sage leaves improved blood sugar control in hyperlipidaemic type 2 diabetes in a randomized trial",
+     "reference_ids": [
+      "REF-3747"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "skin-irritation",
+     "note": "A sage extract cream reduced UV-induced skin redness as much as hydrocortisone vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3752"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Skin irritation"
     }
    ],
    "contraindications": [
@@ -51696,7 +51677,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0112",
-      "REF-0173",
       "REF-0194",
       "REF-1283",
       "REF-1285"
@@ -51714,7 +51694,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0112",
-      "REF-0173",
       "REF-0194",
       "REF-1283",
       "REF-1286"
@@ -51725,7 +51704,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0112",
-      "REF-0173",
       "REF-0194",
       "REF-1283"
      ],
@@ -51736,7 +51714,6 @@
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
       "REF-0112",
-      "REF-0173",
       "REF-0194"
      ],
      "status": "verified"
@@ -51745,7 +51722,6 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0112",
-      "REF-0173",
       "REF-0194",
       "REF-1292"
      ],
@@ -51774,7 +51750,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0173",
       "REF-1285"
      ],
      "evidence": 1,
@@ -51788,7 +51763,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0173",
       "REF-0194"
      ],
      "evidence": 1,
@@ -51810,23 +51784,25 @@
       "REF-0112"
      ],
      "status": "verified",
+     "note": "Traditional use (Medical Herbalism)",
      "evidence": 1,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Rosemary extract improved cognitive function in COPD patients in a randomized trial and memory in students; it improved cognition in animal studies (meta-analysis)",
      "reference_ids": [
       "REF-0112",
       "REF-0173",
-      "REF-1290"
+      "REF-1290",
+      "REF-3754"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0194",
       "REF-1287"
      ],
-     "evidence": 8,
+     "evidence": 9,
      "label": "Cognitive function"
     },
     {
@@ -51837,7 +51813,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0173",
       "REF-0194"
      ],
      "evidence": 1,
@@ -51851,9 +51826,6 @@
       "REF-0194"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0173"
-     ],
      "evidence": 1,
      "label": "Infection (general)"
     },
@@ -51866,15 +51838,12 @@
       "REF-1285"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0173"
-     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
+     "note": "Rosemary improved prospective and retrospective memory in university students in a randomized trial; rosemary aroma improved memory quality; cognition improved in animal studies (meta-analysis)",
      "reference_ids": [
       "REF-0112",
       "REF-0173",
@@ -51897,25 +51866,10 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0173",
       "REF-0194"
      ],
      "evidence": 1,
      "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0112"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0173",
-      "REF-0194"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
     },
     {
      "condition": "skin-irritation",
@@ -51926,7 +51880,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0173",
       "REF-1285"
      ],
      "evidence": 1,
@@ -51934,18 +51887,61 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
+     "note": "A rosemary cream improved episiotomy wound healing in a randomized trial",
      "reference_ids": [
       "REF-0112",
-      "REF-0194"
+      "REF-0194",
+      "REF-3755"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0173",
       "REF-1286"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Wounds"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Rosemary reduced anxiety in randomized trials in students, in major depression as an add-on, and before surgery (aromatherapy)",
+     "reference_ids": [
+      "REF-1291",
+      "REF-3753",
+      "REF-3757"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "depression",
+     "note": "Rosemary reduced depression scores in randomized trials in students and as an add-on in major depression",
+     "reference_ids": [
+      "REF-1291",
+      "REF-3753"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Low mood / depression"
+    },
+    {
+     "condition": "insomnia",
+     "note": "Rosemary improved sleep quality in university students in a randomized trial",
+     "reference_ids": [
+      "REF-1291"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Insomnia / sleeplessness"
+    },
+    {
+     "condition": "oral-health",
+     "note": "A rosemary toothpaste reduced gum bleeding and plaque vs conventional toothpaste in a randomized trial",
+     "reference_ids": [
+      "REF-3756"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Oral & throat health"
     }
    ],
    "contraindications": [
@@ -52213,31 +52209,39 @@
     },
     {
      "condition": "cold",
-     "note": "inferred from antiviral action",
+     "note": "Traditional use for the early symptoms of colds (EU herbal monograph, elder flower); elderberry shortened colds in air travellers and eased flu symptoms in small trials and a meta-analysis, but a larger 2020 trial found no benefit in influenza and a systematic review called the evidence uncertain",
      "reference_ids": [
       "REF-0085",
       "REF-0316",
-      "REF-1016"
+      "REF-1016",
+      "REF-3760"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "null_result_ids": [
+      "REF-3758",
+      "REF-3759"
+     ],
+     "evidence": 9,
      "label": "Cold & flu"
     },
     {
      "condition": "infection",
-     "note": "inferred from antiviral action",
+     "note": "Elderberry extract eased influenza symptoms in a small randomized trial, but a larger 2020 trial found no benefit; antiviral activity reviewed",
      "reference_ids": [
       "REF-0085",
       "REF-0316",
       "REF-1023"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-3759"
+     ],
      "evidence": 5,
      "label": "Infection (general)"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Elderberry extracts reduced inflammatory and oxidative markers in cells (preclinical)",
      "reference_ids": [
       "REF-1019"
      ],
@@ -52254,10 +52258,13 @@
      "reference_ids": [
       "REF-0085",
       "REF-0316",
-      "REF-1016",
-      "REF-1018"
+      "REF-1016"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3759"
+     ],
+     "note": "Black elderberry reduced upper respiratory symptoms in a meta-analysis of small trials; a larger 2020 influenza trial found no benefit",
      "evidence": 8,
      "label": "Respiratory support"
     },
@@ -52276,17 +52283,16 @@
    ],
    "contraindications": [
     {
-     "note": "The dark blue or purple berries are mildly poisonous in their raw state, but are edible after cooking.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-nccih-26https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-Fagan-2019-28 Components of the elderberry plant, including its fruit, contain diverse https://en.wikipedia.org/wiki/Phytochemical, such as https://en.wikipedia.org/wiki/Alkaloid, https://en.wikipedia.org/wiki/Lectin, and cyanogenic glycosides, which may be toxic if consumed raw.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8 Consumption of berries, leaves, bark or stems, if not properly prepared, may cause https://en.wikipedia.org/wiki/Nausea, vomiting, and severe https://en.wikipedia.org/wiki/Diarrhea.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-nccih-26https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-msk-27 Elderberry plant constituents or products should not be consumed during pregnancy or by people with https://en.wikipedia.org/wiki/Allergy or https://en.wikipedia.org/wiki/Gastrointestinal_disease.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-msk-27 Elderberry products may cause https://en.wikipedia.org/wiki/Adverse_effect when used with https://en.wikipedia.org/wiki/Prescription_drug.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-msk-27",
+     "note": "Raw or unripe elderberries and the leaves and stems contain cyanide-producing substances that can cause nausea, vomiting and severe diarrhoea; cooking the berries eliminates the toxin, and large amounts may cause serious illness (NCCIH). Use in pregnancy and breastfeeding is not recommended because safety has not been established (EU herbal monograph; NCCIH). Do not use if allergic to elder. If you take any medicine, talk with your health care provider first, as some herbs and medicines interact (NCCIH).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0085",
-      "REF-0243",
-      "REF-0316"
+      "REF-3763",
+      "REF-0085"
      ],
      "status": "verified"
     },
     {
-     "note": "Duke (2002) rates elderflower and elderberry as +++ with clinical evidence (score 2) for bronchostimulant, diaphoretic, and secretagogue activities, consistent with Commission E approval. Clinical use for colds, bronchitis, and fever is well-supported. Dose: dried flower: 3–5 g as tea three times daily. Important safety consideration: raw elderberries and elder bark contain sambunigrin (cyanogenic glycoside) and lectins - always cook berries before consumption, and avoid bark preparations for medicinal use without expert guidance (Duke, 2002).",
+     "note": "Duke (2002) rates elderflower and elderberry as +++ with clinical evidence (score 2) for bronchostimulant, diaphoretic, and secretagogue activities, consistent with Commission E approval. Dose: dried flower: 3-5 g as tea three times daily. Important safety consideration: raw elderberries and elder bark contain sambunigrin (cyanogenic glycoside) and lectins - always cook berries before consumption, and avoid bark preparations for medicinal use without expert guidance (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
       "REF-0085",
@@ -52484,7 +52490,7 @@
    "indications": [
     {
      "condition": "bronchitis",
-     "note": "Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough reflex and loosen mucus) - largely an outdated use",
+     "note": "Traditional expectorant for cough and bronchitis, now largely outdated; no scientific studies support it (MedicineNet; Drugs.com)",
      "reference_ids": [
       "REF-0511",
       "REF-0512"
@@ -52495,7 +52501,7 @@
     },
     {
      "condition": "cough",
-     "note": "Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough reflex and loosen mucus) - largely an outdated use",
+     "note": "Traditional expectorant for cough and bronchitis, now largely outdated; no scientific studies support it (MedicineNet; Drugs.com)",
      "reference_ids": [
       "REF-0511",
       "REF-0512"
@@ -52505,18 +52511,8 @@
      "label": "Cough"
     },
     {
-     "condition": "detox",
-     "note": "Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional for eczema)",
-     "reference_ids": [
-      "REF-0512"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Detox / cleansing"
-    },
-    {
      "condition": "eczema",
-     "note": "Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional for eczema)",
+     "note": "Traditionally applied to eczema and other skin conditions; no scientific studies support it (MedicineNet)",
      "reference_ids": [
       "REF-0512"
      ],
@@ -52526,7 +52522,7 @@
     },
     {
      "condition": "respiratory-support",
-     "note": "Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough reflex and loosen mucus) - largely an outdated use",
+     "note": "Traditional expectorant for respiratory complaints, now largely outdated; no scientific studies support it (MedicineNet; Drugs.com)",
      "reference_ids": [
       "REF-0511",
       "REF-0512"
@@ -52534,12 +52530,22 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Respiratory support"
+    },
+    {
+     "condition": "detox",
+     "note": "Traditional alterative (\"blood-cleansing\") remedy (Grieve, A Modern Herbal)",
+     "reference_ids": [
+      "REF-3762"
+     ],
+     "status": "verified",
+     "evidence": 1,
+     "label": "Detox / cleansing"
     }
    ],
    "contraindications": [
     {
      "note": "SERIOUS: the saponins are irritant and can cause haemolysis (destruction of red blood cells). Never take soapwort in large doses or for prolonged periods. Internal use can cause severe gastrointestinal irritation (cramps, nausea, vomiting, diarrhoea).",
-     "severity": "info",
+     "severity": "serious",
      "reference_ids": [
       "REF-0511",
       "REF-0512"
@@ -52764,27 +52770,25 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0505"
-     ],
+     "note": "Schisandra extract eased osteoarthritis in rats (preclinical)",
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1884",
-      "REF-1885"
+      "REF-1885",
+      "REF-0505"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cognitive-function",
-     "note": "Cognitive-function support (concentration and mental performance)",
+     "note": "Adaptogens including schisandra improved cognition in a review with meta-analysis",
      "reference_ids": [
-      "REF-0505",
       "REF-0506"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 7,
      "label": "Cognitive function"
     },
     {
@@ -52800,16 +52804,16 @@
     },
     {
      "condition": "fatigue",
-     "note": "Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)",
+     "note": "Adaptogens including schisandra helped chronic fatigue in a review with meta-analysis; Russian studies report greater stamina (review)",
      "reference_ids": [
-      "REF-0505",
       "REF-0506"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-1883"
+      "REF-1883",
+      "REF-0505"
      ],
-     "evidence": 2,
+     "evidence": 7,
      "label": "Fatigue / low energy"
     },
     {
@@ -52834,7 +52838,7 @@
     },
     {
      "condition": "liver-support",
-     "note": "Hepatoprotective / liver support (antioxidant and mitoprotective)",
+     "note": "Schisandra protected the liver in animal and cell studies (reviews; preclinical)",
      "reference_ids": [
       "REF-0505",
       "REF-0583"
@@ -52856,15 +52860,14 @@
     {
      "condition": "muscle-soreness",
      "note": "inferred from ergogenic action",
-     "reference_ids": [
+     "reference_ids": [],
+     "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-1883",
       "REF-0505",
       "REF-0506"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1883"
-     ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Muscle soreness"
     },
     {
@@ -52884,13 +52887,15 @@
     },
     {
      "condition": "stress",
-     "note": "Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)",
+     "note": "Adaptogen for stress (review with meta-analysis; review of Russian research)",
      "reference_ids": [
-      "REF-0505",
       "REF-0506"
      ],
      "status": "verified",
-     "evidence": 2,
+     "mechanistic_exclude_ids": [
+      "REF-0505"
+     ],
+     "evidence": 7,
      "label": "Stress"
     }
    ],

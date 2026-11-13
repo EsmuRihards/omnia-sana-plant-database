@@ -169,21 +169,30 @@ indications:
   - REF-0085
   - REF-0316
 - condition: cold
-  note: inferred from antiviral action
+  note: Traditional use for the early symptoms of colds (EU herbal monograph, elder flower); elderberry
+    shortened colds in air travellers and eased flu symptoms in small trials and a meta-analysis, but
+    a larger 2020 trial found no benefit in influenza and a systematic review called the evidence uncertain
   reference_ids:
   - REF-0085
   - REF-0316
   - REF-1016
+  - REF-3760
   status: needs-review
+  null_result_ids:
+  - REF-3758
+  - REF-3759
 - condition: infection
-  note: inferred from antiviral action
+  note: Elderberry extract eased influenza symptoms in a small randomized trial, but a larger 2020 trial
+    found no benefit; antiviral activity reviewed
   reference_ids:
   - REF-0085
   - REF-0316
   - REF-1023
   status: needs-review
+  null_result_ids:
+  - REF-3759
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Elderberry extracts reduced inflammatory and oxidative markers in cells (preclinical)
   reference_ids:
   - REF-1019
   status: needs-review
@@ -195,8 +204,11 @@ indications:
   - REF-0085
   - REF-0316
   - REF-1016
-  - REF-1018
   status: verified
+  null_result_ids:
+  - REF-3759
+  note: Black elderberry reduced upper respiratory symptoms in a meta-analysis of small trials; a larger
+    2020 influenza trial found no benefit
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -205,28 +217,22 @@ indications:
   - REF-0085
   - REF-0316
 contraindications:
-- note: The dark blue or purple berries are mildly poisonous in their raw state, but are edible after
-    cooking.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-nccih-26https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-Fagan-2019-28
-    Components of the elderberry plant, including its fruit, contain diverse https://en.wikipedia.org/wiki/Phytochemical,
-    such as https://en.wikipedia.org/wiki/Alkaloid, https://en.wikipedia.org/wiki/Lectin, and cyanogenic
-    glycosides, which may be toxic if consumed raw.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8
-    Consumption of berries, leaves, bark or stems, if not properly prepared, may cause https://en.wikipedia.org/wiki/Nausea,
-    vomiting, and severe https://en.wikipedia.org/wiki/Diarrhea.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-nccih-26https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-msk-27
-    Elderberry plant constituents or products should not be consumed during pregnancy or by people with
-    https://en.wikipedia.org/wiki/Allergy or https://en.wikipedia.org/wiki/Gastrointestinal_disease.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-msk-27
-    Elderberry products may cause https://en.wikipedia.org/wiki/Adverse_effect when used with https://en.wikipedia.org/wiki/Prescription_drug.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-msk-27
+- note: Raw or unripe elderberries and the leaves and stems contain cyanide-producing substances that
+    can cause nausea, vomiting and severe diarrhoea; cooking the berries eliminates the toxin, and large
+    amounts may cause serious illness (NCCIH). Use in pregnancy and breastfeeding is not recommended because
+    safety has not been established (EU herbal monograph; NCCIH). Do not use if allergic to elder. If
+    you take any medicine, talk with your health care provider first, as some herbs and medicines interact
+    (NCCIH).
   severity: caution
   reference_ids:
+  - REF-3763
   - REF-0085
-  - REF-0243
-  - REF-0316
   status: verified
 - note: 'Duke (2002) rates elderflower and elderberry as +++ with clinical evidence (score 2) for bronchostimulant,
-    diaphoretic, and secretagogue activities, consistent with Commission E approval. Clinical use for
-    colds, bronchitis, and fever is well-supported. Dose: dried flower: 3–5 g as tea three times daily.
-    Important safety consideration: raw elderberries and elder bark contain sambunigrin (cyanogenic glycoside)
-    and lectins - always cook berries before consumption, and avoid bark preparations for medicinal use
-    without expert guidance (Duke, 2002).'
+    diaphoretic, and secretagogue activities, consistent with Commission E approval. Dose: dried flower:
+    3-5 g as tea three times daily. Important safety consideration: raw elderberries and elder bark contain
+    sambunigrin (cyanogenic glycoside) and lectins - always cook berries before consumption, and avoid
+    bark preparations for medicinal use without expert guidance (Duke, 2002).'
   severity: caution
   reference_ids:
   - REF-0085
@@ -293,4 +299,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   review (REF-1015) and respiratory-symptom meta-analysis (REF-1016). | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for flower (early summer, in bloom) + fruit (autumn, ripe),
   both provisional: PFAF REF-3332. SAFETY: raw berries/leaves cyanogenic + toxic Sambucus ebulus lookalike
-  (droop vs upright clusters). Binomial confirmed.'
+  (droop vs upright clusters). Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 15 - Deep audit. COVID pros/cons review
+  REF-1018 removed from respiratory-support. Air-traveller RCT REF-3760 added to cold; Macknin
+  2020 influenza RCT REF-3759 (no benefit) and Wieland 2021 SR REF-3758 (evidence uncertain)
+  recorded as no-effect. Four reviews retagged narrative-review. Safety note #1 was pasted
+  Wikipedia text full of link fragments, cited to Kew POWO and an influenza RCT (neither states
+  toxicity); rewritten from the NCCIH elderberry page REF-3763 (read 2026-11-13) and the EU flos
+  monograph REF-0085 - NCCIH says little is known about pregnancy safety, so the old "should not
+  be consumed during pregnancy" and the unsourced "gastrointestinal disease" line were not kept.
+  Safety note #2: unsupported sentence "clinical use for colds, bronchitis and fever is
+  well-supported" removed (contradicted by REF-3758/REF-3759); dose dash normalised.'

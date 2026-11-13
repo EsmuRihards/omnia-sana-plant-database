@@ -118,43 +118,41 @@ actions:
   status: needs-review
 indications:
 - condition: bronchitis
-  note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
-    reflex and loosen mucus) - largely an outdated use
+  note: Traditional expectorant for cough and bronchitis, now largely outdated; no scientific studies
+    support it (MedicineNet; Drugs.com)
   reference_ids:
   - REF-0511
   - REF-0512
   status: needs-review
 - condition: cough
-  note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
-    reflex and loosen mucus) - largely an outdated use
+  note: Traditional expectorant for cough and bronchitis, now largely outdated; no scientific studies
+    support it (MedicineNet; Drugs.com)
+  reference_ids:
+  - REF-0511
+  - REF-0512
+  status: needs-review
+- condition: eczema
+  note: Traditionally applied to eczema and other skin conditions; no scientific studies support it (MedicineNet)
+  reference_ids:
+  - REF-0512
+  status: needs-review
+- condition: respiratory-support
+  note: Traditional expectorant for respiratory complaints, now largely outdated; no scientific studies
+    support it (MedicineNet; Drugs.com)
   reference_ids:
   - REF-0511
   - REF-0512
   status: needs-review
 - condition: detox
-  note: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
-    for eczema)
+  note: Traditional alterative ("blood-cleansing") remedy (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0512
-  status: needs-review
-- condition: eczema
-  note: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
-    for eczema)
-  reference_ids:
-  - REF-0512
-  status: needs-review
-- condition: respiratory-support
-  note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
-    reflex and loosen mucus) - largely an outdated use
-  reference_ids:
-  - REF-0511
-  - REF-0512
-  status: needs-review
+  - REF-3762
+  status: verified
 contraindications:
 - note: 'SERIOUS: the saponins are irritant and can cause haemolysis (destruction of red blood cells).
     Never take soapwort in large doses or for prolonged periods. Internal use can cause severe gastrointestinal
     irritation (cramps, nausea, vomiting, diarrhoea).'
-  severity: info
+  severity: serious
   reference_ids:
   - REF-0511
   - REF-0512
@@ -196,4 +194,10 @@ internal_notes: 'Enriched 2026-06-12 from general literature (Drugs.com and Medi
   botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
   sourced from the existing general soapwort monographs (REF-0511, REF-0512). | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for root (provisional: PFAF REF-3335, dug in spring); aerial parts
-  not separately timing-sourced. Single lineage. Binomial confirmed.'
+  not separately timing-sourced. Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 15 - Deep audit. Web sources checked
+  2026-11-13: MedicineNet (cites five web pages) names cough, bronchitis, expectorant and topical
+  eczema and says no scientific studies support most uses; Drugs.com refused automated access.
+  Detox re-sourced to Grieve REF-3762 (tonic, diaphoretic, alterative; itch, rheumatism, jaundice)
+  - the old note described skin cleansing. Safety note severity info -> serious (its own text
+  reads "SERIOUS").'

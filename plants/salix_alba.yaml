@@ -116,7 +116,6 @@ actions:
   - REF-0530
   - REF-0592
   - REF-1253
-  - REF-1260
   - REF-1261
   status: verified
 - action: anti-inflammatory
@@ -127,7 +126,6 @@ actions:
   - REF-0530
   - REF-0592
   - REF-1253
-  - REF-1256
   status: verified
 - action: antipyretic
   note: Antipyretic (reduces fever)
@@ -136,23 +134,26 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: Relief of joint pain, osteoarthritis and rheumatic complaints
+  note: Willow bark extract eased osteoarthritis pain moderately vs placebo in one randomized trial but
+    showed no relevant effect in another; traditional use for minor joint pain (EU herbal monograph)
   reference_ids:
   - REF-0529
   - REF-0530
+  - REF-3736
   status: verified
   mechanistic_exclude_ids:
   - REF-0592
-  - REF-1256
+  null_result_ids:
+  - REF-3737
 - condition: back-pain
-  note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
-    mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks
+  note: Willow bark extract (about 240 mg salicin daily) relieved low back pain vs placebo and matched
+    rofecoxib in randomized trials (moderate evidence; Cochrane review)
   reference_ids:
   - REF-0529
   - REF-0530
   - REF-0592
-  - REF-1260
   - REF-1261
+  - REF-3738
   status: verified
 - condition: fever
   note: Antipyretic (reduces fever)
@@ -166,26 +167,24 @@ indications:
   mechanistic_exclude_ids:
   - REF-0529
   - REF-0592
-  - REF-1260
   - REF-1261
+  note: Traditional use for headache (EU herbal monograph)
 - condition: inflammation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0529
-  - REF-0530
-  - REF-0592
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-1256
+  - REF-0529
+  - REF-0592
+  - REF-0530
 - condition: pain
-  note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
-    mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks;
-    Relief of joint pain, osteoarthritis and rheumatic complaints
+  note: Willow bark relieved low back pain in randomized trials (moderate evidence) and eased osteoarthritis
+    pain in some trials; traditional use for minor joint pain and headache (EU herbal monograph)
   reference_ids:
   - REF-0529
   - REF-0530
   - REF-0592
-  - REF-1260
+  - REF-3738
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -195,7 +194,6 @@ indications:
   - REF-0529
   - REF-0530
   - REF-0592
-  - REF-1256
 contraindications:
 - note: Because it works like aspirin, avoid willow bark if you are allergic to aspirin or salicylates,
     and do NOT give it to children or teenagers with a viral illness (risk of Reye's syndrome). Use caution
@@ -218,7 +216,6 @@ references:
 - REF-1257
 - REF-1258
 - REF-1259
-- REF-1260
 - REF-1261
 - REF-1262
 lookalikes_review:
@@ -244,4 +241,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   and the constituent wired to it. Only the molecules the entry already names were wired - no constituent
   was reinterpreted. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for bark
   (provisional: PFAF REF-3327, stripped in spring as the sap rises or in early autumn, from 3-6 year
-  branches). Single lineage. Binomial confirmed.'
+  branches). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 15 - Deep audit. Superseded 2006 Cochrane
+  REF-1260 purged and deleted (2014 update REF-1261 kept). OA RCT REF-3736 added; OA/RA RCT
+  REF-3737 (no relevant efficacy) recorded as no-effect; rofecoxib-comparison LBP RCT REF-3738
+  added. Inflammation now mechanistic (none of its cards names inflammation); calf PGE2 study
+  REF-1256 removed from the action.'

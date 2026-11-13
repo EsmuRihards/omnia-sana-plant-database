@@ -117,29 +117,23 @@ actions:
   reference_ids:
   - REF-0048
   - REF-0098
-  - REF-0897
-  - REF-0898
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0048
   - REF-0098
   - REF-0892
-  - REF-0897
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0048
   - REF-0098
   - REF-0896
-  - REF-0897
-  - REF-0898
   status: verified
 - action: digestive
   reference_ids:
   - REF-0048
   - REF-0098
-  - REF-0898
   status: verified
 - action: diuretic
   reference_ids:
@@ -147,71 +141,43 @@ actions:
   - REF-0098
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0048
-  - REF-0098
-  status: needs-review
-- condition: bloating
-  note: inferred from digestive action
-  reference_ids:
-  - REF-0048
-  - REF-0098
-  status: needs-review
 - condition: indigestion
-  note: inferred from digestive action
+  note: Its compounds were active against stomach Helicobacter pylori in the lab (preclinical)
   reference_ids:
-  - REF-0048
-  - REF-0098
   - REF-0892
   status: needs-review
+  mechanistic_exclude_ids:
+  - REF-0048
+  - REF-0098
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Juice with vinegar was a traditional cure for ringworm (Grieve, A Modern Herbal); its compounds
+    were active against stomach Helicobacter pylori in the lab (preclinical)
   reference_ids:
   - REF-0048
   - REF-0098
   - REF-0892
+  - REF-3761
   status: needs-review
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Traditionally used to cool inflammation (old herbal quoted in Grieve, A Modern Herbal)
   reference_ids:
   - REF-0048
   - REF-0098
   status: needs-review
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditionally applied for ringworm and skin complaints (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0048
   - REF-0098
+  - REF-3761
   status: needs-review
 - condition: swelling
-  note: inferred from diuretic action
+  note: Traditional diuretic (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0048
   - REF-0098
+  - REF-3761
   status: needs-review
-- condition: urinary-support
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0048
-  - REF-0098
-  status: needs-review
-- condition: uti
-  note: inferred from diuretic action
-  reference_ids:
-  - REF-0048
-  - REF-0098
-  status: needs-review
-- condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids:
-  - REF-0048
-  - REF-0098
-  - REF-0897
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0892
 contraindications:
 - note: 'High in oxalates (the sour taste): Large, frequent amounts can be a bad idea if you’re prone
     to kidney or bladder stones, or certain “rheumatic-type” complaints (Royal Botanic Gardens, Kew, n.d.).
@@ -303,4 +269,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   H. pylori compound-isolation study (REF-0892) and antioxidant study (REF-0896). | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for leaf (provisional: PFAF REF-3331, young leaves
   through the growing season, best before flowering). SAFETY: Arum maculatum lookalike. Binomial
-  confirmed.'
+  confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 15 - Deep audit (2nd pass + deep).
+  Chevallier REF-0048 and Grieve REF-0098 were pinned to all 10 pairs. Grieve''s Sorrel entry
+  (REF-3761, read 2026-11-13) names diuretic, febrile, scurvy, ringworm, kidney gravel - not
+  rheumatism, bloating, indigestion, UTI or wounds; both refs removed from those pairs (Chevallier
+  could not be checked). Arthritis, bloating, uti and wounds dropped. Urinary-support dropped: the
+  record''s own oxalate warning covers kidney and bladder stones. Genus reviews REF-0897/REF-0898
+  removed from actions. Not used: periodontal mouth-rinse RCT REF-0894 (no improvement in
+  periodontal health).'

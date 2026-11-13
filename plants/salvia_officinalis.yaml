@@ -134,7 +134,6 @@ actions:
   - REF-0502
   - REF-0503
   - REF-1273
-  - REF-1274
   - REF-1279
   status: verified
 indications:
@@ -144,19 +143,23 @@ indications:
   - REF-0501
   status: needs-review
 - condition: cognitive-function
-  note: Memory and cognitive-function support (enhances cognition in healthy subjects and people with
-    dementia)
+  note: Sage extract improved cognition in mild to moderate Alzheimer's disease and memory, attention
+    and mood in healthy people in randomized trials; a systematic review notes methodological weaknesses
   reference_ids:
   - REF-0502
   - REF-0503
-  - REF-1274
   - REF-1279
+  - REF-3748
+  - REF-3749
+  - REF-3751
   status: verified
 - condition: hot-flashes
-  note: Reduces excessive sweating, including menopausal hot flushes and night sweats
+  note: Sage reduced hot flash frequency in a meta-analysis of trials; traditional use for excessive sweating
+    (EU herbal monograph)
   reference_ids:
   - REF-0501
   - REF-1276
+  - REF-3744
   status: verified
 - condition: indigestion
   note: Carminative for mild dyspeptic complaints (indigestion)
@@ -169,22 +172,50 @@ indications:
   - REF-0501
   status: verified
 - condition: memory
-  note: Memory and cognitive-function support (enhances cognition in healthy subjects and people with
-    dementia)
+  note: Sage extract improved memory in healthy older adults and cognition in mild to moderate Alzheimer's
+    disease in randomized trials
   reference_ids:
   - REF-0502
   - REF-0503
-  - REF-1274
   - REF-1279
+  - REF-3748
+  - REF-3751
   status: verified
 - condition: menopause
   reference_ids:
   - REF-1276
+  - REF-3744
   status: needs-review
+  note: Sage reduced menopausal hot flashes in a meta-analysis of trials; its extract had estrogen-like
+    effects in rats (preclinical)
 - condition: sore-throat
-  note: Gargle/rinse for sore throat and inflammation of the mouth and throat
+  note: A 15% sage spray relieved acute pharyngitis vs placebo in a randomized trial; traditional gargle
+    for mouth and throat inflammation (EU herbal monograph)
   reference_ids:
   - REF-0501
+  - REF-3750
+  status: verified
+- condition: pms
+  note: Sage reduced the psychological and physical symptoms of PMS in a randomized trial
+  reference_ids:
+  - REF-3745
+  status: verified
+- condition: high-cholesterol
+  note: Sage leaf extract lowered total and LDL cholesterol and raised HDL vs placebo in randomized trials
+  reference_ids:
+  - REF-3746
+  - REF-3747
+  status: verified
+- condition: blood-sugar
+  note: Sage leaves improved blood sugar control in hyperlipidaemic type 2 diabetes in a randomized trial
+  reference_ids:
+  - REF-3747
+  status: verified
+- condition: skin-irritation
+  note: A sage extract cream reduced UV-induced skin redness as much as hydrocortisone vs placebo in a
+    randomized trial
+  reference_ids:
+  - REF-3752
   status: verified
 contraindications:
 - note: The essential oil contains thujone, which is neurotoxic and can trigger seizures in high doses
@@ -229,4 +260,10 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0501) and cognitive-function
   systematic review (REF-0502). | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for
-  leaf (provisional: PFAF REF-3333, gathered just before flowering). Single lineage. Binomial confirmed.'
+  leaf (provisional: PFAF REF-3333, gathered just before flowering). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 15 - Deep audit. Two-species mouse study
+  REF-1274 removed. Cognition RCTs REF-3748/REF-3749/REF-3751 and hot-flash MA REF-3744 added;
+  pharyngitis spray RCT REF-3750 added to sore-throat. REF-0503 retagged narrative-review (tagged
+  rct). New pairs (owner rule): pms (RCT), high-cholesterol (2 RCTs), blood-sugar (RCT),
+  skin-irritation (UV-erythema RCT). Not used: palliative mouth-rinse RCT 33586003 (no difference
+  vs saline).'

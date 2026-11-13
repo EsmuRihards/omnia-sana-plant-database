@@ -146,7 +146,6 @@ actions:
   note: Physical performance / strength improvement
   reference_ids:
   - REF-0014
-  - REF-0137
   - REF-0192
   - REF-1471
   status: verified
@@ -166,7 +165,6 @@ actions:
   - REF-1466
   - REF-1470
   - REF-1474
-  - REF-1475
   status: verified
 indications:
 - condition: arthritis
@@ -178,15 +176,20 @@ indications:
   - REF-0192
   - REF-0137
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Blood-sugar lowering effects reviewed (review); a systematic review of red ginseng trials in type
+    2 diabetes found the evidence not convincing
   reference_ids:
   - REF-0137
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0014
   - REF-0192
+  null_result_ids:
+  - REF-3723
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Ginseng compounds protected nerve cells in lab and animal studies (review); a Cochrane review
+    found no convincing evidence that ginseng improves cognition, and evidence in Alzheimer's disease
+    is scarce and inconclusive
   reference_ids:
   - REF-1474
   status: needs-review
@@ -196,6 +199,7 @@ indications:
   - REF-0137
   null_result_ids:
   - REF-1475
+  - REF-3724
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids: []
@@ -205,14 +209,13 @@ indications:
   - REF-0192
   - REF-0137
 - condition: fatigue
-  note: inferred from ergogenic action
+  note: Asian and American ginseng reduced fatigue in people with chronic illness (systematic review)
   reference_ids:
   - REF-1471
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0014
   - REF-0192
-  - REF-0137
 - condition: immune-support
   reference_ids:
   - REF-0137
@@ -220,8 +223,9 @@ indications:
   mechanistic_exclude_ids:
   - REF-0014
   - REF-0192
+  note: Immune effects of ginseng are reviewed (review)
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Anti-inflammatory effects of ginseng are reviewed (review)
   reference_ids:
   - REF-0137
   status: needs-review
@@ -229,7 +233,8 @@ indications:
   - REF-0014
   - REF-0192
 - condition: memory
-  note: inferred from neuroprotective action
+  note: Ginseng compounds protected nerve cells in lab and animal studies (review); a Cochrane review
+    and a systematic review found no convincing evidence of better memory or cognition
   reference_ids:
   - REF-1474
   status: needs-review
@@ -237,6 +242,9 @@ indications:
   - REF-0014
   - REF-0192
   - REF-0137
+  null_result_ids:
+  - REF-1475
+  - REF-3724
 - condition: metabolic-support
   reference_ids:
   - REF-0137
@@ -244,6 +252,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0014
   - REF-0192
+  note: Metabolic effects of ginseng are reviewed (review)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -252,6 +261,21 @@ indications:
   - REF-0014
   - REF-0192
   - REF-0137
+- condition: high-cholesterol
+  note: A 2019 meta-analysis found Panax ginseng lowered total and LDL cholesterol, but a 2024 GRADE-assessed
+    meta-analysis found no significant effect on blood lipids
+  reference_ids:
+  - REF-3719
+  status: verified
+  null_result_ids:
+  - REF-3720
+- condition: low-libido
+  note: Red ginseng improved erectile dysfunction in randomized trials (systematic review; suggestive
+    evidence), and Panax ginseng helped female sexual dysfunction in a meta-analysis (preliminary evidence)
+  reference_ids:
+  - REF-3721
+  - REF-3722
+  status: verified
 contraindications:
 - note: Generally well tolerated in short-term use (up to 3 months). May cause insomnia, headache, or
     gastrointestinal upset at high doses. Avoid during pregnancy and breastfeeding. May interact with
@@ -366,4 +390,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   name no condition - removed from all 12 pairs. REF-0137 (Kiefer 2003 AFP, PubMed 14596440: may
   improve psychologic function, immune function and diabetes-related conditions;
   anti-inflammatory; "does not appear to enhance physical performance") kept for immune-support,
-  blood-sugar, metabolic-support, inflammation only.'
+  blood-sugar, metabolic-support, inflammation only.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. REF-0137 removed from
+  the ergogenic action (its conclusion: no enhanced physical performance); Cochrane REF-1475
+  removed from neuroprotective and recorded as no-effect for memory as well as cognition; AD SR
+  REF-3724 no-effect. Red ginseng T2D SR REF-3723 no-effect for blood-sugar. New pairs (owner
+  rule): high-cholesterol (2019 MA REF-3719; 2024 GRADE MA REF-3720 no-effect), low-libido (ED SR
+  REF-3721, FSD MA REF-3722).'

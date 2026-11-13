@@ -3408,14 +3408,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": []
-    },
-    {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     }
    ]
   },
@@ -8724,6 +8716,18 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3707",
+      "REF-3708",
+      "REF-3709"
+     ]
+    },
+    {
      "condition": "cognitive-function",
      "label": "Cognitive function",
      "evidence": 8,
@@ -10938,16 +10942,6 @@
      ]
     },
     {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-1223"
-     ]
-    },
-    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -11730,13 +11724,24 @@
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 3,
+     "evidence": 6,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0485",
       "REF-0486",
-      "REF-0597"
+      "REF-0597",
+      "REF-3718"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3718"
      ]
     },
     {
@@ -11758,14 +11763,6 @@
     {
      "condition": "skin-irritation",
      "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -11978,6 +11975,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "low-libido",
+     "label": "Low libido",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3721",
+      "REF-3722"
+     ]
+    },
+    {
      "condition": "fatigue",
      "label": "Fatigue / low energy",
      "evidence": 7,
@@ -11985,6 +11993,16 @@
      "inferred": true,
      "references": [
       "REF-1471"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3719"
      ]
     },
     {
@@ -12153,35 +12171,40 @@
     {
      "condition": "anxiety",
      "label": "Anxiety",
-     "evidence": 8,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0490",
-      "REF-0563"
+      "REF-0563",
+      "REF-3705",
+      "REF-3706",
+      "REF-1911"
      ]
     },
     {
      "condition": "stress",
      "label": "Stress",
-     "evidence": 7,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0490",
-      "REF-0491"
+      "REF-0491",
+      "REF-1907"
      ]
     },
     {
      "condition": "insomnia",
      "label": "Insomnia / sleeplessness",
-     "evidence": 6,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0491",
       "REF-0564",
-      "REF-0565"
+      "REF-0565",
+      "REF-1907"
      ]
     },
     {
@@ -12204,14 +12227,27 @@
     {
      "condition": "bronchitis",
      "label": "Bronchitis",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0492",
       "REF-0493",
       "REF-0576",
-      "REF-1870"
+      "REF-1870",
+      "REF-3715",
+      "REF-3712"
+     ]
+    },
+    {
+     "condition": "cold",
+     "label": "Cold & flu",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1870",
+      "REF-3714"
      ]
     },
     {
@@ -12226,33 +12262,55 @@
      ]
     },
     {
-     "condition": "cold",
-     "label": "Cold & flu",
+     "condition": "cough",
+     "label": "Cough",
      "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-1870"
+      "REF-3434"
      ]
     },
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 2,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0492"
+      "REF-0492",
+      "REF-3713"
      ]
     },
     {
      "condition": "sore-throat",
      "label": "Sore throat",
-     "evidence": 2,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0492"
+      "REF-0492",
+      "REF-3712"
+     ]
+    },
+    {
+     "condition": "asthma",
+     "label": "Asthma",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3717"
+     ]
+    },
+    {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3716"
      ]
     },
     {

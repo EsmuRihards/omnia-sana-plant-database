@@ -210,7 +210,7 @@ indications:
   - REF-0489
   status: verified
 - condition: kidney-support
-  note: inferred from nephroprotective action
+  note: Kidney-protective effects reported in animal studies (reviews)
   reference_ids:
   - REF-0489
   - REF-0546
@@ -218,14 +218,15 @@ indications:
   mechanistic_exclude_ids:
   - REF-1494
 - condition: liver-support
-  note: inferred from hepatoprotective action
+  note: Parsley extract protected the liver in rats with bile duct obstruction, diabetes or a fructose
+    diet (preclinical; reviews)
   reference_ids:
   - REF-0489
   - REF-0546
   - REF-1488
   status: needs-review
 - condition: urinary-support
-  note: inferred from diuretic action
+  note: Parsley increased urine output in rats; traditional diuretic (reviews)
   reference_ids:
   - REF-0489
   - REF-0545
@@ -326,4 +327,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Ch
   tagged rct) names diuretic, liver and stomach tonic, urolithiasis, indigestion, hepato- and
   nephroprotection - removed from bad breath, bloating, detox, swelling, UTI. REF-0545 (rat
   diuretic) and REF-0546 (review) removed from swelling/UTI/detox (diuresis is not swelling or
-  infection evidence - birch precedent).'
+  infection evidence - birch precedent).
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. Notes rewritten to
+  their (preclinical/review) sources. No clinical trials found.'

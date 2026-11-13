@@ -130,7 +130,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0020
   - REF-0112
   - REF-1225
   - REF-1228
@@ -138,7 +137,6 @@ actions:
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0020
   - REF-0112
   - REF-1226
   - REF-1228
@@ -147,7 +145,6 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0020
   - REF-0112
   - REF-1224
   - REF-1228
@@ -157,7 +154,6 @@ actions:
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
-  - REF-0020
   - REF-0112
   - REF-1223
   - REF-1228
@@ -165,14 +161,12 @@ actions:
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0020
   - REF-0112
   - REF-1228
   - REF-1229
   status: verified
 - action: sedative
   reference_ids:
-  - REF-0020
   - REF-0112
   - REF-1228
   status: verified
@@ -182,7 +176,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0020
   - REF-1225
   - REF-0112
 - condition: bloating
@@ -190,29 +183,25 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0020
   - REF-0112
 - condition: indigestion
   note: inferred from digestive action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0020
   - REF-0112
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Marjoram essential oil protected against a fungal skin infection (sporotrichosis) in animals (preclinical)
   reference_ids:
   - REF-1226
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0020
   - REF-0112
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0020
   - REF-1225
   - REF-0112
 - condition: insomnia
@@ -220,29 +209,18 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0020
   - REF-0112
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0020
-  - REF-0112
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-1223
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0020
   - REF-0112
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0020
   - REF-1225
   - REF-0112
 - condition: wounds
@@ -250,7 +228,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0020
   - REF-0112
 contraindications:
 - note: Generally very safe as a culinary herb. Essential oil should not be ingested in large amounts
@@ -286,6 +263,7 @@ references:
 - REF-1230
 - REF-1231
 - REF-1232
+- REF-0020
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
@@ -319,4 +297,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   before flowering). Single lineage. Binomial confirmed.
   | 2026-11-10: symptom-source audit batch 12 - REF-0112 (Hoffmann; unverifiable since batch 2)
   removed from all 10 pairs; infection (antifungal rat study) and muscle-spasm (gut antispasmodic
-  study) keep their direct sources.'
+  study) keep their direct sources.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. REF-0020 (carvacrol
+  review; carvacrol is oregano''s signature compound, not marjoram''s) removed from all six
+  actions, kept in references, retagged narrative-review. Muscle-spasm dropped (gut
+  calcium-channel study; off-target). Not used: PCOS tea RCT REF-1227 (no matching condition);
+  aromatherapy blend for dysmenorrhoea 22435409 (combination).'

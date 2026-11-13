@@ -179,13 +179,14 @@ indications:
   mechanistic_exclude_ids:
   - REF-0485
 - condition: infection
-  note: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory and
-    gastrointestinal infections; a small clinical study found emulsified oregano oil cleared enteric parasites
-    (incl. Blastocystis hominis) and improved gut symptoms
+  note: Oregano oil and carvacrol are antibacterial and antifungal in lab studies (reviews); an oregano
+    ointment reduced surgical-wound infection in a randomized trial, and emulsified oregano oil cleared
+    intestinal parasites in a small uncontrolled study
   reference_ids:
   - REF-0485
   - REF-0486
   - REF-0597
+  - REF-3718
   status: verified
   mechanistic_exclude_ids:
   - REF-1451
@@ -199,8 +200,10 @@ indications:
   - REF-0486
   - REF-0485
 - condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids: []
+  note: An oregano extract ointment reduced bacterial contamination and infection of surgical wounds vs
+    petrolatum in a randomized trial, with similar scarring
+  reference_ids:
+  - REF-3718
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0597
@@ -259,4 +262,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal
   | 2026-11-10: symptom-source audit batch 12 - REF-0486 (carvacrol review; carvacrol is
   oregano''s signature phenol - compound evidence) names antimicrobial, antioxidant and anticancer
   activity only - kept for infection, removed from 4 pairs. REF-0485 (O. vulgare antimicrobial
-  review; retagged) removed from skin and wounds.'
+  review; retagged) removed from skin and wounds.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. Oregano ointment
+  wound RCT REF-3718 added to wounds and infection. Notes rewritten (no "supports respiratory and
+  gastrointestinal infections" claim without a source).'

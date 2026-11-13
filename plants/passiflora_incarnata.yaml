@@ -125,21 +125,28 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  note: Anxiolytic for anxiety and nervous tension (reduces anxiety in clinical trials); Reduces preoperative
-    / situational anxiety without sedation or psychomotor impairment (RCT in ambulatory surgery patients)
+  note: Passionflower reduced anxiety before surgery and dental extraction in randomized trials (as well
+    as midazolam in one) and matched oxazepam in a small trial in generalized anxiety; a network meta-analysis
+    found no significant effect vs placebo
   reference_ids:
   - REF-0490
   - REF-0563
+  - REF-3705
+  - REF-3706
+  - REF-1911
   status: verified
   mechanistic_exclude_ids:
   - REF-0491
+  null_result_ids:
+  - REF-2546
 - condition: insomnia
-  note: Sleep support for insomnia - improves subjective sleep quality and, on polysomnography, increases
-    total sleep time
+  note: Passionflower improved subjective sleep quality and, on sleep studies, total sleep time vs placebo
+    in randomized trials; traditional use to aid sleep (EU herbal monograph)
   reference_ids:
   - REF-0491
   - REF-0564
   - REF-0565
+  - REF-1907
   status: verified
   mechanistic_exclude_ids:
   - REF-0490
@@ -151,10 +158,12 @@ indications:
   - REF-0490
   - REF-0491
 - condition: stress
-  note: Relief of mild mental stress
+  note: Traditional use for mild symptoms of mental stress (EU herbal monograph); an extract reduced stress
+    and improved sleep vs placebo in a randomized trial
   reference_ids:
   - REF-0490
   - REF-0491
+  - REF-1907
   status: verified
 contraindications:
 - note: Generally well tolerated, with no serious adverse effects reported in trials. Its sedative effect
@@ -222,4 +231,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   REF-0491 (relief of mild symptoms of mental stress and to aid sleep - EMA page 429, flagged for
   owner spot-check) removed from anxiety and nervous-tension, kept for stress and insomnia.
   | 2026-11-10: symptom-source audit batch 12 - nervous-tension note reset (pair now
-  mechanistic-only).'
+  mechanistic-only).
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. GAD RCT REF-3705,
+  dental RCT REF-3706 and held spinal-anaesthesia RCT REF-1911 added to anxiety; herb NMA REF-2546
+  (passionflower not significant in the summary network) recorded as no-effect (batch-8 carry).
+  Held stress/sleep RCT REF-1907 wired to insomnia and stress. REF-1908 retagged narrative-review.'

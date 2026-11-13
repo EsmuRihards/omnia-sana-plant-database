@@ -168,55 +168,52 @@ constituents:
   compounds:
   - polysaccharide
   note: An acidic polysaccharide with antioxidant activity.
-  reference_ids:
-  - REF-2787
+  reference_ids: []
 actions:
 - action: antioxidant
-  reference_ids:
-  - REF-2787
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: anti-inflammatory
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: antimicrobial
   note: Antibacterial and antiparasitic (amoebicidal/giardicidal) activity of woodsorrel extracts/constituents.
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: hepatoprotective
   note: Protective against paracetamol-induced liver injury (congener O. corniculata).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: gastroprotective
   note: Protective against experimental gastric ulceration (congener O. corniculata).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: anticancer
   note: Woodsorrel phytoconstituents (and a green-synthesised nanoparticle made with O. stricta extract)
     induced apoptosis in breast, colon and Hep2 cancer cells (preclinical).
-  reference_ids:
-  - REF-2779
-  status: verified
+  reference_ids: []
+  status: needs-review
 - action: antidiabetic
   note: Alpha-glucosidase and alpha-amylase inhibition by woodsorrel extract (congener O. corniculata).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: neuroprotective
   note: Anti-Alzheimer's activity of woodsorrel extract in rats (congener O. corniculata).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: vulnerary
   note: Promotes wound and fracture healing; traditional topical use for wounds and skin (congener O.
     corniculata).
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: astringent
   note: Sour, tannin-containing herb; the basis of traditional antidiarrhoeal use.
   reference_ids: []
-  status: verified
+  status: needs-review
 - action: antidiarrheal
   note: Traditional astringent remedy for diarrhoea and dysentery (congener O. corniculata).
   reference_ids: []
-  status: verified
+  status: needs-review
 contraindications:
 - note: Yellow woodsorrel is RICH IN OXALIC ACID and soluble oxalates (the source of its sour taste).
     Avoid large or frequent quantities, and especially avoid it if you are prone to calcium-oxalate kidney
@@ -240,8 +237,6 @@ contraindications:
   status: verified
 references:
 - REF-2778
-- REF-2779
-- REF-2787
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
@@ -292,4 +287,8 @@ internal_notes: 'Created 2026-07-10. SPARSE species: genuine Oxalis stricta-spec
   where an EMA public statement was cited as the authority for there being no established posology) and
   is the proper fix if a seam opens. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
   for aerial-parts + flower + leaf (all provisional: PFAF REF-3305, flowering period July-October as the
-  seasonal marker; fresh herb gathered through the growing season). Single lineage. Binomial confirmed.'
+  seasonal marker; fresh herb gathered through the growing season). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. REF-2787 studies
+  Oxalis corniculata (different species) and REF-2779 studies zinc-oxide nanoparticles made with
+  the extract - purged and deleted. No sourced activity remains.'
+indications: []

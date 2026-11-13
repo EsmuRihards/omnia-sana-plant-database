@@ -128,7 +128,6 @@ actions:
   - REF-0544
   - REF-1477
   - REF-1478
-  - REF-1483
   status: verified
 - action: antispasmodic
   note: Antispasmodic support in bronchial asthma
@@ -136,7 +135,6 @@ actions:
   - REF-0426
   - REF-1477
   - REF-1481
-  - REF-1483
   - REF-1484
   status: needs-review
 - action: bronchodilator
@@ -155,7 +153,7 @@ indications:
   - REF-1478
   status: verified
 - condition: asthma
-  note: Antispasmodic support in bronchial asthma
+  note: An open, uncontrolled trial of butterbur extract reduced asthma attacks and medication use
   reference_ids:
   - REF-1481
   status: needs-review
@@ -177,6 +175,7 @@ indications:
   - REF-0543
   - REF-1479
   status: verified
+  note: Butterbur root extract prevented migraine headaches vs placebo in randomized trials
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids: []
@@ -191,13 +190,6 @@ indications:
   - REF-0543
   - REF-1479
   status: verified
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids: []
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1481
-  - REF-0426
 contraindications:
 - note: Use ONLY certified pyrrolizidine-alkaloid (PA)-free, standardised extracts. Raw or unprocessed
     butterbur contains PAs that are toxic to the liver and potentially carcinogenic.
@@ -278,4 +270,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in R
   | 2026-11-10: symptom-source audit batch 12 - REF-0426 (Sadler 2007 Pediatrics in Review column;
   no abstract, text not retrievable) removed from every symptom as unverifiable. Fever pair (its
   note described HAY fever) dropped. Allergy (SR + Ze 339), migraine/headache (two RCTs) and
-  asthma (open trial) keep their sources.'
+  asthma (open trial) keep their sources.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. Genus review REF-1483
+  retagged narrative-review and removed from both actions (kept in references). Muscle-spasm
+  dropped (smooth-muscle antispasmodic; off-target). Notes rewritten.'

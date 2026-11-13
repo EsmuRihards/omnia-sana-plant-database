@@ -109,17 +109,22 @@ actions:
   status: verified
 indications:
 - condition: bronchitis
-  note: Acute bronchitis - reduces symptom severity and shortens illness
+  note: 'EPs 7630 reduced acute bronchitis symptoms and shortened illness in randomized trials and meta-analyses,
+    including in children (Cochrane review: low-quality evidence)'
   reference_ids:
   - REF-0492
   - REF-0493
   - REF-0576
   - REF-1870
+  - REF-3715
+  - REF-3712
   status: verified
 - condition: cold
-  note: Common cold and acute respiratory tract infection
+  note: 'A high-dose pelargonium extract reduced common cold symptoms and shortened illness in a randomized
+    trial (Cochrane review: very low-quality evidence)'
   reference_ids:
   - REF-1870
+  - REF-3714
   status: verified
   mechanistic_exclude_ids:
   - REF-0492
@@ -130,9 +135,11 @@ indications:
   mechanistic_exclude_ids:
   - REF-0493
 - condition: infection
-  note: Common cold and acute respiratory tract infection
+  note: Moderate evidence of efficacy for respiratory tract infections in children (meta-analysis); antiviral
+    and immune effects in the lab (preclinical)
   reference_ids:
   - REF-0492
+  - REF-3713
   status: verified
 - condition: sinusitis
   note: Rhinosinusitis (sinusitis) support
@@ -141,9 +148,27 @@ indications:
   - REF-1870
   status: verified
 - condition: sore-throat
-  note: Sore throat / acute tonsillopharyngitis
+  note: EPs 7630 eased acute tonsillopharyngitis and bronchitis in children in a meta-analysis of trials
   reference_ids:
   - REF-0492
+  - REF-3712
+  status: verified
+- condition: cough
+  note: Pelargonium sidoides was superior to placebo for cough frequency and severity (moderate evidence,
+    systematic review and meta-analysis)
+  reference_ids:
+  - REF-3434
+  status: verified
+- condition: respiratory-support
+  note: Added to usual treatment, EPs 7630 prolonged time to COPD flare-ups and reduced their frequency
+    vs placebo in a randomized trial
+  reference_ids:
+  - REF-3716
+  status: verified
+- condition: asthma
+  note: EPs 7630 reduced asthma attacks during viral upper respiratory infections in a randomized trial
+  reference_ids:
+  - REF-3717
   status: verified
 contraindications:
 - note: Generally well tolerated; the main effects are mild gastrointestinal upset or, rarely, an allergic
@@ -200,4 +225,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Int J Gen Med a
   rhinosinusitis and the common cold; low-quality evidence) wired as support per the owner''s
   may-be-effective rule. REF-0492 (paediatric aRTI review) kept for infection, bronchitis, sore
   throat; removed from cold and sinusitis. REF-0493 (registration review; retagged) names
-  bronchitis only.'
+  bronchitis only.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. New pairs (owner
+  rule): cough (herbal cough MA REF-3434, batch-2 carry), respiratory-support (COPD RCT REF-3716),
+  asthma (RCT REF-3717). Bronchitis RCT REF-3715 and children MA REF-3712, cold RCT REF-3714,
+  children RTI MA REF-3713 added. REF-1875 retagged preclinical.'

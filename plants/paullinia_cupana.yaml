@@ -110,7 +110,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0009
-  - REF-0106
   - REF-0952
   - REF-0953
   - REF-0954
@@ -119,34 +118,30 @@ actions:
 - action: ergogenic
   note: Physical performance / strength improvement
   reference_ids:
-  - REF-0009
   - REF-0106
   - REF-0955
   - REF-0957
   status: verified
 - action: neuroprotective
   reference_ids:
-  - REF-0009
   - REF-0106
   - REF-0958
   status: verified
 indications:
 - condition: cognitive-function
-  note: inferred from neuroprotective action
+  note: Guarana improved attention and some cognitive tests in randomized trials and a meta-analysis;
+    how much is due to its caffeine is unknown
   reference_ids:
   - REF-0106
   - REF-0950
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0009
 - condition: memory
-  note: inferred from neuroprotective action
+  note: Guarana improved some memory and attention tasks in a randomized trial, and protected against
+    amyloid toxicity in worms (preclinical)
   reference_ids:
   - REF-0106
   - REF-0958
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0009
 - condition: metabolic-support
   reference_ids:
   - REF-0954
@@ -154,6 +149,19 @@ indications:
   - REF-0957
   - REF-0959
   status: verified
+  note: Guarana reduced fat-cell formation and weight gain in lab and animal studies (preclinical; review)
+- condition: fatigue
+  note: Guarana reduced cancer-related fatigue in some randomized trials and a 2024 meta-analysis, but
+    a 2021 meta-analysis and two other trials found it no better than placebo
+  reference_ids:
+  - REF-3707
+  - REF-3708
+  - REF-3709
+  status: verified
+  null_result_ids:
+  - REF-0951
+  - REF-3710
+  - REF-3711
 contraindications:
 - note: Guarana contains very high levels of caffeine (2–4 times that of coffee by weight). All the cautions
     of caffeine apply - avoid in cardiac arrhythmia, hypertension, anxiety disorders, insomnia, and during
@@ -215,4 +223,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 12 - REF-0951 (MA: guarana "did not reduce
   cancer-related fatigue", p=0.98) was cited as SUPPORT - moved to null_result_ids. REF-0106
   (acute RCT: memory and alertness) and REF-0955 (cycling time-trial) measured no fatigue -
-  removed. REF-0950 (MA: faster response time) names no memory outcome - removed from memory.'
+  removed. REF-0950 (MA: faster response time) names no memory outcome - removed from memory.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. REF-0009
+  (toxicity/antioxidant lab study) retagged preclinical and removed from
+  ergogenic/neuroprotective; REF-0106 removed from antioxidant. New pair (owner rule): fatigue
+  (2024 MA REF-3707, RCTs REF-3708/REF-3709), with held 2021 MA REF-0951 and RCTs
+  REF-3710/REF-3711 recorded as no-effect.'

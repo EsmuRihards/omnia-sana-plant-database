@@ -39993,7 +39993,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0020",
       "REF-0112",
       "REF-1225",
       "REF-1228",
@@ -40004,7 +40003,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0020",
       "REF-0112",
       "REF-1226",
       "REF-1228",
@@ -40016,7 +40014,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0020",
       "REF-0112",
       "REF-1224",
       "REF-1228",
@@ -40029,7 +40026,6 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0020",
       "REF-0112",
       "REF-1223",
       "REF-1228",
@@ -40040,7 +40036,6 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0020",
       "REF-0112",
       "REF-1228",
       "REF-1229"
@@ -40050,7 +40045,6 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0020",
       "REF-0112",
       "REF-1228"
      ],
@@ -40064,7 +40058,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0020",
       "REF-1225",
       "REF-0112"
      ],
@@ -40077,7 +40070,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0020",
       "REF-0112"
      ],
      "evidence": 1,
@@ -40089,7 +40081,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0020",
       "REF-0112"
      ],
      "evidence": 1,
@@ -40097,13 +40088,12 @@
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Marjoram essential oil protected against a fungal skin infection (sporotrichosis) in animals (preclinical)",
      "reference_ids": [
       "REF-1226"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0020",
       "REF-0112"
      ],
      "evidence": 2,
@@ -40115,7 +40105,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0020",
       "REF-1225",
       "REF-0112"
      ],
@@ -40128,7 +40117,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0020",
       "REF-0112"
      ],
      "evidence": 1,
@@ -40140,25 +40128,10 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0020",
       "REF-0112"
      ],
      "evidence": 1,
      "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-1223"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0020",
-      "REF-0112"
-     ],
-     "evidence": 2,
-     "label": "Muscle spasm"
     },
     {
      "condition": "skin-irritation",
@@ -40166,7 +40139,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0020",
       "REF-1225",
       "REF-0112"
      ],
@@ -40179,7 +40151,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0020",
       "REF-0112"
      ],
      "evidence": 1,
@@ -40219,7 +40190,8 @@
     "REF-1229",
     "REF-1230",
     "REF-1231",
-    "REF-1232"
+    "REF-1232",
+    "REF-0020"
    ],
    "drug_class_interactions": [
     {
@@ -40479,18 +40451,19 @@
     },
     {
      "condition": "infection",
-     "note": "Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory and gastrointestinal infections; a small clinical study found emulsified oregano oil cleared enteric parasites (incl. Blastocystis hominis) and improved gut symptoms",
+     "note": "Oregano oil and carvacrol are antibacterial and antifungal in lab studies (reviews); an oregano ointment reduced surgical-wound infection in a randomized trial, and emulsified oregano oil cleared intestinal parasites in a small uncontrolled study",
      "reference_ids": [
       "REF-0485",
       "REF-0486",
-      "REF-0597"
+      "REF-0597",
+      "REF-3718"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-1451",
       "REF-1452"
      ],
-     "evidence": 3,
+     "evidence": 6,
      "label": "Infection (general)"
     },
     {
@@ -40508,8 +40481,10 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
+     "note": "An oregano extract ointment reduced bacterial contamination and infection of surgical wounds vs petrolatum in a randomized trial, with similar scarring",
+     "reference_ids": [
+      "REF-3718"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0597",
@@ -40519,7 +40494,7 @@
       "REF-0486",
       "REF-0485"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Wounds"
     }
    ],
@@ -40760,79 +40735,73 @@
       "polysaccharide"
      ],
      "note": "An acidic polysaccharide with antioxidant activity.",
-     "reference_ids": [
-      "REF-2787"
-     ]
+     "reference_ids": []
     }
    ],
    "actions": [
     {
      "action": "antioxidant",
-     "reference_ids": [
-      "REF-2787"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "anti-inflammatory",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "antimicrobial",
      "note": "Antibacterial and antiparasitic (amoebicidal/giardicidal) activity of woodsorrel extracts/constituents.",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "hepatoprotective",
      "note": "Protective against paracetamol-induced liver injury (congener O. corniculata).",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "gastroprotective",
      "note": "Protective against experimental gastric ulceration (congener O. corniculata).",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "anticancer",
      "note": "Woodsorrel phytoconstituents (and a green-synthesised nanoparticle made with O. stricta extract) induced apoptosis in breast, colon and Hep2 cancer cells (preclinical).",
-     "reference_ids": [
-      "REF-2779"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     },
     {
      "action": "antidiabetic",
      "note": "Alpha-glucosidase and alpha-amylase inhibition by woodsorrel extract (congener O. corniculata).",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "neuroprotective",
      "note": "Anti-Alzheimer's activity of woodsorrel extract in rats (congener O. corniculata).",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "vulnerary",
      "note": "Promotes wound and fracture healing; traditional topical use for wounds and skin (congener O. corniculata).",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "astringent",
      "note": "Sour, tannin-containing herb; the basis of traditional antidiarrhoeal use.",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "action": "antidiarrheal",
      "note": "Traditional astringent remedy for diarrhoea and dysentery (congener O. corniculata).",
      "reference_ids": [],
-     "status": "verified"
+     "status": "needs-review"
     }
    ],
    "contraindications": [
@@ -40860,9 +40829,7 @@
     }
    ],
    "references": [
-    "REF-2778",
-    "REF-2779",
-    "REF-2787"
+    "REF-2778"
    ],
    "drug_class_interactions": [
     {
@@ -40887,7 +40854,8 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-08-15"
+   "last_updated": "2026-08-15",
+   "indications": []
   },
   {
    "id": "oxycoccus-palustris",
@@ -41064,7 +41032,7 @@
    "indications": [
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "Small cranberry extracts were antibacterial in lab tests (review; preclinical)",
      "reference_ids": [
       "REF-0941",
       "REF-0945"
@@ -41078,7 +41046,7 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Small cranberry reduced inflammation in diabetic mice (preclinical)",
      "reference_ids": [
       "REF-0940"
      ],
@@ -41092,6 +41060,7 @@
       "REF-0941"
      ],
      "status": "verified",
+     "note": "Small cranberry's proanthocyanidins are reviewed for urinary tract protection (review)",
      "evidence": 2,
      "label": "Urinary support"
     },
@@ -41328,7 +41297,6 @@
      "note": "Physical performance / strength improvement",
      "reference_ids": [
       "REF-0014",
-      "REF-0137",
       "REF-0192",
       "REF-1471"
      ],
@@ -41353,8 +41321,7 @@
       "REF-0192",
       "REF-1466",
       "REF-1470",
-      "REF-1474",
-      "REF-1475"
+      "REF-1474"
      ],
      "status": "verified"
     }
@@ -41375,7 +41342,7 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Blood-sugar lowering effects reviewed (review); a systematic review of red ginseng trials in type 2 diabetes found the evidence not convincing",
      "reference_ids": [
       "REF-0137"
      ],
@@ -41384,12 +41351,15 @@
       "REF-0014",
       "REF-0192"
      ],
+     "null_result_ids": [
+      "REF-3723"
+     ],
      "evidence": 2,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Ginseng compounds protected nerve cells in lab and animal studies (review); a Cochrane review found no convincing evidence that ginseng improves cognition, and evidence in Alzheimer's disease is scarce and inconclusive",
      "reference_ids": [
       "REF-1474"
      ],
@@ -41400,7 +41370,8 @@
       "REF-0137"
      ],
      "null_result_ids": [
-      "REF-1475"
+      "REF-1475",
+      "REF-3724"
      ],
      "evidence": 2,
      "label": "Cognitive function"
@@ -41420,15 +41391,14 @@
     },
     {
      "condition": "fatigue",
-     "note": "inferred from ergogenic action",
+     "note": "Asian and American ginseng reduced fatigue in people with chronic illness (systematic review)",
      "reference_ids": [
       "REF-1471"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0014",
-      "REF-0192",
-      "REF-0137"
+      "REF-0192"
      ],
      "evidence": 7,
      "label": "Fatigue / low energy"
@@ -41443,12 +41413,13 @@
       "REF-0014",
       "REF-0192"
      ],
+     "note": "Immune effects of ginseng are reviewed (review)",
      "evidence": 2,
      "label": "Immune support"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Anti-inflammatory effects of ginseng are reviewed (review)",
      "reference_ids": [
       "REF-0137"
      ],
@@ -41462,7 +41433,7 @@
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
+     "note": "Ginseng compounds protected nerve cells in lab and animal studies (review); a Cochrane review and a systematic review found no convincing evidence of better memory or cognition",
      "reference_ids": [
       "REF-1474"
      ],
@@ -41471,6 +41442,10 @@
       "REF-0014",
       "REF-0192",
       "REF-0137"
+     ],
+     "null_result_ids": [
+      "REF-1475",
+      "REF-3724"
      ],
      "evidence": 2,
      "label": "Memory"
@@ -41485,6 +41460,7 @@
       "REF-0014",
       "REF-0192"
      ],
+     "note": "Metabolic effects of ginseng are reviewed (review)",
      "evidence": 2,
      "label": "Metabolic support"
     },
@@ -41500,6 +41476,30 @@
      ],
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "A 2019 meta-analysis found Panax ginseng lowered total and LDL cholesterol, but a 2024 GRADE-assessed meta-analysis found no significant effect on blood lipids",
+     "reference_ids": [
+      "REF-3719"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3720"
+     ],
+     "evidence": 7,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "low-libido",
+     "note": "Red ginseng improved erectile dysfunction in randomized trials (systematic review; suggestive evidence), and Panax ginseng helped female sexual dysfunction in a meta-analysis (preliminary evidence)",
+     "reference_ids": [
+      "REF-3721",
+      "REF-3722"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Low libido"
     }
    ],
    "contraindications": [
@@ -41768,31 +41768,38 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "Anxiolytic for anxiety and nervous tension (reduces anxiety in clinical trials); Reduces preoperative / situational anxiety without sedation or psychomotor impairment (RCT in ambulatory surgery patients)",
+     "note": "Passionflower reduced anxiety before surgery and dental extraction in randomized trials (as well as midazolam in one) and matched oxazepam in a small trial in generalized anxiety; a network meta-analysis found no significant effect vs placebo",
      "reference_ids": [
       "REF-0490",
-      "REF-0563"
+      "REF-0563",
+      "REF-3705",
+      "REF-3706",
+      "REF-1911"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0491"
      ],
-     "evidence": 8,
+     "null_result_ids": [
+      "REF-2546"
+     ],
+     "evidence": 10,
      "label": "Anxiety"
     },
     {
      "condition": "insomnia",
-     "note": "Sleep support for insomnia - improves subjective sleep quality and, on polysomnography, increases total sleep time",
+     "note": "Passionflower improved subjective sleep quality and, on sleep studies, total sleep time vs placebo in randomized trials; traditional use to aid sleep (EU herbal monograph)",
      "reference_ids": [
       "REF-0491",
       "REF-0564",
-      "REF-0565"
+      "REF-0565",
+      "REF-1907"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0490"
      ],
-     "evidence": 6,
+     "evidence": 7,
      "label": "Insomnia / sleeplessness"
     },
     {
@@ -41809,13 +41816,14 @@
     },
     {
      "condition": "stress",
-     "note": "Relief of mild mental stress",
+     "note": "Traditional use for mild symptoms of mental stress (EU herbal monograph); an extract reduced stress and improved sleep vs placebo in a randomized trial",
      "reference_ids": [
       "REF-0490",
-      "REF-0491"
+      "REF-0491",
+      "REF-1907"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Stress"
     }
    ],
@@ -42016,7 +42024,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0009",
-      "REF-0106",
       "REF-0952",
       "REF-0953",
       "REF-0954",
@@ -42028,7 +42035,6 @@
      "action": "ergogenic",
      "note": "Physical performance / strength improvement",
      "reference_ids": [
-      "REF-0009",
       "REF-0106",
       "REF-0955",
       "REF-0957"
@@ -42038,7 +42044,6 @@
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0009",
       "REF-0106",
       "REF-0958"
      ],
@@ -42048,29 +42053,23 @@
    "indications": [
     {
      "condition": "cognitive-function",
-     "note": "inferred from neuroprotective action",
+     "note": "Guarana improved attention and some cognitive tests in randomized trials and a meta-analysis; how much is due to its caffeine is unknown",
      "reference_ids": [
       "REF-0106",
       "REF-0950"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0009"
-     ],
      "evidence": 8,
      "label": "Cognitive function"
     },
     {
      "condition": "memory",
-     "note": "inferred from neuroprotective action",
+     "note": "Guarana improved some memory and attention tasks in a randomized trial, and protected against amyloid toxicity in worms (preclinical)",
      "reference_ids": [
       "REF-0106",
       "REF-0958"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0009"
-     ],
      "evidence": 5,
      "label": "Memory"
     },
@@ -42083,8 +42082,26 @@
       "REF-0959"
      ],
      "status": "verified",
+     "note": "Guarana reduced fat-cell formation and weight gain in lab and animal studies (preclinical; review)",
      "evidence": 2,
      "label": "Metabolic support"
+    },
+    {
+     "condition": "fatigue",
+     "note": "Guarana reduced cancer-related fatigue in some randomized trials and a 2024 meta-analysis, but a 2021 meta-analysis and two other trials found it no better than placebo",
+     "reference_ids": [
+      "REF-3707",
+      "REF-3708",
+      "REF-3709"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-0951",
+      "REF-3710",
+      "REF-3711"
+     ],
+     "evidence": 9,
+     "label": "Fatigue / low energy"
     }
    ],
    "contraindications": [
@@ -42265,28 +42282,31 @@
    "indications": [
     {
      "condition": "bronchitis",
-     "note": "Acute bronchitis - reduces symptom severity and shortens illness",
+     "note": "EPs 7630 reduced acute bronchitis symptoms and shortened illness in randomized trials and meta-analyses, including in children (Cochrane review: low-quality evidence)",
      "reference_ids": [
       "REF-0492",
       "REF-0493",
       "REF-0576",
-      "REF-1870"
+      "REF-1870",
+      "REF-3715",
+      "REF-3712"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 9,
      "label": "Bronchitis"
     },
     {
      "condition": "cold",
-     "note": "Common cold and acute respiratory tract infection",
+     "note": "A high-dose pelargonium extract reduced common cold symptoms and shortened illness in a randomized trial (Cochrane review: very low-quality evidence)",
      "reference_ids": [
-      "REF-1870"
+      "REF-1870",
+      "REF-3714"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0492"
      ],
-     "evidence": 7,
+     "evidence": 8,
      "label": "Cold & flu"
     },
     {
@@ -42302,12 +42322,13 @@
     },
     {
      "condition": "infection",
-     "note": "Common cold and acute respiratory tract infection",
+     "note": "Moderate evidence of efficacy for respiratory tract infections in children (meta-analysis); antiviral and immune effects in the lab (preclinical)",
      "reference_ids": [
-      "REF-0492"
+      "REF-0492",
+      "REF-3713"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 7,
      "label": "Infection (general)"
     },
     {
@@ -42323,13 +42344,44 @@
     },
     {
      "condition": "sore-throat",
-     "note": "Sore throat / acute tonsillopharyngitis",
+     "note": "EPs 7630 eased acute tonsillopharyngitis and bronchitis in children in a meta-analysis of trials",
      "reference_ids": [
-      "REF-0492"
+      "REF-0492",
+      "REF-3712"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 7,
      "label": "Sore throat"
+    },
+    {
+     "condition": "cough",
+     "note": "Pelargonium sidoides was superior to placebo for cough frequency and severity (moderate evidence, systematic review and meta-analysis)",
+     "reference_ids": [
+      "REF-3434"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Cough"
+    },
+    {
+     "condition": "respiratory-support",
+     "note": "Added to usual treatment, EPs 7630 prolonged time to COPD flare-ups and reduced their frequency vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3716"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Respiratory support"
+    },
+    {
+     "condition": "asthma",
+     "note": "EPs 7630 reduced asthma attacks during viral upper respiratory infections in a randomized trial",
+     "reference_ids": [
+      "REF-3717"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Asthma"
     }
    ],
    "contraindications": [
@@ -42530,8 +42582,7 @@
       "REF-0426",
       "REF-0544",
       "REF-1477",
-      "REF-1478",
-      "REF-1483"
+      "REF-1478"
      ],
      "status": "verified"
     },
@@ -42542,7 +42593,6 @@
       "REF-0426",
       "REF-1477",
       "REF-1481",
-      "REF-1483",
       "REF-1484"
      ],
      "status": "needs-review"
@@ -42571,7 +42621,7 @@
     },
     {
      "condition": "asthma",
-     "note": "Antispasmodic support in bronchial asthma",
+     "note": "An open, uncontrolled trial of butterbur extract reduced asthma attacks and medication use",
      "reference_ids": [
       "REF-1481"
      ],
@@ -42610,6 +42660,7 @@
       "REF-1479"
      ],
      "status": "verified",
+     "note": "Butterbur root extract prevented migraine headaches vs placebo in randomized trials",
      "evidence": 6,
      "label": "Headache"
     },
@@ -42635,18 +42686,6 @@
      "status": "verified",
      "evidence": 6,
      "label": "Migraine"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1481",
-      "REF-0426"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
     }
    ],
    "contraindications": [
@@ -42993,7 +43032,7 @@
     },
     {
      "condition": "kidney-support",
-     "note": "inferred from nephroprotective action",
+     "note": "Kidney-protective effects reported in animal studies (reviews)",
      "reference_ids": [
       "REF-0489",
       "REF-0546"
@@ -43007,7 +43046,7 @@
     },
     {
      "condition": "liver-support",
-     "note": "inferred from hepatoprotective action",
+     "note": "Parsley extract protected the liver in rats with bile duct obstruction, diabetes or a fructose diet (preclinical; reviews)",
      "reference_ids": [
       "REF-0489",
       "REF-0546",
@@ -43019,7 +43058,7 @@
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from diuretic action",
+     "note": "Parsley increased urine output in rats; traditional diuretic (reviews)",
      "reference_ids": [
       "REF-0489",
       "REF-0545",

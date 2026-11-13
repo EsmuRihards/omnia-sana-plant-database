@@ -1,0 +1,491 @@
+# Landmark search batch 12
+
+## origanum-majorana (Origanum majorana; Marjoram) - 7 (+CT) hits; query: ("Origanum majorana"[tiab] OR "Marjoram"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 41052623 | RCT | Effect of Origanum majorana tea on oxidative stress biomarkers in Parkinson's disease: a randomized placebo-controlled pilot study.
+- new | 2021 | 34455218 | RCT | The effect of Origanum majorana tea on motor and non-motor symptoms in patients with idiopathic Parkinson's disease: A randomized controlled pilot study.
+- new | 2019 | 31671873 | RCT | Effects of Aromatherapy Combined with Music Therapy on Anxiety, Stress, and Fundamental Nursing Skills in Nursing Students: A Randomized Controlled Trial.
+- new | 2017 | 28504569 | RCT | Comparisons for Effectiveness of Aromatherapy and Acupressure Massage on Quality of Life in Career Women: A Randomized Controlled Trial.
+- HELD REF-1227 | 2016 | 25662759 | RCT | The effect of marjoram (Origanum majorana) tea on the hormonal profile of women with polycystic ovary syndrome: a randomised controlled pilot study.
+- new | 2014 | 24746728 | RCT | Clinical and mycological evaluation of an herbal antifungal formulation in canine Malassezia dermatitis.
+- new | 2012 | 22435409 | RCT | Pain relief assessment by aromatic essential oil massage on outpatients with primary dysmenorrhea: a randomized, double-blind clinical trial.
+
+## origanum-vulgare (Origanum vulgare; Oregano) - 26 (+CT) hits; query: ("Origanum vulgare"[tiab] OR "Oregano"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41875322 | MA/SR | Effects of oregano extracts, alone or in combination with other biomolecules, on growth performances and parasitological parameters of broiler chickens challenged with Ei
+- new | 2023 | 36609950 | SR | Herbal Medicines for Rhinosinusitis: A Systematic Review and Network Meta-analysis.
+- new | 2022 | 35490427 | SR | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review.
+- new | 2022 | 34359086 | SR | Medicinal Plants for Prophylaxis and Therapy of Common Infectious Diseases In Poultry-A Systematic Review of In Vivo Studies.
+- new | 2022 | 34496170 | RCT | Effect of Origanum dubium, Origanum vulgare subsp. hirtum, and Lavandula angustifolia essential oils on lipid profiles and liver biomarkers in athletes.
+- new | 2021 | 33429991 | Clinical Trial | The Antimicrobial Activity of Origanum vulgare L. Correlated with the Gastrointestinal Perturbation in Patients with Metabolic Syndrome.
+- new | 2018 | 29030881 | RCT | Effects of dietary Greek oregano (Origanum vulgare ssp. hirtum) supplementation on rumen fermentation, enzyme profile and microbial communities in goats.
+- new | 2017 | 28067421 |  | Dietary integration with oregano (Origanum vulgare L.) essential oil improves growth rate and oxidative status in outdoor-reared, but not indoor-reared, pigs.
+- new | 2017 | 26783019 | RCT | Open-field study comparing an essential oil-based shampoo with miconazole/chlorhexidine for haircoat disinfection in cats with spontaneous microsporiasis.
+- new | 2017 | 27550621 | RCT | Gut complex carbohydrates and intestinal microflora in broiler chickens fed with oregano (Origanum vulgare L.) aqueous extract and vitamin E.
+- new | 2016 | 27268043 | SR | Medicinal plants--prophylactic and therapeutic options for gastrointestinal and respiratory diseases in calves and piglets? A systematic review.
+- new | 2016 | 28116344 | RCT | Oregano Extract Added into the Diet of Dairy Heifers Changes Feeding Behavior and Concentrate Intake.
+- new | 2014 | 24746728 | RCT | Clinical and mycological evaluation of an herbal antifungal formulation in canine Malassezia dermatitis.
+- new | 2013 | 23368893 | RCT | A herbal antifungal formulation of Thymus serpillum, Origanum vulgare and Rosmarinus officinalis for treating ovine dermatophytosis due to Trichophyton mentagrophytes.
+- new | 2012 | 23518021 | RCT | In vitro and in vivo antifungal activity of some essential oils against feline isolates of Microsporum canis.
+- new | 2012 | 22662614 |  | The efficacy of Origanum vulgare on Eimeria tenella.
+- new | 2012 | 22064737 | RCT | Use of rosemary, oregano, and a commercial blend of essential oils in broiler chickens: in vitro antimicrobial activities and effects on growth performance.
+- new | 2012 | 22252366 | RCT | Effects of dietary oregano essential oil and vitamin E on the lipid oxidation stability of cooked chicken breast meat.
+- new | 2012 | 22404809 | RCT | Effect of a rosemary and oregano volatile oil mixture on performance, lipid oxidation of meat and haematological parameters in Pharaoh quails.
+- new | 2011 | 21968667 | RCT | Oregano extract ointment for wound healing: a randomized, double-blind, petrolatum-controlled study evaluating efficacy.
+- new | 2010 | 20374841 | RCT | The effects of dietary oregano oil supplementation on pig meat characteristics.
+- new | 2006 | 16881679 | RCT | Consumption of juice fortified with oregano extract markedly increases excretion of phenolic acids but lacks short- and long-term effects on lipid peroxidation in healthy
+- new | 2005 | 16359114 |  | Effect of dietary dried oregano leaves on growth performance, carcase characteristics and serum cholesterol of female early maturing turkeys.
+- new | 2004 | 14995969 | Clinical Trial | Strategic application of oregano feed supplements reduces sow mortality and improves reproductive performance--a case study.
+- new | 2004 | 14985183 | Clinical Trial/RCT | Dietary versus post-mortem use of oregano oil and/or alpha-tocopherol in turkeys to inhibit development of lipid oxidation in meat during refrigerated storage.
+- HELD REF-0597 | 2000 | 10815019 | Clinical Trial | Inhibition of enteric parasites by emulsified oil of oregano in vivo.
+
+## oxalis-stricta (Oxalis stricta; Common yellow woodsorrel) - 0 (+CT) hits; query: ("Oxalis stricta"[tiab] OR "Oxalis fontana"[tiab] OR "Xanthoxalis stricta"[tiab] OR "Common yellow woodsorrel"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+
+## oxycoccus-palustris (Oxycoccus palustris; Cranberry) - 148 hits; query: ("Oxycoccus palustris"[tiab] OR "Cranberry"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42003421 | SR/MA | The Effect of Cranberry Consumption on Blood Pressure: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2026 | 42134099 | RCT | Effects of (poly)phenol-rich cranberry on mental health in university students: The CRANMOOD randomised controlled trial.
+- new | 2026 | 41676867 | SR | Effectiveness of Cranberry Supplementation for Prevention and Treatment of Infectious Urinary Tract Disease in Dogs and Cats: A Systematic Review.
+- new | 2026 | 41500088 | RCT | Lactobacillus, vitamin C, cranberry and hibiscus versus placebo for prolonging the latency period of premature rupture of membranes: a double-blind randomized clinical tr
+- new | 2026 | 42908981 | RCT | Efficacy of a standardized cranberry supplement on overactive bladder symptoms and urobiome alterations in young women: a randomized, double-blind, placebo-controlled pil
+- new | 2026 | 42337282 | RCT | In vivo exposure to cranberry juice suppresses dental plaque regrowth and acid production in adults and children: a PGRM study.
+- new | 2025 | 39863114 | RCT | Whole cranberry fruit powder supplement reduces the incidence of culture-confirmed urinary tract infections in females with a history of recurrent urinary tract infection
+- new | 2025 | 41096972 | SR | Cranberry Research Progress: A Systematic Review of Chemical Composition, Pharmacological Mechanisms, Clinical Applications, and Nutritional Significance.
+- new | 2025 | 40078413 | SR | Cranberry-derived bioactives for the prevention and treatment of urinary tract infections: antimicrobial mechanisms and global research trends in nutraceutical applicatio
+- new | 2025 | 39023333 | RCT | Effect of tablets containing a paraprobiotic strain and the cranberry extract on caries incidence in preschool children: A randomized controlled trial.
+- HELD REF-0389 | 2024 | 39030132 | SR | Cranberry Juice, Cranberry Tablets, or Liquid Therapies for Urinary Tract Infection: A Systematic Review and Network Meta-analysis.
+- new | 2024 | 38542695 | MA/SR | The Effects of Cranberry Consumption on Glycemic and Lipid Profiles in Humans: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+- new | 2024 | 37963472 | MA/SR | The effects of blueberry and cranberry supplementation on blood pressure in patients with cardiovascular diseases: A systematic review and meta-analysis of randomized cli
+- new | 2024 | 38999860 | RCT | Supplementation with Highly Standardized Cranberry Extract Phytosome Achieved the Modulation of Urinary Tract Infection Episodes in Diabetic Postmenopausal Women Taking S
+- new | 2024 | 38840232 | SR | Effect of flavonoids from grape seed and cranberry extracts on the microbiological activity of Streptococcus mutans: a systematic review of in vitro studies.
+- new | 2024 | 39339726 | RCT | Polyphenol-Rich Cranberry Beverage Positively Affected Skin Health, Skin Lipids, Skin Microbiome, Inflammation, and Oxidative Stress in Women in a Randomized Controlled T
+- new | 2024 | 39225946 | RCT | Comparative evaluation of cranberry extract and sodium fluoride as mouth rinses on S. mutans counts in children: a double-blind randomized controlled trial.
+- new | 2024 | 39408218 | RCT | A Multiomics Evaluation of the Countermeasure Influence of 4-Week Cranberry Beverage Supplementation on Exercise-Induced Changes in Innate Immunity.
+- new | 2023 | 37133890 | MA | Updated Meta-analysis: Cranberry Products Reduced UTI Risk.
+- new | 2023 | 38126412 | RCT | Antibiotic versus cranberry in the treatment of uncomplicated urinary infection: a randomized controlled trial.
+- new | 2023 | 37689939 | RCT | Unravelling phenolic metabotypes in the frame of the COMBAT study, a randomized, controlled trial with cranberry supplementation.
+- new | 2023 | 36587538 | RCT | Predictive models built upon annotated and validated intake biomarkers in urine using paired or unpaired analysis helped to classify cranberry juice consumers in a random
+- new | 2023 | 36602283 | RCT | Cranberry-lingonberry juice affects the gut and urinary microbiome in children - a randomized controlled trial.
+- new | 2022 | 35282984 | MA/SR | Effects of blueberry and cranberry on type 2 diabetes parameters in individuals with or without diabetes: A systematic review and meta-analysis of randomized clinical tri
+- new | 2022 | 34670631 | MA/SR | The effect of cranberry supplementation on Helicobacter pylori eradication in H. pylori positive subjects: a systematic review and meta-analysis of randomised controlled 
+- new | 2022 | 35272334 | RCT | Methenamine Hippurate With Cranberry Capsules Versus Cranberry Alone for Urinary Tract Infection Prevention in a Short-Term Indwelling Foley Catheter Population After Uro
+- new | 2022 | 36304830 | RCT | Short-term effects of sugar-free apricot jam, cocoa powder and dried cranberry cereal bar on glycaemic responses in healthy adults: a randomised clinical trial.
+- new | 2022 | 35063244 | RCT | Effect of cranberry supplementation on toxins produced by the gut microbiota in chronic kidney disease patients: A pilot randomized placebo-controlled trial.
+- new | 2022 | 35322843 | RCT | Daily consumption of cranberry improves endothelial function in healthy adults: a double blind randomized controlled trial.
+- HELD REF-1341 | 2021 | 34473789 | MA/SR | Consumption of cranberry as adjuvant therapy for urinary tract infections in susceptible populations: A systematic review and meta-analysis with trial sequential analysis
+- new | 2021 | 33596852 | RCT | Limited effects of long-term daily cranberry consumption on the gut microbiome in a placebo-controlled study of women with recurrent urinary tract infections.
+- HELD REF-1343 | 2021 | 33757474 | RCT | High dose versus low dose standardized cranberry proanthocyanidin extract for the prevention of recurrent urinary tract infection in healthy women: a double-blind randomi
+- new | 2021 | 32783238 | RCT | Suppression of Helicobacter pylori infection by daily cranberry intake: A double-blind, randomized, placebo-controlled trial.
+- new | 2021 | 34126630 | RCT | Effects of cranberry beverages on oxidative stress and gut microbiota in subjects with Helicobacter pylori infection: a randomized, double-blind, placebo-controlled trial
+- new | 2021 | 34444779 | RCT | Effects of Cranberry Juice Supplementation on Cardiovascular Disease Risk Factors in Adults with Elevated Blood Pressure: A Randomized Controlled Trial.
+- new | 2021 | 32945735 | RCT | Efficacy of Daily Intake of Dried Cranberry 500 mg in Women with Overactive Bladder: A Randomized, Double-Blind, Placebo Controlled Study.
+- new | 2021 | 34798892 | RCT | Effect of cranberry supplementation on liver enzymes and cardiometabolic risk factors in patients with NAFLD: a randomized clinical trial.
+- new | 2021 | 33619202 | RCT | Does cranberry extract reduce antibiotic use for symptoms of acute uncomplicated urinary tract infections (CUTI)? A feasibility randomised trial.
+- new | 2020 | 33194008 | MA/SR | Cranberry for Bacteriuria in Individuals with Spinal Cord Injury: A Systematic Review and Meta-Analysis.
+- new | 2020 | 31023488 | MA/SR | The effects of cranberry on cardiovascular metabolic risk factors: A systematic review and meta-analysis.
+- new | 2020 | 31674202 | RCT | Cranberry, D-mannose and anti-inflammatory agents prevent lower urinary tract symptoms in women undergoing prolapse surgery.
+- new | 2020 | 32237922 | RCT | Combined cranberry supplementation and weight loss diet in non-alcoholic fatty liver disease: a double-blind placebo-controlled randomized clinical trial.
+- new | 2020 | 31283892 | RCT | Randomized Controlled Study to Evaluate Microbial Ecological Effects of CPP-ACP and Cranberry on Dental Plaque.
+- new | 2020 | 32133462 | RCT | Modifications of the urinary metabolome in young women after cranberry juice consumption were revealed using the UHPLC-Q-orbitrap-HRMS-based metabolomics approach.
+- new | 2020 | 32281738 | RCT | Identifying Cranberry Juice Consumers with Predictive OPLS-DA Models of Plasma Metabolome and Validation of Cranberry Juice Intake Biomarkers in a Double-Blinded, Randomi
+- new | 2020 | 32396592 | RCT | Kinetic profile and urinary excretion of phenyl-γ-valerolactones upon consumption of cranberry: a dose-response relationship.
+- new | 2020 | 32413530 | RCT | Cranberry capsules are not superior to placebo capsules in managing acute non-haemorrhagic radiation cystitis in prostate cancer patients: A phase III double blinded rand
+- new | 2020 | 32301407 | RCT | Effect of daily consumption of cranberry beverage on insulin sensitivity and modification of cardiovascular risk factors in adults with obesity: a pilot, randomised, plac
+- new | 2019 | 30553231 | RCT | Cranberry juice decreases disease activity in women with rheumatoid arthritis.
+- new | 2019 | 30039387 | RCT | The influence of dietary supplementation with cranberry tablets on the urinary risk factors for nephrolithiasis.
+- new | 2019 | 29345498 | SR | Effects of blueberry and cranberry consumption on type 2 diabetes glycemic control: A systematic review.
+- new | 2019 | 31516055 | RCT | Probiotic and cranberry supplementation for preventing recurrent uncomplicated urinary tract infections in premenopausal women: a controlled pilot study.
+- new | 2019 | 31117097 | RCT | A Multicenter, Randomized, Placebo-Controlled Study Evaluating the Efficacy of a Combination of Propolis and Cranberry (Vaccinium macrocarpon) (DUAB®) in Preventing Low U
+- new | 2019 | 29476238 | RCT | Chronic consumption of a low calorie, high polyphenol cranberry beverage attenuates inflammation and improves glucoregulation and HDL cholesterol in healthy overweight hu
+- new | 2019 | 31702761 | RCT | A randomized, double-blind, placebo-controlled pilot study to assess bacterial anti-adhesive activity in human urine following consumption of a cranberry supplement.
+- new | 2018 | 29111902 | RCT | The Effect of Cranberry Juice Consumption on the Recurrence of Urinary Tract Infection: Relationship to Baseline Risk Factors.
+- new | 2018 | 29705442 | RCT | The effects of training and the use of cranberry capsule in preventing urinary tract infections after urostomy.
+- new | 2018 | 30340813 | RCT | Consumption of cranberry functional beverage reduces gingival index and plaque index in patients with gingivitis.
+- new | 2018 | 29716563 | RCT | Standardised high dose versus low dose cranberry Proanthocyanidin extracts for the prevention of recurrent urinary tract infection in healthy women [PACCANN]: a double bl
+- new | 2018 | 29272211 | RCT | Impact of Cranberry Juice Enriched with Omega-3 Fatty Acids Adjunct with Nonsurgical Periodontal Treatment on Metabolic Control and Periodontal Status in Type 2 Patients 
+- HELD REF-1340 | 2017 | 29046404 | MA/SR | Cranberry Reduces the Risk of Urinary Tract Infection Recurrence in Otherwise Healthy Women: A Systematic Review and Meta-Analysis.
+- new | 2017 | 28433923 | RCT | UHPLC-Q-Orbitrap-HRMS-based global metabolomics reveal metabolome modifications in plasma of young women after cranberry juice consumption.
+- new | 2017 | 28186383 | RCT | Cranberry capsules to prevent nosocomial urinary tract bacteriuria after pelvic surgery: a randomised controlled trial.
+- new | 2017 | 28287476 | RCT | Absorption, Metabolism and Excretion of Cranberry (Poly)phenols in Humans: A Dose Response Study and Assessment of Inter-Individual Variability.
+- new | 2017 | 28261001 | RCT | Effects of cranberry (Vaccinum macrocarpon) supplementation on iron status and inflammatory markers in rowers.
+- new | 2017 | 28290272 | RCT | Strawberry and cranberry polyphenols improve insulin sensitivity in insulin-resistant, non-diabetic adults: a parallel, double-blind, controlled and randomised clinical t
+- new | 2017 | 27914106 | RCT | Effect of Cranberry Extract on the Frequency of Bacteriuria in Dogs with Acute Thoracolumbar Disk Herniation: A Randomized Controlled Clinical Trial.
+- new | 2017 | 28144131 | RCT | Cranberry juice concentrate does not significantly decrease the incidence of acquired bacteriuria in female hip fracture patients receiving urine catheter: a double-blind
+- new | 2017 | 28608666 | RCT | [Evaluation of the effects of a natural dietary supplement with cranberry, Noxamicina® and D-mannose in recurrent urinary infections in perimenopausal women].
+- HELD REF-1342 | 2016 | 27251185 | RCT | Consumption of a cranberry juice beverage lowered the number of clinical urinary tract infection episodes in women with a recent history of urinary tract infection.
+- new | 2016 | 26049866 | RCT | Cranberry fruit powder (Flowens™) improves lower urinary tract symptoms in men: a double-blind, randomized, placebo-controlled study.
+- new | 2016 | 27027843 | RCT | Effects of cranberry extract on prevention of urinary tract infection in dogs and on adhesion of Escherichia coli to Madin-Darby canine kidney cells.
+- new | 2016 | 27242317 | RCT | Cranberry (poly)phenol metabolites correlate with improvements in vascular function: A double-blind, randomized, controlled, dose-response, crossover study.
+- new | 2016 | 27833172 | RCT | Cranberry intervention in patients with prostate cancer prior to radical prostatectomy. Clinical, pathological and laboratory findings.
+- new | 2016 | 27314247 | RCT | Effect of oral cranberry extract (standardized proanthocyanidin-A) in patients with recurrent UTI by pathogenic E. coli: a randomized placebo-controlled clinical research
+- new | 2016 | 27787564 | RCT | Effect of Cranberry Capsules on Bacteriuria Plus Pyuria Among Older Women in Nursing Homes: A Randomized Clinical Trial.
+- new | 2016 | 27085566 | RCT | Prevention of Urinary Tract Infection with Oximacro, A Cranberry Extract with a High Content of A-Type Proanthocyanidins: A Pre-Clinical Double-Blind Controlled Study.
+- new | 2015 | 25300782 | RCT | [Efficacy and safety profile of cranberry in infants and children with recurrent urinary tract infection].
+- new | 2015 | 25204992 | RCT | American cranberry (proanthocyanidin 120 mg): its value for the prevention of urinary tracts infections after ureteral catheter placement.
+- new | 2015 | 25695180 | RCT | Antibiotic susceptibility of urinary isolates in nursing home residents consuming cranberry capsules versus placebo.
+- new | 2015 | 26268913 | RCT | Are High Proanthocyanidins Key to Cranberry Efficacy in the Prevention of Recurrent Urinary Tract Infection?
+- new | 2015 | 25723356 | RCT | A randomized, double-blind, placebo-controlled trial to assess the bacterial anti-adhesion effects of cranberry extract beverages.
+- new | 2015 | 25882919 | RCT | Cranberry juice capsules and urinary tract infection after surgery: results of a randomized trial.
+- new | 2015 | 24993395 | RCT | Standardized cranberry capsules for radiation cystitis in prostate cancer patients in New Zealand: a randomized double blinded, placebo controlled pilot study.
+- new | 2015 | 26411014 | RCT | Comparison of the Anti-Adhesion Activity of Three Different Cranberry Extracts on Uropathogenic P-fimbriated Escherichia coli: a Randomized, Double-blind, Placebo Control
+- new | 2015 | 25872631 | RCT | Effect of high-molecular-weight component of Cranberry on plaque and salivary Streptococcus mutans counts in children: an in vivo study.
+- new | 2015 | 25904733 | RCT | Cranberry juice consumption lowers markers of cardiometabolic risk, including blood pressure and circulating C-reactive protein, triglyceride, and glucose concentrations 
+- new | 2014 | 25180378 | RCT | Effectiveness of cranberry capsules to prevent urinary tract infections in vulnerable older persons: a double-blind randomized placebo-controlled trial in long-term care 
+- new | 2014 | 24402038 | RCT | Cranberry versus placebo in the prevention of urinary infections in multiple sclerosis: a multicenter, randomized, placebo-controlled, double-blind trial.
+- new | 2014 | 24092275 | RCT | Solidago, orthosiphon, birch and cranberry extracts can decrease microbial colonization and biofilm development in indwelling urinary catheter: a microbiologic and ultras
+- new | 2014 | 24916555 | RCT | Consumption of cranberry beverage improved endogenous antioxidant status and protected against bacteria adhesion in healthy humans: a randomized controlled trial.
+- new | 2013 | 22382203 | RCT | Polyphenol-rich cranberry juice has a neutral effect on endothelial function but decreases the fraction of osteocalcin-expressing endothelial progenitor cells.
+- new | 2013 | 23351409 | RCT | Evidence that cranberry juice may improve augmentation index in overweight men.
+- new | 2013 | 22961092 | RCT | A randomized clinical trial to evaluate the preventive effect of cranberry juice (UR65) for patients with recurrent urinary tract infection.
+- new | 2013 | 24330619 | RCT | Consumption of cranberry polyphenols enhances human γδ-T cell proliferation and reduces the number of symptoms associated with colds and influenza: a randomized, placebo-
+- new | 2012 | 22777630 | MA/SR | Cranberry-containing products for prevention of urinary tract infections in susceptible populations: a systematic review and meta-analysis of randomized controlled trials
+- new | 2012 | 22690994 | RCT | Pilot randomized controlled dosing study of cranberry capsules for reduction of bacteriuria plus pyuria in female nursing home residents.
+- new | 2012 | 22910239 | RCT | Cranberry juice for the prevention of pediatric urinary tract infection: a randomized controlled trial.
+- new | 2012 | 22305026 | RCT | Recurrent urinary tract infection and urinary Escherichia coli in women ingesting cranberry juice daily: a randomized controlled trial.
+- new | 2012 | 22100577 | RCT | Cranberry juice for the prevention of recurrences of urinary tract infections in children: a randomized placebo-controlled trial.
+- new | 2012 | 21703829 | RCT | A randomised double-blind placebo-controlled trial to determine the effect of cranberry juice on decreasing the incidence of urinary symptoms and urinary tract infections
+- new | 2011 | 21411615 | RCT | Effects of cranberry juice consumption on vascular function in patients with coronary artery disease.
+- new | 2011 | 21148516 | RCT | Cranberry juice fails to prevent recurrent urinary tract infection: results from a randomized placebo-controlled trial.
+- new | 2011 | 21481712 | RCT | Low-energy cranberry juice decreases lipid oxidation and increases plasma antioxidant capacity in women with metabolic syndrome.
+- new | 2010 | 20646356 | RCT | Inhibitory activity of cranberry extract on the bacterial adhesiveness in the urine of women: an ex-vivo study.
+- new | 2010 | 19562652 | RCT | Comparison of urinary cytokines after ingestion of cranberry juice cocktail in pregnant subjects: a pilot study.
+- new | 2010 | 20398248 | RCT | Dosage effect on uropathogenic Escherichia coli anti-adhesion activity in urine following consumption of cranberry powder standardized for proanthocyanidin content: a mul
+- new | 2009 | 19636526 | SR | [Myth or truth. Cranberry juice for prophylaxis and treatment of recurrent urinary tract infection].
+- new | 2009 | 19553405 | RCT | The absence of an interaction between warfarin and cranberry juice: a randomized, double-blind trial.
+- new | 2009 | 19921981 | RCT | Cranberry juice for the prevention of recurrent urinary tract infections: a randomized controlled trial in children.
+- new | 2009 | 20003665 | RCT | Effect of cranberry drink on bacterial adhesion in vitro and vaginal microbiota in healthy females.
+- new | 2009 | 19042940 | RCT | Cranberry or trimethoprim for the prevention of recurrent urinary tract infections? A randomized controlled trial in older women.
+- new | 2008 | 18558697 | RCT | Cranberries and cranberry products: powerful in vitro, ex vivo, and in vivo sources of antioxidants.
+- new | 2008 | 18392039 | RCT | Evaluation of cranberry tablets for the prevention of urinary tract infections in spinal cord injured patients with neurogenic bladder.
+- new | 2008 | 18361737 | RCT | Human glycemic response and phenolic content of unsweetened cranberry juice.
+- new | 2008 | 18516070 | RCT | Pharmacodynamic interaction of warfarin with cranberry but not with garlic in healthy subjects.
+- new | 2008 | 19046248 | RCT | Effect of cranberry extracts on lipid profiles in subjects with Type 2 diabetes.
+- new | 2008 | 18707726 | RCT | Daily cranberry juice for the prevention of asymptomatic bacteriuria in pregnancy: a randomized, controlled pilot study.
+- new | 2008 | 18190583 | RCT | In-vitro and in-vivo evidence of dose-dependent decrease of uropathogenic Escherichia coli virulence after consumption of commercial Vaccinium macrocarpon (cranberry) cap
+- new | 2008 | 18343637 | RCT | Modulation of Helicobacter pylori colonization with cranberry juice and Lactobacillus johnsonii La1 in children.
+- new | 2007 | 17392729 | RCT | Effects of daily ingestion of cranberry juice on the pharmacokinetics of warfarin, tizanidine, and midazolam--probes of CYP2C9, CYP1A2, and CYP3A4.
+- new | 2007 | 17381122 | RCT | Biosafety, antioxidant status, and metabolites in urine after consumption of dried cranberry juice in healthy women: a pilot double-blind placebo-controlled trial.
+- new | 2007 | 17487928 | RCT | Effect of cranberry juice on eradication of Helicobacter pylori in patients treated with antibiotics and a proton pump inhibitor.
+- new | 2006 | 16857334 | SR | [Use of cranberry in chronic urinary tract infections].
+- new | 2006 | 17126638 | RCT | Cranberry does not affect prothrombin time in male subjects on warfarin.
+- new | 2006 | 16413247 | RCT | Interaction of flurbiprofen with cranberry juice, grape juice, tea, and fluconazole: in vitro and clinical studies.
+- new | 2006 | 16513449 | RCT | Pomelo juice, but not cranberry juice, affects the pharmacokinetics of cyclosporine in humans.
+- new | 2006 | 16397814 | RCT | Reduction of Escherichia coli adherence to uroepithelial bladder cells after consumption of cranberry juice: a double-blind randomized placebo-controlled cross-over trial
+- new | 2006 | 16032375 | RCT | The effects of cranberry juice consumption on antioxidant status and biomarkers relating to heart disease and cancer in healthy human volunteers.
+- new | 2005 | 16006907 | Clinical Trial/RCT | Effect of cranberry juice consumption on urinary stone risk factors.
+- new | 2005 | 16194582 | RCT | Cranberry juice and bacterial colonization in children--a placebo-controlled randomized trial.
+- new | 2005 | 15863410 | Clinical Trial/RCT | Does ingestion of cranberry juice reduce symptomatic urinary tract infections in older people in hospital? A double-blind, placebo-controlled trial.
+- new | 2005 | 15810945 | Clinical Trial/RCT | Efficacy of cranberry juice on Helicobacter pylori infection: a double-blind, randomized placebo-controlled trial.
+- new | 2005 | 15865497 | Clinical Trial/RCT | A double-blinded, placebo-controlled, randomized trial of the neuropsychologic efficacy of cranberry juice in a sample of cognitively intact older adults: pilot study fin
+- new | 2004 | 15156934 | Clinical Trial/RCT | Evaluation of cranberry supplement for reduction of urinary tract infections in individuals with neurogenic bladders secondary to spinal cord injury. A prospective, doubl
+- new | 2004 | 15019739 | Clinical Trial/RCT | A high molecular mass cranberry constituent reduces mutans streptococci level in saliva and inhibits in vitro adhesion to hydroxyapatite.
+- new | 2004 | 15156935 | Clinical Trial/RCT | Effect of cranberry extract on bacteriuria and pyuria in persons with neurogenic bladder secondary to spinal cord injury.
+- new | 2003 | 12941742 | Clinical Trial/RCT | Can cranberry supplementation benefit adults with type 2 diabetes?
+- new | 2003 | 14616463 | Clinical Trial/RCT | Influence of cranberry juice on the urinary risk factors for calcium oxalate kidney stone formation.
+- new | 2003 | 14524485 | Clinical Trial/RCT | A randomised trial of cranberry versus apple juice in the management of urinary symptoms during external beam radiation therapy for prostate cancer.
+- new | 2002 | 12121581 | Clinical Trial/RCT | A randomized trial to evaluate effectiveness and cost effectiveness of naturopathic cranberry products as prophylaxis against urinary tract infection in women.
+- new | 2001 | 11431298 | Clinical Trial/RCT | Randomised trial of cranberry-lingonberry juice and Lactobacillus GG drink for the prevention of urinary tract infections in women.
+- new | 1999 | 10586171 | Clinical Trial/RCT | Effect of cranberry juice on bacteriuria in children with neurogenic bladder receiving intermittent catheterization.
+- new | 1997 | 9267377 | Clinical Trial/RCT | Cranberry concentrate: UTI prophylaxis.
+- new | 1994 | 8057506 | Clinical Trial/RCT | Reduction of bacteriuria and pyuria using cranberry juice.
+- new | 1994 | 8093138 | Clinical Trial/RCT | Reduction of bacteriuria and pyuria after ingestion of cranberry juice.
+- new | 1994 | 8052456 | Clinical Trial/RCT | New support for a folk remedy: cranberry juice reduces bacteriuria and pyuria in elderly women.
+- new | 1979 | 38439 | Clinical Trial/RCT | Effect of cranberry juice on urinary pH.
+
+## panax-ginseng (Panax ginseng; Panax Ginseng) - 157 hits; query: ("Panax ginseng"[tiab] OR "Panax Ginseng"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2027 | 42660303 | MA/SR/Review | Cardioprotective effects of natural phytochemicals from traditional medicinal plants against doxorubicin-induced cardiotoxicity: A meta-analysis of preclinical studies.
+- new | 2026 | 42943019 | RCT | Effects of Two Rg3-Enriched Korean Ginseng Preparations on Blood Pressure in Adults with Early-Stage Hypertension: A Randomized, Double-Blind, Placebo-Controlled Trial.
+- new | 2026 | 42317874 | SR | Nutritional supplementation with Panax ginseng extract and bone health in osteoporotic animal models: a systematic review and meta-analysis.
+- new | 2026 | 42100315 | SR | The efficacy and safety of ginseng berry saponin for heart failure: a systematic review and meta-analysis.
+- new | 2026 | 42277690 | SR | Efficacy of plant extracts in heart failure patients: a systematic review and network meta-analysis.
+- new | 2026 | 41052692 | SR | Extraction, preparation, pharmacological activities, and potential applications of ginsenosides Rk1 and Rg5.
+- new | 2026 | 42280421 | SR | Ginseng Bioactive Components as Gut-Brain Axis-Targeted Modulators: Therapeutic Potential and Mechanisms in Multifactorial Diseases.
+- new | 2026 | 41838185 | RCT | The effect of ginseng extract on fatigue in cancer survivors: a randomized double-blind clinical trial.
+- new | 2026 | 42438288 | SR | Ginsenoside Rg3 in Cancer Therapy: Pharmacokinetics, Molecular Mechanisms, and Synergistic Combinations.
+- new | 2026 | 42402095 | SR/MA/Review | Ginsenosides mitigate multi-organ aging: mechanistic insights from a preclinical systematic review and meta-analysis.
+- new | 2026 | 41176190 | SR | Hairy roots as a biotechnological tool for medicinal plant secondary metabolites: A systematic review.
+- new | 2026 | 43005205 | SR | Natural products mitigate pyrethroid-induced male reproductive toxicity: a systematic review.
+- new | 2026 | 41582079 | SR | Phytochemical Insights into Panax Genus Metabolites: Evidence-Based Fatigue Intervention via Ethnopharmacological and Biomedical Perspectives.
+- new | 2025 | 41109042 | SR | Systematic review and pharmacological insights of ginsenoside Rf: Current status and future perspectives.
+- new | 2025 | 41092580 | SR | Targeting cancer epigenetics with PPD-type ginsenosides: A systematic review of mechanisms and therapeutic potential.
+- new | 2025 | 41288460 | SR | Dietary Saponins as Antiaging Agents: A Systematic Review of Molecular Mechanisms, Nutritional Intervention, and Product Development.
+- new | 2025 | 40440906 | SR | Transcriptomic strategy provides molecular insights into the growth and ginsenosides accumulation of Panax ginseng.
+- new | 2025 | 39039242 | SR/MA | Efficacy of ginsenoside Rg1 on rodent models of depression: A systematic review and meta-analysis.
+- new | 2025 | 39892311 | SR | Targeting pyroptosis: A novel strategy of ginseng for the treatment of diabetes and its chronic complications.
+- new | 2025 | 39428934 | SR | Comprehensive PRISMA Based Systematic Review: Exploring the Phytochemistry, Pharmacological Profile and Clinical aspects of Panax ginseng.
+- new | 2025 | 40289951 | RCT | Effect of Hydroponically Grown Red Panax Ginseng on Perceived Stress Level, Emotional Processing, and Cognitive Functions in Moderately Stressed Adults: A Randomized, Dou
+- new | 2025 | 40819941 | RCT | [Effects of Yiqi Huoxue Jiedu formula on the gut microbiota in elderly patients with pulmonary-derived sepsis based on 16S rDNA sequencing: a multicenter prospective rand
+- new | 2024 | 39004031 | RCT | Effects of ginseng berry saponins from panax ginseng on glucose metabolism of patients with prediabetes: A randomized, double-blinded, placebo-controlled, crossover trial
+- new | 2024 | 38877862 | SR/MA | The Effect of Ginseng Supplementation on Lipid Profile: GRADE-assessed Systematic Review and Dose-response Meta-analysis of Randomized Controlled Trials.
+- new | 2024 | 37536646 | SR | Ginsenoside Rg1, lights up the way for the potential prevention of Alzheimer's disease due to its therapeutic effects on the drug-controllable risk factors of Alzheimer's
+- new | 2024 | 38425647 | SR | The efficacy and safety of Chinese herbal medicine for mild cognitive impairment: a systematic review and meta-analysis of randomized placebo-controlled trials.
+- new | 2024 | 37717842 | SR | Understanding mechanistic aspect of the therapeutic role of herbal agents on neuroplasticity in cerebral ischemic-reperfusion injury.
+- new | 2024 | 38785940 | RCT | Short-Term Panax Ginseng Extract Supplementation Reduces Fasting Blood Triacylglycerides and Oxygen Consumption during Sub-Maximal Aerobic Exercise in Male Recreational A
+- new | 2024 | 38931306 | RCT | Efficacy and Safety of Panax ginseng Sprout Extract in Subjective Memory Impairment: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial.
+- new | 2024 | 39064530 | SR | Systematic Review of Preclinical Studies on the Efficacy and Mechanisms of Herbal Medicines in Post-Myocardial Infarction Heart Failure with Reduced Ejection Fraction.
+- new | 2024 | 38888561 | SR | The effect of Panax ginseng supplementation on markers of resistance exercise-induced muscle damage: a systematic review.
+- new | 2024 | 39601979 | SR | Leveraging next-generation sequencing technology for the study of ginsenosides biosynthesis and exploring DNA markers in the endemic species Panax vietnamensis.
+- new | 2023 | 37686709 | MA/SR | Dietary Supplements for Erectile Dysfunction: Analysis of Marketed Products, Systematic Review, Meta-Analysis and Rational Use.
+- new | 2023 | 37445780 | SR | Systemic Review of Clot Retraction Modulators.
+- new | 2023 | 36691721 | SR | Compound K: A systematic review of its anticancer properties and probable mechanisms.
+- new | 2023 | 36939049 | SR | A comprehensive and systemic review of ginseng-based nanomaterials: Synthesis, targeted delivery, and biomedical applications.
+- new | 2023 | 36771427 | MA/SR | The Efficacy of Panax ginseng for the Treatment of Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-Analysis of Preclinical Studies.
+- new | 2023 | 37218691 | RCT | Effects of Panax Ginseng on Health-Related Quality of Life in Patients with Non-Metastatic Breast Cancer: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial Gi
+- new | 2023 | 35975564 | RCT | Protective effects of Panax ginseng against doxorubicin-induced cardiac toxicity in patients with non-metastatic breast cancer: A randomized, double-blind, placebo-contro
+- new | 2023 | 37425492 | RCT | Effect of Saengmaeksan on Fatigue, Liver Function, and Immunity Combined with High-Intensity Training.
+- new | 2022 | 35334841 | MA/SR | Exploratory Systematic Review and Meta-Analysis of Panax Genus Plant Ingestion Evaluation in Exercise Endurance.
+- new | 2022 | 35143871 | SR | Panax ginseng and aging related disorders: A systematic review.
+- new | 2022 | 36012338 | SR | Experimental Evidence for the Anti-Metastatic Action of Ginsenoside Rg3: A Systematic Review.
+- new | 2022 | 35631252 | SR | Medicinal Plants and Their Impact on the Gut Microbiome in Mental Health: A Systematic Review.
+- new | 2022 | 36091817 | SR | Efficacy and Safety of Shenfu Injection for Severe Pneumonia in the Elderly: A Systematic Review and Meta-Analysis Based on Western and Eastern Medicine.
+- new | 2022 | 32379240 | RCT | Panax ginseng Supplementation Increases Muscle Recruitment, Attenuates Perceived Effort, and Accelerates Muscle Force Recovery After an Eccentric-Based Exercise in Athlet
+- new | 2022 | 35708631 | RCT | KGR-BG1, a Standardized Korean Black Ginseng Extract, Has No Significant Effects on Head or Face Temperature Compared with Korean Red Ginseng Extract and a Placebo.
+- HELD REF-0506 | 2021 | 34445021 | MA/SR | Plant Adaptogens-History and Future Perspectives.
+- new | 2021 | 34638031 | MA/SR | Beneficial effects of natural products on female sexual dysfunction: A systematic review and meta-analysis.
+- new | 2021 | 33982500 | SR | [Effects of ecological factors on shape and ginsenoside of Panax ginseng].
+- new | 2021 | 33216632 | RCT | Effects of Korean Red Ginseng (Panax ginseng C.A. Meyer) on Menopausal Symptoms in Premenopausal Women After Gynecologic Cancer Surgery: A Double-Blind, Randomized Contro
+- new | 2021 | 33157222 | SR | Immunomodulation of Chinese Herbal Medicines on NK cell populations for cancer therapy: A systematic review.
+- new | 2021 | 33624893 | SR | A systematic review of possible interactions for herbal medicines and dietary supplements used concomitantly with disease-modifying or symptom-alleviating multiple sclero
+- new | 2021 | 33884767 | RCT | Pharmacokinetics of Ginsenoside Compound K From a Compound K Fermentation Product, CK-30, and From Red Ginseng Extract in Healthy Korean Subjects.
+- new | 2021 | 34286560 | RCT | A new original nutraceutical formulation ameliorates the effect of Tadalafil on clinical score and cGMP accumulation.
+- new | 2021 | 33730722 | RCT | The Effect of Panax ginseng on Genitourinary Syndrome in Postmenopausal Women: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial.
+- HELD REF-1469 | 2020 | 33059260 | SR | Panax ginseng clinical trials: Current status and future perspectives.
+- new | 2020 | 32147072 | RCT | Vascular effects of combined enriched Korean Red ginseng (Panax Ginseng) and American ginseng (Panax Quinquefolius) administration in individuals with hypertension and ty
+- new | 2020 | 31987248 | RCT | Efficacy of Korean red ginseng (Panax ginseng) for middle-aged and moderate level of chronic fatigue patients: A randomized, double-blind, placebo-controlled trial.
+- new | 2020 | 32273696 | RCT | Effect of Panax Ginseng (G115) Capsules versus Placebo on Acute Exacerbations in Patients with Moderate to Very Severe COPD: A Randomized Controlled Trial.
+- new | 2020 | 32765262 | SR | Clinical and Preclinical Systematic Review of Panax ginseng C. A. Mey and Its Compounds for Fatigue.
+- new | 2019 | 31315027 | MA/SR | Efficacy of Panax ginseng supplementation on blood lipid profile. A meta-analysis and systematic review of clinical randomized trials.
+- new | 2019 | 30940771 | RCT | 12-month randomised controlled trial of ginseng extract for moderate COPD.
+- new | 2019 | 30729756 | SR | A systematic review of research investigating the physiological and psychological effects of combining Ginkgo biloba and Panax ginseng into a single treatment in humans: 
+- new | 2019 | 31331583 | RCT | The effect of ginseng on sexual dysfunction in menopausal women: A double-blind, randomized, controlled trial.
+- new | 2019 | 30543483 | RCT | Pharmacokinetic Study of Compound K in Japanese Subjects After Ingestion of Panax ginseng Fermented by Lactobacillus paracasei A221 Reveals Significant Increase of Absorp
+- HELD REF-1471 | 2018 | 29624410 | SR | Ginseng as a Treatment for Fatigue: A Systematic Review.
+- new | 2018 | 30080229 | RCT | A Combination of Essential Fatty Acids, Panax Ginseng Extract, and Green Tea Catechins Modifies Brain fMRI Signals in Healthy Older Adults.
+- new | 2017 | 28874596 | RCT | A Double-Blind, Randomized, Placebo-Controlled Trial of Panax Ginseng for Cancer-Related Fatigue in Patients With Advanced Cancer.
+- new | 2017 | 28732813 | RCT | A randomized, double-blind, placebo- controlled study on the anti-haemostatic effects of Curcuma longa, Angelica sinensis and Panax ginseng.
+- new | 2016 | 26081140 | RCT | Ginsenoside Rd Is Efficacious Against Acute Ischemic Stroke by Suppressing Microglial Proteasome-Mediated Inflammation.
+- new | 2016 | 26938637 | RCT | Ginseng and Ginkgo Biloba Effects on Cognition as Modulated by Cardiovascular Reactivity: A Randomised Trial.
+- new | 2016 | 26887532 | MA/SR | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies.
+- new | 2016 | 26912094 | MA/SR | Integrative Medicine for Relief of Nausea and Vomiting in the Treatment of Colorectal Cancer Using Oxaliplatin-Based Chemotherapy: A Systematic Review and Meta-Analysis.
+- new | 2016 | 27045864 | RCT | A randomized, double-blind, multicenter, placebo-controlled clinical study on the efficacy and safety of Shenmai injection in patients with chronic heart failure.
+- new | 2016 | 27912940 | RCT | Panax ginseng and Salvia miltiorrhiza supplementation during eccentric resistance training in middle-aged and older adults: A double-blind randomized control trial.
+- new | 2016 | 25967606 | RCT | Effects of Korean red ginseng on semen parameters in male infertility patients: A randomized, placebo-controlled, double-blind clinical study.
+- new | 2016 | 27240158 | RCT | Electrocardiographic and blood pressure effects of energy drinks and Panax ginseng in healthy volunteers: A randomized clinical trial.
+- new | 2016 | 26762282 | RCT | The effect of Sailuotong (SLT) on neurocognitive and cardiovascular function in healthy adults: a randomised, double-blind, placebo controlled crossover pilot trial.
+- new | 2015 | 26300710 | RCT | Null effect of ginsenoside Rb1 on improving glycemic status in men during a resistance training recovery.
+- new | 2015 | 25597699 | RCT | Effect of single-dose Ginkgo biloba and Panax ginseng on driving performance.
+- new | 2015 | 25867599 | RCT | Efficacy and Safety of Enzyme-Modified Panax ginseng for Anti-Wrinkle Therapy in Healthy Skin: A Single-Center, Randomized, Double-Blind, Placebo-Controlled Study.
+- new | 2015 | 25446600 | RCT | Ethanol extraction preparation of American ginseng (Panax quinquefolius L) and Korean red ginseng (Panax ginseng C.A. Meyer): differential effects on postprandial insulin
+- new | 2015 | 25937255 | RCT | Shenfu decoction as adjuvant therapy for improving quality of life and hepatic dysfunction in patients with symptomatic chronic heart failure.
+- new | 2014 | 25108743 | SR | Saponins in the genus Panax L. (Araliaceae): a systematic review of their chemical diversity.
+- new | 2014 | 24758417 | RCT | Modulation of endothelial function by Korean red ginseng (Panax ginseng C.A. Meyer) and its components in healthy individuals: a randomized controlled trial.
+- new | 2014 | 24871654 | RCT | Blood pressure lowering effect of Korea ginseng derived ginseol K-g1.
+- new | 2014 | 24343974 | MA/SR | FOLFOX 4 combined with herbal medicine for advanced colorectal cancer: a systematic review.
+- new | 2014 | 24622390 | SR | Oral Chinese herbal medicine combined with pharmacotherapy for stable COPD: a systematic review of effect on BODE index and six minute walk test.
+- new | 2014 | 24997863 | RCT | Effect of Rg3-enriched Korean red ginseng (Panax ginseng) on arterial stiffness and blood pressure in healthy individuals: a randomized controlled trial.
+- new | 2014 | 25284751 | RCT | Efficacy and safety of Korean red ginseng for cold hypersensitivity in the hands and feet: a randomized, double-blind, placebo-controlled trial.
+- new | 2014 | 25063041 | RCT | Effects of Korean red ginseng (Panax Ginseng Meyer) on bisphenol A exposure and gynecologic complaints: single blind, randomized clinical trial of efficacy and safety.
+- new | 2014 | 25297058 | RCT | A 14-week randomized, placebo-controlled, double-blind clinical trial to evaluate the efficacy and safety of ginseng polysaccharide (Y-75).
+- new | 2013 | 22969004 | SR | Panax ginseng in randomised controlled trials: a systematic review.
+- new | 2013 | 23950642 | RCT | Effect of Memo®, a natural formula combination, on Mini-Mental State Examination scores in patients with mild cognitive impairment.
+- new | 2013 | 23567596 | RCT | Effects of Panax ginseng extract in patients with fibromyalgia: a 12-week, randomized, double-blind, placebo-controlled trial.
+- new | 2013 | 23613825 | RCT | Antifatigue effects of Panax ginseng C.A. Meyer: a randomised, double-blind, placebo-controlled trial.
+- new | 2013 | 23973636 | RCT | Effect of American ginseng (Panax quinquefolius L.) on arterial stiffness in subjects with type-2 diabetes and concomitant hypertension.
+- new | 2013 | 24354675 | RCT | Effect of Korean red ginseng on cold hypersensitivity in the hands and feet: study protocol for a randomized controlled trial.
+- new | 2012 | 22303969 | SR | Chinese herbs for dementia diseases.
+- new | 2012 | 22909282 | RCT | Safety and tolerability of Panax ginseng root extract: a randomized, placebo-controlled, clinical trial in healthy Korean volunteers.
+- new | 2012 | 21535231 | RCT | Effects of dietary supplementation of Chinese medicinal herbs on polymorphonuclear neutrophil immune activity and small intestinal morphology in weanling pigs.
+- new | 2012 | 22178175 | RCT | Pharmacokinetic comparison of ginsenoside metabolite IH-901 from fermented and non-fermented ginseng in healthy Korean volunteers.
+- new | 2011 | 21704950 | SR | Systematic review of randomized controlled trials evaluating the efficacy and safety of ginseng.
+- new | 2011 | 22139546 | MA/SR | Red ginseng for type 2 diabetes mellitus: a systematic review of randomized controlled trials.
+- new | 2011 | 21619921 | RCT | Korean red ginseng (Panax ginseng C.A. Meyer) root fractions: differential effects on postprandial glycemia in healthy individuals.
+- new | 2011 | 21598413 | RCT | Effects of Panax ginseng supplementation on muscle damage and inflammation after uphill treadmill running in humans.
+- new | 2011 | 21321426 | RCT | Effects of acute supplementation of Panax ginseng on endurance running in a hot & humid environment.
+- new | 2011 | 25665208 | RCT | Effects of acute supplementation of caffeine and Panax ginseng on endurance running performance in a hot and humid environment.
+- new | 2011 | 23362734 | RCT | Effects of acute supplementation of Panax ginseng on hydration status during endurance running exercise in a hot and humid environment.
+- new | 2011 | 21699953 | RCT | Antioxidant effects of Panax ginseng C.A. Meyer in healthy subjects: a randomized, placebo-controlled clinical trial.
+- new | 2011 | 21718484 | RCT | Panax ginseng C.A Meyer root extract for moderate chronic obstructive pulmonary disease (COPD): study protocol for a randomised controlled trial.
+- HELD REF-1475 | 2010 | 21154383 | MA/SR | Ginseng for cognition.
+- new | 2010 | 20737519 | RCT | Panax ginseng (G115) improves aspects of working memory performance and subjective ratings of calmness in healthy young adults.
+- new | 2010 | 20134405 | RCT | Effects of Korean red ginseng (Panax ginseng C.A. Mayer) and its isolated ginsenosides and polysaccharides on arterial stiffness in healthy individuals.
+- new | 2010 | 20676609 | RCT | Effects of American ginseng (Panax quinquefolius) on neurocognitive function: an acute, randomised, double-blind, placebo-controlled, crossover study.
+- new | 2010 | 20521975 | RCT | Non-organ-specific preventive effect of long-term administration of Korean red ginseng extract on incidence of human cancers.
+- HELD REF-2436 | 2009 | 19719333 | SR | Interactions between herbal medicines and prescribed drugs: an updated systematic review.
+- new | 2009 | 19584437 | SR | Ginseng for cognitive function in Alzheimer's disease: a systematic review.
+- new | 2009 | 19017419 | RCT | Panax ginseng has no effect on indices of glucose regulation following acute or chronic ingestion in healthy volunteers.
+- new | 2009 | 19234482 | RCT | Effects of tissue-cultured mountain ginseng (Panax ginseng CA Meyer) extract on male patients with erectile dysfunction.
+- new | 2008 | 18204104 | SR | Safety and efficacy of panax ginseng during pregnancy and lactation.
+- new | 2008 | 18754850 | MA/SR | Red ginseng for treating erectile dysfunction: a systematic review.
+- new | 2008 | 18637764 | RCT | Interaction between warfarin and Panax ginseng in ischemic stroke patients.
+- new | 2008 | 18580589 | RCT | Panax ginseng enhances cognitive performance in Alzheimer disease.
+- new | 2008 | 18355331 | RCT | Effect of Panax ginseng supplementation on biomarkers of glucose tolerance, antioxidant status and oxidative stress in type 2 diabetic subjects: results of a placebo-cont
+- new | 2008 | 16860976 | RCT | Korean red ginseng (Panax ginseng) improves glucose and insulin regulation in well-controlled, type 2 diabetes: results of a randomized, double-blind, placebo-controlled 
+- new | 2008 | 18817894 | RCT | Effects of a new nutraceutical ingredient on allergen-induced sulphidoleukotrienes production and CD63 expression in allergic subjects.
+- new | 2008 | 19317161 | RCT | [Effect of yiqi wenyang huoxue recipe on bone marrow stem cells' mobilization and its influence on heart function in patients with myocardial infarction].
+- new | 2007 | 17610402 | RCT | Panax Ginseng in combination with brewers' yeast (Gerivet) as a stimulant for geriatric dogs: a controlled-randomized blinded study.
+- new | 2006 | 16880367 | SR | Herbal medicines for the treatment of COPD: a systematic review.
+- new | 2006 | 16401645 | RCT | Effects of Panax ginseng, consumed with and without glucose, on blood glucose levels and cognitive performance during sustained 'mentally demanding' tasks.
+- new | 2005 | 15982990 | Clinical Trial/RCT | Single doses of Panax ginseng (G115) reduce blood glucose levels and improve cognitive performance during sustained mental activity.
+- new | 2005 | 15974642 | RCT | Clinical assessment of effects of botanical supplementation on cytochrome P450 phenotypes in the elderly: St John's wort, garlic oil, Panax ginseng and Ginkgo biloba.
+- new | 2005 | 16077384 | Clinical Trial/RCT | Ginsenosides compound (shen-fu) attenuates gastrointestinal injury and inhibits inflammatory response after cardiopulmonary bypass in patients with congenital heart disea
+- new | 2005 | 16008115 | Clinical Trial/RCT | A phase I clinical study of Andrographis paniculata fixed combination Kan Jang versus ginseng and valerian on the semen quality of healthy male subjects.
+- new | 2004 | 15682929 | Clinical Trial/RCT | Gincosan (a combination of Ginkgo biloba and Panax ginseng): the effects on mood and cognition of 6 and 12 weeks' treatment in post-menopausal women.
+- new | 2003 | 12673155 | Clinical Trial/RCT | Effects of ginseng on secretory IgA, performance, and recovery from interval exercise.
+- new | 2003 | 14684758 | Clinical Trial/RCT | Null and opposing effects of Asian ginseng (Panax ginseng C.A. Meyer) on acute glycemia: results of two acute dose escalation studies.
+- new | 2002 | 12235448 | Clinical Trial/RCT | Cytochrome P450 phenotypic ratios for predicting herb-drug interactions in humans.
+- new | 2002 | 12020172 | SR | Panax ginseng: a systematic review of adverse effects and drug interactions.
+- new | 2002 | 11978148 | Clinical Trial/RCT | Electrocardiographic and hemodynamic effects of Panax ginseng.
+- new | 2002 | 11895046 | Clinical Trial/RCT | Effects of Panax ginseng on quality of life.
+- new | 2002 | 12404705 | Clinical Trial/RCT | Acute, dose-dependent cognitive effects of Ginkgo biloba, Panax ginseng and their combination in healthy young volunteers: differential interactions with cognitive demand
+- new | 2002 | 12020739 | Clinical Trial/RCT | Modulation of cognition and mood following administration of single doses of Ginkgo biloba, ginseng, and a ginkgo/ginseng combination to healthy young adults.
+- new | 2001 | 11772128 | SR | Interactions between herbal medicines and prescribed drugs: a systematic review.
+- new | 2001 | 11666034 | Clinical Trial/RCT | Effect of subcutaneous injection of ginseng on cows with subclinical Staphylococcus aureus mastitis.
+- new | 2001 | 11710653 | Clinical Trial/RCT | Effects of ginseng supplementation on supramaximal exercise performance and short-term recovery.
+- new | 2001 | 11424544 | Clinical Trial/RCT | Ginseng does not enhance psychological well-being in healthy, young adults: results of a double-blind, placebo-controlled, randomized clinical trial.
+- new | 2001 | 11842916 | Clinical Trial/RCT | Differential, dose dependent changes in cognitive performance following acute administration of a Ginkgo biloba/Panax ginseng combination to healthy young volunteers.
+- new | 2000 | 11140327 | Clinical Trial/RCT | The memory enhancing effects of a Ginkgo biloba/Panax ginseng combination in healthy middle-aged volunteers.
+- new | 1998 | 9791844 | Clinical Trial/RCT | Ginseng supplementation does not enhance healthy young adults' peak aerobic exercise performance.
+- new | 1997 | 9336557 | Clinical Trial/RCT | No ergogenic effects of ginseng (Panax ginseng C.A. Meyer) during graded maximal aerobic exercise.
+- new | 1997 | 9493479 | Clinical Trial/RCT | The cognitive, subjective, and physical effects of a ginkgo biloba/panax ginseng combination in healthy volunteers with neurasthenic complaints.
+- new | 1994 | 7992821 | Clinical Trial/RCT | Alteration of pulse in human subjects by three Chinese herbs.
+- new | 1991 | 1955631 | Clinical Trial/RCT | Occupational asthma caused by Brazil ginseng dust.
+- new | 1990 | 2100737 | Clinical Trial/RCT | Immunomodulatory effects of two extracts of Panax ginseng C.A. Meyer.
+
+## passiflora-incarnata (Passiflora incarnata; Passionflower) - 24 (+CT) hits; query: ("Passiflora incarnata"[tiab] OR "Passionflower"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 42595368 | RCT | Protocol for a randomised, double-blind, placebo-controlled clinical trial on the effects of high-dose vitamin B multivitamin supplementation with and without Passiflora 
+- new | 2026 | 42384113 | SR | Behavioral responses of pigs to dietary alternatives to antibiotic growth promoters: a systematic review.
+- new | 2025 | 39514279 | RCT | Exploring the Effects of a Calming Herbal Tea Blend on Perioperative Anxiety: A Randomized Clinical Trial.
+- new | 2025 | 41381570 | RCT | Effects of Passiflora incarnata on salivary biomarkers and anxiety in patients undergoing third molar extraction surgery.
+- new | 2024 | 38743126 | RCT | Effects of Passiflora incarnata and Valeriana officinalis in the control of anxiety due to tooth extraction: a randomized controlled clinical trial.
+- new | 2023 | 37039741 | SR | Systematic review on the anxiolytic and hypnotic effects of flower extracts in in vivo pre-clinical studies published from 2010 to 2020.
+- new | 2021 | 33495257 | SR | Effectiveness and safety of oral sedation in adult patients undergoing dental procedures: a systematic review.
+- new | 2021 | 32951121 | RCT | Herbal medicines as anxiolytics prior to third molar surgical extraction. A randomized controlled clinical trial.
+- new | 2021 | 34076379 | RCT | Assessment of Passiflora incarnata L for conscious sedation of patients during the extraction of mandibular third molars: a randomized, split-mouth, double-blind, crossov
+- HELD REF-0490 | 2020 | 33352740 | SR | Passiflora incarnata in Neuropsychiatric Disorders-A Systematic Review.
+- HELD REF-0564 | 2020 | 31714321 | RCT | Effects of Passiflora incarnata Linnaeus on polysomnographic sleep parameters in subjects with insomnia disorder: a double-blind randomized placebo-controlled study.
+- new | 2018 | 29433687 | RCT | Effects of a fixed herbal drug combination (Ze 185) to an experimental acute stress setting in healthy men - An explorative randomized placebo-controlled double-blind stu
+- new | 2017 | 27918731 | RCT | Effects of passiflora incarnata and midazolam for control of anxiety in patients undergoing dental extraction.
+- new | 2017 | 28137522 | SR | Herbal medicines in children with attention deficit hyperactivity disorder (ADHD): A systematic review.
+- new | 2013 | 23543804 | RCT | Efficacy and safety of a polyherbal sedative-hypnotic formulation NSF-3 in primary insomnia in comparison to zolpidem: a randomized controlled trial.
+- HELD REF-1911 | 2012 | 22048283 | RCT | Passiflora incarnata Linneaus as an anxiolytic before spinal anesthesia.
+- HELD REF-0565 | 2011 | 21294203 | RCT | A double-blind, placebo-controlled investigation of the effects of Passiflora incarnata (passionflower) herbal tea on subjective sleep quality.
+- new | 2010 | 21308265 | MA/Review | [Medicinal plants for the treatment of generalized anxiety disorder: a review of controlled clinical studies].
+- HELD REF-0563 | 2008 | 18499602 | RCT | Preoperative oral Passiflora incarnata reduces anxiety in ambulatory surgery patients: a double-blind, placebo-controlled study.
+- new | 2008 | 22432466 | SR | An evidence-based systematic review of passion flower (Passiflora incarnata L.) by the Natural Standard Research Collaboration.
+- new | 2007 | 17562566 | SR | Herbal medicines in the treatment of psychiatric disorders: a systematic review.
+- new | 2004 | 15719825 | Clinical Trial | [Evaluation of activity parameters of passionflower dry extract capsules according to a "star" model].
+- new | 2001 | 11679026 | Clinical Trial/RCT | Passionflower in the treatment of generalized anxiety: a pilot double-blind randomized controlled trial with oxazepam.
+- new | 2001 | 11679027 | Clinical Trial/RCT | Passionflower in the treatment of opiates withdrawal: a double-blind randomized controlled trial.
+
+## paullinia-cupana (Paullinia cupana; Guarana) - 35 (+CT) hits; query: ("Paullinia cupana"[tiab] OR "Guarana"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 41394145 | SR | Systematic review and network meta-analysis of the effects of plant active substance on quality of life in breast cancer patients.
+- HELD REF-0955 | 2024 | 37898479 | RCT | Guarana (Paullinia cupana) but Not Low-Dose Caffeine Improves Cycling Time-Trial Performance Versus Placebo.
+- new | 2024 | 38931247 | RCT | Effects of Acute Guarana (Paullinia cupana) Ingestion on Mental Performance and Vagal Modulation Compared to a Low Dose of Caffeine.
+- new | 2024 | 39536249 | MA/SR | Natural supplementation to effectively treat cancer-induced fatigue: evidence of a meta-analysis on the use of guaraná.
+- new | 2024 | 38958672 | RCT | Effects of Acute Ingestion of Guarana (Paullinia Cupana) on Soccer Player Performance: A Randomized, Cross-over, Placebo-Controlled Study.
+- HELD REF-0950 | 2023 | 36678305 | MA/SR | Effect of Guarana (Paullinia cupana) on Cognitive Performance: A Systematic Review and Meta-Analysis.
+- new | 2023 | 35174607 |  | Effects of repeated use of a commercial topical lotion on subcutaneous fat thickness in resistance-trained male athletes.
+- new | 2023 | 37111219 | MA/SR | Comment on Hack et al. Effect of Guarana (Paullinia cupana) on Cognitive Performance: A Systematic Review and Meta-Analysis. Nutrients 2023, 15, 434.
+- new | 2023 | 36146946 | RCT | Cognitive effects of guarana supplementation with maximal intensity cycling.
+- new | 2023 | 37111221 | MA/SR | Reply to Gurney, T.; Ronca, F. Comment on "Hack et al. Effect of Guarana (Paullinia cupana) on Cognitive Performance: A Systematic Review and Meta-Analysis. Nutrients 202
+- new | 2023 | 37111136 | RCT | Effects of Dietary Supplementation of a Microalgae Extract Containing Fucoxanthin Combined with Guarana on Cognitive Function and Gaming Performance.
+- HELD REF-0951 | 2021 | 34146166 | MA/SR | The use of guarana (Paullinia cupana) as a dietary supplement for fatigue in cancer patients: a systematic review with a meta-analysis.
+- new | 2018 | 29190155 | RCT | Purified Dry Paullinia cupana (PC-18) Extract for Chemotherapy-Induced Fatigue: Results of Two Double-Blind Randomized Clinical Trials.
+- new | 2017 | 25259737 | RCT | The effect of a single dose of multivitamin and mineral combinations with and without guaraná on functional brain activity during a continuous performance task.
+- new | 2017 | 28598402 | RCT | Cognitive Performance Enhancement Induced by Caffeine, Carbohydrate and Guarana Mouth Rinsing during Submaximal Exercise.
+- new | 2016 | 25695932 |  | Guarana (Paullinia cupana) Improves Anorexia in Patients with Advanced Cancer.
+- new | 2015 | 26225993 | RCT | The Effects of Supplementation with a Vitamin and Mineral Complex with Guaraná Prior to Fasted Exercise on Affect, Exertion, Cognitive Performance, and Substrate Metaboli
+- new | 2014 | 25558905 | RCT | Heart rate variability and cognitive function following a multi-vitamin and mineral supplementation with added guarana (Paullinia cupana).
+- new | 2013 | 24237188 | RCT | Purified dry extract of Paullinia cupana (guaraná) (PC-18) for chemotherapy-related fatigue in patients with solid tumors: an early discontinuation study.
+- new | 2013 | 23706111 | RCT | Effects of a commercial product containing guaraná on psychological well-being, anxiety and mood: a single-blind, placebo-controlled study in healthy subjects.
+- new | 2013 | 24067387 | RCT | Acute effects of different multivitamin mineral preparations with and without Guaraná on mood, cognitive performance and functional brain activation.
+- new | 2011 | 22151935 |  | Dermal penetration of creatine from a face-care formulation containing creatine, guarana and glycerol is linked to effective antiwrinkle and antisagging efficacy in male 
+- new | 2011 | 21612429 | RCT | Guarana (Paullinia cupana) improves fatigue in breast cancer patients undergoing systemic chemotherapy.
+- new | 2009 | 19388866 | RCT | Effectiveness of guaraná (Paullinia cupana) for postradiation fatigue and depression: results of a pilot double-blind randomized study.
+- new | 2008 | 18077056 | RCT | Improved cognitive performance and mental fatigue following a multi-vitamin and mineral supplement with added guaraná (Paullinia cupana).
+- HELD REF-0106 | 2007 | 16533867 |  | A double-blind, placebo-controlled, multi-dose evaluation of the acute behavioural effects of guaraná in humans.
+- new | 2006 | 16418760 | RCT | Metabolic and physiological effects of ingesting extracts of bitter orange, green tea and guarana at rest and during treadmill walking in overweight males.
+- new | 2005 | 15961987 | Clinical Trial/RCT | Short-term metabolic and hemodynamic effects of ephedra and guarana combinations.
+- new | 2005 | 16176615 | Clinical Trial/RCT | Effects of encapsulated green tea and Guarana extracts containing a mixture of epigallocatechin-3-gallate and caffeine on 24 h energy expenditure and fat oxidation in men
+- new | 2005 | 15836459 | SR | Adverse events of herbal food supplements for body weight reduction: systematic review.
+- new | 2004 | 15582012 | Clinical Trial | Improved cognitive performance in human volunteers following administration of guarana (Paullinia cupana) extract: comparison and interaction with Panax ginseng.
+- new | 2001 | 11319627 | Clinical Trial/RCT | An herbal supplement containing Ma Huang-Guarana for weight loss: a randomized, double-blind trial.
+- new | 2001 | 11424516 | Clinical Trial/RCT | Weight loss and delayed gastric emptying following a South American herbal preparation in overweight patients.
+- new | 1996 | 8984582 | Clinical Trial/RCT | The effects of long-term administration of guarana on the cognition of normal, elderly volunteers.
+- new | 1994 | 7638522 | Clinical Trial/RCT | Acute effects of the Paulinia cupana, "Guaraná" on the cognition of normal volunteers.
+
+## pelargonium-sidoides (Pelargonium sidoides; Pelargonium) - 42 hits; query: ("Pelargonium sidoides"[tiab] OR "Pelargonium"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2026 | 41653615 | SR | Pelargonium sidoides - from ethnopharmacology to evidence-based medicine: a systematic review.
+- new | 2026 | 42036760 | RCT | Antimicrobial Efficacy of Pelargonium Graveolens Gold Nanoparticles: A Novel Mouthwash for Children.
+- new | 2026 | 42014704 | RCT | Pelargonium sidoides extract (EPs® 7630) versus usual care for acute bronchitis in Swiss primary care (PHYTOBRONCH): a pragmatic, open-label, randomised controlled trial.
+- HELD REF-0798 | 2025 | 40376625 | SR | Phytotherapy for acute respiratory tract infections in children: a systematically conducted, comprehensive review.
+- new | 2024 | 37400355 | RCT | The effect of Aromatherapy with Pelargonium graveolens (P. graveolens) on the fatigue and sleep quality of critical care nurses during the Covid-19 pandemic: A randomized
+- new | 2024 | 38889376 | RCT | Efficacy and safety of mixture of ivy leaf extract and coptidis rhizome in the treatment of acute bronchitis: multicenter, randomized, double-blinded, active-controlled, 
+- new | 2023 | 36609950 | SR | Herbal Medicines for Rhinosinusitis: A Systematic Review and Network Meta-analysis.
+- new | 2022 | 36153858 | RCT | The efficacy and safety of DW1601 in patients with acute bronchitis: a multi-center, randomized, double-blind, phase III clinical trial.
+- new | 2021 | 31679416 | MA | Studies on essential oil from rose-scented geranium, Pelargonium graveolens L'Hérit. (Geraniaceae).
+- HELD REF-1873 | 2021 | 34304301 | RCT | Effectiveness of Pelargonium sidoides in pediatric patients diagnosed with uncomplicated upper respiratory tract infection: a single-blind, randomized, placebo-controlled
+- HELD REF-1876 | 2021 | 33514367 | RCT | Pelargonium sidoides root extract for the treatment of acute cough due to lower respiratory tract infection in adults: a feasibility double-blind, placebo-controlled rand
+- new | 2020 | 32147041 | SR | Complementary and alternative medicine in the treatment of acute bronchitis in children: A systematic review.
+- new | 2020 | 32456442 |  | Herbal Drug EPs 7630 versus Amoxicillin in Patients with Uncomplicated Acute Bacterial Rhinosinusitis: A Randomized, Open-Label Study.
+- new | 2019 | 31014293 | MA/Review | Faster recovery and reduced paracetamol use - a meta-analysis of EPs 7630 in children with acute respiratory tract infections.
+- new | 2018 | 28610802 | MA/SR | Herbal Medicine in Children With Respiratory Tract Infection: Systematic Review and Meta-Analysis.
+- new | 2018 | 29231073 | RCT | Pelargonium sidoides preparation EPs 7630 in COPD: health-related quality-of-life and other patient-reported outcomes in adults receiving add-on therapy.
+- new | 2018 | 29055287 | RCT | Efficacy and Tolerability of High-dose Pelargonium Extract in Patients With the Common Cold.
+- HELD REF-0577 | 2016 | 27404100 | SR | [A Systematic Review of Phytotherapy for Acute Rhinosinusitis].
+- HELD REF-3434 | 2015 | 26840418 | MA/SR | Herbal Medicine for Cough: a Systematic Review and Meta-Analysis.
+- HELD REF-1870 | 2013 | 24146345 | MA/SR | Pelargonium sidoides extract for treating acute respiratory tract infections.
+- new | 2013 | 23478193 | RCT | Randomised, double-blind, placebo-controlled trial of EPs 7630 in adults with COPD.
+- new | 2013 | 23142309 | RCT | Can the Pelargonium sidoides root extract EPs® 7630 prevent asthma attacks during viral infections of the upper respiratory tract in children?
+- new | 2012 | 22360575 | RCT | Treatment of acute bronchitis with EPs 7630: randomized, controlled trial in children and adolescents.
+- new | 2012 | 23498035 | SR | Herbal medicine, randomised controlled trials and global core competencies.
+- new | 2012 | 22343933 | RCT | African geranium (EPs 7630), part I: a proprietary root extract of Pelargonium sidoides (EPs 7630) is found to be effective in resolving symptoms associated with the comm
+- new | 2012 | 22809962 | RCT | The efficacy of Pelargonium sidoides in the treatment of upper respiratory tract infections in children with transient hypogammaglobulinemia of infancy.
+- new | 2011 | 20850953 | RCT | Immune responses induced by Pelargonium sidoides extract in serum and nasal mucosa of athletes after exhaustive exercise: modulation of secretory IgA, IL-6 and IL-15.
+- new | 2010 | 22432518 | SR | An evidence-based systematic review of umckaloabo (Pelargonium sidoides) by the Natural Standard Research Collaboration.
+- new | 2010 | 20070280 | RCT | Efficacy and tolerability of EPs 7630 in patients (aged 6-18 years old) with acute bronchitis.
+- new | 2010 | 20197012 | RCT | Efficacy and tolerability of EPs 7630 in children and adolescents with acute bronchitis - a randomized, double-blind, placebo-controlled multicenter trial with a herbal d
+- new | 2010 | 21170697 | RCT | [Pelargonium sidoides in acute bronchitis - Health-related quality of life and patient-reported outcome in adults receiving EPs 7630 treatment].
+- new | 2010 | 20387996 | RCT | Efficacy and tolerability of EPs 7630 tablets in patients with acute bronchitis: a randomised, double-blind, placebo-controlled dose-finding study with a herbal drug prep
+- new | 2009 | 19382496 | RCT | Treatment of acute rhinosinusitis with the preparation from Pelargonium sidoides EPs 7630: a randomized, double-blind, placebo-controlled trial.
+- HELD REF-0576 | 2008 | 18222667 | MA/SR | Pelargonium sidoides for acute bronchitis: a systematic review and meta-analysis.
+- new | 2008 | 18646148 | SR | Pelargonium sidoides extract for acute respiratory tract infections.
+- new | 2008 | 18449849 | RCT | EPs 7630 improves acute bronchitic symptoms and shortens time to remission. Results of a randomised, double-blind, placebo-controlled, multicentre trial.
+- new | 2007 | 17288687 | RCT | Treatment of acute bronchitis with a liquid herbal drug preparation from Pelargonium sidoides (EPs 7630): a randomised, double-blind, placebo-controlled, multicentre stud
+- new | 2007 | 17276048 | RCT | Liquid herbal drug preparation from the root of Pelargonium sidoides is effective against acute bronchitis: results of a double-blind study with 124 patients.
+- new | 2007 | 18005909 | RCT | Efficacy of a pelargonium sidoides preparation in patients with the common cold: a randomized, double blind, placebo-controlled clinical trial.
+- new | 2005 | 16781588 | RCT | Treatment of acute bronchitis in adults with a pelargonium sidoides preparation (EPs 7630): a randomized, double-blind, placebo-controlled trial.
+- new | 2003 | 14526713 | Clinical Trial/RCT | Efficacy of extract of Pelargonium sidoides in children with acute non-group A beta-hemolytic streptococcus tonsillopharyngitis: a randomized, double-blind, placebo-contr
+- new | 2003 | 12807337 | Clinical Trial/RCT | Efficacy and safety of an extract of Pelargonium sidoides (EPs 7630) in adults with acute bronchitis. A randomised, double-blind, placebo-controlled trial.
+
+## petasites-hybridus (Petasites hybridus; Butterbur) - 25 (+CT) hits; query: ("Petasites hybridus"[tiab] OR "Butterbur"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2025 | 39084196 | SR | Efficacy and Safety of Phytotherapy and Anthroposophic Medicine in Seasonal Allergic Rhinitis: A Systematic Review.
+- new | 2024 | 38603736 | SR/MA | Medicinal plants for allergic rhinitis: A systematic review and meta-analysis.
+- new | 2018 | 29433687 | RCT | Effects of a fixed herbal drug combination (Ze 185) to an experimental acute stress setting in healthy men - An explorative randomized placebo-controlled double-blind stu
+- new | 2009 | 19274698 | RCT | Fixed herbal drug combination with and without butterbur (Ze 185) for the treatment of patients with somatoform disorders: randomized, placebo-controlled pharmaco-clinica
+- new | 2008 | 17659990 | RCT | Butterbur root extract and music therapy in the prevention of childhood migraine: an explorative study.
+- HELD REF-0544 | 2007 | 18219828 | SR | Herbal medicines for the treatment of allergic rhinitis: a systematic review.
+- new | 2006 | 16987643 | SR | Effectiveness of Petasites hybridus preparations in the prophylaxis of migraine: a systematic review.
+- new | 2006 | 16784008 | RCT | The butterbur extract petasin has no effect on skin test reactivity induced by different stimuli: a randomized, double-blind crossover study using histamine, codeine, met
+- new | 2005 | 16520304 | SR | Butterbur: an evidence-based systematic review by the natural standard research collaboration.
+- new | 2005 | 16114089 | Clinical Trial/RCT | Treating intermittent allergic rhinitis: a prospective, randomized, placebo and antihistamine-controlled study of Butterbur extract Ze 339.
+- new | 2005 | 15836592 | Clinical Trial | Migraine prevention in children and adolescents: results of an open study with a special butterbur root extract.
+- new | 2004 | 14720270 | Clinical Trial/RCT | Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.
+- new | 2004 | 15005644 | Clinical Trial | Petasites hybridus (Butterbur root) extract in the treatment of asthma--an open trial.
+- HELD REF-1479 | 2004 | 15623680 | Clinical Trial/RCT | Petasites hybridus root (butterbur) is an effective preventive treatment for migraine.
+- new | 2004 | 14752215 | Clinical Trial/RCT | The first placebo-controlled trial of a special butterbur root extract for the prevention of migraine: reanalysis of efficacy criteria.
+- new | 2004 | 15611396 | Clinical Trial/RCT | Butterbur Ze339 for the treatment of intermittent allergic rhinitis: dose-dependent efficacy in a prospective, randomized, double-blind, placebo-controlled study.
+- new | 2004 | 14989395 | Clinical Trial/RCT | The effects of butterbur on the histamine and allergen cutaneous response.
+- new | 2004 | 15281472 | Clinical Trial/RCT | Effects of butterbur treatment in intermittent allergic rhinitis: a placebo-controlled evaluation.
+- new | 2004 | 15080820 | Clinical Trial/RCT | A placebo-controlled evaluation of butterbur and fexofenadine on objective and subjective outcomes in perennial allergic rhinitis.
+- new | 2003 | 12864764 | Clinical Trial | Safety of a patented special butterbur root extract for migraine prevention.
+- new | 2003 | 12859442 | Clinical Trial/RCT | Butterbur, a herbal remedy, attenuates adenosine monophosphate induced nasal responsiveness in seasonal allergic rhinitis.
+- new | 2002 | 12188041 | Clinical Trial | Anti-inflammatory activity of an extract of Petasites hybridus in allergic rhinitis.
+- new | 2002 | 11799030 | Clinical Trial/RCT | Randomised controlled trial of butterbur and cetirizine for treating seasonal allergic rhinitis.
+- new | 2001 | 11410074 | Clinical Trial/RCT | An extract of Petasites hybridus is effective in the prophylaxis of migraine.
+- HELD REF-0543 | 2000 | 11020030 | Clinical Trial/RCT | An extract of Petasites hybridus is effective in the prophylaxis of migraine.
+
+## petroselinum-crispum (Petroselinum crispum; Parsley) - 6 (+CT) hits; query: ("Petroselinum crispum"[tiab] OR "Parsley"[ti]) AND (systematic review[pt] OR meta-analysis[pt] OR randomized controlled trial[pt])
+- new | 2024 | 38220388 | Clinical Trial | Efficacy of parsley seed-supplemented bread in improving serum osteopontin level and renal health in obese women: A nutritional intervention study.
+- new | 2017 | 27902522 | RCT | The Effect of Topical Use of Petroselinum Crispum (Parsley) Versus That of Hydroquinone Cream on Reduction of Epidermal Melasma: A Randomized Clinical Trial.
+- new | 2015 | 25877259 | RCT | Effect of vegetable wastage and energy in ostrich chick diet on performance and hematology.
+- new | 2012 | 23286723 | Clinical Trial | [Effect of fried bacon and parsley sauce on gastrointestinal symptoms in healthy old boys footballer].
+- new | 1999 | 10399355 | Clinical Trial | Flavonols and flavones of parsley cell suspension culture change the antioxidative capacity of plasma in rats.
+- new | 1999 | 10615220 | Clinical Trial/RCT | Effect of parsley (Petroselinum crispum) intake on urinary apigenin excretion, blood antioxidant enzymes and biomarkers for oxidative stress in human subjects.

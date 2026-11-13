@@ -136,7 +136,7 @@ actions:
   status: verified
 indications:
 - condition: infection
-  note: inferred from antimicrobial action
+  note: Small cranberry extracts were antibacterial in lab tests (review; preclinical)
   reference_ids:
   - REF-0941
   - REF-0945
@@ -144,7 +144,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-0949
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Small cranberry reduced inflammation in diabetic mice (preclinical)
   reference_ids:
   - REF-0940
   status: needs-review
@@ -152,6 +152,7 @@ indications:
   reference_ids:
   - REF-0941
   status: verified
+  note: Small cranberry's proanthocyanidins are reviewed for urinary tract protection (review)
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
@@ -231,4 +232,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 12 - REF-0124 purged (wrong species): the Cochrane
   review on cranberries for UTI covers trials of American cranberry (Vaccinium macrocarpon)
   products, not the European small cranberry. REF-0941 (V. oxycoccos review: urinary-tract
-  protection, antibacterial) remains; retagged.'
+  protection, antibacterial) remains; retagged.
+  | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. Notes rewritten. The
+  large cranberry literature on PubMed is American cranberry (Vaccinium macrocarpon) - a different
+  species, not used here (inv. 10).'

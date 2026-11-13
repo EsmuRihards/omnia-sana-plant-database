@@ -227,15 +227,20 @@ indications:
   - REF-3863
   status: verified
 contraindications:
-- note: Generally well-tolerated in clinical trials at doses up to 600 mg/day for up to 12 weeks. Common
-    side effects may include mild drowsiness, gastrointestinal upset, and diarrhea at higher doses. Contraindicated
-    during pregnancy due to potential abortifacient effects. May interact with sedatives, immunosuppressants,
-    thyroid medications, and blood sugar medications. People with autoimmune diseases, hyperthyroidism,
-    or scheduled for surgery should consult healthcare providers before use. May cause allergic reactions
-    in sensitive individuals. Not recommended for children without medical supervision.
+- note: Ashwagandha may be safe short term (up to 3 months); its long-term safety is unknown. It can cause
+    drowsiness, stomach upset, diarrhoea and vomiting (NCCIH). Avoid it in pregnancy and while breastfeeding
+    (NCCIH); evidence that it causes miscarriage or birth defects is inconclusive (systematic review).
+    It is not recommended before surgery or for people with autoimmune or thyroid disorders, and it has
+    been linked to an overactive thyroid and to allergic reactions (NCCIH; review). People with hormone-sensitive
+    prostate cancer should avoid it because it may raise testosterone. It may interact with medicines
+    for diabetes and high blood pressure, immunosuppressants, sedatives, anti-seizure medicines and thyroid
+    hormone (NCCIH).
   severity: caution
-  reference_ids: []
-  status: needs-review
+  reference_ids:
+  - REF-3878
+  - REF-3879
+  - REF-3880
+  status: verified
 - note: Duke (2002) classifies ashwagandha activities primarily at the experimental level (score 1), with
     adaptogenic, sedative, immunostimulant, and anti-inflammatory actions demonstrated in animal and in
     vitro models. Root preparations are used at 2–3 g powdered root three times daily, or 150–300 mg of
@@ -265,6 +270,7 @@ references:
 - REF-2253
 - REF-2254
 - REF-2255
+- REF-3878
 drug_class_interactions:
 - drug_class: thyroid-medicines
   severity: caution
@@ -345,4 +351,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (2 MAs + 2 RCTs; cortisol-only MA REF-3862 recorded as no-effect for perceived stress), anxiety
   (3 MAs), depression (2026 MA). New safety note: idiosyncratic, often cholestatic liver injury
   (2026 scoping review REF-3864). Safety note #1 is still unsourced (needs-review). Gap: glucose
-  MA (very low certainty).'
+  MA (very low certainty).
+  | 2026-11-13: symptom-source audit ashwagandha safety note sourced - Safety note #1 had no
+  references (needs-review). Rewritten to what NCCIH REF-3878 (read 2026-11-13), the 2026
+  adverse-effects review REF-3879 and the 2026 teratogenicity SR REF-3880 state. Dropped as
+  unsourced: "doses up to 600 mg/day for up to 12 weeks" and "not recommended for children without
+  medical supervision"; "contraindicated due to potential abortifacient effects" replaced by
+  NCCIH''s "avoid in pregnancy" plus the SR finding that abortifacient evidence is inconclusive.
+  Status needs-review -> verified.'

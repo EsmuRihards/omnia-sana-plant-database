@@ -65439,10 +65439,14 @@
    ],
    "contraindications": [
     {
-     "note": "Generally well-tolerated in clinical trials at doses up to 600 mg/day for up to 12 weeks. Common side effects may include mild drowsiness, gastrointestinal upset, and diarrhea at higher doses. Contraindicated during pregnancy due to potential abortifacient effects. May interact with sedatives, immunosuppressants, thyroid medications, and blood sugar medications. People with autoimmune diseases, hyperthyroidism, or scheduled for surgery should consult healthcare providers before use. May cause allergic reactions in sensitive individuals. Not recommended for children without medical supervision.",
+     "note": "Ashwagandha may be safe short term (up to 3 months); its long-term safety is unknown. It can cause drowsiness, stomach upset, diarrhoea and vomiting (NCCIH). Avoid it in pregnancy and while breastfeeding (NCCIH); evidence that it causes miscarriage or birth defects is inconclusive (systematic review). It is not recommended before surgery or for people with autoimmune or thyroid disorders, and it has been linked to an overactive thyroid and to allergic reactions (NCCIH; review). People with hormone-sensitive prostate cancer should avoid it because it may raise testosterone. It may interact with medicines for diabetes and high blood pressure, immunosuppressants, sedatives, anti-seizure medicines and thyroid hormone (NCCIH).",
      "severity": "caution",
-     "reference_ids": [],
-     "status": "needs-review"
+     "reference_ids": [
+      "REF-3878",
+      "REF-3879",
+      "REF-3880"
+     ],
+     "status": "verified"
     },
     {
      "note": "Duke (2002) classifies ashwagandha activities primarily at the experimental level (score 1), with adaptogenic, sedative, immunostimulant, and anti-inflammatory actions demonstrated in animal and in vitro models. Root preparations are used at 2–3 g powdered root three times daily, or 150–300 mg of standardized extract. Importantly, the plant has documented abortifacient and antifertility properties in animal studies, and its use should be avoided during pregnancy. It may potentiate the effects of barbiturates and sedatives (Duke, 2002).",
@@ -65472,7 +65476,8 @@
     "REF-2252",
     "REF-2253",
     "REF-2254",
-    "REF-2255"
+    "REF-2255",
+    "REF-3878"
    ],
    "drug_class_interactions": [
     {

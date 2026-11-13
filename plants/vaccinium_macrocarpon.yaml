@@ -111,11 +111,11 @@ actions:
   - REF-0390
   - REF-1338
   - REF-1339
-  - REF-1346
   status: verified
 indications:
 - condition: infection
-  note: Prevention of recurrent urinary tract infections (UTI), especially in women
+  note: Prevention of recurrent urinary tract infections in women and children (Cochrane review); no benefit
+    in multiple sclerosis in a randomized trial
   reference_ids:
   - REF-0389
   - REF-0390
@@ -124,16 +124,24 @@ indications:
   - REF-1342
   - REF-1347
   status: verified
+  null_result_ids:
+  - REF-3829
 - condition: urinary-support
-  note: inferred from urinary-antiseptic action
+  note: Cranberry reduced recurrent urinary tract infections in women (meta-analyses) and improved lower
+    urinary tract symptoms in men in a randomized trial; it did not help overactive bladder in an intention-to-treat
+    analysis
   reference_ids:
   - REF-0390
   - REF-1340
   - REF-1344
+  - REF-3830
   status: needs-review
+  null_result_ids:
+  - REF-3832
 - condition: uti
-  note: Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining; Prevention of recurrent
-    urinary tract infections (UTI), especially in women
+  note: Cranberry reduced recurrent urinary tract infections in women, children and people at risk after
+    medical procedures (Cochrane review), but not in the elderly, people with bladder-emptying problems
+    or multiple sclerosis; it blocks E. coli sticking to the bladder lining
   reference_ids:
   - REF-0389
   - REF-0390
@@ -143,10 +151,16 @@ indications:
   - REF-1340
   - REF-1341
   - REF-1342
-  - REF-1343
   - REF-1344
-  - REF-1346
   - REF-1347
+  status: verified
+  null_result_ids:
+  - REF-3829
+- condition: oral-health
+  note: A cranberry drink reduced gum inflammation and plaque vs control in people with gingivitis in
+    a randomized trial
+  reference_ids:
+  - REF-3831
   status: verified
 contraindications:
 - note: Best supported for PREVENTION of recurrent UTIs, not for treating an active infection; an established
@@ -209,4 +223,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (sys
   habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for fruit (provisional: PFAF REF-3358, berries ripe and
-  deep red in autumn). Single lineage. Binomial confirmed.'
+  deep red in autumn). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 18 - Deep audit. Dose-comparison RCT
+  REF-1343 (no placebo arm) removed from uti; lingonberry (V. vitis-idaea) review REF-1346 removed
+  from uti and the action. MS placebo RCT REF-3829 (no difference) recorded as no-effect. Men-LUTS
+  RCT REF-3830 added; OAB RCT REF-3832 (ITT null) no-effect. New pair (owner rule): oral-health
+  (gingivitis RCT). REF-0390 retagged narrative-review. Gap: RA juice RCT (within-group change
+  only).'

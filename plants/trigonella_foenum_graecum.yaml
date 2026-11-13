@@ -26,14 +26,12 @@ botanical_description:
   root: Taproot with nitrogen-fixing nodules
   fruit: Long, slender, curved seed pod (10-15 cm) containing 10-20 hard, angular, yellow-brown seeds
   flowering_period: May-June
-  reference_ids:
-  - REF-0308
+  reference_ids: []
   status: verified
 habitat:
   text: Cultivated widely as a food and forage crop; native to the eastern Mediterranean and western Asia,
     now grown throughout South Asia, the Middle East and North Africa.
-  reference_ids:
-  - REF-0308
+  reference_ids: []
   status: verified
 harvesting:
   text: Leaves and young sprouts are harvested throughout the growing season; seed pods are collected
@@ -43,8 +41,7 @@ harvesting:
   - Seed
   - Young sprouts
   season: Leaf/sprouts through growing season; seed at maturity
-  reference_ids:
-  - REF-0308
+  reference_ids: []
   status: verified
 harvest_readiness:
 - part: seed
@@ -66,7 +63,6 @@ traditional_uses:
   reference_ids:
   - REF-0148
   - REF-0182
-  - REF-0308
   status: verified
 preparations:
 - name: Ground seed / seed tea
@@ -115,14 +111,11 @@ constituents:
 - name: Sotolon (flavor compound)
   note: Aromatic lactone responsible for fenugreek's characteristic maple-syrup smell, including the body-odor
     effect reported with supplementation.
-  reference_ids:
-  - REF-0308
+  reference_ids: []
 actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0148
-  - REF-0182
-  - REF-0308
   - REF-1114
   - REF-1118
   - REF-1121
@@ -134,49 +127,47 @@ actions:
   status: needs-review
 - action: antidiabetic
   reference_ids:
-  - REF-0148
   - REF-0182
-  - REF-0308
   - REF-1117
   - REF-1118
   status: verified
 - action: aphrodisiac
   reference_ids:
-  - REF-0148
-  - REF-0182
-  - REF-0308
   - REF-1116
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Fenugreek eased rheumatoid arthritis in animal studies (systematic review); traditional use for
+    gout (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0308
   - REF-1114
+  - REF-3849
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0148
-  - REF-0182
   - REF-1121
 - condition: blood-sugar
-  note: inferred from antidiabetic action
+  note: Fenugreek lowered fasting blood sugar and HbA1c in type 2 diabetes and prediabetes in meta-analyses
+    of trials (study quality varies); traditional use in diabetes (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0182
-  - REF-0308
   - REF-1117
+  - REF-3817
+  - REF-2515
+  - REF-3849
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0148
 - condition: cancer
-  note: inferred from anticancer action
+  note: Reviewed for anticancer effects in lab and animal studies (preclinical)
   reference_ids:
   - REF-1120
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
   - REF-0148
-  - REF-0308
+  - REF-3818
   status: verified
+  note: Fenugreek improved blood lipids in a meta-analysis of trials; its seeds protected the heart in
+    a rat model of heart attack (preclinical)
 - condition: low-libido
   note: A fenugreek seed extract (Testofen) improved sexual function and raised testosterone in healthy
     older men in a randomized trial
@@ -184,39 +175,59 @@ indications:
   - REF-1116
   status: verified
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Fenugreek reduced airway and other inflammation in animal studies (preclinical)
   reference_ids:
-  - REF-0148
-  - REF-0308
   - REF-1121
   - REF-1122
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0182
+  - REF-0148
 - condition: metabolic-support
   reference_ids:
   - REF-0182
-  - REF-0308
+  - REF-2515
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0148
+  note: Fenugreek improved blood sugar control and blood lipids in meta-analyses of trials
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0308
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0148
-  - REF-0182
   - REF-1114
   - REF-1121
+- condition: high-cholesterol
+  note: Fenugreek lowered total and LDL cholesterol and triglycerides and raised HDL in meta-analyses
+    of trials
+  reference_ids:
+  - REF-3818
+  - REF-3819
+  - REF-2515
+  status: verified
+- condition: high-blood-pressure
+  note: Fenugreek seed lowered systolic (not diastolic) blood pressure in a meta-analysis of randomized
+    trials
+  reference_ids:
+  - REF-3820
+  status: verified
+- condition: hot-flashes
+  note: A fenugreek seed extract reduced hot flashes and other perimenopausal discomforts vs placebo in
+    a randomized trial
+  reference_ids:
+  - REF-3821
+  status: verified
+- condition: menopause
+  note: A fenugreek seed extract reduced vasomotor symptoms and low mood in perimenopausal women vs placebo
+    in a randomized trial
+  reference_ids:
+  - REF-3821
+  status: verified
 contraindications:
 - note: Fenugreek appears https://www.nccih.nih.gov/health/fenugreek for most people.
   severity: info
   reference_ids:
   - REF-0148
   - REF-0182
-  - REF-0308
   status: verified
 - note: Less serious side effects like diarrhea and indigestion have been reported anecdotally. You may
     also experience https://pubmed.ncbi.nlm.nih.gov/26251835/, which could be harmful if you have an eating
@@ -228,7 +239,6 @@ contraindications:
   reference_ids:
   - REF-0148
   - REF-0182
-  - REF-0308
   status: verified
 - note: 'Duke (2002) provides strong clinical evidence (score 2) for fenugreek''s hypoglycemic and hypocholesterolemic
     activities - among the best-evidenced herbal treatments for blood sugar and lipid management. Anti-inflammatory
@@ -240,7 +250,6 @@ contraindications:
   reference_ids:
   - REF-0148
   - REF-0182
-  - REF-0308
   - REF-0063
   status: verified
 references:
@@ -313,4 +322,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   condition (owner, 2026-11-13: libido split out of fertility). Its evidence is a sexual-function
   RCT in men (Testofen, REF-1116). REF-0308 (WHO Monographs vol. 1) dropped from this pair: vol. 1
   has no fenugreek monograph (fenugreek is in vol. 3) - the record''s other REF-0308 citations are
-  left for its deep re-sweep batch.'
+  left for its deep re-sweep batch.
+  | 2026-11-13: symptom-source audit deep audit batch 18 - Deep audit. REF-0308 "WHO Monographs
+  Vol 1 (1999)" purged from this record: fenugreek is not in volume 1. Rat MI study REF-0148
+  (retagged preclinical) and glycaemia MA REF-0182 removed from non-matching actions. Glycaemia MA
+  REF-3817 and held T2D MA REF-2515 added. New pairs (owner rule): high-cholesterol (2 MAs +
+  REF-2515), high-blood-pressure (MA; systolic only), hot-flashes and menopause (placebo RCT).
+  Grieve REF-3849 added (diabetes, gout). Gaps: dysmenorrhoea MA (effect "highly uncertain"),
+  lactation RCT (no significant difference), Alzheimer''s RCT (within-group only).'

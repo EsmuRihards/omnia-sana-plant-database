@@ -122,8 +122,7 @@ actions:
 - action: venotonic
   note: Supports capillary integrity and venous tone (traditional use for varicose veins / chronic venous
     insufficiency)
-  reference_ids:
-  - REF-0409
+  reference_ids: []
   status: needs-review
 indications:
 - condition: arthritis
@@ -143,22 +142,30 @@ indications:
   - REF-2572
   status: verified
 - condition: eye-strain
-  note: 'Traditional support for eye strain and vision (note: rigorous trials do NOT support improved
-    night vision in healthy eyes)'
+  note: Bilberry extract eased eye fatigue from screen work and relaxed eye-focusing muscles vs placebo
+    in randomized trials; a systematic review found it does not improve night vision
   reference_ids:
-  - REF-0408
+  - REF-3833
+  - REF-3834
   status: verified
+  null_result_ids:
+  - REF-0408
 - condition: high-cholesterol
-  note: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
+  note: Reviews describe benefits on blood lipids, but a 2025 meta-analysis found bilberry lowered triglycerides
+    and HbA1c, not cholesterol
   reference_ids:
   - REF-0409
   - REF-0594
   status: verified
+  null_result_ids:
+  - REF-3836
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Bilberries reduced low-grade inflammation in people with features of metabolic syndrome in a randomized
+    trial (review of clinical studies)
   reference_ids:
   - REF-0409
   - REF-2570
+  - REF-3835
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -248,4 +255,10 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Survey of Ophth
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit
   (provisional: PFAF REF-3361, berries ripe blue-black in late summer). SAFETY: privet (Ligustrum vulgare)
-  berry lookalike. Binomial confirmed.'
+  berry lookalike. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 18 - Deep audit. Night-vision SR REF-0408
+  concludes no support for improved night vision but was the only card for eye-strain: moved to
+  no-effect; two placebo RCTs on screen-work eye fatigue added. REF-0409 (tagged rct; a review)
+  retagged and removed from the venotonic action. Inflammation RCT REF-3835 added; 2025
+  cardiometabolic MA REF-3836 (no cholesterol effect) no-effect for high-cholesterol. Four reviews
+  retagged narrative-review.'

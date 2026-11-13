@@ -141,8 +141,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0050
-  - REF-0098
-  - REF-0263
   - REF-1329
   - REF-1332
   - REF-1335
@@ -151,10 +149,9 @@ actions:
 - action: anti-rheumatic
   reference_ids:
   - REF-0050
-  - REF-0098
-  - REF-0263
   - REF-1332
   - REF-1336
+  - REF-3844
   status: verified
 - action: anticancer
   reference_ids:
@@ -162,9 +159,6 @@ actions:
   status: needs-review
 - action: antioxidant
   reference_ids:
-  - REF-0050
-  - REF-0098
-  - REF-0263
   - REF-1328
   - REF-1329
   - REF-1335
@@ -172,101 +166,90 @@ actions:
   status: verified
 - action: diuretic
   reference_ids:
-  - REF-0050
-  - REF-0098
-  - REF-0263
   - REF-1335
   - REF-1336
+  - REF-3844
   status: verified
 - action: immunomodulator
-  reference_ids:
-  - REF-0050
-  - REF-0098
-  - REF-0263
-  status: verified
+  reference_ids: []
+  status: needs-review
 indications:
 - condition: arthritis
   reference_ids:
   - REF-0050
-  - REF-0098
+  - REF-3844
+  - REF-3827
   status: verified
   mechanistic_exclude_ids:
-  - REF-0263
   - REF-1329
   - REF-1332
+  null_result_ids:
+  - REF-3828
+  note: Nettle leaf stung onto the skin eased base-of-thumb osteoarthritis pain vs placebo in a randomized
+    trial (a knee-pain pilot found no difference); nettle leaf is reviewed for osteoarthritis; traditional
+    for rheumatism and gout (Grieve, A Modern Herbal)
 - condition: back-pain
-  note: inferred from anti-rheumatic action
+  note: Nettle leaf is reviewed among herbal anti-inflammatories for chronic low back pain (review)
   reference_ids:
   - REF-0050
-  - REF-0098
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0263
   - REF-1332
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-1330
   status: needs-review
-- condition: cold
-  note: inferred from immunomodulator action
-  reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0050
-  - REF-0263
-- condition: immune-support
-  reference_ids:
-  - REF-0098
-  status: verified
-  mechanistic_exclude_ids:
-  - REF-0050
-  - REF-0263
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: Nettle leaf is reviewed among herbal anti-inflammatories for painful osteoarthritis (review);
+    nettle compounds were anti-inflammatory in the lab (preclinical)
   reference_ids:
   - REF-0050
-  - REF-0098
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0263
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  note: Traditionally taken for nettle rash (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-3844
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0050
-  - REF-0263
   - REF-1329
   - REF-1332
 - condition: swelling
-  note: inferred from diuretic action
+  note: Traditional diuretic for incipient dropsy (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-3844
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0050
-  - REF-0263
 - condition: urinary-support
   reference_ids:
-  - REF-0098
   - REF-0263
   - REF-1333
-  - REF-1334
-  - REF-1337
+  - REF-3844
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0050
-- condition: uti
-  note: inferred from diuretic action
+  note: Nettle root eased urinary symptoms of an enlarged prostate (reviews); traditional for gravel (Grieve,
+    A Modern Herbal)
+- condition: prostate-support
+  note: Nettle root extract eased urinary symptoms of an enlarged prostate (BPH) vs placebo in randomized
+    trials
   reference_ids:
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0050
+  - REF-3823
+  - REF-3824
+  - REF-3825
   - REF-0263
+  status: verified
+- condition: blood-sugar
+  note: Nettle lowered fasting blood sugar in type 2 diabetes in meta-analyses of trials (effects on HbA1c
+    were inconsistent)
+  reference_ids:
+  - REF-1331
+  - REF-3822
+  status: verified
+- condition: hot-flashes
+  note: Nettle reduced menopausal hot flashes and improved quality of life vs placebo in a randomized
+    trial
+  reference_ids:
+  - REF-3826
+  status: verified
 contraindications:
 - note: Fresh plant causes stinging skin reaction (formic acid, histamine). Once cooked, dried, or freeze-dried,
     this is eliminated. Root tincture may interact with diuretics, antihypertensives, and antidiabetic
@@ -332,4 +315,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   herbal tea, liquid extract (1:5) and three dry extracts. Freeze-dried leaf in capsules is none of these,
   and the monograph says nothing about avoiding the sting or retaining nutrients. | 2026-08-15: Harvest
   Calendar (phenological) - added harvest_readiness for leaf (spring, before flowering) + seed (June-Oct),
-  both provisional: PFAF REF-3355; root = GAP. Single lineage. Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Madaus is explicit that under the HAB the collection material for this species is the fresh herb WITHOUT root, and Grieve, Herbal Reality and the Arzneipflanzen-Lexikon give no root stage.'
+  both provisional: PFAF REF-3355; root = GAP. Single lineage. Binomial confirmed. | 2026-08-15: root harvest_readiness re-searched and kept a documented gap; Madaus is explicit that under the HAB the collection material for this species is the fresh herb WITHOUT root, and Grieve, Herbal Reality and the Arzneipflanzen-Lexikon give no root stage.
+  | 2026-11-13: symptom-source audit deep audit batch 18 - Deep audit. Generic Grieve REF-0098
+  replaced by the nettle entry REF-3844 (read 2026-11-13: rheumatism, gout, nettlerash, dropsy,
+  gravel). Chrubasik review REF-0050 and the BPH paper REF-0263 removed from actions they do not
+  address. Cold, immune-support and UTI dropped (nothing names them). BPH review REF-1334 (never
+  names urinary) and the saw palmetto + nettle combination REF-1337 removed. Thumb-OA nettle-sting
+  RCT REF-3827 added; knee pilot REF-3828 no-effect. New pairs (owner rule): prostate-support (3
+  RCTs), blood-sugar (held MA REF-1331 + MA REF-3822), hot-flashes (placebo RCT).'

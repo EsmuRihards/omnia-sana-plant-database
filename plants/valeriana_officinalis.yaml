@@ -118,19 +118,17 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0025
   - REF-0112
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0025
   - REF-0112
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
-  - REF-0025
   - REF-0112
+  - REF-3845
   status: verified
 - action: sedative
   reference_ids:
@@ -144,54 +142,56 @@ actions:
   - REF-1354
   - REF-1355
   - REF-1356
+  - REF-3845
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0025
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0112
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0025
 - condition: insomnia
-  note: inferred from sedative action
+  note: Valerian improved subjective sleep quality in some meta-analyses and trials, but a 2024 umbrella
+    review concluded it lacks firm support for insomnia and several placebo-controlled trials found no
+    benefit; traditional sleep remedy (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0025
   - REF-0112
   - REF-1348
   - REF-1349
   - REF-1350
-  - REF-1351
   - REF-1352
-  - REF-1356
+  - REF-3841
+  - REF-3845
   status: needs-review
+  null_result_ids:
+  - REF-1356
+  - REF-1351
+  - REF-3839
+  - REF-3840
 - condition: menstrual-cramps
   reference_ids:
   - REF-0112
+  - REF-3837
+  - REF-3838
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0025
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
+  note: Valerian reduced period pain vs placebo in a meta-analysis and a randomized trial; traditional
+    antispasmodic
+- condition: hot-flashes
+  note: Valerian reduced the severity and frequency of hot flashes vs placebo in a triple-blind randomized
+    trial
   reference_ids:
-  - REF-0112
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0025
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
+  - REF-3842
+  status: verified
+- condition: anxiety
+  note: Valerian reduced anxiety in haemodialysis patients in a randomized crossover trial; a Cochrane
+    review found too little evidence to judge it for anxiety disorders
   reference_ids:
-  - REF-0112
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0025
+  - REF-1352
+  status: verified
+  null_result_ids:
+  - REF-3843
+  - REF-1356
+- condition: depression
+  note: Valerian reduced depression scores in haemodialysis patients in a randomized crossover trial
+  reference_ids:
+  - REF-1352
+  status: verified
 contraindications:
 - note: Generally well tolerated for short-to-medium term use. May cause vivid dreams, morning grogginess,
     or headache in some individuals. Avoid combining with alcohol, sedatives, or anaesthetics. Do not
@@ -318,4 +318,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-19 (orphan sweep): REF-0092 (Garges 1998, cardiac complications and delirium associated with valerian root withdrawal) was orphaned. It is a genuine safety signal for this species and is now in the references bucket. CANDIDATE for a withdrawal/discontinuation contraindication - deliberately not written as one here, because a single case report needs reading in full before it becomes a published safety claim. | 2026-08-15:
   Harvest Calendar (phenological) - added harvest_readiness for root + rhizome (both provisional: PFAF
   REF-3360, dug in autumn from 2-year plants after die-down). SAFETY: fatal Conium maculatum lookalike.
-  Binomial confirmed.'
+  Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 18 - Deep audit. Hoffmann REF-0112
+  (unverifiable) was the only card for arthritis, inflammation, skin-irritation and muscle-spasm:
+  dropped. Sleep SR/MA REF-0025 removed from three actions. Insomnia: kava/valerian internet RCT
+  REF-1356 and the 2011 SR REF-1351 moved to no-effect; 2024 umbrella review REF-3839 and the
+  Barton cancer RCT REF-3840 added as no-effect; postmenopausal RCT REF-3841 and Grieve REF-3845
+  added. Dysmenorrhoea MA + RCT added. New pairs (owner rule): hot-flashes (placebo RCT), anxiety
+  and depression (haemodialysis RCT REF-1352; Cochrane anxiety review REF-3843 no-effect).'

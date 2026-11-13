@@ -71,7 +71,6 @@ traditional_uses:
     and phenolics has additionally investigated antioxidant, kidney-protective and liver-protective activity.
   reference_ids:
   - REF-0027
-  - REF-0098
   - REF-0140
   status: verified
 preparations:
@@ -114,8 +113,6 @@ actions:
   - REF-2943
   - REF-2937
   - REF-0027
-  - REF-0098
-  - REF-0140
   - REF-1323
   - REF-1324
   - REF-1327
@@ -134,8 +131,6 @@ actions:
   - REF-2907
   - REF-2908
   - REF-0027
-  - REF-0098
-  - REF-0140
   - REF-1323
   - REF-1324
   - REF-1326
@@ -148,22 +143,15 @@ actions:
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0027
-  - REF-0098
-  - REF-0140
   status: verified
 - action: immunomodulator
   reference_ids:
   - REF-0027
-  - REF-0098
-  - REF-0140
   - REF-1324
   status: verified
 - action: vulnerary
   reference_ids:
-  - REF-2904
   - REF-0027
-  - REF-0098
-  - REF-0140
   - REF-1323
   - REF-2367
   status: verified
@@ -183,10 +171,8 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-2943
-  - REF-2941
   - REF-2937
   - REF-2903
-  - REF-2909
   status: verified
 - action: antidiabetic
   reference_ids:
@@ -201,120 +187,79 @@ actions:
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0027
-  - REF-0098
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0140
   - REF-2943
-- condition: bruising
-  note: inferred from vulnerary action
-  reference_ids:
   - REF-0027
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0140
 - condition: cancer
-  note: inferred from anticancer action
+  note: White clover extract blocked the growth of leukaemia cells in the lab (preclinical)
   reference_ids:
   - REF-1325
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2901
-- condition: cold
-  note: inferred from immunomodulator action
-  reference_ids:
-  - REF-0027
-  - REF-0098
+- condition: immune-support
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0140
-- condition: immune-support
-  reference_ids:
   - REF-0027
-  - REF-0098
-  status: verified
-  mechanistic_exclude_ids:
-  - REF-0140
 - condition: inflammation
-  note: inferred from anti-inflammatory action
+  note: White clover compounds had anti-inflammatory activity in the lab (preclinical)
   reference_ids:
   - REF-0027
-  - REF-0098
   - REF-2366
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0140
   - REF-2943
-- condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0027
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0140
-- condition: muscle-spasm
-  note: inferred from antispasmodic action
-  reference_ids:
-  - REF-0027
-  - REF-0098
-  status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0140
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0027
-  - REF-0098
+  reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0140
   - REF-2943
-- condition: wounds
-  note: inferred from vulnerary action
-  reference_ids:
-  - REF-2904
   - REF-0027
-  - REF-0098
+- condition: wounds
+  note: A white clover ointment sped wound healing in rats (preclinical)
+  reference_ids:
+  - REF-0027
   - REF-1323
   - REF-2367
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0140
-  - REF-2909
   - REF-2943
 - condition: kidney-support
   reference_ids:
   - REF-1326
   status: verified
+  note: White clover leaf extract protected the kidneys of mice from paracetamol damage (preclinical)
 - condition: liver-support
   reference_ids:
   - REF-2369
   status: verified
+  note: White clover extract protected the liver of mice from paracetamol damage (preclinical)
 - condition: blood-sugar
-  reference_ids:
-  - REF-2935
-  status: verified
+  reference_ids: []
+  status: needs-review
   mechanistic_exclude_ids:
   - REF-2901
+  note: White clover flower extract inhibited a starch-digesting enzyme in the lab (preclinical)
 - condition: infection
-  note: inferred from antimicrobial action
+  note: White clover essential oil was active against multidrug-resistant bacteria in the lab (preclinical);
+    its tannins did not inhibit Cryptosporidium
   reference_ids:
-  - REF-2941
   - REF-2937
   - REF-2903
-  - REF-2909
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2943
+  null_result_ids:
+  - REF-2909
 - condition: cognitive-function
   reference_ids:
   - REF-2938
-  - REF-2937
   status: needs-review
+  note: White clover leaf compounds inhibited cholinesterase in the lab (preclinical)
 contraindications:
 - note: Generally very safe as a food and in moderate herbal use. Cyanogenic glucosides present in very
     small amounts - not significant in normal food or tea use. Isoflavones are phytoestrogens (as in red
@@ -322,7 +267,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0027
-  - REF-0098
   - REF-0140
   status: verified
 - note: Duke (2002) does not include a dedicated entry for white clover (Trifolium repens) in the Handbook
@@ -330,7 +274,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0027
-  - REF-0098
   - REF-0140
   - REF-0063
   status: verified
@@ -419,4 +362,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
   status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest Calendar
   (phenological) - added harvest_readiness for flower + leaf (both provisional: PFAF REF-3359, gathered
-  while in flower in summer). Single lineage. Binomial confirmed.'
+  while in flower in summer). Single lineage. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 18 - Deep audit (2nd pass + deep). Generic
+  Grieve REF-0098 purged from this record: Grieve has no white clover entry (checked 2026-11-13;
+  only Clover, Red). White clover review REF-0027 (no abstract, retagged narrative-review) was
+  pinned to 9 pairs; kept only where a checkable study agrees (inflammation, wounds).
+  Clover-isoflavone review REF-0140 removed from 5 actions. Bruising, cold, menstrual-cramps,
+  muscle-spasm dropped (nothing names them). T. canescens wound result REF-2904 and in-silico
+  REF-2941 removed; Cryptosporidium tannin study REF-2909 (no inhibition) moved to no-effect.
+  Blood-sugar is in vitro only (verified -> needs-review).'

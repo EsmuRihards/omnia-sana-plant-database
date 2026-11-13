@@ -60173,7 +60173,6 @@
     "text": "White clover has a folk tradition, similar to but lighter than its relative red clover, as an anti-inflammatory and wound-healing remedy and mild expectorant, and modern research on its isoflavones and phenolics has additionally investigated antioxidant, kidney-protective and liver-protective activity.",
     "reference_ids": [
      "REF-0027",
-     "REF-0098",
      "REF-0140"
     ],
     "status": "verified"
@@ -60229,8 +60228,6 @@
       "REF-2943",
       "REF-2937",
       "REF-0027",
-      "REF-0098",
-      "REF-0140",
       "REF-1323",
       "REF-1324",
       "REF-1327",
@@ -60252,8 +60249,6 @@
       "REF-2907",
       "REF-2908",
       "REF-0027",
-      "REF-0098",
-      "REF-0140",
       "REF-1323",
       "REF-1324",
       "REF-1326",
@@ -60268,9 +60263,7 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0027",
-      "REF-0098",
-      "REF-0140"
+      "REF-0027"
      ],
      "status": "verified"
     },
@@ -60278,8 +60271,6 @@
      "action": "immunomodulator",
      "reference_ids": [
       "REF-0027",
-      "REF-0098",
-      "REF-0140",
       "REF-1324"
      ],
      "status": "verified"
@@ -60287,10 +60278,7 @@
     {
      "action": "vulnerary",
      "reference_ids": [
-      "REF-2904",
       "REF-0027",
-      "REF-0098",
-      "REF-0140",
       "REF-1323",
       "REF-2367"
      ],
@@ -60322,10 +60310,8 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-2943",
-      "REF-2941",
       "REF-2937",
-      "REF-2903",
-      "REF-2909"
+      "REF-2903"
      ],
      "status": "verified"
     },
@@ -60350,35 +60336,18 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0027",
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0140",
-      "REF-2943"
+      "REF-2943",
+      "REF-0027"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
-     "condition": "bruising",
-     "note": "inferred from vulnerary action",
-     "reference_ids": [
-      "REF-0027",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0140"
-     ],
-     "evidence": 1,
-     "label": "Bruising"
-    },
-    {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "White clover extract blocked the growth of leukaemia cells in the lab (preclinical)",
      "reference_ids": [
       "REF-1325"
      ],
@@ -60390,105 +60359,51 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "cold",
-     "note": "inferred from immunomodulator action",
-     "reference_ids": [
-      "REF-0027",
-      "REF-0098"
-     ],
+     "condition": "immune-support",
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0140"
-     ],
-     "evidence": 1,
-     "label": "Cold & flu"
-    },
-    {
-     "condition": "immune-support",
-     "reference_ids": [
-      "REF-0027",
-      "REF-0098"
-     ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0140"
+      "REF-0027"
      ],
      "evidence": 1,
      "label": "Immune support"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "White clover compounds had anti-inflammatory activity in the lab (preclinical)",
      "reference_ids": [
       "REF-0027",
-      "REF-0098",
       "REF-2366"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0140",
       "REF-2943"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0027",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0140"
-     ],
-     "evidence": 1,
-     "label": "Menstrual cramps"
-    },
-    {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [
-      "REF-0027",
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0140"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
-    },
-    {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0027",
-      "REF-0098"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0140",
-      "REF-2943"
+      "REF-2943",
+      "REF-0027"
      ],
      "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
-     "note": "inferred from vulnerary action",
+     "note": "A white clover ointment sped wound healing in rats (preclinical)",
      "reference_ids": [
-      "REF-2904",
       "REF-0027",
-      "REF-0098",
       "REF-1323",
       "REF-2367"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0140",
-      "REF-2909",
       "REF-2943"
      ],
      "evidence": 2,
@@ -60500,6 +60415,7 @@
       "REF-1326"
      ],
      "status": "verified",
+     "note": "White clover leaf extract protected the kidneys of mice from paracetamol damage (preclinical)",
      "evidence": 2,
      "label": "Kidney support"
     },
@@ -60509,33 +60425,34 @@
       "REF-2369"
      ],
      "status": "verified",
+     "note": "White clover extract protected the liver of mice from paracetamol damage (preclinical)",
      "evidence": 2,
      "label": "Liver support"
     },
     {
      "condition": "blood-sugar",
-     "reference_ids": [
-      "REF-2935"
-     ],
-     "status": "verified",
+     "reference_ids": [],
+     "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2901"
      ],
-     "evidence": 2,
+     "note": "White clover flower extract inhibited a starch-digesting enzyme in the lab (preclinical)",
+     "evidence": 1,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "infection",
-     "note": "inferred from antimicrobial action",
+     "note": "White clover essential oil was active against multidrug-resistant bacteria in the lab (preclinical); its tannins did not inhibit Cryptosporidium",
      "reference_ids": [
-      "REF-2941",
       "REF-2937",
-      "REF-2903",
-      "REF-2909"
+      "REF-2903"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2943"
+     ],
+     "null_result_ids": [
+      "REF-2909"
      ],
      "evidence": 2,
      "label": "Infection (general)"
@@ -60543,10 +60460,10 @@
     {
      "condition": "cognitive-function",
      "reference_ids": [
-      "REF-2938",
-      "REF-2937"
+      "REF-2938"
      ],
      "status": "needs-review",
+     "note": "White clover leaf compounds inhibited cholinesterase in the lab (preclinical)",
      "evidence": 2,
      "label": "Cognitive function"
     }
@@ -60557,7 +60474,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0027",
-      "REF-0098",
       "REF-0140"
      ],
      "status": "verified"
@@ -60567,7 +60483,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0027",
-      "REF-0098",
       "REF-0140",
       "REF-0063"
      ],
@@ -60645,16 +60560,12 @@
     "root": "Taproot with nitrogen-fixing nodules",
     "fruit": "Long, slender, curved seed pod (10-15 cm) containing 10-20 hard, angular, yellow-brown seeds",
     "flowering_period": "May-June",
-    "reference_ids": [
-     "REF-0308"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "habitat": {
     "text": "Cultivated widely as a food and forage crop; native to the eastern Mediterranean and western Asia, now grown throughout South Asia, the Middle East and North Africa.",
-    "reference_ids": [
-     "REF-0308"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvesting": {
@@ -60665,9 +60576,7 @@
      "Young sprouts"
     ],
     "season": "Leaf/sprouts through growing season; seed at maturity",
-    "reference_ids": [
-     "REF-0308"
-    ],
+    "reference_ids": [],
     "status": "verified"
    },
    "harvest_readiness": [
@@ -60691,8 +60600,7 @@
     "text": "Fenugreek seed has an ancient tradition across the Mediterranean, Middle East and South Asia as a digestive and appetite-stimulant remedy and lactation aid, and modern clinical research strongly supports its traditional use for blood sugar and cholesterol management, formalised in Commission E approval as an appetite stimulant.",
     "reference_ids": [
      "REF-0148",
-     "REF-0182",
-     "REF-0308"
+     "REF-0182"
     ],
     "status": "verified"
    },
@@ -60756,9 +60664,7 @@
     {
      "name": "Sotolon (flavor compound)",
      "note": "Aromatic lactone responsible for fenugreek's characteristic maple-syrup smell, including the body-odor effect reported with supplementation.",
-     "reference_ids": [
-      "REF-0308"
-     ]
+     "reference_ids": []
     }
    ],
    "actions": [
@@ -60766,8 +60672,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0148",
-      "REF-0182",
-      "REF-0308",
       "REF-1114",
       "REF-1118",
       "REF-1121",
@@ -60785,9 +60689,7 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0148",
       "REF-0182",
-      "REF-0308",
       "REF-1117",
       "REF-1118"
      ],
@@ -60796,9 +60698,6 @@
     {
      "action": "aphrodisiac",
      "reference_ids": [
-      "REF-0148",
-      "REF-0182",
-      "REF-0308",
       "REF-1116"
      ],
      "status": "verified"
@@ -60807,15 +60706,14 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Fenugreek eased rheumatoid arthritis in animal studies (systematic review); traditional use for gout (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0308",
-      "REF-1114"
+      "REF-1114",
+      "REF-3849"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0148",
-      "REF-0182",
       "REF-1121"
      ],
      "evidence": 7,
@@ -60823,22 +60721,21 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "inferred from antidiabetic action",
+     "note": "Fenugreek lowered fasting blood sugar and HbA1c in type 2 diabetes and prediabetes in meta-analyses of trials (study quality varies); traditional use in diabetes (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0182",
-      "REF-0308",
-      "REF-1117"
+      "REF-1117",
+      "REF-3817",
+      "REF-2515",
+      "REF-3849"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0148"
-     ],
-     "evidence": 7,
+     "evidence": 9,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Reviewed for anticancer effects in lab and animal studies (preclinical)",
      "reference_ids": [
       "REF-1120"
      ],
@@ -60850,10 +60747,11 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0148",
-      "REF-0308"
+      "REF-3818"
      ],
      "status": "verified",
-     "evidence": 1,
+     "note": "Fenugreek improved blood lipids in a meta-analysis of trials; its seeds protected the heart in a rat model of heart attack (preclinical)",
+     "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
@@ -60868,16 +60766,14 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Fenugreek reduced airway and other inflammation in animal studies (preclinical)",
      "reference_ids": [
-      "REF-0148",
-      "REF-0308",
       "REF-1121",
       "REF-1122"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0182"
+      "REF-0148"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -60886,30 +60782,67 @@
      "condition": "metabolic-support",
      "reference_ids": [
       "REF-0182",
-      "REF-0308"
+      "REF-2515"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0148"
-     ],
-     "evidence": 7,
+     "note": "Fenugreek improved blood sugar control and blood lipids in meta-analyses of trials",
+     "evidence": 8,
      "label": "Metabolic support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0308"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0148",
-      "REF-0182",
       "REF-1114",
       "REF-1121"
      ],
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Fenugreek lowered total and LDL cholesterol and triglycerides and raised HDL in meta-analyses of trials",
+     "reference_ids": [
+      "REF-3818",
+      "REF-3819",
+      "REF-2515"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Fenugreek seed lowered systolic (not diastolic) blood pressure in a meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-3820"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High blood pressure"
+    },
+    {
+     "condition": "hot-flashes",
+     "note": "A fenugreek seed extract reduced hot flashes and other perimenopausal discomforts vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3821"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Hot flashes"
+    },
+    {
+     "condition": "menopause",
+     "note": "A fenugreek seed extract reduced vasomotor symptoms and low mood in perimenopausal women vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3821"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Menopause"
     }
    ],
    "contraindications": [
@@ -60918,8 +60851,7 @@
      "severity": "info",
      "reference_ids": [
       "REF-0148",
-      "REF-0182",
-      "REF-0308"
+      "REF-0182"
      ],
      "status": "verified"
     },
@@ -60928,8 +60860,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0148",
-      "REF-0182",
-      "REF-0308"
+      "REF-0182"
      ],
      "status": "verified"
     },
@@ -60939,7 +60870,6 @@
      "reference_ids": [
       "REF-0148",
       "REF-0182",
-      "REF-0308",
       "REF-0063"
      ],
      "status": "verified"
@@ -61180,7 +61110,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0304",
       "REF-0910",
       "REF-0911",
       "REF-0919"
@@ -61189,10 +61118,7 @@
     },
     {
      "action": "sedative",
-     "reference_ids": [
-      "REF-0911",
-      "REF-0304"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     }
    ],
@@ -61200,53 +61126,29 @@
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0911"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0304"
-     ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally applied to hot swellings and inflammations (Grieve, A Modern Herbal); coltsfoot compounds reduced inflammatory signals in the lab (preclinical)",
      "reference_ids": [
       "REF-0911",
-      "REF-0919"
+      "REF-3848"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0304"
-     ],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
-     "condition": "insomnia",
-     "note": "inferred from sedative action",
-     "reference_ids": [
-      "REF-0911"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0304"
-     ],
-     "evidence": 1,
-     "label": "Insomnia / sleeplessness"
-    },
-    {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally applied to erysipelas, wheals and inflamed skin (Grieve, A Modern Herbal); use only on intact skin (EMA, pyrrolizidine alkaloids)",
      "reference_ids": [
-      "REF-0911"
+      "REF-3848"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0304"
-     ],
      "evidence": 1,
      "label": "Skin irritation"
     }
@@ -61554,8 +61456,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0050",
-      "REF-0098",
-      "REF-0263",
       "REF-1329",
       "REF-1332",
       "REF-1335",
@@ -61567,10 +61467,9 @@
      "action": "anti-rheumatic",
      "reference_ids": [
       "REF-0050",
-      "REF-0098",
-      "REF-0263",
       "REF-1332",
-      "REF-1336"
+      "REF-1336",
+      "REF-3844"
      ],
      "status": "verified"
     },
@@ -61584,9 +61483,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0050",
-      "REF-0098",
-      "REF-0263",
       "REF-1328",
       "REF-1329",
       "REF-1335",
@@ -61597,22 +61493,16 @@
     {
      "action": "diuretic",
      "reference_ids": [
-      "REF-0050",
-      "REF-0098",
-      "REF-0263",
       "REF-1335",
-      "REF-1336"
+      "REF-1336",
+      "REF-3844"
      ],
      "status": "verified"
     },
     {
      "action": "immunomodulator",
-     "reference_ids": [
-      "REF-0050",
-      "REF-0098",
-      "REF-0263"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     }
    ],
    "indications": [
@@ -61620,27 +61510,29 @@
      "condition": "arthritis",
      "reference_ids": [
       "REF-0050",
-      "REF-0098"
+      "REF-3844",
+      "REF-3827"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0263",
       "REF-1329",
       "REF-1332"
      ],
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-3828"
+     ],
+     "note": "Nettle leaf stung onto the skin eased base-of-thumb osteoarthritis pain vs placebo in a randomized trial (a knee-pain pilot found no difference); nettle leaf is reviewed for osteoarthritis; traditional for rheumatism and gout (Grieve, A Modern Herbal)",
+     "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "back-pain",
-     "note": "inferred from anti-rheumatic action",
+     "note": "Nettle leaf is reviewed among herbal anti-inflammatories for chronic low back pain (review)",
      "reference_ids": [
-      "REF-0050",
-      "REF-0098"
+      "REF-0050"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0263",
       "REF-1332"
      ],
      "evidence": 1,
@@ -61657,56 +61549,24 @@
      "label": "Cancer (anticancer research)"
     },
     {
-     "condition": "cold",
-     "note": "inferred from immunomodulator action",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0050",
-      "REF-0263"
-     ],
-     "evidence": 1,
-     "label": "Cold & flu"
-    },
-    {
-     "condition": "immune-support",
-     "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0050",
-      "REF-0263"
-     ],
-     "evidence": 1,
-     "label": "Immune support"
-    },
-    {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Nettle leaf is reviewed among herbal anti-inflammatories for painful osteoarthritis (review); nettle compounds were anti-inflammatory in the lab (preclinical)",
      "reference_ids": [
-      "REF-0050",
-      "REF-0098"
+      "REF-0050"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0263"
-     ],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally taken for nettle rash (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3844"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0050",
-      "REF-0263",
       "REF-1329",
       "REF-1332"
      ],
@@ -61715,47 +61575,59 @@
     },
     {
      "condition": "swelling",
-     "note": "inferred from diuretic action",
+     "note": "Traditional diuretic for incipient dropsy (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3844"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0050",
-      "REF-0263"
-     ],
      "evidence": 1,
      "label": "Swelling / fluid retention"
     },
     {
      "condition": "urinary-support",
      "reference_ids": [
-      "REF-0098",
       "REF-0263",
       "REF-1333",
-      "REF-1334",
-      "REF-1337"
+      "REF-3844"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0050"
-     ],
+     "note": "Nettle root eased urinary symptoms of an enlarged prostate (reviews); traditional for gravel (Grieve, A Modern Herbal)",
      "evidence": 2,
      "label": "Urinary support"
     },
     {
-     "condition": "uti",
-     "note": "inferred from diuretic action",
+     "condition": "prostate-support",
+     "note": "Nettle root extract eased urinary symptoms of an enlarged prostate (BPH) vs placebo in randomized trials",
      "reference_ids": [
-      "REF-0098"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0050",
+      "REF-3823",
+      "REF-3824",
+      "REF-3825",
       "REF-0263"
      ],
-     "evidence": 1,
-     "label": "Urinary tract infection (UTI)"
+     "status": "verified",
+     "evidence": 7,
+     "label": "Prostate support"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Nettle lowered fasting blood sugar in type 2 diabetes in meta-analyses of trials (effects on HbA1c were inconsistent)",
+     "reference_ids": [
+      "REF-1331",
+      "REF-3822"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "hot-flashes",
+     "note": "Nettle reduced menopausal hot flashes and improved quality of life vs placebo in a randomized trial",
+     "reference_ids": [
+      "REF-3826"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Hot flashes"
     }
    ],
    "contraindications": [
@@ -61952,8 +61824,7 @@
      "reference_ids": [
       "REF-0390",
       "REF-1338",
-      "REF-1339",
-      "REF-1346"
+      "REF-1339"
      ],
      "status": "verified"
     }
@@ -61961,7 +61832,7 @@
    "indications": [
     {
      "condition": "infection",
-     "note": "Prevention of recurrent urinary tract infections (UTI), especially in women",
+     "note": "Prevention of recurrent urinary tract infections in women and children (Cochrane review); no benefit in multiple sclerosis in a randomized trial",
      "reference_ids": [
       "REF-0389",
       "REF-0390",
@@ -61971,24 +61842,31 @@
       "REF-1347"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3829"
+     ],
      "evidence": 9,
      "label": "Infection (general)"
     },
     {
      "condition": "urinary-support",
-     "note": "inferred from urinary-antiseptic action",
+     "note": "Cranberry reduced recurrent urinary tract infections in women (meta-analyses) and improved lower urinary tract symptoms in men in a randomized trial; it did not help overactive bladder in an intention-to-treat analysis",
      "reference_ids": [
       "REF-0390",
       "REF-1340",
-      "REF-1344"
+      "REF-1344",
+      "REF-3830"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-3832"
+     ],
+     "evidence": 8,
      "label": "Urinary support"
     },
     {
      "condition": "uti",
-     "note": "Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining; Prevention of recurrent urinary tract infections (UTI), especially in women",
+     "note": "Cranberry reduced recurrent urinary tract infections in women, children and people at risk after medical procedures (Cochrane review), but not in the elderly, people with bladder-emptying problems or multiple sclerosis; it blocks E. coli sticking to the bladder lining",
      "reference_ids": [
       "REF-0389",
       "REF-0390",
@@ -61998,14 +61876,25 @@
       "REF-1340",
       "REF-1341",
       "REF-1342",
-      "REF-1343",
       "REF-1344",
-      "REF-1346",
       "REF-1347"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-3829"
+     ],
      "evidence": 10,
      "label": "Urinary tract infection (UTI)"
+    },
+    {
+     "condition": "oral-health",
+     "note": "A cranberry drink reduced gum inflammation and plaque vs control in people with gingivitis in a randomized trial",
+     "reference_ids": [
+      "REF-3831"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Oral & throat health"
     }
    ],
    "contraindications": [
@@ -62226,9 +62115,7 @@
     {
      "action": "venotonic",
      "note": "Supports capillary integrity and venous tone (traditional use for varicose veins / chronic venous insufficiency)",
-     "reference_ids": [
-      "REF-0409"
-     ],
+     "reference_ids": [],
      "status": "needs-review"
     }
    ],
@@ -62256,36 +62143,44 @@
       "REF-2572"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 5,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "eye-strain",
-     "note": "Traditional support for eye strain and vision (note: rigorous trials do NOT support improved night vision in healthy eyes)",
+     "note": "Bilberry extract eased eye fatigue from screen work and relaxed eye-focusing muscles vs placebo in randomized trials; a systematic review found it does not improve night vision",
      "reference_ids": [
-      "REF-0408"
+      "REF-3833",
+      "REF-3834"
      ],
      "status": "verified",
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-0408"
+     ],
+     "evidence": 6,
      "label": "Eye strain / eye health"
     },
     {
      "condition": "high-cholesterol",
-     "note": "Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)",
+     "note": "Reviews describe benefits on blood lipids, but a 2025 meta-analysis found bilberry lowered triglycerides and HbA1c, not cholesterol",
      "reference_ids": [
       "REF-0409",
       "REF-0594"
      ],
      "status": "verified",
-     "evidence": 6,
+     "null_result_ids": [
+      "REF-3836"
+     ],
+     "evidence": 2,
      "label": "High cholesterol"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Bilberries reduced low-grade inflammation in people with features of metabolic syndrome in a randomized trial (review of clinical studies)",
      "reference_ids": [
       "REF-0409",
-      "REF-2570"
+      "REF-2570",
+      "REF-3835"
      ],
      "status": "needs-review",
      "evidence": 5,
@@ -62524,7 +62419,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0025",
       "REF-0112"
      ],
      "status": "verified"
@@ -62532,7 +62426,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0025",
       "REF-0112"
      ],
      "status": "verified"
@@ -62541,8 +62434,8 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0025",
-      "REF-0112"
+      "REF-0112",
+      "REF-3845"
      ],
      "status": "verified"
     },
@@ -62558,92 +62451,81 @@
       "REF-1352",
       "REF-1354",
       "REF-1355",
-      "REF-1356"
+      "REF-1356",
+      "REF-3845"
      ],
      "status": "verified"
     }
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0112"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0025"
-     ],
-     "evidence": 1,
-     "label": "Arthritis / joint pain"
-    },
-    {
-     "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0112"
-     ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0025"
-     ],
-     "evidence": 1,
-     "label": "Inflammation (general)"
-    },
-    {
      "condition": "insomnia",
-     "note": "inferred from sedative action",
+     "note": "Valerian improved subjective sleep quality in some meta-analyses and trials, but a 2024 umbrella review concluded it lacks firm support for insomnia and several placebo-controlled trials found no benefit; traditional sleep remedy (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0025",
       "REF-0112",
       "REF-1348",
       "REF-1349",
       "REF-1350",
-      "REF-1351",
       "REF-1352",
-      "REF-1356"
+      "REF-3841",
+      "REF-3845"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-1356",
+      "REF-1351",
+      "REF-3839",
+      "REF-3840"
+     ],
      "evidence": 10,
      "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "menstrual-cramps",
      "reference_ids": [
-      "REF-0112"
+      "REF-0112",
+      "REF-3837",
+      "REF-3838"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0025"
-     ],
-     "evidence": 1,
+     "note": "Valerian reduced period pain vs placebo in a meta-analysis and a randomized trial; traditional antispasmodic",
+     "evidence": 8,
      "label": "Menstrual cramps"
     },
     {
-     "condition": "muscle-spasm",
-     "note": "inferred from antispasmodic action",
+     "condition": "hot-flashes",
+     "note": "Valerian reduced the severity and frequency of hot flashes vs placebo in a triple-blind randomized trial",
      "reference_ids": [
-      "REF-0112"
+      "REF-3842"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0025"
-     ],
-     "evidence": 1,
-     "label": "Muscle spasm"
+     "status": "verified",
+     "evidence": 5,
+     "label": "Hot flashes"
     },
     {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
+     "condition": "anxiety",
+     "note": "Valerian reduced anxiety in haemodialysis patients in a randomized crossover trial; a Cochrane review found too little evidence to judge it for anxiety disorders",
      "reference_ids": [
-      "REF-0112"
+      "REF-1352"
      ],
-     "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0025"
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3843",
+      "REF-1356"
      ],
-     "evidence": 1,
-     "label": "Skin irritation"
+     "evidence": 5,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "depression",
+     "note": "Valerian reduced depression scores in haemodialysis patients in a randomized crossover trial",
+     "reference_ids": [
+      "REF-1352"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low mood / depression"
     }
    ],
    "contraindications": [
@@ -62935,19 +62817,8 @@
    ],
    "indications": [
     {
-     "condition": "bronchitis",
-     "note": "Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa; saponins loosen mucus)",
-     "reference_ids": [
-      "REF-0441",
-      "REF-0442"
-     ],
-     "status": "verified",
-     "evidence": 1,
-     "label": "Bronchitis"
-    },
-    {
      "condition": "cold",
-     "note": "Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough",
+     "note": "Traditional use for sore throat with dry cough and a cold (EU herbal monograph); demulcent and mild expectorant for a cold with cough (ESCOP)",
      "reference_ids": [
       "REF-0441",
       "REF-0442"
@@ -62958,7 +62829,7 @@
     },
     {
      "condition": "cough",
-     "note": "Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough; Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa; saponins loosen mucus)",
+     "note": "Traditional use for sore throat with dry cough and a cold (EU herbal monograph); demulcent and mild expectorant for a cold with cough (ESCOP)",
      "reference_ids": [
       "REF-0441",
       "REF-0442"
@@ -62968,28 +62839,8 @@
      "label": "Cough"
     },
     {
-     "condition": "earache",
-     "note": "Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear drop containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis media (combination products, not mullein alone)",
-     "reference_ids": [
-      "REF-0442"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Earache"
-    },
-    {
-     "condition": "pain",
-     "note": "Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear drop containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis media (combination products, not mullein alone)",
-     "reference_ids": [
-      "REF-0442"
-     ],
-     "status": "needs-review",
-     "evidence": 1,
-     "label": "Pain (general)"
-    },
-    {
      "condition": "respiratory-support",
-     "note": "inferred from expectorant action",
+     "note": "Traditional demulcent and mild expectorant for a cold with cough and sore throat (EU herbal monograph; ESCOP)",
      "reference_ids": [
       "REF-0441",
       "REF-0442"
@@ -63001,18 +62852,18 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from demulcent action",
-     "reference_ids": [
-      "REF-0441",
-      "REF-0442",
-      "REF-1383"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 2,
+     "mechanistic_exclude_ids": [
+      "REF-0441",
+      "REF-0442"
+     ],
+     "evidence": 1,
      "label": "Skin irritation"
     },
     {
      "condition": "sore-throat",
-     "note": "Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough",
+     "note": "Traditional use for sore throat with dry cough and a cold (EU herbal monograph; ESCOP)",
      "reference_ids": [
       "REF-0441",
       "REF-0442"
@@ -63236,8 +63087,7 @@
       "REF-0186",
       "REF-1123",
       "REF-1124",
-      "REF-1130",
-      "REF-1131"
+      "REF-1130"
      ],
      "status": "verified"
     },
@@ -63253,49 +63103,42 @@
      "reference_ids": [
       "REF-0186",
       "REF-1123",
-      "REF-1124",
-      "REF-1125"
+      "REF-1124"
      ],
      "status": "verified"
     },
     {
      "action": "sedative",
-     "reference_ids": [
-      "REF-0186",
-      "REF-1123"
-     ],
-     "status": "verified"
+     "reference_ids": [],
+     "status": "needs-review"
     }
    ],
    "indications": [
     {
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0186",
-      "REF-1123"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1131"
+      "REF-0186"
      ],
-     "evidence": 2,
+     "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "bronchitis",
      "note": "inferred from expectorant action",
-     "reference_ids": [
-      "REF-0186",
-      "REF-1123"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
-     "evidence": 2,
+     "mechanistic_exclude_ids": [
+      "REF-0186"
+     ],
+     "evidence": 1,
      "label": "Bronchitis"
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Mullein extracts had anticancer activity in the lab (preclinical)",
      "reference_ids": [
       "REF-1126"
      ],
@@ -63305,10 +63148,12 @@
     },
     {
      "condition": "cough",
-     "note": "inferred from expectorant action",
+     "note": "Traditional use for sore throat with dry cough and a cold (EU herbal monograph); traditional cough remedy (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0186",
-      "REF-1123"
+      "REF-1123",
+      "REF-0441",
+      "REF-3846"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -63316,49 +63161,50 @@
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Reviewed for anti-inflammatory activity (review; preclinical)",
      "reference_ids": [
-      "REF-0186",
       "REF-1123"
      ],
      "status": "needs-review",
+     "mechanistic_exclude_ids": [
+      "REF-0186"
+     ],
      "evidence": 2,
      "label": "Inflammation (general)"
-    },
-    {
-     "condition": "insomnia",
-     "note": "inferred from sedative action",
-     "reference_ids": [
-      "REF-0186",
-      "REF-1123"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Insomnia / sleeplessness"
     },
     {
      "condition": "respiratory-support",
      "reference_ids": [
       "REF-0186",
-      "REF-1123"
+      "REF-1123",
+      "REF-0441",
+      "REF-3846"
      ],
      "status": "verified",
+     "note": "Traditional remedy for coughs, colds and chest complaints (EU herbal monograph; Grieve, A Modern Herbal)",
      "evidence": 2,
      "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0186",
-      "REF-1123"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
+      "REF-0186"
+     ],
+     "evidence": 1,
+     "label": "Skin irritation"
+    },
+    {
+     "condition": "wounds",
+     "note": "A mullein cream improved episiotomy wound healing vs placebo by day 10 in a randomized trial",
+     "reference_ids": [
       "REF-1131"
      ],
-     "evidence": 2,
-     "label": "Skin irritation"
+     "status": "verified",
+     "evidence": 5,
+     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -63608,9 +63454,8 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude extract showed anxiolytic, sedative and anticonvulsant activity in animal models",
+     "note": "A vervain extract had anxiolytic, sedative and anticonvulsant effects in mice (preclinical)",
      "reference_ids": [
-      "REF-0523",
       "REF-0616"
      ],
      "status": "verified",
@@ -63619,9 +63464,9 @@
     },
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Traditionally applied as a poultice for rheumatism (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0523"
+      "REF-3847"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -63633,9 +63478,7 @@
     {
      "condition": "back-pain",
      "note": "inferred from analgesic action",
-     "reference_ids": [
-      "REF-0523"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Back pain"
@@ -63643,18 +63486,15 @@
     {
      "condition": "bloating",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0523"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
     },
     {
      "condition": "depression",
-     "note": "inferred from antidepressant action",
+     "note": "Vervain extract had an antidepressant effect in rats (preclinical)",
      "reference_ids": [
-      "REF-0523",
       "REF-1358"
      ],
      "status": "needs-review",
@@ -63663,9 +63503,9 @@
     },
     {
      "condition": "headache",
-     "note": "inferred from analgesic action",
+     "note": "Traditionally applied as a poultice for headache (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0523"
+      "REF-3847"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -63674,16 +63514,14 @@
     {
      "condition": "indigestion",
      "note": "inferred from digestive action",
-     "reference_ids": [
-      "REF-0523"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Indigestion"
     },
     {
      "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Vervain compounds reduced inflammation in lab and animal studies (review; preclinical)",
      "reference_ids": [
       "REF-0523",
       "REF-1362"
@@ -63694,9 +63532,8 @@
     },
     {
      "condition": "insomnia",
-     "note": "inferred from sedative action",
+     "note": "A vervain extract shortened time to sleep and lengthened sleep in mice (preclinical)",
      "reference_ids": [
-      "REF-0523",
       "REF-0616"
      ],
      "status": "needs-review",
@@ -63708,9 +63545,8 @@
     },
     {
      "condition": "nervous-tension",
-     "note": "Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude extract showed anxiolytic, sedative and anticonvulsant activity in animal models",
+     "note": "A vervain extract had anxiolytic and sedative effects in mice (preclinical)",
      "reference_ids": [
-      "REF-0523",
       "REF-0616"
      ],
      "status": "verified",
@@ -63730,9 +63566,7 @@
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0523"
-     ],
+     "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1363"
@@ -63742,10 +63576,8 @@
     },
     {
      "condition": "stress",
-     "note": "Digestive bitter and relief of mild mental stress",
-     "reference_ids": [
-      "REF-0523"
-     ],
+     "note": "inferred from anxiolytic action",
+     "reference_ids": [],
      "status": "needs-review",
      "evidence": 1,
      "label": "Stress"

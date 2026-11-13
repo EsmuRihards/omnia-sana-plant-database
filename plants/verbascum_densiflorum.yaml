@@ -129,56 +129,36 @@ actions:
   - REF-0442
   status: verified
 indications:
-- condition: bronchitis
-  note: Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa;
-    saponins loosen mucus)
-  reference_ids:
-  - REF-0441
-  - REF-0442
-  status: verified
 - condition: cold
-  note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
+  note: Traditional use for sore throat with dry cough and a cold (EU herbal monograph); demulcent and
+    mild expectorant for a cold with cough (ESCOP)
   reference_ids:
   - REF-0441
   - REF-0442
   status: verified
 - condition: cough
-  note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough;
-    Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa; saponins
-    loosen mucus)
+  note: Traditional use for sore throat with dry cough and a cold (EU herbal monograph); demulcent and
+    mild expectorant for a cold with cough (ESCOP)
   reference_ids:
   - REF-0441
   - REF-0442
   status: verified
-- condition: earache
-  note: Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear drop
-    containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis media
-    (combination products, not mullein alone)
-  reference_ids:
-  - REF-0442
-  status: needs-review
-- condition: pain
-  note: Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear drop
-    containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis media
-    (combination products, not mullein alone)
-  reference_ids:
-  - REF-0442
-  status: needs-review
 - condition: respiratory-support
-  note: inferred from expectorant action
+  note: Traditional demulcent and mild expectorant for a cold with cough and sore throat (EU herbal monograph;
+    ESCOP)
   reference_ids:
   - REF-0441
   - REF-0442
   status: needs-review
 - condition: skin-irritation
   note: inferred from demulcent action
-  reference_ids:
+  reference_ids: []
+  status: needs-review
+  mechanistic_exclude_ids:
   - REF-0441
   - REF-0442
-  - REF-1383
-  status: needs-review
 - condition: sore-throat
-  note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
+  note: Traditional use for sore throat with dry cough and a cold (EU herbal monograph; ESCOP)
   reference_ids:
   - REF-0441
   - REF-0442
@@ -255,4 +235,8 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
   policy. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for flower (provisional:
   PFAF REF-3364, gathered when in flower, dried quickly). SAFETY: fatal Digitalis purpurea rosette
-  confusion. Binomial confirmed.'
+  confusion. Binomial confirmed.
+  | 2026-11-13: symptom-source audit deep audit batch 18 - Deep audit. EU monograph REF-0441 (page
+  read 2026-11-13: sore throat with dry cough and cold) and ESCOP REF-0442 (cold with cough, sore
+  throat) name neither bronchitis nor earache: bronchitis, earache and pain dropped (the ear-drop
+  RCTs were combination products). Wound-healing study REF-1383 removed from skin-irritation.'

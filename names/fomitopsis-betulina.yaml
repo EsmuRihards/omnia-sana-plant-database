@@ -1,0 +1,228 @@
+id: fomitopsis-betulina
+scientific_name: Fomitopsis betulina
+names:
+  bg:
+  - name: Брезова пореста гъба
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Brezina guba
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: březovník obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q96894257
+    - wikipedia:cs
+  da:
+  - name: Birkeporesvamp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Berkenzwam
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:nl
+  - name: Berkezwam
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q96894257
+  en:
+  - name: Birch polypore
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q96894257
+  - name: Brown Cubical Rot of Birch
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+  et:
+  - name: Kasekäsn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  - name: kasekäsnak
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: pökkelökääpä
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q96894257
+    - wikipedia:fi
+  fr:
+  - name: Polypore du bouleau
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fr
+  de:
+  - name: Birkenporling
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  hu:
+  - name: Nyírfatapló
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: Nyírfa-tapló
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Brūnā bērzupiepe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Beržinis pintenis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Pniarek brzozowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Białoporek brzozowy
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: brezovník obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: Brezova kresilača
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sl
+  - name: brezova odpadljivka
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q96894257
+  es:
+  - name: Yesquero del abedul
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: björkticka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikipedia:sv
+  ru:
+  - name: Трутовик берёзовый
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Губка березова
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q96894257
+  - name: Трутовик березовий
+    sources:
+    - col:catalogue-of-life
+  - name: Фомітопсис березовий
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: Knivkjuke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:no
+  sr:
+  - name: Брезова губа
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  - name: Brezova guba
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Birkibarði
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Bolet d'esca de bedoll
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Бярозавая губка
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Huş mantarı
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-11-16'
+last_verified: '2026-11-16'

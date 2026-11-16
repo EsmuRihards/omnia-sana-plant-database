@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/names@1",
- "count": 186,
+ "count": 187,
  "languages": [
   {
    "code": "bg",
@@ -278,36 +278,36 @@
  "coverage": {
   "bg": 64,
   "hr": 67,
-  "cs": 159,
-  "da": 142,
-  "nl": 151,
-  "en": 183,
-  "et": 125,
-  "fi": 167,
-  "fr": 168,
-  "de": 167,
+  "cs": 160,
+  "da": 143,
+  "nl": 152,
+  "en": 184,
+  "et": 126,
+  "fi": 168,
+  "fr": 169,
+  "de": 168,
   "el": 58,
-  "hu": 121,
+  "hu": 122,
   "ga": 40,
   "it": 133,
-  "lv": 78,
-  "lt": 121,
+  "lv": 79,
+  "lt": 122,
   "mt": 5,
-  "pl": 148,
+  "pl": 149,
   "pt": 120,
   "ro": 70,
-  "sk": 137,
-  "sl": 122,
-  "es": 131,
-  "sv": 172,
-  "ru": 146,
-  "uk": 115,
-  "no": 147,
-  "sr": 63,
+  "sk": 138,
+  "sl": 123,
+  "es": 132,
+  "sv": 173,
+  "ru": 147,
+  "uk": 116,
+  "no": 148,
+  "sr": 64,
   "bs": 17,
   "sq": 18,
   "is": 36,
-  "ca": 96,
+  "ca": 97,
   "be": 75,
   "tr": 102
  },
@@ -25626,6 +25626,298 @@
       "sources": [
        "wikidata:Q43511",
        "wikipedia:ca"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "fomitopsis-betulina",
+   "scientific_name": "Fomitopsis betulina",
+   "common_slug": "birch-polypore",
+   "family": "Fomitopsidaceae",
+   "wp_post_id": null,
+   "english": "Birch polypore",
+   "external_ids": {
+    "gbif": 9819973,
+    "wikidata": "Q96894257"
+   },
+   "names": {
+    "cs": [
+     {
+      "name": "březovník obecný",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q96894257",
+       "wikipedia:cs"
+      ]
+     }
+    ],
+    "da": [
+     {
+      "name": "Birkeporesvamp",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:national-checklist-of-all-species-occurr"
+      ]
+     }
+    ],
+    "nl": [
+     {
+      "name": "Berkenzwam",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:nl"
+      ]
+     },
+     {
+      "name": "Berkezwam",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q96894257"
+      ]
+     }
+    ],
+    "en": [
+     {
+      "name": "Birch polypore",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:checklist-of-vermont-fungi",
+       "gbif:checklist-of-vermont-species",
+       "gbif:martha-s-vineyard-species-checklist",
+       "wikidata:Q96894257"
+      ]
+     },
+     {
+      "name": "Brown Cubical Rot of Birch",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:checklist-of-vermont-species"
+      ]
+     }
+    ],
+    "et": [
+     {
+      "name": "Kasekäsn",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:et"
+      ]
+     },
+     {
+      "name": "kasekäsnak",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "fi": [
+     {
+      "name": "pökkelökääpä",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q96894257",
+       "wikipedia:fi"
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "name": "Polypore du bouleau",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:fr"
+      ]
+     }
+    ],
+    "de": [
+     {
+      "name": "Birkenporling",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:de"
+      ]
+     }
+    ],
+    "hu": [
+     {
+      "name": "Nyírfatapló",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:hu"
+      ]
+     },
+     {
+      "name": "Nyírfa-tapló",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "lv": [
+     {
+      "name": "Brūnā bērzupiepe",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "lt": [
+     {
+      "name": "Beržinis pintenis",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:lt"
+      ]
+     }
+    ],
+    "pl": [
+     {
+      "name": "Pniarek brzozowy",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:pl"
+      ]
+     },
+     {
+      "name": "Białoporek brzozowy",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "sk": [
+     {
+      "name": "brezovník obyčajný",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "sl": [
+     {
+      "name": "Brezova kresilača",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:sl"
+      ]
+     },
+     {
+      "name": "brezova odpadljivka",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q96894257"
+      ]
+     }
+    ],
+    "es": [
+     {
+      "name": "Yesquero del abedul",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "sv": [
+     {
+      "name": "björkticka",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:dyntaxa-svensk-taxonomisk-databas",
+       "wikipedia:sv"
+      ]
+     }
+    ],
+    "ru": [
+     {
+      "name": "Трутовик берёзовый",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:ru"
+      ]
+     }
+    ],
+    "uk": [
+     {
+      "name": "Губка березова",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q96894257"
+      ]
+     },
+     {
+      "name": "Трутовик березовий",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Фомітопсис березовий",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "no": [
+     {
+      "name": "Knivkjuke",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:no"
+      ]
+     }
+    ],
+    "sr": [
+     {
+      "name": "Брезова губа",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:sr"
+      ]
+     },
+     {
+      "name": "Brezova guba",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "ca": [
+     {
+      "name": "Bolet d'esca de bedoll",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ]

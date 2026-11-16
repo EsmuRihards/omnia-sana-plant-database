@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
  "count": 73,
- "plants_covered": 188,
+ "plants_covered": 189,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -1198,6 +1198,23 @@
    "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "fomitopsis-betulina",
+   "plant": "Birch polypore",
+   "scientific": "Fomitopsis betulina",
+   "common_slug": "birch-polypore",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "review_reference_ids": [
+    "REF-3943",
+    "REF-3942",
+    "REF-3944",
+    "REF-3945"
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-11-16"
   },
   {
    "plant_id": "bistorta-officinalis",

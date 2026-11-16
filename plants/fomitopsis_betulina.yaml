@@ -1,0 +1,384 @@
+id: fomitopsis-betulina
+scientific_name: Fomitopsis betulina
+common_names:
+- Birch polypore
+- Birch bracket
+- Razor strop
+common_slug: birch-polypore
+family: Fomitopsidaceae
+synonyms:
+- Piptoporus betulinus
+- Polyporus betulinus
+- Boletus betulinus
+- Fomes betulinus
+- Ungulina betulina
+external_ids:
+  gbif: 9819973
+  wikidata: Q96894257
+parts_used:
+- Fruiting body
+botanical_description:
+  text: Annual bracket fungus (not a plant) that grows only on birch. Fruiting bodies emerge as white,
+    rounded lumps breaking through the bark, then expand into smooth, hoof- or kidney-shaped brackets
+    attached to the trunk without a stem, white at first and later grey-brown on top. The underside is
+    a layer of very fine white pores that turn buff to brownish with age, and the flesh is white, thick
+    and corky. The fungus decays the wood to a red-brown, crumbly brown rot.
+  height: Bracket about 10-20 cm across
+  habit: Annual bracket (polypore) fungus on birch; mainly on dead trees, occasionally parasitic on living
+    ones
+  leaves: Not applicable (fungus)
+  flowers: Not applicable (fungus); reproduces by spores
+  stem: No stem; the bracket is attached directly to the trunk (sessile)
+  root: Mycelium grows through the birch wood, causing brown rot
+  fruit: Spores are shed from fine white pores on the underside; basidiospores smooth, colourless and
+    cylindrical
+  flowering_period: Annual fruiting bodies; old, tough brackets often remain on the tree into the following
+    year
+  reference_ids:
+  - REF-3881
+  - REF-3946
+  - REF-3944
+  - REF-3943
+  - REF-3897
+  status: verified
+habitat:
+  text: Grows only on birch (Betula species such as silver, downy and paper birch), mainly as a saprotroph
+    on dead trees and occasionally as a parasite of living ones, in northern temperate forests and parks
+    of Europe, Asia and North America. It is one of the commonest brown-rot fungi and reduces the heartwood
+    to a red-brown, crumbly mass.
+  reference_ids:
+  - REF-3881
+  - REF-3897
+  status: verified
+harvesting:
+  text: 'The fruiting body is the part used. Folk practice favours young, fresh brackets: in Serbia it
+    was eaten only while still young, and dried, ground fruiting bodies were used for tea, while fresh
+    pieces were laid on wounds. Fruiting bodies take up arsenic from polluted ground (about ten times
+    more near a former mine than at a clean site), so gather away from mines and contaminated land. In
+    South Tyrol the species is listed as vulnerable or near threatened on the regional Red List.'
+  parts:
+  - Fruiting body
+  reference_ids:
+  - REF-3889
+  - REF-3881
+  - REF-3940
+  - REF-3895
+  status: verified
+harvest_readiness:
+- part: fruiting-body
+  signals:
+  - 'Gather the fruiting body young: still white or off-white and rounded, freshly breaking through the
+    birch bark, with white pores and firm white flesh. Pass over brackets that have turned grey-brown,
+    tough or corky with buff pores; old brackets persist on the tree into the next year and are past their
+    prime.'
+  basis: traditional
+  source_quote: Mushroom should be eaten while still young
+  reference_ids:
+  - REF-3889
+  - REF-3945
+  - REF-3942
+  - REF-3946
+  - REF-3919
+  independent_confirmation: 'Practical Self Reliance (independent, web): "Young birch polypores can be
+    a bit more round as they''re just bursting through the tree bark", contrasting small specimens "already
+    well past prime". Foraging Course Company and MushroomExpert agree on the stage sequence (white sphere
+    bursting through the bark; pores later buff and tougher; old brackets found the next year). Agrees.'
+  species_confirmed: true
+  status: verified
+  notes: 'Primary quote is the food-use column of the Fomitopsis betulina row in the Serbian ethnomycological
+    survey (one use report). No constituent-based timing: Sari et al. 2020 found no significant difference
+    in beta-glucan content by fruiting-body size or growing stage. No months or regions given on purpose.'
+traditional_uses:
+  text: Ötzi the Iceman, who lived about 5,300 years ago, carried two pieces of birch polypore; he had
+    a whipworm infection, and a medicinal (anthelmintic) purpose has been proposed, though this remains
+    disputed. In European folk medicine an infusion of the fruiting body was popular in Russia, the Baltic
+    countries, Hungary and Romania for its nutritional and calming properties, and the tea was used against
+    cancers, stomach and gastrointestinal complaints and parasites, to enhance immunity and to relieve
+    fatigue. Fresh pieces were applied to wounds as antiseptic, bleeding-stopping dressings, and the dried
+    powder or its ash was used as a painkiller or snuff. In Serbia it was recorded as a preventative taken
+    as a tea or as a tincture in brandy or vodka. The Sami drank a hot infusion of it (common before coffee
+    arrived in the 1860s and revived during the Second World War), burned small pieces on the skin for
+    toothache, headache, rheumatism, fractures and pneumonia, and made balls from it for games. It was
+    also used as tinder and by barbers as a razor strop.
+  reference_ids:
+  - REF-3881
+  - REF-3885
+  - REF-3892
+  - REF-3913
+  - REF-3883
+  - REF-3888
+  - REF-3886
+  - REF-3889
+  - REF-3890
+  - REF-3891
+  - REF-3894
+  - REF-3893
+  - REF-3942
+  status: verified
+preparations:
+- name: Decoction (tea)
+  text: Dried, ground fruiting body boiled in water and drunk as a tea; infusions of the fruiting body
+    were traditional in Russia, the Baltic countries, Hungary and Romania, and among the Sami.
+  reference_ids:
+  - REF-3889
+  - REF-3881
+  - REF-3891
+  status: verified
+- name: Tincture (folk record)
+  text: 'Serbian folk record: 100 g of the mushroom soaked in 1 L of brandy or vodka for 21 days with
+    daily shaking, then decanted; the mushroom is then boiled in 3 L of water for 3 hours and the cooled
+    tea mixed with the tincture.'
+  reference_ids:
+  - REF-3889
+  status: verified
+- name: Fresh dressing (traditional)
+  text: Fresh fruiting body applied to wounds as an antiseptic, bleeding-stopping dressing.
+  reference_ids:
+  - REF-3881
+  status: verified
+- name: Powder or ash (traditional)
+  text: Dried fruiting body powdered, or burned to ash, and used as a painkiller or snuff.
+  reference_ids:
+  - REF-3881
+  - REF-3888
+  status: verified
+dosage:
+- name: Decoction (tea)
+  text: 'Serbian folk record from a single informant: one spoon of the dried, ground mushroom cooked in
+    1 L of water for 30 minutes, taken as a preventative. A recorded folk practice, not a tested dose;
+    no human trial has studied birch polypore. Educational reference only.'
+  reference_ids:
+  - REF-3889
+  - REF-3882
+  status: verified
+- name: Tincture and tea mixture (folk record)
+  text: 'Same Serbian record: the tincture-and-tea mixture was drunk 1 to 3 times a day in small cups.
+    Folk practice only, not a tested dose. Educational reference only.'
+  reference_ids:
+  - REF-3889
+  status: verified
+constituents:
+- name: Lanostane triterpene acids (polyporenic acids, piptolinic acids, fomitosides)
+  compounds:
+  - terpene
+  note: 'The main studied secondary metabolites: polyporenic acids A and C and their derivatives, polyporenic
+    acids E-M, piptolinic acids A-J, fomitosides L-O, pachymic and dehydrotumulosic acids, and fomefficinic
+    acid, isolated from the fruiting bodies.'
+  reference_ids:
+  - REF-3910
+  - REF-3916
+  - REF-3917
+  - REF-3920
+  - REF-3901
+  - REF-3934
+  - REF-3928
+- name: Betulin, betulinic acid and lupeol
+  compounds:
+  - terpene
+  note: Lupane triterpenes found in the fruiting bodies and in cultured mycelium; betulin was identified
+    as one active compound of an ethanolic extract.
+  reference_ids:
+  - REF-3912
+  - REF-3901
+  - REF-3921
+  - REF-3881
+- name: Fungal sterols (ergosterol, ergosterol peroxide)
+  note: Ergosterol, ergosterol peroxide and 9,11-dehydroergosterol peroxide.
+  reference_ids:
+  - REF-3912
+  - REF-3901
+- name: Polysaccharides (alpha- and beta-glucans)
+  compounds:
+  - polysaccharide
+  note: A (1-3)-alpha-glucan (piptoporane I and related glucans) makes up to 44-53% of the cell-wall dry
+    weight; the fruiting bodies also contain branched (1-3),(1-6)-beta-glucans, with high beta-glucan
+    content at all growing stages (74 mg/g in one ethanol extract).
+  reference_ids:
+  - REF-3929
+  - REF-3930
+  - REF-3931
+  - REF-3932
+  - REF-3919
+  - REF-3909
+  - REF-3881
+- name: Piptamine
+  note: An antibiotic amine (N-benzyl-N-methylpentadecan-1-amine) produced by the fungus in culture, active
+    against Gram-positive bacteria (MIC 0.78-12.5 ug/ml) and yeasts including Candida albicans (MIC 6.25
+    ug/ml).
+  reference_ids:
+  - REF-3935
+  - REF-3881
+- name: Phenolic acids and polyamines
+  compounds:
+  - phenolic-acid
+  - gallic-acid
+  note: Gallic, quinic, syringic and p-hydroxybenzoic acids; the polyamines spermidine (60 mg/kg dry weight)
+    and spermine (42 mg/kg).
+  reference_ids:
+  - REF-3924
+  - REF-3912
+  - REF-3926
+- name: Hydroquinone matrix-metalloproteinase inhibitor
+  note: (E)-2-(4-hydroxy-3-methyl-2-butenyl)-hydroquinone, isolated with polyporenic acid C as an MMP
+    inhibitor.
+  reference_ids:
+  - REF-3928
+- name: Volatile terpenes and aroma compounds
+  compounds:
+  - terpene
+  note: Mono- and sesquiterpenes, aliphatic alcohols, aldehydes and ketones in the distilled volatile
+    fraction.
+  reference_ids:
+  - REF-3933
+  - REF-3881
+- name: Antioxidant vitamins and minerals
+  compounds:
+  - carotenoid
+  note: Ascorbic acid, tocopherols, beta-carotene and lycopene; fruiting bodies are rich in calcium, iron,
+    magnesium and zinc.
+  reference_ids:
+  - REF-3927
+  - REF-3881
+  - REF-3936
+actions:
+- action: antimicrobial
+  reference_ids:
+  - REF-3898
+  - REF-3899
+  - REF-3900
+  - REF-3901
+  - REF-3935
+  - REF-3902
+  - REF-3903
+  - REF-3904
+  status: verified
+- action: antifungal
+  reference_ids:
+  - REF-3899
+  - REF-3881
+  status: verified
+- action: antiviral
+  reference_ids:
+  - REF-3905
+  - REF-3881
+  status: needs-review
+- action: immunomodulator
+  reference_ids:
+  - REF-3908
+  - REF-3909
+  - REF-3906
+  - REF-3907
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-3910
+  - REF-3911
+  - REF-3912
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-3900
+  - REF-3924
+  - REF-3903
+  - REF-3925
+  - REF-3926
+  status: verified
+- action: anticancer
+  reference_ids:
+  - REF-3882
+  - REF-3913
+  - REF-3914
+  - REF-3915
+  - REF-3916
+  - REF-3917
+  - REF-3912
+  - REF-3918
+  - REF-3919
+  - REF-3920
+  - REF-3921
+  - REF-3922
+  - REF-3900
+  - REF-3923
+  status: needs-review
+- action: neuroprotective
+  reference_ids:
+  - REF-3924
+  - REF-3881
+  status: needs-review
+contraindications:
+- note: No human studies. As of the 2024 systematic review there are no clinical studies confirming the
+    efficacy or safety of birch polypore in humans; every activity listed here comes from cell, test-tube
+    or animal work. In rats, oral extracts given for 14 days did not change blood pressure or heart rate.
+  severity: info
+  reference_ids:
+  - REF-3882
+  - REF-3886
+  - REF-3939
+  status: verified
+- note: 'Pregnancy: safety is unknown, and a 1968 Polish case report named birch polypore (as Polyporus
+    betulinus) as a probable cause of a congenital malformation in a fetus.'
+  severity: caution
+  reference_ids:
+  - REF-3941
+  - REF-3882
+  status: verified
+- note: 'Wild collection: fruiting bodies take up arsenic from contaminated ground (about ten times more
+    near a former mine than at a clean site, up to 1.6 mg/kg). Do not gather near mines or polluted land.'
+  severity: caution
+  reference_ids:
+  - REF-3940
+  status: verified
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-16'
+  reference_ids:
+  - REF-3943
+  - REF-3942
+  - REF-3944
+  - REF-3945
+references:
+- REF-3884
+- REF-3887
+- REF-3896
+- REF-3938
+- REF-3937
+- REF-3939
+provenance: pubmed+europepmc+openalex+web
+status: verified
+last_updated: '2026-11-16'
+internal_notes: '2026-11-16: record created (Model: anthropic/claude-opus-5-5). Accepted name Fomitopsis
+  betulina (Bull.) B.K.Cui, M.L.Han & Y.C.Dai 2016 (GBIF 9819973 ACCEPTED; Wikidata Q96894257, the item
+  with the sitelinks and common names; Q865591 is the older Piptoporus item). Spirin et al. 2024 keep
+  Fomitopsis and sink Piptoporus into it. Public name "Birch polypore"; "brown birch polypore" is not
+  attested in any source and was not used; "birch conk" avoided (chaga uses it). | SEARCH: PubMed all
+  name variants (83 records, all abstracts read); Europe PMC incl. full text, patents, preprints, Agricola
+  (302 records; every hit for patients/randomised/clinical trial/case report was a passing mention in
+  a review, the one "case report" hit is a conference abstract on antioxidant chemistry); OpenAlex title/abstract
+  (400 records) plus Chinese, Russian, Polish and German names (no relevant hits); ClinicalTrials.gov
+  (no trial of this species; the two Fomitopsis RCTs, NCT04667247 and NCT04951336, used F. officinalis
+  with Trametes versicolor); Crossref; PMC/Europe PMC full text of about 30 papers; 7 web pages. NOT searched:
+  CNKI, eLibrary.ru, WHO ICTRP, EU CTR, Google Scholar. | HUMAN EVIDENCE: none. The 2024 PRISMA review
+  (Nowotarska) states there are no clinical studies of efficacy or safety in humans. | NO INDICATIONS
+  by owner decision 2026-11-16: symptom pairs need human evidence (a human trial or a review of human
+  studies), one rule for all plants. The lab-only PRISMA review would otherwise have scored a cancer pair
+  7/10. All lab findings are recorded as actions. | REJECTED (wrong species): Piptoporus soloniensis (PMIDs
+  16233291, 21888369, 40997269), P. quercinus / Buglossoporus (15119356), Lenzites betulina (betulinans;
+  not this species), F. pinicola and F. officinalis papers. | NOT USED: Li 2024 abstract claims anti-malarial
+  effects but the body has no data; Herbal Reality page not read. Wound healing: de Jesus 2018 (isolated
+  beta-glucan, Caco-2 scratch assay positive) conflicts with Wende 2010 (Planta Medica conference abstract;
+  crude extracts not significant in HaCaT scratch assay), so no vulnerary action. ACE inhibition in vitro
+  (Vunduk 2015; Western Balkans 2024) but oral extracts did not change blood pressure in rats (Fajemiroye
+  2017), so no antihypertensive action. Serbian survey notes Shamtsyan 2004 found no strong immunomodulating
+  effect in vitro (not retrieved). | DEAD ENDS (paywalled, abstract not retrievable, so not cited): Papp
+  et al. 2017 Transylvania ethnomycology (Genet Resour Crop Evol 64:101-111), Peintner, Poder & Pumpel
+  1998 The iceman''s fungi (Mycol Res 102:1153-1162), Han et al. 2016 Fungal Diversity 80:343-373, Capasso
+  1998 Lancet letter. Not used: Efimenko 1960/1961 and Kandefer-Szerszen 1974 (titles only, no further
+  data); Uzbekistan 2023 and Mazovia 2019 surveys repeat literature claims rather than recording local
+  use. | DOSAGE: the only dose is a Serbian folk record from one informant; no EMA, WHO, ESCOP or Commission
+  E monograph exists for this fungus, so no tincture practice record was built (the calculator degrades
+  to general defaults). | Lookalikes: none-known, owner-authorized 2026-11-16; confusables named in sources
+  (Fomes fomentarius, blushing bracket) are not toxic. | Build script and source map: docs/additions/2026-11-16-fomitopsis-betulina/.
+  | audit_species.py flagged REF-3926 and REF-3927 (abstracts name only F. pinicola). Full texts read (PMC10819588,
+  PMC6264674): both report F. betulina / P. betulinus results, so not wrong-species. REF-3927 (Reis 2011) kept on
+  the vitamins constituent only, not on the antioxidant action, because its abstract never names this species.'

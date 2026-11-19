@@ -8593,26 +8593,26 @@
     "Whole plant"
    ],
    "botanical_description": {
-    "text": "Low, creeping, succulent perennial herb that roots at the nodes as it spreads across wet ground. The leaves are small, fleshy, spatula-shaped and arranged oppositely along the trailing stems. Small, pale lavender to white, four- to five-petalled flowers are borne singly in the leaf axils.",
-    "height": "5-15 cm (trailing/creeping)",
-    "habit": "Low, creeping, succulent perennial herb",
-    "leaves": "Small, fleshy, spatula-shaped, opposite",
-    "flowers": "Small, pale lavender to white, four- to five-petalled, borne singly in leaf axils",
-    "stem": "Trailing, succulent, rooting at the nodes",
-    "root": "Fine roots at each node along the creeping stem",
-    "fruit": "Small ovoid capsule",
-    "flowering_period": "Year-round in warm, wet climates",
+    "text": "A much-branched, creeping, non-aromatic perennial herb whose stems, 5-40 cm long, root at the nodes. The leaves are succulent, oblong to oblanceolate, about 4-6 mm thick and arranged in opposite pairs. The flowers are small, symmetrical and white, with four or five petals. It flowers and fruits through most of the year.",
+    "height": "About 5 cm; creeping stems 5-40 cm long",
+    "habit": "Much-branched, creeping perennial herb",
+    "leaves": "Succulent, oblong to oblanceolate, opposite",
+    "flowers": "Small, symmetrical, white, with four or five petals",
+    "stem": "Creeping, rooting at the nodes",
+    "flowering_period": "Through most of the year",
     "reference_ids": [
-     "REF-2107"
+     "REF-3971",
+     "REF-3972"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Grows in wet, marshy ground, muddy shorelines, rice paddies and shallow water throughout tropical and subtropical regions of Asia, and also found in parts of Africa, Australia and the Americas.",
+    "text": "Probably originating in tropical Asia, it is found through most of the tropics and subtropics: marshy areas of India, Nepal, Sri Lanka, China, Pakistan, Taiwan and Vietnam, tropical and southern Africa, Madagascar, Australia, the Caribbean and Central and South America, and Florida, Louisiana, Texas and Hawaii. It grows on estuarine mud flats and in moist and wet places such as the borders of water channels, wells and irrigated fields, tolerating slightly brackish water.",
     "reference_ids": [
-     "REF-2107"
+     "REF-3971",
+     "REF-3972"
     ],
-    "status": "draft"
+    "status": "verified"
    },
    "harvesting": {
     "text": "The whole plant (leaf and trailing stem) is harvested during active growth, typically cut a few centimetres above the mud or water line, and dried or used fresh.",
@@ -8657,17 +8657,19 @@
     }
    ],
    "traditional_uses": {
-    "text": "Bacopa (brahmi) is a classic Ayurvedic 'medhya rasayana' (brain-nourishing) herb, traditionally used to support memory, learning and mental clarity, and as a calming nervine for anxiety and disturbed sleep. This traditional cognitive reputation is now supported by randomised controlled trials of standardised extracts.",
+    "text": "Bacopa (brahmi) is an important Ayurvedic herb, used for centuries, alone or with other herbs, to enhance memory and learning, as a sedative and as an anti-epileptic, and valued for its effect on the nervous system: it was used for neuralgia, hysteria, epilepsy, insanity and nervous exhaustion, and also for hoarseness, indigestion, ulcers, wind, constipation, asthma, bronchitis and infertility. A poultice of the boiled plant was applied to children's chests for bronchitis and coughs, and the juice was used as a wash on burns. A meta-analysis of randomised trials of standardised extracts found improvements in speed of attention.",
     "reference_ids": [
-     "REF-2107",
-     "REF-0740"
+     "REF-0742",
+     "REF-3971",
+     "REF-2113",
+     "REF-2107"
     ],
     "status": "verified"
    },
    "preparations": [
     {
      "name": "Standardised extract",
-     "text": "Extract standardised to bacoside content, taken as capsules or tablets; the form used in most clinical trials for cognitive support.",
+     "text": "A standardised extract of the plant, taken by mouth, is the form tested in the randomised trials of cognition pooled in a meta-analysis (nine trials, at least 12 weeks each); one trial used a whole-plant standardised dry extract as tablets.",
      "reference_ids": [
       "REF-2107",
       "REF-0740"
@@ -8677,13 +8679,13 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials for cognitive support commonly use extracts providing around 300 mg dried extract daily, taken for at least several weeks, since benefits accrue gradually. Educational reference only, not a prescription.",
+     "name": "Standardised extract (trials)",
+     "text": "A randomised trial in healthy adults over 65 used 300 mg a day of a standardised whole-plant extract for 12 weeks; the meta-analysis included only trials lasting at least 12 weeks. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-2107",
-      "REF-0740"
+      "REF-0740",
+      "REF-2107"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -8693,10 +8695,11 @@
       "saponin",
       "triterpene-saponin"
      ],
-     "note": "Principal bioactive saponins linked to the plant's neuroprotective and cognition-enhancing effects.",
+     "note": "Saponins including bacosides A and B, bacopasides I and II and bacopasaponin C are named in reviews as among the plant's main active constituents, linked to its effects on the nervous system.",
      "reference_ids": [
-      "REF-2107",
-      "REF-0740"
+      "REF-2108",
+      "REF-2113",
+      "REF-3971"
      ]
     },
     {
@@ -10316,36 +10319,41 @@
     "Petals"
    ],
    "botanical_description": {
-    "text": "Aromatic annual or short-lived perennial herb with soft, hairy, oblong leaves and branching, slightly sticky stems. The flower heads are bright orange to yellow, daisy-like, with numerous narrow ray florets surrounding a darker central disc, opening in sunlight and closing at dusk.",
+    "text": "A very aromatic annual herb, much branched from the base and 30-60 cm tall, with angular, hairy, solid stems. The leaves are stalkless and light green, with glandular hairs on both surfaces; the lower leaves are spoon-shaped and 10-20 cm long, the upper ones oblong and 4-7 cm long. The flower heads sit in bracts covered with long glandular hairs; the strap-shaped ray florets are bright yellow or orange and 15-25 mm long, and in cultivated plants often form several rows. The flowers close in the dark and when rain is expected. The fruits are narrowly oblong, strongly curved achenes 10-12 mm long, the outer ones warty-ribbed and the inner ones prickly-warty.",
     "height": "30-60 cm",
-    "habit": "Erect, branching annual or short-lived perennial herb",
-    "leaves": "Soft, hairy, oblong to lance-shaped",
-    "flowers": "Bright orange to yellow, daisy-like flower heads with numerous narrow ray florets",
-    "stem": "Branching, softly hairy, slightly sticky",
-    "root": "Shallow taproot",
-    "fruit": "Curved, ridged achene, without pappus",
-    "flowering_period": "June to first frost",
+    "habit": "Very aromatic annual herb, much branched from the base",
+    "leaves": "Stalkless, light green, with glandular hairs on both surfaces; lower leaves spoon-shaped, 10-20 cm long; upper leaves oblong, 4-7 cm long",
+    "flowers": "Flower heads with glandular-hairy bracts; ray florets bright yellow or orange, 15-25 mm long, often in several rows in cultivated plants; they close in the dark and when rain is expected",
+    "stem": "Angular, hairy and solid",
+    "fruit": "Narrowly oblong, strongly curved achenes 10-12 mm long; outer ones warty-ribbed, inner ones prickly-warty",
+    "flowering_period": "June to November",
     "reference_ids": [
-     "REF-0752"
+     "REF-3957",
+     "REF-3958",
+     "REF-3217"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Widely cultivated as a garden and medicinal plant; believed native to southern Europe and the Mediterranean, now naturalised in gardens and waste ground worldwide.",
+    "text": "Not known in the wild; it probably originated in the Mediterranean region. It occurs as a garden escape on waste, cultivated and arable land and along roadsides, and is cultivated commercially in North America, the Balkans, Eastern Europe and Germany. The WHO monograph describes it as indigenous to central, eastern and southern Europe.",
     "reference_ids": [
-     "REF-0752"
+     "REF-3217",
+     "REF-3958",
+     "REF-3957"
     ],
-    "status": "draft"
+    "status": "verified"
    },
    "harvesting": {
-    "text": "The flower heads (or just the ray-floret petals) are picked by hand as they open, through the flowering season, and dried quickly in a warm, shaded, airy place to preserve colour and resin content.",
+    "text": "The flowers are used fresh or dried. For drying they are picked when fully open and dried quickly in the shade. The medicinal material is the dried ray florets (the petals) or the whole flower heads.",
     "parts": [
      "Flower",
      "Petals"
     ],
-    "season": "Through the flowering season (summer to autumn), as flowers open",
+    "season": "When the flowers are fully open; the plant flowers from June to November",
     "reference_ids": [
-     "REF-0752"
+     "REF-3217",
+     "REF-3957",
+     "REF-3958"
     ],
     "status": "verified"
    },
@@ -10367,25 +10375,28 @@
     }
    ],
    "traditional_uses": {
-    "text": "Calendula flower is one of the most widely used topical wound-healing and skin-soothing herbs in Western herbal medicine, applied to cuts, grazes, minor burns and skin inflammation, and used internally as a gentle anti-inflammatory and antimicrobial remedy and as a gargle for mouth and throat irritation.",
+    "text": "In pharmacopoeial and traditional medicine calendula flowers are applied externally to superficial cuts, wounds, leg ulcers and minor inflammations of the skin and of the lining of the mouth. Folk medicine also used them for amenorrhoea, angina, fevers, gastritis, low blood pressure, jaundice, rheumatism and vomiting, uses the WHO monograph notes are not supported by experimental or clinical data. The EU herbal monograph accepts traditional use for minor skin inflammation such as sunburn, as an aid in healing minor wounds, and for minor inflammation in the mouth or throat.",
     "reference_ids": [
-     "REF-0752"
+     "REF-3957",
+     "REF-3065"
     ],
     "status": "verified"
    },
    "preparations": [
     {
      "name": "Infused oil",
-     "text": "Dried petals infused in a carrier oil, used as a soothing base for topical creams and balms for skin healing.",
+     "text": "An oily extract of the flowers, 1 part flower to 10 parts of a fatty vegetable oil such as olive oil, is one of the herbal preparations the EU herbal monograph lists for use on the skin.",
      "reference_ids": [
-      "REF-0752"
+      "REF-3065"
      ],
      "status": "verified"
     },
     {
      "name": "Cream/ointment",
-     "text": "Standardised flower extract formulated into a cream or ointment for topical wound and skin care; the best-studied modern form.",
+     "text": "Flower preparations made into creams and ointments for use on the skin. The WHO monograph gives ointments of 2-5%, and the EU herbal monograph semi-solid forms containing the equivalent of 2-10% of the flower. Topical calendula extract is the form tested in wound-healing studies, with mixed results in a systematic review.",
      "reference_ids": [
+      "REF-3957",
+      "REF-3065",
       "REF-0752"
      ],
      "status": "verified"
@@ -10424,9 +10435,9 @@
       "triterpene-saponin",
       "saponin"
      ],
-     "note": "Principal wound-healing and anti-inflammatory constituents of the flower.",
+     "note": "The major constituents of the flower: triterpene saponins (2-10%) based on oleanolic acid, the calendulosides.",
      "reference_ids": [
-      "REF-0752"
+      "REF-3957"
      ]
     },
     {
@@ -10435,19 +10446,20 @@
       "flavonoid",
       "carotenoid"
      ],
-     "note": "Antioxidant flavonoids and carotenoids give the flower its orange-yellow colour and contribute to its antioxidant activity.",
+     "note": "Flavonoids, the 3-O-glycosides of isorhamnetin and quercetin (including astragalin, hyperoside, isoquercitrin and rutin), are among the major constituents; carotenoids are also present.",
      "reference_ids": [
-      "REF-2124"
+      "REF-3957",
+      "REF-0753"
      ]
     },
     {
-     "name": "Essential oil and resin",
+     "name": "Essential oil, sesquiterpenes and triterpenes",
      "compounds": [
       "essential-oil"
      ],
-     "note": "Minor aromatic and resinous constituents of the flower head.",
+     "note": "Other constituents include essential oil, sesquiterpenes such as caryophyllene, and triterpenes such as alpha- and beta-amyrin, lupeol and lupenone; polysaccharides have also been reported.",
      "reference_ids": [
-      "REF-0752"
+      "REF-3957"
      ]
     }
    ],
@@ -17261,17 +17273,17 @@
     "Rhizome"
    ],
    "botanical_description": {
-    "text": "Rhizomatous perennial herb with large, broad, lance-shaped leaves arising directly from the underground rhizome in a clump. Pale yellow flowers are borne in a dense spike partly hidden among pale green to pink upper bracts. The branching, knobbly rhizome has a bright orange-yellow interior, the source of turmeric spice and dye.",
-    "height": "60-100 cm",
-    "habit": "Rhizomatous perennial herb",
-    "leaves": "Large, broad, lance-shaped, arising directly from the rhizome",
-    "flowers": "Pale yellow, in a dense spike among pale green to pink upper bracts",
-    "stem": "Pseudostem formed by tightly overlapping leaf bases",
-    "root": "Branching, knobbly rhizome with a bright orange-yellow interior",
-    "fruit": "Rarely sets seed; propagated by rhizome division",
-    "flowering_period": "Summer to early autumn",
+    "text": "A perennial herb up to about 1 m tall, growing from an underground rhizome, with a short stem and 6-10 tufted leaves. The leaves are lance-shaped, uniformly green, up to 50 cm long and 7-25 cm wide, with a pointed, tail-like tip and a tapering base. The main rhizome is stout, fleshy and nearly egg-shaped, about 3 cm across, with slightly bent side rhizomes; all are orange inside. The flowers grow in a cylindrical spike 10-15 cm long at the top of the shoot, among white or white-and-light-green bracts 5-6 cm long; the flowers are pale yellow, about 5 cm long, with a white, funnel-shaped corolla tube. The fruit is an ellipsoid capsule.",
+    "height": "Up to about 1 m",
+    "habit": "Perennial herb growing from an underground rhizome, with a short stem and 6-10 tufted leaves",
+    "leaves": "Lance-shaped, uniformly green, up to 50 cm long and 7-25 cm wide; tip pointed and tail-like, base tapering; stalk and sheath sparsely to densely hairy",
+    "flowers": "Cylindrical spike 10-15 cm long at the top of the shoot; bracts white or white with a light green upper half, 5-6 cm long; flowers pale yellow, about 5 cm long, with a white funnel-shaped corolla tube",
+    "stem": "Short",
+    "root": "Stout, fleshy, nearly egg-shaped main rhizome about 3 cm across, with slightly bent side rhizomes 2-6 cm long; orange inside",
+    "fruit": "Ellipsoid capsule",
     "reference_ids": [
-     "REF-0791"
+     "REF-3959",
+     "REF-3242"
     ],
     "status": "verified"
    },
@@ -17314,22 +17326,23 @@
    },
    "preparations": [
     {
-     "name": "Standardised extract",
-     "text": "Rhizome extract standardised to curcuminoid content, often combined with piperine (black pepper extract) to improve absorption, taken as capsules; the form used in most clinical arthritis and inflammation studies.",
+     "name": "Curcumin or turmeric extract",
+     "text": "Curcumin or Curcuma longa extract taken by mouth is the form tested in randomised trials in arthritis (29 trials in a 2022 meta-analysis). Curcumin alone is poorly absorbed: in healthy volunteers, adding 20 mg of piperine (from black pepper) to 2 g of curcumin increased its bioavailability by 2000%.",
      "reference_ids": [
-      "REF-0791"
+      "REF-0791",
+      "REF-0273"
      ],
      "status": "verified"
     }
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials in arthritis commonly use around 1000-1500 mg of curcumin (or curcuminoid-standardised extract) daily, in divided doses, often combined with piperine. Educational reference only, not a prescription.",
+     "name": "Curcumin or turmeric extract (trials)",
+     "text": "In the 29 randomised trials in arthritis pooled in a 2022 meta-analysis, curcumin or Curcuma longa extract was given at 120-1500 mg a day for 4-36 weeks. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-0791"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -27053,36 +27066,38 @@
      ]
     },
     {
-     "name": "Phenylethanoids (acteoside/verbascoside) and flavonoids",
+     "name": "Phenylethanoid glycosides (acteoside, isoacteoside) and flavonoids",
      "compounds": [
       "verbascoside",
       "flavonoid"
      ],
-     "note": "Antioxidant supporting constituents.",
+     "note": "In devil's claw root tinctures the isomers acteoside (verbascoside) and isoacteoside were the main compounds after harpagoside. The root also contains flavonoids, phytosterols, sugars and harpagoquinone.",
      "reference_ids": [
-      "REF-0443"
+      "REF-3962",
+      "REF-3961"
      ]
     }
    ],
    "botanical_description": {
-    "text": "Low-growing, sprawling perennial herb with trailing stems and deeply lobed, greyish-green leaves arising from a large, fleshy primary taproot bearing smaller secondary storage tubers (the part used medicinally). Striking funnel-shaped, purplish-pink to violet flowers give way to a distinctive woody fruit covered in long, hooked spines - the origin of the common name.",
-    "height": "Trailing stems to 1.5 m, low-growing",
-    "habit": "Low-growing, sprawling perennial herb",
-    "leaves": "Deeply lobed, greyish-green",
-    "flowers": "Funnel-shaped, purplish-pink to violet",
-    "stem": "Trailing, sprawling stems",
-    "root": "Large primary taproot with smaller secondary storage tubers (the medicinal part)",
-    "fruit": "Woody capsule covered in long, hooked spines ('devil's claw')",
-    "flowering_period": "Summer (during the rainy season)",
+    "text": "A prostrate, sprawling, mat-forming perennial herb up to 1.5 m across, with annual stems growing from a stout perennial rootstock that bears a group of secondary storage tubers up to 6 cm thick, with yellowish-brown, lengthwise-striated bark; these secondary tubers are the part used medicinally. The leaves are pinnately lobed and covered in glandular hairs, densely hairy underneath. The solitary flowers rise from the leaf axils, with a tubular pink-purple corolla up to 7 cm long. The fruits are large, hooked, claw-like capsules whose edges carry two rows of woody arms up to 8 cm long with recurved spines.",
+    "height": "Prostrate; spreading up to 1.5 m across",
+    "habit": "Prostrate, sprawling, mat-forming perennial herb with annual stems",
+    "leaves": "Pinnately lobed, covered in glandular hairs, densely hairy underneath",
+    "flowers": "Solitary in the leaf axils; corolla tubular, pink-purple, up to 7 cm long",
+    "stem": "Annual, prostrate stems from a perennial rootstock",
+    "root": "Stout perennial rootstock bearing secondary storage tubers up to 6 cm thick (the medicinal part)",
+    "fruit": "Large, hooked, claw-like capsule edged with two rows of woody arms up to 8 cm long bearing recurved spines",
     "reference_ids": [
-     "REF-0443"
+     "REF-3960",
+     "REF-3961"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to the dry savannas and semi-desert regions of southern Africa, particularly the Kalahari Desert region of Namibia, Botswana and South Africa.",
+    "text": "Indigenous to the Kalahari desert and the savannas of southern Angola, Botswana, Namibia and South Africa. It thrives in clay or sandy soils in arid regions with 200-600 mm of annual rain, preferring roadsides and waste ground, especially where the natural vegetation has been cleared.",
     "reference_ids": [
-     "REF-0443"
+     "REF-3960",
+     "REF-3961"
     ],
     "status": "verified"
    },
@@ -27112,9 +27127,11 @@
     }
    ],
    "traditional_uses": {
-    "text": "Devil's claw has a long southern African traditional-medicine history as a remedy for fever, pain and digestive complaints, and is now one of the most clinically studied herbal analgesics for osteoarthritis and chronic low back pain, with standardised extracts showing efficacy comparable to some conventional analgesics in trials.",
+    "text": "Devil's claw is a traditional medicine of the Kalahari region of southern Africa, taken as a general health tonic and for arthritis, pain, fever, ulcers and boils; other local uses include indigestion, blood diseases, urinary tract infections, pain after childbirth, sprains and sores, prepared as infusions, decoctions, tinctures, powders and extracts. In Western herbalism the bitter root is taken for digestive problems and for arthritis and rheumatism. The WHO monograph lists loss of appetite, indigestion and supportive treatment of degenerative rheumatism, painful arthrosis and tendonitis as pharmacopoeial uses, and pain associated with rheumatic conditions as a use supported by clinical data.",
     "reference_ids": [
-     "REF-0443"
+     "REF-1829",
+     "REF-3961",
+     "REF-3960"
     ],
     "status": "verified"
    },
@@ -27358,29 +27375,28 @@
      ]
     },
     {
-     "name": "Flavonoids and phenolic acids",
+     "name": "Flavonoids (rutin, quercetin, kaempferol)",
      "compounds": [
-      "phenolic-acid",
       "flavonoid"
      ],
-     "note": "Antioxidant supporting constituents.",
+     "note": "A 50% ethanol extract of ivy leaves contained the flavonoids rutin, quercetin and kaempferol, and the sterol stigmasterol.",
      "reference_ids": [
-      "REF-0472"
+      "REF-2315"
      ]
     }
    ],
    "botanical_description": {
-    "text": "Woody, evergreen climbing or trailing vine that attaches to surfaces by small aerial rootlets. Juvenile leaves are glossy, dark green with three to five lobes; mature, flowering growth on well-lit stems produces unlobed, oval leaves. Small, greenish-yellow flowers in rounded umbels appear in autumn on mature growth, followed by black berries.",
-    "height": "Climbing/trailing to 20-30 m where supported",
-    "habit": "Woody, evergreen climbing or trailing vine",
-    "leaves": "Juvenile leaves glossy, three- to five-lobed; mature leaves unlobed, oval",
-    "flowers": "Small, greenish-yellow, in rounded umbels, on mature flowering growth",
-    "stem": "Woody, climbing by small aerial rootlets",
-    "root": "Woody root system plus climbing aerial rootlets",
-    "fruit": "Black berry (toxic if eaten in quantity - not used medicinally)",
-    "flowering_period": "Autumn (on mature growth only)",
+    "text": "An evergreen climbing plant that grows 20-30 m high where trees, cliffs or walls allow, and spreads as ground cover where they do not; it climbs by aerial rootlets with matted pads that cling to the surface. The alternate leaves are 5-10 cm long on stalks 1.5-2 cm long and come in two kinds: palmately five-lobed juvenile leaves on creeping and climbing stems, and unlobed, heart-shaped adult leaves on flowering stems in full sun. Small greenish-yellow flowers, rich in nectar, grow in rounded umbels 3-5 cm across from late summer to late autumn, followed by purple-black to orange-yellow berries 6-8 mm across.",
+    "height": "Climbs to 20-30 m where supported; also grows as ground cover",
+    "habit": "Evergreen climber or ground cover",
+    "leaves": "Alternate, 5-10 cm long; palmately five-lobed on juvenile stems, unlobed and heart-shaped on adult flowering stems",
+    "flowers": "Small, greenish-yellow, nectar-rich, in umbels 3-5 cm across",
+    "stem": "Climbing by aerial rootlets with matted pads",
+    "fruit": "Purple-black to orange-yellow berries 6-8 mm across; the leaves and fruits contain a saponin glycoside that can cause breathing difficulties and coma if eaten",
+    "flowering_period": "Late summer to late autumn",
     "reference_ids": [
-     "REF-0472"
+     "REF-3964",
+     "REF-3269"
     ],
     "status": "verified"
    },
@@ -27413,17 +27429,21 @@
     }
    ],
    "traditional_uses": {
-    "text": "Ivy leaf has a long European folk history as an expectorant remedy for coughs and chest complaints, and modern standardised leaf extracts are among the best-studied herbal treatments for acute bronchitis and productive cough, shown in clinical trials to reduce cough severity and ease breathing.",
+    "text": "In folk herbal medicine ivy was used especially for rheumatism, and applied externally to skin eruptions, swollen tissue, painful joints, burns and festering cuts. The leaf has long been used for cough and respiratory problems and is approved by the German Commission E. The EU herbal monograph accepts ivy leaf extracts as an expectorant for productive cough on the basis of well-established use, and in an open study in acute bronchitis an ivy-leaf syrup improved symptoms about as much as acetylcysteine.",
     "reference_ids": [
+     "REF-3269",
+     "REF-0834",
+     "REF-3963",
      "REF-0472"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Standardised dry extract (syrup/drops)",
-     "text": "Leaf extract standardised to saponin (hederacoside C) content, formulated as a cough syrup or drops; the well-studied clinical form for acute bronchitis and productive cough.",
+     "name": "Leaf extract (syrup, drops, tablets)",
+     "text": "Dry, liquid or soft extracts of the leaf made with ethanol (for example a dry extract 4-8:1 made with 24-30% ethanol), taken by mouth in liquid or solid forms such as syrups; these are the preparations the EU herbal monograph covers for productive cough. An ivy-leaf extract syrup (EA 575) was the form tested against acetylcysteine in acute bronchitis.",
      "reference_ids": [
+      "REF-3963",
       "REF-0472"
      ],
      "status": "verified"
@@ -27431,12 +27451,12 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract (syrup)",
-     "text": "Commercial standardised ivy-leaf syrups are typically dosed per product labelling (varying by age); clinical trials show benefit within about 48 hours of starting treatment. Educational reference only, not a prescription.",
+     "name": "Dry leaf extract (EU herbal monograph)",
+     "text": "For the dry extract 4-8:1 (24-30% ethanol), the EU herbal monograph gives adolescents and adults 15-65 mg one to three times daily (45-105 mg a day), children aged 6-11 years 11-35 mg two to three times daily, and children aged 2-5 years 8-18 mg two to three times daily; other extracts have their own doses. It is not for children under 2, and a doctor should be consulted if symptoms last more than a week. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0472"
+      "REF-3963"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "actions": [
@@ -38759,9 +38779,11 @@
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to the Indian subcontinent and tropical Asia, now cultivated and naturalised throughout the tropics and subtropics worldwide; commonly grown in home gardens and temple courtyards as well as cultivated as a medicinal and aromatic crop.",
+    "text": "Native to the Indian subcontinent. The WHO monograph describes it as indigenous to India, parts of northern and eastern Africa, Hainan Island and Taiwan, and cultivated in south-east Asia. Its range extends across tropical Asia from China and the Indian subcontinent through Myanmar, Thailand, Indochina, Malaysia, Indonesia and the Philippines to New Guinea and northern Australia, and it grows naturalised in waste places, settled areas and thickets.",
     "reference_ids": [
-     "REF-0466"
+     "REF-0466",
+     "REF-3096",
+     "REF-3300"
     ],
     "status": "verified"
    },
@@ -38809,8 +38831,8 @@
      "status": "verified"
     },
     {
-     "name": "Standardised extract capsule",
-     "text": "Encapsulated dry-leaf extract, the form used in most clinical trials for stress, mood and sleep.",
+     "name": "Standardised extract",
+     "text": "A standardised extract taken by mouth. In an 8-week randomised trial in adults under stress, a standardised Ocimum tenuiflorum extract (Holixer, 125 mg twice daily) improved perceived stress and insomnia scores compared with placebo. A systematic review of human studies notes that the best dose and dose form are still to be clarified.",
      "reference_ids": [
       "REF-1427",
       "REF-0466"
@@ -38820,8 +38842,8 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials for stress and mood have used standardised dry-extract capsules taken over several weeks; dosing varies by product concentration, so follow the manufacturer's guidance. Educational reference only, not a prescription.",
+     "name": "Standardised extract (trial)",
+     "text": "In an 8-week randomised trial in adults under stress, a standardised Ocimum tenuiflorum extract (Holixer) was taken at 125 mg twice daily. A systematic review of 24 human studies concluded that the dose and dose form still need to be clarified. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-1427",
       "REF-0466"
@@ -45495,12 +45517,14 @@
     "status": "draft"
    },
    "harvesting": {
-    "text": "Wild fruiting bodies are picked as the caps mature but before they become tough or insect-damaged; cultivated mushrooms are harvested from substrate blocks or bags once the caps have expanded but before releasing significant spore load. Never forage a white shelf-fungus from wood without confirming the host tree, since the fatal Angel Wing look-alike is specific to conifer (softwood) wood.",
+    "text": "Oyster mushrooms are best harvested before the edges of the caps flatten out completely or flip up, while they still have a slight roll; this keeps the best texture and storability and limits spore release. In the wild the oyster mushroom grows on dead and dying hardwood. Its dangerous lookalike, angel wings (Pleurocybella porrigens), grows on dead or dying conifer wood from late summer into autumn and was linked to fatal poisonings in Japan in 2004, so check the host wood before picking: conifer means caution.",
     "parts": [
      "Fruiting body (mycelium/whole mushroom)"
     ],
-    "season": "Cooler, moist seasons (autumn-spring in temperate climates)",
     "reference_ids": [
+     "REF-3318",
+     "REF-3965",
+     "REF-2629",
      "REF-2627"
     ],
     "status": "verified"
@@ -49298,37 +49322,38 @@
     "Seed"
    ],
    "botanical_description": {
-    "text": "Scrambling, thorny deciduous shrub (Rosaceae), 1-5 m, with arching, prickly stems bearing hooked thorns. Leaves are pinnate with 5-7 oval, toothed leaflets. Pale pink to white, five-petalled flowers are followed by bright red-orange, egg-shaped hips (the fleshy hip is an accessory fruit; the true fruits are small hairy achenes inside it) that ripen in autumn and often persist into winter.",
-    "height": "1-5 m",
-    "habit": "Scrambling, thorny deciduous shrub",
-    "leaves": "Pinnate, 5-7 oval, toothed leaflets",
-    "flowers": "Pale pink to white, five-petalled",
-    "stem": "Arching, prickly, with hooked thorns",
-    "root": "Deep, woody root system",
-    "fruit": "Bright red-orange, egg-shaped hip (accessory fruit) containing small hairy achenes",
-    "flowering_period": "June-July; hips ripen August-October",
+    "text": "A deciduous shrub usually 1-5 m tall that can scramble higher into the crowns of taller trees. Its many arching stems are covered with small, sharp, hooked prickles that help it climb. The leaves are pinnate with 5-7 leaflets and are fragrant when bruised. The sweet-scented flowers, 4-6 cm across with five petals, are usually pale pink but range from deep pink to white, and open in June and July. They ripen in September and October into oval, red-orange hips 1.5-2 cm long, which can stay on the plant for months and turn black. A layer of irritant hairs surrounds the seeds just beneath the flesh of the hip.",
+    "height": "1-5 m; can scramble higher into trees",
+    "habit": "Deciduous shrub with arching, scrambling stems",
+    "leaves": "Pinnate, with 5-7 leaflets, fragrant when bruised",
+    "flowers": "Usually pale pink (deep pink to white), 4-6 cm across, five petals, sweet-scented",
+    "stem": "Arching, covered in small, sharp, hooked prickles",
+    "fruit": "Oval red-orange hip 1.5-2 cm long, ripe in September-October, can persist for months and turn black; irritant hairs surround the seeds inside",
+    "flowering_period": "June to July; hips ripen September to October",
     "reference_ids": [
-     "REF-0990"
+     "REF-3966",
+     "REF-3322"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native throughout Europe, north-west Africa and western Asia, common in hedgerows, woodland edges, scrub and roadside verges on a wide range of soils.",
+    "text": "Native to Europe, including Britain, from Norway south and east to north-west Africa and south-west Asia. It grows in hedges, scrub, woods, roadsides and banks.",
     "reference_ids": [
-     "REF-0990"
+     "REF-3322",
+     "REF-3966"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Hips are picked in autumn once fully coloured, then dried for tea or powder, or processed fresh for syrup. The fine, irritant hairs surrounding the seeds inside the hip must be removed before consumption.",
+    "text": "The hips are usually harvested from late summer to early autumn (August to October), once ripe, and are used raw or cooked in jams, jellies, syrups and teas. The layer of hairs around the seeds irritates the mouth and digestive tract and must be removed.",
     "parts": [
      "Fruit (hip)",
      "Petals",
      "Seed"
     ],
-    "season": "Autumn",
+    "season": "Late summer to early autumn (August to October)",
     "reference_ids": [
-     "REF-0993"
+     "REF-3322"
     ],
     "status": "verified"
    },
@@ -49365,18 +49390,22 @@
     }
    ],
    "traditional_uses": {
-    "text": "Rosehip has a long European folk tradition as a vitamin-C-rich tonic for colds and general immunity, and as a mild diuretic and astringent for urinary and digestive complaints. Modern clinical trials on standardised rosehip powder show a modest, reproducible benefit for osteoarthritis pain and stiffness.",
+    "text": "The petals, hips and galls have been used as astringent, carminative, diuretic, laxative and tonic remedies. The hips are taken for colds, influenza, minor infections, scurvy, diarrhoea and gastritis, and a syrup of the hips is used to flavour medicines and cough mixtures; the hip shells contain 0.2-2.4% vitamin C. In randomised trials a powder made from the seeds and shells of the hips reduced osteoarthritis pain compared with placebo, a modest effect in a meta-analysis of three trials.",
     "reference_ids": [
-     "REF-0990",
+     "REF-3322",
+     "REF-3106",
+     "REF-3107",
      "REF-0989"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Rosehip powder (standardised, seedless)",
-     "text": "The form used in osteoarthritis clinical trials.",
+     "name": "Rosehip powder (seeds and shells)",
+     "text": "A powder made from the seeds and shells of the hips of a Rosa canina subspecies (Hyben Vital) is the form tested in randomised osteoarthritis trials, where it reduced pain compared with placebo.",
      "reference_ids": [
+      "REF-3106",
+      "REF-3107",
       "REF-0989"
      ],
      "status": "verified"
@@ -49385,9 +49414,10 @@
    "dosage": [
     {
      "name": "Rosehip powder",
-     "text": "Clinical trials for osteoarthritis have most often used around 5 g/day of standardised rosehip powder. Educational reference only, not a prescription.",
+     "text": "In two randomised, placebo-controlled trials in osteoarthritis, 5 g a day of a powder made from the seeds and shells of rose hips was taken for 3 months and reduced pain and stiffness. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0989"
+      "REF-3106",
+      "REF-3107"
      ],
      "status": "verified"
     }
@@ -49405,8 +49435,8 @@
      ]
     },
     {
-     "name": "Galactolipid (GOPO)",
-     "note": "A specific galactolipid fraction studied as the likely active anti-inflammatory constituent in osteoarthritis trials of standardised rosehip powder.",
+     "name": "Galactolipids",
+     "note": "Galactolipids are among the rose hip compounds, with phenolics, terpenoids, carotenoids, fruit acids and fatty oils, that a systematic review considers jointly responsible for its effects in osteoarthritis.",
      "reference_ids": [
       "REF-0990"
      ]
@@ -53071,9 +53101,10 @@
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to north-eastern China, Korea, Japan and the Russian Far East, growing in cool, moist mixed and deciduous forests, often climbing on trees and shrubs along forest edges and riverbanks.",
+    "text": "Indigenous to the Russian Far East (Primorsky and Khabarovsk regions, the Kuril Islands and southern Sakhalin), north-eastern China, Japan and the Korean peninsula, and cultivated in China and South Korea. It grows in mixed forests, especially on their margins, and by streams and brooks, usually on sandy soils.",
     "reference_ids": [
-     "REF-0506"
+     "REF-3967",
+     "REF-3336"
     ],
     "status": "verified"
    },
@@ -53115,10 +53146,11 @@
    },
    "preparations": [
     {
-     "name": "Decoction/tea",
-     "text": "Dried berries simmered in water, a classic Traditional Chinese Medicine preparation, often combined with other herbs.",
+     "name": "Dried fruit",
+     "text": "The dried ripe fruit is a traditional Chinese medicine, also used as a tonic in Russia, Japan and Korea. The WHO monograph lists the dried fruits and tinctures, extracts and powders made from them, with an average daily dose of 1.5-6.0 g of dried fruit.",
      "reference_ids": [
-      "REF-0506"
+      "REF-3967",
+      "REF-0583"
      ],
      "status": "verified"
     },
@@ -56882,47 +56914,49 @@
      ]
     },
     {
-     "name": "Flavonoids and essential oil",
+     "name": "Flavonoids, monoterpenes and polyacetylenes",
      "compounds": [
-      "essential-oil",
-      "flavonoid"
+      "flavonoid",
+      "terpene"
      ],
-     "note": "Supporting antioxidant and aromatic constituents.",
+     "note": "Besides parthenolide and the other sesquiterpene lactones (more than 45 sesquiterpenes have been identified), monoterpenes, flavonoids and polyacetylenes have been detected in feverfew.",
      "reference_ids": [
-      "REF-0450"
+      "REF-3968"
      ]
     }
    ],
    "botanical_description": {
-    "text": "Aromatic perennial herb (Asteraceae), 20-60 cm tall, with much-branched, downy stems. Leaves are yellow-green, bipinnately divided and strongly scented. Small, daisy-like flower heads have white ray florets and a flat yellow disc, borne in loose clusters.",
-    "height": "20-60 cm",
-    "habit": "Erect, much-branched, aromatic perennial herb",
-    "leaves": "Yellow-green, bipinnately divided, strongly scented",
-    "flowers": "Small, daisy-like, white ray florets around a flat yellow disc",
-    "stem": "Much-branched, downy",
-    "root": "Fibrous perennial rootstock",
-    "fruit": "Small ribbed achenes (typical Asteraceae)",
-    "flowering_period": "June-September",
+    "text": "A perennial herb 30-90 cm tall with more or less branched stems up to 5 mm thick. The alternate, stalked leaves are greenish-yellow, 2-5 cm (sometimes up to 10 cm) long, deeply divided (pinnatisect to bipinnate) and more or less hairy on both sides. The flower heads, 1.2-2.2 cm across on long stalks, are grouped 5-30 together in wide, flat-topped clusters; each has a centre of yellow, tubular, five-toothed disc florets and a ring of white ray florets 2-7 mm long. The fruit is a brown achene 1.2-1.5 mm long with 5-10 white ribs. It flowers in July and August.",
+    "height": "30-90 cm",
+    "habit": "Perennial herb with more or less branched stems",
+    "leaves": "Alternate, stalked, greenish-yellow, 2-5 cm (up to 10 cm) long, pinnatisect to bipinnate, more or less hairy on both sides",
+    "flowers": "Heads 1.2-2.2 cm across, 5-30 in wide flat-topped clusters; yellow tubular disc florets and white ray florets 2-7 mm long",
+    "stem": "More or less branched, up to 5 mm thick",
+    "fruit": "Brown achene 1.2-1.5 mm long with 5-10 white ribs",
+    "flowering_period": "July to August",
     "reference_ids": [
-     "REF-0553"
+     "REF-3968",
+     "REF-3347"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to the Balkans and Caucasus region, now naturalised across Europe, North America and elsewhere; grows on disturbed ground, walls, roadsides and waste places, and is widely cultivated.",
+    "text": "Indigenous to south-east Europe as far east as the Caucasus, and now common throughout Europe and the United States; naturalised in Britain. It grows in mountain scrub, on rocky slopes, walls and waste places, and as a garden weed, avoiding acid soils.",
     "reference_ids": [
-     "REF-0450"
+     "REF-3968",
+     "REF-3347"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Leaves (aerial parts) are gathered during the growing season, ideally at flowering, and dried or used fresh.",
+    "text": "The plant is gathered as it comes into flower and can be dried for later use; the medicinal material is the dried leaves or aerial parts.",
     "parts": [
      "Leaf (aerial parts)"
     ],
-    "season": "Growing season, ideally at flowering",
+    "season": "As it comes into flower (July to August)",
     "reference_ids": [
-     "REF-0553"
+     "REF-3347",
+     "REF-3968"
     ],
     "status": "verified"
    },
@@ -56944,17 +56978,20 @@
     }
    ],
    "traditional_uses": {
-    "text": "Feverfew has a long European folk tradition, its name derived from 'febrifuge' (fever-reducer), as a remedy for fevers, headaches and joint pain. Modern use and clinical research focus on migraine prevention, with parthenolide identified as the key active compound responsible for inhibiting the inflammatory pathways implicated in migraine.",
+    "text": "In folk medicine feverfew was taken for fevers, colds, arthritis and rheumatism, and for anaemia, asthma, indigestion, constipation, diarrhoea, painful periods, oedema, sciatica, toothache, tinnitus and vertigo; a tea of the whole plant was used for arthritis, colds and fevers, and an infusion to bathe swollen feet. The WHO monograph notes that these folk uses are not supported by experimental or clinical data, and that a trial in rheumatoid arthritis found no benefit. Its main modern use is preventing migraine, which WHO lists as supported by clinical data; a Cochrane review found the evidence mixed and of low quality, with the largest trial showing 0.6 fewer attacks a month than placebo.",
     "reference_ids": [
+     "REF-3968",
+     "REF-3347",
      "REF-0450"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Standardised leaf extract (capsule)",
-     "text": "Freeze-dried or standardised-parthenolide extract, the form used in most clinical trials.",
+     "name": "Capsules (leaf or extract)",
+     "text": "For migraine prevention feverfew is taken in capsules: the WHO monograph gives encapsulated crude drug equivalent to 0.2-0.6 mg parthenolide a day, and the largest trial in a Cochrane review used a stable feverfew extract.",
      "reference_ids": [
+      "REF-3968",
       "REF-0450"
      ],
      "status": "verified"
@@ -58187,36 +58224,36 @@
     "Seed"
    ],
    "botanical_description": {
-    "text": "Small evergreen tree (Malvaceae), 4-8 m tall (up to 10 m unpruned), with a dense, spreading crown. Leaves are large, glossy and oblong. Small pink-white flowers are borne directly on the trunk and older branches (cauliflory), followed by large, ridged, football-shaped pods that ripen from green to yellow/orange/red-purple, each containing 20-60 seeds (the cocoa beans) embedded in sweet white pulp.",
-    "height": "4-8 m (up to 10 m unpruned)",
-    "habit": "Small evergreen tree, cauliflorous (flowers/pods on the trunk)",
-    "leaves": "Large, glossy, oblong",
-    "flowers": "Small, pink-white, borne directly on the trunk and older branches",
-    "stem": "Woody trunk, flowers and pods arising directly from it",
-    "root": "Moderate, spreading root system",
-    "fruit": "Large, ridged pod containing 20-60 seeds in sweet white pulp",
-    "flowering_period": "Can flower year-round in tropical conditions",
+    "text": "A small evergreen tree with a rounded crown, usually about 8 m tall but exceptionally up to 20 m, with a short trunk 20-30 cm across. The leaves are alternate, entire and unlobed, 10-50 cm long and 5-10 cm broad. Small flowers 1-2 cm across, with a pink calyx, grow in clusters directly on the trunk and older branches (cauliflory) and are pollinated by tiny midges. The fruit, the cacao pod, is ovoid, 15-30 cm long and 8-10 cm wide, ripening yellow to orange and weighing about 500 g; it holds 20-60 seeds (the beans) in a white pulp.",
+    "height": "Usually about 8 m; exceptionally up to 20 m",
+    "habit": "Small evergreen tree with a rounded crown; flowers and pods grow on the trunk (cauliflory)",
+    "leaves": "Alternate, entire, unlobed, 10-50 cm long and 5-10 cm broad",
+    "flowers": "Small, 1-2 cm across, with a pink calyx, in clusters on the trunk and older branches; midge-pollinated",
+    "stem": "Short trunk 20-30 cm across",
+    "fruit": "Ovoid pod 15-30 cm long, ripening yellow to orange, about 500 g, holding 20-60 seeds in white pulp",
     "reference_ids": [
-     "REF-1084"
+     "REF-3973",
+     "REF-3974"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to the tropical rainforest understorey of Central and South America (the Amazon and Orinoco basins), now cultivated throughout the tropics within about 20 degrees of the equator (notably West Africa, Southeast Asia and South America), requiring warm, humid, shaded conditions.",
+    "text": "Native to South America (Brazil, Peru, Colombia and the Guianas) and Central America (Belize, Guatemala and southern Mexico), where it is an understorey tree of evergreen rainforest in the wet humid tropics, in places not usually flooded. It is widely cultivated in lowland tropical areas around the world, usually below 300 m, where the mean annual temperature is 18-28.5 degrees C and 1,500-2,000 mm of rain falls through the year.",
     "reference_ids": [
-     "REF-1084"
+     "REF-3973"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Ripe pods are hand-harvested, cut open, and the seeds (with pulp) are removed, fermented for several days - essential for developing chocolate flavour and reducing bitterness - then dried and roasted.",
+    "text": "The seeds are taken from the ripe pods, which turn yellow to orange, and cured by pressing, fermenting and then drying them. The cured seeds are roasted and ground to make cocoa, and cocoa butter is extracted from them.",
     "parts": [
      "Fruit",
      "Seed"
     ],
-    "season": "As pods ripen, largely year-round in the tropics",
+    "season": "When the pods are ripe (yellow to orange)",
     "reference_ids": [
-     "REF-1084"
+     "REF-3973",
+     "REF-3974"
     ],
     "status": "verified"
    },
@@ -58239,24 +58276,26 @@
     }
    ],
    "traditional_uses": {
-    "text": "Cacao has an ancient Mesoamerican tradition (Maya and Aztec) as a ceremonial, medicinal and nutritive beverage, valued as a stimulant tonic and considered sacred - 'food of the gods', reflected in the genus name Theobroma. Modern research on its polyphenol (flavanol) content supports cardiovascular, antioxidant, anti-inflammatory and neuroprotective/cognitive benefits, particularly from minimally processed, high-flavanol cocoa.",
+    "text": "Cacao was grown by the Maya and the Aztecs, who considered it a divine plant, drank it as a ritual beverage and used the beans as currency; the trees also gave them medicine, fibre and building materials. The genus name Theobroma is Greek for 'food of the gods'. In Central America and the Caribbean the seed is used as a heart and kidney tonic, an infusion of the baked seed membranes is drunk for anaemia, and cacao powder is taken for angina and high blood pressure; cocoa butter is used to soften damaged skin. In a large randomised trial in older adults, a cocoa extract supplying 500 mg of flavanols a day did not significantly reduce total cardiovascular events, though deaths from cardiovascular disease were 27% lower.",
     "reference_ids": [
-     "REF-1084"
+     "REF-3973",
+     "REF-3974",
+     "REF-1085"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Dark chocolate (high cocoa content)",
-     "text": "Minimally processed chocolate retaining more flavanols than milk chocolate.",
+     "name": "Dark chocolate",
+     "text": "Chocolate made from the roasted beans. Dark chocolate is considered one of the main sources of antioxidants in the American diet after fruit and vegetables, but cocoa processing makes its polyphenol content vary widely.",
      "reference_ids": [
-      "REF-1084"
+      "REF-1090"
      ],
      "status": "verified"
     },
     {
-     "name": "Standardised flavanol extract (capsule)",
-     "text": "Concentrated extract used in some clinical cardiovascular research.",
+     "name": "Cocoa flavanol extract",
+     "text": "A cocoa extract supplement supplying a set amount of flavanols, the form tested in the COSMOS trial of cardiovascular disease prevention.",
      "reference_ids": [
       "REF-1085"
      ],
@@ -58266,9 +58305,10 @@
    "dosage": [
     {
      "name": "Cocoa flavanol extract",
-     "text": "Large clinical trials of cocoa flavanol supplementation for cardiovascular prevention have used around 500 mg/day of cocoa flavanols. Educational reference only, not a prescription; treat concentrated cacao as a mild stimulant (theobromine, some caffeine) and moderate intake accordingly, especially in pregnancy, with heart-rhythm conditions, or on stimulant-sensitive medication.",
+     "text": "The COSMOS trial in 21,442 older adults used a cocoa extract supplying 500 mg of flavanols a day, including 80 mg of epicatechin, for a median of 3.6 years; it did not significantly reduce total cardiovascular events, though cardiovascular deaths were 27% lower. Cacao seed contains stimulant xanthines. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-1085"
+      "REF-1085",
+      "REF-3973"
      ],
      "status": "verified"
     }
@@ -58288,10 +58328,10 @@
       "proanthocyanidin",
       "flavonoid"
      ],
-     "note": "The principal bioactive polyphenols, responsible for most of cacao's antioxidant and cardiovascular activity.",
+     "note": "Cocoa is rich in phenolic antioxidants, about 10% of the dry weight of the bean. The flavonoids catechin, epicatechin and procyanidins predominate in its antioxidant activity, and epicatechin is considered mainly responsible for its effect on the lining of the blood vessels, through nitric oxide.",
      "reference_ids": [
-      "REF-1084",
-      "REF-1085"
+      "REF-0131",
+      "REF-1090"
      ]
     },
     {
@@ -62445,24 +62485,26 @@
     }
    ],
    "botanical_description": {
-    "text": "Low, deciduous, much-branched shrub with sharply angled green stems and small, oval, finely toothed leaves. Small, pinkish-green, globe-shaped flowers are borne singly or in pairs, giving way to single, dark blue-black berries with a distinctive crowned top.",
-    "height": "15-50 cm",
-    "habit": "Low, deciduous, much-branched shrub",
-    "leaves": "Small, oval, finely toothed, bright green, turning red in autumn",
-    "flowers": "Small, pinkish-green, globe-shaped, borne singly or in pairs",
-    "stem": "Sharply angled (winged), green, much-branched",
-    "root": "Shallow, spreading rhizome",
-    "fruit": "Single dark blue-black berry with a small crowned top, red-purple staining flesh",
-    "flowering_period": "April-June",
+    "text": "A trailing shrub 10-60 cm tall that forms large colonies from creeping rhizomes, with green, hairless, three-angled twigs. The deciduous, alternate, short-stalked leaves are broadly elliptic to ovate, 10-30 mm long and 6-18 mm wide, finely toothed and bright green, with prominent veins underneath. The flowers grow singly or in pairs in the leaf axils; the corolla is pale green or white to pink, broadly urn-shaped to globe-shaped and 3-5 mm long. The fruit is a many-seeded, flattened-globose berry 5-9 mm across, blue to black. It flowers from April to June, and the fruit ripens from July to September.",
+    "height": "10-60 cm",
+    "habit": "Trailing deciduous shrub forming large colonies from creeping rhizomes",
+    "leaves": "Alternate, short-stalked, broadly elliptic to ovate, 10-30 x 6-18 mm, finely toothed, bright green",
+    "flowers": "Single or paired in the leaf axils; corolla pale green or white to pink, urn-shaped to globe-shaped, 3-5 mm long",
+    "stem": "Green, hairless, three-angled twigs",
+    "root": "Creeping rhizomes",
+    "fruit": "Flattened-globose berry 5-9 mm across, blue to black, many-seeded",
+    "flowering_period": "April to June; fruit ripens July to September",
     "reference_ids": [
-     "REF-0408"
+     "REF-3969",
+     "REF-3361"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Grows on acidic heaths, moorland and open coniferous woodland; native to Europe, northern Asia and North America.",
+    "text": "Heaths, moors and woods on acid soils, up to 1,250 m. Native to Europe, including Britain, from Iceland south and east to Spain, North Macedonia, the Caucasus and northern Asia; the WHO monograph also records it in the North American Rocky Mountains.",
     "reference_ids": [
-     "REF-0408"
+     "REF-3361",
+     "REF-3969"
     ],
     "status": "verified"
    },
@@ -65333,13 +65375,13 @@
      ]
     },
     {
-     "name": "Flavonoids (casticin, vitexin)",
+     "name": "Flavonoids (casticin and others)",
      "compounds": [
       "flavonoid"
      ],
-     "note": "Antioxidant constituents of the fruit.",
+     "note": "Flavonoids are a major group of secondary constituents of the fruit; casticin, at up to 0.2%, is considered the main one, with chrysosplenetin, chrysosplenol D, cynaroside, isorhamnetin, luteolin and isoorientin derivatives among the others.",
      "reference_ids": [
-      "REF-0433"
+      "REF-3970"
      ]
     },
     {
@@ -65356,24 +65398,24 @@
     }
    ],
    "botanical_description": {
-    "text": "Deciduous shrub or small tree with slender, aromatic, palmately compound leaves of narrow, lance-shaped leaflets, greyish-downy beneath. Small, fragrant, lilac to violet flowers are borne in long, slender terminal spikes, followed by small, dark, peppercorn-like berries with a peppery, aromatic taste.",
-    "height": "2-6 m",
-    "habit": "Deciduous shrub or small tree",
-    "leaves": "Palmately compound, narrow lance-shaped leaflets, greyish-downy beneath, aromatic",
-    "flowers": "Small, fragrant, lilac to violet, in long slender terminal spikes",
-    "stem": "Slender, aromatic branches",
-    "root": "Woody root system",
-    "fruit": "Small, dark, peppercorn-like berry with a peppery, aromatic taste (the medicinal part)",
-    "flowering_period": "July-September",
+    "text": "A small tree or deciduous shrub about 1-6 m tall with an aromatic smell. The opposite, long-stalked leaves are palmately compound, with 3-9 narrow, lance-shaped leaflets 1.5-10 cm long and 0.5-2 cm wide, the central one the longest; they are dark green and hairless above and velvety white-hairy below, with entire or sparsely toothed margins. Lavender, blue, pink, yellowish or white two-lipped flowers grow in terminal spikes (panicles) 12-17.5 cm long in midsummer, or late summer in cooler climates. The fruit is a small globose, reddish drupe 2-4 mm across; the dried ripe fruit is the medicinal part.",
+    "height": "About 1-6 m",
+    "habit": "Small tree or deciduous shrub with an aromatic smell",
+    "leaves": "Opposite, long-stalked, palmately compound with 3-9 lance-shaped leaflets 1.5-10 cm long, dark green above and velvety white-hairy below",
+    "flowers": "Terminal spikes 12-17.5 cm long; corolla lavender, blue, pink, yellowish or white, two-lipped, tube 6-7 mm long",
+    "fruit": "Globose to subglobose reddish drupe 2-4 mm across (the medicinal part)",
+    "flowering_period": "Midsummer; late summer in cooler climates",
     "reference_ids": [
-     "REF-0433"
+     "REF-3970",
+     "REF-3390"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to the Mediterranean region and Central Asia, growing along riverbanks, streamsides and coastal scrub; widely cultivated in warm-temperate climates worldwide.",
+    "text": "Native to the Mediterranean region and Asia. It is cultivated in warm-temperate and subtropical regions of the world, and the medicinal fruit comes mainly from Mediterranean countries, especially Albania and Morocco.",
     "reference_ids": [
-     "REF-0433"
+     "REF-3970",
+     "REF-3390"
     ],
     "status": "verified"
    },
@@ -65405,17 +65447,20 @@
     }
    ],
    "traditional_uses": {
-    "text": "Chasteberry has a long Mediterranean tradition, reflected in its 'chaste tree' name, historically used to reduce libido in monastic settings, and, more centrally to its modern use, as a traditional women's tonic for menstrual irregularities, premenstrual complaints and cyclical breast tenderness; standardised extracts are now among the best-clinically-studied herbal remedies for premenstrual syndrome, acting via dopaminergic modulation of prolactin.",
+    "text": "Known as chaste tree and monk's pepper, the fruit was used in traditional medicine as an anaphrodisiac, contraceptive, emmenagogue, sedative and tonic. Pharmacopoeias and well-established documents describe its use for endometrial hyperplasia, absent or heavy periods, infertility linked to high prolactin or a short luteal phase, acne and other hormone-related skin conditions, and as a digestive aid, sedative and for hot flushes. WHO lists premenstrual syndrome, menstrual irregularities, cyclical breast pain, corpus luteum insufficiency, high prolactin and hormonal acne as uses supported by clinical data, and a systematic review found Vitex extracts better than placebo for premenstrual syndrome in most trials. Fruit extracts act as dopamine agonists in laboratory and animal studies.",
     "reference_ids": [
+     "REF-3390",
+     "REF-3970",
      "REF-0433"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Standardised extract",
-     "text": "Dried fruit extract standardised to agnuside/casticin content, taken as tablets or capsules; the form used in most clinical PMS and cyclical breast pain trials.",
+     "name": "Fruit extract (tablets)",
+     "text": "Dry extracts of the fruit, some standardised to about 0.6-1.0% casticin, are taken as tablets, usually once each morning; fluid extracts and tinctures are also used. Vitex extracts were the form tested in the randomised trials of premenstrual syndrome, premenstrual dysphoric disorder and latent hyperprolactinaemia in a systematic review.",
      "reference_ids": [
+      "REF-3970",
       "REF-0433"
      ],
      "status": "verified"
@@ -65423,12 +65468,12 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials for PMS commonly use extracts providing around 20-40 mg of dried fruit extract daily, taken over several menstrual cycles for full effect. Educational reference only, not a prescription.",
+     "name": "Dry fruit extract (WHO monograph)",
+     "text": "For premenstrual syndrome the WHO monograph gives one tablet containing 20 mg of a dry native extract (6-12:1, about 0.6% casticin) daily with water. Other dry extracts are given as one tablet of 2.6-4.2 mg each morning, and hydroalcoholic extracts in amounts corresponding to 30-40 mg of dried fruit. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0433"
+      "REF-3970"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "indications": [

@@ -24,28 +24,33 @@ constituents:
   - REF-2309
   - REF-2311
   - REF-2312
-- name: Flavonoids and phenolic acids
+- name: Flavonoids (rutin, quercetin, kaempferol)
   compounds:
-  - phenolic-acid
   - flavonoid
-  note: Antioxidant supporting constituents.
+  note: A 50% ethanol extract of ivy leaves contained the flavonoids rutin, quercetin and kaempferol,
+    and the sterol stigmasterol.
   reference_ids:
-  - REF-0472
+  - REF-2315
 botanical_description:
-  text: Woody, evergreen climbing or trailing vine that attaches to surfaces by small aerial rootlets.
-    Juvenile leaves are glossy, dark green with three to five lobes; mature, flowering growth on well-lit
-    stems produces unlobed, oval leaves. Small, greenish-yellow flowers in rounded umbels appear in autumn
-    on mature growth, followed by black berries.
-  height: Climbing/trailing to 20-30 m where supported
-  habit: Woody, evergreen climbing or trailing vine
-  leaves: Juvenile leaves glossy, three- to five-lobed; mature leaves unlobed, oval
-  flowers: Small, greenish-yellow, in rounded umbels, on mature flowering growth
-  stem: Woody, climbing by small aerial rootlets
-  root: Woody root system plus climbing aerial rootlets
-  fruit: Black berry (toxic if eaten in quantity - not used medicinally)
-  flowering_period: Autumn (on mature growth only)
+  text: 'An evergreen climbing plant that grows 20-30 m high where trees, cliffs or walls allow, and spreads
+    as ground cover where they do not; it climbs by aerial rootlets with matted pads that cling to the
+    surface. The alternate leaves are 5-10 cm long on stalks 1.5-2 cm long and come in two kinds: palmately
+    five-lobed juvenile leaves on creeping and climbing stems, and unlobed, heart-shaped adult leaves
+    on flowering stems in full sun. Small greenish-yellow flowers, rich in nectar, grow in rounded umbels
+    3-5 cm across from late summer to late autumn, followed by purple-black to orange-yellow berries 6-8
+    mm across.'
+  height: Climbs to 20-30 m where supported; also grows as ground cover
+  habit: Evergreen climber or ground cover
+  leaves: Alternate, 5-10 cm long; palmately five-lobed on juvenile stems, unlobed and heart-shaped on
+    adult flowering stems
+  flowers: Small, greenish-yellow, nectar-rich, in umbels 3-5 cm across
+  stem: Climbing by aerial rootlets with matted pads
+  fruit: Purple-black to orange-yellow berries 6-8 mm across; the leaves and fruits contain a saponin
+    glycoside that can cause breathing difficulties and coma if eaten
+  flowering_period: Late summer to late autumn
   reference_ids:
-  - REF-0472
+  - REF-3964
+  - REF-3269
   status: verified
 habitat:
   text: Grows as a climbing or ground-covering evergreen on trees, walls, buildings and woodland floors,
@@ -70,30 +75,41 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3269); the leaves are gathered in spring and early summer. Single lineage -> provisional."
 traditional_uses:
-  text: Ivy leaf has a long European folk history as an expectorant remedy for coughs and chest complaints,
-    and modern standardised leaf extracts are among the best-studied herbal treatments for acute bronchitis
-    and productive cough, shown in clinical trials to reduce cough severity and ease breathing.
+  text: In folk herbal medicine ivy was used especially for rheumatism, and applied externally to skin
+    eruptions, swollen tissue, painful joints, burns and festering cuts. The leaf has long been used for
+    cough and respiratory problems and is approved by the German Commission E. The EU herbal monograph
+    accepts ivy leaf extracts as an expectorant for productive cough on the basis of well-established
+    use, and in an open study in acute bronchitis an ivy-leaf syrup improved symptoms about as much as
+    acetylcysteine.
   reference_ids:
+  - REF-3269
+  - REF-0834
+  - REF-3963
   - REF-0472
   status: verified
 preparations:
-- name: Standardised dry extract (syrup/drops)
-  text: Leaf extract standardised to saponin (hederacoside C) content, formulated as a cough syrup or
-    drops; the well-studied clinical form for acute bronchitis and productive cough.
+- name: Leaf extract (syrup, drops, tablets)
+  text: Dry, liquid or soft extracts of the leaf made with ethanol (for example a dry extract 4-8:1 made
+    with 24-30% ethanol), taken by mouth in liquid or solid forms such as syrups; these are the preparations
+    the EU herbal monograph covers for productive cough. An ivy-leaf extract syrup (EA 575) was the form
+    tested against acetylcysteine in acute bronchitis.
   reference_ids:
+  - REF-3963
   - REF-0472
   status: verified
 - name: Infusion (traditional)
   text: Dried leaf infused in hot water, a traditional preparation predating standardised extracts.
   status: draft
 dosage:
-- name: Standardised extract (syrup)
-  text: Commercial standardised ivy-leaf syrups are typically dosed per product labelling (varying by
-    age); clinical trials show benefit within about 48 hours of starting treatment. Educational reference
-    only, not a prescription.
+- name: Dry leaf extract (EU herbal monograph)
+  text: For the dry extract 4-8:1 (24-30% ethanol), the EU herbal monograph gives adolescents and adults
+    15-65 mg one to three times daily (45-105 mg a day), children aged 6-11 years 11-35 mg two to three
+    times daily, and children aged 2-5 years 8-18 mg two to three times daily; other extracts have their
+    own doses. It is not for children under 2, and a doctor should be consulted if symptoms last more
+    than a week. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0472
-  status: draft
+  - REF-3963
+  status: verified
 actions:
 - action: antispasmodic
   note: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
@@ -223,4 +239,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical ef
   extract contracted stomach strips; kept in references). REF-0835 (ivy + Coptis two-herb mixture,
   animals) purged and deleted. Asthma: review of RCTs REF-3577 added as support, add-on RCT
   REF-3578 (primary outcomes null) as no-effect. REF-0834 retagged narrative-review. Notes now
-  state the updated SR REF-0833 finding (effects minimal at best).'
+  state the updated SR REF-0833 finding (effects minimal at best).
+  | 2026-11-19 (monograph-source audit): botanical_description, traditional_uses, preparations[0], dosage[0] and constituents[1] cited only REF-0472 (open study of an ivy syrup vs acetylcysteine), which does not describe the plant, its folk use, extract types, doses or flavonoids. RE-SOURCED: Wikipedia Hedera helix (REF-3964, new; Description section), PFAF REF-3269 (folk uses, toxicity), review REF-0834 (Commission E), EU herbal monograph rev. 2 (REF-3963, new; extracts, posology, under-2 contraindication), Rosca-Casian 2017 REF-2315 (rutin, quercetin, kaempferol). REF-0472 kept only for what it found (EA 575 syrup about as effective as acetylcysteine). Dropped as unsupported: woody root system, standardised to hederacoside C, benefit within about 48 hours, phenolic acids, antioxidant supporting constituents.'

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3710,
+ "count": 3728,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -53102,6 +53102,36 @@
    ]
   },
   {
+   "ref_id": "REF-3962",
+   "key": "avato2019harpagophytum",
+   "type": "article",
+   "title": "Quality Assessment of Commercial Spagyric Tinctures of Harpagophytum procumbens and Their Antioxidant Properties",
+   "authors": "Avato, P. and Argentieri, M.P.",
+   "journal": "Molecules",
+   "year": "2019",
+   "doi": "10.3390/molecules24122251",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31212908/",
+   "link": "https://doi.org/10.3390/molecules24122251",
+   "link_type": "doi",
+   "citation": "Avato, P. and Argentieri, M.P (2019) 'Quality Assessment of Commercial Spagyric Tinctures of Harpagophytum procumbens and Their Antioxidant Properties', Molecules, 24(12), pp. 2251. doi:10.3390/molecules24122251",
+   "abstract": "",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Quality Assessment of Commercial Spagyric Tinctures of Harpagophytum procumbens and Their Antioxidant Properties",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2797",
    "key": "kim2019lysimachia",
    "type": "article",
@@ -62058,6 +62088,30 @@
    "scientific": [
     "Artemisia absinthium"
    ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3963",
+   "key": "ema2017hederafolium",
+   "type": "misc",
+   "title": "European Union herbal monograph on Hedera helix L., folium, Revision 2",
+   "authors": "European Medicines Agency (HMPC)",
+   "journal": "",
+   "year": "2017",
+   "doi": "",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+   "link": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+   "link_type": "url",
+   "citation": "European Medicines Agency (HMPC) (2017) 'European Union herbal monograph on Hedera helix L., folium, Revision 2'. Available at: https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "European Union herbal monograph on Hedera helix L., folium, Revision 2",
+   "plants": [],
+   "scientific": [],
    "actions": [],
    "conditions": []
   },
@@ -89988,6 +90042,61 @@
    ]
   },
   {
+   "ref_id": "REF-3970",
+   "key": "who2009vitex",
+   "type": "book",
+   "title": "Fructus Agni Casti",
+   "authors": "World Health Organization",
+   "journal": "",
+   "year": "2009",
+   "doi": "",
+   "url": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVolume4",
+   "link": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVolume4",
+   "link_type": "url",
+   "citation": "World Health Organization (2009) 'Fructus Agni Casti'. Available at: https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVolume4",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Fructus Agni Casti",
+   "plants": [
+    "Agnus castus",
+    "Chaste tree",
+    "Chasteberry",
+    "Monk's pepper"
+   ],
+   "scientific": [
+    "Vitex agnus-castus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3969",
+   "key": "who2009myrtillus",
+   "type": "book",
+   "title": "Fructus Myrtilli",
+   "authors": "World Health Organization",
+   "journal": "",
+   "year": "2009",
+   "doi": "",
+   "url": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVolume4",
+   "link": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVolume4",
+   "link_type": "url",
+   "citation": "World Health Organization (2009) 'Fructus Myrtilli'. Available at: https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVolume4",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Fructus Myrtilli",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3724",
    "key": "lee2009ginsengalzheimer",
    "type": "article",
@@ -94158,6 +94267,30 @@
    ]
   },
   {
+   "ref_id": "REF-3967",
+   "key": "who2007schisandra",
+   "type": "book",
+   "title": "Fructus Schisandrae",
+   "authors": "World Health Organization",
+   "journal": "",
+   "year": "2007",
+   "doi": "",
+   "url": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol3",
+   "link": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol3",
+   "link_type": "url",
+   "citation": "World Health Organization (2007) 'Fructus Schisandrae'. Available at: https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol3",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Fructus Schisandrae",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2048",
    "key": "boh2007ganoderma",
    "type": "article",
@@ -94517,6 +94650,30 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3960",
+   "key": "who2007harpagophytum",
+   "type": "book",
+   "title": "Radix Harpagophyti",
+   "authors": "World Health Organization",
+   "journal": "",
+   "year": "2007",
+   "doi": "",
+   "url": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol3",
+   "link": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol3",
+   "link_type": "url",
+   "citation": "World Health Organization (2007) 'Radix Harpagophyti'. Available at: https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol3",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Radix Harpagophyti",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
    "conditions": []
   },
   {
@@ -102222,6 +102379,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3957",
+   "key": "who2002calendula",
+   "type": "book",
+   "title": "Flos Calendulae",
+   "authors": "World Health Organization",
+   "journal": "",
+   "year": "2002",
+   "doi": "",
+   "url": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol2",
+   "link": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol2",
+   "link_type": "url",
+   "citation": "World Health Organization (2002) 'Flos Calendulae'. Available at: https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol2",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Flos Calendulae",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3096",
    "key": "who2002ocimum",
    "type": "book",
@@ -102869,6 +103056,37 @@
    "display": "Herba Andrographidis",
    "plants": [],
    "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3968",
+   "key": "who2002tanacetum",
+   "type": "book",
+   "title": "Herba Tanaceti Parthenii",
+   "authors": "World Health Organization",
+   "journal": "",
+   "year": "2002",
+   "doi": "",
+   "url": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol2",
+   "link": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol2",
+   "link_type": "url",
+   "citation": "World Health Organization (2002) 'Herba Tanaceti Parthenii'. Available at: https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol2",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Herba Tanaceti Parthenii",
+   "plants": [
+    "Bachelor's buttons",
+    "Featherfew",
+    "Feverfew",
+    "Midsummer daisy"
+   ],
+   "scientific": [
+    "Tanacetum parthenium"
+   ],
    "actions": [],
    "conditions": []
   },
@@ -105918,6 +106136,30 @@
     "clinical"
    ],
    "display": "Radix Astragali",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3959",
+   "key": "who1999curcuma",
+   "type": "book",
+   "title": "Rhizoma Curcumae Longae",
+   "authors": "World Health Organization",
+   "journal": "",
+   "year": "1999",
+   "doi": "",
+   "url": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlants",
+   "link": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlants",
+   "link_type": "url",
+   "citation": "World Health Organization (1999) 'Rhizoma Curcumae Longae'. Available at: https://archive.org/details/WHOMonographsOnSelectedMedicinalPlants",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Rhizoma Curcumae Longae",
    "plants": [],
    "scientific": [],
    "actions": [],
@@ -111736,6 +111978,61 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3972",
+   "key": "wikipedia_bacopa_monnieri",
+   "type": "misc",
+   "title": "Bacopa monnieri",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Bacopa_monnieri",
+   "link": "https://en.wikipedia.org/wiki/Bacopa_monnieri",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Bacopa monnieri'. Available at: https://en.wikipedia.org/wiki/Bacopa_monnieri",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Bacopa monnieri",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3971",
+   "key": "fern_bacopa",
+   "type": "misc",
+   "title": "Bacopa monnieri (Useful Tropical Plants)",
+   "authors": "Fern, Ken",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://tropical.theferns.info/viewtropical.php?id=Bacopa+monnieri",
+   "link": "https://tropical.theferns.info/viewtropical.php?id=Bacopa+monnieri",
+   "link_type": "url",
+   "citation": "Fern, Ken 'Bacopa monnieri (Useful Tropical Plants)'. Available at: https://tropical.theferns.info/viewtropical.php?id=Bacopa+monnieri",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Bacopa monnieri (Useful Tropical Plants)",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3213",
    "key": "fern_betula",
    "type": "misc",
@@ -111972,6 +112269,30 @@
     "clinical"
    ],
    "display": "Buxus sempervirens (Common Boxwood)",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3958",
+   "key": "pfaf_calendula_officinalis",
+   "type": "misc",
+   "title": "Calendula officinalis (Pot Marigold)",
+   "authors": "Plants For A Future",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://pfaf.org/user/Plant.aspx?LatinName=Calendula+officinalis",
+   "link": "https://pfaf.org/user/Plant.aspx?LatinName=Calendula+officinalis",
+   "link_type": "url",
+   "citation": "Plants For A Future 'Calendula officinalis (Pot Marigold)'. Available at: https://pfaf.org/user/Plant.aspx?LatinName=Calendula+officinalis",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Calendula officinalis (Pot Marigold)",
    "plants": [],
    "scientific": [],
    "actions": [],
@@ -114708,6 +115029,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3961",
+   "key": "fern_harpagophytum",
+   "type": "misc",
+   "title": "Harpagophytum procumbens (Useful Tropical Plants)",
+   "authors": "Fern, Ken",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://tropical.theferns.info/viewtropical.php?id=Harpagophytum+procumbens",
+   "link": "https://tropical.theferns.info/viewtropical.php?id=Harpagophytum+procumbens",
+   "link_type": "url",
+   "citation": "Fern, Ken 'Harpagophytum procumbens (Useful Tropical Plants)'. Available at: https://tropical.theferns.info/viewtropical.php?id=Harpagophytum+procumbens",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Harpagophytum procumbens (Useful Tropical Plants)",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3385",
    "key": "ishs_rhodiola_harvest",
    "type": "article",
@@ -114798,6 +115149,30 @@
     "clinical"
    ],
    "display": "Hawthorn (Crataegus monogyna)",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3964",
+   "key": "wikipedia_hedera_helix",
+   "type": "misc",
+   "title": "Hedera helix",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Hedera_helix",
+   "link": "https://en.wikipedia.org/wiki/Hedera_helix",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Hedera helix'. Available at: https://en.wikipedia.org/wiki/Hedera_helix",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Hedera helix",
    "plants": [],
    "scientific": [],
    "actions": [],
@@ -116899,6 +117274,30 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3965",
+   "key": "wikipedia_pleurotus_ostreatus",
+   "type": "misc",
+   "title": "Pleurotus ostreatus",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Pleurotus_ostreatus",
+   "link": "https://en.wikipedia.org/wiki/Pleurotus_ostreatus",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Pleurotus ostreatus'. Available at: https://en.wikipedia.org/wiki/Pleurotus_ostreatus",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Pleurotus ostreatus",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2642",
    "key": "growforage_poison_hemlock",
    "type": "misc",
@@ -118333,6 +118732,30 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3966",
+   "key": "wikipedia_rosa_canina",
+   "type": "misc",
+   "title": "Rosa canina",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Rosa_canina",
+   "link": "https://en.wikipedia.org/wiki/Rosa_canina",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Rosa canina'. Available at: https://en.wikipedia.org/wiki/Rosa_canina",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Rosa canina",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3322",
    "key": "pfaf_rosa_canina",
    "type": "misc",
@@ -119533,6 +119956,54 @@
     "clinical"
    ],
    "display": "The Ultimate Guide to Growing Shiitake (Lentinula edodes) Mushrooms",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3974",
+   "key": "wikipedia_theobroma_cacao",
+   "type": "misc",
+   "title": "Theobroma cacao",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Theobroma_cacao",
+   "link": "https://en.wikipedia.org/wiki/Theobroma_cacao",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Theobroma cacao'. Available at: https://en.wikipedia.org/wiki/Theobroma_cacao",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Theobroma cacao",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3973",
+   "key": "fern_theobroma",
+   "type": "misc",
+   "title": "Theobroma cacao (Useful Tropical Plants)",
+   "authors": "Fern, Ken",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://tropical.theferns.info/viewtropical.php?id=Theobroma+cacao",
+   "link": "https://tropical.theferns.info/viewtropical.php?id=Theobroma+cacao",
+   "link_type": "url",
+   "citation": "Fern, Ken 'Theobroma cacao (Useful Tropical Plants)'. Available at: https://tropical.theferns.info/viewtropical.php?id=Theobroma+cacao",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Theobroma cacao (Useful Tropical Plants)",
    "plants": [],
    "scientific": [],
    "actions": [],

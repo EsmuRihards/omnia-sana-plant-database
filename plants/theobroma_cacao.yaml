@@ -13,38 +13,43 @@ parts_used:
 - Fruit
 - Seed
 botanical_description:
-  text: Small evergreen tree (Malvaceae), 4-8 m tall (up to 10 m unpruned), with a dense, spreading crown.
-    Leaves are large, glossy and oblong. Small pink-white flowers are borne directly on the trunk and
-    older branches (cauliflory), followed by large, ridged, football-shaped pods that ripen from green
-    to yellow/orange/red-purple, each containing 20-60 seeds (the cocoa beans) embedded in sweet white
-    pulp.
-  height: 4-8 m (up to 10 m unpruned)
-  habit: Small evergreen tree, cauliflorous (flowers/pods on the trunk)
-  leaves: Large, glossy, oblong
-  flowers: Small, pink-white, borne directly on the trunk and older branches
-  stem: Woody trunk, flowers and pods arising directly from it
-  root: Moderate, spreading root system
-  fruit: Large, ridged pod containing 20-60 seeds in sweet white pulp
-  flowering_period: Can flower year-round in tropical conditions
+  text: A small evergreen tree with a rounded crown, usually about 8 m tall but exceptionally up to 20
+    m, with a short trunk 20-30 cm across. The leaves are alternate, entire and unlobed, 10-50 cm long
+    and 5-10 cm broad. Small flowers 1-2 cm across, with a pink calyx, grow in clusters directly on the
+    trunk and older branches (cauliflory) and are pollinated by tiny midges. The fruit, the cacao pod,
+    is ovoid, 15-30 cm long and 8-10 cm wide, ripening yellow to orange and weighing about 500 g; it holds
+    20-60 seeds (the beans) in a white pulp.
+  height: Usually about 8 m; exceptionally up to 20 m
+  habit: Small evergreen tree with a rounded crown; flowers and pods grow on the trunk (cauliflory)
+  leaves: Alternate, entire, unlobed, 10-50 cm long and 5-10 cm broad
+  flowers: Small, 1-2 cm across, with a pink calyx, in clusters on the trunk and older branches; midge-pollinated
+  stem: Short trunk 20-30 cm across
+  fruit: Ovoid pod 15-30 cm long, ripening yellow to orange, about 500 g, holding 20-60 seeds in white
+    pulp
   reference_ids:
-  - REF-1084
+  - REF-3973
+  - REF-3974
   status: verified
 habitat:
-  text: Native to the tropical rainforest understorey of Central and South America (the Amazon and Orinoco
-    basins), now cultivated throughout the tropics within about 20 degrees of the equator (notably West
-    Africa, Southeast Asia and South America), requiring warm, humid, shaded conditions.
+  text: Native to South America (Brazil, Peru, Colombia and the Guianas) and Central America (Belize,
+    Guatemala and southern Mexico), where it is an understorey tree of evergreen rainforest in the wet
+    humid tropics, in places not usually flooded. It is widely cultivated in lowland tropical areas around
+    the world, usually below 300 m, where the mean annual temperature is 18-28.5 degrees C and 1,500-2,000
+    mm of rain falls through the year.
   reference_ids:
-  - REF-1084
+  - REF-3973
   status: verified
 harvesting:
-  text: Ripe pods are hand-harvested, cut open, and the seeds (with pulp) are removed, fermented for several
-    days - essential for developing chocolate flavour and reducing bitterness - then dried and roasted.
+  text: The seeds are taken from the ripe pods, which turn yellow to orange, and cured by pressing, fermenting
+    and then drying them. The cured seeds are roasted and ground to make cocoa, and cocoa butter is extracted
+    from them.
   parts:
   - Fruit
   - Seed
-  season: As pods ripen, largely year-round in the tropics
+  season: When the pods are ripe (yellow to orange)
   reference_ids:
-  - REF-1084
+  - REF-3973
+  - REF-3974
   status: verified
 harvest_readiness:
 - part: fruit
@@ -60,13 +65,18 @@ harvest_readiness:
   status: provisional
   notes: "Rojas et al., Heliyon 2020 (REF-3388), open access, tracking husk colour, firmness, weight, soluble solids and pH against ripeness state in three Theobroma cacao clones (ICS95, CCN51, TSH565). The paper's colour descriptors run from 'Purple to reddish color with 20% yellow grooves' to 'Reddish to yellow color with 60% yellow grooves' depending on clone, and it concludes that each clone carries its own set of ripeness parameters - which is why the signal here is the proportion turned rather than a single colour. Supersedes the earlier dead end (Useful Tropical Plants gave no pod-ripeness stage). The seed (cocoa bean) is extracted from these same harvested pods. Single lineage -> provisional."
 traditional_uses:
-  text: Cacao has an ancient Mesoamerican tradition (Maya and Aztec) as a ceremonial, medicinal and nutritive
-    beverage, valued as a stimulant tonic and considered sacred - 'food of the gods', reflected in the
-    genus name Theobroma. Modern research on its polyphenol (flavanol) content supports cardiovascular,
-    antioxidant, anti-inflammatory and neuroprotective/cognitive benefits, particularly from minimally
-    processed, high-flavanol cocoa.
+  text: Cacao was grown by the Maya and the Aztecs, who considered it a divine plant, drank it as a ritual
+    beverage and used the beans as currency; the trees also gave them medicine, fibre and building materials.
+    The genus name Theobroma is Greek for 'food of the gods'. In Central America and the Caribbean the
+    seed is used as a heart and kidney tonic, an infusion of the baked seed membranes is drunk for anaemia,
+    and cacao powder is taken for angina and high blood pressure; cocoa butter is used to soften damaged
+    skin. In a large randomised trial in older adults, a cocoa extract supplying 500 mg of flavanols a
+    day did not significantly reduce total cardiovascular events, though deaths from cardiovascular disease
+    were 27% lower.
   reference_ids:
-  - REF-1084
+  - REF-3973
+  - REF-3974
+  - REF-1085
   status: verified
 preparations:
 - name: Traditional cacao drink
@@ -76,24 +86,28 @@ preparations:
 - name: Cocoa powder
   text: Defatted, roasted, ground beans, used in modern beverages and food.
   status: draft
-- name: Dark chocolate (high cocoa content)
-  text: Minimally processed chocolate retaining more flavanols than milk chocolate.
+- name: Dark chocolate
+  text: Chocolate made from the roasted beans. Dark chocolate is considered one of the main sources of
+    antioxidants in the American diet after fruit and vegetables, but cocoa processing makes its polyphenol
+    content vary widely.
   reference_ids:
-  - REF-1084
+  - REF-1090
   status: verified
-- name: Standardised flavanol extract (capsule)
-  text: Concentrated extract used in some clinical cardiovascular research.
+- name: Cocoa flavanol extract
+  text: A cocoa extract supplement supplying a set amount of flavanols, the form tested in the COSMOS
+    trial of cardiovascular disease prevention.
   reference_ids:
   - REF-1085
   status: verified
 dosage:
 - name: Cocoa flavanol extract
-  text: Large clinical trials of cocoa flavanol supplementation for cardiovascular prevention have used
-    around 500 mg/day of cocoa flavanols. Educational reference only, not a prescription; treat concentrated
-    cacao as a mild stimulant (theobromine, some caffeine) and moderate intake accordingly, especially
-    in pregnancy, with heart-rhythm conditions, or on stimulant-sensitive medication.
+  text: The COSMOS trial in 21,442 older adults used a cocoa extract supplying 500 mg of flavanols a day,
+    including 80 mg of epicatechin, for a median of 3.6 years; it did not significantly reduce total cardiovascular
+    events, though cardiovascular deaths were 27% lower. Cacao seed contains stimulant xanthines. Educational
+    reference only, not a prescription.
   reference_ids:
   - REF-1085
+  - REF-3973
   status: verified
 constituents:
 - name: Methylxanthines (theobromine, caffeine)
@@ -106,11 +120,12 @@ constituents:
   - catechin
   - proanthocyanidin
   - flavonoid
-  note: The principal bioactive polyphenols, responsible for most of cacao's antioxidant and cardiovascular
-    activity.
+  note: Cocoa is rich in phenolic antioxidants, about 10% of the dry weight of the bean. The flavonoids
+    catechin, epicatechin and procyanidins predominate in its antioxidant activity, and epicatechin is
+    considered mainly responsible for its effect on the lining of the blood vessels, through nitric oxide.
   reference_ids:
-  - REF-1084
-  - REF-1085
+  - REF-0131
+  - REF-1090
 - name: Phenylethylamine
   note: A trace amine sometimes linked to cacao's reputed mood-elevating effects.
   reference_ids:
@@ -259,4 +274,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   removed from cardiovascular-support. 2021 SR REF-1084 (no BP/lipid effect in healthy people) and
   COSMOS REF-1085 (primary endpoint null) moved to no-effect. Cochrane BP review REF-3793 added.
   New pair (owner rule): high-blood-pressure (Cochrane + 2026 MA). Chocolate-cognition MA REF-3795
-  added. REF-0131 retagged narrative-review.'
+  added. REF-0131 retagged narrative-review.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting, traditional_uses, preparations[2] and constituents[1] cited REF-1084 (health-effects systematic review); preparations[3], dosage[0] and constituents[1] REF-1085 (COSMOS RCT). RE-SOURCED: Useful Tropical Plants (REF-3973, new) and Wikipedia (REF-3974, new) for the tree, range, curing and history; REF-0131 and REF-1090 for flavanols and dark chocolate; REF-1085 kept for what COSMOS reports (500 mg flavanols/day, primary endpoint not significant, CVD death -27%). Dropped as unsupported: 4-8 m, glossy leaves, pink-white flowers, red-purple pods, root system, year-round flowering and harvest, within 20 degrees of the equator, West Africa and Southeast Asia named, stimulant tonic, neuroprotective benefits, minimally processed, more flavanols than milk chocolate, capsule, the pregnancy and heart-rhythm caution (no source read states it).'

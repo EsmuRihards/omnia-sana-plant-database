@@ -44,11 +44,15 @@ botanical_description:
   - REF-0467
   status: verified
 habitat:
-  text: Native to the Indian subcontinent and tropical Asia, now cultivated and naturalised throughout
-    the tropics and subtropics worldwide; commonly grown in home gardens and temple courtyards as well
-    as cultivated as a medicinal and aromatic crop.
+  text: Native to the Indian subcontinent. The WHO monograph describes it as indigenous to India, parts
+    of northern and eastern Africa, Hainan Island and Taiwan, and cultivated in south-east Asia. Its range
+    extends across tropical Asia from China and the Indian subcontinent through Myanmar, Thailand, Indochina,
+    Malaysia, Indonesia and the Philippines to New Guinea and northern Australia, and it grows naturalised
+    in waste places, settled areas and thickets.
   reference_ids:
   - REF-0466
+  - REF-3096
+  - REF-3300
   status: verified
 harvesting:
   text: Leaves are harvested year-round from actively growing plants, ideally picked once morning dew
@@ -88,8 +92,11 @@ preparations:
   reference_ids:
   - REF-1429
   status: verified
-- name: Standardised extract capsule
-  text: Encapsulated dry-leaf extract, the form used in most clinical trials for stress, mood and sleep.
+- name: Standardised extract
+  text: A standardised extract taken by mouth. In an 8-week randomised trial in adults under stress, a
+    standardised Ocimum tenuiflorum extract (Holixer, 125 mg twice daily) improved perceived stress and
+    insomnia scores compared with placebo. A systematic review of human studies notes that the best dose
+    and dose form are still to be clarified.
   reference_ids:
   - REF-1427
   - REF-0466
@@ -99,10 +106,10 @@ preparations:
     at concentrated strength.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials for stress and mood have used standardised dry-extract capsules taken over several
-    weeks; dosing varies by product concentration, so follow the manufacturer's guidance. Educational
-    reference only, not a prescription.
+- name: Standardised extract (trial)
+  text: In an 8-week randomised trial in adults under stress, a standardised Ocimum tenuiflorum extract
+    (Holixer) was taken at 125 mg twice daily. A systematic review of 24 human studies concluded that
+    the dose and dose form still need to be clarified. Educational reference only, not a prescription.
   reference_ids:
   - REF-1427
   - REF-0466
@@ -321,4 +328,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   8880292); merged - blood-sugar now cites REF-2498, REF-3678 deleted, PMID added to REF-2498. WHO posology
   VERIFIED from the monograph text itself (archived PDF of WHO monographs Vol 2, web.archive.org snapshot
   2022-03-25 of iris 10665/42052, ''Folium Ocimi Sancti'', Posology: ''Daily dosage: 6-12 g crude drug as
-  a decoction''), so the Infusion (tea) dosage entry no longer rests on a stored summary.'
+  a decoction''), so the Infusion (tea) dosage entry no longer rests on a stored summary.
+  | 2026-11-19 (monograph-source audit): habitat cited only REF-0466 (clinical systematic review, which says only indigenous to the Indian continent); preparations[2] and dosage[0] cited REF-1427 + REF-0466 for claims they do not make (capsules, the form used in most trials, follow the manufacturer). habitat RE-SOURCED to WHO Folium Ocimi Sancti REF-3096 + PFAF REF-3300; prep/dosage rewritten to what the sources state (Holixer 125 mg twice daily for 8 weeks; the SR says dose and dose form are unclear). Dropped as unsupported: naturalised throughout the tropics worldwide, temple courtyards, capsules.'

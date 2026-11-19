@@ -34,25 +34,34 @@ constituents:
   reference_ids:
   - REF-0409
 botanical_description:
-  text: Low, deciduous, much-branched shrub with sharply angled green stems and small, oval, finely toothed
-    leaves. Small, pinkish-green, globe-shaped flowers are borne singly or in pairs, giving way to single,
-    dark blue-black berries with a distinctive crowned top.
-  height: 15-50 cm
-  habit: Low, deciduous, much-branched shrub
-  leaves: Small, oval, finely toothed, bright green, turning red in autumn
-  flowers: Small, pinkish-green, globe-shaped, borne singly or in pairs
-  stem: Sharply angled (winged), green, much-branched
-  root: Shallow, spreading rhizome
-  fruit: Single dark blue-black berry with a small crowned top, red-purple staining flesh
-  flowering_period: April-June
+  text: A trailing shrub 10-60 cm tall that forms large colonies from creeping rhizomes, with green, hairless,
+    three-angled twigs. The deciduous, alternate, short-stalked leaves are broadly elliptic to ovate,
+    10-30 mm long and 6-18 mm wide, finely toothed and bright green, with prominent veins underneath.
+    The flowers grow singly or in pairs in the leaf axils; the corolla is pale green or white to pink,
+    broadly urn-shaped to globe-shaped and 3-5 mm long. The fruit is a many-seeded, flattened-globose
+    berry 5-9 mm across, blue to black. It flowers from April to June, and the fruit ripens from July
+    to September.
+  height: 10-60 cm
+  habit: Trailing deciduous shrub forming large colonies from creeping rhizomes
+  leaves: Alternate, short-stalked, broadly elliptic to ovate, 10-30 x 6-18 mm, finely toothed, bright
+    green
+  flowers: Single or paired in the leaf axils; corolla pale green or white to pink, urn-shaped to globe-shaped,
+    3-5 mm long
+  stem: Green, hairless, three-angled twigs
+  root: Creeping rhizomes
+  fruit: Flattened-globose berry 5-9 mm across, blue to black, many-seeded
+  flowering_period: April to June; fruit ripens July to September
   reference_ids:
-  - REF-0408
+  - REF-3969
+  - REF-3361
   status: verified
 habitat:
-  text: Grows on acidic heaths, moorland and open coniferous woodland; native to Europe, northern Asia
-    and North America.
+  text: Heaths, moors and woods on acid soils, up to 1,250 m. Native to Europe, including Britain, from
+    Iceland south and east to Spain, North Macedonia, the Caucasus and northern Asia; the WHO monograph
+    also records it in the North American Rocky Mountains.
   reference_ids:
-  - REF-0408
+  - REF-3361
+  - REF-3969
   status: verified
 harvesting:
   text: Berries are hand-picked or gathered with a berry rake when fully ripe in mid-to-late summer.
@@ -261,4 +270,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Survey of Ophth
   no-effect; two placebo RCTs on screen-work eye fatigue added. REF-0409 (tagged rct; a review)
   retagged and removed from the venotonic action. Inflammation RCT REF-3835 added; 2025
   cardiometabolic MA REF-3836 (no cholesterol effect) no-effect for high-cholesterol. Four reviews
-  retagged narrative-review.'
+  retagged narrative-review.
+  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-0408 (clinical systematic review). RE-SOURCED: WHO Fructus Myrtilli vol. 4 (REF-3969, new) + PFAF REF-3361. Dropped as unsupported: leaves turning red in autumn, berry with a crowned top, red-purple staining flesh, open coniferous woodland, North America generally (WHO says the Rocky Mountains).'

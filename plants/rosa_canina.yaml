@@ -14,37 +14,43 @@ parts_used:
 - Petals
 - Seed
 botanical_description:
-  text: Scrambling, thorny deciduous shrub (Rosaceae), 1-5 m, with arching, prickly stems bearing hooked
-    thorns. Leaves are pinnate with 5-7 oval, toothed leaflets. Pale pink to white, five-petalled flowers
-    are followed by bright red-orange, egg-shaped hips (the fleshy hip is an accessory fruit; the true
-    fruits are small hairy achenes inside it) that ripen in autumn and often persist into winter.
-  height: 1-5 m
-  habit: Scrambling, thorny deciduous shrub
-  leaves: Pinnate, 5-7 oval, toothed leaflets
-  flowers: Pale pink to white, five-petalled
-  stem: Arching, prickly, with hooked thorns
-  root: Deep, woody root system
-  fruit: Bright red-orange, egg-shaped hip (accessory fruit) containing small hairy achenes
-  flowering_period: June-July; hips ripen August-October
+  text: A deciduous shrub usually 1-5 m tall that can scramble higher into the crowns of taller trees.
+    Its many arching stems are covered with small, sharp, hooked prickles that help it climb. The leaves
+    are pinnate with 5-7 leaflets and are fragrant when bruised. The sweet-scented flowers, 4-6 cm across
+    with five petals, are usually pale pink but range from deep pink to white, and open in June and July.
+    They ripen in September and October into oval, red-orange hips 1.5-2 cm long, which can stay on the
+    plant for months and turn black. A layer of irritant hairs surrounds the seeds just beneath the flesh
+    of the hip.
+  height: 1-5 m; can scramble higher into trees
+  habit: Deciduous shrub with arching, scrambling stems
+  leaves: Pinnate, with 5-7 leaflets, fragrant when bruised
+  flowers: Usually pale pink (deep pink to white), 4-6 cm across, five petals, sweet-scented
+  stem: Arching, covered in small, sharp, hooked prickles
+  fruit: Oval red-orange hip 1.5-2 cm long, ripe in September-October, can persist for months and turn
+    black; irritant hairs surround the seeds inside
+  flowering_period: June to July; hips ripen September to October
   reference_ids:
-  - REF-0990
+  - REF-3966
+  - REF-3322
   status: verified
 habitat:
-  text: Native throughout Europe, north-west Africa and western Asia, common in hedgerows, woodland edges,
-    scrub and roadside verges on a wide range of soils.
+  text: Native to Europe, including Britain, from Norway south and east to north-west Africa and south-west
+    Asia. It grows in hedges, scrub, woods, roadsides and banks.
   reference_ids:
-  - REF-0990
+  - REF-3322
+  - REF-3966
   status: verified
 harvesting:
-  text: Hips are picked in autumn once fully coloured, then dried for tea or powder, or processed fresh
-    for syrup. The fine, irritant hairs surrounding the seeds inside the hip must be removed before consumption.
+  text: The hips are usually harvested from late summer to early autumn (August to October), once ripe,
+    and are used raw or cooked in jams, jellies, syrups and teas. The layer of hairs around the seeds
+    irritates the mouth and digestive tract and must be removed.
   parts:
   - Fruit (hip)
   - Petals
   - Seed
-  season: Autumn
+  season: Late summer to early autumn (August to October)
   reference_ids:
-  - REF-0993
+  - REF-3322
   status: verified
 harvest_readiness:
 - part: fruit
@@ -70,17 +76,24 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3322); the seeds ripen in the autumn/early-winter hips (October-December). Single lineage -> provisional. (The petals, also a listed part, were not separately timing-sourced this pass - gathered in early summer while in flower.)"
 traditional_uses:
-  text: Rosehip has a long European folk tradition as a vitamin-C-rich tonic for colds and general immunity,
-    and as a mild diuretic and astringent for urinary and digestive complaints. Modern clinical trials
-    on standardised rosehip powder show a modest, reproducible benefit for osteoarthritis pain and stiffness.
+  text: The petals, hips and galls have been used as astringent, carminative, diuretic, laxative and tonic
+    remedies. The hips are taken for colds, influenza, minor infections, scurvy, diarrhoea and gastritis,
+    and a syrup of the hips is used to flavour medicines and cough mixtures; the hip shells contain 0.2-2.4%
+    vitamin C. In randomised trials a powder made from the seeds and shells of the hips reduced osteoarthritis
+    pain compared with placebo, a modest effect in a meta-analysis of three trials.
   reference_ids:
-  - REF-0990
+  - REF-3322
+  - REF-3106
+  - REF-3107
   - REF-0989
   status: verified
 preparations:
-- name: Rosehip powder (standardised, seedless)
-  text: The form used in osteoarthritis clinical trials.
+- name: Rosehip powder (seeds and shells)
+  text: A powder made from the seeds and shells of the hips of a Rosa canina subspecies (Hyben Vital)
+    is the form tested in randomised osteoarthritis trials, where it reduced pain compared with placebo.
   reference_ids:
+  - REF-3106
+  - REF-3107
   - REF-0989
   status: verified
 - name: Infusion/tea
@@ -94,24 +107,26 @@ preparations:
   status: draft
 dosage:
 - name: Rosehip powder
-  text: Clinical trials for osteoarthritis have most often used around 5 g/day of standardised rosehip
-    powder. Educational reference only, not a prescription.
+  text: In two randomised, placebo-controlled trials in osteoarthritis, 5 g a day of a powder made from
+    the seeds and shells of rose hips was taken for 3 months and reduced pain and stiffness. Educational
+    reference only, not a prescription.
   reference_ids:
-  - REF-0989
+  - REF-3106
+  - REF-3107
   status: verified
 constituents:
 - name: Vitamin C and carotenoids
   compounds:
   - carotenoid
   note: The hip is exceptionally rich in vitamin C and carotenoids, underpinning its traditional tonic
-    use. Quantified in commercial dried fruit at beta-carotene 7.25 mg/100 g and lycopene 2.34 mg/100 g
-    fresh weight.
+    use. Quantified in commercial dried fruit at beta-carotene 7.25 mg/100 g and lycopene 2.34 mg/100
+    g fresh weight.
   reference_ids:
   - REF-0993
   - REF-3112
-- name: Galactolipid (GOPO)
-  note: A specific galactolipid fraction studied as the likely active anti-inflammatory constituent in
-    osteoarthritis trials of standardised rosehip powder.
+- name: Galactolipids
+  note: Galactolipids are among the rose hip compounds, with phenolics, terpenoids, carotenoids, fruit
+    acids and fatty oils, that a systematic review considers jointly responsible for its effects in osteoarthritis.
   reference_ids:
   - REF-0990
 - name: Flavonoids and tannins
@@ -119,8 +134,8 @@ constituents:
   - flavonoid
   - tannin
   note: Contribute to antioxidant activity. Leaves carry a higher total phenolic, flavonoid and phenolic-acid
-    content than the hips, and leaf infusions were the only preparation to show antibacterial activity in
-    vitro.
+    content than the hips, and leaf infusions were the only preparation to show antibacterial activity
+    in vitro.
   reference_ids:
   - REF-0992
   - REF-3113
@@ -307,4 +322,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   by frost) + seed (Oct-Dec), both provisional: PFAF REF-3322; petals deferred. Single lineage. Binomial
   confirmed.
   | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit. RA add-on RCT REF-3734
-  added to arthritis. Notes rewritten.'
+  added to arthritis. Notes rewritten.
+  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-0990 (osteoarthritis mechanism review), harvesting only REF-0993 (Chilean fruit chemistry), traditional_uses REF-0990 + REF-0989, preparations[0]/dosage[0] only REF-0989 (meta-analysis; abstract gives no dose). RE-SOURCED: Wikipedia Rosa canina (REF-3966, new), PFAF REF-3322 (range, habitat, harvest, irritant seed hairs, medicinal uses, vitamin C 0.2-2.4%), trials Winther 2005 REF-3106 and Rein 2004 REF-3107 (5 g/day of a SEEDS-AND-SHELLS powder for 3 months). Corrected: the trial powder was labelled seedless; it contains seeds and shells. constituents[1] kept on REF-0990 but rewritten to what it says (galactolipids among jointly responsible compounds; GOPO is not named in the abstract). Dropped as unsupported: toothed oval leaflets, deep woody root, accessory-fruit wording, wide range of soils, dried for powder, vitamin-C tonic for general immunity.'

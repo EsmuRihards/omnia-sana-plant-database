@@ -24,34 +24,42 @@ constituents:
   - REF-0444
   - REF-0443
   - REF-0562
-- name: Phenylethanoids (acteoside/verbascoside) and flavonoids
+- name: Phenylethanoid glycosides (acteoside, isoacteoside) and flavonoids
   compounds:
   - verbascoside
   - flavonoid
-  note: Antioxidant supporting constituents.
+  note: In devil's claw root tinctures the isomers acteoside (verbascoside) and isoacteoside were the
+    main compounds after harpagoside. The root also contains flavonoids, phytosterols, sugars and harpagoquinone.
   reference_ids:
-  - REF-0443
+  - REF-3962
+  - REF-3961
 botanical_description:
-  text: Low-growing, sprawling perennial herb with trailing stems and deeply lobed, greyish-green leaves
-    arising from a large, fleshy primary taproot bearing smaller secondary storage tubers (the part used
-    medicinally). Striking funnel-shaped, purplish-pink to violet flowers give way to a distinctive woody
-    fruit covered in long, hooked spines - the origin of the common name.
-  height: Trailing stems to 1.5 m, low-growing
-  habit: Low-growing, sprawling perennial herb
-  leaves: Deeply lobed, greyish-green
-  flowers: Funnel-shaped, purplish-pink to violet
-  stem: Trailing, sprawling stems
-  root: Large primary taproot with smaller secondary storage tubers (the medicinal part)
-  fruit: Woody capsule covered in long, hooked spines ('devil's claw')
-  flowering_period: Summer (during the rainy season)
+  text: A prostrate, sprawling, mat-forming perennial herb up to 1.5 m across, with annual stems growing
+    from a stout perennial rootstock that bears a group of secondary storage tubers up to 6 cm thick,
+    with yellowish-brown, lengthwise-striated bark; these secondary tubers are the part used medicinally.
+    The leaves are pinnately lobed and covered in glandular hairs, densely hairy underneath. The solitary
+    flowers rise from the leaf axils, with a tubular pink-purple corolla up to 7 cm long. The fruits are
+    large, hooked, claw-like capsules whose edges carry two rows of woody arms up to 8 cm long with recurved
+    spines.
+  height: Prostrate; spreading up to 1.5 m across
+  habit: Prostrate, sprawling, mat-forming perennial herb with annual stems
+  leaves: Pinnately lobed, covered in glandular hairs, densely hairy underneath
+  flowers: Solitary in the leaf axils; corolla tubular, pink-purple, up to 7 cm long
+  stem: Annual, prostrate stems from a perennial rootstock
+  root: Stout perennial rootstock bearing secondary storage tubers up to 6 cm thick (the medicinal part)
+  fruit: Large, hooked, claw-like capsule edged with two rows of woody arms up to 8 cm long bearing recurved
+    spines
   reference_ids:
-  - REF-0443
+  - REF-3960
+  - REF-3961
   status: verified
 habitat:
-  text: Native to the dry savannas and semi-desert regions of southern Africa, particularly the Kalahari
-    Desert region of Namibia, Botswana and South Africa.
+  text: Indigenous to the Kalahari desert and the savannas of southern Angola, Botswana, Namibia and South
+    Africa. It thrives in clay or sandy soils in arid regions with 200-600 mm of annual rain, preferring
+    roadsides and waste ground, especially where the natural vegetation has been cleared.
   reference_ids:
-  - REF-0443
+  - REF-3960
+  - REF-3961
   status: verified
 harvesting:
   text: The secondary root tubers are dug by hand, sliced and dried in the sun, traditionally by local
@@ -74,12 +82,17 @@ harvest_readiness:
   status: provisional
   notes: "Wikipedia (REF-3378) gives the harvested organ and the rain-driven growth cycle that bounds when a plant can be located. NO source found states a harvest month or a dormancy-stage rule, so none is asserted: the FAO/CRIAA certification study on Namibian devil's claw covers trade and certification only, Useful Tropical Plants has no harvest stage, SANBI PlantZAfrica gives dormancy but not harvest, and the Herbal Reality Kalahari account describes technique ('leave the thick root and primary tuber intact') without a season. Devil's claw is CITES Appendix II and permits are required in Namibia, Botswana and South Africa. Single lineage -> provisional."
 traditional_uses:
-  text: Devil's claw has a long southern African traditional-medicine history as a remedy for fever, pain
-    and digestive complaints, and is now one of the most clinically studied herbal analgesics for osteoarthritis
-    and chronic low back pain, with standardised extracts showing efficacy comparable to some conventional
-    analgesics in trials.
+  text: Devil's claw is a traditional medicine of the Kalahari region of southern Africa, taken as a general
+    health tonic and for arthritis, pain, fever, ulcers and boils; other local uses include indigestion,
+    blood diseases, urinary tract infections, pain after childbirth, sprains and sores, prepared as infusions,
+    decoctions, tinctures, powders and extracts. In Western herbalism the bitter root is taken for digestive
+    problems and for arthritis and rheumatism. The WHO monograph lists loss of appetite, indigestion and
+    supportive treatment of degenerative rheumatism, painful arthrosis and tendonitis as pharmacopoeial
+    uses, and pain associated with rheumatic conditions as a use supported by clinical data.
   reference_ids:
-  - REF-0443
+  - REF-1829
+  - REF-3961
+  - REF-3960
   status: verified
 preparations:
 - name: Standardised extract
@@ -260,4 +273,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standar
   | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. Cochrane LBP 2014
   REF-1261 ("seem to reduce pain more than placebo", moderate quality at best) added to back-pain
   and pain. OA RCT vs diacerhein REF-3576 added to arthritis (11143915 is the same trial in
-  another journal - not added twice). Notes simplified.'
+  another journal - not added twice). Notes simplified.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, traditional_uses and constituents[1] cited only REF-0443 (Natural Standard systematic review; abstract has no content on the plant). RE-SOURCED: WHO monograph Radix Harpagophyti vol. 3 (REF-3960, new; archive.org text), Useful Tropical Plants (REF-3961, new), ethnobotany review REF-1829, Avato 2019 (REF-3962, new; acteoside and isoacteoside after harpagoside in root tinctures). Dropped as unsupported: greyish-green leaves, funnel-shaped violet flowers, flowering in the rainy season, standardised extracts as effective as some conventional analgesics, antioxidant supporting constituents.'

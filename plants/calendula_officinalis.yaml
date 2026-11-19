@@ -13,35 +13,48 @@ parts_used:
 - Flower
 - Petals
 botanical_description:
-  text: Aromatic annual or short-lived perennial herb with soft, hairy, oblong leaves and branching, slightly
-    sticky stems. The flower heads are bright orange to yellow, daisy-like, with numerous narrow ray florets
-    surrounding a darker central disc, opening in sunlight and closing at dusk.
+  text: A very aromatic annual herb, much branched from the base and 30-60 cm tall, with angular, hairy,
+    solid stems. The leaves are stalkless and light green, with glandular hairs on both surfaces; the
+    lower leaves are spoon-shaped and 10-20 cm long, the upper ones oblong and 4-7 cm long. The flower
+    heads sit in bracts covered with long glandular hairs; the strap-shaped ray florets are bright yellow
+    or orange and 15-25 mm long, and in cultivated plants often form several rows. The flowers close in
+    the dark and when rain is expected. The fruits are narrowly oblong, strongly curved achenes 10-12
+    mm long, the outer ones warty-ribbed and the inner ones prickly-warty.
   height: 30-60 cm
-  habit: Erect, branching annual or short-lived perennial herb
-  leaves: Soft, hairy, oblong to lance-shaped
-  flowers: Bright orange to yellow, daisy-like flower heads with numerous narrow ray florets
-  stem: Branching, softly hairy, slightly sticky
-  root: Shallow taproot
-  fruit: Curved, ridged achene, without pappus
-  flowering_period: June to first frost
+  habit: Very aromatic annual herb, much branched from the base
+  leaves: Stalkless, light green, with glandular hairs on both surfaces; lower leaves spoon-shaped, 10-20
+    cm long; upper leaves oblong, 4-7 cm long
+  flowers: Flower heads with glandular-hairy bracts; ray florets bright yellow or orange, 15-25 mm long,
+    often in several rows in cultivated plants; they close in the dark and when rain is expected
+  stem: Angular, hairy and solid
+  fruit: Narrowly oblong, strongly curved achenes 10-12 mm long; outer ones warty-ribbed, inner ones prickly-warty
+  flowering_period: June to November
   reference_ids:
-  - REF-0752
+  - REF-3957
+  - REF-3958
+  - REF-3217
   status: verified
 habitat:
-  text: Widely cultivated as a garden and medicinal plant; believed native to southern Europe and the
-    Mediterranean, now naturalised in gardens and waste ground worldwide.
+  text: Not known in the wild; it probably originated in the Mediterranean region. It occurs as a garden
+    escape on waste, cultivated and arable land and along roadsides, and is cultivated commercially in
+    North America, the Balkans, Eastern Europe and Germany. The WHO monograph describes it as indigenous
+    to central, eastern and southern Europe.
   reference_ids:
-  - REF-0752
-  status: draft
+  - REF-3217
+  - REF-3958
+  - REF-3957
+  status: verified
 harvesting:
-  text: The flower heads (or just the ray-floret petals) are picked by hand as they open, through the
-    flowering season, and dried quickly in a warm, shaded, airy place to preserve colour and resin content.
+  text: The flowers are used fresh or dried. For drying they are picked when fully open and dried quickly
+    in the shade. The medicinal material is the dried ray florets (the petals) or the whole flower heads.
   parts:
   - Flower
   - Petals
-  season: Through the flowering season (summer to autumn), as flowers open
+  season: When the flowers are fully open; the plant flowers from June to November
   reference_ids:
-  - REF-0752
+  - REF-3217
+  - REF-3957
+  - REF-3958
   status: verified
 harvest_readiness:
 - part: flower
@@ -56,23 +69,31 @@ harvest_readiness:
   status: provisional
   notes: "Useful Temperate Plants (REF-3217) for Calendula officinalis. Both parts_used labels (Flower and Petals) resolve to the flower head, picked when fully open. Single source -> provisional."
 traditional_uses:
-  text: Calendula flower is one of the most widely used topical wound-healing and skin-soothing herbs
-    in Western herbal medicine, applied to cuts, grazes, minor burns and skin inflammation, and used internally
-    as a gentle anti-inflammatory and antimicrobial remedy and as a gargle for mouth and throat irritation.
+  text: In pharmacopoeial and traditional medicine calendula flowers are applied externally to superficial
+    cuts, wounds, leg ulcers and minor inflammations of the skin and of the lining of the mouth. Folk
+    medicine also used them for amenorrhoea, angina, fevers, gastritis, low blood pressure, jaundice,
+    rheumatism and vomiting, uses the WHO monograph notes are not supported by experimental or clinical
+    data. The EU herbal monograph accepts traditional use for minor skin inflammation such as sunburn,
+    as an aid in healing minor wounds, and for minor inflammation in the mouth or throat.
   reference_ids:
-  - REF-0752
+  - REF-3957
+  - REF-3065
   status: verified
 preparations:
 - name: Infused oil
-  text: Dried petals infused in a carrier oil, used as a soothing base for topical creams and balms for
-    skin healing.
+  text: An oily extract of the flowers, 1 part flower to 10 parts of a fatty vegetable oil such as olive
+    oil, is one of the herbal preparations the EU herbal monograph lists for use on the skin.
   reference_ids:
-  - REF-0752
+  - REF-3065
   status: verified
 - name: Cream/ointment
-  text: Standardised flower extract formulated into a cream or ointment for topical wound and skin care;
-    the best-studied modern form.
+  text: Flower preparations made into creams and ointments for use on the skin. The WHO monograph gives
+    ointments of 2-5%, and the EU herbal monograph semi-solid forms containing the equivalent of 2-10%
+    of the flower. Topical calendula extract is the form tested in wound-healing studies, with mixed results
+    in a systematic review.
   reference_ids:
+  - REF-3957
+  - REF-3065
   - REF-0752
   status: verified
 - name: Infusion
@@ -102,23 +123,26 @@ constituents:
   compounds:
   - triterpene-saponin
   - saponin
-  note: Principal wound-healing and anti-inflammatory constituents of the flower.
+  note: 'The major constituents of the flower: triterpene saponins (2-10%) based on oleanolic acid, the
+    calendulosides.'
   reference_ids:
-  - REF-0752
+  - REF-3957
 - name: Flavonoids and carotenoids
   compounds:
   - flavonoid
   - carotenoid
-  note: Antioxidant flavonoids and carotenoids give the flower its orange-yellow colour and contribute
-    to its antioxidant activity.
+  note: Flavonoids, the 3-O-glycosides of isorhamnetin and quercetin (including astragalin, hyperoside,
+    isoquercitrin and rutin), are among the major constituents; carotenoids are also present.
   reference_ids:
-  - REF-2124
-- name: Essential oil and resin
+  - REF-3957
+  - REF-0753
+- name: Essential oil, sesquiterpenes and triterpenes
   compounds:
   - essential-oil
-  note: Minor aromatic and resinous constituents of the flower head.
+  note: Other constituents include essential oil, sesquiterpenes such as caryophyllene, and triterpenes
+    such as alpha- and beta-amyrin, lupeol and lupenone; polysaccharides have also been reported.
   reference_ids:
-  - REF-0752
+  - REF-3957
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -304,4 +328,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   contact-dermatitis RCT REF-3474 and diaper-dermatitis RCT REF-3475 added; 2021 radiation RCT
   REF-3476 (no difference from sorbolene) recorded as no-effect. Hand-wound RCT REF-3477 added to
   wounds. Held VVC RCT REF-0754 wired to infection. Owner answer (batch 3): systematic reviews of
-  lab/animal studies keep scoring as SRs - REF-2124 (cancer) left as tagged.'
+  lab/animal studies keep scoring as SRs - REF-2124 (cancer) left as tagged.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting, traditional_uses, preparations[0-1] and constituents[0-2] all cited only REF-0752 (wound-healing systematic review) or REF-2124 (cancer review), neither of which describes the plant, its range, chemistry or preparations. RE-SOURCED: WHO monograph Flos Calendulae vol. 2 (REF-3957, new; read from the archive.org text), PFAF (REF-3958, new; flowering June-November), Useful Temperate Plants REF-3217 (range, habitat, flowers close in the dark, harvest), EU monograph REF-3065 (oil extract 1:10, semi-solid 2-10%, traditional indications), REF-0753 (carotenoids). Dropped as unsupported: short-lived perennial, slightly sticky stems, darker central disc, shallow taproot, achene without pappus, flowering to first frost, naturalised worldwide, dried in a warm airy place to preserve resin, used internally as an anti-inflammatory and antimicrobial remedy, resin, best-studied modern form, carotenoids give the colour. Sources disagree on origin: WHO says indigenous to central, eastern and southern Europe; PFAF/Fern say not known in the wild, probably Mediterranean. Both stated.'

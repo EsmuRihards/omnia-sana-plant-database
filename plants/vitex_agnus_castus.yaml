@@ -19,12 +19,14 @@ constituents:
   reference_ids:
   - REF-0435
   - REF-1613
-- name: Flavonoids (casticin, vitexin)
+- name: Flavonoids (casticin and others)
   compounds:
   - flavonoid
-  note: Antioxidant constituents of the fruit.
+  note: Flavonoids are a major group of secondary constituents of the fruit; casticin, at up to 0.2%,
+    is considered the main one, with chrysosplenetin, chrysosplenol D, cynaroside, isorhamnetin, luteolin
+    and isoorientin derivatives among the others.
   reference_ids:
-  - REF-0433
+  - REF-3970
 - name: Iridoid glycosides (agnuside, aucubin)
   compounds:
   - iridoid-glycoside
@@ -34,25 +36,32 @@ constituents:
   - REF-0434
   - REF-1614
 botanical_description:
-  text: Deciduous shrub or small tree with slender, aromatic, palmately compound leaves of narrow, lance-shaped
-    leaflets, greyish-downy beneath. Small, fragrant, lilac to violet flowers are borne in long, slender
-    terminal spikes, followed by small, dark, peppercorn-like berries with a peppery, aromatic taste.
-  height: 2-6 m
-  habit: Deciduous shrub or small tree
-  leaves: Palmately compound, narrow lance-shaped leaflets, greyish-downy beneath, aromatic
-  flowers: Small, fragrant, lilac to violet, in long slender terminal spikes
-  stem: Slender, aromatic branches
-  root: Woody root system
-  fruit: Small, dark, peppercorn-like berry with a peppery, aromatic taste (the medicinal part)
-  flowering_period: July-September
+  text: A small tree or deciduous shrub about 1-6 m tall with an aromatic smell. The opposite, long-stalked
+    leaves are palmately compound, with 3-9 narrow, lance-shaped leaflets 1.5-10 cm long and 0.5-2 cm
+    wide, the central one the longest; they are dark green and hairless above and velvety white-hairy
+    below, with entire or sparsely toothed margins. Lavender, blue, pink, yellowish or white two-lipped
+    flowers grow in terminal spikes (panicles) 12-17.5 cm long in midsummer, or late summer in cooler
+    climates. The fruit is a small globose, reddish drupe 2-4 mm across; the dried ripe fruit is the medicinal
+    part.
+  height: About 1-6 m
+  habit: Small tree or deciduous shrub with an aromatic smell
+  leaves: Opposite, long-stalked, palmately compound with 3-9 lance-shaped leaflets 1.5-10 cm long, dark
+    green above and velvety white-hairy below
+  flowers: Terminal spikes 12-17.5 cm long; corolla lavender, blue, pink, yellowish or white, two-lipped,
+    tube 6-7 mm long
+  fruit: Globose to subglobose reddish drupe 2-4 mm across (the medicinal part)
+  flowering_period: Midsummer; late summer in cooler climates
   reference_ids:
-  - REF-0433
+  - REF-3970
+  - REF-3390
   status: verified
 habitat:
-  text: Native to the Mediterranean region and Central Asia, growing along riverbanks, streamsides and
-    coastal scrub; widely cultivated in warm-temperate climates worldwide.
+  text: Native to the Mediterranean region and Asia. It is cultivated in warm-temperate and subtropical
+    regions of the world, and the medicinal fruit comes mainly from Mediterranean countries, especially
+    Albania and Morocco.
   reference_ids:
-  - REF-0433
+  - REF-3970
+  - REF-3390
   status: verified
 harvesting:
   text: The ripe berries are collected in autumn once they have darkened and dried, then further dried
@@ -76,19 +85,27 @@ harvest_readiness:
   status: verified
   notes: "NC State Extension Gardener Plant Toolbox (REF-3389), which gives the fruit and a fruiting season of autumn - 'small, purple, globose drupes are present in the fall' - confirmed by Wikipedia (REF-3390) from an independent prism. Supersedes the earlier dead end (PFAF gave no fruit timing and noted seed may not ripen in cool climates). The chaste tree flowers late, so in cool-summer regions the fruit may never colour; where it does not, there is nothing to gather."
 traditional_uses:
-  text: Chasteberry has a long Mediterranean tradition, reflected in its 'chaste tree' name, historically
-    used to reduce libido in monastic settings, and, more centrally to its modern use, as a traditional
-    women's tonic for menstrual irregularities, premenstrual complaints and cyclical breast tenderness;
-    standardised extracts are now among the best-clinically-studied herbal remedies for premenstrual syndrome,
-    acting via dopaminergic modulation of prolactin.
+  text: Known as chaste tree and monk's pepper, the fruit was used in traditional medicine as an anaphrodisiac,
+    contraceptive, emmenagogue, sedative and tonic. Pharmacopoeias and well-established documents describe
+    its use for endometrial hyperplasia, absent or heavy periods, infertility linked to high prolactin
+    or a short luteal phase, acne and other hormone-related skin conditions, and as a digestive aid, sedative
+    and for hot flushes. WHO lists premenstrual syndrome, menstrual irregularities, cyclical breast pain,
+    corpus luteum insufficiency, high prolactin and hormonal acne as uses supported by clinical data,
+    and a systematic review found Vitex extracts better than placebo for premenstrual syndrome in most
+    trials. Fruit extracts act as dopamine agonists in laboratory and animal studies.
   reference_ids:
+  - REF-3390
+  - REF-3970
   - REF-0433
   status: verified
 preparations:
-- name: Standardised extract
-  text: Dried fruit extract standardised to agnuside/casticin content, taken as tablets or capsules; the
-    form used in most clinical PMS and cyclical breast pain trials.
+- name: Fruit extract (tablets)
+  text: Dry extracts of the fruit, some standardised to about 0.6-1.0% casticin, are taken as tablets,
+    usually once each morning; fluid extracts and tinctures are also used. Vitex extracts were the form
+    tested in the randomised trials of premenstrual syndrome, premenstrual dysphoric disorder and latent
+    hyperprolactinaemia in a systematic review.
   reference_ids:
+  - REF-3970
   - REF-0433
   status: verified
 - name: Decoction
@@ -98,12 +115,14 @@ preparations:
   text: Alcoholic extract of the dried berries.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials for PMS commonly use extracts providing around 20-40 mg of dried fruit extract
-    daily, taken over several menstrual cycles for full effect. Educational reference only, not a prescription.
+- name: Dry fruit extract (WHO monograph)
+  text: For premenstrual syndrome the WHO monograph gives one tablet containing 20 mg of a dry native
+    extract (6-12:1, about 0.6% casticin) daily with water. Other dry extracts are given as one tablet
+    of 2.6-4.2 mg each morning, and hydroalcoholic extracts in amounts corresponding to 30-40 mg of dried
+    fruit. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0433
-  status: draft
+  - REF-3970
+  status: verified
 indications:
 - condition: menopause
   reference_ids:
@@ -230,4 +249,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica e
   homeopathic combination REF-1610 and a hyperprolactinaemia review REF-0435 removed. 2019 MA
   REF-1607 ("most trials cannot be used as evidence") moved to no-effect for PMS; four placebo
   RCTs (Schellenberg 2001 BMJ, two Chinese BNO 1095 trials, Ze 440) added. Gaps:
-  menstrual-bleeding MA REF-3115 found no effect (no heavy-bleeding pair).'
+  menstrual-bleeding MA REF-3115 found no effect (no heavy-bleeding pair).
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, traditional_uses, constituents[1], preparations[0] and dosage[0] cited only REF-0433 (systematic review of clinical trials). RE-SOURCED: WHO Fructus Agni Casti vol. 4 (REF-3970, new; description, distribution, flavonoids, uses, posology) + Wikipedia REF-3390 (monk''s pepper, lavender midsummer spikes, cultivation); REF-0433 kept for the PMS trial finding. Corrected: vitexin is not among the fruit flavonoids WHO lists (casticin is the main one); the fruit is a small reddish drupe, not a dark peppercorn-like berry. Dropped as unsupported: riverbanks and coastal scrub, Central Asia, woody root, flowering July-September, monastic use to reduce libido, 20-40 mg extract over several cycles, agnuside standardisation, antioxidant role.'

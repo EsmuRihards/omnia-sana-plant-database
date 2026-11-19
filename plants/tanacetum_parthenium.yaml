@@ -25,42 +25,51 @@ constituents:
   - REF-0553
   - REF-1579
   - REF-1580
-- name: Flavonoids and essential oil
+- name: Flavonoids, monoterpenes and polyacetylenes
   compounds:
-  - essential-oil
   - flavonoid
-  note: Supporting antioxidant and aromatic constituents.
+  - terpene
+  note: Besides parthenolide and the other sesquiterpene lactones (more than 45 sesquiterpenes have been
+    identified), monoterpenes, flavonoids and polyacetylenes have been detected in feverfew.
   reference_ids:
-  - REF-0450
+  - REF-3968
 botanical_description:
-  text: Aromatic perennial herb (Asteraceae), 20-60 cm tall, with much-branched, downy stems. Leaves are
-    yellow-green, bipinnately divided and strongly scented. Small, daisy-like flower heads have white
-    ray florets and a flat yellow disc, borne in loose clusters.
-  height: 20-60 cm
-  habit: Erect, much-branched, aromatic perennial herb
-  leaves: Yellow-green, bipinnately divided, strongly scented
-  flowers: Small, daisy-like, white ray florets around a flat yellow disc
-  stem: Much-branched, downy
-  root: Fibrous perennial rootstock
-  fruit: Small ribbed achenes (typical Asteraceae)
-  flowering_period: June-September
+  text: A perennial herb 30-90 cm tall with more or less branched stems up to 5 mm thick. The alternate,
+    stalked leaves are greenish-yellow, 2-5 cm (sometimes up to 10 cm) long, deeply divided (pinnatisect
+    to bipinnate) and more or less hairy on both sides. The flower heads, 1.2-2.2 cm across on long stalks,
+    are grouped 5-30 together in wide, flat-topped clusters; each has a centre of yellow, tubular, five-toothed
+    disc florets and a ring of white ray florets 2-7 mm long. The fruit is a brown achene 1.2-1.5 mm long
+    with 5-10 white ribs. It flowers in July and August.
+  height: 30-90 cm
+  habit: Perennial herb with more or less branched stems
+  leaves: Alternate, stalked, greenish-yellow, 2-5 cm (up to 10 cm) long, pinnatisect to bipinnate, more
+    or less hairy on both sides
+  flowers: Heads 1.2-2.2 cm across, 5-30 in wide flat-topped clusters; yellow tubular disc florets and
+    white ray florets 2-7 mm long
+  stem: More or less branched, up to 5 mm thick
+  fruit: Brown achene 1.2-1.5 mm long with 5-10 white ribs
+  flowering_period: July to August
   reference_ids:
-  - REF-0553
+  - REF-3968
+  - REF-3347
   status: verified
 habitat:
-  text: Native to the Balkans and Caucasus region, now naturalised across Europe, North America and elsewhere;
-    grows on disturbed ground, walls, roadsides and waste places, and is widely cultivated.
+  text: Indigenous to south-east Europe as far east as the Caucasus, and now common throughout Europe
+    and the United States; naturalised in Britain. It grows in mountain scrub, on rocky slopes, walls
+    and waste places, and as a garden weed, avoiding acid soils.
   reference_ids:
-  - REF-0450
+  - REF-3968
+  - REF-3347
   status: verified
 harvesting:
-  text: Leaves (aerial parts) are gathered during the growing season, ideally at flowering, and dried
-    or used fresh.
+  text: The plant is gathered as it comes into flower and can be dried for later use; the medicinal material
+    is the dried leaves or aerial parts.
   parts:
   - Leaf (aerial parts)
-  season: Growing season, ideally at flowering
+  season: As it comes into flower (July to August)
   reference_ids:
-  - REF-0553
+  - REF-3347
+  - REF-3968
   status: verified
 harvest_readiness:
 - part: leaf
@@ -75,20 +84,28 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3347); the leaf/flowering herb is gathered as the plant comes into flower (in flower July-August). Single lineage -> provisional."
 traditional_uses:
-  text: Feverfew has a long European folk tradition, its name derived from 'febrifuge' (fever-reducer),
-    as a remedy for fevers, headaches and joint pain. Modern use and clinical research focus on migraine
-    prevention, with parthenolide identified as the key active compound responsible for inhibiting the
-    inflammatory pathways implicated in migraine.
+  text: In folk medicine feverfew was taken for fevers, colds, arthritis and rheumatism, and for anaemia,
+    asthma, indigestion, constipation, diarrhoea, painful periods, oedema, sciatica, toothache, tinnitus
+    and vertigo; a tea of the whole plant was used for arthritis, colds and fevers, and an infusion to
+    bathe swollen feet. The WHO monograph notes that these folk uses are not supported by experimental
+    or clinical data, and that a trial in rheumatoid arthritis found no benefit. Its main modern use is
+    preventing migraine, which WHO lists as supported by clinical data; a Cochrane review found the evidence
+    mixed and of low quality, with the largest trial showing 0.6 fewer attacks a month than placebo.
   reference_ids:
+  - REF-3968
+  - REF-3347
   - REF-0450
   status: verified
 preparations:
 - name: Fresh leaf (chewed, traditional)
   text: A few fresh leaves chewed daily - the classic, though mouth-irritating, traditional preparation.
   status: draft
-- name: Standardised leaf extract (capsule)
-  text: Freeze-dried or standardised-parthenolide extract, the form used in most clinical trials.
+- name: Capsules (leaf or extract)
+  text: 'For migraine prevention feverfew is taken in capsules: the WHO monograph gives encapsulated crude
+    drug equivalent to 0.2-0.6 mg parthenolide a day, and the largest trial in a Cochrane review used
+    a stable feverfew extract.'
   reference_ids:
+  - REF-3968
   - REF-0450
   status: verified
 - name: Infusion (tea)
@@ -247,4 +264,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   moved to no-effect; the positive 2005 MIG-99 RCT REF-3791 added. Pattrick 1989 RA RCT REF-3792
   recorded as no-effect. Cochrane REF-0450 removed from pain (never names it) and the
   anti-inflammatory action; review REF-1574 (retagged narrative-review) names toothache/stomach
-  ache. REF-0552 retagged preclinical (rat migraine model).'
+  ache. REF-0552 retagged preclinical (rat migraine model).
+  | 2026-11-19 (monograph-source audit): habitat, traditional_uses, constituents[1] and preparations[1] cited only REF-0450 (Cochrane migraine review); botanical_description and harvesting only REF-0553 (lab study). RE-SOURCED: WHO Herba Tanaceti Parthenii vol. 2 (REF-3968, new; description, distribution, constituents, uses, posology) + PFAF REF-3347 (habitat, flowering July-August, gathered as it comes into flower, folk uses); REF-0450 kept only for what it found (mixed, low-quality evidence; 0.6 fewer attacks a month). Dropped as unsupported: 20-60 cm, strongly scented leaves, downy stems, fibrous rootstock, flowering June-September, name from febrifuge, parthenolide as the key compound inhibiting migraine pathways, essential oil, antioxidant role, freeze-dried extract, the form used in most trials.'

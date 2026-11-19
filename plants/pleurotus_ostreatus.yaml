@@ -32,14 +32,18 @@ habitat:
     substrates.
   status: draft
 harvesting:
-  text: Wild fruiting bodies are picked as the caps mature but before they become tough or insect-damaged;
-    cultivated mushrooms are harvested from substrate blocks or bags once the caps have expanded but before
-    releasing significant spore load. Never forage a white shelf-fungus from wood without confirming the
-    host tree, since the fatal Angel Wing look-alike is specific to conifer (softwood) wood.
+  text: 'Oyster mushrooms are best harvested before the edges of the caps flatten out completely or flip
+    up, while they still have a slight roll; this keeps the best texture and storability and limits spore
+    release. In the wild the oyster mushroom grows on dead and dying hardwood. Its dangerous lookalike,
+    angel wings (Pleurocybella porrigens), grows on dead or dying conifer wood from late summer into autumn
+    and was linked to fatal poisonings in Japan in 2004, so check the host wood before picking: conifer
+    means caution.'
   parts:
   - Fruiting body (mycelium/whole mushroom)
-  season: Cooler, moist seasons (autumn-spring in temperate climates)
   reference_ids:
+  - REF-3318
+  - REF-3965
+  - REF-2629
   - REF-2627
   status: verified
 harvest_readiness:
@@ -303,4 +307,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   pleuran RCTs Bergendiova 2011 REF-3400 (athletes, fewer URTI symptoms, more NK cells) and
   Jesenak 2013 REF-3401 (children with recurrent RTIs; placebo arm got the same vitamin C) for
   cold and immune-support (pleuran = signature compound, labelled). REF-2596 (immune profile in
-  breast-cancer survivors; no tumour outcome) removed from cancer.'
+  breast-cancer survivors; no tumour outcome) removed from cancer.
+  | 2026-11-19 (monograph-source audit): harvesting cited only REF-2627 (Japanese report on the 2004 Pleurocybella porrigens poisonings), which says nothing about when or how to pick oyster mushrooms. RE-SOURCED: Fungi Ally REF-3318 (harvest before the cap edges flatten), Wikipedia (REF-3965, new; grows on dying hardwood), mushroom-appreciation REF-2629 (angel wings on conifer wood, late summer to autumn); REF-2627 kept only for the poisonings. Dropped as unsupported: picked before tough or insect-damaged, season cooler moist months (autumn-spring).'

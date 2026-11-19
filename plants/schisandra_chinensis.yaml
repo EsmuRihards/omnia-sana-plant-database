@@ -42,10 +42,13 @@ botanical_description:
   - REF-0505
   status: verified
 habitat:
-  text: Native to north-eastern China, Korea, Japan and the Russian Far East, growing in cool, moist mixed
-    and deciduous forests, often climbing on trees and shrubs along forest edges and riverbanks.
+  text: Indigenous to the Russian Far East (Primorsky and Khabarovsk regions, the Kuril Islands and southern
+    Sakhalin), north-eastern China, Japan and the Korean peninsula, and cultivated in China and South
+    Korea. It grows in mixed forests, especially on their margins, and by streams and brooks, usually
+    on sandy soils.
   reference_ids:
-  - REF-0506
+  - REF-3967
+  - REF-3336
   status: verified
 harvesting:
   text: Ripe berries are hand-picked in autumn once they turn deep red, then dried in the sun or by low
@@ -82,11 +85,13 @@ preparations:
 - name: Dried berry (whole/chewed)
   text: Traditional Traditional Chinese Medicine form, chewed or added to decoctions.
   status: draft
-- name: Decoction/tea
-  text: Dried berries simmered in water, a classic Traditional Chinese Medicine preparation, often combined
-    with other herbs.
+- name: Dried fruit
+  text: The dried ripe fruit is a traditional Chinese medicine, also used as a tonic in Russia, Japan
+    and Korea. The WHO monograph lists the dried fruits and tinctures, extracts and powders made from
+    them, with an average daily dose of 1.5-6.0 g of dried fruit.
   reference_ids:
-  - REF-0506
+  - REF-3967
+  - REF-0583
   status: verified
 - name: Standardised extract (capsule)
   text: The concentrated commercial form, standardised for lignan content.
@@ -303,4 +308,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Antioxidants re
   (retagged narrative-review) removed from five pairs it never names; adaptogen review REF-0506
   (retagged systematic-review: PubMed SR/MA) removed from muscle-soreness. REF-0583 retagged
   narrative-review. Not used: muscle-strength RCTs 32260466/33710261 (strength, not soreness);
-  Omija mixture RCT 35956334.'
+  Omija mixture RCT 35956334.
+  | 2026-11-19 (monograph-source audit): habitat and preparations[1] cited only REF-0506 (adaptogen history review). habitat RE-SOURCED to WHO Fructus Schisandrae vol. 3 (REF-3967, new) + PFAF REF-3336. preparations[1] was a decoction of dried berries often combined with other herbs; no source read states a decoction of the fruit (WHO lists dried fruits, tinctures, extracts, powders; PFAF''s decoction is of the BRANCHES), so it is now the dried-fruit entry WHO and the REF-0583 review support. Dropped: cool moist forests, climbing on trees along riverbanks, simmered, combined with other herbs.'

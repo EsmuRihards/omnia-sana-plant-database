@@ -12,20 +12,27 @@ external_ids:
 parts_used:
 - Rhizome
 botanical_description:
-  text: Rhizomatous perennial herb with large, broad, lance-shaped leaves arising directly from the underground
-    rhizome in a clump. Pale yellow flowers are borne in a dense spike partly hidden among pale green
-    to pink upper bracts. The branching, knobbly rhizome has a bright orange-yellow interior, the source
-    of turmeric spice and dye.
-  height: 60-100 cm
-  habit: Rhizomatous perennial herb
-  leaves: Large, broad, lance-shaped, arising directly from the rhizome
-  flowers: Pale yellow, in a dense spike among pale green to pink upper bracts
-  stem: Pseudostem formed by tightly overlapping leaf bases
-  root: Branching, knobbly rhizome with a bright orange-yellow interior
-  fruit: Rarely sets seed; propagated by rhizome division
-  flowering_period: Summer to early autumn
+  text: A perennial herb up to about 1 m tall, growing from an underground rhizome, with a short stem
+    and 6-10 tufted leaves. The leaves are lance-shaped, uniformly green, up to 50 cm long and 7-25 cm
+    wide, with a pointed, tail-like tip and a tapering base. The main rhizome is stout, fleshy and nearly
+    egg-shaped, about 3 cm across, with slightly bent side rhizomes; all are orange inside. The flowers
+    grow in a cylindrical spike 10-15 cm long at the top of the shoot, among white or white-and-light-green
+    bracts 5-6 cm long; the flowers are pale yellow, about 5 cm long, with a white, funnel-shaped corolla
+    tube. The fruit is an ellipsoid capsule.
+  height: Up to about 1 m
+  habit: Perennial herb growing from an underground rhizome, with a short stem and 6-10 tufted leaves
+  leaves: Lance-shaped, uniformly green, up to 50 cm long and 7-25 cm wide; tip pointed and tail-like,
+    base tapering; stalk and sheath sparsely to densely hairy
+  flowers: Cylindrical spike 10-15 cm long at the top of the shoot; bracts white or white with a light
+    green upper half, 5-6 cm long; flowers pale yellow, about 5 cm long, with a white funnel-shaped corolla
+    tube
+  stem: Short
+  root: Stout, fleshy, nearly egg-shaped main rhizome about 3 cm across, with slightly bent side rhizomes
+    2-6 cm long; orange inside
+  fruit: Ellipsoid capsule
   reference_ids:
-  - REF-0791
+  - REF-3959
+  - REF-3242
   status: verified
 habitat:
   text: Native to South Asia (India) and Southeast Asia; cultivated extensively in warm, humid tropical
@@ -61,12 +68,13 @@ traditional_uses:
   - REF-0791
   status: verified
 preparations:
-- name: Standardised extract
-  text: Rhizome extract standardised to curcuminoid content, often combined with piperine (black pepper
-    extract) to improve absorption, taken as capsules; the form used in most clinical arthritis and inflammation
-    studies.
+- name: Curcumin or turmeric extract
+  text: 'Curcumin or Curcuma longa extract taken by mouth is the form tested in randomised trials in arthritis
+    (29 trials in a 2022 meta-analysis). Curcumin alone is poorly absorbed: in healthy volunteers, adding
+    20 mg of piperine (from black pepper) to 2 g of curcumin increased its bioavailability by 2000%.'
   reference_ids:
   - REF-0791
+  - REF-0273
   status: verified
 - name: Decoction/'golden milk'
   text: Fresh or dried rhizome simmered in milk or water, traditionally with black pepper and a fat source,
@@ -76,13 +84,12 @@ preparations:
   text: Fresh or dried, ground rhizome used extensively as a food spice and colourant.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials in arthritis commonly use around 1000-1500 mg of curcumin (or curcuminoid-standardised
-    extract) daily, in divided doses, often combined with piperine. Educational reference only, not a
-    prescription.
+- name: Curcumin or turmeric extract (trials)
+  text: In the 29 randomised trials in arthritis pooled in a 2022 meta-analysis, curcumin or Curcuma longa
+    extract was given at 120-1500 mg a day for 4-36 weeks. Educational reference only, not a prescription.
   reference_ids:
   - REF-0791
-  status: draft
+  status: verified
 constituents:
 - name: Curcuminoids (curcumin, demethoxycurcumin, bisdemethoxycurcumin)
   compounds:
@@ -379,4 +386,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   vs rare idiosyncratic supplement hepatotoxicity. NEW serious contraindication: Tuscany
   phytovigilance 7 cases + SR of 23 case reports REF-3651; US DILIN 10 cases, 1 death, HLA-B*35:01
   in 7 REF-3652; 2025 histopathology series of 11 REF-3653. The record previously carried no
-  liver-injury warning.'
+  liver-injury warning.
+  | 2026-11-19 (monograph-source audit): botanical_description, preparations[0] and dosage[0] cited only REF-0791 (arthritis meta-analysis), which does not describe the plant. botanical_description RE-SOURCED to the WHO monograph Rhizoma Curcumae Longae vol. 1 (REF-3959, new; archive.org text) and Useful Tropical Plants REF-3242 (short stem, 6-10 tufted leaves). Dropped as unsupported: leaves in a clump, pink bracts, pseudostem of leaf bases, rarely sets seed, flowering summer to early autumn. preparations[0]/dosage[0] rewritten to what REF-0791 states (curcumin or C. longa extract, 120-1500 mg/day for 4-36 weeks in 29 RCTs; the old 1000-1500 mg was not in the abstract) and the piperine clause now cites Shoba 1998 REF-0273 (20 mg piperine raised curcumin bioavailability 2000%). Dropped: standardised to curcuminoids, capsules.'

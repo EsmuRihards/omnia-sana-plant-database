@@ -13,33 +13,38 @@ external_ids:
 parts_used:
 - Flower
 botanical_description:
-  text: Vigorous, twining perennial climbing vine with rough, hairy stems and deeply lobed, opposite leaves
-    resembling grape leaves. The plant is dioecious; female plants bear the characteristic papery, cone-like
-    flower clusters ('hops'), covered in yellow, resinous lupulin glands, that are the medicinal and brewing
-    part.
-  height: Climbing vine to 6-8 m
-  habit: Vigorous, twining, dioecious perennial climbing vine
-  leaves: Deeply lobed, opposite, rough-textured, resembling grape leaves
-  flowers: Papery, cone-like female flower clusters covered in yellow resinous lupulin glands
-  stem: Rough, hairy, twining, climbing without tendrils
-  root: Perennial rootstock (rhizome) sending up new climbing stems each year
-  fruit: Small achene within the papery cone
-  flowering_period: Late summer
+  text: 'A perennial, dioecious, twining herb with a stout perennial root and long, angular, rough-hairy,
+    tough stems that twine up to about 6 m. The leaves are heart-shaped, palmately three-lobed (sometimes
+    five- to seven-lobed), rough and dark green. Male and female flowers grow on separate plants: the
+    male flowers in loose bunches in the leaf axils, the pale green female flowers in leafy, cone-like
+    catkins. These mature into the hops (strobiles), oblong cones about 3 cm long of overlapping, papery,
+    yellowish-green to pale brown bracts, each enclosing a small glandular achene and sprinkled with yellow
+    lupulin glands.'
+  height: Twining stems up to about 6 m
+  habit: Perennial, dioecious, twining herb
+  leaves: Heart-shaped, palmately three-lobed (sometimes five to seven), rough, dark green
+  flowers: Male in loose axillary bunches; female pale green in leafy cone-like catkins
+  stem: Long, angular, rough-hairy, tough, twining
+  root: Stout perennial root
+  fruit: Strobile (hop) about 3 cm long of papery bracts, each enclosing a glandular achene; yellow lupulin
+    glands
   reference_ids:
-  - REF-0839
+  - REF-4003
+  - REF-4004
   status: verified
 habitat:
   text: Grows in hedgerows, woodland edges and damp thickets, climbing over other vegetation; native to
     Europe, Western Asia and North America, and widely cultivated for brewing.
   status: draft
 harvesting:
-  text: The female flower cones are picked in late summer once mature (when the lupulin glands are fully
-    developed and sticky), then dried quickly to preserve the volatile oils and bitter resins.
+  text: The female cones (strobiles) are ready to gather when they turn a brown-amber colour and feel
+    firm. They are dried at once in a kiln (oast house), because they can spoil within a few hours, especially
+    if picked damp.
   parts:
   - Flower
-  season: Late summer, at cone maturity
+  season: When the cones turn brown-amber and firm
   reference_ids:
-  - REF-0839
+  - REF-4004
   status: verified
 harvest_readiness:
 - part: flower
@@ -54,11 +59,17 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3272); the female flowering heads (strobiles) are picked in late summer to early autumn while greenish and aromatic. Single lineage -> provisional. SAFETY: the climbing habit can be confused with the dangerous white bryony (Bryonia dioica) - confirm identity; see Dangerous Lookalikes."
 traditional_uses:
-  text: Hop cones have a long European tradition as a calming, sedative herb for nervous tension, restlessness
-    and insomnia, and as a bitter digestive tonic; the sedative reputation, historically noted among hop-pickers
-    who became drowsy from handling the cones, is now linked to GABA-A receptor-active bitter resins.
+  text: 'Hops are a traditional sedative and bitter tonic: they were given for nervousness and at bedtime
+    to induce sleep, to improve appetite and digestion, and for indigestion and liver complaints, and
+    a pillow of warm hops was used to ease toothache, earache and nervous irritation. Traditional medicine
+    also used them for abdominal cramps, painful periods, diarrhoea, migraine and oedema. Pharmacopoeias
+    describe hops as a sedative for nervous tension and insomnia and as a remedy for indigestion and poor
+    appetite, and the EU herbal monograph accepts traditional use for mild symptoms of mental stress and
+    to aid sleep.'
   reference_ids:
-  - REF-0839
+  - REF-4004
+  - REF-4003
+  - REF-3077
   status: verified
 preparations:
 - name: Infusion
@@ -312,4 +323,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   skin-irritation/inflammation. New pairs (owner rule): anxiety, depression, stress (RCT REF-1732;
   stress also EU monograph REF-3077), menopause and hot-flashes (RCTs REF-3594, REF-3595). Not
   used: Lactium/Zizyphus and sleep-supplement combinations, non-alcoholic beer study, xanthohumol
-  Crohn trials (compound, safety endpoint).'
+  Crohn trials (compound, safety endpoint).
+  | 2026-11-19 (monograph-source audit): botanical_description, harvesting and traditional_uses cited only REF-0839 (lab study). RE-SOURCED: WHO Strobilus Lupuli vol. 3 (REF-4003, new), Grieve Hops (REF-4004, new), EU monograph REF-3077. Not used: the PFAF page fetched for Humulus lupulus describes American hop (Humulus lupulus Nutt. / H. americanus), a different taxon. Dropped as unsupported: opposite grape-like leaves, climbing without tendrils, 6-8 m, late-summer flowering, picked when lupulin is sticky, hop-pickers'' drowsiness, GABA-A active bitter resins.'

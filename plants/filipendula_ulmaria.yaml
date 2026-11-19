@@ -13,36 +13,41 @@ parts_used:
 - Leaf
 - Stem
 botanical_description:
-  text: Tall, moisture-loving perennial herb with pinnately compound leaves, dark green above and whitish-downy
-    beneath, the leaflets sharply toothed. Dense, fluffy, creamy-white flower clusters with a strong,
-    sweet, almond-like fragrance are borne atop reddish, grooved stems.
+  text: A perennial herb with fern-like foliage and erect, furrowed stems 60-120 cm tall, sometimes purple.
+    The leaves are dark green above and whitish and downy beneath, interruptedly pinnate, with a few large
+    toothed leaflets and small ones in between; the terminal leaflet is large, 2.5-7.5 cm long and three-
+    to five-lobed. Small creamy-white flowers with a very strong, sweet smell are clustered close together
+    in irregularly branched heads, from June to August or almost September.
   height: 60-120 cm
-  habit: Tall, erect, moisture-loving perennial herb
-  leaves: Pinnately compound, dark green above, whitish-downy beneath, sharply toothed leaflets
-  flowers: Dense, fluffy, creamy-white clusters with a strong sweet almond-like fragrance
-  stem: Reddish, grooved, erect
-  root: Fibrous roots from a short rhizome
-  fruit: Small, spirally twisted achenes
-  flowering_period: June-September
+  habit: Erect perennial herb with fern-like foliage
+  leaves: Interruptedly pinnate, dark green above, whitish and downy beneath; large toothed leaflets with
+    small ones between; terminal leaflet 2.5-7.5 cm, three- to five-lobed
+  flowers: Small, creamy-white, very sweet-smelling, in irregularly branched clusters
+  stem: Erect, furrowed, sometimes purple
+  flowering_period: June to August (almost September)
   reference_ids:
-  - REF-0815
+  - REF-3998
+  - REF-3256
   status: verified
 habitat:
-  text: Grows in damp meadows, marshes, riverbanks, ditches and wet woodland margins; native to Europe
-    and temperate Asia, favouring moist, nutrient-rich ground.
+  text: Wet ground in swamps, marshes, fens, wet woods and meadows, on wet rock ledges and by rivers,
+    but not on acid peat. Native to Europe, including Britain, from Iceland south and east to Spain, temperate
+    Asia and Mongolia.
   reference_ids:
-  - REF-0815
+  - REF-3256
+  - REF-3998
   status: verified
 harvesting:
-  text: The flowering tops, leaf and stem are cut in summer as the flowers open, when the characteristic
-    salicylate content is highest, and dried in a warm, shaded, airy place.
+  text: The herb (leaves and flowering stems) is collected in July when in flower and can be dried for
+    later use.
   parts:
   - Flower
   - Leaf
   - Stem
-  season: Summer, at flowering
+  season: July, when in flower
   reference_ids:
-  - REF-0815
+  - REF-3256
+  - REF-3998
   status: verified
 harvest_readiness:
 - part: flower
@@ -79,14 +84,17 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3256); the stem is gathered with the flowering tops in summer. Single lineage -> provisional."
 traditional_uses:
-  text: Meadowsweet is historically significant as the plant from which salicylic acid derivatives (the
-    chemical basis of aspirin) were first isolated, and has long been used in European folk medicine as
-    an anti-inflammatory, analgesic and gastroprotective remedy for feverish colds, rheumatic and joint
-    pain, and digestive complaints such as acid reflux and indigestion - notably, its natural mucilage
-    is thought to buffer the gastric irritation associated with isolated salicylates.
+  text: Meadowsweet has a very long history of herbal use and is said to have been one of the three most
+    sacred herbs of the Druids. In folk medicine it was used against rheumatism, fever and ulcers; it
+    was valued in diarrhoea, especially children's diarrhoea, as a stomach remedy for hyperacidity, heartburn,
+    gastritis and peptic ulcers, and for urinary complaints and dropsy, and an infusion of the fresh tops
+    was used to promote sweating. The flower head contains salicylic acid, from which aspirin can be made;
+    unlike isolated aspirin, which can cause stomach ulcers at high doses, the whole herb is said to protect
+    the stomach lining while still easing inflammation.
   reference_ids:
+  - REF-3256
+  - REF-3998
   - REF-0815
-  - REF-2030
   status: verified
 preparations:
 - name: Infusion
@@ -359,4 +367,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   macrophage polyphenol study) removed from analgesic, antimicrobial, antispasmodic, diuretic and
   gastroprotective actions. Notes rewritten (Grieve: dropsy, diuretic). Gap: EU monograph REF-3072
   also names supportive treatment of the common cold - no cold pair (no SR/RCT). Functional
-  beverage RCT 24237191 not used (3-herb drink).'
+  beverage RCT 24237191 not used (3-herb drink).
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and harvesting cited only REF-0815 (lab study); traditional_uses REF-0815 + REF-2030 (lab study). RE-SOURCED: Grieve Meadowsweet (REF-3998, new) + PFAF REF-3256; REF-0815 kept only for its opening line on folk use (antirheumatic, antipyretic, anti-ulcer). Dropped as unsupported: almond-like fragrance, reddish stems, root from a short rhizome, spirally twisted achenes, salicylate content highest at flowering, dried in a warm airy place, salicylic acid FIRST ISOLATED from meadowsweet (PFAF says only that aspirin can be synthesised from its salicylic acid), mucilage as the gastric buffer.'

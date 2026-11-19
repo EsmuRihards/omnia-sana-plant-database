@@ -16,39 +16,45 @@ parts_used:
 - Leaf
 - Young sprouts
 botanical_description:
-  text: Tall, upright perennial herb spreading by rhizomes, forming large colonies especially on disturbed
-    or burned ground (hence 'fireweed'). The leaves are narrow, lance-shaped, and willow-like, arranged
-    spirally up the stem. Bright pink-purple, four-petalled flowers are borne in a tall, tapering terminal
-    spike (raceme), opening progressively from the base upward as the plant flowers through summer.
-  height: 60-200 cm
-  habit: Tall, upright, rhizomatous perennial herb, often forming large colonies
-  leaves: Narrow, lance-shaped, willow-like, spirally arranged
-  flowers: Bright pink-purple, four-petalled, in a tall tapering terminal raceme
-  stem: Erect, usually unbranched, reddish toward the base
-  root: Spreading rhizome
-  fruit: Long, narrow seed pod splitting to release cottony-tufted seeds
-  flowering_period: July-September
+  text: A herbaceous perennial with usually simple, erect, smooth, reddish stems 0.5-2 m tall (Grieve
+    gives up to about 2.4 m), spreading by creeping stems. The leaves are scattered and spirally arranged,
+    narrowly lance-shaped and willow-like, with the side veins joining in a continuous vein just inside
+    the margin. The flowers, 2-3 cm across with four magenta to pink petals, grow in a tall terminal raceme
+    that blooms progressively from the bottom upwards. The upright, reddish-brown seed capsule splits
+    open to release tiny seeds, each with a tuft of silky white hairs that the wind carries away.
+  height: 0.5-2 m
+  habit: Herbaceous perennial spreading by creeping stems
+  leaves: Scattered, spirally arranged, narrowly lance-shaped, willow-like
+  flowers: 2-3 cm across, four magenta to pink petals, in a tall terminal raceme opening from the bottom
+    upwards
+  stem: Usually simple, erect, smooth, reddish
+  fruit: Upright reddish-brown capsule releasing seeds with tufts of silky hairs
   reference_ids:
-  - REF-1658
+  - REF-3374
+  - REF-3999
   status: verified
 habitat:
-  text: A classic pioneer plant of disturbed, burned or cleared ground, forest clearings, roadsides and
-    riverbanks; native across the temperate and boreal Northern Hemisphere (Europe, Asia, North America).
+  text: Native across the temperate Northern Hemisphere, including large parts of the boreal forests.
+    It grows by moist riversides and in copses, and springs up on cleared or burned ground, including
+    waste ground left after buildings are demolished; in North America it is one of the plants called
+    fireweed because it appears on land recently cleared by fire.
   reference_ids:
-  - REF-1658
+  - REF-3374
+  - REF-3999
+  - REF-0118
   status: verified
 harvesting:
-  text: Young shoots are gathered in spring while still tender (traditionally eaten like asparagus); leaves
-    and flowers are picked through summer at flowering, with the leaf sometimes fermented for 'Ivan-chai'
-    tea. Careful identification against the deadly false hellebore (Veratrum), which can share early-spring
-    habitat, is essential when gathering young shoots.
+  text: The young shoots and leaves are the parts eaten; the young shoots are boiled and eaten like asparagus.
+    The leaves are used to make tea, known in Russia as Ivan-chai or Kaporie tea.
   parts:
   - Flower
   - Leaf
   - Young sprouts
-  season: Young sprouts in spring; leaf and flower through summer
+  season: Young shoots and leaves while young (spring); leaves for tea
   reference_ids:
-  - REF-1658
+  - REF-3231
+  - REF-3999
+  - REF-3374
   status: verified
 harvest_readiness:
 - part: shoot
@@ -87,11 +93,16 @@ harvest_readiness:
   status: provisional
   notes: "Wikipedia (REF-3374) under the accepted name Chamaenerion angustifolium (syn. Chamerion angustifolium); the same page names the material used - 'The young flowers are also edible (being made into jelly in the Yukon)' - and the bottom-to-top flowering sequence gives the stage. Seams that failed earlier: theferns (no record), PFAF (empty), US Forest Service and Gardenia (403), Edible Wild Food (young leaves/shoots only). Single lineage -> provisional."
 traditional_uses:
-  text: Fireweed has a long circumpolar tradition as a food plant (young shoots as a spring vegetable,
-    fermented leaf as 'Ivan-chai' tea) and as a folk remedy for digestive complaints and topically as
-    a poultice for wounds and skin inflammation, reflecting its astringent, anti-inflammatory character.
+  text: The roots and leaves have been used in domestic medicine as demulcent, tonic and astringent remedies,
+    in decoctions, infusions and poultices, and the plant was much used in America as an intestinal astringent.
+    The young shoots are eaten like asparagus, and the leaves were used as a tea substitute and are made
+    into Ivan-chai (Kaporie or Koporye tea) in Russia, a caffeine-free tea produced much like black tea.
+    The EU herbal monograph accepts traditional use of the herb, as a tea, for urinary symptoms of benign
+    prostatic enlargement once serious conditions have been ruled out by a doctor.
   reference_ids:
-  - REF-1658
+  - REF-3999
+  - REF-3374
+  - REF-3075
   status: verified
 preparations:
 - name: Infusion (leaf, 'Ivan-chai')
@@ -314,4 +325,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   dropped: its only card was a wound-healing enzyme study (batch-1 rule: a wound is not a bruise).
   | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep (batch 6). REF-2301
   (polyphenols of Epilobium angustifolium = fireweed) moved here from E. parviflorum, antioxidant
-  action.'
+  action.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-1658 (in vivo enzyme study). RE-SOURCED: Wikipedia REF-3374, Grieve Willow-Herbs (REF-3999, new), Latvijas daba REF-0118, Edible Wild Food REF-3231, EU monograph REF-3075. Dropped as unsupported: flowering July-September, 60-200 cm, poultice for skin inflammation, circumpolar tradition wording. The Veratrum caution was REMOVED from the harvesting text: its source REF-2706 (forage-ology) could not be fetched to confirm; the approved Veratrum album lookalike row still renders on the page.'

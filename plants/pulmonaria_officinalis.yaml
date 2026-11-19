@@ -34,27 +34,24 @@ constituents:
   - REF-0479
   - REF-1545
 botanical_description:
-  text: Low, hairy perennial herb (Boraginaceae), 15-30 cm tall. Basal leaves are long-stalked, ovate
-    to lance-shaped, often white-spotted - the spotted pattern was historically likened to diseased lung
-    tissue under the medieval Doctrine of Signatures, giving rise to the name 'lungwort' - and covered
-    in bristly hairs. Funnel-shaped flowers open pink and turn blue as they mature, borne in small coiled
-    clusters (cymes).
-  height: 15-30 cm
-  habit: Low, hairy perennial herb
-  leaves: Long-stalked, ovate to lance-shaped, often white-spotted, bristly-hairy
-  flowers: Funnel-shaped, opening pink and turning blue with age, in small coiled cymes
-  stem: Hairy, low-growing
-  root: Short rhizome with fibrous roots
-  fruit: Small nutlets (typical Boraginaceae)
-  flowering_period: March-May
+  text: A low perennial herb whose stem grows about 30 cm tall, with rough, alternate, egg-shaped leaves,
+    the lower ones stalked, curiously spotted with white. The flowers grow in a cluster at the top of
+    the stem; they are red before opening and pale purple when fully open, from March to May.
+  height: About 30 cm
+  habit: Low perennial herb
+  leaves: Rough, alternate, egg-shaped, spotted with white; lower leaves stalked
+  flowers: Terminal cluster; red in bud, pale purple when fully open
+  flowering_period: March to May
   reference_ids:
-  - REF-0479
+  - REF-4010
+  - REF-3320
   status: verified
 habitat:
-  text: Native to central and southern Europe, growing in damp, shaded woodland, hedgebanks and scrub
-    on humus-rich soils; widely cultivated as a shade garden plant.
+  text: Moist grassland, damp woods, thickets and hedgerows, avoiding acid soils and usually on limestone.
+    Native to Europe and naturalised in Britain, where some regard it as an escape from gardens.
   reference_ids:
-  - REF-0479
+  - REF-3320
+  - REF-4010
   status: verified
 harvesting:
   text: Aerial flowering parts are cut during flowering (spring); the plant can also be gathered later
@@ -79,13 +76,14 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3320); the flowering herb is gathered in spring (in flower March-May). Single lineage -> provisional."
 traditional_uses:
-  text: Lungwort's spotted leaves inspired its traditional use, under the Doctrine of Signatures, as a
-    remedy for lung and respiratory complaints - coughs, bronchitis, catarrh and sore throat - valued
-    for its soothing mucilage and astringent tannins. Modern research confirms antioxidant and anti-inflammatory
-    (COX-2-inhibiting) activity of its phenolic-rich extract, though clinical trial evidence in humans
-    remains limited.
+  text: The white-spotted leaves were thought to look like lungs, and under the doctrine of signatures
+    lungwort was esteemed for diseases of the lungs; it was grown in almost every garden as 'Jerusalem
+    cowslip'. The slightly astringent, mucilaginous leaves were taken as an infusion for coughs, lung
+    catarrh and inflammation, and its high mucilage content is said to make it useful for chronic bronchitis,
+    chronic coughs including whooping cough, and asthma.
   reference_ids:
-  - REF-0479
+  - REF-4010
+  - REF-3320
   status: verified
 preparations:
 - name: Infusion (tea)
@@ -201,4 +199,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study
   COX-2/peroxynitrite study (retagged preclinical, was traditional) - removed from the demulcent
   and expectorant actions and from skin-irritation (dropped: no source names skin). Grieve''s
   "Lungwort" entry is the lichen Sticta pulmonaria, not this plant - not used. Gap: the
-  traditional respiratory use has no checkable source here.'
+  traditional respiratory use has no checkable source here.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-0479 (lab study). RE-SOURCED: Grieve Lungwort (REF-4010, new) + PFAF REF-3320. Dropped as unsupported: 15-30 cm, bristly hairs, funnel-shaped flowers opening pink and turning blue, short rhizome, nutlets, central and southern Europe, humus-rich soils, sore throat, the modern antioxidant and COX-2 lab findings (not a traditional use).'

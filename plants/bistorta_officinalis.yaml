@@ -34,35 +34,44 @@ constituents:
   note: Other rhizome constituents.
   reference_ids: []
 botanical_description:
-  text: Perennial herb rising from a thick, twisted, S- or snake-shaped rhizome (giving the names 'bistort'
-    and 'snakeroot'), blackish outside and pink inside. The basal leaves are broadly oval to lance-shaped
-    on long stalks; stem leaves are smaller and stalkless. A single dense, cylindrical spike of small,
-    pale pink flowers is borne atop each unbranched flowering stem.
+  text: A perennial herb with an S-shaped rootstock bearing tuberous roots. Large oval leaves with heart-shaped
+    bases rise directly from the rootstock; they are bluish-green above and ash-grey tinged with purple
+    beneath, with stalks and blades each about 15 cm long, the upper part of the stalk winged. The slender,
+    erect, unbranched flowering stems, 30-80 cm tall, carry a few smaller leaves on very short stalks
+    and end in a dense, cylindrical spike of flesh-pink flowers, each with five coloured sepals and eight
+    stamens. It flowers in May and June and again in September and October; the seeds are small, brown
+    and shining.
   height: 30-80 cm
-  habit: Erect perennial herb from a twisted rhizome
-  leaves: Basal leaves broadly oval to lance-shaped, long-stalked; stem leaves smaller, stalkless
-  flowers: Dense, cylindrical spike of small pale pink flowers atop an unbranched stem
-  stem: Erect, unbranched, one flower spike per stem
-  root: Thick, twisted, S-shaped (snake-like) rhizome, blackish outside, pink inside
-  fruit: Small, glossy, three-angled achene
-  flowering_period: May-August
+  habit: Perennial herb forming clusters of stems from an S-shaped rootstock
+  leaves: Large, oval, heart-shaped at the base, bluish-green above, ash-grey tinged purple beneath; stem
+    leaves few, smaller, on very short stalks
+  flowers: Dense cylindrical spike of flesh-pink flowers, each with five coloured sepals and eight stamens
+  stem: Erect, slender, unbranched flowering stem
+  root: S-shaped rootstock with tuberous roots
+  fruit: Small, brown, shining seeds
+  flowering_period: May-June and again September-October
   reference_ids:
-  - REF-0746
+  - REF-3997
+  - REF-3214
   status: verified
 habitat:
-  text: Grows in damp meadows, pastures, streamsides and mountain grassland on moist, often calcareous
-    soils; native to Europe and temperate Asia, favouring cooler upland regions.
+  text: Widespread through temperate Eurasia, from northern Europe to Siberia, Japan and western Asia
+    to the Himalayas, and in Morocco, though absent from Scandinavia and central Asia. It grows in damp
+    meadows and by water, especially on acid soils, and in hilly grassland up to 3,000 m; in Britain it
+    is common in northern England and southern Scotland but very rare in Ireland.
   reference_ids:
-  - REF-0746
+  - REF-3214
+  - REF-3997
   status: verified
 harvesting:
-  text: The rhizome is dug in autumn or early spring, when tannin content is highest, cleaned and dried;
-    aerial parts are gathered in summer while flowering.
+  text: The rootstock is gathered in early spring (March), when the leaves are just beginning to shoot,
+    and dried. The young leaves and shoots were picked in spring to eat as a vegetable.
   parts:
   - Rhizome (root) and aerial parts
-  season: Rhizome in autumn or early spring; aerial parts in summer flowering
+  season: Rootstock in early spring as the leaves begin to shoot; young leaves in spring
   reference_ids:
-  - REF-0746
+  - REF-3997
+  - REF-3214
   status: verified
 harvest_readiness:
 - part: rhizome
@@ -88,12 +97,14 @@ harvest_readiness:
   status: provisional
   notes: "Useful Temperate Plants (REF-3214). The source frames the tender-young window (gather before toughening) rather than a flowering harvest. Single source -> provisional."
 traditional_uses:
-  text: Bistort rhizome, one of the most tannin-rich temperate herbs, has a long European folk history
-    as a powerful astringent for mild diarrhoea, as a gargle for sore throat and mouth inflammation, and
-    topically as a vulnerary and styptic for minor wounds and bleeding; young leaves have also traditionally
-    been eaten as a spring pot-herb ('Easter-ledge pudding').
+  text: Bistort root, which contains about 20% tannin, is one of the strongest astringent herbs. It was
+    used to stop bleeding, internal or external, including nosebleeds, and for diarrhoea, dysentery and
+    other bowel complaints and for haemorrhoids; as a gargle it was used for spongy gums, mouth ulcers
+    and sore throats, and the leaves had a reputation for healing wounds. In northern England the leaves
+    and young shoots were eaten in spring in a herb pudding, under names such as Easter-ledges and Easter-mangiant.
   reference_ids:
-  - REF-0746
+  - REF-3997
+  - REF-3214
   status: verified
 preparations:
 - name: Decoction (rhizome)
@@ -263,4 +274,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Jou
   | 2026-11-12: symptom-source audit deep re-sweep batch 3 - Deep re-sweep. WebMD page REF-0411
   (404) purged from the actions and deleted. GC-MS study REF-0627 removed from the antimicrobial
   action (chemistry only; kept in references). Notes rewritten; wounds is inferred from
-  anti-virulence activity against Pseudomonas (REF-0747). No trials on PubMed.'
+  anti-virulence activity against Pseudomonas (REF-0747). No trials on PubMed.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-0746 (antibacterial/anti-inflammatory lab study). RE-SOURCED: Grieve Bistort (REF-3997, new) and Useful Temperate Plants REF-3214. Corrected: habitat said ''often calcareous soils''; Fern says especially ACID soils. Dropped as unsupported: rhizome blackish outside and pink inside, name derivation, three-angled achene, flowering May-August, dug in autumn when tannin is highest, aerial parts gathered while flowering.'

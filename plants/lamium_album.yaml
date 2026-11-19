@@ -41,35 +41,36 @@ constituents:
   reference_ids:
   - REF-0349
 botanical_description:
-  text: Perennial herb closely resembling stinging nettle in leaf shape but entirely without stinging
-    hairs. Square stems bear opposite, toothed, heart-shaped leaves, and whorls of white, hooded, two-lipped
-    flowers cluster in the upper leaf axils.
-  height: 20-60 cm
-  habit: Erect, clump-forming perennial herb
-  leaves: Opposite, toothed, heart-shaped, resembling stinging nettle but without stinging hairs
-  flowers: White, hooded, two-lipped, in dense whorls in the upper leaf axils
-  stem: Square (typical of the mint family), unarmed (no stinging hairs)
-  root: Creeping rhizome
-  fruit: Small nutlet (typical of Lamiaceae)
-  flowering_period: March-November (almost year-round in mild climates)
+  text: A perennial herb up to about 60 cm tall that looks much like a stinging nettle, for which it can
+    be mistaken in early spring, but it does not sting and is unrelated; its stems are square and hollow.
+    The heart-shaped, saw-toothed leaves grow in pairs, each pair at right angles to the next, and stems
+    and leaves are covered in small rough hairs; the bruised plant has a strong, rather unpleasant smell.
+    Whorls of six to twelve creamy-white flowers with a lip, a hood and a tube about 1.2 cm long grow
+    in the leaf axils from May almost until December, followed by tiny nutlets.
+  height: Up to about 60 cm
+  habit: Perennial herb resembling a stinging nettle but without stinging hairs
+  leaves: Heart-shaped, saw-toothed, in pairs at right angles, with small rough hairs
+  flowers: Whorls of six to twelve creamy-white, hooded, two-lipped flowers in the leaf axils
+  stem: Square and hollow, with small rough hairs
+  fruit: Tiny nutlets
+  flowering_period: May to almost December
   reference_ids:
-  - REF-0349
+  - REF-3844
+  - REF-3281
   status: verified
 habitat:
   text: Grows in hedgerows, waste ground, gardens and roadsides on nitrogen-rich soils; native to Europe
     and temperate Asia, widely naturalised elsewhere.
   status: draft
 harvesting:
-  text: The flowering tops are picked as they open, largely through spring to autumn given the long flowering
-    season, and dried in a warm, shaded, airy place; the standardisation markers are richest in the flowering
-    tops specifically.
+  text: The plant is harvested in summer and can be dried for later use.
   parts:
   - Flower
   - Leaf
   - Aerial parts
-  season: Spring through autumn, as flowers open
+  season: Summer
   reference_ids:
-  - REF-0349
+  - REF-3281
   status: verified
 harvest_readiness:
 - part: flower
@@ -320,4 +321,5 @@ internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://om
   historical use for bruises and joint aches. REF-0342 (phytochemistry, no activity) removed from
   antioxidant; REF-1753 (tracheal smooth-muscle relaxation) removed from expectorant; REF-1746
   (states traditional mucolytic use for chronic bronchitis) added to expectorant. Gap: heavy
-  menstrual bleeding (Herbal Reality) - traditional only, no pair.'
+  menstrual bleeding (Herbal Reality) - traditional only, no pair.
+  | 2026-11-19 (monograph-source audit): botanical_description and harvesting cited only REF-0349 (lab study). RE-SOURCED: Grieve Nettles page, White Dead Nettle section (REF-3844, new) + PFAF REF-3281. Dropped as unsupported: 20-60 cm, clump-forming, creeping rhizome, March-November, flowering tops picked as they open, dried in a warm airy place, standardisation markers richest in the flowering tops.'

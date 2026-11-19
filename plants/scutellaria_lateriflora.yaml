@@ -29,34 +29,36 @@ constituents:
   reference_ids:
   - REF-0510
 botanical_description:
-  text: Perennial herb (Lamiaceae), 30-80 cm tall, with square stems. Leaves are opposite, ovate to lance-shaped
-    and toothed. Small blue, two-lipped flowers are borne in one-sided leafy racemes arising from the
-    leaf axils; the helmet-shaped calyx gives the genus its 'skullcap' name.
-  height: 30-80 cm
-  habit: Erect perennial herb
-  leaves: Opposite, ovate to lance-shaped, toothed
-  flowers: Small, blue, two-lipped, in one-sided axillary racemes
-  stem: Square
-  root: Fibrous perennial rootstock
-  fruit: Four small nutlets (typical Lamiaceae schizocarp)
-  flowering_period: June-September
+  text: A hardy, upright perennial herb of the mint family, 60-80 cm tall. The blue flowers, just under
+    1 cm long, grow in one-sided racemes mostly along side branches that arise from the leaf axils, rather
+    than at the top of the main stem. It flowers from June to August.
+  height: 60-80 cm
+  habit: Hardy, upright perennial herb of the mint family
+  flowers: Blue, just under 1 cm long, in one-sided racemes on side branches from the leaf axils
+  flowering_period: June to August (July in Grieve)
   reference_ids:
-  - REF-0510
+  - REF-4011
+  - REF-3789
+  - REF-3339
   status: verified
 habitat:
-  text: Native to North America, growing in damp meadows, marshes, streambanks and wet woodland margins.
+  text: Native to North America, from Newfoundland to British Columbia and south to Florida. A wetland
+    plant of alluvial thickets, marshes, meadows and swampy woods.
   reference_ids:
-  - REF-0510
+  - REF-3339
+  - REF-4011
   status: verified
 harvesting:
-  text: The whole flowering aerial parts are cut at flowering (summer) and dried. Given the well-documented
-    history of adulteration with toxic germander, sourcing from an authenticated, tested supplier is essential
-    rather than home foraging of an uncertain look-alike.
+  text: The whole herb is collected in early summer (June), dried and powdered. Commercial skullcap has
+    been adulterated with germander, which contains potentially liver-toxic compounds, so the identity
+    of bought material matters.
   parts:
   - Aerial parts (flowering herb)
-  season: Summer, at flowering
+  season: Early summer (June)
   reference_ids:
-  - REF-0510
+  - REF-3789
+  - REF-3339
+  - REF-4011
   status: verified
 harvest_readiness:
 - part: aerial-parts
@@ -71,12 +73,14 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3339); the flowering aerial parts are cut in early summer (in flower June-August). Single lineage -> provisional. SAFETY: skullcap is adulterated with the hepatotoxic wall germander (Teucrium chamaedrys) - confirm identity/source; see Dangerous Lookalikes."
 traditional_uses:
-  text: American skullcap has a Native American and 19th-century Eclectic-medicine tradition as a calming
-    nervine for anxiety and nervous tension - the old name 'mad-dog skullcap' reflects a folk remedy explored
-    for rabies. Modern research on its flavonoids baicalin and baicalein, which bind the benzodiazepine
-    site of the GABA-A receptor, supports its calming, anxiolytic and sleep-supporting reputation.
+  text: Virginian skullcap was described as one of the finest nervines ever discovered. Known in America
+    as mad-dog skullcap or madweed, it had a reputation as a cure for rabies (hydrophobia). It was used
+    as a tonic, nervine and antispasmodic for hysteria, convulsions, St Vitus's dance, nervous headaches
+    and neuralgia, and is still used for nervous conditions, to calm stress and anxiety, and for insomnia
+    and epilepsy.
   reference_ids:
-  - REF-0510
+  - REF-3789
+  - REF-3339
   status: verified
 preparations:
 - name: Infusion (tea)
@@ -252,4 +256,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytomedicine p
   REF-0551 found no anxiety (BAI) difference vs placebo: moved to no-effect for anxiety, kept for
   mood/stress/nervous tension. REF-0510 retagged preclinical (rat behaviour + phytochemistry) and
   removed from stress (never names it). Grieve REF-3789 added to nervous-tension. REF-1562
-  (insomnia RCT, single-herb extract) checked and kept.'
+  (insomnia RCT, single-herb extract) checked and kept.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-0510 (lab study). RE-SOURCED: Wikipedia (REF-4011, new), Grieve Scullcaps REF-3789 (Virginian section only; its main Description is of S. galericulata and was NOT used), PFAF REF-3339. The germander-adulteration warning is now sourced to Wikipedia. Dropped as unsupported: 30-80 cm, square stem, opposite ovate toothed leaves (no S. lateriflora-specific source read), helmet-shaped calyx giving the name, fibrous rootstock, four nutlets, damp meadows and streambanks wording, Native American and Eclectic tradition, baicalin and baicalein acting on the benzodiazepine site.'

@@ -32,36 +32,38 @@ constituents:
   - REF-1605
   - REF-1606
 botanical_description:
-  text: Small, low-growing annual or short-lived perennial herb with oval to lance-shaped, scalloped leaves
-    and large, leaf-like stipules. The distinctive flowers are tricoloured - purple, yellow and white
-    in varying combinations - with five petals, the lower petal often marked with dark veining (a 'face'
-    pattern), giving rise to the name 'heartsease'.
-  height: 10-30 cm
-  habit: Small, low-growing annual or short-lived perennial herb
-  leaves: Oval to lance-shaped, scalloped, with large leaf-like stipules
-  flowers: Tricoloured (purple, yellow, white), five-petalled, often with dark facial veining on the lower
-    petal
-  stem: Slender, branching
-  root: Slender taproot
-  fruit: Small three-valved capsule
-  flowering_period: April-September
+  text: 'A small annual or perennial herb, about 10-20 cm tall, with a freely branching, angular stem.
+    The leaves are deeply cut into rounded lobes, the end lobe much the largest, with very large leafy
+    stipules at their base. The flowers, 0.6-3 cm across, vary in colour and size but are purple, yellow
+    or white, most often all three together: the upper petals are usually purple and the lowest, broadest
+    petal yellow, with a spur at its base. They open from April to September and are followed by small
+    seed capsules that open by three valves.'
+  height: About 10-20 cm
+  habit: Small annual or perennial herb
+  leaves: Deeply cut into rounded lobes, end lobe largest, with very large leafy stipules
+  flowers: 0.6-3 cm across; purple, yellow and white, usually combined; lowest petal yellow and spurred
+  stem: Freely branching, angular
+  fruit: Small capsule opening by three valves
+  flowering_period: April to September
   reference_ids:
-  - REF-0463
+  - REF-3855
+  - REF-3368
   status: verified
 habitat:
-  text: Grows in grassland, cultivated ground, gardens and waste places on a wide range of soils; native
-    to Europe and widely naturalised elsewhere as a common garden and wild plant.
+  text: Cultivated and waste ground, cornfields, gardens, hedgebanks and short grassland, mainly on acid
+    and neutral soils. Native to Europe, including Britain, from Scandinavia south and east to Corsica,
+    western Asia, Siberia and the Caucasus.
   reference_ids:
-  - REF-0463
+  - REF-3368
+  - REF-3855
   status: verified
 harvesting:
-  text: The flowering aerial parts are cut in summer while in flower and dried in a warm, shaded, airy
-    place.
+  text: The flowering herb is harvested from June to August and dried for later use.
   parts:
   - Aerial parts (flowering herb)
-  season: Summer, at flowering
+  season: June to August
   reference_ids:
-  - REF-0463
+  - REF-3368
   status: verified
 harvest_readiness:
 - part: aerial-parts
@@ -76,12 +78,16 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3368); the flowering herb is cut from June to August while in flower (in flower April-September). Single lineage -> provisional."
 traditional_uses:
-  text: Heartsease has a long European folk history as a soothing remedy for skin conditions such as eczema
-    and itching, and as a traditional demulcent and expectorant for coughs and chest complaints; this
-    traditional skin-supportive use is now linked to immunomodulatory cyclic peptides (cyclotides) unique
-    to the Viola genus.
+  text: Heartsease was once highly regarded for epilepsy, asthma, skin diseases and many other complaints;
+    its flowers were considered good for diseases of the heart, which may explain the name, and Gerard
+    commended it for children's convulsions, inflammation of the lungs and chest, and scabs and itching.
+    Modern herbalism treats it as a purifying herb taken internally for skin complaints such as eczema,
+    and as an expectorant for bronchitis and whooping cough. The EU herbal monograph gives a tea for internal
+    use and infusions for wet dressings and baths.
   reference_ids:
-  - REF-0463
+  - REF-3855
+  - REF-3368
+  - REF-3074
   status: verified
 preparations:
 - name: Infusion
@@ -270,4 +276,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   symptom, and REF-0463 removed from the demulcent/emollient/expectorant actions. A case report on
   multi-herb products REF-2579 and a multi-herb anti-cytokine preparation REF-2577 removed. Grieve
   REF-3855 and Herbal Reality REF-0517 (covers V. tricolor) added for eczema, psoriasis,
-  arthritis, skin irritation. Gap: the only RCT is a three-herb ointment.'
+  arthritis, skin irritation. Gap: the only RCT is a three-herb ointment.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-0463 (lab study). RE-SOURCED: Grieve Heartsease REF-3855, PFAF REF-3368, EU monograph REF-3074 (forms of use only; its indications were not re-read here, so none are quoted). Dropped as unsupported: oval to lance-shaped scalloped leaves, face-like veining as the source of the name, slender taproot, dried in a warm airy place, cyclotides as the basis of the skin use.'

@@ -15,20 +15,25 @@ parts_used:
 - Leaf
 - Stem
 botanical_description:
-  text: Evergreen coniferous shrub or small tree, often low and sprawling, with sharp, needle-like leaves
-    in whorls of three, each bearing a single white band on the upper surface. The plant is dioecious;
-    female plants bear small, round, fleshy, berry-like cones ('juniper berries') that take two to three
-    years to ripen from green to blue-black.
-  height: 1-10 m, highly variable (often a low sprawling shrub)
-  habit: Evergreen coniferous shrub or small tree, often sprawling
-  leaves: Sharp, needle-like, in whorls of three, each with a single white band above
-  flowers: Dioecious, wind-pollinated, inconspicuous
-  stem: Woody, often sprawling or low-growing, reddish-brown bark
-  root: Woody, spreading root system
-  fruit: Round, fleshy, berry-like cone, ripening blue-black over two to three years
-  flowering_period: Spring
+  text: An evergreen conifer that is highly variable in form, from a low, often prostrate spreading shrub
+    in exposed places to a tree 10 m (rarely 16 m) tall; it has the largest geographical range of any
+    woody plant. The needle-like leaves grow in whorls of three and are green, each with a single white
+    band of stomata on its inner surface. Male and female cones grow on separate plants and are wind-pollinated;
+    the yellow male cones, 2-3 mm long, shed pollen in spring. The fruits are berry-like cones (juniper
+    berries), 4-12 mm across, that ripen from green to purple-black with a blue waxy bloom over 18 months
+    to three years, so green and blue berries occur on the same plant.
+  height: From a prostrate shrub to a tree of 10 m (rarely 16 m)
+  habit: Evergreen coniferous shrub or tree, highly variable in form
+  leaves: Needle-like, in whorls of three, green with a single white stomatal band on the inner surface
+  flowers: Dioecious; male and female cones on separate plants, wind-pollinated; male cones yellow, 2-3
+    mm
+  fruit: Berry-like cone 4-12 mm across, ripening from green to purple-black with a blue bloom over 18
+    months to three years
+  flowering_period: Spring (March to June)
   reference_ids:
-  - REF-0851
+  - REF-4006
+  - REF-3278
+  - REF-4007
   status: verified
 habitat:
   text: Grows on heath, moorland, rocky hillsides and open coniferous woodland on poor, often calcareous
@@ -58,12 +63,16 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3278); the fleshy cones ('berries') are gathered in autumn when fully ripe (seeds ripen in October). The cones take 2-3 years to ripen, so green and ripe blue-black cones occur together - pick only the ripe dark ones. Single lineage -> provisional. SAFETY: do not confuse with the toxic savin (Juniperus sabina); see Dangerous Lookalikes. (Leaf and stem, also listed parts, were not separately timing-sourced this pass.)"
 traditional_uses:
-  text: Juniper berry has a long European tradition as a diuretic and urinary antiseptic for minor urinary
-    complaints, a warming digestive carminative for indigestion and bloating, and a flavouring for gin
-    and other spirits; the leaf and wood have also been burned or used topically for their antimicrobial
-    properties.
+  text: 'Juniper berries are used in herbal medicine and as a household remedy, especially for digestive
+    disorders and kidney and bladder problems: the oil was given as a diuretic, stomachic and carminative
+    for indigestion, flatulence and diseases of the kidney and bladder, and as an aid to diuretics in
+    dropsy. The berries flavour gin and foods such as sauerkraut. The EU herbal monograph accepts traditional
+    use to increase urine flow in minor urinary complaints and for indigestion and flatulence. Large doses
+    can damage the kidneys, and juniper should not be taken internally in pregnancy.'
   reference_ids:
-  - REF-0851
+  - REF-3278
+  - REF-4007
+  - REF-3066
   status: verified
 preparations:
 - name: Infusion (berries)
@@ -346,4 +355,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. Functional dyspepsia
   RCT REF-3606 (Roleca juniper, J. communis) added to indigestion. New pair (owner rule):
   menstrual-cramps (abhal = J. communis RCT REF-3607). Notes rewritten to the EU monograph
-  REF-3066.'
+  REF-3066.
+  | 2026-11-19 (monograph-source audit): botanical_description and traditional_uses cited only REF-0851 (lab study). RE-SOURCED: Wikipedia Juniperus communis (REF-4006, new), PFAF REF-3278, Grieve Juniper (REF-4007, new), EU monograph REF-3066 (indications read from the PDF). Dropped as unsupported: reddish-brown bark, woody root system, leaf and wood burned or used topically as antimicrobial. Kept with sources: kidney damage at large doses and no internal use in pregnancy (PFAF).'

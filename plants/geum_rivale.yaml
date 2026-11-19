@@ -39,11 +39,13 @@ botanical_description:
   - REF-2769
   status: verified
 habitat:
-  text: 'Damp ground: wet meadows, marshes, streamsides, ditches, fens and damp woodland across Europe,
-    western Asia and North America. It favours moist, base-rich soils. Unlike wood avens (Geum urbanum),
-    a plant of dry hedgerows and shade, water avens grows in wet, open places.'
+  text: Damp places such as moist ditches and streamsides, damp woods and the coarse vegetation along
+    canals, most often in shade. Native to Europe, including Britain, from Iceland south and east to Spain,
+    Siberia and western Asia, and to North America (including Canada); in Britain it is commoner in the
+    north and in Scotland than in the south.
   reference_ids:
-  - REF-2761
+  - REF-3267
+  - REF-4002
   status: verified
 harvesting:
   text: The reddish rhizome/root is the main medicinal part, dug in spring or autumn and dried carefully
@@ -381,4 +383,5 @@ internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum 
   | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. REF-2769 (1954 tannin
   anatomy, no abstract) removed from antidiarrheal and vulnerary actions (kept in references);
   REF-2768 (Rosaceae elastase/tannin screen) removed from antidiarrheal. Notes rewritten to their
-  lab sources. No trials on PubMed.'
+  lab sources. No trials on PubMed.
+  | 2026-11-19 (monograph-source audit): habitat cited only REF-2761 (lab study). RE-SOURCED: PFAF REF-3267 + Grieve Water Avens (REF-4002, new). Dropped as unsupported: wet meadows, marshes, fens, base-rich soils, the comparison with wood avens on dry hedgerows.'

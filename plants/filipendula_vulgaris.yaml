@@ -18,44 +18,42 @@ parts_used:
 - Root
 - Leaf
 botanical_description:
-  text: 'Erect perennial herb of the rose family, 20-80 cm tall, growing from a short rootstock whose
-    fibrous roots bear characteristic small tuber-like swellings (the ''drop-wort'' beads). The leaves
-    are mostly in a basal rosette and are distinctive: long, fern-like and interruptedly pinnate, with
-    many (up to 20+ pairs) small, deeply toothed leaflets. Small creamy-white flowers, often pink-tinged
-    in bud and 6-petalled, are borne in an irregular terminal cyme. Unlike its sibling meadowsweet (Filipendula
-    ulmaria) of wet ground, dropwort grows in dry calcareous grassland.'
-  height: 20-80 cm
-  habit: Erect perennial herb from a short rootstock bearing small root tubers
-  leaves: Mostly a basal rosette; long, fern-like, interruptedly pinnate with many (to 20+ pairs) small,
-    deeply toothed leaflets
-  flowers: Creamy-white, often pink-tinged in bud, 6-petalled, in an irregular terminal cyme; faintly
-    scented
-  stem: Erect, slender, little-branched and nearly leafless above the basal rosette
-  root: Fibrous roots bearing characteristic small tuber-like swellings ('dropwort' beads)
-  fruit: A cluster of small, straight, hairy achenes
-  flowering_period: May-August
+  text: A perennial herb from about 30 cm up to 80 cm tall, with a short rhizome and roots bearing small
+    nodules. The leaves are interruptedly pinnate, with leaflets cut into narrow, toothed segments. The
+    flowers grow in crowded, erect, branched clusters; they are pink on the outside in bud and white and
+    scentless when open. It flowers from May to August. It differs from meadowsweet in its finely cut
+    foliage, pink buds and whiter, scentless flowers.
+  height: About 30-80 cm
+  habit: Perennial herb with a short rhizome and nodule-bearing roots
+  leaves: Interruptedly pinnate; leaflets cut into narrow, toothed segments
+  flowers: Crowded erect branched clusters; pink outside in bud, white and scentless when open
+  root: Short rhizome; roots bearing small nodules
+  flowering_period: May to August
   reference_ids:
-  - REF-2725
-  - REF-2730
+  - REF-3998
+  - REF-3257
   status: verified
 habitat:
-  text: Dry, unimproved calcareous (chalk and limestone) grassland, meadows, roadside banks and open scrub.
-    Native across most of Europe, western Asia and North Africa. Unlike meadowsweet (F. ulmaria), which
-    grows in wet meadows and beside water, dropwort is a plant of dry ground.
+  text: Dry pastures on limestone or chalky soils. Native to Europe, including Britain, from Scandinavia
+    south and east to North Africa, Siberia and the Caucasus. Unlike meadowsweet, a plant of wet ground,
+    dropwort grows on dry ground.
   reference_ids:
-  - REF-2725
+  - REF-3257
+  - REF-3998
+  - REF-3256
   status: verified
 harvesting:
-  text: The flowering tops and aerial parts are gathered in summer while in flower; the fern-like leaves
-    and the small root tubers are also used. The material is dried for infusions and decoctions.
+  text: The flowers and flowering herb are gathered while in flower, from May to August. The root is the
+    part used in folk medicine, as a powder or a decoction, but no source gives a season for digging it.
   parts:
   - Flower
   - Aerial parts
   - Root
   - Leaf
-  season: Aerial parts and flowers in summer (May-August); roots and tubers in autumn
+  season: Flowers and herb while in flower (May to August); root season unsourced
   reference_ids:
-  - REF-0815
+  - REF-3257
+  - REF-3998
   status: verified
 harvest_readiness:
 - part: flower
@@ -84,16 +82,16 @@ harvest_readiness:
   status: gap
   notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Filipendula vulgaris. Grieve's entry (filed under Meadowsweet, as Spiraea Filipendula) describes the tubers and quotes Culpepper on their use but gives no digging season; PFAF likewise gives none. The DB harvesting.text claims 'roots and tubers in autumn' citing REF-0815, but that source was not verified for root timing, so no autumn stage is asserted here. Next seam: a Baltic or central-European ethnobotanical survey, or the dropwort-into-cultivation literature. SAFETY CRITICAL: the small root tubers of dropwort are name-confused with the FATAL Oenanthe crocata (hemlock water dropwort) - never dig dropwort roots without certain identification; see Dangerous Lookalikes."
 traditional_uses:
-  text: Dropwort shares much of the European folk-medicine history of its sibling meadowsweet. The salicylate-
-    and tannin-rich herb has been used as an astringent and anti-inflammatory remedy for diarrhoea and
-    other gastrointestinal complaints, for rheumatic and arthritic pain, for kidney and bladder 'gravel'
-    and urinary complaints, and as a wound and mouth wash. In Serbian and Balkan ethnomedicine the flowers
-    and roots are used; Russian traditional medicine uses dropwort extracts as a nootropic and calming
-    remedy for the nervous system.
+  text: Dropwort and meadowsweet are both used in folk medicine for rheumatism, fever and ulcers, and
+    dropwort is used in traditional medicine for various inflammation-related conditions. Its root has
+    been used against intestinal worms, for kidney and bladder stones, epilepsy and genital discharges;
+    Culpeper recommended the powdered root, or a decoction in white wine with a little honey, for kidney
+    complaints.
   reference_ids:
   - REF-0815
-  - REF-2736
-  - REF-2739
+  - REF-2725
+  - REF-3257
+  - REF-3998
   status: verified
 preparations:
 - name: Infusion
@@ -471,4 +469,5 @@ internal_notes: 'Created 2026-07-10. 16 PubMed-verified @article refs REF-2725..
   cognitive-function; REF-2736 (nootropic) remains.
   | 2026-11-12: symptom-source audit deep re-sweep batch 7 - Deep re-sweep. Genotoxicity study
   REF-2034 removed from the astringent action. Mechanistic notes trimmed of unsourced claims
-  ("salicylates", "traditional wound-wash use").'
+  ("salicylates", "traditional wound-wash use").
+  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-2725/REF-2730 (lab studies), harvesting REF-0815, traditional_uses REF-0815/REF-2736/REF-2739 (lab studies). RE-SOURCED: Grieve''s Meadowsweet page, which describes Dropwort (REF-3998, new), PFAF REF-3257; REF-0815 and REF-2725 kept only for their opening lines on folk and traditional use. Dropped as unsupported: 20-80 cm basal rosette, 20+ leaflet pairs, 6-petalled, western Asia, roadside banks and scrub, roots dug in autumn, salicylate- and tannin-rich, wound and mouth wash, Serbian/Balkan flowers and roots, Russian nootropic and calming use (REF-2736/REF-2739 are rat studies; their abstracts do not describe Russian traditional use).'

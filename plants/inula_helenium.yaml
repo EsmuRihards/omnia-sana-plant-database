@@ -37,35 +37,45 @@ constituents:
   reference_ids:
   - REF-0445
 botanical_description:
-  text: Tall, robust perennial herb with large, coarse, hairy leaves - broadly oval near the base and
-    progressively smaller up the stem - arising from a thick, aromatic rhizome. Large, shaggy, bright
-    yellow daisy-like flower heads with numerous narrow ray florets are borne at the top of stout, branching
-    stems.
-  height: 1-2.5 m
-  habit: Tall, robust, coarse-leaved perennial herb
-  leaves: Large, coarse, hairy, broadly oval near the base, smaller up the stem
-  flowers: Large, shaggy, bright yellow daisy-like heads with numerous narrow ray florets
-  stem: Stout, branching, hairy
-  root: Thick, aromatic, branching rhizome (the medicinal part)
-  fruit: Small achene with a pappus
-  flowering_period: July-August
+  text: One of the largest herbaceous plants, with a very stout, deeply furrowed stem 1.2-1.5 m tall,
+    branched near the top; the whole plant is downy. A basal rosette of enormous, pointed oval leaves,
+    30-45 cm long and about 10 cm broad, toothed and velvety beneath, grows on long stalks; the stem leaves
+    are shorter, relatively broader and clasp the stem. The bright yellow flower heads, 7.5-10 cm across,
+    resemble a double sunflower and sit on long stalks above broad, velvety bracts, from June to August.
+    The fruit is four-angled and crowned with a ring of pale reddish hairs. It grows from a large, succulent,
+    branching, brown and aromatic rootstock with large fleshy roots.
+  height: 1.2-1.5 m
+  habit: Large, downy perennial herb
+  leaves: Basal rosette of enormous, pointed oval leaves 30-45 x about 10 cm, toothed, velvety beneath,
+    long-stalked; stem leaves shorter and stem-clasping
+  flowers: Bright yellow heads 7.5-10 cm across, like a double sunflower, on long stalks above velvety
+    bracts
+  stem: Very stout, deeply furrowed, downy, branched near the top
+  root: Large, succulent, branching, brown, aromatic rootstock with large fleshy roots (the medicinal
+    part)
+  fruit: Four-angled achene crowned with pale reddish hairs (pappus)
+  flowering_period: June to August
   reference_ids:
-  - REF-0445
+  - REF-4005
+  - REF-3277
   status: verified
 habitat:
-  text: Grows in damp meadows, pastures, roadsides and woodland margins on moist, rich soils; native to
-    Europe and Western Asia and naturalised in North America.
+  text: Native to south-east Europe and naturalised in Britain, where it grows locally in damp pastures
+    and shady ground and is probably native only in southern England, having been grown for centuries
+    as a medicinal plant. It grows in fields, waysides, waste places and copses, often on moist soils
+    in shade.
   reference_ids:
-  - REF-0445
+  - REF-3277
+  - REF-4005
   status: verified
 harvesting:
-  text: The root and rhizome are dug in autumn of the second or later year, when sesquiterpene lactone
-    and inulin content is highest, then cleaned, sliced and dried.
+  text: The root is dug in autumn from plants two years old (one source says at least three years old)
+    and can be dried for later use.
   parts:
   - Root and rhizome
-  season: Autumn, from second-year or older plants
+  season: Autumn, from plants at least two years old
   reference_ids:
-  - REF-0445
+  - REF-3277
   status: verified
 harvest_readiness:
 - part: root
@@ -80,11 +90,14 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3277); the root/rhizome is dug in autumn from 2-year-old plants (another report says at least 3 years). Single lineage -> provisional."
 traditional_uses:
-  text: Elecampane root has a long European tradition, reflected in the old name 'elf dock', as a warming
-    expectorant remedy for productive cough, bronchitis and chronic respiratory catarrh, and topically
-    and internally as an antimicrobial for skin and wound infections.
+  text: Elecampane, also called elf dock, scabwort and horse-heal, was known to the Romans as a root used
+    both as a medicine and a condiment. It has been used as a diuretic, tonic, diaphoretic, expectorant,
+    antiseptic and astringent herb, chiefly for coughs, consumption and other chest complaints, as a favourite
+    domestic remedy for bronchitis, and also for digestive disorders; the names scabwort and horse-heal
+    come from a decoction used for scab in sheep and skin diseases in horses.
   reference_ids:
-  - REF-0445
+  - REF-4005
+  - REF-3277
   status: verified
 preparations:
 - name: Decoction
@@ -266,4 +279,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antim
   | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. REF-0445 (states Irish
   ethnomedical use for respiratory ailments) wired to respiratory-support. Notes rewritten. Grieve
   elecampane page URL tried 2026-11-12 returned 404 - bronchitis/cough stay inferred from
-  expectorant. Only PubMed trial is a multi-herb syrup (excluded).'
+  expectorant. Only PubMed trial is a multi-herb syrup (excluded).
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-0445 (lab study). RE-SOURCED: Grieve Elecampane (REF-4005, new) + PFAF REF-3277. Dropped as unsupported: 1-2.5 m, flowering July-August only (PFAF says July-August, Grieve June-August; Grieve''s wider range kept), damp meadows and roadsides on rich soils, western Asia, naturalised in North America, dug when sesquiterpene lactone and inulin are highest, sliced, warming expectorant for productive cough, antimicrobial for skin and wound infections.'

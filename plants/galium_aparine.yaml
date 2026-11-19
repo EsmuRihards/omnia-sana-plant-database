@@ -16,26 +16,32 @@ parts_used:
 - Seed
 - Stem
 botanical_description:
-  text: Scrambling, sprawling annual herb covered in tiny hooked bristles on its square stems, leaves
-    and seed capsules, allowing it to cling to clothing, fur and neighbouring plants as it climbs ('stickyweed').
-    The leaves are narrow and lance-shaped, borne in whorls of six to eight. Tiny white, four-petalled
-    flowers give way to small, round, bristly-hooked twin seed capsules ('goosegrass burrs').
-  height: Scrambling stems to 1-2 m, supported by other vegetation
-  habit: Scrambling, sprawling annual herb, climbing by hooked bristles
-  leaves: Narrow, lance-shaped, in whorls of 6-8, with hooked bristles on the margins
-  flowers: Tiny, white, four-petalled
-  stem: Square-sectioned, weak, covered in tiny hooked bristles
-  root: Shallow, fibrous root system
-  fruit: Small, round, bristly-hooked twin nutlet, clinging to fur and clothing
-  flowering_period: May-September
+  text: An annual herb whose weak, four-angled stems and leaves are covered in small, backward-pointing
+    hooked bristles that cling to whatever they touch, so it climbs ladder-like through hedgerows and
+    often forms matted masses; it is 10-80 cm tall but sprawls or scrambles to about 1 m. The narrow,
+    lance-shaped leaves, about 1.2 cm long and 0.6 cm broad, grow in whorls of six or eight and are rough
+    on both margins and surface. Small, star-like white or greenish-white flowers grow two or three together
+    from the leaf axils from June to August, followed by little globular seed-vessels covered in hooked
+    bristles.
+  height: 10-80 cm; sprawling or scrambling to about 1 m
+  habit: Annual herb, scrambling and climbing by hooked bristles
+  leaves: Narrow, lance-shaped, about 1.2 x 0.6 cm, in whorls of six or eight, rough with backward-pointing
+    prickles
+  flowers: Small, star-like, white or greenish-white, two or three together in the leaf axils
+  stem: Weak, four-angled, with hooked bristles
+  fruit: Small globular seed-vessels covered in hooked bristles
+  flowering_period: June to August
   reference_ids:
-  - REF-1720
+  - REF-4001
+  - REF-3260
   status: verified
 habitat:
-  text: A common scrambling weed of hedgerows, waste ground, gardens and field margins, climbing over
-    other vegetation for support; native to Europe, Asia and North Africa and widely naturalised elsewhere.
+  text: An abundant hedgerow weed throughout Europe and also in North America, springing up in fields
+    and waste places; also a weed of cultivated land and of moist, grassy places on most soils. Native
+    to Europe, including Britain, from Scandinavia south to Spain, and to northern and western Asia.
   reference_ids:
-  - REF-1720
+  - REF-4001
+  - REF-3260
   status: verified
 harvesting:
   text: The whole aerial plant (leaf, stem and seed) is cut in spring to early summer, before the fruit
@@ -81,11 +87,13 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3260); the seeds (roasted as a coffee substitute) ripen in late summer to early autumn. Single lineage -> provisional."
 traditional_uses:
-  text: Cleavers has a long European folk history as a lymphatic and diuretic 'spring tonic' herb, traditionally
-    used to support the urinary system and lymphatic drainage, and topically as a soothing, emollient
-    wash or poultice for skin irritation, wounds and minor swellings.
+  text: In old herbals cleavers was praised as a purifier of the blood, and its tops went into rural 'spring
+    drinks'. It was used as a diuretic, tonic, alterative and mild laxative, for dropsy, and for skin
+    conditions such as scurvy, scrofula, psoriasis, eczema and seborrhoea. The expressed juice was taken,
+    but as a fairly strong diuretic it was not given where diabetes was suspected.
   reference_ids:
-  - REF-1720
+  - REF-4001
+  - REF-3260
   status: verified
 preparations:
 - name: Fresh juice
@@ -252,4 +260,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and REF-1725 (Quinlan 1883 BMJ, chronic ulcers) wired directly to wounds; REF-1720 to infection.
   Wound/ulcer papers are not bruise evidence (mechanistic cards hidden).
   | 2026-11-12: symptom-source audit deep re-sweep batch 7 - Deep re-sweep. Notes rewritten. No
-  trials on PubMed.'
+  trials on PubMed.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-1720 (lab study). RE-SOURCED: Grieve Clivers (REF-4001, new) + PFAF REF-3260. Dropped as unsupported: 1-2 m, shallow fibrous root, four-petalled, twin nutlet, May-September, North Africa, widely naturalised, lymphatic tonic and drainage, topical emollient wash or poultice.'

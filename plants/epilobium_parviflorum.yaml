@@ -41,34 +41,37 @@ constituents:
   reference_ids:
   - REF-0403
 botanical_description:
-  text: Slender, softly hairy perennial herb with narrow, lance-shaped leaves and small, four-petalled,
-    pale pink to lilac flowers with a notched tip, borne singly in the upper leaf axils. After flowering,
-    long, narrow seed pods split to release cottony-tufted seeds, typical of the willowherb genus.
-  height: 20-60 cm
-  habit: Slender, softly hairy, erect perennial herb
-  leaves: Narrow, lance-shaped, softly hairy
-  flowers: Small, four-petalled, pale pink to lilac, notched, borne singly in upper leaf axils
-  stem: Slender, softly hairy, erect
-  root: Fibrous root with short rhizome
-  fruit: Long, narrow seed pod releasing cottony-tufted seeds
-  flowering_period: June-September
+  text: A perennial herb 30-80 cm tall, with an erect stem densely covered in hairs, especially low down.
+    The leaves are opposite, unstalked, lance-shaped and toothed, rounded at the base, 4-10 cm long. The
+    tiny flowers, 6-7 mm across, are pale pink or pale purple, with four petals, eight stamens and a four-lobed
+    stigma, and open from June to August. The fruit is a capsule 3-7 cm long holding very small black
+    seeds with white hairs that carry them on the wind.
+  height: 30-80 cm
+  habit: Erect perennial herb
+  leaves: Opposite, unstalked, lance-shaped, toothed, rounded at the base, 4-10 cm
+  flowers: Tiny (6-7 mm), pale pink or pale purple, four petals, eight stamens, four-lobed stigma
+  stem: Erect, densely hairy, especially below
+  fruit: Capsule 3-7 cm long; tiny black seeds with white hairs
+  flowering_period: June to August (July-August in Britain)
   reference_ids:
-  - REF-0403
+  - REF-4000
+  - REF-3252
   status: verified
 habitat:
-  text: Grows in damp meadows, ditches, streamsides and waste ground on moist soils; native to Europe
-    and temperate Asia.
+  text: Stream banks, marshes and fens, up to about 360 m. Native to Europe, including Britain, from Sweden
+    south and east to North Africa and western Asia as far as India.
   reference_ids:
-  - REF-0403
+  - REF-3252
   status: verified
 harvesting:
-  text: The flowering aerial parts are cut in summer while in flower, and dried in a warm, shaded, airy
-    place.
+  text: The herb (aerial parts) is the part used, gathered while the plant is in flower, from July to
+    August.
   parts:
   - Aerial parts (herb)
-  season: Summer flowering period
+  season: While in flower (July to August)
   reference_ids:
-  - REF-0403
+  - REF-3252
+  - REF-3075
   status: verified
 harvest_readiness:
 - part: aerial-parts
@@ -83,12 +86,13 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3252); the medicinal part is the flowering aerial herb, gathered in summer while in flower (in flower July-August). PFAF gives the flowering stage rather than an explicit harvest sentence; flowering-herb collection is the standard stage for Epilobium. Single lineage -> provisional."
 traditional_uses:
-  text: Small-flowered willowherb, along with related Epilobium species, has a Central European folk tradition
-    as a supportive remedy for lower urinary tract symptoms associated with benign prostatic hyperplasia
-    (BPH) and prostatitis, and as an antimicrobial and anti-inflammatory herb for minor infections; the
-    traditional prostate-support use is attributed mainly to its oenothein B content, though robust clinical
-    evidence remains limited.
+  text: The EU herbal monograph accepts traditional use of the herb of small-flowered willowherb (and/or
+    rosebay willowherb), taken as a tea, for relief of lower urinary tract symptoms of benign prostatic
+    enlargement once serious conditions have been ruled out by a doctor; the use rests on long-standing
+    tradition, not on clinical trials. Extracts are among the herbal remedies used for benign prostatic
+    hyperplasia.
   reference_ids:
+  - REF-3075
   - REF-0403
   status: verified
 preparations:
@@ -252,4 +256,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. REF-2301 (fireweed, E.
   angustifolium) moved to Chamerion angustifolium. Genus reviews REF-0803/REF-0618 hidden from
   arthritis, inflammation and skin-irritation mechanistic cards (prose-only genus attribution);
-  REF-2302/REF-2298 (name E. parviflorum) remain.'
+  REF-2302/REF-2298 (name E. parviflorum) remain.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-0403 (lab study of BPH remedies). RE-SOURCED: Wikipedia Epilobium parviflorum (REF-4000, new), PFAF REF-3252, EU monograph REF-3075; REF-0403 kept only for its title''s point that it is used for BPH. Dropped as unsupported: notched petals, flowers borne singly in upper axils, fibrous root with short rhizome, damp meadows, ditches and waste ground, temperate Asia, dried in a warm airy place, Central European folk tradition, prostatitis, antimicrobial use for minor infections, oenothein B as the basis of the prostate use.'

@@ -18,41 +18,46 @@ parts_used:
 - Leaf
 - Root
 botanical_description:
-  text: A tall, erect perennial herb of the primrose family, 60-150 cm high, spreading by creeping rhizomes
-    to form patches. The stems are softly downy and bear lance-shaped leaves in whorls of three or four
-    (or opposite pairs), often gland-dotted. Bright yellow, five-petalled star-shaped flowers, about 15
-    mm across and often with reddish margins to the sepals, are carried in leafy branching clusters (panicles)
-    at the top of the stem in summer. Despite the shared name 'loosestrife', it is unrelated to purple
-    loosestrife (Lythrum salicaria).
-  height: 60-150 cm
-  habit: Tall erect rhizomatous perennial, spreading in patches
-  leaves: Lance-shaped, in whorls of 3-4 or opposite, often gland-dotted, softly hairy beneath
-  flowers: Bright yellow, 5-petalled, star-shaped (about 15 mm), in leafy terminal panicles; sepals often
-    red-margined
-  stem: Erect, softly downy, little-branched below the flower cluster
-  root: Creeping rhizome with fibrous roots
-  fruit: A small globular capsule
-  flowering_period: June-August
+  text: A tall perennial, 60-120 cm high, with a creeping root that sends up new stems each spring. The
+    slightly branched stems are covered in soft, fine down. The nearly stalkless leaves grow in pairs
+    or in whorls of three or four, the same arrangement throughout a plant; they are oblong or lance-shaped,
+    7.5-15 cm long and about 3 cm broad, with smooth edges, downy beneath and marked with black gland
+    dots above. The top of the stem carries a mass of golden flowers on slightly sticky stalks; each flower
+    is about 2 cm across, a cup of five petals joined near the base, with a five-pointed calyx fringed
+    with fine red hairs. It has no nectar or scent. The fruit is a rounded capsule that opens by five
+    valves.
+  height: 60-120 cm
+  habit: Tall perennial from a creeping root
+  leaves: Nearly stalkless, in pairs or whorls of three or four, oblong to lance-shaped, 7.5-15 x about
+    3 cm, downy beneath, black gland dots above
+  flowers: Golden-yellow, about 2 cm across, five petals joined near the base, calyx fringed with red
+    hairs, in a terminal mass
+  stem: Slightly branched, softly downy; four-angled where the leaves are paired
+  root: Creeping, perennial
+  fruit: Rounded capsule opening by five valves
+  flowering_period: Summer (April to September in PFAF)
   reference_ids:
-  - REF-2796
+  - REF-4009
+  - REF-3290
   status: verified
 habitat:
-  text: 'Wet ground: margins of rivers, lakes, ponds and ditches, fens, marshes, wet meadows and damp
-    woodland, across Europe and temperate Asia (and naturalised in North America). It favours moist to
-    waterlogged, fertile soils in sun or light shade and can form dense stands.'
+  text: Marshes, streams and shallow water in reed swamps, and shady banks near water, avoiding acid soils.
+    Native to most of Europe and Asia, including Britain, except the far north and south.
   reference_ids:
-  - REF-2796
+  - REF-3290
+  - REF-4009
   status: verified
 harvesting:
-  text: The flowering aerial parts (leaves, stems, flowers) are gathered in summer while in flower and
-    dried; the root/rhizome is also used. The plant is best cut from established patches in wet ground.
+  text: The whole herb is collected from wild plants in July, when in flower, and dried; the dried herb
+    tastes astringent and slightly acid but has no smell.
   parts:
   - Aerial parts
   - Flower
   - Root
-  season: Aerial parts in flower (June-August); root in autumn
+  season: July, when in flower
   reference_ids:
-  - REF-2796
+  - REF-4009
+  - REF-3290
   status: verified
 harvest_readiness:
 - part: aerial-parts
@@ -92,17 +97,15 @@ harvest_readiness:
   status: gap
   notes: "GAP (documented dead end, re-searched 2026-08-15). PFAF gives a harvest stage for the flowering HERB of Lysimachia vulgaris ('It is harvested when in flower in July and dried for later use') but says nothing about the root; the Madaus entry filed under this genus covers Lysimachia nummularia, a different species, and specifies 'the fresh, flowering plant WITHOUT root'. No root stage is asserted. Next seam: a central or eastern-European flora treating L. vulgaris root specifically."
 traditional_uses:
-  text: 'Yellow loosestrife has a European folk-medicine reputation as an astringent and styptic: the
-    flavonoid- and tannin-rich herb was used to stop bleeding (nosebleeds, wounds), for diarrhoea and
-    dysentery, as a gargle and wash for mouth ulcers and sore throat, and to soothe inflammation. The
-    dried herb was also burned to repel insects. More broadly, the genus Lysimachia is important in East
-    Asian medicine - the closely related L. vulgaris var. davurica is used for liver and digestive complaints,
-    while other congeners such as L. christinae (jin qian cao) are classic remedies for urinary and gallstones
-    - reflecting a shared saponin and flavonoid chemistry.'
+  text: Yellow loosestrife is an astringent, demulcent and expectorant herb, used mainly for diarrhoea
+    and dysentery, to stop bleeding from the mouth, nose and wounds and other haemorrhages, and to cleanse
+    wounds; as a gargle it was used for a relaxed throat and quinsy, and it was thought equal to eyebright
+    for sore eyes. Because gnats and flies seem to dislike the plant, it was put under the yokes of oxen
+    to quieten them, which may explain the name loosestrife, and the dried herb was burnt in houses so
+    that the smoke would drive away gnats and flies.
   reference_ids:
-  - REF-2796
-  - REF-2794
-  - REF-2802
+  - REF-4009
+  - REF-3290
   status: verified
 preparations:
 - name: Infusion
@@ -370,4 +373,5 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. REF-2805 studies
   Lysimachia foenum-graecum, a different species - purged and deleted. Notes rewritten to their
   lab sources (all preclinical; REF-2796 states folk use for fever, ulcer, diarrhoea and wounds).
-  No trials on PubMed.'
+  No trials on PubMed.
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting cited only REF-2796 and traditional_uses REF-2796/REF-2794/REF-2802 (lab studies). RE-SOURCED: Grieve Yellow Loosestrife (REF-4009, new) + PFAF REF-3290. Dropped as unsupported or wrong-species: 150 cm, red-margined sepals (Grieve: calyx fringed with red hairs), naturalised in North America, fertile waterlogged soils, root dug in autumn, flavonoid- and tannin-rich, East Asian use of L. vulgaris var. davurica and L. christinae (congeners, not this species), shared saponin chemistry.'

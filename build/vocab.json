@@ -1542,6 +1542,28 @@
    ]
   },
   {
+   "id": "asarum-europaeum",
+   "label": "European wild ginger",
+   "scientific_name": "Asarum europaeum",
+   "family": "Aristolochiaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "asarabacca",
+    "wild ginger",
+    "parastā kumeļpēda"
+   ],
+   "toxic_principle": "Aristolochic acids, including aristolochic acid I",
+   "toxicity": "A poisonous plant. It contains aristolochic acid, which damages DNA and causes kidney disease (aristolochic acid nephropathy) and cancer of the upper urinary tract; the damage is irreversible and there is no effective treatment.",
+   "toxicity_category": "mixed",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-3951",
+    "REF-3947",
+    "REF-3948",
+    "REF-3953"
+   ]
+  },
+  {
    "id": "aethusa-cynapium",
    "label": "Fool's parsley",
    "scientific_name": "Aethusa cynapium",
@@ -1834,6 +1856,22 @@
    "references": [
     "REF-2691",
     "REF-2692"
+   ]
+  },
+  {
+   "id": "mentha-pulegium",
+   "label": "Pennyroyal",
+   "scientific_name": "Mentha pulegium",
+   "family": "Lamiaceae",
+   "kingdom": "plant",
+   "toxic_principle": "Pulegone (the main constituent of the essential oil) and its metabolite menthofuran",
+   "toxicity": "Pennyroyal oil is toxic to the liver. Ingestion has caused fatal liver failure in adults, and mint teas brewed from pennyroyal plants caused liver failure and brain injury in two infants, one of whom died.",
+   "toxicity_category": "mixed",
+   "default_severity": "fatal",
+   "references": [
+    "REF-3949",
+    "REF-3950",
+    "REF-3952"
    ]
   },
   {

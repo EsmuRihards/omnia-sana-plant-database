@@ -350,9 +350,39 @@ drug_class_interactions:
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 lookalikes_review:
-  outcome: none-known
+  outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
-  reviewed_date: '2026-07-07'
+  reviewed_date: '2026-11-19'
+dangerous_lookalikes:
+- dangerous_plant: asarum-europaeum
+  severity: dangerous
+  confused_part: The rootstock, if a ginger-scented wild root is gathered as a substitute for ginger
+  confusion_context: European wild ginger (Latvian parastā kumeļpēda) shares the name "wild ginger"
+    and its roots have a ginger aroma, but it is not closely related to culinary ginger. It is common
+    in woods throughout Latvia and is a poisonous plant - it contains aristolochic acid, which causes
+    irreversible kidney damage and cancer of the urinary tract. Culinary ginger is a cultivated plant
+    that does not exist in the wild, so a ginger-scented root dug from a Latvian wood cannot be ginger.
+  distinguishing_features:
+  - 'Size and leaves: European wild ginger lies close to the ground, only 3-10 cm high, with rounded,
+    evergreen leaves 5-8 cm wide with a kidney-shaped base. Ginger grows leafy false stems about 1 m
+    tall with narrow leaf blades.'
+  - 'Flower: European wild ginger has a single drooping, brownish-red flower close to the ground in April
+    and May.'
+  - 'Rootstock: European wild ginger has creeping rhizomes with scales at the nodes, growing in woodland
+    soil.'
+  - 'Where it grows: culinary ginger is a cultivated plant that does not exist in its wild state, so it
+    is never found growing in European woods.'
+  key_test: Ask where it came from. Ginger is bought, never foraged - it does not grow wild anywhere -
+    so any ginger-scented root dug in a European wood is not ginger and must not be eaten.
+  reference_ids:
+  - REF-3951
+  - REF-3953
+  - REF-3954
+  - REF-3947
+  - REF-3948
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-19'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-08-15'
@@ -378,7 +408,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (off-target). Added: dysmenorrhoea MA, OA MA (2020 knee-OA MA no-effect), CINV MA (CINV RCT
   REF-0634 no-effect), inflammation-marker MA, Grieve REF-3876. New pairs (owner rule):
   blood-sugar, high-blood-pressure, migraine (MA; prophylaxis RCT no-effect), muscle-soreness (2
-  RCTs).'
+  RCTs).
+  | 2026-11-19: lookalikes_review none-known -> has-lookalikes. Added Asarum europaeum (European wild ginger, Latvian parastā kumeļpēda; severity dangerous): Latvijas daba REF-3951 (poisonous, common throughout Latvia), aristolochic acid REF-3947/REF-3948, ginger aroma REF-3953, ginger is a cultigen not found wild REF-3954. Approved by the owner 2026-11-19. NOTE: botanical_description cites REF-0634, a chemotherapy-nausea RCT that does not describe the plant - wrong-source citation, still to fix.'
 references:
 - REF-0269
 - REF-0639

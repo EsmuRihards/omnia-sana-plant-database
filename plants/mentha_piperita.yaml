@@ -375,9 +375,33 @@ references:
 - REF-3058
 - REF-0004
 lookalikes_review:
-  outcome: none-known
+  outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
-  reviewed_date: '2026-07-07'
+  reviewed_date: '2026-11-19'
+dangerous_lookalikes:
+- dangerous_plant: mentha-pulegium
+  severity: fatal
+  confused_part: Leaves and flowering tops gathered or grown for mint tea
+  confusion_context: Pennyroyal is a mint whose crushed leaves smell strongly of spearmint, so it can pass
+    for an ordinary mint. Two infants were given home-brewed mint tea made from mint plants that turned
+    out to contain pennyroyal oil; both developed liver failure with brain injury, and one died. Pennyroyal
+    tea can be fatal to infants and children, and pennyroyal oil has caused fatal liver failure in adults.
+  distinguishing_features:
+  - 'Flowers: pennyroyal''s small flowers are packed in rings at the leaf joints, widely separated along
+    the stem. Peppermint''s small, pale purple flowers are gathered into dense spikes at the tips of the
+    stems.'
+  - 'Leaves: pennyroyal leaves are small, narrowly oval and downy, only 2-3 cm long and about 1 cm wide.'
+  - 'Habit: pennyroyal is low, creeping or upright to about 40 cm; peppermint stands 30-90 cm tall.'
+  key_test: Look at the flowers - rings of flowers spaced out down the stem mean it is not peppermint. Never
+    give a home-made mint tea to a baby or young child.
+  reference_ids:
+  - REF-3950
+  - REF-3949
+  - REF-3952
+  - REF-1204
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-19'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-08-15'
@@ -409,4 +433,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   dropped (off-target). New pairs (owner rule): ibs (4 MAs + held SR; PERSUADE REF-3664 and RCT
   REF-3665 no-effect), nausea (PONV RCTs). Tension-headache RCT REF-3666 added; foot-bath RCT
   REF-3667 no-effect. Nipple-pain MA REF-3668 added to pain. Not used: lemon+peppermint menopausal
-  massage (combination); knee-OA aromatherapy massage (massage confound).'
+  massage (combination); knee-OA aromatherapy massage (massage confound).
+  | 2026-11-19: lookalikes_review none-known -> has-lookalikes. Added Mentha pulegium (pennyroyal; severity fatal): infants poisoned by mint tea from pennyroyal plants REF-3950, fatal adult case series REF-3949, description and spearmint smell REF-3952; peppermint habit from REF-1204. Approved by the owner 2026-11-19.'

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 73,
+ "count": 75,
  "plants_covered": 189,
  "dangerous_plants": [
   {
@@ -300,6 +300,28 @@
    ]
   },
   {
+   "id": "asarum-europaeum",
+   "label": "European wild ginger",
+   "scientific_name": "Asarum europaeum",
+   "family": "Aristolochiaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "asarabacca",
+    "wild ginger",
+    "parastā kumeļpēda"
+   ],
+   "toxic_principle": "Aristolochic acids, including aristolochic acid I",
+   "toxicity": "A poisonous plant. It contains aristolochic acid, which damages DNA and causes kidney disease (aristolochic acid nephropathy) and cancer of the upper urinary tract; the damage is irreversible and there is no effective treatment.",
+   "toxicity_category": "mixed",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-3951",
+    "REF-3947",
+    "REF-3948",
+    "REF-3953"
+   ]
+  },
+  {
    "id": "aethusa-cynapium",
    "label": "Fool's parsley",
    "scientific_name": "Aethusa cynapium",
@@ -592,6 +614,22 @@
    "references": [
     "REF-2691",
     "REF-2692"
+   ]
+  },
+  {
+   "id": "mentha-pulegium",
+   "label": "Pennyroyal",
+   "scientific_name": "Mentha pulegium",
+   "family": "Lamiaceae",
+   "kingdom": "plant",
+   "toxic_principle": "Pulegone (the main constituent of the essential oil) and its metabolite menthofuran",
+   "toxicity": "Pennyroyal oil is toxic to the liver. Ingestion has caused fatal liver failure in adults, and mint teas brewed from pennyroyal plants caused liver failure and brain injury in two infants, one of whom died.",
+   "toxicity_category": "mixed",
+   "default_severity": "fatal",
+   "references": [
+    "REF-3949",
+    "REF-3950",
+    "REF-3952"
    ]
   },
   {
@@ -2561,10 +2599,34 @@
    "scientific": "Zingiber officinale",
    "common_slug": "ginger",
    "wp_post_id": 153,
-   "review_outcome": "none-known",
-   "lookalikes": [],
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "asarum-europaeum",
+     "dangerous_plant_label": "European wild ginger",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "The rootstock, if a ginger-scented wild root is gathered as a substitute for ginger",
+     "confusion_context": "European wild ginger (Latvian parastā kumeļpēda) shares the name \"wild ginger\" and its roots have a ginger aroma, but it is not closely related to culinary ginger. It is common in woods throughout Latvia and is a poisonous plant - it contains aristolochic acid, which causes irreversible kidney damage and cancer of the urinary tract. Culinary ginger is a cultivated plant that does not exist in the wild, so a ginger-scented root dug from a Latvian wood cannot be ginger.",
+     "distinguishing_features": [
+      "Size and leaves: European wild ginger lies close to the ground, only 3-10 cm high, with rounded, evergreen leaves 5-8 cm wide with a kidney-shaped base. Ginger grows leafy false stems about 1 m tall with narrow leaf blades.",
+      "Flower: European wild ginger has a single drooping, brownish-red flower close to the ground in April and May.",
+      "Rootstock: European wild ginger has creeping rhizomes with scales at the nodes, growing in woodland soil.",
+      "Where it grows: culinary ginger is a cultivated plant that does not exist in its wild state, so it is never found growing in European woods."
+     ],
+     "key_test": "Ask where it came from. Ginger is bought, never foraged - it does not grow wild anywhere - so any ginger-scented root dug in a European wood is not ginger and must not be eaten.",
+     "references": [
+      "REF-3951",
+      "REF-3953",
+      "REF-3954",
+      "REF-3947",
+      "REF-3948"
+     ],
+     "status": "approved"
+    }
+   ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
-   "reviewed_date": "2026-07-07"
+   "reviewed_date": "2026-11-19"
   },
   {
    "plant_id": "ginkgo-biloba",
@@ -3484,10 +3546,32 @@
    "scientific": "Mentha × piperita",
    "common_slug": "peppermint",
    "wp_post_id": 155,
-   "review_outcome": "none-known",
-   "lookalikes": [],
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "mentha-pulegium",
+     "dangerous_plant_label": "Pennyroyal",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Leaves and flowering tops gathered or grown for mint tea",
+     "confusion_context": "Pennyroyal is a mint whose crushed leaves smell strongly of spearmint, so it can pass for an ordinary mint. Two infants were given home-brewed mint tea made from mint plants that turned out to contain pennyroyal oil; both developed liver failure with brain injury, and one died. Pennyroyal tea can be fatal to infants and children, and pennyroyal oil has caused fatal liver failure in adults.",
+     "distinguishing_features": [
+      "Flowers: pennyroyal's small flowers are packed in rings at the leaf joints, widely separated along the stem. Peppermint's small, pale purple flowers are gathered into dense spikes at the tips of the stems.",
+      "Leaves: pennyroyal leaves are small, narrowly oval and downy, only 2-3 cm long and about 1 cm wide.",
+      "Habit: pennyroyal is low, creeping or upright to about 40 cm; peppermint stands 30-90 cm tall."
+     ],
+     "key_test": "Look at the flowers - rings of flowers spaced out down the stem mean it is not peppermint. Never give a home-made mint tea to a baby or young child.",
+     "references": [
+      "REF-3950",
+      "REF-3949",
+      "REF-3952",
+      "REF-1204"
+     ],
+     "status": "approved"
+    }
+   ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
-   "reviewed_date": "2026-07-07"
+   "reviewed_date": "2026-11-19"
   },
   {
    "plant_id": "hypericum-perforatum",

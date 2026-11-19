@@ -173,7 +173,7 @@ indications:
   reference_ids:
   - REF-0466
   - REF-1430
-  - REF-3678
+  - REF-2498
   status: verified
 - condition: cancer
   note: Tulsi and its compounds showed anticancer and radioprotective effects in lab and animal studies
@@ -316,4 +316,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   and fatigue. REF-1427 (Holixer RCT) measured stress, mood and sleep, not anxiety - removed from
   anxiety. REF-0596 (cognition RCT) names no memory outcome - removed from memory.
   | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. Single-blind diabetes
-  RCT REF-3678 added to blood-sugar. Notes rewritten. Few trials on PubMed.'
+  RCT REF-3678 added to blood-sugar. Notes rewritten. Few trials on PubMed.
+  | 2026-11-19: REF-3678 was a duplicate bibliography entry of REF-2498 (Agrawal 1996, same trial, PMID
+  8880292); merged - blood-sugar now cites REF-2498, REF-3678 deleted, PMID added to REF-2498. WHO posology
+  VERIFIED from the monograph text itself (archived PDF of WHO monographs Vol 2, web.archive.org snapshot
+  2022-03-25 of iris 10665/42052, ''Folium Ocimi Sancti'', Posology: ''Daily dosage: 6-12 g crude drug as
+  a decoction''), so the Infusion (tea) dosage entry no longer rests on a stored summary.'

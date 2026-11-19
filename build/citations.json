@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3708,
+ "count": 3709,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -105437,6 +105437,30 @@
    "scientific": [
     "Fomitopsis betulina"
    ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3955",
+   "key": "foc2000zingiber",
+   "type": "book",
+   "title": "Zingiber Miller",
+   "authors": "Flora of China Editorial Committee",
+   "journal": "",
+   "year": "2000",
+   "doi": "",
+   "url": "http://flora.huh.harvard.edu/china/PDF/PDF24/zingiber.pdf",
+   "link": "http://flora.huh.harvard.edu/china/PDF/PDF24/zingiber.pdf",
+   "link_type": "url",
+   "citation": "Flora of China Editorial Committee (2000) 'Zingiber Miller', pp. 323--333. Available at: http://flora.huh.harvard.edu/china/PDF/PDF24/zingiber.pdf",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Zingiber Miller",
+   "plants": [],
+   "scientific": [],
    "actions": [],
    "conditions": []
   },

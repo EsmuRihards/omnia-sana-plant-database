@@ -16,12 +16,17 @@ constituents:
 - name: Gingerols and shogaols
   compounds:
   - gingerol
-  note: The pungent phenolic constituents of the rhizome (notably 6-gingerol, which dehydrates to 6-shogaol
-    on drying) responsible for ginger's antiemetic and anti-inflammatory activity; a standardized regimen
-    of 84 mg/day gingerols/shogaols was effective against chemotherapy-induced nausea.
+  note: The pungent phenolic constituents of the rhizome. Gingerols are its major pungent compounds; they
+    are heat-labile and readily lose water to form the corresponding shogaols, which give dried ginger
+    its characteristic pungency. Ginger's effects against nausea, arthritis and pain have been associated
+    with the gingerols, and both gingerols and shogaols show anti-inflammatory and antioxidant activity.
+    In a randomised trial in chemotherapy patients, standardised ginger capsules providing 84 mg/day of
+    gingerols and shogaols, added to standard anti-sickness medicines, reduced delayed nausea but not
+    acute or anticipatory nausea.
   reference_ids:
+  - REF-3956
+  - REF-0164
   - REF-0634
-  - REF-0637
 botanical_description:
   text: Herbaceous perennial. Branched, thickened, fleshy and strongly aromatic rhizomes, yellowish inside,
     send up erect, leafy false stems (pseudostems) 50-100 cm tall, made of the rolled bases of the leaves.
@@ -429,7 +434,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   RCTs).
   | 2026-11-19: lookalikes_review none-known -> has-lookalikes. Added Asarum europaeum (European wild ginger, Latvian parastā kumeļpēda; severity dangerous): Latvijas daba REF-3951 (poisonous, common throughout Latvia), aristolochic acid REF-3947/REF-3948, ginger aroma REF-3953, ginger is a cultigen not found wild REF-3954. Approved by the owner 2026-11-19. NOTE: botanical_description cites REF-0634, a chemotherapy-nausea RCT that does not describe the plant - wrong-source citation, still to fix.
   | 2026-11-19: botanical_description RE-SOURCED. It cited REF-0634 (Crichton 2023, a chemotherapy-nausea RCT that says nothing about the plant). Now Flora of China vol. 24 (REF-3955, read from the archived PDF) plus Wikipedia Ginger (REF-3954, herbaceous perennial; pseudostems of rolled leaf bases). Dropped as unsupported: ''rarely flowers in cultivation'', ''rarely sets seed; propagated by rhizome division'', ''plus fibrous roots''. STILL WRONG-SOURCED (REF-0634 is the only reference): traditional_uses (verified), preparations[1] capsules (verified; the trial supports nausea capsules only, not joint pain), dosage[0] (draft). Owner informed.
-  | 2026-11-19: traditional_uses, preparations[1] and dosage[0] RE-SOURCED (all cited only REF-0634, a chemotherapy-nausea RCT). traditional_uses now: Ali 2008 REF-0007 (Chinese, Ayurvedic, Tibb-Unani uses since antiquity), Grieve 1931 REF-3876 (stimulant, carminative), EMA 2025 monograph REF-3142 (indications read from the archived PDF EMA/HMPC/885789/2022 Rev. 1), Viljoen 2014 REF-0295, Bartels 2015 REF-3873, Lin 2025 REF-3867. Dropped as unsupported: ''one of the longest and most widespread medicinal histories of any spice'', ''warming''. preparations[1]: Crichton REF-0634 + Lin REF-3867 (capsules) + Araya-Quintanilla REF-3874 (knee-OA capsules). dosage[0]: replaced the unsourced trial-dose summary (draft) with the EMA 2025 posology (verified from the PDF). Still on REF-0634 and plausibly mis-sourced: constituents[0] (6-gingerol chemistry, cites REF-0634 + REF-0637).'
+  | 2026-11-19: traditional_uses, preparations[1] and dosage[0] RE-SOURCED (all cited only REF-0634, a chemotherapy-nausea RCT). traditional_uses now: Ali 2008 REF-0007 (Chinese, Ayurvedic, Tibb-Unani uses since antiquity), Grieve 1931 REF-3876 (stimulant, carminative), EMA 2025 monograph REF-3142 (indications read from the archived PDF EMA/HMPC/885789/2022 Rev. 1), Viljoen 2014 REF-0295, Bartels 2015 REF-3873, Lin 2025 REF-3867. Dropped as unsupported: ''one of the longest and most widespread medicinal histories of any spice'', ''warming''. preparations[1]: Crichton REF-0634 + Lin REF-3867 (capsules) + Araya-Quintanilla REF-3874 (knee-OA capsules). dosage[0]: replaced the unsourced trial-dose summary (draft) with the EMA 2025 posology (verified from the PDF). Still on REF-0634 and plausibly mis-sourced: constituents[0] (6-gingerol chemistry, cites REF-0634 + REF-0637).
+  | 2026-11-19 (monograph-source audit): constituents[0] RE-SOURCED. It cited REF-0634 (chemotherapy-nausea RCT) and REF-0637 (osteoarthritis supplement meta-analysis), neither of which describes ginger chemistry; REF-0637 dropped. Now Semwal 2015 Phytochemistry review REF-3956 (new; abstract: gingerols are the major pungent compounds, heat-labile, dehydrate to shogaols that give dried ginger its pungency; nausea/arthritis/pain associated with gingerols; both groups anti-inflammatory and antioxidant) + Mashhadi 2013 REF-0164 (full text PMC3665023: non-volatile pungent compounds are gingerols, shogaols, paradols, zingerone) + REF-0634 kept only for the 84 mg/day regimen, now stated as delayed (not acute or anticipatory) nausea. Dropped notably 6-gingerol: Semwal abstract names the class, not the analogue.'
 references:
 - REF-0269
 - REF-0639

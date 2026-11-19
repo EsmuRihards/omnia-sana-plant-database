@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3709,
+ "count": 3710,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -71752,6 +71752,36 @@
    "conditions": [
     "Blood sugar / diabetes support"
    ]
+  },
+  {
+   "ref_id": "REF-3956",
+   "key": "semwal2015gingerols",
+   "type": "article",
+   "title": "Gingerols and shogaols: Important nutraceutical principles from ginger",
+   "authors": "Semwal, R.B., Semwal, D.K., Combrinck, S. and Viljoen, A.M.",
+   "journal": "Phytochemistry",
+   "year": "2015",
+   "doi": "10.1016/j.phytochem.2015.07.012",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26228533/",
+   "link": "https://doi.org/10.1016/j.phytochem.2015.07.012",
+   "link_type": "doi",
+   "citation": "Semwal, R.B., Semwal, D.K., Combrinck, S. and Viljoen, A.M (2015) 'Gingerols and shogaols: Important nutraceutical principles from ginger', Phytochemistry, 117, pp. 554--568. doi:10.1016/j.phytochem.2015.07.012",
+   "abstract": "Gingerols are the major pungent compounds present in the rhizomes of ginger (Zingiber officinale Roscoe) and are renowned for their contribution to human health and nutrition. Medicinal properties of ginger, including the alleviation of nausea, arthritis and pain, have been associated with the gingerols. Gingerol analogues are thermally labile and easily undergo dehydration reactions to form the corresponding shogaols, which impart the characteristic pungent taste to dried ginger. Both gingerols and shogaols exhibit a host of biological activities, ranging from anticancer, anti-oxidant, antimicrobial, anti-inflammatory and anti-allergic to various central nervous system activities. Shogaols are important biomarkers used for the quality control of many ginger-containing products, due to their diverse biological activities. In this review, a large body of available knowledge on the biosynthesis, chemical synthesis and pharmacological activities, as well as on the structure-activity relationships of various gingerols and shogaols, have been collated, coherently summarised and discussed. The manuscript highlights convincing evidence indicating that these phenolic compounds could serve as important lead molecules for the development of therapeutic agents to treat various life-threatening human diseases, particularly cancer. Inclusion of ginger or ginger extracts in nutraceutical formulations could provide valuable protection against diabetes, cardiac and hepatic disorders.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Gingerols and shogaols: Important nutraceutical principles from ginger",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0009",

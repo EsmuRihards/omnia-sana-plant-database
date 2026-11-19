@@ -79,13 +79,22 @@ harvest_readiness:
   status: provisional
   notes: "Useful Tropical Plants / Ken Fern (REF-3371); the root is lifted with the rhizome when the stalks wither. Single lineage -> provisional."
 traditional_uses:
-  text: Ginger rhizome has one of the longest and most widespread medicinal histories of any spice, used
-    across Chinese, Ayurvedic and Western herbal traditions as a warming digestive carminative, an antiemetic
-    for nausea and motion sickness, and an anti-inflammatory remedy for joint pain; this traditional reputation
-    is now supported by an extensive clinical evidence base, particularly for nausea (including pregnancy
-    and chemotherapy-related) and osteoarthritis.
+  text: Ginger has been used since antiquity in Chinese, Ayurvedic and Tibb-Unani herbal medicine for a
+    wide range of ailments, including arthritis, rheumatism, muscular aches and pains, sore throats, cramps,
+    indigestion, constipation, vomiting and fever. In Western herbalism it was a stimulant and carminative
+    given for indigestion and flatulent colic. The European Medicines Agency recognises well-established
+    use for preventing nausea and vomiting in motion sickness, and traditional use for motion sickness,
+    mild spasmodic digestive complaints with bloating and wind, temporary loss of appetite, minor joint
+    pain and the symptoms of the common cold. Meta-analyses of clinical trials have since found that ginger
+    eases nausea in pregnancy and modestly reduces osteoarthritis pain, and that ginger capsules added to
+    standard anti-sickness drugs reduce severe chemotherapy-induced nausea.
   reference_ids:
-  - REF-0634
+  - REF-0007
+  - REF-3876
+  - REF-3142
+  - REF-0295
+  - REF-3873
+  - REF-3867
   status: verified
 preparations:
 - name: Fresh rhizome / infusion
@@ -93,21 +102,28 @@ preparations:
     antiemetic ginger tea.
   status: draft
 - name: Standardised extract/powder
-  text: Dried rhizome powder or standardised extract, taken as capsules for nausea or joint-pain studies.
+  text: Capsules of dried, powdered rhizome or standardised ginger extract - the form tested in many clinical
+    trials, including trials in chemotherapy-induced nausea and in knee osteoarthritis.
   reference_ids:
   - REF-0634
+  - REF-3867
+  - REF-3874
   status: verified
 - name: Culinary use
   text: Fresh, dried or crystallised rhizome used extensively as a food spice and flavouring.
   status: draft
 dosage:
-- name: Standardised extract/powder
-  text: Clinical trials for nausea commonly use around 1-1.5 g of dried rhizome powder daily, in divided
-    doses (up to 1 g/day in pregnancy); osteoarthritis studies commonly use similar or somewhat higher
-    doses. Educational reference only, not a prescription.
+- name: Powdered rhizome (EU herbal monograph)
+  text: 'The 2025 EU herbal monograph gives, for preventing nausea and vomiting in motion sickness (well-established
+    use), 1-2 g of powdered rhizome for adults, taken 1 hour before travel. As a traditional remedy for motion
+    sickness it gives 500-750 mg half an hour before travelling for adolescents and adults, and 250-500 mg for
+    children aged 6-12. For mild spasmodic digestive complaints it gives 0.18-1 g three times daily, and for
+    temporary loss of appetite, minor joint pain or common-cold symptoms 0.25-1 g three times daily, both
+    for adults only. It does not recommend ginger for children under 6, or for under-18s outside the travel
+    use. Educational reference only, not a prescription.'
   reference_ids:
-  - REF-0634
-  status: draft
+  - REF-3142
+  status: verified
 actions:
 - action: analgesic
   reference_ids:
@@ -412,7 +428,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   blood-sugar, high-blood-pressure, migraine (MA; prophylaxis RCT no-effect), muscle-soreness (2
   RCTs).
   | 2026-11-19: lookalikes_review none-known -> has-lookalikes. Added Asarum europaeum (European wild ginger, Latvian parastā kumeļpēda; severity dangerous): Latvijas daba REF-3951 (poisonous, common throughout Latvia), aristolochic acid REF-3947/REF-3948, ginger aroma REF-3953, ginger is a cultigen not found wild REF-3954. Approved by the owner 2026-11-19. NOTE: botanical_description cites REF-0634, a chemotherapy-nausea RCT that does not describe the plant - wrong-source citation, still to fix.
-  | 2026-11-19: botanical_description RE-SOURCED. It cited REF-0634 (Crichton 2023, a chemotherapy-nausea RCT that says nothing about the plant). Now Flora of China vol. 24 (REF-3955, read from the archived PDF) plus Wikipedia Ginger (REF-3954, herbaceous perennial; pseudostems of rolled leaf bases). Dropped as unsupported: ''rarely flowers in cultivation'', ''rarely sets seed; propagated by rhizome division'', ''plus fibrous roots''. STILL WRONG-SOURCED (REF-0634 is the only reference): traditional_uses (verified), preparations[1] capsules (verified; the trial supports nausea capsules only, not joint pain), dosage[0] (draft). Owner informed.'
+  | 2026-11-19: botanical_description RE-SOURCED. It cited REF-0634 (Crichton 2023, a chemotherapy-nausea RCT that says nothing about the plant). Now Flora of China vol. 24 (REF-3955, read from the archived PDF) plus Wikipedia Ginger (REF-3954, herbaceous perennial; pseudostems of rolled leaf bases). Dropped as unsupported: ''rarely flowers in cultivation'', ''rarely sets seed; propagated by rhizome division'', ''plus fibrous roots''. STILL WRONG-SOURCED (REF-0634 is the only reference): traditional_uses (verified), preparations[1] capsules (verified; the trial supports nausea capsules only, not joint pain), dosage[0] (draft). Owner informed.
+  | 2026-11-19: traditional_uses, preparations[1] and dosage[0] RE-SOURCED (all cited only REF-0634, a chemotherapy-nausea RCT). traditional_uses now: Ali 2008 REF-0007 (Chinese, Ayurvedic, Tibb-Unani uses since antiquity), Grieve 1931 REF-3876 (stimulant, carminative), EMA 2025 monograph REF-3142 (indications read from the archived PDF EMA/HMPC/885789/2022 Rev. 1), Viljoen 2014 REF-0295, Bartels 2015 REF-3873, Lin 2025 REF-3867. Dropped as unsupported: ''one of the longest and most widespread medicinal histories of any spice'', ''warming''. preparations[1]: Crichton REF-0634 + Lin REF-3867 (capsules) + Araya-Quintanilla REF-3874 (knee-OA capsules). dosage[0]: replaced the unsourced trial-dose summary (draft) with the EMA 2025 posology (verified from the PDF). Still on REF-0634 and plausibly mis-sourced: constituents[0] (6-gingerol chemistry, cites REF-0634 + REF-0637).'
 references:
 - REF-0269
 - REF-0639

@@ -65,17 +65,18 @@ traditional_uses:
   - REF-0182
   status: verified
 preparations:
-- name: Ground seed / seed tea
-  text: Ground seeds taken with food, or whole seeds soaked/simmered as a tea, the traditional preparation
-    for digestive and blood sugar support.
+- name: Seed and cold infusion
+  text: Cut or crushed seed taken by mouth (WHO average daily dose 6 g), or a cold infusion of 0.5 g of
+    cut seed soaked in 150 ml of cold water for 3 hours, several cups a day. Externally, powdered seed
+    is made into a poultice (50 g per litre of hot water) or added to a hot bath.
   reference_ids:
-  - REF-0182
+  - REF-3984
   status: verified
-- name: Standardized extract (capsule)
-  text: Standardized seed extract in capsule form, the form most used in clinical trials on blood sugar
-    and cholesterol.
+- name: Extracts and tinctures
+  text: Seed extracts, fluid extracts and tinctures; the WHO monograph gives a daily native extract (3-4:1)
+    of 1.5-2 g, a fluid extract (1:1) of 6 ml or a tincture (1:5) of 30 ml.
   reference_ids:
-  - REF-0182
+  - REF-3984
   status: verified
 - name: Sprouted seed / leaf (food use)
   text: Young sprouts and leaves used as a leafy vegetable or salad green, milder in taste and effect
@@ -97,13 +98,14 @@ constituents:
   note: Thought to contribute to the antidiabetic and cholesterol-lowering effects.
   reference_ids:
   - REF-0148
-- name: Galactomannan (soluble fiber)
+- name: Mucilage (soluble fibre)
   compounds:
   - polysaccharide
-  note: Mucilaginous soluble fiber that slows carbohydrate absorption, a key mechanism behind the blood-sugar-lowering
-    effect.
+  note: The seed is rich in mucilage, 25-45% of its weight; this strong mucilage is why the seed has been
+    used for inflammation and ulcers of the stomach and intestines.
   reference_ids:
-  - REF-0182
+  - REF-3984
+  - REF-3356
 - name: 4-hydroxyisoleucine (amino acid)
   note: An unusual amino acid studied for insulin-potentiating activity.
   reference_ids:
@@ -329,4 +331,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3817 and held T2D MA REF-2515 added. New pairs (owner rule): high-cholesterol (2 MAs +
   REF-2515), high-blood-pressure (MA; systolic only), hot-flashes and menopause (placebo RCT).
   Grieve REF-3849 added (diabetes, gout). Gaps: dysmenorrhoea MA (effect "highly uncertain"),
-  lactation RCT (no significant difference), Alzheimer''s RCT (within-group only).'
+  lactation RCT (no significant difference), Alzheimer''s RCT (within-group only).
+  | 2026-11-19 (monograph-source audit): constituents[1] and preparations[0-1] cited only REF-0182 (glycaemia meta-analysis, no abstract stored, cannot be checked). RE-SOURCED: WHO Semen Trigonellae Foenugraeci vol. 3 (REF-3984, new; mucilage 25-45%, dosage forms and posology) + PFAF REF-3356 (strong mucilage, stomach and intestinal inflammation). Dropped as unsupported: galactomannan named as the fibre, slows carbohydrate absorption as the key glucose mechanism, taken with food, simmered tea, capsules, the form most used in trials.'

@@ -53,19 +53,24 @@ harvest_readiness:
   status: verified
   notes: "PFAF (REF-3239, Ken Fern lineage) and Wikipedia (REF-3240, independent) agree: autumn flowering, stigmas gathered as the flowers open at dawn. SAFETY: the autumn-flowering harvest stage coincides exactly with the deadly Colchicum autumnale (autumn crocus / meadow saffron), a classic fatal confusion. Confirm identity before gathering - see Dangerous Lookalikes: true saffron (Crocus sativus, Iridaceae) has exactly THREE stamens and three long deep-red saffron threads, whereas Colchicum (Colchicaceae) has SIX stamens and no red threads and is lethally toxic (colchicine, no ready antidote). If in any doubt, do not harvest."
 traditional_uses:
-  text: Saffron has a long Mediterranean, Middle Eastern and South Asian tradition as both a prized culinary
-    spice/dye and a medicinal herb, used for mood support, digestive complaints and as a mild emmenagogue;
-    its traditional mood-lifting reputation is now supported by clinical trials comparing standardised
-    saffron extract to conventional antidepressants for mild-to-moderate depression.
+  text: In traditional medicine saffron was used as an emmenagogue and for absent periods, abdominal pain,
+    coughs, depression, digestive ailments, fever and the pain of wounds, and also as an aphrodisiac,
+    appetite stimulant, diaphoretic, contraceptive, antispasmodic and nerve sedative; pharmacopoeias describe
+    it as a tonic, sedative and emmenagogue. A meta-analysis of eight randomised trials found no significant
+    difference between saffron and SSRI antidepressants in reducing depressive symptoms, with fewer adverse
+    events on saffron.
   reference_ids:
+  - REF-3979
   - REF-0788
   status: verified
 preparations:
-- name: Standardised extract
-  text: Stigma extract standardised to safranal/crocin content, taken as capsules; the form used in most
-    clinical mood and metabolic studies.
+- name: Stigma extract (capsules)
+  text: Extracts of the dried stigmas are a recognised dosage form. Saffron capsules were the form tested
+    in randomised trials, including eight trials comparing saffron with SSRI antidepressants for depression.
   reference_ids:
+  - REF-3979
   - REF-0788
+  - REF-0005
   status: verified
 - name: Infusion
   text: A few dried stigma threads steeped in hot water or milk, a traditional culinary and mild medicinal
@@ -76,27 +81,33 @@ preparations:
     and modern use.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials for mood support commonly use around 30 mg of standardised saffron extract daily
-    (in divided doses); culinary use is typically well under 1 g. High medicinal doses (5 g or more) are
-    considered potentially toxic and should be avoided. Educational reference only, not a prescription.
+- name: Saffron capsules (trials) and dried stigma
+  text: Randomised trials in mild to moderate depression, premenstrual syndrome and mild to moderate Alzheimer's
+    disease gave saffron capsules of 30 mg a day, for example 15 mg twice daily. The WHO monograph says
+    there is not enough information to set an accurate dose range; it notes a daily dose of 3.0-9.0 g
+    of dried stigma in the Chinese pharmacopoeia but, because toxicity has been reported at 5.0 g, recommends
+    less than 5.0 g a day. Food amounts carry no risk. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0788
-  status: draft
+  - REF-0005
+  - REF-3520
+  - REF-3523
+  - REF-3979
+  status: verified
 constituents:
 - name: Crocin and crocetin
-  note: Water-soluble carotenoid glycosides responsible for saffron's deep golden-red colour and much
-    of its antioxidant and mood-related activity.
+  note: A series of carotenoid glucosides, the crocins (about 2% of the stigma), with dimethylcrocetin
+    and their aglycone crocetin, are among the major constituents.
   reference_ids:
-  - REF-0788
+  - REF-3979
   compounds:
   - crocin
   - crocetin
 - name: Safranal
-  note: The principal volatile aromatic compound, giving saffron its characteristic scent and contributing
-    to its sedative and antidepressant activity.
+  note: Safranal, which can be obtained by hydrolysis of the monoterpene glucoside picrocrocin (about
+    4%), is among the major constituents, alongside an essential oil (0.4-1.3%) containing alpha- and
+    beta-pinene and 1,8-cineole.
   reference_ids:
-  - REF-0788
+  - REF-3979
   compounds:
   - safranal
 - name: Picrocrocin
@@ -385,4 +396,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   depression / in references). Added: GRADE MA REF-3517 (depression; new anxiety pair with
   REF-2002), sleep RCT REF-3518 (insomnia), OA RCT REF-3519 (arthritis), AD RCT REF-3523
   (cognition, memory). New pairs (owner rule): pms (REF-3520 RCT, REF-3521 MA), menstrual-cramps
-  (REF-3521), metabolic-support (REF-3522), blood-sugar (held MA REF-2502 + REF-3522).'
+  (REF-3521), metabolic-support (REF-3522), blood-sugar (held MA REF-2502 + REF-3522).
+  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-1], preparations[0] and dosage[0] cited only REF-0788 (saffron vs SSRI meta-analysis; abstract gives no chemistry, form or dose). RE-SOURCED: WHO Stigma Croci vol. 3 (REF-3979, new; uses, constituents, dosage forms, posology); 30 mg/day capsules from the trials REF-0005 (depression vs imipramine), REF-3520 (PMS) and REF-3523 (Alzheimer''s). REF-0172 (PETAL capsules) deliberately not used for the stigma dose. Dropped as unsupported: Mediterranean, Middle Eastern and South Asian tradition wording, colour and scent attributions, antioxidant and mood activity of constituents, standardised to safranal/crocin, metabolic studies, culinary use under 1 g.'

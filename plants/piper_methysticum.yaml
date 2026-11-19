@@ -26,9 +26,9 @@ constituents:
   - REF-2464
   - REF-3063
 - name: Flavokavains (flavokavain A, B, C)
-  note: Chalcone-type constituents of the root; implicated by structure-activity analyses as the components
-    most likely responsible for kava-associated liver injury, which is why water-based extracts of peeled
-    noble-cultivar root are preferred.
+  note: With the kavalactones, the flavokavains are one of the two main groups of bioactive compounds
+    in kava; most current evidence points to them as responsible for the liver toxicity linked to kava
+    use.
   reference_ids:
   - REF-3063
 botanical_description:
@@ -81,25 +81,35 @@ harvest_readiness:
   status: provisional
   notes: "Useful Tropical Plants / Ken Fern (REF-3313); the rhizome (the primary kava part) is dug with the roots from mature 3-4+ year plants. Single lineage -> provisional."
 traditional_uses:
-  text: Kava root has a centuries-long ceremonial and social tradition across Pacific Island cultures,
-    prepared as a communal beverage for its calming, sociable and relaxing effects; this traditional anxiolytic
-    reputation is now supported by clinical trials of standardised water-based extracts for anxiety.
+  text: Kava root is the source of a traditional non-fermented drink, widely consumed in some Polynesian
+    islands for social and recreational purposes; it has a calming effect while promoting mental clarity.
+    Pharmacopoeias and traditional systems describe it to induce relaxation, reduce weight and treat fungal
+    infections, and folk medicine used it for asthma, colds, cystitis, gonorrhoea, headaches, menstrual
+    irregularities, urinary infections and warts. WHO lists short-term relief of mild anxiety or insomnia
+    due to nervousness, stress or tension as supported by clinical data, and a Cochrane review of 11 trials
+    found that kava extract reduced anxiety compared with placebo.
   reference_ids:
+  - REF-3313
+  - REF-3063
+  - REF-3980
   - REF-2462
   status: verified
 preparations:
 - name: Traditional beverage (water-based)
-  text: Peeled root pounded or ground and mixed with water, strained and drunk fresh, the traditional
-    Pacific Island ceremonial and social preparation.
+  text: The roots and stems are pulverised by grinding or chewing, suspended in water and sieved to remove
+    the residue; the milky-brown liquid is the traditional drink.
   reference_ids:
-  - REF-2462
+  - REF-3313
   status: verified
-- name: Standardised extract
-  text: Water-based extract standardised to kavalactone content, taken as capsules; the form used in most
-    clinical anxiety trials, and the safer choice given documented hepatotoxicity concerns with some solvent-extracted
-    products.
+- name: Extract (dosed by kava pyrones)
+  text: Kava extracts and the cut crude drug are taken by mouth, dosed by their kava pyrone (kavalactone)
+    content; WHO gives an amount equivalent to 60-210 mg of kava pyrones a day. Oral kava-extract mono-preparations
+    were the form tested in the anxiety trials of a Cochrane review. Liver injury has been linked to kava
+    use.
   reference_ids:
+  - REF-3980
   - REF-2462
+  - REF-3063
   status: verified
 dosage:
 - name: Standardised extract
@@ -258,4 +268,5 @@ internal_notes: '2026-07-03: new record created for the safety-data campaign (ka
   patients: no benefit vs placebo; more liver-test abnormalities on kava) recorded as null for
   anxiety. Anxiety RCTs/SRs removed from stress and nervous-tension (they measured anxiety).
   REF-2460 (herbal sedatives in cancer care: kava raised "disturbing toxicity concerns") removed
-  from insomnia - pair dropped.'
+  from insomnia - pair dropped.
+  | 2026-11-19 (monograph-source audit): traditional_uses and preparations[0-1] cited only REF-2462 (Cochrane anxiety review), constituents[1] only REF-3063 (study_type review). RE-SOURCED: Useful Tropical Plants REF-3313 (the drink and how it is made), WHO Rhizoma Piperis Methystici vol. 2 (REF-3980, new; uses, 60-210 mg kava pyrones/day), REF-3063 rewritten to what its abstract says, REF-2462 kept for its finding. Dropped as unsupported: centuries-long, peeled root, water-based extract as the safer choice, standardised capsules, chalcone wording, noble cultivars. FOLLOW-UP: REF-3063 is tagged bare ''review'' (scores like a systematic review); its abstract calls itself a systematic review but describes no search method - check against invariant 8.'

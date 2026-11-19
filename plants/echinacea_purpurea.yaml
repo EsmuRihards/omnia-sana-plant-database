@@ -80,10 +80,12 @@ traditional_uses:
   - REF-0797
   status: verified
 preparations:
-- name: Standardised extract
-  text: Fresh-pressed juice or standardised extract of the aerial parts or root, taken as tablets, drops
-    or capsules at the first sign of a cold; the best-studied clinical form.
+- name: Pressed juice and extracts
+  text: The pressed juice of the aerial parts, the powdered herb and preparations made from them, taken
+    by mouth for colds; products sold as echinacea differ considerably in plant material, extraction method
+    and added ingredients.
   reference_ids:
+  - REF-3988
   - REF-0797
   status: verified
 - name: Tincture
@@ -93,13 +95,12 @@ preparations:
   text: Dried root or aerial parts infused in hot water as a traditional immune-supporting tea.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials for the common cold commonly use around 300-900 mg of standardised extract daily,
-    started at the first sign of symptoms and continued for up to 7-10 days; continuous use beyond about
-    8 weeks is not recommended. Educational reference only, not a prescription.
+- name: Expressed juice (WHO monograph)
+  text: The WHO monograph gives 6-9 ml of the expressed juice of the aerial parts a day, for no more than
+    8 weeks in a row; it has no dosage information for children. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0797
-  status: draft
+  - REF-3988
+  status: verified
 constituents:
 - name: Alkamides
   note: Lipophilic alkamides are considered key immunomodulatory and anti-inflammatory constituents, particularly
@@ -290,4 +291,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   O''Neil 2008 REF-3542 recorded as no-effect (all E. purpurea). REF-2017 (pilot: "effectiveness
   could not be accurately assessed") and REF-2014 removed from the antimicrobial action. Immune
   RCT REF-3543 and held RCT REF-2013 to immune-support. New eczema pair from alkylamide cream RCT
-  REF-3544 (owner rule).'
+  REF-3544 (owner rule).
+  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] cited only REF-0797 (Cochrane cold review; abstract gives no form or dose). RE-SOURCED: WHO Herba Echinaceae Purpureae vol. 1 (REF-3988, new); REF-0797 kept for its point that products differ in composition. Dropped as unsupported: root extract, tablets/drops/capsules at the first sign of a cold, best-studied form, 300-900 mg a day for 7-10 days.'

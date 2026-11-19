@@ -83,10 +83,11 @@ traditional_uses:
   status: verified
 preparations:
 - name: Standardised extract
-  text: Flowering-top extract standardised to hypericin and/or hyperforin content, taken as tablets or
-    capsules; the best-studied clinical form for mood support.
+  text: Standardised extracts of the flowering tops, made with ethanol or methanol, taken as capsules,
+    tablets, tinctures or drops; the WHO monograph gives up to 900 mg of extract a day, equivalent to
+    0.2-2.7 mg of total hypericin.
   reference_ids:
-  - REF-0842
+  - REF-3986
   status: verified
 - name: Infused oil ('red oil')
   text: Fresh flowers infused in oil until the oil turns red, applied topically for minor wounds, burns
@@ -96,13 +97,14 @@ preparations:
   text: Dried flowering herb infused in hot water as a traditional calming tea.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials for mild-to-moderate depression commonly use around 300 mg of standardised extract
-    three times daily (900 mg/day total); given extensive drug interactions, use should be discussed with
-    a healthcare provider, especially alongside other medicines. Educational reference only, not a prescription.
+- name: Crude drug or standardised extract (WHO monograph)
+  text: The WHO monograph gives 2-4 g of the dried herb a day, or standardised extracts up to 900 mg a
+    day (0.2-2.7 mg total hypericin). It does not recommend combining St John's wort with other antidepressants
+    such as tricyclics or fluoxetine except under medical supervision, and many drug interactions are
+    reported. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0842
-  status: draft
+  - REF-3986
+  status: verified
 constituents:
 - name: Naphthodianthrones (hypericin, pseudohypericin)
   note: Red pigments historically used to standardise extracts; contribute to antiviral activity and are
@@ -454,4 +456,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   trials (HYPOS 35171041, LBP 39951699) excluded.
   | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep batch 10
   (cross-batch). Bruising dropped: inferred only from the vulnerary action (wound-healing review
-  REF-1789, which does not name bruises) - a wound is not a bruise.'
+  REF-1789, which does not name bruises) - a wound is not a bruise.
+  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] cited only REF-0842 (depression meta-analysis; abstract gives no form or dose). RE-SOURCED to WHO Herba Hyperici vol. 2 (REF-3986, new). Dropped as unsupported: standardised to hyperforin, best-studied clinical form, 300 mg three times daily in trials.'

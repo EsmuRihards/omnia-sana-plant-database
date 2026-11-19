@@ -85,12 +85,14 @@ preparations:
   text: Alcoholic extract of the dried root.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials for stress and sleep commonly use around 300-600 mg of standardised root extract
-    daily, in divided doses, over several weeks. Educational reference only, not a prescription.
+- name: Root powder or extract
+  text: The WHO monograph gives 3-6 g of the dried powdered root a day, or 250 mg twice a day as an anti-stress
+    agent. In a meta-analysis of sleep trials, ashwagandha extract had a small overall effect that was
+    more marked at 600 mg a day or more and over at least 8 weeks. Educational reference only, not a prescription.
   reference_ids:
+  - REF-3990
   - REF-2245
-  status: draft
+  status: verified
 constituents:
 - name: Withanolides (withaferin A, withanolide A)
   compounds:
@@ -358,4 +360,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   unsourced: "doses up to 600 mg/day for up to 12 weeks" and "not recommended for children without
   medical supervision"; "contraindicated due to potential abortifacient effects" replaced by
   NCCIH''s "avoid in pregnancy" plus the SR finding that abortifacient evidence is inconclusive.
-  Status needs-review -> verified.'
+  Status needs-review -> verified.
+  | 2026-11-19 (monograph-source audit): dosage[0] cited only REF-2245 (sleep meta-analysis) for ''300-600 mg in divided doses''. RE-SOURCED: WHO Radix Withaniae vol. 4 (REF-3990, new); REF-2245 kept for what it found (stronger at >=600 mg/day and >=8 weeks). Dropped: 300-600 mg in divided doses.'

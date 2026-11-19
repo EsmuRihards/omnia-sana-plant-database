@@ -72,32 +72,39 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3358); the berries ripen to deep red in autumn (seeds ripen August-October; flowering June-August). Single lineage -> provisional."
 traditional_uses:
-  text: Cranberry has a long Native American and North American folk tradition as a food and remedy for
-    urinary complaints, an association now well supported by modern research showing its A-type proanthocyanidins
-    prevent E. coli from adhering to the urinary tract lining, making it most useful for prevention of
-    recurrent UTIs rather than treatment of an active infection.
+  text: In traditional medicine cranberry was used for asthma, fever, loss of appetite, scurvy, stomach
+    ailments, gallbladder and liver disease and wounds. Its main modern use is as an adjunct for preventing
+    and easing urinary tract infections in adults, which WHO lists as supported by clinical data; trials
+    in children were negative. Laboratory studies show that cranberry works by stopping E. coli from sticking
+    to the cells lining the urinary tract, not by acidifying the urine. A network meta-analysis of 20
+    trials found 54% fewer urinary infections with cranberry juice than with no treatment.
   reference_ids:
+  - REF-3982
   - REF-0389
   status: verified
 preparations:
 - name: Juice
-  text: Unsweetened or lightly sweetened cranberry juice, taken regularly as a traditional and modern
-    preventive measure for recurrent UTIs.
+  text: Cranberry juice, taken regularly to prevent urinary infections; in a network meta-analysis, cranberry
+    juice was linked to 54% fewer infections than no treatment and 27% fewer than a placebo drink.
   reference_ids:
   - REF-0389
+  - REF-3982
   status: verified
-- name: Standardized tablet/capsule
-  text: Standardized proanthocyanidin (PAC) extract in tablet or capsule form, used for UTI prevention
-    in clinical research.
+- name: Tablets/capsules (concentrated extract)
+  text: Tablets and capsules of concentrated cranberry extract; WHO gives 1-6 capsules a day, each equivalent
+    to 90 ml of juice or 400-450 mg of cranberry solids.
   reference_ids:
+  - REF-3982
   - REF-0389
   status: verified
 dosage:
-- name: Juice/extract
-  text: Clinical research commonly uses around 36 mg PAC daily (standardized extract) or 240-300 mL unsweetened
-    juice daily for UTI prevention. Educational reference only, not a prescription.
+- name: Juice/extract (WHO monograph)
+  text: For preventing urinary infections in adults the WHO monograph gives 30-300 ml a day of a 30% pure
+    cranberry juice product, and for treatment 360-960 ml a day or equivalent; concentrated-extract capsules
+    are taken 1-6 a day. Trials do not support cranberry products for children. Educational reference
+    only, not a prescription.
   reference_ids:
-  - REF-0389
+  - REF-3982
   status: verified
 actions:
 - action: antioxidant
@@ -229,4 +236,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (sys
   from uti and the action. MS placebo RCT REF-3829 (no difference) recorded as no-effect. Men-LUTS
   RCT REF-3830 added; OAB RCT REF-3832 (ITT null) no-effect. New pair (owner rule): oral-health
   (gingivitis RCT). REF-0390 retagged narrative-review. Gap: RA juice RCT (within-group change
-  only).'
+  only).
+  | 2026-11-19 (monograph-source audit): traditional_uses, preparations[0-1] and dosage[0] cited only REF-0389 (UTI network meta-analysis). RE-SOURCED: WHO Fructus Macrocarponii vol. 4 (REF-3982, new; traditional uses, clinical uses incl. negative paediatric trials, anti-adhesion mechanism, dosage forms, posology); REF-0389 kept for its finding. Dropped as unsupported: Native American folk tradition (PFAF mentions only a branch infusion for pleurisy), unsweetened, standardised PAC extract, 36 mg PAC a day (the only trial in the record using 36 mg, REF-3829, found NO benefit), 240-300 ml a day, A-type PACs named as the active anti-adhesion compounds.'

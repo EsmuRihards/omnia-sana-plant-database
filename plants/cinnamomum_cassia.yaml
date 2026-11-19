@@ -14,23 +14,28 @@ parts_used:
 - Bark
 constituents:
 - name: Cinnamaldehyde (cinnamic aldehyde)
-  note: The main volatile-oil constituent; associated with the insulin-sensitising effect.
+  note: The main constituent of cassia bark essential oil, about 85% of the oil; the oil's broad antimicrobial
+    activity in laboratory tests is attributed to it.
   reference_ids:
-  - REF-0430
-- name: Proanthocyanidins and other polyphenols
+  - REF-3975
+- name: Procyanidins
   compounds:
   - proanthocyanidin
   - phenolic-compound
-  note: Antioxidant constituents of the bark.
+  note: Nine procyanidins, including procyanidins A1, A2, B1 and C1, were identified in cassia bark as
+    antioxidants and as inhibitors of the digestive enzymes alpha-glucosidase and pancreatic lipase in
+    laboratory tests.
   reference_ids:
-  - REF-0430
+  - REF-3976
 - name: Coumarin
   compounds:
   - coumarin
-  note: Present in much higher amounts in cassia than in Ceylon cinnamon (~2-5 mg/g); the key safety-limiting
-    compound.
+  note: Coumarin has been isolated from Cinnamomum cassia bark oil. Ground cinnamon from Czech shops,
+    identified as cassia cinnamon by its coumarin, contained about 2.7-7.0 mg/g, while a Ceylon cinnamon
+    (Cinnamomum verum) sample from Sri Lanka contained none.
   reference_ids:
-  - REF-0430
+  - REF-3977
+  - REF-3978
 botanical_description:
   text: Evergreen tree with smooth, aromatic, reddish-brown bark and leathery, oval leaves with three
     prominent longitudinal veins. Small, pale yellow-green flowers are borne in panicles, followed by
@@ -69,17 +74,22 @@ harvest_readiness:
   status: provisional
   notes: "RawSpiceBar (REF-3230), which names Cinnamomum cassia and describes cutting the stems and peeling the inner bark in the rainy season. Single source -> provisional."
 traditional_uses:
-  text: Cassia bark (rou gui) is a major warming spice and digestive remedy of traditional Chinese medicine,
-    used for cold-type digestive complaints, circulation and metabolic support; its cinnamaldehyde-rich
-    bark is now widely studied as an adjunct for blood glucose and lipid management in type 2 diabetes,
-    directly building on this traditional metabolic reputation.
+  text: 'Cassia bark is a common traditional Chinese medicine, used to promote the secretion of gastric
+    juice and digestion and to improve the function of the gut, and it is also used in Unani, Ayurvedic
+    and Japanese traditional medicine for indigestion, peptic ulcer disease and ischaemic brain injury.
+    It is a widely used spice. Trials of the bark in type 2 diabetes have given mixed results: a meta-analysis
+    of trials using 1-2 g of ground bark a day for 90 days found no significant reduction in blood glucose
+    or lipids.'
   reference_ids:
+  - REF-1822
+  - REF-1824
+  - REF-1821
   - REF-0430
   status: verified
 preparations:
-- name: Standardised extract/powder
-  text: Dried bark powder or standardised extract taken as capsules, the form used in most clinical glucose/lipid
-    studies.
+- name: Ground bark powder
+  text: Ground cassia bark taken by mouth is the form tested in trials in type 2 diabetes; a meta-analysis
+    of trials using 1-2 g a day for 90 days found no significant reduction in blood glucose or lipids.
   reference_ids:
   - REF-0430
   status: verified
@@ -91,13 +101,13 @@ preparations:
     of use.
   status: draft
 dosage:
-- name: Standardised extract/powder
-  text: Clinical trials in type 2 diabetes commonly use around 1-6 g of cassia bark powder daily; because
-    of its coumarin content, intake should be kept modest and consistent, and true (Ceylon) cinnamon preferred
-    for frequent medicinal use. Educational reference only, not a prescription.
+- name: Ground bark powder (trials)
+  text: In the trials pooled in a meta-analysis, people with type 2 diabetes took 1-2 g of ground cassia
+    bark a day for 90 days; the pooled result showed no significant reduction in blood glucose or lipids.
+    Educational reference only, not a prescription.
   reference_ids:
   - REF-0430
-  status: draft
+  status: verified
 actions:
 - action: antidiabetic
   note: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
@@ -267,4 +277,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Famil
   Vanschoonbeek 2006 RCT REF-3501 (no glycaemic or lipid effect) recorded as no-effect; positive
   2012 MA REF-3499 added. Arterial-stiffness RCT REF-3502: no BP/lipid/vascular change (no-effect
   for cardiovascular-support) but lower weight and HbA1c (metabolic-support). New diarrhea pair
-  from RCT REF-3503 (owner rule). Notes now state the mixed evidence.'
+  from RCT REF-3503 (owner rule). Notes now state the mixed evidence.
+  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-2], preparations[0] and dosage[0] cited only REF-0430 (meta-analysis of cassia powder in type 2 diabetes, whose pooled result was NOT significant). RE-SOURCED: traditional use from reviews REF-1821/REF-1824 and REF-1822; cinnamaldehyde 85% of the oil Ooi 2006 (REF-3975, new); procyanidins A1/A2/B1/C1 Dai 2024 (REF-3976, new); coumarin Choi 2001 (REF-3977, new) + Blahova 2012 (REF-3978, new; cassia-type ground cinnamon 2.65-7.0 mg/g, Ceylon none). REF-0430 kept for what it reports (1-2 g/day for 90 days, no significant effect). Dropped as unsupported: rou gui and warming/cold-type wording, circulation and metabolic support, insulin-sensitising, capsules, standardised extract, 1-6 g, prefer Ceylon cinnamon, key safety-limiting. FOLLOW-UP (not done here): check whether REF-0430, a null pooled result, sits in any indication''s reference_ids (invariant 7).'

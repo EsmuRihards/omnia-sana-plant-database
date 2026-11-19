@@ -26,10 +26,11 @@ constituents:
   reference_ids:
   - REF-0497
   - REF-1536
-- name: Vitamin C and minerals
-  note: Nutritive constituents.
+- name: Minerals
+  note: A review of berry-bush leaves (black currant, raspberry and aronia) summarises the mineral content
+    of the leaves, noting that minerals make up a significant part of leaf infusions.
   reference_ids:
-  - REF-0497
+  - REF-1536
 botanical_description:
   text: Deciduous, thicket-forming shrub (Rosaceae), 1-2 m tall, with upright, prickly, biennial canes
     (vegetative in the first year, fruiting in the second). Leaves are pinnate with 3-7 toothed leaflets,
@@ -74,19 +75,29 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3328); the leaves are gathered in summer. Single lineage -> provisional."
 traditional_uses:
-  text: Raspberry leaf has a long, very widely known folk tradition as a 'pregnancy tea', taken in the
-    final weeks of pregnancy as a uterine tonic to prepare for labour. Observational studies and a small
-    randomised controlled trial suggest a possible modest effect on labour duration, though robust proof
-    is still lacking.
+  text: Raspberry leaf tea is a traditional herb taken in pregnancy in the belief that it shortens labour
+    and makes it easier; the leaves have also been used for diarrhoea, as a uterine tonic for pregnant
+    women and an aid in childbirth, for painful menstrual cramps, and as a gargle for tonsillitis and
+    mouth inflammation. The EU herbal monograph accepts traditional use for minor menstrual cramps, mild
+    inflammation in the mouth or throat and mild diarrhoea, but does not recommend use in pregnancy or
+    breastfeeding because safety has not been established. In a randomised trial of raspberry leaf tablets
+    taken from 32 weeks of pregnancy, the first stage of labour was not shortened; the second stage was
+    about 10 minutes shorter and forceps deliveries were fewer.
   reference_ids:
-  - REF-0497
   - REF-0498
+  - REF-3328
+  - REF-3981
+  - REF-0607
   status: verified
 preparations:
 - name: Infusion (tea)
-  text: Dried leaf steeped in hot water - the classic late-pregnancy preparation.
+  text: 'Dried leaf infused in boiling water: the EU herbal monograph gives 1.5-8 g in 150 ml three times
+    a day for mild diarrhoea, or as a gargle for mild mouth or throat inflammation. Raspberry leaf tea
+    is also widely drunk in pregnancy (38% of women in one survey), though the EU monograph does not recommend
+    it then.'
   reference_ids:
-  - REF-0497
+  - REF-3981
+  - REF-0498
   status: verified
 - name: Tincture
   text: Alcoholic extract, less commonly used than the tea.
@@ -97,13 +108,15 @@ preparations:
   - REF-1536
   status: verified
 dosage:
-- name: Infusion (tea)
-  text: Popular guidance and observational studies generally describe starting raspberry-leaf tea or tablets
-    in the last few weeks of pregnancy, at roughly 1-3 cups of tea daily; use should be discussed with
-    a midwife or doctor given the lack of robust trial evidence. Educational reference only, not a prescription.
+- name: Infusion and dry extract (EU herbal monograph)
+  text: For adults the EU herbal monograph gives 1.5-8 g of the cut leaf in 150 ml of boiling water three
+    times a day as a tea for mild diarrhoea or as a gargle, and 113-226 mg of a dry extract up to 3-4
+    times a day after meals for minor menstrual cramps. It does not recommend use in pregnancy or breastfeeding.
+    A randomised trial in late pregnancy used raspberry leaf tablets of 1.2 g twice a day from 32 weeks.
+    Educational reference only, not a prescription.
   reference_ids:
-  - REF-0497
-  - REF-0498
+  - REF-3981
+  - REF-0607
   status: verified
 actions:
 - action: antidiarrheal
@@ -190,4 +203,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   antidiarrheal/astringent; survey REF-0498 (retagged clinical), labour RCT REF-0607 (null) and
   REF-1541 removed from the emmenagogue action. REF-0607 and the 2021 SR REF-3735 ("evidence base
   weak") recorded as no-effect for pregnancy-support; REF-2574 retagged narrative-review. New pair
-  (owner rule): arthritis (held knee OA RCT REF-1538).'
+  (owner rule): arthritis (held knee OA RCT REF-1538).
+  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[2], preparations[0] and dosage[0] cited only REF-0497 (observational study) and REF-0498 (survey), which do not support the uterine-tonic history, vitamin C, the tea or 1-3 cups a day. RE-SOURCED: PFAF REF-3328 (folk uses), EU herbal monograph 2014 (REF-3981, new; indications, tea 1.5-8 g, dry extract 113-226 mg, NOT recommended in pregnancy or lactation), Simpson RCT REF-0607 (1.2 g tablets twice daily from 32 weeks; first stage not shortened, second stage about 10 minutes shorter, fewer forceps births), berry-leaf review REF-1536 (minerals). IMPORTANT: the old dosage text described starting the tea in late pregnancy at 1-3 cups a day; no source read states that, and the EU monograph advises against use in pregnancy, so it now says so. Dropped: vitamin C, possible modest effect on labour duration (the RCT found the first stage was not shortened), classic late-pregnancy preparation.'

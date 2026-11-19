@@ -75,10 +75,14 @@ traditional_uses:
   - REF-0112
   status: verified
 preparations:
-- name: Standardized root extract (capsule/tablet)
-  text: Standardized root extract taken shortly before bedtime, the form most used in clinical research.
+- name: Root extract
+  text: Extracts of the root, widely used to induce sleep and improve sleep quality; in the trials of
+    a systematic review the doses, preparations and length of treatment varied considerably. WHO also
+    lists the expressed juice, tinctures (1:5, 1-3 ml once to several times a day) and an infusion of
+    2-3 g of dried root per cup, 1-5 times a day.
   reference_ids:
   - REF-0025
+  - REF-3987
   status: verified
 - name: Tincture
   text: Alcoholic extract of the dried root, typically 1:5.
@@ -98,9 +102,11 @@ constituents:
 - name: Valerenic acid and valerenal
   compounds:
   - valerenic-acid
-  note: Sesquiterpenes thought to be key contributors to the sedative, GABA-A-modulating action.
+  note: Valerenic acid, acetoxyvalerenic acid and valerenal are sesquiterpenoids that occur together only
+    in Valeriana officinalis, distinguishing it from other valerians; they accompany a volatile oil (0.2-2.8%)
+    whose principal components are bornyl acetate and bornyl isovalerate.
   reference_ids:
-  - REF-0025
+  - REF-3987
 - name: Iridoids (valepotriates)
   compounds:
   - iridoid-glycoside
@@ -325,4 +331,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1356 and the 2011 SR REF-1351 moved to no-effect; 2024 umbrella review REF-3839 and the
   Barton cancer RCT REF-3840 added as no-effect; postmenopausal RCT REF-3841 and Grieve REF-3845
   added. Dysmenorrhoea MA + RCT added. New pairs (owner rule): hot-flashes (placebo RCT), anxiety
-  and depression (haemodialysis RCT REF-1352; Cochrane anxiety review REF-3843 no-effect).'
+  and depression (haemodialysis RCT REF-1352; Cochrane anxiety review REF-3843 no-effect).
+  | 2026-11-19 (monograph-source audit): preparations[0] and constituents[0] cited only REF-0025 (sleep meta-analysis). RE-SOURCED: WHO Radix Valerianae vol. 1 (REF-3987, new; constituents, dosage forms, infusion and tincture doses); REF-0025 kept for what it says (preparations and doses varied). Dropped as unsupported: taken shortly before bedtime, the form most used in research, GABA-A-modulating action.'

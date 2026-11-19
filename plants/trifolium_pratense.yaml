@@ -81,30 +81,35 @@ preparations:
   reference_ids:
   - REF-0036
   status: verified
-- name: Standardized isoflavone extract
-  text: Standardized isoflavone extract in tablet form, the form used in most menopause-related clinical
-    research.
+- name: Isoflavone extract (tablets)
+  text: Red clover isoflavone extracts in tablet form; WHO lists the crude drug and tablets as dosage
+    forms. Trials have tested red clover extracts for menopausal symptoms, high cholesterol, osteoporosis
+    and prostate cancer, but WHO judged the data insufficient to support these uses. In a 1-year randomised
+    trial, a red clover isoflavone supplement reduced lumbar spine bone loss in women aged 49-65.
   reference_ids:
+  - REF-3983
   - REF-0013
   status: verified
 - name: Tincture
   text: Alcoholic extract of the dried flower.
   status: draft
 dosage:
-- name: Standardized extract
-  text: Clinical research commonly uses around 40-80 mg isoflavones daily. Educational reference only,
-    not a prescription.
+- name: Isoflavone extract
+  text: The WHO monograph gives extracts of 240-480 mg a day, corresponding to 40-80 mg of isoflavones.
+    A 1-year bone trial used a supplement supplying 26 mg biochanin A, 16 mg formononetin, 1 mg genistein
+    and 0.5 mg daidzein a day. Educational reference only, not a prescription.
   reference_ids:
+  - REF-3983
   - REF-0013
   status: verified
 constituents:
 - name: Isoflavones (formononetin, biochanin A, daidzein, genistein)
   compounds:
   - flavonoid
-  note: Phytoestrogenic isoflavones responsible for the plant's estrogenic and cardiovascular research
-    interest; one of the richest known plant sources.
+  note: Red clover is rich in isoflavonoids; the major active oestrogenic ones are biochanin A, daidzein,
+    formononetin and genistein.
   reference_ids:
-  - REF-0013
+  - REF-3983
 - name: Coumarins
   compounds:
   - coumarin
@@ -421,4 +426,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   menstrual-cramps and muscle-spasm dropped. Broiler-chicken study REF-1113 and two red clover +
   basil combination studies removed; wounds dropped. Lipid MA REF-3809 added; Howes 2004 cognition
   RCT REF-3810 no-effect. Blood-sugar is preclinical only (verified -> needs-review). Gap: glucose
-  RCT 33761143 (primary outcome not different).'
+  RCT 33761143 (primary outcome not different).
+  | 2026-11-19 (monograph-source audit): constituents[0], preparations[1] and dosage[0] cited only REF-0013 (1-year RCT of an isoflavone supplement on bone). RE-SOURCED: WHO Flos Trifolii vol. 4 (REF-3983, new; isoflavonoids, dosage forms, 240-480 mg extract = 40-80 mg isoflavones/day, and its judgement that trial data are insufficient for any indication); REF-0013 kept for its own dose and lumbar-spine result. Dropped as unsupported: one of the richest known plant sources, cardiovascular research interest, the form used in most menopause research.'

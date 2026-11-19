@@ -55,18 +55,24 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3253); the medicinal material is the green sterile stems, which persist through summer and are cut in summer/late summer and dried (distinct from the pale spring fertile shoots). Single lineage -> provisional. SAFETY: confirm the species against the more toxic Equisetum palustre (marsh horsetail), which grows in similar damp ground, before gathering - see Dangerous Lookalikes."
 traditional_uses:
-  text: Field horsetail has a long European folk history as a diuretic remedy for urinary gravel and mild
-    fluid retention, as an astringent, anti-inflammatory and vulnerary herb for wounds and connective-tissue
-    support, and, owing to its very high silica content, as a traditional tonic for hair, nails and skin.
+  text: Horsetail is very astringent and has been used to staunch wounds, stop nosebleeds and reduce the
+    coughing up of blood, and to help repair damaged connective tissue; it is described as diuretic, haemostatic
+    and wound-healing. The EU herbal monograph accepts traditional use to increase the amount of urine
+    to flush the urinary tract in minor urinary complaints, and for supportive treatment of superficial
+    wounds. In a randomised trial in healthy men, a standardised dried extract (900 mg a day) had a diuretic
+    effect equivalent to hydrochlorothiazide.
   reference_ids:
+  - REF-3253
+  - REF-0083
   - REF-0041
   status: verified
 preparations:
 - name: Decoction/infusion
-  text: Dried sterile stem simmered or infused in hot water as a traditional diuretic and connective-tissue-support
-    tea.
+  text: 1-4 g of the cut dried herb in 150 ml of boiling water, made as an infusion or as a decoction
+    (5-15 minutes) and taken 3-4 times a day, is the EU herbal monograph's traditional tea for increasing
+    urine flow; it is traditionally used for 2-4 weeks.
   reference_ids:
-  - REF-0041
+  - REF-0083
   status: verified
 - name: Poultice/wash
   text: Crushed or infused herb used topically as a wash or poultice for wounds and skin irritation.
@@ -88,21 +94,24 @@ constituents:
 - name: Silica (silicic acid)
   compounds:
   - silica
-  note: Field horsetail is exceptionally rich in silica, concentrated in the stem, and is a signature
-    source of this mineral in Western herbal medicine.
+  note: 'Horsetails are rich in silica: the stems contain about 10% silica, which coats their surfaces.
+    They also contain several alkaloids, including nicotine, and various minerals.'
   reference_ids:
-  - REF-0041
+  - REF-3253
 - name: Flavonoids
   compounds:
   - flavonoid
-  note: Antioxidant flavonoids contributing to the plant's anti-inflammatory activity.
+  note: Field horsetail extracts are rich in phenolic compounds, flavonoids and phenolic acids; flavonoid
+    glycosides isolated from an ethanol extract include kaempferol 3,7-di-O-glucoside and luteolin 5-O-glucoside.
   reference_ids:
-  - REF-0041
+  - REF-1398
+  - REF-1401
 - name: Thiaminase
-  note: An enzyme that degrades vitamin B1 (thiamine); the basis of the caution against prolonged or excessive
-    use.
+  note: An enzyme that destroys vitamin B1 (thiamine). Small amounts do no harm to people with a diet
+    rich in B vitamins, but large quantities can cause severe health problems; heat or thorough drying
+    destroys it, which is why raw horsetail should not be eaten.
   reference_ids:
-  - REF-0041
+  - REF-3253
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -310,4 +319,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   arthritis.
   | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. Diuretic RCT REF-0041
   and EU monograph REF-0083 removed from actions they do not support (anti-inflammatory,
-  anti-rheumatic, antimicrobial; REF-0041 also vulnerary). Notes rewritten.'
+  anti-rheumatic, antimicrobial; REF-0041 also vulnerary). Notes rewritten.
+  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-2] and preparations[0] cited only REF-0041 (RCT of a dried extract as a diuretic in healthy men), which says nothing about folk use, silica, flavonoids, thiaminase or teas. RE-SOURCED: PFAF REF-3253 (astringent/wound/connective-tissue uses, 10%% silica, thiaminase), EU herbal monograph REF-0083 (traditional indications; 1-4 g as infusion or decoction 3-4x daily for 2-4 weeks), REF-1398 + REF-1401 (flavonoids; kaempferol and luteolin glucosides). REF-0041 kept only for its result. Dropped as unsupported: urinary gravel, tonic for hair, nails and skin, signature source of silica in Western herbalism, antioxidant flavonoids contributing to anti-inflammatory activity (REF-1401''s most active isolates were not the flavonoids), dried sterile stem, connective-tissue-support tea.'

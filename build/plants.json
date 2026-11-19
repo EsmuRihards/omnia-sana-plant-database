@@ -14001,20 +14001,20 @@
    "constituents": [
     {
      "name": "Cinnamaldehyde (cinnamic aldehyde)",
-     "note": "The main volatile-oil constituent; associated with the insulin-sensitising effect.",
+     "note": "The main constituent of cassia bark essential oil, about 85% of the oil; the oil's broad antimicrobial activity in laboratory tests is attributed to it.",
      "reference_ids": [
-      "REF-0430"
+      "REF-3975"
      ]
     },
     {
-     "name": "Proanthocyanidins and other polyphenols",
+     "name": "Procyanidins",
      "compounds": [
       "proanthocyanidin",
       "phenolic-compound"
      ],
-     "note": "Antioxidant constituents of the bark.",
+     "note": "Nine procyanidins, including procyanidins A1, A2, B1 and C1, were identified in cassia bark as antioxidants and as inhibitors of the digestive enzymes alpha-glucosidase and pancreatic lipase in laboratory tests.",
      "reference_ids": [
-      "REF-0430"
+      "REF-3976"
      ]
     },
     {
@@ -14022,9 +14022,10 @@
      "compounds": [
       "coumarin"
      ],
-     "note": "Present in much higher amounts in cassia than in Ceylon cinnamon (~2-5 mg/g); the key safety-limiting compound.",
+     "note": "Coumarin has been isolated from Cinnamomum cassia bark oil. Ground cinnamon from Czech shops, identified as cassia cinnamon by its coumarin, contained about 2.7-7.0 mg/g, while a Ceylon cinnamon (Cinnamomum verum) sample from Sri Lanka contained none.",
      "reference_ids": [
-      "REF-0430"
+      "REF-3977",
+      "REF-3978"
      ]
     }
    ],
@@ -14069,16 +14070,19 @@
     }
    ],
    "traditional_uses": {
-    "text": "Cassia bark (rou gui) is a major warming spice and digestive remedy of traditional Chinese medicine, used for cold-type digestive complaints, circulation and metabolic support; its cinnamaldehyde-rich bark is now widely studied as an adjunct for blood glucose and lipid management in type 2 diabetes, directly building on this traditional metabolic reputation.",
+    "text": "Cassia bark is a common traditional Chinese medicine, used to promote the secretion of gastric juice and digestion and to improve the function of the gut, and it is also used in Unani, Ayurvedic and Japanese traditional medicine for indigestion, peptic ulcer disease and ischaemic brain injury. It is a widely used spice. Trials of the bark in type 2 diabetes have given mixed results: a meta-analysis of trials using 1-2 g of ground bark a day for 90 days found no significant reduction in blood glucose or lipids.",
     "reference_ids": [
+     "REF-1822",
+     "REF-1824",
+     "REF-1821",
      "REF-0430"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Standardised extract/powder",
-     "text": "Dried bark powder or standardised extract taken as capsules, the form used in most clinical glucose/lipid studies.",
+     "name": "Ground bark powder",
+     "text": "Ground cassia bark taken by mouth is the form tested in trials in type 2 diabetes; a meta-analysis of trials using 1-2 g a day for 90 days found no significant reduction in blood glucose or lipids.",
      "reference_ids": [
       "REF-0430"
      ],
@@ -14087,12 +14091,12 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract/powder",
-     "text": "Clinical trials in type 2 diabetes commonly use around 1-6 g of cassia bark powder daily; because of its coumarin content, intake should be kept modest and consistent, and true (Ceylon) cinnamon preferred for frequent medicinal use. Educational reference only, not a prescription.",
+     "name": "Ground bark powder (trials)",
+     "text": "In the trials pooled in a meta-analysis, people with type 2 diabetes took 1-2 g of ground cassia bark a day for 90 days; the pooled result showed no significant reduction in blood glucose or lipids. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-0430"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "actions": [
@@ -16590,38 +16594,44 @@
     }
    ],
    "traditional_uses": {
-    "text": "Saffron has a long Mediterranean, Middle Eastern and South Asian tradition as both a prized culinary spice/dye and a medicinal herb, used for mood support, digestive complaints and as a mild emmenagogue; its traditional mood-lifting reputation is now supported by clinical trials comparing standardised saffron extract to conventional antidepressants for mild-to-moderate depression.",
+    "text": "In traditional medicine saffron was used as an emmenagogue and for absent periods, abdominal pain, coughs, depression, digestive ailments, fever and the pain of wounds, and also as an aphrodisiac, appetite stimulant, diaphoretic, contraceptive, antispasmodic and nerve sedative; pharmacopoeias describe it as a tonic, sedative and emmenagogue. A meta-analysis of eight randomised trials found no significant difference between saffron and SSRI antidepressants in reducing depressive symptoms, with fewer adverse events on saffron.",
     "reference_ids": [
+     "REF-3979",
      "REF-0788"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Standardised extract",
-     "text": "Stigma extract standardised to safranal/crocin content, taken as capsules; the form used in most clinical mood and metabolic studies.",
+     "name": "Stigma extract (capsules)",
+     "text": "Extracts of the dried stigmas are a recognised dosage form. Saffron capsules were the form tested in randomised trials, including eight trials comparing saffron with SSRI antidepressants for depression.",
      "reference_ids": [
-      "REF-0788"
+      "REF-3979",
+      "REF-0788",
+      "REF-0005"
      ],
      "status": "verified"
     }
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials for mood support commonly use around 30 mg of standardised saffron extract daily (in divided doses); culinary use is typically well under 1 g. High medicinal doses (5 g or more) are considered potentially toxic and should be avoided. Educational reference only, not a prescription.",
+     "name": "Saffron capsules (trials) and dried stigma",
+     "text": "Randomised trials in mild to moderate depression, premenstrual syndrome and mild to moderate Alzheimer's disease gave saffron capsules of 30 mg a day, for example 15 mg twice daily. The WHO monograph says there is not enough information to set an accurate dose range; it notes a daily dose of 3.0-9.0 g of dried stigma in the Chinese pharmacopoeia but, because toxicity has been reported at 5.0 g, recommends less than 5.0 g a day. Food amounts carry no risk. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0788"
+      "REF-0005",
+      "REF-3520",
+      "REF-3523",
+      "REF-3979"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "constituents": [
     {
      "name": "Crocin and crocetin",
-     "note": "Water-soluble carotenoid glycosides responsible for saffron's deep golden-red colour and much of its antioxidant and mood-related activity.",
+     "note": "A series of carotenoid glucosides, the crocins (about 2% of the stigma), with dimethylcrocetin and their aglycone crocetin, are among the major constituents.",
      "reference_ids": [
-      "REF-0788"
+      "REF-3979"
      ],
      "compounds": [
       "crocin",
@@ -16630,9 +16640,9 @@
     },
     {
      "name": "Safranal",
-     "note": "The principal volatile aromatic compound, giving saffron its characteristic scent and contributing to its sedative and antidepressant activity.",
+     "note": "Safranal, which can be obtained by hydrolysis of the monoterpene glucoside picrocrocin (about 4%), is among the major constituents, alongside an essential oil (0.4-1.3%) containing alpha- and beta-pinene and 1,8-cineole.",
      "reference_ids": [
-      "REF-0788"
+      "REF-3979"
      ],
      "compounds": [
       "safranal"
@@ -19058,9 +19068,10 @@
    },
    "preparations": [
     {
-     "name": "Standardised extract",
-     "text": "Fresh-pressed juice or standardised extract of the aerial parts or root, taken as tablets, drops or capsules at the first sign of a cold; the best-studied clinical form.",
+     "name": "Pressed juice and extracts",
+     "text": "The pressed juice of the aerial parts, the powdered herb and preparations made from them, taken by mouth for colds; products sold as echinacea differ considerably in plant material, extraction method and added ingredients.",
      "reference_ids": [
+      "REF-3988",
       "REF-0797"
      ],
      "status": "verified"
@@ -19068,12 +19079,12 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials for the common cold commonly use around 300-900 mg of standardised extract daily, started at the first sign of symptoms and continued for up to 7-10 days; continuous use beyond about 8 weeks is not recommended. Educational reference only, not a prescription.",
+     "name": "Expressed juice (WHO monograph)",
+     "text": "The WHO monograph gives 6-9 ml of the expressed juice of the aerial parts a day, for no more than 8 weeks in a row; it has no dosage information for children. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0797"
+      "REF-3988"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -20617,8 +20628,10 @@
     }
    ],
    "traditional_uses": {
-    "text": "Field horsetail has a long European folk history as a diuretic remedy for urinary gravel and mild fluid retention, as an astringent, anti-inflammatory and vulnerary herb for wounds and connective-tissue support, and, owing to its very high silica content, as a traditional tonic for hair, nails and skin.",
+    "text": "Horsetail is very astringent and has been used to staunch wounds, stop nosebleeds and reduce the coughing up of blood, and to help repair damaged connective tissue; it is described as diuretic, haemostatic and wound-healing. The EU herbal monograph accepts traditional use to increase the amount of urine to flush the urinary tract in minor urinary complaints, and for supportive treatment of superficial wounds. In a randomised trial in healthy men, a standardised dried extract (900 mg a day) had a diuretic effect equivalent to hydrochlorothiazide.",
     "reference_ids": [
+     "REF-3253",
+     "REF-0083",
      "REF-0041"
     ],
     "status": "verified"
@@ -20626,9 +20639,9 @@
    "preparations": [
     {
      "name": "Decoction/infusion",
-     "text": "Dried sterile stem simmered or infused in hot water as a traditional diuretic and connective-tissue-support tea.",
+     "text": "1-4 g of the cut dried herb in 150 ml of boiling water, made as an infusion or as a decoction (5-15 minutes) and taken 3-4 times a day, is the EU herbal monograph's traditional tea for increasing urine flow; it is traditionally used for 2-4 weeks.",
      "reference_ids": [
-      "REF-0041"
+      "REF-0083"
      ],
      "status": "verified"
     }
@@ -20649,9 +20662,9 @@
      "compounds": [
       "silica"
      ],
-     "note": "Field horsetail is exceptionally rich in silica, concentrated in the stem, and is a signature source of this mineral in Western herbal medicine.",
+     "note": "Horsetails are rich in silica: the stems contain about 10% silica, which coats their surfaces. They also contain several alkaloids, including nicotine, and various minerals.",
      "reference_ids": [
-      "REF-0041"
+      "REF-3253"
      ]
     },
     {
@@ -20659,16 +20672,17 @@
      "compounds": [
       "flavonoid"
      ],
-     "note": "Antioxidant flavonoids contributing to the plant's anti-inflammatory activity.",
+     "note": "Field horsetail extracts are rich in phenolic compounds, flavonoids and phenolic acids; flavonoid glycosides isolated from an ethanol extract include kaempferol 3,7-di-O-glucoside and luteolin 5-O-glucoside.",
      "reference_ids": [
-      "REF-0041"
+      "REF-1398",
+      "REF-1401"
      ]
     },
     {
      "name": "Thiaminase",
-     "note": "An enzyme that degrades vitamin B1 (thiamine); the basis of the caution against prolonged or excessive use.",
+     "note": "An enzyme that destroys vitamin B1 (thiamine). Small amounts do no harm to people with a diet rich in B vitamins, but large quantities can cause severe health problems; heat or thorough drying destroys it, which is why raw horsetail should not be eaten.",
      "reference_ids": [
-      "REF-0041"
+      "REF-3253"
      ]
     }
    ],
@@ -25613,12 +25627,13 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials for cognitive and circulatory support commonly use around 120-240 mg of standardised leaf extract daily, in divided doses. Educational reference only, not a prescription.",
+     "name": "Standardised leaf extract",
+     "text": "The WHO monograph gives 120-240 mg a day of a standardised dry leaf extract (22-27% flavone glycosides, 5-7% terpene lactones) in 2 or 3 doses; 40 mg of extract corresponds to 1.4-2.7 g of leaves. In a large prevention trial, 120 mg twice a day did not reduce the rate of dementia in older adults. Educational reference only, not a prescription.",
      "reference_ids": [
+      "REF-3989",
       "REF-0056"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -27920,23 +27935,23 @@
    ],
    "constituents": [
     {
-     "name": "Anthocyanins (delphinidin and cyanidin glucosides)",
+     "name": "Anthocyanins (delphinidin- and cyanidin-3-sambubioside)",
      "compounds": [
       "anthocyanin"
      ],
-     "note": "The red pigments and principal antioxidant/vasoactive constituents.",
+     "note": "The anthocyanins delphinidin-3-sambubioside and cyanidin-3-sambubioside are among the compounds thought to contribute to the plant's reported effects, which may be linked to antioxidant activity, inhibition of angiotensin-converting enzyme and direct relaxation of blood vessels.",
      "reference_ids": [
-      "REF-0464"
+      "REF-1840"
      ]
     },
     {
-     "name": "Organic acids (including hibiscus/hydroxycitric acid) and polyphenols",
+     "name": "Organic and phenolic acids (hydroxycitric acid, hibiscus acid, protocatechuic acid)",
      "compounds": [
       "phenolic-compound"
      ],
-     "note": "Contribute to the tartness and cardiometabolic effects.",
+     "note": "The organic acids hydroxycitric acid and hibiscus acid, and phenolic acids, especially protocatechuic acid, are likely contributors to its reported effects.",
      "reference_ids": [
-      "REF-0464"
+      "REF-1840"
      ]
     },
     {
@@ -27944,9 +27959,9 @@
      "compounds": [
       "flavonoid"
      ],
-     "note": "Additional antioxidant constituents.",
+     "note": "The dried calyces contain the flavonoids gossypetin, hibiscetin and sabdaretin; the leaves contain flavonoids such as quercetin and kaempferol and their derivatives.",
      "reference_ids": [
-      "REF-0464"
+      "REF-3271"
      ]
     }
    ],
@@ -28000,29 +28015,31 @@
    "preparations": [
     {
      "name": "Infusion ('hibiscus tea')",
-     "text": "Dried calyces steeped in hot or cold water as a tart, ruby-red infusion; the form used in most clinical blood-pressure studies.",
+     "text": "The calyces are used in hot and cold drinks and herbal teas. In a 6-month randomised trial in Senegal, a brew of 10 g of calyx a day lowered blood pressure as much as the drug captopril.",
      "reference_ids": [
-      "REF-0464"
+      "REF-1840",
+      "REF-1847"
      ],
      "status": "verified"
     },
     {
-     "name": "Standardised extract",
-     "text": "Concentrated calyx extract, taken as capsules for cardiometabolic support.",
+     "name": "Calyx extract (tablets)",
+     "text": "Tablets of hibiscus calyx extract (375 mg twice a day) lowered blood pressure about as much as captopril in the same 6-month trial, though the brew tended to work slightly better.",
      "reference_ids": [
-      "REF-0464"
+      "REF-1847"
      ],
      "status": "verified"
     }
    ],
    "dosage": [
     {
-     "name": "Infusion",
-     "text": "Clinical trials for blood pressure commonly use around 1.5-3 g of dried calyx (roughly one to two cups of tea) daily. Educational reference only, not a prescription.",
+     "name": "Infusion (brew)",
+     "text": "In a 6-month randomised trial in people with uncomplicated high blood pressure, a brew of 10 g of dried calyx a day lowered systolic pressure by about 20 mmHg, as much as captopril; the authors suggest later studies might start the brew at a lower dose. An umbrella review of 26 trials found that hibiscus lowers blood pressure in a dose-dependent way. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0464"
+      "REF-1847",
+      "REF-3582"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "actions": [
@@ -29420,21 +29437,21 @@
    "preparations": [
     {
      "name": "Standardised extract",
-     "text": "Flowering-top extract standardised to hypericin and/or hyperforin content, taken as tablets or capsules; the best-studied clinical form for mood support.",
+     "text": "Standardised extracts of the flowering tops, made with ethanol or methanol, taken as capsules, tablets, tinctures or drops; the WHO monograph gives up to 900 mg of extract a day, equivalent to 0.2-2.7 mg of total hypericin.",
      "reference_ids": [
-      "REF-0842"
+      "REF-3986"
      ],
      "status": "verified"
     }
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials for mild-to-moderate depression commonly use around 300 mg of standardised extract three times daily (900 mg/day total); given extensive drug interactions, use should be discussed with a healthcare provider, especially alongside other medicines. Educational reference only, not a prescription.",
+     "name": "Crude drug or standardised extract (WHO monograph)",
+     "text": "The WHO monograph gives 2-4 g of the dried herb a day, or standardised extracts up to 900 mg a day (0.2-2.7 mg total hypericin). It does not recommend combining St John's wort with other antidepressants such as tricyclics or fluoxetine except under medical supervision, and many drug interactions are reported. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0842"
+      "REF-3986"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -42083,13 +42100,13 @@
    ],
    "constituents": [
     {
-     "name": "Flavonoids (vitexin, isovitexin, chrysin)",
+     "name": "Flavonoids (isovitexin, vitexin and other C-glycosides)",
      "compounds": [
       "flavonoid"
      ],
-     "note": "The principal calming constituents, thought to act on GABA pathways.",
+     "note": "Flavonoids are the major constituents (up to 2.5%), mainly C-glycosides of apigenin and luteolin such as isovitexin (up to 0.32%), isoorientin, schaftoside and isoschaftoside, with small amounts of vitexin and orientin; chrysin is also present.",
      "reference_ids": [
-      "REF-0490"
+      "REF-3985"
      ]
     },
     {
@@ -42097,9 +42114,9 @@
      "compounds": [
       "alkaloid"
      ],
-     "note": "Minor constituents that may contribute to the sedative effect.",
+     "note": "Traces of beta-carboline alkaloids (harman, harmol, harmine) have been reported in the plant, but they are undetectable in most commercial material.",
      "reference_ids": [
-      "REF-0490"
+      "REF-3985"
      ]
     }
    ],
@@ -42171,9 +42188,10 @@
      "status": "verified"
     },
     {
-     "name": "Standardised extract/tincture",
-     "text": "Liquid or encapsulated extract, the form used in most clinical trials.",
+     "name": "Extract/tincture",
+     "text": "Extracts, fluid extracts, tinctures and capsules of the dried aerial parts; as a sedative the WHO monograph gives 1-4 ml of a 1:8 tincture three to four times a day. A systematic review evaluated randomised trials of passionflower preparations for anxiety, insomnia and related conditions.",
      "reference_ids": [
+      "REF-3985",
       "REF-0490"
      ],
      "status": "verified"
@@ -44252,7 +44270,7 @@
     },
     {
      "name": "Flavokavains (flavokavain A, B, C)",
-     "note": "Chalcone-type constituents of the root; implicated by structure-activity analyses as the components most likely responsible for kava-associated liver injury, which is why water-based extracts of peeled noble-cultivar root are preferred.",
+     "note": "With the kavalactones, the flavokavains are one of the two main groups of bioactive compounds in kava; most current evidence points to them as responsible for the liver toxicity linked to kava use.",
      "reference_ids": [
       "REF-3063"
      ]
@@ -44316,8 +44334,11 @@
     }
    ],
    "traditional_uses": {
-    "text": "Kava root has a centuries-long ceremonial and social tradition across Pacific Island cultures, prepared as a communal beverage for its calming, sociable and relaxing effects; this traditional anxiolytic reputation is now supported by clinical trials of standardised water-based extracts for anxiety.",
+    "text": "Kava root is the source of a traditional non-fermented drink, widely consumed in some Polynesian islands for social and recreational purposes; it has a calming effect while promoting mental clarity. Pharmacopoeias and traditional systems describe it to induce relaxation, reduce weight and treat fungal infections, and folk medicine used it for asthma, colds, cystitis, gonorrhoea, headaches, menstrual irregularities, urinary infections and warts. WHO lists short-term relief of mild anxiety or insomnia due to nervousness, stress or tension as supported by clinical data, and a Cochrane review of 11 trials found that kava extract reduced anxiety compared with placebo.",
     "reference_ids": [
+     "REF-3313",
+     "REF-3063",
+     "REF-3980",
      "REF-2462"
     ],
     "status": "verified"
@@ -44325,17 +44346,19 @@
    "preparations": [
     {
      "name": "Traditional beverage (water-based)",
-     "text": "Peeled root pounded or ground and mixed with water, strained and drunk fresh, the traditional Pacific Island ceremonial and social preparation.",
+     "text": "The roots and stems are pulverised by grinding or chewing, suspended in water and sieved to remove the residue; the milky-brown liquid is the traditional drink.",
      "reference_ids": [
-      "REF-2462"
+      "REF-3313"
      ],
      "status": "verified"
     },
     {
-     "name": "Standardised extract",
-     "text": "Water-based extract standardised to kavalactone content, taken as capsules; the form used in most clinical anxiety trials, and the safer choice given documented hepatotoxicity concerns with some solvent-extracted products.",
+     "name": "Extract (dosed by kava pyrones)",
+     "text": "Kava extracts and the cut crude drug are taken by mouth, dosed by their kava pyrone (kavalactone) content; WHO gives an amount equivalent to 60-210 mg of kava pyrones a day. Oral kava-extract mono-preparations were the form tested in the anxiety trials of a Cochrane review. Liver injury has been linked to kava use.",
      "reference_ids": [
-      "REF-2462"
+      "REF-3980",
+      "REF-2462",
+      "REF-3063"
      ],
      "status": "verified"
     }
@@ -50304,10 +50327,10 @@
      ]
     },
     {
-     "name": "Vitamin C and minerals",
-     "note": "Nutritive constituents.",
+     "name": "Minerals",
+     "note": "A review of berry-bush leaves (black currant, raspberry and aronia) summarises the mineral content of the leaves, noting that minerals make up a significant part of leaf infusions.",
      "reference_ids": [
-      "REF-0497"
+      "REF-1536"
      ]
     }
    ],
@@ -50362,19 +50385,22 @@
     }
    ],
    "traditional_uses": {
-    "text": "Raspberry leaf has a long, very widely known folk tradition as a 'pregnancy tea', taken in the final weeks of pregnancy as a uterine tonic to prepare for labour. Observational studies and a small randomised controlled trial suggest a possible modest effect on labour duration, though robust proof is still lacking.",
+    "text": "Raspberry leaf tea is a traditional herb taken in pregnancy in the belief that it shortens labour and makes it easier; the leaves have also been used for diarrhoea, as a uterine tonic for pregnant women and an aid in childbirth, for painful menstrual cramps, and as a gargle for tonsillitis and mouth inflammation. The EU herbal monograph accepts traditional use for minor menstrual cramps, mild inflammation in the mouth or throat and mild diarrhoea, but does not recommend use in pregnancy or breastfeeding because safety has not been established. In a randomised trial of raspberry leaf tablets taken from 32 weeks of pregnancy, the first stage of labour was not shortened; the second stage was about 10 minutes shorter and forceps deliveries were fewer.",
     "reference_ids": [
-     "REF-0497",
-     "REF-0498"
+     "REF-0498",
+     "REF-3328",
+     "REF-3981",
+     "REF-0607"
     ],
     "status": "verified"
    },
    "preparations": [
     {
      "name": "Infusion (tea)",
-     "text": "Dried leaf steeped in hot water - the classic late-pregnancy preparation.",
+     "text": "Dried leaf infused in boiling water: the EU herbal monograph gives 1.5-8 g in 150 ml three times a day for mild diarrhoea, or as a gargle for mild mouth or throat inflammation. Raspberry leaf tea is also widely drunk in pregnancy (38% of women in one survey), though the EU monograph does not recommend it then.",
      "reference_ids": [
-      "REF-0497"
+      "REF-3981",
+      "REF-0498"
      ],
      "status": "verified"
     },
@@ -50389,11 +50415,11 @@
    ],
    "dosage": [
     {
-     "name": "Infusion (tea)",
-     "text": "Popular guidance and observational studies generally describe starting raspberry-leaf tea or tablets in the last few weeks of pregnancy, at roughly 1-3 cups of tea daily; use should be discussed with a midwife or doctor given the lack of robust trial evidence. Educational reference only, not a prescription.",
+     "name": "Infusion and dry extract (EU herbal monograph)",
+     "text": "For adults the EU herbal monograph gives 1.5-8 g of the cut leaf in 150 ml of boiling water three times a day as a tea for mild diarrhoea or as a gargle, and 113-226 mg of a dry extract up to 3-4 times a day after meals for minor menstrual cramps. It does not recommend use in pregnancy or breastfeeding. A randomised trial in late pregnancy used raspberry leaf tablets of 1.2 g twice a day from 32 weeks. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0497",
-      "REF-0498"
+      "REF-3981",
+      "REF-0607"
      ],
      "status": "verified"
     }
@@ -54262,11 +54288,12 @@
    },
    "preparations": [
     {
-     "name": "Standardised lipophilic (hexanic) extract (capsule)",
-     "text": "The most-studied commercial form (e.g. Permixon).",
+     "name": "Hexanic lipidosterolic extract (Permixon)",
+     "text": "A hexanic extract of the fruit, sold as Permixon and taken at 320 mg a day, has been tested in at least 12 randomised trials for urinary symptoms of benign prostatic hyperplasia; meta-analyses found it reduced night-time urination and improved urine flow compared with placebo. WHO lists lipidosterolic extracts standardised to 70-95% free fatty acids, 320 mg a day as one dose or 160 mg twice daily.",
      "reference_ids": [
       "REF-0571",
-      "REF-0572"
+      "REF-0572",
+      "REF-3991"
      ],
      "status": "verified"
     }
@@ -60134,9 +60161,10 @@
      "status": "verified"
     },
     {
-     "name": "Standardized isoflavone extract",
-     "text": "Standardized isoflavone extract in tablet form, the form used in most menopause-related clinical research.",
+     "name": "Isoflavone extract (tablets)",
+     "text": "Red clover isoflavone extracts in tablet form; WHO lists the crude drug and tablets as dosage forms. Trials have tested red clover extracts for menopausal symptoms, high cholesterol, osteoporosis and prostate cancer, but WHO judged the data insufficient to support these uses. In a 1-year randomised trial, a red clover isoflavone supplement reduced lumbar spine bone loss in women aged 49-65.",
      "reference_ids": [
+      "REF-3983",
       "REF-0013"
      ],
      "status": "verified"
@@ -60144,9 +60172,10 @@
    ],
    "dosage": [
     {
-     "name": "Standardized extract",
-     "text": "Clinical research commonly uses around 40-80 mg isoflavones daily. Educational reference only, not a prescription.",
+     "name": "Isoflavone extract",
+     "text": "The WHO monograph gives extracts of 240-480 mg a day, corresponding to 40-80 mg of isoflavones. A 1-year bone trial used a supplement supplying 26 mg biochanin A, 16 mg formononetin, 1 mg genistein and 0.5 mg daidzein a day. Educational reference only, not a prescription.",
      "reference_ids": [
+      "REF-3983",
       "REF-0013"
      ],
      "status": "verified"
@@ -60158,9 +60187,9 @@
      "compounds": [
       "flavonoid"
      ],
-     "note": "Phytoestrogenic isoflavones responsible for the plant's estrogenic and cardiovascular research interest; one of the richest known plant sources.",
+     "note": "Red clover is rich in isoflavonoids; the major active oestrogenic ones are biochanin A, daidzein, formononetin and genistein.",
      "reference_ids": [
-      "REF-0013"
+      "REF-3983"
      ]
     },
     {
@@ -61079,18 +61108,18 @@
    },
    "preparations": [
     {
-     "name": "Ground seed / seed tea",
-     "text": "Ground seeds taken with food, or whole seeds soaked/simmered as a tea, the traditional preparation for digestive and blood sugar support.",
+     "name": "Seed and cold infusion",
+     "text": "Cut or crushed seed taken by mouth (WHO average daily dose 6 g), or a cold infusion of 0.5 g of cut seed soaked in 150 ml of cold water for 3 hours, several cups a day. Externally, powdered seed is made into a poultice (50 g per litre of hot water) or added to a hot bath.",
      "reference_ids": [
-      "REF-0182"
+      "REF-3984"
      ],
      "status": "verified"
     },
     {
-     "name": "Standardized extract (capsule)",
-     "text": "Standardized seed extract in capsule form, the form most used in clinical trials on blood sugar and cholesterol.",
+     "name": "Extracts and tinctures",
+     "text": "Seed extracts, fluid extracts and tinctures; the WHO monograph gives a daily native extract (3-4:1) of 1.5-2 g, a fluid extract (1:1) of 6 ml or a tincture (1:5) of 30 ml.",
      "reference_ids": [
-      "REF-0182"
+      "REF-3984"
      ],
      "status": "verified"
     }
@@ -61118,13 +61147,14 @@
      ]
     },
     {
-     "name": "Galactomannan (soluble fiber)",
+     "name": "Mucilage (soluble fibre)",
      "compounds": [
       "polysaccharide"
      ],
-     "note": "Mucilaginous soluble fiber that slows carbohydrate absorption, a key mechanism behind the blood-sugar-lowering effect.",
+     "note": "The seed is rich in mucilage, 25-45% of its weight; this strong mucilage is why the seed has been used for inflammation and ulcers of the stomach and intestines.",
      "reference_ids": [
-      "REF-0182"
+      "REF-3984",
+      "REF-3356"
      ]
     },
     {
@@ -62248,8 +62278,9 @@
     }
    ],
    "traditional_uses": {
-    "text": "Cranberry has a long Native American and North American folk tradition as a food and remedy for urinary complaints, an association now well supported by modern research showing its A-type proanthocyanidins prevent E. coli from adhering to the urinary tract lining, making it most useful for prevention of recurrent UTIs rather than treatment of an active infection.",
+    "text": "In traditional medicine cranberry was used for asthma, fever, loss of appetite, scurvy, stomach ailments, gallbladder and liver disease and wounds. Its main modern use is as an adjunct for preventing and easing urinary tract infections in adults, which WHO lists as supported by clinical data; trials in children were negative. Laboratory studies show that cranberry works by stopping E. coli from sticking to the cells lining the urinary tract, not by acidifying the urine. A network meta-analysis of 20 trials found 54% fewer urinary infections with cranberry juice than with no treatment.",
     "reference_ids": [
+     "REF-3982",
      "REF-0389"
     ],
     "status": "verified"
@@ -62257,16 +62288,18 @@
    "preparations": [
     {
      "name": "Juice",
-     "text": "Unsweetened or lightly sweetened cranberry juice, taken regularly as a traditional and modern preventive measure for recurrent UTIs.",
+     "text": "Cranberry juice, taken regularly to prevent urinary infections; in a network meta-analysis, cranberry juice was linked to 54% fewer infections than no treatment and 27% fewer than a placebo drink.",
      "reference_ids": [
-      "REF-0389"
+      "REF-0389",
+      "REF-3982"
      ],
      "status": "verified"
     },
     {
-     "name": "Standardized tablet/capsule",
-     "text": "Standardized proanthocyanidin (PAC) extract in tablet or capsule form, used for UTI prevention in clinical research.",
+     "name": "Tablets/capsules (concentrated extract)",
+     "text": "Tablets and capsules of concentrated cranberry extract; WHO gives 1-6 capsules a day, each equivalent to 90 ml of juice or 400-450 mg of cranberry solids.",
      "reference_ids": [
+      "REF-3982",
       "REF-0389"
      ],
      "status": "verified"
@@ -62274,10 +62307,10 @@
    ],
    "dosage": [
     {
-     "name": "Juice/extract",
-     "text": "Clinical research commonly uses around 36 mg PAC daily (standardized extract) or 240-300 mL unsweetened juice daily for UTI prevention. Educational reference only, not a prescription.",
+     "name": "Juice/extract (WHO monograph)",
+     "text": "For preventing urinary infections in adults the WHO monograph gives 30-300 ml a day of a 30% pure cranberry juice product, and for treatment 360-960 ml a day or equivalent; concentrated-extract capsules are taken 1-6 a day. Trials do not support cranberry products for children. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0389"
+      "REF-3982"
      ],
      "status": "verified"
     }
@@ -62839,10 +62872,11 @@
    },
    "preparations": [
     {
-     "name": "Standardized root extract (capsule/tablet)",
-     "text": "Standardized root extract taken shortly before bedtime, the form most used in clinical research.",
+     "name": "Root extract",
+     "text": "Extracts of the root, widely used to induce sleep and improve sleep quality; in the trials of a systematic review the doses, preparations and length of treatment varied considerably. WHO also lists the expressed juice, tinctures (1:5, 1-3 ml once to several times a day) and an infusion of 2-3 g of dried root per cup, 1-5 times a day.",
      "reference_ids": [
-      "REF-0025"
+      "REF-0025",
+      "REF-3987"
      ],
      "status": "verified"
     }
@@ -62863,9 +62897,9 @@
      "compounds": [
       "valerenic-acid"
      ],
-     "note": "Sesquiterpenes thought to be key contributors to the sedative, GABA-A-modulating action.",
+     "note": "Valerenic acid, acetoxyvalerenic acid and valerenal are sesquiterpenoids that occur together only in Valeriana officinalis, distinguishing it from other valerians; they accompany a volatile oil (0.2-2.8%) whose principal components are bornyl acetate and bornyl isovalerate.",
      "reference_ids": [
-      "REF-0025"
+      "REF-3987"
      ]
     },
     {
@@ -65681,12 +65715,13 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials for stress and sleep commonly use around 300-600 mg of standardised root extract daily, in divided doses, over several weeks. Educational reference only, not a prescription.",
+     "name": "Root powder or extract",
+     "text": "The WHO monograph gives 3-6 g of the dried powdered root a day, or 250 mg twice a day as an anti-stress agent. In a meta-analysis of sleep trials, ashwagandha extract had a small overall effect that was more marked at 600 mg a day or more and over at least 8 weeks. Educational reference only, not a prescription.",
      "reference_ids": [
+      "REF-3990",
       "REF-2245"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "constituents": [

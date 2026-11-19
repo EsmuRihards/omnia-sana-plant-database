@@ -12,18 +12,21 @@ external_ids:
 parts_used:
 - Aerial parts (flowering herb)
 constituents:
-- name: Flavonoids (vitexin, isovitexin, chrysin)
+- name: Flavonoids (isovitexin, vitexin and other C-glycosides)
   compounds:
   - flavonoid
-  note: The principal calming constituents, thought to act on GABA pathways.
+  note: Flavonoids are the major constituents (up to 2.5%), mainly C-glycosides of apigenin and luteolin
+    such as isovitexin (up to 0.32%), isoorientin, schaftoside and isoschaftoside, with small amounts
+    of vitexin and orientin; chrysin is also present.
   reference_ids:
-  - REF-0490
+  - REF-3985
 - name: Trace harman-type alkaloids
   compounds:
   - alkaloid
-  note: Minor constituents that may contribute to the sedative effect.
+  note: Traces of beta-carboline alkaloids (harman, harmol, harmine) have been reported in the plant,
+    but they are undetectable in most commercial material.
   reference_ids:
-  - REF-0490
+  - REF-3985
 botanical_description:
   text: Fast-growing, climbing or trailing perennial vine (Passifloraceae) that climbs by axillary tendrils,
     reaching several metres. Leaves are alternate and deeply 3-lobed. The large, intricate flowers have
@@ -84,9 +87,12 @@ preparations:
   reference_ids:
   - REF-0491
   status: verified
-- name: Standardised extract/tincture
-  text: Liquid or encapsulated extract, the form used in most clinical trials.
+- name: Extract/tincture
+  text: Extracts, fluid extracts, tinctures and capsules of the dried aerial parts; as a sedative the
+    WHO monograph gives 1-4 ml of a 1:8 tincture three to four times a day. A systematic review evaluated
+    randomised trials of passionflower preparations for anxiety, insomnia and related conditions.
   reference_ids:
+  - REF-3985
   - REF-0490
   status: verified
 - name: Tea blend
@@ -235,4 +241,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. GAD RCT REF-3705,
   dental RCT REF-3706 and held spinal-anaesthesia RCT REF-1911 added to anxiety; herb NMA REF-2546
   (passionflower not significant in the summary network) recorded as no-effect (batch-8 carry).
-  Held stress/sleep RCT REF-1907 wired to insomnia and stress. REF-1908 retagged narrative-review.'
+  Held stress/sleep RCT REF-1907 wired to insomnia and stress. REF-1908 retagged narrative-review.
+  | 2026-11-19 (monograph-source audit): constituents[0-1] and preparations[1] cited only REF-0490 (systematic review of trials). RE-SOURCED to WHO Herba Passiflorae vol. 3 (REF-3985, new; flavonoid C-glycosides, chrysin, trace alkaloids undetectable in most commercial material, dosage forms, tincture dose). Dropped as unsupported: principal calming constituents acting on GABA pathways, alkaloids contributing to the sedative effect, the form used in most clinical trials.'

@@ -12,24 +12,28 @@ external_ids:
 parts_used:
 - Calyx (dried flower calyces)
 constituents:
-- name: Anthocyanins (delphinidin and cyanidin glucosides)
+- name: Anthocyanins (delphinidin- and cyanidin-3-sambubioside)
   compounds:
   - anthocyanin
-  note: The red pigments and principal antioxidant/vasoactive constituents.
+  note: The anthocyanins delphinidin-3-sambubioside and cyanidin-3-sambubioside are among the compounds
+    thought to contribute to the plant's reported effects, which may be linked to antioxidant activity,
+    inhibition of angiotensin-converting enzyme and direct relaxation of blood vessels.
   reference_ids:
-  - REF-0464
-- name: Organic acids (including hibiscus/hydroxycitric acid) and polyphenols
+  - REF-1840
+- name: Organic and phenolic acids (hydroxycitric acid, hibiscus acid, protocatechuic acid)
   compounds:
   - phenolic-compound
-  note: Contribute to the tartness and cardiometabolic effects.
+  note: The organic acids hydroxycitric acid and hibiscus acid, and phenolic acids, especially protocatechuic
+    acid, are likely contributors to its reported effects.
   reference_ids:
-  - REF-0464
+  - REF-1840
 - name: Flavonoids
   compounds:
   - flavonoid
-  note: Additional antioxidant constituents.
+  note: The dried calyces contain the flavonoids gossypetin, hibiscetin and sabdaretin; the leaves contain
+    flavonoids such as quercetin and kaempferol and their derivatives.
   reference_ids:
-  - REF-0464
+  - REF-3271
 botanical_description:
   text: Erect, branching annual to short-lived perennial shrub with reddish stems and deeply lobed, palmate
     leaves. Pale yellow to pink hibiscus-type flowers with a dark centre open briefly, followed by the
@@ -76,27 +80,32 @@ traditional_uses:
   status: verified
 preparations:
 - name: Infusion ('hibiscus tea')
-  text: Dried calyces steeped in hot or cold water as a tart, ruby-red infusion; the form used in most
-    clinical blood-pressure studies.
+  text: The calyces are used in hot and cold drinks and herbal teas. In a 6-month randomised trial in
+    Senegal, a brew of 10 g of calyx a day lowered blood pressure as much as the drug captopril.
   reference_ids:
-  - REF-0464
+  - REF-1840
+  - REF-1847
   status: verified
-- name: Standardised extract
-  text: Concentrated calyx extract, taken as capsules for cardiometabolic support.
+- name: Calyx extract (tablets)
+  text: Tablets of hibiscus calyx extract (375 mg twice a day) lowered blood pressure about as much as
+    captopril in the same 6-month trial, though the brew tended to work slightly better.
   reference_ids:
-  - REF-0464
+  - REF-1847
   status: verified
 - name: Culinary use
   text: Fresh or dried calyces used in cooking, jams and cold beverages, especially across West Africa
     and Latin America.
   status: draft
 dosage:
-- name: Infusion
-  text: Clinical trials for blood pressure commonly use around 1.5-3 g of dried calyx (roughly one to
-    two cups of tea) daily. Educational reference only, not a prescription.
+- name: Infusion (brew)
+  text: In a 6-month randomised trial in people with uncomplicated high blood pressure, a brew of 10 g
+    of dried calyx a day lowered systolic pressure by about 20 mmHg, as much as captopril; the authors
+    suggest later studies might start the brew at a lower dose. An umbrella review of 26 trials found
+    that hibiscus lowers blood pressure in a dose-dependent way. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0464
-  status: draft
+  - REF-1847
+  - REF-3582
+  status: verified
 actions:
 - action: antidiabetic
   note: Lowers fasting blood glucose
@@ -285,4 +294,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Revie
   high-blood-pressure and cardiovascular-support; held trials REF-1846/REF-1847 wired directly to
   high-blood-pressure. Overview of reviews REF-3582, glycaemic/lipid MA REF-3583 and MetS lipid MA
   REF-3584 added; REF-0567 (no significant lipid effect) recorded as no-effect for
-  high-cholesterol; obesity MA REF-3585 (no benefit) as no-effect for metabolic-support (weight).'
+  high-cholesterol; obesity MA REF-3585 (no benefit) as no-effect for metabolic-support (weight).
+  | 2026-11-19 (monograph-source audit): constituents[0-2], preparations[0-1] and dosage[0] cited only REF-0464 (blood-pressure meta-analysis; abstract names no constituents, forms or doses). RE-SOURCED: phytochemistry review REF-1840 (sambubiosides, hydroxycitric and hibiscus acids, protocatechuic acid), Wikipedia REF-3271 (calyx flavonoids gossypetin, hibiscetin, sabdaretin), Senegal RCT REF-1847 (10 g calyx brew/day and 375 mg tablets twice daily, as effective as captopril), umbrella review REF-3582 (dose-dependent BP lowering). Dropped as unsupported: red pigments, tartness, antioxidant flavonoids, ruby-red, the form used in most BP studies, capsules, 1.5-3 g/day (one to two cups). Note: Wikipedia now files roselle as Sabdariffa gossypiifolia, a reclassification of the same plant.'

@@ -86,12 +86,15 @@ preparations:
     are toxic (ginkgotoxin) and never eaten raw.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials for cognitive and circulatory support commonly use around 120-240 mg of standardised
-    leaf extract daily, in divided doses. Educational reference only, not a prescription.
+- name: Standardised leaf extract
+  text: The WHO monograph gives 120-240 mg a day of a standardised dry leaf extract (22-27% flavone glycosides,
+    5-7% terpene lactones) in 2 or 3 doses; 40 mg of extract corresponds to 1.4-2.7 g of leaves. In a
+    large prevention trial, 120 mg twice a day did not reduce the rate of dementia in older adults. Educational
+    reference only, not a prescription.
   reference_ids:
+  - REF-3989
   - REF-0056
-  status: draft
+  status: verified
 constituents:
 - name: Flavone glycosides (quercetin, kaempferol, isorhamnetin glycosides)
   compounds:
@@ -371,4 +374,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3564 recorded as no-effect on cardiovascular-support. Inflammatory-marker MA REF-3568 added.
   New pairs (owner rule): anxiety (RCT REF-3566 + held NMA REF-2546), depression (MA REF-3567).
   REF-0824/REF-0825 retagged narrative-review. Not added (gaps): hyperlipidemia MA 42102021 (HDL
-  vs Western medicine only; a T2DM MA 38264278 found no lipid or glucose effect).'
+  vs Western medicine only; a T2DM MA 38264278 found no lipid or glucose effect).
+  | 2026-11-19 (monograph-source audit): dosage[0] cited only REF-0056 (GEM dementia-prevention RCT, a NULL result at 120 mg twice daily) for ''trials for cognitive and circulatory support commonly use 120-240 mg''. RE-SOURCED: WHO Folium Ginkgo vol. 1 (REF-3989, new; 120-240 mg/day of the standardised extract); REF-0056 kept for its null finding.'

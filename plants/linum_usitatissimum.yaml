@@ -101,12 +101,9 @@ dosage:
   status: verified
 - name: Flaxseed oil
   text: A randomised placebo-controlled trial titrated flax oil capsules (550 mg alpha-linolenic acid
-    per 1 g of oil) to 12 capsules per day, i.e. up to roughly 12 g of oil daily, over 16 weeks - broadly
-    matching the 1-2 tablespoons (about 10-15 mL) daily often cited for omega-3 intake. That trial was
-    in children and adolescents with bipolar disorder and its primary outcomes were null; it is cited
-    here only as a source for an administered human dose of the oil, not as evidence of benefit. Note
-    the EU herbal monograph on Lini semen covers the SEED, not the oil. Educational reference only, not
-    a prescription.
+    per 1 g of oil) to 12 capsules a day as tolerated, over 16 weeks, in children and adolescents with
+    bipolar disorder; its primary outcomes showed no benefit. It is cited only for an administered human
+    dose of the oil, not as evidence of benefit. Educational reference only, not a prescription.
   reference_ids:
   - REF-3104
   status: verified
@@ -374,4 +371,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   high-blood-pressure (MAs REF-3618, REF-3619 + held RCT REF-3395), high-cholesterol (MAs
   REF-3620, REF-3621), blood-sugar (MAs REF-3622-REF-3624), constipation (RCTs REF-3627,
   REF-3628). Inflammation: 2024 MA REF-3625 support, 2016 CRP MA REF-3626 no-effect. Gap: hot
-  flashes - flaxseed RCTs 21900849 and 20007337 were null and there is no hot-flash pair.'
+  flashes - flaxseed RCTs 21900849 and 20007337 were null and there is no hot-flash pair.
+  | 2026-11-19 (monograph-source audit): dosage[1] checked against REF-3104: trial dose correct; removed the unsourced comparison with ''1-2 tablespoons (10-15 ml) daily often cited for omega-3 intake'' and the aside about the EU monograph scope.'

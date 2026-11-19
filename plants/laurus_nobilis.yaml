@@ -85,10 +85,9 @@ preparations:
   status: draft
 dosage:
 - name: Infusion
-  text: Two clinical studies in healthy volunteers used an infusion prepared from 5 g of dried Laurus nobilis
-    leaves in 100 mL of boiled water, taken once daily for 10 days. Traditional references suggest a smaller
-    1-3 g per cup up to three times daily; no EMA or WHO monograph exists for bay leaf. Educational reference
-    only, not a prescription.
+  text: Two clinical studies in healthy volunteers used an infusion prepared from 5 g of dried Laurus
+    nobilis leaves in 100 ml of boiled water, taken once a day for 10 days. Educational reference only,
+    not a prescription.
   reference_ids:
   - REF-1682
   - REF-1683
@@ -249,4 +248,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   laurocerasus) lookalike. Binomial confirmed. | 2026-08-15: fruit harvest_readiness filled (was gap) from the PROSEA monograph on Pl@ntUse (REF-3379): the drupe is ripe when coloured dark violet to glossy black. Cherry-laurel safety clause carried.
   | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. Bruising dropped: its
   only card was a rabbit wound-healing study (a wound is not a bruise; batch-1 rule). No trials on
-  PubMed.'
+  PubMed.
+  | 2026-11-19 (monograph-source audit): dosage[0] checked against REF-1682/REF-1683: the 5 g in 100 ml once daily for 10 days is correct; removed ''traditional references suggest 1-3 g per cup up to three times daily'' and ''no EMA or WHO monograph exists'' (neither is stated by a cited source).'

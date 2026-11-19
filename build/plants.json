@@ -1004,9 +1004,9 @@
      "compounds": [
       "phenolic-acid"
      ],
-     "note": "Antioxidant constituents of the root.",
+     "note": "Hydroxycinnamic acid esters including fukinolic acid and cimicifugic acids A, B, E and F, with free caffeic, ferulic and isoferulic acids, have been isolated from the rhizome; fukinolic acid showed oestrogen-like activity in a cell test.",
      "reference_ids": [
-      "REF-0670"
+      "REF-3992"
      ]
     }
    ],
@@ -5401,8 +5401,8 @@
      "status": "draft"
     },
     {
-     "name": "Standardised leaf extract",
-     "text": "Concentrated leaf extract studied in a pilot clinical trial for overactive bladder symptoms.",
+     "name": "Leaf extract",
+     "text": "An Angelica archangelica leaf extract taken for 6 weeks reduced daytime urination and improved bladder-storage symptoms in a pilot randomised trial in adults with overactive bladder.",
      "reference_ids": [
       "REF-0615"
      ],
@@ -10803,7 +10803,7 @@
     },
     {
      "name": "Caffeine and theanine",
-     "note": "Caffeine gives tea its mild stimulant effect; L-theanine, a unique amino acid, is associated with calm alertness and modulates caffeine's effects.",
+     "note": "Green tea contains caffeine and the amino acid L-theanine; a systematic review found that its benefits for cognition came from the two acting together, with either alone having less effect.",
      "reference_ids": [
       "REF-0755"
      ],
@@ -11382,8 +11382,8 @@
      "status": "verified"
     },
     {
-     "name": "Standardised cannabinoid extract",
-     "text": "Extract standardised to specific cannabinoid content (e.g. CBD), used in regulated medicinal products; regulatory status varies widely by jurisdiction and product type.",
+     "name": "Cannabidiol (CBD) oral solution",
+     "text": "Cannabidiol given as an oral solution at 20 mg per kg of body weight a day more than halved the monthly frequency of convulsive seizures (median 12.4 to 5.9, against 14.9 to 14.1 on placebo) in a randomised trial in children and young adults with drug-resistant seizures in Dravet syndrome.",
      "reference_ids": [
       "REF-0058"
      ],
@@ -13795,23 +13795,24 @@
      "status": "verified"
     },
     {
-     "name": "Infusion/tincture (historical, oral - restricted)",
-     "text": "Historically taken as an infusion or tincture for biliary dyspepsia, but oral use is now restricted in several jurisdictions due to hepatotoxicity risk and should only be considered under professional supervision, if at all.",
+     "name": "Oral extracts and capsules (liver injury reported)",
+     "text": "Extracts and capsules of greater celandine have been taken by mouth, for example to manage gallstones; a clinical review and case reports describe acute liver injury caused by them.",
      "reference_ids": [
-      "REF-0459"
+      "REF-0459",
+      "REF-0601"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "dosage": [
     {
      "name": "All internal preparations",
-     "text": "Because of a documented risk of acute liver injury, no internal dose is given here; oral use should be avoided, especially by anyone with liver disease, and any sign of jaundice, dark urine or upper-abdominal pain warrants immediate medical attention. Educational reference only, not a prescription.",
+     "text": "Extracts of greater celandine taken by mouth have caused acute liver injury (hepatitis, sometimes with jaundice), so no internal dose is given here. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-0459",
       "REF-0601"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "actions": [
@@ -18847,7 +18848,7 @@
     },
     {
      "name": "Topical cream",
-     "text": "Root extract formulated into topical creams, historically marketed (without good supporting evidence) for menopausal symptoms.",
+     "text": "Wild yam extract applied to the skin as a cream is a popular treatment for menopausal symptoms, but in a 3-month placebo-controlled crossover trial in 23 women it did not improve symptoms more than placebo, and it did not change weight, blood pressure or blood lipids.",
      "reference_ids": [
       "REF-0614"
      ],
@@ -23309,8 +23310,8 @@
      "status": "verified"
     },
     {
-     "name": "Standardised extract",
-     "text": "Seed extract studied in randomised trials for primary dysmenorrhoea (menstrual pain).",
+     "name": "Fennel preparations (trials)",
+     "text": "Fennel taken by mouth has been tested in randomised trials for primary dysmenorrhoea; a meta-analysis found it reduced the intensity of period pain compared with placebo.",
      "reference_ids": [
       "REF-0604"
      ],
@@ -26509,8 +26510,8 @@
    },
    "preparations": [
     {
-     "name": "Standardised extract",
-     "text": "Leaf extract standardised to gymnemic acid content, taken as capsules; the form used in most clinical glycaemic-control studies.",
+     "name": "Leaf extract (GS4)",
+     "text": "A leaf extract (GS4) taken at 400 mg a day for 18-20 months alongside standard diabetes drugs lowered blood glucose and glycated haemoglobin in a study of 22 people with type 2 diabetes, and their drug doses could be reduced.",
      "reference_ids": [
       "REF-2465"
      ],
@@ -26519,12 +26520,12 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials in type 2 diabetes commonly use around 400-800 mg of standardised leaf extract daily, in divided doses. Educational reference only, not a prescription.",
+     "name": "Leaf extract GS4 (study)",
+     "text": "One study gave 400 mg a day of the leaf extract GS4 for 18-20 months alongside standard diabetes drugs. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-2465"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "actions": [
@@ -27721,7 +27722,7 @@
    "dosage": [
     {
      "name": "Standardised extract",
-     "text": "A 49-week double-blind randomised trial in mild Alzheimer's disease used three erinacine A-enriched H. erinaceus mycelia capsules per day at 350 mg per capsule, i.e. 1050 mg daily. Other clinical studies of cognitive support commonly use around 1-3 g of dried fruiting body extract daily. Educational reference only, not a prescription.",
+     "text": "A 49-week double-blind randomised trial in mild Alzheimer's disease used three erinacine A-enriched H. erinaceus mycelia capsules a day at 350 mg each (containing 5 mg/g erinacine A), i.e. 1050 mg daily. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-2419"
      ],
@@ -28006,8 +28007,12 @@
     }
    ],
    "traditional_uses": {
-    "text": "Hibiscus calyx (known as roselle, sorrel or karkade in different regions) has a long traditional use across Africa, the Middle East and the Caribbean as a tart, cooling beverage and folk remedy for fevers and mild hypertension; this traditional blood-pressure-lowering reputation is now well supported by clinical trials of hibiscus tea/extract.",
+    "text": "Hibiscus calyces have long been used as food, in hot and cold drinks and herbal teas, and as a herbal medicine. They make popular drinks such as karkade in Sudan and Egypt, zobo in Nigeria and a spiced drink in the Caribbean, and in Senegal, where the plant is called bissap, it is widely known in traditional medicine for lowering blood pressure. The trial evidence is mixed: a 2021 Cochrane review judged it insufficient to show that roselle lowers blood pressure compared with placebo, while other meta-analyses report reductions.",
     "reference_ids": [
+     "REF-1840",
+     "REF-3271",
+     "REF-1847",
+     "REF-3581",
      "REF-0464"
     ],
     "status": "verified"
@@ -32260,7 +32265,7 @@
    "dosage": [
     {
      "name": "Infusion",
-     "text": "Two clinical studies in healthy volunteers used an infusion prepared from 5 g of dried Laurus nobilis leaves in 100 mL of boiled water, taken once daily for 10 days. Traditional references suggest a smaller 1-3 g per cup up to three times daily; no EMA or WHO monograph exists for bay leaf. Educational reference only, not a prescription.",
+     "text": "Two clinical studies in healthy volunteers used an infusion prepared from 5 g of dried Laurus nobilis leaves in 100 ml of boiled water, taken once a day for 10 days. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-1682",
       "REF-1683"
@@ -33604,7 +33609,7 @@
     },
     {
      "name": "Flaxseed oil",
-     "text": "A randomised placebo-controlled trial titrated flax oil capsules (550 mg alpha-linolenic acid per 1 g of oil) to 12 capsules per day, i.e. up to roughly 12 g of oil daily, over 16 weeks - broadly matching the 1-2 tablespoons (about 10-15 mL) daily often cited for omega-3 intake. That trial was in children and adolescents with bipolar disorder and its primary outcomes were null; it is cited here only as a source for an administered human dose of the oil, not as evidence of benefit. Note the EU herbal monograph on Lini semen covers the SEED, not the oil. Educational reference only, not a prescription.",
+     "text": "A randomised placebo-controlled trial titrated flax oil capsules (550 mg alpha-linolenic acid per 1 g of oil) to 12 capsules a day as tolerated, over 16 weeks, in children and adolescents with bipolar disorder; its primary outcomes showed no benefit. It is cited only for an administered human dose of the oil, not as evidence of benefit. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-3104"
      ],
@@ -34464,11 +34469,11 @@
    "preparations": [
     {
      "name": "Topical cream/ointment",
-     "text": "A standardised 10% Mahonia aquifolium bark extract cream, the best-studied form, applied to affected skin up to three times daily for psoriasis or eczema.",
+     "text": "A 10% Mahonia aquifolium extract cream (such as Relieva) applied to the skin, the form used in clinical trials in psoriasis and atopic dermatitis; a review found statistically significant improvement in five of seven psoriasis studies.",
      "reference_ids": [
-      "REF-0487",
+      "REF-1173",
       "REF-0591",
-      "REF-1173"
+      "REF-0487"
      ],
      "status": "verified"
     }
@@ -34476,9 +34481,9 @@
    "dosage": [
     {
      "name": "Topical 10% extract cream",
-     "text": "Clinical trials in psoriasis and eczema have used a 10% Mahonia aquifolium bark extract cream applied to affected areas up to three times daily. Educational reference only, not a prescription; internal use is not well studied and should be supervised.",
+     "text": "Trials in psoriasis have used a 10% Mahonia aquifolium extract cream applied twice a day for 12 weeks. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0487",
+      "REF-1173",
       "REF-0591"
      ],
      "status": "verified"
@@ -35506,8 +35511,8 @@
      "status": "verified"
     },
     {
-     "name": "Topical cream/compress",
-     "text": "Concentrated extract or infused oil applied to skin, or as a compress - a randomised controlled trial found a topical chamomile oil preparation effective for knee osteoarthritis pain.",
+     "name": "Topical oil",
+     "text": "Chamomile oil applied to the knee three times a day for 3 weeks reduced the need for paracetamol (acetaminophen) compared with diclofenac and placebo in a randomised trial in knee osteoarthritis, but it did not improve pain, stiffness or function scores.",
      "reference_ids": [
       "REF-2349"
      ],
@@ -39151,9 +39156,9 @@
      "compounds": [
       "phytosterol"
      ],
-     "note": "Minor lipid constituents.",
+     "note": "Besides linoleic and gamma-linolenic acids, the seed oil contains oleic (6-11%), palmitic (7-10%) and stearic (1.5-3.5%) acids, with sterols and triterpene alcohols.",
      "reference_ids": [
-      "REF-0446"
+      "REF-3993"
      ]
     }
    ],
@@ -39494,8 +39499,8 @@
    },
    "preparations": [
     {
-     "name": "Standardised leaf extract",
-     "text": "Capsule or liquid extract standardised for oleuropein content - the form used in most clinical trials.",
+     "name": "Leaf extract (capsules)",
+     "text": "Olive leaf extract in capsules, the form used in randomised trials of insulin sensitivity in overweight men and of postmenopausal symptoms; one trial dosed it by its oleuropein and hydroxytyrosol content.",
      "reference_ids": [
       "REF-1443",
       "REF-1445"
@@ -39505,10 +39510,12 @@
    ],
    "dosage": [
     {
-     "name": "Standardised leaf extract",
-     "text": "A meta-analysis of trials for blood pressure used around 500 mg/day of standardised olive leaf extract. Educational reference only, not a prescription; culinary olive oil and leaf tea are considered food-safe at normal dietary amounts.",
+     "name": "Leaf extract (trials)",
+     "text": "In a meta-analysis of olive leaf extract trials in people with prehypertension or hypertension, 500 mg a day for at least 8 weeks lowered systolic blood pressure compared with placebo, while 1,000 mg a day showed a similar but non-significant reduction. Other randomised trials used capsules supplying 51.1 mg oleuropein and 9.7 mg hydroxytyrosol a day, or 250 mg of extract a day, for 12 weeks. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-2537"
+      "REF-2537",
+      "REF-1443",
+      "REF-1445"
      ],
      "status": "verified"
     }
@@ -40813,8 +40820,8 @@
      "status": "verified"
     },
     {
-     "name": "Emulsified oil (oral, supervised)",
-     "text": "A small clinical study used an emulsified oregano oil preparation to clear enteric parasites and improve gut symptoms; oral use of concentrated oil should be supervised.",
+     "name": "Emulsified oil (oral)",
+     "text": "In a small uncontrolled study, 14 adults with intestinal parasites took 600 mg of emulsified oregano oil a day for 6 weeks: Entamoeba hartmanni and Endolimax nana disappeared in every case, Blastocystis hominis in eight, and gut symptoms improved in seven of the 11 people with Blastocystis.",
      "reference_ids": [
       "REF-0597"
      ],
@@ -42430,8 +42437,8 @@
      "status": "verified"
     },
     {
-     "name": "Standardised extract capsule",
-     "text": "The form used in most clinical trials for cognition, fatigue and physical performance.",
+     "name": "Guarana extract",
+     "text": "Guarana extract taken by mouth in single doses of 37.5-500 mg (containing 4.3-100 mg of caffeine) in trials of cognitive performance; in a crossover trial, 500 mg of guarana seed extract (130 mg caffeine) improved cycling time-trial performance compared with placebo.",
      "reference_ids": [
       "REF-0950",
       "REF-0955"
@@ -48313,8 +48320,8 @@
    },
    "preparations": [
     {
-     "name": "Standardised root extract (capsule)",
-     "text": "Standardised to rosavins and salidroside (commonly the SHR-5 extract), the form used in most clinical trials.",
+     "name": "Standardised root extract (SHR-5)",
+     "text": "The standardised root extract SHR-5, taken as tablets, is the form tested in a randomised trial in stress-related fatigue; a systematic review assessed trials of Rhodiola rosea for physical and mental fatigue.",
      "reference_ids": [
       "REF-1532",
       "REF-1533"
@@ -48324,11 +48331,10 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "Clinical trials have most often used 340-680 mg/day of standardised root extract (e.g. SHR-5, standardised to rosavins/salidroside), typically taken in the morning to avoid overstimulation. Educational reference only, not a prescription.",
+     "name": "Standardised root extract SHR-5 (trial)",
+     "text": "A randomised placebo-controlled trial in stress-related fatigue gave four tablets a day of the standardised root extract SHR-5, 576 mg of extract daily. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-1532",
-      "REF-1533"
+      "REF-1532"
      ],
      "status": "verified"
     }
@@ -51181,9 +51187,10 @@
      "status": "verified"
     },
     {
-     "name": "Standardised extract (capsule/tablet)",
-     "text": "Standardised to salicin content, the form used in clinical trials.",
+     "name": "Extract (dosed by salicin)",
+     "text": "Willow bark extracts, tinctures and fluid extracts are dosed by their total salicin content: the WHO monograph gives the equivalent of 120-240 mg of total salicin a day in two doses. The trials in a systematic review of musculoskeletal pain all used ethanol extracts, at up to 240 mg salicin a day for up to six weeks.",
      "reference_ids": [
+      "REF-3994",
       "REF-0529"
      ],
      "status": "verified"
@@ -51474,14 +51481,15 @@
      ]
     },
     {
-     "name": "Mucilage polysaccharides (seed coat)",
+     "name": "Mucilage (heteropolysaccharide)",
      "compounds": [
       "mucilage",
       "polysaccharide"
      ],
-     "note": "Responsible for the seed's characteristic gel-forming property when soaked.",
+     "note": "Chia seeds release a mucilage, a heteropolysaccharide, when soaked in water; it holds water well, acts as an emulsifier and forms a thick, shear-thinning solution.",
      "reference_ids": [
-      "REF-1264"
+      "REF-3995",
+      "REF-3996"
      ]
     },
     {
@@ -51499,9 +51507,10 @@
     },
     {
      "name": "Protein and dietary fibre",
-     "note": "Chia is a complete plant protein source and exceptionally high in dietary fibre.",
+     "note": "With lipid, protein and dietary fibre are the three main components of chia seed; the seed has a high concentration of protein and essential amino acids and a high dietary fibre content.",
      "reference_ids": [
-      "REF-1264"
+      "REF-1266",
+      "REF-1272"
      ]
     }
    ],
@@ -52106,8 +52115,8 @@
      "status": "verified"
     },
     {
-     "name": "Essential oil (aromatherapy/topical)",
-     "text": "Inhaled for cognitive/mood effects, or diluted and applied for muscular and rheumatic complaints.",
+     "name": "Essential oil (inhaled)",
+     "text": "In a randomised study of 144 healthy adults, the aroma of rosemary essential oil in the room improved overall quality of memory but slowed speed of memory compared with no aroma.",
      "reference_ids": [
       "REF-0173"
      ],
@@ -52582,17 +52591,19 @@
     },
     {
      "name": "Elderberry syrup",
-     "text": "Cooked, sweetened berry preparation - the most widely used commercial and traditional form for immune and cold support.",
+     "text": "Elderberry syrup taken by mouth; in a randomised trial in influenza A and B, 15 ml four times a day for 5 days relieved symptoms about 4 days sooner than placebo syrup. A meta-analysis of 180 participants found elderberry supplementation substantially reduced upper respiratory symptoms.",
      "reference_ids": [
+      "REF-0316",
       "REF-1016"
      ],
      "status": "verified"
     },
     {
-     "name": "Standardised elderberry extract",
-     "text": "The concentrated form used in influenza clinical trials.",
+     "name": "Elderberry extract (liquid)",
+     "text": "Liquid elderberry extract, the form tested in influenza trials. A later emergency-department trial in 87 people (15 ml twice a day for children aged 5-12, four times a day for those over 12, for 5 days) found no effect on how long or how badly influenza lasted.",
      "reference_ids": [
-      "REF-1016"
+      "REF-0316",
+      "REF-3759"
      ],
      "status": "verified"
     }
@@ -58655,13 +58666,6 @@
      "reference_ids": [
       "REF-1096"
      ]
-    },
-    {
-     "name": "Triterpenes (ursolic acid, oleanolic acid)",
-     "note": "Minor constituents studied for anti-inflammatory activity.",
-     "reference_ids": [
-      "REF-1094"
-     ]
     }
    ],
    "actions": [
@@ -64504,8 +64508,8 @@
    ],
    "dosage": [
     {
-     "name": "Standardised extract",
-     "text": "A prospective clinical study in patients with distal ureteral stones used Viburnum opulus (gilaburu) extract at 1000 mg orally, compared against tamsulosin. Educational reference only, not a prescription.",
+     "name": "Fruit extract (trial)",
+     "text": "A prospective clinical study in people with distal ureteral stones of 10 mm or less gave gilaburu (Viburnum opulus) extract 1000 mg by mouth on a '3 x 2' schedule, with diclofenac as needed, and found it as effective as tamsulosin at helping the stones pass. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-1139"
      ],
@@ -64780,8 +64784,9 @@
    "preparations": [
     {
      "name": "Syrup (flower)",
-     "text": "Fresh flowers infused and combined with sugar syrup as a traditional soothing cough remedy, particularly for children.",
+     "text": "Violet syrup was used by older herbalists, and is described as expectorant and slightly laxative. In a randomised trial in 182 children aged 2-12 with intermittent asthma, violet flower syrup added to standard treatment shortened the time to cough relief compared with placebo.",
      "reference_ids": [
+      "REF-3852",
       "REF-0609"
      ],
      "status": "verified"
@@ -64797,8 +64802,8 @@
    ],
    "dosage": [
     {
-     "name": "Infusion/syrup",
-     "text": "A double-blind randomised placebo-controlled trial used 5 mL of Viola odorata syrup every 12 hours for 4 weeks as add-on therapy for insomnia. Traditional references suggest around 2-4 g of dried flower and leaf per cup, up to three times daily. Note the EU monograph on Violae herba cum flore covers Viola tricolor, a different species, and its posology does not transfer here. Educational reference only, not a prescription.",
+     "name": "Syrup (trial)",
+     "text": "A double-blind randomised placebo-controlled trial used 5 ml of Viola odorata syrup every 12 hours for 4 weeks as an add-on therapy for insomnia in people with depression or obsessive-compulsive disorder. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-1150"
      ],

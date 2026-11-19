@@ -82,8 +82,9 @@ preparations:
   - REF-0173
   - REF-0194
   status: verified
-- name: Essential oil (aromatherapy/topical)
-  text: Inhaled for cognitive/mood effects, or diluted and applied for muscular and rheumatic complaints.
+- name: Essential oil (inhaled)
+  text: In a randomised study of 144 healthy adults, the aroma of rosemary essential oil in the room improved
+    overall quality of memory but slowed speed of memory compared with no aroma.
   reference_ids:
   - REF-0173
   status: verified
@@ -352,4 +353,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0173 (retagged rct) removed from five non-matching actions. Muscle-spasm dropped
   (off-target). New pairs (owner rule): anxiety, depression, insomnia (student RCT REF-1291; MDD
   add-on RCT REF-3753; surgical aromatherapy RCT REF-3757), oral-health (toothpaste RCT REF-3756).
-  COPD cognition RCT REF-3754 and episiotomy RCT REF-3755 added.'
+  COPD cognition RCT REF-3754 and episiotomy RCT REF-3755 added.
+  | 2026-11-19 (monograph-source audit): preparations[1] said the oil is inhaled for cognitive/mood effects ''or diluted and applied for muscular and rheumatic complaints'', citing only REF-0173 (aroma study). Rewritten to what REF-0173 found (memory quality up, memory speed down). The topical muscular/rheumatic use was dropped: no cited source states it.'

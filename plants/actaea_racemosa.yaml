@@ -26,9 +26,11 @@ constituents:
 - name: Phenolic acids (fukinolic and cimicifugic acids)
   compounds:
   - phenolic-acid
-  note: Antioxidant constituents of the root.
+  note: Hydroxycinnamic acid esters including fukinolic acid and cimicifugic acids A, B, E and F, with
+    free caffeic, ferulic and isoferulic acids, have been isolated from the rhizome; fukinolic acid showed
+    oestrogen-like activity in a cell test.
   reference_ids:
-  - REF-0670
+  - REF-3992
 botanical_description:
   text: Tall, woodland perennial herb rising from a thick, knotty, dark rhizome with wiry black roots.
     The leaves are large and compound (2-3-ternately divided), with sharply toothed, oval to lance-shaped
@@ -331,4 +333,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   RCT REF-3407 (isopropanolic extract, 304 women) added to both. New insomnia pair from Jiang 2015
   RCT REF-3408 (owner rule). REF-2401 retagged narrative-review (structured review, no
   reproducible search). Notes now state the mixed result. Not added: PCOS-infertility SR 33926292
-  ("lack of high-quality evidence").'
+  ("lack of high-quality evidence").
+  | 2026-11-19 (monograph-source audit): constituents[1] cited only REF-0670 (iCR clinical review). RE-SOURCED to Kruse 1999 Planta Med (REF-3992, new; isolated from C. racemosa rhizome). Dropped: ''antioxidant constituents'' (not stated). Rejected as wrong-species: Kusano 2001 and Noguchi 1998 (unspecified Cimicifuga species), Ma 2019 (C. heracleifolia).'

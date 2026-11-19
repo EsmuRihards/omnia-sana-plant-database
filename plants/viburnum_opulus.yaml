@@ -90,9 +90,10 @@ preparations:
   text: Alcoholic extract of the dried bark, typically around 1:5.
   status: draft
 dosage:
-- name: Standardised extract
-  text: A prospective clinical study in patients with distal ureteral stones used Viburnum opulus (gilaburu)
-    extract at 1000 mg orally, compared against tamsulosin. Educational reference only, not a prescription.
+- name: Fruit extract (trial)
+  text: A prospective clinical study in people with distal ureteral stones of 10 mm or less gave gilaburu
+    (Viburnum opulus) extract 1000 mg by mouth on a '3 x 2' schedule, with diclofenac as needed, and found
+    it as effective as tamsulosin at helping the stones pass. Educational reference only, not a prescription.
   reference_ids:
   - REF-1139
   status: verified
@@ -252,4 +253,5 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   read 2026-11-13) does not name headache: removed, headache dropped. Rat endometriosis study
   REF-1140 and the Nutrients review REF-0610 (never names cramps) removed from menstrual-cramps,
   which now rests on traditional use only (verified -> needs-review). Ureteral-stone RCT REF-1139
-  (retagged rct) removed from the analgesic action. Grieve REF-3851 added to muscle-spasm.'
+  (retagged rct) removed from the analgesic action. Grieve REF-3851 added to muscle-spasm.
+  | 2026-11-19 (monograph-source audit): dosage[0] checked against REF-1139 and kept; added the schedule and result as the abstract gives them. ''Standardised'' dropped (not stated).'

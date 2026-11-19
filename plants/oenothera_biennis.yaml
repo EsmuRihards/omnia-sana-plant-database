@@ -27,9 +27,10 @@ constituents:
 - name: Other seed-oil fatty acids and plant sterols
   compounds:
   - phytosterol
-  note: Minor lipid constituents.
+  note: Besides linoleic and gamma-linolenic acids, the seed oil contains oleic (6-11%), palmitic (7-10%)
+    and stearic (1.5-3.5%) acids, with sterols and triterpene alcohols.
   reference_ids:
-  - REF-0446
+  - REF-3993
 botanical_description:
   text: 'Biennial herb (Onagraceae): a basal leaf rosette in the first year, followed in the second year
     by a stout, often reddish, erect flowering stem 30-150 cm tall. Leaves are alternate, lanceolate,
@@ -263,4 +264,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   rule): menopause (SR/MA REF-3679 + RCT REF-3685), high-cholesterol (MA REF-3682). Hot-flash RCT
   REF-3683 added. Mastalgia MA REF-3680 (no better than placebo) no-effect for pain and pms; PMS
   review REF-3681 no-effect. Indian AD RCT REF-3684 added to eczema beside the Cochrane null. Not
-  used: labour-induction/cervical-ripening trials (no matching condition; pregnancy use).'
+  used: labour-induction/cervical-ripening trials (no matching condition; pregnancy use).
+  | 2026-11-19 (monograph-source audit): constituents[1] cited only REF-0446 (clinical systematic review). RE-SOURCED to WHO Oleum Oenotherae Biennis vol. 2 (REF-3993, new).'

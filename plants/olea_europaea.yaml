@@ -86,9 +86,9 @@ preparations:
 - name: Leaf infusion (tea)
   text: Dried leaf steeped in hot water, a traditional mild antihypertensive and tonic tea.
   status: draft
-- name: Standardised leaf extract
-  text: Capsule or liquid extract standardised for oleuropein content - the form used in most clinical
-    trials.
+- name: Leaf extract (capsules)
+  text: Olive leaf extract in capsules, the form used in randomised trials of insulin sensitivity in overweight
+    men and of postmenopausal symptoms; one trial dosed it by its oleuropein and hydroxytyrosol content.
   reference_ids:
   - REF-1443
   - REF-1445
@@ -100,12 +100,16 @@ preparations:
   text: Cured or fermented ripe or unripe fruit eaten as food.
   status: draft
 dosage:
-- name: Standardised leaf extract
-  text: A meta-analysis of trials for blood pressure used around 500 mg/day of standardised olive leaf
-    extract. Educational reference only, not a prescription; culinary olive oil and leaf tea are considered
-    food-safe at normal dietary amounts.
+- name: Leaf extract (trials)
+  text: In a meta-analysis of olive leaf extract trials in people with prehypertension or hypertension,
+    500 mg a day for at least 8 weeks lowered systolic blood pressure compared with placebo, while 1,000
+    mg a day showed a similar but non-significant reduction. Other randomised trials used capsules supplying
+    51.1 mg oleuropein and 9.7 mg hydroxytyrosol a day, or 250 mg of extract a day, for 12 weeks. Educational
+    reference only, not a prescription.
   reference_ids:
   - REF-2537
+  - REF-1443
+  - REF-1445
   status: verified
 constituents:
 - name: Oleuropein and hydroxytyrosol (secoiridoid phenols)
@@ -381,4 +385,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   no-effect. Inflammation: olive oil MA REF-3691 support, olive-leaf MA REF-3689 no-effect.
   Pressure-ulcer MA REF-3692 to wounds; herpes labialis SR REF-3655 to infection. New pairs:
   oral-health (periodontal MA REF-3693), cognitive-function (EVOO MA REF-3694). Not used:
-  olive-oil lipid MA 36408701 (trivial effects) - no cholesterol pair.'
+  olive-oil lipid MA 36408701 (trivial effects) - no cholesterol pair.
+  | 2026-11-19 (monograph-source audit): dosage[0] and preparations[1] checked against REF-2537/REF-1443/REF-1445 and rewritten to what they report. Dropped as unsupported: standardised for oleuropein, liquid extract, the form used in most trials, culinary oil and leaf tea food-safe.'

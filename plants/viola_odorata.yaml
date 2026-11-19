@@ -96,9 +96,11 @@ traditional_uses:
   status: verified
 preparations:
 - name: Syrup (flower)
-  text: Fresh flowers infused and combined with sugar syrup as a traditional soothing cough remedy, particularly
-    for children.
+  text: Violet syrup was used by older herbalists, and is described as expectorant and slightly laxative.
+    In a randomised trial in 182 children aged 2-12 with intermittent asthma, violet flower syrup added
+    to standard treatment shortened the time to cough relief compared with placebo.
   reference_ids:
+  - REF-3852
   - REF-0609
   status: verified
 - name: Infusion
@@ -110,12 +112,10 @@ preparations:
   text: Alcoholic extract of the dried flower and leaf.
   status: draft
 dosage:
-- name: Infusion/syrup
-  text: A double-blind randomised placebo-controlled trial used 5 mL of Viola odorata syrup every 12 hours
-    for 4 weeks as add-on therapy for insomnia. Traditional references suggest around 2-4 g of dried flower
-    and leaf per cup, up to three times daily. Note the EU monograph on Violae herba cum flore covers
-    Viola tricolor, a different species, and its posology does not transfer here. Educational reference
-    only, not a prescription.
+- name: Syrup (trial)
+  text: A double-blind randomised placebo-controlled trial used 5 ml of Viola odorata syrup every 12 hours
+    for 4 weeks as an add-on therapy for insomnia in people with depression or obsessive-compulsive disorder.
+    Educational reference only, not a prescription.
   reference_ids:
   - REF-1150
   status: verified
@@ -340,4 +340,5 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   from bronchitis (never named). Insomnia MA REF-3853 and menopausal-sleep RCT REF-3854 added;
   COVID RCT REF-1148 added to cough and headache. New pair (owner rule): fever (triple-blind
   placebo RCT REF-1146). Grieve REF-3852 added. Gap: allergic-rhinitis RCT 32507426 (no abstract
-  available).'
+  available).
+  | 2026-11-19 (monograph-source audit): preparations[0] (fresh flowers infused into sugar syrup, a soothing cough remedy for children) cited only REF-0609 (RCT of violet syrup for cough in asthmatic children): rewritten to the trial plus Grieve REF-3852 (syrup expectorant and slightly laxative). dosage[0] checked against REF-1150 (5 ml every 12 h for 4 weeks) and kept; removed the unsourced ''2-4 g per cup up to three times daily'' and the aside on the Viola tricolor monograph.'

@@ -103,10 +103,6 @@ constituents:
   note: Contribute additional antioxidant activity.
   reference_ids:
   - REF-1096
-- name: Triterpenes (ursolic acid, oleanolic acid)
-  note: Minor constituents studied for anti-inflammatory activity.
-  reference_ids:
-  - REF-1094
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -249,4 +245,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-13: symptom-source audit deep audit batch 17 - Deep audit. Oral-pathogen study
   REF-0133 (by title) removed from the anti-inflammatory, antioxidant and gastroprotective
   actions. New pair (owner rule): indigestion (2026 multicentre placebo RCT REF-3796) plus Grieve
-  REF-3814. REF-1094 retagged systematic-review (PubMed type).'
+  REF-3814. REF-1094 retagged systematic-review (PubMed type).
+  | 2026-11-19 (monograph-source audit): constituents entry ''Triterpenes (ursolic acid, oleanolic acid) - minor constituents studied for anti-inflammatory activity'' REMOVED. It cited only REF-1094 (wild thyme review), whose abstract names phenolic acids and flavonoids but no triterpenes. Searched: REF-1094 and REF-1099 abstracts, PubMed ''Thymus serpyllum'' with ursolic/oleanolic acid or triterpenes; the only hit (Dall''Acqua 2017, PMID 28222613) is Thymus alternans, a different species. Dead end; truthful or absent.'

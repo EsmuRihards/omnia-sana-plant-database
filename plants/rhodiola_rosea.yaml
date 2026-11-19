@@ -86,9 +86,10 @@ traditional_uses:
   - REF-1526
   status: verified
 preparations:
-- name: Standardised root extract (capsule)
-  text: Standardised to rosavins and salidroside (commonly the SHR-5 extract), the form used in most clinical
-    trials.
+- name: Standardised root extract (SHR-5)
+  text: The standardised root extract SHR-5, taken as tablets, is the form tested in a randomised trial
+    in stress-related fatigue; a systematic review assessed trials of Rhodiola rosea for physical and
+    mental fatigue.
   reference_ids:
   - REF-1532
   - REF-1533
@@ -100,13 +101,11 @@ preparations:
   text: Traditional preparation, less concentrated than standardised extracts.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials have most often used 340-680 mg/day of standardised root extract (e.g. SHR-5,
-    standardised to rosavins/salidroside), typically taken in the morning to avoid overstimulation. Educational
-    reference only, not a prescription.
+- name: Standardised root extract SHR-5 (trial)
+  text: A randomised placebo-controlled trial in stress-related fatigue gave four tablets a day of the
+    standardised root extract SHR-5, 576 mg of extract daily. Educational reference only, not a prescription.
   reference_ids:
   - REF-1532
-  - REF-1533
   status: verified
 constituents:
 - name: Rosavins (rosavin, rosarin, rosin)
@@ -362,4 +361,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Fatigue: SR REF-1533 ("contradictory") and nursing RCT REF-3730 (worsened fatigue) recorded as
   no-effect; SHR-5 RCT REF-3729 added. Marathon RCT REF-3731 no-effect for muscle soreness. New
   pairs (owner rule): depression (RCT REF-3727; sertraline RCT REF-3728 no-effect vs placebo), pms
-  (RCT REF-3732), eye-strain (RCT REF-3733). REF-1530 retagged clinical (no placebo).'
+  (RCT REF-3732), eye-strain (RCT REF-3733). REF-1530 retagged clinical (no placebo).
+  | 2026-11-19 (monograph-source audit): dosage[0] and preparations[0] checked against REF-1532/REF-1533: the trial used 576 mg/day of SHR-5 as four tablets. Dropped as unsupported: 340-680 mg/day, taken in the morning to avoid overstimulation, standardised to rosavins and salidroside, capsules, the form used in most trials.'

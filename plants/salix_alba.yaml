@@ -90,9 +90,13 @@ preparations:
   reference_ids:
   - REF-0530
   status: verified
-- name: Standardised extract (capsule/tablet)
-  text: Standardised to salicin content, the form used in clinical trials.
+- name: Extract (dosed by salicin)
+  text: 'Willow bark extracts, tinctures and fluid extracts are dosed by their total salicin content:
+    the WHO monograph gives the equivalent of 120-240 mg of total salicin a day in two doses. The trials
+    in a systematic review of musculoskeletal pain all used ethanol extracts, at up to 240 mg salicin
+    a day for up to six weeks.'
   reference_ids:
+  - REF-3994
   - REF-0529
   status: verified
 - name: Tincture
@@ -246,4 +250,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   REF-1260 purged and deleted (2014 update REF-1261 kept). OA RCT REF-3736 added; OA/RA RCT
   REF-3737 (no relevant efficacy) recorded as no-effect; rofecoxib-comparison LBP RCT REF-3738
   added. Inflammation now mechanistic (none of its cards names inflammation); calf PGE2 study
-  REF-1256 removed from the action.'
+  REF-1256 removed from the action.
+  | 2026-11-19 (monograph-source audit): preparations[1] (''standardised to salicin, the form used in trials'') cited only REF-0529. Now WHO Cortex Salicis vol. 4 (REF-3994, new) + REF-0529 as it states (ethanolic extracts, up to 240 mg salicin/day, up to six weeks). Note WHO''s monograph covers several Salix species, S. alba among them; the dose is given per salicin, not per species.'

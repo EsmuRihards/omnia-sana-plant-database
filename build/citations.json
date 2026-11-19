@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3745,
+ "count": 3750,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -50607,6 +50607,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3996",
+   "key": "punia2019chiamucilage",
+   "type": "article",
+   "title": "Chia seed (Salvia hispanica L.) mucilage (a heteropolysaccharide): Functional, thermal, rheological behaviour and its utilization",
+   "authors": "Punia, S. and Dhull, S.B.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2019",
+   "doi": "10.1016/j.ijbiomac.2019.08.205",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31465801/",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2019.08.205",
+   "link_type": "doi",
+   "citation": "Punia, S. and Dhull, S.B (2019) 'Chia seed (Salvia hispanica L.) mucilage (a heteropolysaccharide): Functional, thermal, rheological behaviour and its utilization', International Journal of Biological Macromolecules, 140, pp. 1084--1090. doi:10.1016/j.ijbiomac.2019.08.205",
+   "abstract": "",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Chia seed (Salvia hispanica L.) mucilage (a heteropolysaccharide): Functional, thermal, rheological behaviour and its utilization",
+   "plants": [
+    "Chia",
+    "Salba",
+    "Spanish sage",
+    "chia seed"
+   ],
+   "scientific": [
+    "Salvia hispanica"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1269",
    "key": "knezhrncic2019chia",
    "type": "article",
@@ -58342,6 +58373,37 @@
     "Anti-inflammatory",
     "Antimicrobial"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3995",
+   "key": "orifici2018chiamucilage",
+   "type": "article",
+   "title": "Optimization of mucilage extraction from chia seeds (Salvia hispanica L.) using response surface methodology",
+   "authors": "Orifici, S.C., Capitani, M.I., Tomás, M.C. and Nolasco, S.M.",
+   "journal": "Journal of the Science of Food and Agriculture",
+   "year": "2018",
+   "doi": "10.1002/jsfa.8974",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29479705/",
+   "link": "https://doi.org/10.1002/jsfa.8974",
+   "link_type": "doi",
+   "citation": "Orifici, S.C., Capitani, M.I., Tomás, M.C. and Nolasco, S.M (2018) 'Optimization of mucilage extraction from chia seeds (Salvia hispanica L.) using response surface methodology', Journal of the Science of Food and Agriculture, 98(12), pp. 4495--4500. doi:10.1002/jsfa.8974",
+   "abstract": "",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Optimization of mucilage extraction from chia seeds (Salvia hispanica L.) using response surface methodology",
+   "plants": [
+    "Chia",
+    "Salba",
+    "Spanish sage",
+    "chia seed"
+   ],
+   "scientific": [
+    "Salvia hispanica"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -90004,6 +90066,30 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3994",
+   "key": "who2009salix",
+   "type": "book",
+   "title": "Cortex Salicis",
+   "authors": "World Health Organization",
+   "journal": "",
+   "year": "2009",
+   "doi": "",
+   "url": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVolume4",
+   "link": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVolume4",
+   "link_type": "url",
+   "citation": "World Health Organization (2009) 'Cortex Salicis'. Available at: https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVolume4",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Cortex Salicis",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2593",
    "key": "shushunov2009tormentil",
    "type": "article",
@@ -103595,6 +103681,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-3993",
+   "key": "who2002oenothera",
+   "type": "book",
+   "title": "Oleum Oenotherae Biennis",
+   "authors": "World Health Organization",
+   "journal": "",
+   "year": "2002",
+   "doi": "",
+   "url": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol2",
+   "link": "https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol2",
+   "link_type": "url",
+   "citation": "World Health Organization (2002) 'Oleum Oenotherae Biennis'. Available at: https://archive.org/details/WHOMonographsOnSelectedMedicinalPlantsVol2",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Oleum Oenotherae Biennis",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1909",
    "key": "krenn2002passiflora",
    "type": "article",
@@ -106436,6 +106553,37 @@
    "display": "Folium Ginkgo",
    "plants": [],
    "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-3992",
+   "key": "kruse1999cimicifuga",
+   "type": "article",
+   "title": "Fukiic and piscidic acid esters from the rhizome of Cimicifuga racemosa and the in vitro estrogenic activity of fukinolic acid",
+   "authors": "Kruse, S.O., Löhning, A., Pauli, G.F., Winterhoff, H. and Nahrstedt, A.",
+   "journal": "Planta Medica",
+   "year": "1999",
+   "doi": "10.1055/s-2006-960862",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10630125/",
+   "link": "https://doi.org/10.1055/s-2006-960862",
+   "link_type": "doi",
+   "citation": "Kruse, S.O., Löhning, A., Pauli, G.F., Winterhoff, H. and Nahrstedt, A (1999) 'Fukiic and piscidic acid esters from the rhizome of Cimicifuga racemosa and the in vitro estrogenic activity of fukinolic acid', Planta Medica, 65(8), pp. 763--764. doi:10.1055/s-2006-960862",
+   "abstract": "Hydroxycinnamic acid esters of fukiic acid and piscidic acid were isolated from a 50% ethanolic extract obtained from the rhizomes of Cimicifuga racemosa (Ranunculaceae). Besides 2-E-caffeoylfukiic acid (fukinolic acid), 2-E-feruloylfukiic acid (cimicifugic acid A), 2-E-isoferuloylfukiic acid (cimicifugic acid B), 2-E-feruloylpiscidic acid (cimicifugic acid E) and 2-E-isoferuloylpiscidic acid (cimicifugic acid F), free caffeic, ferulic and isoferulic acids were isolated. The estrogenic activity of fukinolic acid was shown by increased proliferation (126% at 5 x 10(-8) M) of an estrogen dependent MCF-7 cell system with reference to estradiol (120% at 10(-10) M).",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Fukiic and piscidic acid esters from the rhizome of Cimicifuga racemosa and the in vitro estrogenic activity of fukinolic acid",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
    "actions": [],
    "conditions": []
   },

@@ -88,13 +88,15 @@ constituents:
   note: The dominant fatty acid of chia oil, one of the richest plant sources of omega-3 known.
   reference_ids:
   - REF-1263
-- name: Mucilage polysaccharides (seed coat)
+- name: Mucilage (heteropolysaccharide)
   compounds:
   - mucilage
   - polysaccharide
-  note: Responsible for the seed's characteristic gel-forming property when soaked.
+  note: Chia seeds release a mucilage, a heteropolysaccharide, when soaked in water; it holds water well,
+    acts as an emulsifier and forms a thick, shear-thinning solution.
   reference_ids:
-  - REF-1264
+  - REF-3995
+  - REF-3996
 - name: Phenolic antioxidants (chlorogenic acid, caffeic acid, quercetin, kaempferol)
   compounds:
   - chlorogenic-acid
@@ -105,9 +107,11 @@ constituents:
   reference_ids:
   - REF-1263
 - name: Protein and dietary fibre
-  note: Chia is a complete plant protein source and exceptionally high in dietary fibre.
+  note: With lipid, protein and dietary fibre are the three main components of chia seed; the seed has
+    a high concentration of protein and essential amino acids and a high dietary fibre content.
   reference_ids:
-  - REF-1264
+  - REF-1266
+  - REF-1272
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -230,4 +234,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   removed from three non-matching actions. Chia MA REF-1267 and SR REF-1268 (no significant
   CV-risk effect) moved to no-effect; BP MAs REF-3739/REF-3740 added. New pair (owner rule):
   high-blood-pressure (2 MAs, 2 RCTs). Weight RCT REF-3743 and MA REF-3739 (no BMI/weight effect)
-  no-effect for metabolic-support.'
+  no-effect for metabolic-support.
+  | 2026-11-19 (monograph-source audit): constituents[1] and [3] cited only REF-1264 (systematic review of animal diet studies). RE-SOURCED: mucilage Orifici 2018 (REF-3995, new) + Punia 2019 (REF-3996, new); protein and fibre reviews REF-1266 + REF-1272. Dropped as unsupported: seed coat, ''complete plant protein'', ''exceptionally high''.'

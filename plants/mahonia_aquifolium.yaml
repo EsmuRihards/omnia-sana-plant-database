@@ -76,12 +76,13 @@ traditional_uses:
   status: verified
 preparations:
 - name: Topical cream/ointment
-  text: A standardised 10% Mahonia aquifolium bark extract cream, the best-studied form, applied to affected
-    skin up to three times daily for psoriasis or eczema.
+  text: A 10% Mahonia aquifolium extract cream (such as Relieva) applied to the skin, the form used in
+    clinical trials in psoriasis and atopic dermatitis; a review found statistically significant improvement
+    in five of seven psoriasis studies.
   reference_ids:
-  - REF-0487
-  - REF-0591
   - REF-1173
+  - REF-0591
+  - REF-0487
   status: verified
 - name: Tincture/decoction of root bark
   text: Traditional internal preparation of the dried root bark as a bitter tonic; far less studied than
@@ -89,11 +90,10 @@ preparations:
   status: draft
 dosage:
 - name: Topical 10% extract cream
-  text: Clinical trials in psoriasis and eczema have used a 10% Mahonia aquifolium bark extract cream
-    applied to affected areas up to three times daily. Educational reference only, not a prescription;
-    internal use is not well studied and should be supervised.
+  text: Trials in psoriasis have used a 10% Mahonia aquifolium extract cream applied twice a day for 12
+    weeks. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0487
+  - REF-1173
   - REF-0591
   status: verified
 actions:
@@ -239,4 +239,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J C
   REF-0488 page (herb/oregon-grape) checked 2026-11-12: names gout/rheumatism/arthritis, skin,
   mouth and intestinal infections, infected wounds, psoriasis, eczema and digestive support; lists
   references. Topical psoriasis MA REF-3643 and open-label atopic dermatitis trial REF-3644 added.
-  Notes rewritten. Gap: digestion (traditional only, no pair).'
+  Notes rewritten. Gap: digestion (traditional only, no pair).
+  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] checked against REF-0487/REF-0591/REF-1173: rewritten to what they state (10% cream, twice daily for 12 weeks, 5 of 7 psoriasis studies positive). Dropped as unsupported: bark extract, best-studied form, up to three times daily, eczema wording, internal use should be supervised.'

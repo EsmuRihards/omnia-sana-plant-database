@@ -118,8 +118,8 @@ constituents:
   - REF-0045
   - REF-0755
 - name: Caffeine and theanine
-  note: Caffeine gives tea its mild stimulant effect; L-theanine, a unique amino acid, is associated with
-    calm alertness and modulates caffeine's effects.
+  note: Green tea contains caffeine and the amino acid L-theanine; a systematic review found that its
+    benefits for cognition came from the two acting together, with either alone having less effect.
   reference_ids:
   - REF-0755
   compounds:
@@ -341,4 +341,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   MA REF-3481 and BP MA REF-3482 (new high-cholesterol and high-blood-pressure pairs, owner rule),
   obesity MA REF-3484 (metabolic-support); Cochrane 2012 weight-loss review REF-3483 ("small,
   statistically non-significant") recorded as no-effect. Cognitive note labels L-theanine as
-  compound evidence.'
+  compound evidence.
+  | 2026-11-19 (monograph-source audit): constituents[1] checked against REF-0755 (green tea cognition systematic review): kept, rewritten to what it states. Dropped: ''unique amino acid'', ''calm alertness'', ''mild stimulant effect''.'

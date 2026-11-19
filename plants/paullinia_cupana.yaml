@@ -62,8 +62,10 @@ preparations:
   reference_ids:
   - REF-0954
   status: verified
-- name: Standardised extract capsule
-  text: The form used in most clinical trials for cognition, fatigue and physical performance.
+- name: Guarana extract
+  text: Guarana extract taken by mouth in single doses of 37.5-500 mg (containing 4.3-100 mg of caffeine)
+    in trials of cognitive performance; in a crossover trial, 500 mg of guarana seed extract (130 mg caffeine)
+    improved cycling time-trial performance compared with placebo.
   reference_ids:
   - REF-0950
   - REF-0955
@@ -228,4 +230,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (toxicity/antioxidant lab study) retagged preclinical and removed from
   ergogenic/neuroprotective; REF-0106 removed from antioxidant. New pair (owner rule): fatigue
   (2024 MA REF-3707, RCTs REF-3708/REF-3709), with held 2021 MA REF-0951 and RCTs
-  REF-3710/REF-3711 recorded as no-effect.'
+  REF-3710/REF-3711 recorded as no-effect.
+  | 2026-11-19 (monograph-source audit): preparations[1] (''standardised extract capsule, the form used in most trials for cognition, fatigue and performance'') rewritten to what REF-0950/REF-0955 report (37.5-500 mg doses; 500 mg seed extract in a cycling trial). Dropped: capsule, fatigue, most trials.'

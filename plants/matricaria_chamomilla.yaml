@@ -87,9 +87,10 @@ preparations:
   reference_ids:
   - REF-1153
   status: verified
-- name: Topical cream/compress
-  text: Concentrated extract or infused oil applied to skin, or as a compress - a randomised controlled
-    trial found a topical chamomile oil preparation effective for knee osteoarthritis pain.
+- name: Topical oil
+  text: Chamomile oil applied to the knee three times a day for 3 weeks reduced the need for paracetamol
+    (acetaminophen) compared with diclofenac and placebo in a randomised trial in knee osteoarthritis,
+    but it did not improve pain, stiffness or function scores.
   reference_ids:
   - REF-2349
   status: verified
@@ -578,4 +579,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   menopause (RCTs REF-3631, REF-3632), hot-flashes (REF-3632), pms (RCT vs mefenamic acid
   REF-3633), migraine (RCT REF-3634), oral-health (RCTs REF-3635, REF-3636 + SR REF-3637),
   back-pain (RCT REF-3639). Not used: saffron+chamomile combination 37427624; ginger/chamomile
-  CINV trial 27644672 (conclusion is about ginger).'
+  CINV trial 27644672 (conclusion is about ginger).
+  | 2026-11-19 (monograph-source audit): preparations[2] said the RCT found topical chamomile oil ''effective for knee osteoarthritis pain''; REF-2349 found less paracetamol use but NO difference in WOMAC pain, stiffness or function. Corrected. Dropped: concentrated extract, infused oil, compress (not in the cited source).'

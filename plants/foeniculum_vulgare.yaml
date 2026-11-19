@@ -119,8 +119,9 @@ preparations:
   reference_ids:
   - REF-0537
   status: verified
-- name: Standardised extract
-  text: Seed extract studied in randomised trials for primary dysmenorrhoea (menstrual pain).
+- name: Fennel preparations (trials)
+  text: Fennel taken by mouth has been tested in randomised trials for primary dysmenorrhoea; a meta-analysis
+    found it reduced the intensity of period pain compared with placebo.
   reference_ids:
   - REF-0604
   status: verified
@@ -411,4 +412,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1642 + RCT REF-3556); anxiety and depression (RCT REF-3557), each with REF-1642 recorded as
   no-effect (it found effects on psychological health unclear). Dysmenorrhoea MA REF-3558 added to
   menstrual-cramps and pain. Gap: EU monograph bloating/flatulence use has no pair (no SR/RCT;
-  infantile colic RCT 12868253 is not bloating).'
+  infantile colic RCT 12868253 is not bloating).
+  | 2026-11-19 (monograph-source audit): preparations[1] (''standardised seed extract studied in RCTs for dysmenorrhoea'') checked against REF-0604: the meta-analysis supports fennel intake for dysmenorrhoea but its abstract does not say seed extract or standardised; rewritten.'

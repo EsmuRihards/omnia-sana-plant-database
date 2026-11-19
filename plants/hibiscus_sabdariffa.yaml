@@ -71,11 +71,17 @@ harvest_readiness:
   status: provisional
   notes: "Wikipedia Roselle (REF-3271) for Hibiscus sabdariffa; the harvested organ is the persistent calyx, ready when it has enlarged and become fleshy and deep crimson as the fruit (seed capsule) matures inside - picked before it dries and turns woody. Mapped to the canonical 'flower' organ (the fleshy calyx is the floral structure gathered). Single source -> provisional."
 traditional_uses:
-  text: Hibiscus calyx (known as roselle, sorrel or karkade in different regions) has a long traditional
-    use across Africa, the Middle East and the Caribbean as a tart, cooling beverage and folk remedy for
-    fevers and mild hypertension; this traditional blood-pressure-lowering reputation is now well supported
-    by clinical trials of hibiscus tea/extract.
+  text: 'Hibiscus calyces have long been used as food, in hot and cold drinks and herbal teas, and as
+    a herbal medicine. They make popular drinks such as karkade in Sudan and Egypt, zobo in Nigeria and
+    a spiced drink in the Caribbean, and in Senegal, where the plant is called bissap, it is widely known
+    in traditional medicine for lowering blood pressure. The trial evidence is mixed: a 2021 Cochrane
+    review judged it insufficient to show that roselle lowers blood pressure compared with placebo, while
+    other meta-analyses report reductions.'
   reference_ids:
+  - REF-1840
+  - REF-3271
+  - REF-1847
+  - REF-3581
   - REF-0464
   status: verified
 preparations:
@@ -295,4 +301,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Revie
   high-blood-pressure. Overview of reviews REF-3582, glycaemic/lipid MA REF-3583 and MetS lipid MA
   REF-3584 added; REF-0567 (no significant lipid effect) recorded as no-effect for
   high-cholesterol; obesity MA REF-3585 (no benefit) as no-effect for metabolic-support (weight).
-  | 2026-11-19 (monograph-source audit): constituents[0-2], preparations[0-1] and dosage[0] cited only REF-0464 (blood-pressure meta-analysis; abstract names no constituents, forms or doses). RE-SOURCED: phytochemistry review REF-1840 (sambubiosides, hydroxycitric and hibiscus acids, protocatechuic acid), Wikipedia REF-3271 (calyx flavonoids gossypetin, hibiscetin, sabdaretin), Senegal RCT REF-1847 (10 g calyx brew/day and 375 mg tablets twice daily, as effective as captopril), umbrella review REF-3582 (dose-dependent BP lowering). Dropped as unsupported: red pigments, tartness, antioxidant flavonoids, ruby-red, the form used in most BP studies, capsules, 1.5-3 g/day (one to two cups). Note: Wikipedia now files roselle as Sabdariffa gossypiifolia, a reclassification of the same plant.'
+  | 2026-11-19 (monograph-source audit): constituents[0-2], preparations[0-1] and dosage[0] cited only REF-0464 (blood-pressure meta-analysis; abstract names no constituents, forms or doses). RE-SOURCED: phytochemistry review REF-1840 (sambubiosides, hydroxycitric and hibiscus acids, protocatechuic acid), Wikipedia REF-3271 (calyx flavonoids gossypetin, hibiscetin, sabdaretin), Senegal RCT REF-1847 (10 g calyx brew/day and 375 mg tablets twice daily, as effective as captopril), umbrella review REF-3582 (dose-dependent BP lowering). Dropped as unsupported: red pigments, tartness, antioxidant flavonoids, ruby-red, the form used in most BP studies, capsules, 1.5-3 g/day (one to two cups). Note: Wikipedia now files roselle as Sabdariffa gossypiifolia, a reclassification of the same plant.
+  | 2026-11-19 (monograph-source audit): traditional_uses cited only REF-0464 (blood-pressure meta-analysis). RE-SOURCED: REF-1840 (food, drinks, herbal medicine), Wikipedia REF-3271 (karkade, zobo, Caribbean drink), Senegal RCT REF-1847 (bissap widely known for its antihypertensive effect), Cochrane REF-3581 (evidence insufficient) and REF-0464 (reductions). Dropped as unsupported: tart cooling beverage, folk remedy for fevers, ''now well supported by clinical trials'' (the Cochrane review says the evidence is insufficient).'

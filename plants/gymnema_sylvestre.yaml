@@ -76,9 +76,10 @@ traditional_uses:
   - REF-3059
   status: verified
 preparations:
-- name: Standardised extract
-  text: Leaf extract standardised to gymnemic acid content, taken as capsules; the form used in most clinical
-    glycaemic-control studies.
+- name: Leaf extract (GS4)
+  text: A leaf extract (GS4) taken at 400 mg a day for 18-20 months alongside standard diabetes drugs
+    lowered blood glucose and glycated haemoglobin in a study of 22 people with type 2 diabetes, and their
+    drug doses could be reduced.
   reference_ids:
   - REF-2465
   status: verified
@@ -90,12 +91,12 @@ preparations:
     effect.
   status: draft
 dosage:
-- name: Standardised extract
-  text: Clinical trials in type 2 diabetes commonly use around 400-800 mg of standardised leaf extract
-    daily, in divided doses. Educational reference only, not a prescription.
+- name: Leaf extract GS4 (study)
+  text: One study gave 400 mg a day of the leaf extract GS4 for 18-20 months alongside standard diabetes
+    drugs. Educational reference only, not a prescription.
   reference_ids:
   - REF-2465
-  status: draft
+  status: verified
 actions:
 - action: antidiabetic
   parts:
@@ -240,4 +241,5 @@ internal_notes: '2026-07-03: new record created for the safety-data campaign (gy
   chocolate intake) measured no blood glucose - removed from blood-sugar.
   | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. Notes rewritten to the
   held MAs (REF-2540, REF-2541); REF-2541 wired to metabolic-support and REF-2540 to
-  high-cholesterol. REF-3060 (Leach 2007 SR) abstract states no conclusion - kept as is.'
+  high-cholesterol. REF-3060 (Leach 2007 SR) abstract states no conclusion - kept as is.
+  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] checked against REF-2465 (GS4 400 mg/day for 18-20 months, 22 patients). Dropped as unsupported: standardised to gymnemic acid, capsules, the form used in most studies, 400-800 mg in divided doses.'

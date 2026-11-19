@@ -77,8 +77,27 @@ def entries(rec, field):
             yield label.strip(), text, e.get("reference_ids") or [], e.get("status", "")
 
 
+REVIEWED = os.path.join(ROOT, "scripts", "audit_monograph_sources_reviewed.tsv")
+
+
+def load_reviewed():
+    """(plant, field, frozenset(refs)) entries a person or model has read and judged
+    correctly sourced, e.g. a trial cited for 'the trial used 576 mg a day'. Keyed on the
+    exact reference set: change the citations and the entry is flagged again."""
+    seen = set()
+    if os.path.exists(REVIEWED):
+        for line in open(REVIEWED, encoding="utf-8"):
+            if not line.strip() or line.startswith("#") or line.startswith("plant\t"):
+                continue
+            plant, field, refs = line.rstrip("\n").split("\t")[:3]
+            seen.add((plant, field, frozenset(refs.split(","))))
+    return seen
+
+
 def main(out_path):
     bib = load_bib()
+    reviewed = load_reviewed()
+    skipped = 0
     rows = []
     for fn in sorted(os.listdir(os.path.join(ROOT, "plants"))):
         if not fn.endswith(".yaml"):
@@ -90,6 +109,9 @@ def main(out_path):
             for label, text, refs, status in entries(rec, field):
                 if not refs:
                     continue  # unsourced is the D8 gate's job, not this audit's
+                if (rec.get("id"), label.split(" ")[0], frozenset(refs)) in reviewed:
+                    skipped += 1
+                    continue
                 types = [bib.get(r, {}).get("study_type", "?") for r in refs]
                 if all(t in CLINICAL for t in types):
                     issue, sev = "clinical-only", base
@@ -126,7 +148,8 @@ def main(out_path):
             f.write("\t".join(str(r[c]).replace("\t", " ") for c in cols) + "\n")
     # Summary to stdout.
     from collections import Counter
-    print("flagged entries: %d across %d plants" % (len(rows), len({r["plant"] for r in rows})))
+    print("flagged entries: %d across %d plants (%d reviewed entries skipped)"
+          % (len(rows), len({r["plant"] for r in rows}), skipped))
     for k, n in sorted(Counter((r["issue"], r["kind"]) for r in rows).items()):
         print("  %-16s %-12s %d" % (k[0], k[1], n))
     print("  by status:", dict(Counter(r["status"] or "(none)" for r in rows)))

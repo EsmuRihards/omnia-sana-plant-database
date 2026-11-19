@@ -92,8 +92,9 @@ preparations:
   text: Alcoholic extract of the dried root and rhizome, typically around 1:5.
   status: draft
 - name: Topical cream
-  text: Root extract formulated into topical creams, historically marketed (without good supporting evidence)
-    for menopausal symptoms.
+  text: Wild yam extract applied to the skin as a cream is a popular treatment for menopausal symptoms,
+    but in a 3-month placebo-controlled crossover trial in 23 women it did not improve symptoms more than
+    placebo, and it did not change weight, blood pressure or blood lipids.
   reference_ids:
   - REF-0614
   status: verified
@@ -215,4 +216,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   writhing/formalin/leukocyte models; background names joint pain and rheumatoid arthritis) kept
   for arthritis, pain, inflammation; removed from back-pain, headache, skin-irritation.
   | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. REF-0528 removed from
-  the antispasmodic action (measured pain and inflammation only). Notes rewritten.'
+  the antispasmodic action (measured pain and inflammation only). Notes rewritten.
+  | 2026-11-19 (monograph-source audit): preparations[2] checked against REF-0614 (crossover RCT of wild yam cream): rewritten to the trial result. Dropped: root extract and historically marketed (not in the abstract).'

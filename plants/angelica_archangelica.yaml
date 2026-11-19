@@ -136,8 +136,9 @@ preparations:
 - name: Tincture
   text: Alcoholic extract of the dried root, typically around 1:5.
   status: draft
-- name: Standardised leaf extract
-  text: Concentrated leaf extract studied in a pilot clinical trial for overactive bladder symptoms.
+- name: Leaf extract
+  text: An Angelica archangelica leaf extract taken for 6 weeks reduced daytime urination and improved
+    bladder-storage symptoms in a pilot randomised trial in adults with overactive bladder.
   reference_ids:
   - REF-0615
   status: verified
@@ -481,4 +482,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   (columbianetin review; never names A. archangelica) purged and deleted. REF-2410
   (elevated-plus-maze anxiety test) removed from the sedative action - insomnia, inferred only
   from it, dropped. SagaPro RCT REF-3439 (A. archangelica leaf extract; no overall benefit for
-  nocturia vs placebo) recorded as no-effect for urinary-support. Notes rewritten.'
+  nocturia vs placebo) recorded as no-effect for urinary-support. Notes rewritten.
+  | 2026-11-19 (monograph-source audit): preparations[3] checked against REF-0615 (pilot RCT, leaf extract, 6 weeks): the trial supports the entry; ''standardised'' and ''concentrated'' are not in the abstract and were dropped.'

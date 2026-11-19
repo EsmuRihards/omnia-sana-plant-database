@@ -90,9 +90,10 @@ preparations:
   reference_ids:
   - REF-0044
   status: verified
-- name: Standardised cannabinoid extract
-  text: Extract standardised to specific cannabinoid content (e.g. CBD), used in regulated medicinal products;
-    regulatory status varies widely by jurisdiction and product type.
+- name: Cannabidiol (CBD) oral solution
+  text: Cannabidiol given as an oral solution at 20 mg per kg of body weight a day more than halved the
+    monthly frequency of convulsive seizures (median 12.4 to 5.9, against 14.9 to 14.1 on placebo) in
+    a randomised trial in children and young adults with drug-resistant seizures in Dravet syndrome.
   reference_ids:
   - REF-0058
   status: verified
@@ -310,4 +311,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   antioxidant and sedative actions - removed from all four, kept in references. Added VER-01 phase
   3 RCT REF-3485 (full-spectrum C. sativa extract; chronic low back pain, primary endpoint met) to
   back-pain and pain, and topical hemp-seed-oil knee-OA RCT REF-3486 to arthritis and pain. Not
-  used: cannabinoid reviews pooling synthetic THC analogues (compound/drug, not the plant).'
+  used: cannabinoid reviews pooling synthetic THC analogues (compound/drug, not the plant).
+  | 2026-11-19 (monograph-source audit): preparations[1] (''extract standardised to cannabinoid content, used in regulated products; regulatory status varies'') cited only REF-0058 (Dravet CBD RCT), which says nothing about standardisation or regulation. Rewritten to what the trial reports (CBD oral solution 20 mg/kg/day, seizure frequency).'

@@ -87,15 +87,20 @@ preparations:
   - REF-0085
   status: verified
 - name: Elderberry syrup
-  text: Cooked, sweetened berry preparation - the most widely used commercial and traditional form for
-    immune and cold support.
+  text: Elderberry syrup taken by mouth; in a randomised trial in influenza A and B, 15 ml four times
+    a day for 5 days relieved symptoms about 4 days sooner than placebo syrup. A meta-analysis of 180
+    participants found elderberry supplementation substantially reduced upper respiratory symptoms.
   reference_ids:
+  - REF-0316
   - REF-1016
   status: verified
-- name: Standardised elderberry extract
-  text: The concentrated form used in influenza clinical trials.
+- name: Elderberry extract (liquid)
+  text: Liquid elderberry extract, the form tested in influenza trials. A later emergency-department trial
+    in 87 people (15 ml twice a day for children aged 5-12, four times a day for those over 12, for 5
+    days) found no effect on how long or how badly influenza lasted.
   reference_ids:
-  - REF-1016
+  - REF-0316
+  - REF-3759
   status: verified
 - name: Elderflower cordial
   text: Traditional non-medicinal but commonly made preparation.
@@ -309,4 +314,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph REF-0085 - NCCIH says little is known about pregnancy safety, so the old "should not
   be consumed during pregnancy" and the unsourced "gastrointestinal disease" line were not kept.
   Safety note #2: unsupported sentence "clinical use for colds, bronchitis and fever is
-  well-supported" removed (contradicted by REF-3758/REF-3759); dose dash normalised.'
+  well-supported" removed (contradicted by REF-3758/REF-3759); dose dash normalised.
+  | 2026-11-19 (monograph-source audit): preparations[1] (cooked, sweetened syrup, the most widely used form) and preparations[2] (concentrated extract used in influenza trials) cited only REF-1016 (meta-analysis, no form or dose in its abstract). Rewritten to the trials: Zakay-Rones REF-0316 (15 ml four times daily for 5 days, symptoms 4 days shorter) and the NULL emergency-room trial REF-3759, stated as null. Dropped: cooked and sweetened, most widely used form, standardised, concentrated.'

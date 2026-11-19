@@ -91,22 +91,21 @@ preparations:
   reference_ids:
   - REF-0460
   status: verified
-- name: Infusion/tincture (historical, oral - restricted)
-  text: Historically taken as an infusion or tincture for biliary dyspepsia, but oral use is now restricted
-    in several jurisdictions due to hepatotoxicity risk and should only be considered under professional
-    supervision, if at all.
-  reference_ids:
-  - REF-0459
-  status: draft
-dosage:
-- name: All internal preparations
-  text: Because of a documented risk of acute liver injury, no internal dose is given here; oral use should
-    be avoided, especially by anyone with liver disease, and any sign of jaundice, dark urine or upper-abdominal
-    pain warrants immediate medical attention. Educational reference only, not a prescription.
+- name: Oral extracts and capsules (liver injury reported)
+  text: Extracts and capsules of greater celandine have been taken by mouth, for example to manage gallstones;
+    a clinical review and case reports describe acute liver injury caused by them.
   reference_ids:
   - REF-0459
   - REF-0601
-  status: draft
+  status: verified
+dosage:
+- name: All internal preparations
+  text: Extracts of greater celandine taken by mouth have caused acute liver injury (hepatitis, sometimes
+    with jaundice), so no internal dose is given here. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0459
+  - REF-0601
+  status: verified
 actions:
 - action: analgesic
   note: Anti-inflammatory, antimicrobial and analgesic (preclinical)
@@ -246,4 +245,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepat
   | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. Skin-irritation and
   wounds dropped: contradicted by the record''s own note (latex "irritant and caustic - keep it
   away from ... broken skin"; inv. 11). Warts kept (traditional external use on intact skin).
-  Notes rewritten.'
+  Notes rewritten.
+  | 2026-11-19 (monograph-source audit): dosage[0] and preparations[1] cited the hepatotoxicity review REF-0459 and case report REF-0601, which support the liver-injury warning but not the other details. Kept the warning and rewrote to what they state. Dropped as unsupported: historical infusion or tincture for biliary dyspepsia, oral use restricted in several jurisdictions, especially anyone with liver disease, dark urine and upper-abdominal pain as warning signs.'

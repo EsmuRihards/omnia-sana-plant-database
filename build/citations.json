@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3779,
+ "count": 3781,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -36672,7 +36672,9 @@
    "scientific": [
     "Ononis arvensis"
    ],
-   "actions": [],
+   "actions": [
+    "Diuretic"
+   ],
    "conditions": []
   },
   {
@@ -109512,9 +109514,7 @@
    "scientific": [
     "Ononis arvensis"
    ],
-   "actions": [
-    "Diuretic"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -113312,6 +113312,30 @@
     "Digestive aid",
     "Galactagogue (supports lactation)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-4028",
+   "key": "wikipedia_de_bocks_hauhechel",
+   "type": "misc",
+   "title": "Bocks-Hauhechel (Ononis arvensis) - German Wikipedia",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://de.wikipedia.org/wiki/Bocks-Hauhechel",
+   "link": "https://de.wikipedia.org/wiki/Bocks-Hauhechel",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Bocks-Hauhechel (Ononis arvensis) - German Wikipedia'. Available at: https://de.wikipedia.org/wiki/Bocks-Hauhechel",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Bocks-Hauhechel (Ononis arvensis) - German Wikipedia",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
    "conditions": []
   },
   {
@@ -117852,6 +117876,30 @@
     "clinical"
    ],
    "display": "On the wonderful chickweed, and its poisonous lookalike",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-4027",
+   "key": "wikipedia_ononis_arvensis",
+   "type": "misc",
+   "title": "Ononis arvensis",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Ononis_arvensis",
+   "link": "https://en.wikipedia.org/wiki/Ononis_arvensis",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Ononis arvensis'. Available at: https://en.wikipedia.org/wiki/Ononis_arvensis",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Ononis arvensis",
    "plants": [],
    "scientific": [],
    "actions": [],

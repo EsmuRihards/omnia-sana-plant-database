@@ -17,42 +17,49 @@ parts_used:
 - Aerial parts
 - Flower
 botanical_description:
-  text: A tough, deep-rooted perennial herb or low subshrub of the pea family, 30-80 cm tall, sometimes
-    bearing soft spines. It has a very long, woody, tenacious taproot - so strong it was said to stop
-    (arrest) the harrow, giving 'rest-harrow' its name. The stems are hairy and sticky, often reddish,
-    and clothed in small trifoliolate (clover-like) leaves with toothed leaflets. The flowers are typical
-    pea flowers, pink to purplish-pink (occasionally white), borne singly or in pairs in the leaf axils.
-    Field restharrow (O. arvensis) is generally less spiny than its close relative spiny restharrow (O.
-    spinosa).
-  height: 30-80 cm
-  habit: Deep-rooted perennial herb or low subshrub, sometimes softly spiny
-  leaves: Trifoliolate (clover-like), with finely toothed leaflets; stems hairy and glandular-sticky
-  flowers: Pea-type, pink to purplish-pink (rarely white), solitary or paired in the leaf axils
-  stem: Erect to ascending, hairy and sticky, often reddish; less spiny than O. spinosa
-  root: Very long, woody, tenacious taproot (the medicinal Ononidis radix)
-  fruit: A small, hairy, few-seeded pea pod
-  flowering_period: June-September
+  text: 'A summer-green perennial subshrub of the pea family, 30-100 cm tall, mostly upright and almost
+    always without spines, with a strong smell. Its shoots are densely hairy: the stem carries spreading
+    glandular hairs about 2 mm long among ordinary hairs, and the leaves are glandular-hairy and somewhat
+    sticky. The pink flowers, often striped with purple and very rarely white, are borne mostly in dense,
+    spike-like clusters at the shoot tips, two at each node, from June to July, and are pollinated mainly
+    by bees. The pod is no longer than the calyx, and the plant grows from a strong, branched rootstock.
+    It differs from spiny restharrow (O. spinosa) in having its flowers in pairs rather than singly and
+    in lacking stiff spines.'
+  height: 30-100 cm
+  habit: Summer-green perennial subshrub, mostly upright, almost always spineless, strong-smelling
+  leaves: Glandular-hairy and somewhat sticky, mostly pointed at the tip
+  flowers: Pink, often purple-striped, very rarely white; in dense spike-like clusters at the shoot tips,
+    two per node
+  stem: Densely hairy, with spreading glandular hairs about 2 mm long among ordinary hairs
+  root: A strong, branched rootstock
+  fruit: A pod no longer than the calyx
+  flowering_period: June-July
   reference_ids:
-  - REF-2748
+  - REF-4028
+  - REF-4027
   - REF-2750
+  - REF-2742
   status: verified
 habitat:
-  text: Rough grassland, field margins, roadsides, dunes and dry, sandy or calcareous waste ground across
-    Europe, western Asia and parts of North Africa. As a deep-rooted, nitrogen-fixing legume it colonises
-    poor, disturbed soils and was historically a troublesome weed of arable fields (hence 'restharrow').
+  text: Native to Eurasia, from central Europe through western Siberia to the western Himalayas. It has
+    a more easterly range than spiny or creeping restharrow and is not found west of southern Scandinavia
+    and Germany. It grows mainly in dry and semi-dry grassland, mostly where the climate is continental,
+    from the lowlands to hill country, and also in meadows and old fields.
   reference_ids:
-  - REF-2748
+  - REF-4027
+  - REF-4028
   status: verified
 harvesting:
-  text: The root (Ononidis radix) is the principal medicinal part, dug in autumn from the second year
-    onward and dried; the aerial flowering parts are also gathered in summer. The long woody taproot is
-    cleaned and cut before drying for decoctions and infusions.
+  text: The root is the part mainly harvested; the aerial parts are usually left as an unused by-product
+    when the roots are dug. In one study the aerial parts were collected in August and dried in air and
+    shade. No species-specific season for digging the root was found.
   parts:
   - Root
   - Aerial parts
-  season: Root in autumn; aerial parts in flower (summer)
+  season: Aerial parts collected in August in one study; no species-specific root season found
   reference_ids:
-  - REF-2748
+  - REF-3023
+  - REF-3019
   status: verified
 harvest_readiness:
 - part: root
@@ -87,17 +94,19 @@ preparations:
   status: verified
 - name: Infusion
   text: The flowering aerial parts infused as a milder diuretic and anti-inflammatory tea.
-  reference_ids:
-  - REF-2748
-  status: draft
+  reference_ids: []
+  status: needs-review
 - name: Gargle / wash
   text: A root decoction used traditionally as a mouth/throat gargle and as a wash for skin complaints.
-  reference_ids:
-  - REF-2748
-  status: draft
+  reference_ids: []
+  status: needs-review
 - name: Tincture
-  text: Alcoholic extract of the root (about 1:5).
-  status: draft
+  text: Root and herb tinctures made at 1:5 in 70% ethanol by maceration were compared in a 2024 analytical
+    study; the root tinctures held more isoflavonoids, flavonoids, tannins and phenolic acids than those
+    made from the herb.
+  reference_ids:
+  - REF-3023
+  status: verified
 dosage:
 - name: Root decoction
   text: 'Traditional herbal use: roughly 6-12 g of dried root daily as a decoction, taken with plenty
@@ -158,10 +167,10 @@ constituents:
   - REF-2750
 actions:
 - action: diuretic
-  note: Aquaretic diuretic; the classic irrigation-therapy action of restharrow root (Ononidis radix),
-    used interchangeably for O. arvensis and O. spinosa.
+  note: Extracts of field restharrow, studied from its aerial parts, have been reported to have diuretic
+    activity.
   reference_ids:
-  - REF-2748
+  - REF-3019
   status: verified
 - action: urinary-antiseptic
   note: Aqueous root extract reduced adhesion of uropathogenic E. coli to bladder cells (anti-adhesive).
@@ -375,4 +384,5 @@ internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Onon
   purged and deleted (the genus hepatotoxicity warning REF-2758 stays). Notes rewritten.
   | 2026-11-20 (monograph-source audit follow-up): REF-2753 (Nechita 2026, Plants, PMID 42122901, PMC13164978) re-tagged review -> narrative-review. Its abstract describes a 4-database search, but the full-text Methods call it ''a comprehensive narrative review'', add later papers ad hoc, include earlier studies ''selectively'' and do no quality assessment, so it fails invariant 8; its 34 studies are all in vitro / animal. Not in any indication or action here, so no score change. OPEN (owner decision, not changed): the paper covers Ononis SPINOSA only - it never names O. arvensis - yet it is still cited on 6 entries of this record: traditional_uses, the Decoction preparation, the irrigation-therapy caution, the diuretics interaction and the solidago-virgaurea and betula-pendula pairings. The full text does support O. spinosa root decoctions for diuresis and kidney stones (Turkish, Iranian folk use), irrigation therapy of the lower urinary tract, and external use on wounds and skin; it does NOT state the oedema / heart-or-kidney caution, any interaction with diuretic drugs, or either pairing (no mention of Solidago or Betula), nor gargles or eczema. The co-citation REF-2748 is the unverifiable Rezacova 1978 study already removed from every symptom on 2026-11-10.
   | 2026-11-20 (REF-2753 wrong-species fix, owner-approved ''Yes, fix them''): REF-2753 (Ononis SPINOSA review) and the unverifiable REF-2748 (Rezacova 1978, no abstract on PubMed 752421) removed from the 6 entries they carried. (1) traditional_uses rewritten to what field-restharrow sources state: REF-2741 abstract ''Ononis arvensis L. can be found overall in Europe and is used to treat infections of the urinary tract and skin diseases in ethnopharmacology''; REF-3023 abstract (O. arvensis and O. intermedia roots used in folk medicine as tinctures, infusions and lotions); plus REF-4026 (EU monograph EMA/HMPC/138317/2013, new) for the officinal spiny restharrow root and REF-2743 (no characteristic isoflavonoid difference between the two species). Dropped as unsourced for O. arvensis: ''aquaretic'', ''used interchangeably with O. spinosa'', cystitis/gravel, mouth/throat gargle, eczema, rheumatic use, ''central and eastern European''. (2) The Decoction preparation is now ''Root tincture, infusion or lotion'' cited to REF-3023; no O. arvensis source names a decoction (even the EU monograph for O. spinosa gives an infusion). (3) Irrigation caution re-sourced to the EU O. spinosa monograph (4.3 contraindication: conditions where reduced fluid intake is recommended, e.g. severe cardiac or renal disease; 4.4 adequate fluid intake, see a doctor for fever/dysuria/spasm/blood in urine) and framed as the congener''s, like the hepatotoxicity row. (4) diuretics interaction (approved by owner 2026-07-10) had no supporting source: the EU monograph 4.5 says ''None reported''. Rewritten as theoretical (REF-3019 states O. arvensis extract diuretic activity was previously proven) and set to DRAFT, so it is off the public interaction checker until re-approved. (5-6) solidago-virgaurea and betula-pendula pairings (approved 2026-07-10) had REF-2753 as sole ref, which never mentions Solidago or Betula; refs removed, set to DRAFT, reviewed_by/date dropped. Leads for the owner, all O. SPINOSA not O. arvensis: Fluxonorm (S. virgaurea + O. spinosa + 3 others, PMID 33877671; RCT PMID 42244389) and a German standard UTI tea formulation with Betula (Boertz 2025 Planta Med, PMID 40112859, no PMC full text). Grieve''s Rest-Harrow page rejected: its own editors note ''Ononis spinosa printed as Ononis arvensis''. Not touched (out of scope): Infusion and Gargle/wash preparations still cite only REF-2748; the unsourced Tincture entry could be sourced to REF-3023 (1:5 root tinctures in 70% ethanol).
-  | 2026-11-20: REF-2753 (Nechita 2026, O. spinosa review, PMID 42122901) is now cited by no record (validate orphan, practice loop confirmed wired: 3779/3780) and its bibliography entry was DELETED so it stops shipping to the Knowledge Finder. It covers Ononis spinosa only; do not re-add it to this record.'
+  | 2026-11-20: REF-2753 (Nechita 2026, O. spinosa review, PMID 42122901) is now cited by no record (validate orphan, practice loop confirmed wired: 3779/3780) and its bibliography entry was DELETED so it stops shipping to the Knowledge Finder. It covers Ononis spinosa only; do not re-add it to this record.
+  | 2026-11-20 (REF-2748 cleanup, owner-approved ''Yes, clean them up''): REF-2748 (Rezacova 1978, Cesk Farm, PubMed 752421, no abstract or text available) was the only source, or the only one covering gross morphology, for 7 entries; it now stays only in the general references list and the 2026-07-10 lookalikes_review (owner sign-off, left alone). (1) botanical_description rewritten from REF-4028 (German Wikipedia Bocks-Hauhechel, new) and REF-4027 (English Wikipedia Ononis arvensis, new), with REF-2750 (shoots intensively pubescent) and REF-2742 (glandular trichomes on the leaf); REF-2750/REF-2742 are anatomy papers and support only the hairs. Dropped: the harrow-stopping taproot story, ''soft spines'', ''often reddish'', ''trifoliolate with toothed leaflets'', ''singly in the leaf axils'', ''the medicinal Ononidis radix'' (that is O. spinosa), flowering to September (sources say June-July). (2) habitat rewritten from the two Wikipedia articles; dropped North Africa (O. spinosa range), dunes (O. repens) and the arable-weed etymology (Grieve, O. spinosa). (3) harvesting rewritten to what O. arvensis sources state: REF-3023 (aerial part an unclaimed by-product of root harvest) and REF-3019 full text (aerial parts collected August 2019, air-shade dried, research material). No species-specific root-digging season found (the Russian pharmacopoeia root monograph was searched for and not located online; the Sechenov ''Poluyanov'' dissertation hit is about Rumex). Dropped: ''autumn from the second year'', ''cleaned and cut'', ''Ononidis radix''. harvest_readiness (Plantura, species_confirmed false) untouched. (4) Infusion (aerial-part tea) and Gargle/wash now unsourced -> needs-review, withheld by D8; no O. arvensis source names either. (5) Tincture now cites REF-3023 (1:5, 70% ethanol, maceration; root tinctures richer than herb); the old ''inferred from antimicrobial action'' note removed. (6) diuretic action: REF-3019 full text (Luzhanin 2021, Razrabotka i registratsiya, https://www.pharmjournal.ru/jour/article/download/887/797) says extracts of O. arvensis have diuretic, choleretic, analgesic, antihypoxic and antimicrobial activity, citing Tulaikin & Bakhtina 2006 (Rastitelnye Resursy 42(1):120-126, diuretic and analgesic activity of aerial-part extracts; not on PubMed, not read). The same text gives folk use for bladder and kidney diseases, haemorrhoids, liver and skin diseases, citing Denes 2015 (Int J Pharmacogn Phytochem Res 30(1):1301-1307, Transylvanian ethnomedicine) - a lead for traditional_uses. Dropped ''aquaretic'', ''irrigation therapy'' and ''used interchangeably with O. spinosa''.'

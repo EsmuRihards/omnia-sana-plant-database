@@ -39939,37 +39939,41 @@
     "Flower"
    ],
    "botanical_description": {
-    "text": "A tough, deep-rooted perennial herb or low subshrub of the pea family, 30-80 cm tall, sometimes bearing soft spines. It has a very long, woody, tenacious taproot - so strong it was said to stop (arrest) the harrow, giving 'rest-harrow' its name. The stems are hairy and sticky, often reddish, and clothed in small trifoliolate (clover-like) leaves with toothed leaflets. The flowers are typical pea flowers, pink to purplish-pink (occasionally white), borne singly or in pairs in the leaf axils. Field restharrow (O. arvensis) is generally less spiny than its close relative spiny restharrow (O. spinosa).",
-    "height": "30-80 cm",
-    "habit": "Deep-rooted perennial herb or low subshrub, sometimes softly spiny",
-    "leaves": "Trifoliolate (clover-like), with finely toothed leaflets; stems hairy and glandular-sticky",
-    "flowers": "Pea-type, pink to purplish-pink (rarely white), solitary or paired in the leaf axils",
-    "stem": "Erect to ascending, hairy and sticky, often reddish; less spiny than O. spinosa",
-    "root": "Very long, woody, tenacious taproot (the medicinal Ononidis radix)",
-    "fruit": "A small, hairy, few-seeded pea pod",
-    "flowering_period": "June-September",
+    "text": "A summer-green perennial subshrub of the pea family, 30-100 cm tall, mostly upright and almost always without spines, with a strong smell. Its shoots are densely hairy: the stem carries spreading glandular hairs about 2 mm long among ordinary hairs, and the leaves are glandular-hairy and somewhat sticky. The pink flowers, often striped with purple and very rarely white, are borne mostly in dense, spike-like clusters at the shoot tips, two at each node, from June to July, and are pollinated mainly by bees. The pod is no longer than the calyx, and the plant grows from a strong, branched rootstock. It differs from spiny restharrow (O. spinosa) in having its flowers in pairs rather than singly and in lacking stiff spines.",
+    "height": "30-100 cm",
+    "habit": "Summer-green perennial subshrub, mostly upright, almost always spineless, strong-smelling",
+    "leaves": "Glandular-hairy and somewhat sticky, mostly pointed at the tip",
+    "flowers": "Pink, often purple-striped, very rarely white; in dense spike-like clusters at the shoot tips, two per node",
+    "stem": "Densely hairy, with spreading glandular hairs about 2 mm long among ordinary hairs",
+    "root": "A strong, branched rootstock",
+    "fruit": "A pod no longer than the calyx",
+    "flowering_period": "June-July",
     "reference_ids": [
-     "REF-2748",
-     "REF-2750"
+     "REF-4028",
+     "REF-4027",
+     "REF-2750",
+     "REF-2742"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Rough grassland, field margins, roadsides, dunes and dry, sandy or calcareous waste ground across Europe, western Asia and parts of North Africa. As a deep-rooted, nitrogen-fixing legume it colonises poor, disturbed soils and was historically a troublesome weed of arable fields (hence 'restharrow').",
+    "text": "Native to Eurasia, from central Europe through western Siberia to the western Himalayas. It has a more easterly range than spiny or creeping restharrow and is not found west of southern Scandinavia and Germany. It grows mainly in dry and semi-dry grassland, mostly where the climate is continental, from the lowlands to hill country, and also in meadows and old fields.",
     "reference_ids": [
-     "REF-2748"
+     "REF-4027",
+     "REF-4028"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "The root (Ononidis radix) is the principal medicinal part, dug in autumn from the second year onward and dried; the aerial flowering parts are also gathered in summer. The long woody taproot is cleaned and cut before drying for decoctions and infusions.",
+    "text": "The root is the part mainly harvested; the aerial parts are usually left as an unused by-product when the roots are dug. In one study the aerial parts were collected in August and dried in air and shade. No species-specific season for digging the root was found.",
     "parts": [
      "Root",
      "Aerial parts"
     ],
-    "season": "Root in autumn; aerial parts in flower (summer)",
+    "season": "Aerial parts collected in August in one study; no species-specific root season found",
     "reference_ids": [
-     "REF-2748"
+     "REF-3023",
+     "REF-3019"
     ],
     "status": "verified"
    },
@@ -40010,20 +40014,12 @@
      "status": "verified"
     },
     {
-     "name": "Infusion",
-     "text": "The flowering aerial parts infused as a milder diuretic and anti-inflammatory tea.",
+     "name": "Tincture",
+     "text": "Root and herb tinctures made at 1:5 in 70% ethanol by maceration were compared in a 2024 analytical study; the root tinctures held more isoflavonoids, flavonoids, tannins and phenolic acids than those made from the herb.",
      "reference_ids": [
-      "REF-2748"
+      "REF-3023"
      ],
-     "status": "draft"
-    },
-    {
-     "name": "Gargle / wash",
-     "text": "A root decoction used traditionally as a mouth/throat gargle and as a wash for skin complaints.",
-     "reference_ids": [
-      "REF-2748"
-     ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "dosage": [],
@@ -40102,9 +40098,9 @@
    "actions": [
     {
      "action": "diuretic",
-     "note": "Aquaretic diuretic; the classic irrigation-therapy action of restharrow root (Ononidis radix), used interchangeably for O. arvensis and O. spinosa.",
+     "note": "Extracts of field restharrow, studied from its aerial parts, have been reported to have diuretic activity.",
      "reference_ids": [
-      "REF-2748"
+      "REF-3019"
      ],
      "status": "verified"
     },

@@ -13393,7 +13393,7 @@
     "status": "verified"
    },
    "harvesting": {
-    "text": "The young shoots and leaves are the parts eaten; the young shoots are boiled and eaten like asparagus. The leaves are used to make tea, known in Russia as Ivan-chai or Kaporie tea.",
+    "text": "The young shoots and leaves are the parts eaten; the young shoots are boiled and eaten like asparagus. The leaves are used to make tea, known in Russia as Ivan-chai or Kaporie tea. Before eating or brewing it, rule out white hellebore (Veratrum album), a poisonous plant regularly gathered by mistake for wild garlic, yellow gentian and herbs for tea (see Dangerous Lookalikes).",
     "parts": [
      "Flower",
      "Leaf",
@@ -13403,7 +13403,9 @@
     "reference_ids": [
      "REF-3231",
      "REF-3999",
-     "REF-3374"
+     "REF-3374",
+     "REF-4201",
+     "REF-2602"
     ],
     "status": "verified"
    },
@@ -13412,7 +13414,7 @@
      "part": "shoot",
      "signals": [
       "Gather the young shoots while young and tender (in spring), before the plant grows tall and flowers; the young shoots are cooked like asparagus.",
-      "SAFETY: young fireweed shoots can be confused with the FATAL white/false hellebore (Veratrum album) at the spring shoot stage; confirm identity before gathering - see this plant's Dangerous Lookalikes."
+      "SAFETY: before gathering, rule out the poisonous white hellebore (Veratrum album), which is regularly gathered by mistake for wild greens and tea herbs - see this plant's Dangerous Lookalikes."
      ],
      "basis": "traditional",
      "source_quote": "Young leaves and shoots can be consumed",
@@ -13428,7 +13430,7 @@
      "part": "leaf",
      "signals": [
       "Gather the leaves while young; the young fireweed leaves are the ones used (for tea and as a potherb).",
-      "SAFETY: confirm identity before gathering - young fireweed can be confused with the FATAL Veratrum album. See this plant's Dangerous Lookalikes."
+      "SAFETY: before gathering, rule out the poisonous white hellebore (Veratrum album), which is regularly gathered by mistake for wild greens and tea herbs - see this plant's Dangerous Lookalikes."
      ],
      "basis": "traditional",
      "source_quote": "Young leaves and shoots can be consumed",
@@ -13668,21 +13670,23 @@
     {
      "dangerous_plant": "veratrum-album",
      "severity": "fatal",
-     "confused_part": "Young spring shoots gathered as an asparagus-like vegetable; the emerging shoots of highly toxic false hellebore can look similar.",
-     "confusion_context": "Fireweed / rosebay willowherb (Chamerion angustifolium) young shoots are foraged in spring like asparagus. As foraging guidance (and the US Forest Service) warns, emerging fireweed shoots can resemble highly toxic members of the lily family, notably false hellebore (Veratrum), which shares moist ground and an upright early-spring habit. False hellebore is deadly, containing steroidal alkaloids that cause vomiting, collapse of blood pressure and heart-rhythm disturbances. Fortunately fireweed has an unmistakable leaf feature that separates it at every stage.",
+     "confused_part": "Young shoots and leaves, gathered in spring to cook as greens or picked for tea.",
+     "confusion_context": "No recorded case of fireweed being mistaken for white hellebore (Veratrum album) was found, so this warning is a precaution. White hellebore grows in Europe and western Asia, every part of it is poisonous, and it is regularly gathered by mistake: it has been taken for yellow gentian, for wild garlic eaten in salads and soups, and, at a youth camp, among herbs collected to make fresh tea. In one case series symptoms began within 15-30 minutes: nausea, vomiting and abdominal pain, then dizziness, disturbed vision, a slow heart rate and low blood pressure.",
      "distinguishing_features": [
-      "Leaf veins (decisive): fireweed's lateral leaf veins loop back and join together INSIDE the leaf margin, rather than running out to the edge - a unique 'looping vein' pattern. False hellebore veins run straight out to the leaf edge.",
-      "Leaf texture/arrangement: fireweed has narrow, smooth, lance-shaped leaves; false hellebore has large, broad, heavily PLEATED (accordion-ribbed) alternate leaves clasping the stem.",
-      "Habit: a stout shoot with broad pleated leaves is false hellebore, not the slender fireweed shoot."
+      "Leaf shape: fireweed has narrow, lance-shaped leaves with smooth (entire) edges, arranged spirally up the stem; white hellebore has pleated leaves on a stout stem.",
+      "Leaf veins (fireweed): the side veins join together to form one continuous vein running just inside the leaf edge."
      ],
-     "key_test": "Look at the leaf veins. Fireweed's side veins curve and join together just inside the leaf edge (looping), on narrow smooth leaves. Broad, deeply pleated (accordion-ribbed) leaves with veins running straight to the edge = false hellebore (Veratrum) - deadly, do not eat. If the leaves are pleated, discard it.",
+     "key_test": "Check the leaves. Narrow, lance-shaped leaves whose side veins join into one vein just inside the edge are fireweed. Pleated leaves are not fireweed: do not eat or brew them.",
      "reference_ids": [
-      "REF-2706",
+      "REF-3374",
+      "REF-4202",
+      "REF-4201",
+      "REF-2602",
       "REF-2599"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
-     "reviewed_date": "2026-07-07"
+     "reviewed_date": "2026-11-20"
     }
    ],
    "provenance": "book+pubmed",
@@ -28756,10 +28760,12 @@
      ]
     },
     {
-     "name": "Standardised extract",
-     "text": "Concentrated extract standardised to xanthohumol/humulone content, studied for sleep-enhancing activity via GABA-A receptor modulation.",
+     "name": "Dry extract",
+     "text": "A dry extract (4-5:1) is a listed form in the EU herbal monograph: 125 mg two to three times daily in mental stress, or 125-250 mg an hour before bedtime to aid sleep. In an animal study a hop extract containing xanthohumol and humulone lengthened sleep, acting at the GABA-A receptor, while a small uncontrolled study in 15 volunteers found no sleep-inducing effect from a hop concentrate. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0839"
+      "REF-3077",
+      "REF-0839",
+      "REF-4003"
      ],
      "status": "verified"
     }
@@ -28777,8 +28783,9 @@
    "constituents": [
     {
      "name": "Bitter acids (humulone, lupulone)",
-     "note": "Alpha- and beta-bitter acids responsible for the characteristic bitterness and much of the sedative, GABA-A-receptor-active and antimicrobial activity.",
+     "note": "The strobiles' bitter substances (15-25%) sit in the resins, mainly the alpha acids (humulone and related humulones) and beta acids (lupulone and its derivatives). Humulone and lupulone were the active constituents of a strobile extract that inhibited Helicobacter pylori in the lab. In an animal study, a mix of humulone and xanthohumol matched the sleep-enhancing effect of a hop extract that acted at the GABA-A receptor.",
      "reference_ids": [
+      "REF-4003",
       "REF-0839"
      ]
     },
@@ -28982,14 +28989,15 @@
     {
      "partner_id": "passiflora-incarnata",
      "type": "synergy",
-     "note": "Hops and passionflower are both GABA-acting sedative herbs commonly combined in sleep blends; together they may enhance relaxation and additive drowsiness.",
+     "note": "Hops and passionflower are both traditional sleep herbs and are combined, with valerian, in sleep formulations. In a two-week randomised trial in primary insomnia, one such tablet (NSF-3) improved sleep with no significant difference from zolpidem, and drowsiness was its commonest side effect. Hops may impair the ability to drive.",
      "reference_ids": [
-      "REF-2452",
+      "REF-4203",
+      "REF-3077",
       "REF-0565"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
-     "reviewed_date": "2026-07-03"
+     "reviewed_date": "2026-11-20"
     },
     {
      "partner_id": "melissa-officinalis",

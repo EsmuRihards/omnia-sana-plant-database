@@ -45,7 +45,9 @@ habitat:
   status: verified
 harvesting:
   text: The young shoots and leaves are the parts eaten; the young shoots are boiled and eaten like asparagus.
-    The leaves are used to make tea, known in Russia as Ivan-chai or Kaporie tea.
+    The leaves are used to make tea, known in Russia as Ivan-chai or Kaporie tea. Before eating or brewing
+    it, rule out white hellebore (Veratrum album), a poisonous plant regularly gathered by mistake for
+    wild garlic, yellow gentian and herbs for tea (see Dangerous Lookalikes).
   parts:
   - Flower
   - Leaf
@@ -55,43 +57,57 @@ harvesting:
   - REF-3231
   - REF-3999
   - REF-3374
+  - REF-4201
+  - REF-2602
   status: verified
 harvest_readiness:
 - part: shoot
   signals:
-  - "Gather the young shoots while young and tender (in spring), before the plant grows tall and flowers; the young shoots are cooked like asparagus."
-  - "SAFETY: young fireweed shoots can be confused with the FATAL white/false hellebore (Veratrum album) at the spring shoot stage; confirm identity before gathering - see this plant's Dangerous Lookalikes."
+  - Gather the young shoots while young and tender (in spring), before the plant grows tall and flowers;
+    the young shoots are cooked like asparagus.
+  - 'SAFETY: before gathering, rule out the poisonous white hellebore (Veratrum album), which is regularly
+    gathered by mistake for wild greens and tea herbs - see this plant''s Dangerous Lookalikes.'
   basis: traditional
-  source_quote: "Young leaves and shoots can be consumed"
+  source_quote: Young leaves and shoots can be consumed
   reference_ids:
   - REF-3231
   independent_confirmation: null
   species_confirmed: true
   status: provisional
-  notes: "Edible Wild Food (REF-3231) for Chamerion angustifolium (syn. Epilobium angustifolium); the young stage is the part used. A clean seasonal/phenophase statement could not be retrieved (theferns had no record; US Forest Service and Gardenia returned 403; PFAF was empty). Single source -> provisional."
+  notes: Edible Wild Food (REF-3231) for Chamerion angustifolium (syn. Epilobium angustifolium); the young
+    stage is the part used. A clean seasonal/phenophase statement could not be retrieved (theferns had
+    no record; US Forest Service and Gardenia returned 403; PFAF was empty). Single source -> provisional.
 - part: leaf
   signals:
-  - "Gather the leaves while young; the young fireweed leaves are the ones used (for tea and as a potherb)."
-  - "SAFETY: confirm identity before gathering - young fireweed can be confused with the FATAL Veratrum album. See this plant's Dangerous Lookalikes."
+  - Gather the leaves while young; the young fireweed leaves are the ones used (for tea and as a potherb).
+  - 'SAFETY: before gathering, rule out the poisonous white hellebore (Veratrum album), which is regularly
+    gathered by mistake for wild greens and tea herbs - see this plant''s Dangerous Lookalikes.'
   basis: traditional
-  source_quote: "Young leaves and shoots can be consumed"
+  source_quote: Young leaves and shoots can be consumed
   reference_ids:
   - REF-3231
   independent_confirmation: null
   species_confirmed: true
   status: provisional
-  notes: "Edible Wild Food (REF-3231). Single source -> provisional."
+  notes: Edible Wild Food (REF-3231). Single source -> provisional.
 - part: flower
   signals:
-  - "Pick the young, freshly opened flowers from the lower part of the spike: the raceme opens progressively from the bottom upwards, so open flowers, unopened buds and forming seed pods all sit on one stem at once."
+  - 'Pick the young, freshly opened flowers from the lower part of the spike: the raceme opens progressively
+    from the bottom upwards, so open flowers, unopened buds and forming seed pods all sit on one stem
+    at once.'
   basis: traditional
-  source_quote: "The inflorescence is a symmetrical terminal raceme that blooms progressively from bottom to top, producing a gracefully tapered shape."
+  source_quote: The inflorescence is a symmetrical terminal raceme that blooms progressively from bottom
+    to top, producing a gracefully tapered shape.
   reference_ids:
   - REF-3374
   independent_confirmation: null
   species_confirmed: true
   status: provisional
-  notes: "Wikipedia (REF-3374) under the accepted name Chamaenerion angustifolium (syn. Chamerion angustifolium); the same page names the material used - 'The young flowers are also edible (being made into jelly in the Yukon)' - and the bottom-to-top flowering sequence gives the stage. Seams that failed earlier: theferns (no record), PFAF (empty), US Forest Service and Gardenia (403), Edible Wild Food (young leaves/shoots only). Single lineage -> provisional."
+  notes: 'Wikipedia (REF-3374) under the accepted name Chamaenerion angustifolium (syn. Chamerion angustifolium);
+    the same page names the material used - ''The young flowers are also edible (being made into jelly
+    in the Yukon)'' - and the bottom-to-top flowering sequence gives the stage. Seams that failed earlier:
+    theferns (no record), PFAF (empty), US Forest Service and Gardenia (403), Edible Wild Food (young
+    leaves/shoots only). Single lineage -> provisional.'
 traditional_uses:
   text: The roots and leaves have been used in domestic medicine as demulcent, tonic and astringent remedies,
     in decoctions, infusions and poultices, and the plant was much used in America as an intestinal astringent.
@@ -261,31 +277,29 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: veratrum-album
   severity: fatal
-  confused_part: Young spring shoots gathered as an asparagus-like vegetable; the emerging shoots of highly
-    toxic false hellebore can look similar.
-  confusion_context: Fireweed / rosebay willowherb (Chamerion angustifolium) young shoots are foraged
-    in spring like asparagus. As foraging guidance (and the US Forest Service) warns, emerging fireweed
-    shoots can resemble highly toxic members of the lily family, notably false hellebore (Veratrum), which
-    shares moist ground and an upright early-spring habit. False hellebore is deadly, containing steroidal
-    alkaloids that cause vomiting, collapse of blood pressure and heart-rhythm disturbances. Fortunately
-    fireweed has an unmistakable leaf feature that separates it at every stage.
+  confused_part: Young shoots and leaves, gathered in spring to cook as greens or picked for tea.
+  confusion_context: 'No recorded case of fireweed being mistaken for white hellebore (Veratrum album)
+    was found, so this warning is a precaution. White hellebore grows in Europe and western Asia, every
+    part of it is poisonous, and it is regularly gathered by mistake: it has been taken for yellow gentian,
+    for wild garlic eaten in salads and soups, and, at a youth camp, among herbs collected to make fresh
+    tea. In one case series symptoms began within 15-30 minutes: nausea, vomiting and abdominal pain,
+    then dizziness, disturbed vision, a slow heart rate and low blood pressure.'
   distinguishing_features:
-  - 'Leaf veins (decisive): fireweed''s lateral leaf veins loop back and join together INSIDE the leaf
-    margin, rather than running out to the edge - a unique ''looping vein'' pattern. False hellebore veins
-    run straight out to the leaf edge.'
-  - 'Leaf texture/arrangement: fireweed has narrow, smooth, lance-shaped leaves; false hellebore has large,
-    broad, heavily PLEATED (accordion-ribbed) alternate leaves clasping the stem.'
-  - 'Habit: a stout shoot with broad pleated leaves is false hellebore, not the slender fireweed shoot.'
-  key_test: Look at the leaf veins. Fireweed's side veins curve and join together just inside the leaf
-    edge (looping), on narrow smooth leaves. Broad, deeply pleated (accordion-ribbed) leaves with veins
-    running straight to the edge = false hellebore (Veratrum) - deadly, do not eat. If the leaves are
-    pleated, discard it.
+  - 'Leaf shape: fireweed has narrow, lance-shaped leaves with smooth (entire) edges, arranged spirally
+    up the stem; white hellebore has pleated leaves on a stout stem.'
+  - 'Leaf veins (fireweed): the side veins join together to form one continuous vein running just inside
+    the leaf edge.'
+  key_test: 'Check the leaves. Narrow, lance-shaped leaves whose side veins join into one vein just inside
+    the edge are fireweed. Pleated leaves are not fireweed: do not eat or brew them.'
   reference_ids:
-  - REF-2706
+  - REF-3374
+  - REF-4202
+  - REF-4201
+  - REF-2602
   - REF-2599
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
-  reviewed_date: '2026-07-07'
+  reviewed_date: '2026-11-20'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-08-15'
@@ -326,4 +340,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep (batch 6). REF-2301
   (polyphenols of Epilobium angustifolium = fireweed) moved here from E. parviflorum, antioxidant
   action.
-  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-1658 (in vivo enzyme study). RE-SOURCED: Wikipedia REF-3374, Grieve Willow-Herbs (REF-3999, new), Latvijas daba REF-0118, Edible Wild Food REF-3231, EU monograph REF-3075. Dropped as unsupported: flowering July-September, 60-200 cm, poultice for skin inflammation, circumpolar tradition wording. The Veratrum caution was REMOVED from the harvesting text: its source REF-2706 (forage-ology) could not be fetched to confirm; the approved Veratrum album lookalike row still renders on the page.'
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-1658 (in vivo enzyme study). RE-SOURCED: Wikipedia REF-3374, Grieve Willow-Herbs (REF-3999, new), Latvijas daba REF-0118, Edible Wild Food REF-3231, EU monograph REF-3075. Dropped as unsupported: flowering July-September, 60-200 cm, poultice for skin inflammation, circumpolar tradition wording. The Veratrum caution was REMOVED from the harvesting text: its source REF-2706 (forage-ology) could not be fetched to confirm; the approved Veratrum album lookalike row still renders on the page.
+  | 2026-11-20 (owner asked ''Fix the fireweed Veratrum warning''): REF-2706 (forage-ology fireweed page) is dead - the domain no longer resolves and the Wayback Machine has no copy - and its bibliography ''abstract'' was an editorial paraphrase, so it was removed and the entry deleted. No source found (PubMed, web, extended search) records fireweed being mistaken for any Veratrum; the old row''s ''US Forest Service warns'' and ''false hellebore veins run straight out to the leaf edge'' were unsourced. The approved lookalike row is rewritten as an openly stated precaution: REF-3374 (Wikipedia fireweed: narrow lanceolate entire leaves, secondary veins joining into a continuous marginal vein just inside the margin; young shoots and leaves eaten, leaves for tea), REF-4202 (Wikipedia white hellebore: Europe and western Asia, alternate pleated leaves, stout stems, all parts poisonous, mistaken for gentian and wild garlic), REF-4201 (Gilotta 2010: mistaken for wild garlic in salads and soups, symptoms in 15-30 min), REF-2602 (Rauber-Luthy 2010: 11 children at a youth camp who collected herbs for fresh tea) and REF-2599. Kept approved and severity unchanged; reviewed_date 2026-11-20. The two harvest_readiness SAFETY clauses no longer claim the shoots ''can be confused'' with Veratrum; the harvesting text again carries the caution, now sourced to REF-4201 and REF-2602.'

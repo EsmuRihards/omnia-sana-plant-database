@@ -84,11 +84,16 @@ preparations:
   status: verified
   reference_ids:
   - REF-3077
-- name: Standardised extract
-  text: Concentrated extract standardised to xanthohumol/humulone content, studied for sleep-enhancing
-    activity via GABA-A receptor modulation.
+- name: Dry extract
+  text: 'A dry extract (4-5:1) is a listed form in the EU herbal monograph: 125 mg two to three times
+    daily in mental stress, or 125-250 mg an hour before bedtime to aid sleep. In an animal study a hop
+    extract containing xanthohumol and humulone lengthened sleep, acting at the GABA-A receptor, while
+    a small uncontrolled study in 15 volunteers found no sleep-inducing effect from a hop concentrate.
+    Educational reference only, not a prescription.'
   reference_ids:
+  - REF-3077
   - REF-0839
+  - REF-4003
   status: verified
 dosage:
 - name: Infusion
@@ -101,9 +106,13 @@ dosage:
   status: verified
 constituents:
 - name: Bitter acids (humulone, lupulone)
-  note: Alpha- and beta-bitter acids responsible for the characteristic bitterness and much of the sedative,
-    GABA-A-receptor-active and antimicrobial activity.
+  note: The strobiles' bitter substances (15-25%) sit in the resins, mainly the alpha acids (humulone
+    and related humulones) and beta acids (lupulone and its derivatives). Humulone and lupulone were the
+    active constituents of a strobile extract that inhibited Helicobacter pylori in the lab. In an animal
+    study, a mix of humulone and xanthohumol matched the sleep-enhancing effect of a hop extract that
+    acted at the GABA-A receptor.
   reference_ids:
+  - REF-4003
   - REF-0839
 - name: Prenylflavonoids (xanthohumol, 8-prenylnaringenin)
   compounds:
@@ -241,14 +250,17 @@ drug_class_interactions:
 pairings:
 - partner_id: passiflora-incarnata
   type: synergy
-  note: Hops and passionflower are both GABA-acting sedative herbs commonly combined in sleep blends;
-    together they may enhance relaxation and additive drowsiness.
+  note: Hops and passionflower are both traditional sleep herbs and are combined, with valerian, in sleep
+    formulations. In a two-week randomised trial in primary insomnia, one such tablet (NSF-3) improved
+    sleep with no significant difference from zolpidem, and drowsiness was its commonest side effect.
+    Hops may impair the ability to drive.
   reference_ids:
-  - REF-2452
+  - REF-4203
+  - REF-3077
   - REF-0565
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
-  reviewed_date: '2026-07-03'
+  reviewed_date: '2026-11-20'
 - partner_id: melissa-officinalis
   type: synergy
   note: Hops and lemon balm are both mild sedative, sleep-supporting herbs often combined in calming blends;
@@ -324,4 +336,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   stress also EU monograph REF-3077), menopause and hot-flashes (RCTs REF-3594, REF-3595). Not
   used: Lactium/Zizyphus and sleep-supplement combinations, non-alcoholic beer study, xanthohumol
   Crohn trials (compound, safety endpoint).
-  | 2026-11-19 (monograph-source audit): botanical_description, harvesting and traditional_uses cited only REF-0839 (lab study). RE-SOURCED: WHO Strobilus Lupuli vol. 3 (REF-4003, new), Grieve Hops (REF-4004, new), EU monograph REF-3077. Not used: the PFAF page fetched for Humulus lupulus describes American hop (Humulus lupulus Nutt. / H. americanus), a different taxon. Dropped as unsupported: opposite grape-like leaves, climbing without tendrils, 6-8 m, late-summer flowering, picked when lupulin is sticky, hop-pickers'' drowsiness, GABA-A active bitter resins.'
+  | 2026-11-19 (monograph-source audit): botanical_description, harvesting and traditional_uses cited only REF-0839 (lab study). RE-SOURCED: WHO Strobilus Lupuli vol. 3 (REF-4003, new), Grieve Hops (REF-4004, new), EU monograph REF-3077. Not used: the PFAF page fetched for Humulus lupulus describes American hop (Humulus lupulus Nutt. / H. americanus), a different taxon. Dropped as unsupported: opposite grape-like leaves, climbing without tendrils, 6-8 m, late-summer flowering, picked when lupulin is sticky, hop-pickers'' drowsiness, GABA-A active bitter resins.
+  | 2026-11-20 (owner asked to fix the hop wording): three entries overstated a GABA-A mechanism. (1) Preparation ''Standardised extract'' (REF-0839 only) -> ''Dry extract'': the EU monograph REF-3077 (read 2026-11-20) lists dry extract 4-5:1 at 125 mg 2-3x daily (mental stress) and 125-250 mg 60 min before bedtime (sleep); REF-0839 is an animal pentobarbital-sleep study of one Korean hop extract (not described as standardised); WHO REF-4003 records a 15-volunteer uncontrolled study with no sleep-inducing effect and mixed animal results. (2) Bitter-acids constituent: ''responsible for much of the sedative, GABA-A-receptor-active and antimicrobial activity'' replaced by WHO REF-4003 (bitter substances 15-25% in the resins; humulone and lupulone the active anti-H. pylori constituents) and REF-0839 (humulone + xanthohumol mix matched the extract; xanthohumol is a prenylflavonoid, not a bitter acid). (3) passiflora-incarnata pairing (approved): ''both GABA-acting sedative herbs commonly combined in sleep blends'' had REF-2452 (a hypnotic-herb review naming neither herb) and REF-0565 (passionflower tea RCT); now REF-4203 (Maroo 2013 NSF-3 RCT: valerian + passionflower + hop extracts vs zolpidem, no significant difference, drowsiness commonest AE), REF-3077 (4.7 may impair ability to drive) and REF-0565. Kept approved, reviewed_date 2026-11-20. Not changed: the melissa-officinalis pairing also leans on REF-2452, which does not name hops.'

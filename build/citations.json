@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3781,
+ "count": 3783,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -79062,6 +79062,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-4203",
+   "key": "maroo2013nsf3",
+   "type": "article",
+   "title": "Efficacy and safety of a polyherbal sedative-hypnotic formulation NSF-3 in primary insomnia in comparison to zolpidem: a randomized controlled trial",
+   "authors": "Maroo, N. and Hazra, A. and Das, T.",
+   "journal": "Indian Journal of Pharmacology",
+   "year": "2013",
+   "doi": "10.4103/0253-7613.106432",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23543804/",
+   "link": "https://doi.org/10.4103/0253-7613.106432",
+   "link_type": "doi",
+   "citation": "Maroo, N. and Hazra, A. and Das, T (2013) 'Efficacy and safety of a polyherbal sedative-hypnotic formulation NSF-3 in primary insomnia in comparison to zolpidem: a randomized controlled trial', Indian Journal of Pharmacology, 45(1), pp. 34--39. doi:10.4103/0253-7613.106432",
+   "abstract": "To assess the efficacy and safety of NSF-3, a polyherbal sedative-hypnotic (containing standardized extracts of Valeriana officinalis, Passiflora incarnate and Humulus lupulus), in comparison to zolpidem in primary insomnia. The present study was designed as a parallel group, double- blind, randomized, controlled trial and registered with Clinical Trials Registry-India (CTRI/2011/12/002197). Patients diagnosed with primary insomnia with a perceived total sleep time of <6 hours per night and insomnia severity index >7 were included. They were treated with either NSF-3 (one tablet) or zolpidem (one 10 mg tablet) at bedtime for two weeks. Total sleep time, sleep latency and number of awakenings per night were assessed using a sleep diary. Quality of life and daytime sleepiness were evaluated by insomnia severity index and Epworth sleepiness score respectively. Vital signs, routine blood counts, liver and renal function tests, and treatment emergent adverse events were recorded for safety assessment. A total of 91 subjects were recruited, of which 39 in each group completed the study. There was significant improvement in total sleep time, sleep latency, number of nightly awakenings and insomnia severity index scores in both groups. However, no statistically significant difference was observed between the groups. Epworth sleepiness scores did not change significantly over the study period. Although 12 treatment emergent adverse events were reported with NSF-3 and 16 with zolpidem (commonest was drowsiness in both), most were mild and no serious adverse events were encountered. NSF-3 is a safe and effective short-term alternative to zolpidem for primary insomnia. It remains to be explored whether the benefits are sustained and whether there is dependence liability with this formulation upon long term use.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and safety of a polyherbal sedative-hypnotic formulation NSF-3 in primary insomnia in comparison to zolpidem: a randomized controlled trial",
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0536",
    "key": "okawara2013diosgenin",
    "type": "article",
@@ -87101,6 +87132,30 @@
    "conditions": [
     "Bruising"
    ]
+  },
+  {
+   "ref_id": "REF-4201",
+   "key": "gilotta2010veratrum",
+   "type": "article",
+   "title": "Accidental poisoning with Veratrum album mistaken for wild garlic (Allium ursinum)",
+   "authors": "Gilotta, I. and Brvar, M.",
+   "journal": "Clinical Toxicology",
+   "year": "2010",
+   "doi": "10.3109/15563650.2010.533675",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21171854/",
+   "link": "https://doi.org/10.3109/15563650.2010.533675",
+   "link_type": "doi",
+   "citation": "Gilotta, I. and Brvar, M (2010) 'Accidental poisoning with Veratrum album mistaken for wild garlic (Allium ursinum)', Clinical Toxicology, 48(9), pp. 949--952. doi:10.3109/15563650.2010.533675",
+   "abstract": "Veratrum album (white or false hellebore) is a poisonous plant containing steroidal alkaloids that cause nausea, vomiting, headache, visual disturbances, paresthesia, dizziness, bradycardia, atrioventricular block, hypotension, and syncope. It is regularly mistaken for Gentiana lutea (yellow gentian). We report accidental poisoning with V. album mistaken for Allium ursinum (wild garlic), a wild plant used in soups and salads in Central Europe. Four adults (24-45 years) accidentally ingested V. album mistaken for A. ursinum in self-prepared salads and soups. Within 15-30 min of ingestion they developed nausea, vomiting, and abdominal pain. At the same time dizziness, tingling, dimmed and jumping vision, transient blindness, and confusion appeared. On arrival at the ED, all patients had sinus bradycardia and hypotension. Following treatment the patients were discharged well 24-48 h after ingestion. In patients presenting with gastrointestinal, neurological, and cardiovascular symptoms a history of wild plant ingestion suggests possible poisoning with V. album mistaken for wild garlic.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Accidental poisoning with Veratrum album mistaken for wild garlic (Allium ursinum)",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2306",
@@ -95296,8 +95351,15 @@
     "clinical"
    ],
    "display": "Strobilus Lupuli",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
    "actions": [],
    "conditions": []
   },
@@ -115761,30 +115823,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-2706",
-   "key": "forageology_fireweed",
-   "type": "misc",
-   "title": "Foraging Fireweed: How to Identify and Use Every Part of This Stunning Wild Plant",
-   "authors": "Forage-ology",
-   "journal": "",
-   "year": "",
-   "doi": "",
-   "url": "https://forage-ology.com/foraging-fireweed-how-to-identify-and-use-every-part-of-this-stunning-wild-plant/",
-   "link": "https://forage-ology.com/foraging-fireweed-how-to-identify-and-use-every-part-of-this-stunning-wild-plant/",
-   "link_type": "url",
-   "citation": "Forage-ology 'Foraging Fireweed: How to Identify and Use Every Part of This Stunning Wild Plant'. Available at: https://forage-ology.com/foraging-fireweed-how-to-identify-and-use-every-part-of-this-stunning-wild-plant/",
-   "abstract": "Foraging guide warning that young fireweed shoots emerging in spring can resemble highly toxic members of the lily family such as false hellebore (Veratrum), but fireweed is reliably identified by its unique leaf venation, in which the lateral veins loop back and join together inside the leaf margin rather than running to the edge; false hellebore has large, deeply pleated alternate leaves. Anchors the fireweed/false-hellebore shoot confusion and the looping-vein distinguishing test.",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Foraging Fireweed: How to Identify and Use Every Part of This Stunning Wild Plant",
-   "plants": [],
-   "scientific": [],
-   "actions": [],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-2705",
    "key": "growforage_goldenrod",
    "type": "misc",
@@ -121936,6 +121974,30 @@
     "clinical"
    ],
    "display": "Valeriana officinalis (Valerian)",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-4202",
+   "key": "wikipedia_veratrum_album",
+   "type": "misc",
+   "title": "Veratrum album",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Veratrum_album",
+   "link": "https://en.wikipedia.org/wiki/Veratrum_album",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Veratrum album'. Available at: https://en.wikipedia.org/wiki/Veratrum_album",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Veratrum album",
    "plants": [],
    "scientific": [],
    "actions": [],

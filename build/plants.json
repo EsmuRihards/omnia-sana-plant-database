@@ -4796,26 +4796,30 @@
     "Stem"
    ],
    "botanical_description": {
-    "text": "Aromatic annual herb with a slender, hollow, ridged, blue-green stem. The leaves are finely divided into thread-like segments, feathery and soft, similar to fennel but more delicate. Small yellow flowers are borne in flat, wide compound umbels at the stem tips in summer, ripening into flattened, ridged, aromatic seeds (fruits).",
+    "text": "An aromatic annual (sometimes biennial) herb, 40-120 cm tall, much like a smaller fennel, usually with a single erect, smooth, shiny, hollow stem that branches above, and a long, spindle-shaped root. The blue-green, feathery leaves are finely divided (tripinnate) into thread-like segments on sheathing stalks. In midsummer flat umbels of 15-30 rays carry numerous small yellow flowers with inrolled petals, without bracts. The fruits (the 'seeds') are deep brown, flattened and oval, with sharp-edged ribs on the back.",
     "height": "40-120 cm",
-    "habit": "Erect, aromatic annual herb",
-    "leaves": "Finely divided into thread-like, feathery segments",
-    "flowers": "Small yellow flowers in flat, wide compound umbels",
-    "stem": "Slender, hollow, ridged, blue-green, unspotted",
-    "root": "Slender taproot",
-    "fruit": "Small, flattened, ridged, aromatic seed (mericarp)",
-    "flowering_period": "June-August",
+    "habit": "Aromatic, erect annual (sometimes biennial) herb",
+    "leaves": "Blue-green, feathery, tripinnate with thread-like segments, on sheathing stalks",
+    "flowers": "Small yellow flowers with inrolled petals in flat umbels of 15-30 rays, without bracts",
+    "stem": "Usually single, erect, smooth, shiny, hollow, branching above",
+    "root": "Long, spindle-shaped, annual",
+    "fruit": "Deep brown, flattened, oval fruit with sharp-edged back ribs",
+    "flowering_period": "Midsummer",
     "reference_ids": [
-     "REF-1388"
+     "REF-3094",
+     "REF-4012",
+     "REF-3200"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Believed native to the eastern Mediterranean, Western Asia and southern Russia; widely cultivated as a culinary and medicinal herb in gardens and fields across Europe, Asia and the Americas.",
+    "text": "Its origin is uncertain: WHO calls it indigenous to southern Europe, Grieve a native of the Mediterranean region and southern Russia, and Fern suggests it probably came from southern Asia. It grows wild among corn in Spain and Portugal and on the coast of Italy, in fields and waste places of the Mediterranean, and is cultivated widely throughout the world, often becoming naturalised.",
     "reference_ids": [
-     "REF-1388"
+     "REF-3094",
+     "REF-4012",
+     "REF-3200"
     ],
-    "status": "draft"
+    "status": "verified"
    },
    "harvesting": {
     "text": "Leaves are picked fresh through the growing season; the seeds are harvested in late summer once the umbels have browned and dried, then threshed and dried further before storage.",
@@ -4877,9 +4881,10 @@
     }
    ],
    "traditional_uses": {
-    "text": "Dill seed and leaf have a long culinary-medicinal history as a carminative digestive remedy for colic, dyspepsia and flatulence, and as a traditional lactagogue (galactagogue) to support breastfeeding; dill water ('gripe water') is a classic infant remedy for colic.",
+    "text": "Dill fruit and its oil are stimulant, aromatic, carminative and stomachic, and Dill Water is a common domestic remedy for wind in infants and a vehicle for children's medicines. Pharmacopoeias describe the fruit for indigestion, gastritis, flatulence and stomach ache; traditional medicine also used it to stimulate milk flow and appetite, for diarrhoea, painful periods, insomnia and kidney stones, among other uses. The young leaves flavour soups, sauces, fish and pickled cucumbers, and the seeds make dill vinegar.",
     "reference_ids": [
-     "REF-1388"
+     "REF-4012",
+     "REF-3094"
     ],
     "status": "verified"
    },
@@ -11900,26 +11905,21 @@
     "Seed"
    ],
    "botanical_description": {
-    "text": "Bushy annual or short-lived perennial herb (grown as an annual in temperate climates) with glossy, oval to lance-shaped leaves. Small, star-shaped, white to greenish flowers give way to the characteristic fleshy, hollow fruit (a berry), which ripens from green through yellow to red and varies enormously in size, shape and pungency between cultivars.",
-    "height": "0.5-1.5 m",
-    "habit": "Bushy annual or short-lived perennial herb",
-    "leaves": "Glossy, oval to lance-shaped",
-    "flowers": "Small, star-shaped, white to greenish, borne singly or in small clusters",
-    "stem": "Branching, semi-woody at the base in older plants",
-    "root": "Fibrous root system",
-    "fruit": "Fleshy, hollow berry, ripening green to yellow/orange/red, containing numerous flat seeds",
-    "flowering_period": "Summer, continuing until frost",
+    "text": "A frost-tender herb that, despite its name annuum, is not truly annual: where there is no winter frost it can live several seasons and grow into a large, shrubby perennial. The star- or bell-shaped flowers are purple, white or green, usually with six or seven petals and sepals and seven stamens; they are mostly self-pollinated. The fruits are berries of many shapes, from small and berry-like to bell-shaped, and colours, including red, yellow, green and black; in many varieties capsaicinoids make them pungent.",
+    "habit": "Frost-tender herb, perennial and shrubby where frost-free",
+    "flowers": "Star- or bell-shaped, purple, white or green, six to seven petals, seven stamens",
+    "fruit": "Berry of very variable shape and colour (red, yellow, green, black), often pungent",
     "reference_ids": [
-     "REF-2142"
+     "REF-4021"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to Central and South America; cultivated worldwide in warm and temperate climates as a food and medicinal crop, thriving in full sun on well-drained soil.",
+    "text": "Native to the northern regions of South America and to south-western North America, and one of the oldest cultivated crops, domesticated about 6,000 years ago in Mexico; it is now grown around the world.",
     "reference_ids": [
-     "REF-2142"
+     "REF-4021"
     ],
-    "status": "draft"
+    "status": "verified"
    },
    "harvesting": {
     "text": "Fruit is picked at the desired stage of ripeness (green for milder use, fully red for maximum capsaicin and carotenoid content) through summer and autumn; seeds are separated and dried from fully ripe fruit.",
@@ -11964,9 +11964,10 @@
     }
    ],
    "traditional_uses": {
-    "text": "Chili pepper fruit has a long history across the Americas and, after global spread, in many other traditional medicine systems as a warming digestive stimulant and topical counterirritant/analgesic for muscle and joint pain, building on capsaicin's now well-documented ability to desensitise pain-sensing nerve fibres with repeated application.",
+    "text": "Chili pepper is one of the oldest cultivated crops of the Americas and spread around the world after the Columbian exchange, when Europeans mistook its spicy fruits for a kind of black pepper, hence the name pepper. Its pungency comes from capsaicinoids. The EU herbal monograph accepts well-established use of chili extracts on the skin, as medicated plasters supplying a set dose of capsaicinoids, for relief of muscle pain such as low back pain.",
     "reference_ids": [
-     "REF-2142"
+     "REF-4021",
+     "REF-3090"
     ],
     "status": "verified"
    },
@@ -12237,17 +12238,18 @@
     "Seed"
    ],
    "botanical_description": {
-    "text": "Biennial (occasionally annual) herb with finely divided, feathery, carrot-like leaves similar to those of other Apiaceae. In its second year it sends up a branched, grooved, hollow flowering stem topped with flat compound umbels of small white or pinkish flowers, followed by the characteristic curved, ridged, strongly aromatic seeds (the familiar rye-bread spice).",
-    "height": "30-60 cm",
-    "habit": "Biennial herb, low rosette in year one, branched flowering stem in year two",
-    "leaves": "Finely divided, feathery, carrot-like",
-    "flowers": "Small white or pinkish flowers in flat compound umbels",
-    "stem": "Branched, grooved, hollow, plain green (unspotted)",
-    "root": "Slender, edible taproot",
-    "fruit": "Curved, ridged, strongly aromatic seed (mericarp)",
-    "flowering_period": "June-July (second year)",
+    "text": "A biennial herb that sends up a single stem (occasionally two to eight) from a cylindrical taproot up to 25 cm long; the smooth, furrowed stems grow 15-70 cm tall, occasionally 150 cm. The leaves are finely cut. Umbels of white flowers open in June, and the fruits (the 'seeds') ripen about August: they are slightly curved, flattened from the sides, somewhat horny and translucent, with five pale ridges, and smell pleasantly aromatic when bruised. The root is thick and tapering like a small parsnip, and edible.",
+    "height": "15-70 cm (occasionally to 150 cm)",
+    "habit": "Biennial herb with a single stem from a taproot",
+    "leaves": "Finely cut",
+    "flowers": "White, in umbels",
+    "stem": "Smooth, furrowed; usually single",
+    "root": "Thick, tapering, parsnip-like taproot up to 25 cm, edible",
+    "fruit": "Slightly curved, laterally flattened, horny, five pale ridges, aromatic",
+    "flowering_period": "June; fruits ripen about August",
     "reference_ids": [
-     "REF-1977"
+     "REF-3225",
+     "REF-4013"
     ],
     "status": "verified"
    },
@@ -12314,9 +12316,11 @@
     }
    ],
    "traditional_uses": {
-    "text": "Caraway seed is one of the classic Apiaceae carminative digestive spices, used traditionally for indigestion, bloating, flatulence and poor appetite, and, per the EU herbal monograph, for symptomatic relief of mild digestive complaints and bloating.",
+    "text": "Caraway has been used since ancient times; its use is thought to have begun with the ancient Arabs, whose name for the seeds, karawya, gave the word caraway, and its young roots were eaten like parsnips. The fruit and oil are aromatic, stimulant and carminative: caraway was widely given as a carminative cordial and for indigestion and flatulent indigestion, and later mainly to flavour other medicines. The EU herbal monograph accepts traditional use for the symptomatic relief of digestive disorders such as bloating and flatulence.",
     "reference_ids": [
-     "REF-1977"
+     "REF-4013",
+     "REF-3225",
+     "REF-0078"
     ],
     "status": "verified"
    },
@@ -14991,17 +14995,14 @@
     "Seed"
    ],
    "botanical_description": {
-    "text": "Evergreen shrub or small tree with glossy, dark green, oval leaves in opposite pairs. Small, fragrant, white, star-shaped flowers cluster along the branches, followed by clusters of green berries ('cherries') that ripen to red and each contain two flattened seeds - the coffee beans.",
-    "height": "Up to 5-10 m in the wild (kept pruned to 2-3 m under cultivation)",
-    "habit": "Evergreen shrub or small tree, usually pruned lower in cultivation",
-    "leaves": "Glossy, dark green, oval, in opposite pairs",
-    "flowers": "Small, fragrant, white, star-shaped, clustered along the branches",
-    "stem": "Woody, branching",
-    "root": "Deep taproot with fibrous lateral roots",
-    "fruit": "Fleshy berry ('cherry') ripening green to red, containing two flattened seeds (coffee beans)",
-    "flowering_period": "Varies with climate; often after the rainy season",
+    "text": "An evergreen shrub or small tree; wild plants grow 9-12 m tall with an open branching system. The leaves are opposite, simple, elliptic-ovate to oblong, 6-12 cm long and 4-8 cm broad, glossy dark green with prominent veins and wavy margins. White flowers, 10-15 mm across, grow in clusters of two to nine in the leaf axils. The fruit is a drupe (the coffee 'cherry') 10-15 mm across, ripening bright red to purple and usually holding two seeds, the coffee beans.",
+    "height": "9-12 m in the wild",
+    "habit": "Evergreen shrub or small tree with an open branching system",
+    "leaves": "Opposite, elliptic-ovate to oblong, 6-12 x 4-8 cm, glossy dark green, prominent veins, wavy margins",
+    "flowers": "White, 10-15 mm across, in axillary clusters of two to nine",
+    "fruit": "Drupe ('cherry') 10-15 mm, ripening bright red to purple, usually with two seeds",
     "reference_ids": [
-     "REF-2379"
+     "REF-3235"
     ],
     "status": "verified"
    },
@@ -15034,9 +15035,10 @@
     }
    ],
    "traditional_uses": {
-    "text": "Coffee has a centuries-long tradition, originating in Ethiopia and spreading through the Arab world and beyond, as a stimulant beverage taken for alertness and to counter fatigue; its seed and leaf extracts have more recently been studied for antioxidant, metabolic and neuroprotective properties.",
+    "text": "The first written record of coffee brewed from roasted beans comes from Arab scholars, who wrote that it helped them work longer hours; Yemen and southern Ethiopia were probably the first places the beans were cultivated, and the Yemeni drink spread to the Hejaz, Egypt and Turkey and then around the world. Coffee is an active brain stimulant that causes sleeplessness, and was formerly used against narcotic poisoning; the Malays infused the leaves, which contain even more caffeine than the berries.",
     "reference_ids": [
-     "REF-2379"
+     "REF-3235",
+     "REF-4022"
     ],
     "status": "verified"
    },
@@ -18793,24 +18795,27 @@
     }
    ],
    "botanical_description": {
-    "text": "Twining, herbaceous perennial vine with heart-shaped leaves arising from a knotty, woody, cinnamon-brown rhizome ('root'). Small, inconspicuous greenish-yellow flowers are borne on separate male and female plants, followed on female plants by small three-winged seed capsules.",
-    "height": "Vine to several metres, twining over support",
-    "habit": "Twining, herbaceous perennial vine",
-    "leaves": "Heart-shaped, alternate",
-    "flowers": "Small, inconspicuous, greenish-yellow, on separate male and female plants",
-    "stem": "Slender, twining",
-    "root": "Knotty, woody, cinnamon-brown rhizome",
-    "fruit": "Small three-winged seed capsule (female plants)",
-    "flowering_period": "Summer",
+    "text": "A perennial twining vine climbing to about 3 m, with long, knotty, matted, twisted, woody rootstocks. The heart-shaped leaves usually grow in whorls of four at each node, sometimes up to nine. Male and female flowers grow on separate plants; they are tiny, green to brown or white, with petals 0.5-2 mm long, arising from the leaf axils. The fruit is a capsule 10-30 mm long that splits to release the seeds.",
+    "height": "Twining to about 3 m",
+    "habit": "Perennial twining vine; male and female flowers on separate plants",
+    "leaves": "Heart-shaped, usually in whorls of four (up to nine) at each node",
+    "flowers": "Tiny, green to brown or white, petals 0.5-2 mm, from the leaf axils",
+    "stem": "Twining",
+    "root": "Long, knotty, matted, twisted, woody rootstock",
+    "fruit": "Capsule 10-30 mm long that splits to release the seeds",
     "reference_ids": [
-     "REF-0528"
+     "REF-4014",
+     "REF-4015",
+     "REF-3246"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to woodland edges, thickets and fence rows of eastern North America, growing over shrubs and fences in moist, rich soil.",
+    "text": "Native to eastern North America, common and widespread from Texas and Florida north to Minnesota, Ontario and Massachusetts. It grows from sea level to 1,500 m on the borders of bogs, swamps and marshes, river and lake margins and creek bottoms, in moist or dry woods and thickets, on limestone or rocky slopes and along roadsides.",
     "reference_ids": [
-     "REF-0528"
+     "REF-4015",
+     "REF-3246",
+     "REF-4014"
     ],
     "status": "verified"
    },
@@ -18840,9 +18845,12 @@
     }
    ],
    "traditional_uses": {
-    "text": "Wild yam root has a Native American and Eclectic-medicine history as an antispasmodic remedy for colic, menstrual cramps and rheumatic joint pain (reflected in the old names 'colic root' and 'rheumatism root'); despite a persistent modern myth, its diosgenin content is not converted into progesterone or other hormones in the human body.",
+    "text": "The common names colic root and rheumatism root reflect wild yam's use in Native American and other traditional medicine. It was valued as an antispasmodic, described as perhaps the best and quickest relief for bilious colic and especially helpful for nausea in pregnancy, and used for cramps, neuralgia, spasmodic hiccough and asthma, and for arthritis, gallbladder complaints and painful periods. Diosgenin from wild yam is used industrially to make progesterone and other steroid drugs, but diosgenin itself is not a phytoestrogen, and in a placebo-controlled trial a wild yam cream changed neither menopausal symptoms nor blood levels of oestradiol or progesterone.",
     "reference_ids": [
-     "REF-0528"
+     "REF-4015",
+     "REF-4014",
+     "REF-3246",
+     "REF-0614"
     ],
     "status": "verified"
    },
@@ -21251,35 +21259,36 @@
     }
    ],
    "botanical_description": {
-    "text": "Herbaceous perennial (often grown as an annual) with delicate, finely divided, blue-green feathery foliage. Solitary, cup-shaped, four-petalled flowers in vivid orange to yellow arise on long stalks, opening in full sun and closing at night or in dull weather, followed by a long, slender, ridged seed capsule that splits explosively when ripe.",
-    "height": "20-60 cm",
-    "habit": "Herbaceous perennial, often grown as an annual",
-    "leaves": "Finely divided, blue-green, feathery",
-    "flowers": "Solitary, cup-shaped, four-petalled, vivid orange to yellow, opening in sun and closing at night",
-    "stem": "Slender, branching, blue-green",
-    "root": "Deep taproot",
-    "fruit": "Long, slender, ridged seed capsule, dehiscing explosively when ripe",
-    "flowering_period": "Spring to autumn",
+    "text": "A short-lived perennial or annual, usually 5-50 cm tall, with alternately branching, blue-green (glaucous) foliage; the leaves are divided into rounded, lobed segments. The silky flowers grow singly on long stems and have four petals, each 2-6 cm long, in yellow, orange or red; they close at night and in cold, windy or cloudy weather. The fruit is a slender capsule 3-9 cm long that splits in two, sometimes explosively with an audible snap, releasing many small black or dark brown seeds.",
+    "height": "5-50 cm",
+    "habit": "Short-lived perennial or annual",
+    "leaves": "Blue-green, alternately divided into rounded, lobed segments",
+    "flowers": "Solitary on long stems; four silky petals 2-6 cm, yellow, orange or red; close at night and in dull weather",
+    "stem": "Alternately branching, blue-green",
+    "fruit": "Slender capsule 3-9 cm that splits, sometimes explosively; small black or dark brown seeds",
+    "flowering_period": "February to September (July to September in Britain)",
     "reference_ids": [
-     "REF-0427"
+     "REF-4023",
+     "REF-3254"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to open grassland, coastal scrub and disturbed ground of California and neighbouring states; widely cultivated and naturalised elsewhere as a garden ornamental.",
+    "text": "Native to the western United States and north-western Mexico, from Washington to California and Nevada, in open grassland, on hillsides, in deserts, fields and disturbed ground. It is widely cultivated and naturalised elsewhere, and is a frequent garden escape in Britain.",
     "reference_ids": [
-     "REF-0427"
+     "REF-3254",
+     "REF-4023"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "The flowering aerial parts are cut in summer while in flower, and dried in a warm, shaded, airy place.",
+    "text": "The whole plant is harvested when in flower and dried for use in tinctures and infusions.",
     "parts": [
      "Aerial parts (flowering herb)"
     ],
-    "season": "Summer, at flowering",
+    "season": "When in flower",
     "reference_ids": [
-     "REF-0427"
+     "REF-3254"
     ],
     "status": "verified"
    },
@@ -21301,9 +21310,11 @@
     }
    ],
    "traditional_uses": {
-    "text": "California poppy has a Native American traditional reputation as a mild calming and pain-relieving remedy, used for insomnia, nervous tension and mild pain; unlike the related opium poppy it is non-addictive and its calming effects are now attributed to GABA-A receptor modulation, supporting its traditional anxiolytic and sedative use.",
+    "text": "California poppy was used as a traditional medicine by indigenous peoples of California, including the Tongva, Cahuilla, Ohlone, Luiseno and Pomo. It is a bitter sedative herb, also described as diuretic, pain-relieving, antispasmodic and promoting sweating, taken internally for nervous tension, anxiety, insomnia and incontinence, especially in children. The EU herbal monograph accepts traditional use for relief of mild symptoms of mental stress and to aid sleep.",
     "reference_ids": [
-     "REF-0427"
+     "REF-4023",
+     "REF-3254",
+     "REF-3099"
     ],
     "status": "verified"
    },
@@ -24491,17 +24502,14 @@
     "Whole Plant"
    ],
    "botanical_description": {
-    "text": "Bracket (shelf) fungus (not a true plant) that grows on the trunks and stumps of deciduous trees. It develops a hard, kidney- or fan-shaped cap with a glossy, varnished, red-brown to mahogany crust and concentric growth rings, often on a lateral woody stalk; the pale underside is covered in fine pores that release rusty-brown spores. The mycelium spreads through the wood substrate before fruiting.",
-    "height": "Cap 5-20 cm across",
-    "habit": "Perennial wood-decay bracket fungus",
+    "text": "A polypore (bracket) fungus native to East Asia, not a plant. Its reddish-brown, varnished, kidney-shaped cap, marked with bands and attached to a stem at its edge, gives it a fan-like look; when fresh it is soft, cork-like and flat. It has no gills: its spores are released through fine yellow pores on the underside, and the spore print is brown. Depending on growing conditions it can also grow antler-like, without a cap.",
+    "habit": "Polypore (bracket) fungus",
     "leaves": "Not applicable (fungus)",
     "flowers": "Not applicable (fungus); reproduces by spores",
-    "stem": "Hard, glossy, varnished kidney- or fan-shaped cap, often on a lateral stalk",
-    "root": "Mycelium spreading through the wood substrate",
-    "fruit": "Pale, finely pored underside releasing rusty-brown spores",
-    "flowering_period": "Fruiting body develops over weeks to months on the host wood",
+    "stem": "Stem attached at the edge of a reddish-brown, varnished, kidney-shaped, banded cap",
+    "fruit": "No gills; fine yellow pores underneath release the spores; brown spore print",
     "reference_ids": [
-     "REF-0821"
+     "REF-4024"
     ],
     "status": "verified"
    },
@@ -39451,35 +39459,37 @@
     "Seed"
    ],
    "botanical_description": {
-    "text": "Evergreen tree (Oleaceae), typically 3-15 m tall, often gnarled and long-lived, with some specimens surviving for centuries. Leaves are narrow, leathery, lance-shaped, dark green above and silvery-grey beneath. Small, fragrant, creamy-white four-lobed flowers are borne in axillary clusters, followed by a fleshy drupe (the olive) that ripens from green to purple-black.",
-    "height": "3-15 m",
-    "habit": "Evergreen tree, often gnarled and long-lived",
-    "leaves": "Narrow, leathery, lance-shaped, dark green above, silvery-grey beneath",
-    "flowers": "Small, fragrant, creamy-white, four-lobed, in axillary clusters",
-    "stem": "Woody, often gnarled trunk",
-    "root": "Extensive woody root system",
-    "fruit": "Fleshy drupe (the olive), ripening from green to purple-black",
-    "flowering_period": "Late spring to early summer (May-June)",
+    "text": "A small evergreen tree, about 6 m or more tall, with pale grey bark and many thin branches with opposite branchlets. The short-stalked, opposite leaves are lance-shaped, about 5.5 cm long, pointed, smooth-edged, pale green above and silvery below. Numerous small creamy-white flowers open in spring, usually from April to June in the Northern Hemisphere. The fruit, the olive, is an ovoid, often pointed drupe about 2 cm long, ripening dark purple, its flesh full of oil around a thick, bony stone with a single seed.",
+    "height": "About 6 m or more",
+    "habit": "Small evergreen tree",
+    "leaves": "Opposite, short-stalked, lance-shaped, about 5.5 cm, pale green above, silvery below",
+    "flowers": "Numerous, small, creamy-white",
+    "stem": "Pale grey bark; many thin branches with opposite branchlets",
+    "fruit": "Ovoid, often pointed drupe about 2 cm long, ripening dark purple, oily flesh, bony stone",
+    "flowering_period": "Spring, usually April to June (Northern Hemisphere)",
     "reference_ids": [
-     "REF-1437"
+     "REF-4020",
+     "REF-3299"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to the Mediterranean basin, the Near East and parts of Africa, and cultivated for millennia across Mediterranean-type climates worldwide (warm, dry summers and mild winters); tolerates poor, rocky, calcareous soils and drought.",
+    "text": "Woods and scrub in dry, rocky places. Olive trees are native to Africa, temperate Asia and Europe; Grieve gives Asia Minor and Syria as the home of the cultivated tree, which is grown throughout the Mediterranean and also in Chile, Peru and South Australia.",
     "reference_ids": [
-     "REF-1437"
+     "REF-3299",
+     "REF-4020"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Leaves can be harvested year-round from pruned or fallen branches, generally at their highest oleuropein content in late autumn and winter; fruit is hand- or machine-harvested from early autumn (green olives) through winter (fully ripe black olives), depending on the intended product.",
+    "text": "The fruit is harvested in autumn, from late September to November in the Northern Hemisphere, depending on the variety and region. The leaves, the richest source of olive phenolic compounds, are also used.",
     "parts": [
      "Leaf",
      "Fruit"
     ],
-    "season": "Leaf year-round (peak late autumn/winter); fruit autumn to winter",
+    "season": "Fruit late September to November (Northern Hemisphere)",
     "reference_ids": [
+     "REF-3299",
      "REF-1446"
     ],
     "status": "verified"
@@ -40378,14 +40388,15 @@
     "status": "verified"
    },
    "harvesting": {
-    "text": "The aerial flowering parts are cut just before or at flowering (summer), when essential-oil content is highest, and dried quickly in a warm, shaded, well-ventilated place.",
+    "text": "The plant is harvested as flowering begins, in July, and used fresh or dried; the leaves are best in late spring to summer, just before the plant flowers. In commercial cultivation the stems are cut about 10 cm above the ground and dried, and the leaves are then beaten off the stems.",
     "parts": [
      "Leaf",
      "Flower"
     ],
-    "season": "Summer, just before or at flowering",
+    "season": "As flowering begins (July); leaves best just before flowering",
     "reference_ids": [
-     "REF-1231"
+     "REF-3304",
+     "REF-4017"
     ],
     "status": "verified"
    },
@@ -40796,14 +40807,14 @@
     "status": "verified"
    },
    "harvesting": {
-    "text": "Aerial parts are cut at or just before flowering (mid- to late summer), when essential-oil (carvacrol/thymol) content peaks, then dried quickly in the shade.",
+    "text": "The herb is gathered when just coming into flower, in early July, and hung up to dry, for example for marjoram tea; the whole plant (but not the roots) can also be cut in late summer to dry and store for winter.",
     "parts": [
      "Aerial parts (leaf, herb)"
     ],
-    "season": "Mid- to late summer, at or just before flowering",
+    "season": "Just coming into flower (early July); or late summer for drying",
     "reference_ids": [
-     "REF-1450",
-     "REF-1455"
+     "REF-4018",
+     "REF-3301"
     ],
     "status": "verified"
    },
@@ -41383,35 +41394,37 @@
     "Fruit"
    ],
    "botanical_description": {
-    "text": "Low, creeping, evergreen dwarf shrub (Ericaceae) with slender, wiry stems that root at the nodes. Leaves are tiny, alternate, leathery and ovate with in-rolled margins, dark green above and whitish beneath. Flowers are small, pink and four-petalled, sharply reflexed backward so that the protruding stamens and style resemble a crane's head and neck - the origin of the name 'craneberry', later shortened to 'cranberry'. The fruit is a small, round, tart red berry.",
-    "height": "Prostrate, mat-forming (stems trailing, rarely more than 10-20 cm above the moss)",
-    "habit": "Low, creeping, evergreen dwarf shrub",
-    "leaves": "Tiny, alternate, leathery, ovate, in-rolled margins, whitish beneath",
-    "flowers": "Small, pink, four-petalled, sharply reflexed (crane's-head shape)",
-    "stem": "Slender, wiry, trailing, rooting at the nodes",
-    "root": "Shallow fibrous roots adapted to waterlogged, acidic peat",
-    "fruit": "Small, round, tart red berry",
-    "flowering_period": "June-August",
+    "text": "A small, prostrate evergreen shrub with vine-like stems that root at the nodes and rise only a few centimetres. The leathery, lance-shaped leaves are up to 1.2 cm long. One to a few nodding pink to red flowers, each with four petals bent sharply backward away from the centre, grow on the short upright stems from June to August. The fruit is a pink or red berry up to 1.2 cm across, spotted when young, that can stay on the plant for about 200 days, often all winter without rotting.",
+    "height": "Prostrate; upright stems a few cm tall",
+    "habit": "Small, prostrate evergreen shrub",
+    "leaves": "Evergreen, leathery, lance-shaped, up to 1.2 cm long",
+    "flowers": "One to a few nodding pink to red flowers with four sharply reflexed petals",
+    "stem": "Vine-like, rooting at the nodes",
+    "fruit": "Pink or red berry up to 1.2 cm, spotted when young, long-persisting",
+    "flowering_period": "June to August",
     "reference_ids": [
-     "REF-0947"
+     "REF-4019",
+     "REF-3303"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to boggy, acidic wetlands - sphagnum bogs and marshes - across northern and central Europe and northern Asia, requiring waterlogged, nutrient-poor, acidic peat soils.",
+    "text": "Acid boggy land in cooler parts of the temperate Northern Hemisphere: Europe, including Britain, from Scandinavia south and east to France and Romania, and northern Asia to Japan.",
     "reference_ids": [
-     "REF-0947"
+     "REF-3303",
+     "REF-4019"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Berries are hand-picked or wet-harvested (traditionally by hand-raking the bog) in autumn once fully ripe and deep red.",
+    "text": "The berries are eaten raw or cooked; they often stay on the plant all winter without rotting, and the leaves are used to make a tea.",
     "parts": [
      "Fruit"
     ],
-    "season": "Autumn",
+    "season": "Once ripe; the berries persist through winter",
     "reference_ids": [
-     "REF-0947"
+     "REF-3303",
+     "REF-4019"
     ],
     "status": "verified"
    },
@@ -46235,24 +46248,23 @@
     "Root"
    ],
    "botanical_description": {
-    "text": "Low perennial herb (Primulaceae) forming a basal rosette of wrinkled, oval, softly hairy leaves that taper abruptly to a winged stalk. A single leafless flowering stem rises from the rosette bearing a one-sided umbel of small, fragrant, deep yellow, funnel-shaped flowers with orange spots at the throat, nodding on slender pedicels.",
-    "height": "Low rosette; flowering stem 10-25 cm",
-    "habit": "Low rosette-forming perennial herb",
-    "leaves": "Wrinkled, oval, softly hairy, tapering to a winged stalk",
-    "flowers": "Small, fragrant, deep yellow, funnel-shaped with orange throat spots, in a one-sided nodding umbel",
-    "stem": "Single, leafless flowering stem",
-    "root": "Short rhizome with fibrous roots",
-    "fruit": "Small capsule",
-    "flowering_period": "April-May",
+    "text": "A low perennial herb up to about 30 cm tall. Its leaves, like a primrose's but shorter and rounder, unroll in early spring and lie almost flat in a rosette. From the centre rises a long stalk topped by an umbel of flowers on separate short stalks. Each flower has its sepals joined into a pale green, crinkled bag, from which the yellow corolla emerges as a narrow tube opening into a golden disc with scalloped edges and five red spots. The roots and flowers smell faintly of anise. It flowers in April and May.",
+    "height": "Up to about 30 cm",
+    "habit": "Low perennial herb with a flat basal rosette",
+    "leaves": "Like a primrose leaf but shorter and rounder, in a flat rosette",
+    "flowers": "Umbel on a long stalk; crinkled pale green calyx; yellow tube opening to a golden disc with five red spots",
+    "stem": "Single long flowering stalk from the rosette",
+    "flowering_period": "April to May",
     "reference_ids": [
-     "REF-0879"
+     "REF-4016",
+     "REF-3315"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native across Europe and western Asia, growing in unimproved, species-rich grassland, meadows, pastures, open woodland and hedge banks on calcareous or well-drained soils.",
+    "text": "Grassy places, fields and woods on calcareous soils. Native to Europe, including Britain but not the far north, and to temperate Asia.",
     "reference_ids": [
-     "REF-0879"
+     "REF-3315"
     ],
     "status": "verified"
    },
@@ -54764,17 +54776,16 @@
     "status": "verified"
    },
    "harvesting": {
-    "text": "The flowering aerial parts (herb) - flowering tops, leaves and stems - are cut at the onset of flowering in late summer and dried. This dried flowering herb is the material recognised, together with Solidago gigantea, as goldenrod herb ('Solidaginis herba') in the European Pharmacopoeia.",
+    "text": "The plant is gathered in summer and dried for later use; the leaves and flowering tops are the parts used medicinally. Collected goldenrod herb (Solidaginis herba) of this species has been quality-tested to the German Pharmacopoeia.",
     "parts": [
      "Flower",
      "Leaf",
      "Stem"
     ],
-    "season": "Late summer, at flowering",
+    "season": "Summer",
     "reference_ids": [
-     "REF-3157",
-     "REF-3160",
-     "REF-3166"
+     "REF-3340",
+     "REF-3157"
     ],
     "status": "verified"
    },

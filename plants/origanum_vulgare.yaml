@@ -55,14 +55,15 @@ habitat:
   - REF-0485
   status: verified
 harvesting:
-  text: Aerial parts are cut at or just before flowering (mid- to late summer), when essential-oil (carvacrol/thymol)
-    content peaks, then dried quickly in the shade.
+  text: The herb is gathered when just coming into flower, in early July, and hung up to dry, for example
+    for marjoram tea; the whole plant (but not the roots) can also be cut in late summer to dry and store
+    for winter.
   parts:
   - Aerial parts (leaf, herb)
-  season: Mid- to late summer, at or just before flowering
+  season: Just coming into flower (early July); or late summer for drying
   reference_ids:
-  - REF-1450
-  - REF-1455
+  - REF-4018
+  - REF-3301
   status: verified
 harvest_readiness:
 - part: aerial-parts
@@ -267,4 +268,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal
   | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. Oregano ointment
   wound RCT REF-3718 added to wounds and infection. Notes rewritten (no "supports respiratory and
   gastrointestinal infections" claim without a source).
-  | 2026-11-19 (monograph-source audit): preparations[2] checked against REF-0597: rewritten to its figures; ''oral use of concentrated oil should be supervised'' removed (not stated by the source).'
+  | 2026-11-19 (monograph-source audit): preparations[2] checked against REF-0597: rewritten to its figures; ''oral use of concentrated oil should be supervised'' removed (not stated by the source).
+  | 2026-11-19 (monograph-source audit): harvesting cited only REF-1450/REF-1455 (chemotype lab studies). RE-SOURCED: Grieve Wild Marjoram (REF-4018, new) + PFAF REF-3301. Dropped as unsupported: when carvacrol/thymol content peaks, dried quickly in the shade.'

@@ -13,37 +13,41 @@ parts_used:
 - Leaf
 - Seed
 botanical_description:
-  text: Evergreen tree (Oleaceae), typically 3-15 m tall, often gnarled and long-lived, with some specimens
-    surviving for centuries. Leaves are narrow, leathery, lance-shaped, dark green above and silvery-grey
-    beneath. Small, fragrant, creamy-white four-lobed flowers are borne in axillary clusters, followed
-    by a fleshy drupe (the olive) that ripens from green to purple-black.
-  height: 3-15 m
-  habit: Evergreen tree, often gnarled and long-lived
-  leaves: Narrow, leathery, lance-shaped, dark green above, silvery-grey beneath
-  flowers: Small, fragrant, creamy-white, four-lobed, in axillary clusters
-  stem: Woody, often gnarled trunk
-  root: Extensive woody root system
-  fruit: Fleshy drupe (the olive), ripening from green to purple-black
-  flowering_period: Late spring to early summer (May-June)
+  text: A small evergreen tree, about 6 m or more tall, with pale grey bark and many thin branches with
+    opposite branchlets. The short-stalked, opposite leaves are lance-shaped, about 5.5 cm long, pointed,
+    smooth-edged, pale green above and silvery below. Numerous small creamy-white flowers open in spring,
+    usually from April to June in the Northern Hemisphere. The fruit, the olive, is an ovoid, often pointed
+    drupe about 2 cm long, ripening dark purple, its flesh full of oil around a thick, bony stone with
+    a single seed.
+  height: About 6 m or more
+  habit: Small evergreen tree
+  leaves: Opposite, short-stalked, lance-shaped, about 5.5 cm, pale green above, silvery below
+  flowers: Numerous, small, creamy-white
+  stem: Pale grey bark; many thin branches with opposite branchlets
+  fruit: Ovoid, often pointed drupe about 2 cm long, ripening dark purple, oily flesh, bony stone
+  flowering_period: Spring, usually April to June (Northern Hemisphere)
   reference_ids:
-  - REF-1437
+  - REF-4020
+  - REF-3299
   status: verified
 habitat:
-  text: Native to the Mediterranean basin, the Near East and parts of Africa, and cultivated for millennia
-    across Mediterranean-type climates worldwide (warm, dry summers and mild winters); tolerates poor,
-    rocky, calcareous soils and drought.
+  text: Woods and scrub in dry, rocky places. Olive trees are native to Africa, temperate Asia and Europe;
+    Grieve gives Asia Minor and Syria as the home of the cultivated tree, which is grown throughout the
+    Mediterranean and also in Chile, Peru and South Australia.
   reference_ids:
-  - REF-1437
+  - REF-3299
+  - REF-4020
   status: verified
 harvesting:
-  text: Leaves can be harvested year-round from pruned or fallen branches, generally at their highest
-    oleuropein content in late autumn and winter; fruit is hand- or machine-harvested from early autumn
-    (green olives) through winter (fully ripe black olives), depending on the intended product.
+  text: The fruit is harvested in autumn, from late September to November in the Northern Hemisphere,
+    depending on the variety and region. The leaves, the richest source of olive phenolic compounds, are
+    also used.
   parts:
   - Leaf
   - Fruit
-  season: Leaf year-round (peak late autumn/winter); fruit autumn to winter
+  season: Fruit late September to November (Northern Hemisphere)
   reference_ids:
+  - REF-3299
   - REF-1446
   status: verified
 harvest_readiness:
@@ -386,4 +390,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Pressure-ulcer MA REF-3692 to wounds; herpes labialis SR REF-3655 to infection. New pairs:
   oral-health (periodontal MA REF-3693), cognitive-function (EVOO MA REF-3694). Not used:
   olive-oil lipid MA 36408701 (trivial effects) - no cholesterol pair.
-  | 2026-11-19 (monograph-source audit): dosage[0] and preparations[1] checked against REF-2537/REF-1443/REF-1445 and rewritten to what they report. Dropped as unsupported: standardised for oleuropein, liquid extract, the form used in most trials, culinary oil and leaf tea food-safe.'
+  | 2026-11-19 (monograph-source audit): dosage[0] and preparations[1] checked against REF-2537/REF-1443/REF-1445 and rewritten to what they report. Dropped as unsupported: standardised for oleuropein, liquid extract, the form used in most trials, culinary oil and leaf tea food-safe.
+  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-1437 and harvesting only REF-1446 (lab and absorption studies). RE-SOURCED: Grieve Olive (REF-4020, new) + PFAF REF-3299; REF-1446 kept only for its statement that the leaves are the richest source of olive phenolics. Dropped as unsupported: 3-15 m, centuries-old specimens, fragrant four-lobed flowers in axillary clusters, green to purple-black, extensive root system, Near East and parts of Africa wording, calcareous soils and drought, leaves harvested year-round with oleuropein highest in late autumn and winter, machine harvesting, green olives from early autumn.'

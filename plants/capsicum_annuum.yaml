@@ -14,27 +14,25 @@ parts_used:
 - Fruit
 - Seed
 botanical_description:
-  text: Bushy annual or short-lived perennial herb (grown as an annual in temperate climates) with glossy,
-    oval to lance-shaped leaves. Small, star-shaped, white to greenish flowers give way to the characteristic
-    fleshy, hollow fruit (a berry), which ripens from green through yellow to red and varies enormously
-    in size, shape and pungency between cultivars.
-  height: 0.5-1.5 m
-  habit: Bushy annual or short-lived perennial herb
-  leaves: Glossy, oval to lance-shaped
-  flowers: Small, star-shaped, white to greenish, borne singly or in small clusters
-  stem: Branching, semi-woody at the base in older plants
-  root: Fibrous root system
-  fruit: Fleshy, hollow berry, ripening green to yellow/orange/red, containing numerous flat seeds
-  flowering_period: Summer, continuing until frost
+  text: 'A frost-tender herb that, despite its name annuum, is not truly annual: where there is no winter
+    frost it can live several seasons and grow into a large, shrubby perennial. The star- or bell-shaped
+    flowers are purple, white or green, usually with six or seven petals and sepals and seven stamens;
+    they are mostly self-pollinated. The fruits are berries of many shapes, from small and berry-like
+    to bell-shaped, and colours, including red, yellow, green and black; in many varieties capsaicinoids
+    make them pungent.'
+  habit: Frost-tender herb, perennial and shrubby where frost-free
+  flowers: Star- or bell-shaped, purple, white or green, six to seven petals, seven stamens
+  fruit: Berry of very variable shape and colour (red, yellow, green, black), often pungent
   reference_ids:
-  - REF-2142
+  - REF-4021
   status: verified
 habitat:
-  text: Native to Central and South America; cultivated worldwide in warm and temperate climates as a
-    food and medicinal crop, thriving in full sun on well-drained soil.
+  text: Native to the northern regions of South America and to south-western North America, and one of
+    the oldest cultivated crops, domesticated about 6,000 years ago in Mexico; it is now grown around
+    the world.
   reference_ids:
-  - REF-2142
-  status: draft
+  - REF-4021
+  status: verified
 harvesting:
   text: Fruit is picked at the desired stage of ripeness (green for milder use, fully red for maximum
     capsaicin and carotenoid content) through summer and autumn; seeds are separated and dried from fully
@@ -69,12 +67,14 @@ harvest_readiness:
   status: provisional
   notes: "The Herbal Medic (REF-3224); the seed is contained in the fruit, so it is gathered at fruit ripeness. Single source -> provisional."
 traditional_uses:
-  text: Chili pepper fruit has a long history across the Americas and, after global spread, in many other
-    traditional medicine systems as a warming digestive stimulant and topical counterirritant/analgesic
-    for muscle and joint pain, building on capsaicin's now well-documented ability to desensitise pain-sensing
-    nerve fibres with repeated application.
+  text: Chili pepper is one of the oldest cultivated crops of the Americas and spread around the world
+    after the Columbian exchange, when Europeans mistook its spicy fruits for a kind of black pepper,
+    hence the name pepper. Its pungency comes from capsaicinoids. The EU herbal monograph accepts well-established
+    use of chili extracts on the skin, as medicated plasters supplying a set dose of capsaicinoids, for
+    relief of muscle pain such as low back pain.
   reference_ids:
-  - REF-2142
+  - REF-4021
+  - REF-3090
   status: verified
 preparations:
 - name: Topical cream/ointment (capsaicin)
@@ -319,4 +319,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (REF-3490/3491; owner rule). Skin-irritation and wounds dropped: contradicted by the record''s
   own note (topical preparations may cause skin irritation; inv. 11). DOIs fixed: REF-0057
   (malformed), REF-0169 (dead; now PMID 10363839). Not used: Cochrane herbal low-back-pain
-  plasters (Capsicum frutescens, other species).'
+  plasters (Capsicum frutescens, other species).
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-2142 (lab study). RE-SOURCED: Wikipedia Capsicum annuum (REF-4021, new) + EU herbal monograph REF-3090 (C. annuum var. minimum; indication read from the PDF 2026-11-19). Grieve''s Capsicum page was NOT used: it describes C. minimum / C. fastigiatum. Dropped as unsupported: glossy oval leaves, 0.5-1.5 m, fibrous roots, semi-woody stem, flowering until frost, central America, full sun and well-drained soil, warming digestive stimulant, capsaicin desensitising pain fibres.'

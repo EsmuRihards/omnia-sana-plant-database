@@ -43,18 +43,17 @@ habitat:
   - REF-3175
   status: verified
 harvesting:
-  text: The flowering aerial parts (herb) - flowering tops, leaves and stems - are cut at the onset of flowering
-    in late summer and dried. This dried flowering herb is the material recognised, together with Solidago
-    gigantea, as goldenrod herb ('Solidaginis herba') in the European Pharmacopoeia.
+  text: The plant is gathered in summer and dried for later use; the leaves and flowering tops are the
+    parts used medicinally. Collected goldenrod herb (Solidaginis herba) of this species has been quality-tested
+    to the German Pharmacopoeia.
   parts:
   - Flower
   - Leaf
   - Stem
-  season: Late summer, at flowering
+  season: Summer
   reference_ids:
+  - REF-3340
   - REF-3157
-  - REF-3160
-  - REF-3166
   status: verified
 harvest_readiness:
 - part: flower
@@ -411,4 +410,5 @@ internal_notes: 'New record created 2026-08-04 (Canadian goldenrod campaign). Sp
   pathogens REF-3170 removed from infection. Haudenosaunee screen REF-3180 removed from uti
   (tested E. coli/Salmonella/S. aureus, not urinary infection). Cell-line and enzyme studies on
   cancer, and LPS/colitis and aquaretic studies on arthritis/swelling, moved to mechanistic (they
-  never name those symptoms). Empty notes filled. REF-3174 retagged narrative-review.'
+  never name those symptoms). Empty notes filled. REF-3174 retagged narrative-review.
+  | 2026-11-19 (monograph-source audit): harvesting cited only REF-3157 (HPLC study) for ''cut at the onset of flowering in late summer'' and ''recognised with S. gigantea as goldenrod herb in the European Pharmacopoeia''. REF-3157 states neither (it tested collected Solidaginis herba to the German Pharmacopoeia). Now PFAF REF-3340 (gathered in summer, dried; leaves and flowering tops used) with REF-3157 kept for what it states.'

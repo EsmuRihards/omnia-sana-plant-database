@@ -13,27 +13,35 @@ parts_used:
 - Seed
 - Stem
 botanical_description:
-  text: Aromatic annual herb with a slender, hollow, ridged, blue-green stem. The leaves are finely divided
-    into thread-like segments, feathery and soft, similar to fennel but more delicate. Small yellow flowers
-    are borne in flat, wide compound umbels at the stem tips in summer, ripening into flattened, ridged,
-    aromatic seeds (fruits).
+  text: An aromatic annual (sometimes biennial) herb, 40-120 cm tall, much like a smaller fennel, usually
+    with a single erect, smooth, shiny, hollow stem that branches above, and a long, spindle-shaped root.
+    The blue-green, feathery leaves are finely divided (tripinnate) into thread-like segments on sheathing
+    stalks. In midsummer flat umbels of 15-30 rays carry numerous small yellow flowers with inrolled petals,
+    without bracts. The fruits (the 'seeds') are deep brown, flattened and oval, with sharp-edged ribs
+    on the back.
   height: 40-120 cm
-  habit: Erect, aromatic annual herb
-  leaves: Finely divided into thread-like, feathery segments
-  flowers: Small yellow flowers in flat, wide compound umbels
-  stem: Slender, hollow, ridged, blue-green, unspotted
-  root: Slender taproot
-  fruit: Small, flattened, ridged, aromatic seed (mericarp)
-  flowering_period: June-August
+  habit: Aromatic, erect annual (sometimes biennial) herb
+  leaves: Blue-green, feathery, tripinnate with thread-like segments, on sheathing stalks
+  flowers: Small yellow flowers with inrolled petals in flat umbels of 15-30 rays, without bracts
+  stem: Usually single, erect, smooth, shiny, hollow, branching above
+  root: Long, spindle-shaped, annual
+  fruit: Deep brown, flattened, oval fruit with sharp-edged back ribs
+  flowering_period: Midsummer
   reference_ids:
-  - REF-1388
+  - REF-3094
+  - REF-4012
+  - REF-3200
   status: verified
 habitat:
-  text: Believed native to the eastern Mediterranean, Western Asia and southern Russia; widely cultivated
-    as a culinary and medicinal herb in gardens and fields across Europe, Asia and the Americas.
+  text: 'Its origin is uncertain: WHO calls it indigenous to southern Europe, Grieve a native of the Mediterranean
+    region and southern Russia, and Fern suggests it probably came from southern Asia. It grows wild among
+    corn in Spain and Portugal and on the coast of Italy, in fields and waste places of the Mediterranean,
+    and is cultivated widely throughout the world, often becoming naturalised.'
   reference_ids:
-  - REF-1388
-  status: draft
+  - REF-3094
+  - REF-4012
+  - REF-3200
+  status: verified
 harvesting:
   text: Leaves are picked fresh through the growing season; the seeds are harvested in late summer once
     the umbels have browned and dried, then threshed and dried further before storage.
@@ -80,11 +88,15 @@ harvest_readiness:
   status: provisional
   notes: "University of Wisconsin Extension (REF-3201). Single source -> provisional."
 traditional_uses:
-  text: Dill seed and leaf have a long culinary-medicinal history as a carminative digestive remedy for
-    colic, dyspepsia and flatulence, and as a traditional lactagogue (galactagogue) to support breastfeeding;
-    dill water ('gripe water') is a classic infant remedy for colic.
+  text: Dill fruit and its oil are stimulant, aromatic, carminative and stomachic, and Dill Water is a
+    common domestic remedy for wind in infants and a vehicle for children's medicines. Pharmacopoeias
+    describe the fruit for indigestion, gastritis, flatulence and stomach ache; traditional medicine also
+    used it to stimulate milk flow and appetite, for diarrhoea, painful periods, insomnia and kidney stones,
+    among other uses. The young leaves flavour soups, sauces, fish and pickled cucumbers, and the seeds
+    make dill vinegar.
   reference_ids:
-  - REF-1388
+  - REF-4012
+  - REF-3094
   status: verified
 preparations:
 - name: Infusion (seed)
@@ -401,4 +413,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   anxiety pair from labour-anxiety RCT REF-3438. Wounds dropped: its only card was an
   antimycobacterial lab screen (off-target, inv. 11). Notes rewritten to the WHO monograph
   wording. Not added: Apiaceae dysmenorrhoea MA 41653970 (no dill-specific result in the
-  abstract).'
+  abstract).
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-1388 (metabolomics lab study). RE-SOURCED: WHO Fructus Anethi REF-3094, Grieve Dill (REF-4012, new), Useful Tropical Plants REF-3200. The three sources disagree on dill''s origin; all three are stated. Dropped as unsupported: ridged blue-green stem, unspotted, slender taproot, June-August, western Asia, gripe water by name.'

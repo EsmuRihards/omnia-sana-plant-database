@@ -34,14 +34,16 @@ habitat:
   - REF-1228
   status: verified
 harvesting:
-  text: The aerial flowering parts are cut just before or at flowering (summer), when essential-oil content
-    is highest, and dried quickly in a warm, shaded, well-ventilated place.
+  text: The plant is harvested as flowering begins, in July, and used fresh or dried; the leaves are best
+    in late spring to summer, just before the plant flowers. In commercial cultivation the stems are cut
+    about 10 cm above the ground and dried, and the leaves are then beaten off the stems.
   parts:
   - Leaf
   - Flower
-  season: Summer, just before or at flowering
+  season: As flowering begins (July); leaves best just before flowering
   reference_ids:
-  - REF-1231
+  - REF-3304
+  - REF-4017
   status: verified
 harvest_readiness:
 - part: flower
@@ -302,4 +304,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   review; carvacrol is oregano''s signature compound, not marjoram''s) removed from all six
   actions, kept in references, retagged narrative-review. Muscle-spasm dropped (gut
   calcium-channel study; off-target). Not used: PCOS tea RCT REF-1227 (no matching condition);
-  aromatherapy blend for dysmenorrhoea 22435409 (combination).'
+  aromatherapy blend for dysmenorrhoea 22435409 (combination).
+  | 2026-11-19 (monograph-source audit): harvesting cited only REF-1231 (lab study). RE-SOURCED: PFAF REF-3304 + Grieve Sweet Marjoram (REF-4017, new). Dropped as unsupported: cut when essential-oil content is highest, dried quickly in a warm shaded well-ventilated place.'

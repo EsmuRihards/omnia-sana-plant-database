@@ -15,27 +15,28 @@ parts_used:
 - Rhizome
 - Root
 botanical_description:
-  text: Low perennial herb (Primulaceae) forming a basal rosette of wrinkled, oval, softly hairy leaves
-    that taper abruptly to a winged stalk. A single leafless flowering stem rises from the rosette bearing
-    a one-sided umbel of small, fragrant, deep yellow, funnel-shaped flowers with orange spots at the
-    throat, nodding on slender pedicels.
-  height: Low rosette; flowering stem 10-25 cm
-  habit: Low rosette-forming perennial herb
-  leaves: Wrinkled, oval, softly hairy, tapering to a winged stalk
-  flowers: Small, fragrant, deep yellow, funnel-shaped with orange throat spots, in a one-sided nodding
-    umbel
-  stem: Single, leafless flowering stem
-  root: Short rhizome with fibrous roots
-  fruit: Small capsule
-  flowering_period: April-May
+  text: A low perennial herb up to about 30 cm tall. Its leaves, like a primrose's but shorter and rounder,
+    unroll in early spring and lie almost flat in a rosette. From the centre rises a long stalk topped
+    by an umbel of flowers on separate short stalks. Each flower has its sepals joined into a pale green,
+    crinkled bag, from which the yellow corolla emerges as a narrow tube opening into a golden disc with
+    scalloped edges and five red spots. The roots and flowers smell faintly of anise. It flowers in April
+    and May.
+  height: Up to about 30 cm
+  habit: Low perennial herb with a flat basal rosette
+  leaves: Like a primrose leaf but shorter and rounder, in a flat rosette
+  flowers: Umbel on a long stalk; crinkled pale green calyx; yellow tube opening to a golden disc with
+    five red spots
+  stem: Single long flowering stalk from the rosette
+  flowering_period: April to May
   reference_ids:
-  - REF-0879
+  - REF-4016
+  - REF-3315
   status: verified
 habitat:
-  text: Native across Europe and western Asia, growing in unimproved, species-rich grassland, meadows,
-    pastures, open woodland and hedge banks on calcareous or well-drained soils.
+  text: Grassy places, fields and woods on calcareous soils. Native to Europe, including Britain but not
+    the far north, and to temperate Asia.
   reference_ids:
-  - REF-0879
+  - REF-3315
   status: verified
 harvesting:
   text: Flowers are picked in spring as they open; the root/rhizome is dug in autumn.
@@ -232,4 +233,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ivy/primrose/thyme combination product; "studies on primrose were lacking") removed.
   Respiratory-support rests on the EU monograph REF-0075 (expectorant in cough associated with
   cold; EMA 429, flagged). Gap for owner: no cough pair and no expectorant action, though EMA and
-  ESCOP (2021) both name cough with colds.'
+  ESCOP (2021) both name cough with colds.
+  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-0879 (lab study). RE-SOURCED: Grieve Cowslip (REF-4016, new) + PFAF REF-3315. Dropped as unsupported: wrinkled softly hairy leaves tapering to a winged stalk, one-sided nodding umbel, funnel-shaped flowers with orange throat spots, short rhizome, capsule, western Asia, unimproved species-rich grassland, hedge banks.'

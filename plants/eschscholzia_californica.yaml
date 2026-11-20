@@ -24,36 +24,38 @@ constituents:
   - REF-2307
   - REF-2316
 botanical_description:
-  text: Herbaceous perennial (often grown as an annual) with delicate, finely divided, blue-green feathery
-    foliage. Solitary, cup-shaped, four-petalled flowers in vivid orange to yellow arise on long stalks,
-    opening in full sun and closing at night or in dull weather, followed by a long, slender, ridged seed
-    capsule that splits explosively when ripe.
-  height: 20-60 cm
-  habit: Herbaceous perennial, often grown as an annual
-  leaves: Finely divided, blue-green, feathery
-  flowers: Solitary, cup-shaped, four-petalled, vivid orange to yellow, opening in sun and closing at
-    night
-  stem: Slender, branching, blue-green
-  root: Deep taproot
-  fruit: Long, slender, ridged seed capsule, dehiscing explosively when ripe
-  flowering_period: Spring to autumn
+  text: A short-lived perennial or annual, usually 5-50 cm tall, with alternately branching, blue-green
+    (glaucous) foliage; the leaves are divided into rounded, lobed segments. The silky flowers grow singly
+    on long stems and have four petals, each 2-6 cm long, in yellow, orange or red; they close at night
+    and in cold, windy or cloudy weather. The fruit is a slender capsule 3-9 cm long that splits in two,
+    sometimes explosively with an audible snap, releasing many small black or dark brown seeds.
+  height: 5-50 cm
+  habit: Short-lived perennial or annual
+  leaves: Blue-green, alternately divided into rounded, lobed segments
+  flowers: Solitary on long stems; four silky petals 2-6 cm, yellow, orange or red; close at night and
+    in dull weather
+  stem: Alternately branching, blue-green
+  fruit: Slender capsule 3-9 cm that splits, sometimes explosively; small black or dark brown seeds
+  flowering_period: February to September (July to September in Britain)
   reference_ids:
-  - REF-0427
+  - REF-4023
+  - REF-3254
   status: verified
 habitat:
-  text: Native to open grassland, coastal scrub and disturbed ground of California and neighbouring states;
-    widely cultivated and naturalised elsewhere as a garden ornamental.
+  text: Native to the western United States and north-western Mexico, from Washington to California and
+    Nevada, in open grassland, on hillsides, in deserts, fields and disturbed ground. It is widely cultivated
+    and naturalised elsewhere, and is a frequent garden escape in Britain.
   reference_ids:
-  - REF-0427
+  - REF-3254
+  - REF-4023
   status: verified
 harvesting:
-  text: The flowering aerial parts are cut in summer while in flower, and dried in a warm, shaded, airy
-    place.
+  text: The whole plant is harvested when in flower and dried for use in tinctures and infusions.
   parts:
   - Aerial parts (flowering herb)
-  season: Summer, at flowering
+  season: When in flower
   reference_ids:
-  - REF-0427
+  - REF-3254
   status: verified
 harvest_readiness:
 - part: aerial-parts
@@ -68,12 +70,15 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3254); the whole plant is gathered when in flower (in flower July-September). Single lineage -> provisional."
 traditional_uses:
-  text: California poppy has a Native American traditional reputation as a mild calming and pain-relieving
-    remedy, used for insomnia, nervous tension and mild pain; unlike the related opium poppy it is non-addictive
-    and its calming effects are now attributed to GABA-A receptor modulation, supporting its traditional
-    anxiolytic and sedative use.
+  text: California poppy was used as a traditional medicine by indigenous peoples of California, including
+    the Tongva, Cahuilla, Ohlone, Luiseno and Pomo. It is a bitter sedative herb, also described as diuretic,
+    pain-relieving, antispasmodic and promoting sweating, taken internally for nervous tension, anxiety,
+    insomnia and incontinence, especially in children. The EU herbal monograph accepts traditional use
+    for relief of mild symptoms of mental stress and to aid sleep.
   reference_ids:
-  - REF-0427
+  - REF-4023
+  - REF-3254
+  - REF-3099
   status: verified
 preparations:
 - name: Infusion
@@ -260,4 +265,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor
   | 2026-11-10: symptom-source audit batch 7 notes - indication notes rewritten so they describe
   only the sources still cited (batch 6-7 follow-up).
   | 2026-11-12: symptom-source audit deep re-sweep batch 7 - Deep re-sweep. Pain note rewritten to
-  its lab sources. No single-herb trials on PubMed (only the excluded combination product).'
+  its lab sources. No single-herb trials on PubMed (only the excluded combination product).
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-0427 (receptor lab study). RE-SOURCED: Wikipedia (REF-4023, new), PFAF REF-3254, EU herbal monograph REF-3099 (indications read from the PDF). Dropped as unsupported: 20-60 cm, deep taproot, cup-shaped, spring to autumn, coastal scrub, dried in a warm airy place, non-addictive unlike opium poppy, GABA-A receptor modulation as the basis of the traditional use.'

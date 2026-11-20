@@ -13,20 +13,18 @@ parts_used:
 - Mycelium
 - Whole Plant
 botanical_description:
-  text: Bracket (shelf) fungus (not a true plant) that grows on the trunks and stumps of deciduous trees.
-    It develops a hard, kidney- or fan-shaped cap with a glossy, varnished, red-brown to mahogany crust
-    and concentric growth rings, often on a lateral woody stalk; the pale underside is covered in fine
-    pores that release rusty-brown spores. The mycelium spreads through the wood substrate before fruiting.
-  height: Cap 5-20 cm across
-  habit: Perennial wood-decay bracket fungus
+  text: 'A polypore (bracket) fungus native to East Asia, not a plant. Its reddish-brown, varnished, kidney-shaped
+    cap, marked with bands and attached to a stem at its edge, gives it a fan-like look; when fresh it
+    is soft, cork-like and flat. It has no gills: its spores are released through fine yellow pores on
+    the underside, and the spore print is brown. Depending on growing conditions it can also grow antler-like,
+    without a cap.'
+  habit: Polypore (bracket) fungus
   leaves: Not applicable (fungus)
   flowers: Not applicable (fungus); reproduces by spores
-  stem: Hard, glossy, varnished kidney- or fan-shaped cap, often on a lateral stalk
-  root: Mycelium spreading through the wood substrate
-  fruit: Pale, finely pored underside releasing rusty-brown spores
-  flowering_period: Fruiting body develops over weeks to months on the host wood
+  stem: Stem attached at the edge of a reddish-brown, varnished, kidney-shaped, banded cap
+  fruit: No gills; fine yellow pores underneath release the spores; brown spore print
   reference_ids:
-  - REF-0821
+  - REF-4024
   status: verified
 habitat:
   text: Grows as a wood-decay fungus on the stumps and trunks of deciduous trees (notably maple and other
@@ -342,4 +340,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Cochrane 2015 REF-3559 (does not support G. lucidum for cardiovascular risk factors in type 2
   diabetes) recorded as no-effect for blood-sugar and metabolic-support. New pairs (owner rule):
   fatigue (Ganopoly neurasthenia RCT REF-3560; cancer-fatigue pilot REF-3561), stress (RCT
-  REF-3562). "Ganoderma lucidum" literature counts for G. lingzhi (inv. 11).'
+  REF-3562). "Ganoderma lucidum" literature counts for G. lingzhi (inv. 11).
+  | 2026-11-19 (monograph-source audit): botanical_description cited only REF-0821 (lab study). RE-SOURCED: Wikipedia ''Lingzhi (mushroom)'' (REF-4024, new). Dropped as unsupported: cap 5-20 cm, pale underside, rusty-brown spores (Wikipedia: yellow pores, brown spore print), mycelium spreading through the wood before fruiting, fruiting over weeks to months. TAXONOMY NOTE for the owner: Wikipedia now treats G. lingzhi as a synonym of Ganoderma sichuanense; the record''s binomial was not changed.'

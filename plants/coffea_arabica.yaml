@@ -11,19 +11,19 @@ external_ids:
 parts_used:
 - Seed
 botanical_description:
-  text: Evergreen shrub or small tree with glossy, dark green, oval leaves in opposite pairs. Small, fragrant,
-    white, star-shaped flowers cluster along the branches, followed by clusters of green berries ('cherries')
-    that ripen to red and each contain two flattened seeds - the coffee beans.
-  height: Up to 5-10 m in the wild (kept pruned to 2-3 m under cultivation)
-  habit: Evergreen shrub or small tree, usually pruned lower in cultivation
-  leaves: Glossy, dark green, oval, in opposite pairs
-  flowers: Small, fragrant, white, star-shaped, clustered along the branches
-  stem: Woody, branching
-  root: Deep taproot with fibrous lateral roots
-  fruit: Fleshy berry ('cherry') ripening green to red, containing two flattened seeds (coffee beans)
-  flowering_period: Varies with climate; often after the rainy season
+  text: An evergreen shrub or small tree; wild plants grow 9-12 m tall with an open branching system.
+    The leaves are opposite, simple, elliptic-ovate to oblong, 6-12 cm long and 4-8 cm broad, glossy dark
+    green with prominent veins and wavy margins. White flowers, 10-15 mm across, grow in clusters of two
+    to nine in the leaf axils. The fruit is a drupe (the coffee 'cherry') 10-15 mm across, ripening bright
+    red to purple and usually holding two seeds, the coffee beans.
+  height: 9-12 m in the wild
+  habit: Evergreen shrub or small tree with an open branching system
+  leaves: Opposite, elliptic-ovate to oblong, 6-12 x 4-8 cm, glossy dark green, prominent veins, wavy
+    margins
+  flowers: White, 10-15 mm across, in axillary clusters of two to nine
+  fruit: Drupe ('cherry') 10-15 mm, ripening bright red to purple, usually with two seeds
   reference_ids:
-  - REF-2379
+  - REF-3235
   status: verified
 habitat:
   text: Native to the highland forests of Ethiopia and South Sudan; cultivated across the tropical highland
@@ -48,11 +48,14 @@ harvest_readiness:
   status: provisional
   notes: "Wikipedia, Coffea arabica (REF-3235); the ripe drupe matures 'bright red to purple' and is then ready for picking, the seed being the coffee bean inside. Single source -> provisional."
 traditional_uses:
-  text: Coffee has a centuries-long tradition, originating in Ethiopia and spreading through the Arab
-    world and beyond, as a stimulant beverage taken for alertness and to counter fatigue; its seed and
-    leaf extracts have more recently been studied for antioxidant, metabolic and neuroprotective properties.
+  text: The first written record of coffee brewed from roasted beans comes from Arab scholars, who wrote
+    that it helped them work longer hours; Yemen and southern Ethiopia were probably the first places
+    the beans were cultivated, and the Yemeni drink spread to the Hejaz, Egypt and Turkey and then around
+    the world. Coffee is an active brain stimulant that causes sleeplessness, and was formerly used against
+    narcotic poisoning; the Malays infused the leaves, which contain even more caffeine than the berries.
   reference_ids:
-  - REF-2379
+  - REF-3235
+  - REF-4022
   status: verified
 preparations:
 - name: Roasted, brewed (culinary/traditional)
@@ -244,4 +247,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ICO trade report REF-0121, ISSN sport position stand REF-0096 (kept in references), a cirrhosis
   MA REF-0135, a CVD cohort MA REF-0059 and MedlinePlus caffeine REF-0178 - removed. New pairs
   (owner rule): liver-support from REF-0135 (cirrhosis MA), blood-sugar from Ding 2014 MA REF-3524
-  (observational association, labelled).'
+  (observational association, labelled).
+  | 2026-11-19 (monograph-source audit): botanical_description and traditional_uses cited only REF-2379 (leaf-extract lab study). RE-SOURCED: Wikipedia REF-3235 (Description, History) + Grieve Coffee (REF-4022, new). Dropped as unsupported: fragrant star-shaped flowers, deep taproot, kept pruned to 2-3 m, flowering after the rainy season, Ethiopia-to-Arab-world wording beyond what the sources state, recent antioxidant/metabolic/neuroprotective studies (not a traditional use).'

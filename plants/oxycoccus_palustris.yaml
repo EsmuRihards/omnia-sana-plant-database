@@ -12,36 +12,38 @@ external_ids:
 parts_used:
 - Fruit
 botanical_description:
-  text: Low, creeping, evergreen dwarf shrub (Ericaceae) with slender, wiry stems that root at the nodes.
-    Leaves are tiny, alternate, leathery and ovate with in-rolled margins, dark green above and whitish
-    beneath. Flowers are small, pink and four-petalled, sharply reflexed backward so that the protruding
-    stamens and style resemble a crane's head and neck - the origin of the name 'craneberry', later shortened
-    to 'cranberry'. The fruit is a small, round, tart red berry.
-  height: Prostrate, mat-forming (stems trailing, rarely more than 10-20 cm above the moss)
-  habit: Low, creeping, evergreen dwarf shrub
-  leaves: Tiny, alternate, leathery, ovate, in-rolled margins, whitish beneath
-  flowers: Small, pink, four-petalled, sharply reflexed (crane's-head shape)
-  stem: Slender, wiry, trailing, rooting at the nodes
-  root: Shallow fibrous roots adapted to waterlogged, acidic peat
-  fruit: Small, round, tart red berry
-  flowering_period: June-August
+  text: A small, prostrate evergreen shrub with vine-like stems that root at the nodes and rise only a
+    few centimetres. The leathery, lance-shaped leaves are up to 1.2 cm long. One to a few nodding pink
+    to red flowers, each with four petals bent sharply backward away from the centre, grow on the short
+    upright stems from June to August. The fruit is a pink or red berry up to 1.2 cm across, spotted when
+    young, that can stay on the plant for about 200 days, often all winter without rotting.
+  height: Prostrate; upright stems a few cm tall
+  habit: Small, prostrate evergreen shrub
+  leaves: Evergreen, leathery, lance-shaped, up to 1.2 cm long
+  flowers: One to a few nodding pink to red flowers with four sharply reflexed petals
+  stem: Vine-like, rooting at the nodes
+  fruit: Pink or red berry up to 1.2 cm, spotted when young, long-persisting
+  flowering_period: June to August
   reference_ids:
-  - REF-0947
+  - REF-4019
+  - REF-3303
   status: verified
 habitat:
-  text: Native to boggy, acidic wetlands - sphagnum bogs and marshes - across northern and central Europe
-    and northern Asia, requiring waterlogged, nutrient-poor, acidic peat soils.
+  text: 'Acid boggy land in cooler parts of the temperate Northern Hemisphere: Europe, including Britain,
+    from Scandinavia south and east to France and Romania, and northern Asia to Japan.'
   reference_ids:
-  - REF-0947
+  - REF-3303
+  - REF-4019
   status: verified
 harvesting:
-  text: Berries are hand-picked or wet-harvested (traditionally by hand-raking the bog) in autumn once
-    fully ripe and deep red.
+  text: The berries are eaten raw or cooked; they often stay on the plant all winter without rotting,
+    and the leaves are used to make a tea.
   parts:
   - Fruit
-  season: Autumn
+  season: Once ripe; the berries persist through winter
   reference_ids:
-  - REF-0947
+  - REF-3303
+  - REF-4019
   status: verified
 harvest_readiness:
 - part: fruit
@@ -235,4 +237,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   protection, antibacterial) remains; retagged.
   | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. Notes rewritten. The
   large cranberry literature on PubMed is American cranberry (Vaccinium macrocarpon) - a different
-  species, not used here (inv. 10).'
+  species, not used here (inv. 10).
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and harvesting cited only REF-0947 (lab study). RE-SOURCED: Wikipedia Vaccinium oxycoccos (REF-4019, new) + PFAF REF-3303. Dropped as unsupported: in-rolled leaf margins, whitish beneath, the ''craneberry'' name derivation (not in the sources read), shallow fibrous roots, sphagnum bogs and nutrient-poor peat wording, central Europe, hand-picked or wet-harvested by raking in autumn.'

@@ -13,20 +13,23 @@ parts_used:
 - Root
 - Seed
 botanical_description:
-  text: Biennial (occasionally annual) herb with finely divided, feathery, carrot-like leaves similar
-    to those of other Apiaceae. In its second year it sends up a branched, grooved, hollow flowering stem
-    topped with flat compound umbels of small white or pinkish flowers, followed by the characteristic
-    curved, ridged, strongly aromatic seeds (the familiar rye-bread spice).
-  height: 30-60 cm
-  habit: Biennial herb, low rosette in year one, branched flowering stem in year two
-  leaves: Finely divided, feathery, carrot-like
-  flowers: Small white or pinkish flowers in flat compound umbels
-  stem: Branched, grooved, hollow, plain green (unspotted)
-  root: Slender, edible taproot
-  fruit: Curved, ridged, strongly aromatic seed (mericarp)
-  flowering_period: June-July (second year)
+  text: 'A biennial herb that sends up a single stem (occasionally two to eight) from a cylindrical taproot
+    up to 25 cm long; the smooth, furrowed stems grow 15-70 cm tall, occasionally 150 cm. The leaves are
+    finely cut. Umbels of white flowers open in June, and the fruits (the ''seeds'') ripen about August:
+    they are slightly curved, flattened from the sides, somewhat horny and translucent, with five pale
+    ridges, and smell pleasantly aromatic when bruised. The root is thick and tapering like a small parsnip,
+    and edible.'
+  height: 15-70 cm (occasionally to 150 cm)
+  habit: Biennial herb with a single stem from a taproot
+  leaves: Finely cut
+  flowers: White, in umbels
+  stem: Smooth, furrowed; usually single
+  root: Thick, tapering, parsnip-like taproot up to 25 cm, edible
+  fruit: Slightly curved, laterally flattened, horny, five pale ridges, aromatic
+  flowering_period: June; fruits ripen about August
   reference_ids:
-  - REF-1977
+  - REF-3225
+  - REF-4013
   status: verified
 habitat:
   text: Grows in meadows, grassy roadsides and waste ground on well-drained soils; native to Europe and
@@ -78,11 +81,16 @@ harvest_readiness:
   status: provisional
   notes: "University of Illinois Extension herb guide (REF-3373) gives youth of the plant as the root-readiness stage, and the same page places seed in 'the second season after planting'. Single lineage -> provisional. SAFETY: confirm identity against poison hemlock (Conium maculatum) before digging any Apiaceae root - see Dangerous Lookalikes."
 traditional_uses:
-  text: Caraway seed is one of the classic Apiaceae carminative digestive spices, used traditionally for
-    indigestion, bloating, flatulence and poor appetite, and, per the EU herbal monograph, for symptomatic
-    relief of mild digestive complaints and bloating.
+  text: 'Caraway has been used since ancient times; its use is thought to have begun with the ancient
+    Arabs, whose name for the seeds, karawya, gave the word caraway, and its young roots were eaten like
+    parsnips. The fruit and oil are aromatic, stimulant and carminative: caraway was widely given as a
+    carminative cordial and for indigestion and flatulent indigestion, and later mainly to flavour other
+    medicines. The EU herbal monograph accepts traditional use for the symptomatic relief of digestive
+    disorders such as bloating and flatulence.'
   reference_ids:
-  - REF-1977
+  - REF-4013
+  - REF-3225
+  - REF-0078
   status: verified
 preparations:
 - name: Infusion (seed)
@@ -292,4 +300,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 4 - Deep re-sweep. New ibs pair from
   caraway-oil poultice RCT REF-3492 (owner rule; authors note heat may contribute). EU monograph
   REF-0078 removed from the antimicrobial and appetite-stimulant actions (it covers
-  bloating/flatulence only). Menthacarin (peppermint + caraway) trials not used (combination).'
+  bloating/flatulence only). Menthacarin (peppermint + caraway) trials not used (combination).
+  | 2026-11-19 (monograph-source audit): botanical_description and traditional_uses cited only REF-1977 (rat colitis study). RE-SOURCED: Grieve Caraway (REF-4013, new), Useful Temperate Plants REF-3225, EU herbal monograph REF-0078 (indication read from the EMA PDF 2026-11-19). Dropped as unsupported: occasionally annual, carrot-like leaves, pinkish flowers, hollow unspotted stem, June-July of the second year, poor appetite, rye-bread spice.'

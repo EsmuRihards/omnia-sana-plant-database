@@ -36,25 +36,32 @@ constituents:
   - REF-0528
   - REF-2281
 botanical_description:
-  text: Twining, herbaceous perennial vine with heart-shaped leaves arising from a knotty, woody, cinnamon-brown
-    rhizome ('root'). Small, inconspicuous greenish-yellow flowers are borne on separate male and female
-    plants, followed on female plants by small three-winged seed capsules.
-  height: Vine to several metres, twining over support
-  habit: Twining, herbaceous perennial vine
-  leaves: Heart-shaped, alternate
-  flowers: Small, inconspicuous, greenish-yellow, on separate male and female plants
-  stem: Slender, twining
-  root: Knotty, woody, cinnamon-brown rhizome
-  fruit: Small three-winged seed capsule (female plants)
-  flowering_period: Summer
+  text: A perennial twining vine climbing to about 3 m, with long, knotty, matted, twisted, woody rootstocks.
+    The heart-shaped leaves usually grow in whorls of four at each node, sometimes up to nine. Male and
+    female flowers grow on separate plants; they are tiny, green to brown or white, with petals 0.5-2
+    mm long, arising from the leaf axils. The fruit is a capsule 10-30 mm long that splits to release
+    the seeds.
+  height: Twining to about 3 m
+  habit: Perennial twining vine; male and female flowers on separate plants
+  leaves: Heart-shaped, usually in whorls of four (up to nine) at each node
+  flowers: Tiny, green to brown or white, petals 0.5-2 mm, from the leaf axils
+  stem: Twining
+  root: Long, knotty, matted, twisted, woody rootstock
+  fruit: Capsule 10-30 mm long that splits to release the seeds
   reference_ids:
-  - REF-0528
+  - REF-4014
+  - REF-4015
+  - REF-3246
   status: verified
 habitat:
-  text: Native to woodland edges, thickets and fence rows of eastern North America, growing over shrubs
-    and fences in moist, rich soil.
+  text: Native to eastern North America, common and widespread from Texas and Florida north to Minnesota,
+    Ontario and Massachusetts. It grows from sea level to 1,500 m on the borders of bogs, swamps and marshes,
+    river and lake margins and creek bottoms, in moist or dry woods and thickets, on limestone or rocky
+    slopes and along roadsides.
   reference_ids:
-  - REF-0528
+  - REF-4015
+  - REF-3246
+  - REF-4014
   status: verified
 harvesting:
   text: The knotty rhizome is dug in autumn once the aerial vine has died back, then cleaned and dried.
@@ -75,12 +82,18 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3246); the rhizome is dug in autumn (flowering September-October, so harvest follows as the vine dies back). Independent confirmation not found (theferns is the same Ken Fern lineage). Single lineage -> provisional."
 traditional_uses:
-  text: Wild yam root has a Native American and Eclectic-medicine history as an antispasmodic remedy for
-    colic, menstrual cramps and rheumatic joint pain (reflected in the old names 'colic root' and 'rheumatism
-    root'); despite a persistent modern myth, its diosgenin content is not converted into progesterone
-    or other hormones in the human body.
+  text: The common names colic root and rheumatism root reflect wild yam's use in Native American and
+    other traditional medicine. It was valued as an antispasmodic, described as perhaps the best and quickest
+    relief for bilious colic and especially helpful for nausea in pregnancy, and used for cramps, neuralgia,
+    spasmodic hiccough and asthma, and for arthritis, gallbladder complaints and painful periods. Diosgenin
+    from wild yam is used industrially to make progesterone and other steroid drugs, but diosgenin itself
+    is not a phytoestrogen, and in a placebo-controlled trial a wild yam cream changed neither menopausal
+    symptoms nor blood levels of oestradiol or progesterone.
   reference_ids:
-  - REF-0528
+  - REF-4015
+  - REF-4014
+  - REF-3246
+  - REF-0614
   status: verified
 preparations:
 - name: Decoction
@@ -217,4 +230,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   for arthritis, pain, inflammation; removed from back-pain, headache, skin-irritation.
   | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. REF-0528 removed from
   the antispasmodic action (measured pain and inflammation only). Notes rewritten.
-  | 2026-11-19 (monograph-source audit): preparations[2] checked against REF-0614 (crossover RCT of wild yam cream): rewritten to the trial result. Dropped: root extract and historically marketed (not in the abstract).'
+  | 2026-11-19 (monograph-source audit): preparations[2] checked against REF-0614 (crossover RCT of wild yam cream): rewritten to the trial result. Dropped: root extract and historically marketed (not in the abstract).
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-0528 (rat toxicity study). RE-SOURCED: Grieve Wild Yam (REF-4014, new), Wikipedia (REF-4015, new), PFAF REF-3246, and the wild yam cream RCT REF-0614 (no change in FSH, oestradiol or serum/salivary progesterone). Dropped as unsupported: alternate leaves (Wikipedia: whorls of four), cinnamon-brown rhizome, three-winged capsule, flowering in summer (PFAF gives September-October, which was not adopted), woodland edges and fence rows, Eclectic medicine, ''not converted into progesterone in the body'' (replaced by what the sources state).'

@@ -14084,7 +14084,7 @@
     }
    ],
    "traditional_uses": {
-    "text": "Cassia bark is a common traditional Chinese medicine, used to promote the secretion of gastric juice and digestion and to improve the function of the gut, and it is also used in Unani, Ayurvedic and Japanese traditional medicine for indigestion, peptic ulcer disease and ischaemic brain injury. It is a widely used spice. Trials of the bark in type 2 diabetes have given mixed results: a meta-analysis of trials using 1-2 g of ground bark a day for 90 days found no significant reduction in blood glucose or lipids.",
+    "text": "Cassia bark is a common traditional Chinese medicine, used to promote the secretion of gastric juice and digestion and to improve the function of the gut, and it is also used in Unani, Ayurvedic and Japanese traditional medicine for indigestion, peptic ulcer disease and ischaemic brain injury. It is a widely used spice. Trials of the bark in type 2 diabetes have given mixed results: a meta-analysis of trials using 1-2 g of ground bark a day for 40-90 days found no significant reduction in blood glucose or lipids.",
     "reference_ids": [
      "REF-1822",
      "REF-1824",
@@ -14096,7 +14096,7 @@
    "preparations": [
     {
      "name": "Ground bark powder",
-     "text": "Ground cassia bark taken by mouth is the form tested in trials in type 2 diabetes; a meta-analysis of trials using 1-2 g a day for 90 days found no significant reduction in blood glucose or lipids.",
+     "text": "Ground cassia bark in capsules is the form tested in trials in type 2 diabetes; a meta-analysis of eight trials using 1-2 g a day for 40-90 days found no significant reduction in fasting glucose, HbA1c or blood lipids.",
      "reference_ids": [
       "REF-0430"
      ],
@@ -14106,7 +14106,7 @@
    "dosage": [
     {
      "name": "Ground bark powder (trials)",
-     "text": "In the trials pooled in a meta-analysis, people with type 2 diabetes took 1-2 g of ground cassia bark a day for 90 days; the pooled result showed no significant reduction in blood glucose or lipids. Educational reference only, not a prescription.",
+     "text": "In the eight trials pooled in a 2021 meta-analysis, people with type 2 diabetes took 1-2 g of ground cassia bark a day in capsules for 40-90 days; the pooled result showed no significant reduction in fasting glucose, HbA1c or blood lipids. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-0430"
      ],
@@ -14119,7 +14119,6 @@
      "note": "Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed) - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR",
      "reference_ids": [
       "REF-0429",
-      "REF-0430",
       "REF-0598",
       "REF-0599",
       "REF-1820",
@@ -14133,7 +14132,6 @@
      "action": "carminative",
      "note": "Warming carminative for indigestion (traditional)",
      "reference_ids": [
-      "REF-0430",
       "REF-1822",
       "REF-1824",
       "REF-1825",
@@ -14146,7 +14144,6 @@
      "note": "Improves the lipid profile (lowers total and LDL cholesterol and triglycerides)",
      "reference_ids": [
       "REF-0429",
-      "REF-0430",
       "REF-0599",
       "REF-1821"
      ],
@@ -14170,10 +14167,9 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "Cinnamon (mostly cassia) lowered fasting glucose in several meta-analyses, but a Cochrane review judged the evidence insufficient and some trials found no effect on glucose control or insulin sensitivity",
+     "note": "Cinnamon (mostly cassia) lowered fasting glucose in several meta-analyses, but a Cochrane review judged the evidence insufficient and some trials found no effect on glucose control or insulin sensitivity. A 2021 meta-analysis of cassia bark powder (1-2 g a day) also found no significant effect on fasting glucose or HbA1c.",
      "reference_ids": [
       "REF-0429",
-      "REF-0430",
       "REF-0598",
       "REF-0599",
       "REF-0006",
@@ -14185,17 +14181,17 @@
      "null_result_ids": [
       "REF-3498",
       "REF-3500",
-      "REF-3501"
+      "REF-3501",
+      "REF-0430"
      ],
      "evidence": 10,
      "label": "Blood sugar / diabetes support"
     },
     {
      "condition": "cardiovascular-support",
-     "note": "Cinnamon improved blood pressure and blood lipids in some meta-analyses and trials, mostly in type 2 diabetes; a trial of cassia found no change in arterial stiffness, blood pressure or lipids",
+     "note": "Cinnamon improved blood pressure and blood lipids in some meta-analyses and trials, mostly in type 2 diabetes; a trial of cassia found no change in arterial stiffness, blood pressure or lipids. A 2021 meta-analysis of cassia bark powder found no significant effect on blood lipids.",
      "reference_ids": [
       "REF-0429",
-      "REF-0430",
       "REF-0599",
       "REF-0006",
       "REF-0136",
@@ -14204,17 +14200,17 @@
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-3502"
+      "REF-3502",
+      "REF-0430"
      ],
      "evidence": 10,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "high-cholesterol",
-     "note": "Cinnamon lowered total cholesterol and triglycerides (LDL less consistently) in meta-analyses of trials, mostly in type 2 diabetes; some trials found no change",
+     "note": "Cinnamon lowered total cholesterol and triglycerides (LDL less consistently) in meta-analyses of trials, mostly in type 2 diabetes; some trials found no change. A 2021 meta-analysis of cassia bark powder (1-2 g a day) found no significant effect on total, LDL or HDL cholesterol or triglycerides.",
      "reference_ids": [
       "REF-0429",
-      "REF-0430",
       "REF-0599",
       "REF-0136",
       "REF-0666",
@@ -14222,17 +14218,17 @@
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-3501"
+      "REF-3501",
+      "REF-0430"
      ],
      "evidence": 10,
      "label": "High cholesterol"
     },
     {
      "condition": "metabolic-support",
-     "note": "Cinnamon improved glucose, lipids and body weight in people with type 2 diabetes (meta-analyses; randomized trials)",
+     "note": "Cinnamon improved glucose, lipids and body weight in people with type 2 diabetes (meta-analyses; randomized trials). A 2021 meta-analysis of cassia bark powder (1-2 g a day) found no significant effect on glucose or lipids.",
      "reference_ids": [
       "REF-0429",
-      "REF-0430",
       "REF-0598",
       "REF-0599",
       "REF-0006",
@@ -14241,6 +14237,9 @@
       "REF-3502"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-0430"
+     ],
      "evidence": 10,
      "label": "Metabolic support"
     },
@@ -14257,10 +14256,12 @@
    ],
    "contraindications": [
     {
-     "note": "Cassia is high in coumarin: regular high intake of cassia bark or supplements can stress or damage the liver. For frequent or medicinal use, prefer true Ceylon cinnamon (Cinnamomum verum) and keep within safe daily limits.",
+     "note": "Cassia bark contains coumarin, which can damage the liver; a subgroup of people is especially sensitive to it. The tolerable daily intake is 0.1 mg of coumarin per kg of body weight, and heavy consumers of cassia cinnamon can reach it: ground cassia-type cinnamon has contained about 2.7-7.0 mg of coumarin per gram, while a Ceylon cinnamon (Cinnamomum verum) sample contained none.",
      "severity": "info",
      "reference_ids": [
-      "REF-0430"
+      "REF-3977",
+      "REF-4025",
+      "REF-3978"
      ],
      "status": "verified"
     },

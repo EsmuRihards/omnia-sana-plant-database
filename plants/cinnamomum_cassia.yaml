@@ -78,8 +78,8 @@ traditional_uses:
     juice and digestion and to improve the function of the gut, and it is also used in Unani, Ayurvedic
     and Japanese traditional medicine for indigestion, peptic ulcer disease and ischaemic brain injury.
     It is a widely used spice. Trials of the bark in type 2 diabetes have given mixed results: a meta-analysis
-    of trials using 1-2 g of ground bark a day for 90 days found no significant reduction in blood glucose
-    or lipids.'
+    of trials using 1-2 g of ground bark a day for 40-90 days found no significant reduction in blood
+    glucose or lipids.'
   reference_ids:
   - REF-1822
   - REF-1824
@@ -88,8 +88,9 @@ traditional_uses:
   status: verified
 preparations:
 - name: Ground bark powder
-  text: Ground cassia bark taken by mouth is the form tested in trials in type 2 diabetes; a meta-analysis
-    of trials using 1-2 g a day for 90 days found no significant reduction in blood glucose or lipids.
+  text: Ground cassia bark in capsules is the form tested in trials in type 2 diabetes; a meta-analysis
+    of eight trials using 1-2 g a day for 40-90 days found no significant reduction in fasting glucose,
+    HbA1c or blood lipids.
   reference_ids:
   - REF-0430
   status: verified
@@ -102,9 +103,9 @@ preparations:
   status: draft
 dosage:
 - name: Ground bark powder (trials)
-  text: In the trials pooled in a meta-analysis, people with type 2 diabetes took 1-2 g of ground cassia
-    bark a day for 90 days; the pooled result showed no significant reduction in blood glucose or lipids.
-    Educational reference only, not a prescription.
+  text: In the eight trials pooled in a 2021 meta-analysis, people with type 2 diabetes took 1-2 g of
+    ground cassia bark a day in capsules for 40-90 days; the pooled result showed no significant reduction
+    in fasting glucose, HbA1c or blood lipids. Educational reference only, not a prescription.
   reference_ids:
   - REF-0430
   status: verified
@@ -114,7 +115,6 @@ actions:
     - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR
   reference_ids:
   - REF-0429
-  - REF-0430
   - REF-0598
   - REF-0599
   - REF-1820
@@ -125,7 +125,6 @@ actions:
 - action: carminative
   note: Warming carminative for indigestion (traditional)
   reference_ids:
-  - REF-0430
   - REF-1822
   - REF-1824
   - REF-1825
@@ -135,7 +134,6 @@ actions:
   note: Improves the lipid profile (lowers total and LDL cholesterol and triglycerides)
   reference_ids:
   - REF-0429
-  - REF-0430
   - REF-0599
   - REF-1821
   status: verified
@@ -151,10 +149,11 @@ indications:
   - REF-1826
 - condition: blood-sugar
   note: Cinnamon (mostly cassia) lowered fasting glucose in several meta-analyses, but a Cochrane review
-    judged the evidence insufficient and some trials found no effect on glucose control or insulin sensitivity
+    judged the evidence insufficient and some trials found no effect on glucose control or insulin sensitivity.
+    A 2021 meta-analysis of cassia bark powder (1-2 g a day) also found no significant effect on fasting
+    glucose or HbA1c.
   reference_ids:
   - REF-0429
-  - REF-0430
   - REF-0598
   - REF-0599
   - REF-0006
@@ -166,12 +165,13 @@ indications:
   - REF-3498
   - REF-3500
   - REF-3501
+  - REF-0430
 - condition: cardiovascular-support
   note: Cinnamon improved blood pressure and blood lipids in some meta-analyses and trials, mostly in
-    type 2 diabetes; a trial of cassia found no change in arterial stiffness, blood pressure or lipids
+    type 2 diabetes; a trial of cassia found no change in arterial stiffness, blood pressure or lipids.
+    A 2021 meta-analysis of cassia bark powder found no significant effect on blood lipids.
   reference_ids:
   - REF-0429
-  - REF-0430
   - REF-0599
   - REF-0006
   - REF-0136
@@ -180,12 +180,13 @@ indications:
   status: needs-review
   null_result_ids:
   - REF-3502
+  - REF-0430
 - condition: high-cholesterol
   note: Cinnamon lowered total cholesterol and triglycerides (LDL less consistently) in meta-analyses
-    of trials, mostly in type 2 diabetes; some trials found no change
+    of trials, mostly in type 2 diabetes; some trials found no change. A 2021 meta-analysis of cassia
+    bark powder (1-2 g a day) found no significant effect on total, LDL or HDL cholesterol or triglycerides.
   reference_ids:
   - REF-0429
-  - REF-0430
   - REF-0599
   - REF-0136
   - REF-0666
@@ -193,12 +194,13 @@ indications:
   status: needs-review
   null_result_ids:
   - REF-3501
+  - REF-0430
 - condition: metabolic-support
   note: Cinnamon improved glucose, lipids and body weight in people with type 2 diabetes (meta-analyses;
-    randomized trials)
+    randomized trials). A 2021 meta-analysis of cassia bark powder (1-2 g a day) found no significant
+    effect on glucose or lipids.
   reference_ids:
   - REF-0429
-  - REF-0430
   - REF-0598
   - REF-0599
   - REF-0006
@@ -206,18 +208,23 @@ indications:
   - REF-0667
   - REF-3502
   status: needs-review
+  null_result_ids:
+  - REF-0430
 - condition: diarrhea
   note: A cassia cinnamon water extract eased diarrhoea symptoms vs placebo in a randomized trial
   reference_ids:
   - REF-3503
   status: verified
 contraindications:
-- note: 'Cassia is high in coumarin: regular high intake of cassia bark or supplements can stress or damage
-    the liver. For frequent or medicinal use, prefer true Ceylon cinnamon (Cinnamomum verum) and keep
-    within safe daily limits.'
+- note: 'Cassia bark contains coumarin, which can damage the liver; a subgroup of people is especially
+    sensitive to it. The tolerable daily intake is 0.1 mg of coumarin per kg of body weight, and heavy
+    consumers of cassia cinnamon can reach it: ground cassia-type cinnamon has contained about 2.7-7.0
+    mg of coumarin per gram, while a Ceylon cinnamon (Cinnamomum verum) sample contained none.'
   severity: info
   reference_ids:
-  - REF-0430
+  - REF-3977
+  - REF-4025
+  - REF-3978
   status: verified
 - note: Its blood-sugar-lowering action means it can add to the effect of diabetes medicines (risk of
     hypoglycaemia); avoid concentrated/medicinal doses in pregnancy (culinary amounts are fine).
@@ -278,4 +285,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Famil
   2012 MA REF-3499 added. Arterial-stiffness RCT REF-3502: no BP/lipid/vascular change (no-effect
   for cardiovascular-support) but lower weight and HbA1c (metabolic-support). New diarrhea pair
   from RCT REF-3503 (owner rule). Notes now state the mixed evidence.
-  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-2], preparations[0] and dosage[0] cited only REF-0430 (meta-analysis of cassia powder in type 2 diabetes, whose pooled result was NOT significant). RE-SOURCED: traditional use from reviews REF-1821/REF-1824 and REF-1822; cinnamaldehyde 85% of the oil Ooi 2006 (REF-3975, new); procyanidins A1/A2/B1/C1 Dai 2024 (REF-3976, new); coumarin Choi 2001 (REF-3977, new) + Blahova 2012 (REF-3978, new; cassia-type ground cinnamon 2.65-7.0 mg/g, Ceylon none). REF-0430 kept for what it reports (1-2 g/day for 90 days, no significant effect). Dropped as unsupported: rou gui and warming/cold-type wording, circulation and metabolic support, insulin-sensitising, capsules, standardised extract, 1-6 g, prefer Ceylon cinnamon, key safety-limiting. FOLLOW-UP (not done here): check whether REF-0430, a null pooled result, sits in any indication''s reference_ids (invariant 7).'
+  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-2], preparations[0] and dosage[0] cited only REF-0430 (meta-analysis of cassia powder in type 2 diabetes, whose pooled result was NOT significant). RE-SOURCED: traditional use from reviews REF-1821/REF-1824 and REF-1822; cinnamaldehyde 85% of the oil Ooi 2006 (REF-3975, new); procyanidins A1/A2/B1/C1 Dai 2024 (REF-3976, new); coumarin Choi 2001 (REF-3977, new) + Blahova 2012 (REF-3978, new; cassia-type ground cinnamon 2.65-7.0 mg/g, Ceylon none). REF-0430 kept for what it reports (1-2 g/day for 90 days, no significant effect). Dropped as unsupported: rou gui and warming/cold-type wording, circulation and metabolic support, insulin-sensitising, capsules, standardised extract, 1-6 g, prefer Ceylon cinnamon, key safety-limiting. FOLLOW-UP (not done here): check whether REF-0430, a null pooled result, sits in any indication''s reference_ids (invariant 7).
+  | 2026-11-20 (cassia null-trial fix, owner-approved): REF-0430 (Cureus 2021 cassia meta-analysis, 8 RCTs, 1-2 g/day bark powder in capsules for 40-90 days) is a NULL result on every outcome (full text PMC8361532: FBG P=0.10, HbA1c P=0.86, TG P=0.12, TC P=0.46, LDL P=0.85, HDL P=0.49; conclusion: does not decrease them). Per invariant 7 it is now in null_result_ids, not reference_ids, for blood-sugar, cardiovascular-support, high-cholesterol, metabolic-support, and the notes say so; removed from the antidiabetic, lipid-lowering and carminative actions (it never addressed carminative use). The coumarin caution cited only REF-0430, which says nothing about coumarin: now Choi 2001 REF-3977 (coumarin in C. cassia bark oil), Abraham 2010 (REF-4025, new; BfR review: hepatotoxic, susceptible subgroup, TDI 0.1 mg/kg bw, heavy cassia users can reach it) and Blahova 2012 REF-3978. Dropped from the caution: ''prefer Ceylon cinnamon for frequent or medicinal use'' as advice (the sources give the facts, not the advice). Checked and left alone: REF-3502 supports metabolic-support (HbA1c, weight, BMI fell) and is correctly null for cardiovascular-support (BP, lipids, stiffness unchanged).'

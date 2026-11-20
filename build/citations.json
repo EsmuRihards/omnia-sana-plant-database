@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3778,
+ "count": 3779,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -36313,17 +36313,8 @@
    "scientific": [
     "Cinnamomum cassia"
    ],
-   "actions": [
-    "Antidiabetic (blood-sugar lowering)",
-    "Carminative",
-    "Lipid-lowering"
-   ],
-   "conditions": [
-    "Blood sugar / diabetes support",
-    "Cardiovascular / heart health",
-    "High cholesterol",
-    "Metabolic support"
-   ]
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2773",
@@ -89073,6 +89064,37 @@
    ],
    "scientific": [
     "Gymnema sylvestre"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-4025",
+   "key": "abraham2010coumarin",
+   "type": "article",
+   "title": "Toxicology and risk assessment of coumarin: focus on human data",
+   "authors": "Abraham, K., Wöhrlin, F., Lindtner, O., Heinemeyer, G. and Lampen, A.",
+   "journal": "Molecular Nutrition & Food Research",
+   "year": "2010",
+   "doi": "10.1002/mnfr.200900281",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20024932/",
+   "link": "https://doi.org/10.1002/mnfr.200900281",
+   "link_type": "doi",
+   "citation": "Abraham, K., Wöhrlin, F., Lindtner, O., Heinemeyer, G. and Lampen, A (2010) 'Toxicology and risk assessment of coumarin: focus on human data', Molecular Nutrition & Food Research, 54(2), pp. 228--239. doi:10.1002/mnfr.200900281",
+   "abstract": "Coumarin is a secondary phytochemical with hepatotoxic and carcinogenic properties. For the carcinogenic effect, a genotoxic mechanism was considered possible, but was discounted by the European Food Safety Authority in 2004 based on new evidence. This allowed the derivation of a tolerable daily intake (TDI) for the first time, and a value of 0.1 mg/kg body weight was arrived at based on animal hepatotoxicity data. However, clinical data on hepatotoxicity from patients treated with coumarin as medicinal drug is also available. This data revealed a subgroup of the human population being more susceptible for the hepatotoxic effect than the animal species investigated. The cause of the high susceptibility is currently unknown; possible mechanisms are discussed. Using the human data, a TDI of 0.1 mg/kg body weight was derived, confirming that of the European Food Safety Authority. Nutritional exposure may be considerably, and is mainly due to use of cassia cinnamon, which is a popular spice especially, used for cookies and sweet dishes. To estimate exposure to coumarin during the Christmas season in Germany, a telephone survey was performed with more than 1000 randomly selected persons. Heavy consumers of cassia cinnamon may reach a daily coumarin intake corresponding to the TDI.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Toxicology and risk assessment of coumarin: focus on human data",
+   "plants": [
+    "Cassia Cinnamon",
+    "Cassia bark",
+    "Chinese cinnamon",
+    "Rou gui"
+   ],
+   "scientific": [
+    "Cinnamomum cassia"
    ],
    "actions": [],
    "conditions": []

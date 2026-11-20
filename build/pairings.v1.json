@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 110,
+ "count": 114,
  "pairings": [
   {
    "herb_id": "agrimonia-eupatoria",
@@ -58,6 +58,18 @@
     "REF-2245",
     "REF-2474"
    ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "betula-pendula",
+   "herb": "Birch",
+   "herb_slug": "birch",
+   "partner_id": "ononis-arvensis",
+   "partner": "Field restharrow",
+   "partner_slug": "field-restharrow",
+   "type": "synergy",
+   "note": "Both are traditional diuretic 'flushing' herbs for irrigation therapy of the urinary tract.",
+   "references": [],
    "status": "approved"
   },
   {
@@ -307,6 +319,18 @@
    "status": "approved"
   },
   {
+   "herb_id": "solidago-virgaurea",
+   "herb": "European goldenrod",
+   "herb_slug": "european-goldenrod",
+   "partner_id": "ononis-arvensis",
+   "partner": "Field restharrow",
+   "partner_slug": "field-restharrow",
+   "type": "synergy",
+   "note": "Classic urinary irrigation-therapy pairing: both are aquaretic diuretics used to increase urine flow in cystitis and urinary gravel.",
+   "references": [],
+   "status": "approved"
+  },
+  {
    "herb_id": "foeniculum-vulgare",
    "herb": "Fennel",
    "herb_slug": "fennel",
@@ -437,6 +461,30 @@
     "REF-2457",
     "REF-2444"
    ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "ononis-arvensis",
+   "herb": "Field restharrow",
+   "herb_slug": "field-restharrow",
+   "partner_id": "betula-pendula",
+   "partner": "Birch",
+   "partner_slug": "birch",
+   "type": "synergy",
+   "note": "Both are traditional diuretic 'flushing' herbs for irrigation therapy of the urinary tract.",
+   "references": [],
+   "status": "approved"
+  },
+  {
+   "herb_id": "ononis-arvensis",
+   "herb": "Field restharrow",
+   "herb_slug": "field-restharrow",
+   "partner_id": "solidago-virgaurea",
+   "partner": "European goldenrod",
+   "partner_slug": "european-goldenrod",
+   "type": "synergy",
+   "note": "Classic urinary irrigation-therapy pairing: both are aquaretic diuretics used to increase urine flow in cystitis and urinary gravel.",
+   "references": [],
    "status": "approved"
   },
   {

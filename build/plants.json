@@ -40275,6 +40275,18 @@
    ],
    "drug_class_interactions": [
     {
+     "drug_class": "diuretics",
+     "severity": "caution",
+     "mechanism": "Theoretical only: extracts of field restharrow have been reported to have diuretic activity, so it might add to the effect of pharmaceutical diuretics. No interaction has been reported, and the EU monograph for the related spiny restharrow root lists none.",
+     "reference_ids": [
+      "REF-3019",
+      "REF-4026"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-20"
+    },
+    {
      "drug_class": "hormonal-therapies",
      "severity": "caution",
      "mechanism": "The root is rich in the isoflavone phytoestrogen formononetin; it could theoretically interact with hormonal contraceptives, hormone replacement or hormone-sensitive conditions.",
@@ -40288,6 +40300,24 @@
     }
    ],
    "pairings": [
+    {
+     "partner_id": "solidago-virgaurea",
+     "type": "synergy",
+     "note": "Classic urinary irrigation-therapy pairing: both are aquaretic diuretics used to increase urine flow in cystitis and urinary gravel.",
+     "reference_ids": [],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-20"
+    },
+    {
+     "partner_id": "betula-pendula",
+     "type": "synergy",
+     "note": "Both are traditional diuretic 'flushing' herbs for irrigation therapy of the urinary tract.",
+     "reference_ids": [],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-20"
+    },
     {
      "partner_id": "trifolium-pratense",
      "type": "caution",

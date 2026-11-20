@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3783,
+ "count": 3779,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -3973,6 +3973,37 @@
     "Antioxidant"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-4029",
+   "key": "ema2025urticaradix",
+   "type": "misc",
+   "title": "European Union herbal monograph on Urtica dioica L.; Urtica urens L., radix, Revision 1",
+   "authors": "European Medicines Agency",
+   "journal": "",
+   "year": "2025",
+   "doi": "",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-radix-revision-1_en.pdf",
+   "link": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-radix-revision-1_en.pdf",
+   "link_type": "url",
+   "citation": "European Medicines Agency (2025) 'European Union herbal monograph on Urtica dioica L.; Urtica urens L., radix, Revision 1'. Available at: https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-radix-revision-1_en.pdf",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "European Union herbal monograph on Urtica dioica L.; Urtica urens L., radix, Revision 1",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [],
+   "conditions": [
+    "Prostate support"
+   ]
   },
   {
    "ref_id": "REF-3142",
@@ -66583,38 +66614,6 @@
    ]
   },
   {
-   "ref_id": "REF-0263",
-   "key": "schlichte2016efficacy",
-   "type": "article",
-   "title": "Efficacy of stinging nettle root extract for benign prostatic hyperplasia symptoms",
-   "authors": "Schlichte, D.A. et al",
-   "journal": "",
-   "year": "2016",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Efficacy%20of%20stinging%20nettle%20root%20extract%20for%20benign%20prostatic%20hyperplasia%20symptoms",
-   "link_type": "search",
-   "citation": "Schlichte, D.A. et al (2016) 'Efficacy of stinging nettle root extract for benign prostatic hyperplasia symptoms', 8(1), pp. 57--62.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Efficacy of stinging nettle root extract for benign prostatic hyperplasia symptoms",
-   "plants": [
-    "Stinging Nettle",
-    "common nettle"
-   ],
-   "scientific": [
-    "Urtica dioica"
-   ],
-   "actions": [],
-   "conditions": [
-    "Prostate support",
-    "Urinary support"
-   ]
-  },
-  {
    "ref_id": "REF-3760",
    "key": "tiralongo2016elderberrytravellers",
    "type": "article",
@@ -73618,38 +73617,6 @@
    ]
   },
   {
-   "ref_id": "REF-0061",
-   "key": "drake2015catechins",
-   "type": "article",
-   "title": "Tea catechins and cardiovascular disease risk",
-   "authors": "Drake, V.J",
-   "journal": "",
-   "year": "2015",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Tea%20catechins%20and%20cardiovascular%20disease%20risk",
-   "link_type": "search",
-   "citation": "Drake, V.J (2015) 'Tea catechins and cardiovascular disease risk', 74(1), pp. 39--46.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Tea catechins and cardiovascular disease risk",
-   "plants": [
-    "Tea",
-    "black tea",
-    "green tea",
-    "oolong",
-    "white tea"
-   ],
-   "scientific": [
-    "Camellia sinensis"
-   ],
-   "actions": [],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-1756",
    "key": "paduch2015lamium",
    "type": "article",
@@ -75419,43 +75386,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0182",
-   "key": "neelakantan2014fenugreek",
-   "type": "misc",
-   "title": "Effect of fenugreek (Trigonella foenum-graecum L.) intake on glycemia: a meta-analysis of clinical trials",
-   "authors": "Neelakantan, N., Narayanan, M., de Souza, R.J. and van Dam, R.M",
-   "journal": "",
-   "year": "2014",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Effect%20of%20fenugreek%20%28Trigonella%20foenum-graecum%20L.%29%20intake%20on%20glycemia%3A%20a%20meta-analysis%20of%20clinical%20trials",
-   "link_type": "search",
-   "citation": "Neelakantan, N., Narayanan, M., de Souza, R.J. and van Dam, R.M (2014) 'Effect of fenugreek (Trigonella foenum-graecum L.) intake on glycemia: a meta-analysis of clinical trials', pp. 7.",
-   "abstract": "",
-   "tier": "review",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Effect of fenugreek (Trigonella foenum-graecum L.) intake on glycemia: a meta-analysis of clinical trials",
-   "plants": [
-    "Bird’s foot",
-    "Fenugreek",
-    "Greek clover",
-    "and alholva",
-    "goat’s horn"
-   ],
-   "scientific": [
-    "Trigonella foenum-graecum"
-   ],
-   "actions": [
-    "Antidiabetic (blood-sugar lowering)"
-   ],
-   "conditions": [
-    "Blood sugar / diabetes support",
-    "Metabolic support"
-   ]
-  },
-  {
    "ref_id": "REF-2449",
    "key": "neelakantan2014fenugreek",
    "type": "article",
@@ -75484,8 +75414,13 @@
    "scientific": [
     "Trigonella foenum-graecum"
    ],
-   "actions": [],
-   "conditions": []
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-1804",
@@ -77343,27 +77278,26 @@
    "type": "misc",
    "title": "The anxiolytic effects of a Valerian extract is based on valerenic acid",
    "authors": "Becker, A., Felgentreff, F., Schröder, H., Meier, B. and Brattstrom, A",
-   "journal": "",
+   "journal": "BMC Complementary and Alternative Medicine",
    "year": "2014",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=The%20anxiolytic%20effects%20of%20a%20Valerian%20extract%20is%20based%20on%20valerenic%20acid",
-   "link_type": "search",
-   "citation": "Becker, A., Felgentreff, F., Schröder, H., Meier, B. and Brattstrom, A (2014) 'The anxiolytic effects of a Valerian extract is based on valerenic acid', pp. 267.",
-   "abstract": "",
-   "tier": "traditional",
+   "doi": "10.1186/1472-6882-14-267",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25066015/",
+   "link": "https://doi.org/10.1186/1472-6882-14-267",
+   "link_type": "doi",
+   "citation": "Becker, A., Felgentreff, F., Schröder, H., Meier, B. and Brattstrom, A (2014) 'The anxiolytic effects of a Valerian extract is based on valerenic acid', BMC Complementary and Alternative Medicine, 14, pp. 267. doi:10.1186/1472-6882-14-267",
+   "abstract": "BACKGROUND: Valerian is commonly used for the treatment of insomnia and anxiety. Valerian extracts allosterically modulate GABA-A receptors and induced an anxiolytic activity. This activity is closely related to valerenic acid. In the present experiments it was investigated whether acetoxy valerenic acid may interfere with the anxiolytic action of valerenic acid. METHODS: Situational anxiety was measured using male CD-1 mice in the elevated plus maze test after oral administration of the test substances. In addition the body core temperature was measured. For the 3H-GABA binding assay dissected tissue from frontal cortex of male RjHan:WI rats were used. Statistical evaluation was performed by means of the non-parametric Kruskal-Wallies H-test, followed by the two-tailed Mann-Whitney U-test. RESULTS: Adding of acetoxy valerenic acid abolished the anxiolytic action of valerenic acid. There was no effect on body core temperature. Moreover, the valerian extract did not show any affinity to benzodiazepine binding sites. CONCLUSION: The determining compound for the observed anxiolytic effect of the valerian extract is its content of valerenic acid.",
+   "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
    "display": "The anxiolytic effects of a Valerian extract is based on valerenic acid",
    "plants": [
-    "Hop",
-    "Hops",
-    "common hop",
-    "hop vine"
+    "Valerian",
+    "common valerian",
+    "garden valerian"
    ],
    "scientific": [
-    "Humulus lupulus"
+    "Valeriana officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -80570,42 +80504,6 @@
    ],
    "actions": [],
    "conditions": []
-  },
-  {
-   "ref_id": "REF-0148",
-   "key": "kumar2013protective",
-   "type": "article",
-   "title": "Protective effect of fenugreek (Trigonella foenum-graecum L.) seeds in experimentally-induced myocardial infarction",
-   "authors": "Kumar, P. and Bhandari, U",
-   "journal": "",
-   "year": "2013",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Protective%20effect%20of%20fenugreek%20%28Trigonella%20foenum-graecum%20L.%29%20seeds%20in%20experimentally-induced%20myocardial%20infarction",
-   "link_type": "search",
-   "citation": "Kumar, P. and Bhandari, U (2013) 'Protective effect of fenugreek (Trigonella foenum-graecum L.) seeds in experimentally-induced myocardial infarction', 23(2), pp. 255--261.",
-   "abstract": "",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Protective effect of fenugreek (Trigonella foenum-graecum L.) seeds in experimentally-induced myocardial infarction",
-   "plants": [
-    "Bird’s foot",
-    "Fenugreek",
-    "Greek clover",
-    "and alholva",
-    "goat’s horn"
-   ],
-   "scientific": [
-    "Trigonella foenum-graecum"
-   ],
-   "actions": [
-    "Anti-inflammatory"
-   ],
-   "conditions": [
-    "Cardiovascular / heart health"
-   ]
   },
   {
    "ref_id": "REF-2964",
@@ -92176,8 +92074,13 @@
     "clinical"
    ],
    "display": "Community herbal monograph on Urtica dioica L.; Urtica urens L., folium",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
    "actions": [],
    "conditions": []
   },
@@ -94433,32 +94336,37 @@
    "type": "article",
    "title": "Evidence of effectiveness of herbal anti-inflammatory drugs in the treatment of painful osteoarthritis and chronic low back pain",
    "authors": "Chrubasik, J.E., Roufogalis, B.D. and Chrubasik, S",
-   "journal": "",
+   "journal": "Phytotherapy Research",
    "year": "2007",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Evidence%20of%20effectiveness%20of%20herbal%20anti-inflammatory%20drugs%20in%20the%20treatment%20of%20painful%20osteoarthritis%20and%20chronic%20low%20back%20pain",
-   "link_type": "search",
-   "citation": "Chrubasik, J.E., Roufogalis, B.D. and Chrubasik, S (2007) 'Evidence of effectiveness of herbal anti-inflammatory drugs in the treatment of painful osteoarthritis and chronic low back pain', 21(7), pp. 675--683.",
-   "abstract": "",
+   "doi": "10.1002/ptr.2142",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17444576/",
+   "link": "https://doi.org/10.1002/ptr.2142",
+   "link_type": "doi",
+   "citation": "Chrubasik, J.E., Roufogalis, B.D. and Chrubasik, S (2007) 'Evidence of effectiveness of herbal anti-inflammatory drugs in the treatment of painful osteoarthritis and chronic low back pain', Phytotherapy Research, 21(7), pp. 675--683. doi:10.1002/ptr.2142",
+   "abstract": "Treatment with herbal medicines is very popular in Europe. In order to get information on the evidence of effectiveness of oral herbal medicines in the treatment of pain in the joints or lower back, OVID(MEDLINE), PUBMED and COCHRANE COLLABORATION LIBRARY were searched back to 1985 for systematic reviews. The level of evidence of effectiveness was defined as strong - at least two confirmatory studies demonstrating a clinical relevant effect, moderate - one confirmatory study with a clinical relevant effect and/or multiple exploratory studies of good quality; otherwise the evidence was insufficient or conflicting in the case of inconsistent findings. Fifteen systematic reviews were identified. The evidence of effectiveness was strong for a proprietary unsaponifiable avocado soybean fraction and Harpagophytum preparations containing > 50 mg harpagoside in the daily dosage, moderate for ginger and a proprietary rose hip and seed powder, insufficient for Boswellia serrata gum resin and other herbal preparations and inconsistent for a proprietary willow bark extract. Further rigorous studies are required to confirm the usefulness of herbal medicines in the treatment of osteoarthritic complaints and chronic low back pain in order to enable acceptance of the herbal medicines into the treatment guidelines.",
    "tier": "traditional",
    "corpus": [
     "clinical"
    ],
    "display": "Evidence of effectiveness of herbal anti-inflammatory drugs in the treatment of painful osteoarthritis and chronic low back pain",
    "plants": [
+    "Boswellia",
+    "Ginger",
+    "Indian frankincense",
+    "Salai guggul",
+    "Shallaki",
     "Stinging Nettle",
-    "common nettle"
+    "common ginger",
+    "common nettle",
+    "garden ginger"
    ],
    "scientific": [
-    "Urtica dioica"
+    "Boswellia serrata",
+    "Urtica dioica",
+    "Zingiber officinale"
    ],
-   "actions": [
-    "Anti-inflammatory",
-    "Anti-rheumatic / anti-arthritic"
-   ],
+   "actions": [],
    "conditions": [
-    "Arthritis / joint pain",
     "Back pain",
     "Inflammation (general)"
    ]
@@ -106081,21 +105989,21 @@
    "ref_id": "REF-0055",
    "key": "darbinyan2000rhodiola",
    "type": "article",
-   "title": "Rhodiola rosea in stress induced fatigue — a double blind cross-over study of a standardized extract SHR-5",
+   "title": "Rhodiola rosea in stress induced fatigue--a double blind cross-over study of a standardized extract SHR-5 with a repeated low-dose regimen on the mental performance of healthy physicians during night duty",
    "authors": "Darbinyan, V. et al",
-   "journal": "",
+   "journal": "Phytomedicine",
    "year": "2000",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Rhodiola%20rosea%20in%20stress%20induced%20fatigue%20%E2%80%94%20a%20double%20blind%20cross-over%20study%20of%20a%20standardized%20extract%20SHR-5",
-   "link_type": "search",
-   "citation": "Darbinyan, V. et al (2000) 'Rhodiola rosea in stress induced fatigue — a double blind cross-over study of a standardized extract SHR-5', 7(5), pp. 365--371.",
-   "abstract": "",
+   "doi": "10.1016/S0944-7113(00)80055-0",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11081987/",
+   "link": "https://doi.org/10.1016/S0944-7113(00)80055-0",
+   "link_type": "doi",
+   "citation": "Darbinyan, V. et al (2000) 'Rhodiola rosea in stress induced fatigue--a double blind cross-over study of a standardized extract SHR-5 with a repeated low-dose regimen on the mental performance of healthy physicians during night duty', Phytomedicine, 7(5), pp. 365--371. doi:10.1016/S0944-7113(00)80055-0",
+   "abstract": "The aim of this study was to investigate the effect of repeated low-dose treatment with a standardized extract SHR/5 of rhizome Rhodiola rosea L, (RRE) on fatigue during night duty among a group of 56 young, healthy physicians. The effect was measured as total mental performance calculated as Fatigue Index. The tests chosen reflect an overall level of mental fatigue, involving complex perceptive and cognitive cerebral functions, such as associative thinking, short-term memory, calculation and ability of concentration, and speed of audio-visual perception. These parameters were tested before and after night duty during three periods of two weeks each: a) a test period of one RRE/placebo tablet daily, b) a washout period and c) a third period of one placebo/RRE tablet daily, in a double-blind cross-over trial. The perceptive and cognitive cerebral functions mentioned above were investigated using 5 different tests. A statistically significant improvement in these tests was observed in the treatment group (RRE) during the first two weeks period. No side-effects were reported for either treatment noted. These results suggest that RRE can reduce general fatigue under certain stressful conditions.",
    "tier": "rct",
    "corpus": [
     "clinical"
    ],
-   "display": "Rhodiola rosea in stress induced fatigue — a double blind cross-over study of a standardized extract SHR-5",
+   "display": "Rhodiola rosea in stress induced fatigue--a double blind cross-over study of a standardized extract SHR-5 with a repeated low-dose regimen on the mental performance of healthy physicians during night duty",
    "plants": [
     "Arctic root",
     "Rhodiola",
@@ -106106,10 +106014,7 @@
    "scientific": [
     "Rhodiola rosea"
    ],
-   "actions": [
-    "Neuroprotective / cognition support",
-    "Physical performance / ergogenic"
-   ],
+   "actions": [],
    "conditions": [
     "Cognitive function",
     "Fatigue / low energy",
@@ -107114,15 +107019,15 @@
    "type": "article",
    "title": "Cardiac complications and delirium associated with valerian root withdrawal",
    "authors": "Garges, H.P., Varia, I. and Doraiswamy, P.M",
-   "journal": "",
+   "journal": "JAMA",
    "year": "1998",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Cardiac%20complications%20and%20delirium%20associated%20with%20valerian%20root%20withdrawal",
-   "link_type": "search",
-   "citation": "Garges, H.P., Varia, I. and Doraiswamy, P.M (1998) 'Cardiac complications and delirium associated with valerian root withdrawal', 280(18), pp. 1566--1567.",
+   "doi": "10.1001/jama.280.18.1566-a",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9820254/",
+   "link": "https://doi.org/10.1001/jama.280.18.1566-a",
+   "link_type": "doi",
+   "citation": "Garges, H.P., Varia, I. and Doraiswamy, P.M (1998) 'Cardiac complications and delirium associated with valerian root withdrawal', JAMA, 280(18), pp. 1566--1567. doi:10.1001/jama.280.18.1566-a",
    "abstract": "",
-   "tier": "traditional",
+   "tier": "clinical",
    "corpus": [
     "clinical"
    ],
@@ -107754,40 +107659,6 @@
     "Oenothera biennis"
    ],
    "actions": [],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-0293",
-   "key": "vethanayagam1996lentinan",
-   "type": "article",
-   "title": "Lentinan — a novel immunomodulator",
-   "authors": "Vethanayagam, R.R. et al",
-   "journal": "",
-   "year": "1996",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Lentinan%20%E2%80%94%20a%20novel%20immunomodulator",
-   "link_type": "search",
-   "citation": "Vethanayagam, R.R. et al (1996) 'Lentinan — a novel immunomodulator', 54(2), pp. 25--30.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Lentinan — a novel immunomodulator",
-   "plants": [
-    "Chinese forest mushroom",
-    "Shiitake",
-    "Shiitake (mushroom)",
-    "black mushroom"
-   ],
-   "scientific": [
-    "Lentinula edodes"
-   ],
-   "actions": [
-    "Anticancer (preclinical)",
-    "Immunomodulator / immune support"
-   ],
    "conditions": []
   },
   {
@@ -108845,37 +108716,6 @@
    ],
    "scientific": [
     "Tanacetum parthenium"
-   ],
-   "actions": [],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-0315",
-   "key": "yokota1989observatory",
-   "type": "misc",
-   "title": "Observatory trial of anti-obesity activity of Eritadenine",
-   "authors": "Yokota, M",
-   "journal": "",
-   "year": "1989",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Observatory%20trial%20of%20anti-obesity%20activity%20of%20Eritadenine",
-   "link_type": "search",
-   "citation": "Yokota, M (1989) 'Observatory trial of anti-obesity activity of Eritadenine', pp. 1--4.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Observatory trial of anti-obesity activity of Eritadenine",
-   "plants": [
-    "Chinese forest mushroom",
-    "Shiitake",
-    "Shiitake (mushroom)",
-    "black mushroom"
-   ],
-   "scientific": [
-    "Lentinula edodes"
    ],
    "actions": [],
    "conditions": []
@@ -110365,7 +110205,6 @@
     "Scotch pine",
     "Scots Pine",
     "Selfheal",
-    "Stinging Nettle",
     "Tansy",
     "Wormwood",
     "Yarrow",
@@ -110374,7 +110213,6 @@
     "broadleaf plantain",
     "chickenwort",
     "common mugwort",
-    "common nettle",
     "common plantain",
     "common tansy",
     "common wormwood",
@@ -110408,8 +110246,7 @@
     "Prunella vulgaris",
     "Rumex acetosa",
     "Stellaria media",
-    "Tanacetum vulgare",
-    "Urtica dioica"
+    "Tanacetum vulgare"
    ],
    "actions": [
     "Analgesic (pain relief)",
@@ -121797,6 +121634,35 @@
     "Digestive aid",
     "Vulnerary (wound healing)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-4030",
+   "key": "wikipedia_urtica_dioica",
+   "type": "misc",
+   "title": "Urtica dioica",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Urtica_dioica",
+   "link": "https://en.wikipedia.org/wiki/Urtica_dioica",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Urtica dioica'. Available at: https://en.wikipedia.org/wiki/Urtica_dioica",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Urtica dioica",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

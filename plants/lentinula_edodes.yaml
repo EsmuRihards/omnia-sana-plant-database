@@ -51,23 +51,26 @@ harvest_readiness:
   status: provisional
   notes: "The Spore Depot (REF-3286) for Lentinula edodes; harvest when the caps are 80-90% open and 2-4 inches wide, while the edges are still curled under (before the cap flattens). Single source -> provisional."
 traditional_uses:
-  text: Shiitake has a very long East Asian culinary and medicinal tradition, used in Chinese and Japanese
-    medicine as a tonic for vitality and longevity and to support healthy qi and blood; its polysaccharide
-    lentinan, isolated from the fruiting body, has been used clinically in Japan as an adjunct immunotherapy,
-    directly building on this traditional immune-tonic reputation.
+  text: Shiitake has been used to improve general health for thousands of years in Asia, where it is known
+    as xianggu in China and shiitake in Japan. It is used medicinally for conditions involving weakened
+    immunity, colds and flu, high cholesterol, high blood pressure and other complaints, and its polysaccharide
+    lentinan has been approved in China and Japan since the 1980s as an adjuvant drug in cancer treatment.
   reference_ids:
-  - REF-0293
+  - REF-3642
+  - REF-1167
   status: verified
 preparations:
 - name: Culinary use
   text: Fresh or dried fruiting body cooked and eaten as a food, always fully cooked (never raw) to avoid
     the rare shiitake dermatitis reaction.
   status: draft
-- name: Standardised extract
-  text: Fruiting-body or mycelium extract standardised to polysaccharide (lentinan/beta-glucan) content,
-    taken as capsules for immune support.
+- name: Extracts (lentinan, mycelium and culture extracts)
+  text: Preparations studied for their pharmacological effects include the polysaccharide lentinan and
+    extracts of the mycelium and culture media (LEM, LAP, KS-2); lentinan is an approved adjuvant cancer
+    drug in China and Japan.
   reference_ids:
-  - REF-0293
+  - REF-1167
+  - REF-3642
   status: verified
 dosage:
 - name: Standardised extract
@@ -78,16 +81,15 @@ constituents:
 - name: Lentinan (beta-1,3-glucan polysaccharide)
   compounds:
   - polysaccharide
-  note: The principal immunomodulatory polysaccharide, used clinically in Japan as an injectable cancer-adjuvant
-    therapy.
+  note: A beta-glucan polysaccharide extracted from shiitake with immunostimulatory effects, approved
+    as an adjuvant cancer drug in China and Japan since the 1980s.
   reference_ids:
-  - REF-0293
+  - REF-3642
 - name: Eritadenine
   note: A unique amino-acid-derived compound studied for cholesterol-lowering activity.
 actions:
 - action: anticancer
   reference_ids:
-  - REF-0293
   - REF-0300
   - REF-1165
   - REF-1166
@@ -113,7 +115,6 @@ actions:
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0293
   - REF-0300
   - REF-1163
   - REF-1164
@@ -132,7 +133,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
-  - REF-0293
 - condition: cold
   note: inferred from antiviral action
   reference_ids: []
@@ -140,7 +140,6 @@ indications:
   mechanistic_exclude_ids:
   - REF-0300
   - REF-1170
-  - REF-0293
 - condition: immune-support
   reference_ids:
   - REF-3640
@@ -148,7 +147,6 @@ indications:
   mechanistic_exclude_ids:
   - REF-0300
   - REF-1170
-  - REF-0293
   note: Eating shiitake daily improved immune cell function and raised secretory IgA in healthy adults
     in a randomized trial
 - condition: infection
@@ -164,15 +162,13 @@ indications:
   mechanistic_exclude_ids:
   - REF-0300
 contraindications:
-- note: Generally very safe as a food. Raw or undercooked shiitake can cause a rare skin rash (shiitake
-    dermatitis / flagellate dermatitis) in sensitive individuals - fully cooking eliminates this risk.
-    May have mild anticoagulant effects. Rarely causes digestive upset. Well tolerated in normal culinary
-    quantities.
+- note: 'Eating raw or undercooked shiitake can cause shiitake dermatitis: a rare, itchy rash in lines
+    (flagellate dermatitis), sometimes with fever or diarrhoea, caused by lentinan, which cooking inactivates.
+    It settles by itself in about two weeks. Handling the mushroom can also cause allergic contact dermatitis.'
   severity: caution
   reference_ids:
-  - REF-0293
-  - REF-0300
-  - REF-0315
+  - REF-1169
+  - REF-1168
   status: verified
 - note: 'Duke (2002) rates shiitake as +++ and notes immunostimulant, hypocholesterolemic, antibacterial,
     and anti-HIV activities at the experimental level (score 1). The key active compound is lentinan,
@@ -183,9 +179,7 @@ contraindications:
     shiitake - cooking prevents this (Duke, 2002).'
   severity: info
   reference_ids:
-  - REF-0293
   - REF-0300
-  - REF-0315
   - REF-0063
   status: verified
 references:
@@ -199,7 +193,6 @@ references:
 - REF-1170
 - REF-1171
 - REF-1172
-- REF-0315
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -242,4 +235,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   anti-obesity observation, 1989) removed from all six actions (kept in references); REF-0293
   (lentinan immunomodulator title) removed from antidiabetic, antimicrobial, antioxidant and
   antiviral. Daily-shiitake RCT REF-3640 added to immune-support; lentinan cancer MA REF-3641 and
-  SR REF-3642 added to cancer.'
+  SR REF-3642 added to cancer.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0293 (''Vethanayagam
+  1996, Lentinan - a novel immunomodulator'') and REF-0315 (''Yokota 1989, observatory trial of
+  eritadenine'') are not in PubMed, Crossref or OpenAlex: removed and deleted. traditional_uses, the
+  extract preparation and the lentinan constituent now cite the lentinan clinical review REF-3642 and
+  the Lentinus edodes review REF-1167; the safety note now cites the shiitake-dermatitis reviews
+  REF-1169 and REF-1168. Dropped as unsupported: qi and blood, capsules for immune support, injectable
+  lentinan, mild anticoagulant effects, digestive upset.'

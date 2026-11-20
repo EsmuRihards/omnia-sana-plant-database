@@ -144,7 +144,6 @@ actions:
 - action: ergogenic
   note: Physical performance / strength improvement
   reference_ids:
-  - REF-0055
   - REF-0132
   - REF-1528
   - REF-1529
@@ -156,7 +155,6 @@ actions:
   status: verified
 - action: neuroprotective
   reference_ids:
-  - REF-0055
   - REF-0132
   - REF-1528
   - REF-1535
@@ -235,7 +233,6 @@ indications:
   - REF-1529
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0055
   - REF-0132
   - REF-1528
   null_result_ids:
@@ -282,7 +279,6 @@ contraindications:
     Herbs, Second Edition.
   severity: info
   reference_ids:
-  - REF-0055
   - REF-0132
   - REF-1528
   - REF-0063
@@ -362,4 +358,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   no-effect; SHR-5 RCT REF-3729 added. Marathon RCT REF-3731 no-effect for muscle soreness. New
   pairs (owner rule): depression (RCT REF-3727; sertraline RCT REF-3728 no-effect vs placebo), pms
   (RCT REF-3732), eye-strain (RCT REF-3733). REF-1530 retagged clinical (no placebo).
-  | 2026-11-19 (monograph-source audit): dosage[0] and preparations[0] checked against REF-1532/REF-1533: the trial used 576 mg/day of SHR-5 as four tablets. Dropped as unsupported: 340-680 mg/day, taken in the morning to avoid overstimulation, standardised to rosavins and salidroside, capsules, the form used in most trials.'
+  | 2026-11-19 (monograph-source audit): dosage[0] and preparations[0] checked against REF-1532/REF-1533: the trial used 576 mg/day of SHR-5 as four tablets. Dropped as unsupported: 340-680 mg/day, taken in the morning to avoid overstimulation, standardised to rosavins and salidroside, capsules, the form used in most trials.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0055 (Darbinyan 2000
+  SHR-5 night-duty trial) now has PMID/DOI/abstract. It tested mental fatigue in physicians, so it is
+  removed from the ergogenic (physical performance) and neuroprotective actions and from the Duke
+  note; it stays on cognitive-function, fatigue and memory and on the general tolerability caution (no
+  side-effects reported).'

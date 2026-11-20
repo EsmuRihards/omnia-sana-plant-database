@@ -245,7 +245,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0045
-  - REF-0061
   - REF-0184
   status: verified
 - note: Duke (2002) rates tea (Camellia sinensis) as ++ and notes anti-aggregant, antioxidant, anticariogenic,
@@ -258,7 +257,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0045
-  - REF-0061
   - REF-0184
   - REF-0063
   status: verified
@@ -342,4 +340,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   obesity MA REF-3484 (metabolic-support); Cochrane 2012 weight-loss review REF-3483 ("small,
   statistically non-significant") recorded as no-effect. Cognitive note labels L-theanine as
   compound evidence.
-  | 2026-11-19 (monograph-source audit): constituents[1] checked against REF-0755 (green tea cognition systematic review): kept, rewritten to what it states. Dropped: ''unique amino acid'', ''calm alertness'', ''mild stimulant effect''.'
+  | 2026-11-19 (monograph-source audit): constituents[1] checked against REF-0755 (green tea cognition systematic review): kept, rewritten to what it states. Dropped: ''unique amino acid'', ''calm alertness'', ''mild stimulant effect''.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0061 (''Drake 2015, Tea
+  catechins and cardiovascular disease risk'', vol 74(1):39-46) is not in PubMed, Crossref or OpenAlex
+  under that title, author or year (the vol/pages match an unrelated rheumatology paper): removed from
+  both cautions and deleted.'

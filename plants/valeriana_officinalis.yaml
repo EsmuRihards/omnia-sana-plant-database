@@ -232,6 +232,7 @@ references:
 - REF-1356
 - REF-1357
 - REF-0092
+- REF-0024
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
@@ -332,4 +333,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Barton cancer RCT REF-3840 added as no-effect; postmenopausal RCT REF-3841 and Grieve REF-3845
   added. Dysmenorrhoea MA + RCT added. New pairs (owner rule): hot-flashes (placebo RCT), anxiety
   and depression (haemodialysis RCT REF-1352; Cochrane anxiety review REF-3843 no-effect).
-  | 2026-11-19 (monograph-source audit): preparations[0] and constituents[0] cited only REF-0025 (sleep meta-analysis). RE-SOURCED: WHO Radix Valerianae vol. 1 (REF-3987, new; constituents, dosage forms, infusion and tincture doses); REF-0025 kept for what it says (preparations and doses varied). Dropped as unsupported: taken shortly before bedtime, the form most used in research, GABA-A-modulating action.'
+  | 2026-11-19 (monograph-source audit): preparations[0] and constituents[0] cited only REF-0025 (sleep meta-analysis). RE-SOURCED: WHO Radix Valerianae vol. 1 (REF-3987, new; constituents, dosage forms, infusion and tincture doses); REF-0025 kept for what it says (preparations and doses varied). Dropped as unsupported: taken shortly before bedtime, the form most used in research, GABA-A-modulating action.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0024 (valerian
+  anxiolytic mouse study, mis-cited on hop) added to the references; REF-0092 (Garges 1998 JAMA case
+  letter on valerian withdrawal) now has PMID/DOI and is tagged clinical (case report).'

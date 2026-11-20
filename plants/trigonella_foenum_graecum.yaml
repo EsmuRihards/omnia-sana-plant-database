@@ -56,13 +56,16 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3356); the seed is harvested when fully ripe (seeds ripen August-September, intermittently). Single lineage -> provisional. (Leaf and young sprouts, also listed parts, are a fresh-herb/sprouting use rather than a distinct field harvest stage.)"
 traditional_uses:
-  text: Fenugreek seed has an ancient tradition across the Mediterranean, Middle East and South Asia as
-    a digestive and appetite-stimulant remedy and lactation aid, and modern clinical research strongly
-    supports its traditional use for blood sugar and cholesterol management, formalised in Commission
-    E approval as an appetite stimulant.
+  text: Fenugreek seed was held in high repute by the Egyptians, Greeks and Romans for medicine and cooking;
+    in Egypt the soaked seed (helba) was taken against fevers, for the stomach and for diabetes, and the
+    mucilaginous decoction was drunk for inflamed stomach and bowels and applied as a poultice to boils
+    (Grieve). Pharmacopoeias list it internally for loss of appetite and externally as a poultice for
+    local inflammation, and WHO lists clinical support as an adjunct for high cholesterol and high blood
+    sugar in diabetes; it is widely used as a traditional medicine for diabetes in Asia.
   reference_ids:
-  - REF-0148
-  - REF-0182
+  - REF-3849
+  - REF-3984
+  - REF-2449
   status: verified
 preparations:
 - name: Seed and cold infusion
@@ -84,20 +87,21 @@ preparations:
   status: draft
 dosage:
 - name: Seed
-  text: Clinical research and traditional sources suggest around 6-50 g of ground seed daily (higher end
-    for blood sugar management), or 1-4 g in tea for digestive use. Educational reference only, not a
-    prescription.
+  text: The WHO monograph gives an average daily dose of 6 g of cut or crushed seed by mouth, or the equivalent
+    in preparations. In a meta-analysis of trials, effects on blood sugar were seen only with medium or
+    high doses in people with diabetes. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0148
-  - REF-0182
+  - REF-3984
+  - REF-2449
   status: verified
 constituents:
-- name: Steroidal saponins (diosgenin)
+- name: Steroidal saponins (diosgenin, yamogenin, tigogenin)
   compounds:
   - saponin
-  note: Thought to contribute to the antidiabetic and cholesterol-lowering effects.
+  note: Saponins make up 0.6-1.7% of the seed and are derived from diosgenin, yamogenin, tigogenin and
+    related compounds.
   reference_ids:
-  - REF-0148
+  - REF-3984
 - name: Mucilage (soluble fibre)
   compounds:
   - polysaccharide
@@ -107,9 +111,9 @@ constituents:
   - REF-3984
   - REF-3356
 - name: 4-hydroxyisoleucine (amino acid)
-  note: An unusual amino acid studied for insulin-potentiating activity.
+  note: An unusual amino acid from the seed, studied for its effects on insulin resistance.
   reference_ids:
-  - REF-0148
+  - REF-1117
 - name: Sotolon (flavor compound)
   note: Aromatic lactone responsible for fenugreek's characteristic maple-syrup smell, including the body-odor
     effect reported with supplementation.
@@ -117,7 +121,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0148
   - REF-1114
   - REF-1118
   - REF-1121
@@ -129,9 +132,9 @@ actions:
   status: needs-review
 - action: antidiabetic
   reference_ids:
-  - REF-0182
   - REF-1117
   - REF-1118
+  - REF-2449
   status: verified
 - action: aphrodisiac
   reference_ids:
@@ -146,17 +149,16 @@ indications:
   - REF-3849
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0148
   - REF-1121
 - condition: blood-sugar
   note: Fenugreek lowered fasting blood sugar and HbA1c in type 2 diabetes and prediabetes in meta-analyses
     of trials (study quality varies); traditional use in diabetes (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0182
   - REF-1117
   - REF-3817
   - REF-2515
   - REF-3849
+  - REF-2449
   status: needs-review
 - condition: cancer
   note: Reviewed for anticancer effects in lab and animal studies (preclinical)
@@ -165,11 +167,9 @@ indications:
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0148
   - REF-3818
   status: verified
-  note: Fenugreek improved blood lipids in a meta-analysis of trials; its seeds protected the heart in
-    a rat model of heart attack (preclinical)
+  note: Fenugreek improved blood lipids in a meta-analysis of trials
 - condition: low-libido
   note: A fenugreek seed extract (Testofen) improved sexual function and raised testosterone in healthy
     older men in a randomized trial
@@ -182,12 +182,11 @@ indications:
   - REF-1121
   - REF-1122
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0148
+  mechanistic_exclude_ids: []
 - condition: metabolic-support
   reference_ids:
-  - REF-0182
   - REF-2515
+  - REF-2449
   status: verified
   note: Fenugreek improved blood sugar control and blood lipids in meta-analyses of trials
 - condition: skin-irritation
@@ -195,7 +194,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0148
   - REF-1114
   - REF-1121
 - condition: high-cholesterol
@@ -225,22 +223,22 @@ indications:
   - REF-3821
   status: verified
 contraindications:
-- note: Fenugreek appears https://www.nccih.nih.gov/health/fenugreek for most people.
-  severity: info
-  reference_ids:
-  - REF-0148
-  - REF-0182
-  status: verified
-- note: Less serious side effects like diarrhea and indigestion have been reported anecdotally. You may
-    also experience https://pubmed.ncbi.nlm.nih.gov/26251835/, which could be harmful if you have an eating
-    disorder or are trying to https://www.healthline.com/nutrition/how-to-gain-weight. Moreover, some
-    people report a strange and slightly sweet body odor when supplementing, but this is unconfirmed.
-    Given its effect on blood sugar, fenugreek should be used with caution if you’re taking diabetes medication
-    or other supplements that lower blood sugar levels.
+- note: The WHO monograph contraindicates fenugreek seed in allergy to the plant and, because it stimulates
+    the uterus, in pregnancy. Allergic reactions after eating or inhaling the seed have been reported,
+    ranging from a runny nose and wheezing to fainting and facial swelling.
   severity: caution
   reference_ids:
-  - REF-0148
-  - REF-0182
+  - REF-3984
+  status: verified
+- note: Because it lowers blood sugar in people with diabetes, WHO advises using fenugreek seed with diabetes
+    tablets or insulin only under the supervision of a health professional. A review of its toxicology
+    reports birth defects and anti-fertility effects in animals and advises against use in pregnancy,
+    and suggests avoiding it with peanut or chickpea allergy (possible cross-reactivity) and in chronic
+    asthma.
+  severity: caution
+  reference_ids:
+  - REF-3984
+  - REF-1115
   status: verified
 - note: 'Duke (2002) provides strong clinical evidence (score 2) for fenugreek''s hypoglycemic and hypocholesterolemic
     activities - among the best-evidenced herbal treatments for blood sugar and lipid management. Anti-inflammatory
@@ -250,8 +248,6 @@ contraindications:
     Contraindicated in pregnancy at medicinal doses due to uterotonic effects (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0148
-  - REF-0182
   - REF-0063
   status: verified
 references:
@@ -259,7 +255,6 @@ references:
 - REF-1115
 - REF-1116
 - REF-1117
-- REF-0182
 - REF-1118
 - REF-1119
 - REF-1120
@@ -332,4 +327,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-2515), high-blood-pressure (MA; systolic only), hot-flashes and menopause (placebo RCT).
   Grieve REF-3849 added (diabetes, gout). Gaps: dysmenorrhoea MA (effect "highly uncertain"),
   lactation RCT (no significant difference), Alzheimer''s RCT (within-group only).
-  | 2026-11-19 (monograph-source audit): constituents[1] and preparations[0-1] cited only REF-0182 (glycaemia meta-analysis, no abstract stored, cannot be checked). RE-SOURCED: WHO Semen Trigonellae Foenugraeci vol. 3 (REF-3984, new; mucilage 25-45%, dosage forms and posology) + PFAF REF-3356 (strong mucilage, stomach and intestinal inflammation). Dropped as unsupported: galactomannan named as the fibre, slows carbohydrate absorption as the key glucose mechanism, taken with food, simmered tea, capsules, the form most used in trials.'
+  | 2026-11-19 (monograph-source audit): constituents[1] and preparations[0-1] cited only REF-0182 (glycaemia meta-analysis, no abstract stored, cannot be checked). RE-SOURCED: WHO Semen Trigonellae Foenugraeci vol. 3 (REF-3984, new; mucilage 25-45%, dosage forms and posology) + PFAF REF-3356 (strong mucilage, stomach and intestinal inflammation). Dropped as unsupported: galactomannan named as the fibre, slows carbohydrate absorption as the key glucose mechanism, taken with food, simmered tea, capsules, the form most used in trials.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0182 was a second,
+  locator-less copy of the Neelakantan 2014 glycaemia meta-analysis (PMID 24438170), already in the
+  bib as REF-2449; every citation moved to REF-2449 and REF-0182 deleted (same paper, same tier, so no
+  score change). REF-0148 (''Kumar & Bhandari 2013, fenugreek in experimental myocardial infarction'')
+  is not in PubMed, Crossref or OpenAlex under that title, author or year: removed and deleted, so the
+  cardiovascular pair no longer claims a rat heart-attack result. traditional_uses, the seed dose, the
+  saponin and 4-hydroxyisoleucine constituents and both cautions are rewritten from WHO vol. 3
+  (REF-3984), Grieve (REF-3849), the 4-hydroxyisoleucine review REF-1117 and the toxicology review
+  REF-1115; the two caution notes were scraped web text with pasted URLs. Dropped as unsupported: 6-50
+  g a day, 1-4 g in tea, Commission E approval, lactation aid.'

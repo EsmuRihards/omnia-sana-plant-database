@@ -13,37 +13,43 @@ parts_used:
 - Root
 - Seed
 botanical_description:
-  text: Tall, upright perennial herb with square stems and opposite, deeply toothed, heart-shaped to lance-shaped
-    leaves covered in fine stinging hairs that inject formic acid and histamine on contact. Tiny, greenish,
-    petal-less flowers hang in branched, drooping clusters from the leaf axils.
-  height: 60-150 cm
-  habit: Tall, upright, spreading perennial herb, often forming dense colonies via creeping rhizomes
-  leaves: Opposite, deeply toothed, heart-shaped to lance-shaped, densely covered in stinging hairs
-  flowers: Tiny, greenish, petal-less, in branched drooping axillary clusters (catkin-like)
-  stem: Square, upright, covered in stinging hairs
-  root: Extensive creeping rhizome and fibrous roots
-  fruit: Small dry seed (achene)
+  text: Perennial herb with creeping roots, the whole plant downy and covered with stinging hairs; each
+    sting is a hollow spine with the irritant fluid held in its swollen base. Leaves are heart-shaped,
+    finely toothed and taper to a point, borne in opposite pairs. Small green flowers hang in long, branched
+    clusters from the leaf axils; male and female flowers are usually on separate plants (hence dioica).
+  height: 60-90 cm as a rule (Grieve); 0.9-2 m in summer (Wikipedia), taller on rich soil
+  habit: Herbaceous perennial with widely spreading creeping rhizomes, forming patches; dies down in winter
+  leaves: Opposite, heart-shaped at the base, strongly toothed and tapering to a point, with stinging
+    hairs
+  flowers: Small, green, in long branched clusters from the leaf axils; male and female usually on separate
+    plants
+  stem: Downy and covered with stinging hairs
+  root: Creeping perennial rhizomes and roots, bright yellow
+  fruit: Small, one-seeded
   flowering_period: June-September
   reference_ids:
-  - REF-0098
+  - REF-3844
+  - REF-4030
   status: verified
 habitat:
-  text: Grows abundantly on nitrogen-rich waste ground, hedgerows, riverbanks, woodland edges and disturbed
-    soil; native to Europe, Asia, North Africa and North America and now found nearly worldwide.
+  text: Common on disturbed soil and river banks, in ditches and among brambles, and near houses and dumped
+    refuse; nettles follow human settlement and usually indicate soil rich in nitrogen. Native to Europe,
+    much of temperate Asia and western North Africa, and introduced to many other parts of the world.
   reference_ids:
-  - REF-0098
+  - REF-3844
+  - REF-4030
   status: verified
 harvesting:
-  text: Young leaves and tops are gathered in spring before flowering, when stinging is least severe and
-    nutrient content highest, using gloves; the root is dug in autumn or spring; seed is collected when
-    ripe in late summer. Cooking, drying or freeze-drying neutralises the sting.
+  text: Young tops are picked in spring when 15-20 cm (6-8 inches) high, wearing gloves. For drying, the
+    whole herb is cut in May and June just before it flowers, on a dry morning, and hung in bunches; seeds
+    and flowers are dried in the sun or over a stove. Autumn leaves are gritty and best avoided. Heat,
+    wilting or drying removes the sting.
   parts:
   - Leaf
-  - Root
   - Seed
-  season: Leaf in spring; root autumn/spring; seed late summer
+  season: Young tops in spring; whole herb in May-June, just before flowering
   reference_ids:
-  - REF-0098
+  - REF-3844
   status: verified
 harvest_readiness:
 - part: leaf
@@ -72,26 +78,30 @@ harvest_readiness:
   status: gap
   notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a root-harvest stage for Urtica dioica. Grieve's Nettles entry gives the herb only ('The whole herb, collected in May and June, just before coming into flower'); Herbal Reality gives the leaf only; the Arzneipflanzen-Lexikon entry has no root collection time; and Madaus is explicit that under the HAB it is the FRESH HERB, root excluded, that is the collection material for this species, noting root use only as a historical recommendation. Wikipedia supplies the aerial phenology ('dying down to the ground in winter') but no harvest rule, and it was not converted into one. German herbal websites do assert a spring/autumn root window but none could be retrieved to quote verbatim. Next seam: the EMA HMPC Urticae radix monograph checked for a collection statement, or a nettle-root agronomy paper."
 traditional_uses:
-  text: Nettle leaf has a long tradition as a nutritive spring tonic, diuretic and anti-inflammatory remedy
-    for joint pain and rheumatism, while the root has a well-documented traditional and modern use for
-    the irritative urinary symptoms of benign prostatic hyperplasia; the seed has a lighter tradition
-    as a kidney tonic.
+  text: Nettle tea is an old country spring medicine and blood purifier, also taken for nettle rash and
+    gouty gravel; nettle beer was given to old people for gouty and rheumatic pains, and flogging with
+    nettles ('urtication') was an old remedy for chronic rheumatism. The EU herbal monographs recognise
+    traditional use of the leaf for minor joint pain and to increase urine flow in minor urinary complaints,
+    and of the root for lower urinary tract symptoms of an enlarged prostate.
   reference_ids:
-  - REF-0050
-  - REF-0098
-  - REF-0263
+  - REF-3844
+  - REF-3082
+  - REF-4029
   status: verified
 preparations:
 - name: Infusion (leaf)
-  text: Dried or fresh (cooked/wilted) leaf infused in hot water as a traditional nutritive, diuretic
-    spring tonic tea.
+  text: 'Dried herb infused in hot water (Grieve: 1 oz to a pint of boiling water); nettle tea is a traditional
+    spring medicine, and the EU monograph lists the leaf as a herbal tea for minor joint pain and to increase
+    urine flow.'
   reference_ids:
-  - REF-0098
+  - REF-3844
+  - REF-3082
   status: verified
-- name: Root extract/tincture
-  text: Standardized root extract or tincture, traditionally used for BPH-related urinary symptoms.
+- name: Root infusion or extract
+  text: Comminuted root as an infusion, or dry and liquid root extracts, taken by mouth for lower urinary
+    tract symptoms of an enlarged prostate once a doctor has excluded serious conditions.
   reference_ids:
-  - REF-0263
+  - REF-4029
   status: verified
 - name: Freeze-dried leaf (capsule)
   text: Freeze-dried leaf in capsule form, used to avoid the fresh sting while retaining nutrients.
@@ -106,41 +116,41 @@ dosage:
   - REF-3082
   status: verified
 - name: Root extract
-  text: Traditional and Commission E sources suggest around 600-1200 mg root extract daily for BPH-related
-    urinary symptoms. Educational reference only, not a prescription.
+  text: The EU herbal monograph on nettle root gives, for adult and elderly men, 2 g of comminuted root
+    in 150 mL water as an infusion 2-3 times daily, or dry extracts at about 300-720 mg a day depending
+    on the extract (960 mg a day at the start of treatment for one extract); long-term use is possible,
+    and it is not for under-18s. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0263
+  - REF-4029
   status: verified
 constituents:
-- name: Flavonoids (quercetin, kaempferol glycosides)
+- name: Flavonoids
   compounds:
   - flavonoid
-  - quercetin
-  note: Contribute to the antioxidant and anti-inflammatory action.
+  note: Flavonoids are among the bioactive constituents isolated from the plant.
   reference_ids:
-  - REF-0050
+  - REF-1329
 - name: Phenolic acids
   compounds:
   - phenolic-acid
-  note: Antioxidant phenolics found throughout the leaf.
+  note: Phenolic acids have been isolated from the plant, and the leaves are rich in antioxidant polyphenols.
   reference_ids:
-  - REF-0050
-- name: Sterols (beta-sitosterol) and lignans (root)
-  compounds:
-  - phytosterol
-  - lignan
-  note: Thought to underlie the root's traditional use for BPH-related urinary symptoms.
+  - REF-1329
+  - REF-1335
+- name: Lectin (UDA) and polysaccharides (root)
+  note: Only a few components of the root's active principle are known; a root extract and a polysaccharide
+    fraction were anti-inflammatory, and the isolated lectin UDA was immunomodulatory, in lab studies.
   reference_ids:
-  - REF-0263
-- name: Histamine, formic acid, acetylcholine (stinging hairs)
-  note: The irritant compounds responsible for the fresh plant's sting; destroyed by cooking, drying or
-    freeze-drying.
+  - REF-1332
+- name: Histamine, serotonin and acetylcholine (stinging hairs); formic acid
+  note: The sting's irritants include histamine, serotonin and acetylcholine; Grieve lists formic acid
+    in the fresh plant. Heat, wilting or drying removes the sting.
   reference_ids:
-  - REF-0098
+  - REF-4030
+  - REF-3844
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0050
   - REF-1329
   - REF-1332
   - REF-1335
@@ -148,7 +158,6 @@ actions:
   status: verified
 - action: anti-rheumatic
   reference_ids:
-  - REF-0050
   - REF-1332
   - REF-1336
   - REF-3844
@@ -176,7 +185,6 @@ actions:
 indications:
 - condition: arthritis
   reference_ids:
-  - REF-0050
   - REF-3844
   - REF-3827
   status: verified
@@ -186,8 +194,8 @@ indications:
   null_result_ids:
   - REF-3828
   note: Nettle leaf stung onto the skin eased base-of-thumb osteoarthritis pain vs placebo in a randomized
-    trial (a knee-pain pilot found no difference); nettle leaf is reviewed for osteoarthritis; traditional
-    for rheumatism and gout (Grieve, A Modern Herbal)
+    trial (a knee-pain pilot found no difference); traditional for gouty and rheumatic pains and chronic
+    rheumatism (Grieve, A Modern Herbal)
 - condition: back-pain
   note: Nettle leaf is reviewed among herbal anti-inflammatories for chronic low back pain (review)
   reference_ids:
@@ -212,7 +220,6 @@ indications:
   - REF-3844
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0050
   - REF-1329
   - REF-1332
 - condition: swelling
@@ -222,7 +229,6 @@ indications:
   status: needs-review
 - condition: urinary-support
   reference_ids:
-  - REF-0263
   - REF-1333
   - REF-3844
   status: verified
@@ -235,7 +241,7 @@ indications:
   - REF-3823
   - REF-3824
   - REF-3825
-  - REF-0263
+  - REF-4029
   status: verified
 - condition: blood-sugar
   note: Nettle lowered fasting blood sugar in type 2 diabetes in meta-analyses of trials (effects on HbA1c
@@ -251,14 +257,17 @@ indications:
   - REF-3826
   status: verified
 contraindications:
-- note: Fresh plant causes stinging skin reaction (formic acid, histamine). Once cooked, dried, or freeze-dried,
-    this is eliminated. Root tincture may interact with diuretics, antihypertensives, and antidiabetic
-    drugs. Generally very safe in culinary and standard medicinal use. Avoid very high doses in pregnancy.
+- note: The fresh plant stings; heat, wilting or drying removes the sting, and a strong decoction drunk
+    too freely has caused burning over the whole body (Grieve). The EU herbal monograph on the leaf advises
+    against it where reduced fluid intake is recommended (for example severe heart or kidney disease),
+    in pregnancy and breastfeeding, and under 12 years; mild stomach upset and skin reactions may occur.
+    No interactions are reported for the leaf or the root, and root preparations can cause stomach upset
+    or allergic skin reactions.
   severity: caution
   reference_ids:
-  - REF-0050
-  - REF-0098
-  - REF-0263
+  - REF-3844
+  - REF-3082
+  - REF-4029
   status: verified
 - note: 'Duke (2002) rates stinging nettle as +++ and provides clinical evidence (score 2) for antiprostatitic
     activity (BPH - benign prostatic hyperplasia), consistent with Commission E approval for irritative
@@ -268,9 +277,6 @@ contraindications:
     common adverse effect is mild gastrointestinal upset (Duke, 2002).'
   severity: info
   reference_ids:
-  - REF-0050
-  - REF-0098
-  - REF-0263
   - REF-0063
   status: verified
 references:
@@ -322,4 +328,16 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   address. Cold, immune-support and UTI dropped (nothing names them). BPH review REF-1334 (never
   names urinary) and the saw palmetto + nettle combination REF-1337 removed. Thumb-OA nettle-sting
   RCT REF-3827 added; knee pilot REF-3828 no-effect. New pairs (owner rule): prostate-support (3
-  RCTs), blood-sugar (held MA REF-1331 + MA REF-3822), hot-flashes (placebo RCT).'
+  RCTs), blood-sugar (held MA REF-1331 + MA REF-3822), hot-flashes (placebo RCT).
+  | 2026-11-20 locatorless-ref audit (osdb, scripts/audit_locatorless_refs.py): REF-0050 (Chrubasik
+  2007, Phytother Res, PMID 17444576) now has its locator; its abstract names no nettle and the full
+  text is closed, so it is removed from the nettle monograph blocks, constituents, actions, the
+  arthritis pair and the cautions (its back-pain and inflammation pairs are left for the owner''s
+  score review). REF-0263 (''Schlichte 2016, nettle root for BPH'') is not in PubMed, Crossref or
+  OpenAlex under that title, author or year, so it is treated as unverifiable and deleted; the root
+  preparation, root dose and prostate claims now cite the EU nettle root monograph REF-4029. Generic
+  Grieve REF-0098 replaced by the nettle entry REF-3844 in the monograph blocks, with Wikipedia
+  REF-4030 for leaf arrangement, height, native range and the sting''s
+  histamine/serotonin/acetylcholine; unsupported details dropped (square stem, freeze-drying, seed as
+  kidney tonic, root dug in autumn, root tincture interacting with
+  diuretics/antihypertensives/antidiabetics: the EU monographs report no interactions).'

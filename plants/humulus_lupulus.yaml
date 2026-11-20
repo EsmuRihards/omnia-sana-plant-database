@@ -207,7 +207,6 @@ contraindications:
     in hormone-sensitive conditions. Fresh hops can cause contact dermatitis in pickers.
   severity: caution
   reference_ids:
-  - REF-0024
   - REF-0226
   status: verified
 - note: 'Duke (2002) rates hops as +++ and provides clinical evidence (score 2) for sedative activity,
@@ -218,7 +217,6 @@ contraindications:
     be used in depression, as its CNS-depressant effect may worsen depressive symptoms (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0024
   - REF-0226
   - REF-0063
   status: verified
@@ -337,4 +335,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   used: Lactium/Zizyphus and sleep-supplement combinations, non-alcoholic beer study, xanthohumol
   Crohn trials (compound, safety endpoint).
   | 2026-11-19 (monograph-source audit): botanical_description, harvesting and traditional_uses cited only REF-0839 (lab study). RE-SOURCED: WHO Strobilus Lupuli vol. 3 (REF-4003, new), Grieve Hops (REF-4004, new), EU monograph REF-3077. Not used: the PFAF page fetched for Humulus lupulus describes American hop (Humulus lupulus Nutt. / H. americanus), a different taxon. Dropped as unsupported: opposite grape-like leaves, climbing without tendrils, 6-8 m, late-summer flowering, picked when lupulin is sticky, hop-pickers'' drowsiness, GABA-A active bitter resins.
-  | 2026-11-20 (owner asked to fix the hop wording): three entries overstated a GABA-A mechanism. (1) Preparation ''Standardised extract'' (REF-0839 only) -> ''Dry extract'': the EU monograph REF-3077 (read 2026-11-20) lists dry extract 4-5:1 at 125 mg 2-3x daily (mental stress) and 125-250 mg 60 min before bedtime (sleep); REF-0839 is an animal pentobarbital-sleep study of one Korean hop extract (not described as standardised); WHO REF-4003 records a 15-volunteer uncontrolled study with no sleep-inducing effect and mixed animal results. (2) Bitter-acids constituent: ''responsible for much of the sedative, GABA-A-receptor-active and antimicrobial activity'' replaced by WHO REF-4003 (bitter substances 15-25% in the resins; humulone and lupulone the active anti-H. pylori constituents) and REF-0839 (humulone + xanthohumol mix matched the extract; xanthohumol is a prenylflavonoid, not a bitter acid). (3) passiflora-incarnata pairing (approved): ''both GABA-acting sedative herbs commonly combined in sleep blends'' had REF-2452 (a hypnotic-herb review naming neither herb) and REF-0565 (passionflower tea RCT); now REF-4203 (Maroo 2013 NSF-3 RCT: valerian + passionflower + hop extracts vs zolpidem, no significant difference, drowsiness commonest AE), REF-3077 (4.7 may impair ability to drive) and REF-0565. Kept approved, reviewed_date 2026-11-20. Not changed: the melissa-officinalis pairing also leans on REF-2452, which does not name hops.'
+  | 2026-11-20 (owner asked to fix the hop wording): three entries overstated a GABA-A mechanism. (1) Preparation ''Standardised extract'' (REF-0839 only) -> ''Dry extract'': the EU monograph REF-3077 (read 2026-11-20) lists dry extract 4-5:1 at 125 mg 2-3x daily (mental stress) and 125-250 mg 60 min before bedtime (sleep); REF-0839 is an animal pentobarbital-sleep study of one Korean hop extract (not described as standardised); WHO REF-4003 records a 15-volunteer uncontrolled study with no sleep-inducing effect and mixed animal results. (2) Bitter-acids constituent: ''responsible for much of the sedative, GABA-A-receptor-active and antimicrobial activity'' replaced by WHO REF-4003 (bitter substances 15-25% in the resins; humulone and lupulone the active anti-H. pylori constituents) and REF-0839 (humulone + xanthohumol mix matched the extract; xanthohumol is a prenylflavonoid, not a bitter acid). (3) passiflora-incarnata pairing (approved): ''both GABA-acting sedative herbs commonly combined in sleep blends'' had REF-2452 (a hypnotic-herb review naming neither herb) and REF-0565 (passionflower tea RCT); now REF-4203 (Maroo 2013 NSF-3 RCT: valerian + passionflower + hop extracts vs zolpidem, no significant difference, drowsiness commonest AE), REF-3077 (4.7 may impair ability to drive) and REF-0565. Kept approved, reviewed_date 2026-11-20. Not changed: the melissa-officinalis pairing also leans on REF-2452, which does not name hops.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0024 (Becker 2014,
+  valerian extract and valerenic acid in mice, PMID 25066015) is about valerian, not hop: removed from
+  both hop cautions and moved to the valerian references.'

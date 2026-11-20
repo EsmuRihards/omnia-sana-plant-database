@@ -10297,7 +10297,8 @@
     "REF-1814",
     "REF-1815",
     "REF-1816",
-    "REF-1818"
+    "REF-1818",
+    "REF-0050"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -11012,7 +11013,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0045",
-      "REF-0061",
       "REF-0184"
      ],
      "status": "verified"
@@ -11022,7 +11022,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0045",
-      "REF-0061",
       "REF-0184",
       "REF-0063"
      ],
@@ -28941,7 +28940,6 @@
      "note": "Generally safe at therapeutic doses for short-term use. Hop preparations may enhance the sedative effects of alcohol, benzodiazepines, and other CNS depressants - avoid combination. Not recommended during pregnancy or breastfeeding. May have mild oestrogenic effects due to 8-prenylnaringenin - caution in hormone-sensitive conditions. Fresh hops can cause contact dermatitis in pickers.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0024",
       "REF-0226"
      ],
      "status": "verified"
@@ -28950,7 +28948,6 @@
      "note": "Duke (2002) rates hops as +++ and provides clinical evidence (score 2) for sedative activity, consistent with Commission E approval for nervousness, unrest, and sleep disturbances. The primary sedative compound is 2-methyl-3-buten-2-ol, formed from humulone during storage. Duke notes that hop cones have estrogenic activity, explaining occupational menstrual irregularities reported among hop pickers. Dose: 0.5 g dried flower in tea before bed; often combined with valerian. Hops should not be used in depression, as its CNS-depressant effect may worsen depressive symptoms (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0024",
       "REF-0226",
       "REF-0063"
      ],
@@ -32983,18 +32980,20 @@
     }
    ],
    "traditional_uses": {
-    "text": "Shiitake has a very long East Asian culinary and medicinal tradition, used in Chinese and Japanese medicine as a tonic for vitality and longevity and to support healthy qi and blood; its polysaccharide lentinan, isolated from the fruiting body, has been used clinically in Japan as an adjunct immunotherapy, directly building on this traditional immune-tonic reputation.",
+    "text": "Shiitake has been used to improve general health for thousands of years in Asia, where it is known as xianggu in China and shiitake in Japan. It is used medicinally for conditions involving weakened immunity, colds and flu, high cholesterol, high blood pressure and other complaints, and its polysaccharide lentinan has been approved in China and Japan since the 1980s as an adjuvant drug in cancer treatment.",
     "reference_ids": [
-     "REF-0293"
+     "REF-3642",
+     "REF-1167"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Standardised extract",
-     "text": "Fruiting-body or mycelium extract standardised to polysaccharide (lentinan/beta-glucan) content, taken as capsules for immune support.",
+     "name": "Extracts (lentinan, mycelium and culture extracts)",
+     "text": "Preparations studied for their pharmacological effects include the polysaccharide lentinan and extracts of the mycelium and culture media (LEM, LAP, KS-2); lentinan is an approved adjuvant cancer drug in China and Japan.",
      "reference_ids": [
-      "REF-0293"
+      "REF-1167",
+      "REF-3642"
      ],
      "status": "verified"
     }
@@ -33006,9 +33005,9 @@
      "compounds": [
       "polysaccharide"
      ],
-     "note": "The principal immunomodulatory polysaccharide, used clinically in Japan as an injectable cancer-adjuvant therapy.",
+     "note": "A beta-glucan polysaccharide extracted from shiitake with immunostimulatory effects, approved as an adjuvant cancer drug in China and Japan since the 1980s.",
      "reference_ids": [
-      "REF-0293"
+      "REF-3642"
      ]
     },
     {
@@ -33020,7 +33019,6 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0293",
       "REF-0300",
       "REF-1165",
       "REF-1166",
@@ -33061,7 +33059,6 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0293",
       "REF-0300",
       "REF-1163",
       "REF-1164",
@@ -33083,8 +33080,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0300",
-      "REF-0293"
+      "REF-0300"
      ],
      "evidence": 8,
      "label": "Cancer (anticancer research)"
@@ -33096,8 +33092,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0300",
-      "REF-1170",
-      "REF-0293"
+      "REF-1170"
      ],
      "evidence": 1,
      "label": "Cold & flu"
@@ -33110,8 +33105,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0300",
-      "REF-1170",
-      "REF-0293"
+      "REF-1170"
      ],
      "note": "Eating shiitake daily improved immune cell function and raised secretory IgA in healthy adults in a randomized trial",
      "evidence": 5,
@@ -33142,12 +33136,11 @@
    ],
    "contraindications": [
     {
-     "note": "Generally very safe as a food. Raw or undercooked shiitake can cause a rare skin rash (shiitake dermatitis / flagellate dermatitis) in sensitive individuals - fully cooking eliminates this risk. May have mild anticoagulant effects. Rarely causes digestive upset. Well tolerated in normal culinary quantities.",
+     "note": "Eating raw or undercooked shiitake can cause shiitake dermatitis: a rare, itchy rash in lines (flagellate dermatitis), sometimes with fever or diarrhoea, caused by lentinan, which cooking inactivates. It settles by itself in about two weeks. Handling the mushroom can also cause allergic contact dermatitis.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0293",
-      "REF-0300",
-      "REF-0315"
+      "REF-1169",
+      "REF-1168"
      ],
      "status": "verified"
     },
@@ -33155,9 +33148,7 @@
      "note": "Duke (2002) rates shiitake as +++ and notes immunostimulant, hypocholesterolemic, antibacterial, and anti-HIV activities at the experimental level (score 1). The key active compound is lentinan, a beta-1,3-glucan polysaccharide, which is used as an injectable anticancer drug in Japan. Duke notes clinical applications of shiitake preparations for immune support, cancer adjuvant therapy, and cholesterol management. Dose: 1–3 (606 mg) capsules up to three times daily for standardized preparations. Shiitake dermatitis (flagellate erythema) is a rare but recognized adverse effect from eating raw or undercooked shiitake - cooking prevents this (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0293",
       "REF-0300",
-      "REF-0315",
       "REF-0063"
      ],
      "status": "verified"
@@ -33173,8 +33164,7 @@
     "REF-1169",
     "REF-1170",
     "REF-1171",
-    "REF-1172",
-    "REF-0315"
+    "REF-1172"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -48448,7 +48438,6 @@
      "action": "ergogenic",
      "note": "Physical performance / strength improvement",
      "reference_ids": [
-      "REF-0055",
       "REF-0132",
       "REF-1528",
       "REF-1529"
@@ -48466,7 +48455,6 @@
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0055",
       "REF-0132",
       "REF-1528",
       "REF-1535"
@@ -48588,7 +48576,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0055",
       "REF-0132",
       "REF-1528"
      ],
@@ -48660,7 +48647,6 @@
      "note": "Duke (2002) does not include a dedicated entry for Rhodiola rosea in the Handbook of Medicinal Herbs, Second Edition.",
      "severity": "info",
      "reference_ids": [
-      "REF-0055",
       "REF-0132",
       "REF-1528",
       "REF-0063"
@@ -61156,10 +61142,11 @@
     }
    ],
    "traditional_uses": {
-    "text": "Fenugreek seed has an ancient tradition across the Mediterranean, Middle East and South Asia as a digestive and appetite-stimulant remedy and lactation aid, and modern clinical research strongly supports its traditional use for blood sugar and cholesterol management, formalised in Commission E approval as an appetite stimulant.",
+    "text": "Fenugreek seed was held in high repute by the Egyptians, Greeks and Romans for medicine and cooking; in Egypt the soaked seed (helba) was taken against fevers, for the stomach and for diabetes, and the mucilaginous decoction was drunk for inflamed stomach and bowels and applied as a poultice to boils (Grieve). Pharmacopoeias list it internally for loss of appetite and externally as a poultice for local inflammation, and WHO lists clinical support as an adjunct for high cholesterol and high blood sugar in diabetes; it is widely used as a traditional medicine for diabetes in Asia.",
     "reference_ids": [
-     "REF-0148",
-     "REF-0182"
+     "REF-3849",
+     "REF-3984",
+     "REF-2449"
     ],
     "status": "verified"
    },
@@ -61184,23 +61171,23 @@
    "dosage": [
     {
      "name": "Seed",
-     "text": "Clinical research and traditional sources suggest around 6-50 g of ground seed daily (higher end for blood sugar management), or 1-4 g in tea for digestive use. Educational reference only, not a prescription.",
+     "text": "The WHO monograph gives an average daily dose of 6 g of cut or crushed seed by mouth, or the equivalent in preparations. In a meta-analysis of trials, effects on blood sugar were seen only with medium or high doses in people with diabetes. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0148",
-      "REF-0182"
+      "REF-3984",
+      "REF-2449"
      ],
      "status": "verified"
     }
    ],
    "constituents": [
     {
-     "name": "Steroidal saponins (diosgenin)",
+     "name": "Steroidal saponins (diosgenin, yamogenin, tigogenin)",
      "compounds": [
       "saponin"
      ],
-     "note": "Thought to contribute to the antidiabetic and cholesterol-lowering effects.",
+     "note": "Saponins make up 0.6-1.7% of the seed and are derived from diosgenin, yamogenin, tigogenin and related compounds.",
      "reference_ids": [
-      "REF-0148"
+      "REF-3984"
      ]
     },
     {
@@ -61216,9 +61203,9 @@
     },
     {
      "name": "4-hydroxyisoleucine (amino acid)",
-     "note": "An unusual amino acid studied for insulin-potentiating activity.",
+     "note": "An unusual amino acid from the seed, studied for its effects on insulin resistance.",
      "reference_ids": [
-      "REF-0148"
+      "REF-1117"
      ]
     },
     {
@@ -61231,7 +61218,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0148",
       "REF-1114",
       "REF-1118",
       "REF-1121",
@@ -61249,9 +61235,9 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0182",
       "REF-1117",
-      "REF-1118"
+      "REF-1118",
+      "REF-2449"
      ],
      "status": "verified"
     },
@@ -61273,7 +61259,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0148",
       "REF-1121"
      ],
      "evidence": 7,
@@ -61283,11 +61268,11 @@
      "condition": "blood-sugar",
      "note": "Fenugreek lowered fasting blood sugar and HbA1c in type 2 diabetes and prediabetes in meta-analyses of trials (study quality varies); traditional use in diabetes (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0182",
       "REF-1117",
       "REF-3817",
       "REF-2515",
-      "REF-3849"
+      "REF-3849",
+      "REF-2449"
      ],
      "status": "needs-review",
      "evidence": 9,
@@ -61306,11 +61291,10 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0148",
       "REF-3818"
      ],
      "status": "verified",
-     "note": "Fenugreek improved blood lipids in a meta-analysis of trials; its seeds protected the heart in a rat model of heart attack (preclinical)",
+     "note": "Fenugreek improved blood lipids in a meta-analysis of trials",
      "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
@@ -61332,17 +61316,15 @@
       "REF-1122"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0148"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "metabolic-support",
      "reference_ids": [
-      "REF-0182",
-      "REF-2515"
+      "REF-2515",
+      "REF-2449"
      ],
      "status": "verified",
      "note": "Fenugreek improved blood sugar control and blood lipids in meta-analyses of trials",
@@ -61355,7 +61337,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0148",
       "REF-1114",
       "REF-1121"
      ],
@@ -61407,20 +61388,19 @@
    ],
    "contraindications": [
     {
-     "note": "Fenugreek appears https://www.nccih.nih.gov/health/fenugreek for most people.",
-     "severity": "info",
+     "note": "The WHO monograph contraindicates fenugreek seed in allergy to the plant and, because it stimulates the uterus, in pregnancy. Allergic reactions after eating or inhaling the seed have been reported, ranging from a runny nose and wheezing to fainting and facial swelling.",
+     "severity": "caution",
      "reference_ids": [
-      "REF-0148",
-      "REF-0182"
+      "REF-3984"
      ],
      "status": "verified"
     },
     {
-     "note": "Less serious side effects like diarrhea and indigestion have been reported anecdotally. You may also experience https://pubmed.ncbi.nlm.nih.gov/26251835/, which could be harmful if you have an eating disorder or are trying to https://www.healthline.com/nutrition/how-to-gain-weight. Moreover, some people report a strange and slightly sweet body odor when supplementing, but this is unconfirmed. Given its effect on blood sugar, fenugreek should be used with caution if you’re taking diabetes medication or other supplements that lower blood sugar levels.",
+     "note": "Because it lowers blood sugar in people with diabetes, WHO advises using fenugreek seed with diabetes tablets or insulin only under the supervision of a health professional. A review of its toxicology reports birth defects and anti-fertility effects in animals and advises against use in pregnancy, and suggests avoiding it with peanut or chickpea allergy (possible cross-reactivity) and in chronic asthma.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0148",
-      "REF-0182"
+      "REF-3984",
+      "REF-1115"
      ],
      "status": "verified"
     },
@@ -61428,8 +61408,6 @@
      "note": "Duke (2002) provides strong clinical evidence (score 2) for fenugreek's hypoglycemic and hypocholesterolemic activities - among the best-evidenced herbal treatments for blood sugar and lipid management. Anti-inflammatory and demulcent activities also have clinical support. The seed is Commission E approved as an appetite stimulant. Dose: 6–50 g of ground seeds daily for blood sugar management; 1–4 g seeds in tea for digestive use. The plant has lactagogue effects and can cause maple syrup-like body odor due to sotolon content. Contraindicated in pregnancy at medicinal doses due to uterotonic effects (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0148",
-      "REF-0182",
       "REF-0063"
      ],
      "status": "verified"
@@ -61440,7 +61418,6 @@
     "REF-1115",
     "REF-1116",
     "REF-1117",
-    "REF-0182",
     "REF-1118",
     "REF-1119",
     "REF-1120",
@@ -61854,37 +61831,38 @@
     "Seed"
    ],
    "botanical_description": {
-    "text": "Tall, upright perennial herb with square stems and opposite, deeply toothed, heart-shaped to lance-shaped leaves covered in fine stinging hairs that inject formic acid and histamine on contact. Tiny, greenish, petal-less flowers hang in branched, drooping clusters from the leaf axils.",
-    "height": "60-150 cm",
-    "habit": "Tall, upright, spreading perennial herb, often forming dense colonies via creeping rhizomes",
-    "leaves": "Opposite, deeply toothed, heart-shaped to lance-shaped, densely covered in stinging hairs",
-    "flowers": "Tiny, greenish, petal-less, in branched drooping axillary clusters (catkin-like)",
-    "stem": "Square, upright, covered in stinging hairs",
-    "root": "Extensive creeping rhizome and fibrous roots",
-    "fruit": "Small dry seed (achene)",
+    "text": "Perennial herb with creeping roots, the whole plant downy and covered with stinging hairs; each sting is a hollow spine with the irritant fluid held in its swollen base. Leaves are heart-shaped, finely toothed and taper to a point, borne in opposite pairs. Small green flowers hang in long, branched clusters from the leaf axils; male and female flowers are usually on separate plants (hence dioica).",
+    "height": "60-90 cm as a rule (Grieve); 0.9-2 m in summer (Wikipedia), taller on rich soil",
+    "habit": "Herbaceous perennial with widely spreading creeping rhizomes, forming patches; dies down in winter",
+    "leaves": "Opposite, heart-shaped at the base, strongly toothed and tapering to a point, with stinging hairs",
+    "flowers": "Small, green, in long branched clusters from the leaf axils; male and female usually on separate plants",
+    "stem": "Downy and covered with stinging hairs",
+    "root": "Creeping perennial rhizomes and roots, bright yellow",
+    "fruit": "Small, one-seeded",
     "flowering_period": "June-September",
     "reference_ids": [
-     "REF-0098"
+     "REF-3844",
+     "REF-4030"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Grows abundantly on nitrogen-rich waste ground, hedgerows, riverbanks, woodland edges and disturbed soil; native to Europe, Asia, North Africa and North America and now found nearly worldwide.",
+    "text": "Common on disturbed soil and river banks, in ditches and among brambles, and near houses and dumped refuse; nettles follow human settlement and usually indicate soil rich in nitrogen. Native to Europe, much of temperate Asia and western North Africa, and introduced to many other parts of the world.",
     "reference_ids": [
-     "REF-0098"
+     "REF-3844",
+     "REF-4030"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Young leaves and tops are gathered in spring before flowering, when stinging is least severe and nutrient content highest, using gloves; the root is dug in autumn or spring; seed is collected when ripe in late summer. Cooking, drying or freeze-drying neutralises the sting.",
+    "text": "Young tops are picked in spring when 15-20 cm (6-8 inches) high, wearing gloves. For drying, the whole herb is cut in May and June just before it flowers, on a dry morning, and hung in bunches; seeds and flowers are dried in the sun or over a stove. Autumn leaves are gritty and best avoided. Heat, wilting or drying removes the sting.",
     "parts": [
      "Leaf",
-     "Root",
      "Seed"
     ],
-    "season": "Leaf in spring; root autumn/spring; seed late summer",
+    "season": "Young tops in spring; whole herb in May-June, just before flowering",
     "reference_ids": [
-     "REF-0098"
+     "REF-3844"
     ],
     "status": "verified"
    },
@@ -61926,28 +61904,29 @@
     }
    ],
    "traditional_uses": {
-    "text": "Nettle leaf has a long tradition as a nutritive spring tonic, diuretic and anti-inflammatory remedy for joint pain and rheumatism, while the root has a well-documented traditional and modern use for the irritative urinary symptoms of benign prostatic hyperplasia; the seed has a lighter tradition as a kidney tonic.",
+    "text": "Nettle tea is an old country spring medicine and blood purifier, also taken for nettle rash and gouty gravel; nettle beer was given to old people for gouty and rheumatic pains, and flogging with nettles ('urtication') was an old remedy for chronic rheumatism. The EU herbal monographs recognise traditional use of the leaf for minor joint pain and to increase urine flow in minor urinary complaints, and of the root for lower urinary tract symptoms of an enlarged prostate.",
     "reference_ids": [
-     "REF-0050",
-     "REF-0098",
-     "REF-0263"
+     "REF-3844",
+     "REF-3082",
+     "REF-4029"
     ],
     "status": "verified"
    },
    "preparations": [
     {
      "name": "Infusion (leaf)",
-     "text": "Dried or fresh (cooked/wilted) leaf infused in hot water as a traditional nutritive, diuretic spring tonic tea.",
+     "text": "Dried herb infused in hot water (Grieve: 1 oz to a pint of boiling water); nettle tea is a traditional spring medicine, and the EU monograph lists the leaf as a herbal tea for minor joint pain and to increase urine flow.",
      "reference_ids": [
-      "REF-0098"
+      "REF-3844",
+      "REF-3082"
      ],
      "status": "verified"
     },
     {
-     "name": "Root extract/tincture",
-     "text": "Standardized root extract or tincture, traditionally used for BPH-related urinary symptoms.",
+     "name": "Root infusion or extract",
+     "text": "Comminuted root as an infusion, or dry and liquid root extracts, taken by mouth for lower urinary tract symptoms of an enlarged prostate once a doctor has excluded serious conditions.",
      "reference_ids": [
-      "REF-0263"
+      "REF-4029"
      ],
      "status": "verified"
     }
@@ -61963,23 +61942,22 @@
     },
     {
      "name": "Root extract",
-     "text": "Traditional and Commission E sources suggest around 600-1200 mg root extract daily for BPH-related urinary symptoms. Educational reference only, not a prescription.",
+     "text": "The EU herbal monograph on nettle root gives, for adult and elderly men, 2 g of comminuted root in 150 mL water as an infusion 2-3 times daily, or dry extracts at about 300-720 mg a day depending on the extract (960 mg a day at the start of treatment for one extract); long-term use is possible, and it is not for under-18s. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0263"
+      "REF-4029"
      ],
      "status": "verified"
     }
    ],
    "constituents": [
     {
-     "name": "Flavonoids (quercetin, kaempferol glycosides)",
+     "name": "Flavonoids",
      "compounds": [
-      "flavonoid",
-      "quercetin"
+      "flavonoid"
      ],
-     "note": "Contribute to the antioxidant and anti-inflammatory action.",
+     "note": "Flavonoids are among the bioactive constituents isolated from the plant.",
      "reference_ids": [
-      "REF-0050"
+      "REF-1329"
      ]
     },
     {
@@ -61987,27 +61965,25 @@
      "compounds": [
       "phenolic-acid"
      ],
-     "note": "Antioxidant phenolics found throughout the leaf.",
+     "note": "Phenolic acids have been isolated from the plant, and the leaves are rich in antioxidant polyphenols.",
      "reference_ids": [
-      "REF-0050"
+      "REF-1329",
+      "REF-1335"
      ]
     },
     {
-     "name": "Sterols (beta-sitosterol) and lignans (root)",
-     "compounds": [
-      "phytosterol",
-      "lignan"
-     ],
-     "note": "Thought to underlie the root's traditional use for BPH-related urinary symptoms.",
+     "name": "Lectin (UDA) and polysaccharides (root)",
+     "note": "Only a few components of the root's active principle are known; a root extract and a polysaccharide fraction were anti-inflammatory, and the isolated lectin UDA was immunomodulatory, in lab studies.",
      "reference_ids": [
-      "REF-0263"
+      "REF-1332"
      ]
     },
     {
-     "name": "Histamine, formic acid, acetylcholine (stinging hairs)",
-     "note": "The irritant compounds responsible for the fresh plant's sting; destroyed by cooking, drying or freeze-drying.",
+     "name": "Histamine, serotonin and acetylcholine (stinging hairs); formic acid",
+     "note": "The sting's irritants include histamine, serotonin and acetylcholine; Grieve lists formic acid in the fresh plant. Heat, wilting or drying removes the sting.",
      "reference_ids": [
-      "REF-0098"
+      "REF-4030",
+      "REF-3844"
      ]
     }
    ],
@@ -62015,7 +61991,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0050",
       "REF-1329",
       "REF-1332",
       "REF-1335",
@@ -62026,7 +62001,6 @@
     {
      "action": "anti-rheumatic",
      "reference_ids": [
-      "REF-0050",
       "REF-1332",
       "REF-1336",
       "REF-3844"
@@ -62069,7 +62043,6 @@
     {
      "condition": "arthritis",
      "reference_ids": [
-      "REF-0050",
       "REF-3844",
       "REF-3827"
      ],
@@ -62081,7 +62054,7 @@
      "null_result_ids": [
       "REF-3828"
      ],
-     "note": "Nettle leaf stung onto the skin eased base-of-thumb osteoarthritis pain vs placebo in a randomized trial (a knee-pain pilot found no difference); nettle leaf is reviewed for osteoarthritis; traditional for rheumatism and gout (Grieve, A Modern Herbal)",
+     "note": "Nettle leaf stung onto the skin eased base-of-thumb osteoarthritis pain vs placebo in a randomized trial (a knee-pain pilot found no difference); traditional for gouty and rheumatic pains and chronic rheumatism (Grieve, A Modern Herbal)",
      "evidence": 5,
      "label": "Arthritis / joint pain"
     },
@@ -62126,7 +62099,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0050",
       "REF-1329",
       "REF-1332"
      ],
@@ -62146,7 +62118,6 @@
     {
      "condition": "urinary-support",
      "reference_ids": [
-      "REF-0263",
       "REF-1333",
       "REF-3844"
      ],
@@ -62162,7 +62133,7 @@
       "REF-3823",
       "REF-3824",
       "REF-3825",
-      "REF-0263"
+      "REF-4029"
      ],
      "status": "verified",
      "evidence": 7,
@@ -62192,12 +62163,12 @@
    ],
    "contraindications": [
     {
-     "note": "Fresh plant causes stinging skin reaction (formic acid, histamine). Once cooked, dried, or freeze-dried, this is eliminated. Root tincture may interact with diuretics, antihypertensives, and antidiabetic drugs. Generally very safe in culinary and standard medicinal use. Avoid very high doses in pregnancy.",
+     "note": "The fresh plant stings; heat, wilting or drying removes the sting, and a strong decoction drunk too freely has caused burning over the whole body (Grieve). The EU herbal monograph on the leaf advises against it where reduced fluid intake is recommended (for example severe heart or kidney disease), in pregnancy and breastfeeding, and under 12 years; mild stomach upset and skin reactions may occur. No interactions are reported for the leaf or the root, and root preparations can cause stomach upset or allergic skin reactions.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0050",
-      "REF-0098",
-      "REF-0263"
+      "REF-3844",
+      "REF-3082",
+      "REF-4029"
      ],
      "status": "verified"
     },
@@ -62205,9 +62176,6 @@
      "note": "Duke (2002) rates stinging nettle as +++ and provides clinical evidence (score 2) for antiprostatitic activity (BPH - benign prostatic hyperplasia), consistent with Commission E approval for irritative urination symptoms associated with BPH. Dose: 4–6 g dried herb daily or 600–1200 mg root extract. The root preparations are used for BPH while leaf preparations are used for antiallergic and anti-inflammatory purposes. Duke also notes experimental antiarthritic and analgesic activity. Generally safe; the most common adverse effect is mild gastrointestinal upset (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0050",
-      "REF-0098",
-      "REF-0263",
       "REF-0063"
      ],
      "status": "verified"
@@ -63128,7 +63096,8 @@
     "REF-1355",
     "REF-1356",
     "REF-1357",
-    "REF-0092"
+    "REF-0092",
+    "REF-0024"
    ],
    "drug_class_interactions": [
     {
@@ -66906,7 +66875,8 @@
    "last_updated": "2026-08-15",
    "references": [
     "REF-0269",
-    "REF-0639"
+    "REF-0639",
+    "REF-0050"
    ],
    "common_slug": "ginger"
   }

@@ -67,24 +67,23 @@ harvest_readiness:
   status: provisional
   notes: "Plantura restharrow overview (REF-3391). TAXONOMIC CAVEAT, and the reason species_confirmed is FALSE: the harvest sentence sits in the source's treatment of spiny restharrow (Ononis spinosa), and the same page treats our plant as a subspecies of it - 'Also known as Ononis arvensis, this is another subspecies of the spiny restharrow' (i.e. Ononis spinosa subsp. hircina). The source therefore never names Ononis arvensis as the plant whose taproot it describes. Recorded as provisional with the caveat visible, rather than silently inheriting the pharmacopoeial congener's timing; the PFAF page for O. arvensis remains an empty template listing only O. repens and O. spinosa. Single lineage -> provisional."
 traditional_uses:
-  text: Restharrow root has a long place in European herbal medicine as a gentle aquaretic diuretic used
-    for 'irrigation therapy' of the urinary tract - to increase urine flow in cystitis, urinary gravel
-    and stones, and to flush the bladder. Field restharrow (Ononis arvensis) is used interchangeably with
-    the officinal spiny restharrow (O. spinosa, Ononidis radix). The root and flowering herb have also
-    been used as a mild anti-inflammatory, for skin complaints and eczema, for rheumatic conditions, and
-    (as a decoction or gargle) for the mouth and throat. The isoflavone-rich root is a folk remedy in
-    central and eastern European traditions.
+  text: Field restharrow grows throughout Europe and is used in folk medicine to treat infections of the
+    urinary tract and skin diseases. Its root has long been used as a medicine in many countries, mostly
+    as tinctures, infusions and lotions. The restharrow root of the European Pharmacopoeia and the EU
+    herbal monograph comes from the related spiny restharrow (Ononis spinosa), used to increase urine
+    flow and flush the urinary tract in minor urinary complaints; the two species show no characteristic
+    difference in their isoflavonoid pattern.
   reference_ids:
-  - REF-2748
-  - REF-2753
+  - REF-2741
+  - REF-3023
+  - REF-4026
+  - REF-2743
   status: verified
 preparations:
-- name: Decoction
-  text: The dried root simmered in water and taken as an aquaretic diuretic for irrigation of the urinary
-    tract; the classic restharrow preparation.
+- name: Root tincture, infusion or lotion
+  text: In folk medicine the root of field restharrow is used as tinctures, infusions and lotions.
   reference_ids:
-  - REF-2753
-  - REF-2748
+  - REF-3023
   status: verified
 - name: Infusion
   text: The flowering aerial parts infused as a milder diuretic and anti-inflammatory tea.
@@ -243,12 +242,14 @@ contraindications:
   reference_ids:
   - REF-2758
   status: verified
-- note: Used as an aquaretic for irrigation therapy of the urinary tract, restharrow should be taken with
-    a generous fluid intake; it should NOT be used for 'flushing' when there is oedema due to impaired
-    heart or kidney function (standard irrigation-therapy caution).
+- note: No safety assessment exists for field restharrow itself. The EU herbal monograph for the root
+    of the related spiny restharrow (Ononis spinosa) says it must not be used where a reduced fluid intake
+    is recommended, such as severe heart or kidney disease, that enough fluid must be drunk during use,
+    and that a doctor should be seen if urinary complaints worsen or fever, painful urination, spasms
+    or blood in the urine appear.
   severity: caution
   reference_ids:
-  - REF-2753
+  - REF-4026
   status: verified
 - note: The root is rich in isoflavone phytoestrogens (formononetin); avoid medicinal doses in pregnancy
     and breastfeeding and use caution in hormone-sensitive conditions.
@@ -284,14 +285,13 @@ references:
 drug_class_interactions:
 - drug_class: diuretics
   severity: caution
-  mechanism: Restharrow is an aquaretic diuretic; taken with pharmaceutical diuretics it may add to fluid
-    and electrolyte loss.
+  mechanism: 'Theoretical only: extracts of field restharrow have been reported to have diuretic activity,
+    so it might add to the effect of pharmaceutical diuretics. No interaction has been reported, and the
+    EU monograph for the related spiny restharrow root lists none.'
   reference_ids:
-  - REF-2753
-  - REF-2748
-  status: approved
-  reviewed_by: Omnia Sana (owner-authorized)
-  reviewed_date: '2026-07-10'
+  - REF-3019
+  - REF-4026
+  status: draft
 - drug_class: hormonal-therapies
   severity: caution
   mechanism: The root is rich in the isoflavone phytoestrogen formononetin; it could theoretically interact
@@ -306,20 +306,17 @@ pairings:
 - partner_id: solidago-virgaurea
   type: synergy
   note: 'Classic urinary irrigation-therapy pairing: both are aquaretic diuretics used to increase urine
-    flow in cystitis and urinary gravel.'
-  reference_ids:
-  - REF-2753
-  status: approved
-  reviewed_by: Omnia Sana (owner-authorized)
-  reviewed_date: '2026-07-10'
+    flow in cystitis and urinary gravel. UNSOURCED: no source found pairs field restharrow with this herb;
+    demoted from approved on 2026-11-20 (see internal_notes).'
+  reference_ids: []
+  status: draft
 - partner_id: betula-pendula
   type: synergy
-  note: Both are traditional diuretic 'flushing' herbs for irrigation therapy of the urinary tract.
-  reference_ids:
-  - REF-2753
-  status: approved
-  reviewed_by: Omnia Sana (owner-authorized)
-  reviewed_date: '2026-07-10'
+  note: 'Both are traditional diuretic ''flushing'' herbs for irrigation therapy of the urinary tract.
+    UNSOURCED: no source found pairs field restharrow with this herb; demoted from approved on 2026-11-20
+    (see internal_notes).'
+  reference_ids: []
+  status: draft
 - partner_id: trifolium-pratense
   type: caution
   note: Both are Fabaceae rich in the isoflavone phytoestrogen formononetin; combined use adds to phytoestrogen
@@ -376,4 +373,6 @@ internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Onon
   | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. REF-2759 and REF-3028
   study Ononis spinosa, and REF-3034 screens O. spinosa among Turkish plants - not O. arvensis;
   purged and deleted (the genus hepatotoxicity warning REF-2758 stays). Notes rewritten.
-  | 2026-11-20 (monograph-source audit follow-up): REF-2753 (Nechita 2026, Plants, PMID 42122901, PMC13164978) re-tagged review -> narrative-review. Its abstract describes a 4-database search, but the full-text Methods call it ''a comprehensive narrative review'', add later papers ad hoc, include earlier studies ''selectively'' and do no quality assessment, so it fails invariant 8; its 34 studies are all in vitro / animal. Not in any indication or action here, so no score change. OPEN (owner decision, not changed): the paper covers Ononis SPINOSA only - it never names O. arvensis - yet it is still cited on 6 entries of this record: traditional_uses, the Decoction preparation, the irrigation-therapy caution, the diuretics interaction and the solidago-virgaurea and betula-pendula pairings. The full text does support O. spinosa root decoctions for diuresis and kidney stones (Turkish, Iranian folk use), irrigation therapy of the lower urinary tract, and external use on wounds and skin; it does NOT state the oedema / heart-or-kidney caution, any interaction with diuretic drugs, or either pairing (no mention of Solidago or Betula), nor gargles or eczema. The co-citation REF-2748 is the unverifiable Rezacova 1978 study already removed from every symptom on 2026-11-10.'
+  | 2026-11-20 (monograph-source audit follow-up): REF-2753 (Nechita 2026, Plants, PMID 42122901, PMC13164978) re-tagged review -> narrative-review. Its abstract describes a 4-database search, but the full-text Methods call it ''a comprehensive narrative review'', add later papers ad hoc, include earlier studies ''selectively'' and do no quality assessment, so it fails invariant 8; its 34 studies are all in vitro / animal. Not in any indication or action here, so no score change. OPEN (owner decision, not changed): the paper covers Ononis SPINOSA only - it never names O. arvensis - yet it is still cited on 6 entries of this record: traditional_uses, the Decoction preparation, the irrigation-therapy caution, the diuretics interaction and the solidago-virgaurea and betula-pendula pairings. The full text does support O. spinosa root decoctions for diuresis and kidney stones (Turkish, Iranian folk use), irrigation therapy of the lower urinary tract, and external use on wounds and skin; it does NOT state the oedema / heart-or-kidney caution, any interaction with diuretic drugs, or either pairing (no mention of Solidago or Betula), nor gargles or eczema. The co-citation REF-2748 is the unverifiable Rezacova 1978 study already removed from every symptom on 2026-11-10.
+  | 2026-11-20 (REF-2753 wrong-species fix, owner-approved ''Yes, fix them''): REF-2753 (Ononis SPINOSA review) and the unverifiable REF-2748 (Rezacova 1978, no abstract on PubMed 752421) removed from the 6 entries they carried. (1) traditional_uses rewritten to what field-restharrow sources state: REF-2741 abstract ''Ononis arvensis L. can be found overall in Europe and is used to treat infections of the urinary tract and skin diseases in ethnopharmacology''; REF-3023 abstract (O. arvensis and O. intermedia roots used in folk medicine as tinctures, infusions and lotions); plus REF-4026 (EU monograph EMA/HMPC/138317/2013, new) for the officinal spiny restharrow root and REF-2743 (no characteristic isoflavonoid difference between the two species). Dropped as unsourced for O. arvensis: ''aquaretic'', ''used interchangeably with O. spinosa'', cystitis/gravel, mouth/throat gargle, eczema, rheumatic use, ''central and eastern European''. (2) The Decoction preparation is now ''Root tincture, infusion or lotion'' cited to REF-3023; no O. arvensis source names a decoction (even the EU monograph for O. spinosa gives an infusion). (3) Irrigation caution re-sourced to the EU O. spinosa monograph (4.3 contraindication: conditions where reduced fluid intake is recommended, e.g. severe cardiac or renal disease; 4.4 adequate fluid intake, see a doctor for fever/dysuria/spasm/blood in urine) and framed as the congener''s, like the hepatotoxicity row. (4) diuretics interaction (approved by owner 2026-07-10) had no supporting source: the EU monograph 4.5 says ''None reported''. Rewritten as theoretical (REF-3019 states O. arvensis extract diuretic activity was previously proven) and set to DRAFT, so it is off the public interaction checker until re-approved. (5-6) solidago-virgaurea and betula-pendula pairings (approved 2026-07-10) had REF-2753 as sole ref, which never mentions Solidago or Betula; refs removed, set to DRAFT, reviewed_by/date dropped. Leads for the owner, all O. SPINOSA not O. arvensis: Fluxonorm (S. virgaurea + O. spinosa + 3 others, PMID 33877671; RCT PMID 42244389) and a German standard UTI tea formulation with Betula (Boertz 2025 Planta Med, PMID 40112859, no PMC full text). Grieve''s Rest-Harrow page rejected: its own editors note ''Ononis spinosa printed as Ononis arvensis''. Not touched (out of scope): Infusion and Gargle/wash preparations still cite only REF-2748; the unsourced Tincture entry could be sourced to REF-3023 (1:5 root tinctures in 70% ethanol).
+  | 2026-11-20: REF-2753 (Nechita 2026, O. spinosa review, PMID 42122901) is now cited by no record (validate orphan, practice loop confirmed wired: 3779/3780) and its bibliography entry was DELETED so it stops shipping to the Knowledge Finder. It covers Ononis spinosa only; do not re-add it to this record.'

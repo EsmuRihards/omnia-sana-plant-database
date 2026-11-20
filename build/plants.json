@@ -39991,20 +39991,21 @@
     }
    ],
    "traditional_uses": {
-    "text": "Restharrow root has a long place in European herbal medicine as a gentle aquaretic diuretic used for 'irrigation therapy' of the urinary tract - to increase urine flow in cystitis, urinary gravel and stones, and to flush the bladder. Field restharrow (Ononis arvensis) is used interchangeably with the officinal spiny restharrow (O. spinosa, Ononidis radix). The root and flowering herb have also been used as a mild anti-inflammatory, for skin complaints and eczema, for rheumatic conditions, and (as a decoction or gargle) for the mouth and throat. The isoflavone-rich root is a folk remedy in central and eastern European traditions.",
+    "text": "Field restharrow grows throughout Europe and is used in folk medicine to treat infections of the urinary tract and skin diseases. Its root has long been used as a medicine in many countries, mostly as tinctures, infusions and lotions. The restharrow root of the European Pharmacopoeia and the EU herbal monograph comes from the related spiny restharrow (Ononis spinosa), used to increase urine flow and flush the urinary tract in minor urinary complaints; the two species show no characteristic difference in their isoflavonoid pattern.",
     "reference_ids": [
-     "REF-2748",
-     "REF-2753"
+     "REF-2741",
+     "REF-3023",
+     "REF-4026",
+     "REF-2743"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Decoction",
-     "text": "The dried root simmered in water and taken as an aquaretic diuretic for irrigation of the urinary tract; the classic restharrow preparation.",
+     "name": "Root tincture, infusion or lotion",
+     "text": "In folk medicine the root of field restharrow is used as tinctures, infusions and lotions.",
      "reference_ids": [
-      "REF-2753",
-      "REF-2748"
+      "REF-3023"
      ],
      "status": "verified"
     },
@@ -40234,10 +40235,10 @@
      "status": "verified"
     },
     {
-     "note": "Used as an aquaretic for irrigation therapy of the urinary tract, restharrow should be taken with a generous fluid intake; it should NOT be used for 'flushing' when there is oedema due to impaired heart or kidney function (standard irrigation-therapy caution).",
+     "note": "No safety assessment exists for field restharrow itself. The EU herbal monograph for the root of the related spiny restharrow (Ononis spinosa) says it must not be used where a reduced fluid intake is recommended, such as severe heart or kidney disease, that enough fluid must be drunk during use, and that a doctor should be seen if urinary complaints worsen or fever, painful urination, spasms or blood in the urine appear.",
      "severity": "caution",
      "reference_ids": [
-      "REF-2753"
+      "REF-4026"
      ],
      "status": "verified"
     },
@@ -40278,18 +40279,6 @@
    ],
    "drug_class_interactions": [
     {
-     "drug_class": "diuretics",
-     "severity": "caution",
-     "mechanism": "Restharrow is an aquaretic diuretic; taken with pharmaceutical diuretics it may add to fluid and electrolyte loss.",
-     "reference_ids": [
-      "REF-2753",
-      "REF-2748"
-     ],
-     "status": "approved",
-     "reviewed_by": "Omnia Sana (owner-authorized)",
-     "reviewed_date": "2026-07-10"
-    },
-    {
      "drug_class": "hormonal-therapies",
      "severity": "caution",
      "mechanism": "The root is rich in the isoflavone phytoestrogen formononetin; it could theoretically interact with hormonal contraceptives, hormone replacement or hormone-sensitive conditions.",
@@ -40303,28 +40292,6 @@
     }
    ],
    "pairings": [
-    {
-     "partner_id": "solidago-virgaurea",
-     "type": "synergy",
-     "note": "Classic urinary irrigation-therapy pairing: both are aquaretic diuretics used to increase urine flow in cystitis and urinary gravel.",
-     "reference_ids": [
-      "REF-2753"
-     ],
-     "status": "approved",
-     "reviewed_by": "Omnia Sana (owner-authorized)",
-     "reviewed_date": "2026-07-10"
-    },
-    {
-     "partner_id": "betula-pendula",
-     "type": "synergy",
-     "note": "Both are traditional diuretic 'flushing' herbs for irrigation therapy of the urinary tract.",
-     "reference_ids": [
-      "REF-2753"
-     ],
-     "status": "approved",
-     "reviewed_by": "Omnia Sana (owner-authorized)",
-     "reviewed_date": "2026-07-10"
-    },
     {
      "partner_id": "trifolium-pratense",
      "type": "caution",

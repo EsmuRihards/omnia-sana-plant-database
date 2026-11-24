@@ -223,7 +223,6 @@ references:
 - REF-1374
 - REF-1375
 - REF-1376
-- REF-1377
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -258,4 +257,8 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   relief) wired as a new infection pair (owner rule). Eczema/skin notes now describe REF-1373 (1%
   ointment beat 1% hydrocortisone, pilot trial in children). Indigestion note no longer claims
   heartburn/reflux (EU monograph: mild gastric discomfort only). BNO 1030 (Imupret) trial not
-  added (multi-herb).'
+  added (multi-herb).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-1377 (''Berry J. 1884,
+  Althaea officinalis, The Hospital 1(6):85-6'') is not findable as cited; the only match is Berry FC
+  1884, ''Althaea Officinalis'', The Homoeopathic Physician 4(6):156 (PMID 37134800), a homeopathy
+  journal note. Removed from the references and deleted.'

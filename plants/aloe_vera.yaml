@@ -80,9 +80,13 @@ preparations:
   - REF-2234
   status: draft
 - name: Latex/dried juice
-  text: The bitter yellow leaf exudate (containing anthraquinone glycosides) used traditionally as a stimulant
-    laxative; not recommended for prolonged use.
-  status: draft
+  text: The bitter yellow leaf exudate (latex), rich in anthraquinones such as aloin and aloe-emodin,
+    acts as a stimulant laxative; the US FDA removed it from over-the-counter laxatives in 2002, and EFSA
+    regards these compounds as a safety concern. Not for self-treatment.
+  status: verified
+  reference_ids:
+  - REF-5130
+  - REF-5117
 dosage:
 - name: Topical gel
   text: The WHO monograph on Aloe Vera Gel specifies fresh gel, or preparations containing 10-70% fresh
@@ -184,56 +188,95 @@ indications:
   reference_ids: []
   status: needs-review
 - condition: skin-irritation
-  note: Used on irritated and inflamed skin (reviews); a systematic review found no evidence that it prevents
-    radiation skin reactions
+  note: Used on irritated and inflamed skin (reviews); a 2022 systematic review of 14 randomized trials
+    found aloe lowered the risk of radiation skin reactions, while an earlier systematic review and a
+    2017 trial found no benefit
   reference_ids:
   - REF-2234
   - REF-2243
+  - REF-5106
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2240
   null_result_ids:
   - REF-3423
+  - REF-5107
 - condition: wounds
-  note: Aloe sped healing of second-degree burns in a meta-analysis of randomized trials and aided skin
-    wound healing in a systematic review; a Cochrane review found no high-quality evidence for acute and
-    chronic wounds
+  note: Aloe sped healing of second-degree burns in meta-analyses of randomized trials, aided diabetic
+    foot ulcer healing in a double-blind trial and aided skin wound healing in a systematic review; a
+    Cochrane review found no high-quality evidence for acute and chronic wounds
   reference_ids:
   - REF-2241
   - REF-2238
   - REF-2243
   - REF-3420
+  - REF-5108
+  - REF-5109
   status: needs-review
   null_result_ids:
   - REF-3419
 - condition: oral-health
   note: Aloe gel healed mouth ulcers faster and reduced severe chemotherapy or radiotherapy mouth sores
-    (meta-analyses of randomized trials)
+    (meta-analyses of randomized trials), and beat placebo for recurrent aphthous ulcers; a meta-analysis
+    of natural oral-care products found aloe consistently improved gingival health
   reference_ids:
   - REF-3421
   - REF-3422
+  - REF-5110
+  - REF-5111
   status: verified
 - condition: blood-sugar
-  note: May improve blood glucose (HbA1c) in prediabetes and type 2 diabetes (meta-analysis; evidence
-    limited)
+  note: Lowered fasting blood glucose and HbA1c in meta-analyses of trials in prediabetes and type 2 diabetes
+    (evidence limited, with signs of publication bias)
   reference_ids:
   - REF-2456
+  - REF-5105
   status: verified
 - condition: ibs
-  note: Improved IBS symptoms vs placebo in a meta-analysis of three small randomized trials
+  note: Improved IBS symptoms vs placebo in a meta-analysis of three small randomized trials; two other
+    randomized trials (2006, 2020) found no overall benefit over placebo
   reference_ids:
   - REF-3424
   status: verified
+  null_result_ids:
+  - REF-5103
+  - REF-5104
+- condition: ibd
+  note: Oral aloe vera gel produced a clinical response more often than placebo (47% vs 14%) in a small
+    4-week double-blind randomized trial in active ulcerative colitis; remission rates did not differ
+    significantly
+  reference_ids:
+  - REF-5102
+  status: verified
+- condition: bruising
+  note: Aloe vera gel applied for 6 days reduced bruising (ecchymosis) at the leg vein harvest site after
+    heart bypass surgery compared with the untreated leg and with cold/warm compresses, in a randomized
+    trial
+  reference_ids:
+  - REF-5131
+  status: verified
 contraindications:
-- note: Topical use of aloe gel is generally safe for most people. Oral use of aloe latex as a laxative
-    is potentially unsafe with prolonged use due to risk of dehydration, electrolyte imbalance, and potential
-    kidney damage. Aloe latex contains anthraquinone glycosides which may cause abdominal cramping and
-    diarrhea. Not recommended during pregnancy or breastfeeding. May interact with diabetes medications,
-    diuretics, and laxatives. Oral aloe gel at typical doses appears safe short-term but long-term safety
-    is unclear. Allergic reactions possible in sensitive individuals.
-  severity: caution
-  reference_ids: []
-  status: needs-review
+- note: Topical aloe gel is generally well tolerated, though burning, itching, rash and eczema are occasionally
+    reported. Taken by mouth, aloe latex can cause abdominal pain, cramps and diarrhoea, and the US FDA
+    removed it from over-the-counter laxatives in 2002 for lack of safety data. IARC classes non-decolorized
+    whole-leaf aloe extract as possibly carcinogenic to humans, and the European Food Safety Authority
+    regards the hydroxyanthracene derivatives in aloe latex and whole-leaf extracts (such as aloe-emodin)
+    as genotoxic and carcinogenic unless shown otherwise. Acute hepatitis has been reported after oral
+    aloe leaf extracts, while purified inner-leaf gel did not change liver tests in healthy volunteers
+    over 60 days. Large amounts of the fibrous gel have caused bowel obstruction (bezoar). Oral aloe may
+    lower blood sugar, so monitor glucose with diabetes medicines, and oral aloe in any form may be unsafe
+    in pregnancy and while breastfeeding.
+  severity: warning
+  reference_ids:
+  - REF-5130
+  - REF-5117
+  - REF-5115
+  - REF-5116
+  - REF-5112
+  - REF-5113
+  - REF-5114
+  - REF-5105
+  status: verified
 - note: 'Duke (2002) reports clinical evidence (score 2/3) supporting aloe gel''s use in psoriasis, constipation
     (in adults), and as a vulnerary. Gel preparations have been clinically validated for peptic ulcers
     (excluding stress-induced), radiation burns, and skin ulcers. Dose: 1 tablespoon gel three times daily
@@ -257,6 +300,9 @@ references:
 - REF-2242
 - REF-2243
 - REF-2244
+- REF-5118
+- REF-5119
+- REF-5120
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
@@ -268,6 +314,13 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: cardiac-glycosides
+  severity: caution
+  mechanism: NCCIH warns that overuse of aloe latex, a stimulant laxative, may increase the risk of adverse
+    effects from cardiac glycosides such as digoxin.
+  reference_ids:
+  - REF-5130
+  status: draft
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -353,4 +406,24 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   skin-irritation. New pairs (owner rule, MA-backed): oral-health (REF-3421 oral ulcers, REF-3422
   mucositis), blood-sugar (held MA REF-2456), ibs (Hong 2018 MA REF-3424). Not added: gingivitis
   SR 30829440 ("inconclusive"), prediabetes MA 27347994 ("results are inconclusive"), psoriasis
-  (mixed RCTs).'
+  (mixed RCTs).
+  | 2026-11-24: symptom-source audit research-deepening batch 2 - Searched PubMed ("Aloe vera" OR
+  "Aloe barbadensis" tiab, aloe ti; 460 HT, 167 SR, 654 SAFE hits), Europe PMC, ClinicalTrials.gov
+  (100) and OpenAlex. NEW pair ibd (Langmead 2004 double-blind RCT, ulcerative colitis, clinical
+  response significant). IBS: Davis 2006 and Storsrud 2020 RCTs recorded as no-effect. Added: Dick
+  2016 glucose MA; 2022 radiation-dermatitis SR (14 RCTs, positive) + 2017 null RCT;
+  diabetic-foot-ulcer RCT and Maenthaisong 2007 burn SR to wounds; three-arm placebo RCT for
+  aphthous ulcers and 2026 gingival MA to oral-health. NEW pair bruising (2026 RCT,
+  vein-harvest-site ecchymosis, found via Europe PMC). SAFETY: the oral-latex caution had NO
+  source - now sourced to NCCIH (REF-5130, read 2026-11-24), EFSA 2018 hydroxyanthracene opinion,
+  aloe gel food-tox review, aloe-emodin review, acute liver injury case, 60-day gel-juice liver
+  study (PubMed lists the EFSA DOI on 33132775 by mistake; entry kept with PMID only), bezoar
+  case; raised to warning; latex preparation sourced. Draft interaction: cardiac glycosides
+  (caution, NCCIH). Bucket: 2021 umbrella review (phlebitis prevention best supported; no vocab
+  condition), atrophic-vaginitis RCT and GERD pilot (active comparators only). Not added:
+  retracted rat atopic-dermatitis paper; combination products (aloe+olive oil,
+  aloe+chamomile+thyme, aloe+pineapple, polyherbal mouthwashes, colostrum+aloe); radiation
+  proctitis RCTs (no vocab condition); hemorrhoidectomy-pain NMA (post-surgical pain,
+  inconclusive); IBS trial 24379854 (no abstract); periodontal adjunct trials vs active drugs.'
+synonyms:
+- Aloe barbadensis

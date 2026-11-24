@@ -29,38 +29,38 @@ constituents:
   - REF-0686
   - REF-0687
 botanical_description:
-  text: Low, clump-forming perennial herb with distinctive rounded, softly hairy leaves divided into 7-11
-    shallow, scalloped, toothed lobes, fanning out like a cloak (giving the genus name Alchemilla, 'little
-    alchemist', after the dew drops that collect in the leaf centre, once prized by alchemists). Tiny,
-    petal-less, yellow-green flowers are borne in loose, branching clusters above the foliage.
-  height: 10-40 cm
+  text: Low perennial herb, only about a foot high and green throughout, from a short, stout, black rootstock.
+    The lower leaves are 6-8 inches across on stalks 6-18 inches long, somewhat kidney-shaped, and cut
+    into seven or mostly nine broad but shallow lobes, finely toothed at the edges; the upper leaves are
+    stalkless or short-stalked. The numerous small flowers, only about 1/8 inch across, are yellow-green,
+    have no petals and four stamens, and are borne in loose clusters from June to August.
+  height: About a foot (30 cm)
   habit: Low, clump-forming perennial herb
-  leaves: Rounded, softly hairy, palmately lobed into 7-11 shallow scalloped, toothed lobes
-  flowers: Tiny, petal-less, yellow-green flowers in loose branching clusters
-  stem: Short, softly hairy flowering stems rising above the leaf clump
-  root: Short, stout rootstock
-  fruit: Small dry achene
-  flowering_period: May-September
+  leaves: Lower leaves 6-8 inches across, kidney-shaped, cut into seven or mostly nine broad shallow lobes,
+    finely toothed; upper leaves stalkless or short-stalked
+  flowers: Numerous tiny (1/8 inch) yellow-green flowers without petals, four stamens, in loose clusters
+  root: Short, stout, black perennial rootstock
+  flowering_period: June-August
   reference_ids:
-  - REF-0208
+  - REF-3192
   status: verified
 habitat:
-  text: Grows in damp meadows, pastures, mountain grassland, streamsides and open woodland, typically
-    on moist, nutrient-rich soils; native to Europe and parts of temperate Asia, favouring cooler upland
-    and northern regions.
+  text: Grows in moist, hilly pastures and by streams, up to about 3,600 feet in the Scottish Highlands
+    - essentially a plant of the north; native to Europe and parts of temperate Asia.
   reference_ids:
+  - REF-3192
   - REF-0208
   status: verified
 harvesting:
-  text: The leaves and flowering tops are gathered in summer while the plant is in flower, and dried in
-    a warm, shaded, airy place.
+  text: The whole herb is gathered in June and July, when in flower and when the leaves are at their best,
+    and dried; the root is sometimes also used, generally fresh.
   parts:
   - Flower
   - Leaf
-  season: Summer flowering period
+  season: June and July (in flower)
   reference_ids:
-  - REF-0208
-  status: draft
+  - REF-3192
+  status: verified
 harvest_readiness:
 - part: flower
   signals:
@@ -85,17 +85,20 @@ harvest_readiness:
   status: provisional
   notes: "Grieve, A Modern Herbal (REF-3192); leaves at their best coincide with flowering. Single source -> provisional."
 traditional_uses:
-  text: Lady's mantle has long been used in European herbal medicine as a gentle astringent for menstrual
-    complaints and as a mild gynaecological tonic, and topically for minor wounds and skin inflammation,
-    reflecting its tannin-rich astringent character.
+  text: Lady's mantle was valued as an astringent and styptic herb because of its tannin, and was formerly
+    considered one of the best wound herbs; Culpeper recommended it for inflamed wounds and to stop bleeding,
+    vomiting and fluxes. In early twentieth-century herbal practice it was taken as an infusion for excessive
+    menstruation, and a strong decoction of the fresh root was recommended to stop bleeding.
   reference_ids:
+  - REF-3192
   - REF-0113
   status: verified
 preparations:
 - name: Infusion
-  text: Dried leaf and flowering tops infused in hot water, traditionally taken for menstrual complaints
-    and mild digestive upset.
+  text: An infusion of 1 oz of the dried herb to 1 pint of boiling water, taken in teacupful doses (historically
+    for excessive menstruation); the same infusion was used as a wash.
   reference_ids:
+  - REF-3192
   - REF-0113
   status: verified
 - name: Tincture
@@ -106,9 +109,13 @@ preparations:
   status: draft
 dosage:
 - name: Infusion
-  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily.
-    Educational reference only, not a prescription.
-  status: draft
+  text: Grieve (1931) gives an infusion of 1 oz (about 28 g) of dried herb to 1 pint (about 570 mL) of
+    boiling water, taken in teacupful doses as required, and a fluid extract dose of 1/2 to 1 drachm (about
+    2-4 mL). These are historical doses, not modern standardised guidance. Educational reference only,
+    not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3192
 - name: Tincture
   text: About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.
   status: draft
@@ -118,6 +125,7 @@ actions:
   - REF-0113
   - REF-0685
   - REF-2227
+  - REF-5101
   status: verified
 - action: anticancer
   reference_ids:
@@ -140,6 +148,9 @@ actions:
 - action: vulnerary
   reference_ids:
   - REF-0113
+  - REF-5083
+  - REF-5084
+  - REF-3192
   status: verified
 indications:
 - condition: cancer
@@ -168,8 +179,7 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0113
-  - REF-0208
-  status: verified
+  status: needs-review
 - note: Duke (2002) rates lady's mantle as ++ and notes astringent, angioprotective, anti-inflammatory,
     and vulnerary activities at the experimental level (score 1). The plant is rich in tannins and is
     traditionally used for diarrhea, wound healing, and as a mild gynecological tonic. Duke notes its
@@ -192,6 +202,7 @@ references:
 - REF-2231
 - REF-2232
 - REF-2233
+- REF-5085
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -238,4 +249,18 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0193 (Pauli & Schilcher,
   in vitro antimicrobial activities of essential oils in Ph. Eur. 6th ed., Handbook of Essential Oils,
   CRC 2009, DOI 10.1201/9781420063165-c12) covers essential-oil drugs, not lady''s mantle: removed
-  from both cautions and deleted from the bibliography.'
+  from both cautions and deleted from the bibliography.
+  | 2026-11-24: symptom-source audit research-deepening batch 2 - Searched PubMed (Alchemilla
+  vulgaris / xanthochlora / lady''s mantle / Alchemillae herba), Europe PMC, ClinicalTrials.gov
+  (0) and OpenAlex. Human data found: hydrogel skin-barrier repair study in volunteers +
+  fibroblast assay (REF-5083), open-label aphthous-ulcer study of a 3% extract in glycerine
+  (REF-5084) - both wired to vulnerary (no RCT, so no new pair, inv. 12a); double-blind RCT of
+  Alchemilla in glycerine vs IV dexamethasone for post-intubation sore throat found no difference
+  (REF-5085, active comparator only; bucketed, no sore-throat pair). Rat
+  anti-inflammatory/analgesic study (Phytotherapie 2024) to anti-inflammatory. Grieve Lady''s
+  Mantle (REF-3192, read 2026-11-24 by the web-fetch agent) now sources the description,
+  harvesting, habitat, traditional uses, infusion and a historical dose; POWO REF-0208 no longer
+  cited for description or harvesting (a taxonomy database states neither) and removed from the
+  general caution (it states nothing about safety), which now rests on Hoffmann alone and is set
+  to needs-review. EMA status for Alchemillae herba could not be checked (EMA site 404/403). Not
+  added: weighlevel 4-plant combination; antihaemorrhoidal Alchemilla/Conyza/Nigella mixture.'

@@ -144,6 +144,7 @@ actions:
   - REF-2407
   - REF-2408
   - REF-2595
+  - REF-5127
   status: verified
 - action: anxiolytic
   note: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related Aloysia
@@ -171,10 +172,16 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  note: Calming (anxiolytic) activity reported in the pharmacology literature (narrative review)
+  note: Lemon verbena extract had an anxiolytic effect and lowered perceived stress vs placebo in a randomized
+    trial, and inhaling its essential oil reduced anxiety before caesarean section; a single dose did
+    not reduce anxiety before coronary angiography in another trial
   reference_ids:
   - REF-0474
+  - REF-5122
+  - REF-5123
   status: verified
+  null_result_ids:
+  - REF-5124
 - condition: arthritis
   note: Traditional use for rheumatism (narrative review)
   reference_ids:
@@ -203,12 +210,14 @@ indications:
   mechanistic_exclude_ids:
   - REF-0474
 - condition: insomnia
-  note: Improved sleep quality vs placebo in two randomized trials (people with insomnia; healthy adults
-    with sleep problems)
+  note: Improved sleep quality vs placebo in four randomized trials (people with insomnia, healthy adults,
+    adults with stress, and adolescents with sleep and stress problems)
   reference_ids:
   - REF-0474
   - REF-0690
   - REF-0691
+  - REF-5122
+  - REF-5121
   status: verified
 - condition: muscle-soreness
   note: Lemon verbena extract reduced muscle damage and soreness after exhausting exercise vs placebo
@@ -228,6 +237,13 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0474
+- condition: stress
+  note: Lemon verbena extract lowered perceived stress (with lower cortisol) vs placebo in two randomized
+    trials, in adults and in adolescents
+  reference_ids:
+  - REF-5122
+  - REF-5121
+  status: verified
 contraindications:
 - note: Generally well tolerated; human safety and efficacy are not fully established. Its sedative effect
     can add to that of alcohol, sedatives and sleep medicines.
@@ -235,10 +251,13 @@ contraindications:
   reference_ids:
   - REF-0474
   status: verified
-- note: Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.
+- note: Safety in pregnancy and breastfeeding is not established in people, so avoid medicinal doses;
+    in mice, the leaf infusion and its main constituent verbascoside did not harm embryo development.
   severity: caution
   reference_ids:
   - REF-0474
+  - REF-5125
+  - REF-5126
   status: needs-review
 references:
 - REF-0474
@@ -247,6 +266,7 @@ references:
 - REF-2408
 - REF-2409
 - REF-2595
+- REF-5128
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
@@ -315,4 +335,17 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Anxiety note claimed
   support from a trial of Aloysia polystachya (another species) - removed (inv. 10). Planox RCT
   2021 REF-3425 (less muscle pain and damage after exhaustive exercise) added to muscle-soreness.
-  Notes rewritten from "inferred" to their real sources.'
+  Notes rewritten from "inferred" to their real sources.
+  | 2026-11-24: symptom-source audit research-deepening batch 2 - Searched PubMed ("Aloysia
+  citrodora" / triphylla, "Lippia citriodora", "lemon verbena" tiab), Europe PMC,
+  ClinicalTrials.gov (6) and OpenAlex. NEW pair stress (Nutrients 2022 RCT; adolescents
+  double-blind RCT, Applied Sciences 2025, not in PubMed). Both also to insomnia. Anxiety: the
+  2022 RCT (anxiolytic effect) and a C-section aromatherapy RCT added; the lippia arm of a
+  saffron/lippia RCT before coronary angiography recorded as no-effect. Funes 2011 exercise RCT to
+  antioxidant (muscle-damage markers, not soreness). Mouse teratogenicity studies (no harm) added
+  to the pregnancy caution. Bucket: 2026 cardiometabolic MA (pools combined hibiscus + lemon
+  verbena formulations; benefit larger with combinations, so not attributed to lemon verbena
+  alone). WRONG SPECIES rejected: 39286661 "Lemon Verbena (Cymbopogon citratus)" oral candidiasis
+  SR - that is lemongrass. Not added: hibiscus + lemon verbena combination RCTs (appetite, weight,
+  skin), lemon verbena + omega-3 joint RCT, Mother''s Milk tea, ADHD-symptom RCT in children (no
+  vocab condition).'

@@ -239,6 +239,8 @@ indications:
   - REF-3417
   - REF-2536
   - REF-3418
+  - REF-5088
+  - REF-5086
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
@@ -266,6 +268,7 @@ indications:
   - REF-0648
   - REF-0649
   - REF-2429
+  - REF-5086
   status: verified
   note: Garlic lowered blood pressure and cholesterol in meta-analyses of randomized trials
 - condition: cold
@@ -300,21 +303,28 @@ indications:
   mechanistic_exclude_ids:
   - REF-0166
 - condition: inflammation
-  note: Garlic lowered inflammatory markers (CRP, TNF-alpha, IL-6) in meta-analyses of randomized trials
+  note: Garlic lowered CRP and TNF-alpha in a 2026 meta-analysis of randomized trials (IL-6 unchanged);
+    an earlier meta-analysis found no significant overall effect on these markers, only in longer or higher-dose
+    subgroups
   reference_ids:
   - REF-0648
   - REF-3418
+  - REF-5086
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
   - REF-0204
   - REF-0166
+  null_result_ids:
+  - REF-5096
 - condition: metabolic-support
   note: Garlic improved waist size, blood lipids, blood pressure and blood glucose in a meta-analysis
     of randomized trials
   reference_ids:
   - REF-0648
   - REF-3418
+  - REF-5090
+  - REF-5086
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0127
@@ -329,14 +339,44 @@ indications:
   - REF-3418
   - REF-0648
   - REF-3436
+  - REF-5089
+  - REF-5088
+  - REF-5087
+  - REF-5086
   status: verified
 - condition: high-blood-pressure
   note: Garlic lowered blood pressure in people with hypertension in meta-analyses of randomized trials
+    (aged garlic lowered systolic but not diastolic pressure); a 2009 systematic review judged most blood-pressure
+    trials too poor in quality to confirm the effect
   reference_ids:
   - REF-0204
   - REF-3418
   - REF-0649
   - REF-0648
+  - REF-5086
+  - REF-5087
+  status: verified
+  null_result_ids:
+  - REF-5097
+- condition: liver-support
+  note: Garlic supplements lowered the liver enzymes ALT and AST vs control in meta-analyses of randomized
+    trials in chronic liver disease and in non-alcoholic fatty liver disease, where fatty liver also improved
+    more often than with placebo
+  reference_ids:
+  - REF-5091
+  - REF-5092
+  status: verified
+- condition: pms
+  note: Garlic tablets taken for three cycles reduced the severity of premenstrual symptoms vs placebo
+    in a double-blind randomized trial
+  reference_ids:
+  - REF-5093
+  status: verified
+- condition: fatigue
+  note: Garlic extract reduced fatigue and improved quality of life vs placebo in a single-blind randomized
+    trial in people with multiple sclerosis
+  reference_ids:
+  - REF-5094
   status: verified
 contraindications:
 - note: 'Garlic is generally very safe at culinary and supplemental doses for most healthy adults. Raw
@@ -344,19 +384,21 @@ contraindications:
     tract - nausea, heartburn, flatulence, and diarrhoea are the most common side effects, especially
     with large amounts of raw garlic on an empty stomach. Garlic may inhibit platelet aggregation and
     enhance anticoagulant effects of warfarin - use caution with blood-thinning medications, especially
-    before surgery (stop 7–10 days prior). May lower blood pressure and blood sugar - caution when combined
+    before surgery (stop 7-10 days prior). May lower blood pressure and blood sugar - caution when combined
     with antihypertensive or antidiabetic medications. Topical raw garlic can cause chemical burns (contact
     dermatitis) and should not be applied undiluted to skin for prolonged periods. Odour (from allicin
     metabolites) affects breath and perspiration. Pregnancy: culinary amounts safe; avoid medicinal-dose
     supplements due to blood-thinning risk (National Center for Complementary and Integrative Health,
-    2021).'
+    2025).'
   severity: caution
   reference_ids:
   - REF-0127
   - REF-0166
   - REF-0204
-  - REF-0209
   - REF-0312
+  - REF-5129
+  - REF-5098
+  - REF-5095
   status: verified
 - note: 'Duke (2002) rates garlic as +++ with exceptional clinical evidence (score 3) for antiseptic activity,
     and score 2 for anti-aggregant (antiplatelet), antiatherosclerotic, antiatherogenic, antibacterial,
@@ -370,7 +412,6 @@ contraindications:
   - REF-0127
   - REF-0166
   - REF-0204
-  - REF-0209
   - REF-0312
   - REF-0063
   status: verified
@@ -380,6 +421,9 @@ references:
 - REF-2428
 - REF-2429
 - REF-2430
+- REF-5099
+- REF-5100
+- REF-0209
 drug_class_interactions:
 - drug_class: antiretrovirals
   severity: caution
@@ -601,4 +645,21 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   narrative-review (editorial/review).
   | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep (batch 2 follow-up).
   Kojuri 2007 RCT REF-3436 (garlic tablets improved cholesterol, LDL and HDL) added to
-  high-cholesterol.'
+  high-cholesterol.
+  | 2026-11-24: symptom-source audit research-deepening batch 2 - Searched PubMed (Allium sativum
+  tiab; garlic/allicin/aged garlic ti; 5 families: 475 HT, 132 SR, 1,010 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (103) and OpenAlex. NEW pairs (inv. 12a): liver-support (two MAs: chronic
+  liver disease 4 RCTs, NAFLD 4 RCTs), pms (double-blind RCT 2021), fatigue (single-blind RCT in
+  MS 2025). Added 2026 CV-risk MA (Nutr Rev), aged garlic GRADE MA, glucose/lipid MA 2024, Ried
+  2013 lipid MA, MetS MA 2023. No-effect: Simons 2009 SR (BP effect cannot be ascertained, poor
+  trial quality); 2021 inflammatory-mediator MA (overall NS). Safety: NCCIH garlic fact sheet
+  (REF-5129; the caution already named NCCIH without citing it; POWO taxon page REF-0209 removed
+  from both cautions), garlic-burn SR (39 cases), platelet-aggregation SR (6 of 12 RCTs reduced
+  aggregation; inconclusive). Bucket: endometriosis-pain RCT (near-miss, inv. 12c: endometriosis
+  pain is not ordinary period pain), topical garlic vs podophyllin genital-wart RCT (active
+  comparator only, similar response; itching/burning in 22%). Not added: retracted aged-garlic BP
+  MA 39437887 and retracted pregnancy trial (39471241 notice); garlic mouthwash caries MA
+  (microbial counts only, and raw garlic on mucosa conflicts with the burn warning);
+  dietary-intake cancer MAs (association, not treatment); onion+garlic, moringa+garlic, polyherbal
+  and COVID combination products; preclinical MAs; animal interaction studies. Cardiovascular
+  pairs were already 9-10.'

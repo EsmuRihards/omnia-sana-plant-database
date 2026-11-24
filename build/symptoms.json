@@ -1056,35 +1056,52 @@
     {
      "condition": "wounds",
      "label": "Wounds",
-     "evidence": 9,
+     "evidence": 10,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-2241",
       "REF-2238",
       "REF-2243",
-      "REF-3420"
+      "REF-3420",
+      "REF-5108",
+      "REF-5109"
      ]
     },
     {
      "condition": "oral-health",
      "label": "Oral & throat health",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-3421",
-      "REF-3422"
+      "REF-3422",
+      "REF-5110",
+      "REF-5111"
      ]
     },
     {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
-     "evidence": 7,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-2456"
+      "REF-2456",
+      "REF-5105"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2234",
+      "REF-2243",
+      "REF-5106"
      ]
     },
     {
@@ -1098,14 +1115,23 @@
      ]
     },
     {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 7,
-     "status": "needs-review",
-     "inferred": true,
+     "condition": "bruising",
+     "label": "Bruising",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
      "references": [
-      "REF-2234",
-      "REF-2243"
+      "REF-5131"
+     ]
+    },
+    {
+     "condition": "ibd",
+     "label": "Inflammatory bowel disease (IBD)",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5102"
      ]
     },
     {
@@ -7421,6 +7447,37 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 10,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0648",
+      "REF-2428",
+      "REF-3417",
+      "REF-2536",
+      "REF-3418",
+      "REF-5088",
+      "REF-5086"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 10,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0204",
+      "REF-3418",
+      "REF-0649",
+      "REF-0648",
+      "REF-5086",
+      "REF-5087"
+     ]
+    },
+    {
      "condition": "high-cholesterol",
      "label": "High cholesterol",
      "evidence": 10,
@@ -7431,21 +7488,11 @@
       "REF-2536",
       "REF-3418",
       "REF-0648",
-      "REF-3436"
-     ]
-    },
-    {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
-     "evidence": 9,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0648",
-      "REF-2428",
-      "REF-3417",
-      "REF-2536",
-      "REF-3418"
+      "REF-3436",
+      "REF-5089",
+      "REF-5088",
+      "REF-5087",
+      "REF-5086"
      ]
     },
     {
@@ -7459,20 +7506,33 @@
       "REF-0647",
       "REF-0648",
       "REF-0649",
-      "REF-2429"
+      "REF-2429",
+      "REF-5086"
      ]
     },
     {
-     "condition": "high-blood-pressure",
-     "label": "High blood pressure",
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
      "evidence": 9,
-     "status": "verified",
-     "inferred": false,
+     "status": "needs-review",
+     "inferred": true,
      "references": [
-      "REF-0204",
+      "REF-0648",
       "REF-3418",
-      "REF-0649",
-      "REF-0648"
+      "REF-5086"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0648",
+      "REF-3418",
+      "REF-5090",
+      "REF-5086"
      ]
     },
     {
@@ -7510,25 +7570,14 @@
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
+     "condition": "liver-support",
+     "label": "Liver support",
      "evidence": 8,
-     "status": "needs-review",
-     "inferred": true,
+     "status": "verified",
+     "inferred": false,
      "references": [
-      "REF-0648",
-      "REF-3418"
-     ]
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 8,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0648",
-      "REF-3418"
+      "REF-5091",
+      "REF-5092"
      ]
     },
     {
@@ -7554,6 +7603,26 @@
       "REF-2840",
       "REF-2841",
       "REF-2842"
+     ]
+    },
+    {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5094"
+     ]
+    },
+    {
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5093"
      ]
     }
    ]
@@ -9992,13 +10061,27 @@
     {
      "condition": "insomnia",
      "label": "Insomnia / sleeplessness",
-     "evidence": 6,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0474",
       "REF-0690",
-      "REF-0691"
+      "REF-0691",
+      "REF-5122",
+      "REF-5121"
+     ]
+    },
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0474",
+      "REF-5122",
+      "REF-5123"
      ]
     },
     {
@@ -10013,13 +10096,14 @@
      ]
     },
     {
-     "condition": "anxiety",
-     "label": "Anxiety",
-     "evidence": 2,
+     "condition": "stress",
+     "label": "Stress",
+     "evidence": 6,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0474"
+      "REF-5122",
+      "REF-5121"
      ]
     },
     {

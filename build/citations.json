@@ -1,7 +1,37 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3857,
+ "count": 3906,
  "citations": [
+  {
+   "ref_id": "REF-5100",
+   "key": "naseri2027garlicgenitalwarts",
+   "type": "article",
+   "title": "Comparative efficacy of topical garlic extract and 20% podophyllin solution in the treatment of female genital warts: a triple-blind randomized clinical trial",
+   "authors": "Naseri, M., Sarfallah, Z., Saadat, M., Masaebi, F. and Damghanian, M.",
+   "journal": "The Journal of Dermatological Treatment",
+   "year": "2027",
+   "doi": "10.1080/09546634.2026.2746272",
+   "url": "",
+   "link": "https://doi.org/10.1080/09546634.2026.2746272",
+   "link_type": "doi",
+   "citation": "Naseri, M., Sarfallah, Z., Saadat, M., Masaebi, F. and Damghanian, M (2027) 'Comparative efficacy of topical garlic extract and 20% podophyllin solution in the treatment of female genital warts: a triple-blind randomized clinical trial', The Journal of Dermatological Treatment, 38(1), pp. 2746272. doi:10.1080/09546634.2026.2746272",
+   "abstract": "BACKGROUND: Genital warts caused by human papillomavirus are common sexually transmitted infections, with no single therapy providing consistent clearance. Garlic extract has antiviral and antiproliferative properties and may offer a low-cost treatment. OBJECTIVE: To compare the efficacy and safety of topical 5% garlic extract with 20% podophyllin solution in women with genital warts. METHODS: Seventy-four women were randomized to 5% garlic extract (n = 37) or 20% podophyllin (n = 37), applied weekly for four weeks. Wart size and count were assessed using marginal models (generalized estimating equations). The primary outcome was change in mean wart size and the secondary outcome was change in wart count. RESULTS: Mean wart size decreased from 1.61 ± 0.81 to 0.60 ± 0.82 mm with garlic extract and from 2.96 ± 7.99 to 0.62 ± 0.73 mm with podophyllin. The between-group p-value at final assessment was 0.756; group × time interaction p values were 0.329 for wart size and 0.583 for count. Among 35 and 37 participants analyzed, complete response occurred in 18 (51.4%) and 19 (51.4%), respectively; complete or partial response occurred in 23 (65.7%) and 25 (67.6%). Itching and burning occurred in 8 (21.6%) garlic-treated participants each. CONCLUSION: Both treatments reduced wart size and count, with similar response rates. Four-week follow-up precluded assessment of durability and recurrence.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Comparative efficacy of topical garlic extract and 20% podophyllin solution in the treatment of female genital warts: a triple-blind randomized clinical trial",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
   {
    "ref_id": "REF-3688",
    "key": "mansouri2026oliveleafgrade",
@@ -102,6 +132,41 @@
    ],
    "conditions": [
     "Infection (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-5131",
+   "key": "shahryarpanah2026aloeecchymosis",
+   "type": "article",
+   "title": "Aloe Vera Gel Compared to Cold/Warm Compresses for Reducing Ecchymosis at the Saphenous Vein Graft Harvest Site: Randomized Controlled Clinical Trial",
+   "authors": "Shahryarpanah, Z., Khorammakan, R., Mirmohammadsadeghi, M., Tarrahi, M.J. and Ghadami, A.",
+   "journal": "Iranian Journal of Nursing and Midwifery Research",
+   "year": "2026",
+   "doi": "10.4103/ijnmr.ijnmr_124_25",
+   "url": "",
+   "link": "https://doi.org/10.4103/ijnmr.ijnmr_124_25",
+   "link_type": "doi",
+   "citation": "Shahryarpanah, Z., Khorammakan, R., Mirmohammadsadeghi, M., Tarrahi, M.J. and Ghadami, A (2026) 'Aloe Vera Gel Compared to Cold/Warm Compresses for Reducing Ecchymosis at the Saphenous Vein Graft Harvest Site: Randomized Controlled Clinical Trial', Iranian Journal of Nursing and Midwifery Research, 31(5), pp. 876--884. doi:10.4103/ijnmr.ijnmr_124_25",
+   "abstract": "BACKGROUND: The saphenous vein harvest site in patients undergoing coronary artery bypass graft (CABG) surgery is highly susceptible to edema and local complications such as ecchymosis. This study aimed to compare the efficacy of aloe vera gel with that of cold and warm compresses in reducing ecchymosis at the lower leg harvest site in patients undergoing CABG surgery. MATERIALS AND METHODS: This two-group randomized controlled clinical trial was conducted on 60 patients scheduled for CABG surgery. Eligible participants were selected through convenience sampling and randomly assigned to either Group A (aloe vera gel) or Group B (cold and warm compresses). For each participant, one leg was randomly assigned as the intervention site and the other as the control. Data collection tools included a demographic and surgical information form and an ecchymosis assessment chart. The intervention lasted for 6 days. Control legs received routine postoperative dressing. Photographs were taken on postoperative days, and the ecchymosis area was measured using ImageJ software. RESULTS: Before the intervention, there was no significant difference in the mean ecchymosis area between the two groups (p > 0.05). The mean ecchymosis area in the treated leg decreased significantly compared to the control leg in both groups on days 5, 7, 10, and 30 (p < 0.001). CONCLUSIONS: Aloe vera gel was significantly more effective than cold and warm compresses in reducing ecchymosis at the saphenous vein graft (SVG) harvest site. Aloe vera gel can be considered an effective adjunctive treatment to minimize ecchymosis in patients following CABG surgery.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe Vera Gel Compared to Cold/Warm Compresses for Reducing Ecchymosis at the Saphenous Vein Graft Harvest Site: Randomized Controlled Clinical Trial",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Bruising"
    ]
   },
   {
@@ -754,6 +819,43 @@
    "conditions": [
     "Anxiety",
     "Low mood / depression"
+   ]
+  },
+  {
+   "ref_id": "REF-5086",
+   "key": "behrouz2026garliccvriskma2026",
+   "type": "article",
+   "title": "Effects of Garlic Supplementation on Cardiovascular Risk Factors in Adults: A Comprehensive Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "authors": "Behrouz, V., Zahroodi, M., Clark, C.C.T., Mir, E., Atashi, N. and Rivaz, R.",
+   "journal": "Nutrition Reviews",
+   "year": "2026",
+   "doi": "10.1093/nutrit/nuaf090",
+   "url": "",
+   "link": "https://doi.org/10.1093/nutrit/nuaf090",
+   "link_type": "doi",
+   "citation": "Behrouz, V., Zahroodi, M., Clark, C.C.T., Mir, E., Atashi, N. and Rivaz, R (2026) 'Effects of Garlic Supplementation on Cardiovascular Risk Factors in Adults: A Comprehensive Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials', Nutrition Reviews, 84(1), pp. 1--35. doi:10.1093/nutrit/nuaf090",
+   "abstract": "CONTEXT: Garlic is a well-known ingredient in cooking and has a long history in traditional Asian medicine. Recently, there has been increased interest in its possible protective benefits against cardiovascular diseases (CVDs). While many studies have examined garlic's impact on CVD risk factors, the results have varied. New clinical trials have also been conducted that may provide more definitive insights. OBJECTIVE: We performed a comprehensive updated meta-analysis to assess the validity of earlier research on garlic's role in managing CVD. DATA SOURCES: A systematic search was conducted across PubMed, Scopus, and Web of Knowledge from their inception until June 2024, utilizing pertinent keywords. DATA EXTRACTION: This review encompassed all randomized controlled trials (RCTs) that examined the impact of garlic intake on CVD risk factors in adults. A meta-analysis was executed employing random-effects models, and subgroup analyses were carried out to investigate differences based on dosage, duration, intervention types, health status, and initial risk profiles. DATA ANALYSIS: Ultimately, 108 trials involving 7137 participants were incorporated into this meta-analysis. Consumption of garlic resulted in a significant improvement in serum levels of triglycerides (weighted mean difference [WMD]: -5.82, 95% CI: -8.16 to -3.49 mg/dL), total cholesterol (WMD: -10.21, 95% CI: -13.69 to -6.74 mg/dL), low-density lipoprotein cholesterol [WMD: -5.90, 95% CI: -10.51 to -1.29 mg/dL], HDL cholesterol (WMD: 2.18, 95% CI: 1.49 to 2.87 mg/dL), fasting blood glucose (WMD: -2.77, 95% CI: -5.25 to -0.28 mg/dL), insulin (WMD: -1.74, 95% CI: -2.26 to -1.22 mU/L), homeostatic model assessment for insulin resistance (WMD: -0.37, 95% CI: -0.59 to -0.15), systolic blood pressure (WMD: -3.71, 95% CI: -5.07 to -2.36 mmHg), diastolic blood pressure (WMD: -1.97, 95% CI: -2.86 to -1.08 mmHg], aspartate aminotransferase (WMD: -2.85, 95% CI: -4.95 to -0.74 IU/L], C-reactive protein (WMD: -1.6, 95% CI: -2.38 to -0.82 mg/L), tumor necrosis factor-α (WMD: -3.94, 95% CI: -5.17 to -2.72 Pg/mL), total antioxidant capacity (WMD: 0.46, 95% CI: 0.15 to 0.76 mmol/L), and malondialdehyde [WMD: -1.03, 95% CI: -1.38 to -0.68 nmol/mL]. Conversely, garlic did not influence apolipoprotein A-1, apolipoprotein B, alanine aminotransferase, interleukin-6, body mass index, weight, or adiponectin (all P ≥ .05). CONCLUSION: This meta-analysis demonstrates that garlic intake significantly improves key cardiovascular risk markers, including lipid profiles, glycemic indices, blood pressure, oxidative stress, and inflammatory biomarkers, particularly in adults with unfavorable baseline risk factors. These findings suggest that garlic may enhance cardiovascular health in high-risk populations. Further research involving larger sample sizes, extended follow-up periods, and enhanced methodological rigor is essential to draw definitive conclusions.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Garlic Supplementation on Cardiovascular Risk Factors in Adults: A Comprehensive Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "Cardiovascular / heart health",
+    "High blood pressure",
+    "High cholesterol",
+    "Inflammation (general)",
+    "Metabolic support"
    ]
   },
   {
@@ -1482,6 +1584,41 @@
    ]
   },
   {
+   "ref_id": "REF-5111",
+   "key": "meyer2026naturalagentsgingivalma",
+   "type": "article",
+   "title": "Natural Agents for the Improvement of Gingival Health: Systematic Review and Meta-Analysis of Randomized Clinical Trials",
+   "authors": "Meyer, F., Mohammed, Z.S., Deschner, J. and Enax, J.",
+   "journal": "Oral Health & Preventive Dentistry",
+   "year": "2026",
+   "doi": "10.3290/j.ohpd.c_2697",
+   "url": "",
+   "link": "https://doi.org/10.3290/j.ohpd.c_2697",
+   "link_type": "doi",
+   "citation": "Meyer, F., Mohammed, Z.S., Deschner, J. and Enax, J (2026) 'Natural Agents for the Improvement of Gingival Health: Systematic Review and Meta-Analysis of Randomized Clinical Trials', Oral Health & Preventive Dentistry, 24, pp. 417--423. doi:10.3290/j.ohpd.c_2697",
+   "abstract": "PURPOSE: This systematic review and meta-analysis evaluated the efficacy of natural ingredients used in toothpastes and gels in improving gingival health. MATERIALS AND METHODS: A comprehensive search strategy using different databases was conducted in accordance with PRISMA guidelines to identify randomized clinical trials (RCTs) on the use of natural ingredients for improving gingival health. Included studies focussed on outcomes measuring gingival health parameters, such as gingival index (GI), or bleeding on probing (BoP). Out of 249 identified studies, 10 RCTs met the inclusion criteria. Formulations included natural ingredients from plant extracts such as Aloe vera or Pudilan, and hydroxyapatite (as tooth-like calcium phosphate). RESULTS: The meta-analysis demonstrated a statistically significant improvement in gingival health when natural ingredients were used compared to control toothpastes and gels (p=0.0051). These findings suggest that natural ingredients may offer comparable or superior efficacy to conventional oral care products in terms of gingival health. Notably, Aloe vera and hydroxyapatite consistently demonstrated clinical benefits. CONCLUSIONS: Natural ingredients used in oral care products represent a promising strategy in gingivitis prevention and management. Their use in toothpastes and gels may therefore provide clinicians and patients with evidence-based, well-tolerated alternatives or adjuncts to conventional formulations for maintaining and improving gingival health.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Natural Agents for the Improvement of Gingival Health: Systematic Review and Meta-Analysis of Randomized Clinical Trials",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
+  },
+  {
    "ref_id": "REF-3125",
    "key": "hcangelica2026",
    "type": "misc",
@@ -1905,6 +2042,36 @@
    "actions": [
     "Anticancer (preclinical)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5128",
+   "key": "xu2026lippiacardiometabolicma",
+   "type": "article",
+   "title": "The effect of Lippia Citriodora (LC) extract on cardiometabolic risk factors: a systematic review and meta-analysis",
+   "authors": "Xu, S., Huang, Z., Wang, K., Li, L., Zhao, X., Liu, Y., Ding, H., Zhang, Q., Cai, M., Yu, Y., Xu, Y., Yuan, X. and Huang, Z.",
+   "journal": "Nutrition & Diabetes",
+   "year": "2026",
+   "doi": "10.1038/s41387-026-00420-2",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41387-026-00420-2",
+   "link_type": "doi",
+   "citation": "Xu, S., Huang, Z., Wang, K., Li, L., Zhao, X., Liu, Y., Ding, H., Zhang, Q., Cai, M., Yu, Y., Xu, Y., Yuan, X. and Huang, Z (2026) 'The effect of Lippia Citriodora (LC) extract on cardiometabolic risk factors: a systematic review and meta-analysis', Nutrition & Diabetes, 16(1). doi:10.1038/s41387-026-00420-2",
+   "abstract": "BACKGROUND: Cardiometabolic disorders are a growing public health concern worldwide. Lippia citriodora (LC), a polyphenol-rich medicinal plant, has been suggested to offer metabolic benefits due to its antioxidant, anti-inflammatory, and lipid-modulating properties. However, the clinical evidence regarding its efficacy remains inconsistent. This systematic review and meta-analysis aimed to evaluate the effects of LC extract supplementation on key cardiometabolic risk factors in adults. METHODS: A comprehensive literature search was conducted through June 2025 in original databases. Randomized controlled trials (RCTs) investigating the effects of LC extract (alone or combined with Hibiscus sabdariffa) on anthropometric indices, lipid profiles, glycemic markers, and blood pressure were included. Data synthesis was performed using a random-effects model. RESULTS: Eleven RCTs with diverse populations (503 participants) and intervention durations (3-12 weeks) were included. LC supplementation significantly reduced body weight (WMD: -2.09 kg), BMI (WMD: -0.70 kg/m²), fat mass (WMD: -0.62%), total cholesterol (WMD: -9.06 mg/dL), systolic blood pressure (WMD: -8.59 mmHg), and diastolic blood pressure (WMD: -3.73 mmHg) as well as increased levels of HDL-C (WMD: +2.10 mg/dL). No significant effects were found for glycemic markers and other lipid profiles. Subgroup analyses suggested enhanced benefits in shorter interventions (≤8 weeks), individuals with metabolic syndrome, and combined formulations. Heterogeneity was generally low across outcomes. CONCLUSIONS: LC extract may offer modest but clinically relevant improvements in cardiometabolic risk factors, particularly in weight, lipid profile, and blood pressure. These findings support the potential of LC as an adjunctive intervention, though larger and longer-term trials are warranted to confirm its efficacy.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of Lippia Citriodora (LC) extract on cardiometabolic risk factors: a systematic review and meta-analysis",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -2426,6 +2593,39 @@
    ],
    "scientific": [
     "Cuminum cyminum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5130",
+   "key": "nccih2025aloevera",
+   "type": "misc",
+   "title": "Aloe Vera: Usefulness and Safety",
+   "authors": "National Center for Complementary and Integrative Health",
+   "journal": "",
+   "year": "2025",
+   "doi": "",
+   "url": "https://www.nccih.nih.gov/health/aloe-vera",
+   "link": "https://www.nccih.nih.gov/health/aloe-vera",
+   "link_type": "url",
+   "citation": "National Center for Complementary and Integrative Health (2025) 'Aloe Vera: Usefulness and Safety'. Available at: https://www.nccih.nih.gov/health/aloe-vera",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe Vera: Usefulness and Safety",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
    ],
    "actions": [],
    "conditions": []
@@ -4434,6 +4634,36 @@
    ]
   },
   {
+   "ref_id": "REF-5129",
+   "key": "nccih2025garlic",
+   "type": "misc",
+   "title": "Garlic: Usefulness and Safety",
+   "authors": "National Center for Complementary and Integrative Health",
+   "journal": "",
+   "year": "2025",
+   "doi": "",
+   "url": "https://www.nccih.nih.gov/health/garlic",
+   "link": "https://www.nccih.nih.gov/health/garlic",
+   "link_type": "url",
+   "citation": "National Center for Complementary and Integrative Health (2025) 'Garlic: Usefulness and Safety'. Available at: https://www.nccih.nih.gov/health/garlic",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Garlic: Usefulness and Safety",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3565",
    "key": "riepe2025egb761milddementia",
    "type": "article",
@@ -4967,6 +5197,39 @@
     "Neuroprotective / cognition support"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5121",
+   "key": "navarro2025lemonverbenaadolescents",
+   "type": "article",
+   "title": "Lippia citrodora (Lemon Verbena) Extract Helps Reduce Stress and Improve Sleep Quality in Adolescents in a Double-Blind Randomized Intervention Study",
+   "authors": "Navarro, P., García, A., Villa, R., Nobile, V., Parisi, O.I., Lirangi, C., Amone, F., D’Ambrosio, E., Caturla, N. and Jones, J.",
+   "journal": "Applied Sciences",
+   "year": "2025",
+   "doi": "10.3390/app15115856",
+   "url": "",
+   "link": "https://doi.org/10.3390/app15115856",
+   "link_type": "doi",
+   "citation": "Navarro, P., García, A., Villa, R., Nobile, V., Parisi, O.I., Lirangi, C., Amone, F., D’Ambrosio, E., Caturla, N. and Jones, J (2025) 'Lippia citrodora (Lemon Verbena) Extract Helps Reduce Stress and Improve Sleep Quality in Adolescents in a Double-Blind Randomized Intervention Study', Applied Sciences, 15(11), pp. 5856. doi:10.3390/app15115856",
+   "abstract": "Adequate sleep is important for learning and memory in children and adolescents. Sleep disorder prevalence is high in adolescents, as well as stress, and both can affect their mental and physical health. To this end, the objective of this study is to evaluate the effectiveness of an herb extract, specifically lemon verbena (Lippia citrodora), in reducing stress and improving sleep quality in healthy adolescents. This study lasted 3 months, during which they filled out the Adolescent Sleep Wake Scale (ASWS) and Perceived Stress Scale for Children (PSS-C) questionnaires, and saliva samples were taken to analyze cortisol levels. Also, a psychologist evaluated the results of this study for each subject and concluded if they considered the treatment to be clinically relevant. As a result, significant improvements versus placebo were detected in the ASWS and PSS-C, starting in the first month of treatment, coinciding with a significant reduction in cortisol levels. The psychologist assessment agreed that the treatment was successful for 86% of the experimental group, compared to only 19% of the placebo group. In conclusion, the results of this study revealed that the product may help reduce stress and improve sleep quality in adolescents with sleep and stress issues.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Lippia citrodora (Lemon Verbena) Extract Helps Reduce Stress and Improve Sleep Quality in Adolescents in a Double-Blind Randomized Intervention Study",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [],
+   "conditions": [
+    "Insomnia / sleeplessness",
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-2802",
@@ -5904,6 +6167,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5087",
+   "key": "bashiri2025agedgarlicbplipidsma",
+   "type": "article",
+   "title": "The Effect of Aged Garlic Supplementation on Blood Pressure and Lipid Profile: A Dose-Response Grade-Assessed Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "authors": "Bashiri, S., TaghipourSheshdeh, F., Foshati, S., Askarpour, M., Ahmadi, A. and Babajafari, S.",
+   "journal": "Phytotherapy Research",
+   "year": "2025",
+   "doi": "10.1002/ptr.70032",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.70032",
+   "link_type": "doi",
+   "citation": "Bashiri, S., TaghipourSheshdeh, F., Foshati, S., Askarpour, M., Ahmadi, A. and Babajafari, S (2025) 'The Effect of Aged Garlic Supplementation on Blood Pressure and Lipid Profile: A Dose-Response Grade-Assessed Systematic Review and Meta-Analysis of Randomized Controlled Trials', Phytotherapy Research, 39(12), pp. 5669--5694. doi:10.1002/ptr.70032",
+   "abstract": "Numerous clinical trials have examined the effects of aged garlic (AG) on metabolic factors, yielding inconsistent results. This systematic review and meta-analysis aimed to evaluate the impact of aged garlic on blood pressure (BP) and lipid profiles (LP). A comprehensive search was conducted across Scopus, PubMed, Medline via Ovid, ISI Web of Science, and Google Scholar until May 2024. We included clinical trials that assessed various forms of aged garlic as an intervention on systolic and diastolic blood pressure (SBP and DBP), total cholesterol (TC), triglycerides (TG), low-density lipoprotein (LDL), and high-density lipoprotein (HDL). Weighted mean differences (WMD) and 95% confidence intervals (CI) were calculated using a random-effects model. Nineteen trials were included in this analysis. AG consumption significantly reduced SBP (WMD: -2.49 mmHg; 95% CI: -4.02 to -0.95; I2 = 29.76%) and LDL (WMD: -4.41 mg/dL; 95% CI: -8.28 to -0.54; I2 = 55.78%). However, it did not significantly affect DBP and HDL, although the effect on TC approached significance (WMD: -4.74 mg/dL; 95% CI: -9.49 to 0.01; I2 = 74.84%). Subgroup analyses indicated that AG significantly affected SBP and TG in participants with cardiovascular diseases (CVDs), while it also considerably impacted DBP in patients with hypercholesterolemia. Aged garlic may be a beneficial complementary approach for reducing BP and lipid levels in specific populations. Further high-quality trials are needed to confirm these findings.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The Effect of Aged Garlic Supplementation on Blood Pressure and Lipid Profile: A Dose-Response Grade-Assessed Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "High blood pressure",
+    "High cholesterol"
+   ]
+  },
+  {
    "ref_id": "REF-0667",
    "key": "jafari2025cinnamoncardiovascular",
    "type": "article",
@@ -6005,6 +6301,38 @@
    "conditions": [
     "Oral & throat health",
     "Pain (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-5094",
+   "key": "shaygannejad2025garlicmsfatigue",
+   "type": "article",
+   "title": "The effectiveness of garlic (Allium sativum) extract in improving fatigue and quality of life in patients with multiple sclerosis (MS): a randomized single-blind placebo-controlled clinical trial",
+   "authors": "Shaygannejad, V., Mirmosayyeb, O., Soltani, R., Dinani, M.S., Shfiee, M. and Mohsenzadeh, A.",
+   "journal": "Research in Pharmaceutical Sciences",
+   "year": "2025",
+   "doi": "10.4103/RPS.RPS_7_24",
+   "url": "",
+   "link": "https://doi.org/10.4103/RPS.RPS_7_24",
+   "link_type": "doi",
+   "citation": "Shaygannejad, V., Mirmosayyeb, O., Soltani, R., Dinani, M.S., Shfiee, M. and Mohsenzadeh, A (2025) 'The effectiveness of garlic (Allium sativum) extract in improving fatigue and quality of life in patients with multiple sclerosis (MS): a randomized single-blind placebo-controlled clinical trial', Research in Pharmaceutical Sciences, 20(6), pp. 815--823. doi:10.4103/RPS.RPS_7_24",
+   "abstract": "BACKGROUND AND PURPOSE: Multiple sclerosis (MS) is a degenerative disease of the central nervous system. Fatigue is one of the most common and disabling symptoms of MS. Garlic is a plant whose anti-fatigue effects have been shown. The present study aimed to investigate the potential effectiveness of garlic on fatigue and quality of life in MS patients. EXPERIMENTAL APPROACH: In a randomized, single-blind, placebo-controlled clinical trial, adult MS patients were randomly divided into two groups: of drug (garlic) group and a placebo. The drug group received 400-mg tablets of garlic extract (equivalent to 1,200 μg of allicin) twice a day for 4 weeks, while the patients in the placebo group received placebo tablets at the same frequency and duration. Before and after the intervention, scores on a 36-item survey form (SF-36) and fatigue severity scale (FSS) questionnaires were recorded for all patients and compared between the groups. FINDINGS/RESULTS: Garlic consumption was significantly associated with an increase in energy/fatigue, pain, general health, and physical health subscales scores at the end of the intervention compared to the placebo group. The scores of FSS were significantly reduced in both groups; however, the change in the drug group was remarkably higher than in the placebo group. CONCLUSION AND IMPLICATIONS: Garlic extract promotes fatigue and improves the quality of life in MS patients. Therefore, garlic can be considered a potential remedy to overcome fatigue and improve the quality of life in these patients.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effectiveness of garlic (Allium sativum) extract in improving fatigue and quality of life in patients with multiple sclerosis (MS): a randomized single-blind placebo-controlled clinical trial",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Fatigue / low energy"
    ]
   },
   {
@@ -9723,6 +10051,39 @@
    ]
   },
   {
+   "ref_id": "REF-5088",
+   "key": "zhao2024garlicglucoselipidsma",
+   "type": "article",
+   "title": "Effects of Garlic on Glucose Parameters and Lipid Profile: A Systematic Review and Meta-Analysis on Randomized Controlled Trials",
+   "authors": "Zhao, X., Cheng, T., Xia, H., Yang, Y. and Wang, S.",
+   "journal": "Nutrients",
+   "year": "2024",
+   "doi": "10.3390/nu16111692",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu16111692",
+   "link_type": "doi",
+   "citation": "Zhao, X., Cheng, T., Xia, H., Yang, Y. and Wang, S (2024) 'Effects of Garlic on Glucose Parameters and Lipid Profile: A Systematic Review and Meta-Analysis on Randomized Controlled Trials', Nutrients, 16(11). doi:10.3390/nu16111692",
+   "abstract": "(1) Background: The effect of garlic on glucose and lipid metabolism in humans remains controversial. The aim of this study was to investigate the effects of garlic on blood lipid levels and glucose levels in humans through a systematic review and meta-analysis. (2) Methods: We extensively searched four databases, including PubMed, Web of Science, Embase, and the Cochrane Library, up to February 2024. To assess the collective impact of garlic and its supplements on fasting blood glucose (FBG), glycosylated hemoglobin (HbA1c), total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), and triglycerides (TG), an analysis was conducted using a random effects model. Subgroup analyses were performed when I2 < 50%. (3) Result: We found that the garlic intervention was effective in controlling FBG (mean difference = -7.01; 95% CI: -8.53, -5.49, p < 0.001), HbA1c (mean deviation = -0.66; 95% CI: -0.76, -0.55, p < 0.001, I2 = 62.9%), TC (mean difference = -14.17; 95% CI: -19.31, -9.03, p < 0.001), and LDL-C (mean difference = -8.20; 95% CI: -15.58, -0.81, p = 0.03); moreover, it also increased the level of HDL-C in humans (mean difference = 2.06; 95% CI: 1.54, 2.59; p < 0.001). Nonetheless, the intervention involving garlic did not yield a substantial impact on triglyceride (TG) levels. (4) Conclusion: The intervention of garlic is beneficial to control blood glucose and blood lipids in humans.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Garlic on Glucose Parameters and Lipid Profile: A Systematic Review and Meta-Analysis on Randomized Controlled Trials",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "High cholesterol"
+   ]
+  },
+  {
    "ref_id": "REF-1678",
    "key": "hammoodi2024laurus",
    "type": "article",
@@ -11476,6 +11837,38 @@
     "Pulmonaria officinalis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5101",
+   "key": "saiah2024alchemillaantiinflammatory",
+   "type": "article",
+   "title": "Integrating experimental and computational methods to uncover the anti-inflammatory, anti-nociceptive and antioxidant properties of Alchemilla vulgaris",
+   "authors": "Saiah, H., Saiah, W., Nehal, F., Mokhtar, M. and Aburjai, T.",
+   "journal": "Phytothérapie",
+   "year": "2024",
+   "doi": "10.1684/phyto.2024.0421",
+   "url": "",
+   "link": "https://doi.org/10.1684/phyto.2024.0421",
+   "link_type": "doi",
+   "citation": "Saiah, H., Saiah, W., Nehal, F., Mokhtar, M. and Aburjai, T (2024) 'Integrating experimental and computational methods to uncover the anti-inflammatory, anti-nociceptive and antioxidant properties of Alchemilla vulgaris', Phytothérapie, 22(6), pp. 274--294. doi:10.1684/phyto.2024.0421",
+   "abstract": "The development of novel cyclooxygenase-2 inhibitors is critical for patients suffering from chronic pain and inflammatory disorders. Herein, we report on the therapeutic activity, molecular docking, and pharmacokinetic parameters (ADMET) of Alchemilla vulgaris extract. Anti-inflammatory activity was assessed using a carrageenan-induced rat paw edema test. An acetic acid-induced pain modulation assay was performed to study analgesic activity. In vitro tests were conducted to determine scavenging activity against DPPH and inhibition of lipid peroxidation. Molecular docking of A. vulgaris major compounds was investigated against COX-2. Our findings demonstrated that the extract contained an important amount of phenolic compounds. The extract’s antioxidant activity was demonstrated by IC50 values of 808.49 μg/mL and 1357.35 μg/mL against DPPH radical and lipid peroxidation, respectively. Furthermore, the in vivo anti-inflammatory assay demonstrated the maximum (11.46%) reduction of edema at 400 mg/kg b.w. Furthermore, a significant (p < 0.001) pain modulation activity was revealed. These in vivo findings were corroborated by molecular docking investigations; the binding energies of A. vulgaris phytoconstituents were found in the range of – 6.5 to – 9.8 kcal/mol. The obtained results revealed that the antioxidant, anti-inflammatory, and analgesic activities of A. vulgaris extract were in consensus with the ADMET predictions.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Integrating experimental and computational methods to uncover the anti-inflammatory, anti-nociceptive and antioxidant properties of Alchemilla vulgaris",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -13708,6 +14101,41 @@
    "actions": [],
    "conditions": [
     "Metabolic support"
+   ]
+  },
+  {
+   "ref_id": "REF-5108",
+   "key": "irani2024aloediabeticfoot",
+   "type": "article",
+   "title": "The Effect of Aloe vera on the Healing of Diabetic Foot Ulcer: A Randomized, Double-blind Clinical Trial",
+   "authors": "Irani, P.S., Ranjbar, H., Mehdipour-Rabori, R., Torkaman, M., Amirsalari, S. and Alazmani-Noodeh, F.",
+   "journal": "Current Drug Discovery Technologies",
+   "year": "2024",
+   "doi": "10.2174/1570163820666230904150945",
+   "url": "",
+   "link": "https://doi.org/10.2174/1570163820666230904150945",
+   "link_type": "doi",
+   "citation": "Irani, P.S., Ranjbar, H., Mehdipour-Rabori, R., Torkaman, M., Amirsalari, S. and Alazmani-Noodeh, F (2024) 'The Effect of Aloe vera on the Healing of Diabetic Foot Ulcer: A Randomized, Double-blind Clinical Trial', Current Drug Discovery Technologies, 21(3), pp. 56--63. doi:10.2174/1570163820666230904150945",
+   "abstract": "BACKGROUND: Diabetic foot ulcer (DFU) is a prevalent complication of diabetes that can result in severe consequences. The cost of treating DFUs is high, and there is a lack of new therapies available in developing countries. This has created a demand for complementary and alternative treatments. The objective of this study was to assess the impact of aloe vera gel on the healing process of diabetic foot ulcers. MATERIALS AND METHODS: The study was a double-blind, randomized, controlled clinical trial. The study samples were 66 patients with diabetic foot ulcers who were randomly assigned to two groups (intervention and control). All ulcers in both groups were washed with normal saline and dressed in sterile gauze. The ulcers in the intervention group were covered with a thin layer of Aloe Vera gel before the dressing. The Bates-Jensen Wound Assessment Tool (BWAT) was used on three occasions, including before the intervention period and at the end of each week. Data were analyzed using SPSS 16. RESULTS: After three weeks, there was a notable contrast in the recovery pattern of the two groups. The patients who had aloe vera gel added to their dressing showed a more substantial decrease in the mean scores of their BWAT. CONCLUSION: These findings are promising and suggest that Aloe vera may be a safe and effective adjunctive treatment for diabetic foot ulcers. However, further research is needed to confirm these results and to investigate the underlying mechanisms of aloe vera's therapeutic effect on diabetic foot ulcers.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The Effect of Aloe vera on the Healing of Diabetic Foot Ulcer: A Randomized, Double-blind Clinical Trial",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Wounds"
    ]
   },
   {
@@ -18162,6 +18590,38 @@
    ]
   },
   {
+   "ref_id": "REF-5090",
+   "key": "fu2023garlicmetsynma",
+   "type": "article",
+   "title": "Effects of garlic supplementation on components of metabolic syndrome: a systematic review, meta-analysis, and meta-regression of randomized controlled trials",
+   "authors": "Fu, Z., Lv, J., Gao, X., Zheng, H., Shi, S., Xu, X., Zhang, B., Wu, H. and Song, Q.",
+   "journal": "BMC Complementary Medicine and Therapies",
+   "year": "2023",
+   "doi": "10.1186/s12906-023-04038-0",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-023-04038-0",
+   "link_type": "doi",
+   "citation": "Fu, Z., Lv, J., Gao, X., Zheng, H., Shi, S., Xu, X., Zhang, B., Wu, H. and Song, Q (2023) 'Effects of garlic supplementation on components of metabolic syndrome: a systematic review, meta-analysis, and meta-regression of randomized controlled trials', BMC Complementary Medicine and Therapies, 23(1), pp. 260. doi:10.1186/s12906-023-04038-0",
+   "abstract": "BACKGROUND: Garlic (Allium sativum), the underground bulb of the Allium genus, has been consumed on Earth for thousands of years. Many clinical trials of garlic supplementation on components of metabolic syndrome (MetS) have emerged in recent years, but there is no consensus on the effect. This meta-analysis aimed at systematically evaluating the effect of garlic supplementation on components of MetS. METHODS: In this meta-analysis, we searched Pubmed, Embase, Cochrane, Medline, Web of Science databases, and clinical trials online sites from inception to November 1, 2022, with language restrictions to English. We engaged participants > 18 years and eligible for the clinical diagnosis of MetS or those with metabolic disorders and garlic was the only intervention. Outcomes included waist circumference, and body mass index, triglycerides, total cholesterol, low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, blood pressure, and fasting blood glucose. Meta-regression and subgroup analyses were conducted based on six covariates (total sample size, the mean age, the mean dose, the duration of intervention, the oral form of garlic, and the dietary intervention). RESULTS: Results from 19 RCTs were included engaging 999 participants. Compared to placebo, garlic significantly reduced TG [SMD (95%CI) = -0.66 (-1.23, -0.09)], TC [SMD (95%CI) = -0.43 (-0.86, -0.01)], LDL [SMD (95%CI) = -0.44(-0.88, -0.01)], DBP [SMD (95%CI) = -1.33 (-2.14, -0.53)], BMI [SMD (95%CI) = -1.10(-1.90, -0.20)], and WC [SMD (95%CI) = -0.78(-1.09, -0.47)]. Meta-regression showed age and sample size are potential effect modifiers. CONCLUSION: According to the results of meta-analysis, the modulatory effect of garlic on some MetS components is evident. More high-quality, large-scale RCTs are needed to confirm iat based on the high heterogeneity and potential publication bias of the current data. TRIAL REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=373228 , ID: CRD42022373228.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of garlic supplementation on components of metabolic syndrome: a systematic review, meta-analysis, and meta-regression of randomized controlled trials",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Metabolic support"
+   ]
+  },
+  {
    "ref_id": "REF-3799",
    "key": "alqudah2023thymestudents",
    "type": "article",
@@ -18194,6 +18654,38 @@
     "Insomnia / sleeplessness",
     "Low mood / depression",
     "Memory"
+   ]
+  },
+  {
+   "ref_id": "REF-5123",
+   "key": "haryalchi2023lemonverbenaaromaanxiety",
+   "type": "article",
+   "title": "Effects of the aroma of lemone verbena (Aloysia citriodora Paláu) essential oil on anxiety and the hemodynamic profile before cesarean section: A randomized clinical trial",
+   "authors": "Haryalchi, K., Kazemi Aski, S., Mansour Ghanaie, M., Fotouhi, M., Mansoori, R., Sadraei, S.M., Yaghobi, Y. and Olangian-Tehrani, S.",
+   "journal": "Health Science Reports",
+   "year": "2023",
+   "doi": "10.1002/hsr2.1282",
+   "url": "",
+   "link": "https://doi.org/10.1002/hsr2.1282",
+   "link_type": "doi",
+   "citation": "Haryalchi, K., Kazemi Aski, S., Mansour Ghanaie, M., Fotouhi, M., Mansoori, R., Sadraei, S.M., Yaghobi, Y. and Olangian-Tehrani, S (2023) 'Effects of the aroma of lemone verbena (Aloysia citriodora Paláu) essential oil on anxiety and the hemodynamic profile before cesarean section: A randomized clinical trial', Health Science Reports, 6(5), pp. e1282. doi:10.1002/hsr2.1282",
+   "abstract": "BACKGROUND: Aromatherapy is a noninvasive method used for alleviating anxiety. Lemon verbena (Aloysia citriodora Paláu, LV) has been frequently used in traditional medicine as an anxiolytic agent due to its pharmacological ingredients. OBJECTIVE: This randomized controlled trial aimed to assess the effects of inhaling essential oil of LV on the level of anxiety and subsequent hemodynamic changes before cesarean section. METHODS: The recent study was a randomized single-blind trial. Participants (n = 84) were randomly divided into two groups: LV essential oil (group A) and placebo (group B). The intervention group underwent aromatherapy using three drops of LV essential oil at a distance of 10 cm for 30 min. The placebo group received aromatherapy in a similar fashion. The State-Trait Anxiety Inventory of Spielberger questionnaire was administered before and 5 min after aroma inhalation. Vital signs were recorded before and after aromatherapy. Likewise, pain severity was assessed using the Numeric Rating Scale and vital signs were recorded. Data were analyzed using t-test, χ 2, and the Kolmogrov-Smirnov test through SPSS21 software. RESULTS: Anxiety level was significantly attenuated in group A after aromatherapy. Heart rate, respiratory rate, and blood pressure decreased after inhalation; but no significant variation of pain scores was observed after inhalation in both groups. CONCLUSION: We concluded that LV decreased preoperative anxiety in this recent study, therefore, aromatherapy with LV essential oil as a preemptive adjuvant to relieve anxiety before cesarean section is recommended by us; although more studies are required to endorse the results.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of the aroma of lemone verbena (Aloysia citriodora Paláu) essential oil on anxiety and the hemodynamic profile before cesarean section: A randomized clinical trial",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [],
+   "conditions": [
+    "Anxiety"
    ]
   },
   {
@@ -18949,6 +19441,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5091",
+   "key": "xiaohui2023garlicliverdiseasema",
+   "type": "article",
+   "title": "Garlic supplementation for the treatment of chronic liver disease: a meta-analysis of randomized controlled trials",
+   "authors": "Xiaohui, L., Jinqi, L., Xiaofang, X., Zhiqiang, S. and Renxiu, N.",
+   "journal": "African Health Sciences",
+   "year": "2023",
+   "doi": "10.4314/ahs.v23i2.47",
+   "url": "",
+   "link": "https://doi.org/10.4314/ahs.v23i2.47",
+   "link_type": "doi",
+   "citation": "Xiaohui, L., Jinqi, L., Xiaofang, X., Zhiqiang, S. and Renxiu, N (2023) 'Garlic supplementation for the treatment of chronic liver disease: a meta-analysis of randomized controlled trials', African Health Sciences, 23(2), pp. 409--415. doi:10.4314/ahs.v23i2.47",
+   "abstract": "INTRODUCTION: The efficacy of garlic supplementation for chronic liver disease remains controversial. We conduct a meta-analysis to explore the influence of garlic supplementation versus placebo on the treatment of chronic liver disease. METHODS: We have searched PubMed, EMbase, Web of science, EBSCO, and Cochrane library databases through September 2021 for randomized controlled trials (RCTs) assessing the efficacy of garlic supplementation versus placebo for chronic liver disease. This meta-analysis is performed using the random-effect model. RESULTS: Four RCTs and 212 patients are included in the meta-analysis. Overall, compared with control group for chronic liver disease, garlic supplementation is associated with significantly reduced alanine aminotransferase (ALT), aspartate-aminotransferase (AST), total cholesterol, low density lipoprotein (LDL) and weight, but demonstrates no substantial impact on the incidence of adverse events. CONCLUSIONS: Garlic supplementation is effective to treat chronic liver disease.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Garlic supplementation for the treatment of chronic liver disease: a meta-analysis of randomized controlled trials",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Liver support"
+   ]
   },
   {
    "ref_id": "REF-1826",
@@ -23547,6 +24071,36 @@
    ]
   },
   {
+   "ref_id": "REF-5095",
+   "key": "mollahosseini2022garlicplateletsr",
+   "type": "article",
+   "title": "A systematic review of randomized controlled trials related to the effects of garlic supplementation on platelet aggregation",
+   "authors": "Mollahosseini, M., Hosseini-Marnani, E., Panjeshahin, A., Panbehkar-Jouybari, M., Gheflati, A. and Mozaffari-Khosravi, H.",
+   "journal": "Phytotherapy Research",
+   "year": "2022",
+   "doi": "10.1002/ptr.7556",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7556",
+   "link_type": "doi",
+   "citation": "Mollahosseini, M., Hosseini-Marnani, E., Panjeshahin, A., Panbehkar-Jouybari, M., Gheflati, A. and Mozaffari-Khosravi, H (2022) 'A systematic review of randomized controlled trials related to the effects of garlic supplementation on platelet aggregation', Phytotherapy Research, 36(11), pp. 4041--4050. doi:10.1002/ptr.7556",
+   "abstract": "The increment of platelet aggregation factors has been considered a key phenomenon in atherosclerosis. Studies have shown that garlic (Allium sativum) is associated with a reduction in platelet aggregation and thrombosis. Hence, the present systematic review was conducted to evaluate the effect of garlic on platelet aggregation. All randomized controlled trials (RCTs) with keywords related to garlic and platelet aggregation were thoroughly searched in electronic databases including PubMed, Scopus, ISI Web of Science, and Google Scholar up to January 2021. Moreover, the references of all related articles were screened to discover more relevant studies. The quality of each study was reported based on Cochrane Collaboration's tool. In total, 12 studies met the inclusion criteria from 18,235 identified articles (including 595 participants). Most of the studies assessed platelet aggregation in response to different inducers. Of the 12 clinical trials, six studies depicted the beneficial effect of garlic on reducing platelet aggregation. The summary of the quality assessment indicated that most of the studies had high-quality scores. Regarding the small number of RCTs and heterogeneity between studies, it is impossible to make a proper conclusion about the impacts of garlic on platelet aggregation. Therefore, further precise trials with a standard design are necessary to validate the anti-thrombotic effect of garlic.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A systematic review of randomized controlled trials related to the effects of garlic supplementation on platelet aggregation",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2091",
    "key": "arribaslopez2022centella",
    "type": "article",
@@ -23753,6 +24307,41 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5106",
+   "key": "wang2022aloeradiodermatitissr",
+   "type": "article",
+   "title": "Aloe vera for prevention of radiation-induced dermatitis: A systematic review and cumulative analysis of randomized controlled trials",
+   "authors": "Wang, T., Liao, J., Zheng, L., Zhou, Y., Jin, Q. and Wu, Y.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2022",
+   "doi": "10.3389/fphar.2022.976698",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2022.976698",
+   "link_type": "doi",
+   "citation": "Wang, T., Liao, J., Zheng, L., Zhou, Y., Jin, Q. and Wu, Y (2022) 'Aloe vera for prevention of radiation-induced dermatitis: A systematic review and cumulative analysis of randomized controlled trials', Frontiers in Pharmacology, 13, pp. 976698. doi:10.3389/fphar.2022.976698",
+   "abstract": "Background: Aloe vera were frequently reported to reduce the risk of radiation-induced dermatitis (RID), but the quantitative results from all the relevant studies were not presently available. This study sought to conduct a cumulative analysis to better clarify the preventive effects of aloe vera in RID. Methods: MEDLINE (PubMed), Cochrane, EMBASE, PsychINFO, Web of Science, China National Knowledge Infrastructure (CNKI), and Wan Fang Database were utilized for identifying the eligible randomized controlled trials (RCTs) without language restrictions, up to March 2022. The pooled incidence of RID was conducted by the Relative risk (RR) with its 95% confidence interval (CI) through the STATA software under a random-effects model. This systematic review and cumulative analysis were registered on PROSPERO (ID: CRD42022335188). Results: Fourteen RCTs met our predefined inclusion criteria, enrolling 1,572 participants (mean age: 46.5-56 years). The cumulative results revealed that patients pretreated with aloe vera were associated with a significantly lower risk of RID compared to those without aloe vera usage (RR = 0.76, 95% CI: 0.67-0.88, p < 0.001; heterogeneity: I 2 = 79.8%, p < 0.001). In the subgroup analysis, the pooled incidence of Grade 2-4, Grade 2, and Grade 3 RID was also dramatically lower in the group of aloe vera as compared to the placebo group [RR = 0.44 (0.27, 0.74), 0.58 (0.36, 0.94), and 0.27 (0.12, 0.59) in Grade 2-4, Grade 2, and Grade 3, respectively]. However, in regard to Grade 4 RID, the combined RR indicated that the incidence of RID was comparable between aloe vera and the control group (RR = 0.13, 95% CI: 0.02-1.01, p = 0.051; heterogeneity: I 2 = 0.0%, p = 0.741). The sensitivity analyses showed that there was no substantial change in the new pooled RR after eliminating anyone of the included study. Conclusion: The current cumulative analysis revealed that patients pretreated with aloe vera were less likely to suffer from RID than the controls without using aloe vera. Based on this finding, the prophylactic application of aloe vera might significantly reduce the incidence of RID, especially in Grade 2 and Grade 3 RID. Further large-sample multicenter RCTs are still warranted to confirm these findings and for better clinical application.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe vera for prevention of radiation-induced dermatitis: A systematic review and cumulative analysis of randomized controlled trials",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Skin irritation"
+   ]
   },
   {
    "ref_id": "REF-1199",
@@ -24122,6 +24711,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5122",
+   "key": "martinezrodriguez2022lemonverbenastresssleep",
+   "type": "article",
+   "title": "Anxiolytic Effect and Improved Sleep Quality in Individuals Taking Lippia citriodora Extract",
+   "authors": "Martínez-Rodríguez, A., Martínez-Olcina, M., Mora, J., Navarro, P., Caturla, N. and Jones, J.",
+   "journal": "Nutrients",
+   "year": "2022",
+   "doi": "10.3390/nu14010218",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu14010218",
+   "link_type": "doi",
+   "citation": "Martínez-Rodríguez, A., Martínez-Olcina, M., Mora, J., Navarro, P., Caturla, N. and Jones, J (2022) 'Anxiolytic Effect and Improved Sleep Quality in Individuals Taking Lippia citriodora Extract', Nutrients, 14(1). doi:10.3390/nu14010218",
+   "abstract": "The current fast-moving, hectic lifestyle has increased the number of individuals worldwide with difficulties in managing stress, which in turn is also affecting their sleep quality. Therefore, the objective of the current study was to assess a natural plant-based dietary supplement comprised of lemon verbena (Lippia citriodora) extract, purified in phenylpropanoids, in alleviating stress and improving quality of sleep. A double-blind, placebo-controlled study was conducted for 8 weeks, followed by a 4-week washout period. Both validated questionnaires and functional tests were performed during the study, whereas questionnaires were used after the washout. As a result, the group taking the lemon verbena extract significantly reduced their perception of stress after 8 weeks, which was corroborated by a significant decrease in cortisol levels. After the washout period, the subjects reported to present even lower stress levels, due to the lasting effect of the ingredient. As for sleep quality, the subjects taking the supplement reported feeling better rested, with a stronger effect observed in women. Sleep tracking using a wearable device revealed that the supplement users improved their times in the deeper stages of sleep, specifically their percentage of time in deep sleep and REM. In conclusion, lemon verbena extract purified in phenylpropanoids is revealed as a natural solution to help individuals to improve their stress and sleep quality.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Anxiolytic Effect and Improved Sleep Quality in Individuals Taking Lippia citriodora Extract",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [],
+   "conditions": [
+    "Anxiety",
+    "Insomnia / sleeplessness",
+    "Stress"
+   ]
+  },
+  {
    "ref_id": "REF-2372",
    "key": "kravchenko2022uvaursi",
    "type": "article",
@@ -24292,6 +24915,41 @@
     "Antimicrobial"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5110",
+   "key": "yousef2022aloeaphthous",
+   "type": "article",
+   "title": "Assessment of the Effectiveness of Aloe vera Versus Amlexanox in the Treatment of Recurrent Aphthous Ulcers: A Three-Arm Placebo-Controlled Randomized Clinical Trial",
+   "authors": "Yousef, N.J., Aljoujou, A.A., Mashlah, A.M. and Hajeer, M.Y.",
+   "journal": "Cureus",
+   "year": "2022",
+   "doi": "10.7759/cureus.30693",
+   "url": "",
+   "link": "https://doi.org/10.7759/cureus.30693",
+   "link_type": "doi",
+   "citation": "Yousef, N.J., Aljoujou, A.A., Mashlah, A.M. and Hajeer, M.Y (2022) 'Assessment of the Effectiveness of Aloe vera Versus Amlexanox in the Treatment of Recurrent Aphthous Ulcers: A Three-Arm Placebo-Controlled Randomized Clinical Trial', Cureus, 14(10), pp. e30693. doi:10.7759/cureus.30693",
+   "abstract": "Background Recurrent aphthous ulcers are one of the most common lesions of the oral mucosa. Most currently available treatment methods aim to relieve symptoms, speed up healing and prevent ulcer recurrence. The current study aimed to compare the effectiveness of Aloe vera gel with that of amlexanox 5% oral paste in the treatment of recurrent small-type aphthous ulcers. Materials and Methods The study was conducted on 60 patients (27 males and 33 females) attending the Department of Oral Medicine at the Faculty of Dentistry at Damascus University. The sample age ranged between 15 to 25 years, with an average age of 20.3 ± 2.4 years. Patients were diagnosed with recurrent aphthous ulcers of the small type. The sample was divided into three groups with equal numbers of patients (n=20 for each group) according to the provided drug: Aloe vera, amlexanox, and the placebo groups. Patients' ulcer size was measured on day 0 of treatment, and the ulcer size reduction was assessed on day 3 and day 5. The pain was also recorded at the first visit, and then pain reduction was assessed during follow-up visits. Results The mean ulcer size on the fifth day of treatment was 1.85 mm2, 4.05 mm2, and 6.20 mm2 in the Aloe vera, the amlexanox, and the placebo groups, respectively. The differences between groups were significant (p=0.003). The mean pain on the fifth day was 0.80 cm, 1.60 cm, and 3.20 cm in the Aloe vera, the amlexanox, and the placebo groups, respectively. The differences between groups were significant (p=0.026). Conclusions Within the limits of the current trial, both treatment groups proved effective in accelerating ulcer healing with the superiority of Aloe vera compared to amlexanox, as it achieved a greater reduction in ulcer size and pain when assessed on the fifth day of treatment.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Assessment of the Effectiveness of Aloe vera Versus Amlexanox in the Treatment of Recurrent Aphthous Ulcers: A Three-Arm Placebo-Controlled Randomized Clinical Trial",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
   },
   {
    "ref_id": "REF-0401",
@@ -30166,6 +30824,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5092",
+   "key": "rastkar2022garlicnafldma",
+   "type": "article",
+   "title": "Systematic review and meta-analysis of the effect of garlic in patients with non-alcoholic fatty liver disease",
+   "authors": "Rastkar, M., Nikniaz, L., Abbasalizad Farhangi, M. and Nikniaz, Z.",
+   "journal": "Indian Journal of Gastroenterology",
+   "year": "2022",
+   "doi": "10.1007/s12664-022-01287-8",
+   "url": "",
+   "link": "https://doi.org/10.1007/s12664-022-01287-8",
+   "link_type": "doi",
+   "citation": "Rastkar, M., Nikniaz, L., Abbasalizad Farhangi, M. and Nikniaz, Z (2022) 'Systematic review and meta-analysis of the effect of garlic in patients with non-alcoholic fatty liver disease', Indian Journal of Gastroenterology, 41(6), pp. 548--557. doi:10.1007/s12664-022-01287-8",
+   "abstract": "BACKGROUND: We aimed to conduct a systematic review and meta-analyses to examine the therapeutic effect of garlic on non-alcoholic fatty liver disease (NAFLD). METHODS: We searched PubMed, Scopus, Web of Science, and Embase databases for retrieving articles investigating the impact of garlic on NAFLD patients. The comprehensive meta-analysis software version 2.0 was used for statistical analysis. The standardized mean difference with a 95% confidence interval (CI) was reported and the effect size was calculated. RESULTS: A preliminary search yielded a total of 293 articles. After screening articles based on inclusion criteria, four articles were included in the final analyses. This systematic review included 186 patients with NAFLD. The result of the meta-analysis showed significant differences between the garlic and placebo groups regarding changes in alanine aminotransferase, aspartate aminotransferase, total cholesterol, low-density lipoprotein-cholesterol, triglyceride, and fasting blood sugar. Moreover, the probability of a decrease in hepatic steatosis was 2.75 times lower in the garlic group compared with the placebo group (RR [95% CI]: 2.75 [1.79, 4.23], p-value<0.001). CONCLUSION: This meta-analysis demonstrates that garlic supplementation had a positive effect on hepatic steatosis, liver enzyme levels, and metabolic profile of patients with NAFLD. However, considering the potential limitation of the included studies, more high-quality clinical trials are needed.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Systematic review and meta-analysis of the effect of garlic in patients with non-alcoholic fatty liver disease",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Liver support"
+   ]
+  },
+  {
    "ref_id": "REF-3660",
    "key": "ingrosso2022peppermintibs2022",
    "type": "article",
@@ -32339,6 +33029,105 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5115",
+   "key": "baldi2021aloegelfoodtox",
+   "type": "article",
+   "title": "Aloe gel-base food products: Chemical, toxicological, and regulatory aspects",
+   "authors": "Baldi, A., Sommella, E., Campiglia, P. and Daglia, M.",
+   "journal": "Regulatory Toxicology and Pharmacology",
+   "year": "2021",
+   "doi": "10.1016/j.yrtph.2020.104818",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.yrtph.2020.104818",
+   "link_type": "doi",
+   "citation": "Baldi, A., Sommella, E., Campiglia, P. and Daglia, M (2021) 'Aloe gel-base food products: Chemical, toxicological, and regulatory aspects', Regulatory Toxicology and Pharmacology, 119, pp. 104818. doi:10.1016/j.yrtph.2020.104818",
+   "abstract": "Aloe products are increasingly valued as ingredients in food supplements and flavoring agents. In early March 2020, the European Commission drafted a ban on the use of Aloe products that contain hydroxyanthracene derivatives (HADs) in food, following the opinion on concerns about the toxicity of vegetable extracts containing HADs carried out by the European Food Safety Authority (EFSA). Aloe gel preparation is characterized by minimal amounts of HADs, only present as contaminants during extraction, compared to other sold Aloe preparations such as Aloe latex and Aloe whole leaf extract. This review provides a comprehensive account of the toxicological aspects of Aloe gel, and briefly discusses the chemical profile of other Aloe preparations. Unlike these other preparations, pure Aloe gel shows no toxic effects. However, further toxicological studies remain necessary to establish the maximum permissible limit of HAD contaminants in Aloe gel, considering daily doses and maximum duration of treatments. Finally, officially validated analytical methods for determination of HADs are required, in the form of tools for use by Companies and Competent Authorities to ensure the absence of HAD contamination in raw materials or in finished products.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe gel-base food products: Chemical, toxicological, and regulatory aspects",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5118",
+   "key": "sadoyu2021aloeumbrellareview",
+   "type": "article",
+   "title": "Aloe vera and health outcomes: An umbrella review of systematic reviews and meta-analyses",
+   "authors": "Sadoyu, S., Rungruang, C., Wattanavijitkul, T., Sawangjit, R., Thakkinstian, A. and Chaiyakunapruk, N.",
+   "journal": "Phytotherapy Research",
+   "year": "2021",
+   "doi": "10.1002/ptr.6833",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6833",
+   "link_type": "doi",
+   "citation": "Sadoyu, S., Rungruang, C., Wattanavijitkul, T., Sawangjit, R., Thakkinstian, A. and Chaiyakunapruk, N (2021) 'Aloe vera and health outcomes: An umbrella review of systematic reviews and meta-analyses', Phytotherapy Research, 35(2), pp. 555--576. doi:10.1002/ptr.6833",
+   "abstract": "This umbrella review aims to summarize the effects of Aloe vera on health outcomes and assess the strength of evidence. PubMed, Scopus, Embase, Cochrane database of systematic reviews, CINAHL, and AMED were searched from inception to October, 2019 for systematic reviews and meta-analyses of clinical trials that investigated the effects of Aloe vera on health outcomes. Two independent reviewers extracted data, assessed the methodological quality, and rated the credibility of evidence according to established criteria. Ten articles reporting 71 unique outcomes of Aloe vera were included. Of these, 47 (67%) were nominally statistically significant based on random-effects model (p ≤ .05). Only 3 outcomes were supported by highly suggestive evidence, whereas 42 outcomes were supported by weak evidence. The highly suggestive evidence supported benefits of Aloe vera in the prevention of second-degree infusion phlebitis (RR: 0.18, 95% CI: 0.10-0.32, p-value: 1.75 × 10-9 ) and chemotherapy-induced phlebitis based on overall incidence (OR: 0.13, 95% CI: 0.08-0.20, p-value: 9.68 × 10-20 ) and incidence of the second degree of severity (OR: 0.10, 95% CI: 0.07-0.14, p-value: 3.41 × 10-35 ). However, the majority of the evidence were limited by small sample size and poor methodological quality. Therefore, despite the overall favorable effect of Aloe vera, more robust studies are needed.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe vera and health outcomes: An umbrella review of systematic reviews and meta-analyses",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5119",
+   "key": "poordast2021aloeatrophicvaginitis",
+   "type": "article",
+   "title": "Aloe Vera; A new treatment for atrophic vaginitis, A randomized double-blinded controlled trial",
+   "authors": "Poordast, T., Ghaedian, L., Ghaedian, L., Najib, F.S., Alipour, S., Hosseinzadeh, M., Vardanjani, H.M., Salehi, A. and Hosseinimehr, S.J.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2021",
+   "doi": "10.1016/j.jep.2020.113760",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2020.113760",
+   "link_type": "doi",
+   "citation": "Poordast, T., Ghaedian, L., Ghaedian, L., Najib, F.S., Alipour, S., Hosseinzadeh, M., Vardanjani, H.M., Salehi, A. and Hosseinimehr, S.J (2021) 'Aloe Vera; A new treatment for atrophic vaginitis, A randomized double-blinded controlled trial', Journal of Ethnopharmacology, 270, pp. 113760. doi:10.1016/j.jep.2020.113760",
+   "abstract": "AIM OF THE STUDY: Vaginal atrophy is of the most common problems during menopause with significant psychosocial and medical consequences. Estrogen as an approved therapy for vaginal atrophy can be associated with adverse effects and several contraindications in menopause patients. The aim is to compare the effect of Aloe Vera vaginal cream with commercially available estrogen vaginal cream for management of vaginal atrophy in menopause females. MATERIALS AND METHODS: This is a double-blinded randomized controlled trial on 60menopause female with complaints of vaginal atrophy symptoms. Subjects were randomly allocated in two groups of 30 patients, named as estrogen and Aloe Vera groups. Vaginal health index (VHI), maturity value (MV), vaginal cytologic smear, transvaginal sonography (TVS) and severity of symptoms related to vaginal atrophy were assessed before and after 6-weeks of vaginal cream administration. RESULTS: Comparison of MV before and after treatment revealed that superficial cells were significantly increased after administration of both vaginal cream (6.67 VS 54.33 in Aloe Vera group; 4.33 VS 59.67 in estrogen group). In addition, VHI (13.83 vs 20.13 in Aloe Vera group; 13.97 vs 19.93 in estrogen group) and symptoms of vaginal atrophy (3.63 vs 1.10 in Aloe Vera group; 3.90 vs 0.66 in estrogen groups) were also significantly improved after treatment in both groups. There was no significant difference between groups after treatment except for fluid volume with a superiority in Aloe Vera group (P-value = 0.004) CONCLUSION: Aloe Vera vaginal cream can be as effective as estrogen vaginal cream in the management of vaginal atrophy in menopause females.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe Vera; A new treatment for atrophic vaginitis, A randomized double-blinded controlled trial",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2849",
    "key": "salama2021aloysia",
    "type": "article",
@@ -34104,6 +34893,66 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5124",
+   "key": "soheilipur2021saffronlippiaanxiety",
+   "type": "article",
+   "title": "Comparing the effects of saffron, lippia, and saffron-lippia combination on anxiety among candidates for coronary angiography",
+   "authors": "Soheilipur, K., Khazdair, M.R., Moezi, S.A. and Mahmoudirad, G.",
+   "journal": "Avicenna Journal of Phytomedicine",
+   "year": "2021",
+   "doi": "10.22038/AJP.2021.18077",
+   "url": "",
+   "link": "https://doi.org/10.22038/AJP.2021.18077",
+   "link_type": "doi",
+   "citation": "Soheilipur, K., Khazdair, M.R., Moezi, S.A. and Mahmoudirad, G (2021) 'Comparing the effects of saffron, lippia, and saffron-lippia combination on anxiety among candidates for coronary angiography', Avicenna Journal of Phytomedicine, 11(5), pp. 515--526. doi:10.22038/AJP.2021.18077",
+   "abstract": "OBJECTIVE: Coronary artery disease (CAD) is among the most prevalent diseases in the world, and its severity is usually assessed through coronary angiography (CA). Anxiety is the most prevalent problem before angiography. The aim of this study was to evaluate Crocus sativus (saffron) and Lippia citriodora Kunth (lippia) extracts and saffron-lippia extract combination on anxiety among the candidates for CA. MATERIALS AND METHODS: This double-blind randomized placebo-controlled trial in four month was conducted on 120 angiography candidates in Valiasr hospital, Birjand, Iran. The random allocation was doing through block randomization to saffron, lippia, saffron-lippia, and placebo groups; four hours before angiography, participants in these groups respectively received a single dose of saffron extract capsule (40 mg), lippia extract capsule (40 mg), saffron-lippia extract capsule (20 mg saffron and 20 mg lippia), and lactulose capsule (40 mg). Participants' anxiety was assessed before, thirty minutes after, and three hours after the intervention via Spielberger State-Trait Anxiety Inventory. RESULTS: The mean scores of state, trait, and total anxiety in the saffron group reduced significantly (p<0.05), while the mean scores in the other groups did not change significantly, except for the mean score of trait anxiety in the saffron-lippia group which decreased significantly (p=0.05). Therefore, after the intervention, the mean scores of state, trait, and total anxiety in the saffron group were significantly lower than the other groups (all, p<0.05). CONCLUSION: This study suggests that the oral use of a single-dose of 40 mg saffron extract is effective in alleviating anxiety among the candidates for CA.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Comparing the effects of saffron, lippia, and saffron-lippia combination on anxiety among candidates for coronary angiography",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5085",
+   "key": "chung2021alchemillasorethroat",
+   "type": "article",
+   "title": "Comparison of prophylactic effect of topical Alchemilla vulgaris in glycerine versus that of dexamethasone on postoperative sore throat after tracheal intubation using a double-lumen endobronchial tube: a randomized controlled study",
+   "authors": "Chung, C.J., Jeong, S.Y., Jeong, J.H., Kim, S.W., Lee, K.H., Kim, J.H., Park, S.Y. and Choi, S.R.",
+   "journal": "Anesthesia and Pain Medicine",
+   "year": "2021",
+   "doi": "10.17085/apm.20082",
+   "url": "",
+   "link": "https://doi.org/10.17085/apm.20082",
+   "link_type": "doi",
+   "citation": "Chung, C.J., Jeong, S.Y., Jeong, J.H., Kim, S.W., Lee, K.H., Kim, J.H., Park, S.Y. and Choi, S.R (2021) 'Comparison of prophylactic effect of topical Alchemilla vulgaris in glycerine versus that of dexamethasone on postoperative sore throat after tracheal intubation using a double-lumen endobronchial tube: a randomized controlled study', Anesthesia and Pain Medicine, 16(2), pp. 163--170. doi:10.17085/apm.20082",
+   "abstract": "BACKGROUND: Sore throat and hoarseness frequently occur following general anesthesia with tracheal intubation and are effectively reduced when dexamethasone is used prophylactically. Alchemilla vulgaris in glycerine (Neo Mucosal Activator®) suppresses inflammatory response, possibly relieving sore throat. METHODS: We enrolled 94 patients (age ≥ 18 years) scheduled for thoracic surgery using double-lumen tube intubation. Before intubation, 0.2 mg/kg of dexamethasone was administered intravenously and 2 ml of normal saline was sprayed into the oropharyngeal cavity (Group D; n = 45), or 0.04 ml/kg normal saline was administered intravenously and 1 g of Neo Mucosal Activator® mixed with 1 ml of normal saline was sprayed into the oropharyngeal cavity (Group N; n = 43), in a double blind and prospectively randomized manner. Postoperative sore throat and hoarseness were recorded using a numeral rating scale and a 4-point scale to detect a change in voice quality following tracheal extubation (at 1, 6, and 24 h). The primary outcome was the incidence of sore throat at 24 h following surgery. The secondary outcomes were incidence and severity of sore throat and hoarseness. RESULTS: There were no significant differences in the incidence of sore throat at 24 h following surgery (57.8% vs. 46.5%; P = 0.290) or in the incidence and intensity of sore throat and hoarseness at 1, 6, and 24 h following surgery between the groups. CONCLUSIONS: A. vulgaris in glycerine did not significantly differ from dexamethasone for preventing sore throat and hoarseness owing to intubation.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Comparison of prophylactic effect of topical Alchemilla vulgaris in glycerine versus that of dexamethasone on postoperative sore throat after tracheal intubation using a double-lumen endobronchial tube: a randomized controlled study",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0345",
    "key": "francisbaker2021concise",
    "type": "book",
@@ -34686,6 +35535,68 @@
     "Menstrual cramps",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-5093",
+   "key": "jafari2021garlicpms",
+   "type": "article",
+   "title": "Effect of Garlic (Allium sativum) Supplementation on Premenstrual Disorders: A Randomized, Double-Blind, Placebo-Controlled Trial",
+   "authors": "Jafari, F., Tabarrai, M., Abbassian, A., Jafari, F. and Ayati, M.H.",
+   "journal": "Evidence-based Complementary and Alternative Medicine",
+   "year": "2021",
+   "doi": "10.1155/2021/9965064",
+   "url": "",
+   "link": "https://doi.org/10.1155/2021/9965064",
+   "link_type": "doi",
+   "citation": "Jafari, F., Tabarrai, M., Abbassian, A., Jafari, F. and Ayati, M.H (2021) 'Effect of Garlic (Allium sativum) Supplementation on Premenstrual Disorders: A Randomized, Double-Blind, Placebo-Controlled Trial', Evidence-based Complementary and Alternative Medicine, 2021, pp. 9965064. doi:10.1155/2021/9965064",
+   "abstract": "BACKGROUND: Premenstrual disorders involve physical, behavioral, and mood variations that affect women of childbearing age and interfere with family relationships, household responsibilities, professional duties, and social activities. OBJECTIVES: Considering the side effects of conventional medications, their use is not recommended except in severe cases of premenstrual disorders. Nowadays, there is a tendency to use traditional and complementary medicine that offers various treatments. The purpose of the current study was to investigate the impacts of garlic as a herbal medicine on the severity of premenstrual symptoms. METHODS: This study was a double-blind, randomized, controlled trial. After identification of participants with moderate-to-severe PMS through the premenstrual symptoms screening tools questionnaire (PSST), they were randomly assigned to placebo (n = 64) or garlic (n = 65) groups. Each participant received one tablet daily for three consecutive cycles and logged the severity of their symptoms in the PSST questionnaire during the intervention period. RESULTS: There was no significant difference between the two groups in the baseline level of premenstrual symptoms before the intervention. After treatment with garlic for three consecutive cycles, the total score of the severity of premenstrual symptoms significantly (P < 0.001) reduced from 34.09 ± 7.31 to 11.21 ± 7.17. In the placebo group, this score changed from 33.35 ± 7.96 to 24.28 ± 7.22. The difference between mean changes in the two groups was 13.78, with a 95% Confidence Interval (CI) of 11.23-16.33. No serious side effects were observed in either group. CONCLUSION: Our findings highlight the potential effect of garlic in reducing the severity of premenstrual symptoms; therefore, the use of garlic can be considered as an alternative therapy in the prevention and treatment of premenstrual disorders.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of Garlic (Allium sativum) Supplementation on Premenstrual Disorders: A Randomized, Double-Blind, Placebo-Controlled Trial",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "PMS / premenstrual syndrome"
+   ]
+  },
+  {
+   "ref_id": "REF-5096",
+   "key": "koushki2021garlicinflammatoryma",
+   "type": "article",
+   "title": "Effect of garlic intake on inflammatory mediators: a systematic review and meta-analysis of randomised controlled trials",
+   "authors": "Koushki, M., Amiri-Dashatan, N., Pourfarjam, Y. and Doustimotlagh, A.H.",
+   "journal": "Postgraduate Medical Journal",
+   "year": "2021",
+   "doi": "10.1136/postgradmedj-2019-137267",
+   "url": "",
+   "link": "https://doi.org/10.1136/postgradmedj-2019-137267",
+   "link_type": "doi",
+   "citation": "Koushki, M., Amiri-Dashatan, N., Pourfarjam, Y. and Doustimotlagh, A.H (2021) 'Effect of garlic intake on inflammatory mediators: a systematic review and meta-analysis of randomised controlled trials', Postgraduate Medical Journal, 97(1145), pp. 156--163. doi:10.1136/postgradmedj-2019-137267",
+   "abstract": "BACKGROUND: Garlic is a species in the onion genus, Allium. Data have shown that garlic has anti-inflammatory activity; however, the findings are inconclusive and inconsistent. We aimed to evaluate the impact of garlic intake on inflammatory mediators through systematic review and meta-analysis of existing data. METHODS: Electronic databases were completely investigated using databases of ISI Web of Science, Medline, Scopus, Cochrane Library and EMBASE until October 2019. A random effects model and the generic reverse variance procedure were used for quantitative data production. Sensitivity analyses and prespecified subgroup were done to evaluate potential heterogeneity. Random effect meta-regression was conducted to investigate the effects of possible confounders on the assessed effect size. RESULTS: Ten trials with one observational study, including 530 participants, met the eligibility criteria. The findings showed reduction in the tumour necrosis factor alpha (TNF-α) (-0.31 pg/mL, 95% CI -1.07 to 0.46) and C reactive protein (CRP) levels (-0.20 mg/L, 95% CI -1.4 to 1.05) following supplementation with garlic, although it had no marked impact on the interleukin 6 (IL-6) level (0.37 pg/mL, 95% CI -0.58 to 1.33). In the subgroup analysis, we found that garlic supplementation significantly decreased TNF-α, highly sensitive CRP and IL-6 levels in subgroups of >8, >6 and ≥4 weeks of intervention duration, respectively, and dose of garlic consumption between 2 and 2.4 g/day. CONCLUSION: These findings suggested that current evidence may support garlic as an adjunct to pharmacological management of metabolic diseases. PROSPERO REGISTRATION NUMBER: CRD42018108816.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of garlic intake on inflammatory mediators: a systematic review and meta-analysis of randomised controlled trials",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3479",
@@ -36293,6 +37204,36 @@
    ],
    "scientific": [
     "Thymus serpyllum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5098",
+   "key": "hitl2021garlicburnssr",
+   "type": "article",
+   "title": "Garlic burn injuries- a systematic review of reported cases",
+   "authors": "Hitl, M., Kladar, N., Gavarić, N., Srđenović Čonić, B. and Božin, B.",
+   "journal": "The American Journal of Emergency Medicine",
+   "year": "2021",
+   "doi": "10.1016/j.ajem.2021.01.039",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ajem.2021.01.039",
+   "link_type": "doi",
+   "citation": "Hitl, M., Kladar, N., Gavarić, N., Srđenović Čonić, B. and Božin, B (2021) 'Garlic burn injuries- a systematic review of reported cases', The American Journal of Emergency Medicine, 44, pp. 5--10. doi:10.1016/j.ajem.2021.01.039",
+   "abstract": "Medicinal plants have many beneficial effects on human health. Garlic (Allium sativum, Alliaceae) is one of the most famous herbal species, used for various diseases and conditions. Unfortunately, garlic is also associated with adverse effects, including cutaneous manifestations. In this review, burn injuries caused by application of raw garlic are reported. Searching through PubMed, Google Scholar and ResearchGate, a total of 32 articles with 39 patients were found. Demographics of patients, reasons for garlic use, details on garlic application, as well as description of burns and its treatment are thoroughly described and discussed. In most of the cases, garlic caused second-degree burns, although some circumstances can cause formation of necrotic tissue. Various body parts were affected, legs being most common. The chemistry of garlic is also presented, with focus on volatile organic sulfur compounds, which also seem to be responsible for burns formation. Treatment of garlic burns was mainly symptomatic, and various types of drugs were used. Although not commonly expected, garlic should be taken into consideration as causative agents of burns by treating doctors, and patients should be advised against application of fresh garlic onto skin and mucosa.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Garlic burn injuries- a systematic review of reported cases",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
    ],
    "actions": [],
    "conditions": []
@@ -40192,6 +41133,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5099",
+   "key": "amirsalari2021garlicendometriosis",
+   "type": "article",
+   "title": "The Effect of Garlic Tablets on the Endometriosis-Related Pains: A Randomized Placebo-Controlled Clinical Trial",
+   "authors": "Amirsalari, S., Behboodi Moghadam, Z., Taghizadeh, Z., Jafar Abadi, M.N., Sabaghzadeh Irani, P., Goodarzi, S. and Ranjbar, H.",
+   "journal": "Evidence-based Complementary and Alternative Medicine",
+   "year": "2021",
+   "doi": "10.1155/2021/5547058",
+   "url": "",
+   "link": "https://doi.org/10.1155/2021/5547058",
+   "link_type": "doi",
+   "citation": "Amirsalari, S., Behboodi Moghadam, Z., Taghizadeh, Z., Jafar Abadi, M.N., Sabaghzadeh Irani, P., Goodarzi, S. and Ranjbar, H (2021) 'The Effect of Garlic Tablets on the Endometriosis-Related Pains: A Randomized Placebo-Controlled Clinical Trial', Evidence-based Complementary and Alternative Medicine, 2021, pp. 5547058. doi:10.1155/2021/5547058",
+   "abstract": "Endometriosis is a common chronic inflammatory disease. Garlic contains components that have antiproliferative, anti-inflammatory, and antioxidative effects. The current study aimed to evaluate the effectiveness of garlic on endometriosis symptoms. This was a randomized placebo-controlled triple-blind clinical trial. A convenience sample of 60 women was randomly allocated into two groups. The intervention group received usual care supplemented with 400 mg garlic tablets, and the placebo group received identical placebo tablets. A four-part Visual Analogue Scale (VAS) was used to measure the severity of pains. The pains were measured on four occasions (before the intervention and on one-, two-, and three-month follow-ups). Data were analyzed using the t-test, chi-square, repeated measures ANOVA, and ANCOVA by SPSS 16. The overall severity of pain reduced from 6.51 ± 0.86 to 1.83 ± 1.25 in the intervention group (p < 0.05). It increased from 6.41 ± 1.12 to 6.65 ± 1.37 in the control group (p = 0.02). The repeated measures ANOVA showed that there is a significant difference in the change of pain scores between intervention and control groups (p < 0.001, np2 = 0.572). Garlic extract can reduce pelvic and back pain, dysmenorrhea, and dyspareunia which are important symptoms of endometriosis.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The Effect of Garlic Tablets on the Endometriosis-Related Pains: A Randomized Placebo-Controlled Clinical Trial",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2540",
    "key": "devangan2021gymnema",
    "type": "article",
@@ -41413,6 +42384,39 @@
    "conditions": [
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-5116",
+   "key": "dong2020aloeemodinreview",
+   "type": "article",
+   "title": "Aloe-emodin: A review of its pharmacology, toxicity, and pharmacokinetics",
+   "authors": "Dong, X., Zeng, Y., Liu, Y., You, L., Yin, X., Fu, J. and Ni, J.",
+   "journal": "Phytotherapy Research",
+   "year": "2020",
+   "doi": "10.1002/ptr.6532",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6532",
+   "link_type": "doi",
+   "citation": "Dong, X., Zeng, Y., Liu, Y., You, L., Yin, X., Fu, J. and Ni, J (2020) 'Aloe-emodin: A review of its pharmacology, toxicity, and pharmacokinetics', Phytotherapy Research, 34(2), pp. 270--281. doi:10.1002/ptr.6532",
+   "abstract": "Aloe-emodin is a naturally anthraquinone derivative and an active ingredient of Chinese herbs, such as Cassia occidentalis, Rheum palmatum L., Aloe vera, and Polygonum multiflorum Thunb. Emerging evidence suggests that aloe-emodin exhibits many pharmacological effects, including anticancer, antivirus, anti-inflammatory, antibacterial, antiparasitic, neuroprotective, and hepatoprotective activities. These pharmacological properties lay the foundation for the treatment of various diseases, including influenza virus, inflammation, sepsis, Alzheimer's disease, glaucoma, malaria, liver fibrosis, psoriasis, Type 2 diabetes, growth disorders, and several types of cancers. However, an increasing number of published studies have reported adverse effects of aloe-emodin. The primary toxicity among these reports is hepatotoxicity and nephrotoxicity, which are of wide concern worldwide. Pharmacokinetic studies have demonstrated that aloe-emodin has a poor intestinal absorption, short elimination half-life, and low bioavailability. This review aims to provide a comprehensive summary of the pharmacology, toxicity, and pharmacokinetics of aloe-emodin reported to date with an emphasis on its biological properties and mechanisms of action.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe-emodin: A review of its pharmacology, toxicity, and pharmacokinetics",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2866",
@@ -47448,6 +48452,39 @@
    ]
   },
   {
+   "ref_id": "REF-5104",
+   "key": "ahluwalia2020aloeibs2020",
+   "type": "article",
+   "title": "Randomized clinical trial: Effects of Aloe barbadensis Mill. extract on symptoms, fecal microbiota and fecal metabolite profiles in patients with irritable bowel syndrome",
+   "authors": "Ahluwalia, B., Magnusson, M.K., Böhn, L., Störsrud, S., Larsson, F., Savolainen, O., Ross, A., Simrén, M. and Öhman, L.",
+   "journal": "Neurogastroenterology and Motility",
+   "year": "2020",
+   "doi": "10.1111/nmo.13860",
+   "url": "",
+   "link": "https://doi.org/10.1111/nmo.13860",
+   "link_type": "doi",
+   "citation": "Ahluwalia, B., Magnusson, M.K., Böhn, L., Störsrud, S., Larsson, F., Savolainen, O., Ross, A., Simrén, M. and Öhman, L (2020) 'Randomized clinical trial: Effects of Aloe barbadensis Mill. extract on symptoms, fecal microbiota and fecal metabolite profiles in patients with irritable bowel syndrome', Neurogastroenterology and Motility, 32(8), pp. e13860. doi:10.1111/nmo.13860",
+   "abstract": "BACKGROUND: Aloe barbadensis Mill. (Aloe) with potential prebiotic effects has been suggested to reduce symptoms in patients with irritable bowel syndrome (IBS). We therefore aimed to determine the effects of an Aloe extract on symptoms of IBS, and evaluate whether effects may be mediated by fecal microbiota and metabolites in a randomized, double-blind, controlled trial. METHODS: Patient with IBS diagnosed according to the ROME III criteria (all subtypes), received Aloe or control treatment (inulin) for 4 weeks. IBS Symptom Severity Score (IBS-SSS) was assessed, and fecal samples collected before and at end of treatment. Fecal microbiota composition and metabolomic profile were determined. KEY RESULTS: In total, 160 IBS patients completed the study. The overall severity of IBS symptoms was reduced in both Aloe and control treatment groups (P < .001, both groups, comparing baseline vs end of treatment), without difference between groups (P = .62). The frequency of responders (IBS-SSS reduction ≥ 50) did not differ between Aloe treatment (n = 33, 39%) and control (n = 34, 45%) (P = .49). However, fecal microbiota and metabolite profiles differed between Aloe, but not control treatment responders and non-responders both before and after treatment. CONCLUSION: In a mixed group of IBS patients, Aloe was not superior to control treatment, although it showed potential to reduce IBS symptom severity in subsets of IBS patients which could be predicted by fecal microbiota and metabolite profiles. ClinicalTrials.gov no: NCT01400048.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Randomized clinical trial: Effects of Aloe barbadensis Mill. extract on symptoms, fecal microbiota and fecal metabolite profiles in patients with irritable bowel syndrome",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2864",
    "key": "kriplani2020helenalin",
    "type": "article",
@@ -48490,6 +49527,39 @@
    "actions": [
     "Anticancer (preclinical)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5113",
+   "key": "hoogenboom2020aloejuiceliver",
+   "type": "article",
+   "title": "The Effect of Aloe Vera Juice on Liver Enzymes and Hepatic Structure in a Healthy Population",
+   "authors": "Hoogenboom, T.C.H., Patel, N., Cook, N.A., Williams, R., Taylor-Robinson, S.D. and Lim, A.K.P.",
+   "journal": "Integrative Medicine",
+   "year": "2020",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33132775/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/33132775/",
+   "link_type": "url",
+   "citation": "Hoogenboom, T.C.H., Patel, N., Cook, N.A., Williams, R., Taylor-Robinson, S.D. and Lim, A.K.P (2020) 'The Effect of Aloe Vera Juice on Liver Enzymes and Hepatic Structure in a Healthy Population', Integrative Medicine, 19(3), pp. 30--34. Available at: https://pubmed.ncbi.nlm.nih.gov/33132775/",
+   "abstract": "BACKGROUND: There have been isolated reports of Aloe vera hepatotoxicity, usually manifested by transient liver function test abnormalities. While the European Food Safety Authority has recommended that whole leaf products containing the rind of the Aloe vera plant should not be used for human oral consumption, those Aloe vera gels made of the treated plant pulp alone are considered safe for daily consumption, provided recommended quantities are not exceeded. We aimed to assess hepatic function in healthy volunteers consuming the purified plant pulp Aloe vera gel over a 60 day period. METHODS: 35 healthy volunteers consumed the maximum recommended daily dose of 2 oz (57 mL) of Aloe vera gel twice daily for a total of 60 days. The participants attended an initial baseline visit where biochemical measurements of hepatic synthetic function were obtained, and each volunteer underwent hepatic ultrasound with elastography, superb microvascular imaging and image quantification. Further visits were undertaken at days 30 and 60 to undergo the same biochemical and imaging measurements of liver function to monitor if there were any changes in the parameters measured. RESULTS: Seven volunteers failed to complete the study, citing unspecified gastrointestinal upset and/or an inability to tolerate the taste of the Aloe vera gel. None of these individuals had disturbance of biochemical or imaging parameters of hepatic function. Of the remaining 27 healthy volunteers, none had a change in either biochemical indices of liver function, or of ultrasound markers of hepatic blood flow or liver tissue elasticity after 60 days of Aloe vera gel consumption. However, there was a non-significant reduction in serum homocysteine levels as the only detectable change in the cohort. CONCLUSIONS: Despite reports of potential hepatotoxicity with some Aloe vera products, in this healthy cohort, extended consumption of purified plant-pulp Aloe vera gel did not have any detectable effects on hepatic function, blood flow or tissue elasticity.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The Effect of Aloe Vera Juice on Liver Enzymes and Hepatic Structure in a Healthy Population",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -55347,6 +56417,38 @@
    ]
   },
   {
+   "ref_id": "REF-5083",
+   "key": "tasickostov2019alchemillagelskinbarrier",
+   "type": "article",
+   "title": "Towards a modern approach to traditional use: in vitro and in vivo evaluation of Alchemilla vulgaris L. gel wound healing potential",
+   "authors": "Tasić-Kostov, M., Arsić, I., Pavlović, D., Stojanović, S., Najman, S., Naumović, S. and Tadić, V.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2019",
+   "doi": "10.1016/j.jep.2019.03.016",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2019.03.016",
+   "link_type": "doi",
+   "citation": "Tasić-Kostov, M., Arsić, I., Pavlović, D., Stojanović, S., Najman, S., Naumović, S. and Tadić, V (2019) 'Towards a modern approach to traditional use: in vitro and in vivo evaluation of Alchemilla vulgaris L. gel wound healing potential', Journal of Ethnopharmacology, 238, pp. 111789. doi:10.1016/j.jep.2019.03.016",
+   "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Alchemilla vulgaris is an important remedy in European folk medicine, known for its astringent and anti-inflammatory properties; it is traditionally used to heal gynecological and gastrointestinal diseases. Despite its folkloric use in wound healing, there is a lack of scientific data to support this therapeutic application. AIM OF THE STUDY: To analyze the wound healing potential of different solvent A. vulgaris extracts per se and after incorporation into hydrogels as topical vehicles, using two complementary methods - in vitro wound healing assay with L929 fibroblasts and in vivo assessment of skin barrier repair potential. Besides scientific justification of the traditional usage, we aimed to ephasize the importance of a proper vehicle for herbal extracts. The wound healing activity has been connected to the chemical profile of the investigated extracts, their antioxidative properties, but also to pH of the investigated gels and their mechanical characteristics. MATERIALS AND METHODS: Antioxidant activity of investigated extracts was estimated using both 2,2-diphenyl-1-picrylhydrazyl and β-carotene/linoleic acid models. Chemical profile was achieved applying spectrophotometric and HPLC methods. In vitro scratch assay with L929 fibroblasts, and in vivo study of skin barrier repair potential of hydrogels with A. vulgaris extracts on human skin employing biophysical measurements, were performed in order to confirm the wound healing potential of A. vulgaris. Texture analysis of the gels was performed alongside the pH measurements. RESULTS: All tested extracts and gels accelerated the wound healing process while the effect of ethanolic extract on migration of fibroblasts was the most pronounced. The highest extent of wound closure was also observed for the ethanolic extract. The most favorable effect on in vitro wound healing was observed for gel with propyleneglycolic extract. Results of in vivo study were in line with in vitro findings. Healing potential may be attributed to phenolic compounds found in A. vulgaris extracts, low pH of the gels, and the satisfying antioxidant activity of the extracts. Parameters obtained by textural analysis indicated satisfying mechanical properties of the gels, relevant to topical application. CONCLUSION: Our study offers pharmacological evidence on the folkloric use of A. vulgaris in wound treatment, particularly after incorporation into hydrogel, and underlines an importance of a proper vehicle for incorporation of herbal extracts intended for topical treatment.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Towards a modern approach to traditional use: in vitro and in vivo evaluation of Alchemilla vulgaris L. gel wound healing potential",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0969",
    "key": "drava2019plantago",
    "type": "article",
@@ -59800,6 +60902,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5117",
+   "key": "younes2018efsahydroxyanthracenes",
+   "type": "article",
+   "title": "Safety of hydroxyanthracene derivatives for use in food",
+   "authors": "Younes, M., Aggett, P., Aguilar, F., Crebelli, R., Filipič, M., Frutos, M.J., Galtier, P., Gott, D., Gundert‐Remy, U., Kuhnle, G.G., Lambré, C., Leblanc, J., Lillegaard, I.T., Moldeus, P., Mortensen, A., Oskarsson, A., Stankovic, I., Waalkens‐Berendsen, I., Woutersen, R.A., Andrade, R.J., Fortes, C., Mosesso, P., Restani, P., Pizzo, F., Smeraldi, C., Papaioannou, A. and Wright, M.",
+   "journal": "EFSA Journal",
+   "year": "2018",
+   "doi": "10.2903/j.efsa.2018.5090",
+   "url": "",
+   "link": "https://doi.org/10.2903/j.efsa.2018.5090",
+   "link_type": "doi",
+   "citation": "Younes, M., Aggett, P., Aguilar, F., Crebelli, R., Filipič, M., Frutos, M.J., Galtier, P., Gott, D., Gundert‐Remy, U., Kuhnle, G.G., Lambré, C., Leblanc, J., Lillegaard, I.T., Moldeus, P., Mortensen, A., Oskarsson, A., Stankovic, I., Waalkens‐Berendsen, I., Woutersen, R.A., Andrade, R.J., Fortes, C., Mosesso, P., Restani, P., Pizzo, F., Smeraldi, C., Papaioannou, A. and Wright, M (2018) 'Safety of hydroxyanthracene derivatives for use in food', EFSA Journal, 16(1). doi:10.2903/j.efsa.2018.5090",
+   "abstract": "The Panel on Food Additives and Nutrient Sources added to Food (ANS) was asked to deliver a scientific opinion on the safety of hydroxyanthracene derivatives and to provide advice on a daily intake that does not give rise to concerns about harmful effects to health. Hydroxyanthracene derivatives are a class of chemical substances naturally occurring in different botanical species and used in food to improve bowel function. The ANS Panel reviewed the available scientific data on a possible relationship between hydroxyanthracene derivatives exposure and genotoxic and carcinogenic effects. On the basis of the data currently available, the Panel noted that emodin, aloe-emodin and the structurally related substance danthron have shown evidence of in vitro genotoxicity. Aloe extracts have also been shown to be genotoxic in vitro possibly due to the presence of hydroxyanthracene derivatives in the extract. Furthermore, aloe-emodin was shown to be genotoxic in vivo and the whole-leaf aloe extract and the structural analogue danthron were shown to be carcinogenic. Epidemiological data suggested an increased risk for colorectal cancer associated with the general use of laxatives, several of which contain hydroxyanthracene derivatives. Considering the possible presence of aloe-emodin and emodin in extracts, the Panel concluded that hydroxyanthracene derivatives should be considered as genotoxic and carcinogenic unless there are specific data to the contrary, such as for rhein, and that there is a safety concern for extracts containing hydroxyanthracene derivatives although uncertainty persists. The Panel was unable to provide advice on a daily intake of hydroxyanthracene derivatives that does not give rise to concerns about harmful effects to health.",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Safety of hydroxyanthracene derivatives for use in food",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1258",
    "key": "noletodias2018salix",
    "type": "article",
@@ -61009,6 +62144,39 @@
     "Anxiety",
     "Low mood / depression"
    ]
+  },
+  {
+   "ref_id": "REF-5112",
+   "key": "parlati2017aloeliverinjury",
+   "type": "article",
+   "title": "Aloe vera-induced acute liver injury: A case report and literature review",
+   "authors": "Parlati, L., Voican, C.S., Perlemuter, K. and Perlemuter, G.",
+   "journal": "Clinics and Research in Hepatology and Gastroenterology",
+   "year": "2017",
+   "doi": "10.1016/j.clinre.2016.10.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clinre.2016.10.002",
+   "link_type": "doi",
+   "citation": "Parlati, L., Voican, C.S., Perlemuter, K. and Perlemuter, G (2017) 'Aloe vera-induced acute liver injury: A case report and literature review', Clinics and Research in Hepatology and Gastroenterology, 41(4), pp. e39--e42. doi:10.1016/j.clinre.2016.10.002",
+   "abstract": "Recent data suggest that herbal and dietary supplements are the second most common cause of liver injury. We herein report a case of acute liver injury in a 68-year old female caused by ingestion of Aloe vera. Upon discontinuation of the oral Aloe vera, liver function tests (LFT) returned to normal levels. Thus, it is crucial to consider the use of herbal products as causative agents of acute liver injury.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Aloe vera-induced acute liver injury: A case report and literature review",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1969",
@@ -63559,6 +64727,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5107",
+   "key": "ahmadloo2017aloeradiodermatitisnull",
+   "type": "article",
+   "title": "Lack of Prophylactic Effects of Aloe Vera Gel on Radiation Induced Dermatitis in Breast Cancer Patients",
+   "authors": "Ahmadloo, N., Kadkhodaei, B., Omidvari, S.h., Mosalaei, A., Ansari, M., Nasrollahi, H., Hamedi, S.H. and Mohammadianpanah, M.",
+   "journal": "Asian Pacific Journal of Cancer Prevention",
+   "year": "2017",
+   "doi": "10.22034/APJCP.2017.18.4.1139",
+   "url": "",
+   "link": "https://doi.org/10.22034/APJCP.2017.18.4.1139",
+   "link_type": "doi",
+   "citation": "Ahmadloo, N., Kadkhodaei, B., Omidvari, S.h., Mosalaei, A., Ansari, M., Nasrollahi, H., Hamedi, S.H. and Mohammadianpanah, M (2017) 'Lack of Prophylactic Effects of Aloe Vera Gel on Radiation Induced Dermatitis in Breast Cancer Patients', Asian Pacific Journal of Cancer Prevention, 18(4), pp. 1139--1143. doi:10.22034/APJCP.2017.18.4.1139",
+   "abstract": "Purpose: Radiotherapy induced dermatitis is a common and sometimes serious side effect. We conducted a randomized study to understand whether the adjunctive use of aloe vera gel might reduce the prevalence and/or severity of radiotherapy induced dermatitis. Methods: One hundred patients with newly diagnosed breast cancer were randomized to receive aloe vera gel or nothing during adjuvant radiotherapy consisting of conventional external beam radiation using 6 MV mega voltage linear accelerator photons. The radiation portals were composed of breast fields in all patients and supraclavicular and posterior axillary fields in node positive cases. The total dose was 50 Gy with a daily fraction of 2 Gy, five fractions per week. Results: Dermatitis was first found among patients of both groups after week 2. In the aloe vera and control groups, 2/8 patients and 5/12 patients had dermatitis grade 1 after weeks 2 (P value = 0.240) and 3 (P value = 0.317). After the 4th week, the numbers were 18 and, 23 fordermatitis grade 1 and only 1 for grade 3 dermatitis (P value = 0.328). After the 5th week, 31, 12 and 2 patients in the aloe vera group and 36, 6 and 5 of the controls had grades 1, 2 and 3 dermatitis, respectively (P value = 0.488). Conclusion: Aloe vera exerted no positive effect on prevalence orseverity of radiation dermatitis in this study.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Lack of Prophylactic Effects of Aloe Vera Gel on Radiation Induced Dermatitis in Breast Cancer Patients",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1679",
    "key": "caputo2017laurus",
    "type": "article",
@@ -64739,6 +65940,39 @@
     "Prostate support",
     "Urinary support"
    ]
+  },
+  {
+   "ref_id": "REF-5114",
+   "key": "hong2017aloebezoar",
+   "type": "article",
+   "title": "Small Bowel Obstruction Caused by Aloe vera Bezoars: A Case Report",
+   "authors": "Hong, I.T., Cha, J.M., Ki, H.J., Kwak, M.S., Yoon, J.Y., Shin, H.P., Jeoun, J.W. and Choi, S.I.",
+   "journal": "The Korean Journal of Gastroenterology = Taehan Sohwagi Hakhoe Chi",
+   "year": "2017",
+   "doi": "10.4166/kjg.2017.69.5.312",
+   "url": "",
+   "link": "https://doi.org/10.4166/kjg.2017.69.5.312",
+   "link_type": "doi",
+   "citation": "Hong, I.T., Cha, J.M., Ki, H.J., Kwak, M.S., Yoon, J.Y., Shin, H.P., Jeoun, J.W. and Choi, S.I (2017) 'Small Bowel Obstruction Caused by Aloe vera Bezoars: A Case Report', The Korean Journal of Gastroenterology = Taehan Sohwagi Hakhoe Chi, 69(5), pp. 312--315. doi:10.4166/kjg.2017.69.5.312",
+   "abstract": "Small bowel obstruction is a clinical condition commonly caused by postoperative adhesion, volvulus, intussusceptions, and hernia. Small bowel obstruction due to bezoars is clinically uncommon, accounting for approximately 2-4% of all obstructions. Computed tomography (CT) is a useful method in diagnosing the cause of small bowel obstruction. However, small bowel obstruction caused by bezoars may not be detected by an abdominal CT examination. Herein, we report a rare case of small bowel obstruction by Aloe vera bezoars, which were undetected by an abdominal CT. Phytobezoars should be included in the differential diagnosis of small bowel obstruction in patients with predisposing factors, such as excessive consumption of high-fiber food and diabetes.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Small Bowel Obstruction Caused by Aloe vera Bezoars: A Case Report",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1230",
@@ -69417,6 +70651,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5105",
+   "key": "dick2016aloeglucosema2016",
+   "type": "article",
+   "title": "Reduction of Fasting Blood Glucose and Hemoglobin A1c Using Oral Aloe Vera: A Meta-Analysis",
+   "authors": "Dick, W.R., Fletcher, E.A. and Shah, S.A.",
+   "journal": "Journal of Alternative and Complementary Medicine",
+   "year": "2016",
+   "doi": "10.1089/acm.2015.0122",
+   "url": "",
+   "link": "https://doi.org/10.1089/acm.2015.0122",
+   "link_type": "doi",
+   "citation": "Dick, W.R., Fletcher, E.A. and Shah, S.A (2016) 'Reduction of Fasting Blood Glucose and Hemoglobin A1c Using Oral Aloe Vera: A Meta-Analysis', Journal of Alternative and Complementary Medicine, 22(6), pp. 450--7. doi:10.1089/acm.2015.0122",
+   "abstract": "PURPOSE: Diabetes mellitus is a global epidemic and one of the leading causes of morbidity and mortality. Additional medications that are novel, affordable, and efficacious are needed to treat this rampant disease. This meta-analysis was performed to ascertain the effectiveness of oral aloe vera consumption on the reduction of fasting blood glucose (FBG) and hemoglobin A1c (HbA1c). METHODS: PubMed, CINAHL, Natural Medicines Comprehensive Database, and Natural Standard databases were searched. Studies of aloe vera's effect on FBG, HbA1c, homeostasis model assessment-estimated insulin resistance (HOMA-IR), fasting serum insulin, fructosamine, and oral glucose tolerance test (OGTT) in prediabetic and diabetic populations were examined. After data extraction, the parameters of FBG and HbA1c had appropriate data for meta-analyses. Extracted data were verified and then analyzed by StatsDirect Statistical Software. Reductions of FBG and HbA1c were reported as the weighted mean differences from baseline, calculated by a random-effects model with 95% confidence intervals. Subgroup analyses to determine clinical and statistical heterogeneity were also performed. Publication bias was assessed by using the Egger bias statistic. RESULTS: Nine studies were included in the FBG parameter (n = 283); 5 of these studies included HbA1c data (n = 89). Aloe vera decreased FBG by 46.6 mg/dL (p < 0.0001) and HbA1c by 1.05% (p = 0.004). Significant reductions of both endpoints were maintained in all subgroup analyses. Additionally, the data suggest that patients with an FBG ≥200 mg/dL may see a greater benefit. A mean FBG reduction of 109.9 mg/dL was observed in this population (p ≤ 0.0001). The Egger statistic showed publication bias with FBG but not with HbA1c (p = 0.010 and p = 0.602, respectively). CONCLUSION: These results support the use of oral aloe vera for significantly reducing FBG (46.6 mg/dL) and HbA1c (1.05%). Further clinical studies that are more robust and better controlled are warranted to further explore these findings.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Reduction of Fasting Blood Glucose and Hemoglobin A1c Using Oral Aloe Vera: A Meta-Analysis",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
+  },
+  {
    "ref_id": "REF-2975",
    "key": "chou2016renal",
    "type": "article",
@@ -70000,6 +71269,66 @@
    "conditions": [
     "Liver support"
    ]
+  },
+  {
+   "ref_id": "REF-5125",
+   "key": "oskoueishirvan2016lippiateratogenicity",
+   "type": "article",
+   "title": "Teratogenic effect of Lippia citriodora leaves aqueous extract in mice",
+   "authors": "Oskouei Shirvan, Z., Etemad, L., Zafari, R., Moallem, S.A., Vahdati-Mashhadian, N. and Hosseinzadeh, H.",
+   "journal": "Avicenna Journal of Phytomedicine",
+   "year": "2016",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27222830/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/27222830/",
+   "link_type": "url",
+   "citation": "Oskouei Shirvan, Z., Etemad, L., Zafari, R., Moallem, S.A., Vahdati-Mashhadian, N. and Hosseinzadeh, H (2016) 'Teratogenic effect of Lippia citriodora leaves aqueous extract in mice', Avicenna Journal of Phytomedicine, 6(2), pp. 175--80. Available at: https://pubmed.ncbi.nlm.nih.gov/27222830/",
+   "abstract": "OBJECTIVE: Safety of Lippia citriodora, as a herbal remedy, in pregnancy has not yet been evaluated. This study aimed to identify the effect of L. citriodora aqueous extract on pregnancy outcome in mice. MATERIALS AND METHODS: Timed-pregnant mice received doses of 0.5 g/kg/day L. citriodora aqueous extract or the vehicle control during organogenesis, intraperitoneally. Maternal body weights were measured throughout the pregnancy. The litters were examined for external malformations and skeletal abnormalities. Fetuses were stained with Alizarin red S and Alcian blue. RESULTS: There were no significant differences in mean maternal weight gain during pregnancy between groups. Also, no significant differences were observed in mean number of implantation, live and resorbed fetuses between control and treated groups. The prevalence of all types of deformity was low and similar to control group (%1.11). CONCLUSION: The results of this study show that moderate consumption of L. citriodora as an infusion or tea appears to be safe to be used during pregnancy and does not have toxic effects on development of mouse embryo.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Teratogenic effect of Lippia citriodora leaves aqueous extract in mice",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5126",
+   "key": "etemad2016verbascosideteratogenicity",
+   "type": "article",
+   "title": "Teratogenic Effect of Verbascoside, Main Constituent of Lippia citriodora Leaves, in Mice",
+   "authors": "Etemad, L., Zafari, R., Moallem, S.A., Vahdati-Mashhadian, N., Skouei Shirvan, Z. and Hosseinzadeh, H.",
+   "journal": "Iranian Journal of Pharmaceutical Research",
+   "year": "2016",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27642323/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/27642323/",
+   "link_type": "url",
+   "citation": "Etemad, L., Zafari, R., Moallem, S.A., Vahdati-Mashhadian, N., Skouei Shirvan, Z. and Hosseinzadeh, H (2016) 'Teratogenic Effect of Verbascoside, Main Constituent of Lippia citriodora Leaves, in Mice', Iranian Journal of Pharmaceutical Research, 15(2), pp. 521--5. Available at: https://pubmed.ncbi.nlm.nih.gov/27642323/",
+   "abstract": "Verbascoside (acteoside), a phenyl propanoid glycoside, comprises 0.5 to 3.5 % dry weight of Lippia citriodora leaves. A wide range of biological activities are attributed to verbascoside including anti-inflammatory, antioxidant, anti-bacterial, anti-tumor, anti-fungal, photoprotective as well as chelating effects. The objective of this study is to evaluate the effect of verbascoside on pregnancy outcome in mice. Timed-pregnant mice received doses of 1g/kg/day verbascoside or the vehicle control during organogenesis, intraperitoneally. Maternal body weights were measured throughout pregnancy. The litters were examined for external malformations and skeletal abnormalities. Then they were stained with Alizarin red S and Alcian blue. Maternal exposure to verbascoside throughout pregnancy did not influence the mean of maternal weight gain. Statistically significant difference was not found in mean number of implantation sites, live and resorbed fetuses between control and experiment groups. Our data demonstrate that the main component of L. citriodora, verbascoside using during organogenesis possesses no risk to fetuses. However, more research projects are needed to confirm these findings and determine the exact effects of verbascoside on human embryo development.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Teratogenic Effect of Verbascoside, Main Constituent of Lippia citriodora Leaves, in Mice",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1116",
@@ -72186,6 +73515,39 @@
    ],
    "scientific": [
     "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5120",
+   "key": "panahi2015aloegerd",
+   "type": "article",
+   "title": "Efficacy and safety of Aloe vera syrup for the treatment of gastroesophageal reflux disease: a pilot randomized positive-controlled trial",
+   "authors": "Panahi, Y., Khedmat, H., Valizadegan, G., Mohtashami, R. and Sahebkar, A.",
+   "journal": "Journal of Traditional Chinese Medicine = Chung I Tsa Chih Ying Wen Pan",
+   "year": "2015",
+   "doi": "10.1016/s0254-6272(15)30151-5",
+   "url": "",
+   "link": "https://doi.org/10.1016/s0254-6272(15)30151-5",
+   "link_type": "doi",
+   "citation": "Panahi, Y., Khedmat, H., Valizadegan, G., Mohtashami, R. and Sahebkar, A (2015) 'Efficacy and safety of Aloe vera syrup for the treatment of gastroesophageal reflux disease: a pilot randomized positive-controlled trial', Journal of Traditional Chinese Medicine = Chung I Tsa Chih Ying Wen Pan, 35(6), pp. 632--6. doi:10.1016/s0254-6272(15)30151-5",
+   "abstract": "OBJECTIVE: To investigate the use of Aloe vera (A. vera) for the treatment of gastroesophageal reflux disease (GERD) symptoms and compare its effects with those of omeprazole and ranitidine. METHODS: In this pilot, randomized controlled trial, 79 subjects were allocated to A. vera syrup (standardized to 5.0 mg polysaccharide per mL of syrup) at a dose of 10 mL/d, omeprazole capsule (20 g/d) or ranitidine tablet (150 mg in a fasted state in the morning and 150 mg 30 min before sleep at night) for a period of 4 weeks. The frequencies of eight main symptoms of GERD (heartburn, food regurgitation, flatulence, belching, dysphagia, nausea, vomiting and acid regurgitation) were assessed at weeks 2 and 4 of the trial. RESULTS: A. vera was safe and well tolerated and reduced the frequencies of all the assessed GERD symptoms, with no adverse events requiring withdrawal. CONCLUSION: A. vera may provide a safe and effective treatment for reducing the symptoms of GERD.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and safety of Aloe vera syrup for the treatment of gastroesophageal reflux disease: a pilot randomized positive-controlled trial",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
    ],
    "actions": [],
    "conditions": []
@@ -74961,10 +76323,10 @@
    "journal": "Przeglad Lekarski",
    "year": "2014",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=%5BIntoxication%20by%20powdered%20seeds%20of%20horse%20chestnut%20%28Aesculus%20hippocastanum%29%20used%20nasally%20as%20snuff%20-%20a%20case%20report%5D",
-   "link_type": "search",
-   "citation": "Zając, M., Wiśniewski, M. and Sein Anand, J (2014) '[Intoxication by powdered seeds of horse chestnut (Aesculus hippocastanum) used nasally as snuff - a case report]', Przeglad Lekarski, 71(9), pp. 502--3.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25632792/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/25632792/",
+   "link_type": "url",
+   "citation": "Zając, M., Wiśniewski, M. and Sein Anand, J (2014) '[Intoxication by powdered seeds of horse chestnut (Aesculus hippocastanum) used nasally as snuff - a case report]', Przeglad Lekarski, 71(9), pp. 502--3. Available at: https://pubmed.ncbi.nlm.nih.gov/25632792/",
    "abstract": "There are only few reports in the medical literature about side effects and toxicity of horse chestnut (Aesculus hippocastanum). We report a 15-year-old woman who was admitted to the hospital because of symptoms including: vomiting, dyspnea, burning in the nose and throat, and syncope, after intranasal snuff of powdered horse chestnut seeds. Laboratory tests showed no abnormalities. After 2 days of hospitalization the female was discharged home with subjective and objective improvement. Preparation and use of snuff is related to the tradition of the kashubian region. The powder formed from horse chestnuts, which is white in color, effects after about 5-10 minutes, and causes severe irritation of the nasal mucous membranes, which results in sneezing. Responsible for side effects is mainly aescin. The most frequently observed aescin intoxication symptoms were gastrointestinal irritation and allergic reactions. Intoxication by powdered seeds of horse chestnut used nasally as snuff may lead, as it was in our case, to sudden and self-limiting clinical symptoms. Supportive therapy and a short hospital observation seems to be sufficient in such cases.",
    "tier": "clinical",
    "corpus": [
@@ -79937,6 +81299,38 @@
    "actions": [],
    "conditions": [
     "Menopause"
+   ]
+  },
+  {
+   "ref_id": "REF-5089",
+   "key": "ried2013garliclipidsma2013",
+   "type": "article",
+   "title": "Effect of garlic on serum lipids: an updated meta-analysis",
+   "authors": "Ried, K., Toben, C. and Fakler, P.",
+   "journal": "Nutrition Reviews",
+   "year": "2013",
+   "doi": "10.1111/nure.12012",
+   "url": "",
+   "link": "https://doi.org/10.1111/nure.12012",
+   "link_type": "doi",
+   "citation": "Ried, K., Toben, C. and Fakler, P (2013) 'Effect of garlic on serum lipids: an updated meta-analysis', Nutrition Reviews, 71(5), pp. 282--99. doi:10.1111/nure.12012",
+   "abstract": "Hypercholesterolemia is associated with an increased risk of heart disease. The effect of garlic on blood lipids has been studied in numerous trials and summarized in meta-analyses, with conflicting results. This meta-analysis, the most comprehensive to date, includes 39 primary trials of the effect of garlic preparations on total cholesterol, low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, and triglycerides. The findings suggest garlic to be effective in reducing total serum cholesterol by 17 ± 6 mg/dL and low-density lipoprotein cholesterol by 9 ± 6 mg/dL in individuals with elevated total cholesterol levels (>200 mg/dL), provided garlic is used for longer than 2 months. An 8% reduction in total serum cholesterol is of clinical relevance and is associated with a 38% reduction in risk of coronary events at 50 years of age. High-density lipoprotein cholesterol levels improved only slightly, and triglycerides were not influenced significantly. Garlic preparations were highly tolerable in all trials and were associated with minimal side effects. They might be considered as an alternative option with a higher safety profile than conventional cholesterol-lowering medications in patients with slightly elevated cholesterol.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of garlic on serum lipids: an updated meta-analysis",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": [
+    "High cholesterol"
    ]
   },
   {
@@ -86683,6 +88077,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5127",
+   "key": "funes2011lemonverbenaexerciseoxidative",
+   "type": "article",
+   "title": "Effect of lemon verbena supplementation on muscular damage markers, proinflammatory cytokines release and neutrophils' oxidative stress in chronic exercise",
+   "authors": "Funes, L., Carrera-Quintanar, L., Cerdán-Calero, M., Ferrer, M.D., Drobnic, F., Pons, A., Roche, E. and Micol, V.",
+   "journal": "European Journal of Applied Physiology",
+   "year": "2011",
+   "doi": "10.1007/s00421-010-1684-3",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00421-010-1684-3",
+   "link_type": "doi",
+   "citation": "Funes, L., Carrera-Quintanar, L., Cerdán-Calero, M., Ferrer, M.D., Drobnic, F., Pons, A., Roche, E. and Micol, V (2011) 'Effect of lemon verbena supplementation on muscular damage markers, proinflammatory cytokines release and neutrophils' oxidative stress in chronic exercise', European Journal of Applied Physiology, 111(4), pp. 695--705. doi:10.1007/s00421-010-1684-3",
+   "abstract": "Intense exercise is directly related to muscular damage and oxidative stress due to excessive reactive oxygen species (ROS) in both, plasma and white blood cells. Nevertheless, exercise-derived ROS are essential to regulate cellular adaptation to exercise. Studies on antioxidant supplements have provided controversial results. The purpose of this study was to determine the effect of moderate antioxidant supplementation (lemon verbena extract) in healthy male volunteers that followed a 90-min running eccentric exercise protocol for 21 days. Antioxidant enzymes activities and oxidative stress markers were measured in neutrophils. Besides, inflammatory cytokines and muscular damage were determined in whole blood and serum samples, respectively. Intense running exercise for 21 days induced antioxidant response in neutrophils of trained male through the increase of the antioxidant enzymes catalase, glutathione peroxidase and glutathione reductase. Supplementation with moderate levels of an antioxidant lemon verbena extract did not block this cellular adaptive response and also reduced exercise-induced oxidative damage of proteins and lipids in neutrophils and decreased myeloperoxidase activity. Moreover, lemon verbena supplementation maintained or decreased the level of serum transaminases activity indicating a protection of muscular tissue. Exercise induced a decrease of interleukin-6 and interleukin-1β levels after 21 days measured in basal conditions, which was not inhibited by antioxidant supplementation. Therefore, moderate antioxidant supplementation with lemon verbena extract protects neutrophils against oxidative damage, decreases the signs of muscular damage in chronic running exercise without blocking the cellular adaptation to exercise.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of lemon verbena supplementation on muscular damage markers, proinflammatory cytokines release and neutrophils' oxidative stress in chronic exercise",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2738",
    "key": "vengerovsky2011filipendula",
    "type": "article",
@@ -90561,6 +91987,36 @@
     "Back pain",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-5097",
+   "key": "simons2009garlicbptrialquality",
+   "type": "article",
+   "title": "A systematic review on the influence of trial quality on the effect of garlic on blood pressure",
+   "authors": "Simons, S., Wollersheim, H. and Thien, T.",
+   "journal": "The Netherlands Journal of Medicine",
+   "year": "2009",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19749390/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/19749390/",
+   "link_type": "url",
+   "citation": "Simons, S., Wollersheim, H. and Thien, T (2009) 'A systematic review on the influence of trial quality on the effect of garlic on blood pressure', The Netherlands Journal of Medicine, 67(6), pp. 212--9. Available at: https://pubmed.ncbi.nlm.nih.gov/19749390/",
+   "abstract": "BACKGROUND: Garlic is a widely used herbal product for hypertension. Previous meta-analyses on the effect of garlic on blood pressure (BP) have been contradictory however. We hypothesised that methodological deficiencies may have contributed to this disagreement. We therefore evaluated whether trials reporting on the effect of garlic on BP had sufficient methodological qualities and a proper description of BP determination. METHODS: MEDLINE , EMBASE, AMED, the COCHRANE library, IBIDS and CINA HL were systematically searched for trials reporting on the effect of garlic on BP. Both the methodological quality and the quality of blood pressure measurement were appraised using predefined quality scores. RESULTS: 32 Studies were identified. Of these studies, 13 were included previously by other meta-analyses. The methodological quality of the studies was poor. Only four trials had adequate allocation concealment, no single trial reported an intention-to-treat analysis and blinding of the evaluators was done in three trials only. Moreover, half of the studies did not report any data on BP measurement. No trials reported on the arm level. Body position was described most often. All trials fulfilling a predefined cutoff point were conducted in normotensive subjects. CONCLUSION: The effect of garlic on blood pressure cannot be ascertained. Previous meta-analyses have been based on trials with inadequate study designs, methodological deficiencies and with too little information about blood pressure measurement. In our view, use of garlic cannot be recommended as antihypertensive advice for hypertensive patients in daily practice.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A systematic review on the influence of trial quality on the effect of garlic on blood pressure",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2831",
@@ -96915,6 +98371,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5109",
+   "key": "maenthaisong2007aloeburnssr2007",
+   "type": "article",
+   "title": "The efficacy of aloe vera used for burn wound healing: a systematic review",
+   "authors": "Maenthaisong, R., Chaiyakunapruk, N., Niruntraporn, S. and Kongkaew, C.",
+   "journal": "Burns",
+   "year": "2007",
+   "doi": "10.1016/j.burns.2006.10.384",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.burns.2006.10.384",
+   "link_type": "doi",
+   "citation": "Maenthaisong, R., Chaiyakunapruk, N., Niruntraporn, S. and Kongkaew, C (2007) 'The efficacy of aloe vera used for burn wound healing: a systematic review', Burns, 33(6), pp. 713--8. doi:10.1016/j.burns.2006.10.384",
+   "abstract": "Aloe vera has been traditionally used for burn healing but clinical evidence remains unclear. We conducted a systematic review to determine the efficacy of topical aloe vera for the treatment of burn wounds. We electronically searched relevant studies in MEDLINE, CINAHL, Cochrane Library, HealthSTAR, DARE, South-East Asia Database, Chinese Databases, and several Thai local Databases (1918-June 2004). Only controlled clinical trials for burn healing were included. There were no restrictions on any language of publication. Two reviewers independently extracted data on study characteristics, patient characteristics, intervention, and outcome measure. Four studies with a total of 371 patients were included in this review. Based on a meta-analysis using duration of wound healing as an outcome measure, the summary weighted mean difference in healing time of the aloe vera group was 8.79 days shorter than those in the control group (P=0.006). Due to the differences of products and outcome measures, there is paucity to draw a specific conclusion regarding the effect of aloe vera for burn wound healing. However, cumulative evidence tends to support that aloe vera might be an effective interventions used in burn wound healing for first to second degree burns. Further, well-designed trials with sufficient details of the contents of aloe vera products should be carried out to determine the effectiveness of aloe vera.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The efficacy of aloe vera used for burn wound healing: a systematic review",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Wounds"
+   ]
+  },
+  {
    "ref_id": "REF-5019",
    "key": "hellum2007tradeherbscypinduction",
    "type": "article",
@@ -98553,6 +100044,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5103",
+   "key": "davis2006aloeibs2006",
+   "type": "article",
+   "title": "Randomised double-blind placebo-controlled trial of aloe vera for irritable bowel syndrome",
+   "authors": "Davis, K., Philpott, S., Kumar, D. and Mendall, M.",
+   "journal": "International Journal of Clinical Practice",
+   "year": "2006",
+   "doi": "10.1111/j.1742-1241.2006.00980.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1742-1241.2006.00980.x",
+   "link_type": "doi",
+   "citation": "Davis, K., Philpott, S., Kumar, D. and Mendall, M (2006) 'Randomised double-blind placebo-controlled trial of aloe vera for irritable bowel syndrome', International Journal of Clinical Practice, 60(9), pp. 1080--6. doi:10.1111/j.1742-1241.2006.00980.x",
+   "abstract": "Aloe vera (AV) is suggested to be beneficial in treating irritable bowel syndrome (IBS) symptoms, but no scientific trials exist to confirm this. We aim to assess the efficacy of AV on IBS in refractory secondary care patients. Patients with IBS were randomised to receive AV or matching placebo for a month. Symptoms were assessed at baseline, 1 and 3 months. Fifty-eight patients randomised, 49 completed the protocol to 1 month and 41 to 3 months. Eleven of thirty-one (35%) AV patients, and 6 of 27 (22%) placebo patients responded at 1 month (p = 0.763). Diarrhoea predominant patients showed a trend towards a response to treatment at 1 month (10/23 V 2/14, p = 0.07). There was no evidence that AV benefits patients with IBS. However, we could not rule out the possibility that improvement occurred in patients with diarrhoea or alternating IBS whilst taking AV. Further investigations are warranted in patients with diarrhoea predominant IBS, in a less complex group of patients.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Randomised double-blind placebo-controlled trial of aloe vera for irritable bowel syndrome",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-5064",
    "key": "dugoua2006cohoshpregnancylactation",
    "type": "article",
@@ -98561,10 +100085,10 @@
    "journal": "The Canadian Journal of Clinical Pharmacology = Journal Canadien de Pharmacologie Clinique",
    "year": "2006",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Safety%20and%20efficacy%20of%20black%20cohosh%20%28Cimicifuga%20racemosa%29%20during%20pregnancy%20and%20lactation",
-   "link_type": "search",
-   "citation": "Dugoua, J.J., Seely, D., Perri, D., Koren, G. and Mills, E (2006) 'Safety and efficacy of black cohosh (Cimicifuga racemosa) during pregnancy and lactation', The Canadian Journal of Clinical Pharmacology = Journal Canadien de Pharmacologie Clinique, 13(3), pp. e257--61.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17085773/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/17085773/",
+   "link_type": "url",
+   "citation": "Dugoua, J.J., Seely, D., Perri, D., Koren, G. and Mills, E (2006) 'Safety and efficacy of black cohosh (Cimicifuga racemosa) during pregnancy and lactation', The Canadian Journal of Clinical Pharmacology = Journal Canadien de Pharmacologie Clinique, 13(3), pp. e257--61. Available at: https://pubmed.ncbi.nlm.nih.gov/17085773/",
    "abstract": "BACKGROUND: There is a lack of basic knowledge on the part of both clinicians and patients as to the indications for use and safety of herbal medicines in pregnancy and lactation. This is one article in a series that systematically reviews the evidence for commonly used herbs during pregnancy and lactation. OBJECTIVES: To systematically review the literature for evidence on the use, safety, and pharmacology of black cohosh focusing on issues pertaining to pregnancy and lactation. METHODS: We searched 7 electronic databases and compiled data according to the grade of evidence found. RESULTS: Black cohosh, alone or in combination with other medicinal herbs as \"mother's cordial\", has a long traditional use and is frequently used by midwives as a uterine stimulant and labour-inducing aid. Low-level evidence based on theory and expert opinion shows the following concerns with respect to black cohosh use during pregnancy: 1) labour-inducing effects, 2) hormonal effects, 3) emmenagogue properties and, 4) anovulatory effects. During lactation, there is low-level evidence from theoretical and expert opinion of black cohosh having hormonal properties. CONCLUSIONS: Black cohosh should be used with caution during pregnancy, particularly during the first trimester where its purported labour-inducing effects could be of concern, and during lactation. Black cohosh should undergo rigorous high quality human studies to determine its safety in pregnancy and lactation.",
    "tier": "review",
    "corpus": [
@@ -98780,6 +100304,38 @@
     "Tilia cordata"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5084",
+   "key": "shrivastava2006alchemillaaphthous",
+   "type": "article",
+   "title": "Treatment of Aphthous Stomatitis with topical Alchemilla vulgaris in glycerine",
+   "authors": "Shrivastava, R. and John, G.W.",
+   "journal": "Clinical Drug Investigation",
+   "year": "2006",
+   "doi": "10.2165/00044011-200626100-00003",
+   "url": "",
+   "link": "https://doi.org/10.2165/00044011-200626100-00003",
+   "link_type": "doi",
+   "citation": "Shrivastava, R. and John, G.W (2006) 'Treatment of Aphthous Stomatitis with topical Alchemilla vulgaris in glycerine', Clinical Drug Investigation, 26(10), pp. 567--73. doi:10.2165/00044011-200626100-00003",
+   "abstract": "BACKGROUND AND OBJECTIVE: Recurrent aphthous ulceration is the most common oral mucosal disease known. It presents as three types: minor (most prevalent), major and herpetiform. However, there are no well established effective and reliable treatments of this condition. Alchemilla vulgaris (Lady's Mantle) has traditionally been used in oral hygiene and was recently shown to accelerate wound healing when used in combination with glycerine. The objective of this study was to determine whether this combination is effective in the treatment of the most prevalent form of aphthous ulcers. METHODS: An open-label study was conducted in 48 otherwise healthy male and female patients aged 4-44 years to determine the putative healing properties and tolerability of a standard 3% extract of A. vulgaris in glycerine (Aphtarine) on common minor oral ulcers. Patients with major or herpetiform ulcers were excluded from the study. RESULTS: Topical application three times daily of Aphtarine gel to minor mouth ulcers relieved discomfort and produced complete healing in the majority of patients (60.4%) within 2 days and in 75% within 3 days, compared with 10.4% and 33.3%, respectively, without treatment and 15% and 40%, respectively, with commonly available treatments. Most patients appreciated the product's ease of application, taste and texture. Aphtarine was well tolerated locally and most patients rated the product good to excellent overall. CONCLUSION: Aphtarine is a safe, well tolerated and highly effective promising new treatment for healing common mouth ulcers.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Treatment of Aphthous Stomatitis with topical Alchemilla vulgaris in glycerine",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
    "conditions": []
   },
   {
@@ -100627,10 +102183,10 @@
    "journal": "Journal of Herbal Pharmacotherapy",
    "year": "2004",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=An%20open%20study%20to%20assess%20the%20safety%20and%20efficacy%20of%20Aesculus%20hippocastanum%20tablets%20%28Aesculaforce%2050mg%29%20in%20the%20treatment%20of%20chronic%20venous%20insufficiency",
-   "link_type": "search",
-   "citation": "Dickson, S., Gallagher, J., McIntyre, L., Suter, A. and Tan, J (2004) 'An open study to assess the safety and efficacy of Aesculus hippocastanum tablets (Aesculaforce 50mg) in the treatment of chronic venous insufficiency', Journal of Herbal Pharmacotherapy, 4(2), pp. 19--32.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15364642/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/15364642/",
+   "link_type": "url",
+   "citation": "Dickson, S., Gallagher, J., McIntyre, L., Suter, A. and Tan, J (2004) 'An open study to assess the safety and efficacy of Aesculus hippocastanum tablets (Aesculaforce 50mg) in the treatment of chronic venous insufficiency', Journal of Herbal Pharmacotherapy, 4(2), pp. 19--32. Available at: https://pubmed.ncbi.nlm.nih.gov/15364642/",
    "abstract": "An open study was carried out to assess, primarily, the safety and tolerability of Aesculus hippocastanum in the treatment of CVI. Patients underwent 8 consecutive weeks of treatment and were asked to take one 50 mg Aesculus hippocastanum tablet, twice daily. In total, 91 adverse events were reported, of which only 4 were rated as probably related to the study drug. Patients judged the tolerability of the study medication in the majority of the cases at visits 2 and 3 (90 and 95%, respectively) to be \"good\" or \"fairly good.\" Only 2 patients rated tolerability as poor at visit 3. For each of the symptoms investigated the difference in the median value between baseline and visit 3 was found to be statistically significant and both the ankle and lower leg circumference decreased. The PPG measurements were rejected after analysis since validation measurements carried out after the trial showed that the PPG technique had an internal error of around 30%. Nevertheless, the majority of patients rated efficacy to be \"very good\" or \"good,\" with only 10 patients reporting no effect by the end of the study. The results of this study indicate that Aesculaforce 50 mg tablets are a safe, well-tolerated and efficacious treatment for Widmer stage I and II CVI.",
    "tier": "clinical",
    "corpus": [
@@ -101762,6 +103318,41 @@
     "Cold & flu",
     "Infection (general)",
     "Respiratory support"
+   ]
+  },
+  {
+   "ref_id": "REF-5102",
+   "key": "langmead2004aloeulcerativecolitis",
+   "type": "article",
+   "title": "Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis",
+   "authors": "Langmead, L., Feakins, R.M., Goldthorpe, S., Holt, H., Tsironi, E., De Silva, A., Jewell, D.P. and Rampton, D.S.",
+   "journal": "Alimentary Pharmacology & Therapeutics",
+   "year": "2004",
+   "doi": "10.1111/j.1365-2036.2004.01902.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1365-2036.2004.01902.x",
+   "link_type": "doi",
+   "citation": "Langmead, L., Feakins, R.M., Goldthorpe, S., Holt, H., Tsironi, E., De Silva, A., Jewell, D.P. and Rampton, D.S (2004) 'Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis', Alimentary Pharmacology & Therapeutics, 19(7), pp. 739--47. doi:10.1111/j.1365-2036.2004.01902.x",
+   "abstract": "BACKGROUND: The herbal preparation, aloe vera, has been claimed to have anti-inflammatory effects and, despite a lack of evidence of its therapeutic efficacy, is widely used by patients with inflammatory bowel disease. AIM: To perform a double-blind, randomized, placebo-controlled trial of the efficacy and safety of aloe vera gel for the treatment of mildly to moderately active ulcerative colitis. METHODS: Forty-four evaluable hospital out-patients were randomly given oral aloe vera gel or placebo, 100 mL twice daily for 4 weeks, in a 2 : 1 ratio. The primary outcome measures were clinical remission (Simple Clinical Colitis Activity Index </= 2), sigmoidoscopic remission (Baron score </= 1) and histological remission (Saverymuttu score </= 1). Secondary outcome measures included changes in the Simple Clinical Colitis Activity Index (improvement was defined as a decrease of >/= 3 points; response was defined as remission or improvement), Baron score, histology score, haemoglobin, platelet count, erythrocyte sedimentation rate, C-reactive protein and albumin. RESULTS: Clinical remission, improvement and response occurred in nine (30%), 11 (37%) and 14 (47%), respectively, of 30 patients given aloe vera, compared with one (7%) [P = 0.09; odds ratio, 5.6 (0.6-49)], one (7%) [P = 0.06; odds ratio, 7.5 (0.9-66)] and two (14%) [P < 0.05; odds ratio, 5.3 (1.0-27)], respectively, of 14 patients taking placebo. The Simple Clinical Colitis Activity Index and histological scores decreased significantly during treatment with aloe vera (P = 0.01 and P = 0.03, respectively), but not with placebo. Sigmoidoscopic scores and laboratory variables showed no significant differences between aloe vera and placebo. Adverse events were minor and similar in both groups of patients. CONCLUSION: Oral aloe vera taken for 4 weeks produced a clinical response more often than placebo; it also reduced the histological disease activity and appeared to be safe. Further evaluation of the therapeutic potential of aloe vera gel in inflammatory bowel disease is needed.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": [
+    "Inflammatory bowel disease (IBD)"
    ]
   },
   {
@@ -104700,10 +106291,10 @@
    "journal": "International Angiology",
    "year": "2002",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Efficacy%2C%20routine%20effectiveness%2C%20and%20safety%20of%20horsechestnut%20seed%20extract%20in%20the%20treatment%20of%20chronic%20venous%20insufficiency.%20A%20meta-analysis%20of%20randomized%20controlled%20trials%20and%20large%20observational%20studies",
-   "link_type": "search",
-   "citation": "Siebert, U., Brach, M., Sroczynski, G. and Berla, K (2002) 'Efficacy, routine effectiveness, and safety of horsechestnut seed extract in the treatment of chronic venous insufficiency. A meta-analysis of randomized controlled trials and large observational studies', International Angiology, 21(4), pp. 305--15.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12518108/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/12518108/",
+   "link_type": "url",
+   "citation": "Siebert, U., Brach, M., Sroczynski, G. and Berla, K (2002) 'Efficacy, routine effectiveness, and safety of horsechestnut seed extract in the treatment of chronic venous insufficiency. A meta-analysis of randomized controlled trials and large observational studies', International Angiology, 21(4), pp. 305--15. Available at: https://pubmed.ncbi.nlm.nih.gov/12518108/",
    "abstract": "BACKGROUND: Safe and effective oral therapies for chronic venous insufficiency (CVI) would provide an important alternative to mechanical compression treatment. Several narrative reviews and one systematic review have summarized the efficacy of horse chestnut seed extract (HCSE), but to our knowledge no systematic review has included data from both randomized controlled trials (RCTs) and large-scale observational studies regarding outcomes as well as adverse events. METHODS: Using a systematic literature search, we identified 13 RCTs of CVI (1,051 patients) and 3 observational studies (10,725 patients) that met our inclusion criteria. Examined outcomes were leg volume, ankle and calf circumference, edema, pain, sensation of tension, swelling, leg fatigue/heaviness, calf cramps, and itching. Random and fixed effect models were used to pool outcomes and adverse events separately for RCTs and observational studies. RESULTS: Overall, the RCTs indicated that HCSE improved symptoms in patients with CVI. Compared to placebo, HCSE reduced leg volume by 46.4 ml (95% CI, 11.3-81.4 ml) and increased the likelihood of improvement in leg pain 4.1-fold (95% CI, 0.98-16.8). Similarly, improvement probabilities were increased 1.5-fold (95% CI, 1.2-1.9) for edema and 1.7-fold (95% CI, 0.01-3.0) for itching. There was insufficient evidence to demonstrate HCSE's effect on leg fatigue/heaviness or calf cramps. Observational studies showed significant effectiveness regarding pain, edema, and leg fatigue/heaviness. No severe adverse events were reported, and HCSE did not significantly increase mild adverse events. CONCLUSIONS: Based on meta-analyses of RCTs and observational studies, HCSE appears to be an effective and safe treatment for CVI. Further RCTs and carefully conducted large-scale observational studies are required to evaluate the long-term effectiveness and safety of HCSE in routine settings.",
    "tier": "review",
    "corpus": [
@@ -109111,10 +110702,10 @@
    "journal": "Arzneimittel-Forschung",
    "year": "1998",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Bioavailability%20of%20escin%20after%20administration%20of%20two%20oral%20formulations%20containing%20aesculus%20extract",
-   "link_type": "search",
-   "citation": "Kunz, K., Lorkowski, G., Petersen, G., Samcova, E., Schaffler, K. and Wauschkuhn, C.H (1998) 'Bioavailability of escin after administration of two oral formulations containing aesculus extract', Arzneimittel-Forschung, 48(8), pp. 822--5.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9748710/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/9748710/",
+   "link_type": "url",
+   "citation": "Kunz, K., Lorkowski, G., Petersen, G., Samcova, E., Schaffler, K. and Wauschkuhn, C.H (1998) 'Bioavailability of escin after administration of two oral formulations containing aesculus extract', Arzneimittel-Forschung, 48(8), pp. 822--5. Available at: https://pubmed.ncbi.nlm.nih.gov/9748710/",
    "abstract": "In a steady-state cross-over study in 18 healthy volunteers, the relative bioavailability of beta-escin (CAS 11072-93-8) after oral administration of a new immediate release enteric-coated test formulation containing aesculus extract was evaluated in comparison with a prolonged-release reference preparation. The subject received the test and the reference preparation in randomised sequence for 7 days each with no washout period in between. The daily dose was 50 mg escin b.i.d. Blood samples for pharmacokinetic profiling were taken on the 7th treatment day of each period over a full 24-h cycle of two successive dosing intervals. For the determination of beta-escin serum concentrations, a highly specific radioimmunoassay (RIA) was used. Generally, escin serum concentrations were lower during the second dosing interval (night) than during the first interval, probably indicating a drug by food interaction. (The morning dose was given after overnight fasting whereas the evening dose was given between meals). Test and reference demonstrated bioequivalence with regard to the extent of absorption; for the AUC (0-24 h p.a.), the 90% confidence interval ranged from 84% to 114% (point estimate: 98%). The differences observed for rate parameters can be disregarded due to the generally slow elimination and the wide therapeutic concentration range of escin.",
    "tier": "rct",
    "corpus": [
@@ -110580,10 +112171,10 @@
    "journal": "VASA. Zeitschrift Fur Gefasskrankheiten",
    "year": "1992",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Medical%20edema%20protection--clinical%20benefit%20in%20patients%20with%20chronic%20deep%20vein%20incompetence.%20A%20placebo%20controlled%20double%20blind%20study",
-   "link_type": "search",
-   "citation": "Diehm, C., Vollbrecht, D., Amendt, K. and Comberg, H.U (1992) 'Medical edema protection--clinical benefit in patients with chronic deep vein incompetence. A placebo controlled double blind study', VASA. Zeitschrift Fur Gefasskrankheiten, 21(2), pp. 188--92.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1621440/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/1621440/",
+   "link_type": "url",
+   "citation": "Diehm, C., Vollbrecht, D., Amendt, K. and Comberg, H.U (1992) 'Medical edema protection--clinical benefit in patients with chronic deep vein incompetence. A placebo controlled double blind study', VASA. Zeitschrift Fur Gefasskrankheiten, 21(2), pp. 188--92. Available at: https://pubmed.ncbi.nlm.nih.gov/1621440/",
    "abstract": "In a randomized placebo controlled parallel double blind study on 40 patients suffering from venous edema in chronic deep vein incompetence, the edema-reducing effect of horse chestnut seed extract vs. placebo, being the main test variable, was demonstrated by hydroplethysmography to be statistically significant. In addition, measurements of leg volume under aggravated conditions (edema provocation) were conducted, which yielded the same results. Additional measurements of leg circumference tendentially confirm the demonstrated clinical efficacy of verum, as is true for phlebody-namometric measurements (pressure at rest, minimum pressure, replenishment time) as well. By measuring the leg volume before and after edema provocation, it could be shown that the clinical benefit for the patient is present in all everyday situations (in movement as well as on sitting or standing). Treatment with an edema protective agent of the horse chestnut seed extract type is thus a useful adjunct to compression therapy. The tested preparation were well tolerated.",
    "tier": "rct",
    "corpus": [
@@ -113472,9 +115063,17 @@
     "clinical"
    ],
    "display": "Lady's Mantle (Alchemilla vulgaris) — A Modern Herbal",
-   "plants": [],
-   "scientific": [],
-   "actions": [],
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
    "conditions": []
   },
   {

@@ -1,0 +1,1589 @@
+# Research-deepening batch 2 - search
+
+## agrimonia-eupatoria (Agrimonia eupatoria) - name clause: "Agrimonia eupatoria"[tiab] OR "agrimony"[tiab]
+
+### PubMed HT - 4 hits, 4 not already listed above, 2 new
+- HELD REF-3412 | 2018 | 29486131 | Randomized Controlled Trial | Agrimonia eupatoria L. (Agrimony) Extract Alters Liver Health in Subjects with Elevated Alanine Transaminase Levels: A Controlled, Randomized, and Double-Blind Trial. | J Med Food
+- new | 2015 | 25891453 | Randomized Controlled Trial | [Effect of rhubarb as the main composition of sequential treatment in patients with acute paraquat poisoning: a prospective clinical research]. | Zhonghua Wei Zhong Bing Ji Jiu Yi Xue [chi]
+- HELD REF-2336 | 2013 | 23078582 | Research Support, Non-U.S. Gov't | Agrimonia eupatoria tea consumption in relation to markers of inflammation, oxidative status and lipid metabolism in healthy subjects. | Arch Physiol Biochem
+- new | 2010 | 20954962 | Clinical Trial | Effects of two natural medicine formulations on irritable bowel syndrome symptoms: a pilot study. | J Altern Complement Med
+
+### PubMed SR - 1 hits, 1 not already listed above, 1 new
+- new | 2025 | 40917836 | Systematic Review | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review. | Front Med (Lausanne)
+
+### PubMed SAFE - 12 hits, 9 not already listed above, 7 new
+- new | 2026 | 42442547 | Research Support, Non-U.S. Gov't | Hairyvein agrimony-derived nanovesicles in microneedles eradicate intracellular bacteria and reverse senescence to heal diabetic foot osteomyelitis. | J Control Release
+- HELD REF-2836 | 2026 | 41495771 |  | Inhibition of the PI3K signaling pathway in cancer cells by Agrimonia eupatoria L. ethanolic extract: identification of tricoumaroyl spermidine as a potential PI3K inhibitor. | BMC Complement Med Ther
+- new | 2024 | 38318620 |  | Biosynthesis and characterization of silver nanoparticles synthesized using extracts of Agrimonia eupatoria L. and in vitro and in vivo studies of potential medicinal applications. | RSC Adv
+- HELD REF-2332 | 2023 | 37103272 |  | Antioxidant and Protective Effects of the Polyphenolic Glycoconjugate from Agrimonia eupatoria L. Herb in the Prevention of Inflammation in Human Cells. | J Funct Biomater
+- new | 2023 | 37109403 | Review | Anti-Inflammatory Properties of Plants from Serbian Traditional Medicine. | Life (Basel)
+- new | 2020 | 33375482 |  | Designing New Antibacterial Wound Dressings: Development of a Dual Layer Cotton Material Coated with Poly(Vinyl Alcohol)_Chitosan Nanofibers Incorporating Agrimonia eupatoria L. Ex | Molecules
+- new | 2018 | 29600757 | Review | Preclinical Hepatoprotective Effect of Herbalism Against Ethanol Induced Hepatotoxicity: A Review. | Curr Drug Metab
+- new | 2016 | 26439817 |  | Variability, toxicity, and antioxidant activity of Eupatorium cannabinum (hemp agrimony) essential oils. | Pharm Biol
+- new | 2012 | 22525864 | Research Support, Non-U.S. Gov't | Agrimonia eupatoria protects against chronic ethanol-induced liver injury in rats. | Food Chem Toxicol
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 10 hits, 8 not already listed above, 5 new
+- HELD REF-2770 | 2025 | 41375170 | Review | Ellagitannins and Other Polyphenols Along with Dietary Components of the Rosaceae Medicinal Plants. | Molecules
+- new | 2023 | 37895122 | Review | Plant Extracts as Skin Care and Therapeutic Agents. | Int J Mol Sci
+- new | 2023 | 36177633 | Review | The Medicinal Plant Agrimonia pilosa Ledeb.: Botanical Description, Traditional use, Phytochemistry and Pharmacology. | Comb Chem High Throughput Screen
+- HELD REF-0681 | 2022 | 35752261 | Review | Agrimonia eupatoria L.: An integrative perspective on ethnomedicinal use, phenolic composition and pharmacological activity. | J Ethnopharmacol
+- new | 2022 | 36615352 | Review | Therapeutic Potential of Flavonoids and Tannins in Management of Oral Infectious Diseases-A Review. | Molecules
+- HELD REF-0683 | 2020 | 33646008 | Review | The therapeutic effects of Agrimonia eupatoria L. | Physiol Res
+- new | 2019 | 30984575 | Review | Treatment of liver and spleen illnesses by herbs: Recommendations of Avicenna's heritage "Canon of Medicine". | Avicenna J Phytomed
+- new | 2001 | 11310520 | Review | Urogenital atrophy: prevention and treatment. | Pharmacotherapy
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 154 hits, 62 without PMID, 62 new
+- new | 2026 | 10.17185/duepublico/86448 | dissertation | Liver health from leaf to lab: eco-friendly extraction and multi-dimensional analysis of European herbs | Universitätsbibliographie, Universität D
+- new | 2026 | 10.5281/zenodo.23684517 | conference-abstract | Herbal Plaster Therapy for Acute Soft-Tissue Injury:Single Clinic Experience in Shanghai, 2010–2025, and the Question of Transferability | Zenodo (CERN European Organization for N
+- new | 2026 | https://openalex.org/W7225445364 | dissertation | Les médecines intégratives à l’officine comme soins de support chez les patients atteints de cancer du sein | HAL
+- new | 2026 | 10.1038/s41598-026-73128-z | article | Multi-population approach in seed germination ecology: evidence from Ranunculus ficaria | Scientific Reports
+- new | 2025 | 10.65639/kjvm.25.025 | article | Evaluation of the protective role of the aqueous extract of Agrimonia eupatoria L. against hepatotoxicity and histological and biochemical changes in adult male rats treated with o | Kerbala Journal of Veterinary Medical Sc
+- new | 2025 | https://openalex.org/W7169709814 | dissertation | ETHNOBOTANICAL SURVEYS IN LOMBARDY (ITALY): A MULTIDISCIPLINARY APPROACH TO STUDYING THE PAST TO IMPROVE THE FUTURE. | Archivio Istituzionale della Ricerca (Un
+- new | 2025 | 10.70135/seejph.vi.6290 | article | A STUDY TO ASSESS THE KNOWLEDGE, ATTITUDE, AND BELIEFS TOWARD TRADITIONAL HERBAL MEDICINE USE AMONG DIABETIC PATIENTS | South Eastern European Journal of Public
+- new | 2025 | 10.1101/2025.08.04.25332290 | preprint | Efficacy and Safety of a Novel Dietary Supplement, Gepaktiv (International name Phenomenon), Versus Active Comparators (UDCA and Ademetionine) in Patients with Metabolic-Associated | medRxiv
+- new | 2025 | 10.1111/gfs.12715 | article | Herbage Nutritive Value in Extensively Grazed Grassland as Affected by Botanical Composition, Sward Heterogeneity and Grazing Intensity | Grass and Forage Science
+- new | 2025 | 10.24917/25438832.10.13 | article | Analysis of Traditional Medical Sciences in Asia and the Middle East in phytotherapeutic aspects | Annales Universitatis Paedagogicae Craco
+- new | 2025 | 10.26650/istanbuljpharm.2025.1617107 | article | In Vitro Antimicrobial Activity and In Vivo Effectiveness of the Cosmetic Products Developed for Oily Skin | Istanbul Journal of Pharmacy
+- new | 2024 | 10.1016/j.ecoleng.2024.107353 | article | Ten year re-assessment after introduction of forb communities into species poor temperate grassland | Ecological Engineering
+- new | 2024 | 10.55355/snv2024131101 | article | Ecological and floristic features of modern plant groupings on the territory of the Kipchak archaeological complex | Samara Journal of Science
+- new | 2024 | 10.33545/2616454x.2024.v8.i3b.304 | article | Effect of Unani medicine on endometriotic cyst: A case report | International Journal of Unani and Integ
+- new | 2024 | 10.3390/app14093728 | article | A Review on the Potential Use of Medicinal Plants from the Apiaceae and the Rosaceae Families in Cardiovascular Diseases—Experimental Evidence and Traditional Applications | Applied Sciences
+- new | 2024 | 10.18174/647596 | report | Pilot beheer en inzaaien bloemrijke dijken Amsterdam-Rijnkanaal : rapportage 2023 | 
+- new | 2024 | 10.28983/asj.y2024i9pp97-102 | article | Effectiveness of the “Flavobetin” for the prevention of the labor and postpartum period pathologies in cattle | The Agrarian Scientific Journal
+- new | 2024 | 10.1155/2024/6727040 | article | Herbal Agents Against Dermatophytes: Effect of 43 Herbal Agents on Dermatophyte Growth | Dermatologic Therapy
+- new | 2023 | https://openalex.org/W7132200534 | conference-paper | Usage peculiarities of medicinal plants in case of asthma | Lithuanian University of Health Sciences
+- new | 2023 | 10.15406/jdc.2023.07.00224 | article | Pharmacological mechanisms of medicinal plant extracts in the treatment of dermatological diseases: in vitro, in vivo studies and clinical trials | Journal of Dermatology & Cosmetology
+- new | 2023 | 10.21802/acm.2023.1.12 | article | Influence of Medicinal Plants Extracts from the Flora of Ukraine on the Growth of Cultures of Candida Yeast Fungi Selected from Dental Patients | Archive of Clinical Medicine
+- new | 2023 | 10.21802/artm.2023.2.26.51 | article | THE INFLUENCE OF MEDICINAL AND AROMATIC PLANTS EXTRACTS ON THE ANTIFUNGAL EFFECT OF FLUCONAZOLE REGARDING C. ALBICANS AND C. TROPICALIS ISOLATED FROM PATIENTS WITH DENTURE STOMATIT | Art of Medicine
+- new | 2023 | 10.21203/rs.3.rs-3525008/v1 | preprint | Molecular mechanisms of Tangningtongluo Tablet in the treatment of diabetes based on network pharmacology and bioinformatics | Research Square
+- new | 2023 | https://openalex.org/W7131954988 | conference-paper | Pelargonium sidoides DC. active substances therapy protected periodontal tissue decreased inflammation | Lithuanian University of Health Sciences
+- new | 2023 | 10.1590/1807-1929/agriambi.v27n5p303-308 | article | In vitro germination of passion fruit seeds in the function of tegument removal and culture media | Revista Brasileira de Engenharia Agrícol
+- new | 2023 | 10.13040/ijpsr.0975-8232.14(3).1392-00 | paratext |  | International Journal of Pharmaceutical 
+- new | 2023 | 10.1590/2447-536x.v29i2.2548 | article | Muscari seed germination enhancement by using sulfuric acid, and stratification priming | Ornamental Horticulture
+- new | 2023 | 10.54254/2753-8818/4/20220675 | article | Research on Food and Medication for Type 2 Diabetes | Theoretical and Natural Science
+- new | 2022 | 10.33978/2307-3586-2022-18-14-36-41 | article | Efficacy and Safety Evaluation of Gastrokur Dietary Supplement in Combination with Pantoprazole in Patients with Helicobacter pylori | Effective Pharmacotherapy
+- new | 2022 | 10.22246/jikm.2022.43.4.680 | article | A Review of Research Trends in Traditional Korean Medicine for Nonalcoholic Fatty Liver Disease | The Journal of Internal Korean Medicine
+- new | 2022 | 10.15421/032207 | article | Self-renewal of tree plants in the conditions of the ecotope of the forest park of the Friendship of the city of Dnipro | Ecology and Noospherology
+- new | 2022 | 10.5937/leksir2242060g | article | Medicinal plants in dermatological complaints and disorders | Lekovite sirovine
+- new | 2022 | 10.18470/1992-1098-2022-4-16-29 | article | Flora and syntaxonomy of communities including Juniperus oblonga M. Bieb. on the Gunib Plateau | South of Russia ecology development
+- new | 2021 | 10.14739/2409-2932.2021.3.239497 | article | Influence of Pancreo-Plant on the histological parameters of the liver in conditions of acute toxic hepatitis | Current issues in pharmacy and medicine 
+- new | 2020 | 10.1007/978-3-030-16807-0_13 | book-chapter | Agrimonia eupatoria L. (Rosaceae) | Springer eBooks
+- new | 2020 | 10.29080/biotropic.2020.4.1.55-63 | article | Analisis Vegetasi di Kawasan Petilasan Mbah Maridjan Taman Nasonal Gunung Merapi | BIOTROPIC The Journal of Tropical Biolog
+- new | 2020 | 10.24144/2077-6594.3.2.2020.213707 | article | Prevention of ventilator-associated pneumonia in intensive departments from the nursing perspective | Україна Здоров’я нації
+- new | 2020 | 10.21786/bbrc/13.7/50 | article | Knowledge and Awareness About Natural Anti Diabetic Herbs and its Usage Among General Public | Bioscience Biotechnology Research Commun
+- new | 2019 | 10.22159/ajpcr.2019.v12i3.30419 | article | HEPATOPROTECTIVE AND NEPHROPROTECTIVE EFFECTS OF THE AQUEOUS EXTRACT OF TURMERIC (CURCUMA LONGA) IN RIFAMPICIN AND ISONIAZID-INDUCED HEPATOTOXICITY AND NEPHROTOXICITY IN RATS | Asian Journal of Pharmaceutical and Clin
+- new | 2018 | https://openalex.org/W3093596688 | dissertation | Evaluation of Antiurolithiatic Activity of Ethanolic and Aqueous Extract of Phaseolus Vulgaris Linn Seeds | 
+- new | 2018 | 10.28978/nesciences.424660 | article | The Potential Anti-Diabetic Effects of Some Plant Species | Natural and Engineering Sciences
+- new | 2017 | 10.19084/rca16183 | article | Agrimonia eupatoria L.: Atividade farmacológica e interações medicamentosas | Revista de Ciências Agrárias
+- new | 2017 | 10.5586/asbp.3561 | article | A performance comparison of sampling methods in the assessment of species composition patterns and environment–vegetation relationships in species-rich grasslands | Acta Societatis Botanicorum Poloniae
+- new | 2017 | 10.1016/j.jaubas.2016.11.001 | article | Knowledge, attitude, and utilization of herbal medicines by physicians in the Kingdom of Bahrain: A cross-sectional study | Journal of the Association of Arab Unive
+- new | 2015 | 10.7732/kjpr.2015.28.5.635 | article | Triglyceride Control Effect of Agrimonia eupatoria L. in Oleic Acid Induced NAFLD-HepG2 Model | 한국자원식물학회지
+- new | 2015 | 10.2754/avb201584020119 | article | The effects of adding agrimony and sage extracts to water on blood biochemistry and meat quality of broiler chickens | Acta Veterinaria Brno
+- new | 2015 | 10.5937/leksir1535061k | article | HERBAL DRUGS OF THE LOCAL ORIGIN WITH ANALGESIC ACTIVITY | Lekovite sirovine
+- new | 2014 | 10.1002/14651858.cd011223 | article | Herbal medicines for the treatment of inflammatory bowel disease | Cochrane Database of Systematic Reviews
+- new | 2013 | 10.5772/52913 | book-chapter | Immune-Based Treatment Strategies for Patients with Recurrent Urinary Tract Infections – Where Are We? | InTech eBooks
+- new | 2012 | https://openalex.org/W2388325437 | article | Effect of agrimony on level of blood glucose and insulin in diabetic rats | Zhiye yu jiankang
+- new | 2011 | https://openalex.org/W2390404873 | article | Hypoglycemic effects and antioxidative ability of agrimony in diabetic rats | Chinese Journal of Public Health
+- new | 2011 | 10.3136/fstr.17.429 | article | Effects of Winter Savory (Satureja montana L.) on Peripheral Body Temperature of People Who Experience a 'Feeling of Cold' (Hie-Sho) | Food Science and Technology Research
+- new | 2010 | https://openalex.org/W7220634144 | article | 6th International Conference on Polysaccharides-Glycoscience 2010 – Abstracts | Chemické listy
+- new | 2009 | 10.17660/actahortic.2009.826.25 | conference-paper | GEOGRAPHIC DISTRIBUTION AND PROPAGATION OF AGRIMONIA EUPATORIA L. AND MELISSA OFFICINALIS L. FROM PORTUGAL | Acta Horticulturae
+- new | 2009 | 10.1017/s0960258509990201 | article | Small-scale seed-bank patterns in a forest soil | Seed Science Research
+- new | 2009 | 10.17221/111/2008-jfs | article | Plant community variability within potential natural vegetation units: a case study from the Bohemian Karst | Journal of Forest Science
+- new | 2008 | https://openalex.org/W775648433 | conference-paper | Initial acceptance trial of flavours in a standard concentrate diet in horses at pasture. | ePrints Soton (University of Southampton
+- new | 2008 | https://openalex.org/W2258082008 | conference-paper | Initial acceptance of novel flavours in diets offered to stabled horses. | ePrints Soton (University of Southampton
+- new | 2008 | https://openalex.org/W3162260229 | dissertation | Vergleich der durch die historischen Autoren Hildegard von Bingen und Leonhart Fuchs pflanzlichen Arzneimitteln zugeschriebenen mit aktuell anerkannten Indikationen | Online Publication Service of Würzburg U
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2002 | 10.1080/00063650209461247 | article | The status and habitat of Spotted CrakesPorzana porzanain Britain in 1999 | Bird Study
+- new | 1999 | https://openalex.org/W38337883 | book | Atherosclerosis : pathology of the vasculature in live patients | W.B. Saunders eBooks
+
+## alchemilla-vulgaris (Alchemilla vulgaris) - name clause: "Alchemilla vulgaris"[tiab] OR "Alchemilla xanthochlora"[tiab] OR "lady's mantle"[tiab] OR "ladys mantle"[tiab] OR "Alchemillae herba"[tiab]
+
+### PubMed HT - 3 hits, 3 not already listed above, 3 new
+- new | 2021 | 33866772 |  | Comparison of prophylactic effect of topical Alchemilla vulgaris in glycerine versus that of dexamethasone on postoperative sore throat after tracheal intubation using a double-lum | Anesth Pain Med (Seoul)
+- new | 2019 | 30904703 | Controlled Clinical Trial | Towards a modern approach to traditional use: in vitro and in vivo evaluation of Alchemilla vulgaris L. gel wound healing potential. | J Ethnopharmacol
+- new | 2006 | 17163290 | Research Support, Non-U.S. Gov't | Treatment of Aphthous Stomatitis with topical Alchemilla vulgaris in glycerine. | Clin Drug Investig
+
+### PubMed SR - 1 hits, 1 not already listed above, 0 new
+- HELD REF-2227 | 2024 | 37981119 | Systematic Review | A review of the traditional uses, phytochemistry, pharmacology, and clinical evidence for the use of the genus Alchemilla (Rosaceae). | J Ethnopharmacol
+
+### PubMed SAFE - 1 hits, 1 not already listed above, 1 new
+- new | 2011 | 18952688 |  | Weight loss in animals and humans treated with "weighlevel", a combination of four medicinal plants used in traditional arabic and islamic medicine. | Evid Based Complement Alternat Med
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 1 hits, 1 not already listed above, 0 new
+- HELD REF-2768 | 1990 | 2131766 | Review | [Tannin content and inhibiting activity of elastase in Rosaceae]. | Ann Pharm Fr [fre]
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 129 hits, 63 without PMID, 63 new
+- new | 2026 | 10.1016/j.ufug.2026.129436 | article | Dynamics on vegetation, pollinators and soil microorganisms after transforming boreal urban lawns into meadows | Urban forestry & urban greening
+- new | 2026 | 10.1002/slct.74645 | article | NAC‐Loaded AuNPs Nanocarrier Penetrates Human Lens and Retain Transparency: Potential for Cataract Treatment | ChemistrySelect
+- new | 2026 | 10.59024/jikas.v4i3.2031 | article | Gambaran Kejadian Nyeri Tenggorokan pada Pasien Pasca Anestesi Umum Menggunakan Endotrakeal Tube di RSUD Salatiga | JURNAL ILMIAH KESEHATAN MASYARAKAT DAN S
+- new | 2026 | 10.64229/vk9d3g96 | review | A Systematic Review on Herbal Interventions in Prostate Cancer Treatment: Efficacy, Safety, and Implications for African Healthcare | Perspectives in Oncology Management and 
+- new | 2026 | 10.3390/app16157466 | article | Calendula officinalis L. as a Source of Bioactive Compounds for Functional Foods: A Review | Applied Sciences
+- new | 2025 | 10.71428/bjbmb.2025.0207 | article | Study the Effect of Alchemilla vulgaris on Biofilm Production by Staphylococcus Aureus That Isolated from Wounds and Respiratory Tract of Patients | Biobacta Journal of Biochemistry and Mol
+- new | 2025 | 10.1016/b978-0-443-33152-7.00023-5 | book-chapter | Medicinal herbs in maintenance of menopause | Elsevier eBooks
+- new | 2025 | 10.3389/fanim.2025.1670191 | article | Gut microbiome and metabolome remodeling by Wuwei Jianpi San enhances growth and immunity in yaks: a multi-omics approach | Frontiers in Animal Science
+- new | 2025 | 10.22194/fpn.2025.1032 | article | Therapeutic Effect of Salvia Officinalis against Aberrant Menopause and Its Symptoms: A Comprehensive Review | Journal of Food Processing and Nutrition
+- new | 2025 | 10.5633/amm.2025.0207 | article | IN VITRO WOUND HEALING ACTIVITY OF ALPHA-LIPOIC ACID | Acta Medica Medianae
+- new | 2025 | 10.21608/ejabf.2025.424976 | article | Supplementing with Dietary Lactobacillus acidophilus Modulates Cold Stress Deterioration of the Antioxidant Activity, Immunological Response, and Growth Indices in the Nile Tilapia | Egyptian Journal of Aquatic Biology and 
+- new | 2025 | 10.62810/jnsr.v3i4.370 | article | Effects of Aqueous and Alcoholic Extracts of Russian Knapweed on Cutaneous Wound Healing Process in Rabbits | Journal of Natural Science Review
+- new | 2024 | 10.1684/phyto.2024.0421 | article | Integrating experimental and computational methods to uncover the anti-inflammatory, anti-nociceptive and antioxidant properties of Alchemilla vulgaris | Phytothérapie
+- new | 2024 | 10.55905/rdelosv17.n55-016 | article | Thermographic evaluation and sensible heat emission of quails (Coturnix coturnix japonica) kept at different temperatures | DELOS Desarrollo Local Sostenible
+- new | 2024 | 10.3389/978-2-8325-5442-5 | book | Nutraceuticals in Cardiovascular Diseases and their Associated Risk Conditions | Frontiers research topics
+- new | 2024 | 10.3390/app14093728 | article | A Review on the Potential Use of Medicinal Plants from the Apiaceae and the Rosaceae Families in Cardiovascular Diseases—Experimental Evidence and Traditional Applications | Applied Sciences
+- new | 2024 | 10.5327/fst.00270 | article | Physiological variables and quality of quail eggs supplemented with magnesium in water under thermal stress | Food Science and Technology
+- new | 2023 | 10.24326/asphc.2023.4473 | article | Multifunctional living mulches for weeds control in organic apple orchards | Acta Scientiarum Polonorum Hortorum Cult
+- new | 2023 | 10.26599/fshw.2022.9250202 | article | Health effects of fruit juices and beverages with varying degrees of processing | Food Science and Human Wellness
+- new | 2023 | 10.1093/9780197610145.003.1131 | book-chapter | AOAC SMPR ® 2023.002: Standard Method Performance Requirements (SMPRs ® ) for Pyrrolizidine Alkaloids in Teas, Herbal Infusions, Dried Herbs, Seed Spices, Honey, and Botanical Diet | Oxford University Press eBooks
+- new | 2023 | 10.54254/2753-8818/4/20220675 | article | Research on Food and Medication for Type 2 Diabetes | Theoretical and Natural Science
+- new | 2023 | 10.1590/fst.117822 | article | Productive performance, egg quality and the morphometry of the organs of Japanese quails (Cotournix cotournix japônica) kept at different temperatures | Food Science and Technology
+- new | 2023 | 10.13040/ijpsr.0975-8232.14(4).1561-71 | paratext |  | International Journal of Pharmaceutical 
+- new | 2023 | 10.58888/2957-3912-2023-03-05 | review | Postoperative Sore Throat After General Anesthesia: A Narrative Review | Journal of Anesthesia and Translational 
+- new | 2022 | 10.3390/immuno2010010 | article | Anti-Inflammatory, Antimicrobial, and Vasoconstriction Activities of an Anti-Hemorrhoidal Mixture of Alchemilla vulgaris, Conyza bonariensis, and Nigella sativa: In Vitro and Clini | Immuno
+- new | 2022 | 10.12681/jhvms.29396 | article | Effects of Alchemilla vulgaris on haematology and antioxidant status of heatstressed quails during the late laying period | Journal of the Hellenic Veterinary Medic
+- new | 2022 | 10.21608/mbse.2022.251455 | article | PROTECTIVE EFFECT OF WORM-WOOD (ARTEMISIA ABSINTHIUM L.) AND LION’S FOOT (ALCHEMILLA VULGARIS L.) AGAINST L-ARGININE- INDUCED CHRONIC RENAL FAILURE IN RATS AND THEIR FORTIFIED TO H | مجلة بحوث التربية النوعية
+- new | 2022 | 10.17660/actahortic.2022.1354.4 | conference-paper | Changes in weed population in organic apple orchard as a result of soil management with living mulches | Acta Horticulturae
+- new | 2022 | 10.21175/rad.sum.abstr.book.2022.32.6 | conference-paper | Comprehensive examination and treatment of kidney cancer patients with combined surgical diseases | Book of Abstracts
+- new | 2022 | 10.21175/rad.sum.abstr.book.2022.30.3 | conference-paper | Variations in lung volume between sets of 4DCT images acquired on the same group of patients | Book of Abstracts
+- new | 2022 | 10.21175/rad.sum.abstr.book.2022.22.1 | conference-paper | Case report of a patient with compressive ureteral obstruction due to cervical cancer pelvic mass | Book of Abstracts
+- new | 2022 | 10.21175/rad.sum.abstr.book.2022.7.3 | conference-paper | Plasma miRNAs as biomarkers for radiation-induced cardiac toxicity in Lithuanian lung cancer patients | Book of Abstracts
+- new | 2022 | 10.21175/rad.sum.abstr.book.2022.14.8 | conference-paper | Patient specific dosimetry for CyberKnife® S7 system using ionization chamber: Our initial three-month experience | Book of Abstracts
+- new | 2022 | 10.21157/j.ked.hewan.v16i2.25660 | article | INFLUENCE OF ZINGIBER ZERUMBET EXTRACTS AS FEED ADDITIVE ON PERFORMANCE, CARCASS CHARACTERISTICS AND INHIBITION OF ESCHERICHIA COLI BACTERIA OF COMMERCIAL BROILER CHICKENS | Jurnal Kedokteran Hewan - Indonesian Jou
+- new | 2022 | 10.5433/1679-0359.2022v43n2p599 | article | Magnesium in the water of Japanese quails kept under comfort zone and under thermal stress | Semina Ciências Agrárias
+- new | 2022 | 10.1590/1807-1929/agriambi.v26n4p313-318 | article | Water salinity and air temperature on quail production and organ characteristics | Revista Brasileira de Engenharia Agrícol
+- new | 2021 | 10.5433/1679-0359.2021v42n6p3485 | article | Physiological variables and egg quality from quails (Coturnix coturnix japonica) that received water with increasing levels of NaCl and under different temperatures | Semina Ciências Agrárias
+- new | 2021 | 10.54783/ijsoc.v3i1.295 | article | Modern Wound Care Application: A Literature Review | International Journal of Science and Soc
+- new | 2020 | 10.24911/ejmcr/173-1592718563 | article | Success stories of COVID-19 | European Journal of Medical Case Reports
+- new | 2020 | 10.32417/1997-4868-2020-197-6-10-16 | article | The way to solve the problem of degradation of mountain pastures of the Central Caucasus | Agrarian Bulletin of the
+- new | 2019 | 10.9734/ejmp/2019/v28i130127 | article | A Randomized, Double-Blind, Placebo-Controlled Study of a Blend of Herbal Extracts Taken Once Per Day for Weight Loss in Healthy Volunteers | European Journal of Medicinal Plants
+- new | 2019 | 10.4314/sajas.v49i5.8 | article | Alchemilla vulgaris effects on egg production and quality expressed by heatstressed quail during the late laying period | South African Journal of Animal Science
+- new | 2019 | 10.3342/kjorl-hns.2019.00052 | article | Effect of Filmogen Topical Gel on Pain and Hemorrhage after Tonsillectomy | Korean Journal of Otorhinolaryngology - 
+- new | 2019 | 10.21608/edj.2019.74807 | article | Topical management of recurrent aphthous stomatitis | Egyptian Dental Journal /Egyptian Dental
+- new | 2019 | 10.34297/ajbsr.2019.02.000599 | article | Protective Effect of Medicinal Plants on Neuron Degeneration Diseases and Controversial Predictive Diagnosis | American Journal of Biomedical Science &
+- new | 2019 | 10.38093/cupmap.552083 | article | BIOAPYGIN HERBAL OINTMENT AND PESSARIES COMPARED TO ACIDOSALUS PESSARIES AND VAGINAL PROBIOTIC IN THE TREATMENT OF VULVO-VAGINAL DISORDERS | Current Perspectives on Medicinal and Ar
+- new | 2018 | 10.4103/phrev.phrev_37_17 | article | Medicinal plant and their bioactive phytochemicals in the treatment of recurrent aphthous ulcers: A review of clinical trials | Pharmacognosy Reviews/Bioinformatics Tre
+- new | 2018 | 10.25121/pf.2018.19.3.176 | article | Przywrotnik pospolity (Alchemilla vulgaris L.) – związki czynne, aktywność biologiczna oraz zastosowanie lecznicze | Postępy Fitoterapii
+- new | 2018 | 10.4236/jbise.2018.115007 | article | Aktisor® Wound Suspension in the Treatment of Ulcers with Multiple Etiologies | Journal of Biomedical Science and Engine
+- new | 2018 | https://openalex.org/W2906582932 | article | In vitro inhibitory effect of plant extracts on growth of seed-borne Alternaria alternata fungs | Journal of BioScience and Biotechnology
+- new | 2017 | https://openalex.org/W2802595250 | article | Management of recurrent aphthous stomatitis with medicinal herbs and their related phytochemicals in clinic: review | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2017 | https://openalex.org/W4312140173 | dissertation | Passionflower,witch hazel,yarrow,hawthorn & ladys's mentle, five plants without phyto-estrogens to fight against menopause's disorders : Practical study in adispensing pharmacy amo | HAL
+- new | 2017 | https://openalex.org/W7215612141 | article | Eficacia y seguridad del TISUACRYL en el tratamiento de la estomatitis aftosa | Multimed
+- new | 2016 | https://openalex.org/W2564489350 | dissertation | Random walks in the stringent response | DSpace repository (University of Tartu)
+- new | 2015 | https://openalex.org/W2237922463 | article | DEVELOPMENT AND APLICATION OF NEW HERBAL PESSARIES FOR THE TREATMENT OF SQUAMOUS ENDOCERVICAL METAPLASIA | 
+- new | 2013 | 10.2147/btat.s44217 | article | Phytothermotherapy in osteoarthritis: new evidence for an old therapy | Botanics Targets and Therapy
+- new | 2011 | https://openalex.org/W15424188 | article | Effect of the feeding of Plantago lanceolata with meadows hay on milk efficiency of goats | Slovak Journal of Animal Science
+- new | 2010 | https://openalex.org/W2120552139 | article | A Double Blinded- Randomized Clinical Study with "Weighlevel", aCombination of Four Medicinal Plants Used in Traditional Greco-Araband Islamic Medicine | The Open Complementary Medicine Journal
+- new | 2010 | 10.1089/act.2010.16205 | article | Treatments for Recurrent Aphthous Stomatitis | Alternative and Complementary Therapies
+- new | 2006 | 10.1055/s-2006-952094 | article | Alchemilla vulgaris: Die Einzelprüfsymptome | Zeitschrift für Klassische Homöopathie
+- new | 2005 | 10.17221/3566-pse | article | Conservation effects on the botanical composition of grass swards in the hilly soils of West Lithuania | Plant Soil and Environment
+- new | 2001 | 10.1177/153321010100700104 | article | Botanical Treatment of Benign Prostatic Hyperplasia (BPH | Complementary health practice review
+- new | 1883 | 10.1038/029042a0 | other | The Vienna International Electric Exhibition | Nature
+
+## allium-sativum (Allium sativum) - name clause: "Allium sativum"[tiab] OR "garlic"[ti] OR "allicin"[ti] OR "aged garlic"[ti]
+
+### PubMed HT - 475 hits, 200 not already listed above, 190 new
+- new | 2027 | 42861727 | Randomized Controlled Trial/Comparative Study | Comparative efficacy of topical garlic extract and 20% podophyllin solution in the treatment of female genital warts: a triple-blind randomized clinical trial. | J Dermatolog Treat
+- new | 2026 | 40580481 | Systematic Review/Meta-Analysis | Effects of Garlic Supplementation on Cardiovascular Risk Factors in Adults: A Comprehensive Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Nutr Rev
+- new | 2026 | 42338797 | Review | Mini-Review: Allicin as a Potential Neuroprotective Compound in Neurological Disorders. | Neuropsychiatr Dis Treat
+- new | 2026 | 42109379 |  | Effectiveness of garlic clove (Allium Sativum) on blood pressure reduction among hypertensive patients. | Bioinformation
+- new | 2026 | 41984124 | Review | Garlic as a novel therapeutic agent for the management of pulp infections: a systematic review. | Odontology
+- new | 2026 | 42654176 | Review | Protective Effects of Allicin and Garlic-Derived Interventions Against Metabolic Dysfunction-Associated Steatotic Liver Disease: Current Evidence and Mechanistic Insights. | Nutrients
+- new | 2026 | 42577101 | Clinical Trial | Effects of aged black garlic (ABG10+(®)) on lipoprotein subclass composition in Grade I hypertension: a randomized, triple-blind controlled trial with sex-stratified sequential all | Front Nutr
+- new | 2026 | 41523684 |  | Effects of Lactobacillus-fermented garlic extract on hangover relief: a randomized, double-blind, placebo-controlled crossover study. | Food Sci Biotechnol
+- new | 2026 | 41598329 | Review | Medicinal Plants and Phytochemicals in Cardioprotection-Mechanistic Pathways and Translational Roadmap. | Life (Basel)
+- new | 2026 | 41485319 | Systematic Review/Meta-Analysis | Antimicrobial effect of garlic-based mouthwash on dental caries-related oral microorganisms: A systematic review and meta-analysis. | Arch Oral Biol
+- new | 2025 | 40628369 | Systematic Review/Meta-Analysis | The Effect of Aged Garlic Supplementation on Blood Pressure and Lipid Profile: A Dose-Response Grade-Assessed Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Phytother Res
+- new | 2025 | 40929037 | Research Support, Non-U.S. Gov't | Micropropagation and somaclonal variation in Iranian genotypes of garlic (Allium sativum L.). | PLoS One
+- new | 2025 | 40083603 |  | Efficacy of aged garlic extract on periodontal pockets:  An 18‑month dose response study. | Biomed Rep
+- new | 2025 | 40563334 |  | Developing a Feeding Module with a Blend of Garlic Oil and Cinnamon Bark for Enhancing Antioxidant Status and Immunity of Murrah Buffalo (Bubalus bubalis) with an Improvement in Fe | Antioxidants (Basel)
+- new | 2025 | 40084199 |  | Kyolic aged garlic extract improves aerobic fitness in middle‑aged recreational endurance athletes: A randomized double‑blind placebo‑controlled 3 month trial. | Exp Ther Med
+- new | 2025 | 41057470 |  | Adaptability of parental populations and selected garlic (Allium sativum L.) clones for introducing promising clones in Iran. | Sci Rep
+- new | 2025 | 40770379 | Randomized Controlled Trial | Efficacy of garlic (Allium sativum) on metabolic syndrome components in women with polycystic ovary syndrome: randomized controlled trial. | J Health Popul Nutr
+- new | 2025 | 41341173 |  | The effectiveness of garlic (Allium sativum) extract in improving fatigue and quality of life in patients with multiple sclerosis (MS): a randomized single-blind placebo-controlled | Res Pharm Sci
+- new | 2025 | 40422592 | Review | Benefits of Traditional Medicinal Plants to African Women's Health: An Overview of the Literature. | Diseases
+- new | 2024 | 39437887 | Systematic Review/Meta-Analysis/Retracted Publication | Effects of aged garlic extract on blood pressure in hypertensive patients: A systematic review and meta-analysis of randomized controlled trials. | Prostaglandins Other Lipid Mediat
+- new | 2024 | 39203947 | Randomized Controlled Trial | LDL-Cholesterol-Lowering Effects of a Dietary Supplement Containing Onion and Garlic Extract Used in Healthy Volunteers. | Nutrients
+- new | 2024 | 39113105 | Meta-Analysis | Garlic consumption can reduce the risk of dyslipidemia: a meta-analysis of randomized controlled trials. | J Health Popul Nutr
+- new | 2024 | 39471241 | Retraction Notice | Statement of Retraction: The favorable effects of garlic intake on metabolic profiles, hs-CRP, biomarkers of oxidative stress and pregnancy outcomes in pregnant women at risk for p | J Matern Fetal Neonatal Med
+- new | 2024 | 39279902 | Review | Exploring the health benefits of raw white garlic consumption in humans: a mini review. | Front Nutr
+- new | 2024 | 39817107 |  | Antibacterial Activity of Crude Momordica charantia, Cassia alata, and Allium sativum Methanolic Extracts on Leptospira interrogans serovar Manilae. | Acta Med Philipp
+- HELD REF-3418 | 2024 | 37517570 | Meta-Analysis/Systematic Review | Effect of garlic on the components of metabolic syndrome: A systematic review and meta-analysis of randomized controlled trials. | J Ethnopharmacol
+- new | 2024 | 38892625 | Systematic Review/Meta-Analysis | Effects of Garlic on Glucose Parameters and Lipid Profile: A Systematic Review and Meta-Analysis on Randomized Controlled Trials. | Nutrients
+- new | 2024 | 39250620 | Randomized Controlled Trial | Prospective, randomized, placebo-controlled, two-arm study to evaluate the efficacy of coadministration of garlic as a hydrogen sulfide donor and tadalafil in patients with erectil | Indian J Pharmacol
+- new | 2024 | 38881876 | Systematic Review | Safety classification of herbal medicine use among hypertensive patients: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 39001718 | Randomized Controlled Trial | Randomized, double-blind clinical trial evaluating the impact of freeze-dried garlic extract capsules on blood pressure, lipid profile, and nitric oxide levels in individuals at ri | Horm Mol Biol Clin Investig
+- new | 2024 | 38892688 | Randomized Controlled Trial | Effect of Encapsulated Purple Garlic Oil on Microvascular Function and the Components of Metabolic Syndrome: A Randomized Placebo-Controlled Study-The ENDOTALLIUM Study. | Nutrients
+- new | 2024 | 39479679 |  | A double-blind, randomized control trial to investigate the therapeutic potential of garlic scapes for high apoprotein E levels in a high-Fat diet-induced hypercholesteremic rat mo | Food Sci Nutr
+- new | 2024 | 38841372 |  | Current use of medicinal plants for children's diseases among mothers in Southern Romania. | Front Pharmacol
+- new | 2024 | 38462859 | Randomized Controlled Trial | <em>Allium Sativum</em> Oil as an Alternative Non-Vital Pulpotomy Medicament in Primary Teeth - A Randomised Controlled Trial. | J Coll Physicians Surg Pak
+- new | 2024 | 39528940 |  | Garlic stalk waste and arbuscular mycorrhizae mitigate challenges in continuously monocropping eggplant obstacles by modulating physiochemical properties and fungal community struc | BMC Plant Biol
+- new | 2024 | 38563400 |  | The association between raw garlic consumption and the risk of depressive symptoms: the TCLSIH cohort study. | Food Funct
+- new | 2024 | 39314742 |  | Effects of dietary supplementation with vitamin A, D(3), E, and garlic on heat detection, pregnancy rate, and serum profile in anestrus dairy cows. | Vet Anim Sci
+- new | 2024 | 39553650 |  | Impact of NPS rates on growth and yield of garlic (Allium sativum L.) varieties in greenhouse. | Heliyon
+- HELD REF-0649 | 2023 | 37686723 | Randomized Controlled Trial | Antihypertensive Effects of an Optimized Aged Garlic Extract in Subjects with Grade I Hypertension and Antihypertensive Drug Therapy: A Randomized, Triple-Blind Controlled Trial. | Nutrients
+- HELD REF-2430 | 2023 | 36819702 | Systematic Review | Allium sativum: A potential natural compound for NAFLD prevention and treatment. | Front Nutr
+- new | 2023 | 37109395 | Review | The Use of Medicinal Plants in Blood Vessel Diseases: The Influence of Gender. | Life (Basel)
+- new | 2023 | 35348024 | Meta-Analysis/Systematic Review | The association of garlic intake and cardiovascular risk factors: A systematic review and meta-analysis. | Crit Rev Food Sci Nutr
+- new | 2023 | 37102080 |  | Effect of Allium sativum and Olea europaea on serum lipids in patients with diabetes mellitus. | J Taibah Univ Med Sci
+- new | 2023 | 38068566 |  | In Vitro Conservation of Mexican Garlic Varieties by Minimal Growth. | Plants (Basel)
+- new | 2023 | 38223588 | Meta-Analysis | Garlic supplementation for the treatment of chronic liver disease: a meta-analysis of randomized controlled trials. | Afr Health Sci
+- new | 2023 | 37025430 |  | Hepatoprotective Effect of Ethanolic Extract of Garlic Against Reserpine Induced Toxicity in Wistar Rats. | Indian J Clin Biochem
+- new | 2023 | 37637574 |  | Traditional Vietnamese Medicine Containing Garlic Extract for Patients With Non-severe COVID-19: A Phase-II, Double-Blind, Randomized Controlled Trial. | Cureus
+- new | 2023 | 37481521 | Systematic Review/Meta-Analysis | Effects of garlic supplementation on components of metabolic syndrome: a systematic review, meta-analysis, and meta-regression of randomized controlled trials. | BMC Complement Med Ther
+- new | 2023 | 37855015 |  | The Effect of Garlic (Allium Sativum) on Polycystic Ovary Syndrome Related Hormones and Glycemic Parameters: A Randomized, Double-Blinded Clinical Trial. | Int J Prev Med
+- new | 2023 | 37849591 |  | Effects of S-Allylcysteine-Rich Garlic Extract and Dietary Inorganic Nitrate Formula on Blood Pressure and Salivary Nitric Oxide: An Open-Label Clinical Trial Among Hypertensive Su | Cureus
+- new | 2023 | 36973718 | Clinical Trial Protocol | L-arginine and aged garlic extract for the prevention of migraine: a study protocol for a randomised, double-blind, placebo-controlled, phase-II trial (LARGE trial). | BMC Neurol
+- new | 2023 | 36998289 |  | Effectiveness of Fortified Garlic Extract Oral Capsules as Adjuvant Therapy in Hospitalized Patients with Coronavirus Disease 2019: A Triple-Blind Randomized Controlled Clinical Tr | Curr Ther Res Clin Exp
+- new | 2023 | 37361940 | Review | Efficacy and Safety of Add-On Plant-Based Drugs for COVID-19 Patients: A Review of the Randomized Control Trials. | Infect Drug Resist
+- new | 2023 | 38008957 | Randomized Controlled Trial | Synergistic effect of Moringa oleifera and Allium sativum on BMI and lipid profile: A randomized controlled trial. | Pak J Pharm Sci
+- new | 2023 | 37047205 |  | Thiosulfinate-Enriched Allium sativum Extract Exhibits Differential Effects between Healthy and Sepsis Patients: The Implication of HIF-1α. | Int J Mol Sci
+- new | 2023 | 37513556 | Controlled Clinical Trial | Effect of Black Garlic Consumption on Endothelial Function and Lipid Profile: A Before-and-After Study in Hypercholesterolemic and Non-Hypercholesterolemic Subjects. | Nutrients
+- new | 2023 | 36721177 | Randomized Controlled Trial | Garlic supplementation improves intestinal transit time, lipid accumulation product and cardiometabolic indices in subjects with metabolic syndrome: A randomized controlled trial. | Phytother Res
+- new | 2023 | 36640154 | Meta-Analysis/Systematic Review | Effect of garlic extract on markers of lipid metabolism and inflammation in coronary artery disease (CAD) patients: A systematic review and meta-analysis. | Phytother Res
+- new | 2023 | 36942042 |  | The Therapeutic Impact of Garlic (Allium Sativum) on Oxidative Stress Markers among Polycystic Ovary Syndrome Patients: A Randomized, Double-Blinded Clinical Trial. | Int J Prev Med
+- new | 2023 | 37203803 | Randomized Controlled Trial | Push out bond strength of fiber post to radicular dentin using Q-mix, lemon/garlic extract, and riboflavin activated by photodynamic therapy as a final canal irrigant. | Eur Rev Med Pharmacol Sci
+- new | 2023 | 37170623 | Randomized Controlled Trial | Garlic supplementation attenuates cycling exercise-induced oxidative inflammation but fails to improve time trial performance in healthy adults. | J Int Soc Sports Nutr
+- new | 2023 | 38133246 |  | Assessing the In Vitro and In Vivo Effect of Supplementation with a Garlic (Allium sativum) and Oregano (Origanum vulgare) Essential Oil Mixture on Digestibility in West African Sh | Vet Sci
+- new | 2023 | 36978543 |  | Effects of Processing Methods and Inclusion Levels of Dried Garlic on In Vitro Fermentation and Methane Production in a Corn Silage-Based Substrate. | Animals (Basel)
+- new | 2023 | 37274705 |  | Effect of garlic genotypes (Allium sativum L.) on phenotype, growth, yield-related attributes, and nutritional quality at Bule Hora agro-ecology. | Heliyon
+- new | 2022 | 35309401 |  | Effects of essential oils on potato tuber sprouting at room temperature storage in Ethiopia. | Heliyon
+- new | 2022 | 35266219 | Randomized Controlled Trial | Evaluating the effects of dark chocolate formulated with micro-encapsulated fermented garlic extract on cardio-metabolic indices in hypertensive patients: A crossover, triple-blind | Phytother Res
+- new | 2022 | 40236971 |  | A randomized, Double-blind Clinical Trial of the Three-month Effect of Garlic Administration on Cardiac Outcomes in Patients with Heart Failure. | ARYA Atheroscler
+- new | 2022 | 34302129 | Case Reports | Attenuation of chronic tension headache frequency and severity with daily L-arginine and aged garlic extract dietary supplementation. | Eur J Clin Nutr
+- new | 2022 | 36576698 | Meta-Analysis/Systematic Review | Systematic review and meta-analysis of the effect of garlic in patients with non-alcoholic fatty liver disease. | Indian J Gastroenterol
+- new | 2022 | 36222178 | Systematic Review | A systematic review of randomized controlled trials related to the effects of garlic supplementation on platelet aggregation. | Phytother Res
+- new | 2022 | 36352899 |  | Effect of garlic extract on weight loss and gut microbiota composition in obese women: A double-blind randomized controlled trial. | Front Nutr
+- new | 2022 | 35852013 | Randomized Controlled Trial/Equivalence Trial | Comparative evaluation of the antibacterial effect of Allium sativum, calcium hydroxide and their combination as intracanal medicaments in infected mature anterior teeth: A randomi | Int Endod J
+- new | 2022 | 35936152 |  | A Comparative Study on Clinical Evaluation of the Hypolipidemic Effects of Allium sativum, Trigonella foenum-graecum, Commiphora mukul, Picrorhiza kurroa, and Piper nigrum: A Pilot | Cureus
+- new | 2022 | 35276764 | Randomized Controlled Trial | Effects of an Optimized Aged Garlic Extract on Cardiovascular Disease Risk Factors in Moderate Hypercholesterolemic Subjects: A Randomized, Crossover, Double-Blind, Sustainedand Co | Nutrients
+- new | 2022 | 35505122 | Randomized Controlled Trial | Improved microvascular reactivity after aged garlic extract intake is not mediated by hydrogen sulfide in older adults at risk for cardiovascular disease: a randomized clinical tri | Eur J Nutr
+- new | 2022 | 35580085 | Research Support, Non-U.S. Gov't | Garlic (Allium sativum) feature-specific nutrient dosage based on using machine learning models. | PLoS One
+- new | 2022 | 35610698 |  | A cross-sectional study of herbal medicine use and contributing factors among pregnant women on antenatal care follow-up at Dessie Referral Hospital, Northeast Ethiopia. | BMC Complement Med Ther
+- new | 2022 | 36008904 | Multicenter Study | Effect of garlic essential oil in 97 patients hospitalized with covid-19: A multi-center experience. | Pak J Pharm Sci
+- new | 2022 | 35791476 | Randomized Controlled Trial | Analysis of dose and duration dependent effects of Allium sativum Linn and other hypocholesterolemic agents exhibited on dyslipidemia in patients with essential hypertension. | Pak J Pharm Sci
+- new | 2022 | 36551850 |  | Black Garlic and Thiosulfinate-Enriched Extracts as Adjuvants to Ceftriaxone Treatment in a Rat Peritonitis Model of Sepsis. | Biomedicines
+- new | 2022 | 36558397 | Randomized Controlled Trial | Effects of Fermented Garlic Extract Containing Nitric Oxide Metabolites on Blood Flow in Healthy Participants: A Randomized Controlled Trial. | Nutrients
+- new | 2022 | 35529512 |  | Studying the Effect of Garlic Consumption and Endurance Training on Serum Levels of Some Pro-and Anti-inflammatory Cytokines in Female Mice with Breast Cancer - A Randomized Trial. | Int J Prev Med
+- new | 2021 | 33868439 |  | Aged Garlic Extract Reduces IL-6: A Double-Blind Placebo-Controlled Trial in Females with a Low Risk of Cardiovascular Disease. | Evid Based Complement Alternat Med
+- new | 2021 | 34335819 |  | The Effect of Garlic Tablets on the Endometriosis-Related Pains: A Randomized Placebo-Controlled Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2021 | 34386444 |  | The Effect of Garlic (Allium sativum L) Supplementation on Circulating Adiponectin: a Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Clin Nutr Res
+- new | 2021 | 33974725 | Randomized Controlled Trial | Effects of garlic powder supplementation on metabolic syndrome components, insulin resistance, fatty liver index, and appetite in subjects with metabolic syndrome: A randomized cli | Phytother Res
+- new | 2021 | 31357923 | Meta-Analysis/Systematic Review | The effects of garlic supplementation on weight loss: A systematic review and meta-analysis of randomized controlled trials. | Int J Vitam Nutr Res
+- new | 2021 | 33484037 | Systematic Review | Effects of garlic supplementation on oxidative stress and antioxidative capacity biomarkers: A systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2021 | 34760020 |  | Effect of Garlic (Allium sativum) Supplementation on Premenstrual Disorders: A Randomized, Double-Blind, Placebo-Controlled Trial. | Evid Based Complement Alternat Med
+- new | 2021 | 33792129 | Meta-Analysis/Systematic Review | Systematic review and meta-analysis of randomised, controlled trials on the effects of garlic supplementation on serum adiponectin and leptin levels. | Int J Clin Pract
+- new | 2021 | 34901093 |  | In vitro Activity of Allicin Alone and in Combination With Antifungal Drugs Against Microsporum canis Isolated From Patients With Tinea Capitis. | Front Med (Lausanne)
+- new | 2021 | 35003565 |  | The clinical and radiographic evaluation of Allium sativum oil (garlic oil) in comparison with mineral trioxide aggregate in primary molar pulpotomy. | Dent Res J (Isfahan)
+- new | 2021 | 32051282 | Meta-Analysis/Systematic Review | Effect of garlic intake on inflammatory mediators: a systematic review and meta-analysis of randomised controlled trials. | Postgrad Med J
+- new | 2021 | 34627133 | Meta-Analysis/Systematic Review | Effects of garlic extract on lipid profile in patients with coronary artery disease: A systematic review and meta-analysis of randomised clinical trials. | Int J Clin Pract
+- new | 2021 | 34776795 |  | Growth and Bulb Yield of Garlic as Influenced by Clove Size. | ScientificWorldJournal
+- new | 2021 | 34262716 |  | Effect of garlic powder supplementation on blood pressure and hs-C-reactive protein among nonalcoholic fatty liver disease patients: A randomized, double-blind, placebo-controlled  | Food Sci Nutr
+- new | 2021 | 34804894 |  | Effects of a polyherbal formulation on the quality of life and survival of patients with common upper gastrointestinal cancers: A randomized placebo-controlled trial. | Avicenna J Phytomed
+- new | 2021 | 34496450 | Randomized Controlled Trial | The effect of garlic (Allium sativum) supplementation on the lipid parameters and blood pressure levels in women with polycystic ovary syndrome: A randomized controlled trial. | Phytother Res
+- new | 2021 | 34148335 |  | Evaluate the Therapeutic Effect of Allicin (L-cysteine) on Clinical Presentation and Prognosis in Patients with COVID-19. | Eur J Transl Myol
+- new | 2020 | 31477394 | Observational Study | Allergic hypersensitivity to garlic and onion in children and adults. | Allergol Immunopathol (Madr)
+- new | 2020 | 32836826 | Review | Antiviral potential of garlic (Allium sativum) and its organosulfur compounds: A systematic update of pre-clinical and clinical data. | Trends Food Sci Technol
+- new | 2020 | 33293771 |  | Beneficial effect of aged garlic extract on periodontitis: a randomized controlled double-blind clinical study. | J Clin Biochem Nutr
+- new | 2020 | 31490311 | Randomized Controlled Trial | Effect of Topical Garlic on Wound Healing and Scarring: A Clinical Trial. | Dermatol Surg
+- new | 2020 | 32444050 | Meta-Analysis/Systematic Review | The effects of garlic supplementation on oxidative stress markers: A systematic review and meta-analysis of randomized controlled trials. | Complement Ther Med
+- new | 2020 | 32135032 | Meta-Analysis/Systematic Review | Effects of garlic supplementation on liver enzymes: A systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2020 | 32143889 | Research Support, Non-U.S. Gov't/Systematic Review | The effect of garlic on vascular function: A systematic review of randomized clinical trials. | Clin Nutr
+- new | 2020 | 32010327 |  | Short-term impact of aged garlic extract on endothelial function in diabetes: A randomized, double-blind, placebo-controlled trial. | Exp Ther Med
+- new | 2020 | 32673835 | Meta-Analysis/Systematic Review | Effects of garlic supplementation on serum inflammatory markers: A systematic review and meta-analysis of randomized controlled trials. | Diabetes Metab Syndr
+- new | 2020 | 32204715 | Historical Article/Review | Historical ethnobotanical review of medicinal plants used to treat children diseases in Romania (1860s-1970s). | J Ethnobiol Ethnomed
+- new | 2020 | 32010328 |  | Effects of aged garlic extract on arterial elasticity in a placebo-controlled clinical trial using EndoPAT™ technology. | Exp Ther Med
+- new | 2020 | 32349742 | Randomized Controlled Trial | The effect of aged garlic extract on the atherosclerotic process - a randomized double-blind placebo-controlled trial. | BMC Complement Med Ther
+- new | 2020 | 32159257 | Randomized Controlled Trial | A randomized, double-blind, placebo-controlled clinical trial, evaluating the garlic supplement effects on some serum biomarkers of oxidative stress, and quality of life in women w | Int J Clin Pract
+- new | 2020 | 32478922 |  | The effects of garlic (Allium sativum) supplementation on inflammatory biomarkers, fatigue, and clinical symptoms in patients with active rheumatoid arthritis: A randomized, double | Phytother Res
+- new | 2020 | 33623341 |  | Clinical and Radiographic Evaluation of the Efficacy of Formocresol, Allium sativum Oil, and Aloe barbadensis Gel as Pulpotomy Medicaments in Primary Molars: A Randomized Controlle | Int J Clin Pediatr Dent
+- new | 2020 | 32010322 |  | Aged garlic extract reduces low attenuation plaque in coronary arteries of patients with diabetes: A randomized, double-blind, placebo-controlled study. | Exp Ther Med
+- new | 2020 | 32010325 |  | Garlic lowers blood pressure in hypertensive subjects, improves arterial stiffness and gut microbiota: A review and meta-analysis. | Exp Ther Med
+- new | 2020 | 33437712 |  | Clinical Quantitative Antibacterial Potency of Garlic-Lemon Against Sodium Hypochlorite in Infected Root Canals: A Double-blinded, Randomized, Controlled Clinical Trial. | J Int Soc Prev Community Dent
+- new | 2020 | 32010324 |  | Aged garlic extract reduces left ventricular myocardial mass in patients with diabetes: A prospective randomized controlled double-blind study. | Exp Ther Med
+- HELD REF-2838 | 2019 | 31511230 | Randomized Controlled Trial | Effects of Helicobacter pylori treatment and vitamin and garlic supplementation on gastric cancer incidence and mortality: follow-up of a randomized intervention trial. | BMJ
+- new | 2019 | 30370629 | Meta-Analysis/Systematic Review | Effect of garlic supplementation on serum C-reactive protein level: A systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2019 | 31518044 | Randomized Controlled Trial | Aged garlic extract preserves cutaneous microcirculation in patients with increased risk for cardiovascular diseases: A double-blinded placebo-controlled study. | Int Wound J
+- new | 2019 | 31660038 | Meta-Analysis/Systematic Review | Allicin as add-on therapy for Helicobacter pylori infection: A systematic review and meta-analysis. | World J Gastroenterol
+- HELD REF-2536 | 2019 | 30049636 | Meta-Analysis/Systematic Review | The effect of garlic on lipid profile and glucose parameters in diabetic patients: A systematic review and meta-analysis. | Prim Care Diabetes
+- new | 2019 | 31516873 |  | Clinical and Radiographic Evaluation of Allium sativum Oil (Garlic Oil) in Comparison with Formocresol in Primary Molar Pulpotomy. | J Int Soc Prev Community Dent
+- new | 2019 | 30683061 | Comparative Study/Randomized Controlled Trial | Evaluating the effect of garlic extract on serum inflammatory markers of peritoneal dialysis patients: a randomized double-blind clinical trial study. | BMC Nephrol
+- new | 2019 | 30949665 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Garlic Supplementation Reduces Circulating C-reactive Protein, Tumor Necrosis Factor, and Interleukin-6 in Adults: A Systematic Review and Meta-analysis of Randomized Controlled Tr | J Nutr
+- new | 2019 | 30238636 | Randomized Controlled Trial | Gastric administration of garlic powder containing the trpa1- agonist allicin induces specific epigastric symptoms and gastric relaxation in healthy subjects. | Neurogastroenterol Motil
+- new | 2018 | 30155945 | Meta-Analysis/Systematic Review | The association of garlic with Helicobacter pylori infection and gastric cancer risk: A systematic review and meta-analysis. | Helicobacter
+- new | 2018 | 29937536 | Randomized Controlled Trial | Allicin Bioavailability and Bioequivalence from Garlic Supplements and Garlic Foods. | Nutrients
+- new | 2018 | 30109827 | Review | Prevention of Cardiovascular Diseases with Anti-Inflammatory and Anti- Oxidant Nutraceuticals and Herbal Products: An Overview of Pre-Clinical and Clinical Studies. | Recent Pat Inflamm Allergy Drug Discov
+- new | 2018 | 29842963 | Systematic Review | The use of medicinal plants by pregnant women in Africa: A systematic review. | J Ethnopharmacol
+- new | 2018 | 30443217 |  | Black Garlic Improves Heart Function in Patients With Coronary Heart Disease by Improving Circulating Antioxidant Levels. | Front Physiol
+- new | 2018 | 28956671 | Randomized Controlled Trial | Effect of Raw Crushed Garlic (Allium sativum L.) on Components of Metabolic Syndrome. | J Diet Suppl
+- new | 2018 | 29938856 |  | Activity of preparations from Spilanthes oleracea, propolis, Nigella sativa, and black garlic on different microorganisms involved in oral diseases and on total human salivary bact | Phytother Res
+- new | 2018 | 30280751 | Randomized Controlled Trial | Differential responses of endothelial integrity upon the intake of microencapsulated garlic, tomato extract or a mixture: a single-intake, randomized, double-blind, placebo-control | Food Funct
+- new | 2018 | 29604599 | Randomized Controlled Trial | Garlic extract favorably modifies markers of endothelial function in obese patients -randomized double blind placebo-controlled nutritional intervention. | Biomed Pharmacother
+- new | 2018 | 30518377 |  | Treatments used for malaria in young Ethiopian children: a retrospective study. | Malar J
+- new | 2018 | 30195882 | Randomized Controlled Trial | The effect of a garlic supplement on the pro-inflammatory adipocytokines, resistin and tumor necrosis factor-alpha, and on pain severity, in overweight or obese women with knee ost | Phytomedicine
+- new | 2018 | 30619868 |  | The Effect of Kyolic Aged Garlic Extract on Gut Microbiota, Inflammation, and Cardiovascular Markers in Hypertensives: The GarGIC Trial. | Front Nutr
+- new | 2018 | 30211991 | Randomized Controlled Trial | The Efficacy of Aged Garlic Extract on Gingivitis - A Randomized Clinical Trial. | J Clin Dent
+- new | 2017 | 28613376 |  | Genetic variability of garlic accessions as revealed by agro-morphological traits evaluated under different environments. | Genet Mol Res
+- new | 2017 | 28078428 | Published Erratum | Erratum to: Efficacy and safety of fermented garlic extract on hepatic function in adults with elevated serum gamma-glutamyl transpeptidase levels: a double-blind, randomized, plac | Eur J Nutr
+- new | 2017 | 29104381 |  | Comparison of Antimicrobial Efficacy of Green Tea, Garlic with Lime, and Sodium Fluoride Mouth Rinses against Streptococcus mutans, Lactobacilli species, and Candida albicans in Ch | Int J Clin Pediatr Dent
+- new | 2017 | 27743130 | Randomized Controlled Trial | Efficacy and safety of fermented garlic extract on hepatic function in adults with elevated serum gamma-glutamyl transpeptidase levels: a double-blind, randomized, placebo-controll | Eur J Nutr
+- new | 2017 | 28554988 | Randomized Controlled Trial | Effects of garlic on brachial endothelial function and capacity of plasma to mediate cholesterol efflux in patients with coronary artery disease. | Anatol J Cardiol
+- new | 2017 | 29403603 |  | The effect of consumption of garlic tablet on proteins oxidation biomarkers in postmenopausal osteoporotic women: A randomized clinical trial. | Electron Physician
+- new | 2017 | 28214690 | Clinical Trial, Phase I | Safety and efficacy of a polyherbal formulation for the management of dyslipidemia and hyperglycemia in patients with advanced-stage of type-2 diabetes. | Biomed Pharmacother
+- HELD REF-0204 | 2016 | 26764326 | Meta-Analysis/Review | Garlic Lowers Blood Pressure in Hypertensive Individuals, Regulates Serum Cholesterol, and Stimulates Immunity: An Updated Meta-analysis and Review. | J Nutr
+- new | 2016 | 26656227 | Systematic Review | An umbrella review of garlic intake and risk of cardiovascular disease. | Phytomedicine
+- new | 2016 | 26764327 | Review | Garlic and Heart Disease. | J Nutr
+- new | 2016 | 26522661 | Meta-Analysis/Systematic Review | Effect of garlic on plasma lipoprotein(a) concentrations: A systematic review and meta-analysis of randomized controlled clinical trials. | Nutrition
+- new | 2016 | 26561055 | Research Support, Non-U.S. Gov't/Review | Antiatherosclerotic and Cardioprotective Effects of Time-Released Garlic Powder Pills. | Curr Pharm Des
+- new | 2016 | 27347407 |  | Intake of black-vinegar-mash-garlic enhances salivary release of secretory IgA: A randomized, double-blind, placebo-controlled, parallel-group study. | Biomed Rep
+- HELD REF-1788 | 2016 | 26656228 | Review | Traditional herbs: a remedy for cardiovascular disorders. | Phytomedicine
+- new | 2016 | 27563431 |  | Effect of Garlic and Lemon Juice Mixture on Lipid Profile and Some Cardiovascular Risk Factors in People 30-60 Years Old with Moderate Hyperlipidaemia: A Randomized Clinical Trial. | Int J Prev Med
+- new | 2016 | 26954484 | Randomized Controlled Trial | The effects of garlic extract upon endothelial function, vascular inflammation, oxidative stress and insulin resistance in adults with type 2 diabetes at high cardiovascular risk.  | J Diabetes Complications
+- new | 2016 | 27761425 |  | Comparison of antiplatelet activity of garlic tablets with cardio-protective dose of aspirin in healthy volunteers: a randomized clinical trial. | Avicenna J Phytomed
+- new | 2016 | 28191330 |  | Does Garlic Supplementation Control Blood Pressure in Patients with Severe Coronary Artery Disease? A Clinical Trial Study. | Iran Red Crescent Med J
+- new | 2016 | 26955623 |  | Effect of garlic powder consumption on body composition in patients with nonalcoholic fatty liver disease: A randomized, double-blind, placebo-controlled trial. | Adv Biomed Res
+- new | 2015 | 25411831 | Meta-Analysis | Meta-analysis: Does garlic intake reduce risk of gastric cancer? | Nutr Cancer
+- HELD REF-3417 | 2015 | 26693740 | Meta-Analysis/Review | Garlic intake lowers fasting blood glucose: meta-analysis of randomized controlled trials. | Asia Pac J Clin Nutr
+- new | 2015 | 25837272 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Garlic for hypertension: A systematic review and meta-analysis of randomized controlled trials. | Phytomedicine
+- new | 2015 | 26351508 |  | Allium sativum L. Improves Visual Memory and Attention in Healthy Human Volunteers. | Evid Based Complement Alternat Med
+- new | 2015 | 26605139 |  | Salivary antioxidants of male athletes after aerobic exercise and garlic supplementation on: A randomized, double blind, placebo-controlled study. | J Oral Biol Craniofac Res
+- HELD REF-3413 | 2014 | 25386977 | Systematic Review | Garlic for the common cold. | Cochrane Database Syst Rev
+- new | 2014 | 25489404 |  | Garlic powder intake and cardiovascular risk factors: a meta-analysis of randomized controlled clinical trials. | Nutr Res Pract
+- new | 2014 | 24595942 | Randomized Controlled Trial | The effect of garlic powder on human urinary cytokine excretion. | Urol J
+- new | 2013 | 23215996 | Research Support, Non-U.S. Gov't/Systematic Review | The roles of garlic on the lipid parameters: a systematic review of the literature. | Crit Rev Food Sci Nutr
+- new | 2013 | 24383002 |  | Antihyperlipidemic effect of a polyherbal mixture in streptozotocin-induced diabetic rats. | J Lipids
+- new | 2012 | 22234974 | Meta-Analysis/Research Support, Non-U.S. Gov't | A meta-analysis of randomized, double-blind, placebo-controlled trials for the effects of garlic on serum lipid profiles. | J Sci Food Agric
+- new | 2012 | 22419312 | Systematic Review | Garlic for the common cold. | Cochrane Database Syst Rev
+- new | 2012 | 22895963 | Systematic Review | Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients. | Cochrane Database Syst Rev
+- new | 2012 | 22686865 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of breastfeeding and herbs. | Breastfeed Med
+- new | 2009 | 19588383 | Systematic Review | Garlic for the common cold. | Cochrane Database Syst Rev
+- new | 2009 | 19922253 | Review | Indigenous drugs in ischemic heart disease in patients with diabetes. | J Altern Complement Med
+- new | 2009 | 19555517 | Meta-Analysis/Systematic Review | The impact of garlic on lipid parameters: a systematic review and meta-analysis. | Nutr Res Rev
+- new | 2008 | 19017826 | Meta-Analysis | Effects of garlic on blood pressure in patients with and without systolic hypertension: a meta-analysis. | Ann Pharmacother
+- new | 2008 | 18982874 | Review | Statin alternatives or just placebo: an objective review of omega-3, red yeast rice and garlic in cardiovascular therapeutics. | Chin Med J (Engl)
+- new | 2007 | 17885009 | Research Support, Non-U.S. Gov't/Systematic Review | Does garlic reduce risk of colorectal cancer? A systematic review. | J Nutr
+- new | 2007 | 17760729 | Letter/Randomized Controlled Trial/Research Support, N.I.H., Intramural | Garlic, vitamin, and antibiotic treatment for Helicobacter pylori: a randomized factorial controlled trial. | Helicobacter
+- new | 2006 | 16484554 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Aged garlic extract retards progression of coronary artery calcification. | J Nutr
+- new | 2005 | 15916450 | Review | Herb-drug interactions: a literature review. | Drugs
+- new | 2005 | 15881870 | Comparative Study | Effect of garlic (Allium sativum) oil on exercise tolerance in patients with coronary artery disease. | Indian J Physiol Pharmacol
+- new | 2003 | 12696542 | Meta-Analysis/Systematic Review | A systematic review of the effectiveness of garlic as an anti-hyperlipidemic agent. | J Am Acad Nurse Pract
+- HELD REF-2437 | 2002 | 11740713 |  | The effect of garlic supplements on the pharmacokinetics of saquinavir. | Clin Infect Dis
+- new | 2002 | 12086586 |  | Aged garlic extract therapy for sickle cell anemia patients. | BMC Blood Disord
+- new | 2001 | 11268223 | Research Support, U.S. Gov't, P.H.S./Review | Garlic shows promise for improving some cardiovascular risk factors. | Arch Intern Med
+- new | 2001 | 11238803 | Review | Cholesterol-lowering effect of garlic extracts and organosulfur compounds: human and animal studies. | J Nutr
+- new | 2001 | 11434846 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of naturopathic extracts in the management of ear pain associated with acute otitis media. | Arch Pediatr Adolesc Med
+- new | 2000 | 10975959 | Meta-Analysis/Review | Garlic for treating hypercholesterolemia. A meta-analysis of randomized clinical trials. | Ann Intern Med
+- new | 2000 | 10938169 | Clinical Trial/Letter/Randomized Controlled Trial | Garlic as an insect repellent. | JAMA
+- new | 1998 | 9625398 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Garlic powder and plasma lipids and lipoproteins: a multicenter, randomized, placebo-controlled trial. | Arch Intern Med
+- new | 1996 | 23194617 |  | Influence of Allium sativum on oxidative stress status - a clinical investigation. | Phytomedicine
+- new | 1994 | 8064171 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | A meta-analysis of the effect of garlic on blood pressure. | J Hypertens
+- new | 1993 | 8363171 | Meta-Analysis | Effect of garlic on total serum cholesterol. A meta-analysis. | Ann Intern Med
+- new | 1993 | 8508009 | Clinical Trial/Randomized Controlled Trial | Effects of garlic coated tablets in peripheral arterial occlusive disease. | Clin Investig
+- new | 1992 | 1320966 | Clinical Trial/Controlled Clinical Trial | [A clinical study on allicin in the prevention of thrush in newborn infants]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 1990 | 2083173 | Clinical Trial/Randomized Controlled Trial | Therapy with garlic: results of a placebo-controlled, double-blind study. | Br J Clin Pract Suppl
+- new | 1990 | 2083172 | Clinical Trial/Randomized Controlled Trial | Effect of garlic on conjunctival vessels: a randomised, placebo-controlled, double-blind trial. | Br J Clin Pract Suppl
+- new | 1949 | 18142087 |  | [Effect of onion and garlic phytoncides on suppurative conjunctivitis in children]. | Sov Med [und]
+
+### PubMed SR - 132 hits, 46 not already listed above, 40 new
+- new | 2026 | 41695811 | Review | Unraveling phytochemistry and biofunctionality of black garlic: a systematic review. | Food Sci Biotechnol
+- HELD REF-2428 | 2025 | 40546677 | Review | Immunomodulatory effect of allium sativum in type 2 diabetes mellitus. | World J Exp Med
+- new | 2024 | 38051214 | Meta-Analysis/Systematic Review | Evidential support for garlic supplements against diabetic kidney disease: a preclinical meta-analysis and systematic review. | Food Funct
+- new | 2024 | 38706368 | Systematic Review | A Systematic Review of Herbal Interventions for the Management of Cardiovascular Diseases. | Curr Cardiol Rev
+- new | 2024 | 39343737 | Comparative Study/Meta-Analysis/Systematic Review | Alliaceae versus Brassicaceae for Dyslipidemia: State of the Art and Future Perspectives. Systematic Review and Meta-Analysis of Clinical Studies. | Phytother Res
+- new | 2024 | 38823853 | Meta-Analysis/Systematic Review | Meta-analysis of antimicrobial activity of Allium, Ocimum, and Thymus spp. confirms their promising application for increasing food safety. | Food Res Int
+- new | 2024 | 39917707 | Systematic Review | Antibiofilm efficacy of plant extracts as root canal irrigants in endodontics: a systematic literature review. | Front Dent Med
+- new | 2024 | 38559380 | Review | Psychochemical changes and functional properties of organosulfur and polysaccharide compounds of black garlic (Allium sativum L.). | Curr Res Food Sci
+- HELD REF-0648 | 2023 | 35193446 | Systematic Review | Garlic: A systematic review of the effects on cardiovascular diseases. | Crit Rev Food Sci Nutr
+- new | 2023 | 37140645 | Review | Potential antitumor activity of garlic against colorectal cancer: focus on the molecular mechanisms of action. | Eur J Nutr
+- new | 2023 | 38076037 |  | Therapeutic effects of garlic (Allium sativum) on female reproductive system: A systematic review. | Heliyon
+- new | 2023 | 37385425 | Meta-Analysis/Systematic Review | Influence of Garlic on the Glycemic Control and Lipid Profile in Animals with Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-analysis. | Planta Med
+- new | 2023 | 37725398 | Systematic Review/Research Support, Non-U.S. Gov't | Antibacterial activity of medicinal plants on the management of mastitis in dairy cows: A systematic review. | Vet Med Sci
+- new | 2022 | 35222725 | Review | Association and mechanism of garlic consumption with gastrointestinal cancer risk: A systematic review and meta-analysis. | Oncol Lett
+- new | 2022 | 35227185 | Systematic Review | In Vivo and In Vitro Anti-schistosomiasis Effect of Garlic: A Systematic Review. | Curr Drug Discov Technol
+- new | 2022 | 35629345 | Review | Herbal Medicines against Hydatid Disease: A Systematic Review (2000-2021). | Life (Basel)
+- new | 2022 | 34028311 |  | Flavor components, precursors, formation mechanisms, production and characterization methods: garlic, onion, and chili pepper flavors. | Crit Rev Food Sci Nutr
+- new | 2022 | 37377647 | Review | Therapeutic Effects and Mechanisms of Action of Garlic (Allium sativum) on Nonalcoholic Fatty Liver Disease: A Comprehensive Systematic Literature Review. | Evid Based Complement Alternat Med
+- new | 2022 | 35647341 | Review | Traditional medicinal plants used in the treatment of tuberculosis in Ethiopia: A systematic review. | Heliyon
+- new | 2021 | 34071454 | Meta-Analysis/Systematic Review | A Systematic Review and Meta-Analysis of Ayurvedic Herbal Preparations for Hypercholesterolemia. | Medicina (Kaunas)
+- HELD REF-3416 | 2021 | 35402472 | Systematic Review | Allium Vegetables, Garlic Supplements, and Risk of Cancer: A Systematic Review and Meta-Analysis. | Front Nutr
+- SEEN | 2021 | 33571752 | Research Support, Non-U.S. Gov't/Systematic Review | Garlic burn injuries- a systematic review of reported cases. | Am J Emerg Med
+- new | 2021 | 34829718 | Review | Garlic (Allium sativum L.) Bioactives and Its Role in Alleviating Oral Pathologies. | Antioxidants (Basel)
+- new | 2021 | 33301861 | Systematic Review | Anticancer potential of garlic and its bioactive constituents: A systematic and comprehensive review. | Semin Cancer Biol
+- new | 2021 | 34165846 | Systematic Review | Traditional plants with antioxidant properties in clinical trials-A systematic review. | Phytother Res
+- new | 2021 | 34273446 | Meta-Analysis/Systematic Review | The effect and underlying mechanisms of garlic extract against cognitive impairment and Alzheimer's disease: A systematic review and meta-analysis of experimental animal studies. | J Ethnopharmacol
+- new | 2021 | 33475054 | Systematic Review | Ethnomedicinal Plants for the Management of Diabetes Worldwide: A Systematic Review. | Curr Med Chem
+- new | 2021 | 34691218 | Review | Systematic Review of Medicinal Plants Used for Treatment of Diabetes in Human Clinical Trials: An ASEAN Perspective. | Evid Based Complement Alternat Med
+- new | 2020 | 31895803 | Meta-Analysis/Systematic Review | Garlic intake and the risk of colorectal cancer: A meta-analysis. | Medicine (Baltimore)
+- new | 2020 | 32055724 |  | Anthelminthic medicinal plants in veterinary ethnopharmacology: A network meta-analysis following the PRISMA-P and PROSPERO recommendations. | Heliyon
+- new | 2019 | 31703752 | Review | Therapeutic effects of garlic in cardiovascular atherosclerotic disease. | Chin J Nat Med
+- new | 2018 | 30487964 | Review | Aged Garlic and Cancer: A Systematic Review. | Int J Prev Med
+- new | 2018 | 29718835 | Meta-Analysis/Review | Anti-hyperlipidemia of garlic by reducing the level of total cholesterol and low-density lipoprotein: A meta-analysis. | Medicine (Baltimore)
+- new | 2017 | 28794869 | Review | Medicinal plants with promising antileishmanial activity in Iran: a systematic review and meta-analysis. | Ann Med Surg (Lond)
+- new | 2016 | 25945653 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Garlic consumption and colorectal cancer risk in man: a systematic review and meta-analysis. | Public Health Nutr
+- new | 2016 | 27268043 | Research Support, Non-U.S. Gov't/Systematic Review | Medicinal plants--prophylactic and therapeutic options for gastrointestinal and respiratory diseases in calves and piglets? A systematic review. | BMC Vet Res
+- new | 2014 | 25386091 | Meta-Analysis/Review | Consumption of garlic and risk of colorectal cancer: an updated meta-analysis of prospective studies. | World J Gastroenterol
+- HELD REF-3415 | 2014 | 24681077 | Meta-Analysis/Research Support, Non-U.S. Gov't | Allium vegetables and garlic supplements do not reduce risk of colorectal cancer, based on meta-analysis of prospective studies. | Clin Gastroenterol Hepatol
+- new | 2013 | 23590705 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Effect of garlic on serum lipids: an updated meta-analysis. | Nutr Rev
+- new | 2010 | 20858178 | Systematic Review | The efficacy and safety of herbal medicines used in the treatment of hyperlipidemia; a systematic review. | Curr Pharm Des
+- HELD REF-2436 | 2009 | 19719333 | Systematic Review | Interactions between herbal medicines and prescribed drugs: an updated systematic review. | Drugs
+- new | 2009 | 19627203 | Meta-Analysis/Research Support, Non-U.S. Gov't | The antidiabetic effect of onion and garlic in experimental diabetic rats: meta-analysis. | J Med Food
+- new | 2009 | 19749390 | Systematic Review | A systematic review on the influence of trial quality on the effect of garlic on blood pressure. | Neth J Med
+- new | 2001 | 11772128 | Systematic Review | Interactions between herbal medicines and prescribed drugs: a systematic review. | Drugs
+- new | 2000 | 11010950 | Meta-Analysis/Research Support, U.S. Gov't, P.H.S. | Garlic consumption and cancer prevention: meta-analyses of colorectal and stomach cancers. | Am J Clin Nutr
+- new | 1994 | 15559024 | Review | Garlic: its cardio-protective properties. | Curr Opin Lipidol
+
+### PubMed SAFE - 1010 hits, 183 not already listed above, 178 new
+- new | 2026 | 42300751 |  | Aged garlic extract suppressed macrophage-mediated inflammation in acute respiratory distress syndrome. | Food Funct
+- new | 2026 | 42358358 | Review | The impact of garlic and its active metabolites on degenerative musculoskeletal diseases. | Front Pharmacol
+- new | 2026 | 42016604 | Review | Therapeutic potential of allicin against viral infections: Mechanisms and safety profile (Review). | Exp Ther Med
+- new | 2026 | 41571137 |  | Garlic-lemon-agaran blends as natural antioxidant candidates for nutraceutical applications. | Int J Biol Macromol
+- new | 2026 | 42234916 |  | Protective Effect of Garlic on Diazinon Induced Kidney Toxicity in Rat: A Biochemical and Histopathological Evaluation. | Iran J Kidney Dis
+- new | 2026 | 42846309 | Review | Garlic-derived bioactive components in neuropathic pain: molecular mechanisms and therapeutic promise. | Front Mol Neurosci
+- new | 2026 | 42320604 |  | Investigation of the effects of aged garlic extract and S- allylcysteine on endothelin-1 levels and histopathological findings in an ovalbumin-induced allergic rhinitis rat model. | Respir Med
+- new | 2026 | 42652371 |  | Cytocompatibility of Aqueous Garlic Extract on Human Cell Lines: Implications for Sustainability Utilization. | Int J Environ Res Public Health
+- new | 2025 | 41003866 | Review | Therapeutic role of allicin in gastrointestinal cancers: mechanisms and safety aspects. | Discov Oncol
+- new | 2025 | 40864228 |  | Allicin Attenuates Mitochondrial Calcium (Ca(2+)) Overload Induced by Acrylamide in Hepatocytes via the NAD(+)/SIRT3-FoxO3 Axis. | J Agric Food Chem
+- new | 2025 | 40004239 |  | Mechanism of Action and Interaction of Garlic Extract and Established Therapeutics in Prostate Cancer. | Int J Mol Sci
+- new | 2025 | 41625932 | Case Reports | Blistering Bulbs: The Hidden Dangers of Garlic as a Home Remedy. | Cureus
+- new | 2025 | 40098447 |  | Anticonstipation Activity of Garlic Fructans in Loperamide-Induced Constipated Mice: Impact of Polymerization Degree. | J Agric Food Chem
+- new | 2025 | 41115511 |  | Allicin attenuates doxorubicin-induced testicular and systemic toxicity in rats via antioxidant and anti-apoptotic mechanisms. | Reprod Toxicol
+- new | 2025 | 41346957 |  | The Safety and Efficacy of an Immunomodulator Garlic-Based Cream (LeishG1) for Treating Uncomplicated Cutaneous Leishmaniasis: A Single-Blind, Multi-Center Study. | Health Sci Rep
+- new | 2025 | 40510448 | Case Reports | Unforeseen sequela of a traditional remedy: A garlic burn case report. | Malays Fam Physician
+- new | 2025 | 40171136 | Review | Pharmacokinetics of sulfur?containing compounds in aged garlic extract: S?Allylcysteine, S?1?propenylcysteine, S?methylcysteine, S?allylmercaptocysteine and others (Review). | Exp Ther Med
+- new | 2025 | 40807532 |  | Footprint of Domestic Processing on Safety and Functional Properties of Italian Black Garlic. | Foods
+- new | 2025 | 41263594 | Evaluation Study | Climate-Smart Remediation: Selenium-Biochar Dual Functionality Reduces Mercury Toxicity and Improves Selenium Biofortification in Garlic under Future CO(2) Scenarios. | J Agric Food Chem
+- new | 2025 | 40515635 | Research Support, Non-U.S. Gov't | Allium sativum -Derived Alliin and Allicin Stably Bind to α-Synuclein and Prevent Its Cytotoxic Aggregation. | Proteins
+- new | 2025 | 40942024 | Review | Aged Garlic Extract and Its Bioactive Molecules S-Allyl-Cysteine and S1-Propenyl-Cysteine: A Review Focusing on Evidences Supporting Their Use for Mitigating the Effects of Cigaret | Molecules
+- new | 2025 | 39628389 |  | Garlic Burns Mimicking a Bullous Dermatitis. | Dermatitis
+- new | 2025 | 41305007 | Review | Cracking the Sulfur Code: Garlic Bioactive Molecules as Multi-Target Blueprints for Drug Discovery. | Pharmaceuticals (Basel)
+- new | 2025 | 42008311 |  | Raw garlic homogenate ameliorates cardiometabolic effect of high caloric intake in Wistar rats. | Niger J Physiol Sci
+- new | 2024 | 39257403 |  | Self-reported garlic allergy. | World Allergy Organ J
+- new | 2024 | 39534288 |  | New nano-chemotherapeutic chitosans-garlic oil-antibiotics against diabetic foot virulent Proteus spp. | Iran J Microbiol
+- new | 2024 | 39060753 | Review | Allicin: a promising modulator of apoptosis and survival signaling in cancer. | Med Oncol
+- new | 2024 | 36503329 | Review | Garlic (Allium sativum L.) in diabetes and its complications: Recent advances in mechanisms of action. | Crit Rev Food Sci Nutr
+- new | 2024 | 38783614 |  | Investigation of the Effects of Allicin on the Nasal Mucosa. | Ear Nose Throat J
+- new | 2024 | 39272534 |  | Garlic Extract Increased Acrylamide Formation in French Fries Obtained by Different Cooking Methods. | Foods
+- new | 2024 | 38411783 |  | Allicin Overcomes Doxorubicin Resistance of Breast Cancer Cells by Targeting the Nrf2 Pathway. | Cell Biochem Biophys
+- new | 2024 | 38442749 |  | Response of garlic (Allium sativum L.) to the combined toxicity of microplastics and arsenic. | Sci Total Environ
+- new | 2024 | 39105941 |  | Cytoprotective effect of garlic alone versus co-administration of garlic and resveratrol in adriamycin-induced lung toxicity in albino rat: light microscopic, ultrastructural and i | J Mol Histol
+- new | 2024 | 38514712 |  | N-benzyl-N-methyldecan-1-amine, derived from garlic, and its derivative alleviate 2,4-dinitrochlorobenzene-induced atopic dermatitis-like skin lesions in mice. | Sci Rep
+- new | 2024 | 39484636 |  | Chemical analysis of Alliin-Rich Allium sativum (Garlic) extract and its safety evaluation in Drosophila melanogaster. | Toxicol Rep
+- new | 2024 | 37951285 |  | Protective effects of melanoidins from black garlic on zearalenone-induced toxicity in zebrafish embryonic developmental model. | Comp Biochem Physiol C Toxicol Pharmacol
+- new | 2024 | 37436496 | Research Support, Non-U.S. Gov't | Allicin and Omega-3 fatty acids attenuates acetaminophen mediated renal toxicity and modulates oxidative stress, and cell apoptosis in rats. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 39130474 | Retracted Publication | Aged garlic therapeutic intervention targeting inflammatory pathways in pathogenesis of bowel disorders. | Heliyon
+- new | 2024 | 37615709 | Review | Revitalizing allicin for cancer therapy: advances in formulation strategies to enhance bioavailability, stability, and clinical efficacy. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 38200896 |  | Effect of a Garlic and Citrus Extract Supplement on the Lactation Performance and Carbon Footprint of Dairy Cows under Grazing Conditions in Chile. | Animals (Basel)
+- new | 2024 | 37775924 |  | Garlic Bulb Decay and Soft Rot Caused by the Cross-Kingdom Pathogen Burkholderia gladioli. | Plant Dis
+- new | 2024 | 39280321 |  | Black garlic exhibited hepatoprotective effect against monosodium glutamate-induced hepatotoxicity in animal model. | Narra J
+- new | 2024 | 37150987 | Review/Research Support, Non-U.S. Gov't | A Review on the Efficacy of Plant-derived Bio-active Compounds Curcumin and Aged Garlic Extract in Modulating Cancer and Age-related Diseases. | Curr Rev Clin Exp Pharmacol
+- new | 2024 | 38194996 | Review | Garlic-derived compounds: Epigenetic modulators and their antitumor effects. | Phytother Res
+- new | 2023 | 38026667 |  | Therapeutic effect of aged garlic extract on gingivitis in dogs. | Front Vet Sci
+- new | 2023 | 37709248 | Letter/Comment | Re-evaluating the genotoxicity of garlic oil: Dose-dependent effects and safety considerations. | Food Chem Toxicol
+- new | 2023 | 37238824 |  | Structural Characteristics and Immunomodulatory Effects of Melanoidins from Black Garlic. | Foods
+- new | 2023 | 37830900 |  | Allicin Alleviates Mitochondrial Dysfunction in Acrylamide-Induced Rat Kidney Involving the Regulation of SIRT1. | J Agric Food Chem
+- new | 2023 | 39022755 | Case Reports | Garlic: a potential food allergen? | J Food Allergy
+- new | 2023 | 36574498 |  | Natural Compound Allicin Containing Thiosulfinate Moieties as Transmembrane Protein 16A (TMEM16A) Ion Channel Inhibitor for Food Adjuvant Therapy of Lung Cancer. | J Agric Food Chem
+- new | 2023 | 36374623 | Case Reports | Topical garlic treatment for verruca plana triggers Koebner phenomenon: A case report. | J Cosmet Dermatol
+- new | 2023 | 35927401 |  | Fumigant toxicity and behavioral inhibition of garlic against red imported fire ants (Solenopsis invicta). | Environ Sci Pollut Res Int
+- new | 2023 | 37505671 |  | Anti-Leishmania amazonensis Activity, Cytotoxic Features, and Chemical Profile of Allium sativum (Garlic) Essential Oil. | Trop Med Infect Dis
+- new | 2023 | 36856009 | Research Support, Non-U.S. Gov't | Aged Garlic Extract Prevents Alcohol-Induced Cytotoxicity through Induction of Aldehyde Dehydrogenase 2 in the Liver of Mice. | Mol Nutr Food Res
+- new | 2023 | 36831179 |  | Molecular Screening of Bioactive Compounds of Garlic for Therapeutic Effects against COVID-19. | Biomedicines
+- new | 2023 | 36976984 |  | Residues and Safety Assessment of Cyantraniliprole and Indoxacarb in Wild Garlic (Allium vineale). | Toxics
+- new | 2023 | 37440131 |  | Antioxidant and anti-apoptotic potency of allicin and lycopene against methotrexate-induced cardiac injury in rats. | Environ Sci Pollut Res Int
+- new | 2023 | 36825728 |  | Organosulfur Compounds in Aged Garlic Extract Ameliorate Glucose Induced Diabetic Cardiomyopathy by Attenuating Oxidative Stress, Cardiac Fibrosis, and Cardiac Apoptosis. | Cardiovasc Hematol Agents Med Chem
+- new | 2023 | 36788861 | Case Reports | An Unexpected Reaction to Topical Garlic Medicament - A Case Report of Irritant Contact Dermatitis Successfully Managed in Primary Care. | Cureus
+- new | 2022 | 34749610 | Review | Garlic (Allium sativum L.): Its Chemistry, Nutritional Composition, Toxicity, and Anticancer Properties. | Curr Top Med Chem
+- new | 2022 | 35597736 | Case Reports | [Colchicum poisoning by confusion with wild garlic (Allium ursinum)]. | Rev Med Interne [fre]
+- new | 2022 | 36263122 | Review | Roles and mechanisms of garlic and its extracts on atherosclerosis: A review. | Front Pharmacol
+- new | 2022 | 36071845 | Review | Diallyl Disulfide: A Bioactive Garlic Compound with Anticancer Potential. | Front Pharmacol
+- new | 2022 | 32876538 |  | Pharmacoinformatics and hypothetical studies on allicin, curcumin, and gingerol as potential candidates against COVID-19-associated proteases. | J Biomol Struct Dyn
+- new | 2022 | 35975782 |  | Effects of aged garlic and ginkgo biloba extracts on the pharmacokinetics of sofosbuvir in rats. | Biopharm Drug Dispos
+- new | 2022 | 36325240 |  | Genotoxicity and 28-day repeated dose oral toxicity study of garlic essential oil in mice. | J Tradit Complement Med
+- new | 2022 | 36207430 | Published Erratum | Author Correction: Antioxidants (selenium and garlic) alleviated the adverse effects of tramadol on the reproductive system and oxidative stress markers in male rabbits. | Sci Rep
+- new | 2022 | 36010398 |  | Allicin Promoted Reducing Effect of Garlic Powder through Acrylamide Formation Stage. | Foods
+- new | 2022 | 35670728 |  | Effect of aqueous garlic (Allium sativum) extract against di-(2-ethylhexyl) phthalate induced reproductive toxicity in male mice. | Andrologia
+- new | 2022 | 35978015 |  | Antioxidants (selenium and garlic) alleviated the adverse effects of tramadol on the reproductive system and oxidative stress markers in male rabbits. | Sci Rep
+- new | 2022 | 35749673 | Letter | A New Explanation for the Mystery of Rasputin's Survival of Cyanide Poisoning: Eating Raw Garlic. | Chem Res Toxicol
+- new | 2022 | 35134476 | Review | Anticancer potential of allicin: A review. | Pharmacol Res
+- new | 2022 | 35730673 |  | Allicin attenuated hepatic ischemia/reperfusion injury in mice by regulating PPARγ-IRAK-M-TLR4 signal pathway. | Food Funct
+- new | 2022 | 35688033 |  | Allicin affects the pharmacokinetics of sulfadiazine and florfenicol by downregulating the expression of jejunum P-gp and BCRP in broilers. | Poult Sci
+- new | 2022 | 35459869 |  | AGR2-induced cholesterol synthesis drives lovastatin resistance that is overcome by combination therapy with allicin. | Acta Pharmacol Sin
+- new | 2021 | 33691515 | Case Reports | Garlic-induced face burn. | Med Leg J
+- new | 2021 | 34253103 |  | Wild garlic extract reduces lipid peroxidation in terbuthylazine-treated human erythrocytes. | Biomarkers
+- new | 2021 | 33587975 |  | Lipophilic compounds in garlic decrease the toxicity of methylmercury by forming sulfur adducts. | Food Chem Toxicol
+- new | 2021 | 33786052 |  | The in Vitro Antischistosomal Activity and Genotoxicity of the Active Ingredients of Allium sativum (allicin) and Curcuma longa (curcumin). | Iran J Parasitol
+- new | 2021 | 33570175 | Case Reports/Letter | Chronic paronychia and nail dystrophy: an atypical presentation of allergic contact dermatitis to garlic. | Int J Dermatol
+- new | 2021 | 34120280 |  | The potential neuroprotective effect of allicin and melatonin in acrylamide-induced brain damage in rats. | Environ Sci Pollut Res Int
+- new | 2021 | 34372660 |  | Quercetin and Allicin Can Alleviate the Hepatotoxicity of Lead (Pb) through the PI3K Signaling Pathway. | J Agric Food Chem
+- new | 2021 | 33882833 | Research Support, Non-U.S. Gov't | Allicin attenuates myocardial apoptosis, inflammation and mitochondrial injury during hypoxia-reoxygenation: an in vitro study. | BMC Cardiovasc Disord
+- new | 2021 | 33830385 |  | Garlic (Allium sativum) and Fu-ling (Poria cocos) mitigate lead toxicity by improving antioxidant defense mechanisms and chelating ability in the liver of grass carp (Ctenopharyngo | Ecotoxicology
+- HELD REF-2426 | 2020 | 32213941 | Review | Chemical Constituents and Pharmacological Activities of Garlic (Allium sativum L.): A Review. | Nutrients
+- HELD REF-2840 | 2020 | 31835095 | Research Support, Non-U.S. Gov't/Review | Garlic-derived bioactive compound S-allylcysteine inhibits cancer progression through diverse molecular mechanisms. | Nutr Res
+- new | 2020 | 32036533 | Review | Therapeutic role of garlic and vitamins C and E against toxicity induced by lead on various organs. | Environ Sci Pollut Res Int
+- new | 2020 | 32068926 | Review | Garlic (Allium sativum) as an antidote or a protective agent against natural or chemical toxicities: A comprehensive update review. | Phytother Res
+- new | 2020 | 32010326 | Review | Potential benefits of garlic and other dietary supplements for the management of hypertension. | Exp Ther Med
+- new | 2020 | 32786875 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Allicin, a Potent New Ornithine Decarboxylase Inhibitor in Neuroblastoma Cells. | J Nat Prod
+- new | 2020 | 31865585 |  | Protective effect of aged garlic extracts against hepatotoxicity induced by ethephon in Wistar albino rat. | Environ Sci Pollut Res Int
+- new | 2020 | 32040233 |  | Hepatoprotective effect of allicin against acetaminophen-induced liver injury: Role of inflammasome pathway, apoptosis, and liver regeneration. | J Biochem Mol Toxicol
+- new | 2019 | 31412555 | Review | Garlic (Allium sativum L.): A Brief Review of Its Antigenotoxic Effects. | Foods
+- new | 2019 | 31214286 |  | Anti-inflammatory effect of aged black garlic on 12-O-tetradecanoylphorbol-13-acetate-induced dermatitis in mice. | Nutr Res Pract
+- new | 2019 | 30911969 |  | The nephroprotective effects of allicin and ascorbic acid against cisplatin-induced toxicity in rats. | Environ Sci Pollut Res Int
+- new | 2019 | 31437569 |  | DNA damage and adverse neurological outcomes among garlic farmers exposed to organophosphate pesticides. | Environ Toxicol Pharmacol
+- new | 2019 | 31038061 |  | Enhancement in the Catalytic Activity of Human Salivary Aldehyde Dehydrogenase by Alliin from Garlic: Implications in Aldehyde Toxicity and Oral Health. | Curr Pharm Biotechnol
+- new | 2019 | 30570580 | Case Reports | Pediatric Cases Involving Chemical Burns to Garlic Used to Treat Warts. | Dermatitis
+- new | 2019 | 29693456 |  | Allium Sativum Methanolic Extract (garlic) Improves Therapeutic Efficacy of Albendazole Against Hydatid Cyst: In Vivo Study. | J Invest Surg
+- new | 2019 | 31237355 | Case Reports | Hold the spice: Allergy to garlic and sulfites-Possible relevance in a patient with cheilitis granulomatosa. | Contact Dermatitis
+- new | 2019 | 31364917 |  | The potential agents from food for preventing leukopenia induced by benzene: garlic preparations. | Toxicol Mech Methods
+- new | 2019 | 30609743 |  | Garlic (Allium Sativum) Supplementation Improves Respiratory Health but Has Increased Risk of Lower Hematologic Values in Horses. | Animals (Basel)
+- new | 2018 | 29973413 | Case Reports | A garlic burn. | BMJ Case Rep
+- new | 2018 | 29208504 | Review | Hepatoprotective effects of garlic against ethanol-induced liver injury: A mini-review. | Food Chem Toxicol
+- new | 2018 | 30012400 | Case Reports | Garlic clove applied as vaginal suppository - A case report. | Complement Ther Med
+- new | 2018 | 29969576 |  | Effects of garlic polysaccharide on alcoholic liver fibrosis and intestinal microflora in mice. | Pharm Biol
+- new | 2018 | 30296733 |  | In vivo combined treatment of rats with ivermectin and aged garlic extract attenuates ivermectin-induced cytogenotoxicity in bone marrow cells. | Res Vet Sci
+- new | 2018 | 30497454 |  | Safety and efficacy of aged garlic extract in dogs: upregulation of the nuclear factor erythroid 2-related factor 2 (Nrf2) signaling pathway and Nrf2-regulated phase II antioxidant | BMC Vet Res
+- new | 2017 | 28362335 | Review | Chemical and Biological Properties of S-1-Propenyl-l-Cysteine in Aged Garlic Extract. | Molecules
+- new | 2017 | 28962124 |  | Allicin protects against H(2)O(2)-induced apoptosis of PC12 cells via the mitochondrial pathway. | Exp Ther Med
+- new | 2017 | 28259711 |  | Allicin protects against cisplatin-induced vestibular dysfunction by inhibiting the apoptotic pathway. | Eur J Pharmacol
+- new | 2017 | 28587168 | Review | Physicochemical Properties, Biological Activity, Health Benefits, and General Limitations of Aged Black Garlic: A Review. | Molecules
+- new | 2017 | 27546106 |  | Impact of titanium dioxide on androgen receptors, seminal vesicles and thyroid hormones of male rats: possible protective trial with aged garlic extract. | Andrologia
+- new | 2017 | 27214522 |  | Aged garlic extract ameliorates immunotoxicity, hematotoxicity and impaired burn-healing in malathion- and carbaryl-treated male albino rats. | Environ Toxicol
+- new | 2017 | 28571253 |  | Antibacterial Effects of Garlic Extracts and Ziziphora Essential Oil on Bacteria Associated with Peri-Implantitis. | J Clin Diagn Res
+- new | 2017 | 28425131 | Case Reports | Garlic Dermatitis on the Neck of an Infant Treated for Nasal Congestion. | Pediatr Dermatol
+- new | 2017 | 28062185 |  | Allicin protects auditory hair cells and spiral ganglion neurons from cisplatin - Induced apoptosis. | Neuropharmacology
+- new | 2017 | 28543822 | Case Reports | Good for the lung but bad for the liver? Garlic-induced hepatotoxicity following liver transplantation. | J Clin Pharm Ther
+- HELD REF-2617 | 2016 | 26281812 | Case Reports | Progressive Organ Failure After Ingestion of Wild Garlic Juice. | J Emerg Med
+- new | 2016 | 27356707 |  | Garlic Phytocompounds Possess Anticancer Activity by Specifically Targeting Breast Cancer Biomarkers - an in Silico Study. | Asian Pac J Cancer Prev
+- new | 2016 | 27021122 | Case Reports/Letter | A case of black garlic-induced pneumonia as an adverse reaction. | Allergol Int
+- new | 2016 | 26551789 | Research Support, Non-U.S. Gov't | Consumption of garlic positively affects hedonic perception of axillary body odour. | Appetite
+- new | 2016 | 26973070 |  | Use of allicin as feed additive to enhance vaccination capacity of Clostridium perfringens toxoid in rabbits. | Vaccine
+- new | 2015 | 26126816 | Case Reports/Letter | Immediate allergy due to raw garlic (Allium sativum L.). | J Dermatol
+- new | 2015 | 25450927 |  | Antagonistic activity of dietary allicin against deltamethrin-induced oxidative damage in freshwater Nile tilapia; Oreochromis niloticus. | Ecotoxicol Environ Saf
+- new | 2015 | 26007246 |  | In vitro assessment of antibacterial effect of garlic (allium sativum) extracts on pseudomonas aeruginosa. | Mymensingh Med J
+- new | 2015 | 26727771 | Case Reports | A Case of Anaphylaxis After Garlic Ingestion: Is Alliinase the Only Culprit Allergen? | J Investig Allergol Clin Immunol
+- new | 2015 | 25730897 | Research Support, Non-U.S. Gov't | Protective effect of allicin against glycidamide-induced toxicity in male and female mice. | Gen Physiol Biophys
+- new | 2014 | 24711474 | Case Reports | An unusual garlic burn occurring on an unexpected area. | BMJ Case Rep
+- new | 2014 | 24847416 |  | Inhibitory effect of allicin and garlic extracts on growth of cultured hyphae. | Iran J Basic Med Sci
+- new | 2014 | 24795800 |  | Hepatoprotective effect of aged black garlic extract in rodents. | Toxicol Res
+- new | 2014 | 25493198 |  | The antioxidant and anti-cadmium toxicity properties of garlic extracts. | Food Sci Nutr
+- new | 2014 | 24646302 |  | Allicin enhances chemotherapeutic response and ameliorates tamoxifen-induced liver injury in experimental animals. | Pharm Biol
+- new | 2014 | 24333688 | Research Support, Non-U.S. Gov't/Review | Potential therapeutic effects of functionally active compounds isolated from garlic. | Pharmacol Ther
+- new | 2013 | 24716172 | Review | Autophagy therapeutic potential of garlic in human cancer therapy. | J Tradit Complement Med
+- new | 2013 | 23898570 | Case Reports/Letter | Garlic induced esophagitis. | Acta Gastroenterol Belg
+- new | 2013 | 22888009 | Research Support, Non-U.S. Gov't/Review | A review of the cardiovascular benefits and antioxidant properties of allicin. | Phytother Res
+- new | 2012 | 22313151 | Review | The effect of garlic supplements and phytochemicals on the ADMET properties of drugs. | Expert Opin Drug Metab Toxicol
+- new | 2012 | 22623282 | Research Support, Non-U.S. Gov't/Review | Receptors of garlic (Allium sativum) lectins and their role in insecticidal action. | Protein J
+- new | 2012 | 24716132 | Review | Recent Research Progress on Garlic ( dà suàn) as a Potential Anticarcinogenic Agent Against Major Digestive Cancers. | J Tradit Complement Med
+- new | 2012 | 22529485 |  | Pharmacokinetic interaction of garlic and atorvastatin in dyslipidemic rats. | Indian J Pharmacol
+- new | 2011 | 21269259 | Research Support, Non-U.S. Gov't/Review | Anticancer effects of garlic and garlic-derived compounds for breast cancer control. | Anticancer Agents Med Chem
+- new | 2011 | 24725925 | Review | Garlic in health and disease. | Nutr Res Rev
+- HELD REF-4201 | 2010 | 21171854 | Case Reports | Accidental poisoning with Veratrum album mistaken for wild garlic (Allium ursinum). | Clin Toxicol (Phila)
+- new | 2010 | 20009420 | Case Reports/Research Support, Non-U.S. Gov't | Hypertension after ingestion of baked garlic (Allium sativum) in a dog. | J Vet Med Sci
+- new | 2008 | 18393790 | Review | Cancer chemoprevention by garlic and its organosulfur compounds-panacea or promise? | Anticancer Agents Med Chem
+- new | 2007 | 17918162 | Review | Garlic (Allium sativum L.): adverse effects and drug interactions in humans. | Mol Nutr Food Res
+- new | 2006 | 30000841 | Review | Garlic. | 
+- new | 2006 | 16484582 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Cancer chemoprevention by garlic and garlic-containing sulfur and selenium compounds. | J Nutr
+- new | 2006 | 16484556 |  | Aged garlic extract improves homocysteine-induced endothelial dysfunction in macro- and microcirculation. | J Nutr
+- new | 2006 | 16397848 | Research Support, Non-U.S. Gov't | Aged garlic extract induces proliferation and ameliorates gentamicin-induced toxicity in LLC-PK1 cells. | Phytother Res
+- new | 2006 | 16484579 | Review | Allyl sulfur compounds from garlic modulate aberrant crypt formation. | J Nutr
+- new | 2006 | 16484578 | Research Support, Non-U.S. Gov't | Aged garlic extract has chemopreventative effects on 1,2-dimethylhydrazine-induced colon tumors in rats. | J Nutr
+- new | 2006 | 16619342 |  | Effect of aged garlic extract against methotrexate-induced damage to the small intestine in rats. | Phytother Res
+- new | 2006 | 16484581 |  | Aged garlic extract protects against methotrexate-induced apoptotic cell injury of IEC-6 cells. | J Nutr
+- new | 2005 | 16035690 | Review | Health effects of garlic. | Am Fam Physician
+- HELD REF-2839 | 2004 | 15158086 | Editorial/Review | Ajoene (natural garlic compound): a new anti-leukaemia agent for AML therapy. | Leuk Res
+- new | 2004 | 15265743 |  | [3H]Allicin: preparation and applications. | Anal Biochem
+- new | 2004 | 15302434 | Case Reports | Garlic burns: a not-so-rare complication of a naturopathic remedy? | Burns
+- new | 2002 | 12269947 | Case Reports | Allergy to garlic. | Allergy
+- new | 2002 | 12225414 | Case Reports | Occupational contact dermatitis from a garlic and herb mixture. | Contact Dermatitis
+- new | 2002 | 12716288 |  | Garlic - A Natural Source of Cancer Preventive Compounds. | Asian Pac J Cancer Prev
+- new | 2001 | 11600262 | Case Reports/Historical Article | Garlic burns. | Burns
+- new | 2001 | 11238815 | Review | The influence of heating on the anticancer properties of garlic. | J Nutr
+- new | 2001 | 11480676 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Mechanisms by which garlic and allyl sulfur compounds suppress carcinogen bioactivation. Garlic and carcinogenesis. | Adv Exp Med Biol
+- new | 2001 | 11725696 | Research Support, Non-U.S. Gov't | Acute and chronic toxicity study of fish oil and garlic combination. | Int J Vitam Nutr Res
+- new | 2001 | 11238812 | Research Support, U.S. Gov't, P.H.S./Review | Mechanisms of inhibition of chemical toxicity and carcinogenesis by diallyl sulfide (DAS) and related compounds from garlic. | J Nutr
+- new | 2000 | 11123784 | Case Reports/Review | Garlic burns. | Pediatr Dermatol
+- new | 2000 | 11089496 | Review | Garlic: effects on cardiovascular risks and disease, protective effects against cancer, and clinical adverse effects. | Evid Rep Technol Assess (Summ)
+- new | 2000 | 10696254 | Review | The potential application of Allium sativum (garlic) for the treatment of bladder cancer. | Urol Clin North Am
+- new | 2000 | 11201297 | Research Support, U.S. Gov't, P.H.S./Review | Effect of organosulfur compounds from garlic and cruciferous vegetables on drug metabolism enzymes. | Drug Metabol Drug Interact
+- new | 1998 | 9674969 | Research Support, Non-U.S. Gov't | Protective effects of aged garlic extract against bromobenzene toxicity to precision cut rat liver slices. | Toxicology
+- new | 1997 | 9121937 |  | Helicobacter pylori--in vitro susceptibility to garlic (Allium sativum) extract. | Nutr Cancer
+- new | 1996 | 8687326 | Case Reports | Garlic dermatitis. | Australas J Dermatol
+- new | 1996 | 8603796 | Research Support, Non-U.S. Gov't | Effects of crude garlic extract on mouse chromosomes in vivo. | Food Chem Toxicol
+- new | 1995 | 7583013 | Clinical Trial/Controlled Clinical Trial/Research Support, U.S. Gov't, P.H.S. | Garlic ingestion by pregnant women alters the odor of amniotic fluid. | Chem Senses
+- new | 1994 | 8055215 | Case Reports/Letter | Even garlic. | Br J Rheumatol
+- new | 1993 | 8441577 | Case Reports | Garlic burns. | Pediatrics
+- new | 1992 | 1479173 | Case Reports | Ancient remedies revisited: does Allium sativum (garlic) palliate the hepatopulmonary syndrome? | J Clin Gastroenterol
+- new | 1990 | 2198557 | Review | Garlic: a review of its relationship to malignant disease. | Prev Med
+- new | 1989 | 2500627 |  | Antitumor-promoting activity of garlic extracts. | Oncology
+- new | 1988 | 3290502 | Review | Garlic revisited: therapeutic for the major diseases of our times? | J Natl Med Assoc
+- new | 1954 | 13208004 |  | Classic aspects of onion and garlic dermatitis in housewives. | Ann Allergy
+
+### PubMed OBS - 102 hits, 43 not already listed above, 43 new
+- new | 2025 | 40134055 |  | Garlic consumption and risk of diabetes mellitus in the Chinese elderly: A population-based cohort study. | Asia Pac J Clin Nutr
+- new | 2025 | 40861515 |  | Dietary Pattern of Garlic and Risk of Chronic Diseases: Evidence From Three Large-Scale Cohorts. | Health Care Sci
+- new | 2025 | 40331094 |  | Effect of fermented garlic extract containing nitric oxide on radial artery pulse waves in hypertension patients: a feasibility observational study. | Front Nutr
+- new | 2025 | 40324220 |  | Causal relationship of garlic or onion with gastric cancer based on a Mendelian randomization study. | Medicine (Baltimore)
+- new | 2025 | 40074793 |  | Analysis of garlic intake on atrophic gastritis risk in different infectious states of Helicobacter pylori in a case-control study. | Sci Rep
+- new | 2024 | 39086363 | Research Support, Non-U.S. Gov't | Consumption and adverse reaction reporting of herbal medicines among people living with HIV at University teaching hospitals in Blantyre, Malawi and Ibadan, Nigeria. | Malawi Med J
+- new | 2023 | 38313106 |  | Effect of Garlic Ethanol Extract Administration on Gluthatione Levels to Prevent Oxidative Stress in Smoker Rat Model. | Med Arch
+- new | 2023 | 35293826 | Review | Current studies and potential future research directions on biological effects and related mechanisms of allicin. | Crit Rev Food Sci Nutr
+- new | 2023 | 38125729 |  | Garlic consumption and colorectal cancer risk in US adults: a large prospective cohort study. | Front Nutr
+- new | 2023 | 37093261 |  | Garlic consumption in relation to colorectal cancer risk and to alterations of blood bacterial DNA. | Eur J Nutr
+- new | 2023 | 36632904 |  | The use of the nutritional supplements during the covid-19 outbreak in Saudi Arabia: A cross-sectional study. | Complement Ther Med
+- new | 2023 | 37700925 |  | Anti Inflammatory Action of Allium Sativum Ethanol Extract to Prevent Lung Damage in Smoker Rat Model. | Med Arch
+- new | 2022 | 35928277 |  | Irrational Use of Selected Herbal Medicines During Pregnancy: A Pharmacoepidemiological Evidence From Yemen. | Front Pharmacol
+- new | 2022 | 35582397 | Review | Diallyl disulfide and diallyl trisulfide in garlic as novel therapeutic agents to overcome drug resistance in breast cancer. | J Pharm Anal
+- new | 2022 | 34991719 |  | Herbal medicine used for the treatment of diarrhea and cough in Kampala city, Uganda. | Trop Med Health
+- new | 2022 | 35463071 |  | Safety and Efficacy of Medicinal Plants Used to Manufacture Herbal Products with Regulatory Approval in Uganda: A Cross-Sectional Study. | Evid Based Complement Alternat Med
+- new | 2021 | 34335835 |  | Ethnopharmacological Survey on Treatment of Hypertension by Traditional Healers in Bukavu City, DR Congo. | Evid Based Complement Alternat Med
+- new | 2021 | 34313939 | Comparative Study/Multicenter Study | Efficacy and expenses of succimer vs. d-penicillamine plus garlic in the treatment of lead poisoning: a retrospective cross-sectional study. | Daru
+- new | 2020 | 32823812 | Review | Medicinal Herbs Used in Traditional Management of Breast Cancer: Mechanisms of Action. | Medicines (Basel)
+- new | 2020 | 31551568 | Research Support, Non-U.S. Gov't | Raw garlic consumption is inversely associated with prehypertension in a large-scale adult population. | J Hum Hypertens
+- new | 2020 | 31402709 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Onion and Garlic Intake and Breast Cancer, a Case-Control Study in Puerto Rico. | Nutr Cancer
+- new | 2020 | 31164238 | Research Support, Non-U.S. Gov't | Relationship between consumption of raw garlic and handgrip strength in a large-scale adult population. | Clin Nutr
+- new | 2019 | 30372984 |  | Quantification of volatile metabolites derived from garlic in human breast milk. | Food Chem
+- new | 2019 | 31262080 |  | Garlic Consumption and All-Cause Mortality among Chinese Oldest-Old Individuals: A Population-Based Cohort Study. | Nutrients
+- new | 2019 | 31480423 |  | Raw Garlic Consumption and Risk of Liver Cancer: A Population-Based Case-Control Study in Eastern China. | Nutrients
+- new | 2019 | 30001285 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Consumption of garlic and its interactions with tobacco smoking and alcohol drinking on esophageal cancer in a Chinese population. | Eur J Cancer Prev
+- new | 2018 | 29569711 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Garlic intake and gastric cancer risk: Results from two large prospective US cohort studies. | Int J Cancer
+- new | 2017 | 29154059 |  | Traditional herbal medicine use among people living with HIV/AIDS in Gondar, Ethiopia: Do their health care providers know? | Complement Ther Med
+- new | 2016 | 26809277 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Raw Garlic Consumption and Lung Cancer in a Chinese Population. | Cancer Epidemiol Biomarkers Prev
+- new | 2014 | 26859012 | Research Support, Non-U.S. Gov't | EFFICACY OF ANTIMICROBIAL ACTIVITY OF GARLIC EXTRACTS ON BACTERIAL PATHOGENS COMMONLY FOUND TO CONTAMINATE MEAT. | East Afr Med J
+- new | 2014 | 25861142 |  | Efficacy of garlic extract and chlorhexidine mouthwash in reduction of oral salivary microorganisms, an in vitro study. | Anc Sci Life
+- new | 2013 | 23933870 | Research Support, Non-U.S. Gov't | Garlic intake is an independent predictor of endothelial function in patients with ischemic stroke. | J Nutr Health Aging
+- new | 2012 | 22506106 |  | The impact of herbal drug use on adverse drug reaction profiles of patients on antiretroviral therapy in zimbabwe. | AIDS Res Treat
+- new | 2011 | 22126011 | Research Support, N.I.H., Extramural/Review | Molecular mechanisms and targets of cancer chemoprevention by garlic-derived bioactive compound diallyl trisulfide. | Indian J Exp Biol
+- new | 2010 | 21143861 | Research Support, Non-U.S. Gov't/Twin Study | Dietary garlic and hip osteoarthritis: evidence of a protective effect and putative mechanism of action. | BMC Musculoskelet Disord
+- new | 2007 | 17991535 | Multicenter Study | Onion and garlic intake and the odds of benign prostatic hyperplasia. | Urology
+- new | 2006 | 17182483 |  | The use of medicinal herbs by diabetic Jordanian patients. | J Herb Pharmacother
+- new | 2001 | 11238811 | Review | Garlic and cancer: a critical review of the epidemiologic literature. | J Nutr
+- new | 1998 | 9928867 | Research Support, Non-U.S. Gov't | Garlic, onion and cereal fibre as protective factors for breast cancer: a French case-control study. | Eur J Epidemiol
+- new | 1997 | 9355906 | Research Support, Non-U.S. Gov't | Protective effect of chronic garlic intake on elastic properties of aorta in the elderly. | Circulation
+- new | 1994 | 7954460 | Research Support, Non-U.S. Gov't | A prospective cohort study on Allium vegetable consumption, garlic supplement use, and the risk of lung carcinoma in The Netherlands. | Cancer Res
+- new | 1993 | 8439494 | Review | Garlic and its significance for the prevention of cancer in humans: a critical view. | Br J Cancer
+- new | 1988 | 3341673 |  | Botulism from chopped garlic: delayed recognition of a major outbreak. | Ann Intern Med
+
+### PubMed REV - 513 hits, 17 not already listed above, 12 new
+- HELD REF-0647 | 2024 | 39275211 | Review | Garlic and Hypertension: Efficacy, Mechanism of Action, and Clinical Implications. | Nutrients
+- new | 2024 | 38915405 | Review/Research Support, Non-U.S. Gov't | Garlic bioactive substances and their therapeutic applications for improving human health: a comprehensive review. | Front Immunol
+- new | 2024 | 38542956 | Review | Allicin and Cancer Hallmarks. | Molecules
+- new | 2024 | 38477208 | Review | The Potential of Natural Products in the Management of Cardiovascular Disease. | Curr Pharm Des
+- HELD REF-0413 | 2023 | 37240430 | Review | The Management of Diabetes Mellitus Using Medicinal Plants and Vitamins. | Int J Mol Sci
+- new | 2021 | 33174095 | Review | Plants Used as Antihypertensive. | Nat Prod Bioprospect
+- new | 2021 | 34443625 | Review | Black Garlic and Its Bioactive Compounds on Human Health Diseases: A Review. | Molecules
+- new | 2021 | 33549282 | Review | Healthy Uses for Garlic. | Nurs Clin North Am
+- HELD REF-2427 | 2019 | 31284512 | Review | Bioactive Compounds and Biological Functions of Garlic (Allium sativum L.). | Foods
+- new | 2018 | 29706261 | Review | Garlic and Gaseous Mediators. | Trends Pharmacol Sci
+- new | 2015 | 26280341 | Review | Metabolic Syndrome: Hyperlipidemia. | FP Essent
+- HELD REF-2842 | 2014 | 25153873 | Research Support, Non-U.S. Gov't/Review | Allicin: chemistry and biological properties. | Molecules
+- new | 2014 | 25233607 | Research Support, Non-U.S. Gov't/Review | Warfarin interactions with medicinal herbs. | Nat Prod Commun
+- new | 2011 | 25386259 | Review | Garlic in dermatology. | Dermatol Reports
+- new | 2002 | 12410539 | Research Support, Non-U.S. Gov't/Review | Onions--a global benefit to health. | Phytother Res
+- HELD REF-0844 | 2000 | 10675182 | Review | Herb-drug interactions. | Lancet
+- new | 1999 | 10594976 | Review | Antimicrobial properties of allicin from garlic. | Microbes Infect
+
+### ClinicalTrials.gov - 103 registered studies
+- NCT01293591 | COMPLETED | results=False | NA | Garlic Intake And Biomarkers Of Cancer Risk | conds: Healthy Men, Healthy Women | intr: Control, Garlic treatment | pubs: ['26423732:DERIVED (new)']
+- NCT06135831 | COMPLETED | results=False | NA | Effect of Consumption of Supplements and Enriched Olive Paste on Bone Metabolism Indices | conds: Osteopenia or Osteoporosis | intr: Functional olive paste, Calciovitmag (CDCaMg), Phosporovitmag (PDCaMg), Control
+- NCT05801367 | COMPLETED | results=False | PHASE1,PHASE2 | Allium Sativum Oil as Alternative Non-vital Pulpotomy Medicament in Primary Teeth | conds: Non-Vital Tooth | intr: Formocresol, Allium Sativum Oil
+- NCT05841589 | COMPLETED | results=False | NA | Evaluation of Antimicrobial Efficacy of Green Tea, Garlic With Lime, Pomegranate Extract and Chlorhexidine Mouth Rinses in a Group of Egypti | conds: Dental Caries | intr: Green tea extract mouth rinse, Garlic with lime extract mouth rinse, Pomegranate extract mouth rinse
+- NCT05082350 | UNKNOWN | results=False | NA | Nutritional Intervention With Black Garlic | conds: Hypercholesterolemia, Hypertension, Hyperlipidemias, Inflammation | intr: black garlic
+- NCT03842319 | COMPLETED | results=False | NA | Impact of MEditerranean Diet, Inflammation and Microbiome After an Acute Coronary Syndrome | conds: Acute Coronary Syndrome | intr: Microbiota analysis, Immunological analysis, Proteome analysis, Metabolome analysis | pubs: ['34772433:DERIVED (new)']
+- NCT05349253 | COMPLETED | results=False | NA | Effect of Garlic Extracts on Changes in Cerebral Blood Flow | conds: Healthy | intr: Garlic extracts, Placebo
+- NCT00056511 | COMPLETED | results=False | PHASE2,PHASE3 | Comparing Effects of 3 Sources of Garlic on Cholesterol Levels | conds: Hypercholesterolemia | intr: Fresh garlic or garlic supplements | pubs: ['17325296:DERIVED (new)']
+- NCT02322541 | WITHDRAWN | results=False | NA | Dietary Absorption of Garlic Metabolites Following Garlic Consumption | conds: Focus is Understanding Absorption of Garlic Metabolites | intr: Garlic Intervention
+- NCT03486145 | COMPLETED | results=False | NA | Effect of Nitrate-rich Fruit and Vegetable Supplement on Blood Pressure | conds: High Blood Pressure, Flow Mediated Dilation | intr: fruit and vegetable juice supplement, Placebo | pubs: ['30305961:DERIVED (new)']
+- NCT05928676 | COMPLETED | results=False | NA | Open Label Clinical Trial of Vascanox® HP on Nitric Oxide and Blood Pressure | conds: Hypertension, Elevated Blood Pressure | intr: Vascanox® HP
+- NCT01931436 | COMPLETED | results=False | PHASE1 | Pharmacokinetics Study of Qing'E Pill | conds: Menopause | intr: Qing'E pill
+- NCT07709533 | NOT_YET_RECRUITING | results=False | PHASE2 | An Umbrella-designed Prospective Multicenter Randomized Open-label Superiority Trial Evaluating Multi-biomarker-guided Precision Therapy for | conds: Valid MeSH Conditions | intr: Paclitaxel + Cisplatin (TP regimen) plus PD-1 inhibitor, Retlirafusp alfa / Indole-3-carbinol + Blac
+- NCT05175391 | COMPLETED | results=False | NA | Improving Protein Intake in Older Adults | conds: Food Preferences | intr: Meat based protein with added spice; Plant based protein with added spice
+- NCT01534910 | COMPLETED | results=True | PHASE4 | Effect of Aged Garlic Extract on Atherosclerosis | conds: Metabolic Syndrome | intr: aged garlic extract, placebo | pubs: ['26764322:DERIVED (new)']
+- NCT01805765 | COMPLETED | results=False | PHASE2,PHASE3 | Qing'E Formula Therapy on Menopausal Symptoms | conds: Menopause | intr: Qing'E pills, Placebo
+- NCT01948453 | COMPLETED | results=False | NA | Effect of Garlic Tablet Some Indicators Related to Atherosclerosis | conds: Coronary Artery Disease | intr: Garlic
+- NCT06264622 | UNKNOWN | results=False | NA | ABG+/GarlACE Effects on Cardiovascular Risk Factors in Subjects With Grade I Hypertension | conds: Hypertension | intr: Low dose, High dose, Placebo | pubs: ['37686723:RESULT (new)']
+- NCT02599272 | COMPLETED | results=False | NA | Effects of Mixed Spices on Cardiometabolic Function - the PolySPice (PSP) Study | conds: Cardiometabolic Risk | intr: Rice with tomatoes and peeled aubergine (no spice), Rice with vegetables and low spice, Rice with ve | pubs: ['30687117:DERIVED (new)']
+- NCT05750602 | COMPLETED | results=False | NA | Combined Effect of LIMICOL and Physical Activity on LDL Cholesterol and Muscle Function. | conds: Hypercholesterolemia | intr: LIMICOL, PLACEBO
+- NCT04903808 | UNKNOWN | results=False | PHASE2,PHASE3 | Clinical And Cost- Effectiveness of Allium Sativum Oil (Garlic Oil ) Versus Mineral Trioxide Aggregate in Primary Molars Pulpotomy in Group  | conds: Carious Primary Molars | intr: Allium Sativum Oil, Mineral Tri-Oxide Aggregate
+- NCT01390116 | COMPLETED | results=False | NA | The Effect of Aged Garlic Extract Supplementation on Immune System | conds: Improvement in Immune Cell Function in Healthy Humans | intr: Aged garlic extract, AGE | pubs: ['26764332:DERIVED (new)', '22280901:DERIVED (new)']
+- NCT06287424 | COMPLETED | results=False | NA | The Efficacy Of AGE On Periodontitis | conds: Periodontitis | intr: Aged Garlic Extract, Placebo
+- NCT00200785 | COMPLETED | results=True | NA | Identifying the Anti-Blood-Clotting Compounds in Garlic | conds: Arteriosclerosis, Intracranial Arteriosclerosis | intr: garlic powder added to ambient water, garlic powder added to boiling water
+- NCT00122889 | COMPLETED | results=False |  | Effects of Garlic Supplements on Drug Metabolism | conds: Healthy | intr: Garlic powder with high allicin content, Garlic powder with low allicin content, Garlic oil, Aged ga
+- NCT07321821 | ACTIVE_NOT_RECRUITING | results=False | NA | Fermented Garlic Lettuce Powder and Cognitive Function in Adults With Mild Cognitive Impairment | conds: Mild Cognitive Impairment (MCI) | intr: Garlic Lettuce Fermented Powder, Placebo
+- NCT06630637 | COMPLETED | results=False | NA | Monitoring Intermittent Fasting for Human Optimization Using Wearable Technology: An N-of-1 Study | conds: Intermittent Fasting, Healthy, Digital Health | intr: Glucose-Ketone Index (GKI) monitoring, Continuous Glucose Monitoring (CGM), Digital dynamometer, Wea
+- NCT01543074 | TERMINATED | results=True | NA | Dietary Histone Deacetylase Inhibitors (HDAC) | conds: Histone Deacetylase (HDAC) Activity | intr: BSE placebo, Garlic oil, BSE, Garlic Oil Placebo | pubs: ['26388957:RESULT (new)']
+- NCT06245382 | COMPLETED | results=False | NA | The Impact of Goode Health Beverage on Markers of Physiological and Neurocognitive Health | conds: Cardiovascular Diseases, Hypertension, Cognitive Decline, Diet, Healthy | intr: Goode Health Beverage, Vanilla Base Beverage Blend
+- NCT03860350 | COMPLETED | results=False | NA | Aged Garlic Extract Study | conds: Coronary Artery Disease, Microcirculation, Biomarkers | intr: Aged Garlic Extract, Placebo | pubs: ['33868439:DERIVED (new)', '32349742:DERIVED (new)']
+- NCT05082727 | UNKNOWN | results=False | PHASE2 | Safety and Efficacy of Softgel KOVIR (TD0068) in the Combination Regimen With Background Treatment in COVID-19 Patients (KOVIR) | conds: COVID-19 | intr: KOVIR (TD0068) oral softgel, Placebo oral softgel
+- NCT01959646 | COMPLETED | results=False | NA | The Effect of AGE on the Immune System | conds: Healthy | intr: Aged Garlic Extract Supplementation Group, Standard for Groups, Placebo | pubs: ['29576354:DERIVED (new)']
+- NCT02019056 | COMPLETED | results=False | PHASE2 | Efficacy and Safety of MG in the Patients With Alcoholic Fatty Liver Disease and Alcoholic Hepatitis | conds: Alcoholic Fatty Liver Disease, Alcoholic Hepatitis | intr: Placebo /bid P.O, MG-1, MG-2 : MG1000mg, Placebo /bid P.O, metadoxine
+- NCT06759766 | NOT_YET_RECRUITING | results=False | NA | Evaluation of Antimicrobial Potency of Garlic Lemon Extract Irrigant Versus Physiological Saline Irrigant | conds: Necrotic Primary Teeth | intr: Garlic-Lemon Extract irrigant, physiological saline
+- NCT04915053 | UNKNOWN | results=False | NA | Black Garlic Nutraceuticals and Blood Pressure Control | conds: Hypertension | intr: ABG+ Black Garlin, Crystalline Cellulose | pubs: ['42577101:DERIVED (new)']
+- NCT06833125 | ENROLLING_BY_INVITATION | results=False | PHASE3 | The Prophylactic Effect of Garlic Tablets to Prevent Nosocomial Infections in Intensive Care Unit Patients. | conds: Nosocomial Infection | intr: Garlic powder standardized to allicin
+- NCT05307185 | COMPLETED | results=False | NA | Tritordeum-based Foods for IBS Symptoms | conds: Irritable Bowel Syndrome | intr: Tritordeum-based food
+- NCT01734707 | COMPLETED | results=False | PHASE3 | Atherosclerosis Monitoring and Atherogenicity Reduction Study | conds: Carotid Atherosclerosis | intr: Allicor, Placebo | pubs: ['20958974:RESULT (new)']
+- NCT00079170 | COMPLETED | results=False | NA | Docetaxel Plus Garlic in Treating Patients With Locally Advanced or Metastatic Breast Cancer | conds: Breast Cancer | intr: garlic, docetaxel
+- NCT07189637 | RECRUITING | results=False | NA | The Combined Effect of the Mediterranean Diet and Intermittent Fasting on Hypertension | conds: Hypertension | intr: Face-to-face nutrition education, Intermittent Fasting Diet, Mediterranean Diet
+- NCT06515652 | UNKNOWN | results=False | NA | To Compare the Effects of Herbal Medicines With Traditional Allopathic Medicines in Cases of Patients With Metabolic Syndrome | conds: Metabolic Syndrome | intr: rosuvastatin, METFORMIN, Sitagliptin, Telmisartan, Cinnamon. garlic, Ginger, Methi dana, Arjun
+- NCT05067998 | RECRUITING | results=False |  | The Benefits of Natural Medicine, Vitamin IV Therapy and Supplements: Maintaining Good Health Through Nature | conds: Anxiety Disorders and Symptoms, Fibromyalgia, Arthritis, Chronic Pain | intr: IV Vitamin Infused Therapy Treatment, Herbal medicine
+- NCT04010565 | COMPLETED | results=False | NA | Effect of a Black Garlic Extract on Cholesterol LDL Levels | conds: Cardiovascular Diseases | intr: Aged black garlic extract, Placebo
+- NCT02088307 | COMPLETED | results=False | NA | Study of the Cardiovascular Vitamin, CardioLife | conds: Cardiovascular Disease | intr: CardioLife
+- NCT00029250 | WITHDRAWN | results=False | PHASE2 | Garlic in Hyperlipidemia Caused by HAART | conds: HIV Infections, Hypercholesterolemia, Hypertriglyceridemia, Hyperglycemia | intr: Garlic powder standardized to allicin
+- NCT06122467 | COMPLETED | results=False | NA | A Single Group Study to Evaluate the Efficacy of a Cosmetic Product Line on Acne Symptoms | conds: Acne | intr: EQ Exfoliating Cleanser, EQ Gel, EQ Moisturizer
+- NCT07289971 | NOT_YET_RECRUITING | results=False | PHASE3 | Comparative Evaluation of Clinical and Radiographic Treatment Outcomes of Garlic Gel and Calcium Hydroxide as an Intracanal Medicament in No | conds: Apical Periodontitis, Periapical Radiolucency | intr: Allium Sativum as an intracanal medicament | pubs: ['35003565:RESULT (new)']
+- NCT04647071 | COMPLETED | results=False | NA | Allium Extracts on the Incidence of Respiratory Infection Symptoms in Healthy Elderly Volunteers | conds: Immunity | intr: Garlic and onion concentrate, Control
+- NCT02347319 | COMPLETED | results=False | PHASE4 | To Evaluate the Efficacy of DDB/Garlic Oil in Patients With Elevated Transaminase Chronic Liver Disease | conds: Chronic Liver Disease | intr: Pennel, Legalon, Placebo
+- NCT00339768 | COMPLETED | results=False | PHASE3 | A Randomized Multi-Intervention Trial to Inhibit Precancerous Gastric Lesions in Lingu, Shandong Province | conds: Precancerous Gastric Lesions | intr: Amoxicillin/omeprazole | pubs: ['36789941:DERIVED (new)', '32589229:DERIVED (new)', '31511230:DERIVED (HELD REF-2838)']
+- NCT03908489 | UNKNOWN | results=False | NA | Evaluation of Post-operative Pain After Vital Pulpotomy in Primary Molars Using Allium Sativum Oil Versus MTA | conds: Deep Caries | intr: vital pulpotomy primary molars using garlic oil, vital pulpotomy using mta
+- NCT06802276 | COMPLETED | results=False | NA | Smart Underwear to Measure Diet-Induced Hydrogen Sulfide Production | conds: Hydrogen Sulfide, Gastrointestinal Microbiome | intr: High Cysteine Diet, Low Cysteine Diet
+- NCT05396651 | COMPLETED | results=False | NA | Effect of Low Fermentable Oligosaccharides, Disaccharides ,Monosaccharides and Polyols (FODMAP) Diet on Control of Pediatric Irritable Bowel | conds: Irritable Bowel Syndrome | intr: low fodmap diet, NICE guidelines for IBS
+- NCT00275405 | SUSPENDED | results=False | PHASE4 | Effect of Garlic on Inflammatory Mediators | conds: Healthy | intr: Garlic Oil Macerate
+- NCT04008693 | COMPLETED | results=False | NA | Aging, Aged Garlic, Vascular Function and Muscle Oxygenation | conds: Aging, Hypertension, Dyslipidemias, Abdominal Obesity | intr: Aged Garlic Extract, Placebo | pubs: ['35505122:DERIVED (new)']
+- NCT03931434 | COMPLETED | results=False | NA | Effect of Aged Garlic Extract (AGE) on Improving Coronary Atherosclerosis in People With Type 2 Diabetes Mellitus | conds: Coronary Arteriosclerosis, Endothelial Dysfunction, Type 2 Diabetes Mellitus | intr: Aged Garlic Extract (AGE), Placebo
+- NCT05594329 | COMPLETED | results=False | NA | Neurological, Inflammatory and Metabolic Effects of Acute Mushroom Intervention in Older Adults | conds: Cognitive Change, Mood, Metabolism, Inflammatory Response | intr: Instant noodle soup containing containing the equivalent of 2 servings (18.78g) of powdered Pleurotu
+- NCT05024123 | UNKNOWN | results=False | NA | Pharmacokinetic Effect of AstraGin on Arginine Absorption and Nitric Oxide Production in Healthy Subjects | conds: Absorption of Amino Acids and Peptides | intr: Placebo, AstraGin
+- NCT05819970 | COMPLETED | results=False | PHASE1,PHASE2 | Allium Sativum Oil and Turmeric Gel as Alternative Non-vital Pulpotomy Medicaments in Primary Teeth. | conds: Non Vital Teeth | intr: Allium Sativum Oil, Turmeric Gel
+- NCT00455416 | UNKNOWN | results=False | PHASE2 | Dietary Intervention in Follicular Lymphoma | conds: Follicular Lymphoma | intr: Omega 3 fatty acids (EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid)), Selenium (L-Seleno
+- NCT05333315 | COMPLETED | results=False | NA | Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults | conds: Overweight and Obesity, Inflammation, Hypercholesterolemia, Hypertension | intr: IP1, IP2, IP3, IP4
+- NCT01139398 | COMPLETED | results=False | NA | Effect of Limicol on (LDL)-Cholesterol Levels in Moderate Hypercholesterolaemia | conds: Delivery of Health Care | intr: Limicol (plant extract)
+- NCT00874666 | UNKNOWN | results=False | EARLY_PHASE1 | Allicin Bioavailability From Garlic Supplements and Garlic Foods | conds: Healthy | intr: crushed garlic clove, garlic powder tablet
+- NCT07800650 | COMPLETED | results=False | NA | Low-FODMAP vs Gluten-Free Diet in Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Low-FODMAP Diet, Gluten-Free Diet
+- NCT01168700 | UNKNOWN | results=False | PHASE4 | Trial of Supplementation With Aged Garlic Extract to Improve Endothelial Function in Patients With Metabolic Syndrome | conds: Metabolic Syndrome | intr: aged garlic extract, Placebo
+- NCT03211767 | COMPLETED | results=False | NA | Double-Blind, Randomized, Cross-Over Trial of Aged Garlic Extract for Hypertension | conds: Hypertension | intr: Aged garlic extract, Placebo
+- NCT03795636 | COMPLETED | results=False | NA | Allium Sativum Extract as an Irrigant | conds: Infected Root Canals of Primary Molars | intr: Garlic extract, NaOCl (COLTENE®) | pubs: ['31452953:DERIVED (new)']
+- NCT01682291 | UNKNOWN | results=False | PHASE4 | Prehypertension and Dietary Supplements - The PYRAMIDS Study | conds: Prehypertension | intr: Life-style modifications, Dietary supplements | pubs: ['28447625:DERIVED (new)']
+- NCT06541938 | ACTIVE_NOT_RECRUITING | results=False | NA | AIRE-2 Device for Study of Breath Analysis in IBD | conds: Inflammatory Bowel Diseases | intr: low FODMAP diet, Lactose Sachet, Fructose Sachet, Sorbitol Sachet
+- NCT05744752 | UNKNOWN | results=False | NA | Effects of Allium Sativum and Moringa Oleifera Extract on Dental Enamel | conds: Lead Poisoning | intr: Lead Acetate, Moringa oleifera Extract, Allium sativum Extract, Placebo | pubs: ['17546858:RESULT (new)']
+- NCT07385716 | COMPLETED | results=False | NA | Evaluation of the Effect of Time-Restricted Feeding and Mediterranean Diet Model in Women With Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Mediterranean diet, intermittent fasting | pubs: ['31547562:RESULT (new)']
+- NCT01393678 | COMPLETED | results=False | PHASE3 | Study to Evaluate Efficacy and Safety of PENNEL Capsule in the Patients With Chronic Liver Disease | conds: Chronic Liver Disease | intr: NISSEL, PENNEL
+- NCT05803759 | UNKNOWN | results=False | PHASE4 | The Effects of Allicor on Patients After Coronary Arteria Revascularization Treatment | conds: Myocardial Ischemia, Coronary Artery Bypass Grafting, Coronary Arteriosclerosis, Percutaneous Coronary Revascularization | intr: Allicor, Placebo
+- NCT00499460 | COMPLETED | results=True | PHASE4 | Effects of Garlic Supplements on Opioids in Healthy Volunteers | conds: Healthy, No Evidence of Disease | intr: garlic powder tablets, oxycodone
+- NCT02691117 | TERMINATED | results=False | PHASE3 | Topical Garlic Concentrate for Alopecia Areata in Children | conds: Alopecia Areata | intr: garlic concentrate
+- NCT00860847 | COMPLETED | results=True | PHASE3 | Firefighter Aged Garlic Extract Investigation With CoQ10 as a Treatment for Heart Disease (FAITH) | conds: Coronary Atherosclerosis, Coronary Artery Calcification, Coronary Stenosis | intr: Aged garlic extract and Coenzyme Q10
+- NCT04646382 | COMPLETED | results=False | NA | Effect of a Mixture of Allium Extracts on LDL Cholesterol Levels Volunteers With Elevated LDL Cholesterol Levels | conds: Cardiovascular Health | intr: Garlic and onion concentrate, Control
+- NCT00247039 | UNKNOWN | results=False | PHASE1,PHASE2 | Garlic in Patients With Febrile Neutropenia | conds: Chemotherapy, Neutropenia | intr: Solgar Israel, Placebo capsules | pubs: ['26036623:DERIVED (new)']
+- NCT02019368 | COMPLETED | results=False | NA | Antioxidant Effect of Aged Garlic Extract | conds: Heavy Smoker or Non-smoker | intr: Placebo, Aged garlic extract
+- NCT03125551 | WITHDRAWN | results=False | NA | ROTEM and Dietary Supplements | conds: Dietary Supplements, Bleeding Tendency; Due to Coagulation Defect | intr: Ginger, Garlic, Ginkgo Biloba, Ginseng
+- NCT05813171 | UNKNOWN | results=False | PHASE4 | The Effects of Allicor on Patients After Revascularization Treatment During a Year | conds: Atherosclerosis, Peripheral Arterial Disease | intr: Allicor, Placebo
+- NCT07461012 | COMPLETED | results=False | NA | Impact of Garlic on the Clinical Outcome in Chronic Hemodialysis Patients | conds: Hemodialysis, Endothelial Dysfunction, CKD, Inflammation | intr: Dried garlic powder (Garlic extract) - Allium sativum.
+- NCT05050071 | COMPLETED | results=False | PHASE2,PHASE3 | Evaluation of Antibacterial Effect of Allium Sativum, Calcium Hydroxide and Their Combination in Infected Mature Teeth | conds: Drug Effect | intr: Allium Sativum, Polymerase chain reaction
+- NCT06058312 | COMPLETED | results=False | NA | Individual Food Preferences for the Mediterranean Diet in Cancer Patients | conds: Neoplasms | intr: Self-questionnaire, Self-questionnaire, Self-questionnaire, Self-questionnaire | pubs: ['42576055:RESULT (new)']
+- NCT04846231 | COMPLETED | results=True | PHASE2 | Supplements, Placebo, or Rosuvastatin Study | conds: Hypercholesterolemia | intr: Fish Oil, Cinnamon, Garlique,Turmeric, Plant Sterol, Red Yeast Rice, Rosuvastatin, Placebo | pubs: ['36351465:DERIVED (new)']
+- NCT00938249 | COMPLETED | results=False | NA | Effects of Monascus Garlic Fermented Extract on Serum Triglyceride Level | conds: Hypertriglyceridemias | intr: Monascus Garlic Fermented Extract, Placebo | pubs: ['22041543:DERIVED (new)']
+- NCT03492723 | COMPLETED | results=False | NA | Garlic Product Impact on Periodontitis (GPIP) | conds: Periodontitis, Adult | intr: Aged Garlic Extract
+- NCT04545879 | COMPLETED | results=False | NA | Investigating the Gut Microbiota Modulation Effects of Allicin for Cardiovascular Disease Protection and Establishing Microbiota Directed Pe | conds: Atherosclerosis | intr: Raw garlic juice containing allicin
+- NCT07812688 | COMPLETED | results=False | NA | Effects of Allicin Pretreatment on Anti-oxidation Ability and Delayed Onset Muscle Soreness | conds: Delayed Onset Muscle Soreness | intr: allicin, placebo
+- NCT03625635 | UNKNOWN | results=False | NA | Effect of a Clinical Nutrition Intervention Program in Breast Cancer Patients During Antineoplastic Treatment | conds: Breast Neoplasm, Breast Cancer | intr: Individualized food-based intervention | pubs: ['33485708:DERIVED (new)']
+- NCT06748313 | COMPLETED | results=False | NA | Fermented Food - Achars (fermented Pickles) in Pakistan | conds: Maternal Health, Gut Health | intr: Mango Pickle (Water-Based), Mango Pickle (Oil Based), Carrot Pickle (Water-Based), Radish Pickle (Wa
+- NCT03105960 | UNKNOWN | results=False | NA | Garlic With Lime Juice and Chlorhexidine Mouthwash | conds: Gingival Bleeding | intr: garlic with lime mouth wash, chlorhexidine
+- NCT05016999 | COMPLETED | results=False | NA | Allium Extracts on the Intestinal Microbiota in Healthy Resident Volunteers. | conds: Intestinal Bacteria Flora Disturbance | intr: Garlic and onion concentrate
+- NCT03287518 | UNKNOWN | results=False | NA | Evaluation of the Benefit and Tolerability of WAK2017 on Endothelial Function, Blood Pressure and Lipid Profile | conds: Endothelial Function, Blood Pressure, Lipid Metabolism | intr: WAK2017, Placebo
+- NCT06184906 | NOT_YET_RECRUITING | results=False | PHASE3 | Preventing Celiac Disease by Weaning With Mediterranean Diet | conds: Weaning Failure | intr: Weaning by Mediterranean Diet
+- NCT03542721 | UNKNOWN | results=False | PHASE4 | Effect of DA-5515 (Circulan® Soft Cap.) in Patients With Chronic Fatigue Symptoms Due to Impaired Blood Circulation | conds: Fatigue Symptom | intr: DA-5515, Placebo of DA-5515
+- NCT05349604 | COMPLETED | results=False | NA | Effect of Garlic Extracts on Changes in Blood Flow Velocity in the Carotid Artery | conds: Healthy | intr: Garlic extracts, Placebo
+- NCT01748669 | COMPLETED | results=False | PHASE2 | Effectiveness of Garlic Oil in the Treatment of Arsenical Palmer Keratosis | conds: Chronic Arsenic Poisoning | intr: Garlic oil
+- NCT07833514 | NOT_YET_RECRUITING | results=False | PHASE3 | Misocholic Tablets for Non-Viral Elevated Liver Enzymes | conds: Alcohol-Related Liver Disease, Drug-Induced Liver Injury, Non-alcoholic Fatty Liver Disease | intr: Misocholic Tab, Placebo, Silymarin (Silybum marianum)
+- NCT02937298 | COMPLETED | results=False | NA | Thermic Effects of Some Scottish Plant Foods | conds: Diet Induced Thermogenesis, Obesity Control | intr: Control Meal, Berry Treatment, Sea Buckthorn Treatment, Wild Garlic Treatment
+- NCT03076320 | COMPLETED | results=False | PHASE1,PHASE2 | Pirfenidone Plus M-DDO Gel in Moderate and Severe Acne | conds: Acne Vulgaris Superficial Mixed Comedonal and Inflammatory | intr: PDF+M-DDO, A+PBO
+- NCT01402102 | COMPLETED | results=True | PHASE2,PHASE3 | A Human Trial to Evaluate the Efficacy and Safety of Aged Garlic Powder on Improvement of Blood Lipids in Subjects With Hyperlipidemia | conds: Hyperlipidemia | intr: Aged garlic powder, Placebo powder
+- NCT01198223 | COMPLETED | results=False | PHASE2 | Effect of Aqueous Extract of Garlic and Nystatin Mouthwash in Denture Stomatitis | conds: Denture Stomatitis | intr: garlic , nystatin
+
+### OpenAlex no-PMID trial-worded - 12574 hits, 27 without PMID, 27 new
+- new | 2026 | 10.3934/medsci.2026010 | article | Comparative efficacy of ginger (Zingiber officinale) and garlic (Allium sativum) supplementation on blood pressure management in hypertensive patients: a randomized controlled tria | AIMS Medical Science
+- new | 2026 | 10.20935/acadnutr8095 | article | Evidence from randomized trials on lipid-lowering by culinary herbs and spices | Academia Nutrition and Dietetics
+- new | 2026 | 10.1002/ffj.70176 | article | Trigonella Foenum Graecum Seed Extract Attenuated the hs‐ CRP Level in Patients With Myocardial Infarction: A Randomized, Triple‐Blind, Placebo‐Controlled Clinical Trial | Flavour and Fragrance Journal
+- new | 2025 | 10.1097/mrm.0000000000000394 | article | Therapeutic effects of medicinal plants in vulvovaginal candidiasis: a review on randomized clinical trials | Reviews in Medical Microbiology
+- new | 2025 | 10.66281/70130/8812 | conference-abstract | Efficacy and safety of herbal therapies in the treatment of hyperlipidemia: A systematic review of randomized controlled trials | University of Colombo Annual Research Sy
+- new | 2024 | 10.21522/tijph.2013.se.24.02.art003 | article | Effect of Allium Sativum (Garlic) Intake on Biochemical Parameters among Type I Hypertensive Clients – A Randomized Controlled Trials | Texila international journal of public h
+- new | 2023 | 10.31032/ijbpas/2023/12.12.1069 | article | EFFECTIVENESS OF COMPLIMENTARY THERAPY OF ALLIUM SATIVUM ON REDUCING BLOOD PRESSURE AMONG PATIENTS WITH HYPERTENSION- A COMMUNITY TRIAL | International Journal of Biology Pharmac
+- new | 2023 | 10.15586/ijfs.v35i3.2381 | article | Anti-dyslipidemic and anti-hypercholesteremic effects of concoction juice: A randomized, double-blind, placebo controlled trial | Italian Journal of Food Science
+- new | 2022 | 10.7454/jpdi.v9i4.1022 | article | Effectiveness of Garlic Extract (Allium sativum) to Reduce Level of Malondialdehyde Serum and Improve Quality of Life in Patients with Chronic Hemodialysis: A Randomized Double-Bli | Jurnal Penyakit Dalam Indonesia
+- new | 2022 | 10.22087/hmj.v6i2.917 | article | Triple Therapy with Garlic, Silymarin and Curcumin in Non-Alcoholic Fatty Liver Disease: A Randomized, Placebo-Controlled Clinical Trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2021 | 10.30650/jik.v9i2.2285 | article | RANDOMIZED CONTROL TRIAL COMPLEMENTARY THERAPY GARLIC CAPSULES IN HYPERTENSION PATIENTS | Jurnal Ilmu Kesehatan
+- new | 2021 | 10.12982/cmujns.2021.087 | article | Assessment of the Antihyperlipidemic Effect of Garlic Vs Pitavastatin in Patients with Moderate Hyperlipidemia: A Metanalysis of Randomized Controlled Trials | Chiang Mai University Journal of Natural
+- new | 2021 | 10.5958/0974-360x.2021.00174.8 | article | Effect of Allium sativum on dental plaque pH-A double blinded randomized parallel placebo-controlled trial | Research Journal of Pharmacy and Technol
+- new | 2021 | 10.21203/rs.3.rs-1318760/v1 | preprint | Efficacy and Safety of A Novel Antiviral Preparation in ICU-Admitted Patients with COVID-19: A Phase III Randomized Controlled Trial | Research Square
+- new | 2021 | 10.1097/01.hjh.0000752400.24367.fa | review | GARLIC EFFECT ON REDUCE BLOOD PRESSURE AND CHOLESTEROL IN PATIENTS WITH AND WITHOUT HYPERTENSION: A SYSTEMATIC REVIEW AND META-ANALYSIS OF RANDOMIZED CONTROLLED TRIALS | Journal of Hypertension
+- new | 2021 | https://openalex.org/W7220273645 | review | The Effect of Garlic Supplements on Lipid Profiles: A Systematic Review and Meta-Analysis of Randomized Clinical Trials | The American Journal of Natural Medicine
+- new | 2020 | 10.21474/ijar01/10553 | article | EFFECT OF ALLIUM SATIVUM ON LIPID PROFILE IN POSTMENOPAUSAL WOMEN WITH MODERATE HYPERLIPIDEMIA: A RANDOMIZED CLINICAL TRIAL | International Journal of Advanced Resear
+- new | 2019 | 10.1055/s-0039-3399747 | conference-paper | Effects of garlic (Allium sativum L.) in postweaning pigs – a placebo controlled study | Planta Medica
+- new | 2018 | 10.5812/ircmj.60675 | article | Effects of Garlic Pill on Blood Glucose Level in Borderline Gestational Diabetes Mellitus: A Randomized Controlled Trial | Iranian Red Crescent Medical Journal
+- new | 2016 | 10.4103/0974-7168.179152 | article | A multicentric, double-blind randomized, homoeopathic pathogenetic trial of Allium sativum | Indian Journal of Research in Homoeopath
+- new | 2015 | https://openalex.org/W2344656184 | article | The effect of garlic consumption on Helicobacter pylori treatment using urea breath test: a randomized clinical trial | 
+- new | 2013 | https://openalex.org/W7220245843 | review | The Efficacy of Garlic (Allium sativum) Supplementation for Blood Pressure Reduction: A Meta-Analysis of Randomized Controlled Trials | The American Journal of Natural Medicine
+- new | 2013 | 10.2217/clp.13.26 | article | Phytotherapy for diabetic dyslipidemia: evidence from clinical trials | Clinical Lipidology
+- new | 2012 | 10.1111/fct.12000 | review | Can garlic‐intake reduce the risk of cancer? A systematic review of randomised controlled trials | Focus on Alternative and Complementary T
+- new | 2007 | 10.1096/fasebj.21.6.a1126-d | conference-abstract | Effect of consuming raw or boiled garlic on agonist‐induced ex vivo platelet aggregation: an open trial with healthy volunteers | The FASEB Journal
+- new | 2000 | 10.1016/s0016-5085(00)81010-0 | article | Garlic in the treatment of Helicobacter pylori infection, a double blind randomized placebo controlled trial | Gastroenterology
+- new | 1998 | 10.1203/00006450-199804001-00682 | article | Alternative Medicine--A Randomized Double Blind Placebo-Controlled Clinical Trial of Garlic in Hypercholesterolemic Children ♦ 661 | Pediatric Research
+
+## aloe-vera (Aloe vera) - name clause: "Aloe vera"[tiab] OR "Aloe barbadensis"[tiab] OR "aloe"[ti]
+
+### PubMed HT - 460 hits, 200 not already listed above, 186 new
+- new | 2026 | 41836525 | Randomized Controlled Trial | Development, Characterization, and Clinical Evaluation of a 6% Nitroglycerin-Aloe Vera Transdermal Gel for Stable Angina Management. | Drug Des Devel Ther
+- SEEN | 2026 | 42817109 |  | Herbal Medicine in Episiotomy Wound Healing: A Systematic Review. | Curr Drug Deliv
+- new | 2026 | 42085084 | Randomized Controlled Trial/Comparative Study | Therapeutic Outcomes of Aloe vera Gel Compared with Triamcinolone Acetonide in Minor Aphthous Stomatitis. | Niger J Clin Pract
+- new | 2026 | 42794916 | Review | Non-Pharmacological Treatments for Oral Carcinogenesis: From Oral Lichen Planus to Oral Squamous Cell Carcinoma. | Cancers (Basel)
+- new | 2026 | 41828216 | Review | Modifications of Resorbable Root Canal Filling Materials for Primary Teeth: A Systematic Review. | Materials (Basel)
+- new | 2026 | 41448032 | Observational Study | Non-hormonal vaginal gel improves vaginal and sexual health in menopausal women: results from a 6-month prospective study. | Eur J Obstet Gynecol Reprod Biol
+- new | 2026 | 42490900 | Systematic Review | Clinical and radiographic outcomes of Aloe vera as a pulpotomy medicament in primary teeth: a systematic review. | Front Dent Med
+- new | 2026 | 41622096 | Review | Clinical evidence for managing radiotherapy-induced oral mucositis and xerostomia in head and neck cancer patients: a review of Phase III-IV trials. | Int J Oral Maxillofac Surg
+- new | 2026 | 42797912 |  | Impact of Combined Botanical Functional Ingredients on the Canine Gut Microbiome. | Vet Sci
+- new | 2026 | 42317150 | Systematic Review/Meta-Analysis | Natural Agents for the Improvement of Gingival Health: Systematic Review and Meta-Analysis of Randomized Clinical Trials. | Oral Health Prev Dent
+- new | 2025 | 40210174 | Systematic Review | Herbal medicine for treating psoriasis: A systematic review. | Complement Ther Med
+- new | 2025 | 40536553 | Systematic Review/Research Support, Non-U.S. Gov't | Pathophysiology, conventional treatments, and evidence-based herbal remedies of hair loss with a systematic review of controlled clinical trials. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 38963342 | Systematic Review/Meta-Analysis | Herbal Medicine in Children and Adults With Atopic Dermatitis: A Systematic Review and Meta-Analysis. | Dermatitis
+- new | 2025 | 40733149 |  | Wound Healing Effects of New Cream Formulations with Herbal Ingredients. | Pharmaceutics
+- new | 2025 | 41305573 | Systematic Review | Nutritional and Supplemental Interventions for Prevention and Treatment of Oral Mucositis in Pediatric Oncology. | Nutrients
+- new | 2025 | 40636208 |  | Efficiency of turmeric, triphala and aloe vera in the treatment of oral submucous fibrosis. | Bioinformation
+- new | 2025 | 41223581 |  | A randomised double blind placebo-controlled clinical trial to evaluate the effects of Liv-Pro- a food supplement for Non-Alcoholic Fatty Liver Disease. | J Ayurveda Integr Med
+- new | 2025 | 39110917 | Systematic Review | Nutritional Interventions in Adult Patients With Irritable Bowel Syndrome: An Umbrella Review of Systematic Reviews and Meta-analyses of Randomized Clinical Trials. | Nutr Rev
+- new | 2025 | 41290277 | Systematic Review/Meta-Analysis | CLINICAL EFFECT OF LOCAL ALOE VERA USE AS AN ADJUNCT TO PERIODONTAL THERAPY: A SYSTEMATIC REVIEW AND META-ANALYSIS. | J Evid Based Dent Pract
+- new | 2025 | 41240848 |  | Gut microbiota modulation by polysaccharide from Aloe gel: Potential prebiotic and targeted regulatory effects. | Food Chem
+- new | 2025 | 40895989 |  | A Randomized Controlled Trial on the Therapeutic Effect of Aloe Vera Extract on Diabetic Foot Ulcers. | Cureus
+- new | 2025 | 40951722 |  | Antimicrobial Effects of Aloe Vera Mouthwash in Adults with Dental Caries: A Preliminary Clinical Trial. | J Int Soc Prev Community Dent
+- new | 2025 | 40258777 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Decreased inflammatory biomarkers after using artificial tears with Aloe vera and hypromellose for dry eye. | Clin Exp Optom
+- new | 2025 | 41522979 |  | Comparative Evaluation of Satranidazole Gel and Aloe Vera Gel as Adjuncts to Scaling and Root Planing in the Treatment of Chronic Periodontitis: A Randomized, Single-Blind, Paralle | J Pharm Bioallied Sci
+- new | 2025 | 41466705 |  | Impact of aloe vera on post-surgical wound healing in chronic periodontitis patients undergoing periodontal flap surgery: A randomized controlled trial. | Bioinformation
+- HELD REF-2235 | 2024 | 37915246 | Review | Aloe Barbadensis Miller (Aloe Vera). | Int J Vitam Nutr Res
+- HELD REF-2240 | 2024 | 38652926 | Randomized Controlled Trial/Comparative Study/Research Support, Non-U.S. Gov't | Comparative evaluation of the efficacy of probiotic, Aloe vera, povidine-iodine, and chlorhexidine mouthwashes in the treatment of gingival inflammation: A randomized controlled tr | Dent Med Probl
+- HELD REF-3420 | 2024 | 38605441 | Systematic Review/Meta-Analysis | Effects of Aloe vera on Burn Injuries: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | J Burn Care Res
+- new | 2024 | 38155549 | Systematic Review | Antioxidant treatments in patients with oral submucous fibrosis: A systematic review. | J Oral Pathol Med
+- new | 2024 | 37670716 | Randomized Controlled Trial | The Effect of Aloe vera on the Healing of Diabetic Foot Ulcer: A Randomized, Double-blind Clinical Trial. | Curr Drug Discov Technol
+- new | 2024 | 39611895 |  | Methodological Critique: Aloe Vera Gel Plus Urea Cream vs. Urea Cream Alone for Hand-Foot Syndrome in Capecitabine Therapy. | Asian Pac J Cancer Prev
+- new | 2024 | 38529934 | Research Support, Non-U.S. Gov't | Effects of Aloe Gel on Lactating Women with Nipple Trauma. | Breastfeed Med
+- new | 2024 | 38952774 |  | Aloe vera supplementation improves cardiovascular risk factors in hemodialysis patients: A randomized, double-blind, placebo-controlled trial. | Avicenna J Phytomed
+- new | 2024 | 39620010 |  | Influence of Aloe Vera Gel and Safe Salts on Storage Quality of Minimally Processed Carrot. | Food Sci Nutr
+- new | 2024 | 39262544 |  | Effectiveness of Chlorhexidine and Aloe Vera Mouthwash in Patients With Periodontal Disease: A Randomized Controlled Trial. | Cureus
+- new | 2024 | 38745686 |  | The Effects of Aloe Vera Cream on the Alar Scar in Rhinoplasty, A Randomized Double-Blind Controlled Trial. | Iran J Otorhinolaryngol
+- new | 2024 | 38479038 |  | Effect of reconstituted, lyophilized cold aqueous extract of Aloe vera on human whole blood clotting time - A pilot study. | J Ayurveda Integr Med
+- new | 2024 | 38548635 |  | Antibacterial effects of dentifrices against Streptococcus mutans in children: a comparative in vitro study. | J Clin Pediatr Dent
+- new | 2024 | 39050692 | Review | The Effect of Oral Care Intervention in Mucositis Management Among Pediatric Cancer Patients: An Updated Systematic Review. | J Multidiscip Healthc
+- new | 2024 | 39219832 |  | Efficacy of a novel combination of aloe vera gel and pineapple extracts in improving post-extraction pain and healing: A Randomized Controlled Trial. | J Clin Exp Dent
+- new | 2024 | 36583292 | Randomized Controlled Trial | Clinical efficacy of green tea, aloe vera and chlorhexidine mouthwashes in the treatment of dental biofilm induced gingivitis: A multi-arm, double-blinded, randomized controlled cl | Int J Dent Hyg
+- new | 2024 | 38273379 | Randomized Controlled Trial/Multicenter Study | Efficacy of an aloe vera, chamomile, and thyme cosmetic cream for the prophylaxis and treatment of mild dermatitis induced by radiation therapy in breast cancer patients: a control | Trials
+- new | 2024 | 38611819 |  | Synergetic Effects of Aloe Vera Extract with Trimethylglycine for Targeted Aquaporin 3 Regulation and Long-Term Skin Hydration. | Molecules
+- new | 2024 | 38986267 | Review | Comparing efficacy of curcumin with other treatment modalities in oral submucous fibrosis management - A systematic review and meta-analysis. | J Ayurveda Integr Med
+- new | 2024 | 38616815 |  | Efficacy of an aloe vera, chamomile, and thyme cosmetic cream for the prophylaxis and treatment of mild dermatitis induced by radiation therapy in breast cancer patients (the Alant | Contemp Clin Trials Commun
+- new | 2024 | 39926756 |  | Comparative Evaluation of Subgingivally Delivered Tetracycline Fibers and Aloe Vera Gel as an Adjunct to Scaling and Root Planing in Treatment of Chronic Periodontitis: A Randomize | J Pharm Bioallied Sci
+- new | 2024 | 38918684 | Randomized Controlled Trial/Clinical Trial, Phase II/Comparative Study | A Randomized Single-Blinded Phase II Trial Comparing Efficacy and Quality of Life of Topical Aloe Vera Gel Plus Urea Cream Versus Urea Cream Alone for Prevention of Hand Foot Syndr | Asian Pac J Cancer Prev
+- new | 2024 | 38803761 |  | Efficacy of Locally Delivered Aloe Vera Hydrogel in Patients With Chronic Periodontitis: A Prospective Clinical Study. | Cureus
+- new | 2024 | 38229162 | Randomized Controlled Trial | Comparison of aloe vera gel dressing with conventional dressing on pressure ulcer pain reduction: a clinical trial. | BMC Res Notes
+- new | 2024 | 38379554 |  | Colon targeting in rats, dogs and IBD patients with species-independent film coatings. | Int J Pharm X
+- new | 2024 | 38808218 |  | Investigating the effect of Aloe vera on the prevention and treatment of radiotherapy-induced oral mucositis in patients with head-and-neck cancer. | J Res Med Sci
+- new | 2023 | 36808781 | Randomized Controlled Trial | The effect of a standardized capsule of Aloe vera gel on the quality of life in patients with systolic heart failure: A randomized double-blind placebo-controlled clinical trial. | Phytother Res
+- new | 2023 | 36958415 | Systematic Review | Phytotherapy in paediatric skin disorders - A systematic literature review. | Complement Ther Med
+- new | 2023 | 36864527 | Randomized Controlled Trial | Prevention of radiotherapy-related oral mucositis with zinc and polyherbal mouthwash: a double-blind, randomized clinical trial. | Eur J Med Res
+- new | 2023 | 36781110 | Systematic Review/Network Meta-Analysis | Comparative effectiveness of medicinal interventions for oral submucous fibrosis: A network meta-analysis. | J Stomatol Oral Maxillofac Surg
+- new | 2023 | 37209466 | Systematic Review | Effectiveness of natural-based products for radiation-induced oral mucositis therapy: A systematic review. | Cancer Treat Res Commun
+- new | 2023 | 37693983 |  | Efficacy of Cucurmin and Aloevera Extracts Gel as Local Drugs Delivery Agents. | J Pharm Bioallied Sci
+- new | 2023 | 37260680 |  | Antimicrobial activity of Desplac® oral gel in the subgingival multispecies biofilm formation. | Front Microbiol
+- new | 2023 | 37694023 |  | Assessment of Aloe Vera and Tulsi's Effectiveness in Treating Oral Submucous Fibrosis. | J Pharm Bioallied Sci
+- new | 2023 | 37969667 |  | Effect of aloe vera juice on type 2 diabetes mellitus among Indian patients. | Bioinformation
+- new | 2023 | 36673955 | Systematic Review | Efficacy of Topical Treatments for the Management of Symptomatic Oral Lichen Planus: A Systematic Review. | Int J Environ Res Public Health
+- new | 2023 | 37234297 |  | Qualitative assessment of Aloe vera as natural tissue fixative: An institutional study. | J Oral Maxillofac Pathol
+- new | 2023 | 37828490 | Research Support, Non-U.S. Gov't/Systematic Review | Drug treatment for oral submucous fibrosis: an update. | BMC Oral Health
+- new | 2023 | 37595657 |  | Clinical and radiographic peri-implant outcomes with riboflavin loaded Poly-L-glycolic acid nanoparticles incorporated in aloe-vera gel treating peri-implantitis in chronic hypergl | Photodiagnosis Photodyn Ther
+- new | 2023 | 37699014 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Rapid increase in immune surveillance and expression of NKT and γδT cell activation markers after consuming a nutraceutical supplement containing Aloe vera gel, extracts of Poria c | PLoS One
+- new | 2023 | 37837466 | Network Meta-Analysis | Comparison of ointment-based agents after excisional procedures for hemorrhoidal disease: a network meta-analysis of randomized controlled trials. | Langenbecks Arch Surg
+- new | 2023 | 35943370 | Randomized Controlled Trial | Comparison of antiplaque and anti-gingivitis effects of aloe vera mouthwash with chlorhexidine in fixed orthodontic patients-A randomized controlled trial. | Int J Dent Hyg
+- new | 2023 | 37168053 |  | Healthy adults supplemented with a nutraceutical formulation containing Aloe vera gel, rosemary and Poria cocos enhances the effect of influenza vaccination in a randomized, triple | Front Nutr
+- new | 2023 | 38078020 |  | Clinical and Radiographic Evaluation of Nigella sativa and Aloe vera as Pulpotomy Medicaments in Primary Teeth: A Randomized Controlled Trial. | Int J Clin Pediatr Dent
+- new | 2023 | 36826180 | Review | Periodontal Management in Periodontally Healthy Orthodontic Patients with Fixed Appliances: An Umbrella Review of Self-Care Instructions and Evidence-Based Recommendations. | Dent J (Basel)
+- new | 2023 | 37133931 | Randomized Controlled Trial | Efficacy of aloe vera and probiotic mouthwashes vs fluoride mouthwash on Streptococcus mutans in plaque around brackets of orthodontic patients: a randomized clinical trial. | Angle Orthod
+- new | 2023 | 37312826 |  | Efficacy of Aloe Vera and Clobetasol Propionate in the Management of Oral Lichen Planus: A Randomized Parallel Clinical Trial. | Front Dent
+- new | 2023 | 38152944 | Randomized Controlled Trial | Clinical and Radiographic Evaluation of Various Herbal Products Used with Zinc Oxide as an Obturating Material in Primary Teeth: An In Vivo Study. | J Contemp Dent Pract
+- new | 2022 | 35524296 | Systematic Review | Oral lichen planus: comparative efficacy and treatment costs-a systematic review. | BMC Oral Health
+- new | 2022 | 35767935 | Multicenter Study/Randomized Controlled Trial | Reduction in severity of radiation-induced dermatitis in head and neck cancer patients treated with topical aloe vera gel: A randomized multicenter double-blind placebo-controlled  | Eur J Oncol Nurs
+- new | 2022 | 36264753 | Systematic Review/Meta-Analysis | Second-Degree Burns and Aloe Vera: A Meta-analysis and Systematic Review. | Adv Skin Wound Care
+- new | 2022 | 36120261 | Review | The Effectiveness of Herbal Versus Non-Herbal Mouthwash for Periodontal Health: A Literature Review. | Cureus
+- new | 2022 | 35052995 |  | Home Oral Care of Periodontal Patients Using Antimicrobial Gel with Postbiotics, Lactoferrin, and Aloe Barbadensis Leaf Juice Powder vs. Conventional Chlorhexidine Gel: A Split-Mou | Antibiotics (Basel)
+- new | 2022 | 35255973 | Randomized Controlled Trial | Effectiveness of aloe fomentation for nipple-related complications during the early puerperium period: a randomized, controlled, interventional study. | BMC Res Notes
+- new | 2022 | 36337821 | Review | A Systematic Review and Meta-Analysis Comparing Burn Healing Outcomes Between Silver Sulfadiazine and Aloe vera. | Cureus
+- new | 2022 | 36249738 | Review | Aloe vera for prevention of radiation-induced dermatitis: A systematic review and cumulative analysis of randomized controlled trials. | Front Pharmacol
+- new | 2022 | 36388847 | Review | The Effectiveness of Aloe Vera on Relief of Irritation and Nipple Pain in Lactating Women: Systematic Review and Meta-Analysis. | Obstet Gynecol Int
+- new | 2022 | 33811776 | Randomized Controlled Trial | A randomized controlled trial to compare the effectiveness and safety of adsorbent lotion containing tapioca starch, spent grain wax, Butyrospermum parkii extract, argania spinosa  | J Cosmet Dermatol
+- HELD REF-3421 | 2022 | 36504087 | Meta-Analysis/Systematic Review | Effects of Aloe Vera in the Treatment of Oral Ulcers: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. | Oral Health Prev Dent
+- new | 2022 | 36013221 | Review | Comparative Efficacy of Interventions for the Management of Oral Submucous Fibrosis: A Systematic Review and Network Meta-Analysis. | J Pers Med
+- new | 2022 | 35284353 |  | Comparative Evaluation of the Effect of Aloe Vera Gel, Olive Oil, and Compound Aloe Vera Gel-Olive Oil on Prevention of Pressure Ulcer: A Randomized Controlled Trial. | Adv Biomed Res
+- new | 2022 | 34853932 | Randomized Controlled Trial | Comparative efficacy of topical aloe vera and low-level laser therapy in the management of oral lichen planus: a randomized clinical trial. | Lasers Med Sci
+- new | 2022 | 33616843 | Randomized Controlled Trial | Aloe vera for Prevention of Acute Radiation Proctitis in Colorectal Cancer a Preliminary Randomized, Placebo-Controlled Clinical Trial. | J Gastrointest Cancer
+- new | 2022 | 35474550 | Clinical Trial Protocol | Stem cell transplantation patients receiving a novel oral care protocol for oral mucositis prevention and treatment: patient-reported outcomes and quality of life. | Support Care Cancer
+- new | 2022 | 36247037 |  | A Comparative Study of the Impacts of Aloe vera Gel and Silver Sulfadiazine Cream 1% on Healing, Itching and Pain of Burn Wounds: A Randomized Clinical Trial. | J Caring Sci
+- new | 2022 | 36320801 |  | Assessment of the Effectiveness of Aloe vera Versus Amlexanox in the Treatment of Recurrent Aphthous Ulcers: A Three-Arm Placebo-Controlled Randomized Clinical Trial. | Cureus
+- new | 2022 | 35722228 |  | Aloe vera mouthwashes can be a natural alternative to chemically formulated ones - A randomized-controlled trial. | J Taibah Univ Med Sci
+- new | 2022 | 36010501 |  | Application of Aloe vera Gel Coating Enriched with Cinnamon and Rosehip Oils to Maintain Quality and Extend Shelf Life of Pomegranate Arils. | Foods
+- new | 2022 | 35572354 |  | The Effect of Aloe vera and Chlorhexidine as Disinfectants on the Success of Selective Caries Removal Technique: A Randomized Controlled Trial. | Int J Dent
+- new | 2022 | 35922679 | Clinical Trial, Phase II | Efficacy and safety of a colostrum- and Aloe vera-based oral care protocol to prevent and treat severe oral mucositis in patients undergoing hematopoietic stem cell transplantation | Ann Hematol
+- new | 2022 | 35734140 |  | Control of post-harvest storage losses in water chestnut (Trapa bispinosa Roxburg) fruits by natural functional herbal coating and gamma radiation processing. | J Food Sci Technol
+- new | 2022 | 36896315 |  | Potential Benefits of Aloe vera and Raphanus sativus var. longipinnatus Gel for Prevention of Radiation-Induced Dermatitis in Head and Neck Cancer Patients. | Iran J Pharm Res
+- new | 2021 | 34385093 | Randomized Controlled Trial | Effect of processed aloe vera gel on immunogenicity in inactivated quadrivalent influenza vaccine and upper respiratory tract infection in healthy adults: A randomized double-blind | Phytomedicine
+- new | 2021 | 34609377 | Systematic Review | Effectiveness of Nonpharmacologic Treatments of Burning Mouth Syndrome: A Systematic Review. | J Oral Facial Pain Headache
+- new | 2021 | 32671872 | Review/Network Meta-Analysis | Herbal derivatives in the management of mouth opening in oral submucous fibrosis-A network meta-analysis. | Oral Dis
+- new | 2021 | 33336470 | Meta-Analysis/Systematic Review | Effects of Aloe vera in adults with mucocutaneous problems: A systematic review and meta-analysis. | J Adv Nurs
+- new | 2021 | 34563809 | Systematic Review | Effectiveness of aloe vera in patients with type 2 Diabetes Mellitus and pre-diabetes: An overview of systematic reviews. | Diabetes Metab Syndr
+- new | 2021 | 34449259 | Meta-Analysis/Systematic Review | Herbal Medicines for Treatment of Radiodermatitis: A Systematic Review and Meta-Analysis. | J Altern Complement Med
+- new | 2021 | 33682925 | Systematic Review/Network Meta-Analysis | Interventions for oral lichen planus: A systematic review and network meta-analysis of randomized clinical trials. | Aust Dent J
+- new | 2021 | 33383112 | Comparative Study/Randomized Controlled Trial | Aloe Vera; A new treatment for atrophic vaginitis, A randomized double-blinded controlled trial. | J Ethnopharmacol
+- new | 2021 | 33854714 |  | Acemannan-induced tooth socket healing: A 12-month randomized controlled trial. | J Dent Sci
+- new | 2021 | 33064207 | Randomized Controlled Trial | The effects of a novel herbal toothpaste on salivary lactate dehydrogenase as a measure of cellular integrity. | Clin Oral Investig
+- new | 2021 | 33409696 | Meta-Analysis/Systematic Review | Clinical applicability of natural products for prevention and treatment of oral mucositis: a systematic review and meta-analysis. | Clin Oral Investig
+- new | 2021 | 34646359 |  | Aloe barbadensis Mill. extract improves symptoms in IBS patients with diarrhoea: post hoc analysis of two randomized double-blind controlled studies. | Ther Adv Gastroenterol
+- HELD REF-2485 | 2021 | 34899340 | Review | Effectiveness of Medicinal Plants for Glycaemic Control in Type 2 Diabetes: An Overview of Meta-Analyses of Clinical Trials. | Front Pharmacol
+- new | 2021 | 33942562 | Systematic Review | A systematic review on the effectiveness of organic unprocessed products in controlling gingivitis in patients undergoing orthodontic treatment with fixed appliances. | Clin Exp Dent Res
+- new | 2021 | 34540131 |  | Comparison of therapeutic effects of statins and aloe vera mouthwash on chemotherapy induced oral mucositis. | Int J Physiol Pathophysiol Pharmacol
+- new | 2021 | 34389753 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Relative absorption of silicon from different formulations of dietary supplements: a pilot randomized, double-blind, crossover post-prandial study. | Sci Rep
+- new | 2021 | 34162822 | Randomized Controlled Trial | Comparison of the effect of ginger and aloe vera mouthwashes on xerostomia in patients with type 2 diabetes: A clinical trial, triple-blind. | Med Oral Patol Oral Cir Bucal
+- new | 2021 | 34884343 |  | A Clinical Study on the Efficacy and Tolerability of a New Topical Gel and Toothpaste in Patients with Xerostomia: A Randomized Controlled Trial. | J Clin Med
+- new | 2020 | 32404169 | Randomized Controlled Trial | Prevention of acute radiation-induced Proctitis by Aloe vera: a prospective randomized, double-blind, placebo controlled clinical trial in Pelvic Cancer patients. | BMC Complement Med Ther
+- new | 2020 | 32697018 | Review | Food supplements and diet as treatment options in irritable bowel syndrome. | Neurogastroenterol Motil
+- new | 2020 | 32151878 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Herbal formula improves upper and lower gastrointestinal symptoms and gut health in Australian adults with digestive disorders. | Nutr Res
+- new | 2020 | 33063778 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Radiodermatitis in Patients With Cancer: Systematic Review and Meta-Analysis. | Oncol Nurs Forum
+- SEEN | 2020 | 30829440 | Systematic Review | Efficacy of aloe vera mouthwash versus chlorhexidine on plaque and gingivitis: A systematic review. | Int J Dent Hyg
+- new | 2020 | 32049698 | Randomized Controlled Trial | Aloe vera-Peppermint Gel (Veramin): An Effective Treatment for Mouth Dryness Among ICU Patients. | Holist Nurs Pract
+- new | 2020 | 32314514 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized clinical trial: Effects of Aloe barbadensis Mill. extract on symptoms, fecal microbiota and fecal metabolite profiles in patients with irritable bowel syndrome. | Neurogastroenterol Motil
+- new | 2020 | 32279615 | Randomized Controlled Trial | Adding herbal extracts to silicone gel on post-sternotomy scar: a prospective randomised double-blind study. | J Wound Care
+- new | 2020 | 31987249 | Meta-Analysis/Systematic Review | Western herbal medicines in the treatment of irritable bowel syndrome: A systematic review and meta-analysis. | Complement Ther Med
+- new | 2020 | 32229652 | Review | The Role of medicinal herbs in treatment of insulin resistance in patients with Polycystic Ovary Syndrome: A literature review. | Biomol Concepts
+- new | 2020 | 33623341 |  | Clinical and Radiographic Evaluation of the Efficacy of Formocresol, Allium sativum Oil, and Aloe barbadensis Gel as Pulpotomy Medicaments in Primary Molars: A Randomized Controlle | Int J Clin Pediatr Dent
+- new | 2020 | 32145110 | Meta-Analysis | Efficacy of hyaluronidase combined with corticosteroids in treatment of oral submucous fibrosis: A meta-analysis of randomized controlled clinical trials. | J Oral Pathol Med
+- new | 2020 | 32147034 | Systematic Review | Therapeutic potential of medicinal plants indicated by the Brazilian public health system in treating the collateral effects induced by chemotherapy, radiotherapy, and chemoradioth | Complement Ther Med
+- new | 2020 | 30614013 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparison between topical recombinant human epidermal growth factor and Aloe vera gel in combination with ablative fractional carbon dioxide laser as treatment for striae alba: A  | Lasers Surg Med
+- HELD REF-2241 | 2019 | 30666070 |  | The Effect of Aloe Vera Clinical Trials on Prevention and Healing of Skin Wound: A Systematic Review. | Iran J Med Sci
+- new | 2019 | 30942656 | Review | Medicinal Plant Extracts and Their Use As Wound Closure Inducing Agents. | J Med Food
+- new | 2019 | 30329174 | Meta-Analysis/Systematic Review | Aloe vera in treatment of oral submucous fibrosis: A systematic review and meta-analysis. | J Oral Pathol Med
+- new | 2019 | 31741361 | Systematic Review | Topical Treatments for Melasma: A Systematic Review of Randomized Controlled Trials. | J Drugs Dermatol
+- new | 2019 | 31272819 |  | Therapeutic potential of Aloe vera-A miracle gift of nature. | Phytomedicine
+- new | 2019 | 31831965 |  | Efficacy of Ocimum sanctum, Aloe vera and chlorhexidine mouthwash on gingivitis: A randomized controlled comparative clinical study. | Ayu
+- new | 2018 | 29527506 |  | Marked improvement of thyroid function and autoimmunity by Aloe barbadensis miller juice in patients with subclinical hypothyroidism. | J Clin Transl Endocrinol
+- new | 2018 | 29875856 |  | Is There a Place for Local Natural Treatment of Psoriasis? | Open Access Maced J Med Sci
+- new | 2018 | 29649056 | Randomized Controlled Trial/Systematic Review/Video-Audio Media | Topical Aloe Vera Gel for Accelerated Wound Healing of Split-Thickness Skin Graft Donor Sites: A Double-Blind, Randomized, Controlled Trial and Systematic Review. | Plast Reconstr Surg
+- HELD REF-3424 | 2018 | 30153721 | Review | Aloe vera Is Effective and Safe in Short-term Treatment of Irritable Bowel Syndrome: A Systematic Review and Meta-analysis. | J Neurogastroenterol Motil
+- new | 2018 | 32734053 |  | Immunomodulatory effect of Stinging nettle (Urtica dioica) and Aloe vera (Aloe barbadensis) in broiler chickens. | Vet Anim Sci
+- new | 2017 | 28700086 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Antiseptics for burns. | Cochrane Database Syst Rev
+- new | 2017 | 28919243 | Review | Drugs - Do we need them? Applications of non-pharmaceutical therapy in anterior eye disease: A review. | Cont Lens Anterior Eye
+- new | 2017 | 28029732 | Meta-Analysis/Systematic Review | The efficacy of aloe vera in management of oral lichen planus: a systematic review and meta-analysis. | Oral Dis
+- new | 2017 | 28764287 |  | Aloe vera for Dry Mouth Denture Patients - Palliative Therapy. | J Clin Diagn Res
+- new | 2017 | 28139161 | Randomized Controlled Trial | Clinical efficacy of liposome-encapsulated Aloe vera on melasma treatment during pregnancy. | J Cosmet Laser Ther
+- new | 2017 | 28031724 | Published Erratum | Erratum: Aloe sterol supplementation improves skin elasticity in Japanese men with sunlight-exposed skin: a 12-week double-blind, randomized controlled trial [Corrigendum]. | Clin Cosmet Investig Dermatol
+- new | 2017 | 28618234 | Randomized Controlled Trial | Successful Treatment of Acute Radiation Proctitis with Aloe Vera: A Preliminary Randomized Controlled Clinical Trial. | J Altern Complement Med
+- new | 2017 | 28930258 |  | An Aloe Vera-Based Cosmeceutical Cream Delays and Mitigates Ionizing Radiation-Induced Dermatitis in Head and Neck Cancer Patients Undergoing Curative Radiotherapy: A Clinical Stud | Medicines (Basel)
+- SEEN | 2016 | 27347994 | Meta-Analysis/Systematic Review | Efficacy of Aloe Vera Supplementation on Prediabetes and Early Non-Treated Diabetic Patients: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Nutrients
+- HELD REF-2456 | 2016 | 27009750 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis. | J Clin Pharm Ther
+- new | 2016 | 27440796 | Randomized Controlled Trial | Clinical Efficacy Test of Polyester Containing Herbal Extract Dressings in Burn Wound Healing. | Int J Low Extrem Wounds
+- new | 2016 | 27703614 |  | Comparative efficacy of aloe vera mouthwash and chlorhexidine on periodontal health: A randomized controlled trial. | J Clin Exp Dent
+- new | 2016 | 27768020 | Comparative Study/Randomized Controlled Trial | Clinical efficacy of a solution composed by sodium bicarbonate and alginate, aloe vera, propoli, chamomile, calendula and honey, in the treatment of minor recurrent aphthous stomat | Minerva Pediatr
+- new | 2015 | 26405698 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Pilot Study of the Effect of Aloe barbadensis Mill. Extract (AVH200®) in Patients with Irritable Bowel Syndrome: a Randomized, Double-Blind, Placebo-Controlled Study. | J Gastrointestin Liver Dis
+- new | 2015 | 26742306 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of Aloe vera syrup for the treatment of gastroesophageal reflux disease: a pilot randomized positive-controlled trial. | J Tradit Chin Med
+- new | 2015 | 25518050 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases. | J Crohns Colitis
+- new | 2015 | 25830661 | Review | Herbal and plant therapy in patients with inflammatory bowel disease. | Ann Gastroenterol
+- new | 2015 | 25649640 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of safety and efficacy of a new multipurpose disinfecting solution on silicone hydrogel contact lenses. | J Optom
+- new | 2015 | 26044054 | Review | A comprehensive evidence-based review on the role of topicals and dressings in the management of skin scarring. | Arch Dermatol Res
+- new | 2014 | 24895299 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Aloe vera for prevention and treatment of infusion phlebitis. | Cochrane Database Syst Rev
+- new | 2014 | 23607360 | Systematic Review | Aloe vera herbal dentifrices for plaque and gingivitis control: a systematic review. | Oral Dis
+- new | 2014 | 25063588 | Research Support, Non-U.S. Gov't/Systematic Review | Use of herbal medicines by elderly patients: A systematic review. | Arch Gerontol Geriatr
+- new | 2014 | 25560349 | Randomized Controlled Trial | Aloe vera gel and cesarean wound healing; a randomized controlled clinical trial. | Glob J Health Sci
+- new | 2014 | 24711745 |  | Topical delivery of vitamin d3: a randomized controlled pilot study. | Int J Biomed Sci
+- new | 2014 | 24603910 |  | Effect of Aloe vera mouthwash on periodontal health: triple blind randomized control trial. | Oral Health Dent Manag
+- new | 2013 | 23981095 | Systematic Review | Systematic review: the efficacy of herbal therapy in inflammatory bowel disease. | Aliment Pharmacol Ther
+- new | 2013 | 22788669 | Systematic Review | Urban legends series: lichen planus. | Oral Dis
+- new | 2013 | 22957483 | Comparative Study/Randomized Controlled Trial | Prospective, randomized, double-blind, clinical evaluation of Aloe vera Barbadensis, applied in combination with a tongue protector to treat burning mouth syndrome. | J Oral Pathol Med
+- new | 2013 | 24206557 | Case Reports/Letter | Aloe vera: Not always so beneficial in patients with chronic liver disease. | Rev Esp Enferm Dig
+- new | 2013 | 23543538 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Wound cleansing for pressure ulcers. | Cochrane Database Syst Rev
+- new | 2013 | 24498803 | Research Support, Non-U.S. Gov't/Systematic Review | Iranian medicinal plants for diabetes mellitus: a systematic review. | Pak J Biol Sci
+- HELD REF-3643 | 2013 | 23909714 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Plant extracts for the topical management of psoriasis: a systematic review and meta-analysis. | Br J Dermatol
+- new | 2013 | 24379854 |  | Aloe vera in treatment of refractory irritable bowel syndrome: Trial on Iranian patients. | J Res Med Sci
+- new | 2013 | 23035844 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Effects of Aloe vera supplementation in subjects with prediabetes/metabolic syndrome. | Metab Syndr Relat Disord
+- new | 2012 | 22242640 | Research Support, Non-U.S. Gov't/Systematic Review | Interventions for treating oral lichen planus: a systematic review. | Br J Dermatol
+- new | 2012 | 22855041 | Review | Potential prevention: Aloe vera mouthwash may reduce radiation-induced oral mucositis in head and neck cancer patients. | Chin J Integr Med
+- new | 2012 | 22632394 | Review | Topical therapies for oral lichen planus management and their efficacy: a narrative review. | Curr Pharm Des
+- new | 2012 | 23559789 |  | Pharmacological attribute of Aloe vera: Revalidation through experimental and clinical studies. | Ayu
+- new | 2011 | 21491378 | Meta-Analysis/Systematic Review | Interventions for preventing oral mucositis for patients with cancer receiving treatment. | Cochrane Database Syst Rev
+- new | 2011 | 21979773 | Comment | Insufficient evidence for effectiveness of any treatment for oral lichen planus. | Evid Based Dent
+- new | 2011 | 22134571 | Clinical Trial | Evaluation of a prescription strength 4% hydroquinone/10% L-ascorbic acid treatment system for normal to oily skin. | J Drugs Dermatol
+- new | 2011 | 21735381 | Meta-Analysis/Systematic Review | Interventions for treating oral lichen planus. | Cochrane Database Syst Rev
+- new | 2010 | 22435613 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | A randomized placebo-controlled crossover trial of aloe vera on bioavailability of vitamins C and B(12), blood glucose, and lipid profile in healthy human subjects. | J Diet Suppl
+- new | 2010 | 21154347 | Meta-Analysis/Systematic Review | Interventions for preventing oral mucositis for patients with cancer receiving treatment. | Cochrane Database Syst Rev
+- new | 2009 | 19562446 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Aloe versus silver sulfadiazine creams for second-degree burns: a randomized controlled study. | Surg Today
+- HELD REF-0332 | 2008 | 18037151 | Review | Risks and benefits of commonly used herbal medicines in Mexico. | Toxicol Appl Pharmacol
+- new | 2008 | 18705777 | Research Support, Non-U.S. Gov't/Systematic Review | A systematic review of wound cleansing for pressure ulcers. | J Clin Nurs
+- new | 2006 | 30000889 | Review | Aloe. | 
+- new | 2006 | 17026654 | Clinical Trial/Research Support, Non-U.S. Gov't | Moisturizing effect of cosmetic formulations containing Aloe vera extract in different concentrations assessed by skin bioengineering techniques. | Skin Res Technol
+- new | 2006 | 16749917 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomised double-blind placebo-controlled trial of aloe vera for irritable bowel syndrome. | Int J Clin Pract
+- new | 2006 | 17044448 | Clinical Trial | Effect of aloe (Aloe vera Linn.) on healthy adult volunteers: changes in urinary composition. | J Med Assoc Thai
+- new | 2005 | 16235386 | Meta-Analysis/Systematic Review | Wound cleansing for pressure ulcers. | Cochrane Database Syst Rev
+- HELD REF-3423 | 2005 | 16149293 | Research Support, Non-U.S. Gov't/Systematic Review | Aloe vera for preventing radiation-induced skin reactions: a systematic literature review. | Clin Oncol (R Coll Radiol)
+- new | 2004 | 15106207 | Systematic Review | Dressings and topical agents for surgical wounds healing by secondary intention. | Cochrane Database Syst Rev
+- new | 2004 | 15043514 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis. | Aliment Pharmacol Ther
+- new | 2003 | 12663610 | Systematic Review | Systematic review of herbs and dietary supplements for glycemic control in diabetes. | Diabetes Care
+- new | 2002 | 11915398 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The clinical effects of saline and aloe vera rinses on periodontal surgical sites. | J Okla Dent Assoc
+- new | 2002 | 12069640 | Review | Complementary/alternative medicine in dermatology: evidence-assessed efficacy of two diseases and two treatments. | Am J Clin Dermatol
+- new | 1998 | 10326343 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acemannan hydrogel dressing versus saline dressing for pressure ulcers. A randomized, controlled trial. | Adv Wound Care
+- new | 1993 | 8234418 |  | Rhein and aloe-emodin kinetics from senna laxatives in man. | Pharmacology
+
+### PubMed SR - 167 hits, 48 not already listed above, 45 new
+- new | 2025 | 40995635 | Systematic Review | Chitosan-Based Systems for Curcumin Delivery: Evidence for Therapeutic Applications. | J Biochem Mol Toxicol
+- new | 2025 | 41149599 | Systematic Review | Functionalization Strategies of Chitosan-Based Scaffolds with Growth Factors for Bone Regeneration: A Systematic Review. | Mar Drugs
+- new | 2025 | 40293693 | Systematic Review | A Comprehensive Systematic Review of Natural Biomedicines for Immune-Mediated and Inflammatory Dermatologic Diseases. | Clin Drug Investig
+- HELD REF-3422 | 2025 | 39909775 | Systematic Review/Meta-Analysis | Effectiveness of Aloe vera in the treatment of oral mucositis: a systematic review and meta-analysis of randomized controlled trials. | Int J Oral Maxillofac Surg
+- new | 2024 | 39233460 | Systematic Review | Cosmeceuticals in photoaging: A review. | Skin Res Technol
+- new | 2024 | 38928095 | Review | Cardiovascular Effects of Herbal Products and Their Interaction with Antihypertensive Drugs-Comprehensive Review. | Int J Mol Sci
+- new | 2024 | 39102254 | Review | A Review on Traditional Medicine Used for Burn Treatment. | J Burn Care Res
+- new | 2024 | 39463527 | Review | The Efficacy of Aloe vera Against Enterococcus faecalis as an Intracanal Medicament: A Systematic Review and Meta-Analysis. | Cureus
+- HELD REF-3668 | 2024 | 39436586 | Systematic Review/Meta-Analysis | Effectiveness of the Application of Lanolin, Aloe Vera, and Peppermint on Nipple Pain and Nipple Trauma in Lactating Mothers: A Systematic Review and Meta-Analysis. | Matern Child Health J
+- new | 2024 | 39684553 | Systematic Review | Antibiofilm Effects of Novel Compounds in Otitis Media Treatment: Systematic Review. | Int J Mol Sci
+- new | 2024 | 39110055 | Systematic Review | Medicinal Plants Cultivated in Egypt with Antiviral Potential: A Systematic Review. | Altern Ther Health Med
+- new | 2024 | 37816677 | Meta-Analysis/Systematic Review | Evaluation of the effect of herbal agents as management of radiodermatitis in breast cancer patients: A systematic review and meta-analysis. | Jpn J Nurs Sci
+- new | 2023 | 35916457 | Systematic Review | Polycystic ovaries and herbal remedies: A systematic review. | JBRA Assist Reprod
+- new | 2023 | 38023092 | Review | A systematic review of medicinal plants and herbal products' effectiveness in oral health and dental cure with health promotion approach. | J Educ Health Promot
+- new | 2023 | 30020626 | Study Guide | Alcohol Sanitizer (Archived). | 
+- new | 2023 | 35081820 | Review | The effects of dietary supplements and natural products targeting glucose levels: an overview. | Crit Rev Food Sci Nutr
+- new | 2023 | 37520604 | Review | Anti-bacterial efficacy of Aloe vera against E. Faecalis in comparison to other intracanal medicaments: A systematic review and meta-analysis. | Saudi Dent J
+- new | 2023 | 37153928 | Review | Role of Medicinal Herbs in Periodontal Therapy: A Systematic Review. | J Int Soc Prev Community Dent
+- new | 2023 | 36859690 | Meta-Analysis/Systematic Review | Natural and miscellaneous agents for the prevention of acute radiation dermatitis: a systematic review and meta-analysis. | Support Care Cancer
+- new | 2023 | 37109100 | Review | Comparative Efficacy and Safety of Interventions for the Treatment of Oral Lichen Planus: A Systematic Review and Network Meta-Analysis. | J Clin Med
+- new | 2022 | 36297440 | Review | Effects of Carbon Nanomaterials and Aloe vera on Melanomas-Where Are We? Recent Updates. | Pharmaceutics
+- new | 2022 | 36481618 | Review | Aloe vera in diabetic dyslipidemia: Improving blood glucose and lipoprotein levels in pre-clinical and clinical studies. | J Ayurveda Integr Med
+- new | 2021 | 34307603 |  | Herb-induced liver injury: Systematic review and meta-analysis. | World J Clin Cases
+- new | 2021 | 32924222 | Systematic Review | Aloe vera and health outcomes: An umbrella review of systematic reviews and meta-analyses. | Phytother Res
+- new | 2021 | 34550291 | Systematic Review | The use of babosa (Aloe vera) in treating burns: a literature review. | Braz J Biol
+- new | 2021 | 33221425 | Systematic Review | Aloe gel-base food products: Chemical, toxicological, and regulatory aspects. | Regul Toxicol Pharmacol
+- new | 2021 | 34708058 | Review | Network Meta-Analysis of 10 Storage Mediums for Preserving Avulsed Teeth. | Front Med (Lausanne)
+- new | 2021 | 34409356 | Review | Complementary and alternative medicine treatments for common skin diseases: A systematic review and meta-analysis. | JAAD Int
+- new | 2021 | 33884948 | Systematic Review | Clinical trials with plants in diabetes mellitus therapy: a systematic review. | Expert Rev Clin Pharmacol
+- new | 2021 | 33966619 | Systematic Review | Bioactive Compounds Effective Against Type 2 Diabetes Mellitus: A Systematic Review. | Curr Top Med Chem
+- new | 2019 | 30674002 | Systematic Review | Topical Retinoids in Acne Vulgaris: A Systematic Review. | Am J Clin Dermatol
+- HELD REF-2242 | 2019 | 29999415 | Review | Biomedical applications of Aloe vera. | Crit Rev Food Sci Nutr
+- new | 2018 | 30283701 | Review | A Systematic Review on Prevention and Treatment of Nipple Pain and Fissure: Are They Curable? | J Pharmacopuncture
+- new | 2017 | 28535423 | Systematic Review | Chromatographic separation and detection methods of Aloe arborescens Miller constituents: A systematic review. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2017 | 28289986 | Systematic Review | Topical Botanical Agents for the Treatment of Psoriasis: A Systematic Review. | Am J Clin Dermatol
+- new | 2016 | 27152917 | Meta-Analysis | Reduction of Fasting Blood Glucose and Hemoglobin A1c Using Oral Aloe Vera: A Meta-Analysis. | J Altern Complement Med
+- new | 2016 | 26822584 | Systematic Review | Effects of Plants on Osteogenic Differentiation and Mineralization of Periodontal Ligament Cells: A Systematic Review. | Phytother Res
+- new | 2016 | 27656587 | Review | Clinical Effectiveness of Aloe Vera in the Management of Oral Mucosal Diseases- A Systematic Review. | J Clin Diagn Res
+- new | 2016 | 26887532 | Meta-Analysis/Systematic Review | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies. | Phytother Res
+- new | 2015 | 26768148 | Systematic Review | A Systemic Review on Aloe arborescens Pharmacological Profile: Biological Activities and Pilot Clinical Trials. | Phytother Res
+- new | 2015 | 26151005 | Review | Evaluation of biological properties and clinical effectiveness of Aloe vera: A systematic review. | J Tradit Complement Med
+- new | 2010 | 20421999 | Research Support, Non-U.S. Gov't | An extensive alien plant inventory from the inhabited areas of galapagos. | PLoS One
+- new | 2007 | 18928148 | Systematic Review | An evidence-based systematic review of Aloe vera by the natural standard research collaboration. | J Herb Pharmacother
+- new | 2007 | 17943748 | Meta-Analysis/Systematic Review | Interventions for preventing oral mucositis for patients with cancer receiving treatment. | Cochrane Database Syst Rev
+- new | 2007 | 17499928 | Research Support, Non-U.S. Gov't/Systematic Review | The efficacy of aloe vera used for burn wound healing: a systematic review. | Burns
+- new | 2006 | 30000902 | Review | Lanolin. | 
+- new | 2006 | 16625538 | Meta-Analysis/Systematic Review | Interventions for preventing oral mucositis for patients with cancer receiving treatment. | Cochrane Database Syst Rev
+- new | 1999 | 10885091 | Systematic Review | Aloe vera: a systematic review of its clinical effectiveness. | Br J Gen Pract
+
+### PubMed SAFE - 654 hits, 167 not already listed above, 165 new
+- new | 2026 | 42170967 | Observational Study | Intravaginal Aloe barbadensis and cervical HPV clearance: A retrospective observational study. | Pak J Pharm Sci
+- new | 2026 | 42117091 | Review | Hormesis: induction by Aloe vera extracts and individual constituents. | Open Med (Wars)
+- new | 2026 | 42198489 |  | Developmental Toxicity and Stress Response Profiles of a Commercial Aloe vera Extract in Zebrafish Embryos. | Toxics
+- new | 2026 | 41365158 | Evaluation Study | Safety assessment of aloe vera produced in the Canary Islands: contamination by pesticide residues. | Food Chem
+- HELD REF-2843 | 2026 | 42356420 | Review | Phytochemistry, Bioavailability, and Molecular Mechanisms Underlying Multitarget Anticancer Activity of Aloe vera. | Nutrients
+- new | 2026 | 41884279 | Review | Current Research on Aloe-Derived Extracellular Vesicles in Injury Repair. | Int J Nanomedicine
+- new | 2025 | 40191040 |  | Aloe Vera Gel and Rind-Derived Nanoparticles Mitigate Skin Photoaging via Activation of Nrf2/ARE Pathway. | Int J Nanomedicine
+- new | 2025 | 38716550 | Review | Emerging Natural Therapies for the Treatment of Inflammatory Bowel Disease. | Curr Pharm Biotechnol
+- new | 2025 | 38467965 |  | Aloe vera gel relieves cadmium triggered hepatic injury via antioxidative, anti-inflammatory, and anti-apoptotic routes. | Biol Trace Elem Res
+- new | 2025 | 40757498 |  | Protective in vitro effects of Aloe vera on doxorubicin-induced ovarian toxicity in mice. | Biotech Histochem
+- new | 2025 | 41362433 | Review | Antimicrobial and Anti-Infective Potential of Herbal Creams in Dermatology: Efficacy, Safety, and Challenges in Skin Infection Management. | Infect Drug Resist
+- new | 2025 | 41427149 |  | Aloe Vera alleviates glyphosate-based herbicide hepatotoxicity in rats via anti-inflammatory and antioxidant actions. | Front Vet Sci
+- new | 2025 | 41283585 | Case Reports | Hell's Itch: A Case Series of a Debilitating Post-Sunburn Pruritic Syndrome in a Healthy Young Adult. | Reports (MDPI)
+- new | 2025 | 39218129 |  | Evaluation of in-vitro antioxidant activity, acute oral toxicity, and pancreatic and hepatic protective effects of Aloe rubroviolacea flowers extract against CCl(4) toxicity in a r | J Ethnopharmacol
+- new | 2025 | 40213600 |  | The in Vitro Antimicrobial Effect of Ethanolic Extracts of Aloe Vera on the H-pylori and Inhibitory Effect of Secondary Metabolites of Aloe Vera by Molecular Docking. | Adv Biomed Res
+- new | 2025 | 39613082 |  | Gastro retentive floating drug delivery system of levofloxacin based on Aloe vera hydrogel: In vitro and in vivo assays. | Int J Biol Macromol
+- new | 2025 | 41846739 | Review | Herbal Extracts for Denture Care: Effectiveness and Safety Through In vivo Studies-A Systematic Review. | J Pharm Bioallied Sci
+- new | 2024 | 38482621 | Review | Safety Aspects of Herb Interactions: Current Understanding and Future Prospects. | Curr Drug Metab
+- new | 2024 | 38639277 | Review | Aloe-emodin: Progress in Pharmacological Activity, Safety, and Pharmaceutical Formulation Applications. | Mini Rev Med Chem
+- new | 2024 | 39032360 | Research Support, Non-U.S. Gov't | Therapeutic effects of OXY- Exo(Aloe) in diabetic wound injury. | Biochem Biophys Res Commun
+- new | 2024 | 39771213 | Review | Soothing the Itch: The Role of Medicinal Plants in Alleviating Pruritus in Palliative Care. | Plants (Basel)
+- new | 2024 | 39606261 | Review | Treatment of constipation with Aloe and its compatibility prescriptions. | Chin Herb Med
+- new | 2024 | 38952769 | Review | Herbal and nano-based herbal medicine: New insights into their therapeutic aspects against periodontitis. | Avicenna J Phytomed
+- new | 2024 | 38920955 |  | Rational Design and Testing of Antibacterial Aloe Vera Hemostatic Hydrogel. | Gels
+- new | 2024 | 38204271 | Review | Unveiling the Latest Breakthroughs: A Comprehensive Review of the Therapeutic Activity and Safety Profile of Aloe vera. | Curr Drug Saf
+- new | 2024 | 38213239 |  | Formulation, characterization and and evaluation of aloe-emodin-loaded solid dispersions for dissolution enhancement. | J Tradit Chin Med
+- new | 2024 | 38395206 | Review/Research Support, Non-U.S. Gov't | New opportunities and perspectives on biosynthesis and bioactivities of secondary metabolites from Aloe vera. | Biotechnol Adv
+- new | 2024 | 38478315 | Retracted Publication | Therapeutic Potential of Aloe vera and Aloe vera-Conjugated Silver Nanoparticles on Mice Exposed to Hexavalent Chromium. | Biol Trace Elem Res
+- new | 2024 | 37726070 |  | In vivo metabolism combined network pharmacology to identify anti-constipation constituents in Aloe barbadensis Mill. | J Ethnopharmacol
+- new | 2024 | 40033531 |  | Concomitant Administration of Aloe Vera Gel and Rifampicin Protects Against Rifampicin Hepatorenal Toxicity in Male Wistar Rats. | Niger J Clin Pract
+- new | 2024 | 38759713 |  | Evaluation of 90-day repeated dose oral toxicity of an aloe vera inner leaf gel beverage. | Food Chem Toxicol
+- new | 2024 | 39181335 | Research Support, Non-U.S. Gov't | Aloe-emodin relieves allergic contact dermatitis pruritus by inhibiting mast cell degranulation. | Immunol Lett
+- new | 2024 | 37736869 |  | Anticoccidial activity of Aloe Vera Leafs' aqueous extract and vaccination against Eimeria tenella: pathological study in broilers. | Vet Res Commun
+- new | 2024 | 38920917 |  | Development of an Emulgel for the Effective Treatment of Atopic Dermatitis: Biocompatibility and Clinical Investigation. | Gels
+- new | 2024 | 39283738 |  | Chemical Characterization, Evaluation of Acute Oral Toxicity, and Anti-Diabetic Activity of Aloe sabaea Flowers Extract on Alloxan-Induced Diabetic Rats. | Chem Biodivers
+- new | 2024 | 39483652 | Case Reports | Role of topical application of Aloe Vera for accelerated wound healing of cutaneous burns Wound: A case report. | J Cutan Aesthet Surg
+- new | 2024 | 38595405 |  | Clinical Efficacy of Topical Kenacort and Aloe Vera Gel in Minor Aphthous Stomatitis: A Comparative Study. | J Pharm Bioallied Sci
+- new | 2024 | 38225940 |  | Effectiveness of Chitosan versus Natural Aloe Vera on Candida Adherence in Denture Soft Lining Material. | Scientifica (Cairo)
+- new | 2023 | 35951424 | Letter | Better Left Aloe? Contact Allergens in Aloe Vera Gels. | Dermatitis
+- new | 2023 | 36661563 | Review | Different Treatment Modalities of Oral Lichen Planus-A Narrative Review. | Dent J (Basel)
+- new | 2023 | 35850651 | Review | Plant Extracts and Phytochemicals, a Promising Strategy Against Oral Lichen Planus: A Review on Clinical Trials. | Recent Pat Biotechnol
+- new | 2023 | 36702364 | Review | The absence of genotoxicity of Aloe vera beverages: A review of the literature. | Food Chem Toxicol
+- new | 2023 | 37352058 | Case Reports | Aloe vera gel for prevention of chemotherapy-induced hyperpigmentation: Four case reports. | Medicine (Baltimore)
+- new | 2023 | 36877633 | Randomized Controlled Trial, Veterinary | Influence of Aloe vera (Aloe barbadensis M.) as an alternative to antibiotics on the growth performance, carcass characteristics and haemato-biochemical indices of broiler chickens | Vet Med Sci
+- new | 2023 | 37242800 | Review | Pharmacotherapeutic Potential of Aloe secundiflora against Colorectal Cancer Growth and Proliferation. | Pharmaceutics
+- new | 2023 | 39156187 |  | [Effect of eye drops based on hyaluronic acid, Aloe vera and Centella asiatica on quality of life of patients with dry eye]. | Farm Comunitarios [spa]
+- new | 2023 | 38298044 |  | Ethanol extract of aloe vera ameliorates Artemether-Lumefantrine-induced reproductive toxicity in adult male Albino rats (Wistar Strain). | Environ Anal Health Toxicol
+- new | 2023 | 36863642 |  | Evaluation of acute oral toxicity, anti-diabetic and antioxidant effects of Aloe vera flowers extract. | J Ethnopharmacol
+- new | 2023 | 37235286 |  | Amelioration of Hepatotoxic and Neurotoxic Effect of Cartap by Aloe vera in Wistar Rats. | Toxics
+- new | 2023 | 37868254 | Case Reports | Spider Bite Wound Care and Review of Traditional and Advanced Treatment Options. | Fed Pract
+- new | 2023 | 37184667 |  | Promising effect of Geranium robertianum L. leaves and Aloe vera gel powder on Aspirin(®)-induced gastric ulcers in Wistar rats: anxiolytic behavioural effect, antioxidant activity | Inflammopharmacology
+- new | 2023 | 35879820 |  | Metabolites characterisation of endophytic Phyllosticta fallopiae L67 isolated from Aloe vera with antimicrobial activity on diabetic wound microorganisms. | Nat Prod Res
+- new | 2023 | 36368678 | Multicenter Study | Aloe Vera-Containing Matrix in Transdermal Fentanyl Therapy Improves Adhesion, Skin Tolerance and Quality of Life: Results of a German Multicenter Study with a New Fentanyl Patch. | Drug Res (Stuttg)
+- new | 2023 | 36826041 |  | Therapeutic Effects of Aloe saponaria against Ulcerative Colitis Induced by Dextran Sulfate Sodium. | Curr Issues Mol Biol
+- new | 2022 | 35092563 | Review | The dark side of miracle plant-Aloe vera: a review. | Mol Biol Rep
+- new | 2022 | 35890383 |  | Towards the Preparation of a Hydrogel from Lyophilisates of the Aloe arborescens Aqueous Extract. | Pharmaceutics
+- new | 2022 | 35601785 |  | Protective effects of Aloe vera gel on cisplatin-induced oxidative stress, apoptosis and neurons structure in rat hippocampus. | Vet Res Forum
+- new | 2022 | 35460489 |  | Aloe vera protects against fluoride-induced teratogenic effects during pre- and postnatal development in mice. | Environ Sci Pollut Res Int
+- new | 2022 | 36422483 | Review | Complementary medicines used in ulcerative colitis and unintended interactions with cytochrome P450-dependent drug-metabolizing enzymes. | Turk J Med Sci
+- new | 2022 | 34843131 |  | Evaluation of aloins, pH and moisture in aloe leaf gel-based personal care products. | Int J Cosmet Sci
+- new | 2022 | 35645491 |  | Comparative Evaluation of Antimicrobial Efficacy of Zinc Oxide Eugenol with Zinc Oxide Mixed with Three Herbal Products to be Used as Root Canal Filling Material: An In Vitro Study | Int J Clin Pediatr Dent
+- new | 2022 | 35125693 |  | Ameliorative Impact of Aloe vera on Cartap Mediated Toxicity in the Brain of Wistar Rats. | Indian J Clin Biochem
+- new | 2022 | 35645262 |  | An In Vitro and In Vivo Study of the Efficacy and Toxicity of Plant-Extract-Derived Silver Nanoparticles. | J Funct Biomater
+- new | 2022 | 36723337 |  | EFFICACY AND SAFETY OF CANDELABRA ALOE EXTRACT (ALOE ARBORESCENS MILL.) IN PREVENTION AND TREATMENT OF UPPER RESPIRATORY TRACT INFECTIONS OF VARIOUS AETIOLOGIES. | Wiad Lek
+- new | 2022 | 36703690 |  | Effects of Intracanal Curcumin and Aloe vera on pH Changes in Simulated Root Surface Resorption Defects: An In vitro Study. | Iran Endod J
+- new | 2022 | 35661798 | Review/Research Support, Non-U.S. Gov't | The isomers, aloe-emodin and emodin, possess differential inhibitory activities against CYP1B1 enzyme. | Steroids
+- new | 2022 | 35698319 |  | An acetylated mannan isolated from Aloe vera induce colorectal cancer cells apoptosis via mitochondrial pathway. | Carbohydr Polym
+- new | 2022 | 35944824 |  | Isoliquiritigenin attenuates emodin-induced hepatotoxicity in vivo and in vitro through Nrf2 pathway. | Comp Biochem Physiol C Toxicol Pharmacol
+- new | 2022 | 35031035 |  | Acute and sub-acute oral toxicity of aqueous whole leaf and green rind extracts of Aloe vera in Wistar rats. | BMC Complement Med Ther
+- new | 2022 | 32525718 |  | Effectiveness and Tolerability of Natural Herbal Formulations in the Prevention of Radiation-Induced Skin Toxicity in Patients Undergoing Radiotherapy. | Int J Low Extrem Wounds
+- new | 2022 | 34490576 |  | Abscisic acid and aloe-emodin against NS2B-NS3A protease of Japanese encephalitis virus. | Environ Sci Pollut Res Int
+- new | 2022 | 36686869 |  | Protective effects of Aloe vera powder supplementation on some quantitative and qualitative characteristics of egg, histopathological changes and serum biochemistry of laying hens  | Vet Res Forum
+- new | 2021 | 34308239 | Review | Aloe and its Effects on Cancer: A Narrative Literature Review. | East Afr Health Res J
+- new | 2021 | 33737146 | Review | Non-pharmacologic approach to pediatric constipation. | Complement Ther Med
+- new | 2021 | 34062205 |  | Aloe-emodin, a hydroxyanthracene derivative, is not genotoxic in an in vivo comet test. | Regul Toxicol Pharmacol
+- new | 2021 | 33462031 | Case Reports | Severe phytophotodermatitis from fig sap: a little known phenomenon. | BMJ Case Rep
+- new | 2021 | 34807843 | Case Reports | Case Reports on the Use of Aloe Vera, Naltrexone, and Topiramate for the Treatment of Scars. | Int J Pharm Compd
+- new | 2021 | 33390130 | Review | Natural Products as Anticancer Agents. | Curr Drug Targets
+- new | 2021 | 33792091 |  | The effects and mechanisms of aloe-emodin on reversing adriamycin-induced resistance of MCF-7/ADR cells. | Phytother Res
+- new | 2021 | 34065292 |  | Aloe djiboutiensis: Antioxidant Activity, Molecular Networking-Based Approach and In Vivo Toxicity of This Endemic Species in Djibouti. | Molecules
+- new | 2021 | 33770149 |  | Safety evaluation of Aloe vera soft capsule in acute, subacute toxicity and genotoxicity study. | PLoS One
+- new | 2021 | 34912469 |  | Anti-Inflammatory, Antioxidant, and Healing-Promoting Effects of Aloe vera Extract in the Experimental Colitis in Rats. | Evid Based Complement Alternat Med
+- new | 2021 | 35282715 |  | Aloe vera and artemisia vulgaris hydrogels: exploring the toxic effects of structural transformation of the biocompatible materials. | Drug Dev Ind Pharm
+- new | 2021 | 34401356 |  | Lack of in vivo genotoxic effect of dried whole Aloe ferox juice. | Toxicol Rep
+- new | 2021 | 34290474 | Review | The toxicologic pathology aspects of selected natural herbal products and related compounds. | J Toxicol Pathol
+- new | 2021 | 32889741 | Research Support, Non-U.S. Gov't | Design, synthesis and anti-inflammatory study of novel N-heterocyclic substituted Aloe-emodin derivatives. | Chem Biol Drug Des
+- new | 2021 | 33507720 |  | Protective effects of aloe vera gel (aloe baberdensis Miller) on aluminum chloride-induced reproductive toxicity in male Wistar rats. | JBRA Assist Reprod
+- new | 2021 | 34155868 |  | Protective Effect of Aloe vera Gel against Cisplatin-Induced Testicular Damage, Sperm Alteration and Oxidative stress in Rats. | Int J Fertil Steril
+- new | 2021 | 34274443 |  | Aloe vera gel extract: Safety evaluation for acute and chronic oral administration in Sprague-Dawley rats and anticancer activity in breast and lung cancer cells. | J Ethnopharmacol
+- new | 2020 | 31680350 | Review | Aloe-emodin: A review of its pharmacology, toxicity, and pharmacokinetics. | Phytother Res
+- new | 2020 | 32523629 | Review | Complementary and alternative medications in the management of inflammatory bowel disease. | Ther Adv Gastroenterol
+- new | 2020 | 32729430 | Review | Current Insights for the Management of Acne in the Modern Era. | Recent Pat Antiinfect Drug Discov
+- new | 2020 | 32246552 | Retracted Publication | Withdrawn: Dose-response relationship of Aloe vera to cure atopic dermatitis in rats. | Dermatol Ther
+- new | 2020 | 32028185 |  | Aloe-emodin induces hepatotoxicity by the inhibition of multidrug resistance protein 2. | Phytomedicine
+- new | 2020 | 33063779 | Research Support, Non-U.S. Gov't | ONS Guidelines™ for Cancer Treatment-Related Radiodermatitis. | Oncol Nurs Forum
+- new | 2020 | 31794090 |  | Oral treatment with Aloe polysaccharide ameliorates ovalbumin-induced atopic dermatitis by restoring tight junctions in skin. | Scand J Immunol
+- new | 2020 | 32308269 |  | A comparative study of antibacterial and antifungal activities of extracts from four indigenous plants. | Bioinformation
+- new | 2020 | 33072415 |  | Comparing the Therapeutic Effects of Aloe vera and Olive Oil Combination Cream versus Topical Betamethasone for Atopic Dermatitis: A Randomized Double-blind Clinical Trial. | J Pharmacopuncture
+- new | 2020 | 32422116 | Case Reports | An Alternative Treatment for Vaginal Cuff Wart: a Case Report. | Acta Medica (Hradec Kralove)
+- new | 2020 | 33132775 |  | The Effect of Aloe Vera Juice on Liver Enzymes and Hepatic Structure in a Healthy Population. | Integr Med (Encinitas)
+- new | 2020 | 32331307 |  | A Double-Blind Randomized Placebo-Controlled Study Assessing the Safety, Tolerability and Efficacy of a Herbal Medicine Containing Pycnogenol Combined with Papain and Aloe vera in  | Medicines (Basel)
+- new | 2020 | 32386123 | Randomized Controlled Trial, Veterinary | Efficacy of adjunctive therapy using Vizoovet in improving clinical signs of keratoconjunctivitis sicca in dogs: A pilot study. | Vet Ophthalmol
+- new | 2019 | 29737895 | Review | Treatment of seborrheic dermatitis: a comprehensive review. | J Dermatolog Treat
+- new | 2019 | 30802561 | Review | Management of acute radiation dermatitis: A review of the literature and proposal for treatment algorithm. | J Am Acad Dermatol
+- new | 2019 | 31003648 | Review | The use of aloe vera in cancer radiation: An updated comprehensive review. | Complement Ther Clin Pract
+- new | 2019 | 31650105 |  | The hepatoprotective effect of Aloe vera on ischemia-reperfusion injury in rats. | North Clin Istanb
+- new | 2019 | 31456283 | Review | Aloe vera as an herbal medicine in the treatment of metabolic syndrome: A review. | Phytother Res
+- new | 2019 | 31046239 | Research Support, Non-U.S. Gov't | Metabolic Activation and Cytotoxicity of Aloe-Emodin Mediated by Sulfotransferases. | Chem Res Toxicol
+- new | 2019 | 31742088 |  | Use of Aloe Vera and Turmeric Paste as a Supplementary Medicine in Oral Submucosal Fibrosis: A Pilot Study. | Indian J Otolaryngol Head Neck Surg
+- new | 2019 | 31112706 | Randomized Controlled Trial | Detoxification effects of aloe polysaccharide and propolis on the urinary excretion of metabolites in smokers. | Food Chem Toxicol
+- new | 2019 | 31490512 |  | Processed Aloe vera gel attenuates non-steroidal anti-inflammatory drug (NSAID)-induced small intestinal injury by enhancing mucin expression. | Food Funct
+- new | 2019 | 30891764 | Research Support, Non-U.S. Gov't | Hepatoprotective effect of Aloe vera against cartap- and malathion-induced toxicity in Wistar rats. | J Cell Physiol
+- new | 2019 | 31108858 |  | Pharmacodynamics of Five Anthraquinones (Aloe-emodin, Emodin, Rhein, Chysophanol, and Physcion) and Reciprocal Pharmacokinetic Interaction in Rats with Cerebral Ischemia. | Molecules
+- new | 2019 | 31410907 |  | The anti-hepatitis B virus therapeutic potential of anthraquinones derived from Aloe vera. | Phytother Res
+- new | 2019 | 31239743 |  | Antiacne and antiblotch activities of a formulated combination of Aloe barbadensis leaf powder, Garcinia mangostana peel extract, and Camellia sinensis leaf extract. | Clin Cosmet Investig Dermatol
+- new | 2019 | 32308299 |  | Comparative Evaluation of Triphala, Aloe vera, and Chlorhexidine Mouthwash on Gingivitis: A Randomized Controlled Clinical Trial. | Contemp Clin Dent
+- new | 2018 | 29419783 |  | Inner Leaf Gel of Aloe striata Induces Adhesion-Reducing Morphological Hyphal Aberrations. | J Fungi (Basel)
+- new | 2018 | 29633606 |  | Protective Effect of Aloe vera Extract against Bisphenol A Induced Testicular Toxicity in Wistar Rats. | Cell J
+- new | 2018 | 29102913 |  | Inhibitory effect of aloe emodin mediated photodynamic therapy on human oral mucosa carcinoma in vitro and in vivo. | Biomed Pharmacother
+- new | 2018 | 29178996 |  | Analysis of Aloe vera cytotoxicity and genotoxicity associated with endodontic medication and laser photobiomodulation. | J Photochem Photobiol B
+- new | 2018 | 30031121 |  | Effects of Aloe vera and Eucalyptus methanolic extracts on experimental toxoplasmosis in vitro and in vivo. | Exp Parasitol
+- new | 2018 | 30030960 | Comparative Study | Comparative effect of the aqueous extracts of Aloe buettneri, Dicliptera verticillata, Hibiscus macranthus and Justicia insularis on the sexual maturation of pregnant mare serum go | J Basic Clin Physiol Pharmacol
+- new | 2017 | 27856182 | Case Reports/Review | Aloe vera-induced acute liver injury: A case report and literature review. | Clin Res Hepatol Gastroenterol
+- new | 2017 | 28539037 | Case Reports | Small Bowel Obstruction Caused by Aloe vera Bezoars: A Case Report. | Korean J Gastroenterol
+- new | 2017 | 29104603 | Case Reports | Oral Lichen Planus in a Pediatric Patient: A Novel Therapeutic Approach. | J Dent (Tehran)
+- new | 2017 | 28619286 |  | Neuroprotective potential of Aloe arborescens against copper induced neurobehavioral features of Parkinson's disease in rat. | Acta Histochem
+- new | 2017 | 28009901 |  | Aloe activated P-glycoprotein and CYP 3A: a study on the serum kinetics of aloe and its interaction with cyclosporine in rats. | Food Funct
+- new | 2017 | 28547955 |  | Lack of Prophylactic Effects of Aloe Vera Gel on Radiation Induced Dermatitis in Breast Cancer Patients. | Asian Pac J Cancer Prev
+- new | 2017 | 27957620 | Systematic Review | Topical interventions to prevent acute radiation dermatitis in head and neck cancer patients: a systematic review. | Support Care Cancer
+- new | 2017 | 28511517 |  | Holistic Healing Through Herbs: Effectiveness of Aloe Vera on Post Extraction Socket Healing. | J Clin Diagn Res
+- HELD REF-2239 | 2016 | 26986231 | Review | Aloe vera: A review of toxicity and adverse clinical effects. | J Environ Sci Health C Environ Carcinog 
+- new | 2016 | 26666199 | Review | Hypoglycemic and Hypolipidemic Effects of Aloe vera Extract Preparations: A Review. | Phytother Res
+- new | 2016 | 27088743 | Case Reports | Management of Severe Frostbite in a Grey-Headed Parrot (Poicephalus fuscicollis suahelicus). | J Avian Med Surg
+- new | 2016 | 26561079 | Review | Dietary Supplement Therapies for Inflammatory Bowel Disease: Crohn's Disease and Ulcerative Colitis. | Curr Pharm Des
+- new | 2016 | 27656056 |  | Comparative evaluation of the effect of chlorhexidine and Aloe barbadensis Miller (Aloe vera) on dentin stabilization using shear bond testing. | J Conserv Dent
+- new | 2016 | 27769229 |  | Herbal remedies and functional foods used by cancer patients attending specialty oncology clinics in Trinidad. | BMC Complement Altern Med
+- new | 2016 | 27697726 |  | Prevention of azoxymethane/dextran sodium sulfate-induced mouse colon carcinogenesis by processed Aloe vera gel. | Int Immunopharmacol
+- new | 2016 | 28050502 |  | Antibacterial Effect of Aloe Vera Gel against Oral Pathogens: An In-vitro Study. | J Clin Diagn Res
+- new | 2016 | 27382543 |  | A randomized clinical study for comparative evaluation of Aloe Vera and 0.2% chlorhexidine gluconate mouthwash efficacy on de-novo plaque formation. | J Int Soc Prev Community Dent
+- new | 2015 | 26392709 | Review | Aloe vera: Potential candidate in health management via modulation of biological activities. | Pharmacogn Rev
+- new | 2015 | 25496076 | Research Support, Non-U.S. Gov't | Remote loading of aloe emodin in gemini-based cationic liposomes. | Langmuir
+- new | 2015 | 27398602 |  | Nephroprotective Effect of the Leaves of Aloe barbadensis (Aloe Vera) against Toxicity Induced by Diclofenac Sodium in Albino Rabbits. | West Indian Med J
+- new | 2015 | 26120228 |  | Antimalarial evaluation of the leaf latex of Aloe citrina and its major constituent. | Anc Sci Life
+- new | 2015 | 26669124 | Research Support, Non-U.S. Gov't/Review | Herbal Supplements and Hepatotoxicity: A Short Review. | Nat Prod Commun
+- new | 2015 | 26151018 |  | In vitro and in vivo antileishmanial effects of aloe-emodin on Leishmania major. | J Tradit Complement Med
+- new | 2014 | 25005608 | Research Support, Non-U.S. Gov't | Aloe vera attenuated liver injury in mice with acetaminophen-induced hepatitis. | BMC Complement Altern Med
+- new | 2014 | 24295369 |  | In-vitro assessment and pharmacodynamics of nimesulide incorporated Aloe vera transemulgel. | Curr Drug Discov Technol
+- new | 2013 | 24431320 | Review | Topical application of drugs used in treatment of oral lichen planus lesions. | Adv Clin Exp Med
+- new | 2013 | 23262639 | Research Support, N.I.H., Intramural/Review | The toxicity and pathology of selected dietary herbal medicines. | Toxicol Pathol
+- new | 2013 | 24042237 | Technical Report | Toxicology and carcinogenesis studies of a nondecolorized [corrected] whole leaf extract of Aloe barbadensis Miller (Aloe vera) in F344/N rats and B6C3F1 mice (drinking water study | Natl Toxicol Program Tech Rep Ser
+- new | 2012 | 31643946 | Review | Aloe Vera. | 
+- new | 2012 | 32289000 | Review | Anticancer potential of emodin. | Biomedicine (Taipei)
+- new | 2012 | 21842479 | Research Support, Non-U.S. Gov't | Aloe vera juice: IC₅₀ and dual mechanistic inhibition of CYP3A4 and CYP2D6. | Phytother Res
+- new | 2010 | 20191055 | Case Reports | Aloe-induced toxic hepatitis. | J Korean Med Sci
+- new | 2010 | 19942342 | Research Support, Non-U.S. Gov't | Aloe-emodin induces apoptosis of human nasopharyngeal carcinoma cells via caspase-8-mediated activation of the mitochondrial death pathway. | Cancer Lett
+- new | 2010 | 20642045 | Case Reports | [Use of collagen and Aloe vera in ischemic wound treatment: study case]. | Rev Esc Enferm USP [por]
+- new | 2009 | 19654201 | Case Reports/Letter | Aloe-induced hypokalemia in a patient with breast cancer during chemotherapy. | Ann Oncol
+- new | 2007 | 17295672 | Case Reports | Aloe-induced Henoch-Schonlein purpura. | Nephrology (Carlton)
+- new | 2006 | 16690538 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S./Review | An evaluation of the biological and toxicological properties of Aloe barbadensis (miller), Aloe vera. | J Environ Sci Health C Environ Carcinog 
+- new | 2006 | 17105716 |  | The protective effect of aloe vera juice on lindane induced hepatotoxicity and genotoxicity. | Pak J Pharm Sci
+- new | 2005 | 16290892 | Review | Novel approaches to radiotherapy-induced skin reactions: a literature review. | Complement Ther Clin Pract
+- new | 2005 | 16054315 | Research Support, Non-U.S. Gov't | Assessment of Aloe vera (L.) genotoxic potential on Escherichia coli and plasmid DNA. | J Ethnopharmacol
+- new | 2003 | 12958400 | Case Reports/Research Support, Non-U.S. Gov't | Blood and tissue concentration of cesium after exposure to cesium chloride: a report of two cases. | Biol Trace Elem Res
+- new | 2001 | 11482001 | Review | Adverse and beneficial effects of plant extracts on skin and skin disorders. | Adverse Drug React Toxicol Rev
+- new | 1999 | 10352374 | Review | [Phytotherapy in chronic dermatoses and wounds: what is the evidence?]. | Forsch Komplementarmed [ger]
+- new | 1980 | 7416761 | Case Reports | Hypersensitivity to aloe. | Arch Dermatol
+- new | 1949 | 18129646 |  | Species of Aloe (other than Aloe vera) in the treatment of roentgen dermatitis. | J Invest Dermatol
+
+### PubMed OBS - 63 hits, 45 not already listed above, 45 new
+- new | 2026 | 42247330 | Meta-Analysis | Impact of advanced wound care methods on obstetric patients: a meta-analysis. | J Wound Care
+- new | 2026 | 41907805 |  | Traditional Eye Medicine in Rural Somalia: Culturally Safe Harm Reduction to Prevent Corneal Blindness. | Clin Ophthalmol
+- new | 2026 | 43051771 |  | Multidimensional profiling of bitterness responsiveness reveals distinct response profiles beyond PROP status. | Food Res Int
+- new | 2026 | 42119493 |  | First aid knowledge and practices for burn injuries in Turkey: A cross-sectional study. | Burns
+- new | 2026 | 42332700 |  | Traditional phytopharmaceutical practices and integrative healthcare perspectives among herbal practitioners: a cross-sectional analysis in Tigray, Ethiopia. | BMC Complement Med Ther
+- new | 2026 | 42797423 |  | Effect of Topically Administered Natural Compounds on Cesarean Section Healing-A Retrospective Observational Study. | Pharmaceuticals (Basel)
+- new | 2026 | 42500373 |  | HyaluHerb Pediatric Oral Gel for Recurrent Aphthous Ulcers and Plaque-Induced Gingivitis in Children: A Two-Cohort Randomized Controlled Trial. | J Int Soc Prev Community Dent
+- new | 2025 | 40154133 | Systematic Review/Meta-Analysis | Effectiveness of plant and animal-based interventions in preventing and reducing pressure injuries: A systematic review and meta-analysis. | J Tissue Viability
+- new | 2025 | 38952158 |  | Antibacterial effect of Aloe Vera on Bacteria Isolated from Cases of Wound Infection. | Infect Disord Drug Targets
+- new | 2024 | 39086363 | Research Support, Non-U.S. Gov't | Consumption and adverse reaction reporting of herbal medicines among people living with HIV at University teaching hospitals in Blantyre, Malawi and Ibadan, Nigeria. | Malawi Med J
+- new | 2022 | 35463071 |  | Safety and Efficacy of Medicinal Plants Used to Manufacture Herbal Products with Regulatory Approval in Uganda: A Cross-Sectional Study. | Evid Based Complement Alternat Med
+- new | 2021 | 34967575 | Randomized Controlled Trial | Black Turmeric and Aloe Vera in the Management of Oral Submucous Fibrosis: A Prospective Clinical Study. | Asian Pac J Cancer Prev
+- new | 2020 | 32891293 | Multicenter Study | Herbal medicine use among pregnant women attending antenatal clinics in Lusaka Province, Zambia: A cross-sectional, multicentre study. | Complement Ther Clin Pract
+- new | 2020 | 33054740 |  | Current uses and knowledge of medicinal plants in the Autonomous Community of Madrid (Spain): a descriptive cross-sectional study. | BMC Complement Med Ther
+- new | 2020 | 32198722 | Observational Study | Efficacy of a new nutraceutical formulation (CHETOGERD(®)) in patients with nonerosive reflux disease (NERD): a prospective observational study. | Intern Emerg Med
+- new | 2020 | 32116721 |  | Public Knowledge, Attitude, and Practice on Herbal Remedies Used During Pregnancy and Lactation in West Bank Palestine. | Front Pharmacol
+- new | 2019 | 31516875 |  | Qualitative and Quantitative Evaluation of the Efficiency of the Application of Foams with False Xerostomia. | J Int Soc Prev Community Dent
+- new | 2019 | 30761819 | Comparative Study/Observational Study | Efficacy of gummy lozenges containing Erysimum as ancillary treatment in children with sore throat. | Minerva Pediatr
+- new | 2019 | 30266196 |  | First aid for children's burns in the US and UK: An urgent call to establish and promote international standards. | Burns
+- new | 2019 | 31088247 | Multicenter Study/Observational Study | Acceptability, tolerability, and effects on symptoms and signs of vulvovaginitis of a non-soap, herbal-based intimate hygiene solution (Zelesse®). | J Int Med Res
+- new | 2017 | 28160765 |  | The Use of Complementary and Alternative Medicine Among Dialysis Patients. | Altern Ther Health Med
+- new | 2017 | 28049474 | Observational Study | Ethnopharmacological survey of medicinal plants used by patients with psoriasis in the West Bank of Palestine. | BMC Complement Altern Med
+- new | 2017 | 28955424 |  | First aid practices, beliefs, and sources of information among caregivers regarding paediatric burn injuries in Harare, Zimbabwe: A cross-sectional study. | Malawi Med J
+- new | 2017 | 28042402 |  | Antifungal Effect of Malaysian Aloe vera Leaf Extract on Selected Fungal Species of Pathogenic Otomycosis Species in In Vitro Culture Medium. | Oman Med J
+- new | 2017 | 28830419 |  | Prevalence, patterns, and perceived value of complementary and alternative medicine among HIV patients: a descriptive study. | BMC Complement Altern Med
+- new | 2016 | 27229463 |  | Herbal medicine use and linked suspected adverse drug reactions in a prospective cohort of Ugandan inpatients. | BMC Complement Altern Med
+- new | 2014 | 25406780 | Randomized Controlled Trial | Does skin care frequency affect the severity of incontinence-associated dermatitis in critically ill patients? | Nursing
+- new | 2014 | 24531599 |  | Clinical and radiographic evaluation of zinc oxide with aloe vera as an obturating material in pulpectomy: an in vivo study. | J Indian Soc Pedod Prev Dent
+- new | 2014 | 26855960 |  | Extent of Use of Aloe vera Locally Extracted Products for Management of Ailments in Communities of Kitagata Sub-county in Sheema District, Western Uganda. | Int J Sci Basic Appl Res
+- new | 2013 | 24030377 | Research Support, Non-U.S. Gov't | Tes, Licuados, and Capsulas: herbal self-care remedies of Latino/Hispanic immigrants for type 2 diabetes. | Diabetes Educ
+- new | 2013 | 24171723 | Research Support, Non-U.S. Gov't | The co-use of conventional drugs and herbs among patients in Norwegian general practice: a cross-sectional study. | BMC Complement Altern Med
+- new | 2013 | 22679922 |  | Weaning practices of mothers attending United Nations Relief and Works Agency health centres in the Gaza Governorates. | J Adv Nurs
+- new | 2012 | 22873496 |  | Use of complementary medicine amongst patients on antiretroviral drugs in an HIV treatment centre in Lagos, Nigeria. | Curr Drug Saf
+- new | 2012 | 22292937 | Evaluation Study | Concomitant herbal medicine and Antiretroviral Therapy (ART) use among HIV patients in Western Uganda: a cross-sectional analysis of magnitude and patterns of use, associated facto | AIDS Care
+- new | 2012 | 23162576 |  | Evaluation of the therapeutic effects of Aloe vera gel on minor recurrent aphthous stomatitis. | Dent Res J (Isfahan)
+- new | 2010 | 20015757 | Comparative Study | The use of complementary and alternative medicine by patients attending a general otolaryngology clinic: can we afford to ignore it? | Am J Otolaryngol
+- new | 2010 | 20665458 | Evaluation Study | Complementary and alternative medicine use in diabetes mellitus. | West Afr J Med
+- new | 2009 | 19476768 |  | Complementary and alternative medicine use among patients undergoing otolaryngologic surgery. | J Otolaryngol Head Neck Surg
+- new | 2008 | 18816875 | Comparative Study/Research Support, Non-U.S. Gov't | A population survey on the use of 24 common medicinal herbs in Australia. | Pharmacoepidemiol Drug Saf
+- new | 2007 | 17510901 | Research Support, Non-U.S. Gov't | Use of traditional medicine by HIV-infected individuals in South Africa in the era of antiretroviral therapy. | Psychol Health Med
+- new | 2007 | 17714796 |  | Use of complementary and alternative medicine in pediatric otolaryngology patients attending a tertiary hospital in the UK. | Int J Pediatr Otorhinolaryngol
+- new | 2006 | 16602226 |  | Use of herbs and herbal products by Hispanics in south Florida. | J Am Pharm Assoc (2003)
+- new | 2006 | 17182485 | Research Support, N.I.H., Extramural | Herb use among health care professionals enrolled in an online curriculum on herbs and dietary supplements. | J Herb Pharmacother
+- new | 2006 | 16612673 | Multicenter Study | Incidence of acneform reactions after laser hair removal. | Lasers Med Sci
+- new | 2003 | 12680482 | Comparative Study | Use of herbal medicine by elderly Hispanic and non-Hispanic white patients. | Pharmacotherapy
+
+### PubMed REV - 365 hits, 15 not already listed above, 12 new
+- HELD REF-2236 | 2024 | 38998660 | Review | Aloe vera-An Extensive Review Focused on Recent Studies. | Foods
+- new | 2024 | 38577729 | Practice Guideline | Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. | Wilderness Environ Med
+- new | 2023 | 36754986 | Review | Medical treatment for ocular surface squamous neoplasia. | Eye (Lond)
+- new | 2023 | 37895122 | Review | Plant Extracts as Skin Care and Therapeutic Agents. | Int J Mol Sci
+- new | 2023 | 36445447 | Review | [Phytotherapy in uro-oncology]. | Urologie [ger]
+- new | 2022 | 36304597 | Review | Dietary supplements and bleeding. | Proc (Bayl Univ Med Cent)
+- new | 2022 | 35642120 | Review | Promising Essential Oils/Plant Extracts in the Prevention and Treatment of Dandruff Pathogenesis. | Curr Top Med Chem
+- HELD REF-2238 | 2021 | 33066720 | Research Support, Non-U.S. Gov't/Review | Aloe vera: A Medicinal Plant Used in Skin Wound Healing. | Tissue Eng Part B Rev
+- new | 2021 | 33164294 | Review | Is it safe to consume traditional medicinal plants during pregnancy? | Phytother Res
+- HELD REF-2234 | 2020 | 32183224 | Review | Pharmacological Update Properties of Aloe Vera and its Major Active Constituents. | Molecules
+- new | 2019 | 31321504 | Review | Carrier oils in dermatology. | Arch Dermatol Res
+- new | 2019 | 31010204 | Review | Extraction, Purification, Structural Characteristics, Biological Activities and Pharmacological Applications of Acemannan, a Polysaccharide from Aloe vera: A Review. | Molecules
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2011 | 22117784 | Review | Herbs in dentistry. | Int Dent J
+- new | 1988 | 3286692 | Review | Aloe vera. | J Am Acad Dermatol
+
+### ClinicalTrials.gov - 100 registered studies
+- NCT07736053 | COMPLETED | results=False | NA | Alveolar Ridge Preservation Using Acemannan Aloe Vera Versus Natural Socket Healing | conds: Socket Preservation | intr: Aloe vera extract, Normal Socket Healing
+- NCT06266494 | UNKNOWN | results=False | PHASE4 | Prevention and Treatment of Frostbite Infection With Antimicrobial Pharmacokinetic Analysis | conds: Frostbite | intr: Long-Acting silver dressings, Aloe Vera, Dalbavancin
+- NCT07742241 | COMPLETED | results=False | NA | Efficacy Study of a Repairing Cream in Atopic Dermatitis | conds: Atopic Dermatitis (AD) | intr: Dermcontrol, cream based on hyaluronic acid and sh-oligopeptide-1
+- NCT02235532 | COMPLETED | results=False | NA | Effects of Aloe Vera Toothpaste on Periodontal Parameters | conds: Gingivitis | intr: Foramen Herbal Aloe toothpaste, fluoride toothpaste
+- NCT06243601 | COMPLETED | results=False | NA | Effect of Aloe Vera Gel as an Intra Canal Medicament | conds: Periapical Diseases | intr: Aloe vera Gel
+- NCT07909330 | COMPLETED | results=False | NA | Effect of Topical Black Pepper Oil on Pain and Vein Visibility During Peripheral Intravenous Catheterization in Children | conds: Peripheral Intravenous Catheterization | intr: Topical Black Pepper Essential Oil Preparation
+- NCT02462993 | COMPLETED | results=False | PHASE2,PHASE3 | Local Drug Delivery of Aloe Vera Gel in Chronic Periodontitis | conds: Periodontitis | intr: Aloe Vera | pubs: ['22028505:RESULT (new)', '15016256:RESULT (new)']
+- NCT07792512 | COMPLETED | results=False | PHASE4 | Efficacy of Aloe Vera Compared to Corticosteroid in Topical Treatment of Oral Lichen Planus and on Salivary Levels of Tumor Necrosis Factor  | conds: Oral Lichen Planus, Tumor Necrosis Factor-alpha | intr: aloevera gel, Topical Corticosteroid Creams (Triamcinolone acetonide 0.1% and Hydrocortisone 2.5%)
+- NCT07215351 | COMPLETED | results=False | NA | Impact of the Inno Cleanse Dietary Supplement on Gut Health and Associated Variables in Healthy Men and Women | conds: Constipation, Bloating | intr: Dietary supplement for digestive health, placebo capsule
+- NCT04436614 | COMPLETED | results=False | NA | Management of Mild Cognitive Impairment Patients With Aloe and Crocus - BALSAM | conds: Mild Cognitive Impairment | intr: Dietary Supplement:Aloe Vera with Crocus (saffron), Dietary Supplement:Aloe Vera (simple), Dietary S | pubs: ['27472878:RESULT (new)']
+- NCT06293911 | COMPLETED | results=False | NA | Clinical Comparison of a Postbiotic-gel With Placebo Gel for Gingival Inflammation in Patients With Down Syndrome | conds: Down Syndrome, Gingival Bleeding | intr: Biorepair Plus Parodontgel Intensive, Placebo gel
+- NCT01824134 | COMPLETED | results=False | PHASE3 | Aloe Vera on Irradiated Breast Tissue | conds: Irradiated Breast Tissue | intr: Klean & Klear The Dandy Day Corp, The Skin Gel Herbal Answers, Inc
+- NCT06737653 | ACTIVE_NOT_RECRUITING | results=False | NA | Palatal Mucosa Wound Healing Following Antimicrobial Gel Application | conds: Wound Healing, Palate; Wound, Hyaluronic Acid | intr: Gel containing postbiotics, lactoferrin, aloe barbadensis leaf juice powder and sodium hyaluronate, 
+- NCT02404701 | COMPLETED | results=False | NA | Effect of Over-the-counter Dietary Supplements on Kidney Stone Risk | conds: Hyperoxaluria | intr: Aloe vera with cactus, Cranberry, Green tea extract, Bilberry
+- NCT04719247 | COMPLETED | results=False | NA | Clinical and Radiographic Evaluation of Turmeric, Thymus Vulgaris, Nigella Sativa and Aloe Vera as Pulpotomy Medicaments in Primary Teeth | conds: Pulpitis - Irreversible | intr: Pulpotomy
+- NCT06004973 | COMPLETED | results=True | NA | Aldena STAR Particles | conds: Healthy | intr: STAR Particles, Gel without STAR Particles
+- NCT04753775 | COMPLETED | results=False | NA | RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED TRIAL OF ENEMA ALOE VERA GEL IN ACTIVE ULCERATIVE PROCTOSIGMOIDITIS. | conds: Aloe Vera Gel, Proctosigmoiditis, Remission, Trial, Ulcerative Colitis (UC) | intr: Aloe vera gel
+- NCT02386020 | COMPLETED | results=False | PHASE2,PHASE3 | Aloe Vera in Chronic Periodontitis With Type 2 Diabetes Mellitus | conds: Chronic Periodontitis | intr: aloe vera, placebo gel
+- NCT06377657 | COMPLETED | results=False | NA | Oxidative and Antioxidant Indices to HIIT and Aloe Vera Supplementation in Patients With T2DM | conds: Diabetes Type 2 | intr: Exercise, Aloe vera
+- NCT07809984 | NOT_YET_RECRUITING | results=False | NA | Prevention of Oral Mucositis in Adults in With Hematologic Malignancy | conds: Acute Leukemia, Acute Myeloid Leukemia, Acute Lymphoblastic Leukemia, Oral Mucositis | intr: Aloe Vera Mouthwash, Standard of Care
+- NCT03633292 | COMPLETED | results=False | PHASE4 | Aloe Vera and Chlorhexidine Against Traumatic Oral Ulcers | conds: Oral Ulcer | intr: Antiseptic clorhexidine gel (Lacer, Barcelona, Spain), Master formula of aloe vera gel 80%
+- NCT04210336 | COMPLETED | results=False | NA | Clinical Trial to Evaluate Papilocare® Gel Efficacy Into Repairment of Cervical Lesions Caused by HPV | conds: HPV Infection, Lesion Cervix | intr: PAPILOCARE, LACTIC ACID GEL
+- NCT05578638 | COMPLETED | results=False | NA | Comparing Aloe Vera Gel and Rosemary Oil in Pressure Injury Prevention | conds: Pressure Injury | intr: Aloe Vera rosemary tropical application, aloevera tropical application, rosemary tropicalapplication
+- NCT06499012 | COMPLETED | results=False | NA | The Efficacy of Nutrilite All-plant Protein Booster to Improve Sarcopenia and Osteoarthritis in Middle-aged and Elderly People | conds: Osteoarthritis, Sarcopenia | intr: All-plant Protein Booster Product Group, Placebo Group
+- NCT07924865 | ACTIVE_NOT_RECRUITING | results=False | NA | Effects Of Topical Clobetasol Versus Coconut Oil Cream In The Treatment Of Oral Lichen Planus | conds: Comparative Effectiveness, Comparative Effectiveness Study, Oral Lichen Planus | intr: Coconut Oil Cream group, Topical Clobetasol propionate 0.05%ointment
+- NCT03083535 | UNKNOWN | results=False | NA | Efficacy of AloeVera Gel Gum Massaging and Adjunct to Scaling and Root Planing in Chronic Periodontitis Patients | conds: CHRONIC PERIODONTITIS | intr: Tooth Brushing, aloe vera Massaging, SRP with aloe vera massaging
+- NCT06143033 | COMPLETED | results=False | NA | A Clinical Trial to Evaluate the Effects of an Eye Serum on Improving the Appearance of the Periorbital Area | conds: Periorbital Area | intr: DIME Beauty Luminosity Eye Serum
+- NCT07826091 | COMPLETED | results=False | NA | Evaluation of the Aloe Vera Anti-inflammatory Effect on Apical Periodontitis. | conds: Necrotic Teeth With Apical Periodontitis | intr: Aloe vera gel, Calcium Hydroxide (Ca(OH)2) Intracanal Medication
+- NCT00156806 | COMPLETED | results=False | PHASE3 | Investigating the Therapeutic Effectiveness of Aloe Barbadensis in Reducing Cutaneous Side-Effects of Radiation Treatment for Breast Cancer. | conds: Breast Cancer | intr: Aloe barbadensis topical application in a moisturizing cream vehicle.
+- NCT07935538 | NOT_YET_RECRUITING | results=False | NA | Effect of Hand Fist-Clenching Exercise Versus Topical Aloe Vera Gel in the Prevention of Peripheral Intravenous Catheter-Related Phlebitis A | conds: Peripheral Intravenous Catheter-related Phlebitis, Hand Fist -Clenching, Prevention, Adult Patient | intr: Hand fist -clenching exercise, topical Aloe vera gel
+- NCT06879366 | COMPLETED | results=False | PHASE4 | Evaluation of the Efficacy of Aloe-Vera el Versus Bezydamine Hydrochloride in the Prevention of Radiation Induced Oral Mucositis A Randamize | conds: Head and Neck Cancer Patients Treated With Radiotherapy | intr: Aloe vera gel, Benzydamine Hydrochloride 0.15% Oral gel
+- NCT04481802 | UNKNOWN | results=False | NA | The Effect of RadiaAce Gel in the Prevention and Treatment of Radiation Dermatitis in Breast Cancer Patients | conds: Breast Cancer, Radiation Dermatitis | intr: RadiaAce gel, Biafine
+- NCT01728090 | COMPLETED | results=False | PHASE4 | Effectiveness of a Handwashing Programme in the Prevention of School Absenteeism Due to Respiratory Infections | conds: Upper Respiratory Infections, Influenza, Common Cold | intr: hand sanitizer
+- NCT01597921 | TERMINATED | results=False |  | A DB Randomized Study of R1 and R2 WaterJel / AloeVera Jell in Prevention of Radiation Dermatitis in Breast Cancer | conds: Breast Cancer, Radiation Dermatitis, Erythema | intr: 
+- NCT07401134 | RECRUITING | results=False | PHASE4 | Improving Postoperative Recovery: A Study of Multimodal Perineal Analgesia Protocol (MPAP) After Vaginal Surgery | conds: Perineal Injury, Pain Vulva, Perineum; Injury | intr: Perineal ice packs, medicated witch-hazel pads, and topical benzocaine spray
+- NCT00219466 | COMPLETED | results=False | PHASE4 | Clinical Study to Evaluate the Efficacy and Safety of Two Marketed Investigational Products in Children With Diaper Rash | conds: Diaper Rash | intr: Zinc Oxide Diaper Rash Ointment, Aloe Vera/Tocopherol/Zinc Oxide Cream
+- NCT05589402 | COMPLETED | results=False | PHASE1 | Temporary Inactivation of Strong Muscle Sensation to Improve Rehabilitation Interventions in SCI | conds: Spinal Cord Injuries, Spine Disease, Stroke | intr: Lidocaine Cream 5%, Rehabilitation Movement Training
+- NCT07080320 | ACTIVE_NOT_RECRUITING | results=False | NA | Research on the Evolution, Geometry, and Alterations of the Periorbital Region Based on Age and Deformations | conds: Facial Skin, Motion Capture, Aging, Periorbital Region | intr: MoCap
+- NCT04790760 | UNKNOWN | results=False | NA | Glucose Differences Between the Left Arm and Right Arm in Diabetic Patients Using a Continuous Glucose Monitor | conds: Diabetes | intr: Supplement Consumption, Continuous Glucose Monitors
+- NCT07460323 | RECRUITING | results=False | NA | Study of TRE Seals on Early Post-operative Subjects | conds: Ostomy | intr: An Ostomy Seal, An Ostomy Ring
+- NCT03115892 | UNKNOWN | results=False | PHASE1,PHASE2 | Green Tea With Aloe Vera Mouthwash and Chlorohexidine Mouthwash | conds: Halitosis | intr: Green Tea With Aloe Vera mouthwash, Chlorhexidine mouthwash | pubs: ['23489103:RESULT (new)']
+- NCT04849143 | UNKNOWN | results=False | NA | The Effectiveness of Stingless Bee Honey (Kelulut Honey) Versus Gel in Diabetic Wound Bed Preparation | conds: Diabetes Mellitus, Wound Heal, Diabetes, Honey | intr: Stingless bee honey ( Kelulut honey), Gel dressing
+- NCT07084194 | NOT_YET_RECRUITING | results=False | NA | Impact of Integrating Two Nano Based Irrigants With Two Activation Techniques in Treatment of Teeth With Acute Pulpitis on Postoperative Pai | conds: Postoperative Pain, Flare up, Flare Up, Symptom | intr: Chitosan Nanoparticles Irrigant, aloe vera nanoparticles irrigant, Diode Laser Activation, ultrasoni
+- NCT02735200 | COMPLETED | results=True | PHASE2 | Topical Delivery of Vitamin D3 as Vitamin D Supplementation | conds: Vitamin D Deficiency | intr: Application of topical vitamin d3 (Top-D), Application of Aloe vera gel | pubs: ['24711745:RESULT (new)']
+- NCT04325490 | COMPLETED | results=False | PHASE4 | Tapioca Starch Stimutex AS, Aloe Barbadensis, Rose Hip Oil, Allantoin Comparing With Topical 1% Hydrocortisone Cream | conds: Intertrigo | intr: Liquid powder, Hydrocortisone cream 1%
+- NCT01213420 | COMPLETED | results=False | PHASE4 | Aruba Aloe Formula F-BC-096 in the Treatment of Split Thickness Donor Site After Wound Closure | conds: Wounds | intr: Nivea Cream for scar hydration, Aloë Vera FORMULA F-BC-096 for scar hydration, Eucerin Calming cream
+- NCT07921082 | NOT_YET_RECRUITING | results=False | PHASE2 | Effectiveness of Oxitard Gel Versus Physiotherapeutic and Pharmacological Interventions in Alleviating Oral Submucous Fibrosis: A Phase-II R | conds: Oral and Maxillofacial Conditions | intr: Herbal Formulation, Shekar's appliance, Multivitamin/Mineral supplements, Conventional oral physioth
+- NCT01923220 | UNKNOWN | results=False | EARLY_PHASE1 | Safety and Efficacy of HO/02/02 20µg vs. SoC (Aloe Vera) to Reduce Radiation Dermatitis | conds: Breast Cancer | intr: HO/02/02 20µg, Aloe Vera Jel
+- NCT06122467 | COMPLETED | results=False | NA | A Single Group Study to Evaluate the Efficacy of a Cosmetic Product Line on Acne Symptoms | conds: Acne | intr: EQ Exfoliating Cleanser, EQ Gel, EQ Moisturizer
+- NCT04252209 | COMPLETED | results=False | PHASE3 | the Effect of Mixture of Natural Products As Salivary Substitutes in Treatment Of Xerostomia | conds: Sjogren's Syndrome, Xerostomia | intr: natural herbs of coconut, aloe vera, and pepperint, carboxy methyl cellulose | pubs: ['30050964:RESULT (new)']
+- NCT04966507 | COMPLETED | results=True | PHASE2 | Antibacterial Mouthwash for Pharyngeal Gonorrhea Prevention | conds: Gonorrhea | intr: Listerine Antiseptic Mouthwash Product, Biotene Mouthwash
+- NCT03569930 | UNKNOWN | results=False | PHASE4 | Irritation and Anal Bleeding in Patients Affected by Hemorrhoids. | conds: Hemorrhoids | intr: flavonoid-based supplements, Centella Complex, standard of care
+- NCT03493984 | WITHDRAWN | results=False | NA | Plant Exosomes and Patients Diagnosed With Polycystic Ovary Syndrome (PCOS) 17 | conds: Polycystic Ovary Syndrome | intr: Ginger exosomes, Aloe exosomes, Placebo
+- NCT07179237 | RECRUITING | results=False | PHASE2 | Efficacy of Carminal in Helicobacter Pylori Gastritis | conds: H Pylori Gastritis, H Pylori Infection, H Pylori Eradication, Gastritis Associated With Helicobacter Pylori | intr: Carminal Oral solution, Placebo
+- NCT05060744 | UNKNOWN | results=False | NA | Efficacy and Speed of Action of a Product to Control Gastric Hydration and Gastroesophageal Reflux | conds: Oesophageal Reflux, Gastric Reflux, Hyperactivity; Stomach | intr: Antacid, Control
+- NCT04173247 | COMPLETED | results=True | NA | Study of KeraStat Cream for Radiation Dermatitis During Head and Neck Radiotherapy | conds: Head and Neck Cancer, Radiation Dermatitis | intr: KeraStat Cream, Routine Skin Care - Commercially Available Agents
+- NCT05738733 | COMPLETED | results=False | NA | A Clinical Efficacy Study of MsChief Personal Lubricant in Healthy Female Subjects | conds: Healthy Females | intr: MsChief Classic Natural Lubricant, MsChief Ylang Ylang Natural Lubricant, MsChief Vanilla & Citrus N
+- NCT05885906 | UNKNOWN | results=False | PHASE3 | Aloe Vera Versus Thyme Honey Mouthwash in Management of Xerostomia in Type 2 Diabetics | conds: Xerostomia | intr: Aloevera, Thyme honey, Saline
+- NCT05231096 | COMPLETED | results=False | NA | Comparison of the Effect of Gingival Massage of Aloe-vera Gel and Sidr Honey on Chronic Periodontitis | conds: Gingival Massage, Chronic Periodontitis | intr: Aloe-vera gel, sidr honey, Scaling ans root Debridement | pubs: ['41373073:DERIVED (new)']
+- NCT01898182 | COMPLETED | results=False | PHASE4 | Efficacy and Safety of Kinetin 0.1% for Treatment of Skin Photoaging | conds: Cutaneous Photoaging | intr: Kinetin, N6-furfuryladenine, 0.1%
+- NCT02837107 | UNKNOWN | results=False | NA | Study of Supplement's Antioxidant Properties That Contains Natural Extracts | conds: Healthy | intr: Mind Master, Placebo | pubs: ['30115068:DERIVED (new)']
+- NCT01400048 | COMPLETED | results=False | NA | Aloe Vera in Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Aloe vera effervescent tablet (AVH200), Placebo control | pubs: ['32314514:DERIVED (new)']
+- NCT05327049 | COMPLETED | results=False | NA | Evaluation of the Remineralizing Effect of Aloe Vera Versus Diode Laser for Management of Deep Carious Lesions. | conds: Deep Caries | intr: no intervention, diode laser, Aloe Vera
+- NCT06381635 | UNKNOWN | results=False | NA | Effect of Aloe Vera Gel and Manuka Honey on Radiation Induced Oral Mucositis | conds: Radiation Mucositis | intr: Manuka honey mixed with aloe vera gel
+- NCT03108313 | UNKNOWN | results=False | PHASE2 | Role of Aloe Vera Versus Fluoride Toothpaste in Changing High to Low Salivary Bacterial Count | conds: Caries, Dental | intr: aloe vera toothpaste, fluoride toothpaste
+- NCT05369234 | COMPLETED | results=False | PHASE3 | Effects of Oral Aloe Vera Juice on Chemotherapy and Radiation-induced Oral Mucositis and Esophagitis | conds: Oral Cavity Cancer, Head and Neck Cancers - Tonsils, Esophageal Cancer, Laryngeal Cancer | intr: 100% Aloe Vera Juice, Magic Mouthwash, Salt and Baking soda rinse, Carafate
+- NCT06984848 | RECRUITING | results=False | NA | Effect of Enzymatic-Containing Mouth Spray (Oral7®) on Xerostomia Symptoms, Salivary Flow Rate, and Oral Health-Related Quality of Life in O | conds: Xerostomia, Geriatric | intr: Oral7® mouth spray contains Natural Enzymes (Lactoperoxidase, Glucose Oxidase, Lactoferrin, Lysozyme
+- NCT02560870 | COMPLETED | results=False | PHASE2,PHASE3 | Compare the Efficacy of Aloe Vera Mouthwash With Non- Alcoholic Chlorhexidine Mouthwash on Periodontal Diseases | conds: Periodontal Diseases | intr: Active Comparator:Aloe Vera mouthwash, Active Comparator:Chlorhexidine mouthwash
+- NCT07065682 | RECRUITING | results=False | PHASE1 | Effetivity of Dutasteride and Aloe Vera Extract Combination on Angiogenesis and Obstruction on Benign Prostatic Hyperplasia | conds: BPH (Benign Prostatic Hyperplasia) | intr: Aloevera + dutasteride, Dutasteride (0.5mg)
+- NCT00876642 | COMPLETED | results=False | PHASE3 | Trial Comparing Best Supportive Care to Aloe Vera Gel | conds: Radiation Dermatitis | intr: Aloe vera gel
+- NCT06190028 | TERMINATED | results=False | NA | Evaluation of Performance and Safety of Carbopol 980 NF 0.2%- Based Medical Device in the Management of Patients With Glaucomar or Ocular Hy | conds: Dry Eye Syndrome, Glaucoma and Concomitant Dry Eye Syndrome, Ocular Hypertension and Concomitant Dry Eye Syndrome, Multiple Long-term Topical Hypotensive Therapy | intr: Iridium A Gel
+- NCT04685109 | ACTIVE_NOT_RECRUITING | results=False | NA | 3 Month Study of Alocross Versus Vismed in Adults With Dry Eye Disease Related to Keratitis or Keratoconjunctivitis | conds: Dry Eye Syndromes | intr: Alocross 0.2% Unit Dose, Vismed
+- NCT04446364 | UNKNOWN | results=False | NA | Ethanolic Extract of Aloe Vera Versus Chlorohexidine as Cavity Disinfectant. | conds: Dental Caries | intr: Ethanolic extract of Aloe vera gel cavity disinfectant, Chlorohexadine
+- NCT06862687 | COMPLETED | results=False | NA | Arteriovenous Fistula Pain and Cold Application | conds: Arteriovenous Fistula Pain | intr: Cooling Spray, Cold Aloe Vera Gel Application, Standard Procedure (Control Condition) | pubs: ['39585227:RESULT (new)']
+- NCT04884464 | COMPLETED | results=False |  | Hyaluronic Acid in Counteracting Aphthous Stomatitis | conds: Aphthous Stomatitis | intr: Hyaluronic acid-based gel, Chlorhexidine Gluconate
+- NCT07850232 | NOT_YET_RECRUITING | results=False | NA | Comparative Evaluation of the Anti-Plaque and Anti-Gingivitis Effects of Nanobiofusion Gingival Gel (NBF), Placebo Gel, and Commercial Tooth | conds: Gingivitis, Healthy Adult | intr: Nano Bio-Fusion (NBF) Gingival Gel, Placebo Gel, Commercial fluoride toothpaste
+- NCT03301844 | COMPLETED | results=True | NA | To Compare Blephapad Combo vs Standard Treatment for Eyelid Cleansing in Bilateral Posterior Blepharitis | conds: Bilateral Blepharitis (Disorder) | intr: Blephapad Combo, Standard treatment | pubs: ['30929188:DERIVED (new)']
+- NCT06106880 | COMPLETED | results=False | PHASE1 | Alleviation of Common Cold Symptoms | conds: Common Cold, Pharyngitis, Fever, Congestion | intr: Wintergreen Throat Spray and Aspirin Tablet, Aspirin Throat Spray and Placebo Tablet, Wintergreen Th | pubs: ['39602479:DERIVED (new)']
+- NCT07900802 | COMPLETED | results=False | NA | Comparing Aloe Vera Gel and Clindamycin Gel Added to Scaling and Root Planing for Periodontitis | conds: Periodontitis, Clindamycin Gel, Aloe Vera Gel, Scaling and Root Planing | intr: Scaling and Root Planing
+- NCT03791294 | UNKNOWN | results=False | PHASE3 | Effects of Microcrystalline Titanium Dioxide With Covalently Linked Monovalent Silver Ions on Complications After Total Hysterectomy ( ISTIA | conds: Infection, Bleeding, Complication, Postoperative | intr: TIAB: microcrystalline titanium dioxide with covalently linked monovalent silver ions
+- NCT03816735 | UNKNOWN | results=False | NA | Laser vs Hyaluronic Acid for GSM in Breast Cancer | conds: Urogenital Disease | intr: Cikatridina, Juliet Feminine Laser | pubs: ['36279690:DERIVED (new)', '35443258:DERIVED (new)']
+- NCT01898091 | COMPLETED | results=True | PHASE2 | Herbal Mouthrinse for Oral Mucositis Study | conds: Oral Mucositis | intr: Neem Mouthrinse, Placebo Mouthrinse | pubs: ['18973181:RESULT (new)']
+- NCT05862519 | UNKNOWN | results=False | NA | A Clinical Study to Evaluate the Efficacy of Four Supplements on Improving Readiness for Intimacy | conds: Libido, Intimacy, Gastrointestinal Issues | intr: Reset, Stay Ready Fiber, Libido, Testosterone supplement
+- NCT06125730 | COMPLETED | results=False | NA | A Single-Group Study to Evaluate the Effects of an Eyelash Serum on Improving Eyelash Growth | conds: Eyelash Growth | intr: DIME Beauty Eyelash Boost Serum
+- NCT07927088 | COMPLETED | results=False | NA | Halova Vaginal Ovules Versus Placebo for Genitourinary Symptoms in Premenopausal Women | conds: Vaginal Dryness, Genitourinary Symptoms | intr: Halova vaginal ovules, Placebo vaginal ovules
+- NCT02437747 | COMPLETED | results=False | PHASE4 | Locally Delivered Aloe Vera Gel in the Treatment of Chronic Periodontitis Patients With Diabetes Mellitus | conds: Diabetes Mellitus, Chronic Periodontitis | intr: SRP + Aloe, SRP
+- NCT07530016 | NOT_YET_RECRUITING | results=False | NA | Clinical Efficacy and Mechanisms of a Topical Azone-Tranexamic Acid-Aloe Polysaccharide Gel in the Treatment of Melasma | conds: Melasma, Treatment of Stable Melasma, Tranexamic Acid, Laurocapram | intr: Ligustrazine - tranexamic acid - aloe polysaccharide composite gel
+- NCT05478746 | COMPLETED | results=False | NA | Effects of Flourish HEC on Localized Provoked Vulvodynia | conds: Vulvodynia, Vestibulodynia, Vulvar Diseases, Vulvar Vestibulitis | intr: BioNourish, a component of the Flourish HEC kit, Control - no intervention
+- NCT03294772 | COMPLETED | results=False | NA | Impact of a Multifactorial Program of Hand Hygiene on Infections in Children Attending in Day-care Centres | conds: Respiratory Tract Infections, Gastroenteritis | intr: hand sanitizer, liquid soap | pubs: ['34814193:DERIVED (new)', '30297500:DERIVED (new)']
+- NCT04964167 | COMPLETED | results=False | PHASE4 | Indocyanine-green Mediated Photosensitizer VS Aloe Vera Gel: Adjunct Therapy to Scaling and Root Planing in Patients With Chronic Periodonti | conds: Periodontitis, Periodontal Inflammation | intr: Plant extract
+- NCT07346677 | NOT_YET_RECRUITING | results=False | PHASE2 | Comparing of Sesame Oil, Nitroglycerin Ointment, and Aloe Vera Gel | conds: Cancer, Chemotherapy | intr: Sesame Oil, Aloe vera gel, Control, nitroglycerin ointment | pubs: ['32045142:RESULT (new)', '19425235:RESULT (new)', '22211087:RESULT (new)', '19826112:RESULT (new)', '36872649:RESULT (new)', ':RESULT (-)', '23563998:RESULT (new)', ':RESULT (-)', '30207593:RESULT (new)', '32702383:RESULT (new)', ':RESULT (-)', '21218740:RESULT (new)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', '31453801:RESULT (new)', ':RESULT (-)', '24373830:RESULT (new)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', '23372097:RESULT (new)', ':RESULT (-)', ':RESULT (-)', '32150833:RESULT (new)', ':RESULT (-)', ':RESULT (-)', '17954800:RESULT (new)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', '20622770:RESULT (new)', '21471870:RESULT (new)']
+- NCT07537101 | NOT_YET_RECRUITING | results=False | NA | Effectiveness of a Combined Aloe Vera-Peppermint Gel on Prevention Pressure Injuries Among Intensive Care Unit Patients | conds: Pressure Injury | intr: combined Aloe Vera-Peppermint gel
+- NCT01783119 | UNKNOWN | results=False | EARLY_PHASE1 | Effect of Aloe Vera in the Inflammation of Patients With Mild Ulcerative Colitis | conds: Ulcerative Colitis | intr: Aloe Barbadensis Miller, placebo water | pubs: ['7959201:RESULT (new)', '19057395:RESULT (new)', '12739326:RESULT (new)', ':RESULT (-)', ':RESULT (-)', '17499606:RESULT (new)', '15958805:RESULT (new)', '12167685:RESULT (new)', '20423763:RESULT (new)', '17416034:RESULT (new)', '21654383:RESULT (new)', '20016696:RESULT (new)']
+- NCT04833998 | UNKNOWN | results=False | PHASE2 | Hydration Based on Thoitaine, Aloe Vera and Calendula, in the Prevention of Hand-Foot Syndrome in Patients Using Capecitabine | conds: Hand-foot Syndrome | intr: Extremecare, Placebo
+- NCT06740422 | NOT_YET_RECRUITING | results=False | PHASE3 | Xuanhuang Runtong Tablet in the Treatment of Constipation (Yin-deficiency Type) | conds: Constipation | intr: Xuanhuang Runtong Tablet, Xuanhuang Runtong Tablet Simulator
+- NCT02819817 | WITHDRAWN | results=False | PHASE1,PHASE2 | A Trial of Topical Aloe Vera Gel in Emergency Department Patients Presenting With Simple Traumatic Wounds | conds: Injuries and Wounds | intr: Aloe Vera Gel, Ultrasound gel
+- NCT07932990 | COMPLETED | results=False | NA | Halova Vaginal Ovules Versus Vaginal Estriol for Genitourinary Symptoms in Postmenopausal Women | conds: Genitourinary Syndrome of Menopause (GSM), Vaginal Dryness, Vulvo Vaginal Atrophy (VVA) | intr: Halova vaginal ovules, Estriol 0.5 mg vaginal ovules, Menopause-related education and counseling
+- NCT06862817 | COMPLETED | results=False | PHASE1,PHASE2 | Comparison Between the Effect of Aloe Vera and Benzydamine Hydrochloride Mouth Gel on Prevention of Pain and Progression of Radiation-induce | conds: Radiation Indused Oral Mucositis | intr: Aloe vera gel, Benzydamine Hydrochloride 0.15% Oral gel, bioadhesive gel
+- NCT03204097 | COMPLETED | results=False | PHASE2,PHASE3 | Local Host Modulating Agents Alendronate & Aloe Vera for Treatment of Furcation Defects in Chronic Periodontitis | conds: Chronic Periodontitis | intr: placebo, Alendronate, Aloe Vera
+- NCT04796805 | COMPLETED | results=False | NA | Effect of Topical Application of Black Pepper Essential Oil and Peripheral Catheter Insertion | conds: Vein; Spasm, Patient Satisfaction, Nurse Scope, Practice | intr: Topical essential oil application
+
+### OpenAlex no-PMID trial-worded - 13233 hits, 25 without PMID, 25 new
+- new | 2026 | 10.6026/973206300226990 | article | Curcumin and aloe vera chips in stage II Grade A periodontitis: A randomised controlled trial | Bioinformation
+- new | 2026 | https://openalex.org/W7216605077 | article | Effectiveness of Aloe Vera Versus Manuka Honey in Post-Extraction Healing in Children: A Randomized Controlled Trial | Journal of chemical health risks
+- new | 2025 | 10.37349/emed.2025.1001297 | article | Effect of aloe vera and coconut in the management of xerostomia in patients with Sjogren’s syndrome: a crossover randomized clinical trial | Exploration of Medicine
+- new | 2025 | 10.5812/semj-153382 | article | The Effects of Aloe Vera‑Peppermint (Veramint) Moisturizing Gel on Oral Mucositis Caused by Chemotherapy Among Cancer Patients Hospitalized in Intensive Care Units: A Triple‑Blind  | Shiraz E-Medical Journal
+- new | 2023 | 10.4103/jpo.jpo_13_23 | article | Comparative Evaluation of Aloe vera, Curcumin, and Lycopene in Oral Submucous Fibrosis Patients – A Randomized Controlled Trial | Journal of Precision Oncology
+- new | 2023 | 10.37766/inplasy2023.10.0018 | study-registration | Effects of Aloe vera on burns: a systematic review and meta-analysis of randomized controlled trials | 
+- new | 2022 | 10.26463/rjds.14_2_4 | article | Comparative Evaluation of Clinical and Radiographic Success of Aloe-Vera and Formocresol Pulpotomy in Primary Molars- A Randomised Control Trial | RGUHS Journal of Dental Sciences
+- new | 2021 | 10.1016/j.hermed.2021.100442 | article | A randomized, double-blind, placebo-controlled trial of a commercial Aloe vera gel for mitigation of phototherapy side-effects in vitiligo patients | Journal of Herbal Medicine
+- new | 2021 | 10.1108/nfs-06-2021-0175 | article | The effect of Aloe vera powder on anthropometric and metabolic syndrome’s indices in patients with type 2 diabetes: a randomized, double-blinded controlled clinical trial | Nutrition & Food Science
+- new | 2021 | 10.37506/ijfmt.v15i2.14862 | article | The Effect of Commercial Toothpaste Containing Aloe Vera on Dental Plaque and Gingivitis: A Double-Blind Randomized Clinical Trial | Indian Journal of Forensic Medicine & To
+- new | 2021 | 10.26440/ihrj/0411.02390 | article | Effectiveness of Honey and Aloe Vera on the Post Extraction Healing Among Young Adults: A Randomized Clinical Trial | International Healthcare Research Journa
+- new | 2020 | 10.21203/rs.3.rs-22563/v1 | preprint | Aloe vera for Prevention of Acute Radiation Proctitis in Colorectal Cancer: A Preliminary Randomized, Placebo-Controlled Clinical Trial | Research Square
+- new | 2019 | 10.4103/jorr.jorr_14_19 | article | Aloe vera on wound healing after periodontal flap surgery in chronic periodontitis patient: A randomized control trial | Journal of Oral Research and Review
+- new | 2017 | 10.1016/j.yclnex.2017.05.003 | article | Randomized double blind crossover trial of Aloe vera , Cnidoscolus chayamansa and placebo for reducing hyperglycemia in women with early metabolic syndrome | Clinical Nutrition Experimental
+- new | 2016 | 10.4103/2277-4696.192972 | article | Efficacy of fresh Aloe vera extract in postoperative healing following periodontal surgery in patients with chronic periodontitis: A randomized clinical trial | Journal of Dental and Allied Sciences
+- new | 2016 | 10.15171/ps.2016.30 | article | Effect of Aloe Vera and Pantoprazole on Gastroesophageal Reflux Symptoms in Mustard Gas Victims: A Randomized Controlled Trial | Pharmaceutical Sciences
+- new | 2015 | 10.15171/ps.2015.19 | article | Effects of Aloe Vera Supplements on Blood Glucose Level and Lipid Profile Markers in Type 2 Diabetic Patients – a Randomized Clinical Trial | Pharmaceutical Sciences
+- new | 2015 | 10.1016/j.ajoms.2015.07.006 | article | The effect of acemannan sponges in post-extraction socket healing: A randomized trial | Journal of Oral and Maxillofacial Surger
+- new | 2015 | 10.22038/jdmt.2015.6249 | article | Comparative evaluation of Green Tea- Aloe Vera mouthwash and chlorhexidine 0.2% on gingival indices (A randomized clinical trial) | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2014 | 10.3923/ajcn.2014.29.34 | article | Aloe vera Juice and Acne Vulgaris: A Placebo-Controlled Study | Asian Journal of Clinical Nutrition
+- new | 2013 | 10.1186/isrctn01562001 | study-registration | A Prospective, Randomised, Double-blind, Placebo Controlled Study to assess the Role of Aloe Vera with or without Glucosamine & Chondroitin in Patients with Symptomatic Osteoarthri | 
+- new | 2008 | 10.1055/s-0028-1083957 | article | A pilot randomized placebo controlled trial of 2 Aloe vera supplements in patients with pre-diabetes/metabolic syndrome | Planta Medica
+- new | 2008 | 10.1096/fasebj.22.2_supplement.804 | conference-abstract | A Randomized, Double‐Blind, Placebo‐Controlled Clinical Effect of a Xanthone‐rich Dietary Supplement on Immune Function in Humans: A Randomized Double‐Blind Placebo‐Controlled Tria | The FASEB Journal
+- new | 2004 | https://openalex.org/W3141082060 | article | Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis | 
+- new | 1999 | 10.3109/09546639909055904 | article | A double-blind, placebo-controlled trial of anAloe vera (A. barbadensis)emulsion in the treatment of seborrheic dermatitis | Journal of Dermatological Treatment
+
+## aloysia-citrodora (Aloysia citrodora) - name clause: "Aloysia citrodora"[tiab] OR "Aloysia triphylla"[tiab] OR "Lippia citriodora"[tiab] OR "lemon verbena"[tiab]
+
+### PubMed HT - 30 hits, 30 not already listed above, 26 new
+- new | 2026 | 42514335 | Review | Beyond GLP-1 Agonists: Plant-Derived Bioactive Compounds as Adjunctive Strategies for Obesity Management. | Nutrients
+- new | 2026 | 42191680 | Systematic Review/Meta-Analysis/Research Support, Non-U.S. Gov't | The effect of Lippia Citriodora (LC) extract on cardiometabolic risk factors: a systematic review and meta-analysis. | Nutr Diabetes
+- new | 2026 | 43038781 |  | Top-down strategy for discovering bioavailable and bioactive natural compounds targeting aging and obesity: A human-to-cellular investigation. | Food Chem
+- new | 2025 | 40251851 | Randomized Controlled Trial | Daily supplementation with lemon verbena extract decreases subjective energy and parental reports of hyperactivity in children displaying sub-clinical attention deficit hyperactivi | J Psychopharmacol
+- HELD REF-0691 | 2024 | 38794761 | Randomized Controlled Trial | Dietary Supplementation with an Extract of Aloysia citrodora (Lemon verbena) Improves Sleep Quality in Healthy Subjects: A Randomized Double-Blind Controlled Study. | Nutrients
+- new | 2024 | 39437164 |  | The Application of Untargeted Metabolomic Approaches for the Search of Common Bioavailable Metabolites in Human Plasma Samples from Lippia citriodora and Olea europaea Extracts. | J Agric Food Chem
+- new | 2023 | 37216059 |  | Effects of the aroma of lemone verbena (Aloysia citriodora Paláu) essential oil on anxiety and the hemodynamic profile before cesarean section: A randomized clinical trial. | Health Sci Rep
+- new | 2023 | 36904027 |  | Production of New Biopesticides from Cymbopogon citratus for the Control of Coffee Rust (Hemileia vastatrix) under Laboratory and Field Conditions. | Plants (Basel)
+- new | 2022 | 34591168 | Randomized Controlled Trial | Effectiveness of a polyphenolic extract (Lippia citriodora and Hibiscus sabdariffa) on appetite regulation in overweight and obese grade I population: an 8-week randomized, double- | Eur J Nutr
+- new | 2022 | 35011093 | Randomized Controlled Trial | Anxiolytic Effect and Improved Sleep Quality in Individuals Taking Lippia citriodora Extract. | Nutrients
+- new | 2021 | 33810049 | Randomized Controlled Trial | A Randomized, Double-Blind, Placebo-Controlled Trial to Determine the Effectiveness of a Polyphenolic Extract (Hibiscus sabdariffa and Lippia citriodora) for Reducing Blood Pressur | Molecules
+- new | 2021 | 34745923 |  | Comparing the effects of saffron, lippia, and saffron-lippia combination on anxiety among candidates for coronary angiography. | Avicenna J Phytomed
+- new | 2021 | 33889065 |  | Antioxidant and reduced skin-ageing effects of a polyphenol-enriched dietary supplement in response to air pollution: a randomized, double-blind, placebo-controlled study. | Food Nutr Res
+- HELD REF-3425 | 2021 | 34104096 | Randomized Controlled Trial | Evaluation of the Efficacy of Supplementation with Planox® Lemon Verbena Extract in Improving Oxidative Stress and Muscle Damage: A Randomized Double-Blind Controlled Trial. | Int J Med Sci
+- new | 2020 | 32138285 | Published Erratum | Correction: Marhuenda, J., et al. A Randomized, Double-Blind, Placebo Controlled Trial to Determine the Effectiveness a Polyphenolic Extract (Hibiscus sabdariffa and Lippia citriod | Foods
+- new | 2020 | 31935957 |  | A Randomized, Double-Blind, Placebo Controlled Trial to Determine the Effectiveness a Polyphenolic Extract (Hibiscus sabdariffa and Lippia citriodora) in the Reduction of Body Fat  | Foods
+- new | 2020 | 31707234 | Systematic Review | The effect of emerging nutraceutical interventions for clinical and biological outcomes in multiple sclerosis: A systematic review. | Mult Scler Relat Disord
+- new | 2019 | 30005170 | Randomized Controlled Trial | The Safety of Mother's Milk® Tea: Results of a Randomized Double-Blind, Controlled Study in Fully Breastfeeding Mothers and Their Infants. | J Hum Lact
+- new | 2019 | 30816148 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Differential effects of a combination of Hibiscus sabdariffa and Lippia citriodora polyphenols in overweight/obese subjects: A randomized controlled trial. | Sci Rep
+- HELD REF-0690 | 2019 | 30450627 | Randomized Controlled Trial | Aloysia citriodora Palau (lemon verbena) for insomnia patients: A randomized, double-blind, placebo-controlled clinical trial of efficacy and safety. | Phytother Res
+- new | 2018 | 29862395 | Randomized Controlled Trial | Hibiscus and lemon verbena polyphenols modulate appetite-related biomarkers in overweight subjects: a randomized controlled trial. | Food Funct
+- HELD REF-0620 | 2018 | 29410606 | Randomized Controlled Trial | Effects of lemon verbena extract (Recoverben®) supplementation on muscle strength and recovery after exhaustive exercise: a randomized, placebo-controlled trial. | J Int Soc Sports Nutr
+- new | 2018 | 29978873 | Published Erratum | Correction: Hibiscus and lemon verbena polyphenols modulate appetite-related biomarkers in overweight subjects: a randomized controlled trial. | Food Funct
+- new | 2017 | 28948486 | Review | Efficacy and Tolerability of Phytomedicines in Multiple Sclerosis Patients: A Review. | CNS Drugs
+- new | 2015 | 25326831 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of polyphenol supplements on redox status of blood cells: a randomized controlled exercise training trial. | Eur J Nutr
+- new | 2014 | 25617561 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of dietary supplementation with lemon verbena extracts on serum inflammatory markers of multiple sclerosis patients. | Nutr Hosp
+- new | 2012 | 21083769 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Antioxidant effect of lemon verbena extracts in lymphocytes of university students performing aerobic training program. | Scand J Med Sci Sports
+- new | 2011 | 21331628 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Phytoestrogens enhance antioxidant enzymes after swimming exercise and modulate sex hormone plasma levels in female swimmers. | Eur J Appl Physiol
+- new | 2011 | 20967458 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of lemon verbena supplementation on muscular damage markers, proinflammatory cytokines release and neutrophils' oxidative stress in chronic exercise. | Eur J Appl Physiol
+- new | 2011 | 22087615 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, double-blinded, placebo-controlled study of the effect of a combination of lemon verbena extract and fish oil omega-3 fatty acid on joint management. | J Altern Complement Med
+
+### PubMed SR - 3 hits, 1 not already listed above, 1 new
+- new | 2024 | 39286661 | Review | Effectiveness of Lemon Verbena (Cymbopogon citratus) in Oral Candidiasis: A Systematic Review. | Clin Cosmet Investig Dent
+
+### PubMed SAFE - 31 hits, 26 not already listed above, 24 new
+- new | 2026 | 42545798 | Review | Antigenotoxicity of extracts and metabolites of Lippia spp.: phytochemical basis, experimental evidence, and molecular mechanisms of genomic protection. | Toxicol Mech Methods
+- new | 2026 | 43009955 |  | Utilizing the antidermatophytic potential of aromatic essential oils and their major constituents against clinically relevant dermatophytes. | BMC Complement Med Ther
+- new | 2026 | 41890900 | Review | Exploring Colombian medicinal flora used in indigenous and campesino health systems for neuropsychiatric disorders and neuropharmacological potential: an ethnopharmacological revie | Front Pharmacol
+- new | 2024 | 38392217 |  | Protective Potential of a Botanical-Based Supplement Ingredient against the Impact of Environmental Pollution on Cutaneous and Cardiopulmonary Systems: Preclinical Study. | Curr Issues Mol Biol
+- new | 2024 | 37774492 | Research Support, Non-U.S. Gov't | Excito-repellent and Pesticide-Likeness Properties of Essential Oils on Carpophilus dimidiatus (Fabricius) (Nitidulidae) and Oryzaephilus mercator (L.) (Silvanidae). | J Chem Inf Model
+- new | 2023 | 38293873 | Observational Study | [Use of medicinal plants among older people attending a public primary care center]. | Rev Med Chil [spa]
+- HELD REF-2595 | 2023 | 37446789 |  | Role of Polyphenols from the Aqueous Extract of Aloysia citrodora in the Inhibition of Aflatoxin B1 Synthesis in Aspergillus flavus. | Molecules
+- new | 2023 | 37672435 |  | Acute toxicity of essential oils of Aloysia triphylla (L'Hér.) Britton, Lippia gracilis Schauer, and Piper aduncum L. in Colossoma macropomum (Cuvier, 1818). | Braz J Biol
+- new | 2022 | 34852962 | Randomized Controlled Trial, Veterinary | Essential oil of Aloysia citriodora Paláu and citral: sedative and anesthetic efficacy and safety in Rhamdia quelen and Ctenopharyngodon idella. | Vet Anaesth Analg
+- new | 2022 | 34607471 |  | Verbascoside inhibits paraquate-induced pulmonary toxicity via modulating oxidative stress, inflammation, apoptosis and DNA damage in A549 cell. | Drug Chem Toxicol
+- new | 2021 | 33097381 |  | Target specific post-harvest treatment by gamma radiation for the microbial safety of dried Melissa officinalis and Aloysia citrodora. | Appl Radiat Isot
+- new | 2021 | 34136175 |  | Phytochemical profiles of lemon verbena (Lippia citriodora H.B.K.) and its potential application to cookie enrichment. | Food Sci Nutr
+- new | 2020 | 32653933 |  | Comparative study of antimicrobial activity between some medicine plants and recombinant Lactoferrin peptide against some pathogens of cultivated button mushroom. | Arch Microbiol
+- HELD REF-0694 | 2020 | 32032763 |  | Dietary supplementation of lemon verbena (Aloysia citrodora) improved immunity, immune-related genes expression and antioxidant enzymes in rainbow trout (Oncorrhyncus mykiss). | Fish Shellfish Immunol
+- new | 2020 | 32069976 |  | Antimicrobial Activity of Essential Oils against Staphylococcus and Malassezia Strains Isolated from Canine Dermatitis. | Microorganisms
+- new | 2019 | 30897398 |  | Biosynthesis of TiO(2) nanoparticles and their application for treatment of brain injury-An in-vitro toxicity study towards central nervous system. | J Photochem Photobiol B
+- new | 2018 | 29468962 | Review | Plant-Derived Polyphenols in Human Health: Biological Activity, Metabolites and Putative Molecular Targets. | Curr Drug Metab
+- new | 2017 | 28110082 |  | Acute larvicidal toxicity of five essential oils (Pinus nigra, Hyssopus officinalis, Satureja montana, Aloysia citrodora and Pelargonium graveolens) against the filariasis vector C | Parasitol Int
+- new | 2017 | 28178379 | Research Support, Non-U.S. Gov't | Antigenotoxic Effect Against Ultraviolet Radiation-induced DNA Damage of the Essential Oils from Lippia Species. | Photochem Photobiol
+- new | 2016 | 27642323 |  | Teratogenic Effect of Verbascoside, Main Constituent of Lippia citriodora Leaves, in Mice. | Iran J Pharm Res
+- new | 2016 | 27757185 |  | Effect of aqueous and ethanolic extracts of Lippia citriodora on candida albicans. | Electron Physician
+- new | 2016 | 27222830 |  | Teratogenic effect of Lippia citriodora leaves aqueous extract in mice. | Avicenna J Phytomed
+- new | 2015 | 28255395 |  | The investigation of antibacterial activity of selected native plants from North of Iran. | J Med Life
+- new | 2011 | 21174108 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative toxicity of oxygenated monoterpenoids in experimental hydroalcoholic lotions to permethrin-resistant adult head lice. | Arch Dermatol Res
+- new | 2010 | 21441718 | Research Support, Non-U.S. Gov't | Spasmolytic and anti-inflammatory effects of Aloysia triphylla and citral, in vitro and in vivo studies. | J Smooth Muscle Res
+- new | 2006 | 16413820 | Research Support, Non-U.S. Gov't | Anti-genotoxic effect of Aloysia triphylla infusion against acrylamide-induced DNA damage as shown by the comet assay technique. | Mutat Res
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 13 hits, 7 not already listed above, 5 new
+- new | 2024 | 39599590 | Review | The Effects of Antioxidant Supplementation on Soccer Performance and Recovery: A Critical Review of the Available Evidence. | Nutrients
+- HELD REF-2452 | 2024 | 38595123 | Review | Therapeutic potential of hypnotic herbal medicines: A comprehensive review. | Phytother Res
+- new | 2022 | 35620220 | Review | Anaesthesia of decapod crustaceans. | Vet Anim Sci
+- new | 2021 | 34512779 | Review | Traditional Knowledge of Medicinal Plants Used in the Northeastern Part of Morocco. | Evid Based Complement Alternat Med
+- new | 2021 | 33469926 | Review | Herbal therapy as a promising approach for regulation on lipid profiles: A review of molecular aspects. | J Cell Physiol
+- new | 2019 | 32454721 | Review | Phytotherapy as a Complementary Medicine for Multiple Sclerosis. | Turk J Pharm Sci
+- HELD REF-0474 | 2018 | 29698776 | Review | Aloysia citrodora Paláu (Lemon verbena): A review of phytochemistry and pharmacology. | J Ethnopharmacol
+
+### ClinicalTrials.gov - 6 registered studies
+- NCT07079046 | COMPLETED | results=False | NA | Efficacy of Satisens® in Reducing Emotional Eating | conds: Emotional Eating, Overweight or Obesity, Hormonal Changes, Neurotransmitter Agents | intr: Intervention 1: Satisens®, Intervention 2: Placebo
+- NCT02923102 | COMPLETED | results=False | NA | Effects of Recoverben® on Recovery After Exhaustive Exercise | conds: Healthy Volunteers, Muscle Fatigue, Muscle Soreness | intr: Aloysia citriodora extract, Maltodextrin | pubs: ['29410606:DERIVED (new)']
+- NCT05476549 | COMPLETED | results=False | NA | Effects of Lemon Verbena Extract Supplementation in Sub-ADHD Children | conds: Behavior, Child, Cognitive Change | intr: Lemon verbena, Placebo
+- NCT04742244 | COMPLETED | results=False | NA | Lemon Verbena Extract Oxidative Stress and Muscle Damage | conds: Muscle Injury, Muscle Soreness | intr: Lvemon verbena extract, maltodextrin | pubs: ['34104096:DERIVED (HELD REF-3425)']
+- NCT05128812 | COMPLETED | results=False | NA | Study of the Effects of Plx on Bioparametric Measurements. | conds: Quality of Life, Antidepressive Agents, Depression, Anxiety, Sleep Initiation and Maintenance Disorders | intr: PLX
+- NCT05906771 | COMPLETED | results=False | NA | Study of the Effect of the Combined Extract of Lemon Verbena and Hibiscus on Health Indicators | conds: Diet, Mediterranean, Antioxidant Effect, Body Weight, Cardiovascular Diseases | intr: Metabolaid(R), Nutraceutical placebo
+
+### OpenAlex no-PMID trial-worded - 130 hits, 66 without PMID, 66 new
+- new | 2026 | 10.3390/cimb48111190 | article | Aloysia citrodora (Lemon Verbena) and Sleep Regulation: Phytochemical Constituents, Molecular Mechanisms, Preclinical and Clinical Evidence, and Translational Perspectives | Current Issues in Molecular Biology
+- new | 2026 | 10.66224/pbp.8.3.18 | article | Herbal Neurosoothers in Pediatric Anxiety: Insights from Preclinical Research | Plant Biotechnology Persa
+- new | 2026 | 10.36103/ehdex182 | article | ADDING LEMON VERBENA (ALOYSIA CITRIODORA) LEAVES POWDER TO THE DIET AND ITS EFFECT ON THE PRODUCTIVE PERFORMANCE OF BROILER | IRAQI JOURNAL OF AGRICULTURAL SCIENCES
+- new | 2026 | 10.5281/zenodo.19482291 | article | An ANN-Based Information System for Predictive Modeling of Green Antioxidant Extraction from Medicinal Plants | Zenodo (CERN European Organization for N
+- new | 2026 | 10.25258/ijddt.16.48s.122 | article | From Tradition to Evidence: Exploring the Neurochemical Basis and Clinical Efficacy of Medicinal Plants in Anxiety Therapy | International Journal of Drug Delivery T
+- new | 2026 | 10.30574/gscbps.2026.36.3.0302 | article | PHYTOCHEMICAL SCREENING AND ANTI-INFLAMMATORY ACTIVITY OF EUPHORBIA HIRTA: IMPLICATIONS FOR PHYSIOLOGICAL RECOVERY | GSC Biological and Pharmaceutical Scienc
+- new | 2026 | 10.22271/veterinary.2026.v11.i9sc.3790 | article | Antibacterial efficacy and mechanisms of action of medicinal plants against multidrug-resistant bacteria: A review with relevance to veterinary practice | International Journal of Veterinary Scie
+- new | 2026 | 10.31989/bmp.v3i8.2071 | article | The effect of resveratrol on oxidants and antioxidants in T2D | Bioactive Molecules and Pharmaceuticals
+- new | 2026 | 10.66224/pbp.8.2.5 | article | Phytopharmacology in Alzheimer’s Disease: A Review of Iranian Traditional Medicine | Plant Biotechnology Persa
+- new | 2025 | 10.32859/era.31.50.1-19 | article | An ethnobotanical inventory and therapeutic potential of medicinal plants used in traditional practices in northeastern Algeria | Ethnobotany Research and Applications
+- new | 2025 | https://openalex.org/W7140259812 | dissertation | Study of the biologic effects of natural compounds and its contributions to the papillomavirus-induced carcinogenesis process | Portuguese National Funding Agency for S
+- new | 2025 | 10.3390/app15115856 | article | Lippia citrodora (Lemon Verbena) Extract Helps Reduce Stress and Improve Sleep Quality in Adolescents in a Double-Blind Randomized Intervention Study | Applied Sciences
+- new | 2025 | 10.32859/era.33.11.1-17 | article | Insights and use of medicinal plants in relieving respiratory affections among students: A case study from Guelma district (Algeria) | Ethnobotany Research and Applications
+- new | 2025 | https://openalex.org/W7218196891 | article | Conocimiento y uso de plantas medicinales para el control de la glicemia de los pacientes diabéticos | Revista de Ciencias Médicas de Pinar del
+- new | 2025 | 10.1111/jwas.70022 | article | Dietary inclusion of curry plant (Helichrysum italicum) extract in rainbow trout (Oncorhynchus mykiss) culture: Growth performance and gene expression related to digestion, antioxi | Journal of the World Aquaculture Society
+- new | 2025 | 10.35869/11093/11135 | dissertation | Estudo do perfil químico das partes vexetativas e subprodutos da produción de Humulus lupulus L. en cultivares e espontáneos, nunha aplicación cosmética natural | Investigo repository of University of Vi
+- new | 2024 | 10.3390/agriculture14010097 | article | Dynamics of Agronomic Characteristics and Plant Diversity in Lemon Verbena (Aloysia citrodora Paláu) Cultivation in Greece | Agriculture
+- new | 2024 | 10.4314/bestj.v21i1.4 | article | Blocking activity of Aloysia citrodoraLeaf Extract on the Sporogonic Development of Plasmodium falciparum field isolate against Anopheles gambiae S.L. (Culicidae: Diptera) | Biological and Environmental Sciences Jo
+- new | 2024 | 10.17343/sdutfd.1330810 | article | : THE EFFICACY OF SOME HERBAL THERAPIES PREFERRED BY TURKISH MS PATIENTS | SDÜ Tıp Fakültesi Dergisi
+- new | 2024 | 10.3390/agronomy14091956 | article | Optimizing Fertilization Strategies to Promote Leaf-Use Ginkgo Productivity and Ecosystem Economic Benefits: An Integrated Evaluation of a Field Trial in Southern China | Agronomy
+- new | 2024 | 10.18502/jzms.v6i3.14794 | article | Investigating the Effect of Lippia Citriodora Leaf Hydro-Ethanolic Extract on Two Prostate Cancer Cell Lines PC-3 and LNCaP Alone and in Combination with Docetaxel | Journal of Zabol Medical School
+- new | 2024 | 10.21608/bbj.2024.301973.1032 | article | Genetic Variation of Resistant Staphylococcus Aureus Isolates and Their Susceptibility to the Antimicrobial Activity of Some Plant and Algal Extracts. | Biological and Biomedical Journal
+- new | 2024 | 10.3390/fishes9020048 | article | Administration of Red Macroalgae (Galaxaura oblongata) in the Diet of the Rainbow Trout (Oncorhynchus mykiss) Improved Immunity and Hepatic Gene Expression | Fishes
+- new | 2024 | 10.5897/ajar2023.16381 | article | Antifungal effect of wood vinegar from selected feedstocks on Ascochyta rabiei in vitro | African Journal of Agricultural Research
+- new | 2023 | 10.1055/s-0043-1774245 | article | A human pilot dose-finding study of Aloysia citriodora extract for CNS activity | Planta Medica
+- new | 2023 | 10.55057/ajress.2023.5.3.46 | review | The Effects Of Aromatherapy On The Sleep Quality Of Adults With Insomnia: A Systematic Review | Asian Journal of Research in Education a
+- new | 2023 | 10.3390/nutraceuticals3030032 | article | Herbal Infusions as a Part of the Mediterranean Diet and Their Association with Psychological Resilience: The Paradigm of Greek Mountain Tea | Nutraceuticals
+- new | 2023 | 10.1093/9780197610145.003.1131 | book-chapter | AOAC SMPR ® 2023.002: Standard Method Performance Requirements (SMPRs ® ) for Pyrrolizidine Alkaloids in Teas, Herbal Infusions, Dried Herbs, Seed Spices, Honey, and Botanical Diet | Oxford University Press eBooks
+- new | 2023 | 10.3390/fishes8100526 | article | Stress-Protective Role of Dietary α-Tocopherol Supplementation in Longfin Yellowtail (Seriola rivoliana) Juveniles | Fishes
+- new | 2022 | 10.14295/cs.v13.3590 | article | Phenotypic plasticity of Aloysia citrodora: anatomical changes to water availability and seasons | Comunicata Scientiae
+- new | 2022 | 10.5902/2179460x64581 | article | Water availability and seasonality affect phytomass production and photosynthetic pigments of Aloysia citrodora Paláu | Ciência e Natura
+- new | 2022 | 10.14295/cs.v13.3476 | article | Technical feasibility of minicutting of different portions of the branch to produce clonal seedlings of Aloysia citrodora | Comunicata Scientiae
+- new | 2022 | 10.21608/mbse.2022.143713.1201 | article | Potential Protective Effects of Lemon Verbena (Aloysia Citriodora) Leaves Against Gastric Ulcer in Rats: Biological, Biochemical and Technological Studies | مجلة بحوث التربية النوعية
+- new | 2022 | 10.1016/j.aqrep.2022.101041 | article | Effect of dietary barberry fruit (Berberis vulgaris) extract on immune function, antioxidant capacity, antibacterial activity, and stress-related gene expression of Siberian sturge | Aquaculture Reports
+- new | 2022 | 10.35229/jaes.1128494 | article | The effects of Dietary GroBiotic®-A on growth performance and survival rate of Penaeus semisulcatus (de Haan, 1844) juveniles | Journal of Anatolian Environmental and A
+- new | 2022 | 10.1016/j.aqrep.2022.101279 | article | Can dietary Dictyota dichotoma powder affect performance, serum, and mucus immune parameters, and antioxidant defense in Zebrafish (Danio rerio)? | Aquaculture Reports
+- new | 2022 | 10.1016/j.aqrep.2022.101097 | article | Effects of dietary galactooligosaccharide on growth, antioxidants, immunity, intestinal morphology and disease resistance against Aeromons hydrophila in juvenile hybrid sturgeon (A | Aquaculture Reports
+- new | 2021 | 10.32734/injar.v4i2.5207 | article | Contribution to the Improvement of Vegetative Propagation by Greenhouse Cuttings of Odorous Verbena (Aloysia citrodora) | Indonesian Journal of Agricultural Resea
+- new | 2021 | https://openalex.org/W7135279851 | dissertation | enquête ethnobotanique sur les plantes médicinales utilisées par les patients atteints du cancer de la prostate dans l'ouest de l'Algerie | Dépôt Institutionnel de lUniversité de T
+- new | 2021 | https://openalex.org/W7135291111 | dissertation | Etude ethnobotanique des plantes antidiabétiques utilisées par les diabétiques de Tlemcen | Dépôt Institutionnel de lUniversité de T
+- new | 2021 | 10.18502/pbr.v7i3.7698 | article | Effects of Aloysia citriodora Hydroalcoholic Extract on Ethanol-induced Hepatotoxicity in Male Wistar Rats | Pharmaceutical and Biomedical Research
+- new | 2021 | 10.1080/0972060x.2021.2021999 | article | Growth and Essential Oil Quality of Lemon Verbena Aerial Parts ( Aloysia Citriodora) in Response to Foliar Application of Royal Jelly and Algae Extracts | Journal of Essential Oil Bearing Plants
+- new | 2021 | 10.6084/m9.figshare.14288813 | dataset | Fungicidal potential of essential oils in control of Fusarium spp. and Sclerotinia sclerotiorum | Figshare
+- new | 2021 | 10.1016/j.aqrep.2021.100831 | article | Effects of diet supplementation with plant juice processing by-products on juvenile black rockfish (Sebastes schlegelii) growth performance, feed utilization, non-specific immunity | Aquaculture Reports
+- new | 2020 | https://openalex.org/W3096127558 | article | Study of Aloysia citrodora Growth as an Ornamental-Medicinal Plant in Substrates Containing Natural and Synthetic Superabsorbents | Journal of ornamental and horticultural 
+- new | 2020 | 10.2174/1573395516999200930122850 | article | Immunomodulation in Multiple Sclerosis by Phytotherapy | Current Immunology Reviews
+- new | 2020 | https://openalex.org/W3114855535 | dissertation | Evaluación de la incorporación de aguamiel de agave (Agave americana L.) y plantas aromáticas en la elaboración de cerveza artesanal. | Digital Repository Technical University 
+- new | 2020 | 10.1590/1808-1657000612019 | article | Fungicidal potential of essential oils in control of Fusarium spp. and Sclerotinia sclerotiorum | Arquivos do Instituto Biológico
+- new | 2020 | 10.22207/jpam.14.3.20 | article | Heat Treatment Reduces Bacterial Contamination of Medicinal Plants Grown in A Community Garden | Journal of Pure and Applied Microbiology
+- new | 2020 | 10.9734/ejmp/2020/v31i330217 | article | Propagation of Aloysia citriodora Palau Using Different Cutting Types under Light Intensity | European Journal of Medicinal Plants
+- new | 2020 | 10.16966/2470-6086.167 | article | Hibiscus Tea and Health: A Scoping Review of Scientific Evidence | Nutrition and Food Technology Open Acces
+- new | 2020 | 10.1016/j.aqrep.2020.100510 | article | Effects of dietary Chinese herbal medicines mixture on growth performance, digestive enzyme activity and serum biochemical parameters of European eel, Anguilla anguilla | Aquaculture Reports
+- new | 2020 | 10.1111/are.15072 | article | Improved growth performance, serum and mucosal immunity, haematology and antioxidant capacity in pikeperch ( Sander lucioperca ) using dietary water hyacinth ( Eichhornia crassipes | Aquaculture Research
+- new | 2020 | 10.37360/blacpma.20.19.4.25 | article | Local botanical knowledge in urban areas of northern Uruguay | Boletin Latinoamericano y del Caribe de 
+- new | 2019 | 10.1590/0102-33062018abb0386 | article | Medicinal plants for the "nerves": a review of ethnobotanical studies carried out in South Brazil | Acta Botanica Brasilica
+- new | 2019 | 10.6084/m9.figshare.9276599 | dataset | Medicinal plants for the "nerves": a review of ethnobotanical studies carried out in South Brazil | Figshare
+- new | 2019 | 10.6084/m9.figshare.8324495 | dataset | Medicinal plants for the "nerves": a review of ethnobotanical studies carried out in South Brazil | Figshare
+- new | 2019 | 10.4025/actascibiolsci.v41i1.47105 | article | In vitro propagation of lemon verbena: a plant native of South America | Acta Scientiarum Biological Sciences
+- new | 2018 | 10.1016/j.jarmap.2017.09.004 | article | Leaf nutrient concentration standards for lemon verbena ( Aloysia citrodora Paláu) obtained from field and pot fertilization experiments | Journal of Applied Research on Medicinal
+- new | 2018 | 10.22037/ipa.v1i1.20038 | article | Management of Multiple sclerosis complications with herbal medicines in clinic: a review | International Pharmacy Acta
+- new | 2018 | 10.18002/10612/9578 | dissertation | Estudos de fertilização de azoto, fósforo, potássio e boro em oliveira = Estudios de fertilización de nitrógeno, fósforo, potasio y boro en olivo = Fertilization studies of nitroge | Buleria (Universidad de León)
+- new | 2018 | 10.3329/bjp.v13i3.36897 | article | Chemical composition and antibacterial activity of Origanum ramonense essential oil on the β-lactamase and extended- spectrum β-lactamase urinary tract isolates | Bangladesh Journal of Pharmacology
+- new | 2016 | https://openalex.org/W2479778937 | article | EFFECTS OF ORGANIC FERTILIZERS OF COMPOST AND VERMICOMPOST ON QUALITATIVE AND QUANTITATIVE TRIATS OF LEMON VERBENA | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2015 | 10.4103/0976-9234.157390 | article | Assessment of aqueous extract of Lemon verbena on anxiety-like behavior in rats | Journal of Pharmaceutical Negative Resul
+- new | 2014 | 10.4314/jab.v78i1.17 | article | Étude floristique et ethnobotanique de la flore médicinale du Haut Atlas oriental (Haute Moulouya) | Journal of Applied Biosciences
+- new | 2005 | 10.1007/s10526-004-0456-6 | article | Biology and host range of Aconophora compressa, a candidate considered as a biocontrol agent of Lantana camara in Africa | BioControl

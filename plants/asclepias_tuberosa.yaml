@@ -120,8 +120,10 @@ indications:
   - REF-0495
   - REF-1948
 - condition: cold
-  note: inferred from diaphoretic action
-  reference_ids: []
+  note: Used by Eclectic physicians to treat influenza during the 1918 pandemic (historical review); no
+    clinical trials
+  reference_ids:
+  - REF-5188
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0495
@@ -138,11 +140,13 @@ indications:
 contraindications:
 - note: 'Contains cardiac glycosides: do NOT use in pregnancy, breastfeeding or infancy, in anyone with
     a heart condition, or alongside cardiac glycoside medicines (e.g. digoxin). The plant''s cardenolide-rich
-    latex is directly toxic - a documented case caused corneal injury through Na/K-ATPase inhibition.'
+    latex is directly toxic: two case reports describe corneal injury with blurred or lost vision after
+    handling the plant, one in a contact-lens wearer after gardening.'
   severity: caution
   reference_ids:
   - REF-0495
   - REF-0626
+  - REF-5187
   status: verified
 - note: Large doses are emetic and purgative (cause vomiting and diarrhoea). There is very little modern
     safety or efficacy data, so use only under the guidance of a qualified practitioner.
@@ -232,4 +236,14 @@ internal_notes: 'Enriched 2026-06-12 from general herbal literature (traditional
   replaced by Grieve''s Pleurisy Root entry REF-4303 on the diaphoretic and expectorant actions and
   the respiratory pair; the pair also cites Lockwood 1848 (REF-1948, PMC full text read 2026-11-20:
   copious expectoration, bronchitis and catarrh), moved from its mechanistic exclusions. Both
-  traditional, so no score change.'
+  traditional, so no score change.
+  | 2026-11-24: symptom-source audit research-deepening batch 5 - Searched PubMed ("Asclepias
+  tuberosa" OR "pleurisy root" tiab, "butterfly weed" ti: 0 HT, 0 SR, 3 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (9, all about the disease pleurisy, none on the plant) and OpenAlex (85
+  no-PMID works, mostly horticulture and pollinator ecology). No human study of the plant exists.
+  Added: 2026 toxic keratoconjunctivitis case after handling the plant (to the cardiac-glycoside
+  caution, whose text now covers both case reports); Abascal & Yarnell 2006 review of Eclectic
+  botanicals used in the 1918 influenza pandemic, which names pleurisy root (to the cold pair,
+  which no longer rests on inference alone; stays needs-review, historical evidence). REF-0626
+  (Mikkelsen 2017) retagged clinical: it is a case report, not a lab study. Not used:
+  homoeopathic-journal remedy lists, a seed antidiabetic review in a low-quality journal.'

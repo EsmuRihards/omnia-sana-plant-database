@@ -46,3 +46,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 2 | agrimony, lady's mantle, garlic, aloe, lemon verbena | REF-5083..5131 (49) | 1,409 -> 1,415 | `batches/r02_report.md` |
 | 3 | marshmallow, andrographis, dill, angelica, burdock | REF-5132..5168 (37) | 1,415 -> 1,417 | `batches/r03_report.md` |
 | 4 | lesser burdock, bearberry, arnica, wormwood, mugwort (+ andrographis follow-up) | REF-5169..5186 (18) | 1,417 -> 1,420 | `batches/r04_report.md` |
+| 5 | pleurisy root, astragalus, bacopa, birch, bistort | REF-5187..5204 (18) | 1,420 -> 1,422 | `batches/r05_report.md` |

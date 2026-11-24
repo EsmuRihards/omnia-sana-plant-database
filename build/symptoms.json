@@ -1884,7 +1884,8 @@
      "references": [
       "REF-2261",
       "REF-3449",
-      "REF-3450"
+      "REF-3450",
+      "REF-5190"
      ]
     },
     {
@@ -1923,6 +1924,26 @@
      ]
     },
     {
+     "condition": "kidney-support",
+     "label": "Kidney support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5191"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5189"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -1946,14 +1967,6 @@
      "references": [
       "REF-0401"
      ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     },
     {
      "condition": "cold",
@@ -2205,6 +2218,20 @@
    "common_slug": "birch",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5200",
+      "REF-5201",
+      "REF-5202",
+      "REF-5203",
+      "REF-5204"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -12543,16 +12570,18 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "bronchitis",
-     "label": "Bronchitis",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
      "condition": "cold",
      "label": "Cold & flu",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-5188"
+     ]
+    },
+    {
+     "condition": "bronchitis",
+     "label": "Bronchitis",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -15959,7 +15988,9 @@
       "REF-0283",
       "REF-3456",
       "REF-3457",
-      "REF-3458"
+      "REF-3458",
+      "REF-5194",
+      "REF-5195"
      ]
     },
     {
@@ -15971,22 +16002,24 @@
      "references": [
       "REF-0740",
       "REF-0283",
-      "REF-2107"
-     ]
-    },
-    {
-     "condition": "anxiety",
-     "label": "Anxiety",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0740"
+      "REF-2107",
+      "REF-5194"
      ]
     },
     {
      "condition": "depression",
      "label": "Low mood / depression",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0740",
+      "REF-5197"
+     ]
+    },
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
      "evidence": 5,
      "status": "verified",
      "inferred": false,

@@ -171,39 +171,52 @@ indications:
   status: needs-review
 - condition: cognitive-function
   note: Improved attention and processing speed in a meta-analysis of randomized trials, and cognitive
-    performance in older adults in placebo-controlled trials
+    performance in older adults in placebo-controlled trials; a 2026 network meta-analysis found gains
+    in working memory but not in attention or processing speed, and one 12-week trial found no effect
+    on any cognitive measure
   reference_ids:
   - REF-0740
   - REF-0283
   - REF-2107
+  - REF-5194
   status: needs-review
+  null_result_ids:
+  - REF-5196
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
 - condition: memory
   note: Improved memory recall and retention in randomized trials in healthy adults and older people (systematic
-    review)
+    review); a 2026 network meta-analysis found high doses improved working and short-term memory, though
+    one 12-week trial in healthy adults found no effect
   reference_ids:
   - REF-0740
   - REF-0283
   - REF-3456
   - REF-3457
   - REF-3458
+  - REF-5194
+  - REF-5195
   status: needs-review
+  null_result_ids:
+  - REF-5196
 - condition: anxiety
   note: Anxiety scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized
-    trial; another trial found no change in anxiety
+    trial; two other trials found no clear change in anxiety
   reference_ids:
   - REF-0740
   status: verified
   null_result_ids:
   - REF-3458
+  - REF-5196
 - condition: depression
   note: Depression scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized
-    trial
+    trial, and added to citalopram it improved depression and anhedonia scores more than citalopram alone
+    in a 4-week trial
   reference_ids:
   - REF-0740
+  - REF-5197
   status: verified
 contraindications:
 - note: Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal
@@ -223,6 +236,12 @@ contraindications:
   - REF-0740
   - REF-0283
   - REF-0063
+  status: verified
+- note: Reviews advise care when taking it with some medicines and in hyperthyroidism (an overactive thyroid);
+    safety in pregnancy and breastfeeding has not been established.
+  severity: caution
+  reference_ids:
+  - REF-5198
   status: verified
 references:
 - REF-0740
@@ -249,6 +268,14 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: antidepressants-serotonergic
+  severity: caution
+  mechanism: In a review of adverse-event reports, bacopa taken with antidepressants was linked to back
+    pain and heavy sweating (with agomelatine) and to a heart attack (with moclobemide); this rests on
+    two reports, with no controlled study.
+  reference_ids:
+  - REF-5199
+  status: draft
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -282,4 +309,21 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   fell vs placebo; owner rule); Roodenrys 2002 (anxiety unaffected) recorded as no-effect for
   anxiety. Not added: Bacumen 2025 RCT (no cognitive benefit; stress/fatigue secondary), MCI sleep
   RCT (no effect on sleep - no insomnia pair exists).
-  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-2107 (cognition meta-analysis); traditional_uses, constituents[0], preparations[0] and dosage[0] cited REF-2107 + REF-0740 (RCT). RE-SOURCED: Useful Tropical Plants (REF-3971, new) and Wikipedia (REF-3972, new) for the plant and its range; reviews REF-0742 (Ayurvedic memory, sedative, anti-epileptic use) and REF-2113/REF-2108 (bacosides named as active constituents); REF-0740 (300 mg/day for 12 weeks) and REF-2107 (trials of at least 12 weeks; speed of attention) kept for what they report. Dropped as unsupported: 5-15 cm, spatula-shaped, pale lavender flowers, ovoid capsule, flowering year-round, rice paddies, medhya rasayana wording, calming nervine for anxiety and sleep, capsules, standardised to bacoside content, around 300 mg in most trials.'
+  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-2107 (cognition meta-analysis); traditional_uses, constituents[0], preparations[0] and dosage[0] cited REF-2107 + REF-0740 (RCT). RE-SOURCED: Useful Tropical Plants (REF-3971, new) and Wikipedia (REF-3972, new) for the plant and its range; reviews REF-0742 (Ayurvedic memory, sedative, anti-epileptic use) and REF-2113/REF-2108 (bacosides named as active constituents); REF-0740 (300 mg/day for 12 weeks) and REF-2107 (trials of at least 12 weeks; speed of attention) kept for what they report. Dropped as unsupported: 5-15 cm, spatula-shaped, pale lavender flowers, ovoid capsule, flowering year-round, rice paddies, medhya rasayana wording, calming nervine for anxiety and sleep, capsules, standardised to bacoside content, around 300 mg in most trials.
+  | 2026-11-24: symptom-source audit research-deepening batch 5 - Searched PubMed (Bacopa monnieri
+  / monniera / Herpestis monniera tiab; Bacopa, brahmi ti), Europe PMC, ClinicalTrials.gov (65)
+  and OpenAlex. Added: 2026 Brahmi vs Ginkgo network MA (29 RCTs, healthy adults; high dose
+  improved working and short-term memory vs placebo, no effect on attention or processing speed)
+  to memory and cognitive-function; Stough 2008 90-day RCT to memory; Sathyanarayanan 2013 12-week
+  RCT (no effect on any cognitive measure, only a non-significant anxiety trend) recorded as
+  no-effect for memory, cognitive-function and anxiety; Micheli 2020 citalopram add-on trial in
+  anhedonia to depression. Safety: 2025 review (care with some medicines, hyperthyroidism,
+  pregnancy) as a new caution; pharmacovigilance chart review (agomelatine, moclobemide reports)
+  as a new DRAFT serotonergic-antidepressant interaction, needs owner sign-off. Memory and
+  cognitive-function stay needs-review (status not changed by this pass). Considered, not added:
+  Brahmi vati, Brahmi ghrita, Medhya Rasayana and other Ayurvedic formulations; Bacopa + ginseng,
+  Pycnogenol, micronutrient and multi-ingredient products; Bacopa vs donepezil (active
+  comparator); 2025 older-adult plant NMA ("bacopa compound", a combination); dementia SR 2022
+  (very low quality, mixes combinations); ADHD, schizophrenia and Parkinson trials (no vocab
+  condition); cevimeline toxicity case (supplement also had phosphatidylserine); necrotising
+  myopathy letter (no abstract); in vitro CYP screen (negligible inhibition).'

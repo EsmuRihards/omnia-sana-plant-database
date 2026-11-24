@@ -1,0 +1,26 @@
+plant	condition	ref	op
+asclepias_tuberosa	cold	REF-5188	add
+asclepias_tuberosa	cold	-	note
+astragalus_membranaceus	arthritis	REF-5189	add
+astragalus_membranaceus	arthritis	-	note
+astragalus_membranaceus	arthritis	-	status=verified
+astragalus_membranaceus	fatigue	REF-5190	add
+astragalus_membranaceus	fatigue	-	note
+astragalus_membranaceus	kidney-support	REF-5191	newpair
+bacopa_monnieri	memory	REF-5194	add
+bacopa_monnieri	memory	REF-5195	add
+bacopa_monnieri	memory	REF-5196	nulladd
+bacopa_monnieri	memory	-	note
+bacopa_monnieri	cognitive-function	REF-5194	add
+bacopa_monnieri	cognitive-function	REF-5196	nulladd
+bacopa_monnieri	cognitive-function	-	note
+bacopa_monnieri	anxiety	REF-5196	nulladd
+bacopa_monnieri	anxiety	-	note
+bacopa_monnieri	depression	REF-5197	add
+bacopa_monnieri	depression	-	note
+betula_pendula	wounds	REF-5200,REF-5201,REF-5202,REF-5203,REF-5204	newpair
+asclepias_tuberosa	ciadd	Contains cardiac glycosides	REF-5187
+astragalus_membranaceus	dcinew	cyp3a4-substrates	REF-5193
+bacopa_monnieri	cinew	Reviews advise care when taking it with 	REF-5198
+bacopa_monnieri	dcinew	antidepressants-serotonergic	REF-5199
+betula_pendula	cinew	The licensed birch bark gel can cause al	REF-5204

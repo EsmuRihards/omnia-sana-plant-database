@@ -8654,14 +8654,16 @@
     },
     {
      "condition": "cold",
-     "note": "inferred from diaphoretic action",
-     "reference_ids": [],
+     "note": "Used by Eclectic physicians to treat influenza during the 1918 pandemic (historical review); no clinical trials",
+     "reference_ids": [
+      "REF-5188"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0495",
       "REF-1948"
      ],
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cold & flu"
     },
     {
@@ -8681,11 +8683,12 @@
    ],
    "contraindications": [
     {
-     "note": "Contains cardiac glycosides: do NOT use in pregnancy, breastfeeding or infancy, in anyone with a heart condition, or alongside cardiac glycoside medicines (e.g. digoxin). The plant's cardenolide-rich latex is directly toxic - a documented case caused corneal injury through Na/K-ATPase inhibition.",
+     "note": "Contains cardiac glycosides: do NOT use in pregnancy, breastfeeding or infancy, in anyone with a heart condition, or alongside cardiac glycoside medicines (e.g. digoxin). The plant's cardenolide-rich latex is directly toxic: two case reports describe corneal injury with blurred or lost vision after handling the plant, one in a contact-lens wearer after gardening.",
      "severity": "caution",
      "reference_ids": [
       "REF-0495",
-      "REF-0626"
+      "REF-0626",
+      "REF-5187"
      ],
      "status": "verified"
     },
@@ -8949,18 +8952,27 @@
       "REF-0402"
      ],
      "status": "verified"
+    },
+    {
+     "action": "vulnerary",
+     "reference_ids": [
+      "REF-5192"
+     ],
+     "status": "verified"
     }
    ],
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
-     "status": "needs-review",
+     "note": "A standardized astragalus root extract reduced knee pain and improved WOMAC scores more than placebo over 28 days in a small double-blind randomized trial in adults with functional knee joint pain",
+     "reference_ids": [
+      "REF-5189"
+     ],
+     "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0402"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
@@ -8992,11 +9004,12 @@
     },
     {
      "condition": "fatigue",
-     "note": "Reduced fatigue after stroke and in cancer patients in meta-analyses of trials (low-quality evidence) and in a trial in nurses with post-COVID fatigue; an Astragalus polysaccharide infusion did not reduce chemotherapy fatigue overall",
+     "note": "Reduced fatigue after stroke and in cancer patients in meta-analyses of trials (low-quality evidence), in a placebo-controlled trial after stroke and in a trial in nurses with post-COVID fatigue; an Astragalus polysaccharide infusion did not reduce chemotherapy fatigue overall",
      "reference_ids": [
       "REF-2261",
       "REF-3449",
-      "REF-3450"
+      "REF-3450",
+      "REF-5190"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
@@ -9063,6 +9076,16 @@
      "status": "verified",
      "evidence": 7,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "kidney-support",
+     "note": "Added to usual treatment, astragalus reduced protein in the urine and serum creatinine in people with diabetic kidney disease in a meta-analysis of 66 low-quality trials; most trials used an injection, but oral preparations also reduced albumin in the urine (4 trials)",
+     "reference_ids": [
+      "REF-5191"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Kidney support"
     }
    ],
    "contraindications": [
@@ -9115,6 +9138,10 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "drug_class_interactions": [],
+   "synonyms": [
+    "Astragalus mongholicus"
+   ],
    "common_slug": "astragalus"
   },
   {
@@ -9321,13 +9348,17 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "Improved attention and processing speed in a meta-analysis of randomized trials, and cognitive performance in older adults in placebo-controlled trials",
+     "note": "Improved attention and processing speed in a meta-analysis of randomized trials, and cognitive performance in older adults in placebo-controlled trials; a 2026 network meta-analysis found gains in working memory but not in attention or processing speed, and one 12-week trial found no effect on any cognitive measure",
      "reference_ids": [
       "REF-0740",
       "REF-0283",
-      "REF-2107"
+      "REF-2107",
+      "REF-5194"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-5196"
+     ],
      "evidence": 9,
      "label": "Cognitive function"
     },
@@ -9341,39 +9372,46 @@
     },
     {
      "condition": "memory",
-     "note": "Improved memory recall and retention in randomized trials in healthy adults and older people (systematic review)",
+     "note": "Improved memory recall and retention in randomized trials in healthy adults and older people (systematic review); a 2026 network meta-analysis found high doses improved working and short-term memory, though one 12-week trial in healthy adults found no effect",
      "reference_ids": [
       "REF-0740",
       "REF-0283",
       "REF-3456",
       "REF-3457",
-      "REF-3458"
+      "REF-3458",
+      "REF-5194",
+      "REF-5195"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-5196"
+     ],
      "evidence": 10,
      "label": "Memory"
     },
     {
      "condition": "anxiety",
-     "note": "Anxiety scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized trial; another trial found no change in anxiety",
+     "note": "Anxiety scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized trial; two other trials found no clear change in anxiety",
      "reference_ids": [
       "REF-0740"
      ],
      "status": "verified",
      "null_result_ids": [
-      "REF-3458"
+      "REF-3458",
+      "REF-5196"
      ],
      "evidence": 5,
      "label": "Anxiety"
     },
     {
      "condition": "depression",
-     "note": "Depression scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized trial",
+     "note": "Depression scores fell in older adults taking Bacopa for 12 weeks (and rose on placebo) in a randomized trial, and added to citalopram it improved depression and anhedonia scores more than citalopram alone in a 4-week trial",
      "reference_ids": [
-      "REF-0740"
+      "REF-0740",
+      "REF-5197"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 6,
      "label": "Low mood / depression"
     }
    ],
@@ -9394,6 +9432,14 @@
       "REF-0740",
       "REF-0283",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Reviews advise care when taking it with some medicines and in hyperthyroidism (an overactive thyroid); safety in pregnancy and breastfeeding has not been established.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5198"
      ],
      "status": "verified"
     }
@@ -9761,6 +9807,20 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Urinary support"
+    },
+    {
+     "condition": "wounds",
+     "note": "A licensed gel of birch bark extract (from silver and downy birch) closed epidermolysis bullosa wounds more often than a control gel in a double-blind randomized trial, and sped healing of skin-graft donor sites in randomized trials; the gel is approved in the EU for wounds in epidermolysis bullosa",
+     "reference_ids": [
+      "REF-5200",
+      "REF-5201",
+      "REF-5202",
+      "REF-5203",
+      "REF-5204"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Wounds"
     }
    ],
    "contraindications": [
@@ -9778,6 +9838,14 @@
      "reference_ids": [
       "REF-0080",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "The licensed birch bark gel can cause allergic (hypersensitivity) reactions and must be stopped at once if they occur; wound infection is a known complication of treatment (EU product information).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5204"
      ],
      "status": "verified"
     }

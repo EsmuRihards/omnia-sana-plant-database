@@ -1,0 +1,1335 @@
+# Research-deepening batch 5 - search
+
+## asclepias-tuberosa (Asclepias tuberosa) - name clause: "Asclepias tuberosa"[tiab] OR "pleurisy root"[tiab] OR "butterfly weed"[ti]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 3 hits, 3 not already listed above, 1 new
+- new | 2026 | 41903404 | Case Reports | Toxic Keratoconjunctivitis from Milkweed (Asclepias tuberosa) Exposure in a Contact Lens Wearer. | J Emerg Med
+- HELD REF-0626 | 2017 | 28400886 | Case Reports | Corneal Toxicity Following Exposure to Asclepias Tuberosa. | Open Ophthalmol J
+- HELD REF-1944 | 2000 | 10923833 |  | Pregnane glycosides from the roots of Asclepias tuberosa. | Chem Pharm Bull (Tokyo)
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 0 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 9 registered studies
+- NCT00720954 | COMPLETED | results=False | NA | Rigid Thoracoscopy Versus CT-Guided Pleural Needle Biopsy | conds: Pleural Effusion, Pleural Diseases | intr: Ct-guided pleural needle biopsy, Thoracoscopy | pubs: ['20154079:DERIVED (new)']
+- NCT06525272 | UNKNOWN | results=False | PHASE1 | A Study to Evaluate the Safety, Tolerability, and Preliminary Efficacy of OsrhCT in Patients With Pleurisy | conds: Pleurisy | intr: Recombinant Human Chymotrypsin(OsrhCT), Placebo for Recombinant Human Chymotrypsin(OsrhCT)
+- NCT03153501 | COMPLETED | results=False | NA | Efficiency and Safety of Pleural Biopsy Methods in the Diagnosis of Pleural Diseases | conds: Diagnosis of Pleural Diseases, Medical Thoracoscopy | intr: CT-guided Abrams needle biopsy, US-guided cutting needle, medical thoracoscopy
+- NCT04348734 | COMPLETED | results=False |  | Management of Parapneumonic Pleurisy Guided by an Early Pleural Ultrasound | conds: Community-Acquired Infections | intr: pleural ultrasound | pubs: ['12806235:RESULT (new)', '9032518:RESULT (new)', '12728147:RESULT (new)', '9163661:RESULT (new)', '7781342:RESULT (new)', '17006405:RESULT (new)', '19644435:RESULT (new)', '9417153:RESULT (new)', '21809107:RESULT (new)', '16537882:RESULT (new)', '3302292:RESULT (new)', '8368654:RESULT (new)', '679746:RESULT (new)', '8131548:RESULT (new)', '3056662:RESULT (new)', '26033127:RESULT (new)', '7587439:RESULT (new)']
+- NCT00338793 | COMPLETED | results=False | NA | Corticosteroids in the Treatment of Tuberculous Pleurisy | conds: Tuberculous Pleurisy | intr: prednisolone
+- NCT00313066 | UNKNOWN | results=False |  | Comparison the Level of CTGF Protein and Related Cytokine in Pleural Effusion | conds: Tuberculosis, Tuberculous Pleurisy, Malignant Pleural Effusion, Empyema | intr: 
+- NCT07638670 | RECRUITING | results=False |  | Effect of Mycobacterial Infection on Immune Status | conds: Tuberculosis | intr: 
+- NCT01685099 | UNKNOWN | results=False |  | Evaluating the Diagnostic Validity of Inflammation-associated Markers for Tuberculous Pleurisy | conds: To Investigate Diagnostic Aid of the Inflammation and Apoptosis-associated Markers and Apoptosis Pattern of PE Neutrophil for Tuberculous Pleurisy | intr: 
+- NCT03144232 | COMPLETED | results=True | PHASE2 | A Preliminary Investigation of Pre-Frontal Repetitive Transcranial Magnetic Stimulation (rTMS) for the Treatment of Cannabis Use Disorder | conds: Cannabis Use Disorder | intr: Active rTMS, Sham rTMS
+
+### OpenAlex no-PMID trial-worded - 120 hits, 85 without PMID, 85 new
+- new | 2026 | https://openalex.org/W7163781096 | article | UNH Extension Pollinator Garden Certification Application | University of New Hampshire Scholars Rep
+- new | 2026 | 10.33545/26164485.2026.v10.i1.c.2185 | article | A review on substance use disorder | International Journal of Homoeopathic Sc
+- new | 2025 | https://openalex.org/W7140247401 | article | Assessing Native Tallgrass Prairie Species as Main Roadside Vegetation in Arkansas | Journal of the Arkansas Academy of Scien
+- new | 2024 | 10.32553/jbpr.v13i1.1069 | article | Review on the Therapeutic Role of Asclepias tuberosa Seeds in Diabetes Management | Journal of Biomedical and Pharmaceutical
+- new | 2024 | 10.1002/2688-8319.12363 | article | Assessing the attractiveness of native wildflower species to bees (Hymenoptera: Anthophila) in the southeastern United States | Ecological Solutions and Evidence
+- new | 2024 | 10.1002/ecs2.4914 | article | Habitat loss and simplification lower arthropod richness but not diversity | Ecosphere
+- new | 2024 | 10.1017/wsc.2024.37 | article | Impact of burial depth and root segment length on vegetative propagation of common milkweed (Asclepias syriaca) | Weed Science
+- new | 2024 | 10.22541/au.171005255.53998183/v1 | preprint | Predicting and prioritizing coexistence: learning outcomes via experiments | Authorea
+- new | 2024 | 10.1139/cjb-2023-0157 | article | The Meadoway: native meadow creation in underutilized transmission line corridors | Botany
+- new | 2023 | 10.24266/0738-2898-41.3.87 | article | Assessing Ecological Impacts of Cultivated Hybrids of Milkweed (Asclepias) | Journal of Environmental Horticulture
+- new | 2023 | 10.33545/26164485.2023.v7.i3b.893 | article | The rapeutics of few uncommon homeopathic remedies for respiratory tract diseases | International Journal of Homoeopathic Sc
+- new | 2023 | 10.9734/ajrcs/2023/v8i3176 | article | Seed Yield Improvement in Vigna unguiculata (L.) (Fabaceae): Efficiency of Pollinators and Impact of Aqueous Leaf Extract of Three Plant Species in North Cameroon | Asian Journal of Research in Crop Scienc
+- new | 2023 | https://openalex.org/W7221225969 | article | Homoeopathic Remedies for Bronchial Asthma That Are Less Well Recognized | Indo-American Journal of Pharma and Bio 
+- new | 2022 | 10.31274/td-20240329-613 | dissertation | Quantifying the effects of fertilizer formulation, type, and concentration on North American herbaceous perennials | 
+- new | 2022 | 10.1101/2022.07.07.499099 | preprint | Predicting and prioritizing community assembly: learning outcomes via experiments | bioRxiv (Cold Spring Harbor Laboratory)
+- new | 2021 | 10.21273/hortsci15770-21 | article | Development and Verification of an Interspecific Hybridization Protocol for Asclepias | HortScience
+- new | 2020 | 10.1002/ecs2.3225 | article | Stable generalist species anchor a dynamic pollination network | Ecosphere
+- new | 2019 | https://openalex.org/W3128094345 | article | Identification of Low Growing, Salt Tolerant Turfgrass Species Suitable for Use along Highway Right of Way – Field Trials | ROSA P
+- new | 2019 | https://openalex.org/W2973969822 | dissertation | NATIVE PLANT LANDSCAPING FOR POLLINATORS ON EASTERN NORTH CAROLINA SOLAR FARMS | The Scholarship East Carolina University
+- new | 2019 | 10.4081/pb.2019.8317 | article | Pattern Analysis of Visible Faulty Fruits in Capitula: A Case in Cultivated Sunflower (Helianthus annuus L.) | International Journal of Plant Biology
+- new | 2019 | 10.7275/96t5-ar91 | dissertation | The Good, The Bad, and The Ugly: Pollinators as Vectors of Mummy Berry Disease in Highbush Blueberry | Scholarworks (University of Massachusett
+- new | 2019 | https://openalex.org/W3011379540 | article | Seed Mix Design and First-year Management Influences Ecological Outcomes in Prairie Reconstruction | UNI ScholarWorks (University of Northern
+- new | 2019 | https://openalex.org/W2980350285 | report | Monitoring and Habitat Assessment of Declining Bumble Bees in Roadsides in the Twin Cities Metro Area of Minnesota | University of Minnesota Digital Conserva
+- new | 2018 | https://openalex.org/W3138014808 | article | Sown Forb Performance in CP42 Fields | UNI ScholarWorks (University of Northern
+- new | 2017 | https://openalex.org/W2781044623 | article | Examining Drivers Of Phenotypic Variation In The Perennial Herb Showy Milkweed (Asclepias Speciosa). | ScholarWorks at University of Montana
+- new | 2016 | https://openalex.org/W2902295326 | conference-paper | 12. Results from Four Decades of Successional Prairie Restoration and an Update on Ecological Land Management at Fermilab in Batavia, Illinois | ISU Red - Research and eData (Illinois S
+- new | 2016 | https://openalex.org/W2543217873 | article | A Floristic Study of the Oak Leaf Lake Unit of the Swan Lake Wildlife Management Area in Nicollet County, Minnesota | Cornerstone (Minnesota State University,
+- new | 2015 | 10.6084/m9.figshare.1558327 | dataset | Utilizing Line Transect Methods for Sampling Common Milkweed Plants in Grassland near the Danby Woodlot at York University | Figshare
+- new | 2015 | 10.1111/1365-2435.12429 | article | Phylogenetic diversity–ecosystem function relationships are insensitive to phylogenetic edge lengths | Functional Ecology
+- new | 2012 | 10.1111/j.1654-109x.2012.01202.x | article | Plant species richness increases resistance to invasion by non‐resident plant species during grassland restoration | Applied Vegetation Science
+- new | 2006 | 10.1089/act.2006.12.214 | article | Herbal Treatments for Pandemic Influenza: Learning from the Eclectics' Experience | Alternative and Complementary Therapies
+- new | 2006 | https://openalex.org/W1544816113 | dissertation | Evaluation of methods and approaches for surveying savanna invertebrates. | ResearchSpace (University of KwaZulu-Nat
+- new | 2004 | https://openalex.org/W2980979080 | article | Assessment of species for landscape management of archaeological sites in middle Tennessee | UWA Profiles and Research Repository (UW
+- new | 2003 | https://openalex.org/W2593670778 | report | Increasing Utilization of Native Plants and Powdery Mildew Resistant Plants for NY Gardens | eCommons (Cornell University)
+- new | 2000 | 10.1890/0012-9658(2000)081[0015:ftscod]2.0.co;2 | article | FLOWER-TO-SEEDLING CONSEQUENCES OF DIFFERENT POLLINATION REGIMES IN AN INSECT-POLLINATED SHRUB | Ecology
+- new | 1995 | 10.21273/hortsci.30.4.902d | article | Student Teaching and Research Initiative through Volunteer Employment | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.822c | article | Michigan Asparagus Clone Trial | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.771a | article | Rootstock and Scion Interact to Affect Apple Tree Performance: A 5-year Summary of the 1990 NC-140 Trial | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.830 | article | Evaluation of Onion Lines for Resistance to Onion White Rot and Onion Maggot | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.903c | article | Master Gardener's Public Demonstration Garden Offers Success beyond Educating the Public | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.868 | article | Transplant Cell Size Affects Early and Total Yield of Muskmelon | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.911 | article | Promoting the Residential Habitat Garden through Education | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.784 | article | Influence of Rootstock on Bloomtime Petiole Analyses of Selected Grape Cultivars | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.781b | article | High-speed Blown Air as a Source of Thigmic Stress: Effect of Physiology and Yield of Red Raspberry | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.864f | article | Effect of Composts and Synthetic Nitrogen Fertilizer on Growth and Nematode Infestation in Lettuce and Basil | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.805 | article | A Propagation and Reintroduction Strategy for the Neches River Rose Mallow, Hibiscus dasycalyx | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.855 | article | Comparison of Four Pistachio Rootstocks in California | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.840d | article | Molecular Markers and Linkage to the Sw-5 Locus for Resistance to Tomato Spotted Wilt Virus (TSWV) | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.831c | article | Leaf Essential Oil Composition of Selected Strawberry Cultivars with Different Degrees of Susceptibility to Two-spotted Spider Mites | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.795e | article | Genotype-by-environment Interaction in Musa Germplasm Revealed by Multi-site Evaluation in Sub-saharan Africa | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.910 | article | Developing a Usage Plan for a University Teaching Garden | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.762 | article | Phylogenetic Studies on Prunus Species by DNA Fingerprints | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.767e | article | Role of Endogenous Allelochemicals in Host Plant Resistance to Japanese Beetles | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.878f | article | RAPD Marker for Sex Determination of Dioecious Plants | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.812 | article | Growth of Red Maple Taxa in Tennessee | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.771 | article | Poinsettia Bract Edge Burn: Potential Causes and Role of Calcium Sprays and Botrytis | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.767 | article | Morphological Variation in Western Trailing Blackberry (Rubus ursinus) in the Pacific Northwest | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.813a | article | Powdery Mildew Observatios and Growth of Crapemyrtle in Teneessee | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.769a | article | Antiplatelet Activity is Positively Correlated with Pungency and Solids in Onion (Allium cepa L.) | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.884 | article | Manipulation of Plant Density to Enhance Rice Yield for a Bioregenerative Life-support System | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.800f | article | A Reevaluation of Mechanical Harvester vs. Hand-raking for Wild Blueberries | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.774c | article | Effect of Pollen of Five Different Male Palm Trees on the Chemical Characteristics of Jiroft Mazafati Date | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.773a | article | Inter- and Intraspecific RAPD Variation in Four Ipomoea Species | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.788d | article | Morphological Trait QTL Mapping in Tomato Recombinant Inbred Line Population | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.783d | article | RAPDs are Useful for Genetic Analysis of Xylella fastidiosa and for Development of Strain-specific PCR Primers | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.887b | article | Nondestructive Estimation of Pear Fruit Weight Using a Regression Model | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.768b | article | Effect of June Yellowbuds on Yield, Fruit Weight, and Fruit Quality in `Blomidon' Strawberry | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.843f | article | Rooting Systems of Semi-hardwood Olive Cuttings of Three Selected Varieties of Manzanilla, Sevillana, and Clonavis | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.845a | article | Relative Vigor Following a Severe Freeze of 18 Wine-grape Varieties at Brownfield, Texas | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.822 | article | Varietal Improvement of Pepper in Cote d'Ivoire | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.772b | article | Comparison of Molecular Marker and Morphological Data to Determine Minimum Distance among Tomato Cultivars | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.793e | article | Mystery Spot of `Enterprise' Apples Appears to Be a Low-calcium Disorder | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.850a | article | Heat Tolerance in Phaseolus lunatus | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.875b | article | The Effects of Some Antioxidants on the Growth of Excised Date Palm (Phoenix dactylifera L.) Roots Cultured in Vitro | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.772 | article | Diallel Analysis for Rain Check in Tomato | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.862 | article | Shade Levels, Wind Speed, and Wind Direction Influence Air Temperature in Mini-shadehouses | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.885a | article | Fish Culture Water and Sludge Applied Via Drip Irrigation Improves Yield of Pak Choi (Brassica rapa L. Chinensis) | HortScience
+- new | 1993 | 10.2737/nc-gtr-154 | conference-abstract | Abstracts of presentations at the first international symposium on the biology of adventitious root formation. | 
+- new | 1990 | https://openalex.org/W2585634020 | article | Vascular plants of the UWM Field Station area | UWM Digital Commons (University of Wisco
+- new | 1935 | https://openalex.org/W7208854100 | book | "Flower seeds for florists" : Catalog no. 27, July-Dec. 1935 / | Biodiversity Heritage Library (Smithsoni
+- new | 1922 | 10.5962/bhl.title.125995 | book | Holmes' tested seeds : 1922 / | Biodiversity Heritage Library (Smithsoni
+- new | 1886 | 10.1001/jama.1886.04250070131003 | article | THE THERAPEUTICS OF SUBNITRATE OF BISMUTH AND ASCLEPIA TUBEROSA. | JAMA
+- new | 1883 | 10.1001/jama.1883.02390040022002 | article | MEDICAL PROGRESS. | JAMA
+- new | 1844 | 10.1056/nejm184408070310106 | editorial | Editorials and Medical Intelligence | New England Journal of Medicine
+- new | 1825 | 10.5962/bhl.title.79195 | book | Catalogue of kitchen garden, herb, tree, flower, and grass seeds, bulbous flower roots, &c. &c. &c | Biodiversity Heritage Library (Smithsoni
+
+## astragalus-membranaceus (Astragalus membranaceus) - name clause: "Astragalus membranaceus"[tiab] OR "Astragalus mongholicus"[tiab] OR "Astragali radix"[tiab] OR "Huangqi"[tiab] OR "Huang qi"[tiab] OR "Radix Astragali"[tiab]
+
+### PubMed HT - 339 hits, 200 not already listed above, 193 new
+- new | 2026 | 42488836 | Review | Systems pharmacology of traditional Chinese medicine in fibrosis: From multi-target mechanisms to translational validation. | Chin Herb Med
+- new | 2026 | 41493245 | Systematic Review | Astragalus membranaceus Extract as a Botanical Ingredient for Pigmentary and Anti-Aging Skincare: A Systematic Review. | J Drugs Dermatol
+- new | 2026 | 41683325 | Randomized Controlled Trial | Effects of Astragalus membranaceus and Panax notoginseng Saponins Extract on the Pharmacokinetics of Whey Protein Absorption, Intestinal Permeability, and Muscle Function: A Pilot  | Nutrients
+- HELD REF-3454 | 2026 | 42197058 | Randomized Controlled Trial | Astragalus membranaceus Modulates Inflammatory Markers Without Enhancing Muscle Function Following Intensified Resistance Training. | Nutrients
+- new | 2026 | 42698560 |  | Astragalus membranaceus therapy in patients with spinocerebellar ataxia type 3. | J Tradit Complement Med
+- new | 2026 | 42078932 | Systematic Review | Does Astragalus mongholicus Bunge help promote the healing of wounds? A systematic review and meta-analysis of preclinical animal studies. | Front Pharmacol
+- new | 2026 | 42096355 | Systematic Review/Meta-Analysis | Systematic Review and Meta-Analysis of Herbal and Traditional Medicine-Derived Interventions for Sarcopenia and Exploration of Core Herbs. | Complement Med Res
+- new | 2026 | 42492887 |  | Integrated identification and validation of HSP90AA1 as a therapeutic target of Astragalus membranaceus in Alzheimer's disease. | Neuroscience
+- new | 2026 | 42147341 | Systematic Review | Efficacy of Yupingfeng powder in the treatment of bronchial asthma in adults: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2026 | 42597215 |  | Efficacy and safety of the traditional Chinese medicine formulation BL-1 for the treatment of low anterior resection syndrome: study protocol for a double-blind, randomized, placeb | Front Gastroenterol (Lausanne)
+- new | 2025 | 41079737 |  | Pretreatment with Astragalus polysaccharide alleviates heat stroke-induced intestinal injury in mice. | Front Pharmacol
+- HELD REF-3449 | 2025 | 40302232 | Systematic Review/Meta-Analysis | Efficacy of Astragalus Membranaceus (Huang Qi) for Cancer-Related Fatigue: A Systematic Review and Meta-Analysis of Randomized Controlled Studies. | Integr Cancer Ther
+- new | 2025 | 39849152 | Randomized Controlled Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Jinbei oral liquid for idiopathic pulmonary fibrosis: a randomized placebo-controlled trial. | Sci Rep
+- new | 2025 | 41306775 | Systematic Review | Astragalus polysaccharides combined with radiochemotherapy for cervical cancer: a systematic review and meta-analysis of randomized controlled studies. | Front Pharmacol
+- new | 2025 | 40890667 | Systematic Review | Molecular mechanisms of astragaloside-IV in hepatocellular carcinoma therapy: a systematic review. | BMC Cancer
+- new | 2025 | 40107475 | Randomized Controlled Trial | Huangqi Guizhi Wuwu Decoction alleviates diabetic cardiovascular autonomic neuropathy via AMPK/TrkA/TRPM7 pathway. | J Ethnopharmacol
+- new | 2025 | 41235391 |  | Astragalus membranaceus extract reduces functional knee joint pain: a randomized, double-blinded, placebo-controlled trial. | Front Pain Res (Lausanne)
+- new | 2025 | 41184148 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | SHPro(®) (mixture of Angelica gigas and Astragalus membranaceus) in men with lower urinary tract symptoms: A randomized, double-blind, placebo-controlled clinical trial. | Investig Clin Urol
+- new | 2025 | 41155558 |  | Effectiveness and Bioinformatics Analysis of Yiqi and Blood-Activating Therapy Combined with Chemotherapy in the Treatment of Non-Small Cell Lung Cancer. | Pharmaceuticals (Basel)
+- new | 2025 | 40208321 | Systematic Review/Meta-Analysis | Efficacy and safety of astragalus polysaccharides in patients with malignant tumors: A systematic review and meta-analysis. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 40817692 | Letter | Comment on "Efficacy of Astragalus membranaceus (Huang Qi) for Cancer-Related Fatigue: A Systematic Review and Meta-Analysis of Randomized Controlled Studies". | Integr Cancer Ther
+- new | 2025 | 40347927 | Meta-Analysis | Efficacy of Chinese herbal medicines combined with high-intensity focused ultrasound for patients with uterine fibroids: A meta-analysis with core herbs exploration. | Phytomedicine
+- new | 2025 | 39484775 |  | Elucidating the Mechanisms of Astragalus Membranaceus in Colorectal Cancer Patients through Bioinformatics Analysis. | Curr Med Chem
+- new | 2025 | 40739223 | Clinical Trial Protocol | Efficacy and safety of SH003 on immune function: study protocol for a randomized, double-blind placebo-controlled clinical trial. | BMC Complement Med Ther
+- new | 2025 | 40703357 | Systematic Review | Traditional herbal medicine for the prevention of chemotherapy-induced peripheral neuropathy: a systematic review and meta-analysis with association rule analysis. | Front Pharmacol
+- new | 2025 | 40287611 | Observational Study | Mitigating fatigue in long COVID patients with MYP(plus): a clinical observation. | BMC Infect Dis
+- new | 2025 | 41322282 | Systematic Review | The efficacy and safety of Fuzheng traditional Chinese medicine injections in the treatment of acute ischemic stroke: a systematic review and network meta-analysis. | Front Pharmacol
+- new | 2025 | 40078275 | Systematic Review | Chinese herbal medicine for the treatment of children with cerebral palsy: a meta-analysis of randomized controlled trials with core herbs exploration. | Front Pharmacol
+- new | 2025 | 38798220 |  | Prescription Data Mining and Network Pharmacology Study of 1152 Patients with Rectal Prolapse using Traditional Chinese Medicine. | Curr Comput Aided Drug Des
+- new | 2025 | 40756993 | Systematic Review | Comparative effectiveness of traditional Chinese medicine injections combined with ACEI/ARB for diabetic nephropathy: A systematic review and network meta-analysis. | Front Pharmacol
+- new | 2024 | 39770942 | Systematic Review | Potential Effects of Bioactive Compounds of Plant-Based Foods and Medicinal Plants in Chronic Kidney Disease and Dialysis: A Systematic Review. | Nutrients
+- new | 2024 | 39701716 | Comparative Study/Network Meta-Analysis | [Network Meta-analysis of comparative efficacy of Chinese medicine injections for dilated cardiomyopathy]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2024 | 38283626 | Systematic Review | Effect of Astragalus membranaceus on left ventricular remodeling in HFrEF: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 39805767 | Network Meta-Analysis | [Network Meta-analysis of Chinese patent medicines combined with recombinant human interferon α-2b in treatment of cervical human papillomavirus infections]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2024 | 37820675 | Meta-Analysis/Systematic Review | Efficacy and Safety of Huangqi Guizhi Wuwu Decoction for Oxaliplatin-Induced Peripheral Neurotoxicity: A Systematic Review and Meta-Analysis. | Altern Ther Health Med
+- new | 2024 | 38744568 | Case Reports | Clinical remission of moderate generalized myasthenia gravis through exclusive use of Buzhong Yiqi decoction: A case report. | Explore (NY)
+- new | 2024 | 38655186 | Systematic Review | Safety and efficacy of East Asian herbal medicine for iron deficiency anemia in children and adolescents: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 39139997 | Review | Study on the Efficacy and Safety of the Huangqi Guizhi Wuwu Decoction in the Prevention and Treatment of Chemotherapy-Induced Peripheral Neuropathy: Meta-Analysis of 32 Randomized  | J Pain Res
+- new | 2024 | 38351506 | Meta-Analysis/Systematic Review/Retracted Publication | Evaluating traditional Chinese medicine (TCM) Jie Geng and Huang Qi combination on reducing surgical site infections in colorectal cancer surgeries: A systematic review and meta-an | Int Wound J
+- new | 2024 | 38783937 | Systematic Review | Efficacy and safety of traditional Chinese medicine decoction as an adjuvant treatment for diabetic nephropathy: a systematic review and meta-analysis of randomized controlled tria | Front Pharmacol
+- new | 2024 | 39399821 |  | Herbal extract (Cervus elaphus Linnaeus, Angelica gigas Nakai, and Astragalus membranaceus Bunge) ameliorates chronic fatigue: A randomized, placebo-controlled, double-blind trial. | Integr Med Res
+- new | 2024 | 38504529 | Meta-Analysis | Long-term efficacy and safety of Huangqi ()-based Traditional Chinese Medicine in diabetic peripheral neuropathy: a Meta-analysis of randomized controlled trials. | J Tradit Chin Med
+- new | 2024 | 38116192 |  | Comparative efficacy of five traditional Chinese medicine injections for treating heart failure with reduced and mildly reduced ejection fraction: Bayesian network meta-analysis. | Heliyon
+- new | 2024 | 38476325 | Review | Comparative efficacy of Chinese herbal injections in patients with cardiogenic shock (CS): a systematic review and Bayesian network meta-analysis of randomized controlled trials. | Front Pharmacol
+- new | 2024 | 39176240 |  | Efficacy, safety, and response predictors of Astragalus in patients with mild to moderate Alzheimer's disease: A study protocol of an assessor-blind, statistician-blind open-label  | Contemp Clin Trials Commun
+- new | 2024 | 39850599 |  | Effect of astragalus membranaceus on neurological function in acute aneurysmal subarachnoid hemorrhage patients with high inflammation: A preliminary randomized, double-blind, plac | J Tradit Complement Med
+- new | 2024 | 39041092 |  | [Astragali Radix-Salviae Miltiorrhizae Radix et Rhizoma alleviates acute lung injury in rats by regulating autophagy via PI3K/Akt/mTOR pathway]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2024 | 38836372 | Systematic Review/Meta-Analysis | Efficacy of astragalus combined with renin-angiotensin-aldosterone system blockers in the treatment of stage III diabetic nephropathy: a systematic review and meta-analysis. | Ren Fail
+- new | 2024 | 39347403 |  | Comprehensive evaluation of Chinese herbal compound prescriptions for postoperative spinal cord injury: A network meta-analysis of randomized controlled trials. | Heliyon
+- new | 2024 | 38211824 | Meta-Analysis/Systematic Review | Efficacy and safety of traditional plant-based medicines for preventing chronic oxaliplatin-induced peripheral neurotoxicity in patients with colorectal cancer: A systematic review | J Ethnopharmacol
+- new | 2024 | 39469996 | Clinical Trial, Phase I/Multicenter Study/Research Support, Non-U.S. Gov't | Safety of the Herbal Medicine SH003 in Patients With Solid Cancer: A Multi-Center, Single-Arm, Open-Label, Dose-Escalation Phase I Study. | Integr Cancer Ther
+- new | 2024 | 39038336 |  | Efficacy of Hepatoprotective Formula, Entecavir, and Continuous Nursing in Patients with Hepatitis B Cirrhosis. | Altern Ther Health Med
+- new | 2024 | 38685365 |  | Oral bacteriome and mycobiome of patients with idiopathic membranous nephropathy with different tongue coatings treated with a Chinese herbal formula. | J Ethnopharmacol
+- new | 2024 | 38577471 |  | Chinese herbal medicine decreases incidence of hepatocellular carcinoma in diabetes mellitus patients with regular insulin management. | World J Gastrointest Oncol
+- new | 2024 | 38334090 | Review/Network Meta-Analysis | Comparative efficacy and safety of Chinese medicine injections as an adjunctive therapy for cervical cancer in Chinese patients: a network meta-analysis. | Pharm Biol
+- new | 2023 | 37907925 | Review | Efficacy and safety of traditional Chinese medicine for cancer-related fatigue: a systematic literature review of randomized controlled trials. | Chin Med
+- new | 2023 | 37793276 | Systematic Review | The potential molecular pathways of Astragaloside-IV in colorectal cancer: A systematic review. | Biomed Pharmacother
+- new | 2023 | 38212037 | Network Meta-Analysis | [Network Meta-analysis of 11 Chinese patent medicines in treatment of dilated cardiomyopathy]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2023 | 37832073 | Network Meta-Analysis | Comparative efficacy of Chinese herbal injections for treating endometrial carcinoma: A Bayesian network meta-analysis. | Medicine (Baltimore)
+- new | 2023 | 36862887 | Systematic Review/Meta-Analysis | Astragalus membranaceus formula for moderate-high risk idiopathic membranous nephropathy: A meta-analysis. | Medicine (Baltimore)
+- new | 2023 | 37101717 | Review | Combination of Astragalus membranaceus and Panax notoginseng as Main Components in the Treatment of Diabetic Nephropathy: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med
+- new | 2023 | 37361203 |  | Neuroprotective effect of Astragali Radix on cerebral infarction based on proteomics. | Front Pharmacol
+- new | 2023 | 37456755 |  | Identifying subgroups of patients with type 2 diabetes based on real-world traditional chinese medicine electronic medical records. | Front Pharmacol
+- new | 2023 | 37942489 | Systematic Review | Is there a role for traditional and complementary medicines in managing chronic fatigue? a systematic review of randomized controlled trials. | Front Pharmacol
+- new | 2023 | 37242603 | Review | Comparative Efficacy of East Asian Herbal Formulae Containing Astragali Radix-Cinnamomi Ramulus Herb-Pair against Diabetic Peripheral Neuropathy and Mechanism Prediction: A Bayesia | Pharmaceutics
+- new | 2023 | 38114189 | Network Meta-Analysis | [Network Meta-analysis of efficacy and safety of different traditional Chinese medicine injections in treating post-acute myocardial infarction heart failure]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2023 | 37432344 | Systematic Review | Changes in the Gut Microbiota after the Use of Herbal Medicines in Overweight and Obese Individuals: A Systematic Review. | Nutrients
+- new | 2023 | 37692777 | Systematic Review | Effect of heat-clearing and dampness-eliminating Chinese medicine for high-risk cervical cancer papillomavirus infection: a systematic review and meta-analysis of randomized contro | Front Med (Lausanne)
+- new | 2023 | 36637054 | Research Support, Non-U.S. Gov't/Systematic Review | Foetal haemoglobin inducers for reducing blood transfusion in non-transfusion-dependent beta-thalassaemias. | Cochrane Database Syst Rev
+- new | 2023 | 36675434 |  | A Prospective, Randomized, Placebo-Controlled Study Assessing the Efficacy of Chinese Herbal Medicine (Huangqi Guizhi Wuwu Decoction) in the Treatment of Albumin-Bound Paclitaxel-I | J Clin Med
+- new | 2023 | 37915546 | Clinical Trial Protocol | Can We Slow Down Biological Age Progression? Study Protocol for the proBNPage Reduction (PBAR) Randomized, Double-Blind, Placebo-Controlled Trial (Effects of 4 "Anti-Aging" Food Su | Clin Interv Aging
+- new | 2023 | 37180720 |  | Dose- and time-dependent renoprotection of Angelica sinensis in patients with chronic kidney disease: A longitudinal cohort study. | Front Pharmacol
+- new | 2023 | 38179443 |  | The ileal microbiome and mucosal immune profiles in response to dietary supplementation of ultra-grinded Astragalus membranaceus in weaned goats. | Front Microbiol
+- new | 2023 | 36890149 | Research Support, Non-U.S. Gov't | Based on network pharmacology and bioinformatics to analyze the mechanism of action of Astragalus membranaceus in the treatment of vitiligo and COVID-19. | Sci Rep
+- new | 2022 | 34883219 | Meta-Analysis/Systematic Review | Database mining and animal experiment-based validation of the efficacy and mechanism of Radix Astragali (Huangqi) and Rhizoma Atractylodis Macrocephalae (Baizhu) as core drugs of T | J Ethnopharmacol
+- new | 2022 | 35898551 |  | Astragalus membranaceus Additive Improves Serum Biochemical Parameters and Reproductive Performance in Postpartum Dairy Cows. | Front Vet Sci
+- new | 2022 | 34499964 | Review | Comparative efficacy of five Chinese medicine injections for treating dilated cardiomyopathy with heart failure: A Bayesian network meta-analysis. | J Ethnopharmacol
+- new | 2022 | 35024335 | Review | Chinese herbal medicine for myasthenia gravis: A systematic review and meta-analysis of randomized clinical trials. | Integr Med Res
+- new | 2022 | 36193126 | Review | The Effectiveness and Safety of Huangqi Xixin Decoction for Cough Variant Asthma: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med
+- new | 2022 | 35547210 | Systematic Review | Efficacy of Huangqi Injection in the Treatment of Hypertensive Nephropathy: A Systematic Review and Meta-Analysis. | Front Med (Lausanne)
+- new | 2022 | 36451506 | Systematic Review/Network Meta-Analysis | Comparison of 4 kinds of traditional Chinese medicine injections to assist in improving clinical indicators of patients with idiopathic pulmonary fibrosis: A systematic review and  | Medicine (Baltimore)
+- new | 2022 | 35370733 | Systematic Review | Comparative Efficacy of Tonic Chinese Herbal Injections for Treating Sepsis or Septic Shock: A Systematic Review and Bayesian Network Meta-Analysis of Randomized Controlled Trials. | Front Pharmacol
+- new | 2022 | 35673907 | Randomized Controlled Trial | [Huangqi Sijunzi decoction for treating cancer-related fatigue in breast cancer patients: a randomized trial and network pharmacology study]. | Nan Fang Yi Ke Da Xue Xue Bao [chi]
+- new | 2022 | 36120351 | Systematic Review | Herbal medicine for amyotrophic lateral sclerosis: A systematic review and meta-analysis. | Front Pharmacol
+- new | 2022 | 35251207 |  | Efficacy of Rubus coreanus Miq. and Astragalus membranaceus Bunge Extract for Postmenopausal Syndrome: A Randomised, Double-Blind, Placebo Comparative Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2022 | 36051278 | Systematic Review | Effects and safety of Chinese herbal medicine on inflammatory biomarkers in cardiovascular diseases: A systematic review and meta-analysis of randomized controlled trials. | Front Cardiovasc Med
+- new | 2022 | 35860733 |  | Network Pharmacology-Based Prediction and Pharmacological Validation of Effects of Astragali Radix on Acetaminophen-Induced Liver Injury. | Front Med (Lausanne)
+- new | 2022 | 34551361 | Review | Chinese patent medicine Aidi injection for cancer care: An overview of systematic reviews and meta-analyses. | J Ethnopharmacol
+- new | 2022 | 36626537 |  | Clinical efficacy and safety of astragalus injection combined with ACEI/ARB in the treatment of diabetic kidney disease: Protocol for a systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2022 | 36086738 | Meta-Analysis/Systematic Review | Efficacy of astragalus in the treatment of radiation-induced lung injury based on traditional Chinese medicine: A systematic review and meta-analysis of 25 RCTs. | Medicine (Baltimore)
+- new | 2022 | 35881610 | Systematic Review/Network Meta-Analysis | Efficacy of traditional Chinese medicine injections for treating idiopathic pulmonary fibrosis: A systematic review and network meta-analysis. | PLoS One
+- new | 2022 | 36249750 | Systematic Review | Efficacy and safety of traditional Chinese medicine for intracranial hemorrhage by promoting blood circulation and removing blood stasis: A systematic review and meta-analysis of r | Front Pharmacol
+- new | 2022 | 34896898 |  | Four prescribed Chinese herbal medicines provide renoprotection and survival benefit without hyperkalemia risk in patients with advanced chronic kidney disease: A nationwide cohort | Phytomedicine
+- new | 2022 | 35399632 | Review/Retracted Publication | Efficacy of Chinese Medicine Injection for Cardiotoxic Injury of Anthracycline Chemotherapy Drugs: A Network Meta-Analysis of Randomized Controlled Trials. | Evid Based Complement Alternat Med
+- new | 2022 | 35750623 | Meta-Analysis/Systematic Review | Examining patterns of traditional Chinese medicine use in pediatric oncology: A systematic review, meta-analysis and data-mining study. | J Integr Med
+- new | 2022 | 35370890 |  | Effect of Fufang Huangqi Decoction on the Gut Microbiota in Patients With Class I or II Myasthenia Gravis. | Front Neurol
+- new | 2021 | 33868444 | Review | Investigation on the Efficiency of Tonic Chinese Herbal Injections for Treating Dilated Cardiomyopathy Based on Bayesian Network Meta-Analysis. | Evid Based Complement Alternat Med
+- HELD REF-3453 | 2021 | 34271953 | Randomized Controlled Trial | Standardized astragalus extract for attenuation of the immunosuppression induced by strenuous physical exercise: randomized controlled trial. | J Int Soc Sports Nutr
+- new | 2021 | 34916929 | Review | Efficacy and Safety of Traditional Chinese Medicine Injections for Heart Failure With Reduced Ejection Fraction: A Bayesian Network Meta-Analysis of Randomized Controlled Trials. | Front Pharmacol
+- new | 2021 | 34257676 |  | A Data Mining-Based Analysis of Core Herbs on Different Patterns (Zheng) of Non-Small Cell Lung Cancer. | Evid Based Complement Alternat Med
+- new | 2021 | 34733670 |  | The potential mechanism of Astragali Radix in the treatment of children with nephrotic syndrome. | Transl Pediatr
+- HELD REF-2485 | 2021 | 34899340 | Review | Effectiveness of Medicinal Plants for Glycaemic Control in Type 2 Diabetes: An Overview of Meta-Analyses of Clinical Trials. | Front Pharmacol
+- new | 2021 | 33767627 | Review | Comparative Efficacy of Seven Kinds of Chinese Medicine Injections in Acute Lung Injury and Acute Respiratory Distress Syndrome: A Network Meta-analysis of Randomized Controlled Tr | Front Pharmacol
+- new | 2021 | 34899296 | Review | Efficacy and Safety of TCMI in Patients With Combined Coronary Heart Disease and Heart Failure: A Systematic Review and Network Meta-Analysis. | Front Pharmacol
+- new | 2021 | 34690769 |  | Chinese Herbal Medicine Therapy Reduces the Risks of Overall and Anemia-Related Mortalities in Patients With Aplastic Anemia: A Nationwide Retrospective Study in Taiwan. | Front Pharmacol
+- new | 2021 | 34832984 | Review | Oral Administration of East Asian Herbal Medicine for Peripheral Neuropathy: A Systematic Review and Meta-Analysis with Association Rule Analysis to Identify Core Herb Combinations | Pharmaceuticals (Basel)
+- new | 2021 | 34630609 |  | Preventive Efficacy and Safety of Yiqi-Wenjing-Fang Granules on Oxaliplatin-Induced Peripheral Neuropathy: A Protocol for a Randomized, Double-Blind, Placebo-Controlled, Multicente | Evid Based Complement Alternat Med
+- new | 2021 | 33647776 | Randomized Controlled Trial | Pharmacokinetics-based comprehensive strategy to identify multiple effective components in Huangqi decoction against liver fibrosis. | Phytomedicine
+- new | 2021 | 33869014 | Systematic Review | Efficacy of Herbal Medicines Intervention for Colorectal Cancer Patients With Chemotherapy-Induced Gastrointestinal Toxicity - a Systematic Review and Meta-Analysis. | Front Oncol
+- new | 2021 | 34574458 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Chinese Herbal Medicine Significantly Impacts the Haematological Variables of the Athlete Biological Passport. | Int J Environ Res Public Health
+- new | 2021 | 34126879 | Review | Potential Benefits of Phytochemicals for Abdominal Aortic Aneurysm. | Curr Med Chem
+- new | 2020 | 31891799 | Review | Advances in anti hepatic fibrotic therapy with Traditional Chinese Medicine herbal formula. | J Ethnopharmacol
+- HELD REF-2259 | 2020 | 33204391 | Systematic Review | Clinical and Preclinical Systematic Review of Astragalus Membranaceus for Viral Myocarditis. | Oxid Med Cell Longev
+- new | 2020 | 32425767 | Systematic Review | Radix Astragali and Radix Angelicae Sinensis in the Treatment of Idiopathic Pulmonary Fibrosis: A Systematic Review and Meta-analysis. | Front Pharmacol
+- new | 2020 | 32435606 |  | Research Progress in the Treatment of Idiopathic Membranous Nephropathy using Traditional Chinese Medicine. | J Transl Int Med
+- new | 2020 | 32724325 |  | Clinical Features and Rules of Chinese Herbal Medicine in Diabetic Peripheral Neuropathy Patients. | Evid Based Complement Alternat Med
+- new | 2020 | 33148008 | Meta-Analysis/Systematic Review | Chinese Herbal Medicine in Treatment of Spinal Cord Injury: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Am J Chin Med
+- new | 2020 | 32049834 | Meta-Analysis/Systematic Review | Huangqi Guizhi Wuwu Decoction for treating cervical radiculopathy: A systematic review and meta-analysis of randomized controlled trials. | Medicine (Baltimore)
+- HELD REF-2261 | 2020 | 31440984 | Research Support, Non-U.S. Gov't/Systematic Review | Adjuvant therapy with Astragalus membranaceus for post-stroke fatigue: a systematic review. | Metab Brain Dis
+- new | 2020 | 32481364 | Clinical Trial Protocol | Study on efficacy and safety of Huangqi Guizhi Wuwu decoction treatment for oxaliplatin induced peripheral neurotoxicity: A protocol for a randomized, controlled, double-blind, mul | Medicine (Baltimore)
+- new | 2020 | 32237328 | Network Meta-Analysis | [Network Meta-analysis of effect of traditional Chinese medicine injections in adjuvant treatment of mycoplasma pneumonia in children]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2020 | 32769861 | Meta-Analysis/Systematic Review | Combination of traditional Chinese medicine and epidermal growth factor receptor tyrosine kinase inhibitors in the treatment of non-small cell lung cancer: A systematic review and  | Medicine (Baltimore)
+- new | 2020 | 33178022 | Systematic Review | Efficacy of Chinese Herbal Injections for the Treatment of Primary Nephrotic Syndrome: A Bayesian Network Meta-Analysis of Randomized Controlled Trials. | Front Pharmacol
+- new | 2020 | 32457624 | Systematic Review | Comparative Efficacy of Chinese Herbal Injections for Pulmonary Heart Disease: A Bayesian Network Meta-Analysis of Randomized Controlled Trials. | Front Pharmacol
+- new | 2020 | 32502014 |  | Effect and safety of Huangqi-Guizhi-Wuwu Decoction and Erxian Decoction in the treatment of frozen shoulder: A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2020 | 32899051 |  | The efficacy and safety of Huangqi Guizhi Wuwu decoction for rheumatoid arthritis: A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2019 | 31034954 | Meta-Analysis/Systematic Review | Astragalus membranaceus (Huang Qi) as adjunctive therapy for diabetic kidney disease: An updated systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2019 | 30791729 | Meta-Analysis/Research Support, Non-U.S. Gov't | Meta-Analysis of 5-Fluorouracil-Based Chemotherapy Combined With Traditional Chinese Medicines for Colorectal Cancer Treatment. | Integr Cancer Ther
+- new | 2019 | 31008964 | Systematic Review | The clinical efficacy and safety of the Chinese herbal medicine Astragalus (Huangqi) preparation for the treatment of acute myocardial infarction: A systematic review of randomized | Medicine (Baltimore)
+- new | 2019 | 31374060 |  | Huangqi Guizhi Wuwu decoction for diabetic peripheral neuropathy: Protocol for a systematic review. | Medicine (Baltimore)
+- new | 2019 | 31025385 | Comparative Study/Randomized Controlled Trial | Comparative pharmacokinetic study on three formulations of Astragali Radix by an LC-MS/MS method for determination of formononetin in human plasma. | Biomed Chromatogr
+- new | 2019 | 31076129 |  | Astragalus membranaceus improves therapeutic efficacy of asthmatic children by regulating the balance of Treg/Th17 cells. | Chin J Nat Med
+- new | 2019 | 30802612 | Review | A Chinese medicine formula (Jinqi Jiangtang Tablet): A review on its chemical constituents, quality control, pharmacokinetics studies, pharmacological properties and clinical appli | J Ethnopharmacol
+- new | 2019 | 31915506 | Review | New Insights for Cellular and Molecular Mechanisms of Aging and Aging-Related Diseases: Herbal Medicine as Potential Therapeutic Approach. | Oxid Med Cell Longev
+- new | 2019 | 31551788 |  | The Efficacy and Safety of Myelophil, an Ethanol Extract Mixture of Astragali Radix and Salviae Radix, for Chronic Fatigue Syndrome: A Randomized Clinical Trial. | Front Pharmacol
+- new | 2019 | 30935533 | Review/Network Meta-Analysis | Comparative efficacy of Chinese herbal injections for angina pectoris: A Bayesian network meta-analysis of randomized controlled trials. | Complement Ther Med
+- new | 2019 | 30882703 | Multicenter Study/Randomized Controlled Trial | A multicenter, randomized, double-blind, placebo-controlled trial evaluating the efficacy and safety of Huangqi Guizhi Wuwutang granule in patients with rheumatoid arthritis. | Medicine (Baltimore)
+- new | 2019 | 31547048 |  | Astragalus polysaccharides (PG2) Enhances the M1 Polarization of Macrophages, Functional Maturation of Dendritic Cells, and T Cell-Mediated Anticancer Immune Responses in Patients  | Nutrients
+- new | 2019 | 32133978 |  | Benefit of an association of an antioxidative substrate and a traditional chinese medicine on telomere elongation. | Cell Mol Biol (Noisy-le-grand)
+- new | 2018 | 30055724 | Systematic Review | Juvenile recurrent parotitis: A systematic review of treatment studies. | Int J Pediatr Otorhinolaryngol
+- new | 2018 | 29386000 | Network Meta-Analysis | Comparative efficacy of Chinese herbal injections for treating chronic heart failure: a network meta-analysis. | BMC Complement Altern Med
+- new | 2018 | 30231484 | Randomized Controlled Trial | Repressed Exercise-Induced Hepcidin Levels after Danggui Buxue Tang Supplementation in Male Recreational Runners. | Nutrients
+- new | 2018 | 30105066 | Review | Comparative Efficacy of Chinese Herbal Injections for Treating Acute Exacerbation of Chronic Obstructive Pulmonary Disease: A Bayesian Network Meta-Analysis of Randomized Controlle | Evid Based Complement Alternat Med
+- new | 2018 | 30482676 | Letter/Randomized Controlled Trial | Three-Component Herbal Tea Alleviates Prolonged Fatigue and Improves Sleep Quality: A Randomized Controlled Pilot Study. | Explore (NY)
+- new | 2018 | 30203777 | Randomized Controlled Trial | Effectiveness of Radix astragali and Salvia miltiorrhiza injection in treatment of skeletal muscle injury of aerobics athletes. | Pak J Pharm Sci
+- new | 2018 | 29977885 |  | Astragalus mongholicus (Fisch.) Bge Improves Peripheral Treg Cell Immunity Imbalance in the Children With Viral Myocarditis by Reducing the Levels of miR-146b and miR-155. | Front Pediatr
+- new | 2018 | 29483384 | Randomized Controlled Trial | Astragalus Membranaceus Improving Asymptomatic Left Ventricular Diastolic Dysfunction in Postmenopausal Hypertensive Women with Metabolic Syndrome: A Prospective, Open-Labeled, Ran | Chin Med J (Engl)
+- new | 2017 | 29218950 | Meta-Analysis | [Meta-analysis of Yiqi Huoxue method in treating idiopathic membranous nephropathy]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2017 | 29250558 | Meta-Analysis/Review | Are the Therapeutic Effects of Huangqi (Astragalus membranaceus) on Diabetic Nephropathy Correlated with Its Regulation of Macrophage iNOS Activity? | J Immunol Res
+- new | 2017 | 28361971 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | PG2 for patients with acute spontaneous intracerebral hemorrhage: a double-blind, randomized, placebo-controlled study. | Sci Rep
+- new | 2017 | 28953668 | Systematic Review | Huangqi injection in the treatment of chronic heart failure: A systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2017 | 28683082 |  | The herbal decoction modified Danggui Buxue Tang attenuates immune-mediated bone marrow failure by regulating the differentiation of T lymphocytes in an immune-induced aplastic ane | PLoS One
+- new | 2017 | 28638341 |  | Herbal Medicine AC591 Prevents Oxaliplatin-Induced Peripheral Neuropathy in Animal Model and Cancer Patients. | Front Pharmacol
+- new | 2017 | 29245321 | Case Reports | The therapeutic effect of modified Huangqi Guizhi Wuwu Tang for multiple myeloma: An 18-year follow-up case report. | Medicine (Baltimore)
+- new | 2016 | 27795728 | Review | Radix Astragali-Based Chinese Herbal Medicine for Oxaliplatin-Induced Peripheral Neuropathy: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med
+- new | 2016 | 27905672 | Research Support, Non-U.S. Gov't/Systematic Review | Oral Astragalus (Huang qi) for preventing frequent episodes of acute respiratory tract infection in children. | Cochrane Database Syst Rev
+- new | 2016 | 29924533 |  | [Effect of Huangqi decoction on entecavir pharmacokinetics in rat plasma]. | Yao Xue Xue Bao [chi]
+- new | 2016 | 27641605 | Review | Post-hematopoietic stem cell transplantation in patients with hematologic disorders: Chinese herbal medicine for an unmet need. | J Integr Med
+- new | 2016 | 27882072 |  | Radix Astragali Stimulates p38 MARK Phosphorylation in Pediatric Patients with β-Thalassemia. | Evid Based Complement Alternat Med
+- new | 2016 | 26912094 | Meta-Analysis/Systematic Review | Integrative Medicine for Relief of Nausea and Vomiting in the Treatment of Colorectal Cancer Using Oxaliplatin-Based Chemotherapy: A Systematic Review and Meta-Analysis. | Phytother Res
+- new | 2016 | 27773802 | Randomized Controlled Trial | Effects of the traditional Chinese herb Astragalus membranaceus in patients with poststroke fatigue: A double-blind, randomized, controlled preliminary study. | J Ethnopharmacol
+- new | 2016 | 29071930 | Randomized Controlled Trial | [Clinical Trial of Long-snake Moxibustion Treatment for Immune Function in Allergic Rhinitis Disease Patients]. | Zhen Ci Yan Jiu [chi]
+- new | 2016 | 30641632 |  | [Effect of Astragalus membranaceus on Peripheral Blood Th17 in Patients with Allergic Rhinitis]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2016 | 28929695 | Randomized Controlled Trial | [Effects of Mongolia Astragali Radix in protecting early cardiac and nephritic functions of patients of hypertension with metabolic syndrome]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2016 | 27651785 |  | Huangqi Guizhi Wuwu Decoction for treating diabetic peripheral neuropathy: a meta-analysis of 16 randomized controlled trials. | Neural Regen Res
+- new | 2015 | 26819622 | Review | Huangqi Jianzhong Tang for Treatment of Chronic Gastritis: A Systematic Review of Randomized Clinical Trials. | Evid Based Complement Alternat Med
+- new | 2015 | 25339619 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | The prophylactic use of Chinese herbal medicine for chemotherapy-induced leucopenia in oncology patients: a systematic review and meta-analysis of randomized clinical trials. | Support Care Cancer
+- new | 2015 | 26450483 | Observational Study/Research Support, Non-U.S. Gov't | Effects of Astragalus membranaceus-based Chinese Medicine Formulae on Residual Renal Function in Patients on Peritoneal Dialysis. | Perit Dial Int
+- new | 2015 | 26775475 | Clinical Trial | [Effects of Couplet Medicines (Astragalus Membranaceus and Jiaozhen) on Intestinal Barrier in Postoperative Colorectal Cancer Patients]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- HELD REF-0586 | 2014 | 25335553 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Astragalus (a traditional Chinese medicine) for treating chronic kidney disease. | Cochrane Database Syst Rev
+- new | 2014 | 24343974 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | FOLFOX 4 combined with herbal medicine for advanced colorectal cancer: a systematic review. | Phytother Res
+- new | 2014 | 25098261 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Astragalus membranaceus injection combined with conventional treatment for viral myocarditis: a systematic review of randomized controlled trials. | Chin J Integr Med
+- new | 2014 | 24942185 | Clinical Trial/Research Support, Non-U.S. Gov't | Astragalus membranaceus up-regulate Cosmc expression and reverse IgA dys-glycosylation in IgA nephropathy. | BMC Complement Altern Med
+- new | 2014 | 24622390 | Research Support, Non-U.S. Gov't/Systematic Review | Oral Chinese herbal medicine combined with pharmacotherapy for stable COPD: a systematic review of effect on BODE index and six minute walk test. | PLoS One
+- new | 2013 | 23740567 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Chinese herbal medicine Huangqi type formulations for nephrotic syndrome. | Cochrane Database Syst Rev
+- new | 2012 | 22632862 | Review | The use of herbal medicine in cancer-related anorexia/ cachexia treatment around the world. | Curr Pharm Des
+- new | 2012 | 22474516 |  | Chinese Herb Astragalus membranaceus Enhances Recovery of Hemorrhagic Stroke: Double-Blind, Placebo-Controlled, Randomized Study. | Evid Based Complement Alternat Med
+- new | 2012 | 22235231 |  | Systematic review on the efficacy and safety of herbal medicines for vascular dementia. | Evid Based Complement Alternat Med
+- new | 2012 | 23152220 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicines for viral myocarditis. | Cochrane Database Syst Rev
+- new | 2012 | 22574572 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Analysis on therapeutic effect of variable-frequency electroacupuncture combined with herbal-moxa moxibustion for post-zoster neuralgia]. | Zhen Ci Yan Jiu [chi]
+- new | 2011 | 20951192 | Meta-Analysis | Meta-analysis of the clinical value of Astragalus membranaceus in diabetic nephropathy. | J Ethnopharmacol
+- new | 2011 | 21631180 | Clinical Trial | Radix Astragali injection enhances recovery from acute acoustic trauma. | Acta Otolaryngol
+- new | 2010 | 21030886 | Research Support, Non-U.S. Gov't/Systematic Review | Chinese herbal medicine for chronic neck pain due to cervical degenerative disc disease. | Spine (Phila Pa 1976)
+- new | 2010 | 20091597 | Meta-Analysis/Systematic Review | Chinese herbal medicine for chronic neck pain due to cervical degenerative disc disease. | Cochrane Database Syst Rev
+- new | 2010 | 20614436 | Systematic Review | Herbal medicines for viral myocarditis. | Cochrane Database Syst Rev
+- new | 2010 | 20423208 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Traditional Chinese Medicine for treatment of cerebral palsy in children: a systematic review of randomized clinical trials. | J Altern Complement Med
+- new | 2010 | 19504468 | Randomized Controlled Trial | Efficacy and safety of Astragalus membranaceus in the treatment of patients with seasonal allergic rhinitis. | Phytother Res
+- new | 2009 | 19589248 | Clinical Trial | Clinical and experimental effectiveness of Astragali compound in the treatment of chronic viral hepatitis B. | J Int Med Res
+- new | 2008 | 18425948 | Meta-Analysis/Systematic Review | Chinese herbal medicine Huangqi type formulations for nephrotic syndrome. | Cochrane Database Syst Rev
+- new | 2008 | 18309905 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Radix astragali and orthostatic response: a double-masked crossover study. | Aviat Space Environ Med
+- new | 2006 | 16884339 | Controlled Clinical Trial/Letter | Effects of Huangqi Guizhi Wuwu Tang on diabetic peripheral neuropathy. | J Altern Complement Med
+- new | 2006 | 17052394 |  | [Effects of astragalus membranaceus on TH cell subset function in children with recurrent tonsillitis]. | Zhongguo Dang Dai Er Ke Za Zhi [chi]
+- new | 2006 | 16807880 | Clinical Trial/Research Support, Non-U.S. Gov't | The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. | Phytother Res
+- new | 2005 | 15674951 | Meta-Analysis/Systematic Review | Chinese medical herbs for chemotherapy side effects in colorectal cancer patients. | Cochrane Database Syst Rev
+- new | 2004 | 15307694 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Clinical observation on treatment of diabetic nephropathy with compound fructus arctii mixture]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2004 | 15266498 | Systematic Review | Herbal medicines for viral myocarditis. | Cochrane Database Syst Rev
+- new | 2002 | 12147200 | Clinical Trial/Randomized Controlled Trial | Reducing fatigue of athletes following oral administration of huangqi jianzhong tang. | Acta Pharmacol Sin
+- new | 2001 | 11406038 | Systematic Review | Chinese medicinal herbs for asymptomatic carriers of hepatitis B virus infection. | Cochrane Database Syst Rev
+- new | 1995 | 7549379 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Effect of Astragalus membranaceus on T-lymphocyte subsets in patients with viral myocarditis]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 1990 | 2397543 | Clinical Trial/Randomized Controlled Trial | [Preliminary study of traditional Chinese medicine treatment of minimal brain dysfunction: analysis of 100 cases]. | Zhong Xi Yi Jie He Za Zhi [chi]
+
+### PubMed SR - 186 hits, 32 not already listed above, 31 new
+- new | 2025 | 40265178 | Systematic Review | Exploring natural therapy for chronic heart failure: experience in traditional Chinese medicine treatment before 2022. | Front Med (Lausanne)
+- new | 2025 | 40822469 | Systematic Review | Therapeutic effects and potential mechanisms of astragaloside IV on pulmonary fibrosis: a systematic review and meta-analysis of preclinical studies. | Front Pharmacol
+- new | 2025 | 40260854 | Systematic Review | Anti-fibrosis effect of astragaloside IV in animal models of cardiovascular diseases and its mechanisms: a systematic review. | Pharm Biol
+- new | 2025 | 40149916 | Review | Interplay Between Traditional and Scientific Knowledge: Phytoconstituents and Their Roles in Lung and Colorectal Cancer Signaling Pathways. | Biomolecules
+- new | 2025 | 41357858 | Systematic Review | Cardioprotective Chinese herbs and antiretroviral drug metabolism: a systematic review of in vitro evidence. | Front Pharmacol
+- new | 2025 | 40258679 | Retraction Notice | RETRACTION: Evaluating Traditional Chinese Medicine (TCM) Jie Geng and Huang Qi Combination on Reducing Surgical Site Infections in Colorectal Cancer Surgeries: A Systematic Review | Int Wound J
+- new | 2024 | 38790084 | Review | The Role of Traditional Chinese Medicine in the Management of Cervical Cancer. | Am J Chin Med
+- new | 2024 | 39194563 | Review | Germplasm Resources and Genetic Breeding of Huang-Qi (Astragali Radix): A Systematic Review. | Biology (Basel)
+- new | 2024 | 37722514 | Meta-Analysis/Systematic Review | Efficacy and potential mechanisms of the main active ingredients of astragalus mongholicus in animal models of liver fibrosis: A systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2024 | 38213165 | Meta-Analysis/Research Support, Non-U.S. Gov't | Efficacy and Possible Mechanisms of Astragali Radix and its Ingredients in Animal Models of Osteoporosis: A Preclinical Review and Metaanalysis. | Curr Drug Targets
+- new | 2024 | 39064530 | Systematic Review | Systematic Review of Preclinical Studies on the Efficacy and Mechanisms of Herbal Medicines in Post-Myocardial Infarction Heart Failure with Reduced Ejection Fraction. | Medicina (Kaunas)
+- new | 2024 | 38184284 | Scoping Review | Chinese patent medicine as a complementary and alternative therapy for type 2 diabetes mellitus: A scoping review. | Complement Ther Med
+- new | 2024 | 38733903 | Meta-Analysis/Systematic Review | Renal protective effects and mechanisms of Astragalus membranaceus for diabetic kidney disease in animal models: An updated systematic review and meta-analysis. | Phytomedicine
+- new | 2024 | 38439832 | Review | A systematic review of astragaloside IV effects on animal models of diabetes mellitus and its complications. | Heliyon
+- new | 2023 | 37856796 | Meta-Analysis/Systematic Review | Meta-analysis of Huangqi (Astragalus membranaceus) and Chinese Yam (Rhizoma Dioscoreae) for Diabetic Nephropathy. | Altern Ther Health Med
+- new | 2023 | 37274344 | Meta-Analysis/Review/Research Support, Non-U.S. Gov't | Systematic evaluation of combined herbal adjuvant therapy for proliferative diabetic retinopathy. | Front Endocrinol (Lausanne)
+- HELD REF-3452 | 2023 | 37952511 | Meta-Analysis/Systematic Review | The Effect of Astragalus on Humoral and Cellular Immune Response: A Systematic Review and Meta-Analysis of Human Studies. | Complement Med Res
+- new | 2023 | 38013357 | Meta-Analysis/Systematic Review | Effectiveness of Huangqi Guizhi Wuwu decoction combined with rehabilitation training for shoulder hand syndrome after stroke: A systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2022 | 35850854 | Meta-Analysis | [Pharmacoeconomic evaluation of Xiangju Capsules in treatment of chronic rhinosinusitis]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2022 | 35060546 |  | Astragalus membranaceus (Huang Qi) for cancer-related fatigue: A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2022 | 35086031 | Systematic Review | A critical review of Astragalus polysaccharides: From therapeutic mechanisms to pharmaceutics. | Biomed Pharmacother
+- new | 2022 | 35694252 | Systematic Review | Recent Advances in Clinical Diagnosis and Pharmacotherapy Options of Membranous Nephropathy. | Front Pharmacol
+- new | 2022 | 36465462 | Systematic Review | Traditional Chinese medicine method of tonifying kidney for hypertension: Clinical evidence and molecular mechanisms. | Front Cardiovasc Med
+- new | 2021 | 34994150 | Consensus Statement | [Expert consensus on Tongsaimai Tablets/Capsules in treatment of peripheral vascular diseases in clinical practice]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2019 | 30909474 | Systematic Review | A Systematic Review of Phytochemistry, Pharmacology and Pharmacokinetics on Astragali Radix: Implications for Astragali Radix as a Personalized Medicine. | Int J Mol Sci
+- new | 2018 | 30018562 |  | A Preclinical Systematic Review and Meta-Analysis of Astragaloside IV for Myocardial Ischemia/Reperfusion Injury. | Front Physiol
+- new | 2018 | 29747663 | Meta-Analysis | The lipid-lowering effects of Danhong and Huangqi injections: a meta-analysis of clinical controlled trials. | Lipids Health Dis
+- new | 2016 | 26643507 | Systematic Review | A systematic review of anticancer effects of radix astragali. | Chin J Integr Med
+- new | 2015 | 26379817 | Review | Meta-analysis of Huangqi injection for the adjunctive therapy of aplastic anemia. | Int J Clin Exp Med
+- new | 2013 | 23606889 |  | Oral huangqi formulae for stable chronic obstructive pulmonary disease: a systematic review and meta-analysis. | Evid Based Complement Alternat Med
+- new | 2011 | 21573109 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Huangqi injection (a traditional Chinese patent medicine) for chronic heart failure: a systematic review. | PLoS One
+- new | 2009 | 19735713 | Systematic Review | Systematic review of the renal protective effect of Astragalus membranaceus (root) on diabetic nephropathy in animal models. | J Ethnopharmacol
+
+### PubMed SAFE - 657 hits, 144 not already listed above, 141 new
+- new | 2027 | 42600872 |  | Astragalus polysaccharides ameliorate irinotecan-induced gut toxicity by regulating gut microbiota and suppressing the MAPK signaling. | J Ethnopharmacol
+- new | 2026 | 42425356 |  | Dynamic distribution of label-free polysaccharides after intestinal lymphatic absorption. | Int J Biol Macromol
+- new | 2026 | 41905012 |  | Biotransformation-derived metabolites from Astragalus membranaceus and Cordyceps militaris alleviate hyperuricemia via multi-target regulation. | Bioorg Chem
+- new | 2026 | 42353002 | Review | Astragalus and Cordyceps Derivatives in the Treatment of Aging-Related Chronic Diseases and Neurodegenerative Disorders. | Int J Mol Sci
+- new | 2026 | 41031494 | Review | Astragalus Mongholicus for Idiopathic Pulmonary Fibrosis Treatment: From Molecules to Systems. | Curr Mol Med
+- new | 2026 | 42352330 | Review | Astragalus membranaceus Has Potential Anti-Aging and Anticancer Effects on Skin and Bone. | Biomolecules
+- new | 2026 | 42215152 | Review | Advances in extraction, purification, and pharmacological mechanisms of calycosin: a comprehensive review. | Chin J Nat Med
+- new | 2026 | 42237631 |  | Astragaloside IV Ameliorates Acetaminophen-Induced Liver Injury via Targeting the PCK1/PPARG/RXRA-Mediated PPAR Signaling Pathway. | J Biochem Mol Toxicol
+- new | 2026 | 41923419 |  | Large-Scale Evaluation of Traditional Chinese Medicines Reveals Potential PPARγ Modulators for Type 2 Diabetes Management. | J Clin Lab Anal
+- new | 2026 | 41523274 |  | Astragalus membranaceus-Salvia miltiorrhiza Decoction Ameliorates Metabolic Syndrome and Gut Microbiota Dysbiosis Induced by High-Fat Diet: A Comparative Study. | Food Sci Nutr
+- new | 2025 | 40503409 | Letter | Can astragalus polysaccharides truly boost the treatment of pancreatic cancer? | World J Clin Oncol
+- new | 2025 | 40839995 |  | Pharmacokinetic assessment of twenty compounds from Bufei Huoxue capsule in rats using HPLC-MS/MS. | J Pharm Biomed Anal
+- new | 2025 | 33256460 | Published Erratum | Corrigendum to Effect of Astragalus membranaceus in Ovalbumin-Induced Allergic Rhinitis Mouse Model. | Am J Rhinol Allergy
+- new | 2025 | 41054059 |  | Integrated data mining and network pharmacology to explore the prescription patterns from a senior TCM oncologist's clinical practice in treating chemotherapy-induced hand-foot syn | Medicine (Baltimore)
+- new | 2025 | 39692050 | Review/Research Support, Non-U.S. Gov't | Herb-drug interaction potential of Astragali Radix: a metabolic perspective. | Drug Metab Rev
+- new | 2025 | 41508196 | Review | [Research progress on mechanism of Huangqi Guizhi Wuwu Decoction in treating diabetic peripheral neuropathy]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2025 | 41029673 |  | Herb-drug interaction of Astragali Radix based on in vitro incubation and pharmacokinetic assessment. | BMC Complement Med Ther
+- new | 2025 | 40885110 |  | Protective effect of astragalus polysaccharides against sodium fluoride-induced liver injury: A comprehensive study based on network pharmacology, metabolomics, and transcriptomics | Ecotoxicol Environ Saf
+- new | 2025 | 40276608 | Review | Therapeutic potential and mechanistic insights of astragaloside IV in the treatment of arrhythmia: a comprehensive review. | Front Pharmacol
+- new | 2025 | 41282628 | Review | The therapeutic potential of Astragalus membranaceus in atopic dermatitis: from traditional applications and modern pharmacological research to regulation of the Gut-Skin Axis. | Front Pharmacol
+- new | 2025 | 39440734 | Review | Potential Anti-tumor Effects and Apoptosis-inducing Mechanisms of Saponins: A Review. | Curr Top Med Chem
+- new | 2025 | 40817502 | Research Support, Non-U.S. Gov't | Low molecular weight Astragalus membranaceus polysaccharides alleviates dextran sulfate sodium-induced colitis in mice. | Carbohydr Polym
+- new | 2025 | 40668649 | Review | Recent advances in the treatment of non-alcoholic fatty liver disease with astragaloside IV. | Acta Pharm
+- new | 2025 | 39425923 | Review | Recent advances in natural products and derivatives with antiviral activity against respiratory syncytial virus (RSV). | J Asian Nat Prod Res
+- new | 2025 | 41110354 |  | Formononetin mitigates alcoholic liver disease by restoring ALDH2 function and inducing ERK1/2-Nrf2 antioxidant signaling. | Phytomedicine
+- new | 2025 | 40468933 |  | Astragalus Injection Modulates the Pharmacokinetics of Doxorubicin and CYP450 Enzymes. | Curr Pharm Des
+- new | 2025 | 40356679 | Review | A Natural Compound Methylnissolin: Physicochemical Properties, Pharmacological Activities, Pharmacokinetics and Resource Development. | Drug Des Devel Ther
+- new | 2025 | 40059916 |  | Effects of Astragalus membranaceus Leaf Extract on Allergic Inflammation in Immune Cell Lines. | Prev Nutr Food Sci
+- new | 2025 | 38509683 | Review | Herbal Treatments for Obesity: A Review. | Curr Med Chem
+- new | 2025 | 39388703 |  | Huangqi Decoction reduces liver fibrosis in rats by modulating PI3K/Akt/mTOR signaling and promoting autophagy. | Biomol Biomed
+- new | 2025 | 40488850 | Review | Formononetin: pharmacological properties and therapeutic potential. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 38493280 | Review | Astragali Radix: comprehensive review of its botany, phytochemistry, pharmacology and clinical application. | Arch Pharm Res
+- new | 2024 | 37952410 |  | Pharmacological potential of Astragali Radix for the treatment of kidney diseases. | Phytomedicine
+- new | 2024 | 39413615 | Review | Pharmacological potential of natural medicine Astragali Radix in treating intestinal diseases. | Biomed Pharmacother
+- new | 2024 | 38579666 |  | Formononetin attenuates psoriasiform inflammation by regulating interferon signaling pathway. | Phytomedicine
+- new | 2024 | 37487964 | Review | Therapeutic potential of traditional Chinese medicine for interstitial lung disease. | J Ethnopharmacol
+- HELD REF-0739 | 2024 | 39433972 | Research Support, Non-U.S. Gov't | Total biosynthesis of the medicinal triterpenoid saponin astragalosides. | Nat Plants
+- new | 2024 | 39094754 |  | Isoastragaloside I attenuates cholestatic liver diseases by ameliorating liver injury, regulating bile acid metabolism and restoring intestinal barrier. | J Ethnopharmacol
+- new | 2024 | 38490806 |  | Astragaloside IV Alleviates Doxorubicin-Induced Cardiotoxicity by Inhibiting Cardiomyocyte Pyroptosis through the SIRT1/NLRP3 Pathway. | Am J Chin Med
+- new | 2024 | 39270570 |  | Metabolomics combined with network pharmacology reveals the protective effect of astragaloside IV on alcoholic liver disease. | Phytomedicine
+- new | 2024 | 39032102 |  | Total astragalus saponins attenuate primary sclerosing cholangitis in mice by upregulation of TGR5. | Phytother Res
+- new | 2024 | 37918281 |  | Radix Astragali decoction improves liver regeneration by upregulating hepatic expression of aquaporin-9. | Phytomedicine
+- new | 2024 | 39456271 | Review | Astragalus membranaceus: A Traditional Chinese Medicine with Multifaceted Impacts on Breast Cancer Treatment. | Biomolecules
+- new | 2024 | 39194750 | Review | Astragalus membranaceus, Nigella sativa, and Perilla frutescens as Immunomodulators-Molecular Mechanisms and Clinical Effectiveness in Allergic Diseases. | Curr Issues Mol Biol
+- new | 2024 | 38482295 |  | Efficacy of combination therapy with unkeito and boiogito for menopausal arthralgia: A retrospective observational study. | J Family Med Prim Care
+- new | 2024 | 38952445 |  | Astragalus mongholicus Bunge and Curcuma aromatica Salisb. modulate gut microbiome and bile acid metabolism to inhibit colon cancer progression. | Front Microbiol
+- new | 2024 | 38278558 | Review | Polysaccharides from Chinese herbal medicine: a review on the hepatoprotective and molecular mechanism. | Chin J Nat Med
+- new | 2024 | 38835665 | Review | Treatment of peritoneal fibrosis: Therapeutic prospects of bioactive Agents from Astragalus membranaceus. | Front Pharmacol
+- new | 2024 | 38521426 |  | Astragaloside IV ameliorates cisplatin-induced liver injury by modulating ferroptosis-dependent pathways. | J Ethnopharmacol
+- new | 2024 | 39622883 |  | Deciphering the pharmacological mechanism of Radix astragali for allergic rhinitis through network pharmacology and experimental validation. | Sci Rep
+- new | 2024 | 38163558 |  | Protective effects of Huang-Qi-Ge-Gen decoction against diabetic liver injury through regulating PI3K/AKT/Nrf2 pathway and metabolic profiling. | J Ethnopharmacol
+- new | 2024 | 38318056 |  | Toxicity studies of condensed fuzheng extract in mice and rats. | Heliyon
+- new | 2024 | 38640881 |  | Evaluation of drug interactions of Saposhnikoviae Radix and its major components with astragaloside IV and paeoniflorin using in vitro and in vivo experiments. | J Chromatogr A
+- new | 2024 | 39382026 |  | Therapeutic potential of Astragalus membranaceus-Pueraria lobata decoction for the treatment of chemotherapy bowel injury. | FASEB J
+- new | 2024 | 37844744 | Review | Herb pairs containing Curcumae Rhizoma (Ezhu): A review of bio-active constituents, compatibility effects and t-copula function analysis. | J Ethnopharmacol
+- new | 2024 | 39154580 |  | Pharmacokinetics of two triterpenoid saponins and three flavonoids in Astragalus membranaceus leaves by UHPLC-MS/MS. | J Pharm Biomed Anal
+- new | 2024 | 39126039 |  | Formononetin Defeats Multidrug-Resistant Cancers by Induction of Oxidative Stress and Suppression of P-Glycoprotein. | Int J Mol Sci
+- new | 2024 | 39125903 |  | Identification and Expression Analysis of Cytochrome P450 Genes Probably Involved in Triterpenoid Saponins Biosynthesis in Astragalus mongholicus. | Int J Mol Sci
+- new | 2023 | 37741920 | Review | Synergist for antitumor therapy: Astragalus polysaccharides acting on immune microenvironment. | Discov Oncol
+- new | 2023 | 36652731 | Review | Astragaloside IV: A promising natural neuroprotective agent for neurological disorders. | Biomed Pharmacother
+- new | 2023 | 38045181 | Review | Research progress on the mechanism of astragaloside IV in the treatment of asthma. | Heliyon
+- new | 2023 | 37625759 | Review | Preclinical pharmacokinetics-related pharmacological effects of orally administered polysaccharides from traditional Chinese medicines: A review. | Int J Biol Macromol
+- new | 2023 | 37875045 | Review | Recent pharmacological advances in the treatment of cardiovascular events with Astragaloside IV. | Biomed Pharmacother
+- new | 2023 | 35809178 | Review | Progress in Mechanism of Astragalus membranaceus and Its Chemical Constituents on Multiple Sclerosis. | Chin J Integr Med
+- new | 2023 | 36980207 | Research Support, Non-U.S. Gov't | Astragalus Polysaccharide Promotes Doxorubicin-Induced Apoptosis by Reducing O-GlcNAcylation in Hepatocellular Carcinoma. | Cells
+- new | 2023 | 36627003 |  | Yupingfeng San exhibits anticancer effect in hepatocellular carcinoma cells via the MAPK pathway revealed by HTS(2) technology. | J Ethnopharmacol
+- new | 2023 | 38211994 |  | [Protective effect and mechanism of Astragalus membranaceus and Angelica sinensis compatibility against triptolide-induced hepatotoxicity by regulating Keap1/Nrf2/PGC-1α]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2023 | 36967467 |  | Synthesis and Evaluation of Bone Targeting PLGA Nanoparticles Loaded with Components of Traditional Chinese Medicine Formulas. | Recent Pat Nanotechnol
+- new | 2023 | 37298103 |  | Significance of Astragaloside IV from the Roots of Astragalus mongholicus as an Acetylcholinesterase Inhibitor-From the Computational and Biomimetic Analyses to the In Vitro and In | Int J Mol Sci
+- new | 2023 | 37446658 |  | Creating a Vaccine-like Supplement against Respiratory Infection Using Recombinant Bacillus subtilis Spores Expressing SARS-CoV-2 Spike Protein with Natural Products. | Molecules
+- new | 2023 | 37881186 |  | Effect of Astragali radix extract on pharmacokinetic behavior of dapagliflozin in healthy and type 2 diabetic rats. | Front Pharmacol
+- new | 2023 | 36250324 |  | Rapid Quantitative Analysis of 19 Bioactive Components in Fangji Huangqi Decoction Based on UHPLC-MS/MS. | J Chromatogr Sci
+- new | 2023 | 37863814 |  | Simultaneous determination and pharmacokinetics study of three triterpenoid saponins in rat plasma by ultra-high-performance liquid chromatography tandem mass-spectrometry after or | J Sep Sci
+- new | 2023 | 36874003 | Review | Astragaloside IV, as a potential anticancer agent. | Front Pharmacol
+- new | 2023 | 37741219 |  | Determination of vericiguat in rat plasma by UPLC-MS/MS and its application to drug interaction. | J Chromatogr A
+- new | 2023 | 37113780 |  | Astragaloside IV attenuates lipopolysaccharide induced liver injury by modulating Nrf2-mediated oxidative stress and NLRP3-mediated inflammation. | Heliyon
+- new | 2023 | 37802848 |  | [Mechanism of Astragali Radix-Curcumae Rhizoma in treating gastric cancer based on network pharmacology and experimental verification]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2022 | 35104756 | Review | Biological active ingredients of Astragali Radix and its mechanisms in treating cardiovascular and cerebrovascular diseases. | Phytomedicine
+- new | 2022 | 35205836 | Review | State of the Art and Future Implications of SH003: Acting as a Therapeutic Anticancer Agent. | Cancers (Basel)
+- new | 2022 | 36499536 |  | Antitumor Effect of Cycloastragenol in Colon Cancer Cells via p53 Activation. | Int J Mol Sci
+- new | 2022 | 35721162 | Review | Interactions Between Natural Products and Tamoxifen in Breast Cancer: A Comprehensive Literature Review. | Front Pharmacol
+- new | 2022 | 36555329 |  | A Protective Role of Phenylalanine Ammonia-Lyase from Astragalus membranaceus against Saline-Alkali Stress. | Int J Mol Sci
+- new | 2022 | 35663235 |  | Pharmacokinetic Difference of Six Active Constituents of Huangqi Liuyi Decoction between Control and Diabetic Nephropathy Mouse Models. | Int J Anal Chem
+- new | 2022 | 35634952 | Review/Research Support, Non-U.S. Gov't | Effects of Astragalus membranaceus on systemic lupus erythematosus in a mouse model of pregnancy. | Immun Inflamm Dis
+- new | 2022 | 36246793 | Review | Review of the pharmacological effects of astragaloside IV and its autophagic mechanism in association with inflammation. | World J Clin Cases
+- new | 2022 | 36154520 | Research Support, Non-U.S. Gov't | Therapeutic Efficacy of Traditional Chinese Medicine Syndrome-Based Formulae to Neuropathic Pain Caused by Chemotherapy. | Integr Cancer Ther
+- new | 2022 | 34734235 |  | UHPLC-MS/MS Method for Quantifying Fangchinoline, Tetrandrine and Calycosin-7-O-β-D-Glucoside of Fangji Huangqi Decoction in Rat Plasma and Its Application to a Pharmacokinetic Stu | J Chromatogr Sci
+- new | 2022 | 36001467 |  | Simultaneous determination and pharmacokinetic study of six components in beagle dog plasma by UPLC-MS/MS after oral administration of Astragalus Membranaceus aqueous extract. | Biomed Chromatogr
+- new | 2022 | 36027597 |  | Integrated pharmacokinetics of Huangqi Jianzhong Tang in normal and chronic atrophic gastritis rats. | Biomed Chromatogr
+- new | 2022 | 36145325 |  | Plasma Pharmacokinetics and Tissue Distribution of Doxorubicin in Rats following Treatment with Astragali Radix. | Pharmaceuticals (Basel)
+- new | 2021 | 33157222 | Systematic Review | Immunomodulation of Chinese Herbal Medicines on NK cell populations for cancer therapy: A systematic review. | J Ethnopharmacol
+- new | 2021 | 32930420 | Case Reports | Marked decrease of tacrolimus blood concentration caused by compound Chinese herbal granules in a patient with refractory nephrotic syndrome. | J Clin Pharm Ther
+- new | 2021 | 33152436 |  | Hepatoprotective effects of Huangqi decoction (Astragali Radix and Glycyrrhizae Radix et Rhizoma) on cholestatic liver injury in mice: Involvement of alleviating intestinal microbi | J Ethnopharmacol
+- new | 2021 | 32971159 |  | Formononetin attenuates atopic dermatitis by upregulating A20 expression via activation of G protein-coupled estrogen receptor. | J Ethnopharmacol
+- new | 2021 | 33346681 | Research Support, Non-U.S. Gov't/Review | Calycosin: a Review of its Pharmacological Effects and Application Prospects. | Expert Rev Anti Infect Ther
+- new | 2021 | 33469263 |  | Network Pharmacology and Experimental Evidence Identify the Mechanism of Astragaloside IV in Oxaliplatin Neurotoxicity. | Drug Des Devel Ther
+- new | 2021 | 34584542 |  | Astragaloside IV prevents endothelial dysfunction by improving oxidative stress in streptozotocin-induced diabetic mouse aortas. | Exp Ther Med
+- HELD REF-0402 | 2020 | 32089240 | Research Support, Non-U.S. Gov't/Review | Astragaloside IV derived from Astragalus membranaceus: A research review on the pharmacological effects. | Adv Pharmacol
+- new | 2020 | 33308095 | Review | Progress in Traditional Chinese Medicine for the Treatment of Migraine. | Am J Chin Med
+- new | 2020 | 32982178 | Review | Astragaloside IV: An Effective Drug for the Treatment of Cardiovascular Diseases. | Drug Des Devel Ther
+- new | 2020 | 33036328 | Review | Role of Antioxidant Natural Products in Management of Infertility: A Review of Their Medicinal Potential. | Antioxidants (Basel)
+- new | 2020 | 33357721 | Review | The cardiovascular protective effect and mechanism of calycosin and its derivatives. | Chin J Nat Med
+- new | 2020 | 33301486 | Research Support, Non-U.S. Gov't | Transcriptomic analysis reveals responses to Cycloastragenol in Arabidopsis thaliana. | PLoS One
+- new | 2020 | 32243990 | Review | Anti-tumor effects and mechanisms of Astragalus membranaceus (AM) and its specific immunopotentiation: Status and prospect. | J Ethnopharmacol
+- new | 2020 | 32878798 |  | Assessing the Anti-cancer Therapeutic Mechanism of a Herbal Combination for Breast Cancer on System-level by a Network Pharmacological Approach. | Anticancer Res
+- new | 2020 | 32685423 |  | Inhibition of cytochrome P450 2B6 by Astragalus extract mixture HT042. | Toxicol Res
+- new | 2020 | 32351998 |  | Effect of Astragalus membranaceus Oral Solution on Lifespan and Learning and Memory Ability of Honey Bees. | Biomed Res Int
+- new | 2020 | 31418664 | Research Support, Non-U.S. Gov't/Review | Herbal Medicine for Slowing Aging and Aging-associated Conditions: Efficacy, Mechanisms and Safety. | Curr Vasc Pharmacol
+- new | 2020 | 37649518 |  | Safety of a botanical extract derived from Panax notoginseng and Astragalus membranaceus (AstraGin™) as a novel food pursuant to Regulation (EU) 2015/2283. | EFSA J
+- new | 2019 | 29790819 |  | Effects of astragaloside IV on the pharmacokinetics of puerarin in rats. | Xenobiotica
+- new | 2019 | 30945558 |  | Effect of Astragalus membranaceus in Ovalbumin-Induced Allergic Rhinitis Mouse Model. | Am J Rhinol Allergy
+- new | 2019 | 31359684 | Review | [Research progress and secondary development ideas of Astragali Radix polysaccharides for injection]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2019 | 31032279 |  | Using single-patient (n-of-1) trials to determine effectiveness of traditional Chinese medicine on chemotherapy-induced leukopenia in gastric cancer: a feasibility study. | Ann Transl Med
+- new | 2019 | 31976000 |  | CCl(4)-Induced Liver Injury Was Ameliorated by Qi-Ge Decoction through the Antioxidant Pathway. | Evid Based Complement Alternat Med
+- new | 2019 | 31616288 | Review | Chinese Medicines for Preventing and Treating Radiation-Induced Pulmonary Injury: Still a Long Way to Go. | Front Pharmacol
+- new | 2019 | 30926500 |  | Antioxidant, immunomodulatory, oxidative stress inhibitory and iron supplementation effect of Astragalus membranaceus polysaccharide-iron (III) complex on iron-deficiency anemia mo | Int J Biol Macromol
+- new | 2019 | 31877915 |  | The Structure Features and Improving Effects of Polysaccharide from Astragalus membranaceus on Antibiotic-Associated Diarrhea. | Antibiotics (Basel)
+- new | 2019 | 31473579 |  | Huangqi-Fangfeng protects against allergic airway remodeling through inhibiting epithelial-mesenchymal transition process in mice via regulating epithelial derived TGF-β1. | Phytomedicine
+- new | 2019 | 30243825 |  | Astragali radix and its main bioactive compounds activate the Nrf2-mediated signaling pathway to induce P-glycoprotein and breast cancer resistance protein. | J Ethnopharmacol
+- new | 2018 | 29729707 |  | Swainsonine induces apoptosis of rat cardiomyocytes via mitochondria‑mediated pathway. | Cell Mol Biol (Noisy-le-grand)
+- new | 2018 | 30077805 | Research Support, Non-U.S. Gov't | Formononetin attenuated allergic diseases through inhibition of epithelial-derived cytokines by regulating E-cadherin. | Clin Immunol
+- new | 2018 | 28675423 |  | Poly-pharmacokinetic Study of a Multicomponent Herbal Medicine in Healthy Chinese Volunteers. | Clin Pharmacol Ther
+- new | 2018 | 29507594 | Review | Traditional Chinese Medicine for Refractory Nephrotic Syndrome: Strategies and Promising Treatments. | Evid Based Complement Alternat Med
+- new | 2018 | 30581388 | Review | Chinese Herbal Medicines Facilitate the Control of Chemotherapy-Induced Side Effects in Colorectal Cancer: Progress and Perspective. | Front Pharmacol
+- new | 2018 | 29047177 | Review | Selected hepatoprotective herbal medicines: Evidence from ethnomedicinal applications, animal models, and possible mechanism of actions. | Phytother Res
+- new | 2018 | 32254491 |  | Improved cell membrane bioaffinity sample pretreatment technique with enhanced stability for screening of potential allergenic components from traditional Chinese medicine injectio | J Mater Chem B
+- new | 2018 | 30110942 |  | Astragaloside IV Attenuates Acetaminophen-Induced Liver Injuries in Mice by Activating the Nrf2 Signaling Pathway. | Molecules
+- new | 2017 | 28647510 |  | Hepatoprotective effect of Gan Kang Yuan against chronic liver injury induced by alcohol. | J Ethnopharmacol
+- new | 2017 | 28732808 |  | Safety evaluation of Astragalus extract mixture HT042 and its constituent herbs in Sprague-Dawley rats. | Phytomedicine
+- HELD REF-0736 | 2016 | 26916911 | Research Support, Non-U.S. Gov't/Review | Astragalus membranaceus: A Review of its Protection Against Inflammation and Gastrointestinal Cancers. | Am J Chin Med
+- new | 2016 | 27041997 |  | Effects of Dang-Gui-Bu-Xue-Tang, an herbal decoction, on iron uptake in iron-deficient anemia. | Drug Des Devel Ther
+- new | 2016 | 26463231 | Review | Advances on Bioactive Polysaccharides from Medicinal Plants. | Crit Rev Food Sci Nutr
+- new | 2015 | 25787906 | Review | The advantages of using traditional Chinese medicine as an adjunctive therapy in the whole course of cancer treatment instead of only terminal stage of cancer. | Biosci Trends
+- new | 2014 | 25185371 | Research Support, Non-U.S. Gov't/Review | Post-marketing safety monitoring of shenqifuzheng injection: a solution made of dangshen (Radix Codonopsis) and huangqi (Radix Astragali Mongolici). | J Tradit Chin Med
+- new | 2014 | 24467538 | Case Reports/Research Support, Non-U.S. Gov't | Clinical efficacy of aconitum-containing traditional Chinese medicine for diabetic peripheral neuropathic pain. | Am J Chin Med
+- new | 2013 | 24423652 | Research Support, Non-U.S. Gov't/Review | Traditional Chinese medicine and related active compounds: a review of their role on hepatitis B virus infection. | Drug Discov Ther
+- new | 2013 | 23083228 | Research Support, Non-U.S. Gov't | Effects of topical application of Astragalus membranaceus on allergic dermatitis. | Immunopharmacol Immunotoxicol
+- new | 2013 | 24367979 | Research Support, Non-U.S. Gov't | Prevention of allergic airway hyperresponsiveness and remodeling in mice by Astragaliradix antiasthmatic decoction. | BMC Complement Altern Med
+- new | 2010 | 27325938 | Review | Clinical practice of traditional Chinese medicines for chronic heart failure. | Heart Asia
+- new | 2010 | 20448340 | Research Support, Non-U.S. Gov't/Review | Traditional Chinese medicine and related active compounds against hepatitis B virus infection. | Biosci Trends
+- new | 2009 | 19148542 | Research Support, Non-U.S. Gov't | Astragalus saponins induce apoptosis via an ERK-independent NF-kappaB signaling pathway in the human hepatocellular HepG2 cell line. | Int J Mol Med
+- new | 1998 | 10453617 | Clinical Trial | A clinical study on bing gan ling oral liquid for treatment of hepatitis C. | J Tradit Chin Med
+- new | 1996 | 8683032 |  | Effects of Chinese herbs on macrophage functions in N-butyl-N-butanolnitrosoamine treated mice. | Immunopharmacol Immunotoxicol
+- new | 1990 | 2255205 | Comparative Study | Hepatoprotective effects of astraglus root. | J Ethnopharmacol
+
+### PubMed OBS - 42 hits, 32 not already listed above, 32 new
+- new | 2026 | 42812582 | Review | Global Research Trends in Traditional Chinese Medicine for Diabetic Kidney Disease: A 20-Year Bibliometric Analysis. | J Inflamm Res
+- new | 2026 | 41807627 |  | Mechanism of action of Astragalus membranaceus for treating diabetic foot ulcers based on single-cell RNA sequencing data and network pharmacology. | Sci Rep
+- new | 2026 | 42677280 |  | Active ingredients of Astragalus-ginseng against COPD-associated sarcopenia: network pharmacology and molecular dynamics simulations. | PeerJ
+- new | 2026 | 42184060 |  | Exploring the immunomodulatory mechanisms of Astragalus membranaceus in esophageal cancer treatment through network pharmacology, molecular docking, and molecular dynamics simulati | Discov Oncol
+- new | 2026 | 42993221 |  | Calycosin attenuates a TGF-β-responsive COL3A1-associated fibroblast program in non-small cell lung cancer. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2026 | 42871901 |  | Impact of Perioperative Buyang Huanwu-Based Traditional Chinese Medicine Intervention on Postoperative Venous Thromboembolism, Coagulation Markers and Systemic Inflammation: A Prop | J Inflamm Res
+- new | 2026 | 42822850 |  | Traditional Chinese Medicine Enhances Survival in Cancer Patients on Immunotherapy or Chemotherapy. | Integr Cancer Ther
+- new | 2025 | 39855831 |  | Astragali Radix-Notoginseng Radix et Rhizoma medicine pair prevents cardiac remodeling by improving mitochondrial dynamic balance. | Chin J Nat Med
+- new | 2025 | 40823287 | Systematic Review | Intervention of Astragalus Membranaceus Extract in rats of spinal cord injury: a systematic review and meta-analysis. | Front Neurol
+- new | 2025 | 40449890 |  | Severe enterovirus A71 infection is associated with dysfunction of T cell immune response and alleviated by Astragaloside A. | Virol Sin
+- new | 2024 | 38966550 |  | Evaluating myelophil, a 30% ethanol extract of Astragalus membranaceus and Salvia miltiorrhiza, for alleviating fatigue in long COVID: a real-world observational study. | Front Pharmacol
+- new | 2024 | 39652245 | Review/Observational Study | Therapeutic effects of Huangqi formula (Eefooton) in chronic kidney disease: clinical research and narrative literature review. | Aging (Albany NY)
+- new | 2023 | 37516089 |  | Association of medicinal plant consumption with all-cause mortality and cognitive impairment in older adult: A large prospective cohort study. | Phytomedicine
+- new | 2022 | 36231778 | Research Support, Non-U.S. Gov't | The Characteristics and Mortality of Chinese Herbal Medicine Users among Newly Diagnosed Inoperable Huge Hepatocellular Carcinoma (≥10 cm) Patients: A Retrospective Cohort Study wi | Int J Environ Res Public Health
+- new | 2022 | 35832512 |  | Chinese Herbal Medicine as an Adjunctive Therapy Improves the Survival Rate of Patients with Ischemic Heart Disease: A Nationwide Population-Based Cohort Study. | Evid Based Complement Alternat Med
+- new | 2022 | 35898268 |  | Chinese Herbal Medicine Reduces the Risk of Heart Failure in Hypertensive Patients: A Nationwide, Retrospective, Cohort Study. | Front Cardiovasc Med
+- new | 2021 | 34939396 |  | Traditional Chinese Medicine enhances absorption of lung lesions in corona virus disease 2019 patient. | J Tradit Chin Med
+- new | 2021 | 33679399 |  | Associations Between Using Chinese Herbal Medicine and Long-Term Outcome Among Pre-dialysis Diabetic Nephropathy Patients: A Retrospective Population-Based Cohort Study. | Front Pharmacol
+- new | 2020 | 32065348 | Historical Article/Review | Can Chinese Medicine Be Used for Prevention of Corona Virus Disease 2019 (COVID-19)? A Review of Historical Classics, Research Evidence and Current Prevention Programs. | Chin J Integr Med
+- new | 2019 | 31544233 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Chinese nonmedicinal herbal diet and risk of nasopharyngeal carcinoma: A population-based case-control study. | Cancer
+- new | 2018 | 30122581 |  | The characteristics and prescription patterns of Chinese herbal medicine in clinical practice for the treatment of anemia. | Taiwan J Obstet Gynecol
+- new | 2018 | 30327604 |  | Chinese Herbal Medicine Improves the Long-Term Survival Rate of Patients With Chronic Kidney Disease in Taiwan: A Nationwide Retrospective Population-Based Cohort Study. | Front Pharmacol
+- new | 2017 | 28524039 | Observational Study | [Prevention of traditional Chinese medicine Gubiao Pixie prescription for nosocomial infection in elderly population]. | Zhonghua Wei Zhong Bing Ji Jiu Yi Xue [chi]
+- new | 2017 | 28798802 |  | Prescribed Renoprotective Chinese Herbal Medicines Were Associated with a Lower Risk of All-Cause and Disease-Specific Mortality among Patients with Chronic Kidney Disease: A Popul | Evid Based Complement Alternat Med
+- new | 2017 | 28572830 |  | Astragalus Extract Mixture HT042 Improves Bone Growth, Mass, and Microarchitecture in Prepubertal Female Rats: A Microcomputed Tomographic Study. | Evid Based Complement Alternat Med
+- new | 2017 | 27531548 |  | Improved Survival With Integration of Chinese Herbal Medicine Therapy in Patients With Acute Myeloid Leukemia: A Nationwide Population-Based Cohort Study. | Integr Cancer Ther
+- new | 2017 | 28417089 |  | Demographic and medication characteristics of traditional Chinese medicine users among colorectal cancer survivors: A nationwide database study in Taiwan. | J Tradit Complement Med
+- new | 2016 | 27340102 |  | Integrative traditional Chinese medicine therapy reduces the risk of diabetic ketoacidosis in patients with type 1 diabetes mellitus. | J Ethnopharmacol
+- new | 2014 | 24496917 | Observational Study/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Adjunctive traditional Chinese medicine therapy improves survival in patients with advanced breast cancer: a population-based study. | Cancer
+- new | 2013 | 23874670 |  | Risk factors for small airway obstruction among Chinese island residents: a case-control study. | PLoS One
+- new | 2011 | 21274451 |  | Administration of a decoction of sucrose- and polysaccharide-rich radix astragali (huang qi) ameliorated insulin resistance and Fatty liver but affected Beta-cell function in type  | Evid Based Complement Alternat Med
+- new | 2010 | 20226145 | Research Support, Non-U.S. Gov't | [Analysis of relationships among syndrome, therapeutic treatment, and Chinese herbal medicine in patients with coronary artery disease based on complex networks]. | Zhong Xi Yi Jie He Xue Bao [chi]
+
+### PubMed REV - 366 hits, 17 not already listed above, 14 new
+- new | 2024 | 39308629 | Review | Radix Astragali and Its Representative Extracts for Diabetic Nephropathy: Efficacy and Molecular Mechanism. | J Diabetes Res
+- new | 2024 | 39156112 | Review | Pharmacological effects of Astragalus polysaccharides in treating neurodegenerative diseases. | Front Pharmacol
+- new | 2024 | 38494585 | Review | Research progress of astragaloside IV in treating acute kidney injury. | Int Urol Nephrol
+- new | 2024 | 39726784 | Review | Exploratory review on the effect of Astragalus mongholicus on signaling pathways. | Front Pharmacol
+- HELD REF-2257 | 2023 | 37446680 | Review | Biosynthesis and Pharmacological Activities of Flavonoids, Triterpene Saponins and Polysaccharides Derived from Astragalus membranaceus. | Molecules
+- new | 2023 | 37426627 | Review | Untapping the Potential of Astragaloside IV in the Battle Against Respiratory Diseases. | Drug Des Devel Ther
+- HELD REF-0401 | 2022 | 35713852 | Review | Astragalus polysaccharide: a review of its immunomodulatory effect. | Arch Pharm Res
+- new | 2022 | 35712702 | Review | Focusing on Formononetin: Recent Perspectives for its Neuroprotective Potentials. | Front Pharmacol
+- new | 2022 | 35837291 | Review | Astragalus mongholicus Bunge (Fabaceae): Bioactive Compounds and Potential Therapeutic Mechanisms Against Alzheimer's Disease. | Front Pharmacol
+- new | 2021 | 33325585 | Review | Astragalus species: Insights on its chemical composition toward pharmacological applications. | Phytother Res
+- new | 2021 | 34421064 | Review | The positive role of traditional Chinese medicine as an adjunctive therapy for cancer. | Biosci Trends
+- new | 2020 | 32330511 | Review | Astragali Radix (Huangqi): A promising edible immunomodulatory herbal medicine. | J Ethnopharmacol
+- new | 2019 | 31467899 | Review | Potential Anticancer Properties and Mechanisms of Action of Formononetin. | Biomed Res Int
+- new | 2017 | 28124440 | Review | Chinese herbal drugs for the treatment of diabetic retinopathy. | J Pharm Pharmacol
+- new | 2017 | 27567103 | Review | Research review on the pharmacological effects of astragaloside IV. | Fundam Clin Pharmacol
+- HELD REF-2256 | 2014 | 25087616 | Review | Review of the botanical characteristics, phytochemistry, and pharmacology of Astragalus membranaceus (Huangqi). | Phytother Res
+- new | 2006 | 30000951 | Review | Astragalus. | 
+
+### ClinicalTrials.gov - 89 registered studies
+- NCT07550205 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | Tiaoshen Anti-cancer Protocol and CBT for Insomnia and Survival in Ovarian Cancer | conds: Ovarian Neoplasms Malignant, Sleep Initiation and Maintenance Disorders, Medicine, Chinese Traditional, Chinese Herbal Medicine | intr: Tiaoshen Anti-cancer Granules, Placebo Granules, Cognitive Behavioral Therapy for Insomnia, Standard
+- NCT06419764 | UNKNOWN | results=False | NA | Combining Chinese Medicine and Nutrition to Enhance Weight Loss After Bariatric Surgery | conds: Traditional Chinese Medicine Treatment, Weight Change | intr: Spleen Invigorating and Weight Reducing Decoction, Diet and meal replacements
+- NCT07906652 | ENROLLING_BY_INVITATION | results=False | EARLY_PHASE1 | Clinical Evaluation of the Safety and Efficacy of "Buyan Huan Wu Tang" Combined With Atorvastatin in the Treatment of Atypical Pneumonia | conds: Moyamoya Disease | intr: Atorvastatin, Replenishing Five Herbs Decoction, Replenishing Five Herbs Decoction Placebo
+- NCT04544605 | UNKNOWN | results=False |  | Special Chinese Medicine Out-patient Programme for Discharged COVID-19 Patients | conds: Post COVID-19 | intr: Individualized-Chinese herbal medicine
+- NCT07396701 | NOT_YET_RECRUITING | results=False | PHASE4 | Chinese Adaptive Randomised Pneumonia Trial With Respiratory Failure | conds: Severe Pneumonia With Respiratory Failure | intr: Trendelenburg Position, Traditional Chinese Medicine Formulation
+- NCT02737735 | UNKNOWN | results=False | PHASE1 | The Effect on Decreasing Chemotherapeutic Toxicity and Increasing Anti-tumor Effect of Chinese Herbs Based on Syndrome Differentiation | conds: Carcinoma, Non-Small-Cell Lung | intr: standard chemotherapy medicine combined with Chinese herbs, standard chemotherapy medicine
+- NCT07891403 | COMPLETED | results=False | PHASE2 | A Study on the Clinical Efficacy of Fumigation and Washing With Modified Astragalus and Cinnamon Twig Decoction With Five Herbs in the Treat | conds: Post-Chemotherapy Peripheral Neuropathy | intr: Traditional Chinese Medicine Steam Bath
+- NCT05506891 | UNKNOWN | results=False | PHASE2 | Efficacy and Safety of Astragalus for Non-motor Symptoms of α-Synucleinopathy | conds: Parkinsonism | intr: Physical therapy group, Astragalus
+- NCT03681249 | COMPLETED | results=False | EARLY_PHASE1 | the Integrated Traditional Chinese and Western Medicine Treat Middle Stage DKD | conds: Diabetic Nephropathy Type 2 | intr: ShenqiDihuang Decoction, ShenqiDihuang Decoction placebo
+- NCT03314805 | COMPLETED | results=False | PHASE2 | PG2 Breast Cancer Evaluation in Adjuvant Medicine Study | conds: Cancer-related Fatigue, Neutropenia, Malignant | intr: Astragalus polysaccharides 500 mg, Placebo, EC Chemotherapy | pubs: ['39465324:DERIVED (HELD REF-3451)']
+- NCT01696565 | COMPLETED | results=False | PHASE1,PHASE2 | PG2 Phase I/II Clinical Study Intravenously Administered in Patients With Advanced Malignancy | conds: Neoplasm Metastasis, Neoplasm Recurrence | intr: PG2
+- NCT02605655 | COMPLETED | results=False | EARLY_PHASE1 | Clinical Trial of Chinese Formula AMP-1915 on Metabolic Syndrome | conds: Metabolic Syndrome X | intr: AMP-1915, Placebo
+- NCT03681704 | COMPLETED | results=False | PHASE1 | the Integrated Traditional Chinese and Western Medicine Treat Early Stage DKD | conds: Diabetic Nephropathy Type 2 | intr: HuangQi Decoction, HuangQi Decoction placebo
+- NCT07034807 | NOT_YET_RECRUITING | results=False | NA | YiqiJiangzhuoHuoxueTongluo Method to Delay the Occurrence of End-stage Renal Disease in Diabetic Kidney Disease--Study2 | conds: Diabetic Kidney Disease (DKD) | intr: the traditional Chinese medicine prescription ' Shenzhuo Decoction ', basic treatment
+- NCT01847807 | COMPLETED | results=False | PHASE3 | The Organ Protection of Astragalus in Subjects With Metabolic Syndrome | conds: Metabolic Syndrome | intr: low dose Astragalus, high dose astagalus
+- NCT03271697 | UNKNOWN | results=False | PHASE2,PHASE3 | Astragalus Membranaceus on Aneurysmal Subarachnoid Hemorrhage | conds: Aneurysmal Subarachnoid Hemorrhage | intr: Astragalus Membranaceus, Placebo
+- NCT00704236 | COMPLETED | results=False | PHASE4 | Improvement of Insulin Resistance With Traditional Chinese Treatment in Patients With Type 2 Diabetes | conds: Type 2 Diabetes | intr: Coptis Chinensis, Astragalus mambranesceus, Lonicera Japonica (Traditional Chinese Treatment), Place
+- NCT03623451 | UNKNOWN | results=False | NA | Serum Metabolomics Study of Traditional Chinese Medicine Formula （Shen Qi Tiao Ti Formula） Intervention to Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Chinese Medicine Formula
+- NCT01802021 | UNKNOWN | results=False | PHASE2,PHASE3 | Effect of Astragalus-based Formula: Qingshu-Yiqi-Tang on Modulating Immune Alterations in Lung Cancer Patients | conds: Carcinoma, Non-Small-Cell Lung | intr: Astagalus-based Formula: Qingshu-Yiqi-Tang
+- NCT06694597 | COMPLETED | results=False | PHASE2 | Efficacy, Safety of Astragalus Membranaceus in Mild-to-Moderate Alzheimer's Disease | conds: Alzheimer Disease | intr: Astragalus Membranaceus Root
+- NCT06375824 | NOT_YET_RECRUITING | results=False | NA | Bufei Recipe Reduces the Incidence Rate of COPD | conds: Preserved Ratio Impaired Spirometry | intr: Bufei Recipe, Bufei Recipe placebo
+- NCT04690283 | UNKNOWN | results=False | PHASE3 | Yiqi Wenjing Prescriptions Preventive Efficacy of Oxaliplatin-induced Peripheral Neuropathy Clinical Trial | conds: Chemotherapy-induced Peripheral Neuropathy, Colorectal Cancer | intr: Mimetic granules of Yiqi-Wenjing prescriptions, Huangqi-Guizhi-Wuwu granules, Danggui-Sini granules | pubs: ['34630609:DERIVED (new)']
+- NCT05647473 | UNKNOWN | results=False | PHASE2 | Efficacy, Safety and Response Predictors of Adjuvant Astragalus for Cognition in Orthostatic Hypotension | conds: Orthostatic Hypotension, Alzheimer Disease | intr: Routine treatment, add-on low dose Astragalus, add-on high dose Astragalus | pubs: ['39176240:DERIVED (new)']
+- NCT05747560 | UNKNOWN | results=False | NA | Study on the Effect of Dietary Supplements on Height Improvement in Children | conds: Body Height, Child, Only | intr: Buckwheat, Astragalus extract, Wolfiporia extract
+- NCT03654391 | COMPLETED | results=False | NA | Study of Obesity Control by Astragalus and Notoginseng Extrats | conds: Obesity | intr: InnoSlim, Placebo | pubs: [':RESULT (-)', '17269785:RESULT (new)', '26429938:RESULT (new)']
+- NCT04184440 | UNKNOWN | results=False | NA | The Hypoglycemic Effect of Cyclocarya Paliurus Extract on Hyperglycemic Populations | conds: Hyperglycemia | intr: Cyclocarya paliurus extract, Cyclocarya paliurus compounds, placebo
+- NCT06234072 | NOT_YET_RECRUITING | results=False | PHASE2 | Comparing Astragalus Plus Gemcitabine to Gemcitabine Alone as Neoadjuvant Treatment for Pancreatic Cancer Patients | conds: Pancreatic Cancer | intr: Astragalus + Gemcitabine, Gemcitabine alone
+- NCT03911921 | COMPLETED | results=False | PHASE2 | RSYR for Fatigue Reduction in Cancer Survivors | conds: Cancer-related Problem/Condition | intr: RSYRT decoction, Astragalus membranaceus | pubs: ['31668965:DERIVED (new)']
+- NCT02846207 | UNKNOWN | results=False | NA | Yiqi Huoxue Demolition and Recipes on Recovery Stage of Cerebral Infarction | conds: Cerebral Infarction | intr: Yiqi huoxue, Yiqi group, Huoxue group, placebo | pubs: ['37361203:DERIVED (new)']
+- NCT05598359 | NOT_YET_RECRUITING | results=False | NA | TA-65 and Aging Associated Microvascular Dysfunction | conds: Telomere Shortening, Aging, Vascular Diseases | intr: TA-65, Placebo
+- NCT02189083 | COMPLETED | results=False | PHASE3 | Study of Tumor-shrinking Decoction (TSD) to Treat Symptomatic Uterine Fibroids | conds: Leiomyoma | intr: TSD | pubs: [':RESULT (-)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', '21812264:RESULT (new)']
+- NCT06510530 | NOT_YET_RECRUITING | results=False | PHASE3 | Astragalus for Symptomatic Alleviation in High-grade Lymphoma | conds: High-grade Lymphoma | intr: Astragalus, Placebo
+- NCT06674252 | RECRUITING | results=False | NA | A Study on the Improvement of Postoperative Symptoms and Survival Benefits of Modified Bufei Decoction in Elderly Patients With Lung Cancer  | conds: Lung Cancers | intr: Jiawei Bufei Tang granules, Placebo
+- NCT07698574 | NOT_YET_RECRUITING | results=False | NA | Qiling Yiqi Tablets Plus Antiretroviral Therapy for HIV Immune Non-responders With Lung-Spleen Qi Deficiency | conds: HIV-1 Infection, Acquired Immunodeficiency Syndrome, Immune Reconstitution Failure, Immunological Non-responder | intr: Qiling Yiqi Tablets plus ART, Antiretroviral Therapy (ART)
+- NCT07320937 | ENROLLING_BY_INVITATION | results=False | NA | Effects of Yiqi Fuyuan Paste Formula in Chronic Fatigue Syndrome: A Randomized Double-Blind Controlled Clinical Trial. | conds: CFS | intr: "Yiqi Fuyuan Paste Formula" test group, Placebo(a look-alike substance that contains no drug)
+- NCT06176599 | UNKNOWN | results=False | NA | Clinical Study on the Treatment of Diabetic Kidney Disease With Shenxiao Yuning Decoction With Syndrome of Qi and Yin Deficiency and Blood S | conds: Diabetic Kidney Disease | intr: Shenxiao Yuning decoction, Symptomatic treatment
+- NCT07703709 | RECRUITING | results=False |  | Colorectal Cancer Real-world Outcomes Study of Survival With Immunomodulator Plus Standard Anti-cancer Therapies | conds: Survival , Tumor | intr: 
+- NCT04667598 | UNKNOWN | results=False | PHASE2 | Clinical and Metabonomics Study on the Treatment of Heart Failure After Myocardial Infarction With Modified Wenxin Decoction | conds: Heart Failure, Myocardial Infarction | intr: Modified Wenxin Decoction | pubs: ['29386200:RESULT (new)', '17090774:RESULT (new)', '9462531:RESULT (new)', '21709062:RESULT (new)', '19118718:RESULT (new)']
+- NCT02044835 | UNKNOWN | results=False | PHASE2,PHASE3 | The Evaluation Studies of Curative Effect of Fu-zheng-qu-zhuo Oral Liquid in Treatment of Ischemic Nephropathy | conds: Atherosclerotic Renal Artery Stenosis | intr: Fu-zheng-qu-zhuo oral liquid
+- NCT05875233 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Elix Cycle Balance and Daily Harmony on Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Elix Daily Harmony, Elix Cycle Balance
+- NCT01720550 | COMPLETED | results=False | PHASE4 | PG2 Treatment for Improving Fatigue Among Advanced Cancer Patients Under Standard Palliative Care | conds: Cancer-related Fatigue | intr: Astragalus Polysaccharides 500 mg, Astragalus Polysaccharides 250 mg
+- NCT02762136 | UNKNOWN | results=False | PHASE1,PHASE2 | Traditional Chinese Medicine Xiang-sha-liu-jun Granules in Patients With Postprandial Distress Syndrome(PDS) | conds: Postprandial Distress Syndrome | intr: placebo, Xiang-sha-liu-jun granules | pubs: ['31011363:DERIVED (new)']
+- NCT07320456 | NOT_YET_RECRUITING | results=False | PHASE2 | A Clinical Trial of Longqi Jiangzhi Decoction Against Non-alcoholic Fatty Liver Disease | conds: Hepatic Steatosis | intr: Longqi Jiangzhi decoction, Control placebo
+- NCT03418779 | UNKNOWN | results=False | PHASE2,PHASE3 | Treatment Effects of Chinese Medicine (Yi-Qi-Qing-Jie Herbal Compound) Combined With Immunosuppression Therapies in IgA Nephropathy Patients | conds: IgA Nephropathy at High Risk of Developing ESRD | intr: The Yi-Qi-Qing-Jie herbal compound, Immunosuppressants, Optimized Supportive Care, Yi-Qi-Qing-Jie he | pubs: ['38299639:DERIVED (new)', '31907076:DERIVED (new)']
+- NCT05724238 | UNKNOWN | results=False | NA | The Effects of Traditional Herbal Dietary Supplements on General Fatigue and Negative Emotions of Graduate Students | conds: Fatigue | intr: Traditional Herbal Supplements (Kuan Sin Yin), Placebo
+- NCT01780480 | COMPLETED | results=False | NA | Dynamic Combination Therapy on Chinese Herbal Granules to Improve the Symptoms in Convalescent Phase of Ischemic Stroke | conds: Ischemic Stroke, Convalescence | intr: Dynamic Chinese herbal granule formula, Placebo, Standard medical care
+- NCT01554787 | UNKNOWN | results=False | PHASE4 | Randomized, Double Blind, Placebo Control Trial to Evaluate the Efficacy of Astragalus Membranaceus in the Patients After Stroke With Fatigu | conds: Fatigue, Stroke | intr: Chinese Herb Astragalus membranaceus, Placebo
+- NCT01720563 | TERMINATED | results=False | PHASE2 | A Phase II Trial of PG2 in Patients With Advanced Pharyngeal or Laryngeal Squamous Cell Carcinoma Under Concurrent Chemoradiotherapy | conds: Cancer-related Fatigue | intr: Astragalus polysaccharides 500 mg, Placebo, Concurrent chemoradiotherapy with PUL (cisplatin/tegafur
+- NCT05312190 | UNKNOWN | results=False | NA | Clinical and Basic Researches Related to ZhenQi Buxue Oral Liquid in Treating Menstrual Disorders | conds: Menstrual Disorders | intr: ZhenQi BuXue KouFuYe, Progesterone Capsules
+- NCT00636103 | COMPLETED | results=False | PHASE1,PHASE2 | Efficacy Study of Herbal Formula CUF2 to Treat Childhood Asthma | conds: Asthma | intr: CUF2, Placebo | pubs: ['19821718:DERIVED (new)']
+- NCT01603667 | COMPLETED | results=False | PHASE2 | PG2 Injection 500 mg in Acute Stroke Study (Pass) | conds: Acute Stroke | intr: PG2, placebo
+- NCT03577938 | COMPLETED | results=False | NA | Study on the Optimal Strategy for Acute-on-chronic Liver Failure With Integrative Treatment | conds: Acute on Chronic Liver Failure, Traditional Chinese Medicine, Hepatitis B | intr: Chinese herbal medicine, Control (blank)
+- NCT07032116 | NOT_YET_RECRUITING | results=False |  | YiqiJiangzhuoHuoxueTongluo Method to Delay the Occurrence of End-stage Renal Disease in Diabetic Kidney Disease--Study1 | conds: Diabetic Kidney Disease (DKD) | intr: 
+- NCT07417371 | COMPLETED | results=False | NA | Study on the Mechanism of Pei Tu Ning Feng Tang in Alleviating Tourette Syndrome Via Functional Near-Infrared Spectroscopy (fNIRS) and the D | conds: Tourette Syndrome in Children | intr: Tourette Syndrome (TS) children were administered Pei Tu Ning Feng Tang treatment.
+- NCT03591471 | UNKNOWN | results=False | PHASE1,PHASE2 | Study on Children Henoch-Schönlein Purpura Nephritis With TCM Multistep Treatment | conds: Henoch-Schönlein Purpura Nephritis | intr: Glycosides Of Tripterygium Wilfordii Hook(GTW), Sulfotanshinone Sodium Injection, Chinese herbs base | pubs: ['31464626:DERIVED (new)']
+- NCT01428401 | COMPLETED | results=False | PHASE2 | Astragalus Membranaceus for Brain Edema Induced by Hemorrhagic Stroke | conds: Stroke, Hemorrhagic Transformation Due to Acute Stroke | intr: Chinese Herb Astragalus membranaceus, Placebo
+- NCT03535935 | UNKNOWN | results=False | PHASE2,PHASE3 | Efficacy, Safety and Response Predictors of Adjuvant Astragalus Therapy for Diabetic Kidney Disease | conds: Diabetic Nephropathies, Diabetic Kidney Disease | intr: Astragalus Powder, Routine medical care (active comparator) | pubs: ['38810556:DERIVED (new)', '33436470:DERIVED (new)']
+- NCT06193629 | UNKNOWN | results=False | NA | A Multicenter, Double-blind, Placebo-randomized Controlled Clinical Study on the Treatment of Non-alcoholic Steatohepatitis With Tibetan Dru | conds: NASH | intr: Lang Qingata, placebo
+- NCT02766790 | UNKNOWN | results=False | NA | Effect of TA-65MD on Healthy Volunteers | conds: Healthy | intr: TA-65MD, Placebo
+- NCT06979180 | RECRUITING | results=False | NA | A Clinical Trial to Investigate the Safety and Efficacy of Papillex® on Abnormal Cervical Cells Caused by HPV. | conds: CIN - Cervical Intraepithelial Neoplasia, CIN 1, CIN 2, HPV | intr: Papillex®, Placebo
+- NCT07657338 | NOT_YET_RECRUITING | results=False | NA | Effect of Chinese Herbal Medicine on Kidney Function in Non-Diabetic CKD | conds: Non-diabetic Chronic Kidney Disease | intr: Chinese herbal formula CKD-1
+- NCT07757061 | COMPLETED | results=False | NA | YQD Combined With Plant Lactobacillus for Slow Transit Constipation | conds: Constipation, Slow Transit Constipation | intr: YQD (Yìqì Jiànpí Decoction), Plant-derived Lactobacillus, Mosapride Citrate | pubs: ['35721169:RESULT (new)', '25212256:RESULT (new)', '34393788:RESULT (new)', '38276094:RESULT (new)']
+- NCT06813274 | NOT_YET_RECRUITING | results=False | PHASE2 | Multicenter RCT of Eye-Brain Imaging in Diabetes Neurovascular Coupling | conds: Diabetes Mellitus, Diabetic Retinopathy, Cognitive Impairment, Neurovascular Coupling | intr: hypoglycemic treatment, Tangshen'an Granules, Ginkgo Leaf Tablets, Mecobalamin Tablets
+- NCT07604805 | RECRUITING | results=False | NA | Efficacy and Safety of Qishen Yiqi Dropping Pills in Patients With Severe Pulmonary Hypertension | conds: Idiopathic Pulmonary Hypertension | intr: Qishen Yiqi Dropping Pills 0.5g Oral Three Times Daily + Targeted Therapy for Pulmonary Arterial Hyp
+- NCT06110260 | COMPLETED | results=False | NA | Pharmacokinetic Effect of AstraGin on Whey Protein Absorption and Muscle Function in Healthy Subjects | conds: Pharmacokinetic Effect of AstraGin on Whey Protein Absorption and Muscle Function in Healthy Subjects | intr: AstraGin (Ginseng and Astragalus Saponin Extract), Placebo
+- NCT02616120 | UNKNOWN | results=False | PHASE2 | Effect of SQJZ Herbal Mixtures on Non-motor Symptoms of Parkinson's Disease | conds: Parkinson's Disease | intr: SQJZ herbal mixtures, Placebo
+- NCT02275468 | COMPLETED | results=False | PHASE2 | Fu-zheng-qu-zhuo Oral Liquid Improves Renal Function in Patients of CKD Stage 3 and 4 | conds: Stage 3 Chronic Kidney Disease, Stage 4 Chronic Kidney Disease | intr: Fu-zheng-qu-zhuo (FZQZ) oral liquid
+- NCT07698223 | NOT_YET_RECRUITING | results=False | PHASE4 | Naoxintong Capsule for Diabetic Nephropathy With Dampness Retention Pattern: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Tri | conds: Diabetic Nephropathy | intr: Naoxintong Capsule, Placebo
+- NCT05583773 | RECRUITING | results=False | PHASE4 | SHengXIaN-QuYu DEcoction in Heart Failure With Reduced and Mildly Reduced Ejection Fraction | conds: Heart Failure | intr: ShengXian-QuYu Decoction, Placebo
+- NCT07382622 | COMPLETED | results=False | NA | Effect of JointIQ on Joint Discomfort in Healthy Subjects | conds: Joint Discomfort | intr: Astragaloside, Maltodextrin (Placebo)
+- NCT07601113 | COMPLETED | results=False |  | PG2 Breast Cancer Evaluation in Adjuvant Medicine-Survival Study | conds: Survival | intr: Astragalus polysaccharides 500 mg, Placebo
+- NCT03611712 | COMPLETED | results=False | PHASE2 | PG2 Concurrent With Chemoradiation for Locally Advanced Esophageal Cancer | conds: Cancer-related Fatigue, Survival, Tumor, Esophageal | intr: Astragalus Polysaccharides 500 mg
+- NCT03027375 | UNKNOWN | results=False | PHASE2 | Evaluating the Safety and Efficacy of Qishen Granules Among Patients With Chronic Heart Failure | conds: Heart Failure, Cardiovascular Diseases | intr: Qishen Granules, Placebo | pubs: ['26727047:RESULT (new)', '36618925:DERIVED (new)', '29017565:DERIVED (new)']
+- NCT02740959 | COMPLETED | results=False | NA | Effects of PG2 on Fatigue-Related Symptom Clusters | conds: Cancer-related Fatigue | intr: Astragalus Polysaccharides 500 mg, Astragalus Polysaccharides 250 mg
+- NCT07657351 | NOT_YET_RECRUITING | results=False | NA | Effect of Chinese Herbal Medicine on Renal Function in Diabetic Kidney Disease | conds: Diabetic Kidney Disease | intr: Chinese herbal formula DKD-1
+- NCT03375580 | UNKNOWN | results=False | NA | Therapeutic Effects of Compound Zhenzhu Tiaozhi Capsules in NAFLD | conds: Nonalcoholic Fatty Liver Disease | intr: TLC, metformin, Compound Zhenzhu Tiaozhi capsule, Simvastatin
+- NCT07664657 | NOT_YET_RECRUITING | results=False | NA | To Assess Dose Proportionality and Pharmacokinetic Linearity of Saninova Tablets in Healthy Participants Under Fasting Conditions | conds: Bioavailability and Pharmacokinetics | intr: Vitamin C, Vitamin B2, Astragalus Root dry extract etc
+- NCT02488252 | UNKNOWN | results=False | PHASE2,PHASE3 | Semi-individualised Chinese Medicine Treatment as an Adjuvant Management for Diabetic Nephropathy | conds: Diabetic Nephropathies | intr: Semi-individualised Chinese Medicine treatment, Routine medical care (active comparator) | pubs: ['37307005:DERIVED (new)', '27496229:DERIVED (new)']
+- NCT07815158 | NOT_YET_RECRUITING | results=False | NA | Multi-Component Nutrition, Intrinsic Capacity, and Physical Function in Older Adults | conds: Sarcopenia, Intrinsic Capacity | intr: Multi-Component Nutritional Formula, matched placebo
+- NCT06686355 | RECRUITING | results=False | PHASE2 | The Treatment of Sepsis Induced Myocardial Dysfunction With Yiqilishui Formula | conds: Sepsis Induced Myocardial Dysfunction | intr: Yiqilishui formula, Placebo
+- NCT02313233 | COMPLETED | results=True | NA | Research on Benefit of Umooze as Add- on Therapy in Benign Prostatic Hyperplasia | conds: Benign Prostatic Hyperplasia | intr: Umooze, Placebo
+- NCT05847959 | UNKNOWN | results=False | NA | The Relationship Between XinKang-I and Chronic Heart Failure | conds: Traditional Chinese Medicine | intr: Traditional Chinese medicine prescription：XinKang-I
+- NCT01866995 | UNKNOWN | results=False | PHASE3 | Efficacy Study of Phytotherapy "Raylis" In Congestive Processes Of The Pelvic Organs (Prostatostasis) | conds: Congestive Processes Of The Pelvic Organs (Prostatostasis), Erectile Dysfunction, Sexual Function | intr: "Raylis", standard prostatostasis therapy
+- NCT06557668 | RECRUITING | results=False |  | Clinical Outcomes of Treatment With Immunomodulator Plus Cancer Therapies for Patients With Colorectal Cancer | conds: Colorectal Cancer | intr: 
+- NCT07048158 | RECRUITING | results=False | NA | "Perfect Heartio" Drink and Cardiovascular Health | conds: Cardiovascular Diseases, Lipid Metabolism Disorders | intr: Perfect Heartio Drink
+- NCT05578443 | UNKNOWN | results=False | PHASE2 | Efficacy, Safety and Response Predictors of Astragalus Membranaceus on the Improvement of Cognitive Function in Mild-to-Moderate Alzheimer's | conds: Alzheimer's Disease | intr: 10g Astragalus, Routine treatment, 20g Astragalus
+- NCT05229029 | UNKNOWN | results=False | PHASE2 | RSYR for Fatigue Reduction in Cancer Fatigue Caused by Chemotherapy | conds: Cancer-related Problem/Condition | intr: TCM Formula, Placebo
+- NCT07276932 | RECRUITING | results=False | NA | Clinical Study of Acupoint Application on Relieving qi Deficiency and Constipation in Patients Undergoing Chemotherapy | conds: Postoperative Chemotherapy, Chemotherapy | intr: Acupoint application, Routine treatment and nursing of constipation
+- NCT07552675 | COMPLETED | results=False | NA | Effects of Astragalus Membranaceus on Muscle Function | conds: Healthy Adult | intr: Astragalus Membranaceus, Placebo
+
+### OpenAlex no-PMID trial-worded - 4933 hits, 19 without PMID, 18 new
+- new | 2026 | 10.5281/zenodo.24222851 | dataset | A Chinese Herbal Composition for Benign Prostatic Hyperplasia with Qi Deficiency and Blood Stasis Pattern: A Single-Centre, Open-Label, Randomised Controlled Trial | Zenodo (CERN European Organization for N
+- new | 2025 | 10.1101/2025.08.24.25334210 | preprint | Randomised, double-blind, placebo-controlled pilot clinical trial of jackfruit seed extract formulation (JaSE) for allergic rhinitis treatment | medRxiv
+- new | 2024 | 10.21203/rs.3.rs-5332179/v1 | preprint | Chinese medicine compound for the convalescent COVID-19 patients: A multicenter, randomized, double-blind, placebo-controlled clinical trial protocol | Research Square
+- HELD REF-5136 | 2021 | 10.1186/s40816-021-00306-z | article | Impact of Althaea Officinalis extract in patients with atopic eczema: a double-blind randomized controlled trial | Clinical Phytoscience
+- new | 2018 | 10.1097/01.hjh.0000548544.90583.37 | conference-abstract | A randomized controlled study of the effect of astragalus extract tablets on microalbuminuria in patients with hypertension and metabolic syndrome | Journal of Hypertension
+- new | 2018 | 10.1097/01.hjh.0000548567.45734.aa | conference-abstract | A randomized controlled clinical study of the effect of astragalus extract tablets on cardiac and vascular function in patients with hypertension and metabolic syndrome | Journal of Hypertension
+- new | 2018 | 10.26226/morressier.5afadd8bf314ac000849b24f | other | 21 / IMPROVEMENT OF QUALITY OF LIFE FOR ADVANCED CANCER PATIENT WITH INJECTION OF COMPLEMENTARY PG2 - A DOUBLE BLIND, MULTI-CENTER, RANDOMIZED PHASE IV STUDY | 
+- new | 2018 | 10.21203/rs.2.30/v1 | preprint | A multicenter, randomized, double-blind, placebo-controlled trial evaluating the efficacy and safety of Huang Qi Gui Zhi Wu Wu Tang granules in patients with rheumatoid arthritis | Research Square
+- new | 2016 | 10.4103/2468-5577.181240 | conference-abstract | HD6610 granules relieve oxaliplatin-induced peripheral neuropathy: study protocol for a multicenter randomized double-blind placebo-controlled trial | Asia Pacific Clinical and Translational 
+- new | 2015 | https://openalex.org/W2371432132 | article | Astragalus Membranaceus and 6 Gentleman Decoction Treatment of Chronic Gastritis Random Parallel Control Study | Journal of Practical Traditional Chinese
+- new | 2014 | 10.1096/fasebj.28.1_supplement.lb322 | conference-abstract | The effects of a multi‐herbal mixture HT042 on height gain in short children: a double‐blind, randomized, placebo‐controlled trial (LB322) | The FASEB Journal
+- new | 2014 | https://openalex.org/W3139997696 | article | Astragalus Membranaceus Injection Combined with Conventional Treatment for Viral Myocarditis：A Systematic Review of Randomized Controlled Trials | Chinese Journal of Integrative Medicine
+- new | 2014 | 10.1016/j.jtcms.2014.11.010 | article | Chinese herbal medicine for chronic heart failure: a multicenter, randomized, double-blind, placebo-controlled trial | Journal of Traditional Chinese Medical S
+- new | 2013 | 10.1136/heartjnl-2013-304613.661 | review | GW24-e2276 Astragalus membranaceus injection for viral myocarditis: a systematic review and meta-analysis of randomised clinical trials | Heart
+- new | 2011 | 10.1007/978-94-007-0526-5_3 | book-chapter | An Evidence-based Review of Astragalus membranaceus (Astragalus) for Cancer Patients | Evidence-based anticancer complementary 
+- new | 2007 | https://openalex.org/W2378509900 | article | Trial on Fertilization for High Efficiency Cultivation of Astragalus membranaceus in Dingxi,Gansu | Journal of Gansu Forestry Science and Te
+- new | 2007 | https://openalex.org/W2287937629 | article | An observation of a double blind placebo controlled study monitoring healthy athletes consuming a commercial preparation of nutraceuticals | Australian journal of medical herbalism
+- new | 2002 | https://openalex.org/W2380793184 | article | Effect of Astragalus membranaceus on hemorrheology in senile patients with angina pectoris | Xinxiang yixueyuan xuebao
+- new | 2000 | 10.1007/bf02947375 | article | Effects of astragalus membranaceus on urinary endothelin in patients with incipient diabetic nephropathy | Chinese journal of integrated traditiona
+
+## bacopa-monnieri (Bacopa monnieri) - name clause: "Bacopa monnieri"[tiab] OR "Bacopa monniera"[tiab] OR "Herpestis monniera"[tiab] OR "Bacopa"[ti] OR "brahmi"[ti]
+
+### PubMed HT - 87 hits, 87 not already listed above, 79 new
+- new | 2026 | 41575193 | Review | The efficacy of nutritional phytochemical compounds in improving cognition. | Int J Neuropsychopharmacol
+- new | 2026 | 41740144 |  | Efficacy of Bacopa monnieri (Linn.) on Cognitive Function and Alterations in Blood Metabolites in Patients With Amnestic Mild Cognitive Impairment and Early Alzheimer Disease: Prot | JMIR Res Protoc
+- new | 2026 | 41836921 |  | Effects of Bacopa monnieri herbal supplement on aging and neurocognitive functions, including neurophysiological assessments, in relation to constitution (Prakriti) in healthy adul | Front Med (Lausanne)
+- new | 2026 | 42616216 | Review | Bacopa monnieri and Alzheimer's disease: mechanistic convergence, cognitive outcomes and translational perspectives. | Inflammopharmacology
+- new | 2026 | 42489905 | Review | Plant-derived therapies in Parkinson's disease: a systematic review of clinical evidence. | J Neural Transm (Vienna)
+- new | 2026 | 41901106 | Review | System-Level, Molecular and Cellular Mechanisms of Selected Plant Adaptogens-A Review. | Nutrients
+- new | 2026 | 43030172 | Review | Nutraceutical, Nutritional and Phytotherapeutic Interventions for Neuropsychiatric Disorders Associated with Intellectual Disability: Mechanisms and Clinical Evidence. | Nutrients
+- new | 2026 | 42884579 | Review | The Role of Herbal Medicines in Cognitive Impairment: A Narrative Review of Neuroprotective Mechanisms and Therapeutic Perspectives. | Nutrients
+- new | 2026 | 42404568 | Clinical Trial | Changes in MoCA scores with sequential administration of Trikatu Cūrṇa and Brahmi Ghṛta in mild cognitive impairment: an exploratory single-arm clinical study. | Front Med (Lausanne)
+- new | 2026 | 42359794 | Review | Ayurvedic Dravya-Based Herbal Products for Cognition, Stress, Sleep, and Psychiatric Symptoms: A Node-Resolved Systematic Review and Meta-Analysis. | J Integr Complement Med
+- new | 2026 | 42865185 |  | Medicinal Plants in the Management of Anxiety Disorders: Clinical Evidence, Mechanisms, and Safety Considerations. | Curr Pharm Des
+- new | 2026 | 42102930 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Neurometabolite changes in cingulate cortex regions in healthy Indian population and effect of Bacopa monnieri intervention: a H(1) MRS study. | Neurochem Int
+- new | 2026 | 41678913 | Systematic Review/Network Meta-Analysis/Comparative Study | Comparative effects of Bacopa monnieri and Ginkgo biloba on cognitive functions: A systematic review and network meta-analysis. | Phytomedicine
+- new | 2026 | 42739755 | Review | Ayurveda Treatments for Insomnia: A Narrative Review. | J Clin Med
+- new | 2025 | 40768551 | Review | Herbal Medicines in Autism Spectrum Disorder: Therapeutic Potential, Plant Components, and Dosage Guidelines. | Altern Ther Health Med
+- new | 2025 | 40362791 | Systematic Review | Efficiency of Different Supplements in Alleviating Symptoms of ADHD with or Without the Use of Stimulants: A Systematic Review. | Nutrients
+- new | 2025 | 41091332 | Randomized Controlled Trial | The Effects of a Bacopa monnieri Extract (Bacumen(®)) on Cognition, Stress, and Fatigue in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Trial. | Clin Drug Investig
+- new | 2025 | 40609195 |  | Comparative efficacy of Medhya Rasayana,Bacopa monnieri, and Centella asiatica in enhancing memory and IQ of 8-10 year-old healthy boys: A prakriti-based double-blind, randomized c | J Ayurveda Integr Med
+- new | 2025 | 41640686 | Systematic Review | The effect of plant active substances on cognitive function in healthy older adults: a systematic review and network meta-analysis of randomized controlled trials. | Front Pharmacol
+- new | 2025 | 41035862 |  | "An exploratory randomized, double-blind, placebo- controlled trial protocol on combined Cognitive Behavioral Therapy and adjunct Brahmi (Bacopa monnieri) tablets in Premenstrual S | Front Med (Lausanne)
+- new | 2024 | 38538390 | Randomized Controlled Trial | Evaluating the effects of Bacopa monnieri on cognitive performance and sleep quality of patients with mild cognitive impairment: A triple-blinded, randomized, placebo-controlled tr | Explore (NY)
+- new | 2024 | 39631219 |  | Efficacy of Brahmi vati and Aswagandharista in major depressive disorder: A randomized controlled trial. | J Ayurveda Integr Med
+- new | 2024 | 38512715 | Randomized Controlled Trial | Neurocognitive effects a combined polyphenolic-rich herbal extract in healthy middle-aged adults - a randomised, double-blind, placebo-controlled study. | Nutr Neurosci
+- new | 2024 | 39626587 |  | Efficacy of ayurveda medications, Brahmi vati and Saraswatarista, in generalized anxiety disorder- a randomized controlled trial. | J Ayurveda Integr Med
+- new | 2023 | 36800346 | Randomized Controlled Trial | Bacopa monnieri in Patients with Parkinson's Disease: A Pilot Study. | J Med Food
+- new | 2023 | 37469645 |  | Nicotine Free Herbal Composition for Smoking De-Addiction - A Placebo Controlled, Double Blind, Randomized, Multicentric Clinical Study. | J Pharm Bioallied Sci
+- new | 2023 | 37032999 |  | Bacopa monnieri supplementation has no effect on serum brain-derived neurotrophic factor levels but beneficially modulates nuclear factor kappa B and cyclic AMP response element-bi | J Clin Transl Res
+- new | 2023 | 37592293 | Systematic Review/Research Support, Non-U.S. Gov't | A systematic review of the safety and efficacy on cognitive function of herbal and nutritional medicines in older adults with and without subjective cognitive impairment. | Syst Rev
+- new | 2023 | 36936504 | Review | Importance of high-quality evidence regarding the use of Bacopa monnieri in dementia. | Front Aging Neurosci
+- new | 2023 | 37885445 |  | Chronic supplementation of a multi-ingredient herbal supplement increases speed of cognitive task performance alongside changes in the urinary metabolism of dopamine and the gut mi | Front Nutr
+- new | 2022 | 35325682 |  | Efficacy of Brahmi vati in generalised anxiety disorder - Randomized double blind comparative clinical trial. | J Ayurveda Integr Med
+- new | 2022 | 35041248 | Randomized Controlled Trial | Effects of Bacopa monnieri (CDRI 08®) in a population of males exhibiting inattention and hyperactivity aged 6 to 14 years: A randomized, double-blind, placebo-controlled trial. | Phytother Res
+- new | 2022 | 35592415 | Systematic Review | Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis. | Front Pharmacol
+- new | 2022 | 36385888 |  | Assessing the Anti-inflammatory Effects of Bacopa-Derived Bioactive Compounds Using Network Pharmacology and In Vitro Studies. | ACS Omega
+- new | 2022 | 33650944 | Systematic Review | Modulation of the hypothalamic-pituitary-adrenal (HPA) axis by plants and phytonutrients: a systematic review of human trials. | Nutr Neurosci
+- new | 2022 | 36501109 | Randomized Controlled Trial | Investigating the Effects of a Multinutrient Supplement on Cognition, Mood and Biochemical Markers in Middle-Aged Adults with 'Optimal' and 'Sub-Optimal' Diets: A Randomized Double | Nutrients
+- new | 2022 | 35612544 | Review | Use of Bacopa monnieri in the Treatment of Dementia Due to Alzheimer Disease: Systematic Review of Randomized Controlled Trials. | Interact J Med Res
+- HELD REF-2108 | 2022 | 35043757 | Review | Bacopa monnieri for Disorders Affecting Brain: Current Perspectives. | Curr Top Med Chem
+- new | 2022 | 35692129 | Review | Ameliorative Effects of Phytomedicines on Alzheimer's Patients. | Curr Alzheimer Res
+- new | 2021 | 34370563 | Systematic Review | Dietary Supplement Ingredients for Optimizing Cognitive Performance Among Healthy Adults: A Systematic Review. | J Altern Complement Med
+- new | 2021 | 34367785 |  | An Evaluation of the Effects of a Non-caffeinated Energy Dietary Supplement on Cognitive and Physical Performance: A Randomized Double-Blind Placebo-Controlled Study. | Cureus
+- new | 2021 | 31736428 | Randomized Controlled Trial | Acute effects of combined Bacopa, American ginseng and whole coffee fruit on working memory and cerebral haemodynamic response of the prefrontal cortex: a double-blind, placebo-con | Nutr Neurosci
+- new | 2021 | 34063409 | Randomized Controlled Trial | Characterization of Metabolites in Plasma, Urine and Feces of Healthy Participants after Taking Brahmi Essence for Twelve Weeks Using LC-ESI-QTOF-MS Metabolomic Approach. | Molecules
+- new | 2021 | 33692683 |  | The Neurocognitive Effects of Bacopa monnieri and Cognitive Training on Markers of Brain Microstructure in Healthy Older Adults. | Front Aging Neurosci
+- new | 2021 | 34256038 | Clinical Trial Protocol | A randomized phase II remote study to assess Bacopa for Gulf War Illness associated cognitive dysfunction: Design and methods of a national study. | Life Sci
+- new | 2021 | 33436817 | Research Support, Non-U.S. Gov't | The effectiveness of Bacopa monnieri (Linn.) Wettst. as a nootropic, neuroprotective, or antidepressant supplement: analysis of the available clinical data. | Sci Rep
+- new | 2020 | 32236999 | Randomized Controlled Trial | Bacopa monnieri as augmentation therapy in the treatment of anhedonia, preclinical and clinical evaluation. | Phytother Res
+- new | 2020 | 33375429 | Randomized Controlled Trial | Improvement of Executive Function after Short-Term Administration of an Antioxidants Mix Containing Bacopa, Lycopene, Astaxanthin and Vitamin B12: The BLAtwelve Study. | Nutrients
+- new | 2020 | 33688125 |  | Efficacy of Bacopa Monnieri (Brahmi) and Donepezil in Alzheimer's Disease and Mild Cognitive Impairment: A Randomized Double-Blind Parallel Phase 2b Study. | Ann Indian Acad Neurol
+- new | 2019 | 31363591 |  | Brahmi (Bacopa monnieri Linn) in the treatment of dementias - a pilot study. | Future Healthc J
+- new | 2019 | 31182153 | Clinical Trial Protocol | Efficacy of Cognition Support Formula® on cognitive function in older adults with subjective cognitive impairment: a protocol for a 26-week, randomised, double-blind, placebo-contr | Trials
+- new | 2019 | 30611275 | Research Support, Non-U.S. Gov't/Clinical Trial Protocol | The Australian Research Council Longevity Intervention (ARCLI) study protocol (ANZCTR12611000487910) addendum: neuroimaging and gut microbiota protocol. | Nutr J
+- new | 2019 | 29242090 |  | Effect of Brahmi vati and Sarpagandha Ghana vati in management of essential hypertension - A randomized, double blind, clinical study. | J Ayurveda Integr Med
+- new | 2017 | 29165401 | Review | Systematic Overview of Bacopa monnieri (L.) Wettst. Dominant Poly-Herbal Formulas in Children and Adolescents. | Medicines (Basel)
+- new | 2017 | 29188854 | Randomized Controlled Trial | Short-Term Impact of a Combined Nutraceutical on Cognitive Function, Perceived Stress and Depression in Young Elderly with Cognitive Impairment: A Pilot, Double-Blind, Randomized C | J Prev Alzheimers Dis
+- new | 2017 | 29204115 |  | A Randomized, Double-Blind Study Assessing Changes in Cognitive Function in Indian School Children Receiving a Combination of Bacopa monnieri and Micronutrient Supplementation vs.  | Front Pharmacol
+- new | 2016 | 27803728 |  | Efficacy of Standardized Extract of Bacopa monnieri (Bacognize®) on Cognitive Functions of Medical Students: A Six-Week, Randomized Placebo-Controlled Trial. | Evid Based Complement Alternat Med
+- HELD REF-2111 | 2015 | 26413126 | Review | Bacopa monnieri as an Antioxidant Therapy to Reduce Oxidative Stress in the Aging Brain. | Evid Based Complement Alternat Med
+- new | 2015 | 25902818 |  | Effects of organic extracts and their different fractions of five Bangladeshi plants on in vitro thrombolysis. | BMC Complement Altern Med
+- new | 2015 | 26633481 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Randomized Controlled Trial Investigating the Effects of a Special Extract of Bacopa monnieri (CDRI 08) on Hyperactivity and Inattention in Male Children and Adolescents: BACHI S | Nutrients
+- HELD REF-2107 | 2014 | 24252493 | Meta-Analysis/Review | Meta-analysis of randomized controlled trials on cognitive effects of Bacopa monnieri extract. | J Ethnopharmacol
+- new | 2014 | 23788517 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An acute, double-blind, placebo-controlled cross-over study of 320 mg and 640 mg doses of Bacopa monnieri (CDRI 08) on multitasking stress reactivity and mood. | Phytother Res
+- new | 2014 | 25316430 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Management of cognitive determinants in senile dementia of Alzheimer's type: therapeutic potential of a novel polyherbal drug product. | Clin Drug Investig
+- new | 2014 | 24682000 | Clinical Trial | An open-label study to elucidate the effects of standardized Bacopa monnieri extract in the management of symptoms of attention-deficit hyperactivity disorder in children. | Adv Mind Body Med
+- new | 2013 | 23043278 | Comparative Study/Review | Cognitive effects of two nutraceuticals Ginseng and Bacopa benchmarked against modafinil: a review and comparison of effect sizes. | Br J Clin Pharmacol
+- new | 2013 | 23354535 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Brahmi for the better? New findings challenging cognition and anti-anxiety effects of Brahmi (Bacopa monniera) in healthy adults. | Psychopharmacology (Berl)
+- new | 2013 | 23281132 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An acute, double-blind, placebo-controlled crossover study of 320 mg and 640 mg doses of a special extract of Bacopa monnieri (CDRI 08) on sustained cognitive performance. | Phytother Res
+- new | 2013 | 23772955 | Review | Neuropharmacological review of the nootropic herb Bacopa monnieri. | Rejuvenation Res
+- new | 2013 | 25284947 |  | Evaluation of Brāhmī ghṛtam in children suffering from Attention Deficit Hyperactivity Disorder. | Anc Sci Life
+- HELD REF-3456 | 2012 | 22747190 | Research Support, Non-U.S. Gov't/Systematic Review | The cognitive-enhancing effects of Bacopa monnieri: a systematic review of randomized, controlled human clinical trials. | J Altern Complement Med
+- new | 2012 | 22390677 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized controlled trial investigating the effect of Pycnogenol and Bacopa CDRI08 herbal medicines on cognitive, cardiovascular, and biochemical functioning in cognitively hea | Nutr J
+- new | 2012 | 23320031 |  | Effects of 12-Week Bacopa monnieri Consumption on Attention, Cognitive Processing, Working Memory, and Functions of Both Cholinergic and Monoaminergic Systems in Healthy Elderly Vo | Evid Based Complement Alternat Med
+- new | 2011 | 21827936 | Systematic Review | Complementary medicines (herbal and nutritional products) in the treatment of Attention Deficit Hyperactivity Disorder (ADHD): a systematic review of the evidence. | Complement Ther Med
+- HELD REF-3457 | 2010 | 20590480 | Randomized Controlled Trial | Does Bacopa monnieri improve memory performance in older persons? Results of a randomized, placebo-controlled, double-blind trial. | J Altern Complement Med
+- HELD REF-0740 | 2008 | 18611150 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly: a randomized, double-blind, placebo-controlled trial. | J Altern Complement Med
+- new | 2008 | 18683852 | Randomized Controlled Trial | Examining the nootropic effects of a special extract of Bacopa monniera on human cognitive functioning: 90 day double-blind placebo-controlled randomized trial. | Phytother Res
+- new | 2007 | 17442556 | Clinical Trial, Phase I/Randomized Controlled Trial | Safety evaluation of BacoMind in healthy volunteers: a phase I study. | Phytomedicine
+- new | 2006 | 20703343 |  | Randomized controlled trial of standardized Bacopa monniera extract in age-associated memory impairment. | Indian J Psychiatry
+- new | 2006 | 16428031 | Systematic Review | Herbal remedies for anxiety - a systematic review of controlled clinical trials. | Phytomedicine
+- new | 2006 | 20703342 |  | Anti-amnestic properties of Brahmi and Mandookaparni in a rat model. | Indian J Psychiatry
+- new | 2004 | 14994318 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Effects of a combined extract of Ginkgo biloba and Bacopa monniera on cognitive function in healthy humans. | Hum Psychopharmacol
+- HELD REF-3458 | 2002 | 12093601 | Clinical Trial/Randomized Controlled Trial | Chronic effects of Brahmi (Bacopa monnieri) on human memory. | Neuropsychopharmacology
+- HELD REF-0283 | 2001 | 11498727 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The chronic effects of an extract of Bacopa monniera (Brahmi) on cognitive function in healthy human subjects. | Psychopharmacology (Berl)
+- new | 2001 | 12404571 |  | The acute effects of an extract of Bacopa monniera (Brahmi) on cognitive function in healthy normal subjects. | Hum Psychopharmacol
+- new | 2000 | 10748962 | Review | Traditional Indian systems of medicine. | Ann Acad Med Singap
+- new | 1999 | 10383479 | Review | A review of nutrients and botanicals in the integrative management of cognitive dysfunction. | Altern Med Rev
+- new | 1966 | 5337552 | Clinical Trial | Clinical trial on Brahmi. I. | J Exp Med Sci
+
+### PubMed SR - 30 hits, 12 not already listed above, 11 new
+- new | 2026 | 42154395 | Review | Plant-derived neuroprotective compounds and nanoformulations targeting Parkinson's disease: a semi-systematic review of mechanisms and therapeutic potential. | Metab Brain Dis
+- new | 2025 | 40077768 | Systematic Review | Exploring Antioxidant Properties of Standardized Extracts from Medicinal Plants Approved by the Thai FDA for Dietary Supplementation. | Nutrients
+- new | 2025 | 40002547 | Review | Cholinesterase Inhibitors from Plants and Their Potential in Alzheimer's Treatment: Systematic Review. | Brain Sci
+- new | 2025 | 39498770 | Systematic Review | Effectiveness of Bacopa Monnieri (Brahmi) in the management of schizophrenia: a systematic review. | Nutr Neurosci
+- new | 2024 | 38671841 | Review | Investigating the Neuroprotective and Cognitive-Enhancing Effects of Bacopa monnieri: A Systematic Review Focused on Inflammation, Oxidative Stress, Mitochondrial Dysfunction, and  | Antioxidants (Basel)
+- new | 2024 | 39212516 | Systematic Review | Therapeutic Evaluation of Unani Medicine, Including Single Drugs and Polyherbal Formulations with Special Reference to Neurodegenerative Disorders. | Altern Ther Health Med
+- HELD REF-0741 | 2023 | 34978226 | Systematic Review | Plant-derived nootropics and human cognition: A systematic review. | Crit Rev Food Sci Nutr
+- new | 2023 | 36987052 | Review | Nootropic Herbs, Shrubs, and Trees as Potential Cognitive Enhancers. | Plants (Basel)
+- new | 2021 | 34635149 | Research Support, Non-U.S. Gov't | Protocols for cognitive enhancement. A user manual for Brain Health Services-part 5 of 6. | Alzheimers Res Ther
+- new | 2019 | 30610931 | Systematic Review | Herbal medicine for epilepsy seizures in Asia, Africa and Latin America: A systematic review. | J Ethnopharmacol
+- new | 2018 | 29289576 | Systematic Review | Botanicals and phytochemicals active on cognitive decline: The clinical evidence. | Pharmacol Res
+- new | 2016 | 27912958 | Systematic Review | A systematic review of the Ayurvedic medicinal herb Bacopa monnieri in child and adolescent populations. | Complement Ther Med
+
+### PubMed SAFE - 144 hits, 115 not already listed above, 114 new
+- new | 2026 | 40114569 | Review | Frontotemporal Dementia, Current Diagnosis and Treatment Emphasis on Natural Products: A Review. | Curr Aging Sci
+- new | 2026 | 42046696 |  | Protective effects of Bacopa monnieri against cisplatin-induced hepatorenal toxicity in rats: biochemical, oxidative stress, histopathological, and Kidney Injury Molecule-1-based e | Vet World
+- new | 2026 | 42432343 |  | Preparation of bacoside A encapsulated PLGA-PEG nanoparticles for neuroprotection against kainic acid-induced excitotoxicity. | Inflammopharmacology
+- new | 2026 | 41193727 | Comparative Study | Efficacy of Bacopa monnieri in Mitigating Lead-Induced Blood Toxicity in Swiss Albino Mice Compared to Synthetic Antioxidants. | Biol Trace Elem Res
+- new | 2026 | 41747600 | Review | NLRP3 inflammasome as a therapeutic target in oral squamous cell carcinoma: implications for tumorigenesis and immunomodulation. | Int Immunopharmacol
+- new | 2026 | 41621295 |  | Structure-based computational assessment of Bacopa monnieri-derived compounds as potential dual target anti-seizure medications: An integrated docking and molecular dynamics simula | J Mol Graph Model
+- new | 2026 | 42715952 |  | Identification of Three Cytochrome P450 Enzymes Responsible for the Biosynthesis of Jujubogenin and Its De Novo Production in Yeast. | J Agric Food Chem
+- new | 2026 | 42492168 |  | Multitarget anticancer profiling of Withania somnifera - Dual herbal combination with P. emblica, B. monnieri, and O. basilicum through integrated In silico docking and In vitro Ju | J Ayurveda Integr Med
+- new | 2026 | 41092991 |  | Neuromodulatory efficacy of Bacopa monniera extract against streptozotocin-induced neuronal dysfunction in SH-SY5Y cells: Implications for diabetic neuropathy. | Toxicol In Vitro
+- new | 2026 | 42280440 | Review | Herbal Neurotherapeutics for Cognitive Disorders: Integrative Mechanisms Linking Neurotransmitter Systems, Neurodegeneration, and the Gut-Brain Axis. | Nutrients
+- new | 2026 | 43012273 |  | Adaptogens in Stress-Related Disorders: Scientific and Pharmacological Review. | Cent Nerv Syst Agents Med Chem
+- new | 2025 | 40507208 | Review | Bacopa monnieri: Preclinical and Clinical Evidence of Neuroactive Effects, Safety of Use and the Search for Improved Bioavailability. | Nutrients
+- new | 2025 | 40006589 |  | Polyphenols from Bacopa procumbens Nanostructured with Gold Nanoparticles Stimulate Hair Growth Through Apoptosis Modulation in C57BL/6 Mice. | Pharmaceutics
+- new | 2025 | 40294146 |  | Therapeutic potential of Bacopa monnieri extracts against hepatocellular carcinoma through in-vitro and computational studies. | PLoS One
+- new | 2025 | 39858449 | Research Support, Non-U.S. Gov't | Enhancement of Doxorubicin Efficacy by Bacopaside II in Triple-Negative Breast Cancer Cells. | Biomolecules
+- new | 2025 | 41465341 |  | Aqueous Extract of Bacopa procumbens and the NAPEL Formulation Mitigate MPTP-Induced Neurotoxicity via Nrf2/HSF1/HIF-1α Signaling in a Parkinson's Disease Model. | Int J Mol Sci
+- new | 2025 | 41569056 |  | Anticancer potential of ethanolic Bacopa monnieri L. extract: induction of intrinsic apoptosis in A549 lung cancer cells. | J Physiol Pharmacol
+- new | 2025 | 40809182 |  | Synergistic anticancer effect of CDRI-08 and abiraterone acetate against castration resistant prostate cancer targeting PI3K/Akt pathway. | Iran J Basic Med Sci
+- new | 2025 | 41169277 |  | Unveiling the intriguing potential of Bacopa monnieri extract in alleviating cypermethrin-induced hypothyroidism and oxidative stress in female mice. | Toxicol Res
+- new | 2025 | 40325532 |  | Bioactive Compound Chemistry and Antiasthmatic Activity of Betulinic Acid and Taraxerol in Experimental Models. | Curr Top Med Chem
+- new | 2025 | 40297338 | Review | Regulation of chronic neuroinflammation through dietary herbal products. | Front Nutr
+- new | 2025 | 40074429 |  | High-throughput screening of natural antiviral drug candidates against white spot syndrome virus targeting VP28 in Penaeus monodon: Computational drug design approaches. | J Genet Eng Biotechnol
+- new | 2024 | 36999188 | Review | The Zebrafish Model as a New Discovery Path for Medicinal Plants in the Treatment of Parkinson's Disease. | CNS Neurol Disord Drug Targets
+- new | 2024 | 38655144 |  | Modulatory potential of Bacopa monnieri against aflatoxin B1 induced biochemical, molecular and histological alterations in rats. | Toxicol Res (Camb)
+- new | 2024 | 38983632 |  | Comprehensive in vitro and in vivo evaluation of therapeutic potential of Bacopa-derived asiatic acid against a human oral pathogen Streptococcus mutans. | Front Microbiol
+- new | 2024 | 39349220 | Research Support, Non-U.S. Gov't | Bacopa monnieri confers neuroprotection by influencing signaling pathways associated with interleukin 4, 13 and extracellular matrix organization in Alzheimer's disease: A proteomi | Neurochem Int
+- new | 2024 | 40034353 |  | Synergistic activity of nootropic herbs as potent therapeutics for Alzheimer's disease: A cheminformatics, pharmacokinetics, and system pharmacology approach. | J Alzheimers Dis Rep
+- new | 2023 | 36943953 | Study Guide | Bacopa monnieri. | 
+- new | 2023 | 37315665 |  | Investigating MARK4 inhibitory potential of Bacopaside II: Targeting Alzheimer's disease. | Int J Biol Macromol
+- new | 2023 | 37658962 | Retraction Notice | Retraction Note: Bacopa monnieri attenuates glutamate-induced nociception and brain mitochondrial toxicity in zebrafish. | Metab Brain Dis
+- new | 2023 | 37829299 |  | Harder, better, faster, stronger? Retrospective chart review of adverse events of interactions between adaptogens and antidepressant drugs. | Front Pharmacol
+- new | 2023 | 36416249 | Case Reports/Letter | Necrotizing myopathy with elevated anti-HMGCR antibodies following exposure to the supplement Bacopa. | Muscle Nerve
+- new | 2023 | 36221888 |  | Computational Analysis of Bacopa monnieri (L.) Wettst. Compounds for Drug Development against Neurodegenerative Disorders. | Curr Comput Aided Drug Des
+- HELD REF-2109 | 2023 | 36716837 |  | Bacopa monnieri reduces Tau aggregation and Tau-mediated toxicity in cells. | Int J Biol Macromol
+- new | 2023 | 37244150 |  | Advanced network pharmacology study reveals multi-pathway and multi-gene regulatory molecular mechanism of Bacopa monnieri in liver cancer based on data mining, molecular modeling, | Comput Biol Med
+- new | 2023 | 35819370 | Review | A comprehensive review on tissue culture studies and secondary metabolite production in Bacopa monnieri L. Pennell: a nootropic plant. | Crit Rev Biotechnol
+- new | 2023 | 36261695 |  | Discovery of Molecular Networks of Neuroprotection Conferred by Brahmi Extract in Aβ(42)-Induced Toxicity Model of Drosophila melanogaster Using a Quantitative Proteomic Approach. | Mol Neurobiol
+- new | 2023 | 37209564 | Research Support, N.I.H., Extramural | Neuroprotective effect of herbal extracts inhibiting soluble epoxide hydrolase (sEH) and cyclooxygenase (COX) against chemotherapy-induced cognitive impairment in mice. | Biochem Biophys Res Commun
+- new | 2022 | 35765109 | Case Reports | Suspected cholinergic toxicity due to cevimeline hydrochloride and Bacopa monnieri interaction: a case report. | J Med Case Rep
+- new | 2022 | 34817757 | Research Support, Non-U.S. Gov't/Retracted Publication | Bacopa monnieri attenuates glutamate-induced nociception and brain mitochondrial toxicity in Zebrafish. | Metab Brain Dis
+- new | 2022 | 36404953 |  | Identification of potential inhibitors of brain-specific CYP46A1 from phytoconstituents in Indian traditional medicinal plants. | J Proteins Proteom
+- new | 2022 | 33573549 | Review | Role of Medicinal Plants against Neurodegenerative Diseases. | Curr Pharm Biotechnol
+- new | 2022 | 36008901 | Review | Mechanisms of natural products as potential antiepileptic drugs. | Pak J Pharm Sci
+- new | 2021 | 34541370 | Review | The effects of twenty-one nutrients and phytonutrients on cognitive function: A narrative review. | J Clin Transl Res
+- new | 2021 | 34315377 | Review | The Safety and Efficacy of Botanicals with Nootropic Effects. | Curr Neuropharmacol
+- new | 2021 | 34245808 | Research Support, Non-U.S. Gov't/Review | Experimental evidence and mechanism of action of some popular neuro-nutraceutical herbs. | Neurochem Int
+- new | 2021 | 33808219 |  | Biomimetic Chromatographic Studies Combined with the Computational Approach to Investigate the Ability of Triterpenoid Saponins of Plant Origin to Cross the Blood-Brain Barrier. | Int J Mol Sci
+- new | 2021 | 33728274 |  | Antiepileptic potential of Bacopa monnieri in the rat brain during PTZ-induced epilepsy with reference to cholinergic system and ATPases. | J Tradit Complement Med
+- new | 2021 | 34357519 |  | Bacopaside-I Alleviates the Detrimental Effects of Acute Paraquat Intoxication in the Adult Zebrafish Brain. | Neurochem Res
+- new | 2021 | 33818685 |  | Characterization of MYB35 regulated methyl jasmonate and wound responsive Geraniol 10-hydroxylase-1 gene from Bacopa monnieri. | Planta
+- new | 2020 | 32432018 | Case Reports | Elicitation and enhancement of bacoside production using suspension cultures of Bacopa monnieri (L.) Wettst. | 3 Biotech
+- new | 2020 | 33170159 | Review | Food supplements based on palmitoylethanolamide plus hydroxytyrosol from olive tree or Bacopa monnieri extracts for neurological diseases. | Acta Biomed
+- new | 2020 | 32953562 |  | Bacopa monnieri (L.) wettst. Extract protects against glutamate toxicity and increases the longevity of Caenorhabditis elegans. | J Tradit Complement Med
+- new | 2020 | 32264808 | Research Support, Non-U.S. Gov't/Review | Plant Extracts and Isolated Compounds Reduce Parameters of Oxidative Stress Induced by Heavy Metals: An up-to-Date Review on Animal Studies. | Curr Pharm Des
+- new | 2019 | 30677568 |  | Structural bioinformatics-based identification of putative plant based lead compounds for Alzheimer Disease Therapy. | Comput Biol Chem
+- new | 2019 | 31379302 | Comparative Study | A comparison of hepatoprotective activity of Bacoside to Silymarin treatment against a combined Isoniazid and Rifampin-induced hepatotoxicity in female Wistar rats. | J Histotechnol
+- new | 2018 | 30296463 | Research Support, Non-U.S. Gov't | Bacopa monnieri alleviates paraquat induced toxicity in Drosophila by inhibiting jnk mediated apoptosis through improved mitochondrial function and redox stabilization. | Neurochem Int
+- new | 2017 | 28588366 | Review | Neurocognitive Effect of Nootropic Drug Brahmi (Bacopa monnieri) in Alzheimer's Disease. | Ann Neurosci
+- new | 2017 | 27030208 |  | Safety assessment of selected medicinal food plants used in Ayurveda through CYP450 enzyme inhibition study. | J Sci Food Agric
+- new | 2017 | 29464125 | Research Support, Non-U.S. Gov't/Review | Botanicals as Modulators of Neuroplasticity: Focus on BDNF. | Neural Plast
+- new | 2017 | 28599249 | Review | Important medicinal herbs in Parkinson's disease pharmacotherapy. | Biomed Pharmacother
+- new | 2017 | 28583132 |  | A bacosides containing Bacopa monnieri extract alleviates allodynia and hyperalgesia in the chronic constriction injury model of neuropathic pain in rats. | BMC Complement Altern Med
+- new | 2017 | 27907870 | Evaluation Study/Validation Study | Immunochromatographic determination of bacopaside I in biological samples. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2016 | 27441247 |  | Beneficial effects of Bacopa monnieri extract on opioid induced toxicity. | Heliyon
+- new | 2016 | 27007136 |  | Reparation of Isoniazid and Rifampicin Combinatorial Therapy-Induced Hepatotoxic Effects by Bacopa monnieri. | Pharmacology
+- new | 2016 | 27651261 |  | Indian Herbs for the Treatment of Neurodegenerative Disease. | Adv Neurobiol
+- new | 2016 | 27270262 | Validation Study | A simple LC-ESI-MS/MS method for quantification of bacopaside I in rat plasma and its application to a pharmacokinetic study. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2016 | 27017568 | Validation Study | Analysis of bacopaside I in biomatrices using liquid chromatography-tandem mass spectrometry: Pharmacokinetics and brain distribution in Swiss-albino mice. | J Pharm Biomed Anal
+- new | 2016 | 27432245 |  | Bacopa monnieri-Induced Protective Autophagy Inhibits Benzo[a]pyrene-Mediated Apoptosis. | Phytother Res
+- new | 2015 | 26413128 |  | Mechanisms, Efficacy, and Safety of Bacopa monnieri (Brahmi) for Cognitive and Brain Enhancement. | Evid Based Complement Alternat Med
+- new | 2015 | 26413118 | Review | Bacoside A: Role in Cigarette Smoking Induced Changes in Brain. | Evid Based Complement Alternat Med
+- new | 2015 | 25420521 |  | Isolation and evaluation of cytogenetic effect of Brahmi saponins on cultured human lymphocytes exposed in vitro. | Nat Prod Res
+- new | 2015 | 25869246 |  | In vitro effects of standardized extract of Bacopa monniera and its five individual active constituents on human P-glycoprotein activity. | Xenobiotica
+- new | 2015 | 25322339 |  | Neuroprotective effect of Brahmi, an ayurvedic drug against oxidative stress induced by methyl mercury toxicity in rat brain mitochondrial-enriched fractions. | Nat Prod Res
+- new | 2015 | 25965066 | Research Support, Non-U.S. Gov't | In Silico and In Vitro Analysis of Bacoside A Aglycones and Its Derivatives as the Constituents Responsible for the Cognitive Effects of Bacopa monnieri. | PLoS One
+- new | 2015 | 26353618 |  | Bacopa monniera Stabilized Silver Nanoparticles Attenuates Oxidative Stress Induced by Aluminum in Albino Mice. | J Nanosci Nanotechnol
+- new | 2015 | 25856700 | Research Support, Non-U.S. Gov't | Antipsychotic activity of standardized Bacopa extract against ketamine-induced experimental psychosis in mice: Evidence for the involvement of dopaminergic, serotonergic, and choli | Pharm Biol
+- new | 2014 | 24061554 |  | Anti-apoptotic mechanism of Bacoside rich extract against reactive nitrogen species induced activation of iNOS/Bax/caspase 3 mediated apoptosis in L132 cell line. | Cytotechnology
+- new | 2014 | 24566323 | Research Support, Non-U.S. Gov't | Inhibition of human cytochrome P450 enzymes by Bacopa monnieri standardized extract and constituents. | Molecules
+- new | 2014 | 25241988 | Research Support, Non-U.S. Gov't | Neuroprotective effects of Bacopa monniera whole-plant extract against aluminum-induced hippocampus damage in rats: evidence from electron microscopic images. | Chin J Physiol
+- new | 2014 | 24610528 |  | Neuroprotective and anti-apoptotic propensity of Bacopa monniera extract against sodium nitroprusside induced activation of iNOS, heat shock proteins and apoptotic markers in PC12  | Neurochem Res
+- new | 2014 | 24497742 |  | Ethanolic extracts of Alstonia Scholaris and Bacopa Monniera possess neuroleptic activity due to anti-dopaminergic effect. | Pharmacognosy Res
+- new | 2014 | 24523587 |  | Cognitive effects of a dietary supplement made from extract of Bacopa monnieri, astaxanthin, phosphatidylserine, and vitamin E in subjects with mild cognitive impairment: a noncomp | Neuropsychiatr Dis Treat
+- new | 2014 | 25295673 | Research Support, Non-U.S. Gov't | Attenuation of cisplatin-induced emetogenesis by standardized Bacopa monnieri extracts in the pigeon: behavioral and neurochemical correlations. | Planta Med
+- new | 2013 | 23210787 | Review | Preclinical profile of bacopasides from Bacopa monnieri (BM) as an emerging class of therapeutics for management of chronic pains. | Curr Med Chem
+- new | 2013 | 23402822 | Research Support, Non-U.S. Gov't | Neuroprotective mechanisms of the standardized extract of Bacopa monniera in a paraquat/diquat-mediated acute toxicity. | Neurochem Int
+- new | 2013 | 24015255 | Research Support, Non-U.S. Gov't | Evaluation of memory enhancing clinically available standardized extract of Bacopa monniera on P-glycoprotein and cytochrome P450 3A in Sprague-Dawley rats. | PLoS One
+- new | 2012 | 38718157 | Review | Bacopa monnieri. | 
+- new | 2012 | 23326095 |  | Add-on effect of Brahmi in the management of schizophrenia. | J Ayurveda Integr Med
+- new | 2012 | 22143822 |  | Prevention of age-associated neurodegeneration and promotion of healthy brain ageing in female Wistar rats by long term use of bacosides. | Biogerontology
+- new | 2012 | 21972102 | Research Support, Non-U.S. Gov't | Standardized extracts of Bacopa monniera protect against MPP+- and paraquat-induced toxicity by modulating mitochondrial activities, proteasomal functions, and redox pathways. | Toxicol Sci
+- new | 2012 | 22472017 | Research Support, Non-U.S. Gov't | Pretreatment with Bacopa monnieri extract offsets 3-nitropropionic acid induced mitochondrial oxidative stress and dysfunctions in the striatum of prepubertal mouse brain. | Can J Physiol Pharmacol
+- new | 2011 | 21366957 | Comparative Study | Protective potential of Bacopa monniera (Brahmi) extract on aluminum induced cerebellar toxicity and associated neuromuscular status in aged rats. | Cell Mol Biol (Noisy-le-grand)
+- new | 2011 | 22025816 |  | A multi-criteria decision analysis model to assess the safety of botanicals utilizing data on history of use. | Toxicol Int
+- new | 2010 | 19916024 |  | Chemopreventive effect of bacoside A on N-nitrosodiethylamine-induced hepatocarcinogenesis in rats. | J Cancer Res Clin Oncol
+- new | 2010 | 21966114 |  | Potential Effect of Bacopa monnieri on Nitrobenzene Induced Liver Damage in Rats. | Indian J Clin Biochem
+- new | 2010 | 19757037 | Research Support, Non-U.S. Gov't | Scopolamine induced amnesia is reversed by Bacopa monniera through participation of kinase-CREB pathway. | Neurochem Res
+- new | 2009 | 19154788 | Research Support, Non-U.S. Gov't | Bacopa monniera leaf extract ameliorates hypobaric hypoxia induced spatial memory impairment. | Neurobiol Dis
+- new | 2009 | 19841509 | Case Reports | Severe hepatotoxicity by Indian Ayurvedic herbal products: a structured causality assessment. | Ann Hepatol
+- new | 2009 | 19403290 |  | Effect of Bacopa monniera on liver and kidney toxicity in chronic use of opioids. | Phytomedicine
+- new | 2009 | 18679812 |  | Hepatoprotective activity of bacoside A against N-nitrosodiethylamine-induced liver toxicity in adult rats. | Cell Biol Toxicol
+- new | 2008 | 18222663 |  | Hepatoprotective effect of Bacoside-A, a major constituent of Bacopa monniera Linn. | Phytomedicine
+- new | 2008 | 18478974 |  | In vitro safety evaluation and anticlastogenic effect of BacoMind on human lymphocytes. | Biomed Environ Sci
+- new | 2007 | 17492241 | Research Support, Non-U.S. Gov't | Preferential accumulation of cadmium and chromium: toxicity in Bacopa monnieri L. under mixed metal treatments. | Bull Environ Contam Toxicol
+- new | 2007 | 17236174 |  | Protective activity of Bacopa monniera Linn. on nicotine-induced toxicity in mice. | Phytother Res
+- new | 2007 | 17560704 |  | Safety evaluation of a standardized phytochemical composition extracted from Bacopa monnieri in Sprague--Dawley rats. | Food Chem Toxicol
+- new | 2006 | 16649188 | Research Support, Non-U.S. Gov't | Evaluation of the alkaline Comet assay conducted with the wetlands plant Bacopa monnieri L. as a model for ecogenotoxicity assessment. | Environ Mol Mutagen
+- new | 2006 | 16550227 |  | Brahmi rasayana improves learning and memory in mice. | Evid Based Complement Alternat Med
+- new | 2005 | 16050806 | Research Support, Non-U.S. Gov't | Protective effect of bacoside A on cigarette smoking-induced brain mitochondrial dysfunction in rats. | J Environ Pathol Toxicol Oncol
+- new | 2005 | 15898709 | Review | Bacopa monniera, a reputed nootropic plant: an overview. | Phytomedicine
+- new | 2003 | 12865091 |  | Nitric oxide-related toxicity in cultured astrocytes: effect of Bacopa monniera. | Life Sci
+- new | 2002 | 11839209 | Research Support, Non-U.S. Gov't | Bacopasaponin C: critical evaluation of anti-leishmanial properties in various delivery modes. | Drug Deliv
+- new | 2002 | 12410544 |  | Antistress effects of bacosides of Bacopa monnieri: modulation of Hsp70 expression, superoxide dismutase and cytochrome P450 activity in rat brain. | Phytother Res
+- new | 2001 | 11746853 | Research Support, Non-U.S. Gov't | Protective role of Bacopa monniera on morphine induced hepatotoxicity in rats. | Phytother Res
+- new | 2001 | 11178649 |  | Responses of Bacopa monniera cultures to cadmium toxicity. | Bull Environ Contam Toxicol
+
+### PubMed OBS - 7 hits, 1 not already listed above, 1 new
+- new | 2015 | 26605154 |  | Effect of Brahmyadi Churna (Brahmi, Shankhapushpi, Jatamansi, Jyotishmati, Vacha, Ashwagandha) and tablet Shilajatu in essential hypertension: An observational study. | J Adv Pharm Technol Res
+
+### PubMed REV - 111 hits, 13 not already listed above, 11 new
+- new | 2024 | 38623983 | Review | Comprehensive Insights into Pathophysiology of Alzheimer's Disease: Herbal Approaches for Mitigating Neurodegeneration. | Curr Alzheimer Res
+- new | 2022 | 35218388 | Review/Retracted Publication | Biotechnology for propagation and secondary metabolite production in Bacopa monnieri. | Appl Microbiol Biotechnol
+- HELD REF-0742 | 2022 | 36061899 | Review | Pharmacological attributes of Bacopa monnieri extract: Current updates and clinical manifestation. | Front Nutr
+- new | 2021 | 34981485 | Review | Role of Herbal Medicines in the Management of Brain Injury. | Adv Exp Med Biol
+- new | 2021 | 34254371 | Review | Bacosides from Bacopa monnieri extract: An overview of the effects on neurological disorders. | Phytother Res
+- new | 2021 | 33148034 | Research Support, Non-U.S. Gov't/Review | The Evolving Roles of Bacopa monnieri as Potential Anti-Cancer Agent: A Review. | Nutr Cancer
+- new | 2020 | 32058865 | Review | Dammarane triterpenoid glycosides in Bacopa monnieri: A review on chemical diversity and bioactivity. | Phytochemistry
+- new | 2020 | 32224997 | Review | In Vitro Propagation, Phytochemical and Neuropharmacological Profiles of Bacopa monnieri (L.) Wettst.: A Review. | Plants (Basel)
+- HELD REF-2113 | 2019 | 31622587 | Research Support, Non-U.S. Gov't/Review | Brahmi (Bacopa monnieri): An ayurvedic herb against the Alzheimer's disease. | Arch Biochem Biophys
+- new | 2018 | 29861767 | Review | Ayurvedic Medicine for the Treatment of Dementia: Mechanistic Aspects. | Evid Based Complement Alternat Med
+- new | 2015 | 26413131 | Review | Molecular and Functional Characterization of Bacopa monniera: A Retrospective Review. | Evid Based Complement Alternat Med
+- new | 2011 | 22074576 | Research Support, Non-U.S. Gov't/Review | Exploring the Role of “Brahmi” (Bacopa monnieri and Centella asiatica) in Brain Function and Therapy. | Recent Pat Endocr Metab Immune Drug Disc
+- new | 2010 | 19944749 | Research Support, Non-U.S. Gov't/Review | Bacopa monnieri and Bacoside-A for ameliorating epilepsy associated behavioral deficits. | Fitoterapia
+
+### ClinicalTrials.gov - 65 registered studies
+- NCT02416245 | COMPLETED | results=False | NA | Impact of Beverage Powder With Micronutrients and Brahmi Extract on Cognitive Variables in Indian School Children | conds: Cognition | intr: Beverage powder fortified with micronutrients and Bacopa monnieri extract, Non fortified isocaloric 
+- NCT02931747 | COMPLETED | results=False | PHASE1 | Effect of Bacopa Monnieri on Working Memory and Cognitive Processing in Student | conds: Healthy | intr: Placebo, Bacopa Monnieri 300 mg/day, Bacopa Monnieri 600 mg/day
+- NCT01125501 | WITHDRAWN | results=False | NA | Protandim and the Metabolic Syndrome | conds: Metabolic Syndrome | intr: Protandim
+- NCT06059131 | COMPLETED | results=False | NA | Effect of a Specific Aquaporin-1 Inhibitor on Vascular Oxidative Stress in Healthy Volunteers | conds: Oxidative Stress, Cardiovascular Diseases, Bacopaside II, Bacopa Monnieri | intr: KeenMind, Placebo
+- NCT00483964 | COMPLETED | results=False | PHASE2 | A Safety and Efficacy Study of Bacopa Monnieri and Nardostachys Jatamansi to Treat Schizophrenia | conds: Schizophrenia | intr: Bacopa monnieri, Nardostachys jatamansi, Olanzapine
+- NCT06523218 | UNKNOWN | results=False | NA | A Clinical Trial to Investigate the Efficacy of a Supplement to Improve and Maintain Cognitive Function and Memory | conds: Cognitive Decline, Cognitive Function | intr: MindMD Supplement, Placebo
+- NCT04927338 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Study of Bacopa in Gulf War Illness Patients | conds: Gulf War Illness | intr: BacoMind® (Bacopa monnieri standardized extract), Placebo
+- NCT06429059 | COMPLETED | results=True | PHASE2 | ROAR-DIGAP: A Widely Inclusive, Largely Virtual Pilot Trial Utilizing DIGAP (Deep Integrated Genomics Analysis Platform) To Personalize Trea | conds: Amyotrophic Lateral Sclerosis ALS | intr: Astaxanthin, Protandim, Melatonin, MitoQ
+- NCT06355167 | COMPLETED | results=False | NA | Effect of Oral Intake of Bacopa Monneiri on Vascular Oxidative Stress | conds: Oxidative Stress, Cardiovascular Diseases, Bacopaside II, Bacopa Monnieri | intr: Bacopa monnieri
+- NCT02920125 | COMPLETED | results=False | PHASE3 | Study the Result of Ayurvedic SUVED & Reimmugen (Colostrum) Treatment on Vascular Disease, CAD, CVA, DVT. | conds: Coronary Artery Disease, Cerebro Vascular Disease, Ischemic Heart Disease, Deep Vein Thrombosis | intr: SUVED, REIMMUGEN, Grain flour placebo
+- NCT05926050 | COMPLETED | results=False | NA | The Acute Effects of a Dietary Supplement on Cognitive Performance in Highly Trained Athletes. | conds: Reaction Time | intr: Treatment (CopaPrime+ (USANA Health Sciences), Placebo
+- NCT02345187 | COMPLETED | results=False | NA | fMRI Study to Investigate Hemodynamic Changes in Brain Resulting From Supplementation of Bacopa Monnieri Extract and Multiple Micronutrient  | conds: Growth and Development | intr: Beverage powder fortified with Bacopa Monnieri Extract and Multiple Micronutrient supplementation, N
+- NCT04895800 | COMPLETED | results=False | NA | An Evaluation of the Effects of a Non-Caffeinated Energy Dietary Supplement | conds: Health Behavior | intr: Phytovive, Placebo, Caffeine
+- NCT02462642 | COMPLETED | results=False | NA | Effect of Bacopa Monniera Extract on Cognition and Anxiety and Exploration of PK Properties | conds: Cognition, Anxiety, Pharmacokinetics | intr: Brahmi, Placebo, Brahmi, Placebo
+- NCT03974399 | COMPLETED | results=False | NA | BDNF Levels After Bacopa | conds: Memory | intr: Bacopa Monnieri
+- NCT03825042 | COMPLETED | results=True | NA | Effect of an Antioxidants Mix on Cognitive Performance and Well Being: The Bacopa, Licopene, Astaxantina, Vitamin B12 | conds: Cognitive Dysfunction | intr: A mix of bioactive natural compounds, Placebo
+- NCT02172625 | COMPLETED | results=True | NA | The Effect of Protandim Supplementation on Oxidative Damage and Athletic Performance | conds: Oxidative Stress | intr: Protandim Dietary Supplement, Placebo Group | pubs: ['27513339:RESULT (new)']
+- NCT05438251 | TERMINATED | results=False | PHASE4 | Exploring the Effect of Fespixon Cream for the Treatment of Diabetic Foot Ulcers (TEXAS 3A, 3B) | conds: Diabetic Foot Ulcer (DFU) | intr: Fespixon Cream
+- NCT05271708 | COMPLETED | results=False | PHASE4 | Explore the Short- and Mid-term Effects of Fespixon in Scar Cosmesis Following Cervical or Abdominal Surgery | conds: Scar | intr: Fespixon cream, Placebo Cream
+- NCT04210336 | COMPLETED | results=False | NA | Clinical Trial to Evaluate Papilocare® Gel Efficacy Into Repairment of Cervical Lesions Caused by HPV | conds: HPV Infection, Lesion Cervix | intr: PAPILOCARE, LACTIC ACID GEL
+- NCT07697209 | COMPLETED | results=False | NA | Adjunctive Antioxidant Effect of Centella Asiatica Nanoemulsion Gel in Management of Periodontitis | conds: Periodontal Diseases, Periodontal Bone Loss | intr: Centella asiatica nanoemulsion gel, Scaling and Root Planing (SRP)
+- NCT07271212 | COMPLETED | results=False | NA | Scalp Care Efficacy Evaluation for Premium Revitalizing Elixir | conds: Scalp Health, Hair Condition, Hair Loss, Alopecia | intr: Placebo control, Base formula only, Base formula plus IGF-1 and FGF-7, Base formula plus Centella as
+- NCT02922244 | COMPLETED | results=False | NA | Effects of Herbal Products on Reduction of Radiation-induced Dermatitis in Breast Cancer Patients | conds: Radiodermatitis, Breast Neoplasms, Adverse Effect of Radiation Therapy | intr: Control, Cucumber cream, Centella cream, Thunbergia cream | pubs: ['10443466:RESULT (new)', '21694984:RESULT (new)', '20118623:RESULT (new)', '25525844:RESULT (new)', '16893745:RESULT (new)', '14566480:RESULT (new)', '21153830:RESULT (new)', '23825733:RESULT (new)']
+- NCT06472791 | COMPLETED | results=False | NA | Centella Asiatica in Older Adults | conds: Endothelial Dysfunction | intr: Centella Asiatica, Placebo Comparator
+- NCT05322525 | TERMINATED | results=False | PHASE4 | A Research Study to Evaluate the Safety and Potential Efficacy of ON101 Cream for the Treatment of Venous Leg Ulcers. | conds: Venous Leg Ulcers (VLU) | intr: ON101 Cream
+- NCT05591027 | RECRUITING | results=False | PHASE1 | Safety and Target Engagement of Centella Asiatica in Cognitive Impairment | conds: Mild Cognitive Impairment, Alzheimer's Disease | intr: Centella asiatica product, Placebo
+- NCT04962139 | TERMINATED | results=False | PHASE3 | Evaluate the Safety and Efficacy of ON101 Cream for the Treatment of Chronic Diabetic Foot Ulcers | conds: Chronic Diabetic Foot Ulcers | intr: ON101 Cream, Vehicle Cream
+- NCT04886882 | UNKNOWN | results=False | EARLY_PHASE1 | Topical Agents Containing Magnesium Sulfate & Wound Healing in the Rat Model | conds: Wound Heal | intr: placebo comparator, sham comparator, Experimental drug 1, Experimental drug 2
+- NCT02601105 | COMPLETED | results=True | NA | Topical Centella Asiatica and the Cosmetic Appearance of Stretch Marks | conds: Stretch Marks, Striae Distensae, Cosmetic Appearance of Stretch Marks | intr: Placebo Vehicle Cream, Centella Asiatica Cream | pubs: ['25201840:RESULT (new)', '22374035:RESULT (new)', '23237514:RESULT (new)']
+- NCT06850935 | COMPLETED | results=False | NA | Evaluation of Effects on Skin Quality of a Centella Asiatica Extracellular Vesicle-based Skin Care Formulation. | conds: Skin Quality, Skin Wrinkles, Melanin Hyperpigmentation, Skin Hydration | intr: Centella asiatica extracellular vesicle formulation
+- NCT04669119 | UNKNOWN | results=False | PHASE4 | Effects of Bromelain and Boswellia Serrata Casperome With Centella Asiatica and Vitamins on Edema, Paresthesia and Postoperative Pain After  | conds: Breast Cancer Female, Pain, Postoperative | intr: Bromelain/Boswellia Serrata Casperome, Centella Asiatica/Vitamins, Placebo | pubs: ['39929877:DERIVED (new)']
+- NCT03569930 | UNKNOWN | results=False | PHASE4 | Irritation and Anal Bleeding in Patients Affected by Hemorrhoids. | conds: Hemorrhoids | intr: flavonoid-based supplements, Centella Complex, standard of care
+- NCT07274371 | ACTIVE_NOT_RECRUITING | results=False | NA | A Study Comparing the Effects of Two Types of Natural Oils Used in a Bedtime Foot Massage Routine on Sleep and Emotional Well-Being in Perim | conds: Sleep Disturbances in Perimenopause | intr: Brahmi-Gotukola oil padabhyanga, Sesame oil Padabhyanga
+- NCT04872946 | COMPLETED | results=False | NA | Topical and Oral Regimen for Skin Health | conds: Skin Abnormalities | intr: Tea, Serum, Moisturizer
+- NCT05528094 | COMPLETED | results=False | NA | An Exploratory Investigation of a Supplement to Support Student Learning | conds: Concentration Ability Impaired, Mental Fatigue | intr: GeniusDrops
+- NCT03815305 | UNKNOWN | results=False | PHASE4 | Effect of Centella Asiatica on Xerotic Skin in Diabetes Mellitus Type 2 | conds: Xerosis Cutis, Diabetes Mellitus, Type 2 | intr: Centella Asiatica Extract, Topical CA, Petroleum jelly
+- NCT06985121 | COMPLETED | results=False | NA | Scalp Care Efficacy Evaluation for Premium Scalp Revitalizing Essence | conds: Scalp Health, Hair Condition, Hair Loss, Sebum Production | intr: Placebo control, Base formula only, Base formula plus IGF-1 and FGF-7, Base formula plus Centella as
+- NCT05986123 | COMPLETED | results=False | NA | Safety and Efficacy of Topical Cream for Post-inflammatory Hyperpigmentation Skin Among Malaysians | conds: Healthy | intr: Topical cream Z for PIH
+- NCT00993005 | COMPLETED | results=False | PHASE3 | CICATRIX in the Treatment of Hypertrophic Scars and Keloids Scars | conds: Hypertrophic Scars, Keloids | intr: Cicatrix, Placebo
+- NCT05017467 | COMPLETED | results=False | EARLY_PHASE1 | The Effect of Centella Asiatica Cream on Scar Tenderness Who Underwent Open Carpal Tunnel Release Surgery | conds: To Prevent Scar Formation for Patients Underwent Surgery | intr: undefinedCentella Asiatica Extract
+- NCT00608439 | COMPLETED | results=False | PHASE2 | Centella Asiatica Selected Triterpenes (CAST) for Diabetic Neuropathy | conds: Diabetic Neuropathy | intr: Centella asiatica selected triterpenes (CAST), Placebo
+- NCT03482063 | COMPLETED | results=False | PHASE2 | The Effects of 12 Weeks Supplementation With a B-vitamin and Herbal Supplement on Neurocognitive Function and Mood | conds: Neurocognitive Function, Mood | intr: Swisse Ultiboost Memory + Focus, Placebo
+- NCT05984641 | COMPLETED | results=False | NA | Efficacy and Safety of CONAN® Proctological Cream for Treatment of Haemorrhoidal Disease | conds: Hemorrhoid Pain, Haemorrhoid Inflammation | intr: CONAN® Proctological Cream
+- NCT03065504 | COMPLETED | results=False | NA | Turmeric and Turmeric-containing Tablets and Sebum Production | conds: Skin Inflammation | intr: Turmeric, Turmeric-containing combination tablet, Placebo tablets | pubs: ['30527287:DERIVED (new)']
+- NCT07669662 | NOT_YET_RECRUITING | results=False | PHASE3 | Nimsai Herbal for Grade 2-3 Hemorrhoids: A Quadruple-Blind Placebo-Controlled Mechanistic Trial | conds: Hemorrhoid, Hemorrhoidal Disease | intr: Nimsai Herbal, Placebo
+- NCT05338463 | COMPLETED | results=False | PHASE4 | Fespixon Cream for the Treatment of Chronic Diabetic Foot Ulcers (TEXAS 1A, 2A) in Dialysis Patients | conds: Chronic Diabetic Foot Ulcer | intr: Fespixon Cream
+- NCT03047798 | COMPLETED | results=False | PHASE3 | The Effect of Mouthrinses Containing Bamboo Salt, Magnolia Bark and Centella Asiatica on Reducing Plaque and Gingivitis | conds: Gingivitis, Dental Plaque | intr: Mouthrinse
+- NCT06566508 | UNKNOWN | results=False | PHASE2,PHASE3 | Effectiveness of Asiaticoside as Intracanal Medication on Infectious/Inflammatory Contents in Teeth With Apical Periodontitis | conds: Intracanal Medication | intr: Calcium Hydroxide Intracanal medication, Leddermix Intracanal medication, Asiaticoside Intracanal me
+- NCT03929250 | COMPLETED | results=True | EARLY_PHASE1 | Pharmacokinetics of Centella Asiatica in the Elderly | conds: Healthy, Elderly | intr: 2g Centella asiatica water extract product, 4g Centella asiatica water extract product
+- NCT04149639 | COMPLETED | results=False | NA | A Study Investigating the Effectiveness of a LifeSeasons NeuroQ Supplement With Lifestyle Changes to Improve Cognitive Function in Healthy A | conds: Healthy | intr: NeuroQ
+- NCT02827305 | COMPLETED | results=False | PHASE1 | Centella Asiatica (Gotukola) Mouthwash as an Adjunct to Mechanical Plaque Control | conds: Gingival Diseases | intr: Gotukola, Scaling
+- NCT02616042 | COMPLETED | results=False | PHASE3 | The Effect of New Dentifrices Containing Centella Asiatica and Bamboo Salt on Reducing Plaque and Gingivitis | conds: Labor Trial Refused | intr: Centella asiatica and bamboo salt, Centella asiatica
+- NCT06531512 | ACTIVE_NOT_RECRUITING | results=False | PHASE2,PHASE3 | Evaluate the Efficacy and Safety of Xianglei Tangzu Gao for the Treatment of Wagner Grade II Diabetic Foot Ulcers | conds: Diabetic Foot Ulcer | intr: Xianglei Tangzu Gao, Vehicle Cream
+- NCT01414374 | COMPLETED | results=False | PHASE3 | Hibiscus Sabdariffa and Centella Asiatica in the Treatment of Anemia by Iron Deficiency | conds: Iron Deficiency Anemia | intr: Herbal medicine, Iron
+- NCT05504668 | COMPLETED | results=False | NA | The Cognitive Effects of 'Brainwaves' Supplementation in Cognitively Intact Older Adults | conds: Cognitive Change, Mood Change, Microbial Colonization | intr: Turmeric Brainwave | pubs: ['37885445:DERIVED (new)']
+- NCT05019066 | WITHDRAWN | results=False | NA | Oral Herbal Combination Formulation and Hair Growth in Women | conds: Hair Loss, Hair Thinning | intr: Herbal Supplementation
+- NCT04945161 | COMPLETED | results=False | NA | A Randomized,Double-blind,Placebo-controlled Clinical Study to Explore the Mechanism of Action of ON101 Cream in Patients With DFUs. | conds: Diabetic Foot Ulcers | intr: ON101 Cream, Placebo
+- NCT02313545 | COMPLETED | results=False | PHASE1,PHASE2 | Phase I-B Study to Evaluate the Safety, Tolerability and Efficacy of IZN-6NVS for the Treatment of AV and DIV | conds: Atrophic Vaginitis | intr: IZN-6NVS Cream
+- NCT06763367 | NOT_YET_RECRUITING | results=False | NA | Clinical Evaluation and Study of the Efficacy of a Centella Asiatica-Infused Facial Mask on Discosmetic Dermatosis | conds: Rosacea, Acne, Centella, Melasma | intr: Face mask containing Centella sinensis
+- NCT03355846 | COMPLETED | results=False | PHASE4 | Pain and Bleeding in Subjects With Acute Anal Fissure: Comparative Evaluation of Three Treatments | conds: Acute Anal Fissure | intr: Centella, Proctocella, Flavonil® cps, Flavonil® Cream | pubs: ['29844250:RESULT (new)']
+- NCT03937908 | TERMINATED | results=True | EARLY_PHASE1 | Pharmacokinetics Centella Asiatica Product (CAP) in Mild Cognitive Impairment | conds: Cognitive Impairment, Elderly | intr: 2g Centella asiatica water extract product, 4g Centella asiatica water extract product | pubs: ['35204098:RESULT (new)']
+- NCT00991367 | COMPLETED | results=False | PHASE3 | CICATRIX in the Treatment of Recent Post-surgical Scars | conds: Post-surgical Scars | intr: Cicatrix, Placebo
+- NCT07901426 | ACTIVE_NOT_RECRUITING | results=False | NA | Evaluation of the Scalp Skin Care Effects of Premium Revitalizing Elixir and Topical 5% Minoxidil | conds: Scalp Health, Alopecia, Hair Condition, Hair Loss | intr: Base formula only, Base formula plus Centella asiatica extracellular vesicles, IGF-1 & FGF-7, Base f
+- NCT05317442 | TERMINATED | results=False | PHASE4 | Open-label Study to Evaluate the Efficacy and Safety of Fespixon Cream for the Treatment of Pressure Injury in Sacrum and Greater Trochanter | conds: Pressure Injury Stage 2 | intr: Fespixon Cream
+- NCT06231212 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy of a Standardized Centella Asiatica Extract in Patients With Temporomandibular Disorder | conds: Temporomandibular Disorder | intr: ECa 233, Ibuprofen, Placebo | pubs: ['40253389:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 1815 hits, 41 without PMID, 41 new
+- new | 2027 | 10.5530/phrev.20270069 | article | A Comprehensive Overview of Bacopa monnieri Taxonomy, Constituents, Bioactivities, Herbal Formulations and Clinical Trials | Pharmacognosy Reviews/Bioinformatics Tre
+- new | 2026 | 10.29011/2577-2201.100280 | article | Efficacy and Safety of Bacopa monnieri Extract for Stress Management and Sleep Quality: A Randomized, Double-Blind, Placebo-Controlled Trial | Current Research in Complementary & Alte
+- new | 2026 | 10.21203/rs.3.rs-11315878/v1 | preprint | Calming the surgical mind: A randomized Controlled Trial of Brahmi Ghana Vati versus Alprazolam for Preoperative Anxiety | Research Square
+- new | 2026 | 10.47070/ijapr.v14i9.4392 | article | Comparative Evaluation of Ksheera Dhara and Taila Dhara as Shirodhara in Depression: A Randomized Clinical Trial | International Journal of Ayurveda and Ph
+- new | 2025 | 10.5281/zenodo.17839659 | other | NeuroStress Complex (TrueMedicalCare, Romania) for generalized anxiety symptoms: a randomized, double-blind, placebo-controlled trial | Zenodo (CERN European Organization for N
+- new | 2025 | 10.4103/ijra.ijra_1_26 | article | Clinical Study to Evaluate the Efficacy of Brahmi Avleha Along with Brahmi Taila Pratimarsha Nasya in the Management of Attention Deficit Hyperactivity Disorder in Children: A Rand | International Journal of Research in AYU
+- new | 2025 | 10.7860/jcdr/2025/72613.20495 | article | Evaluation of Comparative Efficacy of Ashwagandha (Withania somnifera) vs Brahmi (Bacopa monnieri Linn) on Stress Level and Quality of Sleep in the Subjects Experiencing Mental Str | JOURNAL OF CLINICAL AND DIAGNOSTIC RESEA
+- new | 2025 | 10.64790/tsj.2025.v1.i2.25 | article | Comparative Efficacy of the Psycho-Nutritional Intervention Approach (PNIA) With and Without Ayurvedic Integration in Mild-to-Moderate Depression and Anxiety: A Biomarker-Driven Ra | The Spectrum Journal
+- new | 2025 | 10.33545/26174693.2025.v9.i3g.3996 | article | A review: Phytochemistry and medicinal activities of Bacopa monnieri | International Journal of Advanced Bioche
+- new | 2024 | 10.29011/2574-7762.000068 | article | Effect of Bacopa monnieri Extract on Memory and Cognitive Skills in Adult Humans: A Randomized, Double-Blind, Placebo-Controlled Study | Journal of Psychiatry and Cognitive Beha
+- new | 2024 | https://openalex.org/W2105994296 | article | OPEN CLINICAL TRIAL TO ASSES THE EFFECT OF BACOPA MONNIERA ON STRESS RELATED PROBLEM IN HUMAN VOLUNTEERS | Pharma research
+- new | 2024 | 10.30574/ijsra.2024.13.2.2319 | article | Efficacy of a protein-micronutrient dietary supplement in preschool children with acute malnutrition: A randomized controlled clinical trial | International Journal of Science and Res
+- new | 2024 | 10.1007/s10722-024-02026-y | article | Exploring the genetic diversity and population structure of Bacopa monnieri (L.) using random amplified (RAPD and ISSR) and gene-targeted (SCoT and CBDP) markers | Genetic Resources and Crop Evolution
+- new | 2024 | 10.30978/unj2024-2-3-56 | article | Evolution of phytonotropes: emphasis on Bacopa Monnieri | Ukrainian Neurological Journal
+- new | 2023 | 10.5281/zenodo.19631435 | article | Randomized Trial of Herbal Antidepressants | Zenodo (CERN European Organization for N
+- new | 2023 | 10.22271/flora.2023.v11.i4a.870 | article | Clinical trial to assess the safety and efficacy of hair grow serum product in volunteers with hair fall and healthier hair | International Journal of Herbal Medicine
+- new | 2022 | 10.21203/rs.3.rs-2069630/v1 | preprint | Efficacy of Bacopa monnieri on memory and vascular functions: A randomised controlled trial | Research Square
+- new | 2022 | 10.1016/j.chnaes.2022.05.007 | article | Comparative studies on regeneration of different tissues of Bacopa monnieri (L.) Wettst in vitro and analysis of genetic homogeneity by random DNA markers (RDMs) | Acta Ecologica Sinica
+- new | 2022 | 10.26565/2312-5675-2022-20-04 | article | Evolution of phytonotropes: emphasis on bacopa Monnieri | Psychiatry Neurology and Medical Psychol
+- new | 2021 | 10.1016/j.jff.2021.104671 | article | Effects of a Bacopa monnieri extract (Bacognize®) on stress, fatigue, quality of life and sleep in adults with self-reported poor sleep: A randomised, double-blind, placebo-control | Journal of Functional Foods
+- new | 2021 | 10.47070/ayushdhara.v8i5.804 | article | A Randomised Clinical Control Study to Evaluate the Efficacy of Shodhita Kuchla Powder (Purified Strychnos Nux-Vomica L.) and Brahmi Extract (Bacopa Monnieri L. Pennell) on Klaibya | AYUSHDHARA
+- new | 2021 | https://openalex.org/W3131031076 | article | Evaluation of Comparative Efficacy of Brahmi and Mandookaparni in Enhancing Memory of Different Prakriti Healthy Male Children- A Double Blind Randomized Clinical Trial-Protocol Ar | Annals of the Romanian Society for Cell 
+- new | 2020 | 10.1016/b978-0-12-819212-2.00020-7 | book-chapter | Bacopa monnieri (Brahmi) | Elsevier eBooks
+- new | 2019 | 10.1016/j.sajb.2019.03.012 | article | Enhanced bacoside content in polyamine treated in-vitro raised Bacopa monnieri (L.) Wettst | South African Journal of Botany
+- new | 2018 | 10.31142/ijahm/v8i3.01 | article | Efficacy of A Brahmi Based Unani Formulation In The Management of Autism: A Randomized Double Blind Placebo Controlled Study | International Journal Of Ayurvedic And H
+- new | 2018 | 10.15406/ijcam.2018.11.00384 | article | An open label pilot trial of Abhaya Ghrita in autistic disorder | International Journal of Complementary &
+- new | 2016 | 10.4236/aad.2016.53008 | article | Psychophysiological Effects of a Combination of Sideritis and Bacopa Extract (memoLoges®) in 32 Subjects Suffering from Mild Cognitive Impairment. A Double-Blind, Randomized, Place | Advances in Alzheimer s Disease
+- new | 2015 | 10.1002/ptr.5441 | erratum | Corrigendum: Examining the Nootropic Effects of a Special Extract ofBacopa monnieraon Human Cognitive Functioning: 90 day Double-Blind Placebo-Controlled Randomized Trial | Phytotherapy Research
+- new | 2015 | 10.17140/droj-1-116 | article | Combination Treatment with a Novel Polyherbal Formulation and Metformin: A Single Blind Placebo-Controlled Study in Patients with T2DM and Cognitive Impairments | Diabetes Research - Open Journal
+- new | 2015 | 10.1002/ptr.5439 | erratum | Corrigendum: An Acute, Double-Blind, Placebo-Controlled Cross-over Study of 320 mg and 640 mg Doses of Bacopa monnieri (CDRI 08) on Multitasking Stress Reactivity and Mood | Phytotherapy Research
+- new | 2012 | 10.1055/s-0032-1320681 | article | Sustained cognitive effects and safety of HPLC-standardized Bacopa Monnieri extract: A randomized, placebo controlled clinical trial | Planta Medica
+- new | 2012 | https://openalex.org/W2116307005 | article | BIOLOGICAL AND PRE-CLINICAL TRIAL EVALUATION OF A LOCAL MEDICINAL PLANT BACOPA MONNIERI (L.) PENN | International Journal of Current Researc
+- new | 2012 | 10.1007/s11240-012-0194-x | article | In vitro conservation of Bacopa monnieri (L.) using mineral oil | Plant Cell Tissue and Organ Culture (PCT
+- new | 2011 | 10.53945/2320-7094.1732 | article | Bacopa monnieri - A multicentric, randomized, double-blind homoeopathic pathogenetic trial | Indian Journal of Research in Homoeopath
+- new | 2011 | https://openalex.org/W2184716516 | article | Effect of Bacopa monnieri on Cognitive functions in Alzheimer???s disease patients | International journal of collaborative r
+- new | 2011 | https://openalex.org/W945740643 | dissertation | Randomized control and double blind cross over study to clinically asses the rasayana effect of brahmi in adult human volunteers | Shodhganga
+- new | 2010 | https://openalex.org/W2787979112 | article | Phyto-pharmacological review of Bacopa monnieri Linn. | Natural products : an Indian journal
+- new | 2009 | https://openalex.org/W29271058 | article | The Psychomotor Effects Of Brahmi And Caffeine On Healthy Male Volunteers | 
+- new | 2008 | 10.3923/jpt.2008.425.434 | article | Efficacy and Tolerability of BacoMind®on Memory Improvement in Elderly Participants - A Double Blind Placebo Controlled Study | Journal of Pharmacology and Toxicology
+- new | 2008 | 10.1007/978-3-540-74603-4_9 | book-chapter | Bacopa monnieri, a Nootropic Drug | Springer eBooks
+- new | 1999 | 10.1016/s0924-977x(99)80578-1 | article | The effects of acute doses of standardised Ginkgo Biloba Extract on memory and psychomotor performance in healthy volunteers | European Neuropsychopharmacology
+
+## betula-pendula (Betula pendula) - name clause: "Betula pendula"[tiab] OR "Betula verrucosa"[tiab] OR "silver birch"[tiab] OR "Betulae folium"[tiab] OR "birch leaf"[ti] OR "birch leaves"[ti] OR "birch sap"[ti]
+
+### PubMed HT - 27 hits, 27 not already listed above, 27 new
+- new | 2026 | 40971250 | Review | An Allergy-Based Approach to Orofacial Granulomatosis: A Narrative Review. | Dermatitis
+- new | 2025 | 39846331 | Editorial | A Silver (Birch) Bullet for Children With Tree Pollen Allergy: Single Allergen Immunotherapy With Birch Extract Protects Across the Birch Homologous Group Pollen Season. | Allergy
+- new | 2024 | 38676405 | Multicenter Study/Observational Study | Polysensitisation is associated with more severe symptoms: The reality of patients with allergy. | Clin Exp Allergy
+- new | 2024 | 38792533 |  | Sensitization to Food and Aero-Allergens in Children with Coeliac Disease Assessed with the Use of a Multiplex Molecular Diagnostic Technique. | J Clin Med
+- new | 2024 | 38705139 | Research Support, Non-U.S. Gov't | The Sensitization Differences of Pollen Allergen Components in Patients with Asthma and/or Rhinitis in Southern China. | Int Arch Allergy Immunol
+- new | 2022 | 34856263 |  | Microplastic inclusion in birch tree roots. | Sci Total Environ
+- new | 2021 | 33548518 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treatment Effect of the Tree Pollen SLIT-Tablet on Allergic Rhinoconjunctivitis During Oak Pollen Season. | J Allergy Clin Immunol Pract
+- new | 2020 | 30602313 |  | Effect of a mixture of botanicals extracts plus mannitol on hydration and bloating sensation. An open label study in women with high extra cellular water. | Nat Prod Res
+- new | 2014 | 25097754 |  | A prospective study comparing the efficacy and safety of two sublingual birch allergen preparations. | Clin Transl Allergy
+- new | 2007 | 17620074 | Randomized Controlled Trial | Allergen-induced in vitro expression of IL-18, SLAM and GATA-3 mRNA in PBMC during sublingual immunotherapy. | Allergy
+- new | 2006 | 16942566 | Comparative Study/Randomized Controlled Trial | Sublingual immunotherapy in children modulates allergen-induced in vitro expression of cytokine mRNA in PBMC. | Allergy
+- new | 2006 | 16942565 | Comparative Study/Randomized Controlled Trial | Clinical efficacy and safety of sublingual immunotherapy with tree pollen extract in children. | Allergy
+- new | 2005 | 15808115 |  | Food hypersensitivity in patients with seasonal rhinitis in Ankara. | Allergol Immunopathol (Madr)
+- new | 2002 | 11906359 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The safety and efficacy of subcutaneous birch pollen immunotherapy - a one-year, randomised, double-blind, placebo-controlled study. | Allergy
+- new | 2002 | 12221895 | Comparative Study/Evaluation Study | Hypersensitivity to common tree pollens in New York City patients. | Allergy Asthma Proc
+- new | 2002 | 11994699 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of 2-year placebo-controlled immunotherapy on airway symptoms and medication in patients with birch pollen allergy. | J Allergy Clin Immunol
+- new | 2000 | 11003446 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Allergen-specific immunotherapy in birch- and grass-pollen-allergic rhinitis. II. Side-effects. | Allergy
+- new | 2000 | 11003445 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Allergen-specific immunotherapy in birch- and grass-pollen-allergic rhinitis. I. Efficacy estimated by a model reducing the bias of annual differences in pollen counts. | Allergy
+- new | 1996 | 8648014 | Clinical Trial/Controlled Clinical Trial | Antihistamine premedication in specific cluster immunotherapy: a double-blind, placebo-controlled study. | J Allergy Clin Immunol
+- new | 1996 | 8836333 | Clinical Trial/Randomized Controlled Trial | Preseasonal intranasal immunotherapy in birch-alder allergic rhinitis. A double-blind study. | Allergy
+- new | 1995 | 8608200 | Clinical Trial/Comparative Study/Multicenter Study | Multicentre evaluation of Capture Assay Radim Liquid Allergen for measurement of specific IgE antibodies. | Eur J Clin Chem Clin Biochem
+- new | 1995 | 8526170 | Clinical Trial/Comparative Study/Randomized Controlled Trial | A double-blind, randomized study investigating the efficacy and specificity of immunotherapy with Artemisia vulgaris or Phleum pratense/betula verrucosa. | Allergol Immunopathol (Madr)
+- new | 1991 | 1754671 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Children with atopic eczema. II: Immunological findings associated with dietary manipulations. | Q J Med
+- new | 1991 | 1724116 | Clinical Trial/Randomized Controlled Trial | Oral allergy syndrome: the effect of astemizole. | Allergy
+- new | 1989 | 2802112 | Research Support, Non-U.S. Gov't | IgE and IgG antibodies of patients with allergy to birch pollen as tools to define the allergen profile of Betula verrucosa. | Allergy
+- new | 1989 | 2712256 | Comparative Study | Comparative evaluation of RAST and FAST for 11 allergens in 288 patients. | Allergy
+- new | 1986 | 3513815 | Research Support, Non-U.S. Gov't | Eczematous reactions in atopic patients caused by epicutaneous testing with inhalant allergens. | Br J Dermatol
+
+### PubMed SR - 4 hits, 4 not already listed above, 4 new
+- new | 2026 | 42312292 | Review | Bioactive plant metabolites with antihyperglycemic properties: prospects for the prevention and treatment of diabetes mellitus. | 3 Biotech
+- new | 2025 | 40961245 | Review |  | 
+- new | 2023 | 38505132 |  | Plant neighbourhood diversity effects on leaf traits: A meta-analysis. | Funct Ecol
+- new | 2007 | 17356813 | Meta-Analysis/Research Support, Non-U.S. Gov't | Tree species diversity influences herbivore abundance and damage: meta-analysis of long-term forest experiments. | Oecologia
+
+### PubMed SAFE - 167 hits, 144 not already listed above, 142 new
+- new | 2026 | 42883333 |  | Analysis of Mercury Content in Medicinal Plants Popular in Poland. | Molecules
+- new | 2026 | 41571735 |  | Visual classification of allergenic pollen in iteratively reconstructed lens-less DIHM images. | Sci Rep
+- new | 2026 | 42415819 | Review | In vitro IgE diagnostics in inhalant allergy: Plant and mold allergens. | Allergol Select
+- new | 2026 | 42738697 | Comparative Study | Comparative Metabolite Profiling of Betula pendula Roth and Betula pubescens Ehrh. Leaf Extracts Reveals Antioxidant and Hepatoprotective Potential. | Molecules
+- new | 2026 | 42308210 | Published Erratum | Correction: Air pollution in the places of Betula pendula growth and development changes the physicochemical properties and the main allergen content of its pollen. | PLoS One
+- new | 2026 | 42510022 |  | A Fully Automated Chemiluminescent Immunoassay for Component-Resolved Diagnosis of Pollen Allergy: Validation of Six CHORUS CLIA Assays. | Diagnostics (Basel)
+- new | 2026 | 42377578 |  | Traffic-related air pollution modifies Betula pendula pollen morphology, FT-IR-derived amide I/II ratio, and Bet v 1 allergen levels along a pollution gradient in Türkiye. | Int J Biometeorol
+- new | 2026 | 42781829 |  | An Italian 15-year single-center retrospective study on the distribution of peach fruit and pollen-related to peach fruit allergens in a population of north Italy. | Eur Ann Allergy Clin Immunol
+- new | 2026 | 42766474 |  | Comprehensive 17-Allergen Panel for Inhalant Specific IgE: Reliability and Validation of Optimized Quantitative Assays. | Int Arch Allergy Immunol
+- new | 2026 | 41836425 |  | Impact of cross-linking stoichiometry on the structure and allergenicity of glutaraldehyde-polymerized allergen extracts. | Front Immunol
+- new | 2025 | 40691195 |  | Bioprospecting endophytic fungi of forest plants for bioactive metabolites with anticancer potentials. | Sci Rep
+- new | 2025 | 40507821 |  | Birch Sap Preserves Memory Function in Rats by Enhancing Cerebral Blood Flow and Modulating the Presynaptic Glutamatergic System in the Hippocampus. | Int J Mol Sci
+- new | 2025 | 39277147 |  | Transcriptome sequencing-based analysis of primary vein development in Betula pendula 'Dalecarlica'. | Gene
+- new | 2025 | 39847304 |  | The Influence of Triterpenoids in the Composition of Fat-Containing Products on the State of the Liver of Laboratory Animals with Acute Toxic Hepatitis. | Dokl Biochem Biophys
+- new | 2024 | 38455547 |  | Exploring the potential of white birch sap: A natural alternative to traditional skin whitening agents with reduced side effects. | Heliyon
+- new | 2024 | 38779783 |  | Utility of silver birch and house dust mite extracts derived from licensed sublingual tablets for nasal allergen challenge. | Clin Transl Allergy
+- new | 2024 | 38481362 |  | The presence of radiotoxic (210)Po and (210)Pb in Ukrainian wild medicinal plants and the assessment of related dose and cancer risk. | J Environ Qual
+- new | 2023 | 37658998 |  | How does pollen production of allergenic species differ between urban and rural environments? | Int J Biometeorol
+- new | 2023 | 36696393 | Research Support, Non-U.S. Gov't | Air pollution in the places of Betula pendula growth and development changes the physicochemical properties and the main allergen content of its pollen. | PLoS One
+- new | 2023 | 36214696 |  | Phytochemical investigation, structural elucidation, in silico study and anti-psoriatic activity of potent bioactive from Betula utilis. | J Biomol Struct Dyn
+- new | 2022 | 34984934 |  | Abnormal sperm morphology is associated with sensitization to inhaled allergens. | Int J Immunopathol Pharmacol
+- HELD REF-1698 | 2022 | 36297697 |  | Investigation of the Genotoxicological Profile of Aqueous Betula pendula Extracts. | Plants (Basel)
+- new | 2022 | 35959926 |  | STATUS OF THE COMPOSITION OF ALLERGENIC EXTRACTS FOR SKIN TESTING IN UKRAINE AND THE WAYS TO OPTIMIZE IT. | Georgian Med News
+- new | 2022 | 36434741 |  | ITULAZAX(®) versus Alutard SQ(®) in the treatment of allergic rhinitis induced by pollen from the birch homologous group: A cost-minimization modeling analysis from the Danish soci | Clin Transl Allergy
+- new | 2021 | 33765259 |  | Changes in qualitative and quantitative traits of birch (Betula pendula) pollen allergenic proteins in relation to the pollution contamination. | Environ Sci Pollut Res Int
+- new | 2021 | 33301602 | Research Support, Non-U.S. Gov't | Comparative proteomics of common allergenic tree pollens of birch, alder, and hazel. | Allergy
+- new | 2021 | 34106433 |  | NMR resonance assignments of the PR-10 allergens Act c 8 and Act d 8 from golden and green kiwifruit. | Biomol NMR Assign
+- new | 2021 | 33094459 |  | Functional response of Betula species to edaphic and nutrient stress during restoration of fly ash deposits in the Middle Urals (Russia). | Environ Sci Pollut Res Int
+- new | 2020 | 32324770 |  | Cross-reactive carbohydrate determinant interference in cellulose-based IgE allergy tests utilizing recombinant allergen components. | PLoS One
+- new | 2020 | 32866514 | Review | Acacetin, a flavone with diverse therapeutic potential in cancer, inflammation, infections and other metabolic disorders. | Food Chem Toxicol
+- new | 2020 | 31691092 | Research Support, Non-U.S. Gov't | NMR resonance assignments of the four isoforms of the hazelnut allergen Cor a 1.04. | Biomol NMR Assign
+- new | 2020 | 32892290 |  | Plant cell cultures as food-aspects of sustainability and safety. | Plant Cell Rep
+- new | 2020 | 32272131 | Research Support, Non-U.S. Gov't | Defining biomarkers to predict symptoms in subjects with and without allergy under natural pollen exposure. | J Allergy Clin Immunol
+- new | 2020 | 32033101 |  | Impact of Tree Pollen Distribution on Allergic Diseases in Serbia: Evidence of Implementation of Allergen Immunotherapy to Betula verrucosa. | Medicina (Kaunas)
+- new | 2020 | 32027873 | Research Support, Non-U.S. Gov't | Identification of antigenic epitopes of thyroperoxidase, thyroglobulin and interleukin-24. Exploration of cross-reactivity with environmental allergens and possible role in urticar | Immunol Lett
+- new | 2019 | 30066997 | Multicenter Study | Allergy in adolescent population (14-18 years) living in Campania region (Southern Italy). A multicenter study. | Eur Ann Allergy Clin Immunol
+- new | 2019 | 30542820 | Research Support, Non-U.S. Gov't | NMR resonance assignments of the pathogenesis-related peach allergen Pru p 1.0101. | Biomol NMR Assign
+- new | 2018 | 29429790 |  | The effect of cisplatin administration on certain trace elements homeostasis in rats and the protective effect of silver birch (Betula pendula) sap. | J Trace Elem Med Biol
+- new | 2018 | 29210131 | Research Support, Non-U.S. Gov't | Allergens produce serine proteases-dependent distinct release of metabolite DAMPs in human bronchial epithelial cells. | Clin Exp Allergy
+- new | 2018 | 29510117 | Research Support, Non-U.S. Gov't | Antigenic cross-reactivity between Schistosoma mansoni and pollen allergens from the birch tree (Betula verrucosa) and Timothy grass (Phleum pratense): involvement of shared glycan | Int J Parasitol
+- new | 2018 | 29679114 |  | Online screening of α-amylase inhibitors by capillary electrophoresis. | Anal Bioanal Chem
+- new | 2018 | 29389018 | Research Support, Non-U.S. Gov't | Top-down and bottom-up characterization of nitrated birch pollen allergen Bet v 1a with CZE hyphenated to an Orbitrap mass spectrometer. | Electrophoresis
+- new | 2017 | 28587253 |  | Identification of Proteases and Protease Inhibitors in Allergenic and Non-Allergenic Pollen. | Int J Mol Sci
+- new | 2017 | 28417623 |  | A Real Life Comparison between Allergenic Extracts and Allergenic Molecules. | Iran J Allergy Asthma Immunol
+- new | 2017 | 28031428 | Research Support, Non-U.S. Gov't | Reaction of Leaf Weevil Phyllobius arborator (Coleoptera: Curculionidae) to Manganese Content in Diet. | Environ Entomol
+- new | 2017 | 28070926 | Research Support, Non-U.S. Gov't | Identification and implication of an allergenic PR-10 protein from walnut in birch pollen associated walnut allergy. | Mol Nutr Food Res
+- new | 2016 | 26994557 |  | Stability of specific IgE antibodies to common food and inhalant allergens. | Clin Biochem
+- new | 2016 | 26910418 |  | Pollen-Associated Microbiome Correlates with Pollution Parameters and the Allergenicity of Pollen. | PLoS One
+- new | 2015 | 25817862 |  | IL-5 production by resident mucosal allergen-specific T cells in an explant model of allergic rhinitis. | Clin Exp Allergy
+- HELD REF-0743 | 2015 | 25449458 | Review | Medicinal plants of the genus Betula--traditional uses and a phytochemical-pharmacological review. | J Ethnopharmacol
+- new | 2015 | 26615642 |  | [Genotoxic and Mutagenic Properties of Synthetic Betulinic and Betulonic Acids]. | Bioorg Khim [rus]
+- new | 2015 | 25055718 | Research Support, Non-U.S. Gov't | Effects of atmospheric pollutants (CO, O3, SO2) on the allergenicity of Betula pendula, Ostrya carpinifolia, and Carpinus betulus pollen. | Int J Environ Health Res
+- new | 2015 | 26016029 |  | [The use of the parameters of chlorophyll a fluorescence induction for assessment of plant state under anthropogenic load]. | Biofizika [rus]
+- new | 2015 | 26250401 |  | Can serum white birch (Betula verrucosa) pollen antigen (Bet v 1) immunoglobulin E measurement distinguish between sensitization and allergy? | Int Forum Allergy Rhinol
+- new | 2015 | 26041541 | Research Support, Non-U.S. Gov't | Pollensomes as Natural Vehicles for Pollen Allergens. | J Immunol
+- new | 2015 | 25663340 | Research Support, Non-U.S. Gov't | Decomposition of birch leaves in heavily polluted industrial barrens: relative importance of leaf quality and site of exposure. | Environ Sci Pollut Res Int
+- new | 2014 | 25163600 |  | Soil application of biochar produced from biomass grown on trace element contaminated land. | J Environ Manage
+- new | 2014 | 24361564 | Research Support, Non-U.S. Gov't | Effect of air pollutant NO₂ on Betula pendula, Ostrya carpinifolia and Carpinus betulus pollen fertility and human allergenicity. | Environ Pollut
+- new | 2014 | 24528247 | Research Support, Non-U.S. Gov't | Adjuvant effects of aluminium hydroxide-adsorbed allergens and allergoids - differences in vivo and in vitro. | Clin Exp Immunol
+- new | 2013 | 23297760 | Research Support, Non-U.S. Gov't | Dietary intervention for oral allergy syndrome as a treatment in orofacial granulomatosis: a new approach? | J Oral Pathol Med
+- new | 2013 | 23802156 | Research Support, Non-U.S. Gov't | Changes in expression of BetV1 allergen of silver birch pollen in urbanized area of Ukraine. | J Environ Sci Health A Tox Hazard Subst 
+- new | 2013 | 23425688 | Research Support, Non-U.S. Gov't | Carbohydrate concentrations and freezing stress resistance of silver birch buds grown under elevated temperature and ozone. | Tree Physiol
+- new | 2013 | 23857337 | Research Support, Non-U.S. Gov't | Separation and characterization of nitrated variants of the major birch pollen allergen by CZE-ESI-μTOF MS. | Electrophoresis
+- new | 2013 | 24565710 | Research Support, Non-U.S. Gov't | Clinical characterization and IgE profiling of birch (Betula verrucosa)--allergic individuals suffering from allergic reactions to raw fruits and vegetables. | J Allergy Clin Immunol Pract
+- new | 2012 | 22768037 | Research Support, Non-U.S. Gov't | Evaluation of the allergenicity potential of TcPR-10 protein from Theobroma cacao. | PLoS One
+- new | 2012 | 22348091 | Research Support, Non-U.S. Gov't | Nitration of the pollen allergen bet v 1.0101 enhances the presentation of bet v 1-derived peptides by HLA-DR on human dendritic cells. | PLoS One
+- new | 2012 | 22348538 | Research Support, Non-U.S. Gov't | Reduced in vitro T-cell responses induced by glutaraldehyde-modified allergen extracts are caused mainly by retarded internalization of dendritic cells. | Immunology
+- new | 2012 | 22984787 | Research Support, Non-U.S. Gov't | Specific immunotherapy can greatly reduce the need for systemic steroids in allergic rhinitis. | Allergy
+- new | 2012 | 23189537 | Review | Hazelnut allergy: a multi-faced condition with demographic and geographic characteristics. | Acta Clin Belg
+- new | 2012 | 22568184 | Review | [Molecular aspects of allergy to plant products. Part II. Pathogenesis-related proteins (PRs), apple allergenicity governed by Mal d 1 gene]. | Pol Merkur Lekarski [pol]
+- new | 2012 | 22212126 | Research Support, Non-U.S. Gov't | Host species and strain combination determine growth reduction of spruce and birch seedlings colonized by root-associated dark septate endophytes. | Environ Microbiol
+- new | 2011 | 21454600 |  | Epitope grafting, re-creating a conformational Bet v 1 antibody epitope on the surface of the homologous apple allergen Mal d 1. | J Biol Chem
+- new | 2011 | 20579306 | Research Support, Non-U.S. Gov't | Young infants with atopic dermatitis can display sensitization to Cor a 9, an 11S legumin-like seed-storage protein from hazelnut (Corylus avellana). | Pediatr Allergy Immunol
+- new | 2011 | 21459169 | Research Support, Non-U.S. Gov't | Proteomic analysis of the major birch allergen Bet v 1 predicts allergenicity for 15 birch species. | J Proteomics
+- new | 2010 | 19995902 | Research Support, Non-U.S. Gov't | Antigen aggregation decides the fate of the allergic immune response. | J Immunol
+- new | 2010 | 20978606 |  | Structural study of biologically significant ligands with major birch pollen allergen Betv1 by docking and molecular dynamics simulation. | Bioinformation
+- new | 2010 | 20506417 |  | Successive multiple ionic polymer layer coated capillaries in the separation of proteins - recombinant allergen variants as a case study. | Electrophoresis
+- new | 2010 | 20502029 |  | Pollen enzymes degrade human tear fluid and conjunctival cells: an approach to understanding seasonal non-allergic conjunctivitis. | Dev Ophthalmol
+- new | 2009 | 19621361 |  | Confirmation of immuno-reactivity of the recombinant major birch pollen allergen Bet v 1a by affinity-CIEF. | Electrophoresis
+- new | 2009 | 19147130 | Research Support, Non-U.S. Gov't | Pollen allergenic potential nature of some trees species: a multidisciplinary approach using aerobiological, immunochemical and hospital admissions data. | Environ Res
+- new | 2008 | 18754759 | Research Support, Non-U.S. Gov't | The allergen profile of beech and oak pollen. | Clin Exp Allergy
+- new | 2008 | 18512676 |  | Validation of capillary zone electrophoresis and capillary isoelectric focusing separations optimized for the characterization of two recombinant products of the birch pollen aller | Electrophoresis
+- new | 2007 | 17522827 | Research Support, Non-U.S. Gov't/Review | Assessing effects of transgenic crops on soil microbial communities. | Adv Biochem Eng Biotechnol
+- new | 2007 | 17538926 | Comparative Study | Profiling recombinant major birch pollen allergen Bet v 1a and carbamylated variants with CZE and CIEF. | Electrophoresis
+- new | 2006 | 16820045 | Comparative Study | Seven different genes encode a diverse mixture of isoforms of Bet v 1, the major birch pollen allergen. | BMC Genomics
+- new | 2005 | 15330760 | Research Support, Non-U.S. Gov't | Molecular basis of pollen-related food allergy: identification of a second cross-reactive IgE epitope on Pru av 1, the major cherry (Prunus avium) allergen. | Biochem J
+- new | 2005 | 15725191 | Research Support, Non-U.S. Gov't | Vaccination for birch pollen allergy: comparison of the affinities of specific immunoglobulins E, G1 and G4 measured by surface plasmon resonance. | Clin Exp Allergy
+- new | 2005 | 15949986 | Research Support, Non-U.S. Gov't | Control of cytochrome b6f at low and high light intensity and cyclic electron transport in leaves. | Biochim Biophys Acta
+- new | 2004 | 15143439 | Research Support, Non-U.S. Gov't | Development of leaf photosynthetic parameters in Betula pendula Roth leaves: correlations with photosystem I density. | Plant Biol (Stuttg)
+- new | 2004 | 15024987 |  | [Polyclonal antisera to birch pollen allergen for the air allergen screening]. | Zh Mikrobiol Epidemiol Immunobiol [rus]
+- new | 2004 | 15233621 |  | Hazelnut (Corylus avellana) vicilin Cor a 11: molecular characterization of a glycoprotein and its allergenic activity. | Biochem J
+- new | 2004 | 15450960 | Research Support, Non-U.S. Gov't | Reductive titration of photosystem I and differential extinction coefficient of P700+ at 810-950 nm in leaves. | Biochim Biophys Acta
+- new | 2003 | 12656672 | Comparative Study/Research Support, Non-U.S. Gov't | Molecular characterization of recombinant T1, a non-allergenic periwinkle (Catharanthus roseus) protein, with sequence similarity to the Bet v 1 plant allergen family. | Biochem J
+- new | 2003 | 12943529 | Research Support, Non-U.S. Gov't | Mutational epitope analysis of Pru av 1 and Api g 1, the major allergens of cherry (Prunus avium) and celery (Apium graveolens): correlating IgE reactivity with three-dimensional s | Biochem J
+- new | 2003 | 14532017 |  | High autumn temperature delays spring bud burst in boreal trees, counterbalancing the effect of climatic warming. | Tree Physiol
+- new | 2003 | 12911792 | Comparative Study/Research Support, Non-U.S. Gov't | In vitro and in vivo allergenicity of recombinant Bet v 1 compared to the reactivity of natural birch pollen extract. | Clin Exp Allergy
+- new | 2003 | 16245060 |  | Deciphering the 820 nm signal: redox state of donor side and quantum yield of Photosystem I in leaves. | Photosynth Res
+- new | 2003 | 12431394 | Research Support, Non-U.S. Gov't | Vaccination for birch pollen allergy. Induction of affinity-matured or blocking IgG antibodies does not account for the reduced binding of IgE to Bet v 1. | Mol Immunol
+- new | 2001 | 11592645 | Research Support, Non-U.S. Gov't | Phenolics in selected European hardwood species by liquid chromatography-electrospray ionisation mass spectrometry. | Analyst
+- new | 2001 | 11407223 | Comparative Study | [Epidemiology of allergies in Switzerland]. | Ther Umsch [ger]
+- new | 2001 | 11391952 |  | [Positive ratio of allergen specific IgE antibodies in serum, from a large scale study]. | Rinsho Byori [jpn]
+- new | 2000 | 10669849 | Research Support, Non-U.S. Gov't | Purification and characterization of an 18-kd allergen of birch (Betula verrucosa) pollen: identification as a cyclophilin. | J Allergy Clin Immunol
+- new | 1999 | 10390933 | Research Support, Non-U.S. Gov't | Quantification of birch and grass pollen allergens in indoor air. | Indoor Air
+- new | 1998 | 9689341 | Research Support, Non-U.S. Gov't | Visualization and quantification of birch-pollen allergens directly on air-sampling filters. | Allergy
+- new | 1997 | 9418189 |  | Epitope analysis of birch pollen allergen in Japanese subjects. | J Clin Immunol
+- new | 1997 | 9450140 | Research Support, Non-U.S. Gov't | Effects of air pollution and other environmental factors on birch pollen allergens. | Allergy
+- new | 1997 | 9291291 | Comparative Study/Research Support, Non-U.S. Gov't | Quantification in mass units of Bet v 1, the main allergen of Betula verrucosa pollen, by a monoclonal antibody based-ELISA. | Clin Exp Allergy
+- new | 1996 | 8768804 | Research Support, Non-U.S. Gov't | Direct determination of allergens in ambient aerosols: methodological aspects. | Int Arch Allergy Immunol
+- new | 1996 | 8877160 | Case Reports | Inhalative occupational and ingestive immediate-type allergy caused by chicory (Cichorium intybus). | Clin Exp Allergy
+- new | 1996 | 9095250 |  | Characterisation of recombinant isoforms of birch pollen allergen Bet v 1. | Adv Exp Med Biol
+- new | 1996 | 8946858 | Research Support, Non-U.S. Gov't | X-ray and NMR structure of Bet v 1, the origin of birch pollen allergy. | Nat Struct Biol
+- new | 1996 | 8953655 |  | Crystallization and preliminary X-ray investigation at 2.0 A resolution of Bet v 1, a birch pollen protein causing IgE-mediated allergy. | Proteins
+- new | 1994 | 7918643 | Research Support, Non-U.S. Gov't | A birch gene family encoding pollen allergens and pathogenesis-related proteins. | Biochim Biophys Acta
+- new | 1993 | 7678615 | Research Support, Non-U.S. Gov't | Identification of multiple T cell epitopes on Bet v I, the major birch pollen allergen, using specific T cell clones and overlapping peptides. | J Immunol
+- new | 1993 | 8219778 | Research Support, Non-U.S. Gov't | Characterization of recombinant bet vI, the major pollen allergen of Betula verrucosa (white birch), produced by fed-batch fermentation. | Int Arch Allergy Immunol
+- new | 1993 | 8400895 | Research Support, Non-U.S. Gov't | Properties of tree and grass pollen allergens: reinvestigation of the linkage between solubility and allergenicity. | Int Arch Allergy Immunol
+- new | 1992 | 1370681 | Comparative Study/Research Support, Non-U.S. Gov't | Profilins constitute a novel family of functional plant pan-allergens. | J Exp Med
+- new | 1992 | 1603091 | Comparative Study/Research Support, Non-U.S. Gov't | PCR based cloning and sequencing of isogenes encoding the tree pollen major allergen Car b I from Carpinus betulus, hornbeam. | Mol Immunol
+- new | 1992 | 1602355 |  | [Immunological study of the HLA class II antigen associated with birch pollen allergy]. | Nihon Jibiinkoka Gakkai Kaiho [jpn]
+- new | 1992 | 1406724 | Research Support, Non-U.S. Gov't | Distribution of allergens and allergen-coding mRNAs in various tissues of white birch. | Mol Immunol
+- new | 1991 | 1857985 | Comparative Study/Research Support, Non-U.S. Gov't | Identification of profilin as a novel pollen allergen; IgE autoreactivity in sensitized individuals. | Science
+- new | 1991 | 1937902 | Research Support, Non-U.S. Gov't | A low molecular weight allergen of white birch (Betula verrucosa) is highly homologous to human profilin. | Int Arch Allergy Appl Immunol
+- new | 1991 | 1961201 | Comparative Study | The NH2-terminal amino acid sequence of the immunochemically partial identical major allergens of Alder (Alnus glutinosa) Aln g I, birch (Betula verrucosa) Bet v I, hornbeam (Carpi | Mol Immunol
+- new | 1991 | 2005320 | Research Support, Non-U.S. Gov't | Homology of the major birch-pollen allergen, Bet v I, with the major pollen allergens of alder, hazel, and hornbeam at the nucleic acid level as determined by cross-hybridization. | J Allergy Clin Immunol
+- new | 1989 | 2742661 | Comparative Study | [A new rapid test for the detection of IgE antibodies in inhalation allergies]. | Laryngorhinootologie [ger]
+- new | 1989 | 2571499 | Research Support, Non-U.S. Gov't | The gene coding for the major birch pollen allergen Betv1, is highly homologous to a pea disease resistance response gene. | EMBO J
+- new | 1989 | 2478043 | Comparative Study/Research Support, Non-U.S. Gov't | Dust from carpeted and smooth floors. II. Antigenic and allergenic content of dust vacuumed from carpeted and smooth floors in schools under routine cleaning schedules. | Allergy
+- new | 1989 | 2752322 | Comparative Study | Dust from carpeted and smooth floors. I. Comparative measurements of antigenic and allergenic proteins in dust vacuumed from carpeted and non-carpeted classrooms in Norwegian schoo | Clin Exp Allergy
+- new | 1988 | 3207182 | Research Support, Non-U.S. Gov't | Immediate and late phase allergic cutaneous reactions are not inducers of unspecific or specific local hyperreactivity. | Allergy
+- new | 1988 | 3189966 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative studies on tree pollen allergens. XIV. Characterization of the birch (Betula verrucosa) and hazel (Corylus avellana) pollen extracts by horizontal 2-D SDS-PAGE combined | Ann Allergy
+- new | 1988 | 3233726 | Comparative Study | A study of allergens in celery with cross-sensitivity to mugwort and birch pollens. | Clin Allergy
+- new | 1987 | 3429540 |  | Purification of allergens by high-performance liquid chromatography. VII. Purification of the major allergen of birch pollen (Betula verrucosa). | J Chromatogr
+- new | 1987 | 3800056 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative studies on tree pollen allergens. XVII. Immunochemical analysis of the international standardization extracts of birch (Betula verrucosa) pollen as compared with a loca | Ann Allergy
+- new | 1986 | 3486858 |  | Visualization of birch pollen allergens using IgE-containing sera from human atopic individuals in immunogold labelling experiments. | Histochem J
+- new | 1986 | 3957444 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative studies on tree pollen allergens. X. Further purification and N-terminal amino acid sequence analyses of the major allergen of birch pollen (Betula verrucosa). | Int Arch Allergy Appl Immunol
+- new | 1984 | 16663817 |  | Metabolic response of river birch and European birch and European birch roots to hypoxia. | Plant Physiol
+- new | 1984 | 6200444 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative studies on tree pollen allergens. VII. Monomethoxy polyethylene glycol conjugation of the major allergen of birch pollen (Betula verrucosa). | Int Arch Allergy Appl Immunol
+- new | 1983 | 6886253 |  | Isolation and immunochemical characterization of the major allergen of birch pollen (Betula verrucosa). | J Allergy Clin Immunol
+- new | 1983 | 6219960 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative studies on tree-pollen allergens. V. Immunochemical mapping of the antigens and allergens of birch pollen extract (Betula verrucosa). | Int Arch Allergy Appl Immunol
+- new | 1983 | 6832844 | Comparative Study | Comparative studies on tree-pollen allergens. VI. The effect of thermal denaturation on the reactivity of birch pollen (Betula verrucosa) allergens. | Int Arch Allergy Appl Immunol
+- new | 1982 | 6176552 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative studies on tree-pollen allergens. III. A purified low molecular weight major allergen from birch pollen (Betula verrucosa) isolated by gel permeation chromatography. | Int Arch Allergy Appl Immunol
+- new | 1982 | 7095873 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative studies on tree pollen allergens. IV. Evaluation of two commercially available allergen extracts of alder (Alnus incana) and birch (Betula verrucosa) pollen. | Int Arch Allergy Appl Immunol
+- new | 1981 | 7203648 | Comparative Study | Comparative studies on tree-pollen allergens. I. Isolation and partial characterization of a major allergen from birch pollen (Betula verrucosa). | Int Arch Allergy Appl Immunol
+- new | 1980 | 7214889 |  | Immediate contact allergy to birch leaves and sap. | Contact Dermatitis
+
+### PubMed OBS - 15 hits, 8 not already listed above, 8 new
+- new | 2023 | 36749585 | Research Support, N.I.H., Extramural | Precipitation and Adolescent Respiratory Health in the Northeast United States. | Ann Am Thorac Soc
+- new | 2020 | 32348497 | Research Support, Non-U.S. Gov't | Timeline of autumn phenology in temperate deciduous trees. | Tree Physiol
+- new | 2019 | 31070766 | Research Support, Non-U.S. Gov't | Electrical resistivity tomography: patterns in Betula pendula, Fagus sylvatica, Picea abies and Pinus sylvestris. | Tree Physiol
+- new | 2019 | 31798610 |  | Noninvasive Analysis of Tree Stems by Electrical Resistivity Tomography: Unraveling the Effects of Temperature, Water Status, and Electrode Installation. | Front Plant Sci
+- new | 2019 | 30743901 |  | Nitrogen availability does not affect ozone flux-effect relationships for biomass in birch (Betula pendula) saplings. | Sci Total Environ
+- new | 2015 | 26528318 |  | Elevated air humidity affects hydraulic traits and tree size but not biomass allocation in young silver birches (Betula pendula). | Front Plant Sci
+- new | 2013 | 23630329 | Research Support, Non-U.S. Gov't | Nutrient status: a missing factor in phenological and pollen research? | J Exp Bot
+- new | 1995 | 7819743 | Multicenter Study/Research Support, Non-U.S. Gov't | Prevalence of atopy and pollinosis in the adult population of Switzerland (SAPALDIA study). Swiss Study on Air Pollution and Lung Diseases in Adults. | Int Arch Allergy Immunol
+
+### PubMed REV - 21 hits, 11 not already listed above, 11 new
+- new | 2025 | 40845699 | Review | Arsenic uptake and accumulation in trees: Evaluating potential of dendroremediation for contaminated environments. | Sci Total Environ
+- new | 2023 | 37895122 | Review | Plant Extracts as Skin Care and Therapeutic Agents. | Int J Mol Sci
+- new | 2023 | 36839954 | Review | The Potential of Medicinal Plants and Natural Products in the Treatment of Burns and Sunburn-A Review. | Pharmaceutics
+- new | 2020 | 33374275 | Review | Plant Sources Responsible for the Chemical Composition and Main Bioactive Properties of Poplar-Type Propolis. | Plants (Basel)
+- new | 2020 | 33233429 | Review | Baccharis dracunculifolia and Dalbergia ecastophyllum, Main Plant Sources for Bioactive Properties in Green and Red Brazilian Propolis. | Plants (Basel)
+- new | 2010 | 21565760 | Review | The past, present and future tasks of Hungarian dendrological research. | Acta Biol Hung
+- new | 2009 | 20175440 | Research Support, Non-U.S. Gov't/Review | Rising atmospheric CO2 concentration partially masks the negative effects of elevated O3 in silver birch (Betula pendula Roth). | Ambio
+- new | 2009 | 20175439 | Research Support, Non-U.S. Gov't/Review | Near-ambient ozone concentrations reduce the vigor of Betula and Populus species in Finland. | Ambio
+- new | 2007 | 16865657 | Research Support, Non-U.S. Gov't/Review | Northern environment predisposes birches to ozone damage. | Plant Biol (Stuttg)
+- new | 2004 | 15341318 | Research Support, Non-U.S. Gov't/Review | Dendroremediation of trinitrotoluene (TNT). Part 1: Literature overview and research concept. | Environ Sci Pollut Res Int
+- new | 2000 | 33862911 | Review | Symbiotic germination and development of myco-heterotrophic plants in nature: transfer of carbon from ectomycorrhizal Salix repens and Betula pendula to the orchid Corallorhiza tri | New Phytol
+
+### ClinicalTrials.gov - 8 registered studies
+- NCT00535639 | COMPLETED | results=False | PHASE1 | Tolerability of ALK Tree Tablet | conds: Allergy | intr: Betula Verrucosa allergen extract
+- NCT02481856 | COMPLETED | results=False | PHASE2 | A Dose-response Evaluation of the SQ Tree SLIT-tablet Using an Environmental Exposure Chamber | conds: Allergic Rhinoconjunctivitis | intr: SQ tree SLIT-tablet, Placebo | pubs: ['33905129:DERIVED (new)']
+- NCT02527187 | COMPLETED | results=True | PHASE2 | Determination of the Sensitivity and Specificity of Prick Test Betula Verrucosa | conds: Immune System Diseases | intr: 10 HEP/mL Betula verrucosa allergen extract, 25 HEP/mL Betula verrucosa allergen extract, 50 HEP/mL 
+- NCT01147159 | COMPLETED | results=False | PHASE2 | Biological Standardization of Allergen Extracts of Pollens of Betula Pendula, Phleum Pratense and Mite Extract of Dermatophagoides Pteronyss | conds: Allergy | intr: Extracts of allergens
+- NCT06085963 | COMPLETED | results=False | NA | Nasal Allergen Challenge Test as a Method to Detect Clinical Reactivity Against Birch Pollen | conds: Allergic Rhinitis Due to Pollen | intr: ITULAZAX 12 SQ-Bet, Placebo tablet, Nacl
+- NCT02423707 | COMPLETED | results=False | PHASE2,PHASE3 | Safety and Efficacy Study of Intralymphatic Allergen-specific Immunotherapy | conds: Allergic Rhinitis | intr: ALK Alutard Birch and/or 5-grasses, ALK Diluent
+- NCT06651294 | COMPLETED | results=False | NA | Efficacy of Neorenal Forte for the Complete Elimination of Residual Fragments | conds: Urolithiasis | intr: Neorenal Forte, Placebo
+- NCT04912076 | COMPLETED | results=False | PHASE1 | S.C. Immunotherapy With BM41 in Patients With Allergic Rhino-conjunctivitis Caused by Birch Pollen | conds: Birch Pollen Allergy, Allergic Rhinoconjunctivitis | intr: BM41, Placebo, ALK Alutard SQ Betula verrucosa
+
+### OpenAlex no-PMID trial-worded - 1612 hits, 78 without PMID, 78 new
+- new | 2026 | 10.1007/s11104-026-09175-2 | article | Using recovered road sweepings in manufactured soils: a Betula pendula growth trial | Plant and Soil
+- new | 2025 | 10.1016/j.tfp.2025.100930 | article | From progeny trial to stand projections: A modelling approach to genetic gains in silver birch | Trees Forests and People
+- new | 2025 | https://openalex.org/W7110677108 | dissertation | Baumartenklassifikation anhand von UAV-RGB-LiDAR-Daten: Anwendung eines Random Forest und Identifizierung saisonal relevanter Metriken zur Differenzierung der Baumarten Pinus sylve | elib (German Aerospace Center)
+- new | 2025 | 10.1016/j.hermed.2025.101068 | article | Green synthesis of Betula pendula Roth. mediated silver nanoparticles and their cytotoxic effect on MCF-7 and MCF-12A cell lines | Journal of Herbal Medicine
+- new | 2024 | 10.37988/1811-153x_2024_1_12 | article | The effectiveness of the Mucosept for the treatment of radiotherapy-induced oral mucositis in head and neck cancer patients: A multicenter randomized controlled trial | Clinical Dentistry (Russia)
+- new | 2024 | 10.31857/s0002188124040115 | article | Elemental Composition of the Leaves of the Hanging Birch (Betula pendula Roth) in the Area of the Transbaikalia Gold Deposit | Агрохимия
+- new | 2024 | 10.3390/su16083217 | article | Genetic Diversity of Dominant Species Betula pendula in River Valley Forests in the Irtysh River Basin and Sustainable Conservation Measures for the Future | Sustainability
+- new | 2024 | 10.22363/2312-797x-2024-19-1-155-164 | article | Anthropogenic impact on stability of forest crops development of silver birch Betula pendula Roth in the green zone of Astana | RUDN Journal of Agronomy and Animal Indu
+- new | 2023 | 10.3390/f14102031 | article | Non-Destructive Evaluation of Downy and Silver Birch Wood Quality and Stem Features from a Progeny Trial in Southern Sweden | Forests
+- new | 2023 | 10.3390/horticulturae10010027 | article | Genome-Wide Identification and Expression Analysis of Auxin Response Factor (ARF) Gene Family in Betula pendula | Horticulturae
+- new | 2022 | 10.1183/13993003.congress-2022.860 | conference-abstract | Alarmin release in the bronchial epithelium of allergic asthma patients vary in response to different aeroallergens | European Respiratory Journal
+- new | 2022 | 10.1183/23120541.lsc-2022.83 | conference-abstract | Comparing epithelial alarmin responses to different aeroallergens in bronchial epithelial cells from allergic asthma patients | 
+- new | 2022 | 10.31163/2618-964x-2022-5-4-196-207 | article | FEATURES OF CHANGES IN SIGNS DURING THE SEASONAL DEVELOPMENT OF THE LEAVES OF THE HANGING BIRCH (BETULA PENDULA ROTH) | ÈKOBIOTEH
+- new | 2022 | 10.22034/ijf.2022.317796.1830 | article | Vegetation-environment relationship in the birch (Betula pendula Roth.) site in the mountainous riparian forests of Marmisho valley | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2021 | 10.1055/s-0041-1736784 | conference-paper | Silver birch (Betula pendula Roth) – phytochemical characterization of the constituents and their metabolites present in the urine | Planta Medica
+- new | 2021 | 10.22363/2313-2310-2021-29-2-127-137 | article | Variability of leaves of Betula pendula Roth during the growing season in the recreation area in the industrial center | RUDN Journal of Ecology and Life Safety
+- new | 2020 | 10.31163/2618-964x-2020-3-3-424-428 | article | STATE OF THE FOREST OF BETULA PENDULA ROTH. IN THE SUBURBAN STANDS OF KRASNOYARSK FOREST-STEPPE | ÈKOBIOTEH
+- new | 2020 | https://openalex.org/W3209312615 | dissertation | Herbivore and rust damage of Silver birch (Betula pendula) leaves under climate warming | UEF eRepo (University of Eastern Finland
+- new | 2020 | https://openalex.org/W3047461947 | article | Оценка качества среды в городском лесопарке методом флуктуирующей асимметрии листьев берёзы повислой (Betula pendula Roth.) | Леса России и хозяйство в них
+- new | 2019 | https://openalex.org/W3006922928 | conference-paper | Nondestructive wood density testing in downy birch and silver birch genetics field trial, southern Sweden | DiVA (Linnaeus University)
+- new | 2019 | 10.1080/02827581.2019.1576921 | article | Genetic variation and inheritance in a 9 × 9 diallel in silver birch (Betula pendula) | Scandinavian Journal of Forest Research
+- new | 2018 | https://openalex.org/W2897591540 | dissertation | Parental and individual variation of growth traits and wood density in a progeny trial after a complete diallel crossing of 9 Silver birch (Betula pendula) trees in south-eastern N | NVA (Nasjonalt vitenarkiv)
+- new | 2018 | 10.1007/s11104-018-3631-8 | article | Intrapopulation genotypic variation in leaf litter chemistry does not control microbial abundance and litter mass loss in silver birch, Betula pendula | Plant and Soil
+- new | 2017 | 10.14214/sf.7731 | article | Growth, wood density and bark thickness of silver birch originating from the Baltic countries and Finland in two Finnish provenance trials | Silva Fennica
+- new | 2017 | 10.12737/article_599ac84a54e426.71494049 | article | PRECISION OF MEASUREMENT AND DIRECTED ASYMMETRY IN LEAF PLATES OF BETULA PENDULA ROTH | Vestnik of Kazan state agrarin universit
+- new | 2017 | 10.25198/1814-6457-211-115 | article | SEASONAL VARIABILITY OF LEAVES BETULA PENDULA ROTH IN EXTREME FOREST VEGETATION CONDITIONS | Вестник Оренбургского государственного у
+- new | 2017 | 10.1016/j.foreco.2017.11.055 | article | Differentiation of herb layer vascular flora in reclaimed areas depends on the species composition of forest stands | Forest Ecology and Management
+- new | 2016 | https://openalex.org/W2803166072 | article | Double blind placebo-controlled allergen-specific immunotherapy with the hypoallergenic folded variant of rBet v 1-FV in birch associated soy allergy | mediaTUM (Technical University of Munich
+- new | 2015 | https://openalex.org/W4387678224 | article | Characteristics of T-cell and B-cell immune respoonses to pollen allergens in Bulgarian patients with pollinosis | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2015 | 10.1515/fsmu-2015-0013 | article | Effect of sample plot size and shape on estimates of structural indices: A case study in mature silver birch (Betula pendula Roth) dominating stand in Järvselja | Forestry Studies / Metsanduslikud Uurimu
+- new | 2014 | 10.1139/cjfr-2013-0493 | article | Variation in 13 leaf morphological and physiological traits within a silver birch (Betula pendula) stand and their relation to growth | Canadian Journal of Forest Research
+- new | 2013 | 10.14214/df.157 | article | Clonal variation in Scots pine (Pinus sylvestris) and in transgenic silver birch (Betula pendula) | Dissertationes Forestales
+- new | 2012 | 10.1016/j.foreco.2012.10.030 | article | Effects of seed transfers on yield and stem defects of silver birch (Betula pendula Roth) | Forest Ecology and Management
+- new | 2012 | 10.2478/v10111-012-0031-3 | article | Spatial diversity of planted and untended silver birch (Betula pendula L.) stands | Forest Research Papers
+- new | 2011 | 10.1007/s11295-011-0387-1 | article | Comparison of variation in adaptive traits between wild-type and transgenic silver birch (Betula pendula) in a field trial | Tree Genetics & Genomes
+- new | 2009 | https://openalex.org/W2291766956 | article | Cultivation trial of silver birch (Betula pendula Roth) in the forest district Johanniskreuz, Rhineland-Palatinate, Germany. | 
+- new | 2009 | https://openalex.org/W2122864386 | article | Betula pendula Roth (syn = B. verrucosa) polenine duyarlı hastalarda IgE reaktivite profilleri | 
+- new | 2009 | 10.1055/s-0029-1234939 | article | Investigation of irritation properties of some extracts and isolated triterpenes from birch, Betula pendula, Roth. | Planta Medica
+- new | 2009 | 10.3354/cr00813 | article | Influence of climate change on phenological phases in Latvia and Lithuania | Climate Research
+- new | 2008 | 10.14214/sf.226 | article | Seed transfers of silver birch (Betula pendula) from the Baltic to Finland – effect on growth and stem quality | Silva Fennica
+- new | 2008 | 10.1007/s00468-007-0202-7 | article | Field performance of chitinase transgenic silver birch (Betula pendula Roth): growth and adaptive traits | Trees
+- new | 2007 | https://openalex.org/W2393279004 | article | Preliminary results from growth trial of Betula pendula at seedling stage | Journal of Jilin Forestry Science and Te
+- new | 2007 | 10.37045/aslh-2007-0035 | article | Biological Sprout Control with Chondrostereum purpureum- Preliminary Results from Field Trials in Finland | Acta silvatica & lignaria Hungarica
+- new | 2006 | https://openalex.org/W2362345454 | article | A Trial on Grafting of Betula pendula | Techan yanjiu
+- new | 2006 | 10.1016/j.foreco.2006.04.011 | article | Effect of the latitude of seed origin on moose (Alces alces) browsing on silver birch (Betula pendula) | Forest Ecology and Management
+- new | 2006 | 10.14214/sf.322 | article | Models for vertical wood density of Scots pine, Norway spruce and birch stems, and their application to determine average wood density | Silva Fennica
+- new | 2005 | 10.1016/j.apsoil.2005.07.007 | article | Decomposition of leaf litter from chitinase transgenic silver birch (Betula pendula) and effects on decomposer populations in a field trial | Applied Soil Ecology
+- new | 2004 | 10.17221/4636-jfs | article | The effect of stress factors on birch Betula pendula Roth | Journal of Forest Science
+- new | 2004 | 10.1016/j.foreco.2004.01.041 | article | Spatial interactions between Scots pine (Pinus sylvestris L.), common oak (Quercus robur L.) and silver birch (Betula pendula Roth.) as investigated in stratified stands in mesotro | Forest Ecology and Management
+- new | 2003 | 10.1046/j.1461-9563.2003.00177.x | article | Effects of elevated CO 2 and temperature on the leaf chemistry of birch Betula pendula (Roth) and the feeding behaviour of the weevil Phyllobius maculicornis | Agricultural and Forest Entomology
+- new | 2003 | 10.1080/02827580310015422 | article | Genetic Variability in Two Tree Species, Acer platanoides L. and Betula pendula Roth, With Contrasting Life-history Traits | Scandinavian Journal of Forest Research
+- new | 2002 | 10.1007/s00299-002-0449-9 | article | Transgenic silver birch (Betula pendula) expressing sugarbeet chitinase 4 shows enhanced resistance to Pyrenopeziza betulicola | Plant Cell Reports
+- new | 2001 | 10.1046/j.1439-0329.2001.00235.x | article | Effect of Betula pendula clone and leaf age on Melampsoridium betulinum rust infection in a field trial | Forest Pathology
+- new | 2001 | 10.1093/forestry/74.5.439 | article | Potential for the improvement of silver birch (Betula pendula Roth.) in Scotland | Forestry An International Journal of For
+- new | 2001 | 10.14214/sf.576 | article | Micropropagated silver birches (Betula pendula) in the field – performance and clonal differences | Silva Fennica
+- new | 2001 | 10.1023/a:1013915103283 | article | Increasing Tropospheric Ozone Level Reduced Birch (Betula Pendula) Dry Mass within a Five Years Period | Water Air & Soil Pollution
+- new | 2001 | 10.1007/978-94-007-0810-5_5 | book-chapter | Increasing Tropospheric Ozone Level Reduced Birch (Betula Pendula) Dry Mass within a Five Years Period | Springer eBooks
+- new | 2000 | 10.1139/x00-110 | article | Susceptibility of Betula pendula clones to Phytobia betulae, a dipteran miner of birch stems | Canadian Journal of Forest Research
+- new | 2000 | https://openalex.org/W3035712799 | dissertation | Pollen competition in silver birch (Betula pendula Roth) - An evolutionary perspective and implications for commercial seed production. Väitöskirja | Jukuri (Natural Resources Institute Finl
+- new | 2000 | https://openalex.org/W325377602 | article | Thinning trial in secondary growth ash-maple stands carried out in the Agno-Chiampo district (Eastern Prealps). | 
+- new | 2000 | 10.1016/s0378-1127(99)00187-5 | article | Initial sprouting, growth and mortality of European aspen and birch after selective coppicing in central Sweden | Forest Ecology and Management
+- new | 2000 | 10.1016/s0031-0182(00)00168-1 | article | The taphonomy of charcoal following a recent heathland fire and some implications for the interpretation of fossil charcoal deposits | Palaeogeography Palaeoclimatology Palaeo
+- new | 1999 | 10.14214/sf.659 | article | Growth and stem quality of mature birches in a combined species and progeny trial | Silva Fennica
+- new | 1999 | 10.1046/j.1469-8137.1999.00451.x | article | Pollen‐tube growth rate and seed‐siring success among Betula pendula clones | New Phytologist
+- new | 1999 | 10.1139/x99-036 | article | Inbreeding depression in three generations of selfed families of silver birch (Betula pendula) | Canadian Journal of Forest Research
+- new | 1999 | 10.1016/s0961-9534(98)00073-7 | article | Stand growth of deciduous pioneer tree species on fertile agricultural land in southern Sweden | Biomass and Bioenergy
+- new | 1997 | 10.1017/s0953756296002900 | article | Genetic variation and host specificity of Phytophthora cactorum isolated in Europe | Mycological Research
+- new | 1996 | 10.1016/s0176-1617(96)80312-9 | article | Ozone Affects Birch (Betula pendula Roth) Phenylpropanoid, Polyamine and Active Oxygen Detoxifying Pathways at Biochemical and Gene Expression Level | Journal of Plant Physiology
+- new | 1996 | 10.1007/978-94-011-3983-0_36 | book-chapter | Ozone-Induced Defense Reactions in Birch (Betula pendula Roth) | Forestry sciences
+- new | 1995 | 10.1111/j.1469-8137.1995.tb01821.x | article | Morphological and molecular variation in natural populations of Betula | New Phytologist
+- new | 1994 | 10.14214/sf.a9181 | article | Performance of micropropagated plants of silver birch (Betula pendula) in a field trial. | Silva Fennica
+- new | 1993 | 10.1093/jxb/44.8.1395 | article | Combined Effects of Partial Defoliation and Nutrient Availability on Cloned Betula pendula Saplings: II. CHANGES IN NET PHOTOSYNTHESIS AND RELATED BIOCHEMICAL PROPERTIES | Journal of Experimental Botany
+- new | 1993 | 10.1080/02827589309382795 | article | Variation of growth rhythm among families and correlation between growth rhythm and growth Rate in Betula pendula roth | Scandinavian Journal of Forest Research
+- new | 1987 | 10.14214/sf.a15462 | article | Simulation model for natural regeneration of Pinus sylvestris, Picea abies, Betula pendula and Betula pubescens. | Silva Fennica
+- new | 1987 | 10.2307/2260432 | article | Effects of Simulated Winter Browsing by Moose on Morphology and Biomass of Two Birch Species | Journal of Ecology
+- new | 1982 | 10.1016/0378-1127(82)90026-3 | article | Ecology of some fungi associated with an ageing stand of birches (Betula pendula and B. pubescens) | Forest Ecology and Management
+- new | 1979 | https://openalex.org/W7216769851 | article | Wood density in two Betula pendula roth progeny trials. | Jukuri (Natural Resources Institute Finl
+- new | 1979 | https://openalex.org/W7216943249 | article | Initial development of different Betula pendula roth provenances in the seedling nursery and in field trials. | Jukuri (Natural Resources Institute Finl
+
+## bistorta-officinalis (Bistorta officinalis) - name clause: "Bistorta officinalis"[tiab] OR "Polygonum bistorta"[tiab] OR "Persicaria bistorta"[tiab] OR "bistort"[tiab]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 1 hits, 1 not already listed above, 1 new
+- new | 2025 | 39720831 | Review | Multiple benefits of herbs: Polygonaceae species in veterinary pharmacology and livestock nutrition. | Vet Anim Sci
+
+### PubMed SAFE - 3 hits, 3 not already listed above, 2 new
+- new | 2023 | 38077406 | Research Support, N.I.H., Extramural | Cancer chemoprevention with PV-1, a novel Prunella vulgaris-containing herbal mixture that remodels the tumor immune microenvironment in mice. | Front Immunol
+- HELD REF-0747 | 2020 | 32326481 |  | Anti-Virulence Potential and In Vivo Toxicity of Persicaria maculosa and Bistorta officinalis Extracts. | Molecules
+- new | 2013 | 22086836 |  | Chemopreventive effect of a mixture of Chinese Herbs (antitumor B) on chemically induced oral carcinogenesis. | Mol Carcinog
+
+### PubMed OBS - 1 hits, 1 not already listed above, 1 new
+- new | 2023 | 36578188 |  | Authentication of Bistortae Rhizoma and its three adulterants based on their macroscopic morphology and microscopic characteristics. | Microsc Res Tech
+
+### PubMed REV - 1 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 7 hits, 5 without PMID, 5 new
+- new | 2026 | 10.22358/jafs/218163/2026 | article | Alternative tannin sources in post-weaning piglets: impact of Lythrum salicaria and Bistorta officinalis on health and performance | Journal of Animal and Feed Sciences
+- new | 2026 | 10.14273/unisa/dottorato/11386_4935167 | other | SUSTAINABLE RECOVERY OF BIOACTIVE AND FUNCTIONAL COMPOUNDS FROM NATURAL SOURCES | 
+- new | 2025 | 10.54097/v2y85068 | article | Research Progress on the Mechanism Exploration and Clinical Application of Traditional Chinese Medicine in Treating Non-Small Cell Lung Cancer | International Journal of Biology and Lif
+- new | 2025 | 10.1016/j.rsase.2025.101666 | article | Enhancing mountain grassland mapping: A comparative study with PRISMA hyperspectral, multispectral, and SAR data | Remote Sensing Applications Society and 
+- new | 2023 | 10.33928/bib.2023.05.093 | article | Can the distribution patterns of plants used by humans as food give clues as to whether they are native or introduced? | British & Irish Botany

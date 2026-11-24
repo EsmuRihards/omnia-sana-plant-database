@@ -163,11 +163,17 @@ actions:
   reference_ids:
   - REF-0402
   status: verified
+- action: vulnerary
+  reference_ids:
+  - REF-5192
+  status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
-  status: needs-review
+  note: A standardized astragalus root extract reduced knee pain and improved WOMAC scores more than placebo
+    over 28 days in a small double-blind randomized trial in adults with functional knee joint pain
+  reference_ids:
+  - REF-5189
+  status: verified
   mechanistic_exclude_ids:
   - REF-0402
 - condition: cancer
@@ -191,13 +197,14 @@ indications:
   - REF-2263
   - REF-0401
 - condition: fatigue
-  note: Reduced fatigue after stroke and in cancer patients in meta-analyses of trials (low-quality evidence)
-    and in a trial in nurses with post-COVID fatigue; an Astragalus polysaccharide infusion did not reduce
-    chemotherapy fatigue overall
+  note: Reduced fatigue after stroke and in cancer patients in meta-analyses of trials (low-quality evidence),
+    in a placebo-controlled trial after stroke and in a trial in nurses with post-COVID fatigue; an Astragalus
+    polysaccharide infusion did not reduce chemotherapy fatigue overall
   reference_ids:
   - REF-2261
   - REF-3449
   - REF-3450
+  - REF-5190
   status: verified
   mechanistic_exclude_ids:
   - REF-0402
@@ -237,6 +244,13 @@ indications:
     of randomized trials; evidence of limited certainty)
   reference_ids:
   - REF-3455
+  status: verified
+- condition: kidney-support
+  note: Added to usual treatment, astragalus reduced protein in the urine and serum creatinine in people
+    with diabetic kidney disease in a meta-analysis of 66 low-quality trials; most trials used an injection,
+    but oral preparations also reduced albumin in the urine (4 trials)
+  reference_ids:
+  - REF-5191
   status: verified
 contraindications:
 - note: Astragalus stimulates immune activity; on theoretical grounds it should be used cautiously in
@@ -322,4 +336,33 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pha
   inflammation). New blood-sugar pair from adjuvant-T2DM MA REF-3455 (owner rule). Cochrane CKD
   REF-0586 ("definitive conclusions could not be made") removed from the nephroprotective action
   (inv. 7) and kept in references. REF-2262 retagged narrative-review. Cold note now states its
-  inference.'
+  inference.
+  | 2026-11-24: symptom-source audit research-deepening batch 5 - Searched PubMed (Astragalus
+  membranaceus / A. mongholicus / Astragali radix / Huangqi / Radix Astragali tiab: 339 HT, 186
+  SR, 657 SAFE hits), Europe PMC, ClinicalTrials.gov (89) and OpenAlex. Most hits are multi-herb
+  formulas, decoctions or Astragalus injection; injection trials are not used as support (a
+  hospital drug route, not herbal use; same rule as the andrographolide injections in batch 3).
+  Added: 2025 Indian placebo RCT of a root extract for knee joint pain (arthritis, was
+  inferred-only; now verified); 2016 placebo RCT in post-stroke fatigue; NEW kidney-support pair
+  from Zhang 2019 MA in diabetic kidney disease (oral subgroup 4 RCTs, 236 people, less
+  albuminuria; conclusion "may be effective", low-quality evidence); preclinical MA on wound
+  healing (new vulnerary action); 2025 herb-drug review (new DRAFT CYP3A4 interaction,
+  insufficient, needs owner sign-off). Considered, not added: Cochrane 2016 on preventing
+  respiratory infections in children (no eligible trials - an empty review, not a null);
+  open-label RCT and Chinese companion paper on diastolic function in hypertensive women with MetS
+  (tiny echo changes, surrogate, no symptom outcome); HFrEF and AMI meta-analyses (preparation not
+  stated, mostly injection); injection-only DN MA 2011; Astragalus polysaccharide cancer MAs
+  (mostly injection); Lectranal hay-fever RCT (herbal-mineral complex); Myelophil, SHPro,
+  AstraGin, Rubus + Astragalus and Huang Qi formula trials (combinations); stroke-recovery and SAH
+  trials (no vocab condition).'
+drug_class_interactions:
+- drug_class: cyp3a4-substrates
+  severity: insufficient
+  mechanism: A 2025 review reports that astragalus and its main compounds can alter drug-metabolising
+    enzymes and the P-glycoprotein drug pump (CYP2C9, CYP3A4, UGT1A6), so it may interact with drugs such
+    as midazolam, tolbutamide or digoxin; studies disagree on its effect on CYP3A4.
+  reference_ids:
+  - REF-5193
+  status: draft
+synonyms:
+- Astragalus mongholicus

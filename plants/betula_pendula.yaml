@@ -231,6 +231,17 @@ indications:
   reference_ids:
   - REF-0080
   status: needs-review
+- condition: wounds
+  note: A licensed gel of birch bark extract (from silver and downy birch) closed epidermolysis bullosa
+    wounds more often than a control gel in a double-blind randomized trial, and sped healing of skin-graft
+    donor sites in randomized trials; the gel is approved in the EU for wounds in epidermolysis bullosa
+  reference_ids:
+  - REF-5200
+  - REF-5201
+  - REF-5202
+  - REF-5203
+  - REF-5204
+  status: verified
 contraindications:
 - note: Generally considered safe when used appropriately. Side effects may include diarrhea, nausea,
     and allergic reactions (itching, rash, stuffy nose). Not recommended for individuals with edema caused
@@ -249,6 +260,12 @@ contraindications:
   reference_ids:
   - REF-0080
   - REF-0063
+  status: verified
+- note: The licensed birch bark gel can cause allergic (hypersensitivity) reactions and must be stopped
+    at once if they occur; wound infection is a known complication of treatment (EU product information).
+  severity: info
+  reference_ids:
+  - REF-5204
   status: verified
 references:
 - REF-0743
@@ -304,4 +321,19 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   arthritis, hidden elsewhere (prose-only genus claims) - infection and wounds dropped. REF-1692
   (inflammatory lymphocytes; rationale for RA) direct for arthritis and inflammation; back-pain
   dropped (off-target, inv. 11). REF-1695 is B. pendula subsp. mandshurica (accepted infraspecific
-  taxon) - kept.'
+  taxon) - kept.
+  | 2026-11-24: symptom-source audit research-deepening batch 5 - Searched PubMed (Betula pendula
+  / B. verrucosa / silver birch / Betulae folium tiab; birch leaf / leaves / sap ti), Europe PMC,
+  ClinicalTrials.gov (8) and OpenAlex: nearly all hits are birch pollen allergy or forestry; no
+  human trial of birch leaf. A second targeted PubMed search ("birch bark", Oleogel-S10, Filsuvez,
+  Episalyl, birch triterpenes) found the bark extract trials. Species: the EMA Filsuvez SmPC
+  (REF-5204, PDF read 2026-11-24) names the bark of Betula pendula, B. pubescens and their
+  hybrids; the 2023 review (REF-5203) identifies Filsuvez with Oleogel-S10; Episalvan was the same
+  10% extract in sunflower oil. NEW wounds pair: EASE phase III double-blind RCT (223 EB patients,
+  41.3% vs 28.9% target wound closure by day 45), two parallel phase III donor-site RCTs (219
+  patients, 1.1 days faster), phase II donor-site RCT (24 patients). Safety: SmPC hypersensitivity
+  and wound-infection warnings as a new info note. Considered, not added: Brno single-centre
+  report (a subset of the phase III donor-site trial), burns RCT vs Octenilin gel (active
+  comparator only), EASE 24-month open extension and paediatric follow-up (no new contrast),
+  actinic keratosis placebo RCT 2015 (no effect; no vocab condition), hepatitis C pilot, betulin
+  lab and nanofibre papers, birch sap rat studies.'

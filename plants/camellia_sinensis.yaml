@@ -166,11 +166,14 @@ actions:
   status: verified
 indications:
 - condition: blood-sugar
-  note: Green tea lowered fasting glucose and HbA1c in a meta-analysis of 17 trials; a meta-analysis limited
-    to type 2 diabetes found no significant effect
+  note: Green tea lowered fasting glucose and HbA1c in a meta-analysis of 17 trials and in a 2024 meta-analysis
+    in type 2 diabetes; a 2020 meta-analysis found lower fasting glucose but no change in HbA1c, and a
+    2021 meta-analysis limited to type 2 diabetes found no significant effect
   reference_ids:
   - REF-0045
   - REF-3478
+  - REF-5224
+  - REF-5225
   status: needs-review
   null_result_ids:
   - REF-3479
@@ -191,9 +194,11 @@ indications:
     heart outcomes are unstudied
 - condition: cognitive-function
   note: L-theanine, an amino acid found in tea, increased brain alpha activity linked to relaxed alertness
-    in a small trial (compound evidence)
+    in a small trial, and a 2025 meta-analysis found that L-theanine, alone or with caffeine, could benefit
+    cognition and mood (compound evidence)
   reference_ids:
   - REF-0184
+  - REF-5226
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0045
@@ -238,14 +243,25 @@ indications:
   - REF-3482
   - REF-3480
   status: verified
+- condition: acne
+  note: Green tea extract applied to the skin reduced acne lesions in a meta-analysis of randomized trials;
+    taken by mouth it had little effect
+  reference_ids:
+  - REF-5222
+  status: verified
+- condition: cold
+  note: Green tea catechins, gargled or taken by mouth, lowered the risk of catching influenza in a meta-analysis
+    of studies
+  reference_ids:
+  - REF-5223
+  status: verified
 contraindications:
 - note: Generally safe in moderate consumption. High caffeine intake may cause insomnia, anxiety, palpitations,
-    or dependence. Large amounts of green tea extract supplements may be hepatotoxic (rare). May reduce
-    iron absorption if consumed with meals. Avoid very high supplement doses during pregnancy.
+    or dependence. May reduce iron absorption if consumed with meals. Avoid very high supplement doses
+    during pregnancy.
   severity: caution
   reference_ids:
   - REF-0045
-  - REF-0184
   status: verified
 - note: Duke (2002) rates tea (Camellia sinensis) as ++ and notes anti-aggregant, antioxidant, anticariogenic,
     and antibacterial activities at the experimental level (score 1). The catechins (EGCG, ECG) and polyphenols
@@ -257,8 +273,18 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0045
-  - REF-0184
   - REF-0063
+  status: verified
+- note: 'Liver injury: concentrated, catechin-rich green tea extracts taken as large single doses (tablets
+    or capsules, especially on an empty stomach) have caused liver injury in a dose-dependent way, while
+    brewed tea and tea in food or drinks did not. A safe intake of 338 mg EGCG a day has been proposed
+    for such supplements. Do not use extracts with a liver problem, and stop if signs of liver trouble
+    appear.'
+  severity: warning
+  reference_ids:
+  - REF-5220
+  - REF-5221
+  - REF-5230
   status: verified
 references:
 - REF-0755
@@ -289,6 +315,36 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: chemotherapy-agents
+  severity: caution
+  mechanism: EGCG and other green tea polyphenols can block the anticancer effect of bortezomib (Memorial
+    Sloan Kettering), so concentrated green tea products are best avoided during treatment with it.
+  reference_ids:
+  - REF-5230
+  status: draft
+- drug_class: statins
+  severity: caution
+  mechanism: Green tea significantly lowered blood levels of rosuvastatin in healthy volunteers (Memorial
+    Sloan Kettering), which could weaken its cholesterol-lowering effect.
+  reference_ids:
+  - REF-5230
+  status: draft
+- drug_class: anticoagulants-antiplatelets
+  severity: insufficient
+  mechanism: Very large amounts of green tea (about half to one gallon a day) may supply enough vitamin
+    K to weaken warfarin-type blood thinners (Memorial Sloan Kettering), and a 2014 review of warfarin
+    interactions lists Camellia sinensis among herbs in case reports of serious adverse events.
+  reference_ids:
+  - REF-5230
+  - REF-5214
+  status: draft
+- drug_class: cyp3a4-substrates
+  severity: insufficient
+  mechanism: Green tea extract inhibits the drug-metabolising enzyme CYP3A4 (Memorial Sloan Kettering);
+    whether ordinary tea drinking changes the levels of CYP3A4 medicines is not established.
+  reference_ids:
+  - REF-5230
+  status: draft
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -344,4 +400,22 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0061 (''Drake 2015, Tea
   catechins and cardiovascular disease risk'', vol 74(1):39-46) is not in PubMed, Crossref or OpenAlex
   under that title, author or year (the vol/pages match an unrelated rheumatology paper): removed from
-  both cautions and deleted.'
+  both cautions and deleted.
+  | 2026-11-24: symptom-source audit research-deepening batch 6 - Searched PubMed (Camellia
+  sinensis tiab; green tea, black tea, tea extract, tea catechins, EGCG ti: 1,006 HT, 240 SR,
+  1,798 SAFE hits; only SR/MA and safety were read in depth), Europe PMC, ClinicalTrials.gov (292)
+  and OpenAlex. Added: two glycaemic MAs (2024 T2DM positive, 2020 fasting glucose only) to
+  blood-sugar; 2025 tea / L-theanine cognition MA to cognitive-function (compound evidence); NEW
+  acne pair (2021 MA: topical extract effective, oral not); NEW cold pair (2021 catechin
+  influenza-prevention MA, RR 0.62). SAFETY: the extract hepatotoxicity sentence cited only a 2010
+  benefits review and an L-theanine RCT (REF-0184, which states nothing on safety); moved to a new
+  liver-injury warning sourced to Hu 2018 SR (338 mg EGCG/day), USP 2008 SR and MSKCC Green Tea
+  (REF-5230); REF-0184 removed from both safety notes. Four DRAFT interactions from MSKCC
+  (bortezomib, rosuvastatin, vitamin K / warfarin with the 2014 review, CYP3A4), need owner
+  sign-off. NOT ADDED as pairs because they conflict with the record''s own cautions (inv. 12d):
+  insomnia and stress/anxiety (L-theanine SRs; tea caffeine causes insomnia and anxiety), liver
+  support (2024 MA improved liver enzymes; extracts cause liver injury). Also not added:
+  periodontitis MAs (very low certainty / insufficient), halitosis SR (two studies, before-after
+  only), inflammatory-marker MA (TNF-alpha only, CRP and IL-6 unchanged), observational cancer,
+  stroke and depression MAs (associations, not treatment), black-tea cholesterol MAs (already
+  covered at 8).'

@@ -1,0 +1,45 @@
+   borago-officinalis HT 70
+   borago-officinalis SR 14
+   borago-officinalis SAFE 67
+   borago-officinalis OBS 7
+   borago-officinalis REV 27
+borago-officinalis done
+   boswellia-serrata HT 183
+   boswellia-serrata SR 32
+   boswellia-serrata SAFE 289
+   boswellia-serrata OBS 23
+   boswellia-serrata REV 104
+boswellia-serrata done
+   calendula-officinalis HT 68
+   calendula-officinalis SR 15
+   calendula-officinalis SAFE 86
+   calendula-officinalis OBS 9
+   calendula-officinalis REV 53
+calendula-officinalis done
+   camellia-sinensis HT 1006
+   camellia-sinensis SR 240
+   camellia-sinensis SAFE 1798
+   camellia-sinensis OBS 340
+   camellia-sinensis REV 1028
+camellia-sinensis done
+   campanula-persicifolia HT 0
+   campanula-persicifolia SR 0
+   campanula-persicifolia SAFE 0
+   campanula-persicifolia OBS 0
+   campanula-persicifolia REV 0
+campanula-persicifolia done
+
+PUBMED-DONE
+borago-officinalis done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Boswellia+serrata%22+OR+TITLE%3A%22Boswe The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Boswellia+serrata%22+OR+TITLE%3A%22Boswe The read operation timed out
+boswellia-serrata done
+calendula-officinalis done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Camellia+sinensis%22%29+AND+%28randomize The read operation timed out
+camellia-sinensis done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Campanula+persicifolia%22+AND+%28TITLE%3Apatients+OR+TI HTTP Error 502: Bad Gateway
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Campanula+persicifolia%22+AND+%28TITLE%3Apatients+OR+TI HTTP Error 503: Service Temporarily Unavailable
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Campanula+persicifolia%22+AND+%28TITLE%3Apatients+OR+TI HTTP Error 503: Service Temporarily Unavailable
+campanula-persicifolia done
+# Research-deepening batch 6 - Europe PMC
+SEARCH-DONE

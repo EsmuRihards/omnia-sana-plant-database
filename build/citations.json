@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3979,
+ "count": 4005,
  "citations": [
   {
    "ref_id": "REF-5100",
@@ -415,6 +415,37 @@
    "display": "Birch polypore - Fomitopsis betulina: foraging guide",
    "plants": [],
    "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5228",
+   "key": "mskcc2026boswellia",
+   "type": "misc",
+   "title": "Boswellia (About Herbs)",
+   "authors": "Memorial Sloan Kettering Cancer Center",
+   "journal": "",
+   "year": "2026",
+   "doi": "",
+   "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/boswellia",
+   "link": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/boswellia",
+   "link_type": "url",
+   "citation": "Memorial Sloan Kettering Cancer Center (2026) 'Boswellia (About Herbs)'. Available at: https://www.mskcc.org/cancer-care/integrative-medicine/herbs/boswellia",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Boswellia (About Herbs)",
+   "plants": [
+    "Boswellia",
+    "Indian frankincense",
+    "Salai guggul",
+    "Shallaki"
+   ],
+   "scientific": [
+    "Boswellia serrata"
+   ],
    "actions": [],
    "conditions": []
   },
@@ -1407,6 +1438,38 @@
     "Cognitive function",
     "Memory"
    ]
+  },
+  {
+   "ref_id": "REF-5230",
+   "key": "mskcc2026greentea",
+   "type": "misc",
+   "title": "Green Tea (About Herbs)",
+   "authors": "Memorial Sloan Kettering Cancer Center",
+   "journal": "",
+   "year": "2026",
+   "doi": "",
+   "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/green-tea",
+   "link": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/green-tea",
+   "link_type": "url",
+   "citation": "Memorial Sloan Kettering Cancer Center (2026) 'Green Tea (About Herbs)'. Available at: https://www.mskcc.org/cancer-care/integrative-medicine/herbs/green-tea",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Green Tea (About Herbs)",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3590",
@@ -3314,6 +3377,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5229",
+   "key": "mskcc2025calendula",
+   "type": "misc",
+   "title": "Calendula (About Herbs)",
+   "authors": "Memorial Sloan Kettering Cancer Center",
+   "journal": "",
+   "year": "2025",
+   "doi": "",
+   "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/calendula",
+   "link": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/calendula",
+   "link_type": "url",
+   "citation": "Memorial Sloan Kettering Cancer Center (2025) 'Calendula (About Herbs)'. Available at: https://www.mskcc.org/cancer-care/integrative-medicine/herbs/calendula",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Calendula (About Herbs)",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3733",
    "key": "lara2025rhodioladigitaleye",
    "type": "article",
@@ -4267,6 +4360,40 @@
    "conditions": [
     "Blood sugar / diabetes support",
     "Metabolic support"
+   ]
+  },
+  {
+   "ref_id": "REF-5226",
+   "key": "payne2025teatheaninecognition",
+   "type": "article",
+   "title": "Effects of Tea (Camellia sinensis) or its Bioactive Compounds l-Theanine or l-Theanine plus Caffeine on Cognition, Sleep, and Mood in Healthy Participants: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "authors": "Payne, E.R., Aceves-Martins, M., Dubost, J., Greyling, A. and de Roos, B.",
+   "journal": "Nutrition Reviews",
+   "year": "2025",
+   "doi": "10.1093/nutrit/nuaf054",
+   "url": "",
+   "link": "https://doi.org/10.1093/nutrit/nuaf054",
+   "link_type": "doi",
+   "citation": "Payne, E.R., Aceves-Martins, M., Dubost, J., Greyling, A. and de Roos, B (2025) 'Effects of Tea (Camellia sinensis) or its Bioactive Compounds l-Theanine or l-Theanine plus Caffeine on Cognition, Sleep, and Mood in Healthy Participants: A Systematic Review and Meta-Analysis of Randomized Controlled Trials', Nutrition Reviews, 83(10), pp. 1873--1891. doi:10.1093/nutrit/nuaf054",
+   "abstract": "CONTEXT: The bioactive compounds found in tea from Camellia sinensis, namely theanine, caffeine, and polyphenols, can potentially improve short-term and long-term health outcomes. OBJECTIVE: The aim of this study was to assess the effects of tea, theanine alone, or theanine plus caffeine on cognition, mood, and sleep outcomes, using data from randomized controlled trials (RCTs) in healthy participants. DATA SOURCES: The Cochrane Database of Systematic Reviews, Cochrane Central Register of Controlled Trials, Embase, and Ovid Medline were searched up to and including August 2023. DATA EXTRACTION: Data relevant to the participants, interventions, comparisons, outcomes (ie, cognition, mood, and sleep), and study design were extracted. DATA ANALYSIS: Fifty RCTs were included in the review, of which 15 were eligible for at least 1 meta-analysis, most commonly performed by use of standardized mean differences (SMD), in random effects models. After intake of theanine plus caffeine, and of placebo, small-to-moderate differences were found between these interventions in the first hour (h1) and second hour (h2), that favoured theanine plus caffeine, with regard to cognition and mood outcomes such as choice reaction time (h1: SMD, -0.48; 95% CI, -1.01, 0.05), digit vigilance task accuracy (h2: SMD, 0.20; 95% CI, 0.02, 0.38), attention switching task accuracy (h2: SMD, 0.33; 95% CI, 0.13, 0.54), and overall mood (h2: SMD, 0.26; 95% CI,-0.10, 0.63). There was a small-to-moderate difference between the effects of theanine and placebo that favored theanine on choice reaction time (h1: SMD, -0.35; 95% CI,-0.61, -0.10). The CIs frequently highlighted the uncertainty surrounding the direction and magnitude of these differences. CONCLUSIONS: This meta-analysis provides evidence that theanine plus caffeine, and theanine alone, could be beneficial for cognitive and mood outcomes. More research using tea beverages or tea-equivalent bioactive doses and research in free-living participants is needed. PROSPERO REGISTRATION NO: CRD42022351601.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Tea (Camellia sinensis) or its Bioactive Compounds l-Theanine or l-Theanine plus Caffeine on Cognition, Sleep, and Mood in Healthy Participants: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cognitive function"
    ]
   },
   {
@@ -8917,6 +9044,37 @@
     "Inflammation (general)",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-5213",
+   "key": "finsterer2024boswelliasiadh",
+   "type": "article",
+   "title": "Boswellia serrata intoxication manifesting with syndrome of inappropriate antidiuretic hormone secretion, hyponatremia, seizure, and rhabdomyolysis",
+   "authors": "Finsterer, J.",
+   "journal": "Critical Care Science",
+   "year": "2024",
+   "doi": "10.62675/2965-2774.20240049-en",
+   "url": "",
+   "link": "https://doi.org/10.62675/2965-2774.20240049-en",
+   "link_type": "doi",
+   "citation": "Finsterer, J (2024) 'Boswellia serrata intoxication manifesting with syndrome of inappropriate antidiuretic hormone secretion, hyponatremia, seizure, and rhabdomyolysis', Critical Care Science, 36, pp. e20240049en. doi:10.62675/2965-2774.20240049-en",
+   "abstract": "Boswellia serrata is an herbal extract from the Boswellia serrata tree that has anti-inflammatory and analgesic properties and alleviates pain caused by rheumatoid arthritis, gout, osteoarthritis, and sciatica. Syndrome of inappropriate antidiuretic hormone secretion accompanied by hyponatremia, seizures, and rhabdomyolysis as a manifestation of Boswellia serrata intoxication has not been reported previously. A 38-year-old female suffered clinically isolated syndrome and has since been regularly taking B. serrata capsules (200mg/d) to strengthen her immune system. She experienced hypersensitivity to light, ocular pain, nausea, dizziness, and lower limb weakness four days after receiving her first BNT162b2 vaccine dose, and she increased the dosage of B. serrata to five capsules (1000mg/d) one week after vaccination. After taking B. serrata at a dosage of 1000mg/d for 3 weeks, she was admitted to the intensive care unit because of a first, unprovoked generalized tonic-clonic seizure. The patient's workup revealed syndrome of inappropriate antidiuretic hormone secretion, which resolved completely upon treatment and discontinuation of B. serrata. In summary, B. serrata potentially causes syndrome of inappropriate antidiuretic hormone secretion when it is taken at high doses. Patients should not self-medicate.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Boswellia serrata intoxication manifesting with syndrome of inappropriate antidiuretic hormone secretion, hyponatremia, seizure, and rhabdomyolysis",
+   "plants": [
+    "Boswellia",
+    "Indian frankincense",
+    "Salai guggul",
+    "Shallaki"
+   ],
+   "scientific": [
+    "Boswellia serrata"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0338",
@@ -14848,6 +15006,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5224",
+   "key": "jia2024greenteat2dm",
+   "type": "article",
+   "title": "The effect of green tea on patients with type 2 diabetes mellitus: A meta-analysis",
+   "authors": "Jia, M.J., Liu, X.N., Liang, Y.C., Liu, D.L. and Li, H.L.",
+   "journal": "Medicine",
+   "year": "2024",
+   "doi": "10.1097/MD.0000000000039702",
+   "url": "",
+   "link": "https://doi.org/10.1097/MD.0000000000039702",
+   "link_type": "doi",
+   "citation": "Jia, M.J., Liu, X.N., Liang, Y.C., Liu, D.L. and Li, H.L (2024) 'The effect of green tea on patients with type 2 diabetes mellitus: A meta-analysis', Medicine, 103(47), pp. e39702. doi:10.1097/MD.0000000000039702",
+   "abstract": "BACKGROUND: To systematically evaluate the effect of green tea on patients with type 2 diabetes. METHODS: A computer search Cochrane, PubMed, Embase, CNKI, Wanfang, VIP, and other Chinese and English databases were conducted for randomized controlled trials of green tea in the treatment of patients with type 2 diabetes. The duration of these trials spanned from the establishment of the database to January 10, 2024. The obtained data were subjected to meta-analysis using Stata15.1 software. A total of 15 articles were included, encompassing 722 patients. RESULTS: The meta-analysis results showed that compared to the control group, green tea intervention significantly improved the improvement of fasting blood glucose (SMD = -0.41, 95% CI: -0.67 to -0.19, P = .001), glycated hemoglobin (SMD = -0.68, 95% CI: -1.15 to 0.21, P = .004) and insulin resistance index (SMD = -0.70, 95% CI: -1.18 to -0.22, P = .005) in the experimental group compared to the control group. The differences were statistically significant (P < .05). CONCLUSION: Green tea significantly improves fasting blood glucose, glycated hemoglobin and insulin resistance in patients with type 2 diabetes.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of green tea on patients with type 2 diabetes mellitus: A meta-analysis",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
+  },
+  {
    "ref_id": "REF-3696",
    "key": "shirvani2024nigellaglycemic2024",
    "type": "article",
@@ -17774,6 +17966,38 @@
     "Hot flashes",
     "Menopause"
    ]
+  },
+  {
+   "ref_id": "REF-5227",
+   "key": "mskcc2023borage",
+   "type": "misc",
+   "title": "Borage (About Herbs)",
+   "authors": "Memorial Sloan Kettering Cancer Center",
+   "journal": "",
+   "year": "2023",
+   "doi": "",
+   "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/borage",
+   "link": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/borage",
+   "link_type": "url",
+   "citation": "Memorial Sloan Kettering Cancer Center (2023) 'Borage (About Herbs)'. Available at: https://www.mskcc.org/cancer-care/integrative-medicine/herbs/borage",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Borage (About Herbs)",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0178",
@@ -32337,6 +32561,39 @@
    ]
   },
   {
+   "ref_id": "REF-5211",
+   "key": "soltani2022olibanumaphthous",
+   "type": "article",
+   "title": "The effectiveness of olibanum orally disintegrating tablet in the treatment of oral aphthous ulcers: A randomized, double-blind, placebo-controlled clinical trial",
+   "authors": "Soltani, R., Saberi, Z., Ghanadian, S.M., Taheri, A. and Entezarhojjat, A.",
+   "journal": "Journal of Research in Medical Sciences",
+   "year": "2022",
+   "doi": "10.4103/jrms.jrms_247_21",
+   "url": "",
+   "link": "https://doi.org/10.4103/jrms.jrms_247_21",
+   "link_type": "doi",
+   "citation": "Soltani, R., Saberi, Z., Ghanadian, S.M., Taheri, A. and Entezarhojjat, A (2022) 'The effectiveness of olibanum orally disintegrating tablet in the treatment of oral aphthous ulcers: A randomized, double-blind, placebo-controlled clinical trial', Journal of Research in Medical Sciences, 27, pp. 8. doi:10.4103/jrms.jrms_247_21",
+   "abstract": "BACKGROUND: Boswellia serrata oleo-gum-resin (frankincense; olibanum) has anti-inflammatory, analgesic, and antimicrobial effects. This study aimed to evaluate the clinical effectiveness of frankincense extract in the treatment of oral aphthous ulcers. MATERIALS AND METHODS: In a randomized, double-blind, placebo-controlled clinical trial, patients with aphthous ulcers were randomly assigned to either experimental (Frankincense extract) or placebo groups to use orally disintegrating tablets (ODT) of frankincense and placebo, respectively, four times a day for 3 days. The size of aphthous ulcers and the pain severity by visual analogue scale were recorded at days 0, 2, and 4 and compared between the groups. RESULTS: Twenty-five patients in each group completed the study. Olibanum extract ODT significantly reduced the ulcer size on the second (P < 0.001) and fourth (P < 0.001) days as well as the pain score on the second (P = 0.002) and fourth (P < 0.001) days of the intervention compared to placebo. Furthermore, at the end of the intervention, the number of patients with complete ulcer healing and pain relief in the experimental group was significantly more than the placebo group (5 vs. 0, P = 0.02; and 11 vs. 0, P < 0.001, respectively). CONCLUSION: Taking olibanum extract ODTs reduces the ulcer size and pain severity and accelerates the healing process in the oral aphthous lesions.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effectiveness of olibanum orally disintegrating tablet in the treatment of oral aphthous ulcers: A randomized, double-blind, placebo-controlled clinical trial",
+   "plants": [
+    "Boswellia",
+    "Indian frankincense",
+    "Salai guggul",
+    "Shallaki"
+   ],
+   "scientific": [
+    "Boswellia serrata"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
+  },
+  {
    "ref_id": "REF-1526",
    "key": "ivanovastojcheva2022rhodiola",
    "type": "article",
@@ -33340,6 +33597,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5217",
+   "key": "deangelis2022calendulaepisiotomy",
+   "type": "article",
+   "title": "Use of calendula ointment after episiotomy: a randomized clinical trial",
+   "authors": "De Angelis, C., Di Stadio, A., Vitale, S., Saccone, G., Angelis, M.C., Zizolfi, B. and Di Spiezio Sardo, A.",
+   "journal": "The Journal of Maternal-fetal & Neonatal Medicine",
+   "year": "2022",
+   "doi": "10.1080/14767058.2020.1770219",
+   "url": "",
+   "link": "https://doi.org/10.1080/14767058.2020.1770219",
+   "link_type": "doi",
+   "citation": "De Angelis, C., Di Stadio, A., Vitale, S., Saccone, G., Angelis, M.C., Zizolfi, B. and Di Spiezio Sardo, A (2022) 'Use of calendula ointment after episiotomy: a randomized clinical trial', The Journal of Maternal-fetal & Neonatal Medicine, 35(10), pp. 1860--1864. doi:10.1080/14767058.2020.1770219",
+   "abstract": "OBJECTIVE: Episiotomy is associated with an increased risk of postpartum pain, bleeding, and dyspareunia. The hypothesis of this trial was that in women with singleton pregnancy, and spontaneous labor at term, use of calendula ointment would reduce pain after episiotomy. METHODS: This was a single-center parallel group randomized trial of women with singleton pregnancies and spontaneous labor at term who were randomized to either use of calendula ointment (i.e. intervention group) or standard care (i.e. control group) after episiotomy. Eligible women were those with singleton gestations in spontaneous labor and vertex presentation at term. Women with premature rupture of membranes were excluded from the study. Women in the intervention group were recommended use of calendula ointment 4 h after the episiotomy and then every 8 h for 10 days. The primary outcome was the pain level. Pain level was self-reported and recorded using the verbal rating scale (VRS). The effect of the calendula ointment was quantified as mean difference (MD) with 95% confidence interval (CI). RESULTS: During the study, 100 women agreed to take part in the study, underwent randomization, and were enrolled in this trial. Of the 100 randomized women, 50 were randomized to the calendula ointment group, and 50 to the control group. No women were excluded after randomization or lost to follow up.Women who received calendula ointment after episiotomy compared to standard care had a significantly lower pain level starting from day two and during all the follow-up. Calendula ointment also improve wound healing in terms of redness and edema. CONCLUSIONS: Use of calendula ointment significantly reduce pain after episiotomy.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Use of calendula ointment after episiotomy: a randomized clinical trial",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-0896",
@@ -34459,6 +34748,40 @@
    ],
    "conditions": [
     "Cancer (anticancer research)"
+   ]
+  },
+  {
+   "ref_id": "REF-5223",
+   "key": "rawangkan2021catechinsinfluenza",
+   "type": "article",
+   "title": "Anti-Influenza with Green Tea Catechins: A Systematic Review and Meta-Analysis",
+   "authors": "Rawangkan, A., Kengkla, K., Kanchanasurakit, S., Duangjai, A. and Saokaew, S.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26134014",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26134014",
+   "link_type": "doi",
+   "citation": "Rawangkan, A., Kengkla, K., Kanchanasurakit, S., Duangjai, A. and Saokaew, S (2021) 'Anti-Influenza with Green Tea Catechins: A Systematic Review and Meta-Analysis', Molecules, 26(13). doi:10.3390/molecules26134014",
+   "abstract": "Influenza is one of the most serious respiratory viral infections worldwide. Although several studies have reported that green tea catechins (GTCs) might prevent influenza virus infection, this remains controversial. We performed a systematic review and meta-analysis of eight studies with 5,048 participants that examined the effect of GTC administration on influenza prevention. In a random-effects meta-analysis of five RCTs, 884 participants treated with GTCs showed statistically significant effects on the prevention of influenza infection compared to the control group (risk ratio (RR) 0.67, 95%CIs 0.51-0.89, P = 0.005) without evidence of heterogeneity (I2= 0%, P = 0.629). Similarly, in three cohort studies with 2,223 participants treated with GTCs, there were also statistically significant effects (RR 0.52, 95%CIs 0.35-0.77, P = 0.001) with very low evidence of heterogeneity (I2 = 3%, P = 0.358). Additionally, the overall effect in the subgroup analysis of gargling and orally ingested items (taking capsules and drinking) showed a pooled RR of 0.62 (95% CIs 0.49-0.77, P = 0.003) without heterogeneity (I2= 0%, P = 0.554). There were no obvious publication biases (Egger's test (P = 0.138) and Begg's test (P = 0.103)). Our analysis suggests that green tea consumption is effective in the prophylaxis of influenza infections. To confirm the findings before implementation, longitudinal clinical trials with specific doses of green tea consumption are warranted.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Anti-Influenza with Green Tea Catechins: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cold & flu"
    ]
   },
   {
@@ -39207,6 +39530,41 @@
    ]
   },
   {
+   "ref_id": "REF-5209",
+   "key": "dacostahime2021borageoilpostmenopausal",
+   "type": "article",
+   "title": "Is there a beneficial effect of gamma-linolenic acid supplementation on body fat in postmenopausal hypertensive women? A prospective randomized double-blind placebo-controlled trial",
+   "authors": "da Costa Hime, L.F.C., Carvalho Lopes, C.M., Roa, C.L., Zuchelo, L.T.S., Baracat, E.C., de Andrade, J. and Soares, J.M.",
+   "journal": "Menopause",
+   "year": "2021",
+   "doi": "10.1097/GME.0000000000001740",
+   "url": "",
+   "link": "https://doi.org/10.1097/GME.0000000000001740",
+   "link_type": "doi",
+   "citation": "da Costa Hime, L.F.C., Carvalho Lopes, C.M., Roa, C.L., Zuchelo, L.T.S., Baracat, E.C., de Andrade, J. and Soares, J.M (2021) 'Is there a beneficial effect of gamma-linolenic acid supplementation on body fat in postmenopausal hypertensive women? A prospective randomized double-blind placebo-controlled trial', Menopause, 28(6), pp. 699--705. doi:10.1097/GME.0000000000001740",
+   "abstract": "OBJECTIVE: Systemic arterial hypertension and obesity are major public health problems that increase risks of serious cardiovascular diseases and kidney failure as well as increase mortality. Substances that can alleviate these problems are desirable. We evaluated the beneficial effects of nutritional supplementation with gamma-linolenic acid in postmenopausal hypertensive women. METHODS: This was a prospective, double-blind, placebo-controlled, randomized study involving 96 postmenopausal women. Participants were divided into two groups either receiving 1,000 mg of borage oil rich in gamma-linolenic acid + vitamin E (drug) or only vitamin E (placebo) capsules for 6 months. They were followed up monthly to assess the impact on systemic blood pressure and body composition. To verify group homogeneity, Fisher's exact and Student t tests were performed. To evaluate differences in various parameters between the two groups and at various times, repeated measures analysis of variance was performed, with Bonferroni correction. RESULTS: The power of the test was calculated based on the difference in the mean systolic blood pressure between baseline and after 6 months of treatment in the placebo group and in the drug group. A 92.9% test power was found with a 95% confidence interval. There was a significant reduction in the systolic and diastolic pressure as well as a significant change in waist-hip ratio (P < 0.01) in the drug group as compared with the placebo group. CONCLUSIONS: Supplementation with borage oil rich in gamma-linolenic acid had significant beneficial short-term effects without showing any adverse effect. There remains a need for further studies to evaluate long-term benefits.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Is there a beneficial effect of gamma-linolenic acid supplementation on body fat in postmenopausal hypertensive women? A prospective randomized double-blind placebo-controlled trial",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "High blood pressure",
+    "Metabolic support"
+   ]
+  },
+  {
    "ref_id": "REF-3020",
    "key": "bogoutdinova2021isolation",
    "type": "article",
@@ -42456,6 +42814,40 @@
    "actions": [],
    "conditions": [
     "Liver support"
+   ]
+  },
+  {
+   "ref_id": "REF-5222",
+   "key": "kim2021greenteaacne",
+   "type": "article",
+   "title": "The effects of green tea on acne vulgaris: A systematic review and meta-analysis of randomized clinical trials",
+   "authors": "Kim, S., Park, T.H., Kim, W.I., Park, S., Kim, J.H. and Cho, M.K.",
+   "journal": "Phytotherapy Research",
+   "year": "2021",
+   "doi": "10.1002/ptr.6809",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6809",
+   "link_type": "doi",
+   "citation": "Kim, S., Park, T.H., Kim, W.I., Park, S., Kim, J.H. and Cho, M.K (2021) 'The effects of green tea on acne vulgaris: A systematic review and meta-analysis of randomized clinical trials', Phytotherapy Research, 35(1), pp. 374--383. doi:10.1002/ptr.6809",
+   "abstract": "Green tea extract (GTE) has been studied for the treatment of acne based on its anti-inflammatory/antioxidant properties. This systematic review and meta-analysis aimed to examine the effects of GTE on acne. Electronic databases, including PubMed, Embase, and the Cochrane Library were systematically searched up to August 2019. The effect size of acne lesion counts is presented as mean differences and 95% confidence intervals (CIs). Five randomized-controlled studies were included in the meta-analysis (N; experimental = 125, control = 122). GTE significantly reduced the number of inflammatory lesions (-9.38; 95% CI: -14.13 to -4.63). In subgroup analysis, topical GTE application significantly reduced the inflammatory lesion counts (-11.39; 95% CI: -15.91 to -6.86) whereas oral GTE intake showed minimal effect (-1.40; 95% CI: -2.50 to -0.30). Although GTE did not significantly reduce the number of non-inflammatory lesions (-21.65; 95% CI: -47.52 to 4.22), when stratified by the route of admission, non-inflammatory acne lesions were significantly reduced by topical GTE application (-32.44; 95% CI: -39.27 to -25.62) but not with oral GTE administration (0.20; 95% CI: 0.00 to 0.40). This systematic review and meta-analysis suggest that topical GTE application is beneficial for the treatment of acne without causing significant adverse events while oral GTE intake has limited effects. Further high-quality clinical trials are warranted.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effects of green tea on acne vulgaris: A systematic review and meta-analysis of randomized clinical trials",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Acne"
    ]
   },
   {
@@ -46554,6 +46946,40 @@
    "actions": [],
    "conditions": [
     "Constipation"
+   ]
+  },
+  {
+   "ref_id": "REF-5225",
+   "key": "xu2020greenteaglycaemic",
+   "type": "article",
+   "title": "Effects of green tea consumption on glycemic control: a systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Xu, R., Bai, Y., Yang, K. and Chen, G.",
+   "journal": "Nutrition & Metabolism",
+   "year": "2020",
+   "doi": "10.1186/s12986-020-00469-5",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12986-020-00469-5",
+   "link_type": "doi",
+   "citation": "Xu, R., Bai, Y., Yang, K. and Chen, G (2020) 'Effects of green tea consumption on glycemic control: a systematic review and meta-analysis of randomized controlled trials', Nutrition & Metabolism, 17, pp. 56. doi:10.1186/s12986-020-00469-5",
+   "abstract": "BACKGROUND: The results of human clinical trials investigating the effects of green tea on glycemic control are inconsistent. METHODS: We conducted a systematic review and meta-analysis of RCTs that examined the effects of green tea supplementation on glycemic control. A literature search in PubMed, Embase, and Cochrane Library databases for RCTs that investigated the effect of green tea consumption on glycemic control was performed up to February 2020. A random-effects model was used to estimate weighted mean difference (WMD) with 95% confidence intervals (CIs). RESULTS: Twenty-seven trials involving 2194 subjects were included in the meta-analysis. The pooled results showed that green tea significantly lowered fasting blood glucose by - 1.44 mg/dL (95%CI:-2.26, - 0.62 mg/dL; P < 0.001) with no obvious heterogeneity (I 2 = 7.7%). However, green tea consumption did not significantly affect fasting insulin and HbA1c values. The mean differences were - 0.46μIU/mL (95% CI: - 1.10, 0.17μIU/mL; P = 0.21) for fasting insulin and - 0.06%; (95% CI: - 0.12, 0.01%; P = 0.07) for HbA1c concentrations. Heterogeneity was significant in fasting insulin (I 2 = 46.8%) and mild in HbA1c (I 2 = 1.7%). CONCLUSIONS: In short-term trials, green tea supplementation significantly reduced fasting glucose, but had no significant effect on fasting insulin and HbA1c. Long-term trials assessing the effects of green tea supplementation on glycemic control are needed.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of green tea consumption on glycemic control: a systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
    ]
   },
   {
@@ -60496,10 +60922,18 @@
     "clinical"
    ],
    "display": "European Union herbal monograph on Calendula officinalis L., flos, Revision 1",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Oral & throat health"
+   ]
   },
   {
    "ref_id": "REF-3085",
@@ -62903,6 +63337,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5218",
+   "key": "jahdi2018calendulacesarean",
+   "type": "article",
+   "title": "The impact of calendula ointment on cesarean wound healing: A randomized controlled clinical trial",
+   "authors": "Jahdi, F., Khabbaz, A.H., Kashian, M., Taghizadeh, M. and Haghani, H.",
+   "journal": "Journal of Family Medicine and Primary Care",
+   "year": "2018",
+   "doi": "10.4103/jfmpc.jfmpc_121_17",
+   "url": "",
+   "link": "https://doi.org/10.4103/jfmpc.jfmpc_121_17",
+   "link_type": "doi",
+   "citation": "Jahdi, F., Khabbaz, A.H., Kashian, M., Taghizadeh, M. and Haghani, H (2018) 'The impact of calendula ointment on cesarean wound healing: A randomized controlled clinical trial', Journal of Family Medicine and Primary Care, 7(5), pp. 893--897. doi:10.4103/jfmpc.jfmpc_121_17",
+   "abstract": "BACKGROUND: Cesarean is one of the most common surgical interventions. Wound complications are one of the most common morbidities following cesarean section. Calendula promotes wound healing and might be effective in shortening the duration of wound healing. Limited researches have been done regarding the healing of this plant as the effect of this ointment on cesarean wound healing has not been studied. Therefore, the purpose of this study was to examine the impact of calendula on cesarean wound healing in primiparous females. METHODS: This clinical trial involves 72 qualified primiparous females with surgical childbirth admitted in the Akbar-Abadi Educational Hospital. They were randomly categorized into two groups of experimental (n = 1) and control (n = 2) groups. The females in experimental group used calendula ointment every 12 h and the control group used hospital routine for 10 days. Wound healing was assessed on the 3rd, 6th, 9th days postcesarean using the REEDA scale (REEDA stands for redness, edema, ecchymosis, discharge, and approximation), which had criteria including redness, edema, ecchymosis, discharge, and approximation. The data were collected by demographic questionnaire and redness, edema were used Chi-square test and independent T-test for data analysis. RESULTS: Seventy-two females were included in the study. Thirty-six cases in the drug group and 36 cases in control group were studied. The age of patients in the two groups did not differ significantly (27/17 ± 4/72, 28/97 ± 4/99 years, respectively; P = 0/276). Moreover, there was no significant difference between studied groups regarding the education level of patients and their husbands, the mother's job and the economic situation. CONCLUSION: According to the results, using calendula ointment considerably increases the speed of cesarean wound healing so it can be used for quickening the cesarean healing.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The impact of calendula ointment on cesarean wound healing: A randomized controlled clinical trial",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Wounds"
+   ]
+  },
+  {
    "ref_id": "REF-2411",
    "key": "fraternale2018angelica",
    "type": "article",
@@ -63001,6 +63467,38 @@
    "conditions": [
     "Cancer (anticancer research)"
    ]
+  },
+  {
+   "ref_id": "REF-5220",
+   "key": "hu2018greenteasafety",
+   "type": "article",
+   "title": "The safety of green tea and green tea extract consumption in adults - Results of a systematic review",
+   "authors": "Hu, J., Webster, D., Cao, J. and Shao, A.",
+   "journal": "Regulatory Toxicology and Pharmacology",
+   "year": "2018",
+   "doi": "10.1016/j.yrtph.2018.03.019",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.yrtph.2018.03.019",
+   "link_type": "doi",
+   "citation": "Hu, J., Webster, D., Cao, J. and Shao, A (2018) 'The safety of green tea and green tea extract consumption in adults - Results of a systematic review', Regulatory Toxicology and Pharmacology, 95, pp. 412--433. doi:10.1016/j.yrtph.2018.03.019",
+   "abstract": "A systematic review of published toxicology and human intervention studies was performed to characterize potential hazards associated with consumption of green tea and its preparations. A review of toxicological evidence from laboratory studies revealed the liver as the target organ and hepatotoxicity as the critical effect, which was strongly associated with certain dosing conditions (e.g. bolus dose via gavage, fasting), and positively correlated with total catechin and epigallocatechingallate (EGCG) content. A review of adverse event (AE) data from 159 human intervention studies yielded findings consistent with toxicological evidence in that a limited range of concentrated, catechin-rich green tea preparations resulted in hepatic AEs in a dose-dependent manner when ingested in large bolus doses, but not when consumed as brewed tea or extracts in beverages or as part of food. Toxico- and pharmacokinetic evidence further suggests internal dose of catechins is a key determinant in the occurrence and severity of hepatotoxicity. A safe intake level of 338 mg EGCG/day for adults was derived from toxicological and human safety data for tea preparations ingested as a solid bolus dose. An Observed Safe Level (OSL) of 704 mg EGCG/day might be considered for tea preparations in beverage form based on human AE data.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The safety of green tea and green tea extract consumption in adults - Results of a systematic review",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3006",
@@ -81574,6 +82072,43 @@
    ]
   },
   {
+   "ref_id": "REF-5214",
+   "key": "milic2014warfarinherbs",
+   "type": "article",
+   "title": "Warfarin interactions with medicinal herbs",
+   "authors": "Milić, N., Milosević, N., Golocorbin Kon, S., Bozić, T., Abenavoli, L. and Borrelli, F.",
+   "journal": "Natural Product Communications",
+   "year": "2014",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25233607/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/25233607/",
+   "link_type": "url",
+   "citation": "Milić, N., Milosević, N., Golocorbin Kon, S., Bozić, T., Abenavoli, L. and Borrelli, F (2014) 'Warfarin interactions with medicinal herbs', Natural Product Communications, 9(8), pp. 1211--6. Available at: https://pubmed.ncbi.nlm.nih.gov/25233607/",
+   "abstract": "Recognition of the adverse effects of medicinal herbs is not routine and the reports on such effects are even less frequent in clinical practice. Potential herb-drug interactions are of a major safety concern, especially for drugs with narrow therapeutic indices like warfarin, which can lead to severe adverse reactions that are sometimes life-threatening. The interactions between warfarin and medicinal herbs described in the literature have been summarized in this paper relying on Medline database (via PubMed) using the key words: warfarin, herbal supplements and interactions. The references on the analyzed literature have been investigated in order to collect the existing data. The case reports with severe adverse effects such as spontaneous postoperative bleeding, formation of hematomas, hematemesis, melena, thrombosis, subarachnoid hemorrhage and/or subdural hematomas after concomitant use of warfarin and the medicinal herbs: Panax ginseng, Hypericum perforatum, Salvia milthiorizza, Gingko biloba, Serenoa repens, Angelica sinensis, Vaccinium species, Allium sativum, Zingiber officinale, Tanacetum parthenium, Lucium barbarum, Matricaria chamomilla, Boswellia serrata and Camellia sinensis have been estimated. Some of the interactions between warfarin and medicinal herbs have been well assessed proving that they are closely-dependent. The interactions between warfarin and medicinal herbs, not generally reported in previous reviews, are presented in our review. The health professionals who are involved in treating the patients are expected to be fully informed about the interactions between warfarin and medicinal herbs in order to minimize the health risks of the patients.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Warfarin interactions with medicinal herbs",
+   "plants": [
+    "Boswellia",
+    "Indian frankincense",
+    "Salai guggul",
+    "Shallaki",
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Boswellia serrata",
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2979",
    "key": "gunjima201334dihydroxybenzalacetone",
    "type": "article",
@@ -82123,6 +82658,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5215",
+   "key": "babaee2013calendulamucositis",
+   "type": "article",
+   "title": "Antioxidant capacity of calendula officinalis flowers extract and prevention of radiation induced oropharyngeal mucositis in patients with head and neck cancers: a randomized controlled clinical study",
+   "authors": "Babaee, N., Moslemi, D., Khalilpour, M., Vejdani, F., Moghadamnia, Y., Bijani, A., Baradaran, M., Kazemi, M.T., Khalilpour, A., Pouramir, M. and Moghadamnia, A.A.",
+   "journal": "Daru",
+   "year": "2013",
+   "doi": "10.1186/2008-2231-21-18",
+   "url": "",
+   "link": "https://doi.org/10.1186/2008-2231-21-18",
+   "link_type": "doi",
+   "citation": "Babaee, N., Moslemi, D., Khalilpour, M., Vejdani, F., Moghadamnia, Y., Bijani, A., Baradaran, M., Kazemi, M.T., Khalilpour, A., Pouramir, M. and Moghadamnia, A.A (2013) 'Antioxidant capacity of calendula officinalis flowers extract and prevention of radiation induced oropharyngeal mucositis in patients with head and neck cancers: a randomized controlled clinical study', Daru, 21(1), pp. 18. doi:10.1186/2008-2231-21-18",
+   "abstract": "This study was designed to determine the effect of Calendula officinalis flowers extract mouthwash as oral gel on radiation-induced oropharyngeal mucositis (OM) in patients with head-and-neck cancer. Forty patients with neck and head cancers under radiotherapy or concurrent chemoradiotherapy protocols were randomly assigned to receive either 2% calendula extract mouthwash or placebo (20 patients in each group). Patients were treated with telecobalt radiotherapy at conventional fractionation (200 cGy/fraction, five fractions weekly, 30-35 fractions within 4-7 weeks). The oropharyngeal mucositis was evaluated by two clinical investigators (a radiation oncologist and a dentist), using the oral mucositis assessment scale (OMAS). Trying to find out the possible mechanism of action of the treatment, total antioxidant, polyphenol and flavonoid contents, and quercetin concentration of the mouth wash were measured. Calendula mouthwash significantly decreased the intensity of OM compared to placebo at week 2 (score: 5.5 vs. 6.8, p = 0.019), week 3 (score: 8.25 vs. 10.95, p < 0.0001) and week 6 (score: 11.4 vs. 13.35, p = 0.031). Total antioxidant, polyphenol and flavonoid contents and quercetin concentration of the 2% extract were 2353.4 ± 56.5 μM, 313.40 ± 6.52 mg/g, 76.66 ± 23.24 mg/g, and 19.41 ± 4.34 mg/l, respectively. Calendula extract gel could be effective on decreasing the intensity of radiotherapy- induced OM during the treatment and antioxidant capacity may be partly responsible for the effect.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Antioxidant capacity of calendula officinalis flowers extract and prevention of radiation induced oropharyngeal mucositis in patients with head and neck cancers: a randomized controlled clinical study",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
   },
   {
    "ref_id": "REF-1778",
@@ -84227,6 +84794,36 @@
    ],
    "scientific": [
     "Eleutherococcus senticosus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5216",
+   "key": "sharp2013calendulavsaqueouscream",
+   "type": "article",
+   "title": "No differences between Calendula cream and aqueous cream in the prevention of acute radiation skin reactions--results from a randomised blinded trial",
+   "authors": "Sharp, L., Finnilä, K., Johansson, H., Abrahamsson, M., Hatschek, T. and Bergenmar, M.",
+   "journal": "European Journal of Oncology Nursing",
+   "year": "2013",
+   "doi": "10.1016/j.ejon.2012.11.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ejon.2012.11.003",
+   "link_type": "doi",
+   "citation": "Sharp, L., Finnilä, K., Johansson, H., Abrahamsson, M., Hatschek, T. and Bergenmar, M (2013) 'No differences between Calendula cream and aqueous cream in the prevention of acute radiation skin reactions--results from a randomised blinded trial', European Journal of Oncology Nursing, 17(4), pp. 429--35. doi:10.1016/j.ejon.2012.11.003",
+   "abstract": "PURPOSE: The purpose of this blinded, randomized clinical trial was to compare two topical agents (Calendula Weleda cream vs. Essex cream) in reducing the risk of severe acute radiation skin reactions (ARSR) in relation to adjuvant radiotherapy (RT) for breast cancer. METHOD: The primary endpoint was the difference in proportion of patients with ARSR, assessed with the Radiation Therapy Oncology Group/The Organization for Research and Treatment of Cancer Acute Radiation Morbidity Scoring Criteria (RTOG/EORTC scale) at follow-up. The secondary endpoints included patient reported outcome measures; Quality of Life Questionnaire (QLQ-C30), Sleep disturbances (MOS-sleep questionnaire) and symptoms from the irradiated area (visual analogue scale). Patients' experiences and adherence to the topical agents were also evaluated. RESULTS: A total of 420 patients were randomised and 411 were analysed. With the exception of previous chemotherapy, the treatment groups were well balanced, both regarding treatment- and patient-related factors. The incidence of severe ARSR (RTOG/EORTC grade ≤2) at the follow-up visit was 23% (n = 45) in the Calendula group and 19% (n = 38) in the Essex group. We found no difference in severe ARSR between the groups at any point of assessment. The patients reported low levels of skin related symptoms and no statistically significant differences between the groups were found. CONCLUSIONS: No differences in ARSR between patients randomised to Calendula or Essex cream was found. ARSR seem to be a relatively limited problem, probably more influenced by treatment related factors than by choice of skin care products in this patient group.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "No differences between Calendula cream and aqueous cream in the prevention of acute radiation skin reactions--results from a randomised blinded trial",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -90359,6 +90956,40 @@
    ]
   },
   {
+   "ref_id": "REF-5205",
+   "key": "cameron2011cochraneherbalra",
+   "type": "article",
+   "title": "Herbal therapy for treating rheumatoid arthritis",
+   "authors": "Cameron, M., Gagnier, J.J. and Chrubasik, S.",
+   "journal": "The Cochrane Database of Systematic Reviews",
+   "year": "2011",
+   "doi": "10.1002/14651858.CD002948.pub2",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD002948.pub2",
+   "link_type": "doi",
+   "citation": "Cameron, M., Gagnier, J.J. and Chrubasik, S (2011) 'Herbal therapy for treating rheumatoid arthritis', The Cochrane Database of Systematic Reviews, 2011(2), pp. CD002948. doi:10.1002/14651858.CD002948.pub2",
+   "abstract": "BACKGROUND: Herbal medicine interventions have been identified as having potential benefit in the treatment of rheumatoid arthritis (RA). OBJECTIVES: To update an existing systematic (Cochrane) review of herbal therapies in RA. SEARCH STRATEGY: We searched electronic databases Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE, EMBASE, AMED, CINAHL, Web of Science, Dissertation Abstracts (1996 to 2009), unrestricted by language, and the WHO International Clinical Trials Registry Platform in October 2010. SELECTION CRITERIA: Randomised controlled trials of herbal interventions compared with placebo or active controls in RA. DATA COLLECTION AND ANALYSIS: Two authors selected trials for inclusion, assessed risk of bias and extracted data. MAIN RESULTS: Twelve new studies were added to the update, a total of 22 studies were included.Evidence from seven studies indicate potential benefits of gamma linolenic acid (GLA) from evening primrose oil, borage seed oil, or blackcurrent seed oil, in terms of reduced pain intensity (mean difference (MD) -32.83 points, 95% confidence interval (CI) -56.25 to -9.42,100 point pain scale); improved disability (MD -15.75% 95% CI -27.06 to -4.44%); and an increase in adverse events (GLA 20% versus placebo 3%), that was not statistically different (relative risk 4.24, 95% CI 0.78 to 22.99).Three studies compared Tripterygium wilfordii (thunder god vine) to placebo and one to sulfasalazine and indicated improvements in some outcomes, but data could not be pooled due to differing interventions, comparisons and outcomes. One study reported serious side effects with oral Tripterygium wilfordii Hook F. In the follow-up studies, all side effects were mild to moderate and resolved after the intervention ceased. Two studies compared Phytodolor(®) N to placebo but poor reporting limited data extraction. The remaining studies each considered differing herbal interventions. AUTHORS' CONCLUSIONS: Several herbal interventions are inadequately justified by single studies or non-comparable studies in the treatment of rheumatoid arthritis. There is moderate evidence that oils containing GLA (evening primrose, borage, or blackcurrant seed oil) afford some benefit in relieving symptoms for RA, while evidence for Phytodolor® N is less convincing.Tripterygium wilfordii products may reduce some RA symptoms, however, oral use may be associated with several side effects. Many trials of herbal therapies are hampered by research design flaws and inadequate reporting. Further investigation of each herbal therapy is warranted, particularly via well designed, fully powered, confirmatory clinical trials that use American College of Rheumatology improvement criteria to measure outcomes and report results according to CONSORT guidelines.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Herbal therapy for treating rheumatoid arthritis",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
+  },
+  {
    "ref_id": "REF-5053",
    "key": "li2011cohoshtamoxifeninvitro",
    "type": "article",
@@ -90923,6 +91554,38 @@
    ],
    "scientific": [
     "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5210",
+   "key": "alkhamees2011borageoilstatusepilepticus",
+   "type": "article",
+   "title": "Status epilepticus associated with borage oil ingestion",
+   "authors": "Al-Khamees, W.A., Schwartz, M.D., Alrashdi, S., Algren, A.D. and Morgan, B.W.",
+   "journal": "Journal of Medical Toxicology",
+   "year": "2011",
+   "doi": "10.1007/s13181-011-0135-9",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13181-011-0135-9",
+   "link_type": "doi",
+   "citation": "Al-Khamees, W.A., Schwartz, M.D., Alrashdi, S., Algren, A.D. and Morgan, B.W (2011) 'Status epilepticus associated with borage oil ingestion', Journal of Medical Toxicology, 7(2), pp. 154--7. doi:10.1007/s13181-011-0135-9",
+   "abstract": "The use of herbal and complementary medicine is common. Many herbal products are known to produce serious adverse effects. Borage oil is derived from the seeds of the borage plant (Borago officinalis) an abundant source of gamma-linolenic acid (GLA), and Borage oil has been promoted as a treatment for rheumatoid arthritis, atopic dermatitis, diabetic neuropathy, and menopause-related symptoms. We report a case of status epilepticus in a patient who consumed borage oil for one week.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Status epilepticus associated with borage oil ingestion",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -92312,6 +92975,36 @@
     "Diuretic",
     "Vulnerary (wound healing)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5219",
+   "key": "andersen2010cirmarigold",
+   "type": "article",
+   "title": "Final report of the Cosmetic Ingredient Review Expert Panel amended safety assessment of Calendula officinalis-derived cosmetic ingredients",
+   "authors": "Andersen, F.A., Bergfeld, W.F., Belsito, D.V., Hill, R.A., Klaassen, C.D., Liebler, D.C., Marks, J.G., Shank, R.C., Slaga, T.J. and Snyder, P.W.",
+   "journal": "International Journal of Toxicology",
+   "year": "2010",
+   "doi": "10.1177/1091581810384883",
+   "url": "",
+   "link": "https://doi.org/10.1177/1091581810384883",
+   "link_type": "doi",
+   "citation": "Andersen, F.A., Bergfeld, W.F., Belsito, D.V., Hill, R.A., Klaassen, C.D., Liebler, D.C., Marks, J.G., Shank, R.C., Slaga, T.J. and Snyder, P.W (2010) 'Final report of the Cosmetic Ingredient Review Expert Panel amended safety assessment of Calendula officinalis-derived cosmetic ingredients', International Journal of Toxicology, 29(6 Suppl), pp. 221S--43. doi:10.1177/1091581810384883",
+   "abstract": "Calendula officinalis extract, C officinalis flower, C officinalis flower extract, C officinalis flower oil, and C officinalis seed oil are cosmetic ingredients derived from C officinalis. These ingredients may contain minerals, carbohydrates, lipids, phenolic acids, flavonoids, tannins, coumarins, sterols and steroids, monoterpenes, sesquiterpenes, triterpenes, tocopherols, quinones, amino acids, and resins. These ingredients were not significantly toxic in single-dose oral studies using animals. The absence of reproductive/developmental toxicity was inferred from repeat-dose studies of coriander oil, with a similar composition. Overall, these ingredients were not genotoxic. They also were not irritating, sensitizing, or photosensitizing in animal or clinical tests but may be mild ocular irritants. The Cosmetic Ingredient Review (CIR) Expert Panel concluded that these ingredients are safe for use in cosmetics in the practices of use and concentration given in this amended safety assessment.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Final report of the Cosmetic Ingredient Review Expert Panel amended safety assessment of Calendula officinalis-derived cosmetic ingredients",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -97829,6 +98522,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5221",
+   "key": "sarma2008uspgreenteaextracts",
+   "type": "article",
+   "title": "Safety of green tea extracts : a systematic review by the US Pharmacopeia",
+   "authors": "Sarma, D.N., Barrett, M.L., Chavez, M.L., Gardiner, P., Ko, R., Mahady, G.B., Marles, R.J., Pellicore, L.S., Giancaspro, G.I. and Low Dog, T.",
+   "journal": "Drug Safety",
+   "year": "2008",
+   "doi": "10.2165/00002018-200831060-00003",
+   "url": "",
+   "link": "https://doi.org/10.2165/00002018-200831060-00003",
+   "link_type": "doi",
+   "citation": "Sarma, D.N., Barrett, M.L., Chavez, M.L., Gardiner, P., Ko, R., Mahady, G.B., Marles, R.J., Pellicore, L.S., Giancaspro, G.I. and Low Dog, T (2008) 'Safety of green tea extracts : a systematic review by the US Pharmacopeia', Drug Safety, 31(6), pp. 469--84. doi:10.2165/00002018-200831060-00003",
+   "abstract": "Green tea [Camellia sinensis (L.) Kuntze] is the fourth most commonly used dietary supplement in the US. Recently, regulatory agencies in France and Spain suspended market authorization of a weight-loss product containing green tea extract because of hepatotoxicity concerns. This was followed by publication of adverse event case reports involving green tea products. In response, the US Pharmacopeia (USP) Dietary Supplement Information Expert Committee (DSI EC) systematically reviewed the safety information for green tea products in order to re-evaluate the current safety class to which these products are assigned. DSI EC searched PubMed (January 1966-June 2007) and EMBASE (January 1988-June 2007) for clinical case reports and animal pharmacological or toxicological information. Reports were also obtained from a diverse range of other sources, including published reviews, the US FDA MedWatch programme, USP's MEDMARX adverse event reporting system, the Australian Therapeutic Goods Administration, the UK Medicines and Healthcare products Regulatory Agency, and Health Canada's Canadian Adverse Drug Reaction Monitoring Program. Case reports pertaining to liver damage were evaluated according to the Naranjo causality algorithm scale. In addition, the Committee analysed information concerning historical use, regulatory status, and current extent of use of green tea products. A total of 216 case reports on green tea products were analysed, including 34 reports concerning liver damage. Twenty-seven reports pertaining to liver damage were categorized as possible causality and seven as probable causality. Clinical pharmacokinetic and animal toxicological information indicated that consumption of green tea concentrated extracts on an empty stomach is more likely to lead to adverse effects than consumption in the fed state. Based on this safety review, the DSI EC determined that when dietary supplement products containing green tea extracts are used and formulated appropriately the Committee is unaware of significant safety issues that would prohibit monograph development, provided a caution statement is included in the labelling section. Following this decision, USP's DSI ECs may develop monographs for green tea extracts, and USP may offer its verification programmes related to that dietary ingredient.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Safety of green tea extracts : a systematic review by the US Pharmacopeia",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1580",
    "key": "jin2008feverfew",
    "type": "article",
@@ -99398,6 +100123,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5208",
+   "key": "schirmer2007glaweightregain",
+   "type": "article",
+   "title": "Gamma-linolenate reduces weight regain in formerly obese humans",
+   "authors": "Schirmer, M.A. and Phinney, S.D.",
+   "journal": "The Journal of Nutrition",
+   "year": "2007",
+   "doi": "10.1093/jn/137.6.1430",
+   "url": "",
+   "link": "https://doi.org/10.1093/jn/137.6.1430",
+   "link_type": "doi",
+   "citation": "Schirmer, M.A. and Phinney, S.D (2007) 'Gamma-linolenate reduces weight regain in formerly obese humans', The Journal of Nutrition, 137(6), pp. 1430--5. doi:10.1093/jn/137.6.1430",
+   "abstract": "The purpose of this study was to determine whether gamma-linolenate (GLA) supplementation would suppress weight regain following major weight loss. Fifty formerly obese humans were randomized into a double-blind study and given either 890 mg/d of GLA (5 g/d borage oil) or 5 g/d olive oil (controls) for 1 y. Body weight and composition and adipose fatty acids of fasting subjects were assessed at 0, 3, 12, and 33 mo. After 12 subjects in each group had completed 1 y of supplementation, weight regain differed between the GLA (2.17 +/- 1.78 kg) and control (8.78 +/- 2.78 kg) groups (P < 0.03). The initial study was terminated, and all remaining subjects were assessed over a 6-wk period. Unblinding revealed weight regains of 1.8 +/- 1.6 kg in the GLA group and 7.6 +/- 2.1 kg in controls for the 13 and 17 subjects, respectively, who completed a minimum of 50 wk in the study. Weight regain did not differ in the remaining 10 GLA and 5 control subjects who completed <50 wk in the study. In a follow-up study, a subgroup from both the original GLA (GLA-GLA, n = 9) and the original control (Control-GLA, n = 14) populations either continued or crossed over to GLA supplementation for an additional 21 mo. Interim weight regains between 15 and 33 mo were 6.48 +/- 1.79 kg and 6.04 +/- 2.52 kg for the GLA-GLA and Control-GLA groups, respectively. Adipose triglyceride GLA levels increased 152% (P < 0.0001) in the GLA group at 12 mo, but did not increase further after 33 mo of GLA administration. In conclusion, GLA reduced weight regain in humans following major weight loss, suggesting a role for essential fatty acids in fuel partitioning in humans prone to obesity.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Gamma-linolenate reduces weight regain in formerly obese humans",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Metabolic support"
+   ]
+  },
+  {
    "ref_id": "REF-2048",
    "key": "boh2007ganoderma",
    "type": "article",
@@ -100757,6 +101516,37 @@
     "Insomnia / sleeplessness",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-5212",
+   "key": "frank2006frankincensecyp",
+   "type": "article",
+   "title": "Analysis of frankincense from various Boswellia species with inhibitory activity on human drug metabolising cytochrome P450 enzymes using liquid chromatography mass spectrometry after automated on-line extraction",
+   "authors": "Frank, A. and Unger, M.",
+   "journal": "Journal of Chromatography. A",
+   "year": "2006",
+   "doi": "10.1016/j.chroma.2005.11.116",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.chroma.2005.11.116",
+   "link_type": "doi",
+   "citation": "Frank, A. and Unger, M (2006) 'Analysis of frankincense from various Boswellia species with inhibitory activity on human drug metabolising cytochrome P450 enzymes using liquid chromatography mass spectrometry after automated on-line extraction', Journal of Chromatography. A, 1112(1-2), pp. 255--62. doi:10.1016/j.chroma.2005.11.116",
+   "abstract": "In our search for herbal remedies with inhibitory activity on cytochrome P450 (CYP) enzymes, we identified extracts of the gum-resin of Boswellia carteri, Boswellia frereana, Boswellia sacra and Boswellia serrata as equally potent, non-selective inhibitors of the major drug metabolising CYP enzymes 1A2/2C8/2C9/2C19/2D6 and 3A4. LC/LC/ESI-MS fingerprint analyses of the boswellic acids 11-keto-beta-boswellic acid, alpha-boswellic acid, beta-boswellic acid and their 3-O-acylated derivatives were used for the authentication of the commercially obtained frankincense samples. Although the boswellic acids could be identified as moderate to potent inhibitors of the applied CYP enzymes, they are not the major CYP inhibitory principle of frankincense.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Analysis of frankincense from various Boswellia species with inhibitory activity on human drug metabolising cytochrome P450 enzymes using liquid chromatography mass spectrometry after automated on-line extraction",
+   "plants": [
+    "Boswellia",
+    "Indian frankincense",
+    "Salai guggul",
+    "Shallaki"
+   ],
+   "scientific": [
+    "Boswellia serrata"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0878",
@@ -110969,13 +111759,17 @@
    "display": "The seamy side of natural medicines: contact sensitization to arnica (Arnica montana L.) and marigold (Calendula officinalis L.)",
    "plants": [
     "Arnica",
+    "Calendula",
     "Leopard's bane",
     "Mountain arnica",
     "Mountain tobacco",
-    "Wolf's bane"
+    "Pot marigold",
+    "Wolf's bane",
+    "common marigold"
    ],
    "scientific": [
-    "Arnica montana"
+    "Arnica montana",
+    "Calendula officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -112321,6 +113115,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5206",
+   "key": "henz1999borageoileczemamulticentre",
+   "type": "article",
+   "title": "Double-blind, multicentre analysis of the efficacy of borage oil in patients with atopic eczema",
+   "authors": "Henz, B.M., Jablonska, S., van de Kerkhof, P.C., Stingl, G., Blaszczyk, M., Vandervalk, P.G., Veenhuizen, R., Muggli, R. and Raederstorff, D.",
+   "journal": "The British Journal of Dermatology",
+   "year": "1999",
+   "doi": "10.1046/j.1365-2133.1999.02771.x",
+   "url": "",
+   "link": "https://doi.org/10.1046/j.1365-2133.1999.02771.x",
+   "link_type": "doi",
+   "citation": "Henz, B.M., Jablonska, S., van de Kerkhof, P.C., Stingl, G., Blaszczyk, M., Vandervalk, P.G., Veenhuizen, R., Muggli, R. and Raederstorff, D (1999) 'Double-blind, multicentre analysis of the efficacy of borage oil in patients with atopic eczema', The British Journal of Dermatology, 140(4), pp. 685--8. doi:10.1046/j.1365-2133.1999.02771.x",
+   "abstract": "Although gamma-linolenic acid (GLA) has been shown to correct deficiencies in skin lipids associated with reduced delta-6-desaturase activity which should result in improvement of dysregulation of inflammation and immunity in atopic eczema, clinical studies with evening primrose oil containing 10% GLA have yielded contradictory results. We have therefore examined the effect of a higher percentage (at least 23%) GLA-containing borage oil in adults with stable atopic eczema of moderate severity in a double-blind, multicentre study. One hundred and sixty patients were randomized to take daily either 500 mg of borage oil-containing capsules or the bland lipid miglyol as a placebo over a 24-week period. Use of topical diflucortolone-21-valerate cream was allowed as rescue medication, with the amount used until response being defined as primary, and clinical improvement as secondary efficacy criteria. Although several clinical symptoms improved compared with placebo, the overall response to borage oil did not reach statistical significance. Significant differences in favour of borage oil were, however, observed in a subgroup excluding patients who failed to show increased erythrocyte dihomo-gamma-linolenic acid levels and in whom adherence to inclusion criteria and the study protocol were questionable. GLA metabolites increased in borage oil-treated patients only, and serum IgE showed a trend to decrease on overall and subgroup analysis. No substance-related adverse effects were observed. This study shows no overall efficacy of GLA-containing borage oil in atopic eczema, with steroid use being the primary response parameter, although it suggests that a subgroup of patients may benefit from this well-tolerated treatment.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Double-blind, multicentre analysis of the efficacy of borage oil in patients with atopic eczema",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2376",
    "key": "beaux1999uvaursi",
    "type": "article",
@@ -113210,6 +114036,38 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5207",
+   "key": "borrek1997borageoilchildreneczema",
+   "type": "article",
+   "title": "[Gamma-linolenic-acid-rich borage seed oil capsules in children with atopic dermatitis. A placebo-controlled double-blind study]",
+   "authors": "Borrek, S., Hildebrandt, A. and Forster, J.",
+   "journal": "Klinische Padiatrie",
+   "year": "1997",
+   "doi": "10.1055/s-2008-1043936",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2008-1043936",
+   "link_type": "doi",
+   "citation": "Borrek, S., Hildebrandt, A. and Forster, J (1997) '[Gamma-linolenic-acid-rich borage seed oil capsules in children with atopic dermatitis. A placebo-controlled double-blind study]', Klinische Padiatrie, 209(3), pp. 100--4. doi:10.1055/s-2008-1043936",
+   "abstract": "We investigated the effect of gamma-linolenic-acid from borage seed on atopic dermatitis of children. In a placebo-controlled, double-blind manner we studied 24 patients, 3-17 years old. Every patient received 360 mg of gamma-linolenic acid daily, independent from sex and age; the same amount of corn seed-oil served as placebo. After 10 to 14 weeks of treatment there was no improvement of the eczema in the verum phase compared to placebo. Both groups showed improvement while taking placebo. This result could be seen in the objective investigations (Costa-Score, 3 times per treatment period) as well as in the daily patients documentation. The patients whose eczema has improved under borage seed-oil (n = 10) had no special characteristics, so that we could not identify any responder-type.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "[Gamma-linolenic-acid-rich borage seed oil capsules in children with atopic dermatitis. A placebo-controlled double-blind study]",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

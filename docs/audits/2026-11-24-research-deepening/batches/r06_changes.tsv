@@ -1,0 +1,35 @@
+plant	condition	ref	op
+borago_officinalis	arthritis	REF-5205	add
+borago_officinalis	arthritis	-	note
+borago_officinalis	eczema	REF-5206	nulladd
+borago_officinalis	eczema	REF-5207	nulladd
+borago_officinalis	eczema	-	note
+borago_officinalis	high-blood-pressure	REF-5209	newpair
+borago_officinalis	metabolic-support	REF-5208,REF-5209	newpair
+borago_officinalis	metabolic-support	REF-3461	nulladd
+boswellia_serrata	oral-health	REF-5211	newpair
+calendula_officinalis	oral-health	REF-5215,REF-3065	newpair
+calendula_officinalis	wounds	REF-5217	add
+calendula_officinalis	wounds	REF-5218	add
+calendula_officinalis	wounds	-	note
+calendula_officinalis	skin-irritation	REF-5216	nulladd
+calendula_officinalis	skin-irritation	-	note
+calendula_officinalis	references	REF-5229	refadd
+camellia_sinensis	blood-sugar	REF-5224	add
+camellia_sinensis	blood-sugar	REF-5225	add
+camellia_sinensis	blood-sugar	-	note
+camellia_sinensis	cognitive-function	REF-5226	add
+camellia_sinensis	cognitive-function	-	note
+camellia_sinensis	acne	REF-5222	newpair
+camellia_sinensis	cold	REF-5223	newpair
+borago_officinalis	ciadd	Pyrrolizidine alkaloids (PAs)	REF-5227
+borago_officinalis	cinew	Seizures: a previously healthy woman dev	REF-5210,REF-5227
+borago_officinalis	dcinew	anticoagulants-antiplatelets	REF-5227
+boswellia_serrata	cinew	High doses: a woman taking 1,000 mg a da	REF-5213
+boswellia_serrata	dcinew	cyp3a4-substrates	REF-5212
+boswellia_serrata	dcinew	anticoagulants-antiplatelets	REF-5228,REF-5214
+camellia_sinensis	cinew	Liver injury: concentrated, catechin-ric	REF-5220,REF-5221,REF-5230
+camellia_sinensis	dcinew	chemotherapy-agents	REF-5230
+camellia_sinensis	dcinew	statins	REF-5230
+camellia_sinensis	dcinew	anticoagulants-antiplatelets	REF-5230,REF-5214
+camellia_sinensis	dcinew	cyp3a4-substrates	REF-5230

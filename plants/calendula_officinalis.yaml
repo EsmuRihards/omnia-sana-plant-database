@@ -228,7 +228,7 @@ indications:
   - REF-0199
 - condition: skin-irritation
   note: Calendula cream prevented radiation dermatitis better than trolamine and essential fatty acids
-    in randomized trials and helped diaper and contact dermatitis; one trial found no difference from
+    in randomized trials and helped diaper and contact dermatitis; two trials found no difference from
     a standard moisturiser
   reference_ids:
   - REF-3472
@@ -242,26 +242,43 @@ indications:
   - REF-0199
   null_result_ids:
   - REF-3476
+  - REF-5216
 - condition: wounds
-  note: Calendula sped healing of hand wounds and, taken orally, of second-degree burns in randomized
-    trials; a systematic review found some benefit, though trials in burns and diabetic ulcers did not
+  note: Calendula sped healing of hand wounds, episiotomy and caesarean wounds and, taken orally, of second-degree
+    burns in randomized trials; a systematic review found some benefit, though trials in burns and diabetic
+    ulcers did not
   reference_ids:
   - REF-0199
   - REF-0752
   - REF-2125
   - REF-3477
+  - REF-5217
+  - REF-5218
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2127
   - REF-0112
+- condition: oral-health
+  note: A calendula flower extract mouthwash reduced radiotherapy-induced mouth and throat inflammation
+    (mucositis) more than placebo in a randomized trial; traditionally used for minor inflammations of
+    the mouth and throat (EU herbal monograph)
+  reference_ids:
+  - REF-5215
+  - REF-3065
+  status: verified
 contraindications:
-- note: Generally very safe for topical use. May cause contact dermatitis in rare cases (Asteraceae family
-    allergy). Internal use is safe in normal doses. Avoid during pregnancy at therapeutic doses (uterine
-    stimulant potential). Generally safe during breastfeeding for topical use.
+- note: Do not use if allergic to plants of the daisy family (Asteraceae); skin sensitisation (contact
+    allergy) has been reported, and about 2 in 100 people in a clinic series of patch tests reacted to
+    marigold. Not recommended in pregnancy or breastfeeding because safety has not been established, nor
+    as a medicine for children under 6 (on the skin) or under 12 (mouth and throat) (EU herbal monograph).
+    Calendula in food and tea is generally considered safe, and cosmetic ingredients from the flower were
+    not irritating or sensitising in tests.
   severity: caution
   reference_ids:
-  - REF-0112
-  - REF-0199
+  - REF-3065
+  - REF-5229
+  - REF-5219
+  - REF-5176
   status: verified
 - note: 'Duke (2002) rates calendula (Calendula officinalis) and notes anti-inflammatory, wound-healing
     (vulnerary), antifungal, and antispasmodic activities at experimental levels. Commission E (KOM) approves
@@ -272,8 +289,6 @@ contraindications:
     sensitivity can occasionally cause allergic reactions (Duke, 2002).'
   severity: info
   reference_ids:
-  - REF-0112
-  - REF-0199
   - REF-0063
   status: verified
 references:
@@ -288,6 +303,7 @@ references:
 - REF-2129
 - REF-2130
 - REF-2131
+- REF-5229
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -329,4 +345,20 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3476 (no difference from sorbolene) recorded as no-effect. Hand-wound RCT REF-3477 added to
   wounds. Held VVC RCT REF-0754 wired to infection. Owner answer (batch 3): systematic reviews of
   lab/animal studies keep scoring as SRs - REF-2124 (cancer) left as tagged.
-  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting, traditional_uses, preparations[0-1] and constituents[0-2] all cited only REF-0752 (wound-healing systematic review) or REF-2124 (cancer review), neither of which describes the plant, its range, chemistry or preparations. RE-SOURCED: WHO monograph Flos Calendulae vol. 2 (REF-3957, new; read from the archive.org text), PFAF (REF-3958, new; flowering June-November), Useful Temperate Plants REF-3217 (range, habitat, flowers close in the dark, harvest), EU monograph REF-3065 (oil extract 1:10, semi-solid 2-10%, traditional indications), REF-0753 (carotenoids). Dropped as unsupported: short-lived perennial, slightly sticky stems, darker central disc, shallow taproot, achene without pappus, flowering to first frost, naturalised worldwide, dried in a warm airy place to preserve resin, used internally as an anti-inflammatory and antimicrobial remedy, resin, best-studied modern form, carotenoids give the colour. Sources disagree on origin: WHO says indigenous to central, eastern and southern Europe; PFAF/Fern say not known in the wild, probably Mediterranean. Both stated.'
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting, traditional_uses, preparations[0-1] and constituents[0-2] all cited only REF-0752 (wound-healing systematic review) or REF-2124 (cancer review), neither of which describes the plant, its range, chemistry or preparations. RE-SOURCED: WHO monograph Flos Calendulae vol. 2 (REF-3957, new; read from the archive.org text), PFAF (REF-3958, new; flowering June-November), Useful Temperate Plants REF-3217 (range, habitat, flowers close in the dark, harvest), EU monograph REF-3065 (oil extract 1:10, semi-solid 2-10%, traditional indications), REF-0753 (carotenoids). Dropped as unsupported: short-lived perennial, slightly sticky stems, darker central disc, shallow taproot, achene without pappus, flowering to first frost, naturalised worldwide, dried in a warm airy place to preserve resin, used internally as an anti-inflammatory and antimicrobial remedy, resin, best-studied modern form, carotenoids give the colour. Sources disagree on origin: WHO says indigenous to central, eastern and southern Europe; PFAF/Fern say not known in the wild, probably Mediterranean. Both stated.
+  | 2026-11-24: symptom-source audit research-deepening batch 6 - Searched PubMed (Calendula
+  officinalis / pot marigold tiab, calendula ti), Europe PMC, ClinicalTrials.gov (27) and
+  OpenAlex. Added: NEW oral-health pair (Babaee 2013 placebo RCT, radiation oropharyngeal
+  mucositis; EU monograph REF-3065 traditional indication 2); episiotomy (2022) and caesarean
+  (2018) RCTs to wounds; Sharp 2013 RCT (Weleda calendula vs Essex aqueous cream, no difference)
+  recorded as no-effect for skin irritation. SAFETY: the main caution rested on Hoffmann
+  (REF-0112, unreadable) and a rat wound study (REF-0199) and said "internal use is safe",
+  "uterine stimulant" and "safe in breastfeeding", none of which a readable source states.
+  Rewritten from the EU monograph (EMA/HMPC/437450/2017 PDF read 2026-11-24: Asteraceae
+  contraindication, skin sensitisation, pregnancy and lactation not recommended, children), MSKCC
+  About Herbs (REF-5229), the CIR 2010 amended safety assessment (REF-5219) and Reider 2001 patch
+  tests (REF-5176, 2.03% reacted to marigold); REF-0112/REF-0199 removed from both safety notes.
+  Considered, not added: Leach 2008 wound SR (superseded by the 2019 SR REF-0752), calendula vs
+  metronidazole, lycopene, bentonite, olive oil and Bao Yuan Gao (active comparators only),
+  combinations (Ayurvedic gel, suppositories, mouthwashes, COPD mix), 1974 anaphylaxis after
+  gargling (no abstract), CIR 2001 (superseded by the 2010 amended report).'

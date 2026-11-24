@@ -1,0 +1,1793 @@
+# Research-deepening batch 6 - search
+
+## borago-officinalis (Borago officinalis) - name clause: "Borago officinalis"[tiab] OR "borage oil"[tiab] OR "borage seed oil"[tiab] OR "borage"[ti]
+
+### PubMed HT - 70 hits, 70 not already listed above, 61 new
+- new | 2026 | 41647453 |  | Herbal adjuvant therapy with a combination of Green Tea, Persian Borage, and Purslane to reduce antipsychotic-induced weight gain in Schizophrenia: A randomized controlled trial. | Avicenna J Phytomed
+- new | 2026 | 42730828 |  | Inflammatory Cytokines as Biologic Signatures of the Effect of Dietary Supplementation With Omega Fatty Acids on Autism-Related Behaviors and Features Among Young Children: A Rando | J Autism Dev Disord
+- new | 2025 | 41188351 |  | Fertilizer type and intercropping influence the metabolic and nutritional profiles of borage and peanut. | Sci Rep
+- new | 2024 | 39135328 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of a polyherbal Unani formulation on left ventricular diastolic dysfunction in hypertensive patients - a randomized single blind placebo controlled clinical trial. | Drug Metab Pers Ther
+- new | 2023 | 38222282 |  | Improvement of biochemical and antioxidant responses of borage (Borago officinalis L.) under drought stress conditions with the use of vermicompost and zinc sulfate. | Physiol Mol Biol Plants
+- new | 2022 | 36458163 |  | Effectiveness of Borage plus syrup on COVID-19 patients in intensive care units. | Front Nutr
+- new | 2022 | 35336647 |  | Sustainable Biochar and/or Melatonin Improve Salinity Tolerance in Borage Plants by Modulating Osmotic Adjustment, Antioxidants, and Ion Homeostasis. | Plants (Basel)
+- new | 2022 | 35869115 |  | Evaluation of foliar application of selenium and flowering stages on selected properties of Iranian Borage as a medicinal plant. | Sci Rep
+- HELD REF-3461 | 2021 | 34606560 | Randomized Controlled Trial | Borage oil intake by overweight young adults: no effect on metabolic rate; beneficial effects on plasma triglyceride and HDL cholesterol readings. | Food Funct
+- new | 2021 | 33534427 | Randomized Controlled Trial | Is there a beneficial effect of gamma-linolenic acid supplementation on body fat in postmenopausal hypertensive women? A prospective randomized double-blind placebo-controlled tria | Menopause
+- HELD REF-1958 | 2021 | 34933712 |  | The effect of Borago officinalis on the signaling pathway of the NLRP3 inflammasome complex, TLR4 and some inflammatory cytokines in type II diabetic patients with acute respirator | Cell Mol Biol (Noisy-le-grand)
+- new | 2020 | 32167131 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Prospective clinical trial examining the impact of genetic variation in FADS1 on the metabolism of linoleic acid- and ɣ-linolenic acid-containing botanical oils. | Am J Clin Nutr
+- new | 2020 | 31968621 |  | The Role of Annual Flowering Plant Strips on a Melon Crop in Central Spain. Influence on Pollinators and Crop. | Insects
+- new | 2020 | 33128473 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Borage Oil Treated with Immobilized Lipase Inhibits Melanogenesis. | Lipids
+- HELD REF-1950 | 2020 | 32984407 |  | Protective Effects of Borago officinalis (Borago) on Cold Restraint Stress-Induced Gastric Ulcers in Rats: A Pilot Study. | Front Vet Sci
+- new | 2019 | 31158920 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Lipid emulsions for parenterally fed term and late preterm infants. | Cochrane Database Syst Rev
+- new | 2019 | 31158919 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Lipid emulsions for parenterally fed preterm infants. | Cochrane Database Syst Rev
+- new | 2018 | 30257693 | Meta-Analysis/Systematic Review | Complementary and alternative medicine for treatment of atopic eczema in children under 14 years old: a systematic review and meta-analysis of randomized controlled trials. | BMC Complement Altern Med
+- new | 2016 | 27648380 | Review | Diet and eczema: a review of dietary supplements for the treatment of atopic dermatitis. | Dermatol Pract Concept
+- new | 2016 | 27280278 | Review |  | 
+- HELD REF-1952 | 2016 | 28210282 |  | Effect of Borago Officinalis Extract on Moderate Persistent Asthma: A Phase two Randomized, Double Blind, Placebo-Controlled Clinical Trial. | Tanaffos
+- new | 2015 | 25471809 | Review | Intravenous fish oil in adult intensive care unit patients. | World Rev Nutr Diet
+- new | 2015 | 25415370 | Clinical Trial | In vivo and ex vivo evaluation of cosmetic properties of seedcakes. | J Cosmet Laser Ther
+- new | 2015 | 25622761 | Research Support, Non-U.S. Gov't/Systematic Review | What's new in atopic eczema? An analysis of systematic reviews published in 2012 and 2013. Part 2. Treatment and prevention. | Clin Exp Dermatol
+- new | 2014 | 24553997 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of dietary supplementation with omega-3 fatty acid and gamma-linolenic acid on acne vulgaris: a randomised, double-blind, controlled trial. | Acta Derm Venereol
+- new | 2014 | 25515553 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | The impact of polyunsaturated fatty acid-based dietary supplements on disease biomarkers in a metabolic syndrome/diabetes population. | Lipids Health Dis
+- new | 2014 | 24803948 |  | Treatment of rheumatoid arthritis with marine and botanical oils: an 18-month, randomized, and double-blind trial. | Evid Based Complement Alternat Med
+- new | 2014 | 25485197 |  | LTC4 synthase polymorphism modifies efficacy of botanical seed oil combination in asthma. | Springerplus
+- HELD REF-0447 | 2013 | 23633319 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Oral evening primrose oil and borage oil for eczema. | Cochrane Database Syst Rev
+- new | 2013 | 23980847 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Functional textiles for atopic dermatitis: a systematic review and meta-analysis. | Pediatr Allergy Immunol
+- new | 2012 | 22336810 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dietary supplements for established atopic eczema. | Cochrane Database Syst Rev
+- new | 2011 | 21328257 | Meta-Analysis/Systematic Review | Herbal therapy for treating rheumatoid arthritis. | Cochrane Database Syst Rev
+- new | 2011 | 21652584 | Research Support, Non-U.S. Gov't/Systematic Review | Evidence for the efficacy of complementary and alternative medicines in the management of rheumatoid arthritis: a systematic review. | Rheumatology (Oxford)
+- new | 2011 | 21266694 | Review | Acute respiratory distress syndrome: use of specialized nutrients in pediatric patients and infants. | Nutr Clin Pract
+- new | 2011 | 22007257 |  | Treatment of rheumatoid arthritis with marine and botanical oils: influence on serum lipids. | Evid Based Complement Alternat Med
+- new | 2010 | 20579590 | Review | Borage oil in the treatment of atopic dermatitis. | Nutrition
+- new | 2009 | 18761778 | Randomized Controlled Trial | Intervention with flaxseed and borage oil supplements modulates skin condition in women. | Br J Nutr
+- new | 2009 | 19735195 | Controlled Clinical Trial | The activity of lysosomal exoglycosidases in serum of alcohol-dependent men supplemented with borage oil enriched with vitamin E. | J Med Food
+- new | 2008 | 18296341 | Research Support, Non-U.S. Gov't | Metabolism of omega-6 polyunsaturated fatty acids in women with dysmenorrhea. | Asia Pac J Clin Nutr
+- new | 2008 | 18318715 | Randomized Controlled Trial | Consumption of functional fermented milk containing borage oil, green tea and vitamin E enhances skin barrier function. | Exp Dermatol
+- new | 2007 | 17673396 | Clinical Trial/Letter | Undershirts coated with borage oil alleviate the symptoms of atopic dermatitis in children. | Eur J Dermatol
+- HELD REF-3459 | 2007 | 18078406 | Randomized Controlled Trial | Clinical effects of undershirts coated with borage oil on children with atopic dermatitis: a double-blind, placebo-controlled clinical trial. | J Dermatol
+- new | 2007 | 17513402 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Gamma-linolenate reduces weight regain in formerly obese humans. | J Nutr
+- new | 2005 | 16373736 | Systematic Review | Interventions for preventing or treating alcohol hangover: systematic review of randomised controlled trials. | BMJ
+- new | 2005 | 16007562 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | An anti-inflammatory and antioxidant nutritional supplement for hypoalbuminemic hemodialysis patients: a pilot/feasibility study. | J Ren Nutr
+- new | 2004 | 15069395 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized, double-blind trial of long-chain polyunsaturated fatty acid supplementation with fish oil and borage oil in preterm infants. | J Pediatr
+- new | 2004 | 15154607 | Clinical Trial/Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | Suppression of leukotriene B4 generation by ex-vivo neutrophils isolated from asthma patients on dietary supplementation with gammalinolenic acid-containing borage oil: possible im | Clin Dev Immunol
+- new | 2004 | 15120716 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The influence of different combinations of gamma-linolenic, stearidonic and eicosapentaenoic acids on the fatty acid composition of blood lipids and mononuclear cells in human volu | Prostaglandins Leukot Essent Fatty Acids
+- HELD REF-3460 | 2003 | 14670885 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and tolerability of borage oil in adults and children with atopic eczema: randomised, double blind, placebo controlled, parallel group trial. | BMJ
+- new | 2003 | 12663296 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Gamma-linolenic acid supplementation for prophylaxis of atopic dermatitis--a randomized controlled trial in infants at high familial risk. | Am J Clin Nutr
+- new | 2003 | 12591005 | Clinical Trial/Randomized Controlled Trial | Pilot study of dietary fatty acid supplementation in the treatment of adult periodontitis. | Prostaglandins Leukot Essent Fatty Acids
+- new | 2001 | 11485158 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Influence of formulas with borage oil or borage oil plus fish oil on the arachidonic acid status in premature infants. | Lipids
+- new | 2001 | 11710548 | Review | Borage oil reduction of rheumatoid arthritis activity may be mediated by increased cAMP that suppresses tumor necrosis factor-alpha. | Int Immunopharmacol
+- HELD REF-1463 | 2000 | 10617996 | Research Support, Non-U.S. Gov't/Review | Evening primrose oil and borage oil in rheumatologic conditions. | Am J Clin Nutr
+- new | 2000 | 10886164 | Letter/Comment | Efficacy of borage oil in patients with atopic eczema. | Br J Dermatol
+- new | 2000 | 10886165 |  | Efficacy of borage oil in patients with atopic eczema - reply from author. | Br J Dermatol
+- new | 2000 | 10713746 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Essential fatty acids in breast milk of atopic mothers: comparison with non-atopic mothers, and effect of borage oil supplementation. | Eur J Clin Nutr
+- new | 1999 | 10233322 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Double-blind, multicentre analysis of the efficacy of borage oil in patients with atopic eczema. | Br J Dermatol
+- new | 1999 | 10470743 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of enteral feeding with eicosapentaenoic acid, gamma-linolenic acid, and antioxidants in patients with acute respiratory distress syndrome. Enteral Nutrition in ARDS Study G | Crit Care Med
+- new | 1997 | 9191388 | Research Support, Non-U.S. Gov't | Effect of omega-6 lipid-rich borage oil feeding on immune function in healthy volunteers. | Biochem Soc Trans
+- new | 1997 | 9244815 | Clinical Trial/Randomized Controlled Trial | [Gamma-linolenic-acid-rich borage seed oil capsules in children with atopic dermatitis. A placebo-controlled double-blind study]. | Klin Padiatr [ger]
+- new | 1997 | 9107561 | Clinical Trial | A therapeutic dosage (3 g/day) of borage oil supplementation has no effect on platelet aggregation in healthy volunteers. | Fundam Clin Pharmacol
+- new | 1997 | 9436835 | Clinical Trial | Malassezia furfur in infantile seborrheic dermatitis. | Pediatr Dermatol
+- new | 1996 | 8746332 | Clinical Trial/Controlled Clinical Trial | Effect of topically applied lipids on surfactant-irritated skin. | Br J Dermatol
+- new | 1994 | 8185286 | Research Support, Non-U.S. Gov't | Effect of administration of gamma-linolenic acid on the fatty acid composition of serum phospholipids and cholesteryl esters in patients with cystic fibrosis. | Ann Nutr Metab
+- HELD REF-3462 | 1993 | 8214997 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Treatment of rheumatoid arthritis with gammalinolenic acid. | Ann Intern Med
+- new | 1992 | 1434338 | Clinical Trial/Randomized Controlled Trial | [Treatment of atopic dermatitis with borage seed oil (Glandol)--a time series analytic study]. | Kinderarztl Prax [ger]
+- new | 1990 | 2260727 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Alteration of baroreflex control of forearm vascular resistance by dietary fatty acids. | Am J Physiol
+- new | 1990 | 2171540 | Clinical Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Alteration of the cellular fatty acid profile and the production of eicosanoids in human monocytes by gamma-linolenic acid. | Arthritis Rheum
+- new | 1989 | 2760908 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Dietary fatty acid supplementation alters stress reactivity and performance in man. | J Hum Hypertens
+
+### PubMed SR - 14 hits, 2 not already listed above, 1 new
+- new | 2027 | 42480877 | Systematic Review | Herb-drug interactions with clinical impact: A systematic review of global clinical evidence on medicinal plants widely used in Ecuador. | J Ethnopharmacol
+- HELD REF-0914 | 2020 | 32105669 | Case Reports/Systematic Review | A systematic review and quality assessment of case reports of adverse events for borage (Borago officinalis), coltsfoot (Tussilago farfara) and comfrey (Symphytum officinale). | Fitoterapia
+
+### PubMed SAFE - 67 hits, 38 not already listed above, 35 new
+- new | 2026 | 40601286 |  | Assessment of Trace and Macro Elements in Medicinal Plants: Implications for Safety and Phytoremediation. | Biol Trace Elem Res
+- new | 2026 | 42485947 | Case Reports | Wet cupping (Ḥijāma bi'l Sharṭ) and Unani pharmacotherapy in trigeminal Neuralgia-early symptom relief without major surgery: Clinical case report. | Explore (NY)
+- new | 2025 | 40926201 |  | Mycorrhizal inoculation mitigates drought stress in borage (Borago officinalis L.): Evidence from biochemical, physiological, and growth responses. | BMC Plant Biol
+- new | 2023 | 37359317 |  | Spectral Light Treatment Influenced Morpho-Physiological Properties and Carvacrol Accumulation in Indian Borage. | J Plant Growth Regul
+- new | 2023 | 38628881 | Review | Herbal Treatment of COPD and Asthma According to Persian Medicine: a Review of Current Evidence. | Tanaffos
+- HELD REF-2607 | 2023 | 37521578 | Case Reports | Of mixed vegetables and cardiac arrhythmias - Digitalis purpurea confused with Borago officinalis: A case series of accidental digitoxin intoxications. | J Cardiol Cases
+- new | 2020 | 32440827 | Review | Fabric Selection in Atopic Dermatitis: An Evidence-Based Review. | Am J Clin Dermatol
+- new | 2020 | 33093596 | Research Support, Non-U.S. Gov't | Incorporation of docetaxel and thymoquinone in borage nanoemulsion potentiates their antineoplastic activity in breast cancer cells. | Sci Rep
+- new | 2019 | 30704105 | Review | Pyrrolizidine Alkaloids: Biosynthesis, Biological Activities and Occurrence in Crop Plants. | Molecules
+- HELD REF-2605 | 2019 | 31871798 | Case Reports | A Case Report of Accidental Intoxication following Ingestion of Foxglove Confused with Borage: High Digoxinemia without Major Complications. | Case Rep Cardiol
+- new | 2018 | 29336271 | Review | Anti-Inflammatory Drugs and Herbs with Special Emphasis on Herbal Medicines for Countering Inflammatory Diseases and Disorders - A Review. | Recent Pat Inflamm Allergy Drug Discov
+- new | 2017 | 28638880 |  | EFFICIENCY OF BORAGE SEEDS OIL AGAINST GAMMA IRRADIATION-INDUCED HEPATOTOXICITY IN MALE RATS: POSSIBLE ANTIOXIDANT ACTIVITY. | Afr J Tradit Complement Altern Med
+- new | 2016 | 28112707 | Case Reports | In the kingdom of "tortelli" (ravioli-like pasta) plant poisoning is still a threat. A case report of near-fatal poisoning from Digitalis Purpurea accidentally confused with Borago | Acta Biomed
+- HELD REF-1953 | 2016 | 26797631 | Research Support, Non-U.S. Gov't | Cancer Prevention and Health Benefices of Traditionally Consumed Borago officinalis Plants. | Nutrients
+- new | 2015 | 26334939 | Research Support, Non-U.S. Gov't | Photoimmunological properties of borage in bovine neutrophil in vitro model. | J Photochem Photobiol B
+- new | 2013 | 24130010 | Evaluation Study | A rapid and highly specific method to evaluate the presence of pyrrolizidine alkaloids in Borago officinalis seed oil. | J Mass Spectrom
+- new | 2013 | 23460824 |  | Protective effect of borage seed oil and gamma linolenic acid on DNA: in vivo and in vitro studies. | PLoS One
+- new | 2012 | 22359349 |  | Reversal of experimental ethanol-induced liver steatosis by borage oil. | Phytother Res
+- new | 2012 | 23206364 |  | Toxicity of essential oil from Indian borage on the larvae of the African malaria vector mosquito, Anopheles gambiae. | Parasit Vectors
+- new | 2011 | 21387119 | Case Reports | Status epilepticus associated with borage oil ingestion. | J Med Toxicol
+- new | 2009 | 19491701 | Case Reports | Digitalis must be banished from the table: a rare case of acute accidental Digitalis intoxication of a whole family. | J Cardiovasc Med (Hagerstown)
+- new | 2008 | 18804141 | Comparative Study/Research Support, Non-U.S. Gov't | Safety assessment of SDA soybean oil: results of a 28-day gavage study and a 90-day/one generation reproduction feeding study in rats. | Regul Toxicol Pharmacol
+- new | 2006 | 30000849 | Review | Borage. | 
+- new | 2006 | 16421287 | Research Support, N.I.H., Extramural | Induction of renal cytochrome P450 arachidonic acid epoxygenase activity by dietary gamma-linolenic acid. | J Pharmacol Exp Ther
+- new | 2006 | 16620365 | Case Reports | Anticholinergic syndrome due to 'Devil's herb': when risks come from the ancient time. | Int J Clin Pract
+- new | 2004 | 15129999 |  | Simultaneous permeation of tamoxifen and gamma linolenic acid across excised human skin. Further evidence of the permeation of solvated complexes. | Int J Pharm
+- new | 2004 | 15186123 | Comparative Study | Effect of long-term dietary supplementation of high-gamma-linolenic canola oil versus borage oil on growth, hematology, serum biochemistry, and N-6 fatty acid metabolism in rats. | J Agric Food Chem
+- new | 2004 | 15214949 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, controlled study to evaluate the steroid sparing effect of essential fatty acid supplementation in the treatment of canine atopic dermatitis. | Vet Dermatol
+- new | 2002 | 12466014 | Comparative Study/Research Support, Non-U.S. Gov't | Comparison of the extrapancreatic action of gamma-linolenic acid and n-3 PUFAs in the high fat diet-induced insulin resistance [corrected]. | Endocr Regul
+- new | 2001 | 11518905 |  | A survey of dietary supplement use during pregnancy at an academic medical center. | Am J Obstet Gynecol
+- new | 2001 | 11368168 | Research Support, Non-U.S. Gov't | Functional identification of a delta8-sphingolipid desaturase from Borago officinalis. | Arch Biochem Biophys
+- new | 2000 | 11026618 | Comparative Study | Comparison of growth and fatty acid metabolism in rats fed diets containing equal levels of gamma-linolenic acid from high gamma-linolenic acid canola oil or borage oil. | Lipids
+- new | 1999 | 10517856 | Research Support, Non-U.S. Gov't | Histidine-41 of the cytochrome b5 domain of the borage delta6 fatty acid desaturase is essential for enzyme activity. | Plant Physiol
+- new | 1997 | 9108131 | Research Support, Non-U.S. Gov't | Expression of a borage desaturase cDNA containing an N-terminal cytochrome b5 domain results in the accumulation of high levels of delta6-desaturated fatty acids in transgenic toba | Proc Natl Acad Sci U S A
+- new | 1995 | 23196013 |  | Antiasthmatic effects of gamma linolenic acid -high dose Evening Primrose Oil and Borage Oil stimulate allergen tachyphylaxis of sensitized guinea pigs and prevent allergen sensiti | Phytomedicine
+- new | 1993 | 8396411 | Letter | Borage oil, an effective new treatment for infantile seborrhoeic dermatitis. | Br J Dermatol
+- new | 1993 | 8095744 |  | Transepidermal water loss and water content in the stratum corneum in infantile seborrhoeic dermatitis. | Acta Derm Venereol
+- new | 1992 | 1476031 |  | ADASI score: atopic dermatitis area and severity index. | Acta Derm Venereol Suppl (Stockh)
+
+### PubMed OBS - 7 hits, 2 not already listed above, 2 new
+- new | 2026 | 43029030 |  | Ethnobotanical Knowledge, Quality Assessment, and Phytochemical Evaluation of Medicinal Plants Used for Respiratory Ailments at Gamarra Market, Lima, Peru. | Plants (Basel)
+- new | 2013 | 23287806 |  | Methemoglobinemia induced by vegetable intake in infants in northern Spain. | J Pediatr Gastroenterol Nutr
+
+### PubMed REV - 27 hits, 13 not already listed above, 11 new
+- new | 2026 | 39772730 | Review | Oral Lipids/Fatty Acids Supplements and Eczema: What Is Known? | Dermatitis
+- new | 2025 | 40103463 | Review | Vegetable Oils in Skin Whitening - A Narrative Review. | Curr Pharm Des
+- new | 2025 | 42038826 | Review | Role of Herbal Plants for Treatment of Coronary Artery Disease; A Review : Herbalism for Coronary Artery Disease. | Galen Med J
+- HELD REF-0749 | 2024 | 38426739 | Review | Borago Officinalis L.: A Review Oon Extraction, Phytochemical, and Pharmacological Activities. | Chem Biodivers
+- new | 2017 | 29280987 | Review | Anti-Inflammatory and Skin Barrier Repair Effects of Topical Application of Some Plant Oils. | Int J Mol Sci
+- HELD REF-0751 | 2016 | 27247570 | Review | Review of Anti-Inflammatory Herbal Medicines. | Adv Pharmacol Sci
+- new | 2010 | 20441676 | Review | Rationale and use of n-3 fatty acids in artificial nutrition. | Proc Nutr Soc
+- new | 2009 | 19442393 | Review | Clinical inquiries. Do nonmedicated topicals relieve childhood eczema? | J Fam Pract
+- new | 2008 | 18258646 | Research Support, N.I.H., Extramural/Review | Mechanisms by which botanical lipids affect inflammatory disorders. | Am J Clin Nutr
+- new | 2006 | 16543789 | Review | Are there any real differences between enteral feed formulations used in the critically ill? | Curr Opin Crit Care
+- new | 2001 | 11359029 | Review | Potential of evening primrose, borage, black currant, and fungal oils in human health. | Ann Nutr Metab
+- new | 2000 | 10902065 | Review | Potential interactions between alternative therapies and warfarin. | Am J Health Syst Pharm
+- new | 1995 | 7650952 | Review | The ethnopharmacology of Madeira and Porto Santo Islands, a review. | J Ethnopharmacol
+
+### ClinicalTrials.gov - 17 registered studies
+- NCT03141931 | COMPLETED | results=True | NA | The Effects of Dietary Supplementation With Omega-3 Fatty Acids on Symptoms of Dry Eye | conds: Dry Eye | intr: Supplement, Placebo
+- NCT01211769 | COMPLETED | results=True | PHASE3 | Effects of Omegas 3 and 6 on Alcohol Dependence | conds: Alcohol Dependence | intr: Naltrexone, PUFAs, Placebo, Naltrexone + Placebo | pubs: ['21787433:DERIVED (new)']
+- NCT03862872 | WITHDRAWN | results=False | NA | Effects of Bend Beauty's Anti-Aging Formula on Inflammatory Markers | conds: Inflammation, Skin Abnormalities, Skin Pigment, Inflammatory Response | intr: Anti-Aging Formula, Control Fish Oil, Inert Placebo
+- NCT03569930 | UNKNOWN | results=False | PHASE4 | Irritation and Anal Bleeding in Patients Affected by Hemorrhoids. | conds: Hemorrhoids | intr: flavonoid-based supplements, Centella Complex, standard of care
+- NCT05873933 | WITHDRAWN | results=False | NA | An Investigation of a Multi-Function Skincare Product to Improve Aging, Eczema, and Acne Outcomes | conds: Acne, Eczema, Skin Aging | intr: Hemptress Oil
+- NCT01145066 | COMPLETED | results=True | PHASE2 | Botanical Oil Supplementation in Diabetic and Metabolic Syndrome Subjects | conds: Diabetes, Metabolic Syndrome x | intr: borage/echium oil combination, fish oil, corn oil | pubs: ['25515553:DERIVED (new)']
+- NCT01768429 | COMPLETED | results=False | NA | The Effect of n-3 Fatty Acids and Fish on Glucose and Lipid Metabolism in Subjects With Impaired Glucose Metabolism | conds: Hyperglycemia | intr: Fatty fish, Lean Fish, Alpha-linolenic acid, Control | pubs: ['32512364:DERIVED (new)', '30658192:DERIVED (new)', '30454883:DERIVED (new)', '29645359:DERIVED (new)']
+- NCT02337231 | COMPLETED | results=False | NA | Botanical Oils Study to Determine Genetic Differences in the Way Your Body Processes Fats in Edible Oils | conds: Genetic Differences of Lipid Metabolism/Healthy Subjects | intr: soybean oil and borage oil | pubs: ['32167131:DERIVED (new)']
+- NCT02130908 | COMPLETED | results=False | NA | A Study on the Possible Health Effects of Lean Fish, Fatty Fish and Lean Meat Intake in Non-obese Adults | conds: Metabolic Disorders, Obesity | intr: Lean fish, Fatty fish, Lean meat
+- NCT00072982 | UNKNOWN | results=False | PHASE3 | Treatment of Rheumatoid Arthritis With Marine and Botanical Oils | conds: Rheumatoid Arthritis | intr: fish oil, borage seed oil, combination fish oil and borage seed oil
+- NCT03265327 | COMPLETED | results=False | NA | Effect of an Oral Supplement Containing Omega-3 and Omega-6 on Dry Eye Symptoms | conds: Dry Eye | intr: Oral supplement containing omega-3 and omega-6, Oral supplement containing coconut and olive oil | pubs: ['34882608:DERIVED (new)']
+- NCT00029679 | COMPLETED | results=False | PHASE1,PHASE2 | Borage Oil and Ginkgo Biloba (EGb 761) in Asthma | conds: Asthma | intr: Gingko biloba, Borage oil
+- NCT00806442 | COMPLETED | results=True | PHASE1,PHASE2 | Treatment of Bronchial Asthma With Borage and Echium Seed Oils | conds: Bronchial Asthma | intr: Borage Seed Oil and Echium Seed Oil, Corn Oil | pubs: ['25485197:DERIVED (new)']
+- NCT06133998 | UNKNOWN | results=False | NA | Effects of Incentive Spirometry With and Without Aerobic Exercises in Interstitial Lung Disease | conds: Interstitial Lung Disease | intr: incentive spirometer with aerobic exercises, incentive spirometry without aerobic exercises
+- NCT02350595 | COMPLETED | results=False | NA | A Study on the Possible Health Effects of Lean Fish and Fatty Fish Intake in Overweight or Obese Adults | conds: Overweight, Obesity | intr: Lean fish, Fatty fish | pubs: ['28606215:RESULT (new)', '33576844:RESULT (new)', '33108521:RESULT (new)', '31760958:RESULT (new)', '31401679:RESULT (new)', '36631895:DERIVED (new)']
+- NCT03842514 | COMPLETED | results=False | NA | Food Additives - Do Processed Diets Impact on Gut and Metabolic Health | conds: Gut Health, Metabolic Health | intr: Soya lecithin
+- NCT01560988 | COMPLETED | results=True | PHASE3 | Borage and Echium Seed Oils for Asthma | conds: Asthma | intr: Borage and Echium Seed Oils, Corn oil pills
+
+### OpenAlex no-PMID trial-worded - 558 hits, 67 without PMID, 67 new
+- new | 2026 | 10.59658/jkas.v13i2.6613 | article | Effect of aqueous extract of Borago officinalis L. on the productive performance of broiler | Journal of Kerbala for Agricultural Scie
+- new | 2026 | 10.5281/zenodo.24158692 | article | "Phytochemical Profile and Pharmacological Potential of Borago officinalis: Mechanistic and Therapeutic Insights" | Zenodo (CERN European Organization for N
+- new | 2026 | 10.5281/zenodo.22047177 | review | An Integrative Overview of Barg-e-Gaozaban (Borago officinalis Linn.): Insights into its Medicinal Potential | International Journal of Unani and Tradi
+- new | 2026 | 10.37229/fsa.fjas.2026.10.02 | article | Enhancing Sustainable Production of Borage Plant (Borago officinalis L.) through Synergy Between NPK Fertilization, Biostimulants, and Amino Acids | The future of applied science.
+- new | 2026 | 10.1016/j.rechem.2026.103974 | article | Damask rose waste-derived biochar enhances polyethylene microplastic tolerance in Borago officinalis L. by strengthening antioxidant defense and preserving photosynthetic performan | Results in Chemistry
+- new | 2026 | 10.21608/avmj.2026.507340.2205 | article | DIETARY SUPPLEMENTATION WITH Borago officinalis SEED POWDER ATTENUATES HEAT STRESS-INDUCED IMPAIRMENT IN GROWTH PERFORMANCE, SERUM BIOCHEMISTRY, AND TISSUE HISTOPATHOLOGY IN BROILE | Assiut Veterinary Medical Journal/Maǧall
+- new | 2026 | 10.58928/ku26.17202 | article | Investigating the Impact of Planting Date and Different Organic Fertilization on Optimizing Growth Trait, Yield, Yield Components of Borage (Borago officinalis L.) | Kirkuk University Journal For Agricultur
+- new | 2025 | 10.59658/jkas.v12i4.5109 | article | Effect of Vermicompost and Boron spraying on the Vegetative growth of Borago officinalis L. | Journal of Kerbala for Agricultural Scie
+- new | 2025 | 10.36483/vanvetj.1683003 | article | Investigation of the Effect of Borago officinalis on Bax/Bcl-2/Caspase-3 Pathways Against Spleen Toxicity Induced by Lead Acetate in Rats | Van veterinary journal
+- new | 2025 | 10.1080/15427528.2025.2458302 | article | Competitive indices assessment in additive intercropping of borage ( Borago officinalis L.) and peanut ( Arachis hypogaea L.) treated with different fertilizers | Journal of Crop Improvement
+- new | 2024 | 10.1201/9781003573227-13 | book-chapter | First Field Trials of Borage (Borago officinalis L.) in Andalusia (Southern Spain) as a Source of “Biological” Gamma Linolenic Acid | CRC Press eBooks
+- new | 2024 | https://openalex.org/W7217453774 | article | Formulation and Development of Solid Lipid Nanoparticles Based Nanogel for Dermal Delivery of Borago Officinalis. | Nanotechnology Perceptions
+- new | 2024 | 10.24086/biohs2024/paper.1288 | conference-paper | Anti-parkinsonian Activity of Borago Officinalis Ethanolic Extract in Rotenone- Induced Rat Model of Parkinson’s Disease | International Conference on Biomedical a
+- new | 2024 | 10.33545/2616454x.2024.v8.i1b.270 | article | An Insight into a therapeutically significant herbal drug, Gul-e-Gaozuban (Borago officinalis flower), from the treasures of Unani Medicine | International Journal of Unani and Integ
+- new | 2024 | 10.61186/sjku.29.5.1 | article | Ameliorative effect of Borago officinalis L extract on sperm parameters, testosterone level in a streptozotocin-induced mouse model of diabetes | Scientific Journal of Kurdistan Universi
+- new | 2024 | 10.21608/sjfop.2024.392477 | article | EFFECT OF HUMIC ACID AND SOME MICRO NUTRIENTS ON GROWTH, SEED YIELD AND OIL CONTENT OF BORAGO OFFICINALIS L. PLANT | Scientific Journal of Flowers and Orname
+- new | 2022 | 10.1007/s10343-022-00730-2 | article | Evaluation of Biochar and Salicylic Acid Application on Soil Biochemical Properties and Some Growth Parameters of Borago officinalis L. Under Different Irrigation Regimes | Gesunde Pflanzen
+- new | 2021 | 10.1186/s40816-021-00316-x | article | Evaluation of clinical trials of the plants, which have ethnobotanical uses for skin disorders in Turkey: a review | Clinical Phytoscience
+- new | 2021 | 10.2174/1573407217666210302085822 | article | Antihyperlipidemic and Antiobesity Potential of Aquilaria agallocha and Borago officinalis in Fixed-Dose Combination; A Contingent Probe with Atorvastatin and Orlistat | Current Bioactive Compounds
+- new | 2020 | 10.1007/978-981-15-4194-0_14 | book-chapter | Borage (Borago officinalis) Seed | Springer eBooks
+- new | 2020 | 10.1007/978-3-030-16807-0_46 | book-chapter | Borago officinalis L. (Boraginaceae) | Springer eBooks
+- new | 2020 | 10.46624/ajphr.2020.v8.i12.001 | article | Effect of Majoone Chobchini in Post Chikungunya Arthralgia - A Randomized Placebo Control Study | American Journal Of Pharmacy And Health 
+- new | 2019 | https://openalex.org/W2989619368 | dissertation | The effect of ethanol and aqueous extract of Iranian borage (Echium amoenum) on primary dysmenorrhea and the quality of life enjoyment and satisfaction among students: a randomized | 
+- new | 2019 | 10.22059/ijhst.2019.274604.281 | article | Enhancing the Quality and Yield of European Borage (Borago officinalis) by Simultaneous Application of Granulated Compost, Vermicompost and Mycorrhiza | Institutional Research Information Syste
+- new | 2019 | https://openalex.org/W3196378669 | article | Antibacterial Effect of some Herbal plants against Pathogenic Bacteria Isolated from Patients with Urinary Tract Infections (UTI) | AL-Yarmouk Journal
+- new | 2019 | https://openalex.org/W3169483185 | article | Investigation of microbial contamination of some dry medicinal plants in Yazd herbal shops | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2018 | 10.17707/agricultforest.64.3.11 | article | EFFECT OF POLYAMINES APPLICATION ON GERMINATION AND PHYSIOLOGICAL CHARACTERISTICS OF BORAGE (Borago officinalis L.) | The Journal Agriculture and Forestry
+- new | 2018 | https://openalex.org/W2987084442 | dissertation | Evaluación de la actividad antidiabética de Tilia americana, Borago officinalis, Cchenopodium nuttalliae y Piper sanctum en ratas wistar tratadas con aloxano. | El Repositorio Academico Digital de la U
+- new | 2017 | https://openalex.org/W3128624510 | article | Response of Some Morpho-physiological Characteristics of Borago (Borago officinalis) to Nano Particles of Titanium Spraying | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2017 | 10.19080/jdvs.2017.02.555585 | article | Comparison of the Effect of Nano Urea and Nono Iron Fertilizers with Common Chemical Fertilizers on Some Growth Traits and Essential Oil Production of Borago Officinalis L | Journal of Dairy & Veterinary Sciences
+- new | 2017 | https://openalex.org/W2735559006 | article | Screening Non Legume Species for Use as Cover Crop inMixtures | Organic Eprints (International Centre fo
+- new | 2017 | https://openalex.org/W2911396902 | dissertation | Thesis Submitted in Partial Fulfillment of the Requirement for the degree of Master of Science (M. Sc) in Agro-ecology Evaluation of yield and yield components of borage (Borago of | 
+- new | 2016 | 10.18869/modares.ecopersia.4.1.1239 | article | Effect of Humic Acid on Seed Germination and Seedling Growth of Borago officinalis and Cichorium intybus | Ecopersia
+- new | 2016 | 10.3923/jbs.2016.128.135 | article | Effect of Silicon on the Mineral Content of Borage (Borago officinalis L.) under Aluminum Stress | Journal of Biological Sciences
+- new | 2016 | https://openalex.org/W3163439408 | article | Evaluation of Irrigation Regimes and Use of Organic Fertilizers on Qualitive and Quantitive Yield of Borage (Borago officinalis L.) | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2016 | 10.29076/issn.2528-7737vol9iss20.2016pp11-18p | article | Análisis del efecto antimicrobiano de doce plantas medicinales de uso ancestral en Ecuador / Analysis of antimicrobial effect of twelve medicinal plants of ancient use in Ecuador | Ciencia Unemi
+- new | 2015 | 10.4236/ijcm.2015.66047 | article | Clinical Assessment of Treatment Outcomes Following Borago officinalis Extract Therapy in Patients Presenting with Cyclical Mastalgia | International Journal of Clinical Medici
+- new | 2015 | 10.17795/ajnpp-27189 | article | Anxiolytic Effect of Borago officinalis (Boraginaceae) Extract in Male Rats | Avicenna Journal of Neuro Psych Physiolo
+- new | 2015 | https://openalex.org/W2400704628 | dissertation | Etude ethno-pharmacologique et évaluation de l’activité antimicrobienne et antioxydante de quelques plantes médicinales de la région de Tizi Ouzou - Algérie | Dépôt Institutionnel de lUniversité de T
+- new | 2015 | 10.4067/s0718-95162015005000066 | article | Foliar application of micronutrients on essential oils of borago, thyme and marigold | Journal of soil science and plant nutrit
+- new | 2014 | https://openalex.org/W2275988332 | article | Premenstrual syndrome: clinical assessment of treatment outcomes following Borago officinalis extract therapy | UNESP Institutional Repository (São Paul
+- new | 2014 | 10.15835/nsb629292 | article | Phytochemical and Morphological Attributes of Borage (Borago officinalis) Affected by Salicylic Acid as an Enhancer | Notulae Scientia Biologicae
+- new | 2014 | 10.1111/afe.12076 | article | The attractiveness of flowering herbaceous plants to bees (Hymenoptera: Apoidea) and hoverflies (Diptera: Syrphidae) in agro‐ecosystems of Central Spain | Agricultural and Forest Entomology
+- new | 2013 | https://openalex.org/W2383590341 | article | Effects of Application of Nitroxin and Biophosphate on the Nutrient Use Efficiency and Harvest Index of (Borago officinalis L.) Under Water Deficit Stress. | 
+- new | 2012 | https://openalex.org/W2272812163 | article | Evaluation of Calcium Effect on Antioxidant Activity and Phenolic Compound Content in Borage (Borago officinalis L.) | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2012 | https://openalex.org/W2993536736 | article | MORPHOLOGICAL, AGRONOMICAL AND PHYTOCHEMICAL CHANGES IN BORAGE (BORAGO OFFICINALIS L.) UNDER BIOLOGICAL AND CHEMICAL FERTILIZERS APPLICATION | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2012 | https://openalex.org/W2273678903 | article | ROW INTERCROPPING OF BORAGE (BORAGO OFFICINALIS L.) WITH BEAN (PHASEOLUS VULGARIS L.) ON POSSIBLE EVALUATING OF THE BEST STRIP WIDTH AND ASSESSING OF ITS ECOLOGICAL CHARACTERISTICS | 
+- new | 2011 | https://openalex.org/W2188094956 | article | Borage ( Borago officinalis L.) Germination under Saline Condition | Annals of biological research
+- new | 2011 | https://openalex.org/W2255337318 | article | Effect of Nitrogen Rate on Mucilage Content, Yield and Yield Components of Borage (Borago officinalis) | International Journal of Bio-resource an
+- new | 2011 | https://openalex.org/W4385995058 | article | Effect of Salicylic Acid on Photosynthetic Activity and Performance Flowers Borage Plant (Borago officinalis) | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2011 | 10.5897/jmpr.9000486 | article | Effect of nano silver and silver nitrate on seed yield of borage | Journal of Medicinal Plants Research
+- new | 2010 | 10.5897/ajb10.179 | article | Evaluating potential of borage (Borago officinalis L.) in bioremediation of saline soil | AFRICAN JOURNAL OF BIOTECHNOLOGY
+- new | 2010 | 10.5897/ijbmbr.9000014 | article | Effects of planting dates and compost on mucilage variations in borage (Borago officinalis L.) under different chemical fertilization systems. | 
+- new | 2009 | https://openalex.org/W2111237924 | article | Biochemical and Antioxidant Responses of Borage Seedlings in Saline Environments | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2008 | 10.1017/s0029665108006721 | article | Effects of borage (Borago officinalis) oil supplementation on the expression of monocyte and T-cell adhesion molecules in healthy volunteers | Proceedings of The Nutrition Society
+- new | 2008 | 10.1139/b08-029 | article | Genetic diversity in a collection of borage (Borago officinalis) germplasm | Botany
+- new | 2008 | https://openalex.org/W2165981554 | article | Effects of salinity on Na, K and Ca contents of borage (Borago officinalis L.) and echium (Echium amoenum Fisch. & Mey.) | Research in Pharmaceutical Sciences
+- new | 2004 | https://openalex.org/W2992913343 | article | The effect of borage tea on urine and blood biochemistry on non-dialysis chronic renal failure patients | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2002 | 10.1016/s0926-6690(02)00047-x | article | Seeding date and nitrogen fertilization effects on the performance of borage (Borago officinalis L.) | Industrial Crops and Products
+- new | 2002 | 10.1300/j044v09n02_13 | article | First Field Trials of Borage (Borago officinalisL.) in Andalusia (Southern Spain) as a Source of “Biological” Gamma Linolenic Acid | Journal of Herbs Spices & Medicinal Plan
+- new | 2001 | 10.21273/horttech.11.4.644 | article | Consumer Ratings of Edible Flower Quality, Mix, and Color | HortTechnology
+- new | 1998 | 10.7764/rcia.v25i2.657 | article | Determination of harvest timeliness in borage (Borago officinalis L.) | International Journal of Agriculture and
+- new | 1998 | 10.1006/bcon.1997.0566 | article | The Influence of Food onCopidosoma koehleri(Hymenoptera: Encyrtidae), and the Use of Flowering Plants as a Habitat Management Tool to Enhance Biological Control of Potato Moth,Phth | Biological Control
+- new | 1997 | 10.1016/s0952-3278(97)90234-9 | article | Mononuclear cell functions in healthy volunteers fed borage oil (Borago officinalis) | Prostaglandins Leukotrienes and Essentia
+- new | 1997 | 10.5962/bhl.title.51083 | book | Medicinal herb trial 1996 / | Biodiversity Heritage Library (Smithsoni
+- new | 1994 | https://openalex.org/W178472786 | article | Plantas medicinales peruanas en el asflla bronquial | Natura Medicatrix: Revista médica para e
+- new | 1993 | 10.1111/j.1744-7348.1993.tb04077.x | article | Comparison of swathing and desiccation of borage (Borago officinalis) and estimation of optimum harvest stage | Annals of Applied Biology
+
+## boswellia-serrata (Boswellia serrata) - name clause: "Boswellia serrata"[tiab] OR "Indian frankincense"[tiab] OR "Indian olibanum"[tiab] OR "Boswellia"[ti] OR "boswellic acid"[ti] OR "boswellic acids"[ti] OR "AKBA"[ti]
+
+### PubMed HT - 183 hits, 183 not already listed above, 167 new
+- new | 2026 | 42356227 | Randomized Controlled Trial | Effect of Boswellia serrata on Pain Intensity, Central and Peripheral Sensitization, and Pain Modulation in Healthy Volunteers-A Randomized, Double-Blind, Placebo-Controlled, Cross | Nutrients
+- new | 2026 | 42760675 | Randomized Controlled Trial | High potency and water dispersible Boswellia extract reduces pain and inflammation in subjects with osteoarthritis of the knee: A randomized, double-blind, placebo-controlled trial | Medicine (Baltimore)
+- new | 2026 | 41896193 | Randomized Controlled Trial/Multicenter Study | CL16019, A Combination of Cissus quadrangularis and Boswellia serrata Extracts Promotes the Healing of Distal Radius Fractures: A Multicentric, Randomized, Open-Label Study. | J Integr Complement Med
+- new | 2026 | 43030320 |  | Long-Term Add-On Use of a Fixed Multicomponent Formulation Containing Palmitoylethanolamide and Acetyl-L-Carnitine in Fibromyalgia Syndrome: A 15-Month Retrospective Single-Cohort  | Nutrients
+- new | 2026 | 42331134 | Randomized Controlled Trial | Effect of an oral complementary medicine combination for symptomatic knee osteoarthritis: A double-blind, randomized, placebo-controlled trial. | Osteoarthritis Cartilage
+- new | 2026 | 40785172 | Multicenter Study/Observational Study | Efficacy of a Preparation based on Symbiotic Association Between Inulin, FOS, L. rhamnosus GG, Bromelin, Boswellia, Vitamin D3, Quercetin and L-tryptophan in Mild-to-Moderate Ulcer | Rev Recent Clin Trials
+- new | 2026 | 41082950 | Network Meta-Analysis/Systematic Review | Evaluating the efficacy and safety of Curcuma longa, Boswellia serrata, and their mixed formulation in treating knee osteoarthritis: A systematic review and network meta-analysis. | Complement Ther Med
+- new | 2025 | 39993542 | Research Support, Non-U.S. Gov't | Boswellia Serrata for Cerebral Radiation Necrosis After Radiosurgery for Brain Metastases. | Int J Radiat Oncol Biol Phys
+- new | 2025 | 41037121 | Randomized Controlled Trial | Boswellic acids as an adjunct therapy in Parkinson's disease: a double-blind clinical trial investigating on its effects on motor symptoms and inflammatory markers. | Inflammopharmacology
+- new | 2025 | 39875757 | Randomized Controlled Trial/Multicenter Study | Efficacy and Safety of Boswellia serrata and Apium graveolens L. Extract Against Knee Osteoarthritis and Cartilage Degeneration: A Randomized, Double-blind, Multicenter, Placebo-Co | Pharm Res
+- new | 2025 | 40530040 |  | Efficacy of a joint supplement containing eggshell membrane among other ingredients to improve the mobility of dogs with osteoarthritis: a multicenter double-blind randomized place | Front Vet Sci
+- new | 2025 | 40810753 | Review | Therapeutic potential of Boswellia serrata in arthritis management: mechanistic insights into COX-2, 5-LOX, and NFĸB modulation. | Inflammopharmacology
+- new | 2025 | 41220252 |  | Clinical Benefits of Boswellia Serrata (BOSMAX®) in Early Knee Osteoarthritis: A Randomized, Placebo-Controlled, Double-Blind Study. | J Med Food
+- new | 2025 | 41471392 |  | Efficacy and Safety of Acmella oleracea and Boswellia serrata Extract as Add-On Therapy for Chronic Low Back Pain: An Observational, Real-World Cohort Study. | Pharmaceuticals (Basel)
+- new | 2025 | 41031781 |  | Efficacy of Serenoa repens lipido-sterolic extract alone or in combination with propolis polyphenols and Boswellia serrata extract suppositories on PSA level and symptoms in patien | Arch Ital Urol Androl
+- new | 2025 | 41438191 | Clinical Trial | A standardized combination of Boswellia serrata and Terminalia chebula extracts to improve cognition in adults with subjective memory complaints: a randomized controlled proof-of-c | Front Nutr
+- new | 2025 | 39700461 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Standardized Boswellia serrata Extract Improves Knee Joint Function and Cartilage Morphology in Human Volunteers with Mild to Moderate Osteoarthritis in a Randomized Placebo-Cont | J Am Nutr Assoc
+- new | 2025 | 39778015 |  | Safety assessment of turmeric-boswellia-sesame formulation in healthy adult volunteers: An open-label prospective study. | Adv Clin Exp Med
+- new | 2025 | 40012185 | Randomized Controlled Trial | Boswellic Acids Reduce Systemic Inflammation in Patients with Moderate COVID-19 Through Modulation of NF-κB Pathway. | J Diet Suppl
+- new | 2025 | 40642179 |  | Acmella oleracea and Boswellia serrata for Symptom Relief and Reduced Analgesic Use in Women with Dysmenorrhea. | Womens Health Rep (New Rochelle)
+- new | 2025 | 40853095 | Observational Study | Unlocking Relief: Investigating the Impact of a Fixed Combination of Acetyl-L-Carnitine and Palmitoylethanolamide on Traumatic Acute Low Back Pain. | Eur J Neurol
+- new | 2025 | 40667507 |  | A full-spectrum Boswellia serrata extract with enhanced bioavailability, and its co-delivered system with curcumin alleviate pain and stiffness associated with moderate spondylitis | Front Pharmacol
+- new | 2025 | 39700654 | Randomized Controlled Trial | Efficacy and safety evaluation of Boswellia serrata and Curcuma longa extract combination in the management of chronic lower back pain: A randomised, double-blind, placebo-controll | Explore (NY)
+- new | 2025 | 39973246 | Randomized Controlled Trial | The effect of turmeric-Boswellia formulation (Rhuleave-K) in posture-related low back soreness and discomfort: A randomized double blinded placebo controlled trial. | J Back Musculoskelet Rehabil
+- new | 2025 | 40723205 |  | New Approach for Enhancing Survival in Glioblastoma Patients: A Longitudinal Pilot Study on Integrative Oncology. | Cancers (Basel)
+- new | 2025 | 39917273 |  | Ten days of supplementation with a standardized Boswellia serrata extract attenuates soreness and accelerates recovery after repeated bouts of downhill running in recreationally ac | Front Sports Act Living
+- new | 2025 | 40711084 |  | The Potential Benefits of a Novel Food Supplement Based on Cannabis Sativa, Boswellia, and Fish Oil for Pain and Inflammation in Physical Activity: Unraveling the Role of Orexin-A  | Sports (Basel)
+- new | 2025 | 39817269 |  | Modulation of Affective and Sensory Qualities of Acute Nociceptive Pain by Curcuma longa and Boswellia serrata Extract Formulation: A Randomized, Double-Blind, Placebo-Controlled D | Cureus
+- new | 2025 | 40005051 |  | Positive Effect of Lecithin-Based Delivery Form of Curcuma and Boswellia Extracts on Irritable Bowel Syndrome After COVID-19 Infection. | Nutrients
+- new | 2024 | 38415194 | Review | Immunomodulatory Role of Plants and Their Constituents on the Management of Metabolic Disorders: An Evidence-Based Review. | Drug Des Devel Ther
+- new | 2024 | 38958698 | Randomized Controlled Trial | The role of nutraceuticals in the management of temporomandibular disorders. | J Complement Integr Med
+- HELD REF-3464 | 2024 | 39449720 | Systematic Review | Effect of boswellia (Boswellia serrata L.) supplementation on glycemic markers and lipid profile in type 2 diabetic patients: a systematic review and meta-analysis. | Front Clin Diabetes Healthc
+- HELD REF-3463 | 2024 | 39314013 | Meta-Analysis/Systematic Review | Efficacy of Extracts of Oleogum Resin of Boswellia in the Treatment of Knee Osteoarthritis: A Systematic Review and Meta-Analysis. | Phytother Res
+- new | 2024 | 38365549 | Meta-Analysis/Systematic Review | Efficacy evaluation of standardized Boswellia serrata extract (Aflapin(Ⓡ)) in osteoarthritis: A systematic review and sub-group meta-analysis study. | Explore (NY)
+- new | 2024 | 39033725 | Clinical Trial/Comparative Study | Single-dose comparative pharmacokinetic/pharmacodynamic study of a micellar formulation versus a native Boswellia serrata dry extract in healthy volunteers. | Phytomedicine
+- new | 2024 | 39213043 |  | Breast gel based on Boswellia serrata, Betaine and myo-Inositol improves cyclic mastodynia in fertile women: A retrospective clinical study. | Breast Dis
+- new | 2024 | 38707049 |  | Efficacy and Safety of Two Chondroprotective Supplements in Patients With Knee Osteoarthritis: A Randomized, Single-Blind, Pilot Study. | Cureus
+- new | 2024 | 38194131 | Clinical Trial, Phase I | The anti-proliferative effects of a frankincense extract in a window of opportunity phase ia clinical trial for patients with breast cancer. | Breast Cancer Res Treat
+- new | 2024 | 39092235 |  | A standardized Boswellia serrata extract shows improvements in knee osteoarthritis within five days-a double-blind, randomized, three-arm, parallel-group, multi-center, placebo-con | Front Pharmacol
+- new | 2024 | 39343544 | Randomized Controlled Trial | Pharmacokinetics of a Natural Self-emulsifying Reversible Hybrid-Hydrogel (N'SERH) Formulation of Full-Spectrum Boswellia serrata Oleo-Gum Resin Extract: Randomised Double-Blinded  | Biol Pharm Bull
+- new | 2024 | 39315296 |  | Efficacy and safety of an oral complementary medicine combination in people with symptomatic knee osteoarthritis: Protocol for the double-blind, randomized, placebo-controlled ATLA | Osteoarthr Cartil Open
+- new | 2024 | 39446666 | Randomized Controlled Trial/Multicenter Study | Investigating the Additive Effects of Loxacon(®) Food Supplement Capsules in Patients with Knee Osteoarthritis. A Multicenter, Randomized, Double-Blind, Controlled, Crossover, Foll | J Med Food
+- new | 2024 | 39598208 |  | Positive Outcomes of Supplementation with Lecithin-Based Delivery Formulation of Curcuma longa and Boswellia serrata in IBS Subjects with Small Bowel Dysbiosis. | Life (Basel)
+- new | 2024 | 38918956 | Randomized Controlled Trial/Multicenter Study | A Nutraceutical Combination of Bromelain and Boswellia Serrata Casperome® in Siben®: Effects on the Postoperative Course of Inguinal Hernioplasty with Mesh at One Year Follow up. A | Ann Ital Chir
+- new | 2023 | 38785054 | Randomized Controlled Trial/Comparative Study | [Comparative efficacy of a combination of undenatured type II collagen, Boswellic acids, methylsulfonylmethane, vitamins C and D(3) and a combination of chondroitin sulfate and glu | Ter Arkh [rus]
+- HELD REF-1810 | 2023 | 35512759 | Randomized Controlled Trial | Efficacy and Safety of Aflapin®, a Novel Boswellia Serrata Extract, in the Treatment of Osteoarthritis of the Knee: A Short-Term 30-Day Randomized, Double-Blind, Placebo-Controlled | J Am Nutr Assoc
+- new | 2023 | 36869332 | Randomized Controlled Trial | Evaluation of the effectiveness of topical oily solution containing frankincense extract in the treatment of knee osteoarthritis: a randomized, double-blind, placebo-controlled cli | BMC Res Notes
+- HELD REF-3469 | 2023 | 35751891 | Randomized Controlled Trial | The Efficacy of Kundur (Boswellia serrata Roxb. Ex Colebr.) in Vulvovaginal Candidiasis: A Randomized Control Trial. | Altern Ther Health Med
+- new | 2023 | 37248896 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Boswellic Acids Improve Clinical Cognitive Scores and Reduce Systemic Inflammation in Patients with Mild to Moderate Alzheimer's Disease. | J Alzheimers Dis
+- new | 2023 | 37373663 |  | Effect of Turmeric-Boswellia-Sesame Formulation in Menstrual Cramp Pain Associated with Primary Dysmenorrhea-A Double-Blind, Randomized, Placebo-Controlled Study. | J Clin Med
+- new | 2023 | 37686880 | Randomized Controlled Trial | Efficacy of Boswellia serrata Extract and/or an Omega-3-Based Product for Improving Pain and Function in People Older Than 40 Years with Persistent Knee Pain: A Randomized Double-B | Nutrients
+- new | 2023 | 36983904 |  | Dietary Supplementation with Boswellia serrata, Verbascum thapsus, and Curcuma longa in Show Jumping Horses: Effects on Serum Proteome, Antioxidant Status, and Anti-Inflammatory Ge | Life (Basel)
+- new | 2023 | 36895452 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Burn Wound Healing Effect of a Sterilized Traditional Formulation of Boswellia carteri vs. Silver Sulfadiazine Cream 1% in Patients Presenting Second-degree Burn Wounds: A Randomiz | Iran J Med Sci
+- new | 2023 | 37351019 |  | Efficacy of a proprietary combination of Tamarindus indica seeds and Curcuma longa rhizome extracts in osteoarthritis: a clinical investigation. | Food Nutr Res
+- SEEN | 2022 | 36416059 | Observational Study | Curcuma longa and Boswellia serrata extract combination for hand osteoarthritis: an open-label pre-post trial. | Pharm Biol
+- new | 2022 | 36136251 | Review | Glycyrrhizin and boswellic acids, the golden nutraceuticals: multitargeting for treatment of mild-moderate COVID-19 and prevention of post-COVID cognitive impairment. | Inflammopharmacology
+- new | 2022 | 35233748 | Randomized Controlled Trial | Advancing combination treatment with glycyrrhizin and boswellic acids for hospitalized patients with moderate COVID-19 infection: a randomized clinical trial. | Inflammopharmacology
+- new | 2022 | 36568722 |  | Effect of a Boswellia and Ginger Mixture on the Memory Dysfunction of the Mild Traumatic Brain Injury Patients: A Randomized, Double-Blind Controlled Trial. | Bull Emerg Trauma
+- new | 2022 | 36107505 | Multicenter Study/Randomized Controlled Trial | Fast pain relief in exercise-induced acute musculoskeletal pain by turmeric-boswellia formulation: A randomized placebo-controlled double-blinded multicentre study. | Medicine (Baltimore)
+- HELD REF-3467 | 2022 | 35565826 | Randomized Controlled Trial | Positive Effects of a Lecithin-Based Delivery Form of Boswellia serrata Extract in Acute Diarrhea of Adult Subjects. | Nutrients
+- new | 2022 | 35956066 |  | Anatomical and Functional Effects of Oral Administration of Curcuma Longa and Boswellia Serrata Combination in Patients with Treatment-Naïve Diabetic Macular Edema. | J Clin Med
+- new | 2022 | 37304222 |  | Evaluation of the Effectiveness of an Herbal Formulation of Boswellia sacra Flueck. In Improving Cognitive and Behavioral Symptoms in Patients with Cognitive Impairment and Alzheim | J Res Pharm Pract
+- new | 2022 | 36714089 |  | Effect of an herbal mouthwash on periodontal indices in patients with plaque-induced gingivitis: A cross-over clinical trial. | J Adv Periodontol Implant Dent
+- new | 2022 | 35509480 |  | Boswellia resin extract and propolis derived polyphenols in patients with type III chronic prostatitis/chronic pelvic pain syndrome: An Italian prospective multicenter study. | Asian J Urol
+- new | 2022 | 36364404 | Review | Antileishmanial Activities of Medicinal Herbs and Phytochemicals In Vitro and In Vivo: An Update for the Years 2015 to 2021. | Molecules
+- new | 2022 | 35276778 | Randomized Controlled Trial | Beneficial Effects on Abdominal Bloating with an Innovative Food-Grade Formulation of Curcuma longa and Boswellia serrata Extracts in Subjects with Irritable Bowel Syndrome and Sma | Nutrients
+- HELD REF-3470 | 2022 | 35385330 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Boswellia serrata extract shows cognitive benefits in a double-blind, randomized, placebo-controlled pilot clinical trial in individuals who suffered traumatic brain injury. | Brain Inj
+- new | 2022 | 35666314 | Clinical Trial, Phase II | Use of an alfa-lipoic, Methylsulfonylmethane, Boswellia serrata and Bromelain dietary supplement (OPERA®) for aromatase inhibitors-related arthralgia management (AIA): a prospectiv | Med Oncol
+- new | 2022 | 35342437 |  | The effectiveness of olibanum orally disintegrating tablet in the treatment of oral aphthous ulcers: A randomized, double-blind, placebo-controlled clinical trial. | J Res Med Sci
+- new | 2021 | 34542667 | Review | Potential therapeutic effects of boswellic acids/Boswellia serrata extract in the prevention and therapy of type 2 diabetes and Alzheimer's disease. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2021 | 34035964 |  | Prospective, Multicenter Evaluation of a Polyherbal Supplement alongside Standard-of-Care Treatment for Mild Knee Osteoarthritis. | Adv Orthop
+- new | 2021 | 32971163 | Randomized Controlled Trial | Episiotomy wound healing by Commiphora myrrha (Nees) Engl. and Boswellia carteri Birdw. in primiparous women: A randomized controlled trial. | J Ethnopharmacol
+- new | 2021 | 33287570 | Observational Study/Research Support, Non-U.S. Gov't | Curcuminoids and Boswellia serrata extracts combination decreases tendinopathy symptoms: findings from an open-label post-observational study. | Curr Med Res Opin
+- new | 2021 | 35095508 | Review | Safety Evaluation of Natural Drugs in Chronic Skeletal Disorders: A Literature Review of Clinical Trials in the Past 20 years. | Front Pharmacol
+- new | 2021 | 33802272 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | A Placebo-Controlled, Pseudo-Randomized, Crossover Trial of Botanical Agents for Gulf War Illness: Curcumin (Curcuma longa), Boswellia (Boswellia serrata), and French Maritime Pine | Int J Environ Res Public Health
+- new | 2021 | 34412175 | Research Support, Non-U.S. Gov't | Pharmacokinetics of solid lipid Boswellia serrata particles in healthy subjects. | Drug Metab Pers Ther
+- new | 2021 | 33617972 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of a supplement combination on hand pain among people with symptomatic hand osteoarthritis an internet-based, randomised clinical trial the RADIANT study. | Osteoarthritis Cartilage
+- HELD REF-0422 | 2020 | 32680575 | Meta-Analysis/Systematic Review | Effectiveness of Boswellia and Boswellia extract for osteoarthritis patients: a systematic review and meta-analysis. | BMC Complement Med Ther
+- new | 2020 | 32549135 | Randomized Controlled Trial | Double-blind trial of solid lipid Boswellia serrata particles (SLBSP) vs. standardized Boswellia serrata gum extract (BSE) for osteoarthritis of knee. | Drug Metab Pers Ther
+- new | 2020 | 31701598 | Review | Herbal medicinal products for inflammatory bowel disease: A focus on those assessed in double-blind randomised controlled trials. | Phytother Res
+- new | 2020 | 31674795 |  | Benefits of a Food Supplement Containing Boswellia serrata and Bromelain for Improving the Quality of Life in Patients with Osteoarthritis: A Pilot Study. | J Altern Complement Med
+- new | 2020 | 31937091 |  | The association of Boswellia resin extract and propolis derived polyphenols can improve quality of life in patients affected by prostatitis-like symptoms. | Arch Ital Urol Androl
+- new | 2020 | 31558010 |  | Pumpkin seeds, Centella asiatica, Boswellia, Helichrysum, acetate vitamin E, Melaleuca alternifolia and hyaluronic acid phytocomplex monotherapy effects in patients with chronic pe | Minerva Urol Nefrol
+- new | 2020 | 31608447 | Comparative Study/Randomized Controlled Trial | Pharmacokinetic assessment of constituents of Boswellia serrata, pine bark extracts, curcumin in combination including methylsulfonylmethane in healthy volunteers. | J Pharm Pharmacol
+- new | 2020 | 32664057 | Equivalence Trial | Efficacy of high-dissolution turmeric-sesame formulation for pain relief in adult subjects with acute musculoskeletal pain compared to acetaminophen: A randomized controlled study. | Medicine (Baltimore)
+- new | 2020 | 32075845 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Efficacy and safety of a supplement combination for hand osteoarthritis pain: protocol for an internet-based randomised placebo-controlled trial (The RADIANT study). | BMJ Open
+- new | 2020 | 32403906 | Observational Study | Efficacy of food supplement Acidif plus® in the treatment of uncomplicated UTIs in women: a pilot observational study. | Minerva Ginecol
+- HELD REF-0573 | 2019 | 30838706 | Randomized Controlled Trial | A pilot, randomized, double-blind, placebo-controlled trial to assess the safety and efficacy of a novel Boswellia serrata extract in the management of osteoarthritis of the knee. | Phytother Res
+- HELD REF-3468 | 2019 | 30670277 | Randomized Controlled Trial | The effect of frankincense (Boswellia serrata, oleoresin) and ginger (Zingiber officinale, rhizoma) on heavy menstrual bleeding: A randomized, placebo-controlled, clinical trial. | Complement Ther Med
+- new | 2019 | 31407195 | Randomized Controlled Trial | Functional improvement and immune-inflammatory cytokines profile of ischaemic stroke patients after treatment with boswellic acids: a randomized, double-blind, placebo-controlled,  | Inflammopharmacology
+- new | 2019 | 31096725 | Clinical Trial | A novel lecithin-based delivery form of Boswellic acids as complementary treatment of radiochemotherapy-induced cerebral edema in patients with glioblastoma multiforme: a longitudi | J Neurosurg Sci
+- new | 2019 | 31908521 |  | Effect Of E-OA-07 On Improving Joint Health And Mobility In Individuals With Knee Osteoarthritis: A Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study. | J Pain Res
+- HELD REF-3465 | 2019 | 30676012 | Randomized Controlled Trial | Oral administration of a lecithin-based delivery form of boswellic acids (Casperome®) for the prevention of symptoms of irritable bowel syndrome: a randomized clinical study. | Minerva Gastroenterol Dietol
+- HELD REF-0574 | 2018 | 29018060 | Meta-Analysis/Systematic Review | Dietary supplements for treating osteoarthritis: a systematic review and meta-analysis. | Br J Sports Med
+- new | 2018 | 29622343 | Meta-Analysis/Research Support, N.I.H., Extramural/Systematic Review | Efficacy of curcumin and Boswellia for knee osteoarthritis: Systematic review and meta-analysis. | Semin Arthritis Rheum
+- new | 2018 | 29506080 | Research Support, Non-U.S. Gov't/Review | Which supplements can I recommend to my osteoarthritis patients? | Rheumatology (Oxford)
+- new | 2018 | 29417793 | Comparative Study/Randomized Controlled Trial | Novel combination for the treatment of acne differentiated based on gender: a new step towards personalized treatment. | G Ital Dermatol Venereol
+- new | 2018 | 29708818 | Randomized Controlled Trial | A Placebo-Controlled Double-Blind Study Demonstrates the Clinical Efficacy of a Novel Herbal Formulation for Relieving Joint Discomfort in Human Subjects with Osteoarthritis of Kne | J Med Food
+- new | 2018 | 29316908 | Clinical Trial, Phase II/Comparative Study/Randomized Controlled Trial | Efficacy and safety of curcumin and its combination with boswellic acid in osteoarthritis: a comparative, randomized, double-blind, placebo-controlled study. | BMC Complement Altern Med
+- new | 2018 | 29210124 |  | A novel herbal composition containing extracts of Boswellia serrata gum resin and Aegle marmelos fruit alleviates symptoms of asthma in a placebo controlled double-blind clinical s | Phytother Res
+- new | 2018 | 29774768 |  | The Effects of Boswellia serrata Gum Resin on the Blood Glucose and Lipid Profile of Diabetic Patients: A Double-Blind Randomized Placebo-Controlled Clinical Trial. | J Evid Based Integr Med
+- new | 2018 | 29306113 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of tablet containing Boswellia serrata and Melisa officinalis extract on older adults' memory: A randomized controlled trial. | Arch Gerontol Geriatr
+- new | 2018 | 29974725 | Clinical Trial, Phase III/Comparative Study/Randomized Controlled Trial | L-Methionine associated with Hibiscus sabdariffa and Boswellia serrata extracts are not inferior to antibiotic treatment for symptoms relief in patients affected by recurrent uncom | Arch Ital Urol Androl
+- new | 2018 | 30073929 | Randomized Controlled Trial | Differentially Enhancing Effects of Long-term Treatment with Serrazyme, Boswellia and Pine on Seminal Bacterial Detection in Patients with Chronic Bacterial or Inflammatory Prostat | Curr Clin Pharmacol
+- new | 2017 | 29228442 | Review | A novel boswellic acids delivery form (Casperome®) in the management of musculoskeletal disorders: a review. | Eur Rev Med Pharmacol Sci
+- new | 2017 | 28872719 | Meta-Analysis/Systematic Review | Oral herbal medicines marketed in Brazil for the treatment of osteoarthritis: A systematic review and meta-analysis. | Phytother Res
+- SEEN | 2017 | 29127772 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Interventions for treating collagenous colitis. | Cochrane Database Syst Rev
+- new | 2017 | 29228792 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Silymarin, Olibanum, and Nettle, A Mixed Herbal Formulation in the Treatment of Type II Diabetes: A Randomized, Double-Blind, Placebo-Controlled, Clinical Trial. | J Evid Based Complementary Altern Med
+- new | 2017 | 28349271 | Randomized Controlled Trial | Evaluation of the effect of Elaeagnus angustifolia alone and combined with Boswellia thurifera compared with ibuprofen in patients with knee osteoarthritis: a randomized double-bli | Clin Rheumatol
+- new | 2017 | 27681813 | Comparative Study/Randomized Controlled Trial | Clinical comparison of oral administration and viscosupplementation of hyaluronic acid (HA) in early knee osteoarthritis. | Musculoskelet Surg
+- new | 2017 | 29259631 |  | Evaluating the efficacy of mixture of Boswellia carterii, Zingiber officinale, and Achillea millefolium on severity of symptoms, anxiety, and depression in irritable bowel syndrome | J Res Med Sci
+- new | 2017 | 28375641 | Randomized Controlled Trial | A Pilot Study to Examine the Effects of an Anti-inflammatory Supplement on Eicosanoid Derivatives in Patients with Chronic Kidney Disease. | J Altern Complement Med
+- new | 2017 | 29131239 |  | Effectiveness of a novel boswellic acids delivery form (Casperome®) in the management of grade II ankle sprains due to sport trauma - a registry study. | Eur Rev Med Pharmacol Sci
+- new | 2017 | 28160759 |  | Five Herbs Plus Thiamine Reduce Pain and Improve Functional Mobility in Patients With Pain: A Pilot Study. | Altern Ther Health Med
+- new | 2017 | 28537656 |  | Supplementation with a lecithin-based delivery form of Boswellia serrata extract (Casperome®) controls symptoms of mild irritable bowel syndrome. | Eur Rev Med Pharmacol Sci
+- new | 2017 | 28205185 | Clinical Trial | Use of an alpha lipoic, methylsulfonylmethane and bromelain dietary supplement (Opera(®)) for chemotherapy-induced peripheral neuropathy management, a prospective study. | Med Oncol
+- new | 2016 | 27879642 | Randomized Controlled Trial | Curcumin and Boswellia serrata Modulate the Glyco-Oxidative Status and Lipo-Oxidation in Master Athletes. | Nutrients
+- new | 2016 | 27671822 | Review | Boswellic Acids and Their Role in Chronic Inflammatory Diseases. | Adv Exp Med Biol
+- new | 2016 | 27765357 | Comparative Study/Randomized Controlled Trial | A single-dose, randomized, cross-over, two-way, open-label study for comparing the absorption of boswellic acids and its lecithin formulation. | Phytomedicine
+- new | 2016 | 27366027 | Review | Favorable results from the use of herbal and plant products in inflammatory bowel disease: evidence from experimental animal studies. | Ann Gastroenterol
+- new | 2016 | 27127407 |  | A Randomized Pilot Study of Inositol in Association with Betaine and Boswellia in the Management of Mastalgia and Benign Breast Lump in Premenopausal Women. | Breast Cancer (Auckl)
+- new | 2016 | 27212181 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized trial of Boswellia in association with betaine and myo-inositol in the management of breast fibroadenomas. | Eur Rev Med Pharmacol Sci
+- new | 2016 | 26684635 | Comparative Study/Letter/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Methylsulfonylmethane and boswellic acids versus glucosamine sulfate in the treatment of knee arthritis: Randomized trial. | Int J Immunopathol Pharmacol
+- new | 2016 | 27840532 |  | The Efficacy of Boswellia Serrata Gum Resin for Control of Lipid Profile and Blood Glucose in Diabetic Patients. | Iran J Med Sci
+- new | 2016 | 27980494 |  | In Vivo Osteoinduction: Evaluating 2-Beta Coxatene as an Immunoinductive Compound and Novel Ingredient for Joint Support. | Integr Med (Encinitas)
+- new | 2016 | 27383325 | Research Support, Non-U.S. Gov't | Managing ulcerative colitis in remission phase: usefulness of Casperome®, an innovative lecithin-based delivery system of Boswellia serrata extract. | Eur Rev Med Pharmacol Sci
+- new | 2015 | 25518050 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases. | J Crohns Colitis
+- new | 2015 | 25062981 | Meta-Analysis/Systematic Review | Ayurvedic interventions for osteoarthritis: a systematic review and meta-analysis. | Rheumatol Int
+- new | 2015 | 25830661 | Review | Herbal and plant therapy in patients with inflammatory bowel disease. | Ann Gastroenterol
+- HELD REF-3466 | 2015 | 26502867 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Functional study on Boswellia phytosome as complementary intervention in asthmatic patients. | Eur Rev Med Pharmacol Sci
+- new | 2015 | 25957549 | Randomized Controlled Trial | Co-analgesic therapy for arthroscopic supraspinatus tendon repair pain using a dietary supplement containing Boswellia serrata and Curcuma longa: a prospective randomized placebo-c | Musculoskelet Surg
+- HELD REF-3471 | 2015 | 25967706 | Randomized Controlled Trial | Clinical evaluation of safety and efficacy of Boswellia-based cream for prevention of adjuvant radiotherapy skin damage in mammary carcinoma: a randomized placebo controlled trial. | Eur Rev Med Pharmacol Sci
+- new | 2015 | 26636532 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An association of boswellia, betaine and myo-inositol (Eumastós) in the treatment of mammographic breast density: a randomized, double-blind study. | Eur Rev Med Pharmacol Sci
+- new | 2014 | 25422734 |  | Effect of Boswellia papyrifera on cognitive impairment in multiple sclerosis. | Iran J Neurol
+- new | 2014 | 24848732 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Oral herbal therapies for treating osteoarthritis. | Cochrane Database Syst Rev
+- new | 2014 | 25298573 | Randomized Controlled Trial | A randomized, double blind, placebo controlled, cross over study to evaluate the analgesic activity of Boswellia serrata in healthy volunteers using mechanical pain model. | Indian J Pharmacol
+- new | 2014 | 25419153 |  | A cosmeceutical formulation based on boswellic acids for the treatment of erythematous eczema and psoriasis. | Clin Cosmet Investig Dermatol
+- new | 2014 | 24495344 |  | Effect of Boswellia serrata supplementation on blood lipid, hepatic enzymes and fructosamine levels in type2 diabetic patients. | J Diabetes Metab Disord
+- new | 2014 | 25225151 | Randomized Controlled Trial | Efficacy of Boswellia serrata L. and Cyperus scariosus L. plus pelvic floor muscle training in stress incontinence in women of reproductive age. | Complement Ther Clin Pract
+- new | 2014 | 24867852 |  | Complementary and alternative medicine (CAM) use in an Italian cohort of pediatric headache patients: the tip of the iceberg. | Neurol Sci
+- new | 2013 | 23981095 | Systematic Review | Systematic review: the efficacy of herbal therapy in inflammatory bowel disease. | Aliment Pharmacol Ther
+- new | 2013 | 23365148 | Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ayurvedic medicine offers a good alternative to glucosamine and celecoxib in the treatment of symptomatic knee osteoarthritis: a randomized, double-blind, controlled equivalence dr | Rheumatology (Oxford)
+- new | 2013 | 24002213 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Clinical evaluation of a formulation containing Curcuma longa and Boswellia serrata extracts in the management of knee osteoarthritis. | Mol Med Rep
+- new | 2013 | 24088189 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of Boswellia Serrata on neurorecovery following diffuse axonal injury. | Brain Inj
+- new | 2013 | 23828329 | Randomized Controlled Trial | The use of an anti-inflammatory supplement in patients with chronic kidney disease. | J Complement Integr Med
+- new | 2012 | 22167571 | Clinical Trial, Phase I/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Increased bioavailability of 11-keto-β-boswellic acid following single oral dose frankincense extract administration after a standardized meal in healthy male volunteers: modeling  | J Clin Pharmacol
+- new | 2012 | 22767962 | Case Reports | Long-term efficacy of Boswellia serrata in four patients with chronic cluster headache. | Cephalalgia
+- HELD REF-1811 | 2011 | 21287538 | Randomized Controlled Trial | Boswellia serrata acts on cerebral edema in patients irradiated for brain tumors: a prospective, randomized, placebo-controlled, double-blind pilot trial. | Cancer
+- new | 2011 | 21986780 | Randomized Controlled Trial | The "MESACA" study: methylsulfonylmethane and boswellic acids in the treatment of gonarthrosis. | Adv Ther
+- new | 2011 | 21169345 | Research Support, Non-U.S. Gov't/Systematic Review | Evidence for the efficacy of complementary and alternative medicines in the management of osteoarthritis: a systematic review. | Rheumatology (Oxford)
+- new | 2011 | 20848527 | Multicenter Study/Randomized Controlled Trial | Randomized, placebo-controlled, double-blind trial of Boswellia serrata in maintaining remission of Crohn's disease: good safety profile but lack of efficacy. | Inflamm Bowel Dis
+- new | 2011 | 25363757 | Research Support, Non-U.S. Gov't | Antiarthritic activity of a standardized, multiherbal, Ayurvedic formulation containing Boswellia serrata: in vitro studies on knee cartilage from osteoarthritis patients. | Phytother Res
+- new | 2011 | 22022214 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double blind, randomized, placebo controlled clinical study evaluates the early efficacy of aflapin in subjects with osteoarthritis of knee. | Int J Med Sci
+- new | 2011 | 22615671 |  | The effect of Frankincense in the treatment of moderate plaque-induced gingivitis: a double blinded randomized clinical trial. | Daru
+- new | 2011 | 21855244 | Randomized Controlled Trial/Validation Study | Determination of major boswellic acids in plasma by high-pressure liquid chromatography/mass spectrometry. | J Pharm Biomed Anal
+- new | 2010 | 20430018 |  | Natural anti-inflammatory products and leukotriene inhibitors as complementary therapy for bronchial asthma. | Clin Biochem
+- new | 2010 | 19918712 | Randomized Controlled Trial | Effects of topical boswellic acid on photo and age-damaged skin: clinical, biophysical, and echographic evaluations in a double-blind, randomized, split-face study. | Planta Med
+- new | 2010 | 21060724 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparative efficacy and tolerability of 5-Loxin and AflapinAgainst osteoarthritis of the knee: a double blind, randomized, placebo controlled clinical study. | Int J Med Sci
+- new | 2010 | 20136919 | Randomized Controlled Trial | Topical Boswellic acids for treatment of photoaged skin. | Dermatol Ther
+- new | 2009 | 19098875 | Research Support, Non-U.S. Gov't/Systematic Review | Interventions for treating microscopic colitis: a Cochrane Inflammatory Bowel Disease and Functional Bowel Disorders Review Group systematic review of randomized trials. | Am J Gastroenterol
+- new | 2009 | 19648270 | Clinical Trial, Phase I/Clinical Trial, Phase II/Clinical Trial, Phase III/Research Support, Non-U.S. Gov't | Identification of human cathepsin G as a functional target of boswellic acids from the anti-inflammatory remedy frankincense. | J Immunol
+- new | 2009 | 19374837 | Research Support, Non-U.S. Gov't | On the interference of boswellic acids with 5-lipoxygenase: mechanistic studies in vitro and pharmacological relevance. | Eur J Pharmacol
+- new | 2008 | 19091760 | Systematic Review/Technical Report | Frankincense: systematic review. | BMJ
+- new | 2008 | 18667054 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double blind, randomized, placebo controlled study of the efficacy and safety of 5-Loxin for treatment of osteoarthritis of the knee. | Arthritis Res Ther
+- new | 2008 | 18425892 | Meta-Analysis/Systematic Review | Interventions for treating collagenous colitis. | Cochrane Database Syst Rev
+- new | 2007 | 17764013 | Multicenter Study/Randomized Controlled Trial | Boswellia serrata extract for the treatment of collagenous colitis. A double-blind, randomized, placebo-controlled, multicenter trial. | Int J Colorectal Dis
+- new | 2007 | 17101304 |  | Estimation of boswellic acids from market formulations of Boswellia serrata extract and 11-keto beta-boswellic acid in human plasma by high-performance thin-layer chromatography. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2006 | 16696800 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review: microscopic colitis. | Aliment Pharmacol Ther
+- new | 2006 | 17054177 | Meta-Analysis/Systematic Review | Interventions for treating collagenous colitis. | Cochrane Database Syst Rev
+- new | 2006 | 16716218 |  | Use of complementary and alternative medicine in Germany - a survey of patients with inflammatory bowel disease. | BMC Complement Altern Med
+- new | 2005 | 16235328 | Meta-Analysis/Systematic Review | Interventions for treating collagenous colitis. | Cochrane Database Syst Rev
+- new | 2004 | 17043520 |  | A 32-week randomized, placebo-controlled clinical evaluation of RA-11, an Ayurvedic drug, on osteoarthritis of the knees. | J Clin Rheumatol
+- new | 2004 | 15643550 | Clinical Trial/Randomized Controlled Trial | Effect of food intake on the bioavailability of boswellic acids from a herbal preparation in healthy volunteers. | Planta Med
+- new | 2003 | 12622457 | Clinical Trial/Randomized Controlled Trial | Efficacy and tolerability of Boswellia serrata extract in treatment of osteoarthritis of knee--a randomized double blind placebo controlled trial. | Phytomedicine
+- new | 2002 | 12008153 | Research Support, Non-U.S. Gov't | Determination of 11-keto-boswellic acid in human plasma. | J Pharm Biomed Anal
+- new | 2001 | 11488449 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Effects of gum resin of Boswellia serrata in patients with chronic colitis. | Planta Med
+- new | 2001 | 11215357 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Therapy of active Crohn disease with Boswellia serrata extract H 15]. | Z Gastroenterol [ger]
+- new | 2000 | 10994549 |  | Boswellic acids in the palliative therapy of children with progressive or relapsed brain tumors. | Klin Padiatr
+- new | 1998 | 9810030 | Clinical Trial/Randomized Controlled Trial | Effects of Boswellia serrata gum resin in patients with bronchial asthma: results of a double-blind, placebo-controlled, 6-week clinical study. | Eur J Med Res
+- new | 1998 | 9566100 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Multicenter Study/Randomized Controlled Trial | [Is H15 (resin extract of Boswellia serrata, "incense") a useful supplement to established drug therapy of chronic polyarthritis? Results of a double-blind pilot study]. | Z Rheumatol [ger]
+- new | 1997 | 9049593 | Clinical Trial/Comparative Study/Controlled Clinical Trial | Effects of Boswellia serrata gum resin in patients with ulcerative colitis. | Eur J Med Res
+- new | 1996 | 23194870 |  | Special extract of BOSWELLIA serrata (H 15) in the treatment of rheumatoid arthritis. | Phytomedicine
+- new | 1991 | 1943180 | Clinical Trial/Randomized Controlled Trial | Treatment of osteoarthritis with a herbomineral formulation: a double-blind, placebo-controlled, cross-over study. | J Ethnopharmacol
+
+### PubMed SR - 32 hits, 11 not already listed above, 11 new
+- new | 2026 | 41588584 | Review | Recent Advances in Boswellic Acids as Anticancer Agents: Therapeutic Effects, SAR, and Computational Approaches. | Curr Top Med Chem
+- new | 2026 | 43030140 | Review | Curcumin and Boswellia in Inflammatory Disorders: Immune Mechanisms, Bioavailability and Dose Comparability. | Nutrients
+- new | 2026 | 41177239 | Systematic Review | A comprehensive review of Glycyrrhiza glabra in the management of rheumatoid arthritis: ethnopharmacology, pharmacological mechanisms and synergistic therapeutic strategies. | J Ethnopharmacol
+- new | 2024 | 38816637 | Systematic Review | Chemical Constituents and Pharmacological Properties of Frankincense: Implications for Anticancer Therapy. | Chin J Integr Med
+- new | 2023 | 36998129 | Systematic Review | Molecular Targets Underlying the Neuroprotective Effects of Boswellic Acid: A Systematic Review. | Mini Rev Med Chem
+- new | 2023 | 36899726 | Scoping Review | Management of Osteoarthritis and Joint Support Using Feed Supplements: A Scoping Review of Undenatured Type II Collagen and Boswellia serrata. | Animals (Basel)
+- new | 2022 | 35754481 | Systematic Review | Effectiveness and Safety of Ayurvedic Medicines in Type 2 Diabetes Mellitus Management: A Systematic Review and Meta-Analysis. | Front Pharmacol
+- new | 2021 | 33155997 | Systematic Review | Possible role of Unani Pharmacology in COVID-19 - a narrative review. | Rev Environ Health
+- new | 2019 | 29735172 | Letter/Comment | Comment on: Efficacy of Curcumin and Boswellia for knee osteoarthritis: Systematic review and meta-analysis. | Semin Arthritis Rheum
+- new | 2013 | 23391017 | Research Support, Non-U.S. Gov't/Systematic Review | Plant food supplements with anti-inflammatory properties: a systematic review (II). | Crit Rev Food Sci Nutr
+- new | 2004 | 15829470 | Systematic Review | Boswellia: an evidence-based systematic review by the Natural Standard Research Collaboration. | J Herb Pharmacother
+
+### PubMed SAFE - 289 hits, 133 not already listed above, 131 new
+- new | 2026 | 42702401 | Review | Pharmacokinetic and Pharmacodynamic Interactions Between Anti-Asthma Drugs and Medicinal Plants: A Comprehensive Review. | Phytother Res
+- new | 2026 | 42290771 |  | Variations in the management of canine osteoarthritis: a cross-sectional survey of veterinary practices. | Front Vet Sci
+- new | 2026 | 42409315 |  | Acute Kidney Injury Associated With Boswellia serrata for Radiation Necrosis. | Pract Radiat Oncol
+- new | 2026 | 42654231 | Review | Targeting Bioenergetic, Redox and Prostaglandin Pathways in Long COVID-Associated Post-Exertional Malaise and Brain Fog: A Nutraceutical Translational Hypothesis. | Nutrients
+- new | 2026 | 42792721 |  | Cytotoxic, Drug-Interaction, and Apoptosis-Associated Effects of β-Boswellic Acid and Doxorubicin in Murine 4T1 TNBC-like Cells. | Biomedicines
+- new | 2026 | 42634555 |  | Boswellic Acid and Its Derivatives For the Treatment of Colon Cancer: A Review. | Mini Rev Med Chem
+- new | 2026 | 41232293 |  | Synthesis of β-boswellic acid-amino acid conjugates for targeting KRAS(G13D) mutant colon cancer. | Eur J Med Chem
+- new | 2026 | 41504000 | Review | Boswellic Acid Derivatives: A Traditional and Multifunctional Therapeutic Agent for Infectious and Non-Infectious Diseases - A Comprehensive Review. | Chem Biodivers
+- new | 2026 | 42843327 |  | α-Boswellic acid alleviates atopic dermatitis via MME-mediated restoration of IL-18 BP/IL-18 axis homeostasis. | Sci Prog
+- new | 2026 | 42948458 | Review | Frankincense from Boswellia: A review of species, traditional uses, phytochemistry, pharmacology and toxicology. | Chin Herb Med
+- new | 2026 | 41084244 |  | Boswellic Acid Derived Molecules as SARS-Cov-2 Spike Protein Inhibitors: A Comprehensive Virtual Screening, Triplicate Molecular Dynamic Simulation and Biochemical Validation. | Curr Med Chem
+- new | 2026 | 41620895 |  | Exploring the therapeutic potential of a polyherbal combination for pain and inflammation. | Pak J Pharm Sci
+- new | 2025 | 39906596 | Review | Recent advances in the management of knee osteoarthritis: a narrative review. | Front Med (Lausanne)
+- new | 2025 | 38716550 | Review | Emerging Natural Therapies for the Treatment of Inflammatory Bowel Disease. | Curr Pharm Biotechnol
+- new | 2025 | 40122993 | Review | Innovative nanocarriers in arthritis therapy: the role of herbal cubosomes. | Inflammopharmacology
+- new | 2025 | 38676473 | Review | Nature's Pharmacy: Herbal Interventions in Rheumatoid Arthritis Treatment: A Comprehensive Review. | Curr Rheumatol Rev
+- new | 2025 | 39821707 | Review | Selected Use of Complementary and Alternative Medicine (CAM) Agents in IBD. | Curr Gastroenterol Rep
+- new | 2025 | 40878516 | Review | An updated review on pharmacological aspects and nanotechnological advancements of frankincense boswellic acids. | Drug Dev Ind Pharm
+- new | 2025 | 38462842 | Review | Advances and Challenges in the Analysis of Boswellic Acids by Separation Methods. | Crit Rev Anal Chem
+- new | 2025 | 40074996 | Review | Pharmacological modes of plant-derived compounds for targeting inflammation in rheumatoid arthritis: A comprehensive review on immunomodulatory perspective. | Inflammopharmacology
+- new | 2025 | 41341032 | Review | From bench to bedside, boswellic acids in anti-inflammatory therapy - mechanistic insights, bioavailability challenges, and optimization approaches. | Front Pharmacol
+- new | 2025 | 41296469 |  | Evaluation of the Antihistamine and Anti-Inflammatory Effects of a Nutraceutical Blend Based on Quercetin, Perilla frutescens, Boswellia serrata, Blackcurrant, Parthenium, Helichry | Curr Issues Mol Biol
+- new | 2025 | 40154100 | Review | Molecular insights into anti-inflammatory activities of selected Indian herbs. | J Ayurveda Integr Med
+- new | 2025 | 39824464 |  | Co-administration of rifampicin and Boswellia serrata mitigates testicular toxicity caused by Aflatoxin B1. | Toxicon
+- new | 2025 | 40989176 | Case Reports | Remarkable Resolution of Radiation Necrosis Post-Obsessive-Compulsive Disorder Radiosurgery With Boswellia Serrata: Case Report. | Adv Radiat Oncol
+- new | 2025 | 41045343 | Review | Exploring herbal synergies in the management of rheumatoid arthritis: a multifaceted approach to inflammation and joint health. | Inflammopharmacology
+- new | 2025 | 40389681 |  | A pharmaco-metabolomics study of Glycyrrhiza glabra, Boswellia sarca, and Acacia nilotica in acute allergic dermatitis. | Inflammopharmacology
+- new | 2025 | 41247529 |  | 3-Acetyl-11-Keto-β-Boswellic acid (AKBA) Attenuated 6-Hydroxydopamine (6-OHDA)-Induced Toxicity in SH-SY5Y Cells via Modulation of Akt/mTOR Pathway. | Mol Neurobiol
+- new | 2025 | 40905034 |  | Evaluating the neuroprotective potential of Mucuna pruriens and Boswellia serrata in Huntington's disease: an integrative bioinformatics approach. | In Silico Pharmacol
+- new | 2025 | 40670563 |  | Photochemically synthesized gold nanoparticles conjugated with Boswellic acid inhibit alpha synuclein aggregation and delay fibrillation kinetics. | Sci Rep
+- new | 2025 | 40542921 |  | Cutting-edge dynamics and research hotspots on boswellic acid in cancer: a bibliometrics analysis from 1994 to 2024. | Discov Oncol
+- new | 2025 | 39985578 |  | 3-Acetyl-11-keto-β-boswellic acid (AKBA) induced antiproliferative effect by suppressing Notch signaling pathway and synergistic interaction with cisplatin against prostate cancer  | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 40876081 |  | Effect of experimentally induced sepsis on the kidney and renal artery of adult male albino rats and the role of Boswellia serrata extract. | Morphologie
+- new | 2024 | 38878832 |  | Role of mitochondrial dysfunction and biogenesis in fibromyalgia syndrome: Molecular mechanism in central nervous system. | Biochim Biophys Acta Mol Basis Dis
+- new | 2024 | 37691222 | Review | Efficacy of Herbal Medicine in Hand Osteoarthritis: A Narrative Review. | Curr Rheumatol Rev
+- new | 2024 | 39377749 | Research Support, Non-U.S. Gov't | Inhibition of intestinal inflammation and fibrosis by Scutellaria Baicalensis georgi and Boswellia serrata in human epithelial cells and fibroblasts. | Immun Inflamm Dis
+- new | 2024 | 38969196 |  | Impaired mitochondrial quality control in fibromyalgia: Mechanisms involved in skeletal muscle alteration. | Arch Biochem Biophys
+- HELD REF-2876 | 2024 | 37740772 | Review/Research Support, Non-U.S. Gov't | The journey of boswellic acids from synthesis to pharmacological activities. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 39011774 | Retraction Notice | RETRACTION: 3-Acetyl-11-Keto-β-Boswellic Acid Attenuated Oxidative Glutamate Toxicity in Neuron-like Cell Lines by Apoptosis Inhibition. | J Cell Biochem
+- new | 2024 | 38785519 | Review | Osteoarthritis: Insights into Diagnosis, Pathophysiology, Therapeutic Avenues, and the Potential of Natural Extracts. | Curr Issues Mol Biol
+- new | 2024 | 38922237 | Case Reports | Boswellia serrata intoxication manifesting with syndrome of inappropriate antidiuretic hormone secretion, hyponatremia, seizure, and rhabdomyolysis. | Crit Care Sci [eng,por]
+- new | 2024 | 38745799 | Case Reports | Boswellia serrata Enhances Passive Range-of-Motion Exercises in Radiation-Induced Trismus: A Case Report. | Cureus
+- new | 2024 | 39167989 |  | Antidiabetic and antioxidant properties of Boswellia sacra oleo-gum in streptozotocin-induced diabetic rats. | J Ayurveda Integr Med
+- new | 2024 | 39768376 |  | Boswellia serrate Gum Resin Mitigates Renal Toxicity: Role of TNF-α, Interleukins, TGF-β, and Lipid Peroxidation. | Life (Basel)
+- new | 2024 | 38379363 | Case Reports | In vitro evaluation of antileishmanial activity of Boswellia serrata essential oil nanoliposome. | Vet Med Sci
+- new | 2024 | 37749894 |  | Identification and pre-clinical investigation of 3-O-cyclohexanecarbonyl-11-keto-β-boswellic acid as a drug for external use to treat psoriasis. | Br J Pharmacol
+- new | 2024 | 39458611 |  | Synergistic Enhancement of Carboplatin Efficacy through pH-Sensitive Nanoparticles Formulated Using Naturally Derived Boswellia Extract for Colorectal Cancer Therapy. | Pharmaceutics
+- new | 2023 | 37629560 | Review | The Role of Plant-Derived Natural Products in the Management of Inflammatory Bowel Disease-What Is the Clinical Evidence So Far? | Life (Basel)
+- new | 2023 | 36400202 | Review | Boswellic acids as promising agents for the management of brain diseases. | Life Sci
+- new | 2023 | 37601048 | Review | Anti-cancer properties of boswellic acids: mechanism of action as anti-cancerous agent. | Front Pharmacol
+- new | 2023 | 36718863 |  | Treatment of adverse radiation effects with Boswellia serrata after failure of pentoxifylline and vitamin E: illustrative cases. | J Neurosurg Case Lessons
+- new | 2023 | 37901542 |  | 3-Acetyl-11-keto-β-boswellic Acid-Based Hybrids Alleviate Acetaminophen-Induced Hepatotoxicity in HepG2 by the Regulation of Inflammatory and Oxidative Stress Pathways: An Integrat | ACS Omega
+- new | 2023 | 37891886 |  | Boswellia Essential Oil: Natural Antioxidant as an Effective Antimicrobial and Anti-Inflammatory Agent. | Antioxidants (Basel)
+- new | 2023 | 36959348 |  | Regulation of NOX/p38 MAPK/PPARα pathways and miR-155 expression by boswellic acids reduces hepatic injury in experimentally-induced alcoholic liver disease mouse model: novel mech | Arch Pharm Res
+- new | 2023 | 37922777 |  | Potential role of dietary Boswellia serrata resin against mancozeb fungicide-induced immune-antioxidant suppression, histopathological alterations, and genotoxicity in Nile tilapia | Aquat Toxicol
+- new | 2023 | 38155908 |  | Boswellia carterii oleoresin extracts induce caspase-mediated apoptosis and G(1) cell cycle arrest in human leukaemia subtypes. | Front Pharmacol
+- new | 2023 | 37065333 |  | A Retrospective Observational Study Evaluating the Synergistic Effect of a Novel Combination of Alfapin + Native Type 2 Collagen + Mobilee (Hyaluronic Acid) + CurQlife (Curcumin) N | Cureus
+- new | 2022 | 35212849 | Review | Natural compounds as safe therapeutic options for ulcerative colitis. | Inflammopharmacology
+- new | 2022 | 36171802 | Review | Potential complementary and/or synergistic effects of curcumin and boswellic acids for management of osteoarthritis. | Ther Adv Musculoskelet Dis
+- new | 2022 | 36005136 | Review | The Nutraceuticals as Modern Key to Achieve Erythrocyte Oxidative Stress Fighting in Osteoarthritis. | Curr Issues Mol Biol
+- new | 2022 | 35281639 |  | Safety and efficacy of a feed additive consisting of an extract of olibanum from Boswellia serrata Roxb. ex Colebr. for use in dogs and horses (FEFANA asbl). | EFSA J
+- new | 2022 | 35069765 | Review | Review of the Chemical Composition, Pharmacological Effects, Pharmacokinetics, and Quality Control of Boswellia carterii. | Evid Based Complement Alternat Med
+- new | 2022 | 36816876 |  | Determination of Curcuminoids, Piperine, Boswellic Acids and Andrographolides in Food and Dietary Supplements by HPLC. | Food Technol Biotechnol
+- new | 2022 | 35171954 | Randomized Controlled Trial, Veterinary/Research Support, Non-U.S. Gov't | Efficacy of a dietary supplement in dogs with osteoarthritis: A randomized placebo-controlled, double-blind clinical trial. | PLoS One
+- new | 2022 | 35781033 |  | Acute and sub chronic toxicity studies with herbal pain relieving formula (Rhuleave-K™) in rats. | Regul Toxicol Pharmacol
+- new | 2022 | 35863426 |  | Repression of inflammatory pathways with Boswellia for alleviation of liver injury after renal ischemia reperfusion. | Life Sci
+- new | 2022 | 35437857 |  | Protective role of AKBA against benzo(a)pyrene-induced lung carcinogenesis by modulating biotransformation enzymes and oxidative stress. | J Biochem Mol Toxicol
+- new | 2022 | 31656113 |  | Induction of developmental toxicity and cardiotoxicity in zebrafish embryos/larvae by acetyl-11-keto-β-boswellic acid (AKBA) through oxidative stress. | Drug Chem Toxicol
+- new | 2022 | 32894920 |  | Supplementation with a new food grade delivery system of Boswellia and Centella in the intervertebral discs registry: the Sager study. | Panminerva Med
+- new | 2022 | 34886755 |  | Safety assessment of a novel water-soluble extract of Boswellia serrata gum resin: acute toxicity, 90-day sub-chronic toxicity, Ames' bacterial reverse mutation, and in vivo micron | Toxicol Mech Methods
+- new | 2022 | 36077254 |  | Evaluation of the Anti-Atopic Dermatitis Effects of α-Boswellic Acid on Tnf-α/Ifn-γ-Stimulated HaCat Cells and DNCB-Induced BALB/c Mice. | Int J Mol Sci
+- new | 2022 | 34498362 | Review | Non-drug pain relievers active on non-opioid pain mechanisms. | Pain Pract
+- new | 2022 | 36011184 |  | Single-Center-Single-Blinded Clinical Trial to Evaluate the Efficacy of a Nutraceutical Containing Boswellia Serrata, Bromelain, Zinc, Magnesium, Honey, Tyndallized Lactobacillus A | Healthcare (Basel)
+- new | 2021 | 34358086 |  | Analysis of Boswellic Acid Contents and Related Pharmacological Activities of Frankincense-Based Remedies That Modulate Inflammation. | Pharmaceuticals (Basel)
+- new | 2021 | 33946602 |  | Ameliorative Effects of Boswellic Acid on Fipronil-Induced Toxicity: Antioxidant State, Apoptotic Markers, and Testicular Steroidogenic Expression in Male Rats. | Animals (Basel)
+- new | 2021 | 34197882 |  | GR-mediated anti-inflammation of α-boswellic acid: Insights from in vitro and in silico studies. | Food Chem Toxicol
+- new | 2021 | 33963563 | Case Reports | Allergic contact dermatitis from Boswellia carterii (frankincense) oil. | Contact Dermatitis
+- new | 2020 | 33384596 |  | Enhanced Bioavailability of Boswellic Acid by Piper longum: A Computational and Pharmacokinetic Study. | Front Pharmacol
+- new | 2020 | 32327909 |  | Silymarin, boswellic acid and curcumin enriched dietetic formulation reduces the growth of inherited intestinal polyps in an animal model. | World J Gastroenterol
+- new | 2020 | 33127380 | Research Support, Non-U.S. Gov't | Boswellic acids and their derivatives as potent regulators of glucocorticoid receptor actions. | Arch Biochem Biophys
+- new | 2020 | 32134105 |  | A Validated LC-MS/MS Method for Simultaneous Determination of 3-O-Acetyl-11-Keto-β-Boswellic Acid (AKBA) and its Active Metabolite Acetyl-11-Hydroxy-β-Boswellic Acid (Ac-11-OH-BA)  | J Chromatogr Sci
+- new | 2020 | 33192203 |  | Boswellic Acid Synergizes With Low-Level Ionizing Radiation to Modulate Bisphenol Induced-Lung Toxicity in Rats by Inhibiting JNK/ERK/c-Fos Pathway. | Dose Response
+- new | 2020 | 32010304 |  | Antioxidant, anti-inflammatory and anti-fibrotic effects of Boswellia serrate gum resin in CCl(4)-induced hepatotoxicity. | Exp Ther Med
+- new | 2020 | 31889825 |  | Repeat oral dose safety study of standardized methanolic extract of Boswellia sacra oleo gum resin in rats. | Saudi J Biol Sci
+- new | 2020 | 32663183 | Case Reports | Effect of extract from Boswellia serrata gum resin on decrease of GAD65 autoantibodies in a patient with Latent Autoimmune Diabetes in Adults. | Altern Ther Health Med
+- new | 2019 | 31443458 | Review | An Update on Pharmacological Potential of Boswellic Acids against Chronic Diseases. | Int J Mol Sci
+- new | 2019 | 31041173 |  | Effect of Boswellia Serrata Extract on Acute Inflammatory Parameters and Tumor Necrosis Factor-α in Complete Freund's Adjuvant-Induced Animal Model of Rheumatoid Arthritis. | Int J Appl Basic Med Res
+- new | 2019 | 31234670 | Research Support, Non-U.S. Gov't | Toxicological Assessment of a Standardized Boswellia serrata Gum Resin Extract. | Int J Toxicol
+- new | 2019 | 31016180 |  | In vitro Antibacterial Effect of Hydroalcoholic Extract of Lawsonia inermis, Malva sylvestris, and Boswellia serrata on Aggregatibacter actinomycetemcomitans. | Adv Biomed Res
+- new | 2019 | 32123879 |  | Phenotypic Investigation of the Antimicrobial Effect of Organic and Hydro-Alcoholic Extracts of Boswellia serrata on Oral Microbiota. | Front Dent
+- new | 2018 | 29124622 | Review | Medicinal plants with antithrombotic property in Persian medicine: a mechanistic review. | J Thromb Thrombolysis
+- new | 2018 | 29541348 |  | Protective Effect of Boswellic Acids against Doxorubicin-Induced Hepatotoxicity: Impact on Nrf2/HO-1 Defense Pathway. | Oxid Med Cell Longev
+- new | 2018 | 28332087 |  | Boswellia ovalifoliolata (Burseraceae) essential oil as an eco-friendly larvicide? Toxicity against six mosquito vectors of public health importance, non-target mosquito fishes, ba | Environ Sci Pollut Res Int
+- new | 2017 | 28918484 | Review | Drug-Herb Interactions in the Elderly Patient with IBD: a Growing Concern. | Curr Treat Options Gastroenterol
+- new | 2017 | 28595917 |  | Assessment of toxicity and biochemical mechanisms underlying the insecticidal activity of chemically characterized Boswellia carterii essential oil against insect pest of legume se | Pestic Biochem Physiol
+- new | 2017 | 28414519 | Multicenter Study/Observational Study | Effect of a Food Supplement Containing L-Methionine on Urinary Tract Infections in Pregnancy: A Prospective, Multicenter Observational Study. | J Altern Complement Med
+- new | 2017 | 28363852 |  | Understanding the role of 3-O-Acetyl-11-keto-β-boswellic acid in conditions of oxidative-stress mediated hepatic dysfunction during benzo(a)pyrene induced toxicity. | Food Chem Toxicol
+- new | 2017 | 28122196 | Research Support, Non-U.S. Gov't | IN0523 (Urs-12-ene-3α,24β-diol) a plant based derivative of boswellic acid protect Cisplatin induced urogenital toxicity. | Toxicol Appl Pharmacol
+- new | 2017 | 28612711 | Corrected and Republished Article | Alleviative effects from boswellic acid on acetaminophen-induced hepatic injury - Corrected and republished from: Biomedicine (Taipei). 2016 Jun; 6 (2): 9. doi: 10.7603/s40681-016- | Biomedicine (Taipei)
+- new | 2016 | 27161000 |  | Alleviative effects from boswellic acid on acetaminophen-induced hepatic injury. | Biomedicine (Taipei)
+- new | 2016 | 27091399 | Review/Research Support, Non-U.S. Gov't | The potential role of boswellic acids in cancer prevention and treatment. | Cancer Lett
+- new | 2016 | 26561079 | Review | Dietary Supplement Therapies for Inflammatory Bowel Disease: Crohn's Disease and Ulcerative Colitis. | Curr Pharm Des
+- new | 2016 | 26762235 |  | Pharmacokinetic and Pharmacodynamic Interaction of Boswellic Acids and Andrographolide with Glyburide in Diabetic Rats: Including Its PK/PD Modeling. | Phytother Res
+- new | 2016 | 27524002 |  | Improved efficacy of cisplatin in combination with a nano-formulation of pentacyclic triterpenediol. | Mater Sci Eng C Mater Biol Appl
+- new | 2016 | 27279752 |  | Toxicity of Boswellia dalzielii (Burseraceae) Leaf Fractions Against Immature Stages of Anopheles gambiae (Giles) and Culex quinquefasciatus (Say) (Diptera: Culicidae). | Int J Insect Sci
+- new | 2016 | 27305832 |  | Nanoparticle formulation of 11-keto-β-boswellic acid (KBA): anti-inflammatory activity and in vivo pharmacokinetics. | Pharm Biol
+- new | 2016 | 29238140 |  | Traditionally used herbal medicines with antibacterial effect on Aggegatibacter actinomycetemcomitans: Boswellia serrata and Nigella sativa. | J Indian Soc Periodontol
+- new | 2016 | 26953869 |  | Development and optimization of boswellic acid-loaded proniosomal gel. | Drug Deliv
+- new | 2016 | 26092303 |  | Gastroretentive Matrix Tablets of Boswellia Oleogum Resin: Preparation, Optimization, In Vitro Evaluation, and Cytoprotective Effect on Indomethacin-Induced Gastric Ulcer in Rabbit | AAPS PharmSciTech
+- new | 2015 | 25955295 | Research Support, Non-U.S. Gov't | Boswellia serrata Preserves Intestinal Epithelial Barrier from Oxidative and Inflammatory Damage. | PLoS One
+- new | 2015 | 25893199 |  | Acute and chronic toxicity, cytochrome p450 enzyme inhibition, and HERG channel blockade studies with a polyherbal, ayurvedic formulation for inflammation. | Biomed Res Int
+- new | 2014 | 25233607 | Research Support, Non-U.S. Gov't/Review | Warfarin interactions with medicinal herbs. | Nat Prod Commun
+- new | 2014 | 25263977 | Research Support, Non-U.S. Gov't | Antioxidant and hepatoprotective effects of Boswellia ovalifoliolata bark extracts. | Chin J Nat Med
+- new | 2014 | 24463070 |  | Investigating permeability related hurdles in oral delivery of 11-keto-β-boswellic acid. | Int J Pharm
+- new | 2014 | 25657807 |  | The effects of aqueous extract of Boswellia Serrata on hippocampal region CA1 and learning deficit in kindled rats. | Res Pharm Sci
+- new | 2014 | 24806456 | Research Support, Non-U.S. Gov't | Comparative pharmacokinetic study of two boswellic acids in normal and arthritic rat plasma after oral administration of Boswellia serrata extract or Huo Luo Xiao Ling Dan by LC-MS | Biomed Chromatogr
+- new | 2014 | 24667331 | Research Support, Non-U.S. Gov't | Boswellia serrata extract attenuates inflammatory mediators and oxidative stress in collagen induced arthritis. | Phytomedicine
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2012 | 33151656 | Review | Boswellia Serrata. | 
+- new | 2012 | 23107483 | Research Support, Non-U.S. Gov't | Synthesis and pharmacokinetic profile of rhein- boswellic acid conjugate. | Bioorg Med Chem Lett
+- new | 2012 | 23293466 |  | A-90 Day Gavage Safety Assessment of Boswellia serrata in Rats. | Toxicol Int
+- new | 2012 | 22800564 | Research Support, Non-U.S. Gov't | The synergistic effect of beta-boswellic acid and Nurr1 overexpression on dopaminergic programming of antioxidant glutathione peroxidase-1-expressing murine embryonic stem cells. | Neuroscience
+- HELD REF-1812 | 2011 | 21553931 | Review | Boswellia serrata: an overall assessment of in vitro, preclinical, pharmacokinetic and clinical data. | Clin Pharmacokinet
+- new | 2010 | 20874664 |  | Safety and toxicological evaluation of Aflapin: a novel Boswellia-derived anti-inflammatory product. | Toxicol Mech Methods
+- new | 2009 | 19010411 |  | Permeation of Boswellia extract in the Caco-2 model and possible interactions of its constituents KBA and AKBA with OATP1B3 and MRP2. | Eur J Pharm Sci
+- new | 2008 | 18424019 |  | The gastric ulcer protective effect of boswellic acids, a leukotriene inhibitor from Boswellia serrata, in rats. | Phytomedicine
+- new | 2006 | 16672197 | Review | Natural products and anti-inflammatory activity. | Asia Pac J Clin Nutr
+- new | 2006 | 20021046 |  | Safety and Toxicological Evaluation of a Novel, Standardized 3-O-Acetyl-11-keto-beta-Boswellic Acid (AKBA)-Enriched Boswellia serrata Extract (5-Loxin(R)). | Toxicol Mech Methods
+- new | 2006 | 16751123 | Comparative Study | Effect of hexane extract of Boswellia serrata oleo-gum resin on chemically induced liver damage. | Pak J Pharm Sci
+- new | 2005 | 15539433 | Research Support, U.S. Gov't, P.H.S. | Effects of Boswellia serrata in mouse models of chemically induced colitis. | Am J Physiol Gastrointest Liver Physiol
+- new | 2004 | 15373853 | Case Reports | Allergic contact dermatitis from Boswellia serrata extract in a naturopathic cream. | Contact Dermatitis
+- new | 2003 | 12600419 | Research Support, Non-U.S. Gov't | Boswellic acid acetate induces differentiation and apoptosis in highly metastatic melanoma and fibrosarcoma cells. | Cancer Detect Prev
+- new | 2003 | 15320503 |  | Immunomodulatory activity of boswellic acids of Boswellia serrata Roxb. | Indian J Exp Biol
+
+### PubMed OBS - 23 hits, 4 not already listed above, 4 new
+- new | 2023 | 37109265 |  | A Supplement with Ribes Nigrum, Boswellia Serrata, Bromelain and Vitamin D to Stop Local Inflammation in Chronic Sinusitis: A Case-Control Study. | J Clin Med
+- new | 2023 | 38203528 |  | Acetyl-11-Keto-β-Boswellic Acid Accelerates the Repair of Spinal Cord Injury in Rats by Resisting Neuronal Pyroptosis with Nrf2. | Int J Mol Sci
+- new | 2021 | 33447100 |  | Clusters of Responders and Predictive Factors for Response to Supplementation with Boswellia, Turmeric, and Red Algae Extracts in Painful Knee Osteoarthritis: A Prospective Observa | Open Access Rheumatol
+- new | 2019 | 30693615 | Letter/Observational Study | Treatment of telogen effluvium using a dietary supplement containing Boswellia serrata, Curcuma longa, and Vitis vinifera: Results of an observational study. | Dermatol Ther
+
+### PubMed REV - 104 hits, 14 not already listed above, 11 new
+- new | 2026 | 42196409 | Review | Advances in Drug Delivery Systems for Boswellic Acids from Boswellia serrata: Enhancing Oral Bioavailability and Therapeutic Efficacy. | Int J Mol Sci
+- new | 2025 | 40092573 | Review | Boswellia serrata for the Management of Radiation-Induced Cerebral Edema and Necrosis: A Systematic Meta-Narrative Review of Clinical Evidence. | Adv Radiat Oncol
+- new | 2025 | 39401649 | Review | Triterpenoids from Frankincense and Boswellia: A focus on their pharmacology and (13)C-NMR assignments. | Phytochemistry
+- new | 2024 | 39125311 | Review | Mitigating Traumatic Brain Injury: A Narrative Review of Supplementation and Dietary Protocols. | Nutrients
+- new | 2024 | 38965930 | Review | Therapeutic potential of boswellic acids: an update patent review (2016-2023). | Expert Opin Ther Pat
+- new | 2023 | 37734266 | Review | Pathophysiology of diabetic hepatopathy and molecular mechanisms underlying the hepatoprotective effects of phytochemicals. | Biomed Pharmacother
+- new | 2022 | 35882701 | Review | Effects of Boswellia species on viral infections with particular attention to SARS-CoV-2. | Inflammopharmacology
+- HELD REF-1813 | 2021 | 34224069 | Review | Boswellic acids/Boswellia serrata extract as a potential COVID-19 therapeutic agent in the elderly. | Inflammopharmacology
+- new | 2021 | 34412004 | Review | Cembranoids from Boswellia species. | Phytochemistry
+- new | 2020 | 32440312 | Review | Genus Boswellia as a new candidate for neurodegenerative disorders. | Iran J Basic Med Sci
+- new | 2017 | 29109091 | Review | Transcriptomic Profiling of MDA-MB-231 Cells Exposed to Boswellia Serrata and 3-O-Acetyl-B-Boswellic Acid; ER/UPR Mediated Programmed Cell Death. | Cancer Genomics Proteomics
+- HELD REF-1814 | 2016 | 27346540 | Review | Pharmacological evidences for cytotoxic and antitumor properties of Boswellic acids from Boswellia serrata. | J Ethnopharmacol
+- new | 2016 | 27117114 | Review | Frankincense--therapeutic properties. | Postepy Hig Med Dosw (Online)
+- HELD REF-1815 | 2010 | 20696559 | Review | Modulation of the immune system by Boswellia serrata extracts and boswellic acids. | Phytomedicine
+
+### ClinicalTrials.gov - 65 registered studies
+- NCT06407609 | COMPLETED | results=False | NA | Positive Outcomes of the Supplementation With Lecithin-based Delivery Form of Curcuma Longa and of Boswellia Serrata in IBS | conds: Boswellia Serrata, Irritable Bowel Syndrome | intr: Curcuma and boswellia extracts plus low fodmap diet, Low Foodmap diet
+- NCT02909686 | COMPLETED | results=True | NA | Effects of Botanical Microglia Modulators in Gulf War Illness | conds: Gulf War Illness | intr: Boswellia Serrata, Curcumin, Epimedium, Fisetin | pubs: ['33915962:DERIVED (new)', '33802381:DERIVED (new)', '33802272:DERIVED (new)']
+- NCT03149081 | COMPLETED | results=False | PHASE1 | A "Window Trial" on Boswellia for Breast Cancer Primary Tumors | conds: Breast Cancer | intr: Boswellia
+- NCT06032442 | COMPLETED | results=False | NA | A Study to Assess Efficacy of Supporting Properties and Safety of ARTNEO in Patients With Knee Osteoarthritis | conds: Osteoarthritis, Osteo Arthritis Knee, Osteoarthritis, Knee | intr: ARTNEO, Artra
+- NCT07324746 | RECRUITING | results=False | NA | The Effectiveness of a Herbal Supplement in Osteoarthritis. | conds: Osteoarthritis (OA), Osteoarthritis (OA) of the Hip, Osteoarthritis (OA) of the Knee, Osteoarthritis | intr: Active treatment, Placebo
+- NCT02216253 | COMPLETED | results=False | NA | L-methionine, Hibiscus Sabdariffa and Boswellia Leaf Extract to Prevent Postoperative Urinary Tract Infection. | conds: Urinary Tract Infection, Pelvic Organ Prolapse, Urinary Incontinence | intr: L-methionine, Hibiscus Sabdariffa and Boswellia Leaf Extract, Placebo
+- NCT07823868 | NOT_YET_RECRUITING | results=False | EARLY_PHASE1 | Frankincense Versus Sodium Hypochlorite for Root Canal Disinfection | conds: Pulp Necrosis, Root Canal Infection, Apical Periodontitis | intr: Sodium hypochlorite 3%, Frankincense-based irrigant
+- NCT04161833 | COMPLETED | results=False | NA | Opera® for Aromatase Inhibitor-related Arthralgia Management (AIA) | conds: Breast Cancer, Hormone Receptor Positive Tumor, Arthralgia | intr: OPERA
+- NCT06969989 | NOT_YET_RECRUITING | results=False | NA | Herbal Irrigation in Necrotic Primary Molars | conds: Herbal Irrigation in Necrotic Primary Molars | intr: 10 % water extract of Boswellia Sacra, 1 % Sodium Hypochlorite, 0.9 % Normal Saline
+- NCT07698223 | NOT_YET_RECRUITING | results=False | PHASE4 | Naoxintong Capsule for Diabetic Nephropathy With Dampness Retention Pattern: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Tri | conds: Diabetic Nephropathy | intr: Naoxintong Capsule, Placebo
+- NCT04487964 | COMPLETED | results=False | NA | Complementary Intervention for COVID-19 | conds: COVID-19 | intr: Licorice extract | pubs: ['35233748:DERIVED (new)', '33192504:DERIVED (new)']
+- NCT04664712 | COMPLETED | results=False | NA | Efficacy of Focused Shock Waves Combined With Adjuvant Therapy With Tendon Supplement | conds: Fasciitis, Plantar | intr: Tendisulfur Pro, Focused shock wave
+- NCT06466538 | UNKNOWN | results=False | PHASE2,PHASE3 | Investigate"Clinically" the Effectiveness of Boswellia Based Intracanal Medication Compared to Calcium Hydroxide Ca(OH)2 and Ledermix on the | conds: Microbial Colonization | intr: Calcium hydroxide, Leddermix, Boswellia
+- NCT00577330 | UNKNOWN | results=False | PHASE3 | Efficacy of Myalgesin™ to Support Joint Function in Patients With Knee Osteoarthritis | conds: Osteoarthritis | intr: Myalgesin™ (celery seed extract, Boswellia serrata extract, Phellodendron extract)
+- NCT02977936 | COMPLETED | results=False |  | Management of Joint Pain Associated With Osteoarthritis of the Knee With Association of Plant Extracts. | conds: Gonarthrosis | intr: Cartimotil Fort | pubs: ['36602324:DERIVED (new)']
+- NCT05975879 | COMPLETED | results=False | NA | A Study of the Feasibility of Using the Dietary Supplement "ARTNEO" in Patients With Osteoathritis | conds: Osteoarthritis, Knee, Osteoarthritis, Knee Osteoarthritis, Knee Arthritis | intr: undenaturated collagen type II, methylsulfonylmethane, boswellia serrata, vitamin D3 (cholecalcifero
+- NCT07884084 | COMPLETED | results=False | NA | Effect of Probiotics on Immunosuppressant Therapy in Kidney Transplant Recipients | conds: Kidney Transplantation, Kidney Transplantation Recipients | intr: Probiotic formulation, Placebo
+- NCT06763809 | COMPLETED | results=False | NA | A Randomized Placebo-Controlled Study to Evaluate the Effects of a Gummy and Capsule Supplement on Symptoms of Premenstrual Syndrome | conds: PMS, Menstrual Cramp, Mood Change | intr: PMS Capsule, Capsule Placebo, PMS Gummy, Gummy Placebo
+- NCT04800107 | WITHDRAWN | results=False | NA | Effect of Highly Bioavailable Curcumin on Subjective Tinnitus | conds: Tinnitus, Subjective | intr: Curcumin-phosphatidylcholine, Placebo capsule
+- NCT04802382 | UNKNOWN | results=False | PHASE3 | Clinical Study Designed to Evaluate the Effect of CimetrA in Patients Diagnosed With COVID-19 | conds: Corona Virus Infection, Covid19, SARS-CoV Infection | intr: Placebo administration, Confirm SARS-CoV-2 infection, Physical Examination, Vital Signs
+- NCT01271218 | COMPLETED | results=False | PHASE4 | Effects of Glucosamine and Chondroitin Supplementation in Women With Knee Osteoarthritis Participating in an Exercise and Weight Loss Progra | conds: Knee Osteoarthritis | intr: Diet, Exercise | pubs: ['21689421:DERIVED (new)']
+- NCT05130918 | COMPLETED | results=False | NA | Efficacy of Mictalase® After ThuLEP | conds: BPH With Urinary Obstruction With Other Lower Urinary Tract Symptoms | intr: Phenolmicin P3 and Bosexil suppository | pubs: ['35151280:DERIVED (new)']
+- NCT05037162 | COMPLETED | results=False | PHASE2 | Study Designed to Evaluate the Effect of CimetrA in Patients Diagnosed With COVID-19 | conds: Covid19, Corona Virus Infection | intr: Biochemistry blood test, Hematology blood test, D-Dimer test (coagulation), Inflammatory markers
+- NCT05925725 | COMPLETED | results=False | PHASE4 | Clinical Efficacy and Safety of Loxacon Dietary Supplement Capsules at Patients With Knee Arthrosis | conds: Osteo Arthritis Knee | intr: • harpagozid • boswellin = LOXACON
+- NCT05570123 | COMPLETED | results=False | NA | Effect and Tolerance of Standardized Exclusive Dry Extracts of Curcuma Longa and of Boswellia Serrata Among People With Hand Joint Discomfor | conds: Hand Joint Discomfort, Hand Joint Dysfunction | intr: Flexofytol Forte, Placebo
+- NCT04669119 | UNKNOWN | results=False | PHASE4 | Effects of Bromelain and Boswellia Serrata Casperome With Centella Asiatica and Vitamins on Edema, Paresthesia and Postoperative Pain After  | conds: Breast Cancer Female, Pain, Postoperative | intr: Bromelain/Boswellia Serrata Casperome, Centella Asiatica/Vitamins, Placebo | pubs: ['39929877:DERIVED (new)']
+- NCT05345028 | COMPLETED | results=False | NA | Boswellia Serrata Extract in Acute Diarrhea | conds: Acute Diarrhea, Boswellia Serrata | intr: lecithin-based delivery form of Boswellia serrata, Placebo
+- NCT03262805 | COMPLETED | results=False | NA | To Assess the Lanconone® (E-OA-07) Efficacy in Physical Activity-related Pain- LEAP Study | conds: Knee Osteoarthritis | intr: Lanconone, Placebo
+- NCT07772011 | ACTIVE_NOT_RECRUITING | results=False | NA | Effect of Frankincense Versus Palatal Stent on Palatal Donor Site Healing | conds: Palatal Donor Site Wound Healing | intr: Frankincense Gel, Palatal stent
+- NCT07717957 | COMPLETED | results=False | NA | Comparison Between Mobithron® and Crystalline Glucosamine Sulphate in Patients With Knee Osteoarthritis | conds: Knee Osteoarthritis | intr: Mobithron®, Crystalline Glucosamine Sulphate
+- NCT06268483 | COMPLETED | results=False | NA | Effect of Hyaluronic Acid Oral Supplementation on Sexual and Urinary Symptoms of Women With Recurrent Urinary Tract Infections | conds: Urinary Tract Infections, Recurrent | intr: HA 100 mg, CS 400 mg, N-Acetylglucosamine 200 mg and vitamin C 80 mg + cranberry, D-mannose, propoli | pubs: ['38721680:DERIVED (new)']
+- NCT05820646 | UNKNOWN | results=False | NA | Effect of Boswellia Sacra as an Intracanal Medicament on Postoperative Pain Intensity and Bacterial Load Reduction | conds: Intervention | intr: Boswellia Sacra
+- NCT07576634 | COMPLETED | results=False | PHASE2,PHASE3 | Effects of Standardized Boswellia Carterii Extract on Irritable Bowel Syndrome Patients | conds: Irritable Bowel Syndrome | intr: Boswellia carterii Extract, Educationntal program for IBS patie
+- NCT07349264 | COMPLETED | results=False | NA | Flexy3 Supplementation and Joint Health | conds: Joint, Joint Diseases | intr: Flexy3 Supplement (OriactivTM, Flexy3, Malaysia), Placebo | pubs: ['10378714:RESULT (new)', '21479777:RESULT (new)']
+- NCT07685847 | COMPLETED | results=False | NA | Clinical Evaluation of the Efficacy and Safety of a Medical Device in the Form of Rectal Suppositories (Prospidol®) for the Treatment of Sym | conds: Chronic Prostatitis/Chronic Pelvic Pain Syndrome (CP/CPPS) | intr: Prospidol suppository | pubs: ['9187685:RESULT (new)', '28012747:RESULT (new)', '9076454:RESULT (new)', '31558010:RESULT (new)', '15925077:RESULT (new)', '19570493:RESULT (new)', '19118880:RESULT (new)', '18336460:RESULT (new)']
+- NCT07109843 | RECRUITING | results=False | NA | Effect of Boswellia Serrata on Pain Intensity, Central and Peripheral Sensitization, and Pain Modulation in Healthy Volunteers | conds: Chronic Pain, Central Sensitisation, Peripheral Sensitization, Neuroinflammatory Response | intr: Boswellia serrata extract, Placebo
+- NCT07867158 | NOT_YET_RECRUITING | results=False | PHASE2 | Study of Boswellia for Urinary Toxicity in Prostate Cancer Radiotherapy | conds: Prostate Cancer | intr: Boswellia serrata extract
+- NCT05089318 | COMPLETED | results=False |  | Evaluation of Flexofytol® PLUS in Hand Joint Chronic Dyscomfort. | conds: Hand Joint Discomfort | intr: Flexofytol PLUS
+- NCT04705714 | COMPLETED | results=False | PHASE1 | Antibacterial and Anti-biofilm Activity of Frankincense Extract Against Porphyromonas Gingivalis | conds: Periodontal Diseases | intr: Frankincense Extract
+- NCT07778290 | RECRUITING | results=False | NA | Topical Boswellia Serrata 2% to Prevent Radiation Dermatitis in Head and Neck Cancer | conds: Head and Neck Neoplasms, Radiodermatitis | intr: Boswellia serrata 2% topical cream
+- NCT05150782 | UNKNOWN | results=False | NA | The Effect of Micellized Food Supplements on Health-related Quality of Life in Patients With Post-acute COVID-19 Syndrome. | conds: Post-acute COVID-19 Syndrome | intr: Curcumin/Boswellia Serrata/Ascorbic acid mixture
+- NCT05308615 | COMPLETED | results=False | NA | Randomized Controlled Clinical Trial to Evaluate The Efficacy and Safety of Healthtone as Prophylaxis for COVID-19 | conds: COVID-19 | intr: Rhea® Health Tone
+- NCT04765527 | COMPLETED | results=False | NA | Turmeric and Exercise-Induced Muscle Damage and Oxinflammation | conds: Muscular Injury | intr: Turmeric Strength for Joint, Placebo
+- NCT06423586 | COMPLETED | results=False | NA | Effect of Lecithin-based Curcuma and Boswellia on Post-acute COVID-19 IBS | conds: Post-Acute COVID-19 Syndrome, Irritable Bowel Syndrome, Abdominal Pain, Dysbiosis | intr: Curcuma longa and Boswellia serrata extracts
+- NCT00243022 | TERMINATED | results=True | PHASE2 | Dietary, Herbal and Alternative Medicine in Glioblastoma Multiforme | conds: Brain and Central Nervous System Tumors, Cerebral Edema | intr: Boswellia serrata extract, cyanocobalamin
+- NCT07746466 | COMPLETED | results=False | NA | Efficacy of Bioactive Collagen Peptide Compared to Glucosamine and Chondroitin Sulphate in Grade I-III Knee Osteoarthritis | conds: Knee Osteoarthritis (Kellgren-Lawrence Grade 1-3) | intr: Bioactive Collagen Peptide, Glucosamine and Chondroitin Sulphate
+- NCT03924596 | UNKNOWN | results=False | PHASE1,PHASE2 | Treatment of Renal Stones With Frankincense (Luban) | conds: Renal Stones | intr: AKBA-Incense (3-acetyl-11-keto-ß-boswellic acid), Potassium Sodium Hydrogen Citrate
+- NCT06381544 | COMPLETED | results=False | NA | The Effect of Aromatherapy Use in Nursing Skills Training | conds: Nursing Students | intr: Aromatherapy application
+- NCT02029118 | COMPLETED | results=False | EARLY_PHASE1 | Acupoint Application in Patients With Stable Angina Pectoris (AASAP) | conds: Stable Angina Pectoris | intr: Herbal plaster ( styrax, borneol, frankincense, santalum,trichosanthes kirilowii Maxim, allium macro | pubs: ['34387828:DERIVED (new)', '25250055:DERIVED (new)']
+- NCT05113992 | COMPLETED | results=False | NA | The Effect of Back Massage Before the Cardiac Electrophysiological Procedure | conds: Massage | intr: aromatherapy massage, classic massage
+- NCT06119438 | COMPLETED | results=False | NA | Aromatherapy on Pain and Anxiety of the Patients Undergoing Prostate Biopsy | conds: Aromatherapy, Prostate Cancer, Anxiety | intr: Aromatherapy
+- NCT06590077 | ENROLLING_BY_INVITATION | results=False | NA | Impact of Aromatherapy on Wellbeing and Relaxation in Gynae Oncology Patients Post Treatment | conds: Stress, Wellbeing, Relaxation | intr: Aromatherapy, Control (placebo) group
+- NCT04848350 | COMPLETED | results=False | NA | Use of Inhaler Aromatherapy During SWL | conds: Pain, Procedural, Aromatherapy, Anxiety | intr: Lavender essential oil | pubs: ['30205934:RESULT (new)', '29547610:RESULT (new)', '32663929:RESULT (new)']
+- NCT06488417 | COMPLETED | results=False | NA | Frankincense Supplements and Inflammation | conds: Healthy | intr: Frankincense essential oil + boswellic acid supplement, Frankincense essential oil supplement
+- NCT07535229 | COMPLETED | results=False | NA | Frankincense and Herbal Extracts for Plaque-Induced Gingivitis: A Double-Blind RCT | conds: Gingivitis | intr: Frankinscence and coconut Oil based mouthwash, Frankinscence and Thyme essence/ water based mouthwas | pubs: ['41488228:RESULT (new)', '34466501:RESULT (new)', ':RESULT (-)']
+- NCT04494165 | COMPLETED | results=False | NA | Massage With Frankincense and Myrrh Oil in Treating Chronic Low Back Pain | conds: Low Back Pain | intr: massage with frankincense and myyrh essential oil, massage with carrier oil | pubs: ['37121835:DERIVED (new)']
+- NCT05903872 | COMPLETED | results=False | NA | EFFECTS OF AROMATHERAPY MASSAGE ON LACTATION IN NON-BREASTFEEDING MOTHERS WITH PREMATURE NEWBORNS IN NEONATAL INTENSIVE CARE UNIT | conds: LACTATION IN MOTHERS WITH PREMATURE NEWBORNS | intr: aromatherapy massage, back massage
+- NCT06189794 | UNKNOWN | results=False | NA | Effects of Rosa Damascena and Frankincense Essential Oils in Labor | conds: Labor Pain | intr: Rosa damascena oil
+- NCT01051726 | UNKNOWN | results=False | PHASE2 | Effects of Aromatherapy on Childbirth | conds: Parturition, Natural Childbirth, Labor Pain | intr: Aromatherapy oil, None essential oil
+- NCT05005767 | UNKNOWN | results=False | PHASE2 | Effect of Frankincense Extract Gel on Non-Surgical Treatment of Chronic Periodontitis | conds: Chronic Periodontitis | intr: scaling and root planing, Frankincense extract gel natural herbal product
+- NCT04710394 | COMPLETED | results=False | NA | Visual-OLfactory Training in Participants With COVID-19 Resultant Loss of Smell | conds: Anosmia, Covid19, Ageusia, Hyposmia | intr: Smell Training | pubs: ['36580304:DERIVED (new)']
+- NCT07581522 | COMPLETED | results=False | NA | Pharmacokinetics of Essential Oils in Different Capsules | conds: Healthy, Health, Subjective | intr: Frankinscense Essential Oil Capsule, Lemon Essential Oil Capsule, Wild Orange Essential Oil Capsule
+- NCT03612986 | COMPLETED | results=False | NA | Clinical Trial to Evaluate the Effects of a Nutraceutical in Patients Affected by Knee Osteoarthritis | conds: Knee Osteoarthritis | intr: SYALOX® 300 Plus, Placebo
+- NCT01450124 | COMPLETED | results=False | PHASE2 | Safety, Tolerability And Mechanism Of Action Of Boswellic Acids (BA) In Multiple Sclerosis (SABA) | conds: Relapsing Remitting Multiple Sclerosis | intr: Boswellic acids (BOSWELAN) | pubs: ['30873106:DERIVED (new)']
+- NCT01956500 | COMPLETED | results=False | NA | Instaflex and Joint Pain in Community Adults | conds: Joint Pain, Stiffness, Function | intr: Instaflex, Placebo | pubs: ['24274358:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 1883 hits, 32 without PMID, 32 new
+- new | 2026 | 10.48347/imist.prsm/ajmap-v12i2.58482 | article | Efficacy of Hymenaea verrucosa versus Boswellia serrata in stage 1 obesity- A comparative randomized controlled clinical trial | Arabian Journal of Medicinal and Aromati
+- new | 2026 | 10.17605/osf.io/6hvay | study-registration | Phytotherapeutic Interventions in the Management of Knee Osteoarthritis: A Systematic Review of Randomized Controlled Trials on Clinical Efficacy and Safety | Open Science Framework
+- new | 2025 | 10.22233/9781913859510.37.35 | book-chapter | Efficacy of an eggshell membrane-based supplement to improve the mobility of dogs: a multicenter randomised placebo-controlled study | British Small Animal Veterinary Associat
+- new | 2025 | 10.23736/s2784-8469.25.04571-7 | article | Efficacy and safety of a fixed combination of diosmin, bromelain, and Boswellia serrata in the management of acute ankle sprain: a randomized placebo-controlled study | Minerva Orthopedics
+- new | 2025 | 10.1177/09731296251363219 | article | A Randomized Double-blinded Placebo-controlled Study to Determine the Efficacy of Rhuleave-K on Subjects with Mild to Moderate Osteoarthritis | Pharmacognosy Magazine
+- new | 2024 | 10.54085/ap.2024.13.1.55 | review | Effectiveness of Boswellia serrata Roxb. extract on osteoarthritis treatment: A systematic review of randomized controlled trials | Annals of Phytomedicine An International
+- new | 2024 | 10.34172/jkmu.2024.44 | article | Effects of Coadministration of Eryngium billardieri and Boswellia serrata Extracts on Insulin-Related Biomarkers, Lipid Profile, and Hepatic Enzymes in Patients with Type 2 Diabete | Majallah-i dānishgāh-i ̒ulum-i pizishkī-
+- new | 2024 | 10.18585/inabj.v16i3.3023 | article | The Combination of Gardenia jasminoides, Boswellia serrata, Commiphora myrrha, Foeniculum vulgarae, and Daucus carota Essential Oil Blend Improved the Inflammatory and Clinical Sta | The Indonesian Biomedical Journal
+- new | 2024 | 10.18725/oparu-58976 | other | Single-dose comparative pharmacokinetic/pharmacodynamic study of a micellar formulation versus a native Boswellia serrata dry extract in healthy volunteers | Universität Ulm, Kommunikations- und Inf
+- new | 2023 | 10.4103/jrum.jrum_50_25 | article | Evaluation of the efficacy of Unani formulation (Zaroor of Astragalus Sarcacola, Boswellia serrata Roxb., Aristolochia rotunda Linn., Punica granatum Linn.) in comparison to Zaroor | Journal of Research in Unani Medicine
+- new | 2022 | 10.36347/sjams.2022.v10i03.008 | article | Fast Relief of Acute Musculoskeletal Pain in Different Body Parts Following Exercise - A Randomized Double-Blind Placebo-Controlled Human Study with Curcuma longa and Boswellia ser | Scholars Journal of Applied Medical Scie
+- new | 2021 | 10.9734/bpi/rpmb/v5/1516f | book-chapter | Benefits of an Herbal-amino Acid Supplement in Osteoarthritis: Results of a Randomized Double-Blind Placebo Controlled Trial | Book Publisher International (a part of 
+- new | 2021 | 10.18203/issn.2455-4510.intjresorthop20213378 | article | Effect of Nucart VG (Boswellia serrata in combination with veg glucosamine sulphate) in comparison with glucosamine sulphate to improve quality of life of knee osteoarthritis patie | International Journal of Research in Ort
+- new | 2020 | 10.22062/jkmu.2020.91021 | article | Effects of Boswellia serrata on Improvement of Memory Impairment in Patients with Mild Cognitive Impairment: A Double-blind, Randomized, Placebo-controlled Study | Research Information System of Ardabil U
+- new | 2019 | 10.18203/issn.2455-4510.intjresorthop20194807 | article | The benefit of Curcuma longa and Boswellia serrata to improve quality of life in osteoarthritis patients: a randomized controlled trial | International Journal of Research in Ort
+- new | 2019 | 10.34257/gjmrhvol19is3pg51 | article | A Randomized Controlled Trial of Curcuma longa and Boswellia serrata Extract in Osteoarthritis | Global Journal of Medical Research
+- new | 2019 | 10.15761/gos.1000214 | article | One single drug combination of bromelain and Boswellia serrata casperome®: effects on postoperative Edema in open incisional abdominal hernia repair. Prospective randomized clinica | Global Surgery
+- new | 2018 | 10.1097/01.ebp.0000544882.19585.d8 | article | Is Boswellia serrata an effective analgesic in adult patients with osteoarthritis? | Evidence-Based Practice
+- new | 2017 | https://openalex.org/W2785855678 | dissertation | The effects of Frankincense on lipid peroxidation and plasma antioxidant levels in patients with rheumatoid arthritis "A Randomized Clinical Trial" | 
+- new | 2016 | 10.1016/j.hermed.2016.05.003 | article | Effect of Boswellia serrata on cognitive impairment in multiple sclerosis patients | Journal of Herbal Medicine
+- new | 2016 | https://openalex.org/W2482037691 | article | Comparing the effect of Boswellia serrata and Lavandula angustifolia extract administration with the placebo on improvement of premature ejaculation during methadone treatment of o | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2015 | 10.1257/rct.898 | study-registration | The effects of Boswellia serrata gum resin on the blood glucose and lipid profile of diabetic patients: A double-blind randomized placebo-controlled clinical trial | AEA Randomized Controlled Trials
+- new | 2015 | 10.1016/j.jaci.2014.12.1825 | article | A Randomized Controlled Trial of a Phytotherapic Compound Containing Boswellia Serrata and Bromeline for Seasonal Allergic Rhinitis Complicated By Upper Airways Recurrent Respirato | Journal of Allergy and Clinical Immunolo
+- new | 2014 | 10.1096/fasebj.28.1_supplement.245.8 | conference-abstract | A commercialized dietary supplement alleviates joint pain in community adults: a double‐blind, placebo‐controlled community trial (245.8) | The FASEB Journal
+- new | 2013 | 10.1186/isrctn05212803 | study-registration | Efficacy and tolerability of 5-Loxin®, a novel standardised Boswellia serrata extract in the treatment of Osteoarthritis of knee: a randomised, double blind placebo controlled clin | 
+- new | 2013 | 10.1186/isrctn35444380 | study-registration | Comparative efficacy of Boswellia serrata extract and 5-Loxin® in the treatment of osteoarthritis of knee: a randomised, double-blind placebo-controlled clinical study | 
+- new | 2012 | 10.4236/abb.2012.324066 | article | Relief of osteoarthritis with a herbal-amino acid supplement: A randomized double-blind placebo controlled trial | Advances in Bioscience and Biotechnology
+- new | 2011 | https://openalex.org/W2189132283 | article | USE OF MUVEASE IN THE TREATMENT OF JOINT PAIN AND BACK PAIN: A RANDOMIZED DOUBLE - BLIND PLACEBO CONTROLLED CLINICAL TRIAL | International Journal of Research in Ayu
+- new | 2010 | 10.1055/s-0030-1263688 | article | A randomized, placebo-controlled, double-blind trial of Boswellia serrata in maintaining remission of Crohns disease: Good safety profile but lack of efficacy | Zeitschrift für Gastroenterologie
+- new | 2008 | 10.1016/j.phymed.2008.03.012 | article | BOSWELLIA SERRATA EXTRACT FOR THE TREATMENT OF COLLAGENOUS COLITIS. A DOUBLE-BLIND RANDOMIZED, PLACEBO-CONTROLLED, MULTICENTER TRIAL | Phytomedicine
+- new | 2007 | 10.4103/0253-7613.30759 | article | Open, randomized, controlled clinical trial of Boswellia serrata extract as compared to valdecoxib in osteoarthritis of knee | Indian Journal of Pharmacology
+- new | 1992 | https://openalex.org/W199580717 | article | Efficacy of an ayurvedic formulation in rheumatoid arthritis: A double-blind, placebo-controlled, cross-over study | Indian Journal of Pharmacology
+
+## calendula-officinalis (Calendula officinalis) - name clause: "Calendula officinalis"[tiab] OR "pot marigold"[tiab] OR "calendula"[ti]
+
+### PubMed HT - 68 hits, 68 not already listed above, 58 new
+- new | 2026 | 41550600 |  | Use of Topical Calendula and Chamomile Creams for the Management of Radiodermatitis in Cancer Patients: A Randomized Clinical Trial Protocol. | Glob Adv Integr Med Health
+- new | 2026 | 42287322 |  | Serenoa Repens-Lycopene-Selenium and Epilobium-Palmitoylethanolamide-Calendula after transperineal prostate biopsy: a tertiary single center experience. | World J Urol
+- new | 2026 | 42922240 | Review/Comparative Study | Medicinal plants vs metronidazole in bacterial vaginosis: a narrative review of evidence from randomized clinical trials. | Clin Ter
+- new | 2026 | 42129639 |  | Foliar L-arginine and seaweed extract mitigate salinity stress in Calendula officinalis L. by enhancing physiological and biochemical performance. | BMC Plant Biol
+- new | 2025 | 40733149 |  | Wound Healing Effects of New Cream Formulations with Herbal Ingredients. | Pharmaceutics
+- HELD REF-3474 | 2025 | 41527980 | Randomized Controlled Trial | Double-blind randomised controlled trial of an emollient cream with and without 1 % supercritical CO(2) extract of Calendula officinalis in contact dermatitis. | Acta Pharm
+- new | 2025 | 40544340 |  | Phytoremediation potential of pot marigold (Calendula officinalis L.) under plant growth-promoting rhizobacteria (PGPR) treatments for sustainable urban green infrastructure develo | Int J Phytoremediation
+- new | 2025 | 40829729 | Letter/Comment | Bao Yuan Gao vs. Calendula cream for radiotherapy-induced skin toxicity in head and neck cancer: A randomized controlled trial - A biased negative trial essentially. | Radiother Oncol
+- new | 2025 | 40480289 | Randomized Controlled Trial/Comparative Study/Research Support, Non-U.S. Gov't | Bao Yuan Gao vs. Calendula cream for radiotherapy-induced skin toxicity in head and neck cancer: A randomized controlled trial. | Radiother Oncol
+- new | 2025 | 40093501 |  | Comparative Evaluation of Bilateral Cleft Earlobe Rejuvenation with and without Calendula Officinalis 10% V/W- Randomised Control Trial. | Indian J Otolaryngol Head Neck Surg
+- new | 2025 | 41294565 |  | Update on the Research of an Emulgel for the Effective Treatment of Atopic Dermatitis: Clinical Investigation in Children. | Gels
+- new | 2024 | 39759925 | Review | Evaluation of the Efficacy of Medicinal Plants in Treating Bacterial Vaginosis: A Comprehensive Systematic Review of Interventional Studies. | Iran J Nurs Midwifery Res
+- new | 2024 | 39707167 |  | Foliar application of nano-silicon enhances drought tolerance rate of pot marigold (Calendula officinalis L.) by regulation of abscisic acid signaling. | BMC Plant Biol
+- new | 2024 | 38934521 | Multicenter Study | Efficacy of Palmitoylethanolamide, Epilobium and Calendula suppositories for the treatment of patients with chronic prostatitis/chronic pelvic pain syndrome type III. | Arch Ital Urol Androl
+- new | 2024 | 38595380 |  | Efficacy of Topical Turmeric, Calendula officinalis, and Tulsi (Ayurvedic Gel) in the Management of Erosive Lichen Planus: A Placebo-Controlled Study. | J Pharm Bioallied Sci
+- new | 2024 | 38841372 |  | Current use of medicinal plants for children's diseases among mothers in Southern Romania. | Front Pharmacol
+- new | 2024 | 39171868 | Randomized Controlled Trial/Comparative Study | Spray skin protectant versus standard moisturiser in the prevention of radiodermatitis in patients with anal canal and rectal cancer: A randomised clinical trial. | Int Wound J
+- HELD REF-2125 | 2023 | 36632430 |  | Effect of oral Calendula officinalis on second-degree burn wound healing. | Scars Burn Heal
+- new | 2023 | 35870011 | Observational Study | Phytotherapy known and applied by head-neck cancer patients and medical students to treat oral discomfort in Germany: an observational study. | J Cancer Res Clin Oncol
+- new | 2022 | 36120261 | Review | The Effectiveness of Herbal Versus Non-Herbal Mouthwash for Periodontal Health: A Literature Review. | Cureus
+- new | 2022 | 32460565 | Randomized Controlled Trial | Use of calendula ointment after episiotomy: a randomized clinical trial. | J Matern Fetal Neonatal Med
+- new | 2022 | 35588560 |  | Developmental and phytochemical changes in pot marigold (Calendula officinalis L.) using exogenous application of polyamines. | Plant Physiol Biochem
+- HELD REF-3477 | 2022 | 34674610 | Randomized Controlled Trial | Treatment of acute wounds in hand with Calendula officinalis L.: A randomized trial. | Tissue Barriers
+- new | 2022 | 35763437 | Randomized Controlled Trial | Efficacy and safety of a facial serum containing snail secretion filtrate, Calendula officinalis, and Glycyrrhiza glaba root extract in the treatment of maskne: A randomized placeb | J Cosmet Dermatol
+- new | 2022 | 36145497 |  | The Effects of Allium sativum L., Artemisia absinthium L., Cucurbita pepo L., Coriandrum sativum L., Satureja hortensis L. and Calendula officinalis L. on the Embryogenesis of Asca | Pathogens
+- new | 2022 | 32525718 |  | Effectiveness and Tolerability of Natural Herbal Formulations in the Prevention of Radiation-Induced Skin Toxicity in Patients Undergoing Radiotherapy. | Int J Low Extrem Wounds
+- HELD REF-3476 | 2021 | 32965030 | Randomized Controlled Trial | Efficacy of topical Calendula officinalis on prevalence of radiation-induced dermatitis: A randomised controlled trial. | Australas J Dermatol
+- new | 2021 | 33978137 | Systematic Review | Effectiveness of nursing interventions in preventing and treating radiotherapy side effects in cancer patients: a systematic review. | Rev Esc Enferm USP
+- new | 2020 | 32331341 |  | Clinical Effectiveness of a Combination of Black Elder Berries, Violet Herb, and Calendula Flowers in Chronic Obstructive Pulmonary Disease: The Results of a Double-Blinded Placebo | Biology (Basel)
+- new | 2020 | 31932389 | Research Support, Non-U.S. Gov't/Clinical Trial Protocol | Efficacy of a topical herbal and mineral formulation (Dynamiclear) for the treatment of herpes simplex labialis in the community setting: study protocol for a randomised, double-bl | BMJ Open
+- new | 2020 | 33374575 | Randomized Controlled Trial | Formulation of Topical Dosage Forms Containing Synthetic and Natural Anti-Inflammatory Agents for the Treatment of Rheumatoid Arthritis. | Molecules
+- new | 2020 | 31968621 |  | The Role of Annual Flowering Plant Strips on a Melon Crop in Central Spain. Influence on Pollinators and Crop. | Insects
+- HELD REF-0752 | 2019 | 31145533 | Systematic Review | A systematic review of Calendula officinalis extract for wound healing. | Wound Repair Regen
+- new | 2019 | 31586435 |  | Interleukin-10 and Interleukin-1β Cytokines Expression in Leukocytes of Patients with Chronic Peri-Mucositis. | Med Sci Monit
+- new | 2018 | 29368902 | Clinical Trial | [Action of Calendula officinalis essence on bone preservation after the extraction]. | Rev Med Inst Mex Seguro Soc [spa]
+- new | 2018 | 29441319 |  | The effect of Calendula officinalis versus metronidazole on bacterial vaginosis in women: A double-blind randomized controlled trial. | J Adv Pharm Technol Res
+- new | 2018 | 30598929 |  | The impact of calendula ointment on cesarean wound healing: A randomized controlled clinical trial. | J Family Med Prim Care
+- new | 2018 | 30311724 | Comparative Study/Randomized Controlled Trial | Comparison the effects of topical application of olive and calendula ointments on Children's diaper dermatitis: A triple-blind randomized clinical trial. | Dermatol Ther
+- new | 2017 | 28679180 | Clinical Trial, Phase II/Randomized Controlled Trial | A phase II, randomized, single-blinded, placebo-controlled clinical trial on the efficacy of Curcumina and Calendula suppositories for the treatment of patients with chronic prosta | Arch Ital Urol Androl
+- HELD REF-0754 | 2017 | 27880086 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparing the effects of Calendula officinalis and clotrimazole on vaginal Candidiasis: A randomized controlled trial. | Women Health
+- new | 2017 | 28929051 |  | Comparison of effectiveness of Calendula officinalis extract gel with lycopene gel for treatment of tobacco-induced homogeneous leukoplakia: A randomized clinical trial. | Int J Pharm Investig
+- HELD REF-2577 | 2016 | 26781385 | Review | Anti-cytokine therapy for prevention of atherosclerosis. | Phytomedicine
+- new | 2016 | 27680049 | Randomized Controlled Trial | Low-level laser therapy and Calendula officinalis in repairing diabetic foot ulcers. | Rev Esc Enferm USP [eng,por]
+- new | 2016 | 27768020 | Comparative Study/Randomized Controlled Trial | Clinical efficacy of a solution composed by sodium bicarbonate and alginate, aloe vera, propoli, chamomile, calendula and honey, in the treatment of minor recurrent aphthous stomat | Minerva Pediatr
+- new | 2016 | 26978856 | Clinical Trial | A Prospective, Descriptive Study to Assess the Clinical Benefits of Using Calendula officinalis Hydroglycolic Extract for the Topical Treatment of Diabetic Foot Ulcers. | Ostomy Wound Manage
+- new | 2016 | 27426257 |  | The Water Fraction of Calendula officinalis Hydroethanol Extract Stimulates In Vitro and In Vivo Proliferation of Dermal Fibroblasts in Wound Healing. | Phytother Res
+- new | 2016 | 26850813 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of the efficacy of a polyherbal mouthwash containing Zingiber officinale, Rosmarinus officinalis and Calendula officinalis extracts in patients with gingivitis: A random | Complement Ther Clin Pract
+- new | 2015 | 26237494 |  | Effect of Arbuscular Mycorrhizal Fungi On Yield and Phytoremediation Performance of Pot Marigold (Calendula officinalis L.) Under Heavy Metals Stress. | Int J Phytoremediation
+- HELD REF-3473 | 2015 | 25992820 | Randomized Controlled Trial | [Usage of Calendula officinalis in the prevention and treatment of radiodermatitis: a randomized double-blind controlled clinical trial]. | Rev Esc Enferm USP [por]
+- new | 2015 | 26831423 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparing the effects of Bentonite & Calendula on the improvement of infantile diaper dermatitis: A randomized controlled trial. | Indian J Med Res
+- new | 2014 | 24891745 |  | Comparison of antimicrobial activity of essential oils, plant extracts and methylparaben in cosmetic emulsions: 2 months study. | Indian J Microbiol
+- new | 2014 | 25097603 |  | The effects of Bentonite and Calendula on the improvement of infantile diaper dermatitis. | J Res Med Sci
+- new | 2014 | 25414900 |  | Shampoo-clay heals diaper rash faster than calendula officinalis. | Nurs Midwifery Stud
+- new | 2013 | 24554883 |  | Evaluation of Calendula officinalis as an anti-plaque and anti-gingivitis agent. | J Indian Soc Periodontol
+- new | 2013 | 25276736 |  | The Impact of Aloe vera and Calendula on Perineal Healing after Episiotomy in Primiparous Women: A Randomized Clinical Trial. | J Caring Sci
+- new | 2013 | 23497687 |  | Antioxidant capacity of calendula officinalis flowers extract and prevention of radiation induced oropharyngeal mucositis in patients with head and neck cancers: a randomized contr | Daru
+- new | 2013 | 23245940 | Comparative Study/Randomized Controlled Trial | No differences between Calendula cream and aqueous cream in the prevention of acute radiation skin reactions--results from a randomised blinded trial. | Eur J Oncol Nurs
+- HELD REF-3475 | 2012 | 22606064 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized comparative trial on the therapeutic efficacy of topical aloe vera and Calendula officinalis on diaper dermatitis in children. | ScientificWorldJournal
+- new | 2012 | 22568040 |  | Cytotoxic effect of some medicinal plants from Asteraceae family on J-45.01 leukemic cell line--pilot study. | Acta Pol Pharm
+- new | 2012 | 22316315 | Comparative Study/Multicenter Study/Randomized Controlled Trial | Comparison of vaginal gel isoflavones versus no topical treatment in vaginal dystrophy: results of a preliminary prospective study. | Gynecol Endocrinol
+- new | 2011 | 21928714 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Calendula extract: effects on mechanical parameters of human skin. | Acta Pol Pharm
+- new | 2008 | 25941793 |  | ﻿﻿﻿﻿Calendula officinalis and Wound Healing: A Systematic Review. | Wounds
+- new | 2005 | 15908760 | Clinical Trial/Research Support, Non-U.S. Gov't | Protective effects of different marigold (Calendula officinalis L.) and rosemary cream preparations against sodium-lauryl-sulfate-induced irritant contact dermatitis. | Skin Pharmacol Physiol
+- new | 2005 | 16317652 | Clinical Trial, Phase I/Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | A clinical study: Melaleuca, Manuka, Calendula and green tea mouth rinse. | Phytother Res
+- new | 2004 | 15572868 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blind, randomized, homeopathic pathogenetic trial with healthy persons: comparing two high potencies. | Forsch Komplementarmed Klass Naturheilkd
+- HELD REF-3472 | 2004 | 15084618 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Phase III randomized trial of Calendula officinalis compared with trolamine for the prevention of acute dermatitis during irradiation for breast cancer. | J Clin Oncol
+- new | 2001 | 11482776 | Clinical Trial | Efficacy of Hypericum and Calendula oils in the epithelial reconstruction of surgical wounds in childbirth with caesarean section. | Farmaco
+- new | 1999 | 10641087 | Clinical Trial/Comparative Study | [Treatment with acyclovir combined with a new Romanian product from plants]. | Oftalmologia [rum]
+
+### PubMed SR - 15 hits, 11 not already listed above, 10 new
+- new | 2026 | 42116036 | Meta-Analysis/Review | Influence of saponin extracts on enteric methane emission and rumen fermentation: a meta-analysis of in vitro experiments. | BMC Vet Res
+- new | 2026 | 42797223 | Review | A Systematic Review of Recent Developments in Wound Healing and Skin Regeneration Properties of Plant-Extract-Based Hydrogels for Skin Delivery: A Focus on Asteraceae and Lamiaceae | Pharmaceutics
+- new | 2025 | 39757623 | Systematic Review | Herbal Medicine for the Management of Wounds: A Systematic Review of Clinical Studies. | Infect Disord Drug Targets
+- new | 2024 | 38256796 | Review | Alternative Crops for the European Tobacco Industry: A Systematic Review. | Plants (Basel)
+- new | 2022 | 35490427 | Systematic Review | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review. | Infect Disord Drug Targets
+- new | 2021 | 33988743 | Systematic Review | Medicinal plants used for the treatment of mucositis induced by oncotherapy: a systematic review. | Support Care Cancer
+- new | 2020 | 33170047 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | A meta-analysis of preclinical studies using antioxidants for the prevention of cisplatin nephrotoxicity: implications for clinical application. | Crit Rev Toxicol
+- new | 2019 | 31133058 | Systematic Review | Medicinal plants as therapeutic options for topical treatment in canine dermatology? A systematic review. | BMC Vet Res
+- HELD REF-2124 | 2018 | 30289008 | Research Support, Non-U.S. Gov't/Systematic Review | Calendula officinalis: Potential Roles in Cancer Treatment and Palliative Care. | Integr Cancer Ther
+- new | 2013 | 23391017 | Research Support, Non-U.S. Gov't/Systematic Review | Plant food supplements with anti-inflammatory properties: a systematic review (II). | Crit Rev Food Sci Nutr
+- new | 2006 | 17317655 | Systematic Review | Marigold (Calendula officinalis L.): an evidence-based systematic review by the Natural Standard Research Collaboration. | J Herb Pharmacother
+
+### PubMed SAFE - 86 hits, 58 not already listed above, 55 new
+- new | 2026 | 41833027 |  | Medicinal Chemistry of Natural Anti-Skin Cancer Agents: An Evidence-Based Literature Review. | Anticancer Agents Med Chem
+- new | 2026 | 42156895 |  | Green synthesis of copper oxide nanoparticles with Calendula officinalis plant extract and investigation of its toxicity. | Sci Rep
+- new | 2026 | 42198463 |  | Assessing the Safety of Carbon Dioxide Extracts of Acorus calamus Rhizomes and Calendula officinalis Flowers and the Antitussive Activity of the Tablet Dosage Form 'Exkair' and Gra | Pharmaceuticals (Basel)
+- new | 2026 | 42451683 |  | Physicochemical, Phytochemical, and Toxicological Assessment of Agrimonia pilosa, Calendula arvensis, and Polygonum hydropiper Tinctures with Hypoglycemic Potential. | Molecules
+- new | 2026 | 41802103 | Case Reports | Homoeopathic Management of a Lower Leg Ulcer with Cellulitis: An Evidence-Based Case Report. | Complement Med Res
+- new | 2025 | 40721615 |  | Biosynthesis and bioactivity of anti-inflammatory triterpenoids in Calendula officinalis. | Nat Commun
+- new | 2025 | 39155491 | Review | Bio-active metabolites from Chinese Medicinal Herbs for treatment of skin diseases. | Nat Prod Res
+- new | 2025 | 40847063 |  | Phenolic profile and protective role of Calendula officinalis against molybdenum-induced toxiciy in Allium cepa. | Sci Rep
+- new | 2025 | 40825442 | Letter | Response to letter regarding "Bao Yuan Gao vs. calendula cream for radiotherapy-induced skin toxicity". | Radiother Oncol
+- new | 2025 | 41320730 |  | Calendula officinalis as a source of KRAS-targeted anticancer agents: a comprehensive computational assessment. | Med Oncol
+- new | 2025 | 41086102 |  | Assessment of mineral nutrition level and heavy metals toxicity in Kosovo herbal remedies. | J Environ Sci Health B
+- new | 2024 | 39771213 | Review | Soothing the Itch: The Role of Medicinal Plants in Alleviating Pruritus in Palliative Care. | Plants (Basel)
+- new | 2024 | 38920917 |  | Development of an Emulgel for the Effective Treatment of Atopic Dermatitis: Biocompatibility and Clinical Investigation. | Gels
+- new | 2023 | 37971091 |  | Evaluation of the antibacterial effect of Artemisia lerchiana compared with various medicines. | Braz J Biol
+- new | 2023 | 36636465 | Review | Traditional Uses, Bioactive Compounds, and Pharmacological Investigations of Calendula arvensis L.: A Comprehensive Review. | Adv Pharmacol Pharm Sci
+- new | 2023 | 37570937 |  | Chemical Characterization, Bioactivity and Toxicity of European Flora Plant Extracts in Search for Potential Natural Origin Preservatives. | Plants (Basel)
+- new | 2022 | 36615224 |  | The Antimicrobial and Toxicity Influence of Six Carrier Oils on Essential Oil Compounds. | Molecules
+- new | 2022 | 36051237 |  | Beneficial role of methyl jasmonate on morphological, physiological and phytochemical responses of Calendula officinalis L. under Chromium toxicity. | Physiol Mol Biol Plants
+- SEEN | 2022 | 35605329 |  | Gurgem-7 toxicity assessment: Regulation of cell survival or death by traditional Mongolian prescription. | Ecotoxicol Environ Saf
+- new | 2021 | 34425472 |  | Effects of topical application of a tri-herb formula on inflammatory dry-skin condition in mice with oxazolone-induced atopic dermatitis. | Phytomedicine
+- new | 2020 | 32854891 |  | Reusing greywater for cultivation of Capsicum frutescens and Calendula officinalis. | J Environ Manage
+- new | 2020 | 31955287 |  | How to bridge the gap? European medical plants used for treating oral mucositis: on the search for evidence. | J Cancer Res Clin Oncol
+- new | 2020 | 33100867 |  | Effect of irrigation with saline magnetized water and different soil amendments on growth and flower production of Calendula officinalis L. plants. | Saudi J Biol Sci
+- new | 2020 | 32270687 |  | Impact of chitosan on nickel bioavailability in soil, the accumulation and tolerance of nickel in Calendula tripterocarpa. | Int J Phytoremediation
+- new | 2020 | 32489556 | Review | Natural products as safeguards against monosodium glutamate-induced toxicity. | Iran J Basic Med Sci
+- new | 2018 | 28942136 | Review | Traditional wound-healing plants used in the Balkan region (Southeast Europe). | J Ethnopharmacol
+- new | 2018 | 30075180 |  | Screening of acute and sub-chronic dermal toxicity of Calendula officinalis L essential oil. | Regul Toxicol Pharmacol
+- new | 2018 | 30223811 |  | Identification of antitumoral agents against human pancreatic cancer cells from Asteraceae and Lamiaceae plant extracts. | BMC Complement Altern Med
+- new | 2017 | 28105900 |  | Feasibility, acceptability, and tolerability of RGN107 in the palliative wound care management of chronic wound symptoms. | J Wound Care
+- new | 2017 | 29191047 |  | Stealth lipid polymer hybrid nanoparticles loaded with rutin for effective brain delivery - comparative study with the gold standard (Tween 80): optimization, characterization and  | Drug Deliv
+- new | 2016 | 27974009 |  | Therapeutic effectiveness of a Calendula officinalis extract in venous leg ulcer healing. | J Wound Care
+- new | 2014 | 24621152 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 1: Achillea millefolium-Curcuma longa. | Contact Dermatitis
+- new | 2014 | 24792319 | Research Support, U.S. Gov't, Non-P.H.S. | Complementary and alternative medicine in reducing radiation-induced skin toxicity. | Radiat Environ Biophys
+- new | 2014 | 24096837 |  | Ameliorative effects of thyme and calendula extracts alone or in combination against aflatoxins-induced oxidative stress and genotoxicity in rat liver. | Cytotechnology
+- new | 2014 | 24363284 |  | Assessment of Augmented Immune Surveillance and Tumor Cell Death by Cytoplasmic Stabilization of p53 as a Chemopreventive Strategy of 3 Promising Medicinal Herbs in Murine 2-Stage  | Integr Cancer Ther
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2012 | 22856483 | Case Reports | Role of Calendula extract in treatment of anal fissures. | Am Surg
+- new | 2011 | 21376470 | Research Support, Non-U.S. Gov't | Triterpenoid saponins affect the function of P-glycoprotein and reduce the survival of the free-living stages of Heligmosomoides bakeri. | Vet Parasitol
+- new | 2010 | 21164072 | Research Support, Non-U.S. Gov't/Review | Final report of the Cosmetic Ingredient Review Expert Panel amended safety assessment of Calendula officinalis-derived cosmetic ingredients. | Int J Toxicol
+- new | 2010 | 21053691 | Research Support, Non-U.S. Gov't | Development and in vitro evaluation of biopolymers as a delivery system against periodontopathogen microorganisms. | Acta Odontol Latinoam
+- new | 2010 | 21293545 | Case Reports | Management of two cases of desquamative gingivitis with clobetasol and Calendula officinalis gel. | Biomed Pap Med Fac Univ Palacky Olomouc 
+- new | 2009 | 19249334 |  | Application of the threshold of toxicological concern approach for the safety evaluation of calendula flower (Calendula officinalis) petals and extracts used in cosmetic and person | Food Chem Toxicol
+- new | 2009 | 19405380 | Research Support, Non-U.S. Gov't | Hepato and reno protective action of Calendula officinalis L. flower extract. | Indian J Exp Biol
+- new | 2009 | 19524470 | Review | [Importance of local skin treatments during radiotherapy for prevention and treatment of radio-induced epithelitis]. | Cancer Radiother [fre]
+- new | 2009 | 19591533 | Comparative Study/Multicenter Study/Research Support, Non-U.S. Gov't | Remedies containing Asteraceae extracts: a prospective observational study of prescribing patterns and adverse drug reactions in German primary care. | Drug Saf
+- new | 2007 | 17221830 | Research Support, Non-U.S. Gov't | Toxicological studies on hydroalcohol extract of Calendula officinalis L. | Phytother Res
+- new | 2006 | 16182509 | Research Support, Non-U.S. Gov't | Investigation of genotoxic and antigenotoxic activities of Melampodium divaricatum in Salmonella typhimurium. | Toxicol In Vitro
+- new | 2006 | 16534725 | Research Support, Non-U.S. Gov't | A dual and opposite effect of Calendula officinalis flower extract: chemoprotector and promoter in a rat hepatocarcinogenesis model. | Planta Med
+- HELD REF-2877 | 2006 | 16677386 | Research Support, Non-U.S. Gov't | A new extract of the plant Calendula officinalis produces a dual in vitro effect: cytotoxic anti-tumor activity and lymphocyte activation. | BMC Cancer
+- new | 2005 | 15975845 | Research Support, Non-U.S. Gov't | Cytotoxicity and gene induction by some essential oils in the yeast Saccharomyces cerevisiae. | Mutat Res
+- new | 2003 | 15493372 | Comparative Study/Research Support, Non-U.S. Gov't | Hydroalcoholic plant extracts with anti-inflammatory activity. | Roum Arch Microbiol Immunol
+- new | 2002 | 12020598 | Research Support, Non-U.S. Gov't | Genotoxic and anti-genotoxic properties of Calendula officinalis extracts in rat liver cell cultures treated with diethylnitrosamine. | Toxicol In Vitro
+- new | 2001 | 11558637 | Review | Final report on the safety assessment of Calendula officinalis extract and Calendula officinalis. | Int J Toxicol
+- HELD REF-5176 | 2001 | 11722485 |  | The seamy side of natural medicines: contact sensitization to arnica (Arnica montana L.) and marigold (Calendula officinalis L.). | Contact Dermatitis
+- new | 1998 | 9687081 |  | Genotoxicity of an extract of Calendula officinalis L. | J Ethnopharmacol
+- new | 1990 | 2332827 |  | [Calendula arvensis L. Impact of saponins on toxicity, hemolytic effect, and anti-inflammatory activity]. | J Pharm Belg [fre]
+- new | 1974 | 4459561 | Case Reports | [Anaphylactic shock after gargling with an infusion of Calendula]. | Klin Med (Mosk) [rus]
+- new | 1969 | 5813401 |  | Nitrite poisoning in sheep due to capeweed (Arctotheca calendula). | Aust Vet J
+
+### PubMed OBS - 9 hits, 2 not already listed above, 2 new
+- new | 2026 | 42465172 |  | Comparative Evaluation of Calendula officinalis and Povidone-Iodine in Facial Wound Healing. | Cureus
+- new | 2021 | 33910616 |  | Ethnobotany of the medicinal plants used by the ethnic communities of Kerman province, Southeast Iran. | J Ethnobiol Ethnomed
+
+### PubMed REV - 53 hits, 20 not already listed above, 19 new
+- new | 2025 | 41304647 | Review | An Update of Phytotherapeutic Advances of Marigold (Calendula officinalis L.) in Wound Healing. | Plants (Basel)
+- new | 2025 | 41303363 | Review | Medicinal Plants for a Healthy Gut Microbiome: Scientific Insights into Modern Herbal Applications. | Int J Mol Sci
+- new | 2025 | 38549535 | Review | Polycystic Ovary Syndrome and Oxidative Stress. Natural Treatments. | Curr Med Chem
+- new | 2024 | 39500772 | Review | Aromatic plants as cosmeceuticals: benefits and applications for skin health. | Planta
+- new | 2024 | 38645751 | Review | Mitigating digestive disorders: Action mechanisms of Mediterranean herbal active compounds. | Open Life Sci
+- new | 2024 | 38843790 | Review | VOLKSMED Database: A Source for Forgotten Wound Healing Plants in Austrian Folk Medicine. | Planta Med
+- new | 2024 | 39124999 | Review | The Mediterranean Species Calendula officinalis and Foeniculum vulgare as Valuable Source of Bioactive Compounds. | Molecules
+- HELD REF-0753 | 2023 | 37111369 | Review | An Updated Review on the Multifaceted Therapeutic Potential of Calendula officinalis L. | Pharmaceuticals (Basel)
+- new | 2023 | 36836674 | Review | The Therapeutic Wound Healing Bioactivities of Various Medicinal Plants. | Life (Basel)
+- new | 2022 | 33820524 | Research Support, Non-U.S. Gov't/Review | Traditionally Used Natural Products in Preventing Ionizing Radiation-Induced. | Anticancer Agents Med Chem
+- new | 2022 | 36500716 | Review | Marigold Metabolites: Diversity and Separation Methods of Calendula Genus Phytochemicals from 1891 to 2022. | Molecules
+- new | 2022 | 36363764 | Review | Propolis, Aloe Vera, Green Tea, Cranberry, Calendula, Myrrha and Salvia Properties against Periodontal Microorganisms. | Microorganisms
+- new | 2021 | 33683253 | Review | Traditional plants from Asteraceae family as potential candidates for functional food industry. | Food Funct
+- new | 2018 | 32624872 | Review | Plant cell culture as emerging technology for production of active cosmetic ingredients. | Eng Life Sci
+- new | 2018 | 30186158 | Review | Use of Some Asteraceae Plants for the Treatment of Wounds: From Ethnopharmacological Studies to Scientific Evidences. | Front Pharmacol
+- new | 2016 | 27269391 | Review | Medicinal plants used for ophthalmological problems in Navarra (Spain). | J Ethnopharmacol
+- new | 2015 | 26448818 | Review | Anti-Aging Potential of Phytoextract Loaded-Pharmaceutical Creams for Human Skin Cell Longetivity. | Oxid Med Cell Longev
+- new | 2013 | 24347926 | Review | A review on phytochemistry and ethnopharmacological aspects of genus Calendula. | Pharmacogn Rev
+- new | 2010 | 20175810 | Research Support, Non-U.S. Gov't/Review | Phytotherapeutics: an evaluation of the potential of 1000 plants. | J Clin Pharm Ther
+- new | 2006 | 30000917 | Review | Calendula. | 
+
+### ClinicalTrials.gov - 27 registered studies
+- NCT05668806 | COMPLETED | results=False |  | RWE Study in the Treatment of Cervical Lesions of Various Etiology | conds: Cervical Lesion, Vaginal Bleeding | intr: Cerviron | pubs: ['37546352:DERIVED (new)']
+- NCT04833998 | UNKNOWN | results=False | PHASE2 | Hydration Based on Thoitaine, Aloe Vera and Calendula, in the Prevention of Hand-Foot Syndrome in Patients Using Capecitabine | conds: Hand-foot Syndrome | intr: Extremecare, Placebo
+- NCT03166423 | UNKNOWN | results=False | PHASE1,PHASE2 | Efficacy and Safety of Snail Slime and Natural Extracts for Healing in Diabetic Foot Ulcers | conds: Diabetic Foot Ulcer | intr: MU001 patches (Investigational), Conventional patches (Control)
+- NCT05652959 | COMPLETED | results=False |  | Real-world Performance and Safety of Cerviron® in the Treatment of Vaginitis | conds: Vaginitis, Bacterial Vaginosis | intr: Cerviron®
+- NCT06780774 | NOT_YET_RECRUITING | results=False | NA | Investigating the Acute and Chronic Effects of a Supplement Containing Caffeine, Vitamins, Minerals and Botanical Extracts on Cognition, Sle | conds: Caffeine, Sleep, Cognitive Function, Wellbeing | intr: Caffeine, Vitamins, Minerals and Botanical Blend, Placebo
+- NCT06427915 | COMPLETED | results=False | NA | Studying Glucose and Appetite Response With Alternatives to Soda Pop | conds: Healthy Nutrition | intr: OLIPOP prebiotic soda, Traditional sugar-sweetened cola
+- NCT06148662 | COMPLETED | results=False | PHASE4 | The Effect of Oral Sprays on Salivary pH | conds: Oral Health | intr: No intervention (negative control), Water (positive control), Dental foam "Biorepair PERIBIOMA", Den | pubs: ['38668005:DERIVED (new)']
+- NCT01174511 | UNKNOWN | results=False | PHASE1,PHASE2 | Evaluation of A-1 Cool Cream Efficacy for Treatment Atopic Dermatitis | conds: ATOPIC DERMATITIS | intr: A -1 Cool Cream,Vaselin ointment
+- NCT01688479 | COMPLETED | results=False | PHASE3 | Trial Comparing Calendula Officinalis With Aqueous Cream "Essex" to Treat Skin Reactions From Radiotherapy of Breast Cancer | conds: Postoperative Radiotherapy Breast Cancer | intr: Calendula Weleda cream (Weleda AG, Sweden) contains extracts of marigold plant (Calendula Officinali | pubs: ['23245940:RESULT (new)', '23953136:RESULT (new)']
+- NCT01049373 | COMPLETED | results=True | PHASE3 | Efficacy and Safety of Lymphdiaral Basistropfen (HDC) in the Treatment of Chronic Low-back Pain | conds: Low Back Pain | intr: HDC, Placebo solution
+- NCT05649735 | COMPLETED | results=False | NA | EFFICACY AND SAFETY OF OVA AND LAVAGE MEDICAL DEVICES IN THE TREATMENT OF NON-SPECIFIC VULVOVAGINITIS | conds: Vaginosis, Bacterial | intr: Logusgyn ovules, Logusgyn Lavander, Placebo
+- NCT04683263 | COMPLETED | results=False | NA | Immediate and Mid-term Effect of a Natural Topical Product in Patients With Musculoskeletal Pain | conds: Musculoskeletal Pain, Chronic Pain, Joint Pain, Stiffness of Unspecified Joint, Not Elsewhere Classified | intr: Placebo, Fisiocrem
+- NCT05810194 | COMPLETED | results=False |  | Retrospective Cohort Study Comparing a Novel Gel Dressing vs SoC in the Treatment of Radiation Dermatitis | conds: Radiation Dermatitis | intr: StrataXRT, Calendula, Aquaphor
+- NCT07927088 | COMPLETED | results=False | NA | Halova Vaginal Ovules Versus Placebo for Genitourinary Symptoms in Premenopausal Women | conds: Vaginal Dryness, Genitourinary Symptoms | intr: Halova vaginal ovules, Placebo vaginal ovules
+- NCT07932990 | COMPLETED | results=False | NA | Halova Vaginal Ovules Versus Vaginal Estriol for Genitourinary Symptoms in Postmenopausal Women | conds: Genitourinary Syndrome of Menopause (GSM), Vaginal Dryness, Vulvo Vaginal Atrophy (VVA) | intr: Halova vaginal ovules, Estriol 0.5 mg vaginal ovules, Menopause-related education and counseling
+- NCT07742241 | COMPLETED | results=False | NA | Efficacy Study of a Repairing Cream in Atopic Dermatitis | conds: Atopic Dermatitis (AD) | intr: Dermcontrol, cream based on hyaluronic acid and sh-oligopeptide-1
+- NCT02394366 | COMPLETED | results=False | PHASE2 | Topical Salve for Skin Oxygenation and Blood Flow | conds: Skin Oxygenation, Peripheral Perfusion | intr: Original Healing Salve (OHS), OHS base only
+- NCT05073172 | WITHDRAWN | results=False | NA | StrataXRT for the Prevention and Treatment of Radiation Dermatitis in Breast Cancer or Head and Neck Cancer Patients | conds: Breast Carcinoma, Head and Neck Carcinoma, Radiation-Induced Dermatitis | intr: Calendula Ointment, Petrolatum-Mineral Oil-Lanolin-Ceresin Ointment, Polyethylene Glycol Hydrogel, S
+- NCT06574685 | COMPLETED | results=False | NA | Efficacy of Twinkle Eyez Supplementation in Improving Ocular Health and Immunity | conds: Dry Eye Disease, Immunity | intr: Twinkle Eyez Supplementation, Placebo
+- NCT04173247 | COMPLETED | results=True | NA | Study of KeraStat Cream for Radiation Dermatitis During Head and Neck Radiotherapy | conds: Head and Neck Cancer, Radiation Dermatitis | intr: KeraStat Cream, Routine Skin Care - Commercially Available Agents
+- NCT05616806 | UNKNOWN | results=False | NA | Long COVID-19 Intervention Using Digital Health & Technology | conds: Long COVID, Distress Tolerance | intr: iENDURE
+- NCT01437657 | COMPLETED | results=False | PHASE2 | MARIGOLD Study: A Study of RO4917523 Versus Placebo as Adjunctive Therapy in Patients With Major Depressive Disorder and an Inadequate Respo | conds: Major Depressive Disorder | intr: Placebo, RO4917523 0.5 mg, RO4917523 1.5 mg | pubs: ['27304433:DERIVED (new)']
+- NCT06896656 | ACTIVE_NOT_RECRUITING | results=False | NA | Improving Social Connectedness Through Digital Health to Enhance Recovery From OUD Among the Justice Involved Population | conds: Loneliness, Opioid Use Disorder | intr: Marigold Mobile Peer Support Intervention, Resources
+- NCT01964820 | COMPLETED | results=False | NA | Online Positive Emotion Skills Intervention for Symptoms of Depression | conds: Depression, Psychological Stress, Affect | intr: Positive Affect Skills Training | pubs: ['29871853:DERIVED (new)']
+- NCT07657936 | COMPLETED | results=False | NA | Eye Care Benefits of Anti-Aging Compound Capsules in Healthy Adults | conds: Eye Fatigue | intr: Anti-Aging Compound Capsules
+- NCT02861755 | COMPLETED | results=False | NA | Online Positive Emotion Skills Intervention for Symptoms of Depression | conds: Depression, Psychological Stress, Affect | intr: Positive Affect Skills Training, 5-week Emotion Reporting | pubs: ['37070017:DERIVED (new)', '34550076:DERIVED (new)', '29871853:DERIVED (new)']
+- NCT05405712 | ACTIVE_NOT_RECRUITING | results=False | NA | Mobile Peer Support for OUD Recovery | conds: Opioid Use Disorder | intr: Mobile Phone App
+
+### OpenAlex no-PMID trial-worded - 2571 hits, 47 without PMID, 47 new
+- new | 2026 | 10.37766/inplasy2026.7.0128 | study-registration | Topical Calendula officinalis for the prevention of radiation dermatitis in cancer patients undergoing radiotherapy: a systematic review and meta-analysis of randomized controlled  | 
+- new | 2026 | 10.56808/3027-7922.3386 | article | Efficacy of a mouthwash containing standardized Centella asiatica extract (ECa 233) in patients with gingivitis: A randomized double-blind placebo-controlled trial | The Thai Journal of Pharmaceutical Scien
+- new | 2026 | 10.3269/kgqx9t85 | article | EVALUATION OF THE EFFICACY OF CALENDULA OFFICINALIS TINCTURE IN SURGICAL WOUND CARE TREATMENT: A FACTORIAL MONOCENTRIC RANDOMIZED PHASE III SINGLE-BLIND CLINICAL STUDY | EuroMediterranean Biomedical Journal
+- new | 2026 | 10.70413/ejmns-v06-i10-s73258 | article | PHARMACOLOGICAL PROPERTIES OF CALENDULA OFFICINALIS | Eurasian Journal of Medical and Natural 
+- new | 2025 | 10.15218/edj.2025.20 | article | Evaluation of The Topical Effect of Calendula Officinalis Oral Paste in The Treatment of Recurrent Aphthous Stomatitis: A Randomized Double-Blind Controlled Trial | Erbil Dental Journal
+- new | 2025 | 10.53933/8xgwaq64 | article | Interdisciplinary Evaluation of Phytotherapy Resource Calendula Officinalis L. in Patients with Tuberculosis and Combined Pathologies | SSP Modern Pharmacy and Medicine
+- new | 2025 | 10.24271/psr.2025.545065.2345 | article | Antioxidant and Topical Efficacy of Calendula officinalis Rinse in Recurrent Aphthous Stomatitis | passer
+- new | 2025 | 10.35629/4494-100316781685 | article | A comprehensive review on Calendula officinalis | International Journal of Pharmaceutical 
+- new | 2024 | 10.1016/j.prenap.2024.100140 | article | Calendula officinalis - A comprehensive review | Pharmacological Research - Natural Produ
+- new | 2023 | 10.5812/ijcm-125163 | article | Topical Phenytoin Versus Placebo in the Management of Acute Radiation-Induced Dermatitis in Patients with Breast Cancer: A Double-Blind Randomized Controlled Trial | International Journal of Cancer Manageme
+- new | 2023 | 10.36948/ijfmr.2023.v05i06.10230 | article | A Short-term Comparative Evaluation of Efficacy of Hydroalcoholic Herbal Phytonutrient Mouthrinse as an Adjunct with Scaling & Root Planning in Old Age Home Inmates with Chronic Pe | International Journal For Multidisciplin
+- new | 2023 | 10.52711/0975-4385.2023.00002 | article | A Review on Calendula officinalis | Research Journal of Pharmacognosy and Ph
+- new | 2023 | 10.29024/pins.31 | article | Effectiveness of Complementary Therapies in the Management of Wounds Among Adult Patients | Practical Implementation of Nursing Scie
+- new | 2023 | 10.31579/2835-8465/009 | article | Calendula (Calendula officinalis) Marigold as Medicinal Plant | Orthopedics Case Reports
+- new | 2022 | 10.19080/oroaj.2022.20.556028 | article | Immediate and Mid-Term Effect of a Natural Topical Product in Patients with Musculoskeletal Pain: Randomized, Double-Blinded, and Placebo-Controlled Clinical Trial | Orthopedics and Rheumatology Open Access
+- new | 2022 | 10.1016/j.inoche.2022.109486 | article | Protective effect of the gold nanoparticles green synthesized by Calendula officinalis L. extract on cerebral ischemia stroke-reperfusion injury in rats: A preclinical trial study | Inorganic Chemistry Communications
+- new | 2021 | 10.51415/10321/4050 | dissertation | A placebo-controlled in-vivo study of the effect of four musical imponderabilia on the growth of Calendula officinalis plants | DUT Open Scholar (Durban University of T
+- new | 2021 | 10.1186/s40816-021-00316-x | article | Evaluation of clinical trials of the plants, which have ethnobotanical uses for skin disorders in Turkey: a review | Clinical Phytoscience
+- new | 2021 | 10.3390/app11188586 | article | Management of Gingival Bleeding in Periodontal Patients with Domiciliary Use of Toothpastes Containing Hyaluronic Acid, Lactoferrin, or Paraprobiotics: A Randomized Controlled Clin | Applied Sciences
+- new | 2021 | 10.20510/ukjpb/9/i1/1609684673 | article | Mechanism of Action of Wound Healing Activity of Calendula officinalis: A Comprehensive Review | Pharmaceutical and Biosciences Journal
+- new | 2021 | 10.21518/1995-1477-2021-18-1-72-80 | article | Treatment of hemorrhoids in a comorbid patient: selection of a preparation of plant origin | Ambulatornaya khirurgiya = Ambulatory Su
+- new | 2020 | 10.1055/s-0040-1702117 | conference-paper | Usage Protocol Study of Calendula officinalis compared to Chlorhexidine in Oral Hygiene of Patients Admitted in the Intensive Care Unit | Homeopathy
+- new | 2020 | 10.15407/ubj92.04.077 | article | Anti-inflammatory and hepatoprotective effects of polyherbal composition in patients with chronic cholecystitis | The Ukrainian Biochemical Journal
+- new | 2019 | 10.1016/j.phytol.2019.02.030 | article | Effect of jasmonic acid and chitosan on triterpenoid production in Calendula officinalis hairy root cultures | Phytochemistry Letters
+- new | 2018 | 10.18502/pbr.v4i2.214 | article | Phytochemical ingredients and pharmacological potential of Calendula officinalis Linn. | Pharmaceutical and Biomedical Research
+- new | 2016 | 10.34101/actaagrar/68/1771 | article | The examination of the marigold’s (Calendula officinalis L.) nutrient requirement in small-plot trial | Acta Agraria Debreceniensis
+- new | 2016 | 10.34101/actaagrar/70/1818 | article | The marigold (Calendula officinalis L.) drug essential oil agents change under different fertilization settings in small plot trial | Acta Agraria Debreceniensis
+- new | 2016 | 10.1016/j.ijnss.2015.12.001 | article | Use of calendula cream balm to medicate the feet of diabetic patients: Case series | International Journal of Nursing Science
+- new | 2016 | 10.4025/actasciagron.v38i1.25976 | article | Growth, development and content of flavonoids in calendula (Calendula officinalis L.) | Acta Scientiarum Agronomy
+- new | 2015 | 10.9734/ejmp/2015/16697 | article | Effects of Chemical and Biological Fertilizers on Morpho-Physiological Traits of Marigold (Calendula officinalis L.) | European Journal of Medicinal Plants
+- new | 2014 | 10.1590/0034-737x201461060014 | article | Effect of biostimulant application on production and flavonoid content of marigold (Calendula officinalis L.) | Revista CERES
+- new | 2013 | 10.4102/hsag.v18i1.680 | article | A Randomised Pilot Study on the Efficacy of Milking Cream and a Homeopathic Complex Topical Cream on Diaper Dermatitis | Health SA Gesondheid
+- new | 2013 | https://openalex.org/W2188464013 | article | Phenotypic variation and genetic diversity of Calendula officinalis (L.) | Bulgarian Journal of Agricultural Scienc
+- new | 2012 | 10.1016/s0923-7534(20)33617-6 | article | Anti Oxidant Capacity of Calendula Officinalis Flowers Extract and Prevention of Radiation Induced Oropharyngeal Mucositis in Patients with Head and Neck Cancers: A Randomized Cont | Annals of Oncology
+- new | 2012 | https://openalex.org/W1572238096 | article | Clinical trial of a herbal topical cream in treatment of acne vulgaris | Research in Pharmaceutical Sciences
+- new | 2012 | 10.5897/sre11.630 | article | Pot marigold (Calendula officinalis) medicinal usage and cultivation | Scientific Research and Essays
+- new | 2012 | https://openalex.org/W2596595138 | article | Effect of Humic Acid on Yield and Quality of Marigold(Calendula officinalis L.) | Annals of biological research
+- new | 2012 | https://openalex.org/W1522528185 | article | Impact of exogenous salicylic acid on growth and ornamental characteristics of calendula (Calendula officinalis L.) under salinity stress | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2011 | https://openalex.org/W2188756285 | article | Effects of priming on seed germination of marigold (Calendula officinalis). | Advances in Environmental Biology
+- new | 2011 | 10.5897/ajmr10.368 | article | Evaluation of various functional skin parameters using a topical cream of Calendula officinalis extract | African Journal of Pharmacy and Pharmaco
+- new | 2010 | https://openalex.org/W2253341123 | article | EFFECTS OF CALENDULA OFFICINALIS EXTRACT ON BACTERIA ISOLATED FROM PATIENTS WITH CELLULITIS | 
+- new | 2010 | 10.1007/s00580-010-1087-1 | article | Effects of topical application of Calendula officinalis gel on collagen and hydroxyproline content of skin in rats | Comparative Clinical Pathology
+- new | 2008 | https://openalex.org/W1547925581 | article | Antibacterial activity of antipsoriatic herbs: Cassia tora, Momordica charantia and Calendula officinalis | International journal of applied researc
+- new | 2006 | https://openalex.org/W2339660797 | article | Evaluation of different organic fertilization techniques in floriculture: experimental trial on Calendula officinalis | Colture Protette (Italy)
+- new | 2002 | 10.17660/actahortic.2002.576.30 | conference-paper | CULTIVATION TRIALS OF SOME AROMATIC AND MEDICINAL PLANTS IN A SEMI-ARID MEDITERRANEAN ENVIRONMENT | Acta Horticulturae
+- new | 2000 | 10.1080/01140671.2000.9514120 | article | Effect of plant population on calendula ( Calendula officinalis L.) flower production | New Zealand Journal of Crop and Horticul
+- new | 1997 | 10.1002/(sici)1099-1026(199703)12:2<85::aid-ffj616>3.0.co;2-l | article | Effects of Harvesting Date and Climate on the Flavonoid and Carotenoid Contents of Marigold (Calendula officinalis L.) | Flavour and Fragrance Journal
+
+## camellia-sinensis (Camellia sinensis) - name clause: "Camellia sinensis"[tiab] OR "green tea"[ti] OR "black tea"[ti] OR "tea extract"[ti] OR "tea catechins"[ti] OR "EGCG"[ti] OR "epigallocatechin gallate"[ti]
+
+### PubMed HT - 1006 hits, 200 not already listed above, 197 new
+- new | 2026 | 42688668 | Review | Epigallocatechin gallate in dentistry: Therapeutic applications, biomaterial integration, and translational challenges. | J Dent Sci
+- new | 2026 | 41484421 |  | Cognitive and transcriptomic effects of Epigallocatechin gallate in fetal alcohol spectrum disorders. | Sci Rep
+- new | 2026 | 43009441 |  | Green Tea Extract Decreases the Systemic Exposure of Pazopanib in Healthy Participants. | Clin Pharmacol Ther
+- new | 2026 | 41772671 |  | Potential of green tea extract to suppress colorectal polyp development in patients with familial adenomatous polyposis: a double-blind, randomized controlled trial Japan Familial  | Genes Environ
+- new | 2026 | 42944925 | Published Erratum | Correction: Effects of green tea use on the metabolic profile of postmenopausal women: systematic review and meta-analysis. | Eur J Nutr
+- new | 2026 | 42846898 | Clinical Trial | Enhanced bioavailability and short-term safety of a micellar green tea extract formulation co-delivered with N-acetylcysteine: a randomized crossover study in healthy adults. | Front Nutr
+- new | 2026 | 42613905 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Epigallocatechin Gallate Supplementation on Inflammation, Iron Status, and Metabolomic Profiles in Women With Obesity: A Pilot Randomized Controlled Trial. | Mol Nutr Food Res
+- new | 2025 | 39861342 | Review | Role of Epigallocatechin Gallate in Selected Malignant Neoplasms in Women. | Nutrients
+- new | 2025 | 41010475 | Randomized Controlled Trial | Synergistic Effects of Green Tea Extract and Ginger Supplementation on Endurance Performance and Thermal Perception in Normothermic and Cold Environments: A Randomized, Placebo-Con | Nutrients
+- new | 2025 | 41041408 |  | Assessing the Impact of Green Tea Extract on Postoperative Pain Control in Children Undergoing Orthodontic Extractions: A Split-mouth, Randomized, Controlled, Double-blinded Trial. | Int J Clin Pediatr Dent
+- new | 2025 | 39798133 |  | Adjuvant effect of green tea intake on treatment of patients with acute venous thromboembolism. | QJM
+- new | 2025 | 40832777 | Systematic Review/Meta-Analysis | Green Tea and Epigallocatechin Gallate (EGCG) for Cancer Prevention: A Systematic Review and Meta-Analysis. | Am J Chin Med
+- new | 2025 | 41149657 |  | A Pilot Study: Comparative Effects of Green Tea Extract and Duloxetine on Oxaliplatin-Induced Allodynia in a Murine Model. | Metabolites
+- new | 2025 | 40546664 | Clinical Trial | Evaluation of the clinical efficacy of green tea extract gel as local drug delivery for periodontitis. | World J Exp Med
+- new | 2025 | 40529527 |  | The Effect of Green Tea Beverage on Blood Cardiometabolic Risk Biomarkers in Dyslipidemia Subjects. | Food Sci Nutr
+- new | 2025 | 40308148 | Randomized Controlled Trial | Time-of-day-dependent effects of a green tea extract on postprandial glycemia and insulinemia in healthy adults: a randomized, controlled, double-blind, cross-over intervention. | Food Funct
+- new | 2024 | 38031409 | Meta-Analysis/Systematic Review | The effects of green tea extract supplementation on body composition, obesity-related hormones and oxidative stress markers: a grade-assessed systematic review and dose-response me | Br J Nutr
+- new | 2024 | 40296492 | Review | Interaction Risk: Green Tea Consumption in Patients Taking Alprazolam. | Drug Metab Bioanal Lett
+- new | 2024 | 37082776 | Systematic Review/Meta-Analysis | Effects of green tea on lipid profile in overweight and obese women. | Int J Vitam Nutr Res
+- new | 2024 | 39338571 |  | Treatment with Epigallocatechin Gallate, Folic Acid, Vitamin B12, and Hyaluronic Acid Decreases HPV Positivity in Women Attending Regional Screening in Puglia. | Microorganisms
+- new | 2024 | 39346413 |  | Comparative Study to Assess the Effects on Blood Pressure of Drinking Green and Black Tea among Hypertensive Patients. | J Pharm Bioallied Sci
+- new | 2024 | 39494829 |  | Interaction between green tea and metformin and its effects on oxidative stress and inflammation in overweight women: a randomised clinical trial. | Br J Nutr
+- new | 2024 | 37707596 |  | Combination of tea catechins and ornithine effectively activates the urea cycle: an in vitro and human pilot study. | Eur J Appl Physiol
+- new | 2024 | 38737668 | Randomized Controlled Trial | The effects of green tea tablets and metformin on ovulation and menstrual cycle regularity in women with polycystic ovary syndrome. | J Med Life
+- new | 2024 | 38430822 | Randomized Controlled Trial/Research Support, U.S. Gov't, Non-P.H.S. | A green tea extract confection decreases circulating endotoxin and fasting glucose by improving gut barrier function but without affecting systemic inflammation: A double-blind, pl | Nutr Res
+- new | 2023 | 33593083 | Systematic Review | Green tea and green tea extract in oncological treatment: A systematic review. | Int J Vitam Nutr Res
+- new | 2023 | 37403052 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Matcha green tea beverage moderates fatigue and supports resistance training-induced adaptation. | Nutr J
+- new | 2023 | 37775584 | Randomized Controlled Trial | Effect of a gel containing green tea extract and hyaluronic acid on palate pain scores and wound healing after free gingival graft: a quasi-randomized controlled clinical trial. | Clin Oral Investig
+- new | 2023 | 36966738 |  | Association of Coffee or Green Tea with Ferritin or Hemoglobin in Premenopausal Women. | Korean J Fam Med
+- new | 2023 | 36678191 | Randomized Controlled Trial | Assessing the Hepatic Safety of Epigallocatechin Gallate (EGCG) in Reproductive-Aged Women. | Nutrients
+- new | 2023 | 37097224 |  | Green tea intake and the risk of hypertension in premenopausal women: the TCLSIH cohort study. | Food Funct
+- new | 2023 | 36960015 |  | Evaluation of the effect of green tea extract on postoperative pain management following surgical removal of impacted mandibular third molar. | Dent Res J (Isfahan)
+- new | 2023 | 36178169 | Randomized Controlled Trial | Hepatotoxicity with High-Dose Green Tea Extract: Effect of Catechol-O-Methyltransferase and Uridine 5'-Diphospho-glucuronosyltransferase 1A4 Genotypes. | J Diet Suppl
+- new | 2023 | 37789046 | Research Support, Non-U.S. Gov't | Effects of tea, catechins and catechin derivatives on Omicron subvariants of SARS-CoV-2. | Sci Rep
+- new | 2023 | 38234497 |  | Acute effects of (-)-gallocatechin gallate-rich green tea extract on the cerebral hemodynamic response of the prefrontal cortex in healthy humans. | Front Neuroergon
+- new | 2023 | 36864990 |  | Evaluating the Effects of Camellia Sinensis (Green Tea) and Teucrium Polium Extracts on Salivary Streptococcus Mutans Levels in Children. | J Dent (Shiraz)
+- new | 2023 | 36594273 | Randomized Controlled Trial | Improvements in gait and balance in patients with multiple sclerosis after treatment with coconut oil and epigallocatechin gallate. A pilot study. | Food Funct
+- new | 2023 | 37960167 |  | Long-Term Consumption of Green Tea Can Reduce the Degree of Depression in Postmenopausal Women by Increasing Estradiol. | Nutrients
+- new | 2023 | 36695951 | Randomized Controlled Trial | The polyphenol epigallocatechin gallate lowers circulating catecholamine concentrations and alters lipid metabolism during graded exercise in man: a randomized cross-over study. | Eur J Nutr
+- new | 2023 | 36347450 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute green tea intake attenuates circulating microRNA expression induced by a high-fat, high-saturated meal in obese women: A randomized crossover study. | J Nutr Biochem
+- new | 2022 | 36037468 |  | Summary for Patients: Black Tea Consumption and Risk for Death. | Ann Intern Med
+- new | 2022 | 35504067 | Meta-Analysis/Systematic Review | Green tea promotes weight loss in women with polycystic ovary syndrome: Systematic review and meta-analysis. | Nutr Res
+- new | 2022 | 35323719 | Review | Salubrious Effects of Green Tea Catechins on Fatty Liver Disease: A Systematic Review. | Medicines (Basel)
+- new | 2022 | 35399656 |  | Effect of Green Tea Extract and Soy Isoflavones on the Pharmacokinetics of Rosuvastatin in Healthy Volunteers. | Front Nutr
+- new | 2022 | 34966132 |  | Effectiveness of green tea extract (Camellia sinensis) capsule supplementation for post-exercise muscle recovery in healthy adults: a systematic review protocol. | JBI Evid Synth
+- new | 2022 | 34965006 | Randomized Controlled Trial | Effect of green tea extract loaded chitosan microparticles on facial skin: A split-face, double-blind, randomized placebo-controlled study. | J Cosmet Dermatol
+- new | 2022 | 35685887 |  | Effects of Soy Isoflavones and Green Tea Extract on Simvastatin Pharmacokinetics and Influence of the SLCO1B1 521T > C Polymorphism. | Front Nutr
+- new | 2022 | 35594703 | Randomized Controlled Trial | The influence of green tea extract on nintedanib's bioavailability in patients with pulmonary fibrosis. | Biomed Pharmacother
+- new | 2022 | 35791616 |  | Therapeutic effectiveness of green tea leaf extract on clinical symptoms in children suffering viral gastroenteritis: A randomized clinical trial. | Eur J Transl Myol
+- new | 2022 | 35213393 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Green Tea Extract to Prevent Colorectal Adenomas, Results of a Randomized, Placebo-Controlled Clinical Trial. | Am J Gastroenterol
+- new | 2022 | 35951014 | Clinical Trial, Phase I/Randomized Controlled Trial | Safety and preliminary efficacy on cognitive performance and adaptive functionality of epigallocatechin gallate (EGCG) in children with Down syndrome. A randomized phase Ib clinica | Genet Med
+- new | 2022 | 35279873 | Randomized Controlled Trial | Ultraviolet radiation-induced degradation of dermal extracellular matrix and protection by green tea catechins: a randomized controlled trial. | Clin Exp Dermatol
+- new | 2022 | 36235549 | Randomized Controlled Trial | Effect of Green Tea Extract Ingestion on Fat Oxidation during Exercise in the Menstrual Cycle: A Pilot Study. | Nutrients
+- new | 2022 | 36558368 | Randomized Controlled Trial | A 60-Day Green Tea Extract Supplementation Counteracts the Dysfunction of Adipose Tissue in Overweight Post-Menopausal and Class I Obese Women. | Nutrients
+- new | 2022 | 35678032 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Exposure of Fexofenadine, but Not Pseudoephedrine, Is Markedly Decreased by Green Tea Extract in Healthy Volunteers. | Clin Pharmacol Ther
+- new | 2021 | 33622766 | Clinical Trial, Phase II/Randomized Controlled Trial | Epigallocatechin Gallate in Progressive MS: A Randomized, Placebo-Controlled Trial. | Neurol Neuroimmunol Neuroinflamm
+- new | 2021 | 32911881 | Meta-Analysis | Green Tea Consumption and Stomach Cancer Risk in Women: A Meta-analysis of Population-Based Cohort Studies. | Cancer Res Treat
+- new | 2021 | 32666694 | Letter | Green tea extract as a successful topical treatment option in children with perianal condylomata. | J Dtsch Dermatol Ges
+- new | 2021 | 33517103 | Randomized Controlled Trial | Green tea extract for mild-to-moderate diabetic peripheral neuropathy A randomized controlled trial. | Complement Ther Clin Pract
+- new | 2021 | 33762428 | Clinical Trial, Phase II/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Epigallocatechin Gallate in Relapsing-Remitting Multiple Sclerosis: A Randomized, Placebo-Controlled Trial. | Neurol Neuroimmunol Neuroinflamm
+- new | 2021 | 34178857 |  | Hydro alcoholic green tea extract effect on high fat diet treated NMRI mice and 3T3L1 cells. | J Diabetes Metab Disord
+- new | 2021 | 34356308 | Review | Green Tea and Epigallocatechin Gallate (EGCG) for the Management of Nonalcoholic Fatty Liver Diseases (NAFLD): Insights into the Role of Oxidative Stress and Antioxidant Mechanism. | Antioxidants (Basel)
+- new | 2021 | 34788550 | Randomized Controlled Trial | Green Tea Extract Increases Soluble RAGE and Improves Renal Function in Patients with Diabetic Nephropathy. | J Med Food
+- new | 2021 | 34606551 | Randomized Controlled Trial | Concomitant use of tea catechins affects absorption and serum triglyceride-lowering effects of monoglucosyl hesperidin. | Food Funct
+- new | 2021 | 34816896 |  | Protective effect of green tea catechins on eroded human dentin: an in vitro/in situ study. | Braz Oral Res
+- new | 2021 | 33210993 |  | Impact of green tea intake on the pharmacokinetics of celiprolol in healthy subjects. | Int J Clin Pharmacol Ther
+- new | 2021 | 35010962 |  | Relationship between Regular Green Tea Intake and Osteoporosis in Korean Postmenopausal Women: A Nationwide Study. | Nutrients
+- new | 2021 | 34578903 |  | Investigation of the Oral Retention of Tea Catechins in Humans: An Exploratory Interventional Study. | Nutrients
+- new | 2021 | 33569708 | Randomized Controlled Trial | Acute effect of green tea catechins on uric acid metabolism after alcohol ingestion in Japanese men. | Clin Rheumatol
+- new | 2021 | 34836149 | Randomized Controlled Trial | Green Tea Extract Concurrent with an Oral Nutritional Supplement Acutely Enhances Muscle Microvascular Blood Flow without Altering Leg Glucose Uptake in Healthy Older Adults. | Nutrients
+- new | 2021 | 34576945 |  | Effects of Long-Term Storage on Radical Scavenging Properties and Phenolic Content of Kombucha from Black Tea. | Molecules
+- HELD REF-1961 | 2020 | 32118296 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Green tea (Camellia sinensis) for the prevention of cancer. | Cochrane Database Syst Rev
+- new | 2020 | 31895874 | Review | Protective Effect of Epigallocatechin Gallate on Endothelial Disorders in Atherosclerosis. | J Cardiovasc Pharmacol
+- new | 2020 | 32942205 | Meta-Analysis/Systematic Review | The pharmacological activity of epigallocatechin-3-gallate (EGCG) on Alzheimer's disease animal model: A systematic review. | Phytomedicine
+- new | 2020 | 32438698 |  | Bioavailability of Epigallocatechin Gallate Administered With Different Nutritional Strategies in Healthy Volunteers. | Antioxidants (Basel)
+- new | 2020 | 32320490 | Clinical Trial, Phase III/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of single green tea ingestion on pharmacokinetics of nadolol in healthy volunteers. | Br J Clin Pharmacol
+- new | 2020 | 33024552 | Randomized Controlled Trial | Green tea influence on iron overload in thalassemia intermedia patients: a randomized controlled trial. | F1000Res
+- new | 2020 | 32289742 | Meta-Analysis/Systematic Review | Effect of green tea extract on lipid profile in patients with type 2 diabetes mellitus: A systematic review and meta-analysis. | Diabetes Metab Syndr
+- new | 2020 | 32650342 |  | Protective Role of EGCG Against Malathion Induced Genotoxicity Using Human Lymphocytes. | Drug Res (Stuttg)
+- new | 2020 | 33207822 | Review | Osteoprotective Roles of Green Tea Catechins. | Antioxidants (Basel)
+- new | 2020 | 33298624 |  | Lipid-Lowering Effects of Concurrent Training and Green Tea Consumption in Overweight Women. | J Obes Metab Syndr
+- new | 2020 | 31997084 | Randomized Controlled Trial | Effects of Green Tea Extract on Atorvastatin Pharmacokinetics in Healthy Volunteers. | Eur J Drug Metab Pharmacokinet
+- new | 2020 | 32271452 |  | Vitamin D plus epigallocatechin gallate: a novel promising approach for uterine myomas. | Eur Rev Med Pharmacol Sci
+- new | 2020 | 32104042 |  | Consumption of Polyphenols in Coffee and Green Tea Alleviates Skin Photoaging in Healthy Japanese Women. | Clin Cosmet Investig Dermatol
+- new | 2020 | 31062079 | Randomized Controlled Trial | Effect of tea catechins with caffeine on energy expenditure in middle-aged men and women: a randomized, double-blind, placebo-controlled, crossover trial. | Eur J Nutr
+- new | 2020 | 33312479 |  | Effects of Short-Term Green Tea Extract Supplementation on VO(2) Max and Inflammatory and Antioxidant Responses of Healthy Young Men in a Hot Environment. | Int J Prev Med
+- new | 2020 | 32690834 | Randomized Controlled Trial | Chemopreventive Synergism between Green Tea Extract and Curcumin in Patients with Potentially Malignant Oral Disorders: A Double-blind, Randomized Preliminary Study. | J Contemp Dent Pract
+- new | 2019 | 31577096 | Meta-Analysis/Review | Green tea catechins for chemoprevention of prostate cancer in patients with histologically-proven HG-PIN or ASAP. Concise review and meta-analysis. | Arch Ital Urol Androl
+- new | 2019 | 30985669 |  | Green tea extract for treatment of cancers: A systematic review protocol. | Medicine (Baltimore)
+- new | 2019 | 30835136 |  | Effect of Black Tea and Green Tea on the Radial Pulse Spectrum in Healthy Humans. | J Altern Complement Med
+- new | 2019 | 31064352 |  | Green tea extract catechin improves cardiac function in pediatric cardiomyopathy patients with diastolic dysfunction. | J Biomed Sci
+- new | 2019 | 31592118 |  | Nanoemulsions of Green Tea Catechins and Other Natural Compounds for the Treatment of Urinary Tract Infection: Antibacterial Analysis. | Adv Pharm Bull
+- new | 2019 | 31192690 |  | Green tea supplementation improves oxidative stress biomarkers and modulates IL-6 circulating levels in obese women. | Nutr Hosp
+- new | 2019 | 30501915 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Olive leaf tea may have hematological health benefit over green tea. | Clin Nutr
+- new | 2019 | 31084381 | Randomized Controlled Trial | Effect of green tea extract on arterial stiffness, lipid profile and sRAGE in patients with type 2 diabetes mellitus: a randomised, double-blind, placebo-controlled trial. | Int J Food Sci Nutr
+- new | 2019 | 30898134 | Randomized Controlled Trial | Effects of medium-term green tea extract supplementation combined with CrossFit workout on blood antioxidant status and serum brain-derived neurotrophic factor in young men: a pilo | J Int Soc Sports Nutr
+- new | 2019 | 30712716 | Randomized Controlled Trial | Green tea as an adjunctive therapy for treatment of acute uncomplicated cystitis in women: A randomized clinical trial. | Complement Ther Clin Pract
+- new | 2019 | 31883255 | Randomized Controlled Trial | Comparative Evaluation of Efficacy of "Green Tea" and "Green Tea with Xylitol" Mouthwashes on the Salivary Streptococcus mutans and Lactobacillus Colony Count in Children: A Random | J Contemp Dent Pract
+- new | 2019 | 31111111 |  | Stress-reducing effect of cookies containing matcha green tea: essential ratio among theanine, arginine, caffeine and epigallocatechin gallate. | Heliyon
+- new | 2019 | 31571786 |  | Effect of Green Tea Extract Mouthwash on Salivary Streptococcus mutans Counts in a Group of Preschool Children: An In Vivo Study. | Int J Clin Pediatr Dent
+- new | 2019 | 30912296 | Randomized Controlled Trial | Regular consumption of green tea improves pulse pressure and induces regression of left ventricular hypertrophy in hypertensive patients. | Physiol Rep
+- new | 2018 | 29345213 | Randomized Controlled Trial | Matcha Green Tea Drinks Enhance Fat Oxidation During Brisk Walking in Females. | Int J Sport Nutr Exerc Metab
+- new | 2018 | 30127247 | Randomized Controlled Trial | Acute Epigallocatechin 3 Gallate (EGCG) Supplementation Delays Gastric Emptying in Healthy Women: A Randomized, Double-Blind, Placebo-Controlled Crossover Study. | Nutrients
+- new | 2018 | 30701033 | Review | Green tea extract for prevention of prostate cancer progression in patients on active surveillance. | Oncotarget
+- new | 2018 | 29429153 | Review | Cancer Prevention with Green Tea and Its Principal Constituent, EGCG: from Early Investigations to Current Focus on Human Cancer Stem Cells. | Mol Cells
+- new | 2018 | 29974764 |  | Green tea supplementation promotes leukocyte telomere length elongation in obese women. | Nutr Hosp
+- new | 2018 | 28034564 | Randomized Controlled Trial | Acute black tea consumption improves cutaneous vascular function in healthy middle-aged humans. | Clin Nutr
+- new | 2018 | 30174618 |  | Green Tea Extract Preserves Neuromuscular Activation and Muscle Damage Markers in Athletes Under Cumulative Fatigue. | Front Physiol
+- new | 2018 | 29368187 | Randomized Controlled Trial | Lack of pharmacokinetic interaction between fluvastatin and green tea in healthy volunteers. | Eur J Clin Pharmacol
+- new | 2018 | 29484360 |  | The Effects of Green Tea Extract on Working Memory in Healthy Women. | J Nutr Health Aging
+- new | 2018 | 30022812 |  | Effect of green tea catechins on the pharmacokinetics of digoxin in humans. | Drug Des Devel Ther
+- new | 2018 | 29290208 | Randomized Controlled Trial | Quality of life among postmenopausal women enrolled in the Minnesota Green Tea Trial. | Maturitas
+- new | 2018 | 29361988 | Randomized Controlled Trial | Black tea aroma inhibited increase of salivary chromogranin-A after arithmetic tasks. | J Physiol Anthropol
+- new | 2018 | 29480324 | Randomized Controlled Trial | Role of (-)-epigallocatechin gallate in the pharmacokinetic interaction between nadolol and green tea in healthy volunteers. | Eur J Clin Pharmacol
+- new | 2018 | 30308973 | Randomized Controlled Trial | Stress-Reducing Function of Matcha Green Tea in Animal Experiments and Clinical Trials. | Nutrients
+- new | 2018 | 30080229 | Randomized Controlled Trial | A Combination of Essential Fatty Acids, Panax Ginseng Extract, and Green Tea Catechins Modifies Brain fMRI Signals in Healthy Older Adults. | J Nutr Health Aging
+- new | 2018 | 30411751 | Randomized Controlled Trial | Effect of adding milk to black tea on vascular function in healthy men and women: a randomised controlled crossover trial. | Food Funct
+- new | 2018 | 28038881 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Green tea (Camellia sinensis) for patients with knee osteoarthritis: A randomized open-label active-controlled clinical trial. | Clin Nutr
+- new | 2018 | 29332714 | Letter/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Oral green tea catechins do not provide photoprotection from direct DNA damage induced by higher dose solar simulated radiation: A randomized controlled trial. | J Am Acad Dermatol
+- new | 2018 | 29746891 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of green tea extract supplementation on exercise-induced delayed onset muscle soreness and muscular damage. | Physiol Behav
+- new | 2018 | 29750437 | Research Support, Non-U.S. Gov't | Green Tea Liquid Consumption Alters the Human Intestinal and Oral Microbiome. | Mol Nutr Food Res
+- new | 2018 | 29482377 |  | Green tea supplementation upregulates uncoupling protein 3 expression in severe obese women adipose tissue but does not promote weight loss. | Int J Food Sci Nutr
+- new | 2018 | 29992110 |  | Impact of green tea extract on serum lipid of postmenopausal women: A randomized controlled trial. | J Tradit Complement Med
+- new | 2017 | 28868822 | Review | The Effectiveness of Green Tea or Green Tea Extract on Insulin Resistance and Glycemic Control in Type 2 Diabetes Mellitus: A Meta-Analysis. | Diabetes Metab J
+- new | 2017 | 25849609 | Comparative Study/Meta-Analysis/Review | Camellia sinensis in asymptomatic hyperuricemia: A meta-analysis of tea or tea extract effects on uric acid levels. | Crit Rev Food Sci Nutr
+- new | 2017 | 28203607 |  | Epigallocatechin gallate: A useful therapy for cognitive disability in Down syndrome? | Neurogenesis (Austin)
+- new | 2017 | 27883924 | Meta-Analysis/Systematic Review | Physiological effects of epigallocatechin-3-gallate (EGCG) on energy expenditure for prospective fat oxidation in humans: A systematic review and meta-analysis. | J Nutr Biochem
+- new | 2017 | 28434461 |  | Effect of black tea consumption on radial blood pulse spectrum and cognitive health. | Complement Ther Med
+- new | 2017 | 27815860 | Clinical Trial, Phase II/Randomized Controlled Trial | Phase 2 trial of daily, oral epigallocatechin gallate in patients with light-chain amyloidosis. | Int J Hematol
+- new | 2017 | 28904061 | Clinical Trial, Phase II/Randomized Controlled Trial | A Randomized Controlled Trial of Green Tea Extract Supplementation and Mammographic Density in Postmenopausal Women at Increased Risk of Breast Cancer. | Cancer Prev Res (Phila)
+- new | 2017 | 28631582 | Controlled Clinical Trial | Effect of green tea extract supplementation on glycogen replenishment in exercised human skeletal muscle. | Br J Nutr
+- new | 2017 | 29067068 |  | Therapeutic benefits of green tea extract on various parameters in non-alcoholic fatty liver disease patients. | Pak J Med Sci
+- new | 2017 | 28566632 | Randomized Controlled Trial | Anti-stress Effect of Green Tea with Lowered Caffeine on Humans: A Pilot Study. | Biol Pharm Bull
+- new | 2017 | 28585735 | Randomized Controlled Trial | A Randomized, Double-blind, Placebo-controlled Clinical Trial Examining the Effects of Green Tea Extract on Systemic Lupus Erythematosus Disease Activity and Quality of Life. | Phytother Res
+- new | 2017 | 28584836 |  | Effect of green tea on metabolic and hormonal aspect of polycystic ovarian syndrome in overweight and obese women suffering from polycystic ovarian syndrome: A clinical trial. | J Educ Health Promot
+- new | 2017 | 28384900 |  | Efficacy of Green Tea Extract for Treatment of Dry Eye and Meibomian Gland Dysfunction; A Double-blind Randomized Controlled Clinical Trial Study. | J Clin Diagn Res
+- new | 2017 | 28969404 | Clinical Trial, Phase II/Randomized Controlled Trial | Effect of green tea catechins in patients with high-grade prostatic intraepithelial neoplasia: Results of a short-term double-blind placebo controlled phase II clinical trial. | Arch Ital Urol Androl
+- new | 2017 | 28492194 | Comparative Study/Randomized Controlled Trial | Comparison of the Streptococcus mutans and Lactobacillus colony count changes in saliva following chlorhexidine (0.12%) mouth rinse, combination mouth rinse, and green tea extract  | J Indian Soc Pedod Prev Dent
+- new | 2017 | 29228755 |  | Long-term supplementation of decaffeinated green tea extract does not modify body weight or abdominal obesity in a randomized trial of men at high risk for prostate cancer. | Oncotarget
+- new | 2017 | 28394429 | Letter | Possible use of epigallocatechin-3-gallate (EGCG) as prevention of radio dermatitis in radiotherapy treated breast cancer patients. | Dermatol Ther
+- new | 2017 | 28244612 |  | The Impact of Green Tea Supplementation on Anthropometric Indices and Inflammatory Cytokines in Women with Polycystic Ovary Syndrome. | Phytother Res
+- new | 2017 | 28536463 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Tea-induced improvement of endothelial function in humans: No role for epigallocatechin gallate (EGCG). | Sci Rep
+- new | 2016 | 27062963 | Randomized Controlled Trial | Does supplementation with green tea extract improve acne in post-adolescent women? A randomized, double-blind, and placebo-controlled clinical trial. | Complement Ther Med
+- new | 2016 | 26093535 | Randomized Controlled Trial | Therapeutic effect of high-dose green tea extract on weight reduction: A randomized, double-blind, placebo-controlled clinical trial. | Clin Nutr
+- new | 2016 | 27324590 | Systematic Review | Systematic review of green tea epigallocatechin gallate in reducing low-density lipoprotein cholesterol levels of humans. | Int J Food Sci Nutr
+- new | 2016 | 26138307 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Green tea, black tea consumption and risk of endometrial cancer: a systematic review and meta-analysis. | Arch Gynecol Obstet
+- new | 2016 | 28053292 | Comparative Study/Randomized Controlled Trial | Randomized, placebo-controlled trial evaluating the safety of one-year administration of green tea catechins. | Oncotarget
+- new | 2016 | 27821943 |  | Green tea and exercise interventions as nondrug remedies in geriatric patients with rheumatoid arthritis. | J Phys Ther Sci
+- new | 2016 | 26608524 | Letter/Comment | Reply to Letter to the Editor - Therapeutic effect of high-dose green tea extract on weight reduction: A randomized, double-blind, placebo-controlled clinical trial. | Clin Nutr
+- new | 2016 | 28101300 |  | The Peroxidation of Leukocytes Index Ratio Reveals the Prooxidant Effect of Green Tea Extract. | Oxid Med Cell Longev
+- new | 2016 | 26695876 | Randomized Controlled Trial | Influence of green tea catechins on oxidative stress metabolites at rest and during exercise in healthy humans. | Nutrition
+- new | 2016 | 26955458 |  | The Effect of Green Tea Extract Supplementation on Liver Enzymes in Patients with Nonalcoholic Fatty Liver Disease. | Int J Prev Med
+- new | 2016 | 25690541 | Randomized Controlled Trial | Effect of adjunctive use of green tea dentifrice in periodontitis patients - A Randomized Controlled Pilot Study. | Int J Dent Hyg
+- new | 2016 | 27383701 | Evaluation Study | Effect of green tea extract on bonding durability of an etch-and-rinse adhesive system to caries-affected dentin. | J Appl Oral Sci
+- new | 2016 | 27690569 |  | Short-term green tea extract supplementation attenuates the postprandial blood glucose and insulin response following exercise in overweight men. | Appl Physiol Nutr Metab
+- new | 2016 | 27854314 | Randomized Controlled Trial | Black Tea Increases Circulating Endothelial Progenitor Cells and Improves Flow Mediated Dilatation Counteracting Deleterious Effects from a Fat Load in Hypertensive Patients: A Ran | Nutrients
+- new | 2016 | 27493925 |  | The effect of green tea extract supplementation on sputum smear conversion and weight changes in pulmonary TB patients: A randomized controlled trial. | Med J Islam Repub Iran
+- new | 2015 | 24915354 | Review | Green tea and anticancer perspectives: updates from last decade. | Crit Rev Food Sci Nutr
+- new | 2015 | 25312214 | Review | Vascular and metabolic actions of the green tea polyphenol epigallocatechin gallate. | Curr Med Chem
+- new | 2015 | 26233863 | Meta-Analysis/Systematic Review | Effects of supplementation with green tea catechins on plasma C-reactive protein concentrations: A systematic review and meta-analysis of randomized controlled trials. | Nutrition
+- new | 2015 | 26075637 | Review | Short-term weight-centric effects of tea or tea extract in patients with metabolic syndrome: a meta-analysis of randomized controlled trials. | Nutr Diabetes
+- new | 2015 | 25873370 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Randomized, Placebo-Controlled Trial of Green Tea Catechins for Prostate Cancer Prevention. | Cancer Prev Res (Phila)
+- new | 2015 | 26319566 |  | Green tea extract supplementation does not hamper endurance-training adaptation but improves antioxidant capacity in sedentary men. | Appl Physiol Nutr Metab
+- new | 2015 | 26178731 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized controlled trial of green tea catechins in protection against ultraviolet radiation-induced cutaneous inflammation. | Am J Clin Nutr
+- new | 2015 | 25740906 | Randomized Controlled Trial | Long-term green tea extract supplementation does not affect fat absorption, resting energy expenditure, and body composition in adults. | J Nutr
+- new | 2015 | 26259232 | Clinical Trial/Research Support, Non-U.S. Gov't | Dietary supplementation with green tea extract promotes enhanced human leukocyte activity. | J Complement Integr Med
+- new | 2014 | 24861099 | Meta-Analysis/Systematic Review | Green tea catechins and blood pressure: a systematic review and meta-analysis of randomised controlled trials. | Eur J Nutr
+- new | 2014 | 24206044 | Comparative Study/Meta-Analysis/Systematic Review | Effects of green tea or green tea extract on insulin sensitivity and glycaemic control in populations at risk of type 2 diabetes mellitus: a systematic review and meta-analysis of  | J Hum Nutr Diet
+- new | 2014 | 24558988 | Meta-Analysis/Systematic Review | [Effect of green tea or green tea extract consumption on body weight and body composition; systematic review and meta-analysis]. | Nutr Hosp [spa]
+- new | 2014 | 24643507 | Research Support, Non-U.S. Gov't | Green tea extract enhances parieto-frontal connectivity during working memory processing. | Psychopharmacology (Berl)
+- HELD REF-2510 | 2014 | 24419562 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Green tea ingestion greatly reduces plasma concentrations of nadolol in healthy subjects. | Clin Pharmacol Ther
+- new | 2013 | 23858521 | Meta-Analysis | Meta-analysis of green tea drinking and the prevalence of gynecological tumors in women. | Asia Pac J Public Health
+- new | 2013 | 23725307 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Tannase-converted green tea catechins and their anti-wrinkle activity in humans. | J Cosmet Dermatol
+- new | 2013 | 22974973 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Metabolic response to green tea extract during rest and moderate-intensity exercise. | J Nutr Biochem
+- new | 2012 | 22271130 | Letter/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of black tea on blood pressure: a randomized controlled trial. | Arch Intern Med
+- new | 2012 | 22699930 | Research Support, Non-U.S. Gov't/Review | Challenging the effectiveness of green tea in primary and tertiary cancer prevention. | J Cancer Res Clin Oncol
+- new | 2012 | 22836509 | Research Support, Non-U.S. Gov't | Coffee and black tea consumption and breast cancer mortality in a cohort of Swedish women. | Br J Cancer
+- new | 2011 | 21595018 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Green and black tea in relation to gynecologic cancers. | Mol Nutr Food Res
+- new | 2011 | 21115335 | Review | Antiobesity effects of green tea catechins: a mechanistic review. | J Nutr Biochem
+- HELD REF-3481 | 2011 | 22027055 | Meta-Analysis/Systematic Review | Green tea catechins decrease total and low-density lipoprotein cholesterol: a systematic review and meta-analysis. | J Am Diet Assoc
+- new | 2011 | 21294779 | Meta-Analysis/Systematic Review | Efficacy, safety and tolerability of green tea catechins in the treatment of external anogenital warts: a systematic review and meta-analysis. | J Eur Acad Dermatol Venereol
+- new | 2010 | 19906797 | Systematic Review | Effect of green tea catechins with or without caffeine on anthropometric measures: a systematic review and meta-analysis. | Am J Clin Nutr
+- new | 2009 | 19019336 | Review | Green tea catechins for treatment of external genital warts. | Am J Obstet Gynecol
+- new | 2009 | 19838489 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Prospective double-blind crossover study of Camellia sinensis (green tea) in dyslipidemias. | Arq Bras Cardiol
+- new | 2009 | 19733206 | Comparative Study/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Chlorhexidine and green tea extract reduce dentin erosion and abrasion in situ. | J Dent
+- new | 2008 | 18326618 | Randomized Controlled Trial | Green tea extract ingestion, fat oxidation, and glucose tolerance in healthy humans. | Am J Clin Nutr
+- new | 2008 | 17554248 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized controlled trial for an effect of green tea-extract powder supplementation on glucose abnormalities. | Eur J Clin Nutr
+- new | 2008 | 19064551 | Research Support, N.I.H., Extramural | Green tea, soy, and mammographic density in Singapore Chinese women. | Cancer Epidemiol Biomarkers Prev
+- new | 2007 | 17557985 | Multicenter Study/Randomized Controlled Trial | A green tea extract high in catechins reduces body fat and cardiovascular risks in humans. | Obesity (Silver Spring)
+- new | 2007 | 17139264 |  | Epigallocatechin gallate's protective effect against MMP7 in recessive dystrophic epidermolysis bullosa patients. | J Invest Dermatol
+- new | 2007 | 17350176 | Letter | The potential benefits of green tea in patients with uveitis. | Med Hypotheses
+- new | 2007 | 17892999 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | A 6-month randomized pilot study of black tea and cardiovascular risk factors. | Am Heart J
+- new | 2007 | 17141891 | Comparative Study/Letter | Why is green tea more cardioprotective in women than in men? | Int J Cardiol
+- new | 2005 | 16008116 | Clinical Trial/Randomized Controlled Trial | Epigallocatechin gallate (EGCG) (TEAVIGO) does not impair nonhaem-iron absorption in man. | Phytomedicine
+- new | 2003 | 12760312 | Clinical Trial/Clinical Trial, Phase I/Comparative Study/Randomized Controlled Trial | A single ascending dose study of epigallocatechin gallate in healthy volunteers. | J Int Med Res
+- new | 2002 | 12144875 | Research Support, Non-U.S. Gov't | Effect of black tea on (iso-)prostaglandins and platelet aggregation in healthy volunteers. | Prostaglandins Leukot Essent Fatty Acids
+- new | 1997 | 9000119 | Research Support, Non-U.S. Gov't | Effect of (-)-epigallocatechin gallate on leukemic blast cells from patients with acute myeloblastic leukemia. | Life Sci
+- new | 1997 | 9438978 | Clinical Trial/Controlled Clinical Trial | Dose-dependent incorporation of tea catechins, (-)-epigallocatechin-3-gallate and (-)-epigallocatechin, into human plasma. | Biosci Biotechnol Biochem
+- new | 1997 | 9248263 | Clinical Trial/Controlled Clinical Trial | [Prophylactic effect of black tea extract as gargle against influenza]. | Kansenshogaku Zasshi [jpn]
+- new | 1994 | 8033186 | Clinical Trial/Randomized Controlled Trial | Reduction of dental plaque deposition in humans by oolong tea extract. | Caries Res
+
+### PubMed SR - 240 hits, 81 not already listed above, 75 new
+- new | 2026 | 41176609 | Systematic Review | Examining the effect of L-theanine on sleep: a systematic review of dietary supplementation trials. | Nutr Neurosci
+- new | 2026 | 39947165 | Meta-Analysis/Systematic Review | The Association between Green Tea Consumption and Cognitive Function: A Meta-Analysis of Current Evidence. | Neuroepidemiology
+- new | 2025 | 40314930 | Systematic Review/Meta-Analysis | Effects of Tea (Camellia sinensis) or its Bioactive Compounds l-Theanine or l-Theanine plus Caffeine on Cognition, Sleep, and Mood in Healthy Participants: A Systematic Review and  | Nutr Rev
+- new | 2025 | 40077632 | Systematic Review | Effectiveness of Herbal Medicines with Anti-Inflammatory, Antimicrobial, and Antioxidant Properties in Improving Oral Health and Treating Gingivitis and Periodontitis: A Systematic | Nutrients
+- new | 2025 | 40969419 | Review | Green tea as a cosmetic agent for skin aging: A scoping review. | Avicenna J Phytomed
+- new | 2025 | 40872598 |  | Safety Considerations for Natural Products with Adaptogenic and Immunomodulating Activities. | Pharmaceuticals (Basel)
+- new | 2024 | 39350601 | Meta-Analysis/Systematic Review | Does green tea catechin enhance weight-loss effect of exercise training in overweight and obese individuals? a systematic review and meta-analysis of randomized trials. | J Int Soc Sports Nutr
+- new | 2024 | 38988171 | Meta-Analysis/Systematic Review | Chemoprophylaxis Effect of EGCG on the Recurrence of Colorectal Cancer: A Systematic Review and Meta-Analysis. | Curr Pharm Des
+- new | 2024 | 39809182 | Meta-Analysis | The effect of green tea on patients with type 2 diabetes mellitus: A meta-analysis. | Medicine (Baltimore)
+- new | 2024 | 38256796 | Review | Alternative Crops for the European Tobacco Industry: A Systematic Review. | Plants (Basel)
+- new | 2024 | 38706368 | Systematic Review | A Systematic Review of Herbal Interventions for the Management of Cardiovascular Diseases. | Curr Cardiol Rev
+- new | 2024 | 38974590 | Review | Effect of Green Tea Supplementation on Inflammatory Markers among Patients with Metabolic Syndrome and Related Disorders: A Systematic Review and Meta-Analysis. | Prev Nutr Food Sci
+- new | 2024 | 36036958 | Meta-Analysis/Systematic Review | The effect of Green green tea consumption on body mass index, lipoprotein, liver enzymes, and liver cancer: An updated systemic review incorporating a meta-analysis. | Crit Rev Food Sci Nutr
+- new | 2023 | 36689359 | Meta-Analysis | Effect of Green Tea on Blood Pressure in Healthy Individuals: A Meta-Analysis. | Altern Ther Health Med
+- new | 2023 | 33216644 | Meta-Analysis/Systematic Review | Effects of green tea supplementation on serum concentrations of adiponectin in patients with type 2 diabetes mellitus: a systematic review and meta-analysis. | Arch Physiol Biochem
+- new | 2023 | 36599267 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Green tea consumption and the risk of stroke: A systematic review and meta-analysis of cohort studies. | Nutrition
+- new | 2023 | 38161525 | Review | Impact of Green Tea Consumption on the Prevalence of Cardiovascular Outcomes: A Systematic Review. | Cureus
+- new | 2023 | 36849317 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Green tea consumption and the risk of coronary heart disease: A systematic review and meta-analysis of cohort studies. | Nutr Metab Cardiovasc Dis
+- new | 2023 | 37038314 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Coffee, Green Tea Intake, and the Risk of Hepatocellular Carcinoma: A Systematic Review and Meta-Analysis of Observational Studies. | Nutr Cancer
+- new | 2022 | 36704803 | Review | The effects of green tea supplementation on cardiovascular risk factors: A systematic review and meta-analysis. | Front Nutr
+- new | 2022 | 35014893 | Systematic Review | Potential therapeutic effects of green tea on obese lipid profile - a systematic review. | Nutr Health
+- new | 2022 | 35768246 | Meta-Analysis/Systematic Review | Green Tea Consumption and Risk of Depression Symptoms: A Systematic Review and Meta-Analysis of Observational Studies. | J Nutr Sci Vitaminol (Tokyo)
+- new | 2021 | 32600229 | Systematic Review | Herbal Extracts with Antifungal Activity against Candida albicans: A Systematic Review. | Mini Rev Med Chem
+- new | 2021 | 32812270 | Meta-Analysis/Systematic Review | The effects of green tea on acne vulgaris: A systematic review and meta-analysis of randomized clinical trials. | Phytother Res
+- new | 2021 | 34209247 | Meta-Analysis/Systematic Review | Anti-Influenza with Green Tea Catechins: A Systematic Review and Meta-Analysis. | Molecules
+- new | 2021 | 32820240 | Research Support, Non-U.S. Gov't/Review | Green tea and cancer and cardiometabolic diseases: a review of the current epidemiological evidence. | Eur J Clin Nutr
+- new | 2021 | 33737989 | Review | Impact of Green Tea (Camellia Sinensis) on periodontitis and caries. Systematic review and meta-analysis. | Jpn Dent Sci Rev
+- new | 2021 | 34204433 | Meta-Analysis/Systematic Review | Green Tea Catechin Association with Ultraviolet Radiation-Induced Erythema: A Systematic Review and Meta-Analysis. | Molecules
+- new | 2021 | 33744644 | Meta-Analysis/Systematic Review | Green tea consumption and risk for esophageal cancer: A systematic review and dose-response meta-analysis. | Nutrition
+- new | 2021 | 33729563 | Meta-Analysis/Systematic Review | Different applications forms of green tea (Camellia sinensis (L.) Kuntze) for the treatment of periodontitis: a systematic review and meta-analysis. | J Periodontal Res
+- new | 2021 | 33755622 | Systematic Review | Green Tea for Cancer Prevention. | Am J Nurs
+- new | 2020 | 31758301 | Systematic Review | The Effects of Green Tea Amino Acid L-Theanine Consumption on the Ability to Manage Stress and Anxiety Levels: a Systematic Review. | Plant Foods Hum Nutr
+- HELD REF-3484 | 2020 | 32372444 | Meta-Analysis/Systematic Review | The effect of green tea supplementation on obesity: A systematic review and dose-response meta-analysis of randomized controlled trials. | Phytother Res
+- HELD REF-1968 | 2020 | 33344675 | Review | Camellia Sinensis Mouthwashes in Oral Care: a Systematic Review. | J Dent (Shiraz)
+- new | 2020 | 31274008 | Meta-Analysis | Green Tea Consumption and Esophageal Cancer Risk: A Meta-analysis. | Nutr Cancer
+- new | 2020 | 32078065 | Meta-Analysis | Tea consumption and colorectal cancer risk: a meta-analysis of prospective cohort studies. | Eur J Nutr
+- new | 2020 | 31959020 | Meta-Analysis | A dose-response meta-analysis of green tea consumption and breast cancer risk. | Int J Food Sci Nutr
+- new | 2020 | 31174941 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Does tea extract supplementation benefit metabolic syndrome and obesity? A systematic review and meta-analysis. | Clin Nutr
+- new | 2020 | 32434539 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Effect of green tea consumption on blood lipids: a systematic review and meta-analysis of randomized controlled trials. | Nutr J
+- new | 2020 | 32507441 | Meta-Analysis/Systematic Review | The effects of regular consumption of green or black tea beverage on blood pressure in those with elevated blood pressure or hypertension: A systematic review and meta-analysis. | Complement Ther Med
+- new | 2020 | 32670385 | Review | Effects of green tea consumption on glycemic control: a systematic review and meta-analysis of randomized controlled trials. | Nutr Metab (Lond)
+- new | 2019 | 31489661 | Research Support, Non-U.S. Gov't | Scrutinizing antioxidant interactions between green tea and some medicinal plants commonly used as herbal teas. | J Food Biochem
+- new | 2019 | 31137655 | Systematic Review | Green Tea Intake and Risks for Dementia, Alzheimer's Disease, Mild Cognitive Impairment, and Cognitive Impairment: A Systematic Review. | Nutrients
+- new | 2019 | 31277115 | Meta-Analysis/Systematic Review | Green tea consumption and risk of breast cancer: A systematic review and updated meta-analysis of case-control studies. | Medicine (Baltimore)
+- new | 2018 | 29580974 | Systematic Review | The safety of green tea and green tea extract consumption in adults - Results of a systematic review. | Regul Toxicol Pharmacol
+- new | 2018 | 29876987 | Meta-Analysis/Systematic Review | The association between green tea consumption and breast cancer risk: A systematic review and meta-analysis. | Phytother Res
+- new | 2018 | 30534164 | Review | Effect of Camellia sinensis plant on decreasing the level of halitosis: A systematic review. | Dent Res J (Isfahan)
+- new | 2018 | 30513889 | Meta-Analysis/Systematic Review | Green Tea Consumption and Risk of Breast Cancer and Recurrence-A Systematic Review and Meta-Analysis of Observational Studies. | Nutrients
+- HELD REF-0755 | 2017 | 28899506 | Systematic Review | Green tea effects on cognition, mood and human brain function: A systematic review. | Phytomedicine
+- new | 2017 | 28095030 | Meta-Analysis/Research Support, Non-U.S. Gov't | Green Tea Consumption and the Risk of Liver Cancer: A Meta-Analysis. | Nutr Cancer
+- new | 2017 | 28353571 | Meta-Analysis/Systematic Review | Green tea and the risk of prostate cancer: A systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2016 | 27434353 | Letter | Green tea consumption and risk of cardiovascular disease or stroke. | Int J Cardiol
+- new | 2016 | 26318390 | Meta-Analysis/Research Support, N.I.H., Extramural | Green tea consumption and risk of cardiovascular and ischemic related diseases: A meta-analysis. | Int J Cardiol
+- new | 2016 | 26412579 | Meta-Analysis/Review | Green tea and liver cancer risk: A meta-analysis of prospective cohort studies in Asian populations. | Nutrition
+- new | 2015 | 24972454 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Black tea consumption and serum cholesterol concentration: Systematic review and meta-analysis of randomized controlled trials. | Clin Nutr
+- new | 2014 | 25353660 | Meta-Analysis | Green tea consumption and risk of pancreatic cancer: a meta-analysis. | Nutrients
+- new | 2014 | 25077380 | Meta-Analysis/Research Support, Non-U.S. Gov't | Meta-analysis of black tea consumption and breast cancer risk: update 2013. | Nutr Cancer
+- new | 2014 | 25237889 | Meta-Analysis/Research Support, Non-U.S. Gov't | Effect of black tea consumption on blood cholesterol: a meta-analysis of 15 randomized controlled trials. | PLoS One
+- new | 2014 | 25176280 | Meta-Analysis/Research Support, Non-U.S. Gov't | Effect of green tea consumption on blood pressure: a meta-analysis of 13 randomized controlled trials. | Sci Rep
+- new | 2014 | 25471334 | Systematic Review | Interaction of green tea catechins with breast cancer endocrine treatment: a systematic review. | Pharmacology
+- new | 2014 | 23939462 | Systematic Review | Effect of green tea catechins on breast carcinogenesis: a systematic review of in-vitro and in-vivo experimental studies. | Eur J Cancer Prev
+- HELD REF-3480 | 2013 | 23780706 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Green and black tea for the primary prevention of cardiovascular disease. | Cochrane Database Syst Rev
+- new | 2013 | 23909723 | Meta-Analysis/Research Support, Non-U.S. Gov't | Green tea consumption and risk of esophageal cancer: a meta-analysis of published epidemiological studies. | Nutr Cancer
+- new | 2012 | 22986087 | Review | Green tea and green tea catechin extracts: an overview of the clinical evidence. | Maturitas
+- new | 2012 | 23170950 | Meta-Analysis | Green tea consumption and risk of esophageal cancer: a meta-analysis of epidemiologic studies. | BMC Gastroenterol
+- HELD REF-3483 | 2012 | 23235664 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Green tea for weight loss and weight maintenance in overweight or obese adults. | Cochrane Database Syst Rev
+- new | 2012 | 22994721 | Meta-Analysis/Research Support, Non-U.S. Gov't | Association between green tea and colorectal cancer risk: a meta-analysis of 13 case-control studies. | Asian Pac J Cancer Prev
+- new | 2012 | 23163842 | Meta-Analysis/Research Support, Non-U.S. Gov't | Green tea and incidence of colorectal cancer: evidence from prospective cohort studies. | Nutr Cancer
+- new | 2011 | 21248184 | Comparative Study/Meta-Analysis/Research Support, Non-U.S. Gov't | Black and green tea consumption and the risk of coronary artery disease: a meta-analysis. | Am J Clin Nutr
+- new | 2011 | 21667398 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Green tea and black tea consumption and prostate cancer risk: an exploratory meta-analysis of observational studies. | Nutr Cancer
+- new | 2010 | 19437116 | Meta-Analysis/Review | Green tea consumption and breast cancer risk or recurrence: a meta-analysis. | Breast Cancer Res Treat
+- HELD REF-1961 | 2009 | 19588362 | Systematic Review | Green tea (Camellia sinensis) for the prevention of cancer. | Cochrane Database Syst Rev
+- new | 2009 | 19128856 | Meta-Analysis | Green tea, black tea consumption and risk of lung cancer: a meta-analysis. | Lung Cancer
+- new | 2009 | 18973231 | Meta-Analysis | Green tea consumption and risk of stomach cancer: a meta-analysis of epidemiologic studies. | Int J Cancer
+- new | 2009 | 19465043 | Systematic Review | Can green tea do that? A literature review of the clinical evidence. | Prev Med
+- new | 2008 | 18482271 | Systematic Review | Green tea consumption and liver disease: a systematic review. | Liver Int
+- new | 2008 | 18364341 | Meta-Analysis | Green tea and gastric cancer risk: meta-analysis of epidemiologic studies. | Asia Pac J Clin Nutr
+- new | 2008 | 18484782 | Systematic Review | Safety of green tea extracts : a systematic review by the US Pharmacopeia. | Drug Saf
+- new | 2007 | 16855537 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Black tea--helpful or harmful? A review of the evidence. | Eur J Clin Nutr
+- new | 2006 | 16638787 | Meta-Analysis | Green tea, black tea and colorectal cancer risk: a meta-analysis of epidemiologic studies. | Carcinogenesis
+- new | 2006 | 16311246 | Meta-Analysis | Green tea, black tea and breast cancer risk: a meta-analysis of epidemiological studies. | Carcinogenesis
+
+### PubMed SAFE - 1798 hits, 170 not already listed above, 169 new
+- new | 2026 | 41352830 |  | EGCG attenuates Cd reproductive toxicity in Caenorhabditis elegans by modulating ER-mitochondrial interactions. | Food Res Int
+- new | 2026 | 43047052 |  | Efficacy and Side Effects of Green Tea Extract on Facial Skin Aging: A Systematic Review. | J Cosmet Dermatol
+- new | 2026 | 41133843 | Review | Chemical Perspectives on Epigallocatechin-3-Gallate (EGCG): Mechanisms and Therapeutic Potential in Breast Cancer Treatment. | Rev Recent Clin Trials
+- new | 2026 | 42588610 | Review | Epigallocatechin-3-Gallate (EGCG) as a Multifaceted Natural Anticancer Agent in Colorectal Cancer: Preclinical Evidence and Future Directions. | Cancers (Basel)
+- new | 2026 | 42736216 |  | Beneficial effects of dietary green tea extract supplementation during necrotic enteritis challenge in broiler chicks. | Poult Sci
+- new | 2025 | 38520117 | Review | EGCG-based nanoparticles: synthesis, properties, and applications. | Crit Rev Food Sci Nutr
+- new | 2025 | 39748104 | Review/Research Support, Non-U.S. Gov't | Green Tea Catechins as Perpetrators of Drug Pharmacokinetic Interactions. | Clin Pharmacol Ther
+- new | 2025 | 41477459 | Review | Exploring EGCG for Leishmaniasis: A Natural Strategy for Neglected Disease Intervention. | Yale J Biol Med
+- new | 2025 | 40667502 | Review | Curcumin, EGCG and apigenin in cervical cancer: mechanistic insights and therapeutic potential. | Front Pharmacol
+- new | 2025 | 40840141 |  | Epigallocatechin gallate-mediated inhibition of mitochondrial DNA sensing regulated by TBK1/cGAS/STING and NLRP3 alleviates cardiovascular toxicity in atherosclerosis. | Int Immunopharmacol
+- new | 2025 | 40564177 | Review | Efficacy and Safety of Epigallocatechin Gallate in the Treatment and Prevention of Dermatitis: A Systematic Review. | Biomedicines
+- new | 2025 | 40232938 |  | Toxicity and Antioxidant Activity of Black Tea Kombucha in Wistar Rats: A 28-Day Repeated Dose Oral Study. | Chem Biodivers
+- new | 2025 | 40382644 |  | Green tea epigallocatechin gallate attenuate metabolic dysfunction-associated steatotic liver disease by regulation of pyroptosis. | Lipids Health Dis
+- new | 2025 | 40969408 |  | Green tea polyphenols, epicatechin gallate and epigallocatechin gallate, alleviated aberrant metabolic changes caused by olanzapine in rats. | Avicenna J Phytomed
+- new | 2025 | 40358678 | Review | Green tea catechins: protectors or threats to DNA? A review of their antigenotoxic and genotoxic effects. | Arch Toxicol
+- new | 2025 | 40869245 | Review | The Antioxidant Potential of Black Tea Polyphenols in Heavy Metal Toxicity: An In Vitro Perspective. | Int J Mol Sci
+- new | 2025 | 40852197 |  | Reversing Morphine Induced Tolerance: Insights Into Cetirizine and Green Tea Extract Efficacy. | Curr Ther Res Clin Exp
+- new | 2025 | 40428514 |  | Meat Quality Traits Using Gelatin-Green Tea Extract Hybrid Electrospun Nanofiber Active Packaging. | Foods
+- new | 2025 | 41038558 |  | EGCG alleviated 2,4-D-induced cardiovascular toxicity in zebrafish embryos via Nrf2 and p53 pathways. | Environ Pollut
+- new | 2025 | 40430287 |  | Preliminary Study on EGCG-Enhanced Vanadium Toxicity in Cells: Impact on Oxidative Stress. | Molecules
+- new | 2025 | 40625629 |  | Protective Mechanisms of EGCG in Mitigating Oxidative Stress and Liver Toxicity From Cigarette Smoke-Induced Damage. | Food Sci Nutr
+- new | 2024 | 37493455 | Review | Green preparation, safety control and intelligent processing of high-quality tea extract. | Crit Rev Food Sci Nutr
+- new | 2024 | 38547714 |  | Effect of marinating with green tea extract on the safety and sensory profiles of oven-baked oyster. | Food Chem
+- new | 2024 | 38000106 | Review | The intestinal-level metabolic benefits of green tea catechins: Mechanistic insights from pre-clinical and clinical studies. | Phytomedicine
+- new | 2024 | 38302834 |  | Green Tea Catechins Decrease Solubility of Raloxifene In Vitro and Its Systemic Exposure in Mice. | Pharm Res
+- new | 2024 | 39479673 |  | Effects of polyphenols extracted from Keemun black tea on CYP450s activity and molecular mechanisms. | Food Sci Nutr
+- new | 2024 | 39175036 |  | Green tea extract reduces viral proliferation and ROS production during Feline Herpesvirus type-1 (FHV-1) infection. | BMC Vet Res
+- new | 2024 | 38095138 |  | Epigallocatechin gallate alleviated the in vivo toxicity of ZnO nanoparticles to mouse intestine. | J Appl Toxicol
+- new | 2024 | 39765834 | Review | Green Tea Catechins and Skin Health. | Antioxidants (Basel)
+- new | 2024 | 38838579 |  | Epigallocatechin gallate (EGCG) alleviates inflammation and endothelial dysfunction and improves pregnancy outcomes in preeclampsia (PE)-like rats via eNOS/Nrf2/HO-1 pathway. | J Reprod Immunol
+- new | 2024 | 39054671 |  | Reducing the Allergenicity of β-Lactoglobulin by Covalent Modification with Different Contents of Epigallocatechin Gallate (EGCG): In Vitro and In Vivo Studies. | J Agric Food Chem
+- new | 2024 | 38828065 |  | Laser Fragmentation of Green Tea-synthesized Silver Nanoparticles and Their Blood Toxicity: Effect of Laser Wavelength on Particle Diameters. | J Med Phys
+- new | 2024 | 38374508 |  | Transport of nZVI/copper synthesized by green tea extract in Cr(IV)-contaminated soil: modeling study and reduced toxicity. | Environ Sci Pollut Res Int
+- new | 2024 | 39461294 | Research Support, Non-U.S. Gov't | Silk fibroin microneedles loaded with epigallocatechin gallate mitigate atrazine-induced testicular toxicity. | J Hazard Mater
+- new | 2024 | 38871787 |  | The physiological levels of epigallocatechin gallate (EGCG) enhance the Cd-induced oxidative stress and apoptosis in CHO-K1 cells. | Sci Rep
+- new | 2024 | 38847877 |  | EGCG Alleviates the Aging Toxicity Induced by 3-MCPD via IIS Pathway in Caenorhabditis elegans with Abnormal Reproduction and Heat Shock Protein. | J Agric Food Chem
+- new | 2023 | 37104221 | Research Support, Non-U.S. Gov't | Protective Effects of Epigallocatechin-3-gallate (EGCG) against the Jellyfish Nemopilema nomurai Envenoming. | Toxins (Basel)
+- new | 2023 | 37507860 | Review | Green Tea Catechins as Therapeutic Antioxidants for Glaucoma Treatment. | Antioxidants (Basel)
+- new | 2023 | 37219049 |  | Toxicity and efficacy of green tea catechin derivative-based micellar nanocomplexes for anticancer protein delivery. | Biomater Sci
+- new | 2023 | 37085597 | Research Support, Non-U.S. Gov't | Green tea extract prevents CPT-11-induced diarrhea by regulating the gut microbiota. | Sci Rep
+- new | 2023 | 37197027 | Published Erratum | Erratum: Chitosan-Based Nanoformulated (-)-Epigallocatechin-3-Gallate (EGCG) Modulates Human Keratinocyte-Induced Responses and Alleviates Imiquimod-Induced Murine Psoriasiform Der | Int J Nanomedicine
+- new | 2023 | 36330858 |  | A green and facile approach for fabrication of biocompatible anti-Parkinson chitosan-gelatin-green tea extract composite particles with neuroprotective and Neurotherapeutic effects | Int J Biol Macromol
+- new | 2023 | 36594074 | Review | Potential of green tea EGCG in neutralizing SARS-CoV-2 Omicron variant with greater tropism toward the upper respiratory tract. | Trends Food Sci Technol
+- new | 2023 | 36597465 | Review | Therapeutic potential of green tea catechin, (-)-epigallocatechin-3-O-gallate (EGCG) in SARS-CoV-2 infection: Major interactions with host/virus proteases. | Phytomed Plus
+- new | 2023 | 37242530 |  | The Potential of Epigallocatechin-3-gallate (EGCG) as Complementary Medicine for the Treatment of Inflammatory Bowel Disease. | Pharmaceuticals (Basel)
+- new | 2023 | 36544283 |  | Safety and Efficacy of Black Tea Extract in the Treatment of Acute Bacterial Conjunctivitis: A Rabbit Model. | Eye Contact Lens
+- new | 2023 | 37033331 |  | Black Tea Extract, via Modulation of TGF-β Pathway, Prevents Inorganic Arsenic-induced Development of Squamous Cell Carcinoma of the Skin in Swiss Albino Mice. | J Cancer Prev
+- new | 2023 | 37454617 |  | Fermentation of Inula britannica using Lactobacillus plantarum SY12 increases of epigallocatechin gallate and attenuates toxicity. | Food Chem
+- new | 2023 | 36573265 | Research Support, Non-U.S. Gov't | Green Tea Catechin EGCG Ameliorates Thioacetamide-Induced Hepatic Encephalopathy in Rats via Modulation of the Microbiota-Gut-Liver Axis. | Mol Nutr Food Res
+- new | 2022 | 36523867 | Review | Green tea extract-associated acute liver injury: Case report and review. | Clin Liver Dis (Hoboken)
+- new | 2022 | 36010981 | Review | Effects of Green Tea Catechins on Prostate Cancer Chemoprevention: The Role of the Gut Microbiome. | Cancers (Basel)
+- new | 2022 | 36122807 |  | Black tea extract prevents inorganic arsenic induced uncontrolled proliferation, epithelial to mesenchymal transition and induction of metastatic properties in HaCaT keratinocytes  | Toxicol In Vitro
+- new | 2022 | 36309138 |  | (-)-Epigallocatechin gallate (EGCG) pharmacokinetics and molecular interactions towards amelioration of hyperglycemia, hyperlipidemia associated hepatorenal oxidative injury in all | Chem Biol Interact
+- new | 2022 | 35736895 |  | Acute and Subacute Safety Evaluation of Black Tea Extract (Herbt Tea Essences) in Mice. | Toxics
+- new | 2022 | 35353315 | Published Erratum | Correction to: Mitigative effect of green tea extract against mercury(II) chloride toxicity in Allium cepa L. model. | Environ Sci Pollut Res Int
+- new | 2022 | 36304206 |  | Reducing the potential allergenicity of amandin through binding to (-)-epigallocatechin gallate. | Food Chem X
+- new | 2022 | 35603062 |  | Positive effect of green tea extract on reproductive toxicity induced by dimethoate in male mice. | Open Vet J
+- new | 2022 | 36368361 |  | Molecular insights into the critical role of gallate moiety of green tea catechins in modulating prion fibrillation, cellular internalization, and neuronal toxicity. | Int J Biol Macromol
+- new | 2022 | 34981388 |  | Mitigative effect of green tea extract against mercury(II) chloride toxicity in Allium cepa L. model. | Environ Sci Pollut Res Int
+- new | 2022 | 36712528 |  | Targeting a transcription factor NF-κB by green tea catechins using in silico and in vitro studies in pancreatic cancer. | Front Nutr
+- new | 2022 | 34816348 |  | Protective role of green tea against paraquat toxicity in Allium cepa L.: physiological, cytogenetic, biochemical, and anatomical assessment. | Environ Sci Pollut Res Int
+- new | 2022 | 35711541 |  | The Influence of EGCG on the Pharmacokinetics and Pharmacodynamics of Bisoprolol and a New Method for Simultaneous Determination of EGCG and Bisoprolol in Rat Plasma. | Front Nutr
+- new | 2021 | 34837924 |  | Chemopreventive Role of Black Tea Extract in Swiss Albino Mice Exposed to Inorganic Arsenic. | Asian Pac J Cancer Prev
+- new | 2021 | 32299169 |  | Effect of green tea extract in extender of Simmental bull semen on pregnancy rate of recipients. | Anim Biosci
+- new | 2021 | 33754881 |  | Amelioration of N,N'-dimethylhydrazine induced colon toxicity by epigallocatechin gallate in Wistar rats. | Hum Exp Toxicol
+- new | 2021 | 34308509 |  | Green tea catechins in combination with irinotecan attenuates tumorigenesis and treatment-associated toxicity in an inflammation-associated colon cancer mice model. | J Egypt Natl Canc Inst
+- new | 2021 | 33848578 |  | Synergistic effects of green tea extract and paclitaxel in the induction of mitochondrial apoptosis in ovarian cancer cell lines. | Gene
+- new | 2021 | 33467631 |  | Formulation and Optimization of Nanospanlastics for Improving the Bioavailability of Green Tea Epigallocatechin Gallate. | Pharmaceuticals (Basel)
+- new | 2021 | 33386959 | Research Support, Non-U.S. Gov't/Observational Study | Effects of epigallocatechin gallate-enriched green tea extract capsules in uterine myomas: results of an observational study. | Arch Gynecol Obstet
+- new | 2020 | 32407265 |  | Effect of Green Tea and (-)-Epigallocatechin Gallate on the Pharmacokinetics of Rosuvastatin. | Curr Drug Metab
+- new | 2020 | 33113766 | Research Support, Non-U.S. Gov't/Review | Protective Effects of Epigallocatechin Gallate (EGCG) on Endometrial, Breast, and Ovarian Cancers. | Biomolecules
+- new | 2020 | 31995673 | Case Reports | When Green Becomes Mean: Green Tea Extract Reduces Ziprasidone's Effect and Causes Psychosis. | Prim Care Companion CNS Disord
+- new | 2020 | 32525112 |  | Green tea extract solutions can control bacterial biofilms formed on space maintainers. | Niger J Clin Pract
+- new | 2020 | 32842591 | Research Support, Non-U.S. Gov't | Unexpected Toxicity of Green Tea Polyphenols in Combination with the Sambucus RIL Ebulin. | Toxins (Basel)
+- new | 2020 | 31768871 |  | Antioxidant and Antiapoptotic Polyphenols from Green Tea Extract Ameliorate CCl(4)-Induced Acute Liver Injury in Mice. | Chin J Integr Med
+- new | 2020 | 32660101 | Review | Potential Therapeutic Targets of Epigallocatechin Gallate (EGCG), the Most Abundant Catechin in Green Tea, and Its Role in the Therapy of Various Types of Cancer. | Molecules
+- new | 2020 | 32577617 |  | Green tea extract assisted green synthesis of reduced graphene oxide: Application for highly sensitive electrochemical detection of sunset yellow in food products. | Food Chem X
+- new | 2020 | 32290128 |  | Efficacy of Topical Treatment with (-)-Epigallocatechin Gallate, A Green Tea Catechin, in Mice with Cutaneous Leishmaniasis. | Molecules
+- new | 2019 | 30424599 |  | Green Tea Catechins Effectively Altered Hepatic Fibrogenesis in Rats by Inhibiting ERK and Smad1/2 Phosphorylation. | J Agric Food Chem
+- new | 2019 | 30987244 |  | Decaffeinated Green Tea Extract Does Not Elicit Hepatotoxic Effects and Modulates the Gut Microbiome in Lean B6C3F₁ Mice. | Nutrients
+- new | 2019 | 30668184 |  | Black tea dressings - a rapidly effective treatment for facial dermatitis. | J Dermatolog Treat
+- new | 2019 | 31805718 |  | Effects of Epigallocatechin Gallate (EGCG) on Urinary Bladder Urothelial Carcinoma-Next-Generation Sequencing and Bioinformatics Approaches. | Medicina (Kaunas)
+- new | 2019 | 31662782 |  | Acute and Subchronic Oral Toxicity of Fermented Green Tea with Aquilariae Lignum in Rodents. | Evid Based Complement Alternat Med
+- new | 2019 | 31503268 |  | Green tea extract inhibits early oncogenic responses in mice with nonalcoholic steatohepatitis. | Food Funct
+- new | 2019 | 30549069 |  | An assessment of the impact of green tea extract on palbociclib pharmacokinetics using a validated UHPLC-QTOF-MS method. | Biomed Chromatogr
+- new | 2019 | 31400238 |  | Black tea extract and theaflavin derivatives affect the pharmacokinetics of rosuvastatin by modulating organic anion transporting polypeptide (OATP) 2B1 activity. | Biopharm Drug Dispos
+- new | 2019 | 31196040 |  | Curcumin as a permeability enhancer enhanced the antihyperlipidemic activity of dietary green tea extract. | BMC Complement Altern Med
+- new | 2019 | 31758905 | Case Reports | [Severe hepatitis caused by green tea intoxication in a child. Case report]. | Arch Argent Pediatr [spa]
+- new | 2019 | 31807720 |  | The effect of green tea extract on the sperm parameters and histological changes of testis in rats exposed to para-nonylphenol. | Int J Reprod Biomed
+- new | 2019 | 31435613 |  | Protective effect of green tea extract on the deltamethrin-induced toxicity in mice testis: An experimental study. | Int J Reprod Biomed
+- new | 2019 | 30617657 |  | Ameliorative effects of green tea extract from tannase digests on house dust mite antigen-induced atopic dermatitis-like lesions in NC/Nga mice. | Arch Dermatol Res
+- new | 2019 | 31331567 |  | Usage of and attitudes about green tea extract and Epigallocathechin-3-gallate (EGCG) as a therapy in individuals with Down syndrome. | Complement Ther Med
+- new | 2019 | 30961481 |  | The Interaction of Zinc Oxide/Green Tea Extract Complex Nanoparticles and its Effect on Monosodium Glutamate Toxicity in Liver of Rats. | Curr Pharm Biotechnol
+- new | 2018 | 29776714 | Letter/Comment | Herbal tea and liver injury - Tea extract or comedication can make a difference. | J Hepatol
+- new | 2018 | 29928201 | Case Reports | Efficacy and Tolerability of Topical Green Tea Extract (Polyphenon E) Application in a "Therapy-Resistant" Plantar Wart. | Case Rep Dermatol
+- new | 2018 | 29491631 |  | Black Tea (Camellia sinensis) Extract Induced Prenatal and Postnatal Toxicity in Experimental Albino rats. | Pharmacogn Mag
+- new | 2018 | 32625874 |  | Scientific opinion on the safety of green tea catechins. | EFSA J
+- new | 2018 | 29939076 |  | Neuroprotective effect of epigallocatechin-3-gallate (EGCG) on radiation-induced damage and apoptosis in the rat hippocampus. | Int J Radiat Biol
+- new | 2018 | 30057446 |  | Chitosan-based nanoformulated (-)-epigallocatechin-3-gallate (EGCG) modulates human keratinocyte-induced responses and alleviates imiquimod-induced murine psoriasiform dermatitis. | Int J Nanomedicine
+- new | 2018 | 29878887 | Case Reports | Case Report of a Human Papillomavirus Infection Treated with Green Tea Extract and Curcumin Vaginal Compounded Medications. | Int J Pharm Compd
+- new | 2018 | 29156308 |  | Modulatory effects of green tea extract against the hepatotoxic effects of 4-nonylphenol in catfish (Clarias gariepinus). | Ecotoxicol Environ Saf
+- new | 2018 | 30013939 |  | Contamination by neonicotinoid insecticides and their metabolites in Sri Lankan black tea leaves and Japanese green tea leaves. | Toxicol Rep
+- new | 2018 | 30539707 |  | Montelukast Sodium Formulation Containing Green Tea Extract to Reduce the Oxidative Stress in Guinea Pig Model of Chronic Allergic Asthma. | Recent Pat Drug Deliv Formul
+- new | 2018 | 30020947 | Research Support, Non-U.S. Gov't | Maternal consumption of green tea extract during pregnancy and lactation alters offspring's metabolism in rats. | PLoS One
+- new | 2018 | 33350134 |  | Antioxidant and Antimicrobial Activities of (-)-Epigallocatechin-3-gallate (EGCG) and its Potential to Preserve the Quality and Safety of Foods. | Compr Rev Food Sci Food Saf
+- HELD REF-1969 | 2017 | 28118673 | Review | An Appraisal of Drug-Drug Interactions with Green Tea (Camellia sinensis). | Planta Med
+- new | 2017 | 28655517 | Review | Safety assessment of green tea based beverages and dried green tea extracts as nutritional supplements. | Toxicol Lett
+- new | 2017 | 29256350 | Review | Epigenetic Changes Induced by Green Tea Catechins a re Associated with Prostate Cancer. | Curr Mol Med
+- new | 2017 | 28389326 |  | Lipid-soluble green tea extract: Genotoxicity and subchronic toxicity studies. | Regul Toxicol Pharmacol
+- new | 2017 | 28753729 |  | Safety Evaluation of Green Tea Polyphenols Consumption in Middle-aged Ovariectomized Rat Model. | J Food Sci
+- new | 2017 | 28495234 |  | Oxidative stress-induced Akt downregulation mediates green tea toxicity towards prostate cancer cells. | Toxicol In Vitro
+- new | 2017 | 28553849 |  | Effect of subchronic intake of green tea extract on liver of albino rat histomorphometric, ultrastructural and biochemical study. | Folia Morphol (Warsz)
+- new | 2017 | 28357648 |  | Ameliorated Effects of (-)-Epigallocatechin Gallate Against Toxicity Induced by Vanadium in the Kidneys of Wistar Rats. | Biol Trace Elem Res
+- new | 2017 | 29078257 |  | Therapeutic dose of green tea extract provokes liver damage and exacerbates paracetamol-induced hepatotoxicity in rats through oxidative stress and caspase 3-dependent apoptosis. | Biomed Pharmacother
+- new | 2016 | 27518169 | Review | Inhibitory Effects of Eight Green Tea Catechins on Cytochrome P450 1A2, 2C9, 2D6, and 3A4 Activities. | J Pharm Pharm Sci
+- new | 2016 | 26576923 |  | Interaction of green tea catechins with renal organic cation transporter 2. | Xenobiotica
+- new | 2016 | 27581210 |  | Epigallocatechin-3-gallate (EGCG) inhibits imiquimod-induced psoriasis-like inflammation of BALB/c mice. | BMC Complement Altern Med
+- new | 2016 | 27035882 |  | Effect of green tea catechins on gastric mucosal dysplasia in insulin-gastrin mice. | Oncol Rep
+- new | 2016 | 26916211 | Case Reports | Allergic contact dermatitis to substitute hair dyes in a patient allergic to para-phenylenediamine: Pure henna, black tea and indigo powder. | Australas J Dermatol
+- new | 2016 | 26979632 |  | The green tea polyphenol EGCG alleviates maternal diabetes-induced neural tube defects by inhibiting DNA hypermethylation. | Am J Obstet Gynecol
+- new | 2016 | 33540957 |  | Toxicology studies of green tea extract in F344/NTac rats and B6C3F1/N mice and toxicology and carcinogenesis studies of green tea extract in Wistar Han [Crl:WI(Han)] rats and B6C3 | Natl Toxicol Program Tech Rep Ser
+- new | 2016 | 27012617 | Research Support, N.I.H., Extramural | Formulation, characteristics and antiatherogenic bioactivities of CD36-targeted epigallocatechin gallate (EGCG)-loaded nanoparticles. | J Nutr Biochem
+- new | 2015 | 26604554 |  | Potential interaction of green tea extract with hydrochlorothiazide against doxorubicin-induced myocardial damage. | J Ayurveda Integr Med
+- new | 2015 | 25789501 | Research Support, Non-U.S. Gov't/Review | Chemopreventive potential of green tea catechins in hepatocellular carcinoma. | Int J Mol Sci
+- new | 2015 | 26699794 |  | The differential effects of green tea on dose-dependent doxorubicin toxicity. | Food Nutr Res
+- new | 2015 | 28962456 |  | Green tea extract attenuates CCl4-induced hepatic injury in male hamsters via inhibition of lipid peroxidation and p53-mediated apoptosis. | Toxicol Rep
+- new | 2015 | 26377216 |  | Ameliorative Influence of Green Tea Extract on Copper Nanoparticle-Induced Hepatotoxicity in Rats. | Nanoscale Res Lett
+- new | 2015 | 25972850 |  | Comparison of α-glucosyl hesperidin of citrus fruits and epigallocatechin gallate of green tea on the Loss of Rotavirus Infectivity in Cell Culture. | Front Microbiol
+- new | 2015 | 25650282 |  | Nicotine-induced reproductive toxicity, oxidative damage, histological changes and haematotoxicity in male rats: the protective effects of green tea extract. | Exp Toxicol Pathol
+- new | 2014 | 25316200 | Review | Green tea extract and the risk of drug-induced liver injury. | Expert Opin Drug Metab Toxicol
+- new | 2014 | 25362815 |  | Cardioprotective effect of green tea extract on doxorubicin-induced cardiotoxicity in rats. | Acta Pol Pharm
+- new | 2014 | 24814373 | Research Support, Non-U.S. Gov't/Review | Dose-dependent functionality and toxicity of green tea polyphenols in experimental rodents. | Arch Biochem Biophys
+- new | 2014 | 24907278 | Research Support, Non-U.S. Gov't | How epigallocatechin gallate can inhibit α-synuclein oligomer toxicity in vitro. | J Biol Chem
+- new | 2014 | 25455265 | Letter | Green tea extract supplementation depresses carbon tetrachloride-induced liver injury. | J Formos Med Assoc
+- new | 2014 | 25173560 | Research Support, Non-U.S. Gov't/Review | The interactions of anticancer agents with tea catechins: current evidence from preclinical studies. | Anticancer Agents Med Chem
+- new | 2014 | 24069935 | Review | Green tea catechins: Proposed mechanisms of action in breast cancer focusing on the interplay between survival and apoptosis. | Anticancer Agents Med Chem
+- new | 2014 | 24373695 |  | Epigallocatechin-3-gallate (EGCG) attenuates concanavalin A-induced hepatic injury in mice. | Acta Histochem
+- new | 2014 | 25253931 |  | Pharmacodynamic Interaction of Green Tea Extract with Hydrochlorothiazide against Cyclophosphamide-Induced Myocardial Damage. | Toxicol Int
+- new | 2014 | 25151997 | Research Support, Non-U.S. Gov't | Immunomodulatory effects of EGCG fraction of green tea extract in innate and adaptive immunity via T regulatory cells in murine model. | Immunopharmacol Immunotoxicol
+- new | 2014 | 24164432 | Research Support, Non-U.S. Gov't | Epigallocatechin gallate induces embryonic toxicity in mouse blastocysts through apoptosis. | Drug Chem Toxicol
+- new | 2013 | 23582951 | Research Support, Non-U.S. Gov't/Review | Green tea polyphenol epigallocatechin-3-gallate (EGCG) as adjuvant in cancer therapy. | Clin Nutr
+- new | 2013 | 24041336 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Functions and mechanisms of green tea catechins in regulating bone remodeling. | Curr Drug Targets
+- new | 2013 | 22301814 |  | Green tea extract alleviates arsenic-induced biochemical toxicity and lipid peroxidation in rats. | Toxicol Ind Health
+- new | 2013 | 23698259 | Research Support, Non-U.S. Gov't | Green tea extract affects the cytochrome P450 3A activity and pharmacokinetics of simvastatin in rats. | Drug Metab Pharmacokinet
+- new | 2012 | 31643260 | Review | Green Tea. | 
+- new | 2012 | 23140294 | Research Support, Non-U.S. Gov't/Review | Cancer chemoprevention with green tea catechins: from bench to bed. | Curr Drug Targets
+- new | 2012 | 22306919 | Research Support, U.S. Gov't, Non-P.H.S./Research Support, U.S. Gov't, P.H.S. | Green tea extract can potentiate acetaminophen-induced hepatotoxicity in mice. | Food Chem Toxicol
+- new | 2012 | 22229384 | Review | Potential role of green tea catechins in various disease therapies: progress and promise. | Clin Exp Pharmacol Physiol
+- new | 2012 | 22098273 | Research Support, N.I.H., Extramural/Review | New insights into the mechanisms of green tea catechins in the chemoprevention of prostate cancer. | Nutr Cancer
+- new | 2012 | 22025506 |  | Assessment of the antimutagenic effect of Doash tea extract fractions. | Toxicol Ind Health
+- new | 2011 | 21827739 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Green tea catechin, epigallocatechin-3-gallate (EGCG): mechanisms, perspectives and clinical applications. | Biochem Pharmacol
+- new | 2011 | 22016611 | Review | Epigallocatechin-3-gallate (EGCG) for clinical trials: more pitfalls than promises? | Int J Mol Sci
+- new | 2011 | 21538852 | Review | Chemopreventive effects of tea in prostate cancer: green tea versus black tea. | Mol Nutr Food Res
+- new | 2011 | 21538846 | Research Support, Non-U.S. Gov't/Review | Cancer chemoprevention with green tea catechins by targeting receptor tyrosine kinases. | Mol Nutr Food Res
+- new | 2011 | 20971568 | Research Support, Non-U.S. Gov't | (-)-Epigallocatechin 3-gallate (EGCG) at the ocular surface inhibits corneal neovascularization. | Med Hypotheses
+- new | 2011 | 21278283 | Research Support, N.I.H., Extramural | Interactions of green tea catechins with organic anion-transporting polypeptides. | Drug Metab Dispos
+- new | 2011 | 23284558 |  | Effect of green tea extract on lead toxicity in different organs of rats. | Int J Health Sci (Qassim)
+- new | 2011 | 21098339 |  | Green tea extract-induced lethal toxicity in fasted but not in nonfasted dogs. | Int J Toxicol
+- new | 2010 | 20385841 | Research Support, Non-U.S. Gov't | EGCG remodels mature alpha-synuclein and amyloid-beta fibrils and reduces cellular toxicity. | Proc Natl Acad Sci U S A
+- new | 2009 | 19516153 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of quercetin and EGCG on mitochondrial biogenesis and immunity. | Med Sci Sports Exerc
+- new | 2009 | 19399668 | Review | A thought on the biological activities of black tea. | Crit Rev Food Sci Nutr
+- new | 2008 | 18082923 | Research Support, Non-U.S. Gov't/Review | Modulation of Nrf2-mediated antioxidant and detoxifying enzyme induction by the green tea polyphenol EGCG. | Food Chem Toxicol
+- new | 2006 | 16364532 |  | Safety studies on epigallocatechin gallate (EGCG) preparations. Part 1: genotoxicity. | Food Chem Toxicol
+- new | 2006 | 16445594 |  | Protective effect of green tea extract and tea polyphenols against FK506-induced cytotoxicity in renal cells. | Basic Clin Pharmacol Toxicol
+- new | 2005 | 15964422 | Research Support, Non-U.S. Gov't | Effects of epigallocatechin gallate on the hemolysis induced by cyclosporine. | Transplant Proc
+- new | 2005 | 15738004 | Comparative Study/Research Support, Non-U.S. Gov't | Green tea extract and (-)-epigallocatechin-3-gallate, the major tea catechin, exert oxidant but lack antioxidant activities. | FASEB J
+- new | 2005 | 15996685 | Research Support, Non-U.S. Gov't | Phytoestrogenic effects of black tea extract (Camellia sinensis) in an oophorectomized rat (Rattus norvegicus) model of osteoporosis. | Life Sci
+- new | 2004 | 15570050 | Review | A review of the health effects of green tea catechins in in vivo animal models. | J Nutr
+- new | 2004 | 15285844 | Research Support, Non-U.S. Gov't | Inhibition of P-glycoprotein function by tea catechins in KB-C2 cells. | J Pharm Pharmacol
+- new | 2000 | 10757128 | Research Support, Non-U.S. Gov't/Review | A new concept of tumor promotion by tumor necrosis factor-alpha, and cancer preventive agents (-)-epigallocatechin gallate and green tea--a review. | Cancer Detect Prev
+
+### PubMed OBS - 340 hits, 19 not already listed above, 19 new
+- new | 2026 | 42356324 |  | Green Tea Consumption and Risk of All-Cause Mortality: Findings from a Prospective Cohort Study. | Nutrients
+- new | 2026 | 41945949 |  | Association of Green Tea Consumption and the Risk of Liver Cancer Incidence among Japanese Adults. | Asian Pac J Cancer Prev
+- new | 2026 | 40908686 |  | Green Tea Catechins and COVID-19: Epidemiological Trends and Therapeutic Perspectives. | Curr Pharm Des
+- new | 2025 | 40999690 |  | Association of caffeine, green tea and coffee consumption with mortality and disability among older adults. | Br J Nutr
+- new | 2024 | 39079864 | Letter | Impact of beef, mutton, fruits, and green tea consumption on osteoporosis risk: A cross-sectional study in northwest China. | Asian J Surg
+- new | 2023 | 36542728 | Research Support, Non-U.S. Gov't | Coffee and Green Tea Consumption and Cardiovascular Disease Mortality Among People With and Without Hypertension. | J Am Heart Assoc
+- new | 2023 | 37035310 |  | Genetically predicted green tea intake and the risk of arterial embolism and thrombosis. | Front Med (Lausanne)
+- new | 2022 | 36364431 | Review | Green Tea Catechins Attenuate Neurodegenerative Diseases and Cognitive Deficits. | Molecules
+- new | 2022 | 36434069 | Research Support, Non-U.S. Gov't | Green tea and coffee consumption and risk of kidney cancer in Japanese adults. | Sci Rep
+- new | 2022 | 35469912 | Research Support, Non-U.S. Gov't | Green tea consumption and risk of depressive symptoms: Results from the TCLSIH Cohort Study. | J Affect Disord
+- new | 2021 | 33633179 | Research Support, Non-U.S. Gov't | Green tea extracts containing epigallocatechin-3-gallate modulate facial development in Down syndrome. | Sci Rep
+- new | 2021 | 33139853 | Research Support, Non-U.S. Gov't | Green tea consumption and influenza infection among Japanese employees. | Eur J Clin Nutr
+- new | 2019 | 31212946 | Review | Mechanisms Underlying the Anti-Depressive Effects of Regular Tea Consumption. | Nutrients
+- new | 2018 | 29843466 | Review | Beneficial Effects of Green Tea Catechins on Neurodegenerative Diseases. | Molecules
+- new | 2015 | 25920351 | Review | A case-control study of stomach cancer in relation to Camellia sinensis in China. | Surg Oncol
+- new | 2013 | 23840110 | Editorial/Review | Green tea and the risk of gastric cancer: epidemiological evidence. | World J Gastroenterol
+- new | 2008 | 18641205 | Review | The relation between green tea consumption and cardiovascular disease as evidenced by epidemiological studies. | J Nutr
+- new | 2005 | 16127221 | Research Support, Non-U.S. Gov't/Review | Green tea and stomach cancer--a short review of prospective studies. | J Epidemiol
+- new | 1986 | 3778808 | Research Support, U.S. Gov't, P.H.S. | Black tea consumption and cancer risk: a prospective study. | Br J Cancer
+
+### PubMed REV - 1028 hits, 17 not already listed above, 14 new
+- new | 2025 | 39942757 | Review | Epigallocatechin Gallate (EGCG): Pharmacological Properties, Biological Activities and Therapeutic Potential. | Molecules
+- new | 2025 | 40645013 | Review | The role of epigallocatechin gallate (EGCG) in uterine myomas. | Biomed Pharmacother
+- new | 2024 | 38398883 | Review | Epigallocatechin Gallate for the Treatment of Benign and Malignant Gynecological Diseases-Focus on Epigenetic Mechanisms. | Nutrients
+- new | 2024 | 39204235 | Review/Research Support, Non-U.S. Gov't | Effects of Green Tea Extract Epigallocatechin-3-Gallate on Oral Diseases: A Narrative Review. | Pathogens
+- new | 2023 | 37513933 | Review | The Effects of Green Tea Catechins in Hematological Malignancies. | Pharmaceuticals (Basel)
+- new | 2023 | 40625575 | Review | A green tea extract catechin EGCg: Therapeutic potential for pediatric cardiomyopathies. | Pediatr Discov
+- new | 2023 | 36535007 | Review | The applications of epigallocatechin gallate (EGCG)-nanogold conjugate in cancer therapy. | Nanotechnology
+- HELD REF-1960 | 2022 | 35745040 | Review | Green Tea (Camellia sinensis): A Review of Its Phytochemistry, Pharmacology, and Toxicology. | Molecules
+- new | 2022 | 36142616 | Review | Green Tea Catechins: Nature's Way of Preventing and Treating Cancer. | Int J Mol Sci
+- new | 2022 | 36363764 | Review | Propolis, Aloe Vera, Green Tea, Cranberry, Calendula, Myrrha and Salvia Properties against Periodontal Microorganisms. | Microorganisms
+- new | 2020 | 33375458 | Review | Health Benefits and Chemical Composition of Matcha Green Tea: A Review. | Molecules
+- HELD REF-0756 | 2020 | 32143309 | Review | Beneficial Properties of Green Tea Catechins. | Int J Mol Sci
+- new | 2019 | 31349535 | Review | Function of Green Tea Catechins in the Brain: Epigallocatechin Gallate and its Metabolites. | Int J Mol Sci
+- new | 2018 | 30105263 | Review | Green Tea Catechins: Their Use in Treating and Preventing Infectious Diseases. | Biomed Res Int
+- HELD REF-0757 | 2016 | 27634207 | Review | Anti-inflammatory Action of Green Tea. | Antiinflamm Antiallergy Agents Med Chem
+- new | 2006 | 16582024 | Review | Beneficial effects of green tea--a review. | J Am Coll Nutr
+- new | 2006 | 30000907 | Review | Green Tea. | 
+
+### ClinicalTrials.gov - 292 registered studies
+- NCT00010933 | COMPLETED | results=False | NA | Treatment of Functional Abdominal Pain in Children: Evaluation of Relaxation/Guided Imagery and Chamomile Tea as Therapeutic Modalities | conds: Recurrent Abdominal Pain | intr: chamomile tea, Relaxation/Guided Imagery
+- NCT07572708 | NOT_YET_RECRUITING | results=False | NA | Transcutaneous Electrical Acustimulation (TEA) for the Treatment of Non-Erosive Gastroesophageal Reflux Disease (NERD) | conds: Non-erosive Reflux Disease (NERD) | intr: Transcutaneous Electrical Acustimulation
+- NCT02621658 | UNKNOWN | results=False | NA | Clear Liquid vs Liberalized Diet in Preparation for Colonoscopy | conds: Colorectal Cancer | intr: Clear Liquid Diet, Full Liquid Diet
+- NCT02474147 | COMPLETED | results=False | NA | Processed Meat and Brain Regions Related to Reward and Addiction | conds: Type 2 Diabetes | intr: Processed meat hamburger, Vegan sandwich | pubs: ['34507586:DERIVED (new)', '33081982:DERIVED (new)']
+- NCT02544516 | COMPLETED | results=False | NA | Upside Down, Give me the Handle | conds: Schizophrenic Disorders | intr: cognitive tasks + PANSS+ IQ, cognitive tasks
+- NCT05504447 | UNKNOWN | results=False | NA | To Evaluate the Efficacy and Safety of "Rongyang Zhengyifang" Tea Bag With COVID-19 Variant Virus | conds: Herbal Interaction | intr: Rong-Yang Zhengyifang" tea bag, placebo tea bag
+- NCT07687940 | RECRUITING | results=False | NA | Feasibility and Effects of a Blended Baduanjin Exercise and Green Tea Consumption Program on Depressive Symptoms, Gut Microbiota and Quality | conds: Depressive Symptoms | intr: blended Baduanjin and Green Tea consumption program, Non-treatment control
+- NCT06976385 | COMPLETED | results=False | NA | Clinical Impact of White Tea and Wheat Grass on Color Enhancement of White Spot Lesions | conds: White Spot Lesions [Initial Caries] on Smooth Surface of Tooth | intr: White tea, Wheat grass solution
+- NCT02998918 | COMPLETED | results=True | NA | Effects of Short-term Curcumin and Multi-polyphenol Supplementation on the Anti-inflammatory Properties of HDL | conds: Inflammation, Atherosclerosis, Cardiovascular Disease | intr: PolyResveratrol Supplementation, Curcumin Supplementation
+- NCT04038749 | UNKNOWN | results=False | NA | Satisfaction of Patients With the Chosen Method of Inhibition of Lactation | conds: Lactation Suppressed | intr: Bromocriptine, Cabergoline, Natural methods
+- NCT01594086 | COMPLETED | results=False | NA | Effects of Green Tea Consumption on Homocysteine Metabolism and Cognitive Dysfunction | conds: Cognitive Impairment | intr: green tea powder
+- NCT02321969 | COMPLETED | results=False | NA | Green Tea Extracts for the Prevention of Colorectal Adenomas and Colorectal Cancer | conds: Neoplasms, Colorectal | intr: GTE (green tea extract) | pubs: ['18990744:RESULT (new)', '21851602:RESULT (new)', '28209333:DERIVED (new)']
+- NCT00120107 | COMPLETED | results=False | NA | Tea's Effect on Atherosclerosis Pilot Study (TEA Study) | conds: Cardiovascular Disease | intr: Black Tea | pubs: ['17892999:RESULT (new)']
+- NCT03643757 | COMPLETED | results=False | NA | Epidural Analgesia and Postoperative Respiratory Functions (EPAPRES) | conds: Respiration Disorders | intr: Thoracic epidural analgesia, Bupivacaine | pubs: ['24745020:RESULT (new)', '28742434:RESULT (new)', '22531384:RESULT (new)']
+- NCT05832645 | COMPLETED | results=False | NA | A Study Investigating the Effects of a Novel Mindfulness Approach on Frequency and Duration of Meditation and Self-Reported Stress and Mood  | conds: Health Knowledge, Attitudes, Practice | intr: Meditation with guided tea consumption, Breathing meditation | pubs: ['39657179:DERIVED (new)']
+- NCT02639130 | COMPLETED | results=False | PHASE4 | GLP-1 Mediating DPP-4 Inhibition in Type 2 Diabetes | conds: Type 2 Diabetes | intr: Exendin [9-39], Placebo | pubs: ['27207543:DERIVED (new)']
+- NCT07634731 | COMPLETED | results=False | NA | Bilateral RSB vs TEA Epidural Analgesia for Postoperative Pain Control After Open Gastrectomy: A Randomized Controlled Trial | conds: Bilateral Rectus Sheath Block, Thoracic Epidural Analgesia | intr: Bilateral Rectus Sheath Block and Thoracic Epidural Analgesia for Postoperative Pain Control After O | pubs: ['41011085:RESULT (new)']
+- NCT00872430 | COMPLETED | results=True | PHASE2 | Laxative Effectiveness of a Phytotherapeutic Tea | conds: Chronic Constipation | intr: Placebo, Klein Laxative Tea | pubs: ['20433751:DERIVED (new)']
+- NCT05482711 | COMPLETED | results=False | NA | The Fuel and Rhythm (FAR) Phase 2 Study | conds: Aging | intr: Time Restricted Eating Intervention
+- NCT00377507 | TERMINATED | results=False | NA | Catechin Mouth-washing for Removal of Intraoral Bacteria | conds: Elderly | intr: catechin extracts
+- NCT04242628 | COMPLETED | results=False | NA | The Ageing in a Networked Society -Social Experiment Study | conds: Loneliness, Social Isolation | intr: Facebook course, Lifestyle Course | pubs: ['33126634:DERIVED (new)']
+- NCT00596011 | COMPLETED | results=True | PHASE2 | Study of Polyphenon E in Men With High-grade Prostatic Intraepithelial Neoplasia | conds: Prostatic Hyperplasia | intr: Polyphenon E, Placebo | pubs: ['27842331:RESULT (new)', '28053292:RESULT (new)', '29228755:RESULT (new)', '25873370:DERIVED (new)']
+- NCT03526081 | COMPLETED | results=False | NA | Absorption, Metabolism and Excretion of Apigenin and Apigenin Glycosides | conds: Healthy | intr: Chamomile Tea, Parsley based drink, Parsley Yogurt, Apigenin | pubs: ['35452808:DERIVED (new)']
+- NCT06015022 | RECRUITING | results=False | PHASE2 | EGCG for Hepatocellular Carcinoma Chemoprevention | conds: Cirrhosis, Liver | intr: Epigallocatechin gallate (EGCG), Placebo
+- NCT05811403 | COMPLETED | results=False | NA | Epigallocatechin Gallate (EGCG) as a Flushing Agent During Full Pulpotomy in Mature Permanent Molars With Irreversible Pulpitis | conds: Irreversible Pulpitis | intr: Epigallocatechin gallate (EGCG), Sodium hypochlorite (NaOCl), Mineral trioxide aggregate (MTA), Prem
+- NCT01451723 | TERMINATED | results=True | PHASE2 | Safety and Neuroprotective Effects of Polyphenon E in MS; Phase II | conds: Multiple Sclerosis | intr: Polyphenon E, Placebo | pubs: ['26298797:DERIVED (new)']
+- NCT06406088 | TERMINATED | results=False | NA | EarGenie MVP Performance Evaluation | conds: Hearing Impaired Children | intr: EarGenie MVP test
+- NCT01115088 | COMPLETED | results=False | NA | Effects of Stevia on Satiety and Eating Attitudes in Healthy, Overweight and Obese Adults | conds: Obesity, Type 2 Diabetes | intr: Aspartame, Sucrose, Stevia
+- NCT04898023 | TERMINATED | results=True | PHASE2 | Zinc and Green Tea Extract for Community Respiratory Viral Infections | conds: Respiratory Viral Infection | intr: zinc-green tea extract-ascorbic acid, Placebo
+- NCT01770327 | COMPLETED | results=False | NA | Influence of Different Sugary Beverages on Thirst Sensation | conds: Thirst | intr: Effect of ingestion of different Sugary Beverages on Thirst Sensation
+- NCT04025606 | COMPLETED | results=False | NA | Paravertebral Block Versus Thoracic Epidural Analgesia | conds: Lung Cancer, Postoperative Pain | intr: Thoracic epidural, Paravertebral block
+- NCT00917735 | COMPLETED | results=True | PHASE2 | Green Tea and Reduction of Breast Cancer Risk | conds: Breast Cancer | intr: Green tea extract supplement, Placebo | pubs: ['37011435:DERIVED (new)', '30926986:DERIVED (new)', '28747487:DERIVED (new)', '27806972:DERIVED (new)', '26701796:DERIVED (new)', '26581683:DERIVED (new)']
+- NCT06682390 | RECRUITING | results=False | NA | Role of Race in Nutritional Approach in Men on ADT | conds: Prostate Cancer Metastatic Disease | intr: Hypocaloric anti-inflammatory diet
+- NCT06584786 | UNKNOWN | results=False | EARLY_PHASE1 | Therapeutic Effects of Jing Si Herbal Tea for COPD | conds: Airway Disease | intr: Jing Si herbal tea (JSHT), Placebo
+- NCT06522412 | ACTIVE_NOT_RECRUITING | results=False | NA | The Effects of Jing-Si Herbal Tea Liquid Packets and Jing-Si Herbal Tang Heng Power Drink | conds: Inflammatory Marker, Gut Microbiome, Trimethylamine N-oxide, HbA1c | intr: JING SI HERBAL TEA LIQUID PACKETS, JING SI HERBAL TANG HENG POWDER DRINK
+- NCT05824039 | COMPLETED | results=False | NA | Safety and Efficacy of Medicinal Plant Extract in Overweight and Obese Participants. | conds: Overweight, Obesity | intr: Tea infusion
+- NCT01647737 | COMPLETED | results=True | PHASE1,PHASE2 | Green Tea Lozenges for the Management of Dry Mouth | conds: Xerostomia, Sjogren Syndrome, Dry Mouth | intr: MighTeaFlow, Xylitol | pubs: ['25240992:DERIVED (new)']
+- NCT01626287 | COMPLETED | results=False | NA | Reduction of Perineal Pain After Vaginal Birth With Black Tea: Pilot Randomized Study | conds: Perineal Pain | intr: Frozen perineal pad, Warm water soaked Black Tea Bags | pubs: ['33034900:DERIVED (new)']
+- NCT01183767 | COMPLETED | results=False | PHASE2,PHASE3 | Sunphenon Epigallocatechin-Gallate (EGCg) in Duchenne Muscular Dystrophy | conds: Duchenne Muscular Dystrophy | intr: Epigallocatechin-Gallate, Placebo
+- NCT00176566 | TERMINATED | results=False | PHASE2 | A Phase II Trial to Assess the Effects of Green Tea in Oral Leukoplakia | conds: Oral Leukoplakia | intr: Lozenge Intake
+- NCT05019573 | UNKNOWN | results=False | NA | Can the Reduction of Iron Availability Caused by Tea Consumption Change the Gut Microbiota Composition and Disrupt Host Body-iron Status | conds: Focus of Study: 1- Effect of Tea Consumption on Gut Microbiota, Focus of Study: 2- Effect of Tea Consumption on Body-iron Status | intr: Black tea, Placebo
+- NCT04395742 | UNKNOWN | results=False |  | 1,3,7-Trimethylxanthine as a Treatment of COVID-19: Results of a Controlled Study | conds: Coronavirus Disease 2019 | intr: Data collection | pubs: ['33213035:DERIVED (new)']
+- NCT03422146 | UNKNOWN | results=False | NA | Antimicrobial and Clinical Efficacy of Cliradex® as Compared With I-Lid'n Lash® Hygiene in Treating Blepharitis | conds: Blepharitis, Meibomian Gland Dysfunction | intr: Tea Tree Oil (TTO), I-Lid'n Lash® Hygiene
+- NCT04967755 | UNKNOWN | results=False | NA | Jing-Si-Herbal-Tea Accelerates SARS-Cov-2 Load Reduction Among COVID-19 Patients | conds: Coronavirus | intr: Jing-Si-Herbal-Tea
+- NCT01796275 | COMPLETED | results=False | NA | Happy Family Kitchen Project II | conds: Family Communication, Family Health, Happiness and Harmony | intr: Core intervention program, Booster session, Control only (Tea gathering) | pubs: ['28713801:DERIVED (new)', '28198783:DERIVED (new)', '27473842:DERIVED (new)', '27199864:DERIVED (new)']
+- NCT04279418 | COMPLETED | results=False | NA | Non-pharmacological Intervention for Preclinical Alzheimer's Disease | conds: Alzheimer Disease, Functional Food, Subjective Cognitive Decline, Intervention | intr: Mixed functional foods supplementation, Placebo
+- NCT04051294 | COMPLETED | results=False | NA | The Effect of Kombucha on Blood Sugar Levels in Humans | conds: Glucose, Glucose Metabolism Disorders (Including Diabetes Mellitus), Blood Sugar; High | intr: Commercial kombucha tea, Brewed kombucha tea, Control: Tea, Control: Water
+- NCT06091761 | COMPLETED | results=False | NA | Thread Embedding Acupuncture Combined With Auricular Acupuncture for Overweight and Obesity | conds: Overweight or Obesity | intr: Auricular acupuncture, Thread embedding acupuncture, Sham Thread embedding acupuncture | pubs: ['38911552:DERIVED (new)']
+- NCT07178106 | COMPLETED | results=False | NA | Investigation of the Relationship Between Peripheral and Central Metabolic Changes Caused by Fasting | conds: Healthy | intr: Fasting
+- NCT05668104 | COMPLETED | results=False | NA | Jing Si Herbal Tea for Long-Coronavirus Disease(COVID) Gut-brain Interaction | conds: Healthy Subjects, COVID-19 Pneumonia, Irritable Bowel Syndrome, Functional Gastrointestinal Disorders | intr: Jing Si Herbal Tea Liquid Packet, Jing Si Herbal Tea Liquid Packet Placebo | pubs: ['32405603:RESULT (new)', '32251668:RESULT (new)', '35777934:RESULT (new)', '33273261:RESULT (new)', '27144617:RESULT (new)', '33493503:RESULT (new)', '32887946:RESULT (new)', '34560321:RESULT (new)', '35483736:RESULT (new)', '33833065:RESULT (new)', '34055851:RESULT (new)', '35940857:RESULT (new)', '35422683:RESULT (new)', '35755434:RESULT (new)', '35889051:RESULT (new)', '35369061:RESULT (new)']
+- NCT03114176 | COMPLETED | results=False | NA | Effects of Ketogenic Diet in Divers Breathing Enriched Air Nitrox | conds: Overweight and Obesity, Exertion; Excess, Oxygen Toxicity | intr: Ketogenic Diet
+- NCT02627898 | COMPLETED | results=False | PHASE2 | Effect of Green Tea Extract on Arterial Stiffness in Type 2 Diabetes Mellitus | conds: Type 2 Diabetes Mellitus | intr: green tea extract, placebo
+- NCT02491385 | COMPLETED | results=False | NA | Thoracic Epidural for Postoperative Ileus | conds: Ileus | intr: thoracic epidural analgesia, iv-PCA
+- NCT05364008 | ACTIVE_NOT_RECRUITING | results=False | PHASE3 | FRIEND: Fibroids and Unexplained Infertility Treatment With Epigallocatechin Gallate; A Natural CompounD in Green Tea | conds: Leiomyoma, Uterine | intr: Green Tea Extract, Placebo | pubs: ['38216200:DERIVED (new)']
+- NCT07150533 | COMPLETED | results=False | NA | Green Tea Extract and Ginger | conds: Nutritional Supplementation, Exercise Physiology | intr: Placebo Arm, Green Tea Extract, Ginger, Combined Supplement (Green Tea + Ginger) | pubs: ['41010475:DERIVED (new)']
+- NCT02185638 | COMPLETED | results=False | NA | Appetite Suppression Effects of an Herbal Combination of Yerba maté, Guarana, Damiana (YGD), and 12 Other Herbal Components, Versus YGD Supp | conds: Obesity | intr: Appetite suppressant properties of YGD and A20-50
+- NCT07518394 | COMPLETED | results=False | PHASE4 | Oral Essential Oils Efficacy in Acute Respiratory Symptoms | conds: Respiratory Inflammation | intr: essential oils of eucalyptus, thyme, cinnamon, lavender, winter savory, tea tree, camphor tree, plac
+- NCT06331247 | UNKNOWN | results=False | NA | MIND Diet to Improve Cognitive Function in Mild Stroke Patients (MINDICOMS) II | conds: Dementia, Stroke, Cognitive Change, Cerebrovascular; Disorder, Thrombotic | intr: General dietary advice, Localized MIND diet intervention, Routine medical care | pubs: ['40639357:DERIVED (new)']
+- NCT07440784 | COMPLETED | results=False | NA | Impact Of Intermittent And Water-Only Fasting On Gene Expression And Tumor Markers In Breast Cancer | conds: Breast Cancer | intr: Conventional Chemotherapy, Intermittent Fasting (23:1 Regimen), Ketogenic Diet, Water-Only Fasting
+- NCT06191978 | RECRUITING | results=False | PHASE1 | A Phase Ia/Ib Open-label, Multiple Dose, Study to Determine the Recommended Dose, Evaluate PKs, PDs, Safety, and Activity of Venetoclax in C | conds: Acute Myeloid Leukemia | intr: ASTX727, Venetoclax
+- NCT04961086 | COMPLETED | results=False | NA | Health Effect of Energy Drink Consumption | conds: Blood Pressure, Blood Glucose, High, Cognitive Change | intr: energy drink | pubs: ['26184263:RESULT (new)', '29562659:RESULT (new)', '28168925:RESULT (new)', '26394126:RESULT (new)', '29947575:RESULT (new)', '26931509:RESULT (new)']
+- NCT03460561 | COMPLETED | results=False | PHASE3 | Peri-operative Rectus Sheath Block Versus TEA Abdominal Surgeries | conds: Abdominal Cancer | intr: Thoracic epidural block (TEA), Rectus sheath block (RSB)
+- NCT05773794 | COMPLETED | results=True | NA | Scavenging of Reactive Carbonyl Species by Dietary Flavonoids in Humans | conds: Human Health, Reactive Carbonyl Species, Polyphenols | intr: Soymilk, green tea, or blueberry, Control group
+- NCT02192346 | COMPLETED | results=False | PHASE1 | α-TEA in Advanced Cancer | conds: Metastatic Carcinoma, Metastatic Sarcoma, Metastatic Lymphoma | intr: 2.4 mg/kg α-TEA, 4.8 mg/kg α-TEA, 8.0 mg/kg α-TEA, 9.6 mg/kg α-TEA
+- NCT03053882 | COMPLETED | results=False | NA | Efficacy of Peppermint and Green Tea in Malodor | conds: Bad Breath | intr: mouthwash
+- NCT06398405 | UNKNOWN | results=False | PHASE2 | A Phase II Clinical Study of Epigallocatechin-3-gallate in Patients With Esophageal Squamous Cancer | conds: Esophageal Cancer, Dysphagia, Esophageal, Epigallocatechin Gallate | intr: Epigallocatechin-3-gallate
+- NCT03797079 | COMPLETED | results=False | NA | Erector Spinae Plane Block Versus Thoracic Epidural Block for Chest Trauma | conds: Chest Trauma | intr: ESP block, TEA, Catheter insertion, Bupivacaine
+- NCT00088946 | COMPLETED | results=False | PHASE2 | Erlotinib and Green Tea Extract (Polyphenon® E) in Preventing Cancer Recurrence in Former Smokers Who Have Undergone Surgery for Bladder Can | conds: Bladder Cancer | intr: Polyphenon E, erlotinib hydrochloride, Erlotinib placebo, Polyphenon E
+- NCT04339283 | COMPLETED | results=False | NA | Effect of Standardized Hibiscus Sabdariffa Tea in Seemingly Healthy Human Volunteers | conds: Healthy Human Volunteers | intr: Standardized Hibiscus sabdariffa tea | pubs: ['34837382:DERIVED (HELD REF-3581)']
+- NCT06932783 | ACTIVE_NOT_RECRUITING | results=False | NA | Remote Electrical Stimulation for Pain and Depression Treatment in Cirrhosis | conds: Cirrhosis | intr: Transcutaneous Electrical Acustimulation (TEA), Sham Transcutaneous Electrical Acustimulation (TEA)
+- NCT07426003 | RECRUITING | results=False | NA | Healthy Volunteers Enteral Nutrition Study (HEN) | conds: Enteral Nutrition's Effect on the Gut | intr: Kate Farms Peptide 1.5, Crohn's disease exclusion diet
+- NCT00768118 | COMPLETED | results=True | NA | A Nutritional Supplement Capsule Containing Curcumin, Green Tea Extract, Polygonum Cuspidatum Extract, and Soybean Extract in Healthy Partic | conds: Healthy, no Evidence of Disease | intr: curcumin/green tea extract/Polygonum cuspidatum extract/soybean extract capsule, electrophoretic mob
+- NCT05164861 | COMPLETED | results=False | NA | Safety and Efficacy of Non-alcoholic Beverage Based on Kombucha in Patients With Constipations | conds: Irritable Bowel Syndrome With Constipation, Constipation-predominant Irritable Bowel Syndrome | intr: kombucha-based beverage | pubs: ['38149073:DERIVED (new)', '36394933:DERIVED (new)']
+- NCT01634646 | TERMINATED | results=False | NA | Observational Study of Lyzme5 Impact on Cholesterol and Body Weight in Man | conds: Overweight, Elevated Cholesterol | intr: Lyzme5
+- NCT05256888 | COMPLETED | results=True | NA | Time-Restricted Eating to Address Persistent Cancer-Related Fatigue | conds: Neoplasms, Therapy, Fatigue, Diet Therapy | intr: Time-restricted eating, Healthy lifestyle education | pubs: ['40186671:DERIVED (new)']
+- NCT06337149 | UNKNOWN | results=False |  | Relationship Between Breathing and Attention in Children With Ondine Syndrome | conds: Ondine Syndrome, Congenital Central Hypoventilation Syndrome (CCHS) | intr: neuropsychological tests used usually in clinical practice (TEA-ch, NEPSY, BRIEF) and research (Conn
+- NCT06785649 | NOT_YET_RECRUITING | results=False | NA | The Efficacy of Lavender Herbal Tea in Misophonia | conds: Misophonia, Misophonia Treatment, Anxiety, Depression | intr: Lavender herbal tea | pubs: ['41579454:DERIVED (new)']
+- NCT04650425 | UNKNOWN | results=False | NA | Causal Evidence for Task Regulation by Anterior Cingulate Cortex | conds: Stroke | intr: Cognitive tasks
+- NCT07874399 | RECRUITING | results=False | NA | Time-Restricted Eating and Personalized Energy-Restricted Diet in Obese Postmenopausal Women | conds: Obesity (BMI Equal to or >30), Postmenopausal Symptoms, Sleep Quality | intr: Time-Restricted Eating, Personalized Energy-Restricted Diet
+- NCT05420987 | UNKNOWN | results=False | NA | Effect of Jing Si Herbal Tea on Inflammation in Patients With Cardiovascular Disease | conds: Inflammatory Response, Gut Microbiome, Life Quality, Trimethylamine N-oxide | intr: Jing Si herbal tea liquid packet
+- NCT03115892 | UNKNOWN | results=False | PHASE1,PHASE2 | Green Tea With Aloe Vera Mouthwash and Chlorohexidine Mouthwash | conds: Halitosis | intr: Green Tea With Aloe Vera mouthwash, Chlorhexidine mouthwash | pubs: ['23489103:RESULT (new)']
+- NCT07674602 | COMPLETED | results=False | NA | Effects of Fried Foods Prepared in Palm Oil Blended With Canola Oil Containing Surfactants and Green Tea Extract | conds: Healthy Adult Participants | intr: Fried Foods Prepared in Palm Oil Blended With Canola Oil Containing Surfactants and Green Tea Extrac
+- NCT02911753 | COMPLETED | results=True | NA | Feasibility and Acceptability of a Beverage Intervention for Hispanic Adults | conds: Obesity, Hypercholesterolemia, Hyperglycemia, Hypertriglyceridemia | intr: Mediterranean Lemonade, Green Tea, Flavored Water | pubs: ['30451147:DERIVED (new)', '29426328:DERIVED (new)']
+- NCT06307275 | RECRUITING | results=False | NA | Intermittent Fasting on Body Fat and Quality of Life | conds: Healthy | intr: Fasting, non fasting
+- NCT05396651 | COMPLETED | results=False | NA | Effect of Low Fermentable Oligosaccharides, Disaccharides ,Monosaccharides and Polyols (FODMAP) Diet on Control of Pediatric Irritable Bowel | conds: Irritable Bowel Syndrome | intr: low fodmap diet, NICE guidelines for IBS
+- NCT06609603 | UNKNOWN | results=False | NA | Clinical Study to Evaluate the Body Fat Reducing Effects of Heat-Treated Green Tea Extract Complex | conds: Body Fat | intr: HTGT compound, Placebo
+- NCT04451122 | UNKNOWN | results=False | NA | Treatment of Ocular Demodicosis by Cleansing the Eyelid Margins Combined With Tea Tree Oil Ointment | conds: Mite-Borne | intr: cleansing the eyelid margins
+- NCT03622762 | UNKNOWN | results=False | PHASE2 | Green Tea Extract on Soluble RAGE in Patients With Diabetic Nephropathy | conds: Diabetic Nephropathy Type 2 | intr: green tea extract, Placebo | pubs: ['34788550:DERIVED (new)']
+- NCT07642336 | COMPLETED | results=False | NA | Erector Spinae Plane Block Versus Thoracic Epidural Analgesia for Open Liver Resection | conds: Liver Neoplasms, Hepatic Resection, Liver Cancer | intr: Continuous Erector Spinae Plane block, Thoracic Epidural Analgesia (TEA)
+- NCT06911957 | COMPLETED | results=False | NA | PRECOG Pilot Project | conds: Cognition, Affect (Mental Function), Gut Microbiome | intr: Prebiotic blend, Placebo
+- NCT05990712 | UNKNOWN | results=False | PHASE4 | The Effect of a Pre-cataract Surgical Ocular Hygiene Regime on Microbial Load, Tear Osmolarity, Dry Eye, and Inflammatory Markers | conds: Dry Eye, Dry Eye Syndromes, Cataract | intr: Omega-3, Trehalose, Zocular Eyelid System Treatment, Blephadex cleansing eyelid wipes
+- NCT07180498 | RECRUITING | results=False | NA | Evaluation of the Effect of Tea Tree and Chlorhexidine Mouthwashes on Healing After Third Molar Extraction | conds: Postoperative Pain, Postoperative Complications, Trismus, Periodontal Health | intr: Chlorhexidine Gluconate 0.12% Mouthwash, Tea Tree Oil mouthwash
+- NCT06562699 | UNKNOWN | results=False | NA | Buffering Capacity of Matcha Green Tea on Salivary PH After an Acidic Attack | conds: Diet Habit | intr: Hot Matcha brew, Water, Cold matcha brew
+- NCT03790904 | COMPLETED | results=False | PHASE2 | Anti Plaque Efficacy of Salvadora Persica L. and Green Tea Mouthwash | conds: Periodontal Diseases | intr: Co., Kin, Distilled water
+- NCT07473193 | NOT_YET_RECRUITING | results=False | NA | Beetroot Beverage and Repeated Sprint Power Output During RAST | conds: Repeated Sprint Performance in Trained Athletes, Exercise Performance, Nitrate Supplementation | intr: Beetroot-based antioxidant beverage | pubs: [':RESULT (-)']
+- NCT07314658 | RECRUITING | results=False | NA | Time-restricted Eating (TRE) and Protein in Older Adults | conds: Generally Healthy Adults Over 60 Years Old | intr: TRE, ProtAM TRE, ProtPM TRE
+- NCT04579276 | COMPLETED | results=False | NA | Different Approaches to Thoracic Paravertebral Block | conds: Thoracotomy | intr: Thoracic paravertebral block, thoracic epidural analgesia | pubs: ['37878299:RESULT (new)']
+- NCT04597359 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | To Evaluate if Green Tea Can be Effective in Reducing the Progression of Prostate Cancer in Men on Close Monitoring | conds: Prostate Carcinoma | intr: Placebo Administration, Quality-of-Life Assessment, Questionnaire Administration, Sinecatechins
+- NCT00718094 | COMPLETED | results=True | PHASE2 | Pilot Study of Green Tea Extract (Polyphenon E®)in Ulcerative Colitis | conds: Mild to Moderately Active Ulcerative Colitis | intr: Polyphenon E®, Placebo Oral Tablet | pubs: ['23846486:RESULT (new)']
+- NCT00166166 | TERMINATED | results=True | PHASE2 | Endothelial Hyperpolarization in Humans | conds: Hyperlipidemia | intr: Tetraethylammonium (TEA), L-NG-monomethyl Arginine (L-NMMA), Bradykinin, Sodium nitroprusside | pubs: ['21555712:RESULT (new)', '25648989:DERIVED (new)', '24925526:DERIVED (new)', '24675657:DERIVED (new)']
+- NCT00303823 | COMPLETED | results=True | PHASE2 | Green Tea Extract in Preventing Cervical Cancer in Patients With Human Papillomavirus and Low-Grade Cervical Intraepithelial Neoplasia | conds: Cervical Cancer, Cervical Intraepithelial Neoplasia Grade 1, Human Papilloma Virus Infection | intr: placebo, defined green tea catechin extract, laboratory biomarker analysis | pubs: ['24388920:DERIVED (new)']
+- NCT01187147 | COMPLETED | results=False | NA | Effects of Green Tea Extract (GTE) on Systemic Oxidative and Antioxidative Status in Chinese Patients With Stable Asthma | conds: Asthma | intr: green tea extract
+- NCT05409872 | COMPLETED | results=False | NA | Effects of Vitamin D, Epigallocatechin Gallate, Vitamin B6, and D-Chiro-inositol Combination on Uterine Fibroids | conds: Leiomyoma, Uterine | intr: Combination of Epigallocatechin gallate, vitamin D, vitamin B6, and D-Chiro-inositol, Placebo
+- NCT03427879 | COMPLETED | results=False | PHASE1 | Effect of Flavonoids on Gut Permeability in Cyclists | conds: Gut Permeability, Gut Inflammation | intr: Low flavonoid beverage, High flavonoid beverage | pubs: ['36445874:DERIVED (new)']
+- NCT03537625 | COMPLETED | results=False | NA | Effects of Green Tea on Body Weight Reduction and Gut Microbiota | conds: Obesity | intr: Green tea
+- NCT01490008 | COMPLETED | results=False | PHASE1 | Systemic Exposure of Catechins From Veregen 15% Ointment in Patients With External Anogenital Warts and From Oral Intake of Green Tea Bevera | conds: Anogenital Warts | intr: Veregen, Green Tea
+- NCT02165553 | COMPLETED | results=False | NA | Impact of Hibiscus on Cardiovascular Disease Risk | conds: Cardiovascular Diseases | intr: Hibiscus sabdariffa calyces extract as a cold drink
+- NCT07097987 | COMPLETED | results=False | NA | Evaluation of the Efficacy of the Composite WM Formula in Promoting GLP-1 Secretion | conds: Obesity | intr: WM formula Group, Control group
+- NCT05222425 | UNKNOWN | results=False | PHASE3 | Treatment of Non-severe Covid-19 Outpatients With Xagrotin, Phase 3 | conds: Sars-cov-2 | intr: Xagrotin, Green tea
+- NCT01912820 | COMPLETED | results=False | PHASE1 | Effect of Quercetin on Green Tea Polyphenol Uptake in Prostate Tissue From Patients With Prostate Cancer Undergoing Surgery | conds: Adenocarcinoma of the Prostate, Recurrent Prostate Cancer, Stage I Prostate Cancer, Stage IIA Prostate Cancer | intr: green tea extract, quercetin, placebo, therapeutic conventional surgery
+- NCT05384431 | COMPLETED | results=False | PHASE3 | Can We Achieve 'high-quality' Weight Loss Through Supplementation and Exercise? the TRIM MUSCLE Study | conds: Overweight, Obesity | intr: Muscle5 and TRIM7, Mixed exercise
+- NCT05848830 | UNKNOWN | results=False | PHASE3 | Home-based Training and Supplementation in DM1 Patients | conds: Myotonic Dystrophy 1 | intr: Mult-ingredient supplement, Placebo, Concurrent exercise training
+- NCT04895800 | COMPLETED | results=False | NA | An Evaluation of the Effects of a Non-Caffeinated Energy Dietary Supplement | conds: Health Behavior | intr: Phytovive, Placebo, Caffeine
+- NCT01646047 | COMPLETED | results=False | NA | Diabetes Visual Function Supplement Study | conds: Diabetes Mellitus - Type 1, Diabetes Mellitus - Type 2, Non-proliferative Diabetic Retinopathy | intr: multi-component nutritional supplement capsules, multi-component dietary supplement | pubs: ['32990945:DERIVED (new)', '26089210:DERIVED (new)']
+- NCT02837107 | UNKNOWN | results=False | NA | Study of Supplement's Antioxidant Properties That Contains Natural Extracts | conds: Healthy | intr: Mind Master, Placebo | pubs: ['30115068:DERIVED (new)']
+- NCT06875791 | NOT_YET_RECRUITING | results=False | PHASE1,PHASE2 | Safety and Efficacy Trial of TV5M01 for Radiation-Induced Mucositis in Head and Neck Cancer Patients. | conds: Squamous Cell Carcinoma of the Head and Neck, Oral Mucositis | intr: Green Tea Extract with Morphine, Active Comparator: Triple Mixture Oral Rinse for Radiation-Induced 
+- NCT00666562 | COMPLETED | results=True | PHASE2 | Green Tea Extract in Treating Patients With Nonmetastatic Bladder Cancer | conds: Stage I Bladder Cancer, Stage II Bladder Cancer, Stage III Bladder Cancer | intr: Defined Green Tea Catechin Extract, Laboratory Biomarker Analysis, Pharmacological Study, Placebo
+- NCT07137819 | RECRUITING | results=False | PHASE3 | Phase 3 - Evaluation of Veregen® 10% Ointment as New Herbal Topical Treatment for Actinic Keratosis | conds: Actinic Keratosis of Face and Scalp | intr: Topical treatment
+- NCT03563365 | TERMINATED | results=False | PHASE4 | The Functional and Emotional Benefits of Replenix Power of Three With Resveratrol | conds: Acne Vulgaris | intr: Replenix Power of 3 Cream with resveratrol, Adapalene and Benzoyl peroxide gel, 0.1%/2.5%
+- NCT07094035 | RECRUITING | results=False | NA | The Beneficial Effects on the Intestinal Function of a Food Supplement Based on an Extract of Green Tea and a Pool of Probiotics in Subjects | conds: IBS, Constipation Predominant | intr: food supplement based on a mixture of green tea extract and a pool of probiotics., Placebo
+- NCT00449982 | COMPLETED | results=False | PHASE3 | Efficacy and Safety Study of Polyphenon E to Treat External Genital Warts | conds: Condylomata Acuminata | intr: Polyphenon E Ointment 10%, Polyphenon E Ointment 15% | pubs: ['18515521:DERIVED (new)']
+- NCT06414161 | UNKNOWN | results=False | NA | Management of Radiotherapy-related Xerostomia With Green Tea and Peppermint | conds: Radiation-induced Xerostomia | intr: mix of (green tea and peppermint)
+- NCT00005097 | TERMINATED | results=False | PHASE2 | Green Tea Extract in Treating Patients With Actinic Keratosis | conds: Non-melanomatous Skin Cancer | intr: Polyphenon E and Placebo | pubs: ['15598753:RESULT (new)', '12903852:RESULT (new)']
+- NCT07907081 | COMPLETED | results=False | NA | Comparative Analysis of Chamomile Tea (Matricaria Chamomilla) and Green Tea (Camellia Sinensis) Against Hyperlipidemia | conds: Hyperlipidemia, Normal | intr: Chamomile tea (Matricaria chamomilla), Green tea (Camellia sinensis)
+- NCT07840846 | NOT_YET_RECRUITING | results=False | NA | Standardized Large Yellow Tea Extract for Glucose and Lipid Metabolism in Overweight Adults With Hypertriglyceridemia | conds: Hypertriglyceridemia, Overweight , Obesity | intr: Standardized Large Yellow Tea Extract, Placebo
+- NCT00233935 | COMPLETED | results=False | PHASE1 | Defined Green Tea Catechin Extract in Preventing Esophageal Cancer in Patients With Barrett's Esophagus | conds: Barrett Esophagus | intr: placebo, defined green tea catechin extract
+- NCT06427915 | COMPLETED | results=False | NA | Studying Glucose and Appetite Response With Alternatives to Soda Pop | conds: Healthy Nutrition | intr: OLIPOP prebiotic soda, Traditional sugar-sweetened cola
+- NCT04930848 | COMPLETED | results=False | NA | Effectiveness of Aqueous Extract(Tea) of Euphorbia Hirta (Dudhiya) in Improving Sleep Quality | conds: Poor Sleep Quality | intr: Euphorbia hirta (Dudhiya), PBO(Combined powder of Terminalia arjuna and Terminalia bellerica)
+- NCT06592365 | UNKNOWN | results=False | NA | Clinical Study to Evaluate the Effects and Safety of Green Tea Extract on Blood Glucose Regulation | conds: Blood Sugar | intr: GTE, Placebo
+- NCT00005828 | COMPLETED | results=False | PHASE2 | Green Tea Extract in Treating Patients With Metastatic Prostate Cancer That Has Not Responded to Hormone Therapy | conds: Prostate Cancer | intr: green tea extract | pubs: ['12627508:RESULT (new)']
+- NCT04628624 | COMPLETED | results=False | NA | Green Tea Supplementation, Fat Oxidation and Body Composition in Overweight Individuals | conds: Overweight and Obesity, Fat Burn | intr: Placebo control, GTE 1, GTE 2
+- NCT06333496 | COMPLETED | results=False | NA | Effect of a Glucagon Like Peptide 1 (GLP1) Booster in Healthy Humans | conds: Blood Sugar; High, Overweight and Obesity, Fat Burn, Obesity | intr: GLP-1 Booster (GB)
+- NCT01384110 | COMPLETED | results=False | PHASE1 | Efficacy of a Brown Seaweed Extract Rich in Polyphenols on Glycemic Response to Sucrose in Human | conds: Hyperglycemia | intr: Reduction of glycemic index of ingested foods
+- NCT01615289 | COMPLETED | results=False | NA | Neural Effects of Green Tea Extract on Dorsolateral Prefrontal Cortex | conds: Exploratory Behavior | intr: Single intragastric instillation of 250 ml green tea extract, Single intragastric instillation of 50
+- NCT00611650 | TERMINATED | results=False | PHASE2 | Green Tea Extract in Treating Current or Former Smokers With Bronchial Dysplasia | conds: Lung Cancer, Precancerous Condition, Tobacco Use Disorder | intr: defined green tea catechin extract, placebo
+- NCT02029352 | COMPLETED | results=False | PHASE2,PHASE3 | Topical Green Tea Ointment in Treatment of Superficial Skin Cancer | conds: Carcinoma, Basal Cell | intr: Sinecatechins 10%, Placebo
+- NCT01928485 | TERMINATED | results=True | PHASE2 | Green Tea Extract in Treating Patients With Low-Risk Prostate Cancer | conds: Stage I Prostate Cancer, Stage IIA Prostate Cancer, Stage IIB Prostate Cancer | intr: active surveillance, Sunphenon, laboratory biomarker analysis, Questionnaire Administration
+- NCT05272475 | COMPLETED | results=False | NA | The Acute Effects of Chamomile Intake on Blood Coagulation Tests in Healthy Volunteers | conds: Coagulation Disorder | intr: Chamomile Tea, Chamomile Extract Capsule | pubs: ['38300838:DERIVED (new)']
+- NCT02329600 | COMPLETED | results=True | PHASE3 | Evaluation of Green Tea as Antioxidant Agent in Management of Oral Lichen Planus | conds: Oral Lichen Planus | intr: green tea tablets (Green tea extract 5:1) 200 mg, Triamcinolone Acetonide | pubs: ['22582895:RESULT (new)', '12419687:RESULT (new)', '16225582:RESULT (new)', '21827739:RESULT (new)', '22322481:RESULT (new)']
+- NCT01856868 | COMPLETED | results=True | PHASE1,PHASE2 | Use of (-)-Epicatechin in the Treatment of Becker Muscular Dystrophy (Pilot Study) | conds: Becker Muscular Dystrophy | intr: (-)-epicatechin
+- NCT07052890 | COMPLETED | results=False | NA | Curcumin, Vitamin D and Green Tea in IBS-D | conds: Irritable Bowel Syndrome (IBS), Irritable Bowel Syndrome With Diarrhea (IBS-D) | intr: Curcumin, vitamin d and green tea extract, Placebo Capsule(s)
+- NCT02741804 | UNKNOWN | results=False | NA | Lifestyle Intervention Program for Cognitive Impairment | conds: Mild Cognitive Impairment | intr: BBH-1001 Brain Health Supplement, Lifestyle Intervention, Brain Health Placebo
+- NCT00003197 | COMPLETED | results=False | PHASE1 | Green Tea Extract in Treating Patients With Advanced Solid Tumors | conds: Unspecified Adult Solid Tumor, Protocol Specific | intr: green tea extract
+- NCT00389350 | COMPLETED | results=False | PHASE2,PHASE3 | Effect of an Extract of Green Tea on Adults With Type 2 Diabetes | conds: Diabetes | intr: Extract of Green and Black Tea
+- NCT06148662 | COMPLETED | results=False | PHASE4 | The Effect of Oral Sprays on Salivary pH | conds: Oral Health | intr: No intervention (negative control), Water (positive control), Dental foam "Biorepair PERIBIOMA", Den | pubs: ['38668005:DERIVED (new)']
+- NCT00573885 | COMPLETED | results=False | PHASE2 | Green Tea Extract in Preventing Cancer in Former and Current Heavy Smokers With Abnormal Sputum | conds: Lung Cancer, Tobacco Use Disorder | intr: defined green tea catechin extract, placebo
+- NCT06576674 | COMPLETED | results=True | NA | Satiety and Alcohol Challenge | conds: Alcohol Drinking | intr: Dietary Fiber + Green Tea Extract, Alcohol, Aspartame Placebo Supplement
+- NCT05986123 | COMPLETED | results=False | NA | Safety and Efficacy of Topical Cream for Post-inflammatory Hyperpigmentation Skin Among Malaysians | conds: Healthy | intr: Topical cream Z for PIH
+- NCT01672359 | COMPLETED | results=False | NA | Evaluating Whole Foods Supplementation on Cognition | conds: Sub-optimal Cognitive Function, Sub-optimal Immune Function | intr: Ginkgo Synergy® and Choline, OPC Synergy® and Catalyn, Placebo | pubs: ['24495355:DERIVED (new)']
+- NCT01923597 | COMPLETED | results=False | PHASE2 | Effect of Green Tea (Epigallocatechin Gallate) on Albuminuria in Patients With Diabetic Nephropathy. | conds: Diabetic Nephropathy, Hypertension | intr: Green tea extract | pubs: ['27320846:RESULT (new)']
+- NCT02147353 | COMPLETED | results=True | NA | Treatment of External Genital Warts With Cryotherapy and Sinecatechins 15% Ointment | conds: External Genital Warts | intr: Sinecatechins 15% Ointment, Cryotherapy alone | pubs: ['25607709:RESULT (new)']
+- NCT05130905 | COMPLETED | results=False | NA | RiteStart Personal Nutritional Dietary Study | conds: Healthy Nutrition | intr: RiteStart Supplement
+- NCT07534280 | COMPLETED | results=False | NA | Herbal Tea Extract for Management of Rhinosinusitis | conds: Rhino Sinusitis | intr: mango leaves extract, local steroids, nasal saline, amoxicillin clavulanates
+- NCT06523218 | UNKNOWN | results=False | NA | A Clinical Trial to Investigate the Efficacy of a Supplement to Improve and Maintain Cognitive Function and Memory | conds: Cognitive Decline, Cognitive Function | intr: MindMD Supplement, Placebo
+- NCT01662232 | COMPLETED | results=False | NA | Improvement of Endothelial Function by EGCG | conds: Cardiovascular Diseases | intr: Green tea beverage, Green tea extract, EGCG, Placebo
+- NCT05323084 | COMPLETED | results=True | NA | Effect of a Dietary Supplement on Quality of Life | conds: Quality of Life | intr: Dietary supplement
+- NCT05333315 | COMPLETED | results=False | NA | Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults | conds: Overweight and Obesity, Inflammation, Hypercholesterolemia, Hypertension | intr: IP1, IP2, IP3, IP4
+- NCT02116517 | COMPLETED | results=False | PHASE3 | Effects of Green Tea Extract on Obese Women With High Level of LDL | conds: Obese, Hyperlipidemia | intr: green tea extract, Placebo | pubs: ['30400924:DERIVED (new)']
+- NCT00567905 | COMPLETED | results=False | PHASE2,PHASE3 | Effect of Green Tea Extract on Type 2 Diabetes | conds: Type 2 Diabetes | intr: Green tea extract | pubs: ['21649457:DERIVED (new)']
+- NCT04455009 | COMPLETED | results=False | NA | Acute Effects of Fitness Drink Formulas on Energy Expenditure and Fat Metabolism | conds: Caffeine, Diet, Healthy, Fat Burn, Cognitive Change | intr: Fitness Drink Formula
+- NCT00744549 | COMPLETED | results=False | PHASE2 | Study of Antioxidants on MRI Detectable Early Stage Prostate Cancer Among Men on Active Surveillance | conds: Cancer of the Prostate, Prostate Cancer, Prostatic Neoplasms | intr: Lycopene, Vitamin D3, Selenium, Green Tea Extract, Vitamin E, Placebo
+- NCT00844792 | COMPLETED | results=False | PHASE2 | Study of Antioxidants on Prostate Tumors in Men Undergoing Radical Prostatectomy for Prostate Cancer | conds: Cancer of the Prostate, Prostate Cancer, Prostatic Neoplasms | intr: Lycopene, Vitamin D3, Selenium, Green Tea Extract, Vitamin E, Placebo
+- NCT04850326 | COMPLETED | results=False | NA | Clinical Study to Evaluate the Short Time Efficacy of AP Green Tea Extract Affer High Fat, High Carbohydrate Diet | conds: Blood Glucose, High | intr: AP green tea extract
+- NCT04124016 | SUSPENDED | results=False | NA | Metabotypes in the Urinary Excretion of Flavan-3-ol Metabolites: "Metanols" | conds: Diet Modification | intr: Inulin, green tea extract, grape seed, grape seed extract
+- NCT03423719 | COMPLETED | results=False | NA | Evaluation of Fiit-ns® in Health-related Quality of Life Improvement in Overweight and Obese Subjects | conds: Overweight and Obesity | intr: Fiit-ns®, Placebo
+- NCT04872946 | COMPLETED | results=False | NA | Topical and Oral Regimen for Skin Health | conds: Skin Abnormalities | intr: Tea, Serum, Moisturizer
+- NCT02531295 | TERMINATED | results=True | PHASE1 | Immunologic Response to Kansui in Treated HIV+ Individuals: a Dose Escalation Study | conds: HIV, Human Immunodeficiency Virus | intr: Euphorbia kansui extract powder prepared as tea | pubs: ['27977742:RESULT (new)', '28842560:RESULT (new)', '30031972:RESULT (new)']
+- NCT03475823 | COMPLETED | results=False | NA | Cognitive and Blood Flow Effects of Mountain Tea | conds: Cognitive Change, Affect, Blood Pressure, Neuroimaging | intr: Sideritis Scardica, Ginkgo biloba, Placebo control
+- NCT05045443 | COMPLETED | results=False | PHASE2 | Safety and Efficacy of Curcumin in Children With Acute Lymphoblastic Leukemia | conds: Acute Lymphoblastic Leukemia, Pediatric | intr: Curcumin, Standard of Care
+- NCT06229795 | COMPLETED | results=False | PHASE3 | Effect of Green Tea on Obese Pediatrics With Prediabetes | conds: PreDiabetes | intr: Green Tea Leaf Extract, Metformin Hydrochloride 500 MG
+- NCT02011451 | WITHDRAWN | results=False | PHASE2 | Safety and Brain Protection Effects of the Green Tea Extract Theaphenon 95% (95% Pure EGCG) in Multiple Sclerosis | conds: Multiple Sclerosis | intr: 95% Pure ECGC capsules 200mg, Placebo Comparator:
+- NCT05072405 | COMPLETED | results=False | PHASE4 | The Interaction of Herbs and Statins | conds: Drug Interaction | intr: Simvastatin 20 mg (Zocor®, MSD), rosuvastatin 10 mg (Crestor®, Astra Zeneca)
+- NCT06687824 | COMPLETED | results=True | NA | Effect of Black Tea Extract Impregnated Gauze on Extracted Socket | conds: Extracted Socket | intr: Black Tea Extract, 0.5% Povidone Iodine Impregnated Sterile Gauze | pubs: ['25024733:RESULT (new)', '3827541:RESULT (new)']
+- NCT05898750 | COMPLETED | results=False | EARLY_PHASE1 | Antidiabetic Potiential of Moringa and Dom Extract | conds: Diabetes | intr: MorDom
+- NCT03066323 | COMPLETED | results=False | NA | Effect of Tea Extract on Post Prandial Blood Glucose | conds: Healthy | intr: Rice with tea extract, Rice without tea extract
+- NCT07164079 | COMPLETED | results=False | NA | Rubus Sanctus (Wild Blackberry) Root Extract as a Dietary Supplement for Graves' Disease | conds: Graves Disease (Basedow&#39;s Disease) | intr: blackberry root, black tea | pubs: ['26131218:RESULT (new)', '34221089:RESULT (new)']
+- NCT03022214 | COMPLETED | results=False | NA | ADAPT: Efficacy of a Dietary Supplement During and After Exercise | conds: Dietary Supplementation During Exercise | intr: Placebo, Intervention
+- NCT01360567 | COMPLETED | results=False | PHASE3 | The Effect of Green Tea Extract on Type 2 Diabetes With Hyperlipidemia | conds: Type 2 Diabetes, Hyperlipidemia | intr: Green tea extract, Placebo | pubs: ['24614112:DERIVED (new)']
+- NCT01695850 | COMPLETED | results=False | PHASE2 | A Double-blinded,Double-dummy Clinical Trial of Chinese Herbal Medicine (MaZiRenWan) for Functional Constipation | conds: Functional Constipation, Gastrointestinal Disorders | intr: MZRW, Senna, placebo | pubs: ['29654915:DERIVED (new)', '24180235:DERIVED (new)']
+- NCT01032031 | COMPLETED | results=False | NA | The Effect of Green Tea and Vitamin C on Skin Health | conds: Skin Cancer | intr: Green tea + vitamin C high dose, Placebo capsule | pubs: ['23351338:RESULT (new)', '26178731:RESULT (new)', '26454512:RESULT (new)', '25306116:RESULT (new)']
+- NCT02731495 | COMPLETED | results=False | PHASE2,PHASE3 | Effect of Epigallocatechin -3-gallate Supplementation in Traumatic Brain Injury Patients | conds: Traumatic Brain Injury | intr: EGCG, Placebo (deionized water)
+- NCT02015312 | COMPLETED | results=False | PHASE2 | A Trial for the Treatment of Cardiac AL-Amyloidosis With the Green Tea Compound Epigallocatechin-3-gallate (TAME-AL) | conds: Light Chain (AL) Amyloidosis, Cardiac Involvement | intr: Epigallocatechin-3-gallate (EGCG), Placebo
+- NCT05181176 | UNKNOWN | results=False | NA | Effect of Coffee and Tea Consumption on Adolescent Weight Control | conds: Body Weight | intr: Coffee, Green tea, Herbal tea (placebo) | pubs: ['35639365:DERIVED (new)']
+- NCT00611416 | COMPLETED | results=False | NA | The Role of Tea Catechins and Caffeine in Relation to Energy Metabolism | conds: Obesity | intr: green tea, Mix of catechins and caffeine, EGCG, EGC
+- NCT04300855 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Clinical Trial of Green Tea Catechins in Men on Active Surveillance | conds: Prostate Cancer, Prostate Adenocarcinoma | intr: Sunphenon, Placebo
+- NCT01857258 | COMPLETED | results=True | NA | Green Tea Confections For Managing Postprandial Hyperglycemia-Induced Vascular Endothelial Dysfunction | conds: Hyperglycemia, Cardiovascular Disease | intr: Green Tea Concentrate | pubs: ['27494176:RESULT (new)']
+- NCT00448513 | COMPLETED | results=False | NA | Effects of Tea Catechin Extracts on Oxidative Damage | conds: Healthy | intr: catechin extracts
+- NCT01008020 | COMPLETED | results=False | NA | Effects of Tea Catechin Consumption on the Prophylaxis of Influenza Infection | conds: Influenza Infection | intr: tea catechin extracts | pubs: ['21338496:DERIVED (new)']
+- NCT00692731 | COMPLETED | results=False |  | Efficacy of a Tea Catechin Sports Drink for Enhancing Exercise-Induced Fat Loss | conds: Overweight, Obesity | intr: 500 mL/day of a beverage providing approximately 625 mg catechins, Control beverage matched for ener
+- NCT03194620 | COMPLETED | results=False | NA | Absorption, Metabolism and Excretion of Dietary Polyphenolic Bioactives in Humans | conds: Healthy | intr: Thearubigins, Theaflavins, Procyanidin Dimer B2 (DB2), (-)-Epigallocatechin-3-O-gallate (EGCG)
+- NCT00812448 | COMPLETED | results=False | NA | Catechin Containing Mask for the Prevention of Influenza Infection | conds: Influenza Infection | intr: tea catechin extracts
+- NCT03973996 | COMPLETED | results=True | NA | Gut-level Antiinflammatory Activities of Green Tea in Metabolic Syndrome | conds: Dysbiosis, Endotoxemia, Metabolic Syndrome, Inflammation | intr: Green Tea Extract, Placebo | pubs: ['38430822:RESULT (new)']
+- NCT06992765 | ACTIVE_NOT_RECRUITING | results=False | NA | Evaluation of Green Tea for Improving Blood Lipid Profile | conds: Hypercholesterolemia | intr: Intervention, Placebo
+- NCT01340599 | TERMINATED | results=False | PHASE2 | Defined Green Tea Catechin Extract in Treating Patients With Localized Prostate Cancer Undergoing Surgery | conds: Stage I Prostate Cancer, Stage IIA Prostate Cancer, Stage IIB Prostate Cancer | intr: defined green tea catechin extract, placebo, immunohistochemistry staining method, immunoenzyme tech
+- NCT01363869 | COMPLETED | results=False | NA | Effects of Green Tea on Level of Serum Uric Acid in Healthy Individuals | conds: Hyperuricemia, Gout | intr: green tea extracts 2 gm/day, green tea extracts 4 gm/day, green tea extracts 6 gm/day
+- NCT00253643 | COMPLETED | results=True | NA | Fish Oil and Green Tea Extract in Preventing Prostate Cancer in Patients Who Are at Risk for Developing Prostate Cancer | conds: Precancerous Condition, Prostate Cancer | intr: green tea catechin extract, fish oil, placebo, placebo | pubs: ['27646578:DERIVED (new)']
+- NCT07682324 | NOT_YET_RECRUITING | results=False | PHASE1 | Daily, Encapsulated, Green Tea Extract to Mitigate Neuropathic Pain in Patients With Established Cancer-Associated Neuropathic Pain | conds: Neuropathic Pain, Cancer Treatment | intr: Green Tea Leaf Extract Decaffeinated, Placebo Control
+- NCT01492413 | COMPLETED | results=False | NA | Impact of an Online Behavioral Weight Loss Program | conds: Overweight, Obesity | intr: online lifestyle counseling and a fortified diet beverage
+- NCT00091325 | COMPLETED | results=False | PHASE1 | Green Tea Extract (Polyphenon E) in Preventing Cancer in Healthy Participants | conds: Unspecified Adult Solid Tumor, Protocol Specific | intr: defined green tea catechin extract
+- NCT01606124 | TERMINATED | results=True | PHASE2 | Polyphenon E in Treating Patients With High-Risk of Colorectal Cancer | conds: Advanced Colorectal Adenomas, Adenocarcinoma of the Colon, Stage I Colon Cancer, Stage II Colon Cancer | intr: defined green tea catechin extract, placebo, questionnaire administration, laboratory biomarker anal
+- NCT03248115 | COMPLETED | results=False | NA | Bioavailability of Green Tea and Coffee Polyphenols | conds: Diet, Food, and Nutrition, Dietary Supplements | intr: Green tea and green coffee extract tablets
+- NCT01433289 | COMPLETED | results=True | PHASE1 | Study to Evaluate Safety and Toxicity of Polyphenon E (EGCG) in HIV-1-Infected Individuals | conds: HIV Infection | intr: Polyphenon E, Placebo
+- NCT00942422 | TERMINATED | results=True | PHASE2 | Green Tea Extract in Treating Patients With Monoclonal Gammopathy of Undetermined Significance and/or Smoldering Multiple Myeloma | conds: Multiple Myeloma and Plasma Cell Neoplasm, Precancerous Condition | intr: defined green tea catechin extract, gene expression analysis, protein analysis, laboratory biomarker
+- NCT05988788 | COMPLETED | results=False | NA | Effect of Epigallocatechin-3-Gallate Solution as a Root Canal Irrigant on Post-Operative Pain Intensity and Bacterial Load Reduction in Necr | conds: Necrotic Pulp | intr: Epigallocatechin-3-gallate, sodium hypochlorite
+- NCT01360320 | COMPLETED | results=False | PHASE2 | Minimizing the Risk of Metachronous Adenomas of the Colorectum With Green Tea Extract -MIRACLE- | conds: Colorectal Serrated Adenomas, Colorectal Tubular Adenomas, Colorectal Villous Adenomas, Colorectal Tubulovillous Adenomas | intr: Green tea extract of Camellia Sinensis, Green tea extract of Camellia Sinensis followed by placebo | pubs: ['41039315:DERIVED (new)', '40433816:DERIVED (new)', '35213393:DERIVED (new)', '29466429:DERIVED (new)']
+- NCT03278925 | UNKNOWN | results=False | PHASE1 | Defined Green Tea Catechin Extract in Preventing Liver Cancer in Participants With Cirrhosis | conds: Cirrhosis | intr: Biopsy, Biospecimen Collection, Computed Tomography, Defined Green Tea Catechin Extract
+- NCT01082302 | COMPLETED | results=False | PHASE4 | Pharmacokinetic Study of Topically Applied Veregen 15% Compared With Oral Intake of Green Tea Beverage | conds: Genital Warts, Perianal Warts | intr: Polyphenon E (Veregen) 15% ointment, Green Tea Beverage with defined catechin content
+- NCT01317953 | AVAILABLE | results=False |  | Oral Green Tea Extract for Small Cell Lung Cancer | conds: Small Cell Lung Carcinoma | intr: epigallocatechin gallate
+- NCT06289439 | UNKNOWN | results=False | NA | Effect of Green Tea Supplementation in Older Adult Women | conds: Female, Older Adults, Sarcopenia | intr: Green tea (Camellia sinensis) 1000 mg as extract, Placebo
+- NCT00459407 | COMPLETED | results=False | PHASE1 | Defined Green Tea Catechins in Treating Patients With Prostate Cancer Undergoing Surgery to Remove the Prostate | conds: Adenocarcinoma of the Prostate, Stage I Prostate Cancer, Stage II Prostate Cancer | intr: defined green tea catechin extract, placebo, immunohistochemistry staining method, immunoenzyme tech | pubs: ['22044694:DERIVED (new)']
+- NCT03719469 | COMPLETED | results=False |  | Circulating microRNAs as Novel Prognosis Biomarkers for Rheumatoid Arthritis | conds: Rh Disease | intr: Green tea group | pubs: ['31282597:DERIVED (new)']
+- NCT00944827 | COMPLETED | results=False | PHASE2 | Combination Treatment With Green Tea Extract and Statins in Patients With Hypercholesterolemia | conds: Hypercholesterolemia | intr: Green Tea Extract - Catechins, Placebo
+- NCT01018615 | COMPLETED | results=False | PHASE1 | Safety, Metabolism, and Antioxidant Activity of Silymarin and Green Tea Extract in Patients With Chronic Hepatitis C | conds: Chronic Hepatitis C, Oxidative Stress | intr: silymarin, green tea extract (EGCG)
+- NCT05803590 | UNKNOWN | results=False | NA | Compare the Effect of Green Tea Mouthwash vs Chlorohexidine Mouthwash in Children With Plaque-induced Gingivitis | conds: Plaque Induced Gingivitis | intr: Green tea mouthwash, Chlorhexidine mouthwash
+- NCT06504706 | COMPLETED | results=False | NA | Effect of Matcha Tea Versus Green Tea on Salivary pH and Flow Rate in High Caries Risk Patients | conds: Salivary pH | intr: Matcha Tea, Green Tea
+- NCT00516243 | COMPLETED | results=False | PHASE1 | Defined Green Tea Catechin Extract in Treating Women With Hormone Receptor Negative Stage I-III Breast Cancer | conds: Estrogen Receptor-negative Breast Cancer, Progesterone Receptor-negative Breast Cancer, Stage I Breast Cancer, Stage II Breast Cancer | intr: placebo, quality-of-life assessment, questionnaire administration, laboratory biomarker analysis | pubs: ['22827973:DERIVED (new)']
+- NCT06363201 | UNKNOWN | results=False | NA | Effect and Safety of Ocoxin Oral Solution on the Quality of Life of Paediatric Patients With Advanced Stage Solid Tumours | conds: Advanced Cancer, Advanced Solid Tumor, Lymphoma, Hodgkin, Central Nervous System Tumor | intr: Ocoxin Oral solution
+- NCT02577393 | UNKNOWN | results=False | PHASE2 | Study of Epigallocatechin-3-gallate (EGCG) for Esophagus Protection in Patients With Lung Cancer Receiving Radial Radiotherapy | conds: Lung Neoplasms, Esophagitis, Prevention & Control, Epigallocatechin Gallate | intr: EGCG, EGCG, mLDG
+- NCT00799890 | COMPLETED | results=False | PHASE2,PHASE3 | Sunphenon in Progressive Forms of Multiple Sclerosis | conds: Multiple Sclerosis | intr: Sunphenon EGCG, Placebo | pubs: ['33995239:DERIVED (new)', '33622766:DERIVED (new)']
+- NCT02887950 | TERMINATED | results=False | NA | Resistant Starch, Epigallocatechin Gallate and Chlorogenic Acid for Body Weight Loss in Menopause | conds: Overweight | intr: Nutritional counseling, Equikilon-3 months, Equikilon-6 months
+- NCT02008721 | COMPLETED | results=True | PHASE3 | Progression Rate of MSA Under EGCG Supplementation as Anti-Aggregation-Approach | conds: Multiple System Atrophy | intr: EGCG as putative neuroprotective agent, Placebo | pubs: ['31278067:DERIVED (new)']
+- NCT02381145 | COMPLETED | results=False | NA | Dietary Polyphenols and Insulin Sensitivity in Overweight and Obese Humans | conds: Healthy | intr: EGCG+RSV-supplementation, Placebo | pubs: ['39182247:DERIVED (new)', '30830386:DERIVED (new)', '28618864:DERIVED (new)', '27194304:DERIVED (new)']
+- NCT00525668 | COMPLETED | results=False | PHASE1,PHASE2 | Sunphenon Epigallocatechin-gallate (EGCg) in Relapsing-remitting Multiple Sclerosis (SuniMS Study) | conds: Relapsing-remitting Multiple Sclerosis | intr: epigallocatechin-gallate (Sunphenon), placebo | pubs: ['33762428:DERIVED (new)']
+- NCT01394796 | COMPLETED | results=False | PHASE2 | Egcg, a dyrk1a Inhibitor as Therapeutic Tool for Reversing Cognitive Deficits in Down Syndrome Individuals. | conds: Down Syndrome | intr: Epigallocatechin-3-gallate (EGCG), Placebo
+- NCT03740295 | COMPLETED | results=False | PHASE2 | Impact of Ketone Bodies and Epigallocatechin Gallate in Multiple Sclerosis | conds: Multiple Sclerosis | intr: Coconut oil and epigallocatechin gallate, Placebo
+- NCT06098456 | COMPLETED | results=False | PHASE2 | Epigallocatechin Gallate and Other Antural Compounds in HPV Infections | conds: Papilloma-induced Cervical Lesions | intr: EGCG, FA, HA, B12
+- NCT06265532 | COMPLETED | results=False | PHASE1 | Collagen-targeted Positron Emission Tomography (PET) Imaging for Assessment of EGCG Effect | conds: Idiopathic Pulmonary Fibrosis | intr: EGCG 300 mg, Placebo for EGCG 300 mg, EGCG 600 mg, Placebo for EGCG 600 mg | pubs: ['37116909:RESULT (new)']
+- NCT00951834 | COMPLETED | results=False | PHASE2,PHASE3 | Sunphenon EGCg (Epigallocatechin-Gallate) in the Early Stage of Alzheimer´s Disease | conds: Alzheimer's Disease | intr: Epigallocatechin-Gallate, Placebo
+- NCT05349903 | COMPLETED | results=False | NA | Impact of Slowly Digestible Carbohydrates on the Gut-brain Axis | conds: Appetitive Behavior, Obesity, Diabetes Mellitus, Type 2 | intr: Rice flour, Alternanoligosaccharide 15, Inulin, Waxy potato starch
+- NCT06768086 | COMPLETED | results=False |  | Preoperative Administration of EGCG, Vitamin D and DCI Prior Hysteroscopic Myomectomy | conds: Uterine Fibroids, Hysteroscopic Myomectomy, Treatment Compliance, Patient Compliance | intr: Hysteroscopic myomectomy | pubs: ['33797759:RESULT (new)', '38183422:RESULT (new)', '37958957:RESULT (new)', '37922098:RESULT (new)', '29139105:RESULT (new)', '38398883:RESULT (new)', '34063635:RESULT (new)', '36986169:RESULT (new)', '38068842:RESULT (new)', '35215384:RESULT (new)', '32379687:RESULT (new)', '35960442:RESULT (new)', '33670322:RESULT (new)', '32271452:RESULT (new)', '34658291:RESULT (new)']
+- NCT02558933 | COMPLETED | results=False | NA | Epigallocatechin Gallate (EGCG) to Improve Cognitive Performance in Foetal Alcohol Syndrome (FAS) Children | conds: Fetal Alcohol Syndrome (FAS) | intr: Epigallocatechin gallate | pubs: ['41484421:DERIVED (new)']
+- NCT01902069 | COMPLETED | results=False | NA | The Gut-brain Axis in Food Reward and Alcohol Consumption | conds: Impulsivity, Alcohol Consumption | intr: Phospholean, Placebo
+- NCT01993966 | UNKNOWN | results=False |  | EGCG Modulate the Cytotoxic Effects of Chemotherapeutic Agents in Human Urothelial Carcinoma Cells | conds: Urothelial Carcinoma | intr: 
+- NCT07320183 | NOT_YET_RECRUITING | results=False | NA | Effect of a Dietary Supplement Containing EGCG, Folic Acid, Vitamin B12 and Hyaluronic Acid in Supporting Male Genital Balance in Subjects E | conds: HPV - Anogenital Human Papilloma Virus Infection, Infertilities | intr: pervistop | pubs: [':RESULT (-)', '39338571:RESULT (new)', '36983172:RESULT (new)', '33182663:RESULT (new)', ':RESULT (-)', '14682443:RESULT (new)', '15574793:RESULT (new)', '25145486:RESULT (new)', '11927495:RESULT (new)', '25985325:RESULT (new)', '14512803:RESULT (new)', '33920477:RESULT (new)', '20686382:RESULT (new)', '28884125:RESULT (new)', '21294779:RESULT (new)', '18515521:RESULT (new)', '18363746:RESULT (new)', '17958849:RESULT (new)', '33623784:RESULT (new)', '32038557:RESULT (new)', '34547493:RESULT (new)', '23891022:RESULT (new)', '33297367:RESULT (new)', '25270519:RESULT (new)', '19100537:RESULT (new)', '23391351:RESULT (new)', '24365799:RESULT (new)', '19513123:RESULT (new)', '30344281:RESULT (new)', '26453270:RESULT (new)', '24794396:RESULT (new)', '30799413:RESULT (new)', '23319742:RESULT (new)', '25043222:RESULT (new)', '23510764:RESULT (new)', '23199966:RESULT (new)', '23346264:RESULT (new)', '19540281:RESULT (new)', ':RESULT (-)', '33538338:RESULT (new)']
+- NCT03928847 | COMPLETED | results=True | EARLY_PHASE1 | Fibroblast Specific Inhibition of LOXL2 and TGFbeta1 Signaling in Patients With Pulmonary Fibrosis. | conds: Idiopathic Pulmonary Fibrosis | intr: Epigallocatechin-3-gallate (EGCG) | pubs: ['32160670:RESULT (new)']
+- NCT01357681 | COMPLETED | results=False | PHASE2 | Effects of EGCG (Epigallocatechin Gallate) in Huntington's Disease (ETON-Study) | conds: Huntington Disease | intr: (2)-epigallocatechin-3-gallate (EGCG), Placebo
+- NCT03883880 | TERMINATED | results=False | NA | Salivary Interactions With Chemosensations | conds: Diet, Food Choice, Taste | intr: Epigallocatechin gallate, Epigallocatechin gallate control, Linoleic acid, Linoleic acid control | pubs: ['34655570:DERIVED (new)']
+- NCT00981292 | COMPLETED | results=True | PHASE4 | Effects of Epigallocatechin Gallate (EGCG) in Healthy, Young Adults | conds: Cognitive Function, Mood | intr: EGCG, Placebo
+- NCT05758571 | UNKNOWN | results=False | PHASE1,PHASE2 | Oxygen Atomizing Inhalation of EGCG in the Treatment Interstitial Pneumonia in Cancer Patients | conds: Interstitial Pneumonia, Neoplasms Malignant | intr: EGCG | pubs: ['38632501:DERIVED (new)']
+- NCT06285357 | RECRUITING | results=False | NA | The Effect of the Association EGCG, Folic Acid and Vitamin B12 in Preventing the Persistence of HPV Infection. | conds: HPV Infection | intr: EGCG + folic acid + B12
+- NCT07572396 | RECRUITING | results=False | PHASE2 | Phase II Study of Dysplasix™ Intravaginal Suppositories in Patients Patients With High-Risk HPV and Mild Cervical Cytologic Abnormalities | conds: High-risk HPV (Any Strain), LSIL, Low Grade Squamous Intraepithelial Lesion, ASC-US, HPV Infection | intr: EGCG and Quinine Sulfate Vaginal Suppository, Placebo
+- NCT01302639 | COMPLETED | results=False | NA | Dietary Polyphenols and Lipid Oxidation | conds: Obesity, Insulin Sensitivity, Type 2 Diabetes Mellitus | intr: Comparison of different combinations of polyphenols with respect to effects on fat oxidation | pubs: ['24317366:DERIVED (new)']
+- NCT05195918 | COMPLETED | results=False | PHASE1 | Study of Oral Epigallocatechin-3-gallate (EGCG) in IPF Patients | conds: Idiopathic Pulmonary Fibrosis | intr: EGCG 300 mg + Nintedanib, EGCG 300 mg + Pirfenidone, Placebo 2 capsules + Nintedanib or Pirfenidone, | pubs: ['32160670:RESULT (new)', '33472968:RESULT (new)']
+- NCT06068543 | SUSPENDED | results=False | PHASE2 | Reducing Frailty for Older Cancer Survivors Using Supplements II | conds: Frailty, Inflammation | intr: Epigallocatechin-3-Gallate (EGCG), Microcrystalline cellulose (MCC), Ascorbic Acid (Vitamin C)
+- NCT00476138 | UNKNOWN | results=False | PHASE1,PHASE2 | Effect of Epigallocatechin-Gallate on Inner Retinal Function in Ocular Hypertension and Early Glaucoma | conds: Primary Open Angle Glaucoma, Ocular Hypertension | intr: Epigallocatechin-gallate | pubs: ['19290537:DERIVED (new)']
+- NCT07149506 | ENROLLING_BY_INVITATION | results=False | PHASE3 | Oral or Topical Catechins for Radiation Dermatitis | conds: Radiation Dermatitis Acute, Radiation Dermatitis, Fibrosis; Skin | intr: Epicatechin, Epigallocatechin Gallate (EGCG), Microcrystalline Cellulose NF (placebo), Saline (0.9% 
+- NCT00949923 | COMPLETED | results=False | NA | Green Tea in Breast Cancer Patients | conds: Incident Breast Cancer | intr: tea capsule
+- NCT06661083 | COMPLETED | results=False | NA | The Effect of Natural Molecules on HPV Infection | conds: HPV (Human Papillomavirus)-associated | intr: EGCG, FA, HA, B12
+- NCT07754253 | RECRUITING | results=False | PHASE1 | Effectiveness of Epigallocatechin-3-Gallate (Green Tea Extract) as Adjunctive Locally Delivered Nanotherapeutic in the Treatment of Stage II | conds: Peridontitis | intr: Ten patients with stage II periodontitis will receive epigallocatechin-3-gallate (EGCG)-loaded chito
+- NCT01687556 | COMPLETED | results=False | NA | EGCG Improves Acne by Modulating Molecular Targets | conds: Acne Vulgaris | intr: topical EGCG application on acne
+- NCT04177693 | COMPLETED | results=True | PHASE1 | Pharmacokinetics and Hepatic Safety of EGCG | conds: Uterine Fibroids | intr: Epigallocatechin gallate (EGCG), Clomiphene Citrate, Letrozole | pubs: ['40077973:DERIVED (new)']
+- NCT01417312 | COMPLETED | results=False | NA | Metabolic Effects of a Green Tea Extract in Multiple Sclerosis Patients | conds: Multiple Sclerosis, Relapsing-Remitting | intr: Capsules with 160 mg Teavigo (at least 94% EGCG), Placebo | pubs: ['25733633:DERIVED (new)']
+- NCT07802548 | COMPLETED | results=False | NA | Sirtuin Activators and Weight Loss | conds: Obesity & Overweight | intr: SIRTUIN activators + weight loss diet, Placebo supplementation + weight loss diet
+- NCT07031596 | NOT_YET_RECRUITING | results=False | NA | Study on the Weight Loss Effects and Mechanisms of Probiotic Preparation Intervention in Weight Cyclers | conds: Obesity and Obesity-related Medical Conditions | intr: WONDERLAB SHAPE100™ Ready-to-Eat Probiotic Food (S100)., WONDERLAB SHAPE100™ Ready-to-Eat Probiotic 
+- NCT05788705 | COMPLETED | results=False | NA | Efficacy of JAK STAT Pathways Inhibitors in Treatment of Patients With Rheumatoid Arthritis | conds: Rheumatoid Arthritis | intr: Green Tea Polyphenolics (EGCG), Chamomile (Matricaria recutita), Licorice, Placebo
+- NCT07210164 | RECRUITING | results=False | NA | Pre-habilitation Within ERAS Protocol for Gynecologic Oncology Surgery: The Pre_ERAS Study | conds: ERAS, Compliance, Quality of Life (QOL), Excercise | intr: Ocoxin, Structured self-guided exercise
+- NCT04742985 | COMPLETED | results=False | NA | Effects of Green Tea Extracts on Gastric Mucosal Protection | conds: Functional Dyspepsia | intr: Green tea combined extracts group, Placebo group
+- NCT01116336 | COMPLETED | results=False | PHASE1 | Phase I Chemoprevention Trial With Green Tea Polyphenon E & Erlotinib in Patients With Premalignant Lesions of the Head & Neck | conds: Cancer of Head and Neck, Neoplasms, Head and Neck | intr: Erlotinib, Green Tea Polyphenon E
+- NCT01511263 | TERMINATED | results=False | PHASE2 | Epigallocatechingallate (EGCG) in Cardiac AL Amyloidosis | conds: Primary Amyloidosis of Light Chain Type | intr: Diuretics (plus antiarrhythmic drugs, i.e. amiodarone, in case of complex ventricular arrhithmias), 
+- NCT01855971 | COMPLETED | results=False | PHASE2 | "Using Epigallocatechin Gallate (EGCG) and Cognitive Training to Modulate Cognitive Performance in Patients With Fragile X Syndrome" (TESFX) | conds: Fragile X Syndrome | intr: EGCG, Placebo, Cognitive training
+- NCT07730671 | NOT_YET_RECRUITING | results=False |  | PENSA+: Extended Follow-up of a Multimodal Lifestyle Intervention to Prevent Cognitive Decline in APOE-ε4 Carriers | conds: Subjective Cognitive Decline (SCD) | intr: 
+- NCT06314113 | UNKNOWN | results=False |  | Evaluation of Oral EGCG Treatment for L-SIL Associated With HPV Infection | conds: Low-Grade Intraepithelial Neoplasia of Cervix | intr: Epigallocatechin Gallate
+- NCT07245979 | RECRUITING | results=False | NA | Supplementation With Sirtuin Activators in Women With Increased Body Weight | conds: Obesity & Overweight | intr: Sirtuin activators, Placebo
+- NCT05680662 | UNKNOWN | results=False | EARLY_PHASE1 | The Study of Quadruple Therapy Quercetin, Zinc, Metformin, and EGCG as Adjuvant Therapy for Early, Metastatic Breast Cancer and Triple-negat | conds: Breast Cancer Female, Triple Negative Breast Cancer | intr: quercetin, EGCG, metformin , zinc
+- NCT01239095 | TERMINATED | results=False | PHASE1 | Oral Green Tea Extract and Milk Thistle Extract to Colorectal Cancer Patients Undergoing Resection | conds: Colon Cancer | intr: Green Tea and Milk Thistle Supplements
+- NCT05448365 | RECRUITING | results=False | NA | Vitamin D, Epigallocatechin Gallate, D-chiro-inositol and Vitamin B6 in Uterine Fibroid | conds: Uterine Fibroids, D-chiro-inositol, Inositol, Epigallocatechin Gallate | intr: Epigallocatechin gallate, Vitamin D, Vitamin B6, D-chiro-inositol, Placebo
+- NCT01481818 | UNKNOWN | results=False | PHASE1,PHASE2 | Study of Topically Applied Green Tea Extract for Radio Dermatitis and Radiation Mucositis | conds: Epigallocatechin Gallate, Radio Dermatitis, Radiation Mucositis | intr: EGCG | pubs: ['24444526:DERIVED (new)']
+- NCT01699711 | COMPLETED | results=False | PHASE2 | Normalization of dyrk1A and APP Function as an Approach to Improve Cognitive Performance and Decelerate AD Progression in DS Subjects: Epiga | conds: Down Syndrome (DS) | intr: Epigallocatechin-3-gallate (EGCG) | pubs: ['27302362:DERIVED (new)']
+- NCT00676793 | COMPLETED | results=True | PHASE2 | A Study of the Effect of Polyphenon E (Green Tea Extract) on Breast Cancer Progression | conds: Breast Cancer | intr: Polyphenon E | pubs: [':RESULT (-)']
+- NCT00865787 | COMPLETED | results=False |  | Effects of EGCG-Enhanced Extra Virgin Olive Oil on Endothelial Function | conds: Atherosclerosis | intr:  | pubs: ['22872323:DERIVED (new)']
+- NCT01744587 | COMPLETED | results=False | NA | Epstein-Barr Virus Reactivation and the Effect of EGCG on Virus Reactivation in Remission Patients | conds: NPC | intr: Epigallocatechin Gallate (EGCG), Placebo | pubs: ['42833136:DERIVED (new)']
+- NCT07918196 | ACTIVE_NOT_RECRUITING | results=False | NA | Postprandial Glycemic and GLP-1 Responses to Modified Full-sugar Drinks | conds: Postprandial Glucose, GLP-1 Concentration, Satiety | intr: Sucrose Beverage, Glucose + Fructose beverage, Sucrose with EGCG Beverage, Glucose-Fructose with EGC
+- NCT01976156 | COMPLETED | results=False | NA | The Gut-brain Axis: a Novel Target for Treating Behavioral Alterations in Obesity | conds: Neural Response in Caudate, Weight Loss Trial, Impulsivity | intr: PhosphoLean, Placebo
+- NCT05625308 | COMPLETED | results=False | NA | Effect of Natural Compounds on the Severity of HPV-induced Cervical Lesions | conds: Papilloma, Cervix Lesion | intr: Epigallocatechin gallate, Folic acid, Vitamin B12, and Hyaluronic Acid
+- NCT00889434 | COMPLETED | results=False | NA | Efficacy and Safety Study of EGCG/Tocotrienol in 18 Patients With Splicing-mutation-mediated Cystic Fibrosis (CF) | conds: Cystic Fibrosis | intr: ECGC, Tocotrienol, EGCG + Tocotrienol
+- NCT04871412 | RECRUITING | results=False | PHASE3 | The Thoracic Peri-Operative Integrative Surgical Care Evaluation Trial - Stage III | conds: Lung Cancer, Gastric Cancer, Esophageal Cancer | intr: Vitamin D3 Drops, Coriolus Versicolor, Trident SAP 66:33 Lemon, Probiotic Pro12
+- NCT00951964 | COMPLETED | results=False | PHASE2 | Treatment of Epidermolysis Bullosa Dystrophica by Polyphenon E (Epigallocatechin 3 Gallate) | conds: Epidermolysis Bullosa Dystrophica | intr: Polyphenon E before Placebo, placebo before treatment | pubs: ['27015660:DERIVED (new)']
+- NCT00676780 | COMPLETED | results=True | PHASE2 | Green Tea Extract and Prostate Cancer | conds: Prostate Cancer | intr: Polyphenon E (EGCG) | pubs: ['19542190:RESULT (new)']
+- NCT03199430 | COMPLETED | results=False | PHASE4 | Epigallocatechin Gallate Lowers Circulating Catecholamine Concentrations and Alters Lipid Metabolism. | conds: EGCG Influence on Catecholamine Metabolism | intr: Epigallocatechin gallate, Placebo
+- NCT00153790 | COMPLETED | results=False | PHASE1 | LEAN Project: Weight Loss and Appetite Suppression | conds: Weight Loss | intr: PhosphoLean
+- NCT02580279 | UNKNOWN | results=False | PHASE2 | Study of Epigallocatechin-3-gallate (EGCG) for Skin Prevention in Patients With Breast Cancer Receiving Adjuvant Radiotherapy | conds: Breast Neoplasms, Dermatitis, Prevention & Control, Epigallocatechin Gallate | intr: EGCG, placebo | pubs: ['37620508:DERIVED (new)', '35648426:DERIVED (new)']
+- NCT06531863 | UNKNOWN | results=False | EARLY_PHASE1 | Curcumin and EGCG Supplementation to Improve Serum BDNF and Mood Disturbance | conds: Mood Disturbance | intr: Curcumin, Epigallocatechin Gallate, Placebo
+- NCT00867555 | COMPLETED | results=False | NA | Green Tea, High in Epigallocatechin Gallate (EGCG) and Postprandial Fat Oxidation | conds: Obesity, Type 2 Diabetes Mellitus | intr: Effect of the green tea extract TEAVIGO, high in EGCG, on postprandial fat oxidation
+- NCT06524609 | UNKNOWN | results=False | PHASE1,PHASE2 | EGCG for the Prevention and Treatment of TIPN | conds: Chemotherapy-induced Peripheral Neuropathy | intr: Epigallocatechin-3-Gallate, Alcohol
+- NCT02891538 | COMPLETED | results=False | EARLY_PHASE1 | Chemopreventive Effects of Epigallocatechin Gallate (EGCG) in Colorectal Cancer (CRC) Patients | conds: Colon Cancer | intr: Epigallocatechin gallate (EGCG)
+- NCT07697196 | NOT_YET_RECRUITING | results=False | NA | Effect of EGCG, Folic Acid, Vitamin B12 and Hyaluronic Acid on HPV DNA Integration | conds: HPV Infection, HPV Integration, HPV Disease, HPV Genital Infection | intr: Epigallocatechin gallate (EGCG), Folic Acid (FA), Vitamin B12 (B12), and Hyaluronic Acid (HA)
+- NCT04553666 | COMPLETED | results=True | PHASE2 | Reducing Frailty for Older Cancer Survivors Using Supplements | conds: Frailty, Inflammation | intr: Epigallocatechin-3-Gallate (EGCG) plus Ascorbic Acid (Vitamin C)
+- NCT00434499 | WITHDRAWN | results=False | PHASE2 | Effect of EGCG on the Body's Response to Insulin | conds: Hypertension, Obesity, Type 2 Diabetes, Insulin Resistance | intr: EGCG
+- NCT07578311 | NOT_YET_RECRUITING | results=False | NA | Effect of a Herbal Intracanal Medication On Postoperative Pain And Flare up Incidence In Non Surgical Root Canal Retreatment | conds: Postoperative Pain, Flare Up, Symptom, Flare up | intr: Calcium hydroxide, Propolis Extract, Green Tea Polyphenolics (EGCG)
+- NCT03624556 | COMPLETED | results=False | NA | Pediatric Exploratory Research Study of EGCG Use and Safety (PERSEUS) | conds: Down Syndrome, Fragile X Syndrome | intr: EGCG FontUp, Placebo FontUp
+- NCT02147041 | UNKNOWN | results=False | PHASE2,PHASE3 | The Effect of Extract of Green Tea on Obese Women and Obese Related Hormone Peptides | conds: Diabetes Mellitus, Hyperlipidemia | intr: EGCG(Epigallocatechin Gallate), Placebo | pubs: ['18468736:RESULT (new)', '26093535:DERIVED (new)']
+- NCT06924749 | COMPLETED | results=False | PHASE2 | Study of of Oxygen Nebulized Inhalation EGCG in Cancer Patients With New Coronary Pneumonia | conds: Pneumonia, Interstitial, Cancer Patients | intr: EGCG | pubs: ['41549240:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 8151 hits, 23 without PMID, 23 new
+- new | 2026 | 10.3390/jal6020035 | article | The Effect of Boosting Dietary Lactobacillus and Phytochemical Rich Foods on Biomarkers of Longevity—A Phase II Randomised Placebo Controlled Trial | Journal of Ageing and Longevity
+- new | 2026 | 10.1186/s13765-026-01156-4 | article | Effects of the Justicia procumbens extract on adults with mild-to-moderate hair damage: a randomized double-blind placebo-controlled trial | Applied Biological Chemistry
+- new | 2025 | 10.4236/fns.2025.166036 | article | The Effects of Camellia sinensis O. Ktze. Extract on Dynamic Vision—A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study | Food and Nutrition Sciences
+- new | 2024 | 10.18203/2349-3259.ijct20240303 | article | Anti-ageing effects of CollabZen™ in healthy human volunteers: a randomized, double blind, placebo-controlled study | International Journal of Clinical Trials
+- new | 2024 | 10.1017/s0029665124005202 | review | The effects of tea (Camellia sinensis) or its bioactive compounds L-theanine or L-theanine plus caffeine on cognition, sleep, and mood in healthy participants: a systematic review  | Proceedings of The Nutrition Society
+- new | 2024 | 10.26226/m.6671b578ed4a6d605af6b0f7 | review | OC26 - The effects of tea (Camellia sinensis) or its bioactive compounds L-theanine or L-theanine plus caffeine on cognition, sleep, and mood in healthy participants: a systematic  | 
+- new | 2024 | 10.61186/jmp.23.91.75 | article | The effect of a standardized polyherbal formulation for endometriosis-associated pain: A randomized double-blind placebo-controlled clinical trial | Armaghan.
+- new | 2023 | 10.14309/01.ajg.0000951068.73799.c1 | review | Effect of Consumption of Green Tea on the Risk of Colorectal Cancer: A Meta-Analysis of Randomized Controlled Trials | The American Journal of Gastroenterology
+- new | 2021 | 10.3390/gastroent12020018 | article | Effects of Polyphenols in Tea (Camellia sinensis sp.) on the Modulation of Gut Microbiota in Human Trials and Animal Studies | Gastroenterology Insights
+- new | 2021 | 10.5812/hepatmon.110488 | article | Evaluating the Efficacy of Carum Copticum Seeds on the Treatment of Patients with Nonalcoholic Fatty Liver Disease: A Multi-Center, Randomized, Triple–Blind, Placebo-Controlled Cli | Hepatitis Monthly
+- new | 2020 | 10.1016/j.clnesp.2020.09.279 | article | Acute effect of green tea and hibiscus ingestion on energy metabolism and substrate oxidation rates: A randomized clinical trial | Clinical Nutrition ESPEN
+- new | 2019 | 10.4103/2542-3975.274077 | article | Efficacy of Pilates exercises and supplementation with Camellia sinensis extract in body composition of female patients diagnosed with metabolic syndrome: a randomized, double-blin | Clinical Trials in Degenerative Diseases
+- new | 2018 | 10.7704/kjhugr.2018.18.1.38 | article | Randomized, Double-blind, Placebo-controlled Clinical Trial for the Evaluation of the Efficacy and Safety ofArtemisiaand Green Tea Extract SD1003F in Volunteers withHelicobacter py | The Korean Journal of Helicobacter and U
+- new | 2018 | https://openalex.org/W2948764430 | dissertation | EFFECT OF GREEN TEA (CAMELLIA SINENSIS) ON THE PHARMACOKINETIC PROFILE OF CEPHALEXIN IN HEALTHY HUMAN VOLUNTEERS | 
+- new | 2017 | 10.14283/jarcp.2017.7 | article | EFFECTIVENESS OF PILATES AND CAMELLIA SINENSIS SUPPLEMENTATION ON CARDIOMETABOLIC RISK FACTORS AND REDOX MARKERS IN POSTMENOPAUSAL WOMEN: A PLACEBO-CONTROLLED, RANDOMIZED TRIAL | Journal of Aging Research and Lifestyle
+- new | 2016 | 10.3923/ijp.2016.370.378 | article | Eriobotrya japonica Improves Cognitive Function in Healthy Adolescents: A 12-week, Randomized Double-blind, Placebo-controlled Clinical Trial | International Journal of Pharmacology
+- new | 2015 | 10.17795/jjcdc-26995 | article | The Effect of Green Tea Extract on Blood Pressure and Body Mass Index in Postmenopausal Iranian Women: A Randomized Controlled Trial | Jundishapur Journal of Chronic Disease C
+- new | 2012 | 10.4236/ojst.2012.24064 | article | The effect of green tea mouthwash (Camellia sinensis) on wound healing following periodontal crown lengthening surgery; a double blind randomized controlled trial | Open Journal of Stomatology
+- new | 2012 | 10.2147/oajct.s29426 | article | Is Patch It® better than placebo in alleviating swelling and ache in the lower legs and feet? A randomized, placebo-controlled, double blind, crossover, sequential trial | Open Access Journal of Clinical Trials
+- new | 2009 | https://openalex.org/W2339777655 | article | Applied nutritional investigation Standardized capsule of Camellia sinensis lowers cardiovascular risk factors in a randomized, double-blind, placebo-controlled study | 
+- new | 2007 | 10.1096/fasebj.21.5.a46-a | conference-abstract | Specific formulation of Camellia sinensis prevents cold and flu symptoms: a randomized, double‐blind, placebo‐controlled study | The FASEB Journal
+- new | 2002 | 10.1080/14620316.2002.11511564 | article | Genetic diversity and phylogeny of tea plant (Camellia sinensis) and its related species and varieties in the sectionTheagenusCamelliadetermined by randomly amplified polymorphic D | The Journal of Horticultural Science and
+- new | 1997 | 10.1038/hdy.1997.99 | article | An assessment of genetic diversity among Camellia sinensis L. (cultivated tea) and its wild relatives based on randomly amplified polymorphic DNA and organelle-specific STS | Heredity
+
+## campanula-persicifolia (Campanula persicifolia) - name clause: "Campanula persicifolia"[tiab] OR "peach-leaved bellflower"[tiab] OR "peach-leaf bellflower"[tiab]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 0 hits, 0 not already listed above, 0 new
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 0 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 26 hits, 26 without PMID, 26 new
+- new | 2024 | 10.55355/snv2024131101 | article | Ecological and floristic features of modern plant groupings on the territory of the Kipchak archaeological complex | Samara Journal of Science
+- new | 2022 | 10.55355/snv2022114101 | article | The dynamics of pyrogenic succession of pine plantations in Togliatti and Volzhsky District of the Samara Region | Samara Journal of Science
+- new | 2021 | 10.2478/jlecol-2021-0001 | article | Comparison of Forest Species- Diversity and Composition Inside and Outside of the Holedná Game Reserve (The City of Brno, Czech Republic) | Journal of Landscape Ecology
+- new | 2020 | 10.3390/f11050582 | article | An Efficient Tool for the Maintenance of Thermophilous Oak Forest Understory—Sheep or Brush Cutter? | Forests
+- new | 2020 | 10.3897/vcs/2020/54942 | article | Phytosociological overview of the Fagus and Corylus forests in Albania | Vegetation Classification and Survey
+- new | 2019 | https://openalex.org/W2986754787 | dissertation | Designed plant communities for challenging urban environments in southern Finland | Epsilon Archive for Student Projects (Sw
+- new | 2018 | 10.20546/ijcmas.2018.706.145 | article | Effect of GA3 and Benzyladenine (BA) on Growth and Bulb Production in Lily (Lilium longiflorum) | International Journal of Current Microbi
+- new | 2016 | 10.24355/dbbs.084-201701040942-0 | article | Die spontane Flora der Straßen von Braunschweig: Hohe Artenzahl und unerwartete Florendynamik im lokalen Maßstab | Digitale Bibliothek Braunschweig (Verbun
+- new | 2015 | 10.15421/011509 | article | Influence of moisture conditions and mineralization of soil solution on structure of litter macrofauna of the deciduous forests of Ukraine steppe zone | Visnyk of Dnipropetrovsk University Biol
+- new | 2013 | https://openalex.org/W595795232 | dissertation | Management of semi-natural grassland vegetation : long-term effects of grazing, mowing and different mowing techniques | DiVA (Linkoping University)
+- new | 2010 | 10.1111/j.1601-5223.1936.tb02643.x | article | ZYTOLOGISCHE STUDIEN AN ALLIUM SCHOENOPRASUM | Hereditas
+- new | 2009 | https://openalex.org/W972901656 | article | New host plants for development of Phytophthora cryptogea in Poland. | Sodininkystė ir Daržininkystė
+- new | 2009 | 10.17221/111/2008-jfs | article | Plant community variability within potential natural vegetation units: a case study from the Bohemian Karst | Journal of Forest Science
+- new | 2008 | 10.2478/v10045-008-0058-x | article | Phytophthora Cryptogea and P. Citrophthora; New Pathogens of Forsythia Intermedia in Polish Ornamental Hardy Nursery Stocks | Journal of Plant Protection Research
+- new | 2005 | 10.17221/3566-pse | article | Conservation effects on the botanical composition of grass swards in the hilly soils of West Lithuania | Plant Soil and Environment
+- new | 1980 | 10.1007/bf02932921 | article | Chromosome pairing, recombination nodules and chiasma formation in diploid Bombyx males | Carlsberg Research Communications
+- new | 1978 | 10.1007/bf02906106 | article | Human meiosis II. Chromosome pairing and recombination nodules in human spermatocytes | Carlsberg Research Communications
+- new | 1955 | 10.5962/p.337638 | article | Studies on the progeny of triploid Philadelphus and Forsythia | Journal of the Arnold Arboretum
+- new | 1942 | 10.1508/cytologia.12.397 | article | Chromosome Studies on Trillium kamtschaticum Pall: X. On the origin of the chiasma | CYTOLOGIA
+- new | 1932 | 10.1508/cytologia.4.68 | article | The Chromosomes of a New Haploid Oenothera | CYTOLOGIA
+- new | 1931 | 10.5962/bhl.title.150558 | book | Reliable seeds for summer and fall sowing : 1931 / | Biodiversity Heritage Library (Smithsoni
+- new | 1927 | 10.5962/bhl.title.137353 | book | Duckham's supreme delphiniums, roses and other hardy flowers / | Biodiversity Heritage Library (Smithsoni
+- new | 1926 | 10.1038/117837a0 | other | Research Items | Nature
+- new | 1926 | 10.5962/bhl.title.136825 | book | Westcott's Nursery Co. [catalog] | Biodiversity Heritage Library (Smithsoni
+- new | 1925 | 10.5962/bhl.title.134124 | book | Weber's guide : 1925 / | Biodiversity Heritage Library (Smithsoni
+- new | 1912 | 10.5962/bhl.title.105544 | book | My flowering hardy perennials / | Biodiversity Heritage Library (Smithsoni

@@ -194,9 +194,11 @@ actions:
 indications:
 - condition: arthritis
   note: Borage seed oil (gamma-linolenic acid) reduced rheumatoid arthritis signs and symptoms vs placebo
-    in a 24-week randomized trial
+    in a 24-week randomized trial; a Cochrane review found moderate evidence that GLA-containing oils,
+    including borage oil, relieve rheumatoid arthritis symptoms
   reference_ids:
   - REF-3462
+  - REF-5205
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1958
@@ -214,13 +216,16 @@ indications:
   - REF-1958
 - condition: eczema
   note: Undershirts coated with borage oil eased itch and redness of mild atopic dermatitis in a small
-    placebo-controlled trial; oral borage oil did not help eczema (Cochrane review; large trial)
+    placebo-controlled trial; oral borage oil did not help eczema (Cochrane review and three placebo-controlled
+    trials)
   reference_ids:
   - REF-3459
   status: needs-review
   null_result_ids:
   - REF-0447
   - REF-3460
+  - REF-5206
+  - REF-5207
 - condition: indigestion
   note: inferred from digestive action
   reference_ids: []
@@ -256,6 +261,22 @@ indications:
   reference_ids:
   - REF-1952
   status: verified
+- condition: high-blood-pressure
+  note: Borage oil (1 g a day, with vitamin E) lowered systolic and diastolic blood pressure more than
+    vitamin E alone over 6 months in a double-blind randomized trial in postmenopausal women with hypertension
+  reference_ids:
+  - REF-5209
+  status: verified
+- condition: metabolic-support
+  note: Borage oil reduced weight regain after major weight loss over a year in a double-blind randomized
+    trial and reduced waist-to-hip ratio in postmenopausal women with hypertension; it did not change
+    metabolic rate in overweight young adults
+  reference_ids:
+  - REF-5208
+  - REF-5209
+  status: verified
+  null_result_ids:
+  - REF-3461
 contraindications:
 - note: 'Pyrrolizidine alkaloids (PAs): Many Boraginaceae can produce PAs; unsaturated PAs are hepatotoxic
     and genotoxic (risk increases with cumulative exposure). Borage as food/tea: PA presence in borage
@@ -271,6 +292,7 @@ contraindications:
   severity: serious
   reference_ids:
   - REF-0212
+  - REF-5227
   status: verified
 - note: Duke (2002) rates borage as a single-plus herb (+) with predominantly folklore-level evidence.
     Borage seed oil is rich in gamma-linolenic acid (GLA) and has been used for inflammatory conditions
@@ -282,6 +304,13 @@ contraindications:
   reference_ids:
   - REF-0212
   - REF-0063
+  status: verified
+- note: 'Seizures: a previously healthy woman developed status epilepticus (continuous seizures) after
+    taking borage oil for one week (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5210
+  - REF-5227
   status: verified
 references:
 - REF-0749
@@ -378,4 +407,28 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (owner rule): high-cholesterol (REF-3461, TG and HDL only), asthma (REF-1952). REF-1952 also
   found no fall in airway inflammation - removed from the anti-inflammatory action, recorded as
   no-effect for inflammation. Immune-support dropped: its only card REF-1958 showed inflammasome
-  suppression. Not added: Zurier 1996 GLA RA trial (abstract names no source plant).'
+  suppression. Not added: Zurier 1996 GLA RA trial (abstract names no source plant).
+  | 2026-11-24: symptom-source audit research-deepening batch 6 - Searched PubMed (Borago
+  officinalis / borage oil / borage seed oil tiab, borage ti), Europe PMC, ClinicalTrials.gov (17)
+  and OpenAlex. Added: Cochrane 2011 herbal therapy for RA (moderate evidence for GLA oils incl.
+  borage) to arthritis; Henz 1999 multicentre RCT and a 1997 children RCT (both no effect) as
+  no-effect for eczema; NEW high-blood-pressure pair (2021 Menopause RCT, borage oil + vitamin E
+  vs vitamin E, 96 women, BP and waist-hip ratio fell); NEW metabolic-support pair (Schwartz 2007
+  J Nutr double-blind RCT vs olive oil, weight regain 2.2 vs 8.8 kg at 1 year; plus the 2021
+  trial), with REF-3461 (no effect on metabolic rate) recorded as no-effect. Safety: status
+  epilepticus case (new caution); MSKCC About Herbs (REF-5227) added to the PA warning; new DRAFT
+  anticoagulant interaction (insufficient, extrapolated from evening primrose GLA; needs owner
+  sign-off). Considered, not added: Cochrane 2012 dietary supplements for eczema (excludes
+  borage), GLA prophylaxis trial (only a trend), functional-textile MA (erythema only), acne RCT
+  (abstract does not give the comparison with the control group), flax/borage skin study
+  (within-group changes), borage + green tea + purslane and other combinations, Borage plus syrup
+  (COVID), platelet study 1997 (no abstract), LactMed (bot check).'
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: insufficient
+  mechanism: Memorial Sloan Kettering notes that borage oil may increase bleeding risk with blood thinners
+    such as warfarin; this is extrapolated from a small study of gamma-linolenic acid from evening primrose,
+    not from studies of borage itself.
+  reference_ids:
+  - REF-5227
+  status: draft

@@ -10430,15 +10430,16 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "Borage seed oil (gamma-linolenic acid) reduced rheumatoid arthritis signs and symptoms vs placebo in a 24-week randomized trial",
+     "note": "Borage seed oil (gamma-linolenic acid) reduced rheumatoid arthritis signs and symptoms vs placebo in a 24-week randomized trial; a Cochrane review found moderate evidence that GLA-containing oils, including borage oil, relieve rheumatoid arthritis symptoms",
      "reference_ids": [
-      "REF-3462"
+      "REF-3462",
+      "REF-5205"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1958"
      ],
-     "evidence": 5,
+     "evidence": 8,
      "label": "Arthritis / joint pain"
     },
     {
@@ -10466,14 +10467,16 @@
     },
     {
      "condition": "eczema",
-     "note": "Undershirts coated with borage oil eased itch and redness of mild atopic dermatitis in a small placebo-controlled trial; oral borage oil did not help eczema (Cochrane review; large trial)",
+     "note": "Undershirts coated with borage oil eased itch and redness of mild atopic dermatitis in a small placebo-controlled trial; oral borage oil did not help eczema (Cochrane review and three placebo-controlled trials)",
      "reference_ids": [
       "REF-3459"
      ],
      "status": "needs-review",
      "null_result_ids": [
       "REF-0447",
-      "REF-3460"
+      "REF-3460",
+      "REF-5206",
+      "REF-5207"
      ],
      "evidence": 5,
      "label": "Eczema"
@@ -10539,6 +10542,30 @@
      "status": "verified",
      "evidence": 5,
      "label": "Asthma"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Borage oil (1 g a day, with vitamin E) lowered systolic and diastolic blood pressure more than vitamin E alone over 6 months in a double-blind randomized trial in postmenopausal women with hypertension",
+     "reference_ids": [
+      "REF-5209"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "High blood pressure"
+    },
+    {
+     "condition": "metabolic-support",
+     "note": "Borage oil reduced weight regain after major weight loss over a year in a double-blind randomized trial and reduced waist-to-hip ratio in postmenopausal women with hypertension; it did not change metabolic rate in overweight young adults",
+     "reference_ids": [
+      "REF-5208",
+      "REF-5209"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-3461"
+     ],
+     "evidence": 6,
+     "label": "Metabolic support"
     }
    ],
    "contraindications": [
@@ -10546,7 +10573,8 @@
      "note": "Pyrrolizidine alkaloids (PAs): Many Boraginaceae can produce PAs; unsaturated PAs are hepatotoxic and genotoxic (risk increases with cumulative exposure). Borage as food/tea: PA presence in borage consumed as herb/tea has been specifically studied; EU has set PA maximum levels for certain foods including borage (context for why sourcing/limits matter). Pregnancy/breastfeeding: avoid internal use of borage herb products due to PA-related concerns and risk uncertainty. Liver disease / long-term use: avoid (PA risk + cumulative exposure logic). Seed oil vs herb: refined/quality-controlled seed oil is generally the preferred form when borage is used medicinally, because the main target compound is GLA; however, product quality and contamination control still matter. Drug interactions (caution): GLA oils have been discussed with anticoagulants (bleeding risk caution is better established for evening primrose oil; borage oil is often grouped in the same “GLA oil” category). Use caution if on anticoagulants/antiplatelets.",
      "severity": "serious",
      "reference_ids": [
-      "REF-0212"
+      "REF-0212",
+      "REF-5227"
      ],
      "status": "verified"
     },
@@ -10556,6 +10584,15 @@
      "reference_ids": [
       "REF-0212",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Seizures: a previously healthy woman developed status epilepticus (continuous seizures) after taking borage oil for one week (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5210",
+      "REF-5227"
      ],
      "status": "verified"
     }
@@ -10604,6 +10641,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "drug_class_interactions": [],
    "common_slug": "borage"
   },
   {
@@ -10875,6 +10913,16 @@
      "status": "verified",
      "evidence": 5,
      "label": "Cognitive function"
+    },
+    {
+     "condition": "oral-health",
+     "note": "Frankincense (Boswellia serrata resin) extract tablets shrank mouth ulcers and eased their pain more than placebo in a double-blind randomized trial",
+     "reference_ids": [
+      "REF-5211"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Oral & throat health"
     }
    ],
    "contraindications": [
@@ -10887,10 +10935,27 @@
      "status": "verified"
     },
     {
-     "note": "Boswellic acids can affect drug-metabolising enzymes, so caution is advised when taking other medicines; safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.",
+     "note": "In laboratory tests, Boswellia serrata resin extract inhibited the main drug-metabolising enzymes (CYP1A2, 2C8, 2C9, 2C19, 2D6 and 3A4), and boswellic acids affected drug transporters such as P-glycoprotein, so caution is advised when taking other medicines.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5212",
+      "REF-5228"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.",
      "severity": "caution",
      "reference_ids": [],
      "status": "needs-review"
+    },
+    {
+     "note": "High doses: a woman taking 1,000 mg a day of Boswellia serrata capsules for 3 weeks had a seizure caused by very low blood sodium (inappropriate antidiuretic hormone secretion), which resolved after stopping (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5213"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -10914,6 +10979,7 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "drug_class_interactions": [],
    "common_slug": "boswellia"
   },
   {
@@ -11202,7 +11268,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "Calendula cream prevented radiation dermatitis better than trolamine and essential fatty acids in randomized trials and helped diaper and contact dermatitis; one trial found no difference from a standard moisturiser",
+     "note": "Calendula cream prevented radiation dermatitis better than trolamine and essential fatty acids in randomized trials and helped diaper and contact dermatitis; two trials found no difference from a standard moisturiser",
      "reference_ids": [
       "REF-3472",
       "REF-3473",
@@ -11216,36 +11282,52 @@
       "REF-0199"
      ],
      "null_result_ids": [
-      "REF-3476"
+      "REF-3476",
+      "REF-5216"
      ],
      "evidence": 7,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
-     "note": "Calendula sped healing of hand wounds and, taken orally, of second-degree burns in randomized trials; a systematic review found some benefit, though trials in burns and diabetic ulcers did not",
+     "note": "Calendula sped healing of hand wounds, episiotomy and caesarean wounds and, taken orally, of second-degree burns in randomized trials; a systematic review found some benefit, though trials in burns and diabetic ulcers did not",
      "reference_ids": [
       "REF-0199",
       "REF-0752",
       "REF-2125",
-      "REF-3477"
+      "REF-3477",
+      "REF-5217",
+      "REF-5218"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2127",
       "REF-0112"
      ],
-     "evidence": 9,
+     "evidence": 10,
      "label": "Wounds"
+    },
+    {
+     "condition": "oral-health",
+     "note": "A calendula flower extract mouthwash reduced radiotherapy-induced mouth and throat inflammation (mucositis) more than placebo in a randomized trial; traditionally used for minor inflammations of the mouth and throat (EU herbal monograph)",
+     "reference_ids": [
+      "REF-5215",
+      "REF-3065"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Oral & throat health"
     }
    ],
    "contraindications": [
     {
-     "note": "Generally very safe for topical use. May cause contact dermatitis in rare cases (Asteraceae family allergy). Internal use is safe in normal doses. Avoid during pregnancy at therapeutic doses (uterine stimulant potential). Generally safe during breastfeeding for topical use.",
+     "note": "Do not use if allergic to plants of the daisy family (Asteraceae); skin sensitisation (contact allergy) has been reported, and about 2 in 100 people in a clinic series of patch tests reacted to marigold. Not recommended in pregnancy or breastfeeding because safety has not been established, nor as a medicine for children under 6 (on the skin) or under 12 (mouth and throat) (EU herbal monograph). Calendula in food and tea is generally considered safe, and cosmetic ingredients from the flower were not irritating or sensitising in tests.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0112",
-      "REF-0199"
+      "REF-3065",
+      "REF-5229",
+      "REF-5219",
+      "REF-5176"
      ],
      "status": "verified"
     },
@@ -11253,8 +11335,6 @@
      "note": "Duke (2002) rates calendula (Calendula officinalis) and notes anti-inflammatory, wound-healing (vulnerary), antifungal, and antispasmodic activities at experimental levels. Commission E (KOM) approves calendula flower for wound healing and anti-inflammatory uses, both topically and as a gargle. The plant contains flavonoids, triterpene saponins (oleanolic acid glycosides), and essential oils. Dose: 1–2 g dried flower as tea (for mouth rinse/gargle); or as cream/ointment containing 2–5% calendula extract for topical use. Duke notes that calendula is generally very well-tolerated, though Asteraceae sensitivity can occasionally cause allergic reactions (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0112",
-      "REF-0199",
       "REF-0063"
      ],
      "status": "verified"
@@ -11271,7 +11351,8 @@
     "REF-2128",
     "REF-2129",
     "REF-2130",
-    "REF-2131"
+    "REF-2131",
+    "REF-5229"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -11492,16 +11573,18 @@
    "indications": [
     {
      "condition": "blood-sugar",
-     "note": "Green tea lowered fasting glucose and HbA1c in a meta-analysis of 17 trials; a meta-analysis limited to type 2 diabetes found no significant effect",
+     "note": "Green tea lowered fasting glucose and HbA1c in a meta-analysis of 17 trials and in a 2024 meta-analysis in type 2 diabetes; a 2020 meta-analysis found lower fasting glucose but no change in HbA1c, and a 2021 meta-analysis limited to type 2 diabetes found no significant effect",
      "reference_ids": [
       "REF-0045",
-      "REF-3478"
+      "REF-3478",
+      "REF-5224",
+      "REF-5225"
      ],
      "status": "needs-review",
      "null_result_ids": [
       "REF-3479"
      ],
-     "evidence": 7,
+     "evidence": 9,
      "label": "Blood sugar / diabetes support"
     },
     {
@@ -11530,15 +11613,16 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "L-theanine, an amino acid found in tea, increased brain alpha activity linked to relaxed alertness in a small trial (compound evidence)",
+     "note": "L-theanine, an amino acid found in tea, increased brain alpha activity linked to relaxed alertness in a small trial, and a 2025 meta-analysis found that L-theanine, alone or with caffeine, could benefit cognition and mood (compound evidence)",
      "reference_ids": [
-      "REF-0184"
+      "REF-0184",
+      "REF-5226"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0045"
      ],
-     "evidence": 5,
+     "evidence": 8,
      "label": "Cognitive function"
     },
     {
@@ -11611,15 +11695,34 @@
      "status": "verified",
      "evidence": 8,
      "label": "High blood pressure"
+    },
+    {
+     "condition": "acne",
+     "note": "Green tea extract applied to the skin reduced acne lesions in a meta-analysis of randomized trials; taken by mouth it had little effect",
+     "reference_ids": [
+      "REF-5222"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Acne"
+    },
+    {
+     "condition": "cold",
+     "note": "Green tea catechins, gargled or taken by mouth, lowered the risk of catching influenza in a meta-analysis of studies",
+     "reference_ids": [
+      "REF-5223"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Cold & flu"
     }
    ],
    "contraindications": [
     {
-     "note": "Generally safe in moderate consumption. High caffeine intake may cause insomnia, anxiety, palpitations, or dependence. Large amounts of green tea extract supplements may be hepatotoxic (rare). May reduce iron absorption if consumed with meals. Avoid very high supplement doses during pregnancy.",
+     "note": "Generally safe in moderate consumption. High caffeine intake may cause insomnia, anxiety, palpitations, or dependence. May reduce iron absorption if consumed with meals. Avoid very high supplement doses during pregnancy.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0045",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "verified"
     },
@@ -11628,8 +11731,17 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0045",
-      "REF-0184",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Liver injury: concentrated, catechin-rich green tea extracts taken as large single doses (tablets or capsules, especially on an empty stomach) have caused liver injury in a dose-dependent way, while brewed tea and tea in food or drinks did not. A safe intake of 338 mg EGCG a day has been proposed for such supplements. Do not use extracts with a liver problem, and stop if signs of liver trouble appear.",
+     "severity": "warning",
+     "reference_ids": [
+      "REF-5220",
+      "REF-5221",
+      "REF-5230"
      ],
      "status": "verified"
     }

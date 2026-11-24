@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 102,
+ "count": 108,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -213,6 +213,71 @@
    "references": [
     "REF-1213",
     "REF-2528"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "actaea-racemosa",
+   "plant": "Black Cohosh",
+   "scientific": "Actaea racemosa",
+   "common_slug": "black-cohosh",
+   "wp_post_id": null,
+   "drug_class": "antidepressants-serotonergic",
+   "drug_class_label": "Antidepressants (SSRIs / SNRIs / MAOIs)",
+   "severity": "caution",
+   "mechanism": "Black cohosh contains serotonin-like compounds. One woman on two long-term antidepressants developed serotonin toxicity and muscle breakdown soon after starting black cohosh; this rests on a single case report, with no controlled study.",
+   "references": [
+    "REF-5052"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "actaea-racemosa",
+   "plant": "Black Cohosh",
+   "scientific": "Actaea racemosa",
+   "common_slug": "black-cohosh",
+   "wp_post_id": null,
+   "drug_class": "cardiac-glycosides",
+   "drug_class_label": "Cardiac glycosides",
+   "severity": "likely-safe",
+   "mechanism": "In a randomized study in healthy volunteers, 14 days of black cohosh did not change digoxin blood levels, so it is unlikely to affect digoxin through the P-glycoprotein drug pump.",
+   "references": [
+    "REF-5050"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "actaea-racemosa",
+   "plant": "Black Cohosh",
+   "scientific": "Actaea racemosa",
+   "common_slug": "black-cohosh",
+   "wp_post_id": null,
+   "drug_class": "hormonal-therapies",
+   "drug_class_label": "Hormonal therapies",
+   "severity": "insufficient",
+   "mechanism": "In laboratory tests a black cohosh extract blocked the enzymes (CYP2D6, CYP3A4) that turn tamoxifen into its active forms, which could in theory weaken tamoxifen. In healthy volunteers black cohosh had no or only a weak, clinically irrelevant effect on CYP2D6, and an observational study in tamoxifen-treated women reported no related adverse events. Whether it affects tamoxifen's anticancer effect has not been tested.",
+   "references": [
+    "REF-5053",
+    "REF-5051",
+    "REF-2503",
+    "REF-5079"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "actaea-racemosa",
+   "plant": "Black Cohosh",
+   "scientific": "Actaea racemosa",
+   "common_slug": "black-cohosh",
+   "wp_post_id": null,
+   "drug_class": "cyp3a4-substrates",
+   "drug_class_label": "Medicines processed by CYP3A4",
+   "severity": "likely-safe",
+   "mechanism": "In healthy volunteers, 14-28 days of black cohosh did not change midazolam levels (a CYP3A4 test drug), so clinically relevant CYP3A4 interactions are unlikely, although extracts inhibited CYP3A4 in laboratory tests.",
+   "references": [
+    "REF-5049",
+    "REF-2503",
+    "REF-5053"
    ],
    "status": "approved"
   },
@@ -824,6 +889,23 @@
    "mechanism": "Horse chestnut seed contains aescin and coumarin-like constituents (esculin) that may add to the effect of blood-thinning or antiplatelet drugs, so combined use should be monitored.",
    "references": [
     "REF-0470"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "aesculus-hippocastanum",
+   "plant": "Horse Chestnut",
+   "scientific": "Aesculus hippocastanum",
+   "common_slug": "horse-chestnut",
+   "wp_post_id": null,
+   "drug_class": "cyp3a4-substrates",
+   "drug_class_label": "Medicines processed by CYP3A4",
+   "severity": "insufficient",
+   "mechanism": "In laboratory tests a commercial horse chestnut product inhibited the drug-clearing enzyme CYP3A4 and the P-glycoprotein drug pump, and also lowered CYP activity in human liver cells; its authors suggested possible interactions in the gut. No study in people has tested this, and the EU monograph reports no interactions, so the evidence is insufficient to judge.",
+   "references": [
+    "REF-5018",
+    "REF-5019",
+    "REF-3086"
    ],
    "status": "approved"
   },
@@ -1507,6 +1589,21 @@
    "references": [
     "REF-2452",
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "acorus-calamus",
+   "plant": "Sweet Flag",
+   "scientific": "Acorus calamus",
+   "common_slug": "sweet-flag",
+   "wp_post_id": null,
+   "drug_class": "cyp3a4-substrates",
+   "drug_class_label": "Medicines processed by CYP3A4",
+   "severity": "insufficient",
+   "mechanism": "In laboratory tests a standardised sweet flag extract and its alpha-asarone moderately inhibited the drug-clearing enzymes CYP3A4 and CYP2D6; this has not been studied in people.",
+   "references": [
+    "REF-5043"
    ],
    "status": "approved"
   },

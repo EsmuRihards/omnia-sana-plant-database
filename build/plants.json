@@ -1091,7 +1091,19 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
    "last_updated": "2026-08-14",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "insufficient",
+     "mechanism": "In laboratory tests a standardised sweet flag extract and its alpha-asarone moderately inhibited the drug-clearing enzymes CYP3A4 and CYP2D6; this has not been studied in people.",
+     "reference_ids": [
+      "REF-5043"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    }
+   ],
    "common_slug": "sweet-flag"
   },
   {
@@ -1446,7 +1458,57 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-14",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "likely-safe",
+     "mechanism": "In healthy volunteers, 14-28 days of black cohosh did not change midazolam levels (a CYP3A4 test drug), so clinically relevant CYP3A4 interactions are unlikely, although extracts inhibited CYP3A4 in laboratory tests.",
+     "reference_ids": [
+      "REF-5049",
+      "REF-2503",
+      "REF-5053"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    },
+    {
+     "drug_class": "cardiac-glycosides",
+     "severity": "likely-safe",
+     "mechanism": "In a randomized study in healthy volunteers, 14 days of black cohosh did not change digoxin blood levels, so it is unlikely to affect digoxin through the P-glycoprotein drug pump.",
+     "reference_ids": [
+      "REF-5050"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    },
+    {
+     "drug_class": "antidepressants-serotonergic",
+     "severity": "caution",
+     "mechanism": "Black cohosh contains serotonin-like compounds. One woman on two long-term antidepressants developed serotonin toxicity and muscle breakdown soon after starting black cohosh; this rests on a single case report, with no controlled study.",
+     "reference_ids": [
+      "REF-5052"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    },
+    {
+     "drug_class": "hormonal-therapies",
+     "severity": "insufficient",
+     "mechanism": "In laboratory tests a black cohosh extract blocked the enzymes (CYP2D6, CYP3A4) that turn tamoxifen into its active forms, which could in theory weaken tamoxifen. In healthy volunteers black cohosh had no or only a weak, clinically irrelevant effect on CYP2D6, and an observational study in tamoxifen-treated women reported no related adverse events. Whether it affects tamoxifen's anticancer effect has not been tested.",
+     "reference_ids": [
+      "REF-5053",
+      "REF-5051",
+      "REF-2503",
+      "REF-5079"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    }
+   ],
    "common_slug": "black-cohosh"
   },
   {
@@ -2192,6 +2254,19 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "insufficient",
+     "mechanism": "In laboratory tests a commercial horse chestnut product inhibited the drug-clearing enzyme CYP3A4 and the P-glycoprotein drug pump, and also lowered CYP activity in human liver cells; its authors suggested possible interactions in the gut. No study in people has tested this, and the EU monograph reports no interactions, so the evidence is insufficient to judge.",
+     "reference_ids": [
+      "REF-5018",
+      "REF-5019",
+      "REF-3086"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
     }
    ],
    "lookalikes_review": {

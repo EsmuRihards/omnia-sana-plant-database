@@ -422,14 +422,18 @@ drug_class_interactions:
   - REF-5049
   - REF-2503
   - REF-5053
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 - drug_class: cardiac-glycosides
   severity: likely-safe
   mechanism: In a randomized study in healthy volunteers, 14 days of black cohosh did not change digoxin
     blood levels, so it is unlikely to affect digoxin through the P-glycoprotein drug pump.
   reference_ids:
   - REF-5050
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 - drug_class: antidepressants-serotonergic
   severity: caution
   mechanism: Black cohosh contains serotonin-like compounds. One woman on two long-term antidepressants
@@ -437,7 +441,9 @@ drug_class_interactions:
     a single case report, with no controlled study.
   reference_ids:
   - REF-5052
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 - drug_class: hormonal-therapies
   severity: insufficient
   mechanism: In laboratory tests a black cohosh extract blocked the enzymes (CYP2D6, CYP3A4) that turn
@@ -450,4 +456,6 @@ drug_class_interactions:
   - REF-5051
   - REF-2503
   - REF-5079
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'

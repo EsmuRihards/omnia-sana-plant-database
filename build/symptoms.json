@@ -2369,7 +2369,7 @@
     {
      "condition": "hot-flashes",
      "label": "Hot flashes",
-     "evidence": 9,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
@@ -2377,13 +2377,18 @@
       "REF-2397",
       "REF-2399",
       "REF-3404",
-      "REF-3407"
+      "REF-3407",
+      "REF-5066",
+      "REF-5070",
+      "REF-5072",
+      "REF-5073",
+      "REF-5079"
      ]
     },
     {
      "condition": "menopause",
      "label": "Menopause",
-     "evidence": 9,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
@@ -2395,7 +2400,14 @@
       "REF-2401",
       "REF-2589",
       "REF-3404",
-      "REF-3407"
+      "REF-3407",
+      "REF-5068",
+      "REF-5069",
+      "REF-5070",
+      "REF-5071",
+      "REF-5072",
+      "REF-5073",
+      "REF-5079"
      ]
     },
     {
@@ -9211,6 +9223,39 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 10,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0470",
+      "REF-0679",
+      "REF-5001",
+      "REF-5002",
+      "REF-5003",
+      "REF-5005",
+      "REF-3086"
+     ]
+    },
+    {
+     "condition": "varicose-veins",
+     "label": "Varicose veins",
+     "evidence": 10,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0470",
+      "REF-0679",
+      "REF-2406",
+      "REF-5001",
+      "REF-5002",
+      "REF-5003",
+      "REF-5005",
+      "REF-3086"
+     ]
+    },
+    {
      "condition": "pain",
      "label": "Pain (general)",
      "evidence": 7,
@@ -9218,30 +9263,30 @@
      "inferred": false,
      "references": [
       "REF-0470",
-      "REF-0679"
-     ]
-    },
-    {
-     "condition": "swelling",
-     "label": "Swelling / fluid retention",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0470",
-      "REF-0679"
-     ]
-    },
-    {
-     "condition": "varicose-veins",
-     "label": "Varicose veins",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0470",
       "REF-0679",
-      "REF-2406"
+      "REF-3086"
+     ]
+    },
+    {
+     "condition": "hemorrhoids",
+     "label": "Haemorrhoids",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5010",
+      "REF-5011"
+     ]
+    },
+    {
+     "condition": "bruising",
+     "label": "Bruising",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5009",
+      "REF-3086"
      ]
     },
     {
@@ -9270,14 +9315,6 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "hemorrhoids",
-     "label": "Haemorrhoids",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -14614,7 +14651,7 @@
   {
    "safety": {
     "severity": "serious",
-    "note": "Beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies."
+    "note": "Alpha- and beta-asarone, the main aromatic compounds of the rhizome, are genotoxic and cause liver cancer in rodents."
    },
    "name": "Sweet Flag",
    "scientific": "Acorus calamus",
@@ -16768,6 +16805,54 @@
    "wp_post_id": 180,
    "indications": [
     {
+     "condition": "heavy-bleeding",
+     "label": "Heavy menstrual bleeding",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0373",
+      "REF-0098",
+      "REF-5034",
+      "REF-5035"
+     ]
+    },
+    {
+     "condition": "oral-health",
+     "label": "Oral & throat health",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3410",
+      "REF-5036"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0369",
+      "REF-0373",
+      "REF-0381",
+      "REF-3409",
+      "REF-5033"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5024"
+     ]
+    },
+    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
      "evidence": 5,
@@ -16776,6 +16861,16 @@
      "references": [
       "REF-0369",
       "REF-3411"
+     ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5024"
      ]
     },
     {
@@ -16789,13 +16884,13 @@
      ]
     },
     {
-     "condition": "oral-health",
-     "label": "Oral & throat health",
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
      "evidence": 5,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-3410"
+      "REF-5032"
      ]
     },
     {
@@ -16807,19 +16902,6 @@
      "references": [
       "REF-0011",
       "REF-3411"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0369",
-      "REF-0373",
-      "REF-0381",
-      "REF-3409"
      ]
     },
     {
@@ -16897,17 +16979,6 @@
      "inferred": true,
      "references": [
       "REF-0373"
-     ]
-    },
-    {
-     "condition": "heavy-bleeding",
-     "label": "Heavy menstrual bleeding",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0373",
-      "REF-0098"
      ]
     },
     {

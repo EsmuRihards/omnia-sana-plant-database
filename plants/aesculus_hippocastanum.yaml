@@ -26,6 +26,8 @@ constituents:
   - REF-0590
   - REF-0677
   - REF-2402
+  - REF-5020
+  - REF-5022
 - name: Flavonoids and coumarins (aesculin)
   compounds:
   - flavonoid
@@ -104,11 +106,16 @@ preparations:
   status: verified
 dosage:
 - name: Standardised oral extract
-  text: Clinical studies commonly use extracts standardised to around 100-150 mg escin daily, in divided
-    doses. Educational reference only, not a prescription.
+  text: The EU herbal monograph (well-established use) gives a standardised dry extract corresponding
+    to 21 mg triterpene glycosides, calculated as protoaescigenin (previously declared as 50 mg aescin),
+    twice daily for adults and the elderly; at least 4 weeks may be needed before any benefit, and use
+    under 18 is not recommended. The main placebo-controlled trial gave extract providing 50 mg aescin
+    twice daily for 12 weeks. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0590
-  status: draft
+  - REF-3086
+  - REF-5001
+  - REF-5021
+  status: verified
 - name: Topical gel
   text: The EU herbal monograph gives semi-solid dosage forms containing the equivalent of 0.4% triterpene
     glycosides calculated as protoaescigenin (or, depending on the preparation, 0.85-20% herbal preparation),
@@ -132,6 +139,7 @@ actions:
     and exerts venotonic effects on veins
   reference_ids:
   - REF-0590
+  - REF-5004
   status: verified
 - action: anticancer
   reference_ids:
@@ -164,9 +172,13 @@ indications:
   - REF-2835
   status: needs-review
 - condition: hemorrhoids
-  note: inferred from venotonic action
-  reference_ids: []
-  status: needs-review
+  note: Adding escin (the main saponin of horse chestnut seed, registered as "aescin in horse chestnut";
+    compound evidence) to a flavonoid haemorrhoid drug (MPFF) stopped bleeding haemorrhoids sooner than
+    MPFF alone in two randomized trials, and in the double-blind one it also cut recurrence over 3 months
+  reference_ids:
+  - REF-5010
+  - REF-5011
+  status: verified
   mechanistic_exclude_ids:
   - REF-0590
 - condition: inflammation
@@ -178,11 +190,13 @@ indications:
   - REF-0676
   status: needs-review
 - condition: pain
-  note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
-    varicose veins
+  note: In chronic venous insufficiency, horse chestnut seed extract reduced leg pain vs placebo in six
+    of seven placebo-controlled trials (Cochrane review); the EU monograph lists leg pain among the venous
+    symptoms it treats
   reference_ids:
   - REF-0470
   - REF-0679
+  - REF-3086
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -193,39 +207,88 @@ indications:
   - REF-0590
   - REF-2405
 - condition: swelling
-  note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
-    varicose veins
+  note: Horse chestnut seed extract reduced lower-leg volume (oedema) vs placebo in chronic venous insufficiency
+    in randomized trials and meta-analyses, and matched compression stockings in one trial; the EU monograph
+    lists swollen legs among the venous symptoms it treats. A trial in advanced venous insufficiency and
+    an open comparison with pine bark extract found no significant effect
   reference_ids:
   - REF-0470
   - REF-0679
+  - REF-5001
+  - REF-5002
+  - REF-5003
+  - REF-5005
+  - REF-3086
   status: verified
+  null_result_ids:
+  - REF-5006
+  - REF-5007
 - condition: varicose-veins
-  note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
-    varicose veins
+  note: 'Chronic venous insufficiency (varicose veins, swollen, heavy and aching legs): horse chestnut
+    seed extract improved leg swelling, pain and itching vs placebo in meta-analyses of randomized trials
+    and is an EU well-established-use medicine for it; one trial in advanced venous insufficiency and
+    one open comparison found no significant benefit'
   reference_ids:
   - REF-0470
   - REF-0679
   - REF-2406
+  - REF-5001
+  - REF-5002
+  - REF-5003
+  - REF-5005
+  - REF-3086
+  status: verified
+  null_result_ids:
+  - REF-5006
+  - REF-5007
+- condition: bruising
+  note: A 2% escin gel (escin is the main saponin of horse chestnut seed; compound evidence) reduced the
+    tenderness of experimentally induced bruises vs placebo in a double-blind randomized trial; the EU
+    monograph lists traditional use on the skin for bruises (local swelling and haematoma)
+  reference_ids:
+  - REF-5009
+  - REF-3086
   status: verified
 contraindications:
-- note: Use only standardised, processed seed extract. Raw conkers, leaves and bark contain toxic esculin
-    and can cause poisoning - never eat raw horse chestnut.
-  severity: info
+- note: 'Use only standardised, processed seed extract. Raw conkers are poisonous: people who ate them
+    after mistaking them for edible sweet chestnuts developed stomach pain, nausea and vomiting, and in
+    one case a temporary irregular heartbeat; snorting the powdered seeds has caused vomiting, breathing
+    difficulty and fainting. Never eat raw horse chestnut.'
+  severity: warning
   reference_ids:
-  - REF-0470
+  - REF-5014
+  - REF-5016
+  - REF-5015
   status: verified
-- note: May increase bleeding risk, so use caution with anticoagulant/antiplatelet medicines; use caution
-    in kidney disease and avoid in pregnancy and breastfeeding.
+- note: The EU monograph advises seeing a doctor before use if you have heart or kidney failure, inflamed
+    skin, thrombophlebitis, leg ulcers, severe pain or sudden swelling of one or both legs, and does not
+    recommend use in pregnancy, while breastfeeding or under 18 years. One case of life-threatening kidney
+    bleeding in a woman taking horse chestnut seed extract has been reported, and its authors advise caution
+    with blood-thinning medicines.
   severity: caution
   reference_ids:
-  - REF-0470
-  status: needs-review
+  - REF-3086
+  - REF-5017
+  status: verified
+- note: 'Reported side effects include stomach and gut complaints, headache, dizziness, itching and allergic
+    reactions, and itching or redness of the skin with gels and creams (EU monograph). Liver injury is
+    rare but has been reported: once with an oral horse chestnut supplement in a 70-year-old man (2021)
+    and once after an injected horse chestnut extract (1986). Stop and seek advice if jaundice, dark urine
+    or itching all over develops.'
+  severity: caution
+  reference_ids:
+  - REF-3086
+  - REF-5012
+  - REF-5013
+  status: verified
 references:
 - REF-2402
 - REF-2403
 - REF-2404
 - REF-2405
 - REF-2406
+- REF-5008
+- REF-5023
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
@@ -236,6 +299,17 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: cyp3a4-substrates
+  severity: insufficient
+  mechanism: In laboratory tests a commercial horse chestnut product inhibited the drug-clearing enzyme
+    CYP3A4 and the P-glycoprotein drug pump, and also lowered CYP activity in human liver cells; its authors
+    suggested possible interactions in the gut. No study in people has tested this, and the EU monograph
+    reports no interactions, so the evidence is insufficient to judge.
+  reference_ids:
+  - REF-5018
+  - REF-5019
+  - REF-3086
+  status: draft
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -279,4 +353,34 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review
   merged into its 2012 update REF-0470 (superseded, inv. 11). REF-2405 credits the 5-ingredient
   product Flonat Fast (escin alone not reported in the abstract) - removed from arthritis, kept as
   a mechanistic card; arthritis is now inferred only. Inflammation and cancer notes labelled as
-  escin (signature compound) evidence.'
+  escin (signature compound) evidence.
+  | 2026-11-24: symptom-source audit research-deepening batch 1 - Added human evidence
+  (REF-5001..5023): Diehm 1996 Lancet RCT (HCSE 50 mg aescin twice daily = compression, both beat
+  placebo on leg volume), Siebert 2002 MA (13 RCTs + 3 observational), Diehm 1992 RCT, Dickson
+  2004 open study (Aesculaforce) to swelling + varicose-veins; Ottillinger 2001 (advanced CVI:
+  HCSE not superior to placebo) and Koch 2002 (open, Venostasin not significant vs Pycnogenol)
+  recorded as no-effect. EU monograph REF-3086 (read from the PDF 2026-11-24: printed 15 January
+  2020, EMA/HMPC/638242/2018; year corrected from 2023) names CVI swollen legs, varicose veins,
+  pain; traditional cutaneous use for bruises (local oedema, haematoma); interactions none
+  reported; pregnancy/lactation not recommended. NEW bruising pair: Calabrese 1993 RCT (2% escin
+  gel, experimental haematoma, compound evidence) + EU monograph. Hemorrhoids now sourced: two
+  Thai RCTs adding escin to MPFF (NCT06748014 registers the drug as "Aescin in Horse Chestnut").
+  Bisler 1986 crossover RCT (capillary filtration -22%) to anti-oedematous. Safety: DILI case
+  2021, Venoplant injection hepatic injury 1986, seed poisoning (Korean-chestnut confusion), snuff
+  intoxication, Marseille PCC food confusion (A. hippocastanum 2.5% of 2,197 events), renal
+  angiomyolipoma bleed. Raw-seed note re-sourced (Cochrane states none of it; "esculin" wording
+  dropped, the reports blame the seed/aescin) and raised to warning. Draft CYP3A4 interaction
+  (insufficient; in vitro only). Not wired to the approved anticoagulant interaction (owner
+  record): REF-5017 would support it. Bucket: Leach 2006 venous-ulcer RCT (healing NS; slough and
+  dressing changes better), thyroid-eye-disease add-on RCT. Rejected: Pittler 1998 Arch Dermatol
+  SR (earlier version of the held Cochrane review, superseded), Rehn 1996 (active comparator
+  only), 1788677 (no abstract), Fang 2010 escin varicocele RCT (Chinese escin, species not named,
+  all arms on composite medicines), escin/diethylamine-salicylate/heparin gels (Wetzel 2002, 2001:
+  combinations), aescin+heparin+PDC registry, F1000 third-molar aescin protocol (no results),
+  sulodexide NMA (no HCSE-specific result), Aesculaforce 5-study product review, HAVLUT methods
+  paper, cost-benefit companion, effusive pericarditis after "horse chestnut paste" (single case,
+  product unclear), IV aescin renal-failure reports (parenteral, gentamicin co-therapy, no
+  abstracts), contact urticaria / dermatitis / defensin-allergy letters (no abstracts),
+  indinavir-crystallization escin trial (no symptom; plasma indinavir unchanged). Sweet chestnut
+  (Castanea) is not a DB plant, so the conker/sweet-chestnut confusion is recorded as a safety
+  note, not a dangerous_lookalikes entry.'

@@ -23,6 +23,7 @@ constituents:
   - REF-0670
   - REF-0416
   - REF-2398
+  - REF-5080
 - name: Phenolic acids (fukinolic and cimicifugic acids)
   compounds:
   - phenolic-acid
@@ -156,14 +157,21 @@ indications:
   - REF-2830
   - REF-2831
 - condition: hot-flashes
-  note: Reduced hot flushes in meta-analyses and in a large trial of the isopropanolic extract; a Cochrane
-    review and several large trials found no difference from placebo
+  note: Reduced hot flushes vs placebo in meta-analyses (including the NICE guideline network meta-analysis)
+    and in several randomized trials, and the 2026 International Menopause Society review rated this moderate-certainty
+    evidence; a Cochrane review and several other trials, one in breast cancer survivors, found no difference
+    from placebo
   reference_ids:
   - REF-0670
   - REF-2397
   - REF-2399
   - REF-3404
   - REF-3407
+  - REF-5066
+  - REF-5070
+  - REF-5072
+  - REF-5073
+  - REF-5079
   status: verified
   null_result_ids:
   - REF-0623
@@ -172,10 +180,12 @@ indications:
   - REF-3403
   - REF-3405
   - REF-3406
+  - REF-5065
+  - REF-5067
 - condition: menopause
-  note: Improved overall menopausal symptom scores in meta-analyses and in a large trial of the isopropanolic
-    extract; a Cochrane review and several trials found no benefit over placebo; no effect on menopausal
-    anxiety
+  note: Improved overall menopausal symptom scores vs placebo in meta-analyses and several randomized
+    trials, including menopausal symptoms caused by breast cancer treatment; a Cochrane review and several
+    trials found no benefit over placebo; no effect on menopausal anxiety
   reference_ids:
   - REF-0670
   - REF-0674
@@ -186,6 +196,13 @@ indications:
   - REF-2589
   - REF-3404
   - REF-3407
+  - REF-5068
+  - REF-5069
+  - REF-5070
+  - REF-5071
+  - REF-5072
+  - REF-5073
+  - REF-5079
   status: verified
   null_result_ids:
   - REF-0623
@@ -194,6 +211,8 @@ indications:
   - REF-3403
   - REF-3405
   - REF-3406
+  - REF-5065
+  - REF-5067
 - condition: insomnia
   note: Improved objective sleep (sleep efficiency, time awake at night) vs placebo in a randomized trial
     in postmenopausal women with sleep problems
@@ -201,23 +220,51 @@ indications:
   - REF-3408
   status: verified
 contraindications:
-- note: Rare reports of liver injury have prompted a precaution; large meta-analytic data found no evidence
-    of hepatotoxicity, but stop use and seek advice if signs of liver problems occur (jaundice, dark urine,
-    upper-abdominal pain).
+- note: Rare cases of liver injury, including cholestatic and autoimmune-type hepatitis, have been reported;
+    a US Pharmacopeia review of 30 reports judged all of them possibly related and recommended a cautionary
+    label. Pooled data from five trials of the isopropanolic extract (1,117 women) and a 12-month study
+    found no effect on liver tests. Stop use and seek advice if signs of liver problems occur (jaundice,
+    dark urine, upper-abdominal pain).
   severity: caution
   reference_ids:
   - REF-0670
+  - REF-5054
+  - REF-5055
+  - REF-5056
+  - REF-5057
+  - REF-5058
+  - REF-5059
   status: verified
 - note: Current evidence does not show an increased risk of breast cancer or proliferation of oestrogen-sensitive
     tissue, but women with or at risk of hormone-sensitive cancer should use it only under medical guidance.
   severity: info
   reference_ids:
   - REF-0416
+  - REF-5075
+  - REF-5076
+  - REF-5077
+  - REF-5078
   status: verified
-- note: Not recommended during pregnancy or breastfeeding.
+- note: Not recommended during pregnancy or breastfeeding. Midwives have used it to stimulate the womb
+    and induce labour; a systematic review advises caution in pregnancy, especially the first trimester,
+    and while breastfeeding, and severe low blood sodium was reported in a woman who took it to induce
+    labour.
   severity: caution
   reference_ids:
   - REF-0670
+  - REF-5064
+  - REF-5063
+  status: verified
+- note: Side effects in clinical trials are usually mild, but isolated case reports describe a very slow
+    heart rate in an older woman taking it for years, mania in a woman with depression, and serotonin
+    toxicity with muscle breakdown in a woman also taking two antidepressants; use cautiously with a history
+    of depression or bipolar disorder.
+  severity: caution
+  reference_ids:
+  - REF-5060
+  - REF-5061
+  - REF-5062
+  - REF-5052
   status: verified
 references:
 - REF-2397
@@ -226,6 +273,9 @@ references:
 - REF-2400
 - REF-2401
 - REF-2589
+- REF-5074
+- REF-5081
+- REF-5082
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -334,4 +384,70 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   RCT REF-3408 (owner rule). REF-2401 retagged narrative-review (structured review, no
   reproducible search). Notes now state the mixed result. Not added: PCOS-infertility SR 33926292
   ("lack of high-quality evidence").
-  | 2026-11-19 (monograph-source audit): constituents[1] cited only REF-0670 (iCR clinical review). RE-SOURCED to Kruse 1999 Planta Med (REF-3992, new; isolated from C. racemosa rhizome). Dropped: ''antioxidant constituents'' (not stated). Rejected as wrong-species: Kusano 2001 and Noguchi 1998 (unspecified Cimicifuga species), Ma 2019 (C. heracleifolia).'
+  | 2026-11-19 (monograph-source audit): constituents[1] cited only REF-0670 (iCR clinical review). RE-SOURCED to Kruse 1999 Planta Med (REF-3992, new; isolated from C. racemosa rhizome). Dropped: ''antioxidant constituents'' (not stated). Rejected as wrong-species: Kusano 2001 and Noguchi 1998 (unspecified Cimicifuga species), Ma 2019 (C. heracleifolia).
+  | 2026-11-24: symptom-source audit research-deepening batch 1 - Searched PubMed with "Actaea
+  racemosa" OR "Cimicifuga racemosa" OR "black cohosh" tiab (the earlier landmark search used only
+  the accepted binomial + title common name and missed most of this literature),
+  Cimicifuga/Remifemin ti; Europe PMC, ClinicalTrials.gov (35 records), OpenAlex. Added: Wuttke
+  2003 (BNO 1055 = conjugated oestrogens, > placebo), Schellenberg 2012 (Ze 450 dose-dependent),
+  Iranian 2013 double-blind RCT (Chin Med), LHRH-a breast-cancer RCT 2019, Hernandez Munoz 2003
+  (tamoxifen hot flushes, open RCT), NICE 2017 NMA, IMS 2026 SR (moderate certainty), tamoxifen
+  observational 2011 (clinical) to hot-flashes/menopause; no-effect: Jacobson 2001 (breast cancer
+  survivors) and Frei-Kleiner 2005 (ITT null, subgroup only). Safety: Naser 2011 liver MA, USP
+  2008 case review, cholestatic and AIH case reports, 12-month hepatic perfusion study,
+  107-patient follow-up; breast density (RCT + open), recurrence cohort, endometrial safety;
+  pregnancy SR (Dugoua 2006) + labour hyponatraemia case; AE SR + bradycardia, mania, serotonin
+  toxicity cases; PK of 23-epi-26-deoxyactein. Draft interactions: CYP3A4 likely-safe (midazolam
+  RCT), digoxin likely-safe, serotonergic antidepressants caution (single case), tamoxifen
+  insufficient (in vitro vs human CYP2D6 data). Bucket: Amsterdam 2009 anxiety RCT (no anxiolytic
+  effect; no anxiety pair exists), genotoxicity cross-sectional study (no excess micronuclei),
+  endothelial-function RCT (surrogate in healthy women, not used for a cardiovascular pair). Not
+  added: 25276716 (J Caring Sci 2013, 84 women, 8 weeks - very likely the same trial as REF-5070,
+  duplicate publication), active-comparator-only trials (vs tibolone, low-dose estradiol,
+  fluoxetine), combinations (with St John''s wort, soy isoflavones, rhodiola, dong quai, Menohelp,
+  BRN-01, Phyto-Female), Nutrients 2026 SR (black cohosh result ambiguous), Shams 2010 MA (black
+  cohosh-containing preparations), older SRs (Borrelli 2008 held as REF-0623), hypertension study
+  (Wiad Lek, add-on, not stated randomized), homeopathic Actaea potencies. OWNER DECISIONS: (1)
+  fertility - clomiphene add-on RCTs (Shahin 2008, 2009; Kamel 2014; 2022 PCOS trial) would meet
+  inv. 12a, but the 2009 trial now carries an Expression of Concern (Reprod Biomed Online 2026)
+  and the PCOS SR found low-quality evidence; (2) depression - a Chinese add-on RCT (Remifemin +
+  paroxetine) is positive while the held 2023 MA found no effect on depression.'
+drug_class_interactions:
+- drug_class: cyp3a4-substrates
+  severity: likely-safe
+  mechanism: In healthy volunteers, 14-28 days of black cohosh did not change midazolam levels (a CYP3A4
+    test drug), so clinically relevant CYP3A4 interactions are unlikely, although extracts inhibited CYP3A4
+    in laboratory tests.
+  reference_ids:
+  - REF-5049
+  - REF-2503
+  - REF-5053
+  status: draft
+- drug_class: cardiac-glycosides
+  severity: likely-safe
+  mechanism: In a randomized study in healthy volunteers, 14 days of black cohosh did not change digoxin
+    blood levels, so it is unlikely to affect digoxin through the P-glycoprotein drug pump.
+  reference_ids:
+  - REF-5050
+  status: draft
+- drug_class: antidepressants-serotonergic
+  severity: caution
+  mechanism: Black cohosh contains serotonin-like compounds. One woman on two long-term antidepressants
+    developed serotonin toxicity and muscle breakdown soon after starting black cohosh; this rests on
+    a single case report, with no controlled study.
+  reference_ids:
+  - REF-5052
+  status: draft
+- drug_class: hormonal-therapies
+  severity: insufficient
+  mechanism: In laboratory tests a black cohosh extract blocked the enzymes (CYP2D6, CYP3A4) that turn
+    tamoxifen into its active forms, which could in theory weaken tamoxifen. In healthy volunteers black
+    cohosh had no or only a weak, clinically irrelevant effect on CYP2D6, and an observational study in
+    tamoxifen-treated women reported no related adverse events. Whether it affects tamoxifen's anticancer
+    effect has not been tested.
+  reference_ids:
+  - REF-5053
+  - REF-5051
+  - REF-2503
+  - REF-5079
+  status: draft

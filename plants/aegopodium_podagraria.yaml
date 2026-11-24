@@ -330,4 +330,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
   replaced by Grieve''s Goutweed entry REF-4301 (read 2026-11-20: diuretic and sedative; joint aches,
   gouty and sciatic pains; fomentation for inflamed parts) on the four actions and four pairs it
-  carried; removed from the two cautions, which Grieve does not state. Same tier, so no score change.'
+  carried; removed from the two cautions, which Grieve does not state. Same tier, so no score change.
+  | 2026-11-24: symptom-source audit research-deepening batch 1 - Searched PubMed ("Aegopodium
+  podagraria" OR goutweed OR "ground elder" OR Aegopodium tiab: 0 human-trial, 0 SR, 2 off-topic
+  safety hits), Europe PMC, ClinicalTrials.gov (0 records) and OpenAlex (89 trial-worded works,
+  all ecology or agronomy except below). No human study exists. Not added: Tovchiga et al.
+  rat/mouse studies (J Adv Med Pharm Sci 2018 renal/uric-acid effects with hydrochlorothiazide;
+  Int J Biochem Res Rev 2014 hypouricaemic effect; Asian J Res Med Pharm Sci 2018 behaviour) -
+  preclinical only and published by SCIENCEDOMAIN/Journal Repository, on Beall''s list of
+  potentially predatory publishers; Jurczak 2016 gout-plants overview (Nauka Przyroda Technologie,
+  names goutweed in one sentence). Settled: no new sources this pass.'

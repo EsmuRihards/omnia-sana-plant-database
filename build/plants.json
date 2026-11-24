@@ -185,8 +185,7 @@
      "name": "Poultice/compress",
      "text": "Fresh crushed leaf or flowering tops applied directly to minor cuts and wounds, reflecting the traditional styptic (bleeding-stopping) and vulnerary use.",
      "reference_ids": [
-      "REF-0369",
-      "REF-2085"
+      "REF-0369"
      ],
      "status": "verified"
     },
@@ -216,6 +215,16 @@
       "REF-3064"
      ],
      "status": "verified"
+    },
+    {
+     "name": "Capsules (doses used in clinical trials)",
+     "text": "Clinical trials used yarrow capsules of different strengths: 500 mg a day for 3 months (type 2 diabetes), two 500 mg capsules three times a day from day 21 of the cycle to day 3 of the next (premenstrual syndrome), and 150 mg every 8 hours during menstruation alongside mefenamic acid (heavy periods). The products were not standardised. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-5024",
+      "REF-5032",
+      "REF-5034"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -232,7 +241,8 @@
       "REF-2080",
       "REF-2081",
       "REF-2082",
-      "REF-2083"
+      "REF-2083",
+      "REF-5031"
      ],
      "status": "verified"
     },
@@ -250,7 +260,8 @@
      "reference_ids": [
       "REF-0011",
       "REF-0098",
-      "REF-0296"
+      "REF-0296",
+      "REF-5031"
      ],
      "status": "verified"
     },
@@ -262,7 +273,8 @@
       "REF-0296",
       "REF-2076",
       "REF-2084",
-      "REF-2086"
+      "REF-2086",
+      "REF-5031"
      ],
      "status": "verified"
     },
@@ -273,7 +285,8 @@
       "REF-0011",
       "REF-0098",
       "REF-0296",
-      "REF-2078"
+      "REF-2078",
+      "REF-5031"
      ],
      "status": "verified"
     },
@@ -329,8 +342,7 @@
      "reference_ids": [
       "REF-0369",
       "REF-0373",
-      "REF-0381",
-      "REF-2085"
+      "REF-0381"
      ],
      "status": "verified"
     },
@@ -433,18 +445,19 @@
     },
     {
      "condition": "heavy-bleeding",
-     "note": "Traditional styptic for heavy menstrual bleeding and nosebleeds (Herbal Reality; Grieve, A Modern Herbal)",
+     "note": "Yarrow capsules added to mefenamic acid reduced the amount and duration of heavy menstrual bleeding more than placebo in two triple-blind randomized trials; also a traditional styptic for heavy periods and nosebleeds (Herbal Reality; Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0373",
-      "REF-0098"
+      "REF-0098",
+      "REF-5034",
+      "REF-5035"
      ],
-     "status": "needs-review",
+     "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-2085",
       "REF-0369",
       "REF-0381"
      ],
-     "evidence": 1,
+     "evidence": 6,
      "label": "Heavy menstrual bleeding"
     },
     {
@@ -463,7 +476,7 @@
     },
     {
      "condition": "infection",
-     "note": "Traditionally used for respiratory infections (review of traditional uses)",
+     "note": "Traditionally used for respiratory infections (review of traditional uses); a yarrow gel added to standard injections did not improve cure of cutaneous leishmaniasis vs placebo in a randomized trial",
      "reference_ids": [
       "REF-0011"
      ],
@@ -471,6 +484,9 @@
      "mechanistic_exclude_ids": [
       "REF-0296",
       "REF-0098"
+     ],
+     "null_result_ids": [
+      "REF-5026"
      ],
      "evidence": 2,
      "label": "Infection (general)"
@@ -508,7 +524,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "Traditionally used for skin conditions (review); yarrow oil extracts restored experimentally irritated skin in a randomized trial in volunteers",
+     "note": "Traditionally used for skin conditions (review); yarrow oil extracts restored experimentally irritated skin in a randomized trial in volunteers; a yarrow cream did not significantly prevent radiation dermatitis vs placebo",
      "reference_ids": [
       "REF-0011",
       "REF-3411"
@@ -518,34 +534,72 @@
       "REF-0296",
       "REF-0098"
      ],
+     "null_result_ids": [
+      "REF-5037"
+     ],
      "evidence": 5,
      "label": "Skin irritation"
     },
     {
      "condition": "wounds",
-     "note": "Traditional styptic for minor cuts; a yarrow ointment reduced pain, redness and swelling of episiotomy wounds in a randomized trial",
+     "note": "Traditional styptic for minor cuts; in randomized trials a yarrow ointment reduced pain, redness and swelling of episiotomy wounds and yarrow tea-bag compresses healed cracked nipples faster than breast milk; a small controlled study of a yarrow ointment for venous leg ulcers left its benefit uncertain",
      "reference_ids": [
       "REF-0369",
       "REF-0373",
       "REF-0381",
-      "REF-3409"
+      "REF-3409",
+      "REF-5033"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0296"
      ],
-     "evidence": 5,
+     "null_result_ids": [
+      "REF-5039"
+     ],
+     "evidence": 6,
      "label": "Wounds"
     },
     {
      "condition": "oral-health",
-     "note": "A yarrow distillate mouthwash healed chemotherapy mouth sores faster than the routine mouthwash in a randomized trial",
+     "note": "Yarrow mouthwashes eased chemotherapy mouth sores in two randomized trials (added to routine or chlorhexidine mouthwash); in one they did not prevent the sores from starting",
      "reference_ids": [
-      "REF-3410"
+      "REF-3410",
+      "REF-5036"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Oral & throat health"
+    },
+    {
+     "condition": "liver-support",
+     "note": "Yarrow capsules (500 mg a day for 3 months) lowered the liver enzymes ALT and AST vs placebo in a double-blind randomized trial in people with type 2 diabetes",
+     "reference_ids": [
+      "REF-5024"
      ],
      "status": "verified",
      "evidence": 5,
-     "label": "Oral & throat health"
+     "label": "Liver support"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Yarrow capsules (500 mg a day for 3 months) lowered LDL and total cholesterol and triglycerides vs placebo in a double-blind randomized trial in people with type 2 diabetes",
+     "reference_ids": [
+      "REF-5024"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "pms",
+     "note": "Yarrow capsules taken from day 21 of the cycle to day 3 of the next reduced premenstrual symptoms and abdominal pain vs placebo in a double-blind randomized trial (Unani medicine, India)",
+     "reference_ids": [
+      "REF-5032"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
     }
    ],
    "contraindications": [
@@ -574,7 +628,9 @@
      "note": "As a member of the daisy family (Asteraceae) it can cause allergic reactions or contact dermatitis in sensitive people, and handling the fresh plant in sunlight can occasionally cause photosensitivity.",
      "severity": "info",
      "reference_ids": [
-      "REF-0369"
+      "REF-0369",
+      "REF-5029",
+      "REF-5026"
      ],
      "status": "verified"
     },
@@ -582,7 +638,8 @@
      "note": "Medicinal use is traditionally avoided in pregnancy (can stimulate the uterus and influence menstruation); caution while breastfeeding.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0373"
+      "REF-0373",
+      "REF-5030"
      ],
      "status": "verified"
     },
@@ -619,6 +676,14 @@
       "REF-0383"
      ],
      "status": "verified"
+    },
+    {
+     "note": "One case of anticholinergic-type poisoning (blurred vision, dry mouth, facial flushing and palpitations) was reported in a woman who drank five cups of yarrow tea a day for a week.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5040"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -631,8 +696,11 @@
     "REF-2082",
     "REF-2083",
     "REF-2084",
-    "REF-2085",
-    "REF-2086"
+    "REF-2086",
+    "REF-5025",
+    "REF-5027",
+    "REF-5028",
+    "REF-5038"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -693,7 +761,9 @@
      "note": "Characteristic aromatic constituents - but beta-asarone is the toxic, safety-limiting compound.",
      "reference_ids": [
       "REF-0515",
-      "REF-2278"
+      "REF-2278",
+      "REF-5047",
+      "REF-5046"
      ]
     },
     {
@@ -709,30 +779,35 @@
     }
    ],
    "botanical_description": {
-    "text": "Aromatic, semi-aquatic perennial herb spreading by a thick, branching, aromatic rhizome that creeps horizontally in mud at the water's edge. The leaves are erect, sword-shaped (ensiform), bright green and arranged in a fan like an iris, with a distinctive off-centre midrib and one crinkled, wavy margin. A small, finger-like, greenish-yellow flower spike (spadix) emerges obliquely part-way up a leaf-like flowering stem in summer, but in cool temperate climates the plant rarely sets viable seed and spreads mainly by rhizome division.",
-    "height": "50-150 cm (leaves)",
+    "text": "Aromatic, reed-like aquatic perennial with a long, branched, cylindrical rhizome about the thickness of a finger, creeping in the mud and sending out numerous roots. The few erect leaves are yellowish-green, 2-3 feet long, sword-shaped, narrow and flat, sheathing and pink at the base, with entire but wavy or crimped edges and an aromatic smell when bruised. From the side of a leaf-like stem a solid, cylindrical, blunt flower spike (spadix) 2-4 inches long projects at an angle, densely crowded with very small greenish-yellow flowers, in June and July. All parts of the plant have a peculiar, agreeable fragrance.",
+    "height": "Leaves 2-3 feet (about 60-90 cm)",
     "habit": "Erect, rhizomatous, semi-aquatic perennial herb",
-    "leaves": "Erect, sword-shaped, iris-like, with an off-centre midrib and one wavy margin; strongly aromatic when crushed",
-    "flowers": "Small greenish-yellow flowers crowded on a finger-like spadix borne obliquely on a leaf-like stalk",
+    "leaves": "Few, erect, yellowish-green, sword-shaped, sheathing and pink at the base, with wavy or crimped edges; aromatic when bruised",
+    "flowers": "Very small greenish-yellow flowers crowded on a blunt, cylindrical spadix 2-4 inches long, projecting at an angle from the side of a leaf-like stem",
     "stem": "Leaf-like flowering stalk arising from the rhizome; the true stem is the underground rhizome",
-    "root": "Thick, branching, aromatic creeping rhizome",
-    "fruit": "Rarely sets viable seed in temperate climates; propagates mainly by rhizome division",
-    "flowering_period": "Late spring to summer",
-    "reference_ids": [],
+    "root": "Long, branched, cylindrical rhizome about the thickness of a finger, creeping in mud, with numerous roots",
+    "flowering_period": "June and July",
+    "reference_ids": [
+     "REF-3186"
+    ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Grows in shallow water and wet mud at the margins of ponds, lakes, slow-moving rivers and marshes. Native to Asia and North America and long naturalised across Europe, where it was historically cultivated and traded for its aromatic rhizome.",
-    "reference_ids": [],
+    "text": "Grows in ditches, at the margins of lakes, ponds and streams and in marshy places, often with reeds, bulrushes and bur-reed. Thought to be native to eastern Asia (the mountain marshes of India) and apparently also to the northern United States; now found wild in most European countries except Spain, including most English counties.",
+    "reference_ids": [
+     "REF-3186"
+    ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "The rhizome is dug from autumn to early spring, when its aromatic oil content is highest, then washed, peeled and dried; the strong sweet-spicy fragrance released on cutting helps confirm correct identification against non-aromatic look-alikes such as yellow flag iris.",
+    "text": "The rhizomes are dug in late autumn or early spring, once large enough (generally after two or three years) and before they lose their firmness and become hollow, then washed, cleared of rootlets and dried, losing 70-75% of their weight. Peeling is discouraged because the aromatic oil lies in the outer layer. The crimped leaf edges and the aromatic smell of the bruised leaves distinguish it from the non-aromatic yellow flag iris.",
     "parts": [
      "Rhizome"
     ],
-    "season": "Autumn to early spring",
-    "reference_ids": [],
+    "season": "Late autumn or early spring",
+    "reference_ids": [
+     "REF-3186"
+    ],
     "status": "verified"
    },
    "harvest_readiness": [
@@ -754,19 +829,49 @@
     }
    ],
    "traditional_uses": {
-    "text": "Sweet flag rhizome is a classic aromatic bitter and nervine of Ayurvedic and East Asian traditional medicine, used for indigestion, bloating, flatulence and poor appetite, and as a nervine tonic for memory, concentration and mild nervous complaints.",
-    "reference_ids": [],
+    "text": "Sweet flag rhizome was esteemed as an aromatic stimulant and mild tonic: used to increase the appetite and help digestion, as a carminative for flatulence, chewed or infused for dyspepsia, for ague and low fevers, and (by older writers) for nervous complaints, vertigo and headaches; in Oriental medicine for dyspepsia and bronchitis, and chewed as a cough lozenge. Ayurvedic practitioners used it for weak memory and against worms, after a traditional detoxifying process (shodhana) prescribed because of its toxic beta-asarone. Other reported traditional uses include stomach cramps, dysentery and asthma.",
+    "reference_ids": [
+     "REF-3186",
+     "REF-5045",
+     "REF-5047"
+    ],
     "status": "verified"
    },
-   "preparations": [],
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Historically an infusion of 1 oz (about 28 g) of the dried rhizome to 1 pint of boiling water was taken by the teacupful for dyspepsia. Shown for history only: see the serious safety warning about asarone.",
+     "reference_ids": [
+      "REF-3186"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Historically made by macerating the finely cut rhizome in alcohol for seven days and filtering, and used as a stomachic and flavouring. Shown for history only: see the serious safety warning about asarone.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3186"
+     ]
+    },
+    {
+     "name": "Powder",
+     "text": "The powdered rhizome was historically given in small doses (12 grains to half a drachm, about 0.8-1.9 g), and the dried root was chewed for dyspepsia and to clear the voice. Shown for history only: see the serious safety warning about asarone.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3186"
+     ]
+    }
+   ],
    "dosage": [
     {
      "name": "All preparations",
-     "text": "Because beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies and its content varies widely between varieties, no general dose is given here; internal use should be restricted to properly characterised, beta-asarone-free preparations under professional guidance. Educational reference only, not a prescription.",
+     "text": "Because alpha- and beta-asarone are genotoxic and carcinogenic in animal studies and their content varies widely between varieties, no general dose is given here. The EU herbal committee's provisional limit for asarone exposure from herbal medicines is about 115 micrograms a day (about 2 micrograms per kg body weight). Internal use should be restricted to properly characterised, beta-asarone-free preparations under professional guidance. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0515"
+      "REF-0515",
+      "REF-5047"
      ],
-     "status": "draft"
+     "status": "verified"
     }
    ],
    "actions": [
@@ -906,10 +1011,12 @@
    ],
    "contraindications": [
     {
-     "note": "SERIOUS: beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies. Regulators have restricted internal use of asarone-containing Acorus calamus (the Asian high-beta-asarone varieties), and it is banned as a food additive in the USA. Avoid internal use except properly characterised beta-asarone-free preparations.",
+     "note": "SERIOUS: alpha- and beta-asarone, the main aromatic compounds of the rhizome, are genotoxic and cause liver cancer in rodents. The EU herbal committee (EMA/HMPC) advises keeping asarone in herbal medicines to a minimum and always preferring the beta-asarone-free diploid variety, with a provisional exposure limit of about 115 micrograms a day (about 2 micrograms per kg body weight); herbal teas and food supplements made from calamus have been found to contain high asarone levels. It is banned as a food additive in the USA. Avoid internal use except properly characterised beta-asarone-free preparations.",
      "severity": "serious",
      "reference_ids": [
-      "REF-0515"
+      "REF-0515",
+      "REF-5047",
+      "REF-5046"
      ],
      "status": "verified"
     },
@@ -917,7 +1024,25 @@
      "note": "Do not use in pregnancy or breastfeeding, or for prolonged periods. The North American variety (Acorus americanus) is essentially beta-asarone-free, but most commercial calamus is not.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0515"
+      "REF-0515",
+      "REF-5047"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Calamus products sold online as \"legal highs\" have caused poisonings: the Swedish Poisons Information Centre was consulted about 30 intentional intoxications in 2003-2006, mainly with prolonged vomiting lasting up to 15 hours.",
+     "severity": "warning",
+     "reference_ids": [
+      "REF-5041",
+      "REF-5042"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "In laboratory skin-safety tests, sweet flag rhizome oil (about 41% beta-asarone) was a moderate skin sensitiser and irritant; its authors give safe concentrations of about 0.13-0.78% for leave-on products.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5044"
      ],
      "status": "verified"
     }
@@ -934,7 +1059,8 @@
     "REF-2277",
     "REF-2278",
     "REF-2279",
-    "REF-2280"
+    "REF-2280",
+    "REF-5048"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -965,6 +1091,7 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
    "last_updated": "2026-08-14",
+   "drug_class_interactions": [],
    "common_slug": "sweet-flag"
   },
   {
@@ -996,7 +1123,8 @@
      "reference_ids": [
       "REF-0670",
       "REF-0416",
-      "REF-2398"
+      "REF-2398",
+      "REF-5080"
      ]
     },
     {
@@ -1156,13 +1284,18 @@
     },
     {
      "condition": "hot-flashes",
-     "note": "Reduced hot flushes in meta-analyses and in a large trial of the isopropanolic extract; a Cochrane review and several large trials found no difference from placebo",
+     "note": "Reduced hot flushes vs placebo in meta-analyses (including the NICE guideline network meta-analysis) and in several randomized trials, and the 2026 International Menopause Society review rated this moderate-certainty evidence; a Cochrane review and several other trials, one in breast cancer survivors, found no difference from placebo",
      "reference_ids": [
       "REF-0670",
       "REF-2397",
       "REF-2399",
       "REF-3404",
-      "REF-3407"
+      "REF-3407",
+      "REF-5066",
+      "REF-5070",
+      "REF-5072",
+      "REF-5073",
+      "REF-5079"
      ],
      "status": "verified",
      "null_result_ids": [
@@ -1171,14 +1304,16 @@
       "REF-0673",
       "REF-3403",
       "REF-3405",
-      "REF-3406"
+      "REF-3406",
+      "REF-5065",
+      "REF-5067"
      ],
-     "evidence": 9,
+     "evidence": 10,
      "label": "Hot flashes"
     },
     {
      "condition": "menopause",
-     "note": "Improved overall menopausal symptom scores in meta-analyses and in a large trial of the isopropanolic extract; a Cochrane review and several trials found no benefit over placebo; no effect on menopausal anxiety",
+     "note": "Improved overall menopausal symptom scores vs placebo in meta-analyses and several randomized trials, including menopausal symptoms caused by breast cancer treatment; a Cochrane review and several trials found no benefit over placebo; no effect on menopausal anxiety",
      "reference_ids": [
       "REF-0670",
       "REF-0674",
@@ -1188,7 +1323,14 @@
       "REF-2401",
       "REF-2589",
       "REF-3404",
-      "REF-3407"
+      "REF-3407",
+      "REF-5068",
+      "REF-5069",
+      "REF-5070",
+      "REF-5071",
+      "REF-5072",
+      "REF-5073",
+      "REF-5079"
      ],
      "status": "verified",
      "null_result_ids": [
@@ -1197,9 +1339,11 @@
       "REF-0673",
       "REF-3403",
       "REF-3405",
-      "REF-3406"
+      "REF-3406",
+      "REF-5065",
+      "REF-5067"
      ],
-     "evidence": 9,
+     "evidence": 10,
      "label": "Menopause"
     },
     {
@@ -1215,10 +1359,16 @@
    ],
    "contraindications": [
     {
-     "note": "Rare reports of liver injury have prompted a precaution; large meta-analytic data found no evidence of hepatotoxicity, but stop use and seek advice if signs of liver problems occur (jaundice, dark urine, upper-abdominal pain).",
+     "note": "Rare cases of liver injury, including cholestatic and autoimmune-type hepatitis, have been reported; a US Pharmacopeia review of 30 reports judged all of them possibly related and recommended a cautionary label. Pooled data from five trials of the isopropanolic extract (1,117 women) and a 12-month study found no effect on liver tests. Stop use and seek advice if signs of liver problems occur (jaundice, dark urine, upper-abdominal pain).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0670"
+      "REF-0670",
+      "REF-5054",
+      "REF-5055",
+      "REF-5056",
+      "REF-5057",
+      "REF-5058",
+      "REF-5059"
      ],
      "status": "verified"
     },
@@ -1226,15 +1376,32 @@
      "note": "Current evidence does not show an increased risk of breast cancer or proliferation of oestrogen-sensitive tissue, but women with or at risk of hormone-sensitive cancer should use it only under medical guidance.",
      "severity": "info",
      "reference_ids": [
-      "REF-0416"
+      "REF-0416",
+      "REF-5075",
+      "REF-5076",
+      "REF-5077",
+      "REF-5078"
      ],
      "status": "verified"
     },
     {
-     "note": "Not recommended during pregnancy or breastfeeding.",
+     "note": "Not recommended during pregnancy or breastfeeding. Midwives have used it to stimulate the womb and induce labour; a systematic review advises caution in pregnancy, especially the first trimester, and while breastfeeding, and severe low blood sodium was reported in a woman who took it to induce labour.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0670"
+      "REF-0670",
+      "REF-5064",
+      "REF-5063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Side effects in clinical trials are usually mild, but isolated case reports describe a very slow heart rate in an older woman taking it for years, mania in a woman with depression, and serotonin toxicity with muscle breakdown in a woman also taking two antidepressants; use cautiously with a history of depression or bipolar disorder.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5060",
+      "REF-5061",
+      "REF-5062",
+      "REF-5052"
      ],
      "status": "verified"
     }
@@ -1245,7 +1412,10 @@
     "REF-2399",
     "REF-2400",
     "REF-2401",
-    "REF-2589"
+    "REF-2589",
+    "REF-5074",
+    "REF-5081",
+    "REF-5082"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -1276,6 +1446,7 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "drug_class_interactions": [],
    "common_slug": "black-cohosh"
   },
   {
@@ -1686,7 +1857,9 @@
       "REF-0470",
       "REF-0590",
       "REF-0677",
-      "REF-2402"
+      "REF-2402",
+      "REF-5020",
+      "REF-5022"
      ]
     },
     {
@@ -1783,11 +1956,13 @@
    "dosage": [
     {
      "name": "Standardised oral extract",
-     "text": "Clinical studies commonly use extracts standardised to around 100-150 mg escin daily, in divided doses. Educational reference only, not a prescription.",
+     "text": "The EU herbal monograph (well-established use) gives a standardised dry extract corresponding to 21 mg triterpene glycosides, calculated as protoaescigenin (previously declared as 50 mg aescin), twice daily for adults and the elderly; at least 4 weeks may be needed before any benefit, and use under 18 is not recommended. The main placebo-controlled trial gave extract providing 50 mg aescin twice daily for 12 weeks. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0590"
+      "REF-3086",
+      "REF-5001",
+      "REF-5021"
      ],
-     "status": "draft"
+     "status": "verified"
     },
     {
      "name": "Topical gel",
@@ -1814,7 +1989,8 @@
      "action": "anti-oedematous",
      "note": "Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue and exerts venotonic effects on veins",
      "reference_ids": [
-      "REF-0590"
+      "REF-0590",
+      "REF-5004"
      ],
      "status": "verified"
     },
@@ -1863,13 +2039,16 @@
     },
     {
      "condition": "hemorrhoids",
-     "note": "inferred from venotonic action",
-     "reference_ids": [],
-     "status": "needs-review",
+     "note": "Adding escin (the main saponin of horse chestnut seed, registered as \"aescin in horse chestnut\"; compound evidence) to a flavonoid haemorrhoid drug (MPFF) stopped bleeding haemorrhoids sooner than MPFF alone in two randomized trials, and in the double-blind one it also cut recurrence over 3 months",
+     "reference_ids": [
+      "REF-5010",
+      "REF-5011"
+     ],
+     "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0590"
      ],
-     "evidence": 1,
+     "evidence": 6,
      "label": "Haemorrhoids"
     },
     {
@@ -1886,10 +2065,11 @@
     },
     {
      "condition": "pain",
-     "note": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins",
+     "note": "In chronic venous insufficiency, horse chestnut seed extract reduced leg pain vs placebo in six of seven placebo-controlled trials (Cochrane review); the EU monograph lists leg pain among the venous symptoms it treats",
      "reference_ids": [
       "REF-0470",
-      "REF-0679"
+      "REF-0679",
+      "REF-3086"
      ],
      "status": "verified",
      "evidence": 7,
@@ -1910,44 +2090,86 @@
     },
     {
      "condition": "swelling",
-     "note": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins",
+     "note": "Horse chestnut seed extract reduced lower-leg volume (oedema) vs placebo in chronic venous insufficiency in randomized trials and meta-analyses, and matched compression stockings in one trial; the EU monograph lists swollen legs among the venous symptoms it treats. A trial in advanced venous insufficiency and an open comparison with pine bark extract found no significant effect",
      "reference_ids": [
       "REF-0470",
-      "REF-0679"
+      "REF-0679",
+      "REF-5001",
+      "REF-5002",
+      "REF-5003",
+      "REF-5005",
+      "REF-3086"
      ],
      "status": "verified",
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-5006",
+      "REF-5007"
+     ],
+     "evidence": 10,
      "label": "Swelling / fluid retention"
     },
     {
      "condition": "varicose-veins",
-     "note": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins",
+     "note": "Chronic venous insufficiency (varicose veins, swollen, heavy and aching legs): horse chestnut seed extract improved leg swelling, pain and itching vs placebo in meta-analyses of randomized trials and is an EU well-established-use medicine for it; one trial in advanced venous insufficiency and one open comparison found no significant benefit",
      "reference_ids": [
       "REF-0470",
       "REF-0679",
-      "REF-2406"
+      "REF-2406",
+      "REF-5001",
+      "REF-5002",
+      "REF-5003",
+      "REF-5005",
+      "REF-3086"
      ],
      "status": "verified",
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-5006",
+      "REF-5007"
+     ],
+     "evidence": 10,
      "label": "Varicose veins"
+    },
+    {
+     "condition": "bruising",
+     "note": "A 2% escin gel (escin is the main saponin of horse chestnut seed; compound evidence) reduced the tenderness of experimentally induced bruises vs placebo in a double-blind randomized trial; the EU monograph lists traditional use on the skin for bruises (local swelling and haematoma)",
+     "reference_ids": [
+      "REF-5009",
+      "REF-3086"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Bruising"
     }
    ],
    "contraindications": [
     {
-     "note": "Use only standardised, processed seed extract. Raw conkers, leaves and bark contain toxic esculin and can cause poisoning - never eat raw horse chestnut.",
-     "severity": "info",
+     "note": "Use only standardised, processed seed extract. Raw conkers are poisonous: people who ate them after mistaking them for edible sweet chestnuts developed stomach pain, nausea and vomiting, and in one case a temporary irregular heartbeat; snorting the powdered seeds has caused vomiting, breathing difficulty and fainting. Never eat raw horse chestnut.",
+     "severity": "warning",
      "reference_ids": [
-      "REF-0470"
+      "REF-5014",
+      "REF-5016",
+      "REF-5015"
      ],
      "status": "verified"
     },
     {
-     "note": "May increase bleeding risk, so use caution with anticoagulant/antiplatelet medicines; use caution in kidney disease and avoid in pregnancy and breastfeeding.",
+     "note": "The EU monograph advises seeing a doctor before use if you have heart or kidney failure, inflamed skin, thrombophlebitis, leg ulcers, severe pain or sudden swelling of one or both legs, and does not recommend use in pregnancy, while breastfeeding or under 18 years. One case of life-threatening kidney bleeding in a woman taking horse chestnut seed extract has been reported, and its authors advise caution with blood-thinning medicines.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0470"
+      "REF-3086",
+      "REF-5017"
      ],
-     "status": "needs-review"
+     "status": "verified"
+    },
+    {
+     "note": "Reported side effects include stomach and gut complaints, headache, dizziness, itching and allergic reactions, and itching or redness of the skin with gels and creams (EU monograph). Liver injury is rare but has been reported: once with an oral horse chestnut supplement in a 70-year-old man (2021) and once after an injected horse chestnut extract (1986). Stop and seek advice if jaundice, dark urine or itching all over develops.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-3086",
+      "REF-5012",
+      "REF-5013"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -1955,7 +2177,9 @@
     "REF-2403",
     "REF-2404",
     "REF-2405",
-    "REF-2406"
+    "REF-2406",
+    "REF-5008",
+    "REF-5023"
    ],
    "drug_class_interactions": [
     {

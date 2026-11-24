@@ -20,6 +20,8 @@ constituents:
   reference_ids:
   - REF-0515
   - REF-2278
+  - REF-5047
+  - REF-5046
 - name: Essential oil and lignans
   compounds:
   - essential-oil
@@ -28,38 +30,44 @@ constituents:
   reference_ids:
   - REF-2275
 botanical_description:
-  text: Aromatic, semi-aquatic perennial herb spreading by a thick, branching, aromatic rhizome that creeps
-    horizontally in mud at the water's edge. The leaves are erect, sword-shaped (ensiform), bright green
-    and arranged in a fan like an iris, with a distinctive off-centre midrib and one crinkled, wavy margin.
-    A small, finger-like, greenish-yellow flower spike (spadix) emerges obliquely part-way up a leaf-like
-    flowering stem in summer, but in cool temperate climates the plant rarely sets viable seed and spreads
-    mainly by rhizome division.
-  height: 50-150 cm (leaves)
+  text: Aromatic, reed-like aquatic perennial with a long, branched, cylindrical rhizome about the thickness
+    of a finger, creeping in the mud and sending out numerous roots. The few erect leaves are yellowish-green,
+    2-3 feet long, sword-shaped, narrow and flat, sheathing and pink at the base, with entire but wavy
+    or crimped edges and an aromatic smell when bruised. From the side of a leaf-like stem a solid, cylindrical,
+    blunt flower spike (spadix) 2-4 inches long projects at an angle, densely crowded with very small
+    greenish-yellow flowers, in June and July. All parts of the plant have a peculiar, agreeable fragrance.
+  height: Leaves 2-3 feet (about 60-90 cm)
   habit: Erect, rhizomatous, semi-aquatic perennial herb
-  leaves: Erect, sword-shaped, iris-like, with an off-centre midrib and one wavy margin; strongly aromatic
-    when crushed
-  flowers: Small greenish-yellow flowers crowded on a finger-like spadix borne obliquely on a leaf-like
-    stalk
+  leaves: Few, erect, yellowish-green, sword-shaped, sheathing and pink at the base, with wavy or crimped
+    edges; aromatic when bruised
+  flowers: Very small greenish-yellow flowers crowded on a blunt, cylindrical spadix 2-4 inches long,
+    projecting at an angle from the side of a leaf-like stem
   stem: Leaf-like flowering stalk arising from the rhizome; the true stem is the underground rhizome
-  root: Thick, branching, aromatic creeping rhizome
-  fruit: Rarely sets viable seed in temperate climates; propagates mainly by rhizome division
-  flowering_period: Late spring to summer
-  reference_ids: []
+  root: Long, branched, cylindrical rhizome about the thickness of a finger, creeping in mud, with numerous
+    roots
+  flowering_period: June and July
+  reference_ids:
+  - REF-3186
   status: verified
 habitat:
-  text: Grows in shallow water and wet mud at the margins of ponds, lakes, slow-moving rivers and marshes.
-    Native to Asia and North America and long naturalised across Europe, where it was historically cultivated
-    and traded for its aromatic rhizome.
-  reference_ids: []
+  text: Grows in ditches, at the margins of lakes, ponds and streams and in marshy places, often with
+    reeds, bulrushes and bur-reed. Thought to be native to eastern Asia (the mountain marshes of India)
+    and apparently also to the northern United States; now found wild in most European countries except
+    Spain, including most English counties.
+  reference_ids:
+  - REF-3186
   status: verified
 harvesting:
-  text: The rhizome is dug from autumn to early spring, when its aromatic oil content is highest, then
-    washed, peeled and dried; the strong sweet-spicy fragrance released on cutting helps confirm correct
-    identification against non-aromatic look-alikes such as yellow flag iris.
+  text: The rhizomes are dug in late autumn or early spring, once large enough (generally after two or
+    three years) and before they lose their firmness and become hollow, then washed, cleared of rootlets
+    and dried, losing 70-75% of their weight. Peeling is discouraged because the aromatic oil lies in
+    the outer layer. The crimped leaf edges and the aromatic smell of the bruised leaves distinguish it
+    from the non-aromatic yellow flag iris.
   parts:
   - Rhizome
-  season: Autumn to early spring
-  reference_ids: []
+  season: Late autumn or early spring
+  reference_ids:
+  - REF-3186
   status: verified
 harvest_readiness:
 - part: rhizome
@@ -75,32 +83,51 @@ harvest_readiness:
   species_confirmed: true
   status: verified
 traditional_uses:
-  text: Sweet flag rhizome is a classic aromatic bitter and nervine of Ayurvedic and East Asian traditional
-    medicine, used for indigestion, bloating, flatulence and poor appetite, and as a nervine tonic for
-    memory, concentration and mild nervous complaints.
-  reference_ids: []
+  text: 'Sweet flag rhizome was esteemed as an aromatic stimulant and mild tonic: used to increase the
+    appetite and help digestion, as a carminative for flatulence, chewed or infused for dyspepsia, for
+    ague and low fevers, and (by older writers) for nervous complaints, vertigo and headaches; in Oriental
+    medicine for dyspepsia and bronchitis, and chewed as a cough lozenge. Ayurvedic practitioners used
+    it for weak memory and against worms, after a traditional detoxifying process (shodhana) prescribed
+    because of its toxic beta-asarone. Other reported traditional uses include stomach cramps, dysentery
+    and asthma.'
+  reference_ids:
+  - REF-3186
+  - REF-5045
+  - REF-5047
   status: verified
 preparations:
-- name: Decoction
-  text: Dried, peeled rhizome simmered in water as a bitter digestive and nervine decoction.
-  reference_ids: []
+- name: Infusion
+  text: 'Historically an infusion of 1 oz (about 28 g) of the dried rhizome to 1 pint of boiling water
+    was taken by the teacupful for dyspepsia. Shown for history only: see the serious safety warning about
+    asarone.'
+  reference_ids:
+  - REF-3186
   status: verified
 - name: Tincture
-  text: Alcoholic extract of the dried rhizome.
-  status: draft
+  text: 'Historically made by macerating the finely cut rhizome in alcohol for seven days and filtering,
+    and used as a stomachic and flavouring. Shown for history only: see the serious safety warning about
+    asarone.'
+  status: verified
+  reference_ids:
+  - REF-3186
 - name: Powder
-  text: Dried rhizome powdered and traditionally taken in small amounts, often with honey, as a digestive
-    and nervine remedy.
-  status: draft
+  text: 'The powdered rhizome was historically given in small doses (12 grains to half a drachm, about
+    0.8-1.9 g), and the dried root was chewed for dyspepsia and to clear the voice. Shown for history
+    only: see the serious safety warning about asarone.'
+  status: verified
+  reference_ids:
+  - REF-3186
 dosage:
 - name: All preparations
-  text: Because beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies and its content
-    varies widely between varieties, no general dose is given here; internal use should be restricted
-    to properly characterised, beta-asarone-free preparations under professional guidance. Educational
-    reference only, not a prescription.
+  text: Because alpha- and beta-asarone are genotoxic and carcinogenic in animal studies and their content
+    varies widely between varieties, no general dose is given here. The EU herbal committee's provisional
+    limit for asarone exposure from herbal medicines is about 115 micrograms a day (about 2 micrograms
+    per kg body weight). Internal use should be restricted to properly characterised, beta-asarone-free
+    preparations under professional guidance. Educational reference only, not a prescription.
   reference_ids:
   - REF-0515
-  status: draft
+  - REF-5047
+  status: verified
 actions:
 - action: anticancer
   reference_ids:
@@ -191,19 +218,40 @@ indications:
   mechanistic_exclude_ids:
   - REF-0624
 contraindications:
-- note: 'SERIOUS: beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies. Regulators
-    have restricted internal use of asarone-containing Acorus calamus (the Asian high-beta-asarone varieties),
-    and it is banned as a food additive in the USA. Avoid internal use except properly characterised beta-asarone-free
+- note: 'SERIOUS: alpha- and beta-asarone, the main aromatic compounds of the rhizome, are genotoxic and
+    cause liver cancer in rodents. The EU herbal committee (EMA/HMPC) advises keeping asarone in herbal
+    medicines to a minimum and always preferring the beta-asarone-free diploid variety, with a provisional
+    exposure limit of about 115 micrograms a day (about 2 micrograms per kg body weight); herbal teas
+    and food supplements made from calamus have been found to contain high asarone levels. It is banned
+    as a food additive in the USA. Avoid internal use except properly characterised beta-asarone-free
     preparations.'
   severity: serious
   reference_ids:
   - REF-0515
+  - REF-5047
+  - REF-5046
   status: verified
 - note: Do not use in pregnancy or breastfeeding, or for prolonged periods. The North American variety
     (Acorus americanus) is essentially beta-asarone-free, but most commercial calamus is not.
   severity: caution
   reference_ids:
   - REF-0515
+  - REF-5047
+  status: verified
+- note: 'Calamus products sold online as "legal highs" have caused poisonings: the Swedish Poisons Information
+    Centre was consulted about 30 intentional intoxications in 2003-2006, mainly with prolonged vomiting
+    lasting up to 15 hours.'
+  severity: warning
+  reference_ids:
+  - REF-5041
+  - REF-5042
+  status: verified
+- note: In laboratory skin-safety tests, sweet flag rhizome oil (about 41% beta-asarone) was a moderate
+    skin sensitiser and irritant; its authors give safe concentrations of about 0.13-0.78% for leave-on
+    products.
+  severity: caution
+  reference_ids:
+  - REF-5044
   status: verified
 references:
 - REF-0716
@@ -218,6 +266,7 @@ references:
 - REF-2278
 - REF-2279
 - REF-2280
+- REF-5048
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -283,4 +332,35 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Appl
   the record''s own serious warning is that beta-asarone is carcinogenic, and the anticancer
   evidence was largely beta-asarone itself (DATA_PRINCIPLES inv. 10, organ/system of its own
   serious warning). Depression note rewritten. 2026 "systematic review" on cognition (PMID
-  42929295) summarises preclinical work only - not added.'
+  42929295) summarises preclinical work only - not added.
+  | 2026-11-24: symptom-source audit research-deepening batch 1 - Searched PubMed (name clause
+  "Acorus calamus" OR "sweet flag" OR "calamus rhizome" OR "calamus oil" OR "Acorus americanus"
+  tiab, Vacha ti; human-trial, SR, safety, observational, review families), Europe PMC,
+  ClinicalTrials.gov (10 records, all multi-herb Chinese formulas) and OpenAlex. No usable human
+  efficacy trial: oral Vacha powder trials (memory in children, AYUSHDHARA 2023; hyperlipidaemia,
+  single-group open, JAIMS 2023) conflict with the record''s own serious internal-use warning
+  (inv. 12d) and are uncontrolled or without between-group statistics; homeopathic verification
+  study (inv. 10); polyherbal Ayurvedic formulas (Brahmighruta, Kushmand Avaleha, Ashtamangal
+  ghrita, Abhaya ghrita, Murvadhya churna); white-spot-lesion bioadhesive (no effect attributable
+  to calamus); T2DM paper (mice). OWNER DECISION: Vacha Taila Nasya pilot RCT for
+  post-dural-puncture headache (REF-5048, open-label, blinded assessor, VAS fell more vs routine
+  care) would meet inv. 12a for a headache pair, but it is intranasal medicated oil for 3 days
+  against a serious internal-use warning - bucketed, not paired, pending owner call. Safety
+  re-sourced: EMA/HMPC public statement on asarone (REF-5047, read from the PDF 2026-11-24:
+  genotoxic hepatocarcinogen in rodents, temporary limit ~115 micrograms a day, prefer diploid,
+  beta-asarone by variety) and Hermes 2021 asarone content of teas/supplements to the serious
+  warning, variety caution, dose and constituents; Swedish Poisons Centre intoxications + internet
+  "herbal highs" survey (new warning); OECD in-vitro skin sensitiser/irritant (new caution); draft
+  CYP3A4 interaction (in vitro). REF-0515 retagged narrative-review (a toxicology review, was
+  traditional). Monograph blocks (description, habitat, harvesting, traditional uses) and
+  preparations had no sources - rewritten from Grieve Sweet Sedge (REF-3186, read 2026-11-24 by
+  the web-fetch agent), the EMA statement and the shodhana paper; harvesting no longer says
+  "peeled" (Grieve advises against peeling) and the unsourced decoction is now Grieve''s infusion.'
+drug_class_interactions:
+- drug_class: cyp3a4-substrates
+  severity: insufficient
+  mechanism: In laboratory tests a standardised sweet flag extract and its alpha-asarone moderately inhibited
+    the drug-clearing enzymes CYP3A4 and CYP2D6; this has not been studied in people.
+  reference_ids:
+  - REF-5043
+  status: draft

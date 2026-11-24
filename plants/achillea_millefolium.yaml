@@ -149,7 +149,6 @@ preparations:
     traditional styptic (bleeding-stopping) and vulnerary use.
   reference_ids:
   - REF-0369
-  - REF-2085
   status: verified
 - name: Essential oil
   text: Steam-distilled from the flowering tops; the chamazulene-rich blue oil is used in low dilution
@@ -172,6 +171,16 @@ dosage:
   reference_ids:
   - REF-3064
   status: verified
+- name: Capsules (doses used in clinical trials)
+  text: 'Clinical trials used yarrow capsules of different strengths: 500 mg a day for 3 months (type
+    2 diabetes), two 500 mg capsules three times a day from day 21 of the cycle to day 3 of the next (premenstrual
+    syndrome), and 150 mg every 8 hours during menstruation alongside mefenamic acid (heavy periods).
+    The products were not standardised. Educational reference only, not a prescription.'
+  reference_ids:
+  - REF-5024
+  - REF-5032
+  - REF-5034
+  status: verified
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -186,6 +195,7 @@ actions:
   - REF-2081
   - REF-2082
   - REF-2083
+  - REF-5031
   status: verified
 - action: anticancer
   note: Preclinical antiproliferative activity of yarrow flavonoids and sesquiterpenoids (e.g. centaureidin,
@@ -199,6 +209,7 @@ actions:
   - REF-0011
   - REF-0098
   - REF-0296
+  - REF-5031
   status: verified
 - action: antioxidant
   reference_ids:
@@ -208,6 +219,7 @@ actions:
   - REF-2076
   - REF-2084
   - REF-2086
+  - REF-5031
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
@@ -216,6 +228,7 @@ actions:
   - REF-0098
   - REF-0296
   - REF-2078
+  - REF-5031
   status: verified
 - action: astringent
   reference_ids:
@@ -254,7 +267,6 @@ actions:
   - REF-0369
   - REF-0373
   - REF-0381
-  - REF-2085
   status: verified
 - action: vulnerary
   note: Vulnerary (wound healing)
@@ -319,14 +331,16 @@ indications:
   mechanistic_exclude_ids:
   - REF-0369
 - condition: heavy-bleeding
-  note: Traditional styptic for heavy menstrual bleeding and nosebleeds (Herbal Reality; Grieve, A Modern
-    Herbal)
+  note: Yarrow capsules added to mefenamic acid reduced the amount and duration of heavy menstrual bleeding
+    more than placebo in two triple-blind randomized trials; also a traditional styptic for heavy periods
+    and nosebleeds (Herbal Reality; Grieve, A Modern Herbal)
   reference_ids:
   - REF-0373
   - REF-0098
-  status: needs-review
+  - REF-5034
+  - REF-5035
+  status: verified
   mechanistic_exclude_ids:
-  - REF-2085
   - REF-0369
   - REF-0381
 - condition: indigestion
@@ -338,13 +352,17 @@ indications:
   mechanistic_exclude_ids:
   - REF-0369
 - condition: infection
-  note: Traditionally used for respiratory infections (review of traditional uses)
+  note: Traditionally used for respiratory infections (review of traditional uses); a yarrow gel added
+    to standard injections did not improve cure of cutaneous leishmaniasis vs placebo in a randomized
+    trial
   reference_ids:
   - REF-0011
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0296
   - REF-0098
+  null_result_ids:
+  - REF-5026
 - condition: inflammation
   note: Yarrow oil extracts calmed experimentally irritated skin in volunteers (randomized trial); extracts
     and sesquiterpene lactones reduced inflammatory markers in lab studies (preclinical)
@@ -367,7 +385,8 @@ indications:
   note: Yarrow tea reduced period pain vs placebo in a randomized trial in primary dysmenorrhoea
 - condition: skin-irritation
   note: Traditionally used for skin conditions (review); yarrow oil extracts restored experimentally irritated
-    skin in a randomized trial in volunteers
+    skin in a randomized trial in volunteers; a yarrow cream did not significantly prevent radiation dermatitis
+    vs placebo
   reference_ids:
   - REF-0011
   - REF-3411
@@ -375,22 +394,48 @@ indications:
   mechanistic_exclude_ids:
   - REF-0296
   - REF-0098
+  null_result_ids:
+  - REF-5037
 - condition: wounds
-  note: Traditional styptic for minor cuts; a yarrow ointment reduced pain, redness and swelling of episiotomy
-    wounds in a randomized trial
+  note: Traditional styptic for minor cuts; in randomized trials a yarrow ointment reduced pain, redness
+    and swelling of episiotomy wounds and yarrow tea-bag compresses healed cracked nipples faster than
+    breast milk; a small controlled study of a yarrow ointment for venous leg ulcers left its benefit
+    uncertain
   reference_ids:
   - REF-0369
   - REF-0373
   - REF-0381
   - REF-3409
+  - REF-5033
   status: verified
   mechanistic_exclude_ids:
   - REF-0296
+  null_result_ids:
+  - REF-5039
 - condition: oral-health
-  note: A yarrow distillate mouthwash healed chemotherapy mouth sores faster than the routine mouthwash
-    in a randomized trial
+  note: Yarrow mouthwashes eased chemotherapy mouth sores in two randomized trials (added to routine or
+    chlorhexidine mouthwash); in one they did not prevent the sores from starting
   reference_ids:
   - REF-3410
+  - REF-5036
+  status: verified
+- condition: liver-support
+  note: Yarrow capsules (500 mg a day for 3 months) lowered the liver enzymes ALT and AST vs placebo in
+    a double-blind randomized trial in people with type 2 diabetes
+  reference_ids:
+  - REF-5024
+  status: verified
+- condition: high-cholesterol
+  note: Yarrow capsules (500 mg a day for 3 months) lowered LDL and total cholesterol and triglycerides
+    vs placebo in a double-blind randomized trial in people with type 2 diabetes
+  reference_ids:
+  - REF-5024
+  status: verified
+- condition: pms
+  note: Yarrow capsules taken from day 21 of the cycle to day 3 of the next reduced premenstrual symptoms
+    and abdominal pain vs placebo in a double-blind randomized trial (Unani medicine, India)
+  reference_ids:
+  - REF-5032
   status: verified
 contraindications:
 - note: Generally very safe. Rarely causes contact dermatitis in sensitive individuals (sesquiterpene
@@ -423,12 +468,15 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0369
+  - REF-5029
+  - REF-5026
   status: verified
 - note: Medicinal use is traditionally avoided in pregnancy (can stimulate the uterus and influence menstruation);
     caution while breastfeeding.
   severity: caution
   reference_ids:
   - REF-0373
+  - REF-5030
   status: verified
 - note: May interact with anticoagulant, sedative and blood-pressure medications and with drugs metabolised
     by the liver; seek professional advice if on regular medication.
@@ -458,6 +506,12 @@ contraindications:
   - REF-0382
   - REF-0383
   status: verified
+- note: One case of anticholinergic-type poisoning (blurred vision, dry mouth, facial flushing and palpitations)
+    was reported in a woman who drank five cups of yarrow tea a day for a week.
+  severity: caution
+  reference_ids:
+  - REF-5040
+  status: verified
 references:
 - REF-2076
 - REF-2077
@@ -468,8 +522,11 @@ references:
 - REF-2082
 - REF-2083
 - REF-2084
-- REF-2085
 - REF-2086
+- REF-5025
+- REF-5027
+- REF-5028
+- REF-5038
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -548,4 +605,33 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   for muscle cramps, inv. 11). REF-0296 identified (J Essent Oil Bear Plants 2017, doi added;
   retagged preclinical). Sacred Plant Co page REF-0381 checked 2026-11-12: has a 10-item reference
   list - kept for wounds. Notes rewritten from "inferred" to their real sources. Not added:
-  candidiasis RCT 32951733 (yarrow cream inferior to clotrimazole).'
+  candidiasis RCT 32951733 (yarrow cream inferior to clotrimazole).
+  | 2026-11-24: symptom-source audit research-deepening batch 1 - Searched PubMed (human-trial,
+  SR, safety, observational, review families; name clause "Achillea millefolium" OR yarrow tiab),
+  Europe PMC (non-MEDLINE + full text), ClinicalTrials.gov and OpenAlex (no-PMID trial-worded
+  works). RETRACTION: REF-2085 (Hepatol Forum, haemostatic effect in localized bleeding) was
+  retracted (notice PMID 43032310) - purged from styptic, poultice and heavy-bleeding exclusions,
+  entry deleted. NEW pairs (RCTs, inv. 12a): liver-support and high-cholesterol (REF-5024, T2DM
+  double-blind RCT, ALT/AST and LDL/TC/TG down vs placebo), pms (REF-5032, double-blind RCT 2026,
+  non-PubMed; abstract from OpenAlex). Wired: two triple-blind menorrhagia add-on RCTs (Iranian J
+  Obstet Gynecol Infertil 2019, 2020; journal pages read 2026-11-24) to heavy-bleeding (now
+  verified); nipple-fissure RCT (Iranian J Neonatol 2020) to wounds; AML mucositis RCT
+  (Jundishapur J Nat Pharm Prod 2019) to oral-health. No-effect: leishmaniasis gel RCT (infection;
+  also more application-site redness, wired to the allergy caution), radiation dermatitis RCT
+  (skin-irritation; yarrow arm vs placebo NS), venous-ulcer ointment study (wounds; no statistics,
+  authors call efficacy still to be investigated). Bucket (no vocab condition / not a symptom
+  pair): liver-compress fatigue RCT (primary endpoint p=0.13), MS add-on RCT (relapse rate;
+  cognitive tests secondary), wrinkle/pore cosmetic RCT, gastroenteritis distillate RCT (recovery
+  time; gastroenteritis is not the diarrhea condition). Safety: CIR cosmetic safety assessment,
+  rat pregnancy study (reduced fetal weight at 56x human dose), anticholinergic case report (J
+  Acad Emerg Med Case Rep 2013). Rejected: 25699281 (same Kashan 56-patient trial as held
+  REF-3410, duplicate publication), episiotomy SR 42817109 and dysmenorrhoea MA 41983255
+  (abstracts give no yarrow-specific result), haemorrhoid RCT (10.1016/j.hermed.2023.100657) and
+  epistaxis RCT (10.1016/j.hermed.2021.100468) - promising but no abstract retrievable (Elsevier
+  403; Crossref, OpenAlex, Semantic Scholar have none), needs manual retrieval; knee OA topical
+  oil RCT (10.1080/22311866.2025.2493088: abstract reports only the time effect, not yarrow vs
+  placebo); harm SR in AJHNM 2020 (no abstract, only the journal blurb); vaginitis vagitories,
+  Boswellia/ginger/yarrow IBS mixture, ginger+yarrow mouthwash, BNO 1030, Liv-52, atopic
+  dermatitis combination (multi-herb); CKD nitrite RCT (non-significant, no symptom); HRV
+  secondary of the liver-compress trial; CT.gov NCT06070571 (yarrow + moringa mixture, no
+  results). Generic Grieve REF-0098 left for the locatorless-ref audit (parallel session, 2026-11-24).'

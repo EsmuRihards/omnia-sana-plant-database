@@ -1,0 +1,98 @@
+plant	condition	ref	op
+aesculus_hippocastanum	swelling	REF-5001	add
+aesculus_hippocastanum	swelling	REF-5002	add
+aesculus_hippocastanum	swelling	REF-5003	add
+aesculus_hippocastanum	swelling	REF-5005	add
+aesculus_hippocastanum	swelling	REF-3086	add
+aesculus_hippocastanum	swelling	REF-5006	nulladd
+aesculus_hippocastanum	swelling	REF-5007	nulladd
+aesculus_hippocastanum	swelling	-	note
+aesculus_hippocastanum	varicose-veins	REF-5001	add
+aesculus_hippocastanum	varicose-veins	REF-5002	add
+aesculus_hippocastanum	varicose-veins	REF-5003	add
+aesculus_hippocastanum	varicose-veins	REF-5005	add
+aesculus_hippocastanum	varicose-veins	REF-3086	add
+aesculus_hippocastanum	varicose-veins	REF-5006	nulladd
+aesculus_hippocastanum	varicose-veins	REF-5007	nulladd
+aesculus_hippocastanum	varicose-veins	-	note
+aesculus_hippocastanum	pain	REF-3086	add
+aesculus_hippocastanum	pain	-	note
+aesculus_hippocastanum	bruising	REF-5009,REF-3086	newpair
+aesculus_hippocastanum	hemorrhoids	REF-5010	add
+aesculus_hippocastanum	hemorrhoids	REF-5011	add
+aesculus_hippocastanum	hemorrhoids	-	note
+aesculus_hippocastanum	hemorrhoids	-	status=verified
+aesculus_hippocastanum	action:anti-oedematous	REF-5004	aadd
+aesculus_hippocastanum	references	REF-5008,REF-5023	refadd
+achillea_millefolium	*	REF-2085	purge
+achillea_millefolium	liver-support	REF-5024	newpair
+achillea_millefolium	high-cholesterol	REF-5024	newpair
+achillea_millefolium	pms	REF-5032	newpair
+achillea_millefolium	heavy-bleeding	REF-5034	add
+achillea_millefolium	heavy-bleeding	REF-5035	add
+achillea_millefolium	heavy-bleeding	-	note
+achillea_millefolium	heavy-bleeding	-	status=verified
+achillea_millefolium	wounds	REF-5033	add
+achillea_millefolium	wounds	REF-5039	nulladd
+achillea_millefolium	wounds	-	note
+achillea_millefolium	oral-health	REF-5036	add
+achillea_millefolium	oral-health	-	note
+achillea_millefolium	infection	REF-5026	nulladd
+achillea_millefolium	infection	-	note
+achillea_millefolium	skin-irritation	REF-5037	nulladd
+achillea_millefolium	skin-irritation	-	note
+achillea_millefolium	action:anti-inflammatory	REF-5031	aadd
+achillea_millefolium	action:antioxidant	REF-5031	aadd
+achillea_millefolium	action:antispasmodic	REF-5031	aadd
+achillea_millefolium	action:antimicrobial	REF-5031	aadd
+achillea_millefolium	references	REF-5025,REF-5027,REF-5028,REF-5038	refadd
+acorus_calamus	references	REF-5048	refadd
+actaea_racemosa	hot-flashes	REF-5066	add
+actaea_racemosa	hot-flashes	REF-5070	add
+actaea_racemosa	hot-flashes	REF-5072	add
+actaea_racemosa	hot-flashes	REF-5073	add
+actaea_racemosa	hot-flashes	REF-5079	add
+actaea_racemosa	hot-flashes	REF-5065	nulladd
+actaea_racemosa	hot-flashes	REF-5067	nulladd
+actaea_racemosa	hot-flashes	-	note
+actaea_racemosa	menopause	REF-5068	add
+actaea_racemosa	menopause	REF-5069	add
+actaea_racemosa	menopause	REF-5070	add
+actaea_racemosa	menopause	REF-5071	add
+actaea_racemosa	menopause	REF-5072	add
+actaea_racemosa	menopause	REF-5073	add
+actaea_racemosa	menopause	REF-5079	add
+actaea_racemosa	menopause	REF-5065	nulladd
+actaea_racemosa	menopause	REF-5067	nulladd
+actaea_racemosa	menopause	-	note
+actaea_racemosa	references	REF-5074,REF-5081,REF-5082	refadd
+aesculus_hippocastanum	cadd	Triterpene saponins	REF-5020,REF-5022
+aesculus_hippocastanum	ciadd	Raw conkers	REF-5014,REF-5016,REF-5015
+aesculus_hippocastanum	ciadd	bleeding risk	REF-3086,REF-5017
+aesculus_hippocastanum	cinew	Reported side effects include stomach an	REF-3086,REF-5012,REF-5013
+aesculus_hippocastanum	dadd	Standardised oral extract	REF-3086,REF-5001,REF-5021
+aesculus_hippocastanum	dcinew	cyp3a4-substrates	REF-5018,REF-5019,REF-3086
+achillea_millefolium	ciadd	Medicinal use is traditionally avoided in pregnancy	REF-5030
+achillea_millefolium	ciadd	As a member of the daisy family	REF-5029,REF-5026
+achillea_millefolium	cinew	One case of anticholinergic-type poisoni	REF-5040
+achillea_millefolium	dnew	Capsules (doses used in clinical trials)	REF-5024,REF-5032,REF-5034
+acorus_calamus	ciadd	SERIOUS: beta-asarone	REF-5047,REF-5046
+acorus_calamus	ciadd	Do not use in pregnancy	REF-5047
+acorus_calamus	cinew	Calamus products sold online as "legal h	REF-5041,REF-5042
+acorus_calamus	cinew	In laboratory skin-safety tests, sweet f	REF-5044
+acorus_calamus	cadd	Phenylpropanoid asarones	REF-5047,REF-5046
+acorus_calamus	dadd	All preparations	REF-5047
+acorus_calamus	dcinew	cyp3a4-substrates	REF-5043
+acorus_calamus	madd	botanical_description	REF-3186
+acorus_calamus	madd	habitat	REF-3186
+acorus_calamus	madd	harvesting	REF-3186
+acorus_calamus	madd	traditional_uses	REF-3186,REF-5045,REF-5047
+actaea_racemosa	ciadd	Rare reports of liver injury	REF-5054,REF-5055,REF-5056,REF-5057,REF-5058,REF-5059
+actaea_racemosa	ciadd	Current evidence does not show an increased risk of breast cancer	REF-5075,REF-5076,REF-5077,REF-5078
+actaea_racemosa	ciadd	Not recommended during pregnancy	REF-5064,REF-5063
+actaea_racemosa	cinew	Side effects in clinical trials are usua	REF-5060,REF-5061,REF-5062,REF-5052
+actaea_racemosa	cadd	Triterpene glycosides	REF-5080
+actaea_racemosa	dcinew	cyp3a4-substrates	REF-5049,REF-2503,REF-5053
+actaea_racemosa	dcinew	cardiac-glycosides	REF-5050
+actaea_racemosa	dcinew	antidepressants-serotonergic	REF-5052
+actaea_racemosa	dcinew	hormonal-therapies	REF-5053,REF-5051,REF-2503,REF-5079

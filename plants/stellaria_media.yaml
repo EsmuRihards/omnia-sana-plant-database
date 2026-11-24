@@ -94,6 +94,7 @@ preparations:
   text: Crushed fresh herb, or an infused oil/salve, applied to itchy, irritated or inflamed skin.
   reference_ids:
   - REF-0048
+  - REF-3787
   status: verified
 - name: Infusion (tea)
   text: Dried or fresh herb steeped in hot water.
@@ -108,7 +109,6 @@ dosage:
     oxalate content. Educational reference only, not a prescription.
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0245
   status: verified
 constituents:
@@ -134,7 +134,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0900
   - REF-0903
   - REF-0904
@@ -150,7 +149,7 @@ actions:
 - action: emollient
   reference_ids:
   - REF-0048
-  - REF-0098
+  - REF-3787
   status: verified
 indications:
 - condition: arthritis
@@ -160,7 +159,6 @@ indications:
   mechanistic_exclude_ids:
   - REF-0903
   - REF-0048
-  - REF-0098
 - condition: eczema
   note: inferred from emollient action
   reference_ids: []
@@ -173,8 +171,7 @@ indications:
   - REF-0906
   - REF-3787
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0098
+  mechanistic_exclude_ids: []
 - condition: skin-irritation
   note: Traditionally applied to itching, redness and skin complaints as an ointment or wash (Grieve,
     A Modern Herbal)
@@ -184,7 +181,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0903
-  - REF-0098
 contraindications:
 - note: 'Don’t overdo it as food: some wild-edible-plant research flags chickweed among plants checked
     for oxalic acid / nitrates-fine in normal amounts, but “huge daily servings” aren’t a smart idea for
@@ -197,7 +193,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0245
   status: verified
 - note: Duke (2002) notes that chickweed has primarily folkloric (score f) activity as a demulcent, emollient,
@@ -208,7 +203,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0245
   - REF-0063
   status: verified
@@ -310,4 +304,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Grieve REF-0098 were pinned to all 4 pairs. Grieve''s chickweed entry (REF-3787, read
   2026-11-13) names inflammation, itch, cutaneous diseases, redness - not rheumatism or eczema by
   name: removed from arthritis, kept as mechanistic for eczema; REF-0098 replaced by the
-  entry-specific REF-3787. COX in vitro study REF-0906 moved to mechanistic for arthritis.'
+  entry-specific REF-3787. COX in vitro study REF-0906 moved to mechanistic for arthritis.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
+  removed (Grieve''s Chickweed entry REF-3787 is already on the plant); REF-3787 added to the
+  emollient action (demulcent, cooling ointment) and the poultice/salve preparation (fresh-leaf
+  poultice for inflammation; ointment boiled in lard for sores and skin complaints).'

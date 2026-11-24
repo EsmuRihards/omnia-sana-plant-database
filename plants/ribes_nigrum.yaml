@@ -84,7 +84,6 @@ traditional_uses:
   reference_ids:
   - REF-0097
   - REF-0238
-  - REF-0302
   status: verified
 preparations:
 - name: Fresh or dried berries
@@ -95,7 +94,6 @@ preparations:
   reference_ids:
   - REF-0097
   - REF-0238
-  - REF-0302
   status: verified
 - name: Seed oil (capsule)
   text: Cold-pressed, GLA-rich oil, taken as a supplement.
@@ -115,7 +113,6 @@ dosage:
   reference_ids:
   - REF-0097
   - REF-0238
-  - REF-0302
   status: verified
 constituents:
 - name: Anthocyanins (delphinidin, cyanidin glycosides)
@@ -238,7 +235,6 @@ contraindications:
   reference_ids:
   - REF-0097
   - REF-0238
-  - REF-0302
   status: verified
 - note: Duke (2002) rates blackcurrant fruit highly (+++), with evidence for anti-inflammatory, angioprotective,
     and antioxidant activities. Ribes nigrum extracts showed the richest anthocyanin and polyphenol content
@@ -249,7 +245,6 @@ contraindications:
   reference_ids:
   - REF-0097
   - REF-0238
-  - REF-0302
   - REF-0063
   status: verified
 references:
@@ -290,4 +285,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   seven whose symptoms it never names and from the diuretic action; swelling, urinary-support and
   uti dropped. REF-0302 (acute cognition RCT, retagged rct) removed from five actions. New pair
   (owner rule): blood-sugar (held RCT REF-1247). Gap: the EMA blackcurrant-leaf monograph (minor
-  joint pain, urinary flushing) could not be fetched (EMA 429) - not used.'
+  joint pain, urinary flushing) could not be fetched (EMA 429) - not used.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0302 (Watson 2015)
+  metadata corrected from Crossref (J Funct Foods 17:524-539, DOI 10.1016/j.jff.2015.06.005). It is an
+  acute berry-extract cognition trial, so it is removed from the leaf infusion, leaf dose, traditional
+  uses and cautions and kept in the references.'

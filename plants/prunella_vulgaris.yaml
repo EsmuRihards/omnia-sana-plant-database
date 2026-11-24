@@ -141,7 +141,6 @@ actions:
   - REF-2912
   - REF-2884
   - REF-2887
-  - REF-0098
   - REF-0200
   - REF-0658
   - REF-0659
@@ -152,7 +151,6 @@ actions:
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0098
   - REF-0200
   - REF-0659
   - REF-2423
@@ -162,7 +160,6 @@ actions:
   - REF-2911
   - REF-2881
   - REF-2884
-  - REF-0098
   - REF-0200
   - REF-0659
   - REF-2422
@@ -170,7 +167,6 @@ actions:
   status: verified
 - action: antiviral
   reference_ids:
-  - REF-0098
   - REF-0200
   - REF-0660
   - REF-0661
@@ -184,7 +180,6 @@ actions:
   - REF-2917
   - REF-2881
   - REF-2887
-  - REF-0098
   - REF-0200
   - REF-0658
   - REF-0660
@@ -195,9 +190,9 @@ actions:
 - action: vulnerary
   reference_ids:
   - REF-2921
-  - REF-0098
   - REF-0200
   - REF-0659
+  - REF-4304
   status: verified
 - action: anticancer
   reference_ids:
@@ -242,12 +237,11 @@ indications:
   - REF-2912
   - REF-2914
   - REF-2920
-  - REF-0098
   - REF-0200
 - condition: bruising
   note: Traditional remedy for bruises and wounds (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-4304
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0200
@@ -259,7 +253,6 @@ indications:
   mechanistic_exclude_ids:
   - REF-2424
   - REF-2881
-  - REF-0098
   - REF-0200
   - REF-0658
   - REF-0660
@@ -272,8 +265,7 @@ indications:
   - REF-0200
   - REF-0659
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0098
+  mechanistic_exclude_ids: []
 - condition: inflammation
   note: Extracts reduced inflammation in animal models of colitis, thyroiditis and uveitis (preclinical)
   reference_ids:
@@ -283,8 +275,7 @@ indications:
   - REF-0659
   - REF-0660
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0098
+  mechanistic_exclude_ids: []
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -298,14 +289,13 @@ indications:
   - REF-2912
   - REF-2914
   - REF-2920
-  - REF-0098
   - REF-0200
   - REF-0659
 - condition: wounds
   note: Traditional wound herb (Grieve); an extract sped wound healing in animal tests (preclinical)
   reference_ids:
   - REF-2921
-  - REF-0098
+  - REF-4304
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0200
@@ -345,7 +335,6 @@ contraindications:
     in appropriate doses.
   severity: caution
   reference_ids:
-  - REF-0098
   - REF-0200
   status: verified
 - note: Duke (2002) rates self-heal as +++ and notes antioxidant (score 2), anti-inflammatory, antiviral,
@@ -356,7 +345,6 @@ contraindications:
     at normal herbal doses (Duke, 2002).
   severity: info
   reference_ids:
-  - REF-0098
   - REF-0200
   - REF-0063
   status: verified
@@ -420,4 +408,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   cardiovascular-support. Immune-support: colitis, thyroiditis (Th1/Th17 suppression) and
   TLR-blocking studies are immune-suppressive, not support - removed; REF-0663 (innate antiviral
   response) remains. Cold: only a review''s general antiviral mention remained; self-heal
-  antiviral work is herpes/HIV lab research (off-target, inv. 11) - pair dropped.'
+  antiviral work is herpes/HIV lab research (off-target, inv. 11) - pair dropped.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
+  replaced by Grieve''s Self-Heal entry REF-4304 on vulnerary, bruising and wounds (wound herb;
+  ''bruises or falls and hurts''); removed from the anti-inflammatory, antimicrobial, antioxidant,
+  antiviral and immunomodulator actions and the cautions, which Grieve does not state. Same tier, so
+  no score change.'

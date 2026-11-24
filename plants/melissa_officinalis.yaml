@@ -154,14 +154,12 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1196
   - REF-1198
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1196
   - REF-1198
   - REF-1199
@@ -170,13 +168,11 @@ actions:
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1198
   status: verified
 - action: antiviral
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1196
   - REF-1198
   - REF-1200
@@ -184,14 +180,12 @@ actions:
 - action: digestive
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1198
   status: verified
 - action: sedative
   reference_ids:
   - REF-0112
   - REF-0134
-  - REF-0194
   - REF-1193
   - REF-1194
   - REF-1196
@@ -206,14 +200,12 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0194
 - condition: bloating
   note: Traditional use for mild digestive complaints such as bloating and flatulence (EU herbal monograph)
   reference_ids:
   - REF-3078
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0194
   - REF-0112
 - condition: cold
   note: inferred from antiviral action
@@ -222,14 +214,12 @@ indications:
   mechanistic_exclude_ids:
   - REF-1200
   - REF-0112
-  - REF-0194
 - condition: indigestion
   note: Traditional use for mild digestive complaints (EU herbal monograph)
   reference_ids:
   - REF-3078
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0194
   - REF-0112
 - condition: infection
   note: Topical lemon balm helped cold sores (herpes labialis) in trials (systematic review); antiviral
@@ -240,14 +230,12 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0194
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0194
   null_result_ids:
   - REF-3527
 - condition: insomnia
@@ -259,7 +247,6 @@ indications:
   - REF-3656
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0194
   - REF-1194
   - REF-1202
   - REF-0112
@@ -271,7 +258,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0194
   - REF-0112
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -279,7 +265,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0194
   null_result_ids:
   - REF-3527
 - condition: depression
@@ -329,7 +314,6 @@ contraindications:
   reference_ids:
   - REF-0112
   - REF-0134
-  - REF-0194
   status: verified
 - note: Duke (2002) does not include a dedicated entry under 'Lemon Balm' or 'Melissa' in the Handbook
     of Medicinal Herbs, Second Edition.
@@ -337,7 +321,6 @@ contraindications:
   reference_ids:
   - REF-0112
   - REF-0134
-  - REF-0194
   - REF-0063
   status: verified
 references:
@@ -418,4 +401,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   recorded as no-effect for sleep and blood pressure. Herpes labialis SR REF-3655 added to
   infection. UV-erythema RCT REF-3527 no-effect for skin (batch-7 carry). Not used: psoriasis
   syrup RCT 34193264 (no between-group DLQI difference reported); palpitations RCT 25680840 (no
-  matching condition).'
+  matching condition).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0194 (Petersen &
+  Simmonds 2003, ''Rosmarinic acid'', Phytochemistry 62:121-5, PMID 12482446) is a review of the
+  compound that names neither lemon balm nor rosemary (only Boraginaceae, Nepetoideae and
+  Coleus/Salvia officinalis cell cultures). A compound paper that names no species is not a source for
+  it (DATA_PRINCIPLES invariant 10), so it is removed from every entry here and deleted from the
+  bibliography.'

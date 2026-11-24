@@ -97,12 +97,13 @@ preparations:
   text: Alcoholic extract of the dried herb, used in small bitter doses.
   status: draft
 dosage:
-- name: Short-term use only
-  text: Because of its thujone content, traditional herbal references limit internal use to small bitter
-    doses (around 0.5-1 g dried herb per cup) for no more than about 4 weeks at a time. Educational reference
-    only, not a prescription.
+- name: Herbal tea (EU monograph)
+  text: The EU herbal monograph gives, for adults, 1-1.5 g of the cut herb in 150 mL of boiling water
+    as an infusion, 2-3 g a day in all, taken 30 minutes before meals for loss of appetite or after meals
+    for mild indigestion. It is not for under-18s; see a doctor if symptoms last more than 2 weeks. Educational
+    reference only, not a prescription.
   reference_ids:
-  - REF-0098
+  - REF-3147
   status: draft
 constituents:
 - name: Sesquiterpene lactones (absinthin, artabsin)
@@ -131,7 +132,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0098
   - REF-0112
   - REF-1776
   status: verified
@@ -145,7 +145,6 @@ actions:
   status: needs-review
 - action: antidiabetic
   reference_ids:
-  - REF-0098
   - REF-0112
   - REF-1771
   - REF-1772
@@ -153,14 +152,13 @@ actions:
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0098
   - REF-0112
   - REF-0728
   - REF-1775
+  - REF-4302
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0098
   - REF-0112
   - REF-0728
   - REF-1771
@@ -171,15 +169,14 @@ actions:
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
-  - REF-0098
   - REF-0112
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0098
   - REF-0112
   - REF-1770
   - REF-1774
+  - REF-4302
   status: verified
 indications:
 - condition: arthritis
@@ -188,11 +185,10 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0098
 - condition: bloating
   note: Traditional bitter for flatulence (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-4302
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
@@ -202,7 +198,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0098
 - condition: cancer
   note: Artemisia absinthium (wormwood) total flavonoids (cynaroside, astragalin) inhibit HeLa cervical
     cancer cells via ROS-mediated apoptosis, and its terpenoid alpha,beta-thujone induces caspase-dependent
@@ -216,14 +211,15 @@ indications:
 - condition: indigestion
   note: Traditional bitter for weak digestion (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-4302
+  - REF-3147
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
 - condition: infection
   note: Traditional antiseptic use (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-4302
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
@@ -233,28 +229,24 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0098
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0098
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0098
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
-  - REF-0098
 - condition: ibd
   note: In two small placebo-controlled trials in Crohn's disease, wormwood allowed steroid tapering and
     improved symptoms and mood
@@ -263,15 +255,15 @@ indications:
   - REF-3448
   status: verified
 contraindications:
-- note: 'CAUTION: Contains thujone, which is neurotoxic in significant amounts. Internal use should be
-    limited in duration and dose - short-term use only (under 4 weeks). Contraindicated in pregnancy (powerful
-    uterine stimulant). Avoid in epilepsy, renal disease, and in children. The small amounts present in
-    properly prepared bitter tinctures and vermouth are generally considered safe. The thujone content
-    of absinthe was historically exaggerated.'
+- note: 'CAUTION: Wormwood oil contains thujone, and in excess wormwood causes giddiness and epileptic-like
+    convulsions (Grieve). The EU herbal monograph contraindicates it in allergy to plants of the daisy
+    family (Asteraceae) and in bile-duct obstruction, cholangitis or liver disease, advises people with
+    gallstones to consult a doctor first, and does not recommend it in pregnancy, breastfeeding or under
+    18 years; see a doctor if symptoms last more than 2 weeks.'
   severity: caution
   reference_ids:
-  - REF-0098
-  - REF-0112
+  - REF-4302
+  - REF-3147
   status: verified
 - note: Duke (2002) rates wormwood as + (use with caution) and provides clinical evidence (score 2) for
     use as an aperitif and bitter digestive tonic, consistent with Commission E approval for dyspeptic
@@ -283,8 +275,6 @@ contraindications:
     neurotoxic) and epilepsy (Duke, 2002).
   severity: caution
   reference_ids:
-  - REF-0098
-  - REF-0112
   - REF-0063
   status: verified
 references:
@@ -329,4 +319,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. New ibd pair from two
   placebo-controlled Crohn''s disease RCTs (REF-3447 steroid-sparing; REF-3448 TNF-alpha,
   remission) under the owner rule. Notes rewritten to Grieve. Gap for owner: Commission E/EMA
-  appetite-loss and dyspepsia uses have no appetite-loss pair (no SR/RCT).'
+  appetite-loss and dyspepsia uses have no appetite-loss pair (no SR/RCT).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
+  replaced by Grieve''s Common Wormwood entry REF-4302 where it states the claim (antiseptic
+  fomentations, stomachic, flatulence, enfeebled digestion) and removed from the anti-inflammatory,
+  antidiabetic, antioxidant and antispasmodic actions, which it does not state. The dose and the
+  thujone caution are rewritten from the EU monograph REF-3147 (1-1.5 g per infusion, 2-3 g a day;
+  contraindicated in Asteraceae allergy and bile-duct or liver disease; not in pregnancy, lactation or
+  under 18) and Grieve; dropped as unsourced: 0.5-1 g, 4 weeks, epilepsy, renal disease, the absinthe
+  remarks. REF-3147 added to the indigestion pair (traditional, no score change).'

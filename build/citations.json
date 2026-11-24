@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3779,
+ "count": 3778,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -1521,10 +1521,20 @@
     "clinical"
    ],
    "display": "Natural Health Product Monograph: Mugwort - Artemisia vulgaris",
-   "plants": [],
-   "scientific": [],
-   "actions": [],
-   "conditions": []
+   "plants": [
+    "Mugwort",
+    "common mugwort",
+    "sailor's tobacco"
+   ],
+   "scientific": [
+    "Artemisia vulgaris"
+   ],
+   "actions": [
+    "Digestive aid"
+   ],
+   "conditions": [
+    "Indigestion"
+   ]
   },
   {
    "ref_id": "REF-2993",
@@ -6478,7 +6488,9 @@
    "scientific": [
     "Artemisia vulgaris"
    ],
-   "actions": [],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -7058,11 +7070,11 @@
    "journal": "Pakistan Journal of Pharmaceutical Sciences",
    "year": "2024",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Anti-inflammatory%2C%20antidiabetic%20and%20hypolipidemic%20potential%20of%20Cinnamomum%20verum%20J.%20Presl%20bark%20coupled%20with%20FT-IR%20and%20HPLC%20analysis",
-   "link_type": "search",
-   "citation": "Ul Hasnain, S.Z. and Ahmed, M. and Manzoor, R. and Amin, A. and Mudassir, J. and Jafar Rana, S. and Abbas, K (2024) 'Anti-inflammatory, antidiabetic and hypolipidemic potential of Cinnamomum verum J. Presl bark coupled with FT-IR and HPLC analysis', Pakistan Journal of Pharmaceutical Sciences, 37(6), pp. 1529-1544.",
-   "abstract": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39923147/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/39923147/",
+   "link_type": "url",
+   "citation": "Ul Hasnain, S.Z. and Ahmed, M. and Manzoor, R. and Amin, A. and Mudassir, J. and Jafar Rana, S. and Abbas, K (2024) 'Anti-inflammatory, antidiabetic and hypolipidemic potential of Cinnamomum verum J. Presl bark coupled with FT-IR and HPLC analysis', Pakistan Journal of Pharmaceutical Sciences, 37(6), pp. 1529-1544. Available at: https://pubmed.ncbi.nlm.nih.gov/39923147/",
+   "abstract": "Medicinal plants and herbs are used from ancient times for the treatment of acute or chronic diseases because they are easily accessible and have low cost. In this research, we investigated anti-inflammatory, hypoglycemic and hypolipidemic potential of ethanolic extract of Cinnamomun verum J. Presi bark. Anti-inflammatory activities were performed by proteinase inhibition, heat-induced hemolysis and BSA denaturation. Advance glycation inhibition potential was performed by β-amyloid formation, fructosamine assay and free carbonyl group estimation. The in vivo antidiabetic and anti-obesity potential were evaluated by using high-fat, high-sugar diet (HFHSD) model. FT-IR and HPLC were also performed. Results showed that proteinase showed 76±1.06%, heat-induced hemolysis showed 59±1.02% and BSA denaturation showed 48.2±1.04% inhibition. The β-amyloid formation assay showed an absorption of 0.022, the fructosamine assay showed 33.3±0.04% and free carbonyl group estimation showed 20.3±0.02% inhibition. The in vivo study showed that ethanolic extract significantly improves body weight, blood glucose level, lipid profile and liver markers in a dose-dependent manner. The FT-IR spectrum confirmed the presence of multiple functional groups, while HPLC identified thymoquinone, coumarin α-cysteine. It is concluded from these results that Cinnamomum verum J. Presi bark ethanolic extract can be used to treat inflammation, hyperlipidemia and diabetes.",
    "tier": "preclinical",
    "corpus": [
     "clinical"
@@ -44449,14 +44461,14 @@
    "key": "shova2020antibacterial",
    "type": "article",
    "title": "GC-MS analysis, antibacterial, antioxidant study and brine shrimp lethality analysis of Trachyspermum ammi (L.) Sprague",
-   "authors": "Shova, D.C., Shrestha, S., Sharma, S. and Dhakal, H",
-   "journal": "",
+   "authors": "Shova, D.C., Maharjan, B., Shrestha, T., Bharati, S. and Shrestha, R.L.",
+   "journal": "Amrit Research Journal",
    "year": "2020",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=GC-MS%20analysis%2C%20antibacterial%2C%20antioxidant%20study%20and%20brine%20shrimp%20lethality%20analysis%20of%20Trachyspermum%20ammi%20%28L.%29%20Sprague",
-   "link_type": "search",
-   "citation": "Shova, D.C., Shrestha, S., Sharma, S. and Dhakal, H (2020) 'GC-MS analysis, antibacterial, antioxidant study and brine shrimp lethality analysis of Trachyspermum ammi (L.) Sprague', 1(1), pp. 45--50.",
+   "doi": "10.3126/arj.v1i1.32452",
+   "url": "https://doi.org/10.3126/arj.v1i1.32452",
+   "link": "https://doi.org/10.3126/arj.v1i1.32452",
+   "link_type": "doi",
+   "citation": "Shova, D.C., Maharjan, B., Shrestha, T., Bharati, S. and Shrestha, R.L (2020) 'GC-MS analysis, antibacterial, antioxidant study and brine shrimp lethality analysis of Trachyspermum ammi (L.) Sprague', Amrit Research Journal, 1(1), pp. 45--50. doi:10.3126/arj.v1i1.32452",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -47280,6 +47292,8 @@
    ],
    "actions": [
     "Anti-inflammatory",
+    "Antioxidant",
+    "Antispasmodic",
     "Digestive aid"
    ],
    "conditions": []
@@ -59732,7 +59746,9 @@
    "actions": [
     "Anti-inflammatory",
     "Anticancer (preclinical)",
-    "Antimicrobial"
+    "Antimicrobial",
+    "Antioxidant",
+    "Antispasmodic"
    ],
    "conditions": [
     "Cancer (anticancer research)"
@@ -62164,6 +62180,7 @@
    "abstract": "",
    "tier": "traditional",
    "corpus": [
+    "clinical",
     "practice"
    ],
    "display": "European Union herbal monograph on Artemisia absinthium L., herba",
@@ -62176,7 +62193,9 @@
     "Artemisia absinthium"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Indigestion"
+   ]
   },
   {
    "ref_id": "REF-3963",
@@ -69569,14 +69588,14 @@
    "key": "watson2015acute",
    "type": "article",
    "title": "Acute supplementation with blackcurrant extracts modulates cognitive functioning and inhibits monoamine oxidase-B in healthy young adults",
-   "authors": "Watson, A.W., Haskell-Ramsay, C.F., Kennedy, D.O., Dodd, F.L., Wightman, E.L. and Reay, J.L",
-   "journal": "",
+   "authors": "Watson, A.W., Haskell-Ramsay, C.F., Kennedy, D.O., Cooney, J.M., Trower, T. and Scheepens, A.",
+   "journal": "Journal of Functional Foods",
    "year": "2015",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Acute%20supplementation%20with%20blackcurrant%20extracts%20modulates%20cognitive%20functioning%20and%20inhibits%20monoamine%20oxidase-B%20in%20healthy%20young%20adults",
-   "link_type": "search",
-   "citation": "Watson, A.W., Haskell-Ramsay, C.F., Kennedy, D.O., Dodd, F.L., Wightman, E.L. and Reay, J.L (2015) 'Acute supplementation with blackcurrant extracts modulates cognitive functioning and inhibits monoamine oxidase-B in healthy young adults', 54(3), pp. 505--513.",
+   "doi": "10.1016/j.jff.2015.06.005",
+   "url": "https://doi.org/10.1016/j.jff.2015.06.005",
+   "link": "https://doi.org/10.1016/j.jff.2015.06.005",
+   "link_type": "doi",
+   "citation": "Watson, A.W., Haskell-Ramsay, C.F., Kennedy, D.O., Cooney, J.M., Trower, T. and Scheepens, A (2015) 'Acute supplementation with blackcurrant extracts modulates cognitive functioning and inhibits monoamine oxidase-B in healthy young adults', Journal of Functional Foods, 17, pp. 524--539. doi:10.1016/j.jff.2015.06.005",
    "abstract": "",
    "tier": "rct",
    "corpus": [
@@ -71894,38 +71913,6 @@
     "Zingiber officinale"
    ],
    "actions": [],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-0009",
-   "key": "amaral2015guarana",
-   "type": "misc",
-   "title": "Guarana (Paullinia cupana): toxic behavioral effects in laboratory animals and antioxidants activity in vitro",
-   "authors": "Amaral, J.F., Neto, F.R.A., Ferreira, F.M., Leite, E.P. and Andrade, C.M.B",
-   "journal": "",
-   "year": "2015",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Guarana%20%28Paullinia%20cupana%29%3A%20toxic%20behavioral%20effects%20in%20laboratory%20animals%20and%20antioxidants%20activity%20in%20vitro",
-   "link_type": "search",
-   "citation": "Amaral, J.F., Neto, F.R.A., Ferreira, F.M., Leite, E.P. and Andrade, C.M.B (2015) 'Guarana (Paullinia cupana): toxic behavioral effects in laboratory animals and antioxidants activity in vitro', pp. 174--182.",
-   "abstract": "",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Guarana (Paullinia cupana): toxic behavioral effects in laboratory animals and antioxidants activity in vitro",
-   "plants": [
-    "Brazilian cocoa",
-    "Guarana",
-    "zoom"
-   ],
-   "scientific": [
-    "Paullinia cupana"
-   ],
-   "actions": [
-    "Antioxidant"
-   ],
    "conditions": []
   },
   {
@@ -83245,36 +83232,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0193",
-   "key": "pauli2012vitro",
-   "type": "book",
-   "title": "In vitro antimicrobial activities of essential oils monographed in the European Pharmacopoeia 6th edition",
-   "authors": "Pauli, A. and Schilcher, H",
-   "journal": "",
-   "year": "2012",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=In%20vitro%20antimicrobial%20activities%20of%20essential%20oils%20monographed%20in%20the%20European%20Pharmacopoeia%206th%20edition",
-   "link_type": "search",
-   "citation": "Pauli, A. and Schilcher, H (2012) 'In vitro antimicrobial activities of essential oils monographed in the European Pharmacopoeia 6th edition'.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "In vitro antimicrobial activities of essential oils monographed in the European Pharmacopoeia 6th edition",
-   "plants": [
-    "Lady's mantle",
-    "Lady’s-mantle",
-    "lion's foot"
-   ],
-   "scientific": [
-    "Alchemilla vulgaris"
-   ],
-   "actions": [],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-1654",
    "key": "akileshwari2012gentiana",
    "type": "article",
@@ -91959,10 +91916,10 @@
    "journal": "Indian Pediatrics",
    "year": "2008",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Carotenodermia",
-   "link_type": "search",
-   "citation": "Vijayalakshmi, A.M (2008) 'Carotenodermia', Indian Pediatrics, 45(1), pp. 61.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18250511/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/18250511/",
+   "link_type": "url",
+   "citation": "Vijayalakshmi, A.M (2008) 'Carotenodermia', Indian Pediatrics, 45(1), pp. 61. Available at: https://pubmed.ncbi.nlm.nih.gov/18250511/",
    "abstract": "",
    "tier": "clinical",
    "corpus": [
@@ -95971,47 +95928,6 @@
    ]
   },
   {
-   "ref_id": "REF-0189",
-   "key": "padula2006chamomile",
-   "type": "misc",
-   "title": "Chamomile: industrial profiles",
-   "authors": "Padula, M.C",
-   "journal": "",
-   "year": "2006",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Chamomile%3A%20industrial%20profiles",
-   "link_type": "search",
-   "citation": "Padula, M.C (2006) 'Chamomile: industrial profiles'.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Chamomile: industrial profiles",
-   "plants": [
-    "Chamomile",
-    "German chamomile",
-    "Scented Mayweed",
-    "blue chamomile",
-    "wild chamomile"
-   ],
-   "scientific": [
-    "Matricaria chamomilla"
-   ],
-   "actions": [
-    "Analgesic (pain relief)",
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antispasmodic",
-    "Digestive aid",
-    "Emollient / skin-soothing",
-    "Sedative / sleep support",
-    "Vulnerary (wound healing)"
-   ],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-0272",
    "key": "shashkina2006chemical",
    "type": "article",
@@ -96569,36 +96485,6 @@
    "conditions": [
     "Sore throat"
    ]
-  },
-  {
-   "ref_id": "REF-0187",
-   "key": "orav2006essential",
-   "type": "article",
-   "title": "Essential oil composition of Tanacetum vulgare L",
-   "authors": "Orav, A., Raal, A. and Arak, E",
-   "journal": "",
-   "year": "2006",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Essential%20oil%20composition%20of%20Tanacetum%20vulgare%20L",
-   "link_type": "search",
-   "citation": "Orav, A., Raal, A. and Arak, E (2006) 'Essential oil composition of Tanacetum vulgare L', 20(12), pp. 1129--1142.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Essential oil composition of Tanacetum vulgare L",
-   "plants": [
-    "Tansy",
-    "bitter buttons",
-    "common tansy"
-   ],
-   "scientific": [
-    "Tanacetum vulgare"
-   ],
-   "actions": [],
-   "conditions": []
   },
   {
    "ref_id": "REF-2829",
@@ -97716,6 +97602,47 @@
     "Swelling / fluid retention",
     "Varicose veins"
    ]
+  },
+  {
+   "ref_id": "REF-0189",
+   "key": "padula2006chamomile",
+   "type": "misc",
+   "title": "Chamomile: Industrial Profiles",
+   "authors": "Franke, R. and Schilcher, H.",
+   "journal": "",
+   "year": "2005",
+   "doi": "10.1201/9780203022382",
+   "url": "",
+   "link": "https://doi.org/10.1201/9780203022382",
+   "link_type": "doi",
+   "citation": "Franke, R. and Schilcher, H (2005) 'Chamomile: Industrial Profiles'. doi:10.1201/9780203022382",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Chamomile: Industrial Profiles",
+   "plants": [
+    "Chamomile",
+    "German chamomile",
+    "Scented Mayweed",
+    "blue chamomile",
+    "wild chamomile"
+   ],
+   "scientific": [
+    "Matricaria chamomilla"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antispasmodic",
+    "Digestive aid",
+    "Emollient / skin-soothing",
+    "Sedative / sleep support",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1123",
@@ -99543,15 +99470,15 @@
    "key": "akdogan2004investigation",
    "type": "article",
    "title": "Investigation of biochemical and histopathological effects of Mentha piperita labiatae and Mentha spicata labiatae on kidney tissue in rats",
-   "authors": "Akdogan, M. et al",
-   "journal": "",
+   "authors": "Akdogan, M., Ozguner, M., Aydin, G. and Gokalp, O.",
+   "journal": "Human and Experimental Toxicology",
    "year": "2004",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Investigation%20of%20biochemical%20and%20histopathological%20effects%20of%20Mentha%20piperita%20labiatae%20and%20Mentha%20spicata%20labiatae%20on%20kidney%20tissue%20in%20rats",
-   "link_type": "search",
-   "citation": "Akdogan, M. et al (2004) 'Investigation of biochemical and histopathological effects of Mentha piperita labiatae and Mentha spicata labiatae on kidney tissue in rats', 23(7), pp. 321--327.",
-   "abstract": "",
+   "doi": "10.1191/0960327104ht412oa",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15027812/",
+   "link": "https://doi.org/10.1191/0960327104ht412oa",
+   "link_type": "doi",
+   "citation": "Akdogan, M., Ozguner, M., Aydin, G. and Gokalp, O (2004) 'Investigation of biochemical and histopathological effects of Mentha piperita labiatae and Mentha spicata labiatae on kidney tissue in rats', Human and Experimental Toxicology, 23(1), pp. 21--28. doi:10.1191/0960327104ht412oa",
+   "abstract": "The plant Mentha piperita, or peppermint, is commonly used in the treatment of loss of appetite, common cold, bronchitis, sinusitis, fever, nausea and vomiting, and indigestion as a herbal agent. In this study, we aimed to investigate biochemical and histological effects of M. piperita Labiatae, growing in the Yenisar Bademli town of Isparta city, and Mentha spicata Labiatae, growing in the Anamas high plateau of the Yenisar Bademli town, on the rat liver tissue. Forty-eight male Wistar albino rats weighing 200-250 g were used for this study. Rats were divided into four groups of 12 animals: Group I received no herbal tea (control group); Group II received 20 g/L M. piperita tea; Group III received 20 g/L M. spicata tea; and Group IV received 40 g/L M. spicata tea. Herbal teas were prepared daily and provided at all times to the rats during 30 days as drinking water. Liver function tests, including aspartate aminotransferase (AST/GOT) and alanine aminotransferase (ALT/GPT) activities were measured. To evaluate liver antioxidant defences, superoxide dismutase (SOD), glutathione peroxidase (GSH-Px), catalase (CAT) and thiobarbituric acid reactive substance (TBARS) activities were determined in the homogenates of liver tissue. In addition, liver tissues were submitted for histopathologic examination. AST and ALT activities were increased in Group II, Group III and Group IV gradually when compared with the control group. The difference between Group II and the control group was not statistically significant (P > 0.016). Increases in AST and ALT activities of Group III and Group IV were statistically significant when compared with the control group. SOD, GSH-Px and CAT activities were increased in Group II when compared with the control group but the difference was not statistically significant (P > 0.016). However, SOD, GSH-Px activities and the TBARS level were significantly increased, and CAT activity was significantly decreased in Group III when compared with the control group. In Group IV, while SOD, GSH-Px and CAT activities were decreased, the TBARS level was increased as compared with the control group (P < 0.0016). Histopathological evaluation of experimental groups revealed a mild to severe degree of hepatic damage when compared to the control group. In Group II, there was only minimal hepatocytes degeneration. In Groups III and IV, there were granular or ballooning hepatocyte degeneration and necrosis, sinusoidal and central vein dilatation. It was concluded that lipid peroxidation and hepatic damage occurs after M. piperita and M. spicata administration in rat liver and the damage seems to be dose dependent.",
    "tier": "preclinical",
    "corpus": [
     "clinical"
@@ -99642,10 +99569,10 @@
    "journal": "Alternative Medicine Review",
    "year": "2004",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Monograph%3A%20Valeriana%20officinalis",
-   "link_type": "search",
-   "citation": "Alternative Medicine Review (2004) 'Monograph: Valeriana officinalis', Alternative Medicine Review, 9(4), pp. 438-441.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15656716/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/15656716/",
+   "link_type": "url",
+   "citation": "Alternative Medicine Review (2004) 'Monograph: Valeriana officinalis', Alternative Medicine Review, 9(4), pp. 438-441. Available at: https://pubmed.ncbi.nlm.nih.gov/15656716/",
    "abstract": "",
    "tier": "narrative",
    "corpus": [
@@ -100399,12 +100326,12 @@
    "journal": "Presse Medicale",
    "year": "2003",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Abuse%20of%20Lactuca%20virosa",
-   "link_type": "search",
-   "citation": "Spadari, M., Pommier, P., Canioni, D., Arditti, J., David, J.M. and Valli, M (2003) 'Abuse of Lactuca virosa', Presse Medicale, 32(15), pp. 702-703.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12762295/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/12762295/",
+   "link_type": "url",
+   "citation": "Spadari, M., Pommier, P., Canioni, D., Arditti, J., David, J.M. and Valli, M (2003) 'Abuse of Lactuca virosa', Presse Medicale, 32(15), pp. 702-703. Available at: https://pubmed.ncbi.nlm.nih.gov/12762295/",
    "abstract": "",
-   "tier": "preclinical",
+   "tier": "clinical",
    "corpus": [
     "clinical"
    ],
@@ -101990,54 +101917,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0194",
-   "key": "petersen2003rosmarinic",
-   "type": "article",
-   "title": "Rosmarinic acid",
-   "authors": "Petersen, M. and Simmonds, M.S.J",
-   "journal": "",
-   "year": "2003",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Rosmarinic%20acid",
-   "link_type": "search",
-   "citation": "Petersen, M. and Simmonds, M.S.J (2003) 'Rosmarinic acid', 62(2), pp. 121--125.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Rosmarinic acid",
-   "plants": [
-    "Lemon balm",
-    "Rosemary",
-    "bee balm",
-    "garden rosemary",
-    "sweet balm"
-   ],
-   "scientific": [
-    "Melissa officinalis",
-    "Salvia rosmarinus"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antispasmodic",
-    "Antiviral",
-    "Digestive aid",
-    "Neuroprotective / cognition support",
-    "Sedative / sleep support"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Skin irritation",
-    "Wounds"
-   ]
-  },
-  {
    "ref_id": "REF-3751",
    "key": "akhondzadeh2003sagealzheimer",
    "type": "article",
@@ -102526,13 +102405,13 @@
    "type": "article",
    "title": "Effect of Achillea millefolium extract in wound healing of rabbit",
    "authors": "Hemmati, A.A., Arzi, A. and Amin, M",
-   "journal": "",
+   "journal": "Journal of Natural Remedies",
    "year": "2002",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Effect%20of%20Achillea%20millefolium%20extract%20in%20wound%20healing%20of%20rabbit",
-   "link_type": "search",
-   "citation": "Hemmati, A.A., Arzi, A. and Amin, M (2002) 'Effect of Achillea millefolium extract in wound healing of rabbit', 2(2), pp. 164--167.",
+   "doi": "10.18311/jnr/2002/138",
+   "url": "https://doi.org/10.18311/jnr/2002/138",
+   "link": "https://doi.org/10.18311/jnr/2002/138",
+   "link_type": "doi",
+   "citation": "Hemmati, A.A., Arzi, A. and Amin, M (2002) 'Effect of Achillea millefolium extract in wound healing of rabbit', Journal of Natural Remedies, 2(2), pp. 164--167. doi:10.18311/jnr/2002/138",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -103615,11 +103494,11 @@
    "authors": "Lis-Balchin, M",
    "journal": "",
    "year": "2002",
-   "doi": "",
+   "doi": "10.1201/9780203216521",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Lavender%3A%20The%20Genus%20Lavandula",
-   "link_type": "search",
-   "citation": "Lis-Balchin, M (2002) 'Lavender: The Genus Lavandula'.",
+   "link": "https://doi.org/10.1201/9780203216521",
+   "link_type": "doi",
+   "citation": "Lis-Balchin, M (2002) 'Lavender: The Genus Lavandula'. doi:10.1201/9780203216521",
    "abstract": "",
    "tier": "traditional",
    "corpus": [
@@ -103766,43 +103645,6 @@
     "Passiflora incarnata"
    ],
    "actions": [
-    "Sedative / sleep support"
-   ],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-0149",
-   "key": "kung2002pharmacological",
-   "type": "article",
-   "title": "Pharmacological studies of Artemisia vulgaris",
-   "authors": "Kung, H.J. and Ko, W.C",
-   "journal": "",
-   "year": "2002",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Pharmacological%20studies%20of%20Artemisia%20vulgaris",
-   "link_type": "search",
-   "citation": "Kung, H.J. and Ko, W.C (2002) 'Pharmacological studies of Artemisia vulgaris', 13(2), pp. 99--108.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Pharmacological studies of Artemisia vulgaris",
-   "plants": [
-    "Mugwort",
-    "common mugwort",
-    "sailor's tobacco"
-   ],
-   "scientific": [
-    "Artemisia vulgaris"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antispasmodic",
-    "Digestive aid",
     "Sedative / sleep support"
    ],
    "conditions": []
@@ -104530,10 +104372,10 @@
    "journal": "Die Pharmazie",
    "year": "2001",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Capillary%20electrophoretic%20analysis%20of%20hydroxycinnamic%20acids%20from%20Ononis%20arvensis%20L.",
-   "link_type": "search",
-   "citation": "Spilkova, J. and Bednar, P. and Stroblikova, R (2001) 'Capillary electrophoretic analysis of hydroxycinnamic acids from Ononis arvensis L', Die Pharmazie, 56(5), pp. 424-425.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11400564/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/11400564/",
+   "link_type": "url",
+   "citation": "Spilkova, J. and Bednar, P. and Stroblikova, R (2001) 'Capillary electrophoretic analysis of hydroxycinnamic acids from Ononis arvensis L', Die Pharmazie, 56(5), pp. 424-425. Available at: https://pubmed.ncbi.nlm.nih.gov/11400564/",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -105156,10 +104998,10 @@
    "journal": "Alternative Medicine Review",
    "year": "2001",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Ruscus%20aculeatus%20%28butcher%27s%20broom%29.%20Monograph",
-   "link_type": "search",
-   "citation": "(Alternative Medicine Review) (2001) 'Ruscus aculeatus (butcher's broom). Monograph', Alternative Medicine Review, 6(6), pp. 608-612.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11804550/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/11804550/",
+   "link_type": "url",
+   "citation": "(Alternative Medicine Review) (2001) 'Ruscus aculeatus (butcher's broom). Monograph', Alternative Medicine Review, 6(6), pp. 608-612. Available at: https://pubmed.ncbi.nlm.nih.gov/11804550/",
    "abstract": "",
    "tier": "narrative",
    "corpus": [
@@ -107107,6 +106949,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0009",
+   "key": "amaral2015guarana",
+   "type": "misc",
+   "title": "Guarana (Paullinia cupana): toxic behavioral effects in laboratory animals and antioxidant activity in vitro",
+   "authors": "Mattei, R., Dias, R.F., Espínola, E.B., Carlini, E.A. and Barros, S.B.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "1998",
+   "doi": "10.1016/s0378-8741(97)00141-4",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9582000/",
+   "link": "https://doi.org/10.1016/s0378-8741(97)00141-4",
+   "link_type": "doi",
+   "citation": "Mattei, R., Dias, R.F., Espínola, E.B., Carlini, E.A. and Barros, S.B (1998) 'Guarana (Paullinia cupana): toxic behavioral effects in laboratory animals and antioxidant activity in vitro', Journal of Ethnopharmacology, 60(2), pp. 111--116. doi:10.1016/s0378-8741(97)00141-4",
+   "abstract": "The effects on toxic and behavioral levels of guarana (Paullinia cupana) were assessed in rats and mice subsequent to acute and chronic administrations and were compared to those produced by Ginseng (Panax ginseng). Experimental parameters included tests for antioxidant capacity in vitro and measured in vivo, toxicological screening, progress in weight, motor activity, death rate, and histopathological examination of the viscera. Guarana showed an antioxidant effect because, even at low concentrations (1.2 microg/ml), it inhibited the process of lipid peroxidation. In high doses of 1000-2000 mg/kg (i.p. and p.o.) it did not induce significant alterations in parameters for toxicological screening. No effects on motor activity were observed, neither did guarana alter the hypnotic effect of pentobarbital. Ginseng (250-1000 mg/kg i.p.), however, elicited reductions in motor activity, eyelid ptosis and bristling fur. Consumption of liquids containing guarana or ginseng and progress in weight of the animals remained at levels similar to the controls, even after prolonged administration. The percentage mortality was equivalent in control and in treated groups. The absence of toxicity of guarana was also demonstrated by histopathological examination, with no alteration being detected in heart, lungs, stomach, small and large intestine, liver, pancreas, kidneys, bladder and spleen.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Guarana (Paullinia cupana): toxic behavioral effects in laboratory animals and antioxidant activity in vitro",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0273",
    "key": "shoba1998influence",
    "type": "article",
@@ -108468,10 +108342,10 @@
    "journal": "Feldsher i Akusherka",
    "year": "1991",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Speedwell%20%28Veronica%20officinalis%29",
-   "link_type": "search",
-   "citation": "Korzhikova, E.B (1991) 'Speedwell (Veronica officinalis)', Feldsher i Akusherka, 56(2), pp. 37-39.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2044806/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/2044806/",
+   "link_type": "url",
+   "citation": "Korzhikova, E.B (1991) 'Speedwell (Veronica officinalis)', Feldsher i Akusherka, 56(2), pp. 37-39. Available at: https://pubmed.ncbi.nlm.nih.gov/2044806/",
    "abstract": "",
    "tier": "traditional",
    "corpus": [
@@ -108880,43 +108754,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0023",
-   "key": "becker1986botany",
-   "type": "misc",
-   "title": "Botany of European Artemisia species",
-   "authors": "Becker, H",
-   "journal": "",
-   "year": "1986",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Botany%20of%20European%20Artemisia%20species",
-   "link_type": "search",
-   "citation": "Becker, H (1986) 'Botany of European Artemisia species', pp. 1--24.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Botany of European Artemisia species",
-   "plants": [
-    "Mugwort",
-    "common mugwort",
-    "sailor's tobacco"
-   ],
-   "scientific": [
-    "Artemisia vulgaris"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Antispasmodic",
-    "Digestive aid",
-    "Sedative / sleep support"
-   ],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-2599",
    "key": "garnier1985hellebore",
    "type": "article",
@@ -109046,10 +108883,10 @@
    "journal": "Pharmaceutica Acta Helvetiae",
    "year": "1984",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Pyrrolizidine%20alkaloids%20in%20medicinal%20plants%20of%20Boraginaceae%3A%20Borago%20officinalis%20L.%20and%20Pulmonaria%20officinalis%20L.",
-   "link_type": "search",
-   "citation": "Luthy, J., Brauchli, J., Zweifel, U., Schmid, P. and Schlatter, C (1984) 'Pyrrolizidine alkaloids in medicinal plants of Boraginaceae: Borago officinalis L. and Pulmonaria officinalis L', Pharmaceutica Acta Helvetiae, 59(9-10), pp. 242-246.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6483923/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/6483923/",
+   "link_type": "url",
+   "citation": "Luthy, J., Brauchli, J., Zweifel, U., Schmid, P. and Schlatter, C (1984) 'Pyrrolizidine alkaloids in medicinal plants of Boraginaceae: Borago officinalis L. and Pulmonaria officinalis L', Pharmaceutica Acta Helvetiae, 59(9-10), pp. 242-246. Available at: https://pubmed.ncbi.nlm.nih.gov/6483923/",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -109220,10 +109057,10 @@
    "journal": "Ceskoslovenska Farmacie",
    "year": "1982",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Pharmacognosy%20study%20of%20Ononis%20arvensis%20L.%20II.%20Flavonoids%20and%20onocerin%20in%20the%20drug",
-   "link_type": "search",
-   "citation": "Spilkova, J. and Hubik, J (1982) 'Pharmacognosy study of Ononis arvensis L. II. Flavonoids and onocerin in the drug', Ceskoslovenska Farmacie, 31(1), pp. 24-26.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7074690/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/7074690/",
+   "link_type": "url",
+   "citation": "Spilkova, J. and Hubik, J (1982) 'Pharmacognosy study of Ononis arvensis L. II. Flavonoids and onocerin in the drug', Ceskoslovenska Farmacie, 31(1), pp. 24-26. Available at: https://pubmed.ncbi.nlm.nih.gov/7074690/",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -109406,10 +109243,10 @@
    "journal": "Ceskoslovenska Farmacie",
    "year": "1978",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=A%20pharmacognostic%20study%20of%20the%20species%20Ononis%20arvensis%20L.",
-   "link_type": "search",
-   "citation": "Rezacova, A. and Spilkova, J. and Hubik, J (1978) 'A pharmacognostic study of the species Ononis arvensis L', Ceskoslovenska Farmacie, 27(10), pp. 452-455.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/752421/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/752421/",
+   "link_type": "url",
+   "citation": "Rezacova, A. and Spilkova, J. and Hubik, J (1978) 'A pharmacognostic study of the species Ononis arvensis L', Ceskoslovenska Farmacie, 27(10), pp. 452-455. Available at: https://pubmed.ncbi.nlm.nih.gov/752421/",
    "abstract": "",
    "tier": "traditional",
    "corpus": [
@@ -109540,10 +109377,10 @@
    "journal": "Acta Poloniae Pharmaceutica",
    "year": "1977",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Comparative%20morphological%20and%20phytochemical%20studies%20of%20Ononis%20spinosa%20L.%20and%20Ononis%20arvensis%20L.%20I.%20Biometric%20and%20chromatographic%20studies%20of%20methanolic%20extracts",
-   "link_type": "search",
-   "citation": "Dedio, I. and Kozlowski, J (1977) 'Comparative morphological and phytochemical studies of Ononis spinosa L. and Ononis arvensis L. I. Biometric and chromatographic studies of methanolic extracts', Acta Poloniae Pharmaceutica, 34(1), pp. 97-102.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/848329/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/848329/",
+   "link_type": "url",
+   "citation": "Dedio, I. and Kozlowski, J (1977) 'Comparative morphological and phytochemical studies of Ononis spinosa L. and Ononis arvensis L. I. Biometric and chromatographic studies of methanolic extracts', Acta Poloniae Pharmaceutica, 34(1), pp. 97-102. Available at: https://pubmed.ncbi.nlm.nih.gov/848329/",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -109633,10 +109470,10 @@
    "journal": "Indian Journal of Experimental Biology",
    "year": "1976",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Estrogenic%20and%20pregnancy%20interceptory%20effects%20of%20carrot%20Daucus%20carota%20seeds",
-   "link_type": "search",
-   "citation": "Sharma, M.M. and Lal, G. and Jacob, D (1976) 'Estrogenic and pregnancy interceptory effects of carrot Daucus carota seeds', Indian Journal of Experimental Biology, 14(4), pp. 506-508.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/992821/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/992821/",
+   "link_type": "url",
+   "citation": "Sharma, M.M. and Lal, G. and Jacob, D (1976) 'Estrogenic and pregnancy interceptory effects of carrot Daucus carota seeds', Indian Journal of Experimental Biology, 14(4), pp. 506-508. Available at: https://pubmed.ncbi.nlm.nih.gov/992821/",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -109808,21 +109645,21 @@
    "ref_id": "REF-2810",
    "key": "plouvier1971knautia",
    "type": "article",
-   "title": "Research on heterosides: knautioside and saponosides from Knautia arvensis and related glycosides",
+   "title": "Research on heterosides: catalpol from Paulownia and Catalpa, arbutoside from Sorbaria, the knautioside, saponoside from Knautia arvensis and related glycosides",
    "authors": "Plouvier, V.",
    "journal": "Comptes Rendus de l'Academie des Sciences, Serie D",
    "year": "1971",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Research%20on%20heterosides%3A%20knautioside%20and%20saponosides%20from%20Knautia%20arvensis%20and%20related%20glycosides",
-   "link_type": "search",
-   "citation": "Plouvier, V (1971) 'Research on heterosides: knautioside and saponosides from Knautia arvensis and related glycosides', Comptes Rendus de l'Academie des Sciences, Serie D, 272(10), pp. 1443-1446.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/4994986/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/4994986/",
+   "link_type": "url",
+   "citation": "Plouvier, V (1971) 'Research on heterosides: catalpol from Paulownia and Catalpa, arbutoside from Sorbaria, the knautioside, saponoside from Knautia arvensis and related glycosides', Comptes Rendus de l'Academie des Sciences, Serie D, 272(10), pp. 1443-1446. Available at: https://pubmed.ncbi.nlm.nih.gov/4994986/",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
     "clinical"
    ],
-   "display": "Research on heterosides: knautioside and saponosides from Knautia arvensis and related glycosides",
+   "display": "Research on heterosides: catalpol from Paulownia and Catalpa, arbutoside from Sorbaria, the knautioside, saponoside from Knautia arvensis and related glycosides",
    "plants": [
     "Field scabious",
     "blue buttons",
@@ -109903,10 +109740,10 @@
    "journal": "Aptechnoe Delo",
    "year": "1965",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=A%20comparative%20phytochemical%20study%20of%20the%20roots%20of%20Ononis%20arvensis%20L.%20and%20Ononis%20spinosa%20L.",
-   "link_type": "search",
-   "citation": "Felsberg, A.A. and Rosentsveig, P.E (1965) 'A comparative phytochemical study of the roots of Ononis arvensis L. and Ononis spinosa L', Aptechnoe Delo, 14(6), pp. 26-32.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/5874963/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/5874963/",
+   "link_type": "url",
+   "citation": "Felsberg, A.A. and Rosentsveig, P.E (1965) 'A comparative phytochemical study of the roots of Ononis arvensis L. and Ononis spinosa L', Aptechnoe Delo, 14(6), pp. 26-32. Available at: https://pubmed.ncbi.nlm.nih.gov/5874963/",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -109933,10 +109770,10 @@
    "journal": "Aptechnoe Delo",
    "year": "1965",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Photochemical%20examination%20of%20Ononis%20arvensis.%20I",
-   "link_type": "search",
-   "citation": "Felsberg, A.A. and Rozentsveig, P.E (1965) 'Photochemical examination of Ononis arvensis. I', Aptechnoe Delo, 14(3), pp. 25-27.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/5882990/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/5882990/",
+   "link_type": "url",
+   "citation": "Felsberg, A.A. and Rozentsveig, P.E (1965) 'Photochemical examination of Ononis arvensis. I', Aptechnoe Delo, 14(3), pp. 25-27. Available at: https://pubmed.ncbi.nlm.nih.gov/5882990/",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -109995,10 +109832,10 @@
    "journal": "Aptechnoe Delo",
    "year": "1954",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Anatomical%20structure%20of%20Geum%20urbanum%20and%20Geum%20rivale%20and%20localization%20of%20tannins",
-   "link_type": "search",
-   "citation": "Blinova, K.F (1954) 'Anatomical structure of Geum urbanum and Geum rivale and localization of tannins', Aptechnoe Delo, 3(2), pp. 30-35.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/13159200/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/13159200/",
+   "link_type": "url",
+   "citation": "Blinova, K.F (1954) 'Anatomical structure of Geum urbanum and Geum rivale and localization of tannins', Aptechnoe Delo, 3(2), pp. 30-35. Available at: https://pubmed.ncbi.nlm.nih.gov/13159200/",
    "abstract": "",
    "tier": "traditional",
    "corpus": [
@@ -110026,10 +109863,10 @@
    "journal": "Pharmaceutica Acta Helvetiae",
    "year": "1952",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=The%20determination%20of%20rutin%20in%20Lysimachia%20vulgaris%20L.",
-   "link_type": "search",
-   "citation": "Oiseth, D. and Nordal, A (1952) 'The determination of rutin in Lysimachia vulgaris L', Pharmaceutica Acta Helvetiae, 27(12), pp. 361-363.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/13046978/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/13046978/",
+   "link_type": "url",
+   "citation": "Oiseth, D. and Nordal, A (1952) 'The determination of rutin in Lysimachia vulgaris L', Pharmaceutica Acta Helvetiae, 27(12), pp. 361-363. Available at: https://pubmed.ncbi.nlm.nih.gov/13046978/",
    "abstract": "",
    "tier": "preclinical",
    "corpus": [
@@ -110191,100 +110028,46 @@
    "display": "A Modern Herbal",
    "plants": [
     "Baltic pine",
-    "Butterfly milkweed",
-    "Butterfly weed",
-    "Chickweed",
-    "Common Sorrel",
-    "Common chickweed",
     "Greater Plantain",
-    "Ground Elder",
-    "Meadowsweet",
     "Mugwort",
-    "Orange milkweed",
-    "Pleurisy Root",
     "Scotch pine",
     "Scots Pine",
-    "Selfheal",
-    "Tansy",
-    "Wormwood",
     "Yarrow",
-    "bishop's weed",
-    "bitter buttons",
     "broadleaf plantain",
-    "chickenwort",
     "common mugwort",
     "common plantain",
-    "common tansy",
-    "common wormwood",
     "common yarrow",
-    "garden sorrel",
-    "gout wort",
-    "goutweed",
-    "grand wormwood",
-    "heal-all",
-    "mead wort",
     "milfoil",
-    "oseille",
-    "queen of the meadow",
     "sailor's tobacco",
-    "snow-in-the-mountain",
     "soldiers' woundwort",
-    "sorrel",
-    "starweed",
-    "waybread",
-    "woundwort"
+    "waybread"
    ],
    "scientific": [
     "Achillea millefolium",
-    "Aegopodium podagraria",
-    "Artemisia absinthium",
     "Artemisia vulgaris",
-    "Asclepias tuberosa",
-    "Filipendula ulmaria",
     "Pinus sylvestris",
-    "Plantago major",
-    "Prunella vulgaris",
-    "Rumex acetosa",
-    "Stellaria media",
-    "Tanacetum vulgare"
+    "Plantago major"
    ],
    "actions": [
-    "Analgesic (pain relief)",
     "Anti-inflammatory",
-    "Anti-rheumatic / anti-arthritic",
-    "Antidiabetic (blood-sugar lowering)",
     "Antimicrobial",
     "Antioxidant",
     "Antispasmodic",
-    "Antiviral",
-    "Diaphoretic",
-    "Digestive aid",
     "Diuretic",
-    "Emollient / skin-soothing",
     "Expectorant",
-    "Gastroprotective",
-    "Immunomodulator / immune support",
-    "Sedative / sleep support",
     "Vulnerary (wound healing)"
    ],
    "conditions": [
     "Arthritis / joint pain",
-    "Back pain",
-    "Bloating",
-    "Bruising",
     "Cold & flu",
     "Diarrhoea",
     "Fever",
     "Heavy menstrual bleeding",
-    "Indigestion",
     "Infection (general)",
     "Inflammation (general)",
-    "Pain (general)",
     "Respiratory support",
     "Skin irritation",
-    "Swelling / fluid retention",
-    "Urinary support",
-    "Wounds"
+    "Urinary support"
    ]
   },
   {
@@ -110572,7 +110355,8 @@
     "Stellaria media"
    ],
    "actions": [
-    "Anti-inflammatory"
+    "Anti-inflammatory",
+    "Emollient / skin-soothing"
    ],
    "conditions": [
     "Inflammation (general)",
@@ -111038,6 +110822,48 @@
    ]
   },
   {
+   "ref_id": "REF-4301",
+   "key": "grieve1931goutweed",
+   "type": "article",
+   "title": "Goutweed (Aegopodium podagraria) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/g/goutwe32.html",
+   "link": "https://www.botanical.com/botanical/mgmh/g/goutwe32.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Goutweed (Aegopodium podagraria) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/g/goutwe32.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Goutweed (Aegopodium podagraria) - A Modern Herbal",
+   "plants": [
+    "Ground Elder",
+    "bishop's weed",
+    "gout wort",
+    "goutweed",
+    "snow-in-the-mountain"
+   ],
+   "scientific": [
+    "Aegopodium podagraria"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory",
+    "Anti-rheumatic / anti-arthritic",
+    "Diuretic"
+   ],
+   "conditions": [
+    "Arthritis / joint pain",
+    "Back pain",
+    "Inflammation (general)",
+    "Pain (general)"
+   ]
+  },
+  {
    "ref_id": "REF-3851",
    "key": "grieve1931guelderrose",
    "type": "article",
@@ -111362,10 +111188,21 @@
     "clinical"
    ],
    "display": "Meadowsweet (Spiraea ulmaria) - A Modern Herbal",
-   "plants": [],
-   "scientific": [],
-   "actions": [],
-   "conditions": []
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
+   "actions": [
+    "Diuretic"
+   ],
+   "conditions": [
+    "Swelling / fluid retention",
+    "Urinary support"
+   ]
   },
   {
    "ref_id": "REF-3210",
@@ -111386,10 +111223,18 @@
     "clinical"
    ],
    "display": "Mugwort (Artemisia vulgaris) — A Modern Herbal",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Mugwort",
+    "common mugwort",
+    "sailor's tobacco"
+   ],
+   "scientific": [
+    "Artemisia vulgaris"
+   ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
   },
   {
    "ref_id": "REF-3846",
@@ -111488,6 +111333,42 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-4303",
+   "key": "grieve1931pleurisyroot",
+   "type": "article",
+   "title": "Pleurisy Root (Asclepias tuberosa) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/p/pleuri52.html",
+   "link": "https://www.botanical.com/botanical/mgmh/p/pleuri52.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Pleurisy Root (Asclepias tuberosa) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/p/pleuri52.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Pleurisy Root (Asclepias tuberosa) - A Modern Herbal",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
+   ],
+   "actions": [
+    "Diaphoretic",
+    "Expectorant"
+   ],
+   "conditions": [
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-4008",
    "key": "grieve1931fieldscabious",
    "type": "article",
@@ -111569,6 +111450,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-4304",
+   "key": "grieve1931selfheal",
+   "type": "article",
+   "title": "Self-Heal (Prunella vulgaris) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/s/selfhe40.html",
+   "link": "https://www.botanical.com/botanical/mgmh/s/selfhe40.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Self-Heal (Prunella vulgaris) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/s/selfhe40.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Self-Heal (Prunella vulgaris) - A Modern Herbal",
+   "plants": [
+    "Selfheal",
+    "heal-all",
+    "woundwort"
+   ],
+   "scientific": [
+    "Prunella vulgaris"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": [
+    "Bruising",
+    "Wounds"
+   ]
+  },
+  {
    "ref_id": "REF-3762",
    "key": "grieve1931soapwort",
    "type": "article",
@@ -111629,9 +111545,14 @@
    "scientific": [
     "Rumex acetosa"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Digestive aid",
+    "Diuretic"
+   ],
    "conditions": [
     "Infection (general)",
+    "Inflammation (general)",
     "Skin irritation",
     "Swelling / fluid retention"
    ]
@@ -111910,6 +111831,43 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-4302",
+   "key": "grieve1931wormwood",
+   "type": "article",
+   "title": "Wormwood, Common (Artemisia absinthium) - A Modern Herbal",
+   "authors": "Grieve, M",
+   "journal": "",
+   "year": "1931",
+   "doi": "",
+   "url": "https://www.botanical.com/botanical/mgmh/w/wormwo37.html",
+   "link": "https://www.botanical.com/botanical/mgmh/w/wormwo37.html",
+   "link_type": "url",
+   "citation": "Grieve, M (1931) 'Wormwood, Common (Artemisia absinthium) - A Modern Herbal'. Available at: https://www.botanical.com/botanical/mgmh/w/wormwo37.html",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Wormwood, Common (Artemisia absinthium) - A Modern Herbal",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Digestive aid"
+   ],
+   "conditions": [
+    "Bloating",
+    "Indigestion",
+    "Infection (general)"
+   ]
+  },
+  {
    "ref_id": "REF-4014",
    "key": "grieve1931wildyam",
    "type": "article",
@@ -112136,10 +112094,10 @@
    "journal": "Medical Examiner (Philadelphia)",
    "year": "1848",
    "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Asclepias%20Tuberosa%2C%20Butterfly-Weed%2C%20Milk-Weed%2C%20Pleurisy%20Root%2C%20White%20Root",
-   "link_type": "search",
-   "citation": "Lockwood, T.L (1848) 'Asclepias Tuberosa, Butterfly-Weed, Milk-Weed, Pleurisy Root, White Root', Medical Examiner (Philadelphia), 4(42), pp. 367-368.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10292552/",
+   "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10292552/",
+   "link_type": "url",
+   "citation": "Lockwood, T.L (1848) 'Asclepias Tuberosa, Butterfly-Weed, Milk-Weed, Pleurisy Root, White Root', Medical Examiner (Philadelphia), 4(42), pp. 367-368. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC10292552/",
    "abstract": "",
    "tier": "traditional",
    "corpus": [
@@ -112159,7 +112117,9 @@
     "Diaphoretic",
     "Expectorant"
    ],
-   "conditions": []
+   "conditions": [
+    "Respiratory support"
+   ]
   },
   {
    "ref_id": "REF-0735",

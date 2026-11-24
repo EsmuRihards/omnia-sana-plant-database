@@ -133,52 +133,51 @@ constituents:
 actions:
 - action: analgesic
   reference_ids:
-  - REF-0098
+  - REF-4301
   status: verified
 - action: anti-inflammatory
   reference_ids:
-  - REF-0098
   - REF-0719
   - REF-0721
   - REF-1690
+  - REF-4301
   status: verified
 - action: anti-rheumatic
   reference_ids:
-  - REF-0098
   - REF-0719
+  - REF-4301
   status: verified
 - action: diuretic
   reference_ids:
-  - REF-0098
   - REF-0719
+  - REF-4301
   status: verified
 indications:
 - condition: arthritis
   note: Traditional remedy for gout and aching joints (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-4301
   status: needs-review
 - condition: back-pain
   note: Traditional remedy for sciatic pain (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-4301
   status: needs-review
 - condition: inflammation
   note: Applied traditionally as a fomentation for inflamed parts (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-4301
   status: needs-review
 - condition: pain
   reference_ids:
-  - REF-0098
+  - REF-4301
   status: verified
   note: Traditional remedy for joint, gouty and sciatic pain (Grieve, A Modern Herbal)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0098
+  mechanistic_exclude_ids: []
 - condition: swelling
   note: inferred from diuretic action
   reference_ids: []
@@ -187,21 +186,18 @@ indications:
   note: inferred from diuretic action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0098
+  mechanistic_exclude_ids: []
 - condition: uti
   note: inferred from diuretic action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0098
+  mechanistic_exclude_ids: []
 contraindications:
 - note: Generally safe as a food plant when young leaves are harvested. Contains furocoumarins (photosensitising
     compounds) - handling large quantities in bright sunlight may cause skin irritation. Individuals with
     Apiaceae allergies should exercise caution. Not recommended in therapeutic doses during pregnancy.
   severity: caution
   reference_ids:
-  - REF-0098
   - REF-0207
   - REF-2561
   status: verified
@@ -209,7 +205,6 @@ contraindications:
     in the Handbook of Medicinal Herbs, Second Edition.
   severity: info
   reference_ids:
-  - REF-0098
   - REF-0207
   - REF-0063
   status: verified
@@ -328,4 +323,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Grieve REF-0098
   (diuretic; gout, joint and sciatic pain; fomentation for inflamed parts) names no fluid
   retention - kept as a mechanistic (diuretic) card for swelling only. REF-0719 retagged
-  narrative-review. Notes rewritten to their Grieve source. No trials found on PubMed.'
+  narrative-review. Notes rewritten to their Grieve source. No trials found on PubMed.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
+  replaced by Grieve''s Goutweed entry REF-4301 (read 2026-11-20: diuretic and sedative; joint aches,
+  gouty and sciatic pains; fomentation for inflamed parts) on the four actions and four pairs it
+  carried; removed from the two cautions, which Grieve does not state. Same tier, so no score change.'

@@ -168,7 +168,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0113
-  - REF-0193
   - REF-0208
   status: verified
 - note: Duke (2002) rates lady's mantle as ++ and notes astringent, angioprotective, anti-inflammatory,
@@ -179,7 +178,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0113
-  - REF-0193
   - REF-0208
   - REF-0063
   status: verified
@@ -236,4 +234,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 1 - Deep re-sweep. Wrong-species refs
   purged and deleted: REF-2228 (Alchemilla caucasica gastric ulcer study), REF-2230 (Alchemilla
   acutiloba phenolics). REF-0686 retagged preclinical (in vitro). Inflammation note rewritten.
-  Only an in vitro/rat wound study found on PubMed (no SR/RCT).'
+  Only an in vitro/rat wound study found on PubMed (no SR/RCT).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0193 (Pauli & Schilcher,
+  in vitro antimicrobial activities of essential oils in Ph. Eur. 6th ed., Handbook of Essential Oils,
+  CRC 2009, DOI 10.1201/9781420063165-c12) covers essential-oil drugs, not lady''s mantle: removed
+  from both cautions and deleted from the bibliography.'

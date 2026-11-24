@@ -142,9 +142,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0023
-  - REF-0098
-  - REF-0149
   - REF-0733
   - REF-1935
   - REF-1936
@@ -161,56 +158,39 @@ actions:
     in chronic myeloid leukaemia and breast cancer cells (preclinical).
 - action: antimicrobial
   reference_ids:
-  - REF-0023
-  - REF-0098
-  - REF-0149
   - REF-0733
   - REF-1937
   - REF-1938
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0023
-  - REF-0098
-  - REF-0149
+  - REF-0732
+  - REF-1935
+  - REF-0733
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
-  - REF-0023
-  - REF-0098
-  - REF-0149
+  - REF-1935
+  - REF-0733
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0023
-  - REF-0098
-  - REF-0149
   - REF-1935
-  status: verified
-- action: sedative
-  reference_ids:
-  - REF-0023
-  - REF-0098
-  - REF-0149
+  - REF-3126
   status: verified
 indications:
 - condition: arthritis
   note: Burned as moxa for rheumatism in traditional practice (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-3210
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0023
-  - REF-0149
+  mechanistic_exclude_ids: []
 - condition: bloating
   note: inferred from digestive action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0023
-  - REF-0149
-  - REF-0098
+  mechanistic_exclude_ids: []
 - condition: cancer
   note: Artemisia vulgaris (mugwort) extracts inhibit BCR/ABL and induce apoptosis in chronic myeloid
     leukaemia cells (including imatinib-resistant), and trigger tumour-selective ferroptosis/necroptosis
@@ -224,53 +204,37 @@ indications:
 - condition: indigestion
   note: Traditional remedy for stomach disorders (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-3126
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0023
-  - REF-0149
+  mechanistic_exclude_ids: []
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0023
-  - REF-0149
-  - REF-0098
+  mechanistic_exclude_ids: []
 - condition: inflammation
   note: Traditionally used for swollen tonsils (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0023
-  - REF-0149
+  mechanistic_exclude_ids: []
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0023
-  - REF-0149
-  - REF-0098
+  mechanistic_exclude_ids: []
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0023
   - REF-1937
-  - REF-0149
-  - REF-0098
 contraindications:
-- note: Contains thujone; avoid high doses or prolonged use. Contraindicated in pregnancy (uterine stimulant
-    and abortifacient). May cause allergic reactions in individuals sensitive to the Asteraceae family.
-    Avoid in epilepsy. Not recommended for children.
+- note: Health Canada's monograph says not to use mugwort in pregnancy or while breastfeeding, and to
+    stop use if an allergy occurs.
   severity: caution
   reference_ids:
-  - REF-0023
-  - REF-0098
-  - REF-0149
+  - REF-3126
   status: verified
 - note: Duke (2002) rates mugwort as + (use with caution) and notes abortifacient (score 1), emmenagogue,
     aperitif (score 1), and insecticide activities. Duke clearly flags mugwort as contraindicated in pregnancy
@@ -280,9 +244,6 @@ contraindications:
     use due to potential neurotoxicity from thujone-containing essential oil (Duke, 2002).
   severity: caution
   reference_ids:
-  - REF-0023
-  - REF-0098
-  - REF-0149
   - REF-0063
   status: verified
 references:
@@ -381,4 +342,16 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   from 7 pairs.
   | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. Notes rewritten to
   Grieve (moxa for rheumatism; stomach disorders; swollen tonsils). Moxibustion trials not used (a
-  heat technique, not the plant''s pharmacology).'
+  heat technique, not the plant''s pharmacology).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0023 (''Becker 1986,
+  Botany of European Artemisia species'') and REF-0149 (''Kung & Ko 2002, Pharmacological studies of
+  Artemisia vulgaris'') are not in PubMed, Crossref or OpenAlex: removed everywhere and deleted.
+  Generic Grieve REF-0098 removed from the actions and cautions (Grieve''s Mugwort names none of them;
+  it says mugwort lacks wormwood''s essential oil). Antioxidant and antispasmodic now cite the A.
+  vulgaris reviews REF-1935 and REF-0733 (and REF-0732 for antioxidant); digestive and the indigestion
+  pair cite Health Canada''s mugwort monograph REF-3126 (stomachic, to aid digestion); arthritis cites
+  Grieve''s Mugwort REF-3210 (moxa for rheumatism). The sedative action had no remaining source and is
+  removed. The caution is rewritten to REF-3126 (not in pregnancy or breastfeeding; stop if allergic);
+  ''contains thujone'', epilepsy and children were unsourced. The inflammation pair (swollen tonsils)
+  is left on REF-0098 for owner review: on botanical.com that Culpepper passage sits on the Mugwort
+  page but reads as Culpepper''s Wormwood text (''Wormwood and vinegar are an antidote...'').'

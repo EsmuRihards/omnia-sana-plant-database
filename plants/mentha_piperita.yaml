@@ -89,7 +89,6 @@ preparations:
     bowel syndrome, releasing the oil in the intestine rather than the stomach.
   reference_ids:
   - REF-1206
-  - REF-0004
   - REF-0100
   status: verified
 - name: Essential oil (topical)
@@ -105,14 +104,12 @@ dosage:
   text: 'Duke (2002) and Commission E guidance: about 0.6 mL enteric-coated oil two to three times daily
     between meals for IBS-type digestive complaints. Educational reference only, not a prescription.'
   reference_ids:
-  - REF-0004
   - REF-0100
   status: verified
 - name: Dried leaf infusion
   text: 'Traditional guidance: about 1.5-3 g dried leaf as a tea, up to three times daily for digestive
     complaints. Educational reference only, not a prescription.'
   reference_ids:
-  - REF-0004
   - REF-0100
   status: verified
 constituents:
@@ -324,7 +321,6 @@ contraindications:
     and gallstones.
   severity: caution
   reference_ids:
-  - REF-0004
   - REF-0100
   status: verified
 - note: 'Duke (2002) rates peppermint as +++ with clinical evidence (score 2) for antispasmodic activity,
@@ -336,7 +332,6 @@ contraindications:
     from menthol). Contraindicated in cholelithiasis (gallstones) (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0004
   - REF-0100
   - REF-0063
   status: verified
@@ -434,4 +429,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3665 no-effect), nausea (PONV RCTs). Tension-headache RCT REF-3666 added; foot-bath RCT
   REF-3667 no-effect. Nipple-pain MA REF-3668 added to pain. Not used: lemon+peppermint menopausal
   massage (combination); knee-OA aromatherapy massage (massage confound).
-  | 2026-11-19: lookalikes_review none-known -> has-lookalikes. Added Mentha pulegium (pennyroyal; severity fatal): infants poisoned by mint tea from pennyroyal plants REF-3950, fatal adult case series REF-3949, description and spearmint smell REF-3952; peppermint habit from REF-1204. Approved by the owner 2026-11-19.'
+  | 2026-11-19: lookalikes_review none-known -> has-lookalikes. Added Mentha pulegium (pennyroyal; severity fatal): infants poisoned by mint tea from pennyroyal plants REF-3950, fatal adult case series REF-3949, description and spearmint smell REF-3952; peppermint habit from REF-1204. Approved by the owner 2026-11-19.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0004 (Akdogan 2004, mint
+  teas and rat kidney tissue, PMID 15027812) now has its locator; it reports kidney damage in rats
+  given mint tea and states none of the capsule, dose or caution claims it was attached to, so it
+  stays only in the references.'

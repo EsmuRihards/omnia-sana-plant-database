@@ -79,7 +79,6 @@ dosage:
     than coffee by weight); follow product-specific dosing and apply the same cautions as for a strong
     caffeine source. Educational reference only, not a prescription.
   reference_ids:
-  - REF-0009
   - REF-0106
   - REF-0233
   status: verified
@@ -171,7 +170,6 @@ contraindications:
     by caffeine. Risk of dependence and withdrawal symptoms with prolonged high-dose use.
   severity: caution
   reference_ids:
-  - REF-0009
   - REF-0106
   - REF-0233
   status: verified
@@ -183,7 +181,6 @@ contraindications:
     stimulants and anticoagulants (Duke, 2002).
   severity: info
   reference_ids:
-  - REF-0009
   - REF-0106
   - REF-0233
   - REF-0063
@@ -231,4 +228,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ergogenic/neuroprotective; REF-0106 removed from antioxidant. New pair (owner rule): fatigue
   (2024 MA REF-3707, RCTs REF-3708/REF-3709), with held 2021 MA REF-0951 and RCTs
   REF-3710/REF-3711 recorded as no-effect.
-  | 2026-11-19 (monograph-source audit): preparations[1] (''standardised extract capsule, the form used in most trials for cognition, fatigue and performance'') rewritten to what REF-0950/REF-0955 report (37.5-500 mg doses; 500 mg seed extract in a cycling trial). Dropped: capsule, fatigue, most trials.'
+  | 2026-11-19 (monograph-source audit): preparations[1] (''standardised extract capsule, the form used in most trials for cognition, fatigue and performance'') rewritten to what REF-0950/REF-0955 report (37.5-500 mg doses; 500 mg seed extract in a cycling trial). Dropped: capsule, fatigue, most trials.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0009 was mis-attributed
+  (''Amaral 2015''); it is Mattei 1998, J Ethnopharmacol 60:111-6 (PMID 9582000), low-toxicity
+  behavioural tests in animals plus antioxidant activity in vitro. Kept on the antioxidant action;
+  removed from the dose and the two caffeine cautions, which it does not state.'

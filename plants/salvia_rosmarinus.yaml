@@ -80,7 +80,6 @@ preparations:
   reference_ids:
   - REF-0112
   - REF-0173
-  - REF-0194
   status: verified
 - name: Essential oil (inhaled)
   text: In a randomised study of 144 healthy adults, the aroma of rosemary essential oil in the room improved
@@ -103,7 +102,6 @@ dosage:
   reference_ids:
   - REF-0112
   - REF-0173
-  - REF-0194
   status: verified
 constituents:
 - name: Essential oil (1,8-cineole, camphor, alpha-pinene)
@@ -127,13 +125,11 @@ constituents:
   - phenolic-acid
   note: Contribute to antioxidant, anti-inflammatory and cognitive-supportive activity.
   reference_ids:
-  - REF-0194
   - REF-1283
 actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1283
   - REF-1285
   status: verified
@@ -144,33 +140,28 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1283
   - REF-1286
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1283
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0112
-  - REF-0194
   status: verified
 - action: digestive
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1292
   status: verified
 - action: neuroprotective
   reference_ids:
   - REF-0112
   - REF-0173
-  - REF-0194
   - REF-1287
   - REF-1290
   - REF-1291
@@ -180,7 +171,6 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
-  - REF-0194
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1285
@@ -189,8 +179,7 @@ indications:
   reference_ids:
   - REF-0112
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0194
+  mechanistic_exclude_ids: []
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -211,26 +200,22 @@ indications:
   - REF-3754
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0194
   - REF-1287
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0112
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0194
+  mechanistic_exclude_ids: []
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0112
-  - REF-0194
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-1285
   status: needs-review
 - condition: memory
@@ -243,20 +228,17 @@ indications:
   - REF-1291
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0194
   - REF-1287
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0112
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0194
+  mechanistic_exclude_ids: []
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
-  - REF-0194
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1285
@@ -264,7 +246,6 @@ indications:
   note: A rosemary cream improved episiotomy wound healing in a randomized trial
   reference_ids:
   - REF-0112
-  - REF-0194
   - REF-3755
   status: needs-review
   mechanistic_exclude_ids:
@@ -303,7 +284,6 @@ contraindications:
   reference_ids:
   - REF-0112
   - REF-0173
-  - REF-0194
   status: verified
 - note: Duke (2002) does not appear to include a dedicated entry for rosemary (Salvia rosmarinus / Rosmarinus
     officinalis) as a primary herb entry in the section searched; however, rosemary is referenced throughout
@@ -314,7 +294,6 @@ contraindications:
   reference_ids:
   - REF-0112
   - REF-0173
-  - REF-0194
   - REF-0063
   status: verified
 references:
@@ -354,4 +333,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (off-target). New pairs (owner rule): anxiety, depression, insomnia (student RCT REF-1291; MDD
   add-on RCT REF-3753; surgical aromatherapy RCT REF-3757), oral-health (toothpaste RCT REF-3756).
   COPD cognition RCT REF-3754 and episiotomy RCT REF-3755 added.
-  | 2026-11-19 (monograph-source audit): preparations[1] said the oil is inhaled for cognitive/mood effects ''or diluted and applied for muscular and rheumatic complaints'', citing only REF-0173 (aroma study). Rewritten to what REF-0173 found (memory quality up, memory speed down). The topical muscular/rheumatic use was dropped: no cited source states it.'
+  | 2026-11-19 (monograph-source audit): preparations[1] said the oil is inhaled for cognitive/mood effects ''or diluted and applied for muscular and rheumatic complaints'', citing only REF-0173 (aroma study). Rewritten to what REF-0173 found (memory quality up, memory speed down). The topical muscular/rheumatic use was dropped: no cited source states it.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0194 (Petersen &
+  Simmonds 2003, ''Rosmarinic acid'', Phytochemistry 62:121-5, PMID 12482446) is a review of the
+  compound that names neither lemon balm nor rosemary (only Boraginaceae, Nepetoideae and
+  Coleus/Salvia officinalis cell cultures). A compound paper that names no species is not a source for
+  it (DATA_PRINCIPLES invariant 10), so it is removed from every entry here and deleted from the
+  bibliography.'

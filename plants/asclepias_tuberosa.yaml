@@ -102,14 +102,14 @@ actions:
   reference_ids:
   - REF-0495
   - REF-1948
-  - REF-0098
+  - REF-4303
   status: needs-review
 - action: expectorant
   note: Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy
   reference_ids:
   - REF-0495
   - REF-1948
-  - REF-0098
+  - REF-4303
   status: needs-review
 indications:
 - condition: bronchitis
@@ -130,11 +130,11 @@ indications:
   note: Traditional remedy for chest complaints and pulmonary catarrh, aiding expectoration (Grieve, A
     Modern Herbal)
   reference_ids:
-  - REF-0098
+  - REF-4303
+  - REF-1948
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0495
-  - REF-1948
 contraindications:
 - note: 'Contains cardiac glycosides: do NOT use in pregnancy, breastfeeding or infancy, in anyone with
     a heart condition, or alongside cardiac glycoside medicines (e.g. digoxin). The plant''s cardenolide-rich
@@ -227,4 +227,9 @@ internal_notes: 'Enriched 2026-06-12 from general herbal literature (traditional
   | 2026-11-12: symptom-source audit deep re-sweep batch 3 follow-up - Correction to the entry
   above: bronchitis and cold were NOT dropped - with REF-0494 gone they remain as inferred-only
   pairs, carried by Grieve REF-0098 on the expectorant and diaphoretic actions (generic
-  inferences, inv. 11); bronchitis note set to "inferred from expectorant action".'
+  inferences, inv. 11); bronchitis note set to "inferred from expectorant action".
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
+  replaced by Grieve''s Pleurisy Root entry REF-4303 on the diaphoretic and expectorant actions and
+  the respiratory pair; the pair also cites Lockwood 1848 (REF-1948, PMC full text read 2026-11-20:
+  copious expectoration, bronchitis and catarrh), moved from its mechanistic exclusions. Both
+  traditional, so no score change.'

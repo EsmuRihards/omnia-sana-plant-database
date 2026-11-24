@@ -19,24 +19,23 @@ parts_used:
 - Aerial parts
 - Flower
 botanical_description:
-  text: A perennial herb of the rose family, 20-60 cm tall, growing from a thick, reddish, aromatic rhizome
-    that smells of cloves when broken (from its eugenol content) - the source of the name 'chocolate root'.
-    The basal leaves are pinnate with a large terminal lobe, forming a rosette. Its distinctive flowers
-    are nodding (drooping) bells with dull purple-pink to orange sepals and cream-to-pink petals, quite
-    unlike the erect open yellow flowers of its relative wood avens (Geum urbanum). The fruit is a rounded
-    head of achenes, each with a hooked, feathery style that clings to fur and clothing.
-  height: 20-60 cm
-  habit: Erect perennial herb from a thick aromatic rhizome
-  leaves: Basal rosette of pinnate leaves with a large terminal lobe; stem leaves smaller, trifoliolate
-  flowers: Nodding, bell-shaped, dull purple-pink to orange sepals with cream-to-pink petals (distinct
-    from the erect yellow flowers of wood avens)
-  stem: Erect, reddish, softly hairy
-  root: Thick reddish rhizome smelling of cloves (eugenol) - the 'chocolate root'
-  fruit: A rounded head of achenes, each with a hooked, feathery style
+  text: Perennial herb about 30 cm tall, stouter than wood avens, with a stem a foot or more high, scarcely
+    branching and with few leaves; the lower stem has bent-back hairs and is downy above. The basal leaves
+    form a rosette and are long-stalked and lobed, with a larger terminal leaflet. The flowers are larger
+    and fewer than in wood avens and droop, the petals forming a compact bell of dull purplish hue with
+    darker veins, the calyces brownish and tinged with purple; the awns are feathery. It flowers from
+    May to September.
+  height: About 30 cm (1 ft) or more
+  habit: Perennial herb with a basal leaf rosette and a scarcely branched flowering stem
+  leaves: Basal rosette of long-stalked, lobed leaves with a larger terminal leaflet; few stem leaves
+  flowers: Drooping, bell-like, dull purplish with darker veins; calyces brownish-purple
+  stem: Scarcely branching, with bent-back hairs below and downy above
+  root: Aromatic, tannin-rich root
+  fruit: Achenes with feathery awns
   flowering_period: May-September
   reference_ids:
-  - REF-2761
-  - REF-2769
+  - REF-4002
+  - REF-3267
   status: verified
 habitat:
   text: Damp places such as moist ditches and streamsides, damp woods and the coarse vegetation along
@@ -48,18 +47,14 @@ habitat:
   - REF-4002
   status: verified
 harvesting:
-  text: The reddish rhizome/root is the main medicinal part, dug in spring or autumn and dried carefully
-    to preserve its clove-scented, eugenol-bearing, tannin-rich qualities; the aerial flowering parts
-    are gathered in summer. The root has historically been used both as an astringent medicine and as
-    a flavouring (a coffee/chocolate substitute and to flavour ale).
+  text: The root is best harvested in spring, when it is most fragrant. Much of the fragrance is lost
+    in drying, so dry it carefully and store it in an airtight container in a cool, dry place, slicing
+    and powdering it only when needed.
   parts:
   - Root
-  - Rhizome
-  - Aerial parts
-  season: Root/rhizome in spring or autumn; aerial parts in flower (summer)
+  season: Root in spring
   reference_ids:
-  - REF-2765
-  - REF-2769
+  - REF-3267
   status: verified
 harvest_readiness:
 - part: root
@@ -96,32 +91,31 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3267); the flowers open from late spring through summer. Single lineage -> provisional."
 traditional_uses:
-  text: Water avens shares the astringent, tannin-based traditional medicine of the avens (Geum) genus.
-    The clove-scented root has been used as an astringent for diarrhoea, dysentery and other bowel complaints,
-    as a gargle and mouth wash for sore throat, mouth ulcers and spongy gums, and as a wash for wounds
-    and skin inflammation. It was also valued as an aromatic bitter tonic and, historically, a febrifuge,
-    and the fragrant root was used to flavour ale and as a coffee/chocolate substitute (hence 'chocolate
-    root').
+  text: Water avens root has tonic and powerfully astringent action and was used, like the common avens,
+    for diarrhoea and passive bleeding. In eastern North America, where it is called Indian chocolate
+    and cure-all, it was a popular remedy for pulmonary consumption, simple dyspepsia and bowel complaints,
+    and was valued as a febrifuge and tonic. A root infusion is taken for diarrhoea and stomach complaints
+    and used externally as a wash for skin eruptions; it is considered less active than wood avens and
+    is seldom used.
   reference_ids:
-  - REF-2769
-  - REF-2768
+  - REF-4002
+  - REF-3267
   status: verified
 preparations:
-- name: Decoction
-  text: The dried root/rhizome simmered in water as an astringent for diarrhoea and as a gargle for sore
-    throat and inflamed gums.
+- name: Root infusion
+  text: An infusion of the root is taken for diarrhoea (also by children) and for stomach and intestinal
+    complaints, and is applied externally as a wash for skin eruptions.
   reference_ids:
-  - REF-2769
+  - REF-3267
+  - REF-4002
   status: verified
 - name: Infusion
   text: The aerial parts or root infused as a milder astringent and aromatic tonic tea.
-  reference_ids:
-  - REF-2769
+  reference_ids: []
   status: draft
 - name: Gargle / mouthwash
   text: A cooled root decoction used as a gargle/mouthwash for sore throat, mouth ulcers and spongy gums.
   reference_ids:
-  - REF-2769
   - REF-2771
   status: draft
 - name: Tincture
@@ -384,4 +378,13 @@ internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum 
   anatomy, no abstract) removed from antidiarrheal and vulnerary actions (kept in references);
   REF-2768 (Rosaceae elastase/tannin screen) removed from antidiarrheal. Notes rewritten to their
   lab sources. No trials on PubMed.
-  | 2026-11-19 (monograph-source audit): habitat cited only REF-2761 (lab study). RE-SOURCED: PFAF REF-3267 + Grieve Water Avens (REF-4002, new). Dropped as unsupported: wet meadows, marshes, fens, base-rich soils, the comparison with wood avens on dry hedgerows.'
+  | 2026-11-19 (monograph-source audit): habitat cited only REF-2761 (lab study). RE-SOURCED: PFAF REF-3267 + Grieve Water Avens (REF-4002, new). Dropped as unsupported: wet meadows, marshes, fens, base-rich soils, the comparison with wood avens on dry hedgerows.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-2769 (Blinova 1954,
+  rhizome anatomy and tannin localisation in G. urbanum and G. rivale, PMID 13159200) now has its
+  PMID; an anatomy paper states none of the preparations, uses, description or harvest claims, so it
+  is removed from them (kept on the lookalike review). Botanical description, harvesting, traditional
+  uses and the root infusion are rewritten from Grieve''s Water Avens (REF-4002) and PFAF (REF-3267).
+  Dropped: 20-60 cm, clove smell from eugenol (REF-2765 finds eugenol as the main root-oil compound of
+  G. urbanum, not of G. rivale), hooked styles (Grieve: awns feathery, not hooked), ale flavouring,
+  gargle for sore throat, decoction. The draft infusion of aerial parts is left unsourced and stays
+  withheld.'

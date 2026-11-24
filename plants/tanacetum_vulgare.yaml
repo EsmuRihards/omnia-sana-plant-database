@@ -13,37 +13,35 @@ parts_used:
 - Leaf
 - Stem
 botanical_description:
-  text: Aromatic perennial herb (Asteraceae), 50-120 cm tall, with erect, reddish, ridged stems. Leaves
-    are finely divided, fern-like and strongly camphor-scented. Flat-topped clusters of small, yellow,
-    button-like flower heads lack ray florets (petals).
-  height: 50-120 cm
-  habit: Erect, aromatic perennial herb
-  leaves: Finely divided, fern-like, strongly camphor-scented
-  flowers: Small, yellow, button-like heads with no ray florets, in flat-topped clusters
-  stem: Erect, reddish, ridged
-  root: Spreading rhizomatous root system
-  fruit: Small ribbed achenes (typical Asteraceae)
-  flowering_period: July-September
+  text: Hardy perennial with creeping roots and an erect, leafy, grooved and angular stem about 60-90
+    cm (2-3 ft) high. The leaves are alternate and much cut, 5-15 cm long. In August and September it
+    bears clusters of round, flat, dull yellow flower heads ('buttons'). The plant has a curious, camphor-like
+    smell.
+  height: 60-90 cm (2-3 ft)
+  habit: Hardy perennial spreading by creeping roots
+  leaves: Alternate, much divided, 5-15 cm long and about 10 cm wide
+  flowers: Round, flat, dull yellow button-like heads in clusters
+  stem: Erect, leafy, grooved and angular
+  root: Creeping
+  flowering_period: August-September
   reference_ids:
-  - REF-0098
+  - REF-3811
   status: verified
 habitat:
-  text: Native to Europe and temperate Asia, widely naturalised elsewhere; grows on roadsides, waste ground,
-    riverbanks and disturbed grassland.
+  text: A hardy perennial widely spread over Europe, familiar in hedgerows and waste places and growing
+    in abundance on marshy ground; often grown in gardens.
   reference_ids:
-  - REF-0098
+  - REF-3811
   status: verified
 harvesting:
-  text: Flowering aerial parts are cut in summer, when in full flower, and dried for external/historical
-    use; given this plant's real toxicity (thujone content) at internal doses, this record does not recommend
-    or describe internal harvesting for medicinal consumption.
+  text: The leaves and tops are used; the plant is cut close above the root when it first comes into flower
+    in August. Given its thujone content, this record does not recommend internal use.
   parts:
-  - Flower
   - Leaf
-  - Stem
-  season: Summer, at full flower
+  - Flower
+  season: August, as flowering begins
   reference_ids:
-  - REF-0098
+  - REF-3811
   status: verified
 harvest_readiness:
 - part: flower
@@ -80,18 +78,19 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3348); the stem is gathered with the flowering tops. Single lineage -> provisional."
 traditional_uses:
-  text: Tansy has a long European history as a strewing herb, insect repellent and, historically, an internal
-    vermifuge and emmenagogue, but its thujone and camphor content make internal medicinal use unsafe
-    by modern standards. Today it is used, with caution, mainly as an external insect repellent; the traditional
-    internal uses are recorded here for historical reference only, not as a recommendation.
+  text: Tansy was a strewing herb said to keep flies away, and its young leaves went into Easter 'tansy'
+    cakes. It was used to expel worms in children, as an emmenagogue, for hysteria, kidney weakness and
+    gout, and externally for eruptive skin diseases and sprains; in large doses it is a violent irritant.
+    These internal uses are recorded for history only, not as a recommendation.
   reference_ids:
-  - REF-0098
+  - REF-3811
   status: verified
 preparations:
-- name: Dried herb (insect repellent, external)
-  text: Dried flowering tops used as a traditional moth/insect deterrent, for example in sachets.
+- name: Strewing herb (fly repellent, external)
+  text: Strewn in rooms as a strewing herb, said to keep flies away, especially mixed with elder leaves;
+    meat rubbed with the plant was said to be left alone by flies.
   reference_ids:
-  - REF-0098
+  - REF-3811
   status: verified
 - name: Essential oil (external, historical)
   text: Used historically as an insect repellent; prolonged skin contact should still be avoided given
@@ -101,13 +100,12 @@ preparations:
   status: verified
 dosage:
 - name: Internal use
-  text: Tansy is NOT recommended for internal use at any dose given its thujone content and documented
-    toxicity (convulsions, liver/kidney damage) - internal use recorded here is for historical reference
-    only. External use (e.g. as an insect repellent) should avoid prolonged skin contact. Educational
-    reference only, not a prescription; strictly avoid in pregnancy.
+  text: Not recommended for internal use at any dose. Grieve records that large doses are a violent irritant
+    and that excessive doses of the essential oil have produced seizures, and Duke lists tansy as abortifacient.
+    Educational reference only, not a prescription; avoid in pregnancy.
   reference_ids:
-  - REF-0098
-  - REF-0187
+  - REF-3811
+  - REF-0063
   status: verified
 constituents:
 - name: Essential oil (thujone, camphor)
@@ -185,14 +183,13 @@ indications:
   reference_ids: []
   status: needs-review
 contraindications:
-- note: 'CAUTION: Tansy is considered toxic in medicinal doses and is NOT recommended for internal use.
-    Thujone can cause convulsions, liver and kidney damage. Contraindicated in pregnancy (uterotonic and
-    abortifacient). External use (as insect repellent) is generally safe. For information and historical
-    reference only - do not use internally.'
+- note: 'CAUTION: Tansy oil is mainly thujone. In large doses tansy is a violent irritant that congests
+    the abdominal organs, and excessive doses of the oil have caused seizures (Grieve); Duke (2002) lists
+    it as abortifacient. Not recommended for internal use; recorded for information only.'
   severity: caution
   reference_ids:
-  - REF-0098
-  - REF-0187
+  - REF-3811
+  - REF-0063
   status: verified
 - note: Duke (2002) rates tansy as ++ but emphasizes important safety concerns. The plant contains thujone
     (a neurotoxic ketone) and camphor, making it potentially toxic with internal use. Documented activities
@@ -203,8 +200,6 @@ contraindications:
     (Duke, 2002).
   severity: caution
   reference_ids:
-  - REF-0098
-  - REF-0187
   - REF-0063
   status: verified
 references:
@@ -272,4 +267,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   parts (external), eruptive skin disease, flatulence, worms - used where it fits. Bloating and
   indigestion dropped: the record''s own safety note says tansy is not recommended internally
   (thujone). Menstrual-cramps and muscle-spasm dropped (Grieve: emmenagogue; nothing names
-  cramps). Fish-parasite study REF-1297 removed from the antimicrobial action.'
+  cramps). Fish-parasite study REF-1297 removed from the antimicrobial action.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0187 (''Orav, Raal &
+  Arak 2006, Essential oil composition of Tanacetum vulgare'', vol 20(12):1129-42) is not in PubMed,
+  Crossref or OpenAlex under that title, author or year (the nearest is Raal et al. 2014, J Essent Oil
+  Bear Plants): removed and deleted. Generic Grieve REF-0098 replaced by Grieve''s Tansy entry
+  REF-3811; the description, habitat, harvest, traditional uses, strewing-herb preparation, dose note
+  and caution are rewritten to what it states. Dropped as unsourced: 50-120 cm, reddish stems, no ray
+  florets, ribbed achenes, temperate Asia, moth sachets, liver and kidney damage.'

@@ -116,29 +116,27 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0048
-  - REF-0098
+  - REF-3761
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0892
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0896
   status: verified
 - action: digestive
   reference_ids:
   - REF-0048
-  - REF-0098
+  - REF-3761
   status: verified
 - action: diuretic
   reference_ids:
   - REF-0048
-  - REF-0098
+  - REF-3761
   status: verified
 indications:
 - condition: indigestion
@@ -148,13 +146,11 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0048
-  - REF-0098
 - condition: infection
   note: Juice with vinegar was a traditional cure for ringworm (Grieve, A Modern Herbal); its compounds
     were active against stomach Helicobacter pylori in the lab (preclinical)
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0892
   - REF-3761
   status: needs-review
@@ -162,20 +158,18 @@ indications:
   note: Traditionally used to cool inflammation (old herbal quoted in Grieve, A Modern Herbal)
   reference_ids:
   - REF-0048
-  - REF-0098
+  - REF-3761
   status: needs-review
 - condition: skin-irritation
   note: Traditionally applied for ringworm and skin complaints (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-3761
   status: needs-review
 - condition: swelling
   note: Traditional diuretic (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-3761
   status: needs-review
 contraindications:
@@ -192,7 +186,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0241
   status: verified
 - note: Duke (2002) rates sorrel as ++ and notes diuretic, antiscorbutic (high vitamin C), and depurative
@@ -204,7 +197,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0048
-  - REF-0098
   - REF-0241
   - REF-0063
   status: verified
@@ -277,4 +269,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   could not be checked). Arthritis, bloating, uti and wounds dropped. Urinary-support dropped: the
   record''s own oxalate warning covers kidney and bladder stones. Genus reviews REF-0897/REF-0898
   removed from actions. Not used: periodontal mouth-rinse RCT REF-0894 (no improvement in
-  periodontal health).'
+  periodontal health).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
+  replaced by Grieve''s Common Sorrel entry REF-3761 where it states the claim (Culpepper: ''to cool
+  any inflammation''; appetite; refrigerant and diuretic) and removed elsewhere. Chevallier REF-0048
+  (print) kept.'

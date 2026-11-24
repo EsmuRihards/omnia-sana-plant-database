@@ -1442,33 +1442,33 @@
     {
      "action": "analgesic",
      "reference_ids": [
-      "REF-0098"
+      "REF-4301"
      ],
      "status": "verified"
     },
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0098",
       "REF-0719",
       "REF-0721",
-      "REF-1690"
+      "REF-1690",
+      "REF-4301"
      ],
      "status": "verified"
     },
     {
      "action": "anti-rheumatic",
      "reference_ids": [
-      "REF-0098",
-      "REF-0719"
+      "REF-0719",
+      "REF-4301"
      ],
      "status": "verified"
     },
     {
      "action": "diuretic",
      "reference_ids": [
-      "REF-0098",
-      "REF-0719"
+      "REF-0719",
+      "REF-4301"
      ],
      "status": "verified"
     }
@@ -1478,7 +1478,7 @@
      "condition": "arthritis",
      "note": "Traditional remedy for gout and aching joints (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-4301"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -1488,7 +1488,7 @@
      "condition": "back-pain",
      "note": "Traditional remedy for sciatic pain (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-4301"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -1498,7 +1498,7 @@
      "condition": "inflammation",
      "note": "Applied traditionally as a fomentation for inflamed parts (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-4301"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -1507,7 +1507,7 @@
     {
      "condition": "pain",
      "reference_ids": [
-      "REF-0098"
+      "REF-4301"
      ],
      "status": "verified",
      "note": "Traditional remedy for joint, gouty and sciatic pain (Grieve, A Modern Herbal)",
@@ -1519,9 +1519,7 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0098"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -1538,9 +1536,7 @@
      "note": "inferred from diuretic action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0098"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Urinary support"
     },
@@ -1549,9 +1545,7 @@
      "note": "inferred from diuretic action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0098"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Urinary tract infection (UTI)"
     }
@@ -1561,7 +1555,6 @@
      "note": "Generally safe as a food plant when young leaves are harvested. Contains furocoumarins (photosensitising compounds) - handling large quantities in bright sunlight may cause skin irritation. Individuals with Apiaceae allergies should exercise caution. Not recommended in therapeutic doses during pregnancy.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0098",
       "REF-0207",
       "REF-2561"
      ],
@@ -1571,7 +1564,6 @@
      "note": "Duke (2002) does not appear to include a dedicated entry for ground elder (Aegopodium podagraria) in the Handbook of Medicinal Herbs, Second Edition.",
      "severity": "info",
      "reference_ids": [
-      "REF-0098",
       "REF-0207",
       "REF-0063"
      ],
@@ -2608,7 +2600,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0113",
-      "REF-0193",
       "REF-0208"
      ],
      "status": "verified"
@@ -2618,7 +2609,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0113",
-      "REF-0193",
       "REF-0208",
       "REF-0063"
      ],
@@ -7225,10 +7215,10 @@
    ],
    "dosage": [
     {
-     "name": "Short-term use only",
-     "text": "Because of its thujone content, traditional herbal references limit internal use to small bitter doses (around 0.5-1 g dried herb per cup) for no more than about 4 weeks at a time. Educational reference only, not a prescription.",
+     "name": "Herbal tea (EU monograph)",
+     "text": "The EU herbal monograph gives, for adults, 1-1.5 g of the cut herb in 150 mL of boiling water as an infusion, 2-3 g a day in all, taken 30 minutes before meals for loss of appetite or after meals for mild indigestion. It is not for under-18s; see a doctor if symptoms last more than 2 weeks. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0098"
+      "REF-3147"
      ],
      "status": "draft"
     }
@@ -7273,7 +7263,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0098",
       "REF-0112",
       "REF-1776"
      ],
@@ -7292,7 +7281,6 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0098",
       "REF-0112",
       "REF-1771",
       "REF-1772",
@@ -7303,17 +7291,16 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0098",
       "REF-0112",
       "REF-0728",
-      "REF-1775"
+      "REF-1775",
+      "REF-4302"
      ],
      "status": "verified"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0098",
       "REF-0112",
       "REF-0728",
       "REF-1771",
@@ -7327,7 +7314,6 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0098",
       "REF-0112"
      ],
      "status": "verified"
@@ -7335,10 +7321,10 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0098",
       "REF-0112",
       "REF-1770",
-      "REF-1774"
+      "REF-1774",
+      "REF-4302"
      ],
      "status": "verified"
     }
@@ -7350,8 +7336,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0098"
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -7360,7 +7345,7 @@
      "condition": "bloating",
      "note": "Traditional bitter for flatulence (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-4302"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -7375,8 +7360,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0098"
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Blood sugar / diabetes support"
@@ -7399,7 +7383,8 @@
      "condition": "indigestion",
      "note": "Traditional bitter for weak digestion (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-4302",
+      "REF-3147"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -7412,7 +7397,7 @@
      "condition": "infection",
      "note": "Traditional antiseptic use (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-4302"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -7427,8 +7412,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0098"
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Inflammation (general)"
@@ -7439,8 +7423,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0098"
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Metabolic support"
@@ -7451,8 +7434,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0098"
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -7463,8 +7445,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0098"
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -7483,11 +7464,11 @@
    ],
    "contraindications": [
     {
-     "note": "CAUTION: Contains thujone, which is neurotoxic in significant amounts. Internal use should be limited in duration and dose - short-term use only (under 4 weeks). Contraindicated in pregnancy (powerful uterine stimulant). Avoid in epilepsy, renal disease, and in children. The small amounts present in properly prepared bitter tinctures and vermouth are generally considered safe. The thujone content of absinthe was historically exaggerated.",
+     "note": "CAUTION: Wormwood oil contains thujone, and in excess wormwood causes giddiness and epileptic-like convulsions (Grieve). The EU herbal monograph contraindicates it in allergy to plants of the daisy family (Asteraceae) and in bile-duct obstruction, cholangitis or liver disease, advises people with gallstones to consult a doctor first, and does not recommend it in pregnancy, breastfeeding or under 18 years; see a doctor if symptoms last more than 2 weeks.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0098",
-      "REF-0112"
+      "REF-4302",
+      "REF-3147"
      ],
      "status": "verified"
     },
@@ -7495,8 +7476,6 @@
      "note": "Duke (2002) rates wormwood as + (use with caution) and provides clinical evidence (score 2) for use as an aperitif and bitter digestive tonic, consistent with Commission E approval for dyspeptic complaints and loss of appetite. The plant contains absinthin and artabsin (bitter sesquiterpene lactones) responsible for digestive stimulation, and also thujone - a neurotoxic ketone that is the active agent responsible for 'absinthism' (historical neurological syndrome linked to absinthe consumption). Duke strongly cautions that thujone content limits safe long-term use, and wormwood should not be taken internally for more than 4 weeks at a time. Strictly contraindicated in pregnancy (abortifacient, neurotoxic) and epilepsy (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0098",
-      "REF-0112",
       "REF-0063"
      ],
      "status": "verified"
@@ -7705,9 +7684,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0023",
-      "REF-0098",
-      "REF-0149",
       "REF-0733",
       "REF-1935",
       "REF-1936",
@@ -7729,9 +7705,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0023",
-      "REF-0098",
-      "REF-0149",
       "REF-0733",
       "REF-1937",
       "REF-1938"
@@ -7741,9 +7714,9 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0023",
-      "REF-0098",
-      "REF-0149"
+      "REF-0732",
+      "REF-1935",
+      "REF-0733"
      ],
      "status": "verified"
     },
@@ -7751,28 +7724,16 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0023",
-      "REF-0098",
-      "REF-0149"
+      "REF-1935",
+      "REF-0733"
      ],
      "status": "verified"
     },
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0023",
-      "REF-0098",
-      "REF-0149",
-      "REF-1935"
-     ],
-     "status": "verified"
-    },
-    {
-     "action": "sedative",
-     "reference_ids": [
-      "REF-0023",
-      "REF-0098",
-      "REF-0149"
+      "REF-1935",
+      "REF-3126"
      ],
      "status": "verified"
     }
@@ -7782,13 +7743,10 @@
      "condition": "arthritis",
      "note": "Burned as moxa for rheumatism in traditional practice (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3210"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0023",
-      "REF-0149"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
@@ -7797,11 +7755,7 @@
      "note": "inferred from digestive action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0023",
-      "REF-0149",
-      "REF-0098"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Bloating"
     },
@@ -7822,13 +7776,10 @@
      "condition": "indigestion",
      "note": "Traditional remedy for stomach disorders (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3126"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0023",
-      "REF-0149"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Indigestion"
     },
@@ -7837,11 +7788,7 @@
      "note": "inferred from antimicrobial action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0023",
-      "REF-0149",
-      "REF-0098"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Infection (general)"
     },
@@ -7852,10 +7799,7 @@
       "REF-0098"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0023",
-      "REF-0149"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
@@ -7864,11 +7808,7 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0023",
-      "REF-0149",
-      "REF-0098"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -7878,10 +7818,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0023",
-      "REF-1937",
-      "REF-0149",
-      "REF-0098"
+      "REF-1937"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -7889,12 +7826,10 @@
    ],
    "contraindications": [
     {
-     "note": "Contains thujone; avoid high doses or prolonged use. Contraindicated in pregnancy (uterine stimulant and abortifacient). May cause allergic reactions in individuals sensitive to the Asteraceae family. Avoid in epilepsy. Not recommended for children.",
+     "note": "Health Canada's monograph says not to use mugwort in pregnancy or while breastfeeding, and to stop use if an allergy occurs.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0023",
-      "REF-0098",
-      "REF-0149"
+      "REF-3126"
      ],
      "status": "verified"
     },
@@ -7902,9 +7837,6 @@
      "note": "Duke (2002) rates mugwort as + (use with caution) and notes abortifacient (score 1), emmenagogue, aperitif (score 1), and insecticide activities. Duke clearly flags mugwort as contraindicated in pregnancy due to well-documented abortifacient and uterotonic properties. Traditional use has been as a digestive bitter, and the plant contains volatile oils, sesquiterpene lactones, and flavonoids. Duke notes that the plant may cause allergic reactions in individuals sensitive to Asteraceae and warns against long-term use due to potential neurotoxicity from thujone-containing essential oil (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0023",
-      "REF-0098",
-      "REF-0149",
       "REF-0063"
      ],
      "status": "verified"
@@ -8086,7 +8018,7 @@
      "reference_ids": [
       "REF-0495",
       "REF-1948",
-      "REF-0098"
+      "REF-4303"
      ],
      "status": "needs-review"
     },
@@ -8096,7 +8028,7 @@
      "reference_ids": [
       "REF-0495",
       "REF-1948",
-      "REF-0098"
+      "REF-4303"
      ],
      "status": "needs-review"
     }
@@ -8130,12 +8062,12 @@
      "condition": "respiratory-support",
      "note": "Traditional remedy for chest complaints and pulmonary catarrh, aiding expectoration (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-4303",
+      "REF-1948"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0495",
-      "REF-1948"
+      "REF-0495"
      ],
      "evidence": 1,
      "label": "Respiratory support"
@@ -22351,7 +22283,6 @@
      "action": "analgesic",
      "reference_ids": [
       "REF-0033",
-      "REF-0098",
       "REF-2031"
      ],
      "status": "verified"
@@ -22361,7 +22292,6 @@
      "reference_ids": [
       "REF-0033",
       "REF-0062",
-      "REF-0098",
       "REF-2030",
       "REF-2031",
       "REF-0815",
@@ -22380,8 +22310,7 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0033",
-      "REF-0098"
+      "REF-0033"
      ],
      "status": "verified"
     },
@@ -22390,7 +22319,6 @@
      "reference_ids": [
       "REF-0033",
       "REF-0062",
-      "REF-0098",
       "REF-0815",
       "REF-2032",
       "REF-2033"
@@ -22401,8 +22329,7 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0033",
-      "REF-0098"
+      "REF-0033"
      ],
      "status": "verified"
     },
@@ -22410,8 +22337,8 @@
      "action": "diuretic",
      "reference_ids": [
       "REF-0033",
-      "REF-0098",
-      "REF-2037"
+      "REF-2037",
+      "REF-3998"
      ],
      "status": "verified"
     },
@@ -22419,7 +22346,6 @@
      "action": "gastroprotective",
      "reference_ids": [
       "REF-0033",
-      "REF-0098",
       "REF-0815"
      ],
      "status": "verified"
@@ -22432,8 +22358,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0033",
-      "REF-0098"
+      "REF-0033"
      ],
      "evidence": 1,
      "label": "Acid reflux"
@@ -22447,7 +22372,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0033",
-      "REF-0098",
       "REF-0062"
      ],
      "evidence": 1,
@@ -22459,8 +22383,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0033",
-      "REF-0098"
+      "REF-0033"
      ],
      "evidence": 1,
      "label": "Back pain"
@@ -22482,8 +22405,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0033",
-      "REF-0098"
+      "REF-0033"
      ],
      "evidence": 1,
      "label": "Headache"
@@ -22494,8 +22416,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0033",
-      "REF-0098"
+      "REF-0033"
      ],
      "evidence": 1,
      "label": "Indigestion"
@@ -22508,8 +22429,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0033",
-      "REF-0098"
+      "REF-0033"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -22521,8 +22441,7 @@
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0033",
-      "REF-0098"
+      "REF-0033"
      ],
      "note": "EU traditional use for minor joint (articular) pain",
      "evidence": 1,
@@ -22535,7 +22454,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0033",
-      "REF-0098",
       "REF-0062"
      ],
      "evidence": 1,
@@ -22545,7 +22463,7 @@
      "condition": "swelling",
      "note": "Traditional remedy for dropsy (fluid retention) (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3998"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -22559,7 +22477,7 @@
      "condition": "urinary-support",
      "note": "Traditional diuretic for urinary complaints (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3998"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -22576,8 +22494,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0033",
-      "REF-0062",
-      "REF-0098"
+      "REF-0062"
      ],
      "status": "verified"
     },
@@ -22587,7 +22504,6 @@
      "reference_ids": [
       "REF-0033",
       "REF-0062",
-      "REF-0098",
       "REF-0063"
      ],
      "status": "verified"
@@ -25134,18 +25050,18 @@
     "Flower"
    ],
    "botanical_description": {
-    "text": "A perennial herb of the rose family, 20-60 cm tall, growing from a thick, reddish, aromatic rhizome that smells of cloves when broken (from its eugenol content) - the source of the name 'chocolate root'. The basal leaves are pinnate with a large terminal lobe, forming a rosette. Its distinctive flowers are nodding (drooping) bells with dull purple-pink to orange sepals and cream-to-pink petals, quite unlike the erect open yellow flowers of its relative wood avens (Geum urbanum). The fruit is a rounded head of achenes, each with a hooked, feathery style that clings to fur and clothing.",
-    "height": "20-60 cm",
-    "habit": "Erect perennial herb from a thick aromatic rhizome",
-    "leaves": "Basal rosette of pinnate leaves with a large terminal lobe; stem leaves smaller, trifoliolate",
-    "flowers": "Nodding, bell-shaped, dull purple-pink to orange sepals with cream-to-pink petals (distinct from the erect yellow flowers of wood avens)",
-    "stem": "Erect, reddish, softly hairy",
-    "root": "Thick reddish rhizome smelling of cloves (eugenol) - the 'chocolate root'",
-    "fruit": "A rounded head of achenes, each with a hooked, feathery style",
+    "text": "Perennial herb about 30 cm tall, stouter than wood avens, with a stem a foot or more high, scarcely branching and with few leaves; the lower stem has bent-back hairs and is downy above. The basal leaves form a rosette and are long-stalked and lobed, with a larger terminal leaflet. The flowers are larger and fewer than in wood avens and droop, the petals forming a compact bell of dull purplish hue with darker veins, the calyces brownish and tinged with purple; the awns are feathery. It flowers from May to September.",
+    "height": "About 30 cm (1 ft) or more",
+    "habit": "Perennial herb with a basal leaf rosette and a scarcely branched flowering stem",
+    "leaves": "Basal rosette of long-stalked, lobed leaves with a larger terminal leaflet; few stem leaves",
+    "flowers": "Drooping, bell-like, dull purplish with darker veins; calyces brownish-purple",
+    "stem": "Scarcely branching, with bent-back hairs below and downy above",
+    "root": "Aromatic, tannin-rich root",
+    "fruit": "Achenes with feathery awns",
     "flowering_period": "May-September",
     "reference_ids": [
-     "REF-2761",
-     "REF-2769"
+     "REF-4002",
+     "REF-3267"
     ],
     "status": "verified"
    },
@@ -25158,16 +25074,13 @@
     "status": "verified"
    },
    "harvesting": {
-    "text": "The reddish rhizome/root is the main medicinal part, dug in spring or autumn and dried carefully to preserve its clove-scented, eugenol-bearing, tannin-rich qualities; the aerial flowering parts are gathered in summer. The root has historically been used both as an astringent medicine and as a flavouring (a coffee/chocolate substitute and to flavour ale).",
+    "text": "The root is best harvested in spring, when it is most fragrant. Much of the fragrance is lost in drying, so dry it carefully and store it in an airtight container in a cool, dry place, slicing and powdering it only when needed.",
     "parts": [
-     "Root",
-     "Rhizome",
-     "Aerial parts"
+     "Root"
     ],
-    "season": "Root/rhizome in spring or autumn; aerial parts in flower (summer)",
+    "season": "Root in spring",
     "reference_ids": [
-     "REF-2765",
-     "REF-2769"
+     "REF-3267"
     ],
     "status": "verified"
    },
@@ -25219,35 +25132,27 @@
     }
    ],
    "traditional_uses": {
-    "text": "Water avens shares the astringent, tannin-based traditional medicine of the avens (Geum) genus. The clove-scented root has been used as an astringent for diarrhoea, dysentery and other bowel complaints, as a gargle and mouth wash for sore throat, mouth ulcers and spongy gums, and as a wash for wounds and skin inflammation. It was also valued as an aromatic bitter tonic and, historically, a febrifuge, and the fragrant root was used to flavour ale and as a coffee/chocolate substitute (hence 'chocolate root').",
+    "text": "Water avens root has tonic and powerfully astringent action and was used, like the common avens, for diarrhoea and passive bleeding. In eastern North America, where it is called Indian chocolate and cure-all, it was a popular remedy for pulmonary consumption, simple dyspepsia and bowel complaints, and was valued as a febrifuge and tonic. A root infusion is taken for diarrhoea and stomach complaints and used externally as a wash for skin eruptions; it is considered less active than wood avens and is seldom used.",
     "reference_ids": [
-     "REF-2769",
-     "REF-2768"
+     "REF-4002",
+     "REF-3267"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Decoction",
-     "text": "The dried root/rhizome simmered in water as an astringent for diarrhoea and as a gargle for sore throat and inflamed gums.",
+     "name": "Root infusion",
+     "text": "An infusion of the root is taken for diarrhoea (also by children) and for stomach and intestinal complaints, and is applied externally as a wash for skin eruptions.",
      "reference_ids": [
-      "REF-2769"
+      "REF-3267",
+      "REF-4002"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion",
-     "text": "The aerial parts or root infused as a milder astringent and aromatic tonic tea.",
-     "reference_ids": [
-      "REF-2769"
-     ],
-     "status": "draft"
     },
     {
      "name": "Gargle / mouthwash",
      "text": "A cooled root decoction used as a gargle/mouthwash for sore throat, mouth ulcers and spongy gums.",
      "reference_ids": [
-      "REF-2769",
       "REF-2771"
      ],
      "status": "draft"
@@ -31424,10 +31329,10 @@
    },
    "preparations": [
     {
-     "name": "Infusion",
-     "text": "The dried flowering herb infused as a tea traditionally taken as an alterative ('blood purifier') for skin complaints and for coughs.",
+     "name": "Decoction",
+     "text": "A decoction of the herb, dry or green, was drunk for coughs, shortness of breath and pleurisy (Culpepper, quoted by Grieve), and a root decoction and an ointment of the juice were used for sores and eruptions.",
      "reference_ids": [
-      "REF-2810"
+      "REF-4008"
      ],
      "status": "draft"
     }
@@ -31478,7 +31383,6 @@
      ],
      "note": "Iridoid glycosides typical of the honeysuckle family (Caprifoliaceae/Dipsacaceae).",
      "reference_ids": [
-      "REF-2810",
       "REF-2815"
      ]
     }
@@ -36360,7 +36264,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1196",
       "REF-1198"
      ],
@@ -36370,7 +36273,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1196",
       "REF-1198",
       "REF-1199"
@@ -36382,7 +36284,6 @@
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1198"
      ],
      "status": "verified"
@@ -36391,7 +36292,6 @@
      "action": "antiviral",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1196",
       "REF-1198",
       "REF-1200"
@@ -36402,7 +36302,6 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1198"
      ],
      "status": "verified"
@@ -36412,7 +36311,6 @@
      "reference_ids": [
       "REF-0112",
       "REF-0134",
-      "REF-0194",
       "REF-1193",
       "REF-1194",
       "REF-1196",
@@ -36430,8 +36328,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0194"
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -36444,7 +36341,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0194",
       "REF-0112"
      ],
      "evidence": 1,
@@ -36457,8 +36353,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1200",
-      "REF-0112",
-      "REF-0194"
+      "REF-0112"
      ],
      "evidence": 1,
      "label": "Cold & flu"
@@ -36471,7 +36366,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0194",
       "REF-0112"
      ],
      "evidence": 1,
@@ -36486,8 +36380,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0194"
+      "REF-0112"
      ],
      "evidence": 7,
      "label": "Infection (general)"
@@ -36498,8 +36391,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0194"
+      "REF-0112"
      ],
      "null_result_ids": [
       "REF-3527"
@@ -36517,7 +36409,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0194",
       "REF-1194",
       "REF-1202",
       "REF-0112",
@@ -36535,7 +36426,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0194",
       "REF-0112"
      ],
      "evidence": 1,
@@ -36547,8 +36437,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112",
-      "REF-0194"
+      "REF-0112"
      ],
      "null_result_ids": [
       "REF-3527"
@@ -36624,8 +36513,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0112",
-      "REF-0134",
-      "REF-0194"
+      "REF-0134"
      ],
      "status": "verified"
     },
@@ -36635,7 +36523,6 @@
      "reference_ids": [
       "REF-0112",
       "REF-0134",
-      "REF-0194",
       "REF-0063"
      ],
      "status": "verified"
@@ -36799,7 +36686,6 @@
      "text": "Standardised peppermint oil in enteric-coated capsules, the clinically studied form for irritable bowel syndrome, releasing the oil in the intestine rather than the stomach.",
      "reference_ids": [
       "REF-1206",
-      "REF-0004",
       "REF-0100"
      ],
      "status": "verified"
@@ -36818,7 +36704,6 @@
      "name": "Enteric-coated oil capsules",
      "text": "Duke (2002) and Commission E guidance: about 0.6 mL enteric-coated oil two to three times daily between meals for IBS-type digestive complaints. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0004",
       "REF-0100"
      ],
      "status": "verified"
@@ -36827,7 +36712,6 @@
      "name": "Dried leaf infusion",
      "text": "Traditional guidance: about 1.5-3 g dried leaf as a tea, up to three times daily for digestive complaints. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0004",
       "REF-0100"
      ],
      "status": "verified"
@@ -37153,7 +37037,6 @@
      "note": "Generally very safe. Essential oil should not be applied to the face or chest of infants or children - menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing drugs. May worsen GERD by relaxing the lower oesophageal sphincter. Avoid in bile duct obstruction and gallstones.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0004",
       "REF-0100"
      ],
      "status": "verified"
@@ -37162,7 +37045,6 @@
      "note": "Duke (2002) rates peppermint as +++ with clinical evidence (score 2) for antispasmodic activity, consistent with Commission E approval for IBS (irritable bowel syndrome) using enteric-coated peppermint oil capsules. Enteric-coated peppermint oil is one of the most clinically validated herbal treatments for IBS, reducing abdominal pain and spasm. Dose: 0.6 ml enteric-coated oil two to three times daily between meals (for IBS); 1.5–3 g dried leaf as tea three times daily for digestive complaints. Peppermint should not be applied near the face or nostrils of infants and small children (risk of laryngospasm from menthol). Contraindicated in cholelithiasis (gallstones) (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0004",
       "REF-0100",
       "REF-0063"
      ],
@@ -42494,7 +42376,6 @@
      "name": "Extract/powder",
      "text": "Guarana products vary widely in caffeine content (the seed is naturally 2-4 times more caffeine-dense than coffee by weight); follow product-specific dosing and apply the same cautions as for a strong caffeine source. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0009",
       "REF-0106",
       "REF-0233"
      ],
@@ -42631,7 +42512,6 @@
      "note": "Guarana contains very high levels of caffeine (2–4 times that of coffee by weight). All the cautions of caffeine apply - avoid in cardiac arrhythmia, hypertension, anxiety disorders, insomnia, and during pregnancy and breastfeeding. Should not be combined with other stimulants, MAOIs, or medications affected by caffeine. Risk of dependence and withdrawal symptoms with prolonged high-dose use.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0009",
       "REF-0106",
       "REF-0233"
      ],
@@ -42641,7 +42521,6 @@
      "note": "Duke (2002) rates guarana as ++ and notes CNS-stimulant, anti-aggregant, diuretic, and thermogenic activities, primarily due to its high caffeine content (3–5%). It has positive chronotropic and inotropic effects on the heart. Duke flags guarana as genotoxic and mutagenic at the experimental level (score 1), which warrants caution with high-dose supplementation. Contraindicated in cardiovascular disease, anxiety disorders, peptic ulcers, and during pregnancy. Interactions include potentiation of other stimulants and anticoagulants (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0009",
       "REF-0106",
       "REF-0233",
       "REF-0063"
@@ -46665,7 +46544,6 @@
       "REF-2912",
       "REF-2884",
       "REF-2887",
-      "REF-0098",
       "REF-0200",
       "REF-0658",
       "REF-0659",
@@ -46679,7 +46557,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0098",
       "REF-0200",
       "REF-0659",
       "REF-2423"
@@ -46692,7 +46569,6 @@
       "REF-2911",
       "REF-2881",
       "REF-2884",
-      "REF-0098",
       "REF-0200",
       "REF-0659",
       "REF-2422",
@@ -46703,7 +46579,6 @@
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0098",
       "REF-0200",
       "REF-0660",
       "REF-0661",
@@ -46720,7 +46595,6 @@
       "REF-2917",
       "REF-2881",
       "REF-2887",
-      "REF-0098",
       "REF-0200",
       "REF-0658",
       "REF-0660",
@@ -46734,9 +46608,9 @@
      "action": "vulnerary",
      "reference_ids": [
       "REF-2921",
-      "REF-0098",
       "REF-0200",
-      "REF-0659"
+      "REF-0659",
+      "REF-4304"
      ],
      "status": "verified"
     },
@@ -46798,7 +46672,6 @@
       "REF-2912",
       "REF-2914",
       "REF-2920",
-      "REF-0098",
       "REF-0200"
      ],
      "evidence": 2,
@@ -46808,7 +46681,7 @@
      "condition": "bruising",
      "note": "Traditional remedy for bruises and wounds (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0098"
+      "REF-4304"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -46827,7 +46700,6 @@
      "mechanistic_exclude_ids": [
       "REF-2424",
       "REF-2881",
-      "REF-0098",
       "REF-0200",
       "REF-0658",
       "REF-0660",
@@ -46845,9 +46717,7 @@
       "REF-0659"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0098"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 2,
      "label": "Infection (general)"
     },
@@ -46862,9 +46732,7 @@
       "REF-0660"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0098"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -46882,7 +46750,6 @@
       "REF-2912",
       "REF-2914",
       "REF-2920",
-      "REF-0098",
       "REF-0200",
       "REF-0659"
      ],
@@ -46894,7 +46761,7 @@
      "note": "Traditional wound herb (Grieve); an extract sped wound healing in animal tests (preclinical)",
      "reference_ids": [
       "REF-2921",
-      "REF-0098"
+      "REF-4304"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -46960,7 +46827,6 @@
      "note": "Generally very safe and well tolerated. No significant known toxicity or drug interactions. Safe for topical and internal use in normal medicinal doses. Suitable for most adults including children in appropriate doses.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0098",
       "REF-0200"
      ],
      "status": "verified"
@@ -46969,7 +46835,6 @@
      "note": "Duke (2002) rates self-heal as +++ and notes antioxidant (score 2), anti-inflammatory, antiviral, and COX-2 inhibitory activities. The plant contains luteolin, rosmarinic acid, and hyperoside - all with well-documented bioactivities. Hepatoprotective activity has been experimentally demonstrated. Duke notes that self-heal has a broad antimicrobial spectrum and an impressive antioxidant profile, supporting its traditional reputation as a versatile wound-healing herb. No significant safety concerns at normal herbal doses (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0098",
       "REF-0200",
       "REF-0063"
      ],
@@ -49108,8 +48973,7 @@
     "text": "Blackcurrant has a long northern-European food-medicine tradition: the vitamin-C- and anthocyanin-rich berries have traditionally been used for colds, flu and general vitality, while the leaf has an official EU traditional-use registration for minor joint pain and as a urinary-tract flush, and the seed oil is valued as a source of gamma-linolenic acid (GLA). Modern research confirms broad antioxidant, anti-inflammatory, immunomodulatory and vasoprotective activity across the fruit, leaf and seed oil.",
     "reference_ids": [
      "REF-0097",
-     "REF-0238",
-     "REF-0302"
+     "REF-0238"
     ],
     "status": "verified"
    },
@@ -49119,8 +48983,7 @@
      "text": "Dried leaf steeped in hot water - the traditional joint-comfort/urinary-flush preparation.",
      "reference_ids": [
       "REF-0097",
-      "REF-0238",
-      "REF-0302"
+      "REF-0238"
      ],
      "status": "verified"
     },
@@ -49140,8 +49003,7 @@
      "text": "EMA-style traditional-use guidance for the leaf suggests roughly 2-4 g dried leaf per cup as an infusion, up to three times daily, for short-term joint or urinary support (not recommended under 18, or with fluid retention linked to heart/kidney disease). Berries and juice are food-safe at normal dietary amounts. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-0097",
-      "REF-0238",
-      "REF-0302"
+      "REF-0238"
      ],
      "status": "verified"
     }
@@ -49329,8 +49191,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0097",
-      "REF-0238",
-      "REF-0302"
+      "REF-0238"
      ],
      "status": "verified"
     },
@@ -49340,7 +49201,6 @@
      "reference_ids": [
       "REF-0097",
       "REF-0238",
-      "REF-0302",
       "REF-0063"
      ],
      "status": "verified"
@@ -50699,7 +50559,7 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0048",
-      "REF-0098"
+      "REF-3761"
      ],
      "status": "verified"
     },
@@ -50707,7 +50567,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-0892"
      ],
      "status": "verified"
@@ -50716,7 +50575,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-0896"
      ],
      "status": "verified"
@@ -50725,7 +50583,7 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0048",
-      "REF-0098"
+      "REF-3761"
      ],
      "status": "verified"
     },
@@ -50733,7 +50591,7 @@
      "action": "diuretic",
      "reference_ids": [
       "REF-0048",
-      "REF-0098"
+      "REF-3761"
      ],
      "status": "verified"
     }
@@ -50747,8 +50605,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0048",
-      "REF-0098"
+      "REF-0048"
      ],
      "evidence": 2,
      "label": "Indigestion"
@@ -50758,7 +50615,6 @@
      "note": "Juice with vinegar was a traditional cure for ringworm (Grieve, A Modern Herbal); its compounds were active against stomach Helicobacter pylori in the lab (preclinical)",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-0892",
       "REF-3761"
      ],
@@ -50771,7 +50627,7 @@
      "note": "Traditionally used to cool inflammation (old herbal quoted in Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0048",
-      "REF-0098"
+      "REF-3761"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -50782,7 +50638,6 @@
      "note": "Traditionally applied for ringworm and skin complaints (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-3761"
      ],
      "status": "needs-review",
@@ -50794,7 +50649,6 @@
      "note": "Traditional diuretic (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-3761"
      ],
      "status": "needs-review",
@@ -50808,7 +50662,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-0241"
      ],
      "status": "verified"
@@ -50818,7 +50671,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-0241",
       "REF-0063"
      ],
@@ -52147,8 +51999,7 @@
      "text": "Dried leaf steeped in hot water, for digestive complaints.",
      "reference_ids": [
       "REF-0112",
-      "REF-0173",
-      "REF-0194"
+      "REF-0173"
      ],
      "status": "verified"
     },
@@ -52167,8 +52018,7 @@
      "text": "Commission E approves rosemary for dyspeptic complaints (internal use) and, externally, for rheumatic conditions and circulatory problems; typical internal use is roughly 2-4 g dried leaf as tea, up to three times daily. Educational reference only, not a prescription; avoid concentrated essential oil internally and in pregnancy/epilepsy.",
      "reference_ids": [
       "REF-0112",
-      "REF-0173",
-      "REF-0194"
+      "REF-0173"
      ],
      "status": "verified"
     }
@@ -52202,7 +52052,6 @@
      ],
      "note": "Contribute to antioxidant, anti-inflammatory and cognitive-supportive activity.",
      "reference_ids": [
-      "REF-0194",
       "REF-1283"
      ]
     }
@@ -52212,7 +52061,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1283",
       "REF-1285"
      ],
@@ -52229,7 +52077,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1283",
       "REF-1286"
      ],
@@ -52239,7 +52086,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1283"
      ],
      "status": "verified"
@@ -52248,8 +52094,7 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0112",
-      "REF-0194"
+      "REF-0112"
      ],
      "status": "verified"
     },
@@ -52257,7 +52102,6 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1292"
      ],
      "status": "verified"
@@ -52267,7 +52111,6 @@
      "reference_ids": [
       "REF-0112",
       "REF-0173",
-      "REF-0194",
       "REF-1287",
       "REF-1290",
       "REF-1291"
@@ -52280,8 +52123,7 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0112",
-      "REF-0194"
+      "REF-0112"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -52297,9 +52139,7 @@
       "REF-0112"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0194"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Bloating"
     },
@@ -52334,7 +52174,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0194",
       "REF-1287"
      ],
      "evidence": 9,
@@ -52347,9 +52186,7 @@
       "REF-0112"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0194"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Indigestion"
     },
@@ -52357,8 +52194,7 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0112",
-      "REF-0194"
+      "REF-0112"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -52369,7 +52205,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-1285"
      ],
      "status": "needs-review",
@@ -52387,7 +52222,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0194",
       "REF-1287"
      ],
      "evidence": 9,
@@ -52400,9 +52234,7 @@
       "REF-0112"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0194"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Menstrual cramps"
     },
@@ -52410,8 +52242,7 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0112",
-      "REF-0194"
+      "REF-0112"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -52425,7 +52256,6 @@
      "note": "A rosemary cream improved episiotomy wound healing in a randomized trial",
      "reference_ids": [
       "REF-0112",
-      "REF-0194",
       "REF-3755"
      ],
      "status": "needs-review",
@@ -52485,8 +52315,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0112",
-      "REF-0173",
-      "REF-0194"
+      "REF-0173"
      ],
      "status": "verified"
     },
@@ -52496,7 +52325,6 @@
      "reference_ids": [
       "REF-0112",
       "REF-0173",
-      "REF-0194",
       "REF-0063"
      ],
      "status": "verified"
@@ -55974,7 +55802,8 @@
      "name": "Fresh leaf poultice/salve",
      "text": "Crushed fresh herb, or an infused oil/salve, applied to itchy, irritated or inflamed skin.",
      "reference_ids": [
-      "REF-0048"
+      "REF-0048",
+      "REF-3787"
      ],
      "status": "verified"
     }
@@ -55985,7 +55814,6 @@
      "text": "Chickweed is generally used topically as a salve or poultice for skin irritation, or as a mild infusion (roughly 2-4 g dried herb per cup); large quantities as food should be moderated given its oxalate content. Educational reference only, not a prescription.",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-0245"
      ],
      "status": "verified"
@@ -56026,7 +55854,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-0900",
       "REF-0903",
       "REF-0904",
@@ -56048,7 +55875,7 @@
      "action": "emollient",
      "reference_ids": [
       "REF-0048",
-      "REF-0098"
+      "REF-3787"
      ],
      "status": "verified"
     }
@@ -56061,8 +55888,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0903",
-      "REF-0048",
-      "REF-0098"
+      "REF-0048"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -56084,9 +55910,7 @@
       "REF-3787"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0098"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -56099,8 +55923,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0903",
-      "REF-0098"
+      "REF-0903"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -56112,7 +55935,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-0245"
      ],
      "status": "verified"
@@ -56122,7 +55944,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0048",
-      "REF-0098",
       "REF-0245",
       "REF-0063"
      ],
@@ -57276,37 +57097,35 @@
     "Stem"
    ],
    "botanical_description": {
-    "text": "Aromatic perennial herb (Asteraceae), 50-120 cm tall, with erect, reddish, ridged stems. Leaves are finely divided, fern-like and strongly camphor-scented. Flat-topped clusters of small, yellow, button-like flower heads lack ray florets (petals).",
-    "height": "50-120 cm",
-    "habit": "Erect, aromatic perennial herb",
-    "leaves": "Finely divided, fern-like, strongly camphor-scented",
-    "flowers": "Small, yellow, button-like heads with no ray florets, in flat-topped clusters",
-    "stem": "Erect, reddish, ridged",
-    "root": "Spreading rhizomatous root system",
-    "fruit": "Small ribbed achenes (typical Asteraceae)",
-    "flowering_period": "July-September",
+    "text": "Hardy perennial with creeping roots and an erect, leafy, grooved and angular stem about 60-90 cm (2-3 ft) high. The leaves are alternate and much cut, 5-15 cm long. In August and September it bears clusters of round, flat, dull yellow flower heads ('buttons'). The plant has a curious, camphor-like smell.",
+    "height": "60-90 cm (2-3 ft)",
+    "habit": "Hardy perennial spreading by creeping roots",
+    "leaves": "Alternate, much divided, 5-15 cm long and about 10 cm wide",
+    "flowers": "Round, flat, dull yellow button-like heads in clusters",
+    "stem": "Erect, leafy, grooved and angular",
+    "root": "Creeping",
+    "flowering_period": "August-September",
     "reference_ids": [
-     "REF-0098"
+     "REF-3811"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to Europe and temperate Asia, widely naturalised elsewhere; grows on roadsides, waste ground, riverbanks and disturbed grassland.",
+    "text": "A hardy perennial widely spread over Europe, familiar in hedgerows and waste places and growing in abundance on marshy ground; often grown in gardens.",
     "reference_ids": [
-     "REF-0098"
+     "REF-3811"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Flowering aerial parts are cut in summer, when in full flower, and dried for external/historical use; given this plant's real toxicity (thujone content) at internal doses, this record does not recommend or describe internal harvesting for medicinal consumption.",
+    "text": "The leaves and tops are used; the plant is cut close above the root when it first comes into flower in August. Given its thujone content, this record does not recommend internal use.",
     "parts": [
-     "Flower",
      "Leaf",
-     "Stem"
+     "Flower"
     ],
-    "season": "Summer, at full flower",
+    "season": "August, as flowering begins",
     "reference_ids": [
-     "REF-0098"
+     "REF-3811"
     ],
     "status": "verified"
    },
@@ -57358,18 +57177,18 @@
     }
    ],
    "traditional_uses": {
-    "text": "Tansy has a long European history as a strewing herb, insect repellent and, historically, an internal vermifuge and emmenagogue, but its thujone and camphor content make internal medicinal use unsafe by modern standards. Today it is used, with caution, mainly as an external insect repellent; the traditional internal uses are recorded here for historical reference only, not as a recommendation.",
+    "text": "Tansy was a strewing herb said to keep flies away, and its young leaves went into Easter 'tansy' cakes. It was used to expel worms in children, as an emmenagogue, for hysteria, kidney weakness and gout, and externally for eruptive skin diseases and sprains; in large doses it is a violent irritant. These internal uses are recorded for history only, not as a recommendation.",
     "reference_ids": [
-     "REF-0098"
+     "REF-3811"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Dried herb (insect repellent, external)",
-     "text": "Dried flowering tops used as a traditional moth/insect deterrent, for example in sachets.",
+     "name": "Strewing herb (fly repellent, external)",
+     "text": "Strewn in rooms as a strewing herb, said to keep flies away, especially mixed with elder leaves; meat rubbed with the plant was said to be left alone by flies.",
      "reference_ids": [
-      "REF-0098"
+      "REF-3811"
      ],
      "status": "verified"
     },
@@ -57385,10 +57204,10 @@
    "dosage": [
     {
      "name": "Internal use",
-     "text": "Tansy is NOT recommended for internal use at any dose given its thujone content and documented toxicity (convulsions, liver/kidney damage) - internal use recorded here is for historical reference only. External use (e.g. as an insect repellent) should avoid prolonged skin contact. Educational reference only, not a prescription; strictly avoid in pregnancy.",
+     "text": "Not recommended for internal use at any dose. Grieve records that large doses are a violent irritant and that excessive doses of the essential oil have produced seizures, and Duke lists tansy as abortifacient. Educational reference only, not a prescription; avoid in pregnancy.",
      "reference_ids": [
-      "REF-0098",
-      "REF-0187"
+      "REF-3811",
+      "REF-0063"
      ],
      "status": "verified"
     }
@@ -57521,11 +57340,11 @@
    ],
    "contraindications": [
     {
-     "note": "CAUTION: Tansy is considered toxic in medicinal doses and is NOT recommended for internal use. Thujone can cause convulsions, liver and kidney damage. Contraindicated in pregnancy (uterotonic and abortifacient). External use (as insect repellent) is generally safe. For information and historical reference only - do not use internally.",
+     "note": "CAUTION: Tansy oil is mainly thujone. In large doses tansy is a violent irritant that congests the abdominal organs, and excessive doses of the oil have caused seizures (Grieve); Duke (2002) lists it as abortifacient. Not recommended for internal use; recorded for information only.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0098",
-      "REF-0187"
+      "REF-3811",
+      "REF-0063"
      ],
      "status": "verified"
     },
@@ -57533,8 +57352,6 @@
      "note": "Duke (2002) rates tansy as ++ but emphasizes important safety concerns. The plant contains thujone (a neurotoxic ketone) and camphor, making it potentially toxic with internal use. Documented activities include emmenagogue, abortifacient (score 1), and insecticide. Duke strongly cautions against internal use except under professional supervision, noting that historical cases of tansy poisoning have resulted in convulsions and death. Topical use as an insect repellent is safer but should still avoid prolonged skin contact due to the essential oil's sensitizing potential. Strictly contraindicated in pregnancy (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0098",
-      "REF-0187",
       "REF-0063"
      ],
      "status": "verified"
@@ -59749,8 +59566,7 @@
      "reference_ids": [
       "REF-0017",
       "REF-0031",
-      "REF-0251",
-      "REF-0275"
+      "REF-0251"
      ],
      "status": "verified"
     },
@@ -59761,7 +59577,6 @@
       "REF-0017",
       "REF-0031",
       "REF-0251",
-      "REF-0275",
       "REF-0063"
      ],
      "status": "verified"

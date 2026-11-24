@@ -162,7 +162,6 @@ contraindications:
   - REF-0017
   - REF-0031
   - REF-0251
-  - REF-0275
   status: verified
 - note: According to Duke (2002), ajowan essential oil is fungitoxic at 500 ppm and possesses spasmogenic
     activity. The oil is rich in thymol, which may be responsible for many of the plant's biological activities
@@ -173,7 +172,6 @@ contraindications:
   - REF-0017
   - REF-0031
   - REF-0251
-  - REF-0275
   - REF-0063
   status: verified
 references:
@@ -214,4 +212,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   study REF-0275 removed from oral-health and the digestive action. Asthma bronchodilator study
   REF-3803 added. New pair (owner rule): pain (held placebo RCT REF-1920; dental-injection RCT
   REF-3801; CIPN pilot REF-3802 no-effect). Gap: functional dyspepsia RCT 29299438 used an Apium +
-  ajwain combination.'
+  ajwain combination.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0275 (Shova 2020, ajwain
+  GC-MS/antibacterial/brine shrimp study) gets its DOI and correct authors; it states no cautions, so
+  it is removed from both and kept in the references.'

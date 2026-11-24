@@ -105,11 +105,12 @@ traditional_uses:
   - REF-3280
   status: verified
 preparations:
-- name: Infusion
-  text: The dried flowering herb infused as a tea traditionally taken as an alterative ('blood purifier')
-    for skin complaints and for coughs.
+- name: Decoction
+  text: A decoction of the herb, dry or green, was drunk for coughs, shortness of breath and pleurisy
+    (Culpepper, quoted by Grieve), and a root decoction and an ointment of the juice were used for sores
+    and eruptions.
   reference_ids:
-  - REF-2810
+  - REF-4008
   status: draft
 - name: Wash / poultice
   text: A strong infusion or the crushed herb applied externally to eczema, itching, cuts and sores (traditional).
@@ -151,7 +152,6 @@ constituents:
   - iridoid-glycoside
   note: Iridoid glycosides typical of the honeysuckle family (Caprifoliaceae/Dipsacaceae).
   reference_ids:
-  - REF-2810
   - REF-2815
 actions:
 - action: alterative
@@ -230,4 +230,10 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. REF-2814 studies
   Turkish Scabiosa species (S. columbaria, S. triniifolia), not Knautia arvensis - purged and
   deleted. No sourced activity remains.
-  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting cited only REF-2808 and traditional_uses only REF-2810 (lab studies). RE-SOURCED: Grieve Field Scabious (REF-4008, new) + PFAF REF-3280. Dropped as unsupported: 25-100 cm, honeysuckle family, lyre-shaped lower leaves, heads 3-4 cm, hairy (not scaly) receptacle, western Asia and Africa, root dug in autumn, best cut from established plants, sore throats, the phenolic/flavonoid/saponin chemistry shared with Scabiosa and Dipsacus (not a traditional use, and genus-level).'
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting cited only REF-2808 and traditional_uses only REF-2810 (lab studies). RE-SOURCED: Grieve Field Scabious (REF-4008, new) + PFAF REF-3280. Dropped as unsupported: 25-100 cm, honeysuckle family, lyre-shaped lower leaves, heads 3-4 cm, hairy (not scaly) receptacle, western Asia and Africa, root dug in autumn, best cut from established plants, sore throats, the phenolic/flavonoid/saponin chemistry shared with Scabiosa and Dipsacus (not a traditional use, and genus-level).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-2810 (Plouvier 1971,
+  PMID 4994986) now has its PMID and its real title: it names knautioside and a saponoside from
+  Knautia arvensis, so it stays on the saponin constituent; it gives catalpol (an iridoid) only for
+  Paulownia and Catalpa, so it is removed from the iridoid constituent. The infusion preparation it
+  carried is now a decoction sourced to Grieve''s Field Scabious (REF-4008); ''blood purifier'' and
+  ''infused tea'' were not in any source.'

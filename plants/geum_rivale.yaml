@@ -180,12 +180,12 @@ constituents:
   reference_ids:
   - REF-2762
   - REF-2776
-- name: Essential oil - eugenol
+- name: Essential oil (cis-myrtanal in the root)
   compounds:
   - essential-oil
-  - eugenol
-  note: The root essential oil is dominated by eugenol, giving the clove-like scent (shared with clove)
-    and antiseptic, mild-anaesthetic character.
+  note: The root essential oil is dominated by cis-myrtanal (53.3%) and the oil of the aerial parts by
+    1-octen-3-ol (33.9%); eugenol is the main root-oil compound of wood avens (G. urbanum), not of water
+    avens.
   reference_ids:
   - REF-2765
 actions:
@@ -387,4 +387,8 @@ internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum 
   Dropped: 20-60 cm, clove smell from eugenol (REF-2765 finds eugenol as the main root-oil compound of
   G. urbanum, not of G. rivale), hooked styles (Grieve: awns feathery, not hooked), ale flavouring,
   gargle for sore throat, decoction. The draft infusion of aerial parts is left unsourced and stays
-  withheld.'
+  withheld.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): the eugenol constituent
+  contradicted its own source: REF-2765 gives cis-myrtanal (53.3%) as the main root-oil compound of G.
+  rivale and eugenol (69.2%) for G. urbanum. Rewritten to what it states; the clove-scent and
+  mild-anaesthetic claims are dropped.'

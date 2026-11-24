@@ -146,6 +146,7 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0048
+  - REF-3761
 - condition: infection
   note: Juice with vinegar was a traditional cure for ringworm (Grieve, A Modern Herbal); its compounds
     were active against stomach Helicobacter pylori in the lab (preclinical)

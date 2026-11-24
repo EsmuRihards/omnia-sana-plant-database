@@ -107,24 +107,23 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0256
-  - REF-0309
   - REF-2022
   - REF-2023
+  - REF-4306
   status: verified
 - action: antifungal
   reference_ids:
   - REF-0256
-  - REF-0309
+  - REF-4306
   status: verified
 - action: antimalarial
   reference_ids:
   - REF-0256
-  - REF-0309
+  - REF-4306
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0256
-  - REF-0309
   - REF-0810
   - REF-2023
   - REF-0809
@@ -133,11 +132,11 @@ actions:
   - REF-2026
   - REF-2028
   - REF-2029
+  - REF-4306
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0256
-  - REF-0309
   - REF-2023
   - REF-0809
   - REF-2025
@@ -146,7 +145,6 @@ actions:
 - action: immunomodulator
   reference_ids:
   - REF-0256
-  - REF-0309
   - REF-0811
   status: verified
 indications:
@@ -156,11 +154,10 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0256
-  - REF-0309
+  - REF-4306
 - condition: cold
-  note: Used for cough associated with colds (EU herbal monograph; WHO monograph)
+  note: Used for cough associated with colds (EU herbal monograph)
   reference_ids:
-  - REF-0309
   - REF-3083
   status: needs-review
   mechanistic_exclude_ids:
@@ -169,8 +166,7 @@ indications:
   reference_ids:
   - REF-0256
   status: verified
-  mechanistic_exclude_ids:
-  - REF-0309
+  mechanistic_exclude_ids: []
   note: Eucalyptus oil stimulated innate immune cells in lab studies (review)
 - condition: infection
   note: Eucalyptus oil is antibacterial, antifungal and antiviral in lab studies (review)
@@ -178,20 +174,20 @@ indications:
   - REF-0256
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0309
+  - REF-4306
 - condition: inflammation
   note: Eucalyptus oil reduced inflammation in lab and animal studies (review)
   reference_ids:
   - REF-0256
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0309
+  - REF-4306
 - condition: respiratory-support
   reference_ids:
   - REF-0256
-  - REF-0309
   - REF-3083
   - REF-3555
+  - REF-4306
   status: verified
   note: Used for catarrh and cough of the upper airways (EU herbal monograph; WHO monograph); cineole,
     its main compound, reduced COPD flare-ups vs placebo in a randomized trial
@@ -201,14 +197,14 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0256
-  - REF-0309
+  - REF-4306
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0309
   - REF-0256
+  - REF-4306
 - condition: asthma
   note: 'Added to usual treatment, 1,8-cineole allowed steroid reduction and improved lung function in
     placebo-controlled asthma trials (compound evidence: 1,8-cineole (eucalyptol) is eucalyptus oil''s
@@ -237,7 +233,6 @@ contraindications:
   reference_ids:
   - REF-0224
   - REF-0256
-  - REF-0309
   status: verified
 - note: Duke (2002) provides clinical evidence (score 2) for eucalyptus as an expectorant and topical
     hyperemic (rubefacient), consistent with Commission E approval. Clinical evidence also supports its
@@ -249,7 +244,6 @@ contraindications:
   reference_ids:
   - REF-0224
   - REF-0256
-  - REF-0309
   - REF-0063
   status: verified
 references:
@@ -309,4 +303,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   RCTs added (signature compound, labelled; inv. 10): asthma REF-3552/REF-3553 (new pair, owner
   rule), acute sinusitis REF-3554 (new pair), COPD exacerbations REF-3555 (respiratory-support).
   Notes rewritten. Not added: eucalyptus cough MA 35294302 ("efficacy minimal and of uncertain
-  clinical importance") - no cough pair; recorded here as a negative finding for the owner.'
+  clinical importance") - no cough pair; recorded here as a negative finding for the owner.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic WHO vol. 2 citation
+  REF-0309 replaced by a new Folium Eucalypti entry REF-4306 where it states the claim
+  (anti-inflammatory for mild respiratory inflammation, antifungal and antibacterial activity, malaria
+  as a folk use, respiratory catarrh and bronchitis) and removed elsewhere (antioxidant,
+  immunomodulator, colds, the essential-oil cautions).'

@@ -194,14 +194,14 @@ indications:
 - condition: skin-irritation
   note: Applied externally for inflammatory skin conditions (WHO monograph)
   reference_ids:
-  - REF-0308
+  - REF-3988
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2018
 - condition: wounds
   note: Applied externally to aid wound healing (WHO monograph)
   reference_ids:
-  - REF-0308
+  - REF-3988
   status: needs-review
 - condition: eczema
   note: A cream with Echinacea purpurea alkylamides eased atopic eczema symptoms and restored the skin
@@ -214,7 +214,7 @@ contraindications:
     for long-term use (more than 8 weeks continuously).
   severity: caution
   reference_ids:
-  - REF-0308
+  - REF-3988
   status: verified
 - note: 'Duke (2002) rates echinacea as +++ - among the most thoroughly documented herbal immunostimulants.
     It notes experimental and clinical evidence for immunostimulant, antiviral, and anti-inflammatory
@@ -225,7 +225,6 @@ contraindications:
     (MS, lupus, HIV/AIDS), tuberculosis, and with immunosuppressive drugs (cyclosporine) (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0308
   - REF-0063
   status: verified
 references:
@@ -292,4 +291,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   could not be accurately assessed") and REF-2014 removed from the antimicrobial action. Immune
   RCT REF-3543 and held RCT REF-2013 to immune-support. New eczema pair from alkylamide cream RCT
   REF-3544 (owner rule).
-  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] cited only REF-0797 (Cochrane cold review; abstract gives no form or dose). RE-SOURCED: WHO Herba Echinaceae Purpureae vol. 1 (REF-3988, new); REF-0797 kept for its point that products differ in composition. Dropped as unsupported: root extract, tablets/drops/capsules at the first sign of a cold, best-studied form, 300-900 mg a day for 7-10 days.'
+  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] cited only REF-0797 (Cochrane cold review; abstract gives no form or dose). RE-SOURCED: WHO Herba Echinaceae Purpureae vol. 1 (REF-3988, new); REF-0797 kept for its point that products differ in composition. Dropped as unsupported: root extract, tablets/drops/capsules at the first sign of a cold, best-studied form, 300-900 mg a day for 7-10 days.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic WHO vol. 1 citation
+  REF-0308 replaced by the Herba Echinaceae Purpureae entry REF-3988 (external use for wounds and
+  inflammatory skin conditions; not in autoimmune disease; no more than 8 weeks) and removed from the
+  Duke note.'

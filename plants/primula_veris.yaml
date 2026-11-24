@@ -139,10 +139,6 @@ constituents:
   - REF-0871
   - REF-0873
 actions:
-- action: anti-inflammatory
-  reference_ids:
-  - REF-0075
-  status: verified
 - action: antioxidant
   reference_ids:
   - REF-0075
@@ -150,10 +146,6 @@ actions:
   - REF-0873
   - REF-0876
   - REF-0879
-  status: verified
-- action: sedative
-  reference_ids:
-  - REF-0075
   status: verified
 indications:
 - condition: respiratory-support
@@ -234,4 +226,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Respiratory-support rests on the EU monograph REF-0075 (expectorant in cough associated with
   cold; EMA 429, flagged). Gap for owner: no cough pair and no expectorant action, though EMA and
   ESCOP (2021) both name cough with colds.
-  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-0879 (lab study). RE-SOURCED: Grieve Cowslip (REF-4016, new) + PFAF REF-3315. Dropped as unsupported: wrinkled softly hairy leaves tapering to a winged stalk, one-sided nodding umbel, funnel-shaped flowers with orange throat spots, short rhizome, capsule, western Asia, unimproved species-rich grassland, hedge banks.'
+  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-0879 (lab study). RE-SOURCED: Grieve Cowslip (REF-4016, new) + PFAF REF-3315. Dropped as unsupported: wrinkled softly hairy leaves tapering to a winged stalk, one-sided nodding umbel, funnel-shaped flowers with orange throat spots, short rhizome, capsule, western Asia, unimproved species-rich grassland, hedge banks.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0075 is the EU monograph
+  on Primula veris/elatior root (title and link corrected). It states only use as an expectorant in
+  cough with a cold, so the anti-inflammatory and sedative actions it alone carried are removed (no
+  other source on the record names them); the respiratory pair keeps it.'

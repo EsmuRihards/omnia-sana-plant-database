@@ -177,7 +177,8 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids: []
+  mechanistic_exclude_ids:
+  - REF-4301
 - condition: swelling
   note: inferred from diuretic action
   reference_ids: []
@@ -186,12 +187,14 @@ indications:
   note: inferred from diuretic action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids: []
+  mechanistic_exclude_ids:
+  - REF-4301
 - condition: uti
   note: inferred from diuretic action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids: []
+  mechanistic_exclude_ids:
+  - REF-4301
 contraindications:
 - note: Generally safe as a food plant when young leaves are harvested. Contains furocoumarins (photosensitising
     compounds) - handling large quantities in bright sunlight may cause skin irritation. Individuals with

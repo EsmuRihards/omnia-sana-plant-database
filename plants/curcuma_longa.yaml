@@ -151,7 +151,7 @@ indications:
 - condition: acid-reflux
   note: Traditional remedy for acid dyspepsia (WHO monograph)
   reference_ids:
-  - REF-0308
+  - REF-3959
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0002
@@ -182,14 +182,14 @@ indications:
 - condition: indigestion
   note: Traditional remedy for dyspepsia (WHO monograph)
   reference_ids:
-  - REF-0308
+  - REF-3959
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0002
 - condition: infection
-  note: Traditional remedy for ringworm (WHO monograph); antimicrobial activity in lab studies (review)
+  note: Traditional remedy for ringworm (WHO monograph)
   reference_ids:
-  - REF-0308
+  - REF-3959
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0002
@@ -387,4 +387,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   phytovigilance 7 cases + SR of 23 case reports REF-3651; US DILIN 10 cases, 1 death, HLA-B*35:01
   in 7 REF-3652; 2025 histopathology series of 11 REF-3653. The record previously carried no
   liver-injury warning.
-  | 2026-11-19 (monograph-source audit): botanical_description, preparations[0] and dosage[0] cited only REF-0791 (arthritis meta-analysis), which does not describe the plant. botanical_description RE-SOURCED to the WHO monograph Rhizoma Curcumae Longae vol. 1 (REF-3959, new; archive.org text) and Useful Tropical Plants REF-3242 (short stem, 6-10 tufted leaves). Dropped as unsupported: leaves in a clump, pink bracts, pseudostem of leaf bases, rarely sets seed, flowering summer to early autumn. preparations[0]/dosage[0] rewritten to what REF-0791 states (curcumin or C. longa extract, 120-1500 mg/day for 4-36 weeks in 29 RCTs; the old 1000-1500 mg was not in the abstract) and the piperine clause now cites Shoba 1998 REF-0273 (20 mg piperine raised curcumin bioavailability 2000%). Dropped: standardised to curcuminoids, capsules.'
+  | 2026-11-19 (monograph-source audit): botanical_description, preparations[0] and dosage[0] cited only REF-0791 (arthritis meta-analysis), which does not describe the plant. botanical_description RE-SOURCED to the WHO monograph Rhizoma Curcumae Longae vol. 1 (REF-3959, new; archive.org text) and Useful Tropical Plants REF-3242 (short stem, 6-10 tufted leaves). Dropped as unsupported: leaves in a clump, pink bracts, pseudostem of leaf bases, rarely sets seed, flowering summer to early autumn. preparations[0]/dosage[0] rewritten to what REF-0791 states (curcumin or C. longa extract, 120-1500 mg/day for 4-36 weeks in 29 RCTs; the old 1000-1500 mg was not in the abstract) and the piperine clause now cites Shoba 1998 REF-0273 (20 mg piperine raised curcumin bioavailability 2000%). Dropped: standardised to curcuminoids, capsules.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic WHO vol. 1 citation
+  REF-0308 replaced by the turmeric monograph entry REF-3959 on acid-reflux (acid dyspepsia),
+  indigestion (dyspepsia) and infection (ringworm, folk use); the infection note no longer claims a
+  lab review it never cited. The wounds pair is left on REF-0308 for owner review: the WHO turmeric
+  monograph does not mention wounds.'

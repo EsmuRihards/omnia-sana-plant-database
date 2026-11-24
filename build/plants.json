@@ -1519,7 +1519,9 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
+     "mechanistic_exclude_ids": [
+      "REF-4301"
+     ],
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -1536,7 +1538,9 @@
      "note": "inferred from diuretic action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
+     "mechanistic_exclude_ids": [
+      "REF-4301"
+     ],
      "evidence": 1,
      "label": "Urinary support"
     },
@@ -1545,7 +1549,9 @@
      "note": "inferred from diuretic action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
+     "mechanistic_exclude_ids": [
+      "REF-4301"
+     ],
      "evidence": 1,
      "label": "Urinary tract infection (UTI)"
     }
@@ -7445,7 +7451,8 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0112"
+      "REF-0112",
+      "REF-4302"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -17390,7 +17397,7 @@
      "condition": "acid-reflux",
      "note": "Traditional remedy for acid dyspepsia (WHO monograph)",
      "reference_ids": [
-      "REF-0308"
+      "REF-3959"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -17440,7 +17447,7 @@
      "condition": "indigestion",
      "note": "Traditional remedy for dyspepsia (WHO monograph)",
      "reference_ids": [
-      "REF-0308"
+      "REF-3959"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -17451,9 +17458,9 @@
     },
     {
      "condition": "infection",
-     "note": "Traditional remedy for ringworm (WHO monograph); antimicrobial activity in lab studies (review)",
+     "note": "Traditional remedy for ringworm (WHO monograph)",
      "reference_ids": [
-      "REF-0308"
+      "REF-3959"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -19178,7 +19185,7 @@
      "condition": "skin-irritation",
      "note": "Applied externally for inflammatory skin conditions (WHO monograph)",
      "reference_ids": [
-      "REF-0308"
+      "REF-3988"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -19191,7 +19198,7 @@
      "condition": "wounds",
      "note": "Applied externally to aid wound healing (WHO monograph)",
      "reference_ids": [
-      "REF-0308"
+      "REF-3988"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -19213,7 +19220,7 @@
      "note": "Generally considered safe, but caution advised for those with autoimmune conditions. Not recommended for long-term use (more than 8 weeks continuously).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0308"
+      "REF-3988"
      ],
      "status": "verified"
     },
@@ -19221,7 +19228,6 @@
      "note": "Duke (2002) rates echinacea as +++ - among the most thoroughly documented herbal immunostimulants. It notes experimental and clinical evidence for immunostimulant, antiviral, and anti-inflammatory activities. Multiple species have been studied (E. purpurea, E. angustifolia, E. pallida), and Duke emphasizes that species identification in commercial products is often unreliable. Commission E approves E. purpurea for supporting immune function during colds and flu. Dose: 900 mg standardized extract daily in acute use; use should be limited to 8 weeks continuous. Contraindicated in autoimmune diseases (MS, lupus, HIV/AIDS), tuberculosis, and with immunosuppressive drugs (cyclosporine) (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0308",
       "REF-0063"
      ],
      "status": "verified"
@@ -21584,9 +21590,9 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0256",
-      "REF-0309",
       "REF-2022",
-      "REF-2023"
+      "REF-2023",
+      "REF-4306"
      ],
      "status": "verified"
     },
@@ -21594,7 +21600,7 @@
      "action": "antifungal",
      "reference_ids": [
       "REF-0256",
-      "REF-0309"
+      "REF-4306"
      ],
      "status": "verified"
     },
@@ -21602,7 +21608,7 @@
      "action": "antimalarial",
      "reference_ids": [
       "REF-0256",
-      "REF-0309"
+      "REF-4306"
      ],
      "status": "verified"
     },
@@ -21610,7 +21616,6 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0256",
-      "REF-0309",
       "REF-0810",
       "REF-2023",
       "REF-0809",
@@ -21618,7 +21623,8 @@
       "REF-2025",
       "REF-2026",
       "REF-2028",
-      "REF-2029"
+      "REF-2029",
+      "REF-4306"
      ],
      "status": "verified"
     },
@@ -21626,7 +21632,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0256",
-      "REF-0309",
       "REF-2023",
       "REF-0809",
       "REF-2025",
@@ -21638,7 +21643,6 @@
      "action": "immunomodulator",
      "reference_ids": [
       "REF-0256",
-      "REF-0309",
       "REF-0811"
      ],
      "status": "verified"
@@ -21652,16 +21656,15 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0256",
-      "REF-0309"
+      "REF-4306"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "cold",
-     "note": "Used for cough associated with colds (EU herbal monograph; WHO monograph)",
+     "note": "Used for cough associated with colds (EU herbal monograph)",
      "reference_ids": [
-      "REF-0309",
       "REF-3083"
      ],
      "status": "needs-review",
@@ -21677,9 +21680,7 @@
       "REF-0256"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [
-      "REF-0309"
-     ],
+     "mechanistic_exclude_ids": [],
      "note": "Eucalyptus oil stimulated innate immune cells in lab studies (review)",
      "evidence": 2,
      "label": "Immune support"
@@ -21692,7 +21693,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0309"
+      "REF-4306"
      ],
      "evidence": 2,
      "label": "Infection (general)"
@@ -21705,7 +21706,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0309"
+      "REF-4306"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -21714,9 +21715,9 @@
      "condition": "respiratory-support",
      "reference_ids": [
       "REF-0256",
-      "REF-0309",
       "REF-3083",
-      "REF-3555"
+      "REF-3555",
+      "REF-4306"
      ],
      "status": "verified",
      "note": "Used for catarrh and cough of the upper airways (EU herbal monograph; WHO monograph); cineole, its main compound, reduced COPD flare-ups vs placebo in a randomized trial",
@@ -21730,7 +21731,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0256",
-      "REF-0309"
+      "REF-4306"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -21741,8 +21742,8 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0309",
-      "REF-0256"
+      "REF-0256",
+      "REF-4306"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -21775,8 +21776,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0224",
-      "REF-0256",
-      "REF-0309"
+      "REF-0256"
      ],
      "status": "verified"
     },
@@ -21786,7 +21786,6 @@
      "reference_ids": [
       "REF-0224",
       "REF-0256",
-      "REF-0309",
       "REF-0063"
      ],
      "status": "verified"
@@ -25232,12 +25231,11 @@
      ]
     },
     {
-     "name": "Essential oil - eugenol",
+     "name": "Essential oil (cis-myrtanal in the root)",
      "compounds": [
-      "essential-oil",
-      "eugenol"
+      "essential-oil"
      ],
-     "note": "The root essential oil is dominated by eugenol, giving the clove-like scent (shared with clove) and antiseptic, mild-anaesthetic character.",
+     "note": "The root essential oil is dominated by cis-myrtanal (53.3%) and the oil of the aerial parts by 1-octen-3-ol (33.9%); eugenol is the main root-oil compound of wood avens (G. urbanum), not of water avens.",
      "reference_ids": [
       "REF-2765"
      ]
@@ -25644,7 +25642,7 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0308"
+      "REF-3989"
      ],
      "status": "verified",
      "null_result_ids": [
@@ -26075,7 +26073,7 @@
      "condition": "arthritis",
      "note": "Traditional anti-inflammatory for rheumatism and arthritis (WHO monograph); anti-inflammatory compounds reported in lab studies (reviews)",
      "reference_ids": [
-      "REF-0308"
+      "REF-4305"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -26089,7 +26087,7 @@
      "condition": "bronchitis",
      "note": "Traditional expectorant for coughs and bronchial catarrh (WHO monograph)",
      "reference_ids": [
-      "REF-0308"
+      "REF-4305"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -26147,9 +26145,9 @@
     },
     {
      "condition": "infection",
-     "note": "Traditional antiviral use (WHO monograph); glycyrrhetinic acid was active against tuberculosis bacteria in the lab (preclinical)",
+     "note": "Traditional antiviral use, and pharmacopoeias list it for tuberculosis (WHO monograph)",
      "reference_ids": [
-      "REF-0308"
+      "REF-4305"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -26161,9 +26159,9 @@
     },
     {
      "condition": "inflammation",
-     "note": "Traditional anti-inflammatory for allergic reactions and arthritis (WHO monograph); licorice flavonoids reduced inflammatory markers in lab studies (preclinical)",
+     "note": "Traditional anti-inflammatory for allergic reactions, rheumatism and arthritis (WHO monograph)",
      "reference_ids": [
-      "REF-0308"
+      "REF-4305"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -46282,13 +46280,6 @@
    ],
    "actions": [
     {
-     "action": "anti-inflammatory",
-     "reference_ids": [
-      "REF-0075"
-     ],
-     "status": "verified"
-    },
-    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0075",
@@ -46296,13 +46287,6 @@
       "REF-0873",
       "REF-0876",
       "REF-0879"
-     ],
-     "status": "verified"
-    },
-    {
-     "action": "sedative",
-     "reference_ids": [
-      "REF-0075"
      ],
      "status": "verified"
     }
@@ -50605,7 +50589,8 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0048"
+      "REF-0048",
+      "REF-3761"
      ],
      "evidence": 2,
      "label": "Indigestion"
@@ -52373,36 +52358,36 @@
     "Fruit"
    ],
    "botanical_description": {
-    "text": "Deciduous shrub or small tree (Adoxaceae), 3-10 m tall (occasionally larger), with corky, furrowed grey-brown bark. Leaves are pinnate with 5-7 toothed leaflets. Abundant flat-topped clusters (corymbs) of small, fragrant, creamy-white flowers are followed by drooping clusters of small, glossy, purple-black berries.",
-    "height": "3-10 m (occasionally larger)",
-    "habit": "Deciduous shrub or small tree",
-    "leaves": "Pinnate, 5-7 toothed leaflets",
-    "flowers": "Small, fragrant, creamy-white, in flat-topped clusters (corymbs)",
-    "stem": "Corky, furrowed, grey-brown bark",
-    "root": "Fibrous, spreading root system",
-    "fruit": "Drooping clusters of small, glossy, purple-black berries",
-    "flowering_period": "May-June; berries ripen August-September",
+    "text": "A shrub of moist soil with stems up to 4 m high containing abundant white pith. The leaves are imparipinnate, with 5-11 oblong leaflets. Flat-topped compound cymes of small, white, fragrant flowers are followed by large drooping bunches of purplish-black, juicy, berry-like drupes.",
+    "height": "Stems up to 4 m",
+    "habit": "Shrub",
+    "leaves": "Imparipinnate, with 5-11 oblong leaflets",
+    "flowers": "Small, white, urn-shaped and fragrant, in flat compound cymes",
+    "stem": "Stems with abundant white pith",
+    "fruit": "Purplish-black, juicy, berry-like drupes in drooping bunches",
+    "flowering_period": "June (about three weeks)",
     "reference_ids": [
-     "REF-0085"
+     "REF-4308",
+     "REF-4309"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native throughout Europe, western Asia and North Africa, extremely common in hedgerows, woodland edges, waste ground and disturbed sites, tolerating a wide range of soils.",
+    "text": "Indigenous to North Africa, North America, western and central Asia and Europe, growing in moist soil; a familiar plant of the English countryside and gardens.",
     "reference_ids": [
-     "REF-0085"
+     "REF-4308",
+     "REF-4309"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Flowers are picked in full bloom (late spring/early summer), ideally on a dry day, and dried quickly. Berries are picked in late summer/early autumn once fully ripe (deep purple-black) and always cooked before use, as raw berries - and all other parts of the plant - contain cyanogenic glycosides and should not be eaten raw.",
+    "text": "The flowers are collected when just in full bloom during their short season (about three weeks in June) and used fresh, salted ('pickled') or dried for infusions; they dry to a poor, brownish colour if left too long in the sun before gathering or left in heaps.",
     "parts": [
-     "Flower",
-     "Fruit"
+     "Flower"
     ],
-    "season": "Flower late spring/early summer; berries late summer/early autumn",
+    "season": "Flowers in June, when just in full bloom",
     "reference_ids": [
-     "REF-0085"
+     "REF-4309"
     ],
     "status": "verified"
    },
@@ -52449,7 +52434,7 @@
    "preparations": [
     {
      "name": "Elderflower infusion (tea)",
-     "text": "Dried flower steeped in hot water - the classic cold and flu remedy.",
+     "text": "Dried flowers infused in boiling water as a herbal tea, traditionally used for the early symptoms of a common cold.",
      "reference_ids": [
       "REF-0085"
      ],
@@ -55066,13 +55051,13 @@
     "status": "verified"
    },
    "harvesting": {
-    "text": "The flowering aerial parts are cut during flowering (late summer) and dried.",
+    "text": "The flowering aerial parts are the medicinal part, used dried.",
     "parts": [
      "Flower",
      "Leaf",
      "Stem"
     ],
-    "season": "Late summer, during flowering",
+    "season": "During flowering",
     "reference_ids": [
      "REF-0069"
     ],
@@ -55136,7 +55121,7 @@
    "preparations": [
     {
      "name": "Infusion (tea)",
-     "text": "Dried aerial parts steeped in hot water - the classic urinary-tract preparation.",
+     "text": "Dried flowering aerial parts as an infusion (3-5 g, 2-4 times daily, per the EU monograph) to increase urine flow in minor urinary complaints.",
      "reference_ids": [
       "REF-0069"
      ],
@@ -55148,7 +55133,6 @@
      "name": "Infusion (tea)",
      "text": "Duke (2002): about 6-12 g dried herb daily as tea for urinary complaints. Educational reference only, not a prescription; avoid in fluid retention from cardiac or renal impairment.",
      "reference_ids": [
-      "REF-0016",
       "REF-0069",
       "REF-0244"
      ],
@@ -55157,13 +55141,13 @@
    ],
    "constituents": [
     {
-     "name": "Saponins",
+     "name": "Triterpenoid saponins (polygalacic acid glycosides)",
      "compounds": [
       "saponin"
      ],
-     "note": "Studied constituents of the aerial parts.",
+     "note": "Acylated bisdesmosidic glycosides of polygalacic acid isolated from the aerial parts and the roots.",
      "reference_ids": [
-      "REF-0016"
+      "REF-4311"
      ]
     },
     {
@@ -55316,7 +55300,6 @@
      "note": "Generally well tolerated. Not recommended in cases of fluid retention due to impaired cardiac or renal function. Ensure adequate fluid intake when using as a diuretic. May cause allergic reactions in individuals sensitive to Asteraceae plants. Avoid use during pregnancy and breastfeeding due to limited safety data.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0016",
       "REF-0069",
       "REF-0244"
      ],
@@ -55326,7 +55309,6 @@
      "note": "Duke (2002) provides clinical evidence (score 2) for goldenrod's anti-inflammatory activity, consistent with Commission E approval. It is also classified as an aquaretic (increases urine output without electrolyte loss) and antispasmodic, used for urinary tract irrigation therapy. Dose: 6–12 g dried herb daily as tea for urinary complaints. Duke cautions against use in cases of edema from renal or cardiac insufficiency, and notes that the herb may cause allergic reactions in individuals sensitive to Asteraceae plants (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0016",
       "REF-0069",
       "REF-0244",
       "REF-0063"
@@ -55352,8 +55334,7 @@
     "REF-1051",
     "REF-1052",
     "REF-1053",
-    "REF-1054",
-    "REF-0016"
+    "REF-1054"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -56036,35 +56017,34 @@
     "Root"
    ],
    "botanical_description": {
-    "text": "Robust, hairy perennial herb (Boraginaceae), 60-120 cm tall, with a thick, black-skinned, mucilaginous taproot. Leaves are large, broad, lance-shaped and bristly-hairy, running down the stem as raised wings (decurrent) - the leaf base's smooth, untoothed margin is a key feature distinguishing it from toxic foxglove. Drooping clusters of tubular, bell-shaped flowers are cream, pink or purple depending on variety.",
-    "height": "60-120 cm",
-    "habit": "Robust, hairy perennial herb",
-    "leaves": "Large, broad, lance-shaped, bristly-hairy, decurrent (winging the stem), untoothed margin",
-    "flowers": "Tubular, bell-shaped, cream, pink or purple, in drooping clusters",
-    "stem": "Winged by decurrent leaf bases, hairy",
-    "root": "Thick, black-skinned, mucilaginous taproot",
-    "fruit": "Small nutlets (typical Boraginaceae)",
-    "flowering_period": "May-June, into summer",
+    "text": "Erect perennial, rough and hairy all over, with a branched rootstock and fleshy, spindle-shaped roots up to 30 cm long, blackish outside and white and juicy inside. The leafy stem is 60-90 cm tall, stout, angular, hollow and broadly winged above. The lower leaves are very large (up to 25 cm), ovate and rough with itching hairs; the stem leaves run down the stem (decurrent). Drooping creamy-yellow or purple flowers hang in one-sided, curled clusters from late April through the summer. Comfrey leaves can be mistaken for foxglove leaves; in comfrey the smaller veins do not run into the wings of the leaf-stalk.",
+    "height": "60-90 cm (2-3 ft)",
+    "habit": "Erect perennial, rough and hairy all over",
+    "leaves": "Lower leaves very large (to 25 cm), ovate, rough-hairy; stem leaves decurrent",
+    "flowers": "Drooping, creamy-yellow or purple, in one-sided curled (scorpioid) clusters",
+    "stem": "Stout, angular, hollow, winged above, with bristly hairs",
+    "root": "Branched rootstock; fleshy spindle-shaped roots, blackish outside, white inside",
+    "flowering_period": "Late April-May onwards, through most of summer",
     "reference_ids": [
-     "REF-0074"
+     "REF-4310"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to Europe and western Asia, growing in damp ground - riverbanks, ditches, damp meadows and waste ground - and widely cultivated.",
+    "text": "Native to Europe and temperate Asia; common on the banks of rivers and ditches and in watery places generally.",
     "reference_ids": [
-     "REF-0074"
+     "REF-4310"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Leaves are cut during the growing season (before flowering is often preferred for lower pyrrolizidine-alkaloid content); root is dug in autumn or spring from mature plants.",
+    "text": "The root and leaves are the parts used, generally collected from wild plants; the young leaves were also gathered as a spinach substitute. The EU monograph covers only the root, for external use.",
     "parts": [
      "Leaf",
      "Root"
     ],
-    "season": "Leaf during the growing season (ideally before flowering); root autumn or spring",
     "reference_ids": [
+     "REF-4310",
      "REF-0074"
     ],
     "status": "verified"
@@ -56102,8 +56082,9 @@
     }
    ],
    "traditional_uses": {
-    "text": "Comfrey has one of the strongest traditional reputations of any European herb for wound healing and bone/tissue repair - the folk names 'knitbone' and 'boneset' reflect this - owing to its high allantoin content, which stimulates cell proliferation. Because the plant also contains hepatotoxic pyrrolizidine alkaloids, modern regulatory use is restricted to topical preparations only, for minor bruises and sprains, and internal use (teas, tinctures) is no longer recommended.",
+    "text": "Grieve records comfrey as a demulcent and mildly astringent remedy given for diarrhoea, coughs and lung complaints, and applied as a poultice to bruises, cuts, boils and inflammatory swellings; its reputation for 'knitting' fractures was put down partly to reducing the swelling around them. The EU herbal monograph now recognises only external use of the root, for minor sprains and bruises.",
     "reference_ids": [
+     "REF-4310",
      "REF-0074"
     ],
     "status": "verified"
@@ -56111,7 +56092,7 @@
    "preparations": [
     {
      "name": "Topical cream/ointment (root extract)",
-     "text": "The officially recognised European herbal-monograph preparation, for minor bruises and sprains, short-term use only.",
+     "text": "A semi-solid preparation of a 10% root liquid extract, applied thinly twice daily for no more than 10 days, for minor sprains and bruises in adults (EU herbal monograph).",
      "reference_ids": [
       "REF-0074"
      ],
@@ -56453,7 +56434,7 @@
      "reference_ids": [
       "REF-0029",
       "REF-0247",
-      "REF-0309"
+      "REF-4307"
      ],
      "status": "verified"
     }
@@ -56464,8 +56445,7 @@
      "text": "Duke (2002): a 1-5% clove oil preparation topically, or about 150 mg clove powder internally. Educational reference only, not a prescription; never apply undiluted oil to skin or mucous membranes.",
      "reference_ids": [
       "REF-0029",
-      "REF-0247",
-      "REF-0309"
+      "REF-0247"
      ],
      "status": "verified"
     }
@@ -56510,9 +56490,9 @@
      "action": "analgesic",
      "reference_ids": [
       "REF-0029",
-      "REF-0309",
       "REF-1075",
-      "REF-3788"
+      "REF-3788",
+      "REF-4307"
      ],
      "status": "verified"
     },
@@ -56520,10 +56500,10 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0029",
-      "REF-0309",
       "REF-1075",
       "REF-1076",
-      "REF-1081"
+      "REF-1081",
+      "REF-4307"
      ],
      "status": "verified"
     },
@@ -56538,13 +56518,13 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0029",
-      "REF-0309",
       "REF-1074",
       "REF-1075",
       "REF-1076",
       "REF-1078",
       "REF-1080",
-      "REF-3788"
+      "REF-3788",
+      "REF-4307"
      ],
      "status": "verified"
     },
@@ -56552,12 +56532,12 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0029",
-      "REF-0309",
       "REF-1074",
       "REF-1075",
       "REF-1077",
       "REF-1079",
-      "REF-1080"
+      "REF-1080",
+      "REF-4307"
      ],
      "status": "verified"
     },
@@ -56565,9 +56545,9 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0029",
-      "REF-0309",
       "REF-1082",
-      "REF-3788"
+      "REF-3788",
+      "REF-4307"
      ],
      "status": "verified"
     }
@@ -56583,7 +56563,7 @@
      "mechanistic_exclude_ids": [
       "REF-1076",
       "REF-0029",
-      "REF-0309"
+      "REF-4307"
      ],
      "evidence": 2,
      "label": "Arthritis / joint pain"
@@ -56595,7 +56575,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0029",
-      "REF-0309"
+      "REF-4307"
      ],
      "evidence": 1,
      "label": "Back pain"
@@ -56605,7 +56585,6 @@
      "note": "Traditionally taken for flatulence and indigestion (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0029",
-      "REF-0309",
       "REF-3788"
      ],
      "status": "needs-review",
@@ -56632,7 +56611,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0029",
-      "REF-0309"
+      "REF-4307"
      ],
      "evidence": 1,
      "label": "Headache"
@@ -56642,8 +56621,8 @@
      "note": "Traditionally taken for indigestion, nausea and flatulence (Grieve, A Modern Herbal)",
      "reference_ids": [
       "REF-0029",
-      "REF-0309",
-      "REF-3788"
+      "REF-3788",
+      "REF-4307"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -56661,7 +56640,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0029",
-      "REF-0309"
+      "REF-4307"
      ],
      "evidence": 2,
      "label": "Infection (general)"
@@ -56673,7 +56652,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0029",
-      "REF-0309"
+      "REF-4307"
      ],
      "evidence": 1,
      "label": "Inflammation (general)"
@@ -56682,9 +56661,9 @@
      "condition": "oral-health",
      "reference_ids": [
       "REF-0029",
-      "REF-0309",
       "REF-3784",
-      "REF-3788"
+      "REF-3788",
+      "REF-4307"
      ],
      "status": "verified",
      "note": "Clove gel numbed the gums as well as benzocaine and better than placebo before needle insertion in a randomized trial; traditionally applied to decayed teeth as a mild local anaesthetic (Grieve, A Modern Herbal)",
@@ -56695,9 +56674,9 @@
      "condition": "pain",
      "reference_ids": [
       "REF-0029",
-      "REF-0309",
       "REF-3784",
-      "REF-3788"
+      "REF-3788",
+      "REF-4307"
      ],
      "status": "verified",
      "note": "Clove gel reduced needle-stick pain in the mouth vs placebo, as much as benzocaine, in a randomized trial; traditional toothache remedy (Grieve, A Modern Herbal)",
@@ -56713,7 +56692,7 @@
       "REF-1076",
       "REF-1081",
       "REF-0029",
-      "REF-0309"
+      "REF-4307"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -56726,7 +56705,7 @@
      "mechanistic_exclude_ids": [
       "REF-1078",
       "REF-0029",
-      "REF-0309"
+      "REF-4307"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -56738,8 +56717,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0029",
-      "REF-0247",
-      "REF-0309"
+      "REF-0247"
      ],
      "status": "verified"
     },
@@ -56749,7 +56727,6 @@
      "reference_ids": [
       "REF-0029",
       "REF-0247",
-      "REF-0309",
       "REF-0063"
      ],
      "status": "verified"
@@ -58479,7 +58456,6 @@
    "traditional_uses": {
     "text": "Wild thyme has a long European folk tradition, closely paralleling its relative garden thyme, as an antimicrobial and expectorant remedy for coughs and respiratory infections, a digestive/gastroprotective herb, and a topical antiseptic.",
     "reference_ids": [
-     "REF-0071",
      "REF-0133",
      "REF-0250"
     ],
@@ -58645,7 +58621,6 @@
      "note": "Generally safe at culinary doses. Essential oil is highly concentrated and must be diluted before topical use; undiluted application can cause skin sensitisation. Not recommended internally during pregnancy (uterine stimulant effects possible). Phenol-rich thyme preparations should be avoided long-term in high doses. May potentiate anticoagulant medications.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0071",
       "REF-0133",
       "REF-0250"
      ],
@@ -58655,7 +58630,6 @@
      "note": "Duke (2002) rates Thymus vulgaris (garden thyme, closely related to breckland thyme) as +++ with clinical evidence (score 2) for antibacterial, bronchospasmolytic, and antispasmodic activities, consistent with Commission E and WHO approvals for bronchitis and upper respiratory catarrh. The primary active constituent is thymol, with carvacrol as a secondary compound. Dose: 1–2 g dried herb as tea three times daily. The plant demonstrates COX-2 inhibitory activity and calcium antagonism, which may explain its antispasmodic effects (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0071",
       "REF-0133",
       "REF-0250",
       "REF-0063"

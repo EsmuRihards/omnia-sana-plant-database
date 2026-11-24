@@ -147,7 +147,7 @@ actions:
 indications:
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0308
+  - REF-3989
   status: verified
   null_result_ids:
   - REF-3564
@@ -375,4 +375,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   New pairs (owner rule): anxiety (RCT REF-3566 + held NMA REF-2546), depression (MA REF-3567).
   REF-0824/REF-0825 retagged narrative-review. Not added (gaps): hyperlipidemia MA 42102021 (HDL
   vs Western medicine only; a T2DM MA 38264278 found no lipid or glucose effect).
-  | 2026-11-19 (monograph-source audit): dosage[0] cited only REF-0056 (GEM dementia-prevention RCT, a NULL result at 120 mg twice daily) for ''trials for cognitive and circulatory support commonly use 120-240 mg''. RE-SOURCED: WHO Folium Ginkgo vol. 1 (REF-3989, new; 120-240 mg/day of the standardised extract); REF-0056 kept for its null finding.'
+  | 2026-11-19 (monograph-source audit): dosage[0] cited only REF-0056 (GEM dementia-prevention RCT, a NULL result at 120 mg twice daily) for ''trials for cognitive and circulatory support commonly use 120-240 mg''. RE-SOURCED: WHO Folium Ginkgo vol. 1 (REF-3989, new; 120-240 mg/day of the standardised extract); REF-0056 kept for its null finding.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic WHO vol. 1 citation
+  REF-0308 replaced by the Folium Ginkgo entry REF-3989 (pain-free walking distance in peripheral
+  arterial occlusive disease such as intermittent claudication).'

@@ -247,6 +247,7 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
+  - REF-4302
 - condition: ibd
   note: In two small placebo-controlled trials in Crohn's disease, wormwood allowed steroid tapering and
     improved symptoms and mood

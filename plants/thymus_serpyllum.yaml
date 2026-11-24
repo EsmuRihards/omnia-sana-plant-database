@@ -65,7 +65,6 @@ traditional_uses:
     as an antimicrobial and expectorant remedy for coughs and respiratory infections, a digestive/gastroprotective
     herb, and a topical antiseptic.
   reference_ids:
-  - REF-0071
   - REF-0133
   - REF-0250
   status: verified
@@ -179,7 +178,6 @@ contraindications:
     in high doses. May potentiate anticoagulant medications.
   severity: caution
   reference_ids:
-  - REF-0071
   - REF-0133
   - REF-0250
   status: verified
@@ -191,7 +189,6 @@ contraindications:
     its antispasmodic effects (Duke, 2002).'
   severity: info
   reference_ids:
-  - REF-0071
   - REF-0133
   - REF-0250
   - REF-0063
@@ -246,4 +243,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0133 (by title) removed from the anti-inflammatory, antioxidant and gastroprotective
   actions. New pair (owner rule): indigestion (2026 multicentre placebo RCT REF-3796) plus Grieve
   REF-3814. REF-1094 retagged systematic-review (PubMed type).
-  | 2026-11-19 (monograph-source audit): constituents entry ''Triterpenes (ursolic acid, oleanolic acid) - minor constituents studied for anti-inflammatory activity'' REMOVED. It cited only REF-1094 (wild thyme review), whose abstract names phenolic acids and flavonoids but no triterpenes. Searched: REF-1094 and REF-1099 abstracts, PubMed ''Thymus serpyllum'' with ursolic/oleanolic acid or triterpenes; the only hit (Dall''Acqua 2017, PMID 28222613) is Thymus alternans, a different species. Dead end; truthful or absent.'
+  | 2026-11-19 (monograph-source audit): constituents entry ''Triterpenes (ursolic acid, oleanolic acid) - minor constituents studied for anti-inflammatory activity'' REMOVED. It cited only REF-1094 (wild thyme review), whose abstract names phenolic acids and flavonoids but no triterpenes. Searched: REF-1094 and REF-1099 abstracts, PubMed ''Thymus serpyllum'' with ursolic/oleanolic acid or triterpenes; the only hit (Dall''Acqua 2017, PMID 28222613) is Thymus alternans, a different species. Dead end; truthful or absent.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0071 (EMA assessment
+  report on Thymus vulgaris and T. zygis herba, 2010) covers garden thyme, not T. serpyllum: removed
+  from traditional uses and the caution, and deleted (the garden-thyme monograph is REF-0519).'

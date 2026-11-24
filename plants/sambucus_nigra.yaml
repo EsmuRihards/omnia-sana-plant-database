@@ -15,38 +15,36 @@ parts_used:
 - Flower
 - Fruit
 botanical_description:
-  text: Deciduous shrub or small tree (Adoxaceae), 3-10 m tall (occasionally larger), with corky, furrowed
-    grey-brown bark. Leaves are pinnate with 5-7 toothed leaflets. Abundant flat-topped clusters (corymbs)
-    of small, fragrant, creamy-white flowers are followed by drooping clusters of small, glossy, purple-black
-    berries.
-  height: 3-10 m (occasionally larger)
-  habit: Deciduous shrub or small tree
-  leaves: Pinnate, 5-7 toothed leaflets
-  flowers: Small, fragrant, creamy-white, in flat-topped clusters (corymbs)
-  stem: Corky, furrowed, grey-brown bark
-  root: Fibrous, spreading root system
-  fruit: Drooping clusters of small, glossy, purple-black berries
-  flowering_period: May-June; berries ripen August-September
+  text: A shrub of moist soil with stems up to 4 m high containing abundant white pith. The leaves are
+    imparipinnate, with 5-11 oblong leaflets. Flat-topped compound cymes of small, white, fragrant flowers
+    are followed by large drooping bunches of purplish-black, juicy, berry-like drupes.
+  height: Stems up to 4 m
+  habit: Shrub
+  leaves: Imparipinnate, with 5-11 oblong leaflets
+  flowers: Small, white, urn-shaped and fragrant, in flat compound cymes
+  stem: Stems with abundant white pith
+  fruit: Purplish-black, juicy, berry-like drupes in drooping bunches
+  flowering_period: June (about three weeks)
   reference_ids:
-  - REF-0085
+  - REF-4308
+  - REF-4309
   status: verified
 habitat:
-  text: Native throughout Europe, western Asia and North Africa, extremely common in hedgerows, woodland
-    edges, waste ground and disturbed sites, tolerating a wide range of soils.
+  text: Indigenous to North Africa, North America, western and central Asia and Europe, growing in moist
+    soil; a familiar plant of the English countryside and gardens.
   reference_ids:
-  - REF-0085
+  - REF-4308
+  - REF-4309
   status: verified
 harvesting:
-  text: Flowers are picked in full bloom (late spring/early summer), ideally on a dry day, and dried quickly.
-    Berries are picked in late summer/early autumn once fully ripe (deep purple-black) and always cooked
-    before use, as raw berries - and all other parts of the plant - contain cyanogenic glycosides and
-    should not be eaten raw.
+  text: The flowers are collected when just in full bloom during their short season (about three weeks
+    in June) and used fresh, salted ('pickled') or dried for infusions; they dry to a poor, brownish colour
+    if left too long in the sun before gathering or left in heaps.
   parts:
   - Flower
-  - Fruit
-  season: Flower late spring/early summer; berries late summer/early autumn
+  season: Flowers in June, when just in full bloom
   reference_ids:
-  - REF-0085
+  - REF-4309
   status: verified
 harvest_readiness:
 - part: flower
@@ -82,7 +80,8 @@ traditional_uses:
   status: verified
 preparations:
 - name: Elderflower infusion (tea)
-  text: Dried flower steeped in hot water - the classic cold and flu remedy.
+  text: Dried flowers infused in boiling water as a herbal tea, traditionally used for the early symptoms
+    of a common cold.
   reference_ids:
   - REF-0085
   status: verified
@@ -315,4 +314,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   be consumed during pregnancy" and the unsourced "gastrointestinal disease" line were not kept.
   Safety note #2: unsupported sentence "clinical use for colds, bronchitis and fever is
   well-supported" removed (contradicted by REF-3758/REF-3759); dose dash normalised.
-  | 2026-11-19 (monograph-source audit): preparations[1] (cooked, sweetened syrup, the most widely used form) and preparations[2] (concentrated extract used in influenza trials) cited only REF-1016 (meta-analysis, no form or dose in its abstract). Rewritten to the trials: Zakay-Rones REF-0316 (15 ml four times daily for 5 days, symptoms 4 days shorter) and the NULL emergency-room trial REF-3759, stated as null. Dropped: cooked and sweetened, most widely used form, standardised, concentrated.'
+  | 2026-11-19 (monograph-source audit): preparations[1] (cooked, sweetened syrup, the most widely used form) and preparations[2] (concentrated extract used in influenza trials) cited only REF-1016 (meta-analysis, no form or dose in its abstract). Rewritten to the trials: Zakay-Rones REF-0316 (15 ml four times daily for 5 days, symptoms 4 days shorter) and the NULL emergency-room trial REF-3759, stated as null. Dropped: cooked and sweetened, most widely used form, standardised, concentrated.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): the EU elder-flower
+  monograph REF-0085 (now linked) states use and posology only, so the description, habitat and
+  harvest it carried are re-sourced to WHO Flos Sambuci REF-4308 and Grieve''s Elder REF-4309. Dropped
+  as unsourced: 3-10 m, corky grey-brown bark, 5-7 leaflets, berry harvest timing, ''flu'' in the
+  infusion text.'

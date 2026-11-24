@@ -38,12 +38,12 @@ habitat:
   - REF-0069
   status: verified
 harvesting:
-  text: The flowering aerial parts are cut during flowering (late summer) and dried.
+  text: The flowering aerial parts are the medicinal part, used dried.
   parts:
   - Flower
   - Leaf
   - Stem
-  season: Late summer, during flowering
+  season: During flowering
   reference_ids:
   - REF-0069
   status: verified
@@ -92,7 +92,8 @@ traditional_uses:
   status: verified
 preparations:
 - name: Infusion (tea)
-  text: Dried aerial parts steeped in hot water - the classic urinary-tract preparation.
+  text: Dried flowering aerial parts as an infusion (3-5 g, 2-4 times daily, per the EU monograph) to
+    increase urine flow in minor urinary complaints.
   reference_ids:
   - REF-0069
   status: verified
@@ -107,17 +108,16 @@ dosage:
   text: 'Duke (2002): about 6-12 g dried herb daily as tea for urinary complaints. Educational reference
     only, not a prescription; avoid in fluid retention from cardiac or renal impairment.'
   reference_ids:
-  - REF-0016
   - REF-0069
   - REF-0244
   status: verified
 constituents:
-- name: Saponins
+- name: Triterpenoid saponins (polygalacic acid glycosides)
   compounds:
   - saponin
-  note: Studied constituents of the aerial parts.
+  note: Acylated bisdesmosidic glycosides of polygalacic acid isolated from the aerial parts and the roots.
   reference_ids:
-  - REF-0016
+  - REF-4311
 - name: Flavonoids (quercetin, rutin)
   compounds:
   - flavonoid
@@ -212,7 +212,6 @@ contraindications:
     limited safety data.
   severity: caution
   reference_ids:
-  - REF-0016
   - REF-0069
   - REF-0244
   status: verified
@@ -224,7 +223,6 @@ contraindications:
     sensitive to Asteraceae plants (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0016
   - REF-0069
   - REF-0244
   - REF-0063
@@ -247,7 +245,6 @@ references:
 - REF-1052
 - REF-1053
 - REF-1054
-- REF-0016
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -310,4 +307,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   uti. Grieve REF-3790 (gravel, bladder stone, urinary obstruction) added to urinary-support. UPEC
   study REF-1048 removed from the diuretic action and its antibiotic antagonism finding added as a
   safety note. Oral-Candida toothpaste RCT REF-1047 and prostate-tumour study REF-1050 removed
-  from the anti-inflammatory action.'
+  from the anti-inflammatory action.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0016 (''Bader, Binder,
+  Hiller & Zwintscher 1990, The saponins from Solidago virgaurea'', Pharmazie 45(8):618) does not
+  match PubMed: that volume and page is a different Bader paper on antifungal polygalacic-acid
+  glycosides. Deleted; the saponin constituent now cites Bader, Wray & Hiller 1995 (Planta Med
+  61:158-61, PMID 7753924) REF-4311. Harvest and infusion rewritten to what the EU monograph REF-0069
+  states (late summer and ''classic'' were unsourced).'

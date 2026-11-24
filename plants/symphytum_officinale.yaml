@@ -14,36 +14,37 @@ parts_used:
 - Leaf
 - Root
 botanical_description:
-  text: Robust, hairy perennial herb (Boraginaceae), 60-120 cm tall, with a thick, black-skinned, mucilaginous
-    taproot. Leaves are large, broad, lance-shaped and bristly-hairy, running down the stem as raised
-    wings (decurrent) - the leaf base's smooth, untoothed margin is a key feature distinguishing it from
-    toxic foxglove. Drooping clusters of tubular, bell-shaped flowers are cream, pink or purple depending
-    on variety.
-  height: 60-120 cm
-  habit: Robust, hairy perennial herb
-  leaves: Large, broad, lance-shaped, bristly-hairy, decurrent (winging the stem), untoothed margin
-  flowers: Tubular, bell-shaped, cream, pink or purple, in drooping clusters
-  stem: Winged by decurrent leaf bases, hairy
-  root: Thick, black-skinned, mucilaginous taproot
-  fruit: Small nutlets (typical Boraginaceae)
-  flowering_period: May-June, into summer
+  text: Erect perennial, rough and hairy all over, with a branched rootstock and fleshy, spindle-shaped
+    roots up to 30 cm long, blackish outside and white and juicy inside. The leafy stem is 60-90 cm tall,
+    stout, angular, hollow and broadly winged above. The lower leaves are very large (up to 25 cm), ovate
+    and rough with itching hairs; the stem leaves run down the stem (decurrent). Drooping creamy-yellow
+    or purple flowers hang in one-sided, curled clusters from late April through the summer. Comfrey leaves
+    can be mistaken for foxglove leaves; in comfrey the smaller veins do not run into the wings of the
+    leaf-stalk.
+  height: 60-90 cm (2-3 ft)
+  habit: Erect perennial, rough and hairy all over
+  leaves: Lower leaves very large (to 25 cm), ovate, rough-hairy; stem leaves decurrent
+  flowers: Drooping, creamy-yellow or purple, in one-sided curled (scorpioid) clusters
+  stem: Stout, angular, hollow, winged above, with bristly hairs
+  root: Branched rootstock; fleshy spindle-shaped roots, blackish outside, white inside
+  flowering_period: Late April-May onwards, through most of summer
   reference_ids:
-  - REF-0074
+  - REF-4310
   status: verified
 habitat:
-  text: Native to Europe and western Asia, growing in damp ground - riverbanks, ditches, damp meadows
-    and waste ground - and widely cultivated.
+  text: Native to Europe and temperate Asia; common on the banks of rivers and ditches and in watery places
+    generally.
   reference_ids:
-  - REF-0074
+  - REF-4310
   status: verified
 harvesting:
-  text: Leaves are cut during the growing season (before flowering is often preferred for lower pyrrolizidine-alkaloid
-    content); root is dug in autumn or spring from mature plants.
+  text: The root and leaves are the parts used, generally collected from wild plants; the young leaves
+    were also gathered as a spinach substitute. The EU monograph covers only the root, for external use.
   parts:
   - Leaf
   - Root
-  season: Leaf during the growing season (ideally before flowering); root autumn or spring
   reference_ids:
+  - REF-4310
   - REF-0074
   status: verified
 harvest_readiness:
@@ -70,18 +71,18 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3341); the root is dug in autumn. Single lineage -> provisional. SAFETY: as above - the vegetative rosette is confusable with the fatal Digitalis purpurea."
 traditional_uses:
-  text: Comfrey has one of the strongest traditional reputations of any European herb for wound healing
-    and bone/tissue repair - the folk names 'knitbone' and 'boneset' reflect this - owing to its high
-    allantoin content, which stimulates cell proliferation. Because the plant also contains hepatotoxic
-    pyrrolizidine alkaloids, modern regulatory use is restricted to topical preparations only, for minor
-    bruises and sprains, and internal use (teas, tinctures) is no longer recommended.
+  text: Grieve records comfrey as a demulcent and mildly astringent remedy given for diarrhoea, coughs
+    and lung complaints, and applied as a poultice to bruises, cuts, boils and inflammatory swellings;
+    its reputation for 'knitting' fractures was put down partly to reducing the swelling around them.
+    The EU herbal monograph now recognises only external use of the root, for minor sprains and bruises.
   reference_ids:
+  - REF-4310
   - REF-0074
   status: verified
 preparations:
 - name: Topical cream/ointment (root extract)
-  text: The officially recognised European herbal-monograph preparation, for minor bruises and sprains,
-    short-term use only.
+  text: A semi-solid preparation of a 10% root liquid extract, applied thinly twice daily for no more
+    than 10 days, for minor sprains and bruises in adults (EU herbal monograph).
   reference_ids:
   - REF-0074
   status: verified
@@ -311,4 +312,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   duplicate data) plus an injection-bruise RCT REF-3783 and the 2014 Cochrane LBP review REF-1261
   (names comfrey). Genus-level scoping review REF-1070 and the homeopathic osteoblast study
   REF-1072 removed from pairs/actions. REF-0281 retagged narrative-review. Combination RCTs (with
-  methyl nicotinate; with tannic acid) not used.'
+  methyl nicotinate; with tannic acid) not used.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): the EU comfrey-root
+  monograph REF-0074 (now linked) states only the indication and posology, so the description,
+  habitat, harvest and history are re-sourced to Grieve''s Comfrey REF-4310. Dropped as unsourced:
+  allantoin stimulating cell proliferation, ''boneset'', root dug in autumn or spring, leaves cut
+  before flowering, untoothed leaf margin as the foxglove distinction (replaced by Grieve''s vein
+  test).'

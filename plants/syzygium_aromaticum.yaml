@@ -76,7 +76,7 @@ preparations:
   reference_ids:
   - REF-0029
   - REF-0247
-  - REF-0309
+  - REF-4307
   status: verified
 - name: Infusion (tea)
   text: Crushed cloves steeped in hot water for digestive complaints.
@@ -91,7 +91,6 @@ dosage:
   reference_ids:
   - REF-0029
   - REF-0247
-  - REF-0309
   status: verified
 constituents:
 - name: Essential oil (eugenol)
@@ -120,17 +119,17 @@ actions:
 - action: analgesic
   reference_ids:
   - REF-0029
-  - REF-0309
   - REF-1075
   - REF-3788
+  - REF-4307
   status: verified
 - action: anti-inflammatory
   reference_ids:
   - REF-0029
-  - REF-0309
   - REF-1075
   - REF-1076
   - REF-1081
+  - REF-4307
   status: verified
 - action: anticancer
   reference_ids:
@@ -139,30 +138,30 @@ actions:
 - action: antimicrobial
   reference_ids:
   - REF-0029
-  - REF-0309
   - REF-1074
   - REF-1075
   - REF-1076
   - REF-1078
   - REF-1080
   - REF-3788
+  - REF-4307
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0029
-  - REF-0309
   - REF-1074
   - REF-1075
   - REF-1077
   - REF-1079
   - REF-1080
+  - REF-4307
   status: verified
 - action: digestive
   reference_ids:
   - REF-0029
-  - REF-0309
   - REF-1082
   - REF-3788
+  - REF-4307
   status: verified
 indications:
 - condition: arthritis
@@ -173,19 +172,18 @@ indications:
   mechanistic_exclude_ids:
   - REF-1076
   - REF-0029
-  - REF-0309
+  - REF-4307
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0029
-  - REF-0309
+  - REF-4307
 - condition: bloating
   note: Traditionally taken for flatulence and indigestion (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0029
-  - REF-0309
   - REF-3788
   status: needs-review
   mechanistic_exclude_ids:
@@ -201,13 +199,13 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0029
-  - REF-0309
+  - REF-4307
 - condition: indigestion
   note: Traditionally taken for indigestion, nausea and flatulence (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0029
-  - REF-0309
   - REF-3788
+  - REF-4307
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1082
@@ -218,20 +216,20 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0029
-  - REF-0309
+  - REF-4307
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0029
-  - REF-0309
+  - REF-4307
 - condition: oral-health
   reference_ids:
   - REF-0029
-  - REF-0309
   - REF-3784
   - REF-3788
+  - REF-4307
   status: verified
   note: Clove gel numbed the gums as well as benzocaine and better than placebo before needle insertion
     in a randomized trial; traditionally applied to decayed teeth as a mild local anaesthetic (Grieve,
@@ -239,9 +237,9 @@ indications:
 - condition: pain
   reference_ids:
   - REF-0029
-  - REF-0309
   - REF-3784
   - REF-3788
+  - REF-4307
   status: verified
   note: Clove gel reduced needle-stick pain in the mouth vs placebo, as much as benzocaine, in a randomized
     trial; traditional toothache remedy (Grieve, A Modern Herbal)
@@ -253,7 +251,7 @@ indications:
   - REF-1076
   - REF-1081
   - REF-0029
-  - REF-0309
+  - REF-4307
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
@@ -261,7 +259,7 @@ indications:
   mechanistic_exclude_ids:
   - REF-1078
   - REF-0029
-  - REF-0309
+  - REF-4307
 contraindications:
 - note: 'Strong and concentrated: Clove oil is very potent and should always be diluted before skin or
     mouth use.Dental use: Undiluted clove oil can burn gums or skin.Blood thinning: Clove may increase
@@ -272,7 +270,6 @@ contraindications:
   reference_ids:
   - REF-0029
   - REF-0247
-  - REF-0309
   status: verified
 - note: 'Duke (2002) rates cloves as +++ with clinical evidence (score 2) for analgesic activity - specifically,
     topical application of clove oil (eugenol) for dental pain is clinically validated. The plant also
@@ -285,7 +282,6 @@ contraindications:
   reference_ids:
   - REF-0029
   - REF-0247
-  - REF-0309
   - REF-0063
   status: verified
 references:
@@ -326,4 +322,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   2026-11-13: nausea, flatulence, dyspepsia, toothache, antiseptic) or an RCT corroborates: pain,
   oral health, indigestion, bloating. Clove-gel vs benzocaine vs placebo RCT REF-3784 added. Gaps:
   anal fissure cream RCT, open-label blood-sugar study, chronic pruritus trial (between-group P >
-  .05), post-spinal headache aromatherapy (not significant).'
+  .05), post-spinal headache aromatherapy (not significant).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic WHO vol. 2 citation
+  REF-0309 replaced by a new Flos Caryophylli entry REF-4307 where it states the claim (toothache,
+  mouth and skin infections, antiseptic, dyspepsia, experimental antimicrobial, anti-inflammatory and
+  antioxidant activity) and removed from the Duke dose, the bloating pair and the cautions, which it
+  does not state.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0309 (generic WHO vol.
+  2) had no citations left after the swap and was deleted as an orphan.'

@@ -238,12 +238,12 @@ indications:
   - REF-3591
   status: verified
 contraindications:
-- note: Berries and juice are safe as food. Seed oil is safe topically and orally in moderate amounts.
-    May have mild anticoagulant effects. May lower blood pressure and blood sugar - use caution with medications.
-    Allergic reactions are rare.
+- note: Sea buckthorn berry oil showed no genotoxicity in standard tests, and no maternal or embryo toxicity
+    when given to pregnant rats; the authors conclude it is safe for dietary use (animal and lab evidence).
+    The plant has been used for centuries as a medicine and food supplement in Asia and Europe.
   severity: caution
   reference_ids:
-  - REF-0206
+  - REF-0837
   status: verified
 - note: Duke (2002) rates sea buckthorn as +++ and notes antioxidant, hepatoprotective, antiulcer, and
     vulnerary activities at the experimental level (score 1). The berries are exceptionally rich in vitamins
@@ -253,7 +253,6 @@ contraindications:
     strong clinical validation. No significant safety concerns at food doses (Duke, 2002).
   severity: info
   reference_ids:
-  - REF-0206
   - REF-0063
   status: verified
 references:
@@ -328,4 +327,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3589 no-effect), constipation (RCT REF-3590), menopause (vaginal atrophy RCT REF-3591). Burn
   RCT REF-3592 added to wounds. Oral-oil atopic dermatitis trial REF-3593 (no better than placebo)
   no-effect for eczema. Gaps: psoriasis trial 30679968 (single-blind, randomisation not stated);
-  bloating (secondary outcome of REF-3590 only).'
+  bloating (secondary outcome of REF-3590 only).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0206 (Rousi 1971,
+  taxonomic study of Hippophae) states no safety information: removed from both cautions (kept in
+  references). The first caution is rewritten to the berry-oil safety study REF-0837; ''mild
+  anticoagulant'', ''may lower blood pressure and blood sugar'' and ''allergic reactions are rare''
+  were unsourced.'

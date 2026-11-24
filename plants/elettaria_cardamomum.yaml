@@ -115,7 +115,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0028
   - REF-1669
   - REF-0144
   - REF-1668
@@ -125,14 +124,12 @@ actions:
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0028
   - REF-0144
   - REF-1668
   - REF-1674
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0028
   - REF-1669
   - REF-0144
   - REF-0292
@@ -142,7 +139,6 @@ actions:
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0028
   - REF-1669
   - REF-0144
   - REF-1668
@@ -153,7 +149,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0028
   - REF-1669
   - REF-1670
   - REF-0144
@@ -162,7 +157,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0028
   - REF-0144
   - REF-1669
 - condition: cardiovascular-support
@@ -178,7 +172,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0028
   - REF-0144
   - REF-1669
 - condition: infection
@@ -188,7 +181,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0144
-  - REF-0028
 - condition: inflammation
   note: Cardamom lowered inflammatory markers in a meta-analysis and in a randomized trial in pre-diabetic
     women
@@ -197,7 +189,6 @@ indications:
   - REF-3550
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0028
   - REF-1669
   - REF-0144
 - condition: respiratory-support
@@ -210,7 +201,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0028
   - REF-1669
   - REF-1670
   - REF-0144
@@ -221,7 +211,6 @@ indications:
   mechanistic_exclude_ids:
   - REF-1674
   - REF-0144
-  - REF-0028
 - condition: high-blood-pressure
   note: Green cardamom lowered blood pressure in a meta-analysis of small randomized trials in metabolic
     syndrome
@@ -251,7 +240,6 @@ contraindications:
     2002).
   severity: caution
   reference_ids:
-  - REF-0028
   - REF-1669
   - REF-0144
   - REF-0222
@@ -264,7 +252,6 @@ contraindications:
     with no significant contraindications at therapeutic doses (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0028
   - REF-1669
   - REF-0144
   - REF-0222
@@ -325,4 +312,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   removed from anti-inflammatory/antimicrobial/digestive actions; gastric-ulcer study REF-1669
   from antimicrobial. Added CV MA REF-3545, BP/inflammation MA REF-3546, inflammation RCT
   REF-3550. New pairs (owner rule): high-blood-pressure REF-3546; high-cholesterol REF-3547/3548
-  (triglycerides only, labelled); nausea REF-3549 (aromatherapy RCT).'
+  (triglycerides only, labelled); nausea REF-3549 (aromatherapy RCT).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0028 ''Bhilave 2013,
+  antibacterial activity of cardamom seeds'' is not in PubMed, Crossref or OpenAlex as cited: removed
+  from every entry (each kept another source) and deleted.'

@@ -3264,7 +3264,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0133"
+      "REF-3814"
      ]
     },
     {
@@ -13202,7 +13202,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0112"
+      "REF-0112",
+      "REF-4314"
      ]
     },
     {
@@ -13222,7 +13223,8 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0112"
+      "REF-0112",
+      "REF-4314"
      ]
     },
     {
@@ -13232,7 +13234,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0112"
+      "REF-0112",
+      "REF-4314"
      ]
     },
     {
@@ -13749,8 +13752,8 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0098",
-      "REF-1234"
+      "REF-1234",
+      "REF-3311"
      ]
     },
     {
@@ -13760,7 +13763,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0098"
+      "REF-3311"
      ]
     },
     {
@@ -13770,7 +13773,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0098"
+      "REF-3311"
      ]
     },
     {
@@ -13780,7 +13783,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0098"
+      "REF-3311"
      ]
     },
     {
@@ -13790,7 +13793,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0098"
+      "REF-3311"
      ]
     }
    ]
@@ -15881,7 +15884,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0027",
       "REF-2366"
      ]
     },
@@ -15912,7 +15914,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0027",
       "REF-1323",
       "REF-2367"
      ]

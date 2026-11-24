@@ -12,35 +12,38 @@ parts_used:
 - Flower
 - Leaf
 botanical_description:
-  text: Low, creeping perennial herb rooting at the nodes, with trifoliate leaves, each leaflet oval and
-    often marked with a pale chevron. Rounded white (sometimes pink-tinged) flower heads are borne on
-    long stalks above the foliage.
-  height: 5-15 cm (creeping, flower stalks slightly taller)
-  habit: Low, creeping, mat-forming perennial herb
-  leaves: Trifoliate, each leaflet oval, often marked with a pale chevron
-  flowers: Rounded white (sometimes pink-tinged) heads of small pea-like flowers on long stalks
-  stem: Creeping, rooting at the nodes
-  root: Fibrous roots with nitrogen-fixing nodules
-  fruit: Small pod containing 3-4 seeds
-  flowering_period: May-October
+  text: Low-growing herbaceous evergreen perennial about 10 cm tall whose stems act as stolons, creeping
+    up to 18 cm a year and rooting at the nodes to form mats. The leaves are trifoliolate, smooth, elliptic
+    to egg-shaped and long-stalked, usually with light or dark markings. Heads 1.5-2 cm wide of whitish
+    florets, often tinged pink or cream, stand on stalks about 7 cm long. It flowers from June to September
+    and fixes nitrogen.
+  height: About 10 cm
+  habit: Low, mat-forming perennial with creeping stolons rooting at the nodes
+  leaves: Trifoliolate, smooth, elliptic to egg-shaped, long-stalked, usually with light or dark markings
+  flowers: Whitish florets, often tinged pink or cream, in heads 1.5-2 cm wide on stalks about 7 cm long
+  stem: Stolons creeping up to 18 cm a year, rooting at the nodes
+  root: Nitrogen-fixing
+  flowering_period: June-September
   reference_ids:
-  - REF-0027
+  - REF-4313
+  - REF-3359
   status: verified
 habitat:
-  text: Grows in lawns, pastures, meadows and grassy waste ground; native to Europe and western Asia and
-    now naturalised worldwide, including as a common lawn and forage plant.
+  text: Grassland and lawns, preferring a calcareous clay soil. Native to Eurasia, from Europe including
+    Britain south and east to North Africa and north and western Asia; widely introduced as a forage crop
+    and now common in grassy areas of the Americas, Australia and New Zealand.
   reference_ids:
-  - REF-0027
+  - REF-3359
+  - REF-4313
   status: verified
 harvesting:
-  text: Flowering heads and leaves are picked through the flowering season and dried in a warm, shaded,
-    airy place.
+  text: The flowering heads are gathered while the plant is in flower (June-September) and dried, for
+    example as a tea substitute.
   parts:
   - Flower
-  - Leaf
-  season: May-October
+  season: June-September, in flower
   reference_ids:
-  - REF-0027
+  - REF-3359
   status: verified
 harvest_readiness:
 - part: flower
@@ -66,18 +69,20 @@ harvest_readiness:
   status: provisional
   notes: "PFAF (REF-3359); the leaf is gathered with the flowerheads in summer. Single lineage -> provisional."
 traditional_uses:
-  text: White clover has a folk tradition, similar to but lighter than its relative red clover, as an
-    anti-inflammatory and wound-healing remedy and mild expectorant, and modern research on its isoflavones
-    and phenolics has additionally investigated antioxidant, kidney-protective and liver-protective activity.
+  text: White clover has been used as a traditional medicine as well as a leafy vegetable and fodder;
+    a review lists its traditional anti-inflammatory, antiseptic, analgesic, antirheumatic and antimicrobial
+    uses. An infusion has been used for coughs, colds, fevers and leucorrhoea, a leaf tincture as an ointment
+    for gout, and a flower infusion as an eyewash.
   reference_ids:
-  - REF-0027
-  - REF-0140
+  - REF-1324
+  - REF-3359
   status: verified
 preparations:
-- name: Infusion (flower/leaf)
-  text: Dried flower and leaf infused in hot water as a traditional mild tonic and expectorant tea.
+- name: Infusion
+  text: An infusion of the plant has been used for coughs, colds, fevers and leucorrhoea, and an infusion
+    of the flowers as an eyewash.
   reference_ids:
-  - REF-0027
+  - REF-3359
   status: verified
 - name: Poultice (leaf)
   text: Fresh crushed leaf applied topically as a traditional wound and bruise poultice.
@@ -91,28 +96,34 @@ constituents:
 - name: Isoflavones
   compounds:
   - flavonoid
-  note: Phytoestrogenic isoflavones, present at lower levels than in red clover.
+  note: Isoflavones are among the constituents reviewed for the species; the O-methylated isoflavones
+    formononetin and biochanin A occur in the roots.
   reference_ids:
-  - REF-0140
-- name: Cyanogenic glycosides (trace)
+  - REF-1324
+  - REF-4313
+- name: Cyanogenic glycosides (linamarin, lotaustralin)
   compounds:
   - glycoside
-  note: Present in small amounts; not significant in normal food or tea use.
+  note: 'The species is polymorphic for cyanogenic glycosides: leaves and flowers of some forms release
+    cyanide on contact with the enzyme linamarase.'
   reference_ids:
-  - REF-0027
+  - REF-1324
+  - REF-3359
+  - REF-4313
 - name: Phenolic acids and flavonoids
   compounds:
   - phenolic-acid
   - flavonoid
-  note: Contribute to antioxidant activity.
+  note: Simple phenols, phenolic acids, flavones and flavonols occur in the flowers and leaves; the plant
+    is described as antioxidant.
   reference_ids:
-  - REF-0140
+  - REF-1324
+  - REF-2368
 actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-2943
   - REF-2937
-  - REF-0027
   - REF-1323
   - REF-1324
   - REF-1327
@@ -130,7 +141,6 @@ actions:
   - REF-2905
   - REF-2907
   - REF-2908
-  - REF-0027
   - REF-1323
   - REF-1324
   - REF-1326
@@ -139,19 +149,12 @@ actions:
   - REF-2368
   - REF-2369
   status: verified
-- action: antispasmodic
-  note: Antispasmodic (cramp easing)
-  reference_ids:
-  - REF-0027
-  status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0027
   - REF-1324
   status: verified
 - action: vulnerary
   reference_ids:
-  - REF-0027
   - REF-1323
   - REF-2367
   status: verified
@@ -191,7 +194,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2943
-  - REF-0027
 - condition: cancer
   note: White clover extract blocked the growth of leukaemia cells in the lab (preclinical)
   reference_ids:
@@ -202,12 +204,10 @@ indications:
 - condition: immune-support
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0027
+  mechanistic_exclude_ids: []
 - condition: inflammation
   note: White clover compounds had anti-inflammatory activity in the lab (preclinical)
   reference_ids:
-  - REF-0027
   - REF-2366
   status: needs-review
   mechanistic_exclude_ids:
@@ -218,11 +218,9 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2943
-  - REF-0027
 - condition: wounds
   note: A white clover ointment sped wound healing in rats (preclinical)
   reference_ids:
-  - REF-0027
   - REF-1323
   - REF-2367
   status: needs-review
@@ -261,20 +259,18 @@ indications:
   status: needs-review
   note: White clover leaf compounds inhibited cholinesterase in the lab (preclinical)
 contraindications:
-- note: Generally very safe as a food and in moderate herbal use. Cyanogenic glucosides present in very
-    small amounts - not significant in normal food or tea use. Isoflavones are phytoestrogens (as in red
-    clover) - same precautions apply in hormone-sensitive conditions. Well tolerated by most people.
+- note: White clover is polymorphic for cyanogenic glycosides, and some forms release cyanide; it has
+    caused problems for grazing animals, though not in Britain. A few phytoestrogenic effects have been
+    reported in grazing ruminants.
   severity: caution
   reference_ids:
-  - REF-0027
-  - REF-0140
+  - REF-3359
+  - REF-4313
   status: verified
 - note: Duke (2002) does not include a dedicated entry for white clover (Trifolium repens) in the Handbook
     of Medicinal Herbs, Second Edition.
   severity: info
   reference_ids:
-  - REF-0027
-  - REF-0140
   - REF-0063
   status: verified
 references:
@@ -370,4 +366,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Clover-isoflavone review REF-0140 removed from 5 actions. Bruising, cold, menstrual-cramps,
   muscle-spasm dropped (nothing names them). T. canescens wound result REF-2904 and in-silico
   REF-2941 removed; Cryptosporidium tannin study REF-2909 (no inhibition) moved to no-effect.
-  Blood-sugar is in vitro only (verified -> needs-review).'
+  Blood-sugar is in vitro only (verified -> needs-review).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0027 (''Bhattacharya
+  2013, review of white clover'', vol 7(7):583-8) and REF-0140 (''Klaiber 2002, isoflavones from
+  clover species'') are not in PubMed, Crossref or OpenAlex under those titles, authors or years:
+  removed and deleted. The description, habitat, harvest, history, infusion, constituents and caution
+  are rewritten from PFAF REF-3359, Wikipedia REF-4313, the Ahmad & Zeb review REF-1324 and REF-2368.
+  The antispasmodic action had no other source and is removed. Inflammation and wounds keep their lab
+  sources (same tier). Dropped as unsourced: 3-4-seeded pods, flowering May-October, ''lighter than
+  red clover'', isoflavones lower than red clover, ''not significant in normal food or tea use'',
+  red-clover hormone precautions.'

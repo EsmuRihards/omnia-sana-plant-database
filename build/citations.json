@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 3782,
+ "count": 3777,
  "citations": [
   {
    "ref_id": "REF-3688",
@@ -33683,6 +33683,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0345",
+   "key": "francisbaker2021concise",
+   "type": "book",
+   "title": "Concise Foraging Guide",
+   "authors": "Francis-Baker, T",
+   "journal": "",
+   "year": "2021",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Concise%20Foraging%20Guide",
+   "link_type": "search",
+   "citation": "Francis-Baker, T (2021) 'Concise Foraging Guide', pp. 48.",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Concise Foraging Guide",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0758",
    "key": "rock2021cannabis",
    "type": "article",
@@ -35296,6 +35327,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-4314",
+   "key": "ema2021rosmarinus",
+   "type": "misc",
+   "title": "European Union herbal monograph on Rosmarinus officinalis L., folium, Revision 1",
+   "authors": "European Medicines Agency",
+   "journal": "",
+   "year": "2021",
+   "doi": "",
+   "url": "https://www.ema.europa.eu/en/medicines/herbal/rosmarini-folium",
+   "link": "https://www.ema.europa.eu/en/medicines/herbal/rosmarini-folium",
+   "link_type": "url",
+   "citation": "European Medicines Agency (2021) 'European Union herbal monograph on Rosmarinus officinalis L., folium, Revision 1'. Available at: https://www.ema.europa.eu/en/medicines/herbal/rosmarini-folium",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "European Union herbal monograph on Rosmarinus officinalis L., folium, Revision 1",
+   "plants": [
+    "Rosemary",
+    "garden rosemary"
+   ],
+   "scientific": [
+    "Salvia rosmarinus"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
+   "conditions": [
+    "Arthritis / joint pain",
+    "Cardiovascular / heart health",
+    "Indigestion"
+   ]
+  },
+  {
    "ref_id": "REF-3149",
    "key": "emahmpc2021taraxacum",
    "type": "standard",
@@ -35715,37 +35781,6 @@
    "display": "Fomitopsis betulina: A Rich Source of Diverse Bioactive Metabolites",
    "plants": [],
    "scientific": [],
-   "actions": [],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-0345",
-   "key": "francisbaker2021concise",
-   "type": "book",
-   "title": "",
-   "authors": "Francis-Baker, T",
-   "journal": "",
-   "year": "2021",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Francis-Baker%2C%20T",
-   "link_type": "search",
-   "citation": "Francis-Baker, T (2021), pp. 48.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "francisbaker2021concise",
-   "plants": [
-    "Bee nettle",
-    "Dumb nettle",
-    "White Dead Nettle",
-    "White dead-nettle"
-   ],
-   "scientific": [
-    "Lamium album"
-   ],
    "actions": [],
    "conditions": []
   },
@@ -66702,36 +66737,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0266",
-   "key": "seidler2016essential",
-   "type": "article",
-   "title": "Essential oil content and composition of sweet marjoram (Origanum majorana L.) grown in Poland",
-   "authors": "Seidler-Lozykowska, K. et al",
-   "journal": "",
-   "year": "2016",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Essential%20oil%20content%20and%20composition%20of%20sweet%20marjoram%20%28Origanum%20majorana%20L.%29%20grown%20in%20Poland",
-   "link_type": "search",
-   "citation": "Seidler-Lozykowska, K. et al (2016) 'Essential oil content and composition of sweet marjoram (Origanum majorana L.) grown in Poland', 62(1), pp. 37--45.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Essential oil content and composition of sweet marjoram (Origanum majorana L.) grown in Poland",
-   "plants": [
-    "Marjoram",
-    "knotted marjoram",
-    "sweet marjoram"
-   ],
-   "scientific": [
-    "Origanum majorana"
-   ],
-   "actions": [],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-1311",
    "key": "vetvicka2016thyme",
    "type": "article",
@@ -77290,41 +77295,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0270",
-   "key": "shang2014genus",
-   "type": "misc",
-   "title": "The genus Leonurus: traditional uses, phytochemistry and pharmacology",
-   "authors": "Shang, X. et al",
-   "journal": "",
-   "year": "2014",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=The%20genus%20Leonurus%3A%20traditional%20uses%2C%20phytochemistry%20and%20pharmacology",
-   "link_type": "search",
-   "citation": "Shang, X. et al (2014) 'The genus Leonurus: traditional uses, phytochemistry and pharmacology', pp. 43--63.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "The genus Leonurus: traditional uses, phytochemistry and pharmacology",
-   "plants": [
-    "Motherwort",
-    "lion's tail",
-    "throw-wort"
-   ],
-   "scientific": [
-    "Leonurus cardiaca"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Antispasmodic",
-    "Sedative / sleep support"
-   ],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-2483",
    "key": "maniscalco2014rhodiola",
    "type": "article",
@@ -79119,43 +79089,6 @@
    ]
   },
   {
-   "ref_id": "REF-0028",
-   "key": "bhilave2013antibacterial",
-   "type": "article",
-   "title": "Evaluation of antibacterial activity of cardamom seeds of Elettaria cardamomum",
-   "authors": "Bhilave, M.P., Bhosale, S.V. and Nadaf, S.B",
-   "journal": "",
-   "year": "2013",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Evaluation%20of%20antibacterial%20activity%20of%20cardamom%20seeds%20of%20Elettaria%20cardamomum",
-   "link_type": "search",
-   "citation": "Bhilave, M.P., Bhosale, S.V. and Nadaf, S.B (2013) 'Evaluation of antibacterial activity of cardamom seeds of Elettaria cardamomum', 4(1), pp. 66--69.",
-   "abstract": "",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Evaluation of antibacterial activity of cardamom seeds of Elettaria cardamomum",
-   "plants": [
-    "Cardamom",
-    "Green cardamom",
-    "small cardamom",
-    "true cardamom",
-    "“elaichi” Note: Not the same as black cardamom  - that one is smokier and used differently in cooking"
-   ],
-   "scientific": [
-    "Elettaria cardamomum"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antimicrobial",
-    "Antioxidant",
-    "Digestive aid"
-   ],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-3947",
    "key": "nitzsche2013aristolochic",
    "type": "article",
@@ -79443,21 +79376,21 @@
    "ref_id": "REF-0181",
    "key": "natural2013hypericum",
    "type": "misc",
-   "title": "Hypericum perforatum (St",
+   "title": "Hypericum perforatum (St. John's wort)",
    "authors": "Natural Standard",
    "journal": "",
    "year": "2013",
    "doi": "",
    "url": "",
-   "link": "https://scholar.google.com/scholar?q=Hypericum%20perforatum%20%28St",
+   "link": "https://scholar.google.com/scholar?q=Hypericum%20perforatum%20%28St.%20John%27s%20wort%29",
    "link_type": "search",
-   "citation": "Natural Standard (2013) 'Hypericum perforatum (St'.",
+   "citation": "Natural Standard (2013) 'Hypericum perforatum (St. John's wort)'.",
    "abstract": "",
    "tier": "traditional",
    "corpus": [
     "clinical"
    ],
-   "display": "Hypericum perforatum (St",
+   "display": "Hypericum perforatum (St. John's wort)",
    "plants": [
     "Perforate St John’s-wort",
     "St John's wort",
@@ -79470,8 +79403,6 @@
    "actions": [
     "Anti-inflammatory",
     "Antioxidant",
-    "Antiviral",
-    "Emollient / skin-soothing",
     "Sedative / sleep support",
     "Vulnerary (wound healing)"
    ],
@@ -80626,45 +80557,6 @@
    "actions": [],
    "conditions": [
     "Respiratory support"
-   ]
-  },
-  {
-   "ref_id": "REF-0027",
-   "key": "bhattacharya2013botanical",
-   "type": "article",
-   "title": "Review of the botanical, phytochemical, pharmacological and toxicological properties of white clover (Trifolium repens L.)",
-   "authors": "Bhattacharya, S. et al",
-   "journal": "",
-   "year": "2013",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Review%20of%20the%20botanical%2C%20phytochemical%2C%20pharmacological%20and%20toxicological%20properties%20of%20white%20clover%20%28Trifolium%20repens%20L.%29",
-   "link_type": "search",
-   "citation": "Bhattacharya, S. et al (2013) 'Review of the botanical, phytochemical, pharmacological and toxicological properties of white clover (Trifolium repens L.)', 7(7), pp. 583--588.",
-   "abstract": "",
-   "tier": "narrative",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Review of the botanical, phytochemical, pharmacological and toxicological properties of white clover (Trifolium repens L.)",
-   "plants": [
-    "Dutch clover",
-    "White clover",
-    "shamrock"
-   ],
-   "scientific": [
-    "Trifolium repens"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Antispasmodic",
-    "Immunomodulator / immune support",
-    "Vulnerary (wound healing)"
-   ],
-   "conditions": [
-    "Inflammation (general)",
-    "Wounds"
    ]
   },
   {
@@ -84526,41 +84418,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0133",
-   "key": "kempe2011activity",
-   "type": "article",
-   "title": "Activity of Thymus serpyllum against oral pathogens",
-   "authors": "Kempe, K., Doerfler, G., Bader, D. and Wicht, M",
-   "journal": "",
-   "year": "2011",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Activity%20of%20Thymus%20serpyllum%20against%20oral%20pathogens",
-   "link_type": "search",
-   "citation": "Kempe, K., Doerfler, G., Bader, D. and Wicht, M (2011) 'Activity of Thymus serpyllum against oral pathogens', 9(1), pp. 23--28.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Activity of Thymus serpyllum against oral pathogens",
-   "plants": [
-    "Breckland Thyme",
-    "Wild thyme",
-    "creeping thyme",
-    "elfin thyme"
-   ],
-   "scientific": [
-    "Thymus serpyllum"
-   ],
-   "actions": [
-    "Antimicrobial"
-   ],
-   "conditions": [
-    "Infection (general)"
-   ]
-  },
-  {
    "ref_id": "REF-2990",
    "key": "giridharan2011amelioration",
    "type": "article",
@@ -88372,36 +88229,6 @@
    "display": "Preliminary gas chromatography with mass spectrometry determination of 3,5-dimethoxyphenol in biological specimens as evidence of taxus poisoning",
    "plants": [],
    "scientific": [],
-   "actions": [],
-   "conditions": []
-  },
-  {
-   "ref_id": "REF-0279",
-   "key": "sousa2010proanthocyanidins",
-   "type": "article",
-   "title": "Proanthocyanidins from Pinus pinaster bark",
-   "authors": "Sousa, A. et al",
-   "journal": "",
-   "year": "2010",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Proanthocyanidins%20from%20Pinus%20pinaster%20bark",
-   "link_type": "search",
-   "citation": "Sousa, A. et al (2010) 'Proanthocyanidins from Pinus pinaster bark', 71(1), pp. 64--72.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Proanthocyanidins from Pinus pinaster bark",
-   "plants": [
-    "Baltic pine",
-    "Scotch pine",
-    "Scots Pine"
-   ],
-   "scientific": [
-    "Pinus sylvestris"
-   ],
    "actions": [],
    "conditions": []
   },
@@ -103378,36 +103205,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0140",
-   "key": "klaiber2002isoflavones",
-   "type": "article",
-   "title": "Health benefits of isoflavones from clover species",
-   "authors": "Klaiber, I. et al",
-   "journal": "",
-   "year": "2002",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Health%20benefits%20of%20isoflavones%20from%20clover%20species",
-   "link_type": "search",
-   "citation": "Klaiber, I. et al (2002) 'Health benefits of isoflavones from clover species', 16(1), pp. 1--8.",
-   "abstract": "",
-   "tier": "traditional",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Health benefits of isoflavones from clover species",
-   "plants": [
-    "Dutch clover",
-    "White clover",
-    "shamrock"
-   ],
-   "scientific": [
-    "Trifolium repens"
-   ],
-   "actions": [],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-3093",
    "key": "who2002andrographis",
    "type": "book",
@@ -103450,9 +103247,18 @@
     "clinical"
    ],
    "display": "Herba Hyperici",
-   "plants": [],
-   "scientific": [],
-   "actions": [],
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [
+    "Antiviral"
+   ],
    "conditions": []
   },
   {
@@ -108673,40 +108479,6 @@
    "conditions": []
   },
   {
-   "ref_id": "REF-0304",
-   "key": "westendorf1988pyrrolizidine",
-   "type": "misc",
-   "title": "Pyrrolizidine alkaloid content of Tussilago farfara plants from different regions and preparations",
-   "authors": "Westendorf, J., Czok, G., Marquardt, R., Nausner, M., Krauer, B. and Paul, H.L",
-   "journal": "",
-   "year": "1988",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Pyrrolizidine%20alkaloid%20content%20of%20Tussilago%20farfara%20plants%20from%20different%20regions%20and%20preparations",
-   "link_type": "search",
-   "citation": "Westendorf, J., Czok, G., Marquardt, R., Nausner, M., Krauer, B. and Paul, H.L (1988) 'Pyrrolizidine alkaloid content of Tussilago farfara plants from different regions and preparations', pp. 903--909.",
-   "abstract": "",
-   "tier": "preclinical",
-   "corpus": [
-    "clinical"
-   ],
-   "display": "Pyrrolizidine alkaloid content of Tussilago farfara plants from different regions and preparations",
-   "plants": [
-    "Coltsfoot",
-    "Common coltsfoot",
-    "Farfarae Flos",
-    "Kuan Dong Hua",
-    "coughwort",
-    "foal’s foot",
-    "horsehoof"
-   ],
-   "scientific": [
-    "Tussilago farfara"
-   ],
-   "actions": [],
-   "conditions": []
-  },
-  {
    "ref_id": "REF-2054",
    "key": "vennat1988hamamelis",
    "type": "article",
@@ -110105,11 +109877,8 @@
    ],
    "display": "A Modern Herbal",
    "plants": [
-    "Baltic pine",
     "Greater Plantain",
     "Mugwort",
-    "Scotch pine",
-    "Scots Pine",
     "Yarrow",
     "broadleaf plantain",
     "common mugwort",
@@ -110123,7 +109892,6 @@
    "scientific": [
     "Achillea millefolium",
     "Artemisia vulgaris",
-    "Pinus sylvestris",
     "Plantago major"
    ],
    "actions": [
@@ -110132,7 +109900,6 @@
     "Antioxidant",
     "Antispasmodic",
     "Diuretic",
-    "Expectorant",
     "Vulnerary (wound healing)"
    ],
    "conditions": [
@@ -110141,11 +109908,8 @@
     "Diarrhoea",
     "Fever",
     "Heavy menstrual bleeding",
-    "Infection (general)",
     "Inflammation (general)",
-    "Respiratory support",
-    "Skin irritation",
-    "Urinary support"
+    "Skin irritation"
    ]
   },
   {
@@ -111824,7 +111588,8 @@
    ],
    "actions": [],
    "conditions": [
-    "Indigestion"
+    "Indigestion",
+    "Infection (general)"
    ]
   },
   {
@@ -118176,6 +117941,30 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-4312",
+   "key": "wikipedia_pinus_sylvestris",
+   "type": "misc",
+   "title": "Pinus sylvestris",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Pinus_sylvestris",
+   "link": "https://en.wikipedia.org/wiki/Pinus_sylvestris",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Pinus sylvestris'. Available at: https://en.wikipedia.org/wiki/Pinus_sylvestris",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Pinus sylvestris",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3311",
    "key": "pfaf_pinus_sylvestris",
    "type": "misc",
@@ -118194,10 +117983,25 @@
     "clinical"
    ],
    "display": "Pinus sylvestris (Scots Pine)",
-   "plants": [],
-   "scientific": [],
-   "actions": [],
-   "conditions": []
+   "plants": [
+    "Baltic pine",
+    "Scotch pine",
+    "Scots Pine"
+   ],
+   "scientific": [
+    "Pinus sylvestris"
+   ],
+   "actions": [
+    "Diuretic",
+    "Expectorant"
+   ],
+   "conditions": [
+    "Arthritis / joint pain",
+    "Infection (general)",
+    "Respiratory support",
+    "Skin irritation",
+    "Urinary support"
+   ]
   },
   {
    "ref_id": "REF-3313",
@@ -121542,6 +121346,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-4313",
+   "key": "wikipedia_trifolium_repens",
+   "type": "misc",
+   "title": "Trifolium repens",
+   "authors": "Wikipedia contributors",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://en.wikipedia.org/wiki/Trifolium_repens",
+   "link": "https://en.wikipedia.org/wiki/Trifolium_repens",
+   "link_type": "url",
+   "citation": "Wikipedia contributors 'Trifolium repens'. Available at: https://en.wikipedia.org/wiki/Trifolium_repens",
+   "abstract": "",
+   "tier": "traditional",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Trifolium repens",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3359",
    "key": "pfaf_trifolium_repens",
    "type": "misc",
@@ -121560,8 +121394,14 @@
     "clinical"
    ],
    "display": "Trifolium repens (White Clover)",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
    "actions": [],
    "conditions": []
   },

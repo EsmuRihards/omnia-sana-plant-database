@@ -83,7 +83,6 @@ preparations:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   status: verified
 - name: Essential oil (topical)
   text: Diluted essential oil applied for muscular aches or minor skin infections.
@@ -103,7 +102,6 @@ dosage:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   status: verified
 constituents:
 - name: Essential oil (terpinen-4-ol, sabinene hydrate, thymol, carvacrol)
@@ -239,7 +237,6 @@ contraindications:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   status: verified
 - note: 'Duke (2002) rates marjoram (Origanum majorana) as +++ and notes antiviral, antispasmodic, COX-2
     inhibitory, and antiseptic activities at the experimental level (score 1). It demonstrates antiherpetic
@@ -251,7 +248,6 @@ contraindications:
   reference_ids:
   - REF-0020
   - REF-0112
-  - REF-0266
   - REF-0063
   status: verified
 references:
@@ -305,4 +301,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   actions, kept in references, retagged narrative-review. Muscle-spasm dropped (gut
   calcium-channel study; off-target). Not used: PCOS tea RCT REF-1227 (no matching condition);
   aromatherapy blend for dysmenorrhoea 22435409 (combination).
-  | 2026-11-19 (monograph-source audit): harvesting cited only REF-1231 (lab study). RE-SOURCED: PFAF REF-3304 + Grieve Sweet Marjoram (REF-4017, new). Dropped as unsupported: cut when essential-oil content is highest, dried quickly in a warm shaded well-ventilated place.'
+  | 2026-11-19 (monograph-source audit): harvesting cited only REF-1231 (lab study). RE-SOURCED: PFAF REF-3304 + Grieve Sweet Marjoram (REF-4017, new). Dropped as unsupported: cut when essential-oil content is highest, dried quickly in a warm shaded well-ventilated place.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0266
+  ''Seidler-Lozykowska 2016, sweet marjoram essential oil in Poland'' is not in PubMed, Crossref or
+  OpenAlex as cited: removed from every entry (each kept another source) and deleted.'

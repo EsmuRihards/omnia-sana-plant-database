@@ -137,7 +137,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0198
-  - REF-0270
   - REF-0860
   - REF-0865
   - REF-0866
@@ -146,7 +145,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0198
-  - REF-0270
   - REF-0861
   - REF-0865
   - REF-0868
@@ -155,12 +153,10 @@ actions:
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0198
-  - REF-0270
   status: verified
 - action: sedative
   reference_ids:
   - REF-0198
-  - REF-0270
   - REF-0861
   - REF-0864
   status: verified
@@ -173,7 +169,6 @@ indications:
   - REF-0866
   - REF-0867
   - REF-0198
-  - REF-0270
 - condition: cardiovascular-support
   reference_ids:
   - REF-0860
@@ -189,7 +184,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0198
-  - REF-0270
 - condition: insomnia
   note: Sedative activity reported in clinical studies (review)
   reference_ids:
@@ -197,7 +191,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0198
-  - REF-0270
   - REF-0864
 - condition: menstrual-cramps
   reference_ids:
@@ -205,7 +198,6 @@ indications:
   status: verified
   mechanistic_exclude_ids:
   - REF-0198
-  - REF-0270
   note: Traditionally used for gynaecological complaints including painful periods (review of the EMA
     assessment)
 - condition: skin-irritation
@@ -216,7 +208,6 @@ indications:
   - REF-0866
   - REF-0867
   - REF-0198
-  - REF-0270
 contraindications:
 - note: Contraindicated in pregnancy (uterine stimulant). Avoid in heavy menstrual bleeding. May enhance
     anticoagulant and antihypertensive drug effects. Avoid in thyroid disorders. Generally well tolerated
@@ -224,7 +215,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0198
-  - REF-0270
   status: verified
 - note: 'Duke (2002) rates motherwort as ++ and notes hypotensive, cardiotonic (negative chronotropic),
     anti-aggregant, and sedative activities at the experimental level (score 1). The plant is traditionally
@@ -235,7 +225,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0198
-  - REF-0270
   - REF-0063
   status: verified
 references:
@@ -301,4 +290,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   skin claim) removed from skin-irritation. REF-0868 title corrected to its DOI/PubMed record
   (Mentha aquatica, Lavandula dentata and L. cardiaca). Not used: melatonin vs motherwort tincture
   study 17209457 (no placebo; motherwort effects "less pronounced"); postpartum haemorrhage MA
-  40527062 (Chinese motherwort injection, L. japonicus).'
+  40527062 (Chinese motherwort injection, L. japonicus).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0270 ''Shang 2014, The
+  genus Leonurus'' (the real Shang 2014 J Ethnopharmacol review is on Leonurus japonicus) is not in
+  PubMed, Crossref or OpenAlex as cited: removed from every entry (each kept another source) and
+  deleted.'

@@ -152,6 +152,7 @@ actions:
   note: Antispasmodic (cramp easing)
   reference_ids:
   - REF-0112
+  - REF-4314
   status: verified
 - action: digestive
   reference_ids:
@@ -168,9 +169,10 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
+  note: Used externally for the relief of minor muscular and joint pain (EU herbal monograph)
   reference_ids:
   - REF-0112
+  - REF-4314
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1285
@@ -188,8 +190,9 @@ indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-0112
+  - REF-4314
   status: verified
-  note: Traditional use (Medical Herbalism)
+  note: Used externally in minor peripheral circulatory disorders (EU herbal monograph)
 - condition: cognitive-function
   note: Rosemary extract improved cognitive function in COPD patients in a randomized trial and memory
     in students; it improved cognition in animal studies (meta-analysis)
@@ -202,9 +205,10 @@ indications:
   mechanistic_exclude_ids:
   - REF-1287
 - condition: indigestion
-  note: inferred from digestive action
+  note: Traditional use for the relief of dyspepsia (EU herbal monograph)
   reference_ids:
   - REF-0112
+  - REF-4314
   status: needs-review
   mechanistic_exclude_ids: []
 - condition: infection
@@ -339,4 +343,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   compound that names neither lemon balm nor rosemary (only Boraginaceae, Nepetoideae and
   Coleus/Salvia officinalis cell cultures). A compound paper that names no species is not a source for
   it (DATA_PRINCIPLES invariant 10), so it is removed from every entry here and deleted from the
-  bibliography.'
+  bibliography.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): the EU rosemary-leaf
+  monograph REF-4314 (Revision 1, 2021) added to the arthritis (minor articular pain), cardiovascular
+  (minor peripheral circulatory disorders) and indigestion (dyspepsia) pairs and the antispasmodic
+  action (mild spasmodic disorders of the GI tract); traditional tier, no score change. The bloating,
+  infection, menstrual-cramps and skin-irritation pairs rest only on Hoffmann (print, unreadable) and
+  are listed for owner review.'

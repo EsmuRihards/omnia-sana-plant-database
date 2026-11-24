@@ -14,41 +14,42 @@ parts_used:
 - Sap
 - Young sprouts
 botanical_description:
-  text: Evergreen coniferous tree (Pinaceae), 15-35 m tall, with a long, straight trunk at maturity, distinctive
-    orange-red flaking bark in the upper crown and grey-brown fissured bark at the base. Needles are blue-green,
-    borne in pairs (fascicles of two) with a papery basal sheath. Small yellow male cones release pollen
-    in spring; female cones are woody and mature over two years.
-  height: 15-35 m
+  text: Coniferous tree up to 35 m tall (exceptionally over 45 m) with a trunk up to 1 m across; mature
+    trees have a long, bare, straight trunk topped by a rounded or flat crown. The bark is thick, flaky
+    and orange-red when young, becoming scaly and grey-brown, often staying orange-red higher up. Needles
+    are glaucous blue-green, 2.5-5 cm long, in pairs with a persistent grey basal sheath. Seed cones are
+    red at pollination and mature in their second year into ovoid-conic cones 3-7.5 cm long; the yellow
+    pollen cones shed pollen in mid to late spring.
+  height: Up to 35 m (exceptionally over 45 m)
   habit: Evergreen coniferous tree
-  leaves: Needles blue-green, in pairs, with a papery basal sheath
-  flowers: Small yellow male cones (pollen); separate woody female cones
-  stem: Long, straight trunk; orange-red flaking bark in the upper crown, grey-brown fissured bark at
-    the base
-  root: Deep, wide-spreading root system
-  fruit: Woody cone, maturing over two years
-  flowering_period: May (pollen release)
+  leaves: Glaucous blue-green needles 2.5-5 cm long, in pairs with a persistent grey basal sheath
+  flowers: Yellow (occasionally pink) pollen cones; seed cones red at pollination
+  stem: Long, bare, straight trunk; bark orange-red and flaky when young, scaly grey-brown later
+  fruit: Ovoid-conic cone 3-7.5 cm, maturing in the second year
+  flowering_period: Pollen release in mid to late spring
   reference_ids:
-  - REF-0098
+  - REF-4312
   status: verified
 habitat:
-  text: Native across northern and central Europe and Siberia - the most widely distributed pine species
-    in the world - forming extensive boreal and montane forests on poor, sandy or peaty, acidic soils;
-    a pioneer species tolerant of dry, nutrient-poor ground.
+  text: The only pine native to northern Europe, ranging from western Europe to eastern Siberia, south
+    to the Caucasus and Anatolia and north well inside the Arctic Circle; from sea level to 1,000 m in
+    the north and at 1,200-2,600 m in the south. It grows mainly on poorer, sandy soils, rocky outcrops,
+    peat bogs or near the forest limit; on fertile sites other trees outcompete it.
   reference_ids:
-  - REF-0098
+  - REF-4312
   status: verified
 harvesting:
-  text: Young shoots ('candles') and needles are gathered in spring; bark is stripped from felled or cultivated
-    trees; resin/sap is tapped from the trunk. Needle-bearing twigs can be cut for tea and for steam distillation
-    of the essential oil year-round.
+  text: The leaves (needles) and young shoots are harvested in spring and dried for later use. The Sami
+    took large sheets of inner bark in spring as a stored food. Resin is obtained by tapping the trunk.
   parts:
   - Bark
   - Leaf (needles)
   - Sap
   - Young sprouts
-  season: Young shoots/needles in spring; bark and sap variable
+  season: Needles and young shoots in spring; inner bark in spring
   reference_ids:
-  - REF-0098
+  - REF-3311
+  - REF-3382
   status: verified
 harvest_readiness:
 - part: shoot
@@ -88,19 +89,25 @@ harvest_readiness:
   status: gap
   notes: "GAP (documented dead end, re-searched 2026-08-15). No source states a resin/sap collection stage for Pinus sylvestris specifically. PFAF gives no timing. Resin-tapping literature that does tie tapping to the growing season concerns other pines (Pinus pinaster, P. pinea, P. merkusii, P. elliottii), and that timing must not be inherited across species. The inner bark of this species IS now sourced (spring, REF-3382), but that is a different organ. Next seam: a Nordic or Baltic naval-stores / oleoresin-tapping source that names Pinus sylvestris."
 traditional_uses:
-  text: Scots pine has a long northern European tradition as a source of resinous, aromatic preparations
-    for respiratory complaints (coughs, bronchitis, catarrh) and topical rheumatic/muscular remedies,
-    and pine-needle tea has traditionally been valued as a vitamin-C-rich winter tonic. Modern research
-    on the needle essential oil supports antimicrobial, anti-inflammatory and expectorant activity.
+  text: Scots pine is valued especially for its antiseptic action and its effect on the respiratory system.
+    Turpentine from the resin was used for kidney, bladder and rheumatic complaints, mucous-membrane and
+    respiratory complaints, and externally in liniments, plasters and inhalers; the leaves and young shoots
+    were taken for chest infections and for rheumatism and arthritis, and added to baths. The tree was
+    the main source of tar in preindustrial Scandinavia, and the Sami ate its inner bark as a staple food
+    from at least 1450 to 1890.
   reference_ids:
-  - REF-0098
+  - REF-3311
+  - REF-4312
+  - REF-3382
   status: verified
 preparations:
-- name: Needle infusion (tea)
-  text: Fresh or dried young needles steeped in hot water - the traditional vitamin-C-rich tonic tea.
-    Only use needles from a certainly identified pine, never yew (see dangerous look-alikes).
+- name: Needles and young shoots (internal, bath, inhalant)
+  text: Leaves and young shoots, harvested in spring and dried, are taken internally for a mildly antiseptic
+    effect in the chest, added to bath water, or used as an inhalant for chest complaints. Only use needles
+    from a certainly identified pine, never yew (see dangerous look-alikes).
   reference_ids:
-  - REF-0098
+  - REF-3311
+  - REF-2664
   status: verified
 - name: Essential oil (inhalation/topical)
   text: Steam-distilled from the needles; used diluted in ointments, chest rubs or steam inhalation for
@@ -116,8 +123,7 @@ dosage:
     the essential oil; avoid inhalation in severe asthma, whooping cough or laryngospasm. Educational
     reference only, not a prescription.'
   reference_ids:
-  - REF-0098
-  - REF-0279
+  - REF-0063
   status: verified
 constituents:
 - name: Essential oil (alpha-pinene, beta-pinene, limonene)
@@ -141,7 +147,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0098
   - REF-1234
   status: verified
 - action: anticancer
@@ -150,29 +155,28 @@ actions:
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-0098
   - REF-1233
   - REF-1240
   - REF-1241
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0098
   - REF-1237
   status: verified
 - action: diuretic
   reference_ids:
-  - REF-0098
+  - REF-3311
   status: verified
 - action: expectorant
   reference_ids:
-  - REF-0098
+  - REF-3311
   status: verified
 indications:
 - condition: arthritis
-  note: Traditional remedy for rheumatic complaints (Grieve, A Modern Herbal)
+  note: Leaves and young shoots are used for rheumatism and arthritis, and the turpentine for rheumatic
+    complaints (PFAF)
   reference_ids:
-  - REF-0098
+  - REF-3311
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1234
@@ -183,9 +187,9 @@ indications:
   - REF-1239
   status: needs-review
 - condition: infection
-  note: Traditional antiseptic use of pine preparations (Grieve, A Modern Herbal)
+  note: Valued for its antiseptic action; the essential oil is used for respiratory infections (PFAF)
   reference_ids:
-  - REF-0098
+  - REF-3311
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1240
@@ -196,35 +200,34 @@ indications:
   - REF-0633
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0098
   - REF-1234
   null_result_ids:
   - REF-1242
 - condition: respiratory-support
   reference_ids:
-  - REF-0098
   - REF-1234
+  - REF-3311
   status: verified
 - condition: skin-irritation
-  note: Pine tar was used traditionally for eczema and other skin complaints (Grieve, A Modern Herbal)
+  note: The leaves and young shoots are added to bath water for skin irritations (PFAF)
   reference_ids:
-  - REF-0098
+  - REF-3311
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1234
 - condition: urinary-support
-  note: Traditional remedy for bladder and kidney complaints (Grieve, A Modern Herbal)
+  note: The turpentine is a traditional remedy for kidney and bladder complaints (PFAF)
   reference_ids:
-  - REF-0098
+  - REF-3311
   status: needs-review
 contraindications:
-- note: Generally safe in normal amounts. Pine essential oil should not be ingested; topical use only
-    in diluted form. May irritate airways in high concentrations. Allergic reactions to pine pollen and
-    resin are common. Turpentine products are irritant and potentially toxic if ingested.
+- note: Should not be used by people prone to allergic skin reactions, and the essential oil should not
+    be taken internally except under professional supervision (PFAF). Duke (2002) advises that pine needle
+    oil should not be inhaled by people with severe asthma, whooping cough or laryngospasm.
   severity: caution
   reference_ids:
-  - REF-0098
-  - REF-0279
+  - REF-3311
+  - REF-0063
   status: verified
 - note: 'Duke (2002) rates Scotch pine as + and notes antiseptic, antibacterial (score 1), and bronchospasmolytic
     activities. Commission E (KOM) and PhEur (PIP) approve pine needle preparations for topical use in
@@ -234,8 +237,6 @@ contraindications:
     essential oil in ointment or cream for topical use (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-0098
-  - REF-0279
   - REF-0063
   status: verified
 references:
@@ -313,4 +314,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   uti and swelling dropped. REF-1234 (inhaled oil aggravated inflammatory markers) hidden from
   inflammation; REF-0633 (in vitro NO/iNOS, P. sylvestris) added. Wounds: remaining mechanistic
   cards were oil tests against N. gonorrhoeae and Cryptococcus (off-target, inv. 11) - pair
-  dropped.'
+  dropped.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): every entry here cited
+  generic Grieve REF-0098, whose Pine page is genus-level (''various species'') and does not describe
+  Scots pine. Re-sourced to the species'' own PFAF entry REF-3311 (read 2026-11-20: antiseptic,
+  respiratory, turpentine for kidney, bladder and rheumatic complaints, leaves and shoots for
+  rheumatism and arthritis and in baths for skin irritations; not for people prone to allergic skin
+  reactions; essential oil not internally) and Wikipedia REF-4312 (description, range, tar). REF-0279
+  (Pinus pinaster bark, a different species, and not findable as cited) removed and deleted. Same tier
+  on every pair (traditional), so no score change. Dropped as unsourced: vitamin-C needle tea, bark
+  stripped from felled trees, twigs year-round for distillation, ''most widely distributed pine'',
+  allergy to pine pollen.'

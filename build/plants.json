@@ -19409,7 +19409,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0028",
       "REF-1669",
       "REF-0144",
       "REF-1668",
@@ -19422,7 +19421,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0028",
       "REF-0144",
       "REF-1668",
       "REF-1674"
@@ -19432,7 +19430,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0028",
       "REF-1669",
       "REF-0144",
       "REF-0292",
@@ -19445,7 +19442,6 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0028",
       "REF-1669",
       "REF-0144",
       "REF-1668"
@@ -19460,7 +19456,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0028",
       "REF-1669",
       "REF-1670",
       "REF-0144"
@@ -19474,7 +19469,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0028",
       "REF-0144",
       "REF-1669"
      ],
@@ -19499,7 +19493,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0028",
       "REF-0144",
       "REF-1669"
      ],
@@ -19514,8 +19507,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0144",
-      "REF-0028"
+      "REF-0144"
      ],
      "evidence": 2,
      "label": "Infection (general)"
@@ -19529,7 +19521,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0028",
       "REF-1669",
       "REF-0144"
      ],
@@ -19552,7 +19543,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0028",
       "REF-1669",
       "REF-1670",
       "REF-0144"
@@ -19567,8 +19557,7 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-1674",
-      "REF-0144",
-      "REF-0028"
+      "REF-0144"
      ],
      "evidence": 1,
      "label": "Wounds"
@@ -19610,7 +19599,6 @@
      "note": "Cardamom is generally considered safe for most people when used in culinary amounts. At medicinal doses (supplement form), rare side effects include mild gastrointestinal discomfort and allergic reactions. There are no well-documented serious drug interactions at culinary doses. Cardamom may mildly lower blood pressure - caution if combined with antihypertensive medications. Some sources suggest potential gallstone formation with very high doses, as cardamom may stimulate bile flow. Avoid therapeutic doses during pregnancy until more safety data are available; culinary use is considered safe. Allergy to other Zingiberaceae (ginger, turmeric) may indicate cross-reactivity risk (Korikanthimath and Hiremath, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0028",
       "REF-1669",
       "REF-0144",
       "REF-0222",
@@ -19622,7 +19610,6 @@
      "note": "Duke (2002) provides clinical support (score 2) for cardamom as a cholagogue, antiviral agent, and appetite stimulant. Commission E and the German PDR (PHR) approve it for loss of appetite and bronchitis (score 2). The essential oil shows antispasmodic and carminative activity. Dose: 1.5 g ground fruit or equivalent preparation three times daily. Duke rates cardamom as generally safe (++), with no significant contraindications at therapeutic doses (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0028",
       "REF-1669",
       "REF-0144",
       "REF-0222",
@@ -28526,10 +28513,10 @@
    ],
    "contraindications": [
     {
-     "note": "Berries and juice are safe as food. Seed oil is safe topically and orally in moderate amounts. May have mild anticoagulant effects. May lower blood pressure and blood sugar - use caution with medications. Allergic reactions are rare.",
+     "note": "Sea buckthorn berry oil showed no genotoxicity in standard tests, and no maternal or embryo toxicity when given to pregnant rats; the authors conclude it is safe for dietary use (animal and lab evidence). The plant has been used for centuries as a medicine and food supplement in Asia and Europe.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0206"
+      "REF-0837"
      ],
      "status": "verified"
     },
@@ -28537,7 +28524,6 @@
      "note": "Duke (2002) rates sea buckthorn as +++ and notes antioxidant, hepatoprotective, antiulcer, and vulnerary activities at the experimental level (score 1). The berries are exceptionally rich in vitamins C (one of the highest natural sources) and E, carotenoids, flavonoids, and omega-7 fatty acids (palmitoleic acid). Duke recommends sea buckthorn as a 'food farmacy' - consumed as part of the regular diet for its nutritional-medicinal benefits. Its radioprotective properties have been studied, though without strong clinical validation. No significant safety concerns at food doses (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0206",
       "REF-0063"
      ],
      "status": "verified"
@@ -29447,14 +29433,7 @@
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-0181"
-     ],
-     "status": "verified"
-    },
-    {
-     "action": "emollient",
-     "reference_ids": [
-      "REF-0181"
+      "REF-3986"
      ],
      "status": "verified"
     },
@@ -33254,7 +33233,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0198",
-      "REF-0270",
       "REF-0860",
       "REF-0865",
       "REF-0866",
@@ -33266,7 +33244,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0198",
-      "REF-0270",
       "REF-0861",
       "REF-0865",
       "REF-0868"
@@ -33277,8 +33254,7 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0198",
-      "REF-0270"
+      "REF-0198"
      ],
      "status": "verified"
     },
@@ -33286,7 +33262,6 @@
      "action": "sedative",
      "reference_ids": [
       "REF-0198",
-      "REF-0270",
       "REF-0861",
       "REF-0864"
      ],
@@ -33302,8 +33277,7 @@
      "mechanistic_exclude_ids": [
       "REF-0866",
       "REF-0867",
-      "REF-0198",
-      "REF-0270"
+      "REF-0198"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -33328,8 +33302,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0198",
-      "REF-0270"
+      "REF-0198"
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
@@ -33343,7 +33316,6 @@
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0198",
-      "REF-0270",
       "REF-0864"
      ],
      "evidence": 2,
@@ -33356,8 +33328,7 @@
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-0198",
-      "REF-0270"
+      "REF-0198"
      ],
      "note": "Traditionally used for gynaecological complaints including painful periods (review of the EMA assessment)",
      "evidence": 2,
@@ -33371,8 +33342,7 @@
      "mechanistic_exclude_ids": [
       "REF-0866",
       "REF-0867",
-      "REF-0198",
-      "REF-0270"
+      "REF-0198"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -33383,8 +33353,7 @@
      "note": "Contraindicated in pregnancy (uterine stimulant). Avoid in heavy menstrual bleeding. May enhance anticoagulant and antihypertensive drug effects. Avoid in thyroid disorders. Generally well tolerated in normal doses for short-term use.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0198",
-      "REF-0270"
+      "REF-0198"
      ],
      "status": "verified"
     },
@@ -33393,7 +33362,6 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0198",
-      "REF-0270",
       "REF-0063"
      ],
      "status": "verified"
@@ -40326,8 +40294,7 @@
      "text": "Dried herb steeped in hot water as a digestive, calming tea.",
      "reference_ids": [
       "REF-0020",
-      "REF-0112",
-      "REF-0266"
+      "REF-0112"
      ],
      "status": "verified"
     },
@@ -40346,8 +40313,7 @@
      "text": "Duke (2002) suggests about 1-2 g dried herb as tea, three times daily, or equivalent preparations. Educational reference only, not a prescription; avoid medicinal doses in pregnancy.",
      "reference_ids": [
       "REF-0020",
-      "REF-0112",
-      "REF-0266"
+      "REF-0112"
      ],
      "status": "verified"
     }
@@ -40562,8 +40528,7 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0020",
-      "REF-0112",
-      "REF-0266"
+      "REF-0112"
      ],
      "status": "verified"
     },
@@ -40573,7 +40538,6 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266",
       "REF-0063"
      ],
      "status": "verified"
@@ -43816,38 +43780,38 @@
     "Young sprouts"
    ],
    "botanical_description": {
-    "text": "Evergreen coniferous tree (Pinaceae), 15-35 m tall, with a long, straight trunk at maturity, distinctive orange-red flaking bark in the upper crown and grey-brown fissured bark at the base. Needles are blue-green, borne in pairs (fascicles of two) with a papery basal sheath. Small yellow male cones release pollen in spring; female cones are woody and mature over two years.",
-    "height": "15-35 m",
+    "text": "Coniferous tree up to 35 m tall (exceptionally over 45 m) with a trunk up to 1 m across; mature trees have a long, bare, straight trunk topped by a rounded or flat crown. The bark is thick, flaky and orange-red when young, becoming scaly and grey-brown, often staying orange-red higher up. Needles are glaucous blue-green, 2.5-5 cm long, in pairs with a persistent grey basal sheath. Seed cones are red at pollination and mature in their second year into ovoid-conic cones 3-7.5 cm long; the yellow pollen cones shed pollen in mid to late spring.",
+    "height": "Up to 35 m (exceptionally over 45 m)",
     "habit": "Evergreen coniferous tree",
-    "leaves": "Needles blue-green, in pairs, with a papery basal sheath",
-    "flowers": "Small yellow male cones (pollen); separate woody female cones",
-    "stem": "Long, straight trunk; orange-red flaking bark in the upper crown, grey-brown fissured bark at the base",
-    "root": "Deep, wide-spreading root system",
-    "fruit": "Woody cone, maturing over two years",
-    "flowering_period": "May (pollen release)",
+    "leaves": "Glaucous blue-green needles 2.5-5 cm long, in pairs with a persistent grey basal sheath",
+    "flowers": "Yellow (occasionally pink) pollen cones; seed cones red at pollination",
+    "stem": "Long, bare, straight trunk; bark orange-red and flaky when young, scaly grey-brown later",
+    "fruit": "Ovoid-conic cone 3-7.5 cm, maturing in the second year",
+    "flowering_period": "Pollen release in mid to late spring",
     "reference_ids": [
-     "REF-0098"
+     "REF-4312"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native across northern and central Europe and Siberia - the most widely distributed pine species in the world - forming extensive boreal and montane forests on poor, sandy or peaty, acidic soils; a pioneer species tolerant of dry, nutrient-poor ground.",
+    "text": "The only pine native to northern Europe, ranging from western Europe to eastern Siberia, south to the Caucasus and Anatolia and north well inside the Arctic Circle; from sea level to 1,000 m in the north and at 1,200-2,600 m in the south. It grows mainly on poorer, sandy soils, rocky outcrops, peat bogs or near the forest limit; on fertile sites other trees outcompete it.",
     "reference_ids": [
-     "REF-0098"
+     "REF-4312"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Young shoots ('candles') and needles are gathered in spring; bark is stripped from felled or cultivated trees; resin/sap is tapped from the trunk. Needle-bearing twigs can be cut for tea and for steam distillation of the essential oil year-round.",
+    "text": "The leaves (needles) and young shoots are harvested in spring and dried for later use. The Sami took large sheets of inner bark in spring as a stored food. Resin is obtained by tapping the trunk.",
     "parts": [
      "Bark",
      "Leaf (needles)",
      "Sap",
      "Young sprouts"
     ],
-    "season": "Young shoots/needles in spring; bark and sap variable",
+    "season": "Needles and young shoots in spring; inner bark in spring",
     "reference_ids": [
-     "REF-0098"
+     "REF-3311",
+     "REF-3382"
     ],
     "status": "verified"
    },
@@ -43904,18 +43868,21 @@
     }
    ],
    "traditional_uses": {
-    "text": "Scots pine has a long northern European tradition as a source of resinous, aromatic preparations for respiratory complaints (coughs, bronchitis, catarrh) and topical rheumatic/muscular remedies, and pine-needle tea has traditionally been valued as a vitamin-C-rich winter tonic. Modern research on the needle essential oil supports antimicrobial, anti-inflammatory and expectorant activity.",
+    "text": "Scots pine is valued especially for its antiseptic action and its effect on the respiratory system. Turpentine from the resin was used for kidney, bladder and rheumatic complaints, mucous-membrane and respiratory complaints, and externally in liniments, plasters and inhalers; the leaves and young shoots were taken for chest infections and for rheumatism and arthritis, and added to baths. The tree was the main source of tar in preindustrial Scandinavia, and the Sami ate its inner bark as a staple food from at least 1450 to 1890.",
     "reference_ids": [
-     "REF-0098"
+     "REF-3311",
+     "REF-4312",
+     "REF-3382"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Needle infusion (tea)",
-     "text": "Fresh or dried young needles steeped in hot water - the traditional vitamin-C-rich tonic tea. Only use needles from a certainly identified pine, never yew (see dangerous look-alikes).",
+     "name": "Needles and young shoots (internal, bath, inhalant)",
+     "text": "Leaves and young shoots, harvested in spring and dried, are taken internally for a mildly antiseptic effect in the chest, added to bath water, or used as an inhalant for chest complaints. Only use needles from a certainly identified pine, never yew (see dangerous look-alikes).",
      "reference_ids": [
-      "REF-0098"
+      "REF-3311",
+      "REF-2664"
      ],
      "status": "verified"
     }
@@ -43925,8 +43892,7 @@
      "name": "Essential oil (topical)",
      "text": "Duke (2002): about 100-200 mg essential oil in an ointment or cream for topical use. Do not ingest the essential oil; avoid inhalation in severe asthma, whooping cough or laryngospasm. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0098",
-      "REF-0279"
+      "REF-0063"
      ],
      "status": "verified"
     }
@@ -43964,7 +43930,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0098",
       "REF-1234"
      ],
      "status": "verified"
@@ -43979,7 +43944,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0098",
       "REF-1233",
       "REF-1240",
       "REF-1241"
@@ -43989,7 +43953,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0098",
       "REF-1237"
      ],
      "status": "verified"
@@ -43997,14 +43960,14 @@
     {
      "action": "diuretic",
      "reference_ids": [
-      "REF-0098"
+      "REF-3311"
      ],
      "status": "verified"
     },
     {
      "action": "expectorant",
      "reference_ids": [
-      "REF-0098"
+      "REF-3311"
      ],
      "status": "verified"
     }
@@ -44012,9 +43975,9 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "Traditional remedy for rheumatic complaints (Grieve, A Modern Herbal)",
+     "note": "Leaves and young shoots are used for rheumatism and arthritis, and the turpentine for rheumatic complaints (PFAF)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3311"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -44035,9 +43998,9 @@
     },
     {
      "condition": "infection",
-     "note": "Traditional antiseptic use of pine preparations (Grieve, A Modern Herbal)",
+     "note": "Valued for its antiseptic action; the essential oil is used for respiratory infections (PFAF)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3311"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -44054,7 +44017,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0098",
       "REF-1234"
      ],
      "null_result_ids": [
@@ -44066,8 +44028,8 @@
     {
      "condition": "respiratory-support",
      "reference_ids": [
-      "REF-0098",
-      "REF-1234"
+      "REF-1234",
+      "REF-3311"
      ],
      "status": "verified",
      "evidence": 2,
@@ -44075,9 +44037,9 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "Pine tar was used traditionally for eczema and other skin complaints (Grieve, A Modern Herbal)",
+     "note": "The leaves and young shoots are added to bath water for skin irritations (PFAF)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3311"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -44088,9 +44050,9 @@
     },
     {
      "condition": "urinary-support",
-     "note": "Traditional remedy for bladder and kidney complaints (Grieve, A Modern Herbal)",
+     "note": "The turpentine is a traditional remedy for kidney and bladder complaints (PFAF)",
      "reference_ids": [
-      "REF-0098"
+      "REF-3311"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -44099,11 +44061,11 @@
    ],
    "contraindications": [
     {
-     "note": "Generally safe in normal amounts. Pine essential oil should not be ingested; topical use only in diluted form. May irritate airways in high concentrations. Allergic reactions to pine pollen and resin are common. Turpentine products are irritant and potentially toxic if ingested.",
+     "note": "Should not be used by people prone to allergic skin reactions, and the essential oil should not be taken internally except under professional supervision (PFAF). Duke (2002) advises that pine needle oil should not be inhaled by people with severe asthma, whooping cough or laryngospasm.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0098",
-      "REF-0279"
+      "REF-3311",
+      "REF-0063"
      ],
      "status": "verified"
     },
@@ -44111,8 +44073,6 @@
      "note": "Duke (2002) rates Scotch pine as + and notes antiseptic, antibacterial (score 1), and bronchospasmolytic activities. Commission E (KOM) and PhEur (PIP) approve pine needle preparations for topical use in rheumatic and neuralgic conditions and for inhalations in upper respiratory catarrh. Duke cautions that pine needle oil should not be inhaled by patients with severe asthma, whooping cough, or laryngospasm. Pine bud preparations are traditionally used for bronchitis and sinus congestion. Dose: 100–200 mg essential oil in ointment or cream for topical use (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0098",
-      "REF-0279",
       "REF-0063"
      ],
      "status": "verified"
@@ -52079,7 +52039,8 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0112"
+      "REF-0112",
+      "REF-4314"
      ],
      "status": "verified"
     },
@@ -52106,9 +52067,10 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
+     "note": "Used externally for the relief of minor muscular and joint pain (EU herbal monograph)",
      "reference_ids": [
-      "REF-0112"
+      "REF-0112",
+      "REF-4314"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -52141,10 +52103,11 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0112"
+      "REF-0112",
+      "REF-4314"
      ],
      "status": "verified",
-     "note": "Traditional use (Medical Herbalism)",
+     "note": "Used externally in minor peripheral circulatory disorders (EU herbal monograph)",
      "evidence": 1,
      "label": "Cardiovascular / heart health"
     },
@@ -52166,9 +52129,10 @@
     },
     {
      "condition": "indigestion",
-     "note": "inferred from digestive action",
+     "note": "Traditional use for the relief of dyspepsia (EU herbal monograph)",
      "reference_ids": [
-      "REF-0112"
+      "REF-0112",
+      "REF-4314"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [],
@@ -58456,7 +58420,6 @@
    "traditional_uses": {
     "text": "Wild thyme has a long European folk tradition, closely paralleling its relative garden thyme, as an antimicrobial and expectorant remedy for coughs and respiratory infections, a digestive/gastroprotective herb, and a topical antiseptic.",
     "reference_ids": [
-     "REF-0133",
      "REF-0250"
     ],
     "status": "verified"
@@ -58464,9 +58427,9 @@
    "preparations": [
     {
      "name": "Infusion",
-     "text": "Dried flowering herb infused in hot water as a traditional respiratory and digestive tea.",
+     "text": "An infusion of 1 oz of the dried herb to a pint of boiling water, often sweetened with honey, taken for chest complaints, coughs including whooping cough, catarrh, sore throat, weak digestion and flatulence.",
      "reference_ids": [
-      "REF-0133"
+      "REF-3814"
      ],
      "status": "verified"
     }
@@ -58519,7 +58482,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0133",
       "REF-1094",
       "REF-1097",
       "REF-1098",
@@ -58565,9 +58527,9 @@
     },
     {
      "condition": "infection",
-     "note": "Wild thyme was active against mouth bacteria in the lab (preclinical)",
+     "note": "Traditional antiseptic herb (Grieve, A Modern Herbal)",
      "reference_ids": [
-      "REF-0133"
+      "REF-3814"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -58598,7 +58560,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0133",
       "REF-1098"
      ],
      "evidence": 1,
@@ -58621,7 +58582,6 @@
      "note": "Generally safe at culinary doses. Essential oil is highly concentrated and must be diluted before topical use; undiluted application can cause skin sensitisation. Not recommended internally during pregnancy (uterine stimulant effects possible). Phenol-rich thyme preparations should be avoided long-term in high doses. May potentiate anticoagulant medications.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0133",
       "REF-0250"
      ],
      "status": "verified"
@@ -58630,7 +58590,6 @@
      "note": "Duke (2002) rates Thymus vulgaris (garden thyme, closely related to breckland thyme) as +++ with clinical evidence (score 2) for antibacterial, bronchospasmolytic, and antispasmodic activities, consistent with Commission E and WHO approvals for bronchitis and upper respiratory catarrh. The primary active constituent is thymol, with carvacrol as a secondary compound. Dose: 1–2 g dried herb as tea three times daily. The plant demonstrates COX-2 inhibitory activity and calcium antagonism, which may explain its antispasmodic effects (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0133",
       "REF-0250",
       "REF-0063"
      ],
@@ -60438,36 +60397,36 @@
     "Leaf"
    ],
    "botanical_description": {
-    "text": "Low, creeping perennial herb rooting at the nodes, with trifoliate leaves, each leaflet oval and often marked with a pale chevron. Rounded white (sometimes pink-tinged) flower heads are borne on long stalks above the foliage.",
-    "height": "5-15 cm (creeping, flower stalks slightly taller)",
-    "habit": "Low, creeping, mat-forming perennial herb",
-    "leaves": "Trifoliate, each leaflet oval, often marked with a pale chevron",
-    "flowers": "Rounded white (sometimes pink-tinged) heads of small pea-like flowers on long stalks",
-    "stem": "Creeping, rooting at the nodes",
-    "root": "Fibrous roots with nitrogen-fixing nodules",
-    "fruit": "Small pod containing 3-4 seeds",
-    "flowering_period": "May-October",
+    "text": "Low-growing herbaceous evergreen perennial about 10 cm tall whose stems act as stolons, creeping up to 18 cm a year and rooting at the nodes to form mats. The leaves are trifoliolate, smooth, elliptic to egg-shaped and long-stalked, usually with light or dark markings. Heads 1.5-2 cm wide of whitish florets, often tinged pink or cream, stand on stalks about 7 cm long. It flowers from June to September and fixes nitrogen.",
+    "height": "About 10 cm",
+    "habit": "Low, mat-forming perennial with creeping stolons rooting at the nodes",
+    "leaves": "Trifoliolate, smooth, elliptic to egg-shaped, long-stalked, usually with light or dark markings",
+    "flowers": "Whitish florets, often tinged pink or cream, in heads 1.5-2 cm wide on stalks about 7 cm long",
+    "stem": "Stolons creeping up to 18 cm a year, rooting at the nodes",
+    "root": "Nitrogen-fixing",
+    "flowering_period": "June-September",
     "reference_ids": [
-     "REF-0027"
+     "REF-4313",
+     "REF-3359"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Grows in lawns, pastures, meadows and grassy waste ground; native to Europe and western Asia and now naturalised worldwide, including as a common lawn and forage plant.",
+    "text": "Grassland and lawns, preferring a calcareous clay soil. Native to Eurasia, from Europe including Britain south and east to North Africa and north and western Asia; widely introduced as a forage crop and now common in grassy areas of the Americas, Australia and New Zealand.",
     "reference_ids": [
-     "REF-0027"
+     "REF-3359",
+     "REF-4313"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Flowering heads and leaves are picked through the flowering season and dried in a warm, shaded, airy place.",
+    "text": "The flowering heads are gathered while the plant is in flower (June-September) and dried, for example as a tea substitute.",
     "parts": [
-     "Flower",
-     "Leaf"
+     "Flower"
     ],
-    "season": "May-October",
+    "season": "June-September, in flower",
     "reference_ids": [
-     "REF-0027"
+     "REF-3359"
     ],
     "status": "verified"
    },
@@ -60504,19 +60463,19 @@
     }
    ],
    "traditional_uses": {
-    "text": "White clover has a folk tradition, similar to but lighter than its relative red clover, as an anti-inflammatory and wound-healing remedy and mild expectorant, and modern research on its isoflavones and phenolics has additionally investigated antioxidant, kidney-protective and liver-protective activity.",
+    "text": "White clover has been used as a traditional medicine as well as a leafy vegetable and fodder; a review lists its traditional anti-inflammatory, antiseptic, analgesic, antirheumatic and antimicrobial uses. An infusion has been used for coughs, colds, fevers and leucorrhoea, a leaf tincture as an ointment for gout, and a flower infusion as an eyewash.",
     "reference_ids": [
-     "REF-0027",
-     "REF-0140"
+     "REF-1324",
+     "REF-3359"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Infusion (flower/leaf)",
-     "text": "Dried flower and leaf infused in hot water as a traditional mild tonic and expectorant tea.",
+     "name": "Infusion",
+     "text": "An infusion of the plant has been used for coughs, colds, fevers and leucorrhoea, and an infusion of the flowers as an eyewash.",
      "reference_ids": [
-      "REF-0027"
+      "REF-3359"
      ],
      "status": "verified"
     }
@@ -60528,19 +60487,22 @@
      "compounds": [
       "flavonoid"
      ],
-     "note": "Phytoestrogenic isoflavones, present at lower levels than in red clover.",
+     "note": "Isoflavones are among the constituents reviewed for the species; the O-methylated isoflavones formononetin and biochanin A occur in the roots.",
      "reference_ids": [
-      "REF-0140"
+      "REF-1324",
+      "REF-4313"
      ]
     },
     {
-     "name": "Cyanogenic glycosides (trace)",
+     "name": "Cyanogenic glycosides (linamarin, lotaustralin)",
      "compounds": [
       "glycoside"
      ],
-     "note": "Present in small amounts; not significant in normal food or tea use.",
+     "note": "The species is polymorphic for cyanogenic glycosides: leaves and flowers of some forms release cyanide on contact with the enzyme linamarase.",
      "reference_ids": [
-      "REF-0027"
+      "REF-1324",
+      "REF-3359",
+      "REF-4313"
      ]
     },
     {
@@ -60549,9 +60511,10 @@
       "phenolic-acid",
       "flavonoid"
      ],
-     "note": "Contribute to antioxidant activity.",
+     "note": "Simple phenols, phenolic acids, flavones and flavonols occur in the flowers and leaves; the plant is described as antioxidant.",
      "reference_ids": [
-      "REF-0140"
+      "REF-1324",
+      "REF-2368"
      ]
     }
    ],
@@ -60561,7 +60524,6 @@
      "reference_ids": [
       "REF-2943",
       "REF-2937",
-      "REF-0027",
       "REF-1323",
       "REF-1324",
       "REF-1327",
@@ -60582,7 +60544,6 @@
       "REF-2905",
       "REF-2907",
       "REF-2908",
-      "REF-0027",
       "REF-1323",
       "REF-1324",
       "REF-1326",
@@ -60594,17 +60555,8 @@
      "status": "verified"
     },
     {
-     "action": "antispasmodic",
-     "note": "Antispasmodic (cramp easing)",
-     "reference_ids": [
-      "REF-0027"
-     ],
-     "status": "verified"
-    },
-    {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0027",
       "REF-1324"
      ],
      "status": "verified"
@@ -60612,7 +60564,6 @@
     {
      "action": "vulnerary",
      "reference_ids": [
-      "REF-0027",
       "REF-1323",
       "REF-2367"
      ],
@@ -60673,8 +60624,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2943",
-      "REF-0027"
+      "REF-2943"
      ],
      "evidence": 1,
      "label": "Arthritis / joint pain"
@@ -60696,9 +60646,7 @@
      "condition": "immune-support",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0027"
-     ],
+     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Immune support"
     },
@@ -60706,7 +60654,6 @@
      "condition": "inflammation",
      "note": "White clover compounds had anti-inflammatory activity in the lab (preclinical)",
      "reference_ids": [
-      "REF-0027",
       "REF-2366"
      ],
      "status": "needs-review",
@@ -60722,8 +60669,7 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-2943",
-      "REF-0027"
+      "REF-2943"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -60732,7 +60678,6 @@
      "condition": "wounds",
      "note": "A white clover ointment sped wound healing in rats (preclinical)",
      "reference_ids": [
-      "REF-0027",
       "REF-1323",
       "REF-2367"
      ],
@@ -60804,11 +60749,11 @@
    ],
    "contraindications": [
     {
-     "note": "Generally very safe as a food and in moderate herbal use. Cyanogenic glucosides present in very small amounts - not significant in normal food or tea use. Isoflavones are phytoestrogens (as in red clover) - same precautions apply in hormone-sensitive conditions. Well tolerated by most people.",
+     "note": "White clover is polymorphic for cyanogenic glycosides, and some forms release cyanide; it has caused problems for grazing animals, though not in Britain. A few phytoestrogenic effects have been reported in grazing ruminants.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0027",
-      "REF-0140"
+      "REF-3359",
+      "REF-4313"
      ],
      "status": "verified"
     },
@@ -60816,8 +60761,6 @@
      "note": "Duke (2002) does not include a dedicated entry for white clover (Trifolium repens) in the Handbook of Medicinal Herbs, Second Edition.",
      "severity": "info",
      "reference_ids": [
-      "REF-0027",
-      "REF-0140",
       "REF-0063"
      ],
      "status": "verified"
@@ -61354,8 +61297,7 @@
     "text": "Coltsfoot has an ancient European and Chinese tradition, reflected in its Latin name (tussis = cough), as an expectorant and demulcent remedy for coughs, bronchitis and irritated airways; because of its pyrrolizidine alkaloid content, contemporary use is restricted to short courses of PA-controlled preparations under regulatory limits (see contraindications).",
     "reference_ids": [
      "REF-0911",
-     "REF-0910",
-     "REF-0304"
+     "REF-0910"
     ],
     "status": "verified"
    },
@@ -61399,13 +61341,13 @@
    ],
    "constituents": [
     {
-     "name": "Pyrrolizidine alkaloids (senkirkine, senecionine-type)",
+     "name": "Pyrrolizidine alkaloids",
      "compounds": [
       "alkaloid"
      ],
-     "note": "Hepatotoxic constituents that are the central safety concern for this plant; regulatory limits and PA-controlled/PA-reduced products exist specifically because of these compounds.",
+     "note": "Pyrrolizidine alkaloids occur in the leaves and buds; their high toxicity is the plant's central safety concern (see cautions).",
      "reference_ids": [
-      "REF-0304"
+      "REF-0911"
      ]
     },
     {
@@ -61486,8 +61428,7 @@
      "reference_ids": [
       "REF-3070",
       "REF-0914",
-      "REF-0252",
-      "REF-0304"
+      "REF-0252"
      ],
      "status": "verified"
     },
@@ -61497,8 +61438,7 @@
      "reference_ids": [
       "REF-3070",
       "REF-0914",
-      "REF-0252",
-      "REF-0304"
+      "REF-0252"
      ],
      "status": "verified"
     },
@@ -61508,8 +61448,7 @@
      "reference_ids": [
       "REF-3070",
       "REF-0914",
-      "REF-0252",
-      "REF-0304"
+      "REF-0252"
      ],
      "status": "verified"
     },
@@ -61519,8 +61458,7 @@
      "reference_ids": [
       "REF-3070",
       "REF-0914",
-      "REF-0252",
-      "REF-0304"
+      "REF-0252"
      ],
      "status": "verified"
     },
@@ -61530,8 +61468,7 @@
      "reference_ids": [
       "REF-3070",
       "REF-0914",
-      "REF-0252",
-      "REF-0304"
+      "REF-0252"
      ],
      "status": "verified"
     },
@@ -61541,8 +61478,7 @@
      "reference_ids": [
       "REF-3070",
       "REF-0914",
-      "REF-0252",
-      "REF-0304"
+      "REF-0252"
      ],
      "status": "verified"
     },
@@ -61553,7 +61489,6 @@
       "REF-3070",
       "REF-0914",
       "REF-0252",
-      "REF-0304",
       "REF-0063"
      ],
      "status": "verified"

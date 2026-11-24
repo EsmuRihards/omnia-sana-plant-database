@@ -139,11 +139,7 @@ actions:
   status: verified
 - action: antiviral
   reference_ids:
-  - REF-0181
-  status: verified
-- action: emollient
-  reference_ids:
-  - REF-0181
+  - REF-3986
   status: verified
 - action: sedative
   reference_ids:
@@ -457,4 +453,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep batch 10
   (cross-batch). Bruising dropped: inferred only from the vulnerary action (wound-healing review
   REF-1789, which does not name bruises) - a wound is not a bruise.
-  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] cited only REF-0842 (depression meta-analysis; abstract gives no form or dose). RE-SOURCED to WHO Herba Hyperici vol. 2 (REF-3986, new). Dropped as unsupported: standardised to hyperforin, best-studied clinical form, 300 mg three times daily in trials.'
+  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] cited only REF-0842 (depression meta-analysis; abstract gives no form or dose). RE-SOURCED to WHO Herba Hyperici vol. 2 (REF-3986, new). Dropped as unsupported: standardised to hyperforin, best-studied clinical form, 300 mg three times daily in trials.
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): the antiviral and emollient
+  actions cited only the subscription database REF-0181 (title repaired). Antiviral now cites WHO
+  Herba Hyperici REF-3986 (antiviral activity of hypericin against enveloped viruses in vitro);
+  emollient had no readable source and is removed.'

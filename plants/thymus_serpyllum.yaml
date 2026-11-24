@@ -65,14 +65,15 @@ traditional_uses:
     as an antimicrobial and expectorant remedy for coughs and respiratory infections, a digestive/gastroprotective
     herb, and a topical antiseptic.
   reference_ids:
-  - REF-0133
   - REF-0250
   status: verified
 preparations:
 - name: Infusion
-  text: Dried flowering herb infused in hot water as a traditional respiratory and digestive tea.
+  text: An infusion of 1 oz of the dried herb to a pint of boiling water, often sweetened with honey,
+    taken for chest complaints, coughs including whooping cough, catarrh, sore throat, weak digestion
+    and flatulence.
   reference_ids:
-  - REF-0133
+  - REF-3814
   status: verified
 - name: Diluted essential oil (topical)
   text: Essential oil, well diluted, used topically for its antimicrobial action; not applied undiluted.
@@ -114,7 +115,6 @@ actions:
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-0133
   - REF-1094
   - REF-1097
   - REF-1098
@@ -142,9 +142,9 @@ indications:
   - REF-1102
   status: needs-review
 - condition: infection
-  note: Wild thyme was active against mouth bacteria in the lab (preclinical)
+  note: Traditional antiseptic herb (Grieve, A Modern Herbal)
   reference_ids:
-  - REF-0133
+  - REF-3814
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1098
@@ -161,7 +161,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0133
   - REF-1098
 - condition: indigestion
   note: A wild thyme extract reduced digestive discomfort and improved quality of life vs placebo in a
@@ -178,7 +177,6 @@ contraindications:
     in high doses. May potentiate anticoagulant medications.
   severity: caution
   reference_ids:
-  - REF-0133
   - REF-0250
   status: verified
 - note: 'Duke (2002) rates Thymus vulgaris (garden thyme, closely related to breckland thyme) as +++ with
@@ -189,7 +187,6 @@ contraindications:
     its antispasmodic effects (Duke, 2002).'
   severity: info
   reference_ids:
-  - REF-0133
   - REF-0250
   - REF-0063
   status: verified
@@ -246,4 +243,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-19 (monograph-source audit): constituents entry ''Triterpenes (ursolic acid, oleanolic acid) - minor constituents studied for anti-inflammatory activity'' REMOVED. It cited only REF-1094 (wild thyme review), whose abstract names phenolic acids and flavonoids but no triterpenes. Searched: REF-1094 and REF-1099 abstracts, PubMed ''Thymus serpyllum'' with ursolic/oleanolic acid or triterpenes; the only hit (Dall''Acqua 2017, PMID 28222613) is Thymus alternans, a different species. Dead end; truthful or absent.
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0071 (EMA assessment
   report on Thymus vulgaris and T. zygis herba, 2010) covers garden thyme, not T. serpyllum: removed
-  from traditional uses and the caution, and deleted (the garden-thyme monograph is REF-0519).'
+  from traditional uses and the caution, and deleted (the garden-thyme monograph is REF-0519).
+  | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0133 (''Kempe 2011,
+  Activity of Thymus serpyllum against oral pathogens'', vol 9(1):23-8) is not in PubMed, Crossref or
+  OpenAlex: removed and deleted. The infusion and the infection pair now cite Grieve''s Wild Thyme
+  REF-3814 (antiseptic; infusion for chest maladies, whooping cough, catarrh, sore throat, weak
+  digestion); the pair no longer claims a lab result. Same tier (traditional), so no score change.'

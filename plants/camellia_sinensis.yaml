@@ -321,14 +321,18 @@ drug_class_interactions:
     Sloan Kettering), so concentrated green tea products are best avoided during treatment with it.
   reference_ids:
   - REF-5230
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 - drug_class: statins
   severity: caution
   mechanism: Green tea significantly lowered blood levels of rosuvastatin in healthy volunteers (Memorial
     Sloan Kettering), which could weaken its cholesterol-lowering effect.
   reference_ids:
   - REF-5230
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 - drug_class: anticoagulants-antiplatelets
   severity: insufficient
   mechanism: Very large amounts of green tea (about half to one gallon a day) may supply enough vitamin
@@ -337,14 +341,18 @@ drug_class_interactions:
   reference_ids:
   - REF-5230
   - REF-5214
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 - drug_class: cyp3a4-substrates
   severity: insufficient
   mechanism: Green tea extract inhibits the drug-metabolising enzyme CYP3A4 (Memorial Sloan Kettering);
     whether ordinary tea drinking changes the levels of CYP3A4 medicines is not established.
   reference_ids:
   - REF-5230
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -418,4 +426,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   periodontitis MAs (very low certainty / insufficient), halitosis SR (two studies, before-after
   only), inflammatory-marker MA (TNF-alpha only, CRP and IL-6 unchanged), observational cancer,
   stroke and depression MAs (associations, not treatment), black-tea cholesterol MAs (already
-  covered at 8).'
+  covered at 8).
+  | 2026-11-24: owner approved the research-deepening draft herb-drug interaction(s):
+  chemotherapy-agents, statins, anticoagulants-antiplatelets, cyp3a4-substrates.'

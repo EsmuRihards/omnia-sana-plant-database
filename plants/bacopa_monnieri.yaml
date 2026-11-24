@@ -275,7 +275,9 @@ drug_class_interactions:
     two reports, with no controlled study.
   reference_ids:
   - REF-5199
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -326,4 +328,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   comparator); 2025 older-adult plant NMA ("bacopa compound", a combination); dementia SR 2022
   (very low quality, mixes combinations); ADHD, schizophrenia and Parkinson trials (no vocab
   condition); cevimeline toxicity case (supplement also had phosphatidylserine); necrotising
-  myopathy letter (no abstract); in vitro CYP screen (negligible inhibition).'
+  myopathy letter (no abstract); in vitro CYP screen (negligible inhibition).
+  | 2026-11-24: owner approved the research-deepening draft herb-drug interaction(s):
+  antidepressants-serotonergic.'

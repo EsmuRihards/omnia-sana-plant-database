@@ -422,7 +422,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   borage), GLA prophylaxis trial (only a trend), functional-textile MA (erythema only), acne RCT
   (abstract does not give the comparison with the control group), flax/borage skin study
   (within-group changes), borage + green tea + purslane and other combinations, Borage plus syrup
-  (COVID), platelet study 1997 (no abstract), LactMed (bot check).'
+  (COVID), platelet study 1997 (no abstract), LactMed (bot check).
+  | 2026-11-24: owner approved the research-deepening draft herb-drug interaction(s):
+  anticoagulants-antiplatelets.'
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: insufficient
@@ -431,4 +433,6 @@ drug_class_interactions:
     not from studies of borage itself.
   reference_ids:
   - REF-5227
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'

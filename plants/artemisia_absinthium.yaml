@@ -360,7 +360,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   alcoholics (J Herb Med 2023; no abstract retrievable), eye cream for dark circles (no vocab
   condition), afsanteen + qust hepatitis B (combination), AKI case (three-herb mixture), absinthe
   thujone attention study (spiked drinks), 13-week rat NOAEL study (no new claim), MSKCC (no
-  wormwood page, 404).'
+  wormwood page, 404).
+  | 2026-11-24: owner approved the research-deepening draft herb-drug interaction(s):
+  anticoagulants-antiplatelets.'
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
@@ -368,4 +370,6 @@ drug_class_interactions:
     INR after taking wormwood; the link was rated probable. This rests on a single case report.
   reference_ids:
   - REF-5181
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'

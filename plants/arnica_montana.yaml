@@ -353,7 +353,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   eyelid-surgery SR (same mix; no benefit), arnica + hydroxyethyl salicylate spray (arnica-alone
   arm not tested against placebo in the abstract), carpal-tunnel trial (homeopathic tablets plus
   ointment), umbilical Arnica-Echinacea powder, menthol mud pack and other combinations, LiverTox
-  and LactMed arnica pages (NCBI bot check blocked the fetch).'
+  and LactMed arnica pages (NCBI bot check blocked the fetch).
+  | 2026-11-24: owner approved the research-deepening draft herb-drug interaction(s):
+  anticoagulants-antiplatelets.'
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: insufficient
@@ -362,4 +364,6 @@ drug_class_interactions:
     not known, and arnica is meant for use on unbroken skin only.
   reference_ids:
   - REF-5186
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'

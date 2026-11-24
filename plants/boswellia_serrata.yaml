@@ -308,7 +308,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   alone not better than scaling alone), Memowell (K-Vie plus other ingredients) Alzheimer trial,
   Inflawell COVID syrup (formulation), collagenous colitis Cochrane (near-miss for IBD), B.
   carteri burn and episiotomy trials (other species, combinations), curcumin + boswellia and other
-  mixtures, photoaged-skin, stroke and Parkinson trials (no vocab condition).'
+  mixtures, photoaged-skin, stroke and Parkinson trials (no vocab condition).
+  | 2026-11-24: owner approved the research-deepening draft herb-drug interaction(s):
+  anticoagulants-antiplatelets, cyp3a4-substrates.'
 drug_class_interactions:
 - drug_class: cyp3a4-substrates
   severity: insufficient
@@ -316,7 +318,9 @@ drug_class_interactions:
     drug-metabolising enzymes; no human study has tested whether this changes drug levels.
   reference_ids:
   - REF-5212
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 - drug_class: anticoagulants-antiplatelets
   severity: caution
   mechanism: Boswellia extracts inhibit platelets in laboratory tests and may increase bleeding risk with
@@ -326,4 +330,6 @@ drug_class_interactions:
   reference_ids:
   - REF-5228
   - REF-5214
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'

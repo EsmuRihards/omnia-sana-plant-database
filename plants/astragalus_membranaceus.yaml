@@ -354,7 +354,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pha
   stated, mostly injection); injection-only DN MA 2011; Astragalus polysaccharide cancer MAs
   (mostly injection); Lectranal hay-fever RCT (herbal-mineral complex); Myelophil, SHPro,
   AstraGin, Rubus + Astragalus and Huang Qi formula trials (combinations); stroke-recovery and SAH
-  trials (no vocab condition).'
+  trials (no vocab condition).
+  | 2026-11-24: owner approved the research-deepening draft herb-drug interaction(s):
+  cyp3a4-substrates.'
 drug_class_interactions:
 - drug_class: cyp3a4-substrates
   severity: insufficient
@@ -363,6 +365,8 @@ drug_class_interactions:
     as midazolam, tolbutamide or digoxin; studies disagree on its effect on CYP3A4.
   reference_ids:
   - REF-5193
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'
 synonyms:
 - Astragalus mongholicus

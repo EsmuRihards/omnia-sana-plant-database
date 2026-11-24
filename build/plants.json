@@ -7293,7 +7293,19 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-14",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "insufficient",
+     "mechanism": "In laboratory tests, water extracts of five uva-ursi products strongly inhibited several drug-metabolising enzymes, including CYP3A4, 3A5, 3A7 and 2C19, and affected the P-glycoprotein drug pump; whether this matters in people has not been studied.",
+     "reference_ids": [
+      "REF-5172"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    }
+   ],
    "common_slug": "bearberry"
   },
   {
@@ -7668,7 +7680,19 @@
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "insufficient",
+     "mechanism": "Arnica's helenalin inhibits platelets in laboratory tests, and Memorial Sloan Kettering notes that arnica may add to the effect of warfarin and other blood thinners; the clinical relevance is not known, and arnica is meant for use on unbroken skin only.",
+     "reference_ids": [
+      "REF-5186"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    }
+   ],
    "common_slug": "arnica"
   },
   {
@@ -8106,7 +8130,19 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "An 82-year-old woman on warfarin was admitted with stomach and gut bleeding and a very high INR after taking wormwood; the link was rated probable. This rests on a single case report.",
+     "reference_ids": [
+      "REF-5181"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    }
+   ],
    "common_slug": "wormwood"
   },
   {
@@ -9138,7 +9174,19 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-14",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "insufficient",
+     "mechanism": "A 2025 review reports that astragalus and its main compounds can alter drug-metabolising enzymes and the P-glycoprotein drug pump (CYP2C9, CYP3A4, UGT1A6), so it may interact with drugs such as midazolam, tolbutamide or digoxin; studies disagree on its effect on CYP3A4.",
+     "reference_ids": [
+      "REF-5193"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    }
+   ],
    "synonyms": [
     "Astragalus mongholicus"
    ],
@@ -9470,6 +9518,17 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "antidepressants-serotonergic",
+     "severity": "caution",
+     "mechanism": "In a review of adverse-event reports, bacopa taken with antidepressants was linked to back pain and heavy sweating (with agomelatine) and to a heart attack (with moclobemide); this rests on two reports, with no controlled study.",
+     "reference_ids": [
+      "REF-5199"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
     }
    ],
    "lookalikes_review": {
@@ -10641,7 +10700,19 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "insufficient",
+     "mechanism": "Memorial Sloan Kettering notes that borage oil may increase bleeding risk with blood thinners such as warfarin; this is extrapolated from a small study of gamma-linolenic acid from evening primrose, not from studies of borage itself.",
+     "reference_ids": [
+      "REF-5227"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    }
+   ],
    "common_slug": "borage"
   },
   {
@@ -10979,7 +11050,31 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-14",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "insufficient",
+     "mechanism": "In laboratory tests, Boswellia serrata resin extract inhibited CYP3A4 and the other main drug-metabolising enzymes; no human study has tested whether this changes drug levels.",
+     "reference_ids": [
+      "REF-5212"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    },
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "Boswellia extracts inhibit platelets in laboratory tests and may increase bleeding risk with blood thinners (Memorial Sloan Kettering); a 2014 review of warfarin interactions lists Boswellia serrata among herbs linked to serious adverse events in case reports. The clinical significance is not established.",
+     "reference_ids": [
+      "REF-5228",
+      "REF-5214"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    }
+   ],
    "common_slug": "boswellia"
   },
   {
@@ -11774,6 +11869,51 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "chemotherapy-agents",
+     "severity": "caution",
+     "mechanism": "EGCG and other green tea polyphenols can block the anticancer effect of bortezomib (Memorial Sloan Kettering), so concentrated green tea products are best avoided during treatment with it.",
+     "reference_ids": [
+      "REF-5230"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    },
+    {
+     "drug_class": "statins",
+     "severity": "caution",
+     "mechanism": "Green tea significantly lowered blood levels of rosuvastatin in healthy volunteers (Memorial Sloan Kettering), which could weaken its cholesterol-lowering effect.",
+     "reference_ids": [
+      "REF-5230"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    },
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "insufficient",
+     "mechanism": "Very large amounts of green tea (about half to one gallon a day) may supply enough vitamin K to weaken warfarin-type blood thinners (Memorial Sloan Kettering), and a 2014 review of warfarin interactions lists Camellia sinensis among herbs in case reports of serious adverse events.",
+     "reference_ids": [
+      "REF-5230",
+      "REF-5214"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
+    },
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "insufficient",
+     "mechanism": "Green tea extract inhibits the drug-metabolising enzyme CYP3A4 (Memorial Sloan Kettering); whether ordinary tea drinking changes the levels of CYP3A4 medicines is not established.",
+     "reference_ids": [
+      "REF-5230"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-24"
     }
    ],
    "lookalikes_review": {

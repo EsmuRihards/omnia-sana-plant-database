@@ -306,7 +306,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   "herbal detox" hyponatraemia case (multi-herb tea plus over a gallon of fluid daily), Ciurol N
   and D-mannose combinations, Dwyer 2020 AJHNM systematic review of harm (no abstract
   retrievable), LiverTox and LactMed Uva Ursi pages (NCBI bot check blocked the fetch), MSKCC (no
-  uva ursi page, 404).'
+  uva ursi page, 404).
+  | 2026-11-24: owner approved the research-deepening draft herb-drug interaction(s):
+  cyp3a4-substrates.'
 drug_class_interactions:
 - drug_class: cyp3a4-substrates
   severity: insufficient
@@ -315,4 +317,6 @@ drug_class_interactions:
     pump; whether this matters in people has not been studied.
   reference_ids:
   - REF-5172
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-24'

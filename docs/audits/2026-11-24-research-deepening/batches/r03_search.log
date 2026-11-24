@@ -35,3 +35,8 @@ andrographis-paniculata done
 anethum-graveolens done
 angelica-archangelica done
   !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Arctium+lappa%22+OR+TITLE%3A%22Greater+B The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Arctium+lappa%22+OR+TITLE%3A%22Greater+B HTTP Error 503: Service Temporarily Unavailable
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Arctium+lappa%22+AND+%28TITLE%3Apatients+OR+TITLE%3Avol The read operation timed out
+arctium-lappa done
+# Research-deepening batch 3 - Europe PMC
+SEARCH-DONE

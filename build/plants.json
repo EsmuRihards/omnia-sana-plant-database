@@ -5215,13 +5215,15 @@
      "status": "verified"
     },
     {
-     "note": "May lower blood pressure and blood sugar and may interact with anticoagulant/antiplatelet, antihypertensive and immunosuppressant medicines; allergic reactions can occur.",
+     "note": "May lower blood pressure and blood sugar and may interact with anticoagulant/antiplatelet, antihypertensive and immunosuppressant medicines; allergic reactions can occur, including an anaphylactic reaction in one person in a dose-escalating trial of purified andrographolide, which was stopped early because of side effects. In 10 healthy volunteers, one day of andrographis did not significantly change platelet function.",
      "severity": "caution",
      "reference_ids": [
       "REF-0395",
       "REF-0393",
       "REF-5151",
-      "REF-5152"
+      "REF-5152",
+      "REF-5169",
+      "REF-5170"
      ],
      "status": "verified"
     },
@@ -6846,6 +6848,13 @@
      "note": "Mild diuretic supporting elimination ('detox', traditional)",
      "reference_ids": [],
      "status": "needs-review"
+    },
+    {
+     "action": "antidiabetic",
+     "reference_ids": [
+      "REF-5185"
+     ],
+     "status": "verified"
     }
    ],
    "indications": [
@@ -6898,7 +6907,15 @@
      "status": "verified"
     },
     {
-     "note": "May lower blood sugar (caution with antidiabetic medicines) and add to diuretics; avoid medicinal doses in pregnancy.",
+     "note": "May lower blood sugar: root and leaf extracts lowered blood glucose in diabetic rats, the root extract about as much as the drug glibenclamide, so take care if using diabetes medicines (animal evidence only).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5185"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "May add to diuretics; avoid medicinal doses in pregnancy.",
      "severity": "caution",
      "reference_ids": [],
      "status": "needs-review"
@@ -6918,7 +6935,8 @@
     "REF-1931",
     "REF-1932",
     "REF-1933",
-    "REF-1934"
+    "REF-1934",
+    "REF-5185"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -7224,6 +7242,14 @@
       "REF-0702"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Long-term use: a woman who took uva ursi for 3 years developed bull's-eye maculopathy (damage to the centre of the retina) in both eyes; the report's authors link it to the herb, which blocks melanin production (single case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5171"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -7267,6 +7293,7 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "drug_class_interactions": [],
    "common_slug": "bearberry"
   },
   {
@@ -7481,10 +7508,11 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "An arnica gel was as effective as ibuprofen gel for hand osteoarthritis in a randomized trial; applied for rheumatic muscle and joint complaints (EU herbal monograph)",
+     "note": "An arnica gel was as effective as ibuprofen gel for hand osteoarthritis in a randomized trial, and knee osteoarthritis scores improved with an arnica gel in an open trial without a comparison group; applied for rheumatic muscle and joint complaints (EU herbal monograph)",
      "reference_ids": [
       "REF-0726",
-      "REF-3446"
+      "REF-3446",
+      "REF-5175"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -7492,15 +7520,17 @@
       "REF-2105",
       "REF-0398"
      ],
-     "evidence": 5,
+     "evidence": 6,
      "label": "Arthritis / joint pain"
     },
     {
      "condition": "bruising",
-     "note": "Traditional topical remedy for bruises (EU herbal monograph, summarised in a review); a 20% arnica ointment sped bruise healing in one randomized trial, but arnica gel, a 10% ointment and a systematic review found no clear benefit",
+     "note": "Traditional topical remedy for bruises (EU herbal monograph, summarised in a review); a 20% arnica ointment sped bruise healing in one randomized trial and arnica cream reduced bruising after nose surgery in two small randomized trials with untreated comparison, but arnica gel, a 10% ointment and a systematic review found no clear benefit",
      "reference_ids": [
       "REF-0726",
-      "REF-3442"
+      "REF-3442",
+      "REF-5173",
+      "REF-5183"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
@@ -7511,7 +7541,7 @@
       "REF-3444",
       "REF-3445"
      ],
-     "evidence": 5,
+     "evidence": 7,
      "label": "Bruising"
     },
     {
@@ -7549,6 +7579,30 @@
      ],
      "evidence": 2,
      "label": "Inflammation (general)"
+    },
+    {
+     "condition": "swelling",
+     "note": "Arnica cream reduced swelling around the eyes after nose surgery in two small randomized trials compared with no treatment; after wisdom-tooth surgery, topical arnica did not reduce swelling",
+     "reference_ids": [
+      "REF-5173",
+      "REF-5183"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-5174"
+     ],
+     "evidence": 6,
+     "label": "Swelling / fluid retention"
+    },
+    {
+     "condition": "pain",
+     "note": "Added to standard pain relief, topical arnica reduced pain for the first 5 days after wisdom-tooth surgery in a randomized trial without placebo",
+     "reference_ids": [
+      "REF-5174"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Pain (general)"
     }
    ],
    "contraindications": [
@@ -7557,7 +7611,9 @@
      "severity": "info",
      "reference_ids": [
       "REF-0400",
-      "REF-0398"
+      "REF-0398",
+      "REF-5178",
+      "REF-5186"
      ],
      "status": "verified"
     },
@@ -7570,18 +7626,22 @@
      "status": "verified"
     },
     {
-     "note": "As a member of the daisy family (Asteraceae) it can cause allergic contact dermatitis; prolonged topical use can also irritate the skin.",
+     "note": "As a member of the daisy family (Asteraceae) it can cause allergic contact dermatitis; prolonged topical use can also irritate the skin. About 1 in 100 people in a clinic series of 443 patch tests reacted to arnica, and 5 of 6 people already sensitised to arnica reacted to arnica-based products; people allergic to sunflowers, marigolds or ragweed are likely to react.",
      "severity": "info",
      "reference_ids": [
-      "REF-0398"
+      "REF-0398",
+      "REF-5176",
+      "REF-5177",
+      "REF-5186"
      ],
      "status": "verified"
     },
     {
-     "note": "Avoid medicinal use during pregnancy and breastfeeding.",
+     "note": "Avoid medicinal use during pregnancy and breastfeeding. A 9-day-old breastfed baby developed haemolytic anaemia (breakdown of red blood cells) 48 hours after the mother began drinking arnica flower tea (case cited by Memorial Sloan Kettering).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0400"
+      "REF-0400",
+      "REF-5186"
      ],
      "status": "verified"
     }
@@ -7597,7 +7657,8 @@
     "REF-2102",
     "REF-2104",
     "REF-2105",
-    "REF-2106"
+    "REF-2106",
+    "REF-5186"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -7607,6 +7668,7 @@
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "drug_class_interactions": [],
    "common_slug": "arnica"
   },
   {
@@ -7975,6 +8037,16 @@
      "status": "verified",
      "evidence": 6,
      "label": "Inflammatory bowel disease (IBD)"
+    },
+    {
+     "condition": "depression",
+     "note": "A wormwood vaginal gel reduced depression scores more than placebo in a triple-blind randomized trial in women with sexual dysfunction and mild to moderate depression",
+     "reference_ids": [
+      "REF-5184"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low mood / depression"
     }
    ],
    "contraindications": [
@@ -7992,6 +8064,22 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Liver injury: two people developed toxic hepatitis after taking wormwood (5 g daily for 6 days to help breastfeeding; about 10 g twice daily for a week for urinary complaints). One recovered; the other developed acute liver failure, had a liver transplant and died (case reports).",
+     "severity": "warning",
+     "reference_ids": [
+      "REF-5179"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Not for babies or children: a 10-month-old baby given a home-made wormwood extract for a cold developed severe diarrhoea and persistent metabolic acidosis (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5180"
      ],
      "status": "verified"
     }
@@ -8018,6 +8106,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "drug_class_interactions": [],
    "common_slug": "wormwood"
   },
   {
@@ -8261,7 +8350,6 @@
       "REF-3210"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Arthritis / joint pain"
     },
@@ -8270,7 +8358,6 @@
      "note": "inferred from digestive action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Bloating"
     },
@@ -8294,7 +8381,6 @@
       "REF-3126"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Indigestion"
     },
@@ -8303,7 +8389,6 @@
      "note": "inferred from antimicrobial action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Infection (general)"
     },
@@ -8314,7 +8399,6 @@
       "REF-0098"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Inflammation (general)"
     },
@@ -8323,7 +8407,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Skin irritation"
     },
@@ -8353,6 +8436,14 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Thujone poisoning: a man was taken to hospital in a manic state after drinking 1 litre of mugwort infusion, and thujone was found in his blood (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5182"
      ],
      "status": "verified"
     }

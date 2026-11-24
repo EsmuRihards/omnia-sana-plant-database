@@ -145,6 +145,10 @@ actions:
   note: Mild diuretic supporting elimination ('detox', traditional)
   reference_ids: []
   status: needs-review
+- action: antidiabetic
+  reference_ids:
+  - REF-5185
+  status: verified
 indications:
 - condition: arthritis
   note: Seed extract reduced pain in a mouse model of acute gout (preclinical)
@@ -175,8 +179,14 @@ contraindications:
   severity: info
   reference_ids: []
   status: verified
-- note: May lower blood sugar (caution with antidiabetic medicines) and add to diuretics; avoid medicinal
-    doses in pregnancy.
+- note: 'May lower blood sugar: root and leaf extracts lowered blood glucose in diabetic rats, the root
+    extract about as much as the drug glibenclamide, so take care if using diabetes medicines (animal
+    evidence only).'
+  severity: caution
+  reference_ids:
+  - REF-5185
+  status: verified
+- note: May add to diuretics; avoid medicinal doses in pregnancy.
   severity: caution
   reference_ids: []
   status: needs-review
@@ -195,6 +205,7 @@ references:
 - REF-1932
 - REF-1933
 - REF-1934
+- REF-5185
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -274,4 +285,16 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   2026-11-10: wrong species). Only A. minus-specific studies remain.
   | 2026-11-12: symptom-source audit deep re-sweep batch 2 - Deep re-sweep. A. minus studies moved
   from mechanistic to direct where they name the symptom: REF-1924 (acute gout model) for
-  arthritis, REF-1925 (anti-inflammatory in vivo) for inflammation. No trials on PubMed.'
+  arthritis, REF-1925 (anti-inflammatory in vivo) for inflammation. No trials on PubMed.
+  | 2026-11-24: symptom-source audit research-deepening batch 4 - Searched PubMed ("Arctium minus"
+  OR "lesser burdock" tiab: 0 HT, 0 SR, 3 SAFE hits), Europe PMC, ClinicalTrials.gov (4, none on
+  this species) and OpenAlex (49 no-PMID works, mostly ecology). No human study of A. minus
+  exists. Added: Cavalli 2007 Rev Bras Farmacogn (alloxan-diabetic rats; root extract -34.6%
+  glycaemia, leaf -22.9%, glibenclamide -34.5%) as the source for a new antidiabetic action and
+  for the blood-sugar part of the caution, which is split off and verified; the diuretic and
+  pregnancy parts stay needs-review (no A. minus source; the EU monograph REF-3088 is for A.
+  lappa). No blood-sugar pair (animal evidence only; owner rule 2026-11-16). Considered, not
+  added: Turkish herbal genotoxicity screen 1996 (A. minus extract increased comet-assay DNA
+  breaks in lymphocytes in vitro, Ames negative; authors say the hazard for people cannot be
+  judged), Amish burn-dressing qualitative study (caregiver experiences, not an outcome study),
+  silver nanoparticle and in vitro antidiabetic papers.'

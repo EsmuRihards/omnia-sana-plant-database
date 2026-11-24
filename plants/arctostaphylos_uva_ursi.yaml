@@ -214,6 +214,13 @@ contraindications:
   - REF-0406
   - REF-0702
   status: verified
+- note: 'Long-term use: a woman who took uva ursi for 3 years developed bull''s-eye maculopathy (damage
+    to the centre of the retina) in both eyes; the report''s authors link it to the herb, which blocks
+    melanin production (single case report).'
+  severity: caution
+  reference_ids:
+  - REF-5171
+  status: verified
 references:
 - REF-2370
 - REF-2371
@@ -286,4 +293,26 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   changed bladder-cell proteins: "may exhibit negative properties") removed from the antimicrobial
   and urinary-antiseptic actions (kept in references), retagged preclinical. Wounds dropped:
   off-target cards (C. acnes acne study; ESCOP limited to urinary use). Notes now state the two
-  null trials.'
+  null trials.
+  | 2026-11-24: symptom-source audit research-deepening batch 4 - Searched PubMed (Arctostaphylos
+  uva-ursi / uva-ursi / uva ursi / bearberry / Uvae ursi folium tiab), Europe PMC,
+  ClinicalTrials.gov and OpenAlex. No new efficacy trial: REGATTA and ATAFUTI results are held
+  (REF-0700, REF-0701, both no-effect); their 2017-2018 protocols are not cited; the BRUMI
+  bearberry vs placebo cystitis trial (protocol 2022, NCT05055544) has no published results
+  (status unknown) - check again later. Added: bull''s-eye maculopathy case after 3 years of use
+  (new caution); in vitro CYP3A4/3A5/3A7/2C19 and P-gp inhibition (new DRAFT interaction,
+  insufficient, needs owner sign-off). Considered, not added: UGT1A1 inhibition in vitro that did
+  not carry over to rats (no human claim), arbutin urinary-excretion PK studies (no new claim),
+  "herbal detox" hyponatraemia case (multi-herb tea plus over a gallon of fluid daily), Ciurol N
+  and D-mannose combinations, Dwyer 2020 AJHNM systematic review of harm (no abstract
+  retrievable), LiverTox and LactMed Uva Ursi pages (NCBI bot check blocked the fetch), MSKCC (no
+  uva ursi page, 404).'
+drug_class_interactions:
+- drug_class: cyp3a4-substrates
+  severity: insufficient
+  mechanism: In laboratory tests, water extracts of five uva-ursi products strongly inhibited several
+    drug-metabolising enzymes, including CYP3A4, 3A5, 3A7 and 2C19, and affected the P-glycoprotein drug
+    pump; whether this matters in people has not been studied.
+  reference_ids:
+  - REF-5172
+  status: draft

@@ -45,3 +45,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 1 | yarrow, sweet flag, black cohosh, ground elder, horse chestnut | REF-5001..5082 (82; 1 retracted ref deleted) | 1,405 -> 1,409 | `batches/r01_report.md` |
 | 2 | agrimony, lady's mantle, garlic, aloe, lemon verbena | REF-5083..5131 (49) | 1,409 -> 1,415 | `batches/r02_report.md` |
 | 3 | marshmallow, andrographis, dill, angelica, burdock | REF-5132..5168 (37) | 1,415 -> 1,417 | `batches/r03_report.md` |
+| 4 | lesser burdock, bearberry, arnica, wormwood, mugwort (+ andrographis follow-up) | REF-5169..5186 (18) | 1,417 -> 1,420 | `batches/r04_report.md` |

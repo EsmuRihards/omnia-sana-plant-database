@@ -1,0 +1,1070 @@
+# Research-deepening batch 4 - search
+
+## arctium-minus (Arctium minus) - name clause: "Arctium minus"[tiab] OR "lesser burdock"[tiab]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 3 hits, 3 not already listed above, 1 new
+- HELD REF-1924 | 2018 | 28801728 |  | Arctium minus crude extract presents antinociceptive effect in a mice acute gout attack model. | Inflammopharmacology
+- HELD REF-1931 | 2015 | 25839116 |  | Cytotoxicity of medicinal plants of the West-Canadian Gwich׳in Native Americans towards sensitive and multidrug-resistant cancer cells. | J Ethnopharmacol
+- new | 1996 | 8875742 |  | An investigation of some Turkish herbal medicines in Salmonella typhimurium and in the COMET assay in human lymphocytes. | Teratog Carcinog Mutagen
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 0 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 4 registered studies
+- NCT05879406 | COMPLETED | results=False | NA | A Study to Evaluate the Efficacy and Safety of Clear Skin Formula on Mitigating Mild to Moderate Non-cystic Acne | conds: Non-Cystic Acne | intr: VitaMedica® Clear Skin Formula capsules, Placebo Capsules | pubs: ['39758223:DERIVED (new)']
+- NCT07002762 | RECRUITING | results=False | NA | Clinical Efficacy Trial of Burdock Root Extract in Patients With Asymptomatic Hyperuricaemia | conds: Hyperuricemia or Gout | intr: Burdock ( Arctium lappa L.) root extract in a form of a nutritional additive, Placebo
+- NCT02511860 | UNKNOWN | results=False | NA | Burdock and Blood Pressure in African-American Women | conds: Hypertension | intr: Burdock, Placebo
+- NCT07241377 | COMPLETED | results=False | PHASE3 | A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo | conds: Absorption of Omega-3, Omega-3 Supplementation, Healthy Participants | intr: life'sTM omega O1035DS nTG, life'sTM omega O3020DS nTG, MEG-3 3323rTG, Placebo
+
+### OpenAlex no-PMID trial-worded - 68 hits, 49 without PMID, 49 new
+- new | 2025 | 10.24917/25438832.10.13 | article | Analysis of Traditional Medical Sciences in Asia and the Middle East in phytotherapeutic aspects | Annales Universitatis Paedagogicae Craco
+- new | 2025 | 10.3390/nutraceuticals5030021 | article | The Pharmaceutical Potential of α- and β-Amyrins | Nutraceuticals
+- new | 2025 | 10.1007/s10750-025-05809-1 | article | Riparian structural vegetation types exhibit differential responses to local community drivers | Hydrobiologia
+- new | 2025 | 10.71133/anatphar.1687703 | article | Phytotherapeutic Approaches in Breast Cancer: Biochemical and Clinical Perspectives | Anatolian Journal of Pharmaceutical Scie
+- new | 2024 | 10.33545/27072827.2024.v5.i2b.134 | article | Assessment of In vitro antidiabetic activity by using Arctium Minus leaves extract | International Journal of Pharmacognosy a
+- new | 2024 | 10.36468/pharmaceutical-sciences.16.5.488-494 | article | Assessment of Antidiabetic Activity by Using Silvernanoparticles of Arctium minus Leaves in Wistar Albino Rats | Indian Journal of Pharmaceutical Science
+- new | 2024 | https://openalex.org/W7216821349 | article | Natural Products Use For The Management Of Breast Cancer: A Review | Educational Administration Theory and Pr
+- new | 2024 | 10.29173/eureka28803 | article | Long-Term Trampling Effects on Plant Species Biodiversity Along Edmonton’s Ravine Woodlands | Eureka
+- new | 2023 | 10.1002/2688-8319.12224 | article | Upland prairie adaptive management staged‐scale restoration practices for native plant and endangered butterfly reintroduction | Ecological Solutions and Evidence
+- new | 2023 | https://openalex.org/W7120388383 | dissertation | Phytochemical study, biological activities and anti-hyperglycemic effect of Sida rhombifolia Linn. (Malvaceae) on biochemical and hematological parameters | LA Referencia (Red Federada de Repositor
+- new | 2022 | 10.32598/jhnm.32.4.2271 | article | Using Medicinal Plants among Patients with Cardiovascular Diseases and Their Related Factors: A Cross-Sectional Study | Journal of Holistic Nursing and Midwifer
+- new | 2021 | 10.5530/pj.2021.13.224 | article | Pharmacognostic Studies of the Leaves and Fructus of Arctium lappa L. (Asteraceae Bercht. & J. Presl) | Pharmacognosy Journal
+- new | 2020 | 10.17758/eares10.eap1120122 | conference-paper | Growth, Yield and Phytochemical Constituents of Arctium lappa L. in Response to Phosphorous and Potassium Fertilizers Application | International Conferences on Science, En
+- new | 2020 | 10.17816/snv202093116 | article | Patterns in steppe meadow vegetation at the border of Forest-steppe and Steppe zones of the Southern Ural | Samara Journal of Science
+- new | 2019 | https://openalex.org/W2972674209 | dissertation | Exploring Diversified Vineyard Ecological Soil Management Strategies: Impacts of cover cropping, Spanish River Carbonatite, and smooth pigweed (Amaranthus hybridus) interactions on | Brock University Digital Repository (Bro
+- new | 2019 | 10.3264/fg.2019.1022 | article | The DNA weights per nucleus (genome size) of more than 2350 species of the Flora of The Netherlands, of which 1370 are new to science, including the pattern of their DNA peaks | Online Publication Service of Würzburg U
+- new | 2019 | https://openalex.org/W2980350285 | report | Monitoring and Habitat Assessment of Declining Bumble Bees in Roadsides in the Twin Cities Metro Area of Minnesota | University of Minnesota Digital Conserva
+- new | 2018 | 10.13016/vyxv-9moe | dissertation | A COMPARATIVE ANALYSIS OF RANDOM FOREST AND LOGISTIC REGRESSION FOR WEED RISK ASSESSMENT | University Libraries (University of Mary
+- new | 2018 | 10.18061/1811/87098 | article | Amish and Mennonite Lay Caregivers' Experiences Using the B&W Burdock Leaf Treatment on Burns and Wounds: A Qualitative Study | Journal of Amish and Plain Anabaptist St
+- new | 2018 | 10.15760/mem.7 | report | Long-Term Managed Flooding to Control Invasive Phalaris arundinacea L. and Help Restore Native Vegetation in an Urban Palustrine Wetlands Ecosystem | 
+- new | 2017 | 10.5772/67062 | book-chapter | Medicinal Plants to Calm and Treat Psoriasis Disease | InTech eBooks
+- new | 2017 | https://openalex.org/W2587208377 | article | Enhancing The Content Of Bioactive Fatty Acids In Bovine Milk For Human Health Promotion And Disease Prevention | ScholarWorks -A service of University of
+- new | 2017 | https://openalex.org/W2786378079 | dissertation | Concept features and lexical diversity. A dialectological case study on the relationship between meaning and variation | Lirias
+- new | 2016 | 10.6000/1929-5634.2015.04.04.1 | article | The Effects of an Eight Week Weight Loss Program in Obese Adults Utilizing a Nutritional Supplement | Journal of Nutritional Therapeutics
+- new | 2016 | https://openalex.org/W2543217873 | article | A Floristic Study of the Oak Leaf Lake Unit of the Swan Lake Wildlife Management Area in Nicollet County, Minnesota | Cornerstone (Minnesota State University,
+- new | 2016 | 10.5965/223811711532016180 | article | Interferência alelopática do chá de boldo-do-chile (Peumus boldus Molina, Monimiaceae) sobre sementes de alface e pepino | Revista de Ciências Agroveterinárias
+- new | 2016 | 10.24355/dbbs.084-201701040942-0 | article | Die spontane Flora der Straßen von Braunschweig: Hohe Artenzahl und unerwartete Florendynamik im lokalen Maßstab | Digitale Bibliothek Braunschweig (Verbun
+- new | 2015 | 10.1515/hppj-2015-0003 | article | Common burdock (Arctium minus): a common weed of nonarable land in Orestiada, Greece | Hellenic Plant Protection Journal
+- new | 2015 | 10.15421/011509 | article | Influence of moisture conditions and mineralization of soil solution on structure of litter macrofauna of the deciduous forests of Ukraine steppe zone | Visnyk of Dnipropetrovsk University Biol
+- new | 2014 | 10.1590/1983-084x/13_101 | article | Brazilian scientific production on herbal medicines used in dentistry | Revista Brasileira de Plantas Medicinais
+- new | 2014 | https://openalex.org/W1745128542 | dissertation | The relationship between riparian zone width and floristic quality in Shenandoah County, Virginia | JMU Scholoraly Commons (James Madison Un
+- new | 2014 | 10.15226/sojmid.2014.00116 | article | Candiduria: Epidemiology, Resistance, Classical and Alternative Antifungals Drugs | SOJ Microbiology & Infectious Diseases
+- new | 2013 | https://openalex.org/W2117722381 | article | 'A Gossamer Web, Is Life': Biomedicine, The Mi'kmaq and the Reclamation of Traditional Healing Knowledge | Saint Mary's University Institutional Re
+- new | 2012 | https://openalex.org/W2941706429 | dissertation | Efeito da Administração Oral do Extrato de Baccharis dracunculifolia na obesidade induzida por Glutamato Monossódico (MSG) | Americanae (AECID Library)
+- new | 2011 | 10.14288/1.0100447 | dissertation | A study of luteoviruses involved in potato leafroll disease | cIRcle (University of British Columbia)
+- new | 2011 | 10.4067/s0718-16202011000200009 | article | Alternative plants hosts of legume aphids and predators, in the province of León (Spain) | International Journal of Agriculture and
+- new | 2011 | https://openalex.org/W2742421313 | dissertation | Indução experimental do Diabetes mellitus em ratos Wistar submetidos à injeção intraperitoneal de aloxana em diferentes doses | LA Referencia (Red Federada de Repositor
+- new | 2010 | https://openalex.org/W1822759007 | dissertation | Identifying Weed Species Hosts For Onion Thrips (Thrips Tabaci Lindeman) And Their Potential As Sources Of Iris Yellow Spot Virus (Bunyaviridae: Tospovirus) In New York Onion Field | eCommons (Cornell University)
+- new | 2010 | 10.24355/dbbs.084-201002081423-0 | article | Analyse der Uferflora der Ilse (Harz/Harzvorland) unter besonderer Berücksichtigung von Nitrophyten und Neophyten / Yvonne Siedentopf & Dietmar Brandes | Digitale Bibliothek Braunschweig (Verbun
+- new | 2008 | https://openalex.org/W2238000445 | report | Seasonal Events at Lost Mound | Illinois Digital Environment for Access 
+- new | 2007 | 10.1590/s0102-695x2007000100014 | article | Avaliação in vivo do efeito hipoglicemiante de extratos obtidos da raiz e folha de bardana Arctium minus (Hill.) Bernh. | Revista Brasileira de Farmacognosia
+- new | 2007 | 10.25675/3.023702 | article | Red Mountain Open Space and Soapstone Prairie Natural Area: botanical inventory, distribution maps of several species of interest, and field guide to the most common plants | Digital Collections of Colorado (Colorad
+- new | 2004 | https://openalex.org/W1480586004 | report | Utilisation of pollen resources by bumblebees in an enhanced arable landscape | NERC Open Research Archive (Natural Envi
+- new | 2003 | https://openalex.org/W1578714040 | report | A. Kartlegging av truete vegetasjonstyper. Erfaringer fra Inderøy og Levanger | BIBSYS Brage (BIBSYS (Norway))
+- new | 1999 | 10.25675/3.026668 | article | The effects of mountain reservoir operations on the distributions and dispersal mechanisms of riparian plants, Colorado Front Range | 
+- new | 1997 | 10.1002/(sici)1099-1573(199712)11:8<609::aid-ptr165>3.0.co;2-0 | article | Immunomodulatory activities of some Turkish medicinal plants | Phytotherapy Research
+- new | 1991 | 10.24382/2357 | dissertation | Ground flora and seed banks of woodlands in south west England | PEARL (University of Plymouth)
+- new | 1990 | https://openalex.org/W2585634020 | article | Vascular plants of the UWM Field Station area | UWM Digital Commons (University of Wisco
+- new | 1985 | https://openalex.org/W2141423476 | dissertation | The forage intake of supplemented cows grazing winter foothill rangelands of Montana | 
+
+## arctostaphylos-uva-ursi (Arctostaphylos uva-ursi) - name clause: "Arctostaphylos uva-ursi"[tiab] OR "uva-ursi"[tiab] OR "uva ursi"[tiab] OR "bearberry"[tiab] OR "Uvae ursi folium"[tiab]
+
+### PubMed HT - 10 hits, 10 not already listed above, 8 new
+- new | 2026 | 42417299 |  | [Microbiological efficacy of the dietary supplement Ciurol N against uropathogens: a pilot study]. | Urologiia [rus]
+- new | 2025 | 40864745 | Review | Plant Extracts and Natural Compounds for the Treatment of Urinary Tract Infections in Women: Mechanisms, Efficacy, and Therapeutic Potential. | Curr Issues Mol Biol
+- new | 2024 | 39698942 | Systematic Review/Meta-Analysis | Non-steroidal anti-inflammatory drugs for treating symptomatic uncomplicated urinary tract infections in non-pregnant adult women. | Cochrane Database Syst Rev
+- new | 2022 | 35750460 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Bearberry in the treatment of acute uncomplicated cystitis (BRUMI): protocol of a multicentre, randomised double-blind clinical trial. | BMJ Open
+- new | 2022 | 37023241 | Review |  | 
+- HELD REF-0700 | 2021 | 34111592 | Randomized Controlled Trial | Herbal treatment with uva ursi extract versus fosfomycin in women with uncomplicated urinary tract infection in primary care: a randomized controlled trial. | Clin Microbiol Infect
+- HELD REF-0701 | 2019 | 30685500 | Randomized Controlled Trial | Uva-ursi extract and ibuprofen as alternative treatments for uncomplicated urinary tract infection in women (ATAFUTI): a factorial randomized trial. | Clin Microbiol Infect
+- new | 2018 | 29970072 | Randomized Controlled Trial/Equivalence Trial | Reducing antibiotic use for uncomplicated urinary tract infection in general practice by treatment with uva-ursi (REGATTA) - a double-blind, randomized, controlled comparative effe | BMC Complement Altern Med
+- new | 2017 | 28886751 | Comparative Study/Multicenter Study/Pragmatic Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Uva-ursi extract and ibuprofen as alternative treatments of adult female urinary tract infection (ATAFUTI): study protocol for a randomised controlled trial. | Trials
+- new | 2002 | 12162475 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Urinary excretion and metabolism of arbutin after oral administration of Arctostaphylos uvae ursi extract as film-coated tablets and aqueous solution in healthy humans. | J Clin Pharmacol
+
+### PubMed SR - 4 hits, 1 not already listed above, 1 new
+- new | 2018 | 29579903 | Research Support, Non-U.S. Gov't/Systematic Review | Berries extracts as natural antioxidants in meat products: A review. | Food Res Int
+
+### PubMed SAFE - 25 hits, 21 not already listed above, 19 new
+- new | 2026 | 42859409 |  | Synergistic effects of combined exposure to hydroquinone and nitrofurantoin in T24 bladder cells: an in vitro toxicology study with implications for risk assessment. | Arh Hig Rada Toksikol
+- new | 2025 | 40290034 | Review | Probiotics and Plant-Based Foods as Preventive Agents of Urinary Tract Infection: A Narrative Review of Possible Mechanisms Related to Health. | Nutrients
+- SEEN | 2022 | 35605329 |  | Gurgem-7 toxicity assessment: Regulation of cell survival or death by traditional Mongolian prescription. | Ecotoxicol Environ Saf
+- new | 2021 | 34798933 |  | Potential radioprotective properties of arbutin against ionising radiation on human leukocytes in vitro. | Mutat Res Genet Toxicol Environ Mutagen
+- new | 2020 | 32626955 |  | Ursolic acid protects against cisplatin‑induced ototoxicity by inhibiting oxidative stress and TRPV1‑mediated Ca2+‑signaling. | Int J Mol Med
+- new | 2018 | 30761245 | Case Reports | Acute Severe Hyponatremia as a Serious Health Implication of Herbal Detox Regimens. | Cureus
+- new | 2018 | 29696482 |  | In vitro safety assessment of the strawberry tree (Arbutus unedo L.) water leaf extract and arbutin in human peripheral blood lymphocytes. | Cytotechnology
+- new | 2018 | 29288828 |  | The effects of strawberry tree water leaf extract, arbutin and hydroquinone on haematological parameters and levels of primary DNA damage in white blood cells of rats. | J Ethnopharmacol
+- new | 2018 | 30075316 |  | Identification and characterization of in vitro inhibitors against UDP-glucuronosyltransferase 1A1 in uva-ursi extracts and evaluation of in vivo uva-ursi-drug interactions. | Food Chem Toxicol
+- new | 2015 | 26798166 |  | New High-performance Liquid Chromatography-DAD Method for Analytical Determination of Arbutin and Hydroquinone in Rat Plasma. | Indian J Pharm Sci
+- new | 2014 | 26045371 |  | In vivo evaluation & safety profile evaluation of Arctostaphylos uva-ursi (L.) Spreng. extract in rabbits. | Pak J Pharm Sci
+- new | 2014 | 24197982 | Research Support, Non-U.S. Gov't | Mitochondrial translocation of cofilin-1 promotes apoptosis of gastric cancer BGC-823 cells induced by ursolic acid. | Tumour Biol
+- new | 2014 | 25520072 |  | Ursolic acid promotes apoptosis of SGC-7901 gastric cancer cells through ROCK/PTEN mediated mitochondrial translocation of cofilin-1. | Asian Pac J Cancer Prev
+- new | 2014 | 25376340 |  | Internet claims on dietary and herbal supplements in advanced nephropathy: truth or myth. | Am J Nephrol
+- HELD REF-2371 | 2013 | 24296864 | Review | Risk assessment of free hydroquinone derived from Arctostaphylos Uva-ursi folium herbal preparations. | Int J Toxicol
+- new | 2012 | 32364691 | Review | Uva Ursi. | 
+- new | 2007 | 18066112 | Research Support, Non-U.S. Gov't | In vitro activity of uva-ursi against cytochrome P450 isoenzymes and P-glycoprotein. | Can J Physiol Pharmacol
+- new | 2005 | 15729623 |  | Urinary excretion of arbutin metabolites after oral administration of bearberry leaf extracts. | Planta Med
+- new | 2004 | 15183807 | Case Reports/Research Support, Non-U.S. Gov't | Bull's-eye maculopathy secondary to herbal toxicity from uva ursi. | Am J Ophthalmol
+- new | 2001 | 11587357 | Research Support, Non-U.S. Gov't | Validated methods for direct determination of hydroquinone glucuronide and sulfate in human urine after oral intake of bearberry leaf extract by capillary zone electrophoresis. | J Chromatogr B Biomed Sci Appl
+- new | 1992 | 1469616 |  | [Pharmacological studies on leaf of Arctostaphylos uva-ursi (L.) Spreng. V. Effect of water extract from Arctostaphylos uva-ursi (L.) Spreng. (bearberry leaf) on the antiallergic a | Yakugaku Zasshi [jpn]
+
+### PubMed OBS - 2 hits, 1 not already listed above, 1 new
+- new | 2020 | 33100948 |  | Prevention and treatment of cystitis during menopause: efficacy of a nutraceutical containing D-mannose, inulin, cranberry, bearberry, Olea europaea, Orthosiphon and Lactobacillus  | Prz Menopauzalny
+
+### PubMed REV - 15 hits, 10 not already listed above, 10 new
+- new | 2023 | 36445447 | Review | [Phytotherapy in uro-oncology]. | Urologie [ger]
+- new | 2023 | 36615571 | Review | Tyrosinase Inhibitors Naturally Present in Plants and Synthetic Modifications of These Natural Products as Anti-Melanogenic Agents: A Review. | Molecules
+- new | 2019 | 31146359 | Review | Phenolic Compounds from Five Ericaceae Species Leaves and Their Related Bioavailability and Health Benefits. | Molecules
+- new | 2017 | 28222790 | Review | The bear in Eurasian plant names: motivations and models. | J Ethnobiol Ethnomed
+- new | 2017 | 28300437 | Review | Botanicals With Dermatologic Properties Derived From First Nations Healing: Part 2-Plants and Algae. | J Cutan Med Surg
+- new | 2013 | 23501254 | Research Support, Non-U.S. Gov't/Review | Natural antioxidants in meat and poultry products. | Meat Sci
+- new | 2012 | 22843425 | Evaluation Study/Research Support, Non-U.S. Gov't/Review | Biotechnological production of arbutins (α- and β-arbutins), skin-lightening agents, and their derivatives. | Appl Microbiol Biotechnol
+- new | 2008 | 18950249 | Review | Natural approaches to prevention and treatment of infections of the lower urinary tract. | Altern Med Rev
+- new | 2006 | 30000963 | Review | Uva Ursi. | 
+- new | 2002 | 12522584 | Review | Botanical medicines for the urinary tract. | World J Urol
+
+### ClinicalTrials.gov - 3 registered studies
+- NCT07066735 | NOT_YET_RECRUITING | results=False | NA | Extracorporeal Shock-Wave Therapy (ESWT) vs Phytotherapy vs Combined in Treatment of Chronic Prostatitis | conds: Chronic Prostatitis (CP) | intr: ESWT, Phytotherapy that contains powder extract of (saw palmetto , tomato , uva ursi , pygeum and pu
+- NCT03151603 | COMPLETED | results=False | PHASE4 | Reducing Antibiotic Use for Uncomplicated Urinary Tract Infection in General Practice by Treatment With Uva Ursi (UU)- a Comparative Effecti | conds: Urinary Tract Infections | intr: Arctuvan, Fosfomycin, Placebo to Arctuvan, Placebo to Fosfomycin | pubs: ['34111592:DERIVED (SEEN)', '29970072:DERIVED (new)']
+- NCT03176563 | COMPLETED | results=False |  | Observational Follow-up Study of REGATTA | conds: Urinary Tract Infections | intr: Arctuvan, Placebo to Fosfomycin, Fosfomycin, Placebo to Arctuvan
+
+### OpenAlex no-PMID trial-worded - 227 hits, 62 without PMID, 62 new
+- new | 2026 | 10.1055/s-0045-1814820 | conference-paper | Clinical trials of herbal medicines for treatment of common infections: challenges and opportunities | Planta Medica
+- new | 2026 | 10.30841/2708-8731.1.2026.354628 | article | Postcoital cystitis in women: can it be prevented? | Reproductive health of woman
+- new | 2026 | 10.54033/cadpedv23n1-037 | article | Phytotherapeutic potential of Alternanthera brasiliana (L.) Kuntze: a literature review | Caderno Pedagógico
+- new | 2025 | 10.9734/ejmp/2025/v36i31264 | article | Use of Arctostaphylos uva-ursi Extracts for the Treatment of Urinary Tract Infections | European Journal of Medicinal Plants
+- new | 2025 | 10.1055/s-0045-1812821 | conference-paper | Therapeutischer Einsatz pflanzlicher Arzneimittel bei gynäkologischen Beschwerden aus Sicht betroffener Patientinnen | Zeitschrift für Phytotherapie
+- new | 2025 | 10.51126/9gx0sz04 | article | Ingredientes ativos presentes nos suplementos alimentares comercializados em Portugal e utilizados nas infeções urinárias | RevSALUS - Revista Científica da Rede Ac
+- new | 2024 | 10.29188/2222-8543-2024-17-3-149-161 | article | Placebo-controlled clinical trial of the effectiveness of D-Mannose Supercomplex in the prevention of recurrent UTI. | Experimental and Сlinical Urology
+- new | 2024 | https://openalex.org/W7217202048 | article | MICROBIOLOGICAL AND ANTIBACTERIAL CHARACTERISTICS OF UROSEPTIC COLLECTION FROM MEDICINAL PLANT | Central Asian Journal of Medicine
+- new | 2024 | 10.3390/amh69020007 | article | Lower Urinary Tract Infections: An Approach for Greek Community Health Practitioners | Acta Microbiologica Hellenica
+- new | 2024 | 10.1139/cjfr-2023-0214 | article | Can partial-cut harvesting be used to extend the availability of terrestrial forage lichens in late-seral pine-lichen woodlands? Evidence from the Lewes Marsh (southern Yukon) silv | Canadian Journal of Forest Research
+- new | 2024 | 10.51415/10321/5399 | dissertation | A retrospective chart review on the homoeopathic management of concomitant ailments occurring in HIV positive patients, at a homoeopathic community health centre | DUT Open Scholar (Durban University of T
+- new | 2024 | 10.1201/9781003573227 | book | Breeding Research on Aromatic and Medicinal Plants | CRC Press eBooks
+- new | 2024 | 10.55905/cuadv16n5-028 | article | Effects of Phyllanthus niruri antiseptic skin cream on surgical wounds in Felis catus after ovariosalpingohysterectomy | Cuadernos de Educación y Desarrollo
+- new | 2023 | 10.21273/hortsci17044-23 | article | Growth, Morphological, and Biochemical Responses of Four Native Species to Salinity Stress | HortScience
+- new | 2022 | 10.1002/9781119818779.ch15 | book-chapter | Herbal Bioactives for Treating Urinary Tract Infections | Wiley eBooks
+- new | 2022 | 10.17816/uroved84084 | article | Opportunities of drugs based on D-mannose and herbal components in the treatment and prevention of recurrent lower urinary tract infections in women | Urology reports (St - Petersburg)
+- new | 2021 | 10.1016/b978-0-323-84676-9.00075-1 | book-chapter | UVA URSI/Bearberry/Kinnikinic/Bear Grape (Arctostaphylos uva-ursi) | Elsevier eBooks
+- new | 2021 | 10.21303/2504-5679.2021.002174 | article | Study of hepatoprotective effect of bearberry leaves extract under insulin resistance in rats | EUREKA Health Sciences
+- new | 2020 | 10.33235/ajhnm.32.4.142-151 | article | Systematic review of harm from case reports and clinical trials of the oral use of Arctostaphylos uva-ursi, Turnera diffusa and Achillea millefolium | Australian Journal of Herbal and Naturop
+- new | 2020 | 10.24959/cphj.20.1527 | article | The study of the hypoglycemic action of extracts from bearberry leaves under experimental insulin resistance in rats | Clinical pharmacy
+- new | 2019 | 10.1186/s13063-019-3688-6 | conference-paper | Engaging surgical trainees in Orthopaedic, NIHR Portfolio, multicentre randomised controlled trials | Oxford University Research Archive (ORA)
+- new | 2019 | 10.1186/s13063-019-3688-6 | article | Patient and public involvement (PPI) in trial oversight: an ethnographic study of eight clinical trials | Bristol Research (University of Bristol)
+- new | 2019 | 10.1186/s13063-019-3688-6 | article | Introducing the Adaptive designs CONSORT Extension (ACE) Statement to improve reporting of randomised trials that use an adaptive design (P-7) | ORCA Online Research @Cardiff (Cardiff U
+- new | 2019 | 10.1186/s13063-019-3688-6 | conference-abstract | Digital tools for more efficient conduct of RCTs: trials unit survey | ePrints Soton (University of Southampton
+- new | 2019 | 10.1186/s13063-019-3688-6 | conference-paper | Under-representation in Clinical Trials: Participants with rare diseases, reporting and awareness. | Research Portal (Queen's University Belf
+- new | 2019 | 10.1186/s13063-019-3688-6 | conference-paper | Methodological issues in trials of youth mental health : what have we learnt during the MILESTONE study | Warwick Research Archive Portal (Univers
+- new | 2019 | https://openalex.org/W3193307665 | conference-paper | A hospital-integrated symptom monitoring system for patients after discharge following surgery: a pilot study in cancer-related surgery | White Rose Research Online (University o
+- new | 2019 | https://openalex.org/W3158671788 | conference-paper | External Pilot and Feasibility Studies: Past, Present and Future Challenges | White Rose Research Online (University o
+- new | 2019 | 10.1016/j.actpha.2019.05.026 | article | Phytothérapie et troubles urogénitaux, sélectionner des produits efficaces et sûrs | Actualités Pharmaceutiques
+- new | 2019 | 10.1186/s13063-019-3688-6 | conference-paper | The MRC HTMR recruitment working group: Driving recruitment research through collaboration | Research Portal (Queen's University Belf
+- new | 2018 | 10.13025/17836 | dissertation | The ecology and conservation of Arctostaphylos uva-ursi Bearberry heath habitats in the Burren, Western Ireland | Arrow@dit (Dublin Institute of Technolog
+- new | 2018 | 10.18821/1028-9984-2018-23-3-6-158-163 | article | THE EFFECT OF HERBAL MEDICINE ON THE IMMEDIATE INDICATORS OF HOMEOSTASIS IN PATIENTS WITH LOCALLY ADVANCED CERVICAL CANCER WHO RECEIVED SPECIAL TREATMENT | Russian Journal of Oncology
+- new | 2018 | 10.5680/lhuii000018 | book-chapter | Patient contributions to treatment decisions in BPS/IC | 
+- new | 2017 | https://openalex.org/W3001821207 | dissertation | Alternative treatments for female urinary tract infections : microbiological analysis of herbal medicinal product, and qualitative study into patients' perspectives | ePrints Soton (University of Southampton
+- new | 2015 | 10.4103/0974-7168.159549 | article | Research highlights (January-June 2015) | Indian Journal of Research in Homoeopath
+- new | 2015 | 10.12775/eq.2015.001 | article | Arctostaphylos heath community ecology in the Burren,Western Ireland | Ecological Questions
+- new | 2015 | 10.7557/2.35.2.3461 | article | Can partial‐cut harvesting be used to manage terrestrial lichen habitat? A review of recent evidence | Rangifer
+- new | 2013 | 10.5772/52913 | book-chapter | Immune-Based Treatment Strategies for Patients with Recurrent Urinary Tract Infections – Where Are We? | InTech eBooks
+- new | 2013 | 10.1007/s11676-013-0364-7 | article | Mycorrhizal synthesis between Pisolithus arhizus and adult clones of Arbutus unedo in vitro and in nursery | Journal of Forestry Research
+- new | 2011 | https://openalex.org/W1469832790 | article | Resource selection by elk at two spatial scales in the Black Hills, South Dakota | The Prairie Naturalist
+- new | 2011 | 10.1016/j.hlc.2011.05.128 | article | The Return of the Normal Heart: Cardiac Amyloidosis Regression After Bone Marrow Transplantation | Heart Lung and Circulation
+- new | 2010 | https://openalex.org/W35431388 | article | PHYTOTHERAPY FOR ACUTE CYSTITIS | Бюллетень Восточно-Сибирского научного ц
+- new | 2010 | 10.14288/1.0095024 | dissertation | Alpine and subalpine vegetation in the southern Chilcotin Mountain rangelands of British Columbia | cIRcle (University of British Columbia)
+- new | 2009 | https://openalex.org/W215564022 | article | Антибактериальные и противовоспалительные свойства растительного уросептического средства | Бюллетень Восточно-Сибирского научного ц
+- new | 2009 | https://openalex.org/W1565923296 | article | MODELS OF SUSTAINABLE USE OF WILD MEDICAL PLANTS IN W. BALKAN (SE EUROPE) | African Journal of Traditional Complemen
+- new | 2009 | 10.14288/1.0042281 | conference-paper | Reclamation research at Quintette Operating Corporation | cIRcle (University of British Columbia)
+- new | 2009 | https://openalex.org/W3085346577 | article | Bed Site Selection of Fawn Pronghorn in Custer State Park, South Dakota | Lincoln (University of Nebraska)
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2006 | 10.1007/s00374-006-0106-5 | article | Charcoal effects on soil solution chemistry and growth of Koeleria macrantha in the ponderosa pine/Douglas-fir ecosystem | Biology and Fertility of Soils
+- new | 2003 | https://openalex.org/W7139687399 | article | Biljni lekovi u apotekarskoj praksi | FarFar - Pharmacy Repository
+- new | 2002 | 10.2737/psw-gtr-185 | report | California’s Hardwood Resource: Seeds, Seedlings, and Sprouts of Three Important Forest-Zone Species | 
+- new | 2002 | 10.2458/azu_jrm_v55i3_deperno | article | White-Tailed Deer Habitats in the Central Black Hills | Journal of Range Management
+- new | 2002 | 10.1046/j.1365-2745.2002.00644.x | article | Trientalis europaea L. | Journal of Ecology
+- new | 2001 | 10.1093/fampra/18.4.468-a | article | Urinary tract infection in the female. | Family Practice
+- new | 1999 | 10.1023/a:1009824417702 | article | Vegetative response of Arctostaphylos uva-ursi to experimental cutting and burning | Plant Ecology
+- new | 1998 | https://openalex.org/W1544279895 | article | Habitat Selection of a Declining White-tailed Deer Herd in the Central Black Hills, South Dakota and Wyoming | Open PRAIRIE (South Dakota State Univers
+- new | 1995 | 10.1002/j.2328-5540.1995.tb00227.x | article | A TEST OF THE HABITAT SUITABILITY MODEL FOR MERRIAM'S WILD TURKEYS | Wildlife Society Bulletin
+- new | 1994 | https://openalex.org/W186968484 | conference-abstract | TB156: Woody Landscape Plant Cold-Hardiness Ratings | DigitalCommons (California Polytechnic S
+- new | 1980 | https://openalex.org/W2617513785 | article | Trials on the propagation of bearberry (Arctostaphylos uva-ursi) as an ornamental ground cover plant.I. | Revue Suisse de Viticulture, d'Arboricul
+- new | 1979 | 10.5962/bhl.title.70628 | book | Vegetative propagation of 11 common Alaska woody plants / | Biodiversity Heritage Library (Smithsoni
+- new | 1971 | 10.21273/jashs.96.4.474 | article | Growth Responses of Ground Cover Plants to Varied pH in Nutrient Culture1 | Journal of the American Society for Hort
+- new | 1971 | https://openalex.org/W2585547740 | article | Food Habits of Deer In The Southern Black Hills As Determined By The Point Technique | Open PRAIRIE (South Dakota State Univers
+
+## arnica-montana (Arnica montana) - name clause: "Arnica montana"[tiab] OR "arnica"[ti]
+
+### PubMed HT - 77 hits, 77 not already listed above, 70 new
+- new | 2026 | 42698408 | Review | A Systematic Review of Arnica montana in Postoperative Recovery Across Surgical Specialties. | Cureus
+- new | 2026 | 42173484 | Randomized Controlled Trial | Effect of Arnica Montana on postoperative edema, pain, and trismus following surgical extraction of impacted third molars: A double-blind clinical trial. | J Stomatol Oral Maxillofac Surg
+- new | 2026 | 42539591 |  | Effectiveness of Arnica and Bromelain for Improving Ecchymosis Following Facial Plastic Surgery: A Systematic Review. | Plast Surg (Oakv)
+- new | 2026 | 42688674 |  | A scientometric study on the characteristics of herbal medicine and identification of herbaceous agents for treatment of periodontal diseases. | J Dent Sci
+- new | 2026 | 42180077 | Case Reports | Arnica/Levisticum 6x comp. can alleviate musculoskeletal symptoms in breast cancer patients undergoing endocrine therapy: a case series. | Front Oncol
+- new | 2025 | 41264874 | Systematic Review | Interventions for reducing bleeding and swelling in eyelid and periocular surgeries: a systematic review of randomized controlled trials. | Orbit
+- new | 2025 | 40825042 | Clinical Trial, Phase I/Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A phase Ib/II clinical study to evaluate the safety and efficacy of topical Arnica tincture to treat non-complicated cutaneous leishmaniasis in Colombia. | PLoS Negl Trop Dis
+- new | 2024 | 39609444 | Systematic Review/Meta-Analysis | Herbal extracts in orofacial pain: a systematic review and direct and indirect meta-analysis. | Sci Rep
+- new | 2024 | 38399390 |  | Enhancing Ocular Surface in Dry Eye Disease Patients: A Clinical Evaluation of a Topical Formulation Containing Sesquiterpene Lactone Helenalin. | Pharmaceuticals (Basel)
+- new | 2024 | 37913818 | Randomized Controlled Trial | Can Topical Agents (Arnica and Mucopolysaccharide Polysulfate) Reduce Postoperative Pain, Edema and Trismus Following Mandibular Third Molar Surgery? | J Oral Maxillofac Surg
+- new | 2022 | 34176651 | Review | Homeopathic Agents or Vitamins in Reducing Ecchymosis after Oculofacial Surgery: A Report by the American Academy of Ophthalmology. | Ophthalmology
+- new | 2022 | 35991790 |  | Comparison of the Efficacy of Homeopathic Drug Arnica and Ibuprofen on Postextraction Pain in Children: A Triple-blind Randomized Controlled Trial. | Int J Clin Pediatr Dent
+- new | 2022 | 32956264 | Randomized Controlled Trial | Mud Pack With Menthol and Arnica Montana Accelerates Recovery Following a High-Volume Resistance Training Session for Lower Body in Trained Men. | J Strength Cond Res
+- new | 2021 | 34977136 | Systematic Review | Is Homeopathic Arnica Effective for Postoperative Recovery? A Meta-analysis of Placebo-Controlled and Active Comparator Trials. | Front Surg
+- new | 2020 | 31952199 |  | Anti-Bacterial and Anti-Inflammatory Effects of Toothpaste with Swiss Medicinal Herbs towards Patients Suffering from Gingivitis and Initial Stage of Periodontitis: from Clinical E | Dent J (Basel)
+- new | 2020 | 33381206 |  | Systemic Use of Arnica Montana for the Reduction of Postsurgical Sequels following Extraction of Impacted Mandibular 3(rd) Molars: A Pilot Study. | Evid Based Complement Alternat Med
+- new | 2018 | 29557754 | Randomized Controlled Trial | Arnica compositum, Hekla lava and Acidum Nitricum Together are Superior to Arnica compositum Alone in the Local Treatment of Symptomatic Calcific Periarthritis of the Shoulder: A P | Rev Recent Clin Trials
+- new | 2018 | 29321982 |  | Homeopathic Arnica from Boiron and post-operative bleeding in mastectomized women in Milan: Statistical flaws and bias to be addressed. | J Tradit Complement Med
+- new | 2017 | 28163953 |  | Is there a role for homeopathy in breast cancer surgery? A first randomized clinical trial on treatment with Arnica montana to reduce post-operative seroma and bleeding in patients | J Intercult Ethnopharmacol
+- SEEN | 2017 | 26863038 |  | Assessing the Effectiveness of Arnica montana and Rhododendron tomentosum (Ledum palustre) in the Reduction of Ecchymosis and Edema After Oculofacial Surgery: Preliminary Results. | Ophthalmic Plast Reconstr Surg
+- new | 2016 | 25171757 | Review | Effectiveness and Safety of Arnica montana in Post-Surgical Setting, Pain and Inflammation. | Am J Ther
+- HELD REF-3445 | 2016 | 27035499 | Systematic Review | Is There a Role for Arnica and Bromelain in Prevention of Post-Procedure Ecchymosis or Edema? A Systematic Review of the Literature. | Dermatol Surg
+- HELD REF-3444 | 2016 | 27348641 | Randomized Controlled Trial | Arnica Ointment 10% Does Not Improve Upper Blepharoplasty Outcome: A Randomized, Placebo-Controlled Trial. | Plast Reconstr Surg
+- new | 2016 | 25954844 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Perioperative Arnica montana for Reduction of Ecchymosis in Rhinoplasty Surgery. | Ann Plast Surg
+- new | 2016 | 26910697 | Comparative Study/Randomized Controlled Trial | Topical Application of Arnica and Mucopolysaccharide Polysulfate Attenuates Periorbital Edema and Ecchymosis in Open Rhinoplasty: A Randomized Controlled Clinical Study. | Plast Reconstr Surg
+- new | 2016 | 26773321 | Randomized Controlled Trial | Physiotherapy and a Homeopathic Complex for Chronic Low-back Pain Due to Osteoarthritis: A Randomized, Controlled Pilot Study. | Altern Ther Health Med
+- new | 2016 | 26989948 | Comparative Study | Effects of Arnica comp.-Heel® on reducing cardiovascular events in patients with stable coronary disease. | Minerva Cardioangiol
+- new | 2015 | 25760389 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Clinical Trial with Brazilian Arnica (Solidago chilensis Meyen) Glycolic Extract in the Treatment of Tendonitis of Flexor and Extensor Tendons of Wrist and Hand. | Phytother Res
+- new | 2014 | 24742607 |  | Dental Practice Scenario in a Government Homeopathic Hospital in West Bengal, India. | J Evid Based Complementary Altern Med
+- new | 2014 | 25439037 |  | CORE-Hom: a powerful and exhaustive database of clinical trials in homeopathy. | Homeopathy
+- new | 2014 | 23947690 | Randomized Controlled Trial | The effects of topical Arnica on performance, pain and muscle damage after intense eccentric exercise. | Eur J Sport Sci
+- new | 2014 | 24311187 | Comparative Study | Practice patterns in the perioperative treatment of patients undergoing septorhinoplasty: a survey of facial plastic surgeons. | JAMA Facial Plast Surg
+- new | 2012 | 22852580 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of a non-hormonal treatment, BRN-01, on menopausal hot flashes: a multicenter, randomized, double-blind, placebo-controlled trial. | Drugs R D
+- new | 2012 | 22409925 | Research Support, Non-U.S. Gov't | Potential of the homeopathic remedy, Arnica Montana 30C, to reduce DNA damage in Escherichia coli exposed to ultraviolet irradiation through up-regulation of nucleotide excision re | Zhong Xi Yi Jie He Xue Bao
+- new | 2011 | 22110924 |  | Arnica/Hydroxyethyl salicylate combination spray for ankle distortion: a four-arm randomised double-blind study. | Pain Res Treat
+- new | 2011 | 21944657 | Randomized Controlled Trial | Arnica and stinging nettle for treating burns - a self-experiment. | Complement Ther Med
+- new | 2010 | 19827029 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of an extract of Brazilian arnica (Solidago chilensis Meyen, Asteraceae) in treating lumbago. | Phytother Res
+- new | 2010 | 20683279 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of homeopathic Arnica montana for ecchymosis after upper blepharoplasty: a placebo-controlled, randomized, double-blind study. | Ophthalmic Plast Reconstr Surg
+- HELD REF-3442 | 2010 | 20412090 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Accelerated resolution of laser-induced bruising with topical 20% arnica: a rater-blinded randomized controlled trial. | Br J Dermatol
+- new | 2010 | 20233176 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | No effect of a homoeopathic combination of Arnica montana and Bryonia alba on bleeding, inflammation, and ischaemia after aortic valve surgery. | Br J Clin Pharmacol
+- SEEN | 2010 | 20807867 | Randomized Controlled Trial | The effect of topical arnica on muscle pain. | Ann Pharmacother
+- new | 2009 | 19878252 | Research Support, Non-U.S. Gov't | Allergenic potential of Arnica-containing formulations in Arnica-allergic patients. | Contact Dermatitis
+- new | 2008 | 18607237 | Multicenter Study/Randomized Controlled Trial | Osteoarthritis: a proprietary Arnica gel is found to be as effective as ibuprofen gel in osteoarthritis of the hands. | Holist Nurs Pract
+- new | 2008 | 18251757 | Clinical Trial, Phase III/Comparative Study/Randomized Controlled Trial | Effect of homeopathy on analgesic intake following knee ligament reconstruction: a phase III monocentre randomized placebo controlled study. | Br J Clin Pharmacol
+- new | 2008 | 18199022 | Comparative Study/Randomized Controlled Trial | Efficacy of Arnica montana D4 for healing of wounds after Hallux valgus surgery compared to diclofenac. | J Altern Complement Med
+- new | 2008 | 18154553 | Research Support, Non-U.S. Gov't | Cosmetics and herbal remedies with Compositae plant extracts - are they tolerated by Compositae-allergic patients? | Contact Dermatitis
+- new | 2007 | 17227743 | Randomized Controlled Trial | Homeopathic Arnica montana for post-tonsillectomy analgesia: a randomised placebo control trial. | Homeopathy
+- new | 2007 | 17572575 | Comparative Study/Randomized Controlled Trial | A randomized, controlled comparison between arnica and steroids in the management of postrhinoplasty ecchymosis and edema. | Plast Reconstr Surg
+- HELD REF-3446 | 2007 | 17318618 | Comparative Study/Randomized Controlled Trial | Choosing between NSAID and arnica for topical treatment of hand osteoarthritis in a randomised, double-blind study. | Rheumatol Int
+- new | 2006 | 16910406 | Randomized Controlled Trial | [Effect of a homeopathic arnica preparation (D4) on delayed onset muscle soreness. Placebo-controlled crossover study]. | MMW Fortschr Med [ger]
+- new | 2006 | 17105693 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Homeopathic arnica therapy in patients receiving knee surgery: results of three randomised double-blind trials. | Complement Ther Med
+- new | 2006 | 16415448 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of homeopathic Arnica montana on bruising in face-lifts: results of a randomized, double-blind, placebo-controlled clinical trial. | Arch Facial Plast Surg
+- new | 2006 | 16457981 | Clinical Trial/Comparative Study/Research Support, Non-U.S. Gov't | Development and stability of semisolid preparations based on a supercritical CO2 Arnica extract. | J Pharm Biomed Anal
+- new | 2005 | 19674657 |  | Effects of the homeopathic remedy arnica on attenuating symptoms of exercise-induced muscle soreness. | J Chiropr Med
+- new | 2005 | 16036165 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of the homeopathic remedies Arnica montana and Bellis perennis on mild postpartum bleeding--a randomized, double-blind, placebo-controlled study--preliminary results. | Complement Ther Med
+- new | 2005 | 16425108 | Comparative Study | [On the effectiveness of the homeopathic remedy Arnica montana]. | Wien Med Wochenschr [ger]
+- new | 2004 | 15503788 |  | Contact allergy to Compositae plants in patients with atopic dermatitis. | Med Pregl [eng,srp]
+- new | 2003 | 12884902 | Letter/Comment | Arnica--a placebo? | Homeopathy
+- new | 2003 | 14587684 | Meta-Analysis/Research Support, Non-U.S. Gov't | Effect of Arnica D30 in marathon runners. Pooled results from two double-blind placebo controlled studies. | Homeopathy
+- new | 2003 | 12562974 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Homeopathic arnica for prevention of pain and bruising: randomized placebo-controlled trial in hand surgery. | J R Soc Med
+- new | 2003 | 14605480 | Clinical Trial/Randomized Controlled Trial | [Efficacy of Arnica in varicose vein surgery: results of a randomized, double-blind, placebo-controlled pilot study]. | Forsch Komplementarmed Klass Naturheilkd [ger]
+- new | 2003 | 14732966 | Clinical Trial/Randomized Controlled Trial | Synergetic analgesic effect of the combination of arnica and hydroxyethyl salicylate in ethanolic solution following cutaneous application by transcutaneous electrostimulation. | Arzneimittelforschung
+- new | 2003 | 14587689 | Review | The benefits of Arnica: 16 case reports. | Homeopathy
+- new | 2002 | 11892685 | Clinical Trial/Randomized Controlled Trial | Use of Arnica to relieve pain after carpal-tunnel release surgery. | Altern Ther Health Med
+- HELD REF-3443 | 2002 | 12174058 | Clinical Trial/Randomized Controlled Trial | Effects of topical arnica gel on post-laser treatment bruises. | Dermatol Surg
+- new | 2002 | 12539881 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Arnica montana gel in osteoarthritis of the knee: an open, multicenter clinical trial. | Adv Ther
+- new | 2001 | 11824436 | Review | Homeopathic arnica: just a placebo. | Prescrire Int
+- new | 2001 | 11525188 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | [Arnica for hematomas after venous operations?]. | Forsch Komplementarmed Klass Naturheilkd [ger]
+- new | 2000 | 11146347 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Homeopathic Arnica in postoperative haematomas: a double-blind study. | Dermatology
+- new | 1998 | 9820349 | Systematic Review | Efficacy of homeopathic arnica: a systematic review of placebo-controlled clinical trials. | Arch Surg
+- new | 1998 | 9758072 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Homeopathic Arnica 30x is ineffective for muscle soreness after long-distance running: a randomized, double-blind, placebo-controlled trial. | Clin J Pain
+- new | 1997 | 9068434 | Clinical Trial/Randomized Controlled Trial | Double-blind, placebo-controlled, randomized clinical trial of homoeopathic arnica C30 for pain and infection after total abdominal hysterectomy. | J R Soc Med
+- new | 1997 | 9155774 | Comment/Letter | Randomized trial of homeopathic arnica. | J R Soc Med
+- new | 1993 | 7903572 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [The effects of Arnica Montana on blood coagulation. Randomized controlled trial]. | Can Fam Physician [fre]
+- new | 1991 | 1780819 | Clinical Trial/Randomized Controlled Trial | [Effect of Arnica D 30 during hard physical exertion. A double-blind randomized trial during the Oslo Marathon 1990]. | Tidsskr Nor Laegeforen [nor]
+- new | 1990 | 2102159 | Clinical Trial/Randomized Controlled Trial | Postpartum homeopathic Arnica montana: a potency-finding pilot study. | Br J Clin Pract
+- new | 1984 | 6365158 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Metronidazole (Flagyl) and Arnica Montana in the prevention of post-surgical complications, a comparative placebo controlled clinical trial. | Br J Oral Maxillofac Surg
+
+### PubMed SR - 14 hits, 4 not already listed above, 3 new
+- HELD REF-0725 | 2024 | 39520030 | Review | Effects of Arnica Phytotherapeutic and Homeopathic Formulations on Traumatic Injuries and Inflammatory Conditions: A Systematic Review. | Plants (Basel)
+- new | 2020 | 31800557 | Systematic Review | Perioperative Homeopathic Arnica and Bromelain: Current Results and Future Directions. | Ann Plast Surg
+- new | 2012 | 23089215 | Systematic Review | A systematic review and meta-analysis on the use of Hypericum perforatum (St. John's Wort) for pain conditions in dental practice. | Homeopathy
+- new | 2012 | 22947388 | Research Support, Non-U.S. Gov't | Árnica: a multivariate analysis of the botany and ethnopharmacology of a medicinal plant complex in the Iberian Peninsula and the Balearic Islands. | J Ethnopharmacol
+
+### PubMed SAFE - 61 hits, 45 not already listed above, 44 new
+- new | 2026 | 42517879 | Review | Helenalin: a multifaceted sesquiterpene lactone with diverse biological activities-an integrative pharmacological and computational evidence. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 41082059 |  | Nanocomposite hydrogel incorporating Arnica montana extract, propolis-loaded chitosan nanoparticles, and menstrual blood-derived mesenchymal stem cells for allergic rhinitis therap | J Mater Sci Mater Med
+- new | 2023 | 35984685 |  | Arnica montana L. extract containing 6-O-methacryloylhelenalin and 6-O-isobutyrylhelenalin accelerates growth and differentiation of human subcutaneous preadipocytes and leads volu | Int J Cosmet Sci
+- new | 2022 | 36365196 |  | Evaluation of Pharmacokinetic and Toxicological Parameters of Arnica Tincture after Dermal Application In Vivo. | Pharmaceutics
+- new | 2022 | 36207736 | Review | Sesquiterpenoid lactones as potential anti-cancer agents: an update on molecular mechanisms and recent studies. | Cancer Cell Int
+- new | 2021 | 33316832 |  | Homeopathic Treatment of Pododermatitis in Magellanic Penguins (Spheniscus magellanicus). | Homeopathy
+- new | 2021 | 34677487 | Review | Clinical Trials, Potential Mechanisms, and Adverse Effects of Arnica as an Adjunct Medication for Pain Management. | Medicines (Basel)
+- new | 2021 | 34745422 |  | Anti-Inflammatory Activity and Chemical Analysis of Different Fractions from Solidago chilensis Inflorescence. | Oxid Med Cell Longev
+- new | 2021 | 33284418 |  | Umbilical cord medication in healthy full-term newborns: a before-after uncontrolled quality improvement study. | Eur J Pediatr
+- new | 2020 | 32110129 | Case Reports | Individualized Treatment of Bone Marrow Edema of the Knee With the Aid of Classical Homeopathy: A Report of 2 Cases. | Clin Med Insights Case Rep
+- new | 2020 | 30767746 |  | Novel Herbal Topical Patch Containing Curcumin and Arnica montana for the Treatment of Osteoarthritis. | Curr Rheumatol Rev
+- new | 2018 | 30151314 | Case Reports | An integrated approach with homeopathic medicine and electro-acupuncture in anaesthesiology during breast cancer surgery: Case reports. | J Pharmacopuncture
+- HELD REF-0727 | 2017 | 28275210 | Review | Phytomedicine in Joint Disorders. | Nutrients
+- new | 2017 | 29228804 | Case Reports | Treatment of Postoperative Sore Throat With the Aid of the Homeopathic Remedy Arnica montana: A Report of Two Cases. | J Evid Based Complementary Altern Med
+- new | 2017 | 28105900 |  | Feasibility, acceptability, and tolerability of RGN107 in the palliative wound care management of chronic wound symptoms. | J Wound Care
+- new | 2013 | 24106675 |  | Quantification of Sesquiterpene Lactones in Asteraceae Plant Extracts: Evaluation of their Allergenic Potential. | Sci Pharm
+- new | 2013 | 22877081 | Case Reports | Toxic optic neuropathy following ingestion of homeopathic medication Arnica-30. | Cutan Ocul Toxicol
+- new | 2012 | 37011124 | Review | Arnica Montana. | 
+- new | 2012 | 21923308 |  | Efficacy of Arnica Echinacea powder in umbilical cord care in a large cohort study. | J Matern Fetal Neonatal Med
+- new | 2012 | 24278813 | Case Reports | A Homeopathic Arnica Patch for the Relief of Cellulitis-derived Pain and Numbness in the Hand. | Glob Adv Health Med
+- new | 2011 | 21526453 | Research Support, Non-U.S. Gov't | The protective role of Lychnophora ericoides Mart. (Brazilian arnica) in 1,2-dimethylhydrazine-induced experimental colon carcinogenesis. | Nutr Cancer
+- new | 2009 | 19591533 | Comparative Study/Multicenter Study/Research Support, Non-U.S. Gov't | Remedies containing Asteraceae extracts: a prospective observational study of prescribing patterns and adverse drug reactions in German primary care. | Drug Saf
+- new | 2006 | 17236331 | Case Reports | [Allergic contact dermatitis from Arnica]. | Rev Med Suisse [fre]
+- new | 2003 | 12808362 | Review | [Arnica: new insights on the molecular mode of action of a traditional medicinal plant]. | Forsch Komplementarmed Klass Naturheilkd [ger]
+- new | 2003 | 12856478 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Nonlinear effects of glutamate and KCl on glutamate toxicity in cultured rat cerebellar neurons. | Int J Neurosci
+- new | 2003 | 12587994 | Case Reports | Homeopathic treatment in emergency medicine: a case series. | Homeopathy
+- new | 2001 | 11558636 | Review | Final report on the safety assessment of Arnica montana extract and Arnica montana. | Int J Toxicol
+- new | 2001 | 12018517 | Research Support, Non-U.S. Gov't | Cytogenetical effects of sonication in mice and their modulations by actinomycin D and a homeopathic drug, Arnica 30. | Indian J Exp Biol
+- new | 2001 | 11722485 |  | The seamy side of natural medicines: contact sensitization to arnica (Arnica montana L.) and marigold (Calendula officinalis L.). | Contact Dermatitis
+- new | 1998 | 10402655 |  | [Effect of Arnica montana tincture on some hydrolytic enzyme activities of rat liver in experimental toxic hepatitis]. | Ukr Biokhim Zh (1978) [ukr]
+- new | 1998 | 9848164 |  | [Effect of Arnica montana on the state of lipid peroxidation and protective glutathione system of rat liver in experimental toxic hepatitis]. | Ukr Biokhim Zh (1978) [ukr]
+- new | 1998 | 9471988 | Case Reports | Contact dermatitis caused by sesquiterpene lactones. | Am J Contact Dermat
+- new | 1998 | 9840982 | Case Reports/Letter | Leukemia-related Sweet's syndrome elicited by pathergy to Arnica. | Dermatology
+- new | 1995 | 23196021 |  | Allergie acute contact dermatitis due to Arnica tincture self-medication. | Phytomedicine
+- new | 1993 | 8096447 | Case Reports | Allergic contact dermatitis from sunflower (Helianthus annuus) with cross-sensitivity to arnica. | Contact Dermatitis
+- new | 1992 | 1356709 | Case Reports | Cross-reactivity with Tagetes in Arnica contact eczema. | Contact Dermatitis
+- new | 1988 | 2970374 | Case Reports/Review | [Allergic contact dermatitis caused by Asteraceae. Identification of an 8,9-epoxythymol-diester as the contact allergen of Arnica sachalinensis]. | Derm Beruf Umwelt [ger]
+- new | 1983 | 6852212 | Comparative Study | [Efficacy of the phenol compounds of Arnica in toxic lesion of the liver]. | Farmakol Toksikol [rus]
+- new | 1980 | 6993423 | Case Reports/Review | [Arnica allergy]. | Hautarzt [ger]
+- new | 1978 | 148995 | Case Reports | The sensitizing capacity of Compositae plants. I. Occupational contact dermatitis from Arnica longifolia Eaton. | Contact Dermatitis
+- new | 1978 | 154377 | Case Reports | Identification of the allergens of Arnica montana L. | Contact Dermatitis
+- new | 1977 | 145351 | Case Reports | Dermatitis from Arnica montana. | Contact Dermatitis
+- new | 1971 | 4262533 |  | [Analytical studies on allergens in hypersensitivity against tincture of arnica using thin-layer chromatography]. | Allerg Immunol (Leipz) [ger]
+- new | 1961 | 13789077 |  | Poison control: Dexedrine, metallic mercury, arsenic and arnica intoxications. | Arch Pediatr (N Y)
+- new | 1883 | 36022006 |  | Arnica Poisoning: Dose-One Ounce of the Tincture. | South Med Rec
+
+### PubMed OBS - 9 hits, 2 not already listed above, 2 new
+- new | 2024 | 38319317 |  | Umbilical cord stump medication with a topical dermo protective powder compared to dry care in healthy full-term and near-term newborns: a two-center prospective cohort study. | Minerva Pediatr (Torino)
+- new | 2017 | 29154070 |  | Complementary and alternative therapies in dentistry and characteristics of dentists who recommend them. | Complement Ther Med
+
+### PubMed REV - 32 hits, 12 not already listed above, 8 new
+- new | 2024 | 38843790 | Review | VOLKSMED Database: A Source for Forgotten Wound Healing Plants in Austrian Folk Medicine. | Planta Med
+- HELD REF-0726 | 2023 | 37895999 | Review | Arnica montana L.: Doesn't Origin Matter? | Plants (Basel)
+- new | 2022 | 35231173 | Review/Research Support, Non-U.S. Gov't | High-Content Screening Pipeline for Natural Products Targeting Oncogenic Signaling in Melanoma. | J Nat Prod
+- new | 2021 | 33683253 | Review | Traditional plants from Asteraceae family as potential candidates for functional food industry. | Food Funct
+- HELD REF-2864 | 2020 | 32614752 | Review | Recent Patents on Anti-Cancer Potential of Helenalin. | Recent Pat Anticancer Drug Discov
+- HELD REF-2865 | 2019 | 30317996 | Research Support, Non-U.S. Gov't/Review | Helenalin - A Sesquiterpene Lactone with Multidirectional Activity. | Curr Drug Targets
+- new | 2019 | 31280854 | Review | The Critical Role of Nutrition in Facial Plastic Surgery. | Facial Plast Surg Clin North Am
+- new | 2018 | 29496319 | Review | Bias and misleading concepts in an Arnica research study. Comments to improve experimental Homeopathy. | J Ayurveda Integr Med
+- HELD REF-0398 | 2017 | 28401567 | Review | Arnica montana L. - a plant of healing: review. | J Pharm Pharmacol
+- new | 2007 | 18029949 | Review | Arnica for bruising and swelling. | Am J Health Syst Pharm
+- new | 2006 | 30000888 | Review | Arnica. | 
+- new | 2002 | 12492516 | Review | Contact sensitization from Compositae-containing herbal remedies and cosmetics. | Contact Dermatitis
+
+### ClinicalTrials.gov - 33 registered studies
+- NCT05048628 | COMPLETED | results=False | NA | The Effect of Ice, Green Tea and Arnica Montana Application on Post-Operative Intubation Related Sore Throat and Hoarseness | conds: Sore Throat, Hoarseness | intr: Comparıson | pubs: ['27642569:RESULT (new)', '29228804:RESULT (new)', '27444760:RESULT (new)']
+- NCT06193720 | COMPLETED | results=False | NA | The Impact of Arnica Montana Following the Surgical Extraction of Impacted Third Molars | conds: Edema, Pain, Trismus | intr: Arnica montana, Placebo
+- NCT06271135 | COMPLETED | results=False | NA | Assessing the Quality of Life of Patients With Rosacea | conds: Rosacea | intr: CAPILLARY REPAIR SERUM 30ml
+- NCT03512639 | COMPLETED | results=False | NA | Arnica Montana and Bellis Perennis for Prevention of Seroma After Mastectomy | conds: Seroma | intr: Homeopathic Medication, Placebo
+- NCT02207998 | COMPLETED | results=False | PHASE2 | Efficacy of Homoeopathy and Physiotherapy in Chronic Low Back Pain Due to Osteoarthritis | conds: Osteoarthritis | intr: Homeopathic complex and physiotherapy, Placebo and physiotherapy | pubs: ['26773321:DERIVED (new)']
+- NCT00774293 | COMPLETED | results=False | PHASE4 | Homoeopathic Association in Aortic Valve Surgery | conds: Aortic Valve Replacement | intr: placebo, Arnica and Bryonia
+- NCT00504010 | COMPLETED | results=False | PHASE1 | The Role of Arnica on Muscle Pain Following Eccentric Exercise | conds: Muscles, Exercise, Arnica | intr: Arnica Montana, placebo cream
+- NCT04677712 | COMPLETED | results=True | PHASE4 | Effects of Mitigation Treatments on Bruising of CCH-aaes Treatment of Buttock Cellulite | conds: Edematous Fibrosclerotic Panniculopathy (EFP), Cellulite | intr: CCH-aaes, Compression, Cold Packs, Arnica Gel
+- NCT00222365 | TERMINATED | results=False | PHASE3 | Homeopathy Assessment in Terms of the Consumption of Analgesics After Knee Ligamentoplasty | conds: Pain | intr: Arnica montana, 5 CH, Bryonia alba, 5 CH, Hypericum perforatum, 5 CH, Ruta graveolens, 3 DH | pubs: ['10853874:RESULT (new)']
+- NCT01164644 | COMPLETED | results=True | NA | The Utility of Peri-operative Arnica Montana for Reduction of Ecchymosis in Rhinoplasty Surgery | conds: Ecchymosis | intr: Arnica montana, Placebo
+- NCT03569930 | UNKNOWN | results=False | PHASE4 | Irritation and Anal Bleeding in Patients Affected by Hemorrhoids. | conds: Hemorrhoids | intr: flavonoid-based supplements, Centella Complex, standard of care
+- NCT05283434 | UNKNOWN | results=False | PHASE2,PHASE3 | Arnica and the Management of Pain in Acute Musculoskeletal Extremity Injuries | conds: Pain, Muscle, Pain, Acute | intr: Arnica, Placebo
+- NCT01156194 | COMPLETED | results=False | PHASE3 | Homeopathic Remedy for the Third Stage of Delivery | conds: Third Stage of Labor | intr: Homeopathy 1, Homeopathy 2, Placebo
+- NCT00363038 | COMPLETED | results=True | NA | Effects of Topical Vitamin K, Vitamin K and Retinol, and Arnica on Post-Laser Bruising | conds: Ecchymosis | intr: Petrolatum United States Pharmacopeia (USP), Vitamin K and retinol ointment, Arnica ointment, Vitami
+- NCT07162454 | COMPLETED | results=False | NA | Effectiveness of CBD for Neuropathic Pain in Diabetic Foot Neuropathy | conds: Xerosis Cutis, Neuropathic Pain Associated With Diabetic Peripheral Neuropathy | intr: Group 1. Complete formula, Group 2. Cannabidiol and Urea 10% formula., Group 3. Placebo formula.
+- NCT05094908 | ACTIVE_NOT_RECRUITING | results=False | PHASE1 | Arnica Tincture Fot the Treatment of Cutaneous Leishmaniasis | conds: Leishmaniasis, Cutaneous | intr: Arnica Tincture | pubs: ['40825042:DERIVED (new)']
+- NCT03586232 | WITHDRAWN | results=False | NA | Arnica Montana and Bromelain in Rhinoplasty | conds: Wound Healing | intr: Arnica Montana, Bromelain, Placebo
+- NCT01910831 | COMPLETED | results=True | PHASE4 | Study to Assess DerMend Moisturizing Bruise Formula in Improving the Appearance of Chronically Aged Forearms and Hands | conds: Purpura | intr: DerMend Moisturizing Bruise Formula, Non-active placebo control
+- NCT03520595 | COMPLETED | results=False | NA | Analgesic Efficacy of Arnica Montana in Comparison With Diclofenac Sodium Following a Periodontal Surgical Procedure | conds: Crown Lengthening Procedure With Ostectomy | intr: Arnica 200 drug 3 pills,3 times daily for 3 days, Diclofenac Sodium 50mg twice daily, Placebo pills 
+- NCT04533269 | UNKNOWN | results=False | NA | A Study of Topical Arnica & Ledum on Bruise Reduction in HNV | conds: Bruise, Contusion | intr: Arnica montana, Ledum palustre
+- NCT07639658 | COMPLETED | results=False |  | Temple Massager System Study in Women Ages 35-65 | conds: Tension Headaches, Stress, Sleep Quality, Quality of Life | intr: Temple Massager System
+- NCT07445568 | COMPLETED | results=False | NA | Home-Based Quadriceps Isometric Exercise for Knee Osteoarthritis Pain | conds: Older Adults (60 - 85 Years Old), OA Knee | intr: Placebo Topical Gel, Cannabidiol (CBD) Topical Gel, Arnica montana Topical Gel, Home-based Quadricep
+- NCT04536948 | COMPLETED | results=False | NA | Cold Application in Lateral Epicondylitis | conds: Lateral Epicondylitis | intr: Cooling Gel, Cold Pack
+- NCT04683263 | COMPLETED | results=False | NA | Immediate and Mid-term Effect of a Natural Topical Product in Patients With Musculoskeletal Pain | conds: Musculoskeletal Pain, Chronic Pain, Joint Pain, Stiffness of Unspecified Joint, Not Elsewhere Classified | intr: Placebo, Fisiocrem
+- NCT01598909 | COMPLETED | results=False | NA | Efficacy of Arnica D1 Ointment After Upper Blepharoplasty | conds: Blepharoplasty, Upper Eyelid Blepharoplasty | intr: Arnica, Placebo ointment
+- NCT06822478 | RECRUITING | results=False | PHASE3 | Arnica Tincture Fot the Treatment of Cutaneous Leishmaniasis II. | conds: Leishmaniasis, Cutaneous | intr: Arnica Tincture, Meglumine antimoniate.
+- NCT04534426 | COMPLETED | results=False | PHASE4 | Topical Arnica and Mucopolysaccharide Polysulfate on Postoperative Pain, Edema and Trismus | conds: Impacted Third Molar Tooth | intr: : Arnica montana, Mucopolysaccharide polysulfate, Control group | pubs: ['26910697:RESULT (new)', '7613277:RESULT (new)', '2469747:RESULT (new)', '37913818:DERIVED (new)']
+- NCT00405626 | UNKNOWN | results=False | PHASE1 | Double Blind Placebo Controlled Bellis Perenis and Arnica Montana as a Drug for PPH | conds: Hemorrhage | intr: Bellis Perenis ,Arnica montana | pubs: ['16036165:RESULT (new)']
+- NCT02168335 | COMPLETED | results=False | PHASE2 | The Efficacy of OrasaltsTM in the Treatment of Gingivitis | conds: Gingivitis | intr: OrasaltsTM, Sea salt
+- NCT05690100 | UNKNOWN | results=False | NA | Evaluation of the Use of Ozone Gel Versus Hyaluronic Acid Gel on Palatal Wound Healing . | conds: Palate; Wound | intr: GeliO3, Gingi gel
+- NCT01174511 | UNKNOWN | results=False | PHASE1,PHASE2 | Evaluation of A-1 Cool Cream Efficacy for Treatment Atopic Dermatitis | conds: ATOPIC DERMATITIS | intr: A -1 Cool Cream,Vaselin ointment
+- NCT05958251 | COMPLETED | results=False |  | The Use of Arnica Montana in the Cicatrization of the Umbilical Cord | conds: Umbilical Cord Issue | intr: Cicaben, Standard Care (in control arm)
+- NCT03944629 | COMPLETED | results=True |  | Efficacy of Arnica Montana in Reducing Postoperative Edema and Pain | conds: Arnica, Third Molar Extraction | intr: SinEcch, Placebo
+
+### OpenAlex no-PMID trial-worded - 1025 hits, 55 without PMID, 55 new
+- new | 2026 | 10.21037/ajo-2025-1-97 | article | Effect of topical Arnica montana cream on postoperative oedema and ecchymosis after septorhinoplasty: a prospective, randomised, split-face, blinded trial | Australian Journal of Otolaryngology
+- new | 2026 | 10.5281/zenodo.21948548 | article | EVALUATION OF ARNICA MONTANA MOTHER TINCTURE EFFICACY IN PATIENTS OF RECENT INJURY AND ITS PHYTOCHEMICAL ANALYSIS | Zenodo (CERN European Organization for N
+- new | 2026 | 10.30574/ijsra.2026.20.1.1474 | article | From Injury to Recovery: Arnica montana and Calcarea sulphuricum in an Elderly Patient with Post-Traumatic Periorbital Ecchymosis | International Journal of Science and Res
+- new | 2026 | 10.1055/s-0045-1814907 | conference-paper | Topical Arnica tincture as a promising therapeutic alternative for cutaneous Leishmaniasis: Evidence from a phase Ib/II clinical trial | Planta Medica
+- new | 2026 | 10.2174/0122127968489675261029062931 | article | A Comprehensive Review of Botany, Phytochemistry, and Pharmacology of Arnica montana | Current Chemical Biology
+- new | 2025 | 10.56238/arev7n6-119 | article | LIPEDEMA ~ CONTROLE INFLAMATÓRIO ARNICA MONTANA | Aracê.
+- new | 2023 | 10.1055/s-0043-1766115 | article | A Randomised Placebo-Controlled Clinical Trial of Homeopathic Medicines on Osteoarthritis | Homœopathic Links
+- new | 2023 | 10.53945/2320-7094.1250 | article | Individualised homoeopathic medicine versus placebo in the pain management of knee and hip osteoarthritis: A double-blind, randomised controlled trial | Indian Journal of Research in Homoeopath
+- new | 2023 | 10.15406/ijcam.2023.16.00670 | article | A comparison of various potencies of Arnica Montana as an adjunct therapy in hospitalised/ comatose patients with hemorrhagic stroke: an observational study | International Journal of Complementary &
+- new | 2022 | 10.19080/oroaj.2022.20.556028 | article | Immediate and Mid-Term Effect of a Natural Topical Product in Patients with Musculoskeletal Pain: Randomized, Double-Blinded, and Placebo-Controlled Clinical Trial | Orthopedics and Rheumatology Open Access
+- new | 2022 | 10.22533/at.ed.1592572223096 | article | DOUBLE BLIND RANDOMIZED CLINICAL TRIAL ON ARNICA MONTANA 6CH IN MUSCLE THERMAL CHANGES BY ISOMETRIC STRESS IN PATIENTS WITH TMD AFTER ENDODONTIC PROCEDURES | International Journal of Health Science
+- new | 2022 | 10.1007/978-981-19-6080-2_4 | book-chapter | Arnica montana L.: Traditional Uses, Bioactive Chemical Constituents, and Pharmacological Activities | Springer eBooks
+- new | 2022 | 10.1055/a-1888-7054 | article | Verminderte Entzündungsreaktionen nach Operation dank Arnica montana? | Allgemeine Homöopathische Zeitung
+- new | 2022 | 10.51910/ijhdr.v6i20.23 | article | Effect of the homeopathic remedies Arnica montana and Staphisagria on the time of healing of surgical wounds. | International Journal of High Dilution R
+- new | 2022 | 10.14436/jcdam.1.3.021-028.oar | article | ANALYSIS OF THE EFFECT OF ARNICA MONTANA ON EDEMA AND ECCHYMOSIS IN RHINOPLASTY | Journal of Contemporary Diseases and Adv
+- new | 2022 | 10.51910/ijhdr.v6i20.22 | article | Effect of the homeopathic remedy Arnica montana 7cH on mechanical trauma in mice. | International Journal of High Dilution R
+- new | 2021 | 10.26353/j.itahort/2021.2.7078 | article | Cultivation trial of Arnica montana L. wild populations compared with cv. ‘Arbo’ | Italus Hortus
+- new | 2020 | 10.1007/s00238-019-01618-7 | article | Arnica montana and Bellis perennis for seroma reduction following mastectomy and immediate breast reconstruction: randomized, double-blind, placebo- controlled trial | European Journal of Plastic Surgery
+- new | 2020 | 10.33545/26164485.2020.v4.i1b.129 | article | Homoeopathic management of hyperuricemia in primary gout: A randomized single blind placebo controlled study | International Journal of Homoeopathic Sc
+- new | 2019 | 10.1097/01.gox.0000584328.47285.ca | article | Arnica Montana and Bellis Perennis for Seroma Reduction Following Mastectomy and Immediate Breast Reconstruction: Prospective, Randomized, Double-blinded, Placebo-controlled Trial | Plastic & Reconstructive Surgery Global 
+- new | 2019 | 10.18621/eurj.417262 | article | The efficacy of homeopathic Arnica montana 200 CH on dental surgical treatments: a double-blind, placebo-controlled study | The European Research Journal
+- new | 2019 | 10.17511/ijphr.2019.i4.04 | article | Comparative clinical efficacy of propolis mouthrinse in the management patients with chronic generalized gingivitis: a randomized clinical trial | Public Health Review International Journ
+- new | 2019 | 10.21518/2079-701x-2019-8-33-37 | article | Experience of application of topichesky naturopathic means for patients with ent pathology | Meditsinskiy sovet = Medical Council
+- new | 2018 | https://openalex.org/W7120484130 | dissertation | Efficacy of Arnica Montana in the control of pain, swelling and trismus after third molar surgery - randomized split-mouth clinical trial | LA Referencia (Red Federada de Repositor
+- new | 2018 | https://openalex.org/W2903507174 | article | Trials on introduction and cultivation of Arnica montana L. in Bulgaria | Biologica Nyssana
+- new | 2018 | 10.5281/zenodo.1470843 | article | Trials On The Introduction And Cultivation Of Arnica Montana L. (Asteraceae) In Bulgaria | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2018 | 10.4103/ijrh.ijrh_62_18 | article | An open-label pilot study to identify the usefulness of adjuvant homoeopathic medicines in the treatment of cerebral stroke patients | Indian Journal of Research in Homoeopath
+- new | 2017 | 10.21474/ijar01/4717 | article | QUALITY OF LIFE IN PATIENTS WITH MIGRAINE, RECEIVING A HOMEOPATHIC TREATMENT (ARNICA MONTANA LINN.) - A SHORT TERM PROSPECTIVE STUDY. | International Journal of Advanced Resear
+- new | 2016 | 10.32412/pjohns.v31i1.303 | article | Arnica Montana and Blood Loss, Surgical Field Bleeding and Operative Time in Endoscopic Sinus Surgery: A Randomized-Controlled Trial | Philippine Journal of Otolaryngology Hea
+- new | 2015 | https://openalex.org/W2253013821 | dissertation | Can self-reported depression be helped by homeopaths? : a pragmatic cohort randomised controlled trial with qualitative interviews with patients | White Rose eTheses Online (University of
+- new | 2015 | 10.4172/2329-9096.1000259 | article | Acupuncture versus Homeopathy as a Complementary Therapy in Patients with Knee Osteoarthritis | International Journal of Physical Medici
+- new | 2014 | https://openalex.org/W2140621168 | article | Árnica montana como tratamiento homeopático en pacientes con estomatitis subprótesis de grados I y II Arnica montana as homeopathic treatment in patients with denture stomatitis of | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2014 | 10.21608/ejrci.2014.10423 | article | Acupuncture versus Homeopathy as A Complementary Therapy in Patients with Knee Osteoarthritis | Egyptian Journal of Rheumatology & Clini
+- new | 2013 | 10.1016/j.indcrop.2013.10.035 | article | Morphological and chemical characterization of Arnica montana L. under different cultivation models | Industrial Crops and Products
+- new | 2013 | https://openalex.org/W2149615952 | article | Assessment of anti-inflammatory activity of homeopathic Arnica montana | 
+- new | 2013 | https://openalex.org/W1132166704 | article | Arnica Montana. Una revisión bioquímica y homeopática | La homeopatía de México
+- new | 2012 | 10.17660/actahortic.2012.955.36 | conference-paper | CULTIVATION TRIAL OF ARNICA MONTANA WILD ACCESSIONS - RESULTS OF THE SECOND YEAR | Acta Horticulturae
+- new | 2012 | 10.1016/j.indcrop.2012.02.030 | article | Rhizome and root yield of the cultivated Arnica montana L., chemical composition and histochemical localization of essential oil | Industrial Crops and Products
+- new | 2012 | 10.17660/actahortic.2012.955.37 | conference-paper | SEED GERMINATION TESTS ON ARNICA MONTANA AND RHODIOLA ROSEA WILD POPULATIONS | Acta Horticulturae
+- new | 2011 | 10.1016/j.yoph.2011.06.011 | article | Evaluation of homeopathic Arnica montana for ecchymosis after upper blepharoplasty: a placebo-controlled, randomized, double-blind study | Yearbook of Ophthalmology
+- new | 2011 | 10.3410/f.9581962.10242061 | peer-review | Faculty Opinions recommendation of Evaluation of homeopathic Arnica montana for ecchymosis after upper blepharoplasty: a placebo-controlled, randomized, double-blind study. | Faculty Opinions – Post-Publication Peer
+- new | 2011 | 10.1111/j.2042-7166.2011.01106_11.x | article | Arnica is no more helpful than placebo for ecchymosis after eye surgery | Focus on Alternative and Complementary T
+- new | 2009 | https://openalex.org/W1203619369 | article | The effect of arnica montana D6 on the level of discomfort in patients undergoing orthodontic treatment | 
+- new | 2009 | 10.1016/j.eujim.2009.08.033 | article | Anthroposophical injectable Arnica montana extract in acute low back pain: A prospective study | European Journal of Integrative Medicine
+- new | 2008 | https://openalex.org/W320262072 | article | Trials with Arnica montana and Arnica chamissonis var. foliosa cultivation in Poland. | 
+- new | 2008 | 10.1111/j.1365-2664.2008.01516.x | article | Toward improved species niche modelling: Arnica montana in the Alps as a case study | Journal of Applied Ecology
+- new | 2007 | 10.1016/s1535-1513(08)70141-3 | article | Effect of Homeopathic Arnica montana on Bruising in Face-Lifts: Results of a Randomized, Double-Blind, Placebo-Controlled Clinical Trial | Yearbook of Plastic and Aesthetic Surger
+- new | 2005 | 10.1111/j.2042-7166.2005.tb00522.x | conference-abstract | The effect of the homoeopathic remedies Arnica montana and Bellis perennis on postpartum bleeding – a randomised, double‐blind, placebo‐controlled study | Focus on Alternative and Complementary T
+- new | 2005 | https://openalex.org/W801870841 | article | Effect of Arnica montana 6 cH on edema, mouth opening and pain in patients submitted to extraction of impacted third molars | Americanae (AECID Library)
+- new | 2005 | 10.1055/s-2005-837717 | article | A Trait to the Portrait of Arnica montana | Homœopathic Links
+- new | 1997 | 10.51415/10321/2005 | dissertation | The effect of a homoeopathic halitosis complex on patients with oral malodour | DUT Open Scholar (Durban University of T
+- new | 1996 | 10.51415/10321/2117 | dissertation | Efficacy of homoeopathic arnica montana on muscle fatigue | DUT Open Scholar (Durban University of T
+- new | 1978 | 10.1016/s0007-0785(78)80008-8 | article | A further double blind trial to assess the benefit of Arnica montana in acute stroke illness | British Homeopathic journal
+- new | 1977 | 10.1016/s0007-0785(77)80043-4 | article | A double blind trial to assess the benefit of Arnica montana in acute stroke illness | British Homeopathic journal
+- new | 1976 | 10.1016/s0007-0785(76)80021-x | article | Two pilot controlled trials of Arnica montana | British Homeopathic journal
+
+## artemisia-absinthium (Artemisia absinthium) - name clause: "Artemisia absinthium"[tiab] OR "absinthium"[ti] OR "absinthe"[ti]
+
+### PubMed HT - 21 hits, 21 not already listed above, 19 new
+- new | 2025 | 41598878 |  | Effectiveness of Repellent Plants for Controlling Potato Tuber Moth (Symmetrischema tangolias) in the Andean Highlands. | Insects
+- new | 2024 | 39981197 |  | Growth performance, carcass composition, physico-chemical traits and amino acid profile of meat depending on wormwood (Artemisia absinthium L.) dietary supplementation in broilers. | Arch Anim Breed
+- new | 2024 | 39640430 |  | Common pollen and related allergen components in patients with allergic diseases in the Beijing area. | Front Allergy
+- new | 2023 | 38774851 |  | Evaluation of the Effect of Artemisia Absinthium L. Eye-Cream on Infra-Orbital Dark Circle: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | Galen Med J
+- new | 2022 | 36145497 |  | The Effects of Allium sativum L., Artemisia absinthium L., Cucurbita pepo L., Coriandrum sativum L., Satureja hortensis L. and Calendula officinalis L. on the Embryogenesis of Asca | Pathogens
+- new | 2021 | 34105669 |  | TiO2 nanoparticles and salinity stress in relation to artemisinin production and ADS and DBR2 expression in Artemisia absinthium L. | Braz J Biol
+- new | 2020 | 31701598 | Review | Herbal medicinal products for inflammatory bowel disease: A focus on those assessed in double-blind randomised controlled trials. | Phytother Res
+- new | 2017 | 29184260 |  | Topical Effects of Artemisia Absinthium Ointment and Liniment in Comparison with Piroxicam Gel in Patients with Knee Joint Osteoarthritis: A Randomized Double-Blind Controlled Tria | Iran J Med Sci
+- new | 2015 | 25518050 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases. | J Crohns Colitis
+- new | 2015 | 25830661 | Review | Herbal and plant therapy in patients with inflammatory bowel disease. | Ann Gastroenterol
+- new | 2014 | 24802704 |  | Bitter tastants alter gastric-phase postprandial haemodynamics. | J Ethnopharmacol
+- new | 2014 | 24342264 |  | Date of birth and hay fever risk in children and adolescents of Kazakhstan. | Int J Pediatr Otorhinolaryngol
+- new | 2013 | 23981095 | Systematic Review | Systematic review: the efficacy of herbal therapy in inflammatory bowel disease. | Aliment Pharmacol Ther
+- new | 2013 | 23785676 |  | The peculiarities of different types of chronic rhinitis in children and adolescents in Kazakhstan. | Iran J Public Health
+- new | 2012 | 22568040 |  | Cytotoxic effect of some medicinal plants from Asteraceae family on J-45.01 leukemic cell line--pilot study. | Acta Pol Pharm
+- new | 2010 | 20843592 | Clinical Trial | Wormwood (Artemisia absinthium) for poorly responsive early-stage IgA nephropathy: a pilot uncontrolled trial. | Am J Kidney Dis
+- HELD REF-3448 | 2010 | 19962291 | Multicenter Study/Randomized Controlled Trial | Wormwood (Artemisia absinthium) suppresses tumour necrosis factor alpha and accelerates healing in patients with Crohn's disease - A controlled clinical trial. | Phytomedicine
+- HELD REF-3447 | 2007 | 17240130 | Multicenter Study/Randomized Controlled Trial | Steroid-sparing effect of wormwood (Artemisia absinthium) in Crohn's disease: a double-blind placebo-controlled study. | Phytomedicine
+- new | 2004 | 15536765 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Absinthe: attention performance and mood under the influence of thujone. | J Stud Alcohol
+- new | 1996 | 23194763 |  | Phytotherapy in functional upper abdominal complaints Results of a clinical study with a preparation of several plants. | Phytomedicine
+- new | 1995 | 8608200 | Clinical Trial/Comparative Study/Multicenter Study | Multicentre evaluation of Capture Assay Radim Liquid Allergen for measurement of specific IgE antibodies. | Eur J Clin Chem Clin Biochem
+
+### PubMed SR - 3 hits, 1 not already listed above, 1 new
+- new | 2024 | 38616734 | Meta-Analysis/Systematic Review | Effects of Artemisia absinthium on broiler chicken coccidiosis: a systematic review and meta-analysis. | Avian Pathol
+
+### PubMed SAFE - 75 hits, 71 not already listed above, 70 new
+- new | 2026 | 41169142 | Review | Botanical Anthelmintics: A Trending Approach to Control Gastrointestinal Diseases in Ruminants. | Mini Rev Med Chem
+- new | 2026 | 42572844 | Comparative Study | Comparison of in vivo anthelmintic efficacy of Artemisia absinthium extract and albendazole in Awassi breed sheep with natural gastrointestinal nematode infection. | J Helminthol
+- new | 2026 | 43042214 | Case Reports | Artemisia absinthium (wormwood)-induced toxic hepatitis: First reported cases with contrasting clinical outcomes. | Hepatol Forum
+- new | 2026 | 42977106 |  | Toxicity profile of three essential oils and biochemical alterations in Apis mellifera intermissa: Implications for biopesticide safety. | Environ Toxicol Pharmacol
+- new | 2026 | 41596906 |  | Natural Essential Oils as Promising Antimicrobial Agents to Improve Food Safety: Mechanistic Insights Against Multidrug-Resistant Campylobacter jejuni and Campylobacter coli Isolat | Foods
+- new | 2026 | 42856842 |  | Multicomponent mineral-phytogenic supplementation reduces Ascaridia galli shedding and systemic mycotoxin biomarkers while improving health and productive performance in laying hen | Vet World
+- new | 2025 | 38403974 |  | Chemical composition and toxicity of Moroccan mentha spicata and Artemisia absinthium essential oils against Pthorimaea operculella, the potato moth. | Nat Prod Res
+- new | 2025 | 40219097 |  | Flowers and Leaves of Artemisia absinthium and Artemisia annua Phytochemical Characterization, Anti-Inflammatory, Antioxidant, and Anti-Proliferative Activities Evaluation. | Plants (Basel)
+- new | 2025 | 41431632 |  | Artemisia absinthium L. (Wormwood) Extract Effect on 3,4-Methylenedioxymethamphetamine Withdrawal in Rats: An Animal Study. | Addict Health
+- new | 2025 | 40844671 |  | Exploring the Effects of Artemisia absinthium L. Essential Oil on Pseudopregnancy Model in Rats. | Vet Med Sci
+- new | 2025 | 40284873 |  | Ameliorative Effect of Artemisia absinthium Ethanolic Extract Against Sodium Fluoride Toxicity in Rat Testes: Histological and Physiological Study. | Vet Sci
+- new | 2024 | 39669181 |  | Phytochemical profiling and in silico evaluation of Artemisia absinthium compounds targeting Leishmania N-myristoyltransferase: molecular docking, drug-likeness, and toxicity analy | Front Chem
+- new | 2024 | 38827342 |  | The Effect of Bacillus Cereus on the Ion Homeostasis, Growth Parameters, and the Expression of Some Genes of Artemisinin Biosynthesis Pathway in Artemisia Absinthium Under Salinity | Iran J Biotechnol
+- new | 2024 | 39770489 |  | In Vitro Evaluation, Chemical Profiling, and In Silico ADMET Prediction of the Pharmacological Activities of Artemisia absinthium Root Extract. | Pharmaceuticals (Basel)
+- new | 2024 | 39598372 |  | Phytochemical Characterization Utilizing HS-SPME/GC-MS: Exploration of the Antioxidant and Enzyme Inhibition Properties of Essential Oil from Saudi Artemisia absinthium L. | Pharmaceuticals (Basel)
+- new | 2024 | 39735399 | Case Reports | Acute Kidney Injury Following the Ingestion of a Medicinal Plants' Mixture: A Case Report. | Case Rep Nephrol
+- new | 2024 | 38275071 | Review | Biological Potential and Therapeutic Effectiveness of Artemetin from Traditional to Modern Medicine: An Update on Pharmacological Activities and Analytical Aspects. | Recent Adv Antiinfect Drug Discov
+- new | 2024 | 37194295 | Research Support, Non-U.S. Gov't | Structure-based virtual screening of anti-breast cancer compounds from Artemisia absinthium-insights through molecular docking, pharmacokinetics, and molecular dynamic simulations. | J Biomol Struct Dyn
+- new | 2023 | 37629560 | Review | The Role of Plant-Derived Natural Products in the Management of Inflammatory Bowel Disease-What Is the Clinical Evidence So Far? | Life (Basel)
+- new | 2023 | 37492095 |  | Pre-clinical toxicity assessment of Artemisia absinthium extract-loaded polymeric nanoparticles associated with their oral administration. | Front Pharmacol
+- new | 2023 | 37719007 |  | Secretome profiling of Artemisia absinthium extract-loaded polymeric nanoparticle-treated MCF-7 and MDA-MB-231 revealed perturbation in microtubule assembly and cell migration. | Front Oncol
+- new | 2023 | 37670294 |  | The aqueous extract of Artemisia Absinthium L. stimulates HO-1/MT-1/Cyp450 signaling pathway via oxidative stress regulation induced by aluminium oxide nanoparticles (α and γ) anim | BMC Complement Med Ther
+- new | 2022 | 36284952 | Research Support, Non-U.S. Gov't | Potential Ameliorative Effect of Artemisia Absinthium Supplement against Sodium Fluoride-Induced Prostatic Toxicity in Rats. | Arch Razi Inst
+- new | 2022 | 35959926 |  | STATUS OF THE COMPOSITION OF ALLERGENIC EXTRACTS FOR SKIN TESTING IN UKRAINE AND THE WAYS TO OPTIMIZE IT. | Georgian Med News
+- new | 2022 | 36278236 |  | In vitro effects of European and Latin-American medicinal plants in CYP3A4 gene expression, glutathione levels, and P-glycoprotein activity. | Front Pharmacol
+- new | 2022 | 35355620 |  | Evaluation of Antibacterial Activity and Acute Toxicity of Methanol Extracts of Artemisia absinthium, Datura stramonium, and Solanum anguivi. | Infect Drug Resist
+- new | 2021 | 34046320 |  | Protective effect of Artemisia absinthium on 6-hydroxydopamine-induced toxicity in SH-SY5Y cell line. | Avicenna J Phytomed
+- new | 2021 | 34573037 |  | Antioxidant and Mitochondria-Targeted Activity of Caffeoylquinic-Acid-Rich Fractions of Wormwood (Artemisia absinthium L.) and Silver Wormwood (Artemisia ludoviciana Nutt.). | Antioxidants (Basel)
+- new | 2021 | 35355775 |  | Control of Varroa Destructor in Kazakhstan. | Arch Razi Inst
+- new | 2021 | 33968448 |  | Hypnotic Effect of A. absinthium Hydroalcoholic Extract in Pentobarbital-Treated Mice. | Neurol Res Int
+- new | 2020 | 32439560 | Review | Visiting the 'green fairy': Absinthe-tourism - A potential challenge for travel medicine? | Travel Med Infect Dis
+- HELD REF-0728 | 2020 | 32585887 | Review | Bioactive Compounds, Pharmacological Actions, and Pharmacokinetics of Wormwood (Artemisia absinthium). | Antibiotics (Basel)
+- new | 2020 | 32443431 | Review | Assessment of the Antitumor Potential of Umbelliprenin, a Naturally Occurring Sesquiterpene Coumarin. | Biomedicines
+- new | 2020 | 33321822 |  | Phytochemical Profile, Safety Assessment and Wound Healing Activity of Artemisia absinthium L. | Plants (Basel)
+- new | 2020 | 32603837 |  | Cytotoxic potential of Artemisia absinthium extract loaded polymeric nanoparticles against breast cancer cells: Insight into the protein targets. | Int J Pharm
+- new | 2020 | 33271750 |  | Protective Effect of Shikimic Acid against Cisplatin-Induced Renal Injury: In Vitro and In Vivo Studies. | Plants (Basel)
+- new | 2019 | 30841648 |  | The Extracts of Artemisia absinthium L. Suppress the Growth of Hepatocellular Carcinoma Cells through Induction of Apoptosis via Endoplasmic Reticulum Stress and Mitochondrial-Depe | Molecules
+- new | 2018 | 29506627 |  | Evaluation of anticancer, antioxidant activity and phenolic compounds of Artemisia absinthium  L. Extract. | Cell Mol Biol (Noisy-le-grand)
+- new | 2018 | 30044501 | Case Reports | Identification and Quantification of Thujone in a Case of Poisoning Due to Repeated Ingestion of an Infusion of Artemisia Vulgaris L. | J Food Sci
+- new | 2017 | 32454617 |  | Cytotoxic Activities of Certain Medicinal Plants on Different Cancer Cell Lines. | Turk J Pharm Sci
+- new | 2016 | 27222528 | Case Reports/Letter | Sunflower seed allergy. | Int J Immunopathol Pharmacol
+- new | 2016 | 27630101 |  | Artemisia absinthium-borne compounds as novel larvicides: effectiveness against six mosquito vectors and acute toxicity on non-target aquatic organisms. | Parasitol Res
+- new | 2016 | 27313817 | Case Reports | Artemisia absinthium: burning plant! | Pan Afr Med J
+- new | 2016 | 29461791 |  | [Concentrations of alkaloids, cyanogenic glycosides, polyphenols and saponins in selected medicinal plants from Ecuador and their relationship with acute toxicity against Artemia s | Rev Biol Trop [spa]
+- new | 2016 | 27080818 | Case Reports/Letter | [Facial burns caused by flaming absinthe]. | Ann Dermatol Venereol [fre]
+- new | 2015 | 25871856 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Inhibition of Phytophthora parasitica and P. capsici by Silver Nanoparticles Synthesized Using Aqueous Extract of Artemisia absinthium. | Phytopathology
+- new | 2014 | 25823193 | Case Reports | Persistent metabolic acidosis and severe diarrhoea due to Artemisia absinthium poisoning. | J Pak Med Assoc
+- new | 2013 | 23770559 | Case Reports | Gastrointestinal bleeding secondary to interaction of Artemisia absinthium with warfarin. | Drug Metabol Drug Interact
+- new | 2012 | 23394445 | Research Support, Non-U.S. Gov't | Reversal of carbon tetrachloride-induced hepatic injury by aqueous extract of Artemisia absinthium in Sprague-Dawley rats. | J Environ Pathol Toxicol Oncol
+- new | 2011 | 21999109 |  | Evaluation of antioxidant and free-radical scavenging potential of Artemisia absinthium. | Pharm Biol
+- new | 2011 | 21480507 |  | In vitro evaluation of antileishmanial activity and toxicity of essential oils of Artemisia absinthium and Echinops kebericho. | Chem Biodivers
+- new | 2011 | 21988529 | Letter/Comment | The choice of thujone as drug for diabetes. | Nat Prod Res
+- new | 2010 | 30282294 |  | Absinthe and suicidality. | Ir J Psychol Med
+- new | 2010 | 20542104 | Comment/Historical Article/Letter | Wormwood (Artemisia absinthium L.)--a curious plant with both neurotoxic and neuroprotective properties? | J Ethnopharmacol
+- new | 2010 | 20637853 | Research Support, Non-U.S. Gov't | In vivo hepatoprotective activity of the aqueous extract of Artemisia absinthium L. against chemically and immunologically induced liver injuries in mice. | J Ethnopharmacol
+- new | 2009 | 19361284 | Research Support, Non-U.S. Gov't | Role of the polypeptide backbone and post-translational modifications in cross-reactivity of Art v 1, the major mugwort pollen allergen. | Biol Chem
+- new | 2008 | 20142903 |  | Prophylactic effects of Wormwood on lipid peroxidation in an animal model of lead intoxication. | Indian J Nephrol
+- new | 2006 | 15896935 | Historical Article | Thujone--cause of absinthism? | Forensic Sci Int
+- new | 2006 | 16722551 |  | Absinthism: a fictitious 19th century syndrome with present impact. | Subst Abuse Treat Prev Policy
+- new | 2006 | 16828901 | Case Reports/Letter | Electrocardiographic findings after acute absinthe intoxication. | Int J Cardiol
+- new | 2005 | 15667556 | Comparative Study | Metal-induced oxidative damage in cultured hepatocytes and hepatic lysosomal fraction: beneficial effect of a curcumin/absinthium compound. | Chin J Dig Dis
+- new | 2004 | 15024987 |  | [Polyclonal antisera to birch pollen allergen for the air allergen screening]. | Zh Mikrobiol Epidemiol Immunobiol [rus]
+- new | 2003 | 14746350 | Research Support, Non-U.S. Gov't | Thirteen-week repeated dose toxicity study of wormwood (Artemisia absinthium) extract in rats. | J Toxicol Sci
+- new | 2001 | 11368559 | Research Support, U.S. Gov't, P.H.S. | Detoxification of alpha- and beta-Thujones (the active ingredients of absinthe): site specificity and species differences in cytochrome P450 oxidation in vitro and in vivo. | Chem Res Toxicol
+- new | 2001 | 11695884 | Comparative Study | Comparative study of the assay of Artemia salina L. and the estimate of the medium lethal dose (LD50 value) in mice, to determine oral acute toxicity of plant extracts. | Phytomedicine
+- new | 2000 | 10725394 | Research Support, U.S. Gov't, P.H.S. | Alpha-thujone (the active component of absinthe): gamma-aminobutyric acid type A receptor modulation and metabolic detoxification. | Proc Natl Acad Sci U S A
+- new | 1999 | 10080239 |  | Thujone exhibits low affinity for cannabinoid receptors but fails to evoke cannabimimetic responses. | Pharmacol Biochem Behav
+- new | 1995 | 7590079 | Comparative Study | Preventive and curative effects of Artemisia absinthium on acetaminophen and CCl4-induced hepatotoxicity. | Gen Pharmacol
+- new | 1978 | 99195 |  | [Development of allergic reactivity to Artemesia pollen during combined sensitization to pollen and microbes]. | Biull Eksp Biol Med [rus]
+- new | 1891 | 37136076 |  | Chronic Intoxication from the Habitual Use of the Essences, as Wermuth, Absinthe, Etc. | Homoeopath Physician
+- new | 1863 | 20896220 |  | Case of Poisoning by Oil of Wormwood (Artemisia absinthium). | Med Chir Trans
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 29 hits, 17 not already listed above, 16 new
+- new | 2026 | 42122882 | Review | Medicinal Plants Traditionally Used to Treat Digestive System Disorders in Lithuania. | Plants (Basel)
+- new | 2022 | 36105486 | Review | Artemisia spp.: An Update on Its Chemical Composition, Pharmacological and Toxicological Profiles. | Oxid Med Cell Longev
+- new | 2022 | 35471952 | Review | Absinthe against multi-drug resistant bacterial pathogens? A recent update on the antibacterial effects of Artemisia compounds. | Eur J Microbiol Immunol (Bp)
+- new | 2022 | 36234965 | Review | Artemisia Species with High Biological Values as a Potential Source of Medicinal and Cosmetic Raw Materials. | Molecules
+- new | 2021 | 33551629 | Review | In vitro and in vivo biological activities of azulene derivatives with potential applications in medicine. | Med Chem Res
+- new | 2020 | 33034610 | Review | Culinary and nutritional value of edible wild plants from northern Spain rich in phenolic compounds with potential health benefits. | Food Funct
+- HELD REF-1770 | 2020 | 32825178 | Review | Artemisia absinthium L.-Importance in the History of Medicine, the Latest Advances in Phytochemistry and Therapeutical, Cosmetological and Culinary Uses. | Plants (Basel)
+- new | 2018 | 29674964 | Review | Botanical Provenance of Traditional Medicines From Carpathian Mountains at the Ukrainian-Polish Border. | Front Pharmacol
+- new | 2018 | 29332022 | Review | Comparative Antitussive Effects of Medicinal Plants and Their Constituents. | Altern Ther Health Med
+- new | 2017 | 28392893 | Review | Traditional Persian topical medications for gastrointestinal diseases. | Iran J Basic Med Sci
+- new | 2016 | 29188968 | Review | Artemisaiae as medicinal and herbal medicinal plants from ancient times to the present day. | Duodecim
+- new | 2015 | 26074998 | Review | Bitters: Time for a New Paradigm. | Evid Based Complement Alternat Med
+- new | 2008 | 18429531 | Historical Article/Review | [Thujone-attributable effects of absinthe are only an urban legend--toxicology uncovers alcohol as real cause of absinthism]. | Med Monatsschr Pharm [ger]
+- new | 2008 | 22436096 | Review | Tropical American plants in the treatment of infectious diseases. | J Diet Suppl
+- new | 2007 | 17506021 | Historical Article/Review | [Absinthe - history of dependence to thujone or to alcohol?]. | Fortschr Neurol Psychiatr [ger]
+- new | 2006 | 16891209 | Historical Article/Review | Absinthe--a review. | Crit Rev Food Sci Nutr
+- new | 2005 | 15664457 | Review | Traditional phytotherapy in Central Italy (Marche, Abruzzo, and Latium). | Fitoterapia
+
+### ClinicalTrials.gov - 3 registered studies
+- NCT07384312 | COMPLETED | results=False | NA | Study on the Antidepressant Effects and Mechanism of Action of Cang-ai Volatile Oil Based on Near-Infrared Functional Brain Imaging and the  | conds: Depression Disorder | intr: Cang-ai Volatile Oil, Bergamot Essential Oil
+- NCT05528874 | COMPLETED | results=False | NA | NUTRACORE, Glycaemic Index and Appetite | conds: Hyperglycemia, Hyperglycemia, Postprandial, Appetitive Behavior, Hyperinsulinism | intr: Same intervention for both groups: glycaemic index assessment of 3 biscuits recipes, Crossover: Reci
+- NCT04054284 | COMPLETED | results=False | NA | Safety and Efficacy of Herbal Tea in Type 2 Diabetics | conds: Type 2 Diabetes, Herbal Medicine Adverse Reaction | intr: Antidiabetic Herbal Tea, Herbal Tea
+
+### OpenAlex no-PMID trial-worded - 980 hits, 63 without PMID, 63 new
+- new | 2026 | 10.17557/tjfc.1878799 | article | Effect of Phenological Periods on Yield and Quality Characteristics of Artemisia absinthium | Turkish Journal of Field Crops
+- new | 2026 | https://openalex.org/W7223485084 | article | Potencialidades de diferentes concentraciones de Artemisia absinthium L. sobre Sitophilus oryzae L | Revista UGC
+- new | 2026 | 10.1590/1519-6984.310136 | article | Dietary wormwood (Artemisia absinthium) infusion enhances growth performance, feed efficiency, and economic returns in broiler chickens | Brazilian Journal of Biology
+- new | 2026 | 10.20944/preprints202607.0835.v1 | preprint | Artemisia absinthium Improves Metabolic Efficiency and Reduces Heat Load in Heat-Stressed Spanish Goats: Comparative Effects with Ascorbic Acid | Preprints.org
+- new | 2025 | 10.18502/tim.v10i2.19059 | article | Ethnobotanical Survey of Antidiabetic Medicinal Plants Used by Patients Visiting Health Facilities in the SALÉ Region (Morocco) | Traditional and Integrative Medicine
+- new | 2025 | 10.37766/inplasy2025.3.0134 | study-registration | The safety of herbal medicine in pediatric randomized controlled trials | 
+- new | 2025 | 10.37766/inplasy2025.3.0130 | study-registration | Herbal Medicine in Pediatrics: A Systematic Review of Randomized Controlled Trials | 
+- new | 2025 | 10.2478/aoas-2025-0039 | article | Effect of Artemisia absinthium Oil Supplementation on Growth Performance, Immune Response, Digestive Health, and Gut Microbiota in Broiler Chicks | Annals of Animal Science
+- new | 2025 | 10.1134/s1021443725602721 | article | Synthesis of Silver Nanoparticles Using Artemisia absinthium and Their Effect on the Physicochemical Properties of Ocimum basilicum under Salt Stress | Russian Journal of Plant Physiology
+- new | 2025 | 10.1093/jas/skaf300.740 | article | Effects of ascorbic acid and Artemisia absinthium supplementation on heat stress responses in Spanish goats during summer in Oklahoma. | Journal of Animal Science
+- new | 2025 | 10.17582/journal.sja/2025/41.2.817.825 | article | Evaluation of Biotic Potential of Wormwood (Artemisia absinthium L.) as Feed Supplement for Some Production Traits of Broiler Chicks | Sarhad Journal of Agriculture
+- new | 2024 | 10.5772/intechopen.112014 | book-chapter | A Review of South African Traditional Medicinal Plants Used for Treating Fungal Coinfections in COVID-19 Patients with Respiratory Diseases | IntechOpen eBooks
+- new | 2024 | 10.21608/sjdfs.2024.280182.1164 | article | Effect of treatment with Cyproheptadine and Artemisia absinthium on insulin level of Zinc-Deficient Diet rats | Scientific Journal for Damietta Faculty 
+- new | 2024 | 10.1016/j.sciaf.2024.e02162 | article | Tolerability of Artemisia absinthium in anorexia: Targeting of neuronal appetite and satiety in zinc deficiency diet rat model | Scientific African
+- new | 2024 | 10.21608/jesp.2024.373539 | article | THERAPEUTIC EFFECT OF ARTEMISIA ABSINTHIUM AND CURCUMA LONGA COMBINATION AGAINST CRYPTOSPORIDIOSIS IN IMMUNOSUPPRESSED MURINE MODEL | Journal of the Egyptian Society of Paras
+- new | 2024 | 10.32592/cmja.14.1.13 | article | Investing the anti epileptic effect of Aqueous extract of Artemisia absinthium on seizures induced by pentylenetetrazole in male rats | Complementary Medicine Journal
+- new | 2023 | 10.1016/j.hermed.2023.100623 | article | Efficacy of Sharbat-e-Afsanteen (Artemisia absinthium L.) on altered liver enzymes among alcoholics – A randomized single-blind controlled clinical trial | Journal of Herbal Medicine
+- new | 2023 | 10.1088/1755-1315/1225/1/012056 | conference-paper | Evaluation of the Aqueous Extract of Artemisia absinthium L. on Growth Performance and White Blood Count in Broiler | IOP Conference Series Earth and Environm
+- new | 2023 | 10.1134/s1021443723601891 | article | Investigating the Phenological Stages of Essential Oil Yield and Essential Oil Compounds and Phytochemical Properties of Artemisia absinthium L. (Wormwood) | Russian Journal of Plant Physiology
+- new | 2023 | 10.1055/s-0043-1773977 | article | Domestication and breeding of Artemisia absinthium strains: discriminating between genetics and environmental factors determining their thujone content | Planta Medica
+- new | 2022 | 10.22038/ijogi.2022.21058 | article | The effect of wormwood vaginal gel on depression in women of reproductive age with sexual dysfunction: A randomized controlled clinical trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2022 | 10.54495/rev.cientifica.v31i1.290 | article | Etnofarmacología de plantas utilizadas por pacientes diabéticos tz’utujiles en Santiago Atitlán, Sololá, Guatemala | Revista Científica
+- new | 2022 | 10.18502/tim.v6i4.8271 | article | Efficacy of Nutūl-i-Ḥār (Hot Irrigation), a Polyherbal Unani Formulation, in the Treatment of Shaqīqa-i-Muzmin (Chronic Migraine): An Open Single-Arm Exploratory Clinical Trial | Traditional and Integrative Medicine
+- new | 2021 | 10.30699/jambs.29.133.83 | article | Therapeutic Effect of Thyme (Thymus Vulgaris) Essential Oil on Patients with COVID19: A Randomized Clinical Trial | Journal of Advances in Medical and Biome
+- new | 2021 | 10.1080/15440478.2021.1993404 | article | Effect of feeding wormwood herb (Artemisia absinthium Linn.) added total mixed ration on wool production and quality in sheep | Journal of Natural Fibers
+- new | 2020 | 10.1007/s40995-020-00999-w | article | TiO2 nanoparticles effects on morphology and physiology of Artemisia absinthium L. under salinity stress | Iranian Journal of Science and Technolog
+- new | 2020 | 10.21608/ejp.2020.48284.1014 | article | Evaluation Efficacy of Some Agents as Safe Alternatives to Fungicides in Management Root-rot and Wilt Diseases of Artemisia absinthium and A. santonicum | Egyptian Journal of Phytopathology
+- new | 2019 | 10.5530/jyp.2019.11.73 | article | Unani Formulation Improved Quality of Life in Indian Patients of Chronic Hepatitis B | Journal of Young Pharmacists
+- new | 2019 | 10.5958/0975-6892.2019.00056.x | article | Impact of dietary inclusion of wormwood (Artemisia absinthium Linn.) herb on blood metabolic profile in sheep | Medicinal Plants - International Journal
+- new | 2018 | 10.4103/pr.pr_157_17 | article | Antiviral efficacy of qust (Saussurea lappa) and afsanteen (Artemisia absinthium) for chronic Hepatitis B: A prospective single-arm pilot clinical trial | Pharmacognosy Research
+- new | 2018 | 10.18004/mem.iics/1812-9528/2018.016(02)06-011 | article | Uso de plantas medicinales y fitoterápicos en pacientes con Diabetes Mellitus tipo 2 | Memorias del Instituto de Investigacione
+- new | 2018 | https://openalex.org/W2791537038 | article | Antidiabetic and antihyperlipidemic effects of Artemisia absinthium L., Citrullus colocynthis (L.) Schrad. and Gymnema sylvestre (Retz.) R.Br. ex Sm. on type II diabetes hyperlipid | Indian Journal of Traditional Knowledge
+- new | 2018 | 10.1016/j.indcrop.2018.06.076 | article | Accumulation and composition of essential oil due to plant development and organs in wormwood (Artemisia absinthium L.) | Industrial Crops and Products
+- new | 2018 | 10.5530/jyp.2018.10.78 | article | Hepatocurative Effect of Saussurea lappa, C.B Clarke and Artemisia absinthium, Linn in Chronic Hepatitis B | Journal of Young Pharmacists
+- new | 2018 | https://openalex.org/W4407241100 | article | INFLUENCE OF MEDICINAL PLANTS MIXTURES (Artemisia absinthium, Thymus vulgaris, Menthae piperitae and Thymus serpyllum) IN BROILERS NUTRITION ON BIOCHEMICAL BLOOD STATUS | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2018 | 10.5958/0973-9718.2018.00065.x | article | Effect of supplementation of wormwood (Artemisia absinthium L.) herb and exogenous fibrolytic enzymes on growth of lambs | Indian Journal of Small Ruminants (The)
+- new | 2018 | 10.1007/s00580-018-2759-5 | article | Hemato-biochemcial characteristics of lambs on dietary feed additives (exogenous fibrolytic enzymes, Artemisia absinthium Linn.) supplementation | Comparative Clinical Pathology
+- new | 2018 | https://openalex.org/W3010985527 | article | Estudo de prospecção científica e tecnológica da atividade medicinal da espécie Artemísia absinthium L. (ABSINTO). | 
+- new | 2018 | 10.5958/2231-6744.2018.00016.6 | article | Haematological Response of Crossbred Lambs Fed Complete Diets Supplemented with Exogenous Fibrolytic Enzymes Cocktail or Artemisia absinthium L. Herb Alone and in Combination | Indian Journal of Animal Nutrition
+- new | 2017 | 10.1016/j.eujim.2017.05.010 | article | In vitro and in silico insights of Cupressus sempervirens, Artemisia absinthium and Lippia triphylla: Bridging traditional knowledge and scientific validation | European Journal of Integrative Medicine
+- new | 2017 | 10.2174/9781681085500117010013 | book-chapter | Principles of Medicinal and Aromatic Plant (MAPs) Propagation, Production and Collection; Artemisia absinthium L | Frontiers in horticulture
+- new | 2017 | 10.5073/jabfq.2017.090.030 | article | Morphological, phytochemical and molecular characterization of intraspecific variability of wormwood (Artemisia absinthium L.) | Angewandte Botanik
+- new | 2017 | 10.18805/ijar.b-3321 | article | Effect of Artemisia Absinthium(Titween) on nutrient intake, digestibility, nutrient balance and blood biochemical of sheep | Indian Journal of Animal Research
+- new | 2017 | 10.22376/ijpbs.2017.8.2.b90-99 | article | In vitro regeneration and development of rapd- scar marker for the identification of Artemisia Absinthium L. | International Journal of Pharma and Bio 
+- new | 2017 | 10.5958/2348-7542.2017.00125.5 | article | Efficacy of four botanicals (Tagetes minuta, Artemisia absinthium, Allium sativum and Carica papaya) against aphids in rape production | Research on Crops
+- new | 2016 | 10.17660/actahortic.2016.1144.14 | conference-paper | Activity of endophytic fungi from Artemisia absinthium on Botrytis cinerea | Acta Horticulturae
+- new | 2016 | 10.14450/2318-9312.v27.e4.a2015.pp214-220 | article | PLANTAS MEDICINALES EMPLEADAS POR PACIENTES DIABÉTICOS EN PARAGUAY | Infarma - Ciências Farmacêuticas
+- new | 2016 | 10.4314/jfas.8vi2s.85 | article | Chronic effects of hydro-alcoholic artemisia absinthium extract on the liver enzymes and tissue changes of adult mal rat | Journal of Fundamental and Applied Scien
+- new | 2016 | https://openalex.org/W2413119347 | article | Effect of different levels of essential oils of wormwood (Artemisia absinthium) and cumin (Cuminum cyminum) on growth performance carcass characteristics and immune system in broil | Iranian journal of applied animal scienc
+- new | 2016 | https://openalex.org/W2612006445 | article | Role of natural herbs - Matricaria recutita and Artemisia absinthium on infarct volume, hemispheric swelling and functional impairments following focal cerebral ischemia in rats | Journal of Entomology and Zoology Studie
+- new | 2015 | 10.1399/eps.2015.75 | article | Dietary inclusion of Artemisia absinthium for management of growth performance, antioxidative status and quality of chicken meat | Archiv für Geflügelkunde
+- new | 2015 | https://openalex.org/W4387678224 | article | Characteristics of T-cell and B-cell immune respoonses to pollen allergens in Bulgarian patients with pollinosis | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2015 | https://openalex.org/W2356874761 | article | Allergen analysis on patients with allergic rhinitis in Yichang | Hainan yixue
+- new | 2011 | https://openalex.org/W2491022181 | article | Efficacy of a combination of Unani drugs in patients of Trichomonal vaginitis | 
+- new | 2011 | https://openalex.org/W2264480342 | article | EFFECT OF ACHILLEA MILLEFOLIUM, ARTEMISIA ABSINTHIUM & JUGLANS REGIA LEAVES EXTRACTS ON TRICHOMONAS VAGINALIS, IN VITRA | Journal of Shahrekord University of Medi
+- new | 2007 | 10.1055/s-2007-986789 | article | Immune modulation by Wormwood (Artemisia absinthium) – results of a double blind, placebo controlled trial on Crohn's disease patients | Planta Medica
+- new | 2007 | 10.5580/1a04 | article | In vivo evaluation of anti-parasitic effects of Artemisia absinthium extracts on Syphacia parasite | The Internet Journal of Parasitic Diseas
+- new | 2007 | https://openalex.org/W2389345265 | article | Distribution of allergens among allergic rhinitis patients living in Hainan Province | Chinese Archives of Otolaryngology-head 
+- new | 2000 | https://openalex.org/W2124699788 | article | Evaluación del potencial genotóxico de un extracto fluido de incienso (artemisia Absinthium L.) | Revista cubana de plantas medicinales
+- new | 1998 | https://openalex.org/W2772428397 | article | Rust control trials on Mentha x piperita and Artemisia dracunculus with natural products [Emilia-Romagna] | 
+- new | 1970 | https://openalex.org/W1001712108 | article | Absinth, Artemisia absinthium, wilt in Piedmont and trials on its control. | Phytopathologia Mediterranea
+- new | 1943 | https://openalex.org/W822059094 | article | The influence of Artemisia Absinthium on neighbouring plants. (An essay of Experimental Plant Sociology No. III) | Blumea - Biodiversity Evolution and Biog
+- new | 1883 | 10.1016/s0140-6736(02)38112-1 | article | A VOLUNTEER MEDICAL RESERVE. | The Lancet
+
+## artemisia-vulgaris (Artemisia vulgaris) - name clause: "Artemisia vulgaris"[tiab] OR "mugwort"[tiab]
+
+### PubMed HT - 208 hits, 200 not already listed above, 199 new
+- new | 2026 | 41424259 |  | Art v 1 and Amb a 4 Co-Sensitization Identifies Italian Patients at Risk for Mugwort-Celery-Spice Syndrome. | Allergy
+- new | 2026 | 42049524 | Multicenter Study | [Multicenter component-resolved study of inhalant allergen sensitization and cross-reactivity in airway allergic patients]. | Zhonghua Yi Xue Za Zhi [chi]
+- new | 2026 | 41638452 | Meta-Analysis | Moxibustion with Artemisia argyi H.Lév. & Vaniot in rheumatoid arthritis animal models: A meta-analysis linking clinical efficacy to inflammasome and cytokine signaling mechanisms. | J Ethnopharmacol
+- new | 2026 | 42336691 |  | Ultra-short recombinant Art v 1 immunotherapy induces rapid immune modulation in mugwort allergy: A Phase I trial. | Allergol Int
+- new | 2026 | 42349726 |  | Allergen sensitization characteristics and temporal trends in allergic rhinitis: A single-center retrospective study of 2,482 patients in Beijing. | Respir Med
+- new | 2026 | 42331525 |  | [Analysis of the prevalence characteristics and trends of allergen-specific IgE levels in a children's hospital in Wuhan City from 2019 to 2024]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 2026 | 42001972 | Multicenter Study | Regional differences in sensitization patterns among children with allergic asthma in China: A latent class analysis and age-related characteristics. | Respir Med
+- new | 2026 | 42741002 |  | Allergen extract-based sensitization patterns in mono-sensitized versus multi-sensitized patients with allergic rhinitis in Ningxia, China. | Front Allergy
+- new | 2026 | 40884204 | Research Support, Non-U.S. Gov't | Molecular IgE Sensitization Profiling With Micro-Arrayed Allergen Molecules in Adult Patients With Asthma From the LEAD Cohort: A Precision Medicine Approach. | Allergy
+- new | 2025 | 41011067 |  | Aeroallergen IgE-Reactivity Patterns and Respiratory Allergy in Children and Adults: A Retrospective Study in 1711 Patients from the Central Poland Urban Area. | Medicina (Kaunas)
+- HELD REF-0026 | 2025 | 41306764 | Review | Spices, herbs and allergic reactions in children: myth or reality - a narrative review with scoping elements. | Front Allergy
+- new | 2025 | 40917873 |  | Mugwort sensitization and asthma as predictors of food-induced anaphylactic shock in children: a retrospective study in Northern China. | Front Allergy
+- new | 2025 | 40565300 | Review | Current State of Celery Allergy: Is Discovering Api g 7 a Milestone in Diagnosing Celeriac-Allergic Patients? | Int J Mol Sci
+- new | 2025 | 40518416 |  | [Analysis of sensitization characteristics and changing trends of common allergens in a children's hospital in Shanghai City from 2020 to 2024]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 2024 | 38217433 | Case Reports | The use of inhibition assay in Api g 7 suspected allergy in a female patient with anaphylaxis: A case report. | Int J Immunopathol Pharmacol
+- new | 2024 | 38186194 |  | Snail-induced anaphylaxis in patients with underlying Artemisia vulgaris pollinosis: the role of carbohydrates. | Allergol Immunopathol (Madr)
+- new | 2024 | 39169998 |  | [Prevalence of Allergen-Specific Immunoglobulin E in 57558 Patients in 2012-2022]. | Sichuan Da Xue Xue Bao Yi Xue Ban [chi]
+- new | 2024 | 38513837 |  | IgE to cyclophilins in pollen-allergic children: Epidemiologic, clinical, and diagnostic relevance of a neglected panallergen. | J Allergy Clin Immunol
+- new | 2024 | 39640430 |  | Common pollen and related allergen components in patients with allergic diseases in the Beijing area. | Front Allergy
+- new | 2024 | 38705139 | Research Support, Non-U.S. Gov't | The Sensitization Differences of Pollen Allergen Components in Patients with Asthma and/or Rhinitis in Southern China. | Int Arch Allergy Immunol
+- new | 2024 | 38955726 |  | [Analysis of allergen-specific IgE in children with atopic dermatitis from 2021 to 2023 in a hospital of pediatric in Tianjin City]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 2024 | 39758094 |  | The Correlation Between Airborne Pollen and Sensitization in Children with Respiratory Allergic Diseases: A Cross-Sectional Study. | J Asthma Allergy
+- new | 2024 | 39170911 |  | Impact of wheat sensitization on wheeze and T2 phenotypes in general population of children. | J Allergy Clin Immunol Glob
+- new | 2024 | 39139991 |  | Main Airborne Pollen Species and Characteristics of Allergic Rhinitis Patients with Pollen-Related Allergies in 13 Northern Chinese Cities. | J Asthma Allergy
+- new | 2023 | 36973961 |  | Molecular allergy diagnosis is sensitive and avoids misdiagnosis in patients sensitized to seasonal allergens. | Clin Transl Allergy
+- new | 2023 | 37743295 |  | [Study on sIgE distribution characteristics and the sensitization pattern of allergen in 1 161 patients with allergic diseases of respiratory tract in northwest China]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 2023 | 37580673 |  | Comparative analysis of serum total IgE levels and specific IgE levels in children aged 6 to 9 years with tic disorder and normal children. | BMC Pediatr
+- new | 2023 | 37549949 |  | [Distribution characteristics and results of allergens in patients with allergic rhinitis in Ningxia area]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2023 | 37668849 |  | Allergen-specific IgE in the tear fluid of Chinese patients with common allergic conjunctivitis in autumn and winter. | Int Ophthalmol
+- new | 2022 | 35136540 |  | Environmental and sensitization variations among asthma and/or rhinitis patients between 2008 and 2018 in China. | Clin Transl Allergy
+- new | 2022 | 35079319 |  | Serum IgE profiles in Chinese pollinosis patients with grass pollen sensitisation. | World Allergy Organ J
+- new | 2022 | 34894109 | Research Support, Non-U.S. Gov't | Outdoor pollen concentration is not associated with exercise-induced bronchoconstriction in children. | Pediatr Pulmonol
+- new | 2022 | 35738928 | Research Support, Non-U.S. Gov't | Art v 1 IgE epitopes of patients and humanized mice are conformational. | J Allergy Clin Immunol
+- new | 2022 | 36440466 |  | Two patients with allergy to celery - Possible role of carbohydrate determinants and difference between seeds and tuber allergenicity. | World Allergy Organ J
+- new | 2022 | 35625952 | Review | Acupuncture and Moxibustion for Cancer-Related Fatigue: An Overview of Systematic Reviews and Meta-Analysis. | Cancers (Basel)
+- new | 2022 | 35498809 |  | Major Grass Pollen Allergen Components and Cross-Reactive Carbohydrate Determinants in Mugwort-Sensitized Child Patients With Allergic Respiratory Disease in Western China. | Front Pediatr
+- new | 2022 | 35603012 |  | Anaphylaxis in Chinese Children with Pollen Sensitization: Triggers, Clinical Presentation, and Acute Management. | J Asthma Allergy
+- new | 2022 | 35633613 | Research Support, Non-U.S. Gov't | A comprehensive analysis of the components of common weed pollen and related allergens in patients with allergic diseases in southern China. | Mol Immunol
+- new | 2021 | 34631010 |  | Management of patients with seasonal allergic rhinitis: Diagnostic consideration of sensitization to non-frequent pollen allergens. | Clin Transl Allergy
+- new | 2021 | 32506984 |  | Kidney-bean (Phaseolus Vulgaris) Dependent, Exercise-induced Anaphylaxis in Patients Comorbid with Mugwort (Artemisia Vulgaris) Pollinosis. | Immunol Invest
+- new | 2021 | 33810821 |  | Tropomyosin in mugwort cross-reacts to house dust mite, eliciting non-Th2 response in allergic rhinitis patients sensitized to house dust mite. | Clin Mol Allergy
+- new | 2021 | 34773759 |  | Clinical relevance of Alternaria alternata sensitization in patients within type 2-high and type 2-low asthma. | Int Immunopharmacol
+- new | 2021 | 32454517 |  | Retrospective analysis of epidemic thunderstorm asthma in children in Yulin, northwest China. | Pediatr Res
+- new | 2021 | 34034401 |  | [Analysis of serum allergen-specific IgE in children with respiratory allergic disease in Guangdong]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 2021 | 34908846 |  | A Multicenter Study Assessing Risk Factors and Aeroallergens Sensitization Characteristics in Children with Self-Reported Allergic Rhinitis in China. | J Asthma Allergy
+- new | 2021 | 34067936 |  | Analysis of Results of Specific IgE in 100 Atopic Dermatitis Patients with the Use of Multiplex Examination ALEX2-Allergy Explorer. | Int J Mol Sci
+- new | 2020 | 31325327 | Research Support, Non-U.S. Gov't | Diverse and highly cross-reactive T-cell responses in ragweed allergic patients independent of geographical region. | Allergy
+- new | 2020 | 32567223 | Research Support, Non-U.S. Gov't | Allergic symptoms and sensitisation in adolescents with cows' milk allergy and atopic eczema in infancy. | Immun Inflamm Dis
+- new | 2020 | 32003071 | Multicenter Study | Atopy patch testing with aeroallergens in a large clinical population of dermatitis patients in Germany and Switzerland, 2000-2015: a retrospective multicentre study. | J Eur Acad Dermatol Venereol
+- new | 2020 | 32375962 |  | Serum immunoglobulin E reactivity to cross-reacting panallergen components in north-eastern Poland patients pollen sensitized. | Allergy Asthma Proc
+- new | 2020 | 33235472 |  | Major Pollen Allergen Components and CCD Detection in Bermuda Grass Sensitized Patients in Guangzhou, China. | J Asthma Allergy
+- new | 2020 | 32982319 |  | Minimizing the Number of Aeroallergen Extracts in Skin Prick Test in IgE-Mediated Allergic Disorders in Both Adults and Children in Jordan. | J Asthma Allergy
+- new | 2019 | 31316713 |  | Clinical utility of basophil activation test in diagnosis and predicting severity of mugwort pollen-related peach allergy. | World Allergy Organ J
+- new | 2019 | 30155917 | Research Support, Non-U.S. Gov't | Artemisia pollen allergy in China: Component-resolved diagnosis reveals allergic asthma patients have significant multiple allergen sensitization. | Allergy
+- new | 2018 | 30206446 |  | Allergic phenotypes in adult patients with atopic dermatitis, determined with the ISAC test (ImmunoCAP ISAC). | Postepy Dermatol Alergol
+- new | 2018 | 29976165 | Randomized Controlled Trial | Efficacy of indoor air purification in treating Artemisia (mugwort) pollen allergic rhinitis: study protocol for a randomised controlled trial. | BMC Public Health
+- new | 2018 | 29423373 |  | Changes in basophil activation during immunotherapy with house dust mite and mugwort in patients with allergic rhinitis. | Asia Pac Allergy
+- new | 2018 | 30480754 | Meta-Analysis/Systematic Review | Moxibustion for alleviating side effects of chemotherapy or radiotherapy in people with cancer. | Cochrane Database Syst Rev
+- new | 2018 | 29798208 |  | [Minimum battery of test inhalant allergens needed in screeningallergic rhinitis patients in Beijing]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2018 | 29936506 |  | Do Plantago lanceolata Skin Prick Test-Positive Patients Display IgE to Genuine Plantain Pollen Allergens? Investigation of Pollen Allergic Patients from the North-East of France. | Int Arch Allergy Immunol
+- new | 2017 | 28303765 |  | The significance of the levels of IL-4, IL-31 and TLSP in patients with asthma and/or rhinitis. | Immunotherapy
+- new | 2017 | 28480649 |  | Regional Difference of Causative Pollen in Children with Allergic Rhinitis. | J Korean Med Sci
+- new | 2017 | 28599992 |  | Natural history of skin prick test reactivity: A 20-year prospective study of a random population sample of children and adolescents. | Ann Allergy Asthma Immunol
+- new | 2017 | 28975873 | Clinical Trial/Twin Study/Research Support, Non-U.S. Gov't | Associations Between Asthma and Sensitization to Pet or Pollen Allergens in Young Swedish Twins - The STOPPA Study. | Twin Res Hum Genet
+- new | 2016 | 26922931 |  | Allergen-Dependent Differences in ILC2s Frequencies in Patients With Allergic Rhinitis. | Allergy Asthma Immunol Res
+- new | 2016 | 26836801 | Randomized Controlled Trial | Moxibustion did not have an effect in a randomised clinical trial for version of breech position. | Dan Med J
+- new | 2016 | 27174756 |  | [Prevalence of sensitization to allergens in school children with asthma residents from Guadalajara metropolitan area]. | Rev Alerg Mex [spa]
+- new | 2016 | 29693981 |  | [Food hypersensitivity in patients with pollen allergy]. | Przegl Lek [pol]
+- new | 2016 | 27126729 |  | Characteristics of Anaphylaxis in 907 Chinese Patients Referred to a Tertiary Allergy Center: A Retrospective Study of 1,952 Episodes. | Allergy Asthma Immunol Res
+- new | 2015 | 26591685 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparative effects of artemisia vulgaris and charcoal moxa stimulating Zhongwan (CV 12) on body temperature in healthy participants: a cross-over single-blind randomized study. | J Tradit Chin Med
+- new | 2015 | 25772593 | Research Support, Non-U.S. Gov't | Hazelnut allergy across Europe dissected molecularly: A EuroPrevall outpatient clinic survey. | J Allergy Clin Immunol
+- new | 2015 | 26622958 |  | Decreased Serum Epinephrine in Children With Positive Skin Prick Test. | Clin Exp Otorhinolaryngol
+- new | 2015 | 26157064 | Letter | Skin prick test results to artesunate in children sensitized to Artemisia vulgaris L. | Int J Immunopathol Pharmacol
+- new | 2015 | 26496716 | Research Support, Non-U.S. Gov't | Prevalence of ragweed allergy in rural Geneva - a pilot study. | Swiss Med Wkly
+- new | 2015 | 26622959 |  | Comparison of Component-Resolved Diagnosis by Using Allergen Microarray With the Conventional Tests in Allergic Rhinitis Patients: The First Using in Korea. | Clin Exp Otorhinolaryngol
+- new | 2014 | 24925391 | Historical Article | History of food allergy. | Chem Immunol Allergy
+- new | 2014 | 25053631 |  | In patients with LTP syndrome food-specific IgE show a predictable hierarchical order. | Eur Ann Allergy Clin Immunol
+- new | 2014 | 24269772 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Medicinal plants for women's healthcare in southeast Asia: a meta-analysis of their traditional use, chemical constituents, and pharmacology. | J Ethnopharmacol
+- new | 2014 | 24744807 | Review | Effectiveness of Stimulation of Acupoint KI 1 by Artemisia vulgaris (Moxa) for the Treatment of Essential Hypertension: A Systematic Review of Randomized Controlled Trials. | Evid Based Complement Alternat Med
+- new | 2014 | 24628428 | Clinical Trial/Research Support, Non-U.S. Gov't | Establishing IMMULITE® 2000 cut-off values for serum allergen-specific immunoglobulin and exploring their relationship to exhaled nitric oxide. | Acta Paediatr
+- new | 2014 | 25045240 | Case Reports/Research Support, Non-U.S. Gov't | Paradoxical increase of IgE binding components during allergen-specific immunotherapy in pollinosis patients. | J Korean Med Sci
+- new | 2014 | 24794684 | Multicenter Study | The effect of component-resolved diagnosis on specific immunotherapy prescription in children with hay fever. | J Allergy Clin Immunol
+- new | 2014 | 25061882 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Moxibustion treatment for knee osteoarthritis: a multi-centre, non-blinded, randomised controlled trial on the effectiveness and safety of the moxibustion treatment versus usual ca | PLoS One
+- new | 2014 | 25147570 |  | Risk of sensitization and allergy in Ragweed workers - a pilot study. | Allergy Asthma Clin Immunol
+- new | 2014 | 24080266 | Research Support, Non-U.S. Gov't | Role of Art v 3 in pollinosis of patients allergic to Pru p 3. | J Allergy Clin Immunol
+- new | 2014 | 24815334 |  | Sensitization to Asian dust and allergic rhinoconjunctivitis. | Environ Res
+- new | 2014 | 24404800 | Comparative Study | Minimum prick test panel for adult patients with asthma and rhinitis in Ankara, Turkey. | J Asthma
+- new | 2014 | 26120539 |  | Guideline on allergen-specific immunotherapy in IgE-mediated allergic diseases: S2k Guideline of the German Society for Allergology and Clinical Immunology (DGAKI), the Society for | Allergo J Int
+- new | 2014 | 24787549 | Research Support, Non-U.S. Gov't | Co-sensitization to silkworm moth (Bombyx mori) and 9 inhalant allergens among allergic patients in Guangzhou, Southern China. | PLoS One
+- new | 2013 | 24103176 |  | [Analysis of allergen variation for 3292 patients with allergic rhinitis]. | Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Z [chi]
+- new | 2013 | 24640833 | Comparative Study | [Prevalence of atopic conditions in patients with occupational contact allergic dermatitis: comparison between diagnostic tool]. | Med Lav [ita]
+- new | 2013 | 24022179 |  | Patterns of sensitization to inhalant and food allergens - findings from the German Health Interview and Examination Survey for Children and Adolescents. | Int Arch Allergy Immunol
+- new | 2013 | 23729110 |  | [Prevalence of sensitization to aeroallergens in 1 893 patients with allergic rhinitis in Yunnan]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2012 | 22391077 |  | IgE reactivity patterns in patients with allergic rhinoconjunctivitis to ragweed and mugwort pollens. | Am J Rhinol Allergy
+- new | 2012 | 22832505 | Research Support, Non-U.S. Gov't | Plant food allergy in patients with pollinosis from the Mediterranean area. | Int Arch Allergy Immunol
+- new | 2012 | 23049589 |  | Sensitization rates of airborne pollen and mold in children. | Korean J Pediatr
+- new | 2012 | 22691258 |  | Patients with oral allergic syndrome to apple have intense proliferative response to BET V 1. | J Biol Regul Homeost Agents
+- new | 2012 | 22572962 | Multicenter Study/Research Support, Non-U.S. Gov't | Sensitization to common ragweed in southern Bavaria: clinical and geographical risk factors in atopic patients. | Int Arch Allergy Immunol
+- new | 2012 | 22394454 | Comparative Study/Research Support, Non-U.S. Gov't | Specific IgE measurement using AdvanSure® system: comparison of detection performance with ImmunoCAP® system in Korean allergy patients. | Clin Chim Acta
+- new | 2012 | 23141402 |  | [Investigation of skin prick test on 2707 patients with allergic rhinitis in Wuhan area]. | Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Z [chi]
+- new | 2012 | 22455768 | Research Support, U.S. Gov't, Non-P.H.S. | [Evaluation of exposure and sensitization to house dust mites among rhinitis patients in the steppe environment of Inner Mongolia]. | Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Z [chi]
+- new | 2012 | 23092566 |  | [Clinical significance of skin prick test for inhalant allergens in 3085 children with allergic diseases]. | Zhongguo Dang Dai Er Ke Za Zhi [chi]
+- new | 2011 | 21227518 |  | Allergic rhinitis (AR) in geriatric patients. | Arch Gerontol Geriatr
+- new | 2011 | 22335979 | Research Support, Non-U.S. Gov't | [Clinical analysis of allergic rhinitis in children between 1 and 3 years of age]. | Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Z [chi]
+- new | 2011 | 21189055 | Research Support, Non-U.S. Gov't | The specific IgE reactivity pattern of weed pollen-induced allergic rhinitis patients. | Acta Otolaryngol
+- new | 2011 | 22335978 | Research Support, Non-U.S. Gov't | [Prevalence of sensitization to aeroallergens in 10 030 patients with allergic rhinitis]. | Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Z [chi]
+- new | 2011 | 21897872 | Research Support, Non-U.S. Gov't | Sensitization prevalence, antibody cross-reactivity and immunogenic peptide profile of Api g 2, the non-specific lipid transfer protein 1 of celery. | PLoS One
+- new | 2011 | 20378200 | Comparative Study | Nasal nitric oxide and other diagnostic procedures in seasonal allergic rhinitis: elderly vs juvenile patients. | Am J Otolaryngol
+- new | 2011 | 22032120 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [To investigate the effect of pretreatment with budesonide spray in patients with allergic rhinitis]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2011 | 21831329 | Multicenter Study/Research Support, Non-U.S. Gov't | Influence of degree of specific allergic sensitivity on severity of rhinitis and asthma in Chinese allergic patients. | Respir Res
+- new | 2011 | 22384564 | Research Support, Non-U.S. Gov't | [A cohort investigation of the allergen and pathogenesis in the patients with allergic rhinitis from three hospital of Guangdong Province]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2010 | 20374659 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Moxibustion for cancer care: a systematic review and meta-analysis. | BMC Cancer
+- new | 2010 | 21215048 | Comparative Study/Research Support, Non-U.S. Gov't | [Clinical characteristics in patients with non-allergic rhinitis and allergic rhinitis: preliminary analysis]. | Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Z [chi]
+- new | 2010 | 20602794 | Research Support, Non-U.S. Gov't/Systematic Review | Moxibustion for hypertension: a systematic review. | BMC Cardiovasc Disord
+- new | 2010 | 20236576 | Research Support, Non-U.S. Gov't | Accuracy of a point-of-care testing device in children with suspected respiratory allergy. | Allergy Asthma Proc
+- new | 2010 | 20556967 | Research Support, Non-U.S. Gov't | [Analyzing of the inhaled allergens profiles of allergic rhinitis patients in district of Jingmen]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2010 | 20447747 | Case Reports | Bee pollen: a dangerous food for allergic children. Identification of responsible allergens. | Allergol Immunopathol (Madr)
+- new | 2009 | 19800675 | Research Support, Non-U.S. Gov't | Assessment of component-resolved in vitro diagnosis of celeriac allergy. | J Allergy Clin Immunol
+- new | 2009 | 19056369 | Comparative Study/Research Support, Non-U.S. Gov't | Allergen-specific IgE measurement with the IMMULITE 2000 system: intermethod comparison of detection performance for allergen-specific IgE antibodies from Korean allergic patients. | Clin Chim Acta
+- new | 2009 | 19210346 | Multicenter Study/Research Support, Non-U.S. Gov't | A multicentre study assessing the prevalence of sensitizations in patients with asthma and/or rhinitis in China. | Allergy
+- new | 2009 | 19033734 |  | Clinical, anamnestic and serological features of peach allergy in portugal. | Int Arch Allergy Immunol
+- new | 2009 | 23283063 |  | Allergy Diagnosis in Children and Adults: Performance of a New Point-of-Care Device, ImmunoCAP Rapid. | World Allergy Organ J
+- new | 2009 | 20079130 |  | Thymic stromal lymphopoietin expression is increased in nasal epithelial cells of patients with mugwort pollen sensitive-seasonal allergic rhinitis. | Chin Med J (Engl)
+- new | 2009 | 19329876 |  | [evaluation of relationships between foods and pollen antigens in peach oral allergy patients -serous specific IgE levels of peach recombinant Antigen-]. | Arerugi [jpn]
+- new | 2008 | 18033748 | Letter/Randomized Controlled Trial | Effectiveness of mugwort lotion for the treatment of post-burn hypertrophic scars. | J Plast Reconstr Aesthet Surg
+- new | 2008 | 18358104 |  | Oral allergy syndrome in patients with airborne pollen allergy treated with specific immunotherapy. | Acta Dermatovenerol Croat
+- new | 2008 | 17823540 | Research Support, Non-U.S. Gov't | Prevalence of IgE-binding to Art v 1, Art v 4 and Amb a 1 in mugwort-allergic patients. | Int Arch Allergy Immunol
+- new | 2008 | 18221477 | Research Support, Non-U.S. Gov't | Sensitization to turnip rape and oilseed rape in children with atopic dermatitis: a case-control study. | Pediatr Allergy Immunol
+- new | 2008 | 18950005 | Research Support, Non-U.S. Gov't | [Age features of the allergens in allergic rhinitis patients of different age in Hubei area]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2008 | 18268387 |  | Sensitization and allergy to Cannabis sativa leaves in a population of tomato (Lycopersicon esculentum)-sensitized patients. | Int Arch Allergy Immunol
+- new | 2007 | 17982289 | Research Support, Non-U.S. Gov't | [Oral allergy syndrome due to plant-derived foods: a clinical review of 63 patients over a period of 6 years]. | Arerugi [jpn]
+- new | 2006 | 16517432 | Research Support, Non-U.S. Gov't | Skin test reactivity among Danish children measured 15 years apart. | J Asthma
+- new | 2006 | 16629796 | Clinical Trial/Comparative Study/Multicenter Study/Research Support, Non-U.S. Gov't | The performance of a component-based allergen-microarray in clinical practice. | Allergy
+- new | 2006 | 17165283 | Research Support, N.I.H., Extramural | Bee pollen sensitivity in airborne pollen allergic individuals. | Ann Allergy Asthma Immunol
+- new | 2006 | 16445783 | Research Support, Non-U.S. Gov't | The course of eczema in children aged 5-7 years and its relation to atopy: differences between boys and girls. | Br J Dermatol
+- new | 2006 | 16776672 | Research Support, Non-U.S. Gov't | Sensitization to different pollens and allergic disease in 4-year-old Swedish children. | Clin Exp Allergy
+- new | 2006 | 16940700 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Potassium excretion in healthy Japanese women was increased by a dietary intervention utilizing home-parcel delivery of Okinawan vegetables. | Hypertens Res
+- new | 2006 | 16751008 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cabbage lipid transfer protein Bra o 3 is a major allergen responsible for cross-reactivity between plant foods and pollens. | J Allergy Clin Immunol
+- new | 2005 | 15924530 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomised controlled trial of moxibustion for breech presentation. | BJOG
+- new | 2005 | 15808115 |  | Food hypersensitivity in patients with seasonal rhinitis in Ankara. | Allergol Immunopathol (Madr)
+- new | 2005 | 16261950 | Comparative Study/Research Support, Non-U.S. Gov't | Cancer incidence in 13811 patients skin tested for allergy. | J Investig Allergol Clin Immunol
+- new | 2005 | 15575930 | Research Support, Non-U.S. Gov't | Mustard allergy confirmed by double-blind placebo-controlled food challenges: clinical features and cross-reactivity with mugwort pollen and plant-derived foods. | Allergy
+- new | 2005 | 16219189 | Clinical Trial/Randomized Controlled Trial | [Double-blind randomized trial of the effect of Bidro on hay fever in children]. | Ugeskr Laeger [dan]
+- new | 2005 | 15888250 | Clinical Trial | A pilot study of feasibility of ultra-rush (20-25 minutes) sublingual-swallow immunotherapy in 679 patients (699 sessions) with allergic rhinitis and/or asthma. | Int J Immunopathol Pharmacol
+- new | 2005 | 15725186 |  | Allergen-specific sensitization in asthma and allergic diseases in children: the study on farmers' and non-farmers' children. | Clin Exp Allergy
+- new | 2005 | 16433203 | Randomized Controlled Trial | Allergoid-specific T-cell reaction as a measure of the immunological response to specific immunotherapy (SIT) with a Th1-adjuvanted allergy vaccine. | J Investig Allergol Clin Immunol
+- new | 2005 | 16296404 |  | Antioxidant activity of various teas against free radicals and LDL oxidation. | Lipids
+- new | 2004 | 15154290 | Clinical Trial/Randomized Controlled Trial | The effect of acupuncture on allergic rhinitis: a randomized controlled clinical trial. | Am J Chin Med
+- new | 2004 | 14763931 |  | Allergenic pollen records (15 years) and sensitization in patients with respiratory allergy in Thessaloniki, Greece. | Allergy
+- new | 2004 | 14718425 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Ethnicity and skin test reactivity to aeroallergens among asthmatic children in Connecticut. | Chest
+- new | 2004 | 15552714 |  | Analysis of new respiratory allergies in patients monosensitized to airborne allergens in the area north of Milan. | J Investig Allergol Clin Immunol
+- new | 2004 | 14989398 |  | Relationship between peach lipid transfer protein specific IgE levels and hypersensitivity to non-Rosaceae vegetable foods in patients allergic to lipid transfer protein. | Ann Allergy Asthma Immunol
+- new | 2003 | 12958180 |  | Cross-reactive N-glycans of Api g 5, a high molecular weight glycoprotein allergen from celery, are required for immunoglobulin E binding and activation of effector cells from alle | FASEB J
+- new | 2003 | 12945477 | Comparative Study | Is the prevalence of specific IgE to classical inhalant aeroallergens among patients with respiratory allergy changing? Evidence from two surveys 15 years apart. | Acta Clin Belg
+- new | 2003 | 12945478 | Comparative Study | The prevalence and diagnostic value of specific IgE antibodies to inhalant, animal and plant food, and ficus allergens in patients with natural rubber latex allergy. | Acta Clin Belg
+- new | 2002 | 11926602 | Research Support, Non-U.S. Gov't/Review | Moxibustion in breech version--a descriptive review. | Acupunct Med
+- new | 2002 | 12027075 | Case Reports | Occupational rhinoconjunctivitis and food allergy because of aniseed sensitization. | Ann Allergy Asthma Immunol
+- new | 2002 | 12170274 |  | Hypersensitivity to mugwort (Artemisia vulgaris) in patients with peach allergy is due to a common lipid transfer protein allergen and is often without clinical expression. | J Allergy Clin Immunol
+- new | 2002 | 11940065 | Comparative Study | Atopic sensitization among children in an arctic environment. | Clin Exp Allergy
+- new | 2002 | 11972478 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Evaluation Study/Research Support, Non-U.S. Gov't | Allergenic components of a novel food, Micronesian nut Nangai (Canarium indicum), shows IgE cross-reactivity in pollen allergic patients. | Allergy
+- new | 2001 | 11496252 | Research Support, Non-U.S. Gov't | Carrot allergy: double-blinded, placebo-controlled food challenge and identification of allergens. | J Allergy Clin Immunol
+- new | 2000 | 10932086 | Research Support, Non-U.S. Gov't | Celery allergens in patients with positive double-blind placebo-controlled food challenge. | J Allergy Clin Immunol
+- new | 2000 | 10804095 |  | The type of sensitization to pollens in allergic patients in Eskisehir (Anatolia), Turkey. | Allergol Immunopathol (Madr)
+- new | 2000 | 10923587 | Comparative Study | Food allergies associated with birch pollen: comparison of Allergodip and Pharmacia CAP for detection of specific IgE antibodies to birch pollen related foods. | J Investig Allergol Clin Immunol
+- new | 2000 | 10984380 | Research Support, Non-U.S. Gov't | Traffic exposure and allergic sensitization against latex in children. | J Allergy Clin Immunol
+- new | 1999 | 10198596 |  | [Dispersal of pollen and the variation in number of patients prescribed medicine for allergies in Otaru]. | Yakugaku Zasshi [jpn]
+- new | 1999 | 10025743 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Evaluating the relevance of aeroallergen sensitization in atopic eczema with the atopy patch test: a randomized, double-blind multicenter study. Atopy Patch Test Study Group. | J Am Acad Dermatol
+- new | 1999 | 10337158 | Comparative Study | [Antigen specific immunoglobulin E to grass and weed pollens in the plasma of patients with seasonal allergic rhinitis]. | Otolaryngol Pol [pol]
+- new | 1999 | 10076706 | Research Support, Non-U.S. Gov't | What makes a child allergic? Analysis of risk factors for allergic sensitization in preschool children from East and West Germany. | Allergy Asthma Proc
+- new | 1998 | 9820259 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Moxibustion for correction of breech presentation: a randomized controlled trial. | JAMA
+- new | 1998 | 9677132 | Comparative Study/Research Support, Non-U.S. Gov't | Analysis of induced sputum for studying allergen-specific IgE antibodies in airway secretion from asthmatic patients. | Clin Exp Allergy
+- new | 1997 | 9617776 | Research Support, Non-U.S. Gov't | Validation of a rhinitis symptom questionnaire (ISAAC core questions) in a population of Swiss school children visiting the school health services. SCARPOL-team. Swiss Study on Chi | Pediatr Allergy Immunol
+- new | 1996 | 8896951 |  | Contact allergy to aeroallergens in children with atopic dermatitis: comparison with allergic contact dermatitis. | Contact Dermatitis
+- new | 1996 | 9020422 |  | Allergy to foods in patients monosensitized to Artemisia pollen. | Allergy
+- new | 1996 | 8882754 | Comparative Study | Sensitization to neumoallergens influence in mothers of asthmatic children. | Allergol Immunopathol (Madr)
+- new | 1996 | 8833167 | Research Support, Non-U.S. Gov't | Skin prick tests with standardized extracts of inhalant allergens in 7099 adult patients with asthma or rhinitis: cross-sensitizations and relationships to age, sex, month of birth | J Investig Allergol Clin Immunol
+- new | 1996 | 8917122 | Research Support, Non-U.S. Gov't | Allergic sensitization to native and heated celery root in pollen-sensitive patients investigated by skin test and IgE binding. | Int Arch Allergy Immunol
+- new | 1996 | 8992697 | Clinical Trial/Multicenter Study | [Skin prick tests with allergens in general practice]. | Ugeskr Laeger [dan]
+- new | 1996 | 8966060 |  | [Evaluation of the prevalence sensitization to common inhaled allergens in children of school age using skin tests]. | Pediatr Pol [pol]
+- new | 1995 | 8608200 | Clinical Trial/Comparative Study/Multicenter Study | Multicentre evaluation of Capture Assay Radim Liquid Allergen for measurement of specific IgE antibodies. | Eur J Clin Chem Clin Biochem
+- new | 1995 | 8526170 | Clinical Trial/Comparative Study/Randomized Controlled Trial | A double-blind, randomized study investigating the efficacy and specificity of immunotherapy with Artemisia vulgaris or Phleum pratense/betula verrucosa. | Allergol Immunopathol (Madr)
+- new | 1995 | 7573836 | Multicenter Study/Research Support, Non-U.S. Gov't | Survey of the allergic status of patients with bronchial asthma in Turkey: a multicenter study. | Allergy
+- new | 1994 | 8146811 | Review | [Food allergy]. | Ther Umsch [ger]
+- new | 1994 | 7936601 |  | [Diagnostic problems before specific immunotherapy in patients with late-summer seasonal allergic rhinitis]. | Orv Hetil [hun]
+- new | 1994 | 8006321 | Research Support, Non-U.S. Gov't | Banana allergy in patients with immediate-type hypersensitivity to natural rubber latex: characterization of cross-reacting antibodies and allergens. | J Allergy Clin Immunol
+- new | 1994 | 8039023 |  | IgE to food allergens are highly prevalent in patients allergic to pollens, with and without symptoms of food allergy. | Clin Exp Allergy
+- new | 1993 | 8116859 | Comparative Study/Research Support, Non-U.S. Gov't | Comparison of allergic rhinitis and vasomotor rhinitis patients on the basis of a computer questionnaire. | Allergy
+- new | 1993 | 8160562 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Comparative study between 10 and 20 mg of cetirizine in the symptomatic treatment of seasonal allergic rhinoconjunctivitis]. | Allergol Immunopathol (Madr) [spa]
+- new | 1992 | 1571816 | Comparative Study | Comparative evaluation of RAST and MAST-CLA for six allergens for the diagnosis of inhalant allergic disease in 232 patients. | Clin Exp Allergy
+- new | 1991 | 1957997 | Research Support, Non-U.S. Gov't | Spice allergy in celery-sensitive patients. | Allergy
+- new | 1988 | 3192871 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Comparison between modified skin prick test with standardized allergen extracts and Phazet. | J Allergy Clin Immunol
+- new | 1988 | 3189725 | Clinical Trial/Controlled Clinical Trial | Reproducibility of skin prick testing with allergen extracts from different manufacturers. | Allergy
+- new | 1988 | 3218914 | Research Support, Non-U.S. Gov't | Viruses and airborne allergens as precipitants of obstructive respiratory difficulties in children. | Ann Clin Res
+- new | 1987 | 2433321 |  | Demonstration of spice-specific IgE in patients with suspected food allergies. | J Allergy Clin Immunol
+- new | 1987 | 3688374 |  | Selection of patients for biological standardization as exemplified by standardization of mugwort, goosefoot and English plantain pollen allergen extracts/preparations. | Allergy
+- new | 1987 | 3323035 | Research Support, Non-U.S. Gov't | Allergen-specific leukocyte adherence inhibition (LAI) assay: sensitivity, specificity and mechanism. | Immunol Lett
+- new | 1986 | 3453725 |  | [Does mugwort pollenosis occur in children in the northern region?]. | Allerg Immunol (Paris) [fre]
+- new | 1979 | 493910 |  | [Pollionosis: I. Findings on the clinical aspects and the pollen spectrum in 1565 pollen-sensitive patients]. | Schweiz Med Wochenschr [ger]
+- new | 1978 | 709788 |  | Relationship between nasal and conjunctival tests in patients with allergic rhinitis. | Clin Allergy
+- new | 1978 | 568521 |  | Relationship between the results of bronchial, nasal and conjunctival provocation tests in patients with asthma. | Clin Allergy
+
+### PubMed SR - 10 hits, 2 not already listed above, 2 new
+- new | 2026 | 42684607 | Systematic Review | Epidemic Thunderstorm Asthma in China: A Systematic Review of an Artemisia-Associated Phenotype. | Clin Rev Allergy Immunol
+- new | 2015 | 25669428 | Meta-Analysis | Cost effectiveness of using moxibustion to correct non-vertex presentation. | Acupunct Med
+
+### PubMed SAFE - 592 hits, 148 not already listed above, 148 new
+- new | 2026 | 42729701 |  | Engineering tolerogenic mRNA-LNPs for allergen-specific immune reprogramming in pollen allergy. | Mater Today Bio
+- new | 2026 | 41668300 |  | Molecular Allergen Diagnosis Reveals That Asthma Risk Is Linked to Desert Mugwort Pollen Exposure. | Allergy
+- new | 2026 | 42333616 | Review | Allergic Sensitization to Common Ragweed and Mugwort Pollen Allergens: A 6-Year Single-Center Retrospective Analysis. | J Immunol Res
+- new | 2026 | 41688478 |  | Possible implications of the variability of the most allergenic plant pollen seasons in Poland. | Sci Rep
+- new | 2026 | 41807597 |  | Cockroach sensitization and its hidden links to mite and food allergens. | Sci Rep
+- new | 2026 | 42415819 | Review | In vitro IgE diagnostics in inhalant allergy: Plant and mold allergens. | Allergol Select
+- new | 2026 | 42870518 |  | A Novel Phenotype of Mugwort-Associated Delayed Gastrointestinal-Onset Anaphylaxis With Nasal-Ocular Involvement. | Allergy
+- new | 2025 | 40604475 |  | Developmental and quantitative expression profile of the six pollen allergens of mugwort (Artemisia vulgaris L.). | BMC Plant Biol
+- new | 2025 | 40263659 |  | [Clinical characteristics of allergic rhinitis induced by pollen in northern China]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2025 | 40410249 |  | Inhibition activity of Artemisia vulgaris L. on Bhas 42 cell transformation. | Sci Rep
+- new | 2025 | 39175252 | Multicenter Study | Allergen immunotherapy adverse events in adults with respiratory allergies-data from ADER: An EAACI task force report. | Allergy
+- new | 2025 | 40718489 |  | Intranasal monoclonal antibodies to mugwort pollen reduce allergic inflammation in a mouse model of allergic rhinitis and asthma. | Front Immunol
+- new | 2025 | 41821697 |  | Preserving Chicken Meat Quality and Microbial Safety by Supplementing Mugwort Essential Oil in Chitosan/Gelatin Coatings. | Food Sci Anim Resour
+- new | 2025 | 39314061 | Letter | Allergic reactions to horse chestnut seeds are caused by mugwort pollen Art v 1-sensitization and represent a novel type of defensin-related allergy syndrome. | Allergy
+- new | 2024 | 38659216 | Research Support, Non-U.S. Gov't | Ambient pollen exposure and pollen allergy symptom severity in the EPOCHAL study. | Allergy
+- new | 2024 | 39265239 |  | Analysis of IgE level influencing factors of common allergens for allergic rhinitis in northeastern China. | Clinics (Sao Paulo)
+- new | 2024 | 39066435 |  | Macropinocytosis Is the Principal Uptake Mechanism of Antigen-Presenting Cells for Allergen-Specific Virus-like Nanoparticles. | Vaccines (Basel)
+- new | 2024 | 39519459 |  | Allergenic Potential of Common Hops (Humulus lupulus L.) in the Context of Cross-Reactions with Pollen Allergens. | Nutrients
+- new | 2024 | 39445581 | Research Support, Non-U.S. Gov't | Improved quality control of allergen products: Assessing the molecular allergen composition by mass spectrometry. | Allergy
+- new | 2024 | 38938380 |  | Profiles of apple allergen components and its diagnostic value in Northern China. | Front Med (Lausanne)
+- new | 2024 | 38763171 | Research Support, Non-U.S. Gov't | New light on an old syndrome: Role of Api g 7 in mugwort pollen-related celery allergy. | J Allergy Clin Immunol
+- new | 2024 | 39336535 | Review | Diagnostic Workup in IgE-Mediated Allergy to Asteraceae Weed Pollen and Herbal Medicine Products in Europe. | Medicina (Kaunas)
+- new | 2024 | 39364293 | Case Reports | The management of exercise-induced anaphylaxis in a Chinese child with biologics: a case report. | Front Allergy
+- new | 2024 | 36476306 |  | Artemisia vulgaris L., Artemisia alba Turra and their constituents reduce mitomycin C-induced genomic instability in human peripheral blood lymphocytes in vitro. | Drug Chem Toxicol
+- new | 2023 | 38022748 | Case Reports | Blueberry (Vaccinium myrtillus) Induced Anaphylaxis in a Chinese Child with Lipid Transfer Protein Sensitization. | J Asthma Allergy
+- new | 2023 | 37684333 | Research Support, Non-U.S. Gov't | A study of allergen detection panel in Guangzhou, southern China based on real-world data from the past 7 years. | Sci Rep
+- new | 2023 | 37748608 |  | Co-exposure to highly allergenic airborne pollen and fungal spores in Europe. | Sci Total Environ
+- new | 2023 | 37178263 | Review/Research Support, Non-U.S. Gov't | The Role of Defensins as Pollen and Food Allergens. | Curr Allergy Asthma Rep
+- new | 2023 | 37238867 |  | Heat-Killed Bifidobacterium longum BBMN68 in Pasteurized Yogurt Alleviates Mugwort Pollen-Induced Allergic Airway Responses through Gut Microbiota Modulation in a Murine Model. | Foods
+- new | 2023 | 37638613 | Review | Review of the Chemical Composition and Biological Activities of Essential Oils from Artemisia Argyi, Artemisia Princeps, and Artemisia Montana. | Curr Top Med Chem
+- new | 2023 | 36835455 |  | Relationship between IgE Levels Specific for Ragweed Pollen Extract, Amb a 1 and Cross-Reactive Allergen Molecules. | Int J Mol Sci
+- new | 2023 | 37661764 |  | A combination of isoliquiritigenin with Artemisia argyi and Ohwia caudata water extracts attenuates oxidative stress, inflammation, and apoptosis by modulating Nrf2/Ho-1 signaling  | Environ Toxicol
+- new | 2023 | 38189573 | Video-Audio Media/Research Support, Non-U.S. Gov't | Bioinformatics-based Analyses and B/Th Cell Epitope Prediction of Mugwort Pollen Allergen Art v 1 Protein. | J Vis Exp
+- new | 2023 | 37622256 | Letter/Research Support, Non-U.S. Gov't | Association in molecular profiles of IgE sensitization to mugwort pollen allergens in Chinese parents and their offspring. | Pediatr Allergy Immunol
+- new | 2022 | 34984934 |  | Abnormal sperm morphology is associated with sensitization to inhaled allergens. | Int J Immunopathol Pharmacol
+- new | 2022 | 36621791 |  | [Sensitization Spectrum of 16 362 Patients with Allergic Diseases in Peking University Third Hospital]. | Zhongguo Yi Xue Ke Xue Yuan Xue Bao [chi]
+- new | 2022 | 35527433 |  | [Bioinformatics analysis of nasal epithelial cell gene expression in seasonal and perennial allergic rhinitis]. | Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Z [chi]
+- new | 2022 | 34092069 | Review | Why lipid transfer protein allergy is not a pollen-food syndrome: novel data and literature review. | Eur Ann Allergy Clin Immunol
+- new | 2022 | 35557497 |  | Capsicum Allergy: Involvement of Cap a 7, a New Clinically Relevant Gibberellin-Regulated Protein Cross-Reactive With Cry j 7, the Gibberellin-Regulated Protein From Japanese Cedar | Allergy Asthma Immunol Res
+- new | 2021 | 33228868 | Review | Effect of Climate Change on Allergenic Airborne Pollen in Japan. | Immunol Allergy Clin North Am
+- new | 2021 | 33453254 |  | Disruption of the cytochrome P450 CYP6BQ7 gene reduces tolerance to plant toxicants in the red flour beetle, Tribolium castaneum. | Int J Biol Macromol
+- new | 2021 | 35082673 |  | Ethnobotanical Documentation of Medicinal Plants Used by the Indigenous Panay Bukidnon in Lambunao, Iloilo, Philippines. | Front Pharmacol
+- new | 2021 | 31310144 |  | Sensitization to house dust mite allergens might be related to the low sensitivity of ImmunoCAP to pollen allergen. | Asian Pac J Allergy Immunol
+- new | 2021 | 32623852 |  | Cluster Analysis of Inhalant Allergens in South Korea: A Computational Model of Allergic Sensitization. | Clin Exp Otorhinolaryngol
+- new | 2021 | 35386990 | Review | Allergens of Regional Importance in Korea. | Front Allergy
+- new | 2021 | 35282715 |  | Aloe vera and artemisia vulgaris hydrogels: exploring the toxic effects of structural transformation of the biocompatible materials. | Drug Dev Ind Pharm
+- new | 2020 | 34506424 |  | Prevalence of Aeroallergens in Allergic Rhinitis in a Tertiary Care Hospital. | JNMA J Nepal Med Assoc
+- new | 2020 | 32994771 |  | Sensitisation to lipid transfer proteins in pollen - allergic adults with food allergy. | Postepy Dermatol Alergol
+- new | 2020 | 35520449 |  | A stimuli-responsive, superporous and non-toxic smart hydrogel from seeds of mugwort (Artemisia vulgaris): stimuli responsive swelling/deswelling, intelligent drug delivery and enh | RSC Adv
+- new | 2020 | 32699559 |  | Safety of a tincture derived from Artemisia vulgaris L. (Mugwort tincture) when used as a sensory additive in feed for all animal species. | EFSA J
+- new | 2020 | 31991489 | Research Support, Non-U.S. Gov't | Allergen alters IL-2/αIL-2-based Treg expansion but not tolerance induction in an allergen-specific mouse model. | Allergy
+- new | 2020 | 31691741 |  | Evaluation of chemopreventive and chemotherapeutic effect of Artemisia vulgaris extract against diethylnitrosamine induced hepatocellular carcinogenesis in Balb C mice. | Braz J Biol
+- new | 2020 | 33453986 | Research Support, Non-U.S. Gov't | Hydrogen/deuterium exchange memory NMR reveals structural epitopes involved in IgE cross-reactivity of allergenic lipid transfer proteins. | J Biol Chem
+- new | 2020 | 33214682 | Research Support, Non-U.S. Gov't | Purification and biochemical characterization of Hel a 6, a cross-reactive pectate lyase allergen from Sunflower (Helianthus annuus L.) pollen. | Sci Rep
+- new | 2020 | 31805564 |  | Allergic Rhinitis to Weed Pollen in Germany: Dominance by Plantain, Rising Prevalence, and Polysensitization Rates over 20 Years. | Int Arch Allergy Immunol
+- new | 2020 | 32435327 |  | Characteristics of pollen-related food allergy based on individual pollen allergy profiles in the Chinese population. | World Allergy Organ J
+- new | 2019 | 32626167 |  | Safety and efficacy of a tincture derived from Artemisia vulgaris L. (Mugwort tincture) when used as a sensory additive in feed for all animal species. | EFSA J
+- new | 2019 | 31404264 |  | The Essential Oils and Eucalyptol From Artemisia vulgaris L. Prevent Acetaminophen-Induced Liver Injury by Activating Nrf2-Keap1 and Enhancing APAP Clearance Through Non-Toxic Meta | Front Pharmacol
+- new | 2019 | 30970365 |  | Localization of Four Allergens in Artemisia Pollen by Immunofluorescent Antibodies. | Int Arch Allergy Immunol
+- new | 2019 | 30035810 | Research Support, Non-U.S. Gov't | Prevention of allergy by virus-like nanoparticles (VNP) delivering shielded versions of major allergens in a humanized murine allergy model. | Allergy
+- new | 2019 | 31434264 |  | Similar Allergenicity to Different Artemisia Species Is a Consequence of Highly Cross-Reactive Art v 1-Like Molecules. | Medicina (Kaunas)
+- new | 2019 | 30820315 |  | Sensitivity and specificity of standardised allergen extracts in skin prick test for diagnoses of IgE-mediated respiratory allergies. | Clin Transl Allergy
+- new | 2019 | 30479082 |  | Mugwort Pollen-Related Food Allergy: Lipid Transfer Protein Sensitization and Correlation With the Severity of Allergic Reactions in a Chinese Population. | Allergy Asthma Immunol Res
+- new | 2019 | 30952586 | Case Reports/Letter | A case of anaphylactic reaction to chamomile tea in a patient with mugwort pollinosis. | Allergol Int
+- new | 2018 | 29417583 | Evaluation Study/Research Support, Non-U.S. Gov't | The use of specific immunoglobulin E in nasal secretions for the diagnosis of allergic rhinitis. | Laryngoscope
+- new | 2018 | 30647196 |  | The dynamics of pollen seasons of the most allergenic plants - 15-year observations in Warsaw. | Otolaryngol Pol
+- new | 2018 | 30585474 |  | [Progress of Research on Mechanisms of Moxibustion Intervention Underlying Improvement of Blood Circulation]. | Zhen Ci Yan Jiu [chi]
+- new | 2018 | 28960341 | Research Support, Non-U.S. Gov't | Distinct epitope structures of defensin-like proteins linked to proline-rich regions give rise to differences in their allergenic activity. | Allergy
+- new | 2018 | 29628890 | Review | Anti-gout Potential of Malaysian Medicinal Plants. | Front Pharmacol
+- new | 2018 | 29210131 | Research Support, Non-U.S. Gov't | Allergens produce serine proteases-dependent distinct release of metabolite DAMPs in human bronchial epithelial cells. | Clin Exp Allergy
+- new | 2017 | 28316024 |  | Spatial distribution of allergenic pollen through a large metropolitan area. | Environ Monit Assess
+- new | 2017 | 28839248 | Research Support, Non-U.S. Gov't | Sensitization patterns and minimum screening panels for aeroallergens in self-reported allergic rhinitis in China. | Sci Rep
+- new | 2017 | 29167600 |  | Allergenic Asteraceae in air particulate matter: quantitative DNA analysis of mugwort and ragweed. | Aerobiologia (Bologna)
+- new | 2017 | 28160864 |  | Inulin-type fructan and infusion of Artemisia vulgaris protect the liver against carbon tetrachloride-induced liver injury. | Phytomedicine
+- new | 2017 | 28628023 |  | [RAGWEED ALLERGY IN THE SOUTH OF RUSSIA - IN THE CHECHEN REPUBLIC]. | Georgian Med News [rus]
+- new | 2017 | 27568784 | Review | Systemic allergic dermatitis caused by sesquiterpene lactones. | Contact Dermatitis
+- new | 2017 | 28924222 | Research Support, Non-U.S. Gov't | Conjugation of wildtype and hypoallergenic mugwort allergen Art v 1 to flagellin induces IL-10-DC and suppresses allergen-specific TH2-responses in vivo. | Sci Rep
+- new | 2017 | 28482306 |  | Mapping allergenic pollen vegetation in UK to study environmental exposure and human health. | Sci Total Environ
+- new | 2016 | 27222528 | Case Reports/Letter | Sunflower seed allergy. | Int J Immunopathol Pharmacol
+- new | 2016 | 26373744 |  | Pollen information consumption as an indicator of pollen allergy burden. | Wien Klin Wochenschr
+- new | 2016 | 27605897 |  | Specific immunotherapy with mugwort pollen allergoid reduce bradykinin release into the nasal fluid. | Postepy Dermatol Alergol
+- new | 2016 | 27240834 |  | Component-Resolved Diagnosis of Peanut Allergy and Its Possible Origins of Sensitization in China. | Int Arch Allergy Immunol
+- new | 2016 | 27604125 |  | Analysis of morphological and molecular composition changes in allergenic Artemisia vulgaris L. pollen under traffic pollution using SEM and FTIR spectroscopy. | Environ Sci Pollut Res Int
+- new | 2016 | 27478657 |  | Mugwort-Mustard Allergy Syndrome due to Broccoli Consumption. | Case Rep Dermatol Med
+- new | 2015 | 26549340 |  | Allergenicity of Artemisia contained in bee pollen is proportional to its mass. | Eur Ann Allergy Clin Immunol
+- new | 2015 | 26061992 | Review | Natural Products Useful in Respiratory Disorders: Focus on Side-Effect Neutralizing Combinations. | Phytother Res
+- new | 2015 | 25236500 | Research Support, Non-U.S. Gov't | HLA class II peptide tetramers vs allergen-induced proliferation for identification of allergen-specific CD4 T cells. | Allergy
+- new | 2015 | 25620875 |  | Predicting Onset and Duration of Airborne Allergenic Pollen Season in the United States. | Atmos Environ (1994)
+- new | 2015 | 26550020 |  | Moxibustion Reduces Ovarian Granulosa Cell Apoptosis Associated with Perimenopause in a Natural Aging Rat Model. | Evid Based Complement Alternat Med
+- new | 2015 | 26333703 |  | Performance of the PROTIA™ Allergy-Q® System in the Detection of Allergen-specific IgE: A Comparison With the ImmunoCAP® System. | Allergy Asthma Immunol Res
+- new | 2015 | 27226949 | Review | Ambrosia artemisiifolia (ragweed) in Germany - current presence, allergological relevance and containment procedures. | Allergo J Int
+- new | 2015 | 25978036 | Research Support, Non-U.S. Gov't | Pectate lyase pollen allergens: sensitization profiles and cross-reactivity pattern. | PLoS One
+- new | 2014 | 23806644 | Research Support, Non-U.S. Gov't/Review | Allergens of weed pollen: an overview on recombinant and natural molecules. | Methods
+- new | 2014 | 24404393 |  | Variability of offending allergens of allergic rhinitis according to age: optimization of skin prick test allergens. | Allergy Asthma Immunol Res
+- new | 2013 | 24260980 | Research Support, Non-U.S. Gov't | Allergenicity of recombinant profilins from Japanese hop, Humulus japonicus. | J Investig Allergol Clin Immunol
+- new | 2013 | 24067338 | Case Reports | Mugwort-fennel-allergy-syndrome associated with sensitization to an allergen homologous to Api g 5. | Eur Ann Allergy Clin Immunol
+- new | 2012 | 22928313 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils against Camptomyia corticalis (Diptera: Cecidomyiidae). | J Econ Entomol
+- new | 2011 | 21875536 | Review | Spice allergy. | Ann Allergy Asthma Immunol
+- new | 2011 | 22062945 | Review | Herbs in epilepsy: evidence for efficacy, toxicity, and interactions. | Semin Pediatr Neurol
+- new | 2011 | 21608374 | Letter | Safety of ultrashort-term sit with pollen allergoids adjuvanted by monophosphoryl lipid A: a prospective Italian survey. | Eur Ann Allergy Clin Immunol
+- new | 2011 | 21462324 | Research Support, Non-U.S. Gov't | Molecular characterization of Api g 2, a novel allergenic member of the lipid-transfer protein 1 family from celery stalks. | Mol Nutr Food Res
+- new | 2011 | 21834339 | Review | [Allergies in summer]. | Duodecim [fin]
+- new | 2010 | 21034593 | Evaluation Study/Research Support, Non-U.S. Gov't | Evaluation of serum specific IgE for the diagnosis of allergic rhinitis with multi-allergens. | Chin Med J (Engl)
+- new | 2009 | 19500826 | Research Support, Non-U.S. Gov't | Modulation of allergen-specific T-lymphocyte function by virus-like particles decorated with HLA class II molecules. | J Allergy Clin Immunol
+- new | 2009 | 19050375 | Case Reports | Anaphylactic reaction to camomile tea. | Allergol Int
+- new | 2009 | 19853333 |  | Factors affecting the success of moxibustion in the management of a breech presentation as a preliminary treatment to external cephalic version. | Midwifery
+- new | 2009 | 19721867 | Case Reports/Research Support, Non-U.S. Gov't | Chinese bellflower root anaphylaxis: IgE-binding components and cross-reactivity with mugwort and birch. | Korean J Intern Med
+- new | 2009 | 19862948 | Case Reports | Anaphylaxis to mango fruit and crossreactivity with Artemisia vulgaris pollen. | J Investig Allergol Clin Immunol
+- new | 2008 | 18588553 | Research Support, Non-U.S. Gov't | Molecular and immunological characterization of novel weed pollen pan-allergens. | Allergy
+- new | 2007 | 17631469 |  | [What is the role of allergic sensitization in Graves' disease?]. | Orv Hetil [hun]
+- new | 2006 | 16512809 | Research Support, Non-U.S. Gov't/Review | Pollen-food syndromes associated with weed pollinosis: an update from the molecular point of view. | Allergy
+- new | 2005 | 16254437 | Research Support, Non-U.S. Gov't/Review | The spectrum of allergens in ragweed and mugwort pollen. | Int Arch Allergy Immunol
+- new | 2004 | 15283880 | Research Support, Non-U.S. Gov't/Review | Biology of weed pollen allergens. | Curr Allergy Asthma Rep
+- new | 2004 | 14982517 | Case Reports | A novel inhalation allergen present in the working environment of beekeepers. | Allergy
+- new | 2003 | 12743560 | Research Support, Non-U.S. Gov't | Identification of cross-reactive and genuine Parietaria judaica pollen allergens. | J Allergy Clin Immunol
+- new | 2003 | 14519152 |  | Primary sensitization to sweet bell pepper pollen in greenhouse workers with occupational allergy. | Clin Exp Allergy
+- new | 2002 | 12417891 | Case Reports | Severe oral allergy syndrome and anaphylactic reactions caused by a Bet v 1- related PR-10 protein in soybean, SAM22. | J Allergy Clin Immunol
+- new | 2002 | 12078423 | Case Reports/Review | Food allergy and IgE sensitization caused by spices: CICBAA data (based on 589 cases of food allergy). | Allerg Immunol (Paris)
+- new | 2000 | 10921466 | Research Support, Non-U.S. Gov't | Allergenic cross-reactivity of olive pollen. | Allergy
+- new | 2000 | 10923590 | Multicenter Study | An epidemiological survey on the allergological importance of some emerging pollens in Italy. | J Investig Allergol Clin Immunol
+- new | 2000 | 10795656 | Case Reports | Fennel, cucumber, and melon allergy successfully treated with pollen-specific injection immunotherapy. | Ann Allergy Asthma Immunol
+- new | 1999 | 10594546 |  | Sensitization to grass, ragweed, mugwort pollen allergens in Japanese monkeys (Macaca fuscata): preliminary report. | Clin Exp Allergy
+- new | 1999 | 10457112 |  | Identification and characterization of the major allergen of the Humulus japonicus pollen. | Clin Exp Allergy
+- new | 1999 | 10452775 | Research Support, Non-U.S. Gov't | IgE reactivity to Api g 1, a major celery allergen, in a Central European population is based on primary sensitization by Bet v 1. | J Allergy Clin Immunol
+- new | 1998 | 9534922 |  | Occupational allergy caused by flowers. | Allergy
+- new | 1998 | 9756210 | Case Reports | Study of a case of hypersensitivity to lettuce (Lactuca sativa). | Clin Exp Allergy
+- new | 1998 | 9555613 | Review | Association between pollen hypersensitivity and edible vegetable allergy: a review. | J Investig Allergol Clin Immunol
+- new | 1998 | 9784653 |  | Identification of allergens in oilseed rape (Brassica napus) pollen. | Int Arch Allergy Immunol
+- new | 1998 | 9615299 |  | Kiwi allergens and their cross-reactivity with birch, rye, timothy, and mugwort pollen. | J Investig Allergol Clin Immunol
+- new | 1997 | 9012619 | Case Reports | Occupational allergic rhinoconjunctivitis and asthma due to fennel seed. | Ann Allergy Asthma Immunol
+- new | 1997 | 9132925 | Review | [Important cross-reactive allergens]. | Schweiz Med Wochenschr [ger]
+- new | 1996 | 8877160 | Case Reports | Inhalative occupational and ingestive immediate-type allergy caused by chicory (Cichorium intybus). | Clin Exp Allergy
+- new | 1995 | 7549509 | Research Support, Non-U.S. Gov't | Mechanism of allergic cross-reactions. V. High incidence of unanticipated cross-stimulation by natural allergens of rat basophilic leukemia cells sensitized with monoclonal IgE ant | Int Arch Allergy Immunol
+- new | 1994 | 8308184 |  | Evaluation of the overall degree of sensitization to airborne allergens by a single serologic test: implications for epidemiologic studies of allergy. | J Allergy Clin Immunol
+- new | 1992 | 1440434 | Review | [Neglected allergens]. | Ther Umsch [ger]
+- new | 1992 | 1370681 | Comparative Study/Research Support, Non-U.S. Gov't | Profilins constitute a novel family of functional plant pan-allergens. | J Exp Med
+- new | 1991 | 1957142 |  | [Food allergies 1983-1987]. | Schweiz Med Wochenschr [ger]
+- new | 1990 | 2382873 |  | Allergic conjunctivitis to chamomile tea. | Ann Allergy
+- new | 1990 | 2373647 |  | [Pollinosis and oral allergy syndrome]. | HNO [ger]
+- new | 1989 | 2674263 | Case Reports | Anaphylactic reaction after the ingestion of chamomile tea: a study of cross-reactivity with other composite pollens. | J Allergy Clin Immunol
+- new | 1988 | 3258136 | Research Support, Non-U.S. Gov't | Celery allergy: clinical and biological study of 20 cases. | Ann Allergy
+- new | 1988 | 3400558 |  | [Allergen analysis of mugwort pollen (Artemisia vulgaris) using crossed radioimmunoelectrophoresis and radioallergosorbent test inhibition]. | Allerg Immunol (Leipz) [ger]
+- new | 1988 | 3339189 |  | Probit analysis applied to the allergen dose-response curve: a method for epidemiologic surveys. | J Allergy Clin Immunol
+- new | 1987 | 3592143 | Research Support, Non-U.S. Gov't | Allergy screening in asthma and allergic rhinitis. Which allergens should be used? | Allergy
+- new | 1986 | 3752415 |  | Pollen seasons: forecasts of the most important allergenic plants in Finland. | Allergy
+- new | 1985 | 4006177 | Research Support, Non-U.S. Gov't | Celery sensitivity: clinical and immunological correlations with pollen allergy. | Clin Allergy
+- new | 1985 | 3993353 |  | Allergic conjunctivitis, total and specific IgE in the tear fluid. | Acta Ophthalmol (Copenh)
+- new | 1984 | 6734454 |  | [Food allergy: the celery-mugwort-spice syndrome. Association with mango allergy?]. | Dtsch Med Wochenschr [ger]
+
+### PubMed OBS - 67 hits, 24 not already listed above, 24 new
+- new | 2026 | 43011841 |  | Rare allergen sources are clinically relevant sensitizers in Central Europe. | Allergol Select
+- new | 2026 | 41730717 | Observational Study | The September 2022 thunderstorm asthma outbreak in Yulin, Northwest China: A 7-year retrospective analysis (2018-2024). | J Int Med Res
+- new | 2026 | 43068093 |  | Allergen Sensitization and Cytokine Signatures in Allergic Rhinitis in Ningxia, China. | J Asthma Allergy
+- new | 2026 | 42488550 |  | Artemisia pollen-induced allergic rhinitis in mice: multi-omics dissection of local and systemic molecular alterations. | Front Allergy
+- new | 2026 | 42158099 |  | Real-world retrospective study on allergy screening and its effect on specialist referral patterns. | Front Allergy
+- new | 2025 | 40374356 |  | [Construction of a diagnostic prediction model for childhood allergic asthma based on the detection results of specific IgE for airborne allergens]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 2024 | 38247235 | Research Support, Non-U.S. Gov't | The effectiveness of pollen allergen immunotherapy on allergic rhinitis over 18 years: A national cohort study in Denmark. | Allergy
+- new | 2021 | 33742477 | Research Support, Non-U.S. Gov't | Associations between specific IgE sensitization to 26 respiratory allergen molecules and HLA class II alleles in the EGEA cohort. | Allergy
+- new | 2019 | 30066997 | Multicenter Study | Allergy in adolescent population (14-18 years) living in Campania region (Southern Italy). A multicenter study. | Eur Ann Allergy Clin Immunol
+- new | 2019 | 30734368 | Multicenter Study | Early molecular biomarkers predicting the evolution of allergic rhinitis and its comorbidities: A longitudinal multicenter study of a patient cohort. | Pediatr Allergy Immunol
+- new | 2019 | 30762886 | Research Support, Non-U.S. Gov't | Lipid Transfer Protein allergy in the United Kingdom: Characterization and comparison with a matched Italian cohort. | Allergy
+- new | 2018 | 30031991 | Research Support, Non-U.S. Gov't | Meteorological parameters and air pollen count in association with self-reported peripartum depressive symptoms. | Eur Psychiatry
+- new | 2017 | 28347735 |  | Sensitization trajectories in childhood revealed by using a cluster analysis. | J Allergy Clin Immunol
+- new | 2016 | 27144406 |  | Lipid Transfer Protein Syndrome in a Non-Mediterranean Area. | Int Arch Allergy Immunol
+- new | 2016 | 27040441 |  | Risk factors for and expression of immune and inflammatory factors in atopic dermatitis in Chinese population: A birth cohort study. | Mol Cell Probes
+- new | 2015 | 25903791 | Comparative Study/Research Support, Non-U.S. Gov't | Lipid transfer protein sensitization: reactivity profiles and clinical risk assessment in an Italian cohort. | Allergy
+- new | 2013 | 23921456 |  | Prevalence of atopy and respiratory allergic diseases in the elderly SAPALDIA population. | Int Arch Allergy Immunol
+- new | 2013 | 22580438 |  | Relationship between total tear IgE and specific serum IgE in autumnal allergic conjunctivitis. | Cornea
+- new | 2013 | 23913351 |  | [Respiratory symptoms and sensitization to airborne pollen of ragweed and mugwort of adults in Southwest Germany]. | Dtsch Med Wochenschr [ger]
+- new | 2012 | 23018776 |  | Increased allergic sensitization to mugwort in chronic urticaria. | Dermatology
+- new | 2009 | 19204839 | Research Support, Non-U.S. Gov't | Sensitisation to Ambrosia in Switzerland: a public health threat on the wait. | Swiss Med Wkly
+- new | 2008 | 23282323 |  | Effect of pollen-specific sublingual immunotherapy on oral allergy syndrome: an observational study. | World Allergy Organ J
+- new | 2008 | 18721247 | Research Support, Non-U.S. Gov't | Symptoms to pollen and fruits early in life and allergic disease at 4 years of age. | Allergy
+- new | 2003 | 14519138 | Research Support, Non-U.S. Gov't | Allergic sensitization among adults in Tallinn, Estonia. | Clin Exp Allergy
+
+### PubMed REV - 60 hits, 10 not already listed above, 10 new
+- new | 2023 | 38281734 | Review | The use of phytotherapy in the fight against parasitic diseases. | Ann Parasitol
+- new | 2022 | 35386656 | Review | Allergenic Properties and Molecular Characteristics of PR-1 Proteins. | Front Allergy
+- new | 2021 | 34051675 | Research Support, Non-U.S. Gov't/Review | Artemisinins and their impact on inhibitory neurotransmission. | Curr Opin Pharmacol
+- new | 2018 | 29775226 | Review | Moxibustion for Cephalic Version of Breech Presentation. | J Midwifery Womens Health
+- new | 2013 | 23664290 | Historical Article/Review | [Ambrosia pollinosis]. | Rev Mal Respir [fre]
+- new | 2012 | 22190471 | Research Support, N.I.H., Extramural/Review | Glycosides of hydroxyproline: some recent, unusual discoveries. | Glycobiology
+- new | 2010 | 20932234 | Research Support, Non-U.S. Gov't/Review | Bioengineering assessment of acupuncture, part 8: innovative moxibustion. | Crit Rev Biomed Eng
+- new | 2007 | 17033195 | Research Support, Non-U.S. Gov't/Review | The role of protein glycosylation in allergy. | Int Arch Allergy Immunol
+- new | 2001 | 11421891 | Review | Cross-reactivity of IgE antibodies to allergens. | Allergy
+- new | 1987 | 3331270 | Review | [Botany of Artemisia]. | Allerg Immunol (Paris) [fre]
+
+### ClinicalTrials.gov - 6 registered studies
+- NCT02680912 | UNKNOWN | results=False | NA | Warm Needle Acupuncture vs Needle Acupuncture | conds: Osteoarthritis, Knee | intr: Warm needle acupuncture, Needle acupuncture
+- NCT07563439 | RECRUITING | results=False | PHASE2 | PollenVax Subcutaneous Immunotherapy for Mugwort Pollen-Induced Allergic Rhinitis | conds: Rhinitis Allergic | intr: Recombinant Artemisia vulgaris allergen Art v 1 with Montanide ISA-51 adjuvant, Montanide ISA-51 pla
+- NCT00828516 | COMPLETED | results=True | NA | Using Traditional Acupuncture in the Management of Cancer Treatment Related Lymphoedema | conds: Breast Cancer, Head and Neck Cancer, Lymphedema | intr: Acupuncture and moxibustion | pubs: ['21917515:RESULT (new)', ':RESULT (-)']
+- NCT04054284 | COMPLETED | results=False | NA | Safety and Efficacy of Herbal Tea in Type 2 Diabetics | conds: Type 2 Diabetes, Herbal Medicine Adverse Reaction | intr: Antidiabetic Herbal Tea, Herbal Tea
+- NCT01984541 | COMPLETED | results=False | PHASE2 | To Determine the Minimum Amount of Artemisia Vulgaris Allergen Extract Producing a Positive Skin Reaction. | conds: Allergy to Pollen | intr: Artemisia vulgaris
+- NCT02474836 | COMPLETED | results=False | PHASE2 | Determination of Biological Activity of Three Allergen Extracts | conds: Hypersensitivity | intr: Skin Prick Test - Atopic subjects, Skin Prick Test - Non Atopic subjects, Skin Prick Test - Allergic
+
+### OpenAlex no-PMID trial-worded - 1633 hits, 31 without PMID, 31 new
+- new | 2026 | 10.1590/1980-265x-tce-2025-0179pt | article | MOXABUSTÃO NO MANEJO DE LINFEDEMA EM MULHERES MASTECTOMIZADAS: UM ENSAIO CLÍNICO RANDOMIZADO | Texto & Contexto - Enfermagem
+- new | 2026 | 10.1590/1980-265x-tce-2025-0179en | article | MOXIBUSTION IN THE MANAGEMENT OF LYMPHEDEMA IN MASTECTOMIZED WOMEN: A RANDOMIZED CLINICAL TRIAL | Texto & Contexto - Enfermagem
+- new | 2026 | 10.13045/jar.25.0048 | article | Effect of Acupuncture and Moxibustion on Disease Severity in Chronic Rhinosinusitis: A Randomized Controlled Trial | Journal of Acupuncture Research
+- new | 2026 | 10.2174/0122127968407897251201142135 | article | Bioactive Constituents and their Biological Properties in Artemisia vulgaris Linn | Current Chemical Biology
+- new | 2025 | 10.18203/2349-3259.ijct20253336 | article | Improving treatment outcomes in chronic myeloid leukaemia patients using imatinib and artesunate combination therapy: a randomized controlled clinical trial protocol (IMART-trial) | International Journal of Clinical Trials
+- new | 2024 | 10.21911/aai.2024.555 | article | Evaluation of Sensitization to Aeroallergens in Pediatric Patients with Allergic Rhinitis and Asthma in North Cyprus | Asthma Allergy Immunology
+- new | 2023 | 10.52711/0974-360x.2023.00877 | article | Effects of Imatinib and Artemisia vulgaris extracts in combination on leukemia cell proliferation | Research Journal of Pharmacy and Technol
+- new | 2022 | 10.1183/13993003.congress-2022.860 | conference-abstract | Alarmin release in the bronchial epithelium of allergic asthma patients vary in response to different aeroallergens | European Respiratory Journal
+- new | 2022 | 10.1183/23120541.lsc-2022.83 | conference-abstract | Comparing epithelial alarmin responses to different aeroallergens in bronchial epithelial cells from allergic asthma patients | 
+- new | 2022 | 10.14456/jbap.2022.10 | article | Symptomatic treatment of mild COVID-19 with Vitex negundo(NIRPROMP formulation):A randomized, controlled clinical trial | Journal of Basic and Applied Pharmacolog
+- new | 2022 | 10.37275/bsm.v6i4.486 | article | Effects of Artemisia Vulgaris Extract on Apoptotic Index and Caspase-8 | Bioscientia Medicina Journal of Biomedic
+- new | 2020 | 10.22263/2312-4156.2020.4.107 | article | The influence of Artemisia vulgaris herb on the course of allergic reactions in an experiment | Vestnik of Vitebsk State Medical Univers
+- new | 2020 | 10.1016/j.eujim.2020.101094 | article | Effectiveness of grain-sized moxibustion for rheumatoid arthritis: Study protocol for a randomized controlled trial | European Journal of Integrative Medicine
+- new | 2019 | 10.1016/j.eujim.2019.02.005 | article | Moxibustion intervention for patients with ankylosing spondylitis: A study Protocol for a pilot randomized controlled trial | European Journal of Integrative Medicine
+- new | 2019 | 10.29252/jmp.4.72.170 | article | A Comparative Study on the Effect of Artemisia and Clotrimazole Vaginal Cream on Vaginal Candida Infection on Non-Pregnant Women in Fertile Age in Mashhad in 2016-2017: A Triple Bl | Journal of Medicinal Plants
+- new | 2019 | 10.17221/162/2018-cjas | article | Dietary Artemisia vulgaris meal improved growth performance, gut microbes, and immunity of growing Rex rabbits | Czech Journal of Animal Science
+- new | 2019 | https://openalex.org/W3198539592 | article | Effect of Essential Oil from Artemisia vulgaris on CYP450 Isoforms Activity and Expression | China Animal Husbandry & Veterinary Medi
+- new | 2018 | 10.4103/2542-3932.238437 | article | The effect of moxibustion on brain functional connectivity and effective brain networks in patients with amnestic mild cognitive impairment: study protocol for a randomized control | Asia Pacific Journal of Clinical Trials 
+- new | 2015 | 10.7439/ijpr.v5i4.1885 | article | A preclinical antihyperlipidemic evaluation of Artemisia vulgaris root in diet induced hyperlipidemic animal model | International Journal of Pharmacological
+- new | 2014 | 10.1016/j.eujim.2014.08.002 | review | Moxibustion for treating rheumatoid arthritis: A systematic review and meta-analysis of randomized controlled trials | European Journal of Integrative Medicine
+- new | 2013 | https://openalex.org/W1555767786 | article | Distribution of Allergen Reactivity in Serum of Allergy Patients | Journal of Experimental & Biomedical Sci
+- new | 2012 | 10.1097/01.wox.0000411968.40276.b5 | article | Influence of Degree of Specific Allergic Sensitivity on Severity of Rhinitis and Asthma in Chinese Allergic Patients | World Allergy Organization Journal
+- new | 2012 | 10.1097/01.wox.0000411986.18298.36 | article | Incidence of Allergy to Artemisia Vulgaris and Salsola Kali in Sabzevar cCty | World Allergy Organization Journal
+- new | 2011 | https://openalex.org/W2350240828 | article | Relationship between total and specific IgE in patients with asthma | Zhongguo shiyong erke zazhi
+- new | 2011 | 10.4236/cm.2011.22010 | article | Effects of Moxa (Artemisia Vulgaris) Smoke Inhalation on Heart Rate and Its Variability | Chinese Medicine
+- new | 2010 | https://openalex.org/W2376608892 | article | Aeroallergen analysis of 994 patients with allergic rhinitis in Shijiazhuan | Chinese Journal of Otorhinolaryngology-s
+- new | 2009 | https://openalex.org/W1577304676 | dissertation | 'Forging a conviction' : participants' experiences of a western acupuncture randomised controlled trial | ePrints Soton (University of Southampton
+- new | 2004 | 10.21273/hortsci.39.4.746a | article | Mugwort (Artemisia vulgaris) Rhizome Regeneration in Pine Bark, Soil and Sand Substrates | HortScience
+- new | 2002 | 10.1614/0890-037x(2002)016[0164:eoshar]2.0.co;2 | article | Evaluations of Selected Herbicides and Rates for Long-Term Mugwort (Artemisia vulgaris) Control1 | Weed Technology
+- new | 2002 | 10.1614/0890-037x(2002)016[0346:ioshth]2.0.co;2 | article | Influence of Sequential Herbicide Treatment, Herbicide Application Timing, and Mowing on Mugwort (Artemisia vulgaris) Control1 | Weed Technology
+- new | 1994 | 10.11340/skinresearch1959.36.369 | article | Clinical Trial of SY Skin Care Series Containing Mugwort Extract | Skin research

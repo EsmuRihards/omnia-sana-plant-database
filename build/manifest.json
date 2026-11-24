@@ -3,21 +3,21 @@
  "artifacts": {
   "citations.json": {
    "schema": "omnia-sana/knowledge-finder@2",
-   "count": 3943,
-   "bytes": 9599209,
-   "sha256": "661689997dce318296c94544e3b2f8d1a4418baf2b785cd7507c7a1616b7e219"
+   "count": 3961,
+   "bytes": 9646195,
+   "sha256": "b613424364ed70bbb8042dee1d1ebfd2b32c22000659df370dcc00d5937e5f01"
   },
   "symptoms.json": {
    "schema": "omnia-sana/symptom-lookup@1",
    "count": 183,
-   "bytes": 345502,
-   "sha256": "6f41e63caedd8e846f03e579bc6afffc8c9f59db88cbefed861a515e64a40860"
+   "bytes": 346164,
+   "sha256": "2a22e69d9774c5b114e221927aa7c564e7457bfe6ec13c65184e1b44e3e1c697"
   },
   "plants.json": {
    "schema": "omnia-sana/plants@1",
    "count": 189,
-   "bytes": 2315935,
-   "sha256": "a2df03d5ab012f2d5a226f8f9c7f90ad6be418cf9c0e672aaff9dbdd478a0f6d"
+   "bytes": 2319855,
+   "sha256": "d4ec616e40bd09f5a9f6c03fbb24772f098e0bf3189e1e57e944b1cd18c2bec2"
   },
   "vocab.json": {
    "schema": "omnia-sana/vocab@1",

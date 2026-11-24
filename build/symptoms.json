@@ -1562,25 +1562,49 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0726",
-      "REF-3446"
-     ]
-    },
-    {
      "condition": "bruising",
      "label": "Bruising",
-     "evidence": 5,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0726",
-      "REF-3442"
+      "REF-3442",
+      "REF-5173",
+      "REF-5183"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0726",
+      "REF-3446",
+      "REF-5175"
+     ]
+    },
+    {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5173",
+      "REF-5183"
+     ]
+    },
+    {
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5174"
      ]
     },
     {
@@ -16819,6 +16843,16 @@
      "references": [
       "REF-3447",
       "REF-3448"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5184"
      ]
     },
     {

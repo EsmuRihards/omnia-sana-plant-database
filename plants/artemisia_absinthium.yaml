@@ -255,6 +255,12 @@ indications:
   - REF-3447
   - REF-3448
   status: verified
+- condition: depression
+  note: A wormwood vaginal gel reduced depression scores more than placebo in a triple-blind randomized
+    trial in women with sexual dysfunction and mild to moderate depression
+  reference_ids:
+  - REF-5184
+  status: verified
 contraindications:
 - note: 'CAUTION: Wormwood oil contains thujone, and in excess wormwood causes giddiness and epileptic-like
     convulsions (Grieve). The EU herbal monograph contraindicates it in allergy to plants of the daisy
@@ -277,6 +283,19 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0063
+  status: verified
+- note: 'Liver injury: two people developed toxic hepatitis after taking wormwood (5 g daily for 6 days
+    to help breastfeeding; about 10 g twice daily for a week for urinary complaints). One recovered; the
+    other developed acute liver failure, had a liver transplant and died (case reports).'
+  severity: warning
+  reference_ids:
+  - REF-5179
+  status: verified
+- note: 'Not for babies or children: a 10-month-old baby given a home-made wormwood extract for a cold
+    developed severe diarrhoea and persistent metabolic acidosis (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5180
   status: verified
 references:
 - REF-0728
@@ -328,4 +347,25 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   thujone caution are rewritten from the EU monograph REF-3147 (1-1.5 g per infusion, 2-3 g a day;
   contraindicated in Asteraceae allergy and bile-duct or liver disease; not in pregnancy, lactation or
   under 18) and Grieve; dropped as unsourced: 0.5-1 g, 4 weeks, epilepsy, renal disease, the absinthe
-  remarks. REF-3147 added to the indigestion pair (traditional, no score change).'
+  remarks. REF-3147 added to the indigestion pair (traditional, no score change).
+  | 2026-11-24: symptom-source audit research-deepening batch 4 - Searched PubMed (Artemisia
+  absinthium tiab; absinthium, absinthe ti), Europe PMC, ClinicalTrials.gov (3, none on wormwood
+  alone) and OpenAlex. NEW pair depression: Hajatpour 2022 (Mashhad, triple-blind placebo RCT, 76
+  women with sexual dysfunction, DASS-21 depression fell; IJOGI, not in PubMed, abstract via
+  OpenAlex). Safety: two toxic-hepatitis cases 2026, one fatal after liver transplant (new
+  warning); infant poisoning case (new caution); warfarin GI-bleeding case, Naranjo 6 (new DRAFT
+  interaction, caution, needs owner sign-off). Considered, not added: knee-OA ointment/liniment
+  RCT (vs piroxicam only, no placebo), IgA nephropathy pilot (uncontrolled, 10 patients;
+  kidney-support would be a new pair and needs an RCT), Sharbat-e-Afsanteen liver-enzyme RCT in
+  alcoholics (J Herb Med 2023; no abstract retrievable), eye cream for dark circles (no vocab
+  condition), afsanteen + qust hepatitis B (combination), AKI case (three-herb mixture), absinthe
+  thujone attention study (spiked drinks), 13-week rat NOAEL study (no new claim), MSKCC (no
+  wormwood page, 404).'
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: An 82-year-old woman on warfarin was admitted with stomach and gut bleeding and a very high
+    INR after taking wormwood; the link was rated probable. This rests on a single case report.
+  reference_ids:
+  - REF-5181
+  status: draft

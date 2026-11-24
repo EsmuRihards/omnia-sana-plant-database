@@ -185,12 +185,10 @@ indications:
   reference_ids:
   - REF-3210
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: bloating
   note: inferred from digestive action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: cancer
   note: Artemisia vulgaris (mugwort) extracts inhibit BCR/ABL and induce apoptosis in chronic myeloid
     leukaemia cells (including imatinib-resistant), and trigger tumour-selective ferroptosis/necroptosis
@@ -206,23 +204,19 @@ indications:
   reference_ids:
   - REF-3126
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: inflammation
   note: Traditionally used for swollen tonsils (Grieve, A Modern Herbal)
   reference_ids:
   - REF-0098
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids: []
@@ -245,6 +239,12 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0063
+  status: verified
+- note: 'Thujone poisoning: a man was taken to hospital in a manic state after drinking 1 litre of mugwort
+    infusion, and thujone was found in his blood (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5182
   status: verified
 references:
 - REF-0731
@@ -354,4 +354,15 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   removed. The caution is rewritten to REF-3126 (not in pregnancy or breastfeeding; stop if allergic);
   ''contains thujone'', epilepsy and children were unsourced. The inflammation pair (swollen tonsils)
   is left on REF-0098 for owner review: on botanical.com that Culpepper passage sits on the Mugwort
-  page but reads as Culpepper''s Wormwood text (''Wormwood and vinegar are an antidote...'').'
+  page but reads as Culpepper''s Wormwood text (''Wormwood and vinegar are an antidote...'').
+  | 2026-11-24: symptom-source audit research-deepening batch 4 - Searched PubMed (Artemisia
+  vulgaris / mugwort tiab: 208 HT, 592 SAFE hits), Europe PMC, ClinicalTrials.gov (6) and
+  OpenAlex. Almost all hits are mugwort-pollen allergy (Art v 1, mugwort-celery-spice syndrome,
+  food cross-reactivity) or moxibustion. Neither is used: pollen sensitisation is not evidence
+  about taking the herb, and moxibustion trials test burning moxa on acupoints (often Artemisia
+  argyi), a procedure rather than the plant. Added: thujone poisoning after 1 L of mugwort
+  infusion, serum thujone confirmed (new caution). Considered, not added: mugwort lotion for burn
+  scars (letter, no abstract), EFSA 2019/2020 feed-additive opinions (animal feed; no consumer
+  concern), herbs-in-epilepsy review (no mugwort-specific statement in the abstract), Artemisia
+  vaginal cream vs clotrimazole (species not stated, active comparator only), MSKCC (no mugwort
+  page, 404).'

@@ -166,11 +166,13 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: An arnica gel was as effective as ibuprofen gel for hand osteoarthritis in a randomized trial;
+  note: An arnica gel was as effective as ibuprofen gel for hand osteoarthritis in a randomized trial,
+    and knee osteoarthritis scores improved with an arnica gel in an open trial without a comparison group;
     applied for rheumatic muscle and joint complaints (EU herbal monograph)
   reference_ids:
   - REF-0726
   - REF-3446
+  - REF-5175
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2101
@@ -178,11 +180,14 @@ indications:
   - REF-0398
 - condition: bruising
   note: Traditional topical remedy for bruises (EU herbal monograph, summarised in a review); a 20% arnica
-    ointment sped bruise healing in one randomized trial, but arnica gel, a 10% ointment and a systematic
-    review found no clear benefit
+    ointment sped bruise healing in one randomized trial and arnica cream reduced bruising after nose
+    surgery in two small randomized trials with untreated comparison, but arnica gel, a 10% ointment and
+    a systematic review found no clear benefit
   reference_ids:
   - REF-0726
   - REF-3442
+  - REF-5173
+  - REF-5183
   status: verified
   mechanistic_exclude_ids:
   - REF-0398
@@ -213,6 +218,21 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2105
+- condition: swelling
+  note: Arnica cream reduced swelling around the eyes after nose surgery in two small randomized trials
+    compared with no treatment; after wisdom-tooth surgery, topical arnica did not reduce swelling
+  reference_ids:
+  - REF-5173
+  - REF-5183
+  status: verified
+  null_result_ids:
+  - REF-5174
+- condition: pain
+  note: Added to standard pain relief, topical arnica reduced pain for the first 5 days after wisdom-tooth
+    surgery in a randomized trial without placebo
+  reference_ids:
+  - REF-5174
+  status: verified
 contraindications:
 - note: EXTERNAL USE ONLY on unbroken skin. Arnica is toxic if swallowed and can cause stomach pain, vomiting,
     diarrhoea, breathing difficulty, irregular heartbeat and, in serious cases, cardiac arrest; the only
@@ -221,6 +241,8 @@ contraindications:
   reference_ids:
   - REF-0400
   - REF-0398
+  - REF-5178
+  - REF-5186
   status: verified
 - note: Do not apply to broken or damaged skin, open wounds, eyes or mucous membranes.
   severity: caution
@@ -228,15 +250,23 @@ contraindications:
   - REF-0400
   status: verified
 - note: As a member of the daisy family (Asteraceae) it can cause allergic contact dermatitis; prolonged
-    topical use can also irritate the skin.
+    topical use can also irritate the skin. About 1 in 100 people in a clinic series of 443 patch tests
+    reacted to arnica, and 5 of 6 people already sensitised to arnica reacted to arnica-based products;
+    people allergic to sunflowers, marigolds or ragweed are likely to react.
   severity: info
   reference_ids:
   - REF-0398
+  - REF-5176
+  - REF-5177
+  - REF-5186
   status: verified
-- note: Avoid medicinal use during pregnancy and breastfeeding.
+- note: Avoid medicinal use during pregnancy and breastfeeding. A 9-day-old breastfed baby developed haemolytic
+    anaemia (breakdown of red blood cells) 48 hours after the mother began drinking arnica flower tea
+    (case cited by Memorial Sloan Kettering).
   severity: caution
   reference_ids:
   - REF-0400
+  - REF-5186
   status: verified
 references:
 - REF-0725
@@ -250,6 +280,7 @@ references:
 - REF-2104
 - REF-2105
 - REF-2106
+- REF-5186
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -298,4 +329,37 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   blepharoplasty RCT REF-3444 and the arnica/bromelain SR REF-3445 ("insufficient data") recorded
   as no-effect. Hand-OA RCT REF-3446 (arnica gel non-inferior to ibuprofen gel) added to
   arthritis. Homeopathic arnica trials not used (owner rule). Gap: topical arnica increased muscle
-  pain after eccentric exercise (20807867) - no muscle pair exists.'
+  pain after eccentric exercise (20807867) - no muscle pair exists.
+  | 2026-11-24: symptom-source audit research-deepening batch 4 - Searched PubMed (Arnica montana
+  tiab, arnica ti), Europe PMC, ClinicalTrials.gov (33) and OpenAlex. Most arnica trials are
+  homeopathic dilutions (12CH, D4, D12, D30, Boiron/Alpine pellets, SinEcch) and are not used
+  (owner rule); topical creams, gels and ointments count as plant evidence (inv. 11
+  mother-tincture rule). Added: Simsek 2016 rhinoplasty RCT (arnica cream vs no treatment, less
+  ecchymosis and faster oedema regression) and Grigg 2026 split-face septorhinoplasty RCT (Aust J
+  Otolaryngol, found via OpenAlex) to bruising; both make a NEW swelling pair, with Akay 2024
+  (third-molar RCT, arnica did not reduce oedema) recorded as no-effect; Akay 2024 also makes a
+  NEW pain pair (lower VAS to day 5 vs standard therapy alone; open, no placebo). Knuesel 2002
+  open knee-OA gel trial to arthritis. Safety: Reider 2001 patch tests (1.13% of 443) and Paulsen
+  2008 (5/6 arnica-sensitive positive to arnica products) to the Asteraceae allergy note; CIR 2001
+  safety assessment (ingestion: gastroenteritis, fast heart rate, muscular weakness, death) and
+  MSKCC About Herbs (REF-5186, read 2026-11-24) to the oral-toxicity note; MSKCC neonatal
+  haemolysis case to the pregnancy/breastfeeding caution; new DRAFT interaction with
+  anticoagulants/antiplatelets (insufficient, needs owner sign-off). NOT ADDED - muscle-soreness:
+  Pumpa 2014 RCT (n=20, less pain 72 h after downhill running) conflicts with Adkison 2010 RCT
+  (n=53, arnica cream INCREASED leg pain at 24 h); left out as conflicting, flagged for owner.
+  Infection: Robledo 2025 phase Ib/II arnica tincture healed cutaneous leishmaniasis in 12/12
+  completers, but it is applied to ulcers and the record forbids broken skin (inv. 12d). Also not
+  added: 2026 Cureus SR and 2026 facial-surgery SR (pool homeopathic and topical forms), 2025
+  eyelid-surgery SR (same mix; no benefit), arnica + hydroxyethyl salicylate spray (arnica-alone
+  arm not tested against placebo in the abstract), carpal-tunnel trial (homeopathic tablets plus
+  ointment), umbilical Arnica-Echinacea powder, menthol mud pack and other combinations, LiverTox
+  and LactMed arnica pages (NCBI bot check blocked the fetch).'
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: insufficient
+  mechanism: Arnica's helenalin inhibits platelets in laboratory tests, and Memorial Sloan Kettering notes
+    that arnica may add to the effect of warfarin and other blood thinners; the clinical relevance is
+    not known, and arnica is meant for use on unbroken skin only.
+  reference_ids:
+  - REF-5186
+  status: draft

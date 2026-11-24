@@ -1,0 +1,20 @@
+plant	condition	ref	op
+arctium_minus	references	REF-5185	refadd
+arnica_montana	bruising	REF-5173	add
+arnica_montana	bruising	REF-5183	add
+arnica_montana	bruising	-	note
+arnica_montana	arthritis	REF-5175	add
+arnica_montana	arthritis	-	note
+arnica_montana	swelling	REF-5173,REF-5183	newpair
+arnica_montana	swelling	REF-5174	nulladd
+arnica_montana	pain	REF-5174	newpair
+arnica_montana	references	REF-5186	refadd
+artemisia_absinthium	depression	REF-5184	newpair
+arctostaphylos_uva_ursi	cinew	Long-term use: a woman who took uva ursi	REF-5171
+arctostaphylos_uva_ursi	dcinew	cyp3a4-substrates	REF-5172
+arnica_montana	ciadd	EXTERNAL USE ONLY on unbroken skin	REF-5178,REF-5186
+arnica_montana	dcinew	anticoagulants-antiplatelets	REF-5186
+artemisia_absinthium	cinew	Liver injury: two people developed toxic	REF-5179
+artemisia_absinthium	cinew	Not for babies or children: a 10-month-o	REF-5180
+artemisia_absinthium	dcinew	anticoagulants-antiplatelets	REF-5181
+artemisia_vulgaris	cinew	Thujone poisoning: a man was taken to ho	REF-5182

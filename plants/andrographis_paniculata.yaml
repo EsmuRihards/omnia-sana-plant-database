@@ -318,13 +318,18 @@ contraindications:
   - REF-0393
   status: verified
 - note: May lower blood pressure and blood sugar and may interact with anticoagulant/antiplatelet, antihypertensive
-    and immunosuppressant medicines; allergic reactions can occur.
+    and immunosuppressant medicines; allergic reactions can occur, including an anaphylactic reaction
+    in one person in a dose-escalating trial of purified andrographolide, which was stopped early because
+    of side effects. In 10 healthy volunteers, one day of andrographis did not significantly change platelet
+    function.
   severity: caution
   reference_ids:
   - REF-0395
   - REF-0393
   - REF-5151
   - REF-5152
+  - REF-5169
+  - REF-5170
   status: verified
 - note: Small rises in the liver enzyme ALT were linked to andrographis use in a survey of Thai patients,
     and mild liver-enzyme elevations were the main side effect in COVID-19 trials; a real-world COVID-19
@@ -414,4 +419,12 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLo
   (disability, not fatigue), RA RCT (within-group changes only). Not added: Kan Jang and
   ImmunoGuard (with Eleutherococcus), andrographolide sulfonate / Xiyanping injections (derivative
   drugs), malaria open trial, CYP review (data insufficient), allergic-reaction letter 2026 (no
-  abstract).'
+  abstract).
+  | 2026-11-24: symptom-source audit research-deepening batch 4 - Batch-3 Europe PMC sweep (read
+  after the batch-3 commit): added the platelet study in 10 healthy Thai volunteers (no
+  significant change in platelet aggregation, COX-1, TXB2 or P-selectin) and the Calabrese 2000
+  phase I andrographolide trial (stopped at 6 weeks for adverse events including one anaphylactic
+  reaction) to the BP/sugar/interaction caution, whose text now says so. Not added: oesophageal
+  cancer phase II (compares completers with non-completers, so survival bias), malaria open trial,
+  AS201-01 4-day safety RCT (no new claim), prediabetes GLP-1 preprint (not peer reviewed), Kan
+  Jang and other combinations.'

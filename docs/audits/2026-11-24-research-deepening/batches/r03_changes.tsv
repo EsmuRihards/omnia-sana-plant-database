@@ -1,0 +1,42 @@
+plant	condition	ref	op
+althaea_officinalis	cough	REF-5132	add
+althaea_officinalis	cough	REF-5133	add
+althaea_officinalis	cough	-	note
+althaea_officinalis	oral-health	REF-5134	newpair
+althaea_officinalis	eczema	REF-5136	add
+althaea_officinalis	eczema	-	note
+althaea_officinalis	references	REF-5135,REF-5137,REF-5138	refadd
+andrographis_paniculata	cold	REF-5139	add
+andrographis_paniculata	cold	REF-5140	add
+andrographis_paniculata	sore-throat	REF-5139	add
+andrographis_paniculata	infection	REF-5141	add
+andrographis_paniculata	infection	REF-5142	add
+andrographis_paniculata	infection	REF-5143	add
+andrographis_paniculata	infection	REF-5144	nulladd
+andrographis_paniculata	infection	REF-5145	nulladd
+andrographis_paniculata	infection	REF-5146	nulladd
+andrographis_paniculata	infection	-	note
+andrographis_paniculata	ibd	REF-5147	nulladd
+andrographis_paniculata	ibd	-	note
+andrographis_paniculata	references	REF-5153,REF-5154	refadd
+anethum_graveolens	skin-irritation	REF-5155	add
+anethum_graveolens	skin-irritation	-	note
+anethum_graveolens	skin-irritation	-	status=verified
+anethum_graveolens	pregnancy-support	REF-5156,REF-5157	newpair
+anethum_graveolens	metabolic-support	REF-5158	nulladd
+anethum_graveolens	metabolic-support	-	note
+anethum_graveolens	action:anti-inflammatory	REF-1391	arm
+anethum_graveolens	action:anti-inflammatory	REF-0174	arm
+anethum_graveolens	action:antimicrobial	REF-1391	arm
+anethum_graveolens	action:antimicrobial	REF-0174	arm
+anethum_graveolens	action:antioxidant	REF-0174	arm
+anethum_graveolens	action:digestive	REF-0174	arm
+anethum_graveolens	action:diuretic	REF-1391	arm
+anethum_graveolens	action:diuretic	REF-0174	arm
+anethum_graveolens	references	REF-0210,REF-5160,REF-5161	refadd
+arctium_lappa	references	REF-0211,REF-5168	refadd
+andrographis_paniculata	cinew	Small rises in the liver enzyme ALT were	REF-5149,REF-5142,REF-5150
+andrographis_paniculata	cinew	Most serious reactions on record, includ	REF-5148
+andrographis_paniculata	ciadd	May lower blood pressure and blood sugar	REF-5151,REF-5152
+anethum_graveolens	ciadd	Widely used as a food herb	REF-5159
+arctium_lappa	ciadd	Generally safe as a food plant	REF-5162,REF-5163,REF-5164,REF-5165,REF-5166,REF-5167

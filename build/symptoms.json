@@ -1257,7 +1257,7 @@
     {
      "condition": "cold",
      "label": "Cold & flu",
-     "evidence": 9,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
@@ -1265,7 +1265,25 @@
       "REF-0393",
       "REF-0395",
       "REF-1622",
-      "REF-3429"
+      "REF-3429",
+      "REF-5139",
+      "REF-5140"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 10,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0392",
+      "REF-0393",
+      "REF-0395",
+      "REF-1622",
+      "REF-5141",
+      "REF-5142",
+      "REF-5143"
      ]
     },
     {
@@ -1277,20 +1295,8 @@
      "references": [
       "REF-0392",
       "REF-1615",
-      "REF-3433"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 8,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0392",
-      "REF-0393",
-      "REF-0395",
-      "REF-1622"
+      "REF-3433",
+      "REF-5139"
      ]
     },
     {
@@ -6013,6 +6019,17 @@
      ]
     },
     {
+     "condition": "pregnancy-support",
+     "label": "Pregnancy support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5156",
+      "REF-5157"
+     ]
+    },
+    {
      "condition": "anxiety",
      "label": "Anxiety",
      "evidence": 5,
@@ -6030,6 +6047,16 @@
      "inferred": true,
      "references": [
       "REF-3437"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5155"
      ]
     },
     {
@@ -6080,14 +6107,6 @@
      "references": [
       "REF-3094"
      ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     },
     {
      "condition": "urinary-support",
@@ -10889,11 +10908,12 @@
     {
      "condition": "eczema",
      "label": "Eczema",
-     "evidence": 5,
+     "evidence": 6,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-1373"
+      "REF-1373",
+      "REF-5136"
      ]
     },
     {
@@ -10907,6 +10927,16 @@
      ]
     },
     {
+     "condition": "oral-health",
+     "label": "Oral & throat health",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5134"
+     ]
+    },
+    {
      "condition": "skin-irritation",
      "label": "Skin irritation",
      "evidence": 5,
@@ -10914,6 +10944,22 @@
      "inferred": true,
      "references": [
       "REF-1373"
+     ]
+    },
+    {
+     "condition": "cough",
+     "label": "Cough",
+     "evidence": 3,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0481",
+      "REF-0482",
+      "REF-0578",
+      "REF-0579",
+      "REF-1368",
+      "REF-5132",
+      "REF-5133"
      ]
     },
     {
@@ -10925,20 +10971,6 @@
      "references": [
       "REF-1371",
       "REF-1369"
-     ]
-    },
-    {
-     "condition": "cough",
-     "label": "Cough",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0481",
-      "REF-0482",
-      "REF-0578",
-      "REF-0579",
-      "REF-1368"
      ]
     },
     {

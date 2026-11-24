@@ -154,21 +154,25 @@ indications:
   - REF-1369
   status: needs-review
 - condition: cough
-  note: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
-    the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation;
-    Demulcent for irritation of the mouth or throat and associated dry cough (mucilage coats and soothes)
+  note: Demulcent antitussive for dry, irritating cough (EU herbal monograph; ESCOP); most users of an
+    aqueous marshmallow root extract reported rapid relief of dry cough in two pharmacy surveys, supported
+    by a 2023 review; in animal studies the root rhamnogalacturonan suppresses the cough reflex
   reference_ids:
   - REF-0481
   - REF-0482
   - REF-0578
   - REF-0579
   - REF-1368
+  - REF-5132
+  - REF-5133
   status: verified
 - condition: eczema
   note: A 1% marshmallow ointment reduced atopic dermatitis severity more than 1% hydrocortisone in a
-    small double-blind trial in children
+    small double-blind trial in children; in adults, a liposomal marshmallow flower extract matched a
+    topical steroid after 4 weeks in a double-blind trial
   reference_ids:
   - REF-1373
+  - REF-5136
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0482
@@ -199,6 +203,12 @@ indications:
   reference_ids:
   - REF-1376
   status: verified
+- condition: oral-health
+  note: A mouthwash containing marshmallow root extract improved chemotherapy-induced mouth sores (stomatitis)
+    more than the routine mouthwash in a double-blind randomized trial
+  reference_ids:
+  - REF-5134
+  status: verified
 contraindications:
 - note: Very well tolerated. The mucilage can slow the absorption of other medicines, so take other drugs
     about an hour before or after marshmallow.
@@ -223,6 +233,9 @@ references:
 - REF-1374
 - REF-1375
 - REF-1376
+- REF-5135
+- REF-5137
+- REF-5138
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -261,4 +274,19 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-1377 (''Berry J. 1884,
   Althaea officinalis, The Hospital 1(6):85-6'') is not findable as cited; the only match is Berry FC
   1884, ''Althaea Officinalis'', The Homoeopathic Physician 4(6):156 (PMID 37134800), a homeopathy
-  journal note. Removed from the references and deleted.'
+  journal note. Removed from the references and deleted.
+  | 2026-11-24: symptom-source audit research-deepening batch 3 - Searched PubMed (Althaea
+  officinalis / marshmallow root / marsh mallow / Althaeae radix tiab), Europe PMC,
+  ClinicalTrials.gov (2: an infant reflux alginate and an Ectoin + althaea honey spray - both
+  combinations) and OpenAlex (found the Iranian trials). NEW pair oral-health: Kashan double-blind
+  RCT 2016 (stomatitis severity, Nurs Midwifery Stud 2019, REF-5134); its companion paper on the
+  same 50 patients (pain, J Client-Centered Nurs Care 2018, REF-5135) is bucketed, not counted
+  twice. Cough: STW42 pharmacy surveys (822 users) and Kelber 2023 Planta Med review (congress
+  abstract, so narrative-review). The ACE-inhibitor cough placebo RCT (Rouhi 2007, Pakistan J
+  Nutr, doi 10.3923/pjn.2007.256.258) is cited only through that review: its publisher (ANSI) is
+  on Beall''s list of potentially predatory publishers. Eczema: liposomal flower-extract
+  split-body RCT vs steroid (Clin Phytoscience 2021). Bucket: hollyhock (Althaea officinalis) leaf
+  compress add-on RCT for breast engorgement (not a lactation-support claim), chromium-impurity
+  risk assessment of Polish syrups (all far below limits). Not added: BNO 1030, Pedicough
+  mouthwash, saliva substitutes and other combinations; animal/horse "marsh mallow" toxicosis
+  (that is Malva parviflora).'

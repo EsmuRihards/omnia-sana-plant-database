@@ -201,6 +201,8 @@ indications:
   - REF-0395
   - REF-1622
   - REF-3429
+  - REF-5139
+  - REF-5140
   status: verified
   null_result_ids:
   - REF-3430
@@ -219,14 +221,23 @@ indications:
   - REF-0393
   - REF-0394
 - condition: infection
-  note: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom
-    severity and duration)
+  note: Symptomatic relief of the common cold and acute upper respiratory infections (systematic reviews);
+    in COVID-19, a network meta-analysis found andrographis extract probably reduced progression to severe
+    disease and a pilot add-on trial was positive, but two placebo-controlled trials and a cohort study
+    found no clear benefit
   reference_ids:
   - REF-0392
   - REF-0393
   - REF-0395
   - REF-1622
+  - REF-5141
+  - REF-5142
+  - REF-5143
   status: verified
+  null_result_ids:
+  - REF-5144
+  - REF-5145
+  - REF-5146
 - condition: inflammation
   note: Andrographolide reduced inflammation in lab and animal studies (review); listed for inflammation
     by MSKCC About Herbs
@@ -251,6 +262,7 @@ indications:
   - REF-0392
   - REF-1615
   - REF-3433
+  - REF-5139
   status: verified
   note: An Andrographis spray relieved acute viral sore throat faster than a comparator spray, and the
     oral herb matched paracetamol for sore throat in an older trial (randomized trials)
@@ -265,11 +277,14 @@ indications:
   - REF-0394
 - condition: ibd
   note: An Andrographis extract (HMPL-004) gave more clinical responses than placebo in mild-to-moderate
-    ulcerative colitis and was comparable to mesalazine in a second trial
+    ulcerative colitis and was comparable to mesalazine in a second trial, but a 2024 meta-analysis of
+    the placebo-controlled trials found no significant benefit for response or remission
   reference_ids:
   - REF-3427
   - REF-3428
   status: verified
+  null_result_ids:
+  - REF-5147
 - condition: fatigue
   note: Reduced fatigue vs placebo in a 12-month pilot trial in people with relapsing-remitting multiple
     sclerosis
@@ -308,6 +323,24 @@ contraindications:
   reference_ids:
   - REF-0395
   - REF-0393
+  - REF-5151
+  - REF-5152
+  status: verified
+- note: Small rises in the liver enzyme ALT were linked to andrographis use in a survey of Thai patients,
+    and mild liver-enzyme elevations were the main side effect in COVID-19 trials; a real-world COVID-19
+    study found no rise with it. Stop and seek advice if signs of liver problems appear.
+  severity: caution
+  reference_ids:
+  - REF-5149
+  - REF-5142
+  - REF-5150
+  status: verified
+- note: Most serious reactions on record, including allergic reactions, involve injectable andrographolide-derived
+    drugs used in China (adverse reactions in about 4-5% of treated patients); herbal preparations of
+    the plant taken by mouth had a better safety record in a systematic review.
+  severity: info
+  reference_ids:
+  - REF-5148
   status: verified
 references:
 - REF-1615
@@ -319,6 +352,8 @@ references:
 - REF-1621
 - REF-1622
 - REF-1623
+- REF-5153
+- REF-5154
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -365,4 +400,18 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLo
   high-cholesterol pair), 1991 pharyngotonsillitis RCT REF-3433 (sore-throat, fever), Wagner 2015
   herbal-cough MA REF-3434 (new cough pair; "strong evidence for A. paniculata"). Not added: Kan
   Jang/ImmunoGuard trials (fixed combination with Eleutherococcus), 2009 RA trial 19408036
-  (within-group changes only).'
+  (within-group changes only).
+  | 2026-11-24: symptom-source audit research-deepening batch 3 - Searched PubMed (Andrographis
+  paniculata / andrographis tiab; Kalmegh / andrographolide ti), Europe PMC, ClinicalTrials.gov
+  (28) and OpenAlex. Added: Caceres 1999 SHA-10 cold RCT (cold, sore throat), 2026 Bio-Immune
+  andrographolide URTI RCT (cold; signature-compound evidence), COVID evidence to infection (TCIM
+  NMA 2026 and 2025 SR positive; CIM-MEG19 pilot; placebo RCT 2023, favipiravir add-on RCT and
+  Thai cohort recorded as no-effect). IBD: 2024 herbal UC MA (AP RR 0.95 for response, 1.31 for
+  remission, both NS) recorded as no-effect. Safety: ALT rise in a Thai survey, COVID-trial
+  liver-enzyme elevations vs a null real-world study (new caution); SR showing ADRs concentrate in
+  injectable andrographolide derivatives (new info); transient BP drop in healthy volunteers and
+  HbA1c/insulin fall in an open diabetes study to the BP/sugar caution. Bucket: progressive-MS RCT
+  (disability, not fatigue), RA RCT (within-group changes only). Not added: Kan Jang and
+  ImmunoGuard (with Eleutherococcus), andrographolide sulfonate / Xiyanping injections (derivative
+  drugs), malaria open trial, CYP review (data insufficient), allergic-reaction letter 2026 (no
+  abstract).'

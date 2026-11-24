@@ -244,12 +244,19 @@ indications:
   - REF-0705
   - REF-0709
 contraindications:
-- note: Generally safe as a food plant. Allergic reactions are possible in those sensitive to Asteraceae.
-    Avoid in pregnancy due to uterine-stimulating effects reported in animal studies. The burs (seed heads)
-    can cause mechanical irritation of skin and eyes on contact. Not recommended in biliary obstruction.
+- note: 'Generally safe as a food plant. Allergic contact dermatitis and anaphylaxis have been reported,
+    and people allergic to chrysanthemums may cross-react. Some commercial burdock root teas have been
+    contaminated with atropine from belladonna, causing anticholinergic poisoning. Acute liver injury
+    was reported after a "liver detox" tea that combined burdock root with five other herbs. Avoid in
+    pregnancy: burdock may stimulate the uterus.'
   severity: caution
   reference_ids:
-  - REF-0211
+  - REF-5162
+  - REF-5163
+  - REF-5164
+  - REF-5165
+  - REF-5166
+  - REF-5167
   status: verified
 - note: 'Duke (2002) rates burdock as +++ and notes antibacterial, antimutagenic, antitumor, choleretic,
     diuretic, and prebiotic (bifidogenic) activities at the experimental level (score 1). The root is
@@ -260,7 +267,6 @@ contraindications:
     growth (Duke, 2002).'
   severity: info
   reference_ids:
-  - REF-0211
   - REF-0063
   status: verified
 references:
@@ -275,6 +281,8 @@ references:
 - REF-2342
 - REF-2343
 - REF-0706
+- REF-0211
+- REF-5168
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -356,4 +364,17 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   vol. 2: no burdock monograph) and REF-0313 (unlocatable; deleted) purged from the actions too.
   Held review REF-2339 (anti-rheumatic) moved to direct for arthritis. Knee-OA RCT REF-3440 (root
   tea lowered CRP/IL-6; no pain outcome) added to arthritis and inflammation; PCOS RCT REF-3441 to
-  inflammation. REF-0707 retagged narrative-review.'
+  inflammation. REF-0707 retagged narrative-review.
+  | 2026-11-24: symptom-source audit research-deepening batch 3 - Searched PubMed ("Arctium lappa"
+  OR burdock tiab), Europe PMC, ClinicalTrials.gov (7) and OpenAlex. SAFETY: the caution cited
+  only the POWO taxon page REF-0211, which states nothing about safety; rewritten from MSKCC About
+  Herbs Burdock (REF-5162, read 2026-11-24; NCCIH has no burdock page, 404) with the case reports
+  it corroborates (anaphylaxis, contact dermatitis, atropine-contaminated tea poisoning 1978/1984,
+  detox-tea liver injury). Dropped as unsourced: "burs cause mechanical irritation" and "not
+  recommended in biliary obstruction". POWO moved to references; removed from the Duke note too.
+  Bucket: open RCT of burdock tea preventing recurrence of colonic diverticulitis (no vocab
+  condition; no effect on diverticular bleeding). Not added: "Burdock complex" H. pylori RCT
+  (composition not given), burdock + aqua-exercise RCTs in elderly women (no burdock-alone vs
+  placebo contrast), fruit-extract skin-ageing RCT, Essiac, Menohelp, GBS-01 phase I
+  (arctigenin-rich fruit extract, cancer, safety only), yellow dock + burdock tea thrombocytopenia
+  case (two herbs).'

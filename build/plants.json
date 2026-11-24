@@ -4661,29 +4661,32 @@
     },
     {
      "condition": "cough",
-     "note": "Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation; Demulcent for irritation of the mouth or throat and associated dry cough (mucilage coats and soothes)",
+     "note": "Demulcent antitussive for dry, irritating cough (EU herbal monograph; ESCOP); most users of an aqueous marshmallow root extract reported rapid relief of dry cough in two pharmacy surveys, supported by a 2023 review; in animal studies the root rhamnogalacturonan suppresses the cough reflex",
      "reference_ids": [
       "REF-0481",
       "REF-0482",
       "REF-0578",
       "REF-0579",
-      "REF-1368"
+      "REF-1368",
+      "REF-5132",
+      "REF-5133"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 3,
      "label": "Cough"
     },
     {
      "condition": "eczema",
-     "note": "A 1% marshmallow ointment reduced atopic dermatitis severity more than 1% hydrocortisone in a small double-blind trial in children",
+     "note": "A 1% marshmallow ointment reduced atopic dermatitis severity more than 1% hydrocortisone in a small double-blind trial in children; in adults, a liposomal marshmallow flower extract matched a topical steroid after 4 weeks in a double-blind trial",
      "reference_ids": [
-      "REF-1373"
+      "REF-1373",
+      "REF-5136"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0482"
      ],
-     "evidence": 5,
+     "evidence": 6,
      "label": "Eczema"
     },
     {
@@ -4731,6 +4734,16 @@
      "status": "verified",
      "evidence": 5,
      "label": "Infection (general)"
+    },
+    {
+     "condition": "oral-health",
+     "note": "A mouthwash containing marshmallow root extract improved chemotherapy-induced mouth sores (stomatitis) more than the routine mouthwash in a double-blind randomized trial",
+     "reference_ids": [
+      "REF-5134"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Oral & throat health"
     }
    ],
    "contraindications": [
@@ -4761,7 +4774,10 @@
     "REF-1373",
     "REF-1374",
     "REF-1375",
-    "REF-1376"
+    "REF-1376",
+    "REF-5135",
+    "REF-5137",
+    "REF-5138"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -5022,13 +5038,15 @@
       "REF-0393",
       "REF-0395",
       "REF-1622",
-      "REF-3429"
+      "REF-3429",
+      "REF-5139",
+      "REF-5140"
      ],
      "status": "verified",
      "null_result_ids": [
       "REF-3430"
      ],
-     "evidence": 9,
+     "evidence": 10,
      "label": "Cold & flu"
     },
     {
@@ -5058,15 +5076,23 @@
     },
     {
      "condition": "infection",
-     "note": "Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom severity and duration)",
+     "note": "Symptomatic relief of the common cold and acute upper respiratory infections (systematic reviews); in COVID-19, a network meta-analysis found andrographis extract probably reduced progression to severe disease and a pilot add-on trial was positive, but two placebo-controlled trials and a cohort study found no clear benefit",
      "reference_ids": [
       "REF-0392",
       "REF-0393",
       "REF-0395",
-      "REF-1622"
+      "REF-1622",
+      "REF-5141",
+      "REF-5142",
+      "REF-5143"
      ],
      "status": "verified",
-     "evidence": 8,
+     "null_result_ids": [
+      "REF-5144",
+      "REF-5145",
+      "REF-5146"
+     ],
+     "evidence": 10,
      "label": "Infection (general)"
     },
     {
@@ -5103,7 +5129,8 @@
      "reference_ids": [
       "REF-0392",
       "REF-1615",
-      "REF-3433"
+      "REF-3433",
+      "REF-5139"
      ],
      "status": "verified",
      "note": "An Andrographis spray relieved acute viral sore throat faster than a comparator spray, and the oral herb matched paracetamol for sore throat in an older trial (randomized trials)",
@@ -5126,12 +5153,15 @@
     },
     {
      "condition": "ibd",
-     "note": "An Andrographis extract (HMPL-004) gave more clinical responses than placebo in mild-to-moderate ulcerative colitis and was comparable to mesalazine in a second trial",
+     "note": "An Andrographis extract (HMPL-004) gave more clinical responses than placebo in mild-to-moderate ulcerative colitis and was comparable to mesalazine in a second trial, but a 2024 meta-analysis of the placebo-controlled trials found no significant benefit for response or remission",
      "reference_ids": [
       "REF-3427",
       "REF-3428"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-5147"
+     ],
      "evidence": 6,
      "label": "Inflammatory bowel disease (IBD)"
     },
@@ -5189,7 +5219,27 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0395",
-      "REF-0393"
+      "REF-0393",
+      "REF-5151",
+      "REF-5152"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Small rises in the liver enzyme ALT were linked to andrographis use in a survey of Thai patients, and mild liver-enzyme elevations were the main side effect in COVID-19 trials; a real-world COVID-19 study found no rise with it. Stop and seek advice if signs of liver problems appear.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5149",
+      "REF-5142",
+      "REF-5150"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Most serious reactions on record, including allergic reactions, involve injectable andrographolide-derived drugs used in China (adverse reactions in about 4-5% of treated patients); herbal preparations of the plant taken by mouth had a better safety record in a systematic review.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5148"
      ],
      "status": "verified"
     }
@@ -5203,7 +5253,9 @@
     "REF-1620",
     "REF-1621",
     "REF-1622",
-    "REF-1623"
+    "REF-1623",
+    "REF-5153",
+    "REF-5154"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -5383,8 +5435,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-1391",
-      "REF-0174",
       "REF-3094",
       "REF-1392"
      ],
@@ -5402,8 +5452,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-1391",
-      "REF-0174",
       "REF-3094",
       "REF-1394",
       "REF-1396",
@@ -5415,7 +5463,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-1391",
-      "REF-0174",
       "REF-3094",
       "REF-1388",
       "REF-1392",
@@ -5427,7 +5474,6 @@
      "action": "digestive",
      "reference_ids": [
       "REF-1391",
-      "REF-0174",
       "REF-3094"
      ],
      "status": "verified"
@@ -5435,9 +5481,24 @@
     {
      "action": "diuretic",
      "reference_ids": [
-      "REF-1391",
-      "REF-0174",
       "REF-3094"
+     ],
+     "status": "verified"
+    },
+    {
+     "action": "lipid-lowering",
+     "reference_ids": [
+      "REF-0174",
+      "REF-3435",
+      "REF-1391"
+     ],
+     "status": "verified"
+    },
+    {
+     "action": "antidiabetic",
+     "reference_ids": [
+      "REF-0174",
+      "REF-1391"
      ],
      "status": "verified"
     }
@@ -5449,8 +5510,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1391",
-      "REF-0174",
       "REF-3094"
      ],
      "evidence": 1,
@@ -5464,8 +5523,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1391",
-      "REF-0174"
+      "REF-1391"
      ],
      "evidence": 1,
      "label": "Bloating"
@@ -5504,8 +5562,7 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1391",
-      "REF-0174"
+      "REF-1391"
      ],
      "evidence": 1,
      "label": "Indigestion"
@@ -5518,8 +5575,6 @@
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-1391",
-      "REF-0174",
       "REF-1396",
       "REF-1397",
       "REF-3094"
@@ -5534,9 +5589,6 @@
       "REF-3094"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-0174"
-     ],
      "null_result_ids": [
       "REF-1391"
      ],
@@ -5550,21 +5602,24 @@
       "REF-0174"
      ],
      "status": "verified",
-     "note": "Dill improved insulin resistance and LDL cholesterol in a meta-analysis of randomized trials, and glycaemic control in a trial in type 2 diabetes",
+     "note": "Dill improved insulin resistance and LDL cholesterol in a meta-analysis of randomized trials, and glycaemic control in a trial in type 2 diabetes; a 12-week trial in metabolic syndrome found no difference from placebo",
+     "null_result_ids": [
+      "REF-5158"
+     ],
      "evidence": 8,
      "label": "Metabolic support"
     },
     {
      "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
-     "status": "needs-review",
+     "note": "Dill oil reduced itching (pruritus) more than placebo in a double-blind randomized trial in people on haemodialysis",
+     "reference_ids": [
+      "REF-5155"
+     ],
+     "status": "verified",
      "mechanistic_exclude_ids": [
-      "REF-1391",
-      "REF-0174",
       "REF-3094"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Skin irritation"
     },
     {
@@ -5574,10 +5629,6 @@
       "REF-3094"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [
-      "REF-1391",
-      "REF-0174"
-     ],
      "evidence": 1,
      "label": "Urinary support"
     },
@@ -5604,17 +5655,26 @@
      "status": "verified",
      "evidence": 5,
      "label": "Anxiety"
+    },
+    {
+     "condition": "pregnancy-support",
+     "note": "Boiled dill seed shortened the stages of labour in a systematic review of two randomized trials and two cohort studies and in a randomized trial; for use only alongside maternity care",
+     "reference_ids": [
+      "REF-5156",
+      "REF-5157"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Pregnancy support"
     }
    ],
    "contraindications": [
     {
-     "note": "Widely used as a food herb/spice; WHO monograph notes a “generally regarded as safe” status as a flavouring agent (World Health Organization, 2007). Allergic reactions (including oral itching, swelling, urticaria, vomiting/diarrhoea) are reported; avoid if you react to Apiaceae-family plants (World Health Organization, 2007; Egyptian Drug Authority, n.d.).",
+     "note": "Widely used as a food herb/spice; WHO monograph notes a \"generally regarded as safe\" status as a flavouring agent (World Health Organization, 2007). Allergic reactions (including oral itching, swelling, urticaria, vomiting/diarrhoea) are reported; avoid if you react to Apiaceae-family plants (World Health Organization, 2007).",
      "severity": "caution",
      "reference_ids": [
-      "REF-1391",
-      "REF-0174",
-      "REF-0210",
-      "REF-3094"
+      "REF-3094",
+      "REF-5159"
      ],
      "status": "verified"
     },
@@ -5622,9 +5682,6 @@
      "note": "Duke (2002) provides clinical evidence (score 2) for dill's antibacterial and antispasmodic activities, consistent with Commission E and PhEur approvals. Traditional uses include management of colic, dyspepsia, and flatulence. The plant is a well-documented lactagogue (promotes milk production) and has a mild hypotensive effect. Dose: 1–3 g seeds as tea three times daily. Dill is generally safe (++) with no known significant contraindications at culinary and medicinal doses (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-1391",
-      "REF-0174",
-      "REF-0210",
       "REF-3094",
       "REF-0063"
      ],
@@ -5641,7 +5698,10 @@
     "REF-1394",
     "REF-1395",
     "REF-1396",
-    "REF-1397"
+    "REF-1397",
+    "REF-0210",
+    "REF-5160",
+    "REF-5161"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",
@@ -6563,10 +6623,15 @@
    ],
    "contraindications": [
     {
-     "note": "Generally safe as a food plant. Allergic reactions are possible in those sensitive to Asteraceae. Avoid in pregnancy due to uterine-stimulating effects reported in animal studies. The burs (seed heads) can cause mechanical irritation of skin and eyes on contact. Not recommended in biliary obstruction.",
+     "note": "Generally safe as a food plant. Allergic contact dermatitis and anaphylaxis have been reported, and people allergic to chrysanthemums may cross-react. Some commercial burdock root teas have been contaminated with atropine from belladonna, causing anticholinergic poisoning. Acute liver injury was reported after a \"liver detox\" tea that combined burdock root with five other herbs. Avoid in pregnancy: burdock may stimulate the uterus.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0211"
+      "REF-5162",
+      "REF-5163",
+      "REF-5164",
+      "REF-5165",
+      "REF-5166",
+      "REF-5167"
      ],
      "status": "verified"
     },
@@ -6574,7 +6639,6 @@
      "note": "Duke (2002) rates burdock as +++ and notes antibacterial, antimutagenic, antitumor, choleretic, diuretic, and prebiotic (bifidogenic) activities at the experimental level (score 1). The root is rich in inulin (a prebiotic fructooligosaccharide), which promotes growth of beneficial intestinal bacteria. Dose: 1–2 g dried root in tea three times daily, or 2–4 ml of tincture. Duke notes burdock's general safety, though it belongs to the Asteraceae family and can trigger reactions in sensitive individuals. It should be distinguished from belladonna and similar plants, which resemble it in early growth (Duke, 2002).",
      "severity": "info",
      "reference_ids": [
-      "REF-0211",
       "REF-0063"
      ],
      "status": "verified"
@@ -6591,7 +6655,9 @@
     "REF-2341",
     "REF-2342",
     "REF-2343",
-    "REF-0706"
+    "REF-0706",
+    "REF-0211",
+    "REF-5168"
    ],
    "lookalikes_review": {
     "outcome": "has-lookalikes",

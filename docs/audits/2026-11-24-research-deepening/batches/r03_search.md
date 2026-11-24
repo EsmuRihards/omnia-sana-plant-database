@@ -1,0 +1,1047 @@
+# Research-deepening batch 3 - search
+
+## althaea-officinalis (Althaea officinalis) - name clause: "Althaea officinalis"[tiab] OR "marshmallow root"[tiab] OR "marsh mallow"[tiab] OR "marsh-mallow"[tiab] OR "Althaeae radix"[tiab]
+
+### PubMed HT - 13 hits, 13 not already listed above, 11 new
+- new | 2026 | 42196994 | Review | A Review of the Properties of Clinically Evaluated Plant-Derived Agents in the Treatment of Respiratory Infections. | Nutrients
+- new | 2026 | 42253835 |  | Effect of an Herbal Mouthwash Derived from Pedicough Syrup on Plaque, Gingival and Bleeding Indices in Patients with Gingivitis: A Randomized Controlled Trial. | J Dent (Shiraz)
+- new | 2026 | 42688674 |  | A scientometric study on the characteristics of herbal medicine and identification of herbaceous agents for treatment of periodontal diseases. | J Dent Sci
+- HELD REF-1376 | 2023 | 37121836 | Randomized Controlled Trial | The efficacy of complementary treatment with marshmallow (Althaea officinalis L.) on vulvovaginal candidiasis: A randomized double-blinded controlled clinical trial. | Explore (NY)
+- new | 2021 | 33467951 | Practice Guideline/Research Support, Non-U.S. Gov't | Nursing Procedures for the Prevention and Treatment of Mucositis Induced by Cancer Therapies: Clinical Practice Guideline Based on an Interdisciplinary Consensus Process and a Syst | Integr Cancer Ther
+- HELD REF-1373 | 2021 | 33034099 |  | Effect of topical marshmallow (Althaea officinalis) on atopic dermatitis in children: A pilot double-blind active-controlled clinical trial of an in-silico-analyzed phytomedicine. | Phytother Res
+- new | 2019 | 30554882 | Comparative Study/Multicenter Study/Randomized Controlled Trial | A randomized, open-label, multicenter, comparative study of therapeutic efficacy, safety and tolerability of BNO 1030 extract, containing marshmallow root, chamomile flowers, horse | Am J Otolaryngol
+- new | 2019 | 30984577 |  | Short-course administration of a traditional herbal mixture ameliorates asthma symptoms of the common cold in children. | Avicenna J Phytomed
+- new | 2018 | 29397088 | Review | Management of acute cough by Zataria multiflora Boiss as an alternative treatment. | J Integr Med
+- new | 2017 | 26603219 | Randomized Controlled Trial | The Effect of Hollyhock (Althaea officinalis L) Leaf Compresses Combined With Warm and Cold Compress on Breast Engorgement in Lactating Women: A Randomized Clinical Trial. | J Evid Based Complementary Altern Med
+- new | 2015 | 25617026 | Comparative Study/Randomized Controlled Trial | Comparison between three different saliva substitutes in patients with hyposalivation. | Clin Oral Investig
+- new | 2014 | 24668061 | Research Support, Non-U.S. Gov't | The effect of Burns & Wounds (B&W)/burdock leaf therapy on burn-injured Amish patients: a pilot study measuring pain levels, infection rates, and healing times. | J Holist Nurs
+- new | 2005 | 16391481 | Clinical Trial/Research Support, Non-U.S. Gov't | Open trial to assess aspects of safety and efficacy of a combined herbal cough syrup with ivy and thyme. | Forsch Komplementarmed Klass Naturheilkd
+
+### PubMed SR - 4 hits, 2 not already listed above, 2 new
+- new | 2025 | 40149916 | Review | Interplay Between Traditional and Scientific Knowledge: Phytoconstituents and Their Roles in Lung and Colorectal Cancer Signaling Pathways. | Biomolecules
+- new | 2021 | 34550291 | Systematic Review | The use of babosa (Aloe vera) in treating burns: a literature review. | Braz J Biol
+
+### PubMed SAFE - 22 hits, 15 not already listed above, 13 new
+- new | 2026 | 42857050 |  | Safety and efficacy of feed additives consisting of tinctures derived from the roots or leaves and stems of Althaea officinalis L.: Marsh mallow root tincture for use in all animal | EFSA J
+- new | 2025 | 40506390 | Case Reports | Suspected marsh mallow (Malva parviflora) toxicosis in ponies-Case cluster including an asymptomatic survivor. | Aust Vet J
+- new | 2024 | 38438482 |  | The comprehensive strategy in the human health risk assessment of total chromium impurities in cough syrups with Marshmallow Root (Althaea officinalis) available in Polish pharmaci | Sci Rep
+- HELD REF-1371 | 2023 | 37576045 |  | Protective effects of Althaea officinalis L. extract against N-diethylnitrosamine-induced hepatocellular carcinoma in male Wistar rats through antioxidative, anti-inflammatory, mit | Food Sci Nutr
+- new | 2023 | 37622439 |  | Design, optimization, and characterization of Althaea officinalis-loaded transliposomes for the treatment of atopic dermatitis: a Box Behnken Design, in vitro, and ex vivo study. | J Biomater Sci Polym Ed
+- new | 2018 | 30120279 | Research Support, Non-U.S. Gov't | Synthesis of biogenic silver nanoparticles using Althaea officinalis as reducing agent: evaluation of toxicity and ecotoxicity. | Sci Rep
+- new | 2018 | 30064132 |  | [Marshmallow Root Extract for the Treatment of Irritative Cough: Two Surveys on Users' View on Effectiveness and Tolerability]. | Complement Med Res [ger]
+- HELD REF-2675 | 2017 | 28612694 | Case Reports | [Anticholinergic syndrome caused by contaminated herbal tea; acting swiftly to identify the source]. | Ned Tijdschr Geneeskd [dut]
+- new | 2017 | 27341541 | Case Reports | Evidence for marsh mallow (Malva parviflora) toxicosis causing myocardial disease and myopathy in four horses. | Equine Vet J
+- new | 2016 | 26571090 | Research Support, Non-U.S. Gov't | Pesticide residues in leafy vegetables, stalk and stem vegetables from South Korea: a long-term study on safety and health risk assessment. | Food Addit Contam Part A Chem Anal Contr
+- new | 2015 | 25949951 |  | Evaluation of the antibacterial activity of the Althaea officinalis L. leaf extract and its wound healing potency in the rat model of excision wound creation. | Avicenna J Phytomed
+- new | 2014 | 25538830 |  | Lack of nephroprotective efficacy of althaea officinalis flower extract against gentamicin renal toxicity in male rats. | Int J Prev Med
+- new | 2012 | 22465769 |  | Vibrational spectroscopy and electrophoresis as a "golden means" in monitoring of polysaccharides in medical plant and gels. | Spectrochim Acta A Mol Biomol Spectrosc
+- new | 2011 | 21281251 | Comparative Study | Pharmacological evaluation of aqueous extract of Althaea officinalis flower grown in Lebanon. | Pharm Biol
+- new | 2007 | 17661335 |  | The detection of antibacterial actions of whole herb tinctures using luminescent Escherichia coli. | Phytother Res
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 13 hits, 9 not already listed above, 7 new
+- new | 2024 | 39500772 | Review | Aromatic plants as cosmeceuticals: benefits and applications for skin health. | Planta
+- new | 2024 | 38790578 | Review | Well-Established and Traditional Use of Vegetal Extracts as an Approach to the "Deep Roots" of Cough. | Children (Basel)
+- new | 2023 | 36836674 | Review | The Therapeutic Wound Healing Bioactivities of Various Medicinal Plants. | Life (Basel)
+- HELD REF-1369 | 2023 | 37245776 | Review | Isolation, structural properties, and bioactivities of polysaccharides from Althaea officinalis Linn.: A review. | Int J Biol Macromol
+- new | 2020 | 33071794 | Review | COVID-19: Is There Evidence for the Use of Herbal Medicines as Adjuvant Symptomatic Therapy? | Front Pharmacol
+- HELD REF-1368 | 2020 | 31770755 | Review | Marsh Mallow (Althaea officinalis L.) and Its Potency in the Treatment of Cough. | Complement Med Res
+- new | 2010 | 20175810 | Research Support, Non-U.S. Gov't/Review | Phytotherapeutics: an evaluation of the potential of 1000 plants. | J Clin Pharm Ther
+- new | 2006 | 30000899 | Review | Marshmallow. | 
+- new | 2006 | 30000852 | Review | Fennel. | 
+
+### ClinicalTrials.gov - 2 registered studies
+- NCT01858584 | UNKNOWN | results=False | NA | Prospective, Comparative, Randomized, Controlled Trial on the Efficacy of the Treatment of Gastroesophageal Reflux Infant With Magnesium Alg | conds: Gastroesophageal Reflux, Regurgitation, Vomiting, Chronic Cough | intr: Gastrotuss, thickened milk | pubs: ['25079477:DERIVED (new)']
+- NCT04203810 | COMPLETED | results=False | NA | Effectiveness and Tolerability of Ectoin® Mouth and Throat Spray Althaea Honey (ERS09) | conds: Sore Throat, Acute Pharyngitis, Cough | intr: Ectoin® Mouth and Throat Spray Althaea Honey (ERS09), EMSER® Hals-und Rachenspray (throat spray)
+
+### OpenAlex no-PMID trial-worded - 416 hits, 58 without PMID, 58 new
+- new | 2026 | 10.5281/zenodo.24369558 | conference-paper | THE EFFECT OF PLANTING TIME AND ORGANIC FERTILIZATION ON THE GROWTH AND STEM AND LEAF YIELD OF MARSHMALLOW (ALTHAEA OFFICINALIS L.) | Zenodo (CERN European Organization for N
+- new | 2026 | 10.5281/zenodo.24424548 | dataset | MULTI-YEAR PRODUCTIVITY OF MARSHMALLOW (ALTHAEA OFFICINALIS L.) ABOVE-GROUND BIOMASS AS AFFECTED BY SOWING TIME AND ORGANIC FERTILIZATION IN THE FERGANA VALLEY | Zenodo (CERN European Organization for N
+- new | 2026 | 10.24200/jogcr.11.3.173 | article | The Effect of Alcea Angulata in Combination with Honey for Cervical Ripening in Nulliparous Women: A Randomized Controlled Trial | Journal of Obstetrics Gynecology and Can
+- new | 2026 | 10.62441/actainnovations.vi.3732 | article | DEVELOPMENT AND VALIDATION OF AN HPLC–RID METHOD FOR SIMULTANEOUS DETERMINATION OF MONOSACCHARIDES IN HERBAL SYRUP – ALTEX | Acta Innovations
+- new | 2026 | 10.15199/62.2026.10.5 | article | Wybrane substancje naturalne jako składniki aktywne w produktach donosowych | PRZEMYSŁ CHEMICZNY
+- new | 2026 | 10.1055/s-0045-1815388 | conference-paper | Comparison of the extraction efficiency of phytochemicals from plants used to support respiratory system function | Planta Medica
+- new | 2026 | 10.66224/pbp.8.3.18 | article | Herbal Neurosoothers in Pediatric Anxiety: Insights from Preclinical Research | Plant Biotechnology Persa
+- new | 2025 | 10.5812/jjnpp-126956 | article | Studying the Anti-dandruff Effect of Althaea officinalis and Grape Vinegar Shampoo: A Double-Blind, Randomized Clinical Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2025 | 10.5812/jjnpp-159021 | article | Investigation of the Efficacy and Safety of a Syrup Composed of 11 Herbal Medicines in Improving Chronic and Subacute Cough in Patients: A Preclinical Study and a Randomized, Doubl | Jundishapur Journal of Natural Pharmaceu
+- new | 2025 | 10.1016/j.bcab.2025.103601 | article | High-value phytochemicals and Nutra-pharmaceutical prospects of Althaea officinalis L. (Marshmallow). A review | Biocatalysis and Agricultural Biotechnol
+- new | 2025 | 10.12714/egejfas.42.3.08 | article | Effects of Althaea officinalis supplementation on growth performance and antioxidant, stress, and immune-related gene expression in rainbow trout (Oncorhynchus mykiss) | Ege Journal of Fisheries and Aquatic Sci
+- new | 2025 | 10.53107/nnjp.v5i2.104 | article | Effects of Experimentally Induced Visual and Auditory Hallucinations on Cognitive and Emotional Functioning in Schizophrenia Patients and Healthy Individuals: The Modulatory Role o | Nature-Nurture Journal of Psychology
+- new | 2025 | 10.1080/00103624.2025.2531980 | article | Effect of Different Soil Textures and Medicinal Solid Wastes on Growth Performance of Spinach | Communications in Soil Science and Plant
+- new | 2024 | 10.25163/angiotherapy.829362 | article | A Double-blind, Randomized Clinical Trial Study of Plantago major l. Syrup on Menorrhagia | Journal of Angiotherapy
+- new | 2024 | 10.56936/18290825-18.2024-113 | article | The effect of a thyme-ivy fluid extract combination on the severity of cough in children: randomized controlled trial | THE NEW ARMENIAN MEDICAL JOURNAL
+- new | 2024 | 10.33696/neurol.5.100 | article | Efficacy of NeuroHelp Topical Herbal Medicine in Treating Painful Diabetic Neuropathy (DPN) | Journal of Experimental Neurology
+- new | 2024 | 10.61186/yujs.11.1.61 | article | Response of germination and growth indices of seedlings of five weed species as affected by leaf extract allelopathy of Thuja orientalis | Journal of Seed Research
+- new | 2024 | 10.2478/rjr-2024-0017 | article | Cough: A protective reflex and herbal therapies | Romanian Journal of Rhinology
+- new | 2024 | 10.31080/asmi.2024.07.1331 | review | Herbal as an Adjunct to Scaling and Root Planning (SRP) in Nonsurgical Periodontitis Treatment in Adult: A Systematic Review of Randomized Controlled Trials | ACTA SCIENTIFIC MICROBIOLOGY
+- new | 2024 | 10.21518/ms2024-010 | article | The many faces of a cough in a child: Issues of differential diagnosis and treatment | Meditsinskiy sovet = Medical Council
+- new | 2024 | 10.59324/ejtas.2024.2(4).46 | review | Efficacy of Natural Artificial Saliva and Natural Saliva Stimulant in Xerostomia: A Review | European Journal of Theoretical and Appl
+- new | 2024 | 10.5812/jjnpp-151021 | article | Native Medicinal Plants and Their Effects on Anti-biofilm and Anti-quorum Sensing Activity | Jundishapur Journal of Natural Pharmaceu
+- new | 2023 | 10.61186/yujs.10.1.195 | article | Evaluation of dormancy breaking and germination improvement methods in Althaea officinalis | Journal of Seed Research
+- new | 2023 | 10.5812/jjnpp-113667 | article | Althaea officinalis L. Extract Heals Skin Wounds in Second-Degree Burns in Mice | Jundishapur Journal of Natural Pharmaceu
+- new | 2023 | 10.47750/pnr.2023.14.03.360 | article | Effects Of Saffron (Crocus Sativus Linn) Supplementation On Happiness And Quality Of Life In Healthy Adults: A Randomized Double Blind Clinical Trial | Journal of Pharmaceutical Negative Resul
+- new | 2023 | 10.1055/s-0043-1774010 | review | Marshmallow extract – a systematic review for use in irritable cough | Planta Medica
+- new | 2023 | 10.53350/pjmhs2023173127 | article | Competence of Althaeaofficinalis Seed Extract in control of Haemorrhoids in comparison with Daflon | Pakistan Journal of Medical and Health S
+- new | 2022 | 10.1055/s-0042-1749294 | article | Phytohustil and root extract of marshmallow Althaea officinalis L. exert anti-inflammatory and anti-oxidative properties and improve the migratory capacity of HUVECs tested in an i | Zeitschrift für Phytotherapie
+- new | 2021 | 10.1186/s40816-021-00306-z | article | Impact of Althaea Officinalis extract in patients with atopic eczema: a double-blind randomized controlled trial | Clinical Phytoscience
+- new | 2021 | 10.52547/jmp.20.77.37 | article | Evaluation of wound healing and anti-inflammatory activities of a herbal ointment consisting of Althaea officinalis, Lavandula angustifolia, and Rosa x damascena in animal excision | Journal of Medicinal Plants
+- new | 2021 | 10.34172/ipp.2022.31355 | article | The combined effect of Algomed and a quadruple herbal brew of Iranian traditional medicine on the severity and outcome of COVID-19; a randomized controlled clinical trial recruitin | Immunopathologia Persa
+- new | 2020 | 10.46624/ajphr.2020.v8.i9.005 | article | Management of Obesity through Luk Maghsul,Ajwain Desi and Zeera Siyah: A Randomized Trial | American Journal Of Pharmacy And Health 
+- new | 2019 | 10.1055/s-0039-1697315 | conference-paper | Data on Althaea officinalis L. root extract from the PhytoVIS study | Zeitschrift für Phytotherapie
+- new | 2019 | 10.1055/s-0039-3400118 | conference-paper | Althaea officinalis root extract in the light of the PhytoVIS study, a NIS in 20,870 users of herbal medicinal products | Planta Medica
+- new | 2019 | 10.7860/jcdr/2019/42925.13354 | article | Fabrication of Hollow Complete Denture with Althaea- A Case Report | JOURNAL OF CLINICAL AND DIAGNOSTIC RESEA
+- new | 2019 | 10.18502/tim.v4i3.1682 | article | Clinically Significant Improvement in a Case of Bronchial Asthma with Unani Medicine: a Case Report | Traditional and Integrative Medicine
+- new | 2019 | 10.1055/s-0039-1697290 | conference-paper | Marshmallow root: A medicinal plant with a great tradition | Zeitschrift für Phytotherapie
+- new | 2018 | 10.4103/nms.nms_42_18 | article | Effect of hydroalcoholic extract of Althaea officinalis root on improving chemotherapy-induced stomatitis: A randomized, double-blind, clinical trial | Nursing and Midwifery Studies
+- new | 2018 | 10.32598/jccnc.4.1.37 | article | Effects of Althaea Root Extract on Alleviating Chemotherapy-Induced Stomatitis Pain: A Randomized Controlled Clinical Trial | Journal of Client-centered Nursing Care
+- new | 2018 | 10.1007/s42106-018-0032-0 | article | Investigation of Biodiversity and Some of the Ecosystem Services in the Intercropping of Corn, Soybean and Marshmallow | International Journal of Plant Productio
+- new | 2018 | 10.1556/1326.2018.00361 | article | A validated stable HPLC method for the simultaneous determination of rifampicin and 25-O-desacetyl rifampicin – evaluation of in vitro metabolism | Acta Chromatographica
+- new | 2018 | https://openalex.org/W2908806450 | dissertation | Les plantes antitussives à l’officine | HAL
+- new | 2018 | https://openalex.org/W2945479954 | dissertation | Pharmacokinetic Herb-Drug Interactions involving african traditional medicines - fingerprint analysis and in vitro metabolism studies | SUNScholar (Stellenbosch University)
+- new | 2017 | 10.31661/gmj.v6i2.706 | article | Successful Treatment of Chronic Scalp Seborrheic Dermatitis Using Traditional Persian Medicine: A Case Report and Literature Review | Galen Medical Journal
+- new | 2017 | https://openalex.org/W2781357562 | article | Preparation, survey and comparison of the combined herbal cream in healing second-degree burns with silver sulfadiazine 1% in the rat | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2016 | 10.1016/j.hermed.2016.01.001 | article | Clinical efficacy of an herbal mouth wash composed of Salix alba, Malva sylvestrais and Althaea officinalis in chronic periodontitis patients | Journal of Herbal Medicine
+- new | 2015 | 10.17795/ajnpp-36586 | article | Acute/Chronic Pain Relief: Is Althaea officinalis Essential Oil Effective? | Avicenna Journal of Neuro Psych Physiolo
+- new | 2015 | 10.1055/s-0035-1565383 | article | Consumer experience with a solid extract preparation of Althaea officinalis | Planta Medica
+- new | 2015 | 10.20510/ukjpb/3/i4/89472 | article | Assessment of Protective Effects of Extracts of Zingiber officinale and Althaea officinalis on Pyloric Ligation-Induced Gastric Ulcer in Experimental Animals | Pharmaceutical and Biosciences Journal
+- new | 2015 | https://openalex.org/W2605169222 | article | تاثیر پیش تیمار و مدت زمان پیش تیمار بر خصوصیات گیاهچه ای و شاخصهای جوانه- زنی گیاه ختمی خبازی (.L Officinalis Althaea | علوم و فناوری بذر ایران
+- new | 2015 | 10.1016/j.eujim.2015.09.115 | article | Patient survey with Althaea officinalis L. root extract in dry cough | European Journal of Integrative Medicine
+- new | 2014 | 10.19026/rjaset.7.234 | article | Effect of Marshmallow's Root Extract on Thyroid Hormones in Broilers | Research Journal of Applied Sciences Eng
+- new | 2014 | https://openalex.org/W1030343070 | article | EFFECT OF DIFFERENT SOIL FERTILIZERS ON QUALITATIVE AND QUANTITATIVE YIELD OF MARSHMALLOW AS A MEDICINAL PLANT | 
+- new | 2013 | https://openalex.org/W2133662411 | article | Effect of seed priming on seed germination properties of two medicinal species in the presence of salinity | Journal of Medicinal Plants Research
+- new | 2013 | https://openalex.org/W2900832718 | article | Eosinophilic oesophagitis (EoE): Hypothetical herbal interventions for a rare and emerging gastrointestinal disorder | Australian journal of medical herbalism
+- new | 2009 | https://openalex.org/W3216419164 | article | Influence of certain agrotechnical measures on yield of marshmallow drug | Lekovite sirovine
+- new | 2007 | 10.3923/pjn.2007.256.258 | article | Effect of Althaea Officinalis on Cough Associated with ACE Inhibitors | Pakistan Journal of Nutrition
+- new | 2006 | 10.26756/th.2006.53 | dissertation | Effect of water extract of Althaea officinalis flowers on inflammation, gastric ulcer, bacterial activity, platelet aggragation, glycemia, and lipidemia. (c2006) | 
+
+## andrographis-paniculata (Andrographis paniculata) - name clause: "Andrographis paniculata"[tiab] OR "andrographis"[tiab] OR "Kalmegh"[ti] OR "andrographolide"[ti]
+
+### PubMed HT - 99 hits, 99 not already listed above, 85 new
+- new | 2026 | 41489779 | Randomized Controlled Trial/Multicenter Study | Andrographolide Sulfonate Injection for Adjunctive Treatment of Non-severe Community-Acquired Pneumonia in Adults: A Multicenter, Double-Blind, Randomized Controlled Trial. | Chin J Integr Med
+- new | 2026 | 42598668 |  | Andrographolide Mitigates DOCA-Salt-Induced Cardiac Hypertrophy by Regulating Calcium-Handling Genes. | J Pharm Bioallied Sci
+- new | 2026 | 41039060 |  | Clinical pharmacokinetics and pharmacometabolomics of Andrographis paniculata capsules: Bridging drug disposition and metabolic response to precision medicine. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2026 | 41908819 |  | Exploratory pharmacokinetic-pharmacodynamic characterization and safety of standardized Andrographis paniculata aqueous extract capsules in patients with mild COVID-19. | Front Pharmacol
+- new | 2026 | 42502764 |  | Andrographolide Alleviates Mycoplasma pneumoniae Pneumonia in Children by Inhibiting Alveolar Epithelial Cell Pyroptosis Through the HMGB1/TLR4/NF-κB Pathway. | Iran J Pharm Res
+- new | 2026 | 42845735 |  | Efficacy and mechanisms of andrographolide derivative in acute exacerbations of chronic obstructive pulmonary disease: a meta-analysis, network pharmacology, molecular docking, and | Front Pharmacol
+- new | 2026 | 42735469 | Systematic Review/Network Meta-Analysis | Traditional, complementary, and integrative medicine therapies for mild/moderate acute COVID-19: a systematic review and network meta-analysis. | Phytomedicine
+- new | 2026 | 42760788 | Randomized Controlled Trial/Comparative Study | Evaluating Safety and Efficacy of Bio-Immune (Andrographolide) in Managing URTI Symptoms: A Randomized, Double-Blinded, Placebo-Controlled, Single-Center, Comparative Study. | ScientificWorldJournal
+- new | 2025 | 39760215 |  | Non-linear oral bioavailability and clinical pharmacokinetics of high-dose Andrographis paniculata ethanolic extract: relevant dosage implications for COVID-19 treatment. | Pharm Biol
+- new | 2025 | 39840393 | Review | Herbal Medicines as Complementary Therapy for Managing Complications in COVID-19 Patients with Diabetes Mellitus. | Diabetes Metab Syndr Obes
+- new | 2025 | 40822451 | Systematic Review | Exploring the clinical effects of Andrographis paniculata-derived compounds, its extract, or derivatives for the treatment of COVID-19: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2025 | 40028092 |  | Bioformulation-Mediated Response of Kalmegh (Andrographis paniculata Wall. ex Nees, Family Acanthaceae) for Growth, Yield, and Quality. | ACS Omega
+- new | 2024 | 38612967 | Meta-Analysis/Systematic Review | Herbal Medicines for the Treatment of Active Ulcerative Colitis: A Systematic Review and Meta-Analysis. | Nutrients
+- new | 2024 | 39829662 |  | In vitro anthelmintic activity of Phyllanthus niruri Linn., Andrographis paniculata, Curcuma xanthorrhiza Roxb., and Curcuma aeruginosa Roxb. ethanol extracts on the motility and c | Vet World
+- HELD REF-1615 | 2023 | 37821383 | Randomized Controlled Trial | Efficacy of Andrographis paniculata spray in acute pharyngitis: A randomized controlled trial. | Drug Discov Ther
+- new | 2023 | 37560862 |  | Clinical Efficacy and Immune Function of Andrographolide Sulfonate in Children with Mycoplasma Pneumoniae Pneumonia. | Clin Lab
+- new | 2023 | 39005565 |  | Andrographis paniculata extract versus placebo in the treatment of COVID-19: a double-blinded randomized control trial. | Res Pharm Sci
+- new | 2023 | 37765004 |  | Efficacy of Kan Jang(®) in Patients with Mild COVID-19: A Randomized, Quadruple-Blind, Placebo-Controlled Trial. | Pharmaceuticals (Basel)
+- new | 2023 | 34171938 |  | Safety evaluation of an antimalarial herbal product from Andrographis paniculata (AS201-01) in healthy volunteers. | J Basic Clin Physiol Pharmacol
+- new | 2023 | 37625206 | Randomized Controlled Trial | Efficacy of Andrographis paniculata extract treatment in mild to moderate COVID-19 patients being treated with favipiravir: A double-blind, randomized, placebo-controlled study (AP | Phytomedicine
+- new | 2023 | 36865924 |  | Antidiabetic effects of Andrographis paniculata supplementation on biochemical parameters, inflammatory responses, and oxidative stress in canine diabetes. | Front Pharmacol
+- new | 2023 | 37361940 | Review | Efficacy and Safety of Add-On Plant-Based Drugs for COVID-19 Patients: A Review of the Randomized Control Trials. | Infect Drug Resist
+- new | 2023 | 37042309 | Clinical Trial, Phase II | The effect of Andrographis paniculata water extract on palliative management of metastatic esophageal squamous cell carcinoma-A phase II clinical trial. | Phytother Res
+- new | 2023 | 37560853 |  | The Association of Immune and Liver Functions in Mycoplasma Pneumoniae Pneumonia Children with Andrographolide Sulfonate's Therapy. | Clin Lab
+- new | 2023 | 36781896 | Clinical Trial, Phase II/Research Support, Non-U.S. Gov't | A validated LC-MS/MS method for clinical pharmacokinetics and presumptive phase II metabolic pathways following oral administration of Andrographis paniculata extract. | Sci Rep
+- new | 2023 | 36570418 |  | A randomized controlled pilot study of add-on therapy of CIM-MEG19 (standardized Andrographis paniculata formulation) in mild to moderate COVID-19. | Phytomed Plus
+- HELD REF-3430 | 2023 | 36842634 | Randomized Controlled Trial/Clinical Trial, Phase III | Efficacy and safety of AP-Bio®(KalmCold®) in participants with uncomplicated upper respiratory tract viral infection (common cold) - A phase III, double-blind, parallel group, rand | Complement Ther Med
+- new | 2022 | 35889352 | Review | A Comprehensive Review of Andrographis paniculata (Burm. f.) Nees and Its Constituents as Potential Lead Compounds for COVID-19 Drug Discovery. | Molecules
+- new | 2022 | 35153776 | Review | Adverse Effects of Andrographolide Derivative Medications Compared to the Safe use of Herbal Preparations of Andrographis paniculata: Results of a Systematic Review and Meta-Analys | Front Pharmacol
+- new | 2022 | 36937606 |  | Open Clinical Trial of Sambiloto (Andrographis paniculata) Ethanolic Extract Capsules in Treatment of Malaria Patients in Batubara District, Indonesia. | Med Arch
+- new | 2022 | 35887695 |  | Pharmacokinetics and Metabolomic Profiling of Metformin and Andrographis paniculata: A Protocol for a Crossover Randomised Controlled Trial. | J Clin Med
+- new | 2022 | 35075363 |  | Effects of Sambiloto (Andrographis paniculata) on GLP-1 and DPP-4 Concentrations between Normal and Prediabetic Subjects: A Crossover Study. | Evid Based Complement Alternat Med
+- new | 2022 | 36015163 |  | Efficacy of Kan Jang(®) in Patients with Mild COVID-19: Interim Analysis of a Randomized, Quadruple-Blind, Placebo-Controlled Trial. | Pharmaceuticals (Basel)
+- new | 2022 | 36309577 | Research Support, Non-U.S. Gov't | The use of Andrographis paniculata and its effects on liver biochemistry of patients with gastrointestinal problems in Thailand during the COVID-19 pandemic: a cross sectional stud | Sci Rep
+- new | 2022 | 36035418 |  | Use of Andrographis paniculata (Burm.f.) Wall. ex Nees and risk of pneumonia in hospitalised patients with mild coronavirus disease 2019: A retrospective cohort study. | Front Med (Lausanne)
+- HELD REF-1618 | 2021 | 33372366 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Safety of Andrographis paniculata: A systematic review and meta-analysis. | Pharmacoepidemiol Drug Saf
+- new | 2021 | 34376353 |  | Immunomodulatory effects of Andrographis paniculata extract in healthy adults - An open-label study. | J Ayurveda Integr Med
+- new | 2021 | 34532749 | Multicenter Study/Randomized Controlled Trial | Combination of Activating Blood Circulation and Detoxifying Chinese Medicines Played an Anti-Inflammatory Role in Unstable Angina Patients after Percutaneous Coronary Intervention: | Chin J Integr Med
+- new | 2021 | 34765519 |  | Early intervention with Kan Jang® to treat upper-respiratory tract infections: A randomized, quadruple-blind study. | J Tradit Complement Med
+- new | 2021 | 36743276 |  | Evaluation of Vrikshayurveda treatments on physiological attributes and production of diterpenoids in Andrographis paniculata (Burm.f.) Nees. | Ayu
+- new | 2020 | 33354219 |  | Acute and Subchronic Oral Safety Profiles of the Sudarshana Suspension. | Evid Based Complement Alternat Med
+- new | 2020 | 31701598 | Review | Herbal medicinal products for inflammatory bowel disease: A focus on those assessed in double-blind randomised controlled trials. | Phytother Res
+- new | 2020 | 32901780 | Clinical Trial/Comparative Study | Complementary and alternative medicine (CAM) in headache of children and adolescents: open-label Italian study. | Clin Ter
+- new | 2020 | 32380977 | Randomized Controlled Trial | Efficacy of andrographolide in not active progressive multiple sclerosis: a prospective exploratory double-blind, parallel-group, randomized, placebo-controlled trial. | BMC Neurol
+- new | 2020 | 32183355 |  | Effects of an Adaptogenic Extract on Electrical Activity of the Brain in Elderly Subjects with Mild Cognitive Impairment: A Randomized, Double-Blind, Placebo-Controlled, Two-Armed  | Pharmaceuticals (Basel)
+- new | 2020 | 31541594 | Clinical Trial | A new proprietary gel containing glabridin, andrographolide, and apolactoferrin improves the appearance of epidermal melasma in adult women: A 6-month pilot, uncontrolled open-labe | J Cosmet Dermatol
+- new | 2020 | 31707234 | Systematic Review | The effect of emerging nutraceutical interventions for clinical and biological outcomes in multiple sclerosis: A systematic review. | Mult Scler Relat Disord
+- new | 2020 | 31857127 |  | Can the methanolic extract of Andrographis paniculata be used as a supplement to anti-snake venom to normalize hemostatic parameters: A thromboelastographic study. | J Ethnopharmacol
+- new | 2020 | 33375459 |  | Open Label Prospective Experience of Supplementation with a Fixed Combination of Magnesium, Vitamin B2, Feverfew, Andrographis Paniculata and Coenzyme Q10 for Episodic Migraine Pro | J Clin Med
+- HELD REF-3426 | 2019 | 30968986 | Randomized Controlled Trial | A double-blind, randomized, placebo-controlled study to assess the efficacy of Andrographis paniculata standardized extract (ParActin®) on pain reduction in subjects with knee oste | Phytother Res
+- new | 2019 | 30668423 | Randomized Controlled Trial | Phytochemical screening and preliminary clinical trials of the aqueous extract mixture of Andrographis paniculata (Burm. f.) Wall. ex Nees and Syzygium polyanthum (Wight.) Walp lea | Phytomedicine
+- new | 2018 | 30174700 |  | The Effects of Andrographis paniculata on Platelet Activity in Healthy Thai Volunteers. | Evid Based Complement Alternat Med
+- new | 2018 | 30427943 | Published Erratum | Correction: Andrographis paniculata (Chuān Xīn Lián) for symptomatic relief of acute respiratory tract infections in adults and children: A systematic review and meta-analysis. | PLoS One
+- new | 2018 | 29749556 |  | Andrographolide affects Th1/Th2/Th17 responses of peripheral blood mononuclear cells from ulcerative colitis patients. | Mol Med Rep
+- new | 2017 | 28948486 | Review | Efficacy and Tolerability of Phytomedicines in Multiple Sclerosis Patients: A Review. | CNS Drugs
+- HELD REF-0392 | 2017 | 28783743 | Meta-Analysis/Systematic Review | Andrographis paniculata (Chuān Xīn Lián) for symptomatic relief of acute respiratory tract infections in adults and children: A systematic review and meta-analysis. | PLoS One
+- new | 2017 | 28249303 | Clinical Trial | Clinical Parameters following Multiple Oral Dose Administration of a Standardized Andrographis paniculata Capsule in Healthy Thai Subjects. | Planta Med
+- new | 2016 | 26687683 | Research Support, Non-U.S. Gov't/Systematic Review | Efficacy and safety of treatments in Familial Mediterranean fever: a systematic review. | Rheumatol Int
+- HELD REF-3431 | 2016 | 27215274 | Randomized Controlled Trial | Andrographis paniculata decreases fatigue in patients with relapsing-remitting multiple sclerosis: a 12-month double-blind placebo-controlled pilot study. | BMC Neurol
+- new | 2016 | 26632755 | Published Erratum | Erratum for: A Simple and Sensitive LC-MS/MS Method for Determination of Four Major Active Diterpenoids from Andrographis paniculata in Human Plasma and Its Application to a Pilot  | Planta Med
+- new | 2016 | 27702690 |  | Andrographis paniculata: Dissolution investigation and pharmacokinetic studies of four major active diterpenoids after multiple oral dose administration in healthy Thai volunteers. | J Ethnopharmacol
+- new | 2016 | 26576030 | Research Support, Non-U.S. Gov't/Validation Study | A Simple and Sensitive LC-MS/MS Method for Determination of Four Major Active Diterpenoids from Andrographis paniculata in Human Plasma and Its Application to a Pilot Study. | Planta Med
+- HELD REF-3434 | 2015 | 26840418 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Herbal Medicine for Cough: a Systematic Review and Meta-Analysis. | Forsch Komplementmed
+- new | 2015 | 25518050 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases. | J Crohns Colitis
+- new | 2015 | 25830661 | Review | Herbal and plant therapy in patients with inflammatory bowel disease. | Ann Gastroenterol
+- HELD REF-3432 | 2015 | 26434249 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Andrographis paniculata Extract on Triglyceride Levels of the Patients with Hypertriglyceridemia: A Randomized Controlled Trial. | J Med Assoc Thai
+- new | 2015 | 25960284 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Clinical Efficacy of Andrographolide Sulfonate in the Treatment of Severe Hand, Foot, and Mouth Disease (HFMD) is Dependent upon Inhibition of Neutrophil Activation. | Phytother Res
+- new | 2014 | 25250382 | Research Support, Non-U.S. Gov't | Antimicrobial compounds from leaf extracts of Jatropha curcas, Psidium guajava, and Andrographis paniculata. | ScientificWorldJournal
+- new | 2014 | 24803294 |  | Andrographolide suppresses IL-6/Stat3 signaling in peripheral blood mononuclear cells from patients with chronic rhinosinusitis with nasal polyps. | Inflammation
+- new | 2013 | 23981095 | Systematic Review | Systematic review: the efficacy of herbal therapy in inflammatory bowel disease. | Aliment Pharmacol Ther
+- new | 2013 | 23434608 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ethnobotanical survey of malaria prophylactic remedies in Odisha, India. | J Ethnopharmacol
+- new | 2013 | 23401711 |  | Improving the efficacy of conventional therapy by adding andrographolide sulfonate in the treatment of severe hand, foot, and mouth disease: a randomized controlled trial. | Evid Based Complement Alternat Med
+- HELD REF-3427 | 2013 | 23044768 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Andrographis paniculata extract (HMPL-004) for active ulcerative colitis. | Am J Gastroenterol
+- new | 2012 | 22902987 | Randomized Controlled Trial | Pharmacokinetics and tolerance of dehydroandrographolide succinate injection after intravenous administration in healthy Chinese volunteers. | Acta Pharmacol Sin
+- HELD REF-3428 | 2011 | 21114791 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomised clinical trial: herbal extract HMPL-004 in active ulcerative colitis - a double-blind comparison with sustained release mesalazine. | Aliment Pharmacol Ther
+- HELD REF-3429 | 2010 | 20092985 | Randomized Controlled Trial | A randomized double blind placebo controlled clinical evaluation of extract of Andrographis paniculata (KalmCold) in patients with uncomplicated upper respiratory tract infection. | Phytomedicine
+- SEEN | 2009 | 19408036 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of an Andrographis paniculata composition for the relief of rheumatoid arthritis symptoms: a prospective randomized placebo-controlled trial. | Clin Rheumatol
+- new | 2009 | 19158000 | Clinical Trial | A simple and sensitive HPLC-ESI-MS/MS method for the determination of andrographolide in human plasma. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2008 | 19356103 | Clinical Trial | Identification of four urea adducts of andrographolide in humans. | Drug Metab Lett
+- new | 2008 | 19063836 | Multicenter Study/Randomized Controlled Trial | [Andrographolide drop-pill in treatment of acute upper respiratory tract infection with external wind-heat syndrome: a multicenter and randomized controlled trial]. | Zhong Xi Yi Jie He Xue Bao [chi]
+- new | 2006 | 16373463 | Review | Complementary and alternative medicine for upper-respiratory-tract infection in children. | Am J Health Syst Pharm
+- new | 2005 | 22605942 |  | Open label clinical trial to study adverse effects and tolerance to dry powder of the aerial part of andrographis paniculata in patients type 2 with diabetes mellitus. | Malays J Med Sci
+- new | 2005 | 16008115 | Clinical Trial/Clinical Trial, Phase I/Randomized Controlled Trial | A phase I clinical study of Andrographis paniculata fixed combination Kan Jang versus ginseng and valerian on the semen quality of healthy male subjects. | Phytomedicine
+- new | 2005 | 15644451 |  | Isolation and identification of seven glucuronide conjugates of andrographolide in human urine. | Drug Metab Dispos
+- new | 2004 | 15095142 | Research Support, Non-U.S. Gov't/Systematic Review | Andrographis paniculata in the treatment of upper respiratory tract infections: a systematic review of safety and efficacy. | Planta Med
+- HELD REF-1622 | 2004 | 14748896 | Comparative Study/Systematic Review | Andrographis paniculata in the symptomatic treatment of uncomplicated upper respiratory tract infection: systematic review of randomized controlled trials. | J Clin Pharm Ther
+- new | 2004 | 14750201 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Comparative controlled study of Andrographis paniculata fixed combination, Kan Jang and an Echinacea preparation as adjuvant, in the treatment of uncomplicated respiratory disease  | Phytother Res
+- new | 2003 | 15277072 | Clinical Trial/Randomized Controlled Trial | A randomized, controlled study of Kan Jang versus amantadine in the treatment of influenza in Volgograd. | J Herb Pharmacother
+- new | 2003 | 12809357 | Clinical Trial/Randomized Controlled Trial | Double-blind, placebo-controlled, randomized, pilot clinical trial of ImmunoGuard--a standardized fixed combination of Andrographis paniculata Nees, with Eleutherococcus senticosus | Phytomedicine
+- new | 2003 | 12847809 | Clinical Trial/Randomized Controlled Trial | [Effectiveness of using the drug Kan-Yang in children with acute respiratory viral infection (clinico-functional data)]. | Vestn Otorinolaringol [rus]
+- new | 2002 | 12391710 | Review | Respiratory and allergic diseases: from upper respiratory tract infections to asthma. | Prim Care
+- new | 2002 | 12487322 | Clinical Trial/Randomized Controlled Trial | A double blind, placebo-controlled study of Andrographis paniculata fixed combination Kan Jang in the treatment of acute upper respiratory tract infections including sinusitis. | Phytomedicine
+- new | 2000 | 11081985 | Clinical Trial/Clinical Trial, Phase III/Randomized Controlled Trial | Double-blind, placebo-controlled pilot and phase III study of activity of standardized Andrographis paniculata Herba Nees extract fixed combination (Kan jang) in the treatment of u | Phytomedicine
+- new | 2000 | 10925397 | Clinical Trial/Clinical Trial, Phase I | A phase I trial of andrographolide in HIV positive patients and normal volunteers. | Phytother Res
+- new | 1999 | 10589439 | Clinical Trial/Randomized Controlled Trial | Use of visual analogue scale measurements (VAS) to asses the effectiveness of standardized Andrographis paniculata extract SHA-10 in reducing the symptoms of common cold. A randomi | Phytomedicine
+- new | 1997 | 23195187 |  | Controlled clinical study of standardized Andrographis paniculata extract in common cold - a pilot trial. | Phytomedicine
+- new | 1997 | 23195395 |  | Prevention of common colds with Andrographis paniculata dried extract. A Pilot double blind trial. | Phytomedicine
+- HELD REF-3433 | 1991 | 1797953 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of Andrographis paniculata, Nees for pharyngotonsillitis in adults. | J Med Assoc Thai
+- new | 1990 | 2230623 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Undetectable anti-bacterial activity of Andrographis paniculata (Burma) wall. ex ness. | J Med Assoc Thai
+
+### PubMed SR - 25 hits, 10 not already listed above, 10 new
+- new | 2026 | 42256405 | Published Erratum | Correction: Exploring the clinical effects of Andrographis paniculata-derived compounds, its extract, or derivatives for the treatment of COVID-19: a systematic review and meta-ana | Front Pharmacol
+- new | 2026 | 43044392 | Review | Exploring the integration of Ayurveda in aquaculture: A scoping review. | J Ayurveda Integr Med
+- new | 2025 | 40699661 | Review | Inhibition of Inflammatory Regulators for Chronic Obstructive Pulmonary Disease (COPD) Treatment from Indonesian Medicinal Plants: A Systematic Review. | Curr Issues Mol Biol
+- new | 2024 | 39682008 | Systematic Review | A Systematic Review on the Antimicrobial Activity of Andrographolide. | J Microbiol Biotechnol
+- new | 2024 | 39583105 | Systematic Review/Research Support, Non-U.S. Gov't | The role of andrographolide as a potential anticancer agent against gastric cancer cell lines: a systematic review. | PeerJ
+- new | 2024 | 38794350 | Review | Polymer Matrix and Manufacturing Methods in Solid Dispersion System for Enhancing Andrographolide Solubility and Absorption: A Systematic Review. | Pharmaceutics
+- new | 2023 | 36610122 | Systematic Review | The role of Andrographolide in the prevention and treatment of liver diseases. | Phytomedicine
+- new | 2018 | 29408515 | Research Support, Non-U.S. Gov't/Systematic Review | Andrographolide, a diterpene lactone from Andrographis paniculata and its therapeutic promises in cancer. | Cancer Lett
+- new | 2016 | 27769076 | Systematic Review | The role of dietary supplements in inflammatory bowel disease: a systematic review. | Eur J Gastroenterol Hepatol
+- new | 2006 | 16781605 | Systematic Review | Andrographis paniculata for the treatment of upper respiratory infection: a systematic review by the natural standard research collaboration. | Explore (NY)
+
+### PubMed SAFE - 432 hits, 174 not already listed above, 169 new
+- new | 2026 | 41371369 |  | Andrographolide-induced PANoptosis underlies its multiple organ toxicity in mice. | Toxicol Appl Pharmacol
+- new | 2026 | 41641006 | Review | Medicinal Plants and Lead Phytomolecules as Immunomodulators: An Updated Review. | Biomed Res Int
+- new | 2026 | 39798140 | Review | Innovative anticancer molecule andrographolide: a concise review of its pharmacological targets. | Nat Prod Res
+- new | 2026 | 41787962 | Letter | Allergic reactions to products containing Andrographis paniculata: a Victorian perspective. | Intern Med J
+- new | 2026 | 42172796 |  | Synergistic effects of andrographolide and berbamine in glioblastoma: insights from proteomic and metabolomic pathway analysis. | Bioorg Chem
+- new | 2026 | 42119863 |  | In vivo pharmacokinetic and toxicity evaluation of Andrographis paniculata extract-loaded self-microemulsifying drug delivery system. | Eur J Pharm Biopharm
+- new | 2026 | 42136458 |  | Insight into Recent Methods for Synthesizing Andrographolide Derivatives and their Potential Pharmaceutical Effects. | Curr Top Med Chem
+- new | 2026 | 42846621 | Review | Effects of andrographolide on cellular metabolism and mitochondrial function: current evidence and insights into its anticancer mechanisms. | Front Pharmacol
+- new | 2026 | 42845187 |  | Evaluation of Antimicrobial Activity, Toxicity, and Stability of Andrographis paniculata Intimate Wash Formulation. | J Microbiol Biotechnol
+- new | 2025 | 41226236 | Review | Andrographolide and Its Derivatives: A Comprehensive Review of Anti-Infective Properties and Clinical Potential. | Molecules
+- new | 2025 | 40884029 | Review | The Therapeutic Potential of Andrographolide and Its Derivatives in Inflammatory Diseases. | Pharmacol Res Perspect
+- new | 2025 | 41358070 |  | Andrographolide Selectively Inhibits the Growth of LA7 Mammary Adenocarcinoma Cells. | ACS Omega
+- new | 2025 | 41292183 |  | Andrographolide Promotes Ferroptosis in Pancreatic Cancer via Targeting and Activating HSP90/GPX4 Ubiquitination. | Biofactors
+- new | 2025 | 38867528 | Review | Current Evidence on Molecular Mechanisms of Andrographolide in Cancer. | Curr Med Chem
+- new | 2025 | 40113098 |  | Molecular mechanisms of andrographolide-induced kidney injury and senescence via SIRT3 inhibition. | Toxicol Appl Pharmacol
+- new | 2025 | 40353244 |  | Andrographis paniculata aqueous extract exhibits cardioprotective effect against dichlorvos-induced toxicity, a commonly used organophosphate pesticide. | Toxicol Rep
+- new | 2025 | 40753138 |  | Andrographolide drives dual apoptosis and ferroptosis via caspase-3 and FACL4 in T-ALL cell lines. | Int J Hematol
+- new | 2025 | 40774073 |  | Identification of allelochemicals and investigation of the mechanism of action of Andrographis paniculata. | Plant Physiol Biochem
+- new | 2025 | 40005997 | Review | Andrographolide Sulfonates and Xiyanping: A Review of Chemical Composition, Pharmacological Activities, Clinical Applications, and Adverse Reactions. | Pharmaceuticals (Basel)
+- new | 2025 | 40695370 |  | Paederia scandens-derived exosome-like nanoparticles as a delivery system for andrographolide to treat ulcerative colitis. | Cell Signal
+- new | 2025 | 40364767 | Research Support, Non-U.S. Gov't | Completing the Biosynthesis of the Clinically Important Diterpenoid Andrographolide in Andrographis Paniculata. | Angew Chem Int Ed Engl
+- new | 2025 | 41219814 |  | Analysis of suspected serious adverse drug reactions reported with traditional medicines from the United Nations Asia region in WHO vigibase. | BMC Complement Med Ther
+- new | 2025 | 40611181 |  | Public self-reported adverse experience and knowledge about use of herbal and dietary supplements. | BMC Complement Med Ther
+- new | 2025 | 41321521 | Review | Impacts of Andrographis paniculata supplementation on health and productivity in monogastric farm animals: A comprehensive review. | Anim Nutr
+- new | 2025 | 40518209 |  | Hepatoprotective potential of Phyllanthus niruri and Andrographis paniculata in isoniazid-rifampicin induced hepatotoxicity in rats. | Indian J Tuberc
+- new | 2025 | 41463396 | Research Support, Non-U.S. Gov't | Integrating Network Pharmacology, Molecular Docking, and Experimental Validation: Andrographolide Attenuates Acute Liver Injury via the NLRP3/Caspase-1/GSDMD-Mediated Pyroptosis Pa | Biomolecules
+- new | 2025 | 41424181 |  | Exogenous γ-Aminobutyric Acid (GABA) Alleviates the Trade-Off Between Growth and Andrographolide Accumulation in Andrographis paniculata. | Physiol Plant
+- new | 2025 | 39585402 |  | The ability of low levels of elevated ozone to change the growth and phytochemical constituents of a medicinal plant Andrographis paniculata (Burm. f.) Nees. | Protoplasma
+- new | 2025 | 40169313 |  | Liver injury in non-severe COVID-19 with various pandemic phases: A real-world study. | J Formos Med Assoc
+- new | 2024 | 37144420 |  | Chemosensitizing potential of andrographolide in P-glycoprotein overexpressing multidrug-resistant cancer cell lines. | Nat Prod Res
+- new | 2024 | 36740794 | Review | Andrographis paniculata and Andrographolide - A Snapshot on Recent Advances in Nano Drug Delivery Systems against Cancer. | Curr Drug Deliv
+- new | 2024 | 38665830 |  | Nitrogen-containing andrographolide derivatives with multidrug resistance reversal effects in cancer cells. | RSC Med Chem
+- new | 2024 | 38379216 |  | Andrographolide reverts multidrug resistance in KBCh(R) 8-5 cells through AKT signaling pathway. | Cell Biochem Funct
+- new | 2024 | 39175689 |  | Synthesis of novel pyrazole acetals of andrographolide and isoandrographolide as potent anticancer agents. | RSC Adv
+- new | 2024 | 38889579 |  | Andrographolide targets EGFR to impede epithelial-mesenchymal transition in human breast cancer cells. | J Pharm Biomed Anal
+- new | 2024 | 38723845 |  | Andrographolide induced cytotoxicity and cell cycle arrest in Giardia trophozoites. | Exp Parasitol
+- new | 2024 | 38357243 |  | Andrographolide acts with dexamethasone to inhibit the growth of acute lymphoblastic leukemia CEM‑C1 cells via the regulation of the autophagy‑dependent PI3K/AKT/mTOR signaling pat | Biomed Rep
+- new | 2024 | 38248336 |  | Cytotoxic Effect of Andrographis paniculata Associated with 2-Aminoethyl Dihydrogen Phosphate in Triple-Negative Breast Cells. | Curr Issues Mol Biol
+- new | 2024 | 39548787 |  | Unveiling the anti-giardial properties of Andrographis paniculata leaf extract through in vitro studies. | Trop Biomed
+- new | 2024 | 39121784 | Case Reports | Ayurveda in the integrative management of bovine secondary recumbency-a case report. | J Ayurveda Integr Med
+- new | 2024 | 38351624 |  | Enhancing oral bioavailability of andrographolide using solubilizing agents and bioenhancer: comparative pharmacokinetics of Andrographis paniculata formulations in beagle dogs. | Pharm Biol
+- new | 2024 | 37303181 |  | HPTLC Stability Indicating Analytical Method of Andrographolide and 5-fluorouracil with Network Pharmacology Analysis against Cancer. | Comb Chem High Throughput Screen
+- new | 2024 | 39298908 | Review | The therapeutic potential of andrographolide in cancer treatment. | Biomed Pharmacother
+- HELD REF-0394 | 2024 | 37813330 | Review | Andrographolide, diterpenoid constituent of Andrographis paniculata: Review on botany, phytochemistry, molecular docking analysis, and pharmacology. | Ann Pharm Fr
+- new | 2024 | 38939097 |  | In vitro and in silico evaluation of Andrographis paniculata ethanolic crude extracts on fatty acid synthase expression on breast cancer cells. | Biomedicine (Taipei)
+- new | 2023 | 37101730 | Review | A Comprehensive Review of Herbal Supplements Used for Persistent Symptoms Attributed to Lyme Disease. | Integr Med (Encinitas)
+- new | 2023 | 36335523 |  | Andrographolide protects against doxorubicin-and arsenic trioxide-induced toxicity in cardiomyocytes. | Mol Biol Rep
+- HELD REF-2851 | 2023 | 37653887 | Review | Anti-Cancer Agent: The Labdane Diterpenoid-Andrographolide. | Plants (Basel)
+- new | 2023 | 36860688 |  | Lentilactobacillus kefiri SGL 13 and Andrographis paniculata alleviate dextran sulfate sodium induced colitis in mice. | Front Nutr
+- new | 2023 | 36620352 |  | Effect of Andrographis paniculata extract and Andrographolide on the pharmacokinetics of Aceclofenac and Celecoxib in rats. | Futur J Pharm Sci
+- new | 2023 | 36058257 | Research Support, Non-U.S. Gov't | Andrographolide Liquisolid using Porous-Starch as the Adsorbent with Enhanced Oral Bioavailability in Rats. | J Pharm Sci
+- new | 2023 | 36791939 |  | Synthesis, characterization, and assessment of chitosan-nanomatrix enriched with antifungal formulation against biodeterioration of active ingredients of selected herbal raw materi | Int J Biol Macromol
+- new | 2023 | 36770927 |  | Curcumin and Andrographolide Co-Administration Safely Prevent Steatosis Induction and ROS Production in HepG2 Cell Line. | Molecules
+- new | 2023 | 37455139 |  | Andrographolide protects against atrial fibrillation by alleviating oxidative stress injury and promoting impaired mitochondrial bioenergetics. | J Zhejiang Univ Sci B [eng,chi]
+- new | 2023 | 37817228 |  | TMT-based quantitative proteomics reveals the targets of andrographolide on LPS-induced liver injury. | BMC Vet Res
+- new | 2023 | 36677967 |  | In Silico Identification of 1-DTP Inhibitors of Corynebacterium diphtheriae Using Phytochemicals from Andrographis paniculata. | Molecules
+- new | 2023 | 37240818 |  | Andrographis paniculata (Burm.f.) Nees Alleviates Methotrexate-Induced Hepatotoxicity in Wistar Albino Rats. | Life (Basel)
+- new | 2023 | 35253613 |  | Dealkenylation of neoandrographolide, a phytochemical from Andrographis paniculata stimulates FXR (Farnesoid X Receptor) and enhances gallstone dissolution. | J Biomol Struct Dyn
+- new | 2023 | 37760068 |  | Andrographolide Induces ROS-Mediated Cytotoxicity, Lipid Peroxidation, and Compromised Cell Integrity in Saccharomyces cerevisiae. | Antioxidants (Basel)
+- new | 2023 | 37440909 | Review | Novel wine in an old bottle: Preventive and therapeutic potentials of andrographolide in atherosclerotic cardiovascular diseases. | J Pharm Anal
+- new | 2023 | 37060982 |  | Greater efficiency of polyherbal drug encapsulated biosynthesized chitosan nano-biopolymer on diabetes and its complications. | Int J Biol Macromol
+- new | 2023 | 37944470 | Research Support, Non-U.S. Gov't | Andrographolide induced heme oxygenase-1 expression in MSC-like cells isolated from rat bone marrow exposed to environmental stress. | Biochem Biophys Res Commun
+- new | 2023 | 37269249 |  | Toxicological safety assessment of AP-Bio®, a standardized extract of Andrographis paniculata in Sprague Dawley rats. | J Appl Toxicol
+- new | 2023 | 36986483 |  | Curcumin and Andrographis Exhibit Anti-Tumor Effects in Colorectal Cancer via Activation of Ferroptosis and Dual Suppression of Glutathione Peroxidase-4 and Ferroptosis Suppressor  | Pharmaceuticals (Basel)
+- new | 2023 | 37663270 |  | Comparative pharmacokinetics and safety evaluation of high dosage regimens of Andrographis paniculata aqueous extract after single and multiple oral administration in healthy parti | Front Pharmacol
+- HELD REF-0393 | 2022 | 34818697 | Review | Andrographolide: A review of its pharmacology, pharmacokinetics, toxicity and clinical trials and pharmaceutical researches. | Phytother Res
+- new | 2022 | 35312106 |  | Dehydroandrographolide targets CD300f and negatively regulated MRGPRX2-induced pseudo-allergic reaction. | Phytother Res
+- new | 2022 | 35812188 |  | Andrographolide induces anti-SARS-CoV-2 response through host-directed mechanism: an in silico study. | Future Virol
+- new | 2022 | 36030375 |  | In Silico Prediction of Andrographolide Dosage Regimens for COVID-19 Treatment. | Am J Chin Med
+- new | 2022 | 34877672 | Review/Research Support, Non-U.S. Gov't | Advances in ameliorating inflammatory diseases and cancers by andrographolide: Pharmacokinetics, pharmacodynamics, and perspective. | Med Res Rev
+- new | 2022 | 35166368 |  | Pharmacological effects and safety of Andrographis paniculata (Burm.f.) Nees. | J Food Sci
+- new | 2022 | 35599281 |  | Synergistic antitumor effect of Andrographolide and cisplatin through ROS-mediated ER stress and STAT3 inhibition in colon cancer. | Med Oncol
+- new | 2022 | 36518448 |  | Hepatoprotective activity of andrographolide possibly through antioxidative defense mechanism in Sprague-Dawley rats. | Toxicol Rep
+- new | 2022 | 35474831 |  | Investigating the Potential Use of Andrographolide as a Coadjuvant in Sickle Cell Anemia Therapy. | ACS Omega
+- new | 2022 | 35710077 |  | Protective effects of andrographolide sodium bisulfate on UV-induced skin carcinogenesis in mice model. | Eur J Pharm Sci
+- new | 2022 | 36364354 | Review | Recent Advances in Herbal-Derived Products with Skin Anti-Aging Properties and Cosmetic Applications. | Molecules
+- new | 2022 | 35889428 |  | A New Investigation into the Molecular Mechanism of Andrographolide towards Reducing Cytokine Storm. | Molecules
+- new | 2022 | 36296494 |  | Pharmacokinetic Herb-Drug Interactions of Glipizide with Andrographis paniculata (Burm. f.) and Andrographolide in Normal and Diabetic Rats by Validated HPLC Method. | Molecules
+- new | 2022 | 35268634 | Review | Hepatoprotective Potential of Malaysian Medicinal Plants: A Review on Phytochemicals, Oxidative Stress, and Antioxidant Mechanisms. | Molecules
+- HELD REF-1621 | 2022 | 35196932 |  | Andrographis paniculata mitigates first-line anti-tubercular drugs-induced nephrotoxicity in Wistar rats. | Biomarkers
+- new | 2022 | 35089340 | Research Support, N.I.H., Extramural | A combined treatment with melatonin and andrographis promotes autophagy and anticancer activity in colorectal cancer. | Carcinogenesis
+- new | 2022 | 35386290 |  | Acute and Subacute Toxicity Assessment of Andrographolide-2-hydroxypropyl-β-cyclodextrin Complex via Oral and Inhalation Route of Administration in Sprague-Dawley Rats. | ScientificWorldJournal
+- new | 2022 | 36278441 |  | A Sensitive Liquid Chromatography-Mass Spectrometry Method for Determination of 14-Deoxy-12(R)-Sulfo Andrographolide Concentration in Rat Plasma and its Application to a Pharmacoki | Curr Drug Metab
+- new | 2022 | 36059950 | Review | A comprehensive review on disposition kinetics and dosage of oral administration of Andrographis paniculata, an alternative herbal medicine, in co-treatment of coronavirus disease. | Front Pharmacol
+- new | 2022 | 35616886 |  | Application of (2)H stable isotope labelling methodology and ultra-high performance liquid chromatography/quadrupole time-of-flight mass spectrometry for the metabolite identificat | Anal Sci
+- new | 2022 | 34729030 |  | In silico identification of potential inhibitors against main protease of SARS-CoV-2 6LU7 from Andrographis panniculata via molecular docking, binding energy calculations and molec | Saudi J Biol Sci
+- new | 2022 | 35127384 |  | DNA damage repair promotion in colonic epithelial cells by andrographolide downregulated cGAS‒STING pathway activation and contributed to the relief of CPT-11-induced intestinal mu | Acta Pharm Sin B
+- new | 2022 | 35369604 |  | Treatment efficacy of Thunbergia laurifolia, Curcuma longa, Garcinia mangostana, and Andrographis paniculata extracts in Staphylococcus aureus-induced rabbit dermatitis model. | Vet World
+- new | 2021 | 33174095 | Review | Plants Used as Antihypertensive. | Nat Prod Bioprospect
+- new | 2021 | 34315039 | Review | Andrographolide and its derivatives: Current achievements and future perspectives. | Eur J Med Chem
+- new | 2021 | 33576206 |  | Andrographolide, an Antioxidant, Counteracts Paraquat- Induced Mutagenesis in Mammalian Cells. | Asian Pac J Cancer Prev
+- new | 2021 | 33610710 | Review | Anticancer potential of andrographolide from Andrographis paniculata (Burm.f.) Nees and its mechanisms of action. | J Ethnopharmacol
+- new | 2021 | 34430627 | Review | Biological properties of andrographolide, an active ingredient of Andrographis Paniculata: a narrative review. | Ann Transl Med
+- new | 2021 | 34641534 |  | Toxicity of Bioactive Molecule Andrographolide against Spodoptera litura Fab and Its Binding Potential with Detoxifying Enzyme Cytochrome P450. | Molecules
+- new | 2021 | 34349480 |  | Acute Oral Toxicity Evaluation of Andrographolide Self-Nanoemulsifying Drug Delivery System (SNEDDS) Formulation. | J Pharm Bioallied Sci
+- new | 2021 | 34202736 |  | Proteomics Analysis of Andrographolide-Induced Apoptosis via the Regulation of Tumor Suppressor p53 Proteolysis in Cervical Cancer-Derived Human Papillomavirus 16-Positive Cell Lin | Int J Mol Sci
+- new | 2021 | 34834128 | Review | Andrographolide: A Herbal-Chemosynthetic Approach for Enhancing Immunity, Combating Viral Infections, and Its Implication on Human Health. | Molecules
+- HELD REF-1620 | 2021 | 33923529 | Review | Andrographis paniculata (Burm. f.) Wall. ex Nees: An Updated Review of Phytochemistry, Antimicrobial Pharmacology, and Clinical Safety and Efficacy. | Life (Basel)
+- new | 2021 | 34909671 |  | Screening of phytoconstituents of Andrographis paniculata against various targets of Japanese encephalitis virus: An in-silico and in-vitro target-based approach. | Curr Res Pharmacol Drug Discov
+- new | 2021 | 34617166 |  | Nanoemulsomes for Enhanced Oral Bioavailability of the Anticancer Phytochemical Andrographolide: Characterization and Pharmacokinetics. | AAPS PharmSciTech
+- new | 2021 | 33580999 |  | A tablet derived from Andrographis paniculata complements dihydroartemisinin-piperaquine treatment of malaria in pregnant mice. | J Basic Clin Physiol Pharmacol
+- new | 2020 | 31762317 |  | Andrographolide inhibits secretagogue-induced pseudo-allergic reaction. | J Asian Nat Prod Res
+- new | 2020 | 31911298 |  | Design, synthesis, docking and biological evaluation of chalcones as promising antidiabetic agents. | Bioorg Chem
+- new | 2020 | 32247004 |  | Protective effect of Andrographolide on 5-Fu induced intestinal mucositis by regulating p38 MAPK signaling pathway. | Life Sci
+- new | 2020 | 32018066 |  | Andrographolide potentiates PD-1 blockade immunotherapy by inhibiting COX2-mediated PGE2 release. | Int Immunopharmacol
+- new | 2020 | 32260319 |  | Oral Bioavailability Enhancement and Anti-Fatigue Assessment of the Andrographolide Loaded Solid Dispersion. | Int J Mol Sci
+- new | 2020 | 31774047 |  | Antiproliferative and Apoptotic Properties of Andrographolide Against Human Colon Cancer DLD1 Cell Line. | Endocr Metab Immune Disord Drug Targets
+- new | 2020 | 32702348 | Research Support, Non-U.S. Gov't | 14-Deoxy-11,12-didehydroandrographolide inhibits apoptosis in influenza A(H5N1) virus-infected human lung epithelial cells via the caspase-9-dependent intrinsic apoptotic pathway w | Antiviral Res
+- new | 2019 | 31059793 | Research Support, Non-U.S. Gov't | Therapeutic potential of andrographolide-loaded nanoparticles on a murine asthma model. | Nanomedicine
+- new | 2019 | 30370694 | Research Support, Non-U.S. Gov't | Andrographolide prevents human nucleus pulposus cells against degeneration by inhibiting the NF-κB pathway. | J Cell Physiol
+- new | 2019 | 31193040 |  | Acute oral toxicity evaluation of Andrographis paniculata-standardized first true leaf ethanolic extract. | Toxicol Rep
+- new | 2019 | 30684531 | Research Support, Non-U.S. Gov't | Dehydroandrographolide inhibits IgE-mediated anaphylactic reactions via calcium signaling pathway. | Toxicol Appl Pharmacol
+- new | 2019 | 30668446 |  | Adaptogens in chemobrain (Part I): Plant extracts attenuate cancer chemotherapy-induced cognitive impairment - Transcriptome-wide microarray profiles of neuroglia cells. | Phytomedicine
+- new | 2019 | 31181145 | Research Support, Non-U.S. Gov't | Andrographolide Exerts Significant Antidepressant-Like Effects Involving the Hippocampal BDNF System in Mice. | Int J Neuropsychopharmacol
+- new | 2019 | 31306153 | Research Support, Non-U.S. Gov't | Andrographolide sensitizes Hep-2 human laryngeal cancer cells to carboplatin-induced apoptosis by increasing reactive oxygen species levels. | Anticancer Drugs
+- new | 2019 | 31035043 |  | Bioavailability of the diterpenoid 14-deoxy-11,12-didehydroandrographolide in rats and up-regulation of hepatic drug-metabolizing enzyme and drug transporter expression. | Phytomedicine
+- new | 2018 | 29983086 |  | Influence of andrographolide on the pharmacokinetics of warfarin in rats. | Pharm Biol
+- new | 2018 | 30158992 | Review | Overcoming P-Glycoprotein-Mediated Multidrug Resistance in Colorectal Cancer: Potential Reversal Agents among Herbal Medicines. | Evid Based Complement Alternat Med
+- new | 2018 | 29552849 |  | [Cloning and functional identification of a new NADPH-cytochrome P450 reductase in Andrographis paniculata]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2018 | 29988798 |  | Novel nanocrystal-based solid dispersion with high drug loading, enhanced dissolution, and bioavailability of andrographolide. | Int J Nanomedicine
+- new | 2018 | 29241692 |  | In vitro inhibitory effects of major bioactive constituents of Andrographis paniculata, Curcuma longa and Silybum marianum on human liver microsomal morphine glucuronidation: A pre | Drug Metab Pharmacokinet
+- new | 2018 | 29440893 |  | Nanoemulsion as a strategy for improving the oral bioavailability and anti-inflammatory activity of andrographolide. | Int J Nanomedicine
+- new | 2018 | 29542427 | Research Support, Non-U.S. Gov't | Evaluation of Herb-Drug Interaction of Synacinn™ and Individual Biomarker through Cytochrome 450 Inhibition Assay. | Drug Metab Lett
+- new | 2017 | 28918484 | Review | Drug-Herb Interactions in the Elderly Patient with IBD: a Growing Concern. | Curr Treat Options Gastroenterol
+- new | 2017 | 28315464 |  | A novel nanosuspension of andrographolide: Preparation, characterization and passive liver target evaluation in rats. | Eur J Pharm Sci
+- new | 2017 | 28943944 |  | Andrographolide suppresses proliferation of human colon cancer SW620 cells through the TLR4/NF-κB/MMP-9 signaling pathway. | Oncol Lett
+- new | 2017 | 27847337 |  | Herb-drug interaction of Andrographis paniculata (Nees) extract and andrographolide on pharmacokinetic and pharmacodynamic of naproxen in rats. | J Ethnopharmacol
+- new | 2017 | 27030208 |  | Safety assessment of selected medicinal food plants used in Ayurveda through CYP450 enzyme inhibition study. | J Sci Food Agric
+- new | 2017 | 27714886 |  | Pharmacokinetic and Pharmacodynamic Interaction of Andrographolide and Standardized Extract of Andrographis paniculata (Nees) with Nabumetone in Wistar Rats. | Phytother Res
+- new | 2017 | 29207612 |  | The antitumor effect of arsenic trioxide on hepatocellular carcinoma is enhanced by andrographolide. | Oncotarget
+- new | 2017 | 28465482 |  | Andrographolide ameliorates d-galactosamine/lipopolysaccharide-induced acute liver injury by activating Nrf2 signaling pathway. | Oncotarget
+- new | 2017 | 28492344 | Research Support, Non-U.S. Gov't | Andrographis paniculata Diterpenoids Protect against Radiation-Induced Transformation in BALB/3T3 Cells. | Radiat Res
+- new | 2017 | 28397057 |  | Clinical application analysis of andrographolide total ester sulfonate injection, a traditional Chinese medicine licensed in China. | J Huazhong Univ Sci Technolog Med Sci
+- new | 2017 | 28377280 | Review/Research Support, Non-U.S. Gov't | Is there a future for andrographolide to be an anti-inflammatory drug? Deciphering its major mechanisms of action. | Biochem Pharmacol
+- new | 2017 | 28410952 |  | Molecular cloning and functional characterization of multiple NADPH-cytochrome P450 reductases from Andrographis paniculata. | Int J Biol Macromol
+- new | 2017 | 28182713 |  | Taxifolin synergizes Andrographolide-induced cell death by attenuation of autophagy and augmentation of caspase dependent and independent cell death in HeLa cells. | PLoS One
+- new | 2016 | 28901084 |  | [Analysis and exploration on adverse reactions of four kinds of andrographolide injections]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2016 | 27159496 |  | Synergistic anticancer effects of andrographolide and paclitaxel against A549 NSCLC cells. | Pharm Biol
+- new | 2016 | 26874212 | Research Support, Non-U.S. Gov't | Enhanced anti-tumor activity and reduced toxicity by combination andrographolide and bleomycin in ascitic tumor-bearing mice. | Eur J Pharmacol
+- new | 2016 | 27667514 | Evaluation Study | A new biocompatible microemulsion increases extraction yield and bioavailability of Andrographis paniculata. | Chin J Nat Med
+- new | 2016 | 27475677 |  | Effects of andrographolide on intrahepatic cholestasis induced by alpha-naphthylisothiocyanate in rats. | Eur J Pharmacol
+- new | 2016 | 26762235 |  | Pharmacokinetic and Pharmacodynamic Interaction of Boswellic Acids and Andrographolide with Glyburide in Diabetic Rats: Including Its PK/PD Modeling. | Phytother Res
+- new | 2016 | 28330284 |  | In vitro evaluation of anti-proliferative, anti-inflammatory and pro-apoptotic activities of the methanolic extracts of Andrographis nallamalayana Ellis on A375 and B16F10 melanoma | 3 Biotech
+- new | 2016 | 27582746 |  | De novo Assembly of Leaf Transcriptome in the Medicinal Plant Andrographis paniculata. | Front Plant Sci
+- new | 2016 | 26593212 | Research Support, Non-U.S. Gov't | Pharmacokinetic and pharmacodynamic herb-drug interaction of Andrographis paniculata (Nees) extract and andrographolide with etoricoxib after oral administration in rats. | J Ethnopharmacol
+- new | 2015 | 26604555 |  | Spasmolytic effect of traditional herbal formulation on guinea pig ileum. | J Ayurveda Integr Med
+- new | 2015 | 25156015 | Research Support, Non-U.S. Gov't/Review | The effects of Andrographis paniculata (Burm.f.) Nees extract and diterpenoids on the CYP450 isoforms' activities, a review of possible herb-drug interaction risks. | Drug Chem Toxicol
+- new | 2015 | 26536350 |  | Potential Compounds for Oral Cancer Treatment: Resveratrol, Nimbolide, Lovastatin, Bortezomib, Vorinostat, Berberine, Pterostilbene, Deguelin, Andrographolide, and Colchicine. | PLoS One
+- new | 2014 | 25336950 | Research Support, Non-U.S. Gov't | Engineered andrographolide nanosystems for smart recovery in hepatotoxic conditions. | Int J Nanomedicine
+- new | 2014 | 24507479 | Research Support, Non-U.S. Gov't | 14-Deoxyandrographolide alleviates ethanol-induced hepatosteatosis through stimulation of AMP-activated protein kinase activity in rats. | Alcohol
+- new | 2014 | 25043965 | Review | Review on liver inflammation and antiinflammatory activity of Andrographis paniculata for hepatoprotection. | Phytother Res
+- new | 2014 | 24118795 | Research Support, Non-U.S. Gov't | Design, synthesis, and biological evaluation of andrographolide derivatives as potent hepatoprotective agents. | Chem Biol Drug Des
+- new | 2014 | 24704625 | Research Support, Non-U.S. Gov't | Andrographolide sulfonate ameliorates experimental colitis in mice by inhibiting Th1/Th17 response. | Int Immunopharmacol
+- new | 2014 | 24860732 | Review | Anti-inflammatory and Antimicrobial Effects of Heat-Clearing Chinese Herbs: A Current Review. | J Tradit Complement Med
+- new | 2013 | 24424219 | Review | Potential effect of herbs on diabetic hypertension: alternative medicine treatment modalities. | Clin Ter
+- new | 2013 | 23844365 | Research Support, Non-U.S. Gov't | Acute toxicity and the effect of andrographolide on Porphyromonas gingivalis-induced hyperlipidemia in rats. | Biomed Res Int
+- new | 2012 | 23317242 | Research Support, Non-U.S. Gov't | Anti-tumor initiating potential of andrographolide in 7,12-dimethylbenz[a]anthracene induced hamster buccal pouch carcinogenesis. | Asian Pac J Cancer Prev
+- new | 2012 | 22224062 |  | Hepatoprotective effect of poly herbal formulation against various hepatotoxic agents in rats. | Pharmacognosy Res
+- new | 2011 | 21841043 | Research Support, Non-U.S. Gov't | Andrographolide inhibits oral squamous cell carcinogenesis through NF-κB inactivation. | J Dent Res
+- new | 2011 | 21219911 | Research Support, Non-U.S. Gov't | Andrographolide and 14-deoxy-11, 12-didehydroandrographolide inhibit cytochrome P450s in HepG2 hepatoma cells. | Life Sci
+- new | 2010 | 20524430 |  | Effect of a novel antiinflammatory polyherbal preparation (Sudarshanam oil) on hematological parameters in Wistar rats. | Acta Pol Pharm
+- new | 2010 | 20465823 |  | Isolation and identification of bioactive compounds in Andrographis paniculata (Chuanxinlian). | Chin Med
+- new | 2010 | 20096675 | Research Support, Non-U.S. Gov't | Herb-drug interaction of Andrographis paniculata extract and andrographolide on the pharmacokinetics of theophylline in rats. | Chem Biol Interact
+- new | 2010 | 19500810 |  | Screening of microfilaricidal effects of plant extracts against Dirofilaria immitis. | Res Vet Sci
+- new | 2009 | 19097688 | Research Support, Non-U.S. Gov't | Andrographolide enhances 5-fluorouracil-induced apoptosis via caspase-8-dependent mitochondrial pathway involving p53 participation in hepatocellular carcinoma (SMMC-7721) cells. | Cancer Lett
+- new | 2008 | 17482447 |  | In vitro cytogenetic effects of Andrographis paniculata (kalmegh) on arsenic. | Phytomedicine
+- new | 2007 | 17639556 | Research Support, Non-U.S. Gov't | Screening of Indian medicinal plants for acetylcholinesterase inhibitory activity. | Phytother Res
+- new | 2007 | 17482530 | Research Support, Non-U.S. Gov't | Determination of andrographolide in human plasma by high-performance liquid chromatography/mass spectrometry. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2006 | 16880430 |  | Protective effect of Andrographis paniculata and andrographolide on cyclophosphamide-induced urothelial toxicity. | Integr Cancer Ther
+- new | 2006 | 16397849 | Research Support, Non-U.S. Gov't | Inhibitory effect of Thai plant extracts on P-glycoprotein mediated efflux. | Phytother Res
+- new | 2005 | 16395645 | Research Support, Non-U.S. Gov't | Andrographolide isolated from Andrographis paniculata induces cell cycle arrest and mitochondrial-mediated apoptosis in human leukemic HL-60 cells. | Planta Med
+- new | 2004 | 15013849 | Research Support, Non-U.S. Gov't | Andrographolide suppresses endothelial cell apoptosis via activation of phosphatidyl inositol-3-kinase/Akt pathway. | Biochem Pharmacol
+- new | 1999 | 10439479 |  | Effect of Andrographis paniculata extract on progesterone in blood plasma of pregnant rats. | Phytomedicine
+- new | 1997 | 9421258 |  | Testicular toxicity assessment of Andrographis paniculata dried extract in rats. | J Ethnopharmacol
+
+### PubMed OBS - 10 hits, 4 not already listed above, 4 new
+- new | 2026 | 42625900 |  | Evaluating the effectiveness and safety of Xiyanping injection for severe pneumonia: a target trial emulation protocol using real-world data. | Front Pharmacol
+- new | 2019 | 31011357 |  | Cost-Effectiveness Analysis of Xiyanping Injection (Andrographolide Sulfonate) for Treatment of Adult Community Acquired Pneumonia: A Retrospective, Propensity Score-Matched Cohort | Evid Based Complement Alternat Med
+- new | 2019 | 30871574 | Comparative Study/Multicenter Study/Observational Study | An observational study of fixed-dose Tanacetum parthenium nutraceutical preparation for prophylaxis of pediatric headache. | Ital J Pediatr
+- new | 2015 | 26151008 |  | Adaptogenic potential of andrographolide: An active principle of the king of bitters (Andrographis paniculata). | J Tradit Complement Med
+
+### PubMed REV - 145 hits, 18 not already listed above, 17 new
+- new | 2026 | 42796428 | Review | Andrographolide: Mechanisms and Therapeutic Potential in Alzheimer's and Parkinson's Disease. | Molecules
+- new | 2025 | 40741601 | Review | Pharmacological Effects and Pharmacokinetic Profiles of Dehydroandrographolide. | Mediators Inflamm
+- new | 2024 | 39391697 | Review | Potential of traditional medicines in alleviating COVID-19 symptoms. | Front Pharmacol
+- new | 2024 | 38930949 | Review | Synthetic Modifications of Andrographolide Targeting New Potential Anticancer Drug Candidates: A Comprehensive Overview. | Molecules
+- new | 2024 | 39454221 | Review | Andrographolide: A promising therapeutic agent against organ fibrosis. | Eur J Med Chem
+- new | 2023 | 37176870 | Review | Potential Plant-Based New Antiplasmodial Agent Used in Papua Island, Indonesia. | Plants (Basel)
+- new | 2022 | 34466134 | Review | Which East Asian herbal medicines can decrease viral infections? | Phytochem Rev
+- new | 2022 | 36177361 | Review | Study on the mechanism of andrographolide activation. | Front Neurosci
+- new | 2022 | 36238575 | Review | Andrographolide, a natural anti-inflammatory agent: An Update. | Front Pharmacol
+- new | 2022 | 35894129 | Review | Antiviral activity of medicinal plant-derived products against SARS-CoV-2. | Exp Biol Med (Maywood)
+- new | 2022 | 33745423 | Review | Ethnobotany, Pharmacological Activities and Bioavailability Studies on "King of Bitters" (Kalmegh): A Review (2010-2020). | Comb Chem High Throughput Screen
+- new | 2021 | 33755974 | Review | Andrographolide and its derivatives are effective compounds for gastrointestinal protection: a review. | Eur Rev Med Pharmacol Sci
+- new | 2021 | 32740824 | Review | Combating Drug Resistance in Colorectal Cancer Using Herbal Medicines. | Chin J Integr Med
+- HELD REF-2853 | 2021 | 34795581 | Review | The Adroitness of Andrographolide as a Natural Weapon Against Colorectal Cancer. | Front Pharmacol
+- new | 2020 | 32365518 | Review | Structure-Activity-Relationship and Mechanistic Insights for Anti-HIV Natural Products. | Molecules
+- new | 2019 | 31756965 | Review | Andrographolide, a Natural Antioxidant: An Update. | Antioxidants (Basel)
+- new | 2017 | 27896563 | Review | Broad-spectrum antiviral properties of andrographolide. | Arch Virol
+- new | 2017 | 29243417 | Review | [Development in synthesis of andrographolide derivatives]. | Zhongguo Zhong Yao Za Zhi [chi]
+
+### ClinicalTrials.gov - 28 registered studies
+- NCT02539277 | UNKNOWN | results=False | PHASE4 | A Post-marketing Research on Jinyebaidu Granule in Treating Patients With Acute Upper Respiratory Infection | conds: Acute Upper Respiratory Infection | intr: Jinyebaidu granule, Fufangshuanghua granule, Jinyebaidu granule placebo, Fufangshuanghua granule pla
+- NCT06520527 | UNKNOWN | results=False | NA | Comparison of the Effectiveness of Sambiloto Herbs (Andrographis Paniculata) and Brisk Walking Exercise on Blood Pressure of Obese Patients | conds: MeSH | intr: Andrographis paniculata, Brisk Walking Exercise, Combination
+- NCT04196075 | COMPLETED | results=False | PHASE3 | The Effect of Andrographis Paniculata (AP) on Palliative Management of Advanced Esophageal Cancer | conds: Squamous Cell Carcinoma of Esophagus | intr: Andrographis Paniculata
+- NCT04833946 | COMPLETED | results=False | NA | To Assess the Effect of 336 Days Exposure of Paractin® on Pain & Disease Progression in Patients Suffering From Osteoarthritis of Knee Joint | conds: Knee Osteoarthritis (Knee OA) | intr: Andrographis paniculata [150 mg], Microcrystalline Cellulose (MCC)
+- NCT04161404 | UNKNOWN | results=False | PHASE1 | Pharmacometabolomics of Andrographis Paniculata And Metformin In Healthy Volunteers Under Fasting Condition | conds: Pharmacokinetics, Molecular Mechanisms of Pharmacological Action | intr: Brand name: Andrographis paniculata (Shine Hempedu Bumi) 1000mg capsules, Brand name: Andrographis p
+- NCT03190044 | UNKNOWN | results=False | NA | Magnesium, Partenium, Andrographis, Co-enzyme Q10 and Riboflavin (PACR) in Migraine Prophylaxis | conds: Migraine Disorders | intr: PACR, Placebo
+- NCT00659802 | COMPLETED | results=True | PHASE2 | Phase II Study of HMPL-004 in Patients With Ulcerative Colitis | conds: Ulcerative Colitis | intr: HMPL-004 low dose, Placebo, HMPL-004 high dose
+- NCT01805791 | TERMINATED | results=True | PHASE3 | A Phase III Trial of HMPL-004 in Patients With Mild to Moderate Active Ulcerative Colitis | conds: Ulcerative Colitis | intr: HMPL-004 1800 mg/day, Placebo, HMPL-004 2400 mg/day
+- NCT00655733 | COMPLETED | results=True | PHASE2 | Phase II Study of HMPL-004 in Subjects With Crohn's Disease | conds: Crohn's Disease | intr: HMPL-004, Placebo
+- NCT03780621 | COMPLETED | results=False | PHASE1 | Effects of an Adaptogenic Extract on Electrical Activity of the Brain in Elderly Subjects With Cognitive Impairment | conds: Cognitive Impairment, Mild | intr: Andrographis and Withania, Placebo
+- NCT06636760 | COMPLETED | results=False | NA | Efficacy and Immunomodulator Impact of Herbal Combination on COVID-19 Patients Recovery | conds: COVID 19 | intr: Placebo, herbal compound
+- NCT03455049 | COMPLETED | results=False | NA | The Effect of Andrographis Paniculata to GLP-1, Fasting Insulin, Insulin 2-h Post OGTT, and HOMA-IR | conds: Increased Insulin | intr: Andrographis Paniculata Ext | pubs: ['35075363:DERIVED (new)']
+- NCT02003651 | COMPLETED | results=False | NA | Echinacea and Acute Respiratory Illness | conds: Acute Respiratory Infections | intr: Quick Defense, Placebo
+- NCT04847518 | UNKNOWN | results=False | PHASE2,PHASE3 | Assessment of Efficacy of KAN-JANG® in Mild COVID-19 | conds: Covid19 | intr: Kan Jang capsules, Placebo capsules
+- NCT04955327 | COMPLETED | results=False | PHASE3 | To Compare the Efficacy and Tolerability of A. Paniculata/A. Chilensis in Individuals With URTI | conds: Upper Respiratory Tract Infection | intr: A. Paniculata, A. Chilensis, A. Paniculata and A. Chilensis, Microcrystalline cellulose
+- NCT01882764 | TERMINATED | results=True | PHASE3 | HMPL-004 Maintenance Treatment in Subjects With Mild to Moderate Ulcerative Colitis | conds: Ulcerative Colitis | intr: HMPL-004, Placebo
+- NCT05631431 | TERMINATED | results=False | PHASE2 | Evaluation of Efficacy and Safety of Curalin As Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT05019326 | UNKNOWN | results=False | PHASE3 | Andrographis Paniculata vs Boesenbergia Rotunda vs Control in Asymptomatic COVID-19 | conds: Covid19 | intr: Andrographis Paniculata, Boesenbergia, Standard supportive treatment
+- NCT05439473 | COMPLETED | results=False | PHASE2 | Evaluation of the Efficacy and Safety of Curalin as Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT02280876 | COMPLETED | results=False | PHASE1,PHASE2 | Efficacy Study of Andrographis Paniculata Purified Standardized Extract (ApE) in Patients With Multiple Sclerosis (MS) | conds: Multiple Sclerosis, Relapsing-Remitting | intr: 1 - Andrographis paniculata p/st extract, 2 - Excipients | pubs: ['27215274:RESULT (HELD REF-3431)']
+- NCT04463875 | COMPLETED | results=False |  | Magnesium, Vitamin B2, Feverfew, Andrographis Paniculata and Coenzyme Q10 for Episodic Migraine Prophylaxis | conds: Migraine | intr: magnesium, vitamin B2, feverfew, andrographis paniculata and coenzyme Q10
+- NCT06520501 | UNKNOWN | results=False | NA | Comparison of the Effectiveness of Sambiloto Herbs (Andrographis Paniculata) and Brisk Walking Exercise on Blood Glucose of Obese Patients | conds: MeSH | intr: Herbal Medicine Sambiloto, Brisk Walking, Brisk Walking and Herbal Medicine Sambiloto
+- NCT03262792 | COMPLETED | results=False | NA | Assessment of the Efficacy of Andrographis Paniculata in Subjects With Mild to Moderate Osteoarthritis | conds: Knee Osteoarthritis | intr: Placebo, Andrographis Paniculata, Andrographis Paniculata
+- NCT03134443 | UNKNOWN | results=False | PHASE4 | Evaluate the Efficacy and Safety of Andrographolide Sulfonate in Patients With Acute Tonsillitis | conds: Acute Tonsillitis | intr: Andrographolide sulfonate, Andrographolide sulfonate simulation
+- NCT03132623 | UNKNOWN | results=False | PHASE4 | Evaluate the Efficacy and Safety of Andrographolide Sulfonate in Patients With Acute Bronchitis | conds: Acute Bronchitis | intr: andrographolide sulfonate, andrographolide sulfonate simulation
+- NCT00749645 | COMPLETED | results=False | PHASE2 | Efficacy Study of FANG(30) for Active Rheumatoid Arthritis in Adult Patients | conds: Arthritis, Rheumatoid | intr: FANG(30), Placebo | pubs: ['19408036:RESULT (SEEN)']
+- NCT02273635 | UNKNOWN | results=False | PHASE1,PHASE2 | Efficacy, Safety and Tolerability of Andrographolides Versus Placebo in Patients With Progressive Forms of MS | conds: Primary Progressive Multiple Sclerosis, Multiple Sclerosis, Secondary Progressive | intr: Andrographolides, placebo | pubs: ['32380977:DERIVED (new)']
+- NCT03132610 | UNKNOWN | results=False | PHASE4 | A Study of Andrographolide Sulfonate in Patients With Acute Exacerbation of Chronic Bronchitis | conds: Acute Exacerbation of Chronic Bronchitis | intr: andrographolide sulfonate, andrographolide sulfonate simulation
+
+### OpenAlex no-PMID trial-worded - 3563 hits, 32 without PMID, 32 new
+- new | 2026 | 10.1055/s-0045-1814820 | conference-paper | Clinical trials of herbal medicines for treatment of common infections: challenges and opportunities | Planta Medica
+- new | 2025 | 10.33192/smj.v77i7.273826 | article | Efficacy of Topical Andrographis Paniculata Extract for Pruritus in Chronic Liver Disease: A Randomized, Placebo-Controlled Trial | Siriraj Medical Journal/San Sirirat
+- new | 2025 | 10.1016/j.phyplu.2025.100858 | article | Andrographis paniculata or favipiravir in Mild COVID-19: A randomized control trial | Phytomedicine Plus
+- new | 2025 | 10.55718/kja.491 | article | Randomized Clinical trial on the efficacy of KB yoga in Non Alcoholic Fatty Liver Disease | Kerala Journal of Ayurveda
+- new | 2024 | 10.21275/mr24528175712 | article | Overview of the Effectiveness of Dietary Modification and the Role of Andrographis Paniculata in Obese Diabetic Patients | International Journal of Science and Res
+- new | 2024 | 10.62767/jecacm501.5474 | article | Andrographolide: A Review on Experimental Clinical Trials and Applications | Journal of Experimental and Clinical App
+- new | 2023 | 10.33192/smj.v75i11.264451 | article | Clinical Efficacy of Andrographis paniculata Extracted Scrub Compared With 4% Chlorhexidine Scrub in Burn Wounds: A Prospective Randomized Controlled Trial | Siriraj Medical Journal/San Sirirat
+- new | 2023 | 10.1186/s43088-023-00420-6 | article | Efficacy of polyherbal formulation along with standard care of treatment in early recovery of COVID-19 patients: a randomized placebo-controlled trial | Beni-Suef University Journal of Basic an
+- new | 2023 | 10.1016/s0168-8278(23)02302-4 | article | A randomized controlled trial of kalmegh supplementation on non-alcoholic fatty liver disease | Journal of Hepatology
+- new | 2023 | 10.26502/aimr.0146 | article | Effect of Andrographis paniculata Treatment for Nonimmune Patients with Early-Stage COVID-19 on the Prevention of Pneumonia: A Retrospective Cohort Study | Archives of Internal Medicine Research
+- new | 2022 | 10.26502/aimr.0125 | article | Efficacy and Safety of Andrographis Paniculata Extract in Patients with Mild COVID-19: A Randomized Controlled Trial | Archives of Internal Medicine Research
+- new | 2022 | 10.1055/s-0042-1759121 | article | Use of Andrographis paniculata in the management of acute bronchitis in primary care: protocol of a pragmatic randomized controlled trial | Planta Medica
+- new | 2022 | https://openalex.org/W7219959184 | article | The effect of locally delivered Andrographis paniculata gel as an adjunct therapy for periodontitis in well-controlled type 2 diabetes mellitus patients | Mahidol Dental Journal
+- new | 2021 | 10.1016/j.eujim.2021.101890 | article | The GRAPHALO Trial: A double blind, randomised, placebo controlled, feasibility trial evaluating the possibility of delivering AndroGRAPHis pAnicuLata as a treatment of adults with | European Journal of Integrative Medicine
+- new | 2021 | 10.35755/jmedassocthai.2021.07.13037 | article | The Efficacy and Safety of Andrographis paniculata Extract for the Treatment of Acute Nonspecific Upper Respiratory Tract Infections: A Randomized Double Blind Placebo Controlled T | Journal of the Medical Association of Th
+- new | 2021 | 10.1016/j.sajb.2021.12.011 | article | A bibliometric analysis of preclinical trials of Andrographis paniculata (Burm.f.) Nees in diabetes mellitus | South African Journal of Botany
+- new | 2021 | 10.18203/2319-2003.ijbcp20213747 | article | Assessment of safety and efficacy of a dietary supplement KaraLiv™ in supporting liver health: a double-blind, parallel, placebo-controlled randomized clinical trial | International Journal of Basic & Clinica
+- new | 2020 | 10.21203/rs.3.rs-90769/v1 | preprint | Sambiloto (Andrographis Paniculata) Increases Glucagon–Like Peptide 1 Concentration in Prediabetes: A Double–Blind, Randomized, Placebo-Controlled Trial | Research Square
+- new | 2019 | 10.31525/ct1-nct04161404 | article | Pharmacometabolomics of Andrographis Paniculata And Metformin In Healthy Volunteers Under Fasting Condition | Case Medical Research
+- new | 2019 | https://openalex.org/W3198799658 | article | The efficacy and safety of Ethyl Acetate Fraction Tablet of Andrographis paniculata (AS201-01) in Malarial Uncomplicated Patient | 
+- new | 2017 | https://openalex.org/W2744591707 | article | Effect of Senshinren Extract (Anphis) Intake on Alcohol Metabolism-A Randomized, Double-blind, Placebo-controlled, Crossover Study- | 薬理と治療
+- new | 2015 | 10.5171/2015.786773 | article | The Efficacy of Subgingivally Delivered Andrographis Paniculata Gel to Treat Patients with Periodontitis | Journal of Research and Practice in Dent
+- new | 2014 | 10.5455/medscience.2014.03.8184 | article | Andrographis Paniculata (Burm. F.) Nees Induces Clinical and Sputum Conversion in Pulmonary Tuberculosis Patients | Medicine Science | International Medical
+- new | 2013 | https://openalex.org/W779250307 | article | A CLINICAL EVALUATION OF HEPATOPROTECTIVE EFFECTS OFKALMEGH (Andrographis paniculata WALL. EX NEES) IN PATIENTS OFACUTE VIRAL HEPATITIS | 
+- new | 2012 | https://openalex.org/W2183691336 | article | The effects of Andrographis paniculata (Burm.f.) Nees on the pharmacokinetics and pharmacodynamics of midazolam in healthy volunteers | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2012 | 10.7897/2277-4343.03610 | article | AN OVERVIEW ON ANDROGRAPHIS PANICULATA (BURM. F.) NEES | International Journal of Research in Ayu
+- new | 2011 | 10.53945/2320-7094.1715 | article | Andrographis paniculata - A multicentric, randomized, double-blind homoeopathic pathogenetic trial | Indian Journal of Research in Homoeopath
+- new | 2011 | 10.5897/jpbcs11.066 | article | Genetic diversity and inbreeder specie of Andrographis paniculata (Burm. f.) Nees by randomly amplified polymorphic deoxyribonucleic acid (RAPD) and floral architecture analysis | Journal of Plant Breeding and Crop Scien
+- new | 2010 | 10.14309/00000434-201010001-01180 | article | Randomized, Double-blind, Placebo-Controlled Trial of Andrographis Paniculata Extract (HMPL-004) in Patients with Moderately Active Crohnʼs Disease | The American Journal of Gastroenterology
+- new | 2010 | https://openalex.org/W295648451 | article | The influence of Andrographis paniculata compound on average daily feed intake of lactating sows and the litter weight gain of piglets: a field trial. | 
+- new | 2007 | https://openalex.org/W7132867820 | article | OPEN LABEL CLINICAL TRIAL TO STUDY ADVERSE EFFECTS AND TOLERANCE TO DRY POWDER OF THE AERIAL PART OF AND ROGRAPHIS PANICULATA IN PATIENTS TYPE 2 WITH DIABETES MELLITUS | TSpace (University of Toronto)
+- new | 2007 | 10.1177/1934578x0700200519 | article | Phytochemistry, Pharmacology and Clinical Use of Andrographis paniculata | Natural Product Communications
+
+## anethum-graveolens (Anethum graveolens) - name clause: "Anethum graveolens"[tiab] OR "dill"[ti]
+
+### PubMed HT - 32 hits, 32 not already listed above, 24 new
+- new | 2026 | 42020557 |  | Multivariate analysis of morpho-chemo variations in Anethum graveolens L. accessions. | Sci Rep
+- SEEN | 2026 | 41653970 | Systematic Review/Meta-Analysis | Efficacy of herbaceous Apiaceae plants in primary dysmenorrhea: A systematic review and meta-analysis of RCTs. | Ann Pharm Fr
+- new | 2025 | 40329862 | Randomized Controlled Trial | Randomized Placebo Controlled Clinical Study of Dill (Anethum Graveolens L.) in Thyroiditis and Nodular Goiter Patients. | J Med Food
+- new | 2025 | 40715564 |  | Effect of weed management on growth, yield and economics of dill (Anethum graveolens L.) in typic haplustept soils. | Sci Rep
+- new | 2025 | 42021801 |  | Efficacy of Topical Chamomile and Dill Oil on Abdominal Obesity in Women Ages 25-55 Years: A Randomized Clinical Trial. | Med J Islam Repub Iran
+- new | 2025 | 39410893 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparison of the Effects of Dill Seed, Grape Seed and Date Extracts on Postpartum Hemorrhage Rates in the Fourth Stage of Labor: A Randomized Clinical Trial. | Rev Recent Clin Trials
+- new | 2025 | 40254713 |  | Biochar-mediated remediation of nickel and copper improved nutrient availability and physiological performance of dill plants. | Sci Rep
+- new | 2024 | 38264189 |  | Effect of Dill (Anethum graveolens) Oil on Pruritus and Quality of Life of Hemodialysis Patients: A Randomized Double-Blind Three-Arm Controlled Trial. | Evid Based Complement Alternat Med
+- new | 2024 | 39599732 | Randomized Controlled Trial | A Combined Extract Derived from Black Sticky Rice and Dill Improves Clinical Symptoms and Ischemic Stroke Biomarkers in Transient Ischemic Attack and Ischemic Stroke Patients. | Nutrients
+- HELD REF-0174 | 2022 | 33624557 | Meta-Analysis/Systematic Review | The effects of Anethum graveolens (dill) supplementation on lipid profile and glycemic control: a systematic review and meta-analysis of randomized controlled trials. | Crit Rev Food Sci Nutr
+- HELD REF-3435 | 2022 | 34838903 | Systematic Review | Anethum graveolens L. (Dill) Effect on Human Lipid Profile: An Updated Systematic Review. | Curr Probl Cardiol
+- new | 2022 | 36353338 |  | Effect of 6 weeks Pilates training along with dill supplementation on serum concentrations of nesfatin-1, lipocalin-2, and insulin resistance in females with overweight and obesity | J Res Med Sci
+- new | 2020 | 33130423 | Systematic Review | Effect of dill (Anethum Graveolens Linn) seed on the duration of labor: A systematic review. | Complement Ther Clin Pract
+- HELD REF-1391 | 2020 | 32503652 | Randomized Controlled Trial | The effects of Anethum graveolens (dill) powder supplementation on clinical and metabolic status in patients with type 2 diabetes. | Trials
+- new | 2020 | 32583541 | Randomized Controlled Trial | A blackberry-dill extract combination synergistically increases skin elasticity. | Int J Cosmet Sci
+- new | 2020 | 33273914 |  | Comparison of a Novel Herbal Medicine and Omeprazole in the Treatment of Functional Dyspepsia: A Randomized Double-Blinded Clinical Trial. | Gastroenterol Res Pract
+- new | 2020 | 32565786 |  | Efficacy and Safety of a Novel Herbal Medicine in the Treatment of Irritable Bowel Syndrome: A Randomized Double-Blinded Clinical Trial. | Gastroenterol Res Pract
+- HELD REF-3438 | 2020 | 31705450 | Randomized Controlled Trial | Effects of Boiled Dill Seed on Anxiety During Labor: A Randomized Clinical Trial. | Chin J Integr Med
+- HELD REF-3437 | 2018 | 29553834 | Randomized Controlled Trial | The effect of a vaginal suppository formulation of dill (Anethum graveolens) in comparison to clotrimazole vaginal tablet on the treatment of vulvovaginal candidiasis. | J Obstet Gynaecol
+- HELD REF-2586 | 2016 | 27000311 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dietary supplements for dysmenorrhoea. | Cochrane Database Syst Rev
+- new | 2016 | 27386006 |  | Comparison of Dill Seed Oil Mouth Rinse and Chlorhexidine Mouth Rinse on Plaque Levels and Gingivitis - A Double Blind Randomized Clinical Trial. | Open Dent J
+- new | 2014 | 26401357 |  | Antigiardial effect of Anethum graveolens aqueous extract in children. | J Intercult Ethnopharmacol
+- new | 2014 | 25097605 |  | Effect of Dill (Anethum graveolens) on the severity of primary dysmenorrhea in compared with mefenamic acid: A randomized, double-blind trial. | J Res Med Sci
+- new | 2014 | 26054923 |  | Application of different fertilizers on morphological traits of dill (Anethum graveolens L.). | Org Med Chem Lett
+- new | 2014 | 25453516 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized clinical trial of the efficacy of applying a simple protocol of boiled Anethum Graveolens seeds on pain intensity and duration of labor stages. | Complement Ther Med
+- new | 2014 | 25422662 |  | Anethum graveolens and hyperlipidemia: A randomized clinical trial. | J Res Med Sci
+- new | 2013 | 23900938 | Research Support, Non-U.S. Gov't | Effects of bioactive-rich extracts of pomegranate, persimmon, nettle, dill, kale and Sideritis and isolated bioactives on arachidonic acid induced markers of platelet activation an | J Sci Food Agric
+- new | 2012 | 23351341 |  | The effect of 12 weeks Anethum graveolens (dill) on metabolic markers in patients with metabolic syndrome; a randomized double blind controlled trial. | Daru
+- new | 2011 | 20807260 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of the efficacy of a dill extract in vitro and in vivo. | Int J Cosmet Sci
+- new | 2007 | 17512681 | Clinical Trial | Repellent activity of selected essential oils against Aedes aegypti. | Fitoterapia
+- HELD REF-3436 | 2007 | 17328819 | Randomized Controlled Trial | Effects of anethum graveolens and garlic on lipid profile in hyperlipidemic patients. | Lipids Health Dis
+- new | 2006 | 16260003 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Blood volume measurement: The comparison of pulse dye densitometry and Dill and Costill's methods. | Life Sci
+
+### PubMed SR - 8 hits, 3 not already listed above, 3 new
+- new | 2022 | 35490427 | Systematic Review | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review. | Infect Disord Drug Targets
+- new | 2022 | 36432799 | Review | Exploring Contact Toxicity of Essential Oils against Sitophilus zeamais through a Meta-Analysis Approach. | Plants (Basel)
+- new | 2022 | 36295037 | Review | Alpha-Phellandrene and Alpha-Phellandrene-Rich Essential Oils: A Systematic Review of Biological Activities, Pharmaceutical and Food Applications. | Life (Basel)
+
+### PubMed SAFE - 53 hits, 45 not already listed above, 44 new
+- new | 2026 | 40417756 | Review | Management of Steroid-Induced Diabetes: A Review of Herbal Medications and Their Role in Modulating Insulin Signaling Pathways. | Endocr Metab Immune Disord Drug Targets
+- new | 2025 | 40594597 |  | Synergistic and antagonistic contributions of main components to the bioactivity profile of Anethum graveolens extract. | Sci Rep
+- new | 2025 | 41341181 |  | Dill extract attenuates liver fibrosis and steatohepatitis in obese rats via modulating TGF-β1 signaling and collagen accumulation. | Res Pharm Sci
+- new | 2025 | 40578409 |  | Phytochemical characterization, antioxidant and anti-inflammatory properties of Anethum graveolens L. seeds' ethanolic extract: In vitro and In vivo studies. | J Ethnopharmacol
+- new | 2025 | 40951559 | Comparative Study | Comparative Evaluation of the Antimicrobial Efficacy of Anethum Graveolens Gel with Chlorhexidine Gel against Aggregatibacter actinomycetemcomitans, Porphyromonas gingivalis and Fu | Arch Razi Inst
+- new | 2024 | 39115258 |  | Antidiarrheal, anti-inflammatory and antioxidant effects of Anethum graveolens L. fruit extract on castor oil-induced diarrhea in rats. | Neurogastroenterol Motil
+- new | 2024 | 39286161 |  | Hepato-renal protective impact of nanocapsulated Petroselinum crispum and Anethum graveolens essential oils added in fermented milk against some food additives via antioxidant and  | Heliyon
+- new | 2023 | 36900550 |  | Quantification of 363 Pesticides in Leafy Vegetables (Dill, Rocket and Parsley) in the Turkey Market by Using QuEChERS with LC-MS/MS and GC-MS/MS. | Foods
+- new | 2023 | 37653914 |  | GC/MS Profiling, Antibacterial, Anti-Quorum Sensing, and Antibiofilm Properties of Anethum graveolens L. Essential Oil: Molecular Docking Study and In-Silico ADME Profiling. | Plants (Basel)
+- new | 2023 | 36153765 |  | Biochar-based nutritional nanocomposites: a superior treatment for alleviating salt toxicity and improving physiological performance of dill (Anethum graveolens). | Environ Geochem Health
+- new | 2023 | 36509255 |  | Revealing the most effective anticonvulsant part of Malvaviscus arboreus Dill. Ex Cav. and its acute and sub-acute toxicity. | J Ethnopharmacol
+- new | 2023 | 36655164 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the fruit of Anethum graveolens L. (dill tincture) for use in all animal species (FEFANA asbl). | EFSA J
+- new | 2023 | 38045604 |  | Evaluation of acute, subacute, and subchronic toxicity of a hepatoprotective herbal formulation. | Toxicol Rep
+- new | 2023 | 37182677 |  | A novel perspective on the preventive treatment of hydrazine compound-induced liver injury: Isoniazid liver injury as an example. | J Ethnopharmacol
+- new | 2023 | 37147989 | Observational Study | Amalgamation of quercetin with anastrozole and capecitabine: A novel combination to treat breast and colon cancers - An in vitro study. | J Cancer Res Ther
+- new | 2022 | 34322881 |  | Isolation, screening and identification of key components having intense insect repellent activity against Plodia interpunctella from four different medicinal plant materials. | J Sci Food Agric
+- new | 2022 | 35001576 |  | Dill Shows Potential for Herb-Drug Interactions via Up-Regulation of CYP1A2, CYP2C19, SULT1A1, NAT2 and ABCB1 in Caco-2 Cells. | Pak J Biol Sci
+- new | 2022 | 36570349 |  | Safety and efficacy of a feed additive consisting of an essential oil from the aerial parts of Anethum graveolens L. (dill herb oil) for use in dogs and cats (FEFANA asbl). | EFSA J
+- HELD REF-2855 | 2022 | 34282978 | Research Support, Non-U.S. Gov't | Anethum Graveolens Essential Oil Nanoemulsions (AGEO-NE) as an Exclusive Apoptotic Inducer in Human Lung Adenocarcinoma (A549) Cells. | Nutr Cancer
+- new | 2022 | 34265876 |  | Effect of Ḥijāma (wet cupping), Dalk (massage) and Bukhūr (medicated steam) in amelioration of Waja al-Zahr (non-specific low back pain) - an open prospective clinical trial. | J Complement Integr Med
+- new | 2022 | 35999251 | Research Support, Non-U.S. Gov't | Application of growth promoting hormones alters the composition and antioxidant potential of dill essential oil under salt stress. | Sci Rep
+- new | 2021 | 34686003 |  | Potential of Essential Oils from Anise, Dill and Fennel Seeds for the Gypsy Moth Control. | Plants (Basel)
+- new | 2021 | 34001970 |  | Application of clove and dill oils as an alternative of salphos for chickpea food seed storage. | Sci Rep
+- new | 2021 | 33904177 | Research Support, Non-U.S. Gov't | UPLC-PDA-ESI/MS metabolic profiling of dill shoots bioactive fraction; evidence of its antioxidant and hepatoprotective effects in vitro and in vivo. | J Food Biochem
+- new | 2020 | 32152873 |  | Protective Effects of Anethum graveolens Seed's Oil Nanoemulsion Against Cadmium-Induced Oxidative Stress in Mice. | Biol Trace Elem Res
+- new | 2019 | 31353585 |  | Antioxidant activity of Anethum graveolens L. essential oil constituents and their chemical analogues. | J Food Biochem
+- new | 2018 | 30555654 |  | Effects of Anethum graveolens L. on In Vitro Matured Mouse Oocytes and Granulosa Cells. | Avicenna J Med Biotechnol
+- new | 2017 | 28182107 |  | Methanolic Extract of Dill Leaves Inhibits AGEs Formation and Shows Potential Hepatoprotective Effects in CCl(4) Induced Liver Toxicity in Rat. | J Pharm (Cairo)
+- new | 2016 | 27041871 | Review | Review of Scientific Evidence of Medicinal Convoy Plants in Traditional Persian Medicine. | Pharmacogn Rev
+- new | 2016 | 26872137 |  | Phytochemical Screening, Antidepressant and Analgesic Effects of Aqueous Extract of Anethum graveolens L. From Southeast of Morocco. | Am J Ther
+- new | 2015 | 26281312 | Research Support, Non-U.S. Gov't | Toxic potentials of ten herbs commonly used for aphrodisiac effect in Turkey. | Turk J Med Sci
+- new | 2014 | 24742834 | Research Support, Non-U.S. Gov't | Dill (Anethum graveolens L.) seed essential oil induces Candida albicans apoptosis in a metacaspase-dependent manner. | Fungal Biol
+- new | 2014 | 25337380 |  | Effects of Hydro-alcoholic Extract of Anethum Graveolens Seed on Pentylenetetrazol-induced Seizure in Adult Male Mice. | Basic Clin Neurosci
+- new | 2012 | 23028394 |  | Evaluation of Safety and Protective Effect of Combined Extract of Cissampelos pareira and Anethum graveolens (PM52) against Age-Related Cognitive Impairment. | Evid Based Complement Alternat Med
+- new | 2012 | 24250550 |  | The Study of Anti-Inflammatory Activity of Oil-Based Dill (Anethum graveolens L.) Extract Used Topically in Formalin-Induced Inflammation Male Rat Paw. | Iran J Pharm Res
+- new | 2008 | 18270466 | Comparative Study | Fumigant toxicity of essential oils from some common spices against pulse beetle, Callosobruchus chinensis (Coleoptera: Bruchidae). | J Oleo Sci
+- new | 2006 | 30000937 | Review | Dill. | 
+- new | 2006 | 16741594 | Case Reports/Comment/Letter | Cardiac angiosarcoma: case report and review of the literatur : R. R. Brandt, R. Arnold, R.M. Bohle, T. Dill, C.W. Hamm; Z Kardiol 94:824-828 (2005). | Clin Res Cardiol
+- new | 2003 | 12868972 | Case Reports | Contact urticaria from dill. | Contact Dermatitis
+- new | 2002 | 12169195 | Case Reports | Occupational contact dermatitis to dill. | Allergy
+- new | 2001 | 11313115 |  | Genotoxicity of dill (Anethum graveolens L.), peppermint (Menthaxpiperita L.) and pine (Pinus sylvestris L.) essential oils in human lymphocytes and Drosophila melanogaster. | Food Chem Toxicol
+- new | 2000 | 10831013 | Case Reports | Anaphylaxis to dill. | Ann Allergy Asthma Immunol
+- new | 2000 | 10877226 | Case Reports | Two cases of refractory ascites associated with dill pickle ingestion. | Dig Dis Sci
+- new | 1999 | 10380793 | Case Reports | Allergy to fresh dill. | Allergy
+- new | 1980 | 7411385 | Research Support, Non-U.S. Gov't | Characterization of mutagenic principles and carcinogenicity of dill weed and seeds. | J Pharmacobiodyn
+
+### PubMed OBS - 4 hits, 2 not already listed above, 2 new
+- new | 2025 | 39883310 |  | Chemical composition, antibacterial and antioxidant activities of Piper betle and Anethum graveolens essential oils against Methicillin-resistant Staphylococcus aureus clinical iso | Braz J Microbiol
+- new | 2022 | 36419502 |  | Determinants of Type 2 Diabetes Mellitus Among Adults in Dill-Chora Referral Hospital, Dire Dawa, East Ethiopia. | Diabetes Metab Syndr Obes
+
+### PubMed REV - 15 hits, 10 not already listed above, 10 new
+- new | 2026 | 41752358 | Review | Carvone-Rich Essential Oils and Their Agrobiological Interactions: A Review. | Molecules
+- new | 2026 | 41988012 | Review | Clinical Significance of Difference in Lumbar Lordosis (DiLL) as a Dynamic Spinal Alignment Parameter: A Narrative Review. | Spine Surg Relat Res
+- new | 2024 | 38612606 | Review | Phytotherapy of Vulvovaginal Candidiasis: A Narrative Review. | Int J Mol Sci
+- new | 2022 | 36014186 | Review | Chitosan Nanoparticle Encapsulation of Antibacterial Essential Oils. | Micromachines (Basel)
+- new | 2021 | 34804367 | Review | Antispasmodic Potential of Medicinal Plants: A Comprehensive Review. | Oxid Med Cell Longev
+- new | 2021 | 33023434 | Review | Efficacy of Six Plants of Apiaceae Family for Body Weight Management: A Review from the Perspective of Modern and Traditional Persian Medicine. | Curr Drug Discov Technol
+- new | 2020 | 33425263 | Review | Hospital diet for COVID-19, an acute respiratory infectious disease: An evidence-based Protocol of a Clinical Trial. | Caspian J Intern Med
+- new | 2019 | 30668411 | Review | Medicinal plants in treatment of hypertriglyceridemia: A review based on their mechanisms and effectiveness. | Phytomedicine
+- new | 2017 | 28714737 | Review | Breastfeeding: A Review of Its Physiology and Galactogogue Plants in View of Traditional Persian Medicine. | Breastfeed Med
+- new | 2016 | 27829842 | Review | The Role of Anethum graveolens L. (Dill) in the Management of Diabetes. | J Trop Med
+
+### ClinicalTrials.gov - 5 registered studies
+- NCT05175391 | COMPLETED | results=False | NA | Improving Protein Intake in Older Adults | conds: Food Preferences | intr: Meat based protein with added spice; Plant based protein with added spice
+- NCT04482907 | COMPLETED | results=False | NA | Effect of Dill in Thyroiditis and Nodular Goiter Patients | conds: Thyroid Nodule | intr: Giving dill by mouth capsule to the study group and placebo capsule by mouth to the control group. | pubs: ['22228959:RESULT (new)', '23764360:RESULT (new)', '25461470:RESULT (new)', '24908232:RESULT (new)', '29215302:RESULT (new)', '27753646:RESULT (new)']
+- NCT05848336 | COMPLETED | results=False | NA | The Gluten-Casein-free Diet in Children With Autism: A Clinical Results of the Ophthalmic and Behavioral Manifestations | conds: Autism Spectrum Disorder, Ophthalmic Abnormalities | intr: Gluten Free Casein Free Diet
+- NCT07190911 | COMPLETED | results=False | NA | Efficacy of Olfactive Training on Loss of Smell and Taste Caused by SARS CoV2 COVID-19 (Covid-Smell) | conds: COVID - 19 | intr: Olfactory rehabilitation consists of smelling a series of spices every day for 2 months
+- NCT01646164 | COMPLETED | results=False |  | Effect of Dill Seed on Uterus Contractions Pattern | conds: Uterus Contractions Pattern | intr: 
+
+### OpenAlex no-PMID trial-worded - 1264 hits, 66 without PMID, 66 new
+- new | 2026 | 10.20935/acadnutr8095 | article | Evidence from randomized trials on lipid-lowering by culinary herbs and spices | Academia Nutrition and Dietetics
+- new | 2026 | 10.1016/j.ctmp.2026.200305 | article | A randomized controlled trial comparing Unani formulation and metformin in patients with polycystic ovarian syndrome | Clinical Traditional Medicine and Pharma
+- new | 2026 | 10.30602/jvk.v12i1.1853 | article | THE IMPACT OF GARLIC OIL SUPPLEMENTATION ON HDL AND TRIGLYCERIDE LEVELS IN PATIENTS WITH DYSLIPIDAEMIA: RANDOMIZED CONTROLLED TRIAL | Jurnal Vokasi Kesehatan
+- new | 2025 | 10.1002/slct.202405345 | article | Investigating the Efficacy of Silver Anethum graveolens Nano‐Extract in Colon Cancer Radiotherapy | ChemistrySelect
+- new | 2024 | 10.56936/18290825-18.2024-121 | article | Comparison of The Effect of Lipexan Herbal Medicine Product With Placebo And Gemfibrozil on Blood Lipid Indices | THE NEW ARMENIAN MEDICAL JOURNAL
+- new | 2024 | 10.1016/j.jarmap.2024.100559 | article | Exploration of Anethum graveolens diversity from North Western Himalayan | Journal of Applied Research on Medicinal
+- new | 2024 | 10.33545/26174693.2024.v8.i11a.2802 | article | Evaluation of elite genotype in dill (Anethum graveolens L.) as leafy vegetable | International Journal of Advanced Bioche
+- new | 2024 | 10.56093/ijss.v12i1.8 | article | Effect of organic manure and biofertilizers on growth and yield of Dill (Anethum graveolens L.) | International Journal of Seed Spices
+- new | 2024 | 10.33899/mjn.2024.184648 | article | Anethum graveolens and Allium polyanthum extracts suppress obesity in HFD-fed rats | Mağallaẗ al-Mawṣil li-l-tamrīḍ/Mosul jou
+- new | 2023 | 10.2298/pif2301033s | article | Sensitivity of Cuscuta species and their hosts to Anethum graveolens essential oil | Pesticidi i fitomedicina
+- new | 2023 | 10.4314/mejs.v15i1.5 | review | The Effect of Anethum Graveolens on Male Fertility: Systematic Review and Meta-Analysis | Momona Ethiopian Journal of Science
+- new | 2022 | 10.1590/s2175-97902022e18825 | article | Efficacy of an herbal compound in decreasing steatosis and transaminase activities in non-alcoholic fatty liver disease: A randomized clinical trial | Brazilian Journal of Pharmaceutical Scie
+- new | 2022 | 10.6084/m9.figshare.20307047 | dataset | Efficacy of an herbal compound in decreasing steatosis and transaminase activities in non-alcoholic fatty liver disease: A randomized clinical trial | Figshare
+- new | 2022 | 10.21203/rs.3.rs-1421947/v1 | preprint | Safety Evaluation and Biochemical Efficacy of Celery Seed Extract (Apium Graveolens) Capsules in Hypertensive Patients: A Randomized, Triple-blind, Placebo-Controlled, Cross-Over,  | Research Square
+- new | 2022 | 10.22541/au.164682208.88673206/v1 | preprint | Safety Evaluation and Biochemical Efficacy of Celery Seed Extract (Apium Graveolens) Capsules in Hypertensive Patients: A Randomized, Triple-blind, Placebo-Controlled, Cross-Over,  | Authorea
+- new | 2022 | 10.22038/ijogi.2022.21139 | article | The Effect of Medicinal Plants on Gynecological and Obstetric Hemorrhages: A Systematic Review of Clinical Trials | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2021 | 10.22038/ijogi.2021.18438 | article | The Effect of Anethum graveolen seed extract on Intestinal Function after cesarean section: a single-blind randomized clinical trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2021 | 10.1016/j.hermed.2021.100526 | article | The effects of rectal suppositories of Plantago major and Anetheum Graveolens on postpartum hemorrhage: A randomized triple blinded clinical trial | Journal of Herbal Medicine
+- new | 2021 | 10.5812/jjnpp.104000 | article | The Effect of Rectal Suppository of Anethum graveolens on the Postpartum Hemorrhage Rate: Evidence from a Single-Blind Clinical Trial Study | Jundishapur Journal of Natural Pharmaceu
+- new | 2021 | 10.18502/ccb.v2i1.5870 | review | The Effect of Anethum Graveolens L. (Dill) on Lipid Profile in Adults with Cardiovascular Risk Factors: A Systematic Review and Meta-Analysis of Controlled Clinical Trials | Critical Comments in Biomedicine
+- new | 2021 | 10.36648/2321-2748.9.3.13 | review | Effect of Anethum graveolens L. (Dill)Consumption on Serum Lipids: A Systematic Review and Meta-analysis | American journal of phytomedicine and cl
+- new | 2021 | 10.1016/j.hermed.2021.100516 | review | Effects of Anethum graveolens (dill) and its derivatives on controlling cardiovascular risk factors: A systematic review and meta-analysis | Journal of Herbal Medicine
+- new | 2020 | 10.52547/jccs.1.4.165 | article | Comparing the Effect of Boiled Anethum graveolens Seed with Oxytocin on the Duration of Labor and Pain in Iranian Women: A Randomized Clinical Trial | Journal of Clinical Care and Skills
+- new | 2020 | 10.5958/2231-5659.2020.00045.4 | article | The study of Anethum graveolens L. (Dill) in the case of Diabetes mellitus (DM) | Asian Journal of Research in Pharmaceuti
+- new | 2020 | 10.2174/9789811441493120020008 | book-chapter | Exploration of Dill Seeds (Anethum Graveolens): An Ayurpharmacomic Approach | Science of spices & herbs
+- new | 2020 | https://openalex.org/W3157363227 | dissertation | GENOTYPIC VARIABILITY AND CORRELATION STUDIES IN DILL (Anethum graveolens L.). | 
+- new | 2020 | 10.1007/978-3-030-16807-0_27 | book-chapter | Anethum graveolens (L.) Benth. & Hook (Apiaceae/Umbelliferae) | Springer eBooks
+- new | 2020 | 10.2174/1874104502014010035 | article | Anethum graveolens L. Alleviates Sperm Damage by Limiting Oxidative Stress and Insulin Resistance in Diabetic Rats | The Open Medicinal Chemistry Journal
+- new | 2020 | 10.1088/1755-1315/553/1/012018 | conference-paper | Effect of Dill Powder (Anethum graveolens) as a Dietary Supplement on Productive Performance, Mortality and Economic Figure in Broiler | IOP Conference Series Earth and Environm
+- new | 2019 | 10.1007/978-3-030-04408-4_8 | book-chapter | Protective Role of Medicinal Herb Anethum Graveolens (Dill) Against Various Human Diseases and Metabolic Disorders | Springer eBooks
+- new | 2019 | 10.21608/bvmj.2019.16109.1079 | article | Amelorative effects of anethum graveolens (Dill) against lornoxicam toxicity in rats | Benha Veterinary Medical Journal
+- new | 2019 | 10.1088/1755-1315/388/1/012020 | conference-paper | The effect of adding Dill (Anethum graveolens) leaves powder in the diets of broiler on some physiological properties | IOP Conference Series Earth and Environm
+- new | 2018 | 10.5812/ircmj.74211 | article | Comparing the Effect of Dill Seed Vaginal Cream, with a Persian Traditional Base, and 1% Clotrimazole Vaginal Cream on Vulvovaginal Candidiasis: A Double-Blind, Randomized Clinical | Iranian Red Crescent Medical Journal
+- new | 2017 | 10.1016/j.hermed.2017.01.002 | article | Effects of Anethum graveolens L. (Dill) essential oil on the intensity of retained intestinal gas, flatulence and pain after cesarean section: A randomized, double-blind placebo-co | Journal of Herbal Medicine
+- new | 2017 | 10.22038/ijogi.2017.9505 | article | The effect of Anethum graveolens L. oil consumption on the intensity of nausea after cesarean section | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2016 | 10.36321/kjns.vi20162.2635 | article | Antibacterial Effect of Dill Seed Oil Anethum graveolens Anethum graveolens | kufa journal for nursing sciences
+- new | 2016 | 10.22034/ijpp.2016.532675 | article | Seed germination of dill (Anethum graveolens L.) in response to salicylic acid and halopriming under cadmium stress. | PLANT PHYSIOLOGY
+- new | 2016 | 10.23910/ijbsm/2016.7.4.1598 | article | Effect of Row Spacing and Nitrogen Levels on Growth and Yield of Dill (Anethum graveolens L.) | International Journal of Bio-resource an
+- new | 2015 | 10.17795/jjnpp-27876 | article | Comparison the Effect of Anethum graveolens and Oxytocin on Induction of Labor in Term Pregnancy: A Randomized Clinical Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2015 | https://openalex.org/W2224694250 | article | The effects of Anethum graveolens L supplementation on the insulin resistance and inflammatory biomarkers in patients with type 2 diabetes | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2015 | 10.1016/j.indcrop.2015.09.003 | article | Changes in the essential oil yield and composition of dill ( Anethum graveolens L.) as response to arbuscular mycorrhiza colonization and cropping system | Industrial Crops and Products
+- new | 2015 | 10.1134/s0003683815030114 | article | Biologically active peptides isolated from dill Anethum graveolens L. | Applied Biochemistry and Microbiology
+- new | 2015 | 10.4172/2161-1459.1000122 | article | Antinociceptive Properties of Hydro Alcoholic Extracts of Anethum graveolens L. (dill) Seed and Aerial Parts in Mice | Clinical and Experimental Pharmacology
+- new | 2015 | 10.17660/actahortic.2015.1099.29 | conference-paper | THE EFFECT OF MODIFIED ATMOSPHERE STORAGE ON THE QUALITY OF FRESH DILL (ANETHUM GRAVEOLENS L.) | Acta Horticulturae
+- new | 2014 | https://openalex.org/W2186977293 | article | Anethum graveolens supplementation improves insulin sensitivity and lipid abnormality in type 2 diabetic patients | Pharmaceutical Sciences
+- new | 2014 | https://openalex.org/W2490609384 | article | Anethum graveolens L. supplementation has anti-inflammatory effect in type 2 diabetic patients | 
+- new | 2014 | 10.1530/endoabs.35.p745 | conference-abstract | The efficacy and safety of 12 weeks Anethum graveolens on waist circumference and triglyceride in patients with metabolic syndrome | Endocrine Abstracts
+- new | 2014 | 10.3923/pjn.2014.303.309 | article | Hepatoprotective Effect of Dill (Anethum graveolens L.) and Fennel (Foeniculum vulgare) Oil on Hepatotoxic Rats | Pakistan Journal of Nutrition
+- new | 2014 | https://openalex.org/W1939385826 | article | INFLUENCE OF COMPOST AND BIOFERTILIZER ON YIELD AND ESSENTIAL OIL OF DILL (ANETHUM GRAVEOLENS L.) | International Journal of Advanced Biolog
+- new | 2013 | https://openalex.org/W2157158456 | article | EFFECT OF ANETHUM GRAVEOLENS HYDROALCOHOLIC EXTRACT ON PENTYLENETETRAZOLE-INDUCED PAROXYSM | مجله علمی پژوهشی افق دانش
+- new | 2013 | 10.5897/jmpr12.363 | article | Effect of bio and chemical fertilizers on seed yield and its components of dill (Anethum graveolens) | Journal of Medicinal Plants Research
+- new | 2012 | 10.5455/spatula.20120907123553 | article | Effects of Anethum graveolens leave powder on lipid profile in hyperlipidemic patients | Spatula DD
+- new | 2012 | https://openalex.org/W2733339306 | article | Use of Anethum graveolens in the management of patients with Irritable Bowel Syndrome | 
+- new | 2012 | 10.1007/s10535-012-0009-2 | article | In vitro regeneration of Anethum graveolens, antioxidative enzymes during organogenesis and RAPD analysis for clonal fidelity | Biologia Plantarum
+- new | 2012 | https://openalex.org/W2329502413 | article | EFFECT OF BIO-FERTILIZERS ON PERFORMANCE OF DILL (ANETHUM GRAVEOLENS L.) | 
+- new | 2012 | 10.17660/actahortic.2012.955.42 | conference-paper | GROWTH AND ESSENTIAL OIL YIELD OF DILL (ANETHUM GRAVEOLENS) AS AFFECTED BY FOLIAR SPRAYS OF CITRIC ACID AND MALIC ACID | Acta Horticulturae
+- new | 2012 | 10.1007/s10722-012-9886-7 | article | Analysis of genetic diversity and population structure of 135 dill (Anethum graveolens L.) accessions using RAPD markers | Genetic Resources and Crop Evolution
+- new | 2012 | https://openalex.org/W1555371079 | article | The effect of 4-weeks aerobic training according with the usage of Anethum Graveolens on blood sugar and lipoproteins profile of diabetic women | Annals of biological research
+- new | 2011 | 10.5897/jmpr.9000325 | article | Changes in essential oil content of dill (Anethum graveolens) organs under salinity stress | Journal of Medicinal Plants Research
+- new | 2011 | 10.17660/actahortic.2011.925.30 | conference-paper | CULTIVATION OF DILL (ANETHUM GRAVEOLENS L.) WITH DIFFERENT ROW ARRANGEMENTS | Acta Horticulturae
+- new | 2010 | 10.1007/s11240-010-9821-6 | article | Field evaluation of doubled haploid plants in the Apiaceae: dill (Anethum graveolens L.), caraway (Carum carvi L.), and fennel (Foeniculum vulgare Mill.) | Plant Cell Tissue and Organ Culture (PCT
+- new | 2007 | https://openalex.org/W758601692 | article | The content of essential oil and tannins in fruit of some cultivars of dill (Anethum graveolens L.) | Annales Horticulturae
+- new | 2002 | https://openalex.org/W2287828766 | article | Comparison of therapeutic and short course side effects of Anethum graveolens L. (dill) with other common antihyperlipidemic drugs and placebo in combined hyperlipidemia: A double  | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2002 | 10.17660/actahortic.2002.576.30 | conference-paper | CULTIVATION TRIALS OF SOME AROMATIC AND MEDICINAL PLANTS IN A SEMI-ARID MEDITERRANEAN ENVIRONMENT | Acta Horticulturae
+- new | 1998 | 10.1016/s0926-6690(97)00050-2 | article | Effects of nitrogen fertilization on dill (Anethum graveolens L.) seed and carvone production | Industrial Crops and Products
+- new | 1987 | 10.17660/actahortic.1987.208.5 | conference-paper | OIL CONTENT AND OIL YIELD OF DILL (ANETHUM GRAVEOLENS L.) HERB UNDER SOME AGRONOMIC PRACTICES | Acta Horticulturae
+
+## angelica-archangelica (Angelica archangelica) - name clause: "Angelica archangelica"[tiab] OR "Archangelica officinalis"[tiab] OR "garden angelica"[tiab]
+
+### PubMed HT - 5 hits, 5 not already listed above, 3 new
+- HELD REF-0615 | 2025 | 41368330 |  | Effects of Angelica archangelica Extract on Overactive Bladder: A Pilot Randomized Controlled Trial. | Food Sci Nutr
+- new | 2020 | 33163900 |  | Effects of Ferulic Acid and Angelica archangelica Extract (Feru-guard( ®)) on Mild Cognitive Impairment: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Prospective Tri | J Alzheimers Dis Rep
+- new | 2020 | 32767414 | Controlled Clinical Trial | Effect of Feru-guard 100M on amyloid-beta deposition in individuals with mild cognitive impairment. | Psychogeriatrics
+- HELD REF-3439 | 2013 | 23323790 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A parallel, randomized, double-blind, placebo-controlled study to investigate the effect of SagaPro on nocturia in men. | Scand J Urol
+- new | 2011 | 21272180 | Clinical Trial | Effect of ferulic acid and Angelica archangelica extract on behavioral and psychological symptoms of dementia in frontotemporal lobar degeneration and dementia with Lewy bodies. | Geriatr Gerontol Int
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 12 hits, 10 not already listed above, 10 new
+- new | 2026 | 42855855 |  | Molecular mechanism of Xanthotoxol against gastric cancer: A comprehensive study integrating network pharmacology, computer simulations, and experimental validation. | Animal Model Exp Med
+- new | 2020 | 32825691 |  | Photosensitizing Furocoumarins: Content in Plant Matrices and Kinetics of Supercritical Carbon Dioxide Extraction. | Molecules
+- new | 2020 | 31605258 | Review | Awareness and current knowledge of epilepsy. | Metab Brain Dis
+- new | 2019 | 31326154 |  | Synergy quantifications to identify individual contributions of combination partners to the overall activity - The example of STW 5. | Phytomedicine
+- new | 2016 | 27322374 |  | Bioactivity-Guided Identification of Botanical Inhibitors of Ketohexokinase. | PLoS One
+- new | 2015 | 25829603 |  | Efficacy of Angelica archangelica essential oil, phenyl ethyl alcohol and α- terpineol against isolated molds from walnut and their antiaflatoxigenic and antioxidant activity. | J Food Sci Technol
+- new | 2014 | 24680798 |  | Application of the equivalency factor concept to the phototoxicity and -genotoxicity of furocoumarin mixtures. | Food Chem Toxicol
+- new | 2007 | 17295182 |  | Occurrence of N-phenylpropenoyl-L-amino acid amides in different herbal drugs and their influence on human keratinocytes, on human liver cells and on adhesion of Helicobacter pylor | Planta Med
+- new | 2003 | 12711833 |  | Hepatoprotective effect of Angelica archangelica in chronically ethanol-treated mice. | Pharmacology
+- new | 1993 | 8049396 |  | [Study of the antimutagenic properties of Angelica archangelica by the micronucleus test]. | Biull Eksp Biol Med [rus]
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 5 hits, 4 not already listed above, 3 new
+- new | 2025 | 40003768 | Review | Botanical Antifeedants: An Alternative Approach to Pest Control. | Insects
+- HELD REF-0695 | 2021 | 34254374 | Review | Understanding the phytochemistry and molecular insights to the pharmacology of Angelica archangelica L. (garden angelica) and its bioactive components. | Phytother Res
+- new | 2021 | 34070487 | Review | Back to the Roots-An Overview of the Chemical Composition and Bioactivity of Selected Root-Essential Oils. | Molecules
+- new | 2018 | 29674964 | Review | Botanical Provenance of Traditional Medicines From Carpathian Mountains at the Ukrainian-Polish Border. | Front Pharmacol
+
+### ClinicalTrials.gov - 68 registered studies
+- NCT03965819 | COMPLETED | results=False | NA | A Study to Investigate the Efficacy of Pain Bloc-R in Healthy Participants With Non-pathological Aches and Discomfort | conds: Healthy | intr: Pain Bloc-R, Active Comparator - Acetaminophen, Placebo
+- NCT02733731 | UNKNOWN | results=False | PHASE1 | The Treatment Effect of Chinese Herbal Compound Ointment on Atrophic Vaginitis | conds: Atrophic Vaginitis | intr: Chinese Herbal Compound Ointment, Estriol
+- NCT05375539 | COMPLETED | results=True | PHASE1 | AGN-Cogni.Q Acute Dose Safety and Pharmacokinetics Dose-Response in Prostate Cancer Patients | conds: Prostate Cancer | intr: AGN-Cogni.Q
+- NCT06285045 | COMPLETED | results=False | NA | Study on Roujin Formula in the Treatment of Fibromyalgia Syndrome With Blood Deficiency and Liver Depression | conds: Fibromyalgia Syndrome | intr: Roujin Formula
+- NCT06360965 | RECRUITING | results=False | NA | Clinical Trial of Acupoint Application in Improving the Sequelae of Pelvic Inflammatory Disease and Chronic Pelvic Pain | conds: Pelvic Inflammatory Disease, Chronic Pelvic Pain Syndrome | intr: Improved warm meridians and relieve pain plaster, Traditional warm meridians and relieve pain plaste
+- NCT04993794 | UNKNOWN | results=False | NA | Additive Anti-inflammatory Action for Critically Ill Patients With Cardiovascular Surgery (Xuebijing) IV | conds: Cardiovascular Disease, Aortic Dissection, Coronary Artery Disease, Valve Heart Disease | intr: XueBiJing Injection, Normal saline
+- NCT07801521 | NOT_YET_RECRUITING | results=False | NA | Feru-guard and General Antioxidant Capacity in Older People | conds: Healthy Elder People | intr: Feru-guard, Placebo
+- NCT02878018 | UNKNOWN | results=False |  | Cohort Study on Traditional Chinese Medicine Diagnosis and Treatment of Children With Henoch-Schonlein Purpura Nephritis | conds: Henoch-Schonlein Purpura Nephritis | intr: Qi-Ji Shen-Kang formula; Zhu-Bai formula; Yu-Shen formula, angiotensin-converting enzyme (ACE) inhib | pubs: ['29901610:DERIVED (new)']
+- NCT02616952 | COMPLETED | results=False | PHASE2 | A Chinese Herbal Decoction for Stress Urinary Incontinence | conds: Urinary Incontinence, Stress | intr: Chinese herbal therapy, Pelvic floor muscle training
+- NCT02486159 | COMPLETED | results=False | NA | The Oligonucleotide Chip Analysis for Allergic Rhinitis Treatment in Herbal Plaster and Acupuncture | conds: Rhinitis, Allergic | intr: Herbal plaster (Sanfujiu), Acupuncture | pubs: ['27814709:DERIVED (new)']
+- NCT07562672 | COMPLETED | results=False | NA | Tongyangxiao Lotion for Postoperative Wound Healing After Anal Fistula Surgery | conds: Postoperative Wound Healing in Anal Fistula Surgery | intr: Tongyangxiao (TYX) group, Potassium permanganate (PP) group
+- NCT07778849 | COMPLETED | results=False | NA | Chinese Herbal Sachet Inhalation for Primary Dysmenorrhea in Female College Students | conds: Primary Dysmenorrhea | intr: Traditional Chinese herbal sachet (aromatic inhalation), Placebo sachets
+- NCT03079648 | COMPLETED | results=False | NA | Efficacy and Safety of Angelica Gigas N. Extract on Improvement of Blood Triglyceride | conds: Hyperlipidemias | intr: Angelica gigas N. extract, Placebo
+- NCT00721643 | COMPLETED | results=False | EARLY_PHASE1 | Absorption Kinetics of Polyphenols in Angel's Plant (Angelica Keiskei) | conds: Oxidative Stress | intr: angel's plant (Angelica keiskei), Angel's plant (Angelica keiskei)
+- NCT02805699 | UNKNOWN | results=False | PHASE2 | A Clinical Evaluation of Baofeikang Granule in Combined Pulmonary Fibrosis and Emphysema Treatment | conds: Combined Pulmonary Fibrosis and Emphysema | intr: Baofeikang Granule, Placebo
+- NCT06375824 | NOT_YET_RECRUITING | results=False | NA | Bufei Recipe Reduces the Incidence Rate of COPD | conds: Preserved Ratio Impaired Spirometry | intr: Bufei Recipe, Bufei Recipe placebo
+- NCT06402760 | UNKNOWN | results=False | EARLY_PHASE1 | Comprehensive Intervention of Diabetes and Psoriasis Comorbidity Prevention and Control | conds: Psoriasis, Diabetes | intr: TCM comprehensive treatment, Western medicine | pubs: ['42959473:DERIVED (new)']
+- NCT05698550 | COMPLETED | results=False | NA | The Role of Erzhi Tiangui Formula in Expected POR Women Undergoing IVF-ET | conds: Infertility, Female | intr: Erzhi Tiangui Granule, Erzhi Tiangui Placebo
+- NCT04690283 | UNKNOWN | results=False | PHASE3 | Yiqi Wenjing Prescriptions Preventive Efficacy of Oxaliplatin-induced Peripheral Neuropathy Clinical Trial | conds: Chemotherapy-induced Peripheral Neuropathy, Colorectal Cancer | intr: Mimetic granules of Yiqi-Wenjing prescriptions, Huangqi-Guizhi-Wuwu granules, Danggui-Sini granules | pubs: ['34630609:DERIVED (new)']
+- NCT02846207 | UNKNOWN | results=False | NA | Yiqi Huoxue Demolition and Recipes on Recovery Stage of Cerebral Infarction | conds: Cerebral Infarction | intr: Yiqi huoxue, Yiqi group, Huoxue group, placebo | pubs: ['37361203:DERIVED (new)']
+- NCT03221894 | COMPLETED | results=False |  | A Retrospective Study to Investigate the Additive Effectiveness of Chinese Herbal Medicine in Alzheimer's Disease | conds: Alzheimer Disease | intr: GRAPE granules
+- NCT02044835 | UNKNOWN | results=False | PHASE2,PHASE3 | The Evaluation Studies of Curative Effect of Fu-zheng-qu-zhuo Oral Liquid in Treatment of Ischemic Nephropathy | conds: Atherosclerotic Renal Artery Stenosis | intr: Fu-zheng-qu-zhuo oral liquid
+- NCT05875233 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Elix Cycle Balance and Daily Harmony on Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Elix Daily Harmony, Elix Cycle Balance
+- NCT05289947 | COMPLETED | results=False | PHASE2 | MLC1501 Study Assessing Efficacy in Post STrOke Subjects With mOtor Deficits | conds: Stroke, Stroke, Ischemic, Strokes Thrombotic, Stroke Sequelae | intr: Placebo, MLC1501 | pubs: ['39915229:DERIVED (new)']
+- NCT03002090 | COMPLETED | results=False | NA | Defining the Functional Role of Iron in Aerobic Training and Physical Performance | conds: Iron Deficiency Without Anemia | intr: Iron trained, Iron Untrained, BZKL Trained, BZKL Untrained | pubs: ['30649365:DERIVED (new)', '29092885:DERIVED (new)']
+- NCT03171597 | UNKNOWN | results=False | PHASE4 | Research on the Clinical Effect of Effective Prescription in Treating Unstable Angina. | conds: Unstable Angina | intr: Anti-Platelet Drugs, Lipid Regulating Drugs, Coronary Vasodilator, Xuefu Zhuyu Decoction | pubs: ['23762142:RESULT (new)', '25254054:RESULT (new)', '22536282:RESULT (new)', '27777598:RESULT (new)']
+- NCT03451760 | UNKNOWN | results=False | PHASE2 | Feru-guard for Behavioral Symptoms in Dementia | conds: Behavioral and Psychiatric Symptoms of Dementia | intr: Feru-guard 100M, Feru-guard 100M Placebo
+- NCT00676975 | COMPLETED | results=False | PHASE2 | The Efficacy of Tradition Chinese Medicine in Patients With Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Traditional Chinese Medicine, Traditional Chinese Medicine Placebo
+- NCT03418779 | UNKNOWN | results=False | PHASE2,PHASE3 | Treatment Effects of Chinese Medicine (Yi-Qi-Qing-Jie Herbal Compound) Combined With Immunosuppression Therapies in IgA Nephropathy Patients | conds: IgA Nephropathy at High Risk of Developing ESRD | intr: The Yi-Qi-Qing-Jie herbal compound, Immunosuppressants, Optimized Supportive Care, Yi-Qi-Qing-Jie he | pubs: ['38299639:DERIVED (new)', '31907076:DERIVED (new)']
+- NCT01780480 | COMPLETED | results=False | NA | Dynamic Combination Therapy on Chinese Herbal Granules to Improve the Symptoms in Convalescent Phase of Ischemic Stroke | conds: Ischemic Stroke, Convalescence | intr: Dynamic Chinese herbal granule formula, Placebo, Standard medical care
+- NCT07607626 | NOT_YET_RECRUITING | results=False | NA | Application of Traditional Chinese Medicine Five-Element Music Therapy Combined With Acupoint Patch Therapy Based on the "Holistic Mind-Body | conds: Stone;Renal, Stone Ureter | intr: Traditional Chinese Medicine Acupoint Patch with Five-Element Music Therapy, Standard Local Anesthes
+- NCT05312190 | UNKNOWN | results=False | NA | Clinical and Basic Researches Related to ZhenQi Buxue Oral Liquid in Treating Menstrual Disorders | conds: Menstrual Disorders | intr: ZhenQi BuXue KouFuYe, Progesterone Capsules
+- NCT00963118 | COMPLETED | results=False | NA | Bioactive Plant Foods: Effects on Functional Bioavailability and Genomic Stability | conds: Metabolic Syndrome | intr: plant based nutrition bar
+- NCT03630328 | COMPLETED | results=False | NA | Angelica Gigas Dietary Supplements and Human Immune Cells | conds: Innate Immune Cells | intr: Cogni.Q, Placebo
+- NCT07457632 | WITHDRAWN | results=False | PHASE2 | Integrative Liver-Targeted Therapy for Diabetic Macular Edema: Using "Tauroursodeoxycholate" or Traditional Chinese Medicine. | conds: Diabetic Macular Edema (DME) | intr: Tauroursodeoxycholate (TUDCA), Traditional Chinese Medicine (mQJDHW), placebo capsule
+- NCT06600698 | RECRUITING | results=False | PHASE1,PHASE2 | Safety and Efficacy of AGN-INM176 in Prostate Patients With Rising PSA | conds: Prostate Cancer | intr: INM176
+- NCT03450902 | COMPLETED | results=False | PHASE2 | Chinese Herbal Therapy Combined With Acupuncture for Female Mixed Urinary Incontinence | conds: Urinary Incontinence | intr: Chinese herb & acupuncture, Chinese herb & sham acupuncture, Placebo & acupuncture, Placebo & sham a
+- NCT02841163 | COMPLETED | results=False |  | Disc Resorption in Lumbar and Cervical Disc Herniation Patients Receiving Integrative Korean Medicine Treatment | conds: Lumbar Intervertebral Disc Displacement, Cervical Intervertebral Disc Displacement | intr: Herbal medicine, Acupuncture, Pharmacopuncture, Bee venom pharmacopuncture | pubs: ['28769985:DERIVED (new)']
+- NCT07493603 | RECRUITING | results=False | PHASE1,PHASE2 | A Study on Yiyang Huoluo Decoction in the Treatment of Coronary Heart Disease | conds: Coronary Heart Disease, Coronary Artery Disease, Atheroscleroses | intr: Yiyang Huoluo Decoction, conventional western medicine treatment
+- NCT02275468 | COMPLETED | results=False | PHASE2 | Fu-zheng-qu-zhuo Oral Liquid Improves Renal Function in Patients of CKD Stage 3 and 4 | conds: Stage 3 Chronic Kidney Disease, Stage 4 Chronic Kidney Disease | intr: Fu-zheng-qu-zhuo (FZQZ) oral liquid
+- NCT07698223 | NOT_YET_RECRUITING | results=False | PHASE4 | Naoxintong Capsule for Diabetic Nephropathy With Dampness Retention Pattern: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Tri | conds: Diabetic Nephropathy | intr: Naoxintong Capsule, Placebo
+- NCT04842825 | UNKNOWN | results=False | PHASE3 | Sequential Therapy of TCM Herbs to Improve the Success Rate of IVF-ET in Diminished Ovarian Reserve Patients | conds: Infertility, Female | intr: Er Zhi Wan combined with Si Wu Tang, Recombinant Human Follitropin Alfa 、Fructose 、Tetyacycline Hydr
+- NCT05839236 | UNKNOWN | results=False | PHASE1 | COVID-19 Vaccination Detoxification in LDL-C | conds: COVID-19 Stress Syndrome, COVID-19 Vaccine Adverse Reaction, COVID-19-Associated Thromboembolism, COVID-19 Post-Intensive Care Syndrome | intr: Atorvastatin Calcium Tablets
+- NCT05764109 | COMPLETED | results=False |  | Adherence to Cied Implantation Guidelines and Cardiac Rehabilitation | conds: Left Ventricular Systolic Dysfunction, Myocardial Infarction | intr: 
+- NCT00199485 | COMPLETED | results=False | PHASE4 | Angelica Sinensis for the Treatment of Hot Flashes in Men Undergoing LHRH Therapy for Prostate Cancer | conds: Prostate Cancer | intr: Angelica Sinensis
+- NCT04357223 | UNKNOWN | results=False | PHASE2 | NOGO for an Overactive Bladder | conds: Overactive Bladder, Nocturia | intr: extract from Angelica archangelica leaf, Placebo | pubs: ['41368330:DERIVED (SEEN)']
+- NCT02488252 | UNKNOWN | results=False | PHASE2,PHASE3 | Semi-individualised Chinese Medicine Treatment as an Adjuvant Management for Diabetic Nephropathy | conds: Diabetic Nephropathies | intr: Semi-individualised Chinese Medicine treatment, Routine medical care (active comparator) | pubs: ['37307005:DERIVED (new)', '27496229:DERIVED (new)']
+- NCT06686355 | RECRUITING | results=False | PHASE2 | The Treatment of Sepsis Induced Myocardial Dysfunction With Yiqilishui Formula | conds: Sepsis Induced Myocardial Dysfunction | intr: Yiqilishui formula, Placebo
+- NCT04389125 | UNKNOWN | results=False | NA | Efficacy and Safety of Angelica Gigas Nakai and Allium Cepa L.Extract Mixtures on the Improvement of Blood Flow | conds: Blood Flow | intr: Angelica Gigas Nakai and Allium Cepa L.Extract Mixtures, Placebo
+- NCT07321535 | NOT_YET_RECRUITING | results=False | NA | Huangjing Yangji Formula Combined With Resistance Training for Sarcopenia | conds: Sarcopenia | intr: Huangjing Yangji Formula Granules, Placebo Granules for Huangjing Yangji Formula, Standardized Elast
+- NCT00456755 | COMPLETED | results=True | PHASE2 | Herbal Treatment for Perennial Allergic Rhinitis | conds: Perennial Allergic Rhinitis | intr: Shi-Bi-Lin, Placebo
+- NCT05046106 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | MLC1501 Study Assessing Efficacy in STROke Recovery | conds: Stroke, Stroke, Ischemic, Strokes Thrombotic, Stroke Sequelae | intr: MLC1501, Placebo
+- NCT03258229 | COMPLETED | results=False | NA | Efficacy and Safety of Angelica Gigas N. Extract on Improvement of Hyperglycemia | conds: Hyperglycemia | intr: Angelica gigas N. extract, Placebo
+- NCT05577455 | UNKNOWN | results=False | PHASE3 | Efficacy of Traditional Chinese Medicine on Ameliorating IVF-ET Outcomes of Diminished Ovarian Reserve Patients | conds: Diminished Ovarian Reserve, Infertility, Female | intr: Medical prescription before ovulation, Medical prescription after ovulation
+- NCT02545777 | UNKNOWN | results=False | PHASE2 | The Clinical Study on Treating Acute Gouty Arthritis Using Both Internal and External Therapy of Tonifying Spleen and Descending Turbid | conds: Acute Gouty Arthritis | intr: diclofenac sodium enteric-coated, Oral medicine of tonifying spleen and descending turbid, Steeping 
+- NCT07883642 | NOT_YET_RECRUITING | results=False | EARLY_PHASE1 | Traditional Chinese Medicine Treatment for Capecitabine-Related Hand-Foot Syndrome | conds: Palmar and Plantar Erythema, Numbness of the Four Limbs, Pain in the Distal Extremities, Peeling of the Soles and Palms | intr: Twelve-Ingredient Prepared Sichuan Aconite Hand and Foot Bath, Standard Basic Nursing Interventions
+- NCT07757724 | COMPLETED | results=False | NA | Chinese Herbal Sachet Therapy for Sleep Quality in Menopausal Women | conds: Sleep Initiation and Maintenance Disorders, Menopause | intr: Traditional Chinese medicine aromatic sachet, Placebo aromatic sachet
+- NCT03562429 | UNKNOWN | results=False | PHASE2,PHASE3 | The Efficacy of TGF for Treating Osteoarthritis of the Knee | conds: Osteoarthritis, Knee | intr: TGF, TGFP
+- NCT03219515 | UNKNOWN | results=False | NA | Herbal Medication (Gongjin-dan) for Chronic Dizziness | conds: Dizziness Chronic | intr: Gongjin-Dan, Placebo | pubs: ['29387128:DERIVED (new)']
+- NCT03179618 | UNKNOWN | results=False | PHASE4 | Research on the Clinical Effect of Xuefu Zhuyu Decoction in Treating Unstable Angina. | conds: Unstable Angina | intr: Anti-Platelet Drugs, Lipid Regulating Drugs, Coronary Vasodilator, Xuefu Zhuyu Decoction | pubs: ['25254054:RESULT (new)', '22536282:RESULT (new)', '27777598:RESULT (new)', '23737852:RESULT (new)', '23762142:RESULT (new)']
+- NCT01613183 | UNKNOWN | results=False | NA | Exploratory Study of Effective Core Formula of Chinese Medicine to Treat Primary Insomnia | conds: Primary Insomnia | intr: Chinese herbal Medicine, the dummy of a Chinese Medicine prescription | pubs: ['38753273:DERIVED (new)', '23448313:DERIVED (new)']
+- NCT03061799 | UNKNOWN | results=False | NA | Efficacy and Safety of HPC-03 for Postmenopausal Symptom | conds: Postmenopausal Period | intr: HPC-03, Placebo | pubs: ['22027944:RESULT (new)']
+- NCT04767620 | UNKNOWN | results=False | PHASE2 | Clinical Trial of Ruxian Zengsheng No. 1 Decoction | conds: Mammary Gland Hyperplasia | intr: Rugdenzengsheng No. 1 prescription
+- NCT07202806 | NOT_YET_RECRUITING | results=False | NA | A Study on the Application of Aromatherapy Combined With Transcranial Magnetic Stimulation in Insomnia of Stroke Patients | conds: Stroke | intr: Aromatherapy
+- NCT05229029 | UNKNOWN | results=False | PHASE2 | RSYR for Fatigue Reduction in Cancer Fatigue Caused by Chemotherapy | conds: Cancer-related Problem/Condition | intr: TCM Formula, Placebo
+- NCT05901532 | COMPLETED | results=False | PHASE2 | Nasal Irrigation With Chinese Herbal Medicine as an Adjunctive Treatment in Allergic Rhinitis | conds: Rhinitis, Allergic, Nasal Lavage, Medicine, Chinese Traditional | intr: Szechwan Lovage Rhizome, Biod Magnolia Bud, Taiwan Angelica Root, Wild Mint Herb, Baikal Skullcap Ro
+- NCT05302037 | RECRUITING | results=False | PHASE1 | Allogeneic NKG2DL-targeting CAR γδ T Cells (CTM-N2D) in Advanced Cancers (ANGELICA) | conds: Cancer, Malignancy, Refractory Cancer, Relapsed Cancer | intr: Allogeneic NKG2DL-targeting Chimeric Antigen Receptor-grafted γδ T Cells (CTM-N2D)
+- NCT02008981 | COMPLETED | results=False | PHASE3 | Effect of Herbal Products on Platelet Function and Clotting | conds: Platelet Function Test | intr: Curcuma longa, Angelica sinensis, Siwu Tang, Aspirin
+
+### OpenAlex no-PMID trial-worded - 217 hits, 53 without PMID, 53 new
+- new | 2026 | 10.1016/j.aimed.2026.100611 | review | Angelica archangelica and its role in traditional medicine: A systematic review of its therapeutic applications | Advances in Integrative Medicine
+- new | 2026 | 10.17185/duepublico/86448 | dissertation | Liver health from leaf to lab: eco-friendly extraction and multi-dimensional analysis of European herbs | Universitätsbibliographie, Universität D
+- new | 2026 | 10.31579/2690-1919/625 | article | KC-150 Improves Cognitive Function and fNRS Task Activation in Patients with aMCI | Journal of Clinical Research and Reports
+- new | 2026 | 10.9734/bpi/bsrdi/v3/8095 | book-chapter | Vegetation Life Forms and Ecological Patterns in Juniperus macropoda-Dominated Forests of Gurez Valley, Kashmir Himalaya | Book Publisher International (a part of 
+- new | 2026 | 10.25258/ijddt.16.26s.36 | article | Multi-Target Therapeutic Potential Of Herbal Medicines In Alzheimer'S Disease: Mechanistic Insights And Translational Challenges | International Journal of Drug Delivery T
+- new | 2025 | 10.12923/2353-8627/2025-0014 | article | Phytotherapy as an adjunctive tool in the treatment of anorexia nervosa:a review of potential neuroregulatory and appetitogenic plants | Current Problems of Psychiatry
+- new | 2025 | 10.20883/medical.e1443 | article | Passiflora incarnata extract-induced VEGF and TGF-β1 mRNA expression in the cardiovascular system using the rat model of type 2 diabetes | Journal of Medical Science
+- new | 2025 | 10.1515/flaent-2024-0082 | article | Field evaluation of α-copaene enriched natural oil lure for detection of male Ceratitis capitata (Diptera: Tephritidae) in area-wide monitoring programs: results from Tunisia, Cost | Florida Entomologist
+- new | 2025 | 10.33545/26647168.2025.v7.i2b.122 | article | Evaluation of anti-anxiety activity of ethanolic extract of Jasminum sambac leaves in experimental animals | International Journal of Pharmacognosy a
+- new | 2024 | 10.3390/horticulturae10111199 | article | Analysis of the Effects of Organic and Synthetic Mulching Films on the Weed, Root Yield, Essential Oil Yield, and Chemical Composition of Angelica archangelica L. | Horticulturae
+- new | 2024 | https://openalex.org/W7119355501 | dissertation | Efetividade da aromaterapia na dependência de nicotina em trabalhadores da saúde | LA Referencia (Red Federada de Repositor
+- new | 2024 | 10.59565/001c.91473 | article | Canine Parvoviral Enteritis Mortality in Shelter Dogs Receiving Conventional Medical Therapy Compared to Integrative Treatment with the Chinese Herbal Medicine, Zhi Li Tang : A Pil | American Journal of Traditional Chinese 
+- new | 2024 | 10.1515/flaent-2024-0022 | article | Relative captures and detection of male Ceratitis capitata using a natural oil lure or trimedlure plugs | Florida Entomologist
+- new | 2024 | 10.3390/app14093728 | article | A Review on the Potential Use of Medicinal Plants from the Apiaceae and the Rosaceae Families in Cardiovascular Diseases—Experimental Evidence and Traditional Applications | Applied Sciences
+- new | 2024 | 10.21275/sr24310152954 | article | Efficacy of Some Natural Antioxidants in Targeting Free Radicals Induced by Radiation Exposure: A Mini - Review | International Journal of Science and Res
+- new | 2023 | 10.5281/zenodo.7855152 | article | Anti-Diabetic Activity of Selected Medicinal Plant Extracts Used By Tribals in the Adilabad District of Telangana State By in Vitro | Zenodo (CERN European Organization for N
+- new | 2023 | 10.36107/2782-1714_2023-3-4-14-21 | article | CLINICAL EXPERIENCE OF USING ANGELICA DAHURICA FOR ANDROGENIC ALOPECIA | Bulletin of the Medical Institute of Con
+- new | 2023 | 10.52845/jmrhs/2023-6-5-1 | article | Anticancer Activity of Some Medicinal Plants: Minireview | Research Review
+- new | 2023 | 10.14719/pst.2420 | article | Potential role of herbal plants and beta sitosterol as a bioactive constituent in circumventing Alzheimer’s Disease | Plant Science Today
+- new | 2022 | 10.1101/2022.06.13.22276352 | preprint | Type construction in qualitative health research and its relevance in complementary and integrative medicine. Two studies about patients’ experiences with herbal medicine preparati | medRxiv
+- new | 2022 | 10.21518/2079-701x-2022-16-7-8-14 | article | Functional gastrointestinal diseases: mechanisms of development and principles of multitarget therapy | Meditsinskiy sovet = Medical Council
+- new | 2022 | 10.47750/pnr.2022.13.04.236 | article | An updated review on Phytoconstituents of Anxiolytic Activity: Clinical Significance and Therapeutic Efficacy | Journal of Pharmaceutical Negative Resul
+- new | 2021 | 10.1893/bios-d-19-00022 | article | The contractile effects of various species of the Angelica genus on isolated uterine tissue of Mus musculus | BIOS
+- new | 2021 | 10.1055/s-0041-1736920 | conference-paper | Carmelite spirit for the treatment of stress-related gastrointestinal symptoms | Planta Medica
+- new | 2021 | 10.46607/iamj04p6012021 | article | A CLINICAL STUDY TO ASSESS THE EFFICACY OF SHWASAHARA DASHEMANI GHANAVATI IN CARDIAC ASTHMA W.S.R L.V.F | International Ayurvedic Medical Journal
+- new | 2021 | 10.1007/s10457-020-00572-9 | article | Allelopathic effects of leachates of Juglans regia L., Populus tremula L. and juglone on germination of temperate zone cultivated medicinal and aromatic plants | Agroforestry Systems
+- new | 2020 | 10.5937/actaherb2002129l | article | Weed control in angelica (Angelica archangelica L.) | Acta herbologica
+- new | 2020 | 10.1101/2020.12.04.410340 | preprint | First-described recently discovered non-toxic vegetal-derived furocoumarin preclinical efficacy against SARS-CoV-2: a promising antiviral herbal drug | bioRxiv (Cold Spring Harbor Laboratory)
+- new | 2020 | 10.13023/etd.2020.437 | dissertation | DEVELOPING ALTERNATIVE PRACTICES FOR MANAGEMENT OF FLEA BEETLES ATTACKING EGGPLANT AND LEAFY BRASSICACEOUS GREENS | UKnowledge (University of Kentucky)
+- new | 2020 | 10.47583/ijpsrr.2020.v64i02.028 | article | A Review on Medicinal Plants against Various Forms of Dementia | International Journal of Pharmaceutical 
+- new | 2019 | 10.14302/issn.2641-7669.ject-19-3040 | article | Complementary and Alternative Treatments for Cancer Prevention and Cure (Part 1) | Journal of Experimental and Clinical Tox
+- new | 2018 | https://openalex.org/W2942184121 | article | Evidencia clínica de STW 5 (Iberogast®) en patología digestiva | Dipòsit Digital de la Universitat de Bar
+- new | 2016 | https://openalex.org/W2441003478 | article | Inhibition of Caffeine Metabolism in Humans by Furanocoumarin-Containing Plant Extracts: In Vivo and In Vitro Studies | Summit (Simon Fraser University)
+- new | 2016 | 10.18869/acadpub.hms.22.1.71 | article | Effect of Lavender Hydro Alcoholic Extract on Liver’s Enzymes and Histology in Small Laboratory Mice | Quarterly of Horizon of Medical Sciences
+- new | 2015 | https://openalex.org/W2523697958 | article | Evidence for the potential therapeutic usefulness of the multi-component herbal preparation, STW5, in protecting against radiation-induced intestinal mucositis | Clinical Pharmacology & Biopharmaceutics
+- new | 2014 | 10.1016/b978-0-12-407824-6.00092-6 | book-chapter | Ferulic Acid and Angelica archangelica Extract in Dementia | Elsevier eBooks
+- new | 2014 | 10.1055/s-0034-1394509 | article | Novel therapeutic potential for the herbal preparation, STW 5: Prophylactic measure against intestinal mucositis induced by radiation | Planta Medica
+- new | 2014 | 10.7241/ourd.20141.05 | article | Proposal of employ of extract of Desmodium adscendens as anti-histaminic natural drug: trials of efficacy by Reflectance Spectrophotometry | Our Dermatology Online
+- new | 2013 | https://openalex.org/W2188398441 | article | and Protective Role of Angelica archangelica and Ginkgo biloba | 
+- new | 2012 | 10.22067/jhorts4.v1390i0.11331 | article | بررسی خاصیت آللوپاتیک پیکر رویشی گیاه سنبل ختایی (Angelica archangelica L.) | نشریه علوم باغبانی
+- new | 2012 | https://openalex.org/W3019037641 | dissertation | Mal des transports et vertiges : prise en charge du patient à l'officine | Publications Et Travaux Academiques de L
+- new | 2011 | 10.2478/v10045-011-0064-2 | article | Biodiversity of Thrips Species (Thysanoptera) on Flowering Herbs in Cracow, Poland | Journal of Plant Protection Research
+- new | 2011 | 10.1080/21513732.2011.602646 | article | Threatened medicinal plants of Gurez valley, Kashmir Himalayas: distribution pattern and current conservation status | International Journal of Biodiversity Sc
+- new | 2010 | 10.1016/j.jalz.2010.05.1828 | article | P3‐327: Effects of ferulic acid and Angelica archangelica extract (Feruguard) in patients with Alzheimer's disease | Alzheimer s & Dementia
+- new | 2010 | 10.3389/conf.fphar.2010.60.00184 | article | Food-drug interactions: elucidating complex mixtures and individual constituents | Frontiers in Pharmacology
+- new | 2010 | 10.1016/j.jalz.2010.05.1827 | article | P3‐326: Japanese herbal medicine, Yokukansan, inhibits social isolation‐induced aggression | Alzheimer s & Dementia
+- new | 2006 | https://openalex.org/W2232223126 | article | Application of Orange Oil to Pre-Release Holding Boxes Increases the Mating Success of Sterile Males of the Mediterranean Fruit Fly in Field Cage Trials (Diptera: Tephritidae) | ScholarSpace (University of Hawaii at Ma
+- new | 2006 | https://openalex.org/W2980900891 | dissertation | Effects of essential oils and aromatherapy on cognitive function in dementia : laboratory studies and application in aged care facility residents | Cross Connect (Southern Cross University
+- new | 2003 | 10.1653/0015-4040(2003)086[0029:pfroro]2.0.co;2 | article | Potential for Reducing Overflooding Ratios of Sterile Mediterranean Fruit Flies (Diptera: Tephritidae) with the Use of Ginger Root Oil | Florida Entomologist
+- new | 2001 | 10.1603/0013-8746(2001)094[0497:etcacc]2.0.co;2 | article | Exposure to α-Copaene and α-Copaene-Containing Oils Enhances Mating Success of Male Mediterranean Fruit Flies (Diptera: Tephritidae) | Annals of the Entomological Society of A
+- new | 2000 | 10.1016/s0140-6736(05)74774-7 | article | DEPARTMENT OF ERROR | The Lancet
+- new | 2000 | 10.1016/s0140-6736(05)74770-x | article | DEPARTMENT OF ERROR | The Lancet
+- new | 1992 | 10.21273/hortsci.27.11.1160d | article | SURVEY OF FIELD EXPERIMENTS CONDUCTED TO ESTABLISH MEDICINAL CROPS IN QUEBEC | HortScience
+
+## arctium-lappa (Arctium lappa) - name clause: "Arctium lappa"[tiab] OR "burdock"[tiab]
+
+### PubMed HT - 26 hits, 26 not already listed above, 24 new
+- HELD REF-3441 | 2026 | 41757842 | Randomized Controlled Trial | Effects of Arctium lappa L. Root Powder on Some Markers of Oxidative Stress and Inflammation in Women with Polycystic Ovary Syndrome: A Randomized, Double-Blind Controlled Clinical | JBRA Assist Reprod
+- new | 2026 | 41750986 | Review | Unveiling the Antihyperglycemic Potential of Arctium lappa L. (Asteraceae): Traditional Application, Phytochemistry, and Molecular Insights. | Foods
+- new | 2026 | 42162081 |  | Swallowing dynamics of burdock treated with a chelating agent in patients with dysphagia. | Sci Rep
+- new | 2025 | 41111517 | Review | Immunopharmacological potential of Arctium lappa L. in immune-mediated skin diseases: A critical review of experimental and clinical evidence. | Front Pharmacol
+- new | 2022 | 36295873 |  | The Combined Intervention of Aqua Exercise and Burdock Extract Synergistically Improved Arterial Stiffness: A Randomized, Double-Blind, Controlled Trial. | Metabolites
+- new | 2021 | 33664334 | Research Support, Non-U.S. Gov't | Exercise training and burdock root (Arctium lappa L.) extract independently improve abdominal obesity and sex hormones in elderly women with metabolic syndrome. | Sci Rep
+- new | 2021 | 33919894 | Systematic Review | Vegetable Extracts and Nutrients Useful in the Recovery from Helicobacter pylori Infection: A Systematic Review on Clinical Trials. | Molecules
+- new | 2020 | 32893515 |  | Effect of Combined Herbal Capsule Menohelp on Hot Flashes and Night Sweats in Postmenopausal Women: A Single-Blind Randomized Controlled Trial. | J Menopausal Med
+- new | 2019 | 31043657 | Randomized Controlled Trial | Effects of Burdock tea on recurrence of colonic diverticulitis and diverticular bleeding: An open-labelled randomized clinical trial. | Sci Rep
+- new | 2019 | 30705515 |  | Positive influence of aqua exercise and burdock extract intake on fitness factors and vascular regulation substances in elderly. | J Clin Biochem Nutr
+- new | 2018 | 29974852 |  | Cell dedifferentiation and multiplication of Burdock (Arctium Lappa) as a medicinal plant. | Cell Mol Biol (Noisy-le-grand)
+- new | 2018 | 29520881 | Randomized Controlled Trial | Beneficial effect of Burdock complex on asymptomatic Helicobacter pylori-infected subjects: A randomized, double-blind placebo-controlled clinical trial. | Helicobacter
+- new | 2018 | 29154814 | Randomized Controlled Trial | Effects of aquarobic exercise and burdock intake on serum blood lipids and vascular elasticity in Korean elderly women. | Exp Gerontol
+- new | 2017 | 29058588 | Clinical Trial/Research Support, Non-U.S. Gov't | Effect of Infla-Kine supplementation on the gene expression of inflammatory markers in peripheral mononuclear cells and on C-reactive protein in blood. | J Transl Med
+- new | 2016 | 27685612 | Clinical Trial, Phase I | Phase I trial of GBS-01 for advanced pancreatic cancer refractory to gemcitabine. | Cancer Sci
+- HELD REF-3440 | 2016 | 25350500 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Arctium lappa L. (Burdock) root tea on inflammatory status and oxidative stress in patients with knee osteoarthritis. | Int J Rheum Dis
+- new | 2015 | 26415394 |  | [Study on High-yield Cultivation Measures for Arctii Fructus]. | Zhong Yao Cai [chi]
+- new | 2014 | 24931753 | Observational Study | Observational study of Arctium lappa in the treatment of acne vulgaris. | Homeopathy
+- new | 2014 | 24668061 | Research Support, Non-U.S. Gov't | The effect of Burns & Wounds (B&W)/burdock leaf therapy on burn-injured Amish patients: a pilot study measuring pain levels, infection rates, and healing times. | J Holist Nurs
+- new | 2013 | 24274317 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The efficacy and safety of a proposed herbal moisturising cream for dry skin and itch relief: a randomised, double-blind, placebo-controlled trial--study protocol. | BMC Complement Altern Med
+- new | 2012 | 22568040 |  | Cytotoxic effect of some medicinal plants from Asteraceae family on J-45.01 leukemic cell line--pilot study. | Acta Pol Pharm
+- new | 2008 | 19146605 | Randomized Controlled Trial | Natural Arctium lappa fruit extract improves the clinical signs of aging skin. | J Cosmet Dermatol
+- new | 2006 | 17212569 | Comparative Study/Research Support, Non-U.S. Gov't | Trial of Essiac to ascertain its effect in women with breast cancer (TEA-BC). | J Altern Complement Med
+- new | 2004 | 15666575 | Review | What do herbalists suggest to diabetic patients in order to improve glycemic control? Evaluation of scientific evidence and potential risks. | Acta Diabetol
+- new | 1994 | 8169547 | Clinical Trial/Randomized Controlled Trial | Inter- and intraexaminer reliability of a single, digital inclinometric range of motion measurement technique in the assessment of lumbar range of motion. | J Manipulative Physiol Ther
+- new | 1975 | 788003 | Clinical Trial | [The significance of standardized evaluation scales in psychiatric diagnosis as exemplified by the therapeutic intervention with desmethyl-loxapine (author's transl)]. | Pharmakopsychiatr Neuropsychopharmakol [ger]
+
+### PubMed SR - 3 hits, 2 not already listed above, 1 new
+- new | 2023 | 37445780 | Systematic Review | Systemic Review of Clot Retraction Modulators. | Int J Mol Sci
+- HELD REF-2340 | 2023 | 36781057 | Systematic Review | A systematic review on botany, ethnopharmacology, quality control, phytochemistry, pharmacology and toxicity of Arctium lappa L. fruit. | J Ethnopharmacol
+
+### PubMed SAFE - 101 hits, 96 not already listed above, 89 new
+- new | 2026 | 41833027 |  | Medicinal Chemistry of Natural Anti-Skin Cancer Agents: An Evidence-Based Literature Review. | Anticancer Agents Med Chem
+- new | 2026 | 42548750 |  | Network pharmacology and molecular modelling analysis of Arctium lappa phytochemicals in valproic acid-induced hepatotoxicity and pancreatitis. | Front Bioinform
+- new | 2026 | 40548442 |  | Oral acute and subacute toxicity studies as well as safety pharmacology in beagle dogs of total lignans from Arctii Fructus. | Drug Chem Toxicol
+- new | 2026 | 42964099 |  | Hepatoprotective and pancreatoprotective effects of Arctium lappa root extract in valproic acid-induced toxicity: biochemical, histopathological, and immunohistochemical analysis. | Front Pharmacol
+- new | 2026 | 41793191 |  | Xanthatin-13-(Pyrrolidine-2-Carboxylic Acid), a Sesquiterpene Lactone Isolated From Burdock Leaf, Attenuated Aβ(25-35) Toxicity and Memory Deficits in a Pharmacological Mouse Model | Phytother Res
+- new | 2026 | 41821729 | Review | Traditional Chinese medicine in the treatment of diabetic kidney disease: the mechanisms of signaling pathways regulations. | Front Endocrinol (Lausanne)
+- new | 2026 | 42276167 |  | Multi-omics reveals that burdock seed aglycone alleviates renal fibrosis by restoring mitochondrial oxidative phosphorylation function. | J Proteomics
+- new | 2025 | 40141301 |  | The Protective Effects of Burdock Fructooligosaccharide on Preterm Labor Through Its Anti-Inflammatory Action. | Int J Mol Sci
+- new | 2025 | 41325899 |  | Metabolic activation, hepatic protein covalent binding, and cytotoxicity of arctigenin. | Toxicol Lett
+- new | 2025 | 40718863 |  | Effects of roasted burdock root tea drink on plasma liver injury indices and faecal microbiota in mice fed a high-fat diet. | 3 Biotech
+- new | 2025 | 41417181 |  | Arctium lappa L. Leaves Alleviate Alzheimer's Disease-Like Pathologies by Modulating the Tricarboxylic Acid Cycle and Inhibiting STAT3/NF-кB Signaling. | Plant Foods Hum Nutr
+- new | 2025 | 41072492 |  | PREVENTION IN THE PARENTAL GENERATION OF EXPOSED RATS: CONSEQUENCES OF TOXIC EXPOSURE TO CHROMIUM AND GAMMA IRRADIATION IN AN EXPERIMENTAL MODEL. | Georgian Med News
+- new | 2024 | 38660399 |  | Burdock miR8175 in diet improves insulin resistance induced by obesity in mice through food absorption. | iScience
+- new | 2024 | 37559241 | Review | Medicinal Plant-derived Phytochemicals in Detoxification. | Curr Pharm Des
+- new | 2024 | 38794144 | Review | Potential Anti-Tumorigenic Properties of Diverse Medicinal Plants against the Majority of Common Types of Cancer. | Pharmaceuticals (Basel)
+- new | 2024 | 37867310 |  | Arctium lappa L. root polysaccharides ameliorate CCl(4)-induced acute liver injury by suppressing oxidative stress, inflammation and apoptosis. | Nat Prod Res
+- new | 2024 | 38593620 | Research Support, Non-U.S. Gov't | Non-cytotoxic nanomolar concentration of arctigenin protects neuronal cells from chemotherapy-induced ferroptosis by regulating SLC7A11-cystine-cysteine axis. | Biochem Biophys Res Commun
+- HELD REF-2339 | 2024 | 39162715 | Review | Harnessing the power of Arctium lappa root: a review of its pharmacological properties and therapeutic applications. | Nat Prod Bioprospect
+- new | 2024 | 39529876 |  | Effects of fermented Arctium lappa L. root by Lactobacillus casei on hyperlipidemic mice. | Front Pharmacol
+- new | 2024 | 39519013 |  | Integrated Analysis of Metabolome and Transcriptome Reveals the Effect of Burdock Fructooligosaccharide on the Quality of Chinese Cabbage (Brassica rapa L. ssp. Pekinensis). | Int J Mol Sci
+- new | 2024 | 39065299 |  | Delivery of Lutein by Using Modified Burdock Polysaccharide Aggregates: Preparation, Characterization, and In Vitro Release Properties. | Polymers (Basel)
+- new | 2024 | 38070762 |  | Acute and chronic toxicity in Sprague-Dawley rats of orally-administered total lignans from Arctii Fructus, a potential therapeutic drug for diabetes. | Regul Toxicol Pharmacol
+- new | 2024 | 38679116 |  | Arctigenin induces activated HSCs quiescence via AMPK-PPARγ pathway to ameliorate liver fibrosis in mice. | Eur J Pharmacol
+- new | 2024 | 38249036 |  | Analysis of Genes Associated with Feeding Preference and Detoxification in Various Developmental Stages of Aglais urticae. | Insects
+- new | 2023 | 36628833 | Review | The therapeutic potential of arctigenin against multiple human diseases: A mechanistic review. | Phytomedicine
+- new | 2023 | 36843019 |  | Effects of burdock inulin-type fructans exposure on the physiological function of healthy mice and their filial generation. | J Vet Med Sci
+- new | 2023 | 37139293 |  | Amelioration of autophagy and inflammatory signaling pathways via α-lipoic acid, burdock and bee pollen versus lipopolysaccharide-induced insulin resistance in murine model. | Heliyon
+- HELD REF-2579 | 2023 | 37043584 | Case Reports | Case study of clinical improvement of atopic dermatitis in a patient treated with herbal-based parapharmaceuticals. | J Complement Integr Med
+- new | 2022 | 35212849 | Review | Natural compounds as safe therapeutic options for ulcerative colitis. | Inflammopharmacology
+- new | 2022 | 35402325 |  | Herbal Teas and Thrombocytopenia: A Curious Case of Yellow Dock and Burdock-Induced Thrombocytopenia. | Eur J Case Rep Intern Med
+- new | 2022 | 34861701 |  | TCQA, A Natural Caffeoylquinic Acid Derivative Attenuates H2O2-Induced Neuronal Apoptosis by Suppressing Phosphorylation of MAPKs Signaling Pathway. | Planta Med
+- new | 2022 | 34757674 | Research Support, Non-U.S. Gov't | Anti-IgE effect of small-molecule-compound arctigenin on food allergy in association with a distinct transcriptome profile. | Clin Exp Allergy
+- new | 2022 | 36183168 | Research Support, Non-U.S. Gov't | Ethanolic extract of root from Arctium lappa L ameliorates obesity and hepatic steatosis in rats by regulating the AMPK/ACC/CPT-1 pathway. | J Food Biochem
+- new | 2022 | 36636365 | Case Reports | Drug-Induced Liver Injury from Herbal Liver Detoxification Tea. | Case Rep Gastroenterol
+- new | 2021 | 35179846 |  | Parasiticidal effects of Eclipta alba and Arctium lappa extracts against Ichthyophthirius multifiliis. | Pol J Vet Sci
+- new | 2021 | 33897865 |  | Safety and efficacy of a feed additive consisting of a dried extract from the roots of Arctium lappa L. (A. lappa dry extract) for use in cats and dogs (C.I.A.M.). | EFSA J
+- new | 2021 | 33387366 |  | Simultaneous quantification of arctigenin and its glucuronide conjugate in mouse plasma using ultra-high performance liquid chromatography coupled to tandem mass spectrometry. | J Sep Sci
+- new | 2021 | 33652999 |  | Derma-Hc, a New Developed Herbal Formula, Ameliorates Cutaneous Lichenification in Atopic Dermatitis. | Int J Mol Sci
+- new | 2021 | 33691269 |  | Arctium lappa L. roots ameliorates cerebral ischemia through inhibiting neuronal apoptosis and suppressing AMPK/mTOR-mediated autophagy. | Phytomedicine
+- new | 2020 | 32361192 |  | Arctigenin exhibits hepatoprotective activity in Toxoplasma gondii-infected host through HMGB1/TLR4/NF-κB pathway. | Int Immunopharmacol
+- HELD REF-2861 | 2020 | 32340377 |  | Arctigenin Enhances the Cytotoxic Effect of Doxorubicin in MDA-MB-231 Breast Cancer Cells. | Int J Mol Sci
+- new | 2020 | 32416136 |  | DCMQA, a caffeoylquinic acid derivative alleviates NMDA-induced neurotoxicity via modulating GluN2A and GluN2B-containing NMDA receptors in vitro. | Toxicol In Vitro
+- new | 2020 | 32412894 | Case Reports | The management of paediatric burns with Burns and Wounds ointment and burdock leaves: a case series. | J Wound Care
+- new | 2020 | 33371338 | Review | Antioxidant, Antimicrobial and Antiviral Properties of Herbal Materials. | Antioxidants (Basel)
+- new | 2019 | 31998584 |  | Flubenziamide (Pesticides). | Food Saf (Tokyo)
+- new | 2019 | 31403047 |  | Pharmacokinetics of Arctigenin and Fructus Arctii Powder in Piglets. | Front Vet Sci
+- new | 2019 | 31232489 | Review | Arctium lappa contributes to the management of type 2 diabetes mellitus by regulating glucose homeostasis and improving oxidative stress: A critical review of in vitro and in vivo  | Phytother Res
+- new | 2019 | 31771282 |  | Arctium lappa Root Extract Prevents Lead-Induced Liver Injury by Attenuating Oxidative Stress and Inflammation, and Activating Akt/GSK-3β Signaling. | Antioxidants (Basel)
+- HELD REF-0722 | 2018 | 29698388 | Review | Overview of the anti-inflammatory effects, pharmacokinetic properties and clinical efficacies of arctigenin and arctiin from Arctium lappa L. | Acta Pharmacol Sin
+- new | 2018 | 30319414 |  | 28-Day Oral Chronic Toxicity Study of Arctigenin in Rats. | Front Pharmacol
+- HELD REF-1924 | 2018 | 28801728 |  | Arctium minus crude extract presents antinociceptive effect in a mice acute gout attack model. | Inflammopharmacology
+- new | 2018 | 29579707 |  | Arctigenin protects against liver injury from acute hepatitis by suppressing immune cells in mice. | Biomed Pharmacother
+- new | 2017 | 27539316 | Review | The Immunomodulatory Potential of Selected Bioactive Plant-Based Compounds in Breast Cancer: A Review. | Anticancer Agents Med Chem
+- new | 2017 | 29046701 |  | Safety of 8-weeks oral administration of Arctium lappa L. | Lab Anim Res
+- new | 2017 | 28441789 |  | Comparing Apoptosis and Necrosis Effects of Arctium Lappa Root Extract and Doxorubicin on MCF7 and MDA-MB-231 Cell Lines. | Asian Pac J Cancer Prev
+- new | 2017 | 28484137 |  | [Identification of Datura Species Involved in a Food-Poisoning Case Using LC-MS/MS and DNA Barcording]. | Shokuhin Eiseigaku Zasshi [jpn]
+- new | 2017 | 28450691 | Case Reports/Review | [Acute encephalopathy due to angel's trumpet intoxication: A case report and literature review]. | Rinsho Shinkeigaku [jpn]
+- new | 2017 | 28976750 |  | Inhibition of Mast Cell-Mediated Allergic Responses by Arctii Fructus Extracts and Its Main Compound Arctigenin. | J Agric Food Chem
+- new | 2017 | 28539725 |  | Inhibition of Cytochrome P450 (CYP3A4) Activity by Extracts from 57 Plants Used in Traditional Chinese Medicine (TCM). | Pharmacogn Mag
+- new | 2017 | 29023056 |  | Ameliorative Effect of Arctium lappa Against Cadmium Genotoxicity and Histopathology in Kidney of Wistar Rat. | Pak J Biol Sci
+- new | 2016 | 27087645 |  | Antiallergic Activity of Ethanol Extracts of Arctium lappa L. Undried Roots and Its Active Compound, Oleamide, in Regulating FcεRI-Mediated and MAPK Signaling in RBL-2H3 Cells. | J Agric Food Chem
+- new | 2016 | 27800716 |  | Pretreatment of MQA, a caffeoylquinic acid derivative compound, protects against H(2)O(2)-induced oxidative stress in SH-SY5Y cells. | Neurol Res
+- new | 2016 | 26707911 | Research Support, Non-U.S. Gov't | Inhibitory effect of fermented Arctium lappa fruit extract on the IgE-mediated allergic response in RBL‑2H3 cells. | Int J Mol Med
+- new | 2015 | 25352420 | Research Support, Non-U.S. Gov't | Protective effects of Arctium lappa L. roots against hydrogen peroxide-induced cell injury and potential mechanisms in SH-SY5Y cells. | Cell Mol Neurobiol
+- new | 2015 | 25765837 | Research Support, Non-U.S. Gov't | Natural lignans from Arctium lappa modulate P-glycoprotein efflux function in multidrug resistant cancer cells. | Phytomedicine
+- new | 2015 | 26096046 | Research Support, Non-U.S. Gov't | Compound MQA, a Caffeoylquinic Acid Derivative, Protects Against NMDA-Induced Neurotoxicity and Potential Mechanisms In Vitro. | CNS Neurosci Ther
+- new | 2015 | 26543508 |  | Use of Arctium lappa Extract Against Acetaminophen-Induced Hepatotoxicity in Rats. | Curr Ther Res Clin Exp
+- new | 2014 | 24417756 | Case Reports | In vivo confocal microscopy of corneal microscopic foreign bodies in horses. | Vet Ophthalmol
+- new | 2014 | 24621152 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 1: Achillea millefolium-Curcuma longa. | Contact Dermatitis
+- new | 2014 | 24956398 |  | Neuroprotective effects of Arctium lappa L. roots against glutamate-induced oxidative stress by inhibiting phosphorylation of p38, JNK and ERK 1/2 MAPKs in PC12 cells. | Environ Toxicol Pharmacol
+- new | 2014 | 24929543 | Research Support, Non-U.S. Gov't | Hepatoprotective effect of Arctium lappa root extract on cadmium toxicity in adult Wistar rats. | Biol Trace Elem Res
+- new | 2014 | 25299961 | Research Support, Non-U.S. Gov't | Arctiin blocks hydrogen peroxide-induced senescence and cell death though microRNA expression changes in human dermal papilla cells. | Biol Res
+- new | 2014 | 25243063 |  | Increased chemopreventive effect by combining arctigenin, green tea polyphenol and curcumin in prostate and breast cancer cells. | RSC Adv
+- new | 2012 | 22499560 | Research Support, Non-U.S. Gov't/Validation Study | Plasma pharmacokinetics and tissue distribution of arctiin and its main metabolite in rats by HPLC-UV and LC-MS. | Planta Med
+- HELD REF-0709 | 2011 | 20981575 | Research Support, Non-U.S. Gov't/Review | A review of the pharmacological effects of Arctium lappa (burdock). | Inflammopharmacology
+- new | 2011 | 21303540 |  | Anti-allergic and anti-inflammatory effects of butanol extract from Arctium Lappa L. | Clin Mol Allergy
+- new | 2011 | 21968661 | Comparative Study | Evaluation of moisturizing effect of methanolic extract of five medicinal plants incorporated into cream bases using impedance and extensiometry methods. | J Drugs Dermatol
+- new | 2008 | 18703753 | Research Support, Non-U.S. Gov't | In vitro and in vivo anti-allergic effects of Arctium lappa L. | Exp Biol Med (Maywood)
+- new | 2008 | 18042411 | Research Support, Non-U.S. Gov't | Prebiotic effectiveness of inulin extracted from edible burdock. | Anaerobe
+- new | 2005 | 15863263 | Research Support, Non-U.S. Gov't | Lack of significant modifying effect of arctiin on prostate carcinogenesis in probasin/SV40 T antigen transgenic rats. | Cancer Lett
+- new | 2005 | 15629241 |  | Binding effect of polychlorinated compounds and environmental carcinogens on rice bran fiber. | J Nutr Biochem
+- new | 2003 | 12786879 | Case Reports | Anaphylaxis due to burdock. | Int J Dermatol
+- new | 2002 | 12218354 | Comparative Study | Hepatoprotective effects of Arctium lappa Linne on liver injuries induced by chronic ethanol consumption and potentiated by carbon tetrachloride. | J Biomed Sci
+- new | 2000 | 10999435 |  | Hepatoprotective effects of Arctium lappa on carbon tetrachloride- and acetaminophen-induced liver damage. | Am J Chin Med
+- new | 2000 | 10814883 | Research Support, Non-U.S. Gov't | Effects of arctiin on PhIP-induced mammary, colon and pancreatic carcinogenesis in female Sprague-Dawley rats and MeIQx-induced hepatocarcinogenesis in male F344 rats. | Cancer Lett
+- new | 2000 | 10762733 | Research Support, Non-U.S. Gov't | Action of chlorogenic acid in vegetables and fruits as an inhibitor of 8-hydroxydeoxyguanosine formation in vitro and in a rat carcinogenesis model. | Food Chem Toxicol
+- new | 1996 | 8874669 |  | Anti-inflammatory and radical scavenge effects of Arctium lappa. | Am J Chin Med
+- new | 1995 | 8549139 | Case Reports | Allergic contact dermatitis due to burdock (Arctium lappa). | Contact Dermatitis
+- new | 1993 | 8395595 |  | Dietary fiber and fat-derivatives prevent mineral oil toxicity in rats by the same mechanism. | J Nutr
+- new | 1984 | 6535850 | Case Reports | Anticholinergic poisonings associated with commercial burdock root tea. | J Toxicol Clin Toxicol
+- new | 1982 | 7067455 | Case Reports | Pappus bristles: the cause of burdock stomatitis in dogs. | Cornell Vet
+- new | 1979 | 430240 |  | Correlation between the physical properties of dietary fibers and their protective activity against amaranth toxicity in rats. | J Nutr
+- HELD REF-2674 | 1978 | 642161 | Case Reports | Burdock root tea poisoning. Case report involving a commercial preparation. | JAMA
+- new | 1978 | 691140 | Letter | Burdock root tea poisoning. | JAMA
+- new | 1978 | 722187 |  | Safety examination of some edible plants, Part 2. | J Environ Pathol Toxicol
+- new | 1953 | 13167508 |  | [Atropine poisoning by ingestion of decoction of burdock roots]. | Rend Ist Sup Sanit [und]
+
+### PubMed OBS - 4 hits, 2 not already listed above, 2 new
+- new | 2020 | 32823812 | Review | Medicinal Herbs Used in Traditional Management of Breast Cancer: Mechanisms of Action. | Medicines (Basel)
+- new | 2019 | 31088247 | Multicenter Study/Observational Study | Acceptability, tolerability, and effects on symptoms and signs of vulvovaginitis of a non-soap, herbal-based intimate hygiene solution (Zelesse®). | J Int Med Res
+
+### PubMed REV - 43 hits, 15 not already listed above, 11 new
+- new | 2025 | 40882724 | Review | Research progress on extraction and purification, structural characteristics, biological activities, structure-activity relationships, and applications of Arctium lappa L. (burdock | Int J Biol Macromol
+- new | 2024 | 38518934 | Review | Extraction, structure and bioactivities of polysaccharide from root of Arctium lappa L.: A review. | Int J Biol Macromol
+- HELD REF-2338 | 2023 | 36516694 | Review | Arctium lappa (Burdock): Insights from ethnopharmacology potential, chemical constituents, clinical studies, pharmacological utility and nanomedicine. | Biomed Pharmacother
+- new | 2023 | 35975861 | Review | Chlorogenic Acid: A Dietary Phenolic Acid with Promising Pharmacotherapeutic Potential. | Curr Med Chem
+- new | 2023 | 37236381 | Review | Effect of arctigenin on neurological diseases: A review. | J Ethnopharmacol
+- new | 2023 | 36981221 | Review | Brewer's Spent Grain, Coffee Grounds, Burdock, and Willow-Four Examples of Biowaste and Biomass Valorization through Advanced Green Extraction Technologies. | Foods
+- HELD REF-0705 | 2022 | 36198078 | Review | Phytochemicals and Biological Activities of Burdock (Arctium lappa L.) Extracts: A Review. | Chem Biodivers
+- HELD REF-0707 | 2022 | 35873376 | Review | Mechanistic insights on burdock (Arctium lappa L.) extract effects on diabetes mellitus. | Food Sci Biotechnol
+- new | 2022 | 35749853 | Review/Research Support, Non-U.S. Gov't | Twelve novel sesquiterpenes with anti-inflammatory and cholesterol-lowering activities from burdock leaves. | Bioorg Chem
+- new | 2022 | 35544364 | Review | Exotic Medicinal Plants Used in Brazil with Diuretic Properties: A Review. | Chem Biodivers
+- new | 2022 | 34612502 | Review | Fructus arctii: an overview on its traditional uses, pharmacology and phytochemistry. | J Pharm Pharmacol
+- HELD REF-0706 | 2021 | 33641945 | Research Support, Non-U.S. Gov't/Review | Burdock (Arctium lappa L) roots as a source of inulin-type fructans and other bioactive compounds: Current knowledge and future perspectives for food and non-food applications. | Food Res Int
+- new | 2020 | 32390852 | Review | Turning Meadow Weeds Into Valuable Species for the Romanian Ethnomedicine While Complying With the Environmentally Friendly Farming Requirements of the European Union's Common Agri | Front Pharmacol
+- new | 2018 | 30236849 | Review | Molecular mechanisms of the action of Arctigenin in cancer. | Biomed Pharmacother
+- new | 1987 | 2449812 | Review | Viroids: molecular infectious agents. | Acta Virol
+
+### ClinicalTrials.gov - 7 registered studies
+- NCT05879406 | COMPLETED | results=False | NA | A Study to Evaluate the Efficacy and Safety of Clear Skin Formula on Mitigating Mild to Moderate Non-cystic Acne | conds: Non-Cystic Acne | intr: VitaMedica® Clear Skin Formula capsules, Placebo Capsules | pubs: ['39758223:DERIVED (new)']
+- NCT01040390 | COMPLETED | results=False | PHASE1 | Efficacy of Lappa Arctium (Homoeopathic Medicine) in Treatment of Acne Vulgaris | conds: Acne Vulgaris | intr: Lappa Arctium | pubs: ['24931753:DERIVED (new)']
+- NCT07778849 | COMPLETED | results=False | NA | Chinese Herbal Sachet Inhalation for Primary Dysmenorrhea in Female College Students | conds: Primary Dysmenorrhea | intr: Traditional Chinese herbal sachet (aromatic inhalation), Placebo sachets
+- NCT07002762 | RECRUITING | results=False | NA | Clinical Efficacy Trial of Burdock Root Extract in Patients With Asymptomatic Hyperuricaemia | conds: Hyperuricemia or Gout | intr: Burdock ( Arctium lappa L.) root extract in a form of a nutritional additive, Placebo
+- NCT00676975 | COMPLETED | results=False | PHASE2 | The Efficacy of Tradition Chinese Medicine in Patients With Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Traditional Chinese Medicine, Traditional Chinese Medicine Placebo
+- NCT02511860 | UNKNOWN | results=False | NA | Burdock and Blood Pressure in African-American Women | conds: Hypertension | intr: Burdock, Placebo
+- NCT07241377 | COMPLETED | results=False | PHASE3 | A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo | conds: Absorption of Omega-3, Omega-3 Supplementation, Healthy Participants | intr: life'sTM omega O1035DS nTG, life'sTM omega O3020DS nTG, MEG-3 3323rTG, Placebo
+
+### OpenAlex no-PMID trial-worded - 725 hits, 51 without PMID, 51 new
+- new | 2026 | 10.59551/ijhmp/25832069/2026.7.1.126 | article | PHARMACOLOGICAL AND PHYTOCHEMICAL PERSPECTIVES OF ARCTIUM LAPPA L.: A TRADITIONAL MEDICINAL PLANT | Indian Journal of Health Care Medical & 
+- new | 2026 | 10.14529/food260307 | erratum | CORRECTION OF ENDOGENOUS INTOXICATION IN LYMPHOPROLIFERATIVE DISEASES: POSSIBILITIES OF PHYTOTHERAPY USING DIETARY SUPPLEMENTS BASED ON BURDOCK ROOT (ARCTIUM LAPPA L.) | Bulletin of the South Ural State Univers
+- new | 2026 | https://openalex.org/W7222853244 | article | КОРРЕКЦИЯ ЭНДОГЕННОЙ ИНТОКСИКАЦИИ ПРИ ЛИМФОПРОЛИФЕРАТИВНЫХ ЗАБОЛЕВАНИЯХ: ВОЗМОЖНОСТИ ФИТОТЕРАПИИ С ИСПОЛЬЗОВАНИЕМ БАД НА ОСНОВЕ КОРНЯ ЛОПУХА (ARCTIUM LAPPA L.) | Bulletin of the South Ural State Univers
+- new | 2025 | 10.47836/mjmhs.21.1.37 | article | Efficacy of Herbal Supplementation on Muscle Health Among Adults: A Scoping Review of Randomized Controlled Trials | Malaysian Journal of Medicine and Health
+- new | 2025 | 10.5281/zenodo.21064576 | other | Preparation and Evaluation of Topical Formulations Containing Arctium lappa L. Root Extract for the Treatment of Acne | Zenodo (CERN European Organization for N
+- new | 2025 | 10.31983/jrk.v14i2.13839 | article | Safety Evaluation of Burdock (Arctium Lappa L.) Root Extract: Effects on Spleen Histopathology and Peripheral Lymphocytes in Wistar Rats | Jurnal Riset Kesehatan
+- new | 2025 | 10.1016/j.egg.2025.100376 | article | Unraveling genetic diversity in Arctium lappa L. populations from the north-west Himalaya using RAPD and ISSR marker techniques | Ecological Genetics and Genomics
+- new | 2024 | 10.37988/1811-153x_2024_1_12 | article | The effectiveness of the Mucosept for the treatment of radiotherapy-induced oral mucositis in head and neck cancer patients: A multicenter randomized controlled trial | Clinical Dentistry (Russia)
+- new | 2024 | 10.69693/ijim.v2i2.140 | article | Subchronic Toxicity Test of Burdock Root (Arctium Lappa L.) Nanoemulsion Based on Histopathology on The Albino Rat Rattus noverticus (Wistar strain) | Indonesian Journal of Innovation Multidi
+- new | 2023 | 10.53555/sfs.v10i1.1978 | article | Effectiveness Of Homoeopathic Medicine Arctium Lappa In The Treatment Of Tinea Corporis: A Case Report | Journal of Survey in Fisheries Sciences
+- new | 2023 | 10.1016/j.aimed.2023.05.001 | article | Efficacy of a prebiotic formulation for treatment of functional constipation and associated gastrointestinal symptoms in adults: A randomised controlled trial | Advances in Integrative Medicine
+- new | 2023 | 10.24018/ejbiomed.2023.2.3.67 | article | Burdock Root (Arctium lappa) Reduces Steatosis and Serum Malondialdehyde in Wistar Rats Fed with Used Cooking Oil | European Journal of Biomedical Research
+- new | 2023 | 10.7585/kjps.2023.27.2.120 | article | Evaluations of Residual Dissipation and Dietary Exposure Safety of Miticidal Bifenazate and Cyenopyrafen as Suspension Concentration treated on burdock (Arctium lappa L.) | The Korean Journal of Pesticide Science
+- new | 2021 | 10.5530/pj.2021.13.224 | article | Pharmacognostic Studies of the Leaves and Fructus of Arctium lappa L. (Asteraceae Bercht. & J. Presl) | Pharmacognosy Journal
+- new | 2021 | 10.6084/m9.figshare.14290785 | dataset | Effects of Arctium lappa aqueous extract on lipid profile and hepatic enzyme levels of sucrose-induced metabolic syndrome in female rats | Figshare
+- new | 2021 | 10.31989/ffhd.v11i9.820 | article | Effect of 12 weeks of continuous burdock sprout extract intake on oxidized LDL: A placebo-controlled, randomized, double-blind, parallel-groups study | Functional Foods in Health and Disease
+- new | 2020 | 10.1016/j.jff.2020.104259 | article | Efficacy and safety of CAEC (Canavalia gladiata arctium lappa extract complex) on immune function enhancement: An 8 week, randomised, double-blind, placebo-controlled clinical tria | Journal of Functional Foods
+- new | 2020 | 10.35495/ajab.2019.11.524 | article | Yield and morphological characteristics of Burdock (Arctium lappa L.) in response to mineral fertilizer application | Asian Journal of Agriculture and Biology
+- new | 2020 | 10.17758/eares10.eap1120122 | conference-paper | Growth, Yield and Phytochemical Constituents of Arctium lappa L. in Response to Phosphorous and Potassium Fertilizers Application | International Conferences on Science, En
+- new | 2019 | 10.1016/j.hermed.2019.100266 | article | Effect of Arctium lappa linne (Burdock) root tea consumption on lipid profile and blood pressure in patients with knee osteoarthritis | Journal of Herbal Medicine
+- new | 2019 | 10.22034/ijsst.2019.108578.1032 | article | مطالعه شکست خواب و خصوصیات جوانهزنی بذر باباآدم (Arctium lappa) | علوم و فناوری بذر ایران
+- new | 2018 | 10.1590/1808-1657000522016 | article | Prebiotic effects of inulin extracted from burdock (Arctium lappa) in broilers | Arquivos do Instituto Biológico
+- new | 2018 | 10.6084/m9.figshare.5862267 | dataset | Prebiotic effects of inulin extracted from burdock (Arctium lappa) in broilers | Figshare
+- new | 2018 | 10.31351/vol24iss1pp18-24 | article | Hypolipidemic Effect of Caffeic Acid Isolated From Arctium Lappa Cultivated In Iraq, in Hyperlipidemic Rat Model | Iraqi Journal of Pharmaceutical Sciences
+- new | 2018 | 10.1016/j.jtcms.2018.12.006 | review | Tuina for treatment of atopic eczema in children under 14 years: A systematic review of randomized controlled trials | Journal of Traditional Chinese Medical S
+- new | 2017 | 10.5772/67062 | book-chapter | Medicinal Plants to Calm and Treat Psoriasis Disease | InTech eBooks
+- new | 2016 | 10.1016/j.jaci.2015.12.954 | article | Arctigenin Isolated from Arctium Lappa L. Inhibits IgE Production | Journal of Allergy and Clinical Immunolo
+- new | 2016 | 10.1007/s13765-016-0195-2 | article | Antioxidant and cognitive-enhancing activities of Arctium lappa L. roots in Aβ1-42-induced mouse model | Applied Biological Chemistry
+- new | 2016 | 10.1590/s1984-82502016000300008 | article | Effects of Arctium lappa aqueous extract on lipid profile and hepatic enzyme levels of sucrose-induced metabolic syndrome in female rats | Brazilian Journal of Pharmaceutical Scie
+- new | 2015 | https://openalex.org/W2381385057 | article | Effect of aqueous extract from roots of Arctium lappa on vascular remolding in hypertensive rats | Zhongcaoyao
+- new | 2015 | https://openalex.org/W2377239815 | article | Protective effects of aqueous extract of arctium lappa root on vascular endothelial cell injury of hypertensive rats | Tianjin yiyao
+- new | 2014 | 10.1158/1538-7445.am2014-ct213 | conference-abstract | Abstract CT213: Arctigenin, an antiausterity agent shows high safety and promising clinical response in phase I clinical trial in patient with gemcitabine-refractory pancreatic can | Cancer Research
+- new | 2014 | 10.1201/b16611-8 | book-chapter | Antioxidative and in vitro Antiproliferative Activity of Arctium Lappa Root Extracts | Apple Academic Press eBooks
+- new | 2014 | https://openalex.org/W2291962031 | article | Effect of plant geometry on vegetative growth, tuber and seed yield of burdock (Arctium lappa L.) | 
+- new | 2013 | 10.1200/jco.2013.31.15_suppl.2559 | conference-abstract | A phase I trial of GBS-01 for advanced pancreatic cancer refractory to gemcitabine. | Journal of Clinical Oncology
+- new | 2013 | 10.5897/ajpp12.202 | article | Effect of oral ingestion of an Arctium lappa extract on the biodistribution of the radiopharmaceutical sodium pertechnetate in rats | African Journal of Pharmacy and Pharmaco
+- new | 2013 | https://openalex.org/W1581397287 | article | Effect of Arctium Lappa Root Extract on Glucose Levels and Insulin Resistance in Rats with High Sucrose Diet | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2013 | 10.7123/01.epj.0000428269.66909.9a | article | DNA fingerprinting and profile of phenolics in root and root calli of Arctium lappa L. grown in Egypt | Egyptian Pharmaceutical Journal
+- new | 2012 | 10.1016/j.gmbhs.2012.09.001 | article | Effectiveness of great burdock essence compounds in the adjuvant treatment of gastric ulcer patients infected with Helicobacter pylori | Genomic Medicine Biomarkers and Health S
+- new | 2012 | 10.3923/javaa.2012.2075.2080 | article | Therapeutic Efficacy of a Nutritional Combination of N-3 PUFAS and Arctium lappa Extract on Canine Atopic Dermatitis | Journal of Animal and Veterinary Advance
+- new | 2011 | https://openalex.org/W2370400485 | article | The effect of amioguanidine and arctium lappa on renal tissue nonenzymatic glycation and apoptosis in diabetic rats | Chinese Journal of Clinical Rational Dru
+- new | 2010 | https://openalex.org/W2352601062 | article | The influevent of arctium Lappa Lon non-enzymatic glycation of protein,tumor necrosis factor-α and it's preventive effect of diabetic nephropathy | China Modern Medicine
+- new | 2009 | https://openalex.org/W2385588884 | article | Isolation and Identification of the Fusarium solani of Virulence in the Arctium lappa L.Rhizosphere | Biotechnology(Faisalabad)
+- new | 2009 | https://openalex.org/W7215575840 | article | Introdução ao estudo da germinação de sementes armazenadas de Arctium lappa L. (Asteraceae) | Cadernos de Agroecologia [Volumes 1 (200
+- new | 2008 | https://openalex.org/W2354900079 | article | Effects of Arctium lappa L.abstraction on the activity of superoxide dismutase in various tissues of movement rats | Journal of Lanzhou University
+- new | 2006 | https://openalex.org/W2349132833 | article | Study on Anti-fatigue Function of the Extracts from Arctium lappa L | Anhui nongye kexue
+- new | 2003 | 10.51415/10321/59 | dissertation | A study comparing the effectiveness of a herbal-complex (Arctium lappa, Berberis aquifolium, Echinacea purpurea and Taraxacum officinale) as compared to homoeopathic simillimum in  | DUT Open Scholar (Durban University of T
+- new | 2003 | https://openalex.org/W2902456722 | article | Antipruritic Effect of Mugwort Lotion for Postburn Hypertrophic Scar Patients | 熱傷
+- new | 1998 | 10.11340/skinresearch1959.40.501 | article | Clinical Trial of Skin Care Compress Containing Mugwort Extract | Skin research
+- new | 1997 | 10.51415/10321/2151 | dissertation | The effect of a homoeopathic complex (Sil-Sel-Hep-K-Lap-Puls) on acne vulgaris | DUT Open Scholar (Durban University of T
+- new | 1877 | 10.1038/scientificamerican04211877-1081bsupp | article | A Trial of Xanthium Spinosum | Scientific American

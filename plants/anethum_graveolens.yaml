@@ -144,8 +144,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-1391
-  - REF-0174
   - REF-3094
   - REF-1392
   status: verified
@@ -158,8 +156,6 @@ actions:
   status: needs-review
 - action: antimicrobial
   reference_ids:
-  - REF-1391
-  - REF-0174
   - REF-3094
   - REF-1394
   - REF-1396
@@ -168,7 +164,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-1391
-  - REF-0174
   - REF-3094
   - REF-1388
   - REF-1392
@@ -177,14 +172,22 @@ actions:
 - action: digestive
   reference_ids:
   - REF-1391
-  - REF-0174
   - REF-3094
   status: verified
 - action: diuretic
   reference_ids:
-  - REF-1391
-  - REF-0174
   - REF-3094
+  status: verified
+- action: lipid-lowering
+  reference_ids:
+  - REF-0174
+  - REF-3435
+  - REF-1391
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-0174
+  - REF-1391
   status: verified
 indications:
 - condition: arthritis
@@ -192,8 +195,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-1391
-  - REF-0174
   - REF-3094
 - condition: bloating
   note: Traditional remedy for flatulence (WHO monograph)
@@ -202,7 +203,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1391
-  - REF-0174
 - condition: cancer
   note: Anethum graveolens (dill) extract induces ROS-mediated apoptosis in HT-144 melanoma cells, and
     its essential oil is selectively cytotoxic and pro-apoptotic against A549 lung adenocarcinoma cells
@@ -228,7 +228,6 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1391
-  - REF-0174
 - condition: infection
   note: A 2% dill vaginal suppository was as effective as clotrimazole for vaginal thrush in a randomized
     trial
@@ -236,8 +235,6 @@ indications:
   - REF-3437
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-1391
-  - REF-0174
   - REF-1396
   - REF-1397
   - REF-3094
@@ -247,8 +244,6 @@ indications:
   reference_ids:
   - REF-3094
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-0174
   null_result_ids:
   - REF-1391
 - condition: metabolic-support
@@ -257,23 +252,23 @@ indications:
   - REF-0174
   status: verified
   note: Dill improved insulin resistance and LDL cholesterol in a meta-analysis of randomized trials,
-    and glycaemic control in a trial in type 2 diabetes
+    and glycaemic control in a trial in type 2 diabetes; a 12-week trial in metabolic syndrome found no
+    difference from placebo
+  null_result_ids:
+  - REF-5158
 - condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids: []
-  status: needs-review
+  note: Dill oil reduced itching (pruritus) more than placebo in a double-blind randomized trial in people
+    on haemodialysis
+  reference_ids:
+  - REF-5155
+  status: verified
   mechanistic_exclude_ids:
-  - REF-1391
-  - REF-0174
   - REF-3094
 - condition: urinary-support
   note: Traditionally used for painful urination (WHO monograph)
   reference_ids:
   - REF-3094
   status: needs-review
-  mechanistic_exclude_ids:
-  - REF-1391
-  - REF-0174
 - condition: high-cholesterol
   note: Dill lowered LDL cholesterol (and triglycerides in some analyses) in systematic reviews of trials;
     one trial in people with high lipids found no effect
@@ -288,17 +283,22 @@ indications:
   reference_ids:
   - REF-3438
   status: verified
+- condition: pregnancy-support
+  note: Boiled dill seed shortened the stages of labour in a systematic review of two randomized trials
+    and two cohort studies and in a randomized trial; for use only alongside maternity care
+  reference_ids:
+  - REF-5156
+  - REF-5157
+  status: verified
 contraindications:
-- note: Widely used as a food herb/spice; WHO monograph notes a “generally regarded as safe” status as
+- note: Widely used as a food herb/spice; WHO monograph notes a "generally regarded as safe" status as
     a flavouring agent (World Health Organization, 2007). Allergic reactions (including oral itching,
     swelling, urticaria, vomiting/diarrhoea) are reported; avoid if you react to Apiaceae-family plants
-    (World Health Organization, 2007; Egyptian Drug Authority, n.d.).
+    (World Health Organization, 2007).
   severity: caution
   reference_ids:
-  - REF-1391
-  - REF-0174
-  - REF-0210
   - REF-3094
+  - REF-5159
   status: verified
 - note: 'Duke (2002) provides clinical evidence (score 2) for dill''s antibacterial and antispasmodic
     activities, consistent with Commission E and PhEur approvals. Traditional uses include management
@@ -307,9 +307,6 @@ contraindications:
     (++) with no known significant contraindications at culinary and medicinal doses (Duke, 2002).'
   severity: caution
   reference_ids:
-  - REF-1391
-  - REF-0174
-  - REF-0210
   - REF-3094
   - REF-0063
   status: verified
@@ -324,6 +321,9 @@ references:
 - REF-1395
 - REF-1396
 - REF-1397
+- REF-0210
+- REF-5160
+- REF-5161
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -414,4 +414,20 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   antimycobacterial lab screen (off-target, inv. 11). Notes rewritten to the WHO monograph
   wording. Not added: Apiaceae dysmenorrhoea MA 41653970 (no dill-specific result in the
   abstract).
-  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-1388 (metabolomics lab study). RE-SOURCED: WHO Fructus Anethi REF-3094, Grieve Dill (REF-4012, new), Useful Tropical Plants REF-3200. The three sources disagree on dill''s origin; all three are stated. Dropped as unsupported: ridged blue-green stem, unspotted, slender taproot, June-August, western Asia, gripe water by name.'
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-1388 (metabolomics lab study). RE-SOURCED: WHO Fructus Anethi REF-3094, Grieve Dill (REF-4012, new), Useful Tropical Plants REF-3200. The three sources disagree on dill''s origin; all three are stated. Dropped as unsupported: ridged blue-green stem, unspotted, slender taproot, June-August, western Asia, gripe water by name.
+  | 2026-11-24: symptom-source audit research-deepening batch 3 - Searched PubMed (Anethum
+  graveolens tiab, dill ti), Europe PMC, ClinicalTrials.gov (5) and OpenAlex. Added: haemodialysis
+  pruritus RCT (skin-irritation now direct and verified); NEW pregnancy-support pair
+  (labour-duration SR 2020 + boiled-seed RCT 2014; condition synonyms include labour support);
+  MetS 12-week RCT recorded as no-effect; anaphylaxis case report to the allergy caution. CLEANUP:
+  the 2020 T2DM RCT (REF-1391) and the 2022 lipid/glycaemic MA (REF-0174) had been pasted onto
+  anti-inflammatory, antimicrobial, digestive and diuretic (and the MA onto antioxidant), which
+  neither states; removed, and two actions they do support added (lipid-lowering, antidiabetic).
+  Both cautions also cited them plus the POWO taxon page REF-0210 (moved to references); removed.
+  The allergy caution named an "Egyptian Drug Authority" source that was never cited; that
+  attribution is removed (the WHO monograph remains). Bucket: thyroid RCT (no vocab condition),
+  postpartum haemorrhage RCT (near-miss, not heavy menstrual bleeding). Not added: Apiaceae
+  dysmenorrhoea MA 41653970 (judged before: no dill-specific result), dill vs mefenamic
+  acid/gemfibrozil/chlorhexidine trials (active comparators only), dill + chamomile oil,
+  blackberry-dill, black sticky rice + dill combinations, case reports without abstracts (contact
+  urticaria, occupational dermatitis, fresh-dill allergy).'

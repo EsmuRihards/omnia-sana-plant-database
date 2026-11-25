@@ -49,3 +49,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 5 | pleurisy root, astragalus, bacopa, birch, bistort | REF-5187..5204 (18) | 1,420 -> 1,422 | `batches/r05_report.md` |
 | 6 | borage, boswellia, calendula, tea, peach-leaved bellflower | REF-5205..5230 (26) | 1,422 -> 1,428 | `batches/r06_report.md` |
 | 7 | hemp, shepherd's purse, chili pepper, caraway, centaury | REF-5231..5249 (19) | 1,428 -> 1,434 | `batches/r07_report.md` |
+| 8 | gotu kola, fireweed, greater celandine, cassia, true cinnamon | REF-5250..5269 (20) | 1,434 -> 1,439 | `batches/r08_report.md` |

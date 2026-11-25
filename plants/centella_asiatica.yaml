@@ -171,11 +171,13 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  note: Gotu kola blunted the acoustic startle response (a measure of anxiety) vs placebo in healthy volunteers;
-    anti-anxiety activity of its triterpenes in animal studies (review)
+  note: Gotu kola blunted the acoustic startle response (a measure of anxiety) vs placebo in healthy volunteers,
+    and a hydro-ethanolic extract reduced anxiety, stress and related low mood in a clinical study in
+    generalized anxiety disorder; anti-anxiety activity of its triterpenes in animal studies (review)
   reference_ids:
   - REF-0457
   - REF-3493
+  - REF-5250
   status: verified
 - condition: arthritis
   note: Its triterpenes asiaticoside and madecassoside reduced arthritis in animal models (review; compound
@@ -192,7 +194,8 @@ indications:
   - REF-2097
 - condition: cognitive-function
   note: Improved cognition and mood in healthy older volunteers and after stroke in small randomized trials;
-    a meta-analysis found no significant effect on any cognitive domain
+    a meta-analysis found no significant effect on any cognitive domain, and added to exercise it gave
+    no extra cognitive benefit in mild cognitive impairment
   reference_ids:
   - REF-0457
   - REF-3494
@@ -200,6 +203,7 @@ indications:
   status: needs-review
   null_result_ids:
   - REF-0568
+  - REF-5255
 - condition: hemorrhoids
   note: inferred from venotonic action
   reference_ids: []
@@ -250,10 +254,13 @@ indications:
   - REF-2097
 - condition: swelling
   note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
-    and reduces leg swelling
+    and reduces leg swelling; in randomized trials, its total triterpenic fraction reduced ankle swelling
+    in venous hypertension and swelling during long flights
   reference_ids:
   - REF-0458
   - REF-0569
+  - REF-5253
+  - REF-5254
   status: verified
   mechanistic_exclude_ids:
   - REF-0570
@@ -276,6 +283,14 @@ indications:
   - REF-3496
   - REF-3497
   status: needs-review
+- condition: pain
+  note: In placebo-controlled randomized trials, Centella triterpenes reduced the severity of diabetic
+    neuropathy symptoms, and a standardized extract (ECa 233) gave fast, short-term relief of jaw (temporomandibular)
+    pain
+  reference_ids:
+  - REF-5251
+  - REF-5252
+  status: verified
 contraindications:
 - note: Generally well tolerated topically and orally; it can occasionally cause allergic contact dermatitis
     and, rarely, reversible elevation of liver enzymes with prolonged high oral doses.
@@ -380,4 +395,16 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med 
   (cognition, memory); Cochrane-style null REF-0568 now also recorded for memory. Held SR REF-2091
   plus RCTs REF-3496 (post-laser) and REF-3497 (diabetic wounds) to wounds; held REF-2092
   (psoriasis model) and REF-2093 (human skin micro-inflammation) wired to psoriasis and
-  skin-irritation. Notes label asiaticoside/madecassoside evidence as compound evidence.'
+  skin-irritation. Notes label asiaticoside/madecassoside evidence as compound evidence.
+  | 2026-11-25: symptom-source audit research-deepening batch 8 - Searched PubMed (Centella
+  asiatica / gotu kola / Hydrocotyle asiatica tiab; centella, asiaticoside, madecassoside ti),
+  Europe PMC, ClinicalTrials.gov (61) and OpenAlex. Added: GAD clinical study (Nepal 2010) to
+  anxiety; two TTFCA RCTs (venous-hypertension oedema; flight oedema) to swelling; Gotu kola +
+  exercise vs exercise RCT (no extra cognitive effect) as no-effect for cognitive-function; NEW
+  pain pair (CAST triterpenes diabetic-neuropathy placebo RCT; ECa 233 TMD placebo pilot RCT).
+  Dead end: 2025 Thai placebo RCT in type 2 diabetes found no glycaemic or lipid effect (no
+  blood-sugar pair exists). Considered, not added: cosmetics and creams combining Centella with
+  panthenol, ceramides, mandelic acid, aloe or other actives; Centella vs flavonoids for
+  haemorrhoids and anal fissure (active comparators); scar-cream RCT (pigmentation only);
+  skin-ageing, macular-pigment and elderly strength trials (no vocab condition);
+  contact-dermatitis case (no abstract); Medhya Rasayana and other formulas.'

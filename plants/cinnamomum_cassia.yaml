@@ -143,7 +143,6 @@ indications:
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
-  - REF-0430
   - REF-1822
   - REF-1825
   - REF-1826
@@ -215,6 +214,27 @@ indications:
   reference_ids:
   - REF-3503
   status: verified
+- condition: menstrual-cramps
+  note: Cinnamon capsules reduced period pain more than placebo in two double-blind randomized trials,
+    one of which also found less nausea and vomiting (cinnamon species not stated)
+  reference_ids:
+  - REF-5262
+  - REF-5263
+  status: verified
+- condition: wounds
+  note: A cinnamon ointment reduced perineal pain and improved healing of episiotomy wounds more than
+    placebo in a double-blind randomized trial (cinnamon species not stated)
+  reference_ids:
+  - REF-5264
+  status: verified
+- condition: high-blood-pressure
+  note: Cinnamon supplements modestly lowered systolic and diastolic blood pressure in meta-analyses of
+    randomized trials, confirmed by a 2024 umbrella review (cinnamon species often not stated)
+  reference_ids:
+  - REF-5265
+  - REF-5266
+  - REF-5267
+  status: verified
 contraindications:
 - note: 'Cassia bark contains coumarin, which can damage the liver; a subgroup of people is especially
     sensitive to it. The tolerable daily intake is 0.1 mg of coumarin per kg of body weight, and heavy
@@ -231,6 +251,13 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0429
+  status: verified
+- note: 'Allergy: cinnamon (cinnamaldehyde) can cause immediate allergic reactions; in reported cases,
+    people first sensitised by inhaling heated, cinnamon-flavoured fog-machine or shisha vapour later
+    had severe reactions, including anaphylaxis, to spiced food.'
+  severity: caution
+  reference_ids:
+  - REF-5268
   status: verified
 references:
 - REF-1819
@@ -286,4 +313,17 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Famil
   for cardiovascular-support) but lower weight and HbA1c (metabolic-support). New diarrhea pair
   from RCT REF-3503 (owner rule). Notes now state the mixed evidence.
   | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-2], preparations[0] and dosage[0] cited only REF-0430 (meta-analysis of cassia powder in type 2 diabetes, whose pooled result was NOT significant). RE-SOURCED: traditional use from reviews REF-1821/REF-1824 and REF-1822; cinnamaldehyde 85% of the oil Ooi 2006 (REF-3975, new); procyanidins A1/A2/B1/C1 Dai 2024 (REF-3976, new); coumarin Choi 2001 (REF-3977, new) + Blahova 2012 (REF-3978, new; cassia-type ground cinnamon 2.65-7.0 mg/g, Ceylon none). REF-0430 kept for what it reports (1-2 g/day for 90 days, no significant effect). Dropped as unsupported: rou gui and warming/cold-type wording, circulation and metabolic support, insulin-sensitising, capsules, standardised extract, 1-6 g, prefer Ceylon cinnamon, key safety-limiting. FOLLOW-UP (not done here): check whether REF-0430, a null pooled result, sits in any indication''s reference_ids (invariant 7).
-  | 2026-11-20 (cassia null-trial fix, owner-approved): REF-0430 (Cureus 2021 cassia meta-analysis, 8 RCTs, 1-2 g/day bark powder in capsules for 40-90 days) is a NULL result on every outcome (full text PMC8361532: FBG P=0.10, HbA1c P=0.86, TG P=0.12, TC P=0.46, LDL P=0.85, HDL P=0.49; conclusion: does not decrease them). Per invariant 7 it is now in null_result_ids, not reference_ids, for blood-sugar, cardiovascular-support, high-cholesterol, metabolic-support, and the notes say so; removed from the antidiabetic, lipid-lowering and carminative actions (it never addressed carminative use). The coumarin caution cited only REF-0430, which says nothing about coumarin: now Choi 2001 REF-3977 (coumarin in C. cassia bark oil), Abraham 2010 (REF-4025, new; BfR review: hepatotoxic, susceptible subgroup, TDI 0.1 mg/kg bw, heavy cassia users can reach it) and Blahova 2012 REF-3978. Dropped from the caution: ''prefer Ceylon cinnamon for frequent or medicinal use'' as advice (the sources give the facts, not the advice). Checked and left alone: REF-3502 supports metabolic-support (HbA1c, weight, BMI fell) and is correctly null for cardiovascular-support (BP, lipids, stiffness unchanged).'
+  | 2026-11-20 (cassia null-trial fix, owner-approved): REF-0430 (Cureus 2021 cassia meta-analysis, 8 RCTs, 1-2 g/day bark powder in capsules for 40-90 days) is a NULL result on every outcome (full text PMC8361532: FBG P=0.10, HbA1c P=0.86, TG P=0.12, TC P=0.46, LDL P=0.85, HDL P=0.49; conclusion: does not decrease them). Per invariant 7 it is now in null_result_ids, not reference_ids, for blood-sugar, cardiovascular-support, high-cholesterol, metabolic-support, and the notes say so; removed from the antidiabetic, lipid-lowering and carminative actions (it never addressed carminative use). The coumarin caution cited only REF-0430, which says nothing about coumarin: now Choi 2001 REF-3977 (coumarin in C. cassia bark oil), Abraham 2010 (REF-4025, new; BfR review: hepatotoxic, susceptible subgroup, TDI 0.1 mg/kg bw, heavy cassia users can reach it) and Blahova 2012 REF-3978. Dropped from the caution: ''prefer Ceylon cinnamon for frequent or medicinal use'' as advice (the sources give the facts, not the advice). Checked and left alone: REF-3502 supports metabolic-support (HbA1c, weight, BMI fell) and is correctly null for cardiovascular-support (BP, lipids, stiffness unchanged).
+  | 2026-11-25: symptom-source audit research-deepening batch 8 - Searched PubMed (Cinnamomum
+  cassia / C. aromaticum / cassia / Chinese cinnamon tiab, cinnamon ti), Europe PMC,
+  ClinicalTrials.gov (112) and OpenAlex. Trials and reviews that say only "cinnamon" are assigned
+  here (inv. 10). The metabolic pairs are already at 10 and were not padded. NEW pairs:
+  menstrual-cramps (Jahangirifar 2018 and Jaafarpour 2015 placebo RCTs), wounds (Mohammadi 2014
+  episiotomy placebo RCT, ointment), high-blood-pressure (two 2020 MAs and a 2024 umbrella
+  review). New allergy caution (aerosol-primed cinnamaldehyde anaphylaxis cases, 2016). NOT ADDED:
+  liver-support (two liver-enzyme MAs) because the record warns that cassia coumarin can damage
+  the liver (inv. 12d); heavy-bleeding from the dysmenorrhoea trial (women with period pain, not
+  heavy bleeding: near-miss, inv. 12c); cinnamon vs ibuprofen or chlorhexidine (active
+  comparators); PCOS and fertility-hormone trials (surrogates, mixed); combinations with
+  berberine, sumac, chromium, probiotics, marjoram and other spices; the 2021 safety umbrella
+  review (no claim it would change).'

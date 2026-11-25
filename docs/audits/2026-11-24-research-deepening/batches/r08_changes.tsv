@@ -1,0 +1,16 @@
+plant	condition	ref	op
+centella_asiatica	anxiety	REF-5250	add
+centella_asiatica	anxiety	-	note
+centella_asiatica	swelling	REF-5253	add
+centella_asiatica	swelling	REF-5254	add
+centella_asiatica	swelling	-	note
+centella_asiatica	cognitive-function	REF-5255	nulladd
+centella_asiatica	cognitive-function	-	note
+centella_asiatica	pain	REF-5251,REF-5252	newpair
+cinnamomum_cassia	menstrual-cramps	REF-5262,REF-5263	newpair
+cinnamomum_cassia	wounds	REF-5264	newpair
+cinnamomum_cassia	high-blood-pressure	REF-5265,REF-5266,REF-5267	newpair
+cinnamomum_verum	allergy	REF-5269	newpair
+chelidonium_majus	ciadd	SERIOUS: oral greater celandine	REF-5256,REF-5257,REF-5258,REF-5259,REF-5260
+chelidonium_majus	cinew	Blood: a patient developed severe haemol	REF-5261
+cinnamomum_cassia	cinew	Allergy: cinnamon (cinnamaldehyde) can c	REF-5268

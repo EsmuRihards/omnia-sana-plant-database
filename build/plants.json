@@ -14146,13 +14146,14 @@
    "indications": [
     {
      "condition": "anxiety",
-     "note": "Gotu kola blunted the acoustic startle response (a measure of anxiety) vs placebo in healthy volunteers; anti-anxiety activity of its triterpenes in animal studies (review)",
+     "note": "Gotu kola blunted the acoustic startle response (a measure of anxiety) vs placebo in healthy volunteers, and a hydro-ethanolic extract reduced anxiety, stress and related low mood in a clinical study in generalized anxiety disorder; anti-anxiety activity of its triterpenes in animal studies (review)",
      "reference_ids": [
       "REF-0457",
-      "REF-3493"
+      "REF-3493",
+      "REF-5250"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 6,
      "label": "Anxiety"
     },
     {
@@ -14175,7 +14176,7 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "Improved cognition and mood in healthy older volunteers and after stroke in small randomized trials; a meta-analysis found no significant effect on any cognitive domain",
+     "note": "Improved cognition and mood in healthy older volunteers and after stroke in small randomized trials; a meta-analysis found no significant effect on any cognitive domain, and added to exercise it gave no extra cognitive benefit in mild cognitive impairment",
      "reference_ids": [
       "REF-0457",
       "REF-3494",
@@ -14183,7 +14184,8 @@
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-0568"
+      "REF-0568",
+      "REF-5255"
      ],
      "evidence": 6,
      "label": "Cognitive function"
@@ -14268,16 +14270,18 @@
     },
     {
      "condition": "swelling",
-     "note": "Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins and reduces leg swelling",
+     "note": "Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins and reduces leg swelling; in randomized trials, its total triterpenic fraction reduced ankle swelling in venous hypertension and swelling during long flights",
      "reference_ids": [
       "REF-0458",
-      "REF-0569"
+      "REF-0569",
+      "REF-5253",
+      "REF-5254"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0570"
      ],
-     "evidence": 7,
+     "evidence": 9,
      "label": "Swelling / fluid retention"
     },
     {
@@ -14307,6 +14311,17 @@
      "status": "needs-review",
      "evidence": 9,
      "label": "Wounds"
+    },
+    {
+     "condition": "pain",
+     "note": "In placebo-controlled randomized trials, Centella triterpenes reduced the severity of diabetic neuropathy symptoms, and a standardized extract (ECa 233) gave fast, short-term relief of jaw (temporomandibular) pain",
+     "reference_ids": [
+      "REF-5251",
+      "REF-5252"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Pain (general)"
     }
    ],
    "contraindications": [
@@ -14983,7 +14998,12 @@
      "severity": "serious",
      "reference_ids": [
       "REF-0459",
-      "REF-0601"
+      "REF-0601",
+      "REF-5256",
+      "REF-5257",
+      "REF-5258",
+      "REF-5259",
+      "REF-5260"
      ],
      "status": "verified"
     },
@@ -14993,6 +15013,14 @@
      "reference_ids": [
       "REF-0459",
       "REF-0460"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Blood: a patient developed severe haemolytic anaemia, with kidney failure and low platelets, after taking a greater celandine extract by mouth; it resolved with hospital treatment (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5261"
      ],
      "status": "verified"
     }
@@ -15184,7 +15212,6 @@
      "reference_ids": [],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
-      "REF-0430",
       "REF-1822",
       "REF-1825",
       "REF-1826"
@@ -15279,6 +15306,39 @@
      "status": "verified",
      "evidence": 5,
      "label": "Diarrhoea"
+    },
+    {
+     "condition": "menstrual-cramps",
+     "note": "Cinnamon capsules reduced period pain more than placebo in two double-blind randomized trials, one of which also found less nausea and vomiting (cinnamon species not stated)",
+     "reference_ids": [
+      "REF-5262",
+      "REF-5263"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Menstrual cramps"
+    },
+    {
+     "condition": "wounds",
+     "note": "A cinnamon ointment reduced perineal pain and improved healing of episiotomy wounds more than placebo in a double-blind randomized trial (cinnamon species not stated)",
+     "reference_ids": [
+      "REF-5264"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Wounds"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Cinnamon supplements modestly lowered systolic and diastolic blood pressure in meta-analyses of randomized trials, confirmed by a 2024 umbrella review (cinnamon species often not stated)",
+     "reference_ids": [
+      "REF-5265",
+      "REF-5266",
+      "REF-5267"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [
@@ -15297,6 +15357,14 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0429"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Allergy: cinnamon (cinnamaldehyde) can cause immediate allergic reactions; in reported cases, people first sensitised by inhaling heated, cinnamon-flavoured fog-machine or shisha vapour later had severe reactions, including anaphylaxis, to spiced food.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5268"
      ],
      "status": "verified"
     }
@@ -15611,6 +15679,16 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "allergy",
+     "note": "A Ceylon cinnamon bark extract nasal spray reduced seasonal hay-fever symptoms and improved quality of life more than placebo over 7 days in a double-blind randomized trial",
+     "reference_ids": [
+      "REF-5269"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Allergy / hay fever"
     }
    ],
    "contraindications": [
@@ -15682,6 +15760,9 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "synonyms": [
+    "Cinnamomum zeylanicum"
+   ],
    "common_slug": "true-cinnamon"
   },
   {

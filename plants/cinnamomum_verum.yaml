@@ -199,6 +199,12 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0101
+- condition: allergy
+  note: A Ceylon cinnamon bark extract nasal spray reduced seasonal hay-fever symptoms and improved quality
+    of life more than placebo over 7 days in a double-blind randomized trial
+  reference_ids:
+  - REF-5269
+  status: verified
 contraindications:
 - note: True cinnamon (C. verum) is safe in culinary and moderate medicinal doses. Cassia (C. cassia)
     contains high coumarin - excessive intake may be hepatotoxic and should not be confused with true
@@ -304,4 +310,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3504 (C. zeylanicum antidiabetic effects in vitro and in vivo) added to blood-sugar (owner:
   SRs of preclinical work keep SR scoring). Wickenberg 2012 RCT REF-3505 (no effect on
   postprandial glucose in IGT) and 2025 RCT REF-3506 (anthropometrics not significant) recorded as
-  no-effect.'
+  no-effect.
+  | 2026-11-25: symptom-source audit research-deepening batch 8 - Searched PubMed (Cinnamomum
+  verum / C. zeylanicum / Ceylon cinnamon / true cinnamon tiab), Europe PMC, ClinicalTrials.gov
+  (100) and OpenAlex. NEW allergy pair: 2019 placebo RCT of a C. zeylanicum bark extract nasal
+  spray (IND02) in seasonal allergic rhinitis. Not added: the 2025 Sri Lankan T2DM trial report
+  (SLCTR/2017/010; same trial as REF-2413, and its abstract reports within-group changes) and its
+  2017 protocol; C. zeylanicum essential oil vs nystatin for oral candidiasis (active comparator
+  only); trials naming only "cinnamon" (assigned to cassia, inv. 10).'
+synonyms:
+- Cinnamomum zeylanicum

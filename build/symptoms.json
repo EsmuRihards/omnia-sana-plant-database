@@ -4048,6 +4048,29 @@
      ]
     },
     {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5265",
+      "REF-5266",
+      "REF-5267"
+     ]
+    },
+    {
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5262",
+      "REF-5263"
+     ]
+    },
+    {
      "condition": "diarrhea",
      "label": "Diarrhoea",
      "evidence": 5,
@@ -4055,6 +4078,16 @@
      "inferred": false,
      "references": [
       "REF-3503"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5264"
      ]
     },
     {
@@ -8116,6 +8149,19 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0458",
+      "REF-0569",
+      "REF-5253",
+      "REF-5254"
+     ]
+    },
+    {
      "condition": "wounds",
      "label": "Wounds",
      "evidence": 9,
@@ -8130,8 +8176,8 @@
      ]
     },
     {
-     "condition": "swelling",
-     "label": "Swelling / fluid retention",
+     "condition": "varicose-veins",
+     "label": "Varicose veins",
      "evidence": 7,
      "status": "verified",
      "inferred": false,
@@ -8141,14 +8187,15 @@
      ]
     },
     {
-     "condition": "varicose-veins",
-     "label": "Varicose veins",
-     "evidence": 7,
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 6,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0458",
-      "REF-0569"
+      "REF-0457",
+      "REF-3493",
+      "REF-5250"
      ]
     },
     {
@@ -8176,14 +8223,14 @@
      ]
     },
     {
-     "condition": "anxiety",
-     "label": "Anxiety",
-     "evidence": 5,
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 6,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0457",
-      "REF-3493"
+      "REF-5251",
+      "REF-5252"
      ]
     },
     {
@@ -15561,6 +15608,16 @@
      "references": [
       "REF-2413",
       "REF-3504"
+     ]
+    },
+    {
+     "condition": "allergy",
+     "label": "Allergy / hay fever",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5269"
      ]
     },
     {

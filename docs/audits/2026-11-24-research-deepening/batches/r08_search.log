@@ -1,0 +1,42 @@
+   centella-asiatica HT 138
+   centella-asiatica SR 28
+   centella-asiatica SAFE 266
+   centella-asiatica OBS 14
+   centella-asiatica REV 138
+centella-asiatica done
+   chamerion-angustifolium HT 4
+   chamerion-angustifolium SR 0
+   chamerion-angustifolium SAFE 16
+   chamerion-angustifolium OBS 1
+   chamerion-angustifolium REV 9
+chamerion-angustifolium done
+   chelidonium-majus HT 11
+   chelidonium-majus SR 4
+   chelidonium-majus SAFE 96
+   chelidonium-majus OBS 2
+   chelidonium-majus REV 29
+chelidonium-majus done
+   cinnamomum-cassia HT 190
+   cinnamomum-cassia SR 67
+   cinnamomum-cassia SAFE 337
+   cinnamomum-cassia OBS 10
+   cinnamomum-cassia REV 115
+cinnamomum-cassia done
+   cinnamomum-verum HT 47
+   cinnamomum-verum SR 24
+   cinnamomum-verum SAFE 121
+   cinnamomum-verum OBS 7
+   cinnamomum-verum REV 57
+cinnamomum-verum done
+
+PUBMED-DONE
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Centella+asiatica%22+AND+%28TITLE%3Apatients+OR+TITLE%3 HTTP Error 503: Service Temporarily Unavailable
+centella-asiatica done
+chamerion-angustifolium done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Chelidonium+majus%22+OR+TITLE%3A%22Great The read operation timed out
+chelidonium-majus done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Cinnamomum+cassia%22+OR+TITLE%3A%22Cassi The read operation timed out
+cinnamomum-cassia done
+cinnamomum-verum done
+# Research-deepening batch 8 - Europe PMC
+SEARCH-DONE

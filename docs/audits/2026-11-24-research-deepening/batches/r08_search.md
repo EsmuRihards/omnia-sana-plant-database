@@ -1,0 +1,1615 @@
+# Research-deepening batch 8 - search
+
+## centella-asiatica (Centella asiatica) - name clause: "Centella asiatica"[tiab] OR "gotu kola"[tiab] OR "Hydrocotyle asiatica"[tiab] OR "centella"[ti] OR "asiaticoside"[ti] OR "madecassoside"[ti]
+
+### PubMed HT - 138 hits, 138 not already listed above, 129 new
+- new | 2026 | 41575193 | Review | The efficacy of nutritional phytochemical compounds in improving cognition. | Int J Neuropsychopharmacol
+- new | 2026 | 42529868 | Review | Pharmacological interventions to treat chronic venous disease: A network meta-analysis. | Phlebology
+- new | 2026 | 41901080 | Randomized Controlled Trial | Effects of Long-Term Supplementation with Centella asiatica (L.) Urb. Extract (CA-HE50) on Macular Pigment Optical Density: A Randomized, Double-Blind, Placebo-Controlled Trial. | Nutrients
+- new | 2026 | 42916082 |  | Follicle-Oriented "Acid-Free" Supramolecular Microcapsules Achieve Efficient Acne Therapy via Skin Microbiota Remodeling. | ACS Nano
+- new | 2026 | 42280293 | Review | Geroprotective Potential of Centella asiatica: Modulation of Cellular Aging. | Nutrients
+- new | 2026 | 42828782 | Review | Lifestyle strategies and nutraceuticals in chronic venous disease: an evidence-weighted synthesis and clinical positioning. | Clin Nutr
+- new | 2026 | 40983598 | Systematic Review | Plant-based antioxidant strategies with potential for preeclampsia prevention: clinical and mechanistic insights. | J Perinat Med
+- new | 2026 | 42653032 | Review | Depression-Related Mechanistic and Translational Evidence for Centella asiatica and Its Triterpenoids: A Scoping Review. | Life (Basel)
+- new | 2026 | 42751070 |  | Care of incontinence-associated dermatitis in older adults: A randomized controlled trial comparing zinc oxide-petroleum jelly and centella asiatica-aloe vera preparations. | Int J Nurs Stud Adv
+- new | 2026 | 42876425 | Randomized Controlled Trial | Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema and Skin Barrier in Erythematotelangiectatic Rosacea: A Rand | Skin Res Technol
+- new | 2026 | 42696337 | Randomized Controlled Trial/Multicenter Study | A Novel Moisturizer Formulated With Micronized Centella asiatica and Mandelic Acid Improves Mature, Crepey Skin. | J Drugs Dermatol
+- new | 2026 | 42391143 | Scoping Review | Therapeutic Potential of Gotu Kola (Centella asiatica), Phosphatidylcholine, and Taurine in Mood Disorders: A Systematic Scoping Review. | Complement Med Res
+- new | 2026 | 42976840 | Randomized Controlled Trial/Multicenter Study | A Moisturizer With Centella asiatica and Mandelic Acid Reduces Bruising and Speeds Recovery in Mature Skin. | J Drugs Dermatol
+- new | 2026 | 42196964 | Randomized Controlled Trial | A Randomized, Double-Blind, Placebo-Controlled Trial Assessing the Effects of Oral Centella asiatica Extract on Skin Aging-Related Parameters in Middle-Aged Korean Women. | Nutrients
+- new | 2025 | 39929877 | Randomized Controlled Trial | Randomized controlled trial of bromelain and alpha-lipoic acid in breast conservative surgery. | Sci Rep
+- new | 2025 | 40265772 | Systematic Review | Role of veno-active drugs after endovenous therapy: A systematic review of the current literature. | Phlebology
+- new | 2025 | 40327578 | Clinical Trial | Efficacy and Tolerability of a Cream in Aging Skin. | J Drugs Dermatol
+- new | 2025 | 41383475 | Clinical Trial | Efficacy and safety of Centella asiatica (L.) Urb. [Apiaceae] as a dietary supplement for glycemic control and lipid regulation in patients with type 2 diabetes: a randomized contr | Front Pharmacol
+- new | 2025 | 39652096 |  | Centellicum® improves scarring of traumatic wounds with irregular edges (lacerations). | Minerva Surg
+- new | 2025 | 39361947 | Letter | A Dermocosmetic Balm Containing Vitamin B5, Madecassoside, and a Prebiotic Complex Significantly Improves Post Fractionated CO(2) Laser Downtime Versus a Repairing Skin Care: Resul | J Cosmet Dermatol
+- new | 2025 | 39840393 | Review | Herbal Medicines as Complementary Therapy for Managing Complications in COVID-19 Patients with Diabetes Mellitus. | Diabetes Metab Syndr Obes
+- new | 2025 | 40196951 | Randomized Controlled Trial | An Innovative Cream Improves Signs and Symptoms of Dermatoporosis in Patients Aged 65 and Over. | J Drugs Dermatol
+- new | 2025 | 39918266 | Randomized Controlled Trial | Investigating the Efficacy and Safety of Oral Cicaglocal on Wound Healing After Mohs Surgery in Patients With Skin Cancer: A Randomized, Double-Blinded, Placebo-Controlled Clinical | J Cosmet Dermatol
+- new | 2025 | 40609195 |  | Comparative efficacy of Medhya Rasayana,Bacopa monnieri, and Centella asiatica in enhancing memory and IQ of 8-10 year-old healthy boys: A prakriti-based double-blind, randomized c | J Ayurveda Integr Med
+- new | 2025 | 40771867 | Case Reports/Clinical Trial | The Effects of a Nursing Program Applying Zinc Oxide Mixed with Petroleum Jelly and Centella Asiatica Mixed with Aloe Vera on Skin Indicators Among Older Patients in Semi-Intensive | J Multidiscip Healthc
+- new | 2025 | 40253389 | Randomized Controlled Trial | Efficacy of Centella asiatica on mitigating temporomandibular pain and improving functionality: a randomized, double blind, pilot clinical trial. | Head Face Med
+- new | 2025 | 40613435 | Randomized Controlled Trial | Evaluation of the Efficacy and Safety of a Panthenol-Enriched Mask for Skin Barrier Recovery After Facial Laser Treatment: Results of a Double-Blind Randomized Controlled Study. | J Cosmet Dermatol
+- new | 2024 | 39345799 |  | Bleomycin-Induced Fibrosis and the Effectiveness of Centella Asiatica as a Treatment. | J Exp Pharmacol
+- new | 2024 | 38567908 | Case Reports | Allergic contact dermatitis from Centella asiatica extract and fragrance allergens: Report of two patients from Turkey. | Contact Dermatitis
+- new | 2024 | 38831627 | Randomized Controlled Trial/Multicenter Study | A two-center randomized controlled trial of a repairing mask as an adjunctive treatment for mild to moderate rosacea. | J Cosmet Dermatol
+- new | 2024 | 39770523 |  | Centella asiatica Promotes Antioxidant Gene Expression and Mitochondrial Oxidative Respiration in Experimental Autoimmune Encephalomyelitis. | Pharmaceuticals (Basel)
+- new | 2024 | 38358384 | Observational Study | Safety and efficacy of a class II medical device based on highly purified and standardized plant extracts in the management of post-menopausal patients with vulvar and vaginal atro | Minerva Obstet Gynecol
+- new | 2024 | 39334942 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Plant Meristem-Cell-Based Cosmetics on Menopausal Skin: Clinical Data and Mechanisms. | Biomolecules
+- new | 2023 | 37886497 | Preprint | Centella asiatica promotes antioxidant gene expression and mitochondrial oxidative respiration in experimental autoimmune encephalomyelitis. | Res Sq
+- new | 2023 | 37680716 |  | Bioanalytical method validation and application to a phase 1, double-blind, randomized pharmacokinetic trial of a standardized Centella asiatica (L.) Urban water extract product in | Front Pharmacol
+- new | 2023 | 37361940 | Review | Efficacy and Safety of Add-On Plant-Based Drugs for COVID-19 Patients: A Review of the Randomized Control Trials. | Infect Drug Resist
+- new | 2023 | 37101713 |  | Development of an Effective Acne Treatment Based on CBD and Herbal Extracts: Preliminary In Vitro, Ex Vivo, and Clinical Evaluation. | Evid Based Complement Alternat Med
+- new | 2023 | 36860213 | Case Reports | Monotherapy With a Non-Hormonal Centella Asiatica, Hyaluronic Acid, and Prebiotic-Based Vaginal Gel in Women With Bacterial Vaginosis: Case Series. | Clin Med Insights Case Rep
+- new | 2023 | 37885445 |  | Chronic supplementation of a multi-ingredient herbal supplement increases speed of cognitive task performance alongside changes in the urinary metabolism of dopamine and the gut mi | Front Nutr
+- new | 2023 | 37024608 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Optimized multiherbal combination and in vivo anti-skin aging potential: a randomized double blind placebo controlled study. | Sci Rep
+- new | 2023 | 36950702 | Case Reports | Experience With a Non-Hormonal Centella Asiatica, Hyaluronic Acid and Prebiotic-Based Vaginal Gel in Women With Recurrent Vulvovaginal Candidiasis: Case Studies. | Clin Med Insights Case Rep
+- new | 2023 | 38063299 | Randomized Controlled Trial/Multicenter Study | Wound healing efficacy of a polymeric spray film solution containing Centella asiatica leaf extract on acute wounds. | J Wound Care
+- new | 2023 | 39156187 |  | [Effect of eye drops based on hyaluronic acid, Aloe vera and Centella asiatica on quality of life of patients with dry eye]. | Farm Comunitarios [spa]
+- new | 2023 | 36918311 |  | The effect of Centella Asiatica cream on scar development in patients who underwent open carpal tunnel release surgery. | J Hand Ther
+- new | 2022 | 35204098 |  | Pharmacokinetics and Pharmacodynamics of Key Components of a Standardized Centella asiatica Product in Cognitively Impaired Older Adults: A Phase 1, Double-Blind, Randomized Clinic | Antioxidants (Basel)
+- new | 2022 | 35733624 |  | A Randomized Controlled Trial of Thai Medicinal Plant-4 Cream versus Diclofenac Gel in the Management of Symptomatic Osteoarthritis of the Knee. | Evid Based Complement Alternat Med
+- new | 2022 | 36420467 |  | Does Gotu kola supplementation improve cognitive function, inflammation, and oxidative stress more than multicomponent exercise alone? - a randomized controlled study. | J Exerc Rehabil
+- new | 2021 | 33861456 | Review | Ethnobotany, Phytochemistry and Pharmacological Features of Centella asiatica: A Comprehensive Review. | Adv Exp Med Biol
+- new | 2021 | 34970145 |  | Evaluation of the Efficacy and Safety of a Compound of Micronized Flavonoids in Combination With Vitamin C and Extracts of Centella asiatica, Vaccinium myrtillus, and Vitis vinifer | Front Pharmacol
+- new | 2021 | 34108605 | Published Erratum | Publisher Correction: Pharmacokinetics and metabolomics investigation of an orally modified formula of standardized Centella asiatica extract in healthy volunteers. | Sci Rep
+- new | 2021 | 34719189 |  | Wound Healing Effectivity of the Ethanolic Extracts of Ageratum conyzoides L. Leaf (White and Purple Flower Type) and Centella asiatica and Astaxanthin Combination Gel Preparation  | Turk J Pharm Sci
+- new | 2021 | 34214362 | Randomized Controlled Trial | Role of Centella asiatica and ceramide in skin barrier improvement: a double blind clinical trial of Indonesian batik workers. | J Basic Clin Physiol Pharmacol
+- new | 2021 | 35096945 |  | Developing a Rational, Optimized Product of Centella asiatica for Examination in Clinical Trials: Real World Challenges. | Front Nutr
+- new | 2021 | 33938432 | Randomized Controlled Trial | The Effectiveness of Galactomyces Ferment Filtrate, Dexpanthenol, and Centella Asiatica Combination Serum in the Treatment of Post-Acne Hyperpigmentation in Subjects with Skin of C | Skinmed
+- new | 2021 | 34506588 | Research Support, Non-U.S. Gov't | Self-management using crude herbs and the health-related quality of life among adult patients with hypertension living in a suburban setting of Malaysia. | PLoS One
+- new | 2021 | 33767223 | Clinical Trial/Research Support, Non-U.S. Gov't | Pharmacokinetics and metabolomics investigation of an orally modified formula of standardized Centella asiatica extract in healthy volunteers. | Sci Rep
+- HELD REF-0570 | 2020 | 33141449 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Phlebotonics for venous insufficiency. | Cochrane Database Syst Rev
+- new | 2020 | 33413787 | Systematic Review/Network Meta-Analysis | Efficacy and Safety of Centella Asiatica (L.) Urb. on Wrinkles: A Systematic Review of Published Data and Network Meta-Analysis. | J Cosmet Sci
+- new | 2020 | 32670409 |  | Cardiovascular Protection of Nephropathic Male Patients by Oral Food Supplements. | Cardiovasc Ther
+- new | 2020 | 32279615 | Randomized Controlled Trial | Adding herbal extracts to silicone gel on post-sternotomy scar: a prospective randomised double-blind study. | J Wound Care
+- new | 2020 | 32405550 | Retracted Publication | A Prospective Randomized Double-blind study of silicone gel plus Herbal Extracts Versus Placebo in Pre-sternal hypertrophic scar prevention and amelioration. | Heliyon
+- new | 2020 | 32908567 |  | Oral and Topical Centella asiatica in Type 2 Diabetes Mellitus Patients with Dry Skin: A Three-Arm Prospective Randomized Double-Blind Controlled Trial. | Evid Based Complement Alternat Med
+- HELD REF-3496 | 2020 | 32310680 | Randomized Controlled Trial | The Effects of a Standardized Extract of Centella asiatica on Postlaser Resurfacing Wound Healing on the Face: A Split-Face, Double-Blind, Randomized, Placebo-Controlled Trial. | J Altern Complement Med
+- new | 2020 | 32406284 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Prophylaxis of Radiation-Induced Dermatitis in Patients With Breast Cancer Using Herbal Creams: A Prospective Randomized Controlled Trial. | Integr Cancer Ther
+- new | 2020 | 32409760 | Randomized Controlled Trial | Comparison of Centella with Flavonoids for Treatment of Symptoms in Hemorrhoidal Disease and After Surgical Intervention: A Randomized Clinical Trial. | Sci Rep
+- new | 2020 | 31778697 |  | Polyurethane-biomacromolecule combined foam dressing containing asiaticoside: fabrication, characterization and clinical efficacy for traumatic dermal wound treatment. | Int J Biol Macromol
+- new | 2020 | 32199407 | Observational Study | Keloidal penile fibrosis: improvements with Centellicum® (Centella asiatica) and Pycnogenol® supplementation: a pilot registry. | Panminerva Med
+- new | 2020 | 32378273 | Letter/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of a cream containing madecassoside, 5% panthenol, and copper-zinc-manganese on improving postlaser resurfacing wound healing: A split-face, randomized trial. | Dermatol Ther
+- new | 2020 | 31558010 |  | Pumpkin seeds, Centella asiatica, Boswellia, Helichrysum, acetate vitamin E, Melaleuca alternifolia and hyaluronic acid phytocomplex monotherapy effects in patients with chronic pe | Minerva Urol Nefrol
+- new | 2019 | 30945430 | Comparative Study/Randomized Controlled Trial | Efficacy and safety of moisturizer containing 5% panthenol, madecassoside, and copper-zinc-manganese versus 0.02% triamcinolone acetonide cream in decreasing adverse reaction and d | J Cosmet Dermatol
+- new | 2019 | 30699457 | Clinical Trial, Phase I | Safety and Pharmacokinetics of Standardized Extract of Centella asiatica (ECa 233) Capsules in Healthy Thai Volunteers: A Phase 1 Clinical Study. | Planta Med
+- new | 2019 | 30456780 | Randomized Controlled Trial | Effects of a topical lotion containing aminophylline, caffeine, yohimbe, l-carnitine, and gotu kola on thigh circumference, skinfold thickness, and fat mass in sedentary females. | J Cosmet Dermatol
+- new | 2018 | 29706766 |  | Test for Non-Synergistic Interactions in Phytomedicine, Just as You Do for Isolated Compounds. | J Exp Neurosci
+- new | 2018 | 31080345 |  | Centella asiatica triterpenes for diabetic neuropathy: a randomized, double-blind, placebo-controlled, pilot clinical study. | Esper Dermatol
+- new | 2018 | 30310413 |  | A Prospective Randomized, Controlled, Double-Blind Trial of the Efficacy Using Centella Cream for Scar Improvement. | Evid Based Complement Alternat Med
+- new | 2018 | 29844250 | Comparative Study/Randomized Controlled Trial | Comparison of Flavonoids and Centella asiatica for the treatment of chronic anal fissure. A randomized clinical trial. | Ann Ital Chir
+- new | 2018 | 30293400 | Comparative Study | Postpartum stretchmarks: repairing activity of an oral Centella asiatica supplementation (Centellicum®). | Minerva Ginecol
+- HELD REF-0568 | 2017 | 28878245 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Effects of Centella asiatica (L.) Urb. on cognitive function and mood related outcomes: A Systematic Review and Meta-analysis. | Sci Rep
+- new | 2017 | 28860834 |  | The 24-hour skin hydration and barrier function effects of a hyaluronic 1%, glycerin 5%, and Centella asiatica stem cells extract moisturizing fluid: an intra-subject, randomized,  | Clin Cosmet Investig Dermatol
+- new | 2017 | 27815700 | Randomized Controlled Trial | Effect of a mixture of diosmin, coumarin glycosides, and triterpenes on bleeding, thrombosis, and pain after stapled anopexy: a prospective, randomized, placebo-controlled clinical | Int J Colorectal Dis
+- new | 2017 | 28248871 | Comparative Study/Randomized Controlled Trial | Partial-thickness burn wounds healing by topical treatment: A randomized controlled comparison between silver sulfadiazine and centiderm. | Medicine (Baltimore)
+- new | 2016 | 27440796 | Randomized Controlled Trial | Clinical Efficacy Test of Polyester Containing Herbal Extract Dressings in Burn Wound Healing. | Int J Low Extrem Wounds
+- HELD REF-0570 | 2016 | 27048768 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Phlebotonics for venous insufficiency. | Cochrane Database Syst Rev
+- new | 2016 | 27446228 |  | Identification of Centella asiatica's Effective Ingredients for Inducing the Neuronal Differentiation. | Evid Based Complement Alternat Med
+- new | 2016 | 26940261 |  | Phytoremediation of iron from red soil of tropical region by using Centella asiatica. | Int J Phytoremediation
+- new | 2015 | 25519846 | Observational Study | Pycnogenol® and Centella asiatica in the management of asymptomatic atherosclerosis progression. | Int Angiol
+- new | 2015 | 26026207 | Research Support, Non-U.S. Gov't | Centella asiatica and lipoic acid, or a combination thereof, inhibit monocyte adhesion to endothelial cells from umbilical cords of gestational diabetic women. | Nutr Metab Cardiovasc Dis
+- new | 2014 | 24376360 |  | Anti-inflammaging and antiglycation activity of a novel botanical ingredient from African biodiversity (Centevita™). | Clin Cosmet Investig Dermatol
+- new | 2014 | 23529542 | Research Support, Non-U.S. Gov't | Field evaluation of in vitro-induced tetraploid and diploid Centella asiatica (L.) Urban. | J Nat Med
+- new | 2014 | 24452082 | Observational Study | Pycnogenol® and Centella Asiatica for asymptomatic atherosclerosis progression. | Int Angiol
+- new | 2013 | 23237514 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Use of a specific anti-stretch mark cream for preventing or reducing the severity of striae gravidarum. Randomized, double-blind, controlled trial. | Int J Cosmet Sci
+- HELD REF-0569 | 2013 | 23533507 |  | A Systematic Review of the Efficacy of Centella asiatica for Improvement of the Signs and Symptoms of Chronic Venous Insufficiency. | Evid Based Complement Alternat Med
+- new | 2013 | 23844756 | Randomized Controlled Trial | Long-term follow-up of oral administration of flavonoids, Centella asiatica and Melilotus, for diabetic cystoid macular edema without macular thickening. | J Ocul Pharmacol Ther
+- new | 2013 | 24695779 |  | Effects of Medhya Rasayana and Yogic practices in improvement of short-term memory among school-going children. | Ayu
+- new | 2012 | 22693530 |  | Plectranthus amboinicus and Centella asiatica Cream for the Treatment of Diabetic Foot Ulcers. | Evid Based Complement Alternat Med
+- new | 2011 | 19880441 |  | Centella asiatica Improves Physical Performance and Health-Related Quality of Life in Healthy Elderly Volunteer. | Evid Based Complement Alternat Med
+- new | 2011 | 22027950 |  | Flavonoid and leaf gas exchange responses of Centella asiatica to acute gamma irradiation and carbon dioxide enrichment under controlled environment conditions. | Molecules
+- new | 2011 | 21314440 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Combination of flavonoids with Centella asiatica and Melilotus for diabetic cystoid macular edema without macular thickening. | J Ocul Pharmacol Ther
+- new | 2010 | 20677602 | Clinical Trial/Research Support, Non-U.S. Gov't | A clinical study on the management of generalized anxiety disorder with Centella asiatica. | Nepal Med Coll J
+- new | 2010 | 20527138 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of an onion extract, Centella asiatica, and hyaluronic acid cream in the appearance of striae rubra. | Skinmed
+- new | 2010 | 22131681 |  | Clinical Evaluation of Shilajatu Rasayana in patients with HIV Infection. | Ayu
+- HELD REF-3497 | 2010 | 21298840 | Randomized Controlled Trial | The efficacy and side effects of oral Centella asiatica extract for wound healing promotion in diabetic wound patients. | J Med Assoc Thai
+- new | 2009 | 20109380 | Controlled Clinical Trial/Multicenter Study | [Multicentric study on a topical compound with lymph-draining action in the treatment of the phlebostatic ulcer of the inferior limbs]. | G Chir [ita]
+- new | 2008 | 18503551 | Randomized Controlled Trial | Clinical, biometric and structural evaluation of the long-term effects of a topical treatment with ascorbic acid and madecassoside in photoaged human skin. | Exp Dermatol
+- new | 2008 | 18452433 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of the effects of a preparation containing asiaticoside on periocular wrinkles of human volunteers. | Int J Cosmet Sci
+- HELD REF-3494 | 2008 | 18191355 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Positive modulation of cognition and mood in the healthy elderly volunteer following the administration of Centella asiatica. | J Ethnopharmacol
+- new | 2007 | 18077922 | Comparative Study/Randomized Controlled Trial | A randomized, double-blind, vehicle-controlled, half-side comparison with a herbal ointment containing Mahonia aquifolium, Viola tricolor and Centella asiatica for the treatment of | Int J Clin Pharmacol Ther
+- new | 2007 | 17324660 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Safety and efficacy of a ginkgo biloba-containing dietary supplement on cognitive function, quality of life, and platelet function in healthy, cognitively intact older adults. | J Am Diet Assoc
+- new | 2006 | 16729760 | Randomized Controlled Trial | [Efficiency of includes of bioactive substances in diet of patient with hepatic encephalopathy]. | Vopr Pitan [rus]
+- new | 2006 | 16928673 | Review | A review of the microcirculation in skin in patients with chronic venous insufficiency: the problem and the evidence available for therapeutic options. | Int J Low Extrem Wounds
+- HELD REF-0570 | 2005 | 16034893 | Meta-Analysis/Systematic Review | Phlebotonics for venous insufficiency. | Cochrane Database Syst Rev
+- new | 2005 | 16022023 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Adjunctive periodontal treatment with Centella asiatica and Punica granatum extracts in supportive periodontal therapy. | J Int Acad Periodontol
+- new | 2003 | 14604059 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Adjunctive periodontal treatment with Centella asiatica and Punica granatum extracts. A preliminary study. | J Int Acad Periodontol
+- new | 2001 | 11666125 | Clinical Trial/Randomized Controlled Trial | Treatment of edema and increased capillary filtration in venous hypertension with total triterpenic fraction of Centella asiatica: a clinical, prospective, placebo-controlled, rand | Angiology
+- new | 2001 | 11666118 | Clinical Trial/Randomized Controlled Trial | Increase in echogenicity of echolucent carotid plaques after treatment with total triterpenic fraction of Centella asiatica: a prospective, placebo-controlled, randomized trial. | Angiology
+- new | 2001 | 11666127 | Clinical Trial/Randomized Controlled Trial | Modification of the echogenicity of femoral plaques after treatment with total triterpenic fraction of Centella asiatica: a prospective, randomized, placebo-controlled trial. | Angiology
+- new | 2001 | 11666121 | Clinical Trial/Randomized Controlled Trial | Flight microangiopathy in medium- to long-distance flights: prevention of edema and microcirculation alterations with total triterpenic fraction of Centella asiatica. | Angiology
+- new | 2001 | 11666123 | Clinical Trial/Randomized Controlled Trial | Microcirculatory effects of total triterpenic fraction of Centella asiatica in chronic venous hypertension: measurement by laser Doppler, TcPO2-CO2, and leg volumetry. | Angiology
+- new | 2001 | 11666126 | Clinical Trial/Randomized Controlled Trial | Total triterpenic fraction of Centella asiatica in the treatment of venous hypertension: a clinical, prospective, randomized trial using a combined microcirculatory model. | Angiology
+- new | 2001 | 11666119 | Clinical Trial/Randomized Controlled Trial | Treatment of diabetic microangiopathy and edema with total triterpenic fraction of Centella asiatica: a prospective, placebo-controlled randomized study. | Angiology
+- new | 2001 | 11666117 | Clinical Trial/Randomized Controlled Trial | Effects of the total triterpenic fraction of Centella asiatica in venous hypertensive microangiopathy: a prospective, placebo-controlled, randomized trial. | Angiology
+- new | 2001 | 11666124 | Clinical Trial/Randomized Controlled Trial | Evaluation of treatment of diabetic microangiopathy with total triterpenic fraction of Centella asiatica: a clinical prospective randomized trial with a microcirculatory model. | Angiology
+- new | 2001 | 11292962 | Clinical Trial/Randomized Controlled Trial | [Effectiveness of the combination of alpha tocopherol, rutin, melilotus, and centella asiatica in the treatment of patients with chronic venous insufficiency]. | Minerva Cardioangiol [ita]
+- HELD REF-3493 | 2000 | 11106141 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blind, placebo-controlled study on the effects of Gotu Kola (Centella asiatica) on acoustic startle response in healthy subjects. | J Clin Psychopharmacol
+- new | 2000 | 18503475 |  | Topical formulation of a new plant extract complex with refirming properties. Clinical and non-invasive evaluation in a double-blind trial. | Int J Cosmet Sci
+- new | 2000 | 10796111 | Systematic Review | Creams for preventing stretch marks in pregnancy. | Cochrane Database Syst Rev
+- new | 1999 | 10711131 | Review | Dietary supplements used in the treatment of depression, anxiety, and sleep disorders. | Lippincotts Prim Care Pract
+- new | 1994 | 7936334 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [The microcirculatory activity of Centella asiatica in venous insufficiency. A double-blind study]. | Minerva Cardioangiol [ita]
+- new | 1992 | 1528498 | Clinical Trial/Comparative Study | [Activity of Centella asiatica in venous insufficiency]. | Minerva Cardioangiol [ita]
+- new | 1991 | 19291041 |  | Prophylaxis of Striae gravidarum with a topical formulation. A double blind trial. | Int J Cosmet Sci
+- new | 1991 | 1743599 | Clinical Trial | Centella Asiatica Triterpenic Fraction (CATTF) reduces the number of circulating endothelial cells in subjects with post phlebitic syndrome. | Haematologica
+- new | 1991 | 1816661 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of indigenous plants in the treatment of acute shigellosis. | Trop Geogr Med
+- new | 1990 | 2389834 |  | Improvement of capillary permeability in patients with venous hypertension after treatment with TTFCA. | Angiology
+- new | 1990 | 2305995 | Clinical Trial/Comparative Study/Controlled Clinical Trial | Capillary filtration and ankle edema in patients with venous hypertension treated with TTFCA. | Angiology
+- new | 1990 | 2329813 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Pharmacokinetics of the total triterpenic fraction of Centella asiatica after single and multiple administrations to healthy volunteers. A new assay for asiatic acid. | J Ethnopharmacol
+- new | 1987 | 3544968 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Titrated extract of Centella asiatica (TECA) in the treatment of venous insufficiency of the lower limbs. | Angiology
+- new | 1981 | 7037273 | Clinical Trial/Comparative Study/Controlled Clinical Trial | [Centella asiatica extract in venous disorders of the lower limbs. Comparative clinico-instrumental studies with a placebo]. | Clin Ter [ita]
+- new | 1974 | 4601120 | Clinical Trial/Comparative Study/Controlled Clinical Trial | A trial of asiaticoside on skin graft donor areas. | Br J Plast Surg
+
+### PubMed SR - 28 hits, 15 not already listed above, 14 new
+- new | 2027 | 42772613 | Systematic Review/Meta-Analysis/Review | Efficacy and safety of Centella asiatica in wound healing: A systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2026 | 42906579 |  | Pharmacological Activities of Centella asiatica: A Systematic Review of Preclinical and Clinical Evidence on Cardiovascular, Neurological, Antioxidant, and Anti-inflammatory Effect | Planta Med
+- new | 2026 | 42883811 | Review | Next-Generation Adaptogens: Molecular Mechanisms, Bioactive Compounds and Human Health Relevance of Selected Botanicals and Fungi. | Int J Mol Sci
+- new | 2025 | 40002547 | Review | Cholinesterase Inhibitors from Plants and Their Potential in Alzheimer's Treatment: Systematic Review. | Brain Sci
+- new | 2025 | 39757623 | Systematic Review | Herbal Medicine for the Management of Wounds: A Systematic Review of Clinical Studies. | Infect Disord Drug Targets
+- new | 2024 | 39233460 | Systematic Review | Cosmeceuticals in photoaging: A review. | Skin Res Technol
+- new | 2024 | 39102254 | Review | A Review on Traditional Medicine Used for Burn Treatment. | J Burn Care Res
+- new | 2024 | 39108365 | Review | Centella asiatica effect on traumatic brain injury: A systematic review. | Surg Neurol Int
+- new | 2024 | 38644706 | Systematic Review | Antioxidative and Anti-inflammatory Effects of Plant-derived Hypoglycemic Medicines: An In vivo/In vitro Systematic Review. | Curr Top Med Chem
+- new | 2023 | 36987052 | Review | Nootropic Herbs, Shrubs, and Trees as Potential Cognitive Enhancers. | Plants (Basel)
+- new | 2023 | 36797613 | Systematic Review | Herbal Therapeutics for Alzheimer's Disease: Ancient Indian Medicine System from the Modern Viewpoint. | Curr Neuropharmacol
+- HELD REF-2091 | 2022 | 35328954 | Systematic Review | A Systematic Review of the Effect of Centella asiatica on Wound Healing. | Int J Environ Res Public Health
+- new | 2021 | 33809656 | Meta-Analysis/Systematic Review | Efficacy of Functional Foods, Beverages, and Supplements Claiming to Alleviate Air Travel Symptoms: Systematic Review and Meta-Analysis. | Nutrients
+- new | 2021 | 32525269 | Systematic Review | Profile of herbal and dietary supplements induced liver injury in Latin America: A systematic review of published reports. | Phytother Res
+- new | 2016 | 26822584 | Systematic Review | Effects of Plants on Osteogenic Differentiation and Mineralization of Periodontal Ligament Cells: A Systematic Review. | Phytother Res
+
+### PubMed SAFE - 266 hits, 147 not already listed above, 145 new
+- new | 2026 | 41398744 |  | Cofactor-coupled cytochrome P450 engineering enables high-level biosynthesis of asiatic acid in Saccharomyces cerevisiae. | Bioresour Technol
+- new | 2026 | 42682919 |  | Integrated quality and safety evaluation of spray-dried Centella asiatica extract powder for oral ingredient development. | Food Sci Biotechnol
+- new | 2026 | 42059025 | Review | Phytotherapeutic Potential of Medicinal Plants for Atopic Dermatitis: Centella asiatica, Clinacanthus nutans, Senna alata, and Coccinia grandis. | Biomol Ther (Seoul)
+- new | 2026 | 41649913 | Case Reports | Management of essential thrombocythaemia-associated toe ulcer with a novel topical macrophage-modulating cream containing extract of Plectranthus amboinicus. | J Wound Care
+- new | 2026 | 41421280 |  | Madecassoside attenuated UVB irradiation-induced skin ferroptosis by targeting POR. | Phytomedicine
+- new | 2026 | 41756238 | Review | Review of neuroprotective potential of natural products against hypoxia-induced neuronal injury. | Front Pharmacol
+- new | 2026 | 41750223 | Review | Medicinal Plants for Major Depressive Disorder. | Brain Sci
+- new | 2026 | 41137365 |  | Pharmacokinetic, toxicological, and antidiabetic evaluation of a novel polyherbal formulation. | J Complement Integr Med
+- new | 2026 | 41460316 |  | Development and optimization of asiaticoside co-crystal-loaded transdermal patch for topical therapy. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2026 | 41200903 |  | Role of triterpenoid derivatives from Centella asiatica as quantum chemical calculations. | J Biomol Struct Dyn
+- new | 2026 | 42388451 |  | Toxicity evaluation and anti-ischemic stroke activity of selected natural extracts in zebrafish. | Biomed Rep
+- new | 2026 | 43047130 | Review | Anti-Aging Potential of Callus Culture: Mechanisms, Efficacy and Future Trends. | J Cosmet Dermatol
+- new | 2025 | 40994128 |  | MicroRNA-Enriched Plant-Derived Exosomes Alleviate Colitis by Modulating Systemic Immunity, Metabolic Homeostasis, and Gut Microbiota. | Adv Sci (Weinh)
+- new | 2025 | 41338089 |  | Asiaticoside ameliorates pyrimethanil-induced autophagy-dependent liver injury by suppressing CRHR1. | Ecotoxicol Environ Saf
+- new | 2025 | 40832006 |  | A Clinical Trial to Evaluate the Safety and Efficacy of Centella asiatica for Ulcerative Colitis. | JGH Open
+- new | 2025 | 40682399 | Observational Study | The Effectiveness and Safety of a Skin Care Product With Centella asiatica Leaf Extract, Ceramide NP, and Panthenol in Subjects With Sensitive Skin: A Prospective, Observational St | J Cosmet Dermatol
+- new | 2025 | 40484255 | Review | Interlinking diabetes and Alzheimer's disease: A pathway through medicinal plant-based treatments. | J Ethnopharmacol
+- new | 2025 | 40870001 |  | Mitochondrial Genome and RNA Editing Tissue Specificity of Centella asiatica. | Genes (Basel)
+- new | 2025 | 40015163 | Review | Asiatic acid and its derivatives: Pharmacological insights and applications. | Eur J Med Chem
+- new | 2025 | 40066340 | Review | Asiatic acid in anticancer effects: emerging roles and mechanisms. | Front Pharmacol
+- new | 2025 | 38860461 | Research Support, Non-U.S. Gov't | Investigating pharmacokinetic profiles of Centella asiatica using machine learning and PBPK modelling. | J Biopharm Stat
+- new | 2025 | 40727491 |  | The inhibitory effects of Centella asiatica compounds on myeloid cell leukemia 1 (MCL-1) in cancer: a computational study. | In Silico Pharmacol
+- new | 2025 | 40204151 | Research Support, Non-U.S. Gov't | Neuroprotective effects of Centella asiatica against LPS/amyloid beta-induced neurodegeneration through inhibition of neuroinflammation. | Neuroscience
+- new | 2025 | 40373489 |  | Asiaticoside enhances the anti-tumor effect of anti-PDL1 by regulating T cell activity through increasing LCK activity. | Pathol Res Pract
+- new | 2025 | 40932246 | Review/Research Support, Non-U.S. Gov't | A review of neuroprotective properties of Centella asiatica (L.) Urb. and its therapeutic effects. | Ann Med
+- new | 2025 | 40248229 | Review | Herbal bioactive-loaded biopolymeric formulations for wound healing applications. | RSC Adv
+- new | 2025 | 40297338 | Review | Regulation of chronic neuroinflammation through dietary herbal products. | Front Nutr
+- new | 2024 | 39196306 | Review | Evidence of Potential Natural Products for the Management of Hypertrophic Scars. | J Evid Based Integr Med
+- new | 2024 | 39406108 | Research Support, Non-U.S. Gov't | Biosynthesis of plant-derived triterpenoid asiatic acid in Saccharomyces cerevisiae cell factories. | Bioorg Chem
+- new | 2024 | 39251043 | Research Support, Non-U.S. Gov't | Asiatic acid induces lung cancer toxicity by triggering SRC-mediated ferroptosis. | Toxicol Appl Pharmacol
+- new | 2024 | 36999188 | Review | The Zebrafish Model as a New Discovery Path for Medicinal Plants in the Treatment of Parkinson's Disease. | CNS Neurol Disord Drug Targets
+- new | 2024 | 38336016 |  | Sub-chronic oral toxicity of a water-soluble extract of Centella asiatica (Centell-S) in Wistar rats. | Food Chem Toxicol
+- new | 2024 | 38640296 | Review | A comprehensive review on the hepatotoxicity of herbs used in the Indian (Ayush) systems of alternative medicine. | Medicine (Baltimore)
+- new | 2024 | 38998067 |  | Effects of Centella asiatica Extracts on Rumen In Vitro Fermentation Characteristics and Digestibility. | Animals (Basel)
+- new | 2024 | 38398590 |  | Integrating High-Resolution Mass Spectral Data, Bioassays and Computational Models to Annotate Bioactives in Botanical Extracts: Case Study Analysis of C. asiatica Extract Associat | Molecules
+- new | 2024 | 38610995 | Review | Can Asiatic Acid from Centella asiatica Be a Potential Remedy in Cancer Therapy?-A Review. | Cancers (Basel)
+- new | 2024 | 39323893 |  | Isolation, genomic analysis and functional characterization of Enterococcus rotai CMTB-CA6, a putative probiotic strain isolated from a medicinal plant Centella asiatica. | Front Microbiol
+- new | 2024 | 39272165 |  | Asiaticoside ameliorates uterine injury induced by zearalenone in mice by reversing endometrial barrier disruption, oxidative stress and apoptosis. | Reprod Biol Endocrinol
+- new | 2024 | 38703344 |  | Hydroalcoholic Extract of Centella asiatica and Madecassic Acid Reverse Depressive-Like Behaviors, Inflammation and Oxidative Stress in Adult Rats Submitted to Stress in Early Life | Mol Neurobiol
+- new | 2024 | 38506659 | Review | Dietary agents in the prevention of radiation-induced nausea and vomiting (RINV): review addressing the scientific observations, benefits, lacunae and future direction. | Int J Radiat Biol
+- new | 2024 | 38198371 |  | Standardized Centella asiatica extract ECa 233 alleviates pain hypersensitivity by modulating P2X3 in trigeminal neuropathic pain. | J Appl Oral Sci
+- new | 2024 | 39386232 | Review | Recent advancements in the role of phytochemicals and medicinal plants in prophylaxis and management of Alzheimer's disease. | Iran J Basic Med Sci
+- new | 2024 | 39035578 |  | Determination of the anticancer activity of standardized extract of Centella asiatica (ECa 233) on cell growth and metastatic behavior in oral cancer cells. | Res Pharm Sci
+- new | 2024 | 39055207 |  | Enhanced absorption of prenylated cinnamic acid derivatives from Brazilian green propolis by turmeric in humans and rats. | Food Sci Nutr
+- new | 2023 | 36250215 |  | Flow cytometry as an alternative method to evaluate genotoxicity of natural cosmetic actives. | J Cosmet Dermatol
+- new | 2023 | 37087747 |  | Madecassoside ameliorates cisplatin-induced nephrotoxicity by inhibiting activation of the mitogen activated protein kinase pathway. | Environ Toxicol
+- new | 2023 | 37261298 | Review | Anti-inflammatory and memory-enhancing properties of Chinese herbal extracts: The possible application in Alzheimer's disease. | Tzu Chi Med J
+- new | 2023 | 36812692 |  | Safety Assessment of Centella asiatica-Derived Ingredients as Used in Cosmetics. | Int J Toxicol
+- new | 2023 | 37895839 |  | Synergistic Antihyperglycemic and Antihyperlipidemic Effect of Polyherbal and Allopolyherbal Formulation. | Pharmaceuticals (Basel)
+- new | 2023 | 36306932 | Review | A review of pharmacokinetic and pharmacological properties of asiaticoside, a major active constituent of Centella asiatica (L.) Urb. | J Ethnopharmacol
+- new | 2023 | 37765189 |  | Multifunctional PDO Thread Coated with Mg(OH)(2)/ZnO Nanoparticles and Asiaticoside for Improved Facial Lifting. | Pharmaceutics
+- new | 2023 | 37511015 |  | Synergistic Effects of Vitis vinifera L. and Centella asiatica against CCl(4)-Induced Liver Injury in Mice. | Int J Mol Sci
+- new | 2023 | 38042274 |  | Exploring aryl hydrocarbon receptor (AhR) as a target for Bisphenol-A (BPA)-induced pancreatic islet toxicity and impaired glucose homeostasis: Protective efficacy of ethanol extra | Toxicology
+- new | 2023 | 37764799 |  | Chlorogenic Acids, Acting via Calcineurin, Are the Main Compounds in Centella asiatica Extracts That Mediate Resilience to Chronic Stress in Drosophila melanogaster. | Nutrients
+- new | 2023 | 36261695 |  | Discovery of Molecular Networks of Neuroprotection Conferred by Brahmi Extract in Aβ(42)-Induced Toxicity Model of Drosophila melanogaster Using a Quantitative Proteomic Approach. | Mol Neurobiol
+- new | 2023 | 38007481 | Research Support, Non-U.S. Gov't | In-silico and in-vitro screening of Asiatic acid and Asiaticoside A against Cathepsin S enzyme. | BMC Pharmacol Toxicol
+- new | 2023 | 37544120 |  | Investigating high throughput phenotyping based morpho-physiological and biochemical adaptations of indian pennywort (Centella asiatica L. urban) in response to different irrigatio | Plant Physiol Biochem
+- new | 2023 | 37247290 |  | Evaluation of the Anti-Carcinogenic Effect of Centella Asiatica on Oral Cancer Cell Line: In vitro Study. | Asian Pac J Cancer Prev
+- new | 2023 | 37537774 | Review | Phenytoin's Pharmacological Interactions with Medicinal Herbs: A Review. | Pharmazie
+- new | 2023 | 37759286 |  | The standardized extract of Centella asiatica L. Urb attenuates the convulsant effect induced by lithium/pilocarpine without affecting biochemical and haematological parameters in  | BMC Complement Med Ther
+- new | 2023 | 36336330 |  | Centella asiatica (L.) Urb. Extract ameliorates branched-chain amino acid (BCAA) metabolism in acute reserpine-induced stress zebrafish model via (1)H Nuclear Magnetic Resonance (N | Comp Biochem Physiol C Toxicol Pharmacol
+- new | 2023 | 36927394 |  | Pharmacoinformatics and molecular dynamics simulation approach to identify anti-diarrheal potentials of Centella asiatica (L.) Urb. against Vibrio cholerae. | J Biomol Struct Dyn
+- new | 2023 | 37563868 |  | Centella triterpenes cream as a potential drug for the treatment of hypertrophic scar through inhibiting the phosphorylation of STAT3: A network pharmacology analysis and in vitro  | J Cosmet Dermatol
+- new | 2023 | 36169781 |  | Asiaticoside conveys an antifibrotic effect by inhibiting activation of hepatic stellate cells via the Jagged-1/Notch-1 pathway. | J Nat Med
+- new | 2023 | 37095163 | Research Support, Non-U.S. Gov't | Standardized Centella asiatica (ECa 233) extract decreased pain hypersensitivity development in a male mouse model of chronic inflammatory temporomandibular disorder. | Sci Rep
+- new | 2022 | 35856377 | Review | Counteracting side effects of combined oral contraceptives through the administration of specific micronutrients. | Eur Rev Med Pharmacol Sci
+- new | 2022 | 35029831 |  | Centella asiatica extract protects against cisplatin-induced hepatotoxicity via targeting oxidative stress, inflammation, and apoptosis. | Environ Sci Pollut Res Int
+- new | 2022 | 35198095 |  | Asiatic Acid Alleviates Myocardial Ischemia-Reperfusion Injury by Inhibiting the ROS-Mediated Mitochondria-Dependent Apoptosis Pathway. | Oxid Med Cell Longev
+- new | 2022 | 33078641 |  | Centella asiatica prevents D-galactose-Induced cognitive deficits, oxidative stress and neurodegeneration in the adult rat brain. | Drug Chem Toxicol
+- new | 2022 | 35368764 |  | Preparation and Safety Evaluation of Centella asiatica Total Glycosides Nitric Oxide Gel and Its Therapeutic Effect on Diabetic Cutaneous Ulcers. | Evid Based Complement Alternat Med
+- new | 2022 | 34455930 |  | In-silico screening and identification of phytochemicals from Centella asiatica as potential inhibitors of sodium-glucose co-transporter 2 for treating diabetes. | J Biomol Struct Dyn
+- new | 2022 | 32894920 |  | Supplementation with a new food grade delivery system of Boswellia and Centella in the intervertebral discs registry: the Sager study. | Panminerva Med
+- new | 2022 | 33979901 |  | A study of effect of Centella asiatica on oxidative markers in the hippocampus of offsprings born to alcohol-fed pregnant rats and the correlation with their cognitive functions. | J Complement Integr Med
+- new | 2022 | 35433265 |  | Engineering of Yarrowia lipolytica for the production of plant triterpenoids: Asiatic, madecassic, and arjunolic acids. | Metab Eng Commun
+- new | 2022 | 35052625 |  | Withania somnifera and Centella asiatica Extracts Ameliorate Behavioral Deficits in an In Vivo Drosophila melanogaster Model of Oxidative Stress. | Antioxidants (Basel)
+- new | 2022 | 35181485 |  | Centella asiatica (L.) Urb. attenuates cardiac hypertrophy and improves heart function through multi-level mechanisms revealed by systems pharmacology. | J Ethnopharmacol
+- new | 2022 | 35554794 | Research Support, Non-U.S. Gov't | Asiatic acid attenuates aluminium chloride-induced behavioral changes, neuronal loss and astrocyte activation in rats. | Metab Brain Dis
+- new | 2022 | 36761834 |  | Cationic biopolymer decorated Asiatic Acid and Centella asiatica extract incorporated liposomes for treating early-stage Alzheimer's disease: An In-vitro and In-vivo investigation. | F1000Res
+- new | 2022 | 35403091 |  | In silico, in vitro screening of plant extracts for anti-SARS-CoV-2 activity and evaluation of their acute and sub-acute toxicity. | Phytomed Plus
+- new | 2022 | 34648902 | Comparative Study | Anti-nociceptive effects of ECa 233 a standardized extract of Centella asiatica (L.) Urban on chronic neuropathic orofacial pain in mice. | J Ethnopharmacol
+- new | 2022 | 36015135 |  | Toxicity Profiles of Kleeb Bua Daeng Formula, a Traditional Thai Medicine, and Its Protective Effects on Memory Impairment in Animals. | Pharmaceuticals (Basel)
+- new | 2022 | 36456663 | Research Support, Non-U.S. Gov't | Bioenhancing effects of piperine and curcumin on triterpenoid pharmacokinetics and neurodegenerative metabolomes from Centella asiatica extract in beagle dogs. | Sci Rep
+- new | 2022 | 35961595 |  | Synthesis, characterization, and evaluation of in vitro cytotoxicity and in vivo antitumor activity of asiatic acid-loaded poly lactic-co-glycolic acid nanoparticles: A strategy of | Life Sci
+- new | 2021 | 34463404 | Review | Ethnobotany, phytochemistry, pharmacology, and toxicity of Centella asiatica (L.) Urban: A comprehensive review. | Phytother Res
+- new | 2021 | 34315377 | Review | The Safety and Efficacy of Botanicals with Nootropic Effects. | Curr Neuropharmacol
+- new | 2021 | 33429032 |  | Pharmacodynamic and pharmacokinetic interactions of hydroalcoholic leaf extract of Centella asiatica with valproate and phenytoin in experimental models of epilepsy in rats. | J Ethnopharmacol
+- new | 2021 | 34560519 |  | Anticancer effects of asiatic acid against doxorubicin-resistant breast cancer cells via an AMPK-dependent pathway in vitro. | Phytomedicine
+- new | 2021 | 33868982 |  | Hepatoprotective effect of Centella asiatica 50% ethanol extract against acetaminophen-induced acute liver injury in BALB/c mice. | Toxicol Res
+- new | 2021 | 33462870 |  | Protective effects and possible mechanisms of Centella asiatica (L.) urban extract against acute and chronic liver injury: Evidence from in vivo and in vitro studies. | Phytother Res
+- new | 2021 | 34606995 |  | Molecular docking and simulation studies of phytocompounds derived from Centella asiatica and Andrographis paniculata against hexokinase II as mitocan agents. | Mitochondrion
+- new | 2021 | 33022343 |  | Ethanol extract of Centella asiatica alleviated dextran sulfate sodium-induced colitis: Restoration on mucosa barrier and gut microbiota homeostasis. | J Ethnopharmacol
+- new | 2020 | 32033291 |  | Inhibitory Effect of Centella asiatica Extract on DNCB-Induced Atopic Dermatitis in HaCaT Cells and BALB/c Mice. | Nutrients
+- new | 2020 | 33987471 |  | Protective Effect of Asiaticoside on Radiation-induced Proliferation Inhibition and DNA Damage of Fibroblasts and Mice Death. | Open Life Sci
+- new | 2020 | 31884466 | Research Support, Non-U.S. Gov't | Screening of Nutraceuticals and Plant Extracts for Inhibition of Amyloid-β Fibrillation. | J Alzheimers Dis
+- new | 2020 | 32945376 |  | Asiaticoside suppresses cell proliferation by inhibiting the NF‑κB signaling pathway in colorectal cancer. | Int J Mol Med
+- new | 2020 | 32581050 | Research Support, N.I.H., Extramural | Centella asiatica Water Extract Shows Low Potential for Cytochrome P450-Mediated Drug Interactions. | Drug Metab Dispos
+- new | 2020 | 32440114 |  | Preparation and in vitro and in vivo Study of Asiaticoside-Loaded Nanoemulsions and Nanoemulsions-Based Gels for Transdermal Delivery. | Int J Nanomedicine
+- HELD REF-2095 | 2019 | 31539918 | Review | Cardiovascular Protective Effects of Centella asiatica and Its Triterpenes: A Review. | Planta Med
+- new | 2019 | 30414087 | Review | Nootropic and Anti-Alzheimer's Actions of Medicinal Plants: Molecular Insight into Therapeutic Potential to Alleviate Alzheimer's Neuropathology. | Mol Neurobiol
+- new | 2019 | 30419543 |  | Optimization of Direct Blue-14 dye degradation by Bacillus fermus (Kx898362) an alkaliphilic plant endophyte and assessment of degraded metabolite toxicity. | J Hazard Mater
+- new | 2019 | 31172723 |  | Combination Effect of Titrated Extract of Centella asiatica and Astaxanthin in a Mouse Model of Phthalic Anhydride-Induced Atopic Dermatitis. | Allergy Asthma Immunol Res
+- new | 2019 | 31049083 |  | In Vivo Toxicity Study of Ethanolic Extracts of Evolvulus alsinoides & Centella asiatica in Swiss Albino Mice. | Open Access Maced J Med Sci
+- new | 2018 | 30233358 | Review | Pharmacological Properties, Molecular Mechanisms, and Pharmaceutical Development of Asiatic Acid: A Pentacyclic Triterpenoid of Therapeutic Promise. | Front Pharmacol
+- new | 2018 | 28930619 |  | Asiatic acid nullified aluminium toxicity in in vitro model of Alzheimer's disease. | Front Biosci (Elite Ed)
+- new | 2018 | 29436598 |  | Madecassoside activates anti‑neuroinflammatory mechanisms by inhibiting lipopolysaccharide‑induced microglial inflammation. | Int J Mol Med
+- new | 2018 | 29715757 |  | Madecassoside prevents acute liver failure in LPS/D-GalN-induced mice by inhibiting p38/NF-κB and activating Nrf2/HO-1 signaling. | Biomed Pharmacother
+- new | 2018 | 29747743 |  | Anti-inflammatory effect of Centella asiatica phytosome in a mouse model of phthalic anhydride-induced atopic dermatitis. | Phytomedicine
+- new | 2018 | 30076700 |  | Assessment of Toxicity and Absorption of the Novel AA Derivative AA-Pme in SGC7901 Cancer Cells In Vitro and in Zebrafish In Vivo. | Med Sci Monit
+- new | 2018 | 29623705 |  | Centella asiatica (Centellicum®) facilitates the regular healing of surgical scars in subjects at high risk of keloids. | Minerva Chir
+- new | 2018 | 29768255 | Retracted Publication | Asiatic Acid (AA) Sensitizes Multidrug-Resistant Human Lung Adenocarcinoma A549/DDP Cells to Cisplatin (DDP) via Downregulation of P-Glycoprotein (MDR1) and Its Targets. | Cell Physiol Biochem
+- new | 2018 | 30084792 |  | Anti-cancer activity of asiatic acid against human cholangiocarcinoma cells through inhibition of proliferation and induction of apoptosis. | Cell Mol Biol (Noisy-le-grand)
+- new | 2017 | 28891650 |  | Asiaticoside Mitigates the Allergic Inflammation by Abrogating the Degranulation of Mast Cells. | J Agric Food Chem
+- new | 2017 | 27030208 |  | Safety assessment of selected medicinal food plants used in Ayurveda through CYP450 enzyme inhibition study. | J Sci Food Agric
+- new | 2017 | 28566935 |  | Variations in Echogenicity in Carotid and Femoral Atherosclerotic Plaques with Pycnogenol + Centella Asiatica Supplementation. | Int J Angiol
+- new | 2017 | 28358324 |  | Anti-Inflammatory Effect of Titrated Extract of Centella asiatica in Phthalic Anhydride-Induced Allergic Dermatitis Animal Model. | Int J Mol Sci
+- new | 2017 | 27701138 |  | The ameliorating effect of Centella asiatica ethanolic extract on albino rats treated with isoniazid. | J Basic Clin Physiol Pharmacol
+- new | 2017 | 28004603 | Retracted Publication | Asiatic acid attenuates pre-neoplastic lesions, oxidative stress, biotransforming enzymes and histopathological alterations in 1,2-dimethylhydrazine-induced experimental rat colon  | Toxicol Mech Methods
+- new | 2016 | 27752495 |  | In vitro and In vivo Anti-Helicobacter pylori Activities of Centella asiatica Leaf Extract. | Prev Nutr Food Sci
+- new | 2016 | 27651261 |  | Indian Herbs for the Treatment of Neurodegenerative Disease. | Adv Neurobiol
+- new | 2016 | 27540765 |  | MAD ointment ameliorates Imiquimod-induced psoriasiform dermatitis by inhibiting the IL-23/IL-17 axis in mice. | Int Immunopharmacol
+- new | 2015 | 25461275 |  | Synthesis and evaluation of asiatic acid derivatives as anti-fibrotic agents: structure/activity studies. | Steroids
+- new | 2015 | 26658818 |  | Protective effects of madecassoside against Doxorubicin induced nephrotoxicity in vivo and in vitro. | Sci Rep
+- new | 2015 | 25878948 |  | A molecular docking study of phytochemical estrogen mimics from dietary herbal supplements. | In Silico Pharmacol
+- new | 2015 | 26862255 |  | Preclinical Safety Assessment of Standardized Extract of Centella asiatica (L.) Urban Leaves. | Toxicol Int
+- new | 2015 | 26669124 | Research Support, Non-U.S. Gov't/Review | Herbal Supplements and Hepatotoxicity: A Short Review. | Nat Prod Commun
+- new | 2015 | 26168711 |  | Protective effect of centella triterpene saponins against cyclophosphamide-induced immune and hepatic system dysfunction in rats: its possible mechanisms of action. | J Physiol Biochem
+- new | 2015 | 25684704 | Research Support, Non-U.S. Gov't | Investigation of CYP3A4 and CYP2D6 Interactions of Withania somnifera and Centella asiatica in Human Liver Microsomes. | Phytother Res
+- HELD REF-2087 | 2014 | 24399761 | Review | Centella asiatica in dermatology: an overview. | Phytother Res
+- new | 2014 | 24448790 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Caffeoylquinic acids in Centella asiatica protect against amyloid-β toxicity. | J Alzheimers Dis
+- new | 2013 | 22700248 | Research Support, Non-U.S. Gov't/Review | Scientific basis of botanical medicine as alternative remedies for rheumatoid arthritis. | Clin Rev Allergy Immunol
+- new | 2012 | 38718155 | Review | Centella asiatica. | 
+- new | 2012 | 21713498 | Research Support, Non-U.S. Gov't | Arsenic accumulation in native plants of West Bengal, India: prospects for phytoremediation but concerns with the use of medicinal plants. | Environ Monit Assess
+- new | 2012 | 21413047 | Research Support, Non-U.S. Gov't | Development and validation of high-performance liquid chromatography/electrospray ionization mass spectrometry for assay of madecassoside in rat plasma and its application to pharm | Biomed Chromatogr
+- new | 2010 | 20171071 | Research Support, Non-U.S. Gov't | Protective effects of Asiaticoside on acute liver injury induced by lipopolysaccharide/D-galactosamine in mice. | Phytomedicine
+- new | 2010 | 20589353 | Research Support, Non-U.S. Gov't | Antispermatogenic and antifertility effect of Pegaga (Centella asiatica L) on the testis of male Sprague-Dawley rats. | Clin Ter
+- new | 2010 | 20575361 |  | Use of asiatic pennywort Centella asiatica aqueous extract as a bath treatment to control columnaris in Nile tilapia. | J Aquat Anim Health
+- new | 2009 | 20606777 |  | Anti-allergic, anti-pruritic, and anti-inflammatory activities of Centella asiatica extracts. | Afr J Tradit Complement Altern Med
+- new | 2008 | 18318821 | Review | Hepatotoxic slimming aids and other herbal hepatotoxins. | J Gastroenterol Hepatol
+- new | 2007 | 17639556 | Research Support, Non-U.S. Gov't | Screening of Indian medicinal plants for acetylcholinesterase inhibitory activity. | Phytother Res
+- new | 2005 | 16445150 | Case Reports/Letter | Night eating syndrome and Gotu Kola. | Ir Med J
+- new | 2001 | 11417919 | Comparative Study | In vitro keratinocyte antiproliferant effect of Centella asiatica extract and triterpenoid saponins. | Phytomedicine
+- new | 1999 | 10443466 | Research Support, Non-U.S. Gov't | The effect of tetrandrine and extracts of Centella asiatica on acute radiation dermatitis in rats. | Biol Pharm Bull
+- new | 1996 | 8766746 | Case Reports | Allergic contact dermatitis due to Centella asiatica: a new case. | Allergol Immunopathol (Madr)
+- new | 1995 | 8706410 | Case Reports | Allergic contact dermatitis from butoxyethyl nicotinic acid and Centella asiatica extract. | Contact Dermatitis
+- new | 1992 | 1387057 | Case Reports | Allergic contact dermatitis from a cream containing Centella asiatica extract. | Contact Dermatitis
+- new | 1985 | 2936544 | Case Reports | Contact dermatitis due to madecassol. | Contact Dermatitis
+- new | 1976 | 812656 |  | Drug interaction between asiaticoside and some anti-inflammatory drugs in wound healing of the rat. | Curr Ther Res Clin Exp
+
+### PubMed OBS - 14 hits, 5 not already listed above, 5 new
+- new | 2026 | 42797423 |  | Effect of Topically Administered Natural Compounds on Cesarean Section Healing-A Retrospective Observational Study. | Pharmaceuticals (Basel)
+- new | 2026 | 43042085 |  | Efficacy, Tolerability, and Patient Satisfaction With a Repair Balm Containing Panthenol, Madecassoside, and a Prebiotic Complex: An Observational Study in 5 Middle Eastern Countri | J Clin Aesthet Dermatol
+- new | 2025 | 40299926 |  | Parasitic contamination in green vegetables from open markets in Gampaha District, Sri Lanka: Implications for human health. | PLoS One
+- new | 2025 | 39991528 |  | Prevalence of intestinal parasitic contamination in fresh vegetables in Bangkok, Thailand, and surrounding areas: A cross-sectional survey. | Parasite Epidemiol Control
+- new | 2022 | 34740536 |  | Prevalence and causes of meatal stenosis in circumcised boys. | J Pediatr Urol
+
+### PubMed REV - 138 hits, 17 not already listed above, 11 new
+- new | 2024 | 39458583 | Review | Topical Application of Centella asiatica in Wound Healing: Recent Insights into Mechanisms and Clinical Efficacy. | Pharmaceutics
+- new | 2024 | 38997637 | Review | Review of Malaysian medicinal plants with potential wound healing activity. | BMC Complement Med Ther
+- HELD REF-0457 | 2023 | 36756687 | Review/Research Support, Non-U.S. Gov't | Therapeutic properties and pharmacological activities of asiaticoside and madecassoside: A review. | J Cell Mol Med
+- HELD REF-2090 | 2023 | 36837896 | Review | Centella asiatica and Its Metabolite Asiatic Acid: Wound Healing Effects and Therapeutic Potential. | Metabolites
+- new | 2023 | 36826044 | Review | Advances in Molecular Regulation of Prostate Cancer Cells by Top Natural Products of Malaysia. | Curr Issues Mol Biol
+- new | 2023 | 36481800 | Review | Biotechnological and endophytic-mediated production of centellosides in Centella asiatica. | Appl Microbiol Biotechnol
+- new | 2021 | 33917843 | Review | Neuroprotective Herbs for the Management of Alzheimer's Disease. | Biomolecules
+- HELD REF-2089 | 2021 | 34845411 | Review | Pharmacological Effects of Centella asiatica on Skin Diseases: Evidence and Possible Mechanisms. | Evid Based Complement Alternat Med
+- new | 2021 | 34981485 | Review | Role of Herbal Medicines in the Management of Brain Injury. | Adv Exp Med Biol
+- HELD REF-0975 | 2020 | 32046246 | Review | New Herbal Biomedicines for the Topical Treatment of Dermatological Disorders. | Biomedicines
+- HELD REF-2094 | 2020 | 33013406 | Review | Therapeutic Potential of Centella asiatica and Its Triterpenes: A Review. | Front Pharmacol
+- new | 2020 | 33166265 | Review | A Literature Review of Pharmacological Agents to Improve Venous Leg Ulcer Healing. | Wounds
+- new | 2019 | 31206893 | Review | Medicinal plants in traumatic brain injury: Neuroprotective mechanisms revisited. | Biofactors
+- new | 2018 | 29861767 | Review | Ayurvedic Medicine for the Treatment of Dementia: Mechanistic Aspects. | Evid Based Complement Alternat Med
+- new | 2014 | 25164446 | Research Support, Non-U.S. Gov't/Review | Effectiveness of traditional Malaysian vegetables (ulam) in modulating blood glucose levels. | Asia Pac J Clin Nutr
+- HELD REF-2088 | 2013 | 24278045 | Review | Centella asiatica in cosmetology. | Postepy Dermatol Alergol
+- new | 2010 | 20175810 | Research Support, Non-U.S. Gov't/Review | Phytotherapeutics: an evaluation of the potential of 1000 plants. | J Clin Pharm Ther
+
+### ClinicalTrials.gov - 61 registered studies
+- NCT03815305 | UNKNOWN | results=False | PHASE4 | Effect of Centella Asiatica on Xerotic Skin in Diabetes Mellitus Type 2 | conds: Xerosis Cutis, Diabetes Mellitus, Type 2 | intr: Centella Asiatica Extract, Topical CA, Petroleum jelly
+- NCT04210336 | COMPLETED | results=False | NA | Clinical Trial to Evaluate Papilocare® Gel Efficacy Into Repairment of Cervical Lesions Caused by HPV | conds: HPV Infection, Lesion Cervix | intr: PAPILOCARE, LACTIC ACID GEL
+- NCT03937908 | TERMINATED | results=True | EARLY_PHASE1 | Pharmacokinetics Centella Asiatica Product (CAP) in Mild Cognitive Impairment | conds: Cognitive Impairment, Elderly | intr: 2g Centella asiatica water extract product, 4g Centella asiatica water extract product | pubs: ['35204098:RESULT (new)']
+- NCT05986123 | COMPLETED | results=False | NA | Safety and Efficacy of Topical Cream for Post-inflammatory Hyperpigmentation Skin Among Malaysians | conds: Healthy | intr: Topical cream Z for PIH
+- NCT06985121 | COMPLETED | results=False | NA | Scalp Care Efficacy Evaluation for Premium Scalp Revitalizing Essence | conds: Scalp Health, Hair Condition, Hair Loss, Sebum Production | intr: Placebo control, Base formula only, Base formula plus IGF-1 and FGF-7, Base formula plus Centella as
+- NCT02416245 | COMPLETED | results=False | NA | Impact of Beverage Powder With Micronutrients and Brahmi Extract on Cognitive Variables in Indian School Children | conds: Cognition | intr: Beverage powder fortified with micronutrients and Bacopa monnieri extract, Non fortified isocaloric 
+- NCT07274371 | ACTIVE_NOT_RECRUITING | results=False | NA | A Study Comparing the Effects of Two Types of Natural Oils Used in a Bedtime Foot Massage Routine on Sleep and Emotional Well-Being in Perim | conds: Sleep Disturbances in Perimenopause | intr: Brahmi-Gotukola oil padabhyanga, Sesame oil Padabhyanga
+- NCT05338463 | COMPLETED | results=False | PHASE4 | Fespixon Cream for the Treatment of Chronic Diabetic Foot Ulcers (TEXAS 1A, 2A) in Dialysis Patients | conds: Chronic Diabetic Foot Ulcer | intr: Fespixon Cream
+- NCT00608439 | COMPLETED | results=False | PHASE2 | Centella Asiatica Selected Triterpenes (CAST) for Diabetic Neuropathy | conds: Diabetic Neuropathy | intr: Centella asiatica selected triterpenes (CAST), Placebo
+- NCT02462642 | COMPLETED | results=False | NA | Effect of Bacopa Monniera Extract on Cognition and Anxiety and Exploration of PK Properties | conds: Cognition, Anxiety, Pharmacokinetics | intr: Brahmi, Placebo, Brahmi, Placebo
+- NCT05984641 | COMPLETED | results=False | NA | Efficacy and Safety of CONAN® Proctological Cream for Treatment of Haemorrhoidal Disease | conds: Hemorrhoid Pain, Haemorrhoid Inflammation | intr: CONAN® Proctological Cream
+- NCT03569930 | UNKNOWN | results=False | PHASE4 | Irritation and Anal Bleeding in Patients Affected by Hemorrhoids. | conds: Hemorrhoids | intr: flavonoid-based supplements, Centella Complex, standard of care
+- NCT06850935 | COMPLETED | results=False | NA | Evaluation of Effects on Skin Quality of a Centella Asiatica Extracellular Vesicle-based Skin Care Formulation. | conds: Skin Quality, Skin Wrinkles, Melanin Hyperpigmentation, Skin Hydration | intr: Centella asiatica extracellular vesicle formulation
+- NCT04669119 | UNKNOWN | results=False | PHASE4 | Effects of Bromelain and Boswellia Serrata Casperome With Centella Asiatica and Vitamins on Edema, Paresthesia and Postoperative Pain After  | conds: Breast Cancer Female, Pain, Postoperative | intr: Bromelain/Boswellia Serrata Casperome, Centella Asiatica/Vitamins, Placebo | pubs: ['39929877:DERIVED (new)']
+- NCT03929250 | COMPLETED | results=True | EARLY_PHASE1 | Pharmacokinetics of Centella Asiatica in the Elderly | conds: Healthy, Elderly | intr: 2g Centella asiatica water extract product, 4g Centella asiatica water extract product
+- NCT06531512 | ACTIVE_NOT_RECRUITING | results=False | PHASE2,PHASE3 | Evaluate the Efficacy and Safety of Xianglei Tangzu Gao for the Treatment of Wagner Grade II Diabetic Foot Ulcers | conds: Diabetic Foot Ulcer | intr: Xianglei Tangzu Gao, Vehicle Cream
+- NCT05504668 | COMPLETED | results=False | NA | The Cognitive Effects of 'Brainwaves' Supplementation in Cognitively Intact Older Adults | conds: Cognitive Change, Mood Change, Microbial Colonization | intr: Turmeric Brainwave | pubs: ['37885445:DERIVED (new)']
+- NCT07697209 | COMPLETED | results=False | NA | Adjunctive Antioxidant Effect of Centella Asiatica Nanoemulsion Gel in Management of Periodontitis | conds: Periodontal Diseases, Periodontal Bone Loss | intr: Centella asiatica nanoemulsion gel, Scaling and Root Planing (SRP)
+- NCT01414374 | COMPLETED | results=False | PHASE3 | Hibiscus Sabdariffa and Centella Asiatica in the Treatment of Anemia by Iron Deficiency | conds: Iron Deficiency Anemia | intr: Herbal medicine, Iron
+- NCT03482063 | COMPLETED | results=False | PHASE2 | The Effects of 12 Weeks Supplementation With a B-vitamin and Herbal Supplement on Neurocognitive Function and Mood | conds: Neurocognitive Function, Mood | intr: Swisse Ultiboost Memory + Focus, Placebo
+- NCT02616042 | COMPLETED | results=False | PHASE3 | The Effect of New Dentifrices Containing Centella Asiatica and Bamboo Salt on Reducing Plaque and Gingivitis | conds: Labor Trial Refused | intr: Centella asiatica and bamboo salt, Centella asiatica
+- NCT05019066 | WITHDRAWN | results=False | NA | Oral Herbal Combination Formulation and Hair Growth in Women | conds: Hair Loss, Hair Thinning | intr: Herbal Supplementation
+- NCT07901426 | ACTIVE_NOT_RECRUITING | results=False | NA | Evaluation of the Scalp Skin Care Effects of Premium Revitalizing Elixir and Topical 5% Minoxidil | conds: Scalp Health, Alopecia, Hair Condition, Hair Loss | intr: Base formula only, Base formula plus Centella asiatica extracellular vesicles, IGF-1 & FGF-7, Base f
+- NCT06566508 | UNKNOWN | results=False | PHASE2,PHASE3 | Effectiveness of Asiaticoside as Intracanal Medication on Infectious/Inflammatory Contents in Teeth With Apical Periodontitis | conds: Intracanal Medication | intr: Calcium Hydroxide Intracanal medication, Leddermix Intracanal medication, Asiaticoside Intracanal me
+- NCT05591027 | RECRUITING | results=False | PHASE1 | Safety and Target Engagement of Centella Asiatica in Cognitive Impairment | conds: Mild Cognitive Impairment, Alzheimer's Disease | intr: Centella asiatica product, Placebo
+- NCT02601105 | COMPLETED | results=True | NA | Topical Centella Asiatica and the Cosmetic Appearance of Stretch Marks | conds: Stretch Marks, Striae Distensae, Cosmetic Appearance of Stretch Marks | intr: Placebo Vehicle Cream, Centella Asiatica Cream | pubs: ['25201840:RESULT (new)', '22374035:RESULT (new)', '23237514:RESULT (new)']
+- NCT03355846 | COMPLETED | results=False | PHASE4 | Pain and Bleeding in Subjects With Acute Anal Fissure: Comparative Evaluation of Three Treatments | conds: Acute Anal Fissure | intr: Centella, Proctocella, Flavonil® cps, Flavonil® Cream | pubs: ['29844250:RESULT (new)']
+- NCT05271708 | COMPLETED | results=False | PHASE4 | Explore the Short- and Mid-term Effects of Fespixon in Scar Cosmesis Following Cervical or Abdominal Surgery | conds: Scar | intr: Fespixon cream, Placebo Cream
+- NCT04872946 | COMPLETED | results=False | NA | Topical and Oral Regimen for Skin Health | conds: Skin Abnormalities | intr: Tea, Serum, Moisturizer
+- NCT07271212 | COMPLETED | results=False | NA | Scalp Care Efficacy Evaluation for Premium Revitalizing Elixir | conds: Scalp Health, Hair Condition, Hair Loss, Alopecia | intr: Placebo control, Base formula only, Base formula plus IGF-1 and FGF-7, Base formula plus Centella as
+- NCT05017467 | COMPLETED | results=False | EARLY_PHASE1 | The Effect of Centella Asiatica Cream on Scar Tenderness Who Underwent Open Carpal Tunnel Release Surgery | conds: To Prevent Scar Formation for Patients Underwent Surgery | intr: undefinedCentella Asiatica Extract
+- NCT06472791 | COMPLETED | results=False | NA | Centella Asiatica in Older Adults | conds: Endothelial Dysfunction | intr: Centella Asiatica, Placebo Comparator
+- NCT06231212 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy of a Standardized Centella Asiatica Extract in Patients With Temporomandibular Disorder | conds: Temporomandibular Disorder | intr: ECa 233, Ibuprofen, Placebo | pubs: ['40253389:DERIVED (new)']
+- NCT04886882 | UNKNOWN | results=False | EARLY_PHASE1 | Topical Agents Containing Magnesium Sulfate & Wound Healing in the Rat Model | conds: Wound Heal | intr: placebo comparator, sham comparator, Experimental drug 1, Experimental drug 2
+- NCT05438251 | TERMINATED | results=False | PHASE4 | Exploring the Effect of Fespixon Cream for the Treatment of Diabetic Foot Ulcers (TEXAS 3A, 3B) | conds: Diabetic Foot Ulcer (DFU) | intr: Fespixon Cream
+- NCT04945161 | COMPLETED | results=False | NA | A Randomized,Double-blind,Placebo-controlled Clinical Study to Explore the Mechanism of Action of ON101 Cream in Patients With DFUs. | conds: Diabetic Foot Ulcers | intr: ON101 Cream, Placebo
+- NCT07959991 | COMPLETED | results=False | NA | Ayurvedic Lifestyle Program Compared With a Diabetes Prevention Program for Adults With Prediabetes | conds: Prediabetic State, Prediabetes | intr: Ayurvedic Program (diet, yoga, lifestyle), Medicated ghee, Virechana (therapeutic purgation), Nation
+- NCT05317442 | TERMINATED | results=False | PHASE4 | Open-label Study to Evaluate the Efficacy and Safety of Fespixon Cream for the Treatment of Pressure Injury in Sacrum and Greater Trochanter | conds: Pressure Injury Stage 2 | intr: Fespixon Cream
+- NCT07669662 | NOT_YET_RECRUITING | results=False | PHASE3 | Nimsai Herbal for Grade 2-3 Hemorrhoids: A Quadruple-Blind Placebo-Controlled Mechanistic Trial | conds: Hemorrhoid, Hemorrhoidal Disease | intr: Nimsai Herbal, Placebo
+- NCT00991367 | COMPLETED | results=False | PHASE3 | CICATRIX in the Treatment of Recent Post-surgical Scars | conds: Post-surgical Scars | intr: Cicatrix, Placebo
+- NCT03047798 | COMPLETED | results=False | PHASE3 | The Effect of Mouthrinses Containing Bamboo Salt, Magnolia Bark and Centella Asiatica on Reducing Plaque and Gingivitis | conds: Gingivitis, Dental Plaque | intr: Mouthrinse
+- NCT03065504 | COMPLETED | results=False | NA | Turmeric and Turmeric-containing Tablets and Sebum Production | conds: Skin Inflammation | intr: Turmeric, Turmeric-containing combination tablet, Placebo tablets | pubs: ['30527287:DERIVED (new)']
+- NCT02313545 | COMPLETED | results=False | PHASE1,PHASE2 | Phase I-B Study to Evaluate the Safety, Tolerability and Efficacy of IZN-6NVS for the Treatment of AV and DIV | conds: Atrophic Vaginitis | intr: IZN-6NVS Cream
+- NCT05528094 | COMPLETED | results=False | NA | An Exploratory Investigation of a Supplement to Support Student Learning | conds: Concentration Ability Impaired, Mental Fatigue | intr: GeniusDrops
+- NCT04149639 | COMPLETED | results=False | NA | A Study Investigating the Effectiveness of a LifeSeasons NeuroQ Supplement With Lifestyle Changes to Improve Cognitive Function in Healthy A | conds: Healthy | intr: NeuroQ
+- NCT00993005 | COMPLETED | results=False | PHASE3 | CICATRIX in the Treatment of Hypertrophic Scars and Keloids Scars | conds: Hypertrophic Scars, Keloids | intr: Cicatrix, Placebo
+- NCT05322525 | TERMINATED | results=False | PHASE4 | A Research Study to Evaluate the Safety and Potential Efficacy of ON101 Cream for the Treatment of Venous Leg Ulcers. | conds: Venous Leg Ulcers (VLU) | intr: ON101 Cream
+- NCT02922244 | COMPLETED | results=False | NA | Effects of Herbal Products on Reduction of Radiation-induced Dermatitis in Breast Cancer Patients | conds: Radiodermatitis, Breast Neoplasms, Adverse Effect of Radiation Therapy | intr: Control, Cucumber cream, Centella cream, Thunbergia cream | pubs: ['10443466:RESULT (new)', '21694984:RESULT (new)', '20118623:RESULT (new)', '25525844:RESULT (new)', '16893745:RESULT (new)', '14566480:RESULT (new)', '21153830:RESULT (new)', '23825733:RESULT (new)']
+- NCT02827305 | COMPLETED | results=False | PHASE1 | Centella Asiatica (Gotukola) Mouthwash as an Adjunct to Mechanical Plaque Control | conds: Gingival Diseases | intr: Gotukola, Scaling
+- NCT06763367 | NOT_YET_RECRUITING | results=False | NA | Clinical Evaluation and Study of the Efficacy of a Centella Asiatica-Infused Facial Mask on Discosmetic Dermatosis | conds: Rosacea, Acne, Centella, Melasma | intr: Face mask containing Centella sinensis
+- NCT04962139 | TERMINATED | results=False | PHASE3 | Evaluate the Safety and Efficacy of ON101 Cream for the Treatment of Chronic Diabetic Foot Ulcers | conds: Chronic Diabetic Foot Ulcers | intr: ON101 Cream, Vehicle Cream
+- NCT03842514 | COMPLETED | results=False | NA | Food Additives - Do Processed Diets Impact on Gut and Metabolic Health | conds: Gut Health, Metabolic Health | intr: Soya lecithin
+- NCT02350595 | COMPLETED | results=False | NA | A Study on the Possible Health Effects of Lean Fish and Fatty Fish Intake in Overweight or Obese Adults | conds: Overweight, Obesity | intr: Lean fish, Fatty fish | pubs: ['28606215:RESULT (new)', '33576844:RESULT (new)', '33108521:RESULT (new)', '31760958:RESULT (new)', '31401679:RESULT (new)', '36631895:DERIVED (new)']
+- NCT01768429 | COMPLETED | results=False | NA | The Effect of n-3 Fatty Acids and Fish on Glucose and Lipid Metabolism in Subjects With Impaired Glucose Metabolism | conds: Hyperglycemia | intr: Fatty fish, Lean Fish, Alpha-linolenic acid, Control | pubs: ['32512364:DERIVED (new)', '30658192:DERIVED (new)', '30454883:DERIVED (new)', '29645359:DERIVED (new)']
+- NCT02130908 | COMPLETED | results=False | NA | A Study on the Possible Health Effects of Lean Fish, Fatty Fish and Lean Meat Intake in Non-obese Adults | conds: Metabolic Disorders, Obesity | intr: Lean fish, Fatty fish, Lean meat
+- NCT07802340 | RECRUITING | results=False | NA | Efficiency of Asiaticoside as Intracanal Medication in Revascularization Process | conds: Immature Permanent Teeth With Open Apex, Pulp Necrosis | intr: Intracanal medication
+- NCT07241533 | RECRUITING | results=False | NA | Asiaticoside for Treating Overweight/Obesity | conds: Overweight , Obesity | intr: Asiaticoside tablets
+- NCT07606703 | RECRUITING | results=False | PHASE2 | A Prospective Study of Madecassoside Tablets in Sclerotic Chronic Graft-versus-Host Disease After Allo-HSCT | conds: Chronic Graft-Versus-Host Disease, Graft vs Host Disease | intr: Madecassoside Tablets, Standard Therapy
+- NCT07896993 | COMPLETED | results=False | NA | Mask Instant Clinical Study | conds: Skin Barrier Function, Skin Soothing Effect | intr: Test soothing facial mask
+- NCT05937529 | COMPLETED | results=False | NA | Impact of Madecassoside and 5 % Panthenol Cream in Post Photodynamic Therapy for Actinic Keratosis | conds: Actinic Keratoses | intr: Cream containing madecassoside and 5 % panthenol, Daylight PDT
+- NCT06059274 | COMPLETED | results=False | NA | Anti-aging Repairing Serum: Efficacy and Tolerability Study | conds: Anti-aging | intr: Topical serum
+
+### OpenAlex no-PMID trial-worded - 4154 hits, 27 without PMID, 27 new
+- new | 2026 | 10.56808/3027-7922.3386 | article | Efficacy of a mouthwash containing standardized Centella asiatica extract (ECa 233) in patients with gingivitis: A randomized double-blind placebo-controlled trial | The Thai Journal of Pharmaceutical Scien
+- new | 2026 | 10.37766/inplasy2026.10.0133 | study-registration | Topical Centella asiatica–Containing Formulations for Postlaser Skin Recovery: A Systematic Review of Randomized Controlled Trials | 
+- new | 2026 | 10.1186/s12906-026-05640-8 | article | Effect of Centella asiatica extract mouthwash on oral wound healing following mandibular third molar surgery: Randomized controlled trial | BMC Complementary Medicine and Therapies
+- new | 2026 | 10.18203/issn.2455-4529.intjresdermatol20264230 | article | Anti-ageing ability of a Centella asiatica callus exosomes-based face serum in healthy human volunteers with mild to moderate wrinkles and fine lines: a monocentric clinical trial | International Journal of Research in Der
+- new | 2026 | 10.64898/2026.09.07.26362401 | preprint | A Dual-Species Plant-derived Extracellular Vesicle and Growth Factors Formulation for Hair and Scalp Care: A Randomized, Placebo-controlled Study | medRxiv
+- new | 2026 | 10.3390/cosmetics13010041 | erratum | Correction: Chang et al. Centella asiatica L. Urb. Extracellular Vesicle and Growth Factor Essence for Hair and Scalp Health: A 56-Day Exploratory Randomized Trial. Cosmetics 2025, | Cosmetics
+- new | 2026 | 10.52711/0974-360x.2026.00246 | article | Efficacy of "Restore Your Peace" Candyceutical on Stress Relief and Mental Well-being: A Human Volunteer Study | Research Journal of Pharmacy and Technol
+- new | 2025 | 10.3390/cosmetics12060253 | article | Centella asiatica L. Urb. Extracellular Vesicle and Growth Factor Essence for Hair and Scalp Health: A 56-Day Exploratory Randomized Trial | Cosmetics
+- new | 2025 | 10.1007/s00403-025-04209-8 | article | Effect of Centella asiatica on IL-10 levels in the stratum corneum and clinical correlation (SRRC and SCap) of Type 2 diabetes mellitus patients with dry skin: a randomized control | Archives of Dermatological Research
+- new | 2025 | 10.5530/pj.2024.16.202 | article | A Double-blind, Randomized Controlled Study of Triterpenoids based Standardized Gotu Kola Leaves Extract in the Patients with Tension Type Headache | Pharmacognosy Journal
+- new | 2024 | 10.4103/ijnpnd.ijnpnd_53_23 | article | Comparative Evaluation of Efficacy of Chlorhexidine with Centella asiatica in the Management of Stage 2 Grade B Periodontitis in Type 2 Diabetes Mellitus Patients − A Randomised Co | International journal of Nutrition Pharm
+- new | 2023 | 10.53555/jrtdd.v6i7s.2711 | article | Study Of Medicinal Plant-Based Anti-Stress Herbal Tea On Prediabetic Women: Randomized Controlled Trial | Journal for ReAttach Therapy and Develop
+- new | 2023 | 10.3390/cosmetics10010016 | article | Skin Anti-Aging Efficacy of a Four-Botanical Blend Dietary Ingredient: A Randomized, Double Blind, Clinical Study | Cosmetics
+- new | 2022 | 10.1016/j.jksus.2022.102479 | article | Evaluating the efficacy of Centella asiatica on enhancement of oral health status in hyperglycemic patients - A randomized clinical trial | Journal of King Saud University - Scienc
+- new | 2022 | https://openalex.org/W7220535264 | review | A Systematic Review of Randomized Controlled Trial on Efficacy of Centella asiatica for Wound Healing | Journal of Health Science and Alternativ
+- new | 2021 | 10.3390/app112311498 | article | A Randomized, Double-Blind, Placebo-Controlled Parallel Study on the Efficacy and Safety of Centella asiatica L. Extract for Reducing Alanine Transaminase (ALT) Level in Subjects w | Applied Sciences
+- new | 2021 | 10.4236/jcdsa.2021.113019 | article | Tomato Seed Extract Containing Lycoperoside H Improves Skin Elasticity in Japanese Female Subjects: A Randomized, Placebo-Controlled, Double-Blind Trial | Journal of Cosmetics Dermatological Scie
+- new | 2020 | 10.1016/j.jaad.2020.06.726 | article | The standardized extract of Centella asiatica, ECa 233, enhances post-laser resurfacing wound healing on the face: A split-face, double-blind, randomized, placebo-controlled trial | Journal of the American Academy of Derma
+- new | 2020 | 10.58837/chula.the.2020.384 | dissertation | Pharmacokinetic and metabolomic studies of standardized extract of centella asiatica (ECa 233) capsule in Thai healthy volunteers | Chula Digiverse
+- new | 2018 | 10.18488/journal.83.2018.21.1.12 | article | Hawaii Dementia Prevention Trial: A Randomized Trial Evaluating a Multifaceted Nutritional Intervention to Slow Cognitive Decline in Mild Cognitive Impairment Patients | Journal of Brain Sciences
+- new | 2018 | 10.5530/jyp.2018.10.76 | article | Clinical Trial of Nanoencapsulated Centella asiatica and Zingiber officinale to Improve Cellulite and Subcutaneous Adipolysis | Journal of Young Pharmacists
+- new | 2018 | https://openalex.org/W3034121022 | article | Random Amplified Polymorphic DNA Analysis of CentellaAsiatica and Two Species of Hedyotis | 
+- new | 2017 | https://openalex.org/W7220095606 | article | A Short-term Safety Assessment of Herbal Medicine Combination Intended for External Application: A Randomized Cross-over Controlled Trial in Healthy Volunteer | EAU Heritage Journal Science and Technol
+- new | 2016 | https://openalex.org/W3161992785 | dissertation | The effect of new dentifrices containing Centella asiatica and Bamboo salt on reducing plaque and gingivitis - a randomized clinical trial - | Seoul National University Open Repositor
+- new | 2016 | 10.1016/j.sajb.2016.10.022 | article | In vitro and In vivo wound healing studies of methanolic fraction of Centella asiatica extract | South African Journal of Botany
+- new | 1999 | https://openalex.org/W95552262 | article | Hydroalcoholic extract of Centella Asiatica: Anorexiant or Placebo? | Revista de ciencias farmaceuticas
+- new | 1967 | https://openalex.org/W2402227516 | article | Use of the industrial residue of Centella asiatica in animal feeding: trial with pigs. | 
+
+## chamerion-angustifolium (Chamerion angustifolium) - name clause: "Chamerion angustifolium"[tiab] OR "Epilobium angustifolium"[tiab] OR "fireweed"[tiab] OR "rosebay willowherb"[tiab] OR "Ivan chai"[tiab] OR "Ivan-chai"[tiab] OR "oenothein B"[ti]
+
+### PubMed HT - 4 hits, 4 not already listed above, 2 new
+- SEEN | 2026 | 42244389 | Randomized Controlled Trial/Comparative Study | A randomized controlled trial comparing alpha-blocker (tamsulosin) and a phyto-complex (Solidago virga-aurea, Phyllantus niruri, Epilobium angustifolium, Peumus boldus and Ononis s | Urologia
+- new | 2026 | 41108554 |  | Eucalyptus Leaf Extract With Oenothein B Reduces Sugar-Induced Hepatic and Visceral Fat in Adult Japanese Men: A Randomized Study. | Hepatol Res
+- new | 2026 | 42680212 | Clinical Trial/Multicenter Study | Protective Effects Induced by a Novel Food Supplement Based on Epilobium angustifolium , Ptychopetalum olacoides , Ginkgo biloba , and Equisetum arvense Extracts and Citrulline in  | Phytother Res
+- HELD REF-1659 | 2021 | 33765581 | Randomized Controlled Trial | Epilobium angustifolium L. extract with high content in oenothein B on benign prostatic hyperplasia: A monocentric, randomized, double-blind, placebo-controlled clinical trial. | Biomed Pharmacother
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 16 hits, 15 not already listed above, 15 new
+- new | 2026 | 41754167 |  | A Multi-Target Phytotherapeutic Approach to Benign Prostatic Hyperplasia: Preclinical Characterization of a PhytoBPH-Mix. | Nutrients
+- new | 2025 | 40699843 |  | Ulceroprotective Effects of Epilobium angustifolium Extract in DSS-Induced Colitis in Mice. | Curr Issues Mol Biol
+- new | 2024 | 38451251 | Published Erratum | Corrigendum: Phytochemical Analysis and Evaluation of Genotoxic, Antigenotoxic Effects in Bacterial Models, and Hypoglycemic Activity of Epilobium angustifolium L. with Bioguided I | Chem Biodivers
+- new | 2024 | 38266440 |  | Uncovering the colorectal cancer immunotherapeutic potential: Evening primrose (Oenothera biennis) root extract and its active compound oenothein B targeting the PD-1/PD-L1 blockad | Phytomedicine
+- new | 2024 | 39198706 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Polymodal K(+) channel modulation contributes to dual analgesic and anti-inflammatory actions of traditional botanical medicines. | Commun Biol
+- new | 2023 | 37997279 |  | Phytochemical Analysis and Evaluation of Genotoxic, Antigenotoxic Effects in Bacterial Models, and Hypoglycemic Activity of Epilobium angustifolium L. with Bioguided Isolation of A | Chem Biodivers
+- new | 2023 | 37728073 |  | Chemopreventive effect and induction of DNA repair by oenothein B ellagitannin isolated from leaves of Eugenia uniflora in Swiss Webster treated mice. | J Toxicol Environ Health A
+- new | 2020 | 32896677 |  | Metabolic profiling, in vitro bioaccessibility and in vivo bioavailability of a commercial bioactive Epilobium angustifolium L. extract. | Biomed Pharmacother
+- new | 2019 | 30452899 |  | Oenothein B inhibits human non-small cell lung cancer A549 cell proliferation by ROS-mediated PI3K/Akt/NF-κB signaling pathway. | Chem Biol Interact
+- new | 2017 | 28424880 |  | Herbicide Toxicity Testing with Non-Target Boreal Plants: The Sensitivity of Achillea millefolium L. and Chamerion angustifolium L. to Triclopyr and Imazapyr. | Environ Manage
+- new | 2014 | 24834705 |  | Effect of Epilobium angustifolium and Serenoa repens extracts on regulation of non-genomic signaling pathway of kinases. | Ginekol Pol
+- new | 2014 | 25898727 |  | [Isolation of pomolic acid from Chamaenerion angustifolium and evaluation of its genotoxicity by microbiological tests]. | Bioorg Khim [rus]
+- new | 2014 | 24751336 | Research Support, Non-U.S. Gov't | Genotoxicity and cytotoxicity evaluation of oenothein B and its protective effect against mitomycin C-induced mutagenic action. | Mutat Res Genet Toxicol Environ Mutagen
+- new | 2010 | 20873122 |  | [Influence of standardized extract of Epilobium angustifolium on estrogen receptor alpha and beta expression in in vivo model]. | Ginekol Pol [pol]
+- new | 1981 | 7236139 | Research Support, Non-U.S. Gov't | Senecio lautus toxicity in cattle. | Aust Vet J
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 9 hits, 9 not already listed above, 6 new
+- new | 2025 | 41656465 | Review | Antiviral Activity of Plant-Based Preparations against SARS-CoV-2 and Herpes Simplex Virus Type 2 In Vitro: A Review of Experimental Findings. | Bull Exp Biol Med
+- new | 2023 | 37895122 | Review | Plant Extracts as Skin Care and Therapeutic Agents. | Int J Mol Sci
+- HELD REF-1665 | 2023 | 37895890 | Review | Antibacterial and Antimycotic Activity of Epilobium angustifolium L. Extracts: A Review. | Pharmaceuticals (Basel)
+- HELD REF-1667 | 2022 | 35684473 | Review | Epilobium angustifolium L. as a Potential Herbal Component of Topical Products for Skin Care and Treatment-A Review. | Molecules
+- new | 2021 | 35009110 | Review | Review of the Biology, Distribution, and Management of the Invasive Fireweed (Senecio madagascariensis Poir). | Plants (Basel)
+- new | 2018 | 29498647 | Review | Chemical and Biological Significance of Oenothein B and Related Ellagitannin Oligomers with Macrocyclic Structure. | Molecules
+- HELD REF-2301 | 2016 | 27215200 | Review | Therapeutic Potential of Polyphenols from Epilobium Angustifolium (Fireweed). | Phytother Res
+- new | 2016 | 27394389 | Review | Possible similarities between the folk medicine historically used by First Nations and American Indians in North America and the ethnoveterinary knowledge currently used in British | J Ethnopharmacol
+- new | 2004 | 33873724 | Review | Reproductive isolation between autotetraploids and their diploid progenitors in fireweed, Chamerion angustifolium (Onagraceae). | New Phytol
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 137 hits, 68 without PMID, 68 new
+- new | 2026 | https://openalex.org/W7225440053 | article | Антиоксидантные свойства иван-чая узколистного | chemistry of plant raw material
+- new | 2026 | 10.14258/jcprm.20260216334 | article | ANTIOXIDANT PROPERTIES OF CHAMAENERION ANGUSTIFOLIUM (L.) | chemistry of plant raw material
+- new | 2026 | 10.3390/biology15222064 | article | Oenothein B: Chemistry, Natural Occurrence, Pharmacology, Metabolism and Therapeutic Prospects of a Macrocyclic Ellagitannin | Biology
+- new | 2026 | 10.20473/joas.v11i1.76604 | article | Effect of Fireweed (Crassocephalum crepidioides) Leaf as an Additional Diet on the Growth of Climbing Perch (Anabas testudineus) | Journal of Aquaculture Science
+- new | 2026 | 10.7939/84514 | dissertation | Sheep vegetation management in regenerating forests: Impacts of grazing on competing vegetation and conifer seedlings in the lower foothills region of Alberta | ERA: Education and Research Archive (Uni
+- new | 2026 | 10.6073/pasta/29d0694f6cfb90da3224953dc82a1d3d | dataset | Species interactions during succession in the western Cascade Range of Oregon, 1990 to present | Environmental Data Initiative
+- new | 2026 | 10.30904/j.jpbmal.2026.4932 | article | Development and Evaluation of Topical herbal Formulation for anti Inflammatory Activity | Journal of Pharmaceutical and Biomedical
+- new | 2026 | 10.1111/1365-2435.70496 | article | What's the buzz around polyploids? Plant–pollinator interactions among sympatric cytotypes in an African grassland bulb | Functional Ecology
+- new | 2025 | 10.4236/fns.2025.1610090 | article | Evaluation of the Effects of Food Containing Epilobium angustifolium Extract on Quality of Life Related to Nocturia Urination Using the N-QOL Questionnaire: A Randomized, Double-Bl | Food and Nutrition Sciences
+- new | 2025 | 10.1139/cjfr-2025-0055 | article | Co-planting vascular and nonvascular boreal species to promote belowground biomass on mine-impacted substrates | Canadian Journal of Forest Research
+- new | 2025 | 10.33394/bioscientist.v13i4.19337 | article | Analisis Mutu Kimia dan Organoleptik Tepache Kulit Nanas (Ananas Comosus L. Merr.) dan Teh Kulit Kopi (Coffea Arabica L.) | Bioscientist Jurnal Ilmiah Biologi
+- new | 2024 | 10.3892/ijfn.2024.42 | article | Efficacy of Prunus africana, Urtica dioica and Epilobium angustifolium in patients with benign prostatic hyperplasia | International Journal of Functional Nutr
+- new | 2024 | 10.1080/09583157.2024.2418638 | article | Biology and host specificity of the stem-boring weevil Gasteroclisus tricostalis, a candidate agent for the biological control of fireweed (Senecio madagascariensis) in Australia | Biocontrol Science and Technology
+- new | 2024 | https://openalex.org/W7135310895 | dissertation | Biology and ecology of stem-boring insects associated with the invasive weed Senecio madagascariensis (Asteraceae) and related species in their native range in KwaZulu-Natal, South | ResearchSpace (University of KwaZulu-Nat
+- new | 2024 | 10.34660/inf.2022.22.67.246 | conference-paper | ACTIVATION OF DONOR LYMPHOCYTE SUBPOPULATIONS WITH IGG-CLASS AUTOANTIBODIES TO ELASTIN IN PATIENTS WITH ATOPIC DERMATITIS | Scientific Research of the SCO Countries
+- new | 2023 | 10.55355/snv2023121105 | article | Vegetation restoration after a fire on the territory of the Barguzin Nature Reserve | Samara Journal of Science
+- new | 2022 | 10.18137/cardiometry.2022.24.conf.32 | article | PERSONALIZED APPROACH TO ADJUVANT CHEMOTHERAPY IN PATIENTS WITH NON-SMALL CELL LUNG CANCER | Cardiometry
+- new | 2022 | 10.18137/cardiometry.2022.24.conf.39 | article | A NEW MUTATION IN THE PALB2 GENE ASSOCIATED WITH HEREDITARY BREAST CANCER IN A YOUNG PATIENT BELONGING TO THE YAKUT ETHNIC GROUP | Cardiometry
+- new | 2022 | 10.18137/cardiometry.2022.24.conf.29 | article | XENON-OXYGEN THERAPY AS A FACTOR OF NORMALIZATION OF ADAPTIVE AND PSYCHO-EMOTIONAL STATUS IN PATIENTS DIAGNOSED WITH CERVICAL CANCER AT THE SURGICAL STAGE OF ANTITUMOR TREATMENT | Cardiometry
+- new | 2022 | 10.37099/mtu.dc.etdr/1435 | dissertation | Forested Wetland Mitigation: Developing Techniques to Restore Northern White-Cedar on Clay Settling Areas in Northern Michigan | Digital Commons - Michigan Tech (Michiga
+- new | 2022 | 10.18137/cardiometry.2022.24.conf.13 | article | STUDY OF THE ANTITUMOR ACTIVITY OF THE LIPOSOMAL FORM OF THE GLYCOLYSIS INHIBITOR IODOACETATE IN THE LEWIS LUNG CARCINOMA MODEL | Cardiometry
+- new | 2022 | 10.18137/cardiometry.2022.24.conf.4 | article | PDX MODEL OF BC IN THE STUDY OF PLASTICITY OF TUMOR CELLS IN THE PROCESS OF METASTASIZING | Cardiometry
+- new | 2022 | 10.18137/cardiometry.2022.24.conf.28 | article | PECULIARITIES OF INFLUENCE MADE BY DIABETES MELLITUS AS COMORBID PATHOLOGY ON THE SYSTEM OF SEX HORMONES AND THEIR RECEPTORS IN TUMORS OF DIFFERENT HISTOLOGICAL ORIGIN | Cardiometry
+- new | 2022 | 10.18137/cardiometry.2022.24.conf.31 | article | GENOME-WIDE ANALYSIS OF TRIPLE-NEGATIVE PHENOTYPE BREAST TUMORS | Cardiometry
+- new | 2020 | 10.2478/hepo-2020-0001 | article | Pharmacological properties of fireweed (Epilobium angustifolium L.) and bioavailability of ellagitannins. A review | Herba Polonica
+- new | 2019 | 10.6001/zemesukiomokslai.v26i3.4110 | article | The content of phenolic acids in the different duration fermented leaves of fireweed (Chamerion angustifolium (L.) Holub) | Žemės ūkio mokslai
+- new | 2019 | https://openalex.org/W7131963241 | article | ASSESSMENT OF THE WHEATGRASS EFFECTS ON ANTIOXIDANT CAPACITY AND DNA DAMAGE IN RATS WITH EXPERIMENTAL RENAL FAILURE | Van Yüzüncü Yıl University Academic Data
+- new | 2019 | 10.52571/ptq.v16.n32.2019.686_periodico32_pgs_668_687.pdf | article | THE USE OF NON-CONVENTIONAL SUPPLEMENTARY FEEDS IN CATTLE AND LAYER DIET | PERIÓDICO TCHÊ QUÍMICA
+- new | 2019 | 10.1111/aec.12814 | article | Simulated herbivory counteracts the effects of grass competition on the invasive fireweed (Senecio madagascariensis) | Austral Ecology
+- new | 2019 | 10.24189/ncr.2019.013 | article | The invasiveness of Solidago canadensis in the Sanctuary «Prilepsky» (Belarus) | Nature Conservation Research
+- new | 2019 | https://openalex.org/W2996098257 | dissertation | The impact of genome duplications on the dynamics of gene family evolution in plants | Ghent University Academic Bibliography (
+- new | 2019 | 10.1007/s10342-019-01247-6 | article | The origins of prescribed burning in Scandinavian forestry: the seminal role of Joel Wretlind in the management of fire-dependent forests | European Journal of Forest Research
+- new | 2018 | 10.1134/s0006813618120037 | article | ВЛИЯНИЕ РУБОК УХОДА НА ФОРМИРОВАНИЕ НАПОЧВЕННОГО ПОКРОВА НА ЗАЛЕЖАХ КРАСНОЯРСКОЙ ЛЕСОСТЕПИ | БОТАНИЧЕСКИЙ ЖУРНАЛ
+- new | 2018 | 10.14288/1.0374925 | conference-paper | Conifer seedling establishment on a rock disposal site at the Mount Polley Mine to assess competitive effects of various herbaceous groundcovers when using biosolids as a soil amen | cIRcle (University of British Columbia)
+- new | 2018 | 10.17520/biods.2017334 | article | Examining methodologies of pollinator detection in the field | Biodiversity Science
+- new | 2018 | 10.21273/jashs04326-18 | article | Variations in Genome Size of Turnip Landraces from Two High-altitude Environments | Journal of the American Society for Hort
+- new | 2018 | 10.24124/2018/58859 | dissertation | Ecological restoration of biocrusts in alpine tundra biomes. | 
+- new | 2017 | 10.1139/cjz-2017-0131 | article | n-Alkane and long-chain alcohol recovery in moose (Alces alces), a browsing herbivore | Canadian Journal of Zoology
+- new | 2017 | 10.21000/jasmr17020037 | article | CLUSTER PLANTING: EARLY ENHANCEMENT OF STRUCTRUAL DIVERSITY IN A RECLAIMED BOREAL FOREST | Journal American Society of Mining and R
+- new | 2017 | 10.1093/aobpla/plx066 | article | Contrasting soil-texture niches facilitate coexistence of two congeneric plants that differ in competitive ability | AoB Plants
+- new | 2016 | 10.1016/j.foreco.2016.09.047 | article | Tree regeneration, understory development, and biomass dynamics following wildfire in a mountain hemlock (Tsuga mertensiana) forest | Forest Ecology and Management
+- new | 2016 | 10.33915/etd.6895 | dissertation | Does enhanced nitrogen input affect the structure and composition of forest vegetation? Results from long-term experiments at the Fernow Experimental Forest | The Research Repository @ WVU (West Virg
+- new | 2015 | 10.1096/fasebj.29.1_supplement.716.16 | conference-abstract | Antioxidant Enzymes Activities and Lipid Peroxidation of Aqueous Extracts of selected Vegetables in Isoproterenol‐induced Myocardial Infarction in Male Wistar Albino Rats | The FASEB Journal
+- new | 2015 | 10.1111/1365-2664.12517 | article | The phylogenetics of succession can guide restoration: an example from abandoned mine sites in the subarctic | Journal of Applied Ecology
+- new | 2015 | https://openalex.org/W2296182911 | dissertation | Communities as bio-indicators: pairing aquatic macroinvertebrates with riparian flora to assess the biotic integrity of headwater streams disturbed by cattle in the Warner Mountain | CSUN ScholarWorks (California State Univ
+- new | 2014 | 10.1055/s-0034-1394874 | article | Histopathologic studies of aqueous extracts of five selected local edible vegetables in isoproterenol-induced myocardial infarction in male Wistar albino rats | Planta Medica
+- new | 2014 | 10.14288/1.0042682 | conference-paper | Field trials on use of biochar versus peat for land reclamation purposes | cIRcle (University of British Columbia)
+- new | 2014 | 10.7818/ecos.2014.23-3.09 | article | The role of reproduction in the emergence and evolution of polyploid plant | Ecosistemas
+- new | 2014 | 10.1016/j.flora.2014.12.002 | article | Reproductive biology of Ziziphus mistol Griseb. (Rhamnaceae), a wild fruit tree of saline environments | Flora
+- new | 2013 | https://openalex.org/W1509170340 | article | Random search models of foraging behavior: theory, simulation, and observation. | Lincoln (University of Nebraska)
+- new | 2011 | 10.1007/s10535-011-0133-4 | article | Gametes with somatic chromosome number and their significance in interspecific hybridization in Fuchsia | Biologia Plantarum
+- new | 2009 | https://openalex.org/W1597560118 | conference-paper | Post-Fire Microsites and Effects of Bryophytes on Germination and Establishment of Conifers and Early-Seral Species | Digital Commons - USU (Utah State Univer
+- new | 2008 | 10.14288/1.0075201 | dissertation | Forest vegetation response to the application of municipal sewage sludge in the coastal western hemlock zone | cIRcle (University of British Columbia)
+- new | 2007 | 10.1111/j.1365-2486.2007.01508.x | article | Response of soil surface CO2 flux in a boreal forest to ecosystem warming | Global Change Biology
+- new | 2007 | https://openalex.org/W2233623573 | article | Assessing the effectiveness of seeding and fertilization treatments for reducing erosion potential following severe wildfires | 
+- new | 2005 | 10.1016/j.cropro.2005.04.014 | article | The efficacy of pre-emergence herbicides on problem weeds in woodland regeneration | Crop Protection
+- new | 2005 | 10.7202/706049ar | article | A potential microbial control for fireweed (Epilobium angustifolium) | Phytoprotection
+- new | 2002 | 10.1046/j.1365-2745.2002.00698.x | article | Sambucus nigraL. | Journal of Ecology
+- new | 2000 | 10.1046/j.1365-2745.2000.00481.x | article | Ecological mechanisms of reproductive isolation between diploid and tetraploid Chamerion angustifolium | Journal of Ecology
+- new | 1995 | 10.14214/sf.a9196 | article | Weed control trials with fibre mulch, glyphosate and terbuthylazine in Scots pine plantations. | Silva Fennica
+- new | 1995 | 10.1038/hdy.1995.125 | article | Magnitude and timing of inbreeding depression in a diploid population of Epilobium angustifolium (Onagraceae) | Heredity
+- new | 1992 | 10.2307/5508 | article | Causes and Consequences of Spatial Aggregation in the Phytophagous Beetle Altica tombacina | Journal of Animal Ecology
+- new | 1991 | https://openalex.org/W2576022003 | dissertation | Iron toxicity to wetland plants | White Rose eTheses Online (University of
+- new | 1990 | 10.1007/bf00205228 | article | Dynamic aspects of apical zonation in the angiosperm pollen tube | Sexual Plant Reproduction
+- new | 1989 | 10.21000/jasmr89010081 | article | First year results of revegetation trials using selected native plant species on a simulated pipeline trench, Fort Norman, N.W.T., Canada | Journal American Society of Mining and R
+- new | 1988 | 10.1002/j.1537-2197.1988.tb08837.x | article | COLONIZING PLANTS ON THE PUMICE PLAINS, MOUNT ST. HELENS, WASHINGTON | American Journal of Botany
+- new | 1977 | 10.1071/ea9770296 | article | The effects of fertilizers, herbicides and grazing intensity on the incidence of firewood (Senecio lautus) in sub-tropical pastures | Australian Journal of Experimental Agric
+- new | 1884 | 10.1016/s2543-3377(17)41012-0 | article | Osteo-Porosis and Splenic Abscess | The Veterinary Journal and Annals of Com
+
+## chelidonium-majus (Chelidonium majus) - name clause: "Chelidonium majus"[tiab] OR "greater celandine"[tiab] OR "celandine"[ti] OR "chelidonium"[ti]
+
+### PubMed HT - 11 hits, 11 not already listed above, 11 new
+- new | 2025 | 40615075 |  | Unveiling the hidden risk: Herbal and dietary supplement consumption in liver disease patients. | Gastroenterol Hepatol [eng,spa]
+- new | 2022 | 39132058 | Case Reports | Iberogast®-Induced Acute Liver Injury-A Case Report. | Gastro Hep Adv
+- new | 2007 | 17331820 | Review | Herbal medicine in the treatment of liver diseases. | Dig Liver Dis
+- new | 2005 | 15992405 | Systematic Review | Ukrain - a new cancer cure? A systematic review of randomised clinical trials. | BMC Cancer
+- new | 2002 | 11914932 | Clinical Trial/Clinical Trial, Phase II/Randomized Controlled Trial | NSC-631570 (Ukrain) in the palliative treatment of pancreatic cancer. Results of a phase II trial. | Langenbecks Arch Surg
+- new | 1999 | 10495621 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | [The effect of chelidonium- and turmeric root extract on upper abdominal pain due to functional disorders of the biliary system. Results from a placebo-controlled double-blind stud | Med Klin (Munich) [ger]
+- new | 1998 | 9752097 | Comparative Study | [A comparative study of conservative treatment schemes in chronic tonsillitis in children]. | Vestn Otorinolaringol [rus]
+- new | 1996 | 8899349 | Case Reports | Potential therapeutic efficacy of Ukrain (NSC 631570) in AIDS patients with Kaposi's sarcoma. | Drugs Exp Clin Res
+- new | 1992 | 1305049 | Case Reports | Chelidonium majus L. (Ukrain) in the treatment of cancer patients. | Drugs Exp Clin Res
+- new | 1992 | 1305047 |  | Lymphocyte subsets in patients with lung cancer treated with thiophosphoric acid alkaloid derivatives from Chelidonium majus L. (Ukrain). | Drugs Exp Clin Res
+- new | 1991 | 1713821 | Clinical Trial | Evaluation of thiophosphoric acid alkaloid derivatives from Chelidonium majus L. ("Ukrain") as an immunostimulant in patients with various carcinomas. | Drugs Exp Clin Res
+
+### PubMed SR - 4 hits, 3 not already listed above, 2 new
+- HELD REF-0601 | 2024 | 38820341 | Case Reports/Systematic Review | A Hidden Cause of Hypertransaminasemia: Liver Toxicity Caused by Chelidonium Majus L. : Report of Two Cases of Herb-Induced Liver Injury and Literature Review. | Am J Ther
+- new | 2022 | 35784720 | Systematic Review | Research Status and Hotspots of Anticancer Natural Products Based on the Patent Literature and Scientific Articles. | Front Pharmacol
+- new | 2021 | 34307603 |  | Herb-induced liver injury: Systematic review and meta-analysis. | World J Clin Cases
+
+### PubMed SAFE - 96 hits, 88 not already listed above, 85 new
+- new | 2026 | 42359199 | Case Reports | Chelidonium majus-Induced Hepatitis: A Case Report of Herb-Induced Liver Injury. | Cureus
+- new | 2026 | 42075996 |  | Molecular and Pharmacokinetic Rationale for the Use of Chelidonium majus L. in Wound Healing: An In Silico and In Vitro Validation. | Molecules
+- new | 2026 | 42758113 |  | Chelidonium majus L. alkaloid extract encapsulated in human serum albumin nanoparticles induces mitochondria-mediated apoptosis in HeLa cell line. | Cell Mol Biol (Noisy-le-grand)
+- new | 2026 | 41862051 |  | Solute carrier-mediated membrane transport of hepatotoxic phytochemicals and synthetic drugs. | Life Sci
+- new | 2025 | 39216530 |  | Cardioprotective effect of chelidonic acid against doxorubicin-induced cardiac toxicity in rats. | Rev Port Cardiol [eng,por]
+- new | 2025 | 41008971 |  | Chelerythrine Protects Against Acetaminophen-Induced Acute Liver Injury: Insights from Gut Microbiota and Multi-Omics Analysis. | Antioxidants (Basel)
+- new | 2024 | 38682076 | Case Reports | A Yellow Flower With Jaundice Power: Liver Injury Attributed to Greater Celandine. | ACG Case Rep J
+- new | 2024 | 38671520 |  | Integration of metabolomics and transcriptomics reveals the therapeutic mechanism underlying Chelidonium majus L. in the treatment of allergic asthma. | Chin Med
+- new | 2024 | 38519193 |  | Identification of toxic Gelsemium elegans in processed food and honey based on real-time PCR analysis. | Food Res Int
+- new | 2022 | 35264518 |  | [Recognition and Prevalence of "Designated Ingredient, etc." in Health Foods]. | Shokuhin Eiseigaku Zasshi [jpn]
+- new | 2022 | 36618311 |  | Investigation of in vitro Cytotoxicity of Chelidonium majus against Leishmania major. | Arch Razi Inst
+- new | 2022 | 35049800 |  | Toxicity Evaluation of Selected Plant Water Extracts on a Honey Bee (Apis mellifera L.) Larvae Model. | Animals (Basel)
+- new | 2022 | 36139911 |  | Chelerythrine-Induced Apoptotic Cell Death in HepG2 Cells Involves the Inhibition of Akt Pathway and the Activation of Oxidative Stress and Mitochondrial Apoptotic Pathway. | Antioxidants (Basel)
+- new | 2021 | 33778996 |  | Greater celandine (Chelidonium majus L.) for COVID-19: A twenty-case series. | Phytother Res
+- new | 2021 | 33935397 |  | The vulnerary potential of botanical medicines in the treatment of bacterial pathologies in fish. | Vet World
+- new | 2020 | 32120948 | Case Reports | Milky Sap of Greater Celandine (Chelidonium majus L.) and Anti-Viral Properties. | Int J Environ Res Public Health
+- new | 2020 | 31789425 |  | Anticancer effects of NSC‑631570 (Ukrain) in head and neck cancer cells: In vitro analysis of growth, invasion, angiogenesis and gene expression. | Oncol Rep
+- new | 2019 | 31328315 | Letter | Chelidonium majus: Relevant safety aspects of a hepatotoxic plant, trawling the web. | Phytother Res
+- new | 2019 | 31102647 |  | In vitro and in vivo studies of the metabolic activation of chelidonine. | Chem Biol Interact
+- new | 2019 | 31382302 |  | Development of a Selective Adsorbing Material for Binding of Pyrrolizidine Alkaloids in Herbal Extracts, Based on Molecular Group Imprinting. | Planta Med
+- new | 2019 | 31054355 | Comparative Study | Characterization of the cytotoxicity of selected Chelidonium alkaloids in rat hepatocytes. | Toxicol Lett
+- new | 2019 | 31261913 |  | Intracellular Accumulation as an Indicator of Cytotoxicity to Screen Hepatotoxic Components of Chelidonium majus L. by LC-MS/MS. | Molecules
+- new | 2019 | 30677615 |  | In vitro anthelmintic activity and safety of different plant species against the ovine gastrointestinal nematode Teladorsagia circumcincta. | Res Vet Sci
+- new | 2019 | 30368994 |  | Mechanism-based inactivation of cytochrome P450 2D6 by chelidonine. | J Biochem Mol Toxicol
+- new | 2018 | 30127902 |  | Effect of chelidonine on growth, invasion, angiogenesis and gene expression in head and neck cancer cell lines. | Oncol Lett
+- new | 2018 | 29352696 |  | Safety and Efficacy of Prostatic Artery Chemoembolization for Prostate Cancer-Initial Experience. | J Vasc Interv Radiol
+- new | 2017 | 28379595 | Review | Hepatotoxicity induced by greater celandine (Chelidonium majus L.): a review of the literature. | Eur Rev Med Pharmacol Sci
+- new | 2017 | 29200720 |  | Extraction of Chelerythrine and its Effects on Pathogenic Fungus Spore Germination. | Pharmacogn Mag
+- new | 2017 | 28479277 | Research Support, Non-U.S. Gov't | Selectivity of major isoquinoline alkaloids from Chelidonium majus towards telomeric G-quadruplex: A study using a transition-FRET (t-FRET) assay. | Biochim Biophys Acta Gen Subj
+- new | 2015 | 25481375 | Research Support, Non-U.S. Gov't | Effects of Chelidonium majus extracts and major alkaloids on hERG potassium channels and on dog cardiac action potential - a safety approach. | Fitoterapia
+- new | 2015 | 25729484 | Case Reports | Lesser celandine (pilewort) induced acute toxic liver injury: The first case report worldwide. | World J Hepatol
+- new | 2014 | 24315480 |  | Herbal hepatotoxicity: analysis of cases with initially reported positive re-exposure tests. | Dig Liver Dis
+- new | 2014 | 24331426 |  | Alkaloid metabolism in thrips-Papaveraceae interaction: recognition and mutual response. | J Plant Physiol
+- new | 2014 | 24560280 | Research Support, Non-U.S. Gov't | Assessment of genotoxicity and acute toxic effect of the imatinib mesylate in plant bioassays. | Chemosphere
+- new | 2013 | 23726751 | Research Support, Non-U.S. Gov't | Chelidonium majus L. does not potentiate the hepatic effect of acetaminophen. | Exp Toxicol Pathol
+- new | 2013 | 24035924 | Research Support, Non-U.S. Gov't | Poly (lactide-co-glycolide) nano-encapsulation of chelidonine, an active bioingredient of greater celandine (Chelidonium majus), enhances its ameliorative potential against cadmium | Environ Toxicol Pharmacol
+- new | 2013 | 23121117 | Review | Review article: herbal and dietary supplement hepatotoxicity. | Aliment Pharmacol Ther
+- new | 2013 | 23510966 | Review | Herbal hepatotoxicity: suspected cases assessed for alternative causes. | Eur J Gastroenterol Hepatol
+- new | 2013 | 23303754 | Research Support, Non-U.S. Gov't | A sensitive and selective liquid chromatography-tandem mass spectrometry method for simultaneous determination of five isoquinoline alkaloids from Chelidonium majus L. in rat plasm | J Mass Spectrom
+- HELD REF-0771 | 2013 | 22484604 |  | Chelidonium majus leaves methanol extract and its chelidonine alkaloid ingredient reduce cadmium-induced nephrotoxicity in rats. | J Nat Med
+- new | 2013 | 23238299 | Research Support, Non-U.S. Gov't/Validation Study | Modulation of multidrug resistance in cancer cells by chelidonine and Chelidonium majus alkaloids. | Phytomedicine
+- new | 2013 | 23850776 | Research Support, Non-U.S. Gov't | Cytotoxicity and apoptotic signalling cascade induced by chelidonine-loaded PLGA nanoparticles in HepG2 cells in vitro and bioavailability of nano-chelidonine in mice in vivo. | Toxicol Lett
+- new | 2012 | 31643995 | Review | Greater Celandine. | 
+- new | 2012 | 22189691 | Review | Suspected Greater Celandine hepatotoxicity: liver-specific causality evaluation of published case reports from Europe. | Eur J Gastroenterol Hepatol
+- new | 2012 | 31643904 | Review | Chinese and other Asian Herbal Medicines. | 
+- new | 2012 | 24278798 | Case Reports | Successful Treatment of Chronic Viral Hepatitis With High-dilution Medicine. | Glob Adv Health Med
+- new | 2012 | 22928722 | Review | Herbal hepatotoxicity: a tabular compilation of reported cases. | Liver Int
+- HELD REF-0459 | 2012 | 23109446 | Review | Greater Celandine hepatotoxicity: a clinical review. | Ann Hepatol
+- new | 2012 | 22700003 |  | Pancreatic cancer cells retain the epithelial-related phenotype and modify mitotic spindle microtubules after the administration of ukrain in vitro. | Anticancer Drugs
+- new | 2011 | 21963561 | Research Support, Non-U.S. Gov't | Inhibitory effects of Chelidonium majus extract on atopic dermatitis-like skin lesions in NC/Nga mice. | J Ethnopharmacol
+- new | 2011 | 21893153 | Case Reports | Herbal hepatotoxicity by Greater Celandine (Chelidonium majus): causality assessment of 22 spontaneous reports. | Regul Toxicol Pharmacol
+- HELD REF-0460 | 2010 | 20980763 | Review | Chelidonium majus--an integrative review: traditional knowledge versus modern findings. | Forsch Komplementmed
+- new | 2010 | 20674840 | Research Support, Non-U.S. Gov't | Chelidonium majus 30C and 200C in induced hepato-toxicity in rats. | Homeopathy
+- new | 2009 | 19397968 | Case Reports/Review | Hepatitis from Greater celandine (Chelidonium majus L.): review of literature and report of a new case. | J Ethnopharmacol
+- new | 2009 | 19653337 |  | Transcriptional down regulation of hTERT and senescence induction in HepG2 cells by chelidonine. | World J Gastroenterol
+- new | 2009 | 19761826 | Research Support, Non-U.S. Gov't | Chelidonium majus is not hepatotoxic in Wistar rats, in a 4 weeks feeding experiment. | J Ethnopharmacol
+- new | 2008 | 18023322 | Research Support, Non-U.S. Gov't | Apoptogenic activity of two benzophenanthridine alkaloids from Chelidonium majus L. does not correlate with their DNA damaging effects. | Toxicol In Vitro
+- new | 2008 | 18720945 | Case Reports/Letter | Acute hepatitis induced by greater celandine (Chelidonium majus). | Acta Gastroenterol Belg
+- new | 2008 | 18215450 | Research Support, Non-U.S. Gov't | Efficacy of a plant extract (Chelidonium majus L.) in combating induced hepatocarcinogenesis in mice. | Food Chem Toxicol
+- new | 2008 | 18403950 | Case Reports | Lycopodium similiaplex-induced acute hepatitis: a case report. | Eur J Gastroenterol Hepatol
+- new | 2007 | 16815607 |  | In situ biomonitoring of the genotoxic effects of mixed industrial emissions using the Tradescantia micronucleus and pollen abortion tests with wild life plants: demonstration of t | Environ Pollut
+- new | 2006 | 17001175 | Research Support, Non-U.S. Gov't | In-vitro toxicity of Ukrain against human Ewing tumor cell lines. | Anticancer Drugs
+- new | 2006 | 17290785 |  | [Modified alkaloids from Chelidonium majus L. induce G2/M arrest, caspase-3 activation, and apoptosis in human acute lymphoblastic leukemia MT-4 cells]. | Ukr Biokhim Zh (1999) [ukr]
+- new | 2006 | 16645871 | Case Reports | [Severe drug hepatitis caused by Chelidonium]. | Internist (Berl) [ger]
+- new | 2004 | 15339035 | Research Support, Non-U.S. Gov't | Evaluation of protective potentials of a potentized homeopathic drug, Chelidonium majus, during azo dye induced hepatocarcinogenesis in mice. | Indian J Exp Biol
+- new | 2004 | 14630132 | Research Support, Non-U.S. Gov't | Sanguinarine and chelerythrine: assessment of safety on pigs in ninety days feeding experiment. | Food Chem Toxicol
+- new | 2003 | 12795472 |  | Acute hepatitis induced by Greater Celandine (Chelidonium majus). | Scand J Gastroenterol
+- new | 2002 | 11943072 | Research Support, Non-U.S. Gov't | Effect of a homeopathic drug, Chelidonium, in amelioration of p-DAB induced hepatocarcinogenesis in mice. | BMC Complement Altern Med
+- new | 2002 | 11826672 | Case Reports | [Acute hepatitis after use of a herbal preparation with greater celandine (Chelidonium majus)]. | Ned Tijdschr Geneeskd [dut]
+- new | 2001 | 11352118 | Case Reports/Review | Drug-induced cholestasis. | Semin Gastrointest Dis
+- new | 2001 | 11324140 | Review | [Liver toxicity of drugs of plant origin]. | Z Gastroenterol [ger]
+- new | 2000 | 10755391 |  | The antimitotic effects of Ukrain, a Chelidonium majus alkaloid derivative, are reversible in vitro. | Cancer Lett
+- new | 2000 | 10902593 | Case Reports | Contact dermatitis from Chelidonium majus (greater celandine). | Contact Dermatitis
+- new | 2000 | 11345023 |  | A method for determination of Ukrain in blood plasma for monitoring and pharmacokinetic study. | Drugs Exp Clin Res
+- new | 2000 | 11345050 | Review | Ukrain: a novel antitumor drug. | Drugs Exp Clin Res
+- new | 1999 | 10535888 | Case Reports | Acute hepatitis induced by greater celandine (Chelidonium majus). | Gastroenterology
+- new | 1999 | 10464969 | Case Reports/Letter | [Contact-derived allergic balanoposthitis and paraphimosis through topical application of celandine juice]. | Actas Urol Esp [spa]
+- new | 1998 | 15073964 |  | Chelidonium majus: a rare reason for severe hepatotoxic reaction. | Pharmacoepidemiol Drug Saf
+- new | 1998 | 10190093 |  | Preliminary pharmacokinetic studies of Ukrain in rats. | Drugs Exp Clin Res
+- new | 1997 | 9066729 | Research Support, Non-U.S. Gov't | Potential preventive effects of Chelidonium majis L. (Papaveraceae) herb extract on glandular stomach tumor development in rats treated with N-methyl-N'-nitro-N nitrosoguanidine (M | Cancer Lett
+- new | 1996 | 8899330 | Comparative Study | Inhibitory effect of thiophosphoric acid alkaloid derivatives from Chelidonium majus L. (Ukrain) on ovalbumin antigenicity and antiovalbumin IgE antibody response in mice. | Drugs Exp Clin Res
+- new | 1996 | 8899312 |  | Modulation of immune effector cell cytolytic activity and tumour growth inhibition in vivo by Ukrain (NSC 631570). | Drugs Exp Clin Res
+- new | 1996 | 8899347 | Case Reports | Ukrain therapy in a frontal anaplastic grade III astrocytoma (case report). | Drugs Exp Clin Res
+- new | 1992 | 1305044 | Research Support, U.S. Gov't, P.H.S. | Enhancement of macrophage tumouricidal activity by the alkaloid derivative Ukrain. In vitro and in vivo studies. | Drugs Exp Clin Res
+- new | 1992 | 1305041 |  | The immunomodulating preparation Ukrain does not induce anaphylactic sensitization in mice and guinea pigs. | Drugs Exp Clin Res
+- new | 1992 | 1305039 |  | Teratological evaluation of Ukrain in hamsters and rats. | Drugs Exp Clin Res
+- new | 1990 | 2291149 | Case Reports/Review | [Hemolytic anemia induced by Chelidonium majus. Clinical case]. | Sangre (Barc) [spa]
+- new | 1976 | 961056 | Case Reports | [Case of facial pepillomatosis successfully treated with celandine juice]. | Vestn Dermatol Venerol [rus]
+
+### PubMed OBS - 2 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 29 hits, 11 not already listed above, 9 new
+- new | 2025 | 40941792 | Review | Chelidonium majus L.: A Current Perspective on Isoquinoline Alkaloids, Emerging Phytochemicals, Alkaloid Biosynthesis, and Biological Activities. | Plants (Basel)
+- new | 2024 | 37952099 | Review/Research Support, Non-U.S. Gov't | Herbgenomics meets Papaveraceae: a promising -omics perspective on medicinal plant research. | Brief Funct Genomics
+- HELD REF-0770 | 2024 | 39239653 | Review | Alkaloids in Chelidonium majus L: a review of its phytochemistry, pharmacology and toxicology. | Front Pharmacol
+- new | 2024 | 39274589 | Review | Enhancing Wound Healing: A Comprehensive Review of Sericin and Chelidonium majus L. as Potential Dressings. | Materials (Basel)
+- new | 2024 | 39339451 | Review | Bioactive Compounds Produced by Endophytic Bacteria and Their Plant Hosts-An Insight into the World of Chosen Herbaceous Ruderal Plants in Central Europe. | Molecules
+- new | 2018 | 29713277 | Review | Greater Celandine's Ups and Downs-21 Centuries of Medicinal Uses of Chelidonium majus From the Viewpoint of Today's Pharmacology. | Front Pharmacol
+- new | 2018 | 29908576 | Review | Traditional and ethnobotanical dermatology practices in Romania and other Eastern European countries. | Clin Dermatol
+- HELD REF-0772 | 2017 | 28393701 | Review | Defense-related Proteins from Chelidonium majus L. as Important Components of its Latex. | Curr Protein Pept Sci
+- new | 2002 | 11826667 | Review/Comment | ["Dosis solum facit venenum" also for herbal products]. | Ned Tijdschr Geneeskd [dut]
+- new | 1996 | 8870028 | Review | Pharmacological activities of Chelidonium majus L. (Papaveraceae). | Pharmacol Res
+- new | 1995 | 7757387 | Review | [The greater celandine (Chelidonium majus L.)--review of present knowledge]. | Ceska Slov Farm [cze]
+
+### ClinicalTrials.gov - 1 registered studies
+- NCT01049373 | COMPLETED | results=True | PHASE3 | Efficacy and Safety of Lymphdiaral Basistropfen (HDC) in the Treatment of Chronic Low-back Pain | conds: Low Back Pain | intr: HDC, Placebo solution
+
+### OpenAlex no-PMID trial-worded - 604 hits, 49 without PMID, 49 new
+- new | 2026 | 10.33545/26164485.2026.v10.i11b.89886 | article | Marked clinical improvement in a case of hepatocellular jaundice with Chelidonium majus: A case report | International Journal of Homoeopathic Sc
+- new | 2026 | 10.1063/5.0329871 | conference-paper | Antimicrobial activity of Chelidonium majus extract on oral microorganisms responsible to dental caries | AIP conference proceedings
+- new | 2026 | 10.5281/zenodo.19447962 | article | BIOLOGICAL CHARACTERISTICS OF GREATER CELANDINE (CHELIDONIUM MAJUS L.) UNDER IRRIGATED CONDITIONS OF SAMARKAND REGION | Zenodo (CERN European Organization for N
+- new | 2026 | https://openalex.org/W7168003585 | dissertation | The treatment of nonalcoholic fatty liver disease and obesity | DSpace BSMU
+- new | 2026 | 10.53945/2320-7094.2319 | article | Cholelithiasis treated with Homoeopathy: A case report | Indian Journal of Research in Homoeopath
+- new | 2025 | 10.33545/26164485.2025.v9.i2.l.1585 | article | Efficacy of Chelidonium and Carduus marianus in the management of paediatric age group jaundice patient | International Journal of Homoeopathic Sc
+- new | 2025 | 10.31083/ijp44196 | article | Honey-Processed Chelidonium majus L. Ameliorates OVA-Induced Allergic Asthma Through Energy Metabolism and Inflammation Regulation | International Journal of Pharmacology
+- new | 2025 | 10.1016/b978-0-443-33152-7.00022-3 | book-chapter | Therapeutic potential of the active compounds of certain medicinal plants and fungi in the pharmacotherapy of cancer | Elsevier eBooks
+- new | 2024 | 10.2174/0122103155324599241028163050 | article | Exploring Pharmacological Mechanisms, Clinical Trials and Patent Landscapes of Berberine: A Review | The Natural Products Journal
+- new | 2024 | 10.37988/1811-153x_2024_1_12 | article | The effectiveness of the Mucosept for the treatment of radiotherapy-induced oral mucositis in head and neck cancer patients: A multicenter randomized controlled trial | Clinical Dentistry (Russia)
+- new | 2024 | 10.33545/26164485.2024.v8.i4e.1301 | article | A comprehensive review of chelidonium mother tincture’s role in alleviating gallstone-related symptoms | International Journal of Homoeopathic Sc
+- new | 2024 | 10.53945/2320-7094.1310 | article | Paediatric cholelithiasis treated with homoeopathy: A case report | Indian Journal of Research in Homoeopath
+- new | 2024 | 10.2174/0122103155300377240831120327 | article | A Review of the Therapeutical Perspective of Phytochemicals in the Treatment of HIV | The Natural Products Journal
+- new | 2023 | 10.31489/2023bmg3/57-67 | article | Biomorphological and phytochemical parameters of Chelidonium majus L. in the conditions of Kungei-Alatau | Bulletin of the Karaganda University “Bi
+- new | 2023 | 10.32999/ksu2524-0838/2023-35-6 | article | IN VITRO ANTIOXIDANT ACTIVITY OF LEAF AND STEM EXTRACTS OF GREATER CELANDINE (CHELIDONIUM MAJUS L.) USING A HUMAN BLOOD MODEL | Scientific Bulletin of Natural Sciences 
+- new | 2023 | 10.37903/vsgma.2023.2.30 | article | СРАВНИТЕЛЬНЫЙ АНАЛИЗ СОСТАВОВ ТОПИЧЕСКИХ ПРЕПАРАТОВ С РАСТИТЕЛЬНЫМ СЫРЬЕМ ДЛЯ ТЕРАПИИ ПСОРИАЗА | Вестник Смоленской государственной медиц
+- new | 2023 | 10.18499/2070-9277-2023-26-2-111-1178 | article | EXPERIENCE WITH COMBINATION THERAPY FOR PSORIASIS | Applied Information Aspects of Medicine 
+- new | 2022 | 10.15414/ainhlq.2022.0020 | article | Dose-Dependent Alterations in the Biomarkers of Lipid and Protein Oxidation in the Blood of Patients with Type 2 Diabetes Mellitus after in vitro Incubation with Extracts of Chelid | Agrobiodiversity for Improving Nutrition
+- new | 2021 | 10.26897/978-5-9675-1855-3-2021-101 | conference-paper | PLANTS OF THE BOTSAD OF I.M. SECHENOV MOSCOW STATE MEDICAL UNIVERSITY, CAPABLE OF SUPPRESSING DENSITY-DEPENDENT COMMUNICATION OF MICROORGANISMS. | Russian State Agrarian University-Moscow
+- new | 2021 | 10.1055/s-0041-1730099 | article | Homoeopathic Treatment as an Add-On for Minimizing After Effects of Conventionally Treated Cancer Patients: A Simple Randomized Pilot Study—Protocol from Northeast India Perspectiv | Asian Journal of Oncology
+- new | 2020 | 10.1016/j.jfca.2020.103767 | article | Metabarcoding reveals low fidelity and presence of toxic species in short chain-of-commercialization of herbal products | Journal of Food Composition and Analysis
+- new | 2020 | 10.1055/a-1121-4868 | article | Core Imprinting: An Alternative and Economic Approach for Depleting Pyrrolizidine Alkaloids in Herbal Extracts | Planta Medica International Open
+- new | 2019 | https://openalex.org/W3010816125 | article | Drug Induced Liver Injury (DILI) Secondary to Homeopathic Drug (Chelidonium Majus) and Literature Review | Journal of Clinical Gastroenterology and
+- new | 2018 | 10.22103/jab.2018.2153 | article | Molecular isolation of cDNA encoding N-methylstylopine hydroxylase from greater celandine (Chelidonium majus L.) and its expression enhancement in response to salinity abiotic elic | مجله بیوتکنولوژی کشاورزی
+- new | 2018 | 10.9734/ajrimps/2017/38024 | article | Effect of Homeopathic Drug on Metabolic Abnormalities Induced by HAART in Mice | Asian Journal of Research in Medical and
+- new | 2017 | 10.1016/j.jvir.2016.12.882 | article | Prostate arterial chemoembolization for prostate cancer | Journal of Vascular and Interventional R
+- new | 2016 | 10.9734/bjpr/2016/24445 | article | Effect of Chelidonium majus on Metabolic Abnormalities Induced by HAART in Mice | Journal of Pharmaceutical Research Inter
+- new | 2016 | https://openalex.org/W2344325349 | article | Investigation of Anticonvulsant Effect of Aqueous Extract of Chelidonium Majus on PTZ Induced Kindling in Male Mice | مجله دانشگاه علوم پزشکی اراک
+- new | 2016 | 10.9734/bjmmr/2016/21897 | article | Stabilization of Chronic Lymphatic Leukemia with Amanita phalloides: Effect of Additional Chelidonium majus. Case Report | Journal of Advances in Medicine and Medi
+- new | 2016 | 10.18805/ijar.9489 | article | Serum-biochemical profile and immunomodulatory effect of Aegle marmelos, Chelidonium majus and Boerhaavia diffusa homeopathic mother tincture supplementation in guinea fowl | Indian Journal of Animal Research
+- new | 2016 | https://openalex.org/W2756221581 | article | Biljni pripravci u samoliječenju virusnih bradavica | Farmaceutski glasnik : glasilo Hrvatskog
+- new | 2015 | 10.1055/s-0035-1565527 | article | Phytochemical and pharmacological studies of Chelidonium majus L. (Papaveraceae) | Planta Medica
+- new | 2015 | https://openalex.org/W2523697958 | article | Evidence for the potential therapeutic usefulness of the multi-component herbal preparation, STW5, in protecting against radiation-induced intestinal mucositis | Clinical Pharmacology & Biopharmaceutics
+- new | 2014 | 10.12771/emj.2014.37.1.60 | article | Chelidonium majus-Induced Acute Hepatitis | Ewha Medical Journal
+- new | 2014 | https://openalex.org/W2564295186 | article | Effect of homeopathic mother tinctures of Aegle marmelos, Chelidonium majus and Boerhaavia diffusa on the carcass traits of guinea fowls | 
+- new | 2014 | https://openalex.org/W2185326353 | article | Lean Meat Production In Guinea Fowl Through Homeopathic Aegle Marmelos, Chelidonium Majus And Boerhaavia Diffusa Mother Tincture Supplementation | 
+- new | 2014 | 10.16970/ted.55346 | article | Effect of some plant extracts on Meloidogyne arenaria Neal, 1889 (Tylenchida: Meloidogynidae) and tomato | Turkish Journal of Entomology
+- new | 2014 | https://openalex.org/W2740182892 | article | Alternative Homeopathic Therapy for Cancer Treatment: The Psorinum Therapy | 
+- new | 2014 | 10.1055/s-0034-1394509 | article | Novel therapeutic potential for the herbal preparation, STW 5: Prophylactic measure against intestinal mucositis induced by radiation | Planta Medica
+- new | 2013 | 10.36253/ijae-4295 | article | Role of acute administration of Chelidonium majus alone and in association with acetaminophen in rat liver | Italian Journal of Anatomy and Embryolog
+- new | 2013 | https://openalex.org/W2383081485 | article | Therapeutic Effect of Tong'an Injection for Relieving Moderate Cancer Pain | Guangzhou Zhongyiyao Daxue xuebao
+- new | 2012 | 10.13128/ijae-12192 | conference-paper | Role of acute administration of Chelidonium majus alone and in association with acetaminophen in rat liver | IRIS Research product catalog (Sapienza 
+- new | 2012 | 10.5667/tang.2012.0034 | article | Attenuation of p-dimethylaminoazobenzene initiated genotoxicity and cytotoxicity in mice by the combined treatment of a traditional homeopathic remedy Chelidonium Majus 200C and vi | TANG [HUMANITAS MEDICINE]
+- new | 2011 | 10.1158/1538-7445.am2011-5433 | conference-abstract | Abstract 5433: Analysis of the short-term and long-term in vitro cytotoxic effects of the anticancer drug Ukrain in breast cancer models | Cancer Research
+- new | 2009 | 10.2165/00128415-200912640-00034 | other | Chelidonium majus: Hepatitis in an elderly patient: case report | Reactions Weekly
+- new | 2008 | 10.1016/j.ijporl.2008.01.039 | conference-abstract | An inverted papilloma isolated to the sphenoid sinus in a pediatric patient | International Journal of Pediatric Otorh
+- new | 2003 | 10.1136/ebm.8.5.153 | article | Review: herbal medicinal products seem to be effective and safe in nonulcer dyspepsia | BMJ Evidence-Based Medicine
+- new | 1997 | https://openalex.org/W1598537503 | article | Chemopreventive Effects of Chelidonium majus L.(Papaveraceae) Herb Extract on Rat Gastric Carcinogenesis Induced by N - methyl - N' - nitro - N - nitrosoguanidine(MNNG) and Hyperto | Preventive Nutrition and Food Science
+- new | 1989 | 10.1016/s0007-0785(89)80054-7 | article | Elevation of serum globulin levels in Chelidonium majus 6c provers | British Homeopathic journal
+
+## cinnamomum-cassia (Cinnamomum cassia) - name clause: "Cinnamomum cassia"[tiab] OR "Cinnamomum aromaticum"[tiab] OR "cassia cinnamon"[tiab] OR "Chinese cinnamon"[tiab] OR "cinnamon"[ti]
+
+### PubMed HT - 190 hits, 190 not already listed above, 173 new
+- new | 2026 | 42980616 |  | Essential oils for acute cystitis: a real-world experience in primary care settings. | Minerva Med
+- new | 2026 | 42563195 |  | The effect of sumac and cinnamon on lipid profile and quality of life in patients with acute myocardial infarction, type 2 diabetes, and overweight/obesity: study protocol for a ra | Cardiovasc Diabetol Endocrinol Rep
+- new | 2026 | 42683508 | Randomized Controlled Trial | Effects of cinnamon supplementation combined with exercise training on anthropometric indices and reproductive hormones in overweight and obese women. | J Int Soc Sports Nutr
+- new | 2026 | 42841356 | Randomized Controlled Trial | Effects of Tabata-style functional training and cinnamon supplementation on army combat fitness test performance, serum irisin, and body composition in military cadets: a randomize | J Int Soc Sports Nutr
+- new | 2026 | 42597565 |  | The gut microbiome as a plausible but unproven moderator of cinnamon trial outcomes in type 2 diabetes: toward phytochemical standardization and precision nutraceuticals. | Front Nutr
+- new | 2026 | 42412022 | Randomized Controlled Trial | The Effect of Combination of Cinnamon and Oxygen Different Concentrations Inhalation Aromatherapy on, Nausea, Assessment in Cesarean Section Under Spinal Anesthesia: A Clinical Tri | J Perianesth Nurs
+- new | 2026 | 42892342 | Randomized Controlled Trial | Multidimensional clinical benefits of cinnamon leaf oil inhalation in primary and metastatic brain tumor patients during winter: A randomized controlled trial. | Complement Ther Med
+- new | 2026 | 42654031 |  | Mucoadhesive Gel Based on Cinnamomum cassia Essential Oil and Punica granatum Extract for Oral Candidiasis: A Pilot Study of Plant Synergism. | Pharmaceutics
+- new | 2026 | 41759014 |  | Effect of boiled and macerated cinnamon sticks and powder on diabetic and biochemical profile in patients with type 2 diabetes mellitus. | Wiad Lek
+- new | 2025 | 40641727 | Review | Evidence-Based Human Clinical Trials on Antidiabetic Herbal Remedies Commonly Used in the Middle East. | Sultan Qaboos Univ Med J
+- HELD REF-0599 | 2025 | 38917435 | Systematic Review/Meta-Analysis | Effects of cinnamon supplementation on metabolic biomarkers in individuals with type 2 diabetes: a systematic review and meta-analysis. | Nutr Rev
+- new | 2025 | 39998703 | Randomized Controlled Trial | The efficacy and safety of berberine in combination with cinnamon supplementation in patients with type 2 diabetes: a randomized clinical trial. | Eur J Nutr
+- new | 2025 | 40255536 | Randomized Controlled Trial/Clinical Trial, Phase II/Multicenter Study/Research Support, Non-U.S. Gov't | A Phase 2, Multi-Center, Randomized, Double-Blind, Parallel-Group Trial to Evaluate the Efficacy and Safety of CKD-495 in Patients With Acute and Chronic Gastritis. | Can J Gastroenterol Hepatol
+- new | 2025 | 41412108 | Randomized Controlled Trial | Efficacy and Safety of Cinnamomum zeylanicum (Ceylon cinnamon) for diabetes mellitus: a randomized, double blind, placebo-controlled clinical trial. | Diabetes Metab Syndr
+- HELD REF-0667 | 2025 | 40611215 | Systematic Review/Meta-Analysis | The effect of cinnamon supplementation on cardiovascular risk factors in adults: a GRADE assessed systematic review, dose-response and meta-analysis of randomized controlled trials | J Health Popul Nutr
+- new | 2025 | 41401318 | Randomized Controlled Trial | The potential effects of cinnamon, cumin, and Rosuvastatin on lipid profile among Iraqi patients with dyslipidemia. | Wiad Lek
+- HELD REF-3506 | 2025 | 40667904 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of cinnamon in reducing anthropometric measurements in individuals with type 2 diabetes: a clinical trial. | Rev Bras Enferm [eng,por]
+- new | 2025 | 40563334 |  | Developing a Feeding Module with a Blend of Garlic Oil and Cinnamon Bark for Enhancing Antioxidant Status and Immunity of Murrah Buffalo (Bubalus bubalis) with an Improvement in Fe | Antioxidants (Basel)
+- new | 2025 | 39692609 |  | Cinnamon (Cinnamomum zeylanicum) Aqueous Extract Regulates the Parameters of Metabolic Syndrome in a Model of Wistar Rats with a Diet High in Fat and Fructose. | J Med Food
+- new | 2025 | 41377384 |  | Safety and effectiveness of marjoram and cinnamon herbal tea supplementation in managing polycystic ovary syndrome: a pilot randomized, double-blind, controlled trial. | Ann Med Surg (Lond)
+- new | 2025 | 40568501 |  | Enhancing smoked meat (Se'i sapi) quality: The impact of adding essential oils of cinnamon and lime leaf during room temperature storage. | J Adv Vet Anim Res
+- HELD REF-2413 | 2025 | 39854533 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Cinnamomum zeylanicum (Ceylon cinnamon) extract on lipid profile, glucose levels and its safety in adults: A randomized, double-blind, controlled trial. | PLoS One
+- new | 2025 | 40052026 |  | Effect of Cinnamon Essential Oil on the Chemotherapy-Induced Nausea and Vomiting of Cancer Patients. | Iran J Nurs Midwifery Res
+- new | 2025 | 41256917 | Systematic Review | The effects of cinnamon on patients with metabolic diseases: an umbrella review of meta-analyses of randomized controlled trials. | Front Nutr
+- new | 2025 | 39920633 | Observational Study | Odor symptom management in patients with malignant wounds in Mali: the use of a cinnamon dressing. | BMC Cancer
+- HELD REF-0598 | 2024 | 37818728 | Systematic Review/Meta-Analysis | The effect of cinnamon supplementation on glycemic control in patients with type 2 diabetes mellitus: An updated systematic review and dose-response meta-analysis of randomized con | Phytother Res
+- new | 2024 | 38415194 | Review | Immunomodulatory Role of Plants and Their Constituents on the Management of Metabolic Disorders: An Evidence-Based Review. | Drug Des Devel Ther
+- new | 2024 | 38290699 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of cinnamon spice on continuously monitored glycemic response in adults with prediabetes: a 4-week randomized controlled crossover trial. | Am J Clin Nutr
+- new | 2024 | 38362130 |  | Effects of Cinnamon Supplementation on Lipid Profile: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Clin Nutr Res
+- new | 2024 | 39053085 | Meta-Analysis/Systematic Review | Effect of cinnamon as a Chinese herbal medicine on markers of cardiovascular risk in women with polycystic ovary syndrome: A systematic review and meta-analysis of randomized contr | Eur J Obstet Gynecol Reprod Biol
+- new | 2024 | 39579099 | Randomized Controlled Trial | Cinnamon potential in alleviating early postmenopause symptoms: a randomized clinical trial. | Menopause
+- new | 2024 | 39113092 |  | The effect of cinnamon supplementation on eating disorder indices among people suffering from binge eating disorder: a randomized controlled trial. | BMC Nutr
+- new | 2024 | 39299867 | Systematic Review/Research Support, Non-U.S. Gov't | Effect of cinnamon supplementation on blood pressure, oxidative stress, and inflammatory biomarkers in adults: An umbrella review of the meta-analyses of randomized controlled tria | Nutr Metab Cardiovasc Dis
+- new | 2024 | 38948170 |  | Effects of cinnamon on anthropometric indices and headache-related disability of patients with migraine: A randomized double-blind placebo-controlled trial. | Avicenna J Phytomed
+- new | 2024 | 38966626 |  | Metabolic and endocrine changes induced by cinnamon in women with polycystic ovarian syndrome: A pilot study. | Avicenna J Phytomed
+- new | 2023 | 37909519 | Randomized Controlled Trial | Effectiveness of cinnamon in the reduction of lipid levels in people with diabetes: a randomized clinical trial. | Rev Gaucha Enferm [eng,por]
+- new | 2023 | 37447309 | Meta-Analysis/Review | The Effect of Cinnamon on Glycolipid Metabolism: A Dose-Response Meta-Analysis of Randomized Controlled Trials. | Nutrients
+- new | 2023 | 38089418 | Review | The effects of cinnamon supplementation on adipokines and appetite-regulating hormones: A systematic review of randomized clinical trials. | Avicenna J Phytomed
+- HELD REF-3502 | 2023 | 37262194 | Randomized Controlled Trial | Cinnamomum cassia on Arterial Stiffness and Endothelial Dysfunction in Type 2 Diabetes Mellitus: Outcomes of a Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | J Med Food
+- HELD REF-0598 | 2023 | 37316893 | Review | The effect of cinnamon supplementation on glycemic control in patients with type 2 diabetes or with polycystic ovary syndrome: an umbrella meta-analysis on interventional meta-anal | Diabetol Metab Syndr
+- new | 2023 | 36826307 |  | Development and Optimization of Erythromycin Loaded Transethosomes Cinnamon Oil Based Emulgel for Antimicrobial Efficiency. | Gels
+- new | 2023 | 38065906 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial/Equivalence Trial | Efficacy and safety of CKD-495 in acute and chronic gastritis: A Phase III superiority clinical trial. | Medicine (Baltimore)
+- new | 2023 | 37500345 | Meta-Analysis | The effect of cinnamon consumption on lipid profile, oxidative stress, and inflammation biomarkers in adults: An umbrella meta-analysis of randomized controlled trials. | Nutr Metab Cardiovasc Dis
+- HELD REF-3503 | 2023 | 36655542 | Randomized Controlled Trial | Cinnamon (Cinnamomum cassia) water extract improves diarrhea symptoms by changing the gut environment: a randomized controlled trial. | Food Funct
+- new | 2022 | 35458138 | Randomized Controlled Trial | Effect of Aqueous Cinnamon Extract on the Postprandial Glycemia Levels in Patients with Type 2 Diabetes Mellitus: A Randomized Controlled Trial. | Nutrients
+- new | 2022 | 34411521 | Meta-Analysis/Systematic Review | Association Between Cinnamon Consumption and Risk of Cardiovascular Health: A Systematic Review and Meta-Analysis. | Am J Med
+- new | 2022 | 35803022 | Meta-Analysis/Systematic Review | Effects of cinnamon supplementation on lipid profiles among patients with metabolic syndrome and related disorders: A systematic review and meta-analysis. | Complement Ther Clin Pract
+- new | 2022 | 35346499 | Research Support, Non-U.S. Gov't | Cinnamon and Aspirin for Mild Ischemic Stroke or Transient Ischemic Attack: A Pilot Trial. | Clin Ther
+- new | 2022 | 36523331 |  | A comparison of the effects of cinnamon, ginger, and metformin consumption on metabolic health, anthropometric indices, and sexual hormone levels in women with poly cystic ovary sy | Front Nutr
+- new | 2022 | 36204125 |  | A Phase II, Randomized, Double-Blind, Double-Dummy, Active-Controlled Clinical Trial to Investigate the Efficacy and Safety of NW Low-Glu® in Patients Newly Diagnosed with Type 2 D | Evid Based Complement Alternat Med
+- new | 2022 | 34345586 |  | Wrinkle reduction using a Sasang constitutional medicine-based topical herbal cream in So-eum subjects: A split-face randomized double-blind placebo-controlled study. | Integr Med Res
+- new | 2022 | 36505061 | Systematic Review | Efficacy of cinnamon supplementation on glycolipid metabolism in T2DM diabetes: A meta-analysis and systematic review. | Front Physiol
+- new | 2022 | 33739219 | Meta-Analysis/Systematic Review | The beneficial effects of cinnamon among patients with metabolic diseases: A systematic review and dose-response meta-analysis of randomized-controlled trials. | Crit Rev Food Sci Nutr
+- new | 2022 | 35830848 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cinnamon Infusion Reduces Satiety and Increases Energy Intake: A Randomized Crossover Trial. | Ann Nutr Metab
+- new | 2022 | 36010501 |  | Application of Aloe vera Gel Coating Enriched with Cinnamon and Rosehip Oils to Maintain Quality and Extend Shelf Life of Pomegranate Arils. | Foods
+- new | 2022 | 33605836 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of Cinnamon as an Adjuvant in Reducing the Glycemic Biomarkers of Type 2 Diabetes Mellitus: A Three-Month, Randomized, Triple-Blind, Placebo-Controlled Clinical Trial. | J Am Nutr Assoc
+- new | 2021 | 34132429 | Systematic Review | Promising traditional Indian medicinal plants for the management of novel Coronavirus disease: A systematic review. | Phytother Res
+- new | 2021 | 35115937 | Review | Safety of Cinnamon: An Umbrella Review of Meta-Analyses and Systematic Reviews of Randomized Clinical Trials. | Front Pharmacol
+- new | 2021 | 34627352 | Systematic Review | Mechanistic and therapeutic insight into the effects of cinnamon in polycystic ovary syndrome: a systematic review. | J Ovarian Res
+- new | 2021 | 34212447 | Meta-Analysis/Systematic Review | What is the influence of cinnamon supplementation on liver enzymes? A systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2021 | 33091856 | Randomized Controlled Trial | Efficacy of cinnamon patch treatment for alleviating symptoms of overactive bladder: A double-blind, randomized, placebo-controlled trial. | Phytomedicine
+- new | 2021 | 33639251 | Meta-Analysis/Systematic Review | The effect of cinnamon supplementation on liver enzymes in adults: A systematic review and meta-analysis of randomized controlled trials. | Complement Ther Med
+- new | 2021 | 33628723 |  | Cinnamon effects on blood pressure and metabolic profile: A double-blind, randomized, placebo-controlled trial in patients with stage 1 hypertension. | Avicenna J Phytomed
+- new | 2021 | 32727334 | Meta-Analysis/Systematic Review | What is the Impact of Cinnamon Supplementation on Blood Pressure? A Systematic Review and Meta-Analysis. | Endocr Metab Immune Disord Drug Targets
+- new | 2021 | 34093719 |  | Evaluation of the Effectiveness of Cinnamon Oil Soft Capsule in Patients with Functional Dyspepsia: A Randomized Double-Blind Placebo-Controlled Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2021 | 34789340 |  | A randomized, double-blind clinical trial of a herbal formulation (GlycaCare-II) for the management of type 2 diabetes in comparison with metformin. | Diabetol Metab Syndr
+- new | 2021 | 33883001 | Clinical Trial Protocol | The effectiveness of a modified Gui Zhi Fu Ling Wan formulation (Gynoclear™) for the treatment of endometriosis: a study protocol for a placebo-controlled, double-blind, randomised | Trials
+- new | 2021 | 33838287 | Clinical Trial | Anti-inflammatory activity of the Tongmai Yangxin pill in the treatment of coronary heart disease is associated with estrogen receptor and NF-κB signaling pathway. | J Ethnopharmacol
+- new | 2021 | 33111340 | Meta-Analysis/Systematic Review | The effect of cinnamon supplementation on glycemic control in women with polycystic ovary syndrome: A systematic review and meta-analysis. | J Food Biochem
+- new | 2021 | 34083987 |  | Administration of Cinnamon and Lagersroemia speciosa Extract on Lipid Profile of Polycystic Ovarian Syndrome Women with High Body Mass Index. | J Hum Reprod Sci
+- new | 2021 | 33475184 | Randomized Controlled Trial | Efficacy of essential oil of cinnamon for the treatment of oral candidiasis: A randomized trial. | Spec Care Dentist
+- HELD REF-0605 | 2020 | 32603204 | Meta-Analysis/Systematic Review | Efficacy of herbal medicine (cinnamon/fennel/ginger) for primary dysmenorrhea: a systematic review and meta-analysis of randomized controlled trials. | J Int Med Res
+- new | 2020 | 31617744 | Meta-Analysis/Systematic Review | Anti-hypertensive effects of cinnamon supplementation in adults: A systematic review and dose-response Meta-analysis of randomized controlled trials. | Crit Rev Food Sci Nutr
+- new | 2020 | 31800140 | Meta-Analysis/Systematic Review | Effects of cinnamon supplementation on body weight and composition in adults: A systematic review and meta-analysis of controlled clinical trials. | Phytother Res
+- new | 2020 | 30799194 | Meta-Analysis/Systematic Review | Cinnamon supplementation positively affects obesity: A systematic review and dose-response meta-analysis of randomized controlled trials. | Clin Nutr
+- new | 2020 | 32032898 | Meta-Analysis/Systematic Review | Effect of cinnamon supplementation on blood pressure and anthropometric parameters in patients with type 2 diabetes: A systematic review and meta-analysis of clinical trials. | Diabetes Metab Syndr
+- new | 2020 | 32638445 | Randomized Controlled Trial | Effect of cinnamon on migraine attacks and inflammatory markers: A randomized double-blind placebo-controlled trial. | Phytother Res
+- new | 2020 | 33066854 | Meta-Analysis/Systematic Review | Impact of Cinnamon Supplementation on cardiometabolic Biomarkers of Inflammation and Oxidative Stress: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Complement Ther Med
+- new | 2020 | 32220351 | Meta-Analysis/Systematic Review | The effect of cinnamon supplementation on blood pressure in adults: A systematic review and meta-analysis of randomized controlled trials. | Clin Nutr ESPEN
+- new | 2020 | 33322063 | Multicenter Study/Randomized Controlled Trial | A 12-Week, Multicenter, Randomized, Double-Blind, Placebo-Controlled Clinical Trial for Evaluation of the Efficacy and Safety of DKB114 on Reduction of Uric Acid in Serum. | Nutrients
+- new | 2020 | 33220625 | Meta-Analysis/Systematic Review | The effect of cinnamon supplementation on lipid profiles in patients with type 2 diabetes: A systematic review and meta-analysis of clinical trials. | Complement Ther Med
+- new | 2020 | 32550156 |  | Effects of probiotic, cinnamon, and synbiotic supplementation on glycemic control and antioxidant status in people with type 2 diabetes; a randomized, double-blind, placebo-control | J Diabetes Metab Disord
+- new | 2020 | 32246694 |  | Comparison of antibacterial efficacy of cinnamon extract, neem extract as irrigant and sodium hypochlorite against Enterococcus fecalis: An in vitro study. | Indian J Dent Res
+- new | 2020 | 32151755 | Meta-Analysis/Systematic Review | Effects of cinnamon on controlling metabolic parameters of polycystic ovary syndrome: A systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2020 | 33553233 |  | Acute Effects of Cinnamon Spice on Post-prandial Glucose and Insulin in Normal Weight and Overweight/Obese Subjects: A Pilot Study. | Front Nutr
+- new | 2020 | 33623345 |  | Comparison of Antimicrobial Efficacy of Cinnamon Bark Oil Incorporated and Probiotic Blend Incorporated Mucoadhesive Patch against Salivary Streptococcus mutans in Caries Active 7- | Int J Clin Pediatr Dent
+- new | 2020 | 32228495 |  | Evaluation of cinnamon extract effects on clbB gene expression and biofilm formation in Escherichia coli strains isolated from colon cancer patients. | BMC Cancer
+- new | 2020 | 31895796 | Clinical Trial Protocol | Analysis of the effectiveness of cinnamon (Cinnamomum verum) in the reduction of glycemic and lipidic levels of adults with type 2 diabetes: A study protocol. | Medicine (Baltimore)
+- new | 2020 | 31901246 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of cinnamon supplementation on expression of systemic inflammation factors, NF-kB and Sirtuin-1 (SIRT1) in type 2 diabetes: a randomized, double blind, and controlled clini | Nutr J
+- new | 2020 | 33123653 |  | Influence of Cinnamon on Glycemic Control in Individuals With Prediabetes: A Randomized Controlled Trial. | J Endocr Soc
+- new | 2019 | 29605574 | Randomized Controlled Trial | Efficacy of cinnamon in patients with type II diabetes mellitus: A randomized controlled clinical trial. | Clin Nutr
+- new | 2019 | 31780001 | Randomized Controlled Trial | A randomized, double-blind placebo-controlled study of intranasal standardized cinnamon bark extract for seasonal allergic rhinitis. | Complement Ther Med
+- new | 2019 | 30670254 | Meta-Analysis/Systematic Review | Effect of cinnamon (Cinnamomum Zeylanicum) supplementation on serum C-reactive protein concentrations: A meta-analysis and systematic review. | Complement Ther Med
+- new | 2019 | 31425768 | Meta-Analysis/Systematic Review | Efficacy and safety of cinnamon in type 2 diabetes mellitus and pre-diabetes patients: A meta-analysis and meta-regression. | Diabetes Res Clin Pract
+- new | 2019 | 30935562 | Meta-Analysis/Systematic Review | The impact of cinnamon on anthropometric indices and glycemic status in patients with type 2 diabetes: A systematic review and meta-analysis of clinical trials. | Complement Ther Med
+- new | 2019 | 30616613 | Clinical Trial Protocol | Polyherbal dietary supplementation for prediabetic adults: study protocol for a randomized controlled trial. | Trials
+- new | 2019 | 29999194 | Randomized Controlled Trial | Effect of milled flaxseed and storage conditions on sensory properties and selected bioactive compounds in banana and cinnamon muffins used in a clinical trial. | J Sci Food Agric
+- new | 2019 | 31702643 | Clinical Trial Protocol | Efficacy and safety of HT080 for lower urinary tract symptoms associated with benign prostatic hyperplasia: A study protocol for a randomized, double-blind, placebo-controlled tria | Medicine (Baltimore)
+- new | 2019 | 31659242 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized controlled trial to determining the effect of cinnamon on the plasma levels of soluble forms of vascular adhesion molecules in type 2 diabetes mellitus. | Eur J Clin Nutr
+- new | 2019 | 30191399 |  | Assessment of Human Health Risk of Toxic Elements Due to Cinnamon Ingestion in the Diet. | Biol Trace Elem Res
+- new | 2018 | 29250843 | Randomized Controlled Trial | Insulin resistance improvement by cinnamon powder in polycystic ovary syndrome: A randomized double-blind placebo controlled clinical trial. | Phytother Res
+- new | 2018 | 29722610 |  | Cinnamon Consumption Improves Clinical Symptoms and Inflammatory Markers in Women With Rheumatoid Arthritis. | J Am Coll Nutr
+- new | 2018 | 30396627 | Randomized Controlled Trial | The effect of Cinnamon on primary dysmenorrhea: A randomized, double-blind clinical trial. | Complement Ther Clin Pract
+- new | 2018 | 29322000 |  | Effects of cinnamon supplementation on antioxidant status and serum lipids in women with polycystic ovary syndrome. | J Tradit Complement Med
+- new | 2018 | 30477858 | Randomized Controlled Trial | Effect of water-soluble cinnamon extract on electrocardiographic parameters: An analysis of the CiNNaMON trial. | Complement Ther Med
+- new | 2018 | 29737802 | Randomized Controlled Trial | Cinnamon improves metabolic factors without detectable effects on adiponectin in women with polycystic ovary syndrome. | Asia Pac J Clin Nutr
+- HELD REF-0666 | 2017 | 28887086 | Meta-Analysis/Systematic Review | The effects of cinnamon supplementation on blood lipid concentrations: A systematic review and meta-analysis. | J Clin Lipidol
+- new | 2017 | 28606084 | Randomized Controlled Trial | Effect of oral cinnamon intervention on metabolic profile and body composition of Asian Indians with metabolic syndrome: a randomized double -blind control trial. | Lipids Health Dis
+- new | 2017 | 29282046 | Clinical Trial, Phase I | Evaluation of pharmacodynamic properties and safety of Cinnamomum zeylanicum (Ceylon cinnamon) in healthy adults: a phase I clinical trial. | BMC Complement Altern Med
+- new | 2017 | 28962661 | Clinical Trial, Phase II/Clinical Trial, Phase III/Randomized Controlled Trial | Cinnamomum zeylanicum (Ceylon cinnamon) as a potential pharmaceutical agent for type-2 diabetes mellitus: study protocol for a randomized controlled trial. | Trials
+- new | 2017 | 28479753 |  | The Effect of Metformin and Cinnamon on Serum Anti-Mullerian Hormone in Women Having PCOS: A Double-Blind, Randomized, Controlled Trial. | J Hum Reprod Sci
+- new | 2017 | 28885566 | Randomized Controlled Trial | Effects of Cinnamon Consumption on Glycemic Indicators, Advanced Glycation End Products, and Antioxidant Status in Type 2 Diabetic Patients. | Nutrients
+- new | 2016 | 29231405 | Randomized Controlled Trial | [Active Crohn's disease treated with acupuncture and moxibustion:a randomized controlled trial]. | Zhongguo Zhen Jiu [chi]
+- new | 2016 | 27618575 | Review/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Do Cinnamon Supplements Have a Role in Glycemic Control in Type 2 Diabetes? A Narrative Review. | J Acad Nutr Diet
+- new | 2016 | 27104030 |  | Anti-diabetic and antioxidant effect of cinnamon in poorly controlled type-2 diabetic Iraqi patients: A randomized, placebo-controlled clinical trial. | J Intercult Ethnopharmacol
+- new | 2016 | 26758574 | Randomized Controlled Trial | Effect of cinnamon, cardamom, saffron and ginger consumption on blood pressure and a marker of endothelial function in patients with type 2 diabetes mellitus: A randomized controll | Blood Press
+- new | 2016 | 30603255 |  | Effect of cinnamon supplementation on glucose, lipids levels, glomerular filtration rate, and blood pressure of subjects with type 2 diabetes mellitus. | Diabetol Int
+- new | 2016 | 26732017 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Assessment of the effeCt of lIfestyle iNtervention plus water-soluble ciNnAMon extract On loweriNg blood glucose in pre-diabetics, a randomized, double-blind, multicenter, placebo  | Trials
+- new | 2016 | 27774415 |  | Cinnamon extract lowers glucose, insulin and cholesterol in people with elevated serum glucose. | J Tradit Complement Med
+- new | 2016 | 26716656 | Randomized Controlled Trial | Cassia Cinnamon Supplementation Reduces Peak Blood Glucose Responses but Does Not Improve Insulin Resistance and Sensitivity in Young, Sedentary, Obese Women. | J Diet Suppl
+- new | 2016 | 25986159 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of a cinnamon-, chromium- and magnesium-formulated honey on glycaemic control, weight loss and lipid parameters in type 2 diabetes: an open-label cross-over randomised c | Eur J Nutr
+- new | 2016 | 26839630 |  | Prime and boost aerosol exposure via fog machine or shisha smoke followed by cinnamon hypersensitivity and anaphylaxis to spiced food. | World Allergy Organ J
+- new | 2015 | 26661459 | Published Erratum | Correction: A Dietary Supplement Containing Cinnamon, Chromium and Carnosine Decreases Fasting Plasma Glucose and Increases Lean Mass in Overweight or Obese Pre-Diabetic Subjects:  | PLoS One
+- new | 2015 | 26023601 |  | Comparative effect of cinnamon and Ibuprofen for treatment of primary dysmenorrhea: a randomized double-blind clinical trial. | J Clin Diagn Res
+- new | 2015 | 26373226 | Comparative Study/Randomized Controlled Trial | Effect of Cinnamon Extract and Chlorhexidine Gluconate (0.2%) on the Clinical Level of Dental Plaque and Gingival Health: A 4-Week, Triple-Blind Randomized Controlled Trial. | J Int Acad Periodontol
+- new | 2015 | 26406981 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Dietary Supplement Containing Cinnamon, Chromium and Carnosine Decreases Fasting Plasma Glucose and Increases Lean Mass in Overweight or Obese Pre-Diabetic Subjects: A Randomized | PLoS One
+- new | 2015 | 26023350 |  | The effect of cinnamon on menstrual bleeding and systemic symptoms with primary dysmenorrhea. | Iran Red Crescent Med J
+- new | 2015 | 26258147 | Randomized Controlled Trial | Effect of Cinnamon Tea on Postprandial Glucose Concentration. | J Diabetes Res
+- new | 2014 | 25524718 | Review | Herbal medicine for the management of polycystic ovary syndrome (PCOS) and associated oligo/amenorrhoea and hyperandrogenism; a review of the laboratory evidence for effects with c | BMC Complement Altern Med
+- new | 2014 | 25249234 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute effect of Ceylon cinnamon extract on postprandial glycemia: alpha-amylase inhibition, starch tolerance test in rats, and randomized crossover clinical trial in healthy volunt | BMC Complement Altern Med
+- new | 2014 | 25074885 | Randomized Controlled Trial | Effects of cinnamon on perineal pain and healing of episiotomy: a randomized placebo-controlled trial. | J Integr Med
+- new | 2014 | 26177486 | Research Support, Non-U.S. Gov't | Effects of Cinnamon, Cardamom, Saffron, and Ginger Consumption on Markers of Glycemic Control, Lipid Profile, Oxidative Stress, and Inflammation in Type 2 Diabetes Patients. | Rev Diabet Stud
+- HELD REF-3500 | 2014 | 25249415 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cassia cinnamon does not change the insulin sensitivity or the liver enzymes in subjects with impaired glucose tolerance. | Nutr J
+- new | 2014 | 24461315 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cinnamon may have therapeutic benefits on lipid profile, liver enzymes, insulin resistance, and high-sensitivity C-reactive protein in nonalcoholic fatty liver disease patients. | Nutr Res
+- new | 2014 | 24813595 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Preliminary evidence that cinnamon improves menstrual cyclicity in women with polycystic ovary syndrome: a randomized controlled trial. | Am J Obstet Gynecol
+- new | 2014 | 26401364 |  | Some pharmacological effects of cinnamon and ginger herbs in obese diabetic rats. | J Intercult Ethnopharmacol
+- HELD REF-0429 | 2013 | 24019277 | Meta-Analysis/Systematic Review | Cinnamon use in type 2 diabetes: an updated systematic review and meta-analysis. | Ann Fam Med
+- new | 2013 | 23610205 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S./Review | Ingesting and aspirating dry cinnamon by children and adolescents: the "cinnamon challenge". | Pediatrics
+- new | 2013 | 24148965 | Systematic Review | Medicinal properties of 'true' cinnamon (Cinnamomum zeylanicum): a systematic review. | BMC Complement Altern Med
+- new | 2013 | 23717766 |  | Effect of ginger and cinnamon intake on oxidative stress and exercise performance and body composition in Iranian female athletes. | Int J Prev Med
+- new | 2013 | 24199490 |  | Synergistic effect of green tea, cinnamon and ginger combination on enhancing postprandial blood glucose. | Pak J Biol Sci
+- new | 2013 | 23867208 | Meta-Analysis/Review | Effect of short-term administration of cinnamon on blood pressure in patients with prediabetes and type 2 diabetes. | Nutrition
+- new | 2013 | 25049871 |  | The effects of thyme and cinnamon essential oils on performance, rumen fermentation and blood metabolites in holstein calves consuming high concentrate diet. | Asian-Australas J Anim Sci
+- new | 2013 | 23930177 |  | Commentary on: Effects of Cinnamon Consumption on Glycemic Status, Lipid Profile and Body Composition in Type 2 Diabetic Patients. | Int J Prev Med
+- new | 2013 | 23626898 |  | Effects of cinnamon consumption on glycemic status, lipid profile and body composition in type 2 diabetic patients. | Int J Prev Med
+- new | 2013 | 23717759 |  | Influence of ginger and cinnamon intake on inflammation and muscle soreness endued by exercise in Iranian female athletes. | Int J Prev Med
+- new | 2013 | 24716174 |  | The Effect of Cinnamon on Glucose of Type II Diabetes Patients. | J Tradit Complement Med
+- new | 2012 | 22007625 | Review | Bioactivity of cinnamon with special emphasis on diabetes mellitus: a review. | Int J Food Sci Nutr
+- HELD REF-3498 | 2012 | 22972104 | Meta-Analysis/Systematic Review | Cinnamon for diabetes mellitus. | Cochrane Database Syst Rev
+- new | 2012 | 22179023 | Research Support, Non-U.S. Gov't | 2-methoxycinnamaldehyde from Cinnamomum cassia reduces rat myocardial ischemia and reperfusion injury in vivo due to HO-1 induction. | J Ethnopharmacol
+- new | 2012 | 23882151 |  | The Effects of Cinnamomum Cassia on Blood Glucose Values are Greater than those of Dietary Changes Alone. | Nutr Metab Insights
+- new | 2012 | 22594097 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Mechanisms, clinically curative effects, and antifungal activities of cinnamon oil and pogostemon oil complex against three species of Candida. | J Tradit Chin Med
+- new | 2012 | 23102179 | Randomized Controlled Trial | Effect of ground cinnamon on postprandial blood glucose concentration in normal-weight and obese adults. | J Acad Nutr Diet
+- HELD REF-3505 | 2012 | 21929834 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ceylon cinnamon does not affect postprandial plasma glucose or insulin in subjects with impaired glucose tolerance. | Br J Nutr
+- new | 2012 | 22749176 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cinnamon extract improves fasting blood glucose and glycosylated hemoglobin level in Chinese patients with type 2 diabetes. | Nutr Res
+- new | 2012 | 22973482 |  | Effects of cinnamon consumption on glycemic status, lipid profile and body composition in type 2 diabetic patients. | Int J Prev Med
+- new | 2012 | 22178604 |  | Risk assessment of coumarin using the bench mark dose (BMD) approach: children in Norway which regularly eat oatmeal porridge with cinnamon may exceed the TDI for coumarin with sev | Food Chem Toxicol
+- new | 2011 | 21843614 | Meta-Analysis/Systematic Review | Meta-analysis of the effect of herbal supplement on glycemic control in type 2 diabetes. | J Ethnopharmacol
+- new | 2011 | 21861719 | Randomized Controlled Trial | Dietary cinnamon supplementation and changes in systolic blood pressure in subjects with type 2 diabetes. | J Med Food
+- new | 2011 | 21480806 | Meta-Analysis/Review | Cinnamon intake lowers fasting blood glucose: meta-analysis. | J Med Food
+- new | 2011 | 21290983 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Short-term germ-killing effect of sugar-sweetened cinnamon chewing gum on salivary anaerobes associated with halitosis. | J Clin Dent
+- new | 2011 | 21462332 | Clinical Trial/Comparative Study/Controlled Clinical Trial | Relative bioavailability of coumarin from cinnamon and cinnamon-containing foods compared to isolated coumarin: a four-way crossover study in human volunteers. | Mol Nutr Food Res
+- new | 2011 | 21899741 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of cinnamon on gastric emptying, arterial stiffness, postprandial lipemia, glycemia, and appetite responses to high-fat breakfast. | Cardiovasc Diabetol
+- HELD REF-0006 | 2010 | 20854384 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Glycated haemoglobin and blood pressure-lowering effect of cinnamon in multi-ethnic Type 2 diabetic patients in the UK: a randomized, placebo-controlled, double-blind clinical tria | Diabet Med
+- new | 2009 | 19159947 | Randomized Controlled Trial | Changes in glucose tolerance and insulin sensitivity following 2 weeks of daily cinnamon ingestion in healthy humans. | Eur J Appl Physiol
+- new | 2009 | 19158209 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of 1 and 3 g cinnamon on gastric emptying, satiety, and postprandial blood glucose, insulin, glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and ghre | Am J Clin Nutr
+- new | 2009 | 19930003 | Review | The potential of cinnamon to reduce blood glucose levels in patients with type 2 diabetes and insulin resistance. | Diabetes Obes Metab
+- new | 2009 | 19917452 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Additive postprandial blood glucose-attenuating and satiety-enhancing effect of cinnamon and acetic acid. | Nutr Res
+- new | 2009 | 19734396 | Randomized Controlled Trial/Research Support, U.S. Gov't, Non-P.H.S. | Effectiveness of cinnamon for lowering hemoglobin A1C in patients with type 2 diabetes: a randomized, controlled trial. | J Am Board Fam Med
+- new | 2009 | 19571155 | Randomized Controlled Trial | Antioxidant effects of a cinnamon extract in people with impaired fasting glucose that are overweight or obese. | J Am Coll Nutr
+- new | 2009 | 19338589 | Research Support, Non-U.S. Gov't | Do 'cinnamon-sensitive' patients react to cinnamate UV filters? | Contact Dermatitis
+- new | 2008 | 17909085 | Meta-Analysis | Effect of cinnamon on glucose control and lipid parameters. | Diabetes Care
+- new | 2008 | 18469248 | Randomized Controlled Trial | Effect of cinnamon and turmeric on urinary oxalate excretion, plasma lipids, and plasma glucose in healthy subjects. | Am J Clin Nutr
+- new | 2008 | 18234131 | Lecture | Chromium and polyphenols from cinnamon improve insulin sensitivity. | Proc Nutr Soc
+- new | 2007 | 18066129 | Research Support, Non-U.S. Gov't/Systematic Review | From type 2 diabetes to antioxidant activity: a systematic review of the safety and efficacy of common and cassia cinnamon bark. | Can J Physiol Pharmacol
+- new | 2007 | 17563345 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effect of cinnamon on glucose and lipid levels in non insulin-dependent type 2 diabetes. | Diabetes Care
+- new | 2007 | 17381386 | Review | Cinnamon supplementation in patients with type 2 diabetes mellitus. | Pharmacotherapy
+- new | 2007 | 17924872 | Randomized Controlled Trial | Effects of short-term cinnamon ingestion on in vivo glucose tolerance. | Diabetes Obes Metab
+- new | 2007 | 17392542 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of cinnamon on A1C among adolescents with type 1 diabetes. | Diabetes Care
+- new | 2007 | 18237052 | Meta-Analysis | [Cinnamon: not suitable for the treatment of diabetes mellitus]. | Ned Tijdschr Geneeskd [dut]
+- new | 2007 | 17556692 | Research Support, Non-U.S. Gov't | Effect of cinnamon on postprandial blood glucose, gastric emptying, and satiety in healthy subjects. | Am J Clin Nutr
+- new | 2007 | 17296187 | Comparative Study/Randomized Controlled Trial | The effect of cinnamon extract on insulin resistance parameters in polycystic ovary syndrome: a pilot study. | Fertil Steril
+- HELD REF-3501 | 2006 | 16549460 | Controlled Clinical Trial | Cinnamon supplementation does not improve glycemic control in postmenopausal type 2 diabetes patients. | J Nutr
+- new | 2006 | 17718288 | Randomized Controlled Trial | The effect of cinnamon cassia powder in type 2 diabetes mellitus. | J Med Assoc Thai
+- new | 2006 | 18500972 |  | Effects of a water-soluble cinnamon extract on body composition and features of the metabolic syndrome in pre-diabetic men and women. | J Int Soc Sports Nutr
+- new | 2006 | 16634838 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of a cinnamon extract on plasma glucose, HbA, and serum lipids in diabetes mellitus type 2. | Eur J Clin Invest
+- HELD REF-0136 | 2003 | 14633804 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cinnamon improves glucose and lipids of people with type 2 diabetes. | Diabetes Care
+- new | 2000 | 10849058 | Clinical Trial/Controlled Clinical Trial | Controlled trial of the effect of cinnamon extract on Helicobacter pylori. | Helicobacter
+- new | 1996 | 8874667 | Clinical Trial | In vitro activity of Cinnamomum zeylanicum against azole resistant and sensitive Candida species and a pilot study of cinnamon for oral candidiasis. | Am J Chin Med
+- new | 1992 | 1471615 | Clinical Trial | Pharmacotherapeutic effects of kuei-chih-fu-ling-wan (keishi-bukuryo-gan) on human uterine myomas. | Am J Chin Med
+
+### PubMed SR - 67 hits, 19 not already listed above, 14 new
+- new | 2025 | 40709083 | Systematic Review | Chinese herbal foot baths as a new strategy for diabetic foot with Wagner grade of 0 or 1: a meta-analysis and data mining. | Front Pharmacol
+- new | 2024 | 36652384 | Systematic Review | Cinnamon and cognitive function: a systematic review of preclinical and clinical studies. | Nutr Neurosci
+- new | 2024 | 39702975 | Review | Cinnamon for Metabolic Diseases and Their Cardiovascular and Hepatic Complications: A Mechanistic Review. | Am J Chin Med
+- new | 2024 | 38466959 | Systematic Review | A Systematic Review Evaluating Cinnamon's Effects on Glucose Utilizing a Ranking System to Assess Bias and Study Quality. | J Med Food
+- new | 2024 | 38790615 | Review | The Impact of Curcumin, Resveratrol, and Cinnamon on Modulating Oxidative Stress and Antioxidant Activity in Type 2 Diabetes: Moving beyond an Anti-Hyperglycaemic Evaluation. | Antioxidants (Basel)
+- new | 2023 | 36206028 | Systematic Review | Sweetly Improving Sugars? Reviewing Cinnamon's Effects on Blood Glucose. | J Med Food
+- new | 2022 | 35365881 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Cinnamon, an effective anti-obesity agent: Evidence from an umbrella meta-analysis. | J Food Biochem
+- HELD REF-0430 | 2021 | 34408931 | Review | Impact of Cassia Bark Consumption on Glucose and Lipid Control in Type 2 Diabetes: An Updated Systematic Review and Meta-Analysis. | Cureus
+- new | 2021 | 34044079 | Systematic Review | A systematic review on Zhilong Huoxue Tongyu capsule in treating cardiovascular and cerebrovascular diseases: Pharmacological actions, molecular mechanisms and clinical outcomes. | J Ethnopharmacol
+- new | 2019 | 29661513 | Research Support, Non-U.S. Gov't/Systematic Review | Cinnamon: A systematic review of adverse events. | Clin Nutr
+- new | 2019 | 31417401 | Review | Natural Plants Compounds as Modulators of Epithelial-to-Mesenchymal Transition. | Front Pharmacol
+- new | 2015 | 26109781 | Review | Cinnamon: Mystic powers of a minute ingredient. | Pharmacognosy Res
+- HELD REF-3504 | 2013 | 23157193 | Letter/Comment | Efficacy and safety of 'true' cinnamon (Cinnamomum zeylanicum) as a pharmaceutical agent in diabetes: a systematic review and meta-analysis. | Diabet Med
+- new | 2013 | 23350728 | Letter/Comment | Response to Akilen et al. Efficacy and safety of 'true' cinnamon (Cinnamomum zeylanicum) as a pharmaceutical agent in diabetes: a systematic review and meta-analysis. | Diabet Med
+- HELD REF-3499 | 2012 | 22579946 | Meta-Analysis/Systematic Review | Cinnamon in glycaemic control: Systematic review and meta analysis. | Clin Nutr
+- HELD REF-3499 | 2012 | 22809636 | Letter/Comment | Cinnamon in glycaemic control: systematic review and meta analysis. | Clin Nutr
+- HELD REF-3504 | 2012 | 22671971 | Meta-Analysis/Systematic Review | Efficacy and safety of 'true' cinnamon (Cinnamomum zeylanicum) as a pharmaceutical agent in diabetes: a systematic review and meta-analysis. | Diabet Med
+- new | 2011 | 22432776 | Systematic Review | An evidence-based systematic review of cinnamon (Cinnamomum spp.) by the Natural Standard Research Collaboration. | J Diet Suppl
+- new | 2008 | 18436562 | Editorial | An infallible recipe? A story of cinnamon, souffle and meta-analysis. | Nephrol Dial Transplant
+
+### PubMed SAFE - 337 hits, 163 not already listed above, 159 new
+- new | 2026 | 41993636 |  | Macrophage membrane-biomimetic cinnamaldehyde nanomedicine ameliorates inflammatory bowel disease by suppressing macrophage M1 polarization. | Theranostics
+- new | 2026 | 41784670 |  | Protective role of dietary cinnamon (Cinnamomum zeylancium) against waterborne lead toxicity in Labeo rohita. | Fish Physiol Biochem
+- new | 2026 | 42801756 |  | Antimicrobial Activity of Cinnamomum cassia Essential Oil: Phytochemical Profiling, In Vitro Evaluation, and Molecular Docking. | Chem Biodivers
+- new | 2026 | 40857746 |  | Use of Cinnamon Essential Oil Nanoemulsions to Manage Gray Mold in Tomato. | Plant Dis
+- new | 2026 | 42884613 |  | In Silico Exploration of Foods and Compounds That Modulate Nicotine Metabolism. | Nutrients
+- new | 2025 | 40683423 |  | Injinoryeong-San attenuates metabolic dysfunction-associated steatohepatitis via regulation of YAP/TAZ-signaling pathway. | J Ethnopharmacol
+- new | 2025 | 39976507 |  | Effect of cinnamon and statins drug on kidney and liver of rats receiving gentamicin. | Arch Physiol Biochem
+- new | 2025 | 39530210 | Comparative Study | Cinnamaldehyde as a Potential Cathepsin-B Inhibitor: A Comparative Investigation with some Commercial Anticancer Drugs. | Chem Biodivers
+- new | 2025 | 40617844 |  | High rate of safety and fraud issues in commercially available cinnamon. | NPJ Sci Food
+- new | 2025 | 38698173 |  | Recuperative Effects of Cinnamon (Cinnamomum zeylanicum) in Catla catla After Sub-Lethal Exposure to Lead. | Biol Trace Elem Res
+- new | 2025 | 41379865 |  | Unlocking cinnamon export success: Key determinants from the world's top five producers. | PLoS One
+- new | 2025 | 40684491 |  | Herbal mixture of Platycodon grandiflorum, Cinnamomum cassia, and Asiasarum sieboldii extracts protects against NASH progression via regulation of hepatic steatosis, inflammation,  | Phytomedicine
+- new | 2025 | 41158894 | Case Reports | Probable Cinnamon-Induced Mixed Hepatocellular-Cholestatic Liver Injury in a Young Woman: A Case Report. | Cureus
+- new | 2025 | 38767814 | Retraction Notice | Retraction Note: Assessment of Titanium Dioxide Nanoparticles (TiO2-NPs) Induced Hepatotoxicity andAmeliorative Effects of Cinnamomum cassia in Sprague-Dawley Rats. | Biol Trace Elem Res
+- new | 2025 | 40351422 |  | Therapeutic effects of medicinal and food-based traditional herbal couples on type 2 diabetes mellitus based on pharmacodynamics and pharmacokinetics. | Front Pharmacol
+- new | 2025 | 40228587 |  | Anti-obesity potential of selected medicinal plants: A focused study on in vitro inhibitory effects on lipase, α-amylase and α-glucosidase enzymes. | J Ethnopharmacol
+- new | 2024 | 38440922 | Validation Study | Determination of higenamine in common natural spices by ultrahigh-performance liquid chromatography-tandem mass spectrometry. | Drug Test Anal
+- new | 2024 | 39770541 | Review | Therapeutic Potential of Cinnamon Oil: Chemical Composition, Pharmacological Actions, and Applications. | Pharmaceuticals (Basel)
+- HELD REF-1823 | 2024 | 39338300 |  | Antidiabetic and Anti-Inflammatory Effect of Cinnamomum cassia Oil in Alloxan-Induced Diabetic Rats. | Pharmaceuticals (Basel)
+- new | 2024 | 39299376 |  | Lead content in cinnamon and its health risk assessment for Ecuadorian consumers. | Food Chem Toxicol
+- new | 2024 | 39328234 |  | Antimicrobial effect of combined preservatives using chestnut inner shell, cinnamon, and ε-poly-lysine against food-poisoning bacteria Staphylococcus aureus. | Food Sci Biotechnol
+- new | 2024 | 38867202 |  | Cinnamon nanoemulsion mitigates acetamiprid-induced hepatic and renal toxicity in rats: biochemical, histopathological, immunohistochemical, and molecular docking analysis. | BMC Vet Res
+- new | 2024 | 39449016 |  | Evaluation of anti-Toxoplasma effects of solid lipid nanoparticles carrying Cinnamon zeylanicum and Moringa oleifera oil extracts. | BMC Complement Med Ther
+- new | 2024 | 38292343 |  | Edible nano-encapsulated cinnamon essential oil hybrid wax coatings for enhancing apple safety against food borne pathogens. | Curr Res Food Sci
+- new | 2024 | 38790668 |  | Exploring the Metabolic Effects of a Herbal Remedy of Asarum sieboldii, Platycodon grandiflorum, and Cinnamomum cassia Extracts: Unraveling Its Therapeutic Potential as a Topical A | Antioxidants (Basel)
+- new | 2024 | 38409705 | Review | The Power of the Underutilized and Neglected Medicinal Plants and Herbs of the Middle East. | Rev Recent Clin Trials
+- new | 2024 | 38724994 |  | Characterization and pharmacokinetics of cinnamon and star anise compound essential oil pellets prepared via centrifugal granulation technology. | BMC Vet Res
+- new | 2024 | 38634837 | Letter | Systemic Contact Dermatitis® to Cinnamon: A Case Report. | Dermatitis
+- new | 2024 | 38734323 |  | Exploring non-cytotoxic, antioxidant, and anti-inflammatory properties of selenium nanoparticles synthesized from Gymnema sylvestre and Cinnamon cassia extracts for herbal nanomedi | Microb Pathog
+- new | 2024 | 39577939 |  | Insights into the antifungal activity and mechanisms of cinnamon components against Aspergillus flavus and Penicillium citrinum. | Food Res Int
+- new | 2024 | 38266436 |  | Application of HPLC-UV combined with chemometrics for the detection and quantification of 'true cinnamon' adulteration. | Talanta
+- new | 2024 | 39370723 |  | Phytotherapeutic BS012 and Its Active Component Ameliorate Allergic Asthma via Inhibition of Th2-Mediated Immune Response and Apoptosis. | Biomol Ther (Seoul)
+- new | 2024 | 37557937 |  | Comparative pharmacokinetics and tissue distribution of polydatin, resveratrol, and emodin after oral administration of Huzhang and Huzhang-Guizhi herb-pair extracts to rats. | J Ethnopharmacol
+- new | 2023 | 36753046 | Case Reports | Cinnamon allergic contact cheilitis. | Contact Dermatitis
+- new | 2023 | 38003308 |  | Adjuvant Effect of Cinnamon Polyphenolic Components in Colorectal Cancer Cell Lines. | Int J Mol Sci
+- new | 2023 | 37638214 |  | Cinnamon modulates the pharmacodynamic & pharmacokinetic of amlodipine in hypertensive rats. | Saudi Pharm J
+- new | 2023 | 36461791 | Case Reports | Cheilitis caused by allergic contact dermatitis to cinnamon in chai tea: A case report. | Contact Dermatitis
+- new | 2023 | 36848837 |  | Preparation and application of cinnamon-Litsea cubeba compound essential oil microcapsules for peanut kernel postharvest storage. | Food Chem
+- new | 2023 | 36941961 |  | Investigation of cocoa and cinnamon effect on acrylamide formation in cakes production using GC/MS method: A risk assessment study. | Food Chem X
+- new | 2023 | 36736268 |  | Evaluation of on-site testing methods with a novel 3-in-1 miniaturized spectroscopic device for cinnamon screening. | Talanta
+- new | 2023 | 37126171 |  | Fumigant toxicity and behavioral alterations of six plant essential oils against the red fire ant (Solenopsis invicta Buren). | Environ Sci Pollut Res Int
+- new | 2023 | 37111272 | Review | Role of Fenugreek, Cinnamon, Curcuma longa, Berberine and Momordica charantia in Type 2 Diabetes Mellitus Treatment: A Review. | Pharmaceuticals (Basel)
+- new | 2023 | 37701673 | Review | Prospective Nutraceutical Effects of Cinnamon Derivatives Against Insulin Resistance in Type II Diabetes Mellitus-Evidence From the Literature. | Dose Response
+- new | 2023 | 37187105 |  | Anti-inflammatory effect and metabolic mechanism of BS012, a mixture of Asarum sieboldii, Platycodon grandiflorum, and Cinnamomum cassia extracts, on atopic dermatitis in vivo and  | Phytomedicine
+- new | 2023 | 37375915 |  | Cinnamon Oil Alleviates Acetaminophen-Induced Uterine Toxicity in Rats by Abrogation of Oxidative Stress, Apoptosis, and Inflammation. | Plants (Basel)
+- new | 2023 | 36903823 | Retracted Publication | RETRACTED: An Analysis of the Toxicity, Antioxidant, and Anti-Cancer Activity of Cinnamon Silver Nanoparticles in Comparison with Extracts and Fractions of Cinnamomum Cassia at Nor | Nanomaterials (Basel)
+- new | 2023 | 37634769 |  | Investigating the effects of chitosan/ tragacanth gum/ polyvinyl alcohol composite coating incorporated with cinnamon essential oil nanoemulsion on safety and quality features of c | Int J Biol Macromol
+- new | 2023 | 36634219 | Research Support, Non-U.S. Gov't | Essential Oil Trunk Injection Into Orchard Trees: Consequences on the Performance and Preference of Hemipteran Pests. | J Econ Entomol
+- new | 2023 | 36779418 |  | Investigating the effects of Ceylon cinnamon water extract on HepG2 cells for Type 2 diabetes therapy. | Cell Biochem Funct
+- new | 2023 | 36517462 | Research Support, Non-U.S. Gov't | Chemopreventive Effect of Cinnamon and Its Bioactive Compounds in a Rat Model of Premalignant Prostate Carcinogenesis. | Cancer Prev Res (Phila)
+- new | 2023 | 37595738 | Research Support, Non-U.S. Gov't | In Vitro high-throughput toxicological assessment of E-cigarette flavors on human bronchial epithelial cells and the potential involvement of TRPA1 in cinnamon flavor-induced toxic | Toxicology
+- new | 2022 | 36500231 |  | Syringaresinol Alleviates Oxaliplatin-Induced Neuropathic Pain Symptoms by Inhibiting the Inflammatory Responses of Spinal Microglia. | Molecules
+- new | 2022 | 33849352 |  | Acute toxicity studies and protective effects of Cinnamon cassia bark extract in streptozotocin-induced diabetic rats. | Drug Chem Toxicol
+- new | 2022 | 36141013 |  | Antimicrobial and Antioxidant Effects of Kappa-Carrageenan Coatings Enriched with Cinnamon Essential Oil in Pork Meat. | Foods
+- new | 2022 | 36034804 |  | Cinnamomum cassia (L.) J.Presl Alleviates Allergic Responses in Asthmatic Mice via Suppression of MAPKs and MMP-9. | Front Pharmacol
+- new | 2022 | 35605740 | Review | A new approach against Helicobacter pylori using plants and its constituents: A review study. | Microb Pathog
+- new | 2022 | 35531151 |  | Protective effects of cinnamon powder against hyperlipidemia and hepatotoxicity in butter fed female albino mice. | Saudi J Biol Sci
+- new | 2022 | 36432096 |  | Anxiolytic-like Effect of Inhaled Cinnamon Essential Oil and Its Main Component Cinnamaldehyde in Animal Models. | Molecules
+- new | 2022 | 36304835 |  | Safety and efficacy of feed additives consisting of essential oils from the bark and the leaves of Cinnamomum verum J. Presl (cinnamon bark oil and cinnamon leaf oil) for use in al | EFSA J
+- new | 2022 | 35788256 |  | The Prospective Effect of Cinnamon and Chia on Submandibular Salivary Glands After Ciprofloxacin Administration in Albino Rats (Histological, Histochemical, and Ultrastructural Stu | Microsc Microanal
+- new | 2022 | 35049568 |  | Development and Evaluation of Clove and Cinnamon Supercritical Fluid Extracts-Loaded Emulgel for Antifungal Activity in Denture Stomatitis. | Gels
+- new | 2022 | 35611552 |  | Antibacterial and antibiofilm activities of some plant essential oils and synergistic effects of cinnamon essential oil with vancomycin against Clostridioides difficile: in vitro s | Lett Appl Microbiol
+- new | 2022 | 35954002 |  | Effects of Cinnamon Essential Oil on Oxidative Damage and Outer Membrane Protein Genes of Salmonella enteritidis Cells. | Foods
+- new | 2022 | 35246859 |  | Cinnamon could improve hepatic steatosis caused by a high-fat diet via enhancing hepatic beta-oxidation and inhibiting hepatic lipogenesis, oxidative damage, and inflammation in ma | J Food Biochem
+- new | 2022 | 36299724 |  | Cinnamon essential oil and its emulsion as efficient antibiofilm agents to combat Acinetobacter baumannii. | Front Microbiol
+- new | 2022 | 32249599 |  | Role of cinnamon oil against acetaminophen overdose induced neurological aberrations through brain stress and cytokine upregulation in rat brain. | Drug Chem Toxicol
+- new | 2022 | 36100790 | Published Erratum | Correction to: Maltodextrin-cinnamon essential oil nanoformulation as a potent protective against titanium nanoparticles-induced oxidative stress, genotoxicity, and reproductive di | Environ Sci Pollut Res Int
+- new | 2021 | 35480649 | Review | A review: the botany, ethnopharmacology, phytochemistry, pharmacology of Cinnamomi cortex. | RSC Adv
+- new | 2021 | 33990689 | Research Support, Non-U.S. Gov't | 2'-Hydroxycinnamaldehyde ameliorates imiquimod-induced psoriasiform inflammation by targeting PKM2-STAT3 signaling in mice. | Exp Mol Med
+- new | 2021 | 34766144 |  | Alleviating the toxicity concerns of antibacterial cinnamon-polycaprolactone biomaterials for healthcare-related biomedical applications. | MedComm (2020)
+- new | 2021 | 34563952 | Review | Cinnamon and its possible impact on COVID-19: The viewpoint of traditional and conventional medicine. | Biomed Pharmacother
+- new | 2021 | 34452277 |  | Metabolism of Diterpenoids Derived from the Bark of Cinnamomum cassia in Human Liver Microsomes. | Pharmaceutics
+- new | 2021 | 34158107 |  | Acaricidal activity of Cinnamomum cassia (Chinese cinnamon) against the tick Haemaphysalis longicornis is linked to its content of (E)-cinnamaldehyde. | Parasit Vectors
+- new | 2021 | 34141176 |  | The investigation of the protective effect of cinnamon water extract and vitamin E on malathion-induced oxidative damage in rats. | Toxicol Res (Camb)
+- new | 2021 | 34185967 |  | An LC-MS/MS method for simultaneous quantification of 11 components of Xian-Xiong-Gu-Kang in the plasma of osteoarthritic rats and pharmacokinetic analysis. | J Sep Sci
+- new | 2021 | 34464701 |  | Deciphering the mechanism of Fang-Ji-Di-Huang-Decoction in ameliorating psoriasis-like skin inflammation via the inhibition of IL-23/Th17 cell axis. | J Ethnopharmacol
+- new | 2021 | 32994147 | Case Reports | [Pseudo-bowel obstruction due to cinnamon (Melia azedarach)]. | An Pediatr (Engl Ed) [spa]
+- new | 2021 | 33418920 |  | Cinnamon Aqueous Extract Attenuates Diclofenac Sodium and Oxytetracycline Mediated Hepato-Renal Toxicity and Modulates Oxidative Stress, Cell Apoptosis, and Inflammation in Male Al | Vet Sci
+- new | 2021 | 34976095 |  | Suppression of Inflammatory and Fibrotic Signals by Cinnamon (Cinnamomum cassia) and Cinnamaldehyde in Cyclophosphamide-Induced Overactive Bladder in Mice. | Evid Based Complement Alternat Med
+- new | 2021 | 34934461 |  | Safety and efficacy of a feed additive consisting of a tincture from the bark of Cinnamomum verum J. Presl (cinnamon tincture) for use in all animal species (FEFANA asbl). | EFSA J
+- new | 2021 | 33348043 | Case Reports/Research Support, Non-U.S. Gov't | Diffuse infiltrative retinoblastoma with retinal detachment in "cinnamon-roll" configuration: a case report. | J AAPOS
+- new | 2021 | 33385678 |  | Neuromodulatory effect of cinnamon oil on behavioural disturbance, CYP1A1, iNOStranscripts and neurochemical alterations induced by deltamethrin in rat brain. | Ecotoxicol Environ Saf
+- new | 2020 | 33024703 |  | Cinnamon oil against acetaminophen-induced acute liver toxicity by attenuating inflammation, oxidative stress and apoptosis. | Toxicol Rep
+- new | 2020 | 32406267 |  | Surface-Enhanced Raman Spectroscopy for Rapid Screening of Cinnamon Essential Oils. | Appl Spectrosc
+- new | 2020 | 32668969 | Historical Article/Review | Potential Targets for Treatment of Coronavirus Disease 2019 (COVID-19): A Review of Qing-Fei-Pai-Du-Tang and Its Major Herbs. | Am J Chin Med
+- new | 2020 | 33050677 |  | A Template-Based Approach for Guiding and Refining the Development of Cinnamon-Based Phenylpropanoids as Drugs. | Molecules
+- new | 2020 | 32788161 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Mechanisms of Herb-Drug Interactions Involving Cinnamon and CYP2A6: Focus on Time-Dependent Inhibition by Cinnamaldehyde and 2-Methoxycinnamaldehyde. | Drug Metab Dispos
+- HELD REF-1821 | 2019 | 31557828 | Review | Cinnamomum cassia Presl: A Review of Its Traditional Uses, Phytochemistry, Pharmacology and Toxicology. | Molecules
+- new | 2019 | 31355574 |  | [Pharmacokinetics of compatible effective components of Mahuang Decoction in febrile rats]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2019 | 30717107 |  | Antibacterial Activities of Herbal Toothpastes Combined with Essential Oils against Streptococcus mutans. | Pathogens
+- new | 2019 | 30653675 | Case Reports | Cinnamon-induced airborne occupational allergic contact dermatitis in a baker: Severe flare-up during patch testing. | Contact Dermatitis
+- new | 2019 | 31071090 |  | Cinnamomum cassia exhibits antileishmanial activity against Leishmania donovani infection in vitro and in vivo. | PLoS Negl Trop Dis
+- new | 2019 | 31041184 |  | Antibacterial activity of cinnamon essential oils and their synergistic potential with antibiotics. | J Adv Pharm Technol Res
+- new | 2019 | 30392171 |  | Protective effect of cinnamon against acetaminophen-mediated cellular damage and apoptosis in renal tissue. | Environ Sci Pollut Res Int
+- new | 2019 | 30874318 |  | A sensitive UPLC-MS/MS method for simultaneous determination of polyphenols in rat plasma: Application to a pharmacokinetic study of dispensing granules and standard decoction of C | Biomed Chromatogr
+- new | 2019 | 30852764 | Review | Medicinal plants and their isolated phytochemicals for the management of chemotherapy-induced neuropathy: therapeutic targets and clinical perspective. | Daru
+- new | 2019 | 31153481 |  | Vapor delivery of plant essential oils alters pyrethroid efficacy and detoxification enzyme activity in mosquitoes. | Pestic Biochem Physiol
+- new | 2019 | 31721204 | Evaluation Study | Antibacterial Effects of Ultrasound, Cinnamon Essential Oil, and Their Combination Against Listeria monocytogenes and Salmonella Typhimurium in Milk. | J Food Sci
+- new | 2019 | 30276593 | Research Support, Non-U.S. Gov't | Maternal cinnamon intake during lactation led to visceral obesity and hepatic metabolic dysfunction in the adult male offspring. | Endocrine
+- new | 2019 | 30724689 |  | Synergic Laxative Effects of an Herbal Mixture of Liriope platyphylla, Glycyrrhiza uralensis, and Cinnamomum cassia in Loperamide-Induced Constipation of Sprague Dawley Rats. | J Med Food
+- new | 2018 | 29421712 | Research Support, Non-U.S. Gov't | Neuroprotection by new ligustrazine-cinnamon acid derivatives on CoCl(2)-induced apoptosis in differentiated PC12 cells. | Bioorg Chem
+- new | 2018 | 29954086 |  | Antifungal and Cytotoxic Activities of Sixty Commercially-Available Essential Oils. | Molecules
+- new | 2018 | 29499404 |  | Protective effects of essential oils from Rimulus cinnamon on endotoxin poisoning mice. | Biomed Pharmacother
+- new | 2018 | 28631137 | Retracted Publication | Assessment of Titanium Dioxide Nanoparticles (TiO(2)-NPs) Induced Hepatotoxicity and Ameliorative Effects of Cinnamomum cassia in Sprague-Dawley Rats. | Biol Trace Elem Res
+- new | 2018 | 29989058 |  | Bioactive constituents from cinnamon, hemp seed and polygonum cuspidatum protect against H(2)O(2) but not rotenone toxicity in a cellular model of Parkinson's disease. | J Tradit Complement Med
+- new | 2018 | 29501463 |  | In vitro and in vivo safety studies of cinnamon extract (Cinnamomum cassia) on general and genetic toxicology. | Regul Toxicol Pharmacol
+- new | 2018 | 29385665 |  | Improving the Microbial Safety of Fresh-Cut Endive with a Combined Treatment of Cinnamon Leaf Oil Emulsion Containing Cationic Surfactants and Ultrasound. | J Microbiol Biotechnol
+- new | 2018 | 30444910 | Research Support, Non-U.S. Gov't | Toxicity to, oviposition and population growth impairments of Callosobruchus maculatus exposed to clove and cinnamon essential oils. | PLoS One
+- new | 2018 | 30828560 | Case Reports | A Case of Severe Drug-induced Liver Injury Caused by Over the Counter Herb (Cinnamon): Review of Literature. | Euroasian J Hepatogastroenterol
+- new | 2018 | 29628890 | Review | Anti-gout Potential of Malaysian Medicinal Plants. | Front Pharmacol
+- new | 2018 | 29417554 |  | Toxicity and growth inhibition potential of vetiver, cinnamon, and lavender essential oils and their blends against larvae of the sheep blowfly, Lucilia sericata. | Int J Dermatol
+- new | 2018 | 30112645 |  | Encapsulation of cinnamon essential oil in whey protein enhances the protective effect against single or combined sub-chronic toxicity of fumonisin B(1) and/or aflatoxin B(1) in ra | Environ Sci Pollut Res Int
+- new | 2018 | 29804253 | Evaluation Study | Supercritical carbon dioxide extract of Cinnamomum cassia bark: toxicity and repellency against two stored-product beetle species. | Environ Sci Pollut Res Int
+- new | 2018 | 30201678 | Case Reports/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Edema from Taking Cinnamon for Treatment of Diabetes: Similar Biochemistry and Pathophysiology to Thiazolidinedione Medications. | J Am Board Fam Med
+- new | 2018 | 29631227 |  | Formulation of vitamin D encapsulated cinnamon oil nanoemulsion: Its potential anti-cancerous activity in human alveolar carcinoma cells. | Colloids Surf B Biointerfaces
+- new | 2018 | 28988684 |  | A nutraceutical combination of Cinnamomum cassia &Nigella sativa for Type 1 diabetes mellitus. | J Ayurveda Integr Med
+- new | 2017 | 28972639 | Case Reports | [Cinnamon rolls triggered anaphylactic reaction. The genesis could be wheat-dependent exercise-induced anaphylaxis]. | Lakartidningen [swe]
+- HELD REF-1828 | 2017 | 28176623 |  | Effect of Cinnamomum cassia on the Pharmacokinetics and Pharmacodynamics of Pioglitazone. | Curr Clin Pharmacol
+- new | 2017 | 28607628 | Case Reports | Chemical Burn From Cinnamon Oil. | Eplasty
+- new | 2017 | 28872206 | Case Reports | Generalized systemic allergic dermatitis caused by Cinnamomum zeylanicum in a herbal tea. | Contact Dermatitis
+- new | 2017 | 27830552 |  | Demonstrating Potential of Cell Therapy for Wilson's Disease with the Long-Evans Cinnamon Rat Model. | Methods Mol Biol
+- new | 2017 | 27699851 | Case Reports | Cinnamon Sugar Scrub Dermatitis: "Natural" Is Not Always Best. | Pediatr Dermatol
+- new | 2017 | 28893578 |  | Protective effect of cinnamaldehyde against glutamate-induced oxidative stress and apoptosis in PC12 cells. | Eur J Pharmacol
+- new | 2017 | 28960274 | Case Reports/Letter | Distinct clinical and sensitization patterns of cinnamon-induced contact stomatitis: a propos of two cases. | Int J Dermatol
+- new | 2017 | 26919256 |  | Cinnamomum cassia essential oil and its major constituent cinnamaldehyde induced cell cycle arrest and apoptosis in human oral squamous cell carcinoma HSC-3 cells. | Environ Toxicol
+- new | 2017 | 28813148 |  | Chitosan-Coated Cinnamon/Oregano-Loaded Solid Lipid Nanoparticles to Augment 5-Fluorouracil Cytotoxicity for Colorectal Cancer: Extract Standardization, Nanoparticle Optimization,  | J Agric Food Chem
+- new | 2017 | 28182286 |  | Maternal cinnamon extract intake during lactation leads to sex-specific endocrine modifications in rat offspring. | J Sci Food Agric
+- new | 2017 | 28955794 |  | Effects of aqueous cinnamon extract on chemically-induced carcinoma of hamster cheek pouch mucosa. | Biochem Biophys Rep
+- new | 2016 | 27465514 |  | The aqueous extract of cinnamon bark ameliorated cisplatin-induced cytotoxicity in vero cells without compromising the anticancer efficiency of cisplatin. | Biomed Pap Med Fac Univ Palacky Olomouc 
+- new | 2016 | 27012624 |  | Cinnamon extract reduces symptoms, inflammatory mediators and mast cell markers in murine IL-10(-/-) colitis. | J Nutr Biochem
+- new | 2016 | 27742359 |  | Fumigant and contact toxicity of 22 wooden essential oils and their major components against Drosophila suzukii (Diptera: Drosophilidae). | Pestic Biochem Physiol
+- new | 2015 | 25984687 | Case Reports/Review | Cinnamon spice and everything not nice: many features of intraoral allergy to cinnamic aldehyde. | Dermatitis
+- new | 2015 | 26172489 | Case Reports | Eyelid dermatitis as a manifestation of systemic contact dermatitis to cinnamon. | Dermatitis
+- new | 2015 | 25569428 | Research Support, N.I.H., Extramural | Cinnamon ameliorates experimental allergic encephalomyelitis in mice via regulatory T cells: implications for multiple sclerosis therapy. | PLoS One
+- new | 2015 | 25712056 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Nrf2-dependent suppression of azoxymethane/dextran sulfate sodium-induced colon carcinogenesis by the cinnamon-derived dietary factor cinnamaldehyde. | Cancer Prev Res (Phila)
+- new | 2014 | 24004186 | Review | Oral adverse reactions due to cinnamon-flavoured chewing gums consumption. | Oral Dis
+- new | 2013 | 23582408 | Research Support, Non-U.S. Gov't | The anti-diabetic effects and pharmacokinetic profiles of berberine in mice treated with Jiao-Tai-Wan and its compatibility. | Phytomedicine
+- new | 2013 | 23431870 | Case Reports | Cinnamon-induced oral contact stomatitis. | Dent Today
+- new | 2012 | 42551031 | Review | Cinnamon. | 
+- new | 2012 | 22928313 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils against Camptomyia corticalis (Diptera: Cecidomyiidae). | J Econ Entomol
+- new | 2011 | 22171315 |  | Synergistic antioxidant activity of green tea with some herbs. | J Adv Pharm Technol Res
+- new | 2011 | 21425926 | Research Support, N.I.H., Extramural | Immunomodulation of experimental allergic encephalomyelitis by cinnamon metabolite sodium benzoate. | Immunopharmacol Immunotoxicol
+- new | 2011 | 21324598 | Comparative Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of cassia and cinnamon oils and cinnamaldehyde and structurally related compounds to Dermanyssus gallinae (Acari: Dermanyssidae). | Vet Parasitol
+- new | 2010 | 21886744 | Case Reports | Cinnamon contact stomatitis. | J Dermatol Case Rep
+- HELD REF-4025 | 2010 | 20024932 | Review | Toxicology and risk assessment of coumarin: focus on human data. | Mol Nutr Food Res
+- new | 2010 | 19804442 | Case Reports | Allergic contact stomatitis to cinnamon in chewing gum mistaken as facial angioedema. | Allergy
+- new | 2010 | 20657484 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | The cinnamon-derived dietary factor cinnamic aldehyde activates the Nrf2-dependent antioxidant response in human epithelial colon cells. | Molecules
+- new | 2010 | 20208363 | Research Support, Non-U.S. Gov't | Protective effects of Cinnamomum cassia Blume in the fibrogenesis of activated HSC-T6 cells and dimethylnitrosamine-induced acute liver injury in SD rats. | Biosci Biotechnol Biochem
+- new | 2010 | 20169306 | Case Reports/Letter | Allergic contact dermatitis due to cinnamon oil in galenic vaginal suppositories. | Acta Derm Venereol
+- new | 2009 | 19763020 |  | Low susceptibility to N-ethyl-N-nitrosourea-induced transplacental carcinogenesis in Long-Evans Cinnamon (LEC) rats. | J Med Invest
+- new | 2009 | 19207380 |  | Occupational allergic contact dermatitis from cinnamon including one case from airborne exposure. | Contact Dermatitis
+- new | 2008 | 19133480 | Research Support, Non-U.S. Gov't | Toxicity of cassia and cinnamon oil compounds and cinnamaldehyde-related compounds to Sitophilus oryzae (Coleoptera: Curculionidae). | J Econ Entomol
+- new | 2008 | 18247142 | Research Support, Non-U.S. Gov't | Fumigant toxicity of cassia bark and cassia and cinnamon oil compounds to Dermatophagoides farinae and Dermatophagoides pteronyssinus (Acari: Pyroglyphidae). | Exp Appl Acarol
+- new | 2005 | 16199729 | Case Reports/Letter | Chronic salmonellosis and cinnamon. | Pediatrics
+- new | 2005 | 15701132 | Case Reports | Oral erosions as a manifestation of allergic contact sensitivity to cinnamon mints. | Contact Dermatitis
+- new | 2003 | 12860272 | Research Support, Non-U.S. Gov't | Cinnamaldehyde induces apoptosis by ROS-mediated mitochondrial permeability transition in human promyelocytic leukemia HL-60 cells. | Cancer Lett
+- new | 2002 | 15618674 |  | Identification of inhibitory component in cinnamon--O-methoxycinnamaldehyde inhibits CYP1A2 and CYP2E1-. | Drug Metab Pharmacokinet
+- new | 2001 | 11506812 | Research Support, Non-U.S. Gov't | Inhibition of benzo[a]pyrene- and cyclophoshamide-induced mutagenicity by Cinnamomum cassia. | Mutat Res
+- new | 1999 | 10073451 | Case Reports | Occupational allergic contact dermatitis from cassia (Chinese cinnamon) as a flavouring agent in coffee. | Contact Dermatitis
+- new | 1995 | 7763225 | Case Reports | Cinnamon allergy in a baker. | Australas J Dermatol
+- new | 1985 | 4024640 | Case Reports/Letter | Cinnamon oil burn. | West J Med
+- new | 1981 | 6800353 |  | The molybdoenzyme system of Drosophila melanogaster. I. Sulfite oxidase: identification and properties. Expression of the enzyme in maroon-like (mal), low-xanthine dehydrogenase (l | Biochem Genet
+- new | 1951 | 14837493 |  | Contact dermatitis due to cinnamon; recurrence of dermatitis following oral administration of cinnamon oil. | AMA Arch Derm Syphilol
+
+### PubMed OBS - 10 hits, 6 not already listed above, 6 new
+- new | 2023 | 37764946 |  | Antibacterial and Anti-Biofilm Activities of Cinnamon Oil against Multidrug-Resistant Klebsiella pneumoniae Isolated from Pneumonic Sheep and Goats. | Pathogens
+- new | 2022 | 35770833 | Observational Study | Classification of pediatric headache cases referred to a neurology department. | Pediatr Int
+- new | 2019 | 37221812 |  | Turmeric, Pepper, Cinnamon, and Saffron Consumption and Mortality. | J Am Heart Assoc
+- new | 2019 | 31247896 |  | Effect of Chitosan- and Alginate-Based Coatings Enriched with Cinnamon Essential Oil Microcapsules to Improve the Postharvest Quality of Mangoes. | Materials (Basel)
+- new | 2016 | 27001275 | Research Support, Non-U.S. Gov't | Cinnamon users with prediabetes have a better fasting working memory: a cross-sectional function study. | Nutr Res
+- new | 2016 | 27656437 |  | Antifungal Activity of Cinnamon Oil and Olive Oil against Candida Spp. Isolated from Blood Stream Infections. | J Clin Diagn Res
+
+### PubMed REV - 115 hits, 14 not already listed above, 14 new
+- new | 2024 | 38903995 | Review | Advances in pharmacological effects and mechanism of action of cinnamaldehyde. | Front Pharmacol
+- new | 2023 | 37215636 | Review | Aqueous Extract of Cinnamon (Cinnamomum spp.): Role in Cancer and Inflammation. | Evid Based Complement Alternat Med
+- new | 2023 | 37893256 | Review | Differentiating True and False Cinnamon: Exploring Multiple Approaches for Discrimination. | Micromachines (Basel)
+- new | 2023 | 37240821 | Review | The Anti-Cancer Effect of Cinnamon Aqueous Extract: A Focus on Hematological Malignancies. | Life (Basel)
+- new | 2022 | 35807953 | Review | Cinnamon as a Complementary Therapeutic Approach for Dysglycemia and Dyslipidemia Control in Type 2 Diabetes Mellitus and Its Molecular Mechanism of Action: A Review. | Nutrients
+- new | 2022 | 35600953 | Review | Natural Herbal Medicine as a Treatment Strategy for Myocardial Infarction through the Regulation of Angiogenesis. | Evid Based Complement Alternat Med
+- new | 2020 | 33341863 | Review | Is Cinnamon Efficacious for Glycaemic Control in Type-2 Diabetes Mellitus? | J Pak Med Assoc
+- new | 2020 | 33041391 | Review | Coronaviruses and Nature's Pharmacy for the Relief of Coronavirus Disease 2019. | Rev Bras Farmacogn
+- new | 2020 | 32932678 | Review | Effects of Cinnamon (Cinnamomum spp.) in Dentistry: A Review. | Molecules
+- new | 2019 | 31195168 | Review | Anti-cancer effects of cinnamon: Insights into its apoptosis effects. | Eur J Med Chem
+- new | 2018 | 29702210 | Review | Antibacterial mechanisms of cinnamon and its constituents: A review. | Microb Pathog
+- new | 2017 | 28302020 | Review | Olfactory Loss Management in View of Avicenna: Focus on Neuroprotective Plants. | Curr Pharm Des
+- new | 2010 | 20924865 | Review | Cinnamon and health. | Crit Rev Food Sci Nutr
+- new | 2006 | 40986675 | Review | Cinnamon. | 
+
+### ClinicalTrials.gov - 112 registered studies
+- NCT03593837 | UNKNOWN | results=False | PHASE2,PHASE3 | Efficacy and Safety of HQGZWWT Patients With Rheumatoid Arthritis | conds: Huang Qi Gui Zhi Wu Wu Granule, Rheumatoid Arthritis | intr: Huang qi gui zhi wu wu granule, Huang qi gui zhi wu wu granule placebo | pubs: ['30882703:DERIVED (new)']
+- NCT03009136 | UNKNOWN | results=False | PHASE3 | Efficacy and Safety of So-Cheong-Ryong-Tang on Perennial Allergic Rhinitis | conds: Perennial Allergic Rhinitis | intr: SCRT, Placebos | pubs: ['28963290:DERIVED (new)']
+- NCT07698223 | NOT_YET_RECRUITING | results=False | PHASE4 | Naoxintong Capsule for Diabetic Nephropathy With Dampness Retention Pattern: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Tri | conds: Diabetic Nephropathy | intr: Naoxintong Capsule, Placebo
+- NCT06700915 | RECRUITING | results=False | NA | A Clinical Trial to Assess the Efficacy and Tolerance of a Berberine-based Nutraceutical Formula to Aid Blood Sugar Regulation and Metabolis | conds: Metabolism Disorder, Nutraceutical | intr: Diaberine, Placebo Capsule
+- NCT06074809 | UNKNOWN | results=False | PHASE2 | RCT on the Treatment of Menopausal Syndrome With Chinese Medicine | conds: Menopause | intr: Modified Guizhi Fuling granules, Placebo
+- NCT07607626 | NOT_YET_RECRUITING | results=False | NA | Application of Traditional Chinese Medicine Five-Element Music Therapy Combined With Acupoint Patch Therapy Based on the "Holistic Mind-Body | conds: Stone;Renal, Stone Ureter | intr: Traditional Chinese Medicine Acupoint Patch with Five-Element Music Therapy, Standard Local Anesthes
+- NCT07778849 | COMPLETED | results=False | NA | Chinese Herbal Sachet Inhalation for Primary Dysmenorrhea in Female College Students | conds: Primary Dysmenorrhea | intr: Traditional Chinese herbal sachet (aromatic inhalation), Placebo sachets
+- NCT00479973 | UNKNOWN | results=False | PHASE2 | The Anti-Diabetic and Cholesterol-Lowering Effects of Cinnamon and Cassia Bark | conds: Type 2 Diabetes, Hypercholesterolemia | intr: Cinnamonforce, Placebo
+- NCT05343767 | COMPLETED | results=False | NA | Investigate the Efficacy and Safety of Low-Glu in Patients Newly Diagnosed With Type II Diabetes Mellitus | conds: Type2 Diabetes Mellitus | intr: Natural Wellness Low-Glu low dose, Natural Wellness Low-Glu high dose, Metformin
+- NCT06140485 | UNKNOWN | results=False | PHASE3 | A Trial to Investigate the Efficacy and Safety of NW Low-Glu® in Patients With Type II Diabetes Mellitus | conds: Diabetes Mellitus, Type 2 | intr: NW Low-Glu®, Metformin
+- NCT03610412 | COMPLETED | results=False | PHASE3 | Cinnamomum Cassia Effect on IGF1 and Metabolic Control in Patients With DM2 Without Glycemic Control Metformin Treated | conds: Diabetes Mellitus, Type 2 | intr: Cinnamomum Cassia, Placebo (calcined magnesia)
+- NCT05210218 | COMPLETED | results=False | NA | Cinnamon and Withania on Weight Loss | conds: Obesity | intr: Cinnamomum cassia (CC) and Withania somnifera (WS) (300 mg+150mg, respectively), placebo
+- NCT03388762 | COMPLETED | results=False | NA | RCT of a Polyherbal Dietary Supplement for Prediabetes | conds: Prediabetic State | intr: GlucoSupreme™ Herbal, Placebo | pubs: ['30616613:DERIVED (new)']
+- NCT04120597 | COMPLETED | results=False | PHASE1,PHASE2 | Clinical and Basic Research on the Treatment of Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Zishen Qingre Lishi Huayu Granules, Placebo
+- NCT03778099 | COMPLETED | results=False | PHASE3 | The Effect of Cinnamon on Ovulation Induction in Women With Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome, Ovulation | intr: Cinnamon Cap 500 MG, Placebo
+- NCT02488252 | UNKNOWN | results=False | PHASE2,PHASE3 | Semi-individualised Chinese Medicine Treatment as an Adjuvant Management for Diabetic Nephropathy | conds: Diabetic Nephropathies | intr: Semi-individualised Chinese Medicine treatment, Routine medical care (active comparator) | pubs: ['37307005:DERIVED (new)', '27496229:DERIVED (new)']
+- NCT00371800 | COMPLETED | results=False | PHASE2,PHASE3 | The Effect of Cinnamon on HbA1c Among Adolescents With Type I Diabetes | conds: Type 1 Diabetes Mellitus | intr: cinnamon
+- NCT04339114 | COMPLETED | results=False | NA | Reason to Season; Flavors to Increase Vascular Health | conds: Overweight and Obesity, Healthy | intr: Breakfast: control meal, Breakfast: Cinnamon meal, Breakfast: Italian herbs meal, Breakfast: pumpkin
+- NCT07493603 | RECRUITING | results=False | PHASE1,PHASE2 | A Study on Yiyang Huoluo Decoction in the Treatment of Coronary Heart Disease | conds: Coronary Heart Disease, Coronary Artery Disease, Atheroscleroses | intr: Yiyang Huoluo Decoction, conventional western medicine treatment
+- NCT01301521 | COMPLETED | results=True | NA | Cinnamon Trial-lIfestyle iNtervention Plus Water-soluble Cinnamon Extract On loweriNg Blood Glucose in Pre-diabetics | conds: Diabetes, Pre-Diabetes | intr: water-soluble cinnamon extract (Cinnulin PF) | pubs: ['26732017:DERIVED (new)']
+- NCT01752868 | COMPLETED | results=False | NA | Can Fish Oil and Phytochemical Supplements Mimic Anti-Aging Effects of Calorie Restriction? | conds: Healthy Volunteers | intr: Supplement
+- NCT03098056 | COMPLETED | results=False | NA | Safety and Tolerance of a Nutritional Intervention Program- In.Form 1.2 | conds: Obesity | intr: PROG2
+- NCT04686552 | COMPLETED | results=False | NA | Effect Cinnamon Spice on Postprandial Glucose and Insulin Responses | conds: Normal Weight, Overweight and Obesity | intr: cinnamon | pubs: ['33553233:DERIVED (new)']
+- NCT04259606 | UNKNOWN | results=False | NA | Effect of Cassia Cinnamon on Arterial Stiffness Parameters in Patients With Type 2 Diabetes Mellitus | conds: Arterial Stiffness | intr: Cassia Cinnamon, Calcined magnesia | pubs: ['37262194:DERIVED (HELD REF-3502)']
+- NCT00846898 | COMPLETED | results=False | PHASE2 | Is There a Metabolic Effect of Cinnamon on HbA1c, Blood Pressure and Serum Lipids in Type 2 Diabetes Mellitus? | conds: Type 2 Diabetes Mellitus | intr: cinnamon 2g per day for 12 weeks
+- NCT05570357 | COMPLETED | results=False | NA | Berberine and Cinnamon in Management of Diabetes | conds: Diabetes | intr: Berberine+Cinnamon (TDS), Placebo (TDS)
+- NCT03738657 | UNKNOWN | results=False |  | Gustatory Function Following Radiotherapy to the Head and Neck | conds: Head and Neck Cancer | intr: Olfactory screening, Quantative Gustatory Testing using Taste Strips
+- NCT02486159 | COMPLETED | results=False | NA | The Oligonucleotide Chip Analysis for Allergic Rhinitis Treatment in Herbal Plaster and Acupuncture | conds: Rhinitis, Allergic | intr: Herbal plaster (Sanfujiu), Acupuncture | pubs: ['27814709:DERIVED (new)']
+- NCT06427915 | COMPLETED | results=False | NA | Studying Glucose and Appetite Response With Alternatives to Soda Pop | conds: Healthy Nutrition | intr: OLIPOP prebiotic soda, Traditional sugar-sweetened cola
+- NCT07599930 | RECRUITING | results=False | NA | Impact of a Novel Functional Snack on Perimenopausal Symptoms and Well-being | conds: Perimenopause, Perimenopause-Related Depression, Mood, Sleep | intr: Functional Snacks, Placebo Snacks
+- NCT07740473 | COMPLETED | results=False | NA | Therapeutic Effects of Cinnamon-Enriched Cookies on Hypercholesterolemia and Liver Function | conds: Hyperlipidaemia, Liver Biomarkers, Weight Change | intr: Treatment group T1
+- NCT07615777 | RECRUITING | results=False | NA | Nutritional Supplementation on Physiological and Metabolic Markers in Females | conds: Perimenopausal Women, Body Composition Changes | intr: Nutritional Supplement, Placebo
+- NCT05521243 | COMPLETED | results=False | NA | An Exploratory Investigation of a Supplement to Enhance Sleep Quality and Quantity | conds: Sleep, Sleep Disturbance, Sleep Hygiene | intr: Beam Organics Dream Powder, Beam Organics Dream Powder Extra Strength, Placebo
+- NCT07757724 | COMPLETED | results=False | NA | Chinese Herbal Sachet Therapy for Sleep Quality in Menopausal Women | conds: Sleep Initiation and Maintenance Disorders, Menopause | intr: Traditional Chinese medicine aromatic sachet, Placebo aromatic sachet
+- NCT05855369 | RECRUITING | results=False | PHASE2,PHASE3 | Study of Chemosensory Enhancement Through Neuromodulation Training (SCENT for Long COVID) | conds: Smell Dysfunction, Olfactory Disorder, Long COVID | intr: Trigeminal Nerve Stimulation (TNS), Active Smell Training (ST), Placebo Smell Training (PBO)
+- NCT06199024 | UNKNOWN | results=False | NA | Cinnamon and COH in PCOS Women Underdoing IVF/ICSI Cycles | conds: Polycystic Ovary Syndrome | intr: Oral cinnamon supplementation
+- NCT03926442 | COMPLETED | results=False | NA | Spices, Inflammation and Vascular Response in Humans | conds: Healthy | intr: Italian Herb meal, Cinnamon Meal, Pumpkin Spice meal, Placebo meal | pubs: ['37310415:DERIVED (new)', '35273988:DERIVED (new)']
+- NCT03219411 | COMPLETED | results=False | PHASE2 | Effects of Cinnamon Supplementation on Glucose Metabolism in Patients With Pre-diabetes | conds: Dysglycemia, Obesity | intr: Cinnamon, placebo
+- NCT03813914 | COMPLETED | results=False | NA | A New Supplement for the "Metabolic Syndrome" | conds: Metabolic Syndrome | intr: Sineos
+- NCT07210164 | RECRUITING | results=False | NA | Pre-habilitation Within ERAS Protocol for Gynecologic Oncology Surgery: The Pre_ERAS Study | conds: ERAS, Compliance, Quality of Life (QOL), Excercise | intr: Ocoxin, Structured self-guided exercise
+- NCT05650762 | UNKNOWN | results=False | NA | Controlling Malodour In Fungating Wounds Using A Cinnamon-Based Dressing: Observational Study | conds: Wound | intr: Cinesteam
+- NCT06554873 | COMPLETED | results=False | PHASE3 | Adaptive Use of Nicotine Substitution to Maintain Smoking Reduction/Abstinence in Nicotine Responders | conds: Smoking Cessation, Harm Reduction | intr: Nicoderm, Nicorette 4Mg Chewing Gum, Nicorette Lozenge Product, NJOY e-cigarette
+- NCT05631431 | TERMINATED | results=False | PHASE2 | Evaluation of Efficacy and Safety of Curalin As Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT01148641 | COMPLETED | results=False |  | Acceptability of LNS for Infants and Young Children in Guatemala | conds: Malnutrition | intr: LNS
+- NCT02168335 | COMPLETED | results=False | PHASE2 | The Efficacy of OrasaltsTM in the Treatment of Gingivitis | conds: Gingivitis | intr: OrasaltsTM, Sea salt
+- NCT06327633 | COMPLETED | results=False | NA | Effects of Olfactory Training on the Brain Function in T2DM Patients With Mild Cognitive Impairment | conds: Type 2 Diabetes Mellitus, Mild Cognitive Impairment | intr: Olfactory Training | pubs: ['29500313:RESULT (new)', '31221697:RESULT (new)']
+- NCT06295822 | UNKNOWN | results=False | NA | The Effectiveness of Chinese Medicine Nuan-gong-ye on Primary Dysmenorrhea | conds: Chinese Medicine, Primary Dysmenorrhea | intr: Nuan-gong-ye, Placebo
+- NCT05157672 | COMPLETED | results=True | EARLY_PHASE1 | Evaluating the Pharmacokinetics and Drug Interaction Potential of the Botanical Dietary Supplement Cinnamon | conds: Interaction Drug Food | intr: Cinnamon (2 g), Nicotine gum (2.5 mg), Letrozole (2.5 mg)
+- NCT07891403 | COMPLETED | results=False | PHASE2 | A Study on the Clinical Efficacy of Fumigation and Washing With Modified Astragalus and Cinnamon Twig Decoction With Five Herbs in the Treat | conds: Post-Chemotherapy Peripheral Neuropathy | intr: Traditional Chinese Medicine Steam Bath
+- NCT03676803 | COMPLETED | results=True | NA | Effect of Spice Consumption on the Microbiome | conds: Microbiota | intr: mixed spices, placebo capsule containing 5 g of maltodextrin
+- NCT02102347 | COMPLETED | results=False | NA | Effect of Phototherapy Incorporated Into an Exercise Program on Osteoarthritis of the Knee | conds: Osteoarthritis of the Knee | intr: exercise, Phototherapy | pubs: ['24919587:DERIVED (new)']
+- NCT06976255 | COMPLETED | results=False | NA | The Effect of Dark Chocolate and Cinnamon Sugars on Pain and Anxiety in University Students With Primary Dysmenorrhea | conds: Primary Dysmenorrhea, Pain, Anxiety | intr: Cinnamon sugar, Dark chocolate
+- NCT04790760 | UNKNOWN | results=False | NA | Glucose Differences Between the Left Arm and Right Arm in Diabetic Patients Using a Continuous Glucose Monitor | conds: Diabetes | intr: Supplement Consumption, Continuous Glucose Monitors
+- NCT03386149 | COMPLETED | results=False | PHASE3 | Clinical Research on the Efficacy of Bosinji on Herniated Intervertebral Disc of Lumbar Spine | conds: Lumbar Disc Herniation | intr: Bosinji, Loxonine tab., Acupuncture | pubs: ['39640075:DERIVED (new)', '30558079:DERIVED (new)']
+- NCT06245382 | COMPLETED | results=False | NA | The Impact of Goode Health Beverage on Markers of Physiological and Neurocognitive Health | conds: Cardiovascular Diseases, Hypertension, Cognitive Decline, Diet, Healthy | intr: Goode Health Beverage, Vanilla Base Beverage Blend
+- NCT01483118 | COMPLETED | results=True | PHASE3 | Cinnamon Extract on Menstrual Cycles in PolyCystic Ovary Syndrome (PCOS) | conds: Polycystic Ovary Syndrome | intr: Cinnamon Extract, Placebo
+- NCT01027585 | COMPLETED | results=False |  | The Effects of Cinnamon on Postprandial Blood Glucose, and Insulin in Subjects With Impaired Glucose Tolerance | conds: Diabetes | intr: 
+- NCT02193438 | COMPLETED | results=False | NA | Physiologic Effect of Spices Ingestion | conds: Healthy | intr: Spices intake, Placebo | pubs: ['32064725:DERIVED (new)', '26883089:DERIVED (new)']
+- NCT02477163 | COMPLETED | results=False | NA | Ayurvedic Management of Chronic Kidney Disease | conds: Diabetic Nephropathy, Hypertensive Nephropathy | intr: Ayurveda treatment
+- NCT00718796 | COMPLETED | results=False | PHASE3 | Naturopathic Treatment for the Prevention of Cardiovascular Disease | conds: Cardiovascular Disease | intr: Naturopathic medicine. May include: fish oil, plant sterols, soluble fiber, cinnamon, coQ10 and exer | pubs: ['24451612:DERIVED (new)', '23630244:DERIVED (new)']
+- NCT03061799 | UNKNOWN | results=False | NA | Efficacy and Safety of HPC-03 for Postmenopausal Symptom | conds: Postmenopausal Period | intr: HPC-03, Placebo | pubs: ['22027944:RESULT (new)']
+- NCT07810517 | RECRUITING | results=False | NA | Lactobacillus Acidophilus and Inulin for Cognitive Impairment in Obesity | conds: Obesity (Disorder) | intr: Synbiotic (Lactobacillus acidophilus LA-5 and Agave Inulin)
+- NCT07432178 | RECRUITING | results=False | PHASE3 | CDK4/6 Inhibitors Intensification for Chemotherapy Omission in Small Size High-risk ER-positive Breast Cancer（Cinnamon） | conds: Breast Cancer | intr: Dalpiciclib+AI ± OFS, TC (Docetaxel + Cyclophosphamide) × 4 cycles- endocrine therapy
+- NCT00742131 | COMPLETED | results=False | PHASE1 | A Dose Escalation Study of the Safety and Pharmacokinetics of GSK1363089 (Formerly XL880) Administered Orally to Subjects With Solid Tumors | conds: Solid Tumours | intr: GSK1363089
+- NCT03063320 | COMPLETED | results=False | NA | The Effect of Spice Consumption on Postprandial Vascular Function | conds: Cardiovascular Risk Factor | intr: Spice blend | pubs: ['42602914:DERIVED (new)']
+- NCT07496619 | COMPLETED | results=False | NA | Effects of Diabetic Educational Intervention and Dietary Supplements on Blood Glucose, Lipid Profile Levels, Body Mass Index, and Pain Manag | conds: Pain, Glucose Levels, Low-density Lipoprotein Lipid Composition, Cholesterol (Total and HDL) | intr: Diabetic Educational Intervention and Dietary Supplements
+- NCT07315412 | NOT_YET_RECRUITING | results=False | NA | Chewing Gum Flavors to Reduce Postoperative Nausea and Vomiting After PIPAC | conds: Postoperative Nausea and Vomiting (PONV), Peritoneal Metastases From Colorectal Cancer, Intraperitoneal Chemotherapy | intr: Ginger-Mint Chewing Gum, Cinnamon Chewing Gum
+- NCT07190911 | COMPLETED | results=False | NA | Efficacy of Olfactive Training on Loss of Smell and Taste Caused by SARS CoV2 COVID-19 (Covid-Smell) | conds: COVID - 19 | intr: Olfactory rehabilitation consists of smelling a series of spices every day for 2 months
+- NCT03700892 | TERMINATED | results=True | NA | In-vivo Effects of E-cigarette Aerosol on Innate Lung Host Defense | conds: Smoking, Healthy | intr: Cinnamaldehyde e-liquid, PG/VG e-liquid | pubs: ['38687136:DERIVED (new)']
+- NCT06423248 | COMPLETED | results=False | NA | Culinary Spices in Metabolic Syndrome. | conds: Metabolic Syndrome | intr: Ginger, black seed, cinnamon, Placebo
+- NCT01530685 | COMPLETED | results=False | NA | Gycabiane and Glycemic Control of Prediabetic Subjects | conds: Hyperglycemia | intr: Glycabiane, placebo | pubs: ['26406981:DERIVED (new)']
+- NCT05055362 | COMPLETED | results=False | NA | Effect a Honey, Spice-blended Baked Good Has on Salivary Inflammation Markers in Adults: a Pilot Study | conds: Chronic Kidney Diseases, Overweight and Obesity | intr: Honey Spice Group
+- NCT07806838 | RECRUITING | results=False | NA | Effects of Dietary Supplements on Muscle Mass and Function While Using GLP-1 Medication | conds: Obesity & Overweight, Muscle Mass and Strength, Muscle Function | intr: Whey Protein Supplementation, Maltodextrin Placebo Capsules, Mixed Spice Capsules
+- NCT04139694 | WITHDRAWN | results=False | NA | Improving Insulin Resistance in Gynecological Cancer Patients | conds: Insulin Resistance | intr: Food plan with cinnamon supplementation, Food plan without cinnamon supplementation
+- NCT01085019 | COMPLETED | results=False | NA | Impact of Spices and Herbs on Endothelial Function | conds: Endothelial Function | intr: Cinnamon, Oregano, Ginger, Rosemary | pubs: ['24292639:DERIVED (new)']
+- NCT03790033 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy and Safety of Ucha-Shinki-Hwan on Korean Patients With Cold Hypersensitivity in the Hands and Feet-Double Blinded, Randomized, Mult | conds: Cold Hypersensitivity | intr: Ucha-Shinki-Hwan, Placebo | pubs: ['32080084:DERIVED (new)']
+- NCT04368663 | RECRUITING | results=False | NA | The Beneficial Effect of TJ-134 for Patients With Symptomatic Pneumatosis Cystoides Intestinalis | conds: Pneumatosis Cystoides Intestinalis | intr: Japanese traditional medicine group
+- NCT04987164 | COMPLETED | results=False |  | Incidence of Cystitis in Women Consuming a Mixture of Cranberry, Cinnamon, Probiotics | conds: Cystitis, Urinary Tract Infections | intr: Feminabiane CBU | pubs: ['39791583:DERIVED (new)']
+- NCT06072547 | UNKNOWN | results=False | NA | Effect of Flavored on!® Nicotine Pouch Products on Smoking Behaviors: a SMART Study | conds: Cigarette Smoking Behavior | intr: Access to all varieties of on! 4mg nicotine pouches (Berry, Citrus, Cinnamon, Wintergreen, Mint, Cof | pubs: ['38905632:DERIVED (new)']
+- NCT06496893 | COMPLETED | results=False | NA | A Study to Assess Effect of Glucocil® on Metabolic Health in Individuals With Prediabetes and Type 2 Diabetes Mellitus. | conds: Pre Diabetes, Type2 Diabetes Mellitus | intr: IP 1200 mg per soft gel capsule, Placebo Comparator: Placebo 1200 mg per soft gel capsule
+- NCT04023539 | COMPLETED | results=False | NA | Effect of Cinnamomum Zeylanicum on Glycemic Levels of Adult Patients With Type 2 Diabetes | conds: Type 2 Diabetes | intr: Cinnamomum zeylanicum, Placebo
+- NCT02404701 | COMPLETED | results=False | NA | Effect of Over-the-counter Dietary Supplements on Kidney Stone Risk | conds: Hyperoxaluria | intr: Aloe vera with cactus, Cranberry, Green tea extract, Bilberry
+- NCT05900024 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Funk It Cycle Bites on PMS | conds: Premenstrual Syndrome | intr: Funk It Cycle Bites
+- NCT03711682 | COMPLETED | results=False | PHASE2,PHASE3 | Reducing Plasma Glucose Effect of Cinnamon in Type 2 Diabetic Patients in the Municipality of Comasagua | conds: Type 2 Diabetes Mellitus | intr: Cinnamon, Wheat Flour | pubs: ['29222377:RESULT (new)', '28885566:RESULT (new)', '28539866:RESULT (new)', '18276664:RESULT (new)', '29605574:RESULT (new)', '26758574:RESULT (new)', '28497094:RESULT (new)', '24513588:RESULT (new)', '24876603:RESULT (new)', '20644701:RESULT (new)', '20042780:RESULT (new)']
+- NCT05870891 | COMPLETED | results=False | NA | Equivalent Glycemic Load and Insulinemic Response Elicited by 7 Low Carbohydrate Products in Healthy Adults | conds: Healthy Nutrition | intr: Food | pubs: ['41439105:DERIVED (new)']
+- NCT06505694 | COMPLETED | results=False | NA | A Clinical Trial to Assess the Impact of an Alcohol Alternative Herbal Tincture on Signs of Stress Anxiety and Sleep Quality. | conds: Anxiety, Stress | intr: Alcohol Alternative Herbal Tincture (Test Product), Placebo
+- NCT03061916 | UNKNOWN | results=False | PHASE3 | Cinnamon and Ginger in Comparison to Chlorhexidine Gluconate 0.2% on Oral Streptococcus Mutans | conds: Dental Caries | intr: Cinnamon, Ginger, Chlorhexidine Gluconate | pubs: ['26347778:RESULT (new)', '25591663:RESULT (new)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)']
+- NCT00951639 | COMPLETED | results=False | NA | Cassia Cinnamon for Glucose Uptake in Young Women | conds: Insulin Resistance, Impaired Glucose Tolerance, Prediabetes | intr: Cassia cinnamon, 50 minutes exercise, Cellulose Powder
+- NCT06682390 | RECRUITING | results=False | NA | Role of Race in Nutritional Approach in Men on ADT | conds: Prostate Cancer Metastatic Disease | intr: Hypocaloric anti-inflammatory diet
+- NCT01302743 | TERMINATED | results=True | NA | Cinnamon Bark, Water-Soluble Cinnamon Extract, and Metformin for Treatment of Type 2 DM. | conds: Diabetes | intr: Group 1: Metformin, Group 2: Cinnamon Bark, Group 3: Cinnulin PF
+- NCT03064958 | COMPLETED | results=False | NA | The Acute Effect of Spices on Vascular Health | conds: Oxidative Stress | intr: Herbs and spices, High fat meal | pubs: ['32211803:DERIVED (new)']
+- NCT06164613 | RECRUITING | results=False | PHASE2 | Use of Cinnamomum Verum for Induction of Labor. Double Blind Randomized Clinical Trial | conds: Labor Onset and Length Abnormalities, First Birth | intr: Cinnamomum Verum oil extract, Placebo
+- NCT07265115 | COMPLETED | results=False | NA | Preventive Nutritional Supplements for Preclinical Conditions | conds: Elevated Fasting Capillary Blood Glucose | intr: Placebo, Capsules with active ingredients, Placebo Repetition, Capsules with active ingredients Repe
+- NCT06889961 | RECRUITING | results=False | NA | Effect of Daily Mixed Spice Consumption on Memory Function | conds: Memory, Cognitive Function | intr: Mixed spices, Placebo
+- NCT00970541 | TERMINATED | results=False | PHASE1 | Effect of Cinnamon Extract on Insulin Resistance in Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome, Insulin Resistance | intr: Cinnamon Supplementation, Placebo (wheat flour)
+- NCT03608176 | UNKNOWN | results=False | NA | Evaluation of the Plant-based Approaches to Stop Obesity Diet for the Treatment of Overweight and Obesity | conds: Overweight and Obesity | intr: PASO diet group, Low-fat diet group, Waiting list group
+- NCT06088862 | TERMINATED | results=False | PHASE3 | Evaluate Harm Reduction Products as a Second Line Intervention for Adult Smokers Who Do Not Quit With NRT | conds: Smoking Cessation, Harm Reduction | intr: Nicoderm, Nicorette 4Mg Chewing Gum, Nicorette Lozenge Product, BIDI e-cigarette
+- NCT07429227 | RECRUITING | results=False | NA | Evaluation Through Innovative Examinations of Intestinal Dysbiosis Status in Patients Diagnosed With Cardiovascular Diseases and Evaluation  | conds: Acute Coronary Syndromes (ACS) | intr: Tea tree (Melaleuca alternifolia), Cinnamon (Cynnamomum zeylanicum) bark, Clove carnation (Eugenia c
+- NCT02146157 | COMPLETED | results=False | NA | Trial of an Herb and Mineral Combination Product on Fasting Glucose in Adults at Risk for Developing Diabetes | conds: Prediabetes | intr: herb and mineral combination product, Placebo
+- NCT05685628 | RECRUITING | results=False | NA | Evaluation of the Quality of Life Induced by the Cinnamon Anti-odor Dressing in Patients With Malodorous Wounds | conds: Malodorous Wounds (Chronic, Malignant or Infected Wounds) | intr: Cinnamon dressing, Charcoal dressing
+- NCT04476160 | COMPLETED | results=False | NA | Effectiveness of Cinnamon on Insulin Resistance ( ECIRCCOS ) December 1, 2019 | conds: Obesity, Childhood, Insulin Resistance, Insulin Sensitivity | intr: Cinnamon
+- NCT01350284 | COMPLETED | results=False | NA | The Effect of Natural Food Flavourings on Gastrointestinal and Cardiovascular Physiological Responses. | conds: Gastric Emptying, Diabetes Mellitus | intr: Cinnamon, Placebo control | pubs: ['21899741:DERIVED (new)']
+- NCT02074423 | COMPLETED | results=False | NA | A Human Clinical Trial Evaluating the Effect of MealShape™ on Blood Glucose Level Following Consumption of Standard Meal | conds: Postprandial Glycemia, Postprandial Insulinemia | intr: MealShape cinnamon extract, Placebo | pubs: ['25249234:DERIVED (new)']
+- NCT00237640 | COMPLETED | results=False | PHASE2 | Effect of Cinnamon on Glucose and Lipid Levels in Non-Insulin Dependent Type 2 Diabetes Mellitus | conds: Diabetes Mellitus, Adult Onset | intr: Cinnamon or placebo 500 mg capsule twice daily | pubs: ['17563345:DERIVED (new)']
+- NCT00445354 | COMPLETED | results=False | PHASE3 | Randomized Controlled Clinical Trial of Cinnamon to Lower Hemoglobin A1c | conds: Diabetes | intr: cinnamon | pubs: ['19734396:DERIVED (new)']
+- NCT02198911 | COMPLETED | results=False | NA | The Effects of Chewing Gum on a Computer Task and Liking Ratings of Ice Cream | conds: Habituation | intr: NO GUM, MCC (Mint Chocolate Chip gum), C (Cinnamon gum)
+- NCT03232528 | COMPLETED | results=False | NA | The Promotion Plan of Moxibustion on Ulcerate Colitis | conds: Ulcerative Colitis | intr: Herb-partitioned moxibustion, Sham herb-partitioned moxibustion
+- NCT05229029 | UNKNOWN | results=False | PHASE2 | RSYR for Fatigue Reduction in Cancer Fatigue Caused by Chemotherapy | conds: Cancer-related Problem/Condition | intr: TCM Formula, Placebo
+- NCT05145673 | COMPLETED | results=False | NA | Effect of Aqueous Cinnamon Extract on the Postprandial Glycaemia Levels in Type 2 Diabetes Mellitus | conds: Type 2 Diabetes | intr: Placebo (OGTT), Cinnamon (OGTT plus aqueous cinnamon extract)
+- NCT03022214 | COMPLETED | results=False | NA | ADAPT: Efficacy of a Dietary Supplement During and After Exercise | conds: Dietary Supplementation During Exercise | intr: Placebo, Intervention
+- NCT07518394 | COMPLETED | results=False | PHASE4 | Oral Essential Oils Efficacy in Acute Respiratory Symptoms | conds: Respiratory Inflammation | intr: essential oils of eucalyptus, thyme, cinnamon, lavender, winter savory, tea tree, camphor tree, plac
+- NCT06058312 | COMPLETED | results=False | NA | Individual Food Preferences for the Mediterranean Diet in Cancer Patients | conds: Neoplasms | intr: Self-questionnaire, Self-questionnaire, Self-questionnaire, Self-questionnaire | pubs: ['42576055:RESULT (new)']
+
+### OpenAlex no-PMID trial-worded - 1796 hits, 33 without PMID, 33 new
+- new | 2026 | 10.5281/zenodo.24290721 | article | Cassia Cinnamon (Cinnamomum cassia): Blood Sugar and Safety | Zenodo (CERN European Organization for N
+- new | 2025 | 10.1016/j.prenap.2025.100340 | review | Mechanistic and clinical insights into the antidiabetic potential of Cinnamomum cassia: A review | Pharmacological Research - Natural Produ
+- new | 2025 | 10.30867/action.v10i2.2261 | article | Effects of cinnamon extract on blood sugar levels of type 2 diabetes mellitus patients: Randomized Controlled Trial (RCT) | AcTion Aceh Nutrition Journal
+- new | 2024 | 10.22271/flora.2024.v12.i4a.938 | article | A clinical study on subclinical hypothyroidism and its management with an extract of Jawarish e Bisbasa formulation: A randomized double-blind placebo-controlled clinical trial | International Journal of Herbal Medicine
+- new | 2024 | 10.9734/ajb2t/2024/v10i1197 | article | Genetic Diversity Study of Cinnamomum cassia Blume Using Random Amplified Polymorphic DN A Markers (RAPD) | Asian Journal of Biotechnology and Biore
+- new | 2024 | 10.26443/msurj.v19i1.239 | article | Cinnamomum cassia and Origanum compactum Essential Oils as Antifungal Candidates for the Treatment of Aspergillosis | McGill Science Undergraduate Research Jo
+- new | 2023 | 10.1201/9781032693408-20 | book-chapter | The potential of Cinnamomum cassia in lowering blood sugar levels in patients with type 2 diabetes mellitus | CRC Press eBooks
+- new | 2023 | 10.3390/j6030033 | article | Effect on Weight Loss of an Oral Supplement Containing Cinnamon Bark (Cinnamomum cassia) and Withania somnifera in Adult Patients with Overweight and Obesity: A Pilot Study | J — Multidisciplinary Scientific Journal
+- new | 2023 | 10.1007/s11557-023-01878-5 | article | Fungal and bacterial endophytes antagonistic to Phytophthora species causing root rot in Cinnamomum cassia | Mycological Progress
+- new | 2022 | 10.1016/j.hermed.2022.100617 | article | Evaluation of a new herbal formulation (Viabet®) efficacy in patients with type 2 diabetes as an adjuvant to metformin: A randomized, triple-blind, placebo-controlled clinical tria | Journal of Herbal Medicine
+- new | 2022 | 10.1016/j.diabres.2022.109574 | article | Cinnamon as an enhancer of IGF-1 insulin response and metabolic control in patients with DM2 without glycemic control | Diabetes Research and Clinical Practice
+- new | 2022 | 10.1101/2022.03.24.485625 | preprint | Antifungal activity of Cinnamomum cassia and Origanum compactum essential oils against Aspergillus oryzae | bioRxiv (Cold Spring Harbor Laboratory)
+- new | 2022 | 10.38150/sajeb.12(3).p285-289 | article | Phytochemical Constituents and Anticogulant Activities of Trigonella Foenum Graecum L. and Cinnamomum Cassia L. Extracts | South Asian Journal of Experimental Biol
+- new | 2021 | 10.1186/s13765-021-00661-y | article | Potential and beneficial effects of Cinnamomum cassia on gastritis and safety: Literature review and analysis of standard extract | Applied Biological Chemistry
+- new | 2021 | 10.32404/rean.v8i3.6161 | article | EXTRACTS OF CINNAMON (Cinnamomum cassia) AND MINT (Mentha arvensis) FOR THE FUNGI CONTROL OF Sclerotinia sclerotiorum | REVISTA DE AGRICULTURA NEOTROPICAL
+- new | 2020 | 10.7231/jon.2020.31.3.135 | article | Effect of Sihogayonggolmoryeo-Tang on Hwa-byung: A Multicenter, Randomized, Double-Blinded, Placebo-Control Trial | Journal of Oriental Neuropsychiatry
+- new | 2020 | 10.3889/oamjms.2020.3311 | article | The use of Cinnamon (Cinnamomum Bark) for Patients with Chronic Prostatitis/Chronic Pelvic Pain Syndrome: A Randomized Controlled Trial | Open Access Macedonian Journal of Medica
+- new | 2019 | 10.21203/rs.2.12201/v1 | preprint | Safety and efficacy of Jiaotai Wan in patients with depression: study protocol for a randomised controlled trial | Research Square
+- new | 2019 | 10.21203/rs.2.12201/v2 | preprint | Safety and Efficacy of Jiaotai Wan in Patients with Depression: Study Protocol for a Randomized Controlled Trial | Research Square
+- new | 2019 | 10.1002/central/cn-01661693 | article | Oral Administration of Cinnamomum Cassia as an Enhancer of the Insulin Response of IGF1 and Metabolic Control in Patients With DM2 Without Glycemic Control Treated With Metformin D | 
+- new | 2019 | 10.25081/josac.2019.v28.i1.5743 | article | Evaluation of coumarin content and essential oil constituents in Cinnamomum cassia (Nees & T. Nees) J. Presl. | Journal of Spices and Aromatic Crops
+- new | 2019 | https://openalex.org/W2972555238 | conference-paper | ANTIDIABETIC EFFECT OF COMBINED CINNAMOMUM CASSIA EXTRACT AND METFORMIN IN RATS | Proceedings of the International Confere
+- new | 2017 | 10.28933/jhmr-2017-09-1001 | article | Effects of Cinnamon on Blood Glucose Level and Lipid Profile in Syrian Type 2 Diabetes Patients | Journal of Herbal Medicine Research
+- new | 2015 | https://openalex.org/W2554593802 | article | Effect of Cinnamomum Cassia on Lipid Profile of Apparently Healthy Subjects | 
+- new | 2015 | 10.3389/conf.fgene.2015.01.00006 | article | An investigation of the effects of Cinnamomum cassia bark extracts on oxidative DNA damage and possible cytotoxic and apoptotic activities in transformed/untransformed cell lines f | Frontiers in Genetics
+- new | 2015 | https://openalex.org/W2483443595 | article | EFFECT OF CINNAMON (CINNAMOMUM CASSIA) INTERVENTION ON METABOLICFEATURES OF ADULT MALE WITH TYPE 2 DIABETES | International Journal of Pharma and Bio 
+- new | 2014 | 10.1016/j.jtcms.2014.11.010 | article | Chinese herbal medicine for chronic heart failure: a multicenter, randomized, double-blind, placebo-controlled trial | Journal of Traditional Chinese Medical S
+- new | 2014 | 10.5958/0974-181x.2014.01349.3 | article | Effect of Cinnamon (Cinnamomum cassia) Powder as a Phytobiotic Growth Promoter in Commercial Broiler Chickens | Animal Nutrition and Feed Technology
+- new | 2013 | 10.3329/jemc.v3i2.16132 | article | Effect of Cinnamon (Cinnamomum cassia) as a Lipid Lowering Agent on Hypercholesterolemic Rats | Journal of Enam Medical College
+- new | 2012 | https://openalex.org/W2292139344 | article | Atividade Antifúngica e Alterações Morfológicas Induzidas pelo Óleo Essencial de Cinnamomum cassia frente Cepas de Candida albicans Isoladas de Pacientes HIV Positivos Antifungal A | 
+- new | 2010 | 10.17485/ijst/2010/v3i10.8 | article | Molecular docking study of bark-derived components of Cinnamomum cassia on aldose reductase | Indian Journal of Science and Technology
+- new | 2008 | 10.1055/s-2008-1076396 | article | Auswirkung eines wässrigen Zimt Extrakts im Vergleich zu Placebo auf die Stoffwechseleinstellung bei gesunden adipösen Probanden mit erhöhtem Risiko zur Entwicklung des Metabolisch | Diabetologie und Stoffwechsel
+- new | 2004 | 10.1211/fact.2004.00088 | article | Is Cinnamomum cassia (cinnamon) beneficial for type 2 diabetes patients? | Focus on Alternative and Complementary T
+
+## cinnamomum-verum (Cinnamomum verum) - name clause: "Cinnamomum verum"[tiab] OR "Cinnamomum zeylanicum"[tiab] OR "Ceylon cinnamon"[tiab] OR "true cinnamon"[tiab]
+
+### PubMed HT - 47 hits, 47 not already listed above, 43 new
+- new | 2026 | 42940272 |  | A Novel Functional Food Mix Attenuates Obesity Through Inhibition of Aldose Reductase, Advanced Glycation End-Products. | Foods
+- new | 2026 | 42563195 |  | The effect of sumac and cinnamon on lipid profile and quality of life in patients with acute myocardial infarction, type 2 diabetes, and overweight/obesity: study protocol for a ra | Cardiovasc Diabetol Endocrinol Rep
+- new | 2026 | 43030759 | Review | Essential Oils and Plant-Derived Volatile Compounds in the Treatment of Oral Candidiasis: A Systematic Review of Randomized Controlled Trials in Denture Stomatitis. | J Clin Med
+- new | 2026 | 43011454 |  | A Curcumin-Based Polyherbal Slow-Dissolving Buccal Lozenge (CBFP-ODS) and Changes in Gingival Inflammation, Plaque Accumulation, Bleeding on Probing and Oral Malodour: A 12-Week Pr | Int J Dent
+- new | 2026 | 42841356 | Randomized Controlled Trial | Effects of Tabata-style functional training and cinnamon supplementation on army combat fitness test performance, serum irisin, and body composition in military cadets: a randomize | J Int Soc Sports Nutr
+- new | 2026 | 41539457 | Systematic Review/Meta-Analysis | Assessing the safety of herbal medicine use among type 2 diabetes mellitus patients: A systematic review and meta-analysis. | Complement Ther Med
+- new | 2025 | 41412108 | Randomized Controlled Trial | Efficacy and Safety of Cinnamomum zeylanicum (Ceylon cinnamon) for diabetes mellitus: a randomized, double blind, placebo-controlled clinical trial. | Diabetes Metab Syndr
+- HELD REF-2413 | 2025 | 39854533 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Cinnamomum zeylanicum (Ceylon cinnamon) extract on lipid profile, glucose levels and its safety in adults: A randomized, double-blind, controlled trial. | PLoS One
+- new | 2025 | 39692609 |  | Cinnamon (Cinnamomum zeylanicum) Aqueous Extract Regulates the Parameters of Metabolic Syndrome in a Model of Wistar Rats with a Diet High in Fat and Fructose. | J Med Food
+- HELD REF-3506 | 2025 | 40667904 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of cinnamon in reducing anthropometric measurements in individuals with type 2 diabetes: a clinical trial. | Rev Bras Enferm [eng,por]
+- new | 2025 | 39936792 |  | Epidemiological, clinical, and obstetrical profile of women who used medicinal plants during labor and delivery: a retrospective survey in the Guelmim-Oued Noun region, Morocco. | Braz J Biol
+- new | 2025 | 39764473 |  | The prevalence of herbal medicine use and related factors among diabetic patients in Tabriz, Iran, 2023: a cross-sectional study. | J Diabetes Metab Disord
+- new | 2024 | 38257142 | Randomized Controlled Trial | Effectiveness of a Food Supplement Based on Glucomannan, D-Chiro-Inositol, Cinnamomum zeylanicum Blume and Inulin in Patients with Metabolic Syndrome. | Nutrients
+- new | 2023 | 36938283 |  | Efficacy of Young Cinnamomum zeylanicum Blume Bark on Hyperglycemia and PTPase Activity in Type 2 Diabetes. | Cureus
+- new | 2023 | 37485104 |  | Antimicrobial Efficacy of Essential Oils and Their Combination Against Microorganisms Associated With Postradiation Therapy in Patients With Head and Neck Cancer: An In Vitro Study | Cureus
+- new | 2022 | 36523331 |  | A comparison of the effects of cinnamon, ginger, and metformin consumption on metabolic health, anthropometric indices, and sexual hormone levels in women with poly cystic ovary sy | Front Nutr
+- new | 2022 | 37304222 |  | Evaluation of the Effectiveness of an Herbal Formulation of Boswellia sacra Flueck. In Improving Cognitive and Behavioral Symptoms in Patients with Cognitive Impairment and Alzheim | J Res Pharm Pract
+- new | 2022 | 35791468 |  | Activity of plant essential oils against antibiotic resistant Enterococcus faecalis isolated from diarrheic children. | Pak J Pharm Sci
+- new | 2021 | 34093719 |  | Evaluation of the Effectiveness of Cinnamon Oil Soft Capsule in Patients with Functional Dyspepsia: A Randomized Double-Blind Placebo-Controlled Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2021 | 33475184 | Randomized Controlled Trial | Efficacy of essential oil of cinnamon for the treatment of oral candidiasis: A randomized trial. | Spec Care Dentist
+- new | 2021 | 34602412 | Randomized Controlled Trial | Analysis of Unani coded formulation on the hormonal parameters of patients with polycystic ovarian syndrome. | Pak J Pharm Sci
+- new | 2020 | 31895796 | Clinical Trial Protocol | Analysis of the effectiveness of cinnamon (Cinnamomum verum) in the reduction of glycemic and lipidic levels of adults with type 2 diabetes: A study protocol. | Medicine (Baltimore)
+- new | 2020 | 33224329 |  | The effect of clomiphene citrate, herbal mixture, and herbal mixture along with clomiphene citrate on clinical and para-clinical parameters in infertile women with polycystic ovary | Arch Med Sci
+- new | 2019 | 31741280 | Review | A comprehensive review of clinical studies with herbal medicine on polycystic ovary syndrome (PCOS). | Daru
+- new | 2019 | 30670254 | Meta-Analysis/Systematic Review | Effect of cinnamon (Cinnamomum Zeylanicum) supplementation on serum C-reactive protein concentrations: A meta-analysis and systematic review. | Complement Ther Med
+- new | 2019 | 31780001 | Randomized Controlled Trial | A randomized, double-blind placebo-controlled study of intranasal standardized cinnamon bark extract for seasonal allergic rhinitis. | Complement Ther Med
+- new | 2018 | 30391934 |  | Medicinal plants' use among patients with dyslipidemia: an Iranian cross-sectional survey. | J Complement Integr Med
+- new | 2018 | 30271713 |  | Study of the effect of the herbal composition SR2004 on hemoglobin A1c, fasting blood glucose, and lipids in patients with type 2 diabetes mellitus. | Integr Med Res
+- new | 2017 | 28685911 | Pragmatic Clinical Trial/Randomized Controlled Trial | Combined Lifestyle and Herbal Medicine in Overweight Women with Polycystic Ovary Syndrome (PCOS): A Randomized Controlled Trial. | Phytother Res
+- new | 2017 | 29282046 | Clinical Trial, Phase I | Evaluation of pharmacodynamic properties and safety of Cinnamomum zeylanicum (Ceylon cinnamon) in healthy adults: a phase I clinical trial. | BMC Complement Altern Med
+- new | 2017 | 28962661 | Clinical Trial, Phase II/Clinical Trial, Phase III/Randomized Controlled Trial | Cinnamomum zeylanicum (Ceylon cinnamon) as a potential pharmaceutical agent for type-2 diabetes mellitus: study protocol for a randomized controlled trial. | Trials
+- new | 2017 | 28546803 |  | Effect of Tribulus terrestris, ginger, saffron, and Cinnamomum on menopausal symptoms: a randomised, placebo-controlled clinical trial. | Prz Menopauzalny
+- HELD REF-2586 | 2016 | 27000311 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dietary supplements for dysmenorrhoea. | Cochrane Database Syst Rev
+- new | 2016 | 27618575 | Review/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Do Cinnamon Supplements Have a Role in Glycemic Control in Type 2 Diabetes? A Narrative Review. | J Acad Nutr Diet
+- new | 2014 | 25249234 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute effect of Ceylon cinnamon extract on postprandial glycemia: alpha-amylase inhibition, starch tolerance test in rats, and randomized crossover clinical trial in healthy volunt | BMC Complement Altern Med
+- new | 2014 | 24891745 |  | Comparison of antimicrobial activity of essential oils, plant extracts and methylparaben in cosmetic emulsions: 2 months study. | Indian J Microbiol
+- new | 2013 | 24148965 | Systematic Review | Medicinal properties of 'true' cinnamon (Cinnamomum zeylanicum): a systematic review. | BMC Complement Altern Med
+- new | 2013 | 24383002 |  | Antihyperlipidemic effect of a polyherbal mixture in streptozotocin-induced diabetic rats. | J Lipids
+- new | 2012 | 22007625 | Review | Bioactivity of cinnamon with special emphasis on diabetes mellitus: a review. | Int J Food Sci Nutr
+- HELD REF-3505 | 2012 | 21929834 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ceylon cinnamon does not affect postprandial plasma glucose or insulin in subjects with impaired glucose tolerance. | Br J Nutr
+- new | 2012 | 22196568 |  | Complementary and alternative medicine use amongst Palestinian diabetic patients. | Complement Ther Clin Pract
+- new | 2011 | 21899741 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of cinnamon on gastric emptying, arterial stiffness, postprandial lipemia, glycemia, and appetite responses to high-fat breakfast. | Cardiovasc Diabetol
+- new | 2009 | 19275687 | Systematic Review | A systematic review of the potential herbal sources of future drugs effective in oxidant-related diseases. | Inflamm Allergy Drug Targets
+- new | 2009 | 19930003 | Review | The potential of cinnamon to reduce blood glucose levels in patients with type 2 diabetes and insulin resistance. | Diabetes Obes Metab
+- new | 2008 | 18625073 | Randomized Controlled Trial | Clinical and biochemical effects of a combination botanical product (ClearGuard) for allergy: a pilot randomized double-blind placebo-controlled trial. | Nutr J
+- new | 2007 | 18066129 | Research Support, Non-U.S. Gov't/Systematic Review | From type 2 diabetes to antioxidant activity: a systematic review of the safety and efficacy of common and cassia cinnamon bark. | Can J Physiol Pharmacol
+- new | 1996 | 8874667 | Clinical Trial | In vitro activity of Cinnamomum zeylanicum against azole resistant and sensitive Candida species and a pilot study of cinnamon for oral candidiasis. | Am J Chin Med
+
+### PubMed SR - 24 hits, 16 not already listed above, 13 new
+- new | 2026 | 42027672 | Review | Prospection of plant-based bio-insecticides for mosquito vector control in Tanzania: A comprehensive review. | Parasite Epidemiol Control
+- new | 2025 | 41583311 | Review | Hepatoprotective Evidence for the Individual Ingredients of a Standardized Sri Lankan Polyherbal Formulation: A Scoping Review. | Cureus
+- new | 2025 | 39921369 | Scoping Review | Treatments of psychosomatic symptoms in Alzheimer's disease: a scoping review of the potential therapeutic effects of essential oils. | Psychogeriatrics
+- new | 2024 | 38466959 | Systematic Review | A Systematic Review Evaluating Cinnamon's Effects on Glucose Utilizing a Ranking System to Assess Bias and Study Quality. | J Med Food
+- new | 2024 | 39110055 | Systematic Review | Medicinal Plants Cultivated in Egypt with Antiviral Potential: A Systematic Review. | Altern Ther Health Med
+- new | 2024 | 38538551 | Systematic Review | Antimicrobial activity of essential oils against biofilms formed in dental acrylic resin: a systematic review of in vitro studies. | Biofouling
+- new | 2022 | 35234023 | Systematic Review/Research Support, Non-U.S. Gov't | The most important medicinal plants affecting sperm and testosterone production: a systematic review. | JBRA Assist Reprod
+- new | 2022 | 35332625 | Meta-Analysis/Review | Meta-analysis of the antifungal activities of three essential oils as alternative therapies in dermatophytosis infections. | J Appl Microbiol
+- new | 2021 | 33498387 |  | Use of New Glycerol-Based Dendrimers for Essential Oils Encapsulation: Optimization of Stirring Time and Rate Using a Plackett-Burman Design and a Surface Response Methodology. | Foods
+- new | 2020 | 33488385 | Review | A Systematic Review of Plants With Antibacterial Activities: A Taxonomic and Phylogenetic Perspective. | Front Pharmacol
+- new | 2019 | 30932202 | Systematic Review | Therapeutic potential of medicinal plants for the management of urinary tract infection: A systematic review. | Clin Exp Pharmacol Physiol
+- new | 2018 | 29744355 | Systematic Review | Herbal Medicine for Oligomenorrhea and Amenorrhea: A Systematic Review of Ancient and Conventional Medicine. | Biomed Res Int
+- HELD REF-3504 | 2013 | 23157193 | Letter/Comment | Efficacy and safety of 'true' cinnamon (Cinnamomum zeylanicum) as a pharmaceutical agent in diabetes: a systematic review and meta-analysis. | Diabet Med
+- new | 2013 | 23350728 | Letter/Comment | Response to Akilen et al. Efficacy and safety of 'true' cinnamon (Cinnamomum zeylanicum) as a pharmaceutical agent in diabetes: a systematic review and meta-analysis. | Diabet Med
+- HELD REF-3499 | 2012 | 22579946 | Meta-Analysis/Systematic Review | Cinnamon in glycaemic control: Systematic review and meta analysis. | Clin Nutr
+- HELD REF-3504 | 2012 | 22671971 | Meta-Analysis/Systematic Review | Efficacy and safety of 'true' cinnamon (Cinnamomum zeylanicum) as a pharmaceutical agent in diabetes: a systematic review and meta-analysis. | Diabet Med
+
+### PubMed SAFE - 121 hits, 92 not already listed above, 92 new
+- new | 2027 | 42503323 |  | Embryotoxicity and teratogenicity of the aqueous extract of Cinnamomum verum in zebrafish (Danio rerio): a concentration-dependent developmental toxicity assessment. | J Ethnopharmacol
+- new | 2026 | 41784670 |  | Protective role of dietary cinnamon (Cinnamomum zeylancium) against waterborne lead toxicity in Labeo rohita. | Fish Physiol Biochem
+- new | 2026 | 42116688 |  | NMR-based metabolomics of Indonesian jamu for diabetes: chemical composition, toxicity, and zebrafish behavioral impact. | Nat Prod Res
+- new | 2026 | 41521415 |  | Acute and subacute toxicity evaluation of a polyherbal blend in rats. | Drug Chem Toxicol
+- new | 2026 | 41622703 | Research Support, Non-U.S. Gov't | Pharmacokinetic Evaluation of a Cinnamon Product on CYP2A6 Substrate Drugs: Application of a Novel Tool Involving the Nicotine Metabolite Ratio. | Clin Pharmacol Ther
+- new | 2026 | 42042315 |  | Comparative Molecular Docking and Pharmacokinetic Profiling of Cinnamic Acid and Oleic Acid from Cinnamomum verum as Potential Inhibitors of Dengue Virus Proteins. | Infect Dis Rep
+- new | 2026 | 41901219 |  | Optimization of Thyme, Cinnamon, and Black Seed Oil Combinations for Enhanced Antibacterial and Antioxidant Efficacy: Mixture Design and In Silico Insights. | Pharmaceuticals (Basel)
+- new | 2025 | 38698173 |  | Recuperative Effects of Cinnamon (Cinnamomum zeylanicum) in Catla catla After Sub-Lethal Exposure to Lead. | Biol Trace Elem Res
+- new | 2025 | 39761621 |  | Molecular interaction profiling and binding dynamics of Cinnamomum zeylanicum phytochemicals with human pancreatic amylase. | J Mol Graph Model
+- new | 2025 | 40319007 | Review | Potential of Cinnamomum zeylanicum for metabolic syndrome management: insights from in vivo and human studies. | J Integr Med
+- new | 2025 | 38695857 |  | Antimicrobial activity of Cinnamomum zeylanicum essential oil against colistin-resistant gram-negative bacteria. | Int J Environ Health Res
+- new | 2025 | 40316790 | Review | Preliminary Assessment of Essential and Potentially Toxic Elements in the Most Common Spices in a Developing Country: Health Hazard Implication. | Biol Trace Elem Res
+- new | 2025 | 40191975 | Review | Harnessing plant metabolic pathways for innovative diabetes management: unlocking the therapeutic potential of medicinal plants. | Plant Signal Behav
+- new | 2025 | 41287595 | Review | Persian Medicinal Plants as Antidiabetic Agents: Mechanisms and Evidence from Bench to Bedside . | Iran Biomed J
+- new | 2025 | 41601949 |  | Cinnamomum verum extract as a potential therapeutic for atopic dermatitis through reducing lipid peroxidation and oxidative stress. | Front Pharmacol
+- new | 2025 | 40072751 |  | Integrative approach to decipher pharmacological mechanism of Cinnamomum zeylanicum essential oil in prostate cancer. | Med Oncol
+- new | 2025 | 39897779 |  | The effects of wheat and yam flour diets on the toxicity of three botanical extracts to Tribolium castaneum (Herbst) and the underlying biochemical mechanisms. | Heliyon
+- new | 2024 | 38266436 |  | Application of HPLC-UV combined with chemometrics for the detection and quantification of 'true cinnamon' adulteration. | Talanta
+- new | 2024 | 38958374 |  | Investigation of the Antitrichomonal Activity of Cinnamaldehyde, Carvacrol and Thymol and Synergy with Metronidazole. | Turkiye Parazitol Derg
+- new | 2024 | 38257341 |  | Screening of Multitarget Compounds against Acetaminophen Hepatic Toxicity Using In Silico, In Vitro, and In Vivo Approaches. | Molecules
+- new | 2024 | 38952927 |  | Bioinspired chitosan based functionalization of biomedical implant surfaces for enhanced hemocompatibility, antioxidation and anticoagulation potential: an in silico and in vitro s | RSC Adv
+- new | 2023 | 38628881 | Review | Herbal Treatment of COPD and Asthma According to Persian Medicine: a Review of Current Evidence. | Tanaffos
+- new | 2023 | 37638214 |  | Cinnamon modulates the pharmacodynamic & pharmacokinetic of amlodipine in hypertensive rats. | Saudi Pharm J
+- new | 2023 | 36736268 |  | Evaluation of on-site testing methods with a novel 3-in-1 miniaturized spectroscopic device for cinnamon screening. | Talanta
+- new | 2023 | 37658788 |  | Cheminformatics and systems pharmacology approaches to unveil the potential plant bioactives to combat COVID-19. | J Mol Recognit
+- new | 2023 | 37789780 |  | The effects of Rhus coriaria L. (sumac) and Cinnamomum zeylanicum L. bark on serum cytokine levels in rat mammary carcinogenesis. | Neoplasma
+- new | 2023 | 36779418 |  | Investigating the effects of Ceylon cinnamon water extract on HepG2 cells for Type 2 diabetes therapy. | Cell Biochem Funct
+- new | 2023 | 36746998 | Research Support, Non-U.S. Gov't | Ovicidal toxicity of plant essential oils and their major constituents against two mosquito vectors and their non-target aquatic predators. | Sci Rep
+- new | 2022 | 36322571 |  | Comparison of the push-out bond strength of AH Plus sealer to dentin after using different herbal irrigation solutions as the final rinse. | PLoS One
+- new | 2022 | 35928277 |  | Irrational Use of Selected Herbal Medicines During Pregnancy: A Pharmacoepidemiological Evidence From Yemen. | Front Pharmacol
+- new | 2022 | 35299906 |  | Efficacy of Zingiber officinale and Cinnamomum zeylanicum extracts against experimental Trichinella spiralis infection. | J Parasit Dis
+- new | 2022 | 35056122 | Review | Some Common Medicinal Plants with Antidiabetic Activity, Known and Available in Europe (A Mini-Review). | Pharmaceuticals (Basel)
+- new | 2022 | 35755846 |  | Therapeutic Potential and Safety of the Cinnamomum zeylanicum Methanolic Extract Against Chronic Toxoplasma gondii Infection in Mice. | Front Cell Infect Microbiol
+- new | 2022 | 35784810 |  | A Nanoliposomal Gel Containing Cinnamomum zeylanicum Essential Oil with Effective Repellent against the Main Malaria Vector Anopheles stephensi. | Interdiscip Perspect Infect Dis
+- new | 2022 | 36304835 |  | Safety and efficacy of feed additives consisting of essential oils from the bark and the leaves of Cinnamomum verum J. Presl (cinnamon bark oil and cinnamon leaf oil) for use in al | EFSA J
+- new | 2022 | 35146405 |  | Cinnamomum verum-derived bioactives-functionalized gold nanoparticles for prevention of obesity through gut microbiota reshaping. | Mater Today Bio
+- new | 2022 | 35884202 |  | Investigating the Antituberculosis Activity of Selected Commercial Essential Oils and Identification of Active Constituents Using a Biochemometrics Approach and In Silico Modeling. | Antibiotics (Basel)
+- new | 2021 | 34068642 |  | In Vitro Activity of Several Essential Oils Extracted from Aromatic Plants against Ascosphaera apis. | Vet Sci
+- new | 2021 | 34563952 | Review | Cinnamon and its possible impact on COVID-19: The viewpoint of traditional and conventional medicine. | Biomed Pharmacother
+- new | 2021 | 33995027 |  | Pharmacokinetic Profile and Oral Bioavailability of Diosgenin, Charantin, and Hydroxychalcone From a Polyherbal Formulation. | Front Pharmacol
+- new | 2021 | 34934461 |  | Safety and efficacy of a feed additive consisting of a tincture from the bark of Cinnamomum verum J. Presl (cinnamon tincture) for use in all animal species (FEFANA asbl). | EFSA J
+- new | 2021 | 34632145 |  | Computational study and in vitro alpha-glucosidase inhibitory effects of medicinal plants from a Thai folk remedy. | Heliyon
+- new | 2021 | 33418920 |  | Cinnamon Aqueous Extract Attenuates Diclofenac Sodium and Oxytetracycline Mediated Hepato-Renal Toxicity and Modulates Oxidative Stress, Cell Apoptosis, and Inflammation in Male Al | Vet Sci
+- new | 2021 | 33468193 |  | A combination of herbal compound (SPTC) along with exercise or metformin more efficiently alleviated diabetic complications through down-regulation of stress oxidative pathway upon | Nutr Metab (Lond)
+- new | 2020 | 33194379 |  | In vitro anti-diabetic effects and phytochemical profiling of novel varieties of Cinnamomum zeylanicum (L.) extracts. | PeerJ
+- new | 2020 | 32406267 |  | Surface-Enhanced Raman Spectroscopy for Rapid Screening of Cinnamon Essential Oils. | Appl Spectrosc
+- new | 2020 | 32204409 |  | Chemopreventive and Therapeutic Efficacy of Cinnamomum zeylanicum L. Bark in Experimental Breast Carcinoma: Mechanistic In Vivo and In Vitro Analyses. | Molecules
+- new | 2020 | 32069976 |  | Antimicrobial Activity of Essential Oils against Staphylococcus and Malassezia Strains Isolated from Canine Dermatitis. | Microorganisms
+- new | 2020 | 32997002 |  | Effect of Cinnamomum verum leaf essential oil on virulence factors of Candida species and determination of the in-vivo toxicity with Galleria mellonella model. | Mem Inst Oswaldo Cruz
+- new | 2020 | 31573731 | Research Support, Non-U.S. Gov't | Cinnamon extract inhibits allergen-specific immune responses in human and murine allergy models. | Clin Exp Allergy
+- new | 2020 | 32116721 |  | Public Knowledge, Attitude, and Practice on Herbal Remedies Used During Pregnancy and Lactation in West Bank Palestine. | Front Pharmacol
+- new | 2020 | 32435433 |  | Evaluation of the effect of hydro alcoholic extract of cinnamon on herpes simplex virus-1. | Dent Res J (Isfahan)
+- new | 2020 | 33304102 |  | In-vitro Antimicrobial Activity of Essential Oils and Spices Powder of some Medicinal Plants Against Bacillus Species Isolated from Raw and Processed Meat. | Infect Drug Resist
+- new | 2019 | 31266146 |  | Evaluation and Comparison of Antibacterial Efficacy of Herbal Extracts in Combination with Antibiotics on Periodontal pathobionts: An in vitro Microbiological Study. | Antibiotics (Basel)
+- new | 2019 | 30551486 |  | Protective effects of Cinnamomum zeylanicum L. (Darchini) in acetaminophen-induced oxidative stress, hepatotoxicity and nephrotoxicity in mouse model. | Biomed Pharmacother
+- new | 2019 | 30392171 |  | Protective effect of cinnamon against acetaminophen-mediated cellular damage and apoptosis in renal tissue. | Environ Sci Pollut Res Int
+- new | 2019 | 31598360 |  | Improvement in histology, enzymatic activity, and redox state of the liver following administration of Cinnamomum zeylanicum bark oil in rats with established hepatotoxicity. | Anat Cell Biol
+- new | 2019 | 30994004 |  | Protective effect of essential oil of Cinnamomum verum bark on hepatic and renal toxicity induced by carbon tetrachloride in rats. | Appl Physiol Nutr Metab
+- new | 2018 | 30444910 | Research Support, Non-U.S. Gov't | Toxicity to, oviposition and population growth impairments of Callosobruchus maculatus exposed to clove and cinnamon essential oils. | PLoS One
+- new | 2018 | 29542427 | Research Support, Non-U.S. Gov't | Evaluation of Herb-Drug Interaction of Synacinn™ and Individual Biomarker through Cytochrome 450 Inhibition Assay. | Drug Metab Lett
+- new | 2018 | 29417554 |  | Toxicity and growth inhibition potential of vetiver, cinnamon, and lavender essential oils and their blends against larvae of the sheep blowfly, Lucilia sericata. | Int J Dermatol
+- new | 2018 | 30005688 |  | Synergy in the adulticidal efficacy of essential oils for the improvement of permethrin toxicity against Aedes aegypti L. (Diptera: Culicidae). | Parasit Vectors
+- new | 2018 | 29338637 |  | Selected plant essential oils and their main active components, a promising approach to inhibit aflatoxigenic fungi and aflatoxin production in food. | Food Addit Contam Part A Chem Anal Contr
+- new | 2017 | 28872206 | Case Reports | Generalized systemic allergic dermatitis caused by Cinnamomum zeylanicum in a herbal tea. | Contact Dermatitis
+- new | 2017 | 29142428 |  | In vitro Protoscolicidal Effects of Cinnamomum zeylanicum Essential Oil and Its Toxicity in Mice. | Pharmacogn Mag
+- new | 2017 | 28182286 |  | Maternal cinnamon extract intake during lactation leads to sex-specific endocrine modifications in rat offspring. | J Sci Food Agric
+- new | 2017 | 28583316 |  | Formulation development and evaluation of antimicrobial polyherbal gel. | Ann Pharm Fr
+- new | 2017 | 28525761 |  | Impact of bioactive packaging systems based on EVOH films and essential oils in the control of aflatoxigenic fungi and aflatoxin production in maize. | Int J Food Microbiol
+- new | 2016 | 27041871 | Review | Review of Scientific Evidence of Medicinal Convoy Plants in Traditional Persian Medicine. | Pharmacogn Rev
+- new | 2016 | 27231935 |  | Cuminaldehyde from Cinnamomum verum Induces Cell Death through Targeting Topoisomerase 1 and 2 in Human Colorectal Adenocarcinoma COLO 205 Cells. | Nutrients
+- new | 2016 | 27113744 |  | Discovery of a Novel Anti-Cancer Agent Targeting Both Topoisomerase I & II as Well as Telomerase Activities in Human Lung Adenocarcinoma A549 Cells In Vitro and In Vivo: Cinnamomum | Curr Cancer Drug Targets
+- new | 2016 | 26918037 |  | Molecular Mechanism of Cinnamomum verum Component Cuminaldehyde Inhibits Cell Growth and Induces Cell Death in Human Lung Squamous Cell Carcinoma NCI-H520 Cells In Vitro and In Viv | J Cancer
+- new | 2016 | 26676220 |  | Cinnamomum verum Component 2-Methoxycinnamaldehyde: A Novel Anticancer Agent with Both Anti-Topoisomerase I and II Activities in Human Lung Adenocarcinoma A549 Cells In Vitro and I | Phytother Res
+- new | 2016 | 26792981 | Research Support, Non-U.S. Gov't | Discovery of a novel anticancer agent with both anti-topoisomerase I and II activities in hepatocellular carcinoma SK-Hep-1 cells in vitro and in vivo: Cinnamomum verum component 2 | Drug Des Devel Ther
+- new | 2016 | 26707867 | Research Support, Non-U.S. Gov't | Discovery of a novel anti-cancer agent targeting both topoisomerase I and II in hepatocellular carcinoma Hep 3B cells in vitro and in vivo: Cinnamomum verum component 2-methoxycinn | J Drug Target
+- new | 2015 | 26124607 |  | Evaluation of an Indigenously Prepared Herbal Extract (EndoPam) as an Antimicrobial Endodontic Irrigant: An Ex Vivo Study. | J Int Oral Health
+- new | 2015 | 25712056 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Nrf2-dependent suppression of azoxymethane/dextran sulfate sodium-induced colon carcinogenesis by the cinnamon-derived dietary factor cinnamaldehyde. | Cancer Prev Res (Phila)
+- new | 2015 | 25504814 | Research Support, Non-U.S. Gov't | Anti-allergic effect of intranasal administration of type-A procyanidin polyphenols based standardized extract of cinnamon bark in ovalbumin sensitized BALB/c mice. | Phytother Res
+- new | 2014 | 26045373 |  | Toxicity studies on herbal formulation used in diabetes mellitus. | Pak J Pharm Sci
+- new | 2014 | 24621152 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 1: Achillea millefolium-Curcuma longa. | Contact Dermatitis
+- new | 2014 | 25574178 |  | Safety and Tolerability of Essential Oil from Cinnamomum zeylanicum Blume Leaves with Action on Oral Candidosis and Its Effect on the Physical Properties of the Acrylic Resin. | Evid Based Complement Alternat Med
+- new | 2013 | 23627682 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Research Support, U.S. Gov't, P.H.S. | Cassia cinnamon as a source of coumarin in cinnamon-flavored food and food supplements in the United States. | J Agric Food Chem
+- new | 2013 | 23621853 | Research Support, Non-U.S. Gov't | Effect of plant secondary compounds on in vitro methane, ammonia production and ruminal protozoa population. | J Appl Microbiol
+- new | 2013 | 24302936 |  | Preventive effect of cinnamon essential oil on lipid oxidation of vegetable oil. | ARYA Atheroscler
+- new | 2012 | 22928313 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils against Camptomyia corticalis (Diptera: Cecidomyiidae). | J Econ Entomol
+- new | 2012 | 27547174 |  | Hepatoprotective activity of cinnamon ethanolic extract against CCI4-induced liver injury in rats. | EXCLI J
+- new | 2011 | 21324598 | Comparative Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of cassia and cinnamon oils and cinnamaldehyde and structurally related compounds to Dermanyssus gallinae (Acari: Dermanyssidae). | Vet Parasitol
+- new | 2007 | 17661335 |  | The detection of antibacterial actions of whole herb tinctures using luminescent Escherichia coli. | Phytother Res
+- new | 2004 | 15478207 | Research Support, Non-U.S. Gov't | The chemical composition of some Lauraceae essential oils and their antifungal activities. | Phytother Res
+- new | 2002 | 12180942 | Research Support, Non-U.S. Gov't | Fungicidal activity of essential oils of Cinnamomum zeylanicum (L.) and Syzygium aromaticum (L.) Merr et L.M. Perry against crown rot and anthracnose pathogens isolated from banana | Lett Appl Microbiol
+- new | 1998 | 9950084 | Research Support, Non-U.S. Gov't | Toxicity studies in mice of common spices, Cinnamomum zeylanicum bark and Piper longum fruits. | Plant Foods Hum Nutr
+- new | 1984 | 6232942 | Case Reports | Asthma and other symptoms in cinnamon workers. | Br J Ind Med
+
+### PubMed OBS - 7 hits, 1 not already listed above, 1 new
+- new | 2018 | 30237686 |  | Ethnopharmacological Uses and Public Knowledge Regarding Cinnamomum zeylanicum in Khobar, Saudi Arabia. | J Pharm Bioallied Sci
+
+### PubMed REV - 57 hits, 17 not already listed above, 17 new
+- new | 2025 | 41303363 | Review | Medicinal Plants for a Healthy Gut Microbiome: Scientific Insights into Modern Herbal Applications. | Int J Mol Sci
+- new | 2024 | 39200406 | Review | Spicing Up Meat Preservation: Cinnamomum zeylanicum Essential Oil in Meat-Based Functional Foods-A Five-Year Review. | Foods
+- new | 2022 | 36014186 | Review | Chitosan Nanoparticle Encapsulation of Antibacterial Essential Oils. | Micromachines (Basel)
+- new | 2022 | 32837101 | Review | Immunity against COVID-19: Potential role of Ayush Kwath. | J Ayurveda Integr Med
+- new | 2020 | 32357577 | Review | Cinnamon (Cinnamomum zeylanicum) Oil as a Potential Alternative to Antibiotics in Poultry. | Antibiotics (Basel)
+- new | 2020 | 33128525 | Review | Herbal approach for the management of C0VID-19: an overview. | Drug Metab Pers Ther
+- new | 2019 | 31206893 | Review | Medicinal plants in traumatic brain injury: Neuroprotective mechanisms revisited. | Biofactors
+- new | 2019 | 31679236 | Research Support, Non-U.S. Gov't/Review | Cinnamomum zeylanicum (Darchini): A Boon to Medical Science and a Possible Therapy for Stress-Induced Ailments. | Crit Rev Eukaryot Gene Expr
+- new | 2019 | 31309069 | Review | Potential angiotensin converting enzyme (ACE) inhibitors from Iranian traditional plants described by Avicenna's Canon of Medicine. | Avicenna J Phytomed
+- new | 2018 | 29319361 | Review | Cinnamon (Cinnamomum zeylanicum) as an antidote or a protective agent against natural or chemical toxicities: a review. | Drug Chem Toxicol
+- new | 2017 | 30166897 | Review | The antioxidant and antimicrobial activity of essential oils against Pseudomonas spp. isolated from fish. | Saudi Pharm J
+- new | 2016 | 27771918 | Review | Cinnamon and Chronic Diseases. | Adv Exp Med Biol
+- new | 2014 | 24817901 | Review | Cinnamon: a multifaceted medicinal plant. | Evid Based Complement Alternat Med
+- new | 2011 | 21929331 | Review | Chemistry, biogenesis, and biological activities of Cinnamomum zeylanicum. | Crit Rev Food Sci Nutr
+- new | 2006 | 40986675 | Review | Cinnamon. | 
+- new | 2006 | 16491360 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Muscodor albus and its biological promise. | J Ind Microbiol Biotechnol
+- new | 1978 | 363362 | Review | Historical overview of the cinnamon industry. | CRC Crit Rev Food Sci Nutr
+
+### ClinicalTrials.gov - 100 registered studies
+- NCT00371800 | COMPLETED | results=False | PHASE2,PHASE3 | The Effect of Cinnamon on HbA1c Among Adolescents With Type I Diabetes | conds: Type 1 Diabetes Mellitus | intr: cinnamon
+- NCT04339114 | COMPLETED | results=False | NA | Reason to Season; Flavors to Increase Vascular Health | conds: Overweight and Obesity, Healthy | intr: Breakfast: control meal, Breakfast: Cinnamon meal, Breakfast: Italian herbs meal, Breakfast: pumpkin
+- NCT07493603 | RECRUITING | results=False | PHASE1,PHASE2 | A Study on Yiyang Huoluo Decoction in the Treatment of Coronary Heart Disease | conds: Coronary Heart Disease, Coronary Artery Disease, Atheroscleroses | intr: Yiyang Huoluo Decoction, conventional western medicine treatment
+- NCT01301521 | COMPLETED | results=True | NA | Cinnamon Trial-lIfestyle iNtervention Plus Water-soluble Cinnamon Extract On loweriNg Blood Glucose in Pre-diabetics | conds: Diabetes, Pre-Diabetes | intr: water-soluble cinnamon extract (Cinnulin PF) | pubs: ['26732017:DERIVED (new)']
+- NCT01752868 | COMPLETED | results=False | NA | Can Fish Oil and Phytochemical Supplements Mimic Anti-Aging Effects of Calorie Restriction? | conds: Healthy Volunteers | intr: Supplement
+- NCT03098056 | COMPLETED | results=False | NA | Safety and Tolerance of a Nutritional Intervention Program- In.Form 1.2 | conds: Obesity | intr: PROG2
+- NCT04686552 | COMPLETED | results=False | NA | Effect Cinnamon Spice on Postprandial Glucose and Insulin Responses | conds: Normal Weight, Overweight and Obesity | intr: cinnamon | pubs: ['33553233:DERIVED (new)']
+- NCT04259606 | UNKNOWN | results=False | NA | Effect of Cassia Cinnamon on Arterial Stiffness Parameters in Patients With Type 2 Diabetes Mellitus | conds: Arterial Stiffness | intr: Cassia Cinnamon, Calcined magnesia | pubs: ['37262194:DERIVED (HELD REF-3502)']
+- NCT00846898 | COMPLETED | results=False | PHASE2 | Is There a Metabolic Effect of Cinnamon on HbA1c, Blood Pressure and Serum Lipids in Type 2 Diabetes Mellitus? | conds: Type 2 Diabetes Mellitus | intr: cinnamon 2g per day for 12 weeks
+- NCT05570357 | COMPLETED | results=False | NA | Berberine and Cinnamon in Management of Diabetes | conds: Diabetes | intr: Berberine+Cinnamon (TDS), Placebo (TDS)
+- NCT03738657 | UNKNOWN | results=False |  | Gustatory Function Following Radiotherapy to the Head and Neck | conds: Head and Neck Cancer | intr: Olfactory screening, Quantative Gustatory Testing using Taste Strips
+- NCT02486159 | COMPLETED | results=False | NA | The Oligonucleotide Chip Analysis for Allergic Rhinitis Treatment in Herbal Plaster and Acupuncture | conds: Rhinitis, Allergic | intr: Herbal plaster (Sanfujiu), Acupuncture | pubs: ['27814709:DERIVED (new)']
+- NCT06427915 | COMPLETED | results=False | NA | Studying Glucose and Appetite Response With Alternatives to Soda Pop | conds: Healthy Nutrition | intr: OLIPOP prebiotic soda, Traditional sugar-sweetened cola
+- NCT07599930 | RECRUITING | results=False | NA | Impact of a Novel Functional Snack on Perimenopausal Symptoms and Well-being | conds: Perimenopause, Perimenopause-Related Depression, Mood, Sleep | intr: Functional Snacks, Placebo Snacks
+- NCT07740473 | COMPLETED | results=False | NA | Therapeutic Effects of Cinnamon-Enriched Cookies on Hypercholesterolemia and Liver Function | conds: Hyperlipidaemia, Liver Biomarkers, Weight Change | intr: Treatment group T1
+- NCT07615777 | RECRUITING | results=False | NA | Nutritional Supplementation on Physiological and Metabolic Markers in Females | conds: Perimenopausal Women, Body Composition Changes | intr: Nutritional Supplement, Placebo
+- NCT05521243 | COMPLETED | results=False | NA | An Exploratory Investigation of a Supplement to Enhance Sleep Quality and Quantity | conds: Sleep, Sleep Disturbance, Sleep Hygiene | intr: Beam Organics Dream Powder, Beam Organics Dream Powder Extra Strength, Placebo
+- NCT07757724 | COMPLETED | results=False | NA | Chinese Herbal Sachet Therapy for Sleep Quality in Menopausal Women | conds: Sleep Initiation and Maintenance Disorders, Menopause | intr: Traditional Chinese medicine aromatic sachet, Placebo aromatic sachet
+- NCT05855369 | RECRUITING | results=False | PHASE2,PHASE3 | Study of Chemosensory Enhancement Through Neuromodulation Training (SCENT for Long COVID) | conds: Smell Dysfunction, Olfactory Disorder, Long COVID | intr: Trigeminal Nerve Stimulation (TNS), Active Smell Training (ST), Placebo Smell Training (PBO)
+- NCT06199024 | UNKNOWN | results=False | NA | Cinnamon and COH in PCOS Women Underdoing IVF/ICSI Cycles | conds: Polycystic Ovary Syndrome | intr: Oral cinnamon supplementation
+- NCT03926442 | COMPLETED | results=False | NA | Spices, Inflammation and Vascular Response in Humans | conds: Healthy | intr: Italian Herb meal, Cinnamon Meal, Pumpkin Spice meal, Placebo meal | pubs: ['37310415:DERIVED (new)', '35273988:DERIVED (new)']
+- NCT03219411 | COMPLETED | results=False | PHASE2 | Effects of Cinnamon Supplementation on Glucose Metabolism in Patients With Pre-diabetes | conds: Dysglycemia, Obesity | intr: Cinnamon, placebo
+- NCT03813914 | COMPLETED | results=False | NA | A New Supplement for the "Metabolic Syndrome" | conds: Metabolic Syndrome | intr: Sineos
+- NCT07210164 | RECRUITING | results=False | NA | Pre-habilitation Within ERAS Protocol for Gynecologic Oncology Surgery: The Pre_ERAS Study | conds: ERAS, Compliance, Quality of Life (QOL), Excercise | intr: Ocoxin, Structured self-guided exercise
+- NCT05650762 | UNKNOWN | results=False | NA | Controlling Malodour In Fungating Wounds Using A Cinnamon-Based Dressing: Observational Study | conds: Wound | intr: Cinesteam
+- NCT06554873 | COMPLETED | results=False | PHASE3 | Adaptive Use of Nicotine Substitution to Maintain Smoking Reduction/Abstinence in Nicotine Responders | conds: Smoking Cessation, Harm Reduction | intr: Nicoderm, Nicorette 4Mg Chewing Gum, Nicorette Lozenge Product, NJOY e-cigarette
+- NCT05631431 | TERMINATED | results=False | PHASE2 | Evaluation of Efficacy and Safety of Curalin As Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT01148641 | COMPLETED | results=False |  | Acceptability of LNS for Infants and Young Children in Guatemala | conds: Malnutrition | intr: LNS
+- NCT02168335 | COMPLETED | results=False | PHASE2 | The Efficacy of OrasaltsTM in the Treatment of Gingivitis | conds: Gingivitis | intr: OrasaltsTM, Sea salt
+- NCT06327633 | COMPLETED | results=False | NA | Effects of Olfactory Training on the Brain Function in T2DM Patients With Mild Cognitive Impairment | conds: Type 2 Diabetes Mellitus, Mild Cognitive Impairment | intr: Olfactory Training | pubs: ['29500313:RESULT (new)', '31221697:RESULT (new)']
+- NCT06295822 | UNKNOWN | results=False | NA | The Effectiveness of Chinese Medicine Nuan-gong-ye on Primary Dysmenorrhea | conds: Chinese Medicine, Primary Dysmenorrhea | intr: Nuan-gong-ye, Placebo
+- NCT05157672 | COMPLETED | results=True | EARLY_PHASE1 | Evaluating the Pharmacokinetics and Drug Interaction Potential of the Botanical Dietary Supplement Cinnamon | conds: Interaction Drug Food | intr: Cinnamon (2 g), Nicotine gum (2.5 mg), Letrozole (2.5 mg)
+- NCT07891403 | COMPLETED | results=False | PHASE2 | A Study on the Clinical Efficacy of Fumigation and Washing With Modified Astragalus and Cinnamon Twig Decoction With Five Herbs in the Treat | conds: Post-Chemotherapy Peripheral Neuropathy | intr: Traditional Chinese Medicine Steam Bath
+- NCT03676803 | COMPLETED | results=True | NA | Effect of Spice Consumption on the Microbiome | conds: Microbiota | intr: mixed spices, placebo capsule containing 5 g of maltodextrin
+- NCT02102347 | COMPLETED | results=False | NA | Effect of Phototherapy Incorporated Into an Exercise Program on Osteoarthritis of the Knee | conds: Osteoarthritis of the Knee | intr: exercise, Phototherapy | pubs: ['24919587:DERIVED (new)']
+- NCT06700915 | RECRUITING | results=False | NA | A Clinical Trial to Assess the Efficacy and Tolerance of a Berberine-based Nutraceutical Formula to Aid Blood Sugar Regulation and Metabolis | conds: Metabolism Disorder, Nutraceutical | intr: Diaberine, Placebo Capsule
+- NCT06976255 | COMPLETED | results=False | NA | The Effect of Dark Chocolate and Cinnamon Sugars on Pain and Anxiety in University Students With Primary Dysmenorrhea | conds: Primary Dysmenorrhea, Pain, Anxiety | intr: Cinnamon sugar, Dark chocolate
+- NCT04790760 | UNKNOWN | results=False | NA | Glucose Differences Between the Left Arm and Right Arm in Diabetic Patients Using a Continuous Glucose Monitor | conds: Diabetes | intr: Supplement Consumption, Continuous Glucose Monitors
+- NCT03386149 | COMPLETED | results=False | PHASE3 | Clinical Research on the Efficacy of Bosinji on Herniated Intervertebral Disc of Lumbar Spine | conds: Lumbar Disc Herniation | intr: Bosinji, Loxonine tab., Acupuncture | pubs: ['39640075:DERIVED (new)', '30558079:DERIVED (new)']
+- NCT06245382 | COMPLETED | results=False | NA | The Impact of Goode Health Beverage on Markers of Physiological and Neurocognitive Health | conds: Cardiovascular Diseases, Hypertension, Cognitive Decline, Diet, Healthy | intr: Goode Health Beverage, Vanilla Base Beverage Blend
+- NCT01483118 | COMPLETED | results=True | PHASE3 | Cinnamon Extract on Menstrual Cycles in PolyCystic Ovary Syndrome (PCOS) | conds: Polycystic Ovary Syndrome | intr: Cinnamon Extract, Placebo
+- NCT01027585 | COMPLETED | results=False |  | The Effects of Cinnamon on Postprandial Blood Glucose, and Insulin in Subjects With Impaired Glucose Tolerance | conds: Diabetes | intr: 
+- NCT02193438 | COMPLETED | results=False | NA | Physiologic Effect of Spices Ingestion | conds: Healthy | intr: Spices intake, Placebo | pubs: ['32064725:DERIVED (new)', '26883089:DERIVED (new)']
+- NCT02477163 | COMPLETED | results=False | NA | Ayurvedic Management of Chronic Kidney Disease | conds: Diabetic Nephropathy, Hypertensive Nephropathy | intr: Ayurveda treatment
+- NCT00718796 | COMPLETED | results=False | PHASE3 | Naturopathic Treatment for the Prevention of Cardiovascular Disease | conds: Cardiovascular Disease | intr: Naturopathic medicine. May include: fish oil, plant sterols, soluble fiber, cinnamon, coQ10 and exer | pubs: ['24451612:DERIVED (new)', '23630244:DERIVED (new)']
+- NCT03061799 | UNKNOWN | results=False | NA | Efficacy and Safety of HPC-03 for Postmenopausal Symptom | conds: Postmenopausal Period | intr: HPC-03, Placebo | pubs: ['22027944:RESULT (new)']
+- NCT00479973 | UNKNOWN | results=False | PHASE2 | The Anti-Diabetic and Cholesterol-Lowering Effects of Cinnamon and Cassia Bark | conds: Type 2 Diabetes, Hypercholesterolemia | intr: Cinnamonforce, Placebo
+- NCT07810517 | RECRUITING | results=False | NA | Lactobacillus Acidophilus and Inulin for Cognitive Impairment in Obesity | conds: Obesity (Disorder) | intr: Synbiotic (Lactobacillus acidophilus LA-5 and Agave Inulin)
+- NCT07432178 | RECRUITING | results=False | PHASE3 | CDK4/6 Inhibitors Intensification for Chemotherapy Omission in Small Size High-risk ER-positive Breast Cancer（Cinnamon） | conds: Breast Cancer | intr: Dalpiciclib+AI ± OFS, TC (Docetaxel + Cyclophosphamide) × 4 cycles- endocrine therapy
+- NCT00742131 | COMPLETED | results=False | PHASE1 | A Dose Escalation Study of the Safety and Pharmacokinetics of GSK1363089 (Formerly XL880) Administered Orally to Subjects With Solid Tumors | conds: Solid Tumours | intr: GSK1363089
+- NCT03063320 | COMPLETED | results=False | NA | The Effect of Spice Consumption on Postprandial Vascular Function | conds: Cardiovascular Risk Factor | intr: Spice blend | pubs: ['42602914:DERIVED (new)']
+- NCT07496619 | COMPLETED | results=False | NA | Effects of Diabetic Educational Intervention and Dietary Supplements on Blood Glucose, Lipid Profile Levels, Body Mass Index, and Pain Manag | conds: Pain, Glucose Levels, Low-density Lipoprotein Lipid Composition, Cholesterol (Total and HDL) | intr: Diabetic Educational Intervention and Dietary Supplements
+- NCT07315412 | NOT_YET_RECRUITING | results=False | NA | Chewing Gum Flavors to Reduce Postoperative Nausea and Vomiting After PIPAC | conds: Postoperative Nausea and Vomiting (PONV), Peritoneal Metastases From Colorectal Cancer, Intraperitoneal Chemotherapy | intr: Ginger-Mint Chewing Gum, Cinnamon Chewing Gum
+- NCT07190911 | COMPLETED | results=False | NA | Efficacy of Olfactive Training on Loss of Smell and Taste Caused by SARS CoV2 COVID-19 (Covid-Smell) | conds: COVID - 19 | intr: Olfactory rehabilitation consists of smelling a series of spices every day for 2 months
+- NCT03700892 | TERMINATED | results=True | NA | In-vivo Effects of E-cigarette Aerosol on Innate Lung Host Defense | conds: Smoking, Healthy | intr: Cinnamaldehyde e-liquid, PG/VG e-liquid | pubs: ['38687136:DERIVED (new)']
+- NCT06423248 | COMPLETED | results=False | NA | Culinary Spices in Metabolic Syndrome. | conds: Metabolic Syndrome | intr: Ginger, black seed, cinnamon, Placebo
+- NCT01530685 | COMPLETED | results=False | NA | Gycabiane and Glycemic Control of Prediabetic Subjects | conds: Hyperglycemia | intr: Glycabiane, placebo | pubs: ['26406981:DERIVED (new)']
+- NCT05055362 | COMPLETED | results=False | NA | Effect a Honey, Spice-blended Baked Good Has on Salivary Inflammation Markers in Adults: a Pilot Study | conds: Chronic Kidney Diseases, Overweight and Obesity | intr: Honey Spice Group
+- NCT07806838 | RECRUITING | results=False | NA | Effects of Dietary Supplements on Muscle Mass and Function While Using GLP-1 Medication | conds: Obesity & Overweight, Muscle Mass and Strength, Muscle Function | intr: Whey Protein Supplementation, Maltodextrin Placebo Capsules, Mixed Spice Capsules
+- NCT04139694 | WITHDRAWN | results=False | NA | Improving Insulin Resistance in Gynecological Cancer Patients | conds: Insulin Resistance | intr: Food plan with cinnamon supplementation, Food plan without cinnamon supplementation
+- NCT01085019 | COMPLETED | results=False | NA | Impact of Spices and Herbs on Endothelial Function | conds: Endothelial Function | intr: Cinnamon, Oregano, Ginger, Rosemary | pubs: ['24292639:DERIVED (new)']
+- NCT03790033 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy and Safety of Ucha-Shinki-Hwan on Korean Patients With Cold Hypersensitivity in the Hands and Feet-Double Blinded, Randomized, Mult | conds: Cold Hypersensitivity | intr: Ucha-Shinki-Hwan, Placebo | pubs: ['32080084:DERIVED (new)']
+- NCT04368663 | RECRUITING | results=False | NA | The Beneficial Effect of TJ-134 for Patients With Symptomatic Pneumatosis Cystoides Intestinalis | conds: Pneumatosis Cystoides Intestinalis | intr: Japanese traditional medicine group
+- NCT04987164 | COMPLETED | results=False |  | Incidence of Cystitis in Women Consuming a Mixture of Cranberry, Cinnamon, Probiotics | conds: Cystitis, Urinary Tract Infections | intr: Feminabiane CBU | pubs: ['39791583:DERIVED (new)']
+- NCT06072547 | UNKNOWN | results=False | NA | Effect of Flavored on!® Nicotine Pouch Products on Smoking Behaviors: a SMART Study | conds: Cigarette Smoking Behavior | intr: Access to all varieties of on! 4mg nicotine pouches (Berry, Citrus, Cinnamon, Wintergreen, Mint, Cof | pubs: ['38905632:DERIVED (new)']
+- NCT06496893 | COMPLETED | results=False | NA | A Study to Assess Effect of Glucocil® on Metabolic Health in Individuals With Prediabetes and Type 2 Diabetes Mellitus. | conds: Pre Diabetes, Type2 Diabetes Mellitus | intr: IP 1200 mg per soft gel capsule, Placebo Comparator: Placebo 1200 mg per soft gel capsule
+- NCT04023539 | COMPLETED | results=False | NA | Effect of Cinnamomum Zeylanicum on Glycemic Levels of Adult Patients With Type 2 Diabetes | conds: Type 2 Diabetes | intr: Cinnamomum zeylanicum, Placebo
+- NCT02404701 | COMPLETED | results=False | NA | Effect of Over-the-counter Dietary Supplements on Kidney Stone Risk | conds: Hyperoxaluria | intr: Aloe vera with cactus, Cranberry, Green tea extract, Bilberry
+- NCT05900024 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Funk It Cycle Bites on PMS | conds: Premenstrual Syndrome | intr: Funk It Cycle Bites
+- NCT03711682 | COMPLETED | results=False | PHASE2,PHASE3 | Reducing Plasma Glucose Effect of Cinnamon in Type 2 Diabetic Patients in the Municipality of Comasagua | conds: Type 2 Diabetes Mellitus | intr: Cinnamon, Wheat Flour | pubs: ['29222377:RESULT (new)', '28885566:RESULT (new)', '28539866:RESULT (new)', '18276664:RESULT (new)', '29605574:RESULT (new)', '26758574:RESULT (new)', '28497094:RESULT (new)', '24513588:RESULT (new)', '24876603:RESULT (new)', '20644701:RESULT (new)', '20042780:RESULT (new)']
+- NCT05870891 | COMPLETED | results=False | NA | Equivalent Glycemic Load and Insulinemic Response Elicited by 7 Low Carbohydrate Products in Healthy Adults | conds: Healthy Nutrition | intr: Food | pubs: ['41439105:DERIVED (new)']
+- NCT06505694 | COMPLETED | results=False | NA | A Clinical Trial to Assess the Impact of an Alcohol Alternative Herbal Tincture on Signs of Stress Anxiety and Sleep Quality. | conds: Anxiety, Stress | intr: Alcohol Alternative Herbal Tincture (Test Product), Placebo
+- NCT03061916 | UNKNOWN | results=False | PHASE3 | Cinnamon and Ginger in Comparison to Chlorhexidine Gluconate 0.2% on Oral Streptococcus Mutans | conds: Dental Caries | intr: Cinnamon, Ginger, Chlorhexidine Gluconate | pubs: ['26347778:RESULT (new)', '25591663:RESULT (new)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)']
+- NCT00951639 | COMPLETED | results=False | NA | Cassia Cinnamon for Glucose Uptake in Young Women | conds: Insulin Resistance, Impaired Glucose Tolerance, Prediabetes | intr: Cassia cinnamon, 50 minutes exercise, Cellulose Powder
+- NCT06682390 | RECRUITING | results=False | NA | Role of Race in Nutritional Approach in Men on ADT | conds: Prostate Cancer Metastatic Disease | intr: Hypocaloric anti-inflammatory diet
+- NCT01302743 | TERMINATED | results=True | NA | Cinnamon Bark, Water-Soluble Cinnamon Extract, and Metformin for Treatment of Type 2 DM. | conds: Diabetes | intr: Group 1: Metformin, Group 2: Cinnamon Bark, Group 3: Cinnulin PF
+- NCT03064958 | COMPLETED | results=False | NA | The Acute Effect of Spices on Vascular Health | conds: Oxidative Stress | intr: Herbs and spices, High fat meal | pubs: ['32211803:DERIVED (new)']
+- NCT06164613 | RECRUITING | results=False | PHASE2 | Use of Cinnamomum Verum for Induction of Labor. Double Blind Randomized Clinical Trial | conds: Labor Onset and Length Abnormalities, First Birth | intr: Cinnamomum Verum oil extract, Placebo
+- NCT07265115 | COMPLETED | results=False | NA | Preventive Nutritional Supplements for Preclinical Conditions | conds: Elevated Fasting Capillary Blood Glucose | intr: Placebo, Capsules with active ingredients, Placebo Repetition, Capsules with active ingredients Repe
+- NCT06889961 | RECRUITING | results=False | NA | Effect of Daily Mixed Spice Consumption on Memory Function | conds: Memory, Cognitive Function | intr: Mixed spices, Placebo
+- NCT00970541 | TERMINATED | results=False | PHASE1 | Effect of Cinnamon Extract on Insulin Resistance in Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome, Insulin Resistance | intr: Cinnamon Supplementation, Placebo (wheat flour)
+- NCT03608176 | UNKNOWN | results=False | NA | Evaluation of the Plant-based Approaches to Stop Obesity Diet for the Treatment of Overweight and Obesity | conds: Overweight and Obesity | intr: PASO diet group, Low-fat diet group, Waiting list group
+- NCT06088862 | TERMINATED | results=False | PHASE3 | Evaluate Harm Reduction Products as a Second Line Intervention for Adult Smokers Who Do Not Quit With NRT | conds: Smoking Cessation, Harm Reduction | intr: Nicoderm, Nicorette 4Mg Chewing Gum, Nicorette Lozenge Product, BIDI e-cigarette
+- NCT07429227 | RECRUITING | results=False | NA | Evaluation Through Innovative Examinations of Intestinal Dysbiosis Status in Patients Diagnosed With Cardiovascular Diseases and Evaluation  | conds: Acute Coronary Syndromes (ACS) | intr: Tea tree (Melaleuca alternifolia), Cinnamon (Cynnamomum zeylanicum) bark, Clove carnation (Eugenia c
+- NCT02146157 | COMPLETED | results=False | NA | Trial of an Herb and Mineral Combination Product on Fasting Glucose in Adults at Risk for Developing Diabetes | conds: Prediabetes | intr: herb and mineral combination product, Placebo
+- NCT05685628 | RECRUITING | results=False | NA | Evaluation of the Quality of Life Induced by the Cinnamon Anti-odor Dressing in Patients With Malodorous Wounds | conds: Malodorous Wounds (Chronic, Malignant or Infected Wounds) | intr: Cinnamon dressing, Charcoal dressing
+- NCT04476160 | COMPLETED | results=False | NA | Effectiveness of Cinnamon on Insulin Resistance ( ECIRCCOS ) December 1, 2019 | conds: Obesity, Childhood, Insulin Resistance, Insulin Sensitivity | intr: Cinnamon
+- NCT05210218 | COMPLETED | results=False | NA | Cinnamon and Withania on Weight Loss | conds: Obesity | intr: Cinnamomum cassia (CC) and Withania somnifera (WS) (300 mg+150mg, respectively), placebo
+- NCT01350284 | COMPLETED | results=False | NA | The Effect of Natural Food Flavourings on Gastrointestinal and Cardiovascular Physiological Responses. | conds: Gastric Emptying, Diabetes Mellitus | intr: Cinnamon, Placebo control | pubs: ['21899741:DERIVED (new)']
+- NCT03388762 | COMPLETED | results=False | NA | RCT of a Polyherbal Dietary Supplement for Prediabetes | conds: Prediabetic State | intr: GlucoSupreme™ Herbal, Placebo | pubs: ['30616613:DERIVED (new)']
+- NCT02074423 | COMPLETED | results=False | NA | A Human Clinical Trial Evaluating the Effect of MealShape™ on Blood Glucose Level Following Consumption of Standard Meal | conds: Postprandial Glycemia, Postprandial Insulinemia | intr: MealShape cinnamon extract, Placebo | pubs: ['25249234:DERIVED (new)']
+- NCT00237640 | COMPLETED | results=False | PHASE2 | Effect of Cinnamon on Glucose and Lipid Levels in Non-Insulin Dependent Type 2 Diabetes Mellitus | conds: Diabetes Mellitus, Adult Onset | intr: Cinnamon or placebo 500 mg capsule twice daily | pubs: ['17563345:DERIVED (new)']
+- NCT00445354 | COMPLETED | results=False | PHASE3 | Randomized Controlled Clinical Trial of Cinnamon to Lower Hemoglobin A1c | conds: Diabetes | intr: cinnamon | pubs: ['19734396:DERIVED (new)']
+- NCT02198911 | COMPLETED | results=False | NA | The Effects of Chewing Gum on a Computer Task and Liking Ratings of Ice Cream | conds: Habituation | intr: NO GUM, MCC (Mint Chocolate Chip gum), C (Cinnamon gum)
+- NCT03232528 | COMPLETED | results=False | NA | The Promotion Plan of Moxibustion on Ulcerate Colitis | conds: Ulcerative Colitis | intr: Herb-partitioned moxibustion, Sham herb-partitioned moxibustion
+- NCT05229029 | UNKNOWN | results=False | PHASE2 | RSYR for Fatigue Reduction in Cancer Fatigue Caused by Chemotherapy | conds: Cancer-related Problem/Condition | intr: TCM Formula, Placebo
+- NCT05145673 | COMPLETED | results=False | NA | Effect of Aqueous Cinnamon Extract on the Postprandial Glycaemia Levels in Type 2 Diabetes Mellitus | conds: Type 2 Diabetes | intr: Placebo (OGTT), Cinnamon (OGTT plus aqueous cinnamon extract)
+- NCT03022214 | COMPLETED | results=False | NA | ADAPT: Efficacy of a Dietary Supplement During and After Exercise | conds: Dietary Supplementation During Exercise | intr: Placebo, Intervention
+- NCT07518394 | COMPLETED | results=False | PHASE4 | Oral Essential Oils Efficacy in Acute Respiratory Symptoms | conds: Respiratory Inflammation | intr: essential oils of eucalyptus, thyme, cinnamon, lavender, winter savory, tea tree, camphor tree, plac
+- NCT06058312 | COMPLETED | results=False | NA | Individual Food Preferences for the Mediterranean Diet in Cancer Patients | conds: Neoplasms | intr: Self-questionnaire, Self-questionnaire, Self-questionnaire, Self-questionnaire | pubs: ['42576055:RESULT (new)']
+
+### OpenAlex no-PMID trial-worded - 1766 hits, 55 without PMID, 55 new
+- new | 2026 | 10.2139/ssrn.6121584 | preprint | Efficacy and Safety of Cinnamomum verum J.Presl in Treating Functional Dyspepsia: A Randomized Controlled Trial | SSRN Electronic Journal
+- new | 2026 | 10.2174/0115734013410362260421050037 | review | Cinnamon (Cinnamomum verum) Therapeutic Potentials in Pain Management: A Systematic Review and Meta-analysis of Randomized Controlled Trials | Current Nutrition & Food Science
+- new | 2026 | 10.33545/30810620.2026.v3.i2.a.49 | article | Effect of Cinnamomum verum J. Presl bark extract supplementation on glycaemic control and lipid profile in type 2 diabetes mellitus: A twelve-week randomised controlled trial | Journal of Phytopharmacology and Phytome
+- new | 2026 | 10.3390/obesities6020022 | article | Cinnamon Supplementation Improves Uric Acid Levels in Adolescents with Obesity: Secondary Metabolic Outcomes from a Randomized Controlled Trial | Obesities
+- new | 2026 | 10.5005/jp-journals-10005-3637 | article | Novel Topical Cinnamomum zeylanicum Gel vs 20% Benzocaine Gel for Reducing Injection-related Pain, Anxiety, and Hemodynamic Stress in 6–10-year-old Dental Patients: A Randomized Do | International Journal of Clinical Pediat
+- new | 2026 | 10.54448/ijn26s319 | article | Multilevel evaluation of the anticoagulant and antiplatelet effects of clopidogrel, Melilotus officinalis, and Cinnamomum verum in an experimentally induced rabbit thrombosis model | International Journal of Nutrology
+- new | 2026 | 10.5281/zenodo.20019850 | article | MEDICINAL APPLICATIONS OF CINNAMOMUM VERUM IN METABOLIC DISEASES: CURRENT PERSPECTIVES | Zenodo (CERN European Organization for N
+- new | 2026 | 10.20884/1.ijft.2026.5.1.18367 | article | Characteristics of Butterfly Pea Flower Klepon with the Addition of Cinnamon Powder (Cinnamomum verum) | Indonesian Journal of Food Technology
+- new | 2026 | 10.54203/scil.2026.wvj84 | article | Effects of Cinnamomum verum Supplementation on Physicochemical and Sensory Properties of Goat Milk Yogurt | World s Veterinary Journal
+- new | 2026 | 10.35916/thmr.v8i2.156 | article | Evaluation of Cinnamomum verum Bark Essential Oil as a Natural Antifungal Agent Against Dermatophytes | Tropical Health and Medical Research
+- new | 2026 | 10.3390/poultry5010014 | article | Blend of Cinnamomum verum and Origanum vulgare Essential Oils as a Natural Sanitizing Agent for Hatching Eggs | Poultry
+- new | 2026 | 10.31989/ffhd.v16i3.1933 | article | Efficacy and safety of a multi-ingredient dietary supplement (Glucocil®) in prediabetics: A randomized, double-blind, placebo-controlled study | Functional Foods in Health and Disease
+- new | 2025 | 10.12691/ajssm-13-1-3 | article | A Randomized, Placebo-controlled Trial to Screen the Protein Amplifying Effect of Proprietary Botanicals for Increasing Muscle Strength & Growth | American journal of sports science and m
+- new | 2025 | 10.22159/prl.ijayush.v14i07.1422 | article | EFFICACY AND SAFETY OF 'GARSY', A GARCINIA-BASED MULTI-INGREDIENT HERBAL SUPPLEMENT, IN WEIGHT MANAGEMENT AND METABOLIC HEALTH: A RANDOMISED CONTROLLED CLINICAL TRIAL | International Journal of AYUSH
+- new | 2025 | 10.34172/biomedrb.9071 | article | The Efficacy of a Combination of Cinnamomum zeylanicum, Tribulus terrestris, Silybum marianum, and Trigonella foenum-graecum as the Treatment of Type II Diabetes Mellitus: A Double | Biomedical Research Bulletin
+- new | 2025 | 10.19080/jojcs.2025.15.555913 | article | The Effect of Cinnamon Consumption on Reducing Blood Sugar Levels in Diabetes Mellitus Patients: An Experimental Study | Juniper Online Journal of Case Studies
+- new | 2025 | https://openalex.org/W7110475977 | dissertation | KUALITAS ORGANOLEPTIK YOGHURT SUSU KAMBING DENGAN PENAMBAHAN KAYU MANIS (Cinnamomum verum) | Digilib Repository Unila (Lampung Univer
+- new | 2025 | 10.18311/jnr/2025/49452 | article | Anxiolytic and Antioxidant Activities of Cinnamon (Cinnamomum verum) Bark Extract in Experimental Diabetic Rats | Journal of Natural Remedies
+- new | 2024 | 10.22271/flora.2024.v12.i4a.938 | article | A clinical study on subclinical hypothyroidism and its management with an extract of Jawarish e Bisbasa formulation: A randomized double-blind placebo-controlled clinical trial | International Journal of Herbal Medicine
+- new | 2024 | 10.1201/b22971-8 | book-chapter | Cinnamomum verum J.Presl | CRC Press eBooks
+- new | 2024 | 10.18502/jpc.v12i1.16028 | article | The Effects of Combination Herbal Medicine Tablet on Migraine Headache: A Randomized, Double-blind, Placebo, Controlled Study | Journal of Pharmaceutical Care
+- new | 2024 | 10.5530/ijper.58.3.93 | article | Lithotriptic Effect of Cinnamomum verum and Nigella sativa on Ureteric Calculi | Indian Journal of Pharmaceutical Educati
+- new | 2023 | 10.5281/zenodo.7776762 | article | Formulation Of Herbal Cinnamon (Cinnamomum Verum) Tea In Treatment Of PCOD And Menstrual Cramps | 
+- new | 2023 | 10.62940/als.v10i3.2298 | article | Anticoccidial Effect of Cinnamomum verum Essential Oil and Its Impact on Hematological and Serum Biochemical Parameters in Broilers | Advancements in Life Sciences
+- new | 2022 | https://openalex.org/W7135902499 | dissertation | Dental Hygienist Care for Patients with Removable Orthodontic Appliances | Digital Repository (National Repository 
+- new | 2021 | 10.5812/jjnpp.14505 | article | Effect of Cinnamon on Inflammatory Factors, Pain and Anthropometric Indices in Progressive-relapsing Multiple Sclerosis Patients: A Randomized Controlled Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2021 | 10.36721/pjps.2021.34.3.reg.899-907.1 | paratext | Analysis of Unani coded formulation on the hormonal parameters of patients with polycystic ovarian syndrome | Pakistan Journal of Pharmaceutical Scien
+- new | 2021 | 10.5812/jjnpp.109488 | article | The Effect of Combined Herbal Capsule on Glycemic Indices and Lipid Profile in Patients with Type 2 Diabetes Mellitus: A Randomized Controlled Clinical Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2021 | 10.28941/pjwsr.v27i4.975 | article | A, The ALLELOPATHIC EFFECT OF CINNAMOMUM VERUM ON EMERGENCE AND SEEDLING GROWTH OF RADISH (Raphanus sativus) | JOURNAL OF WEED SCIENCE RESEARCH
+- new | 2021 | 10.5812/jjnpp.101797 | article | Evaluation of Cinnamon (Cinnamomum Verum) Effects on Liver CYP450 2D1 Activity and Hepatic Clearance in Diabetic Rats | Jundishapur Journal of Natural Pharmaceu
+- new | 2020 | 10.1007/978-3-030-16807-0_68 | book-chapter | Cinnamomum verum J. Presl. (Lauraceae) | Springer eBooks
+- new | 2020 | 10.5812/semj.95609 | article | Analysis of the Efficacy of Cinnamon for Patients with Diabetes Mellitus Type II Based on Traditional Persian Medicine Syndrome Differentiation: A Randomized Controlled Trial | Shiraz E-Medical Journal
+- new | 2020 | 10.1016/j.hermed.2020.100342 | article | A tale of two cinnamons: A comparative review of the clinical evidence of Cinnamomum verum and C. cassia as diabetes interventions | Journal of Herbal Medicine
+- new | 2020 | 10.37871/jels1116 | article | Cinnamomum verum and its Effects on the Visual Motor Speed in Humans | Journal of Biomedical Research & Environ
+- new | 2020 | https://openalex.org/W3012468835 | article | Evaluation of the Phytochemistry and Antidepressant-Like Effect of Cinnamomum verum Essential Oil in Male Mice | 
+- new | 2020 | https://openalex.org/W3136325326 | article | Effect of Zataria multiflora and Cinnamomum Verum essential oils on biofilm formation of Staphylococcus aureus | Applied Biology   بیولوژی کاربردی
+- new | 2019 | 10.22317/jcms.v5i2.569 | article | The efficacy of traditional formulation on quality of life and fatigue in multiple sclerosis patients: a randomized double-blind placebo-control clinical trial | Journal of Contemporary Medical Sciences
+- new | 2019 | 10.22159/ajpcr.2019.v12i10.28246 | article | EFFICACY AND SAFETY OF STANDARDIZED CINNAMON BARK EXTRACT FOR THE PREVENTION OF CHEMOTHERAPY-INDUCED WEIGHT LOSS AND ALOPECIA IN PATIENTS WITH BREAST CANCER: A RANDOMIZED, DOUBLE-B | Asian Journal of Pharmaceutical and Clin
+- new | 2019 | 10.36560/1212019635 | article | Cotton potential (Cinnamomum verum) as a Phytogenic Additive in Nutrition of Chicken poutry | Scientific Electronic Archives
+- new | 2019 | 10.5220/0010199400002775 | conference-paper | Evaluation of Cinnamon (Cinnamomum verum) Administration to the Growth Performance of Tambra Fish (Tor tambra) | International MIPAnet Conference on Scie
+- new | 2019 | 10.31525/ct1-nct04023539 | article | Effect of Cinnamomum Zeylanicum on Glycemic Levels of Adult Patients With Type 2 Diabetes | Case Medical Research
+- new | 2018 | 10.1016/j.hermed.2018.11.005 | article | Efficacy of Darchini in the management of polycystic ovarian syndrome: A randomized clinical study | Journal of Herbal Medicine
+- new | 2018 | 10.30526/2017.ihsciconf.1774 | article | Antimicrobial activity of some plants extracts on bacteria isolated from acne vulgaris patients | Ibn AL- Haitham Journal For Pure and App
+- new | 2018 | 10.22103/jlst.2018.10558.1200 | article | Evaluation of synbiotic and cinnamon (Cinnamomum verum) as antibiotic growth promoter substitutions on growth performance, intestinal microbial populations and blood parameters in  | Journal of Livestock Science and Technol
+- new | 2017 | 10.31661/gmj.v6i4.884 | article | Efficacy and Safety of Iranian Poly Herbal Formulation (Compound Honey Syrup) in Pediatric Patients with Mild to Moderate Asthma: A Randomized Clinical Trial | Galen Medical Journal
+- new | 2016 | 10.1016/j.eurpsy.2016.01.2213 | article | Post menopausal women's sexual satisfaction: Effect of oral capsule of mixed Tribulus Terrestris, Zingiber Officinale, Crocus Sativus and Cinnamomum Verum: A randomized controlled  | European Psychiatry
+- new | 2014 | 10.4038/jnsfsr.v42i3.7393 | article | Preliminary investigation for the identification of Sri Lankan Cinnamomum species using randomly amplified polymorphic DNA (RAPD) and sequence related amplified polymorphic (SRAP)  | Journal of the National Science Foundati
+- new | 2014 | https://openalex.org/W2220170737 | article | Effects of Dietary Inclusion of Turmeric (Curcuma longa) and Cinnamon (Cinnamomum verum) Powders on Performance, Organs Relative Weight and Some Immune System Parameters in Broiler | Poultry science journal
+- new | 2012 | 10.1186/1472-6882-12-s1-p179 | conference-abstract | The anti-diabetic and cholesterol-lowering effects of common and cassia cinnamon (Cinnamomum verum and C. aromaticum): a randomized controlled trial | BMC Complementary and Alternative Medici
+- new | 2012 | https://openalex.org/W2285831412 | article | The Effects of Cinnamomum zeylanicum J. Presl on Blood Glucose Level in Patients with Type 2 Diabetes, a Double-blind Clinical Trial | Journal of Medicinal Plants
+- new | 2011 | 10.5897/ajb10.2034 | article | Genetic diversity in Cinnamomum zeylanicum Blume. (Lauraceae) using random amplified polymorphic DNA (RAPD) markers | AFRICAN JOURNAL OF BIOTECHNOLOGY
+- new | 2010 | 10.1007/s12562-010-0218-6 | article | Potential of cinnamon (Cinnamomum verum) oil to control Streptococcus iniae infection in tilapia (Oreochromis niloticus) | Fisheries Science
+- new | 2007 | 10.3923/biotech.2007.239.244 | article | Tissue Culture and RAPD Analysis of Cinnamomum camphora and Cinnamomum verum | Biotechnology(Faisalabad)
+- new | 2007 | 10.3923/ijp.2007.482.486 | article | Anti Oxidative Stress Potential of Cinnamon (Cinnamomum zeylanicum) in Operating Room Personnel; A Before/After Cross Sectional Clinical Trial | International Journal of Pharmacology
+- new | 2005 | https://openalex.org/W2185768859 | article | The Effect of Cinnamomum Verum on Serum Glucose, GOT, GPT and Creatinine in Patients With Type-2 Diabetes Mellitus | Medical Journal of Babylon

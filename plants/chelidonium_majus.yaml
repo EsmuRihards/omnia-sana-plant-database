@@ -191,6 +191,11 @@ contraindications:
   reference_ids:
   - REF-0459
   - REF-0601
+  - REF-5256
+  - REF-5257
+  - REF-5258
+  - REF-5259
+  - REF-5260
   status: verified
 - note: Avoid in pregnancy and breastfeeding. The fresh orange latex is irritant and caustic - keep it
     away from the eyes and broken skin.
@@ -198,6 +203,12 @@ contraindications:
   reference_ids:
   - REF-0459
   - REF-0460
+  status: verified
+- note: 'Blood: a patient developed severe haemolytic anaemia, with kidney failure and low platelets,
+    after taking a greater celandine extract by mouth; it resolved with hospital treatment (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5261
   status: verified
 references:
 - REF-0770
@@ -246,4 +257,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepat
   wounds dropped: contradicted by the record''s own note (latex "irritant and caustic - keep it
   away from ... broken skin"; inv. 11). Warts kept (traditional external use on intact skin).
   Notes rewritten.
-  | 2026-11-19 (monograph-source audit): dosage[0] and preparations[1] cited the hepatotoxicity review REF-0459 and case report REF-0601, which support the liver-injury warning but not the other details. Kept the warning and rewrote to what they state. Dropped as unsupported: historical infusion or tincture for biliary dyspepsia, oral use restricted in several jurisdictions, especially anyone with liver disease, dark urine and upper-abdominal pain as warning signs.'
+  | 2026-11-19 (monograph-source audit): dosage[0] and preparations[1] cited the hepatotoxicity review REF-0459 and case report REF-0601, which support the liver-injury warning but not the other details. Kept the warning and rewrote to what they state. Dropped as unsupported: historical infusion or tincture for biliary dyspepsia, oral use restricted in several jurisdictions, especially anyone with liver disease, dark urine and upper-abdominal pain as warning signs.
+  | 2026-11-25: symptom-source audit research-deepening batch 8 - Searched PubMed (Chelidonium
+  majus / greater celandine tiab; celandine, chelidonium ti), Europe PMC, ClinicalTrials.gov (1)
+  and OpenAlex. No efficacy trial of the plant itself: Ukrain (NSC-631570) is a semisynthetic
+  thiophosphoric alkaloid derivative, not the herb, so its cancer trials and the 2005 Ukrain SR
+  are not used; chelidonium + turmeric for abdominal pain is a combination. SAFETY: added to the
+  serious liver warning the CIOMS causality reanalyses of 22 German spontaneous reports (2011) and
+  21 European published cases (2012), a 2017 literature review, the first US case (2024) and a
+  2026 case; new caution for a haemolytic anaemia case (1990). Not added: contact dermatitis and
+  balanoposthitis letters (no abstract), COVID-19 case series, lesser celandine case (a different
+  plant).'

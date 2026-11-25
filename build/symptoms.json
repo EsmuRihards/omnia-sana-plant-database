@@ -7019,6 +7019,16 @@
      ]
     },
     {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5357"
+     ]
+    },
+    {
      "condition": "depression",
      "label": "Low mood / depression",
      "evidence": 5,
@@ -7026,6 +7036,16 @@
      "inferred": false,
      "references": [
       "REF-3557"
+     ]
+    },
+    {
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5356"
      ]
     },
     {
@@ -10809,6 +10829,38 @@
      ]
     },
     {
+     "condition": "prostate-support",
+     "label": "Prostate support",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5365",
+      "REF-5366"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0298",
+      "REF-5369"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5367"
+     ]
+    },
+    {
      "condition": "stress",
      "label": "Stress",
      "evidence": 5,
@@ -10816,16 +10868,6 @@
      "inferred": false,
      "references": [
       "REF-3562"
-     ]
-    },
-    {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0298"
      ]
     },
     {

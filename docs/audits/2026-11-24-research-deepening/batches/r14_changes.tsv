@@ -1,0 +1,17 @@
+plant	condition	ref	op
+foeniculum_vulgare	pms	REF-5356	newpair
+foeniculum_vulgare	arthritis	REF-5357	newpair
+foeniculum_vulgare	menopause	REF-5358	nulladd
+foeniculum_vulgare	menopause	-	note
+ganoderma_lingzhi	prostate-support	REF-5365,REF-5366	newpair
+ganoderma_lingzhi	high-cholesterol	REF-5367	newpair
+ganoderma_lingzhi	high-cholesterol	REF-5368	nulladd
+ganoderma_lingzhi	high-cholesterol	REF-3559	nulladd
+ganoderma_lingzhi	blood-sugar	REF-5369	add
+ganoderma_lingzhi	blood-sugar	REF-5368	nulladd
+ganoderma_lingzhi	blood-sugar	-	note
+foeniculum_vulgare	cinew	Children: long-term use of fennel prepar	REF-5360,REF-5361
+foeniculum_vulgare	cinew	Essential oil: fennel essential oil is a	REF-5364
+ganoderma_lingzhi	ciadd	Generally well tolerated at standard doses	REF-5370,REF-5371
+ganoderma_lingzhi	cinew	Liver: acute hepatitis has been reported	REF-5372,REF-5373
+ganoderma_lingzhi	dcinew	anticoagulants-antiplatelets	REF-5371

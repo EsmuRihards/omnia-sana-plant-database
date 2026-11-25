@@ -143,13 +143,17 @@ actions:
   status: verified
 indications:
 - condition: blood-sugar
-  note: Antidiabetic effects reported, mostly in lab and animal studies (review); a Cochrane review found
-    the trials do not support reishi for blood sugar or other cardiovascular risk factors in type 2 diabetes
+  note: 'Results are mixed: a 2025 randomized trial found lower fasting glucose and HbA1c than in controls
+    in type 2 diabetes, but a 2016 placebo-controlled trial found no effect on HbA1c and a Cochrane review
+    found the trials do not support reishi for blood sugar; antidiabetic effects in lab and animal studies
+    (review)'
   reference_ids:
   - REF-0298
+  - REF-5369
   status: needs-review
   null_result_ids:
   - REF-3559
+  - REF-5368
 - condition: cancer
   note: Reishi polysaccharides slowed tumours in lab and animal studies; a Cochrane review found it may
     improve tumour response and immune markers as an add-on to cancer treatment (low-quality evidence;
@@ -211,6 +215,23 @@ indications:
   reference_ids:
   - REF-3562
   status: verified
+- condition: prostate-support
+  note: An ethanol extract of reishi improved urinary symptom scores (IPSS) more than placebo in men with
+    lower urinary tract symptoms in two randomized trials, without changing prostate size or PSA
+  reference_ids:
+  - REF-5365
+  - REF-5366
+  status: verified
+- condition: high-cholesterol
+  note: Reishi spore oil lowered cholesterol and triglycerides vs placebo in a 2025 randomized crossover
+    trial, but a fruiting-body extract had no effect on cardiovascular risk factors in a 2016 placebo-controlled
+    trial, and a Cochrane review found the evidence does not support reishi for cardiovascular risk factors
+  reference_ids:
+  - REF-5367
+  status: verified
+  null_result_ids:
+  - REF-5368
+  - REF-3559
 contraindications:
 - note: Generally well tolerated at standard doses. May cause mild digestive upset, dry mouth, or dizziness
     in some individuals. May enhance the effects of anticoagulant and antihypertensive medications. Avoid
@@ -219,6 +240,8 @@ contraindications:
   reference_ids:
   - REF-0019
   - REF-0298
+  - REF-5370
+  - REF-5371
   status: verified
 - note: Duke (2002) rates reishi (Ganoderma lucidum) as + and notes immunostimulant, hepatoprotective,
     antioxidant, antitumor, and hypoglycemic activities at the experimental level (score 1). It is a key
@@ -231,6 +254,14 @@ contraindications:
   - REF-0019
   - REF-0298
   - REF-0063
+  status: verified
+- note: 'Liver: acute hepatitis has been reported after taking reishi powder with alcohol, and in another
+    case a reishi product caused very high eosinophil counts with liver nodules that cleared after it
+    was stopped (case reports).'
+  severity: caution
+  reference_ids:
+  - REF-5372
+  - REF-5373
   status: verified
 references:
 - REF-0821
@@ -258,6 +289,14 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: In patients with atherosclerotic disease, reishi (1 g three times a day for 2 weeks) reduced
+    platelet aggregation by up to about 30% (clinical study), so it may add to the effect of antiplatelet
+    and anticoagulant medicines.
+  reference_ids:
+  - REF-5371
+  status: draft
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -341,4 +380,20 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   diabetes) recorded as no-effect for blood-sugar and metabolic-support. New pairs (owner rule):
   fatigue (Ganopoly neurasthenia RCT REF-3560; cancer-fatigue pilot REF-3561), stress (RCT
   REF-3562). "Ganoderma lucidum" literature counts for G. lingzhi (inv. 11).
-  | 2026-11-19 (monograph-source audit): botanical_description cited only REF-0821 (lab study). RE-SOURCED: Wikipedia ''Lingzhi (mushroom)'' (REF-4024, new). Dropped as unsupported: cap 5-20 cm, pale underside, rusty-brown spores (Wikipedia: yellow pores, brown spore print), mycelium spreading through the wood before fruiting, fruiting over weeks to months. TAXONOMY NOTE for the owner: Wikipedia now treats G. lingzhi as a synonym of Ganoderma sichuanense; the record''s binomial was not changed.'
+  | 2026-11-19 (monograph-source audit): botanical_description cited only REF-0821 (lab study). RE-SOURCED: Wikipedia ''Lingzhi (mushroom)'' (REF-4024, new). Dropped as unsupported: cap 5-20 cm, pale underside, rusty-brown spores (Wikipedia: yellow pores, brown spore print), mycelium spreading through the wood before fruiting, fruiting over weeks to months. TAXONOMY NOTE for the owner: Wikipedia now treats G. lingzhi as a synonym of Ganoderma sichuanense; the record''s binomial was not changed.
+  | 2026-11-25: symptom-source audit research-deepening batch 14 - Searched PubMed (Ganoderma
+  lingzhi / G. lucidum / reishi / lingzhi tiab, Ganoderma ti: 110 HT, 37 SR, 471 SAFE hits; SR/MA,
+  safety and single-product trials read in depth), Europe PMC, ClinicalTrials.gov (51) and
+  OpenAlex. "Ganoderma lucidum" in East Asian research counts here (inv. 11). Added: NEW
+  prostate-support pair (two 2008 placebo RCTs in men with LUTS, IPSS improved); NEW
+  high-cholesterol pair (2025 spore-oil crossover RCT) with the 2016 Klupp placebo RCT and the
+  Cochrane review REF-3559 as no-effect; 2025 RCT vs kombucha and control to blood-sugar with the
+  2016 RCT as no-effect (note says mixed); 2007 healthy-volunteer safety RCT and the 1990 platelet
+  study to the safety note; liver caution (2023 hepatitis case, 2021 eosinophilic liver nodules);
+  DRAFT anticoagulant interaction from the platelet study (needs owner sign-off). Not added:
+  liver-support from a 2017 crossover RCT in healthy volunteers (lower liver enzymes) - withheld
+  alongside the new liver-injury caution (inv. 12d spirit); spore powder in Alzheimer''s disease
+  2018 (no difference); immune RCTs (pair already 7, not padded); fibromyalgia mood and fitness
+  trials (no vocab condition); Ganoderma + Cordyceps, San Miao San, Lion''s mane blend and other
+  combinations; the 2020 Lingzhi/Yunzhi interaction SR (no Lingzhi pharmacokinetic study); G.
+  applanatum, G. tsugae, G. sinense and other species.'

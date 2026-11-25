@@ -1,0 +1,1050 @@
+# Research-deepening batch 14 - search
+
+## foeniculum-vulgare (Foeniculum vulgare) - name clause: "Foeniculum vulgare"[tiab] OR "fennel"[tiab]
+
+### PubMed HT - 140 hits, 140 not already listed above, 129 new
+- new | 2026 | 42980616 |  | Essential oils for acute cystitis: a real-world experience in primary care settings. | Minerva Med
+- new | 2026 | 42829743 |  | Efficacy of ginger and fennel in relieving primary dysmenorrhea: A triple-blind crossover controlled trial. | J Educ Health Promot
+- new | 2026 | 42807615 |  | Enhancing the Shelf Life and Microbial Safety of Refrigerated Eggs Using Edible Coatings of Aloe Vera Gel Combined With Fennel and Lime Peel Essential Oils. | Food Sci Nutr
+- SEEN | 2026 | 41653970 | Systematic Review/Meta-Analysis | Efficacy of herbaceous Apiaceae plants in primary dysmenorrhea: A systematic review and meta-analysis of RCTs. | Ann Pharm Fr
+- new | 2026 | 42802916 |  | Health Claims, Labeling Practices, and Consumer Information Characteristics of Herbal Lactation Teas Marketed to Breastfeeding Women in Türkiye: A Cross-Sectional Digital Marketpla | Breastfeed Med
+- new | 2026 | 42147465 |  | Effect of Aromatherapy Massage With Foeniculum vulgare Mill. Seed Essential Oil Compared to Massage on Anxiety, Well-Being, and Sleep Quality: An Exploratory Randomized Study. | Health Sci Rep
+- new | 2026 | 41510731 |  | Comparison of the Effects of Propolis and Fennelin Capsules on Premenstrual Syndrome in Students: A Randomized Clinical Trial. | Rev Recent Clin Trials
+- new | 2026 | 41753785 |  | In Vitro Evaluation of Ethanolic Medicinal Plant Extracts from the Aseer Region Against Selected Cultured Oral Bacterial Isolates from Healthy Volunteers. | Microorganisms
+- new | 2026 | 42527887 |  | Rational Use of Herbal Products in Pediatric Patients Treated With Anticancer Drugs in the European Union. | Pediatr Blood Cancer
+- new | 2025 | 40219889 | Review | Phytoestrogens in osteoporosis. | Wiad Lek
+- new | 2025 | 41096612 | Review | Natural Remedies for Irritable Bowel Syndrome: A Comprehensive Review of Herbal-Based Therapies. | Int J Mol Sci
+- new | 2025 | 40054227 | Scoping Review/Research Support, Non-U.S. Gov't | Over-the-counter products for insomnia in adults: A scoping review of randomised controlled trials. | Sleep Med
+- new | 2025 | 40014560 |  | Exploring the impact of herbaceous Apiaceae family plants on primary dysmenorrhea: a systematic review protocol. | J Complement Integr Med
+- HELD REF-0026 | 2025 | 41306764 | Review | Spices, herbs and allergic reactions in children: myth or reality - a narrative review with scoping elements. | Front Allergy
+- HELD REF-1657 | 2025 | 40784268 | Randomized Controlled Trial | Fennel (Foeniculum vulgare) oral capsules improve endometrial thickness in infertile women following clomiphene citrate treatment. | Eur J Obstet Gynecol Reprod Biol
+- new | 2025 | 39951927 | Randomized Controlled Trial | Efficacy of an Iranian herbal medicine formula for postoperative constipation in trauma patients with hip and lower limb fractures: A triple-blind, placebo-controlled randomized cl | Int J Orthop Trauma Nurs
+- new | 2025 | 41029339 | Randomized Controlled Trial | Effect of fennel extract on Anti-Müllerian Hormone and sonographic indices in infertile women with occult premature ovarian insufficiency: a randomized controlled clinical trial. | BMC Complement Med Ther
+- new | 2025 | 40641729 | Meta-Analysis/Systematic Review | Efficacy of Hormonal and Non-Hormonal Vaginal Gel Preparations on the Female Sexual Satisfaction Index in Postmenopausal Women with Sexual Dysfunction Syndrome: A PRISMA-compliant  | Sultan Qaboos Univ Med J
+- new | 2025 | 40450273 |  | Use of herbal products for gas pain in children: a questionnaire-based study and alkaloid content analysis. | BMC Complement Med Ther
+- new | 2025 | 40954451 |  | Optimizing sweet fennel growth and quality: the impact of cobalt supplement on vegetative growth, yield, and chemical composition. | BMC Plant Biol
+- new | 2024 | 39759925 | Review | Evaluation of the Efficacy of Medicinal Plants in Treating Bacterial Vaginosis: A Comprehensive Systematic Review of Interventional Studies. | Iran J Nurs Midwifery Res
+- new | 2024 | 38337634 | Review | Nutraceuticals and Pain Disorders of the Gut-Brain Interaction in Infants and Children: A Narrative Review and Practical Insights. | Nutrients
+- new | 2024 | 38747274 | Randomized Controlled Trial | Effect of Salvia hispanica (Chia seeds) and Foeniculum vulgare (Fennel seeds) against weight-loss and lipid profile in obese human subjects. | Pak J Pharm Sci
+- new | 2024 | 39446725 | Observational Study/Research Support, Non-U.S. Gov't | Exploring galactagogue use among breastfeeding women: Insights from an observational study. | PLoS One
+- new | 2024 | 38630399 |  | Co-application of biochar and selenium nanoparticles improves yield and modifies fatty acid profile and essential oil composition of fennel (Foeniculum vulgare Mill.) under cadmium | Environ Sci Pollut Res Int
+- new | 2024 | 39309989 |  | A comparative study of fennel and dimethicone capsule effects on flatulence rate after cesarean section: A double-blind randomized controlled trial. | J Educ Health Promot
+- new | 2024 | 40255949 |  | Evaluation of the effect of Foeniculum vulgare fruit and Echium amoenum flower combination on the severity of physical and psychological symptoms of premenstrual syndrome. | Avicenna J Phytomed
+- new | 2024 | 37052171 | Research Support, Non-U.S. Gov't | Use and perceived effectiveness of non-pharmacological home remedies for digestive symptoms: a questionnaire-based survey among primary care patients. | Fam Pract
+- new | 2023 | 38312763 | Review | Role of Alternate Therapies to Improve the Quality of Life in Menopausal Women: A Systematic Review. | J Midlife Health
+- new | 2023 | 37694196 |  | Comparison of the Effect of Fennel and Evening Primrose Oil on Menopausal Problems and Hormonal Levels: A Randomized Controlled Trial. | Iran J Nurs Midwifery Res
+- new | 2023 | 37457161 |  | Cookies enriched with anethole and secoisolariciresinol diglucoside from flaxseed and fennel seeds improve hypercholesterolemia, lipid profile, and liver functions: A pilot study. | Food Sci Nutr
+- new | 2023 | 37655000 |  | "Ferula assa-foetida L" or "Foeniculum vulgare"? Which one is more effective in the management of polycystic ovarian syndrome? A randomized, placebo controlled, triple-blinded. | Avicenna J Phytomed
+- new | 2023 | 38116546 |  | Effects of Komouni Formulation (Herbal Product of Persian Medicine) With a Low-Calorie Diet on Cardiometabolic Risk Factors in Overweight and Obese Women: A Triple-Blinded Randomiz | Iran J Pharm Res
+- new | 2023 | 37160299 |  | Effect of Fennel-Valerian Extract on Hot Flashes and Sleep Disorders in Postmenopausal Women: A Randomized Trial. | J Menopausal Med
+- new | 2023 | 37141519 |  | [Impact of essential oil vapors inhalation on blood pressure in patients with hypertension]. | Vopr Kurortol Fizioter Lech Fiz Kult [rus]
+- new | 2023 | 37488427 | Research Support, Non-U.S. Gov't | Seaweed extract and arbuscular mycorrhiza co-application affect the growth responses and essential oil composition of Foeniculum vulgare L. | Sci Rep
+- new | 2023 | 36473199 |  | Could Orthostatic Stress Responses Predict Acute Mountain Sickness Susceptibility Prior to High Altitude Travel? A Pilot Study. | High Alt Med Biol
+- new | 2023 | 37496541 |  | Assessment of the Attitudes, Beliefs, and Potential Effects of Nutritional Phytoestrogenic Plant Consumption on Women's Health in Saudi Arabia. | Cureus
+- new | 2022 | 35326185 |  | The Protective Effect of Anethole against Renal Ischemia/Reperfusion: The Role of the TLR2,4/MYD88/NFκB Pathway. | Antioxidants (Basel)
+- new | 2022 | 36010156 | Review | Herbal Approaches to Pediatric Functional Abdominal Pain. | Children (Basel)
+- new | 2022 | 36589129 |  | Use of stability statistics in the selection of Clausena heptaphylla (Roxb.) Wight & Arn for novel anethole rich strain (Jor Lab CH-2). | Front Plant Sci
+- new | 2022 | 34677151 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Iranian Polyherbal Syrup (Zufa syrup) on oxygen saturation and clinical symptoms in suspected patients with COVID-19: a triple-blinded, randomized, placebo-controlled tr | Med Gas Res
+- new | 2022 | 35339396 | Randomized Controlled Trial | Efficacy of the herbal formula of Foeniculum vulgare and Rosa damascena on elderly patients with functional constipation: A double-blind randomized controlled trial. | J Integr Med
+- new | 2022 | 36393822 |  | Effects of Combination Therapy with Bunium persicum and Foeniculum vulgare Extracts on Patients with Polycystic Ovary Syndrome. | Adv Biomed Res
+- new | 2022 | 36501005 |  | Role of Aromatic Herbs and Spices in Salty Perception of Patients with Hyposmia. | Nutrients
+- new | 2022 | 36099144 |  | Medicinal Plants Used for Abdominal Discomfort - Information from Cancer Patients and Medical Students. | In Vivo
+- new | 2022 | 35951072 | Randomized Controlled Trial | Traditional Chinese Nursing Using Fennel With Coarse Salt for Ironing and Umbilical Moxibustion for Epigastric Pain With Spleen-stomach Vacuity Cold. | Altern Ther Health Med
+- HELD REF-1642 | 2021 | 33725577 | Meta-Analysis/Systematic Review | Fennel (Foeniculum vulgare Miller) for the management of menopausal women's health: A systematic review and meta-analysis. | Complement Ther Clin Pract
+- HELD REF-0604 | 2021 | 34187122 | Meta-Analysis/Systematic Review | Effect of fennel on primary dysmenorrhea: a systematic review and meta-analysis. | J Complement Integr Med
+- new | 2021 | 35185533 | Review | Comparison of Herbal Medicines Used for Women's Menstruation Diseases in Different Areas of the World. | Front Pharmacol
+- new | 2021 | 33708258 |  | The Effect of Jazar Supplement on Quality of Life and Sexual Function in Postmenopausal Women: A Double-Blind, Randomized, Placebo-Controlled Trial. | Evid Based Complement Alternat Med
+- new | 2021 | 33465795 | Randomized Controlled Trial | The Effectiveness of Melissa Officinalis L. versus Citalopram on Quality of Life of Menopausal Women with Sleep Disorder: A Randomized Double-Blind Clinical Trial. | Rev Bras Ginecol Obstet
+- new | 2021 | 33271298 | Randomized Controlled Trial | Effect of hypocaloric high-protein, low-carbohydrate diet supplemented with fennel on androgenic and anthropometric indices in overweight and obese women with polycystic ovary synd | Complement Ther Med
+- new | 2021 | 33962824 | Systematic Review | Impact of phytoestrogens on treatment of urogenital menopause symptoms: A systematic review of randomized clinical trials. | Eur J Obstet Gynecol Reprod Biol
+- HELD REF-0605 | 2020 | 32603204 | Meta-Analysis/Systematic Review | Efficacy of herbal medicine (cinnamon/fennel/ginger) for primary dysmenorrhea: a systematic review and meta-analysis of randomized controlled trials. | J Int Med Res
+- new | 2020 | 32421208 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Oral galactagogues (natural therapies or drugs) for increasing breast milk production in mothers of non-hospitalised term infants. | Cochrane Database Syst Rev
+- new | 2020 | 33753665 | Review | The effect of fennel seeds on pH of saliva - A clinical study. | Indian J Dent Res
+- new | 2020 | 32893511 | Review | A Review of Pharmacological Treatments for Vaginal Atrophy in Postmenopausal Women in Iran. | J Menopausal Med
+- new | 2020 | 31987249 | Meta-Analysis/Systematic Review | Western herbal medicines in the treatment of irritable bowel syndrome: A systematic review and meta-analysis. | Complement Ther Med
+- HELD REF-3558 | 2020 | 33182553 | Meta-Analysis/Systematic Review | Fennel for Reducing Pain in Primary Dysmenorrhea: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Nutrients
+- new | 2020 | 30370852 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of a Herbal Formulation Based on Foeniculum Vulgare in Oligo/Amenorrhea: A Randomized Clinical Trial. | Curr Drug Discov Technol
+- new | 2020 | 32682507 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Heated fennel therapy promotes the recovery of gastrointestinal function in patients after complex abdominal surgery: A single-center prospective randomized controlled trial in Chi | Surgery
+- new | 2020 | 33110044 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of Fennel seed powder on estradiol levels, menopausal symptoms, and sexual desire in postmenopausal women. | Menopause
+- new | 2020 | 33224571 |  | Promising preventive and therapeutic effects of TaibUVID nutritional supplements for COVID-19 pandemic: towards better public prophylaxis and treatment (A retrospective study). | Am J Blood Res
+- new | 2020 | 32835919 | Randomized Controlled Trial | Effect of sweet fennel seed extract capsule on knee pain in women with knee osteoarthritis. | Complement Ther Clin Pract
+- new | 2019 | 31080784 | Review | Foeniculum vulgare as Valuable Plant in Management of Women's Health. | J Menopausal Med
+- new | 2019 | 30957134 |  | Prevalence of herbal medicines in patients with chronic allergic disorders in Western Saudi Arabia. | Saudi Med J
+- new | 2019 | 31711532 | Research Support, Non-U.S. Gov't/Review | An overview of systematic reviews of complementary and alternative therapies for infantile colic. | Syst Rev
+- new | 2019 | 30786797 | Review | An overview of the phytoestrogen effect on vaginal health and dyspareunia in peri- and post-menopausal women. | Post Reprod Health
+- new | 2019 | 34466481 |  | Effect of Aslagh Capsule, a Traditional Compound Herbal Product on Oligomenorrhea in Patients with Polycystic Ovary Syndrome: A Three-Arm, Open-label, Randomized, Controlled Trial. | Galen Med J
+- new | 2019 | 30005170 | Randomized Controlled Trial | The Safety of Mother's Milk® Tea: Results of a Randomized Double-Blind, Controlled Study in Fully Breastfeeding Mothers and Their Infants. | J Hum Lact
+- new | 2019 | 31598511 |  | Effect of the Mixed Herbal Medicines Extract (Fennel, Chamomile, and Saffron) on Menopause Syndrome: a Randomized Controlled Clinical Trial. | J Caring Sci
+- new | 2019 | 34466504 |  | Efficacy of a Persian Herbal Remedy and Electroacupuncture on Metabolic Profiles and Anthropometric Parameters in Women with Polycystic Ovary Syndrome: A Randomized Controlled Tria | Galen Med J
+- new | 2019 | 30856025 | Comparative Study/Randomized Controlled Trial | The comparison of fennel infusion plus dry cupping versus metformin in management of oligomenorrhoea in patients with polycystic ovary syndrome: a randomised clinical trial. | J Obstet Gynaecol
+- new | 2019 | 31763211 |  | Effect of an herbal capsule on chronic constipation among menopausal women: A randomized controlled clinical trial. | Avicenna J Phytomed
+- new | 2019 | 31358715 |  | The Antifungal Effects of Two Herbal Essences in Comparison with Nystatin on the Candida Strains Isolated from the Edentulous Patients. | J Contemp Dent Pract
+- new | 2019 | 31266612 |  | The use of complementary and alternative medicine among women with breast cancer in Saudi Arabia. | Appl Nurs Res
+- HELD REF-3557 | 2018 | 28891367 | Randomized Controlled Trial | Effect of Foeniculum vulgare (fennel) on symptoms of depression and anxiety in postmenopausal women: a double-blind randomised controlled trial. | J Obstet Gynaecol
+- new | 2018 | 29397088 | Review | Management of acute cough by Zataria multiflora Boiss as an alternative treatment. | J Integr Med
+- new | 2018 | 29632841 | Review | The effectiveness and safety of Iranian herbal medicines for treatment of premenstrual syndrome: A systematic review. | Avicenna J Phytomed
+- new | 2018 | 29755029 |  | A double-blind, placebo-controlled trial of Fennel (Foeniculum vulgare) on menopausal symptoms: A high placebo response. | J Turk Ger Gynecol Assoc
+- new | 2018 | 30306546 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dietary modifications for infantile colic. | Cochrane Database Syst Rev
+- new | 2018 | 30156931 | Meta-Analysis/Systematic Review | Effect of phytoestrogens on sexual function in menopausal women: a systematic review and meta-analysis. | Climacteric
+- new | 2018 | 29595668 |  | Fennel (Foeniculum vulgare) on management of menopausal symptoms: A protocol for systematic review of randomized controlled trials. | Medicine (Baltimore)
+- new | 2018 | 29765928 |  | Aromatherapy for Sexual Problems in Menopausal Women: A Systematic Review and Meta-analysis. | J Menopausal Med
+- new | 2018 | 30671414 |  | Effect of Foeniculum Vulgare (Fennel) on Sleep Quality of Menopausal Women: A Double-blinded, Randomized Placebo-controlled Trial. | J Menopausal Med
+- new | 2018 | 29696061 | Randomized Controlled Trial | Effect of fennel vaginal cream on sexual function in postmenopausal women: A double blind randomized controlled trial. | J Med Life
+- new | 2018 | 29765930 |  | Effect of Fennel on the Health Status of Menopausal Women: A Systematic and Meta-analysis. | J Menopausal Med
+- new | 2018 | 30084707 | Randomized Controlled Trial | Effect of vaginal suppository on bacterial vaginitis based on Persian medicine (Iranian traditional medicine): a randomised double blind clinical study. | J Obstet Gynaecol
+- new | 2018 | 29765924 |  | The Effect of Short-term Treatment with Fennel on Lipid Profile in Postmenopausal Women: A Randomized Controlled Trial. | J Menopausal Med
+- new | 2018 | 30386118 |  | Efficacy of bio-optimized extracts of turmeric and essential fennel oil on the quality of life in patients with irritable bowel syndrome. | Ann Gastroenterol
+- new | 2017 | 28990439 | Randomized Controlled Trial | Effect of Foeniculum vulgare (fennel) on vaginal atrophy in postmenopausal women: A double-blind, randomized, placebo-controlled trial. | Post Reprod Health
+- new | 2017 | 29354616 |  | The Effect of Foeniculum Vulgare (Fennel) on Body Composition in Postmenopausal Women with Excess Weight: A Double-blind Randomized Placebo-controlled Trial. | J Menopausal Med
+- new | 2017 | 28562281 | Systematic Review | Herbal Medicines for Gastrointestinal Disorders in Children and Adolescents: A Systematic Review. | Pediatrics
+- HELD REF-3556 | 2017 | 28509813 | Randomized Controlled Trial | Effect of Foeniculum vulgare Mill. (fennel) on menopausal symptoms in postmenopausal women: a randomized, triple-blind, placebo-controlled trial. | Menopause
+- new | 2017 | 29354615 |  | Effect of Phytoestrogen on Depression and Anxiety in Menopausal Women: A Systematic Review. | J Menopausal Med
+- new | 2017 | 28951861 |  | The Effect of Short-term Treatment with Fennel on Bone Density in Postmenopausal Women: A Randomized Controlled Trial. | J Menopausal Med
+- HELD REF-2586 | 2016 | 27000311 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dietary supplements for dysmenorrhoea. | Cochrane Database Syst Rev
+- new | 2016 | 26617271 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Foeniculum vulgare (fennel) vaginal cream on vaginal atrophy in postmenopausal women: A double-blind randomized placebo-controlled trial. | Maturitas
+- new | 2016 | 26655941 | Meta-Analysis/Systematic Review | Infant Colic-What works: A Systematic Review of Interventions for Breast-fed Infants. | J Pediatr Gastroenterol Nutr
+- new | 2016 | 27308645 | Multicenter Study/Randomized Controlled Trial | Curcumin and Fennel Essential Oil Improve Symptoms and Quality of Life in Patients with Irritable Bowel Syndrome. | J Gastrointestin Liver Dis
+- new | 2016 | 27576581 |  | Liquid and vapour-phase antifungal activities of essential oils against Candida albicans and non-albicans Candida. | BMC Complement Altern Med
+- new | 2016 | 27190943 |  | Effect of ACP-CPP Chewing Gum and Natural Chewable Products on Plaque pH, Calcium and Phosphate Concentration. | J Clin Diagn Res
+- new | 2015 | 26251835 |  | Fennel (Foeniculum vulgare) and Fenugreek (Trigonella foenum-graecum) Tea Drinking Suppresses Subjective Short-term Appetite in Overweight Women. | Clin Nutr Res
+- new | 2015 | 26867333 | Randomized Controlled Trial | [The Effect of Fennel Tea Drinking on Postoperative Gut Recovery after Gynecological Malignancies Operation]. | Sichuan Da Xue Xue Bao Yi Xue Ban [chi]
+- new | 2015 | 26465625 |  | Complementary and Alternative Medicine Use Among Cancer Patients and Determination of Affecting Factors: A Questionnaire Study. | Holist Nurs Pract
+- new | 2014 | 25384804 | Comparative Study/Multicenter Study | Benefit of supplements in functional dyspepsia after treatment of Helicobacter pylori. | Minerva Gastroenterol Dietol
+- new | 2014 | 24490010 |  | The effect of fennel (Foeniculum vulgare) gel 3% in decreasing hair thickness in idiopathic mild to moderate hirsutism, A randomized placebo controlled clinical trial. | Caspian J Intern Med
+- new | 2014 | 24981150 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of fennel and combined oral contraceptive on depot medroxyprogesterone acetate-induced amenorrhea: a randomized placebo-controlled trial. | Contraception
+- new | 2014 | 25085020 | Randomized Controlled Trial | The effect of fennel on pain quality, symptoms, and menstrual duration in primary dysmenorrhea. | J Pediatr Adolesc Gynecol
+- new | 2013 | 24403936 |  | Comparison of the effectiveness of combination of fennel extract/vitamin E with ibuprofen on the pain intensity in students with primary dysmenorrhea. | Iran J Nurs Midwifery Res
+- new | 2012 | 22365343 | Evaluation Study/Systematic Review | [Which treatments for infantile colics?]. | Presse Med [fre]
+- new | 2012 | 23559811 |  | Effect of fennel on pain intensity in dysmenorrhoea: A placebo-controlled trial. | Ayu
+- new | 2012 | 22159968 | Research Support, Non-U.S. Gov't | Subconscious olfactory influences of stimulant and relaxant odors on immune function. | Eur Arch Otorhinolaryngol
+- new | 2011 | 21444591 | Comparative Study/Research Support, Non-U.S. Gov't/Systematic Review | Nutritional supplements and other complementary medicines for infantile colic: a systematic review. | Pediatrics
+- new | 2011 | 23926506 |  | Comparing the Effects of Echinophora-platyloba, Fennel and Placebo on Pre-menstrual Syndrome. | J Reprod Infertil
+- new | 2010 | 20433751 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized clinical trial of a phytotherapic compound containing Pimpinella anisum, Foeniculum vulgare, Sambucus nigra, and Cassia augustifolia for chronic constipation. | BMC Complement Altern Med
+- new | 2010 | 21195885 |  | Role of pollen allergy in Taiwanese patients with allergic rhinitis. | J Formos Med Assoc
+- new | 2010 | 20872924 |  | Use of herbal products among 392 Italian pregnant women: focus on pregnancy outcome. | Pharmacoepidemiol Drug Saf
+- new | 2010 | 20446230 |  | [Use of herbal medicine in German children - prevalence, indications and motivation]. | Dtsch Med Wochenschr [ger]
+- new | 2009 | 19132679 | Review | [Herbal medicines for children. Fennel tea and Co]. | Pharm Unserer Zeit [ger]
+- new | 2008 | 18970951 | Case Reports | A striking and frequent cause of premature thelarche in children: Foeniculum vulgare. | J Pediatr Surg
+- new | 2008 | 18637394 |  | Course of changes in salivary pH-values after intake of different beverages in young children. | Oral Health Prev Dent
+- new | 2007 | 17505138 | Comparative Study | Detection of some safe plant-derived foods for LTP-allergic patients. | Int Arch Allergy Immunol
+- new | 2006 | 30000936 | Review | Black Seed. | 
+- new | 2006 | 17037712 | Comparative Study/Randomized Controlled Trial | Comparison of the effectiveness of fennel and mefenamic acid on pain intensity in dysmenorrhoea. | East Mediterr Health J
+- new | 2006 | 16329162 | Research Support, Non-U.S. Gov't | Herbal products: behaviors and beliefs among Italian women. | Pharmacoepidemiol Drug Saf
+- new | 2005 | 16041731 | Clinical Trial/Randomized Controlled Trial | A randomized double-blind placebo-controlled trial of a standardized extract of Matricariae recutita, Foeniculum vulgare and Melissa officinalis (ColiMil) in the treatment of breas | Phytother Res
+- new | 2003 | 13678227 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Antihirsutism activity of Fennel (fruits of Foeniculum vulgare) extract. A double-blind placebo controlled study. | Phytomedicine
+- SEEN | 2003 | 12868253 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of fennel (Foeniculum Vulgare) seed oil emulsion in infantile colic: a randomized, placebo-controlled study. | Altern Ther Health Med
+- new | 2003 | 15277119 |  | The effect of a herbal water-extract on histamine release from mast cells and on allergic asthma. | J Herb Pharmacother
+- new | 2003 | 14727448 |  | [Use of phytotherapy in children up to 5 years of age in a central and peripheral area of the city of Sao Paulo]. | Rev Esc Enferm USP [por]
+- new | 2002 | 12027075 | Case Reports | Occupational rhinoconjunctivitis and food allergy because of aniseed sensitization. | Ann Allergy Asthma Immunol
+- new | 2001 | 11683829 |  | Sensitization and cross-reaction patterns in Danish Compositae-allergic patients. | Contact Dermatitis
+- new | 1997 | 9201368 |  | Relevance of pollen-specific IgE levels to the development of Apiaceae hypersensitivity in patients with birch pollen allergy. | Allergy
+- new | 1997 | 9260218 | Clinical Trial | Labial food challenge in children with food allergy. | Pediatr Allergy Immunol
+- new | 1996 | 23194763 |  | Phytotherapy in functional upper abdominal complaints Results of a clinical study with a preparation of several plants. | Phytomedicine
+- new | 1995 | 8668588 | Comparative Study | [Diagnosis of food allergy caused by fruit and vegetables in children with atopic dermatitis]. | Pediatr Med Chir [ita]
+- new | 1993 | 8161113 |  | [Plasma levels of psoralens after celery ingestion]. | Ann Dermatol Venereol [fre]
+- new | 1991 | 1957997 | Research Support, Non-U.S. Gov't | Spice allergy in celery-sensitive patients. | Allergy
+
+### PubMed SR - 44 hits, 15 not already listed above, 15 new
+- new | 2026 | 41761211 | Review | Herbal compounds in the treatment of polycystic ovary syndrome: an updated systematic review. | J Ovarian Res
+- new | 2025 | 40771488 | Review | Medicinal Plants for Chemotherapy-Induced Nausea and Vomiting: A Systematic Review of Antiemetic, Chemosensitizing, and Immunomodulatory Mechanisms. | Ther Clin Risk Manag
+- new | 2024 | 38791506 | Systematic Review | Plant-Based HSP90 Inhibitors in Breast Cancer Models: A Systematic Review. | Int J Mol Sci
+- new | 2023 | 35916457 | Systematic Review | Polycystic ovaries and herbal remedies: A systematic review. | JBRA Assist Reprod
+- new | 2023 | 38068725 | Scoping Review | A Scoping Review of the Clinical Evidence for the Health Benefits of Culinary Doses of Herbs and Spices for the Prevention and Treatment of Metabolic Syndrome. | Nutrients
+- new | 2022 | 36624949 | Meta-Analysis/Research Support, Non-U.S. Gov't | Essential Oils Land Footprint: A Sustainability Meta-Analysis of Essential Oils Biopesticides. | Front Biosci (Landmark Ed)
+- new | 2022 | 35490427 | Systematic Review | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review. | Infect Disord Drug Targets
+- new | 2022 | 36295037 | Review | Alpha-Phellandrene and Alpha-Phellandrene-Rich Essential Oils: A Systematic Review of Biological Activities, Pharmaceutical and Food Applications. | Life (Basel)
+- new | 2021 | 33049342 | Systematic Review | A systematic review on the ethnoveterinary uses of mediterranean salt-tolerant plants: Exploring its potential use as fodder, nutraceuticals or phytotherapeutics in ruminant produc | J Ethnopharmacol
+- new | 2020 | 33383896 |  | The Power of Wild Plants in Feeding Humanity: A Meta-Analytic Ethnobotanical Approach in the Catalan Linguistic Area. | Foods
+- new | 2019 | 31239862 | Review | The Effects of Various Essential Oils on Epilepsy and Acute Seizure: A Systematic Review. | Evid Based Complement Alternat Med
+- new | 2019 | 31143299 | Review | Herbs and Spices- Biomarkers of Intake Based on Human Intervention Studies - A Systematic Review. | Genes Nutr
+- new | 2018 | 29500924 | Meta-Analysis/Systematic Review | The effects of fennel on menstrual bleeding: A systematic review and meta-analysis. | J Complement Integr Med
+- new | 2018 | 29744355 | Systematic Review | Herbal Medicine for Oligomenorrhea and Amenorrhea: A Systematic Review of Ancient and Conventional Medicine. | Biomed Res Int
+- new | 2006 | 30000838 | Review | Fenugreek. | 
+
+### PubMed SAFE - 239 hits, 154 not already listed above, 152 new
+- new | 2026 | 40770474 | Review | Natural Oil and Polycystic Ovary Syndrome: A Comprehensive Review of Therapeutic Benefits. | Curr Top Med Chem
+- new | 2026 | 41428323 |  | Health Risk Assessment of Toxic Trace Elements in Medicinal Herbs from Algeria. | Biol Trace Elem Res
+- new | 2026 | 42884613 |  | In Silico Exploration of Foods and Compounds That Modulate Nicotine Metabolism. | Nutrients
+- new | 2026 | 41754280 |  | Conventional and Rock-Based Potassium Fertilization Improves Fennel (Foeniculum vulgare Mill.) Performance Under Extended Irrigation Intervals. | Plants (Basel)
+- new | 2026 | 43069535 | Review | Beyond Bioassays: Why are Apiaceae-Derived Mosquitocides yet to Reach Vector Control Programs? | Vector Borne Zoonotic Dis
+- new | 2026 | 42207055 |  | A standardized Ferula supplement (Menotrack) to prevent symptoms in post-menopause: a 3-month supplement registry. | Panminerva Med
+- new | 2026 | 42582244 |  | In Vitro Comparative Study of Antimicrobial Activity of Chia Seeds (Salvia hispanica) with Fennel Seeds (Foeniculum vulgare) and 0.2% Chlorhexidine Against Streptococcus mutans. | Int J Clin Pediatr Dent
+- new | 2026 | 40958122 |  | Assessing Acute and Subacute Toxicity and Phytochemical Screening of the Methanolic Extract of Foeniculum vulgare in Wistar Rats. | J Appl Toxicol
+- new | 2026 | 42087407 |  | Insecticidal Potential of Essential Oils from Origanum onites, Lavandula angustifolia, and Foeniculum vulgare Against Agonoscena pistaciae: Integrated In Vitro and In Silico Approa | Chem Biodivers
+- new | 2026 | 41315112 |  | Combined use of proline and microbes on yield attributes, photosynthetic efficiency, water relations, nutrient acquisition and antioxidative defense mechanisms of fennel plants und | Biol Futur
+- new | 2025 | 41305003 | Review | Cardiovascular Effects, Phytochemistry, Drug Interactions, and Safety Profile of Foeniculum vulgare Mill. (Fennel): A Comprehensive Review. | Pharmaceuticals (Basel)
+- new | 2025 | 40649373 |  | Foeniculum vulgare Mill. Mitigates Scopolamine-Induced Cognitive Deficits via Antioxidant and Neuroprotective Mechanisms in Zebrafish. | Molecules
+- new | 2025 | 40548869 | Case Reports | A Rare Case of Systemic Reaction to Carrot Due to PR-10 in a Young Child. | Pediatr Allergy Immunol Pulmonol
+- new | 2025 | 40956586 |  | Investigating the Antifibrotic Action of Foeniculum vulgare Root Bark Volatile Oil Through the HK2/PKM2/LDHA Pathway. | Phytother Res
+- new | 2025 | 40647003 |  | Ultrasound and Heat Treatment and Its Potential to Reduce Fennel Allergenicity. | Foods
+- new | 2025 | 39789567 |  | Reasons, associated factors, and attitudes toward breastfeeding mothers' use of complementary medicine products: a study from Türkiye. | Int Breastfeed J
+- new | 2025 | 40369160 |  | Toxicity of Foeniculum vulgare essential oil, its main component and nanoformulation against Phthorimaea absoluta and the generalist predator Macrolophus pygmaeus. | Sci Rep
+- new | 2025 | 40286023 |  | A Targeted Mass Spectrometric Approach to Evaluate the Anti-Inflammatory Activity of the Major Metabolites of Foeniculum vulgare Mill. Waste in Human Bronchial Epithelium. | Molecules
+- new | 2025 | 41020816 |  | Chemical Composition of Clove and Fennel Seed Essential Oils and a Comparison of Their In Silico and In Vitro Antibacterial Activity with That of Their Main Compounds. | Curr Issues Mol Biol
+- new | 2025 | 40397106 |  | Molecular dosimetry of estragole and 1'-hydroxyestragole-induced DNA adduct formation, clastogenicity and cytotoxicity in human liver cell models. | Arch Toxicol
+- new | 2025 | 41373965 | Review | Medicinal Plants in Food Supplements for Gastrointestinal Disorders: Critical Assessment of Health Claims on Gastric Acid Regulation. | Nutrients
+- new | 2025 | 40591211 |  | Fenchone attenuates CD68-dependent 7-ketocholesterol accumulation, cholesterol dyshomeostasis and inflammatory responses via modulation of macrophage polarization. | Inflammopharmacology
+- HELD REF-1641 | 2024 | 36803269 | Review | Exploring fennel (Foeniculum vulgare): Composition, functional properties, potential health benefits, and safety. | Crit Rev Food Sci Nutr
+- new | 2024 | 38715699 | Review | A Narrative Review of Herbal Remedies for Managing Hirsutism. | Int J Prev Med
+- new | 2024 | 39326099 | Review | Anethole in cancer therapy: Mechanisms, synergistic potential, and clinical challenges. | Biomed Pharmacother
+- new | 2024 | 39303382 | Case Reports | Ayurvedic management of systemic sclerosis - A case report. | J Ayurveda Integr Med
+- new | 2024 | 37326731 |  | Essential oils and extracts of plants as biocides against microorganisms isolated from the ruins of the Roman city of Conímbriga (Portugal). | Environ Sci Pollut Res Int
+- new | 2024 | 39456415 |  | Protective Effects of Anethole in Foeniculum vulgare Mill. Seed Ethanol Extract on Hypoxia/Reoxygenation Injury in H9C2 Heart Myoblast Cells. | Antioxidants (Basel)
+- new | 2024 | 38838824 |  | Antibacterial, antibiofilm, and chemical profiles of Ammi visnaga L. and Foeniculum vulgare mill. Essential oils, and ADMET, molecular docking investigation of essential oils major | Fitoterapia
+- new | 2024 | 38952927 |  | Bioinspired chitosan based functionalization of biomedical implant surfaces for enhanced hemocompatibility, antioxidation and anticoagulation potential: an in silico and in vitro s | RSC Adv
+- new | 2023 | 37383339 | Review | Incredible Combination of Lifestyle Modification and Herbal Remedies for Polycystic Ovarian Syndrome Management. | Evid Based Complement Alternat Med
+- new | 2023 | 35789993 |  | Binary Synergistic Combinations of Lavender and Fennel Essential Oils with Amoxicillin. | Planta Med
+- new | 2023 | 37908453 |  | Safety and efficacy of feed additives consisting of essential oils from the fruit and stems of Foeniculum vulgare Mill. ssp. vulgare: Bitter fennel oil for use in all animal specie | EFSA J
+- new | 2023 | 38049715 |  | An extract from the frass of swallowtail butterfly (Papilio machaon) larvae inhibits HCT116 colon cancer cell proliferation but not other cancer cell types. | BMC Genomics
+- new | 2023 | 36778012 |  | Fenchone, a monoterpene: Toxicity and diuretic profiling in rats. | Front Pharmacol
+- new | 2023 | 36603723 |  | Ixiolirion tataricum mucilage/chitosan based antioxidant films activated by free and nanoliposomal fennel essential oil. | Int J Biol Macromol
+- new | 2023 | 36620493 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the fruit of Foeniculum vulgare Mill. ssp. vulgare var. dulce (sweet fennel tincture) for use in all an | EFSA J
+- new | 2023 | 36773449 |  | Ginkgo, fennel, and flaxseed can affect hormone release by porcine ovarian cells and modulate the effect of toluene. | Reprod Biol
+- new | 2023 | 36739890 |  | FEMA GRAS assessment of natural flavor complexes: Allspice, anise, fennel-derived and related flavoring ingredients. | Food Chem Toxicol
+- new | 2023 | 37046904 |  | Complementary and Alternative Medicines in Northern Cyprus: Public Awareness, Patterns of Use, and Attitudes. | Healthcare (Basel)
+- new | 2023 | 37843182 |  | Approach to Study the Efficacy and Safety of New Complementary and Alternative Medicine Formulations: Lesson during COVID-19 from Sri Lanka. | WHO South East Asia J Public Health
+- new | 2023 | 36219334 | Review | Critical Review on Nutritional, Bioactive, and Medicinal Potential of Spices and Herbs and Their Application in Food Fortification and Nanotechnology. | Appl Biochem Biotechnol
+- new | 2023 | 37835225 |  | Assessment of Toxic Pyrrolizidine and Tropane Alkaloids in Herbal Teas and Culinary Herbs Using LC-Q-ToF/MS. | Foods
+- new | 2022 | 34811612 | Review | Antioxidant and antimicrobial activities of phytonutrients as antibiotic substitutes in poultry feed. | Environ Sci Pollut Res Int
+- new | 2022 | 36438833 | Review | From kitchen to clinic: Pharmacotherapeutic potential of common spices in Indian cooking in age-related neurological disorders. | Front Pharmacol
+- new | 2022 | 35875223 |  | Investigation of carbonate addition on risk element concentrations in various teas. | J Food Sci Technol
+- new | 2022 | 36139233 | Review | Anaemia in Ruminants Caused by Plant Consumption. | Animals (Basel)
+- new | 2022 | 35167688 |  | Pre-Clinical Safety and Efficacy Evaluation of a Herbal Nanoemulsion-Based Formulation for Treating Inflammatory Bowel Disease. | J AOAC Int
+- new | 2022 | 36583172 | Review | Indian traditional medicinal plants in ophthalmic diseases. | Avicenna J Phytomed
+- new | 2022 | 35761696 | Research Support, Non-U.S. Gov't | Microbiological safety and stability of novel green sauces made with sea fennel (Crithmum maritimum L.). | Food Res Int
+- new | 2022 | 36552526 |  | Phenolics and Volatile Compounds of Fennel (Foeniculum vulgare) Seeds and Their Sprouts Prevent Oxidative DNA Damage and Ameliorates CCl(4)-Induced Hepatotoxicity and Oxidative Str | Antioxidants (Basel)
+- new | 2022 | 33523705 | Review | Recent advances on the efficacy of essential oils on mycotoxin secretion and their mode of action. | Crit Rev Food Sci Nutr
+- new | 2022 | 35958602 | Research Support, Non-U.S. Gov't | Development of mouse model for oral allergy syndrome to identify IgE cross-reactive pollen and food allergens: ragweed pollen cross-reacts with fennel and black pepper. | Front Immunol
+- new | 2022 | 36090109 |  | First report on the metabolic characterization of Sterigmatocystin production by select Aspergillus species from the Nidulantes section in Foeniculum vulgare. | Front Microbiol
+- new | 2022 | 36076409 | Research Support, Non-U.S. Gov't | Phenolic profile, safety, antioxidant and anti-inflammatory activities of wasted Bunium ferulaceum Sm. aerial parts. | Food Res Int
+- new | 2021 | 34868790 | Case Reports | Dangers of Using Bee Propolis and Foeniculum Vulgare Before Browplasty. | Cureus
+- new | 2021 | 32822009 |  | Ameliorative effect of Fennel (Foeniculum vulgare) essential oil on chlorpyrifos toxicity in Cyprinus carpio. | Environ Sci Pollut Res Int
+- new | 2021 | 34158792 |  | Effect of Foeniculum Vulgare Aqueous and Alcoholic Seed Extract against Zoonotic Cutaneous Leishmaniasis. | Ethiop J Health Sci
+- new | 2021 | 34694719 |  | Biosynthesis and characterisation of solid lipid nanoparticles and investigation of toxicity against breast cancer cell line. | IET Nanobiotechnol
+- new | 2021 | 34574258 | Review | Alkenylbenzenes in Foods: Aspects Impeding the Evaluation of Adverse Health Effects. | Foods
+- new | 2021 | 33598196 |  | The hepatoprotective effects of fennel seeds extract and trans-Anethole in streptozotocin-induced liver injury in rats. | Food Sci Nutr
+- new | 2021 | 34799324 |  | Assessment of acute, sub-acute, chronic and genotoxicity of polyherbal formulation DCD-684 in mice. | Pak J Pharm Sci
+- new | 2021 | 34323770 |  | Intercrop mulch affects soil biology and microbial diversity in rainfed transgenic Bt cotton hybrids. | Sci Total Environ
+- new | 2021 | 34802531 |  | Fumigant toxicity and biochemical effects of selected essential oils toward the red flour beetle, Tribolium castaneum (Coleoptera: Tenebrionidae). | Pestic Biochem Physiol
+- new | 2021 | 34063383 |  | Oxidative Stability, Microbial Safety, and Sensory Properties of Flaxseed (Linum usitatissimum L.) Oil Infused with Spices and Herbs. | Antioxidants (Basel)
+- new | 2021 | 34015424 |  | Bioactivation of estragole and anethole leads to common adducts in DNA and hemoglobin. | Food Chem Toxicol
+- new | 2021 | 33450288 |  | Global survey of medicinal plants during lactation and postpartum recovery: Evolutionary perspectives and contemporary health implications. | J Ethnopharmacol
+- new | 2021 | 32524639 | Research Support, Non-U.S. Gov't/Review | Curry versus cancer: Potential of some selected culinary spices against cancer with in vitro, in vivo, and human trials evidences. | J Food Biochem
+- new | 2021 | 34484681 |  | Nitric oxide mitigates thalidomide-induced abnormalities during germination and development of fennel seeds. | Toxicol Res (Camb)
+- new | 2021 | 34885663 |  | ICP-MS Assessment of Essential and Toxic Trace Elements in Foodstuffs with Different Geographic Origins Available in Romanian Supermarkets. | Molecules
+- new | 2021 | 34725578 |  | Efficacy of Natural Formulation Containing Activated Charcoal, Calcium Sennosides, Peppermint Oil, Fennel Oil, Rhubarb Extract, and Purified Sulfur (Nucarb®) in Relieving Constipat | Cureus
+- new | 2021 | 33395604 |  | Foeniculum vulgare seed extract induces apoptosis in lung cancer cells partly through the down-regulation of Bcl-2. | Biomed Pharmacother
+- new | 2021 | 33271262 |  | Risk of exposure to aflatoxin B(1), ochratoxin A, and fumonisin B(1) from spices used routinely in Lebanese cooking. | Food Chem Toxicol
+- new | 2021 | 34686003 |  | Potential of Essential Oils from Anise, Dill and Fennel Seeds for the Gypsy Moth Control. | Plants (Basel)
+- new | 2020 | 32259565 | Case Reports/Letter | Fennel as a cause of immediate hypersensitivity to toothpaste. | Ann Allergy Asthma Immunol
+- new | 2020 | 32383193 | Case Reports | English Sunday lunch dermatitis: Allergic contact dermatitis to parsnip, carrot, fennel (and ivy). | Contact Dermatitis
+- new | 2020 | 31963690 |  | Fumigant Toxicity in Myzus persicae Sulzer (Hemiptera: Aphididae): Controlled Release of (E)-anethole from Microspheres. | Plants (Basel)
+- new | 2020 | 31069662 |  | Chemical Composition and Antimicrobial and Cytotoxic Activities of Foeniculum vulgare Mill Essential Oils. | J Gastrointest Cancer
+- new | 2020 | 31893363 |  | Protective effects of fennel essential oil against oxidative stress and genotoxicity induced by the insecticide triflumuron in human colon carcinoma cells. | Environ Sci Pollut Res Int
+- new | 2020 | 30907324 |  | Virtual Structural Similarity Elucidates Bioactivity of Fenchone: A Phytochemical Enriched in Fennel Essential Oil. | Curr Drug Discov Technol
+- new | 2020 | 32526909 |  | Insecticidal Activity of Plant Powders against the Parasitoid, Pteromalus venustus, and Its Host, the Alfalfa Leafcutting Bee. | Insects
+- new | 2020 | 33371338 | Review | Antioxidant, Antimicrobial and Antiviral Properties of Herbal Materials. | Antioxidants (Basel)
+- new | 2020 | 32685518 |  | A 90-Day Oral Toxicity Study of the Ethanol Extract from Eupatorium japonicum Thunb and Foeniculum vulgare in Rats. | Biomed Res Int
+- new | 2019 | 31802869 |  | Therapeutic Potential Of Foeniculum vulgare Mill. Derived Selenium Nanoparticles In Arthritic Balb/c Mice. | Int J Nanomedicine
+- new | 2019 | 31248102 | Review | Kaempferol: A Key Emphasis to Its Anticancer Potential. | Molecules
+- new | 2019 | 31565931 |  | Detection of N-Acetyl-S-[3'-(4-methoxyphenyl)allyl]-l-Cys (AMPAC) in Human Urine Samples after Controlled Exposure to Fennel Tea: A New Metabolite of Estragole and trans-Anethole. | Chem Res Toxicol
+- HELD REF-1643 | 2019 | 31489666 | Research Support, Non-U.S. Gov't | Foeniculum vulgare (Fennel) promotes functional recovery and ameliorates oxidative stress following a lesion to the sciatic nerve in mouse model. | J Food Biochem
+- new | 2019 | 31387269 |  | Furocoumarin Content of Fennel-Below the Safety Threshold. | Molecules
+- new | 2018 | 29233689 |  | In vitro toxicity evaluation of estragole-containing preparations derived from Foeniculum vulgare Mill. (fennel) on HepG2 cells. | Food Chem Toxicol
+- new | 2018 | 30828560 | Case Reports | A Case of Severe Drug-induced Liver Injury Caused by Over the Counter Herb (Cinnamon): Review of Literature. | Euroasian J Hepatogastroenterol
+- new | 2018 | 29191726 |  | Essential oils of culinary herbs and spices display agonist and antagonist activities at human aryl hydrocarbon receptor AhR. | Food Chem Toxicol
+- new | 2017 | 29403626 | Review | A review of effective herbal medicines in controlling menopausal symptoms. | Electron Physician
+- new | 2017 | 28900448 | Review | Scolicidal agents for protoscolices of Echinococcus granulosus hydatid cyst: Review of literature. | J Res Med Sci
+- new | 2017 | 28610933 | Review | Herbal laxatives and antiemetics in pregnancy. | Reprod Toxicol
+- new | 2017 | 29611658 |  | Antimicrobial activity of some plant extracts against bacterial pathogens isolated from faeces of red deer (Cervus elaphus). | Pol J Vet Sci
+- new | 2017 | 28883697 |  | Protective effects of Foeniculum vulgare root bark extract against carbon tetrachloride-induced hepatic fibrosis in mice. | World J Gastroenterol
+- new | 2017 | 29268967 |  | Rescue effects of aqueous seed extracts of Foeniculum vulgare and Carum carvi against cadmium-induced hepatic, renal and gonadal damage in female albino rats. | Asian Pac J Trop Med
+- new | 2016 | 27041871 | Review | Review of Scientific Evidence of Medicinal Convoy Plants in Traditional Persian Medicine. | Pharmacogn Rev
+- new | 2016 | 26008751 | Review | Laūq: A Sustained-Release Dosage Form for Respiratory Disorders in Traditional Persian Medicine. | J Evid Based Complementary Altern Med
+- new | 2016 | 27802299 | Retracted Publication | RETRACTED: Protective Effects of Essential Oils as Natural Antioxidants against Hepatotoxicity Induced by Cyclophosphamide in Mice. | PLoS One
+- new | 2016 | 26868417 | Research Support, Non-U.S. Gov't | Sublethal Effects of Essential Oils From Eucalyptus staigeriana (Myrtales: Myrtaceae), Ocimum gratissimum (Lamiales: Laminaceae), and Foeniculum vulgare (Apiales: Apiaceae) on the  | J Econ Entomol
+- new | 2015 | 26055130 |  | Detection of pyrrolizidine alkaloids in German licensed herbal medicinal teas. | Phytomedicine
+- new | 2015 | 26604555 |  | Spasmolytic effect of traditional herbal formulation on guinea pig ileum. | J Ayurveda Integr Med
+- new | 2015 | 25966580 |  | [Comparative analysis of natural and synthetic antimutagens as regulators of gene expression in human cells under exposure to ionizing radiation]. | Genetika [rus]
+- new | 2015 | 26325431 | Observational Study | "Natural" relief of pregnancy-related symptoms and neonatal outcomes: above all do no harm. | J Ethnopharmacol
+- new | 2015 | 25977696 |  | Biosignals analysis for kidney function effect analysis of fennel aromatherapy. | Evid Based Complement Alternat Med
+- new | 2015 | 26246818 |  | Comparison of Scolicidal Effects of Amphotricin B, Silver Nanoparticles,_and Foeniculum vulgare Mill on Hydatid Cysts Protoscoleces. | Iran J Parasitol
+- new | 2015 | 25935540 |  | Toxic effects of sub-chronic exposure of male albino rats to emamectin benzoate and possible ameliorative role of Foeniculum vulgare essential oil. | Environ Toxicol Pharmacol
+- new | 2015 | 25891470 | Case Reports | [Rescue of 1 patient with red fennel poisoning with hemoperfusion]. | Zhonghua Wei Zhong Bing Ji Jiu Yi Xue [chi]
+- new | 2015 | 26695978 |  | [Relationship among allergic rhinitis, regional pollens and meteorological conditions in Kunming area]. | Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Z [chi]
+- new | 2014 | 24934554 | Research Support, Non-U.S. Gov't | Antimicrobial and P450 inhibitory properties of common functional foods. | J Pharm Pharm Sci
+- new | 2014 | 24458977 | Research Support, Non-U.S. Gov't | Fennel and raspberry leaf as possible inhibitors of acetaminophen oxidation. | Phytother Res
+- new | 2014 | 24617303 |  | Investigation of the cytotoxic, genotoxic, and apoptosis-inducing effects of estragole isolated from fennel (Foeniculum vulgare). | J Nat Prod
+- new | 2014 | 24384409 | Research Support, Non-U.S. Gov't | Chemical analysis of estragole in fennel based teas and associated safety assessment using the Margin of Exposure (MOE) approach. | Food Chem Toxicol
+- new | 2014 | 24030028 | Case Reports | Premature thelarche related to fennel tea consumption? | J Pediatr Endocrinol Metab
+- new | 2014 | 23843424 | Research Support, Non-U.S. Gov't | In vitro inhibition of human CYP1A2, CYP2D6, and CYP3A4 by six herbs commonly used in pregnancy. | Phytother Res
+- new | 2013 | 24067338 | Case Reports | Mugwort-fennel-allergy-syndrome associated with sensitization to an allergen homologous to Api g 5. | Eur Ann Allergy Clin Immunol
+- new | 2013 | 23210484 |  | Fennel allergy is a lipid-transfer protein (LTP)-related food hypersensitivity associated with peach allergy. | J Agric Food Chem
+- new | 2013 | 23275017 | Comparative Study | Medicinal properties of Foeniculum vulgare Mill. in traditional Iranian medicine and modern phytotherapy. | Chin J Integr Med
+- new | 2012 | 22926840 | Multicenter Study/Research Support, Non-U.S. Gov't | Herbal supplements in pregnancy: unexpected results from a multicentre study. | Hum Reprod
+- new | 2012 | 21999332 |  | Evaluation of essential oils for maintaining postharvest quality of Thompson seedless table grape. | Nat Prod Res
+- new | 2012 | 22518082 |  | Phenolic compounds from Foeniculum vulgare (Subsp. Piperitum) (Apiaceae) herb and evaluation of hepatoprotective antioxidant activity. | Pharmacognosy Res
+- new | 2011 | 24278574 |  | Effects of Medicinal herb Extracts and their Components on Steatogenic Hepatotoxicity in Sk-hep1 Cells. | Toxicol Res
+- new | 2008 | 22432465 | Case Reports | Severe iron deficiency anemia and gastrointestinal dysfunction associated with ingestion of pan masala. | J Diet Suppl
+- new | 2008 | 18976688 | Research Support, Non-U.S. Gov't | Chemomodulatory action of Foeniculum vulgare (Fennel) on skin and forestomach papillomagenesis, enzymes associated with xenobiotic metabolism and antioxidant status in murine model | Food Chem Toxicol
+- new | 2007 | 17479778 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pilot study investigating the ability of an herbal composite to alleviate clinical signs of respiratory dysfunction in horses with recurrent airway obstruction. | Can J Vet Res
+- new | 2007 | 17709257 | Research Support, Non-U.S. Gov't | Protective effect of Foeniculum vulgare essential oil and anethole in an experimental model of thrombosis. | Pharmacol Res
+- new | 2007 | 17988092 | Research Support, Non-U.S. Gov't | Inhibition on human liver cytochrome P450 3A4 by constituents of fennel (Foeniculum vulgare): identification and characterization of a mechanism-based inactivator. | J Agric Food Chem
+- new | 2006 | 30000940 | Review | Parsley. | 
+- new | 2006 | 16414224 | Research Support, Non-U.S. Gov't | Mechanism-based inhibition of CYP3A4 and CYP2D6 by Indonesian medicinal plants. | J Ethnopharmacol
+- new | 2006 | 16328317 |  | Safety implications regarding use of phytomedicines. | Eur J Clin Pharmacol
+- new | 2005 | 16248247 | Research Support, Non-U.S. Gov't | [Study on enhancing bioavailability of paeoniflorin by combined use with Chinese herbs for inner-warming]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2005 | 15662650 |  | Repellency and toxicity of aromatic plant extracts against the mosquito Culex pipiens molestus (Diptera: Culicidae). | Pest Manag Sci
+- new | 2004 | 15138375 | Review | [Fennel tea: risk assessment of the phytogenic monosubstance estragole in comparison to the natural multicomponent mixture]. | Forsch Komplementarmed Klass Naturheilkd [ger]
+- new | 2003 | 12727504 |  | Hepatoprotective effect of Foeniculum vulgare essential oil. | Fitoterapia
+- new | 2003 | 16285482 | Case Reports | [Occupational allergy to mugwort]. | J Dtsch Dermatol Ges [ger]
+- new | 2002 | 12078423 | Case Reports/Review | Food allergy and IgE sensitization caused by spices: CICBAA data (based on 589 cases of food allergy). | Allerg Immunol (Paris)
+- new | 2001 | 11448553 | Research Support, Non-U.S. Gov't | The effect of fennel essential oil on uterine contraction as a model for dysmenorrhea, pharmacology and toxicology study. | J Ethnopharmacol
+- new | 2000 | 11199122 | Research Support, Non-U.S. Gov't | Antioxidant and antimicrobial activity of Foeniculum vulgare and Crithmum maritimum essential oils. | Planta Med
+- new | 2000 | 11077188 | Review | Constituents of aromatic plants: II. Estragole. | Fitoterapia
+- new | 2000 | 10795656 | Case Reports | Fennel, cucumber, and melon allergy successfully treated with pollen-specific injection immunotherapy. | Ann Allergy Asthma Immunol
+- new | 2000 | 10871845 | Research Support, Non-U.S. Gov't | Anethole blocks both early and late cellular responses transduced by tumor necrosis factor: effect on NF-kappaB, AP-1, JNK, MAPKK and apoptosis. | Oncogene
+- new | 1999 | 10460442 | Case Reports | Plant-induced seizures: reappearance of an old problem. | J Neurol
+- new | 1999 | 10678493 |  | Effect of oral administration of fennel (Foeniculum vulgare) on ciprofloxacin absorption and disposition in the rat. | J Pharm Pharmacol
+- new | 1997 | 9012619 | Case Reports | Occupational allergic rhinoconjunctivitis and asthma due to fennel seed. | Ann Allergy Asthma Immunol
+- new | 1992 | 1440434 | Review | [Neglected allergens]. | Ther Umsch [ger]
+- new | 1991 | 1795520 | Comparative Study/Research Support, Non-U.S. Gov't | Toxicity studies in mice of ethanol extracts of Foeniculum vulgare fruit and Ruta chalepensis aerial parts. | J Ethnopharmacol
+- new | 1990 | 2336853 |  | [Antimutagenic activity of vegetable and fruit extracts against in-vitro benzo(a)pyrene]. | Z Gesamte Hyg [ger]
+- new | 1990 | 2373647 |  | [Pollinosis and oral allergy syndrome]. | HNO [ger]
+- new | 1987 | 3827282 | Case Reports | Compositae dermatitis in childhood. | Arch Dermatol
+- new | 1987 | 2444160 | Research Support, Non-U.S. Gov't | Occurrence of toxicity among protease, amylase, and color mutants of a nontoxic soy sauce koji mold. | Appl Environ Microbiol
+- new | 1984 | 6734454 |  | [Food allergy: the celery-mugwort-spice syndrome. Association with mango allergy?]. | Dtsch Med Wochenschr [ger]
+- new | 1983 | 6578721 |  | Examples of poisonous plants in Israel of importance to animals and man. | Arch Toxicol Suppl
+- new | 1951 | 14888359 |  | [Investigations on the effect of Foeniculum vulgare, Carum carvi, Anisum vulgare, Crataegus oxyacanthus, and Galga officinalis on lactation]. | Izv Meditsinskite Inst Bulg Akad Naukite [und]
+
+### PubMed OBS - 24 hits, 12 not already listed above, 12 new
+- new | 2026 | 41775830 |  | The association between medicinal herbs consumption and body weight and composition: a hospital based cross-sectional study. | Sci Rep
+- new | 2026 | 42786457 |  | Real-life use of non-pharmacological strategies and their relationship with symptom burden in primary dysmenorrhea: a cross-sectional study. | BMC Complement Med Ther
+- new | 2025 | 40608580 |  | Depressive symptoms, anxiety, stress, and the use of medicinal plants by nursing students. | Rev Gaucha Enferm [eng,por]
+- new | 2025 | 40312334 |  | Traditional care practices known and/or used by different ethnic groups for newborns during the postpartum period. | BMC Public Health
+- new | 2024 | 38716111 |  | The use of complementary and alternative medicine for functional gastrointestinal disorders among the saudi population. | Saudi Pharm J
+- new | 2023 | 37783716 | Research Support, Non-U.S. Gov't | Use of medicinal plants during COVID-19 pandemic in Brazil. | Sci Rep
+- new | 2023 | 36528454 | Observational Study | A real-world evaluation of an herbal treatment for infantile colic reported by 1218 parents in Israel. | J Pediatr Nurs
+- new | 2022 | 35092483 |  | Indications of medical plants: what do medical students in Germany know? A cross-sectional study. | J Cancer Res Clin Oncol
+- new | 2021 | 33598155 |  | Methanolic extract of Fennel (Foeniculum vulgare) escalates functional restoration following a compression injury to the sciatic nerve in a mouse model. | Food Sci Nutr
+- new | 2019 | 31780029 |  | Herbal supplement products used by mothers to cope with the common health problems in childhood. | Complement Ther Med
+- new | 2017 | 28482898 |  | Ethnopharmacological survey of medicinal plants practiced by traditional healers and herbalists for treatment of some urological diseases in the West Bank/Palestine. | BMC Complement Altern Med
+- new | 2003 | 12566188 | Comparative Study | Comparison of fennel and mefenamic acid for the treatment of primary dysmenorrhea. | Int J Gynaecol Obstet
+
+### PubMed REV - 113 hits, 10 not already listed above, 9 new
+- new | 2025 | 40317096 | Review | Nutritional and herbal interventions for polycystic ovary syndrome (PCOS): a comprehensive review of dietary approaches, macronutrient impact, and herbal medicine in management. | J Health Popul Nutr
+- new | 2024 | 39500772 | Review | Aromatic plants as cosmeceuticals: benefits and applications for skin health. | Planta
+- new | 2023 | 37016656 | Review | Possible Causes of Hypertrophic Osteoarthropathy in the La Ferrassie 1 Neanderthal. | Cureus
+- new | 2022 | 34516289 | Research Support, N.I.H., Extramural/Review | KCNQ Potassium Channels as Targets of Botanical Folk Medicines. | Annu Rev Pharmacol Toxicol
+- new | 2015 | 26448818 | Review | Anti-Aging Potential of Phytoextract Loaded-Pharmaceutical Creams for Human Skin Cell Longetivity. | Oxid Med Cell Longev
+- HELD REF-0537 | 2014 | 25162032 | Research Support, Non-U.S. Gov't/Review | Foeniculum vulgare Mill: a review of its botany, phytochemistry, pharmacology, contemporary application, and toxicology. | Biomed Res Int
+- new | 2012 | 22010973 | Review | Functional foods with digestion-enhancing properties. | Int J Food Sci Nutr
+- new | 2006 | 30000852 | Review | Fennel. | 
+- new | 2006 | 30000876 | Review | Goat’s Rue. | 
+- new | 2003 | 12798545 | Review | "Bust enhancing" herbal products. | Obstet Gynecol
+
+### ClinicalTrials.gov - 22 registered studies
+- NCT07215351 | COMPLETED | results=False | NA | Impact of the Inno Cleanse Dietary Supplement on Gut Health and Associated Variables in Healthy Men and Women | conds: Constipation, Bloating | intr: Dietary supplement for digestive health, placebo capsule
+- NCT01332747 | COMPLETED | results=False | PHASE2 | Clinical Study to Evaluate Antihyperlipidemic Effect of a Classical Unani Antiobesity Formulation | conds: Hyperlipidemia | intr: safoof e muhazzil, compressed tablet of safoof e muhazzil, Atorvastatin
+- NCT06748313 | COMPLETED | results=False | NA | Fermented Food - Achars (fermented Pickles) in Pakistan | conds: Maternal Health, Gut Health | intr: Mango Pickle (Water-Based), Mango Pickle (Oil Based), Carrot Pickle (Water-Based), Radish Pickle (Wa
+- NCT04668287 | COMPLETED | results=False | NA | Improving Students' Self-esteem With an Online Intervention | conds: Self Esteem | intr: Increasing self-esteem
+- NCT07125742 | COMPLETED | results=False | NA | Effects of Chewing Gum, Fennel, and Ginger Tea on Intestinal Motility and Comfort After Cesarean | conds: Flatulence, Constipation in Postnatal Women | intr: Chewing gum, Fennel Tea, Ginger Tea
+- NCT05245019 | COMPLETED | results=False | NA | Effects of Cardamom and Fennel on Salivary pH and Anti Microbial Activity | conds: Electrolyte Disturbance, Saliva Altered | intr: cardamom, fennel
+- NCT07778849 | COMPLETED | results=False | NA | Chinese Herbal Sachet Inhalation for Primary Dysmenorrhea in Female College Students | conds: Primary Dysmenorrhea | intr: Traditional Chinese herbal sachet (aromatic inhalation), Placebo sachets
+- NCT01855269 | COMPLETED | results=False | NA | Lactobacillus Reuteri Versus Herbal Drop in the Treatment of Infantile Colic: a Prospective Study | conds: Crying | intr: Lactobacillus reuteri, Herbal drop, placebo sterile water | pubs: ['17200238:RESULT (new)']
+- NCT05277155 | UNKNOWN | results=False | PHASE2,PHASE3 | Trial to Study the Efficacy and Safety of BEJO Red Ginger in COVID-19 Patients With Mild Symptoms | conds: COVID-19 | intr: BEJO Red Ginger Extract, Placebo
+- NCT07236242 | COMPLETED | results=False | NA | Effect of Breastfeeding Mothers Drinking Fennel Seed Infusion on Infants With Colic | conds: Colic, Infantile | intr: Fennel infusion
+- NCT05520411 | COMPLETED | results=False | NA | Examining the Effectiveness of Digestive Enzymes at Reducing Bloating and Stomach Distension | conds: Stomach Distended, Bloating | intr: HUM Flatter Me
+- NCT07033000 | NOT_YET_RECRUITING | results=False | NA | A Randomized, Placebo Controlled Clinical Study to Assess the Effect of a Blend of Digestive Enzymes and Extracts on Bloating in Adults. | conds: Healthy | intr: Placebo, Dietary Supplement with actives
+- NCT04332068 | COMPLETED | results=False | PHASE2 | Ivermectin Safety in Small Children | conds: Scabies | intr: Oral ivermectin, Permethrin Cream, Placebo tablet, Placebo cream
+- NCT06180135 | COMPLETED | results=False | NA | The Effect Of Coffee And Tea Drink On Gis Functions Healing Quality After Surgery in Patients Surgery | conds: Gastrointestinal Functions | intr: TURKISH COFFEE DRINK, FENNEL TEA DRINK
+- NCT03711487 | COMPLETED | results=False | PHASE2 | The Effect of Foeniculum Vulgare Ironing on Gastrointestinal Recovery After Colorectal Resection | conds: Colorectal Surgery, Foeniculum, Ileus | intr: Foeniculum Vulgare Seed Ironing | pubs: ['15351109:RESULT (new)', '19610681:RESULT (new)', '26867333:RESULT (new)', '20334152:RESULT (new)', '29067571:RESULT (new)', '29621360:RESULT (new)', '16850151:RESULT (new)', '25819420:RESULT (new)']
+- NCT07653815 | NOT_YET_RECRUITING | results=False | NA | Essential Oil-Based Product System for Digestive Support | conds: Healthy | intr: essential oil supplement, Essential Oil, Placebo supplement, placebo essential oil
+- NCT05548842 | COMPLETED | results=False | NA | The Combined Seed Extracts of Cassia Obtusifolia Linne and Foeniculum Vulgare Mill in Patients With Chronic Constipation | conds: Chronic Constipation | intr: The combined seed extracts of Cassia obtusifolia Linne and Foeniculum vulgare Mill, Placebo group
+- NCT06516744 | COMPLETED | results=False | NA | A Single Group Study to Evaluate the Efficacy of Bye Bye Bloat Capsules in Relieving Bloating and Promoting Healthy Digestion. | conds: Digestive Health, Digestion | intr: Bye Bye Bloat Capsules
+- NCT06403215 | COMPLETED | results=False | NA | Effect of Chewing Gum and Drinking Fennel Tea | conds: Bowel Ileus, Cesarean Section Complications | intr: Chewing gum group, Fennel tea group, Chewing gum+Fennel tea group, Control group
+- NCT07673432 | COMPLETED | results=False | NA | A Clinical Trial to Evaluate the Effects of a Plant-Based Liquid Supplement on Metabolic Health and Overall Well-Being | conds: Metabolic Health, Elevated Liver Enzymes, Digestive Symptoms | intr: Plant-Based Liquid Supplement
+- NCT05903872 | COMPLETED | results=False | NA | EFFECTS OF AROMATHERAPY MASSAGE ON LACTATION IN NON-BREASTFEEDING MOTHERS WITH PREMATURE NEWBORNS IN NEONATAL INTENSIVE CARE UNIT | conds: LACTATION IN MOTHERS WITH PREMATURE NEWBORNS | intr: aromatherapy massage, back massage
+- NCT06473792 | COMPLETED | results=False | NA | Effect of Probiotic Toothpaste and Regular Toothpaste on Plaque Levels of Orthodontic Patients | conds: Plaque | intr: Probiotic Toothpaste | pubs: ['39476739:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 3235 hits, 47 without PMID, 47 new
+- new | 2026 | 10.59324/jcpmr.2026.2(4).15 | review | Herbal Remedies for Vaginal Infections: A Systematic Review of Randomized Controlled Trials Evaluating Efficacy, Safety, and Comparative Effectiveness against Conventional Therapie | Journal of Clinical Practice and Medical
+- new | 2026 | 10.66104/a6g8z037 | article | AVALIAÇÃO DA EFICÁCIA CICATRIZANTE DE BLEND DE ÓLEOS ESSENCIAIS EM FERIDAS CIRÚRGICAS: ENSAIO PRÉ-CLÍNICO RANDOMIZADO | Revista Multidisciplinar do Nordeste Min
+- new | 2026 | 10.1016/j.ctmp.2026.200305 | article | A randomized controlled trial comparing Unani formulation and metformin in patients with polycystic ovarian syndrome | Clinical Traditional Medicine and Pharma
+- new | 2025 | 10.66281/70130/8812 | conference-abstract | Efficacy and safety of herbal therapies in the treatment of hyperlipidemia: A systematic review of randomized controlled trials | University of Colombo Annual Research Sy
+- new | 2025 | 10.36948/ijfmr.2025.v07i04.46887 | article | An Ayurvedic Formulation for Migraine Management: A Case Trial on a Herbal Combination by Dr. Arjit and Navreen | International Journal For Multidisciplin
+- new | 2024 | 10.5812/jjnpp-148163 | article | The Efficacy of a Traditional Herbal Medicine Compound for Functional Dyspepsia: A Randomized, Double-Blind, Placebo-Controlled Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2024 | 10.18585/inabj.v16i3.3023 | article | The Combination of Gardenia jasminoides, Boswellia serrata, Commiphora myrrha, Foeniculum vulgarae, and Daucus carota Essential Oil Blend Improved the Inflammatory and Clinical Sta | The Indonesian Biomedical Journal
+- new | 2023 | 10.18502/tim.v8i3.13712 | article | The Efficacy of Cichorium intybus L., Trigonella foenum-graecum L. and Foeniculum vulgare Mill. in Improvement of Ulcerative Colitis Symptoms: A Randomized Clinical Trial | Traditional and Integrative Medicine
+- new | 2023 | 10.5812/jjnpp-138392 | article | Efficacy of a Polyherbal Syrup Containing Lemon Balm, Damask Rose, and Fennel to Treat Melasma: A Randomized, Triple - Blind, Controlled Clinical Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2022 | 10.1016/j.obmed.2022.100401 | article | Comparison of Foeniculum Vulgare versus metformin on insulin resistance and anthropometric indices of women with polycystic ovary, an open-label controlled trial study | Obesity Medicine
+- new | 2022 | 10.21608/bfsa.2022.239367 | article | COMPARISON OF THE EFFECT OF SALVIA OFFICINALIS EXTRACT AND VITEX AGNUS-CASTUS EXTRACT ON ANXIETY IN POSTMENOPAUSAL WOMEN: A RANDOMIZED, TRIPLE-BLIND, PLACEBO-CONTROLLED TRIAL | Bulletin of Pharmaceutical Sciences Assi
+- new | 2021 | 10.1016/j.hermed.2021.100499 | article | Combination of traditional herbal medicine for the treatment of cancer-induced Anorexia/Cachexia: A pilot, randomized, double-blinded and placebo-controlled clinical trial | Journal of Herbal Medicine
+- new | 2021 | 10.30476/whb.2021.90805.1113 | article | Effects of an Eight-week Elastic Training and Foeniculum Vulgare Consumption on Premenstrual Syndrome in Adolescent Girls: a Randomised Clinical Trial | Women’s Health Bulletin
+- new | 2021 | 10.21203/rs.3.rs-322268/v1 | preprint | The Effect of Melissa Officinalis Syrup on Patients With Mild to Moderate Psoriasis: a Randomized, Double-blind Placebo-controlled Clinical Trial | Research Square
+- new | 2021 | 10.22038/ijogi.2021.19540 | article | The effect of vaginal cream containing herbal extracts (Foeniculum vulgare, Salvia officinalis and Flaxseed) on the mental symptoms of vaginal atrophy in postmenopausal women: A ra | مجله زنان، مامایی و  نازایی ایران
+- new | 2021 | 10.9734/jpri/2021/v33i30a31620 | article | Impact of Foeniculum vulgare on Hemoglobin, Red Blood Cell Indices and White Blood Cell Count: A Laboratory Based Randomized Controlled Study | Journal of Pharmaceutical Research Inter
+- new | 2021 | 10.1016/j.phyplu.2021.100132 | article | Safety and efficacy of Hemocare®LACT on breast milk production and prolactin levels in postpartum mothers: An open-label, placebo controlled, randomized trial | Phytomedicine Plus
+- new | 2020 | 10.5812/jjnpp.89925 | article | Effects of a Combination of Foeniculum vulgare, Melissa officinalis Extract, and Nigella saliva Powder on Healthy Menopausal Women with Sexual Dysfunction: A Randomized Clinical Tr | Jundishapur Journal of Natural Pharmaceu
+- new | 2020 | https://openalex.org/W3198261420 | article | Comparing the Efficacy of Cumin Sofouf With Mebeverine on Irritable Bowel Syndrome Severity and Quality of Life: A Double-blind Randomized Clinical Trial | Crescent Journal of Medical and Biologic
+- new | 2020 | 10.31989/ffhd.v10i9.742 | article | Moriche Palm (Aguaje) Extract improves indefinite complaints in Japanese females: a randomized, placebo-controlled, double-blind trial | Functional Foods in Health and Disease
+- new | 2019 | 10.1016/j.hermed.2019.100277 | article | Effect of Foeniculum vulgare essence on symptoms of polycystic ovarian syndrome (PCOS): A randomized double-blind, placebo-controlled trial | Journal of Herbal Medicine
+- new | 2019 | 10.1016/j.maturitas.2019.04.118 | article | Effect of fennel vaginal cream on sexual function in postmenopausal women: A double blind randomized controlled trial | Maturitas
+- new | 2019 | 10.29333/ejgm/109435 | article | Effect of the mixed herbal medicines extracts on menopausal symptoms: A randomized clinical trial study | Electronic Journal of General Medicine
+- new | 2019 | 10.1016/j.eujim.2019.101015 | article | Intranasal use of lavender and fennel decreases salivary cortisol levels and improves quality of sleep: A double-blind randomized clinical trial | European Journal of Integrative Medicine
+- new | 2018 | 10.22038/ijogi.2018.11795 | article | Comparative study of the effects of fennel with Gelofen on the severity of primary dysmenorrhea: A randomized clinical trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2018 | 10.5958/0974-9357.2018.00029.6 | article | A Randomised Controlled Trial to Evaluate the Effectiveness of Fenugreek (Methi) Versus Fennel (Saunf) on Lactation among Lactating Women in a Selected Community of New Delhi | International Journal of Nursing Educati
+- new | 2018 | 10.15419/bmrat.v5i11.499 | article | Evaluation of the efficacy of a topical chamomile-pumpkin oleogel for the treatment of plaque psoriasis: an intra-patient, double-blind, randomized clinical trial | Biomedical Research and Therapy
+- new | 2017 | 10.1016/j.maturitas.2017.03.108 | article | Effect of Foeniculum vulgare (fennel) vaginal cream on vaginal atrophy in postmenopausal women: A double-blind randomized placebo-controlled trial | Maturitas
+- new | 2017 | https://openalex.org/W2736919935 | article | Evaluating the effect of fennel soft capsules on the quality of life and its different aspects in menopausal women: a randomized clinical trial | Nursing Practice Today
+- new | 2017 | 10.3923/jbs.2017.312.319 | article | Constipation, Oxidative Stress in Obese Patients and their Impact on Cognitive Functions and Mood, the Role of Diet Modification and Foeniculum vulgare Supplementation | Journal of Biological Sciences
+- new | 2016 | https://openalex.org/W2929522365 | article | Effect of combined inhaler aromatherapy on sexual function in postmenopausal women: a randomized controlled trial | 
+- new | 2016 | 10.15296/ijwhr.2017.24 | article | The Impact of Ginkgo biloba Tablet and Aromatherapy Inhaler Combination on Sexual Function in Females During Postmenopausal Period: A Double-Blind Randomized Controlled Trial | International Journal of Women s Health 
+- new | 2016 | https://openalex.org/W3186600392 | dissertation | The Effect of Fennel Syrup on Prolactin Levels of Blood Serum in Newly Delivered Mothers: A Triple-Blind Randomized Controlled Trial | 
+- new | 2015 | https://openalex.org/W2924127980 | article | Effect of Fennel vaginal cream on dysparonia and sexual satisfaction among postmenopausal women: a double-blind randomized placebo-controlled trial | مجله زنان، مامایی و  نازایی ایران
+- new | 2015 | https://openalex.org/W2317307717 | article | Therapeutic Effects of Eight Unani (Herbal) Drugs in the Patients of Waj-ul-Mafasil (Rheumatoid Arthritis) in the Development of Nuzj (Purgation) and Maintenance of pH of Urine - A | International Journal of Herbal Medicine
+- new | 2014 | https://openalex.org/W3169277420 | dissertation | Efficacy of fennel and combined oral contraceptive on menstrual bleeding is women using depot Medroxyprogesterone acetate: A Randomized placebo –controlled trial. | 
+- new | 2011 | https://openalex.org/W2188539331 | article | Herbal Remedy for Premenstrual Syndrome with Fennel (Foeniculum vulgare) - Randomized, Placebo-Controlled Study | 
+- new | 2011 | https://openalex.org/W2277689138 | article | Ibuprofen Versus Fennel for the Relief of Postpartum Pain: A Randomized Controlled Trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2010 | https://openalex.org/W3048958875 | article | First results of trials on chemical weed control with clomazone in fennel crop (Foeniculum vulgare). | 
+- new | 2008 | https://openalex.org/W259803262 | article | Field Trial to Test Methods for Eradication of Fennel (Foeniculum vulgare Miller) on Roadsides of Kangaroo Island, South Australia | Plant protection quarterly
+- new | 2007 | 10.1055/s-2007-987338 | article | Treatment of the Kidney Stone by a Herbal Medicine Complex, STONREEZ: A Clinical Trial | Planta Medica
+- new | 2005 | https://openalex.org/W2198454544 | article | A Clinical Study of Decrease Appetite Effects by Aromatherapy Using Foeniculum vulgare Mill(Fennel) to Female Obese Patients | Journal of Korean Medicine for Obesity R
+- new | 2003 | 10.1016/s0003-9098(25)00075-x | article | Effect of anise (Pimpinella anisum), ginger (Zingiber officinale roscoe) and fennel (foeniculum vulgare) and their mixture on performance of broilers | Archiv für Geflügelkunde
+- new | 2002 | 10.17660/actahortic.2002.576.30 | conference-paper | CULTIVATION TRIALS OF SOME AROMATIC AND MEDICINAL PLANTS IN A SEMI-ARID MEDITERRANEAN ENVIRONMENT | Acta Horticulturae
+- new | 1996 | https://openalex.org/W3215752914 | article | Results of a four-year variety trial on seed fennel (Foeniculum vulgare Mill.) in a semi-arid Sicilian environment | 
+- new | 1994 | https://openalex.org/W2772486738 | article | Variety trials with Foeniculum vulgare in late summer) | 
+- new | 1964 | https://openalex.org/W2288634981 | article | Extent and Randomness of Cross-Pollination in some Umbelliferous Spices of India | Indian Journal of Genetics and Plant Bre
+
+## fomitopsis-betulina (Fomitopsis betulina) - name clause: "Fomitopsis betulina"[tiab] OR "Piptoporus betulinus"[tiab] OR "birch polypore"[tiab]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 0 hits, 0 not already listed above, 0 new
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 5 hits, 5 not already listed above, 0 new
+- HELD REF-3883 | 2024 | 39330376 | Review | Secondary Metabolites of Fomitopsis betulina: Chemical Structures, Biological Activity and Application Prospects. | J Fungi (Basel)
+- HELD REF-3882 | 2024 | 39512529 | Review | Cytotoxic activity of Fomitopsis betulina against normal and cancer cells - a comprehensive literature review. | Contemp Oncol (Pozn)
+- HELD REF-3885 | 2021 | 34240239 | Review | [The Iceman : Life scenarios and pathological findings from 30 years of research on the glacier mummy "Ötzi"]. | Pathologe [ger]
+- HELD REF-3881 | 2017 | 28378220 | Review | Fomitopsis betulina (formerly Piptoporus betulinus): the Iceman's polypore fungus with modern biotechnological potential. | World J Microbiol Biotechnol
+- HELD REF-3884 | 2014 | 24786572 | Research Support, Non-U.S. Gov't/Review | European medicinal polypores--a modern view on traditional uses. | J Ethnopharmacol
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 11 hits, 5 without PMID, 4 new
+- new | 2026 | 10.21203/rs.3.rs-11597114/v1 | preprint | Beyond Medicine: Reassessing Ötzi’s Birch Polypore (Fomitopsis betulina) as a Multipurpose Biomaterial | Research Square
+- HELD REF-3886 | 2025 | 10.15414/ainhlq.2025.0010 | article | Natural Compounds of the Birch Polypore Piptoporus betulinus (Bull.) P. Karst: an Overview of Biological Activities | Agrobiodiversity for Improving Nutrition
+- new | 2023 | 10.31548/veterinary2.2023.57 | article | Current state of scientific research and prospects for using basidiomycetes in veterinary medicine: A literature review | Ukrainian journal of veterinary sciences
+- new | 2022 | 10.1590/s0102-0536-20220307 | article | Domestication of a wild edible and nutritious mushroom Lentinus tigrinus from Pakistan | Horticultura Brasileira
+- new | 2021 | 10.5272/jimab.2021274.4157 | article | COMPARATIVE INVESTIGATION OF KNOWLEDGE OF WILD EDIBLE MUSHROOMS IN VARNA REGION WITH OTHER FOREIGN GEOGRAPHIC ZONES | Journal of IMAB - Annual Proceeding (Sci
+
+## galium-album (Galium album) - name clause: "Galium album"[tiab] OR "Galium mollugo"[tiab] OR "white bedstraw"[tiab] OR "hedge bedstraw"[tiab]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 1 hits, 1 not already listed above, 1 new
+- new | 2022 | 36409735 |  | Temperature moderates impact of formulated moxidectin on seed germination of three temperate grassland species. | PLoS One
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 0 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 24 hits, 19 without PMID, 19 new
+- new | 2022 | 10.1016/j.ecoleng.2022.106817 | article | Meadow-living walls: Creating attractive vertical greenery with meadow seed mixtures – Experiences and recommendations from a three year field trial | Ecological Engineering
+- new | 2016 | 10.24355/dbbs.084-201701040942-0 | article | Die spontane Flora der Straßen von Braunschweig: Hohe Artenzahl und unerwartete Florendynamik im lokalen Maßstab | Digitale Bibliothek Braunschweig (Verbun
+- new | 2016 | https://openalex.org/W2594131243 | dissertation | Effect of continuity, area, connectivity and surrounding landscape on forest specialist plant species in deciduous forest | DiVA (Stockholm University)
+- new | 2015 | 10.14471/2015.35.007 | article | Classification, ecology and biodiversity of Central Bal-kan dry grasslands | Tuexenia
+- new | 2014 | https://openalex.org/W2224024913 | article | Establishment of permanent weed strips with autochthonous nectar plants and their effect on the occurrence of aphid predators. | 
+- new | 2013 | https://openalex.org/W3150257049 | dissertation | Vegetation dynamics and restoration trials in limestone quarries: the botticino case study (Brescia, Italy) | BOA (University of Milano-Bicocca)
+- new | 2013 | https://openalex.org/W2487462788 | dissertation | Utprøving av 35 prydgrasslag og etableringsforsøk i ulike skogsmiljø med 4 prydgrasslag | NVA (Nasjonalt vitenarkiv)
+- new | 2013 | 10.1007/s11104-013-1971-y | article | Relationships between serpentine soils and vegetation in a xeric inner-Alpine environment | Plant and Soil
+- new | 2011 | 10.5586/asbp.2005.009 | article | The small-scale species mobility in calcareous grasslands - example from southern Poland | Acta Societatis Botanicorum Poloniae
+- new | 2009 | 10.1111/j.1654-109x.2009.01011.x | article | Changes in vegetation types and Ellenberg indicator values after 65 years of fertilizer application in the Rengen Grassland Experiment, Germany | Applied Vegetation Science
+- new | 2008 | 10.26083/tuprints-00000688 | dissertation | Succession versus grazing | Technischen Universität Darmstadt
+- new | 2008 | 10.26083/tuprints-00000948 | dissertation | The contribution of sheep zoochory to the conservation and restoration of target plant communities in isolated sand ecosystems | Technischen Universität Darmstadt
+- new | 2007 | 10.1111/j.1654-109x.2007.tb00436.x | article | Restoration of grazing management and its effect on vegetation in an upland grassland | Applied Vegetation Science
+- new | 2005 | 10.17221/3566-pse | article | Conservation effects on the botanical composition of grass swards in the hilly soils of West Lithuania | Plant Soil and Environment
+- new | 2005 | https://openalex.org/W1107955036 | dissertation | Cytotoxic Compounds of Plant Origin – Biological and Chemical Diversity | Uppsala University Publications (Uppsala
+- new | 2003 | 10.3372/wi.33.33207 | article | Contribution to the knowledge of the vascular flora of NE Greece: Floristic composition of the beech (Fagus sylvaticaL.) forests in the Greek Rodopi | Willdenowia - Annals of the Botanic Gard
+- new | 1996 | 10.24355/dbbs.084-200511080100-274 | article | Die Uferflora der Weser / Friedrich Wilhelm Oppermann | Digitale Bibliothek Braunschweig (Verbun
+- new | 1988 | https://openalex.org/W644953458 | dissertation | Galium aparine L. - a possible antipsoriatic agent. | Sunderland Repository (University of Sun
+- new | 1897 | 10.1136/bmj.1.1884.337 | article | Reviews | BMJ
+
+## galium-aparine (Galium aparine) - name clause: "Galium aparine"[tiab] OR "cleavers"[tiab] OR "goosegrass"[tiab]
+
+### PubMed HT - 1 hits, 1 not already listed above, 1 new
+- new | 2024 | 39562594 |  | Surveillance and mapping of tribenuron-methyl-resistant weeds in wheat fields. | Sci Rep
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 11 hits, 11 not already listed above, 9 new
+- new | 2023 | 37749769 |  | Eleusine indica Cytochrome P450 and Glutathione S-Transferase Are Linked to High-Level Resistance to Glufosinate. | J Agric Food Chem
+- new | 2022 | 35574090 |  | Astragalus sinicus Incorporated as Green Manure for Weed Control in Corn. | Front Plant Sci
+- HELD REF-1718 | 2022 | 36029804 |  | Galium aparine L. protects against acetaminophen-induced hepatotoxicity in rats. | Chem Biol Interact
+- new | 2022 | 34553491 |  | Identification of two Eleusine indica (goosegrass) biotypes of cool-season turfgrass resistant to dithiopyr. | Pest Manag Sci
+- HELD REF-5167 | 2022 | 36636365 | Case Reports | Drug-Induced Liver Injury from Herbal Liver Detoxification Tea. | Case Rep Gastroenterol
+- new | 2021 | 33470815 |  | Multiple Herbicide Resistance Evolution: The Case of Eleusine indica in Brazil. | J Agric Food Chem
+- new | 2013 | 24223020 |  | Use of herbal supplements for overactive bladder. | Rev Urol
+- new | 2009 | 19639048 | Research Support, Non-U.S. Gov't | Bullatacin triggered ABCB1-overexpressing cell apoptosis via the mitochondrial-dependent pathway. | J Biomed Biotechnol
+- new | 2008 | 18160333 |  | DNA-damaging activity and mutagenicity of 16 newly synthesized thiazolo[5,4-a]acridine derivatives with high photo-inducible cytotoxicity. | Mutat Res
+- new | 2002 | 11896688 | Research Support, U.S. Gov't, P.H.S. | UVA light-induced DNA cleavage by isomeric methylbenz[a]anthracenes. | Chem Res Toxicol
+- new | 1996 | 9116049 | Research Support, Non-U.S. Gov't/Review | DNA modifying agents as tools for studying chromatin structure. | Biochimie
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 6 hits, 5 not already listed above, 5 new
+- new | 2025 | 40626302 | Review | Opening new frontiers with catalytic nucleic acids in miRNA inhibition. | Front Pharmacol
+- new | 2025 | 41194856 | Review | The intellectual base and research fronts of LGR5: a bibliometric analysis. | Front Res Metr Anal
+- new | 2022 | 35256579 | Review | Laser accessories: surgical fibers, strippers, cleavers, and protective glasses. | Curr Opin Urol
+- new | 2020 | 32935689 | Review | Design of small molecules targeting RNA structure from sequence. | Chem Soc Rev
+- new | 2020 | 32036231 | Research Support, N.I.H., Extramural/Review | Progress toward the development of the small molecule equivalent of small interfering RNA. | Curr Opin Chem Biol
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 492 hits, 94 without PMID, 94 new
+- new | 2026 | 10.1002/jag2.70096 | article | Weed Seeds in New Zealand Vegetable Seed Lots: Evaluating Seed Cleaning Effectiveness From Commercial and Biosecurity Perspectives | New Zealand Journal of Agricultural Rese
+- new | 2026 | 10.65035/h27ck169 | article | PREVALENCE OF H. PYLORI STOOL ANTIGEN AND BLOOD ANTIBODY IN GIT PATIENTS, RAWALPINDI | Journal of medical & health sciences rev
+- new | 2025 | 10.22067/jpp.2025.94054.1234 | article | Evaluation of the Allelopathic Potential of Plant Extracts and its Comparison with Chemical Treatments on Galium aparine L. and Vicia villosa Roth. Weeds in Chickpea Fields | پژوهش های حفاظت گیاهان ایران#R##N#Irania
+- new | 2025 | 10.3390/fermentation11100582 | article | Preparation and Herbicidal Activity of a Microbial Agent Derived from Alternaria gaisen Strain GD-011 | Fermentation
+- new | 2025 | 10.1017/wsc.2025.10060 | article | The preferences of Lumbricus terrestris earthworms for weed seeds typical of the Northern Great Plains agroecosystems | Weed Science
+- new | 2024 | 10.36961/10.36961/si31066 | article | Composition of the weed flora in sugar beet cultivation in Germany – nationwide trials 1995–2022 | Sugar Industry international
+- new | 2024 | 10.21522/tijph.2013.se.24.06.art003 | article | Exploring Galium Aparine as a Promising Natural Therapy for Oral Squamous Cell Carcinoma | Texila international journal of public h
+- new | 2024 | 10.68099/asnj.2024.79 | article | Development of an Autonomous Weed-Weeding Robot Utilizing Edge-AI and Multispectral Computer Vision for Row-Crop Farming | Aintelia Science Notes
+- new | 2024 | 10.32417/1997-4868-2024-24-09-1172-1192 | article | Some features of toxicological properties of a specific immunobiostimulator “Transfer factor” in preclinical trials | Agrarian Bulletin of the
+- new | 2023 | 10.28983/asj.y2023i11pp39-43 | article | Estimation of efficiency of metribuzin to weeds control in coriander crops | The Agrarian Scientific Journal
+- new | 2022 | 10.3390/agronomy12051196 | article | Fecundity Allocation in Some European Weed Species Competing with Crops | Agronomy
+- new | 2022 | 10.1016/j.atech.2022.100063 | article | Hot foam: Evaluation of a new, non-chemical weed control option in perennial crops | Smart Agricultural Technology
+- new | 2022 | https://openalex.org/W4412302686 | book-chapter | Experimental trials managed by Aarhus University:WP7 - Weed management in the transition phase from conventional to conservation agriculture in Denmark | 
+- new | 2021 | https://openalex.org/W7132386053 | article | CONTROL OF MIXED WEED INFESTATION IN WINTER WHEAT | Bulgarian Portal for Open Science
+- new | 2021 | 10.18332/pht/142036 | article | Field study to assessthe efficacy of slow-release formulations of the tribenuron-methyl herbicide in spring wheat | Public Health Toxicology
+- new | 2021 | 10.1017/wsc.2021.8 | article | Novel sensor-based method (quick test) for the in-season rapid evaluation of herbicide efficacy under real field conditions in durum wheat | Weed Science
+- new | 2021 | 10.1201/9781003211419-3 | book-chapter | Weed control in soft fruits in Ireland – Introduction and overview | CRC Press eBooks
+- new | 2021 | 10.1111/wre.12499 | article | A new approach to quantify weed suppression, crop tolerance and weed‐free yield in cereal variety trials without weed‐free plots | Weed Research
+- new | 2020 | 10.7176/jstr/6-01-05 | article | A Study on Weed Flora and Importance Value Index of Weeds in Wheat Crop | International Journal of Scientific and 
+- new | 2020 | 10.9775/kvfd.2019.23283 | article | Yoğurt Otu (Galium Aparine) ve Civan Perçemi (Achillea millefolium) Ekstraktlarının In Vitro Yarı-Sürekli Kültür Sisteminde (RUSITEC) Rumen Mikrobiyal Fermentasyonu Üzerine Etkiler | Kafkas Universitesi Veteriner Fakultesi 
+- new | 2020 | 10.11924/j.issn.1000-6850.casb18110006 | article | 3%世玛油悬浮剂与3%双氟磺草胺·唑草酮悬浮剂混配防除冬小麦田恶性杂草田间药效评价 | 中国农学通报
+- new | 2020 | 10.15407/frg2020.05.388 | article | Selectivity and efficacy of herbicide GF-3488, containing synthetic auxins halauxifen-methyl and clopyralid, in winter oilseed rape crops in Ukraine | Fiziologia rastenij i genetika
+- new | 2020 | 10.1016/j.quaint.2020.02.020 | article | What is on the menu today? Creating a microwear reference collection through a controlled-food trial to study feeding management systems of ancient agropastoral societies | Quaternary International
+- new | 2019 | 10.6084/m9.figshare.7435565 | dataset | Cover crops and compost prevent weed seed bank build-up in herbicide-free wheat-potato rotations under conservation tillage | Figshare
+- new | 2019 | 10.24355/dbbs.084-201903010942-0 | article | Die unbeachtete, aber trotzdem spektakuläre Ausbreitung des Neophyten Rubus armeniacus in Städten – das Beispiel von Braunschweig | Digitale Bibliothek Braunschweig (Verbun
+- new | 2018 | 10.5073/jka.2018.458.009 | article | Changes in weed community composition in a long-term trial with different crop rotations and herbicide treatments | Federal Research Centre for Cultivated P
+- new | 2018 | 10.5073/jka.2018.458.044 | article | The influence of crop density and sowing delay on weed germination in winter wheat | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2018 | https://openalex.org/W2890899863 | dissertation | Floristički sastav i ekonomska učinkovitost suzbijanja korova u pšenici | 
+- new | 2018 | 10.18174/452437 | dissertation | Advanced classification of volunteer potato in a sugar beet field | 
+- new | 2018 | https://openalex.org/W2983595974 | report | Experimental trials in Europe 2018 edition | Wageningen University & Research Publica
+- new | 2017 | 10.1016/j.biosystemseng.2017.11.015 | article | Sugar beet and volunteer potato classification using Bag-of-Visual-Words model, Scale-Invariant Feature Transform, or Speeded Up Robust Feature descriptors and crop row information | Biosystems Engineering
+- new | 2016 | 10.5073/jka.2016.452.041 | article | DuPont™ Omnera™ LQM™ (DPX-SGE27) – Eine neue Generation flüssig formulierter Getreideherbizide | Julius-Kühn-Archiv
+- new | 2016 | 10.5073/jka.2016.452.048 | article | DuPont™ Debut®DuoActive (DPX-R3D76): Ein neues Produkt für optimierte Herbizidprogramme in Rüben | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2016 | https://openalex.org/W7135471012 | dissertation | Study of diversity of weed communities on the selected farm in Central Elbe Region | Digital Repository (National Repository 
+- new | 2016 | 10.36961/si17567 | article | Efficacy of foramsulfuron + thiencarbazone-methyl towards different development stages of weed species in sugar beet cultivation | Sugar Industry
+- new | 2016 | 10.1002/9781118720691.ch39 | book-chapter | Weeds to watch | Wiley eBooks
+- new | 2016 | 10.22620/agrisci.2016.19.013 | article | Ergon WG - a new opportunity for an efficient chemical control of BL weeds in wheat | Agricultural sciences
+- new | 2015 | https://openalex.org/W2282066267 | article | The Synergism of Chemical Herbicides and Aureobasidium pullulans for Control Cleavers （Galium aparine L.） in Wheat | 农业科学与技术：英文版
+- new | 2015 | 10.17770/etr2009vol1.1102 | conference-paper | THE BUCKWHEAT ROLE IN CROP ROTATION AND WEED CONTROL IN THIS SOWINGS IN LONG TERM TRIAL | Environment Technology Resources Proceed
+- new | 2014 | 10.1111/wre.12098 | article | Long‐term changes in weed occurrence, yield and use of herbicides in maize in south‐western G ermany, with implications for the determination of economic thresholds | Weed Research
+- new | 2014 | 10.5073/jka.2014.443.089 | article | Beeinflussung des Unkrautwachstums durch Fungizide | Julius-Kühn-Archiv
+- new | 2014 | 10.5073/jka.2014.443.088 | article | Chemische Unkrautregulierung beim Anbau von Sojabohnen (Glycine max, L.) | Julius-Kühn-Archiv
+- new | 2014 | 10.1007/s10343-014-0335-8 | article | Changes in Weed Communities, Herbicides, Yield Levels and Effect of Weeds on Yield in Winter Cereals Based on Three Decades of Field Experiments in South-Western Germany | Gesunde Pflanzen
+- new | 2014 | https://openalex.org/W2168797886 | article | Scaling of Multivariate Ground Flora Data of Gatwala Forest Park (GFP), Faisalabad Pakistan | World Applied Sciences Journal
+- new | 2014 | 10.5073/jka.2014.443.087 | article | Neue Möglichkeiten zur Unkrautbekämpfung in konventionellen Sojabohnen | Julius-Kühn-Archiv
+- new | 2014 | 10.5073/jka.2014.443.082 | article | Influence of adjuvants and interactions between herbicides and weed species by determination of relative adjuvant-effect on herbicide dose | Federal Research Centre for Cultivated P
+- new | 2014 | https://openalex.org/W2125831038 | article | CONTROL OF HERBICIDE-RESISTANT VOLUNTEER CORN IN HERBICIDE-RESISTANT SOYBEAN | Lincoln (University of Nebraska)
+- new | 2014 | 10.5073/jka.2014.443.070 | article | Control of ALS resistant volunteer oil seed rape and other dicotyledonous weeds with GF-145, a new cereal herbicide product containing isoxaben and florasulam | Federal Research Centre for Cultivated P
+- new | 2014 | 10.15835/buasvmcn-hort:10413 | article | Efficacy of Post-emergence Herbicides Applied at Reduced Doses on Weeds in Durum Wheat (Triticum durum L.) in Central Greece | Bulletin of University of Agricultural S
+- new | 2014 | 10.3220/rep_20_2_2014 | conference-paper | Soil quality changes in field trials comparing organic reduced tillage to plough systems across Europe | OpenAgrar
+- new | 2013 | 10.1093/jpe/rtt018 | article | Effect of fertilization patterns on the assemblage of weed communities in an upland winter wheat field | Journal of Plant Ecology
+- new | 2013 | https://openalex.org/W2923362679 | other | Group 2 resistant cleavers control in peas | HARVEST (University of Saskatchewan)
+- new | 2013 | https://openalex.org/W2734968580 | report | Reinforcement learning based design of sampling policies under cost constraints in Markov Random Fields | HAL
+- new | 2013 | 10.14199/ppp-2013-123 | article | Response of weeds to different doses of Dragon 450 WG and Granstar Ultra SX 50 SG in spring barley | Progress in Plant Protection
+- new | 2012 | 10.1111/j.1365-3180.2012.00939.x | article | Emergence and early growth of Galium aparine and Galium spurium | Weed Research
+- new | 2012 | 10.1007/bf03356429 | article | Occurrence and distribution of important weed species in German winter oilseed rape fields | Journal of Plant Diseases and Protection
+- new | 2012 | 10.5586/aa.2009.042 | article | Weed infestation of a winter wheat canopy under the conditions of application of different herbicide doses and foliar fertilization | Acta Agrobotanica
+- new | 2011 | https://openalex.org/W1856399844 | book-chapter | Trial translocations into edaphically modified habitats enhanced the regeneration of prickly raspwort on Eyre Peninsula, South Australia | Adelaide Research & Scholarship (AR&S) (
+- new | 2011 | https://openalex.org/W1854072266 | article | TOP 10 OF THE MOST DANGEROUS WEED SPECIES IN THE SPRING BARLEY CANOPIES DURING THE LAST DECADE IN THE SLOVAK REPUBLIC | Research Journal of Agricultural Science
+- new | 2011 | https://openalex.org/W4293466736 | conference-paper | An adaptive sampling method using Hidden Markov Random Fields for the mapping of weed at the field scale | HAL
+- new | 2010 | https://openalex.org/W2392179985 | article | The Efficacy and Safety Assessment of Six Herbicide Mixtures for Controlling the Galium aparine in Wheat Field | World Pesticides
+- new | 2009 | https://openalex.org/W2399996681 | dissertation | STUDIES INTO BIO-ECOLOGICAL INTERFERENCE OF CLEAVERS (Galium aparine L.) IN WHEAT (Triticum aestivum L.) | HEC National Digital Library
+- new | 2009 | 10.3920/9789086866755_037 | conference-abstract | Classification of sugar beet and volunteer potato spectra using a neural network to select wavelenghts | Wageningen University & Research Publica
+- new | 2008 | https://openalex.org/W345935706 | article | Herbicide field trials on Galium aparine and G. tricornutum in winter cereal. | 
+- new | 2008 | 10.2298/jas0802125v | article | The effect of crop density and applied nitrogen on the interaction between Lolium italicum and Galium aparine | Journal of Agricultural Sciences Belgrad
+- new | 2008 | 10.17221/2687-pse | article | Competitive relationships between sugar beet and weeds in dependence on time of weed control | Plant Soil and Environment
+- new | 2008 | https://openalex.org/W2373443684 | article | Field Efficacy of Fluroxypyr-methyl 200g/L EC against Broadleaf Weeds in Wheat Field | Modern Agrochemicals
+- new | 2008 | https://openalex.org/W2361778755 | article | Experiment of Tralkoxydim and Bromoxnil 75% WG for Controlling Weeds in Wheat Field | Agrochemicals
+- new | 2008 | 10.1007/s10343-008-0193-3 | article | Regionale Unterschiede in der Rapsunkrautflora Deutschlands | Gesunde Pflanzen
+- new | 2008 | https://openalex.org/W2353236015 | article | Effect of Tribenuron-methyl+MCPA-Na+Carfentrazone-ethyl 55% WP on Broad-leaved Weeds in Wheat Field | Modern Agrochemicals
+- new | 2007 | https://openalex.org/W2365774888 | article | Study on Distribution and Niche of Weeds in Rape Fields in Hefei City | 安徽农学通报
+- new | 2006 | https://openalex.org/W2257709106 | article | THE PROTECTIVE ROLE OF GALLIUM APARINE ON CISPLATIN-INDUCED NEPHROTOXICITY IN MALE RATS | Armaghane Danesh
+- new | 2005 | https://openalex.org/W2793961744 | dissertation | Emergence timing of volunteer canola (Brassica napus L.) in spring wheat (Triticum aestivum L.) fields in Manitoba | Mspace (University of Manitoba)
+- new | 2005 | 10.1007/s10343-005-0097-4 | article | Unkrautflora in Mais | Gesunde Pflanzen
+- new | 2004 | https://openalex.org/W2520484577 | article | Weeds in organic farming: seeds of Galium aparine L. as possible source of inoculum for Fusarium infection and elevated mycotoxin content? | OpenAgrar
+- new | 2004 | 10.1017/s0021859604004344 | article | The effects of timing of control of weeds on the yield of winter oilseed rape (Brassica napus), in the context of the potential commercialization of herbicide-tolerant winter rape | The Journal of Agricultural Science
+- new | 2004 | https://openalex.org/W3037497862 | article | Short-term and long-term effects of reduced application rates in cereal crops | 
+- new | 2004 | https://openalex.org/W3092058062 | article | Efikasnost nekih hebicida u suzbijanju korova u pšenici | Acta herbologica
+- new | 2003 | https://openalex.org/W2374667046 | article | Controlling Effects of Two New Herbicides on Malignant Weeds in Wheat Field | Acta Tritical Crops
+- new | 2002 | 10.1046/j.1439-037x.2002.00575.x | article | Photobiologische Unkrautregulierung annueller Ackerunkräuter | Journal of Agronomy and Crop Science
+- new | 2002 | 10.2298/pif0202023r | article | Efficacy of some herbicides in wheat crop | Pesticidi
+- new | 2000 | 10.1111/j.1469-7998.2000.tb00774.x | article | Arable habitat use by wood mice (Apodemus sylvaticus). 2. Microhabitat | Journal of Zoology
+- new | 1997 | 10.1023/a:1009789202189 | article | Interaction between the non-myrmecochorous herb Galium aparine and the ant Formica polyctena | Plant Ecology
+- new | 1996 | 10.3176/hum.soc.sci.1996.4.07 | article | TRIAL EXCAVATIONS AT THE SETTLEMENTAND THE STONE SETTING OF ALA-PIKA | Eesti Teaduste Akadeemia toimetised.
+- new | 1994 | https://openalex.org/W2241698458 | article | Flurtamone, a new selective herbicide for grass and broadleaf weed control in cereals | 
+- new | 1993 | https://openalex.org/W2781380059 | article | [Study of the DPX 66037 in sugar beet. Results of two year trials [Matricaria chamomilla, Mercurialis annua, Galium aparine]] | 
+- new | 1991 | 10.1111/j.1365-3180.1991.tb01736.x | article | Weed size hierarchies in Denmark | Weed Research
+- new | 1988 | https://openalex.org/W644953458 | dissertation | Galium aparine L. - a possible antipsoriatic agent. | Sunderland Repository (University of Sun
+- new | 1987 | 10.1002/ps.2780180103 | article | Design and synthesis of N‐(2,4=difluorophenyl)‐2‐(3‐trifluoromethylphenoxy)‐3‐pyridinecarboxamide (diflufenican), a novel pre‐ and early post‐emergence herbicide for use in winter  | Pesticide Science
+- new | 1986 | https://openalex.org/W165068783 | article | Fluroxypyr, a flexible herbicide for control of Galium aparine in small grain cereals, an analysis of trial data collected in Germany during the 1984 and 1985 growing seasons. | 
+- new | 1986 | 10.1016/0261-2194(86)90039-6 | article | Weed problems of the next decade in Britain | Crop Protection
+- new | 1983 | https://openalex.org/W2612774788 | article | [Preliminary trials for testing split post-emergence herbicide treatment based on applying mixture of phenmedipham and diallate or phenmediphan and cycloate [effect on weeds: Galiu | 
+- new | 1981 | https://openalex.org/W1608525044 | article | Long-term management of leafy spurge in pasture and rangeland . Year one | NDSU Repository (North Dakota State Univ
+- new | 1966 | 10.1111/j.1365-3180.1966.tb00898.x | article | RÉSULTATS D'ESSAIS DE DÉSHERBAGE DU BLÉ D'HIVER AVEC LE PICLORAME | Weed Research
+
+## ganoderma-lingzhi (Ganoderma lingzhi) - name clause: "Ganoderma lingzhi"[tiab] OR "Ganoderma lucidum"[tiab] OR "reishi"[tiab] OR "lingzhi"[tiab] OR "Ganoderma"[ti]
+
+### PubMed HT - 110 hits, 110 not already listed above, 104 new
+- new | 2026 | 41575193 | Review | The efficacy of nutritional phytochemical compounds in improving cognition. | Int J Neuropsychopharmacol
+- new | 2026 | 41558017 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Effectiveness and Safety of a Supplement Containing a Pharmacologically Active Basidiomycete Mushroom for Chronic Fatigue and Post-COVID-19 Fatigue Syndrome: Protocol for a Randomi | JMIR Res Protoc
+- new | 2026 | 42587906 | Review | Bioactive Compounds from Medicinal and Edible Plants for Anti-Aging: A Systematic Review of Molecular Mechanisms, Delivery Systems, and Clinical Evidence. | Foods
+- new | 2026 | 42910161 |  | Identifying the Four Critical Domains of the Food Protection Management System: A Pilot Study on Ganoderma Biotechnology Products. | Food Sci Nutr
+- new | 2026 | 42188043 | Review | Ganoderma lucidum as a Functional Bioactive Candidate for Glycemic Regulation: Mechanisms, Preclinical Evidence, and Clinical Translation. | Metabolites
+- new | 2026 | 42312513 |  | Effects of Ganoderma lucidum Polysaccharide Peptide on Inflammatory and Metabolic Biomarkers in Obese Patients with Cardiometabolic Syndrome: A Randomized Controlled Trial. | Curr Drug Discov Technol
+- new | 2026 | 42978868 | Clinical Trial | The effects of four-week supplementation of Lion's mane and a Lion's mane and Reishi blend on prioritised mood and wellbeing measures in young women. | Front Nutr
+- new | 2026 | 43030273 | Review | Edible and Medicinal Mushrooms in Metabolic Syndrome: From Mechanistic Plausibility to Clinical Evidence-A Narrative Review. | Nutrients
+- new | 2025 | 40077714 | Randomized Controlled Trial | Clinical Evaluation of Ganoderma lucidum Spore Oil for Triglyceride Reduction: A Randomized, Double-Blind, Crossover Study. | Nutrients
+- new | 2025 | 41438309 |  | Comparing the Effects of Ganoderma lucidum and Kombucha Mushrooms on Glycemic Control in Patients With Type 2 Diabetes: A Randomized Clinical Trial. | Clin Diabetes
+- new | 2025 | 41025484 | Research Support, N.I.H., Extramural | Patients' Expectations and Barriers Toward Reishi Mushroom Use in Cancer Care: A Cross-Sectional Survey. | Integr Cancer Ther
+- new | 2025 | 40833846 |  | Antioxidant Properties of Mexican Ganoderma lucidum Extracts in Obese C57BL/6 Mice Fed with a High-Fat and Sugar Diet. | J Med Food
+- new | 2025 | 40510787 | Review | The Nutritional Significance of Ganoderma lucidum on Human Health: A GRADE-Assessed Systematic Review and Meta-Analysis of Clinical Trials. | Food Sci Nutr
+- new | 2025 | 40872598 |  | Safety Considerations for Natural Products with Adaptogenic and Immunomodulating Activities. | Pharmaceuticals (Basel)
+- new | 2025 | 40158404 |  | Investigating the therapeutic potential of Ganoderma lucidum in treating optic nerve atrophy through network pharmacology and experimental validation. | Biochem Biophys Res Commun
+- new | 2025 | 41280379 | Review | Effects of fungal supplementation on endurance, immune function, and hematological profiles in adult athletes: a systematic review and meta-analysis. | Front Nutr
+- HELD REF-3562 | 2024 | 39241163 | Randomized Controlled Trial | Efficacy of Lingzhi or Reishi Medicinal Mushroom Ganoderma lucidum (Agaricomycetes) Supplementation on Psychological Stress and Selective Fitness Profile Parameters in Female Colle | Int J Med Mushrooms
+- new | 2024 | 38500118 | Clinical Trial Protocol | Synergy of de-walled Ganoderma Lucidum spore powder (GLSP) on targeted therapy in advanced non-squamous non-small cell lung cancer with epidermal growth factor receptor (EGFR) muta | BMC Complement Med Ther
+- new | 2024 | 38379554 |  | Colon targeting in rats, dogs and IBD patients with species-independent film coatings. | Int J Pharm X
+- new | 2024 | 38800991 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ganoderma lucidum dry extract supplementation modulates T lymphocyte function in older women. | Br J Nutr
+- new | 2024 | 39906373 |  | Antifungal Efficacy of Ganoderma lucidum and Clotrimazole for Treatment of Denture Stomatitis: A Randomized Clinical Trial. | Front Dent
+- new | 2024 | 39635077 |  | Symptom improvements and adverse effects with Reishi mushroom use: A Cross-Sectional survey of cancer patients. | Integr Med Res
+- new | 2023 | 36995535 | Systematic Review | Medicinal Mushroom Supplements in Cancer: A Systematic Review of Clinical Studies. | Curr Oncol Rep
+- new | 2023 | 38116485 | Review | Effect of Ganoderma lucidum on serum lipid profiles: A systematic review and meta-analysis on animal studies. | J Res Med Sci
+- new | 2023 | 37107503 |  | Traditional Uses of Wild Edible Mushrooms among the Local Communities of Swat, Pakistan. | Foods
+- new | 2023 | 36766186 |  | Evaluation of Immune Modulation by β-1,3; 1,6 D-Glucan Derived from Ganoderma lucidum in Healthy Adult Volunteers, A Randomized Controlled Trial. | Foods
+- new | 2023 | 37432344 | Systematic Review | Changes in the Gut Microbiota after the Use of Herbal Medicines in Overweight and Obese Individuals: A Systematic Review. | Nutrients
+- new | 2023 | 36987766 |  | Effect of Supplemental Antioxidant-Based Therapy on the Oxidative Stress Level in COVID-19 Patients. | Pril (Makedon Akad Nauk Umet Odd Med Nau
+- new | 2023 | 37885445 |  | Chronic supplementation of a multi-ingredient herbal supplement increases speed of cognitive task performance alongside changes in the urinary metabolism of dopamine and the gut mi | Front Nutr
+- new | 2023 | 38047360 | Review/Research Support, Non-U.S. Gov't | The Importance of Traditional Chinese Medicine in the Intervention and Treatment of HIV while Considering its Safety and Efficacy. | Curr HIV Res
+- new | 2021 | 33876798 | Systematic Review | Effects of fungal beta-glucans on health - a systematic review of randomized controlled trials. | Food Funct
+- new | 2021 | 35106075 | Review | Oral Presentation Award Winner: Polysaccharide Peptide of Ganoderma lucidum Reduces Endothelial Injury in Stable Angina and High-risk Patients. | Eur Cardiol
+- new | 2021 | 33521800 |  | Fermentation of Pleurotus ostreatus and Ganoderma lucidum mushrooms and their extracts by the gut microbiota of healthy and osteopenic women: potential prebiotic effect and impact  | Food Funct
+- new | 2021 | 33319566 | Randomized Controlled Trial | Effects of Ganoderma lucidum and Ceratonia siliqua on blood glucose, lipid profile, and body composition in women with fibromyalgia. | Nutr Hosp
+- new | 2021 | 33915962 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | A Placebo-Controlled, Pseudo-Randomized, Crossover Trial of Botanical Agents for Gulf War Illness: Reishi Mushroom (Ganoderma lucidum), Stinging Nettle (Urtica dioica), and Epimedi | Int J Environ Res Public Health
+- new | 2021 | 33405051 | Randomized Controlled Trial | Dynamic biomarkers indicate the immunological benefits provided by Ganoderma spore powder in post-operative breast and lung cancer patients. | Clin Transl Oncol
+- new | 2020 | 33424591 | Review | Significance of Medicinal Mushrooms in Integrative Oncology: A Narrative Review. | Front Pharmacol
+- new | 2020 | 33003518 | Review | Dietary Factors and Supplements Influencing Prostate Specific-Antigen (PSA) Concentrations in Men with Prostate Cancer and Increased Cancer Risk: An Evidence Analysis Review Based  | Nutrients
+- new | 2020 | 33265969 |  | Ganoderma lucidum Effects on Mood and Health-Related Quality of Life in Women with Fibromyalgia. | Healthcare (Basel)
+- new | 2020 | 32840126 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Preliminary Efficacy and Safety of Reishi & Privet Formula on Quality of Life Among Non-Small Cell Lung Cancer Patients Undergoing Chemotherapy: A Randomized Placebo-Controlled Tri | Integr Cancer Ther
+- new | 2020 | 33335409 |  | Effect and Mechanism of Ganoderma lucidum Spores on Alleviation of Diabetic Cardiomyopathy in a Pilot in vivo Study. | Diabetes Metab Syndr Obes
+- new | 2020 | 31418664 | Research Support, Non-U.S. Gov't/Review | Herbal Medicine for Slowing Aging and Aging-associated Conditions: Efficacy, Mechanisms and Safety. | Curr Vasc Pharmacol
+- new | 2020 | 32973199 | Research Support, Non-U.S. Gov't | Phenazine from Pseudomonas aeruginosa UPMP3 induced the host resistance in oil palm (Elaeis guineensis Jacq.)-Ganoderma boninense pathosystem. | Sci Rep
+- new | 2019 | 31333449 | Systematic Review | Coriolus Versicolor and Ganoderma Lucidum Related Natural Products as an Adjunct Therapy for Cancers: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Front Pharmacol
+- new | 2019 | 30702632 |  | Spore powder of Ganoderma lucidum for Alzheimer's disease: A protocol for systematic review. | Medicine (Baltimore)
+- new | 2019 | 31243641 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Macuprev(®) Supplementation in Age-Related Macular Degeneration: A Double-Blind Randomized Morpho-Functional Study Along 6 Months of Follow-Up. | Adv Ther
+- new | 2018 | 29879039 | Evaluation Study | A retrospective study of Ganoderma Lucidum Spore Powder for patients with epilepsy. | Medicine (Baltimore)
+- new | 2018 | 29872510 | Review | B-glucans from Grifola frondosa and Ganoderma lucidum in breast cancer: an example of complementary and integrative medicine. | Oncotarget
+- new | 2018 | 30317947 |  | Randomized Clinical Trial for the Evaluation of Immune Modulation by Yogurt Enriched with β-Glucans from Lingzhi or Reishi Medicinal Mushroom, Ganoderma lucidum (Agaricomycetes), i | Int J Med Mushrooms
+- new | 2018 | 29953396 |  | Effects of a Commercial Supplement of Ophiocordyceps sinensis and Ganoderma lucidum on Physiological Responses to Maximal Exercise in Healthy Young Participants. | Int J Med Mushrooms
+- new | 2018 | 29742702 | Randomized Controlled Trial | Spore powder of Ganoderma lucidum for the treatment of Alzheimer disease: A pilot study. | Medicine (Baltimore)
+- new | 2018 | 30392496 | Randomized Controlled Trial | The role of polysaccharide peptide of Ganoderma lucidum as a potent antioxidant against atherosclerosis in high risk and stable angina patients. | Indian Heart J
+- new | 2017 | 28183232 | Randomized Controlled Trial | Triterpenoids and polysaccharide peptides-enriched Ganoderma lucidum: a randomized, double-blind placebo-controlled crossover study of its antioxidation and hepatoprotective effica | Pharm Biol
+- new | 2017 | 29199566 | Randomized Controlled Trial | Clinical Effects of a Commercial Supplement of Ophiocordyceps sinensis and Ganoderma lucidum on Cognitive Function of Healthy Young Volunteers. | Int J Med Mushrooms
+- new | 2017 | 28861093 |  | The Phenylpropanoid Pathway and Lignin in Defense against Ganoderma boninense Colonized Root Tissues in Oil Palm (Elaeis guineensis Jacq.). | Front Plant Sci
+- new | 2016 | 27511742 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blind, randomised, placebo-controlled trial of Ganoderma lucidum for the treatment of cardiovascular risk factors of metabolic syndrome. | Sci Rep
+- HELD REF-3394 | 2016 | 27045603 | Meta-Analysis/Systematic Review | Ganoderma lucidum (Reishi mushroom) for cancer treatment. | Cochrane Database Syst Rev
+- new | 2015 | 25626896 | Case Reports/Review | Ganoderma lucidum for cancer treatment: we are close but still not there. | Integr Cancer Ther
+- new | 2015 | 26604581 |  | Evaluation of anti-microbial activity of spore powder of Ganoderma lucidum on clinical isolates of Prevotella intermedia: A pilot study. | Contemp Clin Dent
+- new | 2015 | 25811312 | Research Support, Non-U.S. Gov't/Systematic Review | The impact of complementary and alternative medicines on cancer symptoms, treatment side effects, quality of life, and survival in women with breast cancer--a systematic review. | Nutr Cancer
+- new | 2015 | 26124939 |  | The reduction of aorta histopathological images through inhibition of reactive oxygen species formation in hypercholesterolemia rattus norvegicus treated with polysaccharide peptid | Iran J Basic Med Sci
+- new | 2015 | 25954911 |  | The Effect of the Medicinal Mushrooms Agaricus brasiliensis and Ganoderma lucidum (Higher Basidiomycetes) on the Erythron System in Normal and Streptozotocin-Induced Diabetic Rats. | Int J Med Mushrooms
+- HELD REF-3559 | 2015 | 25686270 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Ganoderma lucidum mushroom for the treatment of cardiovascular risk factors. | Cochrane Database Syst Rev
+- new | 2015 | 26545669 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | GANODERMA LUCIDUM IMPROVES PHYSICAL FITNESS IN WOMEN WITH FIBROMYALGIA. | Nutr Hosp
+- new | 2015 | 25607934 | Clinical Trial/Research Support, Non-U.S. Gov't | Preclinical trials for prevention of tumor progression of hepatocellular carcinoma by LZ-8 targeting c-Met dependent and independent pathways. | PLoS One
+- new | 2015 | 26004313 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Ganoderic acid C1 isolated from the anti-asthma formula, ASHMI™ suppresses TNF-α production by mouse macrophages and peripheral blood mononuclear cells from asthma patients. | Int Immunopharmacol
+- new | 2014 | 24935369 | Research Support, Non-U.S. Gov't | Clinical characteristics of gynecologic cancer patients who respond to salvage treatment with Lingzhi. | Asian Pac J Cancer Prev
+- new | 2014 | 25271984 | Randomized Controlled Trial | Control of oral human papillomavirus (HPV) by medicinal mushrooms, Trametes versicolor and Ganoderma lucidum: a preliminary clinical trial. | Int J Med Mushrooms
+- new | 2014 | 24525691 | Clinical Trial | Protection against lung cancer patient plasma-induced lymphocyte suppression by Ganoderma lucidum polysaccharides. | Cell Physiol Biochem
+- new | 2014 | 24834096 |  | Evaluation of a crataegus-based multiherb formula for dyslipidemia: a randomized, double-blind, placebo-controlled clinical trial. | Evid Based Complement Alternat Med
+- new | 2013 | 24348715 |  | Polysaccharides-Rich Extract of Ganoderma lucidum (M.A. Curtis:Fr.) P. Karst Accelerates Wound Healing in Streptozotocin-Induced Diabetic Rats. | Evid Based Complement Alternat Med
+- new | 2013 | 23510288 | Research Support, Non-U.S. Gov't | Association of various fruiting body macromorphological traits with spore yield in Ganoderma Lingzhi (higher Basidiomycetes), a new medicinal mushroom from China. | Int J Med Mushrooms
+- new | 2013 | 23743163 | Research Support, N.I.H., Extramural | Constituents of the anti-asthma herbal formula ASHMI(TM) synergistically inhibit IL-4 and IL-5 secretion by murine Th2 memory cells, and eotaxin by human lung fibroblasts in vitro. | J Integr Med
+- new | 2012 | 23510222 |  | Yield performance of Lingzhi or Reishi medicinal mushroom, Ganoderma lucidum (W.Curt.:Fr.) P. Karst. (higher Basidiomycetes), using different waste materials as substrates. | Int J Med Mushrooms
+- new | 2012 | 23843810 |  | An update on plant derived anti-androgens. | Int J Endocrinol Metab
+- HELD REF-3394 | 2012 | 22696372 | Meta-Analysis/Systematic Review | Ganoderma lucidum (Reishi mushroom) for cancer treatment. | Cochrane Database Syst Rev
+- HELD REF-3561 | 2012 | 22203880 |  | Spore Powder of Ganoderma lucidum Improves Cancer-Related Fatigue in Breast Cancer Patients Undergoing Endocrine Therapy: A Pilot Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2012 | 23163162 | Case Reports | [Ganoderma spore induced increased CA72-4 in three gastroenteric tumor patients and literature analysis]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2012 | 21801467 | Randomized Controlled Trial | Study of potential cardioprotective effects of Ganoderma lucidum (Lingzhi): results of a controlled human intervention trial. | Br J Nutr
+- new | 2011 | 21185719 | Research Support, N.I.H., Extramural/Review | Herbal therapy use by cancer patients: a literature review on case reports. | Eur J Cancer
+- new | 2010 | 20345351 | Research Support, Non-U.S. Gov't/Review | Herbal interactions with anticancer drugs: mechanistic and clinical considerations. | Curr Med Chem
+- new | 2010 | 20412340 |  | Medical mushrooms used for biochemical failure after radical treatment for prostate cancer: an open-label study. | Int J Urol
+- new | 2010 | 20518254 | Controlled Clinical Trial | A water-soluble extract from culture medium of Ganoderma lucidum mycelia suppresses the development of colorectal adenomas. | Hiroshima J Med Sci
+- new | 2009 | 19145638 | Randomized Controlled Trial | Effect of citronellol and the Chinese medical herb complex on cellular immunity of cancer patients receiving chemotherapy/radiotherapy. | Phytother Res
+- new | 2008 | 18097505 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized clinical trial of an ethanol extract of Ganoderma lucidum in men with lower urinary tract symptoms. | Asian J Androl
+- new | 2008 | 18097503 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of an extract of Ganoderma lucidum in men with lower urinary tract symptoms: a double-blind, placebo-controlled randomized and dose-ranging study. | Asian J Androl
+- new | 2008 | 18048435 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Ganoderma lucidum capsules on T lymphocyte subsets in football players on "living high-training low". | Br J Sports Med
+- new | 2008 | 18603664 | Research Support, Non-U.S. Gov't | Toxicity of a traditional Chinese medicine, Ganoderma lucidum, in children with cancer. | Can J Clin Pharmacol
+- new | 2007 | 17907228 | Randomized Controlled Trial | Safety and efficacy of Ganoderma lucidum (lingzhi) and San Miao San supplementation in patients with rheumatoid arthritis: a double-blind, randomized, placebo-controlled pilot tria | Arthritis Rheum
+- new | 2007 | 17597499 | Randomized Controlled Trial | Safety and tolerability of Ganoderma lucidum in healthy subjects: a double-blind randomized placebo-controlled trial. | Am J Chin Med
+- new | 2007 | 18047445 | Clinical Trial | Herbal mixtures containing the mushroom Ganoderma lucidum improve recovery time in patients with herpes genitalis and labialis. | J Altern Complement Med
+- new | 2006 | 16873089 | Historical Article | Immunomodulatory effects of lingzhi and san-miao-san supplementation on patients with rheumatoid arthritis. | Immunopharmacol Immunotoxicol
+- new | 2006 | 16428086 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Monitoring of immune responses to a herbal immuno-modulator in patients with advanced colorectal cancer. | Int Immunopharmacol
+- new | 2005 | 16173526 | Clinical Trial | Effect of an herbal formula containing Ganoderma lucidum on reduction of herpes zoster pain: a pilot clinical trial. | Am J Chin Med
+- new | 2005 | 16037156 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A prospective, randomized, double-blind, placebo-controlled study of the platelet and global hemostatic effects of Ganoderma lucidum (Ling-Zhi) in healthy volunteers. | Anesth Analg
+- HELD REF-3560 | 2005 | 15857210 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, double-blind and placebo-controlled study of a Ganoderma lucidum polysaccharide extract in neurasthenia. | J Med Food
+- new | 2005 | 15921158 | Comparative Study/Research Support, Non-U.S. Gov't | Antitumor activity and underlying mechanisms of ganopoly, the refined polysaccharides extracted from Ganoderma lucidum, in mice. | Immunol Invest
+- new | 2005 | 16117607 | Research Support, Non-U.S. Gov't | Effects of water-soluble Ganoderma lucidum polysaccharides on the immune functions of patients with advanced lung cancer. | J Med Food
+- new | 2005 | 16351502 | Research Support, Non-U.S. Gov't/Review | Anticancer effects of Ganoderma lucidum: a review of scientific evidence. | Nutr Cancer
+- new | 2004 | 15567896 | Clinical Trial/Research Support, Non-U.S. Gov't | Ganoderma lucidum suppresses endothelial cell cytotoxicity and proteinuria in persistent proteinuric focal segmental glomerulosclerosis (FSGS) nephrosis. | Clin Hemorheol Microcirc
+- new | 2004 | 14756912 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Ganoderma lucidum ("Lingzhi"), a Chinese medicinal mushroom: biomarker responses in a controlled human supplementation study. | Br J Nutr
+- new | 2004 | 14630595 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ganoderma lucidum ('Lingzhi'); acute and short-term biomarker response to supplementation. | Int J Food Sci Nutr
+- new | 2003 | 12764911 | Research Support, Non-U.S. Gov't | [Clinical observation on treatment of Russula subnigricans poisoning patients by Ganoderma lucidum decoction]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2003 | 12916709 | Clinical Trial/Research Support, Non-U.S. Gov't | Effects of ganopoly (a Ganoderma lucidum polysaccharide extract) on the immune functions in advanced-stage cancer patients. | Immunol Invest
+- new | 2002 | 12596858 | Clinical Trial | Isoflavone aglycon produced by culture of soybean extracts with basidiomycetes and its anti-angiogenic activity. | Biosci Biotechnol Biochem
+- new | 2002 | 12372965 | Clinical Trial | Treatment with vasodilators and crude extract of Ganoderma lucidum suppresses proteinuria in nephrosis with focal segmental glomerulosclerosis. | Nephron
+- new | 1999 | 10668493 | Review | Update from Asia. Asian studies on cancer chemoprevention. | Ann N Y Acad Sci
+- new | 1995 | 7553247 | Comparative Study/Research Support, Non-U.S. Gov't | Sensitization to Ganoderma lucidum in patients with respiratory allergy in India. | Clin Exp Allergy
+- new | 1994 | 7992821 | Clinical Trial/Randomized Controlled Trial | Alteration of pulse in human subjects by three Chinese herbs. | Am J Chin Med
+- new | 1990 | 2098581 |  | Experimental and clinical studies on inhibitory effect of ganoderma lucidum on platelet aggregation. | J Tongji Med Univ
+
+### PubMed SR - 37 hits, 23 not already listed above, 22 new
+- new | 2026 | 41599785 | Review | Anti-Inflammatory Potential of Ganoderma lucidum Triterpenes: A Systematic Review and Meta-Analysis of Preclinical Evidence. | Pharmaceuticals (Basel)
+- new | 2026 | 42839679 |  | A Postbiotic-Inducing Ganoderma applanatum Polysaccharide Repairs the Intestinal Barrier via a Phocaeicola vulgatus - Tridecylic Acid Axis. | Adv Sci (Weinh)
+- new | 2026 | 42147328 | Systematic Review | Mechanism of Ganoderma lucidum polysaccharides in the mangement of diabetes and its complications. | Front Pharmacol
+- new | 2026 | 42538439 | Scoping Review | Sustainable mushroom cultivation: a scoping review on circular bioeconomy practices and food system implications. | World J Microbiol Biotechnol
+- new | 2026 | 41596661 | Systematic Review | Potential Bioactive Function of Microbial Metabolites as Inhibitors of Tyrosinase: A Systematic Review. | Int J Mol Sci
+- new | 2025 | 40592243 | Systematic Review | Structural basis of immunomodulation by edible fungal polysaccharides: From molecular characteristics to action mechanisms. | Carbohydr Res
+- new | 2025 | 40289452 | Systematic Review/Research Support, Non-U.S. Gov't | Edible and Medicinal Fungi as Candidate Natural Antidepressants: Mechanisms and Nutritional Implications. | Mol Nutr Food Res
+- new | 2025 | 41304887 | Review | Can Ganoderma Triterpenoids Exert Immunogenic Cell Death in Human Cancer Cells? A Systematic Review and Protein Network Analysis. | Pharmaceuticals (Basel)
+- new | 2025 | 41475897 | Scoping Review/Research Support, N.I.H., Extramural | Identifying immunostimulatory herbal supplements that may flare autoimmune skin diseases: a systematic scoping review. | Lupus Sci Med
+- new | 2024 | 38572237 | Review | Regulatory effect of Ganoderma lucidum and its active components on gut flora in diseases. | Front Microbiol
+- HELD REF-2598 | 2023 | 37373268 | Review | Anti-Cancer Potential of Edible/Medicinal Mushrooms in Breast Cancer. | Int J Mol Sci
+- new | 2023 | 37790044 | Review | Pharmacological Activities and Safety of Ganoderma lucidum Spores: A Systematic Review. | Cureus
+- new | 2023 | 37627594 | Review | Natural Products in Renal-Associated Drug Discovery. | Antioxidants (Basel)
+- new | 2023 | 36734035 | Systematic Review | Therapeutic potential and nutritional significance of Ganoderma lucidum - a comprehensive review from 2010 to 2022. | Food Funct
+- new | 2021 | 33157222 | Systematic Review | Immunomodulation of Chinese Herbal Medicines on NK cell populations for cancer therapy: A systematic review. | J Ethnopharmacol
+- new | 2021 | 34667500 | Review | Effects of natural extracts in the treatment of oral ulcers: A systematic review of evidence from experimental studies in animals. | J Clin Exp Dent
+- new | 2020 | 33685191 | Review | Immunostimulatory and anticancer effect of Reishi and Coriol extracts at the level of clinical studies and their implementation in practice. | Klin Onkol
+- new | 2020 | 32724333 | Review | Herb-drug interactions between the medicinal mushrooms Lingzhi and Yunzhi and cytotoxic anticancer drugs: a systematic review. | Chin Med
+- new | 2020 | 32775437 | Systematic Review | Associated Targets of the Antioxidant Cardioprotection of Ganoderma lucidum in Diabetic Cardiomyopathy by Using Open Targets Platform: A Systematic Review. | Biomed Res Int
+- new | 2020 | 32872049 |  | Effects of spore powder of ganoderma lucidum on CaSR and apoptosis-related proteins in hippocampus tissue of epilepsy following dementia: A protocol of systematic review. | Medicine (Baltimore)
+- new | 2020 | 33304123 |  | A global meta-analysis of ITS rDNA sequences from material belonging to the genus Ganoderma (Basidiomycota, Polyporales) including new data from selected taxa. | MycoKeys
+- new | 2020 | 32325828 | Meta-Analysis/Systematic Review | Use of Ganoderma lucidum (Ganodermataceae, Basidiomycota) as Radioprotector. | Nutrients
+- new | 2017 | 29256841 | Systematic Review | The Efficacy and Toxicity of Using the Lingzhi or Reishi Medicinal Mushroom, Ganoderma lucidum (Agaricomycetes), and Its Products in Chemotherapy (Review). | Int J Med Mushrooms
+
+### PubMed SAFE - 471 hits, 182 not already listed above, 181 new
+- new | 2027 | 42810460 | Review | Ganoderma lucidum for Alzheimer's disease: A neuroinflammatory and oxidative stress perspective. | J Ethnopharmacol
+- new | 2026 | 41539637 |  | Protective effects of Ganoderma lucidum polysaccharide peptides against cisplatin-induced toxicity. | J Ethnopharmacol
+- new | 2026 | 42195866 |  | Ganoderma lingzhi Triterpenoids Ameliorate CCl(4)-Induced Acute Liver Injury in Mice. | Foods
+- new | 2026 | 42529440 | Retraction Notice | RETRACTION: Ganoderma lucidum and Auricularia polytricha Mushrooms Protect against Carbofuran-Induced Toxicity in Rats. | Evid Based Complement Alternat Med
+- new | 2026 | 42346520 |  | Preparation and Bioactivity Evaluation of Novel Dihydrotanshinone I Derivatives via Biotransformation by Ganoderma lingzhi. | J Fungi (Basel)
+- new | 2026 | 41640603 |  | Ganoderma lucidum polysaccharide-decorated extracellular vesicle enables synergistical antitumor immunotherapy. | Mater Today Bio
+- new | 2026 | 42288367 | Review | Herbal Products and Dietary Supplements in Radiation Oncology: Evidence, Safety, and Practical Patient Counseling. | Semin Radiat Oncol
+- new | 2026 | 42602435 | Review | Ganoderma applanatum Polysaccharides in Obesity-Associated Dysglycaemia and Liver Injury: Gut-Liver Mechanisms and Translational Gaps. | Niger Med J
+- new | 2026 | 41669686 |  | Multi-omics integration identifies ganoderic acid A as a TNFα inhibitor for treating sepsis-related liver injury. | Front Pharmacol
+- new | 2025 | 40755493 | Review | Potential Active Compounds of Ganoderma lucidum and Their Anticancer Effects: A Comprehensive Review. | Food Sci Nutr
+- new | 2025 | 40395727 | Review | Plant polysaccharides influence tumor development based on epigenetics: a review. | Front Pharmacol
+- new | 2025 | 40427395 | Review | Ganoderma lucidum-From Ancient Remedies to Modern Applications: Chemistry, Benefits, and Safety. | Antioxidants (Basel)
+- new | 2025 | 40901269 | Review | Molecular Pharmacological Interventions for Endometrial Cancer: A Comprehensive Review. | Drug Des Devel Ther
+- new | 2025 | 41170366 |  | Development and preliminary mechanistic analysis of compound effervescent hepatoprotective granules. | Front Nutr
+- new | 2025 | 40995560 | Review | Hydrogels incorporating active compounds from traditional Chinese medicine for diabetic wound healing: mechanistic pathways and bioengineering progress. | Front Cell Dev Biol
+- new | 2025 | 41584839 |  | Developmental and reproductive toxicity assessment of sporoderm-removed Ganoderma lucidum spores. | Front Cell Dev Biol
+- new | 2025 | 41014984 |  | Ganoderma lucidum mitigates oxidative stress and apoptosis in chlorpyrifos‑induced testicular toxicity in male rats. | Reprod Biol
+- new | 2025 | 40733125 | Review | Recent Advances in the Use of Ganoderma lucidum and Coriolus versicolor Mushrooms to Enhance the Anticancer Efficacy of EGFR-Targeted Drugs in Lung Cancer. | Pharmaceutics
+- new | 2025 | 41302443 | Review | Fungal Polysaccharides as Modulators of Molecular Pathways in Liver Health. | Molecules
+- new | 2025 | 40306136 |  | UPLC-Q-TOF/MS-based study on chemical composition, in vivo metabolites, and tissue distribution of ethanol extract of Ganoderma lucidum. | J Pharm Biomed Anal
+- new | 2025 | 40460403 |  | Lingzhi or Reishi Medicinal Mushroom Ganoderma lucidum (Agaricomycetes) Aqueous Extract Reverses Hypoxia Induced Redox Imbalance and Inflammatory Response in Rat Thymocytes. | Int J Med Mushrooms
+- new | 2025 | 40291539 |  | Mechanistic Insights Into Ganoderma Lucidum for Diabetes Treatment via Network Pharmacology and Validation. | Diabetes Metab Syndr Obes
+- new | 2025 | 40315696 |  | Pharmacokinetic and tissue distribution analysis of sporoderm-removed Ganoderma lucidum spore powder in rats. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2025 | 41606936 |  | Study on the intervention mechanism of Ganodermalucidum polysaccharides in mice with atopic dermatitis. | Food Res Int
+- new | 2025 | 39842075 |  | Ganoderma lucidum spore oil attenuates acute liver injury by modulating lipid metabolism and gut microbiota. | J Pharm Biomed Anal
+- new | 2025 | 40545883 |  | Molecular dynamics simulations reveal a strong binding capacity of colossolactone H to the EGFR inactive conformation. | Phys Chem Chem Phys
+- new | 2025 | 40316150 | Review | Ganoderic acid A: an in-depth review of pharmacological effects and molecular docking analysis. | J Ethnopharmacol
+- new | 2025 | 39997379 |  | Ganoderma lucidum Immobilized on Wood Demonstrates High Persistence During the Removal of OPFRs in a Trickle-Bed Bioreactor. | J Fungi (Basel)
+- new | 2025 | 40507156 | Review | Critical Review on the Anti-Tumor Activity of Bioactive Compounds from Edible and Medicinal Mushrooms over the Last Five Years. | Nutrients
+- new | 2025 | 40318725 |  | General control nonderepressible 4 activates the transcription of trehalose phosphorylase to improve trehalose production and abiotic stress tolerance in Ganoderma lucidum. | Int J Biol Macromol
+- new | 2025 | 39613022 |  | Ganoderma lucidum extract reverses multidrug resistance in breast cancer cells through inhibiting ATPase activity of the P-glycoprotein via MAPK/ERK signaling pathway. | Exp Cell Res
+- new | 2024 | 39749195 | Published Erratum | Erratum: Triterpenoids from Ganoderma lucidum inhibit cytochrome P450 enzymes interfering with the metabolic process of specific clinical drugs. | Front Pharmacol
+- new | 2024 | 39060074 |  | Effect of Ganoderma lucidum on Cisplatin-induced Nephrotoxicity and Gastrointestinal Toxicity. | Anticancer Res
+- new | 2024 | 38642691 | Review | Ganoderma lucidum: Multifaceted mechanisms to combat diabetes through polysaccharides and triterpenoids: A comprehensive review. | Int J Biol Macromol
+- new | 2024 | 39539985 |  | A toxicological assessment of Ganoderma lucidum and Cordyceps militaris mushroom powders. | Front Toxicol
+- new | 2024 | 39057091 | Review | Medicinal Mushrooms in Metastatic Breast Cancer: What Is Their Therapeutic Potential as Adjuvant in Clinical Settings? | Curr Issues Mol Biol
+- new | 2024 | 38038157 |  | Comparative pharmacokinetic analysis of sporoderm-broken and sporoderm-removed Ganoderma lucidum spore in rat by using a sensitive plasma UPLC-QqQ-MS method. | Biomed Chromatogr
+- new | 2024 | 39168217 |  | Electrochemiluminescence assay for the impact of Ganoderma lucidum polysaccharides on resisting arsenic-induced apoptosis. | Int J Biol Macromol
+- new | 2024 | 38278558 | Review | Polysaccharides from Chinese herbal medicine: a review on the hepatoprotective and molecular mechanism. | Chin J Nat Med
+- new | 2024 | 39619618 |  | Triterpenoids from Ganoderma lucidum inhibit cytochrome P450 enzymes interfering with the metabolic process of specific clinical drugs. | Front Pharmacol
+- new | 2024 | 39246459 |  | Early Preclinical Studies of Ergosterol Peroxide and Biological Evaluation of Its Derivatives. | ACS Omega
+- new | 2024 | 38749890 |  | Ganoderma lucidum spores-derived particulate β-glucan treatment improves antitumor response by regulating myeloid-derived suppressor cells in triple-negative breast cancer. | Int J Biol Macromol
+- new | 2024 | 38296867 |  | Application of sequential design for enhanced L-asparaginase synthesis from Ganoderma australe GPC191. | World J Microbiol Biotechnol
+- new | 2024 | 38543259 |  | Anti-Inflammatory Effects of Chamaecyparis obtusa (Siebold & Zucc.) Endl. Leaf Extract Fermented by Ganoderma applanatum Mycelia. | Pharmaceutics
+- new | 2024 | 38395571 |  | Combined NMR and MS-based metabonomics and real-time PCR analyses reveal dynamic metabolic changes of Ganoderma lucidum during fruiting body growing. | Food Res Int
+- new | 2024 | 39170507 |  | Ganoderma lucidum polysaccharides reduce the severity of acute liver injury by improving the diversity and function of the gut microbiota. | Heliyon
+- new | 2024 | 39099354 |  | [Chemical composition analysis of Ganoderma lucidum based on UPLC-Orbitrap-HRMS and virtual screening of FXR activators for treatment of liver fibrosis]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2024 | 38381508 |  | Population genetics provides insights into the important agronomic traits of Ganoderma cultivation varieties in China. | Gene
+- new | 2024 | 38799738 |  | Valorizing fungal diversity for the degradation of fluoroquinolones. | Heliyon
+- new | 2024 | 38922058 |  | The Protective Effects of Ganoderma lucidum Active Peptide GLP4 on Lung Injury Induced by Cadmium Poisoning in Mice. | Toxics
+- new | 2024 | 38931214 |  | Ganoderma lucidum Polysaccharides Ameliorate Acetaminophen-Induced Acute Liver Injury by Inhibiting Oxidative Stress and Apoptosis along the Nrf2 Pathway. | Nutrients
+- new | 2023 | 36603342 |  | Ganoderma lucidum polysaccharide inhibits HSC activation and liver fibrosis via targeting inflammation, apoptosis, cell cycle, and ECM-receptor interaction mediated by TGF-β/Smad s | Phytomedicine
+- new | 2023 | 37101730 | Review | A Comprehensive Review of Herbal Supplements Used for Persistent Symptoms Attributed to Lyme Disease. | Integr Med (Encinitas)
+- new | 2023 | 37625759 | Review | Preclinical pharmacokinetics-related pharmacological effects of orally administered polysaccharides from traditional Chinese medicines: A review. | Int J Biol Macromol
+- new | 2023 | 37885515 | Case Reports | Ganoderma lingzhi (Reishi Mushroom)-Induced Acute Liver Injury in the Setting of Alcohol Use: A Case Report and Review of the Literature. | Cureus
+- new | 2023 | 37641070 | Review | A review of anti-tumour effects of Ganoderma lucidum in gastrointestinal cancer. | Chin Med
+- new | 2023 | 37111092 | Review | Ganoderma lucidum: Novel Insight into Hepatoprotective Potential with Mechanisms of Action. | Nutrients
+- new | 2023 | 37830194 |  | Apoptosis-Mediated Anticancer Activity of Ganoderma colossus (Agaricomycetes) Extracts in Breast Cancer Cells. | Int J Med Mushrooms
+- new | 2023 | 37303681 |  | Inhibitory effects of Ganoderma lucidum triterpenoid on the growth and metastasis of hepatocellular carcinoma. | Am J Transl Res
+- new | 2023 | 37689913 | Review/Research Support, Non-U.S. Gov't | Potentialities of Ganoderma lucidum extracts as functional ingredients in food formulation. | Food Res Int
+- new | 2023 | 37903715 | Review | A Comprehensive Review on the Chemical Composition, Pharmacology and Clinical Applications of Ganoderma. | Am J Chin Med
+- new | 2023 | 37944784 |  | A 26-week repeated dose toxicity evaluation of sporoderm-removed Ganoderma lucidum spores in rats. | Food Chem Toxicol
+- new | 2023 | 37263520 |  | Ganoderma lucidum polysaccharide alleviates Cd toxicity in common carp (Cyprinus carpio): Neuropeptide, growth performance and lipid accumulation. | Comp Biochem Physiol C Toxicol Pharmacol
+- new | 2023 | 37833299 |  | Ganoderma lucidum methanolic extract as a potent phytoconstituent: characterization, in-vitro antimicrobial and cytotoxic activity. | Sci Rep
+- new | 2023 | 37305093 |  | Effects of Ganoderma lucidum polysaccharide peptide ameliorating cyclophosphamide-induced immune dysfunctions based on metabolomics analysis. | Front Nutr
+- new | 2023 | 37745066 |  | The medicinal mushroom Ganoderma lucidum prevents lung tumorigenesis induced by tobacco smoke carcinogens. | Front Pharmacol
+- new | 2023 | 36985818 | Review | Exploring Edible Mushrooms for Diabetes: Unveiling Their Role in Prevention and Treatment. | Molecules
+- new | 2023 | 37180834 |  | Aqueous-soluble components of sporoderm-removed Ganoderma lucidum spore powder promote ferroptosis in oral squamous cell carcinoma. | Chin J Cancer Res
+- new | 2023 | 36655071 |  | Evaluation of the acute toxicity and 28-days subacute toxicity of the alcoholic extract from Ganoderma leucocontextum. | Food Sci Nutr
+- new | 2023 | 36907499 |  | Ganoderma lucidum ethanol extract promotes weight loss and improves depressive-like behaviors in male and female Swiss mice. | Physiol Behav
+- new | 2023 | 36991205 |  | Transcriptome analysis reveals insight into the protective effect of N-acetylcysteine against cadmium toxicity in Ganoderma lucidum (Polyporales: Polyporaceae). | Environ Sci Pollut Res Int
+- new | 2023 | 36739926 |  | Toxicogenic effects of the mushroom Ganoderma lucidum on human liver and kidney tumor cells and peripheral blood lymphocytes. | J Ethnopharmacol
+- new | 2023 | 38104078 | Review | Exploring the anti-cancer potential of Ganoderma lucidum polysaccharides (GLPs) and their versatile role in enhancing drug delivery systems: a multifaceted approach to combat cance | Cancer Cell Int
+- new | 2023 | 37022999 | Research Support, Non-U.S. Gov't | Effects of Mexican Ganoderma lucidum extracts on liver, kidney, and the gut microbiota of Wistar rats: A repeated dose oral toxicity study. | PLoS One
+- new | 2023 | 36970755 |  | Synergistic apoptotic effects of ethanolic extracts of ginger and Ganoderma lucidum in a colorectal cancer cell line. | Biotech Histochem
+- new | 2023 | 37054486 |  | A tri-herb formulation protects against ethanol-induced mouse liver injury and downregulates mitogen-activated protein kinase phosphatase 1. | Phytomedicine
+- new | 2023 | 37586160 |  | Ganoderma lucidum polysaccharide peptide (GLPP) attenuates rheumatic arthritis in rats through inactivating NF-κB and MAPK signaling pathways. | Phytomedicine
+- new | 2023 | 36866546 | Research Support, Non-U.S. Gov't | Protective Effect of Ganoderma lucidum Spore Powder on Acute Liver Injury in Mice and its Regulation of Gut Microbiota. | Front Biosci (Landmark Ed)
+- new | 2023 | 37427574 |  | Combined Ganoderma lucidum polysaccharide and ciprofloxacin therapy alleviates Salmonella enterica infection, protects the intestinal barrier, and regulates gut microbiota. | Food Funct
+- new | 2022 | 36569077 |  | Diversity and effects of competitive Trichoderma species in Ganoderma lucidum-cultivated soils. | Front Microbiol
+- new | 2022 | 35499001 |  | Structural characterization and hepatoprotective activity of an acidic polysaccharide from Ganoderma lucidum. | Food Chem X
+- new | 2022 | 33691545 |  | Sterols and triterpenoids from Ganoderma lucidum and their reversal activities of tumor multidrug resistance. | Nat Prod Res
+- new | 2022 | 35865946 | Review | Research Progress on the Anticancer Activities and Mechanisms of Polysaccharides From Ganoderma. | Front Pharmacol
+- new | 2022 | 35312729 | Research Support, Non-U.S. Gov't | The medicinal mushroom Ganoderma lucidum attenuates UV-induced skin carcinogenesis and immunosuppression. | PLoS One
+- new | 2022 | 35026480 |  | Ganoderma modulates allergic asthma pathologic features via anti-inflammatory effects. | Respir Physiol Neurobiol
+- new | 2022 | 35264959 |  | Sporoderm-Broken Spores of Ganoderma lucidum Sensitizes Ovarian Cancer to Cisplatin by ROS/ERK Signaling and Attenuates Chemotherapy-Related Toxicity. | Front Pharmacol
+- new | 2022 | 34800521 |  | Novelkaraya gum micro-particles loaded Ganoderma lucidum polysaccharide regulate sex hormones, oxidative stress and inflammatory cytokine levels in cadmium induced testicular toxic | Int J Biol Macromol
+- new | 2022 | 35621360 |  | Association of gut microbiota characteristics and metabolites reveals the regulation mechanisms under cadmium consumption circumstance. | J Sci Food Agric
+- new | 2022 | 35865804 | Published Erratum | Corrigendum to "Ganoderic acids-rich ethanol extract from Ganoderma lucidum protects against alcoholic liver injury and modulates intestinal microbiota in mice with excessive alcoh | Curr Res Food Sci
+- new | 2022 | 35695589 |  | The Potential Activity of Lingzhi or Reishi Medicinal Mushroom, Ganoderma lucidum (Agaricomycetes), to Alleviate Liver Injury in Adults with Acute Mushroom Poisoning: A Retrospecti | Int J Med Mushrooms
+- new | 2022 | 35739932 |  | Ganoderma lucidum Modulates Glucose, Lipid Peroxidation and Hepatic Metabolism in Streptozotocin-Induced Diabetic Pregnant Rats. | Antioxidants (Basel)
+- new | 2022 | 35867171 |  | Comparative transcriptome analysis revealed candidate genes involved in fruiting body development and sporulation in Ganoderma lucidum. | Arch Microbiol
+- new | 2022 | 35330313 |  | Phylogenomics and Comparative Genomics Highlight Specific Genetic Features in Ganoderma Species. | J Fungi (Basel)
+- new | 2022 | 35208173 |  | Pharmacokinetic, Metabolomic, and Stability Assessment of Ganoderic Acid H Based Triterpenoid Enriched Fraction of Ganoderma lucidum P. Karst. | Metabolites
+- new | 2022 | 35696964 |  | Sporoderm-broken spores of Ganoderma lucidum alleviates liver injury induced by DBP and BaP co-exposure in rat. | Ecotoxicol Environ Saf
+- new | 2022 | 35695634 | Review | Biosynthesis, Gene Expression, and Pharmacological Properties of Triterpenoids of Ganoderma Species (Agaricomycetes): A Review. | Int J Med Mushrooms
+- new | 2022 | 35723290 |  | Anticancer and Apoptotic Activity in Cervical Adenocarcinoma HeLa Using Crude Extract of Ganoderma applanatum. | Curr Issues Mol Biol
+- new | 2022 | 35743893 | Case Reports | Management of Combined Therapy (Ceritinib, A. cinnamomea, G. lucidum, and Photobiomodulation) in Advanced Non-Small-Cell Lung Cancer: A Case Report. | Life (Basel)
+- new | 2022 | 36294567 |  | Nephroprotective Effects of Two Ganoderma Species Methanolic Extracts in an In Vitro Model of Cisplatin Induced Tubulotoxicity. | J Fungi (Basel)
+- new | 2022 | 35407036 |  | The Protective Effects of Ganoderic Acids from Ganoderma lucidum Fruiting Body on Alcoholic Liver Injury and Intestinal Microflora Disturbance in Mice with Excessive Alcohol Intake | Foods
+- new | 2022 | 36014338 |  | Assessment of Cosmetic Properties and Safety of Use of Model Washing Gels with Reishi, Maitake and Lion's Mane Extracts. | Molecules
+- new | 2022 | 36518484 |  | Safety assessment of the fungal immunomodulatory protein from Ganoderma microsporum (GMI) derived from engineered Pichia pastoris: Genetic toxicology, a 13-week oral gavage toxicit | Toxicol Rep
+- new | 2021 | 34411377 | Review | Ganoderma lucidum (Reishi) an edible mushroom; a comprehensive and critical review of its nutritional, cosmeceutical, mycochemical, pharmacological, clinical, and toxicological pro | Phytother Res
+- new | 2021 | 33170078 |  | Self-Medication with Ganoderma lucidum ("Reishi") to Combat Parkinson's Disease Symptoms: A Single Case Study. | J Med Food
+- new | 2021 | 34622636 |  | [Identification of phosphatidic acid interacting proteins in Ganoderma lingzhi]. | Sheng Wu Gong Cheng Xue Bao [chi]
+- new | 2021 | 34141167 |  | Ganoderic acid T improves the radiosensitivity of HeLa cells via converting apoptosis to necroptosis. | Toxicol Res (Camb)
+- new | 2021 | 34911873 | Case Reports | Hypereosinophilia with Hepatic Nodule Formation Caused by Ganoderma lucidum. | Intern Med
+- new | 2021 | 33562361 | Evaluation Study | Use of Zebrafish Embryo Assay to Evaluate Toxicity and Safety of Bioreactor-Grown Exopolysaccharides and Endopolysaccharides from European Ganoderma applanatum Mycelium for Future  | Int J Mol Sci
+- new | 2020 | 32504783 | Review | Ganoderma lucidum: A rational pharmacological approach to surmount cancer. | J Ethnopharmacol
+- new | 2020 | 32140897 | Review | Anticancer Effects of Herbal Medicine Compounds and Novel Formulations: a Literature Review. | J Gastrointest Cancer
+- new | 2020 | 32317975 | Review | Herbal Medicine for Cardiovascular Diseases: Efficacy, Mechanisms, and Safety. | Front Pharmacol
+- new | 2020 | 31865439 |  | CRISPR-Cas9 assisted functional gene editing in the mushroom Ganoderma lucidum. | Appl Microbiol Biotechnol
+- new | 2020 | 32423728 |  | Improving the production of squalene-type triterpenoid 2,3;22,23-squalene dioxide by optimizing the expression of CYP505D13 in Saccharomyces cerevisiae. | J Biosci Bioeng
+- new | 2020 | 32695255 |  | Ganoderma lucidum Prevents Cisplatin-Induced Nephrotoxicity through Inhibition of Epidermal Growth Factor Receptor Signaling and Autophagy-Mediated Apoptosis. | Oxid Med Cell Longev
+- new | 2020 | 31494202 |  | Identification of novel phytocannabinoids from Ganoderma by label-free dynamic mass redistribution assay. | J Ethnopharmacol
+- new | 2020 | 35497845 |  | LingZhi oligopeptides amino acid sequence analysis and anticancer potency evaluation. | RSC Adv
+- new | 2019 | 31777016 | Review | Protective Effect of Ganoderma (Lingzhi) on Radiation and Chemotherapy. | Adv Exp Med Biol
+- new | 2019 | 31777015 | Review | Cellular and Molecular Mechanism of Ganoderma (Lingzhi) Against Tumor. | Adv Exp Med Biol
+- new | 2019 | 31777021 | Review | Preventive and Therapeutic Effect of Ganoderma (Lingzhi) on Liver Injury. | Adv Exp Med Biol
+- new | 2019 | 30989848 | Review | [Pharmacokinetics of ganoderic acids]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2019 | 31500366 |  | Chinese Herbal Medicine Ganoderma tsugae Displays Potential Anti-Cancer Efficacy on Metastatic Prostate Cancer Cells. | Int J Mol Sci
+- HELD REF-2043 | 2019 | 31030748 | Research Support, Non-U.S. Gov't/Review | Ganoderma lucidum polysaccharide used for treating physical frailty in China. | Prog Mol Biol Transl Sci
+- new | 2019 | 31295484 |  | The ameliorations of Ganoderma applanatum residue polysaccharides against CCl(4) induced liver injury. | Int J Biol Macromol
+- new | 2019 | 31609024 | Research Support, Non-U.S. Gov't | Pharmacological effects of Ganoderma lucidum extract against high-altitude stressors and its subchronic toxicity assessment. | J Food Biochem
+- new | 2019 | 31653035 |  | Quercetin Synergistically Inhibit EBV-Associated Gastric Carcinoma with Ganoderma lucidum Extracts. | Molecules
+- new | 2019 | 30236660 |  | Hepatoprotective activity of Ganoderma lucidum triterpenoids in alcohol-induced liver injury in mice, an iTRAQ-based proteomic analysis. | Food Chem
+- new | 2019 | 29717433 |  | Protective Effect of Ganoderma Triterpenoids on Cadmium-Induced Testicular Toxicity in Chickens. | Biol Trace Elem Res
+- new | 2019 | 30362532 | Research Support, Non-U.S. Gov't | Ganoderma lucidum polysaccharide inhibits UVB-induced melanogenesis by antagonizing cAMP/PKA and ROS/MAPK signaling pathways. | J Cell Physiol
+- new | 2019 | 29991712 |  | Ganoderma lucidum extract ameliorates MPTP-induced parkinsonism and protects dopaminergic neurons from oxidative stress via regulating mitochondrial function, autophagy, and apopto | Acta Pharmacol Sin
+- new | 2019 | 30465897 |  | Ganoderma tsugae induced ROS-independent apoptosis and cytoprotective autophagy in human chronic myeloid leukemia cells. | Food Chem Toxicol
+- new | 2019 | 31282205 |  | Determination of genotoxic and antigenotoxic effects of wild-grown Reishi mushroom (Ganoderma lucidum) using the hen's egg test for analysis of micronucleus induction. | Biotech Histochem
+- new | 2019 | 30922966 |  | Mushroom ethanolic extracts as cosmeceuticals ingredients: Safety and ex vivo skin permeation studies. | Food Chem Toxicol
+- new | 2019 | 31222655 |  | Protective effects of Ganoderma lucidum triterpenoids on oxidative stress and apoptosis in the spleen of chickens induced by cadmium. | Environ Sci Pollut Res Int
+- new | 2019 | 30673679 |  | Anti-Inflammatory and Hepatoprotective Effects of Ganoderma lucidum Polysaccharides against Carbon Tetrachloride-Induced Liver Injury in Kunming Mice. | Pharmacology
+- new | 2019 | 31408719 |  | Protective effect of Ganoderma atrum polysaccharide on acrolein-induced macrophage injury via autophagy-dependent apoptosis pathway. | Food Chem Toxicol
+- new | 2019 | 31567464 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Practical Application of "About Herbs" Website: Herbs and Dietary Supplement Use in Oncology Settings. | Cancer J
+- new | 2019 | 30958641 |  | Improved antitumor activity of cisplatin combined with Ganoderma lucidum polysaccharides in U14 cervical carcinoma-bearing mice. | Kaohsiung J Med Sci
+- new | 2018 | 29861774 | Retracted Publication | Ganoderma lucidum and Auricularia polytricha Mushrooms Protect against Carbofuran-Induced Toxicity in Rats. | Evid Based Complement Alternat Med
+- new | 2018 | 29519314 |  | Hypotensive and neurometabolic effects of intragastric Reishi (Ganoderma lucidum) administration in hypertensive ISIAH rat strain. | Phytomedicine
+- new | 2018 | 30334243 | Review | Herb-Drug Interactions in Cancer Care. | Oncology (Williston Park)
+- new | 2018 | 29740229 |  | Enzymatic extract containing lignin peroxidase immobilized on carbon nanotubes: Potential biocatalyst in dye decolourization. | Saudi J Biol Sci
+- new | 2018 | 30287039 |  | Ganoderma atrum polysaccharide improves doxorubicin-induced cardiotoxicity in mice by regulation of apoptotic pathway in mitochondria. | Carbohydr Polym
+- new | 2018 | 30077898 |  | Metabolism of ganoderic acids by a Ganoderma lucidum cytochrome P450 and the 3-keto sterol reductase ERG27 from yeast. | Phytochemistry
+- new | 2018 | 29932300 |  | Potential issues with complementary medicines commonly used in the cancer population: A retrospective review of a tertiary cancer center's experience. | Asia Pac J Clin Oncol
+- new | 2018 | 29362765 |  | Protective effects of a Ganoderma atrum polysaccharide against acrylamide induced oxidative damage via a mitochondria mediated intrinsic apoptotic pathway in IEC-6 cells. | Food Funct
+- new | 2017 | 28572880 | Review | Effect of medicinal mushrooms on blood cells under conditions of diabetes mellitus. | World J Diabetes
+- new | 2017 | 29105633 |  | Evaluation of antimicrobial, Cytotoxic and genotoxic activities of Ganoderma lucidum (Reishi mushroom). | Pak J Pharm Sci
+- new | 2017 | 28761429 |  | Neuroprotective effects of ganoderma lucidum polysaccharides against oxidative stress-induced neuronal apoptosis. | Neural Regen Res
+- new | 2017 | 28661219 |  | Feeding of the water extract from Ganoderma lingzhi to rats modulates secondary bile acids, intestinal microflora, mucins, and propionate important to colon cancer. | Biosci Biotechnol Biochem
+- new | 2017 | 28758107 |  | Ganoderma spp.: A Promising Adjuvant Treatment for Breast Cancer. | Medicines (Basel)
+- new | 2017 | 28393198 |  | The solid-state fermentation of Artemisia capillaris leaves with Ganoderma lucidum enhances the anti-inflammatory effects in a model of atopic dermatitis. | Int J Mol Med
+- new | 2017 | 28124732 |  | The improvement of M1 polarization in macrophages by glycopeptide derived from Ganoderma lucidum. | Immunol Res
+- new | 2017 | 28826695 | Review | Natural Health Products and Diabetes: A Practical Review. | Can J Diabetes
+- new | 2017 | 28702429 |  | Wild Mushrooms: A Potential Source of Nutritional and Antioxidant Attributes with Acceptable Toxicity. | Prev Nutr Food Sci
+- new | 2016 | 26891608 | Case Reports | Role of the Nasogastric Tube and Lingzhi (Ganoderma lucidum) in Palliative Care. | J Pain Symptom Manage
+- new | 2016 | 27649602 |  | Pharmacokinetic Studies of Ganoderic Acids from the Lingzhi or Reishi Medicinal Mushroom, Ganoderma lucidum (Agaricomycetes), by LC-MS/MS. | Int J Med Mushrooms
+- new | 2016 | 27233048 |  | Biological removal of pharmaceutical compounds using white-rot fungi with concomitant FAME production of the residual biomass. | J Environ Manage
+- new | 2016 | 27685898 | Review | Ganoderma Lucidum (Reishi Mushroom) and cancer. | J BUON
+- new | 2016 | 27910775 |  | Hepatoprotective Effects and Mechanisms of Action of Triterpenoids from Lingzhi or Reishi Medicinal Mushroom Ganoderma lucidum (Agaricomycetes) on α-Amanitin-Induced Liver Injury i | Int J Med Mushrooms
+- new | 2016 | 27294633 |  | Effect of exopolysaccharide from Ganoderma applanatum on the electrical properties of mouse fibroblast cells line L929 culture using an electric cell-substrate impedance sensing (E | Ann Agric Environ Med
+- new | 2015 | 26472201 | Letter/Research Support, Non-U.S. Gov't | Inhibitory effects of Ganoderma lucidum pharmacopuncture on atopic dermatitis induced by capsaicin in rats. | J Dermatol Sci
+- new | 2015 | 26323486 | Research Support, Non-U.S. Gov't | Ganoderma atrum Polysaccharide Ameliorates Hyperglycemia-Induced Endothelial Cell Death via a Mitochondria-ROS Pathway. | J Agric Food Chem
+- new | 2014 | 24948193 | Review | Suppression of inflammatory and allergic responses by pharmacologically potent fungus Ganoderma lucidum. | Recent Pat Inflamm Allergy Drug Discov
+- new | 2014 | 24282100 | Case Reports | Ganoderma lucidum spore induced CA72-4 elevation in gastrointestinal cancer: a five-case report. | Integr Cancer Ther
+- new | 2014 | 25073817 | Research Support, Non-U.S. Gov't | The genome of the Tiger Milk mushroom, Lignosus rhinocerotis, provides insights into the genetic basis of its medicinal properties. | BMC Genomics
+- new | 2014 | 25404218 | Research Support, Non-U.S. Gov't | Screening and isolation for anti-hepatofibrotic components from medicinal mushrooms using TGF-(β1-induced live fibrosis in hepatic stellate cells. | Int J Med Mushrooms
+- new | 2014 | 28324481 | Case Reports | Phorbol ester degradation in Jatropha seedcake using white rot fungi. | 3 Biotech
+- new | 2013 | 23227951 | Review | Ganoderma lucidum: a potential for biotechnological production of anti-cancer and immunomodulatory drugs. | Recent Pat Anticancer Drug Discov
+- new | 2013 | 23790868 | Research Support, Non-U.S. Gov't | Protective effects of triterpenoids from Ganoderma resinaceum on H₂O₂-induced toxicity in HepG2 cells. | Food Chem
+- new | 2013 | 23790022 | Research Support, Non-U.S. Gov't/Review | Anti-cancer properties of triterpenoids isolated from Ganoderma lucidum - a review. | Expert Opin Investig Drugs
+- new | 2013 | 23474974 | Case Reports/Letter | Acute vesiculobullous hand dermatitis and anagen effluvium in Ganoderma lucidum-induced aplastic crisis. | Ann Hematol
+- new | 2013 | 23434860 | Research Support, Non-U.S. Gov't | Ganoderma tsugae hepatoprotection against exhaustive exercise-induced liver injury in rats. | Molecules
+- new | 2012 | 39527685 | Review | Lingzhi, Reishi. | 
+- new | 2012 | 21821652 | Review | Medicinal plants as antiemetics in the treatment of cancer: a review. | Integr Cancer Ther
+- new | 2012 | 21242065 |  | Neuroprotective effect of preadministration with Ganoderma lucidum spore on rat hippocampus. | Exp Toxicol Pathol
+- new | 2011 | 21036023 | Research Support, Non-U.S. Gov't | Ganoderic acid Mf and S induce mitochondria mediated apoptosis in human cervical carcinoma HeLa cells. | Phytomedicine
+- new | 2010 | 20092987 | Research Support, Non-U.S. Gov't | Effects of triterpenes from Ganoderma lucidum on protein expression profile of HeLa cells. | Phytomedicine
+- new | 2008 | 18481862 | Research Support, Non-U.S. Gov't | Lucidenic acid B induces apoptosis in human leukemia cells via a mitochondria-mediated pathway. | J Agric Food Chem
+- new | 2008 | 18550308 | Research Support, Non-U.S. Gov't | The dual roles of Ganoderma antioxidants on urothelial cell DNA under carcinogenic attack. | J Ethnopharmacol
+- new | 2007 | 17621752 | Case Reports | Fatal fulminant hepatitis associated with Ganoderma lucidum (Lingzhi) mushroom powder. | J Med Assoc Thai
+- new | 2004 | 15571467 | Review | Botanical medicine and cancer: a review of the safety and efficacy. | Expert Opin Pharmacother
+- new | 2004 | 15464254 | Case Reports/Letter | Hepatotoxicity due to a formulation of Ganoderma lucidum (lingzhi). | J Hepatol
+
+### PubMed OBS - 10 hits, 4 not already listed above, 4 new
+- new | 2025 | 38385492 |  | Survival Benefits of Ganoderma Lucidum in Early-stage Triple-negative Breast Cancer: A Real World Study. | Recent Pat Anticancer Drug Discov
+- new | 2024 | 39113836 |  | Fungal-plant interaction: a pathogenic relationship between Ganoderma segmentatum sp. nov. and Vachellia nilotica. | Front Microbiol
+- new | 2023 | 37636971 |  | Proteoglycan Extracted from Ganoderma lucidum Ameliorated Diabetes-Induced Muscle Atrophy via the AMPK/SIRT1 Pathway In Vivo and In Vitro. | ACS Omega
+- new | 2006 | 16423392 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Ganoderma lucidum causes apoptosis in leukemia, lymphoma and multiple myeloma cells. | Leuk Res
+
+### PubMed REV - 360 hits, 19 not already listed above, 16 new
+- new | 2024 | 39567970 | Review | Potential of natural products and gut microbiome in tumor immunotherapy. | Chin Med
+- new | 2024 | 38642413 | Review | Targeting CD8(+) T cells with natural products for tumor therapy: Revealing insights into the mechanisms. | Phytomedicine
+- HELD REF-1590 | 2023 | 37513265 | Review | Medicinal Mushrooms: Their Bioactive Components, Nutritional Value and Application in Functional Food Production-A Review. | Molecules
+- new | 2023 | 37303782 | Review | Application progress of CRISPR/Cas9 genome-editing technology in edible fungi. | Front Microbiol
+- new | 2023 | 35364694 | Review | Farming of Medicinal Mushrooms. | Adv Biochem Eng Biotechnol
+- new | 2023 | 37538858 | Review | Germplasm resources and secondary metabolism regulation in Reishi mushroom (Ganoderma lucidum). | Chin Herb Med
+- new | 2023 | 37183915 | Review | The Lingzhi or Reishi Medicinal Mushroom Ganoderma lucidum (Agaricomycetes) Can Combat Cytokine Storm and Other COVID-19 Related Pathologies: A Review. | Int J Med Mushrooms
+- new | 2023 | 37492765 | Review | Ganoderma boninense: general characteristics of pathogenicity and methods of control. | Front Plant Sci
+- new | 2022 | 36671409 | Review/Research Support, Non-U.S. Gov't | A Review of Ganoderma Triterpenoids and Their Bioactivities. | Biomolecules
+- new | 2022 | 35407117 | Review | Nutritional Profile and Health Benefits of Ganoderma lucidum "Lingzhi, Reishi, or Mannentake" as Functional Foods: Current Scenario and Future Perspectives. | Foods
+- new | 2022 | 35889330 | Review | Medicinal Fungi with Antiviral Effect. | Molecules
+- new | 2022 | 35215289 | Review | Anticancer Activities of Mushrooms: A Neglected Source for Drug Discovery. | Pharmaceuticals (Basel)
+- HELD REF-2040 | 2021 | 34444885 | Review | Health-Promoting of Polysaccharides Extracted from Ganoderma lucidum. | Nutrients
+- new | 2019 | 31777018 | Review | Preventive and Therapeutic Effect of Ganoderma (Lingzhi) on Brain Injury. | Adv Exp Med Biol
+- new | 2019 | 31677138 | Review | Ganoderma (Lingzhi) in Traditional Chinese Medicine and Chinese Culture. | Adv Exp Med Biol
+- new | 2019 | 31777020 | Review | Preventive and Therapeutic Effect of Ganoderma (Lingzhi) on Diabetes. | Adv Exp Med Biol
+- HELD REF-2039 | 2018 | 29141563 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Ganoderma lucidum Polysaccharides as An Anti-cancer Agent. | Anticancer Agents Med Chem
+- new | 2018 | 29081024 | Research Support, Non-U.S. Gov't/Review | Ganoderic acid, lanostanoid triterpene: a key player in apoptosis. | Invest New Drugs
+- new | 2016 | 27910768 | Review | Pharmacological Properties of Biocompounds from Spores of the Lingzhi or Reishi Medicinal Mushroom Ganoderma lucidum (Agaricomycetes): A Review. | Int J Med Mushrooms
+
+### ClinicalTrials.gov - 51 registered studies
+- NCT05840341 | COMPLETED | results=False | PHASE3 | Clinical Efficacy of QYHJ and Standard Chemotherapy in the Treatment of Advanced Pancreatic Cancer | conds: Pancreatic Neoplasms | intr: QingyiHuaji optimized formula, Matched placebo
+- NCT07534241 | RECRUITING | results=False | NA | Hepatoprotective Effects of Reishi Mushroom- (Ganoderma Lucidum) Among Metabolic Dysfunction-associated Fatty Liver Disease Patients | conds: Lipid Profile, Liver Biomarkers | intr: reishi mushroom- (Ganoderma lucidum), Placebo, Reishi mushroom dried powder, Reishi mushroom dried p
+- NCT07398885 | COMPLETED | results=False | NA | Assessing the Impact of Herbal Supplement on Fatigue and Disease Activity in SLE: Results From an 8-Week Randomized Trial | conds: System; Lupus Erythematosus | intr: EVACUR, PLACEBO | pubs: ['34441861:RESULT (new)', '33214160:RESULT (new)']
+- NCT07752641 | COMPLETED | results=False | NA | Effect of HIFAS MENOPAUSE on Quality of Life in Postmenopausal Women | conds: Menopause, Menopausal Symptoms | intr: HIFAS MENOPAUSE
+- NCT06406946 | COMPLETED | results=False | NA | Mushrooms, Mood and Mental Wellbeing in Gen Z Women | conds: Well-Being, Psychological, Mood, Anxiety, Stress | intr: Lion's mane blend, Lion's mane and reishi blend, Placebo | pubs: ['42978868:DERIVED (new)']
+- NCT07294482 | RECRUITING | results=False | NA | The Effects on Sleep Quality of 1:4 Reishi Liquid Extract | conds: Sleep | intr: Bristol Fungarium's 1:4 Reishi Mushroom Tincture
+- NCT05079529 | UNKNOWN | results=False | PHASE2 | Development The Potentiality of β-1,3/1,6-D-Glucan (Polysaccharide Peptide) From Mycelia Extract of Indonesia's Ganoderma Lucidum as Adjuvan | conds: Cardiometabolic Syndrome | intr: β-1,3/1,6-D-Glucan From Mycelia Extract of Indonesia's Ganoderma Lucidum Group, Placebo Group | pubs: ['25136585:RESULT (new)', '26131326:RESULT (new)']
+- NCT06028022 | RECRUITING | results=False | PHASE2 | Reishi Mushroom Extract for Fatigue and/or Arthralgias/Myalgias in Patients With Breast Cancer on Aromatase Inhibitors | conds: Estrogen Receptor-Positive Breast Carcinoma | intr: Mushroom Extract, Placebo Administration, Quality-of-Life Assessment, Questionnaire Administration
+- NCT05521243 | COMPLETED | results=False | NA | An Exploratory Investigation of a Supplement to Enhance Sleep Quality and Quantity | conds: Sleep, Sleep Disturbance, Sleep Hygiene | intr: Beam Organics Dream Powder, Beam Organics Dream Powder Extra Strength, Placebo
+- NCT03829228 | COMPLETED | results=True | NA | An Evaluation of Proglucamune in the Treatment of Protective Qi Insufficiency | conds: Protective Qi Insufficiency | intr: Proglucamune | pubs: ['32820452:DERIVED (new)']
+- NCT02844114 | UNKNOWN | results=False | PHASE2 | Clinical Study of Ganoderma Lucidum Spore Combined With Chemotherapy | conds: Carcinoma, Non-Small-Cell Lung | intr: Ganoderma lucidum spore, Placebo, Chemotherapy
+- NCT06739720 | RECRUITING | results=False | PHASE2,PHASE3 | RCT of Efficacy and Safety of CP003 on CFS/ME or Post COVID-19 Fatigue | conds: Chronic Fatigue Syndrome (CFS), Post-COVID ME/CFS | intr: LingZhi capsule | pubs: ['41558017:DERIVED (new)']
+- NCT06429514 | COMPLETED | results=False | NA | Study on the Mechanism of Ganoderma Lucidum Spore Powder in the Treatment of Depression | conds: Depression, Thyroid Cancer | intr: Ganoderma lucidum spore powder, placebo
+- NCT05841901 | UNKNOWN | results=False | NA | Huang-long Zhi-xiao Granule Improves the Control Rate of Chronic Persistent of Asthma | conds: Asthma Chronic | intr: Huang-long Zhi-xiao Granule, Huang-long Zhi-xiao Granule placebo
+- NCT04319874 | UNKNOWN | results=False | PHASE2 | Phase II Clinical Trial Scheme of Ganoderma Lucidum Spore Powder for Postoperative Chemotherapy of Osteosarcoma | conds: Osteosarcoma | intr: Ganoderma lucidum, Chemotherapy, Placebos
+- NCT05504668 | COMPLETED | results=False | NA | The Cognitive Effects of 'Brainwaves' Supplementation in Cognitively Intact Older Adults | conds: Cognitive Change, Mood Change, Microbial Colonization | intr: Turmeric Brainwave | pubs: ['37885445:DERIVED (new)']
+- NCT00224263 | COMPLETED | results=False | PHASE2 | Efficacy and Safety of Lingzhi in Patients With Early Parkinson's Disease | conds: Parkinson's Disease | intr: Lingzhi (Ganoderma)
+- NCT06601283 | RECRUITING | results=False | PHASE2,PHASE3 | Vitamin C Plus Cordyceps to Chemotherapy Related Anemia in Pancreatic Cancer | conds: Pancreatic Cancer | intr: Vitmain C plus herbal medicine | pubs: ['29141563:RESULT (new)', '39075587:RESULT (new)']
+- NCT07564947 | ENROLLING_BY_INVITATION | results=False | NA | Impact of Ganoderma Lucidum on NRF2 Levels and Antioxidant Status in Metabolic Asscociated Fatty Liver Disease (GL-MAFLD-NRF2 Study) | conds: MAFLD, Fatty Liver, Fatty Liver, Non-alcoholic Fatty Liver Disease, NAFLD, Fatty Liver, Nonalcoholic | intr: Starch Placebo, Ganoderma lucidum | pubs: ['26120584:RESULT (new)', '28183232:RESULT (new)']
+- NCT00432484 | COMPLETED | results=False | PHASE2 | Lingzhi and Sen Miao San for the Treatment of Rheumatoid Arthritis | conds: Rheumatoid Arthritis | intr: Lingzhi and Sen Miao San | pubs: ['17907228:DERIVED (new)']
+- NCT04162314 | UNKNOWN | results=False | PHASE2,PHASE3 | Beta-1,3/1,6-D-Glucan Ganoderma Lucidum on Non-infectious and Idiopathic Uveitis | conds: Uveitis | intr: Beta-1,3/1,6-D-Glucan Ganoderma lucidum, Placebos
+- NCT04029649 | UNKNOWN | results=False | PHASE2,PHASE3 | Beta-1,3/1,6-D-Glucan Ganoderma Lucidum on Ulcerative Colitis | conds: Ulcerative Colitis | intr: Beta-1,3/1,6-D-Glucan, Placebo
+- NCT04821258 | COMPLETED | results=False | NA | Effect of the Nutraceutical "MICODIGEST 2.0" on the Complications After Surgery for Colorectal Cancer | conds: Colorectal Cancer, Surgery--Complications | intr: MICODIGEST 2.0 supplement, Placebo supplement | pubs: ['35576566:DERIVED (new)']
+- NCT06979180 | RECRUITING | results=False | NA | A Clinical Trial to Investigate the Safety and Efficacy of Papillex® on Abnormal Cervical Cells Caused by HPV. | conds: CIN - Cervical Intraepithelial Neoplasia, CIN 1, CIN 2, HPV | intr: Papillex®, Placebo
+- NCT07951541 | COMPLETED | results=False |  | Pilot Study on the Effects of Snap Supplements Prostate Health Formula on Urinary Symptoms in Men Over 50 | conds: Benign Prostatic Hyperplasia (BPH), Lower Urinary Tract Symptoms (LUTS), Urinary Frequency, Nocturia | intr: Prostate Health Supplement
+- NCT06356701 | UNKNOWN | results=False | PHASE1 | Tumor Nutritional Therapy in the First-line Treatment of Stage IV NSCLC | conds: Long-Term Effects Secondary to Cancer Therapy | intr: Cancer nutritional treatment regimen (Spirulina Bifidobacterium Capsules, Fish Oil Grape Seed Bluebe
+- NCT05875233 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Elix Cycle Balance and Daily Harmony on Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Elix Daily Harmony, Elix Cycle Balance
+- NCT07316400 | COMPLETED | results=False | NA | PsP Ganoderma Lucidum Supplementation and Biomarker Changes in Smokers | conds: Oxidative Stress, Inflammation, Cigarette Smoking | intr: PsP
+- NCT02486796 | TERMINATED | results=True | PHASE1,PHASE2 | Immediate or Delayed Naturopathic Medicine in Combination With Neo-Adjuvant Chemotherapy for Breast Cancer | conds: Quality of Life | intr: Reishi mushroom extract, Coenzyme Q10, Melatonin
+- NCT05900024 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Funk It Cycle Bites on PMS | conds: Premenstrual Syndrome | intr: Funk It Cycle Bites
+- NCT07027462 | COMPLETED | results=False | NA | Effects of a Mushroom Blend on Gastrointestinal Symptoms and the Microbiome | conds: Healthy | intr: Mushroom blend, Placebo
+- NCT07524777 | COMPLETED | results=False | NA | Ganoderma Spores Modulate the Gut-Brain Axis | conds: Depression, Thyroid Cancer | intr: Sporoderm-removed Ganoderma lucidum spore powder (RGLS), Placebo
+- NCT07195552 | RECRUITING | results=False | NA | Clinical Trial: Rapid Immune Modulating Effects | conds: Immune Surveillance | intr: Agaricus blazei, Reishi, Turkey Tail, Placebo
+- NCT03589781 | WITHDRAWN | results=False | NA | Investigating the Effects of Mikei® Red Reishi Essence EX on the Immune System of Prostate Cancer Patients and Patients With Non-cancerous C | conds: Prostate Cancer | intr: Mikei Red Reishi Essence EX, Placebo
+- NCT07715058 | COMPLETED | results=False | NA | Effect of Hifas Intima Oral on Vaginal Microbiota in Healthy Women | conds: Vaginal Microbiota, Microbiota, Vaginal Microbiome | intr: Hifas INTIMA Oral
+- NCT05917015 | UNKNOWN | results=False | NA | A Clinical Study to Determine if Beta Glucan Reduces the Incidence, Duration or Severity of URTIs Among Skiers | conds: Upper Respiratory Tract Infections, Mental Stress | intr: Treatment, Placebo
+- NCT07755553 | COMPLETED | results=False | NA | Effect of a Mushroom Extract-Containing Topical Cosmetic Formulation During Breast Radiotherapy | conds: Radiation Dermatitis, Breast Cancer | intr: Mushroom extract-containing topical cosmetic formulation, Usual moisturizing cosmetic care
+- NCT02909686 | COMPLETED | results=True | NA | Effects of Botanical Microglia Modulators in Gulf War Illness | conds: Gulf War Illness | intr: Boswellia Serrata, Curcumin, Epimedium, Fisetin | pubs: ['33915962:DERIVED (new)', '33802381:DERIVED (new)', '33802272:DERIVED (new)']
+- NCT06598033 | RECRUITING | results=False | PHASE2,PHASE3 | Vitamin C Plus Cordyceps to Quality of Life in Patients With Terminal Stage Pancreatic Cancer | conds: Pancreatic Cancer | intr: VC plus herbal medicine
+- NCT03782974 | COMPLETED | results=True | NA | A Follow-up Trial of Proglucamune® in the Treatment of Protective Qi Deficiency, a TCM Condition | conds: Protective Qi Insufficiency (a Condition Term From TCM) | intr: beta glucan | pubs: ['33963479:DERIVED (new)']
+- NCT07755566 | COMPLETED | results=False | NA | Effect of Oral Papilozumib on Vaginal and Intestinal Microbiota in Human Papillomavirus (HPV)-Positive Women | conds: Papillomavirus Infections | intr: Papilozumib
+- NCT00575926 | COMPLETED | results=False | PHASE3 | Lingzhi for Cancer Children | conds: Pediatric Cancers | intr: LingZhi capsule
+- NCT04914143 | UNKNOWN | results=False | NA | the Effect of Broken Ganoderma Lucidum Spore Powder on Quality of Life and Immune Function in Patients With Diffuse Large B-cell Lymphoma Af | conds: Diffuse Large B-cell Lymphoma | intr: broken Ganoderma lucidum spore powder, placebo
+- NCT02445651 | COMPLETED | results=True | NA | Physiological Effects of Nutritional Support in Patients With Parkinson's Disease | conds: Parkinson Disease, Idiopathic Parkinson Disease | intr: Intravenous and Oral n-acetyl cysteine, Control group, Oral Supplements: Baicalin, Ganoderma, Omega 
+- NCT03594656 | UNKNOWN | results=False | PHASE3 | Effects of Lingzhi on Disease Progression in Patients With Untreated Early Parkinson's Disease | conds: Parkinson Disease | intr: Ganoderma, Placebos
+- NCT02785523 | UNKNOWN | results=False | PHASE3 | Clinical Trial on Ganoderma Spore Lipids Combined With Chemo in Patients With G.I. Cancers | conds: Gastrointestinal Neoplasms | intr: Ganoderma Spore Lipids, Placebo, Chemotherapy
+- NCT05489016 | UNKNOWN | results=False | PHASE4 | HuoXin Pills Intervention on Patients With Coronary Heart Disease After Drug-Coated Balloon Implantation | conds: Coronary Heart Disease, Medicine, Chinese Traditional | intr: Yuekang Huoxin Pills (concentrated pills), Yuekang Huoxin Pills (concentrated pills)simulant
+- NCT02238587 | UNKNOWN | results=False | NA | The Effect of Ganoderma on Patients With Head-and-neck Cancer | conds: Head-and-neck Cancer | intr: Control group, Ganoderma Spores Powder Capsules
+- NCT05684952 | UNKNOWN | results=False | PHASE2 | The Efficacy and Safety of a Chinese Herbal Medicine for Long COVID Associated Fatigue | conds: Long COVID | intr: Shenlingcao Oral Liquid
+- NCT07554885 | NOT_YET_RECRUITING | results=False | NA | Nutritional + Usual Corticosteroids Randomized Trial for Immune-Related pneumoniA - Therapeutic Utilization Evaluation | conds: Immune Checkpoint Inhibitor-Related Pneumonitis, Drug-Related Side Effects and Adverse Reactions, Neoplasms | intr: Spirulina-Bifidobacterium capsule, Fish oil-grape seed-blueberry soft capsule, Ganoderma spore oil, 
+- NCT02533635 | UNKNOWN | results=False | PHASE1,PHASE2 | Ganoderma Tea on Eczema Patient | conds: Eczema | intr: A Master Ganoderma Detox Tea
+
+### OpenAlex no-PMID trial-worded - 129 hits, 39 without PMID, 39 new
+- new | 2026 | 10.21203/rs.3.rs-10769867/v1 | preprint | Successful non-grafted second-intention healing of a massive gluteal soft-tissue wound complicating septic shock with secondary hemophagocytic lymphohistiocytosis in a patient with | Research Square
+- new | 2026 | 10.1177/27536130261435240 | article | 2026 International Congress Abstract Supplement | Global Advances in Integrative Medicine 
+- new | 2026 | 10.15414/ainhlq.2026.0014 | article | Ganoderma lucidum (Curtis) P. Karst. as a Multi-Target Anticancer Agent | Agrobiodiversity for Improving Nutrition
+- new | 2026 | 10.48130/mpb-0026-0009 | article | Construction, screening of a Ganoderma lucidum mutant library and identification of high-triterpenoid-yielding strains | Medicinal Plant Biology
+- new | 2026 | 10.52794/hujpharm.1790368 | article | Terpenes in Mushrooms: Natural Products with Diverse Therapeutic Activities | Hacettepe University Journal of the Facu
+- new | 2026 | 10.1080/23311932.2026.2643004 | article | Mushroom-derived bioactive compounds targeting shared mechanistic pathways in cancer and diabetes: a scoping review | Cogent Food & Agriculture
+- new | 2026 | 10.65999/macrofungi.2026.49 | article | Mushrooms' Natural Arsenal: Ultimate Weapons for Obesity Combat, Allergy Relief and Future Horizons | Journal of Macrofungi
+- new | 2026 | 10.51699/ajbci.v3i10.2665 | article | Standardized Ganoderic-Acid-Enriched Cream for Cutaneous Redness and Inflammatory Stress: Formulation Performance and Translational Evidence | American Journal of Bioscience and Clini
+- new | 2026 | 10.69667/rmj.26223 | article | Alterations of Cardiac Enzymes Induced by Ketoprofen and the Potential Therapeutic Role of Ganoderma lucidum in Male Albino Rats | Razi Medical Journal
+- new | 2026 | 10.1016/j.jfutfo.2026.07.001 | article | Next-generation bioactive peptides from edible microorganisms: From AI-driven discovery to sustainable bio-manufacturing | Journal of Future Foods
+- new | 2026 | 10.56369/tsaes.6371 | article | Antagonismo y eficacia de Trichoderma spp., sobre Alternaria alternata (Fr.) Keissl procedente de sandía | Tropical and Subtropical Agroecosystems
+- new | 2025 | 10.1080/00387010.2025.2507355 | article | Based on near-infrared spectroscopy and chemometrics to rapidly evaluate the adulteration of Ganoderma lingzhi powder | Spectroscopy Letters
+- new | 2025 | 10.14309/01.ajg.0001149476.12618.87 | conference-abstract | Reishi Mushroom Toxicity in Chronic Liver Disease | The American Journal of Gastroenterology
+- new | 2025 | 10.21608/abas.2025.425022.1087 | article | Ganoderma lucidum (Reishi): Biological and Pharmacological Perspectives | Advances in Basic and Applied Sciences
+- new | 2025 | 10.1051/e3sconf/202560904007 | conference-paper | Hepatoprotective effect anti-inflammatory and antioxidant Ganoderma lucidum ethanol extract on rats exposed to Plumbum acetate | E3S Web of Conferences
+- new | 2025 | 10.56975/ijrti.v10i7.205334 | article | Exploring the Potential of Ganoderma Lucidum in Cancer Treatment: Benefits and Limitation of its Biological Actions | International Journal for Research Trend
+- new | 2025 | 10.12982/cmjs.2025.080 | article | Exploring The Health Benefits of Ganoderma: Mechanisms of Action and Anti-Diabetic Activities | Chiang Mai Journal of Science
+- new | 2024 | 10.3390/agriculture14050745 | article | ISSR-Assisted Breeding of Excellent New Strains of Ganoderma lingzhi through Single-Spore Selfing | Agriculture
+- new | 2024 | 10.22246/jikm.2024.45.4.710 | article | A Scoping Review on the Safety of Yeongji (Ganoderma lucidum) | The Journal of Internal Korean Medicine
+- new | 2024 | 10.1101/2024.03.10.24303911 | preprint | Clinical multi-omics reveals the role of Tuomin Zhiti Decoction Intervention in Allergic Rhinitis from the perspective of biological network | medRxiv
+- new | 2024 | 10.1155/2024/2610415 | review | Association Between Pleurotus ostreatus Consumption and More Optimal Sports Performance: A Narrative Review | Journal of Food Biochemistry
+- new | 2023 | 10.2139/ssrn.4613793 | preprint | Based on Near-Infrared Spectroscopy and Chemometrics to Rapidly Evaluate the Adulteration of Ganoderma Lingzhi Powder | SSRN Electronic Journal
+- new | 2023 | 10.36948/ijfmr.2023.v05i03.3982 | article | Bioactive Compounds of Ganoderma lucidum and their Therapeutic Applications | International Journal For Multidisciplin
+- new | 2022 | 10.21203/rs.3.rs-2084243/v1 | preprint | Efficacy and Safety of Tuo-Min-Ding-Chuan Decoction on Mild Allergic Asthma: Study Protocol for a Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Single-Center Trial | Research Square
+- new | 2022 | 10.36036/mr.31.2.2022.127549 | article | Optimization of vegetative growth conditions for submerged cultivation of edible medicinal mushroom Hericium erinaceus through resonance surface methodology | Mushroom Research
+- new | 2022 | 10.22541/au.167217126.64707433/v1 | preprint | Overexpression of purine nucleoside phosphorylase increases the adenosine content in Ganoderma lucidum | Authorea
+- new | 2022 | 10.21203/rs.3.rs-2388533/v1 | preprint | Overexpression of purine nucleoside phosphorylase increases the adenosine content in Ganoderma lucidum | Research Square
+- new | 2022 | 10.18502/ijpho.v12i3.10058 | article | The effect of Ganoderic Acid A on miR-17-5p and miR-181b expression level and apoptosis induction in human leukemia Nalm-6 cells | Iranian Journal of Pediatric Hematology 
+- new | 2022 | 10.56808/3027-7922.2618 | article | Edible mushrooms: An emerging therapeutic of diabetes | The Thai Journal of Pharmaceutical Scien
+- new | 2021 | 10.52547/sjku.26.3.25 | article | Effects of White Button Mushroom Powder on Anthropometric Indices, Blood Pressure and Liver Enzymes in Type 2 Diabetic Patients: A Double-Blind, Randomized, Placebo-Controlled Tria | Scientific Journal of Kurdistan Universi
+- new | 2021 | 10.4274/jtss.galenos.2021.99608 | article | BIOCHEMICAL ANALYSIS FOR NEUROPROTECTIVE EFFECTS OF GANODERMA LUCIDUM IN EXPERIMENTAL RAT SPINAL CORD TRAUMA MODEL | Journal of Turkish Spinal Surgery
+- new | 2021 | 10.31031/nacs.2021.05.000623 | article | A Case Report: Traditional Chinese Medicine Treatment in the Management of Exudative Infiltration Related to post-Cryoablation for Multiple Pulmonary Nodules | Novel Approaches in Cancer Study
+- new | 2021 | 10.32598/jgums.29.4.1509.1 | article | Effects of Powder, Extracts, and Components of Ganoderma Lucidum in Treatment of Diabetes | Journal of Guilan University of Medical 
+- new | 2020 | 10.3390/app10228259 | article | Effects of a Combination of Elderberry and Reishi Extracts on the Duration and Severity of Respiratory Tract Infections in Elderly Subjects: A Randomized Controlled Trial | Applied Sciences
+- new | 2020 | 10.23880/vij-16000254 | article | Possible Use of Ganoderma Mushroom Extracts for the Treatment of Some Chronic Risk Factors Associated with Severe Covid-19 | Virology & Immunology Journal
+- new | 2019 | 10.24925/turjaf.v7isp1.84-93.2728 | article | Health Benefits of Ganoderma lucidum as a Medicinal Mushroom | Turkish Journal of Agriculture - Food Sc
+- new | 2017 | 10.5943/mycosphere/8/10/5 | article | Mycosphere Essays 20: Therapeutic potential of Ganoderma species: Insights into its use as traditional medicine | Mycosphere
+- new | 2016 | 10.5943/mycosphere/7/6/1 | article | Mycosphere Essays 15. Ganoderma lucidum - are the beneficial medical properties substantiated? | Mycosphere
+- new | 2016 | 10.5943/mycosphere/7/3/6 | article | Mycosphere Essays 7. Ganoderma lucidum - are the beneficial anticancer properties substantiated? | Mycosphere

@@ -204,11 +204,14 @@ indications:
   - REF-1656
   - REF-0537
 - condition: menopause
-  note: Fennel improved menopausal symptoms vs placebo in a meta-analysis and a randomized trial
+  note: Fennel improved menopausal symptoms vs placebo in a meta-analysis and a randomized trial, though
+    another placebo-controlled trial found no difference because of a high placebo response
   reference_ids:
   - REF-1642
   - REF-3556
   status: verified
+  null_result_ids:
+  - REF-5358
 - condition: anxiety
   note: Fennel reduced anxiety in postmenopausal women in a randomized trial; a meta-analysis found effects
     on psychological health unclear
@@ -225,6 +228,18 @@ indications:
   status: verified
   null_result_ids:
   - REF-1642
+- condition: pms
+  note: Fennel extract reduced premenstrual syndrome symptoms more than placebo in a single-blind randomized
+    trial in students
+  reference_ids:
+  - REF-5356
+  status: verified
+- condition: arthritis
+  note: Fennel seed extract capsules reduced knee pain and improved WOMAC scores more than placebo after
+    two weeks in women with knee osteoarthritis (randomized double-blind trial)
+  reference_ids:
+  - REF-5357
+  status: verified
 contraindications:
 - note: 'When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used as medicine
     at appropriate doses for a short period of time. There isn''t enough reliable information to know
@@ -247,11 +262,12 @@ contraindications:
   severity: info
   reference_ids: []
   status: needs-review
-- note: 'Pregnancy: Fennel is possibly unsafe to use when pregnant. Regularly using fennel has been linked
-    to preterm birth.'
+- note: 'Pregnancy: in an observational study of 600 women in southern Italy, regular fennel use during
+    pregnancy was linked to a shorter pregnancy (an association, not proof of harm).'
   severity: caution
-  reference_ids: []
-  status: needs-review
+  reference_ids:
+  - REF-5359
+  status: verified
 - note: 'Breast-feeding: Fennel is possibly unsafe. There are some reports of breast-feeding infants with
     damage to their nervous systems after they were exposed to herbal tea containing fennel through breastmilk.'
   severity: info
@@ -262,11 +278,14 @@ contraindications:
   severity: info
   reference_ids: []
   status: needs-review
-- note: 'Allergy to celery, carrot or mugwort: Fennel might cause an allergic reaction in people who are
-    sensitive to these plants.'
-  severity: info
-  reference_ids: []
-  status: needs-review
+- note: 'Allergy: people allergic to celery, birch or mugwort pollen often react to fennel and other carrot-family
+    spices in skin tests (the celery-mugwort-spice syndrome), and a combined fennel and mugwort allergy
+    has been traced to a shared allergen (allergy studies).'
+  severity: caution
+  reference_ids:
+  - REF-5362
+  - REF-5363
+  status: verified
 - note: 'Bleeding disorders: Fennel might slow blood clotting. Taking fennel might increase the risk of
     bleeding or bruising in people with bleeding disorders.'
   severity: info
@@ -287,6 +306,20 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0063
+  status: verified
+- note: 'Children: long-term use of fennel preparations or fennel tea in babies and young girls has been
+    linked to premature breast development (premature thelarche), which regressed after fennel was stopped
+    (case reports).'
+  severity: caution
+  reference_ids:
+  - REF-5360
+  - REF-5361
+  status: verified
+- note: 'Essential oil: fennel essential oil is among the plant oils known to provoke seizures, because
+    of ketones such as fenchone (case series with literature review).'
+  severity: caution
+  reference_ids:
+  - REF-5364
   status: verified
 references:
 - REF-1641
@@ -413,4 +446,24 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   no-effect (it found effects on psychological health unclear). Dysmenorrhoea MA REF-3558 added to
   menstrual-cramps and pain. Gap: EU monograph bloating/flatulence use has no pair (no SR/RCT;
   infantile colic RCT 12868253 is not bloating).
-  | 2026-11-19 (monograph-source audit): preparations[1] (''standardised seed extract studied in RCTs for dysmenorrhoea'') checked against REF-0604: the meta-analysis supports fennel intake for dysmenorrhoea but its abstract does not say seed extract or standardised; rewritten.'
+  | 2026-11-19 (monograph-source audit): preparations[1] (''standardised seed extract studied in RCTs for dysmenorrhoea'') checked against REF-0604: the meta-analysis supports fennel intake for dysmenorrhoea but its abstract does not say seed extract or standardised; rewritten.
+  | 2026-11-25: symptom-source audit research-deepening batch 14 - Searched PubMed (Foeniculum
+  vulgare / fennel tiab: 140 HT, 44 SR, 239 SAFE hits; SR/MA, safety and single-herb trials read
+  in depth), Europe PMC, ClinicalTrials.gov (22) and OpenAlex. Menstrual cramps and pain (9) are
+  already MA-backed and were not padded. Added: NEW pms pair (2011 single-blind placebo RCT,
+  Shahrekord); NEW arthritis pair (2020 double-blind placebo RCT in knee osteoarthritis); 2018
+  placebo RCT (high placebo response, no difference) as no-effect for menopause; premature
+  thelarche (2008 series, 2014 case) and essential-oil seizure (1999 series and review) cautions.
+  SOURCED TWO UNSOURCED NOTES (needs-review, consumer-database wording): the pregnancy note said
+  fennel "has been linked to preterm birth" - the 2012 Italian cohort linked ALMOND OIL to preterm
+  birth, and the 2015 southern-Italy cohort linked regular fennel to a shorter gestational age, so
+  the note was rewritten to the 2015 finding; the celery / carrot / mugwort allergy note was
+  rewritten to what the 1991 skin-test study and the 2013 mugwort-fennel case state (carrot not
+  named). The other unsourced notes (oral and skin safety, breastfeeding neurotoxicity, infant
+  colic, bleeding, hormone-sensitive conditions) are unchanged and still need sources. Not added:
+  fennel sleep RCT 2018 (no difference), lipid RCT 2018 (no difference), fennel seed powder and
+  sexual desire 2020 (no difference), menstrual-bleeding MA 2018 (no abstract), vaginal creams
+  (vaginal atrophy, no vocab condition), hirsutism gels, fennel vs dimethicone, mefenamic acid or
+  evening primrose (active comparators), fennel + chamomile, saffron, valerian, Rosa damascena,
+  Echium, ginger, curcumin and other combinations, the 2020 Cochrane galactagogue review (fennel
+  not separable in the abstract), heated fennel compresses.'

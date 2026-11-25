@@ -382,4 +382,9 @@ internal_notes: '2026-11-16: record created (Model: anthropic/claude-opus-5-5). 
   (Fomes fomentarius, blushing bracket) are not toxic. | Build script and source map: docs/additions/2026-11-16-fomitopsis-betulina/.
   | audit_species.py flagged REF-3926 and REF-3927 (abstracts name only F. pinicola). Full texts read (PMC10819588,
   PMC6264674): both report F. betulina / P. betulinus results, so not wrong-species. REF-3927 (Reis 2011) kept on
-  the vitamins constituent only, not on the antioxidant action, because its abstract never names this species.'
+  the vitamins constituent only, not on the antioxidant action, because its abstract never names this species.
+  | 2026-11-25: symptom-source audit research-deepening batch 14 - Searched PubMed (Fomitopsis
+  betulina / Piptoporus betulinus / birch polypore tiab): 0 HT, 0 SR, 0 SAFE hits; Europe PMC,
+  ClinicalTrials.gov (0) and OpenAlex found nothing beyond the 2026-11-16 deep search. Still no
+  human study. Settled.'
+indications: []

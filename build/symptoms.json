@@ -2973,6 +2973,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "allergy",
+     "label": "Allergy / hay fever",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5348"
+     ]
+    },
+    {
      "condition": "asthma",
      "label": "Asthma",
      "evidence": 6,
@@ -2981,6 +2991,36 @@
      "references": [
       "REF-3552",
       "REF-3553"
+     ]
+    },
+    {
+     "condition": "bronchitis",
+     "label": "Bronchitis",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5346"
+     ]
+    },
+    {
+     "condition": "headache",
+     "label": "Headache",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5349"
+     ]
+    },
+    {
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5347"
      ]
     },
     {

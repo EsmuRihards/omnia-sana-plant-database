@@ -54,3 +54,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 10 | common hawthorn, saffron, cumin, turmeric, artichoke | REF-5287..5314 (28) | 1,441 -> 1,453 | `batches/r10_report.md` |
 | 11 | wild carrot, wild yam, echinacea, cardamom, eleuthero | REF-5315..5341 (27) | 1,453 -> 1,455 | `batches/r11_report.md` |
 | 12 | couch grass, small-flowered willowherb, field, shady and wood horsetail | REF-5342..5345 (4) | 1,455 -> 1,455 | `batches/r12_report.md` |
+| 13 | California poppy, eucalyptus, eyebright, meadowsweet, dropwort | REF-5346..5355 (10) | 1,455 -> 1,459 | `batches/r13_report.md` |

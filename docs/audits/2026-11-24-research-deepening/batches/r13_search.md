@@ -1,0 +1,811 @@
+# Research-deepening batch 13 - search
+
+## eschscholzia-californica (Eschscholzia californica) - name clause: "Eschscholzia californica"[tiab] OR "California poppy"[tiab]
+
+### PubMed HT - 5 hits, 5 not already listed above, 5 new
+- new | 2019 | 31331545 |  | A combination of melatonin, vitamin B6 and medicinal plants in the treatment of mild-to-moderate insomnia: A prospective pilot study. | Complement Ther Med
+- new | 2016 | 27671811 | Review | Berberine and Its Role in Chronic Disease. | Adv Exp Med Biol
+- new | 2006 | 16550233 |  | Women's health among the Chumash. | Evid Based Complement Alternat Med
+- new | 2005 | 17561634 | Review | Oral nonprescription treatment for insomnia: an evaluation of products with limited evidence. | J Clin Sleep Med
+- new | 1998 | 23196028 |  | The quantitative EEG as a screening instrument to identify sedative effects of single doses of plant extracts in comparison with diazepam. | Phytomedicine
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 20 hits, 19 not already listed above, 18 new
+- new | 2024 | 38769992 |  | Designing an effective dissolution test for bilayer tablets tailored for optimal melatonin release in sleep disorder management. | Front Nutr
+- new | 2023 | 37316493 | Research Support, Non-U.S. Gov't | Immunological evaluation of herbal extracts commonly used for treatment of mental diseases during pregnancy. | Sci Rep
+- new | 2022 | 35814220 |  | Advanced in Vitro Safety Assessment of Herbal Medicines for the Treatment of Non-Psychotic Mental Disorders in Pregnancy. | Front Pharmacol
+- new | 2022 | 34624906 |  | Medicinal Plants for the Treatment of Mental Diseases in Pregnancy: An In Vitro Safety Assessment. | Planta Med
+- new | 2018 | 29301019 |  | Mining of the Uncharacterized Cytochrome P450 Genes Involved in Alkaloid Biosynthesis in California Poppy Using a Draft Genome Sequence. | Plant Cell Physiol
+- HELD REF-0428 | 2016 | 27054913 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Modulation of CYPs, P-gp, and PXR by Eschscholzia californica (California Poppy) and Its Alkaloids. | Planta Med
+- new | 2015 | 25670767 | Research Support, Non-U.S. Gov't | "Self" and "non-self" in the control of phytoalexin biosynthesis: plant phospholipases A2 with alkaloid-specific molecular fingerprints. | Plant Cell
+- new | 2014 | 24331426 |  | Alkaloid metabolism in thrips-Papaveraceae interaction: recognition and mutual response. | J Plant Physiol
+- new | 2013 | 22421633 | Research Support, Non-U.S. Gov't | Molecular cloning and characterization of a cytochrome P450 in sanguinarine biosynthesis from Eschscholzia californica cells. | Phytochemistry
+- new | 2012 | 22876743 | Case Reports | Coltsfoot as a potential cause of deep vein thrombosis and pulmonary embolism in a patient also consuming kava and blue vervain. | J Diet Suppl
+- new | 2011 | 21094631 | Research Support, Non-U.S. Gov't | Characterization of two methylenedioxy bridge-forming cytochrome P450-dependent enzymes of alkaloid formation in the Mexican prickly poppy Argemone mexicana. | Arch Biochem Biophys
+- new | 2009 | 18854999 | Research Support, Non-U.S. Gov't | CYP719A subfamily of cytochrome P450 oxygenases and isoquinoline alkaloid biosynthesis in Eschscholzia californica. | Plant Cell Rep
+- new | 2007 | 17250743 | Research Support, Non-U.S. Gov't | Molecular cloning and characterization of methylenedioxy bridge-forming enzymes involved in stylopine biosynthesis in Eschscholzia californica. | FEBS J
+- new | 2003 | 12732624 | Research Support, Non-U.S. Gov't | Molecular cloning and characterization of CYP719, a methylenedioxy bridge-forming enzyme that belongs to a novel P450 family, from cultured Coptis japonica cells. | J Biol Chem
+- new | 1998 | 9681018 | Research Support, Non-U.S. Gov't | Molecular cloning and functional heterologous expression of two alleles encoding (S)-N-methylcoclaurine 3'-hydroxylase (CYP80B1), a new methyl jasmonate-inducible cytochrome P-450- | Plant J
+- new | 1997 | 9425319 | Comparative Study/Research Support, Non-U.S. Gov't | Barbiturate induced benzophenanthridine alkaloid formation proceeds by gene transcript accumulation in the California poppy. | Biochem Biophys Res Commun
+- new | 1997 | 9434750 | Research Support, Non-U.S. Gov't | Cloning and heterologous expression of NADPH-cytochrome P450 reductases from the Papaveraceae. | Arch Biochem Biophys
+- new | 1996 | 8955631 | Research Support, Non-U.S. Gov't | Heterologous expression of alkaloid biosynthetic genes--a review. | Gene
+- new | 1990 | 2353064 |  | tert-Butyl hydroperoxide-induced injury in isolated rat hepatocytes: a model for studying anti-hepatotoxic crude drugs. | Planta Med
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 6 hits, 4 not already listed above, 4 new
+- new | 2023 | 36938015 | Review | California poppy (Eschscholzia californica), the Papaveraceae golden girl model organism for evodevo and specialized metabolism. | Front Plant Sci
+- new | 2017 | 28676375 | Review/Research Support, Non-U.S. Gov't | The family of berberine bridge enzyme-like enzymes: A treasure-trove of oxidative reactions. | Arch Biochem Biophys
+- new | 2016 | 27091506 | Review/Research Support, Non-U.S. Gov't | Tinkering with transcription factor networks for developmental robustness of Ranunculales flowers. | Ann Bot
+- new | 2013 | 23436255 | Research Support, Non-U.S. Gov't/Review | Plant-based medicines for anxiety disorders, Part 1: a review of preclinical studies. | CNS Drugs
+
+### ClinicalTrials.gov - 6 registered studies
+- NCT06795776 | COMPLETED | results=False | PHASE3 | Eschscholzia Study | conds: Sleep | intr: Eschscholzia tablets, Placebo Tablets
+- NCT05300594 | COMPLETED | results=False | NA | Effect of Audistim® Day/Night on Hearing Comfort and Patient Quality of Life of Patients With Chronic Tinnitus. | conds: Tinnitus | intr: Plant extracts, vitamins and mineral, Placebo
+- NCT05459272 | UNKNOWN | results=False | NA | Clinical Trial on a Food Supplement With Melatonin and Herbal Products to Improve Sleep Quality | conds: Sleep Disorders | intr: Aquilea Sueno Forte, Placebo
+- NCT06505694 | COMPLETED | results=False | NA | A Clinical Trial to Assess the Impact of an Alcohol Alternative Herbal Tincture on Signs of Stress Anxiety and Sleep Quality. | conds: Anxiety, Stress | intr: Alcohol Alternative Herbal Tincture (Test Product), Placebo
+- NCT02232256 | WITHDRAWN | results=False | PHASE3 | The Efficacy of CALPXT96™in Improving Sleep Quality in Patients With Chronic Non-cancer Pain | conds: Chronic Pain, Insomnia | intr: CALPXT96
+- NCT03364101 | COMPLETED | results=False | NA | The Poweroff Sleep Study | conds: Sleep | intr: Placebo Capsule, POWEROFF Capsule
+
+### OpenAlex no-PMID trial-worded - 113 hits, 66 without PMID, 66 new
+- new | 2026 | 10.1016/j.sleepe.2026.100138 | article | Efficacy of combined Eschscholtzia californica Cham. and Valeriana officinalis L. extracts in alleviating insomnia associated with anxiety: A randomized, double-blind, placebo-cont | Sleep Epidemiology
+- new | 2026 | 10.4081/jbr.2026.14692 | article | A randomized, double-blind pilot study of a multi-strain probiotic formulation on depressive symptoms in adults | Journal of Biological Research - Bollett
+- new | 2026 | 10.4081/jbr.2026.16308 | article | A promising psychobiotic signal in depressive symptoms: strain specificity and the muco-microbiotic interface | Journal of Biological Research - Bollett
+- new | 2026 | 10.64898/2026.03.23.26349099 | preprint | Effectiveness of Lesser Known Herbal Sedatives for Insomnia: A Systematic Review and Meta-Analysis | medRxiv
+- new | 2026 | 10.30841/2708-8731.5.2026.370878 | article | Pathogenetic substantiation of multi-target non-hormonal correction of benign breast diseases and mastalgia: from monotherapy to phytomolecular synergism | Reproductive health of woman
+- new | 2026 | https://openalex.org/W7133576059 | article | Anxiolytic potential of medicinal plants in the treatment of anxiety disorders: an alternative to psychotropic drugs | Revista cubana de medicina militar
+- new | 2026 | 10.33545/2618060x.2026.v9.i8g.6279 | article | Plant growth and flowering in phlox as influenced by different levels of BA and pinching | International Journal of Research in Agr
+- new | 2026 | 10.33545/26164485.2026.v10.i4.d.2609 | article | A prospective clinical study to know the effectiveness of individualized homoeopathic medicines in the management of insomnia by using insomnia severity index | International Journal of Homoeopathic Sc
+- new | 2025 | 10.25040/lkv2025.03.052 | article | Dysmenorrhea in Patients with Adenomyosis: Clinical Manifestations and Pathophysiological Mechanisms | Lviv clinical bulletin
+- new | 2025 | 10.70082/gxzmbd18 | article | Herbal Medicine For Insomnia And Mental Stress/Anxiety An Expanded Evidence-Based Review Of Phytotherapeutic Interventions | The Review of Diabetic Studies
+- new | 2025 | 10.33545/26164485.2025.v9.i1a.1331 | article | Exploring homoeopathic remedies for insomnia: A review of therapeutic approaches | International Journal of Homoeopathic Sc
+- new | 2025 | 10.1016/j.compag.2025.110484 | article | Multispectral fine-grained classification of blackgrass in wheat and barley crops | Computers and Electronics in Agriculture
+- new | 2024 | 10.1016/j.hermed.2024.100946 | article | Double-Blind, Randomised, Placebo-Controlled Study Evaluating the Efficacy of an Early Treatment Using Herbal Supplement in the Prevention of Post-traumatic Stress Disorder in the  | Journal of Herbal Medicine
+- new | 2024 | 10.26641/2307-0404.2024.1.300504 | article | Primary dysmenorrhea: pathophysiology, improvement of diagnostic and treatment possibilities | Medicni perspektivi
+- new | 2024 | 10.9790/0853-2408022638 | article | “Berberine” A Traditional Chinese Medicine (TCM): An Emerging Alternative In The Management Of Obesity | IOSR Journal of Dental and Medical Scien
+- new | 2024 | 10.51910/ijhdr.v23icf.1400 | article | Efficacy of Homeopathic Higher Dilutions in management of Sleep Disorders: A Review | International Journal of High Dilution R
+- new | 2024 | 10.31979/etd.cwq5-97vd | dissertation | Win-Win Ecology: Can Mosses Promote Dudleya Germination to Restore California Quarries? | San José State University ScholarWorks (
+- new | 2024 | 10.31491/utj.2024.06.019 | article | Effects of Protoves-M1® and IPB-tre® on the prevention and the treatment of irritative symptoms after REZUM therapy of benign prostatic hyperplasia (BPH) | Uro-Technology Journal
+- new | 2024 | 10.1186/s40538-024-00682-x | article | The combination of nanoparticles and endophytes boosts Thyme (Thymus vulgaris L.) resistance to drought stress by elevating levels of phenolic compounds, flavonoids, and essential  | Chemical and Biological Technologies in 
+- new | 2023 | 10.1017/inp.2023.27 | article | Seed longevity and germination of the emerging invasive species wavyleaf basketgrass (Oplismenus undulatifolius) under varied light regimes | Invasive Plant Science and Management
+- new | 2022 | 10.22141/2224-0721.18.1.2022.1141 | article | Effectiveness of vitex agnus castus extract in the treatment of primary dysmenorrhea | INTERNATIONAL JOURNAL OF ENDOCRINOLOGY (
+- new | 2021 | 10.30574/wjbphs.2021.5.3.0023 | article | The anxiolytic effect of some plant extracts in clinical trials and animal models | World Journal of Biology Pharmacy and He
+- new | 2021 | 10.30574/ijbpsa.2021.1.2.0045 | article | Medicinal plants with anticonvulsant activities with emphasis on their mechanisms of action | International Journal of Biological and 
+- new | 2021 | 10.33015/dominican.edu/2021.bio.07 | dissertation | Fungi Associated with Herbaceous Plants in Coastal Northern California | Dominican Scholar (Dominican University 
+- new | 2021 | 10.1007/s11258-021-01181-x | article | Association of flower color with pollen reward may explain increased bumblebee visitation to the Scotch broom yellow morph | Plant Ecology
+- new | 2021 | 10.5281/zenodo.5171387 | article | Effect of Ephedra altissima stems extract on behavior in the mouse | Zenodo (CERN European Organization for N
+- new | 2020 | 10.1101/2020.11.05.367003 | preprint | Ecological dynamics of the almond floral microbiome in relation to crop management and pollination | bioRxiv (Cold Spring Harbor Laboratory)
+- new | 2020 | 10.59465/ijfr.2020.7.2.135-154 | article | A COMPREHENSIVE INVENTORY AND ECOLOGICAL ASSESSMENT OF ALIEN PLANT INVASION IN MIZORAM, INDIA | Indonesian Journal of Forestry Research
+- new | 2019 | 10.33545/26164485.2019.v3.i3b.94 | article | To study efficacy of Eschscholzia californica mother tincture (California poppy) in treatment of migraine headaches | International Journal of Homoeopathic Sc
+- new | 2019 | 10.33545/26164485.2019.v3.i3a.89 | article | A study to compare the efficacy of Eschscholzia californica MT and Passiflora incarnata MT in insomnia | International Journal of Homoeopathic Sc
+- new | 2019 | 10.56499/jppres19.654_7.6.471 | article | Efficacy of pumpkin oil (a Persian medicine product) in the treatment of chronic insomnia: A randomized double-blind clinical trial | Journal of Pharmacy & Pharmacognosy Rese
+- new | 2019 | 10.7897/2277-4343.100237 | article | PATIENT REPORTED OUTCOMES ON BIOGETICA FORMULATIONS IN TRIGEMINAL NEURALGIA | International Journal of Research in Ayu
+- new | 2019 | 10.31878/ijcrpp.2019.34.2 | article | The potential effect of pandan wangi leaf “pandanus amaryllifolius roxb.’’ extract from Indonesia as time sleep inductor | International Journal of Current Researc
+- new | 2019 | https://openalex.org/W2946816620 | article | Uji Efektivitas Ekstrak Daun Pandan Wangi “Pandanus amaryllifolius Roxb.’’ Terhadap Waktu Induksi Tidur dan Durasi Tidur Mencit | UMS Library Center of Academic Activitie
+- new | 2019 | https://openalex.org/W2995337561 | dissertation | Physical and Biological Consequences of Giant Kelp (Macrocystis Pyrifera) Removals Within a Central California Kelp Forest | Digital Commons - CSUMB (California Stat
+- new | 2018 | 10.15406/ijcam.2018.11.00403 | editorial | Successful application of Eschscholzia californica to combat opioid addiction | International Journal of Complementary &
+- new | 2018 | https://openalex.org/W2787968049 | article | STUDY 2: Shortening Germination Periods for California Poppy Using IncubatedWorm Casting Substrates | Murray State's Digital Commons (Murray S
+- new | 2017 | https://openalex.org/W2910088132 | dissertation | Soins de support en phytothérapie et en micro nutrition utilisés pour pallier aux effets secondaires de l’hormonothérapie suite à un cancer du sein hormono-dépendant : synthèse des | HAL
+- new | 2016 | https://openalex.org/W7217866230 | article | An Analysis upon the Role of Various Herbal Remedies and Dietary Supplements for the Treatment of Depression and Anxiety Disorders: Exploring the Efficacy of Herbal Remedies and Di | Journal of Advances in Science and Techn
+- new | 2016 | 10.1016/j.catena.2016.04.011 | article | Effect of surface roughness and mulch on semi-arid revegetation success, soil chemistry and soil movement | CATENA
+- new | 2016 | 10.1111/oik.03550 | article | Estimating resource preferences of a native bumblebee: the effects of availability and use–availability models on preference estimates | Oikos
+- new | 2016 | 10.21010/ajtcam.v13i2.26 | article | AMELIORATING EFFECT OF HAWTHORN (CRATAEGUS OXYACANTHA) AND PHYSICAL EXERCISE ON ACUTE PENICILLIN INDUCED SEIZURES IN GERBILS | African Journal of Traditional Complemen
+- new | 2016 | https://openalex.org/W2953145564 | dissertation | Historical Contingencies in the Ecology and Evolution of Species Diversity | TSpace (University of Toronto)
+- new | 2015 | 10.1111/een.12211 | article | Bumble bees selectively use native and exotic species to maintain nutritional intake across highly variable and invaded local floral resource pools | Ecological Entomology
+- new | 2015 | 10.1515/afpuc-2015-0022 | article | Conference abstracts | European Pharmaceutical Journal
+- new | 2013 | https://openalex.org/W2487462788 | dissertation | Utprøving av 35 prydgrasslag og etableringsforsøk i ulike skogsmiljø med 4 prydgrasslag | NVA (Nasjonalt vitenarkiv)
+- new | 2012 | 10.24266/0738-2898.30.1.42 | article | Differences in Seed Set and Fill of Cultivars of Miscanthus Grown in USDA Cold Hardiness Zone 5 and Their Potential for Invasiveness | Journal of Environmental Horticulture
+- new | 2012 | 10.2147/btat.s20593 | article | A systematic updated review of scientifically tested selected plants used for anxiety disorders | Botanics Targets and Therapy
+- new | 2012 | 10.1590/s0102-695x2012005000094 | article | The genus Crataegus: chemical and pharmacological perspectives | Revista Brasileira de Farmacognosia
+- new | 2012 | https://openalex.org/W24336787 | article | MECHANISMS OF GROUP II INTRON LOSS FROM THE MITOCHONDRIAL COX2 GENE OF PLANTS | Lincoln (University of Nebraska)
+- new | 2010 | 10.1007/s10530-010-9693-z | article | Strong feeding preference of an exotic generalist herbivore for an exotic forb: a case of invasional antagonism | Biological Invasions
+- new | 2010 | https://openalex.org/W2144657718 | report | Revegetating Burned Arid Lands: Identifying Successful Native Species Using Trait and Competition Analysis: Final Report | Digital Scholarship - UNLV (University o
+- new | 2009 | 10.31979/etd.nda7-5xp5 | dissertation | Effects of prescribed burning on composition of serpentine grassland vegetation | San José State University ScholarWorks (
+- new | 2007 | 10.1192/apt.bp.105.001735 | article | Herbal remedies for depression and anxiety | Advances in Psychiatric Treatment
+- new | 2007 | https://openalex.org/W2106409723 | article | The Safety of a Plant-Based Nutraceutical for Behaviour in Cats and Dogs | Adelaide Research & Scholarship (AR&S) (
+- new | 2007 | 10.21273/hortsci.42.3.435 | conference-abstract | Abstracts of the ASHS Southern Region 67th Annual Meeting | HortScience
+- new | 2007 | 10.18174/121916 | dissertation | Spatial analysis of weed patterns | 
+- new | 2003 | https://openalex.org/W957696088 | article | Xeriscape Plant Selections and Ideas | NDSU Repository (North Dakota State Univ
+- new | 1998 | https://openalex.org/W2221299290 | article | FACTORS AFFECTING THE SUCCESS OF CALIFORNIA POPPY (ESCHSCHOLZIA CALIFORNICA) INTRODUCED INTO WESTERN WASHINGTON STATE | Research Exchange (Washington State Univ
+- new | 1994 | https://openalex.org/W3169310237 | dissertation | Studies on immobilization and product recovery for the magnetically stabilized fluidized bed plant cell bioreactor | ScholarlyCommons (University of Pennsylv
+- new | 1991 | 10.21273/hortsci.26.6.724c | article | PRECODEPA: A MULTI-COUNTRY DEVELOPMENT PROGRAM TO IMPROVE THE RESEARCH-EXTENSION INTERFACE FOR POTATO PRODUCTION IN THE TROPICS | HortScience
+- new | 1991 | 10.21273/hortsci.26.6.691c | article | ESTIMATION OF GENETIC RELATIONSHIPS IN THEOBROMA CACAO | HortScience
+- new | 1991 | 10.21273/hortsci.26.6.711g | article | PLANT AGE AT CATFACE INDUCTION DETERMINES SEVERITY OF THE DISORDER | HortScience
+- new | 1991 | 10.21273/hortsci.26.6.686b | article | TRICKLE IRRIGATION OF DAY-NEUTRAL STRAWBERRIES USING EVAPOTRANSPIRATION. | HortScience
+- new | 1991 | 10.21273/hortsci.26.6.709b | article | EFFECTS OF MYCORRHIZAE, MEDIA AND CONTAINER TYPE ON THE GROWTH OF GREEN PEPPER AND LETTUCE TRANSPLANTS | HortScience
+- new | 1991 | 10.21273/hortsci.26.6.739f | article | GENETIC IMPROVEMENT OF SLICING CUCUMBER, 1786 TO 1982 | HortScience
+
+## eucalyptus-globulus (Eucalyptus globulus) - name clause: "Eucalyptus globulus"[tiab] OR "blue gum"[tiab] OR "eucalyptus oil"[ti] OR "1,8-cineole"[ti] OR "cineole"[ti] OR "eucalyptol"[ti]
+
+### PubMed HT - 54 hits, 54 not already listed above, 48 new
+- new | 2026 | 41710322 |  | Repellent and Insecticidal Efficacy of Four Water-Soluble Formulations of Essential Oils Against Aedes aegypti. | J Trop Med
+- new | 2026 | 42272948 | Published Erratum | Correction to "Effect of Eucalyptus Oil Inhalation on Pain and Inflammatory Responses after Total Knee Replacement: A Randomized Clinical Trial". | Evid Based Complement Alternat Med
+- new | 2026 | 41108554 |  | Eucalyptus Leaf Extract With Oenothein B Reduces Sugar-Induced Hepatic and Visceral Fat in Adult Japanese Men: A Randomized Study. | Hepatol Res
+- new | 2025 | 41327929 |  | A Multicenter, Randomized, Controlled Clinical Trial on the Efficacy and Safety of Eucalyptol, Limonene, and Pinene Enteric Capsules in the Treatment of Chronic Rhinosinusitis With | Clin Transl Allergy
+- new | 2025 | 41598878 |  | Effectiveness of Repellent Plants for Controlling Potato Tuber Moth (Symmetrischema tangolias) in the Andean Highlands. | Insects
+- new | 2025 | 40070740 |  | Effect of eucalyptus oil on symptoms of allergic rhinitis: a systematic review. | Indian J Otolaryngol Head Neck Surg
+- new | 2025 | 41498104 |  | Lower Toxicity of the Essential Oils With Repellent Potential Compared to Diethyltoluamide and Cypermethrin on Porcellio laevis. | J Toxicol
+- new | 2024 | 38794141 | Scoping Review | The Therapeutic Potential of Essential Oils in Managing Inflammatory Skin Conditions: A Scoping Review. | Pharmaceuticals (Basel)
+- new | 2024 | 38389967 |  | Efficacy of a Eucalyptus oil-based dentifrice in reducing plaque and gingival bleeding scores - A randomized clinical crossover study. | J Adv Pharm Technol Res
+- new | 2024 | 39021973 |  | Evaluate the adaptability of Eucalyptus species in the highlands of the Amhara region. | Heliyon
+- new | 2024 | 38236839 | Clinical Trial | The impact of cineole treatment timing on common cold duration and symptoms: Non-randomized exploratory clinical trial. | PLoS One
+- new | 2024 | 38797404 |  | Sustainable strategy for rehabilitating phosphate mining sites and valorisation of phosphate industry by-products and sludge using pistachio tree (Pistacia atlantica), false pepper | Sci Total Environ
+- new | 2023 | 36417842 | Randomized Controlled Trial | Turpentine Ointment in Bacterial Skin Infections: A Randomized, Placebo-Controlled, Double-Blind Clinical Trial. | Complement Med Res
+- new | 2023 | 38104550 | Randomized Controlled Trial/Multicenter Study | Turpentine Ointment for the Treatment of Folliculitis: An Open, Prospective, Randomized, Placebo- and Comparator-Controlled Multicenter Trial. | Skin Pharmacol Physiol
+- new | 2022 | 35309401 |  | Effects of essential oils on potato tuber sprouting at room temperature storage in Ethiopia. | Heliyon
+- SEEN | 2022 | 35294302 | Meta-Analysis/Systematic Review | Efficacy and Safety of Eucalyptus for Relieving Cough: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | J Integr Complement Med
+- new | 2022 | 35622167 | Published Erratum | Correction to: Anti-biofilm properties of eucalyptol in combination with antifungals against Candida albicans isolates in patients with hematological malignancy. | Arch Microbiol
+- new | 2022 | 35508567 |  | Anti-biofilm properties of eucalyptol in combination with antifungals against Candida albicans isolates in patients with hematological malignancy. | Arch Microbiol
+- new | 2022 | 35621560 |  | Development, Characterization and Optimization of the Anti-Inflammatory Influence of Meloxicam Loaded into a Eucalyptus Oil-Based Nanoemulgel. | Gels
+- new | 2021 | 33927923 |  | Eucalyptus Oil-Induced Seizures in Children: A Single-Center Prospective Study. | Cureus
+- new | 2021 | 34282989 | Systematic Review | Clinico-laboratory characteristics and outcome of patients with eucalyptus oil-induced/provoked seizures: A case series and systematic review of the published patients. | Trop Doct
+- new | 2021 | 33531768 |  | Eucalyptus Oil-Induced Seizures in Children: Case Reports and Review of the Literature. | J Neurosci Rural Pract
+- new | 2021 | 33477098 |  | Impact of 28 year old agroforestry systems on soil carbon dynamics in Eastern Himalayas. | J Environ Manage
+- new | 2021 | 34702241 |  | Herbal medicines use and associated factors among pregnant women in Debre Tabor town, north West Ethiopia: a mixed method approach. | BMC Complement Med Ther
+- new | 2020 | 32200535 | Research Support, Non-U.S. Gov't/Review | New Perspectives for Mucolytic, Anti-inflammatory and Adjunctive Therapy with 1,8-Cineole in COPD and Asthma: Review on the New Therapeutic Approach. | Adv Ther
+- new | 2020 | 31472076 | Research Support, Non-U.S. Gov't | Independent genetic control of drought resistance, recovery, and growth of Eucalyptus globulus seedlings. | Plant Cell Environ
+- new | 2020 | 32132622 |  | The Effect of Eucalyptol on Nursing Home Residents. | Sci Rep
+- new | 2017 | 28334125 |  | The Effect of Stimulus Duration on the Nostril Localization of Eucalyptol. | Chem Senses
+- new | 2016 | 28852733 |  | ETHNOBIOLOGICAL SURVEY OF PLANTS AND ANIMALS USED FOR THE TREATMENT OF ACUTE RESPIRATORY INFECTIONS IN CHILDREN OF A TRADITIONAL COMMUNITY IN THE MUNICIPALITY OF BARBALHA, CEARÁ, B | Afr J Tradit Complement Altern Med
+- new | 2016 | 27347034 |  | Clinical effects of perazine ferulate tablets combined with eucalyptol limonene pinene enteric soft capsules for treatment of children with IgA nephropathy. | Exp Ther Med
+- new | 2016 | 27507140 | Research Support, Non-U.S. Gov't | Genome-wide variation in recombination rate in Eucalyptus. | BMC Genomics
+- HELD REF-2028 | 2015 | 25992819 |  | [Antimicrobial activity of Eucalyptus globulus oil, xylitol and papain: a pilot study]. | Rev Esc Enferm USP [por]
+- new | 2014 | 25028591 |  | The effect of 1,8-cineole inhalation on preoperative anxiety: a randomized clinical trial. | Evid Based Complement Alternat Med
+- new | 2013 | 24261680 |  | Efficacy of cineole in patients suffering from acute bronchitis: a placebo-controlled double-blind trial. | Cough
+- new | 2013 | 23853660 |  | Effect of eucalyptus oil inhalation on pain and inflammatory responses after total knee replacement: a randomized clinical trial. | Evid Based Complement Alternat Med
+- new | 2012 | 23983963 |  | Plasma 1,8-cineole correlates with cognitive performance following exposure to rosemary essential oil aroma. | Ther Adv Psychopharmacol
+- HELD REF-3553 | 2012 | 22978309 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Patients with asthma benefit from concomitant therapy with cineole: a placebo-controlled, double-blind trial. | J Asthma
+- new | 2012 | 22506106 |  | The impact of herbal drug use on adverse drug reaction profiles of patients on antiretroviral therapy in zimbabwe. | AIDS Res Treat
+- new | 2011 | 21864348 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An ex vivo, assessor blind, randomised, parallel group, comparative efficacy trial of the ovicidal activity of three pediculicides after a single application--melaleuca oil and lav | BMC Dermatol
+- new | 2011 | 21052500 |  | Treatment of upper respiratory tract infections in primary care: a randomized study using aromatic herbs. | Evid Based Complement Alternat Med
+- HELD REF-3555 | 2009 | 19624838 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Concomitant therapy with Cineole (Eucalyptole) reduces exacerbations in COPD: a placebo-controlled double-blind trial. | Respir Res
+- new | 2007 | 18944368 |  | Development of Nested Polymerase Chain Reaction Detection of Mycosphaerella spp. and Its Application to the Study of Leaf Disease in Eucalyptus Plantations. | Phytopathology
+- new | 2006 | 16441463 |  | Antibacterial effects of Eucalyptus globulus leaf extract on pathogenic bacteria isolated from specimens of patients with respiratory tract disorders. | Clin Microbiol Infect
+- new | 2005 | 16261946 | Clinical Trial | [Local tolerability of two preparations with eucalyptus oil and pine-needle oil]. | MMW Fortschr Med [ger]
+- HELD REF-3554 | 2004 | 15064633 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Therapy for acute nonpurulent rhinosinusitis with cineole: results of a double-blind, randomized, placebo-controlled trial. | Laryngoscope
+- HELD REF-3552 | 2003 | 12645832 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Anti-inflammatory activity of 1.8-cineol (eucalyptol) in bronchial asthma: a double-blind placebo-controlled trial. | Respir Med
+- new | 2003 | 12739800 | Clinical Trial | Eucalyptus globulus (camphor oil) against the zoonotic scabies, Sarcoptes scabiei. | J Egypt Soc Parasitol
+- new | 1998 | 9737886 |  | Antiinflammatory effects of euclyptol (1.8-cineole) in bronchial asthma: inhibition of arachidonic acid metabolism in human blood monocytes ex vivo. | Eur J Med Res
+- new | 1997 | 9270157 | Research Support, Non-U.S. Gov't | Eucalyptus oil poisoning among young children: mechanisms of access and the potential for prevention. | Aust N Z J Public Health
+- new | 1997 | 9342418 | Clinical Trial | Response of human ciliated respiratory cells to a mixture of menthol, eucalyptus oil and pine needle oil. | Arzneimittelforschung
+- new | 1997 | 9287850 | Clinical Trial/Controlled Clinical Trial | [Eucalyptus oil dressings in urinary retention]. | Pflege Aktuell [ger]
+- new | 1995 | 7651249 |  | Clinical effects and management of eucalyptus oil ingestion in infants and young children. | Med J Aust
+- new | 1994 | 7954745 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Effect of peppermint and eucalyptus oil preparations on neurophysiological and experimental algesimetric headache parameters. | Cephalalgia
+- new | 1987 | 3449066 | Clinical Trial/Randomized Controlled Trial | [Effect of a secretolytic and a combination of pinene, limonene and cineole on mucociliary clearance in patients with chronic obstructive pulmonary disease]. | Arzneimittelforschung [ger]
+
+### PubMed SR - 10 hits, 6 not already listed above, 5 new
+- new | 2025 | 40917836 | Systematic Review | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review. | Front Med (Lausanne)
+- new | 2024 | 38538551 | Systematic Review | Antimicrobial activity of essential oils against biofilms formed in dental acrylic resin: a systematic review of in vitro studies. | Biofouling
+- HELD REF-0810 | 2023 | 36978341 | Review | Antibacterial Properties of Eucalyptus globulus Essential Oil against MRSA: A Systematic Review. | Antibiotics (Basel)
+- new | 2023 | 37725398 | Systematic Review/Research Support, Non-U.S. Gov't | Antibacterial activity of medicinal plants on the management of mastitis in dairy cows: A systematic review. | Vet Med Sci
+- new | 2022 | 35490427 | Systematic Review | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review. | Infect Disord Drug Targets
+- new | 2022 | 36432799 | Review | Exploring Contact Toxicity of Essential Oils against Sitophilus zeamais through a Meta-Analysis Approach. | Plants (Basel)
+
+### PubMed SAFE - 196 hits, 180 not already listed above, 179 new
+- new | 2027 | 42722262 |  | Biochemical analysis of the TPS-b subfamily reveals a cineole-centered monoterpene biosynthetic module in Medicago truncatula. | Phytochemistry
+- new | 2026 | 42070456 | Review | 1,8-cineole as a multi-target anticancer candidate integrating molecular mechanisms, pharmacokinetics and translational perspectives. | Biomed Pharmacother
+- new | 2026 | 42302643 |  | Eucalyptus globulus fruit extract alleviates MASLD via modulation of the IRE1α/XBP1s pathway. | Phytomedicine
+- new | 2026 | 42337126 |  | 1,8-Cineole Promotes the Proliferation of Neural Stem Cells and Inhibits Oxidative Damage Induced by Ischemic Stroke via the Wnt/β-Catenin Signaling Pathway. | Mol Neurobiol
+- new | 2026 | 42183616 |  | Clinical Effectiveness of Eucalyptus Oil in the Management of Geriatric Rhinitis. | J Craniofac Surg
+- new | 2026 | 42887156 |  | Phytotoxic effects and environmental safety of nanoparticles incorporating a eucalyptus essential oil. | Plant Physiol Biochem
+- new | 2026 | 42199596 |  | Eucalyptol Ameliorates Neuroendocrine Stress-Aggravated Rheumatoid Arthritis Through Anti-inflammatory, Antioxidant, and Chondroprotective Mechanisms Associated with NF-κB and MAPK | Cureus
+- new | 2026 | 42036468 |  | Optimization of an antifungal formulation based on eucalyptol, β-pinene, and α-terpinene against Candida albicans and Candida glabrata: A mixture design study. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2026 | 42697636 |  | MgO/Y(2)O(3) doped Eucalyptus globulus essential oil nanoemulsion hybrid for enhanced larvicidal activity against mosquitoes and eco-safety assessment. | Pestic Biochem Physiol
+- new | 2026 | 41596906 |  | Natural Essential Oils as Promising Antimicrobial Agents to Improve Food Safety: Mechanistic Insights Against Multidrug-Resistant Campylobacter jejuni and Campylobacter coli Isolat | Foods
+- new | 2025 | 40768808 |  | Mechanism of Eucalyptus oil in alleviating UUO-induced renal fibrosis revealed by transcriptomics and metabolomics. | Phytomedicine
+- new | 2025 | 40824015 |  | Unearthing novel PPAR-γ activators: In silico design of eucalyptol analogues for ulcerative colitis. | Pak J Pharm Sci
+- new | 2025 | 40719271 |  | 1,8-Cineole Protects Against Liver Toxicity Induced by Aroclor-1254 in a Rat Model. | J Biochem Mol Toxicol
+- new | 2025 | 40520166 |  | Efficacy and safety of a new drug formulation, amoxicillin-clavulanate-cineole, for adult lower respiratory tract infections: a nationwide observational study in Morocco. | Front Pharmacol
+- new | 2025 | 40915087 |  | Eucalyptus globulus essential oil alleviates cold-induced ascites and physiological disturbances in broiler chickens. | Poult Sci
+- new | 2025 | 41150573 |  | Toxicological Evaluation and Antimicrobial Activity of a Natural Thymol-Eucalyptol-Based Mixture. | Toxics
+- new | 2025 | 40707657 |  | Eco-friendly control of Helicoverpa armigera using synergistic mixtures of thymol and eucalyptol. | Sci Rep
+- new | 2025 | 41009051 | Published Erratum | Correction: Ghareeb et al. Chemical Profiling of Polyphenolics in Eucalyptus globulus and Evaluation of Its Hepato-Renal Protective Potential Against Cyclophosphamide Induced Toxic | Antioxidants (Basel)
+- new | 2025 | 41437680 |  | Cineole alters liver fat metabolism and enriches the fatty acid content of eggs in laying hens. | Nat Prod Res
+- new | 2025 | 41372343 |  | Essential oils enriched Dant-Kanti-Gandush (oil-pulling) inhibits inter-kingdom biofilm formation on orthodontic fixtures and ameliorates cariogenic virulence factors of oral patho | Sci Rep
+- new | 2025 | 40432665 | Case Reports | Fatal Eucalyptus Oil Poisoning in an Adult Male: A Case Report With Comprehensive Autopsy and Histopathological Findings. | Cureus
+- new | 2025 | 41003015 |  | Ambient Mass Spectrometry Imaging Reveals Spatiotemporal Brain Distribution and Neurotransmitter Modulation by 1,8-Cineole: An Epoxy Monoterpene in Mongolian Medicine Sugmel-3. | Metabolites
+- new | 2025 | 40592396 |  | Anticoagulant activity of Eucalyptus essential oils: An in vitro approach and a bioinformatics-based pharmacokinetic-pharmacodynamic analysis. | J Pharmacol Toxicol Methods
+- new | 2025 | 41326733 |  | Prevalence, associated factors, and safety implications of prehospital herbal medicine use in Southwestern, Ethiopia. | Sci Rep
+- new | 2025 | 40278046 |  | Observations on iNaturalist reveal the establishment of non-native Eucalyptus weevil Gonipterus platensis (Coleoptera: Curculionidae) in Tamil Nadu, India. | J Insect Sci
+- new | 2024 | 39009298 |  | Implications of fuel poverty for indoor black carbon concentrations from space heating. | Environ Pollut
+- new | 2024 | 39372642 | Case Reports | Rhabdomyolysis and Pigment Nephropathy - An Uncommon Manifestation of Eucalyptus Oil Consumption. | Indian J Nephrol
+- new | 2024 | 38219849 |  | Update to RIFM fragrance ingredient safety assessment, eucalyptol, CAS Registry Number 470-82-6. | Food Chem Toxicol
+- new | 2024 | 37981022 | Review | The potential usage of Caatinga natural products against multi-drug-resistant bacteria. | Fitoterapia
+- new | 2024 | 39229581 |  | Protective effect of 1, 8-cineole (eucalyptol) against lead-induced liver injury by ameliorating oxidative stress and inflammation and modulating TLR4/MyD88/NF-κB signaling. | Iran J Basic Med Sci
+- new | 2024 | 38604329 |  | Promising effects of 1,8 Cineole to control Giardia lamblia infection: Targeting the inflammation, oxidative stress, and infectivity. | Acta Trop
+- new | 2024 | 38879329 |  | Genetic architecture of the toxicological response to eucalyptol and citronellal in Drosophila melanogaster. | Pestic Biochem Physiol
+- new | 2024 | 39160422 | Research Support, Non-U.S. Gov't | Bisphenol AF Caused Reproductive Toxicity in Rats and Cineole Co-Treatment Exhibited Protective Effect. | Reprod Sci
+- new | 2024 | 38288019 |  | Green synthesis of Eucalyptus globulus zinc nanoparticles and its use in antimicrobial insect repellent paint formulation in bulk industrial production. | Heliyon
+- new | 2024 | 38764477 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the leaves of Eucalyptus globulus Labill. (eucalyptus tincture) for all animal species (FEFANA asbl). | EFSA J
+- new | 2023 | 37047133 |  | Molecular Docking Identifies 1,8-Cineole (Eucalyptol) as A Novel PPARγ Agonist That Alleviates Colon Inflammation. | Int J Mol Sci
+- new | 2023 | 37010839 |  | Safety Assessment of Eucalyptus globulus (Eucalyptus)-Derived Ingredients as Used in Cosmetics. | Int J Toxicol
+- new | 2023 | 38146392 |  | Formulation and Evaluation of Herbal-Based Antiacne Gel Preparations. | Biomed Res Int
+- new | 2023 | 37367732 |  | Rhinosinusitis Treatment with Cineole: Patient-Reported Quality of Life Improvements from a Non-Interventional, Pharmacy-Based Survey. | Medicines (Basel)
+- new | 2023 | 36987546 |  | Study on the opening effect of eucalyptol on the blood-brain barrier and its brain pharmacokinetics. | Biomed Chromatogr
+- new | 2023 | 37024404 |  | Effectiveness of aroma-Tea Tree Oil and Eucalyptus oil in alleviating COVID-19 vaccine discomfort side effects. | Explore (NY)
+- new | 2023 | 37504669 |  | Evaluation of the Stability of a 1,8-Cineole Nanoemulsion and Its Fumigant Toxicity Effect against the Pests Tetranychus urticae, Rhopalosiphum maidis and Bemisia tabaci. | Insects
+- new | 2023 | 37522099 |  | Safety and efficacy of a feed additive consisting of an essential oil derived from Eucalyptus globulus Labill. (eucalyptus oil) for all animal species (FEFANA asbl). | EFSA J
+- new | 2023 | 37627871 |  | Assessing the Genotoxicity of Cellulose Nanomaterials in a Co-Culture of Human Lung Epithelial Cells and Monocyte-Derived Macrophages. | Bioengineering (Basel)
+- new | 2023 | 37481900 |  | Cineole inhibits the biosynthesis of leukotrienes and prostaglandins to alleviate allergic rhinitis: Insights from metabolomics. | J Pharm Biomed Anal
+- new | 2023 | 37754703 |  | Acaricidal Toxicity of Four Essential Oils, Their Predominant Constituents, Their Mixtures against Varroa Mite, and Their Selectivity to Honey Bees (Apis cerana and A. mellifera). | Insects
+- new | 2022 | 35125554 |  | The Effect of Phytocompounds of Medicinal Plants on Coronavirus (2019-NCOV) Infection. | Pharm Chem J
+- new | 2022 | 34861289 |  | RIFM fragrance ingredient safety assessment, eucalyptol, CAS Registry Number 470-82-6. | Food Chem Toxicol
+- new | 2022 | 35483150 |  | Cineole alleviates the BPA-inhibited NETs formation by regulating the p38 pathway-mediated programmed cell death. | Ecotoxicol Environ Saf
+- new | 2022 | 35709895 |  | The endoplasmic reticulum-mitochondrial crosstalk is involved in the mitigation mechanism of eucalyptol on imidacloprid toxicity in Ctenopharyngodon idellus kidney cells. | Fish Shellfish Immunol
+- new | 2022 | 35203789 |  | Antimicrobial Activity of Eucalyptus globulus, Azadirachta indica, Glycyrrhiza glabra, Rheum palmatum Extracts and Rhein against Porphyromonas gingivalis. | Antibiotics (Basel)
+- new | 2022 | 36289952 |  | The Combination of Amoxicillin and 1,8-Cineole Improves the Bioavailability and the Therapeutic Effect of Amoxicillin in a Rabbit Model. | Antibiotics (Basel)
+- new | 2022 | 36162772 |  | Eucalyptol relieves the toxicity of diisobutyl phthalate in Ctenopharyngodon idellus kidney cells through Keap1/Nrf2/HO-1 pathway: Apoptosis-autophagy crosstalk and immunoregulatio | Fish Shellfish Immunol
+- new | 2022 | 36230218 |  | Investigation of Chemical Compounds and Evaluation of Toxicity, Antibacterial, and Anti-Inflammatory Activities of Three Selected Essential Oils and Their Mixtures with Moroccan Th | Foods
+- new | 2022 | 33660226 |  | In Vitro Cytotoxicity and Apoptotic Assay of Eucalyptus globulus Essential Oil in Colon and Liver Cancer Cell Lines. | J Gastrointest Cancer
+- new | 2022 | 34750760 |  | Monitoring of air pollutants using plants and co-located soil-Egypt: characteristics, pollution, and toxicity impact. | Environ Sci Pollut Res Int
+- new | 2022 | 36055453 |  | Effects of Eucalypt ashes from moderate and high severity wildfires on the skin microbiome of the Iberian frog (Rana iberica). | Environ Pollut
+- new | 2022 | 35463071 |  | Safety and Efficacy of Medicinal Plants Used to Manufacture Herbal Products with Regulatory Approval in Uganda: A Cross-Sectional Study. | Evid Based Complement Alternat Med
+- new | 2021 | 34620132 |  | Physicochemical characterization, cytotoxic effect and toxicity evaluation of nanostructured lipid carrier loaded with eucalyptol. | BMC Complement Med Ther
+- new | 2021 | 34893926 | Review | Influence of diets supplemented with naturally protected or unprotected eucalyptus oil on methane production and lactating buffalo productivity. | Trop Anim Health Prod
+- new | 2021 | 33527438 |  | Quantification of eucalyptol (1,8-cineole) in rat serum by gas chromatography-mass/mass spectrometry and its application to a rat pharmacokinetic study. | Biomed Chromatogr
+- new | 2021 | 33681197 |  | In vitro Anti-parasitic Activity of Pelargonium X. asperum Essential Oil Against Toxoplasma gondii. | Front Cell Dev Biol
+- new | 2021 | 33389348 |  | Chemical composition and acaricidal activity of Eucalyptus globulus essential oil against the vector of tropical bovine piroplasmosis, Rhipicephalus (Boophilus) annulatus. | Exp Appl Acarol
+- new | 2021 | 34943241 |  | In Vitro Hepatic Assessment of Cineole and Its Derivatives in Common Brushtail Possums (Trichosurus vulpecula) and Rodents. | Biology (Basel)
+- new | 2021 | 33765626 |  | Design of magnetic hybrid nanostructured lipid carriers containing 1,8-cineole as delivery systems for anticancer drugs: Physicochemical and cytotoxic studies. | Colloids Surf B Biointerfaces
+- new | 2021 | 34394322 |  | Anti-inflammatory potential of dichloromethane leaf extracts of Eucalyptus globulus (Labill) and Senna didymobotrya (Fresenius) in mice. | Afr Health Sci
+- new | 2021 | 33263461 | Research Support, Non-U.S. Gov't | Improving protection effects of eucalyptol via carboxymethyl chitosan-coated lipid nanoparticles on hyperglycaemia-induced vascular endothelial injury in rats. | J Drug Target
+- new | 2020 | 32800987 |  | RIFM fragrance ingredient safety assessment, 1,4-cineole, CAS Registry Number 470-67-7. | Food Chem Toxicol
+- new | 2020 | 33262354 |  | Eucalyptus oil reduces allergic reactions and suppresses mast cell degranulation by downregulating IgE-FcεRI signalling. | Sci Rep
+- new | 2020 | 33203123 | Research Support, Non-U.S. Gov't | Potential Nutraceutical Properties of Leaves from Several Commonly Cultivated Plants. | Biomolecules
+- new | 2020 | 32607091 | Review | Antidiabetic Potential of Syzygium sp.: An Overview. | Yale J Biol Med
+- HELD REF-2027 | 2020 | 33134128 |  | Eucalyptus Globulus protects against diclofenac sodium induced hepatorenal and testicular toxicity in male rats. | J Tradit Complement Med
+- new | 2020 | 32837899 |  | Effects of essential oils on symptoms and course (duration and severity) of viral respiratory infections in humans: A rapid review. | Adv Integr Med
+- new | 2020 | 32806608 |  | A New Eucalyptol-Rich Lavender (Lavandula stoechas L.) Essential Oil: Emerging Potential for Therapy against Inflammation and Cancer. | Molecules
+- new | 2020 | 33076507 |  | Eucalyptol Inhibits Amyloid-β-Induced Barrier Dysfunction in Glucose-Exposed Retinal Pigment Epithelial Cells and Diabetic Eyes. | Antioxidants (Basel)
+- new | 2020 | 32438574 |  | Pollen Proteases Play Multiple Roles in Allergic Disorders. | Int J Mol Sci
+- new | 2020 | 31878816 | Comparative Study | Development of galangal essential oil-based microemulsion gel for transdermal delivery of flurbiprofen: simultaneous permeability evaluation of flurbiprofen and 1,8-cineole. | Drug Dev Ind Pharm
+- new | 2020 | 32659402 |  | Organosolv lignins as new stabilizers for cellulose nitrate: Thermal behavior and stability assessment. | Int J Biol Macromol
+- new | 2019 | 31193536 |  | Anti-biofilm activity of hydromethanolic plant extracts against Staphylococcus aureus isolates from bovine mastitis. | Heliyon
+- new | 2019 | 30590022 | Research Support, Non-U.S. Gov't | Selective hydroxylation of 1,8- and 1,4-cineole using bacterial P450 variants. | Arch Biochem Biophys
+- new | 2019 | 31723495 | Case Reports | A Pediatric Case of Accidental Eucalyptus Oil Poisoning from New Delhi, India: Emergency Measures, Historical Context, and Implications for Practice. | Cureus
+- new | 2019 | 30724138 |  | Ophelimus mediterraneus sp. n. (Hymenoptera, Eulophidae): a new Eucalyptus gall wasp in the Mediterranean region. | Bull Entomol Res
+- new | 2019 | 31685016 | Case Reports | Eucalyptus oil poisoning: two case reports. | J Med Case Rep
+- new | 2019 | 29464495 |  | Targeting oxidative stress, acetylcholinesterase, proinflammatory cytokine, dopamine and GABA by eucalyptus oil (Eucalyptus globulus) to alleviate ketamine-induced psychosis in rat | Inflammopharmacology
+- new | 2019 | 31853510 |  | Antipyretic potential of dichloromethane leaf extract of Eucalyptus globulus (Labill) and Senna didymobotrya (Fresenius) in rats models. | Heliyon
+- new | 2019 | 31546777 |  | Chemical Profiling of Polyphenolics in Eucalyptus globulus and Evaluation of Its Hepato-Renal Protective Potential Against Cyclophosphamide Induced Toxicity in Mice. | Antioxidants (Basel)
+- new | 2019 | 31404264 |  | The Essential Oils and Eucalyptol From Artemisia vulgaris L. Prevent Acetaminophen-Induced Liver Injury by Activating Nrf2-Keap1 and Enhancing APAP Clearance Through Non-Toxic Meta | Front Pharmacol
+- new | 2019 | 30806522 | Case Reports/Letter | Massive eucalyptus oil overdose leading to prolonged coma. | Clin Toxicol (Phila)
+- new | 2018 | 29970503 |  | High ANXA7 Potentiates Eucalyptol Toxicity in Hormone-refractory Prostate Cancer. | Anticancer Res
+- new | 2018 | 30010015 |  | Effects of dietary 1,8-cineole supplementation on physiological, immunological and antioxidant responses to crowding stress in rainbow trout (Oncorhynchus mykiss). | Fish Shellfish Immunol
+- new | 2018 | 29747673 |  | Ethnobotanical survey of plants used as repellents against housefly, Musca domestica L. (Diptera: Muscidae) in Budondo Subcounty, Jinja District, Uganda. | J Ethnobiol Ethnomed
+- new | 2018 | 29679712 |  | Evaluating the genotoxicity of cellulose nanofibrils in a co-culture of human lung epithelial cells and monocyte-derived macrophages. | Toxicol Lett
+- new | 2018 | 30097123 |  | Bioactive compound 1,8-Cineole selectively induces G2/M arrest in A431 cells through the upregulation of the p53 signaling pathway and molecular docking studies. | Phytomedicine
+- new | 2018 | 30280694 |  | Insecticidal, Oxidative, and Genotoxic Activities of Syzygium aromaticum and Eucalyptus globulus on Culex pipiens Adults and Larvae. | Turkiye Parazitol Derg
+- new | 2018 | 29986399 | Research Support, Non-U.S. Gov't | Anti-Infectivity against Herpes Simplex Virus and Selected Microbes and Anti-Inflammatory Activities of Compounds Isolated from Eucalyptus globulus Labill. | Viruses
+- new | 2017 | 28429268 | Editorial | Mutagenicity assessment of aerosols in emissions from domestic combustion processes. | Environ Sci Pollut Res Int
+- new | 2017 | 28735432 | Case Reports | Eucalyptol, sabinene and cinnamaldehyde: potent inhibitors of salmonella target protein L-asparaginase. | 3 Biotech
+- new | 2017 | 29285309 |  | 1,8-cineole prevents UVB-induced skin carcinogenesis by targeting the aryl hydrocarbon receptor. | Oncotarget
+- new | 2017 | 28891175 | Case Reports/Letter | Massive eucalyptus oil overdose. | Intern Med J
+- new | 2017 | 28567678 |  | Removal of hexavalent chromium upon interaction with biochar under acidic conditions: mechanistic insights and application. | Environ Sci Pollut Res Int
+- new | 2017 | 28932445 |  | Structural elucidation of a hy-droxy-cineole product obtained from cytochrome P450 monooxygenase CYP101J2 catalysed transformation of 1,8-cineole. | Acta Crystallogr E Crystallogr Commun
+- new | 2017 | 28709043 |  | Improvement effects of cytokinin on EDTA assisted phytoremediation and the associated environmental risks. | Chemosphere
+- new | 2017 | 28561806 | Research Support, Non-U.S. Gov't | Genetic-based interactions among tree neighbors: identification of the most influential neighbors, and estimation of correlations among direct and indirect genetic effects for leaf | Heredity (Edinb)
+- new | 2016 | 27644596 |  | Repeated-doses and reproductive toxicity studies of the monoterpene 1,8-cineole (eucalyptol) in Wistar rats. | Food Chem Toxicol
+- new | 2016 | 27136257 |  | Characterization of radicals arising from oxidation of commercially-important essential oils. | Free Radic Res
+- new | 2016 | 26784183 |  | Herb-Induced Liver Injury in the Berlin Case-Control Surveillance Study. | Int J Mol Sci
+- new | 2016 | 26893179 |  | Mutagenicity assessment of aerosols in emissions from domestic combustion processes. | Environ Sci Pollut Res Int
+- new | 2016 | 27590809 |  | CYP101J2, CYP101J3, and CYP101J4, 1,8-Cineole-Hydroxylating Cytochrome P450 Monooxygenases from Sphingobium yanoikuyae Strain B2. | Appl Environ Microbiol
+- new | 2016 | 27263007 |  | Efficient hydroxylation of 1,8-cineole with monoterpenoid-resistant recombinant Pseudomonas putida GS1. | World J Microbiol Biotechnol
+- new | 2016 | 27614358 | Research Support, Non-U.S. Gov't | First insights into the functional role of vasicentric tracheids and parenchyma in eucalyptus species with solitary vessels: do they contribute to xylem efficiency or safety? | Tree Physiol
+- new | 2015 | 26862283 |  | Eucalyptus Oil Poisoning. | Toxicol Int
+- new | 2015 | 26124607 |  | Evaluation of an Indigenously Prepared Herbal Extract (EndoPam) as an Antimicrobial Endodontic Irrigant: An Ex Vivo Study. | J Int Oral Health
+- new | 2015 | 25752915 | Review | Eucalyptus oil: contact allergy and safety. | Contact Dermatitis
+- new | 2015 | 24912782 | Research Support, Non-U.S. Gov't | The eucalyptus oil ingredient 1,8-cineol induces oxidative DNA damage. | Arch Toxicol
+- new | 2015 | 25786160 | Research Support, Non-U.S. Gov't | Antimicrobial and antioxidant activities and phenolic profile of Eucalyptus globulus Labill. and Corymbia ficifolia (F. Muell.) K.D. Hill & L.A.S. Johnson leaves. | Molecules
+- new | 2015 | 26482939 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative study of genotoxic, antigenotoxic and cytotoxic activities of monoterpenes camphor, eucalyptol and thujone in bacteria and mammalian cells. | Chem Biol Interact
+- new | 2014 | 24817945 | Research Support, Non-U.S. Gov't | Acute and subacute toxicity study of 1,8-cineole in mice. | Int J Clin Exp Pathol
+- new | 2014 | 25663980 |  | Acute and subchronic toxicity as well as evaluation of safety pharmacology of eucalyptus oil-water emulsions. | Int J Clin Exp Med
+- new | 2014 | 24142288 |  | Evaluation of biological and chemical insect repellents and their potential adverse effects. | Parasitol Res
+- new | 2014 | 24830648 | Research Support, Non-U.S. Gov't | Design, formulation and optimization of valsartan transdermal gel containing iso-eucalyptol as novel permeation enhancer: preclinical assessment of pharmacokinetics in Wistar albin | Expert Opin Drug Deliv
+- new | 2014 | 24856382 | Research Support, Non-U.S. Gov't | Eucalyptus globulus extract protects upon acetaminophen-induced kidney damages in male rat. | Bosn J Basic Med Sci
+- new | 2014 | 24824322 |  | Molluscicidal and antischistosomal activities of methanol extracts and isolated compounds from Eucalyptus globulus and Melaleuca styphelioides. | Pharm Biol
+- new | 2014 | 24737414 | Research Support, Non-U.S. Gov't | Rescue of syringyl lignin and sinapate ester biosynthesis in Arabidopsis thaliana by a coniferaldehyde 5-hydroxylase from Eucalyptus globulus. | Plant Cell Rep
+- new | 2014 | 24664613 | Research Support, Non-U.S. Gov't | Co-ordination of growth, gas exchange and hydraulics define the carbon safety margin in tree species with contrasting drought strategies. | Tree Physiol
+- new | 2013 | 23311649 | Research Support, Non-U.S. Gov't | Development of a reservoir-type transdermal delivery system containing eucalyptus oil for tetramethylpyrazine. | Drug Deliv
+- new | 2013 | 24312851 |  | Percutaneous absorption of salicylic Acid after administration of trolamine salicylate cream in rats with transcutol(®) and eucalyptus oil pre-treated skin. | Adv Pharm Bull
+- new | 2012 | 22928313 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils against Camptomyia corticalis (Diptera: Cecidomyiidae). | J Econ Entomol
+- new | 2012 | 22512998 | Research Support, Non-U.S. Gov't | Mutagenicity assessment of aerosols in emissions from wood combustion in Portugal. | Environ Pollut
+- new | 2012 | 22177577 |  | Toxicity of essential and non-essential oils against the chewing louse, Bovicola (Werneckiella) ocellatus. | Res Vet Sci
+- new | 2012 | 21928376 |  | Uncaria tomentosa (Willd. ex. Roem. & Schult.) DC. and Eucalyptus globulus Labill. interactions when administered with diazepam. | Phytother Res
+- new | 2011 | 21244634 | Letter/Comment | Therapeutic effects of inhaled 1,8-cineole on allergic airway inflammation. | Basic Clin Pharmacol Toxicol
+- new | 2011 | 21674753 | Comparative Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of lemon eucalyptus oil constituents to acaricide-susceptible and acaricide-resistant Tetranychus urticae. | Pest Manag Sci
+- new | 2011 | 21867365 | Case Reports | Seizure caused by dermal application of over-the-counter eucalyptus oil head lice preparation. | Clin Toxicol (Phila)
+- new | 2011 | 21620923 | Research Support, Non-U.S. Gov't | Modulation of genotoxicity and DNA repair by plant monoterpenes camphor, eucalyptol and thujone in Escherichia coli and mammalian cells. | Food Chem Toxicol
+- new | 2011 | 21485381 |  | Larvicidal activity of Myrtaceae essential oils and their components against Aedes aegypti, acute toxicity on Daphnia magna, and aqueous residue. | J Med Entomol
+- new | 2011 | 22010466 | Case Reports | [Accidental intoxication with eucalyptus oil--a case report]. | Przegl Lek [pol]
+- new | 2010 | 19902249 | Research Support, Non-U.S. Gov't | Eucalyptus essential oil toxicity against permethrin-resistant Pediculus humanus capitis (Phthiraptera: Pediculidae). | Parasitol Res
+- new | 2010 | 20954041 | Research Support, Non-U.S. Gov't | Impact of a secondary treated bleached Kraft pulp mill effluent in both sexes of goldfish (Carassius auratus L.). | J Environ Sci Health A Tox Hazard Subst 
+- new | 2010 | 20089292 | Research Support, Non-U.S. Gov't | Cineole biodegradation: molecular cloning, expression and characterisation of (1R)-6beta-hydroxycineole dehydrogenase from Citrobacter braakii. | Bioorg Chem
+- new | 2010 | 21383474 |  | Real-time breath gas analysis for pharmacokinetics: monitoring exhaled breath by on-line proton-transfer-reaction mass spectrometry after ingestion of eucalyptol-containing capsule | J Breath Res
+- new | 2010 | 20561782 | Research Support, Non-U.S. Gov't | Can the laccase mediator system affect the chemical and refining properties of the eucalyptus pulp? | Bioresour Technol
+- new | 2009 | 19009361 | Research Support, Non-U.S. Gov't | Laboratory evaluation of aromatic essential oils from thirteen plant species as candidate repellents against Leptotrombidium chiggers (Acari: Trombiculidae), the vector of scrub ty | Exp Appl Acarol
+- new | 2009 | 19049815 | Research Support, Non-U.S. Gov't | Protective effect of linalool, myrcene and eucalyptol against t-butyl hydroperoxide induced genotoxicity in bacteria and cultured human cells. | Food Chem Toxicol
+- new | 2009 | 20140715 |  | Genotoxic activity of Eucalyptus globulus essential oil in Aspergillus nidulans diploid cells. | Folia Microbiol (Praha)
+- new | 2007 | 17896321 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Pharmacokinetics of 1,8-cineole, a dietary toxin, in the brushtail possum (Trichosurus vulpecula): significance for feeding. | Xenobiotica
+- new | 2005 | 15715982 | Research Support, Non-U.S. Gov't | Metabolism of 1,8-cineole by human cytochrome P450 enzymes: identification of a new hydroxylated metabolite. | Biochim Biophys Acta
+- new | 2004 | 15189289 |  | Antimicrobial activities of eucalyptus leaf extracts and flavonoids from Eucalyptus maculata. | Lett Appl Microbiol
+- new | 2004 | 15260491 | Research Support, U.S. Gov't, P.H.S. | Crystal structure of P450cin in a complex with its substrate, 1,8-cineole, a close structural homologue to D-camphor, the substrate for P450cam. | Biochemistry
+- new | 2004 | 15384148 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't/Validation Study | Simultaneous determination of the inhibitory potency of herbal extracts on the activity of six major cytochrome P450 enzymes using liquid chromatography/mass spectrometry and autom | Rapid Commun Mass Spectrom
+- new | 2004 | 15357008 | Research Support, Non-U.S. Gov't | Pretreatment with 1,8-cineole potentiates thioacetamide-induced hepatotoxicity and immunosuppression. | Arch Pharm Res
+- new | 2004 | 15247316 | Comparative Study/Research Support, Non-U.S. Gov't | Maternal inheritance of mitochondria in Eucalyptus globulus. | J Hered
+- new | 2003 | 12867494 | Research Support, Non-U.S. Gov't | Roles of human CYP2A6 and 2B6 and rat CYP2C11 and 2B1 in the 10-hydroxylation of (-)-verbenone by liver microsomes. | Drug Metab Dispos
+- new | 2002 | 12512812 |  | Eucalyptus globulus (camphor oil) in the treatment of human demodicidosis. | J Egypt Soc Parasitol
+- new | 2002 | 12593759 |  | Inhibition of the microsomal metabolism of 1,8-cineole in the common brushtail possum (Trichosurus vulpecula) by terpenes and other chemicals. | Xenobiotica
+- new | 2001 | 11341367 | Research Support, Non-U.S. Gov't | 1,8-cineole protects against liver failure in an in-vivo murine model of endotoxemic shock. | J Pharm Pharmacol
+- new | 2001 | 11561861 | Research Support, Non-U.S. Gov't | Toxicity, feeding deterrence, and effect of activity of 1,8-cineole from Artemisia annua on progeny production of Tribolium castanaeum (Coleoptera: Tenebrionidae). | J Econ Entomol
+- new | 2001 | 11159812 | Research Support, Non-U.S. Gov't | Oxidation of 1,8-cineole, the monoterpene cyclic ether originated from eucalyptus polybractea, by cytochrome P450 3A enzymes in rat and human liver microsomes. | Drug Metab Dispos
+- new | 2001 | 11465406 |  | Microsomal metabolism of the terpene 1,8-cineole in the common brushtail possum (Trichosurus vulpecula), koala (Phascolarctos cinereus), rat and human. | Xenobiotica
+- new | 2001 | 11584265 | Case Reports/Letter | Topical application of a new formulation of eucalyptus oil phytochemical clears methicillin-resistant Staphylococcus aureus infection. | Am J Infect Control
+- new | 2001 | 11695850 | Comparative Study/Research Support, Non-U.S. Gov't | Roles of cytochrome P450 3A enzymes in the 2-hydroxylation of 1,4-cineole, a monoterpene cyclic ether, by rat and human liver microsomes. | Xenobiotica
+- new | 2000 | 10945757 | Case Reports | Allergic contact dermatitis due to eucalyptol in an anti-inflammatory cream. | Contact Dermatitis
+- new | 2000 | 10880815 |  | Cross-resistance of a chlorpyrifos-methyl resistant strain of Oryzaephilus surinamensis (Coleoptera: Cucujidae) to fumigant toxicity of essential oil extracted from Eucalyptus glob | J Stored Prod Res
+- new | 1999 | 10454222 | Comparative Study/Research Support, Non-U.S. Gov't | In vitro inhibition of liver monooxygenases by beta-ionone, 1,8-cineole, (-)-menthol and terpineol. | Toxicology
+- new | 1998 | 9838728 | Case Reports | Topical eucalyptus oil poisoning. | Australas J Dermatol
+- new | 1998 | 9544389 | Case Reports/Letter | Deliberate self-poisoning with eucalyptus oil in an elderly woman. | Aust N Z J Med
+- new | 1997 | 9338538 | Research Support, Non-U.S. Gov't | A simple washing procedure with eucalyptus oil for controlling house dust mites and their allergens in clothing and bedding. | J Allergy Clin Immunol
+- new | 1994 | 8177581 | Case Reports/Letter | Eucalyptus oil ingestion. | N Z Med J
+- new | 1993 | 8285692 |  | A soluble Bacillus cereus cytochrome P-450cin system catalyzes 1,4-cineole hydroxylations. | Appl Environ Microbiol
+- new | 1993 | 8240865 | Case Reports | Eucalyptus oil poisoning in childhood: 41 cases in south-east Queensland. | J Paediatr Child Health
+- new | 1991 | 1779214 | Comparative Study | Halothane and eucalyptol as alternatives to chloroform for softening gutta-percha. | J Endod
+- new | 1990 | 2239060 | Case Reports | Accidental nasal eucalyptol and menthol instillation. | Acta Clin Belg Suppl
+- new | 1989 | 2929128 | Case Reports | Eucalyptus oil: 14 cases of exposure. | Vet Hum Toxicol
+- new | 1988 | 2904658 |  | Fair dinkum koala kuisine--eucalyptus oil poisoning. | N C Med J
+- new | 1986 | 3779163 | Research Support, Non-U.S. Gov't | Metabolism of 1,8-cineole in rat: its effects on liver and lung microsomal cytochrome P-450 systems. | Bull Environ Contam Toxicol
+- new | 1986 | 28150640 |  | Contact Dermatitis Due To Eucalyptus Oil. | Indian J Dermatol Venereol Leprol
+- new | 1983 | 6668613 | Research Support, Non-U.S. Gov't | Effects of microsomal enzyme induction on the toxicity of pyrrolizidine (Senecio) alkaloids. | J Toxicol Environ Health
+- new | 1980 | 7436478 | Case Reports | Eucalyptus oil poisoning. | Arch Dis Child
+- new | 1965 | 5862649 | Case Reports | Scroggie JG: Eucalyptus oil poisoning treated by dialysis and mannitol infusion, with an appendix on the analysis of biological fluids for alcohol and eucalyptol. | Australas Ann Med
+- new | 1911 | 20765463 |  | Eucalyptus Oil Poisoning. | Br Med J
+- new | 1898 | 29001734 |  | Eucalyptus Oil Poisoning. | Ind Med Gaz
+
+### PubMed OBS - 11 hits, 4 not already listed above, 4 new
+- new | 2026 | 43029030 |  | Ethnobotanical Knowledge, Quality Assessment, and Phytochemical Evaluation of Medicinal Plants Used for Respiratory Ailments at Gamarra Market, Lima, Peru. | Plants (Basel)
+- new | 2023 | 37658427 |  | Ethnobotanical study of nutraceutical plants used to manage opportunistic infections associated with HIV/AIDS in Acholi sub-region, Northern Uganda. | Trop Med Health
+- new | 2009 | 20033454 | Research Support, Non-U.S. Gov't | The relationship of the female reproductive success of Eucalyptus globulus to the endogenous properties of the flower. | Sex Plant Reprod
+- new | 2007 | 17284205 | Comparative Study/Research Support, Non-U.S. Gov't | Detection and visualization of spatial genetic structure in continuous Eucalyptus globulus forest. | Mol Ecol
+
+### PubMed REV - 41 hits, 19 not already listed above, 18 new
+- new | 2026 | 42882446 | Review | 1,8-Cineole (Eucalyptol) in Neurodegeneration: From Pharmacological Mechanisms to Therapeutic Applications. | Cells
+- new | 2025 | 40153080 | Review | The comprehensive review of eucalyptol: synthesis, metabolism, and therapeutic applications in disease treatment. | Mol Biol Rep
+- new | 2025 | 39885809 | Review | Multifaceted Action of 1,8-Cineole in Antibacterial and Anti-inflammatory Treatment of Respiratory Tract Diseases. | Otolaryngol Pol
+- new | 2024 | 39937641 | Review | 1,8-cineole (eucalyptol) in a therapy of respiratory diseases. | Ceska Slov Farm
+- new | 2024 | 37165499 | Review | The Fate of 1,8-cineole as a Chemical Penetrant: A Review. | Curr Drug Deliv
+- new | 2023 | 37696087 | Review | 1,8-cineole (eucalyptol): A versatile phytochemical with therapeutic applications across multiple diseases. | Biomed Pharmacother
+- new | 2023 | 37918148 | Review | Eucalyptol alleviates avermectin exposure-induced apoptosis and necroptosis of grass carp hepatocytes by regulating ROS/NLRP3 axis. | Aquat Toxicol
+- new | 2023 | 37446535 | Review | Eucalyptus globulus Mediated Green Synthesis of Environmentally Benign Metal Based Nanostructures: A Review. | Nanomaterials (Basel)
+- new | 2023 | 36660273 | Review | Ethiopian Medicinal Plants Used for Respiratory Tract Disorders: Ethnomedicinal Review. | Evid Based Complement Alternat Med
+- new | 2022 | 36326108 | Review/Research Support, Non-U.S. Gov't | Biobased polymer resources and essential oils: a green combination for antibacterial applications. | J Mater Chem B
+- new | 2022 | 36255020 | Review/Research Support, Non-U.S. Gov't | Prospects of Botanical Compounds and Pesticides as Sustainable Management Strategies Against Spodoptera frugiperda. | J Econ Entomol
+- new | 2022 | 36014186 | Review | Chitosan Nanoparticle Encapsulation of Antibacterial Essential Oils. | Micromachines (Basel)
+- new | 2021 | 33111547 | Review | 1,8-Cineole: a review of source, biological activities, and application. | J Asian Nat Prod Res
+- new | 2021 | 34443521 | Review | Can Eucalyptol Replace Antibiotics? | Molecules
+- new | 2021 | 35273578 | Review | Nano-Antibacterials Using Medicinal Plant Components: An Overview. | Front Microbiol
+- new | 2021 | 34371571 | Review | Chemical Composition and Nematicidal Properties of Sixteen Essential Oils-A Review. | Plants (Basel)
+- new | 2020 | 33071794 | Review | COVID-19: Is There Evidence for the Use of Herbal Medicines as Adjuvant Symptomatic Therapy? | Front Pharmacol
+- new | 2016 | 27427817 | Review | Essential Oils, Part III: Chemical Composition. | Dermatitis
+- HELD REF-0256 | 2010 | 20359267 | Research Support, Non-U.S. Gov't/Review | Immune-modifying and antimicrobial effects of Eucalyptus oil and simple inhalation devices. | Altern Med Rev
+
+### ClinicalTrials.gov - 72 registered studies
+- NCT06104332 | COMPLETED | results=False |  | PMCF to Assess Real-life Usage Effectiveness, Safety and Patient Satisfaction of a Range of Hypertonic Seawater-based Decongestant Nasal Spr | conds: Allergic Rhinitis, URTI | intr: ProRhinel Naturel spray nasal/ Allergic rhinitis, ProRhinel EXTRA Eucalyptus spray nasal, RESPIMER E
+- NCT07122037 | ACTIVE_NOT_RECRUITING | results=False | NA | Mechanical and Sensorial Training in the Olfactive Rehabilitation of Patients With Total Laryngectomy | conds: Cognitive Aging, Hyposmia, Total Laryngectomy | intr: DosMedical Smell Training Set, Nasal Airflow Inducing Maneuver
+- NCT03963076 | UNKNOWN | results=False | NA | Efficacy of Nasal Spray Hypertonic Puressentiel on Symptoms of Allergic Rhinitis | conds: Allergic Rhinitis | intr: nasal hypertonic spray: combination of hypertonic sea water and organic rosemary floral water with e
+- NCT05912881 | COMPLETED | results=False | NA | Chemosensory Dysfunction and Recovery in Endoscopic Endonasal Skull Base Surgery | conds: Anosmia, Skull Base Neoplasms | intr: Olfactory training, Placebo training
+- NCT01684371 | COMPLETED | results=False |  | The Effects of Elmore Oil on Patients With Osteoarthritis | conds: Degenerative Arthritis, Inflammation | intr: Two oily solutions (Blue Dotted and Orange Dotted Elmore Oils)
+- NCT06779786 | COMPLETED | results=False | NA | The Effect of Aromatherapy Applied to Intensive Care Nurses on Tension-Type Headache | conds: Headache, Tension | intr: Group 1 (Aromatherapy Groups):, Group 2 (Aromatherapy Groups):, Group 3 (Placebo Control Group)
+- NCT03049358 | TERMINATED | results=False | NA | Olfactory Training in Improving Sense of Smell After Radiation Therapy in Patients With Paranasal Sinus or Nasopharyngeal Cancer | conds: Stage 0 Nasopharyngeal Carcinoma, Stage 0 Paranasal Sinus Cancer, Stage I Nasopharyngeal Carcinoma, Stage I Paranasal Sinus Cancer | intr: Physiologic Testing, Quality-of-Life Assessment, Sham Intervention, Therapeutic Procedure
+- NCT03708120 | COMPLETED | results=False | NA | Determining the Complete Protection Time of an Insect Repellent With 30% Citriodiol® Against Three Species of Ticks. | conds: Tick Bites | intr: Citrepel (Insect Repellent) EPA Reg. No. 84878-2
+- NCT05855369 | RECRUITING | results=False | PHASE2,PHASE3 | Study of Chemosensory Enhancement Through Neuromodulation Training (SCENT for Long COVID) | conds: Smell Dysfunction, Olfactory Disorder, Long COVID | intr: Trigeminal Nerve Stimulation (TNS), Active Smell Training (ST), Placebo Smell Training (PBO)
+- NCT05363956 | COMPLETED | results=False | PHASE1 | Antiplaque Efficacy of Two Novel Commercially Available Herbal Toothpastes. | conds: Gingivitis, Plaque, Dental | intr: salvadora, Eucalyptus Oil
+- NCT02488018 | COMPLETED | results=True | EARLY_PHASE1 | Investigation of the Glycemic Index of Ethiopian Honey | conds: Hyperglycemia, Postprandial | intr: Provision of experimental honey
+- NCT00610779 | COMPLETED | results=False | PHASE1,PHASE2 | Treatment of Acute Rhino-Sinusitis With Essential Oils of Aromatic Plants | conds: Rhino-Sinusitis | intr: mixture of aromatic essential oils., placebo
+- NCT00611390 | COMPLETED | results=False | PHASE1,PHASE2 | Treatment of Acute Tracheitis and Laryngitis With Essential Oils of Aromatic Plants | conds: Viral Laryngitis, Viral Tracheitis | intr: mixture of aromatic essential oils., placebo
+- NCT04598763 | UNKNOWN | results=False | NA | Evaluation of Two Methods of Olfactory Rehabilitation in Post-viral Loss of Smell: Classic and Intensive | conds: Olfaction Disorders | intr: smell the odors of the olfactory rehabilitation kit according to the classic or intensive method
+- NCT01575821 | COMPLETED | results=False | NA | The Effect of Honey on Nocturnal Cough and Sleep Quality | conds: Cough, Sleep | intr: Eucalyptus honey, Labiatae honey, Citrus honey, Silan date extract | pubs: ['22869830:DERIVED (new)']
+- NCT03016221 | COMPLETED | results=True | NA | Local Changes of Skin Characteristics After an Application of a Topical Product With a Warming or Cooling Effect | conds: Healthy | intr: Axanova hot gel, Axanova activ gel, Perskindol Dolo Gel, Perskindol Classic Gel | pubs: ['38706945:RESULT (new)']
+- NCT06327633 | COMPLETED | results=False | NA | Effects of Olfactory Training on the Brain Function in T2DM Patients With Mild Cognitive Impairment | conds: Type 2 Diabetes Mellitus, Mild Cognitive Impairment | intr: Olfactory Training | pubs: ['29500313:RESULT (new)', '31221697:RESULT (new)']
+- NCT07221123 | RECRUITING | results=False | PHASE2 | Boosting Olfactory and Sensory Training Study (BOOST) | conds: HIV (Human Immunodeficiency Virus) | intr: Conventional Smell Training Group, Scented Marker Group | pubs: ['36406043:RESULT (new)', '16863045:RESULT (new)', '36725781:RESULT (new)', '31259847:RESULT (new)', '30676359:RESULT (new)']
+- NCT06829706 | RECRUITING | results=False | NA | The Efficacy of Modified Olfactory Training Method for Patients With Post-viral Olfactory Dysfunction | conds: Olfactory Dysfunction, Post Viral Olfactory Dysfunction (PVOD) | intr: Conventional olfactory training device, Modified olfactory training device, Conventional olfactory t | pubs: ['41436263:DERIVED (new)']
+- NCT05175521 | COMPLETED | results=False | NA | Inhaled IAV vs Inhaled Eucalyptus for the Treatment of Nausea With Acute Migraine | conds: Migraine | intr: Eucalyptus Oil Scent, Isopropyl Alcohol Vapors
+- NCT07103460 | NOT_YET_RECRUITING | results=False | NA | Essential Oil-Assisted Respiratory Training in Type 2 Diabetic Patients With Lung Infections | conds: Type 2 Diabetes Mellitus (T2DM), Pulmonary Infections, Pneumonia | intr: Essential Oil Diffusion Combined with Respiratory Training
+- NCT07093138 | RECRUITING | results=False | PHASE4 | Evaluation of Efficacy and Safety of Topical Cannabidiol (Canvert-M Produced by Alasht Pharmed co. Iran) in the Treatment of Migraine Attack | conds: Migraine Disorders | intr: Canvert-M (Produced by Alasht Pharmed co. Iran)
+- NCT02637336 | COMPLETED | results=False | NA | Study to Investigate Effects of Different Therapies for the Treatment of Hypertension | conds: Hypertension | intr: Acupuncture, Aerobic exercise, Aromatherapy
+- NCT06488807 | RECRUITING | results=False | NA | Treatment of Perioperative Neurocognitive Disorders With Olfactory Enrichment | conds: Perioperative Neurocognitive Disorder | intr: Olfactory Enrichment, Sham | pubs: ['41013688:DERIVED (new)']
+- NCT02100605 | COMPLETED | results=False | NA | Study on Hypertonic Saline Nasal Spray | conds: Nasal Congestion | intr: Phytosun, decongestant, nasal spray
+- NCT07151703 | RECRUITING | results=False | PHASE3 | Topical Versus Injection PRP for Olfactory Dysfunction | conds: Olfactory Dysfunction, Anosmia, Hyposmia | intr: Intranasal Injection of Autologous PRP, Carrier-Assisted Topical Application of Autologous PRP, plat
+- NCT00743990 | COMPLETED | results=False | NA | Effect of Effect of a Medicated Topical Therapy , Petrolatum, and No Treatment on Nocturnal Cough | conds: Respiratory Tract Diseases | intr: Ointment containing camphor, eucalyptus oil, and menthol, Petroleum jelly | pubs: ['21059712:DERIVED (new)']
+- NCT04764981 | UNKNOWN | results=False | NA | Olfactory Training for Olfactory Dysfunction After Coronavirus Disease - 19 (COVID-19) | conds: Covid19, SARS-CoV Infection, Olfactory Disorder, Anosmia | intr: Essence oils
+- NCT03441074 | COMPLETED | results=False | NA | Olfactory Function and Delayed Neurocognitive Recovery | conds: Delayed Neurocognitive Recovery | intr: Odor Enrichment
+- NCT06148662 | COMPLETED | results=False | PHASE4 | The Effect of Oral Sprays on Salivary pH | conds: Oral Health | intr: No intervention (negative control), Water (positive control), Dental foam "Biorepair PERIBIOMA", Den | pubs: ['38668005:DERIVED (new)']
+- NCT05729204 | COMPLETED | results=False | NA | Washing COVID-19 Away With a Hypertonic Seawater Nasal Irrigation Solution | conds: SARS-CoV2 Infection | intr: Hypertonic seawater solution
+- NCT02656004 | COMPLETED | results=False | NA | Essential Oil of Eucalyptus Effect on Cardiovascular Responses | conds: Hypertension | intr: Essential Eucalyptus Oil, Control Session
+- NCT04374474 | WITHDRAWN | results=False | PHASE4 | Anosmia Rehabilitation in Patients Post Coronavirus Disease (COVID 19) | conds: Olfactory Disorder | intr: Olfactory retraining, corticosteroid nasal irrigation, smell household Items, Nasal Irrigation
+- NCT06295874 | UNKNOWN | results=False | NA | The Effect of Aromatherapy Massage on Pain, Anxiety and Comfort | conds: Respiratory Insufficiency, Pulmonary Disease, Chronic Obstructive, Diabetes Mellitus, Type 2, High Blood Pressure | intr: Effect of aromatherapy massage on vital signs, pain, anxiety and comfort level
+- NCT05199623 | COMPLETED | results=False | NA | The Effect of Chinese Herbal Medicine as an Adjuvant Therapy in the Treatment of Traumatic Anosmia | conds: Traumatic Anosmia | intr: tailored Guizhi decoction, Olfactory training (OT)
+- NCT06142994 | COMPLETED | results=False | NA | Treatment of Adults With Acute Bronchitis in the Primary Healthcare Setting | conds: Acute Bronchitis | intr: Atusin CAP, Placebo | pubs: ['41034950:DERIVED (new)']
+- NCT07518394 | COMPLETED | results=False | PHASE4 | Oral Essential Oils Efficacy in Acute Respiratory Symptoms | conds: Respiratory Inflammation | intr: essential oils of eucalyptus, thyme, cinnamon, lavender, winter savory, tea tree, camphor tree, plac
+- NCT00610519 | COMPLETED | results=False | PHASE1,PHASE2 | Treatment of Acute Pharyngo-Tonsillitis With Essential Oils of Aromatic Plants | conds: Viral Pharyngitis, Viral Tonsillitis | intr: mixture of aromatic essential oils., placebo
+- NCT04710394 | COMPLETED | results=False | NA | Visual-OLfactory Training in Participants With COVID-19 Resultant Loss of Smell | conds: Anosmia, Covid19, Ageusia, Hyposmia | intr: Smell Training | pubs: ['36580304:DERIVED (new)']
+- NCT03287011 | UNKNOWN | results=False | NA | Efficacy of a Plaque Disclosing Toothpaste on Home Oral Hygiene Procedures | conds: Chronic Gingivitis, Plaque Induced | intr: Shoplaq toothpaste, Colgate toothpaste
+- NCT04952389 | COMPLETED | results=True | NA | Acupuncture Therapy for COVID-Related Olfactory Loss | conds: Olfactory Dysfunction, COVID-19 | intr: Acupuncture Therapy, Budesonide, Olfactory Training
+- NCT02422576 | COMPLETED | results=False | NA | Efficacy of Natural Ingredient to Improve the Swallowing Response of Patients With Oropharyngeal Dysphagia | conds: Dysphagia | intr: cinnamon extract, lemon extract, lemon extract plus eucalyptus extract, Thicken Up clear: TUC
+- NCT04866407 | TERMINATED | results=True | NA | Topical Eucalyptus Globulus and Mentha x Piperita on Muscle Soreness in Older Adults and the Elderly | conds: Muscle Soreness | intr: Mentha x piperita, Eucalyptus globulus
+- NCT05364125 | RECRUITING | results=False | NA | Olfactory Training on Smell Dysfunction Patients in HK | conds: Olfaction Disorders, Smell Disorders, Anosmia, Hyposmia | intr: Olfactory Training, Control
+- NCT06290219 | UNKNOWN | results=False | PHASE3 | The Effect of Platelet-rich Plasma Nasal Injection in the Treatment of Traumatic Olfactory Dysfunction | conds: Traumatic Olfactory Nerve Injury With Anosmia (Diagnosis), Effect of Drug | intr: platelet-rich plasma combined with hyaluronic acid, Zinc Gluconate 10 MG Oral Tablet, 4 bottles of p
+- NCT06733636 | RECRUITING | results=False | NA | Scents of Progress: Leveraging a Novel Device for Olfactory Training in Older Adults | conds: Olfactory Dysfunction, Smell Loss, Anosmia, Hyposmia | intr: Sudoku Puzzles, ScentCare (Olfactory Training Device)
+- NCT05398965 | COMPLETED | results=False | PHASE2 | Eucalyptus Oil as Adjuvant Therapy for Coronavirus Disease 19 (COVID-19) | conds: COVID-19 | intr: Eucalyptus Oil, Standard COVID medication
+- NCT04093128 | UNKNOWN | results=False | NA | Investigate Beneficial Effect of Herbal Tea in Jordanian Adults | conds: Diet, Healthy | intr: herbal tea intervention
+- NCT04703673 | COMPLETED | results=False |  | Sinolpan® Pharmacy Non-interventional Study - Quality of Live | conds: Rhinosinusitis Acute, Rhinosinusitis Chronic, Bronchitis | intr: Cineole, Nasal Decongestant
+- NCT00299559 | COMPLETED | results=False | PHASE1 | Kinetics of Etheric Oils, Smart Textiles vs. Ointment | conds: Common Cold | intr: smart textiles containing menthol, camphor, cineol
+- NCT03449303 | COMPLETED | results=False | NA | Chemotherapy-Induced Peripheral Neuropathy-Essential Oil Intervention | conds: Breast Cancer, Peripheral Neuropathies | intr: EOI, Placebo
+- NCT05037110 | UNKNOWN | results=False | NA | Physical Activity and Smell Trainings to Help Individuals With Coronavirus Disease (COVID-19) Recover From Persistent Smell and Taste Impair | conds: Covid19 | intr: Physical activity, Smell training
+- NCT07119840 | COMPLETED | results=False | NA | Comparison Of Clinical Effects Of Listerine And Chlorhexidine Mouth Wash In Patients Undergoing Fixed Orthodontic Treatment | conds: Gingivitis, Dental Plaque | intr: Listerine Mouthwash Product, Chlorhexidine mouthwash | pubs: ['42836614:DERIVED (new)']
+- NCT02874963 | UNKNOWN | results=False | NA | FM-SRP and Tooth Extraction Improve Type 2 Diabetes Mellitus in Periodontitis | conds: Periodontitis, Type 2 Diabetes Mellitus | intr: Surgical Periodontal Treatment, Non Surgical Periodontal Treatment includes scaling root planing wit
+- NCT03468595 | COMPLETED | results=False | NA | Clinical Evaluation of Some Local Antimicrobial Agents' Adjunctive Effects On Periodontal Parameters and Halitosis | conds: Halitosis | intr: ultrasonic (Piezon Master 700) performed with Listerine, ultrasonic (Piezon Master 700) performed wi
+- NCT05384561 | RECRUITING | results=False | NA | Olfactory Training as a Treatment for Olfactory Dysfunction Post COVID-19 | conds: Hyposmia, COVID-19, Parosmia, Anosmia | intr: Smell training
+- NCT04966507 | COMPLETED | results=True | PHASE2 | Antibacterial Mouthwash for Pharyngeal Gonorrhea Prevention | conds: Gonorrhea | intr: Listerine Antiseptic Mouthwash Product, Biotene Mouthwash
+- NCT01119534 | UNKNOWN | results=False | PHASE3 | Comparative Efficacy of the Suppository Versus Guaiacol Suppository Versus Guaifenesin Syrup in Pediatric Patients With Cough Due the Infect | conds: Cough | intr: Guaiacol, eucalyptol, menthol and camphor suppository, guaiacol suppository, Guaifenesin syrup
+- NCT04511897 | UNKNOWN | results=False | PHASE4 | Efficacy and Safety of An'Ningpai Expectorant in Non-CF Bronchiectasis | conds: Bronchiectasis Adult | intr: An'ningpai
+- NCT04994262 | COMPLETED | results=False | NA | The Effect on Thirst, Nausea-Vomiting and Comfort Levels of Menthol Lozenge Applied After Extubation | conds: Nausea, Vomiting, Thirst | intr: Menthol Lozenge
+- NCT06772506 | COMPLETED | results=False | NA | Minimally Invasive Non-surgical Therapy for the Treatment of Splinted Stage IV Periodontitis | conds: Periodontitis, Stage IV Periodontitis, Minimally Invasive Treatment, Splints | intr: Non Surgical Periodontal Treatment includes post operative mouth wash with Listerine® (ethanol 21.6% | pubs: ['42249403:DERIVED (new)']
+- NCT06742398 | COMPLETED | results=False | NA | Carbohydrates and Running Performance | conds: Nutrition, Healthy | intr: Carbohydrate Dissolvable Strip, Carbohydrate Mouth Rinse, Water Mouth Rinse
+- NCT03179735 | UNKNOWN | results=False | PHASE4 | Mouthwashes During Orthodontic Treatment | conds: Gingivitis | intr: Essential oils, Cetylpyridinium Chloride 0.7 mg/ml, Placebos
+- NCT05002192 | UNKNOWN | results=False |  | A Retrospective, Real-world Study of ELP Used in the Expectorant Treatment of Community-acquired Pneumonia | conds: Community-acquired Pneumonia | intr: Eucalyptol, Limonene and Pinene Enteric Soft Capsule, Ambroxol injection, Other oral mucolytic drugs
+- NCT04896294 | COMPLETED | results=False | PHASE4 | Ca-hydroxyapatite, Fluoroapatite, and Mg-Zn-hydroxyapatite for Dentin Hypersensitivity Management | conds: Dentin Hypersensitivity | intr: Hygienic procedure (toothbrushing using HAP-containing toothpaste), Hygienic procedure (toothbrushin
+- NCT07364565 | RECRUITING | results=False | NA | The Antiplaque and Antigingivitis Effect of Pure Green Tea Mouth Wash Compared to Placebo and Essential Oils Mouth Washes | conds: Dental Plaque, Patient Reported Outcome, Gingival Inflammation and Bleeding, Gingival Inflammation | intr: Pure Green Tea Mouthwash, Listerine Total Care Mouthwash, Listerine Green Tea Mouthwash, Placebo Mou
+- NCT06503029 | UNKNOWN | results=False | PHASE4 | Evaluate Cytotoxicity, Leaching, and Structural Conformation of Clear Aligners | conds: Malocclusion, Cytotoxicity | intr: Invisalign Cleaning Crystals, Fittey Dent Cleaning Tablet, Listeren Mouthwash, Toothbrush and Water
+- NCT02581397 | TERMINATED | results=False | PHASE3 | Transpulmin Suppository and Guaiacol Compared to Transpulmin Syrup in Pediatric Participants With Productive Cough | conds: Cough | intr: Transpulmin suppository, Guaiacol suppository, Transpulmin syrup
+- NCT07339670 | COMPLETED | results=False | NA | Study of Gum Tissue Proteins in Smokers vs. Non-smokers After Cleaning | conds: Smoking ( Cigarette), Periodontitis Stage II | intr: Non Surgical Periodontal Treatment includes post operative mouth wash with Listerine® (ethanol 21.6%
+- NCT03330639 | WITHDRAWN | results=False | NA | Capsaicin in Treatment of Rhinogenic Headache | conds: Headache Disorders | intr: Capsaicin, Placebo
+- NCT02123563 | COMPLETED | results=False | PHASE4 | Mechanical-chemical Gingival Therapy in Diabetics and/or Obese | conds: Gingivitis, Diabetes, Obesity | intr: Ultrason Essential oils rinse, Ultrason Placebo rinse
+- NCT06066307 | UNKNOWN | results=False | PHASE4 | Olfactory Performance in Culinary Arts Students | conds: Loss of Smell, Olfactory Disorder | intr: Olfactory training
+
+### OpenAlex no-PMID trial-worded - 3581 hits, 71 without PMID, 71 new
+- new | 2026 | https://openalex.org/W7221296037 | dissertation | Pyrolysis of juvenile and mature Eucalyptus globulus: a comparative study using conventional pyrolysis and preliminary microwave-assisted trials | UCrea (University of Cantabria)
+- new | 2023 | 10.3390/f14101958 | article | How Weed Control Affects Eucalyptus globulus Labill. Productivity: Results from Two Long-Term Trials | Forests
+- new | 2023 | 10.47391/jpma.iq-16 | article | The effectiveness of eucalyptus globulus and thymus vulgaris in reducing COVID-19 symptoms among COVID-19 patients at Al- Nasiriya City | Journal of the Pakistan Medical Associat
+- new | 2022 | 10.4067/s0719-81322022000200083 | article | Evaluation of the efficacy of essential oils of Lavandula angustifolia and Eucalyptus globulus for the control of Varroa destructor in Apis mellifera: A randomised field study | Austral journal of veterinary sciences
+- new | 2021 | 10.1016/j.chnaes.2021.10.011 | article | Cultural belief and medicinal plants in treating COVID 19 patients of Western Colombia | Acta Ecologica Sinica
+- new | 2016 | https://openalex.org/W3127558323 | article | Monitoring of biosolid application trials in Eucalyptus globulus plantation, in Central Chile. | Revista de la Facultad de Ciencias Agrar
+- new | 2016 | https://openalex.org/W2562755809 | article | Evaluación de la aplicación de biosólidos en plantaciones de eucalyptus globulus, en Chile Central - Monitoring of biosolid application trials in eucalyptus globulus plantation, in | Revista de la Facultad de Ciencias Agrar
+- new | 2016 | 10.3183/npprj-2016-31-02-p341-346 | article | Papermaking trials in a pilot paper machine with a new silica coated PCC filler | Nordic Pulp & Paper Research Journal
+- new | 2015 | 10.1007/s13595-014-0450-9 | article | Genetic control of Eucalyptus globulus seed germination | Annals of Forest Science
+- new | 2015 | 10.1139/cjfr-2014-0428 | article | Genetic control of Eucalyptus globulus harvest traits | Canadian Journal of Forest Research
+- new | 2012 | 10.1007/s11295-011-0461-8 | article | Genetic variation in the susceptibility of Eucalyptus globulus to drought damage | Tree Genetics & Genomes
+- new | 2011 | 10.30476/dentjods.2019.43591 | article | Inhibitory Activity of Cinnamon Zeylanicum and Eucalyptus Globulus Oils on Streptococcus Mutans, Staphylococcus Aureus, and Candida Species Isolated from Patients with Oral Infecti | Journal of Dentistry
+- new | 2010 | 10.3136/fstr.16.509 | article | Lowering of Postprandial Hyperfructosemia in Humans by Eucalyptus Leaf Extract: A Randomized, Double-blind, Placebo-controlled Crossover Study | Food Science and Technology Research
+- new | 2010 | 10.1051/forest/2010019 | article | Genetic variation and parental performance under inbreeding for growth in Eucalyptus globulus | Annals of Forest Science
+- new | 2009 | https://openalex.org/W2339529991 | conference-paper | Modeling wood quality using random regression splines | UC Research Repository  (University of C
+- new | 2009 | 10.1016/j.foreco.2009.11.036 | article | A generalized nonlinear mixed-effects height–diameter model for Eucalyptus globulus L. in northwestern Spain | Forest Ecology and Management
+- new | 2009 | 10.1007/s11295-009-0222-0 | article | QTL influencing growth and wood properties in Eucalyptus globulus | Tree Genetics & Genomes
+- new | 2009 | 10.1007/s11295-009-0239-4 | article | Age trends in genetic parameters for growth and wood density in Eucalyptus globulus | Tree Genetics & Genomes
+- new | 2009 | 10.1007/s11274-009-9961-1 | article | Root-promoting rhizobacteria in Eucalyptus globulus cuttings | World Journal of Microbiology and Biotec
+- new | 2008 | 10.1007/s11295-008-0174-9 | article | Genetic parameters for growth, wood density and pulp yield in Eucalyptus globulus | Tree Genetics & Genomes
+- new | 2008 | 10.1007/s00226-008-0206-5 | article | Wood anatomy and biometric parameters variation of Eucalyptus globulus clones | Wood Science and Technology
+- new | 2007 | 10.1016/j.agee.2007.07.012 | article | Appraisal of random and systematic land cover transitions for regional water balance and revegetation strategies | Agriculture Ecosystems & Environment
+- new | 2007 | 10.1007/s11295-007-0090-4 | article | Detection and stability of quantitative trait loci (QTL) in Eucalyptus globulus | Tree Genetics & Genomes
+- new | 2007 | 10.52904/0718-4646.2007.285 | article | Ensayos de hibridación artificial OSP en Eucalyptus globulus y E. camaldulensis con especies tolerantes al déficit hídrico = Pollination trials using OSP technique on Eucalyptus gl | Ciencia & Investigación Forestal
+- new | 2007 | 10.1016/j.foreco.2007.09.028 | article | Effects of harrowing and fertilisation on understory vegetation and timber production of a Eucalyptus globulus Labill. plantation in Central Portugal | Forest Ecology and Management
+- new | 2006 | 10.1007/s11104-005-3228-x | article | Effects of Changing the Supply of Nitrogen and Phosphorus on Growth and Interactions between Eucalyptus globulus and Acacia mearnsiiin a Pot trial | Plant and Soil
+- new | 2006 | 10.2524/jtappij.60.476 | article | Clonal Plantation of Eucalyptus globulus-Selection of Plus Trees and Trial Plantation- | JAPAN TAPPI JOURNAL
+- new | 2006 | 10.1007/s11295-005-0025-x | article | Genotype by environment interaction for growth of Eucalyptus globulus in Australia | Tree Genetics & Genomes
+- new | 2006 | 10.1016/j.foreco.2006.05.018 | article | Carbon allocation in a mixed-species plantation of Eucalyptus globulus and Acacia mearnsii | Forest Ecology and Management
+- new | 2005 | 10.5424/srf/2005142-00882 | article | Initial density effect on Eucalyptus globulus growth in a Nelder modified trial | Forest Systems
+- new | 2005 | 10.1051/forest:2005010 | article | Across-site heterogeneity of genetic and environmental variances in the genetic evaluation of Eucalyptus globulus trials for height growth | Annals of Forest Science
+- new | 2005 | 10.1515/sg-2005-0024 | article | Genetic Variation of Physical and Chemical Wood Properties of Eucalyptus globulus | Silvae genetica/Silvae Genetica
+- new | 2005 | 10.1016/j.foreco.2005.01.012 | article | On the success and failure of mixed-species tree plantations: lessons learned from a model system of Eucalyptus globulus and Acacia mearnsii | Forest Ecology and Management
+- new | 2005 | 10.1007/s00226-005-0012-2 | article | Effect of thinning and fertilizer on the cellulose crystallite width of Eucalyptus globulus | Wood Science and Technology
+- new | 2005 | 10.1051/forest:2005090 | article | Comparison between field performance of cuttings and seedlings of Eucalyptus globulus | Annals of Forest Science
+- new | 2004 | https://openalex.org/W2097107762 | conference-paper | EXPLORATION OF THE EUCALYPTUS GLOBULUS GENE POOL | UTAS Research Repository
+- new | 2004 | 10.1139/x03-243 | article | Aboveground interactions and productivity in mixed-species plantations of Acacia mearnsii and Eucalyptus globulus | Canadian Journal of Forest Research
+- new | 2003 | 10.2524/jtappij.57.68 | article | Trial Plantation of Eucalyptus globulus Using Clonal Technology in Australia | JAPAN TAPPI JOURNAL
+- new | 2003 | 10.1139/x03-132 | article | Maternal and carryover effects on early growth of Eucalyptus globulus | Canadian Journal of Forest Research
+- new | 2003 | https://openalex.org/W629945285 | conference-paper | Increasing yield in commercial Eucalyptus globulus plantations by chemical control of pests and pathogens -trial results at age three years | Murdoch University Research Portal
+- new | 2003 | 10.1071/bt02049 | article | Genetic control of coppice and lignotuber development in Eucalyptus globulus | Australian Journal of Botany
+- new | 2003 | 10.1079/9780851996936.0097 | conference-paper | GLOBTREE: an individual tree growth model for Eucalyptus globulus in Portugal. | CABI Publishing eBooks
+- new | 2002 | https://openalex.org/W2270313362 | article | Genetic variation and inter-trait correlations in Eucalyptus globulus base population trials in Argentina | UTAS Research Repository
+- new | 2002 | 10.1051/forest:2002024 | article | Variation of pulpwood quality with provenances and site in Eucalyptus globulus | Annals of Forest Science
+- new | 2002 | 10.1046/j.1461-9563.2002.00127.x | article | Variation in insect damage and growth in Eucalyptus globulus | Agricultural and Forest Entomology
+- new | 2002 | 10.1139/x02-118 | article | Genetic resistance of Eucalyptus globulus to autumn gum moth defoliation and the role of cuticular waxes | Canadian Journal of Forest Research
+- new | 2002 | 10.1016/s0378-1127(01)00802-7 | article | Models of potential height and diameter for Eucalyptus globulus in Portugal | Forest Ecology and Management
+- new | 2002 | 10.1016/s0378-1127(02)00463-2 | article | Influence of soil and organic residue management on biomass and biodiversity of understory vegetation in a Eucalyptus globulus Labill. plantation | Forest Ecology and Management
+- new | 2001 | 10.21825/sg.v66i0.820 | article | Results of a forest species trial in an arboretum of North Greece | Silva Gandavensis
+- new | 2001 | 10.1163/22941932-90000281 | article | THE ASSOCIATION BETWEEN CELLULOSE CRYSTALLITE WIDTH AND TENSION WOOD OCCURRENCE IN EUCALYPTUS GLOBULUS | IAWA Journal - KU Leuven/IAWA Journal
+- new | 2001 | 10.1515/hf.2001.044 | article | Determination of Monosaccharide Composition of Eucalyptus globulus Wood by FTIR Spectroscopy | Holzforschung
+- new | 2000 | 10.1139/x99-186 | article | Effect of fertilizer on wood properties of Eucalyptus globulus | Canadian Journal of Forest Research
+- new | 2000 | 10.1016/s0168-1923(99)00139-2 | article | Photographic exposure affects indirect estimation of leaf area in plantations of Eucalyptus globulus Labill | Agricultural and Forest Meteorology
+- new | 2000 | 10.1071/bt99038 | article | Quantitative genetic evidence that the timing of vegetative phase change in Eucalyptus globulus ssp. globulus is an adaptive trait | Australian Journal of Botany
+- new | 1999 | 10.1071/bt97114 | article | Geographic Patterns of Genetic Variation in Eucalyptus globulus ssp. globulus and a Revised Racial Classification | Australian Journal of Botany
+- new | 1999 | 10.1071/bt97056 | article | Fine-scale Genetic Structure of Eucalyptus globulus ssp. globulus Forest Revealed by RAPDs | Australian Journal of Botany
+- new | 1998 | https://openalex.org/W2242636423 | article | Genetic variation in North Forest Products' Eucalyptus globulus ssp. globulus base population trials | UTAS Research Repository
+- new | 1997 | 10.1016/s0378-1127(96)03971-0 | article | Comparison of growth and nutrition of young monocultures and mixed stands of Eucalyptus globulus and Acacia mearnsii | Forest Ecology and Management
+- new | 1997 | https://openalex.org/W2117875534 | article | The genetic control of flowering precocity in Eucalyptus globulus ssp. globulus | UTAS Research Repository
+- new | 1997 | 10.1139/x96-210 | article | Mycosphaerella leaf disease: genetic variation in damage to Eucalyptus nitens, Eucalyptus globulus, and their F1 hybrid | Canadian Journal of Forest Research
+- new | 1997 | https://openalex.org/W965694611 | article | Genetic variation for growth and wood density in Eucalyptus globulus ssp. globulus in Tasmania (Australia) | UTAS Research Repository
+- new | 1996 | https://openalex.org/W2258147232 | article | Genetic analysis of survival in Eucalyptus globulus ssp. globulus | UTAS Research Repository
+- new | 1996 | 10.1016/0378-1127(95)03693-8 | article | The response of growth and foliar nutrients to fertilizers in young Eucalyptus globulus (Labill.) plantations in Gippsland, southeastern Australia | Forest Ecology and Management
+- new | 1995 | 10.25959/23230553 | dissertation | The use of Random Amplified Polymorphic DNA (RAPD) technology in Eucalyptus globulus | UTAS Research Repository
+- new | 1995 | 10.1038/hdy.1995.86 | article | Partitioning and distribution of RAPD variation in a forest tree species, Eucalyptus globulus (Myrtaceae) | Heredity
+- new | 1995 | 10.1016/0305-1978(94)00087-w | article | Analysis of leaf oils from a Eucalyptus species trial | Biochemical Systematics and Ecology
+- new | 1995 | 10.1007/bf00010124 | article | Diagnosis of nitrogen deficiency and toxicity of Eucalyptus globulus seedlings by foliar analysis | Plant and Soil
+- new | 1992 | https://openalex.org/W2738619154 | dissertation | Variation in eucalyptus globulus in susceptibility to Mycosphaerella leaf diseases | Minerva Access (University of Melbourne)
+- new | 1988 | 10.1080/00049158.1988.10676051 | article | Provenance trials of Eucalyptus globulus and related species in Tasmania | Australian Forestry
+- new | 1983 | https://openalex.org/W2430390636 | article | Southern California trial plantings of Eucalyptus | 
+- new | 1982 | 10.1071/bt9820265 | article | Biomass and Nutrient Accumulation in a Planted E. globulus (Labill.) Fertilizer Trial | Australian Journal of Botany
+
+## euphrasia-officinalis (Euphrasia officinalis) - name clause: "Euphrasia officinalis"[tiab] OR "Euphrasia rostkoviana"[tiab] OR "Euphrasia stricta"[tiab] OR "eyebright"[tiab] OR "Euphrasia"[ti]
+
+### PubMed HT - 5 hits, 5 not already listed above, 5 new
+- new | 2026 | 41793368 | Randomized Controlled Trial | Intraocular Lens Stability in Eyes With ⩾ 30 mm Axial Length With Two Sizes of Capsular Tension Rings. | J Refract Surg
+- new | 2020 | 32850558 |  | Euphrasia Eye Drops in Preterm Neonates With Ocular Discharge: A Randomized Double-Blind Placebo-Controlled Trial. | Front Pediatr
+- new | 2018 | 29747366 | Multicenter Study/Randomized Controlled Trial | [A multicenter study of the effectiveness and safety of Toric intraocular lens implantation]. | Zhonghua Yan Ke Za Zhi [chi]
+- new | 2003 | 14501441 | Research Support, U.S. Gov't, P.H.S. | Review of complementary and alternative medicine in treatment of ocular allergies. | Curr Opin Allergy Clin Immunol
+- new | 2000 | 11152054 | Clinical Trial/Research Support, Non-U.S. Gov't | Prospective cohort trial of Euphrasia single-dose eye drops in conjunctivitis. | J Altern Complement Med
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 4 hits, 1 not already listed above, 1 new
+- new | 2025 | 40036825 | Review | Clinical Safety and Efficacy of Orthokeratology Contact Lenses With Toric Peripheral Curves: A Review of the Literature. | Eye Contact Lens
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 1 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 4 registered studies
+- NCT04122300 | COMPLETED | results=False | PHASE3 | Euphrasia Eye Drops in Preterm Infants With First Signs of Congestion of Nasolacrimal Duct | conds: Congenita Nasolacrimal Duct Obstruction, Preterm Neonates, Ocular Discharge | intr: Euphrasia Officinalis Preparation, Placebo | pubs: ['32850558:DERIVED (new)']
+- NCT01072526 | TERMINATED | results=True | PHASE2 | Pilot Study of a Homeopathic Therapy in Combination With Cyclosporin (Restasis) in the Treatment of Dry Eye Disease | conds: Dry Eye Syndromes | intr: Euphrasia-based homeopathic therapy, Cyclosporin solution
+- NCT02416128 | WITHDRAWN | results=False | NA | Use of Topical Euphrasia, a Homeopathic Remedy in Ophthalmology | conds: Iritis | intr: Euphrasia, Prednisolone acetate | pubs: ['14078870:RESULT (new)', '14078872:RESULT (new)', '6514289:RESULT (new)', '11152054:RESULT (new)']
+- NCT04880018 | COMPLETED | results=False | NA | Clinical Validation Plan of Capsular Tension Ring | conds: Intraocular Lens Implantation | intr: Capsular Tension Ring
+
+### OpenAlex no-PMID trial-worded - 63 hits, 46 without PMID, 46 new
+- new | 2026 | 10.4103/pajo.pajo_14_26 | article | Report of a series of cases on the topical ophthalmic use of a pharmaceutical preparation of Atropa belladonna and Euphrasia officinalis for the treatment of dry eye: A multicenter | The Pan-American Journal of Ophthalmolog
+- new | 2026 | 10.56975/ijvra.v4i9.710760 | article | Unblocking the Barrier: A Holistic Review of Homeopathic Therapeutics in the Management of Allergic Rhinitis | International Journal of Versatile Resea
+- new | 2026 | 10.5281/zenodo.21934943 | article | Homoeopathic Therapeutics of Allergic Rhinitis in Children: A Literature Review and Comparative Materia Medica of Commonly Indicated Medicines | Zenodo (CERN European Organization for N
+- new | 2026 | 10.69667/amj.26111 | article | An Evaluation of the Effectiveness of Natural Honey Drops Compared to Synthetic Drops in the Treatment of Allergic Conjunctivitis | Attahadi Medical Journal
+- new | 2026 | 10.7363/150106 | article | Low-dose medicines: scientific evidence and perspectives for developmental age • [Medicinali a basso dosaggio: basi scientifiche e prospettive per l’età evolutiva] [Article in Engl | Journal of pediatric and neonatal indivi
+- new | 2026 | 10.33545/26164485.2026.v10.i9h.3280 | article | Screen time among children: Purpose of use, positive and negative effects, and digital eye strain with a homoeopathic approach | International Journal of Homoeopathic Sc
+- new | 2025 | 10.51910/ijhdr.v25icf.1520 | article | Efficacy of homoeopathic preparation of Euphrasia officinalis as Eye Drops in management of dry eye syndrome: An Experimental Study | International Journal of High Dilution R
+- new | 2025 | 10.64778/jofacademic.23 | article | Pharmacology and Toxicology of Plant, Animal and Mineral Based Homeopathic Remed | Akademik Birlik Derneği
+- new | 2025 | 10.1002/efd2.70083 | article | Utilizing Cordyceps cicadae Mycelium as a Potential Supplement for Alleviating UVB‐Induced Photokeratitis Symptoms In Vivo | eFood
+- new | 2025 | https://openalex.org/W7169709814 | dissertation | ETHNOBOTANICAL SURVEYS IN LOMBARDY (ITALY): A MULTIDISCIPLINARY APPROACH TO STUDYING THE PAST TO IMPROVE THE FUTURE. | Archivio Istituzionale della Ricerca (Un
+- new | 2025 | 10.36582/rpvxf598 | article | The use of Matricaria chamomilla aqueous extract as a treatment of mouse eyes experimentally infected with Acanthamoeba Castellani | Al-Kunooze Scientific Journal
+- new | 2024 | https://openalex.org/W7215344025 | article | Tratamiento Homeopático y Prevención de la Covid-19: Protocolo de Investigación Clínica para Evaluar la Eficacia y la Seguridad de la Medicina del Genio Epidémico | La homeopatía de México
+- new | 2024 | 10.14748/vmf.v13i1.9793 | article | The potential of homeopathy for treating allergic rhinitis | Varna Medical Forum
+- new | 2024 | 10.31849/jip.v21i1.13333 | article | Study on Medicinal Forest Plants in Ifo, Ogun State, Nigeria, and Factors Shaping Usage Patterns | Jurnal Ilmiah Pertanian
+- new | 2024 | 10.37591/rrjoush.v11i02.157739 | article | Effective Homoeopathic Management of Allergic Rhinitis: A Case Series Utilizing Hepar Sulph 30 and Histamine 30 with Dietary Modifications | Research and Reviews A Journal of Unani 
+- new | 2024 | 10.33545/26164485.2024.v8.i3c.1206 | article | Insights on the clinical application of homeopathic treatment for allergic disorders | International Journal of Homoeopathic Sc
+- new | 2024 | 10.11606/t.60.2024.tde-19082025-103917 | dissertation | Desenvolvimento e caracterização de nanopartículas de ouro com própolis vermelha brasileira e avaliação de suas atividades antitumorais em modelos in vitro de câncer de próstata | Digital Library of Theses and Dissertati
+- new | 2023 | 10.5281/zenodo.7890864 | review | The Efficacy of Belladonna in the Management of Allergic Rhinitis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials | Zenodo (CERN European Organization for N
+- new | 2023 | 10.32598/cjns.9.33.396.1 | article | Potential Anti-inflammatory Activity of Brown Propolis Against Brain Ischemia Damage in Mice | Caspian Journal of Neurological Sciences
+- new | 2023 | 10.33545/26638266.2023.v5.i2b.164 | article | Prevalence of endemic acute viral conjunctivitis and its preventive and curative homeopathic management among the population of south Gujarat: A community based cross sectional stu | International Journal of Medical Ophthal
+- new | 2023 | 10.52845/jmrhs/2023-6-5 | article | In Vitro Effect of Aqueous Extract of Moringa Oliefera Plant on Acanthamoeba Spp. | Research Review
+- new | 2023 | 10.33545/26164485.2023.v7.i4g.1013 | article | Holistic homoeopathic approach to conjunctivitis: A natural path of healing | International Journal of Homoeopathic Sc
+- new | 2022 | 10.62773/jcocs.v3i3.180 | article | Floristic diversity of Threatened medicinal plants at two major reservoirs associated regions in Lahaul Valley, Western Himalayas, India | Journal of Current Opinion in Crop Scien
+- new | 2021 | 10.51910/ijhdr.v20i2-3.1062 | article | Survey COVID-19 first peak 2020 - Viewpoint of Belgian Homeopathic Medical Doctors. A retrospective observational survey | International Journal of High Dilution R
+- new | 2021 | 10.51910/ijhdr.v8i29.360 | article | Homeopathy: a preventive approach to medicine? | International Journal of High Dilution R
+- new | 2021 | 10.51415/10321/4009 | dissertation | Perceptions and management of paediatric allergies amongst registered homoeopathic practitioners in the greater eThekwini area | DUT Open Scholar (Durban University of T
+- new | 2019 | 10.33545/26164485.2019.v3.i3b.96 | article | Computer vision syndrome: A literature review of causes, symptoms and potential homoeopathic medicines | International Journal of Homoeopathic Sc
+- new | 2019 | 10.3264/fg.2019.1022 | article | The DNA weights per nucleus (genome size) of more than 2350 species of the Flora of The Netherlands, of which 1370 are new to science, including the pattern of their DNA peaks | Online Publication Service of Würzburg U
+- new | 2018 | https://openalex.org/W2912895169 | dissertation | Les affections oculaires à l’officine. Rôle du pharmacien face à la demande du patient | HAL AMU
+- new | 2018 | https://openalex.org/W7215397778 | article | Evaluación de la Efectividad del Tratamiento Oftálmico con Eye Drops #2® en Pacientes con Conjuntivitis Alérgica | La homeopatía de México
+- new | 2018 | 10.3390/app8071163 | article | Nanostructured Lipid Carriers as Promising Delivery Systems for Plant Extracts: The Case of Silymarin | Applied Sciences
+- new | 2018 | 10.51415/10321/3084 | dissertation | A homoeopathic drug proving of Carcharhinus leucas 30CH and a subsequent comparison to the doctrine of signatures | DUT Open Scholar (Durban University of T
+- new | 2018 | https://openalex.org/W2903531301 | dissertation | The Use of Alternative and Conventional Medications for Treating Hypertension by Jamaicans in the Hartford, Connecticut Area | OpenCommons - UConn (University of Conne
+- new | 2017 | 10.4236/ojoph.2017.72015 | article | Comparison of the Clinical Efficacy of Four Different Liposomal Sprays for the Treatment of Dry Eye | Open Journal of Ophthalmology
+- new | 2016 | 10.51415/10321/2484 | dissertation | A homoeopathic drug proving of Acacia Xanthophloea 30CH, with subsequent comparison to the doctrine of signatures | DUT Open Scholar (Durban University of T
+- new | 2014 | https://openalex.org/W2790238888 | article | Φυτοθεραπευτική δράση των βοτάνων σε σύγκριση με τα αντίστοιχα ομοιοπαθητικά παθογενετικά πειράματα (homeopathic pathogenetic trials [HPTs], provings) στον ανθρώπινο οργανισμό | Institutional Repository Hellanicus
+- new | 2014 | https://openalex.org/W2295600994 | dissertation | Beliefs and practices in health and disease from the Maclagan Manuscripts (1892–1903) | ERA
+- new | 2013 | 10.13040/ijpsr.0975-8232.4(4).1475-84 | paratext |  | International Journal of Pharmaceutical 
+- new | 2012 | https://openalex.org/W7215326494 | article | Acercamiento Homeopático a la Conjuntivitis Alérgica | La homeopatía de México
+- new | 2012 | 10.17107/kh.2012.4.91-122 | article | A tudományos forradalom orvostörténeti vonatkozásai | Kaleidoscope History
+- new | 2011 | https://openalex.org/W7217640131 | article | Some aspects of the use of herbs in the treatment of conjunctivitis | Polish Journal of Public Health
+- new | 2003 | https://openalex.org/W2290865758 | article | Herbal teas: Addition to therapy of diabetes | Arhiv za farmaciju
+- new | 1995 | https://openalex.org/W936505870 | dissertation | The biogeography of the magnesian limestone grassland flora of east Durham and Tyne & Wear | Durham e-Theses (Durham University)
+- new | 1894 | 10.1001/jama.1894.02421220012001g | article | TREATMENT OF POTT'S DISEASE.A Clinical Lecture delivered before the New York Post-Graduate School aud Hospital, Sept. 26, 1894. | JAMA
+- new | 1894 | 10.1001/jama.1894.02421220010001f | article | NOTES ON LITHIUM. | JAMA
+- new | 1889 | 10.1056/nejm188911141212009 | editorial | Editorials | New England Journal of Medicine
+
+## filipendula-ulmaria (Filipendula ulmaria) - name clause: "Filipendula ulmaria"[tiab] OR "Spiraea ulmaria"[tiab] OR "meadowsweet"[tiab]
+
+### PubMed HT - 2 hits, 2 not already listed above, 1 new
+- new | 2016 | 27095919 |  | A natural herbal remedy modulates angiogenic activity of bronchoalveolar lavage cells from sarcoidosis patients. | Cent Eur J Immunol
+- SEEN | 2013 | 24237191 | Randomized Controlled Trial | An in vivo study examining the antiinflammatory effects of chamomile, meadowsweet, and willow bark in a novel functional beverage. | J Diet Suppl
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 18 hits, 18 not already listed above, 14 new
+- new | 2026 | 42835906 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the aerial parts of Filipendula ulmaria (L.) Maxim. (meadowsweet tincture) for use in all animal specie | EFSA J
+- HELD REF-0816 | 2024 | 39456454 |  | DNA-Protective, Antioxidant and Anti-Carcinogenic Potential of Meadowsweet (Filipendula ulmaria) Dry Tincture. | Antioxidants (Basel)
+- new | 2021 | 33628375 |  | The Beneficial Role of Filipendula ulmaria Extract in Prevention of Prodepressant Effect and Cognitive Impairment Induced by Nanoparticles of Calcium Phosphates in Rats. | Oxid Med Cell Longev
+- new | 2021 | 34447488 |  | The Antioxidant Supplementation with Filipendula ulmaria Extract Attenuates the Systemic Adverse Effects of Nanosized Calcium Phosphates in Rats. | Oxid Med Cell Longev
+- new | 2018 | 30114518 |  | The inhibitory effect of Filipendula ulmaria (L.) Maxim. on colorectal carcinogenesis induced in rats by methylnitrosourea. | J Ethnopharmacol
+- new | 2018 | 29607788 | Research Support, Non-U.S. Gov't | Inhibitory Effect of Filipendula ulmaria on Mammary Carcinogenesis Induced by Local Administration of Methylnitrosourea to Target Organ in Rats. | Anticancer Agents Med Chem
+- new | 2018 | 29482177 | Clinical Trial, Veterinary | Evaluation on the effects of 0.1% Peumus boldus leaf and Spiraea ulmaria plant extract combination on bacterial colonization in canine atopic dermatitis: A preliminary randomized,  | Res Vet Sci
+- HELD REF-2038 | 2017 | 27827272 | Research Support, Non-U.S. Gov't | The inhibitory effect of meadowsweet (Filipendula ulmaria) on radiation-induced carcinogenesis in rats. | Int J Radiat Biol
+- HELD REF-2032 | 2017 | 27871982 |  | Filipendula ulmaria extracts attenuate cisplatin-induced liver and kidney oxidative stress in rats: In vivo investigation and LC-MS analysis. | Food Chem Toxicol
+- new | 2017 | 28237769 | Published Erratum | Corrigendum to "In vitro and in vivo assessment of the genotoxicity and antigenotoxicity of the Filipendula hexapetala and Filipendula ulmaria methanol extracts" [J. Ethnopharmacol | J Ethnopharmacol
+- new | 2016 | 28333678 | Comparative Study | Evaluation of the Antibacterial Activity of Green Propolis Extract and Meadowsweet Extract Against Staphylococcus aureus Bacteria: Importance in Would Care Compounding Preparations | Int J Pharm Compd
+- new | 2016 | 26939657 | Research Support, Non-U.S. Gov't | Inhibition of Morganella morganii Histidine Decarboxylase Activity and Histamine Accumulation in Mackerel Muscle Derived from Filipendula ulumaria Extracts. | J Food Prot
+- HELD REF-2034 | 2015 | 26303017 | Research Support, Non-U.S. Gov't | In vitro and in vivo assessment of the genotoxicity and antigenotoxicity of the Filipendula hexapetala and Filipendula ulmaria methanol extracts. | J Ethnopharmacol
+- new | 2011 | 21952153 | Case Reports | Hypovolemic shock due to severe gastrointestinal bleeding in a child taking an herbal syrup. | Ann Ist Super Sanita
+- new | 2006 | 17323609 | Historical Article | [Milestones of cardivascular pharmacotherapy: salicylates and aspirin]. | Cas Lek Cesk [cze]
+- new | 2004 | 15526604 | Case Reports | [Life threatening intestinal bleeding in a Bearded Collie associated with a food supplement for horses]. | Schweiz Arch Tierheilkd [ger]
+- new | 2004 | 20437393 |  | Using Apedin Vapor(R) in the control of Varroa mites and in honeybee feeding. | Vet Ital [eng,ita]
+- new | 2002 | 12472978 | Review | Herbal medication: potential for adverse interactions with analgesic drugs. | J Clin Pharm Ther
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 3 hits, 2 not already listed above, 1 new
+- new | 2000 | 10902065 | Review | Potential interactions between alternative therapies and warfarin. | Am J Health Syst Pharm
+- HELD REF-2768 | 1990 | 2131766 | Review | [Tannin content and inhibiting activity of elastase in Rosaceae]. | Ann Pharm Fr [fre]
+
+### ClinicalTrials.gov - 2 registered studies
+- NCT05054023 | COMPLETED | results=False | PHASE2,PHASE3 | Topical Piroxicam vs Soulagel in the Treatment of Acute Extremity Pain After Emergency Department Discharge | conds: Acute Pain | intr: Soulagel®, Arthrosyl®
+- NCT07859319 | NOT_YET_RECRUITING | results=False | PHASE4 | Evaluation of the Efficacy and Acceptability of a Phytotherapy Combining Devil's Claw, Blackcurrant and Meadowsweet for the Management of Ar | conds: Hormone Therapy-induced Arthralgia, Phytotherapy, Symptom Management, Adjuvant Treatment | intr: Phytotherapy Dietary Supplement (Harpagophytum, Meadowsweet, and Blackcurrant), Patient Experience Q
+
+### OpenAlex no-PMID trial-worded - 244 hits, 75 without PMID, 75 new
+- new | 2026 | 10.1134/s1070363226030047 | article | Prospects for the Use of Volatile Plant Compounds for the Ecological Control of Western Flower Thrips in Greenhouse Production Systems | Russian Journal of General Chemistry
+- new | 2025 | 10.5604/01.3001.0055.4314 | article | Plant raw material as a source of antioxidants in treatment of rheumatoid arthritis | Herba Polonica
+- new | 2025 | 10.24412/1932-2321-2025-987-822-828 | article | THE HUMAN FACTOR IN THE GREEN DIGITAL TRANSITION: BRIDGING INTERNATIONAL HEALTH LAW, DATA ETHICS, AND SUSTAINABLE URBAN DEVELOPMENT | Reliability: Theory & Applications
+- new | 2024 | 10.51620/2687-1521-2024-3-19-23-29 | article | USE OF FILIPENDULA ULMARIA (L.) MAXIM. FOR CORRECTION OF COGNITIVE IMPAIRMENTS IN PATIENTS WITH CHRONIC CEREBRAL ISCHEMIA | IZVESTIYA GGTU MEDICINA FARMACIYA
+- new | 2024 | 10.18137/cardiometry.2024.33.8086 | article | THE IMPACT OF CARDIAC REHABILITATION ON QUALITY OF LIFE AND 6 MINUTE WALK TEST IN POST GLENN PATIENTS | Cardiometry
+- new | 2024 | 10.18137/cardiometry.2024.33.102109 | article | Comprehensive rehabilitation of patients after injuries of the facial region: interaction of dentists and surgeons | Cardiometry
+- new | 2024 | 10.18137/cardiometry.2024.33.conf.6 | article | Interval Hypoxic Training (IHT) and Morning Fasting: Recovery Factors in Diabetes Patients | Cardiometry
+- new | 2024 | 10.18137/cardiometry.2024.33.4449 | article | ORGANIZATION OF MEDICAL SERVICES FOR TRAUMA PATIENTS: CURRENT REQUIREMENTS AND BEST PRACTICES OF COOPERATION BETWEEN TRAUMATOLOGISTS AND THERAPISTS | Cardiometry
+- new | 2024 | 10.18137/cardiometry.2024.33.conf.16 | article | IDENTIFICATION OF MAJOR MUTATION IN GENES OF HEREDITARY PREDISPOSITION TO BREAST CANCER IN PATIENTS OF THE REPUBLIC OF CRIMEA | Cardiometry
+- new | 2024 | 10.18137/cardiometry.2024.33.5862 | article | OPTIMIZATION OF COOPERATION BETWEEN NEUROLOGISTS AND GENERAL PRACTITIONERS: IMPROVING THE QUALITY OF CARE AND TREATMENT OUTCOMES FOR PATIENTS WITH CANCER | Cardiometry
+- new | 2024 | 10.18137/cardiometry.2024.33.conf.15 | article | CONTRIBUTION OF BRCA1, BRCA2, CHEK2 GENE MUTATIONS TO THE PATHOGENESIS OF HEREDITARY OVARIAN CANCER IN CRIMEAN FEMALE PATIENTS | Cardiometry
+- new | 2024 | 10.18137/cardiometry.2024.33.8794 | article | Prevalence of left ventricular diastolic dysfunction by tissue doppler imaging in patients with end stage renal disease undergoing regular dialysis with preserved systolic function | Cardiometry
+- new | 2024 | 10.18137/cardiometry.2024.33.conf.14 | article | Peculiarities of the course of non-small cell lung cancer and the percentage / of lymphocytes in blood of patients considering gender specific difference, upon COVID-19 before the  | Cardiometry
+- new | 2023 | 10.22190/fumb230919007k | article | ANTIOXIDANTS SUPPLEMENTATION BASED ON NATURAL PRODUCTS IN THE TREATMENT OF THE THERMAL SKIN INJURY | Facta Universitatis Series Medicine and 
+- new | 2022 | 10.15406/jnhfe.2022.12.00353 | article | Is it possible to correct the level of uric acid with the help of herbal preparations? | Journal of Nutritional Health & Food Eng
+- new | 2022 | 10.33978/2307-3586-2022-18-14-36-41 | article | Efficacy and Safety Evaluation of Gastrokur Dietary Supplement in Combination with Pantoprazole in Patients with Helicobacter pylori | Effective Pharmacotherapy
+- new | 2022 | 10.5772/intechopen.108757 | book-chapter | Role of Herbal Medicine, Acupressure and Acupuncture in the Treatment of Irritable Bowel Syndrome | IntechOpen eBooks
+- new | 2022 | 10.37469/0507-3758-2022-68-5-527-538 | article | Antitumor factors of natural origin and some approaches to the develop-ment of effective regimens of phytotherapy in oncology | Voprosy Onkologii
+- new | 2021 | 10.52201/cej18hfgl5629 | article | Control of meadowsweet Filipendula ulmaria through a change of management from grazing to mowing at an English floodplain meadow. | Conservation Evidence Journal
+- new | 2021 | 10.29003/m2284.sudak.ns2021-17/307-308 | conference-paper | EMOTIONAL PERCEPTION IN COMATOSE PATIENTS | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2035.sudak.ns2021-17/60-61 | conference-paper | REAHABILITATION OF PATIENTS AFTER SPINAL INJURY | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2406.sudak.ns2021-17/427-428 | conference-paper | PSYCHOGENIC STRESS IN PATIENTS DURING HOSPITALIZATION | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2113.sudak.ns2021-17/136-137 | conference-paper | ON THE QUESTION OF NEUROIMMUNE DISORDERS IN PATIENTS WITH ALCOHOLISM | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2257.sudak.ns2021-17/284-285 | conference-paper | METHODOLOGY FOR DIAGNOSING DEPRESSIVE DISORDERS IN PATIENTS WITH SCHIZOPHRENIA | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2252.sudak.ns2021-17/279-280 | conference-paper | METABOLIC ADAPTATION SYNDROME IN PATIENTS WITH CHRONIC DISORDERS OF CONSCIOUSNESS | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | https://openalex.org/W7132622117 | dissertation | Evaluation of prescribed analgesia in patients admitted to a hospital. Impact in your daily activity. | e_Buah
+- new | 2021 | 10.29003/m2397.sudak.ns2021-17/416-417 | conference-paper | PARADIGMS FOR DETECTING «COVERT CONSCIOUSNESS» IN PATIENTS WITH CHRONIC DISORDERS OF CONSCIOUSNESS | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2240.sudak.ns2021-17/268-269 | conference-paper | METHODOLOGY FOR DIAGNOSTIC TENSION-TYPE HEADACHE IN PATIENTS WITH ARTERIAL HYPERTENSION | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2062.sudak.ns2021-17/85-86 | conference-paper | APPARATUS ZHEN-CHIU REFLEXOTHERAPY IN REHABILITATION OF PATIENTS WITH FACIAL NERVE NEUROPATHY | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2298.sudak.ns2021-17/320 | conference-paper | PECULIARITIES OF HEART RATE VARIABILITY PARAMETERS IN PATIENTS WITH OBSTRUCTIVE SLEEP APNEA SYNDROME | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2380.sudak.ns2021-17/401-402 | conference-paper | ANTISACCADE TASK AS A METHOD FOR STUDYING EXECUTIVE CONTROL IN PATIENTS WITH OBESSIVE-COMPULSIVE DISORDER | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2042.sudak.ns2021-17/67-68 | conference-paper | ANALYSIS OF THE SPATIAL ORGANIZATION OF THE EEG IN PATIENTS WITH ANOREXIA NERVOSA (RESULTS OF A PILOT STUDY) | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2150.sudak.ns2021-17/177 | conference-paper | INFLUENCE OF RETINOHYPOTHALAMIC TRACT DYSFUNCTION ON MELATONIN LEVEL IN PATIENTS WITH CHRONIC DISORDERS OF CONSCIOUSNESS | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2132.sudak.ns2021-17/156-157 | conference-paper | INDICATORS OF SYSTEMIC INFLAMMATION AND SYSTEMIC ENDOTOXYNEMIA IN PATIENTS WITH ENDOGENIC PSYCHOSIS (PATHOGENETIC AND THERAPEUTIC ASPECTS) | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2312.sudak.ns2021-17/335-336 | conference-paper | NEURONAL RESPONSES OF GLOBUS PALLIDUS TO MOTOR TESTS WITH AND WITHOUT NECK MUSCLES INVOLVEMENT IN PATIENTS WITH CERVICAL DYSTONIA | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2265.sudak.ns2021-17/291-292 | conference-paper | COMPARISON OF PROPRIOCEPTIVE SENSITIVITY DISORDERS WITH MUSCLE STRENGTH AND MUSCLE TONE IN DIFFERENT SEGMENTS OF THE PARETIC ARM IN POST-STROKE PATIENTS | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2341.sudak.ns2021-17/362-363 | conference-paper | LONG-TERM COGNITIVE OUTCOMES OF CARDIAC SURGERY PATIENTS, DEPENDING ON THE PRESENCE OF MODERATE COGNITIVE IMPAIRMENTS (FIVE-YEAR FOLLOW-UP) | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2323.sudak.ns2021-17/345-346 | conference-paper | EVOKED EEG SYNCHRONIZATION IN ALPHA 1 AND ALPHA 2 RANGE IN SACCADIC «GO /NO GO DELAY» PARADIGM IN NORMAL AND IN PATIENTS WITH SCHIZOPHRENIA FIRST EPISODE | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2399.sudak.ns2021-17/418-422 | conference-paper | PATHOGENESIS AND DIAGNOSIS OF POLYMORBIDITY IN CHRONIC ALCOHOL INTOXICATION FROM THE PERSPECTIVE OF GLYCOBIOLOGY: JUSTIFICATION OF NEW APPROACHES TO PREVENTION AND PERSONALIZATION  | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2021 | 10.29003/m2170.sudak.ns2021-17/198-199 | conference-paper | INFLUENCE OF REPEATED REHABILITATION COURSES OF USING THE EXOKIST 2 COMPLEX WITH THE USE OF THE BRAIN-COMPUTER INTERFACE ON THE RESTORATION OF MOTOR FUNCTIONS IN PATIENTS WITH POST | NEUROSCIENCE FOR MEDICINE AND PSYCHOLOGY
+- new | 2020 | 10.24189/ncr.2020.028 | article | Protecting small populations of rare species. Case study on Dactylorhiza viridis (Orchidaceae) in Fancott Woods and Meadows SSSI, Bedfordshire, UK | Nature Conservation Research
+- new | 2020 | 10.3390/rs12030516 | article | Comparison of Support Vector Machine and Random Forest Algorithms for Invasive and Expansive Species Classification Using Airborne Hyperspectral Data | Remote Sensing
+- new | 2020 | https://openalex.org/W3209116607 | dissertation | Le rôle du pharmacien dans la prise en charge du patient arthrosique à l'officine | HAL
+- new | 2020 | 10.52547/pbp.2.2.38 | article | Helicobacter Phytotherapy: Medicinal Plants Affecting Helicobacter Pylori Infection in Iran | Plant Biotechnology Persa
+- new | 2020 | https://openalex.org/W3110166032 | article | A pilot study of efficacy and safety of Plantago lanceolata and Primula veris, in the treatment of the common cold | Archives of Pharmacy Practice
+- new | 2019 | 10.22270/jddt.v9i3-s.2940 | article | Phytopharmaceuticals: An emerging platform for innovation and development of new drugs from botanicals | Journal of Drug Delivery and Therapeutic
+- new | 2019 | 10.5772/intechopen.80593 | book-chapter | Herbal Medicinal Products in the Treatment of Osteoarthritis | IntechOpen eBooks
+- new | 2019 | 10.34297/ajbsr.2019.02.000599 | article | Protective Effect of Medicinal Plants on Neuron Degeneration Diseases and Controversial Predictive Diagnosis | American Journal of Biomedical Science &
+- new | 2018 | 10.17011/conference/eccb2018/108035 | conference-paper | Restoration of an abandoned cultural landscape in a world heritage site – management of semi-natural hay meadows in the Vega Archipelago, Northern Norway | Proceedings of the 5th European Congress
+- new | 2018 | 10.5772/intechopen.72110 | book-chapter | Are Herbal Products an Alternative to Antibiotics? | InTech eBooks
+- new | 2017 | https://openalex.org/W2739930434 | article | Les plantes diurétiques à l’officine | 
+- new | 2017 | https://openalex.org/W2910088132 | dissertation | Soins de support en phytothérapie et en micro nutrition utilisés pour pallier aux effets secondaires de l’hormonothérapie suite à un cancer du sein hormono-dépendant : synthèse des | HAL
+- new | 2017 | 10.5586/asbp.3561 | article | A performance comparison of sampling methods in the assessment of species composition patterns and environment–vegetation relationships in species-rich grasslands | Acta Societatis Botanicorum Poloniae
+- new | 2016 | https://openalex.org/W2920598292 | dissertation | Comment lutter contre l’arthrose ? Allopathie, homéopathie, phytothérapie et nutrithérapie : enquête chez les patients atteints d'arthrose | Publications Et Travaux Academiques de L
+- new | 2014 | 10.1002/14651858.cd011223 | article | Herbal medicines for the treatment of inflammatory bowel disease | Cochrane Database of Systematic Reviews
+- new | 2013 | 10.1016/j.hermed.2013.08.002 | article | The role of Western herbal medicine in the treatment of gout | Journal of Herbal Medicine
+- new | 2013 | https://openalex.org/W632749703 | dissertation | Brygder och besvärjelser : En arkeobotanisk studie av medicinalväxter och den medeltida staden Nya Lödöse | DiVA at Umeå University (Umeå University
+- new | 2013 | https://openalex.org/W1568506068 | dissertation | Isolation and characterization of compounds from Calodendrum capense (Rutaceae) and Lydenburgia cassinoides (Celastraceae) for treatment of fungal and bacterial infections in immun | UpSpace Institutional Repository (Univer
+- new | 2012 | https://openalex.org/W98145684 | conference-paper | Natural extracts from wild flowers used in Portuguese folk medicine like a new antifungal agents against Candida species | Portuguese National Funding Agency for S
+- new | 2011 | https://openalex.org/W2111827107 | article | Antimicrobial Effect of Filipendula ulmaria Plant Extract Against Selected Foodborne Pathogenic and Spoilage Bacteria in Laboratory Media, Fish Flesh and Fish Roe Product | Food Technology and Biotechnology
+- new | 2009 | 10.5282/edoc.10004 | dissertation | Untersuchungen zur Wirkung des Nahrungsergänzungsmittels Haarpower® auf das exzessive Haaren ansonsten gesunder Hunde | Elektronische Hochschulschriften der LMU
+- new | 2009 | 10.56808/3027-7922.2187 | article | Flavonoid glycosides from the leaves of Uvaria rufa with advanced glycation end-products inhibitory activity | The Thai Journal of Pharmaceutical Scien
+- new | 2007 | 10.1111/j.1467-2494.2007.00370_2.x | article | Presented at the 16th DGK Symposium, March 2–4, 2005, Leipzig, Germany – Received the Award for the Best Poster Presentation 1 Influencing the equilibrium of the cutaneous ecosyste | International Journal of Cosmetic Scienc
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2004 | 10.1111/j.0022-0477.2004.00892.x | article | Geranium robertianum L. | Journal of Ecology
+- new | 2003 | https://openalex.org/W7139687399 | article | Biljni lekovi u apotekarskoj praksi | FarFar - Pharmacy Repository
+- new | 2002 | 10.1046/j.1365-2664.2002.00715.x | article | Soil seed banks and the effects of meadow management on vegetation change in a 10‐year meadow field trial | Journal of Applied Ecology
+- new | 2002 | 10.1080/00063650209461247 | article | The status and habitat of Spotted CrakesPorzana porzanain Britain in 1999 | Bird Study
+- new | 2001 | 10.1016/s1063-4584(01)80347-2 | conference-abstract | Randomized double-blind comparison study of rofecoxib and diclofenac in patients with osteoarthritis of the knee | Osteoarthritis and Cartilage
+- new | 2001 | 10.1111/j.1095-8312.2001.tb01414.x | article | Selection often overrides the effects of random processes in island populations of Philaenus spumarius (Homoptera) | Biological Journal of the Linnean Societ
+- new | 1999 | https://openalex.org/W1757328690 | book | Vegetation of the British countryside - the Countryside Vegetation System. ECOFACT Volume 1 | NERC Open Research Archive (Natural Envi
+- new | 1988 | https://openalex.org/W1519880110 | report | Vegetation dynamics during the establishment phase of an energy forest on a riverside in south-western Sweden | Epsilon Open Archive (Sveriges lantbruks
+- new | 1980 | 10.1007/bf00121024 | article | A numerical study of successions in an abandoned, damp calcareous meadow in S Sweden | Vegetatio
+- new | 1980 | https://openalex.org/W1514599440 | book | Studies in plant ecology : dedicated to Hugo Sjörs | Uppsala University Publications (Uppsala
+- new | 1963 | 10.1111/j.1438-8677.1963.tb00115.x | article | CHROMOSOME NUMBERS OF FLOWERING PLANTS IN THE NETHERLANDS | Acta Botanica Neerlandica
+
+## filipendula-vulgaris (Filipendula vulgaris) - name clause: "Filipendula vulgaris"[tiab] OR "Filipendula hexapetala"[tiab] OR "dropwort"[tiab]
+
+### PubMed HT - 1 hits, 1 not already listed above, 1 new
+- new | 2026 | 41897725 |  | The Effects of Java Water-Dropwort (Oenanthe javanica) Extract on Alcohol Metabolism and Hangover Symptoms: A Randomized, Double-Blind, Placebo-Controlled Crossover Clinical Trial. | Foods
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 25 hits, 24 not already listed above, 21 new
+- new | 2023 | 37821089 | Case Reports | Toxocara canis and Fasciola hepatica Co-Infection Leading to Hepatic Abscess: A Case Report. | J Korean Med Sci
+- new | 2022 | 35189181 |  | Analytical documentation of an Arabian horse fatality related to Oenanthe crocata poisoning. | Toxicon
+- new | 2022 | 35453180 |  | The Safety of Consuming Water Dropwort Used to Purify Livestock Wastewater Considering Accumulated Antibiotics and Antibiotic Resistance Genes. | Antibiotics (Basel)
+- new | 2021 | 34388355 | Research Support, Non-U.S. Gov't | Investigation of Pathogenic Escherichia coli Contamination of Vegetables Distributed in a Korean Agricultural Wholesale Market. | Foodborne Pathog Dis
+- new | 2021 | 33506296 | Case Reports | Genetic identification and subsequent LC-QTOF MS analysis of plant remains (Oenanthe spp.) could prove the cause of an undetermined sudden death. | Int J Legal Med
+- new | 2020 | 32473868 | Case Reports | Oenantha Crocata: A Case Report of Multiple Poisoning with Fatal Outcome. | J Emerg Med
+- new | 2020 | 35494709 |  | Therapeutic potency of fermented field water-dropwort (Oenanthe javanica (Blume) DC.) in ethanol-induced liver injury. | RSC Adv
+- new | 2017 | 28237769 | Published Erratum | Corrigendum to "In vitro and in vivo assessment of the genotoxicity and antigenotoxicity of the Filipendula hexapetala and Filipendula ulmaria methanol extracts" [J. Ethnopharmacol | J Ethnopharmacol
+- new | 2016 | 26976768 |  | The protective effect of total phenolics from Oenanthe Javanica on acute liver failure induced by D-galactosamine. | J Ethnopharmacol
+- new | 2016 | 27069833 |  | Root extract of water dropwort, Oenanthe javanica (Blume) DC, induces protein and gene expression of phase I carcinogen-metabolizing enzymes in HepG2 cells. | Springerplus
+- HELD REF-2034 | 2015 | 26303017 | Research Support, Non-U.S. Gov't | In vitro and in vivo assessment of the genotoxicity and antigenotoxicity of the Filipendula hexapetala and Filipendula ulmaria methanol extracts. | J Ethnopharmacol
+- new | 2015 | 26537044 | Research Support, Non-U.S. Gov't | Monitoring of Fasciola Species Contamination in Water Dropwort by cox1 Mitochondrial and ITS-2 rDNA Sequencing Analysis. | Korean J Parasitol
+- new | 2014 | 24582681 | Research Support, Non-U.S. Gov't | Hepatoprotective effects of fermented field water-dropwort (Oenanthe javanica) extract and its major constituents. | Food Chem Toxicol
+- HELD REF-2729 | 2012 | 22213368 | Research Support, Non-U.S. Gov't | Hepatoprotective effect of Filipendula hexapetala Gilib. (Rosaceae) in carbon tetrachloride-induced hepatotoxicity in rats. | Phytother Res
+- new | 2009 | 19245244 | Research Support, Non-U.S. Gov't | Polyacetylenes from sardinian Oenanthe fistulosa: a molecular clue to risus sardonicus. | J Nat Prod
+- new | 2009 | 19712583 | Research Support, Non-U.S. Gov't | Oenanthe javanica extract accelerates ethanol metabolism in ethanol-treated animals. | BMB Rep
+- new | 2008 | 18206356 | Case Reports | [Child poisoning after ingestion of a wild apiaceae: a case report]. | Arch Pediatr [fre]
+- new | 2002 | 12205016 | Case Reports | A hemlock water dropwort curry: a case of multiple poisoning. | Emerg Med J
+- new | 1987 | 3671269 | Case Reports | Hemlock water dropwort poisoning. | Postgrad Med J
+- new | 1987 | 3667190 |  | Poisoning by hemlock water dropwort. | Ir J Med Sci
+- new | 1985 | 4018815 | Case Reports | Identification of oenanthotoxin and related compounds in hemlock water dropwort poisoning. | Hum Toxicol
+- HELD REF-2612 | 1978 | 657757 | Case Reports | Hemlock water dropwort poisoning--a review. | Clin Toxicol
+- new | 1977 | 65531 | Case Reports/Letter | Poisoning by hemlock water dropwort. | Lancet
+- new | 1976 | 945171 | Case Reports | [Fatal poisoning by water dropwort (Oenanthe crocata)]. | Eur J Toxicol Environ Hyg [fre]
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 2 hits, 2 not already listed above, 2 new
+- new | 2020 | 34431644 | Review | What kind of poison was used in "The Name of the Rose"? | Arch Med Sadowej Kryminol
+- new | 2019 | 31057651 | Review | A Review of Oenanthe javanica (Blume) DC. as Traditional Medicinal Plant and Its Therapeutic Potential. | Evid Based Complement Alternat Med
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 53 hits, 42 without PMID, 42 new
+- new | 2026 | 10.30841/2708-8731.4.2026.368205 | article | The role of chronic psychoemotional stress in the development of gynecological complaints in women of reproductive age and methods of their non-hormonal correction | Reproductive health of woman
+- new | 2026 | 10.18370/2309-4117.2026.85.25-36 | article | Hypomenstrual disorders associated with chronic stress: non-hormonal treatment options | Reproductive Endocrinology
+- new | 2026 | 10.1007/s11694-026-04648-5 | article | Multifunctional smart gelatin films from Rosa pimpinellifolia: physicochemical characterization, fish freshness monitoring, and in vivo antioxidant assessment | Journal of Food Measurement & Characteri
+- new | 2026 | 10.30841/2708-8731.5.2026.370882 | article | Current approaches for menstrual cycle normalization in reproductive-aged women considering present-day key determinants | Reproductive health of woman
+- new | 2025 | https://openalex.org/W7215442738 | article | ИНТРОДУКЦИЯ, МОРФОЛОГИЧЕСКИЕ ОСОБЕННОСТИ И УСЛОВИЯ РОСТА ВИДОВ РОДА SALVIA В АСТАНИНСКОМ БОТАНИЧЕСКОМ САДУ | «Qazaq Journal of Young Scientist» халық
+- new | 2025 | 10.33619/2414-2948/112/08 | article | Characteristics of Steppe Vegetation of Daridag | Bulletin of Science and Practice
+- new | 2025 | 10.31163/2618-964x/2025-41 | article | Steppe and meadow communities of the «Karmaskaly forest steppe» valuable natural area (the Republic of Bashkortostan) | ÈKOBIOTEH
+- new | 2025 | 10.1111/jwas.70022 | article | Dietary inclusion of curry plant (Helichrysum italicum) extract in rainbow trout (Oncorhynchus mykiss) culture: Growth performance and gene expression related to digestion, antioxi | Journal of the World Aquaculture Society
+- new | 2025 | 10.30841/2708-8731.5.2025.337955 | article | The impact of war on the psycho-emotional state and reproductive health of women: a clinical study of menstrual cycle disorders | Reproductive health of woman
+- new | 2024 | 10.30841/2708-8731.1.2024.301601 | article | Possibilities of treatment of stress-induced disorders of the menstrual cycle with phytotherapy | Reproductive health of woman
+- new | 2024 | 10.55355/snv2024131101 | article | Ecological and floristic features of modern plant groupings on the territory of the Kipchak archaeological complex | Samara Journal of Science
+- new | 2024 | 10.18370/2309-4117.2024.71.72-83 | article | Impact on the links of the mastopathy pathogenesis: a view on the pathological cascade correction | Reproductive Endocrinology
+- new | 2024 | 10.12912/27197050/190038 | article | Ecological Monitoring of Medicinal Plants Populations under Different Ecological-Cenotic and Anthropogenic Environmental Conditions | Ecological Engineering & Environmental T
+- new | 2023 | 10.32859/era.26.61.1-27 | article | Plant ethnomedicine in Bosnia and Herzegovina, past and present | Ethnobotany Research and Applications
+- new | 2020 | 10.17816/snv202093116 | article | Patterns in steppe meadow vegetation at the border of Forest-steppe and Steppe zones of the Southern Ural | Samara Journal of Science
+- new | 2019 | 10.5772/intechopen.80593 | book-chapter | Herbal Medicinal Products in the Treatment of Osteoarthritis | IntechOpen eBooks
+- new | 2019 | 10.18370/2309-4117.2019.48.13-21 | article | Pathogenetic substantiation of advantages and duration of phytoselective therapy of the menstrual cycle disorders | Reproductive Endocrinology
+- new | 2019 | 10.18370/2309-4117.2019.47.26-32 | article | New patterns of menstrual disorders’ treatment – unification of the method | Reproductive Endocrinology
+- new | 2019 | 10.1080/00291951.2020.1717595 | article | Bridging theory and implementation – Testing an abstract classification system for practical mapping by field survey and 3D aerial photographic interpretation | Norsk Geografisk Tidsskrift - Norwegian 
+- new | 2019 | 10.3264/fg.2019.1022 | article | The DNA weights per nucleus (genome size) of more than 2350 species of the Flora of The Netherlands, of which 1370 are new to science, including the pattern of their DNA peaks | Online Publication Service of Würzburg U
+- new | 2019 | https://openalex.org/W2946981497 | dissertation | Le sportif : conseils et prise en charge par la phytothérapie à l’officine | HAL
+- new | 2018 | 10.15835/buasvmcn-agr:001217 | article | PC&CA - Tool for Polyphenols Content Monitoring at the End of Spring Depending on Organic and/or Mineral Fertilization of Perennial Grassland | Bulletin of University of Agricultural S
+- new | 2018 | 10.18054/pb.v119i4.4483 | article | Prediction of the appearance of tree of heaven in forest communities in western Slovenia | Periodicum Biologorum
+- new | 2017 | https://openalex.org/W3158663712 | article | NEAR INFRARED SPECTROSCOPY – AN ALTERNATIVE TO DETERMINE THE CRUDE FIBER CONTENT OF FORAGES | Food and Environment Safety Journal
+- new | 2017 | 10.5586/asbp.3561 | article | A performance comparison of sampling methods in the assessment of species composition patterns and environment–vegetation relationships in species-rich grasslands | Acta Societatis Botanicorum Poloniae
+- new | 2015 | 10.15421/011509 | article | Influence of moisture conditions and mineralization of soil solution on structure of litter macrofauna of the deciduous forests of Ukraine steppe zone | Visnyk of Dnipropetrovsk University Biol
+- new | 2015 | 10.1515/eko-2015-0005 | article | Herbaceous Plants for Climate Adaptation and Intensely Developed Urban Sites In Northern Europe: A Case Study From the Eastern Romanian Steppe | Ochrana prírody Slovenska/Ekológia
+- new | 2015 | 10.14471/2015.35.007 | article | Classification, ecology and biodiversity of Central Bal-kan dry grasslands | Tuexenia
+- new | 2013 | 10.1111/een.12008 | article | Micro‐climate determines oviposition site selection and abundance in the butterfly Pyrgus armoricanus at its northern range margin | Ecological Entomology
+- new | 2013 | https://openalex.org/W3150257049 | dissertation | Vegetation dynamics and restoration trials in limestone quarries: the botticino case study (Brescia, Italy) | BOA (University of Milano-Bicocca)
+- new | 2013 | https://openalex.org/W595795232 | dissertation | Management of semi-natural grassland vegetation : long-term effects of grazing, mowing and different mowing techniques | DiVA (Linkoping University)
+- new | 2013 | https://openalex.org/W1972743280 | article | The impact of disturbance gradient on recruitment of clonal plant species in Molinietum caeruleae meadows | Jagiellonian University Repository (Jagi
+- new | 2012 | 10.5846/stxb201111211780 | article | Interspecific segregation of species in tree and shrub layers of thePinus bungeanaZucc. ex Endl. community in the Wulu Mountains, Shanxi Province, China | Acta Ecologica Sinica
+- new | 2011 | 10.17660/actahortic.2011.925.25 | conference-paper | DROPWORT (FILIPENDULA VULGARIS L.) SEEDS GERMINABILITY AS AFFECTED BY THEIR RIPENESS AND ONE-YEAR STORAGE | Acta Horticulturae
+- new | 2010 | 10.15835/buasvmcn-agr:5024 | article | Partial Last Square “NIR-CP” Model for Forages from Hill Permanent Grassland | Bulletin of University of Agricultural S
+- new | 2010 | https://openalex.org/W2184589428 | article | PLS "NIR - Crude Fiber" model for forages from hill permanent grassland. | Lucrări Ştiinţifice, Universitatea de St
+- new | 2005 | https://openalex.org/W2473130363 | dissertation | Relationships between landscape factors and vegetation site types: case study from Saare County, Estonia | DSpace repository (University of Tartu)
+- new | 2004 | 10.1111/j.1442-1984.2004.00113.x | article | Genetic population structure of the wind‐pollinated, dioecious shrub Juniperus communis in fragmented Dutch heathlands | Plant Species Biology
+- new | 2003 | 10.1111/j.1756-1051.2003.tb00373.x | article | Finescale species associations in alvar limestone grasslands | Nordic Journal of Botany
+- new | 2003 | https://openalex.org/W1578714040 | report | A. Kartlegging av truete vegetasjonstyper. Erfaringer fra Inderøy og Levanger | NVA (Nasjonalt vitenarkiv)
+- new | 2003 | 10.2225/vol6-issue3-fulltext-6 | article | Metal hyperaccumulation in plants - Biodiversity prospecting for phytoremediation technology | Electronic Journal of Biotechnology
+- new | 1980 | https://openalex.org/W1514599440 | book | Studies in plant ecology : dedicated to Hugo Sjörs | Uppsala University Publications (Uppsala

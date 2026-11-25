@@ -166,7 +166,6 @@ indications:
   reference_ids:
   - REF-0256
   status: verified
-  mechanistic_exclude_ids: []
   note: Eucalyptus oil stimulated innate immune cells in lab studies (review)
 - condition: infection
   note: Eucalyptus oil is antibacterial, antifungal and antiviral in lab studies (review)
@@ -219,6 +218,31 @@ indications:
   reference_ids:
   - REF-3554
   status: verified
+- condition: bronchitis
+  note: '1,8-cineole (600 mg a day) relieved acute bronchitis symptoms and cut coughing fits more than
+    placebo within 4 days in a randomized double-blind trial (compound evidence: 1,8-cineole (eucalyptol)
+    is eucalyptus oil''s main active constituent)'
+  reference_ids:
+  - REF-5346
+  status: verified
+- condition: pain
+  note: Inhaling eucalyptus oil reduced pain after knee-replacement surgery more than inhaling almond
+    oil in a randomized trial (oil species not stated)
+  reference_ids:
+  - REF-5347
+  status: verified
+- condition: allergy
+  note: Eucalyptus oil improved allergic-rhinitis quality of life vs placebo in a 2025 systematic review
+    of three trials, though the fall in nasal symptom scores was not significant (oil species not stated)
+  reference_ids:
+  - REF-5348
+  status: verified
+- condition: headache
+  note: Inhaling eucalyptus oil eased headache during dialysis more than usual care in a small randomized
+    trial (oil species not stated)
+  reference_ids:
+  - REF-5349
+  status: verified
 contraindications:
 - note: Eucalyptus globulus essential oil is highly concentrated and rich in the monoterpene 1,8-cineole;
     it should never be applied undiluted to the skin or ingested outside of standardized pharmaceutical
@@ -245,6 +269,25 @@ contraindications:
   - REF-0224
   - REF-0256
   - REF-0063
+  status: verified
+- note: 'Poisoning: eucalyptus oil is a common cause of poisoning in young children. In a Melbourne series
+    of 109 children who swallowed it, 59% had symptoms such as drowsiness, vomiting or unsteadiness and
+    three were unconscious after 5 to 10 mL; all recovered, and another series found most children symptom-free.
+    Seizures have followed swallowing, inhaling or rubbing the oil on the skin (a review of 110 cases),
+    and an adult died after swallowing 15 mL by mistake. Keep eucalyptus oil out of children''s reach.'
+  severity: caution
+  reference_ids:
+  - REF-5350
+  - REF-5351
+  - REF-5352
+  - REF-5353
+  - REF-5354
+  status: verified
+- note: 'Skin products: a 2023 Cosmetic Ingredient Review safety assessment concluded that six Eucalyptus
+    globulus-derived ingredients are safe in cosmetics when formulated to be non-sensitising.'
+  severity: info
+  reference_ids:
+  - REF-5355
   status: verified
 references:
 - REF-0809
@@ -308,4 +351,24 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0309 replaced by a new Folium Eucalypti entry REF-4306 where it states the claim
   (anti-inflammatory for mild respiratory inflammation, antifungal and antibacterial activity, malaria
   as a folk use, respiratory catarrh and bronchitis) and removed elsewhere (antioxidant,
-  immunomodulator, colds, the essential-oil cautions).'
+  immunomodulator, colds, the essential-oil cautions).
+  | 2026-11-25: symptom-source audit research-deepening batch 13 - Searched PubMed (Eucalyptus
+  globulus / blue gum tiab; eucalyptus oil, 1,8-cineole, cineole, eucalyptol ti: 54 HT, 10 SR, 196
+  SAFE hits), Europe PMC, ClinicalTrials.gov (72) and OpenAlex. Unnamed "eucalyptus oil" goes to
+  E. globulus (inv. 10, as for REF-0256). Added: NEW bronchitis pair (2013 cineole placebo RCT,
+  compound evidence, labelled); NEW pain pair (2013 RCT, eucalyptus oil vs almond oil inhalation
+  after knee replacement); NEW allergy pair (2025 SR of three trials: quality of life improved,
+  nasal symptom score not significant); NEW headache pair (2026 small RCT vs usual care in
+  haemodialysis); a poisoning caution (Melbourne 1995 and Queensland 1993 paediatric series, 2021
+  seizure case series and SR, 2011 dermal seizure case, 2025 fatal adult case); the 2023 CIR
+  cosmetic safety assessment as an info note. Not added: 2014 pre-operative anxiety RCT (the
+  cineole arm reduced anxiety but the eucalyptus-oil arm did not clearly beat control, so no
+  anxiety pair); 2020 eucalyptol nursing-home pilot (not randomised, MMSE unchanged); 2026
+  eucalyptus leaf extract (oenothein B) liver-fat pilot (difference only in a post-unblinding
+  sensitivity analysis; species not stated); eucalyptus vs miswak toothpaste (active comparator);
+  2024 cineole cold-timing study (not randomised); combinations (eucalyptol-limonene-pinene
+  capsules, turpentine ointment, NESOSPRAY sprays, Atusin, aromatic herb sprays, peppermint +
+  eucalyptus headache preparations, Neuragen, Myostaal); the 2022 cough MA (already logged as
+  negative); the Berlin herb-induced liver injury study (one possible E. globulus case); a mouse
+  diazepam interaction study; the 2015 contact-allergy review and poisoning letters with no
+  abstract.'

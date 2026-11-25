@@ -23213,7 +23213,6 @@
       "REF-0256"
      ],
      "status": "verified",
-     "mechanistic_exclude_ids": [],
      "note": "Eucalyptus oil stimulated innate immune cells in lab studies (review)",
      "evidence": 2,
      "label": "Immune support"
@@ -23301,6 +23300,46 @@
      "status": "verified",
      "evidence": 5,
      "label": "Sinusitis"
+    },
+    {
+     "condition": "bronchitis",
+     "note": "1,8-cineole (600 mg a day) relieved acute bronchitis symptoms and cut coughing fits more than placebo within 4 days in a randomized double-blind trial (compound evidence: 1,8-cineole (eucalyptol) is eucalyptus oil's main active constituent)",
+     "reference_ids": [
+      "REF-5346"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Bronchitis"
+    },
+    {
+     "condition": "pain",
+     "note": "Inhaling eucalyptus oil reduced pain after knee-replacement surgery more than inhaling almond oil in a randomized trial (oil species not stated)",
+     "reference_ids": [
+      "REF-5347"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Pain (general)"
+    },
+    {
+     "condition": "allergy",
+     "note": "Eucalyptus oil improved allergic-rhinitis quality of life vs placebo in a 2025 systematic review of three trials, though the fall in nasal symptom scores was not significant (oil species not stated)",
+     "reference_ids": [
+      "REF-5348"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Allergy / hay fever"
+    },
+    {
+     "condition": "headache",
+     "note": "Inhaling eucalyptus oil eased headache during dialysis more than usual care in a small randomized trial (oil species not stated)",
+     "reference_ids": [
+      "REF-5349"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Headache"
     }
    ],
    "contraindications": [
@@ -23320,6 +23359,26 @@
       "REF-0224",
       "REF-0256",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Poisoning: eucalyptus oil is a common cause of poisoning in young children. In a Melbourne series of 109 children who swallowed it, 59% had symptoms such as drowsiness, vomiting or unsteadiness and three were unconscious after 5 to 10 mL; all recovered, and another series found most children symptom-free. Seizures have followed swallowing, inhaling or rubbing the oil on the skin (a review of 110 cases), and an adult died after swallowing 15 mL by mistake. Keep eucalyptus oil out of children's reach.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5350",
+      "REF-5351",
+      "REF-5352",
+      "REF-5353",
+      "REF-5354"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Skin products: a 2023 Cosmetic Ingredient Review safety assessment concluded that six Eucalyptus globulus-derived ingredients are safe in cosmetics when formulated to be non-sensitising.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5355"
      ],
      "status": "verified"
     }

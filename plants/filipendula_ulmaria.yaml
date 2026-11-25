@@ -356,4 +356,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
   replaced by Grieve''s Meadowsweet entry REF-3998 on the diuretic action and the swelling (dropsy)
   and urinary (strangury) pairs; removed from the other actions and the cautions, which Grieve does
-  not state.'
+  not state.
+  | 2026-11-25: symptom-source audit research-deepening batch 13 - Searched PubMed (Filipendula
+  ulmaria / Spiraea ulmaria / meadowsweet tiab: 2 HT, 0 SR, 18 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (2) and OpenAlex. No human trial of meadowsweet alone. Not added: severe
+  gastrointestinal bleeding in a 4-year-old after a multi-herb syrup containing meadowsweet and
+  willow (2011; salicylates confirmed, but a combination product), the three-herb functional
+  beverage RCT (already logged), a devil''s claw + blackcurrant + meadowsweet trial (registered,
+  not yet recruiting), Gastrokur and other combinations; a 2024 Russian study of meadowsweet for
+  cognitive impairment in chronic cerebral ischaemia (DOI 10.51620/2687-1521-2024-3-19-23-29) has
+  no retrievable abstract - unread. Settled for now.'

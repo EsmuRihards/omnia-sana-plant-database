@@ -1,0 +1,43 @@
+   eschscholzia-californica HT 5
+   eschscholzia-californica SR 0
+   eschscholzia-californica SAFE 20
+   eschscholzia-californica OBS 0
+   eschscholzia-californica REV 6
+eschscholzia-californica done
+   eucalyptus-globulus HT 54
+   eucalyptus-globulus SR 10
+   eucalyptus-globulus SAFE 196
+   eucalyptus-globulus OBS 11
+   eucalyptus-globulus REV 41
+eucalyptus-globulus done
+   euphrasia-officinalis HT 5
+   euphrasia-officinalis SR 0
+   euphrasia-officinalis SAFE 4
+   euphrasia-officinalis OBS 1
+   euphrasia-officinalis REV 1
+euphrasia-officinalis done
+   filipendula-ulmaria HT 2
+   filipendula-ulmaria SR 0
+   filipendula-ulmaria SAFE 18
+   filipendula-ulmaria OBS 1
+   filipendula-ulmaria REV 3
+filipendula-ulmaria done
+   filipendula-vulgaris HT 1
+   filipendula-vulgaris SR 0
+   filipendula-vulgaris SAFE 25
+   filipendula-vulgaris OBS 0
+   filipendula-vulgaris REV 2
+filipendula-vulgaris done
+
+PUBMED-DONE
+eschscholzia-californica done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Eucalyptus+globulus%22+OR+TITLE%3A%22Blu The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Eucalyptus+globulus%22+OR+TITLE%3A%22Blu The read operation timed out
+eucalyptus-globulus done
+euphrasia-officinalis done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Filipendula+ulmaria%22+OR+TITLE%3A%22Mea The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Filipendula+ulmaria%22+AND+%28TITLE%3Arandomized+OR+TIT The read operation timed out
+filipendula-ulmaria done
+filipendula-vulgaris done
+# Research-deepening batch 13 - Europe PMC
+SEARCH-DONE

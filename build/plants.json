@@ -22301,16 +22301,17 @@
     },
     {
      "condition": "wounds",
-     "note": "Traditionally used for minor wounds (EU herbal monograph)",
+     "note": "Horsetail ointment improved the healing of episiotomy wounds and reduced their pain more than placebo in a randomized double-blind trial; traditionally used for minor wounds (EU herbal monograph)",
      "reference_ids": [
-      "REF-0083"
+      "REF-0083",
+      "REF-5342"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0117",
       "REF-0262"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Wounds"
     }
    ],
@@ -22337,6 +22338,22 @@
       "REF-0223",
       "REF-0262",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Pancreas: a woman had repeated mild attacks of acute pancreatitis that stopped once she gave up drinking horsetail infusions regularly (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5343"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Skin products: a 2026 Cosmetic Ingredient Review safety assessment concluded that five field horsetail-derived ingredients are safe as used in cosmetics.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5345"
      ],
      "status": "verified"
     }
@@ -22383,6 +22400,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "field-horsetail"
   },
   {

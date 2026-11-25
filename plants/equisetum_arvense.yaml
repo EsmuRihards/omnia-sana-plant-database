@@ -198,9 +198,11 @@ indications:
   - REF-0117
   - REF-0262
 - condition: wounds
-  note: Traditionally used for minor wounds (EU herbal monograph)
+  note: Horsetail ointment improved the healing of episiotomy wounds and reduced their pain more than
+    placebo in a randomized double-blind trial; traditionally used for minor wounds (EU herbal monograph)
   reference_ids:
   - REF-0083
+  - REF-5342
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0117
@@ -225,8 +227,8 @@ contraindications:
 - note: 'Duke (2002) rates horsetail as + (moderate caution) and notes clinical evidence (score 2) for
     its diuretic and wound-healing (vulnerary) activities, consistent with Commission E approval. High
     silica content may strengthen connective tissue, hair, and nails. Dose: 6 g dried herb daily as tea
-    or in capsules. Horsetail contains thiaminase (breaks down vitamin B1) and an unidentified neurotoxin -
-    it should not be taken long-term or in large quantities. Not for use in patients with edema due
+    or in capsules. Horsetail contains thiaminase (breaks down vitamin B1) and an unidentified neurotoxin
+    - it should not be taken long-term or in large quantities. Not for use in patients with edema due
     to cardiac or renal insufficiency, and avoid in children under 12 (Duke, 2002).'
   severity: caution
   reference_ids:
@@ -236,6 +238,18 @@ contraindications:
   - REF-0223
   - REF-0262
   - REF-0063
+  status: verified
+- note: 'Pancreas: a woman had repeated mild attacks of acute pancreatitis that stopped once she gave
+    up drinking horsetail infusions regularly (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5343
+  status: verified
+- note: 'Skin products: a 2026 Cosmetic Ingredient Review safety assessment concluded that five field
+    horsetail-derived ingredients are safe as used in cosmetics.'
+  severity: info
+  reference_ids:
+  - REF-5345
   status: verified
 references:
 - REF-1398
@@ -320,4 +334,27 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. Diuretic RCT REF-0041
   and EU monograph REF-0083 removed from actions they do not support (anti-inflammatory,
   anti-rheumatic, antimicrobial; REF-0041 also vulnerary). Notes rewritten.
-  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-2] and preparations[0] cited only REF-0041 (RCT of a dried extract as a diuretic in healthy men), which says nothing about folk use, silica, flavonoids, thiaminase or teas. RE-SOURCED: PFAF REF-3253 (astringent/wound/connective-tissue uses, 10%% silica, thiaminase), EU herbal monograph REF-0083 (traditional indications; 1-4 g as infusion or decoction 3-4x daily for 2-4 weeks), REF-1398 + REF-1401 (flavonoids; kaempferol and luteolin glucosides). REF-0041 kept only for its result. Dropped as unsupported: urinary gravel, tonic for hair, nails and skin, signature source of silica in Western herbalism, antioxidant flavonoids contributing to anti-inflammatory activity (REF-1401''s most active isolates were not the flavonoids), dried sterile stem, connective-tissue-support tea.'
+  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-2] and preparations[0] cited only REF-0041 (RCT of a dried extract as a diuretic in healthy men), which says nothing about folk use, silica, flavonoids, thiaminase or teas. RE-SOURCED: PFAF REF-3253 (astringent/wound/connective-tissue uses, 10%% silica, thiaminase), EU herbal monograph REF-0083 (traditional indications; 1-4 g as infusion or decoction 3-4x daily for 2-4 weeks), REF-1398 + REF-1401 (flavonoids; kaempferol and luteolin glucosides). REF-0041 kept only for its result. Dropped as unsupported: urinary gravel, tonic for hair, nails and skin, signature source of silica in Western herbalism, antioxidant flavonoids contributing to anti-inflammatory activity (REF-1401''s most active isolates were not the flavonoids), dried sterile stem, connective-tissue-support tea.
+  | 2026-11-25: symptom-source audit research-deepening batch 12 - Searched PubMed (Equisetum
+  arvense / field / common horsetail tiab; horsetail, Equisetum ti: 24 HT, 1 SR, 57 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (9) and OpenAlex. Added: 2015 episiotomy ointment placebo RCT to
+  wounds; a 2017 pancreatitis case as a new caution; the 2026 CIR cosmetic safety assessment as an
+  info note; DRAFT antiretroviral interaction (two virological-breakthrough cases with a
+  horsetail-containing supplement, 2017; needs owner sign-off). Dead end: the 2022
+  antihypertensive RCT compared horsetail only with hydrochlorothiazide (active comparator, no
+  placebo), so no blood-pressure pair. Not added: hyponatraemia case letters (2018, horsetail
+  juice; 2021, with SIADH) and a 2004 carrot/horsetail anaphylaxis case - no abstract, worth a
+  manual read; vanishing bile duct case (garcinia + horsetail + ketoprofen); silicon absorption
+  and Tamm-Horsfall protein studies (no clinical outcome); Urox, Viviscal, CELcomplex, PEA +
+  horsetail and other combinations; nail lacquer trials (horsetail one ingredient);
+  perineal-trauma and PROM vaginal-cream RCTs (no vocab condition); E. bogotense, E. myriochaetum,
+  E. telmateia, E. hyemale (other species).'
+drug_class_interactions:
+- drug_class: antiretrovirals
+  severity: caution
+  mechanism: Two people on long-standing efavirenz-based HIV treatment had their virus return (virological
+    breakthrough) after taking a herbal supplement containing horsetail; the authors suspected an interaction
+    and advised avoiding the combination (case reports).
+  reference_ids:
+  - REF-5344
+  status: draft

@@ -7269,6 +7269,17 @@
      ]
     },
     {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0083",
+      "REF-5342"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 2,
@@ -7313,16 +7324,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": []
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0083"
-     ]
     }
    ]
   },

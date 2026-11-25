@@ -1,0 +1,40 @@
+   elymus-repens HT 3
+   elymus-repens SR 0
+   elymus-repens SAFE 9
+   elymus-repens OBS 1
+   elymus-repens REV 6
+elymus-repens done
+   epilobium-parviflorum HT 8
+   epilobium-parviflorum SR 0
+   epilobium-parviflorum SAFE 10
+   epilobium-parviflorum OBS 2
+   epilobium-parviflorum REV 6
+epilobium-parviflorum done
+   equisetum-arvense HT 24
+   equisetum-arvense SR 1
+   equisetum-arvense SAFE 57
+   equisetum-arvense OBS 2
+   equisetum-arvense REV 13
+equisetum-arvense done
+   equisetum-pratense HT 0
+   equisetum-pratense SR 0
+   equisetum-pratense SAFE 0
+   equisetum-pratense OBS 0
+   equisetum-pratense REV 0
+equisetum-pratense done
+   equisetum-sylvaticum HT 0
+   equisetum-sylvaticum SR 0
+   equisetum-sylvaticum SAFE 0
+   equisetum-sylvaticum OBS 0
+   equisetum-sylvaticum REV 0
+equisetum-sylvaticum done
+
+PUBMED-DONE
+elymus-repens done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Epilobium+parviflorum%22+AND+%28TITLE%3Arandomized+OR+T The read operation timed out
+epilobium-parviflorum done
+equisetum-arvense done
+equisetum-pratense done
+equisetum-sylvaticum done
+# Research-deepening batch 12 - Europe PMC
+SEARCH-DONE

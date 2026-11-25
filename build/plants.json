@@ -17656,6 +17656,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Hawthorn (Crataegus spp.) extracts lowered systolic blood pressure by a clinically significant amount in a 2025 meta-analysis of placebo-controlled randomized trials in hypertension",
+     "reference_ids": [
+      "REF-5282"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [
@@ -17665,7 +17675,8 @@
      "reference_ids": [
       "REF-0082",
       "REF-2442",
-      "REF-0220"
+      "REF-0220",
+      "REF-5285"
      ],
      "status": "verified"
     },
@@ -17967,16 +17978,17 @@
     },
     {
      "condition": "insomnia",
-     "note": "A standardised saffron extract improved subjective and objective sleep quality in older adults with sleep complaints (randomized trial); described as hypnotic in Avicenna's Canon (historical review)",
+     "note": "Saffron improved sleep quality and duration vs placebo in a 2022 meta-analysis of randomized trials (very low to moderate quality), and a standardised extract improved subjective and objective sleep in older adults with sleep complaints; described as hypnotic in Avicenna's Canon (historical review)",
      "reference_ids": [
       "REF-0115",
-      "REF-3518"
+      "REF-3518",
+      "REF-5287"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2010"
      ],
-     "evidence": 5,
+     "evidence": 8,
      "label": "Insomnia / sleeplessness"
     },
     {
@@ -18070,6 +18082,46 @@
      "status": "verified",
      "evidence": 8,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "Saffron supplements lowered triglycerides, total and LDL cholesterol in a 2022 dose-response meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-5288"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Saffron supplements lowered systolic blood pressure in a 2022 dose-response meta-analysis of randomized trials",
+     "reference_ids": [
+      "REF-5288"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "High blood pressure"
+    },
+    {
+     "condition": "low-libido",
+     "note": "Saffron capsules taken with vitamin E improved overall sexual function, including libido, more than vitamin E alone in women with sexual dysfunction (triple-blind randomized trial)",
+     "reference_ids": [
+      "REF-5302"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low libido"
+    },
+    {
+     "condition": "menopause",
+     "note": "A standardised saffron extract (affron) eased the mood and psychological symptoms of perimenopause (anxiety and low mood) more than placebo in a randomized double-blind trial, but not hot flushes or physical symptoms",
+     "reference_ids": [
+      "REF-5303"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Menopause"
     }
    ],
    "contraindications": [
@@ -18079,7 +18131,8 @@
      "reference_ids": [
       "REF-0005",
       "REF-0115",
-      "REF-0172"
+      "REF-0172",
+      "REF-5289"
      ],
      "status": "verified"
     },
@@ -18091,6 +18144,23 @@
       "REF-0115",
       "REF-0172",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Medicines: drinking saffron infusion for six days modestly reduced the activity of CYP1A2, a liver enzyme that clears some drugs (by about 14%, mainly in men); the authors judged meaningful drug interactions unlikely, except possibly with CYP1A2-cleared drugs in men (study in healthy volunteers).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5304"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "In placebo-controlled safety studies in healthy volunteers, saffron tablets of 200 to 400 mg a day for a week were well tolerated and did not change clotting factors or clotting times; 400 mg lowered standing blood pressure and slightly changed some blood counts and kidney markers, all within normal ranges.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5305",
+      "REF-5307"
      ],
      "status": "verified"
     }
@@ -18376,6 +18446,16 @@
      "status": "verified",
      "evidence": 8,
      "label": "High cholesterol"
+    },
+    {
+     "condition": "cognitive-function",
+     "note": "Daily cuminaldehyde-rich cumin essential oil improved cognitive function in healthy older Japanese adults in a randomized double-blind trial",
+     "reference_ids": [
+      "REF-5290"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Cognitive function"
     }
    ],
    "contraindications": [
@@ -18421,7 +18501,8 @@
       "REF-0221",
       "REF-0267",
       "REF-0286",
-      "REF-0307"
+      "REF-0307",
+      "REF-5291"
      ],
      "status": "verified"
     },
@@ -18698,15 +18779,16 @@
     },
     {
      "condition": "indigestion",
-     "note": "Traditional remedy for dyspepsia (WHO monograph)",
+     "note": "Turmeric (Curcuma longa) capsules eased the pain and other symptoms of functional dyspepsia more than placebo, and about as well as omeprazole, in a randomized double-blind trial; traditional remedy for dyspepsia (WHO monograph)",
      "reference_ids": [
-      "REF-3959"
+      "REF-3959",
+      "REF-5308"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0002"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Indigestion"
     },
     {
@@ -18839,6 +18921,71 @@
      "status": "verified",
      "evidence": 7,
      "label": "Low mood / depression"
+    },
+    {
+     "condition": "oral-health",
+     "note": "Turmeric and curcumin, mostly as a gel or mouthwash, reduced the severity and pain of radiotherapy-induced mouth sores (oral mucositis) in head and neck cancer in a 2024 meta-analysis and systematic reviews",
+     "reference_ids": [
+      "REF-5292",
+      "REF-5293",
+      "REF-5294"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "Oral & throat health"
+    },
+    {
+     "condition": "hot-flashes",
+     "note": "Curcuminoids, turmeric's signature compounds (1,000 mg a day), reduced how often hot flushes occurred vs placebo in a small pilot randomized trial in postmenopausal women; a 2025 systematic review found the trial evidence on hot flushes conflicting",
+     "reference_ids": [
+      "REF-5309"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-5310"
+     ],
+     "evidence": 5,
+     "label": "Hot flashes"
+    },
+    {
+     "condition": "prostate-support",
+     "note": "Curcumin, turmeric's signature compound, added to standard prostate medicines improved urinary symptom scores vs placebo in men with benign prostatic hyperplasia in a 2026 meta-analysis of randomized and non-randomized studies",
+     "reference_ids": [
+      "REF-5311"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Prostate support"
+    },
+    {
+     "condition": "pms",
+     "note": "Curcumin capsules (turmeric's signature compound) reduced premenstrual symptoms more than placebo in a double-blind randomized trial in students",
+     "reference_ids": [
+      "REF-5312"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
+    },
+    {
+     "condition": "menstrual-cramps",
+     "note": "Curcumin capsules (turmeric's signature compound) reduced period pain more than placebo in the second and third cycles of a double-blind randomized trial in students",
+     "reference_ids": [
+      "REF-5312"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Menstrual cramps"
+    },
+    {
+     "condition": "fatigue",
+     "note": "Curcumin (turmeric's signature compound, 1 g a day) reduced fatigue and improved musculoskeletal health vs placebo in postmenopausal women in a double-blind randomized trial",
+     "reference_ids": [
+      "REF-5313"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Fatigue / low energy"
     }
    ],
    "contraindications": [
@@ -18872,6 +19019,23 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Contamination: turmeric powder sold in parts of South Asia has been adulterated with lead chromate to brighten its colour, with lead levels high enough to raise children's blood lead; contaminated turmeric was a likely lead source for children in rural Bangladesh. Buy from reputable sources.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5295",
+      "REF-5296"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Kidneys: a man taking turmeric supplements long-term was found to have kidney failure from oxalate nephropathy (oxalate crystals in the kidney) (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5297"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -18895,7 +19059,8 @@
      "severity": "caution",
      "mechanism": "Turmeric/curcumin can raise the blood levels of blood-thinning drugs such as warfarin and clopidogrel and has mild antiplatelet activity, so combined use should be monitored for increased bleeding risk.",
      "reference_ids": [
-      "REF-2454"
+      "REF-2454",
+      "REF-5298"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -19174,7 +19339,8 @@
       "REF-0461",
       "REF-2568",
       "REF-3509",
-      "REF-3510"
+      "REF-3510",
+      "REF-5299"
      ],
      "status": "verified",
      "evidence": 9,
@@ -19182,22 +19348,25 @@
     },
     {
      "condition": "high-blood-pressure",
-     "note": "Artichoke lowered blood pressure in people with hypertension (meta-analysis of randomized trials)",
+     "note": "Artichoke lowered systolic and diastolic blood pressure in meta-analyses of randomized trials, and artichoke powder lowered systolic pressure in a placebo-controlled trial in people with hypertension",
      "reference_ids": [
-      "REF-3508"
+      "REF-3508",
+      "REF-5300",
+      "REF-5301"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 9,
      "label": "High blood pressure"
     },
     {
      "condition": "blood-sugar",
-     "note": "Artichoke products lowered fasting blood sugar in a meta-analysis of randomized trials",
+     "note": "Artichoke products lowered fasting blood sugar in a meta-analysis of randomized trials, and a standardised artichoke extract improved fasting glucose and HbA1c vs placebo in overweight people with impaired fasting glucose (randomized trial)",
      "reference_ids": [
-      "REF-3512"
+      "REF-3512",
+      "REF-5314"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Blood sugar / diabetes support"
     }
    ],

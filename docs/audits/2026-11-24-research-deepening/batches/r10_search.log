@@ -1,0 +1,45 @@
+   crataegus-monogyna HT 70
+   crataegus-monogyna SR 8
+   crataegus-monogyna SAFE 136
+   crataegus-monogyna OBS 8
+   crataegus-monogyna REV 67
+crataegus-monogyna done
+   crocus-sativus HT 384
+   crocus-sativus SR 141
+   crocus-sativus SAFE 606
+   crocus-sativus OBS 29
+   crocus-sativus REV 432
+crocus-sativus done
+   cuminum-cyminum HT 62
+   cuminum-cyminum SR 8
+   cuminum-cyminum SAFE 94
+   cuminum-cyminum OBS 8
+   cuminum-cyminum REV 43
+cuminum-cyminum done
+   curcuma-longa HT 1467
+   curcuma-longa SR 507
+   curcuma-longa SAFE 4120
+   curcuma-longa OBS 116
+   curcuma-longa REV 2003
+curcuma-longa done
+   cynara-scolymus HT 91
+   cynara-scolymus SR 28
+   cynara-scolymus SAFE 133
+   cynara-scolymus OBS 8
+   cynara-scolymus REV 58
+cynara-scolymus done
+
+PUBMED-DONE
+crataegus-monogyna done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Crocus+sativus%22+AND+%28TITLE%3Apatients+OR+TITLE%3Avo The read operation timed out
+crocus-sativus done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Cuminum+cyminum%22+AND+%28TITLE%3Apatients+OR+TITLE%3Av The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Cuminum+cyminum%22+AND+%28TITLE%3Apatients+OR+TITLE%3Av The read operation timed out
+cuminum-cyminum done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Curcuma+longa%22+OR+TITLE%3A%22Turmeric% The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Curcuma+longa%22+OR+TITLE%3A%22Turmeric% The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Curcuma+longa%22+AND+%28TITLE%3Apatients+OR+TITLE%3Avol The read operation timed out
+curcuma-longa done
+cynara-scolymus done
+# Research-deepening batch 10 - Europe PMC
+SEARCH-DONE

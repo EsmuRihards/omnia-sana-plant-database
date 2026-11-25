@@ -194,6 +194,12 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
+- condition: high-blood-pressure
+  note: Hawthorn (Crataegus spp.) extracts lowered systolic blood pressure by a clinically significant
+    amount in a 2025 meta-analysis of placebo-controlled randomized trials in hypertension
+  reference_ids:
+  - REF-5282
+  status: verified
 contraindications:
 - note: Generally well tolerated. Hawthorn should not replace prescribed cardiac medications without medical
     supervision. May potentiate the effects of cardiac glycosides (digoxin), antihypertensive drugs, and
@@ -204,6 +210,7 @@ contraindications:
   - REF-0082
   - REF-2442
   - REF-0220
+  - REF-5285
   status: verified
 - note: 'Duke (2002) rates hawthorn as +++ - one of the most clinically supported cardiovascular herbs.
     Clinical evidence (score 2) supports its use for decreasing cardiac output (NYHA functional Stage
@@ -301,4 +308,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 5 - Deep re-sweep. SPICE REF-3514 and
   HERB CHF REF-3515 recorded as no-effect for cardiovascular-support. Cochrane REF-2442 and EU
   monograph REF-0082 removed from actions they do not support (anti-inflammatory, antioxidant;
-  REF-2442 also sedative).'
+  REF-2442 also sedative).
+  | 2026-11-25: symptom-source audit research-deepening batch 10 - Searched PubMed (Crataegus
+  monogyna / common / single-seed hawthorn tiab; hawthorn, Crataegus, WS 1442 ti), Europe PMC,
+  ClinicalTrials.gov (38) and OpenAlex; the hit list largely duplicates the C. laevigata search
+  (batch 9). Same attribution as the existing cardiovascular pair (Crataegus spp. extracts; the EU
+  monograph covers both species): NEW high-blood-pressure pair from the 2025 MA of placebo RCTs
+  (REF-5282, held since batch 9); 2006 adverse-event SR (REF-5285) added to the safety note. C.
+  oxyacantha trials (berry extract, ECG) stay on C. laevigata, where that name is recorded as a
+  synonym. No C. monogyna-specific human trial found.'

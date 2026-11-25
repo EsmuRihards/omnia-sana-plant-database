@@ -1664,6 +1664,18 @@
      ]
     },
     {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3508",
+      "REF-5300",
+      "REF-5301"
+     ]
+    },
+    {
      "condition": "high-cholesterol",
      "label": "High cholesterol",
      "evidence": 9,
@@ -1688,27 +1700,19 @@
       "REF-0461",
       "REF-2568",
       "REF-3509",
-      "REF-3510"
+      "REF-3510",
+      "REF-5299"
      ]
     },
     {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
-     "evidence": 7,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-3512"
-     ]
-    },
-    {
-     "condition": "high-blood-pressure",
-     "label": "High blood pressure",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-3508"
+      "REF-3512",
+      "REF-5314"
      ]
     },
     {
@@ -5780,6 +5784,16 @@
      ]
     },
     {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5290"
+     ]
+    },
+    {
      "condition": "bloating",
      "label": "Bloating",
      "evidence": 2,
@@ -8916,6 +8930,16 @@
      "references": [
       "REF-0082",
       "REF-2442"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5282"
      ]
     },
     {
@@ -13704,6 +13728,18 @@
      ]
     },
     {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0115",
+      "REF-3518",
+      "REF-5287"
+     ]
+    },
+    {
      "condition": "pms",
      "label": "PMS / premenstrual syndrome",
      "evidence": 8,
@@ -13712,6 +13748,26 @@
      "references": [
       "REF-3520",
       "REF-3521"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5288"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5288"
      ]
     },
     {
@@ -13755,14 +13811,13 @@
      ]
     },
     {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
+     "condition": "low-libido",
+     "label": "Low libido",
      "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
+     "status": "verified",
+     "inferred": false,
      "references": [
-      "REF-0115",
-      "REF-3518"
+      "REF-5302"
      ]
     },
     {
@@ -13773,6 +13828,16 @@
      "inferred": true,
      "references": [
       "REF-3523"
+     ]
+    },
+    {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5303"
      ]
     },
     {
@@ -15776,6 +15841,18 @@
      ]
     },
     {
+     "condition": "oral-health",
+     "label": "Oral & throat health",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5292",
+      "REF-5293",
+      "REF-5294"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 8,
@@ -15852,6 +15929,16 @@
      ]
     },
     {
+     "condition": "prostate-support",
+     "label": "Prostate support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5311"
+     ]
+    },
+    {
      "condition": "psoriasis",
      "label": "Psoriasis",
      "evidence": 7,
@@ -15870,6 +15957,57 @@
      "references": [
       "REF-0308",
       "REF-2165"
+     ]
+    },
+    {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5313"
+     ]
+    },
+    {
+     "condition": "hot-flashes",
+     "label": "Hot flashes",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5309"
+     ]
+    },
+    {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3959",
+      "REF-5308"
+     ]
+    },
+    {
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5312"
+     ]
+    },
+    {
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5312"
      ]
     },
     {
@@ -15895,16 +16033,6 @@
     {
      "condition": "acid-reflux",
      "label": "Acid reflux",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-3959"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

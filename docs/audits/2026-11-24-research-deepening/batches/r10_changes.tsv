@@ -1,0 +1,33 @@
+plant	condition	ref	op
+crataegus_monogyna	high-blood-pressure	REF-5282	newpair
+crocus_sativus	insomnia	REF-5287	add
+crocus_sativus	insomnia	-	note
+crocus_sativus	high-cholesterol	REF-5288	newpair
+crocus_sativus	high-blood-pressure	REF-5288	newpair
+crocus_sativus	low-libido	REF-5302	newpair
+crocus_sativus	menopause	REF-5303	newpair
+cuminum_cyminum	cognitive-function	REF-5290	newpair
+curcuma_longa	oral-health	REF-5292,REF-5293,REF-5294	newpair
+curcuma_longa	indigestion	REF-5308	add
+curcuma_longa	indigestion	-	note
+curcuma_longa	hot-flashes	REF-5309	newpair
+curcuma_longa	hot-flashes	REF-5310	nulladd
+curcuma_longa	prostate-support	REF-5311	newpair
+curcuma_longa	pms	REF-5312	newpair
+curcuma_longa	menstrual-cramps	REF-5312	newpair
+curcuma_longa	fatigue	REF-5313	newpair
+cynara_scolymus	liver-support	REF-5299	add
+cynara_scolymus	high-blood-pressure	REF-5300	add
+cynara_scolymus	high-blood-pressure	REF-5301	add
+cynara_scolymus	high-blood-pressure	-	note
+cynara_scolymus	blood-sugar	REF-5314	add
+cynara_scolymus	blood-sugar	-	note
+crataegus_monogyna	ciadd	Generally well tolerated. Hawthorn should not replace	REF-5285
+crocus_sativus	ciadd	Culinary use is entirely safe	REF-5289
+crocus_sativus	cinew	Medicines: drinking saffron infusion for	REF-5304
+crocus_sativus	cinew	In placebo-controlled safety studies in 	REF-5305,REF-5307
+crocus_sativus	dcinew	anticoagulants-antiplatelets	REF-5306,REF-5307
+cuminum_cyminum	ciadd	Allergy risk: cumin can trigger allergic reactions	REF-5291
+curcuma_longa	cinew	Contamination: turmeric powder sold in p	REF-5295,REF-5296
+curcuma_longa	cinew	Kidneys: a man taking turmeric supplemen	REF-5297
+curcuma_longa	dciadd	anticoagulants-antiplatelets	REF-5298

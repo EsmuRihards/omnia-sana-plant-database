@@ -180,9 +180,12 @@ indications:
   note: Curcumin's anti-inflammatory effects have been studied in cardiovascular disease (review; compound
     evidence)
 - condition: indigestion
-  note: Traditional remedy for dyspepsia (WHO monograph)
+  note: Turmeric (Curcuma longa) capsules eased the pain and other symptoms of functional dyspepsia more
+    than placebo, and about as well as omeprazole, in a randomized double-blind trial; traditional remedy
+    for dyspepsia (WHO monograph)
   reference_ids:
   - REF-3959
+  - REF-5308
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0002
@@ -267,6 +270,48 @@ indications:
   reference_ids:
   - REF-3533
   status: verified
+- condition: oral-health
+  note: Turmeric and curcumin, mostly as a gel or mouthwash, reduced the severity and pain of radiotherapy-induced
+    mouth sores (oral mucositis) in head and neck cancer in a 2024 meta-analysis and systematic reviews
+  reference_ids:
+  - REF-5292
+  - REF-5293
+  - REF-5294
+  status: verified
+- condition: hot-flashes
+  note: Curcuminoids, turmeric's signature compounds (1,000 mg a day), reduced how often hot flushes occurred
+    vs placebo in a small pilot randomized trial in postmenopausal women; a 2025 systematic review found
+    the trial evidence on hot flushes conflicting
+  reference_ids:
+  - REF-5309
+  status: verified
+  null_result_ids:
+  - REF-5310
+- condition: prostate-support
+  note: Curcumin, turmeric's signature compound, added to standard prostate medicines improved urinary
+    symptom scores vs placebo in men with benign prostatic hyperplasia in a 2026 meta-analysis of randomized
+    and non-randomized studies
+  reference_ids:
+  - REF-5311
+  status: verified
+- condition: pms
+  note: Curcumin capsules (turmeric's signature compound) reduced premenstrual symptoms more than placebo
+    in a double-blind randomized trial in students
+  reference_ids:
+  - REF-5312
+  status: verified
+- condition: menstrual-cramps
+  note: Curcumin capsules (turmeric's signature compound) reduced period pain more than placebo in the
+    second and third cycles of a double-blind randomized trial in students
+  reference_ids:
+  - REF-5312
+  status: verified
+- condition: fatigue
+  note: Curcumin (turmeric's signature compound, 1 g a day) reduced fatigue and improved musculoskeletal
+    health vs placebo in postmenopausal women in a double-blind randomized trial
+  reference_ids:
+  - REF-5313
+  status: verified
 contraindications:
 - note: Rare but serious liver injury (acute hepatitis) has been reported with turmeric and curcumin supplements,
     mostly high-dose or high-absorption products, some combined with black pepper (piperine). Case series
@@ -302,6 +347,20 @@ contraindications:
   - REF-0308
   - REF-0063
   status: verified
+- note: 'Contamination: turmeric powder sold in parts of South Asia has been adulterated with lead chromate
+    to brighten its colour, with lead levels high enough to raise children''s blood lead; contaminated
+    turmeric was a likely lead source for children in rural Bangladesh. Buy from reputable sources.'
+  severity: caution
+  reference_ids:
+  - REF-5295
+  - REF-5296
+  status: verified
+- note: 'Kidneys: a man taking turmeric supplements long-term was found to have kidney failure from oxalate
+    nephropathy (oxalate crystals in the kidney) (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5297
+  status: verified
 references:
 - REF-0791
 - REF-0792
@@ -324,6 +383,7 @@ drug_class_interactions:
     bleeding risk.
   reference_ids:
   - REF-2454
+  - REF-5298
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -392,4 +452,24 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0308 replaced by the turmeric monograph entry REF-3959 on acid-reflux (acid dyspepsia),
   indigestion (dyspepsia) and infection (ringworm, folk use); the infection note no longer claims a
   lab review it never cited. The wounds pair is left on REF-0308 for owner review: the WHO turmeric
-  monograph does not mention wounds.'
+  monograph does not mention wounds.
+  | 2026-11-25: symptom-source audit research-deepening batch 10 - Searched PubMed (Curcuma longa
+  tiab; turmeric, curcumin, curcuminoids ti: 1,467 HT, 507 SR, 4,120 SAFE hits; SR/MA and safety
+  read in depth), Europe PMC, ClinicalTrials.gov (248) and OpenAlex. Arthritis, inflammation,
+  blood sugar, cholesterol, BP, IBD, psoriasis and depression are already MA-backed and were not
+  padded. Added: NEW oral-health pair (2024 oral-mucositis MA, 2026 and 2019 SRs); lead-chromate
+  adulteration (South Asia 2024; Bangladesh 2014) as a new caution; oxalate nephropathy case 2024
+  as a new caution; a probable fluindione (vitamin K antagonist) INR-rise case to the approved
+  anticoagulant interaction (its only source was a rat study; text unchanged). NOT ADDED:
+  liver-support (MASLD MAs) because the record carries a serious liver-injury warning (inv. 12d);
+  periodontitis adjunct MAs (local delivery, mixed photodynamic designs); oral lichen planus vs
+  corticosteroids (active comparator); earlier PMS / dysmenorrhoea trials whose outcomes were
+  sleep, cognition, immunity or vitamin D; further liver-injury case reports (the serious warning
+  already has three case series). Europe PMC pass added: 2022 Thai placebo RCT in functional
+  dyspepsia (indigestion was resting on the WHO monograph alone); NEW hot-flashes pair (2026
+  curcuminoid pilot RCT, with the 2025 menopause SR as no-effect since it found hot-flush results
+  conflicting); NEW prostate-support (2026 BPH MA, curcumin as add-on); NEW pms and
+  menstrual-cramps (2025 Tabriz placebo RCT, PSST and pain VAS); NEW fatigue (2025 BMJ Open
+  placebo RCT in postmenopausal women). Not added: 2026 Japanese cognition RCT (2 of 35 endpoints
+  significant), chemotherapy-neuropathy RCTs (sensory symptoms, not pain: near-miss), curcumin vs
+  triamcinolone for mouth ulcers (active comparator), preprints.'

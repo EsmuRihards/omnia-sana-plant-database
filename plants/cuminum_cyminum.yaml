@@ -147,6 +147,12 @@ indications:
   - REF-0652
   - REF-0286
   status: verified
+- condition: cognitive-function
+  note: Daily cuminaldehyde-rich cumin essential oil improved cognitive function in healthy older Japanese
+    adults in a randomized double-blind trial
+  reference_ids:
+  - REF-5290
+  status: verified
 contraindications:
 - note: Food amounts are generally considered safe; in the US it’s listed as GRAS as a spice/flavoring
     (LactMed, 2025).
@@ -190,6 +196,7 @@ contraindications:
   - REF-0267
   - REF-0286
   - REF-0307
+  - REF-5291
   status: verified
 - note: Duke (2002) rates cumin as +++ and notes carminative, digestive, and aperitif activities at experimental
     levels (score 1). The plant demonstrates estrogenic activity in animal studies and has antifungal
@@ -263,7 +270,15 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Tavakoli-Rouzbehani 2022, PMID 34825421); REF-0158 and REF-0026 DOIs fixed (trailing "/full").
   New high-cholesterol pair (owner rule; REF-0652, REF-0286). Weight-loss RCT REF-3528 added to
   metabolic-support. Muscle-spasm dropped: REF-0008''s "antispasmodic" is gut smooth muscle
-  (off-target, inv. 11).'
+  (off-target, inv. 11).
+  | 2026-11-25: symptom-source audit research-deepening batch 10 - Searched PubMed (Cuminum
+  cyminum tiab, cumin ti), Europe PMC, ClinicalTrials.gov (34) and OpenAlex; "black cumin"
+  (Nigella sativa) and Bunium persicum hits excluded as other species. Metabolic (9) and
+  cholesterol (8) are already MA-backed. Added: NEW cognitive-function pair (2026 Japanese placebo
+  RCT, UMIN000050328); 2026 paediatric cumin anaphylaxis case and review to the allergy note. Dead
+  end: 2015 double-blind RCT in NASH found no difference from placebo (no liver pair exists). Not
+  added: IBS case series (uncontrolled), cumin + lime, cumin + cinnamon and other combinations,
+  saliva substitute with ginger, 1997 anaphylaxis letter (no abstract).'
 references:
 - REF-0652
 - REF-0026

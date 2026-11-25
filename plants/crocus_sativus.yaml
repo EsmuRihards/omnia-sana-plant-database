@@ -178,11 +178,13 @@ indications:
   - REF-0115
   status: needs-review
 - condition: insomnia
-  note: A standardised saffron extract improved subjective and objective sleep quality in older adults
-    with sleep complaints (randomized trial); described as hypnotic in Avicenna's Canon (historical review)
+  note: Saffron improved sleep quality and duration vs placebo in a 2022 meta-analysis of randomized trials
+    (very low to moderate quality), and a standardised extract improved subjective and objective sleep
+    in older adults with sleep complaints; described as hypnotic in Avicenna's Canon (historical review)
   reference_ids:
   - REF-0115
   - REF-3518
+  - REF-5287
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2010
@@ -243,6 +245,31 @@ indications:
   - REF-2502
   - REF-3522
   status: verified
+- condition: high-cholesterol
+  note: Saffron supplements lowered triglycerides, total and LDL cholesterol in a 2022 dose-response meta-analysis
+    of randomized trials
+  reference_ids:
+  - REF-5288
+  status: verified
+- condition: high-blood-pressure
+  note: Saffron supplements lowered systolic blood pressure in a 2022 dose-response meta-analysis of randomized
+    trials
+  reference_ids:
+  - REF-5288
+  status: verified
+- condition: low-libido
+  note: Saffron capsules taken with vitamin E improved overall sexual function, including libido, more
+    than vitamin E alone in women with sexual dysfunction (triple-blind randomized trial)
+  reference_ids:
+  - REF-5302
+  status: verified
+- condition: menopause
+  note: A standardised saffron extract (affron) eased the mood and psychological symptoms of perimenopause
+    (anxiety and low mood) more than placebo in a randomized double-blind trial, but not hot flushes or
+    physical symptoms
+  reference_ids:
+  - REF-5303
+  status: verified
 contraindications:
 - note: Culinary use is entirely safe. At very high doses (5g+), saffron can be toxic - but such doses
     far exceed culinary or therapeutic amounts. Avoid medicinal doses during pregnancy (uterine stimulant).
@@ -252,6 +279,7 @@ contraindications:
   - REF-0005
   - REF-0115
   - REF-0172
+  - REF-5289
   status: verified
 - note: 'Duke (2002) rates saffron as ++ and provides a critical safety warning: abortifacient activity
     has clinical support (score 2), meaning that medicinal doses can induce abortion - saffron is strictly
@@ -266,6 +294,22 @@ contraindications:
   - REF-0115
   - REF-0172
   - REF-0063
+  status: verified
+- note: 'Medicines: drinking saffron infusion for six days modestly reduced the activity of CYP1A2, a
+    liver enzyme that clears some drugs (by about 14%, mainly in men); the authors judged meaningful drug
+    interactions unlikely, except possibly with CYP1A2-cleared drugs in men (study in healthy volunteers).'
+  severity: info
+  reference_ids:
+  - REF-5304
+  status: verified
+- note: In placebo-controlled safety studies in healthy volunteers, saffron tablets of 200 to 400 mg a
+    day for a week were well tolerated and did not change clotting factors or clotting times; 400 mg lowered
+    standing blood pressure and slightly changed some blood counts and kidney markers, all within normal
+    ranges.
+  severity: info
+  reference_ids:
+  - REF-5305
+  - REF-5307
   status: verified
 references:
 - REF-0788
@@ -315,6 +359,15 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: A man taking the anticoagulant rivaroxaban developed nosebleeds and bleeding gums after starting
+    a saffron supplement (case report); a placebo-controlled study in healthy volunteers found no effect
+    of 200 to 400 mg saffron a day for a week on clotting factors or clotting times.
+  reference_ids:
+  - REF-5306
+  - REF-5307
+  status: draft
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -397,4 +450,28 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-2002), sleep RCT REF-3518 (insomnia), OA RCT REF-3519 (arthritis), AD RCT REF-3523
   (cognition, memory). New pairs (owner rule): pms (REF-3520 RCT, REF-3521 MA), menstrual-cramps
   (REF-3521), metabolic-support (REF-3522), blood-sugar (held MA REF-2502 + REF-3522).
-  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-1], preparations[0] and dosage[0] cited only REF-0788 (saffron vs SSRI meta-analysis; abstract gives no chemistry, form or dose). RE-SOURCED: WHO Stigma Croci vol. 3 (REF-3979, new; uses, constituents, dosage forms, posology); 30 mg/day capsules from the trials REF-0005 (depression vs imipramine), REF-3520 (PMS) and REF-3523 (Alzheimer''s). REF-0172 (PETAL capsules) deliberately not used for the stigma dose. Dropped as unsupported: Mediterranean, Middle Eastern and South Asian tradition wording, colour and scent attributions, antioxidant and mood activity of constituents, standardised to safranal/crocin, metabolic studies, culinary use under 1 g.'
+  | 2026-11-19 (monograph-source audit): traditional_uses, constituents[0-1], preparations[0] and dosage[0] cited only REF-0788 (saffron vs SSRI meta-analysis; abstract gives no chemistry, form or dose). RE-SOURCED: WHO Stigma Croci vol. 3 (REF-3979, new; uses, constituents, dosage forms, posology); 30 mg/day capsules from the trials REF-0005 (depression vs imipramine), REF-3520 (PMS) and REF-3523 (Alzheimer''s). REF-0172 (PETAL capsules) deliberately not used for the stigma dose. Dropped as unsupported: Mediterranean, Middle Eastern and South Asian tradition wording, colour and scent attributions, antioxidant and mood activity of constituents, standardised to safranal/crocin, metabolic studies, culinary use under 1 g.
+  | 2026-11-25: symptom-source audit research-deepening batch 10 - Searched PubMed (Crocus sativus
+  / saffron tiab; crocin, safranal ti: 384 HT, 141 SR, 606 SAFE hits; SR/MA read in depth), Europe
+  PMC, ClinicalTrials.gov (32) and OpenAlex. Depression (10), anxiety, PMS, period pain, metabolic
+  and blood-sugar pairs are already MA-backed and were not padded. Added: 2022 insomnia MA to
+  insomnia; NEW high-cholesterol and high-blood-pressure pairs from the 2022 cardiovascular-risk
+  dose-response MA; 2026 integrative pregnancy review (low doses promising for labour, excessive
+  intake risky) to the pregnancy caution. Not added: erectile-dysfunction MA 2018 (not low libido:
+  near-miss, inv. 12c/f), crocin lipid MA 2025 (inconclusive), saffron + fenugreek glucose MA
+  (combined), umbrella reviews of depression (already at 10). Europe PMC pass: NEW low-libido pair
+  (2024 Tabriz triple-blind RCT, saffron + vitamin E vs vitamin E alone, libido domain improved)
+  and NEW menopause pair (2021 affron RCT in perimenopause: psychological symptoms improved,
+  vasomotor and somatic did not); CYP1A2 phenotyping study 2019 and two healthy-volunteer safety
+  studies (2008 tablets, 2014 coagulation) as info notes; DRAFT anticoagulant interaction from a
+  2022 rivaroxaban bleeding case report, stated with the negative 2014 coagulation study (needs
+  owner sign-off). HELD pending owner decision: a 2026 data-integrity analysis (Research Integrity
+  and Peer Review, PMID 42288935) found that 223 RCTs from one psychopharmacology research group
+  were unlikely to have been randomised and cautioned against using them; it estimates the group
+  produced about a third of saffron-vs-placebo trials. Three candidate trials share that group''s
+  senior author and were not added: hot flushes in postmenopausal depression (PMID 29332222; the
+  only positive hot-flush trial, so no hot-flushes pair), fluoxetine-induced sexual dysfunction in
+  women (23280545; desire not improved) and female sexual dysfunction (36186931); nor the 2019
+  sexual-dysfunction MA pooling such trials (31516855). Existing pairs citing that group are
+  unchanged pending the owner. Not added: preprints (Safr''Inside menopause and PMS RCTs 2026,
+  glycaemic MA 2026), crocin-only trials outside the vocabulary.'

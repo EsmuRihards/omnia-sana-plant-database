@@ -1,0 +1,2253 @@
+# Research-deepening batch 10 - search
+
+## crataegus-monogyna (Crataegus monogyna) - name clause: "Crataegus monogyna"[tiab] OR "common hawthorn"[tiab] OR "single-seed hawthorn"[tiab] OR "hawthorn"[ti] OR "Crataegus"[ti] OR "WS 1442"[ti]
+
+### PubMed HT - 70 hits, 70 not already listed above, 61 new
+- new | 2026 | 41598329 | Review | Medicinal Plants and Phytochemicals in Cardioprotection-Mechanistic Pathways and Translational Roadmap. | Life (Basel)
+- new | 2026 | 42163902 |  | High-intensity interval training and Crataegus pentagyna extract enhance metabolic and oxidant profiles in ovariectomized Wistar rats. | Res Pharm Sci
+- new | 2026 | 42694165 | Clinical Trial | The effect of hawthorn vinegar, black mulberry syrup, and green tea on oral mucositis and oral health-related quality of life in individuals with diabetes: a single-blind, randomiz | Front Med (Lausanne)
+- new | 2025 | 41216528 | Retraction Notice | Retraction notice to "Phytochemical composition and bioactivities of Crataegus aronia as antioxidant, antibacterial and antioxidative stress in red blood cells - Is it a window of  | Heliyon
+- HELD REF-5282 | 2025 | 40732315 | Review | Hawthorn (Crataegus spp.) Clinically Significantly Reduces Blood Pressure in Hypertension: A Meta-Analysis of Randomized Placebo-Controlled Clinical Trials. | Pharmaceuticals (Basel)
+- new | 2025 | 41194549 | Randomized Controlled Trial | Effects of a Scutellaria baicalensis/Crataegus laevigata, magnesium and chromium supplement on stressed individuals: A randomised, double-blind, placebo-controlled, crossover trial | J Psychopharmacol
+- new | 2025 | 40573097 | Randomized Controlled Trial | Effects of Hawthorn Fruit Supplementation on Facial Skin Phenotypes and Leukocyte Telomere Length Stratified by TERT Polymorphisms. | Nutrients
+- new | 2024 | 39583031 |  | Effects of Hawthorn Fruit Extract Drink in Chinese Patients With Mild Hypertension and/or Hyperlipidaemia: A Randomized, Double-Blind, Placebo-Controlled, Crossover Study. | Dose Response
+- new | 2024 | 38398818 | Randomized Controlled Trial | Efficacy of Crataegus Extract Mixture on Body Fat and Lipid Profiles in Overweight Adults: A 12-Week, Randomized, Double-Blind, Placebo-Controlled Trial. | Nutrients
+- new | 2024 | 39209360 | Randomized Controlled Trial | Effect of vitamin C and hawthorn beverage formula on blood pressure and oxidative stress in heat-exposed workers: a cluster-randomized controlled trial. | Asia Pac J Clin Nutr
+- new | 2024 | 38482041 | Review | Efficacy of traditional Chinese medicine containing hawthorn for hyperlipidemia: a systematic review and meta-analysis. | Toxicol Res (Camb)
+- new | 2023 | 38249078 | Research Support, Non-U.S. Gov't | Enhancing Sleep Quality: Assessing the Efficacy of a Fixed Combination of Linden, Hawthorn, Vitamin B1, and Melatonin. | Med Sci (Basel)
+- new | 2022 | 36468128 | Retracted Publication | Phytochemical composition and bioactivities of Crataegus aronia as antioxidant, antibacterial and antioxidative stress in red blood cells - Is it a window of hope for children with | Heliyon
+- new | 2019 | 31255877 | Meta-Analysis/Systematic Review | The combination of hawthorn extract and camphor significantly increases blood pressure: A meta-analysis and systematic review. | Phytomedicine
+- new | 2019 | 32595244 |  | SAFETY AND EFFECTS OF CRATAEGUS EXTRACT WS 1442 AND NORDIC WALKING ON LIPID PROFILE AND ENDOTHELIAL FUNCTION: A RANDOMIZED, PARTIALLY BLINDED PILOT STUDY IN OVERWEIGHT VOLUNTEERS. | Acta Clin Croat
+- new | 2018 | 29080984 | Review | Benefit-Risk Assessment of Crataegus Extract WS 1442: An Evidence-Based Review. | Am J Cardiovasc Drugs
+- HELD REF-5286 | 2018 | 29672935 | Randomized Controlled Trial | Electrocardiographic effects of hawthorn (Crataegus oxyacantha) in healthy volunteers: A randomized controlled trial. | Phytother Res
+- new | 2018 | 29913528 | Randomized Controlled Trial | Blood Pressure and Cognitive Performance After a Single Administration of a Camphor-Crataegus Combination in Adolescents with Low Blood Pressure. | Planta Med
+- new | 2015 | 26687477 | Clinical Study/Comparative Study | Comparison of the effects of Crataegus oxyacantha extract, aerobic exercise and their combination on the serum levels of ICAM-1 and E-Selectin in patients with stable angina pector | Daru
+- new | 2014 | 24834096 |  | Evaluation of a crataegus-based multiherb formula for dyslipidemia: a randomized, double-blind, placebo-controlled clinical trial. | Evid Based Complement Alternat Med
+- new | 2014 | 25172798 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of repeated administration of camphor-crataegus berry extract combination on blood pressure and on attentional performance - a randomized, placebo-controlled, double-bl | Phytomedicine
+- new | 2013 | 24459528 | Review | Effect of crataegus usage in cardiovascular disease prevention: an evidence-based approach. | Evid Based Complement Alternat Med
+- new | 2012 | 22458601 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effect of hawthorn standardized extract on flow mediated dilation in prehypertensive and mildly hypertensive adults: a randomized, controlled cross-over trial. | BMC Complement Altern Med
+- new | 2011 | 21737127 | Letter/Randomized Controlled Trial | Effects of hawthorn (Crataegus laevigata) on platelet aggregation in healthy volunteers. | Thromb Res
+- new | 2011 | 21899992 | Research Support, Non-U.S. Gov't | Hawthorn special extract WS® 1442 increases red blood cell NO-formation without altering red blood cell deformability. | Phytomedicine
+- new | 2011 | 21242072 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Crataegus laevigata decreases neutrophil elastase and has hypolipidemic effect: a randomized, double-blind, placebo-controlled trial. | Phytomedicine
+- new | 2011 | 21784624 |  | Baseline severity but not gender modulates quantified Crataegus extract effects in early heart failure--a pooled analysis of clinical trials. | Phytomedicine
+- new | 2010 | 21591320 | Multicenter Study/Randomized Controlled Trial | [Hawthorn extract WS 1442 in the treatment of patients with heart failure and LVEF of 25%-35%]. | MMW Fortschr Med [ger]
+- new | 2010 | 20148500 | Review | Health effects of hawthorn. | Am Fam Physician
+- new | 2009 | 18769933 | Clinical Trial/Research Support, Non-U.S. Gov't | Radioprotective effects of Hawthorn against genotoxicity induced by gamma irradiation in human blood lymphocytes. | Radiat Environ Biophys
+- new | 2009 | 19560327 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | D-camphor-crataegus berry extract combination increases blood pressure and cognitive functioning in the elderly - a randomized, placebo controlled double blind study. | Phytomedicine
+- HELD REF-3515 | 2009 | 19789403 | Comparative Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Hawthorn Extract Randomized Blinded Chronic Heart Failure (HERB CHF) trial. | Eur J Heart Fail
+- new | 2009 | 19499718 | Clinical Trial | [Possible use of standardized Crataegus sanguinea extract in correction of cardiac rhythm impairment in patients with chronic heart failure]. | Antibiot Khimioter [rus]
+- new | 2008 | 18929475 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of Camphor-Crataegus berry extract combination on blood pressure and mental functions in chronic hypotension--a randomized placebo controlled double blind design. | Phytomedicine
+- HELD REF-3514 | 2008 | 19019730 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The efficacy and safety of Crataegus extract WS 1442 in patients with heart failure: the SPICE trial. | Eur J Heart Fail
+- new | 2008 | 18490196 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | The effect of Crataegus oxycantha Special Extract WS 1442 on clinical progression in patients with mild to moderate symptoms of heart failure. | Eur J Heart Fail
+- HELD REF-2442 | 2008 | 18254076 | Meta-Analysis/Systematic Review | Hawthorn extract for treating chronic heart failure. | Cochrane Database Syst Rev
+- HELD REF-3516 | 2006 | 16762125 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Hypotensive effects of hawthorn for patients with diabetes taking prescription drugs: a randomised controlled trial. | Br J Gen Pract
+- new | 2005 | 15700798 | Meta-Analysis | [Meta-analysis of randomized clinical studies. Hawthorn extract for treatment of chronic cardiac insufficiency]. | Pharm Unserer Zeit [ger]
+- new | 2005 | 16149711 |  | [Efficacy and safety of a herbal drug containing hawthorn berries and D-camphor in hypotension and orthostatic circulatory disorders/results of a retrospective epidemiologic cohort | Arzneimittelforschung [ger]
+- new | 2005 | 16229244 | Review | [Oligomeric procyanidins from hawthorn extract as supplementary therapy in patients with left ventricle systolic dysfunction]. | Przegl Lek [pol]
+- new | 2004 | 15700749 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Antihypertensive effect of Iranian Crataegus curvisepala Lind.: a randomized, double-blind study. | Drugs Exp Clin Res
+- new | 2004 | 15182778 | Comment/Letter | Observational series of patients treated either with ACE inhibitors and diuretics or with a homeopathic Crataegus preparation. | Eur J Heart Fail
+- new | 2004 | 15353901 | Multicenter Study | Prospective, comparative cohort studies and their contribution to the benefit assessments of therapeutic options: heart failure treatment with and without Hawthorn special extract  | Forsch Komplementarmed Klass Naturheilkd
+- new | 2004 | 14741074 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Double-blind, randomised, placebo-controlled study to evaluate the efficacy and safety of a fixed combination containing two plant extracts (Crataegus oxyacantha and Eschscholtzia  | Curr Med Res Opin
+- new | 2003 | 12807346 | Review | Dose-response related efficacy in orthostatic hypotension of a fixed combination of D-camphor and an extract from fresh crataegus berries and the contribution of the single compone | Phytomedicine
+- HELD REF-5284 | 2003 | 12833999 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | A randomised double blind placebo controlled clinical trial of a standardised extract of fresh Crataegus berries (Crataegisan) in the treatment of patients with congestive heart fa | Phytomedicine
+- new | 2003 | 12798455 | Meta-Analysis | Hawthorn extract for treating chronic heart failure: meta-analysis of randomized trials. | Am J Med
+- HELD REF-2441 | 2003 | 12817526 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Interaction study between digoxin and a preparation of hawthorn (Crataegus oxyacantha). | J Clin Pharmacol
+- new | 2003 | 12798830 | Comparative Study/Evaluation Study/Multicenter Study | Efficacy of a homeopathic Crataegus preparation compared with usual therapy for mild (NYHA II) cardiac insufficiency: results of an observational cohort study. | Eur J Heart Fail
+- new | 2002 | 12487321 | Clinical Trial/Randomized Controlled Trial | Camphor-Crataegus berry extract combination dose-dependently reduces tilt induced fall in blood pressure in orthostatic hypotension. | Phytomedicine
+- new | 2002 | 12040357 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of crataegus extract WS 1442 in comparison with placebo in patients with chronic stable New York Heart Association class-III heart failure. | Am Heart J
+- HELD REF-5283 | 2002 | 11807965 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Promising hypotensive effect of hawthorn extract: a randomized double-blind pilot study of mild, essential hypertension. | Phytother Res
+- new | 2001 | 11515715 | Clinical Trial/Randomized Controlled Trial | Clinical efficacy of crataegus extract WS 1442 in congestive heart failure NYHA class II. | Phytomedicine
+- new | 2001 | 11715631 | Clinical Trial/Randomized Controlled Trial | [Actions of standardized extracts of Crataegus berries on exercise tolerance and quality of life in patients with congestive heart failure]. | Arzneimittelforschung [ger]
+- new | 2000 | 11113721 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Survival and prognosis: investigation of Crataegus extract WS 1442 in congestive heart failure (SPICE)--rationale, study design and study protocol. | Eur J Heart Fail
+- new | 2000 | 10965417 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | [Effects of an herbal crataegus-camphor combination on the symptoms of cardiovascular diseases]. | Arzneimittelforschung [ger]
+- new | 2000 | 11272419 |  | Effect of eugenol and tincture of crataegus (TCR) on in vitro oxidation of LDL + VLDL isolated from plasma of non-insulin dependent diabetic patients. | Indian J Exp Biol
+- new | 1999 | 10483686 | Comparative Study/Review | [Phytogenic drugs in heart diseases exemplified by Crataegus]. | Wien Med Wochenschr [ger]
+- new | 1996 | 8974970 | Clinical Trial/Randomized Controlled Trial | [Crataegus Special Extract WS 1442. Assessment of objective effectiveness in patients with heart failure (NYHA II)]. | Fortschr Med [ger]
+- new | 1996 | 8647566 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Review | [Therapeutic effectiveness of Crataegus]. | Fortschr Med [ger]
+- new | 1994 | 23195811 |  | Efficacy of the Hawthorn (Crataegus) preparation LI 132 in 78 patients with chronic congestive heart failure defined as NYHA functional class II. | Phytomedicine
+- new | 1993 | 8375791 | Clinical Trial/Randomized Controlled Trial | [Crataegus Special Extract WS 1442 in NYHA II heart failure. A placebo controlled randomized double-blind study]. | Fortschr Med [ger]
+- new | 1992 | 1634169 |  | [Crataegus in cardiology]. | Fortschr Med [ger]
+- new | 1986 | 3542766 | Clinical Trial/Randomized Controlled Trial | [Treatment of decreasing cardiac performance. Therapy using standardized crataegus extract in advanced age]. | Fortschr Med [ger]
+- new | 1984 | 6397664 | Clinical Trial | Therapeutic effect of Crataegus pinnatifida on 46 cases of angina pectoris--a double blind study. | J Tradit Chin Med
+- new | 1974 | 4858128 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Clinical experiences with a crataegus pentaerythrityl-tetranitrate combination drug in heart diseases due to coronary sclerosis in old age]. | Wien Med Wochenschr [ger]
+- new | 1965 | 5331286 | Clinical Trial | [The therapeutic effect of hawthorn extract in myocardial hypoxia]. | Med Klin [ger]
+- new | 1956 | 13406959 |  | [Cardiac disorders in children with special reference to Crataegus therapy]. | Kinderarztl Prax [ger]
+- new | 1954 | 13222571 |  | [Intestinal obstruction in children caused by hawthorn berries]. | Khirurgiia (Mosk) [rus]
+
+### PubMed SR - 8 hits, 2 not already listed above, 1 new
+- new | 2024 | 39598401 |  | Analysis of Adverse Reactions Associated with the Use of Crataegus-Containing Herbal Products. | Pharmaceuticals (Basel)
+- HELD REF-5285 | 2006 | 16752934 | Systematic Review | Adverse-event profile of Crataegus spp.: a systematic review. | Drug Saf
+
+### PubMed SAFE - 136 hits, 109 not already listed above, 103 new
+- new | 2026 | 42025193 |  | Protective effects of Crataegus monogyna against cisplatin-induced liver and kidney toxicity in rats. | Drug Chem Toxicol
+- new | 2026 | 42883333 |  | Analysis of Mercury Content in Medicinal Plants Popular in Poland. | Molecules
+- new | 2026 | 41875453 | Case Reports | Crataegus mexicana root-based supplement intoxication in a woman with weight loss persistent preoccupation: Case report. | Biomedica [eng,spa]
+- new | 2026 | 41431296 | Review | Research Progress on The Chemical Composition And Pharmacological Effects of Hawthron (Crataegus spp.): A Review. | J Agric Food Chem
+- new | 2026 | 42352007 |  | Gardenia-Astragalus-Crataegus Extract Alleviates Carbon Tetrachloride-Induced Liver Injury in Mice Through Antioxidant and Apoptosis Pathways. | Antioxidants (Basel)
+- new | 2026 | 41338313 |  | Hawthorn juice transforms notoginseng stem-leaf saponins: Synergistically regulates blood viscosity and ameliorates glycolipid metabolic disorders. | J Ethnopharmacol
+- new | 2026 | 42215098 |  | Enhancement of ursolic acid (UA), an active ingredient in hawthorn, on the uptake and metabolism of 2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside (THSG) derived from Polygonum mu | Food Res Int
+- new | 2025 | 40733200 | Comparative Study | Comparative Analysis of Phenolic, Carotenoid, and Elemental Profiles in Three Crataegus Species from Şebinkarahisar, Türkiye: Implications for Nutritional Value and Safety. | Molecules
+- new | 2025 | 40942185 | Published Erratum | Correction: Şeker et al. Comparative Analysis of Phenolic, Carotenoid, and Elemental Profiles in Three Crataegus Species from Şebinkarahisar, Türkiye: Implications for Nutritional  | Molecules
+- new | 2025 | 40462063 |  | Molecular basis governing diapause and pigmentation in the hawthorn spider mite, Amphitetranychus viennensis. | BMC Biol
+- new | 2025 | 40161310 |  | Hawthorn leaf and its extract alleviate high-fat diet-induced obesity and modulate gut microbiome in mice. | Curr Res Food Sci
+- new | 2025 | 39753628 | Research Support, Non-U.S. Gov't | Gastrointestinal absorption and its regulation of hawthorn leaves flavonoids. | Sci Rep
+- new | 2025 | 40628832 |  | Combined exercise and Hawthorn protect against learning impairments and hippocampal damage from trimethyltin neurotoxicity in rat. | Sci Rep
+- new | 2025 | 41050658 |  | The postbiotic of hawthorn-probiotic ameliorates constipation by multi-pathway inhibition of PANoptosis in intestinal epithelial cells. | Front Immunol
+- new | 2025 | 40683484 |  | Hawthorn (Crataegus pinnatifida Bunge) polysaccharide improves the adaptability of crucian carp (Carassius auratus) to high alkalinity by regulating immunity, intestinal microbiota | Int J Biol Macromol
+- new | 2025 | 39648361 |  | Unraveling the potential of Epicatechin gallate from crataegus oxyacantha in targeting aberrant cardiac Ca2+ signalling proteins: an in-depth in-silico investigation for heart fail | J Biomol Struct Dyn
+- new | 2025 | 40614996 |  | Structural characterisation of hawthorn polysaccharide and its mechanisms of action against non-alcoholic fatty liver disease. | Int J Biol Macromol
+- new | 2025 | 40107769 |  | Laxative Effect of Crataegus azarolus Leaves Decoction Extract Against Loperamide-Induced Constipation and Oxidative Stress in Rats. | J Med Food
+- new | 2025 | 40871038 |  | Development and Preclinical Evaluation of Fixed-Dose Capsules Containing Nicergoline, Piracetam, and Hawthorn Extract for Sensorineural Hearing Loss. | Pharmaceutics
+- new | 2025 | 41086102 |  | Assessment of mineral nutrition level and heavy metals toxicity in Kosovo herbal remedies. | J Environ Sci Health B
+- new | 2025 | 40164277 |  | Preclinical safety studies of a SEDDS formulation of the vasorelaxing methanol extract from Crataegus rosei eggl. Leaves. | Regul Toxicol Pharmacol
+- new | 2024 | 37788786 | Review | Traditional uses, phytochemistry, pharmacology, and safety concerns of hawthorn (Crataegus genus): A comprehensive review. | J Ethnopharmacol
+- new | 2024 | 37973470 | Case Reports | Hawthorne root (Crataegus mexicana) toxicity. | Am J Emerg Med
+- new | 2024 | 39178762 |  | Hawthorn-leaf flavonoid alleviate intestinal health and microbial dysbiosis problems induced by glyphosate. | Ecotoxicol Environ Saf
+- HELD REF-0785 | 2024 | 38931453 |  | Phenolic Composition of Crataegus monogyna Jacq. Extract and Its Anti-Inflammatory, Hepatoprotective, and Antileukemia Effects. | Pharmaceuticals (Basel)
+- new | 2024 | 39047316 |  | Effects of maternal hawthorn-leaf flavonoid supplementation on the intestinal development of offspring chicks. | Poult Sci
+- new | 2024 | 38732560 | Review | Characterizations of White Mulberry, Sea-Buckthorn, Garlic, Lily of the Valley, Motherwort, and Hawthorn as Potential Candidates for Managing Cardiovascular Disease-In Vitro and Ex | Nutrients
+- new | 2024 | 39309842 |  | Ameliorative effects of Monascus-fermented hawthorn extract on a high-fat diet-induced rat model of non-alcoholic fatty liver disease. | Heliyon
+- new | 2024 | 38223297 |  | Phytochemical Properties of Crataegus azarolus Berries Decoction Extract and Evaluation of its Protective Activity Against Acetic Acid-Induced Ulcerative Colitis in Rats. | Dose Response
+- new | 2023 | 37376012 |  | Teratogen Potential Evaluation of the Aqueous and Hydroalcoholic Leaf Extracts of Crataegus oxyacantha in Pregnancy Rats. | Plants (Basel)
+- new | 2023 | 37764716 |  | Ultrasound-Treated and Thermal-Pasteurized Hawthorn Vinegar: Antioxidant and Lipid Profiles in Rats. | Nutrients
+- new | 2023 | 37337667 | Review | Advances in the study of the vascular protective effects and molecular mechanisms of hawthorn (Crataegus anamesa Sarg.) extracts in cardiovascular diseases. | Food Funct
+- new | 2023 | 36880395 |  | Hawthorn fruit extract protect against MC-LR-induced hepatotoxicity by attenuating oxidative stress and apoptosis. | Environ Toxicol
+- new | 2023 | 38156015 |  | Host cell cAMP-Epac-Rap1b pathway inhibition by hawthorn extract as a potential target against Trypanosoma cruzi infection. | Front Microbiol
+- new | 2023 | 37881336 |  | Comprehensive metabolomic variations of hawthorn before and after insect infestation based on the combination analysis of (1)H NMR and UPLC-MS. | Curr Res Food Sci
+- new | 2022 | 35863376 | Case Reports | Fatal arrhythmia following ingestion of hawthorn root (Crataegus pubescens) extract: a case report. | Clin Exp Emerg Med
+- new | 2022 | 35189445 | Case Reports | A comprehensive strategy integrating metabolomics with multiple chemometric for discovery of function related active markers for assessment of foodstuffs: A case of hawthorn (Crata | Food Chem
+- new | 2022 | 35318796 |  | Developing the liquid chromatography-mass spectrometry method for simultaneously quantifying five components in rat serums after oral administration of hawthorn aqueous extracts an | J Sep Sci
+- new | 2021 | 34918685 |  | Protective effect of hawthorn vitexin on the ethanol-injured DNA of BRL-3A hepatocytes. | Medicine (Baltimore)
+- new | 2021 | 34415825 |  | Authentication of tejocote (Crataegus mexicana) dietary supplements based on DNA barcoding and chemical profiling. | Food Addit Contam Part A Chem Anal Contr
+- new | 2021 | 33774071 |  | Crataegus pinnatifida polysaccharide alleviates colitis via modulation of gut microbiota and SCFAs metabolism. | Int J Biol Macromol
+- new | 2021 | 34686027 |  | Cytotoxic and Genotoxic Evaluation of the Aqueous and Hydroalcoholic Leaf and Bark Extracts of Crataegus oxyacantha in Murine Model. | Plants (Basel)
+- new | 2021 | 33859705 |  | Crataegus pinnatifida Bunge Inhibits RANKL-Induced Osteoclast Differentiation in RAW 264.7 Cells and Prevents Bone Loss in an Ovariectomized Rat Model. | Evid Based Complement Alternat Med
+- new | 2020 | 32679591 |  | Evaluation of the Efficacy of Crataegus oxyacantha in Dogs with Early-Stage Heart Failure. | Homeopathy
+- new | 2020 | 32477537 | Case Reports | Immune thrombocytopenic purpura caused by the over-the-counter weight supplement Root of Tejocote (Crataegus species). | Clin Case Rep
+- new | 2020 | 32470682 |  | Protective effect of hawthorn extract against genotoxicity induced by benzo(<alpha>)pyrene in C57BL/6 mice. | Ecotoxicol Environ Saf
+- new | 2020 | 33112559 |  | Anti-Oxidant, Anti-Hemolytic Effects of Crataegus aronia Leaves and Its Anti- Proliferative Effect Enhance Cisplatin Cytotoxicity in A549 Human Lung Cancer Cell Line. | Asian Pac J Cancer Prev
+- new | 2019 | 31407210 | Case Reports | Crataegus mexicana (Tejocote) Exposure Associated with Cardiotoxicity and a Falsely Elevated Digoxin Level. | J Med Toxicol
+- new | 2019 | 30881725 |  | Advantageous Extraction, Cleanup, and UHPLC-MS/MS Detection of Patulin Mycotoxin in Dietary Supplements and Herbal Blends Containing Hawberry from Crataegus spp. | J Anal Methods Chem
+- new | 2019 | 30909143 |  | Beneficial effects of crataegus oxyacantha extract on neurobehavioral deficits and brain tissue damages induced by an insecticide mixture of deltamethrin and chlorpyrifos in adult  | Biomed Pharmacother
+- HELD REF-1781 | 2019 | 30058501 |  | Hepatoprotective Effects of Algerian Crataegus oxyacantha Leaves. | Recent Pat Food Nutr Agric
+- new | 2018 | 30325712 | Research Support, Non-U.S. Gov't | The genotoxic effects of fruit extract of Crataegus oxyacantha (hawthorn) in mice. | J Toxicol Environ Health A
+- new | 2018 | 29668446 |  | Antidepressant Effect and Recognition Memory Improvement of Two Novel Plant Extract Combinations - Antistress I and Anti-stress II on Rats Subjected to a Model of Mild Chronic Stre | Folia Med (Plovdiv)
+- HELD REF-1783 | 2017 | 28638340 |  | Neurologically Potent Molecules from Crataegus oxyacantha; Isolation, Anticholinesterase Inhibition, and Molecular Docking. | Front Pharmacol
+- new | 2017 | 28873717 | Research Support, Non-U.S. Gov't | Herbal products containing Hibiscus sabdariffa L., Crataegus spp., and Panax spp.: Labeling and safety concerns. | Food Res Int
+- new | 2017 | 28277037 | Research Support, Non-U.S. Gov't | Fruit extract of the medicinal plant Crataegus oxyacantha exerts genotoxic and mutagenic effects in cultured cells. | J Toxicol Environ Health A
+- new | 2016 | 27531227 |  | Polyphenols from hawthorn peels and fleshes differently mitigate dyslipidemia, inflammation and oxidative stress in association with modulation of liver injury in high fructose die | Chem Biol Interact
+- new | 2016 | 26795272 | Research Support, Non-U.S. Gov't | Antitumoral, antioxidant, and antimelanogenesis potencies of Hawthorn, a potential natural agent in the treatment of melanoma. | Melanoma Res
+- HELD REF-1709 | 2015 | 26378574 | Research Support, Non-U.S. Gov't/Review | Polyphenolic Composition of Crataegus monogyna Jacq.: From Chemistry to Medical Applications. | Nutrients
+- new | 2015 | 25368407 |  | Simultaneous Determination of Seven Components from Hawthorn Leaves Flavonoids in Rat Plasma by LC-MS/MS. | J Chromatogr Sci
+- new | 2014 | 24941296 | Research Support, Non-U.S. Gov't | Antioxidant and hepatoprotective effects of Crataegus songarica methanol extract. | J Environ Pathol Toxicol Oncol
+- new | 2014 | 24660090 |  | Simultaneous determination and pharmacokinetic comparisons of multi-ingredients after oral administration of radix salviae miltiorrhizae extract, hawthorn extract, and a combinatio | J Anal Methods Chem
+- new | 2014 | 23843400 | Research Support, Non-U.S. Gov't | Hawthorn (Crataegus oxyacantha L.) bark extract regulates antioxidant response element (ARE)-mediated enzyme expression via Nrf2 pathway activation in normal hepatocyte cell line. | Phytother Res
+- new | 2014 | 24347159 |  | Aqueous extract of Crataegus azarolus protects against DNA damage in human lymphoblast Cell K562 and enhances antioxidant activity. | Appl Biochem Biotechnol
+- new | 2014 | 25204172 | Research Support, Non-U.S. Gov't | [Study on self-microemulsifying membrane controlled-release drop pill of hawthorn leaves flavonoids]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2013 | 23774969 | Research Support, Non-U.S. Gov't | Activity of hawthorn leaf and bark extracts in relation to biological membrane. | J Membr Biol
+- new | 2013 | 25050270 |  | Crataegus monogyna fruit aqueous extract as a protective agent against doxorubicin-induced reproductive toxicity in male rats. | Avicenna J Phytomed
+- new | 2013 | 23685195 | Research Support, Non-U.S. Gov't | Effects of an aqueous extract of Crataegus pinnatifida Bge. var. major N.E.Br. fruit on experimental atherosclerosis in rats. | J Ethnopharmacol
+- new | 2013 | 24027659 |  | Attenuation of Cyclosporine-Induced Sperm Impairment and Embryotoxicity by Crataegus monogyna Fruit Aqueous Extract. | Cell J
+- new | 2012 | 36753600 | Review | Hawthorn. | 
+- new | 2012 | 23297544 | Case Reports/News | [Decreased cardiac output in the elderly. Cardiotonic effect of hawthorn]. | MMW Fortschr Med [ger]
+- HELD REF-1711 | 2012 | 22267371 |  | Crataegus monogyna aqueous extract ameliorates cyclophosphamide-induced toxicity in rat testis: stereological evidences. | Acta Med Iran
+- new | 2012 | 21867394 | Research Support, Non-U.S. Gov't/Validation Study | Simultaneous determination of three polyphenols in rat plasma after orally administering hawthorn leaves extract by the HPLC method. | Nat Prod Res
+- new | 2011 | 21562106 | Case Reports | Curtobacterium flaccumfaciens septic arthritis following puncture with a Coxspur Hawthorn thorn. | J Clin Microbiol
+- new | 2011 | 20947657 | Research Support, Non-U.S. Gov't | Protective effect of hawthorn extract against genotoxicity induced by methyl methanesulfonate in human lymphocytes. | Toxicol Ind Health
+- new | 2011 | 21183208 | Research Support, Non-U.S. Gov't | Antithrombotic effects of ethanol extract of Crataegus orientalis in the carrageenan-induced mice tail thrombosis model. | Thromb Res
+- new | 2010 | 20171068 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Cardioprotective properties of Crataegus oxycantha extract against ischemia-reperfusion injury. | Phytomedicine
+- new | 2010 | 22228939 |  | Hawthorn (Crataegus spp.) in the treatment of cardiovascular disease. | Pharmacogn Rev
+- new | 2010 | 20729753 | Research Support, N.I.H., Extramural | Crataegus oxycantha extract attenuates apoptotic incidence in myocardial ischemia-reperfusion injury by regulating Akt and HIF-1 signaling pathways. | J Cardiovasc Pharmacol
+- new | 2010 | 19962326 | Case Reports | Retained Hawthorn fragment in a child's foot complicated by infection: diagnosis and excision aided by localization with ultrasound. | J Foot Ankle Surg
+- new | 2010 | 21048422 | Research Support, Non-U.S. Gov't | HPLC determination of five polyphenols in rat plasma after intravenous administration of hawthorn leaves extract and its application to pharmacokinetic study. | Yakugaku Zasshi
+- new | 2010 | 20570577 |  | Simultaneous determination of vitexin-4''-O-glucoside, vitexin-2''-O-rhamnoside, rutin and vitexin from hawthorn leaves flavonoids in rat plasma by UPLC-ESI-MS/MS. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2010 | 20096549 | Research Support, Non-U.S. Gov't | The pharmacokinetics of C-glycosyl flavones of Hawthorn leaf flavonoids in rat after single dose oral administration. | Phytomedicine
+- new | 2009 | 19441016 | Research Support, Non-U.S. Gov't | The effect of crataegus fruit extract and some of its flavonoids on mitochondrial oxidative phosphorylation in the heart. | Phytother Res
+- new | 2009 | 20353017 |  | [Effect of total flavones of hawthorn leafon (TFHL) on expression of UCP2 in liver of NASH rats]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2009 | 19048610 | Research Support, Non-U.S. Gov't | Preclinical toxicological assessment of a phytotherapeutic product--CPV (based on dry extracts of Crataegus oxyacantha L., Passiflora incarnata L., and Valeriana officinalis L.). | Phytother Res
+- new | 2008 | 21783835 |  | Protective effect of hawthorn extract against genotoxicity induced by cyclophosphamide in mouse bone marrow cells. | Environ Toxicol Pharmacol
+- new | 2008 | 19043257 | Case Reports | Crataegus orientalis associated multiorgan hypersensitivity reaction and acute renal failure. | Intern Med
+- new | 2008 | 18485639 | Research Support, Non-U.S. Gov't | A reproductive screening test of hawthorn. | J Ethnopharmacol
+- new | 2008 | 18302035 | Research Support, Non-U.S. Gov't | Assessment of intestinal absorption of vitexin-2''-o-rhamnoside in hawthorn leaves flavonoids in rat using in situ and in vitro absorption models. | Drug Dev Ind Pharm
+- new | 2007 | 17294503 | Research Support, Non-U.S. Gov't/Validation Study | Quantitative LC/MS/MS method and in vivo pharmacokinetic studies of vitexin rhamnoside, a bioactive constituent on cardiovascular system from hawthorn. | Biomed Chromatogr
+- new | 2007 | 17185880 | Research Support, Non-U.S. Gov't | Radioprotective effects of hawthorn fruit extract against gamma irradiation in mouse bone marrow cells. | J Radiat Res
+- new | 2007 | 17329058 | Comparative Study/Research Support, Non-U.S. Gov't | Simultaneous determination of vitexin-4''-O-glucoside and vitexin-2''-O-rhamnoside from Hawthorn leaves flavonoids in rat plasma by HPLC method and its application to pharmacokinet | J Pharm Biomed Anal
+- new | 2006 | 30000891 | Review | Hawthorn. | 
+- new | 2006 | 16846822 | Case Reports | Heart failure improvement with CoQ10, Hawthorn, and magnesium in a patient scheduled for cardiac resynchronization-defibrillator therapy: a case study. | Explore (NY)
+- new | 2006 | 16989871 | Research Support, Non-U.S. Gov't | Intestinal absorption of hawthorn flavonoids--in vitro, in situ and in vivo correlations. | Life Sci
+- new | 2005 | 15601812 | Comparative Study/Research Support, Non-U.S. Gov't | Comparison of the pharmacokinetics of hawthorn phenolics in extract versus individual pure compound. | J Clin Pharmacol
+- new | 2005 | 16176155 |  | Liver architecture maintenance by tincture of Crataegus against isoproterenol-induced myocardially infarcted rats. | J Med Food
+- new | 2005 | 15844828 | Review | Hawthorn: potential roles in cardiovascular disease. | Am J Chin Med
+- new | 2002 | 12043949 |  | Hawthorn. | J Clin Pharmacol
+- HELD REF-1779 | 2002 | 11887407 | Review | Hawthorn: pharmacology and therapeutic uses. | Am J Health Syst Pharm
+- new | 1999 | 10546150 |  | [High-dose Crataegus extract WS 1442 in the treatment of NYHA stage II heart failure]. | Herz [ger]
+- new | 1991 | 1757878 |  | [Valeriana officinalis and Crataegus oxyacantha: toxicity from repeated administration and pharmacologic investigations]. | J Pharm Belg [fre]
+- new | 1984 | 6525827 | Case Reports | Immediate-type hypersensitivity to Crataegus monogyna (hawthorn). | Contact Dermatitis
+- new | 1984 | 6236637 | Case Reports | [Toxiderma due to the fruits of the hawthorn]. | Vestn Dermatol Venerol [rus]
+- new | 1981 | 7198272 |  | [Crataegus, toxicology and pharmacology, Part I: Toxicity (author's transl)]. | Planta Med [ger]
+- new | 1981 | 7199189 |  | [Crataegus, toxicology and pharmacology. Part III: Pharmacodynamics and pharmacokinetics.]. | Planta Med [ger]
+- new | 1961 | 13709915 |  | [Effect of Crataegus pentagyna growing in Azerbaidzhan on lactation]. | Akush Ginekol (Mosk) [rus]
+- new | 1951 | 14888359 |  | [Investigations on the effect of Foeniculum vulgare, Carum carvi, Anisum vulgare, Crataegus oxyacanthus, and Galga officinalis on lactation]. | Izv Meditsinskite Inst Bulg Akad Naukite [und]
+
+### PubMed OBS - 8 hits, 2 not already listed above, 2 new
+- new | 2024 | 39362947 |  | Real world effectiveness of Hawthorn special extract WS 1442 in a retrospective cohort study from Germany. | Sci Rep
+- new | 2016 | 27585196 | Observational Study | Hawthorn Herb Increases the Risk of Bleeding after Cardiac Surgery: An Evidence-Based Approach. | Heart Surg Forum
+
+### PubMed REV - 67 hits, 18 not already listed above, 15 new
+- new | 2026 | 41599280 | Review | Hawthorn (Crataegus monogyna Jacq.): A Review of Therapeutic Potential and Applications. | Molecules
+- new | 2025 | 40647052 | Review | Crataegus monogyna Jacq., Sorbus aria (L.) Crantz and Prunus spinosa L.: From Edible Fruits to Functional Ingredients: A Review. | Foods
+- new | 2024 | 38159827 | Review | Isolation, structural properties and bioactivities of polysaccharides from Crataegus pinnatifida. | J Ethnopharmacol
+- new | 2024 | 38915462 | Review | Hawthorn with "homology of medicine and food": a review of anticancer effects and mechanisms. | Front Pharmacol
+- new | 2024 | 39272515 | Review | A Comprehensive Review on the Isolation, Bioactivities, and Structure-Activity Relationship of Hawthorn Pectin and Its Derived Oligosaccharides. | Foods
+- new | 2023 | 36228891 | Review | Crataegus pinnatifida: A botanical, ethnopharmacological, phytochemical, and pharmacological overview. | J Ethnopharmacol
+- new | 2023 | 37689285 | Review | Preparation, structural characterization, bioactivities, and applications of Crataegus spp. polysaccharides: A review. | Int J Biol Macromol
+- new | 2022 | 36179124 | Review | Botany, traditional uses, phytochemistry and pharmacological activity of Crataegus pinnatifida (Chinese hawthorn): a review. | J Pharm Pharmacol
+- new | 2022 | 35215517 | Review | Potential Roles and Key Mechanisms of Hawthorn Extract against Various Liver Diseases. | Nutrients
+- new | 2020 | 32153414 | Review | Roles and Mechanisms of Hawthorn and Its Extracts on Atherosclerosis: A Review. | Front Pharmacol
+- new | 2019 | 31217924 | Review | The effects of Crataegus pinnatifida (Chinese hawthorn) on metabolic syndrome: A review. | Iran J Basic Med Sci
+- new | 2018 | 29974436 | Review | [Significance of hawthorn extract in general practice - a current positioning]. | MMW Fortschr Med [ger]
+- HELD REF-0783 | 2018 | 27655074 | Review | Phytochemical and Pharmacological Activity Profile of Crataegus oxyacantha L. (Hawthorn) - A Cardiotonic Herb. | Curr Med Chem
+- HELD REF-1717 | 2017 | 29151068 | Review | Crataegus special extract WS 1442: up-to-date review of experimental and clinical experiences. | J Physiol Pharmacol
+- new | 2012 | 23222867 | Research Support, Non-U.S. Gov't/Review | Polyphenolic profile and biological activity of Chinese hawthorn (Crataegus pinnatifida BUNGE) fruits. | Molecules
+- new | 2012 | 22488722 | Research Support, Non-U.S. Gov't/Review | Composition and health effects of phenolic compounds in hawthorn (Crataegus spp.) of different origins. | J Sci Food Agric
+- new | 2004 | 15058505 | Review | Hawthorn. | Conn Med
+- HELD REF-0782 | 2002 | 12597258 | Review | Hawthorn. | J Cardiovasc Nurs
+
+### ClinicalTrials.gov - 38 registered studies
+- NCT01682291 | UNKNOWN | results=False | PHASE4 | Prehypertension and Dietary Supplements - The PYRAMIDS Study | conds: Prehypertension | intr: Life-style modifications, Dietary supplements | pubs: ['28447625:DERIVED (new)']
+- NCT03895749 | COMPLETED | results=False | NA | Effect of a Nitric Oxide Supplementation Product on Endothelial Dysfunction and Prehypertensive Adults | conds: Hypertension | intr: NEO40 Daily
+- NCT00794456 | COMPLETED | results=False | PHASE3 | Association of Passiflora Incarnata L; Crataegus Oxyacantha L and Salix Alba L. on Mild and Moderate Anxiety | conds: Anxiety Disorder | intr: Passiflora ; Crataegus and Salix, Valeriana
+- NCT00944268 | UNKNOWN | results=False | PHASE3 | Efficacy and Tolerability Study to Treat Mild and Moderate Anxiety | conds: Anxiety, Efficacy, Tolerability | intr: Passiflora, Crataegus e Salix
+- NCT01100645 | UNKNOWN | results=False | PHASE3 | Efficacy and Safety of the Herbal Medicine Sominex ® (Passiflora Incarnata L., Valeriana Officinalis L. and Crataegus Oxyacantha L.), Manufa | conds: Insomnia | intr: Sominex, Placebo
+- NCT02419235 | COMPLETED | results=False | PHASE2 | The Effect of a Homoeopathic Complex on Blood Pressure in Refractory Hypertension | conds: Essential Hypertension | intr: 20% ethanol, Homoeopathic complex
+- NCT01331486 | COMPLETED | results=False | PHASE1 | Nitric Oxide Mediated Vasodilatory Response to Hawthorn Standardized Extract | conds: Prehypertension, Mild Hypertension | intr: Hawthorn, Placebo capsule | pubs: ['22458601:RESULT (new)']
+- NCT03909906 | COMPLETED | results=False | NA | Chronic Effects of Euphytose® on Psychological and Physiological Measures of Stress | conds: Mood | intr: Euphytose®, Placebo Oral Tablet | pubs: ['35875924:DERIVED (new)']
+- NCT01647984 | COMPLETED | results=False | PHASE4 | Role of a Combination of Nutraceuticals (Ritmonutra) on Benign Supraventricular and Ventricular Arrhythmias | conds: Ventricular and Atrial Extrasytoles | intr: Ritmonutra, placebo | pubs: ['20498621:RESULT (new)']
+- NCT05561023 | UNKNOWN | results=False | PHASE1 | Phase Ⅰa Clinical Study of Hawthorn Red Pigment Combined With Standard Analgesic for Refractory Cancer Pain | conds: Hawthorn Red Combined Refractory Cancer Pain | intr: Hawthorn red pigment
+- NCT07378228 | COMPLETED | results=False | NA | Weak Pulse at Yang and Wiry Pulse at Yin Theory | conds: Coronary Heart Disease, Stable Angina Pectoris | intr: Metoprolol Succinate Extended-Release Tablets, Aspirin Enteric-Coated Tablets, Atorvastatin Calcium 
+- NCT03623451 | UNKNOWN | results=False | NA | Serum Metabolomics Study of Traditional Chinese Medicine Formula （Shen Qi Tiao Ti Formula） Intervention to Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Chinese Medicine Formula
+- NCT06481254 | COMPLETED | results=False | NA | Effect of Hawthorn Vinegar, Black Mulberry Syrup and Green Tea on Oral Mucositis | conds: Mucositis, Quality of Life | intr: Hawthorn Vinegar Group, Black Mulberry Syrup Group, Green Tea Group | pubs: ['42694165:DERIVED (new)']
+- NCT05300594 | COMPLETED | results=False | NA | Effect of Audistim® Day/Night on Hearing Comfort and Patient Quality of Life of Patients With Chronic Tinnitus. | conds: Tinnitus | intr: Plant extracts, vitamins and mineral, Placebo
+- NCT01178632 | UNKNOWN | results=False | PHASE3 | Therapeutic Effect of an Herbal Medicine on Anxiety | conds: Anxiety Disorders | intr: Passiflora, Valeriana officinalis
+- NCT06419764 | UNKNOWN | results=False | NA | Combining Chinese Medicine and Nutrition to Enhance Weight Loss After Bariatric Surgery | conds: Traditional Chinese Medicine Treatment, Weight Change | intr: Spleen Invigorating and Weight Reducing Decoction, Diet and meal replacements
+- NCT05585021 | COMPLETED | results=False | NA | Clinical Study on the Effect of Probiotic Compound Powder on the Immunity Improvement of Preschool Children | conds: Immunity | intr: Wonderlab Kids instant probiotics, Instant probiotic placebo
+- NCT03446443 | UNKNOWN | results=False | PHASE4 | Honghe Fujie Lotion for the Treatment of Bacterial Vaginosis | conds: Bacterial Vaginitis | intr: Honghe Fujie lotion, Metronidazole Suppositories
+- NCT02221973 | COMPLETED | results=False | NA | Effect of a Low Fat Milk Product on Lipids Profile in Dyslipidemia Subjects | conds: Primary Dyslipidemia | intr: sterols and hawthorn powder
+- NCT02088307 | COMPLETED | results=False | NA | Study of the Cardiovascular Vitamin, CardioLife | conds: Cardiovascular Disease | intr: CardioLife
+- NCT03663465 | COMPLETED | results=False | NA | The Effect of Hawthorn on Lipoprotein Cholesterol Ratio in Schizophrenics With Antipsychotics | conds: Schizophrenia | intr: Hawthorn, SGAs
+- NCT05757050 | COMPLETED | results=False | NA | Mental Balance Study | conds: Mental Health Wellness 1, Work Related Stress | intr: Re-Focus "Verum" Tablets, Re-Focus "Placebo" Tablets | pubs: ['41194549:DERIVED (new)']
+- NCT07828548 | NOT_YET_RECRUITING | results=False | NA | Effect of the Ansileve Supplement on the Well-being of Parents of Children Who Have Experienced a Medical Emergency: A Randomized Controlled | conds: Parenting Anxiety, Child Hospitalization, Psychological Well-being | intr: Ansileve SOS Spray, Ansileve
+- NCT04312022 | COMPLETED | results=True | NA | Impacts of a Combined Berry Extract Supplement on Vascular Function and Oxygen Utility Capacity in Young Adults | conds: Healthy | intr: Berry extract, Placebo
+- NCT04093271 | COMPLETED | results=False | PHASE1 | Investigating the Efficacy of Rest-ZZZ Formula in Healthy Participants With Difficulty Falling Asleep or Staying a Sleep | conds: Sleep, Healthy | intr: Rest-ZZZ, Active Comparator - Diphenhydramine HCl, Placebo
+- NCT06505694 | COMPLETED | results=False | NA | A Clinical Trial to Assess the Impact of an Alcohol Alternative Herbal Tincture on Signs of Stress Anxiety and Sleep Quality. | conds: Anxiety, Stress | intr: Alcohol Alternative Herbal Tincture (Test Product), Placebo
+- NCT00343902 | COMPLETED | results=False | PHASE3 | Hawthorn Extract Randomized Blinded Chronic Heart Failure (HERB CHF) Trial | conds: Chronic Heart Failure | intr: Crataegus Special Extract WS 1442 | pubs: ['19789403:DERIVED (HELD REF-3515)']
+- NCT00006330 | COMPLETED | results=False | NA | Pharmacokinetic and Pharmacodynamic Interaction Study of Digoxin and Hawthorn | conds: Heart Diseases | intr: Digoxin, Hawthorn
+- NCT04245761 | COMPLETED | results=False | NA | Open Non-Comparative Study To Evaluate Administration Of a New Nutraceutical | conds: Sleep Disorder | intr: Sonidor®
+- NCT04655326 | COMPLETED | results=True | NA | Probiotic Therapy for Children and Adults With Autism Spectrum Disorder | conds: Autism Spectrum Disorder | intr: Flore
+- NCT07141615 | TERMINATED | results=False | NA | Clinical Observation of Qingwei Huazhuo Decoction (Product: Jinsaiyu) in Improving Children With Precocious Puberty of Phlegm-Dampness Inter | conds: Precocious Puberty | intr: Qingwei Huazhuo Decoction: Mulberry leaf powder, lotus leaf powder, malt powder, hawthorn powder, Po
+- NCT07320456 | NOT_YET_RECRUITING | results=False | PHASE2 | A Clinical Trial of Longqi Jiangzhi Decoction Against Non-alcoholic Fatty Liver Disease | conds: Hepatic Steatosis | intr: Longqi Jiangzhi decoction, Control placebo
+- NCT02298426 | COMPLETED | results=False | NA | Body Constitution Classification Based Comprehensive Health Management Intervention on Obese Population | conds: Overweight, Obesity | intr: Health Management, General Management, Placebo, SCHSANDRA PLUS, YI RUI CAPSULE, Gest Aid Plus: INFIN
+- NCT05167747 | COMPLETED | results=False | NA | Food Supplementation With Diuripres for Blood Pressure Modulation in Subjects With High-Normal Blood Pressure | conds: High-Normal Blood Pressure | intr: Dietary Supplement, Placebo | pubs: ['37448322:RESULT (new)']
+- NCT07166965 | ENROLLING_BY_INVITATION | results=False | NA | Ketone and Hawthorn Extract Supplementation in Congestive Heart Failure | conds: Congestive Heart Failure(CHF) | intr: Hawthorn supplement, Ketones, Placebo Control
+- NCT02087033 | TERMINATED | results=False | NA | Use of Ritmonutra in Subjects Affected by Supraventricular Ectopic Beats Without Structural Heart Disease | conds: Arrhythmia | intr: ritmonutra, placebo
+- NCT03542721 | UNKNOWN | results=False | PHASE4 | Effect of DA-5515 (Circulan® Soft Cap.) in Patients With Chronic Fatigue Symptoms Due to Impaired Blood Circulation | conds: Fatigue Symptom | intr: DA-5515, Placebo of DA-5515
+- NCT00982501 | COMPLETED | results=False | PHASE1 | WS®1442 in Slightly Overweight Subjects | conds: Overweight | intr: WS® 1442 900 mg/d, WS® 1442 1800 mg/d, Nordic walking training 2 x 30 min/week, Nordic walking train
+
+### OpenAlex no-PMID trial-worded - 495 hits, 68 without PMID, 68 new
+- new | 2026 | 10.3390/app16115378 | article | Evaluation of the Skin Photoprotective Effect of Crataegus monogyna and Rosmarinus officinalis Extracts Using the Hemispheric Directional Reflectance Method | Applied Sciences
+- new | 2026 | 10.1007/s10499-026-02663-3 | article | The effects of hawthorn, Crataegus monogyna, berry (CMB) on growth, hematology, antioxidant, digestive enzyme activity, gut microbiota, and disease resistance of African catfish, C | Aquaculture International
+- new | 2026 | 10.1016/j.sajb.2026.07.022 | article | Herbal approaches to hypertension and vascular health: Emerging roles of medicinal plants in blood pressure regulation | South African Journal of Botany
+- new | 2026 | 10.3390/environments13050252 | article | Assessing Year-Round Capacity of Single-Species and Mixed Hedges to Provide Rainfall Attenuation—Case Study of Containerised Model Hedges | Environments
+- new | 2026 | 10.1016/b978-0-443-44295-7.00002-1 | book-chapter | Botanicals for cardiovascular health: lowering cholesterol and blood pressure | Elsevier eBooks
+- new | 2026 | 10.5281/zenodo.23858842 | conference-abstract | New perspectives in the drug treatment of auditory and vestibular analyzer disorders | MP Journal of Medical Research
+- new | 2025 | 10.1007/s11240-025-03049-8 | article | Synthetic seed production in Crataegus monogyna L. and prediction of regeneration of synthetic seeds with machine learning algorithms | Plant Cell Tissue and Organ Culture (PCT
+- new | 2025 | 10.3832/ifor4930-018 | article | Growth, spring phenology and stem quality of four broadleaved species assessed in provenance trials in the Netherlands - Implications for seed sourcing | iForest - Biogeosciences and Forestry
+- new | 2024 | 10.2478/asn-2024-0003 | article | Herbal medicines for treatment of socially significant diseases in current Bulgarian society | Acta Scientifica Naturalis
+- new | 2024 | 10.29038/ncbio.24.1-3 | article | First record of Choragus sheppardi Kirby, 1818 (Coleoptera, Anthribidae) in Volyn Region | Notes in Current Biology
+- new | 2024 | 10.1002/wlb3.01185 | article | Machine learning identification of microhabitat features associated with occupancy of artificial nestboxes by hazel dormice Muscardinus avellanarius in a UK woodland site | Wildlife Biology
+- new | 2023 | 10.51558/2232-7568.2023.16.1.29 | article | INFLUENCE OF PROCESS PARAMETERS ON HAWTHORN(CRATAEGUS MONOGYNA JACK.)EXTRACTION | Technologica acta
+- new | 2023 | 10.53811/ijtcmr.1232190 | article | The Medicinal Plants Traditionally Used Against Cardiovascular Diseases In Türkiye | International Journal of Traditional and
+- new | 2023 | https://openalex.org/W7120414758 | dissertation | Knowledge and use of medicinal plants by patients with anxiety and depression: a tool for popular health education | LA Referencia (Red Federada de Repositor
+- new | 2023 | 10.9734/jocamr/2023/v23i1471 | article | Clinical Effectiveness of Hawthorn, Lemon Balm and Magnesium on Patients with Distress Disorders: Preliminary Data by a Survey of Italian Gastroenterologists | Journal of Complementary and Alternative
+- new | 2022 | 10.15835/hpm.v29i1-2.14245 | article | Valorization Of Crataegus monogyna In Gluten Free Pastry Manufacturing | Hop and Medicinal Plants
+- new | 2022 | 10.21203/rs.3.rs-1880825/v1 | preprint | Clinical efficacy of traditional Chinese medicinal preparations containing hawthorn on hyperlipidemia: A Meta-Analysis of Randomized Controlled Trials | Research Square
+- new | 2021 | 10.22317/jcms.v7i4.1017 | article | Efficacy of Hawthorn fruit extract on blood pressure and quality of sleep in patients with hypertension along with sleep disorders: A randomized double-blind controlled trial | Journal of Contemporary Medical Sciences
+- new | 2021 | https://openalex.org/W4385039526 | article | Studiu incipient al efectelor fitoterapeutice ale păducelului (Crataegus monogyna) | Medicamentul Veterinar
+- new | 2021 | 10.24193/contrib.bot.55.1 | article | HAWTHORN (CRATAEGUS L.) TAXA AND THEIR HYBRIDS IN NORTH-WESTERN ROMANIA: A RECOMMENDATION FOR NATIONAL IDENTIFICATION KEYS BASED ON MORPHOMETRIC ANALYSES | Contributii Botanice
+- new | 2021 | 10.24193/contrib.bot.55 | paratext |  | Contributii Botanice
+- new | 2021 | https://openalex.org/W7216756713 | article | Investigation tea (Camellia Sinensis) and Greek medicinal plants frequency consumption and consumers’ opinion about them, from healthy volunteers. | Institutional Repository Hellanicus
+- new | 2020 | 10.17475/kastorman.801801 | article | Determination of Seed Morphologies and Effect of Pretreatments on Germination of Crataegus monogyna (Jac.) and Crataegus azarolus var. pontica (K. Koch) K. I. Chr Seeds | Kastamonu University Journal of Forestry
+- new | 2020 | 10.15421/012050 | article | The small-scale variation of herb-layer community structure in a riparian mixed forest | Biosystems Diversity
+- new | 2020 | https://openalex.org/W3152883353 | dissertation | Les compléments alimentaires : quelle place dans la prise en charge du patient à l’officine ? | HAL
+- new | 2019 | 10.1016/j.hermed.2019.100318 | article | A quantitative documentation of traditionally-used medicinal plants from Northeastern Algeria: Interactions of beliefs among healers and diabetic patients | Journal of Herbal Medicine
+- new | 2019 | 10.52547/jmj.17.2.23 | article | Crataegus monogyna extract on renal histopathological changes in diabetic rats | Pars of Jahrom University of Medical Sci
+- new | 2019 | https://openalex.org/W7217575204 | dissertation | Using biostimulants on young plants of hawthorn (Crataegus Jacq. em. Lindm) | EMU DSpace
+- new | 2019 | 10.32819/019031 | article | Spatial heterogeneity of the physical properties of the soil in the floodplain of the small river | Agrology
+- new | 2018 | 10.1016/b978-0-12-812491-8.00041-2 | book-chapter | Hawthorn: Crataegus oxyacantha, Crataegus monogyna and related species | Elsevier eBooks
+- new | 2018 | 10.3390/pr6070073 | article | Systematic Design and Evaluation of an Extraction Process for Traditionally Used Herbal Medicine on the Example of Hawthorn (Crataegus monogyna JACQ.) | Processes
+- new | 2018 | 10.15171/jhp.2018.44 | article | The effect of hydroalcoholic extract of Crataegus monogyna on hyperglycemia, oxidative stress and pancreatic tissue damage in streptozotocin-induced diabetic rats | Journal of Herbmed Pharmacology
+- new | 2017 | 10.1016/j.mambio.2017.10.004 | article | Potential of red deer ( Cervus elaphus ) to disperse viable seeds by spitting them from the cud | Mammalian Biology
+- new | 2017 | https://openalex.org/W2910088132 | dissertation | Soins de support en phytothérapie et en micro nutrition utilisés pour pallier aux effets secondaires de l’hormonothérapie suite à un cancer du sein hormono-dépendant : synthèse des | HAL
+- new | 2016 | 10.22034/ijps.2016.25449 | article | The effects of hawthorn (Crataegus monogyna) syrup on gastroesophageal reflux symptoms | Iranian journal of pharmaceutical scienc
+- new | 2016 | 10.22037/ijps.v12.40715 | article | The Effect of Common Hawthorn (Crataegus monogyna Jacq.) Syrup on Gastroesophageal Reflux Disease Symptoms: The effects of hawthorn syrup on gastroesophageal reflux symptoms | Iranian journal of pharmaceutical scienc
+- new | 2016 | https://openalex.org/W4383911949 | article | Angiogenic Mediators plasma response to aerobic exercise with Crataegus elbursensis extract in male’s rat | Journal of Medicinal Plants
+- new | 2016 | 10.18869/acadpub.ijae.4.14.39 | article | Study of Spatial Distribution of the Hawthorn (Crataegus monogyna) Trees Attacked by Orchard Ermine (Yponomeuta padella) in Bazoft Forests of Chaharmahal and Bakhtiari Province | Iranian Journal of Applied Ecology
+- new | 2016 | 10.5287/bodleian:eqznwj7r9 | dataset | Merged abundance dataset from myForest and the Countryside Survey | Oxford University Research Archive (ORA)
+- new | 2016 | https://openalex.org/W2269449797 | conference-paper | In vitro evaluation of protein precipitation capacity of temperate browse species | ORBi (University of Liège)
+- new | 2014 | 10.1007/s00606-014-1141-6 | article | Variation in bud burst and flower opening responses of local versus non-local provenances of hawthorn (Crataegus monogyna Jacq.) in Belgium | Plant Systematics and Evolution
+- new | 2014 | 10.14195/978-989-26-0884-6_61 | book-chapter | Experimental prescribed burning in Turkey oak forest of Cilento and Vallo di Diano National Park (Southern Italy): effects on vegetation and soil | Imprensa da Universidade de Coimbra eBoo
+- new | 2013 | 10.1051/e3sconf/20130134003 | conference-paper | Determination of selected toxic elements in leaves of White Hawthorn grown in a remote area | E3S Web of Conferences
+- new | 2013 | https://openalex.org/W3150257049 | dissertation | Vegetation dynamics and restoration trials in limestone quarries: the botticino case study (Brescia, Italy) | BOA (University of Milano-Bicocca)
+- new | 2013 | 10.25260/ea.13.23.3.0.1171 | article | Plantas utilizadas en cercos vivos de ciudades patagónicas: aportes de la etnobotánica para la conservación | Ecología Austral
+- new | 2012 | 10.1016/j.eujim.2012.07.873 | conference-abstract | A case of hepatotoxicity by Pelargonium sidoides | European Journal of Integrative Medicine
+- new | 2011 | 10.5897/ajb10.2348 | article | Genetic variation in hawthorn (Crataegus spp.) using RAPD markers | AFRICAN JOURNAL OF BIOTECHNOLOGY
+- new | 2010 | 10.30843/nzpp.2010.63.6581 | article | Chondrostereum purpureum as an inundative biological control agent for invasive woody weeds in New Zealand | Proceedings of the New Zealand Weed Cont
+- new | 2010 | https://openalex.org/W38539905 | conference-abstract | Abstract 18013: Impact of Chronic Kidney Disease on Risk of Incident Atrial Fibrillation and Subsequent Survival in Medicare Patients | Circulation
+- new | 2008 | 10.1007/s10342-008-0224-8 | article | Small-scale genetic diversity in oneseed hawthorn (Crataegus monogyna Jacq.) | European Journal of Forest Research
+- new | 2008 | https://openalex.org/W123185256 | article | Evaluating remote sensing data classification techniques for mapping freshwater habitats: Trial application in the Tongariro River delta, Lake Taupo | Research Commons (University of Waikato)
+- new | 2007 | 10.1016/j.foodchem.2006.11.065 | article | Carbon-14 biolabeling of flavanols and chlorogenic acids in Crataegus monogyna cell suspension cultures | Food Chemistry
+- new | 2007 | 10.2478/s11756-007-0025-4 | article | Deciduous and semi-deciduous oak forests (Quercus robur, Q. petraea and Q. pyrenaica) floristic composition in the Northwest Iberian Peninsula | Biologia
+- new | 2007 | 10.1002/ldr.786 | article | Revegetation of mineral clay soils: shrub and tree species compared | Land Degradation and Development
+- new | 2006 | https://openalex.org/W2273705790 | article | Reabilitação do coberto lenhoso ribeirinho nas margens da Lagoa dos Linhos, Mata Nacional do Urso | Portuguese National Funding Agency for S
+- new | 2006 | https://openalex.org/W7133061566 | dissertation | The effect of ginseng and the level of ginsenosides on blood pressure in individuals with hypertension | TSpace (University of Toronto)
+- new | 2004 | 10.24275/uami.4t64gn88f | dissertation | Efecto de la mezcla de Crataegus monogyna, Equisetum hyemale y Taraxacum officinale, en variables cardiovasculares de personas sanas | 
+- new | 2003 | https://openalex.org/W2624569504 | dissertation | Distributional Characteristics of Lianas: Example of Hedera helix, Drayton Wood, Norwich. | VTechWorks (Virginia Tech)
+- new | 2003 | 10.1017/s0953756203238338 | article | Antifungal Agents | Mycological Research
+- new | 2003 | 10.1093/forestry/76.1.83 | article | The effect of pre-emergent herbicides on germination and early growth of broadleaved species used for direct seeding | Forestry An International Journal of For
+- new | 2002 | 10.1046/j.1365-2745.2002.00698.x | article | Sambucus nigraL. | Journal of Ecology
+- new | 2001 | https://openalex.org/W32367075 | report | Results from MAFF-funded work in the CS2000 programme | NERC Open Research Archive (Natural Envi
+- new | 1999 | 10.1055/s-2007-978511 | article | A Garden Experiment on Susceptibility to Rabbit-Grazing, Sapling Growth Rates, and Age at First Reproduction for Eleven European Woody Species | Plant Biology
+- new | 1998 | 10.1021/bk-1998-0691.ch017 | conference-paper | Hawthorn (Crataegus): Biological Activity and New Strategies for Quality Control | ACS symposium series
+- new | 1998 | 10.24266/0738-2898-16.4.195 | article | Effect of Lifting Date and Time of Storage on Survival and Die-Back in Four Deciduous Species | Journal of Environmental Horticulture
+- new | 1994 | https://openalex.org/W2183485198 | article | A comparison of the growth and morphology of native and commercially obtained continental European Crataegus monogyna Jacq. (Hawthorn) at an upland site | 
+- new | 1978 | 10.17660/actahortic.1978.86.9 | conference-paper | MONITORING OF EPIPHYTIC POPULATIONS OF ERWINIA AMYLOVORA IN THE NETHERLANDS | Acta Horticulturae
+- new | 1978 | 10.17660/actahortic.1978.86.1 | conference-paper | NATURAL INFECTION OF HOST PLANTS IN THE DANISH "FIREBLIGHT GARDENS" | Acta Horticulturae
+
+## crocus-sativus (Crocus sativus) - name clause: "Crocus sativus"[tiab] OR "saffron"[tiab] OR "crocin"[ti] OR "safranal"[ti]
+
+### PubMed HT - 384 hits, 200 not already listed above, 187 new
+- new | 2026 | 41939549 | Review | The Role of Saffron in the Treatment of Depression: A Literature Review. | Cureus
+- HELD REF-3517 | 2026 | 41693488 | Systematic Review/Meta-Analysis | Effect of saffron on depression, anxiety and mood disorder: a GRADE assessed systematic review and meta-analysis of 34 randomized controlled trials. | Nutr Neurosci
+- new | 2026 | 42594967 | Systematic Review | Does Crocus sativus (Saffron) Have an Influence or Effect on Ocular Health: A Systematic Literature Review. | J Evid Based Integr Med
+- HELD REF-3521 | 2026 | 41151539 |  | Effect of saffron on premenstrual syndrome and dysmenorrhea: a systematic review and meta-analysis. | Korean J Fam Med
+- new | 2026 | 42465135 |  | Standardized Saffron Extract Formulation for Low Mood and Subclinical Depressive Symptoms: A Randomized, Double-Blind, Placebo-Controlled Trial. | Cureus
+- new | 2026 | 41737914 |  | SAFFRON-301: a randomised phase III study of sitravatinib in combination with tislelizumab in patients with locally advanced or metastatic non-small cell lung cancer. | BMJ Oncol
+- new | 2026 | 42943008 | Review | Dietary Patterns and Nutritional Interventions for Cognitive Impairment in Parkinson's Disease: A Critical Narrative Review. | Nutrients
+- new | 2026 | 42858054 | Systematic Review/Video-Audio Media | Efficacy and Safety of Saffron and Ashwagandha for Stress-Related Mental Health Outcomes: A Systematic Review of Randomized Controlled Trials. | J Vis Exp
+- new | 2026 | 42601961 | Review | Plant-derived bioactives in depression-related and antidepressant-associated sexual dysfunction: a narrative review. | Front Nutr
+- new | 2026 | 42920967 |  | Evaluation of the preventive effect of intravenous trans-sodium crocetinate followed by oral crocetin on contrast-induced nephropathy in patients with chronic kidney disease underg | Avicenna J Phytomed
+- new | 2026 | 41396719 |  | The impact of curcumin and saffron on sexual function and marital satisfaction in reproductive-age women with diabetes: a triple-blind randomized trial. | J Sex Med
+- new | 2026 | 42895808 | Randomized Controlled Trial | Efficacy of Saffron as an Adjunct to Methylphenidate in Treating ADHD in Children Aged 6-12: A Randomized Clinical Trial. | Brain Behav
+- HELD REF-0788 | 2025 | 38913392 | Meta-Analysis | Effect of Saffron Versus Selective Serotonin Reuptake Inhibitors (SSRIs) in Treatment of Depression and Anxiety: A Meta-analysis of Randomized Controlled Trials. | Nutr Rev
+- new | 2025 | 40314175 | Systematic Review/Comparative Study/Network Meta-Analysis/Research Support, Non-U.S. Gov't | Comparative efficacy and tolerability of nutraceuticals for depressive disorder: A systematic review and network meta-analysis. | Psychol Med
+- new | 2025 | 40414301 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An Examination into the Effects of a Saffron Extract (Affron) on Mood and General Wellbeing in Adults Experiencing Low Mood: A Randomized, Double-Blind, Placebo-Controlled Trial. | J Nutr
+- new | 2025 | 40416274 | Review | From Mood to Memory: Unlocking Saffron's Potential in Brain Health. | Cureus
+- new | 2025 | 39889867 | Randomized Controlled Trial | Cardioprotective effect of crocin in patients with breast cancer receiving anthracycline-based chemotherapy: A randomized, double-blind, placebo-controlled study. | Pharmacol Res
+- new | 2025 | 40698027 |  | Effect of a saffron extract on sleep quality in adults with moderate insomnia: A decentralized, randomized, double-blind, placebo-controlled trial. | Sleep Med X
+- new | 2025 | 40077679 | Randomized Controlled Trial | The Effects of Combined Scutellaria and Saffron Supplementation on Mood Regulation in Participants with Mild-to-Moderate Depressive Symptoms: A Randomized, Double-Blind, Placebo-Co | Nutrients
+- new | 2025 | 39661337 | Randomized Controlled Trial | Crocus sativus (saffron) adjunct to risperidone for negative symptoms of schizophrenia: a randomized, double-blind, placebo-controlled trial. | Int Clin Psychopharmacol
+- new | 2025 | 41121435 |  | Natural relief for premenstrual syndrome (PMS): a double-blind clinical trial on the efficacy and safety of PMSoff. | J Pharm Health Care Sci
+- new | 2025 | 39754520 | Randomized Controlled Trial | Therapeutic Potential of Saffron Extract in Mild Depression: A Study of Its Role on Anhedonia in Rats and Humans. | Phytother Res
+- new | 2025 | 39632602 | Meta-Analysis/Systematic Review | Crocin Supplementation on Inflammation and Oxidative Stress: A Systematic Review and Meta-Analysis. | Phytother Res
+- new | 2025 | 40346613 | Clinical Trial, Phase III/Randomized Controlled Trial | The effects of saffron supplementation on inflammation and hematological parameters in patients with sepsis: a randomized controlled trial. | Nutr J
+- new | 2025 | 40398138 | Research Support, Non-U.S. Gov't | A Tertiary lymphoid structures-based pathological score predicts survival and recurrence in colorectal Cancer patients. | Immunobiology
+- new | 2025 | 40813999 |  | Therapeutic effects of crocin in alleviating diabetic neuropathy: a preliminary randomized triple-blind placebo-controlled trial. | J Pharm Health Care Sci
+- new | 2025 | 40256221 | Review | A systematic review on the use of phytotherapy in managing clinical depression. | Bioimpacts
+- new | 2025 | 39818282 | Meta-Analysis/Systematic Review | The effect of saffron supplementation on liver and kidney function, blood glucose and pressure in patients with diabetes and prediabetes: A grade assessed systematic review and met | Prostaglandins Other Lipid Mediat
+- HELD REF-3522 | 2025 | 39931766 | Systematic Review/Meta-Analysis | Effects of Saffron Supplementation on Glycolipid Metabolism and Blood Pressure in Patients With Metabolic Syndrome and Related Disorders: A Systematic Review and Meta-Analysis of R | Phytother Res
+- new | 2025 | 41387497 |  | Response of saffron (Crocus sativus L.) to irrigation water salinity following corm priming with cold plasma technology. | Sci Rep
+- new | 2025 | 40781685 |  | Evaluation of therapeutic effects of Crocin in patients with polycystic ovary syndrome: A randomized Double-Blind clinical trial. | J Pharm Health Care Sci
+- new | 2025 | 40735481 | Systematic Review | Understanding the research landscape of over-the-counter herbal products, dietary supplements, and medications evaluated for depressive symptoms in adults: a scoping review. | Front Pharmacol
+- new | 2025 | 39936792 |  | Epidemiological, clinical, and obstetrical profile of women who used medicinal plants during labor and delivery: a retrospective survey in the Guelmim-Oued Noun region, Morocco. | Braz J Biol
+- new | 2024 | 37864351 | Systematic Review/Research Support, Non-U.S. Gov't | The Effects of Crocus sativus (Saffron) on ADHD: A Systematic Review. | J Atten Disord
+- new | 2024 | 39429382 | Review | Dietary Interventions and Supplements for Managing Attention-Deficit/Hyperactivity Disorder (ADHD): A Systematic Review of Efficacy and Recommendations. | Cureus
+- new | 2024 | 39717381 | Systematic Review | Phytochemicals in the treatment of patients with depression: a systemic review. | Front Psychiatry
+- new | 2024 | 38580720 | Randomized Controlled Trial | Effect of a nutraceutical combination on sleep quality among people with impaired sleep: a randomised, placebo-controlled trial. | Sci Rep
+- new | 2024 | 38424688 | Systematic Review/Meta-Analysis | New horizons for the study of saffron (Crocus sativus L.) and its active ingredients in the management of neurological and psychiatric disorders: A systematic review of clinical ev | Phytother Res
+- new | 2024 | 38485112 | Randomized Controlled Trial | Saffron therapy for the ongoing treatment of age-related macular degeneration. | BMJ Open Ophthalmol
+- new | 2024 | 37778521 | Meta-Analysis/Systematic Review | Effect of Crocus sativus L. (saffron) and crocin in the treatment of patients with type-2 diabetes mellitus: A systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2024 | 38385429 | Randomized Controlled Trial | Randomized, Double-Blind, Placebo-Controlled Clinical Trial of Concurrent Use of Crocin During Chemoradiation for Esophageal Squamous Cell Carcinoma. | Cancer Invest
+- new | 2024 | 38796446 | Review | Effects of Crocus sativus on glycemic control and cardiometabolic parameters among patients with metabolic syndrome and related disorders: a systematic review and meta-analysis of  | Nutr Metab (Lond)
+- new | 2024 | 39593185 | Review | Effects of saffron (Crocus sativus L.) supplementation on cardiometabolic Indices in diabetic and prediabetic overweight patients: a systematic review and meta-analysis of RCTs. | Diabetol Metab Syndr
+- new | 2024 | 38197138 | Clinical Trial, Phase I/Multicenter Study/Research Support, Non-U.S. Gov't | SAFFRON-103: a phase Ib study of sitravatinib plus tislelizumab in anti-PD-(L)1 refractory/resistant advanced melanoma. | Immunotherapy
+- new | 2024 | 39227898 | Randomized Controlled Trial | Crocus Sativus Linnaeus (Saffron) intake does not affect physiological and perceptual responses during a repeated sprint test in healthy active young males. | BMC Res Notes
+- new | 2024 | 38894827 | Review | Iranian Traditional Medicine for Treatment of Attention Deficit Disorder with Hyperactivity in Children: A Systematic Review of Randomized Controlled Trials. | Iran J Public Health
+- new | 2024 | 39770530 |  | The Possible Role of Plant-Based Bars Consumption in CKD Geriatric Patients. | Pharmaceuticals (Basel)
+- HELD REF-2502 | 2024 | 38559777 | Systematic Review | Effect of saffron supplementation on the glycemic outcomes in diabetes: a systematic review and meta-analysis. | Front Nutr
+- new | 2024 | 38306888 | Randomized Controlled Trial | Effects of crocin on inflammatory biomarkers and mental health status in patients with multiple sclerosis: A randomized, double-blinded clinical trial. | Mult Scler Relat Disord
+- new | 2024 | 38874882 | Randomized Controlled Trial | The effect of 12 weeks of aerobic exercise training with or without saffron supplementation on diabetes-specific markers and inflammation in women with type 2 diabetes: A randomize | Eur J Sport Sci
+- new | 2024 | 38999837 | Randomized Controlled Trial | Effect of Crocus sativus Extract Supplementation in the Metabolic Control of People with Diabetes Mellitus Type 1: A Double-Blind Randomized Placebo-Controlled Trial. | Nutrients
+- new | 2024 | 39599758 | Randomized Controlled Trial | Beneficial Effects of Micronutrient Supplementation in Restoring the Altered Microbiota and Gut-Retina Axis in Patients with Neovascular Age-Related Macular Degeneration-A Randomiz | Nutrients
+- new | 2024 | 39021815 | Review | Herbal Products as Complementary or Alternative Medicine for the Management of Hyperglycemia and Dyslipidemia in Patients with Type 2 Diabetes: Current Evidence Based on Findings o | J Nutr Metab
+- new | 2023 | 37663386 | Review | Herbal medicines in the treatment of children and adolescents with attention-deficit/hyperactivity disorder (ADHD): An updated systematic review of clinical trials. | Avicenna J Phytomed
+- new | 2023 | 37033930 | Meta-Analysis/Systematic Review | Efficacy and safety of dietary polyphenols in rheumatoid arthritis: A systematic review and meta-analysis of 47 randomized controlled trials. | Front Immunol
+- new | 2023 | 37484523 | Review | Saffron and Sleep Quality: A Systematic Review of Randomized Controlled Trials. | Nutr Metab Insights
+- new | 2023 | 36044293 | Review | Nutraceuticals in mood disorders: current knowledge and future directions. | Curr Opin Psychiatry
+- new | 2023 | 37181854 |  | Effect of crocin on experimental gastrocnemius muscle ischemia/reperfusion injury in rat. | Vet Res Forum
+- new | 2023 | 36265676 |  | Multiplex quantitation of 17 drug-derived components in human plasma after administration of a fixed herbal preparation of Sailuotong using combined online SPE-LC-MS/MS methods. | J Ethnopharmacol
+- new | 2023 | 36875593 |  | Biostimulant enhances growth and corm production of saffron (Crocus sativus L.) in non-traditional areas of North western Himalayas. | Front Plant Sci
+- new | 2023 | 36817799 | Systematic Review | Effect of saffron supplementation on oxidative stress markers (MDA, TAC, TOS, GPx, SOD, and pro-oxidant/antioxidant balance): An updated systematic review and meta-analysis of rand | Front Med (Lausanne)
+- new | 2023 | 35960461 | Systematic Review | Natural remedies for Alzheimer's disease: A systematic review of randomized controlled trials. | Metab Brain Dis
+- new | 2023 | 37644446 | Systematic Review | The effects of medicinal and food homologous substances on blood lipid and blood glucose levels and liver function in patients with nonalcoholic fatty liver disease: a systematic r | Lipids Health Dis
+- new | 2023 | 37288021 |  | Evaluation of Saffron (Crocus Sativus L) Effects on Anxiety in Hospitalized Patients with Acute Coronary Syndrome. | Adv Biomed Res
+- new | 2023 | 38002905 |  | The Effect of Saffron Kozanis (Crocus sativus L.) Supplementation on Weight Management, Glycemic Markers and Lipid Profile in Adolescents with Obesity: A Double-Blinded Randomized  | Children (Basel)
+- new | 2023 | 37447245 | Randomized Controlled Trial | Acute Effect of a Saffron Extract (Safr'Inside(TM)) and Its Main Volatile Compound on the Stress Response in Healthy Young Men: A Randomized, Double Blind, Placebo-Controlled, Cros | Nutrients
+- new | 2023 | 37202063 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The anti-dyslipidemia property of saffron petal hydroalcoholicextract in cardiovascular patients: A double-blinded randomized clinical trial. | Clin Nutr ESPEN
+- new | 2023 | 37801956 | Randomized Controlled Trial | The effect of saffron and corrective exercises on depression and quality of life in women with multiple sclerosis: A randomized controlled clinical trial. | Mult Scler Relat Disord
+- SEEN | 2023 | 37427624 | Randomized Controlled Trial | Co-administration of saffron and chamomile: to determine the efficacy as an adjuvant therapy for mild to moderate depression in human subjects. A pilot randomized clinical trial. | J Pak Med Assoc
+- new | 2023 | 37346015 |  | [Bioactive compounds in the nutrition of peri- and postmenopausal women within the concept of 4P-medicine]. | Vopr Pitan [rus]
+- new | 2023 | 37264347 | Randomized Controlled Trial | The effect of Crocus sativus L. (saffron) herbal tea on happiness in postmenopausal women: a randomized controlled trial. | BMC Complement Med Ther
+- new | 2023 | 36580575 | Randomized Controlled Trial | The effect of saffron (Crocus sativus L.) on glycemia, lipid profile, and antioxidant status in patients with type-2 diabetes mellitus: A randomized placebo-controlled trial. | Phytother Res
+- new | 2023 | 37047914 | Systematic Review/Research Support, Non-U.S. Gov't | Adaptogens on Depression-Related Outcomes: A Systematic Integrative Review and Rationale of Synergism with Physical Activity. | Int J Environ Res Public Health
+- new | 2022 | 35311615 | Meta-Analysis/Research Support, Non-U.S. Gov't | Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canad | World J Biol Psychiatry
+- HELD REF-2546 | 2022 | 35378276 | Systematic Review/Research Support, Non-U.S. Gov't/Network Meta-Analysis | Medicinal herbs for the treatment of anxiety: A systematic review and network meta-analysis. | Pharmacol Res
+- new | 2022 | 36235697 | Clinical Trial | Effectivity of Saffron Extract (Saffr'Activ) on Treatment for Children and Adolescents with Attention Deficit/Hyperactivity Disorder (ADHD): A Clinical Effectivity Study. | Nutrients
+- new | 2022 | 34896192 | Review | Nutritional supplementation in the prevention and treatment of glaucoma. | Surv Ophthalmol
+- new | 2022 | 32013614 | Meta-Analysis | Metabolic impact of saffron and crocin: an updated systematic and meta-analysis of randomised clinical trials. | Arch Physiol Biochem
+- new | 2022 | 36606270 |  | A pilot randomized controlled trial of WeiNaoKang (SaiLuoTong) in treating vascular dementia. | Aging Med (Milton)
+- new | 2022 | 35871933 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of crocin on diabetic patients: A placebo-controlled, triple-blinded clinical trial. | Clin Nutr ESPEN
+- new | 2022 | 36105788 | Meta-Analysis/Systematic Review | The Effect of Saffron (Crocus sativus L.) Supplementation on Renal Function: A Systematic Review and Meta-Analysis of Randomized Controlled Clinical Trials. | Int J Clin Pract
+- new | 2022 | 35325766 | Meta-Analysis | Effects of saffron supplementation on improving sleep quality: a meta-analysis of randomized controlled trials. | Sleep Med
+- new | 2022 | 35866520 | Meta-Analysis/Systematic Review | Effects of saffron (Crocus sativus L.) on anthropometric and cardiometabolic indices in overweight and obese patients: A systematic review and meta-analysis of randomized controlle | Phytother Res
+- new | 2022 | 35990354 | Systematic Review | The effects of Crocus sativus L. (Saffron) and its ingredients on dietary intakes in cardiovascular disease in Iranian population: A systematic review and meta-analysis. | Front Nutr
+- new | 2022 | 33724127 | Meta-Analysis/Systematic Review | Does saffron supplementation have favorable effects on liver function indicators? A systematic review and meta-analysis of randomized controlled trials. | Crit Rev Food Sci Nutr
+- new | 2022 | 36186931 |  | Crocus sativus (saffron) in the treatment of female sexual dysfunction: a three-center, double-blind, randomized, and placebo-controlled clinical trial. | Avicenna J Phytomed
+- new | 2022 | 36275332 |  | Comparison of the effects of Date Syrup with Saffron-Honey Syrup on the Progress of Labor in Nulliparous Women: A Single Blind Randomized Clinical Trial. | Iran J Nurs Midwifery Res
+- new | 2022 | 35813851 | Randomized Controlled Trial | An examination into the mental and physical effects of a saffron extract (affron®) in recreationally-active adults: A randomized, double-blind, placebo-controlled study. | J Int Soc Sports Nutr
+- new | 2022 | 36217471 |  | A randomized clinical trial to test efficacy of chamomile and saffron for neuroprotective and anti-inflammatory responses in depressive patients. | Heliyon
+- new | 2022 | 35892716 | Review | A Systematic Review on the Effect of Nutraceuticals on Antidepressant-Induced Sexual Dysfunctions: From Basic Principles to Clinical Applications. | Curr Issues Mol Biol
+- new | 2022 | 35470916 | Randomized Controlled Trial | Effects of crocin supplementation on inflammatory markers, lipid profiles, insulin and cardioprotective indices in women with PCOS: A randomized, double-blind, placebo-controlled t | Phytother Res
+- new | 2022 | 35548173 |  | Saffron (Crocus sativus L.) supplements improve quality of life and appetite in atherosclerosis patients: A randomized clinical trial. | J Res Med Sci
+- new | 2022 | 33151132 | Randomized Controlled Trial | Evaluation of modulatory effects of saffron (Crocus sativus L.) aqueous extract on oxidative stress in ischemic stroke patients: a randomized clinical trial. | Nutr Neurosci
+- new | 2022 | 35767970 | Randomized Controlled Trial | Efficacy and Safety of Jollab (a Saffron-Based Beverage) on Cancer-Related Fatigue in Breast Cancer Patients: A Double-Blind Randomized Clinical Trial. | Complement Med Res
+- new | 2022 | 36035633 | Clinical Trial | Effect of a diet based on Iranian traditional medicine on inflammatory markers and clinical outcomes in COVID-19 patients: A double-blind, randomized, controlled trial. | Eur J Integr Med
+- new | 2022 | 35235859 | Randomized Controlled Trial | Improvement of inflammatory status following saffron (Crocus sativus L.) and resistance training in elderly hypertensive men: A randomized controlled trial. | Exp Gerontol
+- new | 2022 | 35068330 | Randomized Controlled Trial | The Effect of Krocina™ on Decreasing Substance User Withdrawal Syndrome, Craving, Depression and Stress: A Double-Blind Randomized Parallel Clinical Trial. | Subst Use Misuse
+- new | 2022 | 36209091 | Randomized Controlled Trial | Evaluation of therapeutic effects of crocin in attenuating the progression of diabetic nephropathy: a preliminary randomized triple-blind placebo-controlled trial. | BMC Complement Med Ther
+- new | 2022 | 35517806 |  | Effect of Crocin From Saffron (Crocus sativus L.) Supplementation on Oxidant/Antioxidant Markers, Exercise Capacity, and Pulmonary Function Tests in COPD Patients: A Randomized, Do | Front Pharmacol
+- new | 2022 | 35822682 | Randomized Controlled Trial | Significant Effect of Crocin on the Gene Expression of MicroRNA-21 and MicroRNA-155 in Patients with Osteoarthritis. | Iran J Allergy Asthma Immunol
+- new | 2021 | 33925432 | Randomized Controlled Trial | Effects of Saffron Extract on Sleep Quality: A Randomized Double-Blind Controlled Clinical Trial. | Nutrients
+- new | 2021 | 34721595 | Review | A Systematic Review on Use of Medicinal Plants for Male Infertility Treatment. | J Family Reprod Health
+- new | 2021 | 34438361 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An investigation into an evening intake of a saffron extract (affron®) on sleep quality, cortisol, and melatonin concentrations in adults with poor sleep: a randomised, double-blin | Sleep Med
+- new | 2021 | 34419735 | Review | Saffron (Crocus sativus L.) and health outcomes: a meta-research review of meta-analyses and an evidence mapping study. | Phytomedicine
+- new | 2021 | 32525606 | Meta-Analysis/Systematic Review | Effects of saffron (Crocus sativus L.) supplementation on inflammatory biomarkers: A systematic review and meta-analysis. | Phytother Res
+- new | 2021 | 34290965 |  | A double-blind placebo-controlled randomized trial of oral saffron in the treatment of rheumatoid arthritis. | Avicenna J Phytomed
+- new | 2021 | 33180005 | Clinical Trial | An Open-Label Pilot Study on Macumax Supplementation for Dry-Type Age-Related Macular Degeneration. | J Med Food
+- new | 2021 | 34959826 | Systematic Review | Effect of Crocus sativus (Saffron) Intake on Top of Standard Treatment, on Disease Outcomes and Comorbidities in Patients with Rheumatic Diseases: Synthesis without Meta-Analysis ( | Nutrients
+- new | 2021 | 34646548 | Review | Effect of saffron supplementation on oxidative stress parameters: A systematic review and meta-analysis of randomized placebo-controlled trials. | Food Sci Nutr
+- new | 2021 | 33556410 | Randomized Controlled Trial | Impact of saffron (Crocus Sativus Linn) supplementation and resistance training on markers implicated in depression and happiness levels in untrained young males. | Physiol Behav
+- new | 2021 | 34678576 | Meta-Analysis/Systematic Review | Effect of saffron supplementation on liver enzymes: A systematic review and meta-analysis of randomized controlled trials. | Diabetes Metab Syndr
+- new | 2021 | 33790932 |  | Agro-Climatic Suitability Evaluation for Saffron Production in Areas of Western Himalaya. | Front Plant Sci
+- new | 2021 | 33735877 | Meta-Analysis/Systematic Review | The Effect of Saffron Consumption on Liver Function: A Systematic Review and Meta-Analysis of Randomized Controlled Clinical Trials. | Complement Med Res
+- new | 2021 | 34444896 | Meta-Analysis/Systematic Review | The Effect of Saffron Supplementation on Blood Pressure in Adults: A Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials. | Nutrients
+- new | 2021 | 34390797 |  | Effectiveness of crocin of saffron (Crocus sativus L.) against chemotherapy-induced peripheral neuropathy: A randomized, double-blind, placebo-controlled clinical trial. | J Ethnopharmacol
+- new | 2021 | 34463070 |  | The Effects of a Saffron Extract (affron®) on Menopausal Symptoms in Women during Perimenopause: A Randomised, Double-Blind, Placebo-Controlled Study. | J Menopausal Med
+- new | 2021 | 34164855 | Randomized Controlled Trial | Amelioration of anxiety, depression, and chemotherapy related toxicity after crocin administration during chemotherapy of breast cancer: A double blind, randomized clinical trial. | Phytother Res
+- new | 2020 | 33322318 | Meta-Analysis/Systematic Review | Efficacy of Spice Supplementation in Rheumatoid Arthritis: A Systematic Literature Review. | Nutrients
+- new | 2020 | 33324206 | Review | An Evaluation of Traditional Persian Medicine for the Management of SARS-CoV-2. | Front Pharmacol
+- new | 2020 | 32445136 | Systematic Review | Effects of saffron (Crocus sativus L.) on cognitive function. A systematic review of RCTs. | Neurol Sci
+- new | 2020 | 31725101 | Randomized Controlled Trial | Saffron (Crocus sativus L.): A Phytomedicine as Effective as Methylphenidate in Treating ADHD in Children. | Holist Nurs Pract
+- new | 2020 | 32866179 | Clinical Trial/Observational Study/Research Support, Non-U.S. Gov't | Full-field optical coherence tomography for the diagnosis of giant cell arteritis. | PLoS One
+- new | 2020 | 32221179 | Meta-Analysis/Systematic Review | Safety and Efficacy of Saffron (Crocus sativus L.) for Treating Mild to Moderate Depression: A Systematic Review and Meta-analysis. | J Nerv Ment Dis
+- new | 2020 | 33172016 |  | Antioxidant Potential of Curcumin-A Meta-Analysis of Randomized Clinical Trials. | Antioxidants (Basel)
+- new | 2020 | 33167948 | Meta-Analysis/Systematic Review | Saffron for mild cognitive impairment and dementia: a systematic review and meta-analysis of randomised clinical trials. | BMC Complement Med Ther
+- new | 2020 | 32423173 | Systematic Review | Impact of Crocus Sativus L. on Metabolic Profile in Patients with Diabetes Mellitus or Metabolic Syndrome: A Systematic Review. | Nutrients
+- new | 2020 | 32951748 | Meta-Analysis/Systematic Review | The effect of crocin supplementation on lipid concentrations and fasting blood glucose: A systematic review and meta-analysis and meta-regression of randomized controlled trials. | Complement Ther Med
+- new | 2020 | 31987241 | Meta-Analysis | The effects of saffron (Crocus sativus L.) on mental health parameters and C-reactive protein: A meta-analysis of randomized clinical trials. | Complement Ther Med
+- new | 2020 | 31957954 |  | Preparation and evaluation of anti-wrinkle cream containing saffron extract and avocado oil. | J Cosmet Dermatol
+- new | 2020 | 33003645 | Systematic Review | Do Interventions with Diet or Dietary Supplements Reduce the Disease Activity Score in Rheumatoid Arthritis? A Systematic Review of Randomized Controlled Trials. | Nutrients
+- new | 2020 | 33457343 |  | Saffron for the Management of Premenstrual Dysphoric Disorder: A Randomized Controlled Trial. | Adv Biomed Res
+- new | 2020 | 31602695 | Randomized Controlled Trial | A placebo controlled randomized clinical trial of Crocus sativus L. (saffron) on depression and food craving among overweight women with mild to moderate depression. | J Clin Pharm Ther
+- new | 2020 | 32147057 | Meta-Analysis/Systematic Review | The effect of Saffron supplementation on waist circumference, HA1C, and glucose metabolism: A systematic review and meta-analysis of randomized clinical trials. | Complement Ther Med
+- HELD REF-2003 | 2019 | 30741567 | Randomized Controlled Trial | Crocus sativus L. Versus Methylphenidate in Treatment of Children with Attention-Deficit/Hyperactivity Disorder: A Randomized, Double-Blind Pilot Study. | J Child Adolesc Psychopharmacol
+- HELD REF-2535 | 2019 | 30036891 | Meta-Analysis/Review | The Efficacy of Saffron in the Treatment of Mild to Moderate Depression: A Meta-analysis. | Planta Med
+- new | 2019 | 31256800 | Letter/Comment | Effects of Crocin on Diabetic Maculopathy: A Placebo-Controlled Randomized Clinical Trial. | Am J Ophthalmol
+- new | 2019 | 31319529 |  | Saffron: A Multitask Neuroprotective Agent for Retinal Degenerative Diseases. | Antioxidants (Basel)
+- new | 2019 | 31516855 | Review | Effects of saffron (Crocus sativus) on sexual dysfunction among men and women: A systematic review and meta-analysis. | Avicenna J Phytomed
+- new | 2019 | 30502528 | Meta-Analysis/Systematic Review | Clinical evidence on the effects of saffron (Crocus sativus L.) on cardiovascular risk factors: A systematic review meta-analysis. | Pharmacol Res
+- new | 2019 | 31264281 | Meta-Analysis/Systematic Review | The effect of saffron on weight and lipid profile: A systematic review, meta-analysis, and dose-response of randomized clinical trials. | Phytother Res
+- new | 2019 | 31779990 | Meta-Analysis/Systematic Review | The effect of saffron supplementation on blood glucose and lipid profile: A systematic review and meta-analysis of randomized controlled trials. | Complement Ther Med
+- new | 2019 | 31114499 |  | Orally Administered Crocin Protects Against Cerebral Ischemia/Reperfusion Injury Through the Metabolic Transformation of Crocetin by Gut Microbiota. | Front Pharmacol
+- new | 2019 | 31618812 | Randomized Controlled Trial | Antioxidant Saffron and Central Retinal Function in ABCA4-Related Stargardt Macular Dystrophy. | Nutrients
+- new | 2019 | 31118846 |  | The efficacy of Crocus sativus (Saffron) versus placebo and Fluoxetine in treating depression: a systematic review and meta-analysis. | Psychol Res Behav Manag
+- new | 2019 | 31309071 |  | The effect of saffron (Crocus sativus L.) supplementation on blood pressure, and renal and liver function in patients with type 2 diabetes mellitus: A double-blinded, randomized cl | Avicenna J Phytomed
+- new | 2019 | 31368566 |  | Effect of saffron (Crocus sativus L.) and endurance training on mitochondrial biogenesis, endurance capacity, inflammation, antioxidant, and metabolic biomarkers in Wistar rats. | J Food Biochem
+- new | 2019 | 30914350 | Randomized Controlled Trial | Protective properties of the aqueous extract of saffron (Crocus sativus L.) in ischemic stroke, randomized clinical trial. | J Ethnopharmacol
+- new | 2019 | 30795753 | Randomized Controlled Trial | An evaluation of the effects of saffron supplementation on the asthma clinical symptoms and asthma severity in patients with mild and moderate persistent allergic asthma: a double- | Respir Res
+- new | 2019 | 31135916 |  | Effect of saffron supplementation on symptoms of depression and anxiety: a systematic review and meta-analysis. | Nutr Rev
+- new | 2019 | 31686882 |  | Effects Of Saffron Supplementation On Inflammation And Metabolic Responses In Type 2 Diabetic Patients: A Randomized, Double-Blind, Placebo-Controlled Trial. | Diabetes Metab Syndr Obes
+- new | 2019 | 30942510 | Randomized Controlled Trial | The effect of hydroalcoholic Saffron (Crocus sativus L.) extract on fasting plasma glucose, HbA1c, lipid profile, liver, and renal function tests in patients with type 2 diabetes m | Phytother Res
+- new | 2019 | 31598511 |  | Effect of the Mixed Herbal Medicines Extract (Fennel, Chamomile, and Saffron) on Menopause Syndrome: a Randomized Controlled Clinical Trial. | J Caring Sci
+- new | 2019 | 31475623 | Randomized Controlled Trial | Efficacy of a standardised saffron extract (affron®) as an add-on to antidepressant medication for the treatment of persistent depressive symptoms in adults: A randomised, double-b | J Psychopharmacol
+- new | 2019 | 31617649 | Randomized Controlled Trial | Effects of crocin in reducing DNA damage, inflammation, and oxidative stress in multiple sclerosis patients: A double-blind, randomized, and placebo-controlled trial. | J Biochem Mol Toxicol
+- new | 2019 | 34466472 |  | Antidepressant Effects of a Persian Medicine Remedy on Multiple Sclerosis Patients: A Double-Blinded Randomized Clinical Trial. | Galen Med J
+- new | 2019 | 31669837 | Randomized Controlled Trial | Crocus Sativus L. (saffron) versus sertraline on symptoms of depression among older people with major depressive disorders-a double-blind, randomized intervention study. | Psychiatry Res
+- new | 2019 | 31763210 |  | Evaluation of the effectiveness of crocin isolated from saffron in treatment of burning mouth syndrome: A randomized controlled trial. | Avicenna J Phytomed
+- new | 2018 | 29464801 | Systematic Review | Herbal medicine for depression and anxiety: A systematic review with assessment of potential psycho-oncologic relevance. | Phytother Res
+- new | 2018 | 29633089 | Meta-Analysis/Systematic Review | Herbal Dietary Supplements for Erectile Dysfunction: A Systematic Review and Meta-Analysis. | Drugs
+- new | 2018 | 29543538 | Randomized Controlled Trial | The Effect of Saffron on Depression among Recovered Consumers of Methamphetamine Living with HIV/AIDS. | Subst Use Misuse
+- new | 2018 | 30248988 |  | A Meta-Analysis of the Clinical Use of Curcumin for Irritable Bowel Syndrome (IBS). | J Clin Med
+- new | 2018 | 29550187 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Crocin on Diabetic Maculopathy: A Placebo-Controlled Randomized Clinical Trial. | Am J Ophthalmol
+- new | 2018 | 29387573 |  | Saffron improved depression and reduced homocysteine level in patients with major depression: A Randomized, double-blind study. | Avicenna J Phytomed
+- new | 2018 | 30477839 |  | The effects of alcoholic extract of saffron (Crocus satious L.) on mild to moderate comorbid depression-anxiety, sleep quality, and life satisfaction in type 2 diabetes mellitus: A | Complement Ther Med
+- new | 2018 | 29185780 | Randomized Controlled Trial | Effects of Saffron on Cognition, Anxiety, and Depression in Patients Undergoing Coronary Artery Bypass Grafting: A Randomized Double-Blind Placebo-Controlled Trial. | J Altern Complement Med
+- new | 2018 | 30456199 |  | Saffron (Crocus sativus) versus duloxetine for treatment of patients with fibromyalgia: A randomized double-blind clinical trial. | Avicenna J Phytomed
+- new | 2018 | 29329036 |  | Crocin improves the proliferation and cytotoxic function of T cells in children with acute lymphoblastic leukemia. | Biomed Pharmacother
+- new | 2017 | 27861946 | Review | Saffron: a promising natural medicine in the treatment of metabolic syndrome. | J Sci Food Agric
+- HELD REF-2002 | 2017 | 28735826 | Randomized Controlled Trial | affron(®) a novel saffron extract (Crocus sativus L.) improves mood in healthy adults over 4 weeks in a double-blind, parallel, randomized, placebo-controlled clinical trial. | Complement Ther Med
+- new | 2017 | 27865556 |  | Trans-crocetin improves amyloid-β degradation in monocytes from Alzheimer's Disease patients. | J Neurol Sci
+- new | 2017 | 29391933 |  | Saffron and crocin improved appetite, dietary intakes and body composition in patients with coronary artery disease. | J Cardiovasc Thorac Res
+- new | 2017 | 29157808 | Randomized Controlled Trial | A double-blind, randomized, placebo-controlled trial of saffron stigma (Crocus sativus L.) in mothers suffering from mild-to-moderate postpartum depression. | Phytomedicine
+- new | 2017 | 28236605 | Meta-Analysis | Clinical Use of Curcumin in Depression: A Meta-Analysis. | J Am Med Dir Assoc
+- new | 2017 | 29417083 |  | The Efficacy of Crocin of Saffron (Crocus sativus L.) on the Components of Metabolic Syndrome: A Randomized Controlled Clinical Trial. | J Res Pharm Pract
+- new | 2017 | 27595298 | Comparative Study/Randomized Controlled Trial | Comparison of Saffron versus Fluoxetine in Treatment of Mild to Moderate Postpartum Depression: A Double-Blind, Randomized Clinical Trial. | Pharmacopsychiatry
+- new | 2017 | 29371871 |  | Effect of crocin, a carotenoid from saffron, on plasma cholesteryl ester transfer protein and lipid profile in subjects with metabolic syndrome: A double blind randomized clinical  | ARYA Atheroscler
+- new | 2017 | 29188854 | Randomized Controlled Trial | Short-Term Impact of a Combined Nutraceutical on Cognitive Function, Perceived Stress and Depression in Young Elderly with Cognitive Impairment: A Pilot, Double-Blind, Randomized C | J Prev Alzheimers Dis
+- new | 2017 | 28546803 |  | Effect of Tribulus terrestris, ginger, saffron, and Cinnamomum on menopausal symptoms: a randomised, placebo-controlled clinical trial. | Prz Menopauzalny
+- new | 2017 | 29068592 | Randomized Controlled Trial | The effects of crocin on the symptoms of depression in subjects with metabolic syndrome. | Adv Clin Exp Med
+- new | 2016 | 26952957 | Review | Male infertility: lifestyle factors and holistic, complementary, and alternative therapies. | Asian J Androl
+- new | 2016 | 28289690 |  | Short-term Outcomes of Saffron Supplementation in Patients with Age-related Macular Degeneration: A Double-blind, Placebo-controlled, Randomized Trial. | Med Hypothesis Discov Innov Ophthalmol
+- new | 2016 | 26611571 | Comparative Study/Randomized Controlled Trial | Study the effects of saffron on depression and lipid profiles: A double blind comparative study. | Asian J Psychiatr
+- new | 2016 | 27101556 | Randomized Controlled Trial | A double-blind, randomized and placebo-controlled trial of Saffron (Crocus sativus L.) in the treatment of anxiety and depression. | J Complement Integr Med
+- new | 2016 | 26811090 | Randomized Controlled Trial | Potential Ergogenic Effects of Saffron. | J Diet Suppl
+- HELD REF-2004 | 2015 | 24848002 | Review | Clinical Applications of Saffron (Crocus sativus) and its Constituents: A Review. | Drug Res (Stuttg)
+- new | 2015 | 26165367 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Systematic Review | A systematic review of randomized controlled trials examining the effectiveness of saffron (Crocus sativus L.) on psychological and behavioral outcomes. | J Integr Med
+- new | 2015 | 26468460 |  | Safety evaluation of saffron stigma (Crocus sativus L.) aqueous extract and crocin in patients with schizophrenia. | Avicenna J Phytomed
+- HELD REF-0789 | 2014 | 25384672 | Systematic Review | Saffron (Crocus sativus) for depression: a systematic review of clinical studies and examination of underlying antidepressant mechanisms of action. | Hum Psychopharmacol
+- new | 2014 | 23733488 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Crocus sativus L. (saffron) on coagulation and anticoagulation systems in healthy volunteers. | Phytother Res
+- HELD REF-2001 | 2013 | 24299602 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Saffron (Crocus sativus L.) and major depressive disorder: a meta-analysis of randomized clinical trials. | J Integr Med
+- new | 2011 | 21649456 | Review | Curcumin for inflammatory bowel disease: a review of human studies. | Altern Med Rev
+- new | 2011 | 21171936 | Systematic Review | Herbal treatments for alleviating premenstrual symptoms: a systematic review. | J Psychosom Obstet Gynaecol
+- new | 2011 | 21438645 | Systematic Review | Herbal medicines, other than St. John's Wort, in the treatment of depression: a systematic review. | Altern Med Rev
+- new | 2011 | 21480412 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Immunomodulatory effects of saffron: a randomized double-blind placebo-controlled clinical trial. | Phytother Res
+- new | 2010 | 20493333 | Review | Complementary and alternative medicine usage for behavioral health indications. | Prim Care
+- new | 2010 | 20688744 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Influence of saffron supplementation on retinal flicker sensitivity in early age-related macular degeneration. | Invest Ophthalmol Vis Sci
+- new | 2009 | 19923637 | Research Support, Non-U.S. Gov't/Systematic Review | Herbs, vitamins and minerals in the treatment of premenstrual syndrome: a systematic review. | Can J Clin Pharmacol
+- new | 2009 | 19275687 | Systematic Review | A systematic review of the potential herbal sources of future drugs effective in oxidant-related diseases. | Inflamm Allergy Drug Targets
+- new | 2008 | 19101900 | Clinical Trial | Effect of saffron on semen parameters of infertile men. | Urol J
+- new | 2001 | 11285683 | Review | The role of natural color additives in food allergy. | Adv Food Nutr Res
+
+### PubMed SR - 141 hits, 40 not already listed above, 38 new
+- new | 2026 | 42186868 | Review | Saffron and Pregnancy: Cultural Practices, Beliefs, and Safety Evidence: An Integrative Review. | J Evid Based Integr Med
+- new | 2026 | 42100836 | Review | A comprehensive systematic review of human trials investigating herbal treatments for Alzheimer's disease and dementia. | Acta Neuropsychiatr
+- new | 2025 | 41304981 | Review | Is Crocin Effective in Modulating Blood Lipid Levels? An Updated Systematic Review and Meta-Analysis with Dose- and Time-Response Assessments. | Pharmaceuticals (Basel)
+- new | 2025 | 39657222 |  | Effect of Saffron (Crocus sativus) Supplementation on Oxidative Stress, Inflammatory Indices, and Renal and Liver Function Parameters in Patients With Type 2 Diabetes Mellitus: A G | Nutr Rev
+- new | 2024 | 38542668 | Meta-Analysis/Systematic Review | Effect of Aromatic Herbs and Spices Present in the Mediterranean Diet on the Glycemic Profile in Type 2 Diabetes Subjects: A Systematic Review and Meta-Analysis. | Nutrients
+- new | 2024 | 39295946 | Systematic Review | Saffron (Crocus sativus) and its constituents in ovalbumin-induced asthma model: a preclinical systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 39577115 | Systematic Review | Saffron and its major constituents against neurodegenerative diseases: A mechanistic review. | Phytomedicine
+- new | 2023 | 37324874 | Review | Comparison of the effect of saffron, crocin, and safranal on serum levels of oxidants and antioxidants in diabetic rats: A systematic review and meta-analysis of animal studies. | Food Sci Nutr
+- new | 2023 | 36992660 | Meta-Analysis/Systematic Review | Effect of saffron and fenugreek on lowering blood glucose: A systematic review with meta-analysis. | Phytother Res
+- new | 2022 | 36141931 | Meta-Analysis/Systematic Review | Crocus Sativus for Insomnia: A Systematic Review and Meta-Analysis. | Int J Environ Res Public Health
+- new | 2022 | 36249453 | Review | The neuropsychotropic effects of Crocus sativus L. (saffron): an overview of systematic reviews and meta-analyses investigating its clinical efficacy in psychiatric and neurologica | Avicenna J Phytomed
+- new | 2022 | 34565321 | Systematic Review/Research Support, Non-U.S. Gov't | Edible Medicinal Plants on Facilitating Childbirth: A Systematic Review. | Curr Drug Discov Technol
+- new | 2022 | 34757208 | Meta-Analysis/Systematic Review | Saffron, as an adjunct therapy, contributes to relieve depression symptoms: An umbrella meta-analysis. | Pharmacol Res
+- new | 2022 | 36159329 | Review | Saffron and its active ingredients against human disorders: A literature review on existing clinical evidence. | Iran J Basic Med Sci
+- new | 2022 | 35103929 | Meta-Analysis/Systematic Review | The effects of saffron supplementation on the measures of renal function indicators: a systematic review and meta-analysis. | Int Urol Nephrol
+- new | 2022 | 36101536 | Review | A Systematic Review on the Effect of Saffron Extract on Lipid Profile in Hyperlipidaemic Experimental Animal Models. | Malays J Med Sci
+- new | 2022 | 36570145 | Systematic Review | The effects of saffron supplementation on cardiovascular risk factors in adults: A systematic review and dose-response meta-analysis. | Front Nutr
+- new | 2022 | 36678554 | Review | Current Knowledge of the Antidepressant Activity of Chemical Compounds from Crocus sativus L. | Pharmaceuticals (Basel)
+- new | 2022 | 34923214 | Systematic Review | The mechanisms of saffron (Crocus sativus') on the inflammatory pathways of diabetes mellitus: A systematic review. | Diabetes Metab Syndr
+- new | 2022 | 35331485 | Systematic Review | The potential role of saffron (Crocus Sativus L.) and its components in oxidative stress in diabetes mellitus: A systematic review. | Clin Nutr ESPEN
+- new | 2022 | 36336218 | Systematic Review/Research Support, Non-U.S. Gov't | Tantali fibromyalgic supplicium: Is there any relief with the antidepressant employment? A systematic review. | Pharmacol Res
+- new | 2022 | 35778993 | Review | The effect of saffron supplementation on glycemic parameters: An overview of systematic reviews. | Phytother Res
+- new | 2021 | 35095483 | Review | Crocetin: A Systematic Review. | Front Pharmacol
+- new | 2021 | 33615006 | Review | The role of Safranal and saffron stigma extracts in oxidative stress, diseases and photoaging: A systematic review. | Heliyon
+- new | 2021 | 33596697 | Research Support, Non-U.S. Gov't/Review | Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders: A Meta-review of Meta-analyses of Randomized Controlled Trials: Les médicaments à base de plantes  | Can J Psychiatry
+- new | 2021 | 32525777 | Systematic Review | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review. | Curr Drug Discov Technol
+- new | 2020 | 32124509 | Systematic Review | Herbal medicines and phytochemicals for obsessive-compulsive disorder. | Phytother Res
+- new | 2020 | 32114269 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Single fraction radiosurgery, fractionated radiosurgery, and conventional radiotherapy for spinal oligometastasis (SAFFRON): A systematic review and meta-analysis. | Radiother Oncol
+- new | 2019 | 31027364 | Systematic Review | Saffron: The Golden Spice with Therapeutic Properties on Digestive Diseases. | Nutrients
+- new | 2019 | 31143299 | Review | Herbs and Spices- Biomarkers of Intake Based on Human Intervention Studies - A Systematic Review. | Genes Nutr
+- HELD REF-2547 | 2018 | 29575228 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review. | Phytother Res
+- new | 2018 | 29289576 | Systematic Review | Botanicals and phytochemicals active on cognitive decline: The clinical evidence. | Pharmacol Res
+- HELD REF-2008 | 2018 | 29747750 | Review | Crocus sativus a natural food coloring and flavoring has potent anti-tumor properties. | Phytomedicine
+- new | 2018 | 29881706 | Review | A systematic review and meta-analysis of clinical trials on saffron (Crocus sativus) effectiveness and safety on erectile dysfunction and semen parameters. | Avicenna J Phytomed
+- new | 2018 | 30136324 | Systematic Review | Phytotherapic use of the Crocus sativus L. (Saffron) and its potential applications: A brief overview. | Phytother Res
+- new | 2018 | 29952263 | Review | The Protective Role of Crocus Sativus L. (Saffron) Against Ischemia- Reperfusion Injury, Hyperlipidemia and Atherosclerosis: Nature Opposing Cardiovascular Diseases. | Curr Cardiol Rev
+- new | 2018 | 29136602 | Review | Saffron in the treatment of depression, anxiety and other mental disorders: Current evidence and potential mechanisms of action. | J Affect Disord
+- new | 2018 | 29632841 | Review | The effectiveness and safety of Iranian herbal medicines for treatment of premenstrual syndrome: A systematic review. | Avicenna J Phytomed
+- new | 2011 | 22432635 | Systematic Review | An evidence-based systematic review of saffron (Crocus sativus) by the Natural Standard Research Collaboration. | J Diet Suppl
+- new | 2011 | 21601431 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence. | Eur Neuropsychopharmacol
+
+### PubMed SAFE - 606 hits, 147 not already listed above, 146 new
+- new | 2026 | 42057871 |  | Adverse Events of Saffron (Crocus sativus L.): Systematic Review of Current Evidence. | Health Sci Rep
+- new | 2026 | 42153020 |  | Crocin mitigates colistin-induced toxicity in HEK-293 cells through antioxidant and antiapoptotic mechanisms. | Avicenna J Phytomed
+- new | 2026 | 42198447 |  | Investigation of the Effects of Saffron on Neuroprotection and Circadian Rhythm in an In Vitro Parkinson's Model. | Pharmaceuticals (Basel)
+- new | 2025 | 40955264 | Review | Management of Antidepressant-Induced Sexual Dysfunction: A Literature Review. | Cureus
+- new | 2025 | 40154100 | Review | Molecular insights into anti-inflammatory activities of selected Indian herbs. | J Ayurveda Integr Med
+- new | 2025 | 40163148 |  | Safranal restores RUNX3-mediated immunoregulation by inhibiting the NLRP3 inflammasome in allergic asthma. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 40389761 |  | Safranal-loaded gold nanoparticles alleviate hepatocellular carcinoma via targeting the Wnt/β-catenin pathway. | Discov Oncol
+- new | 2025 | 41462633 | Review | Phytochemistry, Biological Activities, Molecular Mechanisms, and Toxicity of Saffron (Crocus sativus L.): A Comprehensive Overview. | Antioxidants (Basel)
+- new | 2025 | 40167627 | Review | Effects of Crocus sativus and its active constituents on cytochrome P450: a review. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 40690059 |  | Effects of safranal on antidiabetic and endothelial dysfunction in streptozotocin-induced diabetic rats. | Mol Biol Rep
+- new | 2025 | 40194334 |  | Crocin-I mitigates diquat-induced pulmonary fibrosis via activation of the SIRT3/FOXO3a pathway. | Biomed Pharmacother
+- new | 2025 | 41378215 | Review | Integrating clinical evidence with natural product therapies for elderly-onset type 2 diabetes. | Front Pharmacol
+- new | 2025 | 40446716 |  | Raman signatures of astrocytoma metabolism alterations induced by crocin, fucoxanthin and lutein. | Spectrochim Acta A Mol Biomol Spectrosc
+- new | 2025 | 40584445 | Review | Effect of Crocus sativus L. (saffron) and Rosmarinus officinalis L. (rosemary) in hepatocellular carcinoma: A narrative review of current evidence and prospects. | Iran J Basic Med Sci
+- new | 2025 | 39901556 |  | Crocin and Nano-Crocin Mitigate Paraquat Hepatotoxicity by Modulating Expression of Genes Involved in Oxidative Stress and Inflammation. | Pharm Nanotechnol
+- new | 2025 | 40468138 |  | Antioxidative Effects of Crocin-loaded Noisome in Paraquat-induced Oxidative Stress in Lung Rat. | Cell Biochem Biophys
+- new | 2025 | 39326816 |  | The suppressive effects of crocin from saffron on allergic airway inflammation through Drp1/Nfr1/Mfn2/Pgc1-alpha signaling pathway in mice. | J Ethnopharmacol
+- new | 2024 | 39351321 | Review/Comparative Study | Exploring the Potential of Saffron as a Therapeutic Agent in Depression Treatment: A Comparative Review. | Yale J Biol Med
+- new | 2024 | 38617922 | Review | Modulating effects of crocin on lipids and lipoproteins: Mechanisms and potential benefits. | Heliyon
+- new | 2024 | 37775924 |  | Garlic Bulb Decay and Soft Rot Caused by the Cross-Kingdom Pathogen Burkholderia gladioli. | Plant Dis
+- new | 2024 | 37877507 | Review | The Anti-hypoxia Potentials of Trans-sodium Crocetinate in Hypoxiarelated Diseases: A Review. | Curr Radiopharm
+- new | 2024 | 38295084 | Published Erratum | Correction: Safety evaluation of saffron extracts in early and established atherosclerotic New Zealand white rabbits. | PLoS One
+- new | 2024 | 38419885 | Review | An overview of pharmacological effects of Crocus sativous and its constituents. | Iran J Basic Med Sci
+- new | 2024 | 39292868 | Research Support, Non-U.S. Gov't | Maximizing saffron apocarotenoid production in varied tomato fruit carotenoid contexts. | Plant J
+- new | 2024 | 38367937 | Review | The effect of saffron and its extracts on the treatment of breast cancer: A narrative review. | Ann Pharm Fr
+- new | 2024 | 37982364 |  | Multi-element analysis of food dyes and assessment of consumer's health. | Food Addit Contam Part B Surveill
+- new | 2024 | 38818651 |  | PL-Relief(TM)plus Alleviates Atopic Dermatitis and Regulates Inflammatory Responses via Inhibiting NF-κB Signaling Pathway. | Chem Biodivers
+- new | 2024 | 38891276 | Review | Saffron, a Potential Bridge between Nutrition and Disease Therapeutics: Global Health Challenges and Therapeutic Opportunities. | Plants (Basel)
+- new | 2024 | 39507811 | Review | Crocus sativus (saffron) and age-related macular degeneration. | Med Hypothesis Discov Innov Ophthalmol
+- new | 2024 | 39027705 |  | Radioprotective Effect of Resveratrol, Crocin, and Their Combination on Cytogenetic Alterations in Human Lymphocytes. | J Biomed Phys Eng
+- new | 2024 | 39235596 | Clinical Trial, Phase I/Clinical Trial, Phase II/Multicenter Study | SAFFRON-104: a phase Ib/II study of sitravatinib alone or with tislelizumab in advanced hepatocellular carcinoma and gastric cancer/gastroesophageal junction cancer. | Cancer Immunol Immunother
+- new | 2024 | 38694315 | Review | Saffron extract as an emerging novel therapeutic option in reproduction and sexual health: recent advances and future prospectives. | Ann Med Surg (Lond)
+- new | 2024 | 38675443 | Review | State-of-the-Art Review on Botanical Hybrid Preparations in Phytomedicine and Phytotherapy Research: Background and Perspectives. | Pharmaceuticals (Basel)
+- new | 2024 | 39065694 |  | Intestinal Metabolism of Crocin and a Pharmacokinetics and Pharmacodynamics Study in the Chronic Social Defeat Stress Mouse Model. | Pharmaceuticals (Basel)
+- new | 2023 | 37917169 |  | Colchicum autumnale intoxications: experience of the Poisons Information Centre, Austria 2002-2018. | Clin Toxicol (Phila)
+- new | 2023 | 38005403 | Review | Food Safety Issues in the Oltrepò Pavese Area: A SERS Sensing Perspective. | Sensors (Basel)
+- new | 2023 | 37004404 |  | Safranal inhibits estrogen-deficiency osteoporosis by targeting Sirt1 to interfere with NF-κB acetylation. | Phytomedicine
+- new | 2023 | 37627598 | Review | From Plants to Psycho-Neurology: Unravelling the Therapeutic Benefits of Bioactive Compounds in Brain Disorders. | Antioxidants (Basel)
+- new | 2023 | 36752710 | Review | Therapeutic implications of crocin in Parkinson's disease: A review of preclinical research. | Chem Biol Drug Des
+- new | 2023 | 38053097 | Clinical Trial | Fractional Exhalation Nitric Oxide (FeNO) changes in cystic fibrosis patients induced by compound honey syrup: a pretest-posttest clinical trial. | BMC Pulm Med
+- new | 2023 | 37615252 |  | The protective effect of crocin against testicular toxicity induced by ionizing radiation via AKT/FOXO pathway. | Environ Toxicol
+- new | 2023 | 38201944 |  | Mechanism of Antitumor Effects of Saffron in Human Prostate Cancer Cells. | Nutrients
+- new | 2023 | 35986812 | Review | Saffron as a promising therapy for diabetes and Alzheimer's disease: mechanistic insights. | Metab Brain Dis
+- new | 2023 | 36746856 |  | Crocin treatment exerts anti-inflammatory and anti-oxidative effects in liver tissue damage of pinealectomized diabetic rats. | Environ Sci Pollut Res Int
+- new | 2023 | 36805765 |  | Protective effect of crocin on cuprizone-induced model of multiple sclerosis in mice. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2023 | 36397621 | Review | Neuroprotective Potency of Safranal Against Neurological Disorders. | Curr Mol Med
+- new | 2023 | 38055395 |  | Saffron reduces the liver fibrosis in mice by inhibiting the JAK/STAT3 pathway. | Acta Cir Bras
+- new | 2023 | 36834472 |  | A Picrocrocin-Enriched Fraction from a Saffron Extract Affects Lipid Homeostasis in HepG2 Cells through a Non-Statin-like Mode. | Int J Mol Sci
+- new | 2023 | 37504267 |  | Microbiomic and Metabolomic Analyses Unveil the Protective Effect of Saffron in a Mouse Colitis Model. | Curr Issues Mol Biol
+- new | 2023 | 37523948 |  | Antioxidant and anti-inflammatory potential of crocin on the doxorubicin mediated hepatotoxicity in Wistar rats. | Tissue Cell
+- new | 2023 | 37315393 |  | Enhancement of cisplatin-induced apoptosis by saffron in human lung cancer cells. | J Trace Elem Med Biol
+- new | 2023 | 37103518 | Review/Research Support, Non-U.S. Gov't | Effect of saffron, black seed, and their main constituents on inflammatory cytokine response (mainly TNF-α) and oxidative stress status: an aspect on pharmacological insights. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2022 | 35991882 | Review | Crocins for Ischemic Stroke: A Review of Current Evidence. | Front Pharmacol
+- new | 2022 | 36252480 |  | Hepatoprotective effects of carvedilol and crocin against leflunomide-induced liver injury. | Int Immunopharmacol
+- new | 2022 | 36033950 | Review | Interaction of saffron and its constituents with Nrf2 signaling pathway: A review. | Iran J Basic Med Sci
+- new | 2022 | 36185402 |  | Neuroprotective effects of crocin and crocin-loaded niosomes against the paraquat-induced oxidative brain damage in rats. | Open Life Sci
+- new | 2022 | 35740022 |  | Molecular Mechanisms behind Safranal's Toxicity to HepG2 Cells from Dual Omics. | Antioxidants (Basel)
+- new | 2022 | 36190398 |  | Chemotherapy-induced nephrotoxicity was improved by crocin in mouse model. | Eur J Histochem
+- new | 2022 | 36569481 |  | Crocin averts functional and structural rat hepatic disturbances induced by copper oxide nanoparticles. | Toxicol Res (Camb)
+- new | 2022 | 34624188 |  | The effects of saffron petals and damask rose petals on biochemical and inflammatory measurements. | J Complement Integr Med
+- new | 2022 | 35674002 |  | Investigation of the effects of safranal on the experimentally created rheumatoid arthritis model in rats. | J Biochem Mol Toxicol
+- new | 2022 | 36583172 | Review | Indian traditional medicinal plants in ophthalmic diseases. | Avicenna J Phytomed
+- new | 2022 | 35319401 |  | Powerful Stress Relieving Medicinal Plants for Anger, Anxiety, Depression, and Stress During Global Pandemic. | Recent Pat Biotechnol
+- new | 2022 | 35198096 | Review | The Pharmacological Activities of Crocus sativus L.: A Review Based on the Mechanisms and Therapeutic Opportunities of its Phytoconstituents. | Oxid Med Cell Longev
+- new | 2022 | 35630819 |  | Safety Assessment and Pain Relief Properties of Saffron from Taliouine Region (Morocco). | Molecules
+- new | 2022 | 36744213 |  | Mechanism of crocin I on ANIT-induced intrahepatic cholestasis by combined metabolomics and transcriptomics. | Front Pharmacol
+- new | 2022 | 35656072 |  | Protective effect of crocin on hemodynamic parameters, electrocardiogram parameters, and oxidative stress in isolated hearts of rats exposed to PM(10). | Iran J Basic Med Sci
+- new | 2022 | 36139719 |  | Therapeutic Effects of Crocin Alone or in Combination with Sorafenib against Hepatocellular Carcinoma: In Vivo & In Vitro Insights. | Antioxidants (Basel)
+- new | 2021 | 34143894 | Review | Curcumin, the active substance of turmeric: its effects on health and ways to improve its bioavailability. | J Sci Food Agric
+- HELD REF-2010 | 2021 | 33669124 | Review | Crocus sativus L. Extracts and Its Constituents Crocins and Safranal; Potential Candidates for Schizophrenia Treatment? | Molecules
+- new | 2021 | 33799507 |  | Saffron Extract-Induced Improvement of Depressive-Like Behavior in Mice Is Associated with Modulation of Monoaminergic Neurotransmission. | Nutrients
+- new | 2021 | 34804899 |  | Saffron offers hepatoprotection via up-regulation of hepatic farnesoid-X-activated receptors in a rat model of acetaminophen-induced hepatotoxicity. | Avicenna J Phytomed
+- new | 2021 | 33628387 |  | Antioxidant and Anti-Inflammatory Effects of Crocin Ameliorate Doxorubicin-Induced Nephrotoxicity in Rats. | Oxid Med Cell Longev
+- new | 2021 | 33482612 |  | Protective Effect of Crocin on Liver Function and Survival in Rats With Traumatic Hemorrhagic Shock. | J Surg Res
+- new | 2021 | 34981476 |  | Evaluation of the Effect of Crocin on Doxorubicin-Induced Cardiotoxicity. | Adv Exp Med Biol
+- new | 2021 | 34429734 |  | Antioxidant Effects of Aerobic Training and Crocin Consumption on Doxorubicin-Induced Testicular Toxicity in Rats. | J Family Reprod Health
+- new | 2021 | 34147548 | Review | Crocins: A comprehensive review of structural characteristics, pharmacokinetics and therapeutic effects. | Fitoterapia
+- new | 2021 | 34072709 |  | Potential Toxicity of Medicinal Plants Inventoried in Northeastern Morocco: An Ethnobotanical Approach. | Plants (Basel)
+- new | 2021 | 34322808 |  | Antioxidant, anti-inflammatory, and anti-apoptotic effects of crocin against doxorubicin-induced myocardial toxicity in rats. | Environ Sci Pollut Res Int
+- new | 2021 | 34470647 |  | The protective effect of crocin on cisplatin-induced testicular impairment in rats. | BMC Urol
+- new | 2021 | 34191112 |  | Protective effects of crocin against endogenous Aβ-induced neurotoxicity in N2a/APP695swe cells. | Psychopharmacology (Berl)
+- new | 2021 | 34448254 | Review | The cardiovascular-protective properties of saffron and its potential pharmaceutical applications: A critical appraisal of the literature. | Phytother Res
+- new | 2021 | 33045973 | Research Support, Non-U.S. Gov't | Crocin Protects Against Beta-Amyloid Peptide-Induced Apoptosis in PC12 Cells Via the PI3 K Pathway. | Curr Mol Pharmacol
+- new | 2020 | 32916219 | Review | Therapeutic potentials of crocin in medication of neurological disorders. | Food Chem Toxicol
+- new | 2020 | 32331813 | Case Reports | [Paraganglioma of the cauda equina region: Report of 9 cases]. | Ann Pathol [fre]
+- new | 2020 | 32391475 |  | Description of Druglike Properties of Safranal and Its Chemistry behind Low Oral Exposure. | ACS Omega
+- new | 2020 | 32089715 |  | Bioaccessibility and Pharmacokinetics of a Commercial Saffron (Crocus sativus L.) Extract. | Evid Based Complement Alternat Med
+- new | 2020 | 32966490 |  | Antidementia effects, metabolic profiles and pharmacokinetics of GJ-4, a crocin-rich botanical candidate from Gardeniae fructus. | Food Funct
+- new | 2020 | 32604971 |  | Dietary Crocin is Protective in Pancreatic Cancer while Reducing Radiation-Induced Hepatic Oxidative Damage. | Nutrients
+- new | 2020 | 33114484 |  | Effects of Intestinal Microbiota on Pharmacokinetics of Crocin and Crocetin in Male Sprague-Dawley Rats. | Metabolites
+- new | 2020 | 31659585 | Retracted Publication | The Association of Cigarette Smoke Exposure with Lung Cellular Toxicity and Oxidative Stress: the Protective Role of Crocin. | Inflammation
+- new | 2019 | 30599111 | Review | Crocetin and Crocin from Saffron in Cancer Chemotherapy and Chemoprevention. | Anticancer Agents Med Chem
+- new | 2019 | 31115574 | Retracted Publication | Crocin protects against dexamethasone‑induced osteoblast apoptosis by inhibiting the ROS/Ca2+‑mediated mitochondrial pathway. | Mol Med Rep
+- new | 2019 | 31220735 |  | Crocin ameliorates methotrexate-induced liver injury via inhibition of oxidative stress and inflammation in rats. | Pharmacol Rep
+- new | 2019 | 30763684 |  | Crocus sativus by-products as sources of bioactive extracts: Pharmacological and toxicological focus on anthers. | Food Chem Toxicol
+- new | 2019 | 31100302 | Review | A comprehensive review on biological activities and toxicology of crocetin. | Food Chem Toxicol
+- new | 2019 | 30343354 | Randomized Controlled Trial | Saffron therapy for the treatment of mild/moderate age-related macular degeneration: a randomised clinical trial. | Graefes Arch Clin Exp Ophthalmol
+- new | 2019 | 31034723 |  | Characterization of Crocetin-Monoglucuronide as a Neuron-Protective Metabolite of Crocin-1. | Mol Nutr Food Res
+- new | 2019 | 31675349 |  | The impact of Crocus sativus stigma against methotrexate-induced liver toxicity in rats. | J Complement Integr Med
+- new | 2019 | 30926569 |  | Effect of saffron (stigma of Crocus sativus L.) aqueous extract on ethanol toxicity in rats: A biochemical, histopathological and molecular study. | J Ethnopharmacol
+- new | 2019 | 31496890 | Review | Understanding Myths in Pregnancy and Childbirth and the Potential Adverse Consequences: A Systematic Review. | Malays J Med Sci
+- new | 2018 | 30220678 |  | Crocin protects intestine tissue against carbon tetrachloride-mediated oxidative stress in rats. | Gen Physiol Biophys
+- new | 2018 | 28812436 |  | The mechanism of protective effect of crocin against liver mitochondrial toxicity caused by arsenic III. | Toxicol Mech Methods
+- new | 2018 | 28937827 |  | Effect of Saffron on Metabolic Profile and Retina in Apolipoprotein E-Knockout Mice Fed a High-Fat Diet. | J Diet Suppl
+- new | 2018 | 29420792 | Research Support, Non-U.S. Gov't | Assessment of Neurological Toxicity of Hydroxyethyl Starch 130/0.4 Injected in the Intrathecal Space in Rats. | Pain Med
+- new | 2018 | 29486335 |  | Crocin attenuates cyclophosphamide induced testicular toxicity by preserving glutathione redox system. | Biomed Pharmacother
+- new | 2018 | 28111973 |  | Efficacy of crocin and safranal as protective agents against genotoxic stress induced by gamma radiation, urethane and procarbazine in mice. | Hum Exp Toxicol
+- new | 2018 | 29894957 |  | Spectroscopic and computational evaluation on the binding of safranal with human serum albumin: Role of inner filter effect in fluorescence spectral correction. | Spectrochim Acta A Mol Biomol Spectrosc
+- new | 2018 | 29361791 | Research Support, Non-U.S. Gov't | Groundwater Pollution Sources Apportionment in the Ghaen Plain, Iran. | Int J Environ Res Public Health
+- new | 2018 | 30151305 |  | Effect of Crocus sativus L. stigma (saffron) against subacute effect of diazinon: histopathological, hematological, biochemical and genotoxicity evaluations in rats. | J Pharmacopuncture
+- new | 2017 | 29217164 |  | The protective role of crocin in tartrazine induced nephrotoxicity in Wistar rats. | Biomed Pharmacother
+- new | 2017 | 28602167 | Review | Mechanism behind the anti-tumour potential of saffron (Crocus sativus L.): The molecular perspective. | Crit Rev Oncol Hematol
+- new | 2017 | 28675431 | Review | A comprehensive review on anticancer mechanisms of the main carotenoid of saffron, crocin. | J Pharm Pharmacol
+- new | 2017 | 29604903 | Research Support, Non-U.S. Gov't/Review | Tumor-Suppressing Properties of Crocus sativus L.: Nature as an Anti-Cancer Agent. | Crit Rev Oncog
+- new | 2016 | 27403251 | Review | Therapeutic effects of saffron (Crocus sativus L.) in digestive disorders: a review. | Iran J Basic Med Sci
+- new | 2016 | 25875654 | Review | Efficacy and Safety of Saffron Supplementation: Current Clinical Findings. | Crit Rev Food Sci Nutr
+- new | 2016 | 27041871 | Review | Review of Scientific Evidence of Medicinal Convoy Plants in Traditional Persian Medicine. | Pharmacogn Rev
+- new | 2016 | 27872703 |  | Crocin prevents haloperidol-induced orofacial dyskinesia: possible an antioxidant mechanism. | Iran J Basic Med Sci
+- new | 2016 | 26856859 |  | Crocin protects the liver and kidney from patulin-induced apoptosis in vivo. | Environ Sci Pollut Res Int
+- new | 2016 | 27454208 |  | Therapeutic use of colchicine and its derivatives: a patent review. | Expert Opin Ther Pat
+- new | 2016 | 27168751 |  | Protective effect of crocin on liver toxicity induced by morphine. | Res Pharm Sci
+- new | 2016 | 27470563 |  | Investigation of the effect of safranal and crocin pre-treatment on hepatic injury induced by infrarenal aortic occlusion. | Biomed Pharmacother
+- new | 2016 | 24097366 | Research Support, Non-U.S. Gov't | Evaluation of teratogenic effects of crocin and safranal, active ingredients of saffron, in mice. | Toxicol Ind Health
+- new | 2016 | 29955469 |  | Sexual dysfunction in selective serotonin reuptake inhibitors (SSRIs) and potential solutions: A narrative literature review. | Ment Health Clin
+- new | 2016 | 27123203 |  | Crocin Improves Damage Induced by Nicotine on A Number of Reproductive Parameters in Male Mice. | Int J Fertil Steril
+- new | 2016 | 27059123 | Published Erratum | Corrigendum to "Crocin protects against doxorubicin-induced myocardial toxicity in rats through down-regulation of inflammatory and apoptic pathways" [Chemico-Biol. Interact. 247 ( | Chem Biol Interact
+- new | 2016 | 27769229 |  | Herbal remedies and functional foods used by cancer patients attending specialty oncology clinics in Trinidad. | BMC Complement Altern Med
+- new | 2016 | 26584762 | Research Support, Non-U.S. Gov't | Tissue oxidative stress induced by patulin and protective effect of crocin. | Neurotoxicology
+- new | 2016 | 26807765 |  | Crocin protects against doxorubicin-induced myocardial toxicity in rats through down-regulation of inflammatory and apoptic pathways. | Chem Biol Interact
+- new | 2015 | 26884946 |  | Antitumor effects of crocin on human breast cancer cells. | Int J Clin Exp Med
+- new | 2015 | 26670251 | Review | Alkaloid-Containing Plants Poisonous to Cattle and Horses in Europe. | Toxins (Basel)
+- new | 2015 | 25928729 | Review | Saffron as an antidote or a protective agent against natural or chemical toxicities. | Daru
+- new | 2015 | 26124930 |  | Effect of Crocus sativus extracts and its active constituent safranal on the harmaline-induced tremor in mice. | Iran J Basic Med Sci
+- new | 2015 | 26095701 |  | Crocin Prevents Patulin-Induced Acute Toxicity in Cardiac Tissues via the Regulation of Oxidative Damage and Apoptosis. | J Biochem Mol Toxicol
+- new | 2015 | 26124935 |  | Inhibitory effect of corcin on aggregation of 1N/4R human tau protein in vitro. | Iran J Basic Med Sci
+- new | 2015 | 25637687 | Research Support, Non-U.S. Gov't | Gastroprotective effect of crocin in ethanol-induced gastric injury in rats. | Chem Biol Interact
+- new | 2015 | 23406950 | Research Support, Non-U.S. Gov't | Evaluation of diazinon-induced hepatotoxicity and protective effects of crocin. | Toxicol Ind Health
+- new | 2014 | 24269582 | Review | Saffron and natural carotenoids: Biochemical activities and anti-tumor effects. | Biochim Biophys Acta
+- new | 2014 | 24275090 | Review | Bioactivity assessment and toxicity of crocin: a comprehensive review. | Food Chem Toxicol
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 23638288 |  | A survey on saffron in major islamic traditional medicine books. | Iran J Basic Med Sci
+- new | 2006 | 16512809 | Research Support, Non-U.S. Gov't/Review | Pollen-food syndromes associated with weed pollinosis: an update from the molecular point of view. | Allergy
+- new | 2004 | 15239370 | Review | Crocetin from saffron: an active component of an ancient spice. | Crit Rev Food Sci Nutr
+- new | 2002 | 12065218 | Evaluation Study/Research Support, Non-U.S. Gov't | Evaluation of the developmental toxicity of crocetin on Xenopus. | Food Chem Toxicol
+- new | 2002 | 12078423 | Case Reports/Review | Food allergy and IgE sensitization caused by spices: CICBAA data (based on 589 cases of food allergy). | Allerg Immunol (Paris)
+- new | 1997 | 9188936 | Case Reports | Anaphylaxis to saffron. | Allergy
+- new | 1991 | 2030595 | Research Support, Non-U.S. Gov't | Modulatory effects of Crocus sativus and Nigella sativa extracts on cisplatin-induced toxicity in mice. | J Ethnopharmacol
+
+### PubMed OBS - 29 hits, 24 not already listed above, 24 new
+- new | 2026 | 42943410 |  | The Effects of a Multi-Strain Probiotic Formulation Containing Saffron Extract and Fructooligosaccharides on Anxiety, Depressive Symptoms, Inflammatory Markers, and BDNF: A Double- | Microorganisms
+- new | 2026 | 41775830 |  | The association between medicinal herbs consumption and body weight and composition: a hospital based cross-sectional study. | Sci Rep
+- new | 2026 | 42106436 | Observational Study | Assessing postural loads and musculoskeletal disorders in saffron harvesters: a prospective repeated-measures observational study using an agricultural-specific tool. | Sci Rep
+- new | 2025 | 40633216 |  | Deep learning for giant cell arteritis diagnosis on temporal artery biopsy. | Comput Biol Med
+- new | 2025 | 40772092 |  | The relationship between the maternal consumption of barberry, saffron, pickled vegetables, and tea and the odds of congenital anomalies in Iranian children under 10 years of age:  | J Educ Health Promot
+- new | 2025 | 40917770 |  | Impact of Dietary Antioxidant Supplements on Atrophic Lesion Progression in Stargardt Disease: A Retrospective Observational Study. | J Ophthalmol
+- new | 2024 | 39767661 |  | Deep Multiple Instance Learning Model to Predict Outcome of Pancreatic Cancer Following Surgery. | Biomedicines
+- new | 2024 | 40226680 | Clinical Trial/Research Support, Non-U.S. Gov't | Effectiveness of a Saffron and Withania Supplement on Mood in Women With Mild-to-Moderate Anxiety During the COVID-19 Lockdown. | Depress Anxiety
+- new | 2023 | 36801637 | Research Support, Non-U.S. Gov't | Standardized Pathology Screening of Mature Tertiary Lymphoid Structures in Cancers. | Lab Invest
+- new | 2023 | 36595379 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Maximizing Glycemic Benefits of Using Faster Insulin Formulations in Type 1 Diabetes: In Silico Analysis Under Open- and Closed-Loop Conditions. | Diabetes Technol Ther
+- new | 2023 | 37750646 | Multicenter Study | Improvement in menopausal symptoms with a nutritional product containing evening primrose oil, hop extract, saffron, tryptophan, vitamins B6, D3, K2, B12, and B9. | Eur Rev Med Pharmacol Sci
+- new | 2023 | 36645441 | Observational Study | A novel anchoring system for pelvic organ prolapse repair: an observational study. | Int Urogynecol J
+- new | 2023 | 36808075 | Clinical Trial, Phase I/Multicenter Study/Research Support, Non-U.S. Gov't | SAFFRON-103: a phase 1b study of the safety and efficacy of sitravatinib combined with tislelizumab in patients with locally advanced or metastatic non-small cell lung cancer. | J Immunother Cancer
+- new | 2021 | 33494953 |  | [Analysis of interference criteria for the validation of a method file: HPS staining after fixation with zinc-formalin in comparison to fixation with the classical 4% buffered form | Ann Pathol [fre]
+- new | 2020 | 32116721 |  | Public Knowledge, Attitude, and Practice on Herbal Remedies Used During Pregnancy and Lactation in West Bank Palestine. | Front Pharmacol
+- new | 2019 | 37221812 |  | Turmeric, Pepper, Cinnamon, and Saffron Consumption and Mortality. | J Am Heart Assoc
+- new | 2018 | 30034237 |  | A preliminary assessment of a combination of rhodiola and saffron in the management of mild-moderate depression. | Neuropsychiatr Dis Treat
+- new | 2017 | 28482898 |  | Ethnopharmacological survey of medicinal plants practiced by traditional healers and herbalists for treatment of some urological diseases in the West Bank/Palestine. | BMC Complement Altern Med
+- new | 2015 | 25986951 |  | Histopathological classification of refractory chronic rhinosinusitis with nasal polyps. | Histol Histopathol
+- new | 2014 | 24289892 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, double-blind, clinical trial comparing the efficacy and safety of Crocus sativus L. with fluoxetine for improving mild to moderate depression in post percutaneous cor | J Affect Disord
+- new | 2014 | 24388706 | Multicenter Study/Research Support, Non-U.S. Gov't | Immunohistochemistry evaluation of biomarker expression in non-small cell lung cancer (Pharmacogenoscan study). | Lung Cancer
+- new | 2012 | 22086144 |  | Laparoscopic sentinel lymph node (SLN) versus extensive pelvic dissection for clinically localized prostate carcinoma. | Eur J Nucl Med Mol Imaging
+- new | 2009 | 19082831 |  | Low incidence of enterocolitis and colonic mucosal inflammation in Norwegian patients with Hirschsprung's disease. | Pediatr Surg Int
+- new | 2007 | 17596173 | Research Support, Non-U.S. Gov't | Acral lentiginous melanoma: histopathological prognostic features of 121 cases. | Br J Dermatol
+
+### PubMed REV - 432 hits, 11 not already listed above, 10 new
+- new | 2024 | 38758225 | Review | Potential therapeutic effects of crocin. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2023 | 36902200 | Review | Depression and Its Phytopharmacotherapy-A Narrative Review. | Int J Mol Sci
+- new | 2023 | 35231199 | Review | Crocin as a vision supplement. | Clin Exp Optom
+- new | 2022 | 36144755 | Review | Medicinal Plants Used for Anxiety, Depression, or Stress Treatment: An Update. | Molecules
+- HELD REF-2009 | 2022 | 35276955 | Review | Saffron (Crocus sativus L.): A Source of Nutrients for Health and for the Treatment of Neuropsychiatric and Age-Related Diseases. | Nutrients
+- new | 2021 | 33174095 | Review | Plants Used as Antihypertensive. | Nat Prod Bioprospect
+- new | 2021 | 33917843 | Review | Neuroprotective Herbs for the Management of Alzheimer's Disease. | Biomolecules
+- new | 2015 | 26448818 | Review | Anti-Aging Potential of Phytoextract Loaded-Pharmaceutical Creams for Human Skin Cell Longetivity. | Oxid Med Cell Longev
+- new | 2012 | 22414105 | Review | Nature against depression. | Curr Med Chem
+- new | 1993 | 28541650 | Review | SLC39A14 Deficiency. | 
+- new | 1993 | 22934317 | Review | Hypermanganesemia with Dystonia 1. | 
+
+### ClinicalTrials.gov - 32 registered studies
+- NCT07324759 | NOT_YET_RECRUITING | results=False | NA | Clinical Study to Assess Safety, Effectiveness and In-Use Tolerability of Saffron Extract Capsules for Improving Skin Health and Reducing Si | conds: Wrinkles, Fine Lines, Hyperpigmentation, Dark Spots | intr: Standardized Saffron Extract (Crocus Sativus L) 10 mg Capsule, Placebo (capsules containing Maltodex
+- NCT06227858 | COMPLETED | results=False | NA | Effects of a Standardised Saffron Extract Supplementation on Symptoms Associated With Perimenopause in Healthy Women | conds: Perimenopausal Disorder | intr: Safr'Inside supplement (Activ'Inside, SAS), Plcebo
+- NCT07161804 | COMPLETED | results=False | PHASE4 | Pilot RCT Using Homeopathic Medicines in ASD | conds: Autism Spectrum Disorder (ASD) | intr: Homoeopathic medicines, Therapy, Placebo
+- NCT05572749 | COMPLETED | results=False | NA | Clinical Trial of Crocus Kozanis Administration in Obese Children and Adolescents | conds: PreDiabetes, Obesity, Dyslipidemias | intr: Crocus Kozanis, Placebo of Crocus Kozanis, Metformin
+- NCT06235021 | UNKNOWN | results=False | NA | Clinical Efficacy of Saffron Mouth Rinse in Periodontitis Patients With Renal Disease | conds: Periodontal Diseases, Periodontal Pocket, Periodontal Inflammation | intr: Saffron, chlorhexidine mouthwash
+- NCT06228638 | UNKNOWN | results=False |  | CognivAiD Real-World Evidence Clinical Registry (CONNECT Registry) | conds: Memory Impairment, Dementia, Vascular | intr: CognivAID (Sailuotong) | pubs: ['24761653:RESULT (new)', '28067784:RESULT (new)', '31565154:RESULT (new)', '26762282:RESULT (new)', '28115971:RESULT (new)']
+- NCT06240364 | WITHDRAWN | results=False | NA | Effects of AffronEye®/ Crocuvis+® on Dry Eye Syndrome | conds: Dry Eye Syndrome | intr: Saffron extract (Crocus sativus), Placebo
+- NCT01590485 | COMPLETED | results=False | NA | Evaluation of the Effect of Saffron (Crocus Sativus) on Pain Control After Root Canal Therapy in Teeth With Vital Pulps | conds: Post-treatment Pain Following Root Canal Therapy | intr: starch, saffron
+- NCT01625442 | COMPLETED | results=False | PHASE4 | Crocus Sativus (Saffron) and Berberis Vulgaris (Barberry Fruit) in Metabolic Syndrome | conds: Metabolic Syndrome, Hypercholesterolemia, Hypertriglyceridemia, Hyperglycemia | intr: Saffron tablet, Barberry tablet, Placebo
+- NCT05199545 | COMPLETED | results=False | NA | Efficacy Study in Phytotherapy of an Association of Plants in the Improvement of Psychological Well-being | conds: Psychological Well-being | intr: Dietary supplement, Placebo
+- NCT05484362 | COMPLETED | results=False | NA | Acute Effect of Crocus Sativus on Postprandial Glycemia | conds: Potential Abnormality of Glucose Tolerance, Appetitive Behavior, Blood Pressure | intr: D-Glucose beverage as reference food, 15mg of Crocus Sativus as beverage, 30mg of Crocus Sativus as 
+- NCT07261475 | RECRUITING | results=False | EARLY_PHASE1 | Crocus Sativus Tepals Water Extract in Obesity and Prediabetes | conds: Prediabetes, Obesity & Overweight | intr: Crocus sativus tepals cold aqueous extract, cold water
+- NCT04872946 | COMPLETED | results=False | NA | Topical and Oral Regimen for Skin Health | conds: Skin Abnormalities | intr: Tea, Serum, Moisturizer
+- NCT02800733 | UNKNOWN | results=False | PHASE2,PHASE3 | Effects of Saffron on Mild to Moderate Generalized Anxiety Disorder (GAD) | conds: Patients With Mild to Moderate GAD | intr: Saffron, placebo
+- NCT07079046 | COMPLETED | results=False | NA | Efficacy of Satisens® in Reducing Emotional Eating | conds: Emotional Eating, Overweight or Obesity, Hormonal Changes, Neurotransmitter Agents | intr: Intervention 1: Satisens®, Intervention 2: Placebo
+- NCT00951288 | UNKNOWN | results=False | PHASE1,PHASE2 | Effect of Saffron Supplementation on Macular Cone-mediated Function in Age-related Macular Degeneration | conds: Age-Related Macular Degeneration | intr: Saffron, Placebo | pubs: ['20688744:RESULT (new)']
+- NCT07054697 | COMPLETED | results=False | PHASE4 | Pilot-RCT With Individualized Homeopathic Treatment in the Children With Autism Spectrum Disorder | conds: Autism Spectrum Disorder (ASD) | intr: Homoeopathic medicines, Placebo, THERAPY
+- NCT05211063 | COMPLETED | results=False | NA | Effects of CROCUVIS+® on Computer Vision Syndrome, Sleep and Mood Disorders | conds: Computer Vision Syndrome, Sleep Disorder, Mood Disorders | intr: Saffron extract (Crocus sativus), Placebo
+- NCT05933460 | COMPLETED | results=False | NA | Crocus Sativus Extract Impact in Metabolic Control of Patients With Diabetes Mellitus Type 1 | conds: Diabetes Mellitus, Type 1, Diabetes type1 | intr: dietary supplement with probiotics, prebiotics, magnesium and saffron extract, dietary supplement wi
+- NCT03617315 | COMPLETED | results=False | NA | Crosslinked Hyaluronic Acid With Liposomes and Crocin in Dry Eye | conds: Dry Eye, Meibomian Gland Dysfunction, Dry Eye Syndromes | intr: Hylauronic Acid | pubs: ['29189737:RESULT (new)', '23121946:RESULT (new)', '29381080:RESULT (new)', '22813209:RESULT (new)', '28777385:RESULT (new)', '29223649:RESULT (new)', '17394642:RESULT (new)', '24914681:RESULT (new)']
+- NCT05696665 | UNKNOWN | results=False | NA | Role of Saffron and Chamomile in the Management of Parkinson's Disease | conds: Parkinson Disease, Neurodegenerative Diseases | intr: conventional therapy, Saffron and Chamomile, Crocin and Apigenin | pubs: ['27706421:RESULT (new)', '30159851:RESULT (new)', '29147836:RESULT (new)', '34224829:RESULT (new)', '24904963:RESULT (new)', '31111370:RESULT (new)', '28389404:RESULT (new)', '28951838:RESULT (new)', '35274200:RESULT (new)']
+- NCT03375814 | UNKNOWN | results=False | PHASE3 | Evaluation Effect of Crocina on The Cellular Immune Responses in Osteoarthritis Patients | conds: Osteoarthritis, Knee | intr: Crocin, Placebo Oral Tablet | pubs: ['35822682:DERIVED (new)']
+- NCT03022253 | COMPLETED | results=False | PHASE3 | Platelet Transfusion for Treatment of Patent Ductus Arteriosus in Thrombocytopenic Preterm Neonates | conds: Patent Ductus Arteriosus | intr: Liberal platelet transfusion, Restrictive platelet transfusion, Paracetamol, Ibuprofen | pubs: ['30940676:DERIVED (new)']
+- NCT06187818 | UNKNOWN | results=False |  | Follow up Study of Crocin on Cardiac Function Protection in Patients With Breast Cancer Undergoing Neoadjuvant Chemotherapy Based on Color D | conds: Breast Cancer | intr: Crocin
+- NCT05504148 | UNKNOWN | results=False | NA | Protection of Cardiovascular Function With Crocin in BrEast Cancer Patients Undergoing Radiotherapy and Chemotherapy | conds: Breast Cancer | intr: crocin, Placebo | pubs: ['42253929:DERIVED (new)']
+- NCT05290727 | COMPLETED | results=False | NA | Efficacy of "Aquoral Lipo" Artificial Tears in Contact Lens Wearers With Discomfort | conds: Contact Lens Complication | intr: Aquoral Lipo (Esteve), Hyabak (Thea)
+- NCT04163757 | COMPLETED | results=False | NA | The Effects of Crocin Supplementation on Metabolic Parameters, Oxidative Stress, AMP- Activated Protein Kinase and Inflammation-promoting Ge | conds: Type 2 Diabetes | intr: crocin, placebo | pubs: ['32670418:DERIVED (new)']
+- NCT04936490 | UNKNOWN | results=False | PHASE1 | Crocin Supplementation in CSCR | conds: Chorioretinopathy, Central Serous | intr: Crocin, Placebo
+- NCT04750681 | COMPLETED | results=False | NA | Evaluation of the Effects of Saffron Extract on Sleep Quality and Stress | conds: Insomnia, Stress | intr: Placebo, Saffron
+- NCT05715099 | UNKNOWN | results=False | PHASE4 | Saffron as Anti Inflammatory In Patients With Inflammatory Bowel Disease | conds: Ulcerative Colitis | intr: Saffron, Placebo
+- NCT06464380 | UNKNOWN | results=False | PHASE4 | Anti-cancer Potentiality of Saffron Against Hepatocellular Carcinoma | conds: Hepatocellular Carcinoma | intr: Saffranal, Placebo
+- NCT07497698 | RECRUITING | results=False | NA | Saffron Extract Supplementation and Sleep Quality in Middle-Aged Adults | conds: Sleep | intr: Saffron Extract, Dietary Supplement: Placebo
+
+### OpenAlex no-PMID trial-worded - 3074 hits, 18 without PMID, 17 new
+- new | 2026 | 10.33545/30810620.2026.v3.i2.a.50 | article | Efficacy of Crocus sativus L. (Saffron) stigma extract in mild-to-moderate depression: An eight-week randomised double-blind placebo-controlled trial | Journal of Phytopharmacology and Phytome
+- new | 2026 | 10.64898/2026.10.12.26365297 | preprint | Effects of a standardized saffron extract (Safr’Inside™) on menopause-related symptoms: a randomised, double-blind, placebo-controlled trial in perimenopausal women | medRxiv
+- new | 2024 | 10.1016/j.hermed.2024.100877 | article | The Effects of Saffron (Crocus sativus L) Supplementation on Cardiovascular Risk Factors, Liver Steatosis, and Fibrosis in Patients With Non-alcoholic Fatty Liver Disease: A Random | Journal of Herbal Medicine
+- new | 2023 | 10.1016/j.annonc.2023.04.103 | conference-abstract | Double-blind placebo-controlled randomized clinical trial on the concurrent use of crocin during chemoradiation of esophageal squamous cell carcinoma | Annals of Oncology
+- new | 2022 | 10.1016/j.hermed.2022.100551 | article | Possible effects of Saffron (Crocus sativus) in the treatment of erectile dysfunction: A randomized, double-blind, placebo-controlled trial | Journal of Herbal Medicine
+- new | 2022 | 10.1016/j.hermed.2022.100574 | article | Saffron reduces some inflammation and oxidative stress markers in donepezil-treated mild-to-moderate Alzheimer's Disease patients: A randomized double-blind placebo-control trial | Journal of Herbal Medicine
+- new | 2022 | 10.3390/dietetics1030020 | review | Supplementation with Crocus sativus L. (Saffron) against Placebo in Multiple Sclerosis: A Systematic Review and Synthesis without Meta-Analysis of Randomized Controlled Trials | Dietetics
+- new | 2022 | 10.1016/j.aimed.2022.01.002 | article | Efficacy and safety of saffron as adjunctive therapy in adults with attention-deficit/hyperactivity disorder: A randomized, double-blind, placebo-controlled clinical trial | Advances in Integrative Medicine
+- new | 2020 | 10.22038/ijp.2020.50061.3992 | article | Effect of Crocus sativus (Saffron) on Cervical Ripening and Progress of Labor in Primiparous Term Women: A Randomized Double-Blind Placebo-Controlled Trial | International journal of pediatrics
+- new | 2019 | 10.1016/j.obmed.2019.100165 | article | The effects of crocus sativus extract on serum lipid profile and liver enzymes in patients with non-alcoholic fatty liver disease: A randomized placebo-controlled study | Obesity Medicine
+- new | 2018 | 10.5812/ircmj.80260 | article | Saffron (Crocus sativus L.) Supplements Modulate Circulating MicroRNA (miR-21) in Atherosclerosis Patients; A Randomized, Double-Blind, Placebo-Controlled Trial | Iranian Red Crescent Medical Journal
+- new | 2018 | 10.23751/pn.v20i1-s.6078 | article | Effect of saffron on serum leptin levels in patients with metabolic syndrome, a double-blind, randomized and placebo-controlled trial study | Progress in nutrition
+- new | 2017 | 10.1016/j.jnim.2017.07.002 | article | The effect of saffron ( Crocus sativus L.) hydro-alcoholic extract on liver and renal functions in type 2 diabetic patients: A double-blinded randomized and placebo control trial | Journal of Nutrition & Intermediary Meta
+- new | 2017 | https://openalex.org/W7224721670 | article | The Efficacy of Crocin of Saffron (Crocus sativus L.) on the Components of Metabolic Syndrome: A Randomized Controlled Clinical Trial | PubMed Central
+- new | 2011 | 10.1016/j.clinbiochem.2011.08.288 | conference-abstract | Saffron (crocus sativus) in the treatment of anxiety and depression: a double-blind, randomized and placebo-controlled trial | Clinical Biochemistry
+- HELD REF-3520 | 2008 | 10.1783/147118908786000361 | article | Crocus sativus L. (saffron) in the treatment of pre-menstrual syndrome: a double blind, randomised and placebo controlled trial | Journal of Family Planning and Reproduct
+- new | 2008 | https://openalex.org/W2166211384 | article | Petal and Stigma of Crocus sativus L. in the Treatment of Depression: A Pilot Double - blind Randomized Trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2004 | https://openalex.org/W2885877610 | article | Crocus sativus L. in the treatment of mild to moderate depression: A double-blind, randomised and placebo controlled trial | Journal of Medicinal Plants
+
+## cuminum-cyminum (Cuminum cyminum) - name clause: "Cuminum cyminum"[tiab] OR "cumin"[ti]
+
+### PubMed HT - 62 hits, 62 not already listed above, 54 new
+- new | 2026 | 42208428 | Clinical Trial, Phase I/Clinical Trial, Phase II/Randomized Controlled Trial | Advantages of artificial saliva containing Cuminum cyminum and Zingiber officinale on hemodialysis patients with xerostomia: Randomized clinical trials. | Explore (NY)
+- new | 2026 | 41622151 |  | Exploring the influence of nanosilica on monoterpene biosynthesis, PAL1 and LS gene expression in cumin (Cuminum cyminum L.) under water-deficit stress. | BMC Plant Biol
+- new | 2026 | 42088310 | Clinical Trial | Daily intake of cuminaldehyde-rich cumin essential oil improves cognitive function in healthy elderly Japanese adults: a randomized, double-blind, placebo-controlled pilot study. | Front Nutr
+- new | 2026 | 41815945 |  | Evaluation of the antibacterial effects of four essential oils on antibiotic-resistant bacteria isolated from ventilator-dependent patients. | GMS Hyg Infect Control
+- SEEN | 2026 | 41653970 | Systematic Review/Meta-Analysis | Efficacy of herbaceous Apiaceae plants in primary dysmenorrhea: A systematic review and meta-analysis of RCTs. | Ann Pharm Fr
+- new | 2026 | 39642267 | Randomized Controlled Trial | The Effect of Foot Reflexology and Knee Massage With Black Cumin Seed Oil on Knee Osteoarthritis Symptoms. | Holist Nurs Pract
+- new | 2026 | 42358238 |  | Dietary inclusion of black cumin (Nigella sativa L.) seed meal in broiler chickens: Effects on growth performance, cecal microbiota, and cost efficiency. | Vet Anim Sci
+- new | 2026 | 42611837 |  | Stability analysis of seed yield and agronomic performance of black cumin (Nigella Sativa L.) genotypes in Amhara Region, Ethiopia. | PLoS One
+- new | 2025 | 41401318 | Randomized Controlled Trial | The potential effects of cinnamon, cumin, and Rosuvastatin on lipid profile among Iraqi patients with dyslipidemia. | Wiad Lek
+- new | 2025 | 40636176 |  | Effect of cumin water in enhancing hunger levels among school-aged children. | Bioinformation
+- new | 2025 | 40014560 |  | Exploring the impact of herbaceous Apiaceae family plants on primary dysmenorrhea: a systematic review protocol. | J Complement Integr Med
+- HELD REF-0158 | 2025 | 41608519 | Systematic Review | Potential benefits of Cuminum cyminum L supplementation on components of metabolic syndrome in adults with metabolic disorders: a GRADE-assessed systematic review and meta-analysis | Front Nutr
+- new | 2025 | 40416236 |  | Sex-Specific Effects of Cumin Supplementation on Body Composition, Lipid Levels, and Glycemic Profiles: A Pilot Study. | Cureus
+- new | 2025 | 41295677 |  | Nano-Encapsulated Cumin Oil and Bacillus subtilis Enhance Growth Performance, Immunity, Oxidative Stability, and Intestinal Integrity in Growing Rabbits Under High Ambient Temperat | Vet Sci
+- new | 2025 | 40905014 |  | Black Cumin Seed (Nigella sativa) Confers Anti-Adipogenic Effects in 3T3-L1 Cellular Model and Lipid-Lowering Properties in Human Subjects. | Food Sci Nutr
+- new | 2024 | 39610502 |  | Effectiveness of acupuncture and a cumin-based herbal formula on anthropometric indices of overweight patients: a randomized double-blind placebo-controlled clinical trial. | J Diabetes Metab Disord
+- new | 2024 | 40259958 |  | The adjuvant therapy of edible herbal product including colchicum bulb, olive leaf, black cumin seeds, lavender flower, and ginger rhizome on the outcome of patients with severe an | Avicenna J Phytomed
+- new | 2024 | 38828245 |  | Comparison of the Effect of Cumin Cyminum and Nettle Oral Drops on the Breast Milk Sufficiency Indicators in New Mothers. | Sultan Qaboos Univ Med J
+- new | 2024 | 38414487 | Published Erratum | Corrigendum: Exploring the short-term influence of a proprietary oil extract of black cumin (Nigella sativa) on non-restorative sleep: a randomized, double-blinded, placebo-control | Front Nutr
+- new | 2024 | 37885111 | Review | An Overview of Conventional and Black Cumin Seeds (Nigella sativa) Therapy in the Management of Nipah Viral Infection. | Infect Disord Drug Targets
+- new | 2024 | 38505488 |  | Nurse-led home-based detection of cardiac dysfunction by ultrasound: results of the CUMIN pilot study. | Eur Heart J Digit Health
+- HELD REF-0656 | 2024 | 38965524 | Randomized Controlled Trial | The effect of Cuminum cyminum on the return of bowel motility after abdominal surgery: a triple-blind randomized clinical trial. | BMC Complement Med Ther
+- new | 2024 | 39507774 |  | Effects of dietary black cumin (Nigella sativa L.) meal on performance, blood metabolites, and digestibility in a rice straw-based diet of fattening Garut lambs. | Vet World
+- new | 2023 | 38288065 |  | Exploring the short-term influence of a proprietary oil extract of black cumin (Nigella sativa) on non-restorative sleep: a randomized, double-blinded, placebo-controlled actigraph | Front Nutr
+- new | 2023 | 37139438 |  | A proprietary black cumin oil extract (Nigella sativa) (BlaQmax(®)) modulates stress-sleep-immunity axis safely: Randomized double-blind placebo-controlled study. | Front Nutr
+- new | 2023 | 35870011 | Observational Study | Phytotherapy known and applied by head-neck cancer patients and medical students to treat oral discomfort in Germany: an observational study. | J Cancer Res Clin Oncol
+- new | 2022 | 36518481 |  | A phase I clinical trial to evaluate the safety of thymoquinone-rich black cumin oil (BlaQmax®) on healthy subjects: Randomized, double-blinded, placebo-controlled prospective stud | Toxicol Rep
+- HELD REF-0286 | 2022 | 34825421 | Meta-Analysis/Systematic Review | Efficacy of Cuminum Cyminum supplementation on lipid profile and anthropometric parameters: A systematic review and meta-analysis of randomized controlled clinical trials. | Phytother Res
+- new | 2022 | 36431050 |  | Effects of Supplementing Quails' (Coturnix japonica) Diets with a Blend of Clove (Syzygium aromaticum) and Black Cumin (Nigella sativa) Oils on Growth Performance and Health Aspect | Life (Basel)
+- HELD REF-0654 | 2021 | 33720457 | Meta-Analysis/Systematic Review | The effect of cumin (Cuminum cyminum L.) supplementation on glycemic indices: A systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2021 | 33893678 | Review | A review on traditional uses, phytochemistry, pharmacology, and clinical research of dietary spice Cuminum cyminum L. | Phytother Res
+- new | 2021 | 34059724 |  | Combined bio-chemical fertilizers ameliorate agro-biochemical attributes of black cumin (Nigella sativa L.). | Sci Rep
+- new | 2021 | 34209990 |  | Immune-Modulatory Effects upon Oral Application of Cumin-Essential-Oil to Mice Suffering from Acute Campylobacteriosis. | Pathogens
+- new | 2020 | 32685234 | Review | Prophetic Medicine-Nigella Sativa (Black cumin seeds) - Potential herb for COVID-19? | J Pharmacopuncture
+- new | 2020 | 32359745 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of powdered black cumin seeds on markers of oxidative stress, intracellular adhesion molecule (ICAM)-1 and vascular cell adhesion molecule (VCAM)-1 in patients with Has | Clin Nutr ESPEN
+- new | 2020 | 32566096 | Randomized Controlled Trial | Enhanced Efficacy of Direct-Acting Antivirals in Hepatitis C Patients by Coadministration of Black Cumin and Ascorbate as Antioxidant Adjuvants. | Oxid Med Cell Longev
+- HELD REF-0655 | 2019 | 31478290 | Randomized Controlled Trial | Effects of cumin (Cuminum cyminum L.) essential oil supplementation on metabolic syndrome components: A randomized, triple-blind, placebo-controlled clinical trial. | Phytother Res
+- new | 2019 | 30875097 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Nigella sativa seeds (black cumin) on insulin secretion and lipid profile: A pilot study in healthy volunteers. | Br J Clin Pharmacol
+- new | 2019 | 30762267 | Randomized Controlled Trial | The effect of cumin supplementation on metabolic profiles in patients with metabolic syndrome: A randomized, triple blind, placebo-controlled clinical trial. | Phytother Res
+- new | 2019 | 31554322 |  | Postprandial Glycemic and Insulinemic Effects of the Addition of Aqueous Extracts of Dried Corn Silk, Cumin Seed Powder or Tamarind Pulp, in Two Forms, Consumed with High Glycemic  | Foods
+- new | 2019 | 31358715 |  | The Antifungal Effects of Two Herbal Essences in Comparison with Nystatin on the Candida Strains Isolated from the Edentulous Patients. | J Contemp Dent Pract
+- HELD REF-0652 | 2018 | 30088304 | Meta-Analysis/Systematic Review | Cumin (Cuminum cyminum L.) is a safe approach for management of lipid parameters: A systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2018 | 29705470 | Randomized Controlled Trial | Investigation of the effect of black cumin oil on pain in osteoarthritis geriatric individuals. | Complement Ther Clin Pract
+- new | 2018 | 30262273 |  | Yield, growth and Fe uptake of cumin (Cuminum cyminum L.) affected by Fe-nano, Fe-chelated and Fe-siderophore fertilization in the calcareous soils. | J Trace Elem Med Biol
+- new | 2018 | 29587770 |  | Powdered black cumin seeds strongly improves serum lipids, atherogenic index of plasma and modulates anthropometric features in patients with Hashimoto's thyroiditis. | Lipids Health Dis
+- new | 2017 | 28044460 |  | Effects of growth regulators on callus induction and secondary metabolite production in Cuminum cyminum. | Nat Prod Res
+- new | 2017 | 28725629 |  | Evaluation the effect of 50 and 100 mg doses of Cuminum cyminum essential oil on glycemic indices, insulin resistance and serum inflammatory factors on patients with diabetes type  | J Tradit Complement Med
+- new | 2017 | 30087792 | Review | Review on the Potential Therapeutic Roles of Nigella sativa in the Treatment of Patients with Cancer: Involvement of Apoptosis: - Black cumin and cancer. | J Pharmacopuncture
+- new | 2017 | 27751723 |  | Antifungal effects of Lavandula binaludensis and Cuminum cyminum essential oils against Candida albicans strains isolated from patients with recurrent vulvovaginal candidiasis. | J Mycol Med
+- new | 2017 | 28378356 | Randomized Controlled Trial | Effect of an orally formulated processed black cumin, from Iranian traditional medicine pharmacopoeia, in relieving symptoms of knee osteoarthritis: A prospective, randomized, doub | Int J Rheum Dis
+- new | 2016 | 28357199 |  | A Comparison Between the Effect of Cuminum Cyminum and Vitamin E on the Level of Leptin, Paraoxonase 1, HbA1c and Oxidized LDL in Diabetic Patients. | Int J Mol Cell Med
+- new | 2016 | 27262805 |  | Induction of linalool as a pharmaceutical and medicinal metabolite via cell suspension culture of cumin (Cuminum cyminum L.). | Cell Mol Biol (Noisy-le-grand)
+- new | 2016 | 27781121 |  | The Effect of Cumin cyminum L. Plus Lime Administration on Weight Loss and Metabolic Status in Overweight Subjects: A Randomized Double-Blind Placebo-Controlled Clinical Trial. | Iran Red Crescent Med J
+- new | 2015 | 26605241 |  | Effects of cumin on nonalcoholic steatohepatitis: A double blind, randomised, controlled trial. | Adv Biomed Res
+- HELD REF-3528 | 2015 | 25766448 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of the cumin cyminum L. Intake on Weight Loss, Metabolic Profiles and Biomarkers of Oxidative Stress in Overweight Subjects: A Randomized Double-Blind Placebo-Controlled Cli | Ann Nutr Metab
+- new | 2014 | 25456022 | Randomized Controlled Trial | Effect of cumin powder on body composition and lipid profile in overweight and obese women. | Complement Ther Clin Pract
+- new | 2014 | 24899878 |  | Effects of cumin extract on oxLDL, paraoxanase 1 activity, FBS, total cholesterol, triglycerides, HDL-C, LDL-C, Apo A1, and Apo B in in the patients with hypercholesterolemia. | Int J Health Sci (Qassim)
+- new | 2013 | 24829694 |  | Cumin extract for symptom control in patients with irritable bowel syndrome: a case series. | Middle East J Dig Dis
+- new | 2011 | 22702190 |  | Inhibitory effects of essential oils of medicinal plants from growth of plant pathogenic fungi. | Commun Agric Appl Biol Sci
+- new | 2010 | 22131686 |  | Efficacy of Sri Lankan Traditional Decoction of Katuwelbatu Deduru Katukadi in treatment of Kaphaja Shira Shula (Chronic Sinusitis). | Ayu
+- new | 2008 | 18404563 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Phytotherapeutic inhibition of supragingival dental plaque. | Nat Prod Res
+- new | 2007 | 18049435 |  | The effect of Nigella sativa L. (black cumin seed) on intractable pediatric seizures. | Med Sci Monit
+
+### PubMed SR - 8 hits, 2 not already listed above, 1 new
+- HELD REF-0653 | 2021 | 34371114 | Meta-Analysis/Systematic Review | The effects of Cuminum cyminum on glycemic parameters: A systematic review and meta-analysis of controlled clinical trials. | J Ethnopharmacol
+- new | 2021 | 33989738 | Systematic Review | Systematic review of Ethiopian medicinal plants used for their anti-inflammatory and wound healing activities. | J Ethnopharmacol
+
+### PubMed SAFE - 94 hits, 85 not already listed above, 82 new
+- new | 2026 | 42319503 |  | Protective effects of cumin oil against nandrolone decanoate-induced liver injury in rats. | J Mol Histol
+- new | 2026 | 42686607 |  | Identification of a Chemically Modified Nutrient for Direct Evidence of Ethylene Oxide Fumigated Foods. | Shokuhin Eiseigaku Zasshi
+- new | 2026 | 42519315 | Review/Case Reports | Cumin anaphylaxis and allergy to spices in pediatrics: a case report and literature review. | Front Immunol
+- new | 2026 | 42202769 |  | Combined effect of black cumin seeds and bacteriophage in mitigating necrotic enteritis in broiler chickens. | J Appl Microbiol
+- HELD REF-0156 | 2026 | 40341008 | Review | Allergic reactions to spices: a review of sensitivities to pepper, cumin, oregano, anise, mustard and other spices. | Eur Ann Allergy Clin Immunol
+- new | 2026 | 42251875 |  | Cumin seed oil-enriched starch films with non-Fickian diffusion controlled release for smart packaging: Enhancing microbial safety and extending shelf-life of fresh meat. | Int J Biol Macromol
+- new | 2026 | 41811204 |  | Impact of Soybean Meal, Mustard Meal, Rapeseed Meal and Black Cumin on Production Performance, Egg Quality and Gut Microflora of Laying Hens. | Vet Med Sci
+- new | 2026 | 42626361 |  | Optimizing black cumin (Nigella sativa L.) productivity under semi-arid conditions: effects of sowing date and seed rate on seed yield and oil content. | PeerJ
+- new | 2026 | 42838162 |  | Targeted anti-inflammatory effects of folic acid-conjugated chitosan-ZnO NPs: Modulation of inflammatory cytokines and oxidative stress. | Int J Biol Macromol
+- new | 2026 | 42278598 | Comparative Study | Antibacterial Activity and Molecular Docking Studies of Black Cumin (Nigella sativa L.) Oil and Its Comparison with Some Antibiotics. | Int J Mol Sci
+- new | 2025 | 40646990 |  | Black Cumin Essential Oil as an Active Stabilization Component of Rapeseed Oil During Deep-Fat Model Heating. | Foods
+- new | 2025 | 39936409 |  | Potential Alteration of Rifampicin's Bioavailability by Phyllanthus niruri Supplementation in Tuberculosis Therapy. | Curr Drug Metab
+- new | 2024 | 39225203 | Review | Ameliorative Effects of Essential Oils on Diabetes Mellitus: A Review. | Curr Top Med Chem
+- new | 2024 | 38397532 |  | Physicochemical, Rheological and Sensory Evaluation of Herbal Bread Containing Turmeric, Ginger, and Black Cumin Powder. | Foods
+- new | 2024 | 39562761 |  | Toxicity and enzymatic activity changes in rice weevil (Sitophilus oryzae) induced by basil (Ocimum basilicum) and cumin (Cuminum cyminum) essential oils. | Sci Rep
+- new | 2024 | 38977085 |  | Protection against α-Amanitin-induced liver toxicity: Efficacy of pomegranate seed oil and black cumin oil. | Toxicon
+- new | 2024 | 39409810 |  | Preparation and Characterization of Cumin Essential Oil Nanoemulsion (CEONE) as an Antibacterial Agent and Growth Promoter in Broilers: A Study on Efficacy, Safety, and Health Impa | Animals (Basel)
+- new | 2024 | 38792237 |  | Impact of Various Essential Oils on the Development of Pathogens of the Fusarium Genus and on Health and Germination Parameters of Winter Wheat and Maize. | Molecules
+- new | 2024 | 39124890 |  | Detailed Phytochemical Composition, Cyto-/Hepatotoxicity, and Antioxidant/Anti-Inflammatory Profile of Moroccan Spices: A Study on Coriander, Caraway, and Mystical Cumin. | Molecules
+- new | 2024 | 39759250 | Case Reports | Nigella Sativa (Black Cumin) Oil: A Case Report and Analysis Exploring Severe Cutaneous Manifestations and Implications for Patient Care. | J Clin Aesthet Dermatol
+- new | 2024 | 38253839 |  | Silicon and titanium nanoparticles modulated drought and chromium toxicity by adjusting physio-biochemical attributes and fatty acid profiles of black cumin (Nigella sativa L.). | Environ Sci Pollut Res Int
+- new | 2024 | 39608254 |  | Environmental safety assessment of cumic acid: A comprehensive study on environmental behaviours and toxicological effects on non-target organisms. | Sci Total Environ
+- new | 2024 | 38326995 |  | Testing the detoxification power of black cumin oil (Nigella sativa) over cypermethrin insecticide effects in rainbow trout (Oncorhynchus mykiss) at multiple scales. | Drug Chem Toxicol
+- new | 2023 | 37110159 |  | Efficacy Confirmation Test of Black Cumin (Nigella sativa L.) Seeds Extract Using a High-Fat Diet Mouse Model. | Metabolites
+- new | 2023 | 38235049 |  | Silver Nanoparticles from Saudi and Syrian Black Cumin Seed Extracts: Green Synthesis, ADME, Toxicity, Comparative Research, and Biological Appraisal. | J Pharm Bioallied Sci
+- new | 2023 | 36678242 |  | Herbal Honey Preparations of Curcuma Xanthorriza and Black Cumin Protect against Carcinogenesis through Antioxidant and Immunomodulatory Activities in Sprague Dawley (SD) Rats Indu | Nutrients
+- new | 2023 | 36945945 |  | The role of cur ole of curcumin against paclitax cumin against paclitaxel-induced o el-induced oxidativ xidative stress and DNA damage in testes of adult male rats. | Turk J Med Sci
+- new | 2022 | 36322571 |  | Comparison of the push-out bond strength of AH Plus sealer to dentin after using different herbal irrigation solutions as the final rinse. | PLoS One
+- new | 2022 | 36438833 | Review | From kitchen to clinic: Pharmacotherapeutic potential of common spices in Indian cooking in age-related neurological disorders. | Front Pharmacol
+- new | 2022 | 35747964 |  | Effect of C. cyminum and L. sativum on Pharmacokinetics and Pharmacodynamics of Antidiabetic Drug Gliclazide. | Curr Drug Metab
+- new | 2022 | 35419842 | Case Reports | Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome after topical use of Nigella sativa (black cumin) oil. | Contact Dermatitis
+- new | 2022 | 37430973 |  | Aqueous Extract from Cuminum cyminum L. Seed Alleviates Ovalbumin-Induced Allergic Rhinitis in Mouse via Balancing of Helper T Cells. | Foods
+- new | 2022 | 34920409 |  | Multi-residue method validation and safety evaluation of pesticide residues in seed spices cumin (Cuminum cyminum) and coriander (Coriandrum sativum) by gas chromatography tandem m | Food Chem
+- new | 2022 | 36421651 |  | Use of Medicinal Plants during Pregnancy, Childbirth and Postpartum in Southern Morocco. | Healthcare (Basel)
+- new | 2022 | 36545574 |  | Safety and efficacy of a feed additive consisting of an essential oil from the fruit of Cuminum cyminum L. (cumin oil) for use in all animal species (FEFANA asbl). | EFSA J
+- new | 2022 | 34921860 |  | Comparative analysis of iron oxide nanoparticles synthesized from ginger (Zingiber officinale) and cumin seeds (Cuminum cyminum) to induce resistance in wheat against drought stres | Chemosphere
+- new | 2022 | 36235128 |  | Natural Phytocompounds from Common Indian Spices for Identification of Three Potential Inhibitors of Breast Cancer: A Molecular Modelling Approach. | Molecules
+- new | 2022 | 35844370 |  | Natural essential oil mix of sweet orange peel, cumin, and allspice elicits anti-inflammatory activity and pharmacological safety similar to non-steroidal anti-inflammatory drugs. | Saudi J Biol Sci
+- HELD REF-2065 | 2021 | 34073784 | Review | Black Cumin (Nigella sativa L.): A Comprehensive Review on Phytochemistry, Health Benefits, Molecular Pharmacology, and Safety. | Nutrients
+- new | 2021 | 33631090 |  | Exogenous application of black cumin (Nigella sativa) seed extract improves maize growth under chromium (Cr) stress. | Int J Phytoremediation
+- new | 2021 | 34493326 |  | The extract of black cumin, licorice, anise, and black tea alleviates OVA-induced allergic rhinitis in mouse via balancing activity of helper T cells in lung. | Allergy Asthma Clin Immunol
+- new | 2020 | 31605258 | Review | Awareness and current knowledge of epilepsy. | Metab Brain Dis
+- new | 2020 | 32695007 | Review | Essential Oil-Bearing Plants From Balkan Peninsula: Promising Sources for New Drug Candidates for the Prevention and Treatment of Diabetes Mellitus and Dyslipidemia. | Front Pharmacol
+- new | 2020 | 32750471 |  | Effect of edible composite film based on chitosan and cumin essential oil-loaded nanoemulsion combined with low-dose gamma irradiation on microbiological safety and quality of beef | Int J Biol Macromol
+- new | 2020 | 33643585 |  | Chemical composition and antibacterial effects of some essential oils individually and in combination with sodium benzoate against methicillin-resistant Staphylococcus aureus and Y | Vet Res Forum
+- new | 2020 | 33304102 |  | In-vitro Antimicrobial Activity of Essential Oils and Spices Powder of some Medicinal Plants Against Bacillus Species Isolated from Raw and Processed Meat. | Infect Drug Resist
+- new | 2019 | 31348760 |  | Pharmacodynamic interaction of cumin seeds (Cuminum cyminum L.) with glyburide in diabetes. | J Complement Integr Med
+- new | 2019 | 31214267 | Review | Nigella sativa L. (Black Cumin): A Promising Natural Remedy for Wide Range of Illnesses. | Evid Based Complement Alternat Med
+- new | 2019 | 30905011 |  | Inhibitory effect of aqueous extract of Cuminum cyminum L. seed on degranulation of RBL-2H3 cells and passive cutaneous anaphylaxis reaction in mice. | Cytotechnology
+- new | 2019 | 30678630 |  | Reverse Screening Bioinformatics Approach to Identify Potential Anti Breast Cancer Targets Using Thymoquinone from Neutraceuticals Black Cumin Oil. | Anticancer Agents Med Chem
+- new | 2019 | 31198016 | Case Reports/Letter | Severe Bone Marrow Hypoplasia with Black Cumin (Nigella sativa) Ingestion in a Patient with T-ALL in First Complete Remission. | Turk J Haematol
+- new | 2018 | 32625910 |  | Safety and efficacy of cumin tincture (Cuminum cyminum L.) when used as a sensory additive for all animal species. | EFSA J
+- new | 2018 | 29947676 |  | Essential oils of green cumin and chamomile partially protect against acute acetaminophen hepatotoxicity in rats. | An Acad Bras Cienc
+- new | 2018 | 30091737 |  | Dichlorvos Induced Oxidative and Neuronal Responses in Rats: Mitigative Efficacy of Nigella sativa (Black Cumin). | Niger J Physiol Sci
+- new | 2018 | 29472791 |  | Antimicrobial activity of some plant extracts against bacterial strains causing food poisoning diseases. | Saudi J Biol Sci
+- HELD REF-0657 | 2018 | 30221882 |  | Evaluation of Protective Impact of Algerian <I>Cuminum cyminum </I>L. and <I>Coriandrum sativum</I> L. Essential Oils on <I>Aspergillus flavus </I>Growth and Aflatoxin B<SUB>1</SUB | Pak J Biol Sci
+- new | 2017 | 28634146 |  | Sub-chronic oral toxicity of Cuminum cyminum L.'s essential oil in female Wistar rats. | Regul Toxicol Pharmacol
+- new | 2016 | 26769163 | Evaluation Study | Presence of Undeclared Food Allergens in Cumin: The Need for Multiplex Methods. | J Agric Food Chem
+- new | 2016 | 26332396 |  | Effects of Cuminum cyminum L. essential oil on some epididymal sperm parameters and histopathology of testes following experimentally induced copper poisoning in mice. | Andrologia
+- new | 2015 | 26604555 |  | Spasmolytic effect of traditional herbal formulation on guinea pig ileum. | J Ayurveda Integr Med
+- new | 2015 | 27013802 |  | In silico Analysis for Predicting Fatty Acids of Black Cumin Oil as Inhibitors of P-Glycoprotein. | Pharmacogn Mag
+- new | 2014 | 25548417 |  | Scolicidal effects of black cumin seed (Nigella sativa) essential oil on hydatid cysts. | Korean J Parasitol
+- new | 2013 | 23991244 |  | Mycetoma herbal treatment: the Mycetoma Research Centre, Sudan experience. | PLoS Negl Trop Dis
+- new | 2012 | 37184195 | Review | Black Cumin Seed. | 
+- new | 2012 | 22768141 |  | Nigella sativa (black cumin) seed extract alleviates symptoms of allergic diarrhea in mice, involving opioid receptors. | PLoS One
+- new | 2011 | 21524993 | Case Reports/Letter | Systemic allergic contact dermatitis to black cumin essential oil expressing as generalized erythema multiforme. | Eur J Dermatol
+- new | 2011 | 18952688 |  | Weight loss in animals and humans treated with "weighlevel", a combination of four medicinal plants used in traditional arabic and islamic medicine. | Evid Based Complement Alternat Med
+- new | 2011 | 21861703 | Research Support, Non-U.S. Gov't | Inhibition of aflatoxin production and growth of Aspergillus parasiticus by Cuminum cyminum, Ziziphora clinopodioides, and Nigella sativa essential oils. | Foodborne Pathog Dis
+- new | 2010 | 22966405 |  | Cancer chemopreventive potential of volatile oil from black cumin seeds, Nigella sativa L., in a rat multi-organ carcinogenesis bioassay. | Oncol Lett
+- new | 2009 | 19699773 | Research Support, Non-U.S. Gov't | Safety assessment of black cumin fixed and essential oil in normal Sprague Dawley rats: Serological and hematological indices. | Food Chem Toxicol
+- new | 2008 | 18330128 |  | Toxicity of plant essential oils and their components against Lycoriella ingenua (Diptera: Sciaridae). | J Econ Entomol
+- new | 2008 | 18270466 | Comparative Study | Fumigant toxicity of essential oils from some common spices against pulse beetle, Callosobruchus chinensis (Coleoptera: Bruchidae). | J Oleo Sci
+- new | 2007 | 17128432 | Research Support, Non-U.S. Gov't | Herbal modulation of drug bioavailability: enhancement of rifampicin levels in plasma by herbal products and a flavonoid glycoside derived from Cuminum cyminum. | Phytother Res
+- new | 2006 | 16822210 |  | Effect of spices on lipid metabolism in 1,2-dimethylhydrazine-induced rat colon carcinogenesis. | J Med Food
+- new | 2005 | 16106395 |  | Therapeutic role of Cuminum cyminum on ethanol and thermally oxidized sunflower oil induced toxicity. | Phytother Res
+- new | 2005 | 15856529 |  | Antioxidant property of Nigella sativa (black cumin) and Syzygium aromaticum (clove) in rats during aflatoxicosis. | J Appl Toxicol
+- new | 2003 | 15087270 | Research Support, Non-U.S. Gov't | Chemopreventive effects of Cuminum cyminum in chemically induced forestomach and uterine cervix tumors in murine model systems. | Nutr Cancer
+- new | 2003 | 12755470 | Research Support, Non-U.S. Gov't | Nigella sativa (black cumin) ameliorates potassium bromate-induced early events of carcinogenesis: diminution of oxidative stress. | Hum Exp Toxicol
+- new | 2003 | 12881014 | Research Support, Non-U.S. Gov't | Chemopreventive potential of volatile oil from black cumin (Nigella sativa L.) seeds against rat colon carcinogenesis. | Nutr Cancer
+- new | 2002 | 12000337 | Case Reports | Allergic contact dermatitis from black cumin (Nigella sativa) oil-containing ointment. | Contact Dermatitis
+- new | 1998 | 9882224 |  | Amino acid composition and biological effects of supplementing broad bean and corn proteins with Nigella sativa (black cumin) cake protein. | Nahrung
+- new | 1998 | 9720607 |  | Influence of spices on the bacterial (enzyme) activity in experimental colon cancer. | J Ethnopharmacol
+- new | 1997 | 9155844 |  | Cumin anaphylaxis: a case report. | J Allergy Clin Immunol
+- new | 1997 | 9197967 | Case Reports | Allergic contact dermatitis from black cumin (Nigella sativa) oil after topical use. | Contact Dermatitis
+- new | 1997 | 9420134 | Comparative Study/Research Support, Non-U.S. Gov't | Characterization of allergens in Apiaceae spices: anise, fennel, coriander and cumin. | Clin Exp Allergy
+
+### PubMed OBS - 8 hits, 3 not already listed above, 3 new
+- new | 2026 | 38030481 |  | Home Remedies ("Paati Vaidyam") for Voice Disorders: Some Common Practices Among School Teachers. | J Voice
+- new | 2026 | 41697424 |  | Checkerboard and Isobologram Analysis of the Interaction between Black Cumin and Clove Essential Oils against Multidrug-Resistant Nosocomial Pathogens. | Curr Microbiol
+- new | 2024 | 38233343 |  | Medicinal herbs consumption in relation to cardiometabolic indices and coronary artery stenosis in participants undergoing coronary angiography: A cross-sectional study. | Phytother Res
+
+### PubMed REV - 43 hits, 15 not already listed above, 14 new
+- HELD REF-2067 | 2025 | 39807848 | Review | A Comprehensive Review of the Antioxidant, Antimicrobial, and Therapeutic Efficacies of Black Cumin (Nigella sativa L.) Seed Oil and Its Thymoquinone. | J Med Food
+- new | 2022 | 36014186 | Review | Chitosan Nanoparticle Encapsulation of Antibacterial Essential Oils. | Micromachines (Basel)
+- new | 2022 | 34838871 | Review | Assessment of black cumin (Nigella sativa L.) as a food ingredient and putative therapeutic agent. | Regul Toxicol Pharmacol
+- new | 2021 | 34981485 | Review | Role of Herbal Medicines in the Management of Brain Injury. | Adv Exp Med Biol
+- new | 2021 | 34540882 | Review | A Review on Extraction, Characterization, and Applications of Bioactive Peptides From Pressed Black Cumin Seed Cake. | Front Nutr
+- new | 2021 | 34085672 | Review | Therapeutic perspectives of the black cumin component thymoquinone: A review. | Food Funct
+- new | 2019 | 30848570 | Review | The Stimulatory Effects of Medicinal Plants on β2-adrenoceptors of Tracheal Smooth Muscle. | Iran J Allergy Asthma Immunol
+- new | 2019 | 31998450 | Review | Diet therapy for the treatment of Alzheimer's disease in view of traditional Persian medicine: A review. | Iran J Basic Med Sci
+- new | 2017 | 28088256 | Review | Ethnobotanics used in folk medicine of Tamil culture in Sri Lanka: a scientific review. | J Integr Med
+- new | 2015 | 26010662 | Review | Cumin (Cuminum cyminum L.) from traditional uses to potential biomedical applications. | Chem Biodivers
+- new | 2013 | 23035918 | Review | Chemistry, technology, and nutraceutical functions of cumin (Cuminum cyminum L): an overview. | Crit Rev Food Sci Nutr
+- new | 2013 | 22911452 | Review | Cardiovascular benefits of black cumin (Nigella sativa). | Cardiovasc Toxicol
+- new | 2011 | 22754079 | Review | Anticancer activities of Nigella sativa (black cumin). | Afr J Tradit Complement Altern Med
+- new | 2006 | 30000933 | Review | Cumin. | 
+- new | 2005 | 16361181 | Review | Plant foods in the management of diabetes mellitus: spices as beneficial antidiabetic food adjuncts. | Int J Food Sci Nutr
+
+### ClinicalTrials.gov - 34 registered studies
+- NCT05508529 | COMPLETED | results=False | NA | Natural Modulators of Immune Function and Mood | conds: Stress | intr: Chaga Mushroom, Algae Extract, Black Cumin Seed Oil, Black Cumin Seed Oil + Astaxanthin
+- NCT05966935 | COMPLETED | results=False | NA | Effect of Fenugreek and Cumin Powder on Overweight and Obese People | conds: Overweight and Obesity | intr: Fenugreek Cumin Powder
+- NCT04997889 | UNKNOWN | results=False | NA | Efficacy (Preliminary) and Safety of Artificial Salivary Containing Cumin and Ginger Extract in Healthy Volunteer | conds: Health, Subjective | intr: Artificial salivary containing cumin and ginger extract, Commercial artificial salivary
+- NCT06748313 | COMPLETED | results=False | NA | Fermented Food - Achars (fermented Pickles) in Pakistan | conds: Maternal Health, Gut Health | intr: Mango Pickle (Water-Based), Mango Pickle (Oil Based), Carrot Pickle (Water-Based), Radish Pickle (Wa
+- NCT05872464 | UNKNOWN | results=False | NA | Artificial Saliva Containing Cumin and Ginger Extract in Head and Neck Cancer Patients With Xerostomia | conds: Xerostomia | intr: Artificial saliva containing cumin and ginger extract, Placebo
+- NCT07766408 | COMPLETED | results=False | NA | A Clinical Trial to Evaluate the Effects of a Dietary Supplement on Digestive Health, Energy, and Skin Health | conds: Digestive Health, Skin Health, Energy, Vitality | intr: MultiMineral 102 Gummies
+- NCT07571772 | COMPLETED | results=False | NA | The Effect of Hot Compress in Patients With Knee Osteoarthritis | conds: Osteoarthritis, Knee, Pain | intr: Hot Compress Application Group with Black Cumin Oil
+- NCT01035580 | COMPLETED | results=False | PHASE1 | Trial on Safety and Pharmacokinetics of Intravaginal Curcumin | conds: Uterine Cervical Dysplasia | intr: Curcumin, curcumin
+- NCT04575493 | COMPLETED | results=False | NA | Clinical Efficacy of Crano-cure inTreatment of Urinary Tract Infection | conds: Urinary Tract Infections | intr: Crano-cure, Ciprofloxacin 500 mg | pubs: ['39110045:DERIVED (new)']
+- NCT06728449 | COMPLETED | results=False | NA | Influence of Herbal Infusion on Metabolic Syndrome | conds: Metabolic Syndrome | intr: Cumin tea, Ginger Tea, Lemon Peel Tea, Functional Tea
+- NCT05304338 | COMPLETED | results=False | NA | Evaluation of the Effect of Oil Pulling | conds: Oral Hygiene, Dental Plaque | intr: Chlorhexidine, Oil Pulling, Distilled Water
+- NCT05175391 | COMPLETED | results=False | NA | Improving Protein Intake in Older Adults | conds: Food Preferences | intr: Meat based protein with added spice; Plant based protein with added spice
+- NCT05333315 | COMPLETED | results=False | NA | Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults | conds: Overweight and Obesity, Inflammation, Hypercholesterolemia, Hypertension | intr: IP1, IP2, IP3, IP4
+- NCT03063320 | COMPLETED | results=False | NA | The Effect of Spice Consumption on Postprandial Vascular Function | conds: Cardiovascular Risk Factor | intr: Spice blend | pubs: ['42602914:DERIVED (new)']
+- NCT07190911 | COMPLETED | results=False | NA | Efficacy of Olfactive Training on Loss of Smell and Taste Caused by SARS CoV2 COVID-19 (Covid-Smell) | conds: COVID - 19 | intr: Olfactory rehabilitation consists of smelling a series of spices every day for 2 months
+- NCT07711275 | COMPLETED | results=False | NA | Hypoglycemia Thresholds in Type 1 Diabetes | conds: Diabetes Mellitus, Type 1 | intr: threshold 70 mg/dL, threshold 65 mg/dL
+- NCT03175757 | COMPLETED | results=False | NA | A Study to Evaluate the Effects of a Turmeric and Black Cumin Seed Formulation on Cholesterol Levels | conds: Cholesterol Health | intr: Turmeric and Black Cumin Seed, Placebo
+- NCT05856500 | UNKNOWN | results=False | NA | A Study of Creatine Combined With Curcumin in the Intervention of Early Cachexia in Upper Gastrointestinal Tumors | conds: Stage IV Gastric Cancer, Stage IIIA Gastric Cancer, Stage IIIB Gastric Cancer, Stage III Esophageal Cancer | intr: basic nutrition, oral supplement of creatine and curcumin
+- NCT06476223 | UNKNOWN | results=False | NA | Artificial Saliva Containing Cumin and Ginger Extract in Hemodialysis Patients With Xerostomia | conds: Xerostomia | intr: Artificial saliva containing cumin and ginger extract, Placebo
+- NCT03064958 | COMPLETED | results=False | NA | The Acute Effect of Spices on Vascular Health | conds: Oxidative Stress | intr: Herbs and spices, High fat meal | pubs: ['32211803:DERIVED (new)']
+- NCT04347382 | COMPLETED | results=False | PHASE3 | Honey & Nigella Sativa Trial Against COVID-19 | conds: Coronavirus Infection, Sars-CoV2 | intr: Honey, Nigella Sativa / Black Cumin, Placebos | pubs: ['36420866:DERIVED (new)']
+- NCT06950424 | ACTIVE_NOT_RECRUITING | results=False | NA | Effect of Black Cumin Seed Oil Supplementation on Cortisol, Stress and Mood | conds: Stress, Mood | intr: black cumin seed oil
+- NCT06404606 | UNKNOWN | results=False | NA | Effects of Black Cumin and Turmeric Along With Quantum Acoustic Waves on Inflammatory Markers and Pain in Osteoarthritis. | conds: Osteoarthritis | intr: Black cumin and turmeric with Quantum Acoustic Waves (QAW) | pubs: [':RESULT (-)', '32398285:RESULT (new)', '34505846:RESULT (new)', '32035570:RESULT (new)', '33731688:RESULT (new)', '33242602:RESULT (new)', '28782470:RESULT (new)', '33453867:RESULT (new)', '33981927:RESULT (new)', '33807695:RESULT (new)', '36294334:RESULT (new)', '26366755:RESULT (new)', ':RESULT (-)', '33392043:RESULT (new)']
+- NCT04852510 | COMPLETED | results=False | PHASE2,PHASE3 | Amelioration of Polycystic Ovary Syndrome Related Disorders by Supplementation of Thymoquinone and Metformin | conds: Polycystic Ovary Syndrome (PCOS) | intr: Metformin Versus a combination of Metformin and Thymoquinone (TQ)
+- NCT03005353 | COMPLETED | results=False | PHASE2,PHASE3 | Treatment of Candidal Vulvovaginitis Using Cumin Seed Extract Vaginal Suppositories. | conds: Infection, Fungal | intr: Cumin seed extract, clotrimazole
+- NCT04767269 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy of Cuminum Cyminum Herbal =Preparation in Inhibition of Plaque and Gingivitis. | conds: Chronic Gingivitis | intr: Cuminum Cyminum, herbal Mouthwash
+- NCT05770791 | UNKNOWN | results=False | PHASE1 | Comparative Effects of Using Black Seed and Cumin Seed on BCP of Obese Grade I | conds: Obese | intr: Black Seed ( Nigella Sativa), Cumin Seed (Cuminum Cyminum)
+- NCT02599272 | COMPLETED | results=False | NA | Effects of Mixed Spices on Cardiometabolic Function - the PolySPice (PSP) Study | conds: Cardiometabolic Risk | intr: Rice with tomatoes and peeled aubergine (no spice), Rice with vegetables and low spice, Rice with ve | pubs: ['30687117:DERIVED (new)']
+- NCT01360957 | WITHDRAWN | results=False | NA | Effect of Consumption of Black Cumin (Nigella Sativa L.) Water Extract on Weight Loss in Overweight Women | conds: Obesity | intr: Black cumin water extract as a traditional medicine
+- NCT06630637 | COMPLETED | results=False | NA | Monitoring Intermittent Fasting for Human Optimization Using Wearable Technology: An N-of-1 Study | conds: Intermittent Fasting, Healthy, Digital Health | intr: Glucose-Ketone Index (GKI) monitoring, Continuous Glucose Monitoring (CGM), Digital dynamometer, Wea
+- NCT01129089 | COMPLETED | results=False | NA | Acceptability of Nutrient Supplements Among Women and Children in Bangladesh | conds: Malnutrition | intr: Lipid-based nutrient supplement, Lipid-based nutrient supplement, Micronutrient powder
+- NCT06610812 | COMPLETED | results=False | NA | "KETOGENIC MEDITERRANEAN VERSUS HYPOCALORIC BALANCED DIET ON POLYCYSTIC OVARIAN ADOLESCENTS" | conds: Polycystic Ovary Disease | intr: KETOGENIC MEDITERRANEAN diet, hypo-caloric diet:, moderate aerobic exercises
+- NCT03685916 | COMPLETED | results=False | NA | Screening of Phytochemical Rich Ingredients as 'Functional Foods' to Improve Cardiometabolic Health | conds: Metabolic Disease | intr: Control, Cumin Rice, Cumin Drink, Cornsilk Rice (Low dose)
+- NCT06298760 | COMPLETED | results=False | NA | The Effect of Reflexology and Knee Massage With Black Cumin Oil on Pain and Fatigue | conds: Knee Osteoarthritis | intr: Knee Massage With Black Cumin Oil Group:, Foot Reflexology Group With Black Cumin Oil, placebo group | pubs: ['29705470:RESULT (new)']
+
+### OpenAlex no-PMID trial-worded - 1946 hits, 64 without PMID, 64 new
+- new | 2026 | 10.1201/9781042001767-88 | book-chapter | Cuminum Cyminum as a Natural Antidiabetic Agent: Evaluating Its Efficacy in Hyperglycemic Control – A Single Center Clinical Trial | CRC Press eBooks
+- new | 2026 | 10.5281/zenodo.22707208 | article | Herbal Importance of Cuminum cyminum: A Comprehensive Review | Zenodo (CERN European Organization for N
+- new | 2026 | 10.65822/j.pcl/2026.37 | article | Morpho- Agronomic Characterization of Local Cumin (Cuminum Cyminum) Germplasm | Plant and Crop Letters
+- new | 2026 | 10.56093/ijss.v15i1.7 | article | Analysis of Variability Parameters and Genetic Divergence in Cumin (Cuminum cyminum L.) | International Journal of Seed Spices
+- new | 2025 | 10.18502/jnfs.v10i4.20009 | article | The Effect of Bread with and without Cumin on Glycemic Index, Glycemic Load and Glycemic Response in Healthy People: A Randomized Clinical Trial | Journal of Nutrition and Food Security
+- new | 2025 | 10.9734/ijpss/2025/v37i55427 | article | Integrated Pest and Disease Management in Cumin (Cuminum cyminum L.) | International Journal of Plant & Soil Sc
+- new | 2025 | 10.29261/pakvetj/2025.340 | article | Evaluation of Anticoccidial Activity of Cumin (Cuminum cyminum) Essential Oil in Broiler Chicks | Pakistan Veterinary Journal
+- new | 2025 | 10.33545/26174693.2025.v9.i10j.6160 | article | Effect of cumin (Cuminum cyminum) seed powder supplementation on the blood profile in broiler chicks | International Journal of Advanced Bioche
+- new | 2024 | 10.5812/jjnpp-148163 | article | The Efficacy of a Traditional Herbal Medicine Compound for Functional Dyspepsia: A Randomized, Double-Blind, Placebo-Controlled Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2024 | 10.36346/sarjbab.2024.v06i06.010 | article | Cumin (Cuminum cyminum): Traditional Uses and Modern Scientific Aspects - A Review | South Asian Research Journal of Biology 
+- new | 2024 | https://openalex.org/W7217350150 | article | Knowledge of farmers about improved production technologies of cumin (Cuminum cyminum L ) | International Journal of Seed Spices
+- new | 2023 | 10.1201/9781003243472-13 | book-chapter | Cumin (Cuminum cyminum) Usage in the Middle East and Biological Basis of Its Actions | CRC Press eBooks
+- new | 2023 | 10.47552/ijam.v14i1.3149 | article | A randomised clinical trial to evaluate the effect of Vyoshadi Saktu In Sthaulya w.s.r to Obesity | International Journal of Ayurvedic Medic
+- new | 2022 | 10.18502/ijdo.v14i2.9456 | article | A Review of Clinical Trial Studies on Medicinal Plants in the Treatment of Diabetes | Iranian journal of diabetes and obesity
+- new | 2022 | 10.22038/ijogi.2022.21139 | article | The Effect of Medicinal Plants on Gynecological and Obstetric Hemorrhages: A Systematic Review of Clinical Trials | مجله زنان، مامایی و  نازایی ایران
+- new | 2021 | 10.1016/j.obmed.2021.100341 | review | The effect of Cumin on anthropometric measurements: A systematic review of randomized controlled clinical trials | Obesity Medicine
+- new | 2021 | 10.5812/hepatmon.110488 | article | Evaluating the Efficacy of Carum Copticum Seeds on the Treatment of Patients with Nonalcoholic Fatty Liver Disease: A Multi-Center, Randomized, Triple–Blind, Placebo-Controlled Cli | Hepatitis Monthly
+- new | 2021 | 10.1016/j.phyplu.2021.100132 | article | Safety and efficacy of Hemocare®LACT on breast milk production and prolactin levels in postpartum mothers: An open-label, placebo controlled, randomized trial | Phytomedicine Plus
+- new | 2020 | 10.56093/ijas.v90i2.99025 | article | Improvement of salinity stress in cumin (Cuminum cyminum) seedling by inoculation with Rhizobacteria | The Indian Journal of Agricultural Scien
+- new | 2020 | 10.1016/j.jff.2020.104069 | article | Effects of pomegranate peel extract and vitamin E on oxidative stress and antioxidative capacity of hemodialysis patients: A randomized controlled clinical trial | Journal of Functional Foods
+- new | 2020 | 10.22034/ijsst.2019.122816.1222 | article | Quantifying cardinal temperature and hydro time germination of Cuminum cyminum seeds | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2020 | 10.20546/ijcmas.2020.911.445 | article | Effect of Integrated Nutrient Management on Growth, Yield and Economics of Cumin (Cuminum cyminum L.) | International Journal of Current Microbi
+- new | 2019 | 10.9734/ejmp/2019/v28i130127 | article | A Randomized, Double-Blind, Placebo-Controlled Study of a Blend of Herbal Extracts Taken Once Per Day for Weight Loss in Healthy Volunteers | European Journal of Medicinal Plants
+- new | 2019 | 10.29252/jmp.4.72.66 | article | The Prophylactic Effect of Cuminum cyminum Extract on Gastric Residual Volume in Traumatic Patients under Ventilator Hospitalized in Intensive Care Unit | Journal of Medicinal Plants
+- new | 2019 | 10.1016/j.scienta.2019.108667 | article | Improvement of cumin (Cuminum cyminum) seed performance under drought stress by seed coating and biopriming | Scientia Horticulturae
+- new | 2019 | 10.1080/0972060x.2019.1699866 | article | Chemical Composition and Antioxidant Activities of the Essential Oils of Cumin (Cuminum cyminum) Conducted Under Organic Production Conditions | Journal of Essential Oil Bearing Plants
+- new | 2019 | https://openalex.org/W3087917338 | article | Response of cumin (Cuminum cyminum L.) to different drip irrigation and fertigation levels | International Journal of Chemical Studie
+- new | 2018 | 10.1016/j.jff.2018.06.009 | article | Effect of cumin (Cuminum cyminum) essential oil supplementation on metabolic profile and serum leptin in pre-diabetic subjects: A randomized double-blind placebo-controlled clinica | Journal of Functional Foods
+- new | 2018 | 10.23751/pn.v20i2-s.6208 | article | Effect of cumin and cinnamon on lipid profile in middle-aged women with dyslipidemia: a double blind, randomized controlled clinical trial | Progress in nutrition
+- new | 2018 | 10.1093/fqsafe/fyx031 | article | Cumin (Cuminum cyminum) and black cumin (Nigella sativa) seeds: traditional uses, chemical constituents, and nutraceutical effects | Food Quality and Safety
+- new | 2018 | https://openalex.org/W2955396276 | article | Combined effect of rope skipping and supplementation of cumin cyminum L. on anthropometric, body composition, metabolic, antioxidant and inflammatory in overweight men: a randomize | 
+- new | 2017 | https://openalex.org/W7220196750 | article | Randomized Placebo Controlled Trial Comparing the Efficacy of Satawar (Asparagus racemosus) & Zeera sufaid (Cuminum cyminum) in Qillat-ul-laban (Oligogalactia) | Research and Reviews A Journal of Unani 
+- new | 2017 | https://openalex.org/W2809423489 | article | The effect of various doses of green cumin extract supplement on metabolic syndrome factors in patients with diabetes type II: A Clinical Trial | Complementary Medicine Journal
+- new | 2017 | https://openalex.org/W2969015449 | article | A COMPARATIVE STUDY ON THE EFFECT OF GARLIC AND CUMIN ON BLOOD PRESSURE IN PATIENTS WITH TYPE 2 DIABETES: A CLINICAL DOUBLE-BLIND TRIAL | Nursing and Midwifery Journal
+- new | 2017 | 10.15171/jhp.2018.04 | article | Inhibitory effect of plant essential oils on Malassezia strains from Iranian dermatitis patients | Journal of Herbmed Pharmacology
+- new | 2017 | 10.25081/josac.2017.v26.i2.875 | article | Bioefficacy of different Insecticides against aphid (Myzus persicae) in cumin (Cuminum cyminum L.) | Journal of Spices and Aromatic Crops
+- new | 2016 | https://openalex.org/W2906347443 | article | The Effect of Two Different Doses of Cuminum Cyminum Extract on Serum Glycemic Indices and Inflammatory Factors in Patients with Diabetes Type II: A Randomized Double-Blind Control | مجله دانشگاه علوم پزشکی اردبیل
+- new | 2016 | 10.22037/nbm.v4i4.9867 | article | Evaluation of Antimicrobial Activity of Cuminum Cyminum Essential Oil and Extract against Bacterial Strains Isolated from Patients with Symptomatic Urinary Tract Infection | Novelty in biomedicine
+- new | 2015 | 10.22067/jcmr.v7i1.42174 | article | Application of Random Amplified Polymorphic DNA (RAPD) to Detect the Genotoxic Effect of Cadmium on Tow Iranian Ecotypes of cumin (Cuminum cyminum) | Journal of cell and molecular research
+- new | 2015 | https://openalex.org/W2249006977 | article | A Comparative Study of the Effects of Cumin and Mefenamic Acid Capsules on Menstrual Bleeding in IUD Users: A Randomized Triple Blind Clinical Trial | Journal of Medicinal Plants
+- new | 2015 | https://openalex.org/W4300549314 | article | Effects of electromagnetic field and ultrasonic waves on seed germination of Cumin (Cuminum cyminum) | Iranian Journal of Seed Research
+- new | 2014 | 10.1016/j.foodhyd.2014.04.017 | article | Functional protein from cumin seed (Cuminum cyminum): Optimization and characterization studies | Food Hydrocolloids
+- new | 2014 | 10.3126/ijasbt.v2i1.9348 | article | Kinetics of acetylcholinesterase inhibition by an aqueous extract of Cuminum cyminum seeds. | International Journal of Applied Science
+- new | 2014 | 10.5958/2319-1198.2014.01099.9 | article | Appraisal of Genetic Diversity in Cuminum cyminum L. using Molecular Markers | LS International Journal of Life Science
+- new | 2014 | https://openalex.org/W1487425871 | article | Effects of Biological and Chemical Fertilizers Nitrogen on Yield Quality and Quantity in Cumin (Cuminum Cyminum L.) | Journal of chemical health risks
+- new | 2014 | https://openalex.org/W2267655617 | article | The Effect of Solopotasse Fertilizer on Yield and Essential Oil of Cumin (Cuminum Cyminum L.) | International Journal of Advanced Biolog
+- new | 2013 | https://openalex.org/W2198269216 | article | A Comparative Study of the Effects of Cumin and Mefenamic Acid Capsules on Secondary Dysmenorrhea Due to IUD: A Randomized Triple Blind Clinical Trial | Complementary Medicine Journal
+- new | 2013 | https://openalex.org/W2153647793 | article | Effect of Zn and Fe Foliar Application on Yield, Yield Components and some Physiological Traits of Cumin (Cuminum cyminum) in Dry Farming | International Journal of Agronomy and Pl
+- new | 2013 | 10.2478/v10298-012-0078-6 | article | Effect of Salt Stress in Different Stages of Growth on Qualitative and Quantitative Characteristics of Cumin (Cuminum Cyminum L.) | Cercetari Agronomice in Moldova
+- new | 2013 | https://openalex.org/W2184819654 | article | Study on shoot regeneration and somatic embryogenesis in cumin (Cuminum cyminum L.) landraces | 
+- new | 2012 | https://openalex.org/W2267136781 | article | ANTIOXIDANT ENZYME ACTIVITY IN RESPONSE TO IRON AND COPPER IN CUMINUM CYMINUM L. | 
+- new | 2012 | 10.15835/arspa.v81i1-2.7491 | article | EVALUATION OF FREEZING TOLERANCE OF CUMIN (CUMINUM CYMINUM L.) UNDER CONTROLLED CONDITIONS | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2011 | 10.1016/j.mycmed.2011.01.004 | article | Antifungal activity of Zataria multiflora, Pelargonium graveolens and Cuminum cyminum essential oils towards three species of Malassezia isolated from patients with pityriasis vers | Journal de Mycologie Médicale
+- new | 2010 | https://openalex.org/W2120552139 | article | A Double Blinded- Randomized Clinical Study with "Weighlevel", aCombination of Four Medicinal Plants Used in Traditional Greco-Araband Islamic Medicine | The Open Complementary Medicine Journal
+- new | 2009 | 10.22067/gsc.v4i1.1316 | article | Critical period of weed control In cumin (Cuminum cyminum) | پژوهشهای زراعی ایران
+- new | 2009 | https://openalex.org/W2266779780 | article | COMPARISON OF CUMINUM CYMINUM WITH MILK OF MAGNESIA IN PREVENTION OF GASTROINTESTINAL DISCOMFORTS AFTER EMERGENTCESAREAN SECTION | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2008 | 10.1365/s10337-007-0492-3 | article | Study of the Effects of N Fertilization and Plant Density on the Essential Oil Composition and Yield of Cuminum cyminum L. Seeds by HS–SME | Chromatographia
+- new | 2007 | https://openalex.org/W2279227490 | article | Effect Of Salinity Stress On Morphological Characters Of Cuminum Cyminum And Valeriana Officinalis | Pizhūhish va sāzandigī
+- new | 2007 | 10.18311/jnr/2007/207 | article | Antihyperglycemic, Cholesterol-Lowering and HDL-Raising Effects of Cumin (Cuminum cyminum) Seeds in Type - 2 Diabetes | Journal of Natural Remedies
+- new | 2007 | 10.1016/j.jfoodeng.2007.11.021 | article | Effects of moisture content, seed size, loading rate and seed orientation on force and energy required for fracturing cumin seed (Cuminum cyminum Linn.) under quasi-static loading | Journal of Food Engineering
+- new | 2006 | https://openalex.org/W2186173650 | article | Effects of Different Phosphorus Levels on the Yield and Quality Components of Cumin(Cuminum cyminum L.) | Van Yüzüncü Yıl University Academic Data
+- new | 2006 | 10.3923/ajar.2007.17.22 | article | Effect of Plant Growth Regulators on Callus Induction and Regeneration of Cumin (Cuminum cyminum) | Asian Journal of Agricultural Research
+- new | 1999 | https://openalex.org/W2166405554 | article | Response of cumin (Cuminum cyminum L.) to row spacing and seed rate | Journal of Spices and Aromatic Crops
+- new | 1970 | https://openalex.org/W342246912 | article | Irrigation-cum-fertilizer trials on white zeera (Cuminum cyminum). | Pakistan Journal of Agricultural Researc
+
+## curcuma-longa (Curcuma longa) - name clause: "Curcuma longa"[tiab] OR "turmeric"[ti] OR "curcumin"[ti] OR "curcuminoids"[ti]
+
+### PubMed HT - 1467 hits, 200 not already listed above, 193 new
+- new | 2026 | 42411087 |  | Curcumin and Cognitive Health: Insights from Randomized Controlled Trials. | Curr Pharm Des
+- new | 2026 | 42278424 | Review | Curcumin in Arthritis: Molecular Mechanisms, Preclinical Evidence, and Clinical Applications. | Int J Mol Sci
+- new | 2026 | 42077070 | Randomized Controlled Trial/Clinical Trial, Phase II/Research Support, N.I.H., Extramural | Randomized, Double-Blind, Placebo-Controlled Trial of Meriva (Curcuminoids) as a Candidate Chemoprevention Agent for Gastric Carcinogenesis. | Cancer Prev Res (Phila)
+- new | 2026 | 42830045 | Randomized Controlled Trial | EFFECTS OF CURCUMIN ON CLINICAL OUTCOMES AND INFLAMMATORY BIOMARKERS IN KNEE OSTEOARTHRITIS: A RANDOMIZED TRIAL. | Georgian Med News
+- new | 2026 | 41804916 | Systematic Review | A Systematic Review of Turmeric/Curcumin for Prevention and Treatment of Oral Mucositis Due to Radiotherapy and/or Chemotherapy for Head and Neck Cancer. | J Integr Complement Med
+- new | 2026 | 41765966 | Clinical Trial | Effect of curcumin on the gut microbiota of patients with ulcerative colitis, Crohn's disease and healthy participants. | Sci Rep
+- new | 2026 | 42047771 | Systematic Review | Effects of turmeric and curcumin in patients on dialysis or using immunosuppressive agents: a systematic review. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2026 | 42023854 | Randomized Controlled Trial | [Curcumin in children with autism spectrum disorder: systemic inflammation, sensory regulation, and gut-brain interaction disorders. A randomized, double-blind, placebo-controlled  | Nutr Hosp [spa]
+- new | 2026 | 42207443 | Published Erratum | Correction: Collagen, Curcumin, and Glutathione to Enhance Dermal Health with Declining Estrogen Levels in Aging Women-A Narrative Review. | Dermatol Ther (Heidelb)
+- new | 2026 | 41761990 | Systematic Review/Meta-Analysis | Effects of Curcumin/Turmeric Supplementation on Kidney Function in Individuals With Diabetes: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. | Endocrinol Diabetes Metab
+- new | 2026 | 41599836 | Randomized Controlled Trial | Bioenhancer Assessment of Black Pepper with Turmeric on Self-Reported Pain Ratings in Adults: A Randomized, Cross-Over, Clinical Trial. | Nutrients
+- new | 2025 | 40759997 | Randomized Controlled Trial | Curcumin supplementation improves the clinical outcomes of patients with diabetes and atherosclerotic cardiovascular risk. | Sci Rep
+- new | 2025 | 40731001 | Network Meta-Analysis/Systematic Review | Effect of turmeric products on knee osteoarthritis: a systematic review and network meta-analysis. | BMC Complement Med Ther
+- new | 2025 | 40911949 | Clinical Trial | Curcumin enhances the oral bioavailability of testosterone by inhibiting its intestinal metabolism. | Drug Metab Dispos
+- new | 2025 | 40220411 | Randomized Controlled Trial | Add-on effect of curcumin to dienogest in patients with endometriosis: a randomized, double-blind, controlled trial. | Phytomedicine
+- new | 2025 | 40487425 |  | A pharmacokinetic study and critical reappraisal of curcumin formulations enhancing bioavailability. | iScience
+- new | 2025 | 40841392 | Randomized Controlled Trial | A Triple-blind randomized controlled trial on the effects of turmeric versus ginger on inflammatory biomarkers in patients with COVID-19. | Sci Rep
+- new | 2025 | 40647170 | Randomized Controlled Trial | Curcumin Supplementation Improves Gastrointestinal Symptoms in Women with Severe Obesity: A Double-Blind, Randomized, Placebo-Controlled Trial-A Pilot Study. | Nutrients
+- new | 2025 | 41228407 | Scoping Review | Synergistic Effects of Exercise and Nano-Curcumin Supplementation in Women with Lifestyle-Related Diseases: A Scoping Review. | Nutrients
+- new | 2025 | 40514680 | Randomized Controlled Trial | Therapeutic effects of curcumin and piperine combination in critically ill patients with sepsis: a randomized double-blind controlled trial. | Trials
+- new | 2025 | 40971325 | Randomized Controlled Trial | Efficacy and Safety of an Oral Low-Dose Water-Dispersible Turmeric Extract Capsule on Facial Skin Health in Healthy Women: A Randomized, Double-Blind, Placebo-Controlled Trial. | J Cosmet Dermatol
+- new | 2025 | 40437595 | Review | Curcuma Longa (turmeric): from traditional applications to modern plant medicine research hotspots. | Chin Med
+- new | 2025 | 41471123 | Review | Effects of Turmeric and Turmeric Plus Piperine Supplementation on Lipid Profiles in Adults with Cardiometabolic Risk Conditions: A Systematic Review and Meta-Analysis of Randomized | Pharmaceutics
+- new | 2025 | 40513108 |  | Therapeutic Effects of Curcuminoids and Silymarin, Individually and in Combination, in Patients With Hepatic Impairment. | Chem Biodivers
+- new | 2025 | 40281561 | Randomized Controlled Trial | The effect of curcumin on postpartum depression and anxiety in primiparous women: a double-blind randomized placebo-controlled clinical trial. | BMC Complement Med Ther
+- new | 2025 | 40244565 | Randomized Controlled Trial | Role of oral bio-enhanced curcumin in dry eye disease. | Indian J Ophthalmol
+- new | 2025 | 41240262 | Systematic Review/Meta-Analysis | Efficacy of curcumin/turmeric on inflammation and oxidative stress in prediabetes and type 2 diabetes: a systematic review and dose-response meta-analysis. | Inflammopharmacology
+- new | 2025 | 40105038 | Systematic Review/Meta-Analysis | Effects of Curcumin on Postmenopausal Women's Health: A Systematic Review and Meta-Analysis. | Phytother Res
+- new | 2025 | 40575744 |  | Adiponectin levels in myeloma patients after curcumin supplementation: A randomized clinical pilot study. | Caspian J Intern Med
+- new | 2025 | 39186190 | Meta-Analysis/Systematic Review | The analgesic effect of curcumin and nano-curcumin in clinical and preclinical studies: a systematic review and meta-analysis. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 40636208 |  | Efficiency of turmeric, triphala and aloe vera in the treatment of oral submucous fibrosis. | Bioinformation
+- new | 2025 | 40092644 |  | Curcumin supplementation combined with high intensity interval training modulates serum irisin and lipid profile in obese women: "A randomized double-blind clinical trial". | Contemp Clin Trials Commun
+- new | 2025 | 40813857 | Systematic Review/Meta-Analysis/Research Support, Non-U.S. Gov't | The effect of turmeric/curcumin supplementation on anthropometric indices in subjects with prediabetes and type 2 diabetes mellitus: A GRADE-assessed systematic review and dose-res | Nutr Diabetes
+- new | 2024 | 39354480 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Curcumin extract improves beta cell functions in obese patients with type 2 diabetes: a randomized controlled trial. | Nutr J
+- new | 2024 | 39461199 | Randomized Controlled Trial | Effects of metformin and curcumin in women with polycystic ovary syndrome: A factorial clinical trial. | Phytomedicine
+- new | 2024 | 39086860 | Review | Therapeutic potency of curcumin on radiodermatitis: A systematic review. | Avicenna J Phytomed
+- new | 2024 | 37302449 | Randomized Controlled Trial | Curcumin-QingDai Combination for Patients With Active Ulcerative Colitis: A Randomized, Double-Blinded, Placebo-Controlled Trial. | Clin Gastroenterol Hepatol
+- new | 2024 | 38520269 | Letter | Curcumin supplementation as a complementary and alternative medicine for COVID-19 patients. | Phytother Res
+- new | 2024 | 38134864 | Research Support, Non-U.S. Gov't | An Open-Label Administration of Bioavailable-Form Curcumin in Patients With Pelizaeus-Merzbacher Disease. | Pediatr Neurol
+- new | 2024 | 39018909 |  | Assessment of enhancing curcumin's solubility versus uptake on its anti-cancer efficacy. | Colloids Surf B Biointerfaces
+- new | 2024 | 38726643 |  | Platelet membrane encapsulated curcumin nanomaterial-mediated specific thrombolysis and anti-thrombotic treatment among pregnant women. | Biomater Sci
+- new | 2024 | 38284733 |  | Curcumin and Berberine Arrest Maturation and Activation of Dendritic Cells Derived from Lupus Erythematosus Patients. | Curr Mol Pharmacol
+- new | 2024 | 39125295 | Randomized Controlled Trial | Curcumin Reduces Depression in Obese Patients with Type 2 Diabetes: A Randomized Controlled Trial. | Nutrients
+- new | 2024 | 38702159 | Randomized Controlled Trial/Comparative Study | Comparative Pharmacokinetics of Curcuminoids from Water-Dispersible Turmeric Extract Against a Curcuminoids-Piperine Combination: An Open-Label, Randomized, Balanced, 2-Treatment,  | Altern Ther Health Med
+- new | 2024 | 39318960 | Review | Curcumin and Cognitive Function: A Systematic Review of the Effects of Curcumin on Adults With and Without Neurocognitive Disorders. | Cureus
+- HELD REF-3531 | 2024 | 38220376 | Meta-Analysis/Systematic Review | Curcumin/turmeric supplementation could improve blood pressure and endothelial function: A grade-assessed systematic review and dose-response meta-analysis of randomized controlled | Clin Nutr ESPEN
+- new | 2024 | 38280052 | Randomized Controlled Trial/Multicenter Study | Randomized placebo-controlled, double-blind clinical trial of nanoemulsion curcumin in women with aromatase inhibitor-induced arthropathy: an Alliance/NCORP pilot trial. | Breast Cancer Res Treat
+- new | 2024 | 39546036 | Randomized Controlled Trial | The effects of curcumin supplementation on inflammatory markers in systemic lupus erythematosus patients: a randomized placebo-controlled trial. | Eur J Nutr
+- new | 2024 | 37918958 | Meta-Analysis/Review | Effects of curcumin/turmeric supplementation on the liver enzymes, lipid profiles, glycemic index, and anthropometric indices in non-alcoholic fatty liver patients: An umbrella met | Phytother Res
+- new | 2024 | 39286738 |  | Curcumin's effect in advanced and metastatic breast cancer patients treated with first or second-line docetaxel: A randomized trial. | Health Sci Rep
+- new | 2024 | 38686523 | Randomized Controlled Trial | Oil-Based Curcuminoid Phospholipid Formulation Mimicking Natural Digestion Enhances Oral Bioavailability of Curcuminoids in Healthy Subjects. | J Med Food
+- new | 2024 | 39586746 | Randomized Controlled Trial | The Immunomodulatory Effects of Curcumin on Forkhead Box O1 and MicroRNA-873 in Patients with Osteoarthritis. | Iran J Allergy Asthma Immunol
+- new | 2024 | 38915116 | Randomized Controlled Trial | Efficacy of highly bioavailable oral curcumin in asymptomatic or mild COVID-19 patients: a double-blind, randomized, placebo-controlled trial. | J Health Popul Nutr
+- new | 2024 | 37287298 | Review/Research Support, Non-U.S. Gov't | The Golden Spice for Life: Turmeric with the Pharmacological Benefits of Curcuminoids Components, Including Curcumin, Bisdemethoxycurcumin, and Demethoxycurcumins. | Curr Org Synth
+- new | 2024 | 38953482 | Randomized Controlled Trial | Sustained Release of Liposomal Curcumin: Enhanced Periodontal Outcomes in Diabetic Patients. | Chin J Dent Res
+- new | 2024 | 39104477 |  | Effect of Curcuma longa (Turmeric), as an intra-canal medicament, on inter-appointment endodontic pain in patients with symptomatic irreversible pulpitis: A randomized controlled c | Heliyon
+- new | 2024 | 38699839 | Randomized Controlled Trial | The efficacy of curcumin supplementation on serum total antioxidant capacity, malondialdehyde, and disease activity in women with rheumatoid arthritis: A randomized, double-blind,  | Phytother Res
+- HELD REF-3534 | 2023 | 36804260 | Systematic Review/Meta-Analysis | Antioxidant and anti-inflammatory effects of curcumin/turmeric supplementation in adults: A GRADE-assessed systematic review and dose-response meta-analysis of randomized controlle | Cytokine
+- new | 2023 | 36901908 | Scoping Review | Curcumin Supplementation and Human Disease: A Scoping Review of Clinical Trials. | Int J Mol Sci
+- new | 2023 | 37574203 | Meta-Analysis/Systematic Review | Safety and Efficacy of Turmeric (Curcuma longa) Extract and Curcumin Supplements in Musculoskeletal Health: A Systematic Review and Meta-Analysis. | Altern Ther Health Med
+- new | 2023 | 38085369 | Systematic Review | Evaluation of curcumin for dermatologic conditions: a systematic review. | Arch Dermatol Res
+- new | 2023 | 37331910 |  | Combining nano-curcumin with catechin improves COVID-19-infected patient's inflammatory conditions. | Hum Immunol
+- new | 2023 | 35107231 | Clinical Trial | Analgesic effect of curcumin topical formulation in knee osteoarthritis patients: a clinical trial. | J Basic Clin Physiol Pharmacol
+- new | 2023 | 37293669 |  | Turmeric supplementation improves markers of recovery in elite male footballers: a pilot study. | Front Nutr
+- new | 2023 | 37490939 | Randomized Controlled Trial | Nano-curcumin supplementation in patients with mild and moderate acute pancreatitis: A randomized, placebo-controlled trial. | Phytother Res
+- new | 2023 | 37493160 |  | Curcumin Supplementation and Vascular Health: Is Gut Microbiota Involved? | Curr Pharm Des
+- new | 2023 | 39081970 |  | Influence of CurQfen(®)-curcumin on cognitive impairment: a randomized, double-blinded, placebo-controlled, 3-arm, 3-sequence comparative study. | Front Dement
+- HELD REF-3535 | 2023 | 36882287 | Meta-Analysis/Systematic Review | Effects of curcumin/turmeric supplementation on obesity indices and adipokines in adults: A grade-assessed systematic review and dose-response meta-analysis of randomized controlle | Phytother Res
+- new | 2023 | 37242121 | Review | Effect of Curcumin Consumption on Inflammation and Oxidative Stress in Patients on Hemodialysis: A Literature Review. | Nutrients
+- new | 2023 | 33789250 | Review | Effects of Red Pepper, Ginger, and Turmeric on Energy Metabolism: Review of Current Knowledge. | Altern Ther Health Med
+- new | 2023 | 37047589 | Review | Overview of Curcumin and Piperine Effects on Glucose Metabolism: The Case of an Insulinoma Patient's Loss of Consciousness. | Int J Mol Sci
+- HELD REF-3529 | 2023 | 37748368 | Meta-Analysis/Systematic Review | Effects of curcumin/turmeric supplementation on glycemic indices in adults: A grade-assessed systematic review and dose-response meta-analysis of randomized controlled trials. | Diabetes Metab Syndr
+- new | 2023 | 37378780 | Randomized Controlled Trial | Evaluation of Curcumin-Piperine Supplementation in COVID-19 Patients Admitted to the Intensive Care: A Double-Blind, Randomized Controlled Trial. | Adv Exp Med Biol
+- new | 2023 | 33657959 | Randomized Controlled Trial | The effects of nano-curcumin supplementation on Th2/tregulatory axis in migraine patients: a randomized, double-blind, placebo-controlled trial. | Int J Neurosci
+- new | 2023 | 37324924 |  | Adjunctive nano-curcumin therapy improves inflammatory and clinical indices in children with cystic fibrosis: A randomized clinical trial. | Food Sci Nutr
+- HELD REF-3530 | 2023 | 37230418 | Meta-Analysis/Systematic Review | Effects of curcumin/turmeric supplementation on lipid profile: A GRADE-assessed systematic review and dose-response meta-analysis of randomized controlled trials. | Complement Ther Med
+- new | 2023 | 38106634 |  | Effects of curcumin supplementation on insomnia and daytime sleepiness in young women with premenstrual syndrome and dysmenorrhea: A randomized clinical trial. | Avicenna J Phytomed
+- SEEN | 2023 | 37178581 | Systematic Review/Meta-Analysis | Effects of curcumin/turmeric supplementation on liver function in adults: A GRADE-assessed systematic review and dose-response meta-analysis of randomized controlled trials. | Complement Ther Med
+- new | 2023 | 37042623 | Randomized Controlled Trial | Effects of turmeric extract supplementation on the lipid and lipoprotein subfraction profile in hemodialysis patients: A randomised, double-blind, crossover and controlled trial. | Phytother Res
+- new | 2023 | 38170037 |  | A scientifically validated combination of garcinol, curcuminoids, and piperine for mild to moderate nonalcoholic steatohepatitis patients-results from a randomized, double-blind, p | Front Nutr
+- new | 2023 | 37119345 | Randomized Controlled Trial | Efficacy of Curcumin on Cognitive Function Scores in Women with Premenstrual Syndrome and Dysmenorrhea: A Triple-Blind, Placebo-Controlled Clinical Trial. | Chin J Integr Med
+- new | 2023 | 36788534 | Randomized Controlled Trial | The effect of Curcumin on metabolic parameters and androgen level in women with polycystic ovary syndrome: a randomized controlled trial. | BMC Endocr Disord
+- new | 2023 | 37654996 |  | Curcumin's effect on serum zinc, copper and magnesium levels in obese individuals. | Avicenna J Phytomed
+- new | 2023 | 37299489 | Review | Curcumin as a Therapeutic Agent for Sarcopenia. | Nutrients
+- new | 2023 | 37764678 | Randomized Controlled Trial/Clinical Trial, Phase II | Inflammatory and Metabolic Biomarker Assessment in a Randomized Presurgical Trial of Curcumin and Anthocyanin Supplements in Patients with Colorectal Adenomas. | Nutrients
+- new | 2023 | 37240721 |  | Niosomal Curcumin Suppresses IL17/IL23 Immunopathogenic Axis in Skin Lesions of Psoriatic Patients: A Pilot Randomized Controlled Trial. | Life (Basel)
+- new | 2022 | 32893718 | Systematic Review | Efficacy of curcumin for recurrent aphthous stomatitis: a systematic review. | J Dermatolog Treat
+- new | 2022 | 34904764 | Systematic Review | Curcumin supplementation in pediatric patients: A systematic review of current clinical evidence. | Phytother Res
+- new | 2022 | 35049249 | Randomized Controlled Trial | Analgesic Efficacy of Curcuma longa (Curcumin) after Surgical Periodontal Therapy. | Oral Health Prev Dent
+- new | 2022 | 35595530 | Published Erratum | Correction: Curcumin Therapy to Treat Vascular Dysfunction in Children and Young Adults with ADPKD: A Randomized Controlled Trial. | Clin J Am Soc Nephrol
+- new | 2022 | 35204235 | Review | An Update on the Exploratory Use of Curcumin in Neuropsychiatric Disorders. | Antioxidants (Basel)
+- new | 2022 | 36304437 |  | In patients with osteoarthritis, is curcumin, compared to placebo, effective in reducing pain? | J Okla State Med Assoc
+- new | 2022 | 35677400 |  | Effective microorganisms, turmeric (Curcuma longa), and their combination on performance and economic benefits in broilers. | Heliyon
+- new | 2022 | 35775631 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of curcumin on hepatic fat content in individuals with obesity. | Diabetes Obes Metab
+- new | 2022 | 35757255 | Review | Curcuminoids for Metabolic Syndrome: Meta-Analysis Evidences Toward Personalized Prevention and Treatment Management. | Front Nutr
+- new | 2022 | 36286071 |  | Antibacterial Effects of Curcumin Nanocrystals against Porphyromonas gingivalis Isolated from Patients with Implant Failure. | Clin Pract
+- new | 2022 | 35104042 | Randomized Controlled Trial | Therapeutic effects of turmeric topical cream in vitiligo: A randomized, double-blind, placebo-controlled pilot study. | J Cosmet Dermatol
+- new | 2022 | 36387924 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Therapeutic effect and safety of curcumin in women with PCOS: A systematic review and meta-analysis. | Front Endocrinol (Lausanne)
+- new | 2022 | 36364884 | Randomized Controlled Trial | Bioactive Yoghurt Containing Curcumin and Chlorogenic Acid Reduces Inflammation in Postmenopausal Women. | Nutrients
+- new | 2022 | 35891663 |  | Dietary addition of microencapsulated turmeric in an amorphous matrix of maltodextrin on quality characteristics of broiler chicken. | J Adv Vet Anim Res
+- new | 2022 | 36430537 | Review | Curcumin: A Novel Way to Improve Quality of Life for Colorectal Cancer Patients? | Int J Mol Sci
+- new | 2022 | 34473334 | Clinical Trial Protocol | Testing the Anti-inflammatory Effects of Curcuminoids in Patients with Colorectal Cancer. | Methods Mol Biol
+- new | 2022 | 35919637 |  | Curcumin as adjuvant therapy to improve remission in myeloma patients: A pilot randomized clinical trial. | Caspian J Intern Med
+- new | 2022 | 36205586 | Meta-Analysis/Systematic Review | The effects of curcumin-containing supplements on inflammatory biomarkers in hemodialysis patients: A systematic review and meta-analysis. | Phytother Res
+- new | 2022 | 35057437 | Meta-Analysis/Systematic Review | Effectiveness of Curcumin on Outcomes of Hospitalized COVID-19 Patients: A Systematic Review of Clinical Trials. | Nutrients
+- new | 2022 | 36111918 |  | Curcumin and Teupolioside attenuate signs and symptoms severity associated to hirsutism in PCOS women: a preliminary pilot study. | Eur Rev Med Pharmacol Sci
+- new | 2022 | 34161952 | Randomized Controlled Trial | A Randomized, Placebo-Controlled Study to Evaluate the Effect of Bio-Enhanced Turmeric Formulation on Radiation-Induced Oral Mucositis. | ORL J Otorhinolaryngol Relat Spec
+- new | 2022 | 35264470 | Systematic Review | The effects of curcumin as dietary supplement for patients with COVID-19: A systematic review of randomized clinical trials. | Drug Discov Ther
+- new | 2022 | 34551650 | Randomized Controlled Trial | Turmeric root extract supplementation improves pre-frontal cortex oxygenation and blood volume in older males and females: a randomised cross-over, placebo-controlled study. | Int J Food Sci Nutr
+- new | 2022 | 36174434 | Randomized Controlled Trial | Effects of curcumin-piperine supplementation on systemic immunity in young women with premenstrual syndrome and dysmenorrhea: A randomized clinical trial. | Eur J Obstet Gynecol Reprod Biol
+- new | 2022 | 35065636 | Randomized Controlled Trial | Effects of curcumin supplementation on vitamin D levels in women with premenstrual syndrome and dysmenorrhea: a randomized controlled study. | BMC Complement Med Ther
+- new | 2022 | 35015114 | Review | Role of Curcumin in Retinal Diseases-A review. | Graefes Arch Clin Exp Ophthalmol
+- new | 2022 | 36155119 | Randomized Controlled Trial | Curcumin supplementation reduces blood glucose and serum lipids of Brazilian women with high waist circumference: a randomized clinical trial. | Arch Endocrinol Metab
+- new | 2022 | 36558506 | Randomized Controlled Trial | Comparative Pharmacokinetic of Curcuminoids Formulations with an Omega-3 Fatty Acids Monoglyceride Carrier: A Randomized Cross-Over Triple-Blind Study. | Nutrients
+- new | 2022 | 35465117 |  | Effect of Turmeric Supplementation on Blood Pressure and Serum Levels of Sirtuin 1 and Adiponectin in Patients with Nonalcoholic Fatty Liver Disease: A Double-Blind, Randomized, Pl | Prev Nutr Food Sci
+- new | 2022 | 35178811 | Randomized Controlled Trial | Effects of curcumin supplementation on metabolic parameters, inflammatory factors and obesity values in women with rheumatoid arthritis: A randomized, double-blind, placebo-control | Phytother Res
+- new | 2022 | 35782767 |  | Curcumin as an effective suppressor of miRNA expression in patients with knee osteoarthritis. | Avicenna J Phytomed
+- new | 2022 | 34986477 | Randomized Controlled Trial | Efficacy of Curcuminoids in Managing Postoperative Pain after Total Laparoscopic Hysterectomy: A Randomized Controlled, Open-Label Trial. | Complement Med Res
+- new | 2022 | 36553450 | Randomized Controlled Trial | Efficacy of Wholistic Turmeric Supplement on Adenomatous Polyps in Patients with Familial Adenomatous Polyposis-A Randomized, Double-Blinded, Placebo-Controlled Study. | Genes (Basel)
+- new | 2022 | 35347555 | Randomized Controlled Trial | Curcumin supplementation improves oxidative stress and inflammation biomarkers in patients undergoing hemodialysis: a secondary analysis of a randomized controlled trial. | Int Urol Nephrol
+- new | 2022 | 35718440 | Randomized Controlled Trial | COMPARATIVE EFFICACY OF 1% CURCUMIN NANOMICELLE GEL AND 2% CURCUMIN GEL FOR TREATMENT OF RECURRENT APHTHOUS STOMATITIS: A DOUBLE-BLIND RANDOMIZED CLINICAL TRIAL. | J Evid Based Dent Pract
+- new | 2022 | 35254032 | Randomized Controlled Trial | The Effect of Curcumin on Iron Overload in Patients with Beta-Thalassemia Intermedia. | Clin Lab
+- new | 2021 | 33500785 | Review | Therapeutic effects of turmeric or curcumin extract on pain and function for individuals with knee osteoarthritis: a systematic review. | BMJ Open Sport Exerc Med
+- new | 2021 | 34181321 | Meta-Analysis/Systematic Review | A Systematic Review and Meta-Analysis on the Efficacy of Curcumin/Turmeric for the Prevention and Amelioration of Radiotherapy/Radiochemotherapy Induced Oral Mucositis in Head and  | Asian Pac J Cancer Prev
+- new | 2021 | 33861442 | Review | Possible Mechanisms and Special Clinical Considerations of Curcumin Supplementation in Patients with COVID-19. | Adv Exp Med Biol
+- new | 2021 | 32749918 | Randomized Controlled Trial | Acute Effects of Turmeric Extracts on Knee Joint Pain: A Pilot, Randomized Controlled Trial. | J Med Food
+- new | 2021 | 34981488 |  | Nanomicellar Curcumin Supplementation Improves the Clinical Manifestations of HAM/TSP Patients. | Adv Exp Med Biol
+- new | 2021 | 33740329 | Review | [Curcumin in the correction of oxidative and immune disorders during exercises]. | Vopr Pitan [rus]
+- new | 2021 | 34539398 | Review | Is Curcumin at the Threshold of Therapeutic Effectiveness on Patients with Colon Cancer?-A Systematic Review. | Front Pharmacol
+- new | 2021 | 32954688 |  | Oral nano-curcumin on gingival inflammation in patients with gingivitis and mild periodontitis. | Clin Exp Dent Res
+- new | 2021 | 33516238 | Comparative Study/Equivalence Trial | Bioavailable turmeric extract for knee osteoarthritis: a randomized, non-inferiority trial versus paracetamol. | Trials
+- new | 2021 | 31818232 | Randomized Controlled Trial | Efficacy of phytosomal curcumin among patients with non-alcoholic fatty liver disease. | Int J Vitam Nutr Res
+- new | 2021 | 32585392 | Randomized Controlled Trial | Randomized, double-blind, placebo-controlled clinical trial studying the effects of Turmeric in combination with mefenamic acid in patients with primary dysmenorrhoea. | J Gynecol Obstet Hum Reprod
+- new | 2021 | 32420786 | Randomized Controlled Trial | Effect of Curcumin on Serum Urate in Asymptomatic Hyperuricemia: A Randomized Placebo-Controlled Trial. | J Diet Suppl
+- new | 2020 | 31987852 | Review | Using curcumin to turn the innate immune system against cancer. | Biochem Pharmacol
+- new | 2020 | 33217959 | Review | Curcumin Formulations and Trials: What's New in Neurological Diseases. | Molecules
+- new | 2020 | 32274049 | Case Reports | Use of Curcumin in Multiple Myeloma patients intolerant of steroid therapy. | Clin Case Rep
+- new | 2020 | 33281360 |  | Effectivity of zinc oxide-turmeric extract dressing in stimulating the reepithelization phase of wound healing. | Vet World
+- new | 2019 | 30838707 | Systematic Review | Effects of turmeric and curcumin on oral mucositis: A systematic review. | Phytother Res
+- new | 2019 | 31647981 | Meta-Analysis/Systematic Review | The effect of Curcumin/Turmeric on blood pressure modulation: A systematic review and meta-analysis. | Pharmacol Res
+- new | 2019 | 29974228 | Randomized Controlled Trial | Increased bioavailability of curcumin using a novel dispersion technology system (LipiSperse®). | Eur J Nutr
+- new | 2019 | 31045465 | Randomized Controlled Trial | Effects of Curcuminoids on Myocardial Injury After Percutaneous Coronary Intervention. | J Med Food
+- new | 2019 | 30653773 | Meta-Analysis/Systematic Review | Does turmeric/curcumin supplementation improve serum alanine aminotransferase and aspartate aminotransferase levels in patients with nonalcoholic fatty liver disease? A systematic  | Phytother Res
+- new | 2019 | 31057656 |  | Nanobubbles Water Curcumin Extract Reduces Injury Risks on Drop Jumps in Women: A Pilot Study. | Evid Based Complement Alternat Med
+- new | 2019 | 31121255 | Meta-Analysis/Systematic Review | Oral turmeric/curcumin effects on inflammatory markers in chronic inflammatory diseases: A systematic review and meta-analysis of randomized controlled trials. | Pharmacol Res
+- new | 2019 | 30527287 | Randomized Controlled Trial | Dietary supplementation with turmeric polyherbal formulation decreases facial redness: a randomized double-blind controlled pilot study. | J Integr Med
+- new | 2019 | 30949432 | Review | Efficacy of curcumin/turmeric on liver enzymes in patients with non-alcoholic fatty liver disease: A systematic review of randomized controlled trials. | Integr Med Res
+- new | 2019 | 31064708 | Meta-Analysis/Systematic Review | A systematic review and meta-analysis of the effect of curcuminoids on adiponectin levels. | Obes Res Clin Pract
+- new | 2019 | 31212316 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | A Systematic Review and Meta-analysis of Randomized Controlled Trials on the Effects of Turmeric and Curcuminoids on Blood Lipids in Adults with Metabolic Diseases. | Adv Nutr
+- new | 2019 | 31347643 | Randomized Controlled Trial | Food matrix and co-presence of turmeric compounds influence bioavailability of curcumin in healthy humans. | Food Funct
+- new | 2019 | 31742088 |  | Use of Aloe Vera and Turmeric Paste as a Supplementary Medicine in Oral Submucosal Fibrosis: A Pilot Study. | Indian J Otolaryngol Head Neck Surg
+- new | 2019 | 31045590 | Randomized Controlled Trial | Curcumin as Add-On to Antipsychotic Treatment in Patients With Chronic Schizophrenia: A Randomized, Double-Blind, Placebo-Controlled Study. | Clin Neuropharmacol
+- new | 2019 | 31482684 | Randomized Controlled Trial | Effect of curcumin nanomicelle on the clinical symptoms of patients with rheumatoid arthritis: A randomized, double-blind, controlled trial. | Int J Rheum Dis
+- new | 2019 | 31168845 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Curcuminoids plus piperine improve nonalcoholic fatty liver disease: A clinical trial. | J Cell Biochem
+- new | 2019 | 31871950 | Randomized Controlled Trial | Effects of Highly Absorbable Curcumin in Patients with Impaired Glucose Tolerance and Non-Insulin-Dependent Diabetes Mellitus. | J Diabetes Res
+- new | 2019 | 31017556 | Randomized Controlled Trial | Turmeric and chicory seed have beneficial effects on obesity markers and lipid profile in non-alcoholic fatty liver disease (NAFLD). | Int J Vitam Nutr Res
+- new | 2019 | 31523263 |  | Curcumin as a major active component of turmeric attenuates proteinuria in patients with overt diabetic nephropathy. | J Res Med Sci
+- new | 2019 | 31453131 |  | A novel bioavailable hydrogenated curcuminoids formulation (CuroWhite™) improves symptoms and diagnostic indicators in rheumatoid arthritis patients - A randomized, double blind an | J Tradit Complement Med
+- new | 2019 | 31516856 |  | Curcumin effects on myeloperoxidase, interleukin-18 and matrix metalloproteinase-9 inflammatory biomarkers in patients with unstable angina: A randomized clinical trial. | Avicenna J Phytomed
+- new | 2019 | 30614166 | Systematic Review | Curcumin, a turmeric extract, for oral lichen planus: A systematic review. | Oral Dis
+- new | 2018 | 29917276 | Review | Curcumin in epilepsy disorders. | Phytother Res
+- new | 2018 | 29894377 | Randomized Controlled Trial | Curcuma longa (Theracumin®): A Bioavailable Form of Curcumin and Its Cognitive Benefits. | Holist Nurs Pract
+- new | 2018 | 28928074 | Meta-Analysis/Systematic Review | Curcumin or combined curcuminoids are effective in lowering the fasting blood glucose concentrations of individuals with dysglycemia: Systematic review and meta-analysis of randomi | Pharmacol Res
+- new | 2018 | 29659685 | Review | Can Curcumin Counteract Cognitive Decline? Clinical Trial Evidence and Rationale for Combining ω-3 Fatty Acids with Curcumin. | Adv Nutr
+- new | 2018 | 29095653 |  | Curcuma longa (Turmeric) for Prevention of Capecitabine-Induced Hand-Foot Syndrome: A Pilot Study. | J Diet Suppl
+- new | 2018 | 29607625 | Randomized Controlled Trial | Turmeric tonic as a treatment in scalp psoriasis: A randomized placebo-control clinical trial. | J Cosmet Dermatol
+- new | 2018 | 29192329 |  | Oral curcumin for radiation dermatitis: a URCC NCORP study of 686 breast cancer patients. | Support Care Cancer
+- new | 2018 | 30088420 |  | Effects of Turmeric and Curcumin Dietary Supplementation on Human Gut Microbiota: A Double-Blind, Randomized, Placebo-Controlled Pilot Study. | J Evid Based Integr Med
+- new | 2018 | 29291429 | Randomized Controlled Trial | Curcumin potentiates cholesterol-lowering effects of phytosterols in hypercholesterolaemic individuals. A randomised controlled trial. | Metabolism
+- new | 2018 | 30457892 | Randomized Controlled Trial | Randomized Controlled Pilot Study of Dietary Supplementation with Turmeric or Herbal Combination Tablets on Skin Barrier Function in Healthy Subjects. | J Med Food
+- new | 2018 | 30209353 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Curcumin alleviates postprandial glycaemic response in healthy subjects: A cross-over, randomized controlled study. | Sci Rep
+- new | 2017 | 28074653 | Review/Research Support, N.I.H., Extramural | The Essential Medicinal Chemistry of Curcumin. | J Med Chem
+- new | 2017 | 27897416 | Review | Curcumin: An effective adjunct in patients with statin-associated muscle symptoms? | J Cachexia Sarcopenia Muscle
+- new | 2017 | 29299989 | Randomized Controlled Trial | Curcuminoids Plus Piperine Modulate Adipokines in Type 2 Diabetes Mellitus. | Curr Clin Pharmacol
+- new | 2017 | 29020971 | Meta-Analysis/Review | Efficacy and safety of turmeric and curcumin in lowering blood lipid levels in patients with cardiovascular risk factors: a meta-analysis of randomized controlled trials. | Nutr J
+- new | 2017 | 28178024 | Systematic Review | The effects of curcuminoids on musculoskeletal pain: a systematic review. | JBI Database System Rev Implement Rep
+- new | 2017 | 29348389 | Meta-Analysis/Systematic Review | Efficacy of Curcumin as Adjuvant Therapy to Induce or Maintain Remission in Ulcerative Colitis Patients: an Evidence-based Clinical Review. | Acta Med Indones
+- new | 2017 | 28592920 |  | Phase I dose-escalation trial of intravaginal curcumin in women for cervical dysplasia. | Open Access J Clin Trials
+- new | 2017 | 28392231 | Letter/Comment | Response to "Commentary on 'Clinicobiochemical evaluation of turmeric with black pepper and nigella sativa in management of oral submucous fibrosis-a double-blind, randomized preli | Oral Surg Oral Med Oral Pathol Oral Radi
+- new | 2017 | 28469791 |  | Curcumin up regulates T helper 1 cells in patients with colon cancer. | Am J Transl Res
+- new | 2017 | 28735818 | Randomized Controlled Trial | Curcuminoids modify lipid profile in type 2 diabetes mellitus: A randomized controlled trial. | Complement Ther Med
+- new | 2017 | 29415829 | Randomized Controlled Trial | Evaluation of Curcumin's effect on inflammation in hemodialysis patients. | Clin Nutr ESPEN
+- new | 2017 | 28840615 | Randomized Controlled Trial | The Effects of Curcumin and Curcumin-Phospholipid Complex on the Serum Pro-oxidant-Antioxidant Balance in Subjects with Metabolic Syndrome. | Phytother Res
+- new | 2017 | 28478938 | Letter/Comment | "Clinicobiochemical evaluation of turmeric with black pepper and Nigella sativa in management of oral submucous fibrosis-a double-blind, randomized preliminary study"-a commentary. | Oral Surg Oral Med Oral Pathol Oral Radi
+- new | 2016 | 27533649 | Meta-Analysis/Systematic Review | Efficacy of Turmeric Extracts and Curcumin for Alleviating the Symptoms of Joint Arthritis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. | J Med Food
+- new | 2016 | 27078813 | Randomized Controlled Trial | Turmeric (Curcuma longa): Effects of Curcuma longa Extracts Compared With Ibuprofen for Reduction of Pain and Functional Improvement in Patients With Knee Osteoarthritis. | Holist Nurs Pract
+- new | 2016 | 27351245 | Randomized Controlled Trial | Adjunctive Therapy with Curcumin for Peptic Ulcer: a Randomized Controlled Trial. | Drug Res (Stuttg)
+- new | 2016 | 27340742 | Clinical Trial | Intratumoral Concentrations and Effects of Orally Administered Micellar Curcuminoids in Glioblastoma Patients. | Nutr Cancer
+- new | 2016 | 27789120 | Randomized Controlled Trial | Effect of curcumin on nasal symptoms and airflow in patients with perennial allergic rhinitis. | Ann Allergy Asthma Immunol
+- new | 2015 | 25795285 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Curcumin supplementation likely attenuates delayed onset muscle soreness (DOMS). | Eur J Appl Physiol
+- new | 2015 | 26624595 |  | The Impact of Turmeric Cream on Healing of Caesarean Scar. | West Indian Med J
+- new | 2015 | 25500488 | Clinical Trial, Phase I/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Safety, tolerability and pharmacokinetics of liposomal curcumin in healthy humans. | Int J Clin Pharmacol Ther
+- new | 2015 | 26219195 | Comparative Study/Randomized Controlled Trial | Effects of curcumin on crevicular levels of IL-1β and CCL28 in experimental gingivitis. | Aust Dent J
+- new | 2014 | 25071333 | Review | Therapeutic applications of curcumin for patients with pancreatic cancer. | World J Gastroenterol
+- new | 2014 | 25516316 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Turmeric improves post-prandial working memory in pre-diabetes independent of insulin. | Asia Pac J Clin Nutr
+- new | 2013 | 24665176 |  | Turmeric - A new treatment option for lichen planus: A pilot study. | Natl J Maxillofac Surg
+- new | 2011 | 21649456 | Review | Curcumin for inflammatory bowel disease: a review of human studies. | Altern Med Rev
+- new | 2008 | 18204357 | Letter/Randomized Controlled Trial | Six-month randomized, placebo-controlled, double-blind, pilot clinical trial of curcumin in patients with Alzheimer disease. | J Clin Psychopharmacol
+- new | 2003 | 14714673 | Clinical Trial/Research Support, Non-U.S. Gov't | Repellency of aromatic turmeric Curcuma aromatica under laboratory and field conditions. | J Vector Ecol
+- HELD REF-0273 | 1998 | 9619120 | Clinical Trial | Influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers. | Planta Med
+
+### PubMed SR - 507 hits, 80 not already listed above, 72 new
+- new | 2026 | 42797450 | Review | Efficacy of Curcumin in Neurodegenerative Diseases: From Pharmacokinetic Barriers to Advanced Delivery Systems. | Pharmaceuticals (Basel)
+- new | 2026 | 41909351 | Review | A Systematic Review With Targeted Meta-Analyses of Curcumin and Berberine In Vitro Cytotoxicity Models (2014-2026). | Cureus
+- new | 2026 | 41878330 | Systematic Review | Pharmacological effects and mechanisms of curcumin in animal models of Parkinson's disease: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2025 | 40995635 | Systematic Review | Chitosan-Based Systems for Curcumin Delivery: Evidence for Therapeutic Applications. | J Biochem Mol Toxicol
+- new | 2025 | 40925573 | Systematic Review/Meta-Analysis | Investigating the Potential of Curcumin in the Treatment of Nonsmall Cell Lung Cancer: A Systematic Review With Meta-Analysis, Network Pharmacology, and Mendelian Randomization. | Phytother Res
+- new | 2025 | 40641727 | Review | Evidence-Based Human Clinical Trials on Antidiabetic Herbal Remedies Commonly Used in the Middle East. | Sultan Qaboos Univ Med J
+- new | 2025 | 40538540 | Systematic Review | Curcumin and multiple health outcomes: critical umbrella review of intervention meta-analyses. | Front Pharmacol
+- new | 2025 | 40977174 | Systematic Review/Meta-Analysis/Comparative Study | Curcumin Versus Corticosteroids for Symptomatic Oral Lichen Planus: A Systematic Review and Meta-Analysis. | Clin Exp Dent Res
+- new | 2025 | 40703413 | Review | A Scoping Narrative Review of Curcumin in Pain Medicine: The Need for Further Study. | Integr Med (Encinitas)
+- new | 2025 | 40792206 | Systematic Review | The protective role of curcumin in mitigating drug-induced toxicity in male reproductive system. | Front Pharmacol
+- new | 2025 | 41097499 | Review | Active Targeting Strategies for Improving the Bioavailability of Curcumin: A Systematic Review. | Foods
+- new | 2025 | 41044771 | Review | Molecular targets and therapeutic implications of curcumin in hepatocellular carcinoma: a comprehensive literature review. | Cancer Cell Int
+- new | 2025 | 41560742 | Systematic Review | A critical review of systematic reviews and meta-analyses of curcumin for knee osteoarthritis. | Front Pharmacol
+- new | 2024 | 39203857 | Systematic Review | Curcumin: A Golden Approach to Healthy Aging: A Systematic Review of the Evidence. | Nutrients
+- new | 2024 | 39478418 | Meta-Analysis/Systematic Review | Curcumin on Human Health: A Comprehensive Systematic Review and Meta-Analysis of 103 Randomized Controlled Trials. | Phytother Res
+- new | 2024 | 38576215 | Meta-Analysis/Systematic Review | The efficacy of curcumin in relieving osteoarthritis: A meta-analysis of meta-analyses. | Phytother Res
+- new | 2024 | 39623590 | Systematic Review | Evaluation of curcumin intake in reducing exercise-induced muscle damage in athletes: a systematic review. | J Int Soc Sports Nutr
+- new | 2024 | 39683570 | Meta-Analysis/Systematic Review | Curcumin Attenuates Hyperglycemia and Inflammation in Type 2 Diabetes Mellitus: Quantitative Analysis of Randomized Controlled Trial. | Nutrients
+- new | 2024 | 39515103 | Systematic Review/Meta-Analysis | A comprehensive and systematic review on Curcumin as a promising candidate for the inhibition of melanoma growth: From pre-clinical evidence to molecular mechanisms of action. | Phytomedicine
+- new | 2024 | 38036015 | Network Meta-Analysis | Efficacy and safety of curcumin therapy for knee osteoarthritis: A Bayesian network meta-analysis. | J Ethnopharmacol
+- new | 2024 | 39717381 | Systematic Review | Phytochemicals in the treatment of patients with depression: a systemic review. | Front Psychiatry
+- new | 2024 | 39270815 | Meta-Analysis/Research Support, Non-U.S. Gov't | The effect of curcumin supplementation on glycemic indices in adults: A meta-analysis of meta-analyses. | Prostaglandins Other Lipid Mediat
+- new | 2024 | 38929099 | Review | The Role of Curcumin in Oral Health and Diseases: A Systematic Review. | Antioxidants (Basel)
+- new | 2024 | 37776274 | Systematic Review | Effects of curcumin and ursolic acid in prostate cancer: A systematic review. | Urologia
+- new | 2024 | 38560351 | Systematic Review | Efficacy of turmeric in the treatment of oral mucositis in patients with head and neck cancer after radiotherapy or chemoradiotherapy: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 39723101 | Review | The Effectiveness of Curcumin, Resveratrol, and Silymarin on MASLD: A Systematic Review and Meta-Analysis. | Food Sci Nutr
+- new | 2024 | 39101853 | Systematic Review/Meta-Analysis/Research Support, Non-U.S. Gov't | The Efficacy of Curcumin Application to Melanoma in Mice: A Systematic Review and Meta-analysis. | Ann Plast Surg
+- new | 2024 | 39125706 | Systematic Review | Efficacy of Curcumin-Mediated Antimicrobial Photodynamic Therapy on Candida spp.-A Systematic Review. | Int J Mol Sci
+- new | 2024 | 38781262 | Meta-Analysis/Systematic Review | The intervention of curcumin on rodent models of hepatic fibrosis: A systematic review and meta-analysis. | PLoS One
+- new | 2024 | 38945354 | Meta-Analysis | The effects of curcumin supplementation on biomarkers of inflammation, oxidative stress, and endothelial function: A meta-analysis of meta-analyses. | Prostaglandins Other Lipid Mediat
+- new | 2024 | 39330223 | Review | The Effectiveness of Curcumin Nanoparticle-Coated Titanium Surfaces in Osteogenesis: A Systematic Review. | J Funct Biomater
+- new | 2023 | 37325651 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Effect of curcumin on rheumatoid arthritis: a systematic review and meta-analysis. | Front Immunol
+- new | 2023 | 36872842 | Systematic Review | Therapeutic effect of turmeric on radiodermatitis: A systematic review. | Physiol Rep
+- new | 2023 | 36193829 | Systematic Review | Complementary administration of curcumin in PCOS: a systematic review. | Minerva Obstet Gynecol
+- new | 2023 | 37567790 | Systematic Review/Meta-Analysis/Research Support, Non-U.S. Gov't | Effects of curcumin on blood pressure: A systematic review and dose-response meta-analysis. | Nutr Metab Cardiovasc Dis
+- new | 2023 | 36831018 | Review | A Systematic Review and Meta-Analysis on the Efficacy of Locally Delivered Adjunctive Curcumin (Curcuma longa L.) in the Treatment of Periodontitis. | Biomedicines
+- new | 2023 | 36756300 | Systematic Review | Impacts of Curcumin Treatment on Experimental Sepsis: A Systematic Review. | Oxid Med Cell Longev
+- new | 2023 | 37471428 | Systematic Review | Effects of turmeric (Curcuma longa) supplementation on glucose metabolism in diabetes mellitus and metabolic syndrome: An umbrella review and updated meta-analysis. | PLoS One
+- new | 2023 | 35996237 | Systematic Review | Anti-Toxoplasma gondii Activity of Curcumin: A Systematic Review of Pre-clinical Studies. | Infect Disord Drug Targets
+- new | 2023 | 37153928 | Review | Role of Medicinal Herbs in Periodontal Therapy: A Systematic Review. | J Int Soc Prev Community Dent
+- new | 2023 | 37082752 | Review | Role of Turmeric and Curcumin in Prevention and Treatment of Chronic Diseases: Lessons Learned from Clinical Trials. | ACS Pharmacol Transl Sci
+- HELD REF-0791 | 2022 | 35935936 | Meta-Analysis/Systematic Review | Efficacy and Safety of Curcumin and Curcuma longa Extract in the Treatment of Arthritis: A Systematic Review and Meta-Analysis of Randomized Controlled Trial. | Front Immunol
+- HELD REF-2167 | 2022 | 35979355 | Meta-Analysis/Systematic Review | Curcumin and Curcuma longa Extract in the Treatment of 10 Types of Autoimmune Diseases: A Systematic Review and Meta-Analysis of 31 Randomized Controlled Trials. | Front Immunol
+- new | 2022 | 36079777 | Systematic Review | Effects of Resveratrol, Curcumin and Quercetin Supplementation on Bone Metabolism-A Systematic Review. | Nutrients
+- new | 2022 | 35583746 | Systematic Review | Impact of curcumin, quercetin, or resveratrol on the pathophysiology of endometriosis: A systematic review. | Phytother Res
+- new | 2022 | 35293297 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | A Systematic Review on Curcumin and Anti-Plasmodium berghei Effects. | Curr Drug Discov Technol
+- new | 2022 | 35631435 | Review | Resveratrol and Curcumin for Chagas Disease Treatment-A Systematic Review. | Pharmaceuticals (Basel)
+- new | 2022 | 35394134 | Systematic Review | Curcumin for attention-deficit-hyperactivity disorder: a systematic review and preliminary behavioral investigation. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2022 | 33938775 | Systematic Review | Curcumin, autoimmune and inflammatory diseases: going beyond conventional therapy - a systematic review. | Crit Rev Food Sci Nutr
+- new | 2022 | 35570565 | Systematic Review | A Systematic Review of Nonclinical Studies on the Effect of Curcumin in Chemotherapy- induced Cardiotoxicity. | Curr Pharm Des
+- HELD REF-0792 | 2021 | 34017975 | Meta-Analysis/Systematic Review | The efficacy and safety of Curcuma longa extract and curcumin supplements on osteoarthritis: a systematic review and meta-analysis. | Biosci Rep
+- HELD REF-0793 | 2021 | 34012421 | Systematic Review | The Effects of Curcumin on Diabetes Mellitus: A Systematic Review. | Front Endocrinol (Lausanne)
+- new | 2021 | 33914984 | Systematic Review | Curcumin and rheumatoid arthritis: A systematic review of literature. | Int J Clin Pract
+- new | 2021 | 32448108 | Systematic Review | A Systematic Literature Review of Curcumin with Promising Antileishmanial Activity. | Infect Disord Drug Targets
+- new | 2021 | 33770343 | Meta-Analysis/Systematic Review | A Systematic Review of Curcumin and its Derivatives as Valuable Sources of Antileishmanial Agents. | Acta Parasitol
+- new | 2021 | 34331696 | Systematic Review | A Systematic Review of the Clinical Use of Curcumin for the Treatment of Osteoarthritis. | Adv Exp Med Biol
+- new | 2021 | 33673739 | Systematic Review | A systematic review of the antidepressant effects of curcumin: Beyond monoamines theory. | Aust N Z J Psychiatry
+- new | 2021 | 34214729 | Systematic Review | Molecular mechanisms underlying curcumin-mediated microRNA regulation in carcinogenesis; Focused on gastrointestinal cancers. | Biomed Pharmacother
+- new | 2021 | 34331694 | Systematic Review | Antibacterial Activity of Curcumin Against Periodontal Pathogens: A Systematic Review. | Adv Exp Med Biol
+- new | 2021 | 33418373 | Meta-Analysis/Systematic Review | The efficacy and acceptability of curcumin for the treatment of depression or depressive symptoms: A systematic review and meta-analysis. | J Affect Disord
+- new | 2021 | 32282223 | Systematic Review | Effects of curcumin supplementation on sport and physical exercise: a systematic review. | Crit Rev Food Sci Nutr
+- new | 2021 | 32981501 | Review | Curcumin and its Multi-target Function Against Pain and Inflammation: An Update of Pre-clinical Data. | Curr Drug Targets
+- new | 2021 | 34121673 | Meta-Analysis/Systematic Review | Turmeric in the management of oral submucous fibrosis: A systematic review and meta-analysis. | J Cancer Res Ther
+- new | 2021 | 34135646 | Review | Does Chemically Modified Curcumin Control the Progression of Periodontitis? A Systematic Review. | J Exp Pharmacol
+- new | 2021 | 34331698 | Systematic Review | A Systematic Review of the Clinical Use of Curcumin for the Management of Gastrointestinal Diseases. | Adv Exp Med Biol
+- new | 2021 | 33781908 | Meta-Analysis/Systematic Review | Adjuvant effects of curcumin as a photoantimicrobial or irrigant in the non-surgical treatment of periodontitis: Systematic review and meta-analysis. | Photodiagnosis Photodyn Ther
+- new | 2020 | 31914018 | Systematic Review | Curcumin: From a controversial "panacea" to effective antineoplastic products. | Medicine (Baltimore)
+- new | 2020 | 32772752 | Meta-Analysis/Systematic Review | Curcumin therapy for ulcerative colitis remission: systematic review and meta-analysis. | Expert Rev Gastroenterol Hepatol
+- HELD REF-3533 | 2020 | 31423805 | Meta-Analysis | Curcumin for depression: a meta-analysis. | Crit Rev Food Sci Nutr
+- new | 2020 | 33172016 |  | Antioxidant Potential of Curcumin-A Meta-Analysis of Randomized Clinical Trials. | Antioxidants (Basel)
+- new | 2020 | 32101871 | Meta-Analysis/Systematic Review | Curcumin Preparations Can Improve Flow-Mediated Dilation and Endothelial Function: A Meta-Analysis. | Complement Med Res
+- new | 2019 | 31698718 | Editorial | Re: A Meta-Analysis of the Clinical Use of Curcumin for Irritable Bowel Syndrome. | J Clin Med
+- new | 2019 | 30599917 | Systematic Review | Effect of curcumin on memory impairment: A systematic review. | Phytomedicine
+- new | 2019 | 29185808 | Meta-Analysis/Systematic Review | Lipid-modifying activity of curcuminoids: A systematic review and meta-analysis of randomized controlled trials. | Crit Rev Food Sci Nutr
+- HELD REF-0574 | 2018 | 29018060 | Meta-Analysis/Systematic Review | Dietary supplements for treating osteoarthritis: a systematic review and meta-analysis. | Br J Sports Med
+- HELD REF-2547 | 2018 | 29575228 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review. | Phytother Res
+- new | 2018 | 30556896 | Research Support, Non-U.S. Gov't/Systematic Review | Nutritional strategies for psoriasis: current scientific evidence in clinical trials. | Eur Rev Med Pharmacol Sci
+- new | 2018 | 29622343 | Meta-Analysis/Research Support, N.I.H., Extramural/Systematic Review | Efficacy of curcumin and Boswellia for knee osteoarthritis: Systematic review and meta-analysis. | Semin Arthritis Rheum
+- HELD REF-2165 | 2016 | 27213821 | Systematic Review | Effects of Turmeric (Curcuma longa) on Skin Health: A Systematic Review of the Clinical Evidence. | Phytother Res
+- new | 2016 | 27072233 | Meta-Analysis | Research on curcumin: A meta-analysis of potentially malignant disorders. | J Cancer Res Ther
+
+### PubMed SAFE - 4120 hits, 186 not already listed above, 185 new
+- new | 2026 | 41371411 | Letter | Liver toxicity, a rare side effect of using turmeric supplements for hair loss. | J Am Acad Dermatol
+- new | 2026 | 41766366 | Review | Turmeric (curcuma longa) rhizome essential oil: analytical profile of authenticated and commercial samples, safety and pharmacology review. | Pharm Biol
+- new | 2026 | 41493741 | Review | Exploring the interactions between curcumin and cobalt: implications for health and toxicity. | Biometals
+- new | 2026 | 41861631 |  | Curcumin ameliorates aflatoxin B1-induced brain toxicity in ducks by attenuating inflammation and PANoptosis. | Poult Sci
+- new | 2026 | 42780661 | Case Reports | Herbal does not mean harmless: A case of turmeric-associated AGEP. | JAAD Case Rep
+- new | 2026 | 42121775 |  | A Tolerance Study of Turmeric Extract in Healthy Adult Cats. | Animals (Basel)
+- new | 2026 | 42488578 | Review | Evaluating the Toxicity and Safety of Turmeric (Curcuma longa L.) and Its Components: A Narrative Review. | J Toxicol
+- new | 2026 | 42254374 | Systematic Review | Efficacy and safety of different curcumin formulations in osteoarthritis: an umbrella review of systematic reviews. | Front Med (Lausanne)
+- new | 2026 | 42892685 |  | Attenuation of cyclophosphamide toxicity by protective effects of curcumin in albino rats model. | BMC Oral Health
+- new | 2026 | 41940954 | Published Erratum | Correction: Pharmacological safety of dimethoxy curcumin-human serum albumin conjugate for potential therapeutic purpose. | Can J Physiol Pharmacol
+- new | 2026 | 41224153 |  | The potential ameliorative effect of curcumin nanoemulsion on busulfan-induced testicular toxicity in adult rat model. | Reprod Toxicol
+- new | 2025 | 39161080 | Review | Protective effect of curcumin against microplastic and nanoplastics toxicity. | Int J Environ Health Res
+- new | 2025 | 39943139 |  | Effects of Turmeric and Rosemary Extract on Oxidative Stress Markers in Goats. | Animals (Basel)
+- new | 2025 | 39995754 |  | Drug-Induced Liver Injury Associated with Turmeric and Piperine: A Case and Review. | Case Rep Gastroenterol
+- new | 2025 | 39301767 |  | Therapeutic effects of curcumin nanoemulsion on cyclophosphamide-induced testicular toxicity in adult male mice. | Clin Exp Reprod Med
+- new | 2025 | 40671122 |  | Efficacy and safety of Fe-curcumin coordination polymer nanodots to prevent corneal neovascularization in alkali burn models. | J Nanobiotechnology
+- new | 2025 | 39112903 | Review | Curcumin, a bioactive compound of Turmeric (Curcuma longa) and its derivatives as α-amylase and α-glucosidase inhibitors. | Cell Biochem Biophys
+- new | 2025 | 40302269 |  | Natural Turmeric-Derived Nanovesicles-Laden Metal-Polyphenol Hydrogel Synergistically Restores Skin Barrier in Atopic Dermatitis via a Dual-Repair Strategy. | Adv Healthc Mater
+- new | 2025 | 40765065 | Research Support, Non-U.S. Gov't | Palladium Complex-Supported Silica Nanocarriers: Enhancing Therapeutic Efficacy and Reducing Curcumin Toxicity in Breast Cancer. | J Cell Mol Med
+- new | 2025 | 40824744 |  | Curcumin and quercetin can ameliorate arsenic and smokeless tobacco induced reproductive toxicity in female mice. | Drug Chem Toxicol
+- new | 2025 | 40318331 | Review | Microfluidization based nano/sub-micron curcumin formulations for food and nutraceuticals: Physico-functional characteristics and safety aspects. | Food Chem
+- new | 2025 | 40737198 |  | Effect of Curcuminoids on Pharmacokinetics and Pharmacodynamics of Atorvastatin in Hyperlipidemia Rats and Its Potential Mechanism. | Biopharm Drug Dispos
+- new | 2025 | 40742469 |  | Protective role of curcumin and selenium nanoparticles against aluminium chloride-induced hepatorenal toxicity in rats. | J Mol Histol
+- new | 2024 | 37757851 | Letter/Case Reports | Curcumin artefacta. | Clin Exp Dermatol
+- new | 2024 | 40026546 | Case Reports | Turmeric-Induced Liver Injury. | J Brown Hosp Med
+- new | 2024 | 39036565 | Case Reports | Turmeric-induced Liver Injury. | J Community Hosp Intern Med Perspect
+- new | 2024 | 39153188 | Research Support, Non-U.S. Gov't | Development and Evaluation of Reconstructed Nanovesicles from Turmeric for Multifaceted Obesity Intervention. | ACS Nano
+- new | 2024 | 37813398 | Review | The protective effects of curcumin against cigarette smoke-induced toxicity: A comprehensive review. | Phytother Res
+- new | 2024 | 37559247 | Review | Curcuminoids as Cell Signaling Pathway Modulators: A Potential Strategy for Cancer Prevention. | Curr Med Chem
+- new | 2024 | 38794899 | Review | Turmeric and curcumin as adjuncts in controlling Helicobacter pylori-associated diseases: a narrative review. | Lett Appl Microbiol
+- new | 2024 | 38507274 | Published Erratum | Correction to "Efficacy and safety of curcumin in major depressive disorder: A randomized controlled trial". | Phytother Res
+- new | 2024 | 39053552 |  | Evidence of turmeric adulteration with lead chromate across South Asia. | Sci Total Environ
+- new | 2024 | 38427579 | Case Reports | Oxalate nephropathy and chronic turmeric supplementation: a case report. | J Bras Nefrol [eng,por]
+- new | 2024 | 36655498 | Review/Research Support, Non-U.S. Gov't | Review: bioavailability and efficacy of 'free' curcuminoids from curcumagalactomannoside (CGM) curcumin formulation. | Nutr Res Rev
+- new | 2024 | 38817777 |  | Molecular docking of curcumin and curcuminoids as human Zn(+) dependent histone deacetylase (HDAC) enzyme inhibitors. | In Silico Pharmacol
+- new | 2024 | 38490808 | Review | Components from Curcuma longa (Turmeric) Against Hepatobiliary Diseases Based on Gut-Liver Axis: Pharmacotherapeutic Properties and Potential Clinical Applications. | Am J Chin Med
+- new | 2024 | 38503513 | Systematic Review | A systematic review of the efficacy and safety of turmeric in the treatment of digestive disorders. | Phytother Res
+- new | 2024 | 38574919 |  | Dual-modified starch as particulate emulsifier for Pickering emulsion: Structure, safety properties, and application for encapsulating curcumin. | Int J Biol Macromol
+- new | 2024 | 38863589 | Review | Turmeric: from spice to cure. A review of the anti-cancer, radioprotective and anti-inflammatory effects of turmeric sourced compounds. | Front Nutr
+- new | 2024 | 38526738 |  | Curcumin coating: a novel solution to mitigate inherent carbon nanotube toxicity. | J Mater Sci Mater Med
+- new | 2024 | 38396341 | Review | The ameliorative effect of turmeric (Curcuma longa Linn) extract and its major constituent, curcumin, and its analogs on ethanol toxicity. | Phytother Res
+- new | 2024 | 39507590 |  | Synergistic effect of curcumin and Piperine loaded Niosomal nanoparticles on acute pulmonary toxicity induced by Paraquat in mice. | Toxicol Res (Camb)
+- new | 2024 | 39477004 |  | Curcumin protects porcine granulosa cells and mouse ovary against reproductive toxicity of aflatoxin B1 via PI3K/AKT signaling pathway. | Environ Pollut
+- new | 2024 | 38668507 |  | Glycyrrhiza Extract and Curcumin Alleviates the Toxicity of Cadmium via Improving the Antioxidant and Immune Functions of Black Goats. | Toxics
+- new | 2023 | 37675183 |  | Curcumin Alleviates Epidermal Psoriasis-Like Dermatitis and IL-6/STAT3 Pathway of Mice. | Clin Cosmet Investig Dermatol
+- new | 2023 | 37521239 | Review | Turmeric: The Yellow Allergen. | Indian Dermatol Online J
+- new | 2023 | 37604207 |  | Review: The Chemistry, Toxicity and Antibacterial Activity of Curcumin and Its Analogues. | Planta Med
+- new | 2023 | 37586702 | Case Reports | Allergic and photoaggravated contact dermatitis from turmeric in mangalsutra: A cultural dermatosis. | Contact Dermatitis
+- new | 2023 | 37674420 |  | Curcumin Attenuates Nonylphenol-Induced Toxicity In Brain Development; An Experimental Study. | Acta Neurol Taiwan
+- new | 2023 | 37376060 | Review | Curcuminoids as Anticancer Drugs: Pleiotropic Effects, Potential for Metabolic Reprogramming and Prospects for the Future. | Pharmaceutics
+- new | 2023 | 36829803 | Review | A Review of the Role of Curcumin in Metal Induced Toxicity. | Antioxidants (Basel)
+- new | 2023 | 37397624 | Published Erratum | Corrigendum to "Curcumin-loaded nanocomplexes: Acute and chronic toxicity studies in mice and hamsters" [Toxicol. Rep. 8 (2021) 1346-1357/ S221475002100127X]. | Toxicol Rep
+- new | 2023 | 37423901 | Research Support, Non-U.S. Gov't | Neurodevelopmental toxicity of bisphenol AF in zebrafish larvae and the protective effects of curcumin. | J Appl Toxicol
+- new | 2023 | 37767720 | Research Support, Non-U.S. Gov't | Effects of curcumin to counteract levodopa-induced toxicity in zebrafish. | J Toxicol Environ Health A
+- new | 2023 | 37182319 |  | The protective role of curcumin nanoparticles on the submandibular salivary gland toxicity induced by methotrexate in male rats. | Arch Oral Biol
+- new | 2023 | 35980068 | Review | Curcumin Combats against Organophosphate Pesticides Toxicity: A Review of the Current Evidence and Molecular Pathways. | Curr Med Chem
+- new | 2023 | 38162571 |  | Preparation and Evaluation of Curcumin Derivatives Nanoemulsion Based on Turmeric Extract and Its Antidepressant Effect. | Int J Nanomedicine
+- new | 2023 | 37079570 | Research Support, Non-U.S. Gov't | Efficacy and safety of curcumin in diabetic retinopathy: A protocol for systematic review and meta-analysis. | PLoS One
+- new | 2023 | 36974529 | Meta-Analysis/Systematic Review | Impact of Curcumin Supplementation on Radiation Dermatitis Severity: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Asian Pac J Cancer Prev
+- new | 2023 | 37660650 |  | Nanomicelle curcumin-induced testicular toxicity: Implications for altered mitochondrial biogenesis and mitophagy following redox imbalance. | Biomed Pharmacother
+- new | 2023 | 36867858 |  | Pharmacological safety of dimethoxy curcumin-human serum albumin conjugate for potential therapeutic purpose. | Can J Physiol Pharmacol
+- new | 2023 | 35319355 |  | Curcumin Nanofibers: A Novel Approach to Enhance the Anticancer Potential and Bioavailability of Curcuminoids. | Curr Med Chem
+- new | 2022 | 36600786 | Case Reports | Turmeric-Associated Drug-Induced Liver Injury. | ACG Case Rep J
+- new | 2022 | 35364129 |  | Toxicity of curcumin nanoparticles towards alveolar macrophage: Effects of surface charges. | Food Chem Toxicol
+- new | 2022 | 36120325 | Systematic Review | Efficacy and safety of curcumin in psoriasis: preclinical and clinical evidence and possible mechanisms. | Front Pharmacol
+- new | 2022 | 36290754 | Review | Aflatoxin B1 Toxicity and Protective Effects of Curcumin: Molecular Mechanisms and Clinical Implications. | Antioxidants (Basel)
+- new | 2022 | 37274909 |  | The Protective Effect of Turmeric against Carbimazole Induced Toxicity in Male Rats. | Arch Razi Inst
+- new | 2022 | 35992318 |  | Bioavailability of xanthorrhizol following oral administration of a supercritical extract of Java turmeric. | Food Sci Biotechnol
+- new | 2022 | 36193527 |  | Turmeric extract (Curcuma longa L.) regulates hepatic toxicity in a single ethanol binge rat model. | Heliyon
+- new | 2022 | 35516971 |  | The Efficacy and Tolerability of Turmeric and Salicylic Acid in Psoriasis Treatment. | Psoriasis (Auckl)
+- new | 2022 | 36712505 | Review | Impacts of turmeric and its principal bioactive curcumin on human health: Pharmaceutical, medicinal, and food applications: A comprehensive review. | Front Nutr
+- new | 2022 | 36518434 |  | Safety evaluation of CuminUP60® - A novel curcumin complex. | Toxicol Rep
+- new | 2022 | 35048742 | Research Support, Non-U.S. Gov't | Solid lipid nanoparticles loaded with curcumin: development and in vitro toxicity against CT26 cells. | Nanomedicine (Lond)
+- new | 2022 | 36110378 |  | Curcumin Diethyl γ-Aminobutyrate, a Prodrug of Curcumin, for Enhanced Treatment of Inflammatory Pain. | ACS Pharmacol Transl Sci
+- new | 2022 | 35715475 | Research Support, Non-U.S. Gov't | Curcumin ameliorated low dose-Bisphenol A induced gastric toxicity in adult albino rats. | Sci Rep
+- new | 2022 | 35402613 |  | Safety Evaluation of Oleoresin-Based Turmeric Formulation: Assessment of Genotoxicity and Acute and Subchronic Oral Toxicity. | Biomed Res Int
+- new | 2022 | 36816876 |  | Determination of Curcuminoids, Piperine, Boswellic Acids and Andrographolides in Food and Dietary Supplements by HPLC. | Food Technol Biotechnol
+- new | 2022 | 35714209 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Efficacy and Safety of Turmeric Dietary Supplementation on Proteinuria in CKD: A Systematic Review and Meta-analysis of RCT. | Iran J Kidney Dis
+- new | 2022 | 35140281 |  | Assessment of the ameliorative effect of curcumin on pendimethalin-induced genetic and biochemical toxicity. | Sci Rep
+- new | 2022 | 36261810 | Meta-Analysis/Systematic Review | Efficacy and safety of curcuminoids alone in alleviating pain and dysfunction for knee osteoarthritis: a systematic review and meta-analysis of randomized controlled trials. | BMC Complement Med Ther
+- new | 2022 | 35040331 |  | Curcumin and curcumoids: hepatoprotection or hepatotoxicity? | Rev Esp Enferm Dig
+- new | 2021 | 34143894 | Review | Curcumin, the active substance of turmeric: its effects on health and ways to improve its bioavailability. | J Sci Food Agric
+- new | 2021 | 33357071 | Review | Potential protective roles of curcumin against cadmium-induced toxicity and oxidative stress. | J Toxicol Environ Health B Crit Rev
+- new | 2021 | 34277359 |  | Curcumin-loaded nanocomplexes: Acute and chronic toxicity studies in mice and hamsters. | Toxicol Rep
+- new | 2021 | 34987620 |  | Safety of tetrahydrocurcuminoids from turmeric (Curcuma longa L.) as a novel food pursuant to Regulation (EU) 2015/2283. | EFSA J
+- new | 2021 | 34051256 |  | Application and safety evaluation of an anti-aflatoxigenic chitosan pouch containing turmeric essential oil in the storage of traditional Chinese health food. | Int J Biol Macromol
+- new | 2021 | 33572032 | Letter/Comment | Turmeric hepatotoxicity, cause or coincidence? | Intern Med J
+- new | 2021 | 35855104 |  | Review On the Effects Curcumin on Tumors of the Reproductive System: Curcumin and Reproductive Tumors. | Galen Med J
+- new | 2021 | 34400970 | Review | Curcumin Can be Acts as Effective agent for Prevent or Treatment of Alcohol-induced Toxicity in Hepatocytes: An Illustrated Mechanistic Review. | Iran J Pharm Res
+- new | 2021 | 34015288 |  | Toxicity and biodistribution assessment of curcumin-coated iron oxide nanoparticles: Multidose administration. | Life Sci
+- new | 2021 | 33107018 |  | Curcumin Has Protective Effect on the Eye Lens Against Arsenic Toxicity. | Biol Trace Elem Res
+- new | 2021 | 33767985 | Systematic Review | In Vivo Efficacy and Toxicity of Curcumin Nanoparticles in Breast Cancer Treatment: A Systematic Review. | Front Oncol
+- new | 2021 | 33146454 | Research Support, Non-U.S. Gov't | Combating silver nanoparticle-mediated toxicity in Drosophila melanogaster with curcumin. | J Appl Toxicol
+- new | 2021 | 33141380 |  | Synergistic effect of curcumin and chitosan nanoparticles on nano-hydroxyapatite-induced reproductive toxicity in rats. | Environ Sci Pollut Res Int
+- new | 2021 | 34439562 |  | Curcumin Suppresses the Lipid Accumulation and Oxidative Stress Induced by Benzo[a]pyrene Toxicity in HepG2 Cells. | Antioxidants (Basel)
+- new | 2020 | 31283536 |  | Turmeric-Associated Liver Injury. | Am J Ther
+- new | 2020 | 32526966 | Review | Polymyxins-Curcumin Combination Antimicrobial Therapy: Safety Implications and Efficacy for Infection Treatment. | Antioxidants (Basel)
+- new | 2020 | 33346172 |  | Turmeric (Curcuma longa L.) food supplements and hepatotoxicity: an integrated evaluation approach. | Ann Ist Super Sanita
+- new | 2020 | 32454872 | Review | Biochemistry, Safety, Pharmacological Activities, and Clinical Applications of Turmeric: A Mechanistic Review. | Evid Based Complement Alternat Med
+- new | 2020 | 33105719 | Research Support, Non-U.S. Gov't/Review | Curcumin's Beneficial Effects on Neuroblastoma: Mechanisms, Challenges, and Potential Solutions. | Biomolecules
+- new | 2020 | 32325727 |  | Effects of Curcumin on the Renal Toxicity Induced by Ochratoxin A in Rats. | Antioxidants (Basel)
+- new | 2020 | 31720988 |  | Curcumin Ameliorates Ovalbumin-Induced Atopic Dermatitis and Blocks the Progression of Atopic March in Mice. | Inflammation
+- new | 2020 | 32738367 |  | Curcumin-loaded poly(ϵ-caprolactone) lipid-core nanocapsules: Evaluation of fetal and maternal toxicity. | Food Chem Toxicol
+- new | 2020 | 32634426 | Systematic Review | The role of curcumin/curcuminoids during gastric cancer chemotherapy: A systematic review of non-clinical study. | Life Sci
+- new | 2020 | 32103948 |  | The Safety and Exploration of the Pharmacokinetics of Intrapleural Liposomal Curcumin. | Int J Nanomedicine
+- new | 2020 | 32954910 |  | Protective effect of curcumin on busulfan-induced renal toxicity in male rats. | Ren Fail
+- new | 2020 | 32056099 |  | Nephroprotective effects of curcumin loaded chitosan nanoparticles in cypermethrin induced renal toxicity in rabbits. | Environ Sci Pollut Res Int
+- new | 2020 | 32464442 |  | Curcumin alleviates arsenic-induced toxicity in PC12 cells via modulating autophagy/apoptosis. | Ecotoxicol Environ Saf
+- new | 2020 | 33041781 | Review | Turmeric and Its Major Compound Curcumin on Health: Bioactive Effects and Safety Profiles for Food, Pharmaceutical, Biotechnological and Medicinal Applications. | Front Pharmacol
+- new | 2020 | 32430723 |  | Environmental safety and mode of action of a novel curcumin-based photolarvicide. | Environ Sci Pollut Res Int
+- new | 2020 | 32898637 |  | Preparation, optimization and preliminary pharmacokinetic study of curcumin encapsulated turmeric oil microemulsion in zebra fish. | Eur J Pharm Sci
+- new | 2019 | 31770359 | Review | Turmeric supplements. | Med Lett Drugs Ther
+- new | 2019 | 30635796 | Review | Cannabis and Turmeric as Complementary Treatments for IBD and Other Digestive Diseases. | Curr Gastroenterol Rep
+- new | 2019 | 31787712 |  | Toxicity and Selective Biochemical Assessment of Quercetin, Gallic Acid, and Curcumin in Zebrafish. | Biol Pharm Bull
+- new | 2019 | 31817718 | Review | Mechanistic Understanding of Curcumin's Therapeutic Effects in Lung Cancer. | Nutrients
+- new | 2019 | 30388912 | Systematic Review | Clinical safety and efficacy of curcumin use for oral lichen planus: a systematic review. | J Dermatolog Treat
+- new | 2019 | 30642582 |  | Subfertility effects of turmeric (Curcuma longa) on reproductive performance of Pseudotropheus acei. | Anim Reprod Sci
+- new | 2019 | 30617652 |  | Transdermal delivery of curcumin-loaded supramolecular hydrogels for dermatitis treatment. | J Mater Sci Mater Med
+- new | 2019 | 31214366 | Case Reports | Turmeric Induced Liver Injury: A Report of Two Cases. | Case Reports Hepatol
+- new | 2019 | 31930829 |  | Effect of Curcumin on Iron Toxicity and Bacterial Infection in Catfish (Clarias gariepinus). | Pak J Biol Sci
+- new | 2019 | 30840252 |  | Histopathological and biochemical studies on the effect of curcumin and taurine against bisphenol A toxicity in male rats. | Environ Sci Pollut Res Int
+- new | 2019 | 31713403 | Letter | Curcumin protects rat H9C2 cardiomyocytes against doxorubicin toxicity by modulating oxidative stress and apoptosis. | J Biol Regul Homeost Agents
+- new | 2019 | 31564877 |  | Analysis of toxicity and anticancer activity of micelles of sodium alginate-curcumin. | Int J Nanomedicine
+- new | 2019 | 31798254 |  | A comparative study to evaluate the efficacy of Azadirachta indica (neem) and Curcuma longa (turmeric) in extraction socket. | Natl J Maxillofac Surg
+- new | 2019 | 30879691 |  | Improved curcumin loading, release, solubility and toxicity by tuning the molar ratio of cross-linker to β-cyclodextrin. | Carbohydr Polym
+- new | 2019 | 30909366 |  | Impact of Curcumin (with or without Piperine) on the Pharmacokinetics of Tamoxifen. | Cancers (Basel)
+- new | 2019 | 31156789 |  | Novel nanomicelle formulation to enhance bioavailability and stability of curcuminoids. | Iran J Basic Med Sci
+- new | 2019 | 31131678 | Clinical Trial | Efficacy and safety of curcumin in primary sclerosing cholangitis: an open label pilot study. | Scand J Gastroenterol
+- new | 2019 | 31489882 | Research Support, Non-U.S. Gov't | Curcumin Attenuates Lead-Induced Cerebellar Toxicity in Rats via Chelating Activity and Inhibition of Oxidative Stress. | Biomolecules
+- new | 2019 | 31499939 |  | Magnetic nanoparticles decorated with PEGylated curcumin as dual targeted drug delivery: Synthesis, toxicity and biocompatibility study. | Mater Sci Eng C Mater Biol Appl
+- new | 2019 | 31140861 | Research Support, Non-U.S. Gov't/Review | The progresses in curcuminoids-based metal complexes: especially in cancer therapy. | Future Med Chem
+- new | 2019 | 31474522 |  | Altered nigrostriatal dopaminergic and noradrenergic system prompted by systemic lead toxicity versus a treatment by curcumin-III in the desert rodent Meriones shawi. | C R Biol
+- new | 2019 | 31091065 | Research Support, Non-U.S. Gov't | Protective effects of Curcumin on testicular toxicity induced by titanium dioxide nanoparticles in mice. | JBRA Assist Reprod
+- HELD REF-2166 | 2018 | 29480523 | Review | Turmeric (Curcuma longa) and its major constituent (curcumin) as nontoxic and safe substances: Review. | Phytother Res
+- new | 2018 | 29307805 |  | Mannose-conjugated curcumin-chitosan nanoparticles: Efficacy and toxicity assessments against Leishmania donovani. | Int J Biol Macromol
+- new | 2018 | 29458788 | Review | Protective effects of curcumin against doxorubicin-induced toxicity and resistance: A review. | Crit Rev Oncol Hematol
+- new | 2018 | 29722036 | Review | Curcumin in turmeric: Basic and clinical evidence for a potential role in analgesia. | J Clin Pharm Ther
+- new | 2018 | 29445876 |  | Toxicity of PEG-Coated CoFe(2)O(4) Nanoparticles with Treatment Effect of Curcumin. | Nanoscale Res Lett
+- new | 2018 | 30111997 |  | An Evaluation of the Genotoxicity and Subchronic Oral Toxicity of Synthetic Curcumin. | J Toxicol
+- new | 2018 | 30248962 |  | Antifibrotic Activity and In Ovo Toxicity Study of Liver-Targeted Curcumin-Gold Nanoparticle. | Sci Pharm
+- new | 2018 | 29808963 |  | Curcuminoid Content and Safety-Related Markers of Quality of Turmeric Dietary Supplements Sold in an Urban Retail Marketplace in the United States. | Mol Nutr Food Res
+- new | 2018 | 30241377 |  | Development of Validated Methods and Quantification of Curcuminoids and Curcumin Metabolites and Their Pharmacokinetic Study of Oral Administration of Complete Natural Turmeric For | Molecules
+- new | 2018 | 29052850 | Review | Curcumin, hemostasis, thrombosis, and coagulation. | J Cell Physiol
+- new | 2018 | 29938678 |  | The effect of curcumin and PI3K/Akt inhibitor on monosodium glutamate-induced rat thymocytes toxicity. | Gen Physiol Biophys
+- new | 2018 | 29301315 | Research Support, Non-U.S. Gov't/Review | Protective and Detoxifying Effects Conferred by Dietary Selenium and Curcumin against AFB1-Mediated Toxicity in Livestock: A Review. | Toxins (Basel)
+- new | 2018 | 28884598 |  | Skin targeting of curcumin solid lipid nanoparticles-engrossed topical gel for the treatment of pigmentation and irritant contact dermatitis. | Artif Cells Nanomed Biotechnol
+- new | 2017 | 28734960 | Review | Pharmacokinetic interactions of curcuminoids with conventional drugs: A review. | J Ethnopharmacol
+- new | 2017 | 29488773 | Review | [Curcumine (Turmeric - Curcuma longa) as a Supportive Phytotherapeutic Treatment in Oncology]. | Klin Onkol [cze]
+- new | 2017 | 28042086 | Review | Curcumin: A potentially powerful tool to reverse cisplatin-induced toxicity. | Pharmacol Res
+- new | 2017 | 28024125 | Review | Recent progress on curcumin-based therapeutics: a patent review (2012-2016). Part I: Curcumin. | Expert Opin Ther Pat
+- new | 2017 | 28605332 |  | Protective Effect of Curcumin Against Carbofuran-Induced Toxicity in Wistar Rats. | J Environ Pathol Toxicol Oncol
+- new | 2017 | 28974976 |  | Protective effect of curcumin on lead acetate-induced testicular toxicity in Wistar rats. | Res Pharm Sci
+- new | 2017 | 28911688 |  | Curcumin inhibits adenosine deaminase and arginase activities in cadmium-induced renal toxicity in rat kidney. | J Food Drug Anal
+- new | 2017 | 28577870 |  | Mitochondria As the Target for the Modulatory Effect of Curcumin in Oxaliplatin-induced Toxicity in Isolated Rat Liver Mitochondria. | Arch Med Res
+- new | 2017 | 29023392 |  | Disposition, Metabolism and Histone Deacetylase and Acetyltransferase Inhibition Activity of Tetrahydrocurcumin and Other Curcuminoids. | Pharmaceutics
+- new | 2017 | 28882690 |  | Toxicogenomic and bioinformatics platforms to identify key molecular mechanisms of a curcumin-analogue DM-1 toxicity in melanoma cells. | Pharmacol Res
+- new | 2016 | 27863601 | Review | Clinical efficacy of turmeric use in gingivitis: A comprehensive review. | Complement Ther Clin Pract
+- new | 2016 | 27264290 | Case Reports | Contact dermatitis caused by turmeric in a massage oil. | Contact Dermatitis
+- new | 2016 | 26631570 |  | Pharmacodynamics study of zedoary turmeric oil chitosan microspheres administered via arterial embolization. | Artif Cells Nanomed Biotechnol
+- new | 2016 | 27775965 |  | Erythema Multiforme-Like Allergic Contact Dermatitis to Turmeric Essential Oil. | Dermatitis
+- new | 2016 | 27382197 |  | Hepatoprotective and Nephroprotective Effect of Curcumin Against Copper Toxicity in Rats. | Indian J Clin Biochem
+- new | 2016 | 27561811 |  | Turmeric extract and its active compound, curcumin, protect against chronic CCl4-induced liver damage by enhancing antioxidation. | BMC Complement Altern Med
+- new | 2016 | 26814259 | Meta-Analysis/Systematic Review | Analgesic Efficacy and Safety of Curcuminoids in Clinical Practice: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Pain Med
+- new | 2016 | 25758541 | Evaluation Study | Evaluation of ameliorative effect of curcumin on imidacloprid-induced male reproductive toxicity in wistar rats. | Environ Toxicol
+- new | 2016 | 27514545 |  | [Protective effect of Nrf2 activation by curcumin against lead-induced toxicity and apoptosis in SH-SY5Y cells]. | Zhonghua Lao Dong Wei Sheng Zhi Ye Bing  [chi]
+- new | 2015 | 26391597 | Review | Recent developments in curcumin and curcumin based polymeric materials for biomedical applications: A review. | Int J Biol Macromol
+- new | 2015 | 24347089 |  | Effects of nanoparticle-encapsulated curcumin on arsenic-induced liver toxicity in rats. | Environ Toxicol
+- new | 2015 | 26673878 |  | Ameliorative Effects of Curcumin on Artesunate-Induced Subchronic Toxicity in Testis of Swiss Albino Male Mice. | Dose Response
+- new | 2015 | 26470286 |  | Toxicity of Turmeric Extracts to the Termite Reticulitermes flavipes (Blattodea: Rhinotermitidae). | J Econ Entomol
+- new | 2015 | 26199917 |  | Protective Effects of Diallyl Sulfide and Curcumin Separately against Thallium-Induced Toxicity in Rats. | Cell J
+- new | 2015 | 26199067 | Research Support, Non-U.S. Gov't | Pre-administration of turmeric prevents methotrexate-induced liver toxicity and oxidative stress. | BMC Complement Altern Med
+- new | 2014 | 23873854 | Review | Therapeutic potential of turmeric in Alzheimer's disease: curcumin or curcuminoids? | Phytother Res
+- new | 2014 | 25230280 | Case Reports/Letter | Probable interaction between an oral vitamin K antagonist and turmeric (Curcuma longa). | Therapie
+- new | 2013 | 23339049 | Review | Curcumin and obesity. | Biofactors
+- new | 2013 | 23303639 | Research Support, Non-U.S. Gov't/Review | Curcumin and liver disease. | Biofactors
+- new | 2013 | 24455673 |  | Safety evaluation of turmeric polysaccharide extract: assessment of mutagenicity and acute oral toxicity. | Biomed Res Int
+- new | 2012 | 31643876 | Review | Turmeric. | 
+- new | 2012 | 22742420 | Review | Curcuminoids in neurodegenerative diseases. | Recent Pat CNS Drug Discov
+- new | 2010 | 20025215 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Anti-arthritic effects and toxicity of the essential oils of turmeric (Curcuma longa L.). | J Agric Food Chem
+- new | 2010 | 20667459 |  | Toxicity prediction of compounds from turmeric (Curcuma longa L). | Food Chem Toxicol
+- new | 2009 | 19275711 |  | Pharmacokinetics prediction and drugability assessment of diphenylheptanoids from turmeric (Curcuma longa L). | Med Chem
+- new | 2007 | 17569216 | Review | Curcumin as chemosensitizer. | Adv Exp Med Biol
+- new | 2006 | 30000906 | Review | Turmeric. | 
+- new | 2004 | 20021100 | Retracted Publication | Protective effect of curcumin on circulatory lipid peroxidation and antioxidant status during nicotine-induced toxicity. | Toxicol Mech Methods
+- new | 2003 | 12676044 | Research Support, U.S. Gov't, P.H.S./Systematic Review | Safety and anti-inflammatory activity of curcumin: a component of tumeric (Curcuma longa). | J Altern Complement Med
+- new | 2000 | 11118850 | Letter | Studies on the genotoxicity of turmeric extracts in bacterial system. | Int J Antimicrob Agents
+
+### PubMed OBS - 116 hits, 54 not already listed above, 53 new
+- new | 2026 | 41724213 |  | Curcumin-QingDai Combination for Active Ulcerative Colitis: A Cost-Effectiveness Analysis. | Value Health
+- new | 2026 | 41799514 |  | Interplay of Interleukin-1β and Curcumin on VEGF Expression in Breast Cancer Cells. | Oncol Res
+- new | 2026 | 42173079 |  | Integrated network pharmacology and Mendelian randomization analysis to elucidate potential mechanisms of curcumin and resveratrol in myocardial infarction treatment. | J Pharmacol Exp Ther
+- new | 2026 | 42231964 |  | Curcumin alleviates depression-aggravated psoriasis by targeting MMP9-regulated apoptotic pathways. | iScience
+- new | 2026 | 38030481 |  | Home Remedies ("Paati Vaidyam") for Voice Disorders: Some Common Practices Among School Teachers. | J Voice
+- new | 2026 | 42797011 | Systematic Review/Meta-Analysis | Effects of Curcumin Supplementation on Inflammatory Biomarkers in Adults with Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Nutrients
+- new | 2025 | 40144796 |  | Silicified curcumin microspheres Combats cardiovascular diseases via Nrf2/HO-1 pathway. | Bioact Mater
+- new | 2025 | 40331193 | Systematic Review | Curcumin as a potential therapeutic agent for Parkinson's disease: a systematic review. | Front Pharmacol
+- new | 2025 | 39859726 |  | Research on Two-Layer Polymer Composites Alternatively Obtained in a Constant Magnetic Field. | Materials (Basel)
+- new | 2025 | 41822273 |  | Curcumin-QingDai combination for patients with active Crohn's disease: a retrospective, real-world multicenter cohort study. | Front Gastroenterol (Lausanne)
+- new | 2025 | 40000988 | Randomized Controlled Trial | The effect of oral curcumin on vincristine-induced neuropathy in pediatric acute lymphoblastic leukemia: A double-blind randomized controlled clinical trial. | BMC Cancer
+- new | 2025 | 41293446 |  | Short-term results of curcumin, quercetin, hyaluronic acid and chondroitin sulfate (Ialuril Soft Gels®) in the management of chronic prostatitis/primary prostate pain syndrome: a s | Front Surg
+- new | 2025 | 41029138 | Observational Study | Exploring therapeutic targets of curcumin for knee osteoarthritis via the gene-gut microbiota-plasma metabolite axis: An observational study. | Medicine (Baltimore)
+- new | 2025 | 39778015 |  | Safety assessment of turmeric-boswellia-sesame formulation in healthy adult volunteers: An open-label prospective study. | Adv Clin Exp Med
+- new | 2025 | 40123586 |  | Effects of Curcumin on Biofilm Production and Associated Gene in Multidrug-Resistant Acinetobacter baumannii Isolated from Hospitalized Patients. | Int J Mol Cell Med
+- new | 2024 | 39539607 |  | Les traitements traditionnels et les compléments alimentaires chez le patient atteint de cancer: État des lieux en Tunisie. | Can J Hosp Pharm [fre]
+- new | 2024 | 39287536 | Observational Study | ORAL CURCUMIN TO REDUCE RISK OF PROLIFERATIVE VITREORETINOPATHY FOLLOWING RHEGMATOGENOUS RETINAL DETACHMENT REPAIR. | Retina
+- new | 2024 | 37306893 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Curcumin-rich curry consumption and life expectancy: Singapore longitudinal ageing study. | Geroscience
+- new | 2024 | 39466382 |  | Patients with systemic sclerosis frequently use phytopharmaceuticals: a cross-sectional survey. | Rheumatol Int
+- new | 2024 | 39595350 |  | Efficacy and Safety of a Diet Enriched with EPA and DHA, Turmeric Extract and Hydrolysed Collagen in Management of Naturally Occurring Osteoarthritis in Cats: A Prospective, Random | Animals (Basel)
+- new | 2024 | 38625384 | Research Support, Non-U.S. Gov't | Patient-reported outcomes of curcumin supplementation in rheumatoid arthritis and psoriatic arthritis: a cross-sectional survey. | Rheumatol Int
+- new | 2024 | 39257265 |  | Exploring the impact of curcumin on osteoarthritis symptomatology: correlations and insights from a Bulgarian cohort. | Folia Med (Plovdiv)
+- new | 2024 | 38863920 | Systematic Review/Meta-Analysis | Effects of Combination of Curcumin and Piperine Supplementation on Glycemic Profile in Patients with Prediabetes and Type 2 Diabetes Mellitus: A Systematic Review and Meta-analysis | J ASEAN Fed Endocr Soc
+- new | 2024 | 39445208 | Systematic Review | The Association Between Anti-Neoplastic Effects of Curcumin and Urogenital Cancers: A Systematic Review. | Biomed Res Int
+- new | 2024 | 39411729 |  | Comparative assessment of medicinal plant extract efficacy against plaque and gingivitis: A case-control study. | J Indian Soc Periodontol
+- new | 2024 | 39502958 |  | Comparative Analysis of Turmeric and Chlorhexidine Mouthwashes as Anti-plaque and Anti-gingivitis Agents: An Observational Study. | Cureus
+- new | 2023 | 37314422 | Observational Study/Multicenter Study | Variation of inflammatory indexes in patients with chronic abacterial prostatitis treated with an herbal compound/extract. | Arch Ital Urol Androl
+- new | 2023 | 37157131 | Multicenter Study | Real-world experience with Curcumin-QingDai combination for patients with active ulcerative colitis: A retrospective multicentre cohort study. | Aliment Pharmacol Ther
+- new | 2023 | 37939691 | Observational Study | Clinical Effects of Oral Supplementation of Gamma-Cyclodextrin Curcumin Complex in Male Patients with Moderate-To-Severe Benign Prostatic Hyperplasia-Related Lower Urinary Tract Sy | Urol Int
+- new | 2022 | 36687718 |  | 12-week curcumin supplementation may relieve postexercise muscle fatigue in adolescent athletes. | Front Nutr
+- SEEN | 2022 | 36416059 | Observational Study | Curcuma longa and Boswellia serrata extract combination for hand osteoarthritis: an open-label pre-post trial. | Pharm Biol
+- new | 2022 | 36231778 | Research Support, Non-U.S. Gov't | The Characteristics and Mortality of Chinese Herbal Medicine Users among Newly Diagnosed Inoperable Huge Hepatocellular Carcinoma (≥10 cm) Patients: A Retrospective Cohort Study wi | Int J Environ Res Public Health
+- new | 2022 | 35494290 |  | The Oral Administration of Highly-Bioavailable Curcumin for One Year Has Clinical and Chondro-Protective Effects: A Randomized, Double-Blinded, Placebo-Controlled Prospective Study | Arthrosc Sports Med Rehabil
+- new | 2021 | 33323022 |  | Patterns of complementary and alternative medicine use among Tunisian cancer patients. | J Oncol Pharm Pract
+- new | 2021 | 33466849 | Review | Beneficial Effects of Epigallocatechin-3-O-Gallate, Chlorogenic Acid, Resveratrol, and Curcumin on Neurodegenerative Diseases. | Molecules
+- new | 2021 | 34967575 | Randomized Controlled Trial | Black Turmeric and Aloe Vera in the Management of Oral Submucous Fibrosis: A Prospective Clinical Study. | Asian Pac J Cancer Prev
+- new | 2021 | 33287570 | Observational Study/Research Support, Non-U.S. Gov't | Curcuminoids and Boswellia serrata extracts combination decreases tendinopathy symptoms: findings from an open-label post-observational study. | Curr Med Res Opin
+- new | 2021 | 34583214 | Randomized Controlled Trial | ProspeCtive study to evaluate efficacy, safety and tOlerability of dietary supplemeNT of Curcumin (BCM95) in subjects with Active relapsing MultIple Sclerosis treated with subcutaN | Mult Scler Relat Disord
+- new | 2021 | 34195017 |  | Safety assessment of a highly bioavailable curcumin-galactomannoside complex (CurQfen) in healthy volunteers, with a special reference to the recent hepatotoxic reports of curcumin | Toxicol Rep
+- new | 2020 | 32823812 | Review | Medicinal Herbs Used in Traditional Management of Breast Cancer: Mechanisms of Action. | Medicines (Basel)
+- new | 2020 | 31738145 | Comparative Study/Meta-Analysis/Systematic Review | Effectiveness of Passion Fruit Peel Flour (Passiflora edulis L.) versus Turmeric Flour (Curcuma longa L.) on Glycemic Control: Systematic Review and Meta-Analysis. | Curr Diabetes Rev
+- new | 2020 | 32678019 | Research Support, Non-U.S. Gov't | Dual functional construct containing kartogenin releasing microtissues and curcumin for cartilage regeneration. | Stem Cell Res Ther
+- new | 2020 | 32848491 |  | The Efficacy and Safety of Highly-Bioavailable Curcumin for Treating Knee Osteoarthritis: A 6-Month Open-Labeled Prospective Study. | Clin Med Insights Arthritis Musculoskele
+- new | 2019 | 30857125 | Review | Curcumin and its Potential for Systemic Targeting of Inflamm-Aging and Metabolic Reprogramming in Cancer. | Int J Mol Sci
+- new | 2019 | 31052496 | Review | Curcumin in Autoimmune and Rheumatic Diseases. | Nutrients
+- new | 2019 | 30693615 | Letter/Observational Study | Treatment of telogen effluvium using a dietary supplement containing Boswellia serrata, Curcuma longa, and Vitis vinifera: Results of an observational study. | Dermatol Ther
+- new | 2017 | 29114108 |  | Therapeutic Effects of Curcumin on Ultrasonic Morphological Characteristics of Liver in Patients with Metabolic Syndrome. | Acta Inform Med
+- new | 2016 | 26934122 |  | The effects of curcumin (diferuloylmethane) on body composition of patients with advanced pancreatic cancer. | Oncotarget
+- new | 2015 | 26329948 |  | Antibacterial Effect of Curcuma longa (Turmeric) Against Staphylococcus aureus and Escherichia coli. | Mymensingh Med J
+- new | 2014 | 25214856 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Contaminated turmeric is a potential source of lead exposure for children in rural Bangladesh. | J Environ Public Health
+- new | 2014 | 25308211 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Short-term effects of highly-bioavailable curcumin for treating knee osteoarthritis: a randomized, double-blind, placebo-controlled prospective study. | J Orthop Sci
+- new | 2014 | 24473984 | Multicenter Study/Observational Study | A complex of three natural anti-inflammatory agents provides relief of osteoarthritis pain. | Altern Ther Health Med
+- new | 2012 | 22690273 |  | Curcumin and other polyphenolic compounds in head and neck cancer chemoprevention. | Oxid Med Cell Longev
+- new | 2006 | 17576449 |  | Natural health products that inhibit angiogenesis: a potential source for investigational new agents to treat cancer-Part 2. | Curr Oncol
+
+### PubMed REV - 2003 hits, 17 not already listed above, 16 new
+- new | 2025 | 40918117 | Review | Curcumin, an active component of turmeric: biological activities, nutritional aspects, immunological, bioavailability, and human health benefits - a comprehensive review. | Front Immunol
+- new | 2024 | 38612433 | Review | Potential of Curcumin in the Management of Skin Diseases. | Int J Mol Sci
+- new | 2024 | 38961905 | Review | Curcumin-loaded scaffolds in bone regeneration. | Heliyon
+- new | 2023 | 38008088 | Review | Clinical Studies on Topical Curcumin. | Skin Pharmacol Physiol
+- new | 2021 | 34959992 | Review | Curcumin in Metabolic Health and Disease. | Nutrients
+- new | 2021 | 34194529 | Review | Javanese Turmeric (Curcuma xanthorrhiza Roxb.): Ethnobotany, Phytochemistry, Biotechnology, and Pharmacological Activities. | Evid Based Complement Alternat Med
+- new | 2020 | 32244563 | Review | Curcumin and Endometriosis. | Int J Mol Sci
+- new | 2020 | 33239125 | Research Support, Non-U.S. Gov't/Review | Curcumin in age-related diseases. | Pharmazie
+- new | 2020 | 33142686 | Research Support, Non-U.S. Gov't/Review | Curcumin as an Antiviral Agent. | Viruses
+- new | 2019 | 31412624 | Review | Curcumin: Biological, Pharmaceutical, Nutraceutical, and Analytical Aspects. | Molecules
+- new | 2018 | 29484027 | Review | Use of Curcumin in Psoriasis. | Open Access Maced J Med Sci
+- HELD REF-2164 | 2017 | 26528921 | Review | Curcumin, an active component of turmeric (Curcuma longa), and its effects on health. | Crit Rev Food Sci Nutr
+- new | 2016 | 27837604 | Review | Curcumin (Turmeric) and cancer. | J BUON
+- new | 2016 | 26927041 | Review | Curcumin and Health. | Molecules
+- new | 2014 | 24794906 | Review | Curcumin. | Profiles Drug Subst Excip Relat Methodol
+- new | 2013 | 23143785 | Review | Therapeutic roles of curcumin: lessons learned from clinical trials. | AAPS J
+- new | 2007 | 17999464 | Research Support, Non-U.S. Gov't/Review | Bioavailability of curcumin: problems and promises. | Mol Pharm
+
+### ClinicalTrials.gov - 248 registered studies
+- NCT07523256 | COMPLETED | results=False | NA | Effect of Curcumin Add-On Therapy on Quality of Life and IL-1β Levels in Patients With Schizophrenia | conds: Schizophrenia, Psychotic Disorders | intr: Curcumin, Risperidone 4mg/day
+- NCT07149961 | COMPLETED | results=False | NA | Curcumin-Piperine Supplementation in STEMI - SPICE STEMI Trial | conds: ST Elevation Myocardial Infarction (STEMI), Malondialdehyde, Hs-CRP, Curcumin | intr: Curcumin plus Piperine, Placebo capsules | pubs: ['16545122:RESULT (new)', '1291482:RESULT (new)', '25639761:RESULT (new)', '24191240:RESULT (new)', '16371925:RESULT (new)', '11376301:RESULT (new)', '22481014:RESULT (new)', '38082237:RESULT (new)', '25618800:RESULT (new)', '36712505:RESULT (new)', '29445400:RESULT (new)', '23514412:RESULT (new)', '28819546:RESULT (new)', '8827060:RESULT (new)', '9619120:RESULT (new)', '26942997:RESULT (new)', '17569205:RESULT (new)', '10051376:RESULT (new)', '40171210:RESULT (new)', '38792942:RESULT (new)', '25068024:RESULT (new)', '38092508:RESULT (new)', '37760934:RESULT (new)', '30496103:RESULT (new)']
+- NCT05267925 | TERMINATED | results=False | NA | CuraLin Herbal Supplement for Type 2 Diabetes | conds: Type 2 Diabetes | intr: CuraLin
+- NCT02543931 | TERMINATED | results=False | PHASE1 | Curcuma Longa L in Rheumatoid Arthritis | conds: Rheumatoid Arthritis | intr: Meriva, placebo
+- NCT05570123 | COMPLETED | results=False | NA | Effect and Tolerance of Standardized Exclusive Dry Extracts of Curcuma Longa and of Boswellia Serrata Among People With Hand Joint Discomfor | conds: Hand Joint Discomfort, Hand Joint Dysfunction | intr: Flexofytol Forte, Placebo
+- NCT03202901 | COMPLETED | results=False | NA | Accute Effect of B-Turmactive Both on Mild and Moderate Knee Pain on Healthy Volunteers | conds: Knee Injuries, Inflammation Knees | intr: B-turmactive, Placebo
+- NCT04465851 | COMPLETED | results=False | NA | Effect of Ferrous iROn and cUrcumin sTatus on Inflammatory and Neurotrophic markErs | conds: Iron Deficiency (Without Anemia) | intr: Ferrous Sulphate 65 mg, Curcumin, Placebo (Ferrous Sulphate), Placebo (Curcumin)
+- NCT02369549 | COMPLETED | results=False | PHASE3 | Micro-Particle Curcumin for the Treatment of Chronic Kidney Disease | conds: Chronic Kidney Disease | intr: Micro-particle Curcumin, Placebo | pubs: ['36849161:DERIVED (new)', '30619615:DERIVED (new)']
+- NCT06407609 | COMPLETED | results=False | NA | Positive Outcomes of the Supplementation With Lecithin-based Delivery Form of Curcuma Longa and of Boswellia Serrata in IBS | conds: Boswellia Serrata, Irritable Bowel Syndrome | intr: Curcuma and boswellia extracts plus low fodmap diet, Low Foodmap diet
+- NCT05815654 | UNKNOWN | results=False | NA | Research and Development of WPAPS Based on the Modern Technology of Traditional Chinese Medicine | conds: Dysmenorrhea | intr: Warm Palace Analgesic Point Sticker
+- NCT02977936 | COMPLETED | results=False |  | Management of Joint Pain Associated With Osteoarthritis of the Knee With Association of Plant Extracts. | conds: Gonarthrosis | intr: Cartimotil Fort | pubs: ['36602324:DERIVED (new)']
+- NCT03155477 | COMPLETED | results=False | NA | Effect Of Curcuma Xanthorrhiza and Vitamin D3 Supplementation in SLE Patients With Hypovitamin D | conds: SLE | intr: "Cholecalciferol" and "C. Xanthorrhiza", "Cholecalciferol" and "placebo" | pubs: ['29445400:DERIVED (new)']
+- NCT02100202 | UNKNOWN | results=False | NA | Efficacy and Safety Study of Dietary Supplements in Chronic Smokers Having Mild to Moderate Hyperlipidemia | conds: Chronic Smokers, Hyperlipidemia | intr: Placebo, BioTurmin (Curcuma longa rhizomes extract), BioTurmin-WD (Water dispersible curcuminoids), 
+- NCT03289507 | COMPLETED | results=False | NA | Longvida Curcumin Human Pharmacokinetics Study | conds: Healthy | intr: Treatment1, Treatment2, Treatment3
+- NCT06333496 | COMPLETED | results=False | NA | Effect of a Glucagon Like Peptide 1 (GLP1) Booster in Healthy Humans | conds: Blood Sugar; High, Overweight and Obesity, Fat Burn, Obesity | intr: GLP-1 Booster (GB)
+- NCT02442453 | COMPLETED | results=False | PHASE4 | Effect of Scaling and Root Planing Along With Topical Application of Commercially Available Curcuma Longa Gel on Superoxide Dismutase and Ma | conds: Chronic Periodontitis | intr: Topical application of curenext gel, Placebo
+- NCT04439981 | COMPLETED | results=False | NA | Curcuma Extract Beneficial for Muscle Damage | conds: Athletes Foot | intr: Ice cream
+- NCT01880398 | COMPLETED | results=False |  | Management of Fistula in Ano by Kshar Sutra, Para Surgical Procedure. | conds: Fistula in Ano | intr: Kshar Sutra
+- NCT05753436 | COMPLETED | results=False | PHASE2 | Curcumin's Effect on Diabetic Patients With Atherosclerotic Cardiovascular Risk | conds: Diabetes Mellitus, Type 2, Dyslipidemias, Hypertension | intr: Puritans Pride Turmeric curcumin® 500 mg
+- NCT03877679 | UNKNOWN | results=False | PHASE1 | The Effect of Topical Curcumin Versus Topical Corticosteroid on Management of Oral Lichen Planus Patients | conds: Oral Lichen Planus | intr: Triamcinolone, Turmeric paste | pubs: ['17604143:RESULT (new)']
+- NCT07746466 | COMPLETED | results=False | NA | Efficacy of Bioactive Collagen Peptide Compared to Glucosamine and Chondroitin Sulphate in Grade I-III Knee Osteoarthritis | conds: Knee Osteoarthritis (Kellgren-Lawrence Grade 1-3) | intr: Bioactive Collagen Peptide, Glucosamine and Chondroitin Sulphate
+- NCT02683759 | UNKNOWN | results=False | PHASE3 | Bio-enhanced Curcumin as an Add-on Treatment in Maintaining Remission of Ulcerative Colitis | conds: Ulcerative Colitis | intr: Bio-enhanced Curcumin Soft Gelatin Capsule, 5-Aminosalicyclic acid
+- NCT02203227 | UNKNOWN | results=False | NA | Efficacy and Safety Study of Dietary Supplements in Chronic Smokers Having Mild to Moderate Hyperlipidemia | conds: Chronic Smokers, Hyperlipidemia | intr: Placebo, BioTurmin (Curcuma longa rhizomes extract), BioTurmin-WD (Water dispersible curcuminoids), 
+- NCT05631431 | TERMINATED | results=False | PHASE2 | Evaluation of Efficacy and Safety of Curalin As Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT03365310 | UNKNOWN | results=False | NA | Management of Frailty in Older Adults With Turmeric and Tulsi Supplements | conds: Frail Elderly Syndrome | intr: C. longa, curcuminoids , Z. officianale, O. sanctum along with 200 ml of Milk, Standard of Care
+- NCT07887724 | RECRUITING | results=False | NA | Channa Striata and Curcuma Domestica Supplementation in Patients With Active Pulmonary Tuberculosis | conds: Pulmonary Tuberculosis | intr: CHANA STRIATA AND CURCUMA, Maltodextrin (Placebo)
+- NCT06429059 | COMPLETED | results=True | PHASE2 | ROAR-DIGAP: A Widely Inclusive, Largely Virtual Pilot Trial Utilizing DIGAP (Deep Integrated Genomics Analysis Platform) To Personalize Trea | conds: Amyotrophic Lateral Sclerosis ALS | intr: Astaxanthin, Protandim, Melatonin, MitoQ
+- NCT04971382 | UNKNOWN | results=False | PHASE4 | Alveolar Ridge Augmentation With Curcumin Combined With Xenograft | conds: Horizontal Alveolar Bone Loss | intr: Curcumin
+- NCT07141472 | COMPLETED | results=False | NA | Glucagon Like Peptide 1 (GLP-1) Booster™ RCT Study | conds: Blood Sugar; High, Overweight and Obesity, Fat Loss, GLP-1 | intr: GB, Placebo
+- NCT06798948 | RECRUITING | results=False | PHASE2 | Effect of the Combined Application of Cynara Scolymus, Silybum Marianum, Curcuma Longa, and Glycyrrhiza Glabra in Improving Metabolic Associ | conds: Metabolic-associated Fatty Liver Disease (MAFLD) | intr: Combination of cynara scolymus, silybum marianum, curcuma longa, and glycyrrhiza glabra, Placebo mal | pubs: ['38879879:RESULT (new)', '38674860:RESULT (new)', '36508737:RESULT (new)', '36082508:RESULT (new)']
+- NCT05839236 | UNKNOWN | results=False | PHASE1 | COVID-19 Vaccination Detoxification in LDL-C | conds: COVID-19 Stress Syndrome, COVID-19 Vaccine Adverse Reaction, COVID-19-Associated Thromboembolism, COVID-19 Post-Intensive Care Syndrome | intr: Atorvastatin Calcium Tablets
+- NCT07874789 | RECRUITING | results=False | NA | Effect of Curcumin Topical Spray on Wound Healing After Tooth Extraction | conds: Wound Healing, Alveolitis of Jaw, Tooth Extraction, Curcumin | intr: Curcumin Topical Spray, Chlorhexidine Topical Spray | pubs: ['31500361:RESULT (new)', '35016228:RESULT (new)', '33648772:RESULT (new)', '26814259:RESULT (new)', '24998635:RESULT (new)', '25157362:RESULT (new)', '22566109:RESULT (new)', '18245686:RESULT (new)', '39626339:RESULT (new)']
+- NCT07550205 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | Tiaoshen Anti-cancer Protocol and CBT for Insomnia and Survival in Ovarian Cancer | conds: Ovarian Neoplasms Malignant, Sleep Initiation and Maintenance Disorders, Medicine, Chinese Traditional, Chinese Herbal Medicine | intr: Tiaoshen Anti-cancer Granules, Placebo Granules, Cognitive Behavioral Therapy for Insomnia, Standard
+- NCT02683733 | UNKNOWN | results=False | PHASE3 | Bio-enhanced Curcumin as an Add-On Treatment in Mild to Moderate Ulcerative Colitis | conds: Ulcerative Colitis | intr: Bio-enhanced Curcumin Soft Gelatin Capsule, 5-Aminosalicylic acid | pubs: ['32889959:DERIVED (new)']
+- NCT05583773 | RECRUITING | results=False | PHASE4 | SHengXIaN-QuYu DEcoction in Heart Failure With Reduced and Mildly Reduced Ejection Fraction | conds: Heart Failure | intr: ShengXian-QuYu Decoction, Placebo
+- NCT04183842 | COMPLETED | results=False | NA | Evaluation of a Fixed Combination of Herbal Extracts to Prevent Symptoms Alcohol-induced Hangovers | conds: Headache, Nausea, Dizziness, Sleepiness | intr: LACIME Anti-hangover, Placebo
+- NCT07785986 | COMPLETED | results=False | NA | Curcumin Versus Ibuprofen for Exercise-Induced Muscle Damage in Physically Active Women | conds: Exercise-Induced Muscle Damage, Delayed Onset Muscle Soreness (DOMS), Sports Recovery, Exercise-Induced Oxidative Stress | intr: Curcumin, Ibuprofen, Placebo
+- NCT05652959 | COMPLETED | results=False |  | Real-world Performance and Safety of Cerviron® in the Treatment of Vaginitis | conds: Vaginitis, Bacterial Vaginosis | intr: Cerviron®
+- NCT04905940 | UNKNOWN | results=False | NA | Evaluation of Clinical and Cost-effectiveness of Different Mouthwashes on Controlling Halitosis Among a Group of Egyptian Children | conds: Halitosis | intr: Turmeric mouthwash
+- NCT07699575 | RECRUITING | results=False | NA | Anti-inflammatory Effects of Curcumin, Ginger and Piperine Supplementation in Ultra-trail Runners: a Double-blind Randomized Placebo-control | conds: Joint Pains | intr: 9-5-1, Placebo
+- NCT05333315 | COMPLETED | results=False | NA | Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults | conds: Overweight and Obesity, Inflammation, Hypercholesterolemia, Hypertension | intr: IP1, IP2, IP3, IP4
+- NCT07271199 | COMPLETED | results=False | NA | Eyelash Effect Evaluation for Premium Rejuvenation Eyelash Serum | conds: Skin Condition, Eyelash Growth, Eyelashes, Skin Health | intr: Placebo control, Experimental formula
+- NCT01469936 | UNKNOWN | results=False | NA | Effect of PERMEAPROTECT on the Quality of Life of Patients With Fibromyalgia | conds: Fibromyalgia | intr: PERMEAPROTECT, PLACEBO
+- NCT06423586 | COMPLETED | results=False | NA | Effect of Lecithin-based Curcuma and Boswellia on Post-acute COVID-19 IBS | conds: Post-Acute COVID-19 Syndrome, Irritable Bowel Syndrome, Abdominal Pain, Dysbiosis | intr: Curcuma longa and Boswellia serrata extracts
+- NCT00792818 | COMPLETED | results=False | PHASE3 | The Efficacy and Safety of Curcuma Domestica Extracts and Ibuprofen in Knee Osteoarthritis | conds: Osteoarthritis | intr: Curcuma domestica extracts, Ibuprofen | pubs: ['24672232:DERIVED (new)']
+- NCT03066791 | COMPLETED | results=False | NA | Turmeric and Curcumin on Sebum Production | conds: Inflammation; Skin | intr: Turmeric tablets, Curcumin and Bioperine tablets, Placebo tablets
+- NCT07349264 | COMPLETED | results=False | NA | Flexy3 Supplementation and Joint Health | conds: Joint, Joint Diseases | intr: Flexy3 Supplement (OriactivTM, Flexy3, Malaysia), Placebo | pubs: ['10378714:RESULT (new)', '21479777:RESULT (new)']
+- NCT01982734 | COMPLETED | results=False | EARLY_PHASE1 | Improved Oral Bioavailability of Curcumin Incorporated Into Micelles | conds: Pharmacokinetics of New Curcumin Formulations, Safety of New Curcumin Formulations | intr: curcumin | pubs: [':RESULT (-)']
+- NCT05668806 | COMPLETED | results=False |  | RWE Study in the Treatment of Cervical Lesions of Various Etiology | conds: Cervical Lesion, Vaginal Bleeding | intr: Cerviron | pubs: ['37546352:DERIVED (new)']
+- NCT06690814 | COMPLETED | results=False | PHASE2 | Ulcer Plants: Highly Accessible Plant Antiseptics for Use in Remote Areas of PNG | conds: Cutaneous Ulcer Disease, Skin Sores | intr: Ficus septica exudate (antiseptic plant exudates), Pterocarpus indicus exudate, Curcuma longa aqueou
+- NCT05377242 | COMPLETED | results=False | NA | Curcumin, Resveratrol, and Stinging Nettle as Treatments for GWI | conds: Gulf War Illness | intr: Curcumin, Resveratrol, Stinging Nettle
+- NCT01489592 | COMPLETED | results=False | PHASE2 | Effect of Curcumin on Iron Metabolism in Healthy Volunteer | conds: Healthy Volunteers | intr: curcuma longa | pubs: ['28370178:RESULT (new)']
+- NCT05045443 | COMPLETED | results=False | PHASE2 | Safety and Efficacy of Curcumin in Children With Acute Lymphoblastic Leukemia | conds: Acute Lymphoblastic Leukemia, Pediatric | intr: Curcumin, Standard of Care
+- NCT06065241 | COMPLETED | results=False | NA | Quantifiably Determine if the Botanical Formulation, LLP-01, Has a Significant Clinical Effect on Proteomic Inflammatory and Cardiovascular  | conds: Aging, Inflammation | intr: LLP-01, Placebo
+- NCT01859858 | COMPLETED | results=False | PHASE1 | Effect of Curcumin on Dose Limiting Toxicity and Pharmacokinetics of Irinotecan in Patients With Solid Tumors | conds: Advanced Colorectal Cancer | intr: curcumin, Irinotecan
+- NCT05816707 | COMPLETED | results=False | PHASE1 | The Assessment of Curcuma Longa Potentials for Soft and Hard Tissue Healing in Fresh | conds: Tooth Extraction Status Nos, Tooth Fracture | intr: PRF, Curcuma Longa gel, extraction socket
+- NCT06256926 | COMPLETED | results=False | PHASE2 | A Clinical Study of Curcuvail® in Patients With Non-alcoholic Fatty Liver Disease | conds: Fatty Liver Without Mention of Alcohol | intr: Test Product: Curcuvail® 250mg capsule (Curcuma longa Extractcontaining 35% Curcuminoids), Placebo p
+- NCT04150406 | UNKNOWN | results=False | NA | Flexofytol® for the Treatment of Endometriosis- Associated Pain | conds: Endometriosis | intr: Flexofytol, Placebo
+- NCT02008981 | COMPLETED | results=False | PHASE3 | Effect of Herbal Products on Platelet Function and Clotting | conds: Platelet Function Test | intr: Curcuma longa, Angelica sinensis, Siwu Tang, Aspirin
+- NCT03221894 | COMPLETED | results=False |  | A Retrospective Study to Investigate the Additive Effectiveness of Chinese Herbal Medicine in Alzheimer's Disease | conds: Alzheimer Disease | intr: GRAPE granules
+- NCT02189083 | COMPLETED | results=False | PHASE3 | Study of Tumor-shrinking Decoction (TSD) to Treat Symptomatic Uterine Fibroids | conds: Leiomyoma | intr: TSD | pubs: [':RESULT (-)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', '21812264:RESULT (new)']
+- NCT07669662 | NOT_YET_RECRUITING | results=False | PHASE3 | Nimsai Herbal for Grade 2-3 Hemorrhoids: A Quadruple-Blind Placebo-Controlled Mechanistic Trial | conds: Hemorrhoid, Hemorrhoidal Disease | intr: Nimsai Herbal, Placebo
+- NCT06153134 | UNKNOWN | results=False | EARLY_PHASE1 | Curcuma Xanthorriza Roxb. 10% Cream for Melasma | conds: Melasma | intr: 10% Curcuma xanthorriza Roxb., 2% Kojic Acid
+- NCT03211104 | COMPLETED | results=False | NA | Comparison of Duration of Treatment Interruption With or Without Curcumin During the Off Treatment Periods in Patients With Prostate Cancer  | conds: Prostate Cancer | intr: curcumin, Placebo
+- NCT01864473 | COMPLETED | results=False | NA | Management of Vaginal Fistula by Kshar Sutra, a Minimally Invasive Treatment | conds: Vaginal Fistula | intr: Kshar Sutra
+- NCT05324800 | UNKNOWN | results=False | NA | the Efficacy and Safety of Curcuma Longa Extract Mixture on Immune Enhancement | conds: Immunity | intr: Curcuma Longa Extract Mixture, placebo group
+- NCT01925287 | COMPLETED | results=False | EARLY_PHASE1 | Oral Bioavailability of Curcumin From Micronized Powder and Liquid Micelles in Healthy Young Women and Men | conds: Pharmacokinetics of Novel Curcumin Formulations, Safety of Novel Curcumin Formulations | intr: curcumin | pubs: ['24402825:RESULT (new)']
+- NCT04949932 | COMPLETED | results=False | NA | Application of Poly-herbal Powder for Treating Acne Vulgaris | conds: Acne Vulgaris | intr: Mixed powder of Lens culinaris, Curcuma longa, Mentha arvensis, Azadirachta indica, and Trigonella f
+- NCT03482401 | COMPLETED | results=False | NA | Disposition of Dietary Polyphenols and Methylxanthines in Mammary Tissues From Breast Cancer Patients | conds: Breast Cancer | intr: Polyphenol
+- NCT07908030 | NOT_YET_RECRUITING | results=False | PHASE2 | Curcumin Extract Added to Ciprofloxacin for Typhoid Carriers Among Food Handlers of the Free Nutritious Meal Program | conds: Typhoid Carrier, Typhoid Fever, Salmonella Typhi Infection | intr: Curcumin extract, Ciprofloxacin, Placebo
+- NCT03065504 | COMPLETED | results=False | NA | Turmeric and Turmeric-containing Tablets and Sebum Production | conds: Skin Inflammation | intr: Turmeric, Turmeric-containing combination tablet, Placebo tablets | pubs: ['30527287:DERIVED (new)']
+- NCT06626230 | RECRUITING | results=False | PHASE1 | Safety of Anal Curcumin | conds: Anal High Grade Squamous Intraepithelial Lesion | intr: Curcuminoid Capsules
+- NCT01022632 | COMPLETED | results=False | NA | Effect of Curcumin as Nutraceutical in Patients of Depression | conds: Major Depressive Disorder | intr: Curcumin, Fluoxetine, Curcumin and Fluoxetine
+- NCT06402760 | UNKNOWN | results=False | EARLY_PHASE1 | Comprehensive Intervention of Diabetes and Psoriasis Comorbidity Prevention and Control | conds: Psoriasis, Diabetes | intr: TCM comprehensive treatment, Western medicine | pubs: ['42959473:DERIVED (new)']
+- NCT07722156 | NOT_YET_RECRUITING | results=False | NA | The Effect of Channa Striata and Curcuma Supplementation on Nutritional Status, Interleukin-6 Levels, and Quality of Life in Patients With B | conds: Breast Cancer | intr: channa striata and curcuma, Maltodextrin (Placebo)
+- NCT06805201 | COMPLETED | results=False | NA | The Effects of Gyngerlean Supplementation on Energy Expenditure | conds: No Disease or Condition is Being Studied, Metabolism | intr: Gyngerlean
+- NCT03449303 | COMPLETED | results=False | NA | Chemotherapy-Induced Peripheral Neuropathy-Essential Oil Intervention | conds: Breast Cancer, Peripheral Neuropathies | intr: EOI, Placebo
+- NCT07324746 | RECRUITING | results=False | NA | The Effectiveness of a Herbal Supplement in Osteoarthritis. | conds: Osteoarthritis (OA), Osteoarthritis (OA) of the Hip, Osteoarthritis (OA) of the Knee, Osteoarthritis | intr: Active treatment, Placebo
+- NCT01125501 | WITHDRAWN | results=False | NA | Protandim and the Metabolic Syndrome | conds: Metabolic Syndrome | intr: Protandim
+- NCT06487598 | UNKNOWN | results=False | NA | To Evaluate add-on Effect of Nisha-Amalaki Tablets Along With Insulin on Glycemic Control in Type 1 Diabetes Patients (RCTNA) | conds: Type 1 Diabetes | intr: inj insulin to one group, Inj Insulin with Tab Nisha-Amalaki 500 mg twice a day
+- NCT03141918 | COMPLETED | results=False | NA | Effect of Supplementation of Bioactive Compounds on the Energy Metabolism of People Living With HIV / AIDS | conds: HIV Infections | intr: Curcumin, Placebo of Curcumin
+- NCT02409381 | COMPLETED | results=False | PHASE4 | Extract of Curcuma Longa Complexed With Phosphatidilcholine(Motore®)in the Treatment of Adults With Knee Osteoarthritis | conds: Osteoarthritis, Knee | intr: Motore, Alivium
+- NCT02909621 | COMPLETED | results=False | NA | Evaluation of FLEXOFYTOL® Versus PLACEBO | conds: Osteoarthritis | intr: FLEXOFYTOL®, PLACEBO | pubs: ['31351488:DERIVED (new)']
+- NCT05982197 | COMPLETED | results=False | NA | Curcumin Gel On Radiation Induced Oral Mucositis | conds: Radiation-Induced Mucositis, Head and Neck Cancer | intr: Curcumin Gel, Standard Preparation
+- NCT01418066 | COMPLETED | results=False | NA | Ayurvedic Herbs in Diarrhea Predominant Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Ayurvedic Herbs, Placebo tea
+- NCT05439473 | COMPLETED | results=False | PHASE2 | Evaluation of the Efficacy and Safety of Curalin as Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT07427914 | NOT_YET_RECRUITING | results=False | NA | Effectiveness and Safety of Benemix® in Constipation | conds: Constipation - Functional | intr: Benemix®, a functional food composed of turmeric, onion, magnesium, and lactose-free, skimmed milk p
+- NCT03274544 | TERMINATED | results=False | NA | Clinical Trial of Chinese Herbal Medicine for Idiopathic Pulmonary Fibrosis (IPF) | conds: Idiopathic Pulmonary Fibrosis | intr: PROLUNG
+- NCT07833371 | COMPLETED | results=False |  | Effect of Moringa Oleifera, Zingiber Officinale, and Curcuma Xanthorrhiza Extracts for Nausea and Vomiting in First-Trimester Pregnancy | conds: Nausea and Vomiting in Pregnancy | intr: 
+- NCT06653231 | COMPLETED | results=False | EARLY_PHASE1 | Assessment the Efficacy of Curcumin Local Delivery Gel in Treatment of Periodontitis in Smokers | conds: Periodontitis | intr: local delivery of Curcumin gel
+- NCT04345549 | COMPLETED | results=False | NA | Ayurveda Self-Management for Flu Like Symptoms During the Covid-19 Outbreak | conds: Flu Like Symptom, Flu Like Illness | intr: Individualised Ayurveda
+- NCT06300021 | COMPLETED | results=False | NA | Bioavailability of Curcuminoids From Turmipure Gold® in Different Food Matrices | conds: Healthy | intr: TPG capsule, TPG ready to drink, TPG dairy analog, TPG probiotic drink
+- NCT02554344 | WITHDRAWN | results=False | EARLY_PHASE1 | Effect of Curcumin in Treatment of Squamous Cervical Intraepithelial Neoplasias (CINs) | conds: Cervical Intraepithelial Neoplasia | intr: Curcumin
+- NCT03845322 | WITHDRAWN | results=False | EARLY_PHASE1 | Curcumin/Turmeric as a Treatment for Patients With Subdural Hematomas Recurrence | conds: Hematoma, Subdural, Chronic | intr: Curcumin Pill, Placebo pills | pubs: ['12359244:RESULT (new)']
+- NCT00641147 | COMPLETED | results=True | PHASE2 | Curcumin in Treating Patients With Familial Adenomatous Polyposis | conds: Familial Adenomatous Polyposis | intr: Curcumin, Laboratory Biomarker Analysis, Placebo | pubs: ['29802852:DERIVED (new)']
+- NCT02104752 | COMPLETED | results=True | PHASE1,PHASE2 | Curcumin as a Novel Treatment to Improve Cognitive Dysfunction in Schizophrenia | conds: Schizophrenia, Cognition, Psychosis | intr: Curcumin, Placebo | pubs: ['28965778:DERIVED (new)']
+- NCT00235625 | COMPLETED | results=False | PHASE2 | Curcuminoids for the Treatment of Chronic Psoriasis Vulgaris | conds: Psoriasis | intr: Curcuminoids C3 Complex®
+- NCT01906840 | COMPLETED | results=False | PHASE1,PHASE2 | Role of Turmeric on Oxidative Modulation in ESRD Patients | conds: End Stage Renal Failure | intr: Turmeric, placebo
+- NCT07932340 | NOT_YET_RECRUITING | results=False | NA | Effect of Turmeric Extract With Black Pepper on Tooth Pain After Root Canal Treatment | conds: Symptomatic Irreversible Pulpitis (SIP), Post Operative Pain, Acute | intr: Curcumin plus Piperine, Placebo
+- NCT05367453 | COMPLETED | results=False | NA | Effect of a Probiotic With High Beta-galactosidase Activity on Patients With Lactose Intolerance | conds: Lactose Intolerance | intr: Tropical juice with probiotics (B.coagulans), a Tropical juice with no probiotics, lactase tablet, p
+- NCT07284316 | ACTIVE_NOT_RECRUITING | results=False | PHASE2,PHASE3 | Effect of a Multidomain Intervention Plus Turmeric on the Prevention of Cognitive Decline in People Over 55 Years of Age With Insulin Resist | conds: Cognitive Decline, Subjective Cognitive Impairment, Insulin Resistance | intr: Turmeric extract, Control: Placebo. 500mg gelatin in capsules 2 times a day
+- NCT02598726 | COMPLETED | results=False | PHASE1 | Curcumin and Piperine in Reducing Inflammation for Ureteral Stent-Induced Symptoms in Patients With Cancer | conds: Bladder Spasm, Malignant Neoplasm, Pain, Urinary Urgency | intr: Curcumin, Laboratory Biomarker Analysis, Piperine Extract (Standardized), Quality-of-Life Assessment
+- NCT03980509 | COMPLETED | results=False | PHASE1 | A "Window Trial" on Curcumin for Invasive Breast Cancer Primary Tumors | conds: Breast Cancer | intr: Curcumin
+- NCT02321293 | UNKNOWN | results=False | PHASE1 | A Open-label Prospective Cohort Trial of Curcumin Plus Tyrosine Kinase Inhibitors (TKI) for EGFR -Mutant Advanced NSCLC | conds: Lung Cancer | intr: CurcuVIVA™, Tyrosine Kinase Inhibitor gefitinib (Iressa), Tyrosine Kinase Inhibitor erlotinib (Tarce
+- NCT03372109 | COMPLETED | results=False | NA | Evaluate the Effects of Repeated Periods of Modified Fasting to Support Healthy Natural Weight Management and Prevention of Weight Gain | conds: Body Weight Changes | intr: Meal replacement shake, Multivitamin and mineral capsules, Fish oil with sesame lignans and olive ex | pubs: ['23638291:RESULT (new)', '33512717:DERIVED (new)']
+- NCT03795792 | COMPLETED | results=False | NA | Oral Curcumin Administration to Remit Metabolic Syndrome | conds: Metabolic Syndrome | intr: Curcumin, Hydrolyzed collagen
+- NCT07904598 | COMPLETED | results=False | NA | Turmeric Extract and Oxidative Stress in Muaythai Athletes and Sedentary Men | conds: Oxidative Stress | intr: Turmeric Extract, Structured Muaythai Training
+- NCT02724202 | TERMINATED | results=False | EARLY_PHASE1 | Curcumin in Combination With 5FU for Colon Cancer | conds: Metastatic Colon Cancer | intr: Curcumin, 5-flurorouracil
+- NCT07248020 | NOT_YET_RECRUITING | results=False | PHASE2 | A Phase II Single-Arm Study of High-Bioavailability Curcumin as Neoadjuvant Chemoradiotherapy in Mid-to-Low Rectal Cancer: Integrated Clinic | conds: Rectal Cancer, Locally Advanced Rectal Cancer, Radiation-Induced Enteritis, Radiation Proctitis | intr: Curcumin (BCM-95®) | pubs: ['30968152:RESULT (new)', '19735878:RESULT (new)', '32029014:RESULT (new)', '20046768:RESULT (new)', '20726007:RESULT (new)', '31108984:RESULT (new)', '19594223:RESULT (new)']
+- NCT04687449 | UNKNOWN | results=False | NA | Curcumin in Management of Chronic Obstructive Pulmonary Disease | conds: COPD | intr: Curcumin therapy, Placebo, Standard care
+- NCT04071106 | UNKNOWN | results=False | PHASE2,PHASE3 | Turmeric Based Therapy in the Treatment of Psoriasis: A Clinical Trial | conds: Psoriasis | intr: Turmeric Extract, Turmeric Extract in Olive oil, Petrolatum, NB-UVB
+- NCT06050668 | RECRUITING | results=False | PHASE2 | Essential Amino Acid Supplementation for Femoral Fragility Fractures | conds: Femoral Fracture, Fragility Fracture, Muscle Atrophy | intr: Essential Amino Acid Supplementation
+- NCT04044417 | COMPLETED | results=False | PHASE4 | Curcumin-Simvastatin-EDTA in the Treatment of Periodontitis | conds: Periodontitis | intr: currettage, curcumin simvastatin paste, EDTA root conditioning
+- NCT05723458 | UNKNOWN | results=False | PHASE1,PHASE2 | Turmeric, Black Seeds, Flaxseed and Medicago Sativa in Knee Osteoarthritis | conds: Knee Osteoarthritis | intr: Cream, Placebo
+- NCT06748313 | COMPLETED | results=False | NA | Fermented Food - Achars (fermented Pickles) in Pakistan | conds: Maternal Health, Gut Health | intr: Mango Pickle (Water-Based), Mango Pickle (Oil Based), Carrot Pickle (Water-Based), Radish Pickle (Wa
+- NCT01383161 | COMPLETED | results=True | PHASE2 | 18-Month Study of Memory Effects of Curcumin | conds: Age-associated Cognitive Impairment, Mild Cognitive Impairment (MCI) | intr: Curcumin, Placebo
+- NCT06758739 | NOT_YET_RECRUITING | results=False | PHASE3 | Comparison of Curcumin and Intralesional Steroids in Oral Submucous Fibrosis | conds: Oral Submucous Fibrosis | intr: Curcumin (Turmeric), Intralesional Steroid Injection | pubs: ['21382138:RESULT (new)', '18611924:RESULT (new)', ':RESULT (-)', '30059188:RESULT (new)', '34967575:RESULT (new)', '25737939:RESULT (new)', '23633828:RESULT (new)', '22502687:RESULT (new)', '20354091:RESULT (new)', '25737912:RESULT (new)', '22144828:RESULT (new)', '5224185:RESULT (new)', '17181736:RESULT (new)']
+- NCT04765527 | COMPLETED | results=False | NA | Turmeric and Exercise-Induced Muscle Damage and Oxinflammation | conds: Muscular Injury | intr: Turmeric Strength for Joint, Placebo
+- NCT03017118 | RECRUITING | results=False | NA | Turmeric for Patients With Basal Joint Arthritis | conds: Thumb Osteoarthritis | intr: Turmeric, Placebo
+- NCT01956500 | COMPLETED | results=False | NA | Instaflex and Joint Pain in Community Adults | conds: Joint Pain, Stiffness, Function | intr: Instaflex, Placebo | pubs: ['24274358:DERIVED (new)']
+- NCT07141368 | COMPLETED | results=False | NA | Single Oral Dose Comparative Bioavailability Study of Investigational Product in Healthy Human Subjects Under Fasting Conditions. | conds: Healthy Volunteer | intr: Curcumin Dispersome formulation, Non-formulated Curcumin, Benchmark Formulation 1 - Turmipure Gold™,
+- NCT07509671 | RECRUITING | results=False | NA | The Treatment of Painful Diabetic Neuropathy With Diet | conds: Painful Diabetic Neuropathy (PDN), Peripheral Neuropathy With Type 2 Diabetes, Vegan Diet | intr: Diet, Medical management
+- NCT05869357 | UNKNOWN | results=False | NA | Safety of Cream Containing Sericin and Turmeric in Healthy Volunteers | conds: Safety Issues | intr: cream containing 2.5% sericin and 2%turmeric, cream containing 5%sericin and 2%turmeric, cream conta
+- NCT03530436 | COMPLETED | results=False | NA | Comparison of Curcumin Bioavailability | conds: Safety After Oral Intake, Pharmacokinetics After Oral Intake | intr: Native turmeric extract, Native turmeric extract with 7-9% volatile turmeric oils, Turmeric extract 
+- NCT05206266 | COMPLETED | results=False | NA | Bioenhancing Effects of Black Pepper With Turmeric on Pain Ratings | conds: Pain | intr: Turmeric, Turmeric+Black Pepper
+- NCT01015937 | COMPLETED | results=False | NA | Effect of Turmeric on Diabetic Nephropathy | conds: Diabetic Nephropathy, Proteinuria | intr: Turmeric extract, Angiotensin-converting enzyme (ACE) inhibitor + Angiotensin-II type 1 receptor (AT
+- NCT04294836 | WITHDRAWN | results=False | PHASE2 | Curcumin in Advanced Cervical Cancer | conds: Cervical Cancer, Stage IIB | intr: Curcumin, Placebo oral tablet | pubs: ['30427093:RESULT (new)', '18252805:RESULT (new)', '20160040:RESULT (new)', '26771294:RESULT (new)', '21532153:RESULT (new)', '26837852:RESULT (new)', '18628464:RESULT (new)']
+- NCT00799630 | COMPLETED | results=False | NA | Effects of Nutraperf Consumption in Runners | conds: Nutrition Processes | intr: Carbohydrate drink | pubs: ['22152427:DERIVED (new)']
+- NCT01908998 | COMPLETED | results=False | NA | Influence of Supportive Sandals on Y-Balance Performance on Healthy Young Individuals | conds: Y-balance Performance | intr: Sandal
+- NCT07637006 | NOT_YET_RECRUITING | results=False | PHASE2 | Linzhi Jianghuang Fufang Huoxue Anshen Capsule for Non-alcoholic Fatty Liver | conds: Metabolic Dysfunction-associated Fatty Liver Disease (MAFLD) | intr: Linzhi Jianghuang Fufang Huoxue Anshen Capsule (LJF), Placebo
+- NCT05535231 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Turmeric in Healthy Participants | conds: Healthy | intr: Turmeric test product, Turmeric comparator
+- NCT02476708 | TERMINATED | results=False | NA | A Pilot Trial of Curcumin Effects on Cognition in Schizophrenia | conds: Schizophrenia, Schizoaffective Disorder | intr: curcumin 1800mg, Placebo
+- NCT06044025 | RECRUITING | results=False | PHASE1 | A Feasibility Study Evaluating a Role for Maintenance Therapy in Patients With Biochemically Progressive Castration Sensitive Prostate Cance | conds: Castration Sensitive Prostate Cancer | intr: Metformin, Turmeric
+- NCT01192269 | COMPLETED | results=False | NA | Cheek Cells - Non-invasive Fatty Acid Status Marker | conds: Healthy | intr: DHA (docosahexaenoic acid)
+- NCT04266275 | NOT_YET_RECRUITING | results=False | PHASE2 | Topical Curcumin for HPV Related Cervical Disease | conds: Neoplasm Cervix | intr: Curcumin C3 Complex, Placebo
+- NCT01917890 | COMPLETED | results=False | NA | Radiosensitizing and Radioprotectve Effects of Curcumin in Prostate Cancer | conds: Prostate Cancer, Radiation Therapy | intr: Curcumin, Placebo
+- NCT04258501 | COMPLETED | results=False | NA | Exploratory Study of Efficacy on Selected Natural Extracts Reducing Post Prandial Blood Glucose Response | conds: Blood Glucose | intr: Mulberry fruit, Mulberry leaf, White bean, Apple | pubs: ['32647531:DERIVED (new)']
+- NCT05518019 | COMPLETED | results=False | NA | An Exploratory Investigation of a CBD Supplement's Impact on Sleep, Stress, and Focus | conds: Anxiety, Fear, Stress, Low Mood | intr: The Daily Supplement
+- NCT04719247 | COMPLETED | results=False | NA | Clinical and Radiographic Evaluation of Turmeric, Thymus Vulgaris, Nigella Sativa and Aloe Vera as Pulpotomy Medicaments in Primary Teeth | conds: Pulpitis - Irreversible | intr: Pulpotomy
+- NCT04500210 | COMPLETED | results=False | PHASE3 | Comparative Study of Turmeric Extract in Patients With Arthrosis. | conds: Arthralgia, Stiffness of Unspecified Joint, Not Elsewhere Classified, Disturbance of Activity and Attention, Quality of Life | intr: Placebo, Turmeric
+- NCT03122613 | TERMINATED | results=False | NA | Curcumin for Prevention of Relapse in Patients With Ulcerative Colitis | conds: Ulcerative Colitis in Remission | intr: Curcumin, Placebo
+- NCT05504668 | COMPLETED | results=False | NA | The Cognitive Effects of 'Brainwaves' Supplementation in Cognitively Intact Older Adults | conds: Cognitive Change, Mood Change, Microbial Colonization | intr: Turmeric Brainwave | pubs: ['37885445:DERIVED (new)']
+- NCT02782949 | ACTIVE_NOT_RECRUITING | results=True | PHASE2 | Curcumin in Preventing Gastric Cancer in Patients With Chronic Atrophic Gastritis or Gastric Intestinal Metaplasia | conds: Chronic Atrophic Gastritis, Gastric Carcinoma | intr: Curcumin, Laboratory Biomarker Analysis, Placebo Administration, Quality-of-Life Assessment | pubs: ['42077070:DERIVED (new)', '39148307:DERIVED (new)']
+- NCT07729631 | COMPLETED | results=False | NA | Establishing the Glycaemic Index of Vegetable Smoothies | conds: Glycaemic Index, Glycaemic Response, Glycaemic Response Measurements | intr: Vegetable Smoothie, Vegetable Smoothie, Vegetable Smoothie, Vegetable Smoothie
+- NCT06757452 | COMPLETED | results=False | PHASE3 | The Effect of Supplementation with Curcuminoids for the Improvement of Musculoskeletal Conditions in Sedentary Adults | conds: Sedentariness and Well-being | intr: Supplement with curcuminoids, Physical excercise
+- NCT00992004 | COMPLETED | results=False | PHASE2 | Evaluation of the Efficacy of a Turmeric Extract (Arantal®) in Patients With Osteoarthritis of the Knee (Gonarthrosis). | conds: Osteoarthritis, Knee | intr: Arantal® (highly bioavailable turmeric extract)
+- NCT00745134 | TERMINATED | results=True | PHASE2 | Radiation Therapy and Capecitabine With or Without Curcumin Before Surgery in Treating Patients With Rectal Cancer | conds: Rectal Mucinous Adenocarcinoma, Rectal Signet Ring Cell Adenocarcinoma, Recurrent Rectal Carcinoma, Stage IIA Rectal Cancer AJCC v7 | intr: Capecitabine, Curcumin, Laboratory Biomarker Analysis, Pharmacological Study | pubs: ['36636059:DERIVED (new)']
+- NCT06245382 | COMPLETED | results=False | NA | The Impact of Goode Health Beverage on Markers of Physiological and Neurocognitive Health | conds: Cardiovascular Diseases, Hypertension, Cognitive Decline, Diet, Healthy | intr: Goode Health Beverage, Vanilla Base Beverage Blend
+- NCT06018168 | COMPLETED | results=False | NA | An RCT Evaluating the Efficacy of a Skincare Routine and Acne Supplement on Improving Acne and Other Symptoms of PMS | conds: Acne, Premenstrual Syndrome | intr: Skincare Routine, MINDBODYSKIN Supplement
+- NCT07061171 | COMPLETED | results=False | NA | CPAP and Physiotherapy for Heart Failure and Sleep Apnea in the Elderly | conds: Chronic Heart Failure, Obstructive Sleep Apnea | intr: Continuous Positive Airway Pressure, Herbal Decoction, Acupuncture, Tuina Massage
+- NCT06359665 | ENROLLING_BY_INVITATION | results=False | PHASE1 | Oral Curcumin for the Treatment of Pain of Thumb Base Joint (CMC) Arthritis | conds: Arthritis of Carpometacarpal Joint of Left Thumb, Arthritis of Carpometacarpal Joint of Right Thumb | intr: Curcumin, Placebo
+- NCT02300727 | TERMINATED | results=True | PHASE1,PHASE2 | Study to See How Safe Curcumin is and How Well it Works When Used to Treat Mucositis in Patients Getting Chemotherapy | conds: Mucositis | intr: Curcumin-MTD, Mouthwash-standard pharmacy preparation, Curcumin
+- NCT03019848 | UNKNOWN | results=False | PHASE2 | Effect of Oral Supplementation With Curcumin in Patients With Proteinuric Diabetic Kidney Disease | conds: Proteinuria | intr: Curcumin, Placebo
+- NCT04972045 | COMPLETED | results=False | PHASE1 | Bioavailability of Curcumin Capsules in Healthy Adult Subjects | conds: Healthy Adult Subjects | intr: CuminUP60®, Curcumin capsules
+- NCT03746158 | COMPLETED | results=False | NA | Interindividual Variation in Excretion of Curcumin | conds: Metabolites, Gut Microbiota | intr: curcumin
+- NCT02908152 | COMPLETED | results=False | PHASE2,PHASE3 | Curcumin Supplement in Nonalcoholic Fatty Liver Patients | conds: Type 2 Diabetes, Nonalcoholic Fatty Liver | intr: curcumin, placebo
+- NCT03790605 | UNKNOWN | results=False | PHASE3 | A Clinical Trial to Study the Effect of a Drug, Curcumin in Patients With Periodontitis | conds: Periodontitis | intr: 1 % curcumin chip, Placebo chip, Scaling and root planing
+- NCT05640843 | RECRUITING | results=False | NA | A Study Comparing a Plant-Based Diet With Supplements and Placebo in People With Monoclonal Gammopathy of Undetermined Significance (MGUS) o | conds: Monoclonal Gammopathy of Undetermined Significance, Smoldering Multiple Myeloma | intr: Whole Foods Plant-based Diet, Algae Omega 3 + Curcumin, Placebo supplements
+- NCT04654689 | COMPLETED | results=False | PHASE2 | Impact of the Combined Treatment of Liposomed Polyphenols With G04CB02 on the ALS Patients | conds: Amyotrophic Lateral Sclerosis | intr: Liposomed polyphenols resveratrol and curcumin, Placebo for liposomed resveratrol and curcumin, Isoc | pubs: ['40595276:DERIVED (new)', '38900570:DERIVED (new)']
+- NCT01752868 | COMPLETED | results=False | NA | Can Fish Oil and Phytochemical Supplements Mimic Anti-Aging Effects of Calorie Restriction? | conds: Healthy Volunteers | intr: Supplement
+- NCT07891130 | COMPLETED | results=False | NA | Curcumin Plus Topical Steroid Versus Topical Steroid Alone for Oral Submucous Fibrosis | conds: Oral Submucous Fibrosis | intr: Curcumin and and triamcinolone acetonide, Triamcinolone Acetonide
+- NCT01925547 | COMPLETED | results=False | PHASE2 | Micellar Curcumin and Metabolic Syndrome Biomarkers | conds: Metabolic Syndrome, Protection Against | intr: Micellar curcumin, Placebo | pubs: ['26909743:RESULT (new)']
+- NCT06053411 | RECRUITING | results=False | EARLY_PHASE1 | Contribution of UGT2B17 to the Pharmacokinetics of Diclofenac | conds: Interaction | intr: Diclofenac, curcumin
+- NCT01029327 | COMPLETED | results=False |  | Effects of Curcumin on Postprandial Blood Glucose, and Insulin in Healthy Subjects | conds: Diabetes | intr:  | pubs: ['20937162:DERIVED (new)']
+- NCT04315350 | TERMINATED | results=False | NA | The Effect of Curcumin on the Development of Prednisolone-induced Hepatic Insulin Resistance | conds: Insulin Resistance, Non-Alcoholic Fatty Liver Disease | intr: Curcumin Liposome, Prednisolone, Placebos | pubs: ['42126851:DERIVED (new)']
+- NCT01647412 | WITHDRAWN | results=False | PHASE2 | Growth Hormone and Exclusion Diet Therapy in Juvenile Crohn's Disease | conds: Crohn's Disease | intr: Growth Hormone, Nutraceutical Combination, Exclusion Diet, Placebo Growth Hormone
+- NCT03072992 | COMPLETED | results=False | PHASE2 | "Curcumin" in Combination With Chemotherapy in Advanced Breast Cancer | conds: Advanced Breast Cancer, Metastatic Breast Cancer | intr: Curcumin, Paclitaxel, Placebo
+- NCT02369536 | COMPLETED | results=True | NA | Efficacy of a Natural Components Mixture in the Treatment of Non Alcoholic Fatty Liver Disease (NAFLD) | conds: Non-alcoholic Fatty Liver Disease | intr: nutraceutical mixture, placebo
+- NCT02724618 | UNKNOWN | results=False | PHASE2 | Nanocurcumin for Prostate Cancer Patients Undergoing Radiotherapy (RT) | conds: Prostate Cancer | intr: Curcumin, RT, Placebo
+- NCT07766720 | RECRUITING | results=False | NA | Effects of Eggshell Membrane and Curcumin Extract Supplementation, Separately or Combined, on Recovery From Intense Exercise | conds: Exercise-induced Muscle Soreness, Exercise-induced Joint Pain, Exercise-induced Joint Stiffness, Exercise-induced Cartilage Turnover | intr: NEM® brand eggshell membrane powder, curQ+® brand highly absorbable curcumin, EM Placebo, Curc Place
+- NCT06381076 | COMPLETED | results=True | PHASE3 | High-protein Oral Supplement With Liposomal Curcumin in Adults Undergoing Hemodialysis. | conds: Chronic Kidney Disease 5D | intr: Liposomal curcumin, Food colorant
+- NCT00852332 | TERMINATED | results=False | PHASE2 | Docetaxel With or Without a Phytochemical in Treating Patients With Breast Cancer | conds: Breast Cancer | intr: Curcumin, Taxotere
+- NCT03864783 | COMPLETED | results=False | NA | The Effect of Curcumin on Liver Fat Content in Obese Subjects | conds: Non-Alcoholic Fatty Liver Disease, Insulin Resistance, Glucose Tolerance Impaired, Obesity, Abdominal | intr: Curcumin (Meriva®), Placebo Oral Tablet
+- NCT02474953 | COMPLETED | results=False | PHASE1 | A Study to Compare the Pharmacokinetic Profile of a Proprietary Curcumin Forumulation to a Comparator Curcumin Product | conds: Healthy | intr: Proprietary Curcumin Formulation, Unformulated Comparator Curcumin Product
+- NCT05332743 | COMPLETED | results=False | NA | Nutraceutical Supplement With Vegan Botanicals in Females With Self-Perceived Thinning Hair | conds: Hair Thinning | intr: Nutrafol Vegan Women's Hair Supplement | pubs: ['39093662:DERIVED (new)']
+- NCT03475017 | COMPLETED | results=False | NA | Effects of Curcumin in Patients in Chronic Kidney Disease | conds: Chronic Kidney Diseases | intr: Active Comparator: Supplement A, Placebo Comparator: Supplement B | pubs: ['32204978:DERIVED (new)']
+- NCT02337192 | COMPLETED | results=False | PHASE1 | Antimicrobial Photodynamic Therapy Applied in Orthodontic. Orthodontic Patients. | conds: Dentist-Patient Relations | intr: Curcumin, LED, Surfactant, DMSO + water | pubs: ['24703280:RESULT (new)']
+- NCT00176618 | TERMINATED | results=False | NA | The Effects of Curcuminoids on Aberrant Crypt Foci in the Human Colon | conds: Aberrant Crypt Foci | intr: sulindac, curcumin
+- NCT07910175 | NOT_YET_RECRUITING | results=False | NA | Curcumin-mediated Photodynamic Therapy Versus Photobiomodulation in the Treatment of Oral Erosive Lichen Planus | conds: Oral Lichen Planus | intr: Nano- Curcumin-Mediated Photodynamic Therapy (PDT), Photobiomodulation Therapy (PBM)
+- NCT06984640 | COMPLETED | results=False | NA | Curcumin Supplementation for the Improvement of Diabetes-related Outcomes | conds: Over Age 60, Prediabetes or Overweight | intr: Curcumin, Placebo
+- NCT05819632 | UNKNOWN | results=False | NA | Clinical Comparison of Application of Curcumin Gel in Pain Management After Free Gingival Graft Harvesting | conds: Palate; Wound | intr: curcumin gel 2%
+- NCT04912921 | COMPLETED | results=False | NA | Effect of Palmitoylethanolamide on Proinflammatory Markers in Adults Recently Diagnosed With COVID-19 | conds: Inflammation, COVID19 | intr: palmitoylethanolamide, Placebo, Curcumin, Control (microcrystalline cellulose) | pubs: ['36084236:DERIVED (new)']
+- NCT04032132 | COMPLETED | results=False | PHASE4 | Curcumin Paste as an Adjunctive Therapy in Periodontitis | conds: Periodontitis | intr: curcumin paste, curettage
+- NCT06531863 | UNKNOWN | results=False | EARLY_PHASE1 | Curcumin and EGCG Supplementation to Improve Serum BDNF and Mood Disturbance | conds: Mood Disturbance | intr: Curcumin, Epigallocatechin Gallate, Placebo
+- NCT05520424 | COMPLETED | results=False | NA | An Exploratory Investigation of a Supplement to Promote Brain Health | conds: Memory Deficits, Cognitive Change, Stress | intr: The Daily Supplement
+- NCT01712542 | COMPLETED | results=False |  | Curcumin Bioavailability in Glioblastoma Patients | conds: Patient Harboring Glioblastoma That Will Undergo Surgery | intr: 
+- NCT01042938 | COMPLETED | results=True | PHASE2 | Curcumin for the Prevention of Radiation-induced Dermatitis in Breast Cancer Patients | conds: Breast Cancer | intr: Curcumin C3 Complex, Placebo
+- NCT07802548 | COMPLETED | results=False | NA | Sirtuin Activators and Weight Loss | conds: Obesity & Overweight | intr: SIRTUIN activators + weight loss diet, Placebo supplementation + weight loss diet
+- NCT06752655 | NOT_YET_RECRUITING | results=False | NA | Postoperative Pain in Photodynamic Therapy Using Curcumin As a Photosensitizer | conds: Periapical Diseases, Postoperative Dental Pain, Irrigation Solution, Photodynamic Therapy (PDT) | intr: Curcumin with photodynamic thearpy, Control group
+- NCT05627843 | UNKNOWN | results=False | PHASE3 | Effects of Curcumin on Inflammation and Oxidative Stress in Pediatric Patients on Regular Hemodialysis: A Randomized, Double-Blind, Placebo- | conds: Pediatric Patients Having Renal Failure and on Regular Hemodialysis | intr: Curcumin capsules 1 gm, Placebo capsule
+- NCT04802382 | UNKNOWN | results=False | PHASE3 | Clinical Study Designed to Evaluate the Effect of CimetrA in Patients Diagnosed With COVID-19 | conds: Corona Virus Infection, Covid19, SARS-CoV Infection | intr: Placebo administration, Confirm SARS-CoV-2 infection, Physical Examination, Vital Signs
+- NCT04103788 | COMPLETED | results=False | NA | Evaluation of Increased Absorption of a Curcumin Emulsion (CurQ+) in Healthy Volunteers | conds: Bioavailability | intr: 95% Curcuminoid Powder, CurQ+ | pubs: ['31684927:RESULT (new)']
+- NCT05775237 | COMPLETED | results=False | NA | An Investigator-initiated Trial to Assess the Effectiveness of Three Different Gummies (Curcumin Gummies, Vitamin C Gummies, and Vitamin B C | conds: Healthy Children | intr: Curcumin Gummies, Vitamin C Gummies, Multivitamin Gummies
+- NCT06829186 | NOT_YET_RECRUITING | results=False | PHASE2 | The Effect of Curcumin on Inflammatory Markers in Hemodialysis Patients | conds: Hemodialysis | intr: Curcumin (Longvida™), Placebo
+- NCT06269406 | NOT_YET_RECRUITING | results=False | NA | A Combination of Ibuprofen With Curcumin Covered With Liquorice Root Supplementation in the Management of Postoperative Dental Pain in Adult | conds: Dental Pain | intr: ibuprofen 400 mg in combination with Curcumin covered with liquorice root 100 mg, ibuprofen 200 mg i
+- NCT01646047 | COMPLETED | results=False | NA | Diabetes Visual Function Supplement Study | conds: Diabetes Mellitus - Type 1, Diabetes Mellitus - Type 2, Non-proliferative Diabetic Retinopathy | intr: multi-component nutritional supplement capsules, multi-component dietary supplement | pubs: ['32990945:DERIVED (new)', '26089210:DERIVED (new)']
+- NCT07475546 | COMPLETED | results=False | PHASE3 | Combination Gerotherapeutic Interventions for Healthspan Improvement | conds: Healthspan Improvement, Aging, Longevity | intr: Rapamycin, Naltrexone, Metformin, NAD+
+- NCT00181662 | COMPLETED | results=False | NA | Pharmacokinetics of Curcumin in Healthy Volunteers | conds: Healthy | intr: Curcumin
+- NCT04528212 | COMPLETED | results=False | PHASE4 | Fenofibrate Versus Curcumin in Type 2 Diabetic Patients | conds: Diabetes Mellitus, Type 2 | intr: Glimepiride Tablets, glimepiride plus fenofibrate, glimepiride plus curcumin | pubs: ['28735818:RESULT (new)', '31013312:RESULT (new)', '26105582:RESULT (new)', '40481568:DERIVED (new)']
+- NCT01514266 | COMPLETED | results=False | NA | Effect of Curcumin on Lung Inflammation | conds: Chronic Obstructive Pulmonary Disease | intr: Curcumin+Bioprine, Placebo
+- NCT00003365 | TERMINATED | results=False | NA | Sulindac and Plant Compounds in Preventing Colon Cancer | conds: Colorectal Cancer | intr: curcumin, rutin, quercetin, sulindac
+- NCT03140657 | COMPLETED | results=False | PHASE2 | The Effects of Nanocurcumin on Treg Cells and Th17 Cells Responses in Ankylosing Spondylitis Patients | conds: Ankylosing Spondylitis | intr: Nanocurcumin, Placebo
+- NCT06867939 | COMPLETED | results=False | NA | A Study of Curcumin (Soloways ™) in Patients With Inflammatory Bowel Disease Homozygous for the IL-10 Variant | conds: Inflamatory Bowel Disease | intr: liposomal curcumin, Liposomal Curcumin
+- NCT01909037 | COMPLETED | results=False | EARLY_PHASE1 | Exploratory Non Comparative Study to Evaluate the Efficacy of Highly Bioavailable Curcumin (Flexofytol) in Patients With Knee Osteoarthritis | conds: Knee Osteoarthritis | intr: Flexofytol (bio-optimized curcumin) | pubs: ['24886572:DERIVED (new)']
+- NCT01160302 | COMPLETED | results=False | EARLY_PHASE1 | Curcumin Biomarker Trial in Head and Neck Cancer | conds: Head and Neck Cancer | intr: Microgranular Curcumin C3 Complex®
+- NCT00295035 | UNKNOWN | results=False | PHASE3 | Phase III Trial of Gemcitabine, Curcumin and Celebrex in Patients With Metastatic Colon Cancer | conds: Colon Neoplasm | intr: CELECOXIB, CURCUMIN
+- NCT06312761 | UNKNOWN | results=False | PHASE1,PHASE2 | Single-Dose Pharmacokinetics of Oral Testosterone Undecanoate With and Without Concomitant Inhibition of UGT2B17 | conds: Hypogonadism, Male | intr: Relugolix 120Mg Tab, Curcumin, Testosterone Undecanoate 237 MG Oral Capsule
+- NCT05774704 | RECRUITING | results=False | PHASE1,PHASE2 | Curcumin and Retinal Study | conds: Bioavailability, Gut Microbiome, Safety | intr: Low curcumin group, High curcumin group
+- NCT06974058 | COMPLETED | results=False | NA | Study to Investigate the Health Benefits of a Quercetin/Curcumin-Based Supplement for Mild to Moderate Long COVID-19 Symptoms | conds: Long COVID | intr: Nasafytol® (Quercetin/Curcumin Supplement) | pubs: ['42653699:DERIVED (new)']
+- NCT05334043 | UNKNOWN | results=False | PHASE1 | Pharmacokinetics and Bioavailability of Curcumin UP 30 Capsules in Healthy Adult Subjects | conds: Healthy Adult Subjects | intr: CuminUP30, Curcumin capsules
+- NCT04207021 | UNKNOWN | results=False | NA | Effectiveness of Curcumin-based Food Supplement in Reducing Pain and Inflammatory Component in Osteoarthritis | conds: Osteoarthritis, Knee Pain Chronic | intr: Experimental: Curcumin derivate, Placebo
+- NCT07906626 | COMPLETED | results=False | NA | Snakehead Fish Extract and Curcumin Co-Supplementation in Advanced Lung Cancer on Inflammation, Nutritional Status, and Quality of Life | conds: Lung Cancer (NSCLC) | intr: Snakehead Fish Extract and Curcumin, Placebo
+- NCT05407467 | UNKNOWN | results=False | PHASE1,PHASE2 | KurCoSmart Effects on People With Type 2 DM | conds: Diabetes Mellitus, Type 2, Insulin Resistance, Inflammation, Body Weight | intr: Curcumin and virgin coconut oil extract (KurCo Smart)
+- NCT06458465 | COMPLETED | results=False | NA | Impact of Curcumin and Pentoxiphylline on Chronic Kidney Disease Patients | conds: Chronic Kidney Disease | intr: Curcumin, Pentoxifylline 400 MG
+- NCT00118989 | TERMINATED | results=False | NA | Curcumin for the Chemoprevention of Colorectal Cancer | conds: Adenomatous Polyps | intr: Curcuminoids
+- NCT03213340 | COMPLETED | results=False | NA | Effects of Phytonutrients Upon Muscle Perfusion in Response to Feeding | conds: Biological Aging | intr: Catechin Cohort 1, Curcuminoid Cohort 2, Flavonoid Cohort 3
+- NCT03906825 | COMPLETED | results=False | NA | Effect of CEAG on Inflammation and Endothelial Function | conds: Inflammation, Endothelial Dysfunction | intr: CEAG, placebo | pubs: ['31987113:DERIVED (new)']
+- NCT05089318 | COMPLETED | results=False |  | Evaluation of Flexofytol® PLUS in Hand Joint Chronic Dyscomfort. | conds: Hand Joint Discomfort | intr: Flexofytol PLUS
+- NCT03511261 | UNKNOWN | results=False | PHASE2 | Efficacy of Curcumin in Oral Submucous Fibrosis | conds: Oral Submucous Fibrosis | intr: 10% Curcumin mucoadhesive gel, Curcumin capsules 500mg, 5% curcumin mucoadhesive gel + Curcumin caps
+- NCT05481450 | COMPLETED | results=False | NA | Efficacy and Safety Safety of Nutritears® in Adults With Dry Eye Syndrome | conds: Dry Eye, Dry Eye Syndromes | intr: Blink NutriTears, Placebo | pubs: ['38984118:DERIVED (new)']
+- NCT01528514 | COMPLETED | results=False | NA | Effects of CUrcuminoids on Coronary Artery byPass graftIng-related myocarDial Infarction Study | conds: Coronary Artery Bypass Grafting | intr: Curcuminoids, Placebo
+- NCT06886035 | COMPLETED | results=False | PHASE4 | Effectiveness of Curcuminoids in Controlling Postoperative Pain Following Total Laparoscopic Hysterectomy | conds: Postoperative Care, Pain Management | intr: liposomal curcumin | pubs: ['34986477:RESULT (new)', '25520223:RESULT (new)']
+- NCT01052597 | UNKNOWN | results=False | PHASE4 | Curcumin for Type 2 Diabetic Patients | conds: Type 2 Diabetes Mellitus, Cardiovascular Abnormalities | intr: curcumin | pubs: ['24445038:DERIVED (new)']
+- NCT00219882 | COMPLETED | results=False | PHASE1 | Safety Study of Orally Administered Curcuminoids in Adult Subjects With Cystic Fibrosis | conds: Cystic Fibrosis | intr: standardized turmeric root extract
+- NCT04890704 | COMPLETED | results=False | EARLY_PHASE1 | Curcuminoids and Contrast-induced Acute Kidney Injury | conds: Acute Kidney Injury, Contrast Media Toxicity, Curcuminoid, Chronic Kidney Diseases | intr: Curcuminoid, Placebo | pubs: ['11979336:RESULT (new)', '31141635:RESULT (new)', '31700251:RESULT (new)', '33081797:RESULT (new)', '23314316:RESULT (new)', '29130810:RESULT (new)']
+- NCT06177483 | COMPLETED | results=False | NA | Enhanced Absorption of curQ+ or Liposomal Curcumin Formulations Versus 95% Curcumin Powder in Healthy Subjects | conds: Bioavailability | intr: 95% curcumin extract powder, curQ+ curcumin formulation, liposomal curcumin formulation
+- NCT07436130 | RECRUITING | results=False | NA | Curcumin in Critically Ill Patients With Sepsis | conds: Sepsis | intr: Curcumin, Placebo
+- NCT00027495 | COMPLETED | results=False | PHASE1 | Curcumin for the Prevention of Colon Cancer | conds: Colorectal Cancer | intr: curcumin
+- NCT00226174 | TERMINATED | results=False | PHASE2 | A Randomized, Placebo-controlled, Double-blind Clinical Trial of Curcuminoids in Oral Lichen Planus | conds: Oral Lichen Planus | intr: Curcuminoids | pubs: ['18155609:DERIVED (new)']
+- NCT04946981 | COMPLETED | results=False | NA | Recovery and Muscle Function After Supplementation With Turmeric | conds: Muscle Soreness, Pain, Muscle Damage | intr: Turmipure Gold®, Placebo | pubs: ['41040018:DERIVED (new)']
+- NCT07183215 | ENROLLING_BY_INVITATION | results=False | PHASE2,PHASE3 | Efficacy Test of Curcuminoid Standardized Turmeric Capsules to Improving Inflammatory Biomarkers in Osteoarthritis Genu | conds: Osteoarthritis | intr: Curcuminoid Standardized Turmeric Capsules, Placebo
+- NCT03621865 | COMPLETED | results=False | NA | A Comparative Pharmacokinetic Study to Evaluate the Ability of a New Formulation to Enhance Curcuminoids Bioavailability | conds: Healthy | intr: TG, STE, NOV, PHYT | pubs: ['33877323:DERIVED (new)']
+- NCT03289832 | COMPLETED | results=False | NA | Effect of Orally Delivered Phytochemicals on Aging and Inflammation in the Skin | conds: Healthy Adults | intr: Crucera-SGS, Meriva 500-SF
+- NCT04705220 | COMPLETED | results=False | NA | Effect of Nutritional Supplementation With Turmeric on the Cognitive Performance of Subjects With Metabolic Syndrome | conds: Mild Cognitive Impairment | intr: MERIVA® Tablets, Placebo Tablets
+- NCT04012424 | COMPLETED | results=False | NA | The Effect of Premedication With Curcumin on Post-endodontic Pain | conds: Acute Pulpitis | intr: curcumin group:Curcumin is an ancient coloring spice . Interestingly, it has various pharmacological
+- NCT05542394 | COMPLETED | results=False | NA | Determination of Pharmacokinetics of Different Curcuminoids Preparations: Pilot Study | conds: Plasma Levels of Different Curcuminoids Preparations | intr: Curcumin
+- NCT04506411 | COMPLETED | results=False | NA | Turmeric Efficacy for Mobility and Joint Function | conds: Knee Discomfort, Joint Pain | intr: Turmipure GOLD®, Turmeric rhizome PE 95% curcuminoids, Placebo
+- NCT03598309 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Phase II Trial to Modulate Intermediate Endpoint Biomarkers in Former and Current Smokers | conds: Lung Diseases, Lung Cancer, Protection Against | intr: Curcumin C3 complex®, Lovaza®, Placebo
+- NCT00525421 | COMPLETED | results=True | PHASE2 | A Clinical Study of Curcuminoids in the Treatment of Oral Lichen Planus | conds: Oral Lichen Planus | intr: Curcuminoids, Placebo | pubs: ['21907450:RESULT (new)']
+- NCT03262363 | UNKNOWN | results=False | PHASE2,PHASE3 | Curcumin on NFE2L2 Gene Expression, Antioxidant Capacity and Renal Function According to rs35652124 in Diabetic Nephropathy | conds: Chronic Kidney Diseases, Diabetes Mellitus, Type 2, Polymorphism | intr: Curcumin/NFE2L2 A>G, Placebo/NFE2L2 A>G
+- NCT01597765 | COMPLETED | results=False | NA | Effect of Antioxidant Cocktail in Beta-thalassemia/Hb E Patients | conds: Thalassemia | intr: curcuminoids, N-acetylcysteine, deferiprone and vitamin E, Curcuminoids and alpha-tocopherol
+- NCT03985228 | COMPLETED | results=False | NA | Nutritional Trial With Probiotic Fortified Milk in Women Affected by Insomnia | conds: Sleep Disorders | intr: Fortified milk, Placebo milk
+- NCT07052890 | COMPLETED | results=False | NA | Curcumin, Vitamin D and Green Tea in IBS-D | conds: Irritable Bowel Syndrome (IBS), Irritable Bowel Syndrome With Diarrhea (IBS-D) | intr: Curcumin, vitamin d and green tea extract, Placebo Capsule(s)
+- NCT07078630 | COMPLETED | results=False | NA | Modulation of hepcidIN With Co-supplementation of Iron and FORMulated Curcumin in Recreational Athletes | conds: Iron Supplementation and Gastrointestinal Health, Iron Deficiency | intr: Placebo, HydroCurc®, Ferrous sulphate 200mg oral tablet providing 65 mg of elemental iron
+- NCT07245979 | RECRUITING | results=False | NA | Supplementation With Sirtuin Activators in Women With Increased Body Weight | conds: Obesity & Overweight | intr: Sirtuin activators, Placebo
+- NCT02281981 | WITHDRAWN | results=False | NA | The Effects of Repeated Bouts of Downhill Running and Curcumin Supplementation on Arterial Stiffness During Recovery | conds: Vascular Stiffness | intr: Curcumin, Placebo
+- NCT06105840 | UNKNOWN | results=False | PHASE1,PHASE2 | Combination of Curcuminoid With Acupressure for Inflammation and Pain in the Elderly With Osteoarthritis Genu | conds: Osteoarthritis, Knee | intr: Acupressure and Standardized Curcuminoid from Turmeric Extract, Sham Acupressure and Placebo | pubs: ['34261600:RESULT (new)', '31718229:RESULT (new)', '34658285:RESULT (new)', '33906695:RESULT (new)', '35835645:RESULT (new)', '28437570:RESULT (new)', '25685487:RESULT (new)', '22745140:RESULT (new)', '32708619:RESULT (new)', '33452967:RESULT (new)', '35096104:RESULT (new)', '23242572:RESULT (new)', '23964444:RESULT (new)', '25050518:RESULT (new)', '33066856:RESULT (new)', '27761693:RESULT (new)', '35294665:RESULT (new)', '38771152:DERIVED (new)']
+- NCT04860050 | COMPLETED | results=False | NA | Turmeric for Memory Impairment and Cognition | conds: Cognitive Change, Mood, Stress | intr: Turmipure Gold®, Placebo
+
+### OpenAlex no-PMID trial-worded - 16677 hits, 21 without PMID, 21 new
+- new | 2026 | 10.3390/jal6020035 | article | The Effect of Boosting Dietary Lactobacillus and Phytochemical Rich Foods on Biomarkers of Longevity—A Phase II Randomised Placebo Controlled Trial | Journal of Ageing and Longevity
+- new | 2026 | 10.1155/dth/8731967 | article | Efficacy and Safety of Topical Sanshool‐Derived Formulations for Melasma: A Randomized, Double‐Blind, Placebo‐Controlled Trial | Dermatologic Therapy
+- new | 2025 | 10.34172/jkmu.3820 | article | Effect of Curcumin Nanomicelle on the Intensity of Dysmenorrhea in Endometriosis Patients: A Randomized Triple-Blind Placebo-Controlled Trial | Majallah-i dānishgāh-i ̒ulum-i pizishkī-
+- new | 2025 | 10.1016/j.ard.2025.06.1210 | conference-abstract | EFFECT OF A COMBINATION OF C. LONGA AND B. SERRATA EXTRACTS ON HAND OSTEOARTHRITIS. RESULTS OF A DOUBLE-BLIND, RANDOMIZED, PLACEBO-CONTROLLED, MULTICENTER TRIAL | Annals of the Rheumatic Diseases
+- new | 2025 | 10.54029/2025rkk | review | The role of curcumin supplementation in patients with migraine: A meta-analysis of randomized controlled trial | Neurology Asia
+- new | 2024 | 10.1016/j.aimed.2024.10.015 | article | Curcuma longa L. (turmeric) as adjuvant therapy in childhood idiopathic nephrotic syndrome: A double-blind, randomized, placebo-controlled clinical trial | Advances in Integrative Medicine
+- new | 2024 | 10.1016/j.ekir.2024.02.460 | conference-abstract | Antioxidant effects of a mix containing Curcuma longa L. and green propolis extract on patients undergoing hemodialysis: results from a randomised clinical trial | Kidney International Reports
+- new | 2023 | 10.1016/j.ibneur.2023.08.1518 | article | THE EFFECT OF CURCUMA LONGA ON SLEEP QUALITY IN PATIENTS WITH ACUTE CORONARY SYNDROME: A TRIPLE-BLIND RANDOMIZED CLINICAL TRIAL | IBRO Neuroscience Reports
+- new | 2023 | 10.61186/jmp.22.86.1 | article | Antihyperglycemic efficacy and safety of AKROPOL, a Persian medicine poly-herbal extract mixture, in the treatment of type 2 diabetic patients: a randomized, double-blind and place | Payam Marafat Journal of Social Sciences
+- new | 2020 | 10.1136/annrheumdis-2020-eular.5139 | conference-abstract | A RANDOMISED PLACEBO-CONTROLLED CLINICAL TRIAL OF CURCUMA LONGA EXTRACT FOR TREATING SYMPTOMS AND EFFUSION-SYNOVITIS OF KNEE OSTEOARTHRITIS (CURKOA TRIAL) | Annals of the Rheumatic Diseases
+- new | 2020 | 10.1016/j.joca.2020.02.764 | article | A randomised placebo-controlled clinical trial of curcuma longa extract for treating symptoms and effusion-synovitis of knee osteoarthritis | Osteoarthritis and Cartilage
+- new | 2020 | 10.15406/ijcam.2020.13.00525 | review | A systematic review of randomised controlled trials examining Curcuma longa for dementia | International Journal of Complementary &
+- new | 2019 | 10.1093/ecco-jcc/jjy222.551 | conference-abstract | Impact of curcuma longa on clinical activity and inflammatory markers in patients with active ulcerative colitis: a double-blind randomised placebo-controlled trial | Journal of Crohn s and Colitis
+- new | 2019 | 10.1016/s0016-5085(19)37219-1 | article | 813 – Curcuma Longa Linn Versus Omeprazole in Treatment of Functional Dyspepsia, a Randomized, Double-Blind, Placebo-Controlled Trial | Gastroenterology
+- new | 2019 | 10.18203/issn.2455-4510.intjresorthop20194807 | article | The benefit of Curcuma longa and Boswellia serrata to improve quality of life in osteoarthritis patients: a randomized controlled trial | International Journal of Research in Ort
+- new | 2019 | 10.34257/gjmrhvol19is3pg51 | article | A Randomized Controlled Trial of Curcuma longa and Boswellia serrata Extract in Osteoarthritis | Global Journal of Medical Research
+- new | 2019 | https://openalex.org/W3008807608 | article | A Randomised Clinical Trial of Curcuma Longa Extract for Treating Symptoms and Effusion-Synovitis of Knee Osteoarthritis | Arthritis & Rheumatism
+- new | 2018 | 10.31024/ajpp.2018.4.5.1 | review | Curcuma longa for Arthritis pain: Systematic review of randomized controlled trial study | Asian Journal of Pharmacy and Pharmacolo
+- new | 2017 | 10.5812/ircmj.43193 | article | Effects of Turmeric on Homocysteine and Fetuin-A in Patients With Nonalcoholic Fatty Liver Disease: A Randomized Double-Blind Placebo-Controlled Study | Iranian Red Crescent Medical Journal
+- new | 2015 | 10.1111/fct.12211 | article | Effect of starch‐fortified turmeric bath on psoriasis: a parallel randomised controlled trial | Focus on Alternative and Complementary T
+- new | 2006 | 10.1016/j.tripleo.2006.06.018 | article | A randomized, double-blind, placebo-controlled, clinical trial of curcuminoids in oral lichen planus | Oral Surgery Oral Medicine Oral Patholog
+
+## cynara-scolymus (Cynara scolymus) - name clause: "Cynara scolymus"[tiab] OR "Cynara cardunculus"[tiab] OR "artichoke leaf"[tiab] OR "artichoke extract"[tiab] OR "artichoke"[ti]
+
+### PubMed HT - 91 hits, 91 not already listed above, 80 new
+- new | 2026 | 41741526 |  | Combined herbicidal effects of Cynara scolymus and Papaver rhoeas on weed control through phytochemical analysis. | Sci Rep
+- new | 2026 | 42597704 | Review | Comparative Efficacy of Herbal Products for Improving Liver Enzymes and Inflammation in Metabolic Dysfunction-Associated Steatotic Liver Disease: A Systematic Review and Network Me | Gastro Hep Adv
+- HELD REF-3510 | 2026 | 41274796 | Randomized Controlled Trial | Artichoke leaf extract reduces steatosis and decreases liver size in prebariatric patients: A randomized placebo-controlled pilot trial-The "SteatoChoke-Study". | J Clin Lipidol
+- new | 2026 | 42668494 | Review | Comparative Efficacy of Herbal Products on Metabolic Parameters in Metabolic-Dysfunction Associated Liver Disease: A Systematic Review and Network Meta-Analysis. | Gastro Hep Adv
+- new | 2026 | 42115971 |  | Integrated mineral fertilizer and vermicompost effects on soil health and inulin of Jerusalem artichoke genotypes under a tropical savanna climate. | BMC Plant Biol
+- new | 2026 | 41539918 | Review | The complex relationship between cardiologists and lipid-lowering dietary supplements: Hate or love? | Nutr Metab Cardiovasc Dis
+- new | 2025 | 39940310 | Scoping Review | Evaluating Bioactive-Substance-Based Interventions for Adults with MASLD: Results from a Systematic Scoping Review. | Nutrients
+- new | 2025 | 40147213 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of a novel nutraceutical combination on low-density lipoprotein cholesterol and other markers of cardiometabolic health in adults with hypercholesterolaemia: A randomis | Atherosclerosis
+- new | 2025 | 40868202 |  | Effects of Novel Nutraceutical Combination on Lipid Pattern of Subjects with Sub-Optimal Blood Cholesterol Levels. | Biomedicines
+- new | 2025 | 40284112 |  | Enhancing Micronutrient Availability Through Humic Substances and Vermicompost While Growing Artichoke Plants in Calcareous Soil: Insights from a Two-Year Field Study. | Plants (Basel)
+- new | 2025 | 40634888 |  | Adaptive responses of Jerusalem artichoke to mid-season drought: effects on phenolic compounds and p-coumaric acid content. | BMC Plant Biol
+- new | 2024 | 38892519 | Randomized Controlled Trial | A Randomized, Double-Blind, Placebo-Controlled Clinical Trial on the Effect of a Dietary Supplement Containing Dry Artichoke and Bergamot Extracts on Metabolic and Vascular Risk Fa | Nutrients
+- new | 2024 | 38042043 |  | A nutraceutical with Citrus bergamia and Cynara cardunculus improves endothelial function in adults with non-alcoholic fatty liver disease. | Nutrition
+- new | 2024 | 38886838 | Review/Network Meta-Analysis | Effects of different natural products in patients with non-alcoholic fatty liver disease-A network meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2023 | 37732047 |  | Three arms, double-blind, non-inferiority, randomized clinical study testing the lipid-lowering effect of a novel dietary supplement containing red yeast rice and artichoke extract | Arch Med Sci
+- new | 2023 | 36678333 | Randomized Controlled Trial | A Nutraceutical Containing Chlorogenic Acid and Luteolin Improves Cardiometabolic Parameters in Subjects with Pre-Obesity: A 6-Month Randomized, Double-Blind, Placebo-Controlled St | Nutrients
+- new | 2022 | 36556930 | Randomized Controlled Trial | Citrus Bergamia and Cynara Cardunculus Reduce Serum Uric Acid in Individuals with Non-Alcoholic Fatty Liver Disease. | Medicina (Kaunas)
+- new | 2022 | 34343812 |  | In vivo study of the bioavailability and metabolic profile of (poly)phenols after sous-vide artichoke consumption. | Food Chem
+- new | 2022 | 35949559 |  | Effects of Artichoke Supplementation on Liver Enzymes: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Clin Nutr Res
+- HELD REF-2568 | 2022 | 35763310 | Meta-Analysis/Systematic Review | Therapeutic Potential of Artichoke in the Treatment of Fatty Liver: A Systematic Review and Meta-Analysis. | J Med Food
+- new | 2022 | 36552547 |  | Antioxidant and Hepatoprotective Effect of a Nutritional Supplement with Silymarin Phytosome, Choline Chloride, l-Cystine, Artichoke, and Vitamin E in Dogs. | Antioxidants (Basel)
+- new | 2022 | 35986358 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A new nutraceutical (Livogen Plus®) improves liver steatosis in adults with non-alcoholic fatty liver disease. | J Transl Med
+- new | 2022 | 35186807 |  | Therapeutic Effects of Milk Thistle (Silybum marianum L.) and Artichoke (Cynara scolymus L.) on Nonalcoholic Fatty Liver Disease in Type 2 Diabetic Rats. | Can J Gastroenterol Hepatol
+- new | 2022 | 35949557 |  | Anti-hypertensive Effects of Artichoke Supplementation in Adults: A Systematic Review and Dose-response Meta-analysis of Randomized Controlled Trials. | Clin Nutr Res
+- new | 2022 | 36155628 | Systematic Review/Research Support, Non-U.S. Gov't | Effect of TCF7L2 on the relationship between lifestyle factors and glycemic parameters: a systematic review. | Nutr J
+- new | 2022 | 36290267 |  | Effects of Jerusalem Artichoke (Helianthus tuberosus) as a Prebiotic Supplement in the Diet of Red Tilapia (Oreochromis spp.). | Animals (Basel)
+- new | 2022 | 35440936 |  | Administration of Jerusalem artichoke reduces the postprandial plasma glucose and glucose-dependent insulinotropic polypeptide (GIP) concentrations in humans. | Food Nutr Res
+- new | 2022 | 35631240 | Randomized Controlled Trial | Effect of Dietary Supplementation with Eufortyn(®) Colesterolo Plus on Serum Lipids, Endothelial Reactivity, Indexes of Non-Alcoholic Fatty Liver Disease and Systemic Inflammation  | Nutrients
+- new | 2022 | 31994374 |  | Efficacy of artichoke and ginger extracts with simethicone to treat gastrointestinal symptoms in endurance athletes: a pilot study. | Minerva Gastroenterol (Torino)
+- new | 2022 | 35987988 | Clinical Trial, Phase II | Artichoke phytocomplex modulates serum microRNAs in patients exposed to asbestos: a first step of a phase II clinical trial. | J Exp Clin Cancer Res
+- HELD REF-3508 | 2021 | 33465383 | Meta-Analysis/Systematic Review | Effects of artichoke on blood pressure: A systematic review and meta-analysis. | Complement Ther Med
+- HELD REF-3509 | 2021 | 34383355 | Meta-Analysis/Systematic Review | The effects of Cynara scolymus L. supplementation on liver enzymes: A systematic review and meta-analysis. | Int J Clin Pract
+- new | 2021 | 33197674 | Meta-Analysis/Systematic Review | The effects of supplementation with Cynara scolymus L. on anthropometric indices: А systematic review and dose-response meta-analysis of clinical trials. | Complement Ther Med
+- new | 2021 | 35010984 | Randomized Controlled Trial | Artichoke and Bergamot Phytosome Alliance: A Randomized Double Blind Clinical Trial in Mild Hypercholesterolemia. | Nutrients
+- new | 2021 | 34925799 |  | The effects of Cynara scolymus and Silybum marianum on growth, carcass and organ characteristics, immunity, blood constitutes, liver enzymes, jejunum morphology, and fatty acid pro | Food Sci Nutr
+- HELD REF-2567 | 2021 | 34569671 | Systematic Review | Effects of artichoke leaf extract supplementation or artichoke juice consumption on lipid profile: A systematic review and dose-response meta-analysis of randomized controlled tria | Phytother Res
+- new | 2021 | 34444810 | Clinical Trial | Metabolic and Anti-Inflammatory Protective Properties of Human Enriched Serum Following Artichoke Leaf Extract Absorption: Results from an Innovative Ex Vivo Clinical Trial. | Nutrients
+- new | 2021 | 34533249 | Randomized Controlled Trial | The effects of co-administration of artichoke leaf extract supplementation with metformin and vitamin E in patients with nonalcoholic fatty liver disease: A randomized clinical tri | Phytother Res
+- HELD REF-3512 | 2020 | 32951745 | Meta-Analysis/Systematic Review | Effects of Cynara scolymus L. on glycemic indices:A systematic review and meta-analysis of randomized clinical trials. | Complement Ther Med
+- new | 2020 | 31484191 | Randomized Controlled Trial | The Effect of Cynara scolymus on Blood Pressure and BMI in Hypertensive Patients: A Randomized, Double-Blind, Placebo-Controlled, Clinical Trial. | Complement Med Res
+- new | 2020 | 32670822 |  | The synergistic effect of Citrus bergamia and Cynara cardunculus extracts on vascular inflammation and oxidative stress in non-alcoholic fatty liver disease. | J Tradit Complement Med
+- new | 2020 | 32849284 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized Clinical Trial: Bergamot Citrus and Wild Cardoon Reduce Liver Steatosis and Body Weight in Non-diabetic Individuals Aged Over 50 Years. | Front Endocrinol (Lausanne)
+- new | 2020 | 33384510 |  | Jerusalem Artichoke Powder Mixed in Enteral Feeding for Patients Who have Diarrhea in Surgical Intensive Care Unit: A Method of Preparation and a Pilot Study. | Indian J Crit Care Med
+- new | 2019 | 31225673 | Randomized Controlled Trial | Three-arm, placebo-controlled, randomized clinical trial evaluating the metabolic effect of a combined nutraceutical containing a bergamot standardized flavonoid extract in dyslipi | Phytother Res
+- new | 2019 | 30890359 |  | In vitro genotoxic and antigenotoxic effects of cynarin. | J Ethnopharmacol
+- new | 2018 | 29520889 | Randomized Controlled Trial | Efficacy of artichoke leaf extract in non-alcoholic fatty liver disease: A pilot double-blind randomized controlled trial. | Phytother Res
+- HELD REF-2566 | 2018 | 28609140 | Meta-Analysis/Systematic Review | Lipid-lowering activity of artichoke extracts: A systematic review and meta-analysis. | Crit Rev Food Sci Nutr
+- new | 2018 | 30177026 | Randomized Controlled Trial | TCF7L2-rs7903146 polymorphism modulates the effect of artichoke leaf extract supplementation on insulin resistance in metabolic syndrome: a randomized, double-blind, placebo-contro | J Integr Med
+- new | 2018 | 28410922 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Antioxidant response to artichoke leaf extract supplementation in metabolic syndrome: A double-blind placebo-controlled randomized clinical trial. | Clin Nutr
+- new | 2018 | 29193419 | Randomized Controlled Trial | Effects of artichoke leaf extract supplementation on metabolic parameters in women with metabolic syndrome: Influence of TCF7L2-rs7903146 and FTO-rs9939609 polymorphisms. | Phytother Res
+- new | 2018 | 30026514 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of Jerusalem artichoke and fermented soybean powder mixture supplementation on blood glucose and oxidative stress in subjects with prediabetes or newly diagnosed type 2 | Nutr Diabetes
+- new | 2018 | 30360471 |  | Artichoke Polyphenols Produce Skin Anti-Age Effects by Improving Endothelial Cell Integrity and Functionality. | Molecules
+- new | 2016 | 27296047 | Clinical Trial | The wild Egyptian artichoke as a promising functional food for the treatment of hepatitis C virus as revealed via UPLC-MS and clinical trials. | Food Funct
+- new | 2016 | 26813467 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of ginger (Zingiber officinalis) and artichoke (Cynara cardunculus) extract supplementation on gastric motility: a pilot randomized study in healthy volunteers. | Eur Rev Med Pharmacol Sci
+- new | 2016 | 27293900 |  | The Effect of Artichoke Leaf Extract on Alanine Aminotransferase and Aspartate Aminotransferase in the Patients with Nonalcoholic Steatohepatitis. | Int J Hepatol
+- new | 2015 | 25954317 |  | The Effect of Ginger (Zingiber officinalis) and Artichoke (Cynara cardunculus) Extract Supplementation on Functional Dyspepsia: A Randomised, Double-Blind, and Placebo-Controlled C | Evid Based Complement Alternat Med
+- new | 2015 | 25660861 | Research Support, Non-U.S. Gov't | The use of dry Jerusalem artichoke as a functional nutrient in developing extruded food with low glycaemic index. | Food Chem
+- new | 2014 | 23440660 | Randomized Controlled Trial | Metabolic management in overweight subjects with naive impaired fasting glycaemia by means of a highly standardized extract from Cynara scolymus: a double-blind, placebo-controlled | Phytother Res
+- HELD REF-0585 | 2013 | 22746542 | Randomized Controlled Trial | Beneficial effects of artichoke leaf extract supplementation on increasing HDL-cholesterol in subjects with primary mild hypercholesterolaemia: a double-blind, randomized, placebo- | Int J Food Sci Nutr
+- new | 2013 | 23266743 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect on LDL-cholesterol of a large dose of a dietary supplement with plant extracts in subjects with untreated moderate hypercholesterolaemia: a randomised, double-blind, placebo | Eur J Nutr
+- SEEN | 2013 | 23543518 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Artichoke leaf extract for treating hypercholesterolaemia. | Cochrane Database Syst Rev
+- new | 2013 | 22527287 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | LDL-cholesterol-lowering effect of a dietary supplement with plant extracts in subjects with moderate hypercholesterolemia. | Eur J Nutr
+- new | 2013 | 23815518 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A combined natural supplement lowers LDL cholesterol in subjects with moderate untreated hypercholesterolemia: a randomized placebo-controlled trial. | Int J Food Sci Nutr
+- new | 2012 | 21944262 | Research Support, Non-U.S. Gov't | Mediterranean wild plants reduce postprandial platelet aggregation in patients with metabolic syndrome. | Metabolism
+- new | 2011 | 21308825 | Randomized Controlled Trial | Appetite control and glycaemia reduction in overweight subjects treated with a combination of two highly standardized extracts from Phaseolus vulgaris and Cynara scolymus. | Phytother Res
+- new | 2010 | 20591206 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blind, placebo-controlled, cross-over study to establish the bifidogenic effect of a very-long-chain inulin extracted from globe artichoke (Cynara scolymus) in healthy hum | Br J Nutr
+- new | 2010 | 20485248 | Clinical Trial/Comparative Study/Multicenter Study | [Phytotherapy with a mixture of dry extracts with hepato-protective effects containing artichoke leaves in the management of functional dyspepsia symptoms]. | Minerva Gastroenterol Dietol [ita]
+- new | 2010 | 20187995 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Prebiotic effect of fruit and vegetable shots containing Jerusalem artichoke inulin: a human intervention study. | Br J Nutr
+- new | 2009 | 19427774 | Clinical Trial | Artichoke leave extract for chronic hepatitis C - a pilot study. | Phytomedicine
+- new | 2009 | 19821306 | Meta-Analysis/Systematic Review | Artichoke leaf extract for treating hypercholesterolaemia. | Cochrane Database Syst Rev
+- new | 2009 | 22435514 | Randomized Controlled Trial | Artichoke leaf juice contains antihypertensive effect in patients with mild hypertension. | J Diet Suppl
+- HELD REF-3513 | 2008 | 18424099 | Randomized Controlled Trial | Artichoke leaf extract (Cynara scolymus) reduces plasma cholesterol in otherwise healthy hypercholesterolemic adults: a randomized, double blind placebo controlled trial. | Phytomedicine
+- new | 2008 | 18562776 | Randomized Controlled Trial | The influence of supplementation with artichoke (Cynara scolymus L.) extract on selected redox parameters in rowers. | Int J Sport Nutr Exerc Metab
+- new | 2008 | 18499230 | Comparative Study/Research Support, Non-U.S. Gov't | Effects of chelates on plants and soil microbial community: comparison of EDTA and EDDS for lead phytoextraction. | Sci Total Environ
+- new | 2007 | 17408528 | Research Support, Non-U.S. Gov't | Absorption and metabolism of bioactive molecules after oral consumption of cooked edible heads of Cynara scolymus L. (cultivar Violetto di Provenza) in human subjects: a pilot stud | Br J Nutr
+- new | 2007 | 17684134 | Comparative Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | A pilot and feasibility study on the effects of naturopathic botanical and dietary interventions on sex steroid hormone metabolism in premenopausal women. | Cancer Epidemiol Biomarkers Prev
+- new | 2007 | 17445348 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Jerusalem artichoke and chicory inulin in bakery products affect faecal microbiota of healthy volunteers. | Br J Nutr
+- new | 2005 | 16373736 | Systematic Review | Interventions for preventing or treating alcohol hangover: systematic review of randomised controlled trials. | BMJ
+- new | 2005 | 15693705 | Research Support, Non-U.S. Gov't | Bioavailability and pharmacokinetics of caffeoylquinic acids and flavonoids after oral administration of Artichoke leaf extracts in humans. | Phytomedicine
+- new | 2004 | 15353023 | Research Support, Non-U.S. Gov't | Artichoke leaf extract reduces symptoms of irritable bowel syndrome and improves quality of life in otherwise healthy volunteers suffering from concomitant dyspepsia: a subset anal | J Altern Complement Med
+- new | 2004 | 15581909 | Clinical Trial | Artichoke juice improves endothelial function in hyperlipemia. | Life Sci
+- new | 2003 | 12791229 | Research Support, Non-U.S. Gov't/Systematic Review | Herbs for serum cholesterol reduction: a systematic view. | J Fam Pract
+- new | 2003 | 14662662 | Clinical Trial/Randomized Controlled Trial | Effectiveness of artichoke extract in preventing alcohol-induced hangovers: a randomized controlled trial. | CMAJ
+- HELD REF-3507 | 2003 | 14653829 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of artichoke leaf extract in the treatment of patients with functional dyspepsia: a six-week placebo-controlled, double-blind, multicentre trial. | Aliment Pharmacol Ther
+- new | 2002 | 12587688 | Clinical Trial/Randomized Controlled Trial | Artichoke leaf extract reduces mild dyspepsia in an open study. | Phytomedicine
+- new | 2002 | 12137691 | Systematic Review | Artichoke leaf extract for treating hypercholesterolaemia. | Cochrane Database Syst Rev
+- new | 2001 | 11697200 | Clinical Trial | Caffeic acid derivatives in artichoke extract are metabolised to phenolic acids in vivo. | Free Radic Res
+- new | 2000 | 10758778 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Efficacy of Artichoke dry extract in patients with hyperlipoproteinemia. | Arzneimittelforschung
+- new | 1994 | 23195882 |  | Increase in choleresis by means of artichoke extract. | Phytomedicine
+- new | 1958 | 13610092 |  | [Effect of Jerusalem artichoke honey-containing isocaloric diet on the sugar metabolism of diabetic children]. | Gyermekgyogyaszat [hun]
+- new | 1958 | 13566804 |  | [Fructose-containing Jerusalem artichoke honey for the supplementation of the diet of diabetic patients]. | Orv Hetil [hun]
+
+### PubMed SR - 28 hits, 8 not already listed above, 5 new
+- new | 2025 | 39488850 | Systematic Review | A systematic review on Cynara cardunculus L.: bioactive compounds, nutritional properties and food-industry applications of a sustainable food. | Nat Prod Res
+- HELD REF-3511 | 2025 | 41270328 | Meta-Analysis/Systematic Review | Artichoke and cardiometabolic health: A systematic and meta-analytic synthesis of current evidence. | Diabetes Metab Syndr
+- new | 2025 | 40282262 | Review | Exploring the Cardiovascular Potential of Artichoke-A Comprehensive Review. | Biology (Basel)
+- new | 2024 | 39200463 |  | Effect of Different Seasons and Development Stages on the Chemical Composition and Bioactive Potential of Cardoon. | Foods
+- new | 2021 | 32525777 | Systematic Review | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review. | Curr Drug Discov Technol
+- HELD REF-1635 | 2019 | 30345589 | Meta-Analysis/Systematic Review | The antioxidant activity of artichoke (Cynara scolymus): A systematic review and meta-analysis of animal studies. | Phytother Res
+- new | 2016 | 27882320 | Systematic Review | MediterrAsian Diet Products That Could Raise HDL-Cholesterol: A Systematic Review. | Biomed Res Int
+- SEEN | 2016 | 27195440 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | WITHDRAWN: Artichoke leaf extract for treating hypercholesterolaemia. | Cochrane Database Syst Rev
+
+### PubMed SAFE - 133 hits, 116 not already listed above, 113 new
+- new | 2026 | 41892235 |  | Cynara cardunculus subsp. cardunculus (Wild Artichoke) Extract: Antimicrobial Activity and Cytotoxicity, Apoptosis Induction, and Chemosensitization in Colon Cancer Cells. | Biology (Basel)
+- new | 2026 | 42364633 |  | Accumulation and health risk from heavy metals in agricultural crops in the Mantaro Valley in the central Andes of Peru. | Ecotoxicol Environ Saf
+- new | 2026 | 41795288 |  | Genotypic variability in essential and risk element accumulation in Jerusalem artichoke tubers: implications for food safety. | J Sci Food Agric
+- new | 2026 | 41751443 | Review | Phytochemical Composition and Mechanistic Pharmacology of Jerusalem Artichoke (Helianthus tuberosus L.): Implications for Functional and Therapeutic Applications. | Curr Issues Mol Biol
+- new | 2025 | 40797150 |  | Protective effects of commercial artichoke (Cynara scolymus L.) leaf powder against aflatoxin B1-induced reproductive toxicity in male rats. | Mycotoxin Res
+- new | 2025 | 40945254 | Review | Deciphering inulin from Jerusalem artichoke: Extraction, structural characteristics, bioactivities, structure-activity relationship, modifications, pharmacokinetics and application | Phytomedicine
+- new | 2025 | 41158715 |  | Therapeutic Potential of Cynara scolymus Extract and Bifidobacterium longum in Alleviating Diabetes-Induced Male Reproductive Dysfunction. | Int J Endocrinol
+- new | 2025 | 39736455 |  | Mitigation of sodium fluoride-induced growth inhibition, immunosuppression, hepatorenal damage, and dysregulation of oxidative stress, apoptosis, and inflammation-related genes by  | Comp Biochem Physiol B Biochem Mol Biol
+- new | 2025 | 41416592 |  | Hepatoprotective potential of solvent-derived artichoke leaf extracts against cyclophosphamideinduced liver injury in rat model. | Pol J Vet Sci
+- new | 2025 | 40113111 |  | Artichoke water extract protects against Lead-induced hepatotoxicity by activating Nrf2 signaling and inhibiting NLRP3/caspase-1/GSDMD-mediated pyroptosis. | J Ethnopharmacol
+- new | 2025 | 41035894 |  | Screening of Jiangshui-originated lactic acid bacteria with high hypoglycemic properties and study on functional properties of Jerusalem artichoke Jiangshui. | Front Microbiol
+- new | 2025 | 40987404 | Research Support, Non-U.S. Gov't | Preparation and characteristics of novel Jerusalem artichoke polysaccharides-based polymeric micelles for poorly water-soluble drug delivery. | J Pharm Sci
+- new | 2025 | 40807535 |  | Evaluation of the Biological Properties and Antibacterial Activities of the Natural Food Supplement "Epavin" for Liver Detoxification and Protection. | Foods
+- new | 2025 | 41373965 | Review | Medicinal Plants in Food Supplements for Gastrointestinal Disorders: Critical Assessment of Health Claims on Gastric Acid Regulation. | Nutrients
+- new | 2024 | 39563466 | Comparative Study/Review | Efficacy, side effects, adherence, affordability, and procurement of dietary supplements for treating hypercholesterolemia: a narrative review. | J Health Popul Nutr
+- new | 2024 | 38305313 |  | Cynara Cardunculus Flavonoids-rich Fraction Alleviates Liver Injury in Mice Overconsumed Fructose Model. | Recent Adv Food Nutr Agric
+- new | 2024 | 37559241 | Review | Medicinal Plant-derived Phytochemicals in Detoxification. | Curr Pharm Des
+- HELD REF-1634 | 2024 | 38542782 | Review | Functional and Therapeutic Potential of Cynara scolymus in Health Benefits. | Nutrients
+- new | 2024 | 37774613 |  | Insights into the phenolic composition and in vitro bioactivity of cardoon capitulum: A nutraceutical-oriented valorization study. | Food Chem
+- new | 2024 | 38493879 |  | AuNPs with Cynara scolymus leaf extracts rescue arsenic-induced neurobehavioral deficits and hippocampal tissue toxicity in Balb/c mice through D1R and D2R activation. | Environ Toxicol Pharmacol
+- new | 2024 | 38760683 |  | The Dark Side of the pollen: BSA-seq identified genomic regions linked to male sterility in globe artichoke. | BMC Plant Biol
+- new | 2023 | 37121580 | Case Reports | Airborne allergic contact dermatitis to artichoke (Cynara cardunculus L.) in a greengrocer. | Contact Dermatitis
+- new | 2023 | 36196508 |  | Hepatoprotective effects of a chemically-characterized extract from artichoke (Cynara scolymus L.) against AFB(1)-induced toxicity in rats. | Drug Chem Toxicol
+- new | 2023 | 36969549 |  | Safety evaluation of the food enzyme phytepsin from Cynara cardunculus L. | EFSA J
+- new | 2023 | 36685304 |  | Bioguided isolation of potential antitumor agents from the aerial parts of cultivated cardoon (Cynara cardunculus var. altilis). | Saudi Pharm J
+- new | 2023 | 36279404 | Case Reports | Contact sensitivity to sesquiterpene lactone mix and artichoke in a patient with severe recurrent dermatitis: A puzzling case. | Contact Dermatitis
+- new | 2023 | 37675925 | Review | Natural angiotensin converting enzyme inhibitors: A safeguard against hypertension, respiratory distress syndrome, and chronic kidney diseases. | Phytother Res
+- new | 2023 | 38045604 |  | Evaluation of acute, subacute, and subchronic toxicity of a hepatoprotective herbal formulation. | Toxicol Rep
+- new | 2022 | 36556233 |  | Artichoke (Cynara Scolymus) Methanolic Leaf Extract Alleviates Diethylnitrosamine-Induced Toxicity in BALB/c Mouse Brain: Involvement of Oxidative Stress and Apoptotically Related  | J Pers Med
+- new | 2022 | 36507101 |  | Safety evaluation of the food enzyme phytepsin from Cynara cardunculus L. | EFSA J
+- new | 2022 | 36507100 |  | Safety evaluation of the food enzyme phytepsin from Cynara cardunculus L. | EFSA J
+- new | 2022 | 35909495 |  | Artichoke Leaf Extract-Mediated Neuroprotection against Effects of Aflatoxin in Male Rats. | Biomed Res Int
+- new | 2022 | 36507102 |  | Safety evaluation of the food enzyme phytepsin from Cynara cardunculus L. | EFSA J
+- new | 2022 | 36207736 | Review | Sesquiterpenoid lactones as potential anti-cancer agents: an update on molecular mechanisms and recent studies. | Cancer Cell Int
+- new | 2022 | 35741914 |  | Modification of Artichoke Dietary Fiber by Superfine Grinding and High-Pressure Homogenization and Its Protection against Cadmium Poisoning in Rats. | Foods
+- new | 2022 | 35214808 |  | Metals Induce Genotoxicity in Three Cardoon Cultivars: Relation to Metal Uptake and Distribution in Extra- and Intracellular Fractions. | Plants (Basel)
+- new | 2021 | 34887750 |  | Anticholesterolemic Activity of Three Vegetal Extracts (Artichoke, Caigua, and Fenugreek) and Their Unique Blend. | Front Pharmacol
+- new | 2021 | 33920761 | Research Support, Non-U.S. Gov't | Pro-Apoptotic Activity of Artichoke Leaf Extracts in Human HT-29 and RKO Colon Cancer Cells. | Int J Environ Res Public Health
+- new | 2020 | 31930886 |  | Phytochemical Analysis and Toxicity Assessment of Artichoke By-product Extract. | Pak J Biol Sci
+- new | 2020 | 32370268 | Review | A New Insight on Cardoon: Exploring New Uses besides Cheese Making with a View to Zero Waste. | Foods
+- new | 2020 | 32225012 |  | Influence of Cardoon Flower (Cynara cardunculus L.) and Flock Lactation Stage in PDO Serra da Estrela Cheese. | Foods
+- new | 2020 | 33178437 |  | Efficacy of oral Cynara scolymus and Silybum marianum on toxicity of imidocarb dipropionate in horses. | Vet Rec Open
+- new | 2020 | 31739724 | Comparative Study | Hepatoprotective effect of artichoke leaf extracts in comparison with silymarin on acetaminophen-induced hepatotoxicity in mice. | J Immunoassay Immunochem
+- new | 2020 | 32726065 |  | [Study on literature of artichoke and properties of traditional Chinese medicine]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2020 | 31998443 |  | Artichoke Polyphenols Sensitize Human Breast Cancer Cells to Chemotherapeutic Drugs via a ROS-Mediated Downregulation of Flap Endonuclease 1. | Oxid Med Cell Longev
+- new | 2020 | 32583794 | Review | Jerusalem artichoke (Helianthus tuberosus L.) as a medicinal plant and its natural products. | Cell Mol Biol (Noisy-le-grand)
+- new | 2020 | 31809787 |  | Comparative biochemical and histopathological evaluations proved that receptacle is the most effective part of Cynara scolymus against liver and kidney damages. | J Ethnopharmacol
+- new | 2020 | 31889279 |  | Herbal syrup from chicory and artichoke leaves ameliorate liver damage induced by deltamethrin in weanling male rats. | Environ Sci Pollut Res Int
+- new | 2020 | 32786546 | Research Support, Non-U.S. Gov't | Effects of Standardized Medicinal Plant Extracts on Drug Metabolism Mediated by CYP3A4 and CYP2D6 Enzymes. | Chem Res Toxicol
+- new | 2020 | 32017132 | Case Reports | Airborne allergic contact dermatitis caused by artichoke. | Contact Dermatitis
+- HELD REF-1636 | 2019 | 30611817 |  | The effect of Cynara scolymus (artichoke) on maternal reproductive outcomes and fetal development in rats. | Regul Toxicol Pharmacol
+- HELD REF-1639 | 2019 | 31469651 |  | Modulatory effects of artichoke (Cynara scolymus L.) leaf extract against oxidative stress and hepatic TNF-α gene expression in acute diazinon-induced liver injury in rats. | J Basic Clin Physiol Pharmacol
+- new | 2019 | 30668351 |  | Contribution of human UDP-glucuronosyltransferases to the antioxidant effects of propolis, artichoke and silymarin. | Phytomedicine
+- new | 2019 | 31732057 | Research Support, Non-U.S. Gov't | Valorisation of the green waste parts from turnip, radish and wild cardoon: Nutritional value, phenolic profile and bioactivity evaluation. | Food Res Int
+- new | 2018 | 28901251 | Case Reports | Case Report: Severe Hematological, Muscle and Liver Toxicity Caused by Drugs and Artichoke Infusion Interaction in an Elderly Polymedicated Patient. | Curr Drug Saf
+- new | 2018 | 29413628 |  | Effect of soil salinity on fructan content and polymerization degree in the sprouting tubers of Jerusalem artichoke (Helianthus tuberosus L.). | Plant Physiol Biochem
+- new | 2017 | 28190352 |  | Polyphenol Interactions Mitigate the Immunogenicity and Allergenicity of Gliadins. | J Agric Food Chem
+- new | 2017 | 28357802 |  | Studies on the protective effect of the artichoke (Cynara scolymus) leaf extract against cadmium toxicity-induced oxidative stress, hepatorenal damage, and immunosuppressive and he | Environ Sci Pollut Res Int
+- new | 2017 | 28147701 | Comparative Study | Genotoxic and chemopreventive assessment of Cynara scolymus L. aqueous extract in a human-derived liver cell line. | Drug Chem Toxicol
+- new | 2017 | 29142395 |  | Biological Effect of Cynara cardunculus on Kidney Status of Hypercholesterolemic Rats. | Pharmacogn Mag
+- new | 2017 | 28960556 |  | Incidence of Pyrrolizidine Alkaloids in Herbal Medicines from German Retail Markets: Risk Assessments and Implications to Consumers. | Phytother Res
+- new | 2017 | 28891983 |  | Protective Effects of Ethanolic Extracts from Artichoke, an Edible Herbal Medicine, against Acute Alcohol-Induced Liver Injury in Mice. | Nutrients
+- new | 2016 | 27089602 | Case Reports | [Is it possible to decrease cholesterol levels with dietary supplements?]. | Rev Med Suisse [fre]
+- new | 2016 | 27735918 |  | [Nonalcoholic steatohepatitis and biliary sludge in people with metabolic syndrome]. | Ter Arkh [rus]
+- new | 2016 | 27026910 |  | The hepatocurative effects of Cynara scolymus L. leaf extract on carbon tetrachloride-induced oxidative stress and hepatic injury in rats. | Springerplus
+- new | 2016 | 27221884 |  | Synergistic Effects of Jerusalem Artichoke in Combination with Pegylated Interferon Alfa-2a and Ribavirin Against Hepatic Fibrosis in Rats. | Asian Pac J Cancer Prev
+- new | 2015 | 25243875 |  | Protective effect of artichoke leaf extract against paracetamol-induced hepatotoxicity in rats. | Pharm Biol
+- new | 2015 | 26226680 | Research Support, Non-U.S. Gov't | [Effect of Cynaropicrin on 2,3,4,7,8-Pentachlorodibenzofuran-induced Wasting Syndrome and Oxidative Stress]. | Fukuoka Igaku Zasshi [jpn]
+- new | 2015 | 26729958 | Comparative Study | Prophylactic role of coenzyme Q10 and Cynara scolymus L on doxorubicin-induced toxicity in rats: Biochemical and immunohistochemical study. | Indian J Pharmacol
+- new | 2015 | 25652645 | Research Support, Non-U.S. Gov't | Effect of feeding Jerusalem artichoke (Helianthus tuberosus) root as prebiotic on nutrient utilization, fecal characteristics and serum metabolite profile of captive Indian leopard | Zoo Biol
+- new | 2014 | 25374729 |  | The possible efficacy of artichoke in fluconazole related hepatotoxicity. | Case Reports Hepatol
+- new | 2014 | 24688296 |  | Effects of artichoke (Cynara scolymus) leaf and bloom head extracts on chemically induced DNA lesions in Drosophila melanogaster. | Genet Mol Biol
+- new | 2014 | 24868885 |  | An integrated approach to the evaluation of a metabolomic fingerprint for a phytocomplex. Focus on artichoke [Cynara cardunculus subsp. scolymus] leaf. | Nat Prod Commun
+- new | 2014 | 24767116 | Research Support, Non-U.S. Gov't | Cytochrome P450s from Cynara cardunculus L. CYP71AV9 and CYP71BL5, catalyze distinct hydroxylations in the sesquiterpene lactone biosynthetic pathway. | Plant Sci
+- new | 2014 | 24968200 |  | Beneficial effects of soluble dietary Jerusalem artichoke (Helianthus tuberosus) in the prevention of the onset of type 2 diabetes and non-alcoholic fatty liver disease in high-fru | Br J Nutr
+- new | 2013 | 23745593 | Research Support, Non-U.S. Gov't | Protective effect of artichoke (Cynara scolymus) leaf extract against lead toxicity in rat. | Pharm Biol
+- new | 2013 | 23330610 | Research Support, Non-U.S. Gov't | In vivo genotoxicity evaluation of an artichoke (Cynara scolymus L.) aqueous extract. | J Food Sci
+- new | 2013 | 23830816 | Research Support, Non-U.S. Gov't | Protective activity of Cynara scolymus L. leaf extract against chemically induced complex genomic alterations in CHO cells. | Phytomedicine
+- new | 2013 | 23274746 | Research Support, Non-U.S. Gov't | Artichoke induces genetic toxicity in the cytokinesis-block micronucleus (CBMN) cytome assay. | Food Chem Toxicol
+- new | 2012 | 23421105 | Review | [Artichoke--herbal drug]. | Przegl Lek [pol]
+- new | 2012 | 22272770 | Research Support, Non-U.S. Gov't | The miRNAome of globe artichoke: conserved and novel micro RNAs and target analysis. | BMC Genomics
+- new | 2012 | 22892059 | Research Support, Non-U.S. Gov't | Artichoke induces genetic toxicity and decreases ethyl methanesulfonate-related DNA damage in Chinese hamster ovary cells. | J Med Food
+- new | 2012 | 23123594 | Research Support, Non-U.S. Gov't | Efficacy of antioxidants in human hair. | J Photochem Photobiol B
+- new | 2011 | 22123385 | Case Reports/Letter | Allergy to jerusalem artichoke due to immediate IgE reaction to Bet v1-like allergen. | Ann Allergy Asthma Immunol
+- new | 2010 | 20091747 |  | The effect of artichoke (Cynara scolymus L.) extract on respiratory chain system activity in rat liver mitochondria. | Phytother Res
+- new | 2010 | 20225077 | Research Support, Non-U.S. Gov't | Inhibitory effect of the flowers of artichoke (Cynara cardunculus) on TPA-induced inflammation and tumor promotion in two-stage carcinogenesis in mouse skin. | J Nat Med
+- new | 2009 | 19236426 | Case Reports/Letter | Phytocontact dermatitis caused by artichoke: an exceptionally rare case. | Clin Exp Dermatol
+- new | 2008 | 18780283 |  | The effect of artichoke (Cynara scolymus L.) extract on ROS generation in HUVEC cells. | Phytother Res
+- new | 2008 | 18583118 | Research Support, Non-U.S. Gov't | Effect of pretreatment with artichoke extract on carbon tetrachloride-induced liver injury and oxidative stress. | Exp Toxicol Pathol
+- new | 2008 | 17705147 | Research Support, Non-U.S. Gov't | Growth inhibitory effect of ethyl acetate-soluble fraction of Cynara cardunculus L. in leukemia cells involves cell cycle arrest, cytochrome c release and activation of caspases. | Phytother Res
+- new | 2008 | 18768152 |  | Antiproliferative activity against human tumor cell lines and toxicity test on Mediterranean dietary plants. | Food Chem Toxicol
+- new | 2007 | 17161901 | Case Reports | "The artichoke heart": the inverse counterpart of left ventricular apical ballooning. | Resuscitation
+- new | 2007 | 18166904 | Case Reports/Letter | [Acute hepatic injury secondary to ingestion of artichoke extracts (Hepanephrol]. | Gastroenterol Clin Biol [fre]
+- new | 2006 | 17159779 | Evaluation Study/Research Support, Non-U.S. Gov't | Research on biomodulatory effect of natural compounds. | Neuro Endocrinol Lett
+- new | 2003 | 12877457 | Case Reports | Occupational rhinitis and bronchial asthma due to artichoke (Cynara scolymus). | Ann Allergy Asthma Immunol
+- new | 2003 | 12906912 | Research Support, Non-U.S. Gov't/Validation Study | Validated method for the determination of six metabolites derived from artichoke leaf extract in human plasma by high-performance liquid chromatography-coulometric-array detection. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2002 | 12226498 | Research Support, Non-U.S. Gov't | Engineering herbicide metabolism in tobacco and Arabidopsis with CYP76B1, a cytochrome P450 enzyme from Jerusalem artichoke. | Plant Physiol
+- new | 2000 | 11025147 | Research Support, Non-U.S. Gov't | Hepatoprotective effects of Turkish folk remedies on experimental liver injury. | J Ethnopharmacol
+- new | 2000 | 10879999 | Case Reports | A case of allergy to globe artichoke and other clinical cases of rare food allergy. | J Investig Allergol Clin Immunol
+- new | 1998 | 9672491 | Case Reports | [Hypercholesterolemia during medication with artichoke extracts]. | Dtsch Med Wochenschr [ger]
+- new | 1997 | 23195590 |  | Artichoke leaf extract - Recent findings reflecting effects on lipid metabolism, liver and gastrointestinal tracts. | Phytomedicine
+- new | 1997 | 12223655 |  | Regulation of the Cinnamate 4-Hydroxylase (CYP73A1) in Jerusalem Artichoke Tubers in Response to Wounding and Chemical Treatments. | Plant Physiol
+- new | 1996 | 8621859 | Case Reports | Occupational contact urticaria syndrome caused by globe artichoke (Cynara scolymus). | J Allergy Clin Immunol
+- new | 1996 | 8692541 | Research Support, Non-U.S. Gov't | Inhibitory effect of taraxastane-type triterpenes on tumor promotion by 12-O-tetradecanoylphorbol-13-acetate in two-stage carcinogenesis in mouse skin. | Oncology
+- new | 1996 | 9190602 |  | [An experimental study of the skin- and eye-irritating action of an artichoke preparation]. | Probl Khig [bul]
+- new | 1993 | 8097885 | Comparative Study/Research Support, Non-U.S. Gov't | Isolation and sequence of a cDNA encoding the Jerusalem artichoke cinnamate 4-hydroxylase, a major plant cytochrome P450 involved in the general phenylpropanoid pathway. | Proc Natl Acad Sci U S A
+- new | 1989 | 2499315 |  | Immunochemical characterization of NADPH-cytochrome P-450 reductase from Jerusalem artichoke and other higher plants. | Biochem J
+- new | 1987 | 3430163 | Research Support, Non-U.S. Gov't | Hepatoprotective activity of polyphenolic compounds from Cynara scolymus against CCl4 toxicity in isolated rat hepatocytes. | J Nat Prod
+- new | 1983 | 6225611 | Case Reports | Allergic contact dermatitis from artichoke, Cynara scolymus. | Contact Dermatitis
+- new | 1980 | 7438746 | Case Reports | Compositae dermatitis in South Australia: contact dermatitis from Ixodia achillaeoides and Cynara cardunculus or the tribulations of a dry flower arranger. | Contact Dermatitis
+- new | 1979 | 41685 | Review | Preparation of high-fructose syrup from the tubers of the Jerusalem artichoke (Helianthus tuberosus L. | CRC Crit Rev Food Sci Nutr
+- new | 1978 | 710415 |  | A microsomal (cytochrome P-450)-linked lauric-acid-monooxygenase from aged Jerusalem-artichoke-tuber tissues. | Eur J Biochem
+- new | 1978 | 638838 |  | Vectorial transport of proteins by membrane-bound ribosomes of nongrowing and growing Jerusalem artichoke tuber cells. | Can J Biochem
+- new | 1975 | 1227506 |  | The activation of non-phosphorylating electron transport by adenine nucleotides in Jerusalem-artichoke (Helianthus tuberosus) mitochondria. | Biochem J
+- new | 1974 | 4375472 |  | The influence of osmolarity on the reduction of exogenous cytochrome c and permeability of the inner membrane of Jerusalem artichoke mitochondria. | Biochem J
+- new | 1964 | 14145564 |  | [ALLERGY TO MARKET GARDEN PLANTS: ARTICHOKE, CELERY, PARSLEY]. | Concours Med [fre]
+
+### PubMed OBS - 8 hits, 1 not already listed above, 1 new
+- new | 2014 | 24642692 | Research Support, Non-U.S. Gov't | Usage of plant food supplements across six European countries: findings from the PlantLIBRA consumer survey. | PLoS One
+
+### PubMed REV - 58 hits, 20 not already listed above, 18 new
+- new | 2025 | 40443238 | Review | Unravelling the Mechanistic Approach of Aflatoxin Contaminated Food on Neurodegenerative Diseases-A Novel Approach. | J Appl Toxicol
+- new | 2024 | 38790727 | Review | Globe Artichoke (Cynara scolymus L.) By-Products in Food Applications: Functional and Biological Properties. | Foods
+- new | 2024 | 39124930 | Review | Chinese Artichoke (Stachys affinis Bunge): The Nutritional Profile, Bioactive Profile and Food Applications-A Review. | Molecules
+- new | 2024 | 38474726 | Review | An Overview of the Versatility of the Parts of the Globe Artichoke (Cynara scolymus L.), Its By-Products and Dietary Supplements. | Nutrients
+- new | 2023 | 35975861 | Review | Chlorogenic Acid: A Dietary Phenolic Acid with Promising Pharmacotherapeutic Potential. | Curr Med Chem
+- new | 2023 | 37628031 | Review | Future Perspective and Technological Innovation in Cheese Making Using Artichoke (Cynara scolymus) as Vegetable Rennet: A Review. | Foods
+- new | 2023 | 37172504 | Review | The wide spectrum of industrial applications for cultivated cardoon (Cynara cardunculus L. var. Altilis DC.): A review. | Food Chem
+- new | 2022 | 35159487 | Review | Bioactive Compounds from Cardoon as Health Promoters in Metabolic Disorders. | Foods
+- new | 2022 | 35313442 | Review | Artichoke and bergamot extracts: a new opportunity for the management of dyslipidemia and related risk factors. | Minerva Med
+- new | 2021 | 32153237 | Review | Effect of Cynara scolymus and its derivatives on broilers: an updated review. | Anim Biotechnol
+- new | 2021 | 34867345 | Review | Valuable Hepatoprotective Plants - How Can We Optimize Waste Free Uses of Such Highly Versatile Resources? | Front Pharmacol
+- new | 2020 | 31979230 | Review | Plant Aspartic Proteases for Industrial Applications: Thistle Get Better. | Plants (Basel)
+- HELD REF-2569 | 2018 | 30308247 | Review | The effect of artichoke on lipid profile: A review of possible mechanisms of action. | Pharmacol Res
+- new | 2018 | 29369521 | Review | Brief Challenges on Medicinal Plants: An Eye-Opening Look at Ageing-Related Disorders. | Basic Clin Pharmacol Toxicol
+- new | 2018 | 29881456 | Review | Recent advances in bio-based multi-products of agricultural Jerusalem artichoke resources. | Biotechnol Biofuels
+- new | 2018 | 29696340 | Review | Cardoon-based rennets for cheese production. | Appl Microbiol Biotechnol
+- new | 2017 | 29073305 | Review | [Topinambour - nutritional and medical properties of the Jerusalem artichoke (Helianthus tuberoses L.)]. | Pediatr Endocrinol Diabetes Metab [pol]
+- HELD REF-0461 | 2015 | 26310198 | Review | Pharmacological Studies of Artichoke Leaf Extract and Their Health Benefits. | Plant Foods Hum Nutr
+- new | 2015 | 25913379 | Research Support, Non-U.S. Gov't/Review | Economically viable components from Jerusalem artichoke (Helianthus tuberosus L.) in a biorefinery concept. | Int J Mol Sci
+- new | 2012 | 22079795 | Research Support, Non-U.S. Gov't/Review | Plants used as antidiabetics in popular medicine in Rio Grande do Sul, southern Brazil. | J Ethnopharmacol
+
+### ClinicalTrials.gov - 37 registered studies
+- NCT01872455 | COMPLETED | results=False | PHASE4 | Diet Rich in N-3 Polyunsaturated Fatty Acids in Renal Transplant Recipients | conds: Kidney Transplantation | intr: n-3 rich diet, Usual diet
+- NCT06820710 | COMPLETED | results=False | NA | Multidomain Interventions for Elderly Individuals in Residential Structures | conds: Aging, Age-Related Cognitive Decline, Sarcopenia, Long Term Care Facility | intr: Physical activity, Cognitive stimulation, Nutritional Intervention, Vaccinations | pubs: ['42594504:DERIVED (new)', '40868616:DERIVED (new)']
+- NCT06798948 | RECRUITING | results=False | PHASE2 | Effect of the Combined Application of Cynara Scolymus, Silybum Marianum, Curcuma Longa, and Glycyrrhiza Glabra in Improving Metabolic Associ | conds: Metabolic-associated Fatty Liver Disease (MAFLD) | intr: Combination of cynara scolymus, silybum marianum, curcuma longa, and glycyrrhiza glabra, Placebo mal | pubs: ['38879879:RESULT (new)', '38674860:RESULT (new)', '36508737:RESULT (new)', '36082508:RESULT (new)']
+- NCT04243187 | UNKNOWN | results=False | NA | Evaluation of Gastrointestinal Symptoms Following Chilean Native Beans Consumption | conds: Gastrointestinal Disease, Flatulence, Gastrointestinal Tolerance, Distension; Bowel | intr: Chilean Native Beans
+- NCT04697121 | COMPLETED | results=False | NA | Artichoke and Bergamot Phytosome | conds: Hypercholesterolemia | intr: Combined Bergamot phytosome and Artichoke leaf dry extract, Placebo
+- NCT02270164 | WITHDRAWN | results=False | NA | The Impact of Artichoke Leaf Extract on Blood Cholesterol: Primary Study | conds: Lipid Metabolism Disorders | intr: Artichoke Leaf Extract, Placebo
+- NCT04616404 | COMPLETED | results=False | NA | The Metabolic Effects of Cynara Supplementation in Overweight and Obese Class I Subjects With Newly Detected Impaired Fasting Glycaemia. | conds: Insulin Sensitivity, Obesity, Overweight | intr: 500 mg of artichoke extract, Placebo
+- NCT07515573 | NOT_YET_RECRUITING | results=False | NA | Effect of Compound (Cardiol Forte) on Lipid And Glycemic Parameters in Low Cardiovascular Risk Individuals | conds: Dyslipidemia | intr: Cardiol Forte, Placebo
+- NCT04574505 | COMPLETED | results=False | NA | Food Supplementation With Eufortyn Colesterolo Plus for LDL Modulation in Subjects With Polygenic Hypercholesterolemia | conds: Hypercholesterolemia | intr: Eufortyn Colesterolo Plus, Placebo | pubs: ['35631240:RESULT (new)']
+- NCT04233658 | UNKNOWN | results=False | PHASE3 | Cynara Scolymus Extract for Treatment of Diabetes Mellitus Type 2 | conds: Diabetes Mellitus, Type 2 | intr: Placebo, Cynara Scolymus
+- NCT07475299 | NOT_YET_RECRUITING | results=False | NA | Synbiotic Supplement With Botanical Extracts for Gut Microbiota Balance in Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome (IBS) | intr: Synbiotic supplement containing probiotic strains, botanical extracts, magnesium, vitamin B1, and L-
+- NCT04095949 | COMPLETED | results=False | NA | Absorption, Metabolism and Excretion of Artichoke Polyphenols in Healthy Individuals | conds: Healthy Men and Women | intr: Artichokes
+- NCT01212146 | COMPLETED | results=False | NA | Probiotic-enriched Artichoke in Functional Constipation | conds: Functional Constipation | intr: Lactobacillus paracasei IMPC 2.1 LMGP22043, Ordinary artichokes | pubs: ['22225544:DERIVED (new)']
+- NCT07415720 | RECRUITING | results=False | NA | Artichoke By-products Rich in Hydroxycinnamic Acids and Mediterranean Diet for Type 2 Diabetes Prevention. | conds: Diabete Type 2, Obesity & Overweight, Insulin Resistance Syndrome | intr: Artichoke by-product capsules, Energy-restricted Mediterranean diet (erMeDiet), Placebo capsules, Ph
+- NCT07178769 | RECRUITING | results=False | NA | Study To Evaluate The Efficacy And Safety Of A Nutritional Supplement Based On Bergamot, Artichoke And Other Ingredients For Reducing Choles | conds: Cholesterolemia | intr: ARKOSTEROL
+- NCT06247137 | COMPLETED | results=False | NA | Effect of a Food Supplementation With a Combined Food Supplement on Lipid Pattern, Indexes of Non-alcoholic Fatty Liver Disease and Systemic | conds: Hypercholesterolemia | intr: Dietary Supplement, Placebo
+- NCT04341961 | COMPLETED | results=False | NA | Effect of Pomegranate Juice Consumption on the Health of Mothers and Infants During Breastfeeding | conds: Breastfeeding | intr: Pomegranate Juice
+- NCT07295327 | RECRUITING | results=False | NA | Effect of Two Food Supplements on Lipid Profile in Patients With Mild Hypercholesterolemia | conds: Hypercholesterolemia | intr: Cynacol, Metacol
+- NCT02076672 | COMPLETED | results=False | PHASE2 | Investigation of the Anti-Cancer Activity of Artichoke Extract in an Asbestos-Exposed Population | conds: Asbestos Exposure | intr: Artichoke WPC | pubs: ['35987988:DERIVED (new)']
+- NCT02506582 | COMPLETED | results=False | NA | The Effects of Jerusalem Artichoke and Fermented Soybean Powder Mixture Supplementation on Glucose Control | conds: Prediabetes, Newly Diagnosed Type 2 Diabetes | intr: jerusalem artichoke and fermented soybeans powder mixture, placebo
+- NCT07615673 | RECRUITING | results=False | NA | Exploration of Potential Biomarkers of Polyphenol Intake From Artichoke By-product Supplements | conds: Healthy Adult Participants, ADME, Polyphenols Absorption Profile, Polyphenolic Compounds and Metabolism | intr: Single intake of a supplement derived from artichoke by-products
+- NCT01139398 | COMPLETED | results=False | NA | Effect of Limicol on (LDL)-Cholesterol Levels in Moderate Hypercholesterolaemia | conds: Delivery of Health Care | intr: Limicol (plant extract)
+- NCT07833514 | NOT_YET_RECRUITING | results=False | PHASE3 | Misocholic Tablets for Non-Viral Elevated Liver Enzymes | conds: Alcohol-Related Liver Disease, Drug-Induced Liver Injury, Non-alcoholic Fatty Liver Disease | intr: Misocholic Tab, Placebo, Silymarin (Silybum marianum)
+- NCT07405814 | RECRUITING | results=False | NA | Clinical Trial On The Effect Of Artisterol On Risk Factors In Individuals With Suboptimal Cholesterol Levels | conds: Hyperlipoproteinemia | intr: investigational product containing phytosterol, artichoke extract and thiamin, Placebo
+- NCT04783714 | COMPLETED | results=False | NA | Investigating Effects of a Novel Nutraceutical on Hypercholesterolaemia in Australian Adults | conds: Hypercholesterolemia | intr: Swisse Nutra+ Cholesterol Balance, Placebo | pubs: ['40147213:DERIVED (new)']
+- NCT05333315 | COMPLETED | results=False | NA | Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults | conds: Overweight and Obesity, Inflammation, Hypercholesterolemia, Hypertension | intr: IP1, IP2, IP3, IP4
+- NCT06403748 | UNKNOWN | results=False | NA | Effect of a Dietary Supplement on Lipid Pattern, Indexes of NAFLD and Systemic Inflammation in Healthy Subjects With Suboptimal LDL-C Levels | conds: Hypercholesterolemia, Inflammation | intr: Dietary supplement formulated with components of natural origin: artichoke, danshen, bergamot, folic
+- NCT01790191 | COMPLETED | results=False | NA | Comparison of Effect of Repeated Exposure, Flavor-Flavor and Flavor-Nutrient Learning on Vegetable Acceptance in Infants | conds: Development of Eating Behavior | intr: Repeated consumption of basic artichoke purée., Repeated consumption of sweet artichoke purée., Repe
+- NCT07918677 | RECRUITING | results=False | NA | Food Supplement for Individuals With Polygenic Hypercholesterolaemia | conds: Polygenic Hypercholesterolaemia | intr: Placebo, Combined Dietary Supplement (Normolip® colesterolo), Phytosterols
+- NCT06340308 | UNKNOWN | results=False | NA | Clinical Study With Berberine-based Food Supplement, Artichoke Extract, Phytosterols, Fenugreek and SelectSIEVE® OptiChol | conds: Dyslipidemias | intr: Berberine-based Food Supplement, Artichoke Extract, Phytosterols, Fenugreek and SelectSIEVE® OptiCho
+- NCT01858337 | COMPLETED | results=False | NA | Mum Can I Have Vegetables Again? Development of Vegetable Preferences | conds: Vegetable Intake After Weaning With Vegetables or Fruits, Fruit Intake After Weaning With Vegetables or Fruits | intr: green beans group, Artichoke group, Apple group, Plums group | pubs: [':RESULT (-)']
+- NCT05750602 | COMPLETED | results=False | NA | Combined Effect of LIMICOL and Physical Activity on LDL Cholesterol and Muscle Function. | conds: Hypercholesterolemia | intr: LIMICOL, PLACEBO
+- NCT03794232 | COMPLETED | results=False | NA | Effect of Inulin-type Fructose Extracted From Jerusalem Artichoke on Improving Prediabetic State of Type 2 Diabetes | conds: Prediabetes | intr: NIUCHANG, Placebo
+- NCT03420976 | WITHDRAWN | results=False | EARLY_PHASE1 | Novel Supplement-based Therapy for the Treatment of Small Intestinal Bacterial Overgrowth | conds: Small Intestinal Bacterial Overgrowth | intr: Novel Supplement Based Therapy
+- NCT06066151 | COMPLETED | results=False | NA | The Efficacy of Minayo Iron-rich Yeast Drink With SOD on Female Nutritional Anemia, Skin Condition and Qi-blood Deficiency Syndrome | conds: Anemia, Skin Condition | intr: Minayo Yeast Drink Product
+- NCT07673432 | COMPLETED | results=False | NA | A Clinical Trial to Evaluate the Effects of a Plant-Based Liquid Supplement on Metabolic Health and Overall Well-Being | conds: Metabolic Health, Elevated Liver Enzymes, Digestive Symptoms | intr: Plant-Based Liquid Supplement
+- NCT03968003 | COMPLETED | results=True | NA | Impact of Dietary Fiber as Prebiotics on Intestinal Microbiota in Obese Thai Children | conds: Obesity | intr: Inulin | pubs: ['39033197:RESULT (new)', '41057493:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 1271 hits, 49 without PMID, 49 new
+- new | 2026 | 10.18203/2319-2003.ijbcp20263697 | article | GEVALINTM Aegle marmelos fruit extract improves gastrointestinal symptoms, quality of life, and inflammatory markers in symptomatic adults: a randomized, double-blind and placebo-c | International Journal of Basic & Clinica
+- new | 2025 | 10.1515/tjb-2025-0342 | article | A mini review: the trio of artichoke (Cynara scolymus L.), cytotoxicity, and apoptosis | Turkish Journal of Biochemistry
+- new | 2024 | 10.1055/s-0044-1789798 | article | Artichoke leaf extract reduces steatosis, chronic inflammation and liver size in bariatric patients: A randomized placebo-controlled trial: The ‘SteatoChoke-Study’ | Zeitschrift für Gastroenterologie
+- new | 2024 | 10.1177/09731296231217557 | review | Effect of Cynara scolymus L. on Cardiometabolic Outcomes: An Updated Meta-analysis of Randomized Controlled Trials and Meta-regression | Pharmacognosy Magazine
+- new | 2024 | 10.32712/2446-4775.2024.1530 | article | A influência de Cynara scolymus e Sinvastatina,sobre os perfis lipídico e hepático de pacienteshipercolesterolêmicos de uma UBS no Paraná | Revista Fitos
+- new | 2024 | 10.63459/jhas.2024.1.03 | article | Effect of Brackish Water on the Growth of Globe Artichoke (Cynara scolymus L.) | Journal of Horticulture and Agricultural
+- new | 2023 | 10.6008/cbpc2236-9600.2022.004.0013 | article | Controle do colesterol total de pacientes de uma farmácia utilizando extrato de alcachofra (Cynara scolymus) | Scire Salutis
+- new | 2023 | 10.12691/jfnr-11-10-1 | article | Evaluation of a Nutraceutical Containing Monacolin 2.94 Mg on Lipid Profile in Hypercholesterolemic Patients in Primary Prevention | Journal of Food and Nutrition Research
+- new | 2023 | 10.12681/jhvms.28954 | article | Hepatoprotective effect of Artichoke (Cynara scolymus) in laying hens | Journal of the Hellenic Veterinary Medic
+- new | 2022 | 10.1590/s2175-97902022e18825 | article | Efficacy of an herbal compound in decreasing steatosis and transaminase activities in non-alcoholic fatty liver disease: A randomized clinical trial | Brazilian Journal of Pharmaceutical Scie
+- new | 2022 | 10.6084/m9.figshare.20307047 | dataset | Efficacy of an herbal compound in decreasing steatosis and transaminase activities in non-alcoholic fatty liver disease: A randomized clinical trial | Figshare
+- new | 2022 | 10.52547/jcb.14.43.84 | article | Effect of Methanol and Titanium Dioxide Nanoparticles on Phytochemical Properties of Artichoke (Cynara scolymus L.) | Journal of Crop Breeding
+- new | 2021 | 10.22122/jims.v38i597.13301 | article | The Effects of Livercare Tablet [Combination of Milk Thistle, Dandelion, Barberry, Tumeric (Curcumin), and Artichoke] in Prevention of Anti-Tuberculosis Drugs-Induced Hepatotoxicit | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2021 | 10.18502/pbr.v7i3.7696 | article | The Phytochemical Ingredients and Therapeutic Potential of Cynara scolymus L. | Pharmaceutical and Biomedical Research
+- new | 2021 | 10.21931/rb/2021.06.02.20 | article | Protective potential of Cynara scolymus extract in thioacetamide model of hepatic injury in rats | Bionatura
+- new | 2021 | 10.29136/mediterranean.770306 | article | Characterization of powdery mildew (Leveillula taurica) in globe artichoke (Cynara scolymus) | Mediterranean Agricultural Sciences
+- new | 2021 | 10.9775/kvfd.2021.25656 | article | Leishmania tropica’ya Karşı Cynara scolymus Ekstrelerinin In-vitro Antileishmanial Etkinliğinin Değerlendirilmesi | Kafkas Universitesi Veteriner Fakultesi 
+- new | 2020 | 10.12691/jfnr-8-12-2 | article | Botanicals and Food Supplement Combination in Patients with Polygenic Hypercholesterolemia: Evaluation at Fasting and after Oral Fat Load Test | 
+- new | 2020 | 10.32598/cmja.10.2.891.1 | article | Investigation of the Effect of Artichoke (Cynara Scolymus L.) on Characteristics of the Fatty Liver | Complementary Medicine Journal
+- new | 2020 | 10.22092/ijmapr.2020.126493.2573 | article | In vitro evaluation for salinity tolerance in Cynara scolymus L. | Taḥqīqāt-i giyāhān-i dārūyī va mu̒aṭṭar-
+- new | 2020 | https://openalex.org/W3099274925 | article | Effect of feeding artichoke (Cynara scolymus L.) on reproductive performance of laying hens | Journal of Entomology and Zoology Studie
+- new | 2019 | 10.15171/jrip.2019.42 | article | The effect of artichoke leaf extract supplementation on lipid profile of chronic kidney disease patients; a double-blind, randomized clinical trial | Journal of Renal Injury Prevention
+- new | 2019 | 10.35816/jiskh.v10i2.166 | article | Potensi Cynara Scolymus (Artichoke) Pengobatan Herbal Obesitas | 
+- new | 2018 | 10.1016/j.bjp.2018.02.007 | article | Randomized controlled trial of Panax ginseng in patients with irritable bowel syndrome | Revista Brasileira de Farmacognosia
+- new | 2018 | 10.1016/j.bfopcu.2018.10.003 | article | Cynara scolymus (artichoke) and its efficacy in management of obesity | Bulletin of Faculty of Pharmacy Cairo Un
+- new | 2017 | 10.1080/09735070.2017.1305230 | article | The Use of Herbal Remedies and Supplementary Products among Chronic Disease Patients in Vietnam | Studies on Ethno-Medicine
+- new | 2015 | https://openalex.org/W2293741325 | article | The Effect of Chlorella Vulgaris vs. Artichoke on Patients with Non-alcoholic Fatty Liver Disease (NAFLD): A Randomized Clinical Trial | Journal of Advances in Medical and Biome
+- new | 2015 | https://openalex.org/W2144056252 | article | Influence of Artichoke (Cynara scolymus) Leaf Powder on Growth Performance, Carcass Traits and Blood Parameters in Broiler Chickens | Iranian journal of applied animal scienc
+- new | 2015 | https://openalex.org/W2338033972 | dissertation | Elaboración de una salsa tipo Dip a base yogurt y alcachofa (Cynara scolymus) | USFQ Digital Repository (Universidad San
+- new | 2014 | 10.13005/bpj/520 | article | Effect of Cynara scolymus (artichoke) in Homeopathic Doses on Body Mass Index in Obese and Overweight Patients | Biomedical & Pharmacology Journal
+- new | 2014 | https://openalex.org/W2188300580 | article | Utilization of Artichoke (Cynara scolymus) By-Products in Sheep Feeding | 
+- new | 2012 | https://openalex.org/W2113645056 | article | Cynara scolymus L. in Treatment of Hypercholesterolemic Type 2 Diabetic Patients: a Randomized Double-Blind Placebo-Controlled Clinical Trial | Journal of Medicinal Plants
+- new | 2012 | https://openalex.org/W314530052 | article | Volunteer for Artichoke | Artichoke | 
+- new | 2012 | 10.3923/rjmp.2012.245.252 | article | Effect of Salinity on Phenolic Composition and Antioxidant Activity of Artichoke (Cynara scolymus L.) Leaves | Research Journal of Medicinal Plant
+- new | 2012 | 10.17660/actahortic.2012.942.24 | conference-paper | MOTHS PROBLEMS ON ARTICHOKE (CYNARA SCOLYMUS) IN BRITTANY | Acta Horticulturae
+- new | 2011 | https://openalex.org/W4293584504 | conference-paper | Analysis of volunteer density under the influence of cropping practices: a contribution to the modelling of primary inoculum of Phytophthora infestans in potato crops | HAL
+- new | 2010 | 10.1016/j.scienta.2010.07.012 | article | Stability through years in a non-balanced trial of globe artichoke varietal types | Scientia Horticulturae
+- new | 2009 | https://openalex.org/W1605920837 | article | A Review on Medicinal Plants Used in Animal Models and Clinical Trials concerning Drug Addiction | Journal of Medicinal Plants
+- new | 2008 | 10.3923/ajcs.2009.40.48 | article | Effects of Organic and Chemical Fertilizers on Forage Yield and Quality of Globe Artichoke (Cynara scolymus L.) | Asian Journal of Crop Science
+- new | 2005 | 10.1590/s1415-47572005000300016 | article | An approach for understanding the heredity of two quality traits (head color and tightness) in globe artichoke (Cynara scolymus L.) | Genetics and Molecular Biology
+- new | 2004 | 10.17660/actahortic.2004.660.13 | conference-paper | CULTIVAR TRIALS OF SEED PROPAGATED ARTICHOKE | Acta Horticulturae
+- new | 2004 | 10.1080/01140671.2004.9514292 | article | Diallel analysis for traits of economic importance in globe artichoke (Cynara scolymus) | New Zealand Journal of Crop and Horticul
+- new | 2004 | 10.17660/actahortic.2004.660.59 | conference-paper | NURSERY PRODUCTION OF ROOTED OFFSHOOTS OF GLOBE ARTICHOKE (CYNARA SCOLYMUS L.) | Acta Horticulturae
+- new | 2003 | 10.1016/s0016-5085(03)80907-1 | article | Functional dyspepsia and irritable bowel syndromeȁTreatment effects of artichoke-leaf-extract: A placebo-controlled, randomised, multicenter trial | Gastroenterology
+- new | 2003 | 10.7764/rcia.v30i1.1315 | article | Effect of one generation selection for productive characters in a globe artichoke population (Cynara scolymus). | International Journal of Agriculture and
+- new | 2002 | https://openalex.org/W2769132983 | article | Three-years of control trials against the powdery mildew of artichoke in Sardinia [Cynara cardunculus L. var scolymus L.] | UnissResearch (Università degli Studi di
+- new | 1996 | 10.21273/jashs.121.5.783 | article | Randomly Amplified Polymorphic DNA (RAPD) Variation among and within Artichoke (Cynara scolymus L.) Cultivars and Breeding Populations | Journal of the American Society for Hort
+- new | 1989 | 10.5962/bhl.title.51100 | book | Globe artichoke trials -- 1987-1988 / | Biodiversity Heritage Library (Smithsoni
+- new | 1970 | https://openalex.org/W268381649 | article | A trial of herbicides for artichokes. | Hassadeh

@@ -190,16 +190,23 @@ indications:
   - REF-2568
   - REF-3509
   - REF-3510
+  - REF-5299
   status: verified
 - condition: high-blood-pressure
-  note: Artichoke lowered blood pressure in people with hypertension (meta-analysis of randomized trials)
+  note: Artichoke lowered systolic and diastolic blood pressure in meta-analyses of randomized trials,
+    and artichoke powder lowered systolic pressure in a placebo-controlled trial in people with hypertension
   reference_ids:
   - REF-3508
+  - REF-5300
+  - REF-5301
   status: verified
 - condition: blood-sugar
-  note: Artichoke products lowered fasting blood sugar in a meta-analysis of randomized trials
+  note: Artichoke products lowered fasting blood sugar in a meta-analysis of randomized trials, and a
+    standardised artichoke extract improved fasting glucose and HbA1c vs placebo in overweight people
+    with impaired fasting glucose (randomized trial)
   reference_ids:
   - REF-3512
+  - REF-5314
   status: verified
 contraindications:
 - note: Because it stimulates bile flow, artichoke is contraindicated in bile-duct obstruction and should
@@ -260,4 +267,12 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   convincing" - purged and deleted. Added: Holtmann 2003 dyspepsia RCT REF-3507, liver-enzyme MA
   REF-3509 and steatosis RCT REF-3510 (liver-support), cardiometabolic MA REF-3511 and held lipid
   MAs REF-2566/2567 (cardiovascular-support), Bundy 2008 RCT REF-3513 (high-cholesterol). New
-  pairs (owner rule): high-blood-pressure REF-3508, blood-sugar REF-3512.'
+  pairs (owner rule): high-blood-pressure REF-3508, blood-sugar REF-3512.
+  | 2026-11-25: symptom-source audit research-deepening batch 10 - Searched PubMed (Cynara
+  scolymus / C. cardunculus / artichoke leaf / artichoke extract tiab, artichoke ti), Europe PMC,
+  ClinicalTrials.gov (37) and OpenAlex. Added: 2022 liver-enzyme MA (ALT and AST fell) to
+  liver-support; 2022 BP dose-response MA and the 2020 placebo RCT in hypertension to
+  high-blood-pressure. Not added: anthropometric MA 2021 (waist circumference only; no metabolic
+  pair created), bergamot, red yeast rice, ginger and other combinations, Jerusalem artichoke (a
+  different plant), NAFLD network MAs (artichoke not separable). Europe PMC pass: 2020 placebo RCT
+  of a standardised Cynara scolymus extract in impaired fasting glucose added to blood-sugar.'

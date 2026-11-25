@@ -320,7 +320,9 @@ drug_class_interactions:
     effects from cardiac glycosides such as digoxin.
   reference_ids:
   - REF-5130
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-25'
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)
@@ -424,6 +426,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   retracted rat atopic-dermatitis paper; combination products (aloe+olive oil,
   aloe+chamomile+thyme, aloe+pineapple, polyherbal mouthwashes, colostrum+aloe); radiation
   proctitis RCTs (no vocab condition); hemorrhoidectomy-pain NMA (post-surgical pain,
-  inconclusive); IBS trial 24379854 (no abstract); periodontal adjunct trials vs active drugs.'
+  inconclusive); IBS trial 24379854 (no abstract); periodontal adjunct trials vs active drugs.
+  | 2026-11-25: owner approved the research-deepening draft herb-drug interaction:
+  cardiac-glycosides.'
 synonyms:
 - Aloe barbadensis

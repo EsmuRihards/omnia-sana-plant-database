@@ -1,0 +1,1655 @@
+# Research-deepening batch 9 - search
+
+## cnicus-benedictus (Cnicus benedictus) - name clause: "Cnicus benedictus"[tiab] OR "Centaurea benedicta"[tiab] OR "blessed thistle"[tiab] OR "holy thistle"[tiab]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 6 hits, 6 not already listed above, 4 new
+- HELD REF-1998 | 2024 | 38718639 |  | Cnicin promotes functional nerve regeneration. | Phytomedicine
+- HELD REF-0419 | 2024 | 39265629 | Review | Cnicus benedictus: Folk Medicinal Uses, Biological Activities, and In Silico Screening of Main Phytochemical Constituents. | Planta Med
+- new | 2022 | 35780286 |  | Antioxidant Activity and Profile of Phenolic Compounds in Selected Herbal Plants. | Plant Foods Hum Nutr
+- new | 2016 | 26522087 | Multicenter Study/Observational Study/Research Support, Non-U.S. Gov't | Treatment of Mild Gastrointestinal Disorders with a Herbal Combination: Results of a Non-interventional Study with Gastritol® Liquid. | Phytother Res
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2012 | 22424468 |  | Survey of lactation instructors on folk traditions in breastfeeding. | Breastfeed Med
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 4 hits, 2 not already listed above, 2 new
+- new | 2012 | 23012383 | Review | The use of galactogogues in the breastfeeding mother. | Ann Pharmacother
+- new | 2006 | 30000834 | Review | Blessed Thistle. | 
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 57 hits, 36 without PMID, 36 new
+- new | 2026 | 10.21926/obm.icm.2602019 | article | Safety and Genoprotective Effects of an 8-Herb Tea–ESSIAC Versus Mate Cocido, An Ilex paraguariensis Infusion | OBM Integrative and Complementary Medici
+- new | 2026 | 10.3390/app16136786 | article | Effect of Herbal Extracts on Lactic Acid Bacteria Growth, Acidification and Viability in Fermented Milk and Plant-Based Beverages | Applied Sciences
+- new | 2026 | 10.30841/2786-720x.2.2026.365357 | article | Evaluation of the Efficacy and Safety of the Complex Phytotherapeutic Drug Gastritol® in the Treatment of Patients with Functional Dyspepsia: Results of a Multicenter Study | Family medicine European practices
+- new | 2026 | 10.31557/apjcb.2026.11.4.1021 | article | A Multi-Biomarker Signature of Immune Activation and Metabolic Shift Predicts Treatment Success in Localized Prostate Cancer | Asian Pacific Journal of Cancer Biology
+- new | 2026 | 10.33380/2305-2066-2026-15-1-2146 | article | Comparative Hepatoprotective Effects of Dapagliflozin to Silymarin Against Cyclophosphamide-Induced Liver Injury in Rats: Biochemical, Antioxidants and Histopathological Studies | Drug development & registration
+- new | 2025 | 10.21608/jsrs.2025.369694.1156 | article | In vivo evaluation of the antipsoriatic efficacy of a cream containing Lavandula oil | Journal of Scientific Research in Scienc
+- new | 2025 | 10.20944/preprints202512.0326.v1 | preprint | GnRH Agonist Triptorelin Induces Hepatic Fibrosis via Sex-Specific Oxidative and Inflammatory Responses in Adolescent Rats | Preprints.org
+- new | 2025 | 10.33899/ijvs.2025.156229.4066 | article | The correlation of the forkhead transcription factor foxo1 expression and histopathological pancreatic lesions in dogs | Al-mağallaẗ al-ʻirāqiyyaẗ li-l-ʻulūm al-
+- new | 2025 | 10.30683/1929-2279.2025.14.26 | article | A Repurposed Duo: Empagliflozin-Metformin Triggers a Metabolic Crisis in Cervical Cancer by Disrupting the Acyl-CoA/CoA Ratio via Dual Inhibition of PPAT and CPT1A | Journal of cancer research updates
+- new | 2024 | 10.22374/cjmrp.v2i2.184 | article | GALACTAGOGUE HERBS: A QUALITATIVE STUDY AND REVIEW | Canadian Journal of Midwifery Research a
+- new | 2024 | https://openalex.org/W7238672537 | dissertation | Ege Bölgesi-Bozdağlar Yöresi'nde bitki tür çeşitliliğinin günümüz ve iklim değişimi altında potansiyel dağılım modellemesi ve haritalaması | Isparta University of Applied Sciences -
+- new | 2023 | 10.58830/ozgur.pub386.c1636 | book-chapter | Mekanik Ventilatöre Bağlı Hastanın Hemşirelik Bakımı | Özgür Yayınları eBooks
+- new | 2023 | 10.58920/sciphy02020022 | article | Insights on the Efficacy and Safety of Selected Herbal Teas | Sciences of Phytochemistry
+- new | 2023 | 10.47750/pnr.2023.14.03.154 | article | Some Medicinal Aromatic Plants And Their Pharmacological Effects | Journal of Pharmaceutical Negative Resul
+- new | 2023 | 10.3390/agriculture13030698 | article | Effect of Dietary Salicin Standardized Extract from Salix alba Bark on Oxidative Stress Biomarkers and Intestinal Microflora of Broiler Chickens Exposed to Heat Stress | Agriculture
+- new | 2023 | 10.21931/rb/css/2023.08.03.39 | article | Preservatives in ophthalmic formulations and the urgent need for preservative-free formulation | Bionatura
+- new | 2022 | 10.3389/fmars.2022.993616 | article | Exploring the multimodal role of Cnicus benedictus extract in the modulation of growth, hematobiochemical, histopathological, antioxidative performance, and immune-related gene exp | Frontiers in Marine Science
+- new | 2022 | 10.61186/jspac.33236.2.3.17 | article | High intensity interval training and Eryngium billardieri extract consumption on MMP-2 gene expression of visceral fat in rats with metabolic syndrome | Journal of Sports Physiology and Athleti
+- new | 2022 | 10.13187/ejbr.2022.1.8 | article | A Review: Some Plants Used for Hemorrhoids in Turkey Traditional Medicine | Russian Journal of Biological Research
+- new | 2022 | 10.3166/phyto-2022-0327 | article | Plantes médicinales de Hongrie | Phytothérapie
+- new | 2021 | 10.25081/jmb.2021.v5.7051 | article | A review on most important poisonous plants and their medicinal properties | Journal of Medicinal Botany
+- new | 2021 | 10.21613/gorm.2021.1148 | article | Ethnographic Study of Perspective and Attitude of Breastfeeding Mothers Towards the use of Elaeis Guineensis Sap As Galactagogue Among Igbo Women Oof Southeastern Nigeria | Gynecology Obstetrics and Reproductive M
+- new | 2020 | 10.1080/0972060x.2020.1747553 | article | Blessed Thistle Growth, Essential Oil Content, Yield and Composition as Influenced by Plant Density and Nitrogen Fertilizer | Journal of Essential Oil Bearing Plants
+- new | 2020 | 10.5424/sjar/2020183-16146 | article | Maintaining intestinal microflora balance in heat-stressed broilers using dietary creeping wood sorrel (Oxalis corniculata) powder and chromium (chromium picolinate) | Spanish Journal of Agricultural Research
+- new | 2019 | 10.2134/agronj2018.05.0323 | article | Seed and Biomass Yield Responses of Blessed Thistle to Nitrogen and Density | Agronomy Journal
+- new | 2018 | 10.1016/j.indcrop.2018.06.027 | article | Blessed thistle agronomic and phytochemical response to nitrogen and plant density | Industrial Crops and Products
+- new | 2016 | https://openalex.org/W3195622950 | dissertation | Regulace C-MYC onkoproteinu přírodními látkami. | Digital Repository (National Repository 
+- new | 2015 | https://openalex.org/W2392028187 | dissertation | Investigating the use of blessed thistle for amelioration of symptoms of fescue toxicity in beef cows consuming endophyteinfected tall fescue seed | OpenSIUC (Southern Illinois University C
+- new | 2012 | 10.5755/j01.ct.60.2.1930 | article | The use of beebread-honey mixture in the treatment of liver diseases in alcohol-dependent patients | Chemical Technology
+- new | 2012 | https://openalex.org/W1968500629 | article | Letter to Editor Management of Post Menstrual Syndromes: From Traditional Knowledge to Evidence-Based Medicine | International Journal of Biotechnology f
+- new | 2010 | 10.1055/s-0030-1264685 | article | Effects of salinity and temperature on germination and seedling growth of nine medicinal plants | Planta Medica
+- new | 2010 | 10.24124/2010/bpgub1478 | dissertation | Appropriate use of galactagogues: a guide for nurse practitioners in primary care | 
+- new | 2003 | https://openalex.org/W2613570588 | dissertation | Self-care, midwifery and medicine : women's perspectives on negotiating a healthy reproductive experience | UVic’s Research and Learning Repository 
+- new | 1916 | 10.1001/jama.1916.02580460042020 | article | The Propaganda for Reform | JAMA
+- new | 1916 | 10.1001/jama.1916.02580440041023 | article | The Propaganda for Reform | JAMA
+- new | 1916 | 10.1001/jama.1916.02580480052029 | article | The Propaganda for Reform | JAMA
+
+## coffea-arabica (Coffea arabica) - name clause: "Coffea arabica"[tiab] OR "Coffea canephora"[tiab] OR "green coffee"[tiab] OR "coffee"[ti]
+
+### PubMed HT - 1062 hits, 200 not already listed above, 200 new
+- new | 2026 | 41206802 | Randomized Controlled Trial/Multicenter Study/Comparative Study | Caffeinated Coffee Consumption or Abstinence to Reduce Atrial Fibrillation: The DECAF Randomized Clinical Trial. | JAMA
+- new | 2026 | 41697370 | Randomized Controlled Trial | Immune modulation in response to coffee intake: a pilot study. | Eur J Nutr
+- new | 2026 | 41869228 |  | The Impact of Coffee Consumption on Mortality Among Patients With Heart Failure. | Cureus
+- new | 2026 | 41873103 | Randomized Controlled Trial | Short-Term Turkish Coffee Consumption Elevates Cardiovascular Risk Markers, Decreases Leptin Levels, and Impairs Sleep Quality in Healthy Young Women: A Pilot Randomized Controlled | Int J Vitam Nutr Res
+- new | 2026 | 41605282 | Research Support, Non-U.S. Gov't | Maternal coffee consumption during pregnancy and pubertal development in children: A cohort study. | Reprod Toxicol
+- new | 2026 | 43028086 | Review | New Advances and Current Trends in Bioavailability of Coffee and Coffee By-Product Constituents and Their Metabolites: A Review. | Int J Mol Sci
+- new | 2026 | 42941458 |  | Coffee Consumption, Serum Copeptin, and Selected Echocardiographic Parameters in Patients with ADPKD: A Cross-Sectional Study. | J Clin Med
+- new | 2026 | 41908578 | Published Erratum | Correction: The Impact of Coffee Consumption on Mortality Among Patients With Heart Failure. | Cureus
+- new | 2026 | 41681002 |  | Maternal Coffee Consumption during Pregnancy and Risk of Allergic Diseases in Children: The Korean Children's Environmental Health Study. | Healthc Inform Res
+- new | 2026 | 42972432 | Randomized Controlled Trial | Effect of coffee bean chlorogenic acid on peripheral skin temperature and skin blood flow in healthy Japanese women with cold sensitivity: a placebo-controlled, randomized, double- | Trials
+- new | 2026 | 42564606 |  | Relationship between coffee consumption and vasomotor symptom severity in Turkish Postmenopausal Women. | Afr Health Sci
+- new | 2026 | 42075412 |  | Nutrition of Shade-Grown Coffee Plantations with Inorganic Fertilizers in Oaxaca, Mexico. | Plants (Basel)
+- new | 2026 | 42102665 | Randomized Controlled Trial | Moderate coffee intake does not significantly affect short-term bioelectrical impedance measurements in healthy women. | Nutr Res
+- new | 2025 | 40806142 | Review | Coffee's Impact on Health and Well-Being. | Nutrients
+- new | 2025 | 40626862 | Review | Coffee and cardiovascular disease. | Eur Heart J
+- new | 2025 | 39897922 |  | The complexity of caffeine's effects on regular coffee consumers. | Heliyon
+- new | 2025 | 40087371 |  | Impact of tea and coffee consumption during pregnancy on children's cognitive development. | Sci Rep
+- new | 2025 | 40057276 |  | Coffee consumption and mortality in colorectal cancer patients: Does the co-existence of cardiometabolic disease matter? | Clin Nutr ESPEN
+- new | 2025 | 41777919 | Review | Effect of coffee and coffee extract on liver function test in non-alcoholic fatty liver disease ‎patients, a systematic review and meta-analysis. | Gastroenterol Hepatol Bed Bench
+- new | 2025 | 40053517 |  | Coffee consumption may suppress development of metabolic syndrome in patients with rheumatoid arthritis-TOMORROW study. | Mod Rheumatol
+- new | 2025 | 39673298 | Multicenter Study/Observational Study/Research Support, Non-U.S. Gov't | Coffee Consumption Correlates With Better Cognitive Performance in Patients With a High Incidence for Stroke. | J Am Heart Assoc
+- new | 2025 | 39929760 |  | Impact of coffee consumption on mortality in patients with cardiovascular and cerebrovascular diseases: A cohort study. | Nutr Metab Cardiovasc Dis
+- new | 2024 | 39696255 | Multicenter Study/Observational Study/Research Support, Non-U.S. Gov't | Coffee consumption and adverse cardiovascular events in patients with atrial fibrillation. | BMC Med
+- new | 2024 | 38834559 |  | Migraine incidence and coffee consumption among child-bearing age women: the Korea Nurses' Health Study. | Sci Rep
+- new | 2024 | 35930394 | Review | The magical smell and taste: Can coffee be good to patients with cardiometabolic disease? | Crit Rev Food Sci Nutr
+- new | 2024 | 39028243 | Randomized Controlled Trial | What the Fika? Implementation of Swedish Coffee Breaks During Emergency Medicine Conference. | West J Emerg Med
+- new | 2024 | 39460478 | Systematic Review | The Effects of Coffee/Caffeine in Patients with Multiple Sclerosis; A Systematic Review. | J Evid Based Integr Med
+- new | 2024 | 38474796 | Randomized Controlled Trial | Effects of Caffeinated Coffee on Cross-Country Cycling Performance in Recreational Cyclists. | Nutrients
+- new | 2024 | 39683413 |  | Coffee Intake in Brazil Influences the Consumption of Sugar, Sweets, and Beverages. | Nutrients
+- new | 2024 | 39562530 |  | Effects of green coffee supplementation on paraoxonase-1 activity and malondialdehyde levels in Iranian women with polycystic ovary syndrome: a randomized clinical trial. | Osong Public Health Res Perspect
+- new | 2024 | 39200197 |  | Impact of Coffee Consumption on Subjective Perception and Inflammatory Markers in Patients with Inflammatory Bowel Diseases. | Biomedicines
+- new | 2024 | 38723441 |  | Coffee consumption was associated with a lower prevalence of airflow limitation in postmenopausal women. | Respir Investig
+- new | 2024 | 39346580 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of the Smart Health Continuous Feedback For Elderly Exercise (SHe CoFFEE) program on mobility: a randomized controlled pilot study. | Front Public Health
+- new | 2024 | 38824533 |  | Motivations for using misoprostol for abortion outside the formal healthcare system in Colombia: a qualitative study of women seeking postabortion care in Bogotá and the Coffee Axi | Reprod Health
+- new | 2024 | 39408196 | Randomized Controlled Trial | Determining the Levels of Cortisol, Testosterone, Lactic Acid and Anaerobic Performance in Athletes Using Various Forms of Coffee. | Nutrients
+- new | 2023 | 36947466 | Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | Acute Effects of Coffee Consumption on Health among Ambulatory Adults. | N Engl J Med
+- new | 2023 | 35639365 | Randomized Controlled Trial | Effect of Coffee and Tea Consumption on Adolescent Weight Control: An Interventional Pilot Study. | Child Obes
+- new | 2023 | 36966738 |  | Association of Coffee or Green Tea with Ferritin or Hemoglobin in Premenopausal Women. | Korean J Fam Med
+- new | 2023 | 37895989 |  | Simulated Drift of Dicamba and Glyphosate on Coffee Crop. | Plants (Basel)
+- new | 2023 | 36840232 |  | Chloride Applied via Fertilizer Affects Plant Nutrition and Coffee Quality. | Plants (Basel)
+- new | 2023 | 37092625 | Observational Study | Changes in coffee and caffeine intake during the pandemic in women smokers and non-smokers: a future challenge for cardiovascular prevention. | Acta Biomed
+- new | 2023 | 36718999 |  | Association of coffee intake and its polyphenols with mammographic findings in women who visited the Brazilian Public Health Service. | Nutr Hosp
+- new | 2023 | 37432380 | Randomized Controlled Trial | Dietary Supplements Containing Oat Beta-Glucan and/or Green Coffee (Poly)phenols Showed Limited Effect in Modulating Cardiometabolic Risk Biomarkers in Overweight/Obese Patients wi | Nutrients
+- new | 2023 | 37091804 |  | The causal association between smoking initiation, alcohol and coffee consumption, and women's reproductive health: A two-sample Mendelian randomization analysis. | Front Genet
+- new | 2023 | 37518924 |  | Preparation of decaffeinated coffee extract: study of the effectiveness of decaffeinated coffee extract toward lowering blood sugar in type 2 diabetes mellitus patients. | Med J Malaysia
+- new | 2022 | 36501314 |  | Multi-Environment and Multi-Year Bayesian Analysis Approach in Coffee canephora. | Plants (Basel)
+- new | 2022 | 36033278 |  | Genetic variability for vigor and yield of robusta coffee (Coffea canephora) clones in Ghana. | Heliyon
+- new | 2022 | 35635848 |  | Summary for Patients: Association of Sweetened and Unsweetened Coffee Intake With Risk for Death. | Ann Intern Med
+- new | 2022 | 35051991 | Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Measurement of Diacetyl and Related Compounds in Coffee Roasteries and Breweries. | Ann Work Expo Health
+- new | 2022 | 34929474 | Research Support, Non-U.S. Gov't | Coffee consumption and seizure frequency in patients with drug-resistant focal epilepsy. | Epilepsy Behav
+- new | 2022 | 34265165 | Randomized Controlled Trial | Coffee pulp supplement affects antioxidant status and favors anti-aging of skin in healthy subjects. | J Cosmet Dermatol
+- new | 2022 | 36377506 | Editorial/Research Support, Non-U.S. Gov't/Comment | Is it caffeine? Coffee consumption and future risk of type 2 diabetes among women with a history of gestational diabetes. | Am J Clin Nutr
+- new | 2022 | 36202320 | Randomized Controlled Trial | Morphological changes in retinochoroidal microvasculature after caffeinated versus decaffeinated coffee consumption. | Photodiagnosis Photodyn Ther
+- new | 2022 | 35745239 | Randomized Controlled Trial | Effect of Dewaxed Coffee on Gastroesophageal Symptoms in Patients with GERD: A Randomized Pilot Study. | Nutrients
+- new | 2022 | 35807898 |  | Relationship of Daily Coffee Intake with Vascular Function in Patients with Hypertension. | Nutrients
+- new | 2022 | 36557215 |  | Sugar-Sweetened Coffee Intake and Blood Glucose Management in Korean Patients with Diabetes Mellitus. | Metabolites
+- new | 2022 | 35267313 |  | Regular Consumption of Green Coffee Phenol, Oat β-Glucan and Green Coffee Phenol/Oat β-Glucan Supplements Does Not Change Body Composition in Subjects with Overweight and Obesity. | Foods
+- new | 2022 | 35811963 |  | Association of Coffee, Tea, and Caffeine Consumption With All-Cause Risk and Specific Mortality for Cardiovascular Disease Patients. | Front Nutr
+- new | 2022 | 33939140 | Research Support, N.I.H., Extramural | Patients with Autoimmune Hepatitis Report Lower Lifetime Coffee Consumption. | Dig Dis Sci
+- new | 2022 | 36381474 |  | The Effect of Green Coffee Supplementation on Lipid Profile, Glycemic Indices, Inflammatory Biomarkers and Anthropometric Indices in Iranian Women With Polycystic Ovary Syndrome: A | Clin Nutr Res
+- new | 2022 | 35683374 |  | Effects of Coffee on Sirtuin-1, Homocysteine, and Cholesterol of Healthy Adults: Does the Coffee Powder Matter? | J Clin Med
+- new | 2022 | 36518418 |  | Urinary excretion of estrogenic chemicals following consumption of capsule coffee and French press coffee: A crossover study. | Toxicol Rep
+- new | 2022 | 34737090 | Observational Study/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | No Association Observed between Coffee Intake and Risk of Non-Hodgkin Lymphoma among Postmenopausal Women. | J Acad Nutr Diet
+- new | 2021 | 34533314 |  | Coffee, Atrial Fibrillation, and Circulating Ceramides in Patients with Chronic Heart Failure. | J Agric Food Chem
+- new | 2021 | 34836118 |  | Coffee, Tea, and Mammographic Breast Density in Premenopausal Women. | Nutrients
+- new | 2021 | 33451170 | Review | Does Drinking Coffee and Tea Affect Bone Metabolism in Patients with Inflammatory Bowel Diseases? | Nutrients
+- new | 2021 | 33300301 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Metabolomic Changes after Coffee Consumption: New Paths on the Block. | Mol Nutr Food Res
+- new | 2021 | 33298331 | Research Support, Non-U.S. Gov't | Coffee consumption and risk of hearing impairment in men and women. | Clin Nutr
+- new | 2021 | 33422357 |  | Coffee break - Epidemiologic analysis, traditions & holidays that increase burn risk of pediatric patients. | Burns
+- new | 2021 | 32728879 | Randomized Controlled Trial | Effect of coffee and cocoa-based confectionery containing coffee on markers of cardiometabolic health: results from the pocket-4-life project. | Eur J Nutr
+- new | 2021 | 34828792 |  | Appetite and Satiety Effects of the Acute and Regular Consumption of Green Coffee Phenols and Green Coffee Phenol/Oat β-Glucan Nutraceuticals in Subjects with Overweight and Obesit | Foods
+- new | 2021 | 33498916 |  | Hypertensive Disorders of Pregnancy in Relation to Coffee and Tea Consumption: The Japan Environment and Children's Study. | Nutrients
+- new | 2021 | 34731744 |  | Multiple catechols in human plasma after drinking caffeinated or decaffeinated coffee. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2021 | 33735377 | Research Support, Non-U.S. Gov't | Changes in Choroidal Component Ratio and Circulation After Coffee Intake in Healthy Subjects. | Invest Ophthalmol Vis Sci
+- new | 2021 | 34371907 | Randomized Controlled Trial | Effect of Coffee and Cocoa-Based Confectionery Containing Coffee on Markers of DNA Damage and Lipid Peroxidation Products: Results from a Human Intervention Study. | Nutrients
+- new | 2020 | 32705499 |  | Coffee consumption and overall and cause-specific mortality: the Norwegian Women and Cancer Study (NOWAC). | Eur J Epidemiol
+- new | 2020 | 31839524 | Letter/Comment | Coffee consumption and hepatocellular carcinoma in patients with HBeAg negative chronic hepatitis B. | J Formos Med Assoc
+- new | 2020 | 33521565 | Editorial | The Impact of Caffeine Intake on Patients with Systemic Lupus Erythematosus: Protect Yourself, Drink More Coffee! | Mediterr J Rheumatol
+- new | 2020 | 32825538 |  | Coffee Intake and Neurocognitive Performance in HIV/HCV Coinfected Patients (ANRS CO13 HEPAVIH). | Nutrients
+- new | 2020 | 31253438 | Meta-Analysis/Systematic Review | Coffee to go? The effect of coffee on resolution of ileus following abdominal surgery: A systematic review and meta-analysis of randomised controlled trials. | Clin Nutr
+- new | 2020 | 32329900 | Research Support, N.I.H., Extramural | Associations of Coffee and Tea Consumption With Survival to Age 90 Years Among Older Women. | J Am Geriatr Soc
+- new | 2020 | 28795605 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Reducing sugar use in coffee while maintaining enjoyment: A randomized controlled trial. | J Health Psychol
+- new | 2020 | 30921801 | Letter/Comment | Effects of Caffeine on Colon: A Potential Clinical Use of Coffee in Surgical Patients. | Dig Surg
+- new | 2020 | 32731633 | Evaluation Study | The Effect of Coffee and Caffeine Consumption on Patients with Multiple Sclerosis-Related Fatigue. | Nutrients
+- new | 2020 | 32104042 |  | Consumption of Polyphenols in Coffee and Green Tea Alleviates Skin Photoaging in Healthy Japanese Women. | Clin Cosmet Investig Dermatol
+- new | 2020 | 32940631 | Observational Study/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Association of Coffee Intake With Survival in Patients With Advanced or Metastatic Colorectal Cancer. | JAMA Oncol
+- new | 2019 | 30426487 | Research Support, Non-U.S. Gov't/Systematic Review | Coffee and pancreatic cancer risk among never-smokers in the UK prospective Million Women Study. | Int J Cancer
+- new | 2019 | 31731467 | Randomized Controlled Trial | Coffee Ingestion Improves 5 km Cycling Performance in Men and Women by a Similar Magnitude. | Nutrients
+- new | 2019 | 30998528 | Randomized Controlled Trial/Video-Audio Media | Does Coffee Intake Reduce Postoperative Ileus After Laparoscopic Elective Colorectal Surgery? A Prospective, Randomized Controlled Study: The Coffee Study. | Dis Colon Rectum
+- new | 2019 | 31018210 | Comparative Study/Randomized Controlled Trial | Pleural Cryobiopsy versus Flexible Forceps Biopsy in Subjects with Undiagnosed Exudative Pleural Effusions Undergoing Semirigid Thoracoscopy: A Crossover Randomized Trial (COFFEE T | Respiration
+- new | 2019 | 29794514 | Observational Study | Coffee and Tea Consumption in Relation to Risk of Rheumatoid Arthritis in the Women's Health Initiative Observational Cohort. | J Clin Rheumatol
+- new | 2019 | 30179617 |  | Coffee, Caffeine Metabolism Genotype and Disease Progression in Patients with Localized Prostate Cancer Managed with Active Surveillance. | J Urol
+- new | 2019 | 29330659 | Randomized Controlled Trial | Coffee with a high content of chlorogenic acids and low content of hydroxyhydroquinone improves postprandial endothelial dysfunction in patients with borderline and stage 1 hyperte | Eur J Nutr
+- new | 2019 | 31798658 |  | The effects of elastic resistance band training and green coffee bean extract supplement on novel combined indices of cardiometabolic risk in obese women. | Res Pharm Sci
+- new | 2019 | 31251160 | Case Reports | "Just Getting a Cup of Coffee"-Considering Best Practices for Patients' Movement off the Hospital Floor. | J Hosp Med
+- new | 2018 | 29335278 | Letter/Comment | Coffee consumption and health: we need randomised controlled trials. | BMJ
+- new | 2018 | 29735178 | Letter/Comment | Dietary sugar added to coffee and tea in pre-menopausal women. | Clin Nutr
+- new | 2018 | 29515195 | Letter/Comment | Coffee and caffeine consumption in women affected by hypertension. | J Hum Hypertens
+- new | 2018 | 29474816 | Review | Coffee for Cardioprotection and Longevity. | Prog Cardiovasc Dis
+- new | 2018 | 29723112 |  | Effect of Green Coffee Consumption on Resting Energy Expenditure, Blood Pressure, and Body Temperature in Healthy Women: A Pilot Study. | J Am Coll Nutr
+- new | 2018 | 29654498 | Comparative Study/Randomized Controlled Trial | Comparative effect of coffee robusta and coffee arabica (Qahwa) on memory and attention. | Metab Brain Dis
+- new | 2018 | 29737228 | Review | Are coffee's alleged health protective effects real or artifact? The enduring disjunction between relevant experimental and observational evidence. | J Psychopharmacol
+- new | 2018 | 30439742 |  | Effectiveness of coffee for postoperative ileus in patients following abdominal surgery: a systematic review protocol. | JBI Database System Rev Implement Rep
+- new | 2018 | 29580726 | Case Reports | [White hemithorax in a young women carrying coffee and milk spots]. | Rev Pneumol Clin [fre]
+- new | 2018 | 29501445 | Letter/Comment | Pre-clinical atherosclerosis is associated with low coffee consumption and low adherence to Mediterranean Diet in pre-menopausal women. | Nutr Metab Cardiovasc Dis
+- new | 2018 | 29866304 | Randomized Controlled Trial | Using coffee to compensate for poor sleep: Impact on vigilance and implications for workplace performance. | Appl Ergon
+- new | 2018 | 29104123 | Letter/Comment | The impact of coffee consumption on fibrosis and steatosis in HIV-HCV co-infected patients. | J Hepatol
+- new | 2018 | 29364517 |  | Coffee, tea and caffeine consumption and risk of primary infertility in women: a Danish cohort study. | Acta Obstet Gynecol Scand
+- new | 2018 | 30096876 | Comparative Study | Coffee Consumption and Whole-Blood Gene Expression in the Norwegian Women and Cancer Post-Genome Cohort. | Nutrients
+- new | 2018 | 29489740 | Letter | Coffee in hypertensive women with asymptomatic peripheral arterial disease: a potential nutraceutical effect. | J Cardiovasc Med (Hagerstown)
+- new | 2018 | 30133576 |  | Genetic diversity of promising 'conilon' coffee clones based on morpho-agronomic variables. | An Acad Bras Cienc
+- new | 2018 | 29380105 |  | Coffee or Tea? A prospective cohort study on the associations of coffee and tea intake with overall and cause-specific mortality in men versus women. | Eur J Epidemiol
+- new | 2018 | 29384336 |  | Assessing self-reported green tea and coffee consumption by food frequency questionnaire and food record and their association with polyphenol biomarkers in Japanese women. | Asia Pac J Clin Nutr
+- new | 2018 | 30513727 | Controlled Clinical Trial | Lipidomic Response to Coffee Consumption. | Nutrients
+- new | 2018 | 30274327 | Randomized Controlled Trial | The Acute Effects of Caffeinated Black Coffee on Cognition and Mood in Healthy Young and Older Adults. | Nutrients
+- new | 2017 | 28826374 | Meta-Analysis/Systematic Review | Coffee, Caffeine, and Health Outcomes: An Umbrella Review. | Annu Rev Nutr
+- new | 2017 | 29292767 |  | Coffee Consumption and the Risk of Obesity in Korean Women. | Nutrients
+- new | 2017 | 28763212 | Research Support, Non-U.S. Gov't | Cafestol, a Bioactive Substance in Coffee, Has Antidiabetic Properties in KKAy Mice. | J Nat Prod
+- new | 2017 | 28675091 | Randomized Controlled Trial | Coffee polyphenols extracted from green coffee beans improve skin properties and microcirculatory function. | Biosci Biotechnol Biochem
+- new | 2017 | 28664630 |  | Cross-sectional association of coffee and caffeine consumption with sex hormone-binding globulin in healthy nondiabetic women. | Clin Endocrinol (Oxf)
+- new | 2017 | 28510095 | Letter/Comment | The relationship between postmenopausal women's sclerostin levels and their bone density, age, body mass index, hormonal status, and smoking and consumption of coffee and dairy pro | Arch Gynecol Obstet
+- new | 2017 | 28138749 |  | The relationship between postmenopausal women's sclerostin levels and their bone density, age, body mass index, hormonal status, and smoking and consumption of coffee and dairy pro | Arch Gynecol Obstet
+- new | 2017 | 29121975 | Comparative Study/Randomized Controlled Trial | The Pocket-4-Life project, bioavailability and beneficial properties of the bioactive compounds of espresso coffee and cocoa-based confectionery containing coffee: study protocol f | Trials
+- new | 2017 | 27780709 | Randomized Controlled Trial | Effects of coffee consumption on gut recovery after surgery of gynecological cancer patients: a randomized controlled trial. | Am J Obstet Gynecol
+- new | 2017 | 28917230 | Randomized Controlled Trial | Energy restriction combined with green coffee bean extract affects serum adipocytokines and the body composition in obese women. | Asia Pac J Clin Nutr
+- new | 2017 | 28971609 | Randomized Controlled Trial | Coffee inhibition of CYP3A4 in vitro was not translated to a grapefruit-like pharmacokinetic interaction clinically. | Pharmacol Res Perspect
+- new | 2017 | 28526782 |  | Acute impact of drinking coffee on the cerebral and systemic vasculature. | Physiol Rep
+- new | 2016 | 26677204 | Review | Effects of coffee/caffeine on brain health and disease: What should I tell my patients? | Pract Neurol
+- new | 2016 | 27035595 | Randomized Controlled Trial | Black or white coffee before anaesthesia?: A randomised crossover trial. | Eur J Anaesthesiol
+- new | 2016 | 26919845 | Research Support, Non-U.S. Gov't | Acute effect of coffee drinking on dynamic cerebral autoregulation. | Eur J Appl Physiol
+- new | 2016 | 27239197 |  | Coffee Consumption and the Incidence of Colorectal Cancer in Women. | J Cancer Epidemiol
+- new | 2016 | 27270110 | Research Support, Non-U.S. Gov't | Plasma concentrations of coffee polyphenols and plasma biomarkers of diabetes risk in healthy Japanese women. | Nutr Diabetes
+- new | 2016 | 26657046 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S./Observational Study | Coffee and caffeine consumption and the risk of hypertension in postmenopausal women. | Am J Clin Nutr
+- new | 2016 | 27010635 |  | Coffee consumption and the risk of cancer in the Norwegian Women and Cancer (NOWAC) Study. | Eur J Epidemiol
+- new | 2016 | 26174162 | Comparative Study | Can a microwave heat up coffee? How English- and Japanese-speaking children choose subjects in lexical causative sentences. | J Child Lang
+- new | 2016 | 27038718 |  | Coffee consumption and risk of cardiovascular events in hypertensive patients. Results from the HARVEST. | Int J Cardiol
+- new | 2016 | 26932511 |  | The influence of espresso coffee on neurocognitive function in HIV-infected patients. | AIDS Care
+- new | 2016 | 27481881 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Coffee-Antihypertensive Drug Interaction: A Hemodynamic and Pharmacokinetic Study With Felodipine. | Am J Hypertens
+- new | 2016 | 26890974 | Randomized Controlled Trial | Effect of Coffee and Caffeine Ingestion on Resistance Exercise Performance. | J Strength Cond Res
+- new | 2016 | 29736473 |  | A randomized placebo-controlled trial of the effect of coffee consumption on insulin sensitivity: Design and baseline characteristics of the Coffee for METabolic Health (COMETH) st | Contemp Clin Trials Commun
+- new | 2016 | 27049488 | Research Support, Non-U.S. Gov't | Nonalcoholic steatohepatitis in morbid obese patients: coffee consumption vs. disease severity. | Ann Hepatol
+- new | 2016 | 27977716 |  | Association between the Prevalence of Metabolic Syndrome and the Level of Coffee Consumption among Korean Women. | PLoS One
+- new | 2016 | 29910293 |  | Coffee and Caffeine Ingestion Have Little Effect on Repeated Sprint Cycling in Relatively Untrained Males. | Sports (Basel)
+- new | 2015 | 25787209 |  | Association between coffee consumption and an oxidative stress marker in women. | Wien Klin Wochenschr
+- new | 2015 | 26624562 |  | Regular coffee consumption may improve survival in patients with colon cancer. | Cancer
+- new | 2015 | 25596446 |  | Crossover study of the effect of coffee consumption on simulated laparoscopy skills. | Int J Surg
+- new | 2015 | 26629099 |  | Associations between frequency of coffee consumption and osteoporosis in Chinese postmenopausal women. | Int J Clin Exp Med
+- new | 2015 | 25666414 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Coffee bean polyphenols ameliorate postprandial endothelial dysfunction in healthy male adults. | Int J Food Sci Nutr
+- new | 2015 | 26265051 |  | Patients' perceptions on the impact of coffee consumption in inflammatory bowel disease: friend or foe?--a patient survey. | Nutr J
+- new | 2015 | 26063478 | Research Support, N.I.H., Extramural/Research Support, N.I.H., Intramural | Caffeine, coffee, and tea intake and urinary estrogens and estrogen metabolites in premenopausal women. | Cancer Epidemiol Biomarkers Prev
+- new | 2015 | 25678326 | Research Support, U.S. Gov't, Non-P.H.S. | Breastfeeding and coffee consumption in children younger than 2 years in Boston, Massachusetts, USA. | J Hum Lact
+- new | 2015 | 26076920 | Research Support, Non-U.S. Gov't | Prospective study of coffee consumption and all-cause, cancer, and cardiovascular mortality in Swedish women. | Eur J Epidemiol
+- new | 2014 | 25353679 | Review | [Coffee can be beneficial for patients with liver diseases]. | Ugeskr Laeger [dan]
+- new | 2014 | 24501665 |  | Coffee consumption and bone mineral density in korean premenopausal women. | Korean J Fam Med
+- new | 2014 | 24895603 |  | Habitual coffee consumption enhances attention and vigilance in hemodialysis patients. | Biomed Res Int
+- new | 2014 | 23870452 | Letter | Tea and coffee scalds in children: a British epidemic requiring a solution. | Burns
+- new | 2013 | 23363257 | Editorial/Randomized Controlled Trial | Can postoperative coffee perk up recovery time after colon surgery? | Expert Rev Gastroenterol Hepatol
+- new | 2013 | 23880351 | Research Support, Non-U.S. Gov't | Long-term coffee consumption in relation to fracture risk and bone mineral density in women. | Am J Epidemiol
+- new | 2012 | 22712813 | Letter | Coffee therapy for patients with behavioral and psychological symptoms of dementia. | Geriatr Gerontol Int
+- new | 2012 | 22836509 | Research Support, Non-U.S. Gov't | Coffee and black tea consumption and breast cancer mortality in a cohort of Swedish women. | Br J Cancer
+- new | 2012 | 22431788 | Letter/Research Support, N.I.H., Extramural | No association between coffee and caffeine intake and risk of psoriasis in US women. | Arch Dermatol
+- new | 2012 | 22315048 | Randomized Controlled Trial | Effects of coffee on driving performance during prolonged simulated highway driving. | Psychopharmacology (Berl)
+- new | 2012 | 22038462 | Research Support, Non-U.S. Gov't | Coffee does not modify postprandial glycaemic and insulinaemic responses induced by carbohydrates. | Eur J Nutr
+- new | 2011 | 21949168 | Editorial/Comment | Coffee consumption and depression risk: comment on "coffee, caffeine, and risk of depression among women". | Arch Intern Med
+- new | 2011 | 21493709 | Research Support, Non-U.S. Gov't | Coffee consumption and incidence of heart failure in women. | Circ Heart Fail
+- new | 2011 | 21562090 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Coffee consumption and mortality in women with cardiovascular disease. | Am J Clin Nutr
+- new | 2010 | 20664622 | Comparative Study | Coffee and endothelial function: a battle between caffeine and antioxidants? | Eur J Clin Nutr
+- new | 2010 | 19825397 | Review | Coffee and liver diseases. | Fitoterapia
+- new | 2010 | 20718221 |  | On coffee talk and break-room chatter: perceptions of women who gossip in the workplace. | J Soc Psychol
+- new | 2009 | 19178788 | Randomized Controlled Trial | Caffeinated coffee enhances co-operative behavior in the Mixed Motive Game in healthy volunteers. | Nutr Neurosci
+- new | 2008 | 18198009 | Research Support, Non-U.S. Gov't/Review | Tea or coffee? A case study on evidence for dietary advice. | Public Health Nutr
+- new | 2008 | 18813311 | Research Support, Non-U.S. Gov't | Coffee intake and CYP1A2*1F genotype predict breast volume in young women: implications for breast cancer. | Br J Cancer
+- new | 2007 | 18089957 | Research Support, Non-U.S. Gov't/Review | Coffee, caffeine, and coronary heart disease. | Curr Opin Clin Nutr Metab Care
+- new | 2007 | 17218826 | Research Support, Non-U.S. Gov't/Review | Coffee, caffeine, and coronary heart disease. | Curr Opin Lipidol
+- new | 2007 | 17110637 |  | Coffee consumption and risk of myocardial infarction among older Swedish women. | Am J Epidemiol
+- new | 2007 | 17711092 |  | Tea and coffee as the main sources of oxalate in diets of patients with kidney oxalate stones. | Rocz Panstw Zakl Hig
+- new | 2006 | 17023717 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Coffee consumption and markers of inflammation and endothelial dysfunction in healthy and diabetic women. | Am J Clin Nutr
+- new | 2005 | 16231758 | Clinical Trial/Randomized Controlled Trial | Effect of coffee intake on blood pressure in male habitual alcohol drinkers. | Hypertens Res
+- new | 2004 | 15657474 | Clinical Trial/Randomized Controlled Trial | The impact of prior coffee consumption on the subsequent ergogenic effect of anhydrous caffeine. | Int J Sport Nutr Exerc Metab
+- new | 1998 | 9729561 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Metabolic and exercise endurance effects of coffee and caffeine ingestion. | J Appl Physiol (1985)
+- new | 1998 | 9581985 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Is coffee a colonic stimulant? | Eur J Gastroenterol Hepatol
+- new | 1997 | 9210983 | Clinical Trial/Randomized Controlled Trial | The influence of coffee with milk and tea with milk on the bioavailability of tetracycline. | Biopharm Drug Dispos
+- new | 1996 | 8671551 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Italian style brewed coffee: effect on serum cholesterol in young men. | Int J Epidemiol
+- new | 1993 | 8312736 | Clinical Trial/Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | Coffee and alcohol intake as predictors of smoking cessation and tobacco withdrawal. | J Subst Abuse
+- new | 1990 | 2095747 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Coffee consumption and blood pressure: a randomized, crossover clinical trial. | J Gen Intern Med
+- new | 1990 | 2195580 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Blood pressure response to the "second cup of coffee". | Psychosom Med
+- new | 1990 | 2183599 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Coffee consumption and serum lipids: a randomized, crossover clinical trial. | Am J Med
+- new | 1990 | 2146967 | Clinical Trial/Randomized Controlled Trial | Coffee, caffeine and hemostasis: results from two randomized studies. | Atherosclerosis
+- new | 1990 | 2271748 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Influence of liquids (coffee and orange juice) on the bioavailability of tetracycline. | Biopharm Drug Dispos
+- new | 1989 | 2632724 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Abstinence from coffee leads to a fall in blood pressure. | J Hypertens Suppl
+- new | 1988 | 3277015 | Clinical Trial/Review | Coffee and heart disease: the hypothesis re-examined. | Med J Aust
+- new | 1987 | 3591779 |  | Coffee drinking and myocardial infarction in young women: an update. | Am J Epidemiol
+- new | 1986 | 3745848 | Clinical Trial/Controlled Clinical Trial | Effect of regular and decaffeinated coffee on serum gastrin levels. | J Clin Gastroenterol
+- new | 1982 | 7124761 | Research Support, Non-U.S. Gov't | Effect of coffee and cigarette smoking on the blood pressure of untreated and diuretic-treated hypertensive patients. | Am J Med
+- new | 1980 | 7211536 | Clinical Trial/Controlled Clinical Trial | Coffee drinking and cigarette smoking: II. Coffee, urinary pH and cigarette smoking behavior. | Addict Behav
+- new | 1980 | 7002705 | Clinical Trial/Controlled Clinical Trial | Inhibitory effect of coffee on lower esophageal sphincter pressure. | Gastroenterology
+- new | 1980 | 7211535 | Clinical Trial/Randomized Controlled Trial | Coffee drinking and cigarette smoking: I. Coffee, caffeine and cigarette smoking behavior. | Addict Behav
+- new | 1978 | 346427 | Clinical Trial/Comparative Study/Controlled Clinical Trial | The effects of de-caffeinated coffee versus whole coffee on hyperactive children. | Dev Med Child Neurol
+- new | 1976 | 960795 |  | [Metabolism studies with coffee and caffeine in healthy subjects, diabetics and patients with liver disease]. | Z Ernahrungswiss [ger]
+- new | 1972 | 4578180 | Clinical Trial/Controlled Clinical Trial | [Clinical-pharmacological double-blind study using different coffee qualities in employed test persons]. | Pharmazie [ger]
+
+### PubMed SR - 448 hits, 98 not already listed above, 96 new
+- new | 2026 | 42098622 | Systematic Review/Meta-Analysis | Coffee, caffeine, and cardiovascular health: navigating risks and benefits-an updated systematic review and meta-analysis. | BMC Cardiovasc Disord
+- new | 2025 | 40104819 | Systematic Review | Coffee and tea consumption on the risk of osteoporosis: a meta-analysis. | Front Nutr
+- new | 2025 | 41212037 | Review | Coffee consumption and risk of multiple sclerosis (MS): a systematic review and meta-analysis. | Neurodegener Dis Manag
+- new | 2025 | 41098399 | Review | Effects of coffee and tea consumption on hyperuricemia and gout: a systematic review and meta-analysis. | Nutr Res Pract
+- new | 2024 | 37647856 | Systematic Review/Meta-Analysis/Research Support, Non-U.S. Gov't | A meta-analysis and systematic review of randomized clinical trials on the effect of coffee consumption on heart rate. | Nutr Rev
+- new | 2024 | 37523229 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Moderate coffee or tea consumption decreased the risk of cognitive disorders: an updated dose-response meta-analysis. | Nutr Rev
+- new | 2024 | 39519563 | Meta-Analysis | Coffee and Risk of Pancreatic Cancer: Insights from Two-Sample and Multivariable Mendelian Randomization Analyses. | Nutrients
+- new | 2024 | 39054894 | Systematic Review/Meta-Analysis | Tea, coffee, and caffeine intake and risk of dementia and Alzheimer's disease: a systematic review and meta-analysis of cohort studies. | Food Funct
+- new | 2024 | 39178989 | Review | Effects of coffee and tea consumption on glioma risk: An umbrella review of systematic reviews and meta-analyses. | Clin Nutr ESPEN
+- new | 2024 | 39179502 | Systematic Review/Meta-Analysis | Coffee consumption and C-reactive protein levels: A systematic review and meta-analysis. | Nutr Metab Cardiovasc Dis
+- new | 2024 | 39737152 | Systematic Review | Coffee and tea consumption and glioma risk: a meta-analysis of cohort studies. | Front Nutr
+- new | 2024 | 38738710 | Meta-Analysis/Review/Research Support, Non-U.S. Gov't | Coffee Consumption and Risk of Lung Cancer: A Meta-Analysis of Prospective Cohort Studies. | Nutr Cancer
+- new | 2024 | 38215842 | Meta-Analysis/Review | Effect of shade on biodiversity within coffee farms: A meta-analysis. | Sci Total Environ
+- new | 2024 | 39313394 | Systematic Review/Meta-Analysis | The association between antenatal coffee consumption and preeclampsia: a systematic review and meta-analysis. | Environ Health Prev Med
+- new | 2024 | 39368321 | Systematic Review/Meta-Analysis | The effects of green coffee bean extract on blood pressure and heart rate: A systematic review and dose-response meta-analysis of randomized controlled trials. | Diabetes Metab Syndr
+- new | 2023 | 37447390 | Meta-Analysis/Systematic Review | Coffee Consumption and Risk of Hypertension in Adults: Systematic Review and Meta-Analysis. | Nutrients
+- new | 2023 | 37038314 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Coffee, Green Tea Intake, and the Risk of Hepatocellular Carcinoma: A Systematic Review and Meta-Analysis of Observational Studies. | Nutr Cancer
+- new | 2023 | 37710316 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Chlorogenic acid in green bean coffee on body weight: a systematic review and meta-analysis of randomized controlled trials. | Syst Rev
+- new | 2023 | 34553656 | Systematic Review/Meta-Analysis | Acids in coffee: A review of sensory measurements and meta-analysis of chemical composition. | Crit Rev Food Sci Nutr
+- new | 2023 | 34236263 | Systematic Review | Green coffee: economic relevance and a systematic review of the effects on human health. | Crit Rev Food Sci Nutr
+- new | 2022 | 34690004 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee and Caffeine Consumption and Risk of Kidney Stones: A Mendelian Randomization Study. | Am J Kidney Dis
+- new | 2022 | 36413800 | Meta-Analysis | Coffee Intake and Risk of Hypertension: A Meta-Analysis of Cohort Studies. | J Korean Med Sci
+- new | 2022 | 35790921 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Association between coffee consumption and periodontal diseases: a systematic review and meta-analysis. | BMC Oral Health
+- new | 2022 | 35553079 | Systematic Review/Research Support, Non-U.S. Gov't | Spent coffee grounds: A sustainable approach toward novel perspectives of valorization. | J Food Biochem
+- new | 2022 | 35048465 | Meta-Analysis | Association between coffee drinking and endometrial cancer risk: A meta-analysis. | J Obstet Gynaecol Res
+- new | 2022 | 35646331 | Systematic Review | Coffee by-products as the source of antioxidants: a systematic review. | F1000Res
+- new | 2022 | 35536449 | Meta-Analysis/Systematic Review | Can I Have My Coffee and Drink It? A Systematic Review and Meta-analysis to Determine Whether Habitual Caffeine Consumption Affects the Ergogenic Effect of Caffeine. | Sports Med
+- new | 2022 | 34677742 | Meta-Analysis | Coffee consumption and risk of renal cancer: a meta-analysis of cohort evidence. | Cancer Causes Control
+- new | 2022 | 36616231 | Review | A Systematic Review on the Impacts of Climate Change on Coffee Agrosystems. | Plants (Basel)
+- new | 2022 | 36041172 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Coffee consumption and risk of endometrial cancer: a pooled analysis of individual participant data in the Epidemiology of Endometrial Cancer Consortium (E2C2). | Am J Clin Nutr
+- new | 2022 | 35537532 | Research Support, Non-U.S. Gov't | Habitual Coffee Consumption Increases Risk of Primary Open-Angle Glaucoma: A Mendelian Randomization Study. | Ophthalmology
+- new | 2022 | 33750490 | Meta-Analysis/Systematic Review | Coffee and tea consumption and the risk of glioma: a systematic review and dose-response meta-analysis. | Br J Nutr
+- new | 2021 | 34370111 | Review | Coffee and Arterial Hypertension. | Curr Hypertens Rep
+- new | 2021 | 34737201 | Meta-Analysis/Research Support, N.I.H., Extramural | Metabolites Associated with Coffee Consumption and Incident Chronic Kidney Disease. | Clin J Am Soc Nephrol
+- new | 2021 | 34371891 | Systematic Review | Coffee Consumption and the Progression of NAFLD: A Systematic Review. | Nutrients
+- new | 2021 | 33431520 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Coffee consumption and risk of prostate cancer: a systematic review and meta-analysis. | BMJ Open
+- new | 2021 | 34187701 | Meta-Analysis/Research Support, Non-U.S. Gov't | Smoking, alcohol and coffee consumption and pregnancy loss: a Mendelian randomization investigation. | Fertil Steril
+- new | 2021 | 33990564 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Epigenome-wide association meta-analysis of DNA methylation with coffee and tea consumption. | Nat Commun
+- new | 2020 | 30926628 | Meta-Analysis/Systematic Review | Wake up and smell the coffee: caffeine supplementation and exercise performance-an umbrella review of 21 published meta-analyses. | Br J Sports Med
+- new | 2020 | 31308476 | Meta-Analysis | Dose-response meta-analysis of coffee consumption and risk of colorectal adenoma. | Eur J Clin Nutr
+- new | 2020 | 31364891 | Meta-Analysis | A dose-response meta-analysis of coffee consumption and thyroid cancer occurrence. | Int J Food Sci Nutr
+- new | 2020 | 32397288 | Meta-Analysis/Systematic Review | Coffee Consumption and C-Reactive Protein Levels: A Systematic Review and Meta-Analysis. | Nutrients
+- new | 2020 | 33158718 | Meta-Analysis/Systematic Review | Safety of coffee consumption after myocardial infarction: A systematic review and meta-analysis. | Nutr Metab Cardiovasc Dis
+- new | 2020 | 32024485 | Systematic Review | Coffee drinking and cancer risk: an umbrella review of meta-analyses of observational studies. | BMC Cancer
+- new | 2020 | 32550217 | Review | The effect of green coffee extract supplementation on cardio metabolic risk factors: a systematic review and meta-analysis of randomized controlled trials. | J Diabetes Metab Disord
+- new | 2019 | 31055709 | Meta-Analysis | Coffee consumption and all-cause and cause-specific mortality: a meta-analysis by potential modifiers. | Eur J Epidemiol
+- new | 2019 | 30415159 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee and tea consumption and the risk for subarachnoid hemorrhage: A meta-analysis. | Nutrition
+- new | 2019 | 30632827 | Meta-Analysis/Systematic Review | Coffee consumption and risk of pancreatic cancer: a systematic review and dose-response meta-analysis. | Int J Food Sci Nutr
+- new | 2019 | 30573353 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | A systematic review and a dose-response meta-analysis of coffee dose and nonalcoholic fatty liver disease. | Clin Nutr
+- new | 2019 | 30833443 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Coffee and caffeine intake and risk of ovarian cancer: a systematic review and meta-analysis. | Int J Gynecol Cancer
+- new | 2019 | 29222637 | Meta-Analysis/Systematic Review | Coffee consumption and risk of hypertension: a dose-response meta-analysis of prospective studies. | Eur J Nutr
+- new | 2019 | 30962663 | Meta-Analysis | Coffee consumption and liver cancer risk in Japan: a meta-analysis of six prospective cohort studies. | Nagoya J Med Sci
+- new | 2018 | 28671769 | Systematic Review | Chronic coffee consumption and respiratory disease: A systematic review. | Clin Respir J
+- new | 2018 | 29991442 | Systematic Review | Coffee consumption and purchasing behavior review: Insights for further research. | Appetite
+- new | 2018 | 28084806 | Systematic Review | Does coffee consumption alter plasma lipoprotein(a) concentrations? A systematic review. | Crit Rev Food Sci Nutr
+- new | 2018 | 27902644 | Meta-Analysis/Systematic Review | Coffee consumption and risk of nonmelanoma skin cancer: a dose-response meta-analysis. | Eur J Cancer Prev
+- new | 2018 | 29345166 | Systematic Review | Effects of Coffee Components on Muscle Glycogen Recovery: A Systematic Review. | Int J Sport Nutr Exerc Metab
+- new | 2018 | 30043284 | Meta-Analysis/Systematic Review | Heavy Coffee Consumption and Risk of Pancreatitis: A Systematic Review and Meta-Analysis. | Dig Dis Sci
+- new | 2018 | 29276945 | Review | Coffee Consumption and Cardiovascular Disease: A Condensed Review of Epidemiological Evidence and Mechanisms. | J Agric Food Chem
+- new | 2018 | 29703019 | Meta-Analysis/Review | Coffee consumption and risk of esophageal cancer incidence: A meta-analysis of epidemiologic studies. | Medicine (Baltimore)
+- new | 2017 | 29167102 | Meta-Analysis/Systematic Review | Coffee consumption and health: umbrella review of meta-analyses of multiple health outcomes. | BMJ
+- new | 2017 | 26899133 | Systematic Review | Coffee, caffeine, and sleep: A systematic review of epidemiological studies and randomized controlled trials. | Sleep Med Rev
+- new | 2017 | 28198392 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Coffee consumption is associated with DNA methylation levels of human blood. | Eur J Hum Genet
+- new | 2017 | 28646871 | Systematic Review | Coffee and caffeine intake and male infertility: a systematic review. | Nutr J
+- new | 2017 | 27916427 | Systematic Review | Tea, cocoa, coffee, and affective disorders: vicious or virtuous cycle? | J Affect Disord
+- new | 2017 | 27933694 | Meta-Analysis/Review | Association of coffee consumption and chronic kidney disease: A meta-analysis. | Int J Clin Pract
+- new | 2017 | 28853102 | Meta-Analysis/Review | An Up-to-date Meta-analysis of Coffee Consumption and Risk of Prostate Cancer. | Urol J
+- new | 2017 | 28134794 | Meta-Analysis/Systematic Review | Coffee Consumption and the Risk of Thyroid Cancer: A Systematic Review and Meta-Analysis. | Int J Environ Res Public Health
+- HELD REF-0135 | 2016 | 26806124 | Multicenter Study/Systematic Review | Systematic review with meta-analysis: coffee consumption and the risk of cirrhosis. | Aliment Pharmacol Ther
+- new | 2016 | 27957457 | Review | Coffee and the Risk of Lymphoma: A Meta-analysis Article. | Iran J Public Health
+- new | 2016 | 26339067 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee and caffeine consumption and depression: A meta-analysis of observational studies. | Aust N Z J Psychiatry
+- new | 2016 | 27440694 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Coffee consumption and risk of gastric cancer: an updated meta-analysis. | Asia Pac J Clin Nutr
+- new | 2016 | 26695410 | Meta-Analysis/Review | Coffee consumption and the risk of cutaneous melanoma: a meta-analysis. | Eur J Nutr
+- new | 2016 | 27401353 | Meta-Analysis/Systematic Review | Is coffee consumption associated with a lower risk of hyperuricaemia or gout? A systematic review and meta-analysis. | BMJ Open
+- new | 2016 | 26431818 | Meta-Analysis/Review | Coffee consumption and risk of the metabolic syndrome: A meta-analysis. | Diabetes Metab
+- new | 2016 | 26547919 | Meta-Analysis/Systematic Review | Coffee Consumption and Melanoma: A Systematic Review and Meta-Analysis of Observational Studies. | Am J Clin Dermatol
+- new | 2016 | 27022386 | Review | Coffee Consumption and Pancreatic Cancer Risk: An Update Meta-analysis of Cohort Studies. | Pak J Med Sci
+- new | 2015 | 26198295 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Systematic review with meta-analysis: coffee consumption and the risk of gallstone disease. | Aliment Pharmacol Ther
+- new | 2015 | 25761588 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee consumption and bladder cancer: a meta-analysis of observational studies. | Sci Rep
+- new | 2015 | 25733642 | Meta-Analysis/Research Support, Non-U.S. Gov't | Tea and coffee and risk of endometrial cancer: cohort study and meta-analysis. | Am J Clin Nutr
+- new | 2015 | 26556483 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee Consumption Decreases Risks for Hepatic Fibrosis and Cirrhosis: A Meta-Analysis. | PLoS One
+- HELD REF-0059 | 2014 | 24201300 | Meta-Analysis/Research Support, N.I.H., Extramural/Systematic Review | Long-term coffee consumption and risk of cardiovascular disease: a systematic review and a dose-response meta-analysis of prospective cohort studies. | Circulation
+- new | 2014 | 24503776 | Meta-Analysis/Review | A meta-analysis of coffee intake and risk of urolithiasis. | Urol Int
+- new | 2014 | 24668519 | Review | Coffee and cancer risk, epidemiological evidence, and molecular mechanisms. | Mol Nutr Food Res
+- new | 2014 | 24196722 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee, tea, and the risk of hip fracture: a meta-analysis. | Osteoporos Int
+- new | 2014 | 24584929 | Meta-Analysis | Coffee consumption and prostate cancer risk: an updated meta-analysis. | Cancer Causes Control
+- new | 2014 | 24481690 | Meta-Analysis | Coffee and caffeine intake and risk of endometriosis: a meta-analysis. | Eur J Nutr
+- new | 2014 | 24576685 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Coffee consumption and risk of fractures: a systematic review and dose-response meta-analysis. | Bone
+- new | 2013 | 23990273 | Review | Coffee consumption and cardiovascular health: getting to the heart of the matter. | Curr Cardiol Rep
+- new | 2012 | 21876539 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Genome-wide association analysis of coffee drinking suggests association with CYP1A1/CYP1A2 and NRCAM. | Mol Psychiatry
+- new | 2011 | 21432699 | Review | Coffee and its consumption: benefits and risks. | Crit Rev Food Sci Nutr
+- new | 2011 | 21880846 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: a systematic review and meta-analysis. | Am J Clin Nutr
+- new | 2009 | 18707777 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee consumption and risk of coronary heart diseases: a meta-analysis of 21 prospective cohort studies. | Int J Cardiol
+- new | 2007 | 17156982 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee consumption and risk of coronary heart disease: a meta-analysis. | Nutr Metab Cardiovasc Dis
+- new | 2001 | 11207153 | Meta-Analysis/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Coffee consumption and serum lipids: a meta-analysis of randomized controlled clinical trials. | Am J Epidemiol
+- new | 1993 | 8345316 | Meta-Analysis | The effect of coffee consumption on serum cholesterol levels. | J Manipulative Physiol Ther
+- new | 1992 | 1387780 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee and coronary heart disease. | Arch Intern Med
+- new | 1990 | 2149141 | Meta-Analysis | A review of the relationship between coffee consumption and coronary heart disease. | J Community Health
+
+### PubMed SAFE - 957 hits, 190 not already listed above, 190 new
+- new | 2026 | 42009777 |  | Structural insights into coffee bitter taste perception by TAS2R43 receptor. | Nat Struct Mol Biol
+- new | 2026 | 42657541 |  | Cyanide toxicity following an amygdalin and coffee "parasite cleanse". | Clin Toxicol (Phila)
+- new | 2026 | 42754617 |  | Coffee and Parkinson's disease: associations by CYP1A2 genotype and sex in UK Biobank. | NPJ Parkinsons Dis
+- new | 2026 | 41978115 | Review | Coffee and Caffeine in Depression: Symptom-Level Modulation and Challenges in Nutripsychiatric Interpretation. | Nutrients
+- new | 2026 | 42059988 | Review | Coffee Consumption and Its Potential Implications for Digestive Tract Carcinogenesis. | Curr Nutr Rep
+- new | 2026 | 42630350 |  | Cafestol and kahweol: coffee diterpenes with trypanocidal activity and cardioprotective effects. | Front Cell Infect Microbiol
+- new | 2026 | 41178016 |  | Oxidative stress contributes to coffee constituent toxicity in SH-SY5Y neuroblastoma cells. | Toxicol Mech Methods
+- new | 2026 | 42439386 |  | Fermented spent coffee grounds affect cadmium toxicity and accumulation in Lolium perenne: implications for phytoremediation. | Int J Phytoremediation
+- new | 2026 | 42231050 | Letter | Flagellate Erythema From Mushroom Coffee: A Novel Exposure Route for Shiitake Dermatitis. | Int J Dermatol
+- new | 2026 | 41038111 |  | Automation in food safety: Pressurized liquid extraction for pesticide analysis in coffee. | Talanta
+- new | 2026 | 41750624 | Review | Exploring the Dermatological Benefits of Coffee Extracts and Their Derivatives. | Antioxidants (Basel)
+- new | 2026 | 40207814 |  | Protective Role of Coffee in Thioacetamide-induced Nephrotoxicity: A Study in Rats. | Curr Pharm Biotechnol
+- new | 2026 | 42354140 |  | Panamanian Geisha Coffee Exhibits Antioxidant and Vasorelaxant Activities with a Favorable Safety Profile. | Foods
+- new | 2026 | 42456335 |  | Chemical and sensory profiling of fermented, washed, and artificially flavored coffee beans: Insights into flavour quality, authenticity, and food safety implications. | Food Chem
+- new | 2026 | 42118061 | Review | Coffee consumption and chronic kidney disease. | Nephrol Dial Transplant
+- new | 2026 | 41676009 |  | From Coffee Alkaloid to Ovarian Targets: An Integrated Computational Framework for Trigonelline in Ovarian Aging. | Food Sci Nutr
+- new | 2025 | 40612088 | Case Reports | Coffee Bean Sign. | J Brown Hosp Med
+- new | 2025 | 40180122 |  | Decaffeinated coffee consumption and risk of total and site-specific cancer. | Ann Oncol
+- new | 2025 | 40423488 | Review | Genotoxicity of Coffee, Coffee By-Products, and Coffee Bioactive Compounds: Contradictory Evidence from In Vitro Studies. | Toxics
+- new | 2025 | 40469024 | Letter | Pharmacogenetic Considerations in Caffeine Toxicity: Insights Prompted by the "Death Coffee" Case Series. | Neuropsychopharmacol Rep
+- new | 2025 | 40231986 |  | Perfluoroalkyl and Polyfluoroalkyl Substance Detection in Brewed Capsule Coffee. | Foods
+- new | 2025 | 41252055 |  | Growth performance, gut health, and toxicity effects of feeding broiler chickens diets with graded levels of coffee by-products. | Trop Anim Health Prod
+- new | 2025 | 39615358 | Review | Acrylamide: An approach to its knowledge and importance for roasted coffee. | Food Chem
+- new | 2025 | 40097242 | Case Reports | Unwanted Clinical Complications Following the Consumption of Death Coffee: A Case Series. | Neuropsychopharmacol Rep
+- new | 2025 | 40002058 |  | Unveiling the Microbial Signatures of Arabica Coffee Cherries: Insights into Ripeness Specific Diversity, Functional Traits, and Implications for Quality and Safety. | Foods
+- new | 2024 | 39168554 | Review | Coffee and mental disorders: How caffeine affects anxiety and depression. | Prog Brain Res
+- new | 2024 | 39168555 | Review | Effects of coffee on cognitive function. | Prog Brain Res
+- new | 2024 | 38963648 | Review | Coffee consumption and cardiometabolic health: a comprehensive review of the evidence. | Geroscience
+- new | 2024 | 39314530 | Research Support, Non-U.S. Gov't | Coffee intake leads to preeclampsia-like syndromes in susceptible pregnant rats. | J Nutr Sci
+- new | 2024 | 38399158 |  | Effect of Coffee Grounds/Coffee Ground Biochar on Cement Hydration and Adsorption Properties. | Materials (Basel)
+- new | 2024 | 38694556 | Review | Coffee, tea, and cocoa in obesity prevention: Mechanisms of action and future prospects. | Curr Res Food Sci
+- new | 2024 | 37755557 | Review | Coffee, adenosine, and the liver. | Purinergic Signal
+- new | 2024 | 36413627 | Review | Potentially toxic elements (PTEs) in coffee: a comprehensive review of toxicity, prevalence, and analytical techniques. | Int J Environ Health Res
+- new | 2024 | 39312364 |  | Awareness of insomnia caused by coffee consumption among adults in Jazan, Saudi Arabia. | Medicine (Baltimore)
+- new | 2024 | 39590811 |  | Antiprotozoal Natural Products from Endophytic Fungi Associated with Cacao and Coffee. | Metabolites
+- new | 2024 | 39063971 |  | Coffee Consumption and CYP1A2 Polymorphism Involvement in Type 2 Diabetes in a Romanian Population. | J Pers Med
+- new | 2024 | 36263824 | Case Reports | Coffee bean sign, steel pan sign and whirl sign in sigmoid volvulus. | Rev Esp Enferm Dig
+- new | 2024 | 37906419 |  | Habitual coffee consumption and risk of dementia in older persons: modulation by CYP1A2 polymorphism. | Eur J Epidemiol
+- new | 2024 | 39385342 | Review/Research Support, Non-U.S. Gov't | Coffee substitutes: A review of the technology, characteristics, application, and future perspective. | Compr Rev Food Sci Food Saf
+- new | 2024 | 37017136 | Systematic Review/Meta-Analysis | Content of potentially toxic elements (PTEs) in coffee and coffee-based products: a meta-analysis study, Systematic review, and health risk assessment. | Drug Chem Toxicol
+- new | 2024 | 39335934 |  | Unveiling the Nutritional Profile and Safety of Coffee Pulp as a First Step in Its Valorization Strategy. | Foods
+- new | 2024 | 38325095 | Research Support, Non-U.S. Gov't | Potential safety concerns of volatile constituents released from coffee-ground-blended single-use biodegradable drinking straws: A chemical space perspective. | J Hazard Mater
+- new | 2024 | 37603202 |  | Evaluation of coffee husks in pellet bedding, performance characteristics, footpad dermatitis scoring, and meat quality of broiler ducks. | Vet Res Commun
+- new | 2023 | 36766046 |  | Coffee Silver Skin-Health Safety, Nutritional Value, and Microwave Extraction of Proteins. | Foods
+- new | 2023 | 37110693 | Review | Risk Assessment of Trigonelline in Coffee and Coffee By-Products. | Molecules
+- new | 2023 | 38032344 |  | Consumption of Roasted Coffee Leads to Conjugated Metabolites of Atractyligenin in Human Plasma. | J Agric Food Chem
+- new | 2023 | 37107868 | Review/Research Support, Non-U.S. Gov't | Thermal Contaminants in Coffee Induced by Roasting: A Review. | Int J Environ Res Public Health
+- new | 2023 | 36708672 |  | Arabic coffee infusion based kombucha: Characterization and biological activity during fermentation, and in vivo toxicity. | Food Chem
+- new | 2023 | 38231670 |  | High-Pressure Processing for Cold Brew Coffee: Safety and Quality Assessment under Refrigerated and Ambient Storage. | Foods
+- new | 2023 | 37513412 | Review | Risk Assessment of Chlorogenic and Isochlorogenic Acids in Coffee By-Products. | Molecules
+- new | 2023 | 36689564 |  | Concentrations of polycyclic aromatic hydrocarbons in Vietnamese takeaway coffee: effects of coffee variety, roasting temperature and time. | Food Addit Contam Part A Chem Anal Contr
+- new | 2023 | 37043656 | Case Reports | Coffee Bean Sign in Cecal Volvulus. | N Engl J Med
+- new | 2023 | 38450277 |  | Safety evaluation and effects of cascara pulp Gayo Arabica coffee cream as anti-photoaging in animal model. | Narra J
+- new | 2023 | 37049443 | Randomized Controlled Trial | Twelve-Week Safety and Potential Lipid Control Efficacy of Coffee Cherry Pulp Juice Concentrate in Healthy Volunteers. | Nutrients
+- new | 2023 | 35995710 | Multicenter Study | Coffee Intake, Caffeine Metabolism Genotype, and Survival Among Men with Prostate Cancer. | Eur Urol Oncol
+- new | 2023 | 37105083 |  | Label-free electrochemical immunosensor for Ochratoxin a detection in coffee samples. | Talanta
+- new | 2023 | 35076867 |  | Cadmium and Lead Concentration in Drinking Instant Coffee, Instant Coffee Drinks and Coffee Substitutes: Safety and Health Risk Assessment. | Biol Trace Elem Res
+- new | 2023 | 37204072 | Case Reports | Contact allergy to gold from a coffee cup: An unusual source of sensitization. | Contact Dermatitis
+- new | 2023 | 37448704 |  | Caffeine intoxication as a result of excessive consumption of bottled coffee products: a case report. | J Rural Med
+- new | 2023 | 37795076 |  | Harmonizing Drying Time, Layer Thickness, and Drier Zones for Drying Kinetics: Quality and Safety of Solar Tunnel-Dried Wet-Processed Parchment Coffee (Coffea arabica L.). | Int J Food Sci
+- new | 2022 | 35185168 | Review | The wastes of coffee bean processing for utilization in food: a review. | J Food Sci Technol
+- new | 2022 | 36369183 | Letter/Comment | Smoking, alcohol, and coffee consumption and pregnancy loss: a Mendelian randomization investigation. | Fertil Steril
+- new | 2022 | 36283863 | Letter/Comment | Smoking, alcohol, and coffee consumption and pregnancy loss: a Mendelian randomization investigation. | Fertil Steril
+- new | 2022 | 34469027 | Case Reports | Airborne allergic contact dermatitis caused by coffee beans in a coffee roaster. | Contact Dermatitis
+- new | 2022 | 36054153 |  | The effect of green coffee and/or endurance exercise on sperm function in pre-diabetic mice. | Andrologia
+- new | 2022 | 36009304 | Review | Addressing the Neuroprotective Actions of Coffee in Parkinson's Disease: An Emerging Nutrigenomic Analysis. | Antioxidants (Basel)
+- new | 2022 | 35237357 |  | Safety of dried coffee husk (cascara) from Coffea arabica L. as a Novel food pursuant to Regulation (EU) 2015/2283. | EFSA J
+- new | 2022 | 35159415 | Review | Risk Assessment of Caffeine and Epigallocatechin Gallate in Coffee Leaf Tea. | Foods
+- new | 2022 | 35167892 |  | Physicochemical and cell toxicity properties of particulate matter (PM) from a diesel vehicle fueled with diesel, spent coffee ground biodiesel, and ethanol. | Sci Total Environ
+- new | 2022 | 35456580 |  | The Intake of Coffee Increases the Absorption of Aspirin in Mice by Modifying Gut Microbiome. | Pharmaceutics
+- new | 2022 | 36387473 |  | Decaffeination and improvement of taste, flavor and health safety of coffee and tea using mid-infrared wavelength rays. | Heliyon
+- new | 2022 | 34842894 | Comment | Coffee Consumption and Risk of Adverse Outcomes. | JAMA Intern Med
+- new | 2022 | 36296431 | Review | Toxicological Assessment of Roasted Coffee Silver Skin (Testa of Coffea sp.) as Novel Food Ingredient. | Molecules
+- new | 2022 | 35226750 |  | Safest Roasting Times of Coffee To Reduce Carcinogenicity. | J Food Prot
+- new | 2022 | 36193897 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Coffee modulates insulin-hepatocyte nuclear factor-4α-Cyp7b1 pathway and reduces oxysterol-driven liver toxicity in a nonalcoholic fatty liver disease mouse model. | Am J Physiol Gastrointest Liver Physiol
+- new | 2022 | 35972972 | Research Support, Non-U.S. Gov't | Indoor ozone removal and deposition using unactivated solid and liquid coffee. | PLoS One
+- new | 2022 | 35192850 |  | Is Turkish coffee protects Drosophila melanogaster on cadmium acetate toxicity by promoting antioxidant enzymes? | Chemosphere
+- new | 2022 | 36500526 | Review | Risk Assessment of Coffee Cherry (Cascara) Fruit Products for Flour Replacement and Other Alternative Food Uses. | Molecules
+- new | 2022 | 34842896 | Comment | Coffee Consumption and Risk of Adverse Outcomes-Reply. | JAMA Intern Med
+- new | 2021 | 34279564 | Multicenter Study/Research Support, Non-U.S. Gov't | Coffee Consumption and Incident Tachyarrhythmias: Reported Behavior, Mendelian Randomization, and Their Interactions. | JAMA Intern Med
+- new | 2021 | 34454355 |  | Characterization and preliminary safety evaluation of nano-SiO(2) isolated from instant coffee. | Ecotoxicol Environ Saf
+- new | 2021 | 34276581 |  | Coffee Consumption Modulates Amoxicillin-Induced Dysbiosis in the Murine Gut Microbiome. | Front Microbiol
+- new | 2021 | 33261994 | Review | Polycyclic aromatic hydrocarbons in coffee samples: Enquiry into processes and analytical methods. | Food Chem
+- new | 2021 | 34299444 |  | Chemical Analysis, Toxicity Study, and Free-Radical Scavenging and Iron-Binding Assays Involving Coffee (Coffea arabica) Extracts. | Molecules
+- new | 2021 | 33715482 |  | Synthetic cathinone poisoning from ingestion of drug-laced "instant coffee packets" in Taiwan. | Hum Exp Toxicol
+- new | 2021 | 34642959 | Review | Assessing the food safety risk of ochratoxin A in coffee: A toxicology-based approach to food safety planning. | J Food Sci
+- new | 2021 | 33413326 |  | Green coffee methanolic extract and silymarin protect against CCl4-induced hepatotoxicity in albino male rats. | BMC Complement Med Ther
+- new | 2021 | 34560791 | Review | Coffee Leaves: An Upcoming Novel Food? | Planta Med
+- new | 2021 | 33360348 |  | Biological, histological and immunohistochemical studies on the toxicity of spent coffee grounds and caffeine on the larvae of Aedes aegypti (Diptera: Culicidae). | Environ Pollut
+- new | 2021 | 33708386 |  | Acute and sub-chronic toxicity evaluation of a standardized green coffee bean extract (CGA-7™) in Wistar albino rats. | SAGE Open Med
+- new | 2021 | 34391463 |  | Association between hypertension and coffee drinking based on CYP1A2 rs762551 single nucleotide polymorphism in Taiwanese. | Nutr Metab (Lond)
+- new | 2021 | 33493803 |  | Coffee and cigarette smoking interactions with lamotrigine. | Epilepsy Behav
+- new | 2020 | 32309489 | Case Reports | Proctocolitis From Coffee Enema. | ACG Case Rep J
+- new | 2020 | 32674330 |  | Roasted Rye as a Coffee Substitute: Methods for Reducing Acrylamide. | Foods
+- new | 2020 | 32517949 | Research Support, Non-U.S. Gov't/Review | New trends in coffee diterpenes research from technological to health aspects. | Food Res Int
+- new | 2020 | 32899046 | Systematic Review | The safety and effectiveness of self-administered coffee enema: A systematic review of case reports. | Medicine (Baltimore)
+- new | 2020 | 32775441 | Review | The Effect of Coffee on Pharmacokinetic Properties of Drugs : A Review. | Biomed Res Int
+- new | 2020 | 31519491 | Case Reports/Letter | Anaphylaxis caused by sodium caseinate contained in canned coffee. | Allergol Int
+- new | 2020 | 32641659 | Case Reports | Esophageal Hematoma Associated with the Bolus Ingestion of Hot Coffee. | Intern Med
+- new | 2020 | 35696115 |  | Acute and subacute oral toxicity assessment of dry encapsulated and non-encapsulated green coffee fruit extracts. | J Food Drug Anal
+- new | 2020 | 32990505 |  | Estimating the acrylamide exposure of adult individuals from coffee: Turkey. | Food Addit Contam Part A Chem Anal Contr
+- new | 2020 | 32526645 | Research Support, Non-U.S. Gov't | Coffee intake during pregnancy and childhood acute leukemia - A cohort study. | Cancer Epidemiol
+- new | 2020 | 32015060 | Case Reports | Sigmoid volvulus: Coffee bean sign, whirl sign. | Cleve Clin J Med
+- new | 2019 | 31703400 |  | Coffee Silverskin Extract: Nutritional Value, Safety and Effect on Key Biological Functions. | Nutrients
+- new | 2019 | 31166336 | Review | The sources and mechanisms of bioactive ingredients in coffee. | Food Funct
+- new | 2019 | 32126601 |  | [Green coffee bean allergy and ultrafine particles exposure in Trieste dock workers]. | G Ital Med Lav Ergon [ita]
+- new | 2019 | 28853910 | Review | Coffee consumption and disease correlations. | Crit Rev Food Sci Nutr
+- new | 2019 | 31019146 |  | [Study of Tea and Coffee on Inactivation of Kudoa septempunctata]. | Shokuhin Eiseigaku Zasshi [jpn]
+- new | 2019 | 30888913 | Evaluation Study | Determination of Total Chlorogenic Acids in Commercial Green Coffee Extracts. | J Med Food
+- new | 2019 | 31285007 | Research Support, Non-U.S. Gov't/Review | Drinking for protection? Epidemiological and experimental evidence on the beneficial effects of coffee or major coffee compounds against gastrointestinal and liver carcinogenesis. | Food Res Int
+- new | 2019 | 31319524 |  | Safety Pharmacological Evaluation of the Coffee Component, Caffeoylquinic Acid, and Its Metabolites, Using Ex Vivo and In Vitro Profiling Assays. | Pharmaceuticals (Basel)
+- new | 2019 | 31277723 |  | Challenges on Production of a Certified Reference Material of Ochratoxin A in Roasted Coffee: A Brazilian Experience. | J AOAC Int
+- new | 2019 | 31515726 |  | Inhibition of growth and ochratoxin A production in Aspergillus species by fungi isolated from coffee beans. | Braz J Microbiol
+- new | 2019 | 31045853 | Research Support, Non-U.S. Gov't | Respiratory Health Among Hand Pickers in Primary Coffee-Processing Factories of Ethiopia. | J Occup Environ Med
+- new | 2019 | 30805079 | Case Reports | Waking Up and Literally Smelling the Coffee: Inducing Olfactory Function with 3-Phase Auricular Therapy. | Med Acupunct
+- new | 2018 | 29512445 | Review | An Insight into the Therapeutic Potential of Major Coffee Components. | Curr Drug Metab
+- new | 2018 | 29842908 |  | Parameters affecting the exposure to furfuryl alcohol from coffee. | Food Chem Toxicol
+- new | 2018 | 30041273 | Review | Potential Mechanisms Underlying the Role of Coffee in Liver Health. | Semin Liver Dis
+- new | 2018 | 29562389 | Case Reports/Letter | An uncommon cause of coffee ground emesis : necrotizing enteritis with pneumatosis intestinalis. | Acta Gastroenterol Belg
+- new | 2018 | 29516431 | Case Reports | A severe case of epigastric pain, diarrhea and coffee ground vomitus. | Intern Emerg Med
+- new | 2018 | 29700833 | Evaluation Study | Influence of high-pressure processing on the generation of γ-aminobutyric acid and microbiological safety in coffee beans. | J Sci Food Agric
+- new | 2018 | 29673632 | Case Reports | Exfoliative Esophagitis Caused by Habitual Ingestion of Very Hot Coffee. | Clin Gastroenterol Hepatol
+- new | 2017 | 28470801 | Case Reports/Letter | A coffee bean in an infant: Call the endoscopist. | J Paediatr Child Health
+- new | 2017 | 28152530 |  | The Preventive Effect of Coffee Compounds on Dermatitis and Epidermal Pigmentation after Ultraviolet Irradiation in Mice. | Skin Pharmacol Physiol
+- new | 2017 | 29271942 |  | The Antioxidant and Safety Properties of Spent Coffee Ground Extracts Impacted by the Combined Hot Pressurized Liquid Extraction-Resin Purification Process. | Molecules
+- new | 2017 | 29025743 | Case Reports/Video-Audio Media | Acute constipation and vomiting with the "coffee bean" sign. | BMJ
+- new | 2017 | 28720938 |  | Effect of green coffee extract on rheological, physico-sensory and antioxidant properties of bread. | J Food Sci Technol
+- new | 2017 | 28397506 | Review | [Coffee in Cancer Chemoprevention]. | Klin Onkol [cze]
+- new | 2017 | 28150749 | Research Support, Non-U.S. Gov't | Occurrence of acrylamide carcinogen in Arabic coffee Qahwa, coffee and tea from Saudi Arabian market. | Sci Rep
+- new | 2017 | 28626382 | Case Reports | A Symptomatic Coffee Bean: Acute Sigmoid Volvulus. | Case Rep Gastroenterol
+- new | 2017 | 28488688 | Multicenter Study/Research Support, Non-U.S. Gov't | Association between coffee or tea drinking and Barrett's esophagus or esophagitis: an Italian study. | Eur J Clin Nutr
+- new | 2016 | 27318851 | News | Carcinogenicity of drinking coffee, mate, and very hot beverages. | Lancet Oncol
+- new | 2016 | 26995096 |  | Safety and efficacy of coffee enriched with inulin and dextrin on satiety and hunger in normal volunteers. | Nutrition
+- new | 2016 | 26776001 | Research Support, Non-U.S. Gov't | Interaction of coffee compounds with serum albumins. Part II: Diterpenes. | Food Chem
+- new | 2016 | 27652028 |  | Protoplasts: a friendly tool to study aluminum toxicity and coffee cell viability. | Springerplus
+- new | 2016 | 26971541 |  | Unsaponifiable matter from oil of green coffee beans: cosmetic properties and safety evaluation. | Drug Dev Ind Pharm
+- new | 2016 | 26439785 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effects of Coffee and Caffeine Anhydrous Intake During Creatine Loading. | J Strength Cond Res
+- new | 2016 | 27055597 | Case Reports | Malabsorption of L-T4 Due to Drip Coffee: A Case Report Using Predictors of Causation. | J Acad Nutr Diet
+- new | 2015 | 26656410 | Review | Coffee consumption vs. cancer risk - a review of scientific data. | Rocz Panstw Zakl Hig
+- new | 2015 | 31041011 | Review | Coffee as modulator of liver injury: Fact and fiction. | Clin Liver Dis (Hoboken)
+- new | 2015 | 25671481 | Case Reports | 'Coffee ground vomiting': an unusual cause of a common presentation. | Br J Hosp Med (Lond)
+- new | 2015 | 26455567 |  | Pistacia Terebinthus Coffee Protects against Thioacetamide-Induced Liver Injury in Rats. | Acta Medica (Hradec Kralove)
+- new | 2015 | 25380542 |  | In vitro enzymic hydrolysis of chlorogenic acids in coffee. | Mol Nutr Food Res
+- new | 2015 | 26172864 | Research Support, N.I.H., Extramural | Caffeine Intake, Coffee Consumption, and Risk of Cutaneous Malignant Melanoma. | Epidemiology
+- new | 2014 | 25291138 | Review | Coffee and liver health. | J Clin Gastroenterol
+- new | 2014 | 24863614 |  | Raw coffee based dietary supplements contain carboxyatractyligenin derivatives inhibiting mitochondrial adenine-nucleotide-translocase. | Food Chem Toxicol
+- new | 2014 | 25090963 | Research Support, Non-U.S. Gov't/Review | Blood pressure in relation to coffee and caffeine consumption. | Curr Hypertens Rep
+- new | 2014 | 25116993 | Case Reports/Letter | A rare entity with coffee-ground vomit in elderly adults: black esophagus. | J Am Geriatr Soc
+- new | 2014 | 24220878 | Case Reports | Rhabdomyolysis induced by excessive coffee drinking. | Hum Exp Toxicol
+- new | 2014 | 24275088 | Research Support, Non-U.S. Gov't | Prevention of rat liver fibrosis and carcinogenesis by coffee and caffeine. | Food Chem Toxicol
+- new | 2014 | 24798537 | Case Reports/Letter | Severe hypertension related to caffeinated coffee and tranylcypromine: a case report. | Ann Intern Med
+- new | 2014 | 25525684 | Research Support, Non-U.S. Gov't | Transfer of ochratoxin A into tea and coffee beverages. | Toxins (Basel)
+- new | 2014 | 23606585 | Case Reports | The sonographic "coffee bean" sign helps distinguish an axillary neurofibroma from a lymphadenopathy. | J Clin Ultrasound
+- new | 2013 | 23660416 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee reduces risk for hepatocellular carcinoma: an updated meta-analysis. | Clin Gastroenterol Hepatol
+- new | 2012 | 19564091 | Case Reports | Coffee grounds emesis: not just an upper GI bleed. | J Emerg Med
+- new | 2012 | 22648710 |  | CYP1A2 and coffee intake and the modifying effect of sex, age, and smoking. | Am J Clin Nutr
+- new | 2012 | 23495560 | Case Reports | Coffee straw can replace Hader bar for bar retained overdentures--a clinical report. | Eur J Prosthodont Restor Dent
+- new | 2011 | 21357676 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Sequence variants at CYP1A1-CYP1A2 and AHR associate with coffee consumption. | Hum Mol Genet
+- new | 2011 | 21281405 | Research Support, N.I.H., Extramural/Research Support, N.I.H., Intramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Coffee, ADORA2A, and CYP1A2: the caffeine connection in Parkinson's disease. | Eur J Neurol
+- new | 2011 | 21786129 | Editorial/Comment | Bile acids as colon carcinogens and coffee ingredients as antagonists. | Arch Toxicol
+- new | 2010 | 21769248 | Case Reports | Coffee-induced Hypokalaemia. | Clin Med Insights Case Rep
+- new | 2010 | 20054322 | Case Reports/Letter | Proctocolitis caused by coffee enemas. | Am J Gastroenterol
+- new | 2010 | 21637594 |  | In silico identification of coffee genome expressed sequences potentially associated with resistance to diseases. | Genet Mol Biol
+- new | 2009 | 19610047 | Research Support, Non-U.S. Gov't/Review | Less Smad2 is good for you! A scientific update on coffee's liver benefits. | Hepatology
+- new | 2008 | 18559802 | Case Reports | Coffee-bean sign. | CMAJ
+- new | 2008 | 18328848 | Comparative Study/Research Support, Non-U.S. Gov't | The confounded relation of coffee drinking to coronary artery disease. | Am J Cardiol
+- new | 2008 | 18701223 |  | The multifaceted mechanisms for coffee's anti-tumorigenic effect on liver. | Med Hypotheses
+- new | 2008 | 19009339 |  | Effect of unfiltered coffee on carbon tetrachloride-induced liver injury in rats. | Inflammation
+- new | 2007 | 17322215 | Comment/Editorial | Coffee and pregnancy. | BMJ
+- new | 2007 | 17484871 | Meta-Analysis/Research Support, Non-U.S. Gov't | Coffee consumption and risk of liver cancer: a meta-analysis. | Gastroenterology
+- new | 2006 | 16820341 | Randomized Controlled Trial | The blood pressure-lowering effect and safety of chlorogenic acid from green coffee bean extract in essential hypertension. | Clin Exp Hypertens
+- new | 2003 | 12791760 | Comment/Letter | Consumption of coffee during pregnancy: article raises more questions than it answers. | BMJ
+- new | 2002 | 12067578 | Review | Cafestol and kahweol, two coffee specific diterpenes with anticarcinogenic activity. | Food Chem Toxicol
+- new | 2001 | 11897887 | Research Support, Non-U.S. Gov't/Review | Caffeine, coffee and ephedrine: impact on exercise performance and metabolism. | Can J Appl Physiol
+- new | 2000 | 11216469 | Research Support, Non-U.S. Gov't/Review | Chemopreventive effects of coffee bean and rice constituents on colorectal carcinogenesis. | Biofactors
+- new | 2000 | 10910474 | Research Support, Non-U.S. Gov't | Genotoxicity of instant coffee and of some phenolic compounds present in coffee upon nitrosation. | Teratog Carcinog Mutagen
+- new | 1999 | 10073894 | Research Support, Non-U.S. Gov't/Review | Are we dependent upon coffee and caffeine? A review on human and animal data. | Neurosci Biobehav Rev
+- new | 1994 | 8051344 | Review | [Effects of coffee and caffeine on fertility, reproduction, lactation, and development. Review of human and animal data]. | J Gynecol Obstet Biol Reprod (Paris) [fre]
+- new | 1994 | 7511793 | Review | Potential genotoxic, mutagenic and antimutagenic effects of coffee: a review. | Mutat Res
+- new | 1994 | 8157856 | Review | Consequences on the newborn of chronic maternal consumption of coffee during gestation and lactation: a review. | J Am Coll Nutr
+- new | 1989 | 2682780 | Review | Coffee and coronary heart disease: a review. | Prog Cardiovasc Dis
+- new | 1987 | 3556132 | Review | [Toxicity of coffee and caffeine]. | Dtsch Med Wochenschr [ger]
+- new | 1982 | 6214962 | Research Support, Non-U.S. Gov't | Coffee worker's allergy. | Allergy
+- new | 1982 | 7054656 | Research Support, Non-U.S. Gov't | No association between coffee consumption and adverse outcomes of pregnancy. | N Engl J Med
+- new | 1981 | 7245193 |  | The effect of brewed and instant coffee on reproduction and teratogenesis in the rat. | Toxicol Appl Pharmacol
+- new | 1979 | 485763 | Case Reports/Letter | Coffee consumption. | Arch Intern Med
+- new | 1970 | 4922066 |  | Coffee worker's lung. A new example of extrinsic allergic alveolitis. | Thorax
+- new | 1958 | 13582819 |  | [Occupational coffee allergy]. | Allerg Asthma (Leipz) [ger]
+- new | 1954 | 13209609 |  | [Effect of smoking and of drinking of coffee and alcohol in pregnancy on the fetus]. | Cas Lek Cesk [cze]
+- new | 1901 | 29813637 |  | Coffee Poisoning. | Hospital (Lond 1886)
+
+### PubMed OBS - 1346 hits, 27 not already listed above, 27 new
+- new | 2026 | 41661604 |  | Coffee and Tea Intake, Dementia Risk, and Cognitive Function. | JAMA
+- new | 2025 | 39776171 | Observational Study | Coffee drinking timing and mortality in US adults. | Eur Heart J
+- new | 2025 | 39266809 | Review | Coffee consumption, cancer, and healthy aging: epidemiological evidence and underlying mechanisms. | Geroscience
+- new | 2025 | 40368300 | Research Support, N.I.H., Extramural | Coffee Consumption and Mortality among United States Adults: A Prospective Cohort Study. | J Nutr
+- new | 2025 | 40652091 |  | Association between coffee and caffeine consumption and chronic kidney disease. | Sci Rep
+- new | 2025 | 40447551 |  | Cardiovascular health and coffee: Insights from a recent cohort study. | Nutr Metab Cardiovasc Dis
+- new | 2025 | 40958293 |  | Causality between coffee intake and bone health: A Mendelian randomization study. | Medicine (Baltimore)
+- new | 2025 | 39287934 |  | Habitual Coffee, Tea, and Caffeine Consumption, Circulating Metabolites, and the Risk of Cardiometabolic Multimorbidity. | J Clin Endocrinol Metab
+- new | 2025 | 40686251 | Research Support, Non-U.S. Gov't | Moderate coffee and tea consumption is associated with slower cognitive decline. | J Alzheimers Dis
+- new | 2025 | 40999690 |  | Association of caffeine, green tea and coffee consumption with mortality and disability among older adults. | Br J Nutr
+- new | 2025 | 41041133 |  | Differential impact of coffee quantity and sweetening on body composition parameters and inflammation. | Front Nutr
+- new | 2024 | 38887468 |  | Metabolic shifts during coffee consumption refresh the immune response: insight from comprehensive multiomics analysis. | MedComm (2020)
+- new | 2024 | 39558133 |  | Coffee consumption is associated with intestinal Lawsonibacter asaccharolyticus abundance and prevalence across multiple cohorts. | Nat Microbiol
+- new | 2024 | 38887998 | Research Support, Non-U.S. Gov't | Tea and coffee consumption and risk of acute stroke: The INTERSTROKE Study. | Int J Stroke
+- new | 2024 | 39738317 |  | Association between coffee and caffeine intake and functional dyspepsia. | Sci Rep
+- new | 2023 | 36172922 | Research Support, Non-U.S. Gov't | Coffee consumption and skeletal muscle mass: WASEDA'S Health Study. | Br J Nutr
+- new | 2023 | 36817878 | Research Support, Non-U.S. Gov't | Sarcopenic obesity is associated with coffee intake in elderly Koreans. | Front Public Health
+- new | 2022 | 36067583 | Research Support, Non-U.S. Gov't | Coffee consumption and cancer risk: a Mendelian randomisation study. | Clin Nutr
+- new | 2022 | 35334809 |  | Alcohol, Coffee, and Milk Intake in Relation to Epilepsy Risk. | Nutrients
+- new | 2021 | 33762714 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Post-diagnostic coffee and tea consumption and breast cancer survival. | Br J Cancer
+- new | 2021 | 33130125 | Research Support, Non-U.S. Gov't/Systematic Review | Impact of Coffee Consumption on Physiological Markers of Cardiovascular Risk: A Systematic Review. | Am J Med
+- new | 2018 | 30475964 | Research Support, Non-U.S. Gov't | Coffee consumption and total mortality in a Mediterranean prospective cohort. | Am J Clin Nutr
+- new | 2017 | 28675917 | Review | The Impact of Coffee on Health. | Planta Med
+- new | 2016 | 26972538 | Meta-Analysis | Coffee consumption associated with reduced risk of oral cancer: a meta-analysis. | Oral Surg Oral Med Oral Pathol Oral Radi
+- new | 2014 | 24677003 | Meta-Analysis/Review | Coffee consumption and urologic cancer risk: a meta-analysis of cohort studies. | Int Urol Nephrol
+- new | 2013 | 23433483 | Meta-Analysis/Research Support, Non-U.S. Gov't | Consumption of coffee associated with reduced risk of liver cancer: a meta-analysis. | BMC Gastroenterol
+- new | 2010 | 19362749 | Meta-Analysis | Coffee consumption and risk of lung cancer: a meta-analysis. | Lung Cancer
+
+### PubMed REV - 805 hits, 12 not already listed above, 12 new
+- new | 2024 | 39168560 | Review | Coffee and sleep: Benefits and risks. | Prog Brain Res
+- new | 2024 | 39557300 | Review/Research Support, Non-U.S. Gov't | Impact of coffee intake on human aging: Epidemiology and cellular mechanisms. | Ageing Res Rev
+- new | 2024 | 39168556 | Review | Coffee's protective mechanisms against neurodegeneration. | Prog Brain Res
+- new | 2024 | 39168575 | Review | Coffee and Parkinson's disease. | Prog Brain Res
+- new | 2023 | 36838754 | Review | The Epigenetic Effects of Coffee. | Molecules
+- new | 2022 | 34384881 | Review/Research Support, Non-U.S. Gov't | Coffee and tea on cardiovascular disease (CVD) prevention. | Trends Cardiovasc Med
+- new | 2022 | 35057580 | Review | Effects of Coffee on the Gastro-Intestinal Tract: A Narrative Review and Literature Update. | Nutrients
+- new | 2020 | 32706535 | Review | Coffee, Caffeine, and Health. | N Engl J Med
+- new | 2020 | 33374338 | Review | Neuroprotective Effects of Coffee Bioactive Compounds: A Review. | Int J Mol Sci
+- new | 2017 | 28446037 | Review | Caffeine, coffee, and appetite control: a review. | Int J Food Sci Nutr
+- new | 1995 | 7735710 | Review | Coffee, tea and coronary heart disease. | Curr Opin Lipidol
+- new | 1991 | 2033792 | Review | Coffee. | IARC Monogr Eval Carcinog Risks Hum
+
+### ClinicalTrials.gov - 109 registered studies
+- NCT06278077 | COMPLETED | results=False | PHASE2 | Neurexan - a Clinical Trial in Short-Term Insomnia Patients | conds: Insomnia, Stress Reaction | intr: Neurexan, Placebo
+- NCT05688917 | COMPLETED | results=False | NA | Green Coffee Effect on Metabolic Syndrome | conds: Supportive Care, Metabolic Syndrome, Obesity, Hypertension | intr: Green coffee been extract, Placebo | pubs: ['29307310:RESULT (new)', '36381474:RESULT (new)', '39468643:DERIVED (new)']
+- NCT06940076 | COMPLETED | results=False | PHASE2 | Potential of Gayo Arabica Coffee Skin | conds: Skin Aging | intr: gayo arabica coffee skin extract cream
+- NCT04986956 | COMPLETED | results=False | NA | Whole Coffee Cherry Study | conds: Effect of Drug | intr: Whole coffee cherry extract, Placebo
+- NCT07360639 | COMPLETED | results=False | PHASE1,PHASE2 | The Effectiveness of Herbal Creams Compared to Urea in Dry Skin Treatment | conds: Dry Skin, Xerosis Cutis | intr: combination cream, control cream
+- NCT07875699 | COMPLETED | results=False | NA | Development of a Coffee Pulp Infusion as a Strategy for Recovery After Moderate Physical Exercise in a Healthy Population. | conds: Muscle Recovery, Oxidative Stress, Inflamation, Muscle Damage | intr: Two 250 mL infusions per day (one in the morning and one at night) for 45 consecutive days. | pubs: ['31229061:RESULT (new)', '42065231:RESULT (new)', '41281911:RESULT (new)', '41577799:RESULT (new)', '37509800:RESULT (new)']
+- NCT07094191 | COMPLETED | results=False | NA | The Effects of Acute Chicory Coffee Consumption on Exercise Performance and Metabolism | conds: Fat Metabolism, Sport Nutrition, Exercise Metabolism, Inflammation | intr: Chicory Coffee (Caffeine-free, polyphenol-rich beverage from roasted chicory root), arabica coffee, 
+- NCT01079442 | COMPLETED | results=False | NA | Coffee Trial - Does Coffee Intake Reduce Postoperative Ileus After Elective Colectomy? | conds: Colectomy | intr: Postoperative coffee, water | pubs: ['22987303:DERIVED (new)']
+- NCT07159152 | NOT_YET_RECRUITING | results=False | NA | Effects of Coffee Versus Hibiscus Tea Consumption During Prolonged Sitting on Blood Pressure and Heart Rate | conds: Hypertension | intr: Coffee, Hibiscus drink | pubs: ['34694241:RESULT (new)', '34927694:RESULT (new)', '25038696:RESULT (new)', '24996300:RESULT (new)', '31062117:RESULT (new)', '10556993:RESULT (new)', '32992846:RESULT (new)', '32659894:RESULT (new)', '25212328:RESULT (new)', '32757163:RESULT (new)', '34334722:RESULT (new)', '28130340:RESULT (new)', '30354827:RESULT (new)', '37682412:RESULT (new)']
+- NCT01965795 | COMPLETED | results=False | NA | Whole Coffee Fruit Concentrate Pilot Study 1 | conds: Brain-derived Neurotrophic Factor (BDNF), Cognitive Function, Affect | intr: Whole Coffee Fruit Concentrate (WCFC), Nutrim
+- NCT05926050 | COMPLETED | results=False | NA | The Acute Effects of a Dietary Supplement on Cognitive Performance in Highly Trained Athletes. | conds: Reaction Time | intr: Treatment (CopaPrime+ (USANA Health Sciences), Placebo
+- NCT04057313 | COMPLETED | results=False | NA | Coffee in Hemodialysis and Headache | conds: Hemodialysis Complication | intr: Coffee | pubs: ['33715955:DERIVED (new)']
+- NCT06204445 | ACTIVE_NOT_RECRUITING | results=False | NA | Interindividual Variation in Response to Green Coffee | conds: Overweight and Obesity | intr: Green coffee, Roasted coffee
+- NCT05390489 | COMPLETED | results=False | PHASE1 | The Effect of Arabica Gayo Cascara Pulp Extract on Photoaging | conds: Healthy Volunteers | intr: Cascara pulp arabica gayo coffee cream
+- NCT07163455 | ACTIVE_NOT_RECRUITING | results=False | NA | Time-Restricted Eating for Weight-Loss Maintenance | conds: Overweight or Obese Adults | intr: Scheduled Weight Maintenance Nutrition Education, Time-Restricted Eating (10-Hour Window)
+- NCT04249934 | WITHDRAWN | results=False | NA | The Effects of Caffeine on Deep Inferior Epigastric Perforator (DIEP) Flap Perfusion | conds: Breast Reconstruction, Deep Inferior Epigastric Perforator, Microvascular Free Flap Transfer | intr: Caffeinated Coffee, DecaffeinatedCoffee
+- NCT04892004 | COMPLETED | results=False | NA | Symptom Recognition Improves Self-care in Patients With Heart Failure. | conds: Heart Failure, Symptoms and Signs | intr: Symptom recognition | pubs: ['34968218:DERIVED (new)']
+- NCT05927103 | COMPLETED | results=False |  | Differences Between Coffee and Non-coffee Drinkers in the Gut Microbiome and Microbiota-Gut-Brain Axis | conds: Healthy | intr: 
+- NCT06432504 | RECRUITING | results=False | NA | Variation in the Impact of Coffee on the Metabolic Rate | conds: Healthy | intr: Caffeine content
+- NCT06678516 | RECRUITING | results=False | NA | Intermittent Fasting on the Blood Microbiome | conds: Healthy | intr: Intermittent fasting | pubs: ['40527395:DERIVED (new)']
+- NCT03664206 | WITHDRAWN | results=False |  | Assessing Motor Neuron Disease Mechanisms by Threshold Tracking Transcranial Magnetic Stimulation and Magnetic Resonance Spectroscopy | conds: Amyotrophic Lateral Sclerosis, Motor Neuron Disease, Cortical Excitability | intr: MRS, conventional TMS and treshold tracking TMS
+- NCT05168098 | COMPLETED | results=False | NA | Impact of the Olfactory Stimulation on the People With Mild Dementia Via the Horticultural Therapy | conds: Dementia | intr: board game comparison, olfactory stimulation intervention | pubs: ['36204759:DERIVED (new)']
+- NCT06245616 | ACTIVE_NOT_RECRUITING | results=False | NA | Attenuation of Postprandial Inflammatory Processes in Alzheimer's Disease Patients by Consumption of Pomace Oil | conds: Alzheimer's Disease | intr: Consumption of olive pomace olive oil by alzheimer's patients, Consumption of high-oleic sunflower o
+- NCT01951287 | COMPLETED | results=False | NA | Impact of Fluid Milk on Post-meal Glycemia and Insulinemia in Overwt/Obese Adults | conds: Blood Glucose, Blood Insulin | intr: Acute beverage (water) consumption, Acute beverage (Black Coffee) consumption, Acute beverage (Orang
+- NCT04193995 | UNKNOWN | results=False | NA | Intermittent Fasting as a Means to Lose Fluid Overload and Weight in Complicated Obesity | conds: Intermittent Fasting, Obesity, Morbid, Comorbidities and Coexisting Conditions, Weight Loss | intr: Intermittent fasting
+- NCT01912144 | COMPLETED | results=False | NA | Absorption of Phenolic Acids From Coffee in Humans | conds: Bioavailability, Cardiovascular Health Status | intr: Coffee
+- NCT04828018 | COMPLETED | results=False |  | Care of the Ageing Veteran Population: Developing an Evidence Base for the Royal Hospital Chelsea Model of Care | conds: Quality of Life, Aging Well | intr: Coffee Morning, Recruitment Leaflets, Consent Form completion, Participant Information Sheet
+- NCT05564910 | COMPLETED | results=False |  | Computerized Cardiotocography and Maternal Coffee Habits | conds: Prenatal Care | intr: 
+- NCT07263529 | RECRUITING | results=False | NA | Risk of Anemia and Effects of Oral Iron Therapy in Non-Anemic Iron-Deficient Women (18-55 Years) | conds: Non-Anemic Iron Deficiency | intr: Dietary Intervention (2 months), Oral Elemental Iron (Ferrous Sulfate) 80 mg/day | pubs: ['29611716:RESULT (new)', '26289639:RESULT (new)', '37299583:RESULT (new)', '35905974:RESULT (new)', '32425874:RESULT (new)', '24756645:RESULT (new)', '34564844:RESULT (new)', '31860749:RESULT (new)', '29626044:RESULT (new)', '34693519:RESULT (new)', '28634965:RESULT (new)', '33909381:RESULT (new)', '35002031:RESULT (new)', '38530913:RESULT (new)', '29881569:RESULT (new)']
+- NCT07000227 | COMPLETED | results=False | NA | Mechanism of FODMAP Restriction on FGID Patients | conds: Functional Gastrointestinal Disorders (FGIDs), Irritable Bowel Syndrome (IBS), Functional Dyspepsia | intr: Low FODMAP diet, Gentle FODMAP diet, Traditional Dietary Advice
+- NCT03013803 | COMPLETED | results=False | NA | Acceptability Study on Nutricomp® Drink Plus Fibre in Adults | conds: Adult Patients in Need of High-energy Oral Nutritional Supplementation | intr: Nutricomp Drink Plus Fibre
+- NCT05558488 | COMPLETED | results=False | NA | The Effect of a Meatless,Keto Restrictive Diet on Body Composition,Strength Capacity,Oxidative Stress,Immune Response | conds: Body Weight, Oxidative Stress, Trimethylamine N-oxide, Immunologic Factors | intr: Meatless, restrictive ketogenic diet
+- NCT03779204 | COMPLETED | results=True | NA | Effect of a Rent Subsidy and Mentoring on Youth Transitioning Out of Homelessness | conds: Homeless Persons | intr: Mentorship, Rent Subsidies | pubs: ['36301546:RESULT (new)', '37462842:RESULT (new)', '31859688:DERIVED (new)']
+- NCT04027478 | UNKNOWN | results=False | NA | Can Fasting Decrease the Side Effects of Chemotherapy? | conds: Chemotherapy Effect, Chemotherapeutic Toxicity, Fasting | intr: FMD
+- NCT04389970 | COMPLETED | results=True | NA | Time Restricted Eating Outcomes in Multiple Sclerosis | conds: Multiple Sclerosis, Diet, Healthy | intr: Time Restricted Feeding | pubs: ['36712417:DERIVED (new)']
+- NCT01759329 | COMPLETED | results=False | NA | Health Effects of Coffee Consumption | conds: Overweight | intr: test coffee, control coffee | pubs: ['25204719:DERIVED (new)']
+- NCT05404841 | COMPLETED | results=False | NA | Investigating the Effect of Whole-fruit Coffee Extract on Exercise Performance | conds: Caffine and Endurance Performance | intr: CoffeeBerry Supplement, Placebo | pubs: ['42234539:DERIVED (new)']
+- NCT02361632 | COMPLETED | results=False | NA | Does Adding Milk to Coffee Change Gastric Volume? | conds: Respiratory Aspiration of Gastric Content | intr: Coffee with or without milk | pubs: ['27035595:DERIVED (new)']
+- NCT07530341 | COMPLETED | results=False | NA | Ketogenic Diet in Women With Lipedema | conds: Lipedema, Overweight and Obesity | intr: Low carbohydrate high fat (ketogenic) diet with anti-inflammatory properties
+- NCT04977609 | UNKNOWN | results=False | NA | A Music-based VR Intervention for Upper Limb Motor Rehabilitation in Hemiparetic Patients | conds: Hemiparesis | intr: VR+MUSIC, VR, TAU
+- NCT03738657 | UNKNOWN | results=False |  | Gustatory Function Following Radiotherapy to the Head and Neck | conds: Head and Neck Cancer | intr: Olfactory screening, Quantative Gustatory Testing using Taste Strips
+- NCT00137098 | COMPLETED | results=False |  | Coronary Care Caffeine: Influence of Coffee on Heart Rate Post Myocardial Infarction | conds: Myocardial Infarction | intr: Caffeine
+- NCT05332613 | RECRUITING | results=False | NA | Diet and Meal Timing in Patients With Metabolic Dysfunction Associated Steatoic Liver Disease | conds: Non-Alcoholic Fatty Liver Disease | intr: TRE plus SOC, SOC, TRE
+- NCT00584259 | COMPLETED | results=False | NA | Effect of Coffee on Gastro-Esophageal Disease in Patients With Symptoms of Reflux | conds: GERD | intr: Coffee
+- NCT06146517 | COMPLETED | results=False | NA | A Single-Arm, Virtual Clinical Trial to Evaluate the Effects of a Sleep Supporting Beverage and Two Coffee Substitute Products | conds: Sleep, Mood, Caffeine Withdrawal, Anxiety | intr: Clevr Sleeptime, Clevr Matcha, Clevr Chai
+- NCT06049589 | COMPLETED | results=False | NA | Therapeutic Application of Coconut Oil in Oral Health | conds: Periodontal Diseases, Periodontal Inflammation, Periodontal Attachment Loss, Periodontitis | intr: Coconut Oil, Chlorhexidine mouthwash, Water mouthwash | pubs: ['42057009:DERIVED (new)']
+- NCT04321590 | COMPLETED | results=False | NA | Efficacy of Hydroxycinnamates and Beta-glucans as a Dietary Tool Against obesity_Pilot Study (OBHEALTH_PS) | conds: Overweight and Obesity | intr: Combination of oat beta-glucan of different richness (35 and 70%) at low (3g) and high (5g) doses wi
+- NCT02045992 | UNKNOWN | results=False | NA | Arrhythmic Effects of Hight Dose Caffeine | conds: Arrhythmia | intr: caffeine | pubs: ['27749954:DERIVED (new)']
+- NCT01523028 | COMPLETED | results=False | NA | Influence of Breakfast Consumption on Chlorogenic Acid Metabolism in Humans | conds: Healthy | intr: Soluble Coffee
+- NCT05200468 | COMPLETED | results=False | NA | Effect of Dietary Restrictions and Ketogenic Diet on Mitochondrial Function and Gut Microbiota in Subjects With Obesity | conds: Obesity | intr: Ketogenic diet, Caloric restriction diet, Intermittent fasting 16/8 | pubs: ['28877457:RESULT (new)', '24291541:RESULT (new)', '12724520:RESULT (new)', '29874567:RESULT (new)', '25666556:RESULT (new)', '30174308:RESULT (new)', '23217257:RESULT (new)', '31311141:RESULT (new)', '20430626:RESULT (new)', '32437658:RESULT (new)', '28467922:RESULT (new)', '39003957:DERIVED (new)']
+- NCT01330680 | COMPLETED | results=False | NA | Genetic Determinants of Cardiovascular Response to Coffee Drinking | conds: Caffeine | intr: Coffee, Decaffeinated coffee | pubs: ['22170367:DERIVED (new)']
+- NCT01990482 | COMPLETED | results=False | NA | Influence of Coffee Intake on Postoperative Bowel Function After Comprehensive Staging Surgery for Gynecological Malignancies: A Randomized  | conds: Ilues | intr: caffe, Water
+- NCT05876741 | UNKNOWN | results=False |  | Validation of Prognostic Accuracy of ABC ( Age, Blood Urea Nitrogen , Co-morbidities ) and Horibe Pre-endoscopy Scoring Systems in Patients  | conds: Upper GI Bleeding | intr: history taking , vital signs and labaratory investigations
+- NCT02449174 | COMPLETED | results=True | PHASE1,PHASE2 | Fecal Microbiota Transplantation to Treat Recurrent C. Difficile Associated Diarrhea Via Retention Enema or Oral Route | conds: C. Difficile | intr: Frozen Microbiota, Lyophilized Microbiota | pubs: ['30388112:DERIVED (new)']
+- NCT04280835 | COMPLETED | results=False | NA | Psychoeducation in Patients Who Diagnosed With Schizophrenia | conds: Quality of Life, Well-Being, Compliance, Treatment | intr: Group Psychoeducation that Focused on Social Skill Development
+- NCT03619304 | UNKNOWN | results=False | NA | Assessment of Anti-cancerous Effect of Green, Roasted and Decaffeinated Coffee on Oral Squamous Cell Carcinoma Cell Line | conds: Oral Squamous Cell Carcinoma | intr: coffee
+- NCT05537246 | COMPLETED | results=False |  | The Relationship Between Arterial Stiffness and Hemodynamic Responses in Patients With Spinal Anesthesia | conds: Arterial Stiffness, Hypertension, Spinal Anaesthesia | intr: PWV
+- NCT02575131 | COMPLETED | results=False | PHASE2 | Breakfast Test Products and Acute Satiety Scores | conds: Obesity | intr: whole wheat bread yeast basis, Oatmeal, Cheerios, whole wheat sourdough bread | pubs: ['7794869:RESULT (new)', '12833109:RESULT (new)', '22844645:RESULT (new)']
+- NCT03355144 | COMPLETED | results=False | NA | Resident Observed Burnout After Daily Supplementation With Coffee | conds: Burnout, Professional | intr: Daily Supplementation with Coffee
+- NCT07420699 | COMPLETED | results=False | NA | The Acute Effects of Specialty Coffee on Cognitive Function in People With Type 2 Diabetes | conds: Type 2 Diabetes | intr: Coffee
+- NCT05819801 | RECRUITING | results=False | NA | Effect of Fasting on Patient Outcomes After Wide-Awake, Local Anesthesia-only, No Tourniquet (WALANT) Procedures | conds: Surgery, Anesthesia, Local, Fasting | intr: Non-fasting, Fasting
+- NCT05384431 | COMPLETED | results=False | PHASE3 | Can We Achieve 'high-quality' Weight Loss Through Supplementation and Exercise? the TRIM MUSCLE Study | conds: Overweight, Obesity | intr: Muscle5 and TRIM7, Mixed exercise
+- NCT01003392 | UNKNOWN | results=False |  | Influence of Coffee on the Health and on the Heart of Normal, Diabetics e Coronary Artery Disease Patients | conds: Coronary Artery Disease | intr: 
+- NCT06130228 | UNKNOWN | results=False | PHASE2 | Nutritional Therapy in Late-onset Pompe Disease | conds: Pompe Disease, Muscle Loss, Obesity, Nutrition Poor | intr: Multi-ingredient supplement (PDT-MIS), Placebo (PLA)
+- NCT06191978 | RECRUITING | results=False | PHASE1 | A Phase Ia/Ib Open-label, Multiple Dose, Study to Determine the Recommended Dose, Evaluate PKs, PDs, Safety, and Activity of Venetoclax in C | conds: Acute Myeloid Leukemia | intr: ASTX727, Venetoclax
+- NCT07261176 | COMPLETED | results=False | NA | Effect of Smoking on Retinal Vessel Morphology and Functionality | conds: Smokers | intr: Cigarette Smoking
+- NCT02793297 | COMPLETED | results=False | NA | Effects of Sourdough Fermented Rye Crisp Bread on Appetite and Postprandial Metabolic Responses | conds: Appetite | intr: refined wheat crisp bread, sourdough fermented rye crisp bread, unfermented rye crisp bread
+- NCT05508919 | UNKNOWN | results=False | NA | Effect of Biofeedback Training to Reduce Anxiety | conds: Anxiety | intr: Biofeedback, Writing Sessions | pubs: ['28527121:RESULT (new)', '22811932:RESULT (new)', '28761991:RESULT (new)', '27573093:RESULT (new)', '23742666:RESULT (new)', '24806535:RESULT (new)', '23763019:RESULT (new)']
+- NCT01495754 | COMPLETED | results=False | NA | Effects of Different Coffee Amounts on Energy Intake, Appetite, Glucose Metabolism and Inflammatory Markers | conds: Obesity, Inflammation | intr: coffee | pubs: ['35961260:DERIVED (new)', '23498899:DERIVED (new)']
+- NCT00641810 | COMPLETED | results=False | NA | The Effect of Caffeine Reduction on Snoring and Quality of Life | conds: Snoring | intr: Caffeine reduction
+- NCT05714189 | COMPLETED | results=False | NA | The Effect of Dietary Interventions, or no Intervention, on Pain and Quality of Life in Women Diagnosed With Endometriosis | conds: Endometriosis | intr: Low FODMAP diet, Endometriosis diet
+- NCT00827450 | COMPLETED | results=False | NA | Effects of Coffee on Hepatic Steatosis Induced by a High Fructose Diet | conds: Hepatic Steatosis | intr: Ctl, High fructose diet; no coffee, fully torrefied, caffeine-free coffee, partially torrefied, caff | pubs: ['24257718:DERIVED (new)']
+- NCT02311699 | COMPLETED | results=False | NA | Using Cultural Ceremonies to Reduce Intimate Partner Violence and HIV Transmission | conds: HIV | intr: Intervention to reduce IPV and HIV | pubs: ['33782020:DERIVED (new)', '33509840:DERIVED (new)', '32810147:DERIVED (new)', '32810146:DERIVED (new)']
+- NCT06670144 | COMPLETED | results=False |  | Diet and Rheumatoid Arthritis Risk in the United Kingdom Women's Cohort | conds: Rheumatoid Arthritis (RA) | intr: Dietary pattern, Alcohol intake, Fruit and vegetables intake, Tea consumption
+- NCT05272800 | COMPLETED | results=False | NA | BIS-guided Fluid Management in HD Patients | conds: Kidney Failure, Haemodialysis Fluid Adverse Reaction | intr: Spectroscopy Bioimpedance Analysis, Clinical Examination alone | pubs: ['37067785:DERIVED (new)']
+- NCT01471600 | COMPLETED | results=False | NA | Safety and Efficacy of Carbohydrate Drink Ingested Two Hours Before Upper Endoscopy Under General Anaesthesia | conds: Upper Gastrointestinal Endoscopy | intr: group drink
+- NCT00432887 | COMPLETED | results=False | EARLY_PHASE1 | Experimental Studies of the Effects of Caffeine on Glucose Regulation | conds: Diabetes Mellitus, Type 2 | intr: caffeine administration
+- NCT01409330 | COMPLETED | results=False | NA | German Diabetes-Diet-Intervention and Energy Restriction-Trial (DDIET) | conds: Type 2 Diabetes | intr: diet intervention | pubs: ['40090039:DERIVED (new)', '30619502:DERIVED (new)', '26070589:DERIVED (new)', '25425219:DERIVED (new)']
+- NCT07506187 | COMPLETED | results=False | NA | The Role of Arginine in Oral Nutritional Supplementation in Preventing or Reducing Complications Following Colorectal Surgery in Patients Wh | conds: Colorectal Cancer, Malnutrition or Risk of Malnutrition, Colorectal Surgery | intr: Diaba plus®: A high-protein, high-calorie ONS with no generic equivalent, Atémpero®: An ONS enriched
+- NCT03910088 | COMPLETED | results=False | PHASE4 | Pregabalin Versus Hydrocortisone for Postdural Puncture Headache After Spinal for Cesarean | conds: Post-Dural Puncture Headache | intr: Pregabalin 100Mg Oral Cap, Hydrocortisone, Acetaminophen, oral fluids
+- NCT03495336 | COMPLETED | results=False | NA | The Effects of Unfiltered (Turkish) Coffee Consumption on Cardiovascular Risk Parameters | conds: Cardiovascular Diseases | intr: coffee abstention phase, LR Coffee consumption, DR Coffee consumption
+- NCT02629900 | UNKNOWN | results=False | NA | The Effect of Time Restricted Feeding on Fat Mass in Overweight Women | conds: Weight Loss | intr: Time restricted feeding
+- NCT04650425 | UNKNOWN | results=False | NA | Causal Evidence for Task Regulation by Anterior Cingulate Cortex | conds: Stroke | intr: Cognitive tasks
+- NCT04433338 | ACTIVE_NOT_RECRUITING | results=False | NA | The PREBA Study: Effect of Preoperative Weight Loss With a 14-day Low-calorie Diet on Surgical Procedure and Outcomes in Patients Undergoing | conds: Bariatric Surgery, Morbid Obesity | intr: 14-day Low Calorie Diet
+- NCT04786691 | COMPLETED | results=True | NA | How do You Take Your Coffee Before Anesthesia | conds: Anesthesia, Aspiration, Fasting | intr: Addition of half and half to coffee, Addition of non-dairy creamer to coffee, Black
+- NCT03394690 | UNKNOWN | results=False | NA | Effects of Green Coffee Extract Supplementation on Leptin, Ghrelin, Adiponectin,Anthropometric Measurements, Lipid Profile in Breast Cancer  | conds: Breast Cancer Survivors | intr: green coffee, control
+- NCT05855369 | RECRUITING | results=False | PHASE2,PHASE3 | Study of Chemosensory Enhancement Through Neuromodulation Training (SCENT for Long COVID) | conds: Smell Dysfunction, Olfactory Disorder, Long COVID | intr: Trigeminal Nerve Stimulation (TNS), Active Smell Training (ST), Placebo Smell Training (PBO)
+- NCT04320446 | COMPLETED | results=False | NA | Caffeine Increases Maximal Fat Oxidation During Exercise in Endurance-trained Men: is There a Diurnal Variation | conds: Energy Metabolism, Athletic Performance | intr: Test in the morning, Test in the afternoon | pubs: ['33413459:DERIVED (new)']
+- NCT07635303 | NOT_YET_RECRUITING | results=False | NA | The Impact of Coffee Consumption Immediately Before a Nap on Post-Nap Grumpiness | conds: Irritability | intr: Coffee, Placebo
+- NCT06850493 | RECRUITING | results=False | NA | Ketogenic Diet Prior to Bariatric Surgery | conds: Bariatric Surgery Candidate, Ketogenic Dieting | intr: VLCKD (ketogenic diet), VLCD (Very-low-calorie-diet)
+- NCT02189044 | COMPLETED | results=False | NA | Pilates and Muscle Strength Respiratory | conds: Conditions | intr: Pilates Exercise
+- NCT01738399 | COMPLETED | results=False | NA | Coffee and Metabolic Health Outcomes | conds: Insulin Resistance | intr: Coffee, Placebo | pubs: ['31891374:DERIVED (new)', '29736473:DERIVED (new)']
+- NCT02681081 | COMPLETED | results=False | NA | Optimizing Chronic Pain Treatment With Enhanced Neuroplastic Responsiveness | conds: Pain, Osteoarthritis | intr: Glucose Administration, Intermittent Fasting, Control
+- NCT06817473 | COMPLETED | results=False | NA | Evaluation of the Feasibility and Efficacy of Computerized Anxiety Treatment in a Group Setting | conds: Computerized Anxiety Sensitivity Treatment, Health Education Treatment | intr: CAST, HET | pubs: ['40435564:DERIVED (new)']
+- NCT06261463 | COMPLETED | results=False | NA | Hybrid Type 1 Randomized Pilot Trial of a Peer-led Family and Social Strengthening Group Intervention for Refugee Families | conds: Depression, Anxiety, PTSD, Family Dynamics | intr: CAFES2
+- NCT05590949 | RECRUITING | results=False |  | Observational Study of Bone Complications in People With Post-menopausal Breast Cancer Who Have Stopped Treatment With Denosumab and Aromata | conds: Breast Cancer | intr: Physical Evaluation, Dual-energy X-ray absorptiometry scans, Trabecular Bone Score
+- NCT07387445 | RECRUITING | results=False | NA | Feasibility and Acceptibility of a Multi-site Trial of Time Restircted Eating During Chemotheraply for Breast Cancer. | conds: Breast Cancer Early Stage Breast Cancer (Stage 1-3), Breast Neoplasm Female, Breast Cancer | intr: Time restricted eating
+- NCT04420611 | COMPLETED | results=False |  | Use of Endogenous Melatonin and 6-hydroxymelatonin as Biomarkers for CYP1A2 | conds: Healthy | intr: Session 1 (day 1), Session 2 (day 3), Session 3 (day 15), Session 4 (day 30)
+- NCT05639829 | COMPLETED | results=False | NA | Time-restricted Eating in Survivors Trial | conds: Cancer, Breast | intr: Time-restricted eating
+- NCT02872675 | COMPLETED | results=False | NA | The Effects of Prebiotics on Gut Bacterial Parameters, Immune Function & Exercise-Induced Airway Inflammation. | conds: Exercised Induced Asthma, Asthma | intr: HOST-DM059, Maltodextrin
+- NCT01731067 | COMPLETED | results=False | PHASE1 | Cocktail Approach for Cytochrome P450 and P-glycoprotein Activity Assessment Using Dried Blood Spot | conds: Healthy Volunteers | intr: Cocktail probe drugs | pubs: ['24722393:DERIVED (new)']
+- NCT02318992 | COMPLETED | results=True | PHASE1,PHASE2 | Fresh, Frozen or Lyophilized Fecal Microbiota Transplantation for Multiple Recurrent C. Difficile Associated Diarrhea | conds: Recurrent C. Difficile Associated Diarrhea | intr: Fecal Microbiota
+- NCT01283672 | COMPLETED | results=False | NA | Acute Heart Health Benefits of Whole Grain Barley and Oats in Healthy Men and Women | conds: Cardiovascular Disease | intr: Controlled diet with whole grain barley, whole grain oats, or low grain diet
+- NCT04762251 | COMPLETED | results=False | NA | What Or When to Eat to Reduce the Risk of Type 2 Diabetes (WOW) | conds: Time-restricted Eating, Diet Quality | intr: Time-restricted eating, Current Best Practice | pubs: ['42251202:DERIVED (new)', '39299545:DERIVED (new)']
+- NCT05520593 | RECRUITING | results=False | NA | Preoperative Oral Hydration in the Ambulatory Arthroplasty Population | conds: Same-day Discharge, Length of Stay | intr: Complex Carbohydrate Drink
+- NCT04086498 | COMPLETED | results=False | NA | Effects of a Ketogenic Diet on Psychological Outcomes | conds: Overweight, Mood, Appetitive Behavior | intr: Mediterranean diet, KEMEPHY, KD
+- NCT04731454 | COMPLETED | results=False | NA | Feasibility and Acceptability of a Healthy Nordic Diet Intervention in Depressed and Non-depressed Adults | conds: Depression, Major Depressive Disorder | intr: Control Diet (CD), Healthy Nordic Diet (ND)
+- NCT02054988 | UNKNOWN | results=False | NA | "Potential Effect of Acute and Chronic Caffeine Administration on Platelet Reactivity in Patient With Coronary Artery Disease on Dual Antipl | conds: CORONARY ARTERY DISEASE | intr: caffeine, not caffeine
+- NCT00868205 | COMPLETED | results=False | PHASE2 | Coffee and In-vivo Oxidative Stress | conds: Healthy | intr: Coffee consumption
+
+### OpenAlex no-PMID trial-worded - 4901 hits, 68 without PMID, 68 new
+- new | 2026 | 10.3390/sci8110328 | article | Lower Early Growth of Coffea arabica Seedlings Under Supplemental Irrigation Without Nutrient Replacement: A FarmBot Trial | Sci
+- new | 2026 | 10.1038/s41598-026-73765-4 | article | An international multilocation trial reveals genotype-by-environment interactions in Arabica coffee across climate gradients | Scientific Reports
+- new | 2026 | 10.33395/sinkron.v10i4.16622 | article | Random Forest Implementation for Indonesian Coffee Identification Based on Digital Image Feature Extraction | SinkrOn
+- new | 2026 | 10.24843/jbeta.2017.v05.i02.p04 | article | Pengaruh Suhu dan Lama Penyangraian terhadap Karakteristik Fisik dan Mutu Sensori Kopi Arabika (Coffea arabica L) | Jurnal BETA (Biosistem dan Teknik Pertan
+- new | 2026 | 10.5281/zenodo.23928825 | dataset | Coffee trials in Brazil: 2,108 results from 20 publications | Zenodo (CERN European Organization for N
+- new | 2025 | 10.53520/jen2025.103202 | article | A Randomized, Double-Blind, Placebo-Controlled Evaluation of Coffea Arabica Seed Extract for Cognitive and Mood Impacts in Healthy Adults | Journal of Exercise and Nutrition
+- new | 2025 | 10.34172/jsums.919 | article | The analgesic effect of barley tea (Hordeum vulgare L.) in migraine patients: A randomized clinical trial | Journal of Shahrekord University of Medi
+- new | 2024 | 10.18203/2349-3259.ijct20240303 | article | Anti-ageing effects of CollabZen™ in healthy human volunteers: a randomized, double blind, placebo-controlled study | International Journal of Clinical Trials
+- new | 2024 | 10.30944/20117582.2524 | article | Evaluación del inicio de dieta con coffea arábica versus dieta tradicional, en pacientes luego de cirugía electiva y de emergencia | Revista Colombiana de Cirugía
+- new | 2023 | 10.1590/1807-1929/agriambi.v27n4p264-271 | article | Nicotinamide and Azospirillum brasilense improves the quality of Coffea arabica seedlings | Revista Brasileira de Engenharia Agrícol
+- new | 2023 | 10.3390/fermentation9110976 | article | Characterization of Fermentations with Controlled Temperature with Three Varieties of Coffee (Coffea arabica L.) | Fermentation
+- new | 2023 | 10.31018/jans.v15i2.4525 | article | Effect of Coffea arabica L on antibiotic-resistant Pseudomonas aeruginosa | Journal of Applied and Natural Science
+- new | 2023 | 10.3390/agriculture13061132 | article | Influence of Temperature-Controlled Fermentation on the Quality of Mild Coffee (Coffea arabica L.) Cultivated at Different Elevations | Agriculture
+- new | 2022 | 10.54364/aaiml.2022.1118 | article | Machine learning to support geographical origin traceability of Coffea Arabica | Advances in Artificial Intelligence and 
+- new | 2022 | 10.1007/s13593-022-00788-2 | review | Shade effects on yield across different Coffea arabica cultivars — how much is too much? A meta-analysis | Agronomy for Sustainable Development
+- new | 2022 | 10.54495/rev.cientifica.v31i1.290 | article | Etnofarmacología de plantas utilizadas por pacientes diabéticos tz’utujiles en Santiago Atitlán, Sololá, Guatemala | Revista Científica
+- new | 2021 | 10.4238/gmr18772 | article | Research Article Genetic diversity based on AFLP markers in germplasm of the Brazilian national Coffea arabica trial | Genetics and Molecular Research
+- new | 2021 | 10.31957/jbp.1322 | article | Identifikasi Molekular Kekerabatan Genetik Kopi Wamena Berbasis Marka Random Amplified of Polymorphic DNA (RAPD) | JURNAL BIOLOGI PAPUA
+- new | 2020 | 10.29408/edumatic.v4i2.2202 | article | Perbandingan Prediksi Kualitas Kopi Arabika dengan Menggunakan Algoritma SGD, Random Forest dan Naive Bayes | EDUMATIC Jurnal Pendidikan Informatika
+- new | 2020 | 10.24853/jat.4.2.64-69 | article | PENGARUH MEDIA TANAM TERHADAP PERKECAMBAHAN BENIH KOPI ARABIKA (Coffea arabica L) | Jurnal AGROSAINS dan TEKNOLOGI
+- new | 2020 | 10.1007/s42729-020-00180-7 | article | Propagation of Rust-Tolerant Coffea arabica L. Plants by Sprout Rooting in Microtunnels | Journal of soil science and plant nutrit
+- new | 2019 | 10.4236/wjns.2019.93007 | article | Effects of Neurexan on Stress-Induced Changes of Spectral EEG Power: A Double-Blind, Randomized, Placebo-Controlled, Crossover Exploratory Trial in Human Volunteers | World Journal of Neuroscience
+- new | 2019 | 10.1590/1984-70332019v19n4a60 | article | Sensory quality of Coffea arabica L. genotypes influenced by postharvest processing | Crop Breeding and Applied Biotechnology
+- new | 2019 | 10.1088/1755-1315/230/1/012093 | conference-paper | Total phenols content of green coffee (Coffea arabica and Coffea canephora) in East Java | IOP Conference Series Earth and Environm
+- new | 2018 | 10.1088/1742-6596/970/1/012023 | conference-paper | The Antifungal Inhibitory Concentration Effectiveness Test From Ethanol Seed Arabica Coffee (Coffea arabica) Extract Against The Growth Of Candida albicans Patient Isolate With In  | Journal of Physics Conference Series
+- new | 2018 | 10.1016/j.isprsjprs.2018.02.004 | article | Mapping spatial variability of foliar nitrogen in coffee (Coffea arabica L.) plantations with multispectral Sentinel-2 MSI data | ISPRS Journal of Photogrammetry and Remo
+- new | 2018 | 10.5897/ajar2017.12788 | article | Genotype environment interaction and yield stability of Arabica coffee (Coffea arabica L.) genotypes | African Journal of Agricultural Research
+- new | 2018 | 10.11606/d.11.2018.tde-22062018-154740 | dissertation | Nutrient demand for vegetation and fruiting of Coffea arabica L. | Digital Library of Theses and Dissertati
+- new | 2018 | https://openalex.org/W2944171952 | article | Inorganic Fertilizers Requirement of Coffee (Coffea arabica L)--) Review | Journal of Biology Agriculture and Healt
+- new | 2017 | 10.1016/j.pce.2017.02.011 | article | Remote sensing leaf water stress in coffee ( Coffea arabica ) using secondary effects of water absorption and random forests | Physics and Chemistry of the Earth Parts
+- new | 2017 | 10.1007/s10681-017-1865-9 | article | Molecular markers useful to discriminate Coffea arabica cultivars with high genetic similarity | Euphytica
+- new | 2017 | 10.4172/2471-2728.1000188 | article | Isolation, Screening and Biochemical Characterization of PhosphateSolubilizing Rhizobacteria Associated with Coffea arabica L | Journal of fertilizers & pesticides
+- new | 2017 | 10.5897/ajar2016.12026 | article | Coffee pruning: Importance of diversity among genotypes of Coffea arabica | African Journal of Agricultural Research
+- new | 2016 | 10.1080/10106049.2016.1178812 | article | Developing detailed age-specific thematic maps for coffee (Coffea arabica L.) in heterogeneous agricultural landscapes using random forests applied on Landsat 8 multispectral senso | Geocarto International
+- new | 2016 | https://openalex.org/W7119438877 | article | QUALITY OF THE SURFACE OF Coffea arabica WOOD | LA Referencia (Red Federada de Repositor
+- new | 2015 | 10.1007/s11240-015-0772-9 | article | Assessment of genetic and epigenetic changes during cell culture ageing and relations with somaclonal variation in Coffea arabica | Plant Cell Tissue and Organ Culture (PCT
+- new | 2014 | 10.5539/jfr.v3n3p31 | article | Biochemical Composition Within Coffea arabica cv. Ruiru 11 and Its Relationship With Cup Quality | Journal of Food Research
+- new | 2012 | 10.4025/actasciagron.v34i1.11230 | article | Multiplication of embryogenic calli in Coffea arabica L. | Acta Scientiarum Agronomy
+- new | 2012 | 10.1590/s0034-737x2012000600011 | article | Growth and yield of Coffea arabica L. in Northwest Fluminense: 2nd harvest | Revista CERES
+- new | 2011 | https://openalex.org/W2189246552 | article | IDENTIFICATION OF RAPD (RANDOM AMPLIFIED POLYMORPHIC DNA) MARKERS FOR ETHIOPIAN WILD COFFEA ARABICA L. GENETIC RESOURCES CONSERVED IN INDIA | 
+- new | 2011 | 10.1007/s10681-011-0372-7 | article | Performance of Coffea arabica F1 hybrids in agroforestry and full-sun cropping systems in comparison with American pure line cultivars | Euphytica
+- new | 2011 | 10.15517/am.v22i1.8668 | article | Hongo endomicorrízico y bacteria fijadora de nitrógeno inoculadas a Coffea arabica en vivero. | Agronomía Mesoamericana
+- new | 2011 | 10.3923/jbs.2011.236.244 | article | Genetic Diversity Analysis for Quality Attributes of Some Promising Coffea arabica Germplasm Collections in Southwestern Ethiopia | Journal of Biological Sciences
+- new | 2009 | https://openalex.org/W562622214 | dissertation | INFLUENCE OF GENOTYPE, LOCATION AND PROCESSING METHODS ON THE QUALITY OF COFFEE (Coffea arabica L.) | CGSPace A Repository of Agricultural Res
+- new | 2008 | 10.1111/j.1744-7348.2008.00235.x | article | Allometric models for non‐destructive leaf area estimation in coffee (Coffea arabica and Coffea canephora) | Annals of Applied Biology
+- new | 2007 | https://openalex.org/W64720155 | dissertation | Microbial inputs in coffee (Coffea arabica L.) production systems, southwestern Ethiopia | Epsilon Open Archive (Sveriges lantbruks
+- new | 2006 | https://openalex.org/W7120342813 | dissertation | Liquid fertilization in the establishment of coffee crop (Coffea arabica L.) | LA Referencia (Red Federada de Repositor
+- new | 2005 | 10.1007/s10681-005-7681-7 | article | Coffea arabica hybrid performance for yield, fertility and bean weight | Euphytica
+- new | 2004 | 10.1590/s0103-90162004000600003 | article | Brachiaria decumbens supresses the initial growth of Coffea arabica | Scientia Agricola
+- new | 2004 | https://openalex.org/W2364540538 | article | RejuvenationTrial onCold DamagedTrees of Coffea arabica | Tropical Agricultural Science & Technolo
+- new | 2004 | 10.12702/1984-7033.v04n04a06 | article | Single-locus inheritance and partial linkage map of Coffea arabica L. | Crop Breeding and Applied Biotechnology
+- new | 2003 | 10.1023/a:1023071815109 | article | Selection for bean and liquor qualities within related hybrids of Arabica coffee in multilocal field trials | Euphytica
+- new | 2003 | 10.1023/a:1021927302410 | article | Responses of different arabica coffee (Coffea arabica L.) clones to varied environmental conditions | Euphytica
+- new | 2002 | https://openalex.org/W1800478580 | article | Coffee (coffea arabica) pollination with africanized honeybees in venezuela | Interciencia
+- new | 2002 | 10.18174/192247 | dissertation | Coffee (Coffea arabica cv. Rubi) seed germination: mechanisms and regulation | 
+- new | 2001 | 10.1023/a:1003712232325 | article | Resistance to Meloidogyne incognita in Ethiopian Coffea arabica accessions | Euphytica
+- new | 2001 | 10.21273/hortsci.36.2.269 | article | Growth, Production, and Bean Quality of Coffea arabica as Affected by Interspecific Grafting: Consequences for Rootstock Breeding | HortScience
+- new | 1998 | 10.1023/a:1018635216182 | article | Prediction of genetic value for coffee production in Coffea arabica from a half-diallel with lines and hybrids | Euphytica
+- new | 1996 | 10.1007/bf00022965 | article | Genetic diversity for RAPD markers between cultivated and wild accessions of Coffea arabica | Euphytica
+- new | 1994 | https://openalex.org/W3082621109 | article | On-farm coffee (Coffea arabica var. typica) fertilizer trials for small hillside farmers in the parish of St. Catherine | 
+- new | 1994 | https://openalex.org/W2249894324 | book | Variety trial, Aiyura block B6 | Agritrop (Cirad)
+- new | 1994 | https://openalex.org/W2256987886 | book | Variety trial, Aiyura block F6, 1990-1993 | Agritrop (Cirad)
+- new | 1993 | 10.1007/bf00052639 | article | Use of random amplified DNA markers to analyse genetic variability and relationships of Coffea species | Genetic Resources and Crop Evolution
+- new | 1990 | https://openalex.org/W210951789 | article | Breeding coffee in Venezuela: current trials. | 
+- new | 1977 | 10.1080/00128325.1977.11662865 | article | Control of Coffee Berry Disease in Northern Tanzania: 1976 Trials | East African Agricultural and Forestry J
+- new | 1977 | 10.11606/d.11.1977.tde-20240301-151548 | dissertation | Avaliação de progênies de café Mundo Novo (Coffea arabica L.) | Digital Library of Theses and Dissertati
+- new | 1968 | 10.1080/00221589.1968.11514234 | article | Fertilizer Trials on Small Coffee Farms in Uganda | Journal of Horticultural Science
+- new | 1964 | https://openalex.org/W2550994451 | article | Herbicide trials in Kenya arábica coffee in 1964. | 
+
+## cordyceps-militaris (Cordyceps militaris) - name clause: "Cordyceps militaris"[tiab] OR "cordycepin"[ti]
+
+### PubMed HT - 16 hits, 16 not already listed above, 14 new
+- new | 2026 | 42266370 |  | Evaluating Cordyceps militaris capsules on post-bronchodilator FEV(1) decline in patients with COPD: a study protocol for double-blind, randomized, placebo-controlled trial. | Front Pharmacol
+- new | 2026 | 42455764 | Randomized Controlled Trial | Acute Cordyceps militaris supplementation and elevated resting oxygen uptake with faster reaction times: A randomized crossover trial. | PLoS One
+- new | 2026 | 41829950 | Review | Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary Supplementation with Cordyceps militaris in Humans-A Narrative Review. | Nutrients
+- new | 2026 | 43068792 |  | Clinical Efficacy of Cordycepin in Feline Upper Respiratory Infection: A Randomized Trial. | Vet J
+- new | 2025 | 41249056 |  | Associations of hypoglycemic medications, cordycepin and vaccination with clinical outcomes in diabetic kidney disease patients with COVID-19. | Ren Fail
+- new | 2024 | 38947392 |  | Tripartite motif-containing 28 (TRIM28) expression and cordycepin inhibition in progression, prognosis, and therapeutics of patients with breast invasive carcinoma. | J Cancer
+- SEEN | 2024 | 38580687 | Randomized Controlled Trial | A randomized controlled clinical trial examining the effects of Cordyceps militaris beverage on the immune response in healthy adults. | Sci Rep
+- new | 2024 | 38931190 | Randomized Controlled Trial | Effect of the Administration of Cordyceps militaris Mycelium Extract on Blood Markers for Anemia in Long-Distance Runners. | Nutrients
+- new | 2023 | 37439158 |  | [Cordycepin, a metabolite of Cordyceps militaris, inhibits xenograft tumor growth of tongue squamous cell carcinoma in nude mice]. | Nan Fang Yi Ke Da Xue Xue Bao [chi]
+- new | 2023 | 37727187 |  | Early Trends to Show the Efficacy of Cordyceps militaris in Mild to Moderate COVID Inflammation. | Cureus
+- new | 2021 | 34858228 |  | Efficacy and Safety of Cordyceps militaris as an Adjuvant to Duloxetine in the Treatment of Insomnia in Patients With Depression: A 6-Week Double- Blind, Randomized, Placebo-Contro | Front Psychiatry
+- new | 2020 | 33321775 |  | Effect of Spent Mushroom (Cordyceps militaris) on Growth Performance, Immunity, and Intestinal Microflora in Weaning Pigs. | Animals (Basel)
+- new | 2019 | 31049139 | Clinical Trial | Cordyceps militaris Improves Chronic Kidney Disease by Affecting TLR4/NF-κB Redox Signaling Pathway. | Oxid Med Cell Longev
+- new | 2019 | 31261510 |  | Integrative cancer treatment may have a survival benefit in patients with lung cancer: A retrospective cohort study from an integrative cancer center in Korea. | Medicine (Baltimore)
+- new | 2017 | 27408987 |  | Cordyceps militaris Improves Tolerance to High-Intensity Exercise After Acute and Chronic Supplementation. | J Diet Suppl
+- HELD REF-3525 | 2015 | 26284906 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cordyceps militaris Enhances Cell-Mediated Immunity in Healthy Korean Men. | J Med Food
+
+### PubMed SR - 6 hits, 6 not already listed above, 5 new
+- new | 2026 | 42883811 | Review | Next-Generation Adaptogens: Molecular Mechanisms, Bioactive Compounds and Human Health Relevance of Selected Botanicals and Fungi. | Int J Mol Sci
+- new | 2026 | 41901364 | Review | Pleiotropic Bioactivity of Caterpillar Fungus, Orange Cordyceps, and Cordycepin: Insight from Integrated Network Pharmacology and Food and Drug Regulatory Framework. | Pharmaceuticals (Basel)
+- new | 2025 | 40289452 | Systematic Review/Research Support, Non-U.S. Gov't | Edible and Medicinal Fungi as Candidate Natural Antidepressants: Mechanisms and Nutritional Implications. | Mol Nutr Food Res
+- HELD REF-2598 | 2023 | 37373268 | Review | Anti-Cancer Potential of Edible/Medicinal Mushrooms in Breast Cancer. | Int J Mol Sci
+- new | 2022 | 36500262 | Systematic Review | Effect of Cordyceps spp. and Cordycepin on Functions of Bones and Teeth and Related Processes: A Review. | Molecules
+- new | 2021 | 34641429 | Systematic Review | A Systematic Review of the Biological Effects of Cordycepin. | Molecules
+
+### PubMed SAFE - 126 hits, 121 not already listed above, 119 new
+- new | 2027 | 42700824 |  | Gut microbiome-targeted bile acid metabolomics integration reveals dietary cordycepin alleviates NAFLD in diabetic mice by enriching Clostridia and affecting the PXR/Sult2a1/CA7S. | J Nutr Biochem
+- new | 2026 | 41942214 |  | Cordycepin-mediated protection against bisphenol A-induced male reproductive toxicity via PI3K/mTOR/HIF-1α signaling. | Food Res Int
+- new | 2026 | 42521464 | Review | Cordyceps militaris polysaccharides: extraction, structure-activity relationships and functional applications. | J Sci Food Agric
+- new | 2026 | 42184123 |  | Edible Fungus Compound Cordycepin Protects Against Acetaminophen-Induced Liver Injury. | J Clin Lab Anal
+- new | 2026 | 41905012 |  | Biotransformation-derived metabolites from Astragalus membranaceus and Cordyceps militaris alleviate hyperuricemia via multi-target regulation. | Bioorg Chem
+- new | 2026 | 42652243 |  | Multi-Target Neuroprotective Effects of Cordycepin and Adenosine from Cordyceps militaris Against Amyloid-β-Induced Neurotoxicity. | Biomedicines
+- new | 2026 | 42314834 | Research Support, Non-U.S. Gov't | Cordycepin alleviates aluminium chloride-induced neurodevelopmental toxicity in zebrafish embryos by modulating inflammation and Wnt signaling. | Neurochem Int
+- new | 2026 | 42586699 |  | Exopolysaccharides from lecithin-zeaxanthin-stimulated Cordyceps militaris alleviate cyclophosphamide-induced immunosuppression and intestine-liver injury. | Carbohydr Polym
+- new | 2026 | 42551352 |  | Cordycepin-double staple peptide-paclitaxel conjugate enhanced antitumor activity via autophagy and apoptosis pathways. | Bioorg Chem
+- new | 2026 | 41908945 |  | Cordycepin Ameliorates Dextran Sulfate Sodium-Induced Ulcerative Colitis in Mice by Inhibiting IL-6/IL-6R-Mediated p38 MAPK and NF-κB Activation Through Adenosine A(2A) Receptor St | Drug Des Devel Ther
+- new | 2026 | 42933503 | Review | Cordyceps proteins: An uncharted frontier in therapeutic bioactive research. | Fitoterapia
+- new | 2026 | 42742885 |  | Overcoming cordycepin limitations with SLNs-based nanoformulation: formulation development and cytotoxicity evaluation against human breast cancer cells. | Med Oncol
+- new | 2026 | 42909627 | Review | Cordyceps as a multitarget therapeutic platform: biology, bioactive metabolites, and translational challenges. | Arch Microbiol
+- new | 2025 | 41525190 | Review | Cordycepin in cancer therapy: A bibliometric analysis and review of mechanisms. | J Food Drug Anal
+- new | 2025 | 41302443 | Review | Fungal Polysaccharides as Modulators of Molecular Pathways in Liver Health. | Molecules
+- new | 2025 | 40071940 |  | Distribution and Pharmacokinetic Characteristics of Cordycepin in Rat: Investigated by UHPLC-HRMS/MS and Blood-Brain Synchronous Microdialysis. | Biomed Chromatogr
+- new | 2025 | 41135067 |  | Anti-Allergic Effects of Dietary Caterpillar Mushroom Cordyceps militaris (Ascomycota) Derived from Eri Silkworm. | Int J Med Mushrooms
+- new | 2025 | 41094518 |  | Laboratory cultivated Cordyceps militaris modulates cockroach allergen-induced inflammation in keratinocytes and macrophages dual cell platforms. | BMC Complement Med Ther
+- new | 2025 | 40871530 |  | 8-OXO-Cordycepin Is Not a Suitable Substrate for Adenosine Deaminase-Preliminary Experimental and Theoretical Studies. | Molecules
+- new | 2025 | 41135064 | Review | The Role of Medicinal Mushrooms in Cancer Treatment: Bioactive Compounds and Therapeutic Potential. | Int J Med Mushrooms
+- new | 2025 | 40604049 |  | The impact of Nrf2/HO-1, PD-L1/Bax/Bcl-2 and TNF-α/Il-6 signaling pathways in the ameliorative role of cordycepin against acrylamide-induced cardiac toxicity in rats. | Sci Rep
+- new | 2024 | 38953102 | Review | Structural and pharmacological insights into cordycepin for neoplasms and metabolic disorders. | Front Pharmacol
+- new | 2024 | 39000182 |  | Cordycepin Enhances the Therapeutic Efficacy of Doxorubicin in Treating Triple-Negative Breast Cancer. | Int J Mol Sci
+- new | 2024 | 39260158 | Research Support, Non-U.S. Gov't | Cordycepin alleviates diabetes mellitus-associated hepatic fibrosis by inhibiting SOX9-mediated Wnt/β-catenin signal axis. | Bioorg Chem
+- new | 2024 | 38305294 |  | Cordyceps militaris: A Comprehensive Study on Laboratory Cultivation and Anticancer Potential in Dalton's Ascites Lymphoma Tumor Model. | Anticancer Agents Med Chem
+- new | 2024 | 38293396 |  | Adjuvant activity of cordycepin, a natural derivative of adenosine from Cordyceps militaris, on an inactivated rabies vaccine in an animal model. | Heliyon
+- new | 2024 | 39539985 |  | A toxicological assessment of Ganoderma lucidum and Cordyceps militaris mushroom powders. | Front Toxicol
+- new | 2024 | 39380279 | Review | Pharmacological and economical aspects of important species of Cordyceps sensu lato: A review. | Cell Mol Biol (Noisy-le-grand)
+- new | 2024 | 39067832 |  | Genotoxicity, acute and sub-acute toxicity profiles of methanolic Cordyceps militaris (L.) Fr. extract in Swiss Albino Mice. | J Ethnopharmacol
+- new | 2024 | 39409822 |  | Transcriptomic and Metabolomic Analyses Reveal the Attenuating Role of Cordycepin and Cordyceps militaris Extract on Acute Liver Injury Induced by LPS in Piglets. | Animals (Basel)
+- new | 2024 | 38675443 | Review | State-of-the-Art Review on Botanical Hybrid Preparations in Phytomedicine and Phytotherapy Research: Background and Perspectives. | Pharmaceuticals (Basel)
+- new | 2024 | 39119199 |  | Innovative application of CRISPR for eliminating Ustiloxin in Cordyceps militaris: Enhancing food safety and quality. | Lebensm Wiss Technol
+- new | 2024 | 39519748 | Review | Cordyceps Polysaccharides: A Review of Their Immunomodulatory Effects. | Molecules
+- new | 2023 | 37329165 | Review | Cordycepin: A review of strategies to improve the bioavailability and efficacy. | Phytother Res
+- new | 2023 | 36988254 | Research Support, Non-U.S. Gov't | Protective effects of cordycepin pretreatment against liver ischemia/reperfusion injury in mice. | Immun Inflamm Dis
+- new | 2023 | 37030458 |  | Cordyceps militaris polysaccharide alleviates ovalbumin-induced allergic asthma through the Nrf2/HO-1 and NF-κB signaling pathways and regulates the gut microbiota. | Int J Biol Macromol
+- new | 2023 | 38144334 |  | Influence of Cordyceps militaris-fermented grain substrate extracts on alleviating food allergy in mice. | Heliyon
+- new | 2023 | 37100012 |  | Cordycepin protects islet β-cells against glucotoxicity and lipotoxicity via modulating related proteins of ROS/JNK signaling pathway. | Biomed Pharmacother
+- new | 2023 | 36377517 |  | Simultaneous determination of cordycepin and its metabolite 3'-deoxyinosine in rat whole blood by ultra-high-performance liquid chromatography coupled with Q Exactive hybrid quadru | J Sep Sci
+- new | 2022 | 35208860 | Review | Cordyceps militaris as a Bio Functional Food Source: Pharmacological Potential, Anti-Inflammatory Actions and Related Molecular Mechanisms. | Microorganisms
+- new | 2022 | 36472117 | Review | Heavy Metals, Halogenated Hydrocarbons, Phthalates, Glyphosate, Cordycepin, Alcohol, Drugs, and Herbs, Assessed for Liver Injury and Mechanistic Steps. | Front Biosci (Landmark Ed)
+- new | 2022 | 35035907 |  | Cordyceps militaris extract induces apoptosis and pyroptosis via caspase-3/PARP/GSDME pathways in A549 cell line. | Food Sci Nutr
+- new | 2022 | 36313318 |  | Transcriptomic analysis of the anti-inflammatory effect of Cordyceps militaris extract on acute gouty arthritis. | Front Pharmacol
+- new | 2022 | 36119830 |  | Cordycepin enhances radiosensitivity to induce apoptosis through cell cycle arrest, caspase pathway and ER stress in MA-10 mouse Leydig tumor cells. | Am J Cancer Res
+- new | 2022 | 34548637 | Research Support, Non-U.S. Gov't | Heterologous expression of a natural product biosynthetic gene cluster from Cordyceps militaris. | J Antibiot (Tokyo)
+- new | 2022 | 35829671 | Research Support, Non-U.S. Gov't | Efficient CRISPR/Cas9 system based on autonomously replicating plasmid with an AMA1 sequence and precisely targeted gene deletion in the edible fungus, Cordyceps militaris. | Microb Biotechnol
+- new | 2022 | 36142286 |  | Cordycepin Inhibits Growth and Metastasis Formation of MDA-MB-231 Xenografts in Nude Mice by Modulating the Hedgehog Pathway. | Int J Mol Sci
+- new | 2021 | 34297967 | Review | Molecular mechanisms of cordycepin emphasizing its potential against neuroinflammation: An update. | Eur J Pharmacol
+- HELD REF-0776 | 2021 | 33576035 | Research Support, Non-U.S. Gov't | Cordycepin Ameliorates Nonalcoholic Steatohepatitis by Activation of the AMP-Activated Protein Kinase Signaling Pathway. | Hepatology
+- new | 2021 | 33628298 |  | A Network Pharmacology Study on the Molecular Mechanisms of FDY003 for Breast Cancer Treatment. | Evid Based Complement Alternat Med
+- new | 2021 | 31880251 | Review | Prospects for Discovering the Secondary Metabolites of Cordyceps Sensu Lato by the Integrated Strategy. | Med Chem
+- new | 2021 | 34497158 |  | Ovalicin attenuates atopic dermatitis symptoms by inhibiting IL-31 signaling and intracellular calcium influx. | J Biomed Res
+- new | 2021 | 34704580 | Review | Dietary agents in mitigating chemotherapy-related cognitive impairment (chemobrain or chemofog): first review addressing the benefits, gaps, challenges and ways forward. | Food Funct
+- new | 2021 | 33450505 |  | Investigation of the molecular mechanism underlying the inhibitory activities of ethanol extract of Bombyx mori pupa-incubated Cordyceps militaris fruiting bodies toward allergic r | Biomed Pharmacother
+- new | 2021 | 33352441 |  | Cordycepin attenuates high-fat diet-induced non-alcoholic fatty liver disease via down-regulation of lipid metabolism and inflammatory responses. | Int Immunopharmacol
+- new | 2021 | 34836105 |  | Lactic Acid Bacteria Fermented Cordyceps militaris (GRC-SC11) Suppresses IgE Mediated Mast Cell Activation and Type I Hypersensitive Allergic Murine Model. | Nutrients
+- new | 2021 | 34641308 |  | Virtual Screening for Biomimetic Anti-Cancer Peptides from Cordyceps militaris Putative Pepsinized Peptidome and Validation on Colon Cancer Cell Line. | Molecules
+- new | 2020 | 32497577 | Research Support, Non-U.S. Gov't | Diverse function and regulation of CmSnf1 in entomopathogenic fungus Cordyceps militaris. | Fungal Genet Biol
+- new | 2020 | 33539689 |  | Anti-atopic dermatitis properties of Cordyceps militaris on TNFα/IFNγ-stimulated HaCaT cells and experimentally induced atopic dermatitis in mice. | Phys Act Nutr
+- HELD REF-0778 | 2020 | 33090621 | Review | Anti-inflammatory effects of cordycepin: A review. | Phytother Res
+- new | 2020 | 33030475 |  | Using Cordyceps militaris extracellular polysaccharides to prevent Pb(2+)-induced liver and kidney toxicity by activating Nrf2 signals and modulating gut microbiota. | Food Funct
+- new | 2020 | 32451092 |  | Cordycepin inhibits pancreatic cancer cell growth in vitro and in vivo via targeting FGFR2 and blocking ERK signaling. | Chin J Nat Med
+- new | 2020 | 32558840 |  | Study on the effect of regulation of Cordyceps militaris polypeptide on the immune function of mice based on a transcription factor regulatory network. | Food Funct
+- new | 2020 | 33067427 | Research Support, Non-U.S. Gov't | Cordycepin enhances the chemosensitivity of esophageal cancer cells to cisplatin by inducing the activation of AMPK and suppressing the AKT signaling pathway. | Cell Death Dis
+- new | 2019 | 31067486 |  | A natural cordycepin/chitosan complex hydrogel with outstanding self-healable and wound healing properties. | Int J Biol Macromol
+- new | 2019 | 30874868 |  | The ameliorative effect of AST2017-01 in an ovalbumin-induced allergic rhinitis animal model. | Inflamm Res
+- new | 2019 | 31656500 |  | Polysaccharides obtained from mycelia of Cordyceps militaris attenuated doxorubicin-induced cytotoxic effects in chemotherapy. | Afr Health Sci
+- new | 2019 | 31527329 |  | Cordycepin induces apoptosis in human bladder cancer T24 cells through ROS-dependent inhibition of the PI3K/Akt signaling pathway. | Biosci Trends
+- new | 2019 | 29673423 |  | Experimental and In Silico Analysis of Cordycepin and its Derivatives as Endometrial Cancer Treatment. | Oncol Res
+- new | 2019 | 29855849 |  | Selenium Biofortification and Antioxidant Activity in Cordyceps militaris Supplied with Selenate, Selenite, or Selenomethionine. | Biol Trace Elem Res
+- new | 2019 | 31446039 | Research Support, Non-U.S. Gov't/Review | Natural medicines for the treatment of fatigue: Bioactive components, pharmacology, and mechanisms. | Pharmacol Res
+- new | 2019 | 31145545 | Research Support, Non-U.S. Gov't | Cordycepin-induced unfolded protein response-dependent cell death, and AKT/MAPK-mediated drug resistance in mouse testicular tumor cells. | Cancer Med
+- new | 2019 | 30974169 | Research Support, Non-U.S. Gov't | Cordycepin Inhibits Drug-resistance Non-small Cell Lung Cancer Progression by Activating AMPK Signaling Pathway. | Pharmacol Res
+- new | 2019 | 30535479 |  | Cordycepin induces Bax‑dependent apoptosis in colorectal cancer cells. | Mol Med Rep
+- new | 2019 | 31817227 |  | Fermented Korean Red Ginseng Extract Enriched in Rd and Rg3 Protects against Non-Alcoholic Fatty Liver Disease through Regulation of mTORC1. | Nutrients
+- new | 2019 | 30924317 | Comparative Study/Research Support, Non-U.S. Gov't | Metabolic comparison of aerial and submerged mycelia formed in the liquid surface culture of Cordyceps militaris. | Microbiologyopen
+- new | 2019 | 31486758 | Research Support, Non-U.S. Gov't | Cordycepin Exerts Neuroprotective Effects via an Anti-Apoptotic Mechanism based on the Mitochondrial Pathway in a Rotenone-Induced Parkinsonism Rat Model. | CNS Neurol Disord Drug Targets
+- new | 2018 | 30405049 |  | Pediococcus pentosaceus-Fermented Cordyceps militaris Inhibits Inflammatory Reactions and Alleviates Contact Dermatitis. | Int J Mol Sci
+- new | 2018 | 30183461 |  | Cordycepin ameliorates skin inflammation in a DNFB-challenged murine model of atopic dermatitis. | Immunopharmacol Immunotoxicol
+- new | 2018 | 30269738 |  | Cordycepin inhibits lipopolysaccharide-induced cell migration and invasion in human colorectal carcinoma HCT-116 cells through down-regulation of prostaglandin E2 receptor EP4. | BMB Rep
+- new | 2018 | 30310675 |  | A 90-day subchronic toxicity study of submerged mycelial culture of Cordyceps militaris in rats. | Toxicol Res (Camb)
+- new | 2018 | 29937763 |  | Comparative Transcriptome Analysis Between a Spontaneous Albino Mutant and Its Sibling Strain of Cordyceps militaris in Response to Light Stress. | Front Microbiol
+- new | 2018 | 30025384 |  | Regulatory effects of chrysophanol, a bioactive compound of AST2017-01 in a mouse model of 2,4-dinitrofluorobenzene-induced atopic dermatitis. | Int Immunopharmacol
+- new | 2018 | 29389548 | Research Support, Non-U.S. Gov't | Optimal conditions for cordycepin production in surface liquid-cultured Cordyceps militaris treated with porcine liver extracts for suppression of oral cancer. | J Food Drug Anal
+- new | 2018 | 29161660 |  | Molecular mechanisms of anti-inflammatory effect of chrysophanol, an active component of AST2017-01 on atopic dermatitis in vitro models. | Int Immunopharmacol
+- new | 2017 | 32264358 |  | Packaging cordycepin phycocyanin micelles for the inhibition of brain cancer. | J Mater Chem B
+- new | 2017 | 28560504 |  | Development of Cordycepin Formulations for Preclinical and Clinical Studies. | AAPS PharmSciTech
+- new | 2017 | 28522898 |  | The Protective Effect of Cordycepin on D-Galactosamine/Lipopolysaccharide-Induced Acute Liver Injury. | Mediators Inflamm
+- new | 2017 | 28367714 |  | Uncovering the Molecular Mechanism of Anti-Allergic Activity of Silkworm Pupa-Grown Cordyceps militaris Fruit Body. | Am J Chin Med
+- new | 2017 | 29091925 | Comparative Study | Insight into cordycepin biosynthesis of Cordyceps militaris: Comparison between a liquid surface culture and a submerged culture through transcriptomic analysis. | PLoS One
+- new | 2017 | 29130448 |  | A review on the effects of current chemotherapy drugs and natural agents in treating non-small cell lung cancer. | Biomedicine (Taipei)
+- new | 2016 | 27261571 |  | Cordycepin protects PC12 cells against 6-hydroxydopamine induced neurotoxicity via its antioxidant properties. | Biomed Pharmacother
+- new | 2016 | 27315037 |  | Protective effect of Cordyceps militaris extract against bisphenol A induced reproductive damage. | Syst Biol Reprod Med
+- new | 2016 | 27446383 |  | Cordycepin induces apoptosis in human liver cancer HepG2 cells through extrinsic and intrinsic signaling pathways. | Oncol Lett
+- new | 2015 | 25892913 |  | Identification of the Genes Involved in the Fruiting Body Production and Cordycepin Formation of Cordyceps militaris Fungus. | Mycobiology
+- new | 2015 | 25883541 |  | Toxicity evaluation of cordycepin and its delivery system for sustained in vitro anti-lung cancer activity. | Nanoscale Res Lett
+- new | 2015 | 26258146 | Research Support, Non-U.S. Gov't | Hypoglycemic Activity through a Novel Combination of Fruiting Body and Mycelia of Cordyceps militaris in High-Fat Diet-Induced Type 2 Diabetes Mellitus Mice. | J Diabetes Res
+- new | 2015 | 25417131 | Research Support, Non-U.S. Gov't | The effects of cordycepin on ovalbumin-induced allergic inflammation by strengthening Treg response and suppressing Th17 responses in ovalbumin-sensitized mice. | Inflammation
+- new | 2015 | 25590866 | Research Support, Non-U.S. Gov't | Cordycepin induces cell cycle arrest and apoptosis by inducing DNA damage and up-regulation of p53 in Leukemia cells. | Cell Cycle
+- new | 2014 | 25232323 | Case Reports | A case of metastatic bladder cancer in both lungs treated with korean medicine therapy alone. | Case Rep Oncol
+- new | 2014 | 24726408 | Research Support, Non-U.S. Gov't | Anti-HCV activity of the Chinese medicinal fungus Cordyceps militaris. | Biochem Biophys Res Commun
+- new | 2014 | 25176413 | Research Support, Non-U.S. Gov't | In vitro evaluation of Cordyceps militaris as a potential radioprotective agent. | Int J Mol Med
+- new | 2013 | 23361035 |  | Cordycepin (3'-deoxyadenosine) pentostatin (deoxycoformycin) combination treatment of mice experimentally infected with Trypanosoma evansi. | Parasitology
+- new | 2013 | 23876821 | Research Support, Non-U.S. Gov't | Protective effect of cordycepin-enriched Cordyceps militaris on alcoholic hepatotoxicity in Sprague-Dawley rats. | Food Chem Toxicol
+- new | 2013 | 24161344 | Research Support, Non-U.S. Gov't | A novel synthetic analog of Militarin, MA-1 induces mitochondrial dependent apoptosis by ROS generation in human lung cancer cells. | Toxicol Appl Pharmacol
+- new | 2013 | 23258306 | Research Support, Non-U.S. Gov't | Protective effect of Cordyceps polysaccharide on hydrogen peroxide-induced mitochondrial dysfunction in HL-7702 cells. | Mol Med Rep
+- new | 2013 | 23690541 | Research Support, Non-U.S. Gov't | Intervention in genotoxic stress-induced senescence by cordycepin through activation of eIF2α and suppression of Sp1. | Toxicol Sci
+- new | 2013 | 24119256 | Research Support, Non-U.S. Gov't | Neurite outgrowth stimulatory effects of culinary-medicinal mushrooms and their toxicity assessment using differentiating Neuro-2a and embryonic fibroblast BALB/3T3. | BMC Complement Altern Med
+- new | 2013 | 23292300 | Research Support, Non-U.S. Gov't | Apoptosis induction of human prostate carcinoma cells by cordycepin through reactive oxygen species‑mediated mitochondrial death pathway. | Int J Oncol
+- new | 2012 | 40608959 | Review | Cordyceps. | 
+- new | 2012 | 22806813 | Research Support, Non-U.S. Gov't | Cordyceps militaris (Hypocreales: Cordycipitaceae): transcriptional analysis and molecular characterization of cox1 and group I intron with putative LAGLIDADG endonuclease. | World J Microbiol Biotechnol
+- new | 2012 | 22821173 |  | The nucleoside antagonist cordycepin causes DNA double strand breaks in breast cancer cells. | Invest New Drugs
+- new | 2011 | 21994206 | Case Reports | Best case series program supportive cases of Cordyceps militaris- and panax notoginseng-based anticancer herbal formula. | Integr Cancer Ther
+- new | 2011 | 21420483 | Research Support, Non-U.S. Gov't | The ethyl acetate extract of Cordyceps militaris inhibits IgE-mediated allergic responses in mast cells and passive cutaneous anaphylaxis reaction in mice. | J Ethnopharmacol
+- new | 2011 | 21933677 | Comparative Study/Research Support, Non-U.S. Gov't | Cordycepin-induced apoptosis and autophagy in breast cancer cells are independent of the estrogen receptor. | Toxicol Appl Pharmacol
+- new | 2010 | 20302371 | Research Support, Non-U.S. Gov't/Validation Study | Pharmacokinetics of adenosine and cordycepin, a bioactive constituent of Cordyceps sinensis in rat. | J Agric Food Chem
+- new | 2009 | 18599159 | Research Support, Non-U.S. Gov't | Synthesis and pharmacokinetic evaluation of novel N-acyl-cordycepin derivatives with a normal alkyl chain. | Eur J Med Chem
+- new | 2004 | 15649290 | Research Support, Non-U.S. Gov't | Antitumour activity of cordycepin in mice. | Clin Exp Pharmacol Physiol
+- new | 2000 | 10898616 | Research Support, Non-U.S. Gov't | Cordycepin: selective growth inhibitor derived from liquid culture of Cordyceps militaris against Clostridium spp. | J Agric Food Chem
+- new | 1997 | 9356305 | Research Support, U.S. Gov't, P.H.S. | Toxicity of cordycepin in combination with the adenosine deaminase inhibitor 2'-deoxycoformycin in beagle dogs. | Toxicol Appl Pharmacol
+- new | 1975 | 54927 | Research Support, U.S. Gov't, P.H.S. | Cordycepin inhibition of 3-methylcholanthrene-induced transformation in vitro. | Proc Soc Exp Biol Med
+
+### PubMed OBS - 2 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 85 hits, 14 not already listed above, 13 new
+- new | 2024 | 38224811 | Review | A review on polysaccharide biosynthesis in Cordyceps militaris. | Int J Biol Macromol
+- new | 2024 | 39199741 | Review | Advancing Cordyceps militaris Industry: Gene Manipulation and Sustainable Biotechnological Strategies. | Bioengineering (Basel)
+- new | 2024 | 39194034 | Review | The role and mechanisms of cordycepin in inhibiting cancer cells. | Braz J Med Biol Res
+- new | 2024 | 38906495 | Review | Cordyceps militaris: A novel mushroom platform for metabolic engineering. | Biotechnol Adv
+- new | 2023 | 37303782 | Review | Application progress of CRISPR/Cas9 genome-editing technology in edible fungi. | Front Microbiol
+- new | 2023 | 36584876 | Review/Research Support, Non-U.S. Gov't | Cordycepin and kinase inhibition in cancer. | Drug Discov Today
+- new | 2023 | 37634411 | Review/Research Support, Non-U.S. Gov't | Pharmacological and therapeutic potentials of cordycepin in hematological malignancies. | Biochem Biophys Res Commun
+- new | 2022 | 35627059 | Review | Edible Mushrooms as a Potential Component of Dietary Interventions for Major Depressive Disorder. | Foods
+- new | 2022 | 35997091 | Review | Cordycepin as a Metabolite with Pharmacological Potential: A Review. | Int J Med Mushrooms
+- HELD REF-2155 | 2022 | 35711557 | Review | Structural Elucidation and Activities of Cordyceps militaris-Derived Polysaccharides: A Review. | Front Nutr
+- new | 2020 | 30277143 | Review | Cordycepin in Anticancer Research: Molecular Mechanism of Therapeutic Effects. | Curr Med Chem
+- new | 2018 | 30287757 | Review | The Anticancer Properties of Cordycepin and Their Underlying Mechanisms. | Int J Mol Sci
+- new | 2016 | 27131323 | Review | Advances in Genomics of Entomopathogenic Fungi. | Adv Genet
+- new | 2015 | 30151320 | Review | Cordyceps industry in China. | Mycology
+
+### ClinicalTrials.gov - 10 registered studies
+- NCT06138444 | COMPLETED | results=False | NA | Effect of Cordyceps Militaris Beverage on the Immune Response | conds: Healthy | intr: Functional beverages from the submerged fermentation of Cordyceps militaris, Fruit juice
+- NCT06065241 | COMPLETED | results=False | NA | Quantifiably Determine if the Botanical Formulation, LLP-01, Has a Significant Clinical Effect on Proteomic Inflammatory and Cardiovascular  | conds: Aging, Inflammation | intr: LLP-01, Placebo
+- NCT07310108 | COMPLETED | results=False | NA | Evaluation of Cordyceps Militaris M2-116-04 for Its Potential Sport and Exercise Nutrition Applications in Healthy Active Adults | conds: Aerobic, Exercise | intr: Cordyceps Militaris, Placebo
+- NCT07729943 | RECRUITING | results=False | NA | A Trial to Study the Effects of Ginseng and Cordyceps on Aerobic Capacity, Lactate Kinetics, and Nitric Oxide | conds: Healthy Subjects With Low Energy Levels | intr: Panax ginseng, Cordycep Militaris, Placebo
+- NCT07267234 | RECRUITING | results=False | PHASE2 | PRaG-1 Plus PRaG Therapy in in Elderly Patients With Advanced Solid Tumors: A Prospective Clinical Trial (PRaG 10.0) | conds: Solid Cancer, Lymphopenia, Radiotherapy, Immune Checkpoint Inhibitor | intr: Adebrelimab
+- NCT07258160 | RECRUITING | results=False | PHASE2 | Evaluation of the Effect of Cordycepin on CD8+ Lymphocytopenia in Patients With Solid Tumors | conds: Solid Cancer, Lymphopenia | intr: PRaG-1, Placebo
+- NCT03829254 | RECRUITING | results=False | PHASE1,PHASE2 | A Safety, Pharmacokinetic and Clinical Activity Study of NUC-7738 in Patients With Advanced Solid Tumours and Lymphoma | conds: Advanced Cancer, Lymphoma, Solid Tumor, Melanoma | intr: NUC-7738, Pembrolizumab
+- NCT00709215 | UNKNOWN | results=False | PHASE1,PHASE2 | Study of Cordycepin Plus Pentostatin in Patients With Refractory TdT-Positive Leukemia | conds: Refractory TdT-Positive Leukemia | intr: Cordycepin plus Pentostatin | pubs: ['33225826:DERIVED (new)']
+- NCT07002502 | NOT_YET_RECRUITING | results=False | PHASE2 | Immune Modulation With PRaG-1 Treatment | conds: Cancer, Solid Cancer | intr: PRaG-1(cordycepin tablet)
+- NCT00003005 | COMPLETED | results=False | PHASE1 | Chemotherapy With Cordycepin Plus Pentostatin in Treating Patients With Refractory Acute Lymphocytic or Chronic Myelogenous Leukemia | conds: Leukemia | intr: Cordycepin, Deoxycoformycin
+
+### OpenAlex no-PMID trial-worded - 1034 hits, 44 without PMID, 44 new
+- new | 2026 | 10.6084/m9.figshare.33136385 | dissertation | Acute Effects of Cordyceps militaris on Cycling Time to Exhaustion, Postprandial Resting Metabolism, Substrate Oxidation, and Cardiometabolic Responses in Recreationally Active You | Figshare
+- new | 2026 | 10.57760/sciencedb.41475 | dataset | The data of the article "Clustering-Random Forest Screening of Excellent Cordyceps militaris Strains and Core Factors" | ScienceDB
+- new | 2026 | 10.1016/j.prmcm.2026.100856 | article | Cordycepin: Seventy years to the clinic - bridging the translational bottleneck from traditional chinese medicine to first-in-human oncology trial | Pharmacological Research - Modern Chines
+- new | 2026 | 10.18311/jnr/2026/48963 | article | A Comprehensive Review of the Potential Effects of Ophiocordyceps sinensis and Cordyceps militaris on Spermatogenesis | Journal of Natural Remedies
+- new | 2026 | 10.54203/scil.2026.wvj94 | article | Effects of Dietary Cordyceps militaris on Sperm Quality and Reproductive Performance in Rabbits | World s Veterinary Journal
+- new | 2025 | 10.37275/ehi.v6i2.130 | article | Modulation of the Cognition-Sleep Nexus in Subjective Cognitive Decline: A 12-Week, Randomized, Double-Blind, Placebo-Controlled Trial of a Standardized Cordyceps militaris Extract | Eureka Herba Indonesia
+- new | 2025 | 10.47836/mjmhs.21.3.50 | article | Effects of Two-week Fungal-based Essence in Healthy Malaysian Adults: A Pilot Randomized Controlled Trial | Malaysian Journal of Medicine and Health
+- new | 2025 | 10.20944/preprints202508.1899.v1 | preprint | Mood and Sleep Benefits of Mushroom Supplementation in Young Adults: An Exploratory Randomized, Double-Blind, Placebo-Controlled Trial | Preprints.org
+- new | 2024 | 10.69692/sujmrd090101 | article | Study on the Cordyceps militaris Cultivation in Differential Media and Substrates Formulation | Vālasān vithanyāsāt mahāvithanyālai Suph
+- new | 2024 | 10.48165/abr.2024.26.01.45 | article | OPTIMIZATION OF CULTURE CONDITIONS FOR SINGLE CELL CULTURE OF Cordyceps militaris DMR 1164 | Applied Biological Research
+- new | 2023 | 10.22573/spg.023.978-93-90357-85-7/9 | book-chapter | Elevating Health with Cordyceps Militaris: The Ultimate Food Supplem | Skyfox Publishing Group eBooks
+- new | 2023 | https://openalex.org/W7216880703 | book | Elevating Health with Cordyceps Militaris: The Ultimate Food Supplement: Chapter 9 | International Journal of Agricultural an
+- new | 2023 | 10.1007/978-981-99-2162-1_32 | conference-paper | Effect of Cordyceps Militaris, Arginine and Citrulline Supplementation on Long Distance Runners in Hot Conditions | Lecture notes in bioengineering
+- new | 2022 | 10.1016/j.prmcm.2022.100143 | article | The effects of Cordyceps militaris fruiting bodies in micturition and prostate size in benign prostatic hyperplasia patients: A pilot study | Pharmacological Research - Modern Chines
+- new | 2022 | 10.21203/rs.3.rs-1420916/v1 | preprint | Acute kidney injury related to Cordyceps militaris: A case series | Research Square
+- new | 2021 | 10.26538/tjnpr/v5i10.17 | article | Therapeutic Effects of Y10 Capsule on Male Patients with Semen Quality Impairment | Tropical Journal of Natural Product Rese
+- new | 2021 | 10.15188/kjopp.2021.10.35.5.193 | article | Cordyceps Militaris Complex extract Treatment for Rheumatoid Arthritis: A Retrospective Observational Study | 동의생리병리학회지
+- new | 2020 | 10.1016/j.jff.2020.104259 | article | Efficacy and safety of CAEC (Canavalia gladiata arctium lappa extract complex) on immune function enhancement: An 8 week, randomised, double-blind, placebo-controlled clinical tria | Journal of Functional Foods
+- new | 2020 | https://openalex.org/W3081175448 | article | An Investigation on the Effectiveness of Cordyceps Militaris on Health-Related Components among Sedentary People | 
+- new | 2020 | 10.1590/fst.37518 | article | Preparation of glycosylated hydrolysate by liquid fermentation with Cordyceps militaris and characterization of its functional properties | Food Science and Technology
+- new | 2020 | 10.1088/1742-6596/1549/3/032069 | conference-paper | Genome-Wide Analysis of the Cytochromes P450 Gene Family in Cordyceps militaris | Journal of Physics Conference Series
+- new | 2020 | https://openalex.org/W4416243312 | article | PROSPECTS OF POTENT MEDICINAL MUSHROOM, Cordyceps militaris (CORDYCEPS): REALM OF PHARMACOLOGICAL ACTIVITIES | PLANT CELL BIOTECHNOLOGY AND MOLECULAR B
+- new | 2019 | 10.4163/jnh.2019.52.3.258 | article | Effects ofCordyceps militarissupplementation on the immune response and upper respiratory infection in healthy adults: a randomized, double-blind, placebo-controlled study | Journal of Nutrition and Health
+- new | 2019 | 10.1016/j.sajb.2018.01.007 | article | An insight into antidiabetic properties of six medicinal and edible mushrooms: Inhibition of α-amylase and α-glucosidase linked to type-2 diabetes | South African Journal of Botany
+- new | 2019 | 10.12677/hjas.2019.910130 | article | Study on Immune Adjuvant Activity of Crude Extract of Cordyceps Militaris Polysaccharide | Hans Journal of Agricultural Sciences
+- new | 2018 | 10.11648/j.ajss.20180601.11 | article | The Effects of High and Low-Dose Cordyceps Militaris-Containing Mushroom Blend Supplementation After Seven and Twenty-Eight Days | American Journal of Sports Science
+- new | 2018 | https://openalex.org/W3154349275 | dissertation | KEPEKAAN LARVA KUMBANG PREDATOR WERENG COKLAT (Menochilus sexmaculatus) TERHADAP Cordyceps militaris = THE SENSITIVITY OF BROWN PLANTHOPPER PREDATORY BEETLE (Menochilus sexmaculatu | 
+- new | 2016 | https://openalex.org/W2767853032 | article | Effect of Cordyceps militaris on humoral immunity and cellular immunity | Science and Technology of Food Industry
+- new | 2015 | 10.15747/jcn.2015.7.3.81 | article | The Efficacy and Safety of Cordyceps militaris in Korean Adults Who Have Mild Liver Dysfunction | Journal of Clinical Nutrition
+- new | 2014 | https://openalex.org/W2354970065 | article | Study on the Cordyceps militaris for lowering uric acid of patients with hyperuricemia | Lishizhen Medicine and Materia Medica Re
+- new | 2014 | https://openalex.org/W2366918172 | article | Anti-fatigue Effects of Cordyceps militaris Polysaccharide in Mice | Shiyongjun xuebao
+- new | 2014 | https://openalex.org/W2350360675 | article | The Preliminary Exploration of the Capacity of Anti- hyperlipemia of Fermentation Liquid of Cordyceps militaris | Academic Periodical of Farm Products Pro
+- new | 2013 | 10.1016/j.proenv.2013.02.022 | article | Establishment of Transformation System in Cordyceps Militaris by using Integration Vector with Benomyl Resistance Gene | Procedia Environmental Sciences
+- new | 2013 | https://openalex.org/W3146555422 | article | Comparison of Carbon Source in Cordyceps militaris Artificial Substitute Cultivation | Journal of Jianghan University
+- new | 2012 | https://openalex.org/W2348907003 | article | Clinical research of cordyceps militaris tablets and irbesartan tablets in treatment of chronic glomerulonephritis | China Modern Doctor
+- new | 2011 | https://openalex.org/W2363395582 | article | THE HYPOGLYCEMIC EFFECT OF MIXTURE OF APOSTICHOPUS JAPONICUS AND CORDYCEPS MILITARIS AND ITS MECHANISM | Acta Nutrimenta Sinica
+- new | 2010 | 10.1016/j.carbpol.2010.01.017 | article | Structural characterization of immunostimulating polysaccharide from cultured mycelia of Cordyceps militaris | Carbohydrate Polymers
+- new | 2010 | 10.1016/j.carbpol.2010.06.025 | article | Study on macrophage activation and structural characteristics of purified polysaccharide from the liquid culture broth of Cordyceps militaris | Carbohydrate Polymers
+- new | 2010 | https://openalex.org/W2380619249 | article | Study on the Extraction of SOD in Residues Medium of Cordyceps Militari | Shipin yanjiu yu kaifa
+- new | 2008 | https://openalex.org/W2360884410 | article | THE EFFECT OF THE MYCELIA OF CORDYCEPS MILITARIS ON REGULATION OF HIGH BLOOD LIPID | Journal of South China Normal University
+- new | 2006 | https://openalex.org/W2100420545 | article | Effects of Cordyceps Militaris Extract on Tumor Immunity | 대한한의학회지
+- new | 2004 | https://openalex.org/W2380367941 | article | Efficacy of Cordyceps militaris capsules in treatment of chronic bronchitis | Chinese New Drugs Journal
+- new | 2001 | https://openalex.org/W845887930 | article | In vitro Antitumor Activity of Ergosterol Peroxide Isolated from Cordyceps militaris on Cancer Cell Lines from Korean Patients | The Korean Journal of Mycology
+- new | 1999 | https://openalex.org/W285238973 | article | Analysis of Genetic Relationship of Cordyceps militaris in Korea by Random Amplified Polymorphic DNA | The Korean Journal of Mycology
+
+## coriandrum-sativum (Coriandrum sativum) - name clause: "Coriandrum sativum"[tiab] OR "coriander"[tiab] OR "cilantro"[tiab]
+
+### PubMed HT - 53 hits, 53 not already listed above, 49 new
+- new | 2026 | 42168821 |  | Clinical and Epidemiologic Characteristics With Molecular Confirmation of Cyclosporiasis in Pediatric Patients Presenting to the Emergency Department With Acute Diarrheal Disease i | Pediatr Infect Dis J
+- new | 2026 | 42183570 | Review | Alternative and Complementary Therapies: A Review Exploring the Role of Yoga and Ayurveda-based Herbal Medicines in Alleviating Hypothyroidism and Its Neuropsychiatric Manifestatio | Ann Neurosci
+- new | 2026 | 42883649 |  | Assessing Botanical Authenticity of Honey Through DNA-Metabarcoding-Based Pollen Analysis: A Preliminary Study. | Foods
+- new | 2026 | 42799922 |  | Targeted pesticide screening and multi-matrix toxic-element monitoring in a highland vegetable production system of southern Lao PDR: implications for surveillance prioritization. | Environ Monit Assess
+- new | 2026 | 42304216 |  | Morpho‑physiological and biochemical response of coriander to silicon with bacterial inoculants in silicon-deficient soil. | BMC Plant Biol
+- new | 2026 | 41978070 | Review | The Use of Spice Herbs May Reduce Chronic Inflammation and Improve the Quality of Life of Women with Metabolic Syndrome-A Narrative Review. | Nutrients
+- new | 2026 | 42828686 | Randomized Controlled Trial | Salivary microbiome responses to chlorhexidine and Coriandrum sativum essential oil mouthwashes in patients with periodontitis in a randomized 2-week clinical trial. | Clin Oral Investig
+- HELD REF-0026 | 2025 | 41306764 | Review | Spices, herbs and allergic reactions in children: myth or reality - a narrative review with scoping elements. | Front Allergy
+- new | 2025 | 39951927 | Randomized Controlled Trial | Efficacy of an Iranian herbal medicine formula for postoperative constipation in trauma patients with hip and lower limb fractures: A triple-blind, placebo-controlled randomized cl | Int J Orthop Trauma Nurs
+- new | 2025 | 41492428 |  | Effects of Dietary Supplementation with Coriander Seed Powder on Serum Lipid Profile, Glycemic Indices, and Oxidative Stress Biomarkers in Patients with Type 2 Diabetes Mellitus: A | Prev Nutr Food Sci
+- new | 2025 | 41370433 |  | Chemical analysis related to the stomatal density and yield of cilantro (Coriandrum sativum L.) nourished with compost based on plant residues. | Braz J Biol
+- new | 2025 | 40802391 |  | Antioxidant related to nutrition, stomatal density, and yield in cilantro (Coriandrum sativum L.) nourished with leachate from compost based on vegetable waste. | Braz J Biol
+- new | 2025 | 40787360 |  | Magnesium Oxide Nanoparticles Improved Drought Resilience in Coriandrum sativum L. through Lifting Antioxidant Level, Redox Balancing, and Improving Photosynthetic Efficiency. | ACS Omega
+- new | 2024 | 38981452 | Randomized Controlled Trial | The Efficacy of the Herbal Formula of Bunium persicum and Coriandrum sativum on Clinical Symptoms of Patients with Functional Dyspepsia: A Double-Blind Randomized Controlled Trial. | Complement Med Res
+- new | 2024 | 39256685 |  | Promoting salt tolerance, growth, and phytochemical responses in coriander (Coriandrum sativum L. cv. Balady) via eco-friendly Bacillus subtilis and cobalt. | BMC Plant Biol
+- new | 2024 | 38868062 |  | Effect of foliar application frequency and different levels of nano fertilizer on growth and development of coriander (Coriandrum sativum L.). | Heliyon
+- new | 2024 | 38316894 |  | Growth, productivity and phytochemicals of Coriander in responses to foliar application of Acacia saligna fruit extract as a biostimulant under field conditions. | Sci Rep
+- new | 2024 | 39111009 |  | Bio-manure substitution declines soil N(2)O and NO emissions and improves nitrogen use efficiency and vegetable quality index. | J Environ Manage
+- new | 2023 | 37141519 |  | [Impact of essential oil vapors inhalation on blood pressure in patients with hypertension]. | Vopr Kurortol Fizioter Lech Fiz Kult [rus]
+- new | 2023 | 37570992 |  | Application of Silicon, Zinc, and Zeolite Nanoparticles-A Tool to Enhance Drought Stress Tolerance in Coriander Plants for Better Growth Performance and Productivity. | Plants (Basel)
+- new | 2023 | 37065112 |  | Disease alleviating effects following prophylactic lemon and coriander essential oil treatment in mice with acute campylobacteriosis. | Front Microbiol
+- new | 2023 | 37566728 | Research Support, Non-U.S. Gov't | Effects of a spice-blended honey muffin on salivary inflammation markers in adults with obesity: a feasibility trial. | Ann Med
+- new | 2022 | 34359086 | Systematic Review | Medicinal Plants for Prophylaxis and Therapy of Common Infectious Diseases In Poultry-A Systematic Review of In Vivo Studies. | Planta Med
+- new | 2022 | 35440935 |  | Effect of the supplementation of virgin coriander seed oil on reducing reactivity in healthy women with sensitive skin: a randomized double-blind placebo-controlled pilot clinical  | Food Nutr Res
+- new | 2022 | 36145497 |  | The Effects of Allium sativum L., Artemisia absinthium L., Cucurbita pepo L., Coriandrum sativum L., Satureja hortensis L. and Calendula officinalis L. on the Embryogenesis of Asca | Pathogens
+- new | 2022 | 35523852 |  | Fertilizer type and humic acid improve the growth responses, nutrient uptake, and essential oil content on Coriandrum sativum L. | Sci Rep
+- HELD REF-1575 | 2020 | 32310327 | Systematic Review | Herbal treatments for migraine: A systematic review of randomised-controlled studies. | Phytother Res
+- new | 2020 | 31968621 |  | The Role of Annual Flowering Plant Strips on a Melon Crop in Central Spain. Influence on Pollinators and Crop. | Insects
+- new | 2020 | 32884919 |  | Evaluating the effect of Coriandrum sativum syrup on being migraine-free using mixture models. | Med J Islam Repub Iran
+- new | 2020 | 32211803 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Spices in a High-Saturated-Fat, High-Carbohydrate Meal Reduce Postprandial Proinflammatory Cytokine Secretion in Men with Overweight or Obesity: A 3-Period, Crossover, Randomized C | J Nutr
+- new | 2019 | 30005170 | Randomized Controlled Trial | The Safety of Mother's Milk® Tea: Results of a Randomized Double-Blind, Controlled Study in Fully Breastfeeding Mothers and Their Infants. | J Hum Lact
+- new | 2018 | 29765566 |  | Efficacy of combination of Viola odorata, Rosa damascena and Coriandrum sativum in prevention of migraine attacks: a randomized, double blind, placebo-controlled clinical trial. | Electron Physician
+- new | 2018 | 30150192 | Randomized Controlled Trial | Supplementation of garlic and coriander seed powder: Impact on body mass index, lipid profile and blood pressure of hyperlipidemic patients. | Pak J Pharm Sci
+- new | 2018 | 29953470 | Research Support, Non-U.S. Gov't | Genetic combining ability of coriander genotypes for agronomic and phytochemical traits in response to contrasting irrigation regimes. | PLoS One
+- new | 2017 | 28951694 |  | Efficacy of Topical Coriandrum sativum Extract on Treatment of Infants with Diaper Dermatitis: A Single Blinded Non-Randomised Controlled Trial. | Malays J Med Sci
+- new | 2016 | 26889386 |  | Effects of Coriandrum sativum Syrup on Migraine: A Randomized, Triple-Blind, Placebo-Controlled Trial. | Iran Red Crescent Med J
+- new | 2015 | 25522674 | Review | Detox diets for toxin elimination and weight management: a critical review of the evidence. | J Hum Nutr Diet
+- new | 2015 | 26445711 |  | Nutrient-rich versus nutrient-poor foods for depressed patients based on Iranian Traditional Medicine resources. | Avicenna J Phytomed
+- new | 2014 | 25068136 | Review | Omega-3 and omega-6 content of medicinal foods for depressed patients: implications from the Iranian Traditional Medicine. | Avicenna J Phytomed
+- new | 2014 | 25114940 |  | Efficacy of a local-drug delivery gel containing extracts of Quercus brantii and Coriandrum sativum as an adjunct to scaling and root planing in moderate chronic periodontitis pati | J Res Pharm Pract
+- new | 2014 | 25416221 |  | [The effects of grape seed and coriander oil on biochemical parameters of oral fluid in patients with periodontitis]. | Georgian Med News [rus]
+- new | 2013 | 23443238 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Unexpected results in a randomized dietary trial to reduce phthalate and bisphenol A exposures. | J Expo Sci Environ Epidemiol
+- HELD REF-3526 | 2013 | 23466353 | Comparative Study/Randomized Controlled Trial | Topical treatment of tinea pedis using 6% coriander oil in unguentum leniens: a randomized, controlled, comparative pilot study. | Dermatology
+- new | 2013 | 26784340 |  | Determination of Radical Scavenging Activity and Total Phenols of Wine and Spices: A Randomized Study. | Antioxidants (Basel)
+- HELD REF-3527 | 2013 | 23337964 | Randomized Controlled Trial | [Antiinflammatory potential of seven plant extracts in the ultraviolet erythema test. A randomized, placebo-controlled study]. | Hautarzt [ger]
+- new | 2012 | 21815228 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Antimicrobial activity against bacteria with dermatological relevance and skin tolerance of the essential oil from Coriandrum sativum L. fruits. | Phytother Res
+- new | 2008 | 18371049 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Anti-inflammatory potential of a lipolotion containing coriander oil in the ultraviolet erythema test. | J Dtsch Dermatol Ges [eng,ger]
+- new | 2006 | 30000936 | Review | Black Seed. | 
+- new | 2006 | 17182483 |  | The use of medicinal herbs by diabetic Jordanian patients. | J Herb Pharmacother
+- new | 2006 | 16868824 | Multicenter Study/Randomized Controlled Trial | The efficacy of an herbal medicine, Carmint, on the relief of abdominal pain and bloating in patients with irritable bowel syndrome: a pilot study. | Dig Dis Sci
+- new | 2002 | 12027075 | Case Reports | Occupational rhinoconjunctivitis and food allergy because of aniseed sensitization. | Ann Allergy Asthma Immunol
+- new | 1991 | 1957997 | Research Support, Non-U.S. Gov't | Spice allergy in celery-sensitive patients. | Allergy
+- new | 1987 | 2433321 |  | Demonstration of spice-specific IgE in patients with suspected food allergies. | J Allergy Clin Immunol
+
+### PubMed SR - 18 hits, 15 not already listed above, 15 new
+- new | 2026 | 42214910 | Scoping Review | Effects of Coriandrum sativum L. (coriander) essential oil on Candida spp. in oral infection: Scoping review. | Arch Oral Biol
+- new | 2025 | 41124411 | Systematic Review | Antibacterial potential of Coriandrum sativum essential oil against foodborne pathogens: A systematic review. | Braz J Biol
+- new | 2025 | 39921369 | Scoping Review | Treatments of psychosomatic symptoms in Alzheimer's disease: a scoping review of the potential therapeutic effects of essential oils. | Psychogeriatrics
+- new | 2025 | 40561949 |  | Microplastic composition-dependent effects on N(2)O emissions driven by changes in soil N process and microbial communities. | J Hazard Mater
+- new | 2024 | 38435393 | Review | Essential oils: a systematic review on revolutionizing health, nutrition, and omics for optimal well-being. | Front Med (Lausanne)
+- new | 2024 | 38344827 | Review | Bioaccumulation of potentially toxic elements in leafy and tuberous vegetables: a comparison based on meta-analysis studies with a cumulative health risk assessment. | Int J Environ Health Res
+- new | 2023 | 37432178 | Systematic Review | Mexican Plants Involved in Glucose Homeostasis and Body Weight Control: Systematic Review. | Nutrients
+- new | 2023 | 38068725 | Scoping Review | A Scoping Review of the Clinical Evidence for the Health Benefits of Culinary Doses of Herbs and Spices for the Prevention and Treatment of Metabolic Syndrome. | Nutrients
+- new | 2022 | 35554788 | Systematic Review | Systematic review of preclinical studies about effects of Coriandrum sativum L. on inflammatory mediators. | Inflammopharmacology
+- new | 2022 | 35571080 | Systematic Review | Anticancer Activities of Polygonum odoratum Lour.: A Systematic Review. | Front Pharmacol
+- new | 2022 | 35490427 | Systematic Review | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review. | Infect Disord Drug Targets
+- new | 2021 | 33486683 | Meta-Analysis/Systematic Review | Accumulation of potentially harmful elements (PHEs) in lettuce (Lactuca sativa L.) and coriander (Coriandrum sativum L.) irrigated with wastewater: a systematic review and meta-ana | Environ Sci Pollut Res Int
+- new | 2021 | 33646552 | Published Erratum | Correction to: Accumulation of potentially harmful elements (PHEs) in lettuce (Lactuca sativa L.) and coriander (Coriandrum sativum L.) irrigated with wastewater: a systematic revi | Environ Sci Pollut Res Int
+- new | 2020 | 32388299 | Meta-Analysis | Cadmium uptake from soil and transport by leafy vegetables: A meta-analysis. | Environ Pollut
+- new | 2015 | 25911964 | Research Support, Non-U.S. Gov't/Systematic Review | Antibacterial Activity of Essential Oils and Their Isolated Constituents against Cariogenic Bacteria: A Systematic Review. | Molecules
+
+### PubMed SAFE - 163 hits, 148 not already listed above, 143 new
+- new | 2026 | 41428323 |  | Health Risk Assessment of Toxic Trace Elements in Medicinal Herbs from Algeria. | Biol Trace Elem Res
+- new | 2026 | 42678451 |  | Dietary exposure and health risks associated with selected vegetables from Pothohar Region of Punjab, Pakistan. | Environ Monit Assess
+- new | 2026 | 42515668 |  | Coriander Honey Accelerates Human Osteoblast Differentiation and Matrix Mineralization via Intracellular Ca(2+) Signaling. | Pharmaceuticals (Basel)
+- new | 2026 | 43036866 |  | Alleviation of lead toxicity in Coriandrum sativum L. using plant growth-promoting rhizobacteria and biochar. | Int J Phytoremediation
+- new | 2026 | 42321328 | Research Support, Non-U.S. Gov't | Contamination levels and health risk assessment of heavy metals in edible leafy vegetables distributed in Rafsanjan, southeast Iran. | Sci Rep
+- new | 2026 | 40442992 | Review | A comprehensive review of herb microgreens as emerging functional foods: insights into their nutritional potential and health benefits. | Prep Biochem Biotechnol
+- new | 2026 | 42527157 |  | Toxicological implications and human health risk assessment of heavy metal contaminated green leafy vegetables and their cultivated soil. | Toxicol Ind Health
+- new | 2026 | 42635938 | Comparative Study | Comparative Efficacy of Coriander Seed Extract-Loaded Selenium Nanoparticles and DMSA in Restoring Antioxidant/Apoptotic Balance of Lead-Induced Hepatotoxicity. | Cell Biochem Biophys
+- new | 2026 | 41429362 |  | Binding investigation of non-toxic compounds from plant-based repellents targeting Aedes aegypti odorant-binding protein 1 using molecular dynamics simulations and density function | Microb Pathog
+- new | 2026 | 42697636 |  | MgO/Y(2)O(3) doped Eucalyptus globulus essential oil nanoemulsion hybrid for enhanced larvicidal activity against mosquitoes and eco-safety assessment. | Pestic Biochem Physiol
+- new | 2026 | 41714717 |  | Soil-water-crop pathways of heavy metal contamination and human health risks in intensive smallholder farms of the Nahavand Plain, Iran. | Sci Rep
+- new | 2025 | 40851699 |  | Herbal Medicines Used for the Treatment of Diabetes Mellitus in Saudi Arabia. | Cureus
+- new | 2025 | 39257197 |  | Exploring the toxicity profile of coriander (C. sativum L.) essential oil: implications for translational toxicological research. | Drug Chem Toxicol
+- new | 2025 | 40841974 | Case Reports | Lead Intoxication Related to Coriander Consumption: A Case Report From the United States. | J Prev Med Public Health
+- new | 2025 | 40813423 |  | Ameliorative effects of coriander extract supplementation in mitigating nickel toxicity in grass carp (Ctenopharyngodon idella). | Sci Rep
+- new | 2025 | 41114180 |  | Foliar Application of Calcium Phosphate Nanoparticles Improves Photosynthetic Efficiency, Nutrient Uptake, and Antioxidant Capacity in Coriandrum sativum L. under Salinity Stress. | ACS Omega
+- new | 2025 | 41113205 |  | Pharmacological and molecular insights into linalool-rich Coriandrum sativum essential oil: Anticonvulsant, analgesic, anti-inflammatory, and antioxidant potential in rodent models | Vet World
+- new | 2025 | 40969544 |  | In-silico identification of COX-2 inhibitory phytochemicals from traditional medicinal plants: molecular docking, dynamics, and safety predictions. | In Silico Pharmacol
+- new | 2025 | 41303345 |  | Neuroprotective Pathway Modulation by a Novel Coriandrum sativum, N-Acetylcysteine and Glutathione-Based Formulation: Insights from In Vitro 3D Models. | Int J Mol Sci
+- new | 2025 | 41162051 |  | Unveiling the potential: exploring the efficacy of Coriandrum sativum essential oil in Haemaphysalis doenitzi tick control. | Pestic Biochem Physiol
+- new | 2025 | 40055204 | Research Support, Non-U.S. Gov't | Anti-arthritic potential of linalool: in vitro, in vivo, and in silico mechanistic insights for safer therapeutic applications. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 38596042 |  | Exploring the effects of non-thermal plasma pre-treatment on coriander (Coriander sativum L.) seed germination efficiency. | Heliyon
+- new | 2024 | 38926797 | Case Reports | Uncommon triggers of insulin autoimmune syndrome: a case report. | J Med Case Rep
+- new | 2024 | 38672692 | Review | An Overview of the Spices Used for the Prevention and Potential Treatment of Gastric Cancer. | Cancers (Basel)
+- new | 2024 | 39124890 |  | Detailed Phytochemical Composition, Cyto-/Hepatotoxicity, and Antioxidant/Anti-Inflammatory Profile of Moroccan Spices: A Study on Coriander, Caraway, and Mystical Cumin. | Molecules
+- new | 2024 | 39653865 |  | Unveiling the threat of lead, cadmium, and nickel toxicity in salient commercially grown vegetables in Kolkata, India. | Environ Monit Assess
+- new | 2024 | 38370046 |  | Exploring the potential human pathogenic bacteria in selected ready-to-eat leafy greens sold in Dhaka City, Bangladesh: Estimation of bacterial load and incidence. | Food Sci Nutr
+- new | 2024 | 38974992 |  | Coriandrum sativum L., essential oil as a promising source of bioactive compounds with GC/MS, antioxidant, antimicrobial activities: in vitro and in silico predictions. | Front Chem
+- new | 2024 | 39186905 |  | From farm to pharma: Investigation of the therapeutic potential of the dietary plants Apium graveolens L., Coriandrum sativum, and Mentha longifolia, as AhR modulators for Immunoth | Comput Biol Med
+- new | 2024 | 38236350 |  | Concentrations and health risks of selected elements in leafy vegetables: a comparison between roadside open-air markets and large stores in Johannesburg, South Africa. | Environ Monit Assess
+- new | 2024 | 37227612 |  | Health Risk Assessment of Lead, Cadmium, and Arsenic in Leafy Vegetables in Tehran, Iran: the Concentration Data Study. | Biol Trace Elem Res
+- new | 2024 | 39298035 |  | Neuroprotective Properties of Coriander-Derived Compounds on Neuronal Cell Damage under Oxidative Stress-Induced SH-SY5Y Neuroblastoma and in Silico ADMET Analysis. | Neurochem Res
+- new | 2024 | 38627930 |  | In vitro antibacterial activity of antibiotics and plant essential oils against Escherichia coli MTCC443 supported through the molecular docking and pharmacokinetics study. | Biotechnol Appl Biochem
+- new | 2023 | 37678505 |  | Mitigation of hydrocarbon toxicity using bacterial consortium in microcosm environment for agrarian fecundity. | Environ Res
+- HELD REF-1705 | 2023 | 36677754 | Review | Essential Oil from Coriandrum sativum: A review on Its Phytochemistry and Biological Activity. | Molecules
+- new | 2023 | 38145095 |  | Impact of Coriandrum sativum seeds extract on albino rats' testicular toxicity caused by carbendazim. | Toxicol Res (Camb)
+- new | 2023 | 36830010 |  | Structural Characterization of Polysaccharides from Coriandrum sativum Seeds: Hepatoprotective Effect against Cadmium Toxicity In Vivo. | Antioxidants (Basel)
+- new | 2023 | 37404365 |  | Virtual screening of natural ligands from five resources to target Ralstonia solanacearum polygalacturonase and endoglucanase. | 3 Biotech
+- new | 2023 | 36771037 |  | Wastewater-Irrigated Vegetables Are a Significant Source of Heavy Metal Contaminants: Toxicity and Health Risks. | Molecules
+- new | 2023 | 37954396 |  | Heavy metals induced health risk assessment through consumption of selected commercially available spices in Noakhali district of Bangladesh. | Heliyon
+- new | 2023 | 37908443 |  | Safety and efficacy of a feed additive consisting of an essential oil obtained from the fruit of Coriandrum sativum L. (coriander oil) (FEFANA asbl). | EFSA J
+- new | 2023 | 36627477 |  | Lead Exposure of Four Biologically Important Common Branded and Non-branded Spices: Relative Analysis and Health Implication. | Biol Trace Elem Res
+- new | 2023 | 36219334 | Review | Critical Review on Nutritional, Bioactive, and Medicinal Potential of Spices and Herbs and Their Application in Food Fortification and Nanotechnology. | Appl Biochem Biotechnol
+- new | 2023 | 35670338 |  | Evaluation of the Acute and Subacute Toxicity of Aqueous Extract of Coriandrum sativum L. Seeds in Wistar Rats. | Curr Drug Saf
+- HELD REF-0779 | 2023 | 37513187 | Review | Coriandrum sativum and Its Utility in Psychiatric Disorders. | Molecules
+- new | 2023 | 37451464 |  | Are high-risk heavy metal(loid)s contaminated vegetables detrimental to human health? A study of incorporating bioaccessibility and toxicity into accurate health risk assessment. | Sci Total Environ
+- new | 2022 | 36438833 | Review | From kitchen to clinic: Pharmacotherapeutic potential of common spices in Indian cooking in age-related neurological disorders. | Front Pharmacol
+- new | 2022 | 36613236 |  | Increasing the Safety and Storage of Pre-Packed Fresh-Cut Fruits and Vegetables by Supercritical CO(2) Process. | Foods
+- new | 2022 | 36277360 |  | Protective efficacy of Coriandrum sativum seeds against arsenic induced toxicity in Swiss albino mice. | Toxicol Res
+- new | 2022 | 35049800 |  | Toxicity Evaluation of Selected Plant Water Extracts on a Honey Bee (Apis mellifera L.) Larvae Model. | Animals (Basel)
+- new | 2022 | 34920409 |  | Multi-residue method validation and safety evaluation of pesticide residues in seed spices cumin (Cuminum cyminum) and coriander (Coriandrum sativum) by gas chromatography tandem m | Food Chem
+- new | 2022 | 36080243 | Review | Cassia alata, Coriandrum sativum, Curcuma longa and Azadirachta indica: Food Ingredients as Complementary and Alternative Therapies for Atopic Dermatitis-A Comprehensive Review. | Molecules
+- new | 2022 | 35893841 |  | Effects of Amendments and Indigenous Microorganisms on the Growth and Cd and Pb Uptake of Coriander (Coriandrum sativum L.) in Heavy Metal-Contaminated Soils. | Toxics
+- new | 2022 | 35804745 |  | Outstanding Approach to Enhance the Safety of Ready-to-Eat Rice and Extend the Refrigerated Preservation. | Foods
+- new | 2022 | 34662592 |  | Titanium dioxide nanoparticles mitigate cadmium toxicity in Coriandrum sativum L. through modulating antioxidant system, stress markers and reducing cadmium uptake. | Environ Pollut
+- new | 2022 | 36080159 |  | Molecular Dereplication and In Vitro and In Silico Pharmacological Evaluation of Coriandrum sativum against Neuroblastoma Cells. | Molecules
+- new | 2022 | 35444626 |  | Cover Plants-Mediated Suppression of Fusarium Wilt and Root-Knot Incidence of Cucumber is Associated With the Changes of Rhizosphere Fungal Microbiome Structure-Under Plastic Shed  | Front Microbiol
+- new | 2021 | 33174095 | Review | Plants Used as Antihypertensive. | Nat Prod Bioprospect
+- new | 2021 | 34010591 |  | Mechanism of allergic rhinitis treated by Centipeda minima from different geographic areas. | Pharm Biol
+- new | 2021 | 34364372 |  | Metabolic activities and molecular investigations of the ameliorative impact of some growth biostimulators on chilling-stressed coriander (Coriandrum sativum L.) plant. | BMC Plant Biol
+- new | 2021 | 34323770 |  | Intercrop mulch affects soil biology and microbial diversity in rainfed transgenic Bt cotton hybrids. | Sci Total Environ
+- HELD REF-1987 | 2021 | 34199316 |  | Antimicrobial, Antioxidant, Anti-Acetylcholinesterase, Antidiabetic, and Pharmacokinetic Properties of Carum carvi L. and Coriandrum sativum L. Essential Oils Alone and in Combinat | Molecules
+- new | 2021 | 32839908 |  | Foliar application of silicon nanoparticles affected the growth, vitamin C, flavonoid, and antioxidant enzyme activities of coriander (Coriandrum sativum L.) plants grown in lead ( | Environ Sci Pollut Res Int
+- new | 2021 | 34834740 |  | Apiaceae Essential Oils: Boosters of Terbinafine Activity against Dermatophytes and Potent Anti-Inflammatory Effectors. | Plants (Basel)
+- new | 2021 | 33271262 |  | Risk of exposure to aflatoxin B(1), ochratoxin A, and fumonisin B(1) from spices used routinely in Lebanese cooking. | Food Chem Toxicol
+- new | 2021 | 34883720 |  | Fabrication of Tizanidine Loaded Patches Using Flaxseed Oil and Coriander Oil as a Penetration Enhancer for Transdermal Delivery. | Polymers (Basel)
+- new | 2021 | 33993977 |  | Plant essential oil constituents enhance deltamethrin toxicity in a resistant population of bed bugs (Cimex lectularius L.) by inhibiting cytochrome P450 enzymes. | Pestic Biochem Physiol
+- new | 2020 | 32209108 |  | Identification of essential oils with activity against stationary phase Staphylococcus aureus. | BMC Complement Med Ther
+- new | 2020 | 33132351 |  | Effects of Coriandrum sativum on Migration and Invasion Abilities of Cancer Cells. | J Nutr Sci Vitaminol (Tokyo)
+- new | 2020 | 32871193 |  | A strategy for repression of arsenic toxicity through nuclear factor E2 related factor 2 activation mediated by the (E)-2-alkenals in Coriandrum sativum L. leaf extract. | Food Chem Toxicol
+- new | 2020 | 32828373 |  | Bed bugs, Cimex lectularius L., exhibiting metabolic and target site deltamethrin resistance are susceptible to plant essential oils. | Pestic Biochem Physiol
+- new | 2020 | 32176572 | Research Support, Non-U.S. Gov't | Coriandrum sativum Extract Prevents Alarm Substance-Induced Fear- and Anxiety-Like Responses in Adult Zebrafish. | Zebrafish
+- new | 2020 | 31432346 |  | Heavy metals contamination in soil, surface water, crops, and resident blood in Uthai District, Phra Nakhon Si Ayutthaya, Thailand. | Environ Geochem Health
+- new | 2020 | 30932786 |  | Hepatoprotective Activity of Linalool in Rats Against Liver Injury Induced by Carbon Tetrachloride. | Int J Vitam Nutr Res
+- new | 2020 | 33326509 | Case Reports | Unusual allergen in a butcher with respiratory symptoms. | Allergol Select
+- new | 2019 | 30934998 |  | In-Vitro Evaluation of 52 Commercially-Available Essential Oils Against Leishmania amazonensis. | Molecules
+- new | 2019 | 30646494 |  | Phytotoxic and Genotoxic Effects of Copper Nanoparticles in Coriander (Coriandrum sativum-Apiaceae). | Plants (Basel)
+- new | 2019 | 31284236 |  | Coriander essential oil as natural food additive improves quality and safety of cooked pork sausages with different nitrite levels. | Meat Sci
+- new | 2019 | 31141960 |  | Hiseq Base Molecular Characterization of Soil Microbial Community, Diversity Structure, and Predictive Functional Profiling in Continuous Cucumber Planted Soil Affected by Diverse  | Int J Mol Sci
+- new | 2018 | 29954086 |  | Antifungal and Cytotoxic Activities of Sixty Commercially-Available Essential Oils. | Molecules
+- new | 2018 | 30128625 |  | Ultrasonic assisted green synthesis of Fe and Fe/Zn bimetallic nanoparticles for invitro cytotoxicity study against HeLa cancer cell line. | Mol Biol Rep
+- new | 2018 | 30181444 |  | Flower Strips in Wheat Intercropping System: Effect on Pollinator Abundance and Diversity in Belgium. | Insects
+- HELD REF-0657 | 2018 | 30221882 |  | Evaluation of Protective Impact of Algerian <I>Cuminum cyminum </I>L. and <I>Coriandrum sativum</I> L. Essential Oils on <I>Aspergillus flavus </I>Growth and Aflatoxin B<SUB>1</SUB | Pak J Biol Sci
+- new | 2018 | 30425928 |  | Consolidating probiotic with dandelion, coriander and date palm seeds extracts against mercury neurotoxicity and for maintaining normal testosterone levels in male rats. | Toxicol Rep
+- new | 2018 | 30093499 | Case Reports | Beer anaphylaxis due to coriander as hidden allergen. | BMJ Case Rep
+- new | 2017 | 27774899 | Review | Spices: Therapeutic Potential in Cardiovascular Health. | Curr Pharm Des
+- new | 2017 | 28538283 | Case Reports/Letter | Beans, Cilantro and Parsley; 3 Unadvertised Though Relevant Calcium Food Sources. | J Clin Rheumatol
+- new | 2017 | 28468251 |  | Rutin-Enriched Extract from Coriandrum sativum L. Ameliorates Ionizing Radiation-Induced Hematopoietic Injury. | Int J Mol Sci
+- new | 2017 | 26310706 |  | Detoxification effects of phytonutrients against environmental toxicants and sharing of clinical experience on practical applications. | Environ Sci Pollut Res Int
+- new | 2017 | 28573226 |  | EVALUATION OF THE CHELATING EFFECT OF METHANOLIC EXTRACT OF CORIANDRUM SATIVUM AND ITS FRACTIONS ON WISTAR RATS POISONED WITH LEAD ACETATE. | Afr J Tradit Complement Altern Med
+- new | 2017 | 28221891 | Research Support, Non-U.S. Gov't | Microbial Quality, Safety, and Pathogen Detection by Using Quantitative PCR of Raw Salad Vegetables Sold in Dhanbad City, India. | J Food Prot
+- new | 2016 | 27695768 | Review | Profenofos, an Acetylcholinesterase-Inhibiting Organophosphorus Pesticide: A Short Review of Its Usage, Toxicity, and Biodegradation. | J Environ Qual
+- new | 2016 | 27244952 |  | Optimal Dose of Vitamin D3 400 I.U. for Average Adults has A Significant Anti-Cancer Effect, While Widely Used 2000 I.U. or Higher Promotes Cancer: Marked Reduction of Taurine & 1α | Acupunct Electrother Res
+- new | 2016 | 27324655 | Case Reports | Case report: a rare case of attempted homicide with Gloriosa superba seeds. | BMC Pharmacol Toxicol
+- new | 2016 | 27840519 |  | Pruritus Treatment in Viewpoints of Traditional Persian Medicine. | Iran J Med Sci
+- new | 2015 | 26010515 |  | An assessment of the microbiological safety of fresh whole-leaf herbs from retail premises in the United Kingdom with a focus on Salmonella spp. | J Appl Microbiol
+- new | 2015 | 25382560 | Research Support, Non-U.S. Gov't | Microbial safety and quality of fresh herbs from Los Angeles, Orange County and Seattle farmers' markets. | J Sci Food Agric
+- new | 2014 | 25340465 | Research Support, U.S. Gov't, Non-P.H.S. | Pharmacological activities of cilantro's aliphatic aldehydes against Leishmania donovani. | Planta Med
+- new | 2014 | 23104728 |  | Nutraceuticals of anti-inflammatory activity as complementary therapy for rheumatoid arthritis. | Toxicol Ind Health
+- new | 2014 | 24779766 | Research Support, Non-U.S. Gov't | Antitumorigenic potential of linalool is accompanied by modulation of oxidative stress: an in vivo study in sarcoma-180 solid tumor model. | Nutr Cancer
+- new | 2014 | 24963872 | Research Support, Non-U.S. Gov't | Coriander alleviates 2,4-dinitrochlorobenzene-induced contact dermatitis-like skin lesions in mice. | J Med Food
+- new | 2014 | 26396340 |  | Design and development of desiccant seed dryer with airflow inversion and recirculation. | J Food Sci Technol
+- new | 2014 | 23042592 |  | Effect of coriander on thioacetamide-induced hepatotoxicity in rats. | Toxicol Ind Health
+- new | 2013 | 23799644 | Research Support, U.S. Gov't, Non-P.H.S. | Toxicity assessment of cerium oxide nanoparticles in cilantro (Coriandrum sativum L.) plants grown in organic soil. | J Agric Food Chem
+- new | 2013 | 25050262 |  | The effect of hydroalcoholic extract of Coriandrum sativum on rat appetite. | Avicenna J Phytomed
+- new | 2013 | 23509907 | Case Reports | Proposed new mechanism for food and exercise induced anaphylaxis based on case studies. | Allergy Asthma Clin Immunol
+- new | 2012 | 23176891 | Case Reports/Letter | Anaphylaxis following cilantro ingestion. | Ann Allergy Asthma Immunol
+- new | 2012 | 22928313 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils against Camptomyia corticalis (Diptera: Cecidomyiidae). | J Econ Entomol
+- new | 2012 | 22785271 | Research Support, Non-U.S. Gov't | Antifungal activity, toxicity and chemical composition of the essential oil of Coriandrum sativum L. fruits. | Molecules
+- new | 2011 | 21803916 | Comparative Study/Evaluation Study/Research Support, U.S. Gov't, P.H.S. | Comparison of real-time PCR, reverse transcriptase real-time PCR, loop-mediated isothermal amplification, and the FDA conventional microbiological method for the detection of Salmo | Appl Environ Microbiol
+- new | 2010 | 19902160 | Research Support, Non-U.S. Gov't | Prophylactic efficacy of Coriandrum sativum (Coriander) on testis of lead-exposed mice. | Biol Trace Elem Res
+- new | 2010 | 20492211 |  | Mutagenicity and safety evaluation of water extract of Coriander sativum leaves. | J Food Sci
+- HELD REF-5219 | 2010 | 21164072 | Research Support, Non-U.S. Gov't/Review | Final report of the Cosmetic Ingredient Review Expert Panel amended safety assessment of Calendula officinalis-derived cosmetic ingredients. | Int J Toxicol
+- new | 2010 | 20858524 | Research Support, Non-U.S. Gov't | Therapeutic efficacies of Coriandrum sativum aqueous extract against metronidazole-induced genotoxicity in Channa punctatus peripheral erythrocytes. | Food Chem Toxicol
+- new | 2010 | 21462837 | Research Support, Non-U.S. Gov't | Antimicrobial activity of plant essential oils against bacterial and fungal species involved in food poisoning and/or food decay. | Roum Arch Microbiol Immunol
+- new | 2009 | 19032971 | Research Support, Non-U.S. Gov't/Review | Safety assessment of coriander (Coriandrum sativum L.) essential oil as a food ingredient. | Food Chem Toxicol
+- new | 2009 | 19146910 |  | Protective effects of Coriandrum sativum extracts on carbon tetrachloride-induced hepatotoxicity in rats. | Food Chem Toxicol
+- new | 2008 | 18385293 | Research Support, Non-U.S. Gov't | Effects of spice constituents on P-glycoprotein-mediated transport and CYP3A4-mediated metabolism in vitro. | Drug Metab Dispos
+- new | 2007 | 17295182 |  | Occurrence of N-phenylpropenoyl-L-amino acid amides in different herbal drugs and their influence on human keratinocytes, on human liver cells and on adhesion of Helicobacter pylor | Planta Med
+- new | 2006 | 16881566 | Case Reports | Coriander anaphylaxis in a spice grinder with undetected occupational allergy. | Acta Clin Belg
+- new | 2006 | 17066806 | Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils to Thrips palmi (Thysanoptera: Thripidae) and Orius strigicollis (Heteroptera: Anthocoridae). | J Econ Entomol
+- new | 2005 | 15975845 | Research Support, Non-U.S. Gov't | Cytotoxicity and gene induction by some essential oils in the yeast Saccharomyces cerevisiae. | Mutat Res
+- new | 2005 | 15619553 | Comparative Study/Research Support, Non-U.S. Gov't | Coriandrum sativum: evaluation of its anxiolytic effect in the elevated plus-maze. | J Ethnopharmacol
+- new | 2004 | 14982526 | Case Reports | Anaphylactic reaction in a patient sensitized to coriander seed. | Allergy
+- new | 2003 | 12934960 | Case Reports | A patient with MRSA infection to prosthesis of femoral head diagnosed non-invasively using bi-digital O-ring test: a clinical case report. | Acupunct Electrother Res
+- new | 2003 | 14998058 | Case Reports | The importance of Bi-Digital O-Ring Test in the treatment of multiple hepatic abscesses: a case history. | Acupunct Electrother Res
+- new | 2002 | 12078423 | Case Reports/Review | Food allergy and IgE sensitization caused by spices: CICBAA data (based on 589 cases of food allergy). | Allerg Immunol (Paris)
+- new | 2001 | 11846752 | Case Reports | Occupational protein contact dermatitis from coriander. | Contact Dermatitis
+- new | 2000 | 11452374 | Review | [Mycotoxins in spices]. | Vopr Pitan [rus]
+- new | 1997 | 9420134 | Comparative Study/Research Support, Non-U.S. Gov't | Characterization of allergens in Apiaceae spices: anise, fennel, coriander and cumin. | Clin Exp Allergy
+- new | 1996 | 8738518 | Case Reports | Occupational asthma due to different spices. | Allergy
+- new | 1996 | 8914687 | Case Reports | Significant mercury deposits in internal organs following the removal of dental amalgam, & development of pre-cancer on the gingiva and the sides of the tongue and their represente | Acupunct Electrother Res
+- new | 1995 | 7583850 | Case Reports | Anaphylaxis to mustard as a masked allergen in "chicken dips". | Ann Allergy Asthma Immunol
+- new | 1995 | 8686573 | Case Reports/Research Support, Non-U.S. Gov't | Role of mercury (Hg) in resistant infections & effective treatment of Chlamydia trachomatis and Herpes family viral infections (and potential treatment for cancer) by removing loca | Acupunct Electrother Res
+- new | 1994 | 8072879 | Research Support, Non-U.S. Gov't | Influence of certain essential oils on carcinogen-metabolizing enzymes and acid-soluble sulfhydryls in mouse liver. | Nutr Cancer
+- new | 1993 | 8509584 | Case Reports | Anaphylaxis to coriander: a sleuthing story. | J Allergy Clin Immunol
+- new | 1993 | 7694130 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Mutagenicity and antimutagenicity of extracts of three spices and a medicinal plant in Thailand. | Mutat Res
+- new | 1993 | 8299390 | Case Reports | Spice allergy evaluated by results of patch tests. | Cutis
+- new | 1992 | 1571051 | Case Reports | [Etiology of hypersensitivity reactions following Chinese or Indonesian meals]. | Ned Tijdschr Geneeskd [dut]
+- new | 1990 | 2383985 |  | Contact allergy to spices. | Contact Dermatitis
+- new | 1989 | 2719178 | Research Support, Non-U.S. Gov't | Spice allergy: results of skin prick tests and RAST with spice extracts. | Allergy
+- new | 1987 | 3437767 | Research Support, Non-U.S. Gov't | Post-coital antifertility activity of the seeds of Coriandrum sativum in rats. | J Ethnopharmacol
+- new | 1987 | 28145344 |  | Condiments and Contact Dermatitis of the Finger - Tips. | Indian J Dermatol Venereol Leprol
+- new | 1987 | 12748693 |  | NTP Carcinogenesis Studies of Food Grade Geranyl Acetate (71% Geranyl Acetate, 29% Citronellyl Acetate) (CAS No. 105-87-3) in F344/N Rats and B6C3F1 Mice (Gavage Study). | Natl Toxicol Program Tech Rep Ser
+- new | 1985 | 2411778 | Case Reports | Immunoglobulin E antibodies against coriander and other spices. | J Allergy Clin Immunol
+- new | 1979 | 546248 | Case Reports | Allergy to coriander. A case report. | Allergy
+- new | 1978 | 685160 |  | [Case of animal poisoning by coriander groats]. | Veterinariia [rus]
+- new | 1973 | 4274065 |  | [Case of coriander seed poisoning of chicks]. | Veterinariia [rus]
+
+### PubMed OBS - 21 hits, 15 not already listed above, 15 new
+- new | 2025 | 40244909 |  | Outbreak of Cyclosporiasis Among Patrons of a Mexican-Style Restaurant - Limestone County, Alabama, May-June 2023. | MMWR Morb Mortal Wkly Rep
+- new | 2023 | 37323295 |  | Investigating the Occurrence of Soil-Transmitted Parasites Contaminating Soil, Vegetables, and Green Fodder in the East of Nile Delta, Egypt. | J Parasitol Res
+- new | 2022 | 35024028 |  | Phyto-intruders in oral tissues: A polarized light microscopic study. | Int J Health Sci (Qassim)
+- new | 2020 | 32928721 |  | The Prevalence of Parasitic Contamination of Fresh Vegetables in Tehran, Iran. | Turkiye Parazitol Derg
+- new | 2020 | 33051586 | Research Support, Non-U.S. Gov't | Roles of drinking and diet in the U-shaped relationship between smoking and BMI in middle-aged and elderly Chinese rural adults. | Sci Rep
+- new | 2018 | 30141429 |  | Prevalence of Intestinal Parasites in Raw Vegetables Consumed by Inhabitants of Mymensingh City. | Mymensingh Med J
+- new | 2016 | 27302434 |  | Investigation of Parasitic Contaminations of Vegetables Sold in Markets in the City of Tabriz in 2014. | Glob J Health Sci
+- new | 2015 | 25865140 | Research Support, U.S. Gov't, P.H.S. | 2013 multistate outbreaks of Cyclospora cayetanensis infections associated with fresh produce: focus on the Texas investigations. | Epidemiol Infect
+- new | 2015 | 25719888 | Research Support, Non-U.S. Gov't | Cross-sectional survey of indicator and pathogenic bacteria on vegetables sold from Asian vendors at farmers' markets in northern California. | J Food Prot
+- new | 2012 | 24688941 |  | Nitrate Determination of Vegetables in Varzeghan City, North-western Iran. | Health Promot Perspect
+- new | 2010 | 21067674 |  | A prolonged outbreak of Salmonella Montevideo infections associated with multiple locations of a restaurant chain in Phoenix, Arizona, 2008. | J Food Prot
+- new | 2009 | 19102799 | Research Support, Non-U.S. Gov't | A national outbreak of verotoxin-producing Escherichia coli O157 associated with consumption of lemon-and-coriander chicken wraps from a supermarket chain. | Epidemiol Infect
+- new | 2007 | 18622950 |  | Dietary intake of carotenoid isomers in Israel. | Int J Vitam Nutr Res
+- new | 2001 | 11237818 |  | An outbreak of Salmonella serotype Thompson associated with fresh cilantro. | J Infect Dis
+- new | 1990 | 2394508 | Research Support, Non-U.S. Gov't | Diet, living conditions and nasopharyngeal carcinoma in Tunisia--a case-control study. | Int J Cancer
+
+### PubMed REV - 89 hits, 18 not already listed above, 13 new
+- new | 2025 | 40655710 | Review | Herbal Remedies: A Complementary Approach to Diabetes Mellitus Management. | J Pharm Bioallied Sci
+- new | 2023 | 38004496 | Review | Quercetin as a Therapeutic Product: Evaluation of Its Pharmacological Action and Clinical Applications-A Review. | Pharmaceuticals (Basel)
+- HELD REF-1704 | 2023 | 37241925 | Review | Coriander (Coriandrum sativum) Polyphenols and Their Nutraceutical Value against Obesity and Metabolic Syndrome. | Molecules
+- new | 2023 | 36830181 | Review | Current Understanding of the Molecular Basis of Spices for the Development of Potential Antimicrobial Medicine. | Antibiotics (Basel)
+- new | 2022 | 34516289 | Research Support, N.I.H., Extramural/Review | KCNQ Potassium Channels as Targets of Botanical Folk Medicines. | Annu Rev Pharmacol Toxicol
+- new | 2022 | 35080667 | Review | Agri-biotechnology of coriander (Coriandrum sativum L.): an inclusive appraisal. | Appl Microbiol Biotechnol
+- HELD REF-0780 | 2019 | 30827604 | Review | Phytochemical and bioactive profile of Coriandrum sativum L. | Food Chem
+- new | 2019 | 31081786 | Review | Mini Review: Wound healing potential of edible plants. | Pak J Pharm Sci
+- HELD REF-1701 | 2018 | 29433220 | Review | Coriander (Coriandrum sativum): A promising functional food toward the well-being. | Food Res Int
+- new | 2018 | 30098535 | Review | Linalool bioactive properties and potential applicability in drug delivery systems. | Colloids Surf B Biointerfaces
+- new | 2018 | 30009418 | Review | Isoproterenol-induced cardiac ischemia and fibrosis: Plant-based approaches for intervention. | Phytother Res
+- new | 2017 | 26528824 | Review | Mycotoxins in spices and herbs-An update. | Crit Rev Food Sci Nutr
+- new | 2017 | 28449595 | Review | Pharmaceutical Perspectives of Spices and Condiments as Alternative Antimicrobial Remedy. | J Evid Based Complementary Altern Med
+- new | 2016 | 27892897 | Review | The importance of selected spices in cardiovascular diseases. | Postepy Hig Med Dosw (Online)
+- HELD REF-0151 | 2015 | 25776008 | Review | Coriander (Coriandrum sativum L.) and its bioactive constituents. | Fitoterapia
+- HELD REF-1703 | 2013 | 23281145 | Review | Coriander (Coriandrum sativum L.): a potential source of high-value components for functional foods and nutraceuticals--a review. | Phytother Res
+- new | 2011 | 21360003 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Neuroprotection by spice-derived nutraceuticals: you are what you eat! | Mol Neurobiol
+- new | 2006 | 30000851 | Review | Coriander. | 
+
+### ClinicalTrials.gov - 2 registered studies
+- NCT00990951 | SUSPENDED | results=False | PHASE3 | Study of Efficacy of Association of Senna Alexandrina Mill and Associations on Functional Intestinal Constipation | conds: Constipation | intr: Senna alexandrina and associations
+- NCT05999071 | COMPLETED | results=False | NA | Coriandrum Sativum Seeds Improve Memory, Alleviate Anxiety and Depression, and Enhance Sleep Quality in University Students: A Randomized Co | conds: Memory Disorders, Anxiety Depression, Sleep | intr: Coriandrum sativum seeds
+
+### OpenAlex no-PMID trial-worded - 3507 hits, 66 without PMID, 66 new
+- new | 2026 | 10.1016/j.aimed.2026.100733 | article | Effect of a combined Coriandrum sativum and Citrus aurantium nasal spray on allergic rhinitis: A randomized double-blind controlled trial | Advances in Integrative Medicine
+- new | 2026 | 10.3390/ijerph23091119 | article | Efficacy and Safety of Phikud Tri-Phon Herbal Decoction for Weight Management in Young Adult Thai Females: A Double-Blind, Randomized Controlled Trial | International Journal of Environmental R
+- new | 2026 | 10.11648/j.sda.20260103.12 | article | Coriander (Coriandrum sativum L.) Varieties Adaptation Trial in Kellem Wollega Zone of Western Oromia | Science Discovery Agriculture
+- new | 2026 | 10.1002/agj2.70531 | article | Crop sequencing effects of seven crops on grain yield, volunteers, and weeds in Saskatchewan | Agronomy Journal
+- new | 2026 | 10.7860/jcdr/2026/79540.24540 | article | Efficacy of Bilvadi Vati in the Management of Garbhini Chhardi (Hyperemesis Gravidarum): A Randomised Controlled Clinical Trial | JOURNAL OF CLINICAL AND DIAGNOSTIC RESEA
+- new | 2026 | 10.33545/26174693.2026.v10.i9sn.9966 | article | Studies on genetic variability in coriander (Coriandrum sativum) | International Journal of Advanced Bioche
+- new | 2026 | 10.5958/2455-7560.2026.00031.5 | article | Integrated nutrient management in coriander (Coriandrum sativum) | Current Horticulture
+- new | 2025 | 10.3390/cosmetics12060285 | article | Photoprotective Effects of Oral Coriander (Coriandrum sativum L.) Seed Oil Supplementation Against UV-Induced Skin Damage: Evidence from Two Randomized, Double-Blind, Placebo-Contr | Cosmetics
+- new | 2025 | 10.1016/j.ctmp.2025.200251 | article | Clinical efficacy of a Unani formulation “Nuqu-E-Unnab” in shara (urticaria): A randomised controlled clinical trial | Clinical Traditional Medicine and Pharma
+- new | 2025 | 10.21203/rs.3.rs-6197107/v1 | preprint | Investigating the Effect of Capsaicin Oral Solution in the Treatment of Burning Mouth in Patients: A Randomized Clinical Trial | Research Square
+- new | 2025 | 10.36948/ijfmr.2025.v07i04.46887 | article | An Ayurvedic Formulation for Migraine Management: A Case Trial on a Herbal Combination by Dr. Arjit and Navreen | International Journal For Multidisciplin
+- new | 2025 | 10.1177/1934578x241312791 | article | Phytochemistry, Pharmacological Attributes, and Clinical Evaluations of Coriandrum sativum: A Comprehensive Review | Natural Product Communications
+- new | 2024 | 10.1108/nfs-08-2023-0193 | article | Effects of Coriandrum sativum seeds on memory, anxiety, depression, and sleep quality in students: a randomized controlled study | Nutrition & Food Science
+- new | 2024 | 10.15666/aeer/2206_59155928 | article | MOLECULAR CHARACTERIZATION IN CORIANDER (Coriandrum sativum L.) GENOTYPES THROUGH RANDOM AMPLIFIED POLYMORPHIC DNA | Applied Ecology and Environmental Resear
+- new | 2024 | 10.21276/aatccreview.2024.12.02.14 | article | Genetic Variation Assessment of Coriander (Coriandrum sativum L.) Genotypes Using Randomly Amplified Polymorphic DNA (RAPD) Analysis | Agriculture Association of Textile Chemi
+- new | 2024 | 10.51642/ppmj.v35i03.693 | article | Title UNVEILING THE ARTISTRY OF TRITICUM AESTIVUM SPROUTS (TAS): EXPLORING THE POTENTIAL OF TAS EXTRACT IN MIGRAINE PREVENTION AND CONTROL - A PRAGMATIC, RANDOMIZED, DOUBLE-BLIND,  | Pakistan Postgraduate Medical Journal
+- new | 2024 | 10.1201/9781003387046-15 | book-chapter | Coriander Leaves and Seeds (Coriandrum sativum) | CRC Press eBooks
+- new | 2024 | 10.31579/2693-7247/176 | article | Medical Utilization of Coriander (Coriandrum sativum L.)-Products | Pharmaceutics and Pharmacology Research
+- new | 2024 | 10.5958/2231-6744.2024.00061.4 | article | Effect of Supplementation of Coriandrum sativum Seed Powder and Multienzyme on Performance of Broiler Chickens | Indian Journal of Animal Nutrition
+- new | 2023 | 10.1016/j.jksus.2023.103010 | article | Antidiabetic activity evaluation of polyherbal formulation in type 2 diabetes mellitus patients | Journal of King Saud University - Scienc
+- new | 2022 | 10.21203/rs.3.rs-262149/v2 | preprint | The effects of coriander seed supplementation on serum glycemic indices, lipid profile and parameters of oxidative stress in patients with type 2 diabetes mellitus: a randomized do | Research Square
+- new | 2022 | 10.53365/nrfhh/147312 | article | Medicinal Exploitation of Coriandrum sativum L. | Natural Resources for Human Health
+- new | 2022 | 10.9734/ijpss/2022/v34i232537 | article | Evaluation of Different Varieties of Coriander (Coriandrum sativum L.) | International Journal of Plant & Soil Sc
+- new | 2022 | 10.47489/pszmc-825361-35-38 | article | Is Coriandrum sativum Hypolipidemic in Alloxan Induced Diabetic Rats? | Proceedings of Shaikh Zayed Medical Comp
+- new | 2022 | 10.11648/j.ijaas.20220802.13 | article | Adaptation Trial of Improved Bee Forages in West Hararghe Zone of Oromia Region, Ethiopia | International Journal of Applied Agricul
+- new | 2021 | 10.5812/jjnpp.102469 | article | Effects of Tarragon Powder on Glucose Metabolic Changes, Lipid Profile and Antioxidant Enzyme Levels in Type 2 Patients with Diabetes: A Randomized, Double-Blind, Placebo-Controlle | Jundishapur Journal of Natural Pharmaceu
+- new | 2021 | 10.9734/jpri/2021/v33i39b32180 | article | Efficacy of Herbal Mouthwash with Extracts of Coriandrum Sativum, Mint and Clove in the Treatment of Chronic Gingivitis- A Randomized Controlled Clinical Trial | Journal of Pharmaceutical Research Inter
+- new | 2021 | https://openalex.org/W3207367115 | article | Adaptation trial of coriander (Coriandrum sativum L.) varieties in the mid land areas of Guji zone, Southern Ethiopia | South Asian Journal of Agricultural Scie
+- new | 2021 | 10.20961/placentum.v9i3.54727 | article | The Effectiveness of Coriander Seed Extract (Coriandrum Sativum) on Lowering Cholesterol Levels in Elderly Patients with Hypercholesterolemia | PLACENTUM Jurnal Ilmiah Kesehatan dan Ap
+- new | 2021 | 10.1016/j.jff.2021.104449 | review | Effects of culinary herbs and spices on obesity: A systematic literature review of clinical trials | Journal of Functional Foods
+- new | 2021 | 10.26181/14907966 | review | Effects of culinary herbs and spices on obesity: a systematic literature review of clinical trials | La Trobe University
+- new | 2020 | 10.4103/sidj.sidj_15_20 | article | Efficacy of herbal mucoadhesive gel with extracts of Coriandrum sativum and curcumin as local drug delivery in the treatment of chronic periodontitis - A clinico-microbiological tr | The Saint s International Dental Journal
+- new | 2020 | 10.20546/ijcmas.2020.904.099 | article | Effect of Bio-fertilizers on Growth and Leaf Yield of Coriander (Coriandrum sativum L.) | International Journal of Current Microbi
+- new | 2019 | 10.18502/tim.v4i4.2139 | article | The Effectiveness of Combination of Viola odorata L., Rosa damascena Mill. and Coriandrum sativum L. on Quality of Life of Patients with Migraine Headaches: A Randomized, Double Bl | Traditional and Integrative Medicine
+- new | 2019 | 10.3303/cet1975068 | article | Phytochemical Trial and Bioactivity of the Essential Oil from Coriander Leaves (coriandrum Sativum) on Pathogenic Microorganisms | Chemical engineering transactions
+- new | 2019 | https://openalex.org/W3082097249 | article | Molecular characterization of coriander (Coriandrum sativum L.) genotypes using random amplified polymorphic DNA (RAPD) markers | Journal of Pharmacognosy and Phytochemis
+- new | 2019 | 10.22159/ajpcr.2019.v12i10.28246 | article | EFFICACY AND SAFETY OF STANDARDIZED CINNAMON BARK EXTRACT FOR THE PREVENTION OF CHEMOTHERAPY-INDUCED WEIGHT LOSS AND ALOPECIA IN PATIENTS WITH BREAST CANCER: A RANDOMIZED, DOUBLE-B | Asian Journal of Pharmaceutical and Clin
+- new | 2019 | 10.5586/aa.1759 | article | Effects of different levels of glycine in the nutrient solution on the growth, nutrient composition, and antioxidant activity of coriander (Coriandrum sativum L.) | Acta Agrobotanica
+- new | 2019 | 10.56093/ijas.v89i2.86983 | article | Molecular diversity in coriander (Coriandrum sativum) using RAPD and ISSR markers | The Indian Journal of Agricultural Scien
+- new | 2019 | 10.1201/9780429059247-17 | book-chapter | Effect of Manure on the Metal Efficiency of Coriandrum sativum | CRC Press eBooks
+- new | 2017 | https://openalex.org/W2183890572 | article | Analysis of genetic diversity in coriander (Coriandrum sativum L.) varieties using random amplified polymorphic DNA (RAPD) markers. | Journal of Microbiology and Biotechnolog
+- new | 2017 | 10.18782/2320-7051.5183 | article | Response of Coriander (Coriandrum sativum L.) to Nitrogen and Phosphorus in South Saurashtra Condition | International Journal of Pure & Applied 
+- new | 2016 | https://openalex.org/W2571702476 | article | Coriander (Coriandrum Sativum) and Chia (Salvia Hispanica) Intake Effect in Volunteers | International journal of scientific rese
+- new | 2016 | 10.17485/ijst/2016/v9i6/61301 | article | Effects of Climatic Factors on the Quantity of Essential Oil and Dry Matter Yield of Coriander (Coriandrum sativum L.) | Indian Journal of Science and Technology
+- new | 2015 | 10.4314/sajas.v45i4.3 | article | Effects of coriander (Coriandrum sativum L.) seed powder and extract on performance of broiler chickens | South African Journal of Animal Science
+- new | 2014 | 10.3923/jps.2014.32.42 | article | Phenology and Yield of Coriander (Coriandrum sativum L.) at Different Sowing Dates | Journal of Plant Sciences
+- new | 2014 | https://openalex.org/W1907485752 | article | Influence of Vermicompost and Biostimulant on The growth and biomass of Coriander (Coriandrum sativum L.) | International Journal of Advanced Biolog
+- new | 2014 | 10.5513/jcea01/15.2.1461 | article | A comparison of yield-related traits of Coriandrum sativum var. microcarpum DC. and Coriandrum sativum var. sativum | Journal of Central European Agriculture
+- new | 2014 | 10.17557/tjfc.05577 | article | Determination of Suitable Coriander (Coriandrum sativum L.) Cultivars for Eastern Mediterranean Region | Turkish Journal of Field Crops
+- new | 2013 | https://openalex.org/W96924518 | article | Variation of yield components in coriander (Coriandrum sativum L.). | Agricultural Science and Technology
+- new | 2013 | https://openalex.org/W239353050 | article | Efficacy and selectivity of antibroadleaved herbicides at durum wheat against volunteers of coriander, Clearfield canola, Clearfield sunflower and Expresssun sunflower. | Bulgarian Portal for Open Science
+- new | 2013 | https://openalex.org/W2182504108 | article | Effect of Coriandrum sativum seed extract on the signs of allergic rhinitis | KAUMS Journal
+- new | 2013 | https://openalex.org/W2182958071 | article | Physiological and antioxidant responses of coriander (Coriandrum sativum L.) to salinity | International Journal of Agriculture and
+- new | 2012 | 10.1016/j.clnme.2012.09.005 | article | Antioxidant and antiarthritic potential of coriander (Coriandrum sativum L.) leaves | e-SPEN Journal
+- new | 2012 | 10.5281/zenodo.1061807 | article | Effects Of Late Sowing On Quality Of Coriander (Coriandrum Sativum L.) | Zenodo (CERN European Organization for N
+- new | 2012 | https://openalex.org/W2341095969 | article | Effects of salicylic acid levels and irrigation intervals on growth and yield of coriander (Coriandrum sativum) in field conditions | 
+- new | 2010 | 10.5281/zenodo.1079067 | article | The Effects Of Sowing Dates And Densities On Yield And Yield Components Of Coriander(Coriandrum Sativum L.) | Zenodo (CERN European Organization for N
+- new | 2006 | 10.4314/sajas.v35i4.3969 | article | The effect of coriander seed (Coriandrum sativum L.) as diet ingredient on the performance of Japanese quail | South African Journal of Animal Science
+- new | 2004 | https://openalex.org/W2188801265 | article | Evaluation of efficacy and safety of PureHands in hand hygiene: A randomized, double-blind, placebo-controlled, phase III clinical trial | 
+- new | 2002 | 10.17660/actahortic.2002.576.33 | conference-paper | CULTIVATION TRIALS OF CORIANDER (CORIANDRUM SATIVUM L.) IN A SEMI-ARID MEDITERRANEAN ENVIRONMENT | Acta Horticulturae
+- new | 2001 | 10.59797/ija.v55i4.4765 | article | Performance of coriander (Coriandrum sativum) based intercropping systems | Indian Journal of Agronomy
+- new | 1999 | https://openalex.org/W3135708517 | article | AVALIAÇÃO DE TRÊS CULTIVARES DE COENTRO (Coriandrum sativum L.) SEMEADAS EM DUAS ÉPOCAS | Pesquisa Agropecuária Gaúcha
+- new | 1998 | 10.21273/hortsci.33.3.494a | article | (Coriandrum sativum) | HortScience
+- new | 1997 | 10.1016/s0926-6690(97)00022-8 | article | Variation in agronomic characteristics and seed oil composition of new oilseed crops in central Italy | Industrial Crops and Products
+- new | 1997 | 10.22004/ag.econ.256989 | preprint | TOLERANCE OF CILANTRO (Coriandrum sativum) TO POSTEMERGENCE HERBICIDES | RePEc: Research Papers in Economics
+- new | 1964 | https://openalex.org/W2288634981 | article | Extent and Randomness of Cross-Pollination in some Umbelliferous Spices of India | Indian Journal of Genetics and Plant Bre
+
+## crataegus-laevigata (Crataegus laevigata) - name clause: "Crataegus laevigata"[tiab] OR "Crataegus oxyacantha"[tiab] OR "midland hawthorn"[tiab] OR "hawthorn"[ti] OR "Crataegus"[ti] OR "WS 1442"[ti]
+
+### PubMed HT - 70 hits, 70 not already listed above, 64 new
+- new | 2026 | 42163902 |  | High-intensity interval training and Crataegus pentagyna extract enhance metabolic and oxidant profiles in ovariectomized Wistar rats. | Res Pharm Sci
+- new | 2026 | 42694165 | Clinical Trial | The effect of hawthorn vinegar, black mulberry syrup, and green tea on oral mucositis and oral health-related quality of life in individuals with diabetes: a single-blind, randomiz | Front Med (Lausanne)
+- new | 2025 | 41216528 | Retraction Notice | Retraction notice to "Phytochemical composition and bioactivities of Crataegus aronia as antioxidant, antibacterial and antioxidative stress in red blood cells - Is it a window of  | Heliyon
+- new | 2025 | 41194549 | Randomized Controlled Trial | Effects of a Scutellaria baicalensis/Crataegus laevigata, magnesium and chromium supplement on stressed individuals: A randomised, double-blind, placebo-controlled, crossover trial | J Psychopharmacol
+- new | 2025 | 40732315 | Review | Hawthorn (Crataegus spp.) Clinically Significantly Reduces Blood Pressure in Hypertension: A Meta-Analysis of Randomized Placebo-Controlled Clinical Trials. | Pharmaceuticals (Basel)
+- new | 2025 | 40573097 | Randomized Controlled Trial | Effects of Hawthorn Fruit Supplementation on Facial Skin Phenotypes and Leukocyte Telomere Length Stratified by TERT Polymorphisms. | Nutrients
+- new | 2024 | 39583031 |  | Effects of Hawthorn Fruit Extract Drink in Chinese Patients With Mild Hypertension and/or Hyperlipidaemia: A Randomized, Double-Blind, Placebo-Controlled, Crossover Study. | Dose Response
+- new | 2024 | 38398818 | Randomized Controlled Trial | Efficacy of Crataegus Extract Mixture on Body Fat and Lipid Profiles in Overweight Adults: A 12-Week, Randomized, Double-Blind, Placebo-Controlled Trial. | Nutrients
+- new | 2024 | 39209360 | Randomized Controlled Trial | Effect of vitamin C and hawthorn beverage formula on blood pressure and oxidative stress in heat-exposed workers: a cluster-randomized controlled trial. | Asia Pac J Clin Nutr
+- new | 2024 | 38482041 | Review | Efficacy of traditional Chinese medicine containing hawthorn for hyperlipidemia: a systematic review and meta-analysis. | Toxicol Res (Camb)
+- new | 2023 | 38249078 | Research Support, Non-U.S. Gov't | Enhancing Sleep Quality: Assessing the Efficacy of a Fixed Combination of Linden, Hawthorn, Vitamin B1, and Melatonin. | Med Sci (Basel)
+- new | 2022 | 36468128 | Retracted Publication | Phytochemical composition and bioactivities of Crataegus aronia as antioxidant, antibacterial and antioxidative stress in red blood cells - Is it a window of hope for children with | Heliyon
+- new | 2019 | 31255877 | Meta-Analysis/Systematic Review | The combination of hawthorn extract and camphor significantly increases blood pressure: A meta-analysis and systematic review. | Phytomedicine
+- new | 2019 | 32595244 |  | SAFETY AND EFFECTS OF CRATAEGUS EXTRACT WS 1442 AND NORDIC WALKING ON LIPID PROFILE AND ENDOTHELIAL FUNCTION: A RANDOMIZED, PARTIALLY BLINDED PILOT STUDY IN OVERWEIGHT VOLUNTEERS. | Acta Clin Croat
+- new | 2018 | 29080984 | Review | Benefit-Risk Assessment of Crataegus Extract WS 1442: An Evidence-Based Review. | Am J Cardiovasc Drugs
+- new | 2018 | 29913528 | Randomized Controlled Trial | Blood Pressure and Cognitive Performance After a Single Administration of a Camphor-Crataegus Combination in Adolescents with Low Blood Pressure. | Planta Med
+- new | 2018 | 29672935 | Randomized Controlled Trial | Electrocardiographic effects of hawthorn (Crataegus oxyacantha) in healthy volunteers: A randomized controlled trial. | Phytother Res
+- HELD REF-1788 | 2016 | 26656228 | Review | Traditional herbs: a remedy for cardiovascular disorders. | Phytomedicine
+- new | 2015 | 26687477 | Clinical Study/Comparative Study | Comparison of the effects of Crataegus oxyacantha extract, aerobic exercise and their combination on the serum levels of ICAM-1 and E-Selectin in patients with stable angina pector | Daru
+- new | 2014 | 24834096 |  | Evaluation of a crataegus-based multiherb formula for dyslipidemia: a randomized, double-blind, placebo-controlled clinical trial. | Evid Based Complement Alternat Med
+- new | 2014 | 25172798 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of repeated administration of camphor-crataegus berry extract combination on blood pressure and on attentional performance - a randomized, placebo-controlled, double-bl | Phytomedicine
+- new | 2013 | 24459528 | Review | Effect of crataegus usage in cardiovascular disease prevention: an evidence-based approach. | Evid Based Complement Alternat Med
+- new | 2012 | 22458601 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effect of hawthorn standardized extract on flow mediated dilation in prehypertensive and mildly hypertensive adults: a randomized, controlled cross-over trial. | BMC Complement Altern Med
+- new | 2011 | 21737127 | Letter/Randomized Controlled Trial | Effects of hawthorn (Crataegus laevigata) on platelet aggregation in healthy volunteers. | Thromb Res
+- new | 2011 | 21242072 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Crataegus laevigata decreases neutrophil elastase and has hypolipidemic effect: a randomized, double-blind, placebo-controlled trial. | Phytomedicine
+- new | 2011 | 21899992 | Research Support, Non-U.S. Gov't | Hawthorn special extract WS® 1442 increases red blood cell NO-formation without altering red blood cell deformability. | Phytomedicine
+- new | 2011 | 21784624 |  | Baseline severity but not gender modulates quantified Crataegus extract effects in early heart failure--a pooled analysis of clinical trials. | Phytomedicine
+- new | 2010 | 21591320 | Multicenter Study/Randomized Controlled Trial | [Hawthorn extract WS 1442 in the treatment of patients with heart failure and LVEF of 25%-35%]. | MMW Fortschr Med [ger]
+- new | 2010 | 20148500 | Review | Health effects of hawthorn. | Am Fam Physician
+- new | 2009 | 18769933 | Clinical Trial/Research Support, Non-U.S. Gov't | Radioprotective effects of Hawthorn against genotoxicity induced by gamma irradiation in human blood lymphocytes. | Radiat Environ Biophys
+- new | 2009 | 19560327 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | D-camphor-crataegus berry extract combination increases blood pressure and cognitive functioning in the elderly - a randomized, placebo controlled double blind study. | Phytomedicine
+- HELD REF-3515 | 2009 | 19789403 | Comparative Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Hawthorn Extract Randomized Blinded Chronic Heart Failure (HERB CHF) trial. | Eur J Heart Fail
+- new | 2009 | 19499718 | Clinical Trial | [Possible use of standardized Crataegus sanguinea extract in correction of cardiac rhythm impairment in patients with chronic heart failure]. | Antibiot Khimioter [rus]
+- new | 2008 | 18929475 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of Camphor-Crataegus berry extract combination on blood pressure and mental functions in chronic hypotension--a randomized placebo controlled double blind design. | Phytomedicine
+- HELD REF-3514 | 2008 | 19019730 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The efficacy and safety of Crataegus extract WS 1442 in patients with heart failure: the SPICE trial. | Eur J Heart Fail
+- new | 2008 | 18490196 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | The effect of Crataegus oxycantha Special Extract WS 1442 on clinical progression in patients with mild to moderate symptoms of heart failure. | Eur J Heart Fail
+- HELD REF-2442 | 2008 | 18254076 | Meta-Analysis/Systematic Review | Hawthorn extract for treating chronic heart failure. | Cochrane Database Syst Rev
+- HELD REF-3516 | 2006 | 16762125 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Hypotensive effects of hawthorn for patients with diabetes taking prescription drugs: a randomised controlled trial. | Br J Gen Pract
+- new | 2005 | 15700798 | Meta-Analysis | [Meta-analysis of randomized clinical studies. Hawthorn extract for treatment of chronic cardiac insufficiency]. | Pharm Unserer Zeit [ger]
+- new | 2005 | 16149711 |  | [Efficacy and safety of a herbal drug containing hawthorn berries and D-camphor in hypotension and orthostatic circulatory disorders/results of a retrospective epidemiologic cohort | Arzneimittelforschung [ger]
+- new | 2005 | 16229244 | Review | [Oligomeric procyanidins from hawthorn extract as supplementary therapy in patients with left ventricle systolic dysfunction]. | Przegl Lek [pol]
+- new | 2004 | 15700749 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Antihypertensive effect of Iranian Crataegus curvisepala Lind.: a randomized, double-blind study. | Drugs Exp Clin Res
+- new | 2004 | 14741074 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Double-blind, randomised, placebo-controlled study to evaluate the efficacy and safety of a fixed combination containing two plant extracts (Crataegus oxyacantha and Eschscholtzia  | Curr Med Res Opin
+- new | 2004 | 15182778 | Comment/Letter | Observational series of patients treated either with ACE inhibitors and diuretics or with a homeopathic Crataegus preparation. | Eur J Heart Fail
+- new | 2004 | 15353901 | Multicenter Study | Prospective, comparative cohort studies and their contribution to the benefit assessments of therapeutic options: heart failure treatment with and without Hawthorn special extract  | Forsch Komplementarmed Klass Naturheilkd
+- new | 2003 | 12807346 | Review | Dose-response related efficacy in orthostatic hypotension of a fixed combination of D-camphor and an extract from fresh crataegus berries and the contribution of the single compone | Phytomedicine
+- HELD REF-2441 | 2003 | 12817526 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Interaction study between digoxin and a preparation of hawthorn (Crataegus oxyacantha). | J Clin Pharmacol
+- new | 2003 | 12833999 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | A randomised double blind placebo controlled clinical trial of a standardised extract of fresh Crataegus berries (Crataegisan) in the treatment of patients with congestive heart fa | Phytomedicine
+- new | 2003 | 12798455 | Meta-Analysis | Hawthorn extract for treating chronic heart failure: meta-analysis of randomized trials. | Am J Med
+- new | 2003 | 12798830 | Comparative Study/Evaluation Study/Multicenter Study | Efficacy of a homeopathic Crataegus preparation compared with usual therapy for mild (NYHA II) cardiac insufficiency: results of an observational cohort study. | Eur J Heart Fail
+- new | 2002 | 12487321 | Clinical Trial/Randomized Controlled Trial | Camphor-Crataegus berry extract combination dose-dependently reduces tilt induced fall in blood pressure in orthostatic hypotension. | Phytomedicine
+- new | 2002 | 12040357 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of crataegus extract WS 1442 in comparison with placebo in patients with chronic stable New York Heart Association class-III heart failure. | Am Heart J
+- new | 2002 | 11807965 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Promising hypotensive effect of hawthorn extract: a randomized double-blind pilot study of mild, essential hypertension. | Phytother Res
+- new | 2001 | 11515715 | Clinical Trial/Randomized Controlled Trial | Clinical efficacy of crataegus extract WS 1442 in congestive heart failure NYHA class II. | Phytomedicine
+- new | 2001 | 11715631 | Clinical Trial/Randomized Controlled Trial | [Actions of standardized extracts of Crataegus berries on exercise tolerance and quality of life in patients with congestive heart failure]. | Arzneimittelforschung [ger]
+- new | 2000 | 11113721 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Survival and prognosis: investigation of Crataegus extract WS 1442 in congestive heart failure (SPICE)--rationale, study design and study protocol. | Eur J Heart Fail
+- new | 2000 | 10965417 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | [Effects of an herbal crataegus-camphor combination on the symptoms of cardiovascular diseases]. | Arzneimittelforschung [ger]
+- new | 2000 | 11272419 |  | Effect of eugenol and tincture of crataegus (TCR) on in vitro oxidation of LDL + VLDL isolated from plasma of non-insulin dependent diabetic patients. | Indian J Exp Biol
+- new | 1999 | 10483686 | Comparative Study/Review | [Phytogenic drugs in heart diseases exemplified by Crataegus]. | Wien Med Wochenschr [ger]
+- new | 1996 | 8974970 | Clinical Trial/Randomized Controlled Trial | [Crataegus Special Extract WS 1442. Assessment of objective effectiveness in patients with heart failure (NYHA II)]. | Fortschr Med [ger]
+- new | 1996 | 8647566 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Review | [Therapeutic effectiveness of Crataegus]. | Fortschr Med [ger]
+- new | 1994 | 23195811 |  | Efficacy of the Hawthorn (Crataegus) preparation LI 132 in 78 patients with chronic congestive heart failure defined as NYHA functional class II. | Phytomedicine
+- new | 1993 | 8375791 | Clinical Trial/Randomized Controlled Trial | [Crataegus Special Extract WS 1442 in NYHA II heart failure. A placebo controlled randomized double-blind study]. | Fortschr Med [ger]
+- new | 1992 | 1634169 |  | [Crataegus in cardiology]. | Fortschr Med [ger]
+- new | 1986 | 3542766 | Clinical Trial/Randomized Controlled Trial | [Treatment of decreasing cardiac performance. Therapy using standardized crataegus extract in advanced age]. | Fortschr Med [ger]
+- new | 1984 | 6397664 | Clinical Trial | Therapeutic effect of Crataegus pinnatifida on 46 cases of angina pectoris--a double blind study. | J Tradit Chin Med
+- new | 1974 | 4858128 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Clinical experiences with a crataegus pentaerythrityl-tetranitrate combination drug in heart diseases due to coronary sclerosis in old age]. | Wien Med Wochenschr [ger]
+- new | 1965 | 5331286 | Clinical Trial | [The therapeutic effect of hawthorn extract in myocardial hypoxia]. | Med Klin [ger]
+- new | 1956 | 13406959 |  | [Cardiac disorders in children with special reference to Crataegus therapy]. | Kinderarztl Prax [ger]
+- new | 1954 | 13222571 |  | [Intestinal obstruction in children caused by hawthorn berries]. | Khirurgiia (Mosk) [rus]
+
+### PubMed SR - 8 hits, 2 not already listed above, 2 new
+- new | 2024 | 39598401 |  | Analysis of Adverse Reactions Associated with the Use of Crataegus-Containing Herbal Products. | Pharmaceuticals (Basel)
+- new | 2006 | 16752934 | Systematic Review | Adverse-event profile of Crataegus spp.: a systematic review. | Drug Saf
+
+### PubMed SAFE - 134 hits, 107 not already listed above, 101 new
+- new | 2026 | 42025193 |  | Protective effects of Crataegus monogyna against cisplatin-induced liver and kidney toxicity in rats. | Drug Chem Toxicol
+- new | 2026 | 41431296 | Review | Research Progress on The Chemical Composition And Pharmacological Effects of Hawthron (Crataegus spp.): A Review. | J Agric Food Chem
+- new | 2026 | 41875453 | Case Reports | Crataegus mexicana root-based supplement intoxication in a woman with weight loss persistent preoccupation: Case report. | Biomedica [eng,spa]
+- new | 2026 | 42352007 |  | Gardenia-Astragalus-Crataegus Extract Alleviates Carbon Tetrachloride-Induced Liver Injury in Mice Through Antioxidant and Apoptosis Pathways. | Antioxidants (Basel)
+- new | 2026 | 41338313 |  | Hawthorn juice transforms notoginseng stem-leaf saponins: Synergistically regulates blood viscosity and ameliorates glycolipid metabolic disorders. | J Ethnopharmacol
+- new | 2026 | 42215098 |  | Enhancement of ursolic acid (UA), an active ingredient in hawthorn, on the uptake and metabolism of 2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside (THSG) derived from Polygonum mu | Food Res Int
+- new | 2025 | 40733200 | Comparative Study | Comparative Analysis of Phenolic, Carotenoid, and Elemental Profiles in Three Crataegus Species from Şebinkarahisar, Türkiye: Implications for Nutritional Value and Safety. | Molecules
+- new | 2025 | 40942185 | Published Erratum | Correction: Şeker et al. Comparative Analysis of Phenolic, Carotenoid, and Elemental Profiles in Three Crataegus Species from Şebinkarahisar, Türkiye: Implications for Nutritional  | Molecules
+- new | 2025 | 40462063 |  | Molecular basis governing diapause and pigmentation in the hawthorn spider mite, Amphitetranychus viennensis. | BMC Biol
+- new | 2025 | 39648361 |  | Unraveling the potential of Epicatechin gallate from crataegus oxyacantha in targeting aberrant cardiac Ca2+ signalling proteins: an in-depth in-silico investigation for heart fail | J Biomol Struct Dyn
+- new | 2025 | 40161310 |  | Hawthorn leaf and its extract alleviate high-fat diet-induced obesity and modulate gut microbiome in mice. | Curr Res Food Sci
+- new | 2025 | 39753628 | Research Support, Non-U.S. Gov't | Gastrointestinal absorption and its regulation of hawthorn leaves flavonoids. | Sci Rep
+- new | 2025 | 40628832 |  | Combined exercise and Hawthorn protect against learning impairments and hippocampal damage from trimethyltin neurotoxicity in rat. | Sci Rep
+- new | 2025 | 41050658 |  | The postbiotic of hawthorn-probiotic ameliorates constipation by multi-pathway inhibition of PANoptosis in intestinal epithelial cells. | Front Immunol
+- new | 2025 | 40683484 |  | Hawthorn (Crataegus pinnatifida Bunge) polysaccharide improves the adaptability of crucian carp (Carassius auratus) to high alkalinity by regulating immunity, intestinal microbiota | Int J Biol Macromol
+- new | 2025 | 40614996 |  | Structural characterisation of hawthorn polysaccharide and its mechanisms of action against non-alcoholic fatty liver disease. | Int J Biol Macromol
+- new | 2025 | 40107769 |  | Laxative Effect of Crataegus azarolus Leaves Decoction Extract Against Loperamide-Induced Constipation and Oxidative Stress in Rats. | J Med Food
+- new | 2025 | 40871038 |  | Development and Preclinical Evaluation of Fixed-Dose Capsules Containing Nicergoline, Piracetam, and Hawthorn Extract for Sensorineural Hearing Loss. | Pharmaceutics
+- new | 2025 | 40164277 |  | Preclinical safety studies of a SEDDS formulation of the vasorelaxing methanol extract from Crataegus rosei eggl. Leaves. | Regul Toxicol Pharmacol
+- new | 2024 | 37788786 | Review | Traditional uses, phytochemistry, pharmacology, and safety concerns of hawthorn (Crataegus genus): A comprehensive review. | J Ethnopharmacol
+- new | 2024 | 37973470 | Case Reports | Hawthorne root (Crataegus mexicana) toxicity. | Am J Emerg Med
+- new | 2024 | 39178762 |  | Hawthorn-leaf flavonoid alleviate intestinal health and microbial dysbiosis problems induced by glyphosate. | Ecotoxicol Environ Saf
+- new | 2024 | 39047316 |  | Effects of maternal hawthorn-leaf flavonoid supplementation on the intestinal development of offspring chicks. | Poult Sci
+- HELD REF-0785 | 2024 | 38931453 |  | Phenolic Composition of Crataegus monogyna Jacq. Extract and Its Anti-Inflammatory, Hepatoprotective, and Antileukemia Effects. | Pharmaceuticals (Basel)
+- new | 2024 | 38732560 | Review | Characterizations of White Mulberry, Sea-Buckthorn, Garlic, Lily of the Valley, Motherwort, and Hawthorn as Potential Candidates for Managing Cardiovascular Disease-In Vitro and Ex | Nutrients
+- new | 2024 | 39309842 |  | Ameliorative effects of Monascus-fermented hawthorn extract on a high-fat diet-induced rat model of non-alcoholic fatty liver disease. | Heliyon
+- new | 2024 | 38223297 |  | Phytochemical Properties of Crataegus azarolus Berries Decoction Extract and Evaluation of its Protective Activity Against Acetic Acid-Induced Ulcerative Colitis in Rats. | Dose Response
+- new | 2023 | 37764716 |  | Ultrasound-Treated and Thermal-Pasteurized Hawthorn Vinegar: Antioxidant and Lipid Profiles in Rats. | Nutrients
+- new | 2023 | 37337667 | Review | Advances in the study of the vascular protective effects and molecular mechanisms of hawthorn (Crataegus anamesa Sarg.) extracts in cardiovascular diseases. | Food Funct
+- new | 2023 | 36880395 |  | Hawthorn fruit extract protect against MC-LR-induced hepatotoxicity by attenuating oxidative stress and apoptosis. | Environ Toxicol
+- new | 2023 | 37881336 |  | Comprehensive metabolomic variations of hawthorn before and after insect infestation based on the combination analysis of (1)H NMR and UPLC-MS. | Curr Res Food Sci
+- new | 2023 | 37376012 |  | Teratogen Potential Evaluation of the Aqueous and Hydroalcoholic Leaf Extracts of Crataegus oxyacantha in Pregnancy Rats. | Plants (Basel)
+- new | 2023 | 38156015 |  | Host cell cAMP-Epac-Rap1b pathway inhibition by hawthorn extract as a potential target against Trypanosoma cruzi infection. | Front Microbiol
+- new | 2022 | 35863376 | Case Reports | Fatal arrhythmia following ingestion of hawthorn root (Crataegus pubescens) extract: a case report. | Clin Exp Emerg Med
+- new | 2022 | 35189445 | Case Reports | A comprehensive strategy integrating metabolomics with multiple chemometric for discovery of function related active markers for assessment of foodstuffs: A case of hawthorn (Crata | Food Chem
+- new | 2022 | 35318796 |  | Developing the liquid chromatography-mass spectrometry method for simultaneously quantifying five components in rat serums after oral administration of hawthorn aqueous extracts an | J Sep Sci
+- new | 2021 | 34918685 |  | Protective effect of hawthorn vitexin on the ethanol-injured DNA of BRL-3A hepatocytes. | Medicine (Baltimore)
+- new | 2021 | 34415825 |  | Authentication of tejocote (Crataegus mexicana) dietary supplements based on DNA barcoding and chemical profiling. | Food Addit Contam Part A Chem Anal Contr
+- new | 2021 | 33774071 |  | Crataegus pinnatifida polysaccharide alleviates colitis via modulation of gut microbiota and SCFAs metabolism. | Int J Biol Macromol
+- new | 2021 | 33859705 |  | Crataegus pinnatifida Bunge Inhibits RANKL-Induced Osteoclast Differentiation in RAW 264.7 Cells and Prevents Bone Loss in an Ovariectomized Rat Model. | Evid Based Complement Alternat Med
+- new | 2021 | 34686027 |  | Cytotoxic and Genotoxic Evaluation of the Aqueous and Hydroalcoholic Leaf and Bark Extracts of Crataegus oxyacantha in Murine Model. | Plants (Basel)
+- new | 2020 | 32477537 | Case Reports | Immune thrombocytopenic purpura caused by the over-the-counter weight supplement Root of Tejocote (Crataegus species). | Clin Case Rep
+- new | 2020 | 32470682 |  | Protective effect of hawthorn extract against genotoxicity induced by benzo(<alpha>)pyrene in C57BL/6 mice. | Ecotoxicol Environ Saf
+- new | 2020 | 33112559 |  | Anti-Oxidant, Anti-Hemolytic Effects of Crataegus aronia Leaves and Its Anti- Proliferative Effect Enhance Cisplatin Cytotoxicity in A549 Human Lung Cancer Cell Line. | Asian Pac J Cancer Prev
+- new | 2020 | 32679591 |  | Evaluation of the Efficacy of Crataegus oxyacantha in Dogs with Early-Stage Heart Failure. | Homeopathy
+- HELD REF-1781 | 2019 | 30058501 |  | Hepatoprotective Effects of Algerian Crataegus oxyacantha Leaves. | Recent Pat Food Nutr Agric
+- new | 2019 | 31407210 | Case Reports | Crataegus mexicana (Tejocote) Exposure Associated with Cardiotoxicity and a Falsely Elevated Digoxin Level. | J Med Toxicol
+- new | 2019 | 31781227 |  | Antistaphylococcal Activity and Phytochemical Analysis of Crude Extracts of Five Medicinal Plants Used in the Center of Morocco against Dermatitis. | Int J Microbiol
+- new | 2019 | 30881725 |  | Advantageous Extraction, Cleanup, and UHPLC-MS/MS Detection of Patulin Mycotoxin in Dietary Supplements and Herbal Blends Containing Hawberry from Crataegus spp. | J Anal Methods Chem
+- new | 2019 | 30909143 |  | Beneficial effects of crataegus oxyacantha extract on neurobehavioral deficits and brain tissue damages induced by an insecticide mixture of deltamethrin and chlorpyrifos in adult  | Biomed Pharmacother
+- new | 2018 | 30325712 | Research Support, Non-U.S. Gov't | The genotoxic effects of fruit extract of Crataegus oxyacantha (hawthorn) in mice. | J Toxicol Environ Health A
+- HELD REF-1783 | 2017 | 28638340 |  | Neurologically Potent Molecules from Crataegus oxyacantha; Isolation, Anticholinesterase Inhibition, and Molecular Docking. | Front Pharmacol
+- new | 2017 | 28873717 | Research Support, Non-U.S. Gov't | Herbal products containing Hibiscus sabdariffa L., Crataegus spp., and Panax spp.: Labeling and safety concerns. | Food Res Int
+- new | 2017 | 28277037 | Research Support, Non-U.S. Gov't | Fruit extract of the medicinal plant Crataegus oxyacantha exerts genotoxic and mutagenic effects in cultured cells. | J Toxicol Environ Health A
+- new | 2016 | 27531227 |  | Polyphenols from hawthorn peels and fleshes differently mitigate dyslipidemia, inflammation and oxidative stress in association with modulation of liver injury in high fructose die | Chem Biol Interact
+- new | 2016 | 26795272 | Research Support, Non-U.S. Gov't | Antitumoral, antioxidant, and antimelanogenesis potencies of Hawthorn, a potential natural agent in the treatment of melanoma. | Melanoma Res
+- HELD REF-1709 | 2015 | 26378574 | Research Support, Non-U.S. Gov't/Review | Polyphenolic Composition of Crataegus monogyna Jacq.: From Chemistry to Medical Applications. | Nutrients
+- new | 2015 | 25368407 |  | Simultaneous Determination of Seven Components from Hawthorn Leaves Flavonoids in Rat Plasma by LC-MS/MS. | J Chromatogr Sci
+- new | 2014 | 23843400 | Research Support, Non-U.S. Gov't | Hawthorn (Crataegus oxyacantha L.) bark extract regulates antioxidant response element (ARE)-mediated enzyme expression via Nrf2 pathway activation in normal hepatocyte cell line. | Phytother Res
+- new | 2014 | 24941296 | Research Support, Non-U.S. Gov't | Antioxidant and hepatoprotective effects of Crataegus songarica methanol extract. | J Environ Pathol Toxicol Oncol
+- new | 2014 | 24660090 |  | Simultaneous determination and pharmacokinetic comparisons of multi-ingredients after oral administration of radix salviae miltiorrhizae extract, hawthorn extract, and a combinatio | J Anal Methods Chem
+- new | 2014 | 24347159 |  | Aqueous extract of Crataegus azarolus protects against DNA damage in human lymphoblast Cell K562 and enhances antioxidant activity. | Appl Biochem Biotechnol
+- new | 2014 | 25204172 | Research Support, Non-U.S. Gov't | [Study on self-microemulsifying membrane controlled-release drop pill of hawthorn leaves flavonoids]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2013 | 23774969 | Research Support, Non-U.S. Gov't | Activity of hawthorn leaf and bark extracts in relation to biological membrane. | J Membr Biol
+- new | 2013 | 24027659 |  | Attenuation of Cyclosporine-Induced Sperm Impairment and Embryotoxicity by Crataegus monogyna Fruit Aqueous Extract. | Cell J
+- new | 2013 | 23685195 | Research Support, Non-U.S. Gov't | Effects of an aqueous extract of Crataegus pinnatifida Bge. var. major N.E.Br. fruit on experimental atherosclerosis in rats. | J Ethnopharmacol
+- new | 2013 | 25050270 |  | Crataegus monogyna fruit aqueous extract as a protective agent against doxorubicin-induced reproductive toxicity in male rats. | Avicenna J Phytomed
+- new | 2012 | 36753600 | Review | Hawthorn. | 
+- HELD REF-1711 | 2012 | 22267371 |  | Crataegus monogyna aqueous extract ameliorates cyclophosphamide-induced toxicity in rat testis: stereological evidences. | Acta Med Iran
+- new | 2012 | 23297544 | Case Reports/News | [Decreased cardiac output in the elderly. Cardiotonic effect of hawthorn]. | MMW Fortschr Med [ger]
+- new | 2012 | 21867394 | Research Support, Non-U.S. Gov't/Validation Study | Simultaneous determination of three polyphenols in rat plasma after orally administering hawthorn leaves extract by the HPLC method. | Nat Prod Res
+- new | 2011 | 21562106 | Case Reports | Curtobacterium flaccumfaciens septic arthritis following puncture with a Coxspur Hawthorn thorn. | J Clin Microbiol
+- new | 2011 | 20947657 | Research Support, Non-U.S. Gov't | Protective effect of hawthorn extract against genotoxicity induced by methyl methanesulfonate in human lymphocytes. | Toxicol Ind Health
+- new | 2011 | 21183208 | Research Support, Non-U.S. Gov't | Antithrombotic effects of ethanol extract of Crataegus orientalis in the carrageenan-induced mice tail thrombosis model. | Thromb Res
+- new | 2010 | 20171068 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Cardioprotective properties of Crataegus oxycantha extract against ischemia-reperfusion injury. | Phytomedicine
+- new | 2010 | 22228939 |  | Hawthorn (Crataegus spp.) in the treatment of cardiovascular disease. | Pharmacogn Rev
+- new | 2010 | 20729753 | Research Support, N.I.H., Extramural | Crataegus oxycantha extract attenuates apoptotic incidence in myocardial ischemia-reperfusion injury by regulating Akt and HIF-1 signaling pathways. | J Cardiovasc Pharmacol
+- new | 2010 | 19962326 | Case Reports | Retained Hawthorn fragment in a child's foot complicated by infection: diagnosis and excision aided by localization with ultrasound. | J Foot Ankle Surg
+- new | 2010 | 21048422 | Research Support, Non-U.S. Gov't | HPLC determination of five polyphenols in rat plasma after intravenous administration of hawthorn leaves extract and its application to pharmacokinetic study. | Yakugaku Zasshi
+- new | 2010 | 20570577 |  | Simultaneous determination of vitexin-4''-O-glucoside, vitexin-2''-O-rhamnoside, rutin and vitexin from hawthorn leaves flavonoids in rat plasma by UPLC-ESI-MS/MS. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2010 | 20096549 | Research Support, Non-U.S. Gov't | The pharmacokinetics of C-glycosyl flavones of Hawthorn leaf flavonoids in rat after single dose oral administration. | Phytomedicine
+- new | 2009 | 19441016 | Research Support, Non-U.S. Gov't | The effect of crataegus fruit extract and some of its flavonoids on mitochondrial oxidative phosphorylation in the heart. | Phytother Res
+- new | 2009 | 19048610 | Research Support, Non-U.S. Gov't | Preclinical toxicological assessment of a phytotherapeutic product--CPV (based on dry extracts of Crataegus oxyacantha L., Passiflora incarnata L., and Valeriana officinalis L.). | Phytother Res
+- new | 2009 | 20353017 |  | [Effect of total flavones of hawthorn leafon (TFHL) on expression of UCP2 in liver of NASH rats]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2008 | 21783835 |  | Protective effect of hawthorn extract against genotoxicity induced by cyclophosphamide in mouse bone marrow cells. | Environ Toxicol Pharmacol
+- new | 2008 | 19043257 | Case Reports | Crataegus orientalis associated multiorgan hypersensitivity reaction and acute renal failure. | Intern Med
+- new | 2008 | 18485639 | Research Support, Non-U.S. Gov't | A reproductive screening test of hawthorn. | J Ethnopharmacol
+- new | 2008 | 18302035 | Research Support, Non-U.S. Gov't | Assessment of intestinal absorption of vitexin-2''-o-rhamnoside in hawthorn leaves flavonoids in rat using in situ and in vitro absorption models. | Drug Dev Ind Pharm
+- new | 2007 | 17294503 | Research Support, Non-U.S. Gov't/Validation Study | Quantitative LC/MS/MS method and in vivo pharmacokinetic studies of vitexin rhamnoside, a bioactive constituent on cardiovascular system from hawthorn. | Biomed Chromatogr
+- new | 2007 | 17185880 | Research Support, Non-U.S. Gov't | Radioprotective effects of hawthorn fruit extract against gamma irradiation in mouse bone marrow cells. | J Radiat Res
+- new | 2007 | 17329058 | Comparative Study/Research Support, Non-U.S. Gov't | Simultaneous determination of vitexin-4''-O-glucoside and vitexin-2''-O-rhamnoside from Hawthorn leaves flavonoids in rat plasma by HPLC method and its application to pharmacokinet | J Pharm Biomed Anal
+- new | 2006 | 30000891 | Review | Hawthorn. | 
+- new | 2006 | 16846822 | Case Reports | Heart failure improvement with CoQ10, Hawthorn, and magnesium in a patient scheduled for cardiac resynchronization-defibrillator therapy: a case study. | Explore (NY)
+- new | 2006 | 16989871 | Research Support, Non-U.S. Gov't | Intestinal absorption of hawthorn flavonoids--in vitro, in situ and in vivo correlations. | Life Sci
+- new | 2005 | 15601812 | Comparative Study/Research Support, Non-U.S. Gov't | Comparison of the pharmacokinetics of hawthorn phenolics in extract versus individual pure compound. | J Clin Pharmacol
+- new | 2005 | 16176155 |  | Liver architecture maintenance by tincture of Crataegus against isoproterenol-induced myocardially infarcted rats. | J Med Food
+- new | 2005 | 15844828 | Review | Hawthorn: potential roles in cardiovascular disease. | Am J Chin Med
+- new | 2002 | 12043949 |  | Hawthorn. | J Clin Pharmacol
+- HELD REF-1779 | 2002 | 11887407 | Review | Hawthorn: pharmacology and therapeutic uses. | Am J Health Syst Pharm
+- new | 1999 | 10546150 |  | [High-dose Crataegus extract WS 1442 in the treatment of NYHA stage II heart failure]. | Herz [ger]
+- new | 1991 | 1757878 |  | [Valeriana officinalis and Crataegus oxyacantha: toxicity from repeated administration and pharmacologic investigations]. | J Pharm Belg [fre]
+- new | 1984 | 6525827 | Case Reports | Immediate-type hypersensitivity to Crataegus monogyna (hawthorn). | Contact Dermatitis
+- new | 1984 | 6236637 | Case Reports | [Toxiderma due to the fruits of the hawthorn]. | Vestn Dermatol Venerol [rus]
+- new | 1981 | 7198272 |  | [Crataegus, toxicology and pharmacology, Part I: Toxicity (author's transl)]. | Planta Med [ger]
+- new | 1981 | 7199189 |  | [Crataegus, toxicology and pharmacology. Part III: Pharmacodynamics and pharmacokinetics.]. | Planta Med [ger]
+- new | 1961 | 13709915 |  | [Effect of Crataegus pentagyna growing in Azerbaidzhan on lactation]. | Akush Ginekol (Mosk) [rus]
+- new | 1951 | 14888359 |  | [Investigations on the effect of Foeniculum vulgare, Carum carvi, Anisum vulgare, Crataegus oxyacanthus, and Galga officinalis on lactation]. | Izv Meditsinskite Inst Bulg Akad Naukite [und]
+
+### PubMed OBS - 8 hits, 2 not already listed above, 2 new
+- new | 2024 | 39362947 |  | Real world effectiveness of Hawthorn special extract WS 1442 in a retrospective cohort study from Germany. | Sci Rep
+- new | 2016 | 27585196 | Observational Study | Hawthorn Herb Increases the Risk of Bleeding after Cardiac Surgery: An Evidence-Based Approach. | Heart Surg Forum
+
+### PubMed REV - 67 hits, 17 not already listed above, 14 new
+- new | 2026 | 41599280 | Review | Hawthorn (Crataegus monogyna Jacq.): A Review of Therapeutic Potential and Applications. | Molecules
+- new | 2024 | 38159827 | Review | Isolation, structural properties and bioactivities of polysaccharides from Crataegus pinnatifida. | J Ethnopharmacol
+- new | 2024 | 38915462 | Review | Hawthorn with "homology of medicine and food": a review of anticancer effects and mechanisms. | Front Pharmacol
+- new | 2024 | 39272515 | Review | A Comprehensive Review on the Isolation, Bioactivities, and Structure-Activity Relationship of Hawthorn Pectin and Its Derived Oligosaccharides. | Foods
+- new | 2023 | 36228891 | Review | Crataegus pinnatifida: A botanical, ethnopharmacological, phytochemical, and pharmacological overview. | J Ethnopharmacol
+- new | 2023 | 37689285 | Review | Preparation, structural characterization, bioactivities, and applications of Crataegus spp. polysaccharides: A review. | Int J Biol Macromol
+- HELD REF-1787 | 2022 | 33480339 | Review | Anti-anxiety Properties of Selected Medicinal Plants. | Curr Pharm Biotechnol
+- new | 2022 | 36179124 | Review | Botany, traditional uses, phytochemistry and pharmacological activity of Crataegus pinnatifida (Chinese hawthorn): a review. | J Pharm Pharmacol
+- new | 2022 | 35215517 | Review | Potential Roles and Key Mechanisms of Hawthorn Extract against Various Liver Diseases. | Nutrients
+- new | 2021 | 34885847 | Review | Botanical, Phytochemical, Anti-Microbial and Pharmaceutical Characteristics of Hawthorn (Crataegusmonogyna Jacq.), Rosaceae. | Molecules
+- new | 2020 | 32153414 | Review | Roles and Mechanisms of Hawthorn and Its Extracts on Atherosclerosis: A Review. | Front Pharmacol
+- new | 2019 | 31217924 | Review | The effects of Crataegus pinnatifida (Chinese hawthorn) on metabolic syndrome: A review. | Iran J Basic Med Sci
+- new | 2018 | 29974436 | Review | [Significance of hawthorn extract in general practice - a current positioning]. | MMW Fortschr Med [ger]
+- HELD REF-1717 | 2017 | 29151068 | Review | Crataegus special extract WS 1442: up-to-date review of experimental and clinical experiences. | J Physiol Pharmacol
+- new | 2012 | 23222867 | Research Support, Non-U.S. Gov't/Review | Polyphenolic profile and biological activity of Chinese hawthorn (Crataegus pinnatifida BUNGE) fruits. | Molecules
+- new | 2004 | 15058505 | Review | Hawthorn. | Conn Med
+- HELD REF-0782 | 2002 | 12597258 | Review | Hawthorn. | J Cardiovasc Nurs
+
+### ClinicalTrials.gov - 38 registered studies
+- NCT01682291 | UNKNOWN | results=False | PHASE4 | Prehypertension and Dietary Supplements - The PYRAMIDS Study | conds: Prehypertension | intr: Life-style modifications, Dietary supplements | pubs: ['28447625:DERIVED (new)']
+- NCT03895749 | COMPLETED | results=False | NA | Effect of a Nitric Oxide Supplementation Product on Endothelial Dysfunction and Prehypertensive Adults | conds: Hypertension | intr: NEO40 Daily
+- NCT00794456 | COMPLETED | results=False | PHASE3 | Association of Passiflora Incarnata L; Crataegus Oxyacantha L and Salix Alba L. on Mild and Moderate Anxiety | conds: Anxiety Disorder | intr: Passiflora ; Crataegus and Salix, Valeriana
+- NCT00944268 | UNKNOWN | results=False | PHASE3 | Efficacy and Tolerability Study to Treat Mild and Moderate Anxiety | conds: Anxiety, Efficacy, Tolerability | intr: Passiflora, Crataegus e Salix
+- NCT01100645 | UNKNOWN | results=False | PHASE3 | Efficacy and Safety of the Herbal Medicine Sominex ® (Passiflora Incarnata L., Valeriana Officinalis L. and Crataegus Oxyacantha L.), Manufa | conds: Insomnia | intr: Sominex, Placebo
+- NCT02419235 | COMPLETED | results=False | PHASE2 | The Effect of a Homoeopathic Complex on Blood Pressure in Refractory Hypertension | conds: Essential Hypertension | intr: 20% ethanol, Homoeopathic complex
+- NCT01331486 | COMPLETED | results=False | PHASE1 | Nitric Oxide Mediated Vasodilatory Response to Hawthorn Standardized Extract | conds: Prehypertension, Mild Hypertension | intr: Hawthorn, Placebo capsule | pubs: ['22458601:RESULT (new)']
+- NCT03909906 | COMPLETED | results=False | NA | Chronic Effects of Euphytose® on Psychological and Physiological Measures of Stress | conds: Mood | intr: Euphytose®, Placebo Oral Tablet | pubs: ['35875924:DERIVED (new)']
+- NCT01647984 | COMPLETED | results=False | PHASE4 | Role of a Combination of Nutraceuticals (Ritmonutra) on Benign Supraventricular and Ventricular Arrhythmias | conds: Ventricular and Atrial Extrasytoles | intr: Ritmonutra, placebo | pubs: ['20498621:RESULT (new)']
+- NCT05561023 | UNKNOWN | results=False | PHASE1 | Phase Ⅰa Clinical Study of Hawthorn Red Pigment Combined With Standard Analgesic for Refractory Cancer Pain | conds: Hawthorn Red Combined Refractory Cancer Pain | intr: Hawthorn red pigment
+- NCT07378228 | COMPLETED | results=False | NA | Weak Pulse at Yang and Wiry Pulse at Yin Theory | conds: Coronary Heart Disease, Stable Angina Pectoris | intr: Metoprolol Succinate Extended-Release Tablets, Aspirin Enteric-Coated Tablets, Atorvastatin Calcium 
+- NCT03623451 | UNKNOWN | results=False | NA | Serum Metabolomics Study of Traditional Chinese Medicine Formula （Shen Qi Tiao Ti Formula） Intervention to Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Chinese Medicine Formula
+- NCT06481254 | COMPLETED | results=False | NA | Effect of Hawthorn Vinegar, Black Mulberry Syrup and Green Tea on Oral Mucositis | conds: Mucositis, Quality of Life | intr: Hawthorn Vinegar Group, Black Mulberry Syrup Group, Green Tea Group | pubs: ['42694165:DERIVED (new)']
+- NCT05300594 | COMPLETED | results=False | NA | Effect of Audistim® Day/Night on Hearing Comfort and Patient Quality of Life of Patients With Chronic Tinnitus. | conds: Tinnitus | intr: Plant extracts, vitamins and mineral, Placebo
+- NCT01178632 | UNKNOWN | results=False | PHASE3 | Therapeutic Effect of an Herbal Medicine on Anxiety | conds: Anxiety Disorders | intr: Passiflora, Valeriana officinalis
+- NCT06419764 | UNKNOWN | results=False | NA | Combining Chinese Medicine and Nutrition to Enhance Weight Loss After Bariatric Surgery | conds: Traditional Chinese Medicine Treatment, Weight Change | intr: Spleen Invigorating and Weight Reducing Decoction, Diet and meal replacements
+- NCT05585021 | COMPLETED | results=False | NA | Clinical Study on the Effect of Probiotic Compound Powder on the Immunity Improvement of Preschool Children | conds: Immunity | intr: Wonderlab Kids instant probiotics, Instant probiotic placebo
+- NCT03446443 | UNKNOWN | results=False | PHASE4 | Honghe Fujie Lotion for the Treatment of Bacterial Vaginosis | conds: Bacterial Vaginitis | intr: Honghe Fujie lotion, Metronidazole Suppositories
+- NCT02221973 | COMPLETED | results=False | NA | Effect of a Low Fat Milk Product on Lipids Profile in Dyslipidemia Subjects | conds: Primary Dyslipidemia | intr: sterols and hawthorn powder
+- NCT02088307 | COMPLETED | results=False | NA | Study of the Cardiovascular Vitamin, CardioLife | conds: Cardiovascular Disease | intr: CardioLife
+- NCT03663465 | COMPLETED | results=False | NA | The Effect of Hawthorn on Lipoprotein Cholesterol Ratio in Schizophrenics With Antipsychotics | conds: Schizophrenia | intr: Hawthorn, SGAs
+- NCT05757050 | COMPLETED | results=False | NA | Mental Balance Study | conds: Mental Health Wellness 1, Work Related Stress | intr: Re-Focus "Verum" Tablets, Re-Focus "Placebo" Tablets | pubs: ['41194549:DERIVED (new)']
+- NCT07828548 | NOT_YET_RECRUITING | results=False | NA | Effect of the Ansileve Supplement on the Well-being of Parents of Children Who Have Experienced a Medical Emergency: A Randomized Controlled | conds: Parenting Anxiety, Child Hospitalization, Psychological Well-being | intr: Ansileve SOS Spray, Ansileve
+- NCT04312022 | COMPLETED | results=True | NA | Impacts of a Combined Berry Extract Supplement on Vascular Function and Oxygen Utility Capacity in Young Adults | conds: Healthy | intr: Berry extract, Placebo
+- NCT04093271 | COMPLETED | results=False | PHASE1 | Investigating the Efficacy of Rest-ZZZ Formula in Healthy Participants With Difficulty Falling Asleep or Staying a Sleep | conds: Sleep, Healthy | intr: Rest-ZZZ, Active Comparator - Diphenhydramine HCl, Placebo
+- NCT06505694 | COMPLETED | results=False | NA | A Clinical Trial to Assess the Impact of an Alcohol Alternative Herbal Tincture on Signs of Stress Anxiety and Sleep Quality. | conds: Anxiety, Stress | intr: Alcohol Alternative Herbal Tincture (Test Product), Placebo
+- NCT00343902 | COMPLETED | results=False | PHASE3 | Hawthorn Extract Randomized Blinded Chronic Heart Failure (HERB CHF) Trial | conds: Chronic Heart Failure | intr: Crataegus Special Extract WS 1442 | pubs: ['19789403:DERIVED (HELD REF-3515)']
+- NCT00006330 | COMPLETED | results=False | NA | Pharmacokinetic and Pharmacodynamic Interaction Study of Digoxin and Hawthorn | conds: Heart Diseases | intr: Digoxin, Hawthorn
+- NCT04245761 | COMPLETED | results=False | NA | Open Non-Comparative Study To Evaluate Administration Of a New Nutraceutical | conds: Sleep Disorder | intr: Sonidor®
+- NCT04655326 | COMPLETED | results=True | NA | Probiotic Therapy for Children and Adults With Autism Spectrum Disorder | conds: Autism Spectrum Disorder | intr: Flore
+- NCT07141615 | TERMINATED | results=False | NA | Clinical Observation of Qingwei Huazhuo Decoction (Product: Jinsaiyu) in Improving Children With Precocious Puberty of Phlegm-Dampness Inter | conds: Precocious Puberty | intr: Qingwei Huazhuo Decoction: Mulberry leaf powder, lotus leaf powder, malt powder, hawthorn powder, Po
+- NCT07320456 | NOT_YET_RECRUITING | results=False | PHASE2 | A Clinical Trial of Longqi Jiangzhi Decoction Against Non-alcoholic Fatty Liver Disease | conds: Hepatic Steatosis | intr: Longqi Jiangzhi decoction, Control placebo
+- NCT02298426 | COMPLETED | results=False | NA | Body Constitution Classification Based Comprehensive Health Management Intervention on Obese Population | conds: Overweight, Obesity | intr: Health Management, General Management, Placebo, SCHSANDRA PLUS, YI RUI CAPSULE, Gest Aid Plus: INFIN
+- NCT05167747 | COMPLETED | results=False | NA | Food Supplementation With Diuripres for Blood Pressure Modulation in Subjects With High-Normal Blood Pressure | conds: High-Normal Blood Pressure | intr: Dietary Supplement, Placebo | pubs: ['37448322:RESULT (new)']
+- NCT07166965 | ENROLLING_BY_INVITATION | results=False | NA | Ketone and Hawthorn Extract Supplementation in Congestive Heart Failure | conds: Congestive Heart Failure(CHF) | intr: Hawthorn supplement, Ketones, Placebo Control
+- NCT02087033 | TERMINATED | results=False | NA | Use of Ritmonutra in Subjects Affected by Supraventricular Ectopic Beats Without Structural Heart Disease | conds: Arrhythmia | intr: ritmonutra, placebo
+- NCT03542721 | UNKNOWN | results=False | PHASE4 | Effect of DA-5515 (Circulan® Soft Cap.) in Patients With Chronic Fatigue Symptoms Due to Impaired Blood Circulation | conds: Fatigue Symptom | intr: DA-5515, Placebo of DA-5515
+- NCT00982501 | COMPLETED | results=False | PHASE1 | WS®1442 in Slightly Overweight Subjects | conds: Overweight | intr: WS® 1442 900 mg/d, WS® 1442 1800 mg/d, Nordic walking training 2 x 30 min/week, Nordic walking train
+
+### OpenAlex no-PMID trial-worded - 152 hits, 62 without PMID, 62 new
+- new | 2026 | 10.1055/s-0045-1815430 | conference-paper | Cognitive and emotional benefits of a herbal supplement with Scutellaria baicalensis and Crataegus extracts in stressed adults: a double-blind crossover trial | Planta Medica
+- new | 2026 | 10.66021/pakmcr845 | article | Phytotherapeutic Approaches to Metabolic Disorders: Evidence, Mechanisms, and Translational Potential | Pakistan Journal of Medical & Cardiologi
+- new | 2026 | 10.59565/001c.154710 | article | Chinese Herbal Medicine and Cardiovascular Disease: Insights into the Integration of Ancient Medicines and Modern Approaches | American Journal of Traditional Chinese 
+- new | 2026 | 10.3390/agriculture16030363 | article | Bioactive Compounds in Hawthorn Leaves (Crataegus spp.)—Extraction, Functionality, and Future Perspectives: From Waste to Wealth | Agriculture
+- new | 2026 | 10.47280/revfacagron(luz).v43.n3.x | article | Biofortification of maize grain with zinc oxide nanoparticles and its relationship with agronomic and phytochemical quality | Revista de la Facultad de Agronomía
+- new | 2026 | 10.19136/era.a13nvi.5138 | article | PGPR and vermicompost consortia improve the phytochemical quality of Capsicum annuum jalapeño peppers | Ecosistemas y Recursos Agropecuarios
+- new | 2025 | 10.63075/xw7j6y56 | article | Role of Medicinal Plants in the Management of Metabolic Disorders: Mechanisms, Efficacy, and Therapeutic Prospects | Annual Methodological Archive Research R
+- new | 2025 | 10.59598/me-2305-6053-2025-114-1-137-140 | article | Possibilities of artificial intelligence in the development of antihypertensive herbal preparations | Medicine and ecology
+- new | 2025 | https://openalex.org/W7223482511 | article | Возможности использования искусственного интеллекта при разработке составов антигипертензивных фитопрепаратов | Medicine and ecology
+- new | 2024 | 10.1016/j.aimed.2024.09.007 | article | Effect of crataegus oxyacantha on high blood pressure: A randomized single-blind controlled trial | Advances in Integrative Medicine
+- new | 2024 | 10.32894/kujss.2024.145315.1130 | article | A Cross-Sectional Study to Evaluate the Link between Oxidative Stress and Increased Cardiovascular Risks in Prediabetic Patients | Kirkuk journal of science
+- new | 2024 | https://openalex.org/W7111551239 | dissertation | L'automédication par compléments alimentaires à base de mélatonine : importance de la vigilance et de l’information au patient par le pharmacien d’officine pour éviter les surdosag | HAL
+- new | 2024 | 10.20944/preprints202406.0353.v1 | preprint | Herbal Medicine for Hypertension: A Review of Potential Therapeutics | Preprints.org
+- new | 2024 | 10.12691/ajmsm-12-4-2 | article | Effect of Ginger Drink on the Effectiveness on Glimepiride Drug Used to Treat Diabetes in Rats | American Journal of Medical Sciences and
+- new | 2024 | 10.3390/app14093728 | article | A Review on the Potential Use of Medicinal Plants from the Apiaceae and the Rosaceae Families in Cardiovascular Diseases—Experimental Evidence and Traditional Applications | Applied Sciences
+- new | 2024 | https://openalex.org/W7132091418 | article | Influence of the content of antioxidants (phenols and flavonoids) in sunflower hybrids and the degree of attack by pests | Bulgarian Portal for Open Science
+- new | 2024 | 10.1109/access.2024.3383020 | article | Advancing Tinnitus Therapeutics: GPT-2 Driven Clustering Analysis of Cognitive Behavioral Therapy Sessions and Google T5-Based Predictive Modeling for THI Score Assessment | IEEE Access
+- new | 2023 | 10.29296/25877305-2023-05-14 | article | Cardiotone: pharmacological properties of hawthorn blood-red, possibility of use in patients with cardiovascular diseases | Vrach
+- new | 2023 | 10.1055/s-0043-1770693 | article | Myocardial Fibrosis and Left Bundle Branch Block Complicating an Athlete's Heart Syndrome Treated Homeopathically: A Case Report | Homœopathic Links
+- new | 2023 | 10.16984/saufenbilder.1080420 | article | Investigation of Vitamins, Glutathione and Stress Biomarkers in Blood Serum of Patients with Breast Cancer | Sakarya University Journal of Science
+- new | 2023 | 10.5897/jmpr2022.7265 | article | Valuation study on the extracts of Ilex guayusa Loes. as an antioxidant and anti-aging raw material | Journal of Medicinal Plants Research
+- new | 2023 | 10.22271/j.ento.2023.v11.i1c.9146 | article | Population dynamics of walnut aphid, Chromaphis juglandicola Kaltenbach, 1843 (Hemiptera: Aphididae) on Juglans regia (Walnut) in Kashmir | Journal of Entomology and Zoology Studie
+- new | 2023 | 10.51558/2232-7568.2023.16.1.29 | article | INFLUENCE OF PROCESS PARAMETERS ON HAWTHORN(CRATAEGUS MONOGYNA JACK.)EXTRACTION | Technologica acta
+- new | 2022 | 10.21203/rs.3.rs-1880825/v1 | preprint | Clinical efficacy of traditional Chinese medicinal preparations containing hawthorn on hyperlipidemia: A Meta-Analysis of Randomized Controlled Trials | Research Square
+- new | 2022 | 10.22141/2224-1485.14.3.2021.237285 | article | Peculiarities of development of antihypertensive action of multicomponent herbal drug Carvelis in middle-aged patients with uncomplicated arterial hypertension | HYPERTENSION
+- new | 2022 | https://openalex.org/W7216880299 | article | MEDICINAL PLANTS AND HEALTH: HERBAL EFFECT IN THE TREATMENT OF GENERALIZED ANXIETY DISORDER | CIPEEX
+- new | 2022 | 10.15835/hpm.v29i1-2.14245 | article | Valorization Of Crataegus monogyna In Gluten Free Pastry Manufacturing | Hop and Medicinal Plants
+- new | 2022 | 10.22161/ijeab.71.11 | article | Measuring Regulating Ecosystem Services for the Impacts of Global Climate Change and Air Quality Service in Wageningen Case Area | International Journal of Environment Agr
+- new | 2021 | 10.24193/contrib.bot.55.1 | article | HAWTHORN (CRATAEGUS L.) TAXA AND THEIR HYBRIDS IN NORTH-WESTERN ROMANIA: A RECOMMENDATION FOR NATIONAL IDENTIFICATION KEYS BASED ON MORPHOMETRIC ANALYSES | Contributii Botanice
+- new | 2021 | 10.24193/contrib.bot.55 | paratext |  | Contributii Botanice
+- new | 2021 | 10.33552/ojcam.2021.06.000646 | article | Evidence Based Prescribing of Herbal Medicines for Medical Curricula | Online Journal of Complementary & Altern
+- new | 2021 | 10.11648/j.ijdm.20210701.12 | article | Research Progress on the Mechanism and Preventive Measures of Diabetes Induced Peri-implantitis | International Journal of Dental Medicine
+- new | 2020 | 10.17475/kastorman.801801 | article | Determination of Seed Morphologies and Effect of Pretreatments on Germination of Crataegus monogyna (Jac.) and Crataegus azarolus var. pontica (K. Koch) K. I. Chr Seeds | Kastamonu University Journal of Forestry
+- new | 2020 | 10.52547/fsct.17.105.113 | article | Effect of different pre-treatments on antioxidant and some chemical compounds of extract of hawthorn fruit | Food Science and Technology
+- new | 2019 | https://openalex.org/W7217575204 | dissertation | Using biostimulants on young plants of hawthorn (Crataegus Jacq. em. Lindm) | EMU DSpace
+- new | 2019 | https://openalex.org/W4206879571 | dissertation | The medicinal contraindications and the dangers of self-medication in the asthmatic patient | HAL
+- new | 2019 | https://openalex.org/W2957830086 | article | Removing invasive plant species from Highrock Park in Esquimalt, British Columbia: Helping preserve and restore unique ecosystems through community participation | 
+- new | 2019 | 10.32819/019031 | article | Spatial heterogeneity of the physical properties of the soil in the floodplain of the small river | Agrology
+- new | 2019 | https://openalex.org/W3034980245 | article | Pharma Sci-Are Nutraceuticals Effective in Controlling Essential Hypertension? - Antoine Al-Achi- Campbell University | 
+- new | 2019 | 10.1590/1806-9061-2018-0860 | article | Cardiac Indicators, Serum Antioxidant Activity, and Growth Performance as Affected by Hawthorn Extract (Crateagus oxyacantha) in Pulmonary Hypertensive Chickens | Brazilian Journal of Poultry Science
+- new | 2019 | 10.3390/su11082424 | article | Pakchoi Antioxidant Improvement and Differential Rhizobacterial Community Composition under Organic Fertilization | Sustainability
+- new | 2019 | 10.9775/kvfd.2018.20930 | article | Etlik Piliçlerde Pulmoner Hipertansiyon ve Kalp Yetmezliğini Engellemede Etkili Bir Tıbbi Bitki Türü Olarak Alıç (Crataegus oxyacantha) Flavanoid Ekstraktı | Kafkas Universitesi Veteriner Fakultesi 
+- new | 2018 | 10.15406/oajs.2018.02.00093 | article | Hawthorn flavonoid extract can use as an effective herbal drug to prevent pulmonary hypertension in broiler chickens | Open Access Journal of Science
+- new | 2018 | https://openalex.org/W2955543833 | article | The effect of citric acid on the phenolic compounds, flavonoids and antioxidant capacity of wheat sprouts - Efecto del ácido cítrico sobre los compuestos fenólicos, los flavonoides | LA Referencia (Red Federada de Repositor
+- new | 2018 | 10.5530/pj.2018.4.136 | article | Indonesian Herbal SGLT2 Inhibitor Discovery through Pharmacophore-Based Virtual Screening | Pharmacognosy Journal
+- new | 2017 | https://openalex.org/W4312140173 | dissertation | Passionflower,witch hazel,yarrow,hawthorn & ladys's mentle, five plants without phyto-estrogens to fight against menopause's disorders : Practical study in adispensing pharmacy amo | HAL
+- new | 2016 | 10.70976/j.2096-0964.2016.3.8-14 | article | Meta-analysis about Western Medicine combined with activating blood drugs on modulating blood glucose and lipids in diabetic patients | World Journal of Integrated traditional 
+- new | 2014 | https://openalex.org/W2986084741 | dissertation | L'information sur les effets indésirables de la chimiothérapie anticancéreuse : les besoins du patient et la place du pharmacien | Publications Et Travaux Academiques de L
+- new | 2013 | https://openalex.org/W2486992170 | article | Valutazione della funzionalità dei boschi planiziali relitti della pianura veneta orientale per la conservazione delle specie nemorali erbacee. | ARCA (Università Ca' Foscari Venezia)
+- new | 2012 | 10.1590/s0102-695x2012005000094 | article | The genus Crataegus: chemical and pharmacological perspectives | Revista Brasileira de Farmacognosia
+- new | 2012 | 10.5897/jmpr11.1796 | article | Ethnopharmacological survey of medicinal plants used in the traditional treatment of diabetes mellitus in the North Western and South Western Algeria | Dépôt Institutionnel de lUniversité de T
+- new | 2011 | https://openalex.org/W1606187290 | dissertation | Using citizen science to survey the invertebrate communities on reclaimed collieries | White Rose eTheses Online (University of
+- new | 2010 | 10.24355/dbbs.084-201002081423-0 | article | Analyse der Uferflora der Ilse (Harz/Harzvorland) unter besonderer Berücksichtigung von Nitrophyten und Neophyten / Yvonne Siedentopf & Dietmar Brandes | Digitale Bibliothek Braunschweig (Verbun
+- new | 2009 | 10.1017/s0960258509990201 | article | Small-scale seed-bank patterns in a forest soil | Seed Science Research
+- new | 2007 | https://openalex.org/W330350634 | dissertation | In vitro - Identifizierung fettassimilationsinhibierender Bioaktivität | MACAU: Open Access Repository of Kiel Un
+- new | 1998 | 10.1021/bk-1998-0691.ch017 | conference-paper | Hawthorn (Crataegus): Biological Activity and New Strategies for Quality Control | ACS symposium series
+- new | 1996 | 10.18452/14390 | dissertation | Klinische Wirkung des Crataegus-Extraktes Li 132 bei der Therapie der Herzinsuffizienz im Stadium II der New York Heart Association. Eine randomisierte, placebokontrollierte Doppel | edoc Publication server (Humboldt Univer
+- new | 1995 | 10.1093/amt/20.1.312 | article | Control of Gall-Making Psyllids on Hackberry—A two Year Evaluation, 1993-1994 | Arthropod management tests
+- new | 1995 | 10.1093/amt/20.1.312a | article | Control of Hackberry Nipplegall Maker and Blistergall Psyllid, 1994 | Arthropod management tests
+- new | 1994 | https://openalex.org/W186968484 | conference-abstract | TB156: Woody Landscape Plant Cold-Hardiness Ratings | DigitalCommons@UMaine (University of Mai
+- new | 1992 | https://openalex.org/W7233642376 | article | Vom Samen bis zur Pflanze. Ein Erfahrungsbericht aus dem Forstgarten | DORA WSL (Swiss Federal Institute for Fo
+- new | 1992 | https://openalex.org/W7233682564 | article | Dal seme alla pianta. Esperienze raccolte in vivaio | DORA WSL (Swiss Federal Institute for Fo

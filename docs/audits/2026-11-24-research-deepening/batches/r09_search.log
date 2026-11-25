@@ -1,0 +1,45 @@
+   cnicus-benedictus HT 0
+   cnicus-benedictus SR 0
+   cnicus-benedictus SAFE 6
+   cnicus-benedictus OBS 0
+   cnicus-benedictus REV 4
+cnicus-benedictus done
+   coffea-arabica HT 1062
+   coffea-arabica SR 448
+   coffea-arabica SAFE 957
+   coffea-arabica OBS 1346
+   coffea-arabica REV 805
+coffea-arabica done
+   cordyceps-militaris HT 16
+   cordyceps-militaris SR 6
+   cordyceps-militaris SAFE 126
+   cordyceps-militaris OBS 2
+   cordyceps-militaris REV 85
+cordyceps-militaris done
+   coriandrum-sativum HT 53
+   coriandrum-sativum SR 18
+   coriandrum-sativum SAFE 163
+   coriandrum-sativum OBS 21
+   coriandrum-sativum REV 89
+coriandrum-sativum done
+   crataegus-laevigata HT 70
+   crataegus-laevigata SR 8
+   crataegus-laevigata SAFE 134
+   crataegus-laevigata OBS 8
+   crataegus-laevigata REV 67
+crataegus-laevigata done
+
+PUBMED-DONE
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Cnicus+benedictus%22+OR+TITLE%3A%22Bless HTTP Error 500: Internal Server Error
+cnicus-benedictus done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Coffea+arabica%22+OR+TITLE%3A%22Coffee+% The read operation timed out
+coffea-arabica done
+cordyceps-militaris done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Coriandrum+sativum%22+AND+%28TITLE%3Apatients+OR+TITLE% The read operation timed out
+coriandrum-sativum done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Crataegus+laevigata%22+AND+%28TITLE%3Arandomized+OR+TIT The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Crataegus+laevigata%22+AND+%28TITLE%3Arandomized+OR+TIT The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Crataegus+laevigata%22+AND+%28TITLE%3Apatients+OR+TITLE HTTP Error 500: Internal Server Error
+crataegus-laevigata done
+# Research-deepening batch 9 - Europe PMC
+SEARCH-DONE

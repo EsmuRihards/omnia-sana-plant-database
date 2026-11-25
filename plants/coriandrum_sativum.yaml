@@ -219,6 +219,12 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0151
+- condition: migraine
+  note: A coriander fruit syrup reduced the frequency, duration and severity of migraine attacks more
+    than placebo in a triple-blind randomized trial
+  reference_ids:
+  - REF-5278
+  status: verified
 contraindications:
 - note: '• Food use is generally safe for most people (leaf in salads, seed as spice) (Burdock & Carabin,
     2009). • Allergy is the main “big warning.” Coriander can trigger reactions ranging from mild oral
@@ -236,6 +242,8 @@ contraindications:
   reference_ids:
   - REF-0151
   - REF-0219
+  - REF-5279
+  - REF-5280
   status: verified
 - note: 'Duke (2002) provides clinical evidence (score 2) for coriander''s role as an aperitif (appetite
     stimulant) and digestive tonic, consistent with Commission E approval. It demonstrates antispasmodic,
@@ -247,6 +255,13 @@ contraindications:
   - REF-0151
   - REF-0219
   - REF-0063
+  status: verified
+- note: 'Contamination: a woman developed lead poisoning with anaemia likely linked to imported coriander
+    powder; coriander powder from the same source contained very high lead levels, suggesting adulteration
+    (case report). Buy spices from reputable sources.'
+  severity: caution
+  reference_ids:
+  - REF-5281
   status: verified
 references:
 - REF-0779
@@ -360,4 +375,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3527 (coriander not significantly better than vehicle; only Aloe was) recorded as no-effect
   for inflammation; skin-irritation (inferred only) dropped as contradicted (inv. 11). REF-3527
   also covers chamomile, lemon balm, witch hazel and tea tree - to be wired in their batches.
-  Carmint (3-herb product) not used.'
+  Carmint (3-herb product) not used.
+  | 2026-11-25: symptom-source audit research-deepening batch 9 - Searched PubMed (Coriandrum
+  sativum / coriander / cilantro tiab), Europe PMC, ClinicalTrials.gov (2) and OpenAlex. Added:
+  NEW migraine pair (2016 triple-blind placebo RCT of coriander fruit syrup); 2025
+  placebo-controlled trial of coriander seed powder in type 2 diabetes (randomisation not stated,
+  so not used for a new blood-sugar pair) and a coriander-beer anaphylaxis case to the existing
+  caution; lead-poisoning case from adulterated imported coriander powder (new caution).
+  Considered, not added: sensitive-skin seed-oil study (abstract gives no comparison with
+  placebo), diaper dermatitis (non-randomised), garlic + coriander and other combinations,
+  periodontitis mouthwash vs chlorhexidine, insulin autoimmune syndrome case (attributed to
+  omeprazole).'

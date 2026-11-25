@@ -5019,6 +5019,19 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0109",
+      "REF-2379",
+      "REF-5273",
+      "REF-5274"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 7,
@@ -5041,6 +5054,17 @@
      ]
     },
     {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0178",
+      "REF-5272"
+     ]
+    },
+    {
      "condition": "liver-support",
      "label": "Liver support",
      "evidence": 7,
@@ -5051,24 +5075,13 @@
      ]
     },
     {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 2,
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0109",
-      "REF-2379"
-     ]
-    },
-    {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0178"
+      "REF-5271"
      ]
     },
     {
@@ -5438,6 +5451,16 @@
      "references": [
       "REF-0151",
       "REF-3526"
+     ]
+    },
+    {
+     "condition": "migraine",
+     "label": "Migraine",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5278"
      ]
     },
     {
@@ -11313,22 +11336,24 @@
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 7,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-2442",
-      "REF-0082"
+      "REF-0082",
+      "REF-5284"
      ]
     },
     {
      "condition": "high-blood-pressure",
      "label": "High blood pressure",
-     "evidence": 5,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-3516"
+      "REF-3516",
+      "REF-5282"
      ]
     },
     {

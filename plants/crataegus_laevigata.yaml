@@ -164,6 +164,7 @@ indications:
   reference_ids:
   - REF-2442
   - REF-0082
+  - REF-5284
   status: verified
   null_result_ids:
   - REF-3514
@@ -180,10 +181,15 @@ indications:
   - REF-0108
 - condition: high-blood-pressure
   note: Hawthorn (C. laevigata) extract lowered diastolic blood pressure in a randomized trial in people
-    with type 2 diabetes on medication
+    with type 2 diabetes taking blood-pressure medicines; a 2025 meta-analysis of placebo-controlled trials
+    of hawthorn (Crataegus spp.) found a clinically significant fall in systolic pressure, though a small
+    pilot trial found no clear effect
   reference_ids:
   - REF-3516
+  - REF-5282
   status: verified
+  null_result_ids:
+  - REF-5283
 contraindications:
 - note: Generally safe and well tolerated. High doses may cause low blood pressure and sedation. May interact
     with cardiac glycosides (digoxin) and antihypertensive drugs. Consult a physician before using with
@@ -192,6 +198,8 @@ contraindications:
   reference_ids:
   - REF-0108
   - REF-2442
+  - REF-5285
+  - REF-5286
   status: verified
 - note: Duke (2002) rates hawthorn (Crataegus spp., including C. laevigata) as a triple-plus herb (+++)
     with Commission E approval (score 2-3) for decreasing cardiac output in functional Stage II heart
@@ -290,4 +298,19 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   owner rule). Cochrane HF review REF-2442 removed from
   anti-inflammatory/antioxidant/antispasmodic/sedative actions (not evidence for them); arrhythmia
   rat studies REF-1785/REF-1786 removed from the antispasmodic action (REF-1786 found Crataegus
-  aggravated arrhythmias; kept in references).'
+  aggravated arrhythmias; kept in references).
+  | 2026-11-25: symptom-source audit research-deepening batch 9 - Searched PubMed (Crataegus
+  laevigata / C. oxyacantha / midland hawthorn tiab; hawthorn, Crataegus, WS 1442 ti), Europe PMC,
+  ClinicalTrials.gov (38) and OpenAlex. Crataegus spp. extracts follow the existing attribution
+  (EU monograph covers C. laevigata). Added: 2025 MA of placebo RCTs (SBP -6.7 mmHg) to
+  high-blood-pressure, with the 2002 pilot RCT (no clear difference) as no-effect; 2003
+  fresh-berry extract RCT in NYHA II heart failure (C. oxyacantha) to cardiovascular-support; the
+  2006 adverse-event SR (well tolerated, no reported interactions) and a 2018 placebo crossover
+  ECG RCT (no QT change) to the safety note. Dead end: C. laevigata + statin RCT 2011 (LDL trend,
+  no significant difference from placebo; no cholesterol pair exists). Not added: Pittler 2003 MA
+  (superseded by the Cochrane review REF-2442), secondary HERB CHF and SPICE reports, C.
+  pinnatifida fruit-drink trials (different species), Crataegus extract mixtures and Scutellaria /
+  magnesium / chromium combinations, a homeopathic Crataegus series, the platelet letter (no
+  abstract), C. mexicana root intoxication (different species).'
+synonyms:
+- Crataegus oxyacantha

@@ -16235,16 +16235,17 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "Caffeine, coffee's signature compound, improves alertness (MedlinePlus; compound evidence)",
+     "note": "Caffeine, coffee's signature compound, improves alertness (MedlinePlus; compound evidence); moderate coffee drinking (about 2.5 cups a day) was linked to the lowest risk of Alzheimer's disease in a dose-response meta-analysis of observational studies",
      "reference_ids": [
-      "REF-0178"
+      "REF-0178",
+      "REF-5272"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0109",
       "REF-0205"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Cognitive function"
     },
     {
@@ -16263,11 +16264,13 @@
      "condition": "metabolic-support",
      "reference_ids": [
       "REF-0109",
-      "REF-2379"
+      "REF-2379",
+      "REF-5273",
+      "REF-5274"
      ],
      "status": "verified",
-     "note": "Coffee drinking has been linked to lower type 2 diabetes risk (review); coffee-leaf extracts lowered blood glucose in lab studies",
-     "evidence": 2,
+     "note": "Green coffee bean extract (about 500 mg chlorogenic acid a day) lowered body weight, and green coffee lowered fasting blood sugar, insulin and triglycerides, in meta-analyses of randomized trials; coffee drinking has been linked to lower type 2 diabetes risk (review); coffee-leaf extracts lowered blood glucose in lab studies",
+     "evidence": 8,
      "label": "Metabolic support"
     },
     {
@@ -16289,6 +16292,16 @@
      "status": "verified",
      "evidence": 7,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "depression",
+     "note": "Drinking coffee was linked to a lower risk of depression in a meta-analysis of observational studies (an association, not proof that coffee prevents it)",
+     "reference_ids": [
+      "REF-5271"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Low mood / depression"
     }
    ],
    "contraindications": [
@@ -16304,7 +16317,8 @@
       "REF-0135",
       "REF-0178",
       "REF-0205",
-      "REF-0217"
+      "REF-0217",
+      "REF-5275"
      ],
      "status": "verified"
     },
@@ -16322,6 +16336,14 @@
       "REF-0205",
       "REF-0217",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "An umbrella review of meta-analyses found coffee generally safe within usual intakes, with the largest risk reductions at 3 to 4 cups a day; this does not extend to pregnancy, and women at higher risk of fracture may need to limit it.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5270"
      ],
      "status": "verified"
     }
@@ -16347,6 +16369,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "drug_class_interactions": [],
    "common_slug": "coffee-arabica-robusta"
   },
   {
@@ -16902,6 +16925,16 @@
      ],
      "evidence": 1,
      "label": "Wounds"
+    },
+    {
+     "condition": "migraine",
+     "note": "A coriander fruit syrup reduced the frequency, duration and severity of migraine attacks more than placebo in a triple-blind randomized trial",
+     "reference_ids": [
+      "REF-5278"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Migraine"
     }
    ],
    "contraindications": [
@@ -16910,7 +16943,9 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0151",
-      "REF-0219"
+      "REF-0219",
+      "REF-5279",
+      "REF-5280"
      ],
      "status": "verified"
     },
@@ -16921,6 +16956,14 @@
       "REF-0151",
       "REF-0219",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Contamination: a woman developed lead poisoning with anaemia likely linked to imported coriander powder; coriander powder from the same source contained very high lead levels, suggesting adulteration (case report). Buy spices from reputable sources.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5281"
      ],
      "status": "verified"
     }
@@ -17193,7 +17236,8 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-2442",
-      "REF-0082"
+      "REF-0082",
+      "REF-5284"
      ],
      "status": "verified",
      "null_result_ids": [
@@ -17201,7 +17245,7 @@
       "REF-3515"
      ],
      "note": "Hawthorn extract improved symptoms and exercise capacity as add-on treatment for chronic heart failure (Cochrane review); two large trials (SPICE, HERB CHF) found no benefit on their main outcomes; traditionally used for nervous heart complaints (EU herbal monograph)",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Cardiovascular / heart health"
     },
     {
@@ -17219,12 +17263,16 @@
     },
     {
      "condition": "high-blood-pressure",
-     "note": "Hawthorn (C. laevigata) extract lowered diastolic blood pressure in a randomized trial in people with type 2 diabetes on medication",
+     "note": "Hawthorn (C. laevigata) extract lowered diastolic blood pressure in a randomized trial in people with type 2 diabetes taking blood-pressure medicines; a 2025 meta-analysis of placebo-controlled trials of hawthorn (Crataegus spp.) found a clinically significant fall in systolic pressure, though a small pilot trial found no clear effect",
      "reference_ids": [
-      "REF-3516"
+      "REF-3516",
+      "REF-5282"
      ],
      "status": "verified",
-     "evidence": 5,
+     "null_result_ids": [
+      "REF-5283"
+     ],
+     "evidence": 8,
      "label": "High blood pressure"
     }
    ],
@@ -17234,7 +17282,9 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0108",
-      "REF-2442"
+      "REF-2442",
+      "REF-5285",
+      "REF-5286"
      ],
      "status": "verified"
     },
@@ -17309,6 +17359,9 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
+   "synonyms": [
+    "Crataegus oxyacantha"
+   ],
    "common_slug": "midland-hawthorn"
   },
   {

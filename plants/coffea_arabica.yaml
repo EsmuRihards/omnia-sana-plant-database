@@ -282,7 +282,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   hypertension MA) because the record''s own caution says excess caffeine raises blood pressure
   and people with hypertension should limit it (inv. 12d); gout, gallstone, fracture, kidney-stone
   and cancer-risk MAs (no vocab condition or risk-only); ergogenic MAs; Mendelian-randomisation
-  studies.'
+  studies.
+  | 2026-11-25: owner approved the research-deepening draft herb-drug interaction(s):
+  thyroid-medicines, antibiotics, antidepressants-serotonergic.'
 drug_class_interactions:
 - drug_class: thyroid-medicines
   severity: caution

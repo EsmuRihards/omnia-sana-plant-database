@@ -16369,7 +16369,41 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-14",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "thyroid-medicines",
+     "severity": "caution",
+     "mechanism": "Swallowing levothyroxine with coffee or espresso cut its absorption by roughly a quarter to a third in patients and volunteers; drinking the coffee 60 minutes after the tablet avoided the effect (clinical study with case series).",
+     "reference_ids": [
+      "REF-5276"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-25"
+    },
+    {
+     "drug_class": "antibiotics",
+     "severity": "caution",
+     "mechanism": "Some quinolone antibiotics, such as enoxacin, strongly block CYP1A2, the enzyme that clears caffeine, so caffeine from coffee can build up and cause side effects (review).",
+     "reference_ids": [
+      "REF-5277"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-25"
+    },
+    {
+     "drug_class": "antidepressants-serotonergic",
+     "severity": "caution",
+     "mechanism": "The antidepressant fluvoxamine strongly blocks CYP1A2, the enzyme that clears caffeine, so caffeine from coffee can build up (review).",
+     "reference_ids": [
+      "REF-5277"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-25"
+    }
+   ],
    "common_slug": "coffee-arabica-robusta"
   },
   {

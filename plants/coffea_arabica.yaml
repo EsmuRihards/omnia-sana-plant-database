@@ -291,18 +291,24 @@ drug_class_interactions:
     effect (clinical study with case series).
   reference_ids:
   - REF-5276
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-25'
 - drug_class: antibiotics
   severity: caution
   mechanism: Some quinolone antibiotics, such as enoxacin, strongly block CYP1A2, the enzyme that clears
     caffeine, so caffeine from coffee can build up and cause side effects (review).
   reference_ids:
   - REF-5277
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-25'
 - drug_class: antidepressants-serotonergic
   severity: caution
   mechanism: The antidepressant fluvoxamine strongly blocks CYP1A2, the enzyme that clears caffeine, so
     caffeine from coffee can build up (review).
   reference_ids:
   - REF-5277
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-25'
